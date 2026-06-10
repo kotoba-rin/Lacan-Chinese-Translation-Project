@@ -152,7 +152,13 @@ module.exports = class LacanTranslationHelper extends Plugin {
       this.startupSyncTimer = window.setTimeout(() => {
         this.startupSyncTimer = null;
         this.runWithNotice(
-          () => this.syncConfiguredRepositories({ notify: true }),
+          async () => {
+            if (this.settings.mode === "reader" && !this.confirmReaderAutoSyncRun()) {
+              new Notice("已跳过 Reader 自动同步。");
+              return;
+            }
+            await this.syncConfiguredRepositories({ notify: true });
+          },
           "Git 自动同步失败"
         );
       }, 1500);
@@ -485,22 +491,23 @@ module.exports = class LacanTranslationHelper extends Plugin {
       useGithubProxy: true,
       remoteUrl: url,
     });
-    await this.prepareReaderOverwrite();
-    await this.execGit(["reset", "--hard", "FETCH_HEAD"]);
+    const status = await this.gitStatusPorcelain();
+    if (!this.confirmReaderOverwrite(status)) {
+      throw new Error("已取消 Reader 同步，当前项目未被覆盖。");
+    }
+
+    await this.discardReaderWorkTree();
     await this.execGit(["checkout", "-B", branch, "FETCH_HEAD"]);
+    await this.execGit(["reset", "--hard", "FETCH_HEAD"]);
+    await this.execGit(["clean", "-fd"]);
   }
 
-  async prepareReaderOverwrite() {
-    const status = await this.gitStatusPorcelain();
-    if (!status.trim()) {
-      return;
+  async discardReaderWorkTree() {
+    if (await this.gitHasHead()) {
+      await this.execGit(["reset", "--hard"]);
     }
 
-    if (!this.confirmReaderOverwrite(status)) {
-      throw new Error("已取消 Reader 同步，当前本地改动未被覆盖。");
-    }
-
-    await this.backupDirtyWorkTreeBeforeReaderSync(status);
+    await this.execGit(["clean", "-fd"]);
   }
 
   async gitStatusPorcelain() {
@@ -514,37 +521,14 @@ module.exports = class LacanTranslationHelper extends Plugin {
     return window.confirm(
       [
         `Reader 模式会用主仓库内容覆盖当前本地文件。`,
-        `检测到 ${changedCount} 个本地改动或未跟踪文件。`,
-        `继续同步前插件会先创建 Git 备份；取消则不会覆盖任何文件。`,
+        changedCount > 0
+          ? `检测到 ${changedCount} 个本地改动或未跟踪文件。`
+          : `当前没有检测到本地改动，但同步仍会把项目直接对齐到远端。`,
+        `确认后会丢弃本地改动，并删除未被 Git 跟踪的非忽略文件。`,
+        `如需保留本地编辑内容，请取消同步并切换到 Editer 模式或先手动备份。`,
         `是否继续？`,
       ].join("\n")
     );
-  }
-
-  async backupDirtyWorkTreeBeforeReaderSync() {
-    if (await this.gitHasHead()) {
-      const message = `Lacan Translation Helper reader sync backup ${new Date().toISOString()}`;
-      await this.execGit(["stash", "push", "--include-untracked", "-m", message]);
-      new Notice("Reader 同步前已将本地改动备份到 Git stash。");
-      return;
-    }
-
-    const branch = `lacan-backup/reader-sync-${this.timestampForBranch()}`;
-    await this.execGit(["checkout", "--orphan", branch]);
-    await this.execGit(["add", "-A"]);
-    const staged = await this.execGit(["diff", "--cached", "--name-only"]);
-    if (staged.trim()) {
-      await this.execGit([
-        "-c",
-        "user.name=Lacan Translation Helper",
-        "-c",
-        "user.email=lacan-translation-helper@local",
-        "commit",
-        "-m",
-        "Backup before reader sync",
-      ]);
-      new Notice(`Reader 同步前已创建本地备份分支：${branch}`);
-    }
   }
 
   async gitHasHead() {
@@ -556,12 +540,26 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
   }
 
-  timestampForBranch() {
-    return new Date()
-      .toISOString()
-      .replace(/[-:]/g, "")
-      .replace(/\..+$/, "")
-      .replace("T", "-");
+  confirmReaderAutoSyncRun() {
+    return window.confirm(
+      [
+        `Reader 模式的启动自动同步会在打开 Obsidian 后更新当前项目。`,
+        `同步开始后仍会显示覆盖确认框；确认后本地项目会直接对齐到主仓库。`,
+        `如需保留本地编辑内容，请取消本次自动同步，并在设置中关闭自动同步或切换到 Editer 模式。`,
+        `是否继续本次自动同步？`,
+      ].join("\n")
+    );
+  }
+
+  confirmReaderAutoSyncEnable() {
+    return window.confirm(
+      [
+        `Reader 模式下，启动时自动同步默认应保持关闭。`,
+        `开启后，Obsidian 启动时会尝试同步主仓库，并可能覆盖当前项目。`,
+        `如果你会在本地编辑译文，请使用 Editer 模式或保持自动同步关闭。`,
+        `是否仍要开启 Reader 自动同步？`,
+      ].join("\n")
+    );
   }
 
   async ensureGitRepositoryInitialized({ notify = false } = {}) {
@@ -1963,6 +1961,14 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
           .setValue(this.plugin.settings.mode)
           .onChange(async (value) => {
             this.plugin.settings.mode = value;
+            if (
+              value === "reader"
+              && this.plugin.settings.autoSyncOnStartup
+              && !this.plugin.confirmReaderAutoSyncEnable()
+            ) {
+              this.plugin.settings.autoSyncOnStartup = false;
+              new Notice("已关闭 Reader 模式启动时自动同步。");
+            }
             await this.plugin.saveSettings();
             this.plugin.scheduleComparisonRender();
             this.display();
@@ -1971,7 +1977,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
 
     const modeHelpEl = containerEl.createDiv("lacan-mode-help setting-item-description");
     modeHelpEl.createEl("p", {
-      text: "Reader：同步 GitHub 主仓库的最新更新到本地当前文件，适合只阅读或查看译文的人。",
+      text: "Reader：同步 GitHub 主仓库的最新更新到本地当前项目，适合只阅读或查看译文的人。",
     });
     modeHelpEl.createEl("p", {
       text: "Editer：同步主仓库时只下载为对照版本，不覆盖你正在编辑的当前文件，适合参与翻译的人。",
@@ -1982,7 +1988,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("Lacan-Chinese-Translation-Project 仓库地址")
-      .setDesc("填写主项目在 GitHub 上的地址。Reader 会更新当前本地文件；Editer 会下载为主项目对照版本。")
+      .setDesc("填写主项目在 GitHub 上的地址。Reader 会更新当前本地项目；Editer 会下载为主项目对照版本。")
       .addText((text) => {
         text
           .setPlaceholder(DEFAULT_REPOSITORY_URL)
@@ -2046,11 +2052,21 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("启动时自动同步")
-      .setDesc("打开 Obsidian 时自动同步主项目和已启用 fork。Reader 会更新当前文件；Editer 只更新主项目对照版本。")
+      .setDesc("打开 Obsidian 时自动同步主项目和已启用 fork。Reader 默认建议关闭；Editer 只更新主项目对照版本。")
       .addToggle((toggle) => {
         toggle
           .setValue(Boolean(this.plugin.settings.autoSyncOnStartup))
           .onChange(async (value) => {
+            if (
+              value
+              && this.plugin.settings.mode === "reader"
+              && !this.plugin.confirmReaderAutoSyncEnable()
+            ) {
+              this.plugin.settings.autoSyncOnStartup = false;
+              await this.plugin.saveSettings();
+              this.display();
+              return;
+            }
             this.plugin.settings.autoSyncOnStartup = value;
             await this.plugin.saveSettings();
           });
