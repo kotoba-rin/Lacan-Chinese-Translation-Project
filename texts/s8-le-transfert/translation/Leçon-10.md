@@ -1,7 +1,7 @@
 ---
-translation_progress: 78.75
-translation_progress_label: 78.75%
-untranslated_count: 17
+translation_progress: 80
+translation_progress_label: 80.00%
+untranslated_count: 16
 max_segment_id: 80
 ---
 # Leçon 10 | 01 Février 1961
@@ -455,7 +455,10 @@ _部分对象_ 的这一功能，是分析研究最伟大的发现之一。在�
 
 <!-- id: s8-10-0064 -->
 
-<!-- untranslated -->
+因为，如果我们悬置这根缆绳、这个转折点、这个爱情关系的重心与挂靠点，如果我们将其凸显出来，并且如果在凸显它时，我们不借由将它区分开来而进行凸显，那么我们便真的不可能说出任何有关爱情关系的东西，除非那只是一种障眼法（escamotage）。     
+正是为了这一点，为了这种必然性：去强调欲望的对象相关项（corrélatif objet），就其作为 _那个_ 对象而言——它**不是**等价物的对象，不是物品的互易感觉（transitivisme）的对象，也不是关于贪欲的交易的对象，而是作为欲望本身之瞄准（visée）的这个“某物”，它在所有对象中突出了这样一个对象，即它与其他一切对象皆无等价性可言。   
+
+> 等价交换的对象有一个特点就是可以被量化，可以被量化意味着它不是唯一的。 
 
 <!-- id: s8-10-0065 -->
 
