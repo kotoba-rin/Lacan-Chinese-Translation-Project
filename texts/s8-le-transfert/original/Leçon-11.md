@@ -138,9 +138,8 @@ SOCRATE lui répond :
 
 <!-- id: s8-11-0034 -->
 
-> pour se montrer ce qu’il s’est déjà montré être, je dirai, presque *officiellement* dans toutes les sorties d’ALCIBIADE,
->
-> pour que tout le monde sache qu’ALCIBIADE autrement dit a été son *premier amour* ...*ce que* SOCRATE *refuse* de montrer à ALCIBIADE c’est quelque chose qui prend un autre sens, qui serait proprement *la métaphore de l’amour* en tant que SOCRATE s’admettrait comme aimé et je dirai plus, s’admettrait comme aimé inconsciemment.
+pour se montrer ce qu’il s’est déjà montré être, je dirai, presque *officiellement* dans toutes les sorties d’ALCIBIADE,
+pour que tout le monde sache qu’ALCIBIADE autrement dit a été son *premier amour* ...*ce que* SOCRATE *refuse* de montrer à ALCIBIADE c’est quelque chose qui prend un autre sens, qui serait proprement *la métaphore de l’amour* en tant que SOCRATE s’admettrait comme aimé et je dirai plus, s’admettrait comme aimé inconsciemment.
 
 <!-- id: s8-11-0035 -->
 
