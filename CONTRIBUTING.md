@@ -12,8 +12,10 @@
 - `texts/`：翻译协作源文件目录，长期维护原文、译文、术语表和原文关联图片。
 - `texts/<seminar>/original/Leçon-xx.md`：按课时拆分的原文 Markdown，段落使用稳定 ID。
 - `texts/<seminar>/translation/Leçon-xx.md`：对应课时的译文 Markdown，段落 ID 应与原文保持对应。
+- `texts/<seminar>/notes/`：该期研讨班的阅读笔记和补充材料目录，每个材料单独放在一个 Markdown 文件中。
 - `texts/<seminar>/original/assets/`：原文引用的图片资源。
 - `texts/<seminar>/translation/assets/`：译文额外引用的图片资源。
+- `texts/<seminar>/notes/assets/`：阅读笔记额外引用的图片资源。
 - `texts/<seminar>/glossary.md`：该期研讨班的独立术语表。
 - `texts/index.md`：mdBook 首页源文件，构建时生成到 `build/index.md`。
 - `build/`：mdBook 临时生成展示层，由 `texts/` 和 `scripts/build_from_texts.py` 生成，不提交到仓库。
@@ -31,6 +33,7 @@
 - 译文放在 `texts/<seminar>/translation/`。
 - 原文和译文都按课时拆分为 `Leçon-xx.md`。
 - 段落使用稳定 ID 对齐，例如同一段原文和译文都保留 `s8-01-0001` 这样的 ID。
+- 阅读笔记和补充材料放在 `texts/<seminar>/notes/`，通过 Obsidian 双链或分段 ID 与译文互相引用。
 - 每期研讨班的术语表维护在 `texts/<seminar>/glossary.md`。
 
 `build/` 只作为 mdBook 的临时发布入口。构建发布页面时，脚本会把同一课的原文和译文按段落 ID 合成为 `build/<seminar>/Leçon-xx.md`。这样可以在 GitHub Pages 上同时打包原文和译文，并通过页面脚本提供“显示原文 / 隐藏原文”的阅读开关。
@@ -123,8 +126,10 @@ mdbook serve --open
 - `texts/index.md`：可选。存在时会生成 `build/index.md`，作为 mdBook 首页。
 - `texts/<seminar>/original/Leçon-xx.md`：必需。每个 `<!-- id: ... -->` 标记开始一个原文段落，直到下一个 ID 标记为止。
 - `texts/<seminar>/translation/Leçon-xx.md`：可选。文件不存在时，该课原文仍会生成，译文位置显示 `[无对应译文]`。
+- `texts/<seminar>/notes/*.md`：可选。每个文件生成一个阅读笔记页面。笔记中的分段 ID 会生成到对应译文段落的反向链接。
 - `texts/<seminar>/original/assets/`：可选。原文图片会复制到 `build/<seminar>/assets/`。
 - `texts/<seminar>/translation/assets/`：可选。译文额外图片也会复制到 `build/<seminar>/assets/`。
+- `texts/<seminar>/notes/assets/`：可选。阅读笔记图片会复制到 `build/<seminar>/notes/assets/`。
 - `texts/<seminar>/glossary.md`：可选。存在时会复制为 `build/<seminar>/glossary.md`。
 - `texts/<seminar>/original/README.md`：可选。存在时脚本会优先用其中的标题生成 `build/<seminar>/README.md`。
 
@@ -187,6 +192,37 @@ mdbook serve --open
 ```
 
 页面会显示 `[未译]`。如果完全没有对应译文文件或译文 ID，页面会显示 `[无对应译文]`。
+
+构建前会先检查每个原文、译文和阅读笔记文件中的 `<!-- id: ... -->` 锚点声明。同一个文件里如果出现重复 `id`，脚本会直接报错退出，并输出重复 ID 所在文件和行号。`<!-- ids: ... -->` 合并声明不算新的锚点。
+
+## 阅读笔记和双向链接
+
+每期研讨班可以在 `texts/<seminar>/notes/` 下维护阅读笔记和补充材料。每个材料单独一个 Markdown 文件，文件名建议使用可读 slug，例如 `platon-banquet.md` 或 `transfert-definition.md`。
+
+阅读笔记可以用 frontmatter 标明关联分段：
+
+```markdown
+---
+title: 柏拉图《会饮》背景
+segments:
+  - s8-01-0005
+  - s8-01-0006
+---
+
+# 柏拉图《会饮》背景
+
+这里讨论 [[s8-01-0005|第一处相关段落]]。
+```
+
+译文中可以通过 Obsidian 双链引入笔记：
+
+```markdown
+<!-- id: s8-01-0005 -->
+
+这里是译文正文。参见 [[notes/platon-banquet|柏拉图《会饮》背景]]。
+```
+
+构建时，`[[notes/platon-banquet|柏拉图《会饮》背景]]` 会转换成指向阅读笔记页面的 mdBook 链接；`[[s8-01-0005|第一处相关段落]]` 会转换成指向对应课文段落锚点的链接。脚本也会根据阅读笔记中的分段 ID，在对应译文段落旁生成“相关阅读笔记”反向入口。
 
 ## 注释和建言
 

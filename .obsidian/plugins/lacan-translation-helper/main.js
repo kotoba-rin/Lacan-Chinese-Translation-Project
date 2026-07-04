@@ -1,5 +1,16 @@
 const Obsidian = require("obsidian");
 const { Component, Notice, Plugin, PluginSettingTab, Setting, TFile, normalizePath } = Obsidian;
+let Decoration = null;
+let ViewPlugin = null;
+let WidgetTypeBase = class {};
+try {
+  const CodeMirrorView = require("@codemirror/view");
+  Decoration = CodeMirrorView.Decoration;
+  ViewPlugin = CodeMirrorView.ViewPlugin;
+  WidgetTypeBase = CodeMirrorView.WidgetType || WidgetTypeBase;
+} catch (error) {
+  console.warn("Lacan Translation Helper: CodeMirror editor widgets are unavailable.", error);
+}
 const ObsidianBasesView = Obsidian.BasesView || class {};
 const MarkdownRenderComponent = Component || class {
   load() {}
@@ -9,9 +20,12 @@ const MarkdownRenderComponent = Component || class {
 const LESSON_FILE_RE = /^(?:Leçon|Lecon|lesson)-(\d+)\.md$/i;
 const ORIGINAL_PATH_RE = /^texts\/([^/]+)\/original\/((?:Leçon|Lecon|lesson)-\d+\.md)$/i;
 const TRANSLATION_PATH_RE = /^texts\/([^/]+)\/translation\/((?:Leçon|Lecon|lesson)-\d+\.md)$/i;
+const READING_NOTE_PATH_RE = /^texts\/([^/]+)\/notes\/(.+\.md)$/i;
+const SEGMENT_ID_ANCHOR_LINE_RE = /<!--\s*id\s*:?\s*(s\d+[a-z]?-\d+-\d+)\s*-->/i;
 const SEGMENT_ID_COMMENT_RE = /<!--\s*ids?\b\s*:?\s*([\s\S]*?)-->/gi;
 const SEGMENT_ID_COMMENT_TEST_RE = /<!--\s*ids?\b\s*:?\s*[\s\S]*?\bs\d+b?-\d+-\d+\b[\s\S]*?-->/i;
 const SEGMENT_ID_TOKEN_RE = /\bs\d+b?-\d+-\d+\b/gi;
+const SEGMENT_ID_LINK_RE = /^s(\d+[a-z]?)-(\d+)-\d+$/i;
 const SEGMENT_ID_RE = /\bs\d+b?-\d+-(\d+)\b/gi;
 const SEMINAR_RE = /<!--\s*seminar:\s*([^>\s]+)\s*-->/i;
 const LESSON_RE = /<!--\s*lesson:\s*([^>\s]+)\s*-->/i;
@@ -33,6 +47,41 @@ const DEFAULT_SETTINGS = {
   autoSyncOnStartup: false,
   forks: [],
 };
+
+class ReadingNoteButtonWidget extends WidgetTypeBase {
+  constructor(plugin, sourcePath, segmentId) {
+    super();
+    this.plugin = plugin;
+    this.sourcePath = sourcePath;
+    this.segmentId = segmentId;
+  }
+
+  eq(other) {
+    return other.sourcePath === this.sourcePath && other.segmentId === this.segmentId;
+  }
+
+  toDOM() {
+    const button = document.createElement("button");
+    button.className = "lacan-segment-note-button";
+    button.type = "button";
+    button.textContent = "+创建笔记";
+    button.title = `为 ${this.segmentId} 创建阅读笔记`;
+    button.setAttribute("aria-label", `为 ${this.segmentId} 创建阅读笔记`);
+    button.addEventListener("click", (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      this.plugin.runWithNotice(
+        () => this.plugin.createReadingNoteForSegment(this.sourcePath, this.segmentId),
+        "创建阅读笔记失败"
+      );
+    });
+    return button;
+  }
+
+  ignoreEvent() {
+    return false;
+  }
+}
 
 module.exports = class LacanTranslationHelper extends Plugin {
   async onload() {
@@ -57,8 +106,38 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.createdFileTimers = new Set();
     this.progressWritePaths = new Set();
     this.progressWriteSuppressTimers = new Map();
+    this.segmentPreviewCache = new Map();
+    this.segmentPreviewEl = null;
+    this.segmentPreviewHideTimer = null;
+    this.segmentPreviewRenderToken = 0;
 
     this.addSettingTab(new LacanTranslationHelperSettingTab(this.app, this));
+
+    this.registerDomEvent(document, "click", (event) => {
+      this.handleSegmentInternalLinkClick(event);
+    }, { capture: true });
+    this.registerDomEvent(document, "mouseover", (event) => {
+      this.handleSegmentLinkPreviewEnter(event);
+    }, { capture: true });
+    this.registerDomEvent(document, "mouseout", (event) => {
+      this.handleSegmentLinkPreviewLeave(event);
+    }, { capture: true });
+    this.registerDomEvent(document, "focusin", (event) => {
+      this.handleSegmentLinkPreviewEnter(event);
+    }, { capture: true });
+    this.registerDomEvent(document, "focusout", (event) => {
+      this.handleSegmentLinkPreviewLeave(event);
+    }, { capture: true });
+
+    this.registerReadingNoteEditorExtension();
+
+    this.registerMarkdownPostProcessor((element, context) => {
+      const path = normalizePath(context.sourcePath || "");
+      if (!this.isReadingNotePath(path) || element.closest?.(".cm-editor, .markdown-source-view")) {
+        return;
+      }
+      this.decorateRenderedSegmentLinks(element);
+    });
 
     this.registerMarkdownPostProcessor((element, context) => {
       if (!this.hasActiveComparisonForks()) {
@@ -183,6 +262,12 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
     this.progressWriteSuppressTimers.clear();
     this.progressWritePaths.clear();
+    this.hideSegmentPreview();
+    if (this.segmentPreviewHideTimer) {
+      window.clearTimeout(this.segmentPreviewHideTimer);
+      this.segmentPreviewHideTimer = null;
+    }
+    this.segmentPreviewCache.clear();
 
     if (this.compareRenderTimer) {
       window.clearTimeout(this.compareRenderTimer);
@@ -240,6 +325,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
     if (file.path.startsWith("texts/") && file.extension === "md") {
       this.comparisonSegmentIndexCache.delete(file.path);
+      this.segmentPreviewCache.clear();
       const activeFile = this.app.workspace.getActiveFile();
       if (
         this.hasActiveComparisonForks() &&
@@ -329,6 +415,226 @@ module.exports = class LacanTranslationHelper extends Plugin {
       new Notice(`${prefix}：${message}`);
       return null;
     }
+  }
+
+  registerReadingNoteEditorExtension() {
+    if (!Decoration || !ViewPlugin || typeof this.registerEditorExtension !== "function") {
+      return;
+    }
+    this.registerEditorExtension(this.createReadingNoteEditorExtension());
+  }
+
+  createReadingNoteEditorExtension() {
+    const plugin = this;
+    return ViewPlugin.fromClass(class {
+      constructor(view) {
+        this.decorations = plugin.buildReadingNoteEditorDecorations(view);
+      }
+
+      update(update) {
+        if (update.docChanged || update.viewportChanged || update.focusChanged) {
+          this.decorations = plugin.buildReadingNoteEditorDecorations(update.view);
+        }
+      }
+    }, {
+      decorations: (value) => value.decorations,
+    });
+  }
+
+  buildReadingNoteEditorDecorations(view) {
+    const sourcePath = this.editorPathFromCodeMirrorView(view);
+    if (!this.isTranslationLessonPath(sourcePath)) {
+      return Decoration.none;
+    }
+
+    const ranges = [];
+    const visibleRanges = view.visibleRanges?.length
+      ? view.visibleRanges
+      : [{ from: 0, to: view.state.doc.length }];
+    const seenLines = new Set();
+
+    for (const range of visibleRanges) {
+      let position = range.from;
+      while (position <= range.to) {
+        const line = view.state.doc.lineAt(position);
+        if (!seenLines.has(line.number)) {
+          seenLines.add(line.number);
+          const match = line.text.match(SEGMENT_ID_ANCHOR_LINE_RE);
+          if (match) {
+            ranges.push(
+              Decoration.widget({
+                widget: new ReadingNoteButtonWidget(this, sourcePath, match[1].toLowerCase()),
+                side: 1,
+              }).range(line.to)
+            );
+          }
+        }
+
+        if (line.to >= range.to || line.to >= view.state.doc.length) {
+          break;
+        }
+        position = line.to + 1;
+      }
+    }
+
+    return Decoration.set(ranges, true);
+  }
+
+  editorPathFromCodeMirrorView(editorView) {
+    let matchedPath = "";
+    this.app.workspace.iterateAllLeaves?.((leaf) => {
+      if (matchedPath) {
+        return;
+      }
+      const view = leaf?.view;
+      if (view?.containerEl?.contains(editorView.dom) && view.file instanceof TFile) {
+        matchedPath = normalizePath(view.file.path);
+      }
+    });
+
+    if (matchedPath) {
+      return matchedPath;
+    }
+
+    const activeFile = this.app.workspace.getActiveFile();
+    return activeFile instanceof TFile ? normalizePath(activeFile.path) : "";
+  }
+
+  async createReadingNoteForSegment(sourcePath, segmentId) {
+    const normalizedPath = normalizePath(sourcePath || "");
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    if (!this.isTranslationLessonPath(normalizedPath)) {
+      throw new Error("当前文件不是译文课文。");
+    }
+    if (!SEGMENT_ID_LINK_RE.test(normalizedSegmentId)) {
+      throw new Error(`不是有效的分段 ID：${segmentId}`);
+    }
+
+    const translationFile = this.app.vault.getAbstractFileByPath(normalizedPath);
+    if (!(translationFile instanceof TFile)) {
+      throw new Error(`找不到译文文件：${normalizedPath}`);
+    }
+
+    const notePath = this.readingNotePathForSegment(normalizedPath, normalizedSegmentId);
+    if (!notePath) {
+      throw new Error("无法计算阅读笔记路径。");
+    }
+
+    const noteFile = await this.createOrUpdateReadingNoteFile(notePath, normalizedSegmentId, normalizedPath);
+    const translationText = await this.app.vault.read(translationFile);
+    const updatedTranslationText = this.insertReadingNoteLink(translationText, normalizedSegmentId);
+    if (updatedTranslationText === translationText && !this.hasReadingNoteLink(translationText, normalizedSegmentId)) {
+      throw new Error(`译文中没有找到分段 ID：${normalizedSegmentId}`);
+    }
+    if (updatedTranslationText !== translationText) {
+      await this.app.vault.modify(translationFile, updatedTranslationText);
+    }
+
+    await this.openFile(noteFile);
+    new Notice(`已打开阅读笔记：${normalizedSegmentId}`);
+  }
+
+  readingNotePathForSegment(sourcePath, segmentId) {
+    const normalizedPath = normalizePath(sourcePath || "");
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    const match = normalizedPath.match(TRANSLATION_PATH_RE);
+    if (!match || !SEGMENT_ID_LINK_RE.test(normalizedSegmentId)) {
+      return "";
+    }
+    return `texts/${match[1]}/notes/${normalizedSegmentId}.md`;
+  }
+
+  readingNoteWikiLinkForSegment(segmentId) {
+    return `[[notes/${String(segmentId || "").trim().toLowerCase()}|阅读笔记]]`;
+  }
+
+  hasReadingNoteLink(text, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    const pattern = new RegExp(
+      `\\[\\[\\s*notes/${this.escapeRegExp(normalizedSegmentId)}(?:\\.md)?(?:#[^\\]|]+)?(?:\\|[^\\]]*)?\\]\\]`,
+      "i"
+    );
+    return pattern.test(String(text || ""));
+  }
+
+  insertReadingNoteLink(text, segmentId) {
+    const sourceText = String(text || "");
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    if (this.hasReadingNoteLink(sourceText, normalizedSegmentId)) {
+      return sourceText;
+    }
+
+    const markerPattern = new RegExp(
+      `(^[ \\t]*<!--\\s*id\\s*:?\\s*${this.escapeRegExp(normalizedSegmentId)}\\s*-->[ \\t]*)(?:\\r?\\n)*`,
+      "im"
+    );
+    if (!markerPattern.test(sourceText)) {
+      return sourceText;
+    }
+
+    return sourceText.replace(
+      markerPattern,
+      `$1\n\n${this.readingNoteWikiLinkForSegment(normalizedSegmentId)}\n\n`
+    );
+  }
+
+  async createOrUpdateReadingNoteFile(notePath, segmentId, sourcePath = "") {
+    await this.ensureFolder(notePath.split("/").slice(0, -1).join("/"));
+    const existing = this.app.vault.getAbstractFileByPath(notePath);
+    if (existing instanceof TFile) {
+      await this.ensureReadingNoteSegmentFrontmatter(existing, segmentId);
+      return existing;
+    }
+    return this.app.vault.create(notePath, this.buildReadingNoteContent(segmentId, sourcePath));
+  }
+
+  async ensureReadingNoteSegmentFrontmatter(noteFile, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    await this.app.fileManager.processFrontMatter(noteFile, (frontmatter) => {
+      if (!frontmatter.title) {
+        frontmatter.title = `${normalizedSegmentId} 阅读笔记`;
+      }
+
+      const currentSegments = Array.isArray(frontmatter.segments)
+        ? frontmatter.segments.map((value) => String(value))
+        : frontmatter.segments
+          ? [String(frontmatter.segments)]
+          : [];
+      if (!currentSegments.some((value) => value.toLowerCase() === normalizedSegmentId)) {
+        currentSegments.push(normalizedSegmentId);
+      }
+      frontmatter.segments = currentSegments;
+    });
+  }
+
+  buildReadingNoteContent(segmentId, sourcePath = "") {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    return [
+      "---",
+      `title: ${normalizedSegmentId} 阅读笔记`,
+      "segments:",
+      `  - ${normalizedSegmentId}`,
+      "---",
+      "",
+      `# ${normalizedSegmentId} 阅读笔记`,
+      "",
+      this.translationWikiLinkForSegment(sourcePath, normalizedSegmentId),
+      "",
+    ].join("\n");
+  }
+
+  translationWikiLinkForSegment(sourcePath, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    const normalizedPath = normalizePath(sourcePath || "");
+    const label = `「${normalizedSegmentId}」译文`;
+    if (!normalizedPath || !SEGMENT_ID_LINK_RE.test(normalizedSegmentId)) {
+      return `[[${normalizedSegmentId}|${label}]]`;
+    }
+    return `[[${normalizedPath}#${normalizedSegmentId}|${label}]]`;
+  }
+
+  escapeRegExp(value) {
+    return String(value || "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   }
 
   async saveSettings() {
@@ -919,6 +1225,10 @@ module.exports = class LacanTranslationHelper extends Plugin {
     return normalized.startsWith("texts/") && normalized.endsWith(".md");
   }
 
+  isReadingNotePath(path) {
+    return READING_NOTE_PATH_RE.test(normalizePath(path || ""));
+  }
+
   hasSegmentIdComment(text) {
     return SEGMENT_ID_COMMENT_TEST_RE.test(String(text || ""));
   }
@@ -1356,12 +1666,12 @@ module.exports = class LacanTranslationHelper extends Plugin {
     contentEl.empty();
     const trimmed = String(content || "").trim();
     if (!trimmed) {
-      contentEl.setText("[该 fork 中没有对应分段]");
+      contentEl.setText("[没有对应分段]");
       return;
     }
     const visibleText = trimmed.replace(/<!--[\s\S]*?-->/g, "").trim();
     if (!visibleText && /<!--\s*untranslated\s*-->/i.test(trimmed)) {
-      contentEl.setText("[该 fork 中该段尚未翻译]");
+      contentEl.setText("[该段尚未翻译]");
       return;
     }
 
@@ -1386,7 +1696,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       return;
     }
     this.unloadMarkdownRenderComponent(rootEl);
-    rootEl.querySelectorAll?.(".lacan-segment-compare-content").forEach((element) => {
+    rootEl.querySelectorAll?.(".lacan-segment-compare-content, .lacan-segment-preview-content").forEach((element) => {
       this.unloadMarkdownRenderComponent(element);
     });
   }
@@ -1611,6 +1921,416 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
   segmentComparisonKey(path, segmentId) {
     return `${path}::${segmentId}`;
+  }
+
+  decorateRenderedSegmentLinks(rootEl) {
+    rootEl.querySelectorAll?.(
+      'a.lacan-segment-link, a.internal-link[data-href*="#"], a.internal-link[href*="#"]'
+    ).forEach((linkEl) => {
+      const segmentId = this.segmentIdFromLinkElement(linkEl);
+      if (!segmentId) {
+        return;
+      }
+
+      this.markRenderedSegmentLink(linkEl, segmentId);
+    });
+  }
+
+  markRenderedSegmentLink(linkEl, segmentId) {
+    linkEl.classList.remove("internal-link", "is-unresolved");
+    linkEl.classList.add("lacan-segment-link");
+    linkEl.dataset.lacanSegmentId = segmentId;
+    linkEl.setAttribute("href", "#");
+    linkEl.setAttribute("title", `打开「${segmentId}」译文`);
+  }
+
+  handleSegmentInternalLinkClick(event) {
+    const linkEl = this.segmentLinkElementFromEvent(event);
+    if (!linkEl) {
+      return;
+    }
+
+    const segmentId = this.segmentIdFromLinkElement(linkEl);
+    if (!segmentId) {
+      return;
+    }
+
+    event.preventDefault();
+    event.stopPropagation();
+    this.runWithNotice(() => this.openSegmentId(segmentId), "打开分段失败");
+  }
+
+  handleSegmentLinkPreviewEnter(event) {
+    const linkEl = this.segmentLinkElementFromEvent(event);
+    if (!linkEl) {
+      return;
+    }
+    if (
+      event.type === "mouseover" &&
+      typeof Node !== "undefined" &&
+      event.relatedTarget instanceof Node &&
+      linkEl.contains(event.relatedTarget)
+    ) {
+      return;
+    }
+
+    const segmentId = this.segmentIdFromLinkElement(linkEl);
+    if (!segmentId) {
+      return;
+    }
+
+    event.stopPropagation();
+    this.scheduleSegmentPreview(linkEl, segmentId);
+  }
+
+  handleSegmentLinkPreviewLeave(event) {
+    const linkEl = this.segmentLinkElementFromEvent(event);
+    if (!linkEl) {
+      return;
+    }
+    const segmentId = this.segmentIdFromLinkElement(linkEl);
+    if (!segmentId) {
+      return;
+    }
+
+    const relatedTarget = event.relatedTarget;
+    if (
+      typeof Node !== "undefined" &&
+      relatedTarget instanceof Node &&
+      (linkEl.contains(relatedTarget) || this.segmentPreviewEl?.contains?.(relatedTarget))
+    ) {
+      return;
+    }
+
+    event.stopPropagation();
+    this.scheduleHideSegmentPreview();
+  }
+
+  segmentLinkElementFromEvent(event) {
+    const targetEl = event.target instanceof Element ? event.target : null;
+    const linkEl = targetEl?.closest?.("a.lacan-segment-link, a.internal-link") || null;
+    return this.isPotentialSegmentLinkElement(linkEl) ? linkEl : null;
+  }
+
+  isPotentialSegmentLinkElement(linkEl) {
+    if (!linkEl) {
+      return false;
+    }
+    if (linkEl.classList?.contains?.("lacan-segment-link")) {
+      return true;
+    }
+    const target = (
+      linkEl?.dataset?.lacanSegmentId ||
+      linkEl?.getAttribute?.("data-href") ||
+      linkEl?.getAttribute?.("href") ||
+      ""
+    );
+    return String(target).includes("#");
+  }
+
+  segmentIdFromLinkElement(linkEl) {
+    const datasetId = this.segmentIdFromLinkTarget(linkEl?.dataset?.lacanSegmentId || "");
+    if (datasetId) {
+      return datasetId;
+    }
+
+    const target = (
+      linkEl?.getAttribute?.("data-href") ||
+      linkEl?.getAttribute?.("href") ||
+      ""
+    );
+    const explicitTargetId = this.segmentIdFromExplicitLinkTarget(target);
+    if (explicitTargetId) {
+      return explicitTargetId;
+    }
+
+    return "";
+  }
+
+  segmentIdFromExplicitLinkTarget(target) {
+    const value = String(target || "").trim();
+    if (!value.includes("#")) {
+      return "";
+    }
+    return this.segmentIdFromLinkTarget(value);
+  }
+
+  segmentIdFromLinkTarget(target) {
+    const value = String(target || "")
+      .trim()
+      .replace(/^#/, "")
+      .split("#")
+      .pop()
+      .trim()
+      .toLowerCase();
+    return SEGMENT_ID_LINK_RE.test(value) ? value : "";
+  }
+
+  scheduleSegmentPreview(linkEl, segmentId) {
+    if (this.segmentPreviewHideTimer) {
+      window.clearTimeout(this.segmentPreviewHideTimer);
+      this.segmentPreviewHideTimer = null;
+    }
+    this.showSegmentPreview(linkEl, segmentId);
+  }
+
+  scheduleHideSegmentPreview(delay = 180) {
+    if (this.segmentPreviewHideTimer) {
+      window.clearTimeout(this.segmentPreviewHideTimer);
+    }
+    this.segmentPreviewHideTimer = window.setTimeout(() => {
+      this.segmentPreviewHideTimer = null;
+      this.hideSegmentPreview();
+    }, delay);
+  }
+
+  showSegmentPreview(linkEl, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    if (!SEGMENT_ID_LINK_RE.test(normalizedSegmentId)) {
+      return;
+    }
+
+    this.hideSegmentPreview({ keepHideTimer: true });
+    const previewEl = document.createElement("div");
+    previewEl.className = "lacan-segment-preview-popover";
+    previewEl.addEventListener("mouseenter", () => {
+      if (this.segmentPreviewHideTimer) {
+        window.clearTimeout(this.segmentPreviewHideTimer);
+        this.segmentPreviewHideTimer = null;
+      }
+    });
+    previewEl.addEventListener("mouseleave", () => this.scheduleHideSegmentPreview(120));
+
+    const titleEl = previewEl.createDiv
+      ? previewEl.createDiv("lacan-segment-preview-title")
+      : previewEl.appendChild(document.createElement("div"));
+    titleEl.className = "lacan-segment-preview-title";
+    titleEl.textContent = `「${normalizedSegmentId}」译文`;
+
+    const contentEl = previewEl.createDiv
+      ? previewEl.createDiv("lacan-segment-preview-content")
+      : previewEl.appendChild(document.createElement("div"));
+    contentEl.className = "lacan-segment-preview-content";
+    contentEl.textContent = "加载中...";
+
+    document.body.appendChild(previewEl);
+    this.positionSegmentPreview(previewEl, linkEl);
+    this.segmentPreviewEl = previewEl;
+    const token = ++this.segmentPreviewRenderToken;
+
+    this.loadSegmentPreviewContent(normalizedSegmentId)
+      .then(({ content, sourcePath }) => {
+        if (token !== this.segmentPreviewRenderToken || !contentEl.isConnected) {
+          return null;
+        }
+        return this.renderForkSegmentContent(contentEl, content, sourcePath);
+      })
+      .catch((error) => {
+        if (token === this.segmentPreviewRenderToken && contentEl.isConnected) {
+          contentEl.textContent = `无法读取对应译文段落：${error.message}`;
+        }
+      });
+  }
+
+  positionSegmentPreview(previewEl, anchorEl) {
+    const rect = anchorEl.getBoundingClientRect();
+    const margin = 10;
+    const width = Math.min(520, Math.max(320, window.innerWidth - margin * 2));
+    previewEl.style.width = `${width}px`;
+    let left = Math.min(rect.left, window.innerWidth - width - margin);
+    left = Math.max(margin, left);
+    const estimatedHeight = Math.min(360, Math.max(160, previewEl.offsetHeight || 220));
+    let top = rect.bottom + margin;
+    if (top + estimatedHeight > window.innerHeight - margin) {
+      top = Math.max(margin, rect.top - estimatedHeight - margin);
+    }
+    previewEl.style.left = `${left + window.scrollX}px`;
+    previewEl.style.top = `${top + window.scrollY}px`;
+  }
+
+  hideSegmentPreview({ keepHideTimer = false } = {}) {
+    if (!keepHideTimer && this.segmentPreviewHideTimer) {
+      window.clearTimeout(this.segmentPreviewHideTimer);
+      this.segmentPreviewHideTimer = null;
+    }
+    if (this.segmentPreviewEl) {
+      this.unloadMarkdownRenderComponents(this.segmentPreviewEl);
+      this.segmentPreviewEl.remove();
+      this.segmentPreviewEl = null;
+      this.segmentPreviewRenderToken += 1;
+    }
+  }
+
+  async loadSegmentPreviewContent(segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    if (this.segmentPreviewCache.has(normalizedSegmentId)) {
+      return this.segmentPreviewCache.get(normalizedSegmentId);
+    }
+
+    const match = normalizedSegmentId.match(SEGMENT_ID_LINK_RE);
+    if (!match) {
+      throw new Error(`不是有效的分段 ID：${segmentId}`);
+    }
+    const seminarCode = `s${match[1]}`.toLowerCase();
+    const lessonNumber = Number(match[2]);
+    const seminarSlug = this.findSeminarSlugForCode(seminarCode);
+    if (!seminarSlug) {
+      throw new Error(`找不到对应研讨班：${seminarCode}`);
+    }
+    const file = this.findSegmentLessonFile(seminarSlug, lessonNumber);
+    if (!(file instanceof TFile)) {
+      throw new Error(`找不到对应课文：${seminarSlug} Leçon ${String(lessonNumber).padStart(2, "0")}`);
+    }
+
+    const promise = this.app.vault.cachedRead(file).then((text) => ({
+      sourcePath: file.path,
+      content: this.segmentPreviewContent(text, normalizedSegmentId),
+    }));
+    this.segmentPreviewCache.set(normalizedSegmentId, promise);
+    return promise;
+  }
+
+  segmentPreviewContent(text, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    const content = this.extractSegmentsById(String(text || "")).get(normalizedSegmentId) || "";
+    return content
+      .split(/\r?\n/)
+      .filter((line) => !/^\s*\[\[\s*notes\/[^|\]]+(?:\|[^\]]*)?\]\]\s*$/.test(line))
+      .join("\n")
+      .trim();
+  }
+
+  async openSegmentId(segmentId) {
+    const match = segmentId.match(SEGMENT_ID_LINK_RE);
+    if (!match) {
+      throw new Error(`不是有效的分段 ID：${segmentId}`);
+    }
+
+    const seminarCode = `s${match[1]}`.toLowerCase();
+    const lessonNumber = Number(match[2]);
+    const seminarSlug = this.findSeminarSlugForCode(seminarCode);
+    if (!seminarSlug) {
+      throw new Error(`找不到对应研讨班：${seminarCode}`);
+    }
+
+    const file = this.findSegmentLessonFile(seminarSlug, lessonNumber);
+    if (!(file instanceof TFile)) {
+      throw new Error(`找不到对应课文：${seminarSlug} Leçon ${String(lessonNumber).padStart(2, "0")}`);
+    }
+
+    await this.openFile(file);
+    await this.scrollActiveViewToSegment(segmentId);
+  }
+
+  findSeminarSlugForCode(seminarCode) {
+    const prefix = "texts/";
+    const seen = new Set();
+    for (const file of this.app.vault.getAllLoadedFiles()) {
+      const path = normalizePath(file.path || "");
+      if (!path.startsWith(prefix)) {
+        continue;
+      }
+      const slug = path.slice(prefix.length).split("/", 1)[0];
+      if (!slug || seen.has(slug)) {
+        continue;
+      }
+      seen.add(slug);
+      if (slug.split("-", 1)[0].toLowerCase() === seminarCode) {
+        return slug;
+      }
+    }
+    return "";
+  }
+
+  findSegmentLessonFile(seminarSlug, lessonNumber) {
+    const padded = String(lessonNumber).padStart(2, "0");
+    const names = [`Leçon-${padded}.md`, `Lecon-${padded}.md`, `lesson-${padded}.md`];
+    for (const folder of ["translation", "original"]) {
+      for (const name of names) {
+        const file = this.app.vault.getAbstractFileByPath(`texts/${seminarSlug}/${folder}/${name}`);
+        if (file instanceof TFile) {
+          return file;
+        }
+      }
+    }
+    return null;
+  }
+
+  async scrollActiveViewToSegment(segmentId) {
+    if (await this.scrollActiveEditorToSegment(segmentId)) {
+      return;
+    }
+    await this.scrollActivePreviewToSegment(segmentId);
+  }
+
+  async scrollActiveEditorToSegment(segmentId) {
+    await new Promise((resolve) => window.requestAnimationFrame(resolve));
+    const view = Obsidian.MarkdownView
+      ? this.app.workspace.getActiveViewOfType(Obsidian.MarkdownView)
+      : this.app.workspace.activeLeaf?.view;
+    const editor = view?.editor;
+    if (!editor) {
+      return false;
+    }
+
+    const line = this.findSegmentLine(editor.getValue(), segmentId);
+    if (line < 0) {
+      new Notice(`已打开课文，但没有找到分段：${segmentId}`);
+      return false;
+    }
+
+    const position = { line, ch: 0 };
+    editor.setCursor(position);
+    editor.scrollIntoView({ from: position, to: position }, true);
+    return true;
+  }
+
+  async scrollActivePreviewToSegment(segmentId) {
+    await new Promise((resolve) => window.requestAnimationFrame(resolve));
+    const view = Obsidian.MarkdownView
+      ? this.app.workspace.getActiveViewOfType(Obsidian.MarkdownView)
+      : this.app.workspace.activeLeaf?.view;
+    const file = this.app.workspace.getActiveFile();
+    const previewEl = view?.containerEl?.querySelector?.(".markdown-preview-view");
+    if (!(file instanceof TFile) || !previewEl) {
+      return false;
+    }
+
+    const text = await this.app.vault.cachedRead(file);
+    const marker = this.extractSegmentMarkers(text).find((item) => item.id === String(segmentId).toLowerCase());
+    if (!marker) {
+      new Notice(`已打开课文，但没有找到分段：${segmentId}`);
+      return false;
+    }
+
+    const anchorEl = this.findRenderedSegmentAnchor(previewEl, marker, new Set());
+    if (!anchorEl) {
+      return false;
+    }
+    anchorEl.scrollIntoView({ block: "center", behavior: "smooth" });
+    anchorEl.classList.add("lacan-segment-target-flash");
+    window.setTimeout(() => anchorEl.classList.remove("lacan-segment-target-flash"), 1600);
+    return true;
+  }
+
+  findSegmentLine(text, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").toLowerCase();
+    const commentRe = /<!--[\s\S]*?-->/g;
+    let cursor = 0;
+    let line = 0;
+    let match;
+    while ((match = commentRe.exec(text)) !== null) {
+      while (cursor < match.index) {
+        if (text.charCodeAt(cursor) === 10) {
+          line += 1;
+        }
+        cursor += 1;
+      }
+      if (this.segmentIdsFromComment(match[0]).includes(normalizedSegmentId)) {
+        return line;
+      }
+    }
+    return -1;
   }
 
   async createTranslationForOriginal(originalFile, options = {}) {
@@ -2302,6 +3022,7 @@ class LacanLessonListBasesView extends ObsidianBasesView {
     const lessonTitle = this.valueToString(entry.getValue("formula.lessonTitle"));
     const originalPath = this.valueToString(entry.getValue("formula.originalPath"));
     const translationPath = this.valueToString(entry.getValue("formula.translationPath"));
+    const notesIndexPath = this.valueToString(entry.getValue("formula.notesIndexPath"));
     const progress = this.valueToString(entry.getValue("formula.translationProgressLabel")) || "0.00%";
     const untranslatedCount = this.valueToString(entry.getValue("formula.untranslatedCount"));
     const maxSegmentId = this.valueToString(entry.getValue("formula.maxSegmentId"));
@@ -2322,6 +3043,7 @@ class LacanLessonListBasesView extends ObsidianBasesView {
       translationFile instanceof TFile ? "译文" : "新建翻译",
       () => this.openOrCreateTranslation(entry.file, translationFile)
     );
+    this.createActionLink(mainEl, "笔记", () => this.openOrCreateNotesIndex(notesIndexPath));
     mainEl.createSpan({
       cls: "lacan-bases-progress",
       text: progress,
@@ -2331,6 +3053,7 @@ class LacanLessonListBasesView extends ObsidianBasesView {
       const metaEl = itemEl.createDiv("lacan-bases-entry-meta");
       metaEl.createSpan({ text: `原文：${originalPath}` });
       metaEl.createSpan({ text: `译文：${translationPath}` });
+      metaEl.createSpan({ text: `笔记：${notesIndexPath}` });
       metaEl.createSpan({ text: `未译：${untranslatedCount || 0}` });
       metaEl.createSpan({ text: `最大分段：${maxSegmentId || 0}` });
     }
@@ -2375,6 +3098,26 @@ class LacanLessonListBasesView extends ObsidianBasesView {
       notify: true,
       updateProgress: true,
     });
+  }
+
+  async openOrCreateNotesIndex(notesIndexPath) {
+    const normalized = normalizePath(notesIndexPath || "");
+    if (!normalized) {
+      throw new Error("找不到阅读笔记目录路径。");
+    }
+
+    const existing = this.plugin.app.vault.getAbstractFileByPath(normalized);
+    if (existing instanceof TFile) {
+      await this.plugin.openFile(existing);
+      return;
+    }
+
+    await this.plugin.ensureFolder(normalized.split("/").slice(0, -1).join("/"));
+    const created = await this.plugin.app.vault.create(
+      normalized,
+      "# 阅读笔记\n\n本目录用于保存本研讨班的阅读笔记和补充材料。\n"
+    );
+    await this.plugin.openFile(created);
   }
 
   valueToString(value) {

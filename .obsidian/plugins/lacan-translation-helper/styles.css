@@ -211,6 +211,80 @@
   color: var(--text-on-accent);
 }
 
+.lacan-segment-note-button {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 5px;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 11px;
+  line-height: 18px;
+  margin-left: 8px;
+  padding: 0 6px;
+  vertical-align: 1px;
+}
+
+.lacan-segment-note-button:hover,
+.lacan-segment-note-button:focus-visible {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.lacan-segment-link {
+  cursor: pointer;
+}
+
+.lacan-segment-preview-popover {
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  box-shadow: var(--shadow-l);
+  color: var(--text-normal);
+  max-height: min(420px, calc(100vh - 24px));
+  overflow: hidden;
+  position: absolute;
+  z-index: var(--layer-popover, 30);
+}
+
+.lacan-segment-preview-title {
+  background: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  color: var(--text-muted);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 7px 10px;
+}
+
+.lacan-segment-preview-content {
+  font-size: 13px;
+  line-height: 1.65;
+  max-height: min(360px, calc(100vh - 80px));
+  overflow: auto;
+  padding: 10px 12px;
+}
+
+.lacan-segment-preview-content > :first-child {
+  margin-top: 0;
+}
+
+.lacan-segment-preview-content > :last-child {
+  margin-bottom: 0;
+}
+
+.lacan-segment-target-flash {
+  animation: lacan-segment-target-flash 1600ms ease-out;
+}
+
+@keyframes lacan-segment-target-flash {
+  0% {
+    background: color-mix(in srgb, var(--interactive-accent) 25%, transparent);
+  }
+
+  100% {
+    background: transparent;
+  }
+}
+
 .lacan-segment-compare-panel {
   display: grid;
   gap: 8px;

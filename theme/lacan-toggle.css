@@ -174,6 +174,32 @@ html.lacan-share-mode .parallel-paragraph {
   margin-bottom: 0.65rem;
 }
 
+.reading-note-links {
+  margin: 0.25rem 0 0.75rem;
+  padding: 0.45rem 0.65rem;
+  border-left: 3px solid var(--links);
+  border-radius: 0 4px 4px 0;
+  background: color-mix(in srgb, var(--links) 8%, transparent);
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.reading-note-links-title {
+  margin-bottom: 0.2rem;
+  color: var(--icons);
+  font-family: var(--mono-font);
+  font-size: 0.75rem;
+}
+
+.reading-note-links ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.reading-note-links li {
+  margin: 0.1rem 0;
+}
+
 .translation-missing {
   color: var(--icons);
   font-style: italic;

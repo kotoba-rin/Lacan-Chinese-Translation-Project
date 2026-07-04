@@ -6,6 +6,7 @@ The texts directory is the editable source of truth:
   texts/index.md
   texts/<seminar>/original/Leçon-xx.md
   texts/<seminar>/translation/Leçon-xx.md
+  texts/<seminar>/notes/*.md
 
 This script combines the original French paragraphs and the Chinese
 translation blocks into build/<seminar>/Leçon-xx.md. Translation blocks may
@@ -22,12 +23,14 @@ Grouped alignments are rendered once with all corresponding original
 paragraphs. Each rendered block is ordered as original, translation, notes,
 and commentary. Quote blocks in translation content are classified as notes
 when their first visible text starts with "注"; other quote blocks are
-rendered as commentary.
+rendered as commentary. Reading notes are rendered into
+build/<seminar>/notes/ and linked back to translation paragraphs by segment ID.
 """
 
 from __future__ import annotations
 
 import argparse
+import posixpath
 import re
 import shutil
 from dataclasses import dataclass, field
@@ -49,9 +52,15 @@ CANONICAL_LESSON_PREFIX = "Leçon"
 NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
 INLINE_STRONG_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
 OBSIDIAN_IMAGE_RE = re.compile(r"!\[\[([^\]\n]+?)\]\]")
+OBSIDIAN_WIKI_LINK_RE = re.compile(r"(?<!!)\[\[([^\]\n]+?)\]\]")
 OBSIDIAN_IMAGE_SIZE_RE = re.compile(r"^(\d+)(?:x(\d+))?$", re.IGNORECASE)
 INLINE_CODE_SPAN_RE = re.compile(r"(`+)(.*?)(\1)")
-ASSET_DIR_NAMES = {"original", "translation"}
+SEGMENT_ID_TOKEN_RE = re.compile(r"\bs\d+[a-z]?-\d+-\d+\b", re.IGNORECASE)
+SEGMENT_ID_LINK_RE = re.compile(r"^s\d+[a-z]?-(\d+)-\d+$", re.IGNORECASE)
+FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*(?:\n|\Z)", re.DOTALL)
+FRONTMATTER_TITLE_RE = re.compile(r"^\s*title\s*:\s*(.+?)\s*$", re.MULTILINE)
+ASSET_DIR_NAMES = {"original", "translation", "notes"}
+NOTES_DIR_NAME = "notes"
 
 
 @dataclass
@@ -83,6 +92,14 @@ class RenderedTranslation:
     commentary: str = ""
 
 
+@dataclass(frozen=True)
+class ReadingNote:
+    source_path: Path
+    output_relative_path: Path
+    title: str
+    segment_ids: list[str]
+
+
 @dataclass
 class BuildStats:
     lessons: int = 0
@@ -90,6 +107,10 @@ class BuildStats:
     untranslated_blocks: int = 0
     missing_translations: int = 0
     seminars: set[str] = field(default_factory=set)
+
+
+class DuplicateIdError(ValueError):
+    pass
 
 
 def read_text(path: Path) -> str:
@@ -105,10 +126,205 @@ def clean_block(text: str) -> str:
     return text.strip("\n")
 
 
+def id_marker_line_number(text: str, index: int) -> int:
+    return text.count("\n", 0, index) + 1
+
+
+def duplicate_id_markers(text: str) -> list[tuple[str, list[int]]]:
+    lines_by_id: dict[str, list[int]] = {}
+    for match in ID_RE.finditer(text):
+        paragraph_id = match.group(1).strip()
+        lines_by_id.setdefault(paragraph_id, []).append(id_marker_line_number(text, match.start()))
+    return [(paragraph_id, lines) for paragraph_id, lines in lines_by_id.items() if len(lines) > 1]
+
+
+def validate_unique_id_markers(text: str, path: Path) -> None:
+    duplicates = duplicate_id_markers(text)
+    if not duplicates:
+        return
+
+    details = "; ".join(
+        f"{paragraph_id} at lines {', '.join(str(line) for line in lines)}"
+        for paragraph_id, lines in duplicates
+    )
+    raise DuplicateIdError(f"Duplicate segment ID in {path}: {details}")
+
+
+def validate_unique_id_markers_in_file(path: Path) -> None:
+    validate_unique_id_markers(read_text(path), path)
+
+
 def normalize_source_markdown(text: str, source_path: Path) -> str:
     """Convert Obsidian-only markdown that mdBook cannot render directly."""
     text = convert_obsidian_image_embeds(text, source_path)
+    text = convert_obsidian_wiki_links(text, source_path)
     return convert_obsidian_latex_math(text)
+
+
+def convert_obsidian_wiki_links(text: str, source_path: Path) -> str:
+    lines = text.splitlines(keepends=True)
+    converted: list[str] = []
+    in_fence = False
+    fence_marker = ""
+
+    for line in lines:
+        stripped = line.lstrip()
+        fence_match = re.match(r"(```+|~~~+)", stripped)
+        if fence_match:
+            marker = fence_match.group(1)
+            if not in_fence:
+                in_fence = True
+                fence_marker = marker[:3]
+            elif marker.startswith(fence_marker):
+                in_fence = False
+                fence_marker = ""
+            converted.append(line)
+            continue
+
+        if in_fence:
+            converted.append(line)
+        else:
+            converted.append(transform_outside_inline_code(line, lambda segment: convert_wiki_link_segment(segment, source_path)))
+
+    return "".join(converted)
+
+
+def convert_wiki_link_segment(segment: str, source_path: Path) -> str:
+    return OBSIDIAN_WIKI_LINK_RE.sub(lambda match: render_obsidian_wiki_link(match, source_path), segment)
+
+
+def render_obsidian_wiki_link(match: re.Match[str], source_path: Path) -> str:
+    target, label = split_obsidian_wiki_link(match.group(1))
+    if not target:
+        return match.group(0)
+
+    href = resolve_obsidian_wiki_href(target, source_path)
+    if not href:
+        return match.group(0)
+
+    return f"[{label or target}]({href})"
+
+
+def split_obsidian_wiki_link(raw: str) -> tuple[str, str]:
+    target, options = split_obsidian_embed(raw)
+    label = options[-1] if options else target.split("#", 1)[0].split("/")[-1]
+    return target, label
+
+
+def source_output_relative_path(source_path: Path) -> Path | None:
+    try:
+        parts = source_path.resolve().relative_to(TEXTS_DIR.resolve()).parts
+    except ValueError:
+        try:
+            parts = source_path.relative_to(TEXTS_DIR).parts
+        except ValueError:
+            return None
+
+    if len(parts) < 2:
+        return None
+
+    folder = parts[1]
+    if folder in {"original", "translation"} and len(parts) >= 3:
+        number = lesson_number(Path(parts[-1]))
+        if number is not None:
+            return Path(parts[0]) / lesson_filename(number)
+    if folder == NOTES_DIR_NAME and len(parts) >= 3:
+        relative = Path(*parts[2:])
+        if relative.suffix.lower() != ".md":
+            relative = relative.with_suffix(".md")
+        return Path(parts[0]) / NOTES_DIR_NAME / relative
+    if len(parts) == 2 and parts[1] == "glossary.md":
+        return Path(parts[0]) / "glossary.md"
+    return None
+
+
+def current_seminar_slug(source_path: Path) -> str:
+    try:
+        return source_path.resolve().relative_to(TEXTS_DIR.resolve()).parts[0]
+    except (ValueError, IndexError):
+        try:
+            return source_path.relative_to(TEXTS_DIR).parts[0]
+        except (ValueError, IndexError):
+            return ""
+
+
+def resolve_obsidian_wiki_href(target: str, source_path: Path) -> str:
+    target = target.strip().replace("\\", "/")
+    target_path, fragment = split_link_fragment(target)
+    segment_match = SEGMENT_ID_LINK_RE.match(target_path.strip())
+    if segment_match:
+        return relative_href_for_build_paths(
+            source_output_relative_path(source_path),
+            Path(current_seminar_slug(source_path)) / lesson_filename(int(segment_match.group(1))),
+            target_path.lower(),
+        )
+
+    target_output = resolve_wiki_target_output_path(target_path, source_path)
+    if target_output is None:
+        return ""
+    return relative_href_for_build_paths(source_output_relative_path(source_path), target_output, fragment)
+
+
+def split_link_fragment(target: str) -> tuple[str, str]:
+    if "#" not in target:
+        return target, ""
+    path_part, fragment = target.split("#", 1)
+    return path_part, fragment
+
+
+def resolve_wiki_target_output_path(target_path: str, source_path: Path) -> Path | None:
+    target_path = target_path.strip().strip("/")
+    if not target_path:
+        return None
+
+    source_seminar = current_seminar_slug(source_path)
+    parts = [part for part in target_path.split("/") if part and part != "."]
+    if not parts:
+        return None
+
+    if parts[0] == "texts" and len(parts) >= 4:
+        seminar = parts[1]
+        folder = parts[2]
+        rest = parts[3:]
+    elif parts[0] == NOTES_DIR_NAME:
+        seminar = source_seminar
+        folder = NOTES_DIR_NAME
+        rest = parts[1:]
+    elif len(parts) >= 2 and parts[0] in {"original", "translation", NOTES_DIR_NAME}:
+        seminar = source_seminar
+        folder = parts[0]
+        rest = parts[1:]
+    else:
+        seminar = source_seminar
+        folder = NOTES_DIR_NAME
+        rest = parts
+
+    if not seminar or not rest:
+        return None
+
+    if folder == NOTES_DIR_NAME:
+        relative = Path(*rest)
+        if relative.suffix.lower() != ".md":
+            relative = relative.with_suffix(".md")
+        return Path(seminar) / NOTES_DIR_NAME / relative
+
+    if folder in {"original", "translation"}:
+        number = lesson_number(Path(rest[-1]))
+        if number is None:
+            return None
+        return Path(seminar) / lesson_filename(number)
+
+    return None
+
+
+def relative_href_for_build_paths(source_output: Path | None, target_output: Path, fragment: str = "") -> str:
+    if source_output is None:
+        href = target_output.as_posix()
+    else:
+        href = posixpath.relpath(target_output.as_posix(), source_output.parent.as_posix())
+    if fragment:
+        href = f"{href}#{fragment}"
+    return href
 
 
 def convert_obsidian_image_embeds(text: str, source_path: Path) -> str:
@@ -330,30 +546,69 @@ def resolve_obsidian_asset_path(target: str, source_path: Path) -> str:
 
     normalized = path_without_fragment.lstrip("/")
     parts = [part for part in normalized.split("/") if part and part != "."]
-    assets_index = asset_path_index(parts)
-    if assets_index is not None:
-        return "/".join(["assets", *parts[assets_index + 1 :]])
+    asset_href = resolve_asset_href_from_parts(parts, source_path)
+    if asset_href:
+        return asset_href
 
     relative_candidate = (source_path.parent / normalized).resolve()
     try:
         relative_parts = list(relative_candidate.relative_to(TEXTS_DIR.resolve()).parts)
     except ValueError:
         relative_parts = []
-    assets_index = asset_path_index(relative_parts)
-    if assets_index is not None:
-        return "/".join(["assets", *relative_parts[assets_index + 1 :]])
+    asset_href = resolve_asset_href_from_parts(relative_parts, source_path)
+    if asset_href:
+        return asset_href
 
     same_folder_asset = source_path.parent / "assets" / normalized
     if same_folder_asset.exists():
-        return f"assets/{normalized}"
+        return relative_href_for_build_paths(
+            source_output_relative_path(source_path),
+            Path(current_seminar_slug(source_path)) / NOTES_DIR_NAME / "assets" / normalized
+            if source_path.parent.name == NOTES_DIR_NAME
+            else Path(current_seminar_slug(source_path)) / "assets" / normalized,
+        )
 
     seminar_dir = source_path.parents[1] if len(source_path.parents) > 1 else source_path.parent
-    for folder in ("original", "translation"):
+    for folder in ("original", "translation", NOTES_DIR_NAME):
         seminar_asset = seminar_dir / folder / "assets" / normalized
         if seminar_asset.exists():
-            return f"assets/{normalized}"
+            output_asset = (
+                Path(current_seminar_slug(source_path)) / NOTES_DIR_NAME / "assets" / normalized
+                if folder == NOTES_DIR_NAME
+                else Path(current_seminar_slug(source_path)) / "assets" / normalized
+            )
+            return relative_href_for_build_paths(source_output_relative_path(source_path), output_asset)
 
     return normalized
+
+
+def resolve_asset_href_from_parts(parts: list[str], source_path: Path) -> str:
+    assets_index = asset_path_index(parts)
+    if assets_index is None:
+        return ""
+
+    source_seminar = current_seminar_slug(source_path)
+    seminar = source_seminar
+    folder = ""
+    if len(parts) >= 3 and parts[0] == "texts":
+        seminar = parts[1]
+        folder = parts[assets_index - 1] if assets_index >= 1 else ""
+    elif assets_index >= 1:
+        folder = parts[assets_index - 1]
+
+    if not seminar:
+        return ""
+
+    asset_parts = parts[assets_index + 1 :]
+    if not asset_parts:
+        return ""
+
+    output_asset = (
+        Path(seminar) / NOTES_DIR_NAME / "assets" / Path(*asset_parts)
+        if folder == NOTES_DIR_NAME
+        else Path(seminar) / "assets" / Path(*asset_parts)
+    )
+    return relative_href_for_build_paths(source_output_relative_path(source_path), output_asset)
 
 
 def asset_path_index(parts: list[str]) -> int | None:
@@ -375,7 +630,9 @@ def split_notes(text: str) -> tuple[str, str]:
 
 
 def parse_lesson(path: Path) -> Lesson:
-    text = normalize_source_markdown(read_text(path), path)
+    raw_text = read_text(path)
+    validate_unique_id_markers(raw_text, path)
+    text = normalize_source_markdown(raw_text, path)
     body, notes = split_notes(text)
     matches = list(ID_RE.finditer(body))
 
@@ -428,7 +685,9 @@ def parse_translation(path: Path) -> list[TranslationEntry]:
     if not path.exists():
         return []
 
-    text = normalize_source_markdown(read_text(path), path)
+    raw_text = read_text(path)
+    validate_unique_id_markers(raw_text, path)
+    text = normalize_source_markdown(raw_text, path)
     matches = list(ID_RE.finditer(text))
     entries: list[TranslationEntry] = []
 
@@ -460,6 +719,125 @@ def parse_translation(path: Path) -> list[TranslationEntry]:
         )
 
     return entries
+
+
+def split_frontmatter(text: str) -> tuple[dict[str, str], str, str]:
+    match = FRONTMATTER_RE.match(text)
+    if not match:
+        return {}, "", text
+
+    raw = match.group(1)
+    data: dict[str, str] = {}
+    for line in raw.splitlines():
+        if ":" not in line or line.lstrip().startswith("-"):
+            continue
+        key, value = line.split(":", 1)
+        data[key.strip()] = value.strip().strip("\"'")
+    return data, raw, text[match.end() :]
+
+
+def frontmatter_title(raw_frontmatter: str) -> str:
+    match = FRONTMATTER_TITLE_RE.search(raw_frontmatter)
+    return match.group(1).strip().strip("\"'") if match else ""
+
+
+def extract_segment_ids(text: str) -> list[str]:
+    seen: set[str] = set()
+    ids: list[str] = []
+    for match in SEGMENT_ID_TOKEN_RE.finditer(text):
+        segment_id = match.group(0).lower()
+        if segment_id not in seen:
+            seen.add(segment_id)
+            ids.append(segment_id)
+    return ids
+
+
+def note_markdown_files(directory: Path) -> list[Path]:
+    if not directory.exists():
+        return []
+    return sorted(
+        path
+        for path in directory.rglob("*.md")
+        if path.name != "README.md" and "assets" not in path.relative_to(directory).parts
+    )
+
+
+def note_output_relative_path(note_path: Path, seminar_dir: Path) -> Path:
+    relative = note_path.relative_to(seminar_dir / NOTES_DIR_NAME)
+    return Path(NOTES_DIR_NAME) / relative
+
+
+def note_title(path: Path, body: str, raw_frontmatter: str) -> str:
+    title = frontmatter_title(raw_frontmatter)
+    if title:
+        return title
+    heading = first_markdown_heading(body)
+    if heading:
+        return heading.lstrip("#").strip()
+    return path.stem
+
+
+def parse_reading_note(note_path: Path, seminar_dir: Path) -> ReadingNote:
+    raw_text = read_text(note_path)
+    validate_unique_id_markers(raw_text, note_path)
+    _, raw_frontmatter, body = split_frontmatter(raw_text)
+    segment_ids = extract_segment_ids(f"{raw_frontmatter}\n{body}")
+    return ReadingNote(
+        source_path=note_path,
+        output_relative_path=note_output_relative_path(note_path, seminar_dir),
+        title=note_title(note_path, body, raw_frontmatter),
+        segment_ids=segment_ids,
+    )
+
+
+def parse_reading_notes(seminar_dir: Path) -> list[ReadingNote]:
+    notes_dir = seminar_dir / NOTES_DIR_NAME
+    return [parse_reading_note(path, seminar_dir) for path in note_markdown_files(notes_dir)]
+
+
+def notes_by_segment(notes: Iterable[ReadingNote]) -> dict[str, list[ReadingNote]]:
+    by_segment: dict[str, list[ReadingNote]] = {}
+    for note in notes:
+        for segment_id in note.segment_ids:
+            by_segment.setdefault(segment_id, []).append(note)
+    for segment_notes in by_segment.values():
+        segment_notes.sort(key=lambda note: (note.title, note.output_relative_path.as_posix()))
+    return by_segment
+
+
+def render_reading_note(note: ReadingNote) -> str:
+    raw_text = read_text(note.source_path)
+    _, _, body = split_frontmatter(raw_text)
+    body = normalize_source_markdown(body.strip("\n"), note.source_path).strip()
+    out: list[str] = []
+    if body:
+        out.append(body)
+        out.append("")
+    elif note.title:
+        out.extend([f"# {note.title}", ""])
+
+    if note.segment_ids:
+        out.extend(["## 对应译文段落", ""])
+        for segment_id in note.segment_ids:
+            href = resolve_obsidian_wiki_href(segment_id, note.source_path)
+            out.append(f"- [{segment_id}]({href})")
+        out.append("")
+
+    return "\n".join(out).rstrip() + "\n"
+
+
+def render_notes_readme(slug: str, notes: list[ReadingNote]) -> str:
+    lines = ["# 阅读笔记", ""]
+    if not notes:
+        lines.extend(["暂无阅读笔记。", ""])
+        return "\n".join(lines).rstrip() + "\n"
+
+    lines.extend(["## 材料目录", ""])
+    for note in notes:
+        segment_label = f" · {', '.join(note.segment_ids)}" if note.segment_ids else ""
+        lines.append(f"- [{note.title}]({note.output_relative_path.relative_to(NOTES_DIR_NAME).as_posix()}){segment_label}")
+    lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def note_like_quote(lines: list[str]) -> bool:
@@ -575,11 +953,16 @@ def render_original_blocks(blocks: list[Paragraph]) -> str:
     return "\n".join(out).strip()
 
 
-def render_lesson(original_path: Path, translation_path: Path | None) -> tuple[str, BuildStats]:
+def render_lesson(
+    original_path: Path,
+    translation_path: Path | None,
+    reading_notes_by_segment: dict[str, list[ReadingNote]] | None = None,
+) -> tuple[str, BuildStats]:
     lesson = parse_lesson(original_path)
     entries = parse_translation(translation_path) if translation_path else []
     by_anchor, covered_non_anchor = grouped_entries(entries)
     by_id = {paragraph.paragraph_id: paragraph for paragraph in lesson.paragraphs}
+    reading_notes_by_segment = reading_notes_by_segment or {}
 
     out: list[str] = []
     out.append(lesson.title)
@@ -608,7 +991,14 @@ def render_lesson(original_path: Path, translation_path: Path | None) -> tuple[s
                 stats.aligned_blocks += 1
                 if entry.untranslated:
                     stats.untranslated_blocks += 1
-                out.extend(render_parallel_block(paragraph_ids, original_blocks, render_translation_entry(entry)))
+                out.extend(
+                    render_parallel_block(
+                        paragraph_ids,
+                        original_blocks,
+                        render_translation_entry(entry),
+                        notes_for_paragraph_ids(paragraph_ids, reading_notes_by_segment),
+                    )
+                )
         else:
             consumed.add(paragraph_id)
             stats.missing_translations += 1
@@ -617,6 +1007,7 @@ def render_lesson(original_path: Path, translation_path: Path | None) -> tuple[s
                     [paragraph_id],
                     [paragraph],
                     RenderedTranslation(body='<p class="translation-missing">[无对应译文]</p>'),
+                    notes_for_paragraph_ids([paragraph_id], reading_notes_by_segment),
                 )
             )
 
@@ -655,6 +1046,7 @@ def render_parallel_block(
     paragraph_ids: list[str],
     original_blocks: list[Paragraph],
     translation: RenderedTranslation,
+    reading_notes: list[ReadingNote] | None = None,
 ) -> list[str]:
     ids_text = " ".join(paragraph_ids)
     ids_label = ", ".join(escape(paragraph_id) for paragraph_id in paragraph_ids)
@@ -671,6 +1063,12 @@ def render_parallel_block(
 
     out.extend([
         f'<div class="paragraph-id">{ids_label}</div>',
+    ])
+
+    if reading_notes:
+        out.extend(render_reading_note_links(reading_notes))
+
+    out.extend([
         '<details class="original-block" open>',
         f"<summary>原文 · {ids_label}</summary>",
         "",
@@ -687,6 +1085,30 @@ def render_parallel_block(
         out.extend(["", translation.commentary])
 
     out.extend(["</section>", ""])
+    return out
+
+
+def notes_for_paragraph_ids(
+    paragraph_ids: list[str],
+    reading_notes_by_segment: dict[str, list[ReadingNote]],
+) -> list[ReadingNote]:
+    notes: list[ReadingNote] = []
+    seen: set[Path] = set()
+    for paragraph_id in paragraph_ids:
+        for note in reading_notes_by_segment.get(paragraph_id, []):
+            if note.output_relative_path not in seen:
+                notes.append(note)
+                seen.add(note.output_relative_path)
+    return notes
+
+
+def render_reading_note_links(reading_notes: list[ReadingNote]) -> list[str]:
+    out = ['<div class="reading-note-links">', '<div class="reading-note-links-title">相关阅读笔记</div>', "<ul>"]
+    for note in reading_notes:
+        href = escape(note.output_relative_path.as_posix(), quote=True)
+        title = escape(note.title)
+        out.append(f'<li><a href="{href}">{title}</a></li>')
+    out.extend(["</ul>", "</div>"])
     return out
 
 
@@ -779,6 +1201,7 @@ def build_seminar(slug: str) -> BuildStats:
     seminar_dir = TEXTS_DIR / slug
     original_dir = seminar_dir / "original"
     translation_dir = seminar_dir / "translation"
+    notes_dir = seminar_dir / NOTES_DIR_NAME
     output_dir = BUILD_DIR / slug
     stats = BuildStats(seminars={slug})
 
@@ -787,7 +1210,10 @@ def build_seminar(slug: str) -> BuildStats:
 
     output_dir.mkdir(parents=True, exist_ok=True)
     remove_build_lesson_files(output_dir)
+    reading_notes = parse_reading_notes(seminar_dir)
+    reading_notes_by_segment = notes_by_segment(reading_notes)
     write_text(output_dir / "README.md", render_seminar_readme(slug, seminar_dir))
+    write_text(output_dir / NOTES_DIR_NAME / "README.md", render_notes_readme(slug, reading_notes))
 
     for lesson_path in lesson_markdown_files(original_dir):
         number = lesson_number(lesson_path)
@@ -796,6 +1222,7 @@ def build_seminar(slug: str) -> BuildStats:
         rendered, lesson_stats = render_lesson(
             lesson_path,
             translation_path if translation_path.exists() else None,
+            reading_notes_by_segment,
         )
         write_text(output_dir / output_name, rendered)
         stats.lessons += lesson_stats.lessons
@@ -803,8 +1230,12 @@ def build_seminar(slug: str) -> BuildStats:
         stats.untranslated_blocks += lesson_stats.untranslated_blocks
         stats.missing_translations += lesson_stats.missing_translations
 
+    for note in reading_notes:
+        write_text(output_dir / note.output_relative_path, render_reading_note(note))
+
     copy_assets(original_dir / "assets", output_dir / "assets")
     copy_assets(translation_dir / "assets", output_dir / "assets")
+    copy_assets(notes_dir / "assets", output_dir / NOTES_DIR_NAME / "assets")
 
     glossary = seminar_dir / "glossary.md"
     if glossary.exists():
@@ -813,12 +1244,38 @@ def build_seminar(slug: str) -> BuildStats:
     return stats
 
 
+def validate_seminar_id_markers(slug: str) -> None:
+    seminar_dir = TEXTS_DIR / slug
+    original_dir = seminar_dir / "original"
+    translation_dir = seminar_dir / "translation"
+    notes_dir = seminar_dir / NOTES_DIR_NAME
+
+    if not original_dir.exists():
+        raise FileNotFoundError(f"Missing original directory: {original_dir}")
+
+    for lesson_path in lesson_markdown_files(original_dir):
+        validate_unique_id_markers_in_file(lesson_path)
+    for lesson_path in lesson_markdown_files(translation_dir):
+        validate_unique_id_markers_in_file(lesson_path)
+    for note_path in note_markdown_files(notes_dir):
+        validate_unique_id_markers_in_file(note_path)
+
+
+def validate_selected_seminar_id_markers(seminars: Iterable[str]) -> None:
+    for slug in seminars:
+        validate_seminar_id_markers(slug)
+
+
 def render_seminar_readme(slug: str, seminar_dir: Path) -> str:
     title = seminar_title(slug, seminar_dir)
     lines = [f"# {title}", ""]
 
     if (seminar_dir / "glossary.md").exists() or (BUILD_DIR / slug / "glossary.md").exists():
         lines.append("- [术语表](glossary.md)")
+        lines.append("")
+
+    if (seminar_dir / NOTES_DIR_NAME).exists() or (BUILD_DIR / slug / NOTES_DIR_NAME / "README.md").exists():
+        lines.append("- [阅读笔记](notes/README.md)")
         lines.append("")
 
     original_dir = seminar_dir / "original"
@@ -895,6 +1352,17 @@ def write_summary() -> None:
         if glossary.exists():
             lines.append(f"  - [术语表]({slug}/glossary.md)")
 
+        notes_readme = BUILD_DIR / slug / NOTES_DIR_NAME / "README.md"
+        if notes_readme.exists():
+            lines.append(f"  - [阅读笔记]({slug}/notes/README.md)")
+            for note in sorted(
+                (path for path in (BUILD_DIR / slug / NOTES_DIR_NAME).rglob("*.md") if path.name != "README.md"),
+                key=lambda path: path.relative_to(BUILD_DIR / slug / NOTES_DIR_NAME).as_posix(),
+            ):
+                note_title_value = first_markdown_heading(read_text(note))
+                label = note_title_value.lstrip("#").strip() if note_title_value else note.stem
+                lines.append(f"    - [{label}]({slug}/notes/{note.relative_to(BUILD_DIR / slug / NOTES_DIR_NAME).as_posix()})")
+
         for lesson in lesson_markdown_files(BUILD_DIR / slug):
             lesson_title = first_markdown_heading(read_text(lesson))
             label = lesson_title.lstrip("#").strip() if lesson_title else lesson.stem
@@ -934,6 +1402,11 @@ def main() -> None:
     seminars = args.seminar or discover_text_seminars()
     if not seminars:
         raise SystemExit("No seminar directories found under texts/")
+
+    try:
+        validate_selected_seminar_id_markers(seminars)
+    except DuplicateIdError as error:
+        raise SystemExit(str(error)) from None
 
     stats = combine_stats(build_seminar(slug) for slug in seminars)
     if not args.skip_summary:

@@ -15,6 +15,7 @@ formulas:
   lessonTitle: formula.lessonId + " · Leçon " + formula.lessonPadded
   originalPath: file.path
   translationPath: file.path.replace("/original/", "/translation/")
+  notesIndexPath: "texts/" + formula.seminarSlug + "/notes/README.md"
   translationFile: link(formula.translationPath).asFile()
   translationStatus: if(formula.translationFile, "已有译文", "译文不存在")
   translationProgress: if(formula.translationFile, formula.translationFile.properties.translation_progress, 0)
@@ -23,6 +24,7 @@ formulas:
   maxSegmentId: if(formula.translationFile, formula.translationFile.properties.max_segment_id, "")
   original: link(formula.originalPath, "打开原文")
   translation: link(formula.translationPath, if(formula.translationFile, "打开译文", "新建翻译"))
+  notes: link(formula.notesIndexPath, "阅读笔记")
 properties:
   formula.lessonTitle:
     displayName: Leçon
@@ -36,10 +38,14 @@ properties:
     displayName: 原文
   formula.translation:
     displayName: 译文
+  formula.notes:
+    displayName: 笔记
   formula.originalPath:
     displayName: 原文路径
   formula.translationPath:
     displayName: 译文路径
+  formula.notesIndexPath:
+    displayName: 笔记路径
   formula.translationStatus:
     displayName: 译文状态
   formula.translationProgressLabel:
@@ -73,6 +79,7 @@ views:
       - formula.lessonTitle
       - formula.original
       - formula.translation
+      - formula.notes
       - formula.translationProgressLabel
       - formula.untranslatedCount
       - formula.maxSegmentId
