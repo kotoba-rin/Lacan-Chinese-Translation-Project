@@ -99,7 +99,11 @@ class ReadingNotesBuildTest(unittest.TestCase):
                             "",
                             "<!-- id: s8-01-0001 -->",
                             "",
-                            "译文参见 [[notes/material|材料一]]。",
+                            "译文正文。",
+                            "",
+                            "[[notes/material|阅读笔记]]",
+                            "",
+                            "> 译者说明。",
                         ]
                     )
                     + "\n",
@@ -121,6 +125,14 @@ class ReadingNotesBuildTest(unittest.TestCase):
                     + "\n",
                     encoding="utf-8",
                 )
+                stale_output_dir = build_from_texts.BUILD_DIR / "s8-le-transfert"
+                (stale_output_dir / "notes").mkdir(parents=True)
+                (stale_output_dir / "notes" / "stale.md").write_text(
+                    "# 旧笔记\n",
+                    encoding="utf-8",
+                )
+                (stale_output_dir / "assets").mkdir()
+                (stale_output_dir / "assets" / "old.png").write_bytes(b"old")
 
                 build_from_texts.build_seminar("s8-le-transfert")
                 build_from_texts.write_summary()
@@ -136,13 +148,22 @@ class ReadingNotesBuildTest(unittest.TestCase):
                 ).read_text(encoding="utf-8")
                 summary = (build_from_texts.BUILD_DIR / "SUMMARY.md").read_text(encoding="utf-8")
 
-                self.assertIn("[材料一](notes/material.md)", lesson)
                 self.assertIn('class="reading-note-links"', lesson)
-                self.assertIn("[材料一](notes/material.md)", lesson)
+                self.assertIn('<a href="notes/material.md">材料一</a>', lesson)
+                self.assertNotIn("[阅读笔记](notes/material.md)", lesson)
+                self.assertNotIn("<ul>", lesson)
+                self.assertLess(lesson.index("译文正文。"), lesson.index('class="reading-note-links"'))
+                self.assertLess(lesson.index('class="commentary-block"'), lesson.index('class="reading-note-links"'))
                 self.assertIn("[第一段](../Leçon-01.md#s8-01-0001)", note)
                 self.assertIn("[s8-01-0001](../Leçon-01.md#s8-01-0001)", note)
                 self.assertIn("[材料一](material.md)", notes_index)
                 self.assertIn("[阅读笔记](s8-le-transfert/notes/README.md)", summary)
+                self.assertFalse(
+                    (build_from_texts.BUILD_DIR / "s8-le-transfert" / "notes" / "stale.md").exists()
+                )
+                self.assertFalse(
+                    (build_from_texts.BUILD_DIR / "s8-le-transfert" / "assets" / "old.png").exists()
+                )
             finally:
                 build_from_texts.TEXTS_DIR = old_texts_dir
                 build_from_texts.TEXTS_INDEX = old_texts_index

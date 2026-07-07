@@ -560,22 +560,59 @@ module.exports = class LacanTranslationHelper extends Plugin {
   insertReadingNoteLink(text, segmentId) {
     const sourceText = String(text || "");
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
-    if (this.hasReadingNoteLink(sourceText, normalizedSegmentId)) {
+    const markers = this.segmentCommentMatches(sourceText);
+    const markerIndex = markers.findIndex((marker) => marker.ids.includes(normalizedSegmentId));
+    if (markerIndex < 0) {
       return sourceText;
     }
 
-    const markerPattern = new RegExp(
-      `(^[ \\t]*<!--\\s*id\\s*:?\\s*${this.escapeRegExp(normalizedSegmentId)}\\s*-->[ \\t]*)(?:\\r?\\n)*`,
-      "im"
+    const marker = markers[markerIndex];
+    const nextMarker = markers[markerIndex + 1];
+    const blockStart = marker.end;
+    const blockEnd = nextMarker ? nextMarker.index : sourceText.length;
+    const updatedBlock = this.insertReadingNoteLinkIntoSegmentBlock(
+      sourceText.slice(blockStart, blockEnd),
+      normalizedSegmentId
     );
-    if (!markerPattern.test(sourceText)) {
-      return sourceText;
-    }
+    return `${sourceText.slice(0, blockStart)}${updatedBlock}${sourceText.slice(blockEnd)}`;
+  }
 
-    return sourceText.replace(
-      markerPattern,
-      `$1\n\n${this.readingNoteWikiLinkForSegment(normalizedSegmentId)}\n\n`
+  insertReadingNoteLinkIntoSegmentBlock(block, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    const lines = String(block || "").replace(/\r\n/g, "\n").split("\n");
+    const keptLines = lines.filter((line) => !this.isReadingNoteLinkLineForSegment(line, normalizedSegmentId));
+    return this.formatSegmentBlockSections([
+      keptLines,
+      [this.readingNoteWikiLinkForSegment(normalizedSegmentId)],
+    ]);
+  }
+
+  isReadingNoteLinkLineForSegment(line, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    const pattern = new RegExp(
+      `^\\s*\\[\\[\\s*notes/${this.escapeRegExp(normalizedSegmentId)}(?:\\.md)?(?:#[^\\]|]+)?(?:\\|[^\\]]*)?\\]\\]\\s*$`,
+      "i"
     );
+    return pattern.test(String(line || ""));
+  }
+
+  formatSegmentBlockSections(sections) {
+    const normalizedSections = sections
+      .map((lines) => this.trimBlankLines(lines))
+      .filter((lines) => lines.some((line) => line.trim()));
+    return `\n\n${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}\n\n`;
+  }
+
+  trimBlankLines(lines) {
+    let start = 0;
+    let end = lines.length;
+    while (start < end && !String(lines[start] || "").trim()) {
+      start += 1;
+    }
+    while (end > start && !String(lines[end - 1] || "").trim()) {
+      end -= 1;
+    }
+    return lines.slice(start, end);
   }
 
   async createOrUpdateReadingNoteFile(notePath, segmentId, sourcePath = "") {
@@ -1720,6 +1757,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     for (const match of this.segmentCommentMatches(text)) {
       matches.push({
         id: match.id,
+        ids: match.ids,
         start: match.index,
         end: match.end,
       });
@@ -1729,8 +1767,10 @@ module.exports = class LacanTranslationHelper extends Plugin {
       const current = matches[index];
       const next = matches[index + 1];
       const content = text.slice(current.end, next ? next.start : text.length).trim();
-      if (!segments.has(current.id)) {
-        segments.set(current.id, content);
+      for (const id of current.ids) {
+        if (!segments.has(id)) {
+          segments.set(id, content);
+        }
       }
     }
 
@@ -1750,8 +1790,10 @@ module.exports = class LacanTranslationHelper extends Plugin {
       }
       markers.push({
         id: match.id,
+        ids: match.ids,
         idStart: match.index,
         line,
+        targetLine: line,
         contentStart: match.end,
         nextLine: null,
         text: "",
@@ -1762,7 +1804,11 @@ module.exports = class LacanTranslationHelper extends Plugin {
       const current = markers[index];
       const next = markers[index + 1];
       current.nextLine = next ? next.line : null;
-      current.text = text.slice(current.contentStart, next ? next.idStart : text.length).trim();
+      current.text = text.slice(current.contentStart, next ? next.idStart : text.length);
+      const visibleLineOffset = this.firstVisibleSegmentLineOffset(current.text);
+      if (visibleLineOffset !== null) {
+        current.targetLine = this.lineNumberAtOffset(text, current.contentStart) + visibleLineOffset;
+      }
       current.snippet = this.firstVisibleSegmentSnippet(current.text);
     }
     return markers;
@@ -1781,6 +1827,9 @@ module.exports = class LacanTranslationHelper extends Plugin {
   firstVisibleSegmentSnippet(text) {
     const withoutComments = String(text || "").replace(/<!--[\s\S]*?-->/g, "\n");
     for (const line of withoutComments.split(/\r?\n/)) {
+      if (this.isSegmentHelperLine(line)) {
+        continue;
+      }
       const normalized = this.normalizeRenderedText(
         line
           .replace(/^\s{0,3}>\s?/, "")
@@ -1793,6 +1842,37 @@ module.exports = class LacanTranslationHelper extends Plugin {
       }
     }
     return "";
+  }
+
+  firstVisibleSegmentLineOffset(text) {
+    const lines = String(text || "").split(/\r?\n/);
+    for (let index = 0; index < lines.length; index += 1) {
+      if (!this.isSegmentHelperLine(lines[index])) {
+        return index;
+      }
+    }
+    return null;
+  }
+
+  isSegmentHelperLine(line) {
+    const value = String(line || "").trim();
+    return !value || /^<!--[\s\S]*-->$/.test(value) || this.isReadingNoteLinkLine(value);
+  }
+
+  isReadingNoteLinkLine(line) {
+    return /^\[\[\s*notes\/[^|\]]+(?:\|[^\]]*)?\]\]$/.test(String(line || "").trim());
+  }
+
+  lineNumberAtOffset(text, offset) {
+    const sourceText = String(text || "");
+    const limit = Math.max(0, Math.min(Number(offset) || 0, sourceText.length));
+    let line = 0;
+    for (let index = 0; index < limit; index += 1) {
+      if (sourceText.charCodeAt(index) === 10) {
+        line += 1;
+      }
+    }
+    return line;
   }
 
   normalizeRenderedText(text) {
@@ -1848,8 +1928,9 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
   findLineAnchorForMarker(marker, usedAnchors, anchorIndex) {
     const lineAnchors = anchorIndex?.lineAnchors || [];
+    const targetLine = Number.isFinite(Number(marker.targetLine)) ? Number(marker.targetLine) : marker.line;
     let cursor = anchorIndex?.lineCursor || 0;
-    while (cursor < lineAnchors.length && lineAnchors[cursor].line <= marker.line) {
+    while (cursor < lineAnchors.length && lineAnchors[cursor].line < targetLine) {
       cursor += 1;
     }
 
@@ -1877,43 +1958,85 @@ module.exports = class LacanTranslationHelper extends Plugin {
   }
 
   segmentCommentMatches(text) {
-    const matches = [];
+    const rawMatches = [];
     SEGMENT_ID_COMMENT_RE.lastIndex = 0;
     let match;
     while ((match = SEGMENT_ID_COMMENT_RE.exec(text)) !== null) {
-      const ids = this.segmentIdsFromComment(match[0]);
-      if (ids.length === 0) {
+      const info = this.segmentCommentInfo(match[0]);
+      if (info.ids.length === 0) {
         continue;
       }
+      rawMatches.push({
+        label: info.label,
+        id: info.ids[0],
+        ids: info.ids,
+        index: match.index,
+        end: SEGMENT_ID_COMMENT_RE.lastIndex,
+      });
+    }
+
+    const matches = [];
+    for (let index = 0; index < rawMatches.length; index += 1) {
+      const current = rawMatches[index];
+      if (current.label !== "id") {
+        continue;
+      }
+
+      const next = rawMatches[index + 1];
+      const hasAttachedIds = (
+        next?.label === "ids" &&
+        /^\s*$/.test(String(text || "").slice(current.end, next.index))
+      );
+      const ids = hasAttachedIds
+        ? this.mergeSegmentIds(current.ids, next.ids)
+        : current.ids;
       matches.push({
         id: ids[0],
         ids,
-        index: match.index,
-        end: SEGMENT_ID_COMMENT_RE.lastIndex,
+        index: current.index,
+        end: hasAttachedIds ? next.end : current.end,
       });
     }
     return matches;
   }
 
   segmentIdsFromComment(commentText) {
+    return this.segmentCommentInfo(commentText).ids;
+  }
+
+  segmentCommentInfo(commentText) {
     const body = String(commentText || "")
       .replace(/^\s*<!--\s*/, "")
       .replace(/\s*-->\s*$/, "")
       .trim();
-    const labelMatch = body.match(/^ids?\b\s*:?\s*([\s\S]+)$/i);
+    const labelMatch = body.match(/^(ids?)\b\s*:?\s*([\s\S]+)$/i);
     if (!labelMatch) {
-      return [];
+      return { label: "", ids: [] };
     }
 
     const ids = [];
     const seen = new Set();
     SEGMENT_ID_TOKEN_RE.lastIndex = 0;
     let match;
-    while ((match = SEGMENT_ID_TOKEN_RE.exec(labelMatch[1])) !== null) {
+    while ((match = SEGMENT_ID_TOKEN_RE.exec(labelMatch[2])) !== null) {
       const id = match[0].toLowerCase();
       if (!seen.has(id)) {
         ids.push(id);
         seen.add(id);
+      }
+    }
+    return { label: labelMatch[1].toLowerCase(), ids };
+  }
+
+  mergeSegmentIds(...groups) {
+    const ids = [];
+    const seen = new Set();
+    for (const group of groups) {
+      for (const id of group || []) {
+        if (!seen.has(id)) {
+          ids.push(id);
+          seen.add(id);
+        }
       }
     }
     return ids;
@@ -1932,14 +2055,17 @@ module.exports = class LacanTranslationHelper extends Plugin {
         return;
       }
 
-      this.markRenderedSegmentLink(linkEl, segmentId);
+      this.markRenderedSegmentLink(linkEl, segmentId, this.segmentTargetPathFromLinkElement(linkEl));
     });
   }
 
-  markRenderedSegmentLink(linkEl, segmentId) {
+  markRenderedSegmentLink(linkEl, segmentId, targetPath = "") {
     linkEl.classList.remove("internal-link", "is-unresolved");
     linkEl.classList.add("lacan-segment-link");
     linkEl.dataset.lacanSegmentId = segmentId;
+    if (targetPath) {
+      linkEl.dataset.lacanSegmentTargetPath = targetPath;
+    }
     linkEl.setAttribute("href", "#");
     linkEl.setAttribute("title", `打开「${segmentId}」译文`);
   }
@@ -1957,7 +2083,10 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
     event.preventDefault();
     event.stopPropagation();
-    this.runWithNotice(() => this.openSegmentId(segmentId), "打开分段失败");
+    this.runWithNotice(
+      () => this.openSegmentId(segmentId, this.segmentTargetPathFromLinkElement(linkEl)),
+      "打开分段失败"
+    );
   }
 
   handleSegmentLinkPreviewEnter(event) {
@@ -2045,6 +2174,42 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
 
     return "";
+  }
+
+  segmentTargetPathFromLinkElement(linkEl) {
+    const datasetPath = normalizePath(linkEl?.dataset?.lacanSegmentTargetPath || "");
+    if (datasetPath) {
+      return datasetPath;
+    }
+
+    const target = (
+      linkEl?.getAttribute?.("data-href") ||
+      linkEl?.getAttribute?.("href") ||
+      ""
+    );
+    return this.segmentTargetPathFromLinkTarget(target);
+  }
+
+  segmentTargetPathFromLinkTarget(target) {
+    const value = String(target || "").trim();
+    if (!value.includes("#")) {
+      return "";
+    }
+
+    const pathPart = value.split("#")[0].trim();
+    if (!pathPart || /^[a-z][a-z0-9+.-]*:/i.test(pathPart)) {
+      return "";
+    }
+
+    return normalizePath(this.safeDecodeURIComponent(pathPart));
+  }
+
+  safeDecodeURIComponent(value) {
+    try {
+      return decodeURIComponent(value);
+    } catch (_error) {
+      return String(value || "");
+    }
   }
 
   segmentIdFromExplicitLinkTarget(target) {
@@ -2195,31 +2360,115 @@ module.exports = class LacanTranslationHelper extends Plugin {
     const content = this.extractSegmentsById(String(text || "")).get(normalizedSegmentId) || "";
     return content
       .split(/\r?\n/)
-      .filter((line) => !/^\s*\[\[\s*notes\/[^|\]]+(?:\|[^\]]*)?\]\]\s*$/.test(line))
+      .filter((line) => !this.isReadingNoteLinkLine(line))
       .join("\n")
       .trim();
   }
 
-  async openSegmentId(segmentId) {
-    const match = segmentId.match(SEGMENT_ID_LINK_RE);
+  async openSegmentId(segmentId, targetPath = "") {
+    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+    const match = normalizedSegmentId.match(SEGMENT_ID_LINK_RE);
     if (!match) {
       throw new Error(`不是有效的分段 ID：${segmentId}`);
     }
 
+    const explicitFile = this.fileFromSegmentTargetPath(targetPath);
+    const file = explicitFile || this.findSegmentLessonFileForIdMatch(match);
+    if (!(file instanceof TFile)) {
+      const seminarCode = `s${match[1]}`.toLowerCase();
+      const lessonNumber = Number(match[2]);
+      throw new Error(`找不到对应课文：${seminarCode} Leçon ${String(lessonNumber).padStart(2, "0")}`);
+    }
+
+    const text = await this.app.vault.cachedRead(file);
+    const location = this.findSegmentLocation(text, normalizedSegmentId);
+    if (!location) {
+      if (explicitFile) {
+        throw new Error(`目标文件中没有找到分段：${file.path}#${normalizedSegmentId}`);
+      }
+      throw new Error(`已找到课文文件，但没有找到分段：${normalizedSegmentId}`);
+    }
+
+    await this.openFile(file, this.openStateForSegmentLocation(location));
+    const revealed = await this.revealSegmentAfterOpen(normalizedSegmentId, file, location);
+    if (!revealed) {
+      new Notice(`已打开课文，但暂时无法定位分段：${normalizedSegmentId}`);
+    }
+  }
+
+  findSegmentLessonFileForIdMatch(match) {
     const seminarCode = `s${match[1]}`.toLowerCase();
     const lessonNumber = Number(match[2]);
     const seminarSlug = this.findSeminarSlugForCode(seminarCode);
     if (!seminarSlug) {
-      throw new Error(`找不到对应研讨班：${seminarCode}`);
+      return null;
+    }
+    return this.findSegmentLessonFile(seminarSlug, lessonNumber);
+  }
+
+  findSegmentLocation(text, segmentId) {
+    const normalizedSegmentId = String(segmentId || "").toLowerCase();
+    const marker = this.extractSegmentMarkers(text).find((item) => item.ids.includes(normalizedSegmentId));
+    if (!marker) {
+      return null;
     }
 
-    const file = this.findSegmentLessonFile(seminarSlug, lessonNumber);
-    if (!(file instanceof TFile)) {
-      throw new Error(`找不到对应课文：${seminarSlug} Leçon ${String(lessonNumber).padStart(2, "0")}`);
+    const line = Math.max(0, Number(marker.targetLine) || 0);
+    return {
+      line,
+      col: 0,
+      offset: this.offsetAtLine(text, line),
+    };
+  }
+
+  offsetAtLine(text, lineNumber) {
+    const sourceText = String(text || "");
+    const targetLine = Math.max(0, Number(lineNumber) || 0);
+    let line = 0;
+    for (let index = 0; index < sourceText.length; index += 1) {
+      if (line === targetLine) {
+        return index;
+      }
+      if (sourceText.charCodeAt(index) === 10) {
+        line += 1;
+      }
+    }
+    return sourceText.length;
+  }
+
+  openStateForSegmentLocation(location) {
+    const loc = this.normalizedLoc(location);
+    return {
+      active: true,
+      eState: this.ephemeralStateForSegmentLocation(loc),
+    };
+  }
+
+  ephemeralStateForSegmentLocation(location) {
+    const loc = this.normalizedLoc(location);
+    return {
+      line: loc.line,
+      startLoc: loc,
+      endLoc: loc,
+    };
+  }
+
+  normalizedLoc(location) {
+    return {
+      line: Math.max(0, Number(location?.line) || 0),
+      col: Math.max(0, Number(location?.col) || 0),
+      offset: Math.max(0, Number(location?.offset) || 0),
+    };
+  }
+
+  fileFromSegmentTargetPath(targetPath) {
+    const normalizedPath = normalizePath(targetPath || "");
+    if (!this.isTextMarkdownPath(normalizedPath)) {
+      return null;
     }
 
-    await this.openFile(file);
-    await this.scrollActiveViewToSegment(segmentId);
+    const file = this.app.vault.getAbstractFileByPath(normalizedPath);
+    return file instanceof TFile ? file : null;
   }
 
   findSeminarSlugForCode(seminarCode) {
@@ -2256,15 +2505,96 @@ module.exports = class LacanTranslationHelper extends Plugin {
     return null;
   }
 
-  async scrollActiveViewToSegment(segmentId) {
-    if (await this.scrollActiveEditorToSegment(segmentId)) {
-      return;
+  async revealSegmentAfterOpen(segmentId, file, location) {
+    const loc = this.normalizedLoc(location);
+    for (let attempt = 0; attempt < 20; attempt += 1) {
+      await this.nextAnimationFrame();
+      if (file instanceof TFile && !this.activeFileMatches(file)) {
+        await this.delay(40);
+        continue;
+      }
+
+      this.applySegmentEphemeralState(loc);
+      if (await this.scrollActiveEditorToLocation(loc)) {
+        return true;
+      }
+      if (await this.scrollActivePreviewToSegment(segmentId)) {
+        return true;
+      }
+
+      await this.delay(40);
     }
-    await this.scrollActivePreviewToSegment(segmentId);
+    return false;
+  }
+
+  applySegmentEphemeralState(location) {
+    const view = Obsidian.MarkdownView
+      ? this.app.workspace.getActiveViewOfType(Obsidian.MarkdownView)
+      : this.app.workspace.activeLeaf?.view;
+    if (typeof view?.setEphemeralState === "function") {
+      view.setEphemeralState(this.ephemeralStateForSegmentLocation(location));
+    }
+  }
+
+  async scrollActiveViewToSegment(segmentId, file = null) {
+    for (let attempt = 0; attempt < 20; attempt += 1) {
+      await this.nextAnimationFrame();
+      if (file instanceof TFile && !this.activeFileMatches(file)) {
+        await this.delay(40);
+        continue;
+      }
+
+      if (await this.scrollActiveEditorToSegment(segmentId)) {
+        return true;
+      }
+      if (await this.scrollActivePreviewToSegment(segmentId)) {
+        return true;
+      }
+
+      await this.delay(40);
+    }
+    return false;
+  }
+
+  activeFileMatches(file) {
+    const activeFile = this.app.workspace.getActiveFile();
+    return (
+      activeFile instanceof TFile &&
+      normalizePath(activeFile.path) === normalizePath(file.path)
+    );
+  }
+
+  nextAnimationFrame() {
+    if (typeof window !== "undefined" && typeof window.requestAnimationFrame === "function") {
+      return new Promise((resolve) => window.requestAnimationFrame(resolve));
+    }
+    return this.delay(0);
+  }
+
+  delay(milliseconds) {
+    const setTimer = typeof window !== "undefined" && typeof window.setTimeout === "function"
+      ? window.setTimeout.bind(window)
+      : setTimeout;
+    return new Promise((resolve) => setTimer(resolve, milliseconds));
+  }
+
+  async scrollActiveEditorToLocation(location) {
+    const view = Obsidian.MarkdownView
+      ? this.app.workspace.getActiveViewOfType(Obsidian.MarkdownView)
+      : this.app.workspace.activeLeaf?.view;
+    const editor = view?.editor;
+    if (!editor) {
+      return false;
+    }
+
+    const loc = this.normalizedLoc(location);
+    const position = { line: loc.line, ch: loc.col };
+    editor.setCursor(position);
+    editor.scrollIntoView({ from: position, to: position }, true);
+    return true;
   }
 
   async scrollActiveEditorToSegment(segmentId) {
-    await new Promise((resolve) => window.requestAnimationFrame(resolve));
     const view = Obsidian.MarkdownView
       ? this.app.workspace.getActiveViewOfType(Obsidian.MarkdownView)
       : this.app.workspace.activeLeaf?.view;
@@ -2275,7 +2605,6 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
     const line = this.findSegmentLine(editor.getValue(), segmentId);
     if (line < 0) {
-      new Notice(`已打开课文，但没有找到分段：${segmentId}`);
       return false;
     }
 
@@ -2286,7 +2615,6 @@ module.exports = class LacanTranslationHelper extends Plugin {
   }
 
   async scrollActivePreviewToSegment(segmentId) {
-    await new Promise((resolve) => window.requestAnimationFrame(resolve));
     const view = Obsidian.MarkdownView
       ? this.app.workspace.getActiveViewOfType(Obsidian.MarkdownView)
       : this.app.workspace.activeLeaf?.view;
@@ -2297,9 +2625,9 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
 
     const text = await this.app.vault.cachedRead(file);
-    const marker = this.extractSegmentMarkers(text).find((item) => item.id === String(segmentId).toLowerCase());
+    const normalizedSegmentId = String(segmentId || "").toLowerCase();
+    const marker = this.extractSegmentMarkers(text).find((item) => item.ids.includes(normalizedSegmentId));
     if (!marker) {
-      new Notice(`已打开课文，但没有找到分段：${segmentId}`);
       return false;
     }
 
@@ -2315,22 +2643,8 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
   findSegmentLine(text, segmentId) {
     const normalizedSegmentId = String(segmentId || "").toLowerCase();
-    const commentRe = /<!--[\s\S]*?-->/g;
-    let cursor = 0;
-    let line = 0;
-    let match;
-    while ((match = commentRe.exec(text)) !== null) {
-      while (cursor < match.index) {
-        if (text.charCodeAt(cursor) === 10) {
-          line += 1;
-        }
-        cursor += 1;
-      }
-      if (this.segmentIdsFromComment(match[0]).includes(normalizedSegmentId)) {
-        return line;
-      }
-    }
-    return -1;
+    const marker = this.extractSegmentMarkers(text).find((item) => item.ids.includes(normalizedSegmentId));
+    return marker ? marker.targetLine : -1;
   }
 
   async createTranslationForOriginal(originalFile, options = {}) {
@@ -2654,8 +2968,8 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
   }
 
-  async openFile(file) {
-    await this.app.workspace.getLeaf(false).openFile(file);
+  async openFile(file, openState = undefined) {
+    await this.app.workspace.getLeaf(false).openFile(file, openState);
   }
 };
 

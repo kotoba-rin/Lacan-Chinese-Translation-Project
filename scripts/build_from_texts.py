@@ -21,9 +21,9 @@ or a grouped alignment:
 
 Grouped alignments are rendered once with all corresponding original
 paragraphs. Each rendered block is ordered as original, translation, notes,
-and commentary. Quote blocks in translation content are classified as notes
-when their first visible text starts with "注"; other quote blocks are
-rendered as commentary. Reading notes are rendered into
+commentary, and reading note links. Quote blocks in translation content are
+classified as notes when their first visible text starts with "注"; other quote
+blocks are rendered as commentary. Reading notes are rendered into
 build/<seminar>/notes/ and linked back to translation paragraphs by segment ID.
 """
 
@@ -53,6 +53,14 @@ NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
 INLINE_STRONG_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
 OBSIDIAN_IMAGE_RE = re.compile(r"!\[\[([^\]\n]+?)\]\]")
 OBSIDIAN_WIKI_LINK_RE = re.compile(r"(?<!!)\[\[([^\]\n]+?)\]\]")
+READING_NOTE_LINK_LINE_RE = re.compile(
+    r"^\s*\[\[\s*notes/[^|\]\n]+(?:\.md)?(?:#[^|\]\n]+)?(?:\|[^\]\n]*)?\]\]\s*$",
+    re.IGNORECASE,
+)
+READING_NOTE_MARKDOWN_LINK_LINE_RE = re.compile(
+    r"^\s*\[[^\]\n]*阅读笔记[^\]\n]*\]\(notes/[^)\n]+(?:\.md)?(?:#[^)\n]+)?\)\s*$",
+    re.IGNORECASE,
+)
 OBSIDIAN_IMAGE_SIZE_RE = re.compile(r"^(\d+)(?:x(\d+))?$", re.IGNORECASE)
 INLINE_CODE_SPAN_RE = re.compile(r"(`+)(.*?)(\1)")
 SEGMENT_ID_TOKEN_RE = re.compile(r"\bs\d+[a-z]?-\d+-\d+\b", re.IGNORECASE)
@@ -870,6 +878,10 @@ def split_translation_chunks(content: str) -> list[tuple[str, list[str]]]:
 
     while index < len(lines):
         line = lines[index]
+        if reading_note_link_line(line):
+            flush_normal()
+            index += 1
+            continue
         if line.lstrip().startswith(">"):
             flush_normal()
             quote: list[str] = []
@@ -885,6 +897,13 @@ def split_translation_chunks(content: str) -> list[tuple[str, list[str]]]:
 
     flush_normal()
     return [(kind, chunk) for kind, chunk in chunks if chunk]
+
+
+def reading_note_link_line(line: str) -> bool:
+    return bool(
+        READING_NOTE_LINK_LINE_RE.match(line)
+        or READING_NOTE_MARKDOWN_LINK_LINE_RE.match(line)
+    )
 
 
 def trim_blank_lines(lines: list[str]) -> list[str]:
@@ -1065,9 +1084,6 @@ def render_parallel_block(
         f'<div class="paragraph-id">{ids_label}</div>',
     ])
 
-    if reading_notes:
-        out.extend(render_reading_note_links(reading_notes))
-
     out.extend([
         '<details class="original-block" open>',
         f"<summary>原文 · {ids_label}</summary>",
@@ -1083,6 +1099,8 @@ def render_parallel_block(
         out.extend(["", translation.notes])
     if translation.commentary:
         out.extend(["", translation.commentary])
+    if reading_notes:
+        out.extend(["", *render_reading_note_links(reading_notes)])
 
     out.extend(["</section>", ""])
     return out
@@ -1103,12 +1121,15 @@ def notes_for_paragraph_ids(
 
 
 def render_reading_note_links(reading_notes: list[ReadingNote]) -> list[str]:
-    out = ['<div class="reading-note-links">', '<div class="reading-note-links-title">相关阅读笔记</div>', "<ul>"]
+    out = ['<div class="reading-note-links" aria-label="相关阅读笔记">']
+    out.append('<span class="reading-note-links-title">阅读笔记</span>')
+    links: list[str] = []
     for note in reading_notes:
         href = escape(note.output_relative_path.as_posix(), quote=True)
         title = escape(note.title)
-        out.append(f'<li><a href="{href}">{title}</a></li>')
-    out.extend(["</ul>", "</div>"])
+        links.append(f'<a href="{href}">{title}</a>')
+    out.append(f'<span class="reading-note-links-list">{" · ".join(links)}</span>')
+    out.append("</div>")
     return out
 
 
@@ -1153,9 +1174,10 @@ def matching_lesson_file(directory: Path, number: int | None, preferred_name: st
     return candidates[0]
 
 
-def remove_build_lesson_files(output_dir: Path) -> None:
-    for path in lesson_markdown_files(output_dir):
-        path.unlink()
+def reset_build_seminar_dir(output_dir: Path) -> None:
+    if output_dir.exists():
+        shutil.rmtree(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
 
 def seminar_title(slug: str, seminar_dir: Path) -> str:
@@ -1208,8 +1230,7 @@ def build_seminar(slug: str) -> BuildStats:
     if not original_dir.exists():
         raise FileNotFoundError(f"Missing original directory: {original_dir}")
 
-    output_dir.mkdir(parents=True, exist_ok=True)
-    remove_build_lesson_files(output_dir)
+    reset_build_seminar_dir(output_dir)
     reading_notes = parse_reading_notes(seminar_dir)
     reading_notes_by_segment = notes_by_segment(reading_notes)
     write_text(output_dir / "README.md", render_seminar_readme(slug, seminar_dir))

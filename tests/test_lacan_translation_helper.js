@@ -153,12 +153,79 @@ try {
     true
   );
   assert.strictEqual(
+    plugin.segmentTargetPathFromLinkElement({
+      dataset: {},
+      getAttribute(name) {
+        return name === "data-href" ? "texts/s8-le-transfert/translation/Le%C3%A7on-11.md#s8-11-0041" : "";
+      },
+    }),
+    "texts/s8-le-transfert/translation/Leçon-11.md"
+  );
+  assert.strictEqual(
+    plugin.segmentTargetPathFromLinkElement({
+      dataset: { lacanSegmentTargetPath: "texts/s8-le-transfert/translation/Leçon-11.md" },
+      getAttribute() {
+        return "#";
+      },
+    }),
+    "texts/s8-le-transfert/translation/Leçon-11.md"
+  );
+  assert.strictEqual(
     plugin.segmentPreviewContent(
       "<!-- id: s8-11-0041 -->\n\n[[notes/s8-11-0041|阅读笔记]]\n\n这里是真正的译文。",
       "s8-11-0041"
     ),
     "这里是真正的译文。"
   );
+  const segmentSource = [
+    "<!-- id: s8-11-0041 -->",
+    "",
+    "[[notes/s8-11-0041|阅读笔记]]",
+    "",
+    "这里是真正的译文。",
+    "",
+    "<!-- id: s8-11-0042 -->",
+    "",
+    "下一段。",
+  ].join("\n");
+  const firstMarker = plugin.extractSegmentMarkers(segmentSource)[0];
+  assert.strictEqual(firstMarker.targetLine, 4);
+  assert.strictEqual(firstMarker.snippet, "这里是真正的译文。");
+  assert.strictEqual(plugin.findSegmentLine(segmentSource, "s8-11-0041"), 4);
+  assert.deepStrictEqual(plugin.findSegmentLocation(segmentSource, "s8-11-0041"), {
+    line: 4,
+    col: 0,
+    offset: segmentSource.indexOf("这里是真正的译文。"),
+  });
+  assert.deepStrictEqual(
+    plugin.openStateForSegmentLocation(plugin.findSegmentLocation(segmentSource, "s8-11-0041")),
+    {
+      active: true,
+      eState: {
+        line: 4,
+        startLoc: {
+          line: 4,
+          col: 0,
+          offset: segmentSource.indexOf("这里是真正的译文。"),
+        },
+        endLoc: {
+          line: 4,
+          col: 0,
+          offset: segmentSource.indexOf("这里是真正的译文。"),
+        },
+      },
+    }
+  );
+  assert.strictEqual(plugin.segmentPreviewContent(segmentSource, "s8-11-0041"), "这里是真正的译文。");
+
+  const groupedSegmentSource = [
+    "<!-- id: s8-06-0058 -->",
+    "<!-- ids: s8-06-0058 s8-06-0059 -->",
+    "",
+    "合并译文。",
+  ].join("\n");
+  assert.strictEqual(plugin.extractSegmentsById(groupedSegmentSource).get("s8-06-0059"), "合并译文。");
+  assert.strictEqual(plugin.findSegmentLine(groupedSegmentSource, "s8-06-0059"), 3);
 
   const source = [
     "# Leçon 01",
@@ -168,8 +235,23 @@ try {
     "译文正文。",
   ].join("\n");
   const updated = plugin.insertReadingNoteLink(source, "s8-01-0001");
-  assert.ok(updated.includes("<!-- id: s8-01-0001 -->\n\n[[notes/s8-01-0001|阅读笔记]]\n\n译文正文。"));
+  assert.ok(updated.includes("<!-- id: s8-01-0001 -->\n\n译文正文。\n\n[[notes/s8-01-0001|阅读笔记]]\n\n"));
   assert.strictEqual(plugin.insertReadingNoteLink(updated, "s8-01-0001"), updated);
+  const moved = plugin.insertReadingNoteLink(
+    [
+      "# Leçon 01",
+      "",
+      "<!-- id: s8-01-0001 -->",
+      "",
+      "[[notes/s8-01-0001|阅读笔记]]",
+      "",
+      "译文正文。",
+      "",
+      "> 译者说明。",
+    ].join("\n"),
+    "s8-01-0001"
+  );
+  assert.ok(moved.includes("<!-- id: s8-01-0001 -->\n\n译文正文。\n\n> 译者说明。\n\n[[notes/s8-01-0001|阅读笔记]]\n"));
 
   const file = new MockTFile();
   file.path = "texts/s8-le-transfert/translation/Leçon-01.md";

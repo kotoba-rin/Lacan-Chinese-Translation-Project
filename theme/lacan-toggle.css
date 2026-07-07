@@ -175,29 +175,28 @@ html.lacan-share-mode .parallel-paragraph {
 }
 
 .reading-note-links {
-  margin: 0.25rem 0 0.75rem;
-  padding: 0.45rem 0.65rem;
-  border-left: 3px solid var(--links);
-  border-radius: 0 4px 4px 0;
-  background: color-mix(in srgb, var(--links) 8%, transparent);
-  font-size: 0.86rem;
-  line-height: 1.55;
+  margin: 0.45rem 0 0;
+  padding: 0;
+  color: var(--icons);
+  font-size: 0.72rem;
+  line-height: 1.4;
+  text-align: right;
 }
 
 .reading-note-links-title {
-  margin-bottom: 0.2rem;
+  display: inline;
+  margin: 0;
   color: var(--icons);
   font-family: var(--mono-font);
-  font-size: 0.75rem;
+  font-size: inherit;
 }
 
-.reading-note-links ul {
-  margin: 0;
-  padding-left: 1.2rem;
+.reading-note-links-title::after {
+  content: "：";
 }
 
-.reading-note-links li {
-  margin: 0.1rem 0;
+.reading-note-links-list {
+  display: inline;
 }
 
 .translation-missing {

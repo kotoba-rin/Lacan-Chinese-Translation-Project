@@ -42,7 +42,7 @@ jobs:
         run: python3 scripts/build_from_texts.py
 
       - name: Build mdBook
-        run: mdbook build
+        run: mdbook clean && mdbook build
 
       - name: Zip book directory
         if: startsWith(github.ref, 'refs/tags/')
