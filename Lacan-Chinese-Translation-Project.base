@@ -15,7 +15,7 @@ formulas:
   lessonTitle: formula.lessonId + " · Leçon " + formula.lessonPadded
   originalPath: file.path
   translationPath: file.path.replace("/original/", "/translation/")
-  notesIndexPath: "texts/" + formula.seminarSlug + "/notes/README.md"
+  notesIndexPath: '"texts/" + formula.seminarSlug + "/notes/README.md"'
   translationFile: link(formula.translationPath).asFile()
   translationStatus: if(formula.translationFile, "已有译文", "译文不存在")
   translationProgress: if(formula.translationFile, formula.translationFile.properties.translation_progress, 0)

@@ -97,9 +97,11 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | Platon | 柏拉图 |  |
+| Hegel | 黑格尔 | 第十二课古代哲学作为基督教先导的哲学史语境。 |
 | Voltaire | 伏尔泰 |  |
 | Kant | 康德 |  |
 | Freud | 弗洛伊德 |  |
+| Josef Breuer / Breuer | 约瑟夫·布洛伊尔 / 布洛伊尔 | 第十二课转移作为自发过程被发现的历史语境。 |
 | Nietzsche | 尼采 |  |
 | Sade | 萨德 |  |
 | saint Augustin | 圣奥古斯丁 |  |
@@ -111,6 +113,8 @@
 | Rickman | 里克曼 |  |
 | Hitchcock | 希区柯克 |  |
 | Jones | 琼斯 |  |
+| Herman Nunberg / NUNBERG | 赫尔曼·农伯格 | 第十二课讨论《转移与现实》时出现。 |
+| Daniel Lagache / D. Lagache | 丹尼尔·拉加什 | 第十二课转移报告与“需要的重复/重复的需要”区分。 |
 | Anders Nygren | 安德斯·尼格伦 |  |
 | Massignon | 马西尼翁 |  |
 | Henry Miller | 亨利·米勒 |  |
@@ -136,6 +140,7 @@
 | Françoise Dolto | 弗朗索瓦兹·多尔多 | 第八课中拉康用来类比狄奥提玛的精神分析家。 |
 | W. Granoff | W. 格拉诺夫 | 第八课注释中《对孩子的欲望》报告作者。 |
 | Cabanis | 卡巴尼斯 | 第八课占卜学说明中出现。 |
+| M. Benassy / M. Bénassy | M. 贝纳西 | 第十二课蔡格尼克效应注释中回应拉加什。 |
 | Guillaume Budé | 吉约姆·布代 | 文库名保留“吉约姆·布代文库”。 |
 | Paul-Jean Toulet | 保罗-让·图莱 |  |
 | Alexandre Koyré | 亚历山大·柯瓦雷 | 文中可简称“柯瓦雷”。 |
@@ -184,6 +189,7 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | Le Banquet / Symposium | 会饮篇 |  |
+| Les formations de l’inconscient | 无意识的形成 | 拉康1957—1958年研讨班；第十二课图式注释中出现。 |
 | Erôs et Agapè | 爱欲与圣爱 | 安德斯·尼格伦著作；避免旧译“爱与圣爱”。 |
 | Évangile | 福音书 | 第十一课田中宝藏比喻语境。 |
 | Livre de Ruth | 路得记 | 路得与波阿斯故事来源。 |
@@ -216,6 +222,9 @@
 | La Grande Illusion | 大幻影 | 第九课中拉康误指的雷诺阿影片。 |
 | La Règle du Jeu | 游戏规则 | 第九课注释指出实际应为此片。 |
 | Le désir et son interprétation | 欲望及其解释 | 拉康研讨班；第九课注释中作为对象(a)例子的来源。 |
+| Transference and reality / Transfert et Réalité | 转移与现实 | 赫尔曼·农伯格1951年文章；第十二课中拉康口误作 *Transference of reality*。 |
+| Papers on psychoanalysis | 精神分析论文集 | 琼斯论文集；第十二课提及其中“暗示的功能”。 |
+| La signification du phallus | 阳具的意义 | 拉康《著作集》文章；第十二课 Αίδώς 注释中出现。 |
 | Carte du Tendre | 柔情地图 | 已统一旧译“温柔乡地图”。 |
 | La Minne / Minnesang | 恋歌 / 恋歌传统 | 第七课中与宫廷之恋对照。 |
 
@@ -244,19 +253,29 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | transfert | 转移 |  |
+| transfert positif / transfert négatif | 正转移 / 负转移 | 第十二课提醒不要从通常现象标注进入转移问题。 |
 | amour de transfert | 转移之爱 |  |
+| présence du passé | 过去的临在 | 第十二课中作为转移的现实。 |
+| présence en acte | 在行动中的临在 | 第十二课中说明转移的再现性质。 |
 | métaphore de l’amour | 爱的隐喻 | 第十一课用于说明爱者/被爱者位置替代的结构。 |
 | intersubjectivité | 主体间性 |  |
 | disparité subjective | 主体间的不对等性 |  |
 | imparité subjective | 主体不齐性 |  |
 | désir | 欲望 |  |
+| ressort | 机括 / 机制 | 原义为弹簧、发条、机关；第十二课用作比喻时，指爱或欲望内部使其发动、运作的隐秘机制，宜译“机括”。其中可以保留“动力性/驱动性”的意涵，但不宜把主译名列为“动力”，以免滑向心理动机或能量论。必要时可在译注中说明：这里的“机括”既指结构装置，也指使该结构启动的动力性环节。在 *un des ressorts nécessaires* 中可作“机制”。固定短语 *en dernier ressort* 不译“关节”，按“归根到底/最根本处”处理。避免直译为“弹簧机制”。 |
 | objet | 对象 | 涉及欲望对象、被爱对象时统一为“对象”。 |
 | fantasme | 幻想 |  |
 | fantasme fondamental | 根本幻想 |  |
 | leurre | 诱饵/幻象 |  |
 | demande | 索求/要求 | 第七课开头按语境在“要求”与“索求”之间取舍。 |
+| parole | 言说 | 第十二课大他者作为言说位置的语境。 |
+| lieu de la parole | 言说的位置 | 大他者 A 的定义。 |
+| sujets de la parole | 言说的主体 | 第十二课中与主体尊严相对。 |
 | signifiant | 能指 |  |
 | chaîne signifiante | 能指链条 |  |
+| graphe | 图式 / 图 | 第十二课指拉康欲望图式。 |
+| splitting / dédoublement | 分裂 / 加倍 | 第十二课说明主体由两条能指链条的根本加倍构成。 |
+| glissement indéfini / glissement infini | 无限滑动 | 第十二课说明转喻与能指链条下的滑动。 |
 | métonymie | 转喻 |  |
 | Symbolique | 象征界 |  |
 | Imaginaire | 想象界 |  |
@@ -279,8 +298,13 @@
 | pulsion de mort / instinct de mort | 死驱力 / 死本能 | 按原文分别处理 *pulsion* 与 *instinct*。 |
 | pulsion mortifère | 死亡性驱力 | 与 *pulsion de mort* 相关；按语境可简译“死驱力”。 |
 | automatisme de répétition | 重复自动症 |  |
+| répétition du besoin / besoin de répétition | 需要的重复 / 重复的需要 | 第十二课讨论拉加什关于转移的区分。 |
+| effet Zeigarnik | 蔡格尼克效应 | 第十二课以未完成任务记忆效应说明转移问题。 |
 | l’Autre (avec le grand A) | 大他者 | 与普通“他者”区分。 |
 | désir de l’Autre | 大他者的欲望 |  |
+| déchéance / chute de l’Autre en autre | 跌落 / 大他者向小他者的坠落 | 第十二课中爱之欲望的目标。 |
+| dignité du sujet | 主体的尊严 | 第十二课中由被过度赋值的对象所拯救。 |
+| tribunal de l’Autre | 大他者的法庭 | 第十二课说明阿尔西比亚德公开告白的听众结构。 |
 | la Chose / das Ding / το πρᾶγμα [to pragma] | 原物 | 第六节涉及柏拉图 *to pragma* 与《伦理学》语境；*die Sache* 译“事情/事务”。 |
 | πρᾶξις [praxis] | 实践 |  |
 | θεωρια [theôria] | 理论 / 沉思 | 第六节按语境说明其与 *praxis* 的关系。 |
@@ -324,6 +348,8 @@
 | révolution astronomique / révolution copernicienne | 天文学革命 / 哥白尼革命 |  |
 | sublimation courtoise / amour courtois | 宫廷之恋的升华 / 宫廷之恋 | 已统一第六节旧译“典雅爱情”“宫廷爱情”。 |
 | objet aimé | 所爱对象 / 被爱对象 | 保留“对象”，避免改作“客体”。 |
+| relation d’objet | 对象关系 | 第十二课现代分析理论在想象层面建构出的理论之一。 |
+| projection | 投射 | 第十二课现代分析理论在想象层面建构出的理论之一。 |
 | purification didactique | 训练性净化 |  |
 | relation médecin-malade | 医患关系 |  |
 | sophistique | 诡辩术 | 第七课保留括注 *sophistique*。 |
@@ -365,7 +391,7 @@
 | objet précieux / bijou | 珍贵对象 / 珠宝 | 第十课说明 ἄγαλμα 在西勒诺斯盒子中的含义。 |
 | fétiche | 恋物对象 / 物神 | 第十课中说明 ἄγαλμα 的对象重音。 |
 | idole / icône | 偶像 / 圣像 | 第十课中与图像、复制区分。 |
-| reproduction | 复制 | 与 *icône*、图像功能区分。 |
+| reproduction | 复制 / 再现 | 第十课与 *icône*、图像功能区分时作“复制”；第十二课转移语境中作“再现”。 |
 | objet partiel | 部分对象 | 第十课核心概念；避免改作“部分客体”。 |
 | objet total | 总体对象 | 与 *objet partiel* 对照。 |
 | objet génital | 生殖器对象 | 与 *objet partiel* 对照。 |
@@ -376,7 +402,14 @@
 | oblativité / amour oblatif | 奉献性 / 奉献性的爱 | 第十课批评生殖阶段理想时出现。 |
 | stade génital / acte génital | 生殖阶段 / 生殖行为 | 与奉献性之爱相关。 |
 | caractérologie du génital | 生殖的性格学 | 第十课引用《今日精神分析》语境。 |
+| sujet | 主体 / 议题(sujet) | 作为精神分析概念时译“主体”，不在正文逐处括注；在 *aborder ce sujet*、*le sujet a été traité* 等普通法语表达中，指“议题/题目”，译作“议题(sujet)”并保留法语括注，以免误作概念性的“主体”。 |
 | sujet strict | 严格主体 | 第十课中以语言组合能力界定主体。 |
+| analyste / analysé | 分析家 / 被分析者 | 第十二课两种欲望与分析情境语境。 |
+| situation à deux / deux réels | 二人情境 / 两个实在者 | 第十二课重新界定被分析者在分析家面前的情境。 |
+| plan imaginaire | 想象层面 | 第十二课安置爱、对象关系与投射现象。 |
+| fiction / source de fiction | 虚构 / 虚构的源泉 | 第十二课转移作为虚构源泉。 |
+| simulation | 模拟 | 第十二课中与无意识的佯装相区分。 |
+| Verbigération | 词语奔逸 | 第十二课注释中说明精神病患者无连贯词语系列的滔滔不绝。 |
 | noèse | 意向活动 | 哲学、现象学语境；第十课讨论对象等价性时出现。 |
 | idéal du moi | 自我理想 | 与 *moi idéal* 区分。 |
 | image réelle du vase | 花瓶的实像 | 第十一课球面镜小图式。 |
@@ -438,6 +471,7 @@
 | ἐρώμενος [erômenos] | 被爱者 | 阳性形式。 |
 | ἐρώμενον [erômenon] | 可被爱的 / 所爱者 | 中性形式；第九课中也指目标。 |
 | ἔρως [erôs] | 爱欲 | 柏拉图式爱欲；与基督教 ἀγάπη 对照。 |
+| Αίδώς [Aidôs] / Pudeur | 羞耻 / 贞肃 | 第十二课阿尔西比亚德失败后的羞耻与公开告白语境。 |
 | ἀγάπη [agapè] | 圣爱 / 阿伽佩 | 基督教语境；与柏拉图式 ἔρως 对照。 |
 | ἔπαινος / ἐπαίνος [épaïnos] | 颂辞 | 第十一课中由对爱的颂辞转为对他人的颂辞。 |
 | ἐπαινεῖν [epainein] | 赞美 / 说某人的好话 | 第十一课说明颂辞的仪式功能。 |
@@ -456,6 +490,7 @@
 | τὸ γὰρ τοῦ ὄντος τυγχάνον / τυγχάνον [to gar tou ontos tugchanon] | 偶然遭遇存在之物者 / 遇到所是之物的东西 | 第九课中说明 *doxa* 偶然触及真实。 |
 | καλὸν οὕτω καὶ παντοδαπὸν λόγον [kalon ... logon] | 非常优美的话语 | 苏格拉底评价阿伽通演说的语句。 |
 | ἄγαλμα [agalma] | 阿伽尔玛 / 珍宝 / 隐藏的贵重之物 | 第十课核心对象术语；“神像/雕像”仅作被讨论或被反对的译法说明；旧写“阿伽玛”“阿加尔玛”并入。 |
+| Γνῶθι σεαυτόν [gnôthi seauton] | 认识你自己 | 德尔斐箴言；第十二课转写为“照料你的灵魂”。 |
 | ἄγαλματα [agalmata] | 阿伽尔玛 / 珍宝（复数） | ἄγαλμα 的复数形式。 |
 | ἄμεινον σκόπει [ameinon skopei] | 更仔细地审视 | 第十一课苏格拉底告诫阿尔西比亚德。 |
 | οὐδὲν ὤν [ouden ôn] | 什么都不是 / 作为无的存在者 | 第十一课苏格拉底回应阿尔西比亚德时的关键公式。 |

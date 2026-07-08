@@ -12,3 +12,7 @@ reports/
 !.obsidian/plugins/lacan-translation-helper/
 !.obsidian/plugins/lacan-translation-helper/**
 .obsidian/plugins/lacan-translation-helper/data.json
+weread/
+test/
+develop_doc/
+.claudian/
