@@ -256,13 +256,13 @@
 | transfert positif / transfert négatif | 正转移 / 负转移 | 第十二课提醒不要从通常现象标注进入转移问题。 |
 | amour de transfert | 转移之爱 |  |
 | présence du passé | 过去的临在 | 第十二课中作为转移的现实。 |
-| présence en acte | 在行动中的临在 | 第十二课中说明转移的再现性质。 |
+| présence en acte | 在行动中的临在 | 第十二课中说明转移的再生产性质。 |
 | métaphore de l’amour | 爱的隐喻 | 第十一课用于说明爱者/被爱者位置替代的结构。 |
 | intersubjectivité | 主体间性 |  |
 | disparité subjective | 主体间的不对等性 |  |
 | imparité subjective | 主体不齐性 |  |
 | désir | 欲望 |  |
-| ressort | 机括 / 机制 | 原义为弹簧、发条、机关；第十二课用作比喻时，指爱或欲望内部使其发动、运作的隐秘机制，宜译“机括”。其中可以保留“动力性/驱动性”的意涵，但不宜把主译名列为“动力”，以免滑向心理动机或能量论。必要时可在译注中说明：这里的“机括”既指结构装置，也指使该结构启动的动力性环节。在 *un des ressorts nécessaires* 中可作“机制”。固定短语 *en dernier ressort* 不译“关节”，按“归根到底/最根本处”处理。避免直译为“弹簧机制”。 |
+| ressort | 机制 / 运作机制 | 原义为弹簧、发条、机关；比喻用法指爱或欲望内部使其发动、运作的隐秘机制。正文中统一按语境译为“机制”“运作机制”；第十二课 *le ressort de l’amour*、*le ressort de la naissance de l’amour* 已统一作“机制”，*le dernier ressort du désir* 作“它最根本的运作机制”。其中可以保留“动力性/驱动性”的意涵，但不宜把主译名列为“动力”，以免滑向心理动机或能量论。在 *un des ressorts nécessaires* 中可作“机制”。固定短语 *en dernier ressort* 按“归根到底/最根本处”处理。避免直译为“弹簧机制”。 |
 | objet | 对象 | 涉及欲望对象、被爱对象时统一为“对象”。 |
 | fantasme | 幻想 |  |
 | fantasme fondamental | 根本幻想 |  |
@@ -300,9 +300,11 @@
 | automatisme de répétition | 重复自动症 |  |
 | répétition du besoin / besoin de répétition | 需要的重复 / 重复的需要 | 第十二课讨论拉加什关于转移的区分。 |
 | effet Zeigarnik | 蔡格尼克效应 | 第十二课以未完成任务记忆效应说明转移问题。 |
+| recherche de la vérité | 真理探求 | 第十二课从阿尔西比亚德告白到俄狄浦斯比拟的连续表达；避免拆成“对真理之探求”。 |
+| au dernier terme / dernier terme | 归根到底 / 终点 | 固定短语 *au dernier terme* 多作“归根到底”；名词性结构 *le dernier terme de...* 可作“……的终点”，如 *le dernier terme d’une recherche de la vérité* 译“真理探求的终点”。 |
 | l’Autre (avec le grand A) | 大他者 | 与普通“他者”区分。 |
 | désir de l’Autre | 大他者的欲望 |  |
-| déchéance / chute de l’Autre en autre | 跌落 / 大他者向小他者的坠落 | 第十二课中爱之欲望的目标。 |
+| déchéance / chute de l’Autre en autre | 跌落 / 大他者坠落为小他者 | 第十二课中爱之欲望的目标。 |
 | dignité du sujet | 主体的尊严 | 第十二课中由被过度赋值的对象所拯救。 |
 | tribunal de l’Autre | 大他者的法庭 | 第十二课说明阿尔西比亚德公开告白的听众结构。 |
 | la Chose / das Ding / το πρᾶγμα [to pragma] | 原物 | 第六节涉及柏拉图 *to pragma* 与《伦理学》语境；*die Sache* 译“事情/事务”。 |
@@ -391,7 +393,7 @@
 | objet précieux / bijou | 珍贵对象 / 珠宝 | 第十课说明 ἄγαλμα 在西勒诺斯盒子中的含义。 |
 | fétiche | 恋物对象 / 物神 | 第十课中说明 ἄγαλμα 的对象重音。 |
 | idole / icône | 偶像 / 圣像 | 第十课中与图像、复制区分。 |
-| reproduction | 复制 / 再现 | 第十课与 *icône*、图像功能区分时作“复制”；第十二课转移语境中作“再现”。 |
+| reproduction | 复制 / 再生产 | 第十课与 *icône*、图像功能区分时作“复制”；第十二课转移语境中作“再生产”。 |
 | objet partiel | 部分对象 | 第十课核心概念；避免改作“部分客体”。 |
 | objet total | 总体对象 | 与 *objet partiel* 对照。 |
 | objet génital | 生殖器对象 | 与 *objet partiel* 对照。 |
