@@ -184,12 +184,19 @@
 | M. Bouvet | M. 布韦 | 第十课注释中《精神分析临床与对象关系》作者。 |
 | Jean Renoir / Renoir | 让·雷诺阿 | 第九课电影例子中出现。 |
 | Dalio | 达利奥 | 第九课电影例子中出现。 |
+| Clémence Ramnoux | 克莱芒丝·拉姆努 | 第十三课注释中《哈得斯与精神分析家》作者。 |
+| Paula Heimann | 保拉·海曼 | 克莱因学派分析家；第十三课以《论反转移》讨论分析家如何使用自身感受。 |
+| Roger Money-Kyrle | 罗杰·莫尼-凯尔 | 克莱因学派分析家；第十三课重点讨论其《正常的反转移及其若干偏离》。 |
+| Sándor Ferenczi / Ferenczi | 桑多尔·费伦齐 / 费伦齐 | 第十三课涉及分析家是否应把自身感受告诉病人的问题。 |
+| Philippe Julien | 菲利普·朱利安 | 第十三课注释中提出分析桥牌牌局图式。 |
 
 ## 作品、篇名与文本
 
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | Le Banquet / Symposium | 会饮篇 |  |
+| Philèbe / Philebus | 斐利布篇 | 第十三课中拉康把“灵魂留在厄瑞玻斯”的说法归于此篇，原注未找到出处。 |
+| Axiochos | 阿克西奥科斯篇 | 第十三课原注称，柏拉图文本中“厄瑞玻斯”一词见于371e，但上下文不同。 |
 | Les formations de l’inconscient | 无意识的形成 | 拉康1957—1958年研讨班；第十二课图式注释中出现。 |
 | Erôs et Agapè | 爱欲与圣爱 | 安德斯·尼格伦著作；避免旧译“爱与圣爱”。 |
 | Évangile | 福音书 | 第十一课田中宝藏比喻语境。 |
@@ -228,6 +235,14 @@
 | La signification du phallus | 阳具的意义 | 拉康《著作集》文章；第十二课 Αίδώς 注释中出现。 |
 | Carte du Tendre | 柔情地图 | 已统一旧译“温柔乡地图”。 |
 | La Minne / Minnesang | 恋歌 / 恋歌传统 | 第七课中与宫廷之恋对照。 |
+| Théodore cherche des allumettes | 泰奥多尔找火柴 | 乔治·库特林作品；第十三课用于说明“撞墙”并不能重建房屋平面图。 |
+| L’analyse finie et l’analyse infinie | 有终结的分析与无终结的分析 | 弗洛伊德著作；第十三课“狮子只跃一次”引文出处。 |
+| L’Homme aux rats | 鼠人 | 弗洛伊德个案；第十三课从爱之矛盾情感谈到《会饮篇》。 |
+| La direction de la cure et les principes de son pouvoir | 治疗的方向及其力量的原则 | 拉康鲁瓦约蒙报告；第十三课第一条原注再次引及。 |
+| Hadès et le psychanalyste | 哈得斯与精神分析家 | 克莱芒丝·拉姆努文章；第十三课讨论分析家同死亡的关系。 |
+| On Counter-transference | 论反转移 | 保拉·海曼文章；1949年宣读，1950年发表。 |
+| Normal Counter-transference and Some of Its Deviations | 正常的反转移及其若干偏离 | 罗杰·莫尼-凯尔文章；第十三课反转移案例的主要参照。 |
+| Position du désir | 欲望的位置 | 拉康1961年3月6日向哲学小组所作报告；是否留有文字记录不详。 |
 
 ## 学派、地点与族群
 
@@ -248,6 +263,7 @@
 | Pythagoriciens | 毕达哥拉斯派 |  |
 | pythagorisme | 毕达哥拉斯主义 |  |
 | Bororo | 博罗罗人 | 已统一旧译“波罗罗人”。 |
+| cercle kleinien / école kleinienne | 克莱因学派 | *cercle kleinien* 直译“克莱因圈子”；第十三课按理论归属统一译“克莱因学派”。 |
 
 ## 概念术语
 
@@ -255,6 +271,8 @@
 | --- | --- | --- |
 | transfert | 转移 |  |
 | transfert positif / transfert négatif | 正转移 / 负转移 | 第十二课提醒不要从通常现象标注进入转移问题。 |
+| contre-transfert | 反转移 | 第十三课指分析家在分析中产生、并由其同被分析者的关系所决定的感受。 |
+| contre-transfert normal / déviations du contre-transfert normal | 正常反转移 / 正常反转移的偏离 | 莫尼-凯尔的区分；拉康最终把这类现象重新界定为转移处境本身不可化约的效果。 |
 | amour de transfert | 转移之爱 |  |
 | présence du passé | 过去的临在 | 第十二课中作为转移的现实。 |
 | présence en acte | 在行动中的临在 | 第十二课中说明转移的再生产性质。 |
@@ -269,6 +287,10 @@
 | fantasme fondamental | 根本幻想 |  |
 | leurre | 诱饵/幻象 |  |
 | demande | 索求/要求 | 第七课开头按语境在“要求”与“索求”之间取舍。 |
+| communication des inconscients | 无意识之间的沟通 | 第十三课讨论分析家获得洞见的传统说法，并质疑其传递途径。 |
+| insight | 洞见 / 领会 | 第十三课指分析家通过无意识之间的沟通获得的决定性领会。 |
+| analyse didactique | 训练分析 | 分析家资格训练中的个人分析；第十三课涉及其能否清除分析家的盲点。 |
+| inconscient de l’autre | 他人的无意识 | 第十三课指出，对无意识的经验在逻辑上首先来自他人的无意识。 |
 | parole | 言说 | 第十二课大他者作为言说位置的语境。 |
 | lieu de la parole | 言说的位置 | 大他者 A 的定义。 |
 | sujets de la parole | 言说的主体 | 第十二课中与主体尊严相对。 |
@@ -280,6 +302,8 @@
 | métonymie | 转喻 |  |
 | Symbolique | 象征界 |  |
 | Imaginaire | 想象界 |  |
+| petit autre | 小他者 | 想象界的他者；与大他者区分。 |
+| i(a) | 小他者的映像 | 镜像关系中的位置；第十三课桥牌图式中也指分析家必须使之如“明手”般行事的部分。 |
 | Réel / le réel | 实在界 / 实在 | 三界之一译“实在界”；名词化用法按语境译“实在”。 |
 | harmonie / harmonia | 和谐 |  |
 | accord | 契合/协调 | 已统一旧译“协调/契合”。 |
@@ -342,6 +366,7 @@
 | ascèse | 苦修 | 第九课中指向主体在攀升过程中的转化。 |
 | moi idéal | 理想自我 | 第九课中说明爱者越欲望越变得可欲。 |
 | désir de l’analyste | 分析家的欲望 |  |
+| apathie de l’analyste / idéal stoïcien | 分析家的无动于衷 / 斯多亚式理想 | *Apathie* 在第十三课既指不受激情支配，也带有日常“冷漠、无动于衷”的含义。 |
 | philia / philotès | 友爱 / 爱 | 恩培多克勒语境中可说明为聚集之爱或联结之爱。 |
 | sphaira / sphairos / sphère | 球体 |  |
 | peirar / apeirôn | 限定 / 无定 |  |
@@ -353,9 +378,11 @@
 | objet aimé | 所爱对象 / 被爱对象 | 保留“对象”，避免改作“客体”。 |
 | relation d’objet | 对象关系 | 第十二课现代分析理论在想象层面建构出的理论之一。 |
 | projection | 投射 | 第十二课现代分析理论在想象层面建构出的理论之一。 |
+| introjection | 内摄 | 第十三课以分析家内摄被分析者的话语、再作想象性回应来说明所谓正常反转移。 |
 | purification didactique | 训练性净化 |  |
 | relation médecin-malade | 医患关系 |  |
 | sophistique | 诡辩术 | 第七课保留括注 *sophistique*。 |
+| éristique | 争辩术的 / 论辩术的 | 第十三课指以争胜、驳难为导向的论辩立场。 |
 | discours macaronique | 杂糅式演说 |  |
 | mise en scène | 场景调度 | 第九课中指柏拉图对话的安排。 |
 | changement à vue | 场景瞬间切换 | 第九课中阿尔西比亚德入场前的舞台切换。 |
@@ -413,8 +440,13 @@
 | fiction / source de fiction | 虚构 / 虚构的源泉 | 第十二课转移作为虚构源泉。 |
 | simulation | 模拟 | 第十二课中与无意识的佯装相区分。 |
 | Verbigération | 词语奔逸 | 第十二课注释中说明精神病患者无连贯词语系列的滔滔不绝。 |
+| désaffection / désaffectation | 失去感情 / 撤回投入 | 第十三课连续用词；后者另有“调离、撤出原有用途”之意，译文以递进保留双关。 |
+| dépersonnalisation | 人格解体 | 第十三课莫尼-凯尔案例中，病人与分析家先后经历的近乎人格解体状态。 |
+| patient | 病人 / 承受者 | 第十三课“成为坏客体的 *patient*”兼有病人与被动承受者两义，正文用斜线并列。 |
+| demanding patient | 苛求的病人 | *Demanding* 强于一般“提出要求”，第十三课按“步步紧逼的苛求”理解。 |
 | noèse | 意向活动 | 哲学、现象学语境；第十课讨论对象等价性时出现。 |
 | idéal du moi | 自我理想 | 与 *moi idéal* 区分。 |
+| super-ego / surmoi | 超我 | 第十三课讨论大他者的要求与超我结构的连续性；*super-ego analytique* 按上下文译“分析家的超我”。 |
 | image réelle du vase | 花瓶的实像 | 第十一课球面镜小图式。 |
 | miroir sphérique | 球面镜 | 第十一课三项关系图式。 |
 | Verliebtheit / énamoration | 恋爱状态 / 坠入爱河 | 第十一课弗洛伊德关于恋爱状态的公式。 |
@@ -424,6 +456,11 @@
 | noli me tangere | 不要触碰我 | 第十一课苏格拉底拒绝姿态；可在注释中说明为复活后耶稣之语。 |
 | épithalame | 结婚颂歌 | 第十一课把对话后半部视作长篇婚歌。 |
 | amour de dieu | 对神之爱 | 第十一课古代神话中的神欲望问题。 |
+| le mort (bridge) | 明手 / “死人” | 法语桥牌称明手为 *le mort*，直译“死人”；第十三课借此把桥牌位置与死亡双关。 |
+| ambition thérapeutique | 治疗雄心 | 第十三课要求把修复性冲动同治疗雄心的滥用区分开。 |
+| reparative drive / pulsion réparative | 修复性冲动 | 莫尼-凯尔所谓分析家的基本冲动之一，用来对抗潜在破坏性。 |
+| parental drive / pulsion parentale | 亲职冲动 | 莫尼-凯尔所谓分析家的另一种基本冲动；直译“父母式冲动”，不指分析家的父母。 |
+| destructivité latente | 潜在破坏性 | 第十三课中修复性冲动被说成用于对抗每个人身上的潜在破坏性。 |
 | dieux réels | 实在的神明 | 第十一课与神的 impassibilité 相关。 |
 | échelle du désirable | 可欲之物的阶梯 | 第十一课基督教神学困难语境。 |
 | suprême objet | 至高对象 | 第十一课维护上帝绝对价值的语境。 |
@@ -544,4 +581,5 @@
 | ἵμερος ἐναρής [himeros enargès] | 欲望的闪耀 | 第十一课引《斐德罗篇》并参照《安提戈涅》。 |
 | καλιμέρα [kalimera] / καλιμέρος [kalimeros] | 你好 / 你好与美丽的欲望 | 第十一课结尾的希腊语双关。 |
 | κάλος ἵμερος [kalos himeros] | 美丽的欲望 | 第十一课《克拉底鲁篇》词源双关。 |
+| ἀνάγκη [ananké] | 必然性 | 第十三课指生命最终返回无生命之物零点的必然性。 |
 | mantique | 占卜术的 / 关涉占卜之艺的 | 第九课假发段落中的注释术语。 |
