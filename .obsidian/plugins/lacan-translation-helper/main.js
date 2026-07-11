@@ -140,6 +140,14 @@ module.exports = class LacanTranslationHelper extends Plugin {
     });
 
     this.registerMarkdownPostProcessor((element, context) => {
+      const path = normalizePath(context.sourcePath || "");
+      if (!this.isTranslationLessonPath(path) || element.closest?.(".cm-editor, .markdown-source-view")) {
+        return;
+      }
+      this.decorateRenderedReadingNoteLinks(element, path);
+    });
+
+    this.registerMarkdownPostProcessor((element, context) => {
       if (!this.hasActiveComparisonForks()) {
         return;
       }
@@ -1010,17 +1018,21 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
 
     const contentEl = view.containerEl.querySelector(".view-content");
-    if (!contentEl) {
+    const toolbarMount = this.resolveComparisonToolbarMount(view);
+    if (!contentEl || !toolbarMount) {
       return;
     }
 
     const forks = this.settings.forks.filter((fork) => fork.enabled && fork.localBranch);
     const toolbarSignature = this.comparisonToolbarSignature(file.path, forks);
-    let toolbarEl = contentEl.querySelector(":scope > .lacan-compare-toolbar");
+    let toolbarEl = view.containerEl.querySelector(".lacan-compare-toolbar");
     if (!toolbarEl) {
-      toolbarEl = contentEl.createDiv("lacan-compare-toolbar");
-      contentEl.prepend(toolbarEl);
+      toolbarEl = document.createElement("div");
+      toolbarEl.className = "lacan-compare-toolbar";
     }
+    toolbarEl.classList.toggle("is-view-header", toolbarMount.location === "header");
+    toolbarEl.classList.toggle("is-content-fallback", toolbarMount.location === "content");
+    toolbarMount.hostEl.insertBefore(toolbarEl, toolbarMount.beforeEl);
 
     if (toolbarEl.dataset.toolbarSignature !== toolbarSignature) {
       this.renderComparisonToolbarContent(toolbarEl, forks);
@@ -1031,6 +1043,30 @@ module.exports = class LacanTranslationHelper extends Plugin {
       this.renderInlineComparisonControlsForActiveView({ showLoading, forcePreviewRerender })
         .catch((error) => this.handleComparisonRenderError(error));
     }
+  }
+
+  resolveComparisonToolbarMount(view) {
+    const viewHeaderEl = view?.containerEl?.querySelector?.(".view-header");
+    if (viewHeaderEl) {
+      const viewActionsEl = viewHeaderEl.querySelector?.(":scope > .view-actions")
+        || viewHeaderEl.querySelector?.(".view-actions")
+        || null;
+      return {
+        hostEl: viewHeaderEl,
+        beforeEl: viewActionsEl,
+        location: "header",
+      };
+    }
+
+    const contentEl = view?.containerEl?.querySelector?.(".view-content");
+    if (!contentEl) {
+      return null;
+    }
+    return {
+      hostEl: contentEl,
+      beforeEl: contentEl.firstChild || null,
+      location: "content",
+    };
   }
 
   comparisonToolbarSignature(path, forks) {
@@ -2044,6 +2080,37 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
   segmentComparisonKey(path, segmentId) {
     return `${path}::${segmentId}`;
+  }
+
+  decorateRenderedReadingNoteLinks(rootEl, sourcePath) {
+    rootEl.querySelectorAll?.("a.internal-link").forEach((linkEl) => {
+      if (String(linkEl.textContent || "").trim() !== "阅读笔记") {
+        return;
+      }
+
+      const target = (
+        linkEl.getAttribute?.("data-href") ||
+        linkEl.getAttribute?.("href") ||
+        ""
+      );
+      const linkpath = this.safeDecodeURIComponent(String(target).split("#", 1)[0].trim());
+      if (!linkpath || /^[a-z][a-z0-9+.-]*:/i.test(linkpath)) {
+        return;
+      }
+
+      const noteFile = this.app.metadataCache?.getFirstLinkpathDest?.(linkpath, sourcePath);
+      if (!(noteFile instanceof TFile) || !this.isReadingNotePath(noteFile.path)) {
+        return;
+      }
+
+      linkEl.textContent = this.readingNoteDisplayName(noteFile);
+    });
+  }
+
+  readingNoteDisplayName(noteFile) {
+    return String(noteFile.basename || noteFile.path?.split("/").pop() || "")
+      .replace(/\.md$/i, "")
+      .trim();
   }
 
   decorateRenderedSegmentLinks(rootEl) {

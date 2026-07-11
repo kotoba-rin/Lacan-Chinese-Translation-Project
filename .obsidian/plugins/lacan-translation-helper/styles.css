@@ -116,6 +116,7 @@
 }
 
 .lacan-compare-toolbar {
+  align-items: center;
   background: var(--background-primary);
   border-bottom: 1px solid var(--background-modifier-border);
   display: flex;
@@ -127,6 +128,27 @@
   z-index: 5;
 }
 
+.lacan-compare-toolbar.is-view-header {
+  align-self: stretch;
+  background: transparent;
+  border: 0;
+  flex: 0 1 auto;
+  flex-wrap: nowrap;
+  gap: 4px;
+  max-width: min(36vw, 360px);
+  min-width: 0;
+  overflow-x: auto;
+  padding: 0 8px;
+  position: static;
+  scrollbar-width: none;
+  white-space: nowrap;
+  z-index: auto;
+}
+
+.lacan-compare-toolbar.is-view-header::-webkit-scrollbar {
+  display: none;
+}
+
 .lacan-compare-toolbar-title {
   color: var(--text-muted);
   font-size: 12px;
@@ -135,10 +157,21 @@
   margin-right: 4px;
 }
 
+.lacan-compare-toolbar.is-view-header .lacan-compare-toolbar-title {
+  flex: 0 0 auto;
+  line-height: 26px;
+  margin-right: 2px;
+}
+
 .lacan-compare-empty {
   color: var(--text-faint);
   font-size: 12px;
   line-height: 28px;
+}
+
+.lacan-compare-toolbar.is-view-header .lacan-compare-empty {
+  flex: 0 0 auto;
+  line-height: 26px;
 }
 
 .lacan-compare-button {
@@ -152,9 +185,39 @@
   padding: 0 10px;
 }
 
+.lacan-compare-button:hover {
+  background: var(--background-modifier-hover);
+}
+
+.lacan-compare-button:focus-visible {
+  box-shadow: 0 0 0 2px var(--background-modifier-border-focus);
+  outline: none;
+}
+
+.lacan-compare-toolbar.is-view-header .lacan-compare-button {
+  flex: 0 0 auto;
+  height: 26px;
+  padding: 0 8px;
+}
+
 .lacan-compare-button.is-active {
   background: var(--interactive-accent);
   color: var(--text-on-accent);
+}
+
+.lacan-compare-button.is-active:hover {
+  background: var(--interactive-accent-hover);
+}
+
+@media (max-width: 700px) {
+  .lacan-compare-toolbar.is-view-header {
+    max-width: 44vw;
+    padding-inline: 4px;
+  }
+
+  .lacan-compare-toolbar.is-view-header .lacan-compare-toolbar-title {
+    display: none;
+  }
 }
 
 .lacan-compare-loading {

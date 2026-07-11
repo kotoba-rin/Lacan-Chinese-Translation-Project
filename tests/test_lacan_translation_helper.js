@@ -62,6 +62,33 @@ try {
   ));
   const plugin = Object.create(PluginClass.prototype);
 
+  const viewActionsEl = {};
+  const viewHeaderEl = {
+    querySelector(selector) {
+      return selector === ":scope > .view-actions" ? viewActionsEl : null;
+    },
+  };
+  const viewContentEl = {};
+  const markdownView = {
+    containerEl: {
+      querySelector(selector) {
+        if (selector === ".view-header") {
+          return viewHeaderEl;
+        }
+        if (selector === ".view-content") {
+          return viewContentEl;
+        }
+        return null;
+      },
+    },
+  };
+  assert.strictEqual(typeof plugin.resolveComparisonToolbarMount, "function");
+  assert.deepStrictEqual(plugin.resolveComparisonToolbarMount(markdownView), {
+    hostEl: viewHeaderEl,
+    beforeEl: viewActionsEl,
+    location: "header",
+  });
+
   assert.strictEqual(
     plugin.readingNotePathForSegment("texts/s8-le-transfert/translation/Leçon-01.md", "s8-01-0001"),
     "texts/s8-le-transfert/notes/s8-01-0001.md"
@@ -72,6 +99,46 @@ try {
   assert.strictEqual(
     plugin.readingNoteWikiLinkForSegment("s8-01-0001"),
     "[[notes/s8-01-0001|阅读笔记]]"
+  );
+
+  const titledReadingNote = new MockTFile();
+  titledReadingNote.path = "texts/s8-le-transfert/notes/爱欲的投资、占有与增值.md";
+  titledReadingNote.basename = "爱欲的投资、占有与增值";
+  plugin.app = {
+    metadataCache: {
+      getFirstLinkpathDest(linkpath, sourcePath) {
+        assert.strictEqual(linkpath, "爱欲的投资、占有与增值");
+        assert.strictEqual(sourcePath, "texts/s8-le-transfert/translation/Leçon-04.md");
+        return titledReadingNote;
+      },
+      getFileCache(file) {
+        assert.strictEqual(file, titledReadingNote);
+        return {
+          frontmatter: {
+            title: "从“提携年轻人”到“老丈人爱女婿”：爱欲的投资、占有与增值",
+          },
+        };
+      },
+    },
+  };
+  const renderedReadingNoteLink = {
+    textContent: "阅读笔记",
+    getAttribute(name) {
+      return name === "data-href" ? "爱欲的投资、占有与增值" : "";
+    },
+  };
+  assert.strictEqual(typeof plugin.decorateRenderedReadingNoteLinks, "function");
+  plugin.decorateRenderedReadingNoteLinks(
+    {
+      querySelectorAll() {
+        return [renderedReadingNoteLink];
+      },
+    },
+    "texts/s8-le-transfert/translation/Leçon-04.md"
+  );
+  assert.strictEqual(
+    renderedReadingNoteLink.textContent,
+    "爱欲的投资、占有与增值"
   );
 
   const note = plugin.buildReadingNoteContent(
