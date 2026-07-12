@@ -51,6 +51,7 @@ Module._load = function load(request, parent, isMain) {
   return originalLoad(request, parent, isMain);
 };
 
+const run = async () => {
 try {
   const PluginClass = require(path.join(
     __dirname,
@@ -362,6 +363,54 @@ try {
   assert.strictEqual(decorations.length, 1);
   assert.strictEqual(decorations[0].from, lines[0].to);
 
+  const noteOpeningSourcePath = "texts/s8-le-transfert/translation/Leçon-01.md";
+  const noteOpeningSource = [
+    "<!-- id: s8-01-0001 -->",
+    "",
+    "第一段。",
+    "",
+    "<!-- id: s8-01-0002 -->",
+    "",
+    "第二段。",
+  ].join("\n");
+  const createdNote = new MockTFile();
+  createdNote.path = "texts/s8-le-transfert/notes/s8-01-0001.md";
+  const existingNote = new MockTFile();
+  existingNote.path = "texts/s8-le-transfert/notes/s8-01-0002.md";
+  const noteFiles = [createdNote, existingNote];
+  const openedOnRight = [];
+  const originalCreateOrUpdateReadingNoteFile = plugin.createOrUpdateReadingNoteFile;
+  const originalOpenReadingNoteOnRight = plugin.openReadingNoteOnRight;
+  const originalOpenFile = plugin.openFile;
+  plugin.app = {
+    vault: {
+      getAbstractFileByPath(requestedPath) {
+        assert.strictEqual(requestedPath, noteOpeningSourcePath);
+        return file;
+      },
+      async read(requestedFile) {
+        assert.strictEqual(requestedFile, file);
+        return noteOpeningSource;
+      },
+      async modify(requestedFile) {
+        assert.strictEqual(requestedFile, file);
+      },
+    },
+  };
+  plugin.createOrUpdateReadingNoteFile = async () => noteFiles.shift();
+  plugin.openReadingNoteOnRight = async (noteFile) => {
+    openedOnRight.push(noteFile);
+  };
+  plugin.openFile = async () => {
+    throw new Error("阅读笔记不应在当前叶窗格打开");
+  };
+  await plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001");
+  await plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0002");
+  assert.deepStrictEqual(openedOnRight, [createdNote, existingNote]);
+  plugin.createOrUpdateReadingNoteFile = originalCreateOrUpdateReadingNoteFile;
+  plugin.openReadingNoteOnRight = originalOpenReadingNoteOnRight;
+  plugin.openFile = originalOpenFile;
+
   const oldDocument = global.document;
   global.document = {
     createElement() {
@@ -373,10 +422,40 @@ try {
   };
   try {
     const button = decorations[0].value.widget.toDOM();
-    assert.strictEqual(button.textContent, "+创建笔记");
+    assert.strictEqual(button.textContent, "记笔记");
   } finally {
     global.document = oldDocument;
   }
+
+  const rightPaneNote = new MockTFile();
+  rightPaneNote.path = "texts/s8-le-transfert/notes/s8-01-0001.md";
+  const rightPaneLeaf = {
+    async openFile(file) {
+      assert.strictEqual(file, rightPaneNote);
+    },
+  };
+  let revealedLeaf = null;
+  plugin.app = {
+    workspace: {
+      getLeaf(mode, direction) {
+        assert.strictEqual(mode, "split");
+        assert.strictEqual(direction, "vertical");
+        return rightPaneLeaf;
+      },
+      revealLeaf(leaf) {
+        revealedLeaf = leaf;
+      },
+    },
+  };
+  assert.strictEqual(typeof plugin.openReadingNoteOnRight, "function");
+  await plugin.openReadingNoteOnRight(rightPaneNote);
+  assert.strictEqual(revealedLeaf, rightPaneLeaf);
 } finally {
   Module._load = originalLoad;
 }
+};
+
+run().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});

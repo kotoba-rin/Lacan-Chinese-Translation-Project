@@ -64,15 +64,15 @@ class ReadingNoteButtonWidget extends WidgetTypeBase {
     const button = document.createElement("button");
     button.className = "lacan-segment-note-button";
     button.type = "button";
-    button.textContent = "+创建笔记";
-    button.title = `为 ${this.segmentId} 创建阅读笔记`;
-    button.setAttribute("aria-label", `为 ${this.segmentId} 创建阅读笔记`);
+    button.textContent = "记笔记";
+    button.title = `为 ${this.segmentId} 记笔记`;
+    button.setAttribute("aria-label", `为 ${this.segmentId} 记笔记`);
     button.addEventListener("click", (event) => {
       event.preventDefault();
       event.stopPropagation();
       this.plugin.runWithNotice(
         () => this.plugin.createReadingNoteForSegment(this.sourcePath, this.segmentId),
-        "创建阅读笔记失败"
+        "记笔记失败"
       );
     });
     return button;
@@ -538,7 +538,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       await this.app.vault.modify(translationFile, updatedTranslationText);
     }
 
-    await this.openFile(noteFile);
+    await this.openReadingNoteOnRight(noteFile);
     new Notice(`已打开阅读笔记：${normalizedSegmentId}`);
   }
 
@@ -3037,6 +3037,12 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
   async openFile(file, openState = undefined) {
     await this.app.workspace.getLeaf(false).openFile(file, openState);
+  }
+
+  async openReadingNoteOnRight(file) {
+    const leaf = this.app.workspace.getLeaf("split", "vertical");
+    await leaf.openFile(file);
+    await this.app.workspace.revealLeaf?.(leaf);
   }
 };
 
