@@ -61,6 +61,12 @@ READING_NOTE_MARKDOWN_LINK_LINE_RE = re.compile(
     r"^\s*\[[^\]\n]*阅读笔记[^\]\n]*\]\(notes/[^)\n]+(?:\.md)?(?:#[^)\n]+)?\)\s*$",
     re.IGNORECASE,
 )
+NOTES_README_LESSON_LINK_RE = re.compile(
+    r"(?P<prefix>\]\()\.\./(?:original|translation)/"
+    r"(?P<filename>(?:Leçon|Lecon|lesson)-\d+\.md)"
+    r"(?P<fragment>#[^)\s]+)?(?P<suffix>\))",
+    re.IGNORECASE,
+)
 OBSIDIAN_IMAGE_SIZE_RE = re.compile(r"^(\d+)(?:x(\d+))?$", re.IGNORECASE)
 INLINE_CODE_SPAN_RE = re.compile(r"(`+)(.*?)(\1)")
 SEGMENT_ID_TOKEN_RE = re.compile(r"\bs\d+[a-z]?-\d+-\d+\b", re.IGNORECASE)
@@ -834,7 +840,14 @@ def render_reading_note(note: ReadingNote) -> str:
     return "\n".join(out).rstrip() + "\n"
 
 
-def render_notes_readme(slug: str, notes: list[ReadingNote]) -> str:
+def render_notes_readme(seminar_dir: Path, notes: list[ReadingNote]) -> str:
+    source_readme = seminar_dir / NOTES_DIR_NAME / "README.md"
+    if source_readme.exists():
+        content = normalize_source_markdown(read_text(source_readme), source_readme)
+        content = rewrite_notes_readme_lesson_links(content).strip()
+        if content:
+            return content + "\n"
+
     lines = ["# 阅读笔记", ""]
     if not notes:
         lines.extend(["暂无阅读笔记。", ""])
@@ -846,6 +859,20 @@ def render_notes_readme(slug: str, notes: list[ReadingNote]) -> str:
         lines.append(f"- [{note.title}]({note.output_relative_path.relative_to(NOTES_DIR_NAME).as_posix()}){segment_label}")
     lines.append("")
     return "\n".join(lines).rstrip() + "\n"
+
+
+def rewrite_notes_readme_lesson_links(text: str) -> str:
+    def replace(match: re.Match[str]) -> str:
+        number = lesson_number(Path(match.group("filename")))
+        if number is None:
+            return match.group(0)
+        fragment = match.group("fragment") or ""
+        return (
+            f"{match.group('prefix')}../{lesson_filename(number)}"
+            f"{fragment}{match.group('suffix')}"
+        )
+
+    return NOTES_README_LESSON_LINK_RE.sub(replace, text)
 
 
 def note_like_quote(lines: list[str]) -> bool:
@@ -1234,7 +1261,10 @@ def build_seminar(slug: str) -> BuildStats:
     reading_notes = parse_reading_notes(seminar_dir)
     reading_notes_by_segment = notes_by_segment(reading_notes)
     write_text(output_dir / "README.md", render_seminar_readme(slug, seminar_dir))
-    write_text(output_dir / NOTES_DIR_NAME / "README.md", render_notes_readme(slug, reading_notes))
+    write_text(
+        output_dir / NOTES_DIR_NAME / "README.md",
+        render_notes_readme(seminar_dir, reading_notes),
+    )
 
     for lesson_path in lesson_markdown_files(original_dir):
         number = lesson_number(lesson_path)
@@ -1296,7 +1326,7 @@ def render_seminar_readme(slug: str, seminar_dir: Path) -> str:
         lines.append("")
 
     if (seminar_dir / NOTES_DIR_NAME).exists() or (BUILD_DIR / slug / NOTES_DIR_NAME / "README.md").exists():
-        lines.append("- [阅读笔记](notes/README.md)")
+        lines.append("- [阅读笔记](notes/)")
         lines.append("")
 
     original_dir = seminar_dir / "original"

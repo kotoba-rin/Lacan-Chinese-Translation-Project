@@ -109,6 +109,26 @@ class ReadingNotesBuildTest(unittest.TestCase):
                     + "\n",
                     encoding="utf-8",
                 )
+                (seminar / "notes" / "README.md").write_text(
+                    "\n".join(
+                        [
+                            "# 自定义阅读资料与笔记目录",
+                            "",
+                            "## ReadingList",
+                            "",
+                            "- 《会饮篇》",
+                            "",
+                            "## 阅读笔记目录",
+                            "",
+                            "| 笔记 | 对应译文段落 |",
+                            "| --- | --- |",
+                            "| [材料一](material.md) | "
+                            "[s8-01-0001](../translation/Leçon-01.md#s8-01-0001) |",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
                 (seminar / "notes" / "material.md").write_text(
                     "\n".join(
                         [
@@ -156,7 +176,14 @@ class ReadingNotesBuildTest(unittest.TestCase):
                 self.assertLess(lesson.index('class="commentary-block"'), lesson.index('class="reading-note-links"'))
                 self.assertIn("[第一段](../Leçon-01.md#s8-01-0001)", note)
                 self.assertIn("[s8-01-0001](../Leçon-01.md#s8-01-0001)", note)
+                self.assertIn("# 自定义阅读资料与笔记目录", notes_index)
+                self.assertIn("## ReadingList", notes_index)
                 self.assertIn("[材料一](material.md)", notes_index)
+                self.assertIn(
+                    "[s8-01-0001](../Leçon-01.md#s8-01-0001)",
+                    notes_index,
+                )
+                self.assertNotIn("../translation/", notes_index)
                 self.assertIn("[阅读笔记](s8-le-transfert/notes/README.md)", summary)
                 self.assertFalse(
                     (build_from_texts.BUILD_DIR / "s8-le-transfert" / "notes" / "stale.md").exists()
@@ -167,6 +194,31 @@ class ReadingNotesBuildTest(unittest.TestCase):
             finally:
                 build_from_texts.TEXTS_DIR = old_texts_dir
                 build_from_texts.TEXTS_INDEX = old_texts_index
+                build_from_texts.BUILD_DIR = old_build_dir
+
+    def test_seminar_readme_links_to_rendered_notes_directory(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            old_build_dir = build_from_texts.BUILD_DIR
+            build_from_texts.BUILD_DIR = tmp_path / "build"
+
+            try:
+                seminar = tmp_path / "texts" / "s8-le-transfert"
+                (seminar / "original").mkdir(parents=True)
+                (seminar / "notes").mkdir()
+                (seminar / "original" / "README.md").write_text(
+                    "# S8 原文\n\n- 标题：Le transfert\n",
+                    encoding="utf-8",
+                )
+
+                readme = build_from_texts.render_seminar_readme(
+                    "s8-le-transfert",
+                    seminar,
+                )
+
+                self.assertIn("[阅读笔记](notes/)", readme)
+                self.assertNotIn("[阅读笔记](notes/README.md)", readme)
+            finally:
                 build_from_texts.BUILD_DIR = old_build_dir
 
 
