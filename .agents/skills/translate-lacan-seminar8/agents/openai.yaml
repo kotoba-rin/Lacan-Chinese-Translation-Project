@@ -1,4 +1,0 @@
-interface:
-  display_name: "拉康研讨班 VIII 翻译"
-  short_description: "逐段翻译《转移》，润色后回校法文，校验信息、术语、注释与构建结果"
-  default_prompt: "使用 $translate-lacan-seminar8 翻译指定的《研讨班 VIII》课次，先用 $humanizer-zh 润色，再逐 ID 对照法文复校信息保真，并校验注释、术语表和构建结果。"

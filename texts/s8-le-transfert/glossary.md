@@ -102,6 +102,8 @@
 | Voltaire | 伏尔泰 |  |
 | Kant | 康德 |  |
 | Freud | 弗洛伊德 |  |
+| Franz Alexander | 弗朗茨·亚历山大 | 精神分析家；第十四课提及其把力比多理解为维持生存需要得到满足后的能量盈余。 |
+| Jérôme Bosch / Hieronymus Bosch | 耶罗尼米斯·博斯 | 尼德兰画家；第十四课以其画中怪诞的身体意象作戏谑参照。 |
 | Josef Breuer / Breuer | 约瑟夫·布洛伊尔 / 布洛伊尔 | 第十二课转移作为自发过程被发现的历史语境。 |
 | Nietzsche | 尼采 |  |
 | Sade | 萨德 |  |
@@ -226,6 +228,9 @@
 | Description de la Grèce | 希腊志 | 波萨尼阿斯著作。 |
 | La Psychanalyse d’aujourd’hui | 今日精神分析 | 第十课注释中简称 La P.D.A.。 |
 | Essais de psychanalyse | 精神分析论集 | 第十课提及弗洛伊德文集。 |
+| Au-delà du principe du plaisir | 超越快乐原则 | 弗洛伊德著作；第十四课第三章引文涉及回忆、再生产与重复自动症。 |
+| Pulsions et destins des pulsions | 驱力及其命运 | 弗洛伊德著作；第十四课以此重返驱力理论。 |
+| Trois essais sur la théorie de la sexualité | 性学三论 | 弗洛伊德著作；第十四课用来说明口腔阶段的食人性及其性的意义。 |
 | International Journal of Psychoanalysis | 国际精神分析期刊 |  |
 | La Grande Illusion | 大幻影 | 第九课中拉康误指的雷诺阿影片。 |
 | La Règle du Jeu | 游戏规则 | 第九课注释指出实际应为此片。 |
@@ -243,6 +248,7 @@
 | On Counter-transference | 论反转移 | 保拉·海曼文章；1949年宣读，1950年发表。 |
 | Normal Counter-transference and Some of Its Deviations | 正常的反转移及其若干偏离 | 罗杰·莫尼-凯尔文章；第十三课反转移案例的主要参照。 |
 | Position du désir | 欲望的位置 | 拉康1961年3月6日向哲学小组所作报告；是否留有文字记录不详。 |
+| Bout de Zan | 布特·德·赞 | Louis Feuillade 默片系列中的儿童角色；名称又指向 Zan 牌甘草糖，第十四课由此转入 *réglisse* 的词源游戏。 |
 
 ## 学派、地点与族群
 
@@ -280,19 +286,25 @@
 | intersubjectivité | 主体间性 |  |
 | disparité subjective | 主体间的不对等性 |  |
 | imparité subjective | 主体不齐性 |  |
+| pseudo-situation analytique / prétendue situation | 分析的伪情境 / 所谓的分析情境 | 第十四课重申，分析双方位置并不对等，不能把分析简单视作通常意义上的二人情境。 |
 | désir | 欲望 |  |
 | ressort | 机制 / 运作机制 | 原义为弹簧、发条、机关；比喻用法指爱或欲望内部使其发动、运作的隐秘机制。正文中统一按语境译为“机制”“运作机制”；第十二课 *le ressort de l’amour*、*le ressort de la naissance de l’amour* 已统一作“机制”，*le dernier ressort du désir* 作“它最根本的运作机制”。其中可以保留“动力性/驱动性”的意涵，但不宜把主译名列为“动力”，以免滑向心理动机或能量论。在 *un des ressorts nécessaires* 中可作“机制”。固定短语 *en dernier ressort* 按“归根到底/最根本处”处理。避免直译为“弹簧机制”。 |
 | objet | 对象 | 涉及欲望对象、被爱对象时统一为“对象”。 |
 | fantasme | 幻想 |  |
 | fantasme fondamental | 根本幻想 |  |
+| fantasme sadomasochiste | 施虐—受虐幻想 | 第十四课从肛门阶段、他者所期待的痛苦及第三者位置说明其结构。 |
 | leurre | 诱饵/幻象 |  |
 | demande | 索求/要求 | 第七课开头按语境在“要求”与“索求”之间取舍。 |
+| demande d’amour | 爱的要求 | 第十四课把它放在要求的“彼岸”，并与要求“此岸”的欲望区分。 |
+| demande orale / demande d’être nourri / demande de se laisser nourrir | 口腔要求 / 要求被喂养 / 要求主体自己接受喂养 | 第十四课说明，主体要求被喂养时，大他者以要求主体自己接受喂养来回应；两项要求的裂隙为欲望留下位置。 |
+| contre-demande | 反向要求 | 第十四课指来自他者、遮蔽神经症者欲望的要求；过早“理解”并满足它，会使分析提前封闭。 |
 | communication des inconscients | 无意识之间的沟通 | 第十三课讨论分析家获得洞见的传统说法，并质疑其传递途径。 |
 | insight | 洞见 / 领会 | 第十三课指分析家通过无意识之间的沟通获得的决定性领会。 |
 | analyse didactique | 训练分析 | 分析家资格训练中的个人分析；第十三课涉及其能否清除分析家的盲点。 |
 | inconscient de l’autre | 他人的无意识 | 第十三课指出，对无意识的经验在逻辑上首先来自他人的无意识。 |
 | parole | 言说 | 第十二课大他者作为言说位置的语境。 |
 | lieu de la parole | 言说的位置 | 大他者 A 的定义。 |
+| Autron | Autron（保留原词） | 第十四课把 *Autre* 与物理学粒子名称常见的 *-on* 后缀拼合而成；正文保留法语造词，并以译注说明。 |
 | sujets de la parole | 言说的主体 | 第十二课中与主体尊严相对。 |
 | signifiant | 能指 |  |
 | chaîne signifiante | 能指链条 |  |
@@ -320,9 +332,12 @@
 | pensée primitive | 原始思维 |  |
 | position primitive | 原始立场 |  |
 | présupposés mentaux | 思维预设 |  |
+| Trieb / Triebe / pulsion | 驱力 | 弗洛伊德概念；第十四课提到《驱力及其命运》。莫尼-凯尔的英语 *drive* 仍按第十三课具体语境译“冲动”。 |
 | pulsion de mort / instinct de mort | 死驱力 / 死本能 | 按原文分别处理 *pulsion* 与 *instinct*。 |
 | pulsion mortifère | 死亡性驱力 | 与 *pulsion de mort* 相关；按语境可简译“死驱力”。 |
-| automatisme de répétition | 重复自动症 |  |
+| pulsion sadique / sadique-oral | 施虐驱力 / 口腔—施虐 | 第十四课从肛门阶段回溯口腔阶段的吞噬主题，并追问施虐驱力如何进入性的层面。 |
+| automatisme de répétition / Wiederholungszwang | 重复自动症 | 第十四课保留弗洛伊德原文中的德语词，并把它同回忆、再生产及自我防御区分。 |
+| Überlegenheit | 优越性 / 优越位置 | 第十四课引《超越快乐原则》；原文只说应保留一定程度的 *Überlegenheit*，并未规定它属于医生还是病人。 |
 | répétition du besoin / besoin de répétition | 需要的重复 / 重复的需要 | 第十二课讨论拉加什关于转移的区分。 |
 | effet Zeigarnik | 蔡格尼克效应 | 第十二课以未完成任务记忆效应说明转移问题。 |
 | recherche de la vérité | 真理探求 | 第十二课从阿尔西比亚德告白到俄狄浦斯比拟的连续表达；避免拆成“对真理之探求”。 |
@@ -378,7 +393,8 @@
 | objet aimé | 所爱对象 / 被爱对象 | 保留“对象”，避免改作“客体”。 |
 | relation d’objet | 对象关系 | 第十二课现代分析理论在想象层面建构出的理论之一。 |
 | projection | 投射 | 第十二课现代分析理论在想象层面建构出的理论之一。 |
-| introjection | 内摄 | 第十三课以分析家内摄被分析者的话语、再作想象性回应来说明所谓正常反转移。 |
+| introjection / introjection symbolique | 内摄 / 象征性内摄 | 第十三课以分析家内摄被分析者的话语、再作想象性回应来说明所谓正常反转移；第十四课则要求以象征性内摄恢复强迫症者欲望的位置。 |
+| métempsycose / réincarnation | 灵魂转世 / 轮回 | 第八、十四课柏拉图灵魂神话语境；与欲望对象先于自身诞生而在场的说法相连。 |
 | purification didactique | 训练性净化 |  |
 | relation médecin-malade | 医患关系 |  |
 | sophistique | 诡辩术 | 第七课保留括注 *sophistique*。 |
@@ -394,6 +410,7 @@
 | concurrence | 竞争 | 第九课中指对象在主体间交流中的竞争维度。 |
 | transitivismes | 互易感觉 | 第九课中说明对象在主体间交流中构成自身。 |
 | objet(a) / objet (a) | 对象(a) | 幻想对象；避免改作“客体(a)”。 |
+| objet(a) excrémentiel | 排泄物性的对象(a) | 第十四课在肛门阶段把主体同排泄物对象的认同联系起来。 |
 | objet de convoitise unique | 独特贪欲的对象 | 第九课中说明爱之行动核心处排除竞争的对象。 |
 | convoitise | 贪欲 | 第十一课阿尔西比亚德对“最好之物”的贪欲语境。 |
 | confession publique | 公开的告白 | 第九课中说明阿尔西比亚德的言说。 |
@@ -415,6 +432,7 @@
 | castration / complexe de castration | 阉割 / 阉割情结 |  |
 | crainte de castration | 阉割恐惧 | 第十一课阿尔西比亚德语境。 |
 | phallus | 阳具 |  |
+| communion phallique | 阳具共融 | 第十四课批评用想象性的阳具对象直接回应神经症者的要求，认为这会抄近路遮蔽根本幻想。 |
 | génitoires / organe génital | 生殖器 / 生殖器官 |  |
 | souverain Bien / Bien suprême | 至善 / 最高的善 | 第十课用来对照 ἄγαλμα 的对象功能。 |
 | topologie intrasubjective / intrasubjectivité | 主体内部拓扑学 / 主体内性 | 与主体间性区分。 |
@@ -430,9 +448,14 @@
 | objet scientifique | 科学对象 | 第十课用于说明严格等价性。 |
 | objet de l’équivalence | 等价性的对象 | 与欲望对象区分。 |
 | oblativité / amour oblatif | 奉献性 / 奉献性的爱 | 第十课批评生殖阶段理想时出现。 |
+| stade oral / phase orale / libido orale | 口腔阶段 / 口腔期 / 口腔力比多 | 第十四课围绕要求被喂养、要求接受喂养及食人性说明欲望如何越出要求。 |
+| stade anal / libido anale | 肛门阶段 / 肛门力比多 | 第十四课围绕保留与排出排泄物的要求、礼物和奉献性说明欲望的位置。 |
+| cannibalique / cannibalisme | 食人性的 / 食人行为 | 第十四课用来说明口腔要求的性意义与身体结合的地平线。 |
+| anorexie mentale | 神经性厌食症 | 第十四课以拒绝接受喂养说明主体如何避免欲望随要求的满足而熄灭。 |
 | stade génital / acte génital | 生殖阶段 / 生殖行为 | 与奉献性之爱相关。 |
 | caractérologie du génital | 生殖的性格学 | 第十课引用《今日精神分析》语境。 |
 | sujet | 主体 / 议题(sujet) | 作为精神分析概念时译“主体”，不在正文逐处括注；在 *aborder ce sujet*、*le sujet a été traité* 等普通法语表达中，指“议题/题目”，译作“议题(sujet)”并保留法语括注，以免误作概念性的“主体”。 |
+| instance / instances du sujet | 心理机构 / 主体内部的各种心理机构 | 第十四课指自我等在主体内部起作用的机构，不译作一般意义上的“层次”。 |
 | sujet strict | 严格主体 | 第十课中以语言组合能力界定主体。 |
 | analyste / analysé | 分析家 / 被分析者 | 第十二课两种欲望与分析情境语境。 |
 | situation à deux / deux réels | 二人情境 / 两个实在者 | 第十二课重新界定被分析者在分析家面前的情境。 |
@@ -501,6 +524,7 @@
 | Πενία [Penia] | 贫乏 / 珀尼亚 | 狄奥提玛神话中爱之母。 |
 | Μήτις [Mètis] | 墨提斯 | 波罗斯之母，侧重机智、谋略和巧思。 |
 | ἀπορία / άπορία [aporia] | 无路可走的困境 | 与波罗斯对位，可按语境说明为无出路、没有资源。 |
+| γλυκύρριζα / γλυχύῤῥιζα [glukurrhiza] | 甘草 / 甜根 | 第十四课追溯法语 *réglisse* 的词源，并借转写链说明能指的歧义。 |
 | δόξα / δοχα [doxa] | 意见 / 正意见 | 狄奥提玛论述中介于确定知识与无知之间；第九课可说明为“给出 logos 却并不拥有它”。 |
 | ἀμαθία / άμαθία [amathia] | 无知 | 与 ἐπιστήμη、δόξα 对照。 |
 | μεταξύ [metaxu] | 中介 / 处在两者之间 | 用于说明爱处于美与丑、知识与无知之间。 |
@@ -513,9 +537,9 @@
 | ἔρως [erôs] | 爱欲 | 柏拉图式爱欲；与基督教 ἀγάπη 对照。 |
 | Αίδώς [Aidôs] / Pudeur | 羞耻 / 贞肃 | 第十二课阿尔西比亚德失败后的羞耻与公开告白语境。 |
 | ἀγάπη [agapè] | 圣爱 / 阿伽佩 | 基督教语境；与柏拉图式 ἔρως 对照。 |
-| ἔπαινος / ἐπαίνος [épaïnos] | 颂辞 | 第十一课中由对爱的颂辞转为对他人的颂辞。 |
-| ἐπαινεῖν [epainein] | 赞美 / 说某人的好话 | 第十一课说明颂辞的仪式功能。 |
-| ἐγκώμιον / ενκωμιον [enkômion] | 赞歌 / 颂歌 | 与 ἔπαινος 区分；侧重行动与功业。 |
+| ἔπαινος / ἐπαίνος [épaïnos] / éloge / louange | 赞美 | 第四、十一课。拉康将其同 ἐγκώμιον（颂词）区分：赞美从对象的本性、*essence* 出发，展开对象的品质；阿尔西比亚德入场后，它作为仪式性的“说某人的好话”，在一个人到另一个人之间发挥爱之隐喻/象征功能。 |
+| ἐπαινεῖν [epainein] / louer | 赞美 / 说某人的好话 | 动词形式；第十一课说明其仪式功能。 |
+| ἐγκώμιον / ενκωμιον [enkômion] / panégyrique | 颂词 | 与 ἔπαινος（赞美）区分：拉康按亚里士多德说明，颂词不是从对象本质出发展开品质，而是“编织”对象行动与功业的花冠；它相对于 ἔπαινος 的本质指向是外在、偏心的。 |
 | κῶμος [kômos] | 酒神节滑稽游行 | 第十一课说明 *enkômion* 词源关联。 |
 | τω χεῖρε [tô kheire] | 劈头盖脸地 / 拳脚相加地 | 阿尔西比亚德与苏格拉底相互指责时的身体性隐喻。 |
 | γέλως [gelôs] / γελοίος [geloios] | 可笑 / 滑稽 | 第十一课阿尔西比亚德颂辞进入可笑性。 |

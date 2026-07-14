@@ -364,7 +364,7 @@ Voilà ce que déjà - je pense - M. Caquot voudra bien nous éclaircir.
 
 <!-- id: s17-10-0090 -->
 
-[André CA<span id="Caquot" class="anchor"></span>QUOT](#avril-1970-table-des-séances-1)
+[André CA<span id="Caquot" class="anchor"></span>QUOT](./)
 
 <!-- id: s17-10-0091 -->
 

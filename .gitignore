@@ -16,3 +16,4 @@ weread/
 test/
 develop_doc/
 .claudian/
+.agents/

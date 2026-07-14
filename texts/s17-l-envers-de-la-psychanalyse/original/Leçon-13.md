@@ -1054,7 +1054,7 @@ J’espère...
 
 <!-- id: s17-13-0258 -->
 
-[Table des séances](#Table)
+[Table des séances](./)
 
 ## Notes
 
