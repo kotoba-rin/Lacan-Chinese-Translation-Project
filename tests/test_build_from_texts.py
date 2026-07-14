@@ -59,7 +59,77 @@ class DuplicateIdValidationTest(unittest.TestCase):
         )
 
 
+class TranslationCommentaryBuildTest(unittest.TestCase):
+    def test_explicit_commentary_marker_overrides_note_like_prefix(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            translation = Path(tmp) / "Leçon-01.md"
+            translation.write_text(
+                "\n".join(
+                    [
+                        "# Leçon 01",
+                        "",
+                        "<!-- id: s17-01-0001 -->",
+                        "",
+                        "译文正文。",
+                        "",
+                        "> <!-- 建言 -->",
+                        "> 注：这一段明确标记为建言。",
+                    ]
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+
+            entry = build_from_texts.parse_translation(translation)[0]
+            rendered = build_from_texts.render_translation_entry(entry)
+
+            self.assertIn("注：这一段明确标记为建言。", rendered.commentary)
+            self.assertNotIn("注：这一段明确标记为建言。", rendered.notes)
+
+
 class ReadingNotesBuildTest(unittest.TestCase):
+    def test_build_without_notes_source_omits_notes_page_and_links(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            old_texts_dir = build_from_texts.TEXTS_DIR
+            old_texts_index = build_from_texts.TEXTS_INDEX
+            old_build_dir = build_from_texts.BUILD_DIR
+            build_from_texts.TEXTS_DIR = tmp_path / "texts"
+            build_from_texts.TEXTS_INDEX = build_from_texts.TEXTS_DIR / "index.md"
+            build_from_texts.BUILD_DIR = tmp_path / "build"
+
+            try:
+                slug = "s17-l-envers-de-la-psychanalyse"
+                seminar = build_from_texts.TEXTS_DIR / slug
+                (seminar / "original").mkdir(parents=True)
+                (seminar / "translation").mkdir()
+                (seminar / "original" / "Leçon-01.md").write_text(
+                    "# Leçon 01\n\n<!-- id: s17-01-0001 -->\n\nTexte original.\n",
+                    encoding="utf-8",
+                )
+                (seminar / "translation" / "Leçon-01.md").write_text(
+                    "# Leçon 01\n\n<!-- id: s17-01-0001 -->\n\n译文正文。\n",
+                    encoding="utf-8",
+                )
+                stale_notes = build_from_texts.BUILD_DIR / slug / "notes"
+                stale_notes.mkdir(parents=True)
+                (stale_notes / "stale.md").write_text("# 旧笔记\n", encoding="utf-8")
+
+                build_from_texts.build_seminar(slug)
+                build_from_texts.write_summary()
+
+                output_dir = build_from_texts.BUILD_DIR / slug
+                seminar_readme = (output_dir / "README.md").read_text(encoding="utf-8")
+                summary = (build_from_texts.BUILD_DIR / "SUMMARY.md").read_text(encoding="utf-8")
+
+                self.assertFalse((output_dir / "notes").exists())
+                self.assertNotIn("[阅读笔记](notes/)", seminar_readme)
+                self.assertNotIn(f"[阅读笔记]({slug}/notes/README.md)", summary)
+            finally:
+                build_from_texts.TEXTS_DIR = old_texts_dir
+                build_from_texts.TEXTS_INDEX = old_texts_index
+                build_from_texts.BUILD_DIR = old_build_dir
+
     def test_builds_notes_pages_wiki_links_and_lesson_backlinks(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp_path = Path(tmp)

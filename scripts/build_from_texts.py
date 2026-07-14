@@ -47,6 +47,7 @@ BUILD_DIR = ROOT / "build"
 ID_RE = re.compile(r"<!--\s*id:\s*([^>\s]+)\s*-->")
 IDS_RE = re.compile(r"<!--\s*ids:\s*([^>]+?)\s*-->")
 HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
+COMMENTARY_MARKER_RE = re.compile(r"<!--\s*建言\s*-->")
 LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-(\d+)\.md$", re.IGNORECASE)
 CANONICAL_LESSON_PREFIX = "Leçon"
 NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
@@ -720,7 +721,14 @@ def parse_translation(path: Path) -> list[TranslationEntry]:
 
         untranslated = "<!-- untranslated -->" in block
         block = block.replace("<!-- untranslated -->", "")
-        block = HTML_COMMENT_RE.sub("", block)
+        block = HTML_COMMENT_RE.sub(
+            lambda comment: (
+                comment.group(0)
+                if COMMENTARY_MARKER_RE.fullmatch(comment.group(0))
+                else ""
+            ),
+            block,
+        )
         block = strip_metadata_comments(block)
 
         entries.append(
@@ -876,6 +884,9 @@ def rewrite_notes_readme_lesson_links(text: str) -> str:
 
 
 def note_like_quote(lines: list[str]) -> bool:
+    if any(COMMENTARY_MARKER_RE.search(line) for line in lines):
+        return False
+
     visible_lines = []
     for line in lines:
         stripped = line.lstrip()
@@ -1261,10 +1272,11 @@ def build_seminar(slug: str) -> BuildStats:
     reading_notes = parse_reading_notes(seminar_dir)
     reading_notes_by_segment = notes_by_segment(reading_notes)
     write_text(output_dir / "README.md", render_seminar_readme(slug, seminar_dir))
-    write_text(
-        output_dir / NOTES_DIR_NAME / "README.md",
-        render_notes_readme(seminar_dir, reading_notes),
-    )
+    if notes_dir.exists():
+        write_text(
+            output_dir / NOTES_DIR_NAME / "README.md",
+            render_notes_readme(seminar_dir, reading_notes),
+        )
 
     for lesson_path in lesson_markdown_files(original_dir):
         number = lesson_number(lesson_path)
