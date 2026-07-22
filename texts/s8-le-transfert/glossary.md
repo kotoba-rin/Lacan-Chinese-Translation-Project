@@ -191,6 +191,13 @@
 | Roger Money-Kyrle | 罗杰·莫尼-凯尔 | 克莱因学派分析家；第十三课重点讨论其《正常的反转移及其若干偏离》。 |
 | Sándor Ferenczi / Ferenczi | 桑多尔·费伦齐 / 费伦齐 | 第十三课涉及分析家是否应把自身感受告诉病人的问题。 |
 | Philippe Julien | 菲利普·朱利安 | 第十三课注释中提出分析桥牌牌局图式。 |
+| René Descartes / Descartes | 勒内·笛卡尔 / 笛卡尔 | 第十五课以动物机器论说明，把螳螂视作“机器”意味着排除其主体性。 |
+| Henri Ey | 亨利·埃伊 | 法国精神病学家；第十五课提到其对动物性倒错和动物精神病学的关注。 |
+| Roger Caillois | 罗歇·凯卢瓦 | 第十五课借《神话与人》讨论螳螂形象的神话与寓言价值。 |
+| Vittore Carpaccio / Carpaccio | 维托雷·卡尔帕乔 / 卡尔帕乔 | 第十五课以《圣乔治与龙搏斗》中的残肢说明碎裂意象。 |
+| Jacques Cazotte / Cazotte | 雅克·卡佐特 / 卡佐特 | 第十五课以《恋爱中的魔鬼》中独自行走、说话的头颅说明碎裂幻想。 |
+| Baltasar Gracián / Gracián | 巴尔塔萨·格拉西安 / 格拉西安 | 第十五课从《批判家》和《领圣体手册》讨论口腔认同与共融幻想。 |
+| Pierre Teilhard de Chardin / Teilhard de Chardin | 皮埃尔·德日进 / 德日进 | 第十五课讽刺行星“人化”的理想主义主题。 |
 
 ## 作品、篇名与文本
 
@@ -249,6 +256,13 @@
 | Normal Counter-transference and Some of Its Deviations | 正常的反转移及其若干偏离 | 罗杰·莫尼-凯尔文章；第十三课反转移案例的主要参照。 |
 | Position du désir | 欲望的位置 | 拉康1961年3月6日向哲学小组所作报告；是否留有文字记录不详。 |
 | Bout de Zan | 布特·德·赞 | Louis Feuillade 默片系列中的儿童角色；名称又指向 Zan 牌甘草糖，第十四课由此转入 *réglisse* 的词源游戏。 |
+| L’Évolution psychiatrique | 精神病学的演进 | 法国精神病学期刊；第十五课中拉康误记亨利·埃伊曾为动物性倒错编过一期专刊。 |
+| Psychiatrie animale | 动物精神病学 | 亨利·埃伊与 A. Brion 主持的1964年著作；第十五课原注用来校正拉康的记忆。 |
+| Le Mythe et l’homme | 神话与人 | 罗歇·凯卢瓦1938年著作；第十五课讨论螳螂的神话与神圣价值。 |
+| Saint Georges combattant le Dragon | 圣乔治与龙搏斗 | 卡尔帕乔画作；第十五课原注校正其收藏地点为威尼斯圣乔治·德利·斯基亚沃尼会馆。 |
+| Le Diable amoureux | 恋爱中的魔鬼 | 雅克·卡佐特著作；第十五课以会说话的独行头颅说明碎裂幻想。 |
+| Le Criticón | 批判家 | 巴尔塔萨·格拉西安著作；第十五课原注列出法文版第Ⅰ、Ⅱ卷。 |
+| El Comulgatorio | 领圣体手册 | 巴尔塔萨·格拉西安关于领圣体的灵修著作；第十五课用来揭示共融幻想中的口腔认同。 |
 
 ## 学派、地点与族群
 
@@ -288,6 +302,7 @@
 | imparité subjective | 主体不齐性 |  |
 | pseudo-situation analytique / prétendue situation | 分析的伪情境 / 所谓的分析情境 | 第十四课重申，分析双方位置并不对等，不能把分析简单视作通常意义上的二人情境。 |
 | désir | 欲望 |  |
+| désir naturel | 自然欲望 | 第十五课指不受要求支配、无法被说出并指向“人并不要求之物”的假设性欲望；拉康随即强调，大他者早已占据符号的位置，所以人不可能实际拥有这种欲望。 |
 | ressort | 机制 / 运作机制 | 原义为弹簧、发条、机关；比喻用法指爱或欲望内部使其发动、运作的隐秘机制。正文中统一按语境译为“机制”“运作机制”；第十二课 *le ressort de l’amour*、*le ressort de la naissance de l’amour* 已统一作“机制”，*le dernier ressort du désir* 作“它最根本的运作机制”。其中可以保留“动力性/驱动性”的意涵，但不宜把主译名列为“动力”，以免滑向心理动机或能量论。在 *un des ressorts nécessaires* 中可作“机制”。固定短语 *en dernier ressort* 按“归根到底/最根本处”处理。避免直译为“弹簧机制”。 |
 | objet | 对象 | 涉及欲望对象、被爱对象时统一为“对象”。 |
 | fantasme | 幻想 |  |
@@ -333,6 +348,22 @@
 | position primitive | 原始立场 |  |
 | présupposés mentaux | 思维预设 |  |
 | Trieb / Triebe / pulsion | 驱力 | 弗洛伊德概念；第十四课提到《驱力及其命运》。莫尼-凯尔的英语 *drive* 仍按第十三课具体语境译“冲动”。 |
+| Durcharbeitung | 修通 | 弗洛伊德的 *working-through*；第十五课指主体为了准确抵达转移功能的位置而必须经历的反复加工过程。 |
+| nachträglich / après-coup | 事后作用 / 事后地 | 第十五课说明口腔对象的爱欲价值不是来自原初饥饿，而是后来通过追溯性的事后作用取得。 |
+| Verkennung / Erkennung | 误认 / 认出、识别 | 第十五课把人类“认识”的维度同 *Verkennung* 联系起来，同时以动物行为中的 *Erkennung* 说明相似者形象的器官生成效应。 |
+| érogénéité | 性感性 / 性感能力 | 第十五课质疑是否应把力比多阶段只理解为器官或黏膜性感性的迁移。 |
+| subjectivation | 主体化 | 第十五课把假定螳螂拥有性的享乐作为一种主体化操作。 |
+| mante religieuse | 螳螂 / 祈祷者螳螂 | 第十五课讨论法语名称所保留的祈祷姿态，以及雄螳螂受该形象吸引的幻想价值。 |
+| acéphalie / acéphalisation | 无头状态 / 无头化 | 第十五课把螳螂神话的悲剧意义同生命传递联系起来，并与口腔对象的部分性区分。 |
+| synchronie | 共时性 | 第十五课指自然界中交媾行为与吞噬性剩余同时发生；与人类幻想的能指结构区分。 |
+| morcellement / images morcelantes | 碎裂 / 碎裂意象 | 第十五课从口腔欲望对象的相互认同谈到身体碎裂幻想及卡尔帕乔画中的残肢。 |
+| objet subjectif | 主体性对象 | 第十五课指大他者欲望场域中必须同既有特权对象相比较、衡量自身价值的对象。 |
+| objet de don | 作为礼物的对象 | 第十五课在肛门要求中形成；主体能够给出的东西同他能扣留的排泄物相连。 |
+| hominisation | 人化 | 第十五课讽刺所谓行星“人化”：人这种动物首先把行星变成垃圾场。 |
+| dette symbolique | 象征性债务 | 第十五课借拉丁语 *habeo* 与 *debeo* 的关系，把将来时、拥有与命令形式中的债务联系起来。 |
+| objet phallique | 阳具对象 | 第十五课强调它不是此前口腔对象、肛门对象的简单特化，而是大他者场域中的特权对象。 |
+| A noétique / Autre noétique | 认知性的大他者 | 第十五课指其对要求的回答本可取信于人的大他者；ϕ 象征 A 为成为这种完整资格的大他者所欠缺之物。 |
+| Kjökkenmödding | 贝冢 | 第十五课原注所释的丹麦语考古名词，指长期食用软体动物后形成的贝壳与生活废弃物堆积。 |
 | pulsion de mort / instinct de mort | 死驱力 / 死本能 | 按原文分别处理 *pulsion* 与 *instinct*。 |
 | pulsion mortifère | 死亡性驱力 | 与 *pulsion de mort* 相关；按语境可简译“死驱力”。 |
 | pulsion sadique / sadique-oral | 施虐驱力 / 口腔—施虐 | 第十四课从肛门阶段回溯口腔阶段的吞噬主题，并追问施虐驱力如何进入性的层面。 |
@@ -360,6 +391,7 @@
 | l’entre-deux-morts | 两次死亡之间 |  |
 | la seconde mort | 第二次死亡 | 与 *l’entre-deux-morts* 区分。 |
 | jouissance | 享乐 |  |
+| Lust / Lüste | 快乐 / 欲望、欲求 | 第十五课借德语单数 *Lust* 与复数 *Lüste* 的意义滑动，区分满足的快乐与性紧张、欲求。 |
 | Éros / eros | 爱欲 |  |
 | l’aimé | 被爱者 | 《会饮篇》语境中指被爱的人。 |
 | amour du Beau / Désir de Beau / Désir du Beau | 对美的爱 / 对美的欲望 | 第九课中用于说明狄奥提玛论述中“美”从通道滑向目标。 |
@@ -496,6 +528,11 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | μύθους λέγειν [muthous legein] | 言说神话/故事 | 第九课说明既指具体故事，也指话语、所说的话。 |
+| κοινῇ [koinè] | 通用语 / 共通语 | 第十五课指无意识中共同流通的语言；口腔对象关系在其中得到勾勒。 |
+| τέλος [telos] | 终点 / 目的 | 第十五课以“目的并不经过头颅”说明物种生命的传递同无头状态的联系。 |
+| malle / mavult | 宁愿、偏爱 / 她更喜欢 | 第十五课用拉丁语强调螳螂对伴侣头颅的“选择”，并由此进入萨德式道德意义。 |
+| fàndum / fari | 必须说话 / 说话 | 第十五课从拉丁语 *fari* 引出 *fàndum*“它必须说话”。 |
+| habeo / debeo | 我拥有 / 我负债、我应当 | 第十五课借两者的历史关联，把罗曼语将来时的“拥有”结构同象征性债务和命令联系起来。 |
 | ἐπιστήμη [épistèmè] | 科学 / 确定知识 | 不同于现代“科学”；第八、九课中常与 *doxa*、*amathia* 对照。 |
 | καθαρσις [catharsis] | 宣泄 | 分析语境中与训练性净化并列。 |
 | Ἄτη [Atè] | 阿忒 / 灾厄 | 也可说明为灾祸、毁灭性盲目。 |
