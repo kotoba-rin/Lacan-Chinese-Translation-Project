@@ -67,6 +67,7 @@ mdBook 在线阅读地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 - 在 Obsidian Bases 中按研讨班和课次查看条目，快速进入原文、译文或创建缺失译文。
 - 同步 GitHub 主仓库内容，并支持配置多个 fork 作为对照版本。
 - 在阅读预览中选择 fork 后，可在具体分段旁展开该分段的对照内容。
+- 可选的“Ф”AI 功能入口会按所选提示词与 Skills 处理分段法文、译文、术语表和关联笔记；默认先做术语与符号核对，再做语境性解读，并在右侧栏给出可继续追问的结果。
 
 常用入口：
 
@@ -80,6 +81,33 @@ mdBook 在线阅读地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 - Reader：同步 GitHub 主仓库的最新更新到本地当前项目，适合只阅读或查看译文的人。
 - Editer：同步主仓库时只下载为对照版本，不覆盖你正在编辑的当前文件，适合参与翻译的人。
 - Fork 对照：Reader 和 Editer 都可以使用。先在设置页添加 fork，再在文本页面顶部选择 fork 版本，之后可在分段旁展开对照。
+
+### 分段 AI 功能
+
+“Ф”是现有 `Lacan Translation Helper` 的通用 AI 功能入口，不是第二个 Obsidian 插件，也不依赖 Claudian。入口自身不限定任务类型；实际行为由插件提示词与所选 Skills 共同决定，并通过本机的 `codex app-server` 运行：
+
+1. 先安装并登录 Codex CLI。
+2. 在插件设置页切换到“AI 功能”标签并打开“启用分段 AI 功能”；如 Obsidian 找不到 `codex`，填写其可执行文件绝对路径。
+3. “Agent 模型”默认继承 Codex 的默认值；也可以点击“刷新模型”，从本机 Codex App Server 的 `model/list` 动态结果中选择。模型列表不经过 Claudian。
+4. “推理强度”默认跟随所选模型的 Codex 默认值，也可以从该模型实际支持的档位中选择；插件会把选择作为 `turn/start.effort` 传给本地 Agent。
+5. 在译文源码模式点击分段旁的“Ф”，或在阅读预览中点击“【分段 ID】 Ф”。
+6. 在“会话上限”中选择可同时打开和生成的会话数，范围为 `1–5`，默认 `3`。不同会话可在后台并行生成，单个会话失败不会锁住其他会话。
+7. 结果会在右侧的“Lacan AI”视图中流式显示，并默认跟随最新生成内容；向上滚动阅读时会暂停跟随，点击“回到最新”后恢复。顶部标签用于切换会话；“历史”使用独立滚动区域，可重新打开、重命名、删除单条会话或清空全部会话。清空全部前会二次确认，有任务运行时需先停止并等待结束。
+8. 追问时按 `Enter` 发送，按 `Shift+Enter` 换行；中文输入法正在组词时不会误发送。每个会话分别保留草稿和滚动位置。
+9. “AI 功能”标签只维护一份可直接编辑的“解读提示词”，所有“Ф”会话共用它。需要改变分析方法时，可刷新 Codex 的 `skills/list` 并建立只包含主要 Skill、辅助 Skill 的 Skill 方案；Skill 方案不再保存另一套提示词。“Ф”使用默认 Skill 方案，下拉菜单可为一次新会话改选。
+
+安全边界：
+
+- Agent thread 使用当前 Vault 作为工作目录，并强制使用只读沙箱和 `never` 审批策略。
+- 解读前会检查当前 thread 的外部能力；如果 Apps、Plugins、Web Search 或 MCP 工具未能可靠隔离，插件会停止请求并明确报错。
+- Agent 不创建或修改译文、原文、术语表和阅读笔记，也不会静默回退到 OpenAI API。
+- 术语表只用于对照；缺项或译法不一致会在回答中提示，由用户决定是否另行修改。
+- 会话、消息、打开标签、草稿和滚动状态只保存在插件自身的 `data.json` 中，用于插件重载后恢复；不会写入项目 Markdown。
+- Skill 只能改变分析方法和回答结构，不能提升 Agent 权限。结构化 Skill 输入的路径必须来自 Codex 当前返回的清单；来源文本和普通追问中的 `$name` 不会自动触发 Skill。
+
+“本地 Agent”不等于“本地模型”。Agent 的进程、文件检索和权限控制在本机运行，但模型推理可能使用远程服务；上下文包、Agent 按需读取的材料和工具输出可能发送给模型服务。不要把敏感私人资料放入默认检索范围。基础边界见 [分段 AI 解读架构设计](./plugin-doc/segment-ai-interpretation-architecture.md)，多会话、并发与 Skill 方案见 [多会话与 Skill 升级设计](./plugin-doc/segment-ai-multi-session-architecture.md)。
+
+插件源码入口是 `.obsidian/plugins/lacan-translation-helper/src/main.js`，`main.js` 是 Obsidian 实际加载的 esbuild 构建产物。修改插件源码或 `segment-ai/` 模块后，在插件目录运行 `npm install`（首次）和 `npm run build`；提交前可用 `npm run build:check` 检查构建产物是否同步。
 
 同步说明：
 

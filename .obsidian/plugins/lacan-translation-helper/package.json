@@ -1,0 +1,13 @@
+{
+  "name": "lacan-translation-helper",
+  "version": "0.6.0",
+  "private": true,
+  "description": "Build tooling for the integrated Lacan Translation Helper Obsidian plugin.",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "build:check": "node esbuild.config.mjs --check"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

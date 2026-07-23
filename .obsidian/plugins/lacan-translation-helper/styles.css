@@ -386,3 +386,694 @@
 .lacan-segment-compare-content > :last-child {
   margin-bottom: 0;
 }
+
+.lacan-segment-actions {
+  align-items: center;
+  display: inline-flex;
+  gap: 5px;
+  margin-left: 8px;
+  vertical-align: 1px;
+}
+
+.lacan-segment-actions .lacan-segment-note-button {
+  margin-left: 0;
+}
+
+.lacan-segment-ai-button {
+  --lacan-ai-ink: var(--interactive-accent);
+  align-items: center;
+  background: color-mix(in srgb, var(--lacan-ai-ink) 8%, var(--background-secondary));
+  border: 1px solid color-mix(in srgb, var(--lacan-ai-ink) 30%, var(--background-modifier-border));
+  border-radius: 5px;
+  color: color-mix(in srgb, var(--lacan-ai-ink) 78%, var(--text-normal));
+  cursor: pointer;
+  display: inline-flex;
+  font-family: var(--font-interface-theme, var(--font-interface));
+  font-size: 15px;
+  font-weight: 650;
+  justify-content: center;
+  line-height: 18px;
+  min-width: 26px;
+  padding: 0 6px;
+}
+
+.lacan-segment-ai-button:hover,
+.lacan-segment-ai-button:focus-visible {
+  background: var(--lacan-ai-ink);
+  color: var(--text-on-accent);
+  outline: none;
+}
+
+.lacan-segment-ai-button.has-segment-id {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  padding: 2px 8px;
+}
+
+.lacan-segment-ai-profile-button {
+  --lacan-ai-ink: var(--interactive-accent);
+  background: var(--background-secondary);
+  border: 1px solid color-mix(in srgb, var(--lacan-ai-ink) 30%, var(--background-modifier-border));
+  border-radius: 5px;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 10px;
+  line-height: 18px;
+  margin-left: -3px;
+  padding: 0 5px;
+}
+
+.lacan-segment-ai-profile-button:hover,
+.lacan-segment-ai-profile-button:focus-visible {
+  color: var(--text-normal);
+  outline: 1px solid var(--lacan-ai-ink);
+}
+
+.lacan-segment-ai-control {
+  align-items: center;
+  display: flex;
+  margin: 2px 0 6px;
+}
+
+.lacan-settings-tabs {
+  align-items: flex-end;
+  border-bottom: 1px solid var(--background-modifier-border);
+  display: flex;
+  gap: 18px;
+  margin: 0 0 18px;
+}
+
+.lacan-settings-tab {
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  box-shadow: none;
+  color: var(--text-muted);
+  font: inherit;
+  margin-bottom: -1px;
+  padding: 8px 2px 9px;
+}
+
+.lacan-settings-tab:hover {
+  background: transparent;
+  color: var(--text-normal);
+}
+
+.lacan-settings-tab.is-active {
+  border-bottom-color: var(--interactive-accent);
+  color: var(--text-normal);
+  font-weight: var(--font-semibold);
+}
+
+.lacan-settings-tab:focus-visible {
+  box-shadow: 0 2px 0 var(--interactive-accent);
+  outline: none;
+}
+
+.lacan-ai-settings-description {
+  border-left: 3px solid var(--interactive-accent);
+  margin: -4px 0 14px;
+  padding-left: 10px;
+}
+
+.lacan-ai-settings-description p {
+  margin: 4px 0;
+}
+
+.lacan-ai-view {
+  --lacan-ai-ink: var(--interactive-accent);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.workspace-leaf-content[data-type="lacan-segment-interpretation"] .view-content.lacan-ai-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.lacan-ai-view-scroll {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  gap: 12px;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 14px;
+  scrollbar-gutter: stable;
+}
+
+.lacan-ai-workspace-header {
+  flex: 0 0 auto;
+  padding: 12px 14px 7px;
+}
+
+.lacan-ai-workspace-title-row {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lacan-ai-workspace-title-row h3 {
+  font-family: var(--font-text-theme, var(--font-text));
+  font-size: 17px;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+.lacan-ai-workspace-actions {
+  align-items: center;
+  display: flex;
+  gap: 7px;
+}
+
+.lacan-ai-workspace-actions .lacan-ai-quiet-button {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  color: var(--text-muted);
+  font-size: 11px;
+  height: auto;
+  padding: 3px 6px;
+}
+
+.lacan-ai-capacity {
+  color: var(--text-faint);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+
+.lacan-ai-tabs {
+  align-items: stretch;
+  border-bottom: 1px solid var(--background-modifier-border);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  overflow-x: auto;
+  padding: 0 10px;
+  scrollbar-width: thin;
+}
+
+.lacan-ai-tab {
+  align-items: center;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  box-shadow: none;
+  color: var(--text-muted);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  max-width: 180px;
+  min-width: 0;
+  padding: 7px 5px 6px;
+}
+
+.lacan-ai-tab:hover {
+  background: var(--background-modifier-hover);
+}
+
+.lacan-ai-tab.is-active {
+  border-bottom-color: var(--lacan-ai-ink);
+  color: var(--text-normal);
+}
+
+.lacan-ai-tab-index {
+  align-items: center;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  display: inline-flex;
+  font-size: 9px;
+  height: 17px;
+  justify-content: center;
+  width: 17px;
+}
+
+.lacan-ai-tab-title {
+  max-width: 110px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lacan-ai-tab-state {
+  color: var(--text-faint);
+  font-size: 10px;
+}
+
+.lacan-ai-tab-state.is-failed,
+.lacan-ai-tab-state.is-unavailable {
+  color: var(--text-error);
+}
+
+.lacan-ai-tab.needs-attention .lacan-ai-tab-state {
+  color: var(--lacan-ai-ink);
+}
+
+.lacan-ai-tab-close {
+  border-radius: 3px;
+  color: var(--text-faint);
+  line-height: 16px;
+  padding: 0 2px;
+}
+
+.lacan-ai-tab-close:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.lacan-ai-history {
+  background: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  display: flex;
+  flex: 0 1 360px;
+  flex-direction: column;
+  max-height: min(38vh, 360px);
+  min-height: min(140px, 28vh);
+  overflow: hidden;
+}
+
+.lacan-ai-history-heading {
+  align-items: center;
+  border-bottom: 1px solid var(--background-modifier-border);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 8px 12px;
+}
+
+.lacan-ai-history-summary {
+  align-items: baseline;
+  display: flex;
+  gap: 8px;
+  min-width: 0;
+}
+
+.lacan-ai-history-summary span {
+  color: var(--text-faint);
+  font-size: 11px;
+}
+
+.lacan-ai-history .lacan-ai-history-clear {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  color: var(--text-error);
+  font-size: 11px;
+  height: auto;
+  padding: 3px 5px;
+}
+
+.lacan-ai-history .lacan-ai-history-clear:hover:not(:disabled) {
+  background: var(--background-modifier-hover);
+}
+
+.lacan-ai-history .lacan-ai-history-clear:disabled {
+  color: var(--text-faint);
+  cursor: default;
+}
+
+.lacan-ai-history-list {
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 0 12px 8px;
+  scrollbar-gutter: stable;
+}
+
+.lacan-ai-history-row {
+  align-items: center;
+  border-top: 1px solid var(--background-modifier-border);
+  display: grid;
+  gap: 6px;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  padding: 5px 0;
+}
+
+.lacan-ai-history .lacan-ai-history-open {
+  align-items: flex-start;
+  appearance: none;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: center;
+  min-width: 0;
+  padding: 4px 2px;
+  text-align: left;
+  width: 100%;
+}
+
+.lacan-ai-history-open strong,
+.lacan-ai-history-open span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lacan-ai-history-open span {
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.lacan-ai-history .lacan-ai-history-delete {
+  color: var(--text-muted);
+  font-size: 11px;
+  height: auto;
+  padding: 2px 6px;
+}
+
+.lacan-ai-history .lacan-ai-history-rename {
+  color: var(--text-muted);
+  font-size: 11px;
+  height: auto;
+  padding: 2px 6px;
+}
+
+.lacan-ai-view-header {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 10px;
+}
+
+.lacan-ai-title-row {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: space-between;
+}
+
+.lacan-ai-title-row h3,
+.lacan-ai-title-row h4 {
+  margin: 0;
+}
+
+.lacan-ai-status {
+  background: var(--background-secondary);
+  border-radius: 999px;
+  color: var(--text-muted);
+  flex: 0 0 auto;
+  font-size: 11px;
+  padding: 3px 8px;
+}
+
+.lacan-ai-status.is-streaming,
+.lacan-ai-status.is-searching,
+.lacan-ai-status.is-starting,
+.lacan-ai-status.is-resolving {
+  background: color-mix(in srgb, var(--lacan-ai-ink) 11%, var(--background-secondary));
+  color: color-mix(in srgb, var(--lacan-ai-ink) 76%, var(--text-normal));
+}
+
+.lacan-ai-status.is-failed,
+.lacan-ai-status.is-unavailable,
+.lacan-ai-status.is-stale {
+  color: var(--text-error);
+}
+
+.lacan-ai-segment-id {
+  color: var(--text-normal);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  margin-top: 8px;
+}
+
+.lacan-ai-lesson-title {
+  color: var(--text-muted);
+  font-size: 12px;
+  margin-top: 3px;
+}
+
+.lacan-ai-profile-line {
+  color: var(--text-faint);
+  font-size: 11px;
+  margin-top: 3px;
+}
+
+.lacan-ai-view-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 9px;
+}
+
+.lacan-ai-action-button {
+  font-size: 12px;
+  padding: 3px 9px;
+}
+
+.lacan-ai-context-summary {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+
+.lacan-ai-context-summary summary {
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.lacan-ai-context-summary p {
+  line-height: 1.6;
+  margin: 8px 0 0;
+  white-space: pre-wrap;
+}
+
+.lacan-ai-context-warnings {
+  color: var(--text-muted);
+  font-size: 12px;
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+
+.lacan-ai-answer {
+  flex: 1;
+  font-size: 14px;
+  line-height: 1.7;
+  min-height: 160px;
+  overflow-wrap: anywhere;
+}
+
+.lacan-ai-messages {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  line-height: 1.72;
+  overflow-wrap: anywhere;
+}
+
+.lacan-ai-message.is-user {
+  border-left: 2px solid color-mix(in srgb, var(--lacan-ai-ink) 58%, var(--background-modifier-border));
+  padding: 2px 0 2px 10px;
+}
+
+.lacan-ai-message.is-user p {
+  color: var(--text-normal);
+  font-size: 13px;
+  margin: 3px 0 0;
+}
+
+.lacan-ai-message-label {
+  color: var(--text-faint);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.lacan-ai-message.is-assistant {
+  font-family: var(--font-text-theme, var(--font-text));
+  font-size: 14px;
+}
+
+.lacan-ai-message.is-failed {
+  opacity: 0.92;
+}
+
+.lacan-ai-answer-content {
+  -webkit-user-select: text;
+  user-select: text;
+  cursor: text;
+}
+
+.lacan-ai-answer-content > :first-child {
+  margin-top: 0;
+}
+
+.lacan-ai-answer-content > :last-child {
+  margin-bottom: 0;
+}
+
+.lacan-ai-answer-placeholder,
+.lacan-ai-empty {
+  color: var(--text-muted);
+}
+
+.lacan-ai-empty {
+  line-height: 1.7;
+  padding: 24px 4px;
+}
+
+.lacan-ai-callout {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.lacan-ai-callout.is-warning {
+  border-color: var(--color-yellow);
+}
+
+.lacan-ai-callout.is-error {
+  border-color: var(--text-error);
+}
+
+.lacan-ai-callout p {
+  margin: 6px 0 0;
+}
+
+.lacan-ai-error-code {
+  color: var(--text-muted);
+  font-family: var(--font-monospace);
+  font-size: 11px;
+  margin: 5px 0 8px;
+}
+
+.lacan-ai-follow-up {
+  background: var(--background-primary);
+  border-top: 1px solid var(--background-modifier-border);
+  display: grid;
+  flex: 0 0 auto;
+  gap: 8px;
+  grid-template-columns: 1fr;
+  padding: 12px 14px 14px;
+  padding-bottom: calc(14px + var(--lacan-ai-status-bar-clearance, 0px));
+}
+
+.lacan-ai-follow-up textarea {
+  box-sizing: border-box;
+  max-height: min(28vh, 220px);
+  min-height: 64px;
+  min-width: 0;
+  resize: vertical;
+  width: 100%;
+}
+
+.lacan-ai-composer-footer {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: space-between;
+}
+
+.lacan-ai-input-hint {
+  color: var(--text-faint);
+  font-size: 10px;
+}
+
+.lacan-ai-navigator {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  opacity: 0.34;
+  position: sticky;
+  bottom: 12px;
+  margin-bottom: 8px;
+  margin-top: -132px;
+  right: 4px;
+  transition: opacity 120ms ease;
+  z-index: 3;
+}
+
+.lacan-ai-navigator:hover,
+.lacan-ai-navigator:focus-within {
+  opacity: 0.95;
+}
+
+.lacan-ai-navigator.is-hidden,
+.lacan-ai-return-latest.is-hidden {
+  display: none;
+}
+
+.lacan-ai-navigator button {
+  align-items: center;
+  background: color-mix(in srgb, var(--background-primary) 88%, transparent);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 14%);
+  color: var(--text-muted);
+  display: inline-flex;
+  font-size: 13px;
+  height: 30px;
+  justify-content: center;
+  padding: 0;
+  width: 30px;
+}
+
+.lacan-ai-return-latest {
+  align-self: center;
+  background: color-mix(in srgb, var(--lacan-ai-ink) 11%, var(--background-primary));
+  border-color: color-mix(in srgb, var(--lacan-ai-ink) 35%, var(--background-modifier-border));
+  bottom: 8px;
+  color: var(--text-normal);
+  font-size: 11px;
+  position: sticky;
+  z-index: 2;
+}
+
+.lacan-ai-profile-list,
+.lacan-ai-skill-editor {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  margin: 10px 0;
+  padding: 10px 12px;
+}
+
+.lacan-ai-global-prompt {
+  box-sizing: border-box;
+  font-family: var(--font-monospace);
+  line-height: 1.55;
+  min-height: 220px;
+  resize: vertical;
+  width: 100%;
+}
+
+.lacan-ai-profile-setting {
+  align-items: center;
+  border-top: 1px solid var(--background-modifier-border);
+  display: grid;
+  gap: 8px;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  padding: 7px 0;
+}
+
+.lacan-ai-profile-setting:first-child {
+  border-top: 0;
+}
+
+.lacan-ai-profile-setting span {
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.lacan-ai-skill-editor h5 {
+  margin: 0 0 5px;
+}

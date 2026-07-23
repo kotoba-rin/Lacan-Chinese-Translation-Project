@@ -16,6 +16,15 @@ Module._load = function load(request, parent, isMain) {
         unload() {}
       },
       Notice: class {},
+      ItemView: class {
+        constructor(leaf) {
+          this.leaf = leaf;
+          this.containerEl = leaf?.containerEl;
+        }
+      },
+      MarkdownRenderer: {
+        async render() {},
+      },
       Plugin: MockPlugin,
       PluginSettingTab: class {},
       Setting: class {},
@@ -342,6 +351,7 @@ try {
       },
     },
   };
+  const editorApp = plugin.app;
   const lines = [
     { number: 1, from: 0, to: 23, text: "<!-- id: s8-01-0001 -->" },
     { number: 2, from: 24, to: 27, text: "正文。" },
@@ -359,6 +369,7 @@ try {
       },
     },
   };
+  plugin.settings = { segmentAiEnabled: true };
   const decorations = plugin.buildReadingNoteEditorDecorations(fakeView);
   assert.strictEqual(decorations.length, 1);
   assert.strictEqual(decorations[0].from, lines[0].to);
@@ -412,20 +423,150 @@ try {
   plugin.openFile = originalOpenFile;
 
   const oldDocument = global.document;
+  const createFakeElement = (tagName) => ({
+    tagName: tagName.toUpperCase(),
+    children: [],
+    className: "",
+    textContent: "",
+    dataset: {},
+    appendChild(child) {
+      this.children.push(child);
+      return child;
+    },
+    setAttribute() {},
+    addEventListener() {},
+  });
   global.document = {
-    createElement() {
-      return {
-        setAttribute() {},
-        addEventListener() {},
-      };
+    createElement(tagName) {
+      return createFakeElement(tagName);
     },
   };
   try {
-    const button = decorations[0].value.widget.toDOM();
-    assert.strictEqual(button.textContent, "记笔记");
+    const actions = decorations[0].value.widget.toDOM();
+    assert.strictEqual(actions.className, "lacan-segment-actions");
+    assert.deepStrictEqual(
+      actions.children.map((child) => child.textContent),
+      ["记笔记", "Ф"]
+    );
+    assert.strictEqual(actions.children[1].className, "lacan-segment-ai-button");
+
+    plugin.settings.segmentAiEnabled = false;
+    plugin.app = editorApp;
+    const noteOnlyDecorations = plugin.buildReadingNoteEditorDecorations(fakeView);
+    assert.strictEqual(
+      decorations[0].value.widget.eq(noteOnlyDecorations[0].value.widget),
+      false
+    );
+    const noteOnlyActions = noteOnlyDecorations[0].value.widget.toDOM();
+    assert.deepStrictEqual(
+      noteOnlyActions.children.map((child) => child.textContent),
+      ["记笔记"]
+    );
+
+    plugin.settings.segmentAiEnabled = true;
+    const previewControls = [];
+    const previewContainer = {
+      querySelectorAll() {
+        return previewControls;
+      },
+      prepend(element) {
+        previewControls.unshift(element);
+      },
+    };
+    assert.strictEqual(
+      plugin.renderSegmentAiPreviewActions(
+        previewContainer,
+        "texts/s8-le-transfert/translation/Leçon-06.md",
+        {
+          text: [
+            "<!-- id: s8-06-0058 -->",
+            "<!-- ids: s8-06-0058 s8-06-0059 -->",
+            "",
+            "合并译文。",
+          ].join("\n"),
+          lineStart: 20,
+        }
+      ),
+      1
+    );
+    assert.strictEqual(previewControls.length, 1);
+    assert.strictEqual(previewControls[0].dataset.segmentId, "s8-06-0058");
+    assert.strictEqual(
+      previewControls[0].children[0].textContent,
+      "【s8-06-0058】 Ф"
+    );
+    assert.ok(
+      previewControls[0].children[0].className.includes("has-segment-id"),
+      "reading-mode AI buttons should use the wider segment label style"
+    );
   } finally {
     global.document = oldDocument;
   }
+
+  const aiViewStates = [];
+  const aiLeaf = {
+    view: null,
+    async setViewState(state) {
+      assert.strictEqual(state.type, "lacan-segment-interpretation");
+      assert.strictEqual(state.active, true);
+      this.view = {
+        setState(viewState) {
+          aiViewStates.push(viewState);
+        },
+      };
+    },
+  };
+  let aiLeafRevealed = false;
+  plugin.segmentAiState = { status: "empty" };
+  plugin.app = {
+    workspace: {
+      getLeavesOfType() {
+        return [];
+      },
+      getRightLeaf(create) {
+        assert.strictEqual(create, false);
+        return aiLeaf;
+      },
+      async revealLeaf(leaf) {
+        assert.strictEqual(leaf, aiLeaf);
+        aiLeafRevealed = true;
+      },
+    },
+  };
+  assert.strictEqual(typeof plugin.openSegmentInterpretationView, "function");
+  assert.strictEqual(await plugin.openSegmentInterpretationView(), aiLeaf);
+  assert.strictEqual(aiLeafRevealed, true);
+  assert.deepStrictEqual(aiViewStates, [{ status: "empty" }]);
+
+  const interpretationCalls = [];
+  plugin.settings = { segmentAiEnabled: true };
+  plugin.segmentAiController = {
+    async interpret(sourcePath, segmentId) {
+      interpretationCalls.push({ sourcePath, segmentId });
+      return { state: "completed" };
+    },
+  };
+  plugin.openSegmentInterpretationView = async () => aiLeaf;
+  assert.deepStrictEqual(
+    await plugin.interpretSegment(
+      "texts/s8-le-transfert/translation/Leçon-01.md",
+      "s8-01-0001"
+    ),
+    { state: "completed" }
+  );
+  assert.deepStrictEqual(interpretationCalls, [{
+    sourcePath: "texts/s8-le-transfert/translation/Leçon-01.md",
+    segmentId: "s8-01-0001",
+  }]);
+  plugin.openSegmentInterpretationView = async () => {
+    throw new Error("right leaf unavailable");
+  };
+  const failedInterpretation = await plugin.interpretSegment(
+    "texts/s8-le-transfert/translation/Leçon-01.md",
+    "s8-01-0001"
+  );
+  assert.strictEqual(failedInterpretation.state, "failed");
+  assert.strictEqual(plugin.segmentAiState.workspaceError.code, "Unknown");
 
   const rightPaneNote = new MockTFile();
   rightPaneNote.path = "texts/s8-le-transfert/notes/s8-01-0001.md";
