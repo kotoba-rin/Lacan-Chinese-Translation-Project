@@ -5,7 +5,10 @@ const {
   AppServerProtocolError,
   JsonLineRpcClient,
 } = require("./json-line-rpc");
-const { McpCapabilityRegistry } = require("./mcp-capability-registry");
+const {
+  McpCapabilityRegistry,
+  normalizeServerNames,
+} = require("./mcp-capability-registry");
 
 const READ_ONLY_SANDBOX_POLICY = Object.freeze({
   type: "readOnly",
@@ -42,7 +45,9 @@ class CodexAppServerRuntime {
     requestTimeoutMs = 30000,
     turnTimeoutMs = 10 * 60 * 1000,
     environment = process.env,
-    mcpCapabilityRegistry = new McpCapabilityRegistry(),
+    mcpEnabled = false,
+    enabledMcpServerNames = [],
+    mcpCapabilityRegistry = null,
   } = {}) {
     if (!path.isAbsolute(String(vaultRoot || ""))) {
       throw new TypeError("CodexAppServerRuntime requires an absolute vaultRoot.");
@@ -56,16 +61,23 @@ class CodexAppServerRuntime {
     this.requestTimeoutMs = requestTimeoutMs;
     this.turnTimeoutMs = turnTimeoutMs;
     this.environment = environment;
-    this.mcpCapabilityRegistry = mcpCapabilityRegistry;
+    this.mcpCapabilityRegistry = mcpCapabilityRegistry
+      || new McpCapabilityRegistry({
+        enabled: mcpEnabled,
+        allowedServerNames: enabledMcpServerNames,
+      });
     this.childProcess = null;
     this.client = null;
     this.startupPromise = null;
+    this.mcpPreflightPromise = null;
     this.activeTurns = new Map();
     this.earlyTurnEvents = new Map();
     this.skillChangeListeners = new Set();
-    this.capabilityCheckQueue = Promise.resolve();
     this.threadPreparationQueue = Promise.resolve();
     this.globalMcpServerNames = [];
+    this.mcpStartupStatuses = new Map();
+    this.mcpPolicyViolation = null;
+    const mcpPolicy = this.mcpCapabilityRegistry.describePolicy();
     this.diagnostics = {
       cliPath: null,
       userAgent: null,
@@ -74,7 +86,19 @@ class CodexAppServerRuntime {
       authenticated: false,
       disallowedCapabilitiesIsolated: false,
       webSearchMode: "live",
-      mcpPolicy: this.mcpCapabilityRegistry.describePolicy(),
+      mcpPolicy,
+      mcpConfigDiscovery: {
+        status: "idle",
+        configuredServerNames: [],
+        discoveredAt: null,
+      },
+      mcpBackgroundCheck: {
+        status: mcpPolicy.mode === "disabled" ? "disabled" : "idle",
+        enabledServerNames: [...mcpPolicy.allowedServers],
+        checkedServerNames: [],
+        unavailableServerNames: [],
+        checkedAt: null,
+      },
       lastErrorCode: null,
     };
   }
@@ -160,14 +184,192 @@ class CodexAppServerRuntime {
       this.diagnostics.authenticated = Boolean(account?.account)
         || account?.requiresOpenaiAuth === false;
 
-      const inventory = await this.listMcpInventory();
-      this.globalMcpServerNames = Array.from(new Set(
-        inventory.map((server) => String(server?.name || "")).filter(Boolean)
-      )).sort();
+      await this.refreshMcpServerCatalog();
     } catch (error) {
       const mapped = this.mapProtocolError(error, "AppServerIncompatible");
       this.closeProcess();
       throw this.rememberError(mapped);
+    }
+  }
+
+  async refreshMcpServerCatalog() {
+    if (!this.client || this.client.closed) {
+      throw new CodexRuntimeError(
+        "AppServerIncompatible",
+        "Codex App Server 尚未准备好读取 MCP 配置。"
+      );
+    }
+    this.diagnostics.mcpConfigDiscovery = {
+      ...this.diagnostics.mcpConfigDiscovery,
+      status: "discovering",
+    };
+    let response;
+    try {
+      response = await this.client.request("config/read", {
+        cwd: this.vaultRoot,
+        includeLayers: false,
+      });
+    } catch (error) {
+      this.diagnostics.mcpConfigDiscovery = {
+        ...this.diagnostics.mcpConfigDiscovery,
+        status: "failed",
+      };
+      throw this.rememberError(this.mapProtocolError(error, "McpDiscoveryFailed"));
+    }
+    const names = extractMcpServerNamesFromConfigRead(response);
+    this.globalMcpServerNames = names;
+    this.diagnostics.mcpConfigDiscovery = {
+      status: "ready",
+      configuredServerNames: [...names],
+      discoveredAt: Date.now(),
+    };
+    return [...names];
+  }
+
+  preflightMcpServers() {
+    if (this.mcpPreflightPromise) {
+      return this.mcpPreflightPromise;
+    }
+    this.mcpPreflightPromise = this.performMcpPreflight();
+    return this.mcpPreflightPromise;
+  }
+
+  async performMcpPreflight() {
+    const allowedServerNames = [
+      ...this.mcpCapabilityRegistry.allowedServerNames,
+    ];
+    this.diagnostics.mcpBackgroundCheck = {
+      status: allowedServerNames.length > 0 ? "checking" : "disabled",
+      enabledServerNames: allowedServerNames,
+      checkedServerNames: [],
+      unavailableServerNames: [],
+      checkedAt: null,
+    };
+    try {
+      await this.ensureServer();
+      const configuredServerNameSet = new Set(this.globalMcpServerNames);
+      const enabledServerNames = allowedServerNames.filter(
+        (name) => configuredServerNameSet.has(name)
+      );
+      const unavailableServerNames = allowedServerNames.filter(
+        (name) => !configuredServerNameSet.has(name)
+      );
+      if (enabledServerNames.length === 0) {
+        const status = allowedServerNames.length === 0
+          ? "disabled"
+          : "unavailable";
+        const report = this.buildMcpPreflightReport({
+          status,
+          enabledServerNames,
+          checkedServerNames: [],
+          unavailableServerNames,
+        });
+        this.diagnostics.mcpBackgroundCheck = {
+          status,
+          enabledServerNames: allowedServerNames,
+          checkedServerNames: [],
+          unavailableServerNames,
+          checkedAt: report.checkedAt,
+        };
+        this.diagnostics.disallowedCapabilitiesIsolated = true;
+        return report;
+      }
+
+      const response = await this.startMcpPreflightThread();
+      const threadId = response.thread.id;
+      const inventory = await this.listMcpInventory(threadId);
+      this.assertNoUnexpectedMcpStartup(threadId);
+      const capabilityState =
+        this.mcpCapabilityRegistry.assertOnlyAllowedServers(inventory);
+      const checkedServerNames = capabilityState.exposedServerNames;
+      const failedServerNames = enabledServerNames.filter((name) => {
+        const startup = this.mcpStartupStatuses.get(
+          mcpStartupStatusKey(threadId, name)
+        );
+        return startup === "failed" || startup === "cancelled";
+      });
+      const missingServerNames = enabledServerNames.filter(
+        (name) => !checkedServerNames.includes(name)
+      );
+      const unavailable = normalizeServerNames([
+        ...unavailableServerNames,
+        ...failedServerNames,
+        ...missingServerNames,
+      ]);
+      const status = unavailable.length > 0 ? "degraded" : "ready";
+      const report = this.buildMcpPreflightReport({
+        status,
+        enabledServerNames,
+        checkedServerNames,
+        unavailableServerNames: unavailable,
+      });
+      this.diagnostics.mcpBackgroundCheck = {
+        status,
+        enabledServerNames: allowedServerNames,
+        checkedServerNames,
+        unavailableServerNames: unavailable,
+        checkedAt: report.checkedAt,
+      };
+      this.diagnostics.disallowedCapabilitiesIsolated = true;
+      return report;
+    } catch (error) {
+      const mapped = error?.code === "ExternalToolsAvailable"
+        ? new CodexRuntimeError(
+            "ExternalToolsAvailable",
+            "MCP 后台检查发现了未获插件授权的服务。",
+            {
+              cause: error,
+              exposedServerNames: error.exposedServerNames || [],
+            }
+          )
+        : this.mapProtocolError(error, "McpPreflightFailed");
+      if (mapped.code === "ExternalToolsAvailable") {
+        this.mcpPolicyViolation = mapped;
+      }
+      this.diagnostics.mcpBackgroundCheck = {
+        ...this.diagnostics.mcpBackgroundCheck,
+        status: "failed",
+        checkedAt: Date.now(),
+      };
+      throw this.rememberError(mapped);
+    }
+  }
+
+  buildMcpPreflightReport({
+    status,
+    enabledServerNames,
+    checkedServerNames,
+    unavailableServerNames,
+  }) {
+    return {
+      status,
+      configuredServerNames: [...this.globalMcpServerNames],
+      enabledServerNames: [...enabledServerNames],
+      checkedServerNames: [...checkedServerNames],
+      unavailableServerNames: [...unavailableServerNames],
+      checkedAt: Date.now(),
+    };
+  }
+
+  async startMcpPreflightThread() {
+    try {
+      const response = await this.client.request("thread/start", {
+        approvalPolicy: "never",
+        baseInstructions: "MCP startup preflight only. Do not start a turn.",
+        config: this.restrictedThreadConfig(),
+        cwd: this.vaultRoot,
+        dynamicTools: [],
+        environments: [],
+        ephemeral: true,
+        runtimeWorkspaceRoots: [this.vaultRoot],
+        sandbox: "read-only",
+        selectedCapabilityRoots: [],
+        ...(this.defaultModel ? { model: this.defaultModel } : {}),
+      });
+      validateRestrictedThread(response, this.vaultRoot);
+      return response;
+    } catch (error) {
+      throw this.rememberError(this.mapProtocolError(error, "McpPreflightFailed"));
     }
   }
 
@@ -190,12 +392,21 @@ class CodexAppServerRuntime {
       throw new CodexRuntimeError("EmptyPrompt", "没有可发送的解读请求。");
     }
     await this.ensureServer();
+    if (this.mcpCapabilityRegistry.allowedServerNames.length > 0) {
+      await this.preflightMcpServers();
+    }
+    if (this.mcpPolicyViolation) {
+      throw this.mcpPolicyViolation;
+    }
 
     const prepared = await this.prepareRestrictedThread({
       threadId: String(threadId || "").trim(),
       baseInstructions,
       model: effectiveModel,
     });
+    if (this.mcpPolicyViolation) {
+      throw this.mcpPolicyViolation;
+    }
     const activeThreadId = prepared.thread.id;
     let response;
     try {
@@ -317,22 +528,34 @@ class CodexAppServerRuntime {
 
   prepareRestrictedThread({ threadId, baseInstructions, model } = {}) {
     const prepare = this.threadPreparationQueue.then(async () => {
+      await this.refreshMcpServerCatalog();
+      if (this.mcpPolicyViolation) {
+        throw this.mcpPolicyViolation;
+      }
       const response = String(threadId || "").trim()
         ? await this.resumeThread(String(threadId).trim(), {
             baseInstructions,
             model,
           })
         : await this.startThread({ baseInstructions, model });
-      await this.assertDisallowedCapabilitiesIsolated(response.thread.id);
+      this.assertNoUnexpectedMcpStartup(response.thread.id);
+      await this.assertAppsIsolated(response.thread.id);
+      this.diagnostics.disallowedCapabilitiesIsolated = true;
       return response;
     }, async () => {
+      await this.refreshMcpServerCatalog();
+      if (this.mcpPolicyViolation) {
+        throw this.mcpPolicyViolation;
+      }
       const response = String(threadId || "").trim()
         ? await this.resumeThread(String(threadId).trim(), {
             baseInstructions,
             model,
           })
         : await this.startThread({ baseInstructions, model });
-      await this.assertDisallowedCapabilitiesIsolated(response.thread.id);
+      this.assertNoUnexpectedMcpStartup(response.thread.id);
+      await this.assertAppsIsolated(response.thread.id);
+      this.diagnostics.disallowedCapabilitiesIsolated = true;
       return response;
     });
     this.threadPreparationQueue = prepare.catch(() => {});
@@ -340,8 +563,8 @@ class CodexAppServerRuntime {
   }
 
   restrictedThreadConfig() {
-    const disabledMcpServers = this.mcpCapabilityRegistry
-      .buildDisabledServerConfig(this.globalMcpServerNames);
+    const mcpServers = this.mcpCapabilityRegistry
+      .buildServerConfig(this.globalMcpServerNames);
     return {
       apps: {
         _default: {
@@ -354,7 +577,7 @@ class CodexAppServerRuntime {
         result[feature] = false;
         return result;
       }, {}),
-      mcp_servers: disabledMcpServers,
+      mcp_servers: mcpServers,
       web_search: "live",
     };
   }
@@ -441,13 +664,20 @@ class CodexAppServerRuntime {
   }
 
   async listMcpInventory(threadId) {
+    const scopedThreadId = String(threadId || "").trim();
+    if (!scopedThreadId) {
+      throw new CodexRuntimeError(
+        "McpGlobalInventoryRejected",
+        "插件拒绝在没有受限 thread 的情况下枚举全局 MCP。"
+      );
+    }
     const inventory = [];
     let cursor;
     do {
       const response = await this.client.request("mcpServerStatus/list", {
         detail: "toolsAndAuthOnly",
         limit: 100,
-        ...(threadId ? { threadId } : {}),
+        threadId: scopedThreadId,
         ...(cursor ? { cursor } : {}),
       });
       if (!Array.isArray(response?.data)) {
@@ -462,35 +692,29 @@ class CodexAppServerRuntime {
     return inventory;
   }
 
-  assertDisallowedCapabilitiesIsolated(threadId) {
-    const check = this.capabilityCheckQueue.then(
-      () => this.performDisallowedCapabilityCheck(threadId),
-      () => this.performDisallowedCapabilityCheck(threadId)
+  assertNoUnexpectedMcpStartup(threadId) {
+    const allowedServerNameSet = new Set(
+      this.mcpCapabilityRegistry.allowedServerNames
     );
-    this.capabilityCheckQueue = check.catch(() => {});
-    return check;
+    const unexpectedServerNames = this.globalMcpServerNames.filter(
+      (name) => (
+        !allowedServerNameSet.has(name)
+        && this.mcpStartupStatuses.has(mcpStartupStatusKey(threadId, name))
+      )
+    );
+    if (unexpectedServerNames.length === 0) {
+      return;
+    }
+    const error = new CodexRuntimeError(
+      "ExternalToolsAvailable",
+      "未获插件授权的 MCP 出现了启动事件。",
+      { exposedServerNames: unexpectedServerNames }
+    );
+    this.mcpPolicyViolation = error;
+    throw this.rememberError(error);
   }
 
-  async performDisallowedCapabilityCheck(threadId) {
-    let inventory;
-    try {
-      inventory = await this.listMcpInventory(threadId);
-    } catch (error) {
-      throw this.rememberError(this.mapProtocolError(error, "AppServerIncompatible"));
-    }
-    try {
-      this.mcpCapabilityRegistry.assertNoExposedCapabilities(inventory);
-    } catch (error) {
-      throw this.rememberError(new CodexRuntimeError(
-        "ExternalToolsAvailable",
-        "无法确认本次解读已隔离 MCP 工具，因此没有启动 Agent 回合。",
-        {
-          cause: error,
-          exposedServerNames: error.exposedServerNames || [],
-        }
-      ));
-    }
-
+  async assertAppsIsolated(threadId) {
     try {
       const apps = await this.client.request("app/list", {
         threadId,
@@ -508,12 +732,13 @@ class CodexAppServerRuntime {
         );
       }
     } catch (error) {
+      if (error instanceof CodexRuntimeError) {
+        throw this.rememberError(error);
+      }
       if (!(error instanceof AppServerProtocolError && error.rpcCode === -32601)) {
         throw this.rememberError(this.mapProtocolError(error, "AppServerIncompatible"));
       }
     }
-
-    this.diagnostics.disallowedCapabilitiesIsolated = true;
   }
 
   handleNotification(message) {
@@ -525,6 +750,35 @@ class CodexAppServerRuntime {
           listener(params);
         } catch (_error) {
           // Catalog invalidation must not interrupt App Server event routing.
+        }
+      }
+      return;
+    }
+    if (method === "mcpServer/startupStatus/updated") {
+      const threadId = String(params.threadId || "").trim();
+      const name = String(params.name || "");
+      const status = String(params.status || "").trim().toLowerCase();
+      if (threadId && name.trim() && status) {
+        this.mcpStartupStatuses.set(
+          mcpStartupStatusKey(threadId, name),
+          status
+        );
+        if (!this.mcpCapabilityRegistry.allowedServerNameSet.has(name)) {
+          const error = new CodexRuntimeError(
+            "ExternalToolsAvailable",
+            "未获插件授权的 MCP 出现了启动事件。",
+            { exposedServerNames: [name] }
+          );
+          this.mcpPolicyViolation = this.rememberError(error);
+          for (const [key, active] of this.activeTurns.entries()) {
+            if (active.threadId === threadId) {
+              void this.client?.request("turn/interrupt", {
+                threadId: active.threadId,
+                turnId: active.turnId,
+              }).catch(() => {});
+              this.finishTurnWithError(key, error);
+            }
+          }
         }
       }
       return;
@@ -753,6 +1007,29 @@ class CodexAppServerRuntime {
   getDiagnostics() {
     return {
       ...this.diagnostics,
+      mcpPolicy: {
+        ...this.diagnostics.mcpPolicy,
+        allowedServers: [...this.diagnostics.mcpPolicy.allowedServers],
+        allowedTools: [...this.diagnostics.mcpPolicy.allowedTools],
+      },
+      mcpConfigDiscovery: {
+        ...this.diagnostics.mcpConfigDiscovery,
+        configuredServerNames: [
+          ...this.diagnostics.mcpConfigDiscovery.configuredServerNames,
+        ],
+      },
+      mcpBackgroundCheck: {
+        ...this.diagnostics.mcpBackgroundCheck,
+        enabledServerNames: [
+          ...this.diagnostics.mcpBackgroundCheck.enabledServerNames,
+        ],
+        checkedServerNames: [
+          ...this.diagnostics.mcpBackgroundCheck.checkedServerNames,
+        ],
+        unavailableServerNames: [
+          ...this.diagnostics.mcpBackgroundCheck.unavailableServerNames,
+        ],
+      },
       activeTurnCount: this.activeTurns.size,
     };
   }
@@ -784,6 +1061,8 @@ class CodexAppServerRuntime {
     }
     const fallbackMessages = {
       AppServerIncompatible: "本地 Agent 初始化失败，请查看脱敏诊断后重试。",
+      McpDiscoveryFailed: "无法读取本机 Codex 的 MCP 配置清单。",
+      McpPreflightFailed: "插件启动时的 MCP 后台检查失败。",
       ModelDiscoveryFailed: "无法从本机 Codex 获取模型列表，请检查 CLI 路径和登录状态。",
       SkillDiscoveryFailed: "无法从本机 Codex 获取 Skill 清单，请检查 CLI 路径和登录状态。",
       TurnFailed: "本地 Agent 未能启动本次解读，可重试或复制脱敏诊断。",
@@ -1065,6 +1344,33 @@ const safeTurnErrorMessage = (value) => {
   return "本地 Agent 未能完成解读，可重试或复制脱敏诊断。";
 };
 
+const extractMcpServerNamesFromConfigRead = (response) => {
+  if (!response?.config || typeof response.config !== "object") {
+    throw new CodexRuntimeError(
+      "AppServerIncompatible",
+      "Codex App Server 没有返回有效的配置清单。"
+    );
+  }
+  const mcpServers = response.config.mcp_servers;
+  if (mcpServers == null) {
+    return [];
+  }
+  if (
+    typeof mcpServers !== "object"
+    || Array.isArray(mcpServers)
+  ) {
+    throw new CodexRuntimeError(
+      "AppServerIncompatible",
+      "Codex App Server 返回的 MCP 配置格式无效。"
+    );
+  }
+  return normalizeServerNames(Object.keys(mcpServers));
+};
+
+const mcpStartupStatusKey = (threadId, serverName) => (
+  `${threadId}::${serverName}`
+);
+
 module.exports = {
   CodexAppServerRuntime,
   CodexRuntimeError,
@@ -1073,6 +1379,7 @@ module.exports = {
   buildAppServerArgs,
   buildCodexProcessEnvironment,
   coerceCodexReasoningEffort,
+  extractMcpServerNamesFromConfigRead,
   extractLatestAgentText,
   normalizeCodexModelCatalog,
   normalizeSkillInputs,

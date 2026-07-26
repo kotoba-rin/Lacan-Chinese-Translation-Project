@@ -52,6 +52,29 @@ assert.ok(
 );
 assert.match(
   source,
+  /segmentAiMcpEnabled:\s*false/,
+  "MCP access should be disabled by default"
+);
+assert.match(
+  source,
+  /segmentAiMcpEnabledServers:\s*\[\]/,
+  "the plugin should persist an explicit MCP allowlist"
+);
+assert.match(
+  source,
+  /setName\("启用 MCP 服务"\)[\s\S]{0,1200}\.addToggle\(/,
+  "AI settings should expose a master MCP switch"
+);
+assert.ok(
+  source.includes("scheduleSegmentAiMcpBackgroundCheck"),
+  "the plugin should schedule MCP preflight during startup"
+);
+assert.ok(
+  main.includes('"config/read"'),
+  "the released runtime should discover MCP names without connecting to every server"
+);
+assert.match(
+  source,
   /segmentAiReasoningEffort:\s*""/,
   "plugin settings should persist a reasoning effort override"
 );

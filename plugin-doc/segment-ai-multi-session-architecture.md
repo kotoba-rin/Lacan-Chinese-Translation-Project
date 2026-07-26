@@ -102,6 +102,8 @@ Quiet editorial instrument / 安静的学术批注工具
 | 同时打开的会话数 | `segmentAiMaxOpenSessions` | `1–5` | `3` | 同时也是第二阶段的最大并发 turn 数 |
 | 默认 Skill 方案 | `segmentAiDefaultSkillProfileId` | 已保存方案或不附加 Skill | 不附加 Skill | 单击 `Ф` 时使用 |
 | 自定义 Skill 保存位置 | `segmentAiCustomSkillRoot` | `.agents/skills` 或 `.codex/skills` | `.agents/skills` | 只影响用户明确创建的 Vault Skill |
+| MCP 总开关 | `segmentAiMcpEnabled` | 开 / 关 | 关 | 关闭时不检查或连接任何 MCP |
+| MCP 服务白名单 | `segmentAiMcpEnabledServers` | Codex 当前配置中的精确服务名 | `[]` | 只有总开关和逐服务开关同时开启才生效 |
 
 设置界面采用数字下拉或步进控件，只显示 `1、2、3、4、5`，不允许自由填写任意整数。
 
@@ -508,7 +510,7 @@ Skill 不得改变以下不可覆盖约束：
 - 术语表只允许读取和对照，不允许 Agent 自动收录或修改；
 - `approvalPolicy` 仍为 `never`；
 - 工作目录仍限定为 Vault；
-- Web Search、Apps、Plugins 和 MCP 仍按第一阶段策略关闭；
+- Web Search 仍按第一阶段策略强制启用；Apps、Plugins 关闭；MCP 默认关闭且只能由插件服务白名单显式开启；
 - 来源文本中的指令仍被视为不可信资料；
 - 插件确定性解析的分段、原译文和术语上下文仍然存在。
 
@@ -1781,7 +1783,7 @@ EmptyAgentResponse
 - Skill name、scope、path 精确绑定，以及 repo Skill fingerprint；
 - 结构化 `SkillUserInput`，不依赖 `$skill-name` 文本触发；
 - 模型和推理强度继续直接来自本地 Codex App Server；
-- Agent turn 继续使用只读 workspace、禁用 MCP / Apps / Web。
+- Agent turn 继续使用只读 workspace；Apps 禁用，Web Search 强制启用，MCP 默认关闭并仅允许插件服务白名单。
 
 ### 22.2 用户体验验收
 
@@ -1825,7 +1827,7 @@ EmptyAgentResponse
   支持最多两个辅助 Skill；
 - 自定义 Skill 编辑器第一版负责安全创建标准 `SKILL.md`，不在
   插件内编辑复杂 `scripts/`、`references/` 或资源目录；
-- MCP、远程 OpenAI API 和可写 Agent 仍不在本版本范围内；
+- MCP 工具级风险分类/逐工具审批、远程 OpenAI API 和可写 Agent 仍不在本版本范围内；服务级默认拒绝与白名单开关已作为后续扩展实现；
 - 五并发的准入、路由和释放已用自动化完成；长时间 CPU、内存和
   写入压力测试留作正式发布前的性能专项，不阻塞本次功能验收；
 - 源码和自动化测试不引用 Claudian；当前真实界面验收的 Vault
@@ -1836,7 +1838,7 @@ EmptyAgentResponse
 
 本设计不把以下能力混入多会话升级：
 
-- MCP 服务配置和授权 UI；
+- MCP 逐工具风险分类和审批 UI；
 - 远程 OpenAI API Key 管理；
 - 跨设备同步正在运行的 turn；
 - 超过 5 个的隐藏并发队列；

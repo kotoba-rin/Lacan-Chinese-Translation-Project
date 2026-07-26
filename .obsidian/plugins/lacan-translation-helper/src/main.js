@@ -21,6 +21,9 @@ const {
   resolveCodexReasoningProfile,
 } = require("../segment-ai/codex-app-server-runtime");
 const {
+  normalizeServerNames,
+} = require("../segment-ai/mcp-capability-registry");
+const {
   InterpretationWorkspaceController,
 } = require("../segment-ai/workspace-controller");
 const {
@@ -96,6 +99,10 @@ const DEFAULT_SETTINGS = {
   segmentAiCodexPath: "",
   segmentAiModel: "",
   segmentAiReasoningEffort: "",
+  segmentAiMcpEnabled: false,
+  segmentAiMcpEnabledServers: [],
+  segmentAiMcpServerCatalog: [],
+  segmentAiMcpServerCatalogUpdatedAt: 0,
   segmentAiPrompt: DEFAULT_INTERPRETATION_PROMPT,
   segmentAiModelCatalog: [],
   segmentAiModelCatalogUpdatedAt: 0,
@@ -268,6 +275,19 @@ module.exports = class LacanTranslationHelper extends Plugin {
     )
       ? this.settings.segmentAiModelCatalogUpdatedAt
       : 0;
+    this.settings.segmentAiMcpEnabled =
+      this.settings.segmentAiMcpEnabled === true;
+    this.settings.segmentAiMcpEnabledServers = normalizeServerNames(
+      this.settings.segmentAiMcpEnabledServers
+    );
+    this.settings.segmentAiMcpServerCatalog = normalizeServerNames(
+      this.settings.segmentAiMcpServerCatalog
+    );
+    this.settings.segmentAiMcpServerCatalogUpdatedAt = Number.isFinite(
+      this.settings.segmentAiMcpServerCatalogUpdatedAt
+    )
+      ? this.settings.segmentAiMcpServerCatalogUpdatedAt
+      : 0;
     this.progressTimers = new Map();
     this.activeComparisonForks = new Set();
     this.expandedComparisonSegments = new Set();
@@ -306,6 +326,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.segmentAiSkillChangeUnsubscribe = null;
     this.segmentAiModelDiscoveryPromise = null;
     this.segmentAiSkillDiscoveryPromise = null;
+    this.segmentAiMcpBackgroundPromise = null;
     this.segmentAiEphemeralPersistTimer = null;
 
     this.registerView?.(
@@ -313,6 +334,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       (leaf) => new LacanInterpretationView(leaf, this)
     );
     this.initializeSegmentAi();
+    this.scheduleSegmentAiMcpBackgroundCheck();
     await this.saveSettings();
 
     this.addSettingTab(new LacanTranslationHelperSettingTab(this.app, this));
@@ -555,6 +577,8 @@ module.exports = class LacanTranslationHelper extends Plugin {
         cliPath: this.settings.segmentAiCodexPath || "",
         defaultModel: this.settings.segmentAiModel || "",
         defaultReasoningEffort: this.settings.segmentAiReasoningEffort || "",
+        mcpEnabled: this.settings.segmentAiMcpEnabled,
+        enabledMcpServerNames: this.settings.segmentAiMcpEnabledServers,
       });
       this.segmentAiSkillCatalog = new CodexSkillCatalog({
         vaultRoot: this.getVaultBasePath(),
@@ -604,7 +628,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
   }
 
-  async resetSegmentAiRuntime() {
+  async resetSegmentAiRuntime({ scheduleMcpCheck = true } = {}) {
     if (this.segmentAiRuntime) {
       await this.segmentAiRuntime.shutdown();
     }
@@ -615,8 +639,70 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.segmentAiWorkspaceStore = null;
     this.segmentAiSkillCatalog = null;
     this.segmentAiCustomSkillService = null;
+    this.segmentAiMcpBackgroundPromise = null;
     this.initializeSegmentAi();
+    if (scheduleMcpCheck) {
+      this.scheduleSegmentAiMcpBackgroundCheck();
+    }
     this.refreshSegmentAiEntrances();
+  }
+
+  getSegmentAiMcpServerCatalog() {
+    return normalizeServerNames([
+      ...this.settings.segmentAiMcpServerCatalog,
+      ...this.settings.segmentAiMcpEnabledServers,
+    ]);
+  }
+
+  scheduleSegmentAiMcpBackgroundCheck() {
+    if (!this.settings.segmentAiEnabled || !this.segmentAiRuntime) {
+      return null;
+    }
+    const task = this.runSegmentAiMcpBackgroundCheck();
+    void task.catch(() => {
+      // Startup preflight is intentionally silent; diagnostics retain the code.
+    });
+    return task;
+  }
+
+  runSegmentAiMcpBackgroundCheck() {
+    if (this.segmentAiMcpBackgroundPromise) {
+      return this.segmentAiMcpBackgroundPromise;
+    }
+    const runtime = this.segmentAiRuntime;
+    if (!runtime) {
+      return Promise.reject(new Error("本地 Agent 运行时尚未初始化。"));
+    }
+    const task = (async () => {
+      const report = await runtime.preflightMcpServers();
+      if (this.segmentAiRuntime !== runtime) {
+        return report;
+      }
+      this.settings.segmentAiMcpServerCatalog = normalizeServerNames(
+        report.configuredServerNames
+      );
+      this.settings.segmentAiMcpServerCatalogUpdatedAt = Number(
+        report.checkedAt || Date.now()
+      );
+      await this.saveSettings();
+      return report;
+    })();
+    this.segmentAiMcpBackgroundPromise = task;
+    const clear = () => {
+      if (this.segmentAiMcpBackgroundPromise === task) {
+        this.segmentAiMcpBackgroundPromise = null;
+      }
+    };
+    task.then(clear, clear);
+    return task;
+  }
+
+  async refreshSegmentAiMcpServers() {
+    if (!this.settings.segmentAiEnabled) {
+      throw new Error("请先启用分段 AI 功能。");
+    }
+    await this.resetSegmentAiRuntime({ scheduleMcpCheck: false });
+    return this.runSegmentAiMcpBackgroundCheck();
   }
 
   getSegmentAiModelCatalog() {
@@ -4161,7 +4247,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
       text: "本地 Agent 指编排、文件检索和权限控制在本机运行，不等于使用本地模型。发送给模型的上下文和 Agent 读取的材料仍可能离开本机。",
     });
     descriptionEl.createEl("p", {
-      text: "分段解读强制只读，不创建或修改笔记；每次回答必须使用内置 Web Search，外部来源只接受法语、德语或英语网页。Apps、Plugins 和 MCP 保持禁用；不会自动回退到 OpenAI API。",
+      text: "分段解读强制只读，不创建或修改笔记；每次回答必须使用内置 Web Search，外部来源只接受法语、德语或英语网页。Apps、Plugins 保持禁用；MCP 默认全部关闭，只能从下方白名单显式开启。不会自动回退到 OpenAI API。",
     });
 
     new Setting(containerEl)
@@ -4340,6 +4426,110 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
             this.display();
           });
       });
+
+    const mcpCatalog = this.plugin.getSegmentAiMcpServerCatalog();
+    const mcpEnabledServerSet = new Set(
+      this.plugin.settings.segmentAiMcpEnabledServers
+    );
+    const mcpDiagnostics =
+      this.plugin.segmentAiRuntime?.getDiagnostics?.().mcpBackgroundCheck;
+    const mcpStatusLabels = {
+      idle: "等待后台检查",
+      checking: "正在后台检查",
+      disabled: "全部关闭，未连接任何 MCP",
+      ready: "已完成后台检查",
+      degraded: "检查完成，部分服务不可用",
+      unavailable: "白名单服务未在 Codex 配置中发现",
+      failed: "后台检查失败，可查看脱敏诊断",
+    };
+    const mcpStatus = mcpStatusLabels[mcpDiagnostics?.status]
+      || "尚未执行后台检查";
+    const mcpCatalogUpdatedAt = Number(
+      this.plugin.settings.segmentAiMcpServerCatalogUpdatedAt || 0
+    );
+    containerEl.createEl("h4", { text: "MCP 服务（默认关闭）" });
+    containerEl.createEl("p", {
+      cls: "setting-item-description",
+      text: "核心规则：任何没有在插件白名单中同时配置并开启的外部 MCP，在插件启动和 Agent thread 中都不会建立连接。插件只保存服务名称和开关，不保存命令、URL 或凭据；后台只读取 Codex 配置名称，并且只连接、检查白名单中已开启的服务。开启一个服务会让 Agent 看见该服务当前暴露的全部工具，插件不能替服务保证这些工具只读，因此只应开启你信任的服务。",
+    });
+    new Setting(containerEl)
+      .setName("启用 MCP 服务")
+      .setDesc(
+        `${mcpStatus}${
+          mcpCatalogUpdatedAt
+            ? `；清单刷新于 ${new Date(mcpCatalogUpdatedAt).toLocaleString()}`
+            : ""
+        }。总开关关闭时，即使下方保存了选择，也不会连接或检查任何 MCP。`
+      )
+      .addToggle((toggle) => {
+        toggle
+          .setValue(Boolean(this.plugin.settings.segmentAiMcpEnabled))
+          .onChange(async (value) => {
+            this.plugin.settings.segmentAiMcpEnabled = value;
+            await this.plugin.saveSettings();
+            await this.plugin.resetSegmentAiRuntime();
+            this.display();
+          });
+      })
+      .addButton((button) => {
+        button
+          .setButtonText("刷新清单")
+          .setDisabled(!this.plugin.settings.segmentAiEnabled)
+          .onClick(async () => {
+            button.setDisabled(true);
+            button.setButtonText("后台检查中...");
+            try {
+              const report = await this.plugin.refreshSegmentAiMcpServers();
+              new Notice(
+                `已发现 ${report.configuredServerNames.length} 个 MCP；检查 ${
+                  report.checkedServerNames.length
+                } 个已开启服务。`
+              );
+            } catch (error) {
+              new Notice(
+                `MCP 清单刷新失败：${error?.message || "请查看脱敏诊断。"}`
+              );
+            } finally {
+              button.setDisabled(false);
+              button.setButtonText("刷新清单");
+              this.display();
+            }
+          });
+      });
+
+    if (mcpCatalog.length === 0) {
+      containerEl.createEl("p", {
+        cls: "setting-item-description",
+        text: this.plugin.settings.segmentAiEnabled
+          ? "尚未发现本机 Codex 的 MCP 配置；后台完成后重新打开此设置页，或点击“刷新清单”。"
+          : "启用分段 AI 功能后，插件才会在后台读取本机 Codex 的 MCP 名称。",
+      });
+    }
+    for (const serverName of mcpCatalog) {
+      new Setting(containerEl)
+        .setName(serverName)
+        .setDesc("关闭时会在每个 Agent thread 的配置中明确写入 enabled=false；开启时授权该服务的全部工具。")
+        .addToggle((toggle) => {
+          toggle
+            .setValue(mcpEnabledServerSet.has(serverName))
+            .setDisabled(!this.plugin.settings.segmentAiMcpEnabled)
+            .onChange(async (value) => {
+              const next = new Set(
+                this.plugin.settings.segmentAiMcpEnabledServers
+              );
+              if (value) {
+                next.add(serverName);
+              } else {
+                next.delete(serverName);
+              }
+              this.plugin.settings.segmentAiMcpEnabledServers =
+                normalizeServerNames([...next]);
+              await this.plugin.saveSettings();
+              await this.plugin.resetSegmentAiRuntime();
+              this.display();
+            });
+        });
+    }
 
     containerEl.createEl("h4", { text: "解读提示词与 Skills" });
     containerEl.createEl("p", {

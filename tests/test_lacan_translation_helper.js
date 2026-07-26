@@ -72,6 +72,58 @@ try {
   ));
   const plugin = Object.create(PluginClass.prototype);
 
+  let resolveMcpPreflight;
+  let mcpPreflightCalls = 0;
+  let mcpSettingsSaves = 0;
+  plugin.settings = {
+    segmentAiEnabled: true,
+    segmentAiMcpServerCatalog: [],
+    segmentAiMcpEnabledServers: [],
+  };
+  plugin.segmentAiRuntime = {
+    preflightMcpServers() {
+      mcpPreflightCalls += 1;
+      return new Promise((resolve) => {
+        resolveMcpPreflight = resolve;
+      });
+    },
+  };
+  plugin.saveSettings = async () => {
+    mcpSettingsSaves += 1;
+  };
+  const scheduledMcpPreflight =
+    plugin.scheduleSegmentAiMcpBackgroundCheck();
+  assert.ok(
+    scheduledMcpPreflight instanceof Promise,
+    "plugin startup should schedule MCP preflight without awaiting it"
+  );
+  assert.strictEqual(mcpPreflightCalls, 1);
+  resolveMcpPreflight({
+    status: "disabled",
+    configuredServerNames: ["server-b", "server-a"],
+    enabledServerNames: [],
+    checkedServerNames: [],
+    unavailableServerNames: [],
+    checkedAt: 1234,
+  });
+  await scheduledMcpPreflight;
+  assert.deepStrictEqual(
+    plugin.settings.segmentAiMcpServerCatalog,
+    ["server-a", "server-b"]
+  );
+  assert.strictEqual(
+    plugin.settings.segmentAiMcpServerCatalogUpdatedAt,
+    1234
+  );
+  assert.strictEqual(mcpSettingsSaves, 1);
+  plugin.settings.segmentAiEnabled = false;
+  assert.strictEqual(plugin.scheduleSegmentAiMcpBackgroundCheck(), null);
+  assert.strictEqual(
+    mcpPreflightCalls,
+    1,
+    "disabling the AI feature must keep Codex and MCP preflight stopped"
+  );
+
   const viewActionsEl = {};
   const viewHeaderEl = {
     querySelector(selector) {

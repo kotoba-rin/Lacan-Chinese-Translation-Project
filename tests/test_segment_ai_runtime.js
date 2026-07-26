@@ -51,7 +51,14 @@ class ScriptedAppServerProcess extends EventEmitter {
         }
         const message = JSON.parse(line);
         this.messages.push(message);
-        this.handler(message, this);
+        if (
+          Object.prototype.hasOwnProperty.call(message, "id")
+          && message.method === "config/read"
+        ) {
+          this.respond(message, globalMcpConfigResponse);
+        } else {
+          this.handler(message, this);
+        }
       }
     });
   }
@@ -91,6 +98,18 @@ const accountResponse = {
     type: "chatgpt",
   },
   requiresOpenaiAuth: true,
+};
+
+const globalMcpConfigResponse = {
+  config: {
+    mcp_servers: {
+      "global-server": {
+        command: "global-server",
+        enabled: true,
+      },
+    },
+  },
+  origins: {},
 };
 
 const threadResponse = (threadId) => ({
@@ -276,6 +295,20 @@ const runHappyPath = async () => {
   );
   assert.strictEqual(threadStart.params.config.apps._default.enabled, false);
   assert.strictEqual(threadStart.params.config.web_search, "live");
+  assert.strictEqual(
+    fakeProcess.messages.filter(
+      (message) => message.method === "config/read"
+    ).length,
+    2,
+    "startup and thread preparation should refresh names through config/read"
+  );
+  assert.strictEqual(
+    fakeProcess.messages.some(
+      (message) => message.method === "mcpServerStatus/list"
+    ),
+    false,
+    "an Agent click must not repeat MCP status enumeration"
+  );
 
   const turnStart = fakeProcess.messages.find((message) => message.method === "turn/start");
   assert.deepStrictEqual(turnStart.params.sandboxPolicy, READ_ONLY_SANDBOX_POLICY);
@@ -437,6 +470,8 @@ const runIsolationFailure = async () => {
   const runtime = new CodexAppServerRuntime({
     vaultRoot: VAULT_ROOT,
     cliPath: CLI_PATH,
+    mcpEnabled: true,
+    enabledMcpServerNames: ["global-server"],
     spawnProcess: () => {
       fakeProcess = new ScriptedAppServerProcess((message, process) => {
         if (!Object.prototype.hasOwnProperty.call(message, "id")) {
@@ -450,13 +485,16 @@ const runIsolationFailure = async () => {
             process.respond(message, accountResponse);
             break;
           case "mcpServerStatus/list":
-            process.respond(message, globalMcpInventory);
+            process.respond(message, {
+              data: [{
+                ...globalMcpInventory.data[0],
+                name: "rogue-server",
+              }],
+              nextCursor: null,
+            });
             break;
           case "thread/start":
             process.respond(message, threadResponse("thread-unsafe"));
-            break;
-          case "app/list":
-            process.respond(message, { data: [], nextCursor: null });
             break;
           default:
             process.fail(message, -32601, "Not expected");
@@ -468,14 +506,55 @@ const runIsolationFailure = async () => {
   });
 
   await assert.rejects(
-    runtime.runTurn({
-      baseInstructions: "只读。",
-      prompt: "解释。",
-    }),
+    runtime.preflightMcpServers(),
     (error) => error.code === "ExternalToolsAvailable"
   );
+  const probe = fakeProcess.messages.find(
+    (message) => message.method === "thread/start"
+  );
+  assert.strictEqual(probe.params.ephemeral, true);
   assert.strictEqual(
     fakeProcess.messages.some((message) => message.method === "turn/start"),
+    false,
+    "a policy violation must stop before any Agent turn"
+  );
+  await runtime.shutdown();
+};
+
+const runGlobalMcpInventoryRejected = async () => {
+  let fakeProcess;
+  const runtime = new CodexAppServerRuntime({
+    vaultRoot: VAULT_ROOT,
+    cliPath: CLI_PATH,
+    spawnProcess: () => {
+      fakeProcess = new ScriptedAppServerProcess((message, process) => {
+        if (!Object.prototype.hasOwnProperty.call(message, "id")) {
+          return;
+        }
+        switch (message.method) {
+          case "initialize":
+            process.respond(message, initializeResponse);
+            break;
+          case "account/read":
+            process.respond(message, accountResponse);
+            break;
+          default:
+            process.fail(message, -32601, "Not expected");
+        }
+      });
+      return fakeProcess;
+    },
+    requestTimeoutMs: 200,
+  });
+  await runtime.ensureServer();
+  await assert.rejects(
+    runtime.listMcpInventory(),
+    (error) => error.code === "McpGlobalInventoryRejected"
+  );
+  assert.strictEqual(
+    fakeProcess.messages.some(
+      (message) => message.method === "mcpServerStatus/list"
+    ),
     false
   );
   await runtime.shutdown();
@@ -497,9 +576,6 @@ const runAppIsolationFailure = async () => {
             break;
           case "account/read":
             process.respond(message, accountResponse);
-            break;
-          case "mcpServerStatus/list":
-            process.respond(message, isolatedMcpInventory);
             break;
           case "thread/start":
             process.respond(message, threadResponse("thread-app-unsafe"));
@@ -1233,6 +1309,7 @@ const run = async () => {
   await runItemCompletedFallback();
   await runEmptyCompletedFailure();
   await runIsolationFailure();
+  await runGlobalMcpInventoryRejected();
   await runAppIsolationFailure();
   await runRestore();
   await runModelDiscovery();

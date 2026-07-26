@@ -38,6 +38,7 @@ jobs:
           node tests/test_lacan_translation_helper.js
           node tests/test_lacan_translation_helper_bundle.js
           node tests/test_segment_ai_capabilities.js
+          node tests/test_segment_ai_mcp_policy.js
           node tests/test_segment_ai_context.js
           node tests/test_segment_ai_domain.js
           node tests/test_segment_ai_rpc.js
