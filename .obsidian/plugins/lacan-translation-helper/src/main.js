@@ -4161,7 +4161,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
       text: "本地 Agent 指编排、文件检索和权限控制在本机运行，不等于使用本地模型。发送给模型的上下文和 Agent 读取的材料仍可能离开本机。",
     });
     descriptionEl.createEl("p", {
-      text: "第一版强制只读，不创建或修改笔记，不启用 Apps、Plugins、Web Search 或 MCP；不会自动回退到 OpenAI API。",
+      text: "分段解读强制只读，不创建或修改笔记；每次回答必须使用内置 Web Search，外部来源只接受法语、德语或英语网页。Apps、Plugins 和 MCP 保持禁用；不会自动回退到 OpenAI API。",
     });
 
     new Setting(containerEl)
@@ -4348,7 +4348,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
     });
     new Setting(containerEl)
       .setName("解读提示词")
-      .setDesc("这是插件唯一的可编辑解读提示词，适用于所有分段和 Skill 方案。只读、安全和 Vault 范围限制仍由插件内部固定。")
+      .setDesc("这是插件唯一的可编辑解读提示词，适用于所有分段和 Skill 方案。只读、安全、本地 Vault 文件范围和外部来源语言限制仍由插件内部固定。")
       .addTextArea((text) => {
         text
           .setValue(

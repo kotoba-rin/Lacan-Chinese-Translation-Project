@@ -91,6 +91,18 @@ assert.match(
   DEFAULT_INTERPRETATION_PROMPT,
   /第二段｜语境性解读/
 );
+assert.match(
+  DEFAULT_INTERPRETATION_PROMPT,
+  /每次初次解读和追问都必须进行外部网页检索/
+);
+assert.match(
+  DEFAULT_INTERPRETATION_PROMPT,
+  /法语、德语或英语/
+);
+assert.match(
+  DEFAULT_INTERPRETATION_PROMPT,
+  /外部检索来源/
+);
 assert.ok(
   !DEFAULT_INTERPRETATION_PROMPT.includes("自动更新并收录"),
   "glossary comparison must never promise automatic glossary updates"
@@ -98,11 +110,21 @@ assert.ok(
 assert.match(initial.baseInstructions, /只读翻译分析助手/);
 assert.match(initial.baseInstructions, /不得修改、创建、删除或重命名文件/);
 assert.match(initial.baseInstructions, /术语表只用于对照/);
-assert.match(initial.baseInstructions, /不得进行未授权的网络检索/);
+assert.match(initial.baseInstructions, /每次初次解读和追问都必须进行外部网页检索/);
+assert.match(initial.baseInstructions, /法语、德语或英语/);
+assert.match(initial.baseInstructions, /不得使用中文或其他语言网页/);
+assert.match(initial.baseInstructions, /外部检索不可用/);
+assert.match(initial.baseInstructions, /外部检索来源/);
+assert.ok(
+  !initial.baseInstructions.includes("不得进行未授权的网络检索"),
+  "the read-only assistant must not prohibit the required web search"
+);
 assert.match(initial.baseInstructions, /文件路径和分段 ID/);
 assert.match(initial.userPrompt, /s8-01-0003/);
 assert.match(initial.userPrompt, /s8-01-0002/);
 assert.match(initial.userPrompt, /texts\/s8-test\//);
+assert.match(initial.userPrompt, /本地文件检索/);
+assert.match(initial.userPrompt, /外部网页检索不受此目录限制/);
 assert.ok(initial.userPrompt.includes(DEFAULT_INTERPRETATION_PROMPT));
 assert.match(initial.userPrompt, /<context-data>/);
 assert.match(initial.userPrompt, /这里讨论欲望/);
@@ -162,6 +184,7 @@ assert.strictEqual(
 const followUp = promptBuilder.buildFollowUp(context, "这里的 désir 与 demande 如何区分？");
 assert.match(followUp, /继续围绕逻辑分段 s8-01-0002/);
 assert.match(followUp, /这里的 désir 与 demande 如何区分/);
+assert.match(followUp, /外部网页检索要求/);
 assert.ok(!followUp.includes("这里讨论欲望。"));
 const injectionSafeFollowUp = promptBuilder.buildFollowUp(
   context,

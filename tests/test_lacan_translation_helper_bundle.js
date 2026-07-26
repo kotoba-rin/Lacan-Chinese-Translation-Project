@@ -40,6 +40,16 @@ assert.ok(
   main.includes('"model/list"'),
   "released bundle should discover models through Codex App Server"
 );
+assert.ok(
+  main.includes('web_search: "live"')
+    && main.includes("'web_search=\"live\"'"),
+  "released runtime should require live Web Search"
+);
+assert.ok(
+  source.includes("内置 Web Search")
+    && source.includes("法语、德语或英语"),
+  "AI settings should disclose the required web search and source-language boundary"
+);
 assert.match(
   source,
   /segmentAiReasoningEffort:\s*""/,

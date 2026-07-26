@@ -72,7 +72,8 @@ class CodexAppServerRuntime {
       platform: null,
       initialized: false,
       authenticated: false,
-      externalCapabilitiesIsolated: false,
+      disallowedCapabilitiesIsolated: false,
+      webSearchMode: "live",
       mcpPolicy: this.mcpCapabilityRegistry.describePolicy(),
       lastErrorCode: null,
     };
@@ -322,7 +323,7 @@ class CodexAppServerRuntime {
             model,
           })
         : await this.startThread({ baseInstructions, model });
-      await this.assertExternalCapabilitiesIsolated(response.thread.id);
+      await this.assertDisallowedCapabilitiesIsolated(response.thread.id);
       return response;
     }, async () => {
       const response = String(threadId || "").trim()
@@ -331,7 +332,7 @@ class CodexAppServerRuntime {
             model,
           })
         : await this.startThread({ baseInstructions, model });
-      await this.assertExternalCapabilitiesIsolated(response.thread.id);
+      await this.assertDisallowedCapabilitiesIsolated(response.thread.id);
       return response;
     });
     this.threadPreparationQueue = prepare.catch(() => {});
@@ -354,7 +355,7 @@ class CodexAppServerRuntime {
         return result;
       }, {}),
       mcp_servers: disabledMcpServers,
-      web_search: "disabled",
+      web_search: "live",
     };
   }
 
@@ -461,16 +462,16 @@ class CodexAppServerRuntime {
     return inventory;
   }
 
-  assertExternalCapabilitiesIsolated(threadId) {
+  assertDisallowedCapabilitiesIsolated(threadId) {
     const check = this.capabilityCheckQueue.then(
-      () => this.performExternalCapabilityCheck(threadId),
-      () => this.performExternalCapabilityCheck(threadId)
+      () => this.performDisallowedCapabilityCheck(threadId),
+      () => this.performDisallowedCapabilityCheck(threadId)
     );
     this.capabilityCheckQueue = check.catch(() => {});
     return check;
   }
 
-  async performExternalCapabilityCheck(threadId) {
+  async performDisallowedCapabilityCheck(threadId) {
     let inventory;
     try {
       inventory = await this.listMcpInventory(threadId);
@@ -512,7 +513,7 @@ class CodexAppServerRuntime {
       }
     }
 
-    this.diagnostics.externalCapabilitiesIsolated = true;
+    this.diagnostics.disallowedCapabilitiesIsolated = true;
   }
 
   handleNotification(message) {
@@ -678,7 +679,7 @@ class CodexAppServerRuntime {
     this.childProcess = null;
     this.diagnostics.initialized = false;
     this.diagnostics.authenticated = false;
-    this.diagnostics.externalCapabilitiesIsolated = false;
+    this.diagnostics.disallowedCapabilitiesIsolated = false;
   }
 
   finishTurnWithError(key, error) {
@@ -746,7 +747,7 @@ class CodexAppServerRuntime {
     this.client = null;
     this.childProcess = null;
     this.diagnostics.initialized = false;
-    this.diagnostics.externalCapabilitiesIsolated = false;
+    this.diagnostics.disallowedCapabilitiesIsolated = false;
   }
 
   getDiagnostics() {
@@ -802,7 +803,7 @@ const buildAppServerArgs = () => {
   }
   args.push(
     "-c",
-    'web_search="disabled"',
+    'web_search="live"',
     "-c",
     "mcp_servers={}",
     "-c",
@@ -894,13 +895,14 @@ const validateRestrictedThread = (response, vaultRoot) => {
   const roots = Array.isArray(response?.runtimeWorkspaceRoots)
     ? response.runtimeWorkspaceRoots.map((root) => path.resolve(root))
     : [];
+  const rootsAreRestricted = roots.length === 0
+    || (roots.length === 1 && roots[0] === vaultRoot);
   if (
     !response?.thread?.id
     || response.approvalPolicy !== "never"
     || !readOnly
     || path.resolve(String(response.cwd || "")) !== vaultRoot
-    || roots.length !== 1
-    || roots[0] !== vaultRoot
+    || !rootsAreRestricted
   ) {
     throw new CodexRuntimeError(
       "ReadOnlyBoundaryRejected",

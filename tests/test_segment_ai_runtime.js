@@ -103,7 +103,7 @@ const threadResponse = (threadId) => ({
   modelProvider: "openai",
   multiAgentMode: "explicitRequestOnly",
   reasoningEffort: null,
-  runtimeWorkspaceRoots: [VAULT_ROOT],
+  runtimeWorkspaceRoots: [],
   sandbox: {
     type: "readOnly",
     networkAccess: false,
@@ -259,7 +259,7 @@ const runHappyPath = async () => {
     assert.ok(featureIndex > 0);
     assert.strictEqual(spawnCalls[0].args[featureIndex - 1], "--disable");
   }
-  assert.ok(spawnCalls[0].args.includes('web_search="disabled"'));
+  assert.ok(spawnCalls[0].args.includes('web_search="live"'));
 
   const threadStart = fakeProcess.messages.find((message) => message.method === "thread/start");
   assert.strictEqual(threadStart.params.cwd, VAULT_ROOT);
@@ -275,7 +275,7 @@ const runHappyPath = async () => {
     false
   );
   assert.strictEqual(threadStart.params.config.apps._default.enabled, false);
-  assert.strictEqual(threadStart.params.config.web_search, "disabled");
+  assert.strictEqual(threadStart.params.config.web_search, "live");
 
   const turnStart = fakeProcess.messages.find((message) => message.method === "turn/start");
   assert.deepStrictEqual(turnStart.params.sandboxPolicy, READ_ONLY_SANDBOX_POLICY);
@@ -295,7 +295,15 @@ const runHappyPath = async () => {
 
   const diagnostics = runtime.getDiagnostics();
   assert.strictEqual(diagnostics.userAgent, "codex-cli/0.144.5");
-  assert.strictEqual(diagnostics.externalCapabilitiesIsolated, true);
+  assert.strictEqual(diagnostics.disallowedCapabilitiesIsolated, true);
+  assert.strictEqual(diagnostics.webSearchMode, "live");
+  assert.ok(
+    !Object.prototype.hasOwnProperty.call(
+      diagnostics,
+      "externalCapabilitiesIsolated"
+    ),
+    "diagnostics must not claim all external capabilities are isolated when Web Search is enabled"
+  );
   assert.ok(!JSON.stringify(diagnostics).includes("reader@example.com"));
 
   await runtime.shutdown();
