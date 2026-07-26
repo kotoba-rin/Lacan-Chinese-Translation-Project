@@ -92,6 +92,16 @@
 | Judith | 朱迪斯 | 第九课引用雨果诗句时出现。 |
 | Holopherne | 何乐弗尼 | 朱迪斯斩首对象。 |
 | Silène / silène | 西勒诺斯 | 第九课用于说明苏格拉底如西勒诺斯般隐藏 *agalma*。 |
+| Psyché / Ψυχή | 普绪克 | 第十六至十七课阿普列尤斯神话与祖基画作中的灵魂形象；希腊词本义为“灵魂”。 |
+| Sygne de Coûfontaine | 西涅·德·库丰坦 | 克洛岱尔《人质》女主人公；姓名 *Sygne* 与 *signe*（标志）同音。 |
+| Louis de Coûfontaine | 路易·德·库丰坦 | 克洛岱尔《硬面包》人物，西涅与图勒吕尔之子。 |
+| Pensée de Coûfontaine | 庞塞·德·库丰坦 | 克洛岱尔《受辱的父亲》人物；*Pensée* 同时意为“思想”。 |
+| Toussaint Turelure / Turelure | 图桑·图勒吕尔 / 图勒吕尔 | 克洛岱尔三部曲中贯穿前两代的父亲形象。 |
+| Lumîr | 卢米尔 | 《硬面包》人物；依克洛岱尔说明读作“卢姆—伊尔”。 |
+| Sichel | 西谢尔 | 《硬面包》人物；德语 *Sichel* 意为“镰刀”。 |
+| Orian | 奥里昂 | 《受辱的父亲》人物；名字与猎户俄里翁 *Orion* 只差一个字母。 |
+| Orso | 奥尔索 | 《受辱的父亲》人物，奥里昂之弟。 |
+| Apulée / Apuleius | 阿普列尤斯 | 《金驴记》作者；第十六课普绪克神话的文本来源。 |
 
 ## 现代作者、学者与文本相关人物
 
@@ -198,6 +208,16 @@
 | Jacques Cazotte / Cazotte | 雅克·卡佐特 / 卡佐特 | 第十五课以《恋爱中的魔鬼》中独自行走、说话的头颅说明碎裂幻想。 |
 | Baltasar Gracián / Gracián | 巴尔塔萨·格拉西安 / 格拉西安 | 第十五课从《批判家》和《领圣体手册》讨论口腔认同与共融幻想。 |
 | Pierre Teilhard de Chardin / Teilhard de Chardin | 皮埃尔·德日进 / 德日进 | 第十五课讽刺行星“人化”的理想主义主题。 |
+| Jacopo Zucchi / Zucchi | 雅各波·祖基 / 祖基 | 第十六至十七课讨论其画作《普绪克惊醒爱神》。 |
+| Paul Claudel / Claudel | 保罗·克洛岱尔 / 克洛岱尔 | 第十九至二十三课以其库丰坦三部曲展开欲望与 *Versagung* 的问题。 |
+| Ludwig Jekels | 路德维希·耶克尔斯 | 与埃德蒙·贝格勒合著《转移与爱》。 |
+| Edmund Bergler | 埃德蒙·贝格勒 | 与路德维希·耶克尔斯合著《转移与爱》。 |
+| Michael Balint / Balint | 迈克尔·巴林特 / 巴林特 | 第二十四课讨论原初自体性欲与对象关系理论时出现。 |
+| Conrad Stein | 康拉德·施泰因 | 第二十五至二十六课所引《原初认同》作者。 |
+| Karl Abraham / Abraham | 卡尔·亚伯拉罕 / 亚伯拉罕 | 第二十六至二十七课借其力比多发展论辨析“部分对象”。 |
+| Donald Winnicott / Winnicott | 唐纳德·温尼科特 / 温尼科特 | 第二十七课以过渡性对象说明对象的部分性。 |
+| Anna Freud | 安娜·弗洛伊德 | 第二十二课用来标示强调自我力量与治疗联盟的转移理论方向。 |
+| Heinz Hartmann / Hartmann | 海因茨·哈特曼 / 哈特曼 | 第二十二课自我心理学语境。 |
 
 ## 作品、篇名与文本
 
@@ -263,6 +283,17 @@
 | Le Diable amoureux | 恋爱中的魔鬼 | 雅克·卡佐特著作；第十五课以会说话的独行头颅说明碎裂幻想。 |
 | Le Criticón | 批判家 | 巴尔塔萨·格拉西安著作；第十五课原注列出法文版第Ⅰ、Ⅱ卷。 |
 | El Comulgatorio | 领圣体手册 | 巴尔塔萨·格拉西安关于领圣体的灵修著作；第十五课用来揭示共融幻想中的口腔认同。 |
+| L’Âne d’or / Les Métamorphoses | 金驴记 / 变形记 | 阿普列尤斯著作；第十六课所引普绪克神话见第四卷28.1至第六卷24.4。 |
+| Psiche sorprende Amore | 普绪克惊醒爱神 | 雅各波·祖基画作；第十六至十七课围绕缺失阳具与倒置花瓶幻象展开解读。 |
+| L’Otage | 人质 | 克洛岱尔库丰坦三部曲第一部。 |
+| Le Pain dur | 硬面包 | 克洛岱尔库丰坦三部曲第二部。 |
+| Le Père humilié | 受辱的父亲 | 克洛岱尔库丰坦三部曲第三部。 |
+| Partage de Midi | 正午的分界 | 克洛岱尔剧作；第二十课同三部曲中的欲望结构对照。 |
+| Tête d’Or | 金头 | 克洛岱尔剧作；第二十二课概括其作品中的欲望悲剧时出现。 |
+| Le Soulier de satin | 缎子鞋 | 克洛岱尔剧作；第二十一至二十二课讨论其女性人物与欲望悲剧时出现。 |
+| Übertragung und Liebe / Transfert et amour | 转移与爱 | 路德维希·耶克尔斯与埃德蒙·贝格勒1933年报告、1934年文章。 |
+| Hemmung, Symptom und Angst | 抑制、症状与焦虑 | 弗洛伊德1926年著作；第二十五课焦虑信号论述的主要文本。 |
+| Massenpsychologie und Ich-Analyse | 群体心理学与自我分析 | 弗洛伊德著作；第二十四至二十七课认同与单一特征论述的主要文本。 |
 
 ## 学派、地点与族群
 
@@ -460,7 +491,7 @@
 | syndrome de Cotard | 科塔尔综合征 |  |
 | Verwerfung | 拒斥 |  |
 | Ablehnung der Weiblichkeit | 对女性性的拒斥 | 第十一课与阉割恐惧缺席相关；与 *Verwerfung*、*Versagung* 区分。 |
-| Versagung | 挫折 | 第十一课注释中用于区分 *refus*。 |
+| Versagung | 拒绝 / 未履行承诺 | 不等同于通常所谓“挫折”；第十一课与 *refus* 区分，第十六至二十五课则依语境强调拒绝、食言以及未能履行承诺的结构。 |
 | castration / complexe de castration | 阉割 / 阉割情结 |  |
 | crainte de castration | 阉割恐惧 | 第十一课阿尔西比亚德语境。 |
 | phallus | 阳具 |  |
@@ -522,6 +553,30 @@
 | position luthérienne | 路德宗立场 | 第十一课神圣 agapè 爱罪人语境。 |
 | Contre-Réforme | 反宗教改革 | 第十一课巴洛克艺术语境。 |
 | art du baroque | 巴洛克艺术 | 第十一课图像诱惑力语境。 |
+| aphanisis / ἀϕάνισις | 消隐 / 消失 | 琼斯所引希腊词；第十六、十八课指欲望的消失，概念性用法统一作“消隐”。 |
+| présence réelle | 现实在场 | 第十七至十九课既借用天主教圣体教义用语，也指欲望与无意识在分析位置中的在场。 |
+| persona | 人格面具 | 第十七课指维持人类在场形式、同时遮蔽其背后空处的面具功能。 |
+| phallophanie | 阳具显现 | 第十七课指大他者能够作为阳具呈现的显现形式。 |
+| phallus symbolique Φ / phallus imaginaire ϕ | 象征阳具 Φ / 想象阳具 ϕ | 大写 Φ 与小写 ϕ 必须区分；前者标示象征位置，后者关涉镜像与阉割中的想象功能。 |
+| alliance thérapeutique | 治疗联盟 | 第二十二课用来标示强调分析家作为主体及自我力量的转移理论方向。 |
+| acting-out | 行动呈现 | 第二十三课指主体在治疗中借行动要求分析家作出更准确回应。 |
+| Urverdrängt / refoulé primordial | 原初被压抑物 | 第二十三课把最原初的行动同原初被压抑物联系起来。 |
+| pas de métalangage / pas de métadiscours | 没有元语言 / 没有元话语 | 第二十三课指主体一旦投入言说，便不可能站到语言效应之外。 |
+| champ neutralisé / champ d’investissement neutre / énergie neutre | 中性化场域 / 中性投注场 / 中性能量 | 第二十四课批评在厄洛斯与塔纳托斯之外另设中性力比多能量的理论。 |
+| identification primaire | 原初认同 | 弗洛伊德认同论的第一种方式；先于俄狄浦斯冲突展开。 |
+| identification régressive | 退行性认同 | 对象拒绝主体的爱以后，主体经退行过程认同于该对象。 |
+| identification hystérique | 癔症性认同 | 主体在他者身上认出自身欲望情境而发生的认同。 |
+| ein einziger Zug / einziger Zug | 单一特征 | 第二十四至二十七课认同论核心术语；指认同所借助的单一标志性特征。 |
+| signal d’angoisse | 焦虑信号 | 第二十五课指自我位置产生、同时维持主体与欲望对象之关系的信号。 |
+| Erwartung | 期待 / 等候 | 第二十五课依弗洛伊德说明为焦虑的核心性质，而非逃跑本身。 |
+| Hilflosigkeit | 无助 | 第二十五课指主体被无法应对的情境淹没的状态；与焦虑、危险区分。 |
+| Triebrepräsentanz | 驱力代表 | 驱力在心理中的代表；第二十五课讨论压抑时沿用弗洛伊德德语原词。 |
+| Verdrängung | 压抑 | 与 *Urverdrängt*（原初被压抑物）区分。 |
+| Verzicht | 放弃 | 第二十五课与 *Versagung* 并置，指主体舍弃某物的秩序。 |
+| objet phobique | 恐怖症对象 | 第二十五课指在焦虑位置上维持缺失、并可取得多种能指价值的对象。 |
+| Objekt-Partialliebe / amour partiel de l’objet | 对对象的部分之爱 | 亚伯拉罕原词；第二十六课强调它不是“部分对象”，而是排除某一部分的对象爱。 |
+| investissement narcissique / investissement d’objet | 自恋投注 / 对象投注 | 第二十六课区分镜像场域中的投注与对象世界中的投注。 |
+| objet transitionnel | 过渡性对象 | 温尼科特概念；第二十七课用来说明对象部分性与转喻功能的关系。 |
 
 ## 希腊词、古典术语与短语
 
