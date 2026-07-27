@@ -320,6 +320,7 @@
 
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
+| psychique / psychiques | 精神的 | 作定语时依汉语搭配写作“精神现象”“精神经济”“精神现实”“精神因果性”等，不译“心理的”。*Psychologie* 仍译“心理学”；神话人物 *Psyché* 仍译“普绪克”。 |
 | transfert | 转移 |  |
 | transfert positif / transfert négatif | 正转移 / 负转移 | 第十二课提醒不要从通常现象标注进入转移问题。 |
 | contre-transfert | 反转移 | 第十三课指分析家在分析中产生、并由其同被分析者的关系所决定的感受。 |
