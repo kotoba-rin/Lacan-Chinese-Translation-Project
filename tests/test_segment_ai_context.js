@@ -48,6 +48,28 @@ assert.throws(
   (error) => error.code === "SegmentConflict"
 );
 
+const repeatedPrimaryGroupedBlocks = parser.parse([
+  "<!-- id: s8-17-0024 -->",
+  "<!-- id: s8-17-0024 s8-17-0025 id: s8-17-0026 -->",
+  "",
+  "合并后的译文。",
+  "",
+  "<!-- id: s8-17-0027 -->",
+  "",
+  "下一段。",
+].join("\n"), "texts/s8-le-transfert/translation/Leçon-17.md");
+
+assert.strictEqual(repeatedPrimaryGroupedBlocks.length, 2);
+assert.deepStrictEqual(
+  repeatedPrimaryGroupedBlocks[0].ids,
+  ["s8-17-0024", "s8-17-0025", "s8-17-0026"]
+);
+assert.strictEqual(repeatedPrimaryGroupedBlocks[0].visibleText, "合并后的译文。");
+assert.strictEqual(
+  parser.findByRequestedId(repeatedPrimaryGroupedBlocks, "s8-17-0026"),
+  repeatedPrimaryGroupedBlocks[0]
+);
+
 const runResolverTest = async () => {
   const translationPath = "texts/s8-test/translation/Leçon-01.md";
   const originalPath = "texts/s8-test/original/Leçon-01.md";

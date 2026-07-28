@@ -1,0 +1,4 @@
+interface:
+  display_name: "拉康项目知识库维护"
+  short_description: "筛选注释并创建、更新与核验知识卡，维护来源、标签、关联和索引"
+  default_prompt: "使用 $maintain-lacan-knowledge-base 判断解读、建言或注释是否应入库，创建或更新知识卡，并核验来源、标签、语境关联和索引。"

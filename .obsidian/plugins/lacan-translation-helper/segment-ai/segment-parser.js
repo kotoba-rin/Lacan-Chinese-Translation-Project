@@ -23,13 +23,24 @@ class SegmentParser {
       }
 
       const attached = comments[index + 1];
-      const hasAttachedIds = (
-        attached?.label === "ids"
+      const hasOnlyWhitespaceBetween = (
+        Boolean(attached)
         && /^\s*$/.test(source.slice(comment.end, attached.start))
       );
-      const ids = this.mergeIds(comment.ids, hasAttachedIds ? attached.ids : []);
-      const contentStart = hasAttachedIds ? attached.end : comment.end;
-      const nextPrimary = comments.slice(index + (hasAttachedIds ? 2 : 1))
+      const hasAttachedIds = (
+        attached?.label === "ids"
+        && hasOnlyWhitespaceBetween
+      );
+      const hasAttachedRepeatedPrimaryGroup = (
+        attached?.label === "id"
+        && attached.ids.length > 1
+        && attached.ids[0] === comment.ids[0]
+        && hasOnlyWhitespaceBetween
+      );
+      const hasAttachedGroup = hasAttachedIds || hasAttachedRepeatedPrimaryGroup;
+      const ids = this.mergeIds(comment.ids, hasAttachedGroup ? attached.ids : []);
+      const contentStart = hasAttachedGroup ? attached.end : comment.end;
+      const nextPrimary = comments.slice(index + (hasAttachedGroup ? 2 : 1))
         .find((candidate) => candidate.label === "id");
       const contentEnd = nextPrimary ? nextPrimary.start : source.length;
       const markdown = source.slice(contentStart, contentEnd).trim();
@@ -45,6 +56,10 @@ class SegmentParser {
           ? Math.max(this.lineAtOffset(source, nextPrimary.start) - 1, 0)
           : Math.max(source.split(/\r?\n/).length - 1, 0),
       });
+
+      if (hasAttachedGroup) {
+        index += 1;
+      }
     }
 
     return blocks;

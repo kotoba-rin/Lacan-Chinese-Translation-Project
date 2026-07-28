@@ -7,6 +7,14 @@ const originalLoad = Module._load;
 class MockPlugin {}
 class MockTFile {}
 
+const mockNormalizePath = (value) => {
+  const normalized = String(value || "")
+    .replace(/\\/g, "/")
+    .replace(/\/+/g, "/")
+    .replace(/^\.\//, "");
+  return normalized || "/";
+};
+
 Module._load = function load(request, parent, isMain) {
   if (request === "obsidian") {
     return {
@@ -29,9 +37,7 @@ Module._load = function load(request, parent, isMain) {
       PluginSettingTab: class {},
       Setting: class {},
       TFile: MockTFile,
-      normalizePath(value) {
-        return String(value || "").replace(/\\/g, "/").replace(/\/+/g, "/").replace(/^\.\//, "");
-      },
+      normalizePath: mockNormalizePath,
     };
   }
   if (request === "@codemirror/view") {
@@ -71,6 +77,7 @@ try {
     "main.js"
   ));
   const plugin = Object.create(PluginClass.prototype);
+  assert.strictEqual(mockNormalizePath(""), "/");
 
   let resolveMcpPreflight;
   let mcpPreflightCalls = 0;
@@ -300,6 +307,72 @@ try {
     "texts/s8-le-transfert/translation/Leçon-11.md"
   );
   assert.strictEqual(
+    plugin.segmentTargetPathFromLinkElement({
+      dataset: {},
+      getAttribute(name) {
+        return name === "href"
+          ? "app://obsidian.md/texts/s8-le-transfert/original/Le%C3%A7on-06.md#s8-06-0009"
+          : "";
+      },
+    }),
+    "texts/s8-le-transfert/original/Leçon-06.md"
+  );
+  assert.strictEqual(
+    plugin.segmentDocumentLabel("texts/s8-le-transfert/original/Leçon-06.md"),
+    "原文"
+  );
+  assert.strictEqual(
+    plugin.segmentDocumentLabel("texts/s8-le-transfert/translation/Leçon-06.md"),
+    "译文"
+  );
+
+  const originalPreviewFile = new MockTFile();
+  originalPreviewFile.path = "texts/s8-le-transfert/original/Leçon-06.md";
+  const translationPreviewFile = new MockTFile();
+  translationPreviewFile.path = "texts/s8-le-transfert/translation/Leçon-06.md";
+  const previewFiles = new Map([
+    [originalPreviewFile.path, originalPreviewFile],
+    [translationPreviewFile.path, translationPreviewFile],
+  ]);
+  const previewTexts = new Map([
+    [
+      originalPreviewFile.path,
+      "<!-- id: s8-06-0009 -->\n\nTexte français.",
+    ],
+    [
+      translationPreviewFile.path,
+      "<!-- id: s8-06-0009 -->\n\n中文译文。",
+    ],
+  ]);
+  plugin.segmentPreviewCache = new Map();
+  plugin.app = {
+    vault: {
+      getAbstractFileByPath(filePath) {
+        return previewFiles.get(filePath) || null;
+      },
+      getAllLoadedFiles() {
+        return [...previewFiles.values()];
+      },
+      async cachedRead(file) {
+        return previewTexts.get(file.path) || "";
+      },
+    },
+  };
+  assert.deepStrictEqual(
+    await plugin.loadSegmentPreviewContent("s8-06-0009", originalPreviewFile.path),
+    {
+      sourcePath: originalPreviewFile.path,
+      content: "Texte français.",
+    }
+  );
+  assert.deepStrictEqual(
+    await plugin.loadSegmentPreviewContent("s8-06-0009", translationPreviewFile.path),
+    {
+      sourcePath: translationPreviewFile.path,
+      content: "中文译文。",
+    }
+  );
+  assert.strictEqual(
     plugin.segmentPreviewContent(
       "<!-- id: s8-11-0041 -->\n\n[[notes/s8-11-0041|阅读笔记]]\n\n这里是真正的译文。",
       "s8-11-0041"
@@ -355,6 +428,27 @@ try {
   ].join("\n");
   assert.strictEqual(plugin.extractSegmentsById(groupedSegmentSource).get("s8-06-0059"), "合并译文。");
   assert.strictEqual(plugin.findSegmentLine(groupedSegmentSource, "s8-06-0059"), 3);
+
+  const repeatedPrimaryGroupedSegmentSource = [
+    "<!-- id: s8-17-0024 -->",
+    "<!-- id: s8-17-0024 s8-17-0025 id: s8-17-0026 -->",
+    "",
+    "合并后的译文。",
+  ].join("\n");
+  const repeatedPrimaryGroupedMarkers = plugin.extractSegmentMarkers(
+    repeatedPrimaryGroupedSegmentSource
+  );
+  assert.strictEqual(repeatedPrimaryGroupedMarkers.length, 1);
+  assert.deepStrictEqual(
+    repeatedPrimaryGroupedMarkers[0].ids,
+    ["s8-17-0024", "s8-17-0025", "s8-17-0026"]
+  );
+  const repeatedPrimaryGroupedSegments = plugin.extractSegmentsById(
+    repeatedPrimaryGroupedSegmentSource
+  );
+  assert.strictEqual(repeatedPrimaryGroupedSegments.get("s8-17-0024"), "合并后的译文。");
+  assert.strictEqual(repeatedPrimaryGroupedSegments.get("s8-17-0025"), "合并后的译文。");
+  assert.strictEqual(repeatedPrimaryGroupedSegments.get("s8-17-0026"), "合并后的译文。");
 
   const source = [
     "# Leçon 01",

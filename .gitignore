@@ -18,3 +18,9 @@ test/
 develop_doc/
 .claudian/
 .agents/
+!.agents/
+.agents/*
+!.agents/skills/
+.agents/skills/*
+!.agents/skills/maintain-lacan-knowledge-base/
+!.agents/skills/maintain-lacan-knowledge-base/**

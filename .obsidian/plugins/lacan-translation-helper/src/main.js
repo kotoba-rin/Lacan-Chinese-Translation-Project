@@ -2984,19 +2984,33 @@ module.exports = class LacanTranslationHelper extends Plugin {
       }
 
       const next = rawMatches[index + 1];
-      const hasAttachedIds = (
-        next?.label === "ids" &&
-        /^\s*$/.test(String(text || "").slice(current.end, next.index))
+      const hasOnlyWhitespaceBetween = (
+        Boolean(next)
+        && /^\s*$/.test(String(text || "").slice(current.end, next.index))
       );
-      const ids = hasAttachedIds
+      const hasAttachedIds = (
+        next?.label === "ids"
+        && hasOnlyWhitespaceBetween
+      );
+      const hasAttachedRepeatedPrimaryGroup = (
+        next?.label === "id"
+        && next.ids.length > 1
+        && next.ids[0] === current.ids[0]
+        && hasOnlyWhitespaceBetween
+      );
+      const hasAttachedGroup = hasAttachedIds || hasAttachedRepeatedPrimaryGroup;
+      const ids = hasAttachedGroup
         ? this.mergeSegmentIds(current.ids, next.ids)
         : current.ids;
       matches.push({
         id: ids[0],
         ids,
         index: current.index,
-        end: hasAttachedIds ? next.end : current.end,
+        end: hasAttachedGroup ? next.end : current.end,
       });
+      if (hasAttachedGroup) {
+        index += 1;
+      }
     }
     return matches;
   }
@@ -3099,7 +3113,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       linkEl.dataset.lacanSegmentTargetPath = targetPath;
     }
     linkEl.setAttribute("href", "#");
-    linkEl.setAttribute("title", `打开「${segmentId}」译文`);
+    linkEl.setAttribute("title", `打开「${segmentId}」${this.segmentDocumentLabel(targetPath)}`);
   }
 
   handleSegmentInternalLinkClick(event) {
@@ -3141,7 +3155,11 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
 
     event.stopPropagation();
-    this.scheduleSegmentPreview(linkEl, segmentId);
+    this.scheduleSegmentPreview(
+      linkEl,
+      segmentId,
+      this.segmentTargetPathFromLinkElement(linkEl)
+    );
   }
 
   handleSegmentLinkPreviewLeave(event) {
@@ -3209,9 +3227,11 @@ module.exports = class LacanTranslationHelper extends Plugin {
   }
 
   segmentTargetPathFromLinkElement(linkEl) {
-    const datasetPath = normalizePath(linkEl?.dataset?.lacanSegmentTargetPath || "");
-    if (datasetPath) {
-      return datasetPath;
+    const datasetTargetPath = String(
+      linkEl?.dataset?.lacanSegmentTargetPath || ""
+    ).trim();
+    if (datasetTargetPath) {
+      return normalizePath(datasetTargetPath);
     }
 
     const target = (
@@ -3228,12 +3248,22 @@ module.exports = class LacanTranslationHelper extends Plugin {
       return "";
     }
 
-    const pathPart = value.split("#")[0].trim();
-    if (!pathPart || /^[a-z][a-z0-9+.-]*:/i.test(pathPart)) {
+    let pathPart = value.split("#")[0].trim();
+    if (!pathPart) {
+      return "";
+    }
+
+    if (/^app:\/\/obsidian\.md\/+/i.test(pathPart)) {
+      pathPart = pathPart.replace(/^app:\/\/obsidian\.md\/+/i, "");
+    } else if (/^[a-z][a-z0-9+.-]*:/i.test(pathPart)) {
       return "";
     }
 
     return normalizePath(this.safeDecodeURIComponent(pathPart));
+  }
+
+  segmentDocumentLabel(targetPath = "") {
+    return normalizePath(targetPath).includes("/original/") ? "原文" : "译文";
   }
 
   safeDecodeURIComponent(value) {
@@ -3263,12 +3293,12 @@ module.exports = class LacanTranslationHelper extends Plugin {
     return SEGMENT_ID_LINK_RE.test(value) ? value : "";
   }
 
-  scheduleSegmentPreview(linkEl, segmentId) {
+  scheduleSegmentPreview(linkEl, segmentId, targetPath = "") {
     if (this.segmentPreviewHideTimer) {
       window.clearTimeout(this.segmentPreviewHideTimer);
       this.segmentPreviewHideTimer = null;
     }
-    this.showSegmentPreview(linkEl, segmentId);
+    this.showSegmentPreview(linkEl, segmentId, targetPath);
   }
 
   scheduleHideSegmentPreview(delay = 180) {
@@ -3281,11 +3311,12 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }, delay);
   }
 
-  showSegmentPreview(linkEl, segmentId) {
+  showSegmentPreview(linkEl, segmentId, targetPath = "") {
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     if (!SEGMENT_ID_LINK_RE.test(normalizedSegmentId)) {
       return;
     }
+    const documentLabel = this.segmentDocumentLabel(targetPath);
 
     this.hideSegmentPreview({ keepHideTimer: true });
     const previewEl = document.createElement("div");
@@ -3302,7 +3333,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       ? previewEl.createDiv("lacan-segment-preview-title")
       : previewEl.appendChild(document.createElement("div"));
     titleEl.className = "lacan-segment-preview-title";
-    titleEl.textContent = `「${normalizedSegmentId}」译文`;
+    titleEl.textContent = `「${normalizedSegmentId}」${documentLabel}`;
 
     const contentEl = previewEl.createDiv
       ? previewEl.createDiv("lacan-segment-preview-content")
@@ -3315,7 +3346,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.segmentPreviewEl = previewEl;
     const token = ++this.segmentPreviewRenderToken;
 
-    this.loadSegmentPreviewContent(normalizedSegmentId)
+    this.loadSegmentPreviewContent(normalizedSegmentId, targetPath)
       .then(({ content, sourcePath }) => {
         if (token !== this.segmentPreviewRenderToken || !contentEl.isConnected) {
           return null;
@@ -3324,7 +3355,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       })
       .catch((error) => {
         if (token === this.segmentPreviewRenderToken && contentEl.isConnected) {
-          contentEl.textContent = `无法读取对应译文段落：${error.message}`;
+          contentEl.textContent = `无法读取对应${documentLabel}段落：${error.message}`;
         }
       });
   }
@@ -3358,23 +3389,33 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
   }
 
-  async loadSegmentPreviewContent(segmentId) {
+  async loadSegmentPreviewContent(segmentId, targetPath = "") {
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
-    if (this.segmentPreviewCache.has(normalizedSegmentId)) {
-      return this.segmentPreviewCache.get(normalizedSegmentId);
-    }
-
     const match = normalizedSegmentId.match(SEGMENT_ID_LINK_RE);
     if (!match) {
       throw new Error(`不是有效的分段 ID：${segmentId}`);
     }
+
+    const normalizedTargetPath = normalizePath(targetPath || "");
+    const cacheKey = this.segmentComparisonKey(
+      normalizedTargetPath || "auto",
+      normalizedSegmentId
+    );
+    if (this.segmentPreviewCache.has(cacheKey)) {
+      return this.segmentPreviewCache.get(cacheKey);
+    }
+
+    let file = this.fileFromSegmentTargetPath(normalizedTargetPath);
+    let seminarSlug = "";
     const seminarCode = `s${match[1]}`.toLowerCase();
     const lessonNumber = Number(match[2]);
-    const seminarSlug = this.findSeminarSlugForCode(seminarCode);
-    if (!seminarSlug) {
-      throw new Error(`找不到对应研讨班：${seminarCode}`);
+    if (!(file instanceof TFile)) {
+      seminarSlug = this.findSeminarSlugForCode(seminarCode);
+      if (!seminarSlug) {
+        throw new Error(`找不到对应研讨班：${seminarCode}`);
+      }
+      file = this.findSegmentLessonFile(seminarSlug, lessonNumber);
     }
-    const file = this.findSegmentLessonFile(seminarSlug, lessonNumber);
     if (!(file instanceof TFile)) {
       throw new Error(`找不到对应课文：${seminarSlug} Leçon ${String(lessonNumber).padStart(2, "0")}`);
     }
@@ -3383,7 +3424,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       sourcePath: file.path,
       content: this.segmentPreviewContent(text, normalizedSegmentId),
     }));
-    this.segmentPreviewCache.set(normalizedSegmentId, promise);
+    this.segmentPreviewCache.set(cacheKey, promise);
     return promise;
   }
 

@@ -27,10 +27,13 @@ var require_segment_parser = __commonJS({
             continue;
           }
           const attached = comments[index + 1];
-          const hasAttachedIds = attached?.label === "ids" && /^\s*$/.test(source.slice(comment.end, attached.start));
-          const ids = this.mergeIds(comment.ids, hasAttachedIds ? attached.ids : []);
-          const contentStart = hasAttachedIds ? attached.end : comment.end;
-          const nextPrimary = comments.slice(index + (hasAttachedIds ? 2 : 1)).find((candidate) => candidate.label === "id");
+          const hasOnlyWhitespaceBetween = Boolean(attached) && /^\s*$/.test(source.slice(comment.end, attached.start));
+          const hasAttachedIds = attached?.label === "ids" && hasOnlyWhitespaceBetween;
+          const hasAttachedRepeatedPrimaryGroup = attached?.label === "id" && attached.ids.length > 1 && attached.ids[0] === comment.ids[0] && hasOnlyWhitespaceBetween;
+          const hasAttachedGroup = hasAttachedIds || hasAttachedRepeatedPrimaryGroup;
+          const ids = this.mergeIds(comment.ids, hasAttachedGroup ? attached.ids : []);
+          const contentStart = hasAttachedGroup ? attached.end : comment.end;
+          const nextPrimary = comments.slice(index + (hasAttachedGroup ? 2 : 1)).find((candidate) => candidate.label === "id");
           const contentEnd = nextPrimary ? nextPrimary.start : source.length;
           const markdown = source.slice(contentStart, contentEnd).trim();
           blocks.push({
@@ -42,6 +45,9 @@ var require_segment_parser = __commonJS({
             startLine: this.lineAtOffset(source, comment.start),
             endLine: nextPrimary ? Math.max(this.lineAtOffset(source, nextPrimary.start) - 1, 0) : Math.max(source.split(/\r?\n/).length - 1, 0)
           });
+          if (hasAttachedGroup) {
+            index += 1;
+          }
         }
         return blocks;
       }
@@ -8207,14 +8213,20 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
         continue;
       }
       const next = rawMatches[index + 1];
-      const hasAttachedIds = next?.label === "ids" && /^\s*$/.test(String(text || "").slice(current.end, next.index));
-      const ids = hasAttachedIds ? this.mergeSegmentIds(current.ids, next.ids) : current.ids;
+      const hasOnlyWhitespaceBetween = Boolean(next) && /^\s*$/.test(String(text || "").slice(current.end, next.index));
+      const hasAttachedIds = next?.label === "ids" && hasOnlyWhitespaceBetween;
+      const hasAttachedRepeatedPrimaryGroup = next?.label === "id" && next.ids.length > 1 && next.ids[0] === current.ids[0] && hasOnlyWhitespaceBetween;
+      const hasAttachedGroup = hasAttachedIds || hasAttachedRepeatedPrimaryGroup;
+      const ids = hasAttachedGroup ? this.mergeSegmentIds(current.ids, next.ids) : current.ids;
       matches.push({
         id: ids[0],
         ids,
         index: current.index,
-        end: hasAttachedIds ? next.end : current.end
+        end: hasAttachedGroup ? next.end : current.end
       });
+      if (hasAttachedGroup) {
+        index += 1;
+      }
     }
     return matches;
   }
@@ -8295,7 +8307,7 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
       linkEl.dataset.lacanSegmentTargetPath = targetPath;
     }
     linkEl.setAttribute("href", "#");
-    linkEl.setAttribute("title", `打开「${segmentId}」译文`);
+    linkEl.setAttribute("title", `打开「${segmentId}」${this.segmentDocumentLabel(targetPath)}`);
   }
   handleSegmentInternalLinkClick(event) {
     const linkEl = this.segmentLinkElementFromEvent(event);
@@ -8326,7 +8338,11 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
       return;
     }
     event.stopPropagation();
-    this.scheduleSegmentPreview(linkEl, segmentId);
+    this.scheduleSegmentPreview(
+      linkEl,
+      segmentId,
+      this.segmentTargetPathFromLinkElement(linkEl)
+    );
   }
   handleSegmentLinkPreviewLeave(event) {
     const linkEl = this.segmentLinkElementFromEvent(event);
@@ -8372,9 +8388,11 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
     return "";
   }
   segmentTargetPathFromLinkElement(linkEl) {
-    const datasetPath = normalizePath(linkEl?.dataset?.lacanSegmentTargetPath || "");
-    if (datasetPath) {
-      return datasetPath;
+    const datasetTargetPath = String(
+      linkEl?.dataset?.lacanSegmentTargetPath || ""
+    ).trim();
+    if (datasetTargetPath) {
+      return normalizePath(datasetTargetPath);
     }
     const target = linkEl?.getAttribute?.("data-href") || linkEl?.getAttribute?.("href") || "";
     return this.segmentTargetPathFromLinkTarget(target);
@@ -8384,11 +8402,19 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
     if (!value.includes("#")) {
       return "";
     }
-    const pathPart = value.split("#")[0].trim();
-    if (!pathPart || /^[a-z][a-z0-9+.-]*:/i.test(pathPart)) {
+    let pathPart = value.split("#")[0].trim();
+    if (!pathPart) {
+      return "";
+    }
+    if (/^app:\/\/obsidian\.md\/+/i.test(pathPart)) {
+      pathPart = pathPart.replace(/^app:\/\/obsidian\.md\/+/i, "");
+    } else if (/^[a-z][a-z0-9+.-]*:/i.test(pathPart)) {
       return "";
     }
     return normalizePath(this.safeDecodeURIComponent(pathPart));
+  }
+  segmentDocumentLabel(targetPath = "") {
+    return normalizePath(targetPath).includes("/original/") ? "原文" : "译文";
   }
   safeDecodeURIComponent(value) {
     try {
@@ -8408,12 +8434,12 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
     const value = String(target || "").trim().replace(/^#/, "").split("#").pop().trim().toLowerCase();
     return SEGMENT_ID_LINK_RE.test(value) ? value : "";
   }
-  scheduleSegmentPreview(linkEl, segmentId) {
+  scheduleSegmentPreview(linkEl, segmentId, targetPath = "") {
     if (this.segmentPreviewHideTimer) {
       window.clearTimeout(this.segmentPreviewHideTimer);
       this.segmentPreviewHideTimer = null;
     }
-    this.showSegmentPreview(linkEl, segmentId);
+    this.showSegmentPreview(linkEl, segmentId, targetPath);
   }
   scheduleHideSegmentPreview(delay = 180) {
     if (this.segmentPreviewHideTimer) {
@@ -8424,11 +8450,12 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
       this.hideSegmentPreview();
     }, delay);
   }
-  showSegmentPreview(linkEl, segmentId) {
+  showSegmentPreview(linkEl, segmentId, targetPath = "") {
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     if (!SEGMENT_ID_LINK_RE.test(normalizedSegmentId)) {
       return;
     }
+    const documentLabel = this.segmentDocumentLabel(targetPath);
     this.hideSegmentPreview({ keepHideTimer: true });
     const previewEl = document.createElement("div");
     previewEl.className = "lacan-segment-preview-popover";
@@ -8441,7 +8468,7 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
     previewEl.addEventListener("mouseleave", () => this.scheduleHideSegmentPreview(120));
     const titleEl = previewEl.createDiv ? previewEl.createDiv("lacan-segment-preview-title") : previewEl.appendChild(document.createElement("div"));
     titleEl.className = "lacan-segment-preview-title";
-    titleEl.textContent = `「${normalizedSegmentId}」译文`;
+    titleEl.textContent = `「${normalizedSegmentId}」${documentLabel}`;
     const contentEl = previewEl.createDiv ? previewEl.createDiv("lacan-segment-preview-content") : previewEl.appendChild(document.createElement("div"));
     contentEl.className = "lacan-segment-preview-content";
     contentEl.textContent = "加载中...";
@@ -8449,14 +8476,14 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
     this.positionSegmentPreview(previewEl, linkEl);
     this.segmentPreviewEl = previewEl;
     const token = ++this.segmentPreviewRenderToken;
-    this.loadSegmentPreviewContent(normalizedSegmentId).then(({ content, sourcePath }) => {
+    this.loadSegmentPreviewContent(normalizedSegmentId, targetPath).then(({ content, sourcePath }) => {
       if (token !== this.segmentPreviewRenderToken || !contentEl.isConnected) {
         return null;
       }
       return this.renderForkSegmentContent(contentEl, content, sourcePath);
     }).catch((error) => {
       if (token === this.segmentPreviewRenderToken && contentEl.isConnected) {
-        contentEl.textContent = `无法读取对应译文段落：${error.message}`;
+        contentEl.textContent = `无法读取对应${documentLabel}段落：${error.message}`;
       }
     });
   }
@@ -8487,22 +8514,31 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
       this.segmentPreviewRenderToken += 1;
     }
   }
-  async loadSegmentPreviewContent(segmentId) {
+  async loadSegmentPreviewContent(segmentId, targetPath = "") {
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
-    if (this.segmentPreviewCache.has(normalizedSegmentId)) {
-      return this.segmentPreviewCache.get(normalizedSegmentId);
-    }
     const match = normalizedSegmentId.match(SEGMENT_ID_LINK_RE);
     if (!match) {
       throw new Error(`不是有效的分段 ID：${segmentId}`);
     }
+    const normalizedTargetPath = normalizePath(targetPath || "");
+    const cacheKey = this.segmentComparisonKey(
+      normalizedTargetPath || "auto",
+      normalizedSegmentId
+    );
+    if (this.segmentPreviewCache.has(cacheKey)) {
+      return this.segmentPreviewCache.get(cacheKey);
+    }
+    let file = this.fileFromSegmentTargetPath(normalizedTargetPath);
+    let seminarSlug = "";
     const seminarCode = `s${match[1]}`.toLowerCase();
     const lessonNumber = Number(match[2]);
-    const seminarSlug = this.findSeminarSlugForCode(seminarCode);
-    if (!seminarSlug) {
-      throw new Error(`找不到对应研讨班：${seminarCode}`);
+    if (!(file instanceof TFile)) {
+      seminarSlug = this.findSeminarSlugForCode(seminarCode);
+      if (!seminarSlug) {
+        throw new Error(`找不到对应研讨班：${seminarCode}`);
+      }
+      file = this.findSegmentLessonFile(seminarSlug, lessonNumber);
     }
-    const file = this.findSegmentLessonFile(seminarSlug, lessonNumber);
     if (!(file instanceof TFile)) {
       throw new Error(`找不到对应课文：${seminarSlug} Leçon ${String(lessonNumber).padStart(2, "0")}`);
     }
@@ -8510,7 +8546,7 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
       sourcePath: file.path,
       content: this.segmentPreviewContent(text, normalizedSegmentId)
     }));
-    this.segmentPreviewCache.set(normalizedSegmentId, promise);
+    this.segmentPreviewCache.set(cacheKey, promise);
     return promise;
   }
   segmentPreviewContent(text, segmentId) {
