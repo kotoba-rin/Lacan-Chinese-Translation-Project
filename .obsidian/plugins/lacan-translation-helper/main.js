@@ -6078,6 +6078,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       )
     });
     this.scheduleComparisonRender();
+    this.refreshSegmentAiEntrances();
     if (this.settings.autoSyncOnStartup) {
       this.startupSyncTimer = window.setTimeout(() => {
         this.startupSyncTimer = null;
@@ -6112,6 +6113,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
     this.progressWriteSuppressTimers.clear();
     this.progressWritePaths.clear();
+    this.removeSegmentAiPreviewControls();
     this.hideSegmentPreview();
     if (this.segmentPreviewHideTimer) {
       window.clearTimeout(this.segmentPreviewHideTimer);
@@ -6628,8 +6630,12 @@ module.exports = class LacanTranslationHelper extends Plugin {
   async openSegmentSource(sourcePath, segmentId) {
     return this.openSegmentId(segmentId, sourcePath);
   }
+  isInsideCommentaryBlockquote(node) {
+    const element = typeof node?.closest === "function" ? node : node?.parentElement || node?.parentNode;
+    return Boolean(element?.closest?.("blockquote"));
+  }
   renderSegmentAiPreviewActions(containerEl, sourcePath, sectionInfo = null) {
-    if (!this.settings.segmentAiEnabled || !containerEl) {
+    if (!this.settings.segmentAiEnabled || !containerEl || this.isInsideCommentaryBlockquote(containerEl)) {
       return 0;
     }
     const path = normalizePath(sourcePath || "");
@@ -6670,7 +6676,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
         usedAnchors,
         anchorIndex
       );
-      if (!anchorEl?.parentNode) {
+      if (!anchorEl?.parentNode || this.isInsideCommentaryBlockquote(anchorEl)) {
         continue;
       }
       const controlEl = this.createSegmentAiPreviewControl(path, marker.id);
@@ -6689,7 +6695,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     let commentNode;
     while ((commentNode = walker.nextNode()) !== null) {
       const segmentId = this.segmentIdFromComment(commentNode.nodeValue);
-      if (!segmentId || !commentNode.parentNode) {
+      if (!segmentId || !commentNode.parentNode || this.isInsideCommentaryBlockquote(commentNode)) {
         continue;
       }
       const exists = Array.from(containerEl.querySelectorAll?.(
@@ -6783,11 +6789,14 @@ module.exports = class LacanTranslationHelper extends Plugin {
     });
     menu.showAtMouseEvent?.(event);
   }
-  refreshSegmentAiEntrances() {
+  removeSegmentAiPreviewControls() {
     const rootEl = this.app.workspace?.containerEl || document.body;
-    if (!this.settings.segmentAiEnabled) {
-      rootEl.querySelectorAll?.(".lacan-segment-ai-control").forEach((element) => element.remove());
-    }
+    rootEl.querySelectorAll?.(".lacan-segment-ai-control").forEach(
+      (element) => element.remove()
+    );
+  }
+  refreshSegmentAiEntrances() {
+    this.removeSegmentAiPreviewControls();
     this.app.workspace?.updateOptions?.();
     this.app.workspace?.iterateAllLeaves?.((leaf) => {
       leaf.view?.previewMode?.rerender?.(true);

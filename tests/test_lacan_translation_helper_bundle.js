@@ -18,10 +18,23 @@ assert.ok(fs.existsSync(sourcePath), "plugin source entry should be kept under s
 const main = fs.readFileSync(mainPath, "utf8");
 const source = fs.readFileSync(sourcePath, "utf8");
 const styles = fs.readFileSync(stylesPath, "utf8");
+const onloadStart = source.indexOf("async onload()");
+const onunloadStart = source.indexOf("onunload()", onloadStart);
+const onloadSource = source.slice(onloadStart, onunloadStart);
+const onunloadEnd = source.indexOf("registerProjectBasesView()", onunloadStart);
+const onunloadSource = source.slice(onunloadStart, onunloadEnd);
 
 assert.ok(
   !/require\(\s*["']\.{1,2}\/segment-ai\//.test(main),
   "released main.js must bundle segment-ai modules for Obsidian's plugin loader"
+);
+assert.ok(
+  onloadSource.includes("this.refreshSegmentAiEntrances();"),
+  "plugin startup should clear stale AI controls and rerender open previews"
+);
+assert.ok(
+  onunloadSource.includes("this.removeSegmentAiPreviewControls();"),
+  "plugin shutdown should remove reading-mode AI controls from open previews"
 );
 assert.ok(
   source.includes('require("../segment-ai/domain")'),

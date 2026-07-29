@@ -645,6 +645,137 @@ try {
       previewControls[0].children[0].className.includes("has-segment-id"),
       "reading-mode AI buttons should use the wider segment label style"
     );
+
+    const commentaryControls = [];
+    const commentaryContainer = {
+      querySelectorAll() {
+        return commentaryControls;
+      },
+      prepend(element) {
+        commentaryControls.unshift(element);
+      },
+      closest(selector) {
+        return selector === "blockquote" ? this : null;
+      },
+    };
+    assert.strictEqual(
+      plugin.renderSegmentAiPreviewActions(
+        commentaryContainer,
+        "texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-01.md",
+        {
+          text: [
+            "<!-- id: s17-01-0001 -->",
+            "",
+            "亲爱的朋友们，请允许我再一次追问你们给予我的这份“到场相助”。",
+          ].join("\n"),
+          lineStart: 15,
+        }
+      ),
+      0,
+      "reading-mode AI controls must not be inserted inside commentary blockquotes"
+    );
+    assert.strictEqual(commentaryControls.length, 0);
+
+    const anchoredPreviewControls = [];
+    const blockquoteAnchor = {
+      closest(selector) {
+        return selector === "blockquote" ? this : null;
+      },
+      parentNode: {
+        insertBefore(control) {
+          anchoredPreviewControls.push(control);
+        },
+      },
+    };
+    const regularAnchor = {
+      closest() {
+        return null;
+      },
+      parentNode: {
+        insertBefore(control) {
+          anchoredPreviewControls.push(control);
+        },
+      },
+    };
+    const mixedPreviewContainer = {
+      closest() {
+        return null;
+      },
+      querySelectorAll() {
+        return [];
+      },
+    };
+    const originalBuildRenderedAnchorIndex = plugin.buildRenderedAnchorIndex;
+    const originalFindRenderedSegmentAnchor = plugin.findRenderedSegmentAnchor;
+    plugin.buildRenderedAnchorIndex = () => [];
+    plugin.findRenderedSegmentAnchor = (_container, marker) => (
+      marker.id === "s17-01-0001" ? blockquoteAnchor : regularAnchor
+    );
+    try {
+      assert.strictEqual(
+        plugin.renderSegmentAiPreviewActions(
+          mixedPreviewContainer,
+          "texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-01.md",
+          {
+            text: [
+              "<!-- id: s17-01-0001 -->",
+              "开头译文。",
+              "<!-- id: s17-01-0067 -->",
+              "后续译文。",
+            ].join("\n"),
+            lineStart: 0,
+          }
+        ),
+        1,
+        "reading-mode AI controls must skip concrete anchors inside commentary blockquotes"
+      );
+      assert.deepStrictEqual(
+        anchoredPreviewControls.map((control) => control.dataset.segmentId),
+        ["s17-01-0067"]
+      );
+    } finally {
+      plugin.buildRenderedAnchorIndex = originalBuildRenderedAnchorIndex;
+      plugin.findRenderedSegmentAnchor = originalFindRenderedSegmentAnchor;
+    }
+
+    const stalePreviewControl = {
+      removed: false,
+      remove() {
+        this.removed = true;
+      },
+    };
+    let previewRerendered = false;
+    plugin.settings.segmentAiEnabled = true;
+    plugin.app = {
+      workspace: {
+        containerEl: {
+          querySelectorAll(selector) {
+            assert.strictEqual(selector, ".lacan-segment-ai-control");
+            return [stalePreviewControl];
+          },
+        },
+        updateOptions() {},
+        iterateAllLeaves(callback) {
+          callback({
+            view: {
+              previewMode: {
+                rerender(force) {
+                  assert.strictEqual(force, true);
+                  previewRerendered = true;
+                },
+              },
+            },
+          });
+        },
+      },
+    };
+    plugin.refreshSegmentAiEntrances();
+    assert.strictEqual(
+      stalePreviewControl.removed,
+      true,
+      "restarting the enabled plugin must remove stale reading-mode AI controls"
+    );
+    assert.strictEqual(previewRerendered, true);
   } finally {
     global.document = oldDocument;
   }
