@@ -33,6 +33,9 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/部分对象与对象a.md|部分对象与对象 a]]
+[[知识库/西勒诺斯、马西亚斯与苏格拉底的双重比喻.md|西勒诺斯、马西亚斯与苏格拉底的双重比喻]]
+
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0011|s8-10-0011]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0019|s8-10-0019]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0031|s8-10-0031]]

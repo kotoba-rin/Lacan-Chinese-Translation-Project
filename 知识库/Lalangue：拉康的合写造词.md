@@ -29,6 +29,11 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Incorreligionigibles：拉康的宗教双关造词.md|Incorreligionigibles：拉康的宗教双关造词]]
+[[知识库/弗朗西斯·蓬日的réson造词.md|弗朗西斯·蓬日的 réson 造词]]
+[[知识库/“无意识具有语言一样的结构”的适用范围.md|“无意识具有语言一样的结构”的适用范围]]
+[[知识库/拉康“罗马报告”：言语与语言的功能及领域.md|拉康“罗马报告”：言语与语言的功能及领域]]
+
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-01.md#s19b-01-0077|s19b-01-0077]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-01.md#s19b-01-0079|s19b-01-0079]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-01.md#s19b-01-0080|s19b-01-0080]]

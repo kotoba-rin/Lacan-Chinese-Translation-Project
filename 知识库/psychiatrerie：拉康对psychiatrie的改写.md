@@ -25,4 +25,7 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/反精神病学运动.md|反精神病学运动]]
+[[知识库/拉康与圣安娜医院.md|拉康与圣安娜医院]]
+
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-01.md#s19b-01-0039|s19b-01-0039]]

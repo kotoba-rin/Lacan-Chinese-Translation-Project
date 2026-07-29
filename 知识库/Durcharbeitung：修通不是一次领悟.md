@@ -29,5 +29,7 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/重复、移情与“把过去活在现在”.md|重复、移情与“把过去活在现在”]]
+
 [[texts/s8-le-transfert/translation/Leçon-14.md#s8-14-0021|s8-14-0021]]
 [[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0001|s8-15-0001]]

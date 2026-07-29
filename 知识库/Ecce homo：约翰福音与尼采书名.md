@@ -24,4 +24,7 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/彼拉多的“真理是什么？”与《约翰福音》18章38节.md|彼拉多的“真理是什么？”与《约翰福音》18章38节]]
+[[知识库/拉丁语homo与希腊语homós不是同一词根.md|拉丁语 homo 与希腊语 homós 不是同一词根]]
+
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-04.md#s19b-04-0198|s19b-04-0198]]

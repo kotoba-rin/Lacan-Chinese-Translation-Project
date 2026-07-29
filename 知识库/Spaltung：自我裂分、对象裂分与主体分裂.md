@@ -25,6 +25,9 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/拉康的主体定义：一个能指为另一个能指代表主体.md|拉康的主体定义：一个能指为另一个能指代表主体]]
+[[知识库/阿里斯托芬的球形人神话.md|阿里斯托芬的球形人神话]]
+
 [[texts/s8-le-transfert/translation/Leçon-04.md#s8-04-0084|s8-04-0084]]
 [[texts/s8-le-transfert/translation/Leçon-08.md#s8-08-0076|s8-08-0076]]
 [[texts/s8-le-transfert/translation/Leçon-22.md#s8-22-0058|s8-22-0058]]

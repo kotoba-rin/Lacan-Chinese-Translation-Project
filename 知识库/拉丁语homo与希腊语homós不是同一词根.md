@@ -25,5 +25,7 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Ecce homo：约翰福音与尼采书名.md|Ecce homo：约翰福音与尼采书名]]
+
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-04.md#s19b-04-0198|s19b-04-0198]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-04.md#s19b-04-0209|s19b-04-0209]]

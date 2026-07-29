@@ -29,4 +29,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/康德的物自体与先验形式.md|康德的物自体与先验形式]]
+
 [[texts/s8-le-transfert/translation/Leçon-06.md#s8-06-0009|s8-06-0009]]

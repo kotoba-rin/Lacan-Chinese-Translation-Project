@@ -26,6 +26,8 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/弗洛伊德的爱欲统一原则与普遍之爱批判.md|弗洛伊德的爱欲统一原则与普遍之爱批判]]
+
 [[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0046|s8-01-0046]]
 [[texts/s8-le-transfert/translation/Leçon-06.md#s8-06-0079|s8-06-0079]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-05.md#s17-05-0139|s17-05-0139]]

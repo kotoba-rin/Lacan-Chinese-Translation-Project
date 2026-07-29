@@ -26,5 +26,7 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Lalangue：拉康的合写造词.md|Lalangue：拉康的合写造词]]
+
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-03.md#s19b-03-0145|s19b-03-0145]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-03.md#s19b-03-0146|s19b-03-0146]]

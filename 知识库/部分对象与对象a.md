@@ -32,6 +32,11 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Agalma的希腊语义与对象a.md|Agalma 的希腊语义与对象 a]]
+[[知识库/欲望的转喻性.md|欲望的转喻性]]
+[[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]
+[[知识库/拉康的四种话语与四分之一转位.md|拉康的四种话语与四分之一转位]]
+
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0034|s8-10-0034]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0049|s8-10-0049]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0067|s8-10-0067]]

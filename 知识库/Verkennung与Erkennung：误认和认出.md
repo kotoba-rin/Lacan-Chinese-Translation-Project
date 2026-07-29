@@ -25,4 +25,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/倒置花束实验与拉康的光学图式.md|倒置花束实验与拉康的光学图式]]
+
 [[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0013|s8-15-0013]]

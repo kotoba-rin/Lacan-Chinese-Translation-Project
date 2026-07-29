@@ -24,4 +24,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]
+
 [[texts/s8-le-transfert/translation/Leçon-19.md#s8-19-0091|s8-19-0091]]

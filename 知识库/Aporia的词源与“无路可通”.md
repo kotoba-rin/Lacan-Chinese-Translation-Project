@@ -25,4 +25,8 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Poros、Penia与Metis.md|Poros、Penia 与 Metis]]
+[[知识库/柏拉图《美诺篇》的电鳐比喻.md|柏拉图《美诺篇》的电鳐比喻]]
+[[知识库/美诺篇奴隶童与回忆说.md|《美诺篇》奴隶童与回忆说]]
+
 [[texts/s8-le-transfert/translation/Leçon-08.md#s8-08-0096|s8-08-0096]]

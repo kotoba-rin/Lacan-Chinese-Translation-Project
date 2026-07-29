@@ -18,9 +18,12 @@ FORBIDDEN_CARD_TAGS = {"知识卡片", "核实", *VERIFICATION_VALUES}
 TAG_RE = re.compile(r"^[\w/-]+$", re.UNICODE)
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 SEGMENT_ID_RE = re.compile(r"^s\d+[a-z]?-\d{2}-\d{4}$", re.IGNORECASE)
-RELATION_RE = re.compile(
+TRANSLATION_RELATION_RE = re.compile(
     r"^\[\[(?P<path>texts/[^#|\]]+/translation/[^#|\]]+\.md)"
     r"#(?P<anchor>[^|\]]+)\|(?P<label>[^\]]+)\]\]$"
+)
+KNOWLEDGE_RELATION_RE = re.compile(
+    r"^\[\[(?P<path>知识库/[^#|\]]+\.md)\|(?P<label>[^\]]+)\]\]$"
 )
 LOCAL_LINK_RE = re.compile(
     r"\[\[(?P<path>texts/[^#|\]]+\.md)"
@@ -51,6 +54,11 @@ def arguments() -> argparse.Namespace:
     )
     parser.add_argument("--repo-root", type=Path, default=Path("."))
     parser.add_argument("--knowledge-dir", type=Path, default=Path("知识库"))
+    parser.add_argument(
+        "--require-card-links",
+        action="store_true",
+        help="Require every selected card to link at least one other knowledge card.",
+    )
     return parser.parse_args()
 
 
@@ -142,8 +150,11 @@ def local_link_errors(
 def validate_card(
     card: ParsedCard,
     repo_root: Path,
+    knowledge_dir: Path,
     seminar_tags: dict[str, str],
     anchor_cache: dict[Path, set[str]],
+    card_cache: dict[Path, ParsedCard],
+    require_card_links: bool,
 ) -> list[str]:
     errors: list[str] = []
     metadata = card.metadata
@@ -221,23 +232,69 @@ def validate_card(
 
     relation_lines = [line for line in card.lines[relation_index + 1 :] if line.strip()]
     if not relation_lines:
-        errors.append("## 关联 must contain at least one translation link")
+        errors.append("## 关联 must contain at least one relation")
 
-    seen_relations: set[tuple[str, str]] = set()
+    seen_relations: set[str] = set()
     relation_tag_set: set[str] = set()
+    translation_count = 0
+    card_link_count = 0
+    saw_translation = False
     for line in relation_lines:
-        match = RELATION_RE.fullmatch(line)
-        if match is None:
+        translation_match = TRANSLATION_RELATION_RE.fullmatch(line)
+        knowledge_match = KNOWLEDGE_RELATION_RE.fullmatch(line)
+        if translation_match is None and knowledge_match is None:
             errors.append(f"invalid relation link: {line}")
             continue
+
+        if line in seen_relations:
+            errors.append(f"duplicate relation: {line}")
+        seen_relations.add(line)
+
+        if knowledge_match is not None:
+            card_link_count += 1
+            if saw_translation:
+                errors.append("knowledge-card links must precede translation links")
+            relative_text = knowledge_match.group("path")
+            label = knowledge_match.group("label")
+            relative = Path(relative_text)
+            target = (repo_root / relative).resolve()
+            if target == card.path.resolve():
+                errors.append("knowledge card must not link to itself")
+                continue
+            if target.parent != knowledge_dir.resolve():
+                errors.append(f"knowledge relation must stay inside 知识库/: {relative_text}")
+                continue
+            if not target.is_file():
+                errors.append(f"knowledge relation path does not exist: {relative_text}")
+                continue
+            try:
+                target_card = card_cache.setdefault(target, parse_frontmatter(target))
+            except (OSError, ValueError) as error:
+                errors.append(f"could not read related knowledge card {relative_text}: {error}")
+                continue
+            target_title = target_card.metadata.get("title")
+            if label != target_title:
+                errors.append(
+                    f"knowledge relation label must equal target title {target_title!r}: {line}"
+                )
+            current_relative = card.path.resolve().relative_to(repo_root).as_posix()
+            reciprocal = any(
+                (match := KNOWLEDGE_RELATION_RE.fullmatch(target_line))
+                and match.group("path") == current_relative
+                for target_line in target_card.lines
+            )
+            if not reciprocal:
+                errors.append(f"knowledge relation is not reciprocal in {relative_text}")
+            continue
+
+        match = translation_match
+        assert match is not None
+        saw_translation = True
+        translation_count += 1
         relative_text = match.group("path")
         anchor = match.group("anchor")
         label = match.group("label")
         relative = Path(relative_text)
-        key = (relative_text, anchor)
-        if key in seen_relations:
-            errors.append(f"duplicate relation: {line}")
-        seen_relations.add(key)
         if label != anchor:
             errors.append(f"relation label must equal anchor: {line}")
         if not SEGMENT_ID_RE.fullmatch(anchor):
@@ -259,6 +316,11 @@ def validate_card(
                 )
             else:
                 relation_tag_set.add(expected_tag)
+
+    if translation_count == 0:
+        errors.append("## 关联 must contain at least one translation link")
+    if require_card_links and card_link_count == 0:
+        errors.append("## 关联 must contain at least one related knowledge-card link")
 
     declared_seminar_tags = {tag for tag in tags if tag.startswith("研讨班")}
     if declared_seminar_tags != relation_tag_set:
@@ -320,6 +382,7 @@ def main() -> int:
 
     failures = 0
     anchor_cache: dict[Path, set[str]] = {}
+    card_cache: dict[Path, ParsedCard] = {}
     for path in cards:
         if not path.is_file():
             print_errors(path, repo_root, ["card file does not exist"])
@@ -331,7 +394,16 @@ def main() -> int:
             print_errors(path, repo_root, [str(error)])
             failures += 1
             continue
-        errors = validate_card(card, repo_root, seminar_tags, anchor_cache)
+        card_cache[path.resolve()] = card
+        errors = validate_card(
+            card,
+            repo_root,
+            knowledge_dir,
+            seminar_tags,
+            anchor_cache,
+            card_cache,
+            args.require_card_links,
+        )
         if errors:
             print_errors(path, repo_root, errors)
             failures += 1
