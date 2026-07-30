@@ -44,9 +44,19 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 
 ## 当前内容翻译进度
 
-- `texts/s8-le-transfert`：研讨班 VIII，*Le transfert*（更新中）。
-- `texts/s17-l-envers-de-la-psychanalyse`：研讨班 XVII，*L'envers de la psychanalyse*（待校订）。
-- `texts/s19b-le-savoir-du-psychanalyste`：研讨班 XIXb，*Le savoir du psychanalyste*（待校订）。
+截至 2026 年 7 月 30 日，已有 7 部研讨班建立完整译文目录，共 131 课；其中 86 课已完成译文覆盖。按项目插件采用的分段进度算法，当前已覆盖 14,243 / 20,403 个分段（69.81%）。
+
+| 研讨班 | 目录 | 已覆盖课次 | 分段进度 | 当前状态 |
+| --- | --- | ---: | ---: | --- |
+| VII，*L'éthique de la psychanalyse* | `texts/s7-l-ethique-de-la-psychanalyse` | 27 / 27 | 100% | 译文覆盖完成，待校订 |
+| VIII，*Le transfert* | `texts/s8-le-transfert` | 27 / 27 | 100% | 译文覆盖完成，持续校订 |
+| X，*L'angoisse* | `texts/s10-l-angoisse` | 0 / 25 | 0% | 译文骨架已建立，待翻译 |
+| XI，*Les quatre concepts fondamentaux de la psychanalyse* | `texts/s11-les-quatre-concepts-fondamentaux-de-la-psychanalyse` | 0 / 20 | 0% | 译文骨架已建立，待翻译 |
+| XVII，*L'envers de la psychanalyse* | `texts/s17-l-envers-de-la-psychanalyse` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
+| XIX，*... ou pire* | `texts/s19-ou-pire` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XIXb，*Le savoir du psychanalyste* | `texts/s19b-le-savoir-du-psychanalyste` | 7 / 7 | 100% | 译文覆盖完成，待校订 |
+
+这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。其余 21 部研讨班目前仅收录原文，尚未纳入译文进度统计。
 
 ## 许可证
 

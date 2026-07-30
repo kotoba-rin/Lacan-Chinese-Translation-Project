@@ -5,8 +5,8 @@ verification: 需更正
 tags:
   - 研讨班VII
   - 研讨班VIII
+  - 研讨班XIX
   - 领域/精神分析
-  - 人物/拉康
   - 概念/对象a
 verified_at: 2026-07-28
 ---
@@ -38,7 +38,12 @@ verified_at: 2026-07-28
 [[知识库/欲望的转喻性.md|欲望的转喻性]]
 [[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]
 [[知识库/拉康的四种话语与四分之一转位.md|拉康的四种话语与四分之一转位]]
+[[知识库/Lettre d’a-mur：情书、对象a与墙.md|Lettre d’a-mur：情书、对象 a 与墙]]
+[[知识库/皮尔士的符号三元关系与解释项.md|皮尔士的符号三元关系与解释项]]
 
+[[texts/s19-ou-pire/translation/Leçon-05.md#s19-05-0215|s19-05-0215]]
+[[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0247|s19-12-0247]]
+[[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0248|s19-12-0248]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-16.md#s7-16-0083|s7-16-0083]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-16.md#s7-16-0084|s7-16-0084]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0034|s8-10-0034]]

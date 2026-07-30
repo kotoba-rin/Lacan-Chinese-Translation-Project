@@ -4,9 +4,9 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XIXb
+  - 研讨班XIX
   - 领域/语言学
   - 语言/法语
-  - 概念/否定
   - 概念/语法化
 verified_at: 2026-07-28
 ---
@@ -26,4 +26,5 @@ verified_at: 2026-07-28
 
 [[知识库/法语ne explétif与皮雄的ne discordantiel.md|法语 ne explétif 与皮雄的 ne discordantiel]]
 
+[[texts/s19-ou-pire/translation/Leçon-01.md#s19-01-0224|s19-01-0224]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-02.md#s19b-02-0287|s19b-02-0287]]

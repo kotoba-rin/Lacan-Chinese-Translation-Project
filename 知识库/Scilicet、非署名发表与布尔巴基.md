@@ -5,8 +5,8 @@ verification: 部分准确
 tags:
   - 研讨班XVII
   - 研讨班XIXb
+  - 研讨班XIX
   - 领域/出版史
-  - 领域/精神分析
   - 团体/布尔巴基
 verified_at: 2026-07-28
 ---
@@ -29,6 +29,10 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/拉康的四种话语与四分之一转位.md|拉康的四种话语与四分之一转位]]
+
+[[texts/s19-ou-pire/translation/Leçon-02.md#s19-02-0120|s19-02-0120]]
+[[texts/s19-ou-pire/translation/Leçon-02.md#s19-02-0121|s19-02-0121]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-13.md#s17-13-0215|s17-13-0215]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-13.md#s17-13-0227|s17-13-0227]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-07.md#s19b-07-0041|s19b-07-0041]]

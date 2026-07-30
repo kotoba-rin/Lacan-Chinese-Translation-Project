@@ -5,8 +5,8 @@ verification: 部分准确
 tags:
   - 研讨班VIII
   - 研讨班XVII
+  - 研讨班XIX
   - 领域/精神分析
-  - 人物/弗洛伊德
   - 概念/认同
 verified_at: 2026-07-28
 ---
@@ -25,6 +25,11 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Yad’lun、unien与unier.md|Yad’lun、unien 与 unier]]
+
+[[texts/s19-ou-pire/translation/Leçon-07.md#s19-07-0018|s19-07-0018]]
+[[texts/s19-ou-pire/translation/Leçon-07.md#s19-07-0020|s19-07-0020]]
+[[texts/s19-ou-pire/translation/Leçon-09.md#s19-09-0006|s19-09-0006]]
 [[texts/s8-le-transfert/translation/Leçon-24.md#s8-24-0071|s8-24-0071]]
 [[texts/s8-le-transfert/translation/Leçon-26.md#s8-26-0045|s8-26-0045]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-03.md#s17-03-0145|s17-03-0145]]

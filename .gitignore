@@ -1,29 +1,33 @@
 .DS_Store
 .cache/
+
+# Generated output
 book/
 bin/
 build/
 build.bk/
 pdf/
 reports/
+
+# Obsidian: track only the translation helper source
 .obsidian/*
 !.obsidian/plugins/
 .obsidian/plugins/*
 !.obsidian/plugins/lacan-translation-helper/
-!.obsidian/plugins/lacan-translation-helper/**
 .obsidian/plugins/lacan-translation-helper/data.json
 .obsidian/plugins/lacan-translation-helper/node_modules/
+
+# Local workspaces
 weread/
 test/
 develop_doc/
 .claudian/
-.agents/
-!.agents/
+
+# Agent skills: track only the knowledge-base skill
 .agents/*
 !.agents/skills/
 .agents/skills/*
 !.agents/skills/maintain-lacan-knowledge-base/
-!.agents/skills/maintain-lacan-knowledge-base/**
 
 # Private WordPress deployment automation: never commit or push
 /.agents/skills/deploy-mdbook-wordpress/

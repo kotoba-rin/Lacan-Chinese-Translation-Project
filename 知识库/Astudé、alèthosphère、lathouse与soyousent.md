@@ -4,9 +4,9 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班XVII
+  - 研讨班XIX
   - 领域/精神分析
   - 人物/拉康
-  - 概念/文字游戏
   - 概念/新造词
 verified_at: 2026-07-28
 ---
@@ -28,6 +28,9 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Lalangue：拉康的合写造词.md|Lalangue：拉康的合写造词]]
+
+[[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0146|s19-12-0146]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-07.md#s17-07-0060|s17-07-0060]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-12.md#s17-12-0046|s17-12-0046]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-13.md#s17-13-0041|s17-13-0041]]

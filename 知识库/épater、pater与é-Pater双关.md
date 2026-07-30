@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XIXb
-  - 领域/精神分析
+  - 研讨班XIX
   - 领域/语言学
   - 人物/拉康
   - 概念/双关
@@ -25,6 +25,9 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Incorreligionigibles：拉康的宗教双关造词.md|Incorreligionigibles：拉康的宗教双关造词]]
+
+[[texts/s19-ou-pire/translation/Leçon-11.md#s19-11-0026|s19-11-0026]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-07.md#s19b-07-0336|s19b-07-0336]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-07.md#s19b-07-0339|s19b-07-0339]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-07.md#s19b-07-0342|s19b-07-0342]]

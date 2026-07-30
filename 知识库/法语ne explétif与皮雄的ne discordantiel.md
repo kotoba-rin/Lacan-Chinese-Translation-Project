@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VII
+  - 研讨班XIX
   - 领域/语言学
-  - 人物/拉康
   - 语言/法语
   - 概念/否定
 verified_at: 2026-07-30
@@ -31,6 +31,9 @@ verified_at: 2026-07-30
 [[知识库/Spaltung：自我裂分、对象裂分与主体分裂.md|Spaltung：自我裂分、对象裂分与主体分裂]]
 [[知识库/法语否定词pas的语法化.md|法语否定词 pas 的语法化]]
 
+[[texts/s19-ou-pire/translation/Leçon-01.md#s19-01-0218|s19-01-0218]]
+[[texts/s19-ou-pire/translation/Leçon-01.md#s19-01-0219|s19-01-0219]]
+[[texts/s19-ou-pire/translation/Leçon-01.md#s19-01-0223|s19-01-0223]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-05.md#s7-05-0065|s7-05-0065]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-26.md#s7-26-0027|s7-26-0027]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-26.md#s7-26-0031|s7-26-0031]]
