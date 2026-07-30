@@ -73,7 +73,7 @@ mdBook 在线阅读地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 
 - 右键原文课文，可以选择“生成译文骨架”。
 - 右键译文课文，可以选择“为空译文填充分段骨架”。
-- 命令面板中可以运行 `Create translation skeleton from active lesson`、`Update translation progress for all lessons` 和 `Sync configured GitHub repositories`。
+- 命令面板中可以运行 `Create translation skeleton from active lesson`、`Batch create missing translation skeletons`、`Update translation progress for all lessons` 和 `Sync configured GitHub repositories`。
 - 插件设置页中可以配置仓库地址、Reader/Editer 模式、GitHub HTTP 代理、启动时自动同步和 fork 对照版本。
 
 模式说明：

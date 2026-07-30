@@ -23,4 +23,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/拉康对柏拉图与萨德的并置.md|拉康对柏拉图与萨德的并置]]
+
 [[texts/s8-le-transfert/translation/Leçon-06.md#s8-06-0043|s8-06-0043]]

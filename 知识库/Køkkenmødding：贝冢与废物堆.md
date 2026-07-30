@@ -3,6 +3,7 @@ title: Køkkenmødding：贝冢与废物堆
 type: knowledge-card
 verification: 部分准确
 tags:
+  - 研讨班VII
   - 研讨班VIII
   - 领域/考古学
   - 语言/丹麦语
@@ -20,7 +21,11 @@ verified_at: 2026-07-28
 
 - [Køkkenmøddinger (shell middens) in Denmark: a survey](https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/kokkenmoddinger-shell-middens-in-denmark-a-survey/76196E728EF17043C909D86EE9C086B9)（英文；史前考古学研究）
 - [Shell middens and coastal archaeology](https://link.springer.com/article/10.1007/s10814-023-09189-9)（英文；考古学综述）
+- [[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-20.md#s7-20-0029|《研讨班 VII》第二十课 s7-20-0029]]（法文；牡蛎壳堆、废物与“星球人化”）
 
 ## 关联
 
+[[知识库/拉斯科洞窟与旧石器时代壁画.md|拉斯科洞窟与旧石器时代壁画]]
+
+[[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-20.md#s7-20-0029|s7-20-0029]]
 [[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0039|s8-15-0039]]

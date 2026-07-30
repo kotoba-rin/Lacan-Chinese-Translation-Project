@@ -456,6 +456,16 @@ module.exports = class LacanTranslationHelper extends Plugin {
     });
 
     this.addCommand({
+      id: "create-missing-translation-skeletons",
+      name: "Batch create missing translation skeletons",
+      callback: () =>
+        this.runWithNotice(
+          () => this.createMissingTranslationSkeletons(),
+          "批量新建译文骨架失败"
+        ),
+    });
+
+    this.addCommand({
       id: "update-all-translation-progress",
       name: "Update translation progress for all lessons",
       callback: () =>
@@ -1401,6 +1411,109 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
 
     new Notice("当前文件不是 texts/*/original 或 texts/*/translation 下的 Leçon 文件。");
+  }
+
+  async createMissingTranslationSkeletons(options = {}) {
+    const files = Array.isArray(options.originalFiles)
+      ? options.originalFiles
+      : this.app.vault.getMarkdownFiles();
+    const scopeLabel = options.scopeLabel
+      ? String(options.scopeLabel)
+      : "全部研讨班";
+    const originalFiles = files
+      .filter((file) => file instanceof TFile && this.isOriginalLessonPath(file.path))
+      .sort((a, b) => a.path.localeCompare(b.path));
+
+    if (originalFiles.length === 0) {
+      if (options.notifyOnFinish !== false) {
+        new Notice(`${scopeLabel} 下未找到可处理原文文件。`);
+      }
+      return {
+        created: 0,
+        skipped: 0,
+        failed: 0,
+        createdBySeminar: {},
+        skippedBySeminar: {},
+        failedBySeminar: {},
+        total: 0,
+      };
+    }
+
+    const createdBySeminar = new Map();
+    const skippedBySeminar = new Map();
+    const failedBySeminar = new Map();
+    let created = 0;
+    let skipped = 0;
+    let failed = 0;
+
+    for (const originalFile of originalFiles) {
+      const seminar = this.seminarSlugFromPath(originalFile.path) || "未分类";
+      const paths = this.pathsFromOriginal(originalFile.path);
+      if (!paths) {
+        failed += 1;
+        failedBySeminar.set(
+          seminar,
+          (failedBySeminar.get(seminar) || 0) + 1
+        );
+        continue;
+      }
+
+      const existing = this.app.vault.getAbstractFileByPath(paths.translationPath);
+      if (existing instanceof TFile) {
+        skipped += 1;
+        skippedBySeminar.set(
+          seminar,
+          (skippedBySeminar.get(seminar) || 0) + 1
+        );
+        continue;
+      }
+
+      try {
+        await this.createTranslationForOriginal(originalFile, {
+          updateProgress: true,
+        });
+        created += 1;
+        createdBySeminar.set(
+          seminar,
+          (createdBySeminar.get(seminar) || 0) + 1
+        );
+      } catch (error) {
+        failed += 1;
+        failedBySeminar.set(
+          seminar,
+          (failedBySeminar.get(seminar) || 0) + 1
+        );
+        console.error(`Lacan Translation Helper: 课文译文骨架批量创建失败`, {
+          seminar,
+          lesson: originalFile.path,
+          error,
+        });
+      }
+    }
+
+    const mapToObject = (map) => {
+      const out = {};
+      for (const [key, value] of map) {
+        out[key] = value;
+      }
+      return out;
+    };
+
+    if (options.notifyOnFinish !== false) {
+      new Notice(
+        `批量新建译文骨架完成：${scopeLabel}，已新建 ${created} 个，已存在 ${skipped} 个，失败 ${failed} 个。`
+      );
+    }
+
+    return {
+      created,
+      skipped,
+      failed,
+      createdBySeminar: mapToObject(createdBySeminar),
+      skippedBySeminar: mapToObject(skippedBySeminar),
+      failedBySeminar: mapToObject(failedBySeminar),
+      total: originalFiles.length,
+    };
   }
 
   async runWithNotice(action, prefix) {
@@ -4012,6 +4125,11 @@ module.exports = class LacanTranslationHelper extends Plugin {
     return match ? match[1].split("-")[0].toLowerCase() : "";
   }
 
+  seminarSlugFromPath(path) {
+    const match = normalizePath(path).match(/^texts\/([^/]+)\//);
+    return match ? match[1] : "";
+  }
+
   lessonFromPath(path) {
     const name = path.split("/").pop() || "";
     const match = name.match(LESSON_FILE_RE);
@@ -5085,11 +5203,20 @@ class LacanLessonListBasesView extends ObsidianBasesView {
       const summary = details.createEl("summary", {
         cls: "lacan-bases-group-summary",
       });
+      const groupTitle = this.getGroupTitle(group);
 
       summary.createSpan({
         cls: "lacan-bases-group-title",
-        text: this.getGroupTitle(group),
+        text: groupTitle,
       });
+
+      this.createActionLink(
+        summary,
+        "批量新建译文",
+        () => this.createMissingTranslationsForEntries(entries, groupTitle),
+        "批量新建译文失败"
+      );
+
       summary.createSpan({
         cls: "lacan-bases-group-count",
         text: `${entries.length}`,
@@ -5166,6 +5293,10 @@ class LacanLessonListBasesView extends ObsidianBasesView {
   }
 
   createActionLink(parentEl, text, action) {
+    return this.createActionLinkWithNotice(parentEl, text, action, "打开课文失败");
+  }
+
+  createActionLinkWithNotice(parentEl, text, action, errorLabel = "打开课文失败") {
     const linkEl = parentEl.createEl("a", {
       cls: "lacan-bases-link",
       href: "#",
@@ -5173,7 +5304,19 @@ class LacanLessonListBasesView extends ObsidianBasesView {
     });
     linkEl.addEventListener("click", async (event) => {
       event.preventDefault();
-      await this.plugin.runWithNotice(action, "打开课文失败");
+      event.stopPropagation();
+      await this.plugin.runWithNotice(action, errorLabel);
+    });
+    return linkEl;
+  }
+
+  async createMissingTranslationsForEntries(entries, scopeLabel = "当前研讨班") {
+    const originalFiles = (entries || [])
+      .map((entry) => entry.file)
+      .filter((file) => file instanceof TFile && this.plugin.isOriginalLessonPath(file.path));
+    await this.plugin.createMissingTranslationSkeletons({
+      originalFiles,
+      scopeLabel,
     });
   }
 

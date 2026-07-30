@@ -24,4 +24,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/法语ne explétif与皮雄的ne discordantiel.md|法语 ne explétif 与皮雄的 ne discordantiel]]
+
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-02.md#s19b-02-0287|s19b-02-0287]]

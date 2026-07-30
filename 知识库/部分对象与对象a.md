@@ -3,9 +3,9 @@ title: 部分对象与对象 a
 type: knowledge-card
 verification: 需更正
 tags:
+  - 研讨班VII
   - 研讨班VIII
   - 领域/精神分析
-  - 人物/克莱因
   - 人物/拉康
   - 概念/对象a
 verified_at: 2026-07-28
@@ -29,14 +29,18 @@ verified_at: 2026-07-28
 - [Melanie Klein, Encyclopaedia Britannica](https://www.britannica.com/biography/Melanie-Klein)（英文；克莱因与客体关系理论背景）
 - [BnF authority record: Objet a](https://catalogue.bnf.fr/ark%3A/12148/cb180314665)（法文；法国国家图书馆主题资料）
 - [The Lacanian Subject](https://www2.arnes.si/~jzaloh/bestbooks/Bruce-Fink_The-Lacanian-Subject.pdf)（英文；Bruce Fink 研究）
+- [[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-16.md#s7-16-0083|本地法语原文 s7-16-0083]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-16.md#s7-16-0084|s7-16-0084]]（法文；萨德式身体法则、部分客体与“完整客体”预设）
 
 ## 关联
 
 [[知识库/Agalma的希腊语义与对象a.md|Agalma 的希腊语义与对象 a]]
+[[知识库/萨德作品中的规则化享乐与身体碎片化.md|萨德作品中的规则化享乐与身体碎片化]]
 [[知识库/欲望的转喻性.md|欲望的转喻性]]
 [[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]
 [[知识库/拉康的四种话语与四分之一转位.md|拉康的四种话语与四分之一转位]]
 
+[[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-16.md#s7-16-0083|s7-16-0083]]
+[[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-16.md#s7-16-0084|s7-16-0084]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0034|s8-10-0034]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0049|s8-10-0049]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0067|s8-10-0067]]
