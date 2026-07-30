@@ -3,6 +3,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -290,6 +291,181 @@ class ReadingNotesBuildTest(unittest.TestCase):
                 self.assertNotIn("[阅读笔记](notes/README.md)", readme)
             finally:
                 build_from_texts.BUILD_DIR = old_build_dir
+
+
+class KnowledgeBaseBuildTest(unittest.TestCase):
+    def test_builds_knowledge_pages_and_segment_backlinks_like_reading_notes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            old_texts_dir = build_from_texts.TEXTS_DIR
+            old_texts_index = build_from_texts.TEXTS_INDEX
+            old_build_dir = build_from_texts.BUILD_DIR
+            had_knowledge_dir = hasattr(build_from_texts, "KNOWLEDGE_DIR")
+            old_knowledge_dir = getattr(build_from_texts, "KNOWLEDGE_DIR", None)
+            build_from_texts.TEXTS_DIR = tmp_path / "texts"
+            build_from_texts.TEXTS_INDEX = build_from_texts.TEXTS_DIR / "index.md"
+            build_from_texts.BUILD_DIR = tmp_path / "build"
+            build_from_texts.KNOWLEDGE_DIR = tmp_path / "知识库"
+
+            try:
+                slug = "s8-le-transfert"
+                seminar = build_from_texts.TEXTS_DIR / slug
+                (seminar / "original").mkdir(parents=True)
+                (seminar / "translation").mkdir()
+                (seminar / "notes").mkdir()
+                (seminar / "original" / "Leçon-01.md").write_text(
+                    "\n".join(
+                        [
+                            "# Leçon 01",
+                            "",
+                            "<!-- id: s8-01-0001 -->",
+                            "",
+                            "Premier paragraphe.",
+                            "",
+                            "<!-- id: s8-01-0002 -->",
+                            "",
+                            "Deuxième paragraphe.",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+                (seminar / "translation" / "Leçon-01.md").write_text(
+                    "\n".join(
+                        [
+                            "# Leçon 01",
+                            "",
+                            "<!-- id: s8-01-0001 -->",
+                            "",
+                            "第一段译文。",
+                            "",
+                            "> <!-- 建言 -->",
+                            "> 第一段建言。",
+                            "",
+                            "<!-- id: s8-01-0002 -->",
+                            "",
+                            "第二段译文。",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+                (seminar / "notes" / "material.md").write_text(
+                    "\n".join(
+                        [
+                            "---",
+                            "title: 阅读材料",
+                            "segments:",
+                            "  - s8-01-0001",
+                            "---",
+                            "# 阅读材料",
+                            "",
+                            "笔记正文。",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+
+                build_from_texts.KNOWLEDGE_DIR.mkdir()
+                (build_from_texts.KNOWLEDGE_DIR / "README.md").write_text(
+                    "---\ntitle: 项目知识库\ntype: index\n---\n\n# 项目知识库\n",
+                    encoding="utf-8",
+                )
+                (build_from_texts.KNOWLEDGE_DIR / "对象 a.md").write_text(
+                    "\n".join(
+                        [
+                            "---",
+                            "title: 对象 a",
+                            "type: knowledge-card",
+                            "verification: 已核实",
+                            "tags:",
+                            "  - 研讨班VIII",
+                            "  - 领域/精神分析",
+                            "  - 概念/对象a",
+                            "verified_at: 2026-07-30",
+                            "---",
+                            "",
+                            "对象 a 的知识卡正文。",
+                            "",
+                            "## 来源",
+                            "",
+                            "- [[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0002|仅作为来源出现的第二段]]",
+                            "",
+                            "## 关联",
+                            "",
+                            "[[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0001|s8-01-0001]]",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+
+                with patch.object(
+                    sys,
+                    "argv",
+                    [str(SCRIPT_PATH), "--seminar", slug],
+                ):
+                    build_from_texts.main()
+
+                lesson = (
+                    build_from_texts.BUILD_DIR / slug / "Leçon-01.md"
+                ).read_text(encoding="utf-8")
+                knowledge_page_path = (
+                    build_from_texts.BUILD_DIR / "知识库" / "对象 a.md"
+                )
+                self.assertTrue(knowledge_page_path.exists())
+                knowledge_page = knowledge_page_path.read_text(encoding="utf-8")
+                summary = (build_from_texts.BUILD_DIR / "SUMMARY.md").read_text(
+                    encoding="utf-8"
+                )
+
+                first_segment = lesson[
+                    lesson.index('id="s8-01-0001"') : lesson.index(
+                        'id="s8-01-0002"'
+                    )
+                ]
+                second_segment = lesson[lesson.index('id="s8-01-0002"') :]
+                self.assertIn('class="reading-note-links"', first_segment)
+                self.assertIn(
+                    'class="reading-note-links knowledge-card-links"',
+                    first_segment,
+                )
+                self.assertIn(
+                    '<span class="reading-note-links-title">知识库</span>',
+                    first_segment,
+                )
+                self.assertIn(
+                    '<a href="../知识库/对象%20a.md">对象 a</a>',
+                    first_segment,
+                )
+                self.assertLess(
+                    first_segment.index('class="commentary-block"'),
+                    first_segment.index('aria-label="相关阅读笔记"'),
+                )
+                self.assertLess(
+                    first_segment.index('aria-label="相关阅读笔记"'),
+                    first_segment.index('aria-label="相关知识库"'),
+                )
+                self.assertNotIn("knowledge-card-links", second_segment)
+
+                self.assertTrue(knowledge_page.startswith("# 对象 a\n"))
+                self.assertNotIn("type: knowledge-card", knowledge_page)
+                self.assertIn(
+                    "[s8-01-0001](../s8-le-transfert/Leçon-01.md#s8-01-0001)",
+                    knowledge_page,
+                )
+                self.assertIn("- [知识库](知识库/README.md)", summary)
+                self.assertIn("  - [对象 a](知识库/对象%20a.md)", summary)
+                self.assertEqual(summary.count("(知识库/README.md)"), 1)
+            finally:
+                build_from_texts.TEXTS_DIR = old_texts_dir
+                build_from_texts.TEXTS_INDEX = old_texts_index
+                build_from_texts.BUILD_DIR = old_build_dir
+                if had_knowledge_dir:
+                    build_from_texts.KNOWLEDGE_DIR = old_knowledge_dir
+                else:
+                    del build_from_texts.KNOWLEDGE_DIR
 
 
 if __name__ == "__main__":

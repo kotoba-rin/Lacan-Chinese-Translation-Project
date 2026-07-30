@@ -7,6 +7,7 @@ The texts directory is the editable source of truth:
   texts/<seminar>/original/Leçon-xx.md
   texts/<seminar>/translation/Leçon-xx.md
   texts/<seminar>/notes/*.md
+  知识库/*.md
 
 This script combines the original French paragraphs and the Chinese
 translation blocks into build/<seminar>/Leçon-xx.md. Translation blocks may
@@ -21,10 +22,10 @@ or a grouped alignment:
 
 Grouped alignments are rendered once with all corresponding original
 paragraphs. Each rendered block is ordered as original, translation, notes,
-commentary, and reading note links. Quote blocks in translation content are
-classified as notes when their first visible text starts with "注"; other quote
-blocks are rendered as commentary. Reading notes are rendered into
-build/<seminar>/notes/ and linked back to translation paragraphs by segment ID.
+commentary, reading note links, and knowledge-card links. Quote blocks in
+translation content are classified as notes when their first visible text
+starts with "注"; other quote blocks are rendered as commentary. Reading notes
+and knowledge cards are linked back to translation paragraphs by segment ID.
 """
 
 from __future__ import annotations
@@ -42,6 +43,7 @@ from typing import Iterable
 ROOT = Path(__file__).resolve().parents[1]
 TEXTS_DIR = ROOT / "texts"
 TEXTS_INDEX = TEXTS_DIR / "index.md"
+KNOWLEDGE_DIR = ROOT / "知识库"
 BUILD_DIR = ROOT / "build"
 
 ID_RE = re.compile(r"<!--\s*id:\s*([^>\s]+)\s*-->")
@@ -74,8 +76,10 @@ SEGMENT_ID_TOKEN_RE = re.compile(r"\bs\d+[a-z]?-\d+-\d+\b", re.IGNORECASE)
 SEGMENT_ID_LINK_RE = re.compile(r"^s\d+[a-z]?-(\d+)-\d+$", re.IGNORECASE)
 FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*(?:\n|\Z)", re.DOTALL)
 FRONTMATTER_TITLE_RE = re.compile(r"^\s*title\s*:\s*(.+?)\s*$", re.MULTILINE)
+LEVEL_ONE_HEADING_RE = re.compile(r"^#\s+\S", re.MULTILINE)
 ASSET_DIR_NAMES = {"original", "translation", "notes"}
 NOTES_DIR_NAME = "notes"
+KNOWLEDGE_DIR_NAME = "知识库"
 
 
 @dataclass
@@ -109,6 +113,14 @@ class RenderedTranslation:
 
 @dataclass(frozen=True)
 class ReadingNote:
+    source_path: Path
+    output_relative_path: Path
+    title: str
+    segment_ids: list[str]
+
+
+@dataclass(frozen=True)
+class KnowledgeCard:
     source_path: Path
     output_relative_path: Path
     title: str
@@ -228,6 +240,17 @@ def split_obsidian_wiki_link(raw: str) -> tuple[str, str]:
 
 def source_output_relative_path(source_path: Path) -> Path | None:
     try:
+        knowledge_relative = source_path.resolve().relative_to(KNOWLEDGE_DIR.resolve())
+    except ValueError:
+        try:
+            knowledge_relative = source_path.relative_to(KNOWLEDGE_DIR)
+        except ValueError:
+            knowledge_relative = None
+
+    if knowledge_relative is not None:
+        return Path(KNOWLEDGE_DIR_NAME) / knowledge_relative
+
+    try:
         parts = source_path.resolve().relative_to(TEXTS_DIR.resolve()).parts
     except ValueError:
         try:
@@ -297,6 +320,11 @@ def resolve_wiki_target_output_path(target_path: str, source_path: Path) -> Path
     if not parts:
         return None
 
+    if parts[0] == KNOWLEDGE_DIR_NAME and len(parts) >= 2:
+        relative = Path(*parts[1:])
+        if relative.suffix.lower() != ".md":
+            relative = relative.with_suffix(".md")
+        return Path(KNOWLEDGE_DIR_NAME) / relative
     if parts[0] == "texts" and len(parts) >= 4:
         seminar = parts[1]
         folder = parts[2]
@@ -339,7 +367,18 @@ def relative_href_for_build_paths(source_output: Path | None, target_output: Pat
         href = posixpath.relpath(target_output.as_posix(), source_output.parent.as_posix())
     if fragment:
         href = f"{href}#{fragment}"
-    return href
+    return encode_link_href(href)
+
+
+def encode_link_href(href: str) -> str:
+    encoded: list[str] = []
+    unsafe = set(' ()<>[]{}|\\^`"')
+    for character in href:
+        if character.isspace() or character in unsafe:
+            encoded.extend(f"%{byte:02X}" for byte in character.encode("utf-8"))
+        else:
+            encoded.append(character)
+    return "".join(encoded)
 
 
 def convert_obsidian_image_embeds(text: str, source_path: Path) -> str:
@@ -827,6 +866,89 @@ def notes_by_segment(notes: Iterable[ReadingNote]) -> dict[str, list[ReadingNote
     return by_segment
 
 
+def knowledge_markdown_files(directory: Path) -> list[Path]:
+    if not directory.exists():
+        return []
+    return sorted(
+        path
+        for path in directory.rglob("*.md")
+        if path.name != "README.md"
+    )
+
+
+def markdown_section(text: str, heading: str) -> str:
+    lines = text.splitlines()
+    start: int | None = None
+    for index, line in enumerate(lines):
+        if line.strip() == f"## {heading}":
+            start = index + 1
+            break
+    if start is None:
+        return ""
+
+    end = len(lines)
+    for index in range(start, len(lines)):
+        if lines[index].startswith("## "):
+            end = index
+            break
+    return "\n".join(lines[start:end])
+
+
+def knowledge_segment_ids(body: str) -> list[str]:
+    association = markdown_section(body, "关联")
+    seen: set[str] = set()
+    segment_ids: list[str] = []
+    for match in OBSIDIAN_WIKI_LINK_RE.finditer(association):
+        target, _ = split_obsidian_wiki_link(match.group(1))
+        target_path, fragment = split_link_fragment(target.strip().replace("\\", "/"))
+        parts = [part for part in target_path.strip("/").split("/") if part]
+        segment_id = fragment.lower()
+        if (
+            len(parts) >= 4
+            and parts[0] == "texts"
+            and parts[2] == "translation"
+            and SEGMENT_ID_TOKEN_RE.fullmatch(segment_id)
+            and segment_id not in seen
+        ):
+            seen.add(segment_id)
+            segment_ids.append(segment_id)
+    return segment_ids
+
+
+def parse_knowledge_card(card_path: Path) -> KnowledgeCard:
+    raw_text = read_text(card_path)
+    _, raw_frontmatter, body = split_frontmatter(raw_text)
+    title = frontmatter_title(raw_frontmatter) or card_path.stem
+    return KnowledgeCard(
+        source_path=card_path,
+        output_relative_path=Path(KNOWLEDGE_DIR_NAME)
+        / card_path.relative_to(KNOWLEDGE_DIR),
+        title=title,
+        segment_ids=knowledge_segment_ids(body),
+    )
+
+
+def parse_knowledge_cards() -> list[KnowledgeCard]:
+    return [
+        parse_knowledge_card(path)
+        for path in knowledge_markdown_files(KNOWLEDGE_DIR)
+    ]
+
+
+def knowledge_cards_by_segment(
+    cards: Iterable[KnowledgeCard],
+) -> dict[str, list[KnowledgeCard]]:
+    by_segment: dict[str, list[KnowledgeCard]] = {}
+    for card in cards:
+        for segment_id in card.segment_ids:
+            by_segment.setdefault(segment_id, []).append(card)
+    for segment_cards in by_segment.values():
+        segment_cards.sort(
+            key=lambda card: (card.title, card.output_relative_path.as_posix())
+        )
+    return by_segment
+
+
 def render_reading_note(note: ReadingNote) -> str:
     raw_text = read_text(note.source_path)
     _, _, body = split_frontmatter(raw_text)
@@ -864,9 +986,47 @@ def render_notes_readme(seminar_dir: Path, notes: list[ReadingNote]) -> str:
     lines.extend(["## 材料目录", ""])
     for note in notes:
         segment_label = f" · {', '.join(note.segment_ids)}" if note.segment_ids else ""
-        lines.append(f"- [{note.title}]({note.output_relative_path.relative_to(NOTES_DIR_NAME).as_posix()}){segment_label}")
+        href = encode_link_href(
+            note.output_relative_path.relative_to(NOTES_DIR_NAME).as_posix()
+        )
+        lines.append(f"- [{note.title}]({href}){segment_label}")
     lines.append("")
     return "\n".join(lines).rstrip() + "\n"
+
+
+def render_knowledge_page(source_path: Path, title: str) -> str:
+    raw_text = read_text(source_path)
+    _, _, body = split_frontmatter(raw_text)
+    body = normalize_source_markdown(body.strip("\n"), source_path).strip()
+    if not LEVEL_ONE_HEADING_RE.search(body):
+        body = f"# {title}\n\n{body}" if body else f"# {title}"
+    return body.rstrip() + "\n"
+
+
+def build_knowledge_base(cards: list[KnowledgeCard] | None = None) -> None:
+    output_dir = BUILD_DIR / KNOWLEDGE_DIR_NAME
+    if output_dir.exists():
+        shutil.rmtree(output_dir)
+    if not KNOWLEDGE_DIR.exists():
+        return
+
+    cards = cards if cards is not None else parse_knowledge_cards()
+    source_readme = KNOWLEDGE_DIR / "README.md"
+    if source_readme.exists():
+        _, raw_frontmatter, _ = split_frontmatter(read_text(source_readme))
+        title = frontmatter_title(raw_frontmatter) or "知识库"
+        write_text(
+            output_dir / "README.md",
+            render_knowledge_page(source_readme, title),
+        )
+    else:
+        write_text(output_dir / "README.md", "# 知识库\n")
+
+    for card in cards:
+        write_text(
+            BUILD_DIR / card.output_relative_path,
+            render_knowledge_page(card.source_path, card.title),
+        )
 
 
 def rewrite_notes_readme_lesson_links(text: str) -> str:
@@ -1014,12 +1174,14 @@ def render_lesson(
     original_path: Path,
     translation_path: Path | None,
     reading_notes_by_segment: dict[str, list[ReadingNote]] | None = None,
+    knowledge_cards_by_segment: dict[str, list[KnowledgeCard]] | None = None,
 ) -> tuple[str, BuildStats]:
     lesson = parse_lesson(original_path)
     entries = parse_translation(translation_path) if translation_path else []
     by_anchor, covered_non_anchor = grouped_entries(entries)
     by_id = {paragraph.paragraph_id: paragraph for paragraph in lesson.paragraphs}
     reading_notes_by_segment = reading_notes_by_segment or {}
+    knowledge_cards_by_segment = knowledge_cards_by_segment or {}
 
     out: list[str] = []
     out.append(lesson.title)
@@ -1054,6 +1216,10 @@ def render_lesson(
                         original_blocks,
                         render_translation_entry(entry),
                         notes_for_paragraph_ids(paragraph_ids, reading_notes_by_segment),
+                        knowledge_cards_for_paragraph_ids(
+                            paragraph_ids,
+                            knowledge_cards_by_segment,
+                        ),
                     )
                 )
         else:
@@ -1065,6 +1231,10 @@ def render_lesson(
                     [paragraph],
                     RenderedTranslation(body='<p class="translation-missing">[无对应译文]</p>'),
                     notes_for_paragraph_ids([paragraph_id], reading_notes_by_segment),
+                    knowledge_cards_for_paragraph_ids(
+                        [paragraph_id],
+                        knowledge_cards_by_segment,
+                    ),
                 )
             )
 
@@ -1104,6 +1274,7 @@ def render_parallel_block(
     original_blocks: list[Paragraph],
     translation: RenderedTranslation,
     reading_notes: list[ReadingNote] | None = None,
+    knowledge_cards: list[KnowledgeCard] | None = None,
 ) -> list[str]:
     ids_text = " ".join(paragraph_ids)
     ids_label = ", ".join(escape(paragraph_id) for paragraph_id in paragraph_ids)
@@ -1139,6 +1310,8 @@ def render_parallel_block(
         out.extend(["", translation.commentary])
     if reading_notes:
         out.extend(["", *render_reading_note_links(reading_notes)])
+    if knowledge_cards:
+        out.extend(["", *render_knowledge_card_links(knowledge_cards)])
 
     out.extend(["</section>", ""])
     return out
@@ -1163,8 +1336,47 @@ def render_reading_note_links(reading_notes: list[ReadingNote]) -> list[str]:
     out.append('<span class="reading-note-links-title">阅读笔记</span>')
     links: list[str] = []
     for note in reading_notes:
-        href = escape(note.output_relative_path.as_posix(), quote=True)
+        href = escape(
+            encode_link_href(note.output_relative_path.as_posix()),
+            quote=True,
+        )
         title = escape(note.title)
+        links.append(f'<a href="{href}">{title}</a>')
+    out.append(f'<span class="reading-note-links-list">{" · ".join(links)}</span>')
+    out.append("</div>")
+    return out
+
+
+def knowledge_cards_for_paragraph_ids(
+    paragraph_ids: list[str],
+    knowledge_cards_by_segment: dict[str, list[KnowledgeCard]],
+) -> list[KnowledgeCard]:
+    cards: list[KnowledgeCard] = []
+    seen: set[Path] = set()
+    for paragraph_id in paragraph_ids:
+        for card in knowledge_cards_by_segment.get(paragraph_id, []):
+            if card.output_relative_path not in seen:
+                cards.append(card)
+                seen.add(card.output_relative_path)
+    return cards
+
+
+def render_knowledge_card_links(
+    knowledge_cards: list[KnowledgeCard],
+) -> list[str]:
+    out = [
+        '<div class="reading-note-links knowledge-card-links" aria-label="相关知识库">'
+    ]
+    out.append('<span class="reading-note-links-title">知识库</span>')
+    links: list[str] = []
+    for card in knowledge_cards:
+        href = escape(
+            encode_link_href(
+                posixpath.join("..", card.output_relative_path.as_posix())
+            ),
+            quote=True,
+        )
+        title = escape(card.title)
         links.append(f'<a href="{href}">{title}</a>')
     out.append(f'<span class="reading-note-links-list">{" · ".join(links)}</span>')
     out.append("</div>")
@@ -1257,13 +1469,17 @@ def seminar_sort_key(slug: str) -> tuple[int, str, str]:
     return 9999, "", slug
 
 
-def build_seminar(slug: str) -> BuildStats:
+def build_seminar(
+    slug: str,
+    knowledge_cards_by_segment: dict[str, list[KnowledgeCard]] | None = None,
+) -> BuildStats:
     seminar_dir = TEXTS_DIR / slug
     original_dir = seminar_dir / "original"
     translation_dir = seminar_dir / "translation"
     notes_dir = seminar_dir / NOTES_DIR_NAME
     output_dir = BUILD_DIR / slug
     stats = BuildStats(seminars={slug})
+    knowledge_cards_by_segment = knowledge_cards_by_segment or {}
 
     if not original_dir.exists():
         raise FileNotFoundError(f"Missing original directory: {original_dir}")
@@ -1286,6 +1502,7 @@ def build_seminar(slug: str) -> BuildStats:
             lesson_path,
             translation_path if translation_path.exists() else None,
             reading_notes_by_segment,
+            knowledge_cards_by_segment,
         )
         write_text(output_dir / output_name, rendered)
         stats.lessons += lesson_stats.lessons
@@ -1384,7 +1601,11 @@ def discover_build_seminars() -> list[str]:
         return []
     seminars = []
     for path in BUILD_DIR.iterdir():
-        if path.is_dir() and (path / "README.md").exists():
+        if (
+            path.name != KNOWLEDGE_DIR_NAME
+            and path.is_dir()
+            and (path / "README.md").exists()
+        ):
             seminars.append(path.name)
     return sorted(seminars, key=seminar_sort_key)
 
@@ -1406,6 +1627,28 @@ def write_summary() -> None:
     if glossary.exists():
         lines.append("- [全局术语表](glossary.md)")
 
+    knowledge_readme = BUILD_DIR / KNOWLEDGE_DIR_NAME / "README.md"
+    if knowledge_readme.exists():
+        lines.append(f"- [知识库]({KNOWLEDGE_DIR_NAME}/README.md)")
+        for card in sorted(
+            (
+                path
+                for path in (BUILD_DIR / KNOWLEDGE_DIR_NAME).rglob("*.md")
+                if path.name != "README.md"
+            ),
+            key=lambda path: path.relative_to(
+                BUILD_DIR / KNOWLEDGE_DIR_NAME
+            ).as_posix(),
+        ):
+            card_title = first_markdown_heading(read_text(card))
+            label = (
+                card_title.lstrip("#").strip()
+                if card_title
+                else card.stem
+            )
+            relative = encode_link_href(card.relative_to(BUILD_DIR).as_posix())
+            lines.append(f"  - [{label}]({relative})")
+
     for slug in discover_build_seminars():
         readme = BUILD_DIR / slug / "README.md"
         title = first_markdown_heading(read_text(readme)) or f"# {slug}"
@@ -1424,7 +1667,13 @@ def write_summary() -> None:
             ):
                 note_title_value = first_markdown_heading(read_text(note))
                 label = note_title_value.lstrip("#").strip() if note_title_value else note.stem
-                lines.append(f"    - [{label}]({slug}/notes/{note.relative_to(BUILD_DIR / slug / NOTES_DIR_NAME).as_posix()})")
+                note_relative = note.relative_to(
+                    BUILD_DIR / slug / NOTES_DIR_NAME
+                ).as_posix()
+                note_href = encode_link_href(
+                    f"{slug}/notes/{note_relative}"
+                )
+                lines.append(f"    - [{label}]({note_href})")
 
         for lesson in lesson_markdown_files(BUILD_DIR / slug):
             lesson_title = first_markdown_heading(read_text(lesson))
@@ -1471,7 +1720,13 @@ def main() -> None:
     except DuplicateIdError as error:
         raise SystemExit(str(error)) from None
 
-    stats = combine_stats(build_seminar(slug) for slug in seminars)
+    knowledge_cards = parse_knowledge_cards()
+    knowledge_by_segment = knowledge_cards_by_segment(knowledge_cards)
+    build_knowledge_base(knowledge_cards)
+    stats = combine_stats(
+        build_seminar(slug, knowledge_by_segment)
+        for slug in seminars
+    )
     if not args.skip_summary:
         write_summary()
 

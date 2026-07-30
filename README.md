@@ -127,6 +127,7 @@ Obsidian 语法兼容说明：
 - 不需要在源文本中手动改成 mdBook 的 MathJax 分隔符。构建时，`scripts/build_from_texts.py` 会把 Obsidian LaTeX 写法转换成 mdBook 可识别的形式。
 - 脚本也会适配 Obsidian 图片嵌入语法，例如 `![[texts/s8-le-transfert/original/assets/image5.jpeg|268]]`，构建时会转换为 mdBook 可以渲染的图片引用。
 - 阅读笔记放在 `texts/<seminar>/notes/`。译文中可以用 `[[notes/材料文件名|显示标题]]` 引入笔记，笔记中可以用 `[[s8-01-0001|显示标题]]` 精确链接到对应译文段落；构建后 mdBook 页面会转换为普通 HTML 链接，并在对应译文段落旁显示相关阅读笔记。
+- 知识卡放在 `知识库/`。卡片 `## 关联` 中指向译文分段的链接会在构建时生成反向入口，并在对应段落底部以“知识库：卡片标题”的形式显示。
 - 代码块和行内代码中的内容不会被当作 LaTeX 或图片语法转换。
 
 编辑译文时请注意 `id` 和 `ids` 的关系：
