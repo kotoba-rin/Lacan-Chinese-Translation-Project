@@ -24,3 +24,8 @@ develop_doc/
 .agents/skills/*
 !.agents/skills/maintain-lacan-knowledge-base/
 !.agents/skills/maintain-lacan-knowledge-base/**
+
+# Private WordPress deployment automation: never commit or push
+/.agents/skills/deploy-mdbook-wordpress/
+/scripts/deploy_mdbook_wordpress.py
+/tests/test_deploy_mdbook_wordpress.py

@@ -6,7 +6,9 @@
 
 拉康中文开放翻译计划的目标，是让更多中文读者能够参与到阅读拉康、翻译拉康和校订拉康的过程中。本项目以开放协作方式整理、翻译、校订和维护雅克·拉康研讨班及相关文本的中文材料。
 
-mdBook 在线阅读地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html](https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html)
+如需直接在线阅读本项目文本，请访问 [KotobaRin 言林](https://kotoba-rin.com/)。
+
+GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html](https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html)
 
 本仓库采用 Markdown 直译模式、GitHub Pull Request 协作、mdBook 构建和 GitHub Actions 发布到 GitHub Pages。项目结构、分支规则、本地构建和 PR 约定见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
 
