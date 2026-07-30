@@ -13,6 +13,7 @@ create-missing = false
 git-repository-url = "https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project"
 mathjax-support = true
 no-section-label = true
+sidebar-header-nav = false
 default-theme = "light"
 preferred-dark-theme = "navy"
 additional-css = ["theme/lacan-elegant.css", "theme/lacan-toggle.css"]
