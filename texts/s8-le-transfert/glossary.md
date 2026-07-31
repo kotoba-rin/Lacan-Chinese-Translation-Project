@@ -351,6 +351,7 @@
 | inconscient de l’autre | 他人的无意识 | 第十三课指出，对无意识的经验在逻辑上首先来自他人的无意识。 |
 | parole | 言说 | 第十二课大他者作为言说位置的语境。 |
 | lieu de la parole | 言说的位置 | 大他者 A 的定义。 |
+| énonciation | 言说 / 言说行为 | 与 *énoncé*（陈述）区分，不译作“能述”；第七课图式中的 *l’énonciation fondamentale* 译作“根本言说”。 |
 | Autron | Autron（保留原词） | 第十四课把 *Autre* 与物理学粒子名称常见的 *-on* 后缀拼合而成；正文保留法语造词，并以译注说明。 |
 | sujets de la parole | 言说的主体 | 第十二课中与主体尊严相对。 |
 | signifiant | 能指 |  |
