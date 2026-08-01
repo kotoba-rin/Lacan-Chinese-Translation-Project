@@ -296,11 +296,11 @@ max_segment_id: 130
 
 <!-- id: s7-02-0067 -->
 
-“最令人不快的，”他说，“是那些 *Stimmungen*。”
+“最令人不快的，”他说，“是那些心境（*Stimmungen*）。”
 
 <!-- id: s7-02-0068 -->
 
-〔“*Meine Analyse geht weiter, bleibt mein Hauptinteresse, alles noch dunkel, selbst die Probleme, aber ein behagliches Gefühl dabei, man brauchte nur in seine Vorratstäume zu greifen, um seinerzeit herauszuhohlen, was man braucht. Das Unangenehmste sind die Stimmungen, die einem die Wirklichkeit oft ganz verdecken.*”〕
+〔“*Meine Analyse geht weiter, bleibt mein Hauptinteresse, alles noch dunkel, selbst die Probleme, aber ein behagliches Gefühl dabei, man brauchte nur in seine Vorratstäume zu greifen, um seinerzeit herauszuhohlen, was man braucht. Das Unangenehmste sind die Stimmungen, die einem die Wirklichkeit oft ganz verdecken.*”——“我的分析继续进行，仍是我的主要兴趣。一切依旧晦暗，连问题本身也是如此，但我对此有一种安适感，仿佛到时候只需伸手到自己的储藏室里，就能取出所需之物。最令人不快的是那些心境，它们常常把现实完全遮蔽。”〕
 
 <!-- id: s7-02-0069 -->
 
@@ -308,7 +308,7 @@ max_segment_id: 130
 
 <!-- id: s7-02-0070 -->
 
-就其本性而言，*Stimmung* 向他显露出自我分析中需要寻找和追问的东西。他觉得，自己仿佛在一间暗室、那间储藏室里拥有全部所需之物；它们一直储存在那里等待着他，但其 *Wirklichkeit* 从根本上对他隐而不见。他的 *Stimmungen* 并不能引导他抵达那里。“最令人不快的是 *Stimmungen*”这句话的意思正在于此：它们妨碍他接近所寻找的现实。弗洛伊德经验最初正是作为一条寻找内在某处之现实的道路被提出的；由此，我们才能理解并感到它的起点何以独特。
+就其本性而言，心境（*Stimmung*）向他显露出自我分析中需要寻找和追问的东西。他觉得，自己仿佛在一间暗室、那间储藏室里拥有全部所需之物；它们一直储存在那里等待着他，但其现实（*Wirklichkeit*）从根本上对他隐而不见。他的这些心境并不能引导他抵达那里。“最令人不快的是这些心境”这句话的意思正在于此：它们妨碍他接近所寻找的现实。弗洛伊德经验最初正是作为一条寻找内在某处之现实的道路被提出的；由此，我们才能理解并感到它的起点何以独特。
 
 <!-- id: s7-02-0071 -->
 
@@ -478,7 +478,7 @@ max_segment_id: 130
 
 <!-- id: s7-02-0111 -->
 
-这意味着，精神装置的全部内部运作——下次我们会回头讨论怎样把它图式化——以摸索和纠错试验的方式进行。主体受到沿既有 *Bahnungen*（已开辟通道）发生的释放引导，经历一连串试探和绕行，逐渐形成联通，穿过对周围系统的检验，并检验当时在经验中出现的各种对象。作为这些对象的背景，某套 *Wunsch*（愿望）或 *Erwartung*（期待）的系统已经竖立起来；它所指向的是作为“预期快乐”的快乐。这套系统趋向在自己的领域中自主实现，原则上无须等待任何外来事物便可出现，因而会径直走向一种同现实所要求的启动方式最为相反的实现。[注]
+这意味着，精神装置的全部内部运作——下次我们会回头讨论怎样把它图式化——以摸索和纠错试验的方式进行。主体受到沿既已开辟的通道（*Bahnungen*）发生的释放引导，经历一连串试探和绕行，逐渐形成联通，穿过对周围系统的检验，并检验当时在经验中出现的各种对象。作为这些对象的背景，某套 *Wunsch*（愿望）或 *Erwartung*（期待）的系统已经竖立起来；它所指向的是作为“预期快乐”的快乐。这套系统趋向在自己的领域中自主实现，原则上无须等待任何外来事物便可出现，因而会径直走向一种同现实所要求的启动方式最为相反的实现。[注]
 
 > [注] 原文这一长句在 *à l’anastomose* 以后层层嵌套，末尾 *ce qui tend à se déclencher* 的指代也不明确。译文只保留可以由上下文确认的对照：愿望—期待系统倾向自主实现，次级过程则通过试探、绕行和现实检验纠正这项倾向。
 

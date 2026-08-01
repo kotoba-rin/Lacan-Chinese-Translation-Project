@@ -238,7 +238,7 @@ max_segment_id: 105
 
 > 原文汇总这里特意写了l’Autre (avec le grand A) ，那么就不用纠结就是那个喜闻乐见的大他者了。
 > 下面这位也是在法国家喻户晓的，自认为奉神之命行事的疯子，一个弥赛亚（最后同样这个“疯子”在审判中走向死亡）。 
-> ![](texts/s8-le-transfert/translation/assets/20260511_235651_image.png)
+> ![](texts/s8-le-transfert/original/assets/20260511_235651_image.png)
 > ——《圣女贞德蒙难记》1928 
 > 这部电影值得一看，不搜一下我都没意识到，电影上映的时候拉康竟然已经28岁了。   
 

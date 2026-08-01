@@ -294,7 +294,7 @@ max_segment_id: 87
 
 <!-- id: s8-03-0064 -->
 
-![](texts/s8-le-transfert/translation/assets/20260424_195410_image.png)
+![](texts/s8-le-transfert/original/assets/20260424_195410_image.png)
 
 <!-- id: s8-03-0065 -->
 <!-- ids: s8-03-0065 s8-03-0066 s8-03-0067 -->

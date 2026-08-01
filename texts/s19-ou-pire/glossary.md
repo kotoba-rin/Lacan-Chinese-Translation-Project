@@ -19,6 +19,7 @@
 | discordance | 不协调 | 第一课讨论法语否定时，同 *forclusion* 对举。 |
 | Bedeutung | 指称 | 弗雷格语境中与 *Sinn* 对举；历史引文若把它译作 *signification*，正文依原句说明。 |
 | Sinn | 意义 | 弗雷格语境中指命题的意义。 |
+| nécessaire / possible / impossible / contingent | 必然者 / 可能者 / 不可能者 / 偶然者 | 四种模态被名词化并彼此对举时用“者”；作普通形容词时依句法译作“必然的／可能的／不可能的／偶然的”。 |
 
 ## “一”的词族
 
@@ -39,15 +40,19 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | discours | 话语 | 指由稳定关系构成的结构；与 *parole*“言语／言说”区分。 |
+| dire / dit | 说 / 所说 | 具有概念地位时区分“说”这一事件与被听见的“所说”；普通动词依语境处理。 |
 | discours du maître | 主人话语 | 四种话语之一。 |
 | discours de l’hystérique | 癔症者话语 | 四种话语之一。 |
 | discours universitaire | 大学话语 | 四种话语之一。 |
 | discours de l’analyste | 分析家话语 | 四种话语之一；与泛指的 *discours analytique*“分析话语／精神分析话语”区分。 |
 | analysant | 分析者 | 强调正在分析中言说者的主动位置；不译“受分析者”。 |
+| analysé / analysée | 被分析者 | 只在原文明用被动形式时保留；不得据此把 *analysant* 改成“被分析者”。 |
+| patient / patiente | 患者 | 只在原文明用这一临床称呼或有意把它加引号时使用；不得替换 *analysant*。 |
 | transfert | 转移 | 沿用项目既有译名；不在本研讨班中改作“移情”。 |
 | sujet supposé savoir | 被假定知道的主体 | 转移的结构性支点；不是“真正拥有知识的主体”。 |
 | savoir-faire | 技艺性知识 | 指实践技艺中起作用的知识；普通固定语依语境可译“本领”。 |
 | astudé / astudés | *astudé* / *astudés* | 拉康造词，牵涉对象 $a$、学生与“被研究／被学化”的声音；正文保留原词，首次加译注。 |
+| lalangue | *lalangue* | 保留拉康的连写，不拆成 *la langue*，也不径译为一般的“语言”。 |
 | parlêtre / être parlant | 说话之在 | 保留说话与存在的复合关系；不直接简化为“人”。 |
 | sujet barré / sujet divisé | 被划杠的主体 / 分裂主体 | 符号统一写作 $\not S$。 |
 | Autre / grand Autre | 大他者 | 被划杠的大他者写作 $\not A$；其能指写作 $S(\not A)$。 |
@@ -57,6 +62,10 @@
 | semblant | 假象 | 指话语中的结构位置或在该位置发挥作用之物，不等于一般“假装”。 |
 | mi-dire | 半说 | 真理只能被“半说”。 |
 | désêtre | 去存在 | 首次出现保留法文；指分析家对既定存在位置的卸除。 |
+| ex-sister / ex-sistence | 外存在 / 外存在 | 保留从外部站立、凭借“不在”而存在的构词关系；首次出现保留法文。 |
+| réel / le Réel | 实在 / 实在界 | 指三界之一时用“实在界”；指作为不可能者而起作用的层面或性质时依句法用“实在”。 |
+| vérité | 真理 | 指话语中的真理位置或真理功能时不改写为日常意义的“真相”。 |
+| castration | 阉割 | 本册主要指由能指及阳具函数刻画的结构，不缩减为生理解剖事件。 |
 | lettre d’a-mur | 爱／a—墙之信 | 同 *lettre d’amour*“情书”同音，并把对象 $a$ 与 *mur*“墙”并置。 |
 | rêve de l’injection d’Irma | 伊尔玛注射之梦 | 弗洛伊德梦例；第十一、十二课统一使用这一题名。 |
 

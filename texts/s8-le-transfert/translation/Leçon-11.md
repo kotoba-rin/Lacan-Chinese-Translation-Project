@@ -295,7 +295,7 @@ max_segment_id: 100
 > 诗歌中的原句即是：     
 > 波阿斯并不知道身边有女人睡觉，路得不知道上帝对她有什么要求，
 > 但波阿斯此前梦到了上帝对他的安排，而路得不知道，但她在波阿斯脚边。    
->  ![[texts/s8-le-transfert/translation/assets/Pasted image 20260627151612.png]]。 
+>  ![[texts/s8-le-transfert/original/assets/Pasted image 20260627151612.png]]。
 > 大家可以在微信读书搜  《雨果诗选》 可以找到这首诗《波阿斯入睡》。   
 > 拉康引用这首诗里的关系挺贴切的，同样都是老少配。    
 > 不过在这首诗里我们难以分辨谁是爱者，谁是被爱者。     

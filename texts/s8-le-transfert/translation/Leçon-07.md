@@ -244,9 +244,9 @@ max_segment_id: 96
 > 我之前用python演示的代码做过一个抛硬币游戏的增强版。  
 > 这里我可以做一个视频演示一下这个代码。
 > 而这背后所强加在此之上的正是“数学”。
->  ![[texts/s8-le-transfert/translation/assets/20260520181157.png]] 
+>  ![[texts/s8-le-transfert/original/assets/20260520181157.png]]
 >  上面的图片出自《拉康式主体》相信大家大家不会太陌生。
->  ![[texts/s8-le-transfert/translation/assets/20260520181417.png]]
+>  ![[texts/s8-le-transfert/original/assets/20260520181417.png]]
 >  好了，我因为读到这一段而特意做了一个视频
 > [为什么拉康用数学符号谈无意识？](https://www.bilibili.com/video/BV1ThLS6FEd1)  
 

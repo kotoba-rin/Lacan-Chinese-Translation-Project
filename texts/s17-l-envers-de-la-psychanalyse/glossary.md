@@ -22,7 +22,7 @@
 | agent | 施动者 | 四话语公式左上位置的功能名；不译“代理人”。 |
 | autre | 他者 | 四话语公式右上位置；普通语境可译“另一个人/另一个”。 |
 | travail | 劳作 / 劳动 | 作为四话语右上位置的功能时译“劳作”；政治经济语境可译“劳动”。 |
-| vérité | 真理 | 四话语公式左下位置，同时也是全书反复讨论的真理功能。 |
+| vérité | 真理 | 四话语公式左下位置，也是全书反复讨论的真理功能；原文的重复、限制和否定均须保留，不能改写成概括性的“真相”。 |
 | production | 产出 | 四话语公式右下位置；避免与一般工业“生产”机械混同。 |
 | quart de tour | 四分之一转 | 四个要素在四个位置间轮换的结构操作。 |
 | appareil | 装置 | 指四话语的书写装置或结构装置；普通器具义另按语境处理。 |
@@ -84,7 +84,7 @@
 | non-savoir | 非知识 | 保留它同“知识”的构词关系；不自动等同于一般的“无知”。 |
 | connaissance | 认识 / 认知 | 依语境处理；不得无差别地并入 *savoir*。 |
 | savoir-faire | 技艺性知识 | 第一课奴隶掌握的实践技艺语境；普通固定语可译“本领/技艺”。 |
-| savoir du Maître / savoir de Maître | 主人的知识 | 不是说主人亲自拥有全部知识，而是知识被主人话语抽取和编排。 |
+| savoir du Maître / savoir de Maître | 主人的知识 | 不是说主人亲自拥有全部知识，而是知识被主人的话语抽取和编排。 |
 | savoir absolu | 绝对知识 | 黑格尔语境。 |
 | tout-savoir | “全是知识” | 拉康明确把它同 *savoir de tout*“万事皆知”区分；正文首次出现须保留法文并说明。 |
 | savoir de tout | 万事皆知 | 与 *tout-savoir* 对举。 |
@@ -96,7 +96,6 @@
 | énonciation | 言说行为 | 指发出陈述的行为与位置。 |
 | sens | 意义 | 普通“方向”义另按上下文处理。 |
 | signification | 意指 / 含义 | 依句法选择；与 *sens* 不机械合并。 |
-| vérité | 真理 | 原文的重复、限制和否定均须保留，不能改写成概括性“真相”。 |
 | affect | 情动 | 精神分析概念语境统一译“情动”；动词 *affecter* 仍依句法译“影响/赋予/使受作用”。 |
 | être parlant | 说话存在者 | 保留“存在”与“说话”的双重构造，不缩写为“人”。 |
 | mi-dire | 半说 | 真理只能“半说”；不在各课间轮换为“半言”。 |
@@ -157,7 +156,7 @@
 | exploitation | 剥削 |  |
 | valeur d'échange | 交换价值 |  |
 | valeur d'usage | 使用价值 |  |
-| production | 生产 / 产出 | 政治经济语境用“生产”；四话语位置用“产出”。 |
+| production (économie politique / usage général) | 生产 | 政治经济与一般生产语境使用；四话语右下位置的 *production* 另依结构术语译“产出”。 |
 | université | 大学 | 指制度时用“大学”；作为话语结构的名称用“大学话语”。 |
 | bureaucratie | 官僚制 | 不自动等同于大学话语，只在原文建立关系时联系。 |
 | ségrégation | 隔离 / 隔离化 | 依句法选择；保留其制度性和结构性。 |
@@ -175,7 +174,7 @@
 | a-chose | 非物（a-chose） | 保留省字符与构词痕迹；首次出现保留法文。 |
 | Verborgenheit | 隐匿（Verborgenheit） | 第十三课用于说明真理的隐藏维度；首次出现保留德文。 |
 | hontologie | 羞耻论（hontologie） | *honte*“羞耻”与 *ontologie*“本体论”的双关；首次出现保留法文。 |
-| worst-seller | “最差畅销书”（worst-seller） | 与 *best-seller* 构成反讽双关，首次出现保留英文。 |
+| worst-seller | “最滞销书”（worst-seller） | 与 *best-seller* 构成反讽双关，首次出现保留英文。 |
 | Wo es war, soll Ich werden | 凡它曾在之处，我应当到那里去 | 正文首次出现保留德文；具体句法争议放入译注，不把 *Es/Ich* 简化为日常“它/我”。 |
 | impossible Berufe / unmöglichen Berufe | 不可能的职业 | 弗洛伊德关于治理、教育、分析的表达；首次保留德文原词。 |
 | féroce ignorance | 猛烈的无知 | 指雅威及父亲位置时保留 *féroce* 的强度，不弱化为“不了解”。 |

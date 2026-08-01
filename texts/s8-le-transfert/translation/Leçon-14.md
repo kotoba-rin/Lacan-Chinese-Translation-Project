@@ -339,7 +339,7 @@ max_segment_id: 93
    
 不要忘记，在这里，至少原则上，表达这项要求的任务已经不再交给那个卷入需要与要求之戏剧性纽结的器官本身。换句话说，除了耶罗尼米斯·博斯的画，人并不用屁股说话。   
 
-> ![[assets/El_jardín_de_las_Delicias,_de_El_Bosco.jpg]]
+> ![[texts/s8-le-transfert/original/assets/El_jardín_de_las_Delicias,_de_El_Bosco.jpg]]
 > 《人间乐园》  耶罗尼米斯·博斯
 
 <!-- id: s8-14-0072 -->

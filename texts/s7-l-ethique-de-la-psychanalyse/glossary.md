@@ -125,7 +125,7 @@
 | Ichlibido | 自我力比多 | 与 *Objektlibido*“客体力比多”对举。 |
 | Objektlibido | 客体力比多 | 与 *Ichlibido*“自我力比多”对举；弗洛伊德明确说升华涉及客体力比多。 |
 | Ich-Ideal | 自我理想 | 与 *Ideal-Ich*“理想自我”区分。 |
-| Ideal-Ich | 理想自我 | 与 *Ich-Ideal*“自我理想”区分。 |
+| Ideal-Ich / Idealich | 理想自我 | 与 *Ich-Ideal*“自我理想”区分；*Idealich* 是引文中出现的连写形式。 |
 | Real-Ich | 实在自我 | 《纲要》语境中的假设性组织；同 *Lust-Ich*“快乐自我”区分，不等同于三界中的实在界。 |
 | Lust-Ich | 快乐自我 | 精神组织最初轮廓显现之处；其现象性质同表象代表系统的投注相连。 |
 | affect-signal / Signal | 情感信号 / 信号 | 第八课强调情感不是能指，而具有约定性、可移置的信号功能；焦虑也被弗洛伊德归入信号。 |
@@ -153,7 +153,7 @@
 | expérience de satisfaction / Befriedigungserlebnis | 满足经验 | 人的原初无助中由身旁之人的援助促成；真实发生，却在后来寻找对象时具有原型或神话功能。首次出现保留德文。 |
 | indice de réalité | 现实指标 | 它只是知觉系统提供的指标，必须在自我抑制已经生效时才可作为区分知觉与记忆表象的“标准”；不自动等于“现实原则”。 |
 | névrose actuelle | 现实神经症 | 指符号中介未发生、张力以直接现实性显现的一组弗洛伊德临床分类；与一般“当下的神经症”区分。 |
-| représentation de mot | 词表象 | 与 *représentation de chose*“物表象”区分。 |
+| représentation de mot / Wortvorstellung / Wortvorstellungen | 词表象 | 与 *représentation de chose*“物表象”区分；德文单复数首次出现时保留原词。 |
 | représentation de chose | 物表象 | 与 *représentation de mot*“词表象”区分；不改作一般“对象表象”。 |
 | Nebenmensch | 身旁之人（Nebenmensch） | 《纲要》术语；作为说话主体中介满足、求助、思想过程和主体性的形成。首次出现保留德文。 |
 | spezifische Aktion | 特定行动 | 同重新找到的对象和满足相联系；与 *spezifische Reaktion*“特定反应”区分。 |
@@ -189,6 +189,6 @@
 | --- | --- | --- |
 | Sigmund Freud / Freud | 西格蒙德·弗洛伊德 / 弗洛伊德 |  |
 | Aristote | 亚里士多德 |  |
-| Jeremy Bentham | 杰里米·边沁 |  |
+| Jeremy Bentham / Bentham | 杰里米·边沁 / 边沁 | 首次出现用全名，后文可用简称。 |
 | Georg Wilhelm Friedrich Hegel / Hegel | 格奥尔格·威廉·弗里德里希·黑格尔 / 黑格尔 |  |
 | Marquis de Sade / Sade | 萨德侯爵 / 萨德 |  |

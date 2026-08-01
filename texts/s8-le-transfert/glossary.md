@@ -237,13 +237,9 @@
 | De natura deorum | 论神性 | 西塞罗著作；第十一课指定阅读。 |
 | Télémachie | 特勒马科斯纪 | 《奥德赛》前三卷传统称谓。 |
 | Antigone | 安提戈涅 | 索福克勒悲剧；第十一课 ἵμερος ἐναρής 注释出处。 |
-| Amphitryon | 安菲特律翁 | 吉罗杜剧作；人物同名处理。 |
 | De Trinitate | 论三位一体 | 圣奥古斯丁著作；第十一课三位一体关系注释。 |
 | Introduction à l’étude de Saint Augustin | 圣奥古斯丁思想导论 | 艾蒂安·吉尔松著作。 |
 | Divine Comédie / Enfer | 神曲 / 地狱篇 | 第十一课但丁“永恒之爱”铭文语境。 |
-| Hécube | 赫库柏 | 欧里庇得斯悲剧题名；人物同名处理。 |
-| Iphigénie | 伊菲革涅亚 | 作为拉辛悲剧题名时同名处理。 |
-| Andromaque | 安德洛玛刻 | 作为拉辛悲剧题名时同名处理。 |
 | Bajazet | 巴雅泽 | 拉辛悲剧题名。 |
 | Crainte et tremblement | 恐惧与战栗 | 克尔凯郭尔著作。 |
 | In vino veritas | 酒中真理 | 克尔凯郭尔《人生道路上的诸阶段》中的文本。 |
@@ -530,7 +526,7 @@
 | Verbigération | 词语奔逸 | 第十二课注释中说明精神病患者无连贯词语系列的滔滔不绝。 |
 | désaffection / désaffectation | 失去感情 / 撤回投入 | 第十三课连续用词；后者另有“调离、撤出原有用途”之意，译文以递进保留双关。 |
 | dépersonnalisation | 人格解体 | 第十三课莫尼-凯尔案例中，病人与分析家先后经历的近乎人格解体状态。 |
-| patient | 病人 / 承受者 | 第十三课“成为坏客体的 *patient*”兼有病人与被动承受者两义，正文用斜线并列。 |
+| patient | 病人 / 承受者 | 第十三课“成为坏对象的 *patient*”兼有病人与被动承受者两义，正文用斜线并列。 |
 | demanding patient | 苛求的病人 | *Demanding* 强于一般“提出要求”，第十三课按“步步紧逼的苛求”理解。 |
 | noèse | 意向活动 | 哲学、现象学语境；第十课讨论对象等价性时出现。 |
 | idéal du moi | 自我理想 | 与 *moi idéal* 区分。 |

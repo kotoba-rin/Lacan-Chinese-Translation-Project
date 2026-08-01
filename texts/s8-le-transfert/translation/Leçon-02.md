@@ -368,7 +368,7 @@ max_segment_id: 101
 <!-- ids: s8-02-0068 s8-02-0069 -->
 
 我以另一种形式提醒你们，我在前一期研讨班末尾已经指出过的一件事，即倒错（perversion）与文化（culture）之关系的图示，就文化与社会相区分而言。
-![](texts/s8-le-transfert/translation/assets/20260415_164758_image.png)
+![](texts/s8-le-transfert/original/assets/20260415_164758_image.png)
 
 <!-- id: s8-02-0070 -->
 
