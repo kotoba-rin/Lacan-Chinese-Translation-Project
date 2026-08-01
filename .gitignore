@@ -22,6 +22,7 @@ weread/
 test/
 develop_doc/
 .claudian/
+OCR/
 
 # Agent skills: track only the knowledge-base skill
 .agents/*

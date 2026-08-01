@@ -826,7 +826,7 @@ Ailleurs, à mon séminaire, nous parlerons de la *mésologie*, qu'est-ce qui a 
 
 <!-- id: s19b-03-0202 -->
 
-![33a](assets/image11.jpeg){width="1.1083300524934383in" height="1.4067268153980752in"} ![34a](assets/image12.jpeg){width="1.015599300087489in" height="1.4070286526684164in"}
+![33a](texts/s19b-le-savoir-du-psychanalyste/original/assets/image11.jpeg){width="1.1083300524934383in" height="1.4067268153980752in"} ![34a](texts/s19b-le-savoir-du-psychanalyste/original/assets/image12.jpeg){width="1.015599300087489in" height="1.4070286526684164in"}
 
 <!-- id: s19b-03-0203 -->
 
@@ -946,7 +946,7 @@ C'est pour ça que celui que nous appellerons *l'homme* dans l'occasion, il s'im
 
 <!-- id: s19b-03-0227 -->
 
-![33a](assets/image11.jpeg){width="0.9760968941382328in" height="1.2388932633420822in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\L\'étourdit\\Kleinbagel_cross_section.png](assets/image13.png){width="1.2412281277340333in" height="1.244811898512686in"}
+![33a](texts/s19b-le-savoir-du-psychanalyste/original/assets/image11.jpeg){width="0.9760968941382328in" height="1.2388932633420822in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\L\'étourdit\\Kleinbagel_cross_section.png](assets/image13.png){width="1.2412281277340333in" height="1.244811898512686in"}
 
 <!-- id: s19b-03-0228 -->
 
@@ -1038,7 +1038,7 @@ Les *murs*, avant de prendre statut, de prendre forme, c'est *logique­ment* que
 
 <!-- id: s19b-03-0249 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
 
 <!-- id: s19b-03-0250 -->
 
@@ -1142,7 +1142,7 @@ Si je peux, avec le temps, avoir réussi *à édifier*\...
 
 <!-- id: s19b-03-0273 -->
 
-![http://serge.mehl.free.fr/anx/anx_gif/surfaceR.gif](assets/image14.png){width="0.5305555555555556in" height="0.8506944444444444in"} ![47.jpg](assets/image15.jpeg){width="0.7202580927384077in" height="1.1498578302712161in"}
+![http://serge.mehl.free.fr/anx/anx_gif/surfaceR.gif](assets/image14.png){width="0.5305555555555556in" height="0.8506944444444444in"} ![47.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image15.jpeg){width="0.7202580927384077in" height="1.1498578302712161in"}
 
 ## Notes
 

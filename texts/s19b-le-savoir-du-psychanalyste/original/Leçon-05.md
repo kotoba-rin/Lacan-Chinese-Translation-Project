@@ -254,7 +254,7 @@ Je le prétends néanmoins, et je le soutiens de ce que vous voyez au tableau, q
 
 <!-- id: s19b-05-0062 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
 
 <!-- id: s19b-05-0063 -->
 
@@ -474,7 +474,7 @@ pour préciser : rendre l'Autre absolument étranger à ce qui pourrait être i
 
 <!-- id: s19b-05-0116 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image26.jpeg){width="1.3552624671916012in" height="0.7549409448818898in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image26.jpeg){width="1.3552624671916012in" height="0.7549409448818898in"}
 
 <!-- id: s19b-05-0117 -->
 
@@ -494,7 +494,7 @@ J'ai dit que si nous pouvons dire *qu'il n'y a pas de rapport sexuel*, ce n'est 
 
 <!-- id: s19b-05-0121 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image27.jpeg){width="1.194232283464567in" height="0.7653488626421697in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image27.jpeg){width="1.194232283464567in" height="0.7653488626421697in"}
 
 <!-- id: s19b-05-0122 -->
 
@@ -540,7 +540,7 @@ Si je repousse cette *ancienne écriture* au nom du *discours analytique*, vous 
 
 <!-- id: s19b-05-0132 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
 
 <!-- id: s19b-05-0133 -->
 
@@ -598,7 +598,7 @@ Et c'est très précisément ce qu'inscrivent les formules que j'ai mises au tab
 
 <!-- id: s19b-05-0146 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
 
 <!-- id: s19b-05-0147 -->
 
@@ -740,7 +740,7 @@ J'ai parlé, après *la négation,* de *la conjonction*.
 
 <!-- id: s19b-05-0181 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
 
 <!-- id: s19b-05-0182 -->
 
@@ -800,7 +800,7 @@ Nous semblons ici *tenir quelque chose* qui donne espoir, à savoir qu'à tout l
 
 <!-- id: s19b-05-0196 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
 
 <!-- id: s19b-05-0197 -->
 
@@ -1104,7 +1104,7 @@ Il est clair qu'ici encore l'*implication,* elle, ne saurait fonctionner qu'entr
 
 <!-- id: s19b-05-0269 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\2a.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image25.jpeg){width="1.4166666666666667in" height="0.7688506124234471in"}
 
 <!-- id: s19b-05-0270 -->
 

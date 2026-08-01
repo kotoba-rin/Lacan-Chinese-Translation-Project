@@ -414,7 +414,7 @@ C'est tout particulièrement propice à ce qui s'offre au *discours universitair
 
 <!-- id: s19b-06-0100 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image28.jpeg){width="1.3756977252843394in" height="0.7653674540682415in"} ![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image28.jpeg){width="1.3756977252843394in" height="0.7653674540682415in"} ![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
 
 <!-- id: s19b-06-0101 -->
 
@@ -1224,7 +1224,7 @@ Voici ce que j'énonce.
 
 <!-- id: s19b-06-0293 -->
 
-![33a](assets/image32.jpeg){width="0.2757228783902012in" height="0.7668536745406824in"} ![34a](assets/image33.jpeg){width="1.0097965879265092in" height="0.799057305336833in"}
+![33a](texts/s19b-le-savoir-du-psychanalyste/original/assets/image32.jpeg){width="0.2757228783902012in" height="0.7668536745406824in"} ![34a](assets/image33.jpeg){width="1.0097965879265092in" height="0.799057305336833in"}
 
 <!-- id: s19b-06-0294 -->
 

@@ -28,4 +28,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/弗洛伊德.md|弗洛伊德]]
+
 [[texts/s8-le-transfert/translation/Leçon-12.md#s8-12-0032|s8-12-0032]]

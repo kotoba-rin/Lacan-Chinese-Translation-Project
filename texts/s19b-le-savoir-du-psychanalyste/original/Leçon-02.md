@@ -812,7 +812,7 @@ pas des discours historiques, pas de la mythologie,
 
 <!-- id: s19b-02-0194 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
 
 <!-- id: s19b-02-0195 -->
 

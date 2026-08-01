@@ -108,7 +108,7 @@ Il y a un type, comme ça, il y a 3000 ans, qui était certainement à l'acmé d
 
 <!-- id: s19b-04-0026 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\Illustrations\\450px-Rembrandt-Belsazar 2.jpg](assets/image16.jpeg){width="2.2805982064741905in" height="1.8131299212598426in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\Illustrations\\450px-Rembrandt-Belsazar 2.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image16.jpeg){width="2.2805982064741905in" height="1.8131299212598426in"}
 
 <!-- id: s19b-04-0027 -->
 
@@ -176,7 +176,7 @@ Eh bien, c'est pas encourageant !
 
 <!-- id: s19b-04-0042 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
 
 <!-- id: s19b-04-0043 -->
 
@@ -244,7 +244,7 @@ Comme vous le voyez, pour s'asseoir ça n'est pas de tout repos : ni l'un, ni l
 
 <!-- id: s19b-04-0059 -->
 
-![26a](assets/image17.jpeg){width="1.2424956255468067in" height="1.2758956692913386in"} ![27a](assets/image18.jpeg){width="1.5438232720909886in" height="1.203772965879265in"}![](assets/image19.png){width="3.1488013998250217in" height="1.0655719597550306in"}
+![26a](texts/s19b-le-savoir-du-psychanalyste/original/assets/image17.jpeg){width="1.2424956255468067in" height="1.2758956692913386in"} ![27a](texts/s19b-le-savoir-du-psychanalyste/original/assets/image18.jpeg){width="1.5438232720909886in" height="1.203772965879265in"}![](assets/image19.png){width="3.1488013998250217in" height="1.0655719597550306in"}
 
 <!-- id: s19b-04-0060 -->
 
@@ -302,7 +302,7 @@ C'est-à-dire que tous les dits *tétraèdres* seront strictement équivalents, 
 
 <!-- id: s19b-04-0073 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
 
 <!-- id: s19b-04-0074 -->
 
@@ -314,7 +314,7 @@ Selon ceci qui a une propriété, d'un des *sommets* : la divergence, mais san
 
 <!-- id: s19b-04-0076 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\29.jpg](assets/image20.jpeg){width="1.4458333333333333in" height="0.8621117672790901in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\29.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image20.jpeg){width="1.4458333333333333in" height="0.8621117672790901in"}
 
 <!-- id: s19b-04-0077 -->
 
@@ -514,7 +514,7 @@ Alors que partout ailleurs, au moins pour nous, ça semble aller « *à la coul
 
 <!-- id: s19b-04-0122 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\29.jpg](assets/image20.jpeg){width="1.4458333333333333in" height="0.8621117672790901in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\29.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image20.jpeg){width="1.4458333333333333in" height="0.8621117672790901in"}
 
 <!-- id: s19b-04-0123 -->
 
@@ -778,7 +778,7 @@ Il est déterminé comme *sujet*, c'est-à-dire qu'*il est divisé comme sujet*�
 
 <!-- id: s19b-04-0186 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image21.jpeg){width="1.1842104111986003in" height="0.6817793088363955in"} ![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image21.jpeg){width="1.1842104111986003in" height="0.6817793088363955in"} ![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
 
 <!-- id: s19b-04-0187 -->
 
@@ -1142,7 +1142,7 @@ Il est bien sûr qu'il y en a eu d'autres, dont nous ne connaissons plus rien qu
 
 <!-- id: s19b-04-0276 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
 
 <!-- id: s19b-04-0277 -->
 
@@ -1150,7 +1150,7 @@ Il est bien sûr qu'il y en a eu d'autres, dont nous ne connaissons plus rien qu
 
 <!-- id: s19b-04-0278 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1h .jpg](assets/image23.jpeg){width="1.4131364829396325in" height="1.2324562554680665in"}![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1h .jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image23.jpeg){width="1.4131364829396325in" height="1.2324562554680665in"}![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
 
 <!-- id: s19b-04-0279 -->
 
@@ -1338,7 +1338,7 @@ Si *la vérité* ne peut jamais que se *mi-dire*, c'est là le noyau, c'est là 
 
 <!-- id: s19b-04-0322 -->
 
-![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\37.jpg](assets/image24.jpeg){width="2.144737532808399in" height="1.054478346456693in"}
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\37.jpg](texts/s19b-le-savoir-du-psychanalyste/original/assets/image24.jpeg){width="2.144737532808399in" height="1.054478346456693in"}
 
 <!-- id: s19b-04-0323 -->
 

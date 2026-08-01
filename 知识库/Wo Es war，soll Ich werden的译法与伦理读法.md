@@ -26,6 +26,7 @@ verified_at: 2026-07-30
 
 ## 关联
 
+[[知识库/弗洛伊德.md|弗洛伊德]]
 [[知识库/Spaltung：自我裂分、对象裂分与主体分裂.md|Spaltung：自我裂分、对象裂分与主体分裂]]
 
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-01.md#s7-01-0043|s7-01-0043]]
