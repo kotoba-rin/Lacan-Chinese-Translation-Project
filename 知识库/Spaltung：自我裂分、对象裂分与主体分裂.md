@@ -32,6 +32,7 @@ verified_at: 2026-07-30
 [[知识库/阿里斯托芬的球形人神话.md|阿里斯托芬的球形人神话]]
 [[知识库/Wo Es war，soll Ich werden的译法与伦理读法.md|Wo Es war，soll Ich werden 的译法与伦理读法]]
 [[知识库/法语ne explétif与皮雄的ne discordantiel.md|法语 ne explétif 与皮雄的 ne discordantiel]]
+[[知识库/梅兰妮·克莱因.md|梅兰妮·克莱因]]
 
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-26.md#s7-26-0031|s7-26-0031]]
 [[texts/s8-le-transfert/translation/Leçon-04.md#s8-04-0084|s8-04-0084]]

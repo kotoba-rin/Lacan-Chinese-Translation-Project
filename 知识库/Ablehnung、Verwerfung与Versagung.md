@@ -3,10 +3,10 @@ title: Ablehnung、Verwerfung 与 Versagung
 type: knowledge-card
 verification: 部分准确
 tags:
+  - 研讨班I
   - 研讨班VII
   - 研讨班VIII
   - 领域/精神分析
-  - 人物/弗洛伊德
   - 语言/德语
 verified_at: 2026-07-30
 ---
@@ -16,6 +16,8 @@ verified_at: 2026-07-30
 弗洛伊德在《终结的与无尽的分析》中以 *Ablehnung der Weiblichkeit* 概括两性面对被动或阉割位置的拒斥。这里的 *Ablehnung* 是一般性的拒绝或抵制；它不能仅凭词形就等同于某一种专门防御机制。
 
 *Verwerfung* 在弗洛伊德不同时期的用法并不完全统一。拉康后来以法语 *forclusion* 专门化其中一条线索，用来讨论精神病结构中的“排除”。*Versagung* 可指满足、对象或许可未被给予，法语精神分析传统常译作 *frustration*；它既可能指外部剥夺，也可能涉及主体拒绝，须由具体句法决定。相关动词 *versagen* 在普通德语中可指未能做到、停止运作，也可指拒绝给予；反身用法 *sich jemandem versagen* 还可表示不把自己交付给某人。
+
+《研讨班 I》第六课评注《否定》时还明确排除了另一种混同：弗洛伊德原文在内摄的对面写 *Ausstoßung*（驱逐），而不是 *Verwerfung*。前者是关于内／外形成的原初操作；后者在该课邻近的《狼人》讨论中指未在象征层面得到肯定的拒斥。两词在法语里都可能被宽泛译成 *rejet*，但不能因此在中文中合并。
 
 在《研讨班 VIII》第二十一至二十二课，拉康进一步让这个词在能指层面发挥作用。他把 *versagen* 重新听作 *ver-sagen*，从中抽出 *sagen*（“说”）。这不是普通德语的字面构词释义，也不宜理解为“没能说”：拉康明说，*Versagung* 只有在 *sagen* 的范围内才可能发生，并把“不说”（*ne pas dire*）推进为“说不”（*dire non*）。他关注的不是言说行为的失败，而是在言说中形成的拒绝。
 
@@ -28,6 +30,7 @@ verified_at: 2026-07-30
 - [Die endliche und die unendliche Analyse，第八节](https://projekt-gutenberg.org/authors/sigmund-freud/books/sigmund-freud-die-endliche-und-die-unendliche-analyse/chapter/8/)（德文；弗洛伊德原文）
 - [Analysis Terminable and Interminable](https://www.freudedition.net/werke/i/druckschrift-129)（德文、英文；弗洛伊德原文与英译）
 - [Duden：versagen](https://www.duden.de/rechtschreibung/versagen)（德文；普通词义、反身用法与词源）
+- [[texts/s1-les-ecrits-techniques-de-freud/original/Leçon-06.md#s1-06-0082|《研讨班 I》第六课 s1-06-0082]]（法文、德文；*Ausstoßung*“驱逐”并非 *Verwerfung*“拒斥”）
 - [[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-12.md#s7-12-0034|《研讨班 VII》第十二课 s7-12-0034]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-12.md#s7-12-0064|s7-12-0064]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-12.md#s7-12-0066|s7-12-0066]]（法文；*Versagung* 作为障碍／拒绝及其内外来源）
 - [[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0058|《研讨班 VIII》第十一课 s8-11-0058]]（法文；本项目底本）
 - [[texts/s8-le-transfert/original/Leçon-21.md#s8-21-0024|《研讨班 VIII》第二十一课 s8-21-0024]]、[[texts/s8-le-transfert/original/Leçon-21.md#s8-21-0026|s8-21-0026]]、[[texts/s8-le-transfert/original/Leçon-21.md#s8-21-0027|s8-21-0027]]（法文；本项目底本，分别说明“未履行承诺”、针对所说之物的拒绝以及从“不说”到“说不”）
@@ -35,9 +38,11 @@ verified_at: 2026-07-30
 
 ## 关联
 
+[[知识库/弗洛伊德《否定》：判断、肯定与否定.md|弗洛伊德《否定》：判断、肯定与否定]]
 [[知识库/克洛岱尔的库丰坦三部曲.md|克洛岱尔的库丰坦三部曲]]
 [[知识库/拉康的主体定义：一个能指为另一个能指代表主体.md|拉康的主体定义：一个能指为另一个能指代表主体]]
 
+[[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-06.md#s1-06-0082|s1-06-0082]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-12.md#s7-12-0034|s7-12-0034]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-12.md#s7-12-0064|s7-12-0064]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-12.md#s7-12-0066|s7-12-0066]]

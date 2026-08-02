@@ -3,6 +3,7 @@ title: Logos、Verbum 与“道”
 type: knowledge-card
 verification: 部分准确
 tags:
+  - 研讨班I
   - 研讨班VIII
   - 领域/哲学
   - 领域/宗教
@@ -24,6 +25,10 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/圣奥古斯丁《论教师》：符号与内在教师.md|圣奥古斯丁《论教师》：符号与内在教师]]
+
 [[知识库/《研讨班VIII》中的le Verbe、logos与语言.md|《研讨班 VIII》中的 le Verbe、logos 与语言]]
+
+[[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-21.md#s1-21-0048|s1-21-0048]]
 
 [[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0005|s8-01-0005]]
