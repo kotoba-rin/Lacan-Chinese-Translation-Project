@@ -28,8 +28,6 @@ verified_at: 2026-08-01
 
 ## 关联
 
-[[知识库/“无意识具有语言一样的结构”的适用范围.md|“无意识具有语言一样的结构”的适用范围]]
-
 [[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-19.md#s1-19-0059|s1-19-0059]]
 [[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-19.md#s1-19-0062|s1-19-0062]]
 [[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-19.md#s1-19-0072|s1-19-0072]]

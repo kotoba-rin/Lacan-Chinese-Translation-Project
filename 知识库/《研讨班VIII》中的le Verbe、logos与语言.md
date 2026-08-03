@@ -29,7 +29,6 @@ verified_at: 2026-07-30
 ## 关联
 
 [[知识库/Logos、Verbum与“道”.md|Logos、Verbum 与“道”]]
-[[知识库/“无意识具有语言一样的结构”的适用范围.md|“无意识具有语言一样的结构”的适用范围]]
 [[知识库/克洛岱尔的库丰坦三部曲.md|克洛岱尔的库丰坦三部曲]]
 
 [[texts/s8-le-transfert/translation/Leçon-21.md#s8-21-0029|s8-21-0029]]
