@@ -34,6 +34,7 @@
 | symbolique / le Symbolique | 象征的 / 象征界 | 名词化且指三界之一时译“象征界”。 |
 | imaginaire / l’Imaginaire | 想象的 / 想象界 | 名词化且指三界之一时译“想象界”。 |
 | fonction phallique | 阳具函数 | 公式写作 $\Phi(x)$；不译“菲勒斯功能”。 |
+| l’Universelle / l’Universel | 全称命题 / 普遍者 | 阴性形式通常省略了 *proposition*，指“全称命题”；阳性形式指逻辑上的“普遍者”。不译作“周延项”或“广延项”。 |
 | pas-tout / pas-toute | 非全 | 不等同于否定全称命题，也不改写成“并非一个也没有”。 |
 | Yad’lun / il y a de l’Un | 有一 | 保留拉康的缩合写法及其断言结构。 |
 | trait unaire | 一元特征 | 不与单纯“一条线”或 *unien* 混同。 |

@@ -268,19 +268,19 @@ VALABREGA
 
 <!-- id: s13-23-0066 -->
 
-C’est-à-dire que dans ce texte cela introduit *quelque chose* qui est tout à fait autre que ce qui a été apporté par MELMAN, et on pourrait dire que du point de vue diagnostic, on a l’impression que c’est tout à fait autre chose, dans le souvenir de l’Acropole que… LACAN
+C’est-à-dire que dans ce texte cela introduit *quelque chose* qui est tout à fait autre que ce qui a été apporté par MELMAN, et on pourrait dire que du point de vue diagnostic, on a l’impression que c’est tout à fait autre chose, dans le souvenir de l’Acropole que…
 
 <!-- id: s13-23-0067 -->
 
-Parlez plus fort Bon Dieu ! Parce que c’est tout de même… c’est très intéressant ce que vous dites et tout le monde… personne n’entend.
+LACAN — Parlez plus fort Bon Dieu ! Parce que c’est tout de même… c’est très intéressant ce que vous dites et tout le monde… personne n’entend.
 
 <!-- id: s13-23-0068 -->
 
-VALABREGA - Ce qui n’est pas le cas dans le texte de l886-l889, c’est enco­re quelque chose… LACAN
+VALABREGA - Ce qui n’est pas le cas dans le texte de l886-l889, c’est enco­re quelque chose…
 
 <!-- id: s13-23-0069 -->
 
-Mais discutez-le ! Comment pouvez-vous soutenir que le terme d’*aliénation* est présent à propos de *ce souvenir de l’Acropole* et nommé­ment pour traduire *Entfremdung*. Je veux bien que vous le souteniez mais expli­quez pourquoi.
+LACAN — Mais discutez-le ! Comment pouvez-vous soutenir que le terme d’*aliénation* est présent à propos de *ce souvenir de l’Acropole* et nommé­ment pour traduire *Entfremdung*. Je veux bien que vous le souteniez mais expli­quez pourquoi.
 
 <!-- id: s13-23-0070 -->
 
@@ -296,11 +296,11 @@ Un instant, je vous en prie : comment concevez-vous le concept hégélien dans 
 
 <!-- id: s13-23-0073 -->
 
-VALABREGA - Je ne sais comment, il faudrait même… LACAN
+VALABREGA - Je ne sais comment, il faudrait même…
 
 <!-- id: s13-23-0074 -->
 
-Que *Entfremdung* puisse correspondre à quelque chose comme la dépersonnalisation, passe encore, ou le sentiment du sosie ou quelque chose que nous… c’est noté dans le texte comme une impression, enfin *c’est une notation phénoménologique*, l’*aliénation* n’est pas… n’a rien à faire avec ça dans HEGEL puisque vous invoquez - vous, pas moi - HEGEL.
+LACAN — Que *Entfremdung* puisse correspondre à quelque chose comme la dépersonnalisation, passe encore, ou le sentiment du sosie ou quelque chose que nous… c’est noté dans le texte comme une impression, enfin *c’est une notation phénoménologique*, l’*aliénation* n’est pas… n’a rien à faire avec ça dans HEGEL puisque vous invoquez - vous, pas moi - HEGEL.
 
 <!-- id: s13-23-0075 -->
 
@@ -352,11 +352,11 @@ VALABREGA
 
 <!-- id: s13-23-0087 -->
 
-*Pourquoi* l’utilise-t-il ? C’est ça le problème, c’est un pro­blème *terminologique*, moi je ne sais pas, je n’ai pas recherché… LACAN
+*Pourquoi* l’utilise-t-il ? C’est ça le problème, c’est un pro­blème *terminologique*, moi je ne sais pas, je n’ai pas recherché…
 
 <!-- id: s13-23-0088 -->
 
-Ce n’est pas parce que nous nous trouvons devant un emploi d’*Entfremdung* qu’on trouve également dans HEGEL que nous allons nous mettre, comme ça, à sauter à pieds joints et à dire que la signification que FREUD implique dans ce terme d’*Entfremdung* est une signification hégélienne justement là. Et puis écoutez, dès qu’on parle d’aliénation, tout de même, on sait où on en est, on sait ce qu’on évoque, on sait ce que ça intéresse. Alors si c’est là simplement pour ouvrir une question sans le moindre centimètre qui aille plus loin, je ne demande pas mieux que cela rebondisse mais je veux que vous vous en expliquiez.
+LACAN — Ce n’est pas parce que nous nous trouvons devant un emploi d’*Entfremdung* qu’on trouve également dans HEGEL que nous allons nous mettre, comme ça, à sauter à pieds joints et à dire que la signification que FREUD implique dans ce terme d’*Entfremdung* est une signification hégélienne justement là. Et puis écoutez, dès qu’on parle d’aliénation, tout de même, on sait où on en est, on sait ce qu’on évoque, on sait ce que ça intéresse. Alors si c’est là simplement pour ouvrir une question sans le moindre centimètre qui aille plus loin, je ne demande pas mieux que cela rebondisse mais je veux que vous vous en expliquiez.
 
 <!-- id: s13-23-0089 -->
 
@@ -376,11 +376,11 @@ Je n’ai pas le texte sous les yeux, mais on peut remarquer qu’en français �
 
 <!-- id: s13-23-0093 -->
 
-LACAN \[à Stein\] - Je vais vous donner la parole, je vous demande pardon de… GREEN
+LACAN \[à Stein\] - Je vais vous donner la parole, je vous demande pardon de…
 
 <!-- id: s13-23-0094 -->
 
-Deux choses. Une concernant la remarque de VALABREGA, l’autre l’exposé de MELMAN. La première, je pense que sans introduire le contexte d’aliénation, on est quand même obligé ici à partir de ce terme, de penser que FREUD veut dire et en dehors du mot dont il est question par rapport au contex­te qu’il vit : « *Ce n’est pas moi qui suis ici, c’est un autre, ce n’est pas moi*… », ça, c’est dit en toutes lettres dans le texte. Alors voici concernant le point soulevé par VALABREGA.
+GREEN — Deux choses. Une concernant la remarque de VALABREGA, l’autre l’exposé de MELMAN. La première, je pense que sans introduire le contexte d’aliénation, on est quand même obligé ici à partir de ce terme, de penser que FREUD veut dire et en dehors du mot dont il est question par rapport au contex­te qu’il vit : « *Ce n’est pas moi qui suis ici, c’est un autre, ce n’est pas moi*… », ça, c’est dit en toutes lettres dans le texte. Alors voici concernant le point soulevé par VALABREGA.
 
 <!-- id: s13-23-0095 -->
 
@@ -812,11 +812,11 @@ Ils sont équivalents, vous avez compris.
 
 <!-- id: s13-23-0200 -->
 
-STEIN … LACAN
+STEIN …
 
 <!-- id: s13-23-0201 -->
 
-Justement, mon cher, c’est de ça qu’il s’agit. À partir du moment où vous pensez les choses ainsi, il n’y a pas du tout passage, mais équi­valence. Vous posez l’équivalence de ce qui est à l’intérieur et de ce qui est à l’ex­térieur, et c’est pourquoi à partir de là s’il y en a un autre qui est ici, la même équivalence étant posée, ces deux êtres finis en effet, eux ne peuvent se fondre :
+LACAN — Justement, mon cher, c’est de ça qu’il s’agit. À partir du moment où vous pensez les choses ainsi, il n’y a pas du tout passage, mais équi­valence. Vous posez l’équivalence de ce qui est à l’intérieur et de ce qui est à l’ex­térieur, et c’est pourquoi à partir de là s’il y en a un autre qui est ici, la même équivalence étant posée, ces deux êtres finis en effet, eux ne peuvent se fondre :
 
 <!-- id: s13-23-0202 -->
 
@@ -836,11 +836,11 @@ STEIN
 
 <!-- id: s13-23-0206 -->
 
-Je vous en supplie, non, je pense que ce dont il est question là dans mon esprit ce n’est pas de *l’équivalence entre l’intérieur et l’extérieur* mais l’uni­té qui résulte de l’abolition de la limite, par conséquent, si on voulait faire une figuration de sphère… LACAN
+Je vous en supplie, non, je pense que ce dont il est question là dans mon esprit ce n’est pas de *l’équivalence entre l’intérieur et l’extérieur* mais l’uni­té qui résulte de l’abolition de la limite, par conséquent, si on voulait faire une figuration de sphère…
 
 <!-- id: s13-23-0207 -->
 
-En d’autres termes ce que nous avons dit, c’est qu’il ne subsiste aucune limite. Je ne vais pas… c’est à vous en effet d’en décider. Cette absence de toute référence par conséquent, je ne vois pas comment vous pouvez la faire subsister avec quoi que ce soit, enfin, qui soit compatible par exemple avec la poursuite d’un discours. À l’intérieur d’un tout, cette absence totale de référence, n’est-ce pas, c’est un crédit que je vous fais, de penser qu’il reste enco­re quelque part une structure, un appareil.
+LACAN — En d’autres termes ce que nous avons dit, c’est qu’il ne subsiste aucune limite. Je ne vais pas… c’est à vous en effet d’en décider. Cette absence de toute référence par conséquent, je ne vois pas comment vous pouvez la faire subsister avec quoi que ce soit, enfin, qui soit compatible par exemple avec la poursuite d’un discours. À l’intérieur d’un tout, cette absence totale de référence, n’est-ce pas, c’est un crédit que je vous fais, de penser qu’il reste enco­re quelque part une structure, un appareil.
 
 <!-- id: s13-23-0208 -->
 
@@ -1152,11 +1152,11 @@ STEIN
 
 <!-- id: s13-23-0284 -->
 
-Je ne crois pas qu’il s’agit de me défendre mais pour répondre, donc vous me prêtez malgré tout l’idée, vous en convenez aussi, que je n’ai pas précisé que cette régression pourrait s’accomplir mais ce que l’ordonnance même de la situation analytique, telle qu’elle est proposée par le psychanalyste induit chez le patient, c’est justement *le mythe du paradis perdu* en tant que mythe justement, tout tourne autour de là. Moi je ne dis pas qu’on atteint le paradis pendant la séance d’analyse, mais qu’on se sent, qu’on se sent appelé à l’atteindre et que le mouvement d’angoisse vient justement marquer l’arrêt dans cette affaire. L’avantage… LACAN
+Je ne crois pas qu’il s’agit de me défendre mais pour répondre, donc vous me prêtez malgré tout l’idée, vous en convenez aussi, que je n’ai pas précisé que cette régression pourrait s’accomplir mais ce que l’ordonnance même de la situation analytique, telle qu’elle est proposée par le psychanalyste induit chez le patient, c’est justement *le mythe du paradis perdu* en tant que mythe justement, tout tourne autour de là. Moi je ne dis pas qu’on atteint le paradis pendant la séance d’analyse, mais qu’on se sent, qu’on se sent appelé à l’atteindre et que le mouvement d’angoisse vient justement marquer l’arrêt dans cette affaire. L’avantage…
 
 <!-- id: s13-23-0285 -->
 
-Je prends là-dessus position. Je suis radicalement opposé à ce que nous puissions considérer comme sain de faire fonctionner d’aucune façon dans notre théorie, *a fortior*i dans notre pratique, un mythe quelconque de cet ordre.
+LACAN — Je prends là-dessus position. Je suis radicalement opposé à ce que nous puissions considérer comme sain de faire fonctionner d’aucune façon dans notre théorie, *a fortior*i dans notre pratique, un mythe quelconque de cet ordre.
 
 <!-- id: s13-23-0286 -->
 
@@ -1224,11 +1224,11 @@ LACAN
 
 <!-- id: s13-23-0302 -->
 
-À la seule condition d’avoir une quatrième dimension, vous pouvez retourner la sphère comme un gant sauf si elle est… STEIN
+À la seule condition d’avoir une quatrième dimension, vous pouvez retourner la sphère comme un gant sauf si elle est…
 
 <!-- id: s13-23-0303 -->
 
-Sans quatrième, si nous avons deux êtres comme ceci, n’est-ce pas, là je vous pose la question, mais je suppose que sans passer par aucune quatrième dimension on ne peut superposer leurs deux surfaces.
+STEIN — Sans quatrième, si nous avons deux êtres comme ceci, n’est-ce pas, là je vous pose la question, mais je suppose que sans passer par aucune quatrième dimension on ne peut superposer leurs deux surfaces.
 
 <!-- id: s13-23-0304 -->
 

@@ -4,11 +4,11 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
+  - 研讨班X
+  - 研讨班XV
   - 领域/精神分析
-  - 人物/拉康
   - 概念/分析行动
-  - 概念/行动呈现
-verified_at: 2026-08-01
+verified_at: 2026-08-06
 ---
 
 拉康在《研讨班 VIII》第二十三课把“分析行动”（*action analytique*）与行动呈现（*acting-out*）放进同一个问题域，却没有把二者等同。分析行动指分析家在分析关系中承担的位置与介入；行动呈现则是分析中的主体所作的行动。二者的共同点不在于可见行为的形式，而在于它们都牵涉对无意识的回应。
@@ -37,9 +37,16 @@ verified_at: 2026-08-01
 
 [[知识库/被假定知道的主体与移情.md|被假定知道的主体与移情]]
 [[知识库/重复、移情与“把过去活在现在”.md|重复、移情与“把过去活在现在”]]
+[[知识库/行动化与付诸行动：展示、舞台与坠落.md|行动化与付诸行动：展示、舞台与坠落]]
+[[知识库/转移将无意识的现实付诸行动.md|转移将无意识的现实付诸行动]]
+[[知识库/精神分析行动：授权分析者任务与主体变异.md|精神分析行动：授权分析者任务与主体变异]]
 
 [[texts/s8-le-transfert/translation/Leçon-23.md#s8-23-0036|s8-23-0036]]
 [[texts/s8-le-transfert/translation/Leçon-23.md#s8-23-0037|s8-23-0037]]
 [[texts/s8-le-transfert/translation/Leçon-23.md#s8-23-0038|s8-23-0038]]
 [[texts/s8-le-transfert/translation/Leçon-23.md#s8-23-0039|s8-23-0039]]
 [[texts/s8-le-transfert/translation/Leçon-23.md#s8-23-0040|s8-23-0040]]
+[[texts/s10-l-angoisse/translation/Leçon-09.md#s10-09-0103|s10-09-0103]]
+[[texts/s10-l-angoisse/translation/Leçon-09.md#s10-09-0139|s10-09-0139]]
+[[texts/s15-l-acte-psychanalytique/translation/Leçon-06.md#s15-06-0024|s15-06-0024]]
+[[texts/s15-l-acte-psychanalytique/translation/Leçon-06.md#s15-06-0025|s15-06-0025]]

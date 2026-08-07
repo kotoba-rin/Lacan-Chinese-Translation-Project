@@ -78,11 +78,11 @@ En fait, ce que LACAN m’a demandé c’est *essentiellement* de lui donner l�
 
 <!-- id: s13-18-0019 -->
 
-Les conditions de cette projection ayant été, comme vous le savez, défectueuses, et l’absence d’une suffisante obscurité ont considérablement dénaturées le tableau, et notamment, certains détails de ce tableau sont devenus totalement invisibles. C’était en particulier le cas pour ce qui concernait… LACAN
+Les conditions de cette projection ayant été, comme vous le savez, défectueuses, et l’absence d’une suffisante obscurité ont considérablement dénaturées le tableau, et notamment, certains détails de ce tableau sont devenus totalement invisibles. C’était en particulier le cas pour ce qui concernait…
 
 <!-- id: s13-18-0020 -->
 
-GREEN, ce n’est pas une critique… On va le projeter aujourd’hui. Aujourd’hui, ça va marcher. Je ne pense pas que c’ait été « *l’insuffisante obscurité* », encore que l’obscurité nous soit chère, ce n’est pas de ça qu’il s’agit. Je crois que c’est que la lampe était - je ne sais pas pourquoi - mal réglée ou faite pour un autre emploi.
+LACAN — GREEN, ce n’est pas une critique… On va le projeter aujourd’hui. Aujourd’hui, ça va marcher. Je ne pense pas que c’ait été « *l’insuffisante obscurité* », encore que l’obscurité nous soit chère, ce n’est pas de ça qu’il s’agit. Je crois que c’est que la lampe était - je ne sais pas pourquoi - mal réglée ou faite pour un autre emploi.
 
 <!-- id: s13-18-0021 -->
 
@@ -398,11 +398,11 @@ Vous n’êtes pas tout à fait contre ce que je dis là ?
 
 <!-- id: s13-18-0099 -->
 
-FOUCAULT: … LACAN
+FOUCAULT: …
 
 <!-- id: s13-18-0100 -->
 
-Vous êtes d’accord ! Merci. Parce que ça prouve que j’ai bien compris.
+LACAN — Vous êtes d’accord ! Merci. Parce que ça prouve que j’ai bien compris.
 
 <!-- id: s13-18-0101 -->
 

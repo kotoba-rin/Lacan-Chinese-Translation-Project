@@ -160,6 +160,7 @@
 | semblable | 相似者 | 第六课指主体最初相对于其而形成自我的另一个人；与概念性的 *autre*“他者”相关，但不可机械互换。 |
 | fonction imaginaire | 想象功能 | 自我在分析中的动力性构成条件；不同于普通心理学把自我界定为综合功能。 |
 | méconnaissance / fonction de méconnaissance | 误认 / 误认功能 | 第六课把自我的防御与拒绝放在其根本误认功能中理解；不弱化为一般“不了解”。 |
+| méconnaître | 误认 / 没有认识到 / 忽视 / 不承认 | 指结构性的错认时可译“误认”；在 *ne peut pas méconnaître*、*on ne saurait méconnaître*、*méconnaître que...* 等普通动词句式中，常表示“不能忽视”“没有认识到”或“不承认”，不得机械套用“误认”。 |
 | système symbolique / fonction symbolique | 象征系统 / 象征功能 | 语言符号通过整体、汇流和对立性多重决定彼此交织；儿童早期言语也不能仅由运动掌控解释。 |
 | stade sadique-oral / stade du symbolisme | 口腔—施虐阶段 / 象征作用阶段 | 第七课概述克莱因的问题：儿童如何从内摄—驱逐循环进入能在自身身体与外部对象间建立多重等同的阶段。 |
 | symbolisme | 象征作用 | 在克莱因语境中指建立身体部分、母亲身体内容与外部对象之间的等式；不译作艺术思潮意义的“象征主义”。 |

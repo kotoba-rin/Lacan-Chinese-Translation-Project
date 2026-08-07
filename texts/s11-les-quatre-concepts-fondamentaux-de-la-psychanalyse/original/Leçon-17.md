@@ -69,8 +69,8 @@ de plus à notre vocabulaire, mais pour bien désigner ce que je veux dire aujou
 
 <!-- id: s11-17-0011 -->
 
-Lequel autre signifiant a pour effet l’ἀϕάνι*σ*ις \[aphanisis\] *du sujet, division du sujet* pour autant que *le sujet apparait quelque part comme sens*, *ailleurs il se manifeste comme fading, comme disparition*. C’est donc, si l’on peut dire, une affaire de vie et de mort, entre *le signifiant unaire*
-et *ce sujet* en tant que *signifiant binaire*, c’est la cause de sa disparition. Le *Vorstellungsrepräsentanz,* c’est ce *signifiant binaire*.
+Lequel autre signifiant a pour effet l’ἀϕάνι*σ*ις \[aphanisis\] *du sujet, division du sujet* pour autant que *le sujet apparait quelque part comme sens*, *ailleurs il se manifeste comme fading, comme disparition*. C’est donc, si l’on peut dire, une affaire de vie et de mort entre *le signifiant unaire*
+et *le sujet en tant que signifiant binaire, cause de sa disparition*. Le *Vorstellungsrepräsentanz,* c’est ce *signifiant binaire*.
 
 <!-- id: s11-17-0012 -->
 

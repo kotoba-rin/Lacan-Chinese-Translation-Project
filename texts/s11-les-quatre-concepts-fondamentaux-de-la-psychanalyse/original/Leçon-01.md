@@ -128,13 +128,13 @@ Encore celle-ci - dans les lieux où ce terme est employé - n’est-elle jamais
 
 <!-- id: s11-01-0024 -->
 
-Elle n’existe, elle n’existe pourtant sous cette forme que dans une communauté religieuse désignée par le terme indi­catif, symbolique de la Synagogue. C’est proprement ce dont SPINOZA fut l’objet en deux étapes : le 27 Juillet 1656…
+Elle n’existe sous cette forme que dans une communauté religieuse désignée par le terme indi­catif, symbolique de la Synagogue. C’est proprement ce dont SPINOZA fut l’objet en deux étapes : le 27 Juillet 1656…
 
 <!-- id: s11-01-0025 -->
 
-> singulier tricentenaire, puisqu’il correspond au tricentenaire de FREUD \[né le 6 Mai 1856\]
+> singulier bicentenaire, puisqu’il correspond à celui de FREUD \[né le 6 Mai 1856\]
 > …le 27 juillet 1656, SPINOZA fut l’objet du חרם \[herem\]*, excommunication qui répond bien à cette excommunication majeure*.
-> Il attendit quelque temps - pour compléter notre tri­centenaire - pour être l’objet du *Chammata,* lequel consiste à y ajouter
+> Il attendit quelque temps pour être l’objet du *Chammata,* lequel consiste à y ajouter
 > cette condition de *l’impossibilité d’un retour*.
 
 <!-- id: s11-01-0026 -->
@@ -350,8 +350,7 @@ très prudents, parce que cet *objet* change - et singulière­ment ! - au cours
 
 <!-- id: s11-01-0064 -->
 
-Peut-être ces remarques nous forcent-elles à un recul au moins tac­tique pour un moment, et à repartir de la *praxis*, nous demander si dans le fait que la *praxis* délimite un champ, c’est au niveau de ce champ que le savant de la science moderne se trouve spécifié : non point comme un homme qui en sache long en tout. Je m’entends, nous laisserions ici de côté toute référence de la science
-à un système unitaire dit « *système du monde* », *à cette exigence, de* DUHEM [^4] *pour la qualifier, voire* MEYERSON [^5]*, dans les rapports entre identi­té et réalité, référence plus ou moins qualifiable d’idéaliste,* au besoin d’identification.
+Peut-être ces remarques nous forcent-elles à un recul au moins tac­tique, et à repartir de la *praxis*, pour nous demander, sachant que la *praxis* délimite un champ, si c’est au niveau de ce champ que se trouve spécifié le savant de la science moderne, qui n’est point un homme qui en sait long en tout. Je ne retiens pas l’exigence de DUHEM [^4] que toute science se réfère à un système unitaire, dit « *système du monde* » — référence toujours, en somme, plus ou moins idéaliste, puisque référence au besoin d’identification.
 
 <!-- id: s11-01-0065 -->
 
@@ -371,7 +370,7 @@ soit celui d’un véritable *nœud de malentendus*.
 
 <!-- id: s11-01-0068 -->
 
-Qu’il soit évident - *tout aussitôt* - que nous ne pouvons pas faire ren­trer dans *la science* l’expérience mystique. À condition qu’on fasse remarquer encore : cette définition *d’une praxis, du champ* qu’elle détermine, l’appliquerons-nous à l’alchimie pour l’autoriser à être une science ? Je relisais récemment un tout petit volume[^6] qui n’a même pas été recueilli dans les *Œuvres Complètes* de DIDEROT mais qui semble assurément être de lui. Si elle naît à LAVOISIER, DIDEROT *ne parle pas de* *chimie*, mais de bout en bout
+Qu’il soit évident - *tout aussitôt* - que nous ne pouvons pas faire ren­trer dans *la science* l’expérience mystique. À condition qu’on fasse remarquer encore : cette définition *d’une praxis, du champ* qu’elle détermine, l’appliquerons-nous à l’alchimie pour l’autoriser à être une science ? Je relisais récemment un tout petit volume[^5] qui n’a même pas été recueilli dans les *Œuvres Complètes* de DIDEROT mais qui semble assurément être de lui. Si elle naît à LAVOISIER, DIDEROT *ne parle pas de* *chimie*, mais de bout en bout
 de *l’alchimie*, avec toute la finesse d’esprit que vous savez être la sienne.
 
 <!-- id: s11-01-0069 -->
@@ -561,7 +560,7 @@ de rester ici, n’ayant point à chercher tout de suite ailleurs l’accrochage
     « Eh bien, dis *«Shibbolet»* ». Il disait *Sibbolet* car il ne pouvait prononcer correctement. Alors on l'égorgeait...
 
 
-[^4]: Pierre Maurice Marie Duhem (1861-1916), chimiste et philosophe des sciences français : opposé à toute interprétation matérialiste et réaliste
+[^4]: Pierre Maurice Marie Duhem (1861-1916), physicien, historien et philosophe des sciences français : opposé à toute interprétation matérialiste et réaliste
 
     de la chimie et de la physique, Duhem proposa une conception qu’on qualifiera ensuite d'*instrumentaliste* de la science dans La Théorie physique.
 
@@ -570,9 +569,4 @@ de rester ici, n’ayant point à chercher tout de suite ailleurs l’accrochage
     commode de prédiction. Pierre Duhem : « *Le système du monde : histoire des doctrines cosmologiques de Platon à Copernic* ».
 
 
-[^5]: Émile Meyerson (1859-1933), philosophe français : contre le courant de pensée positiviste de la fin du XIX<sup>ème</sup> siècle, il développe une épistémologie
-
-    réaliste fondée sur le principe d'identité. Émile Meyerson : « *De l'explication dans les sciences* ».
-
-
-[^6]: Diderot : « *[Introduction à la chymie](http://gallica.bnf.fr/ark:/12148/bpt6k620867) »*, éd. Hachette, Coll. B.N.F., 2012.
+[^5]: Diderot : « *[Introduction à la chymie](http://gallica.bnf.fr/ark:/12148/bpt6k620867) »*, éd. Hachette, Coll. B.N.F., 2012.

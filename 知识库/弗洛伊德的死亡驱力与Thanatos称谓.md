@@ -27,14 +27,17 @@ verified_at: 2026-07-30
 - [Jenseits des Lustprinzips, VI](https://www.projekt-gutenberg.org/freud/jenseits/chap006.html)（德文；弗洛伊德原著）
 - [IPA Inter-Regional Encyclopedic Dictionary: Death Drive](https://online.flippingbook.com/view/544664/138/)（英文；国际精神分析协会概念资料）
 - [Thanatos: The Drive without a Name](https://doi.org/10.1080/01062301.1991.10592256)（英文；“Thanatos”称谓的概念史研究）
-- [[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-17.md#s7-17-0096|本地法语原文 s7-17-0096]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-18.md#s7-18-0041|s7-18-0041]]（法文；熵还原的边界与死亡驱力的历史维度）
+- [[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-17.md#s7-17-0063|本地法语原文 s7-17-0063]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-17.md#s7-17-0096|s7-17-0096]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-18.md#s7-18-0041|s7-18-0041]]（法文；历史—结构成分、熵还原的边界与死亡驱力的历史维度）
 
 ## 关联
 
 [[知识库/弗洛伊德.md|弗洛伊德]]
 [[知识库/弗洛伊德的爱欲统一原则与普遍之爱批判.md|弗洛伊德的爱欲统一原则与普遍之爱批判]]
 [[知识库/涅槃原则、熵与死亡驱力.md|涅槃原则、熵与死亡驱力]]
+[[知识库/拉康：死本能是象征秩序的面具.md|拉康：死本能是象征秩序的面具]]
+[[知识库/魏斯曼的种质连续性与种系—体细胞区分.md|魏斯曼的种质连续性与种系—体细胞区分]]
 
+[[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-17.md#s7-17-0063|s7-17-0063]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-17.md#s7-17-0096|s7-17-0096]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-17.md#s7-17-0100|s7-17-0100]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-18.md#s7-18-0041|s7-18-0041]]

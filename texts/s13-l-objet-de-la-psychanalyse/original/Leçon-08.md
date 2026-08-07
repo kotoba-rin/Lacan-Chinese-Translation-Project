@@ -1042,11 +1042,11 @@ Non, mais la prochaine fois il peut s’inscrire auprès de vous - ce serait plu
 
 <!-- id: s13-08-0258 -->
 
-STEIN - Oui, mais je ne pourrais pas m’avancer encore beaucoup plus sur… LACAN - Non, il ne s’agit pas de ça. Il s’agit ou bien que vous disiez un mot auquel vous teniez beaucoup… STEIN
+STEIN - Oui, mais je ne pourrais pas m’avancer encore beaucoup plus sur… LACAN - Non, il ne s’agit pas de ça. Il s’agit ou bien que vous disiez un mot auquel vous teniez beaucoup…
 
 <!-- id: s13-08-0259 -->
 
-Si ! Il y a un mot que je voudrais dire. C’est le suivant : dans toute cette discussion, et cela n’est pas fait pour nous étonner, on en arrive toujours à la tentation de réduire *ce reste* dont parlait AUDOUARD et que reprenait GREEN.
+STEIN - Si ! Il y a un mot que je voudrais dire. C’est le suivant : dans toute cette discussion, et cela n’est pas fait pour nous étonner, on en arrive toujours à la tentation de réduire *ce reste* dont parlait AUDOUARD et que reprenait GREEN.
 
 <!-- id: s13-08-0260 -->
 

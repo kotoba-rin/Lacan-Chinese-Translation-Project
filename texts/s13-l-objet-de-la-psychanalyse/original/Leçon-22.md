@@ -678,11 +678,11 @@ Je vais quand même, pour conclure la chose de SAFOUAN, vous dire quelque chose 
 
 <!-- id: s13-22-0165 -->
 
-SAFOUAN - *Un bas de soie*… LACAN
+SAFOUAN - *Un bas de soie*…
 
 <!-- id: s13-22-0166 -->
 
-Oui. Mais ça pose des petits problèmes. La jambe, NAPOLEON en connaissait un bout quant à ce qui concerne ce qui ressortit de l’amour. Il disait que le mieux qu’on avait à faire c’était de les prendre à son cou, les jambes, j’entends.
+LACAN — Oui. Mais ça pose des petits problèmes. La jambe, NAPOLEON en connaissait un bout quant à ce qui concerne ce qui ressortit de l’amour. Il disait que le mieux qu’on avait à faire c’était de les prendre à son cou, les jambes, j’entends.
 
 <!-- id: s13-22-0167 -->
 

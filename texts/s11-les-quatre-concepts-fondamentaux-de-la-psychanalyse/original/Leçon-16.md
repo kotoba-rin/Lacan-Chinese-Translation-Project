@@ -496,7 +496,7 @@ qu’il vient ici situer *au point du manque aperçu dans l’Autre*. Le premier
 
 <!-- id: s11-16-0102 -->
 
-Cette indication d’un manque recouvrant l’autre, et dont l’essentiel est qu’il ne va pouvoir engendrer *la dialectique des objets du désir*,
+Un manque recouvre l’autre. Dès lors, *la dialectique des objets du désir*,
 en tant qu’elle fait le joint *du désir du sujet au désir de l’Autre* - il y a long­temps que je vous ai dit que c’était le même *–*
 cette dialectique passe par ceci qui est essentiel à retenir :
 
@@ -535,7 +535,7 @@ Jacques-Alain MILLER
 <!-- id: s11-16-0111 -->
 
 Vous avez, en quelque sorte donné la définition la plus claire et du sujet et de sa constitution. Vous avez caractérisé le procès
-de *cette constitution circulaire et dissymét[rique](file:///C:\Users\ALAIN\LACAN%20séminaires\triq.ua)*, circulaire il me semble, puisque du champ du signifiant, on ne pourrait dire de préférence ou qu'il y naisse et que les étapes du parcours du sujet ne sont pas, ne sauraient être, distribuées dans un temps sans torsion.
+de *cette constitution circulaire et dissymétrique*, circulaire il me semble, puisque du champ du signifiant, on ne pourrait dire de préférence ou qu'il y naisse et que les étapes du parcours du sujet ne sont pas, ne sauraient être, distribuées dans un temps sans torsion.
 
 <!-- id: s11-16-0112 -->
 
@@ -544,7 +544,7 @@ son champ, y est obligatoirement vassal. Maintenant, vous avez surtout, il me se
 
 <!-- id: s11-16-0113 -->
 
-Vous avez montré au contraire que la [sexualité](file:///C:\Users\ALAIN\LACAN%20séminaires\aoxual.it) tient au sujet du discours du grand Autre et à partir de ce discours, et donc que
+Vous avez montré au contraire que la sexualité tient au sujet du discours du grand Autre et à partir de ce discours, et donc que
 la sexualité se place comme une des structures, *isomorphes* et pourtant décalées, en quoi se constituent les défilés du signifiant.
 
 <!-- id: s11-16-0114 -->

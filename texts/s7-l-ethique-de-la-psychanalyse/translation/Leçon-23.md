@@ -686,7 +686,9 @@ max_segment_id: 166
 
 <!-- id: s7-23-0164 -->
 
-这项欲望不容任何中介；它只具有彻底破坏的性质。乱伦结合的后裔分裂为两兄弟，一人代表权力，一人代表犯罪。
+这项欲望不可能有任何中介；唯一可能充当中介的，是它那彻底破坏性的性质本身。[注] 乱伦结合的后裔分裂为两兄弟，一人代表权力，一人代表犯罪。
+
+> [注] *si ce n’est* 在这里引出“唯一的例外”，不是补充说这项欲望“只具有”破坏性。米勒编定本的 Porter 英译（第 283 页）也保留这一例外关系：*No mediation is possible here except that of this desire with its radically destructive character.*
 
 <!-- id: s7-23-0165 -->
 

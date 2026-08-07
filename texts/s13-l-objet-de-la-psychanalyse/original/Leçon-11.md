@@ -408,11 +408,11 @@ Soutenu... il faut donner le plein sens à ce terme car je suis de plus en plus 
 
 <!-- id: s13-11-0101 -->
 
-– X dans la salle : M<sup>me</sup> PERRIER a dit : *la règle* … STEIN
+– X dans la salle : M<sup>me</sup> PERRIER a dit : *la règle* …
 
 <!-- id: s13-11-0102 -->
 
-J’ai marqué *relation*. Bon, vous avez raison. Et moi j’ai marqué autre chose probablement parce que j’avais envie d’en parler.
+STEIN — J’ai marqué *relation*. Bon, vous avez raison. Et moi j’ai marqué autre chose probablement parce que j’avais envie d’en parler.
 
 <!-- id: s13-11-0103 -->
 
@@ -752,11 +752,11 @@ Et plutôt que de parler du passage un petit peu fantaisiste de deux à trois, c
 
 <!-- id: s13-11-0187 -->
 
-Il semble là qu’en effet il y ait un passage d’un système, disons indéterminé, spéculaire, à un système de triangulation dans lequel intervient, d’une façon plus spécifique, disons, le *Nom du Père* ou la *Loi*, etc. On pourrait développer tout ça mais enfin c’est simplement pour marquer qu’il y a quand même peut-être une terminologie à définir d’une façon plus précise avant de pousser plus loin une discussion. Sans quoi j’ai l’impression qu’on… Irène ROUBLEF
+Il semble là qu’en effet il y ait un passage d’un système, disons indéterminé, spéculaire, à un système de triangulation dans lequel intervient, d’une façon plus spécifique, disons, le *Nom du Père* ou la *Loi*, etc. On pourrait développer tout ça mais enfin c’est simplement pour marquer qu’il y a quand même peut-être une terminologie à définir d’une façon plus précise avant de pousser plus loin une discussion. Sans quoi j’ai l’impression qu’on…
 
 <!-- id: s13-11-0188 -->
 
-C’est très juste ce que vous dites que la relation duelle en effet, il faudrait y faire intervenir l’image spéculaire.
+Irène ROUBLEF — C’est très juste ce que vous dites que la relation duelle en effet, il faudrait y faire intervenir l’image spéculaire.
 
 <!-- id: s13-11-0189 -->
 

@@ -310,7 +310,9 @@ max_segment_id: 114
 
 <!-- id: s7-04-0072 -->
 
-“于是，身旁之人（*Nebenmensch*）复合体分成两个部分。其中一部分以恒定的结构强加于人，并作为原物（*Ding*）聚合在一起。”
+“于是，身旁之人（*Nebenmensch*）复合体分成两个部分。其中一部分以恒定的结构强加于人，并作为原物（*Ding*）聚合在一起。”[注]
+
+> [注] Staferla 逐字稿此处误多一个否定词，作 *ce n’est pas le complexe du Nebenmensch qui se sépare en deux parties*。米勒编定本的 Porter 英译（第 51 页）明确作肯定式 *the complex of the Nebenmensch is separated into two parts*；弗洛伊德《科学心理学纲要》的德文原句同样是 *Und so sondert sich der Komplex des Nebenmenschen in zwei Bestandteile...*。正文据后两项校勘证据保留肯定式。
 
 <!-- id: s7-04-0073 -->
 

@@ -352,8 +352,8 @@ II y en a, je vous l’ai dit, dans la pra­tique analytique, de multiples. Elle
 
 <!-- id: s11-10-0071 -->
 
-Elles peuvent être définies à différents niveaux, et par exemple l’instan­ce qui est fréquemment faite de la relation du sujet à telle
-ou telle de ces instances que dans le second temps de sa topique, FREUD a pu définir comme l’*idéal du moi* ou le *surmoi* par exemple, si elles sont partielles, ce n’est seulement que de donner une vue latéralisée de ce qui est essen­tiellement *le rapport avec* le grand Autre.
+Par exemple, si les conceptions de la relation du sujet à telle ou telle de ces instances que, dans le second temps de sa topique,
+FREUD a pu définir comme l’*idéal du moi* ou le *surmoi*, sont partielles, ce n’est souvent que de donner seulement une vue latéralisée de ce qui est essen­tiellement *le rapport avec* le grand Autre.
 
 <!-- id: s11-10-0072 -->
 

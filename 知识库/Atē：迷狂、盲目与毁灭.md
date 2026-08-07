@@ -34,6 +34,7 @@ verified_at: 2026-07-30
 ## 关联
 
 [[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]
+[[知识库/μὴ φῦναι：宁可不要出生与悲剧界限.md|μὴ φῦναι：宁可不要出生与悲剧界限]]
 
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-22.md#s7-22-0054|s7-22-0054]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-23.md#s7-23-0096|s7-23-0096]]

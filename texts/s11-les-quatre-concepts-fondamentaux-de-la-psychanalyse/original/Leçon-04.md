@@ -320,7 +320,7 @@ que j’ai cru devoir dès aujourd’hui, *sans rien garder de mes cartes dans m
 
 Ma thèse - pour être clair et savoir où je vous mène…que *vous* sachiez où je vous mène - est que cette *répéti­tion* sous le terme
 où FREUD, je ne dis pas l’introduit pour la première fois, mais pour la première fois l’articule dans l’article de 1914 :
-*Erinnern, Wiederholen, Durcharbeiten* [^26] - qui est bien l’article sur lequel s’est fondée dans l’analyse la plus grande stupidité -
+*Erinnern, Wiederholen und Durcharbeiten* [^26] - qui est bien l’article sur lequel s’est fondée dans l’analyse la plus grande stupidité -
 pour aller aboutir au *chapitre* V de *Jenseits des Lustprinzips* [^27].
 
 <!-- id: s11-04-0057 -->

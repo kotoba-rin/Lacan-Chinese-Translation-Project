@@ -894,7 +894,7 @@ Enfin - et là je ne peux que l’indiquer parce que, disons je n’ai pas assez
 
 <!-- id: s12-09-0220 -->
 
-La conclusion de ce mécanisme essentiel, comme dit, il me se semble très bien, M<sup>me</sup> Piera AULAGNIER, cette « *forclusion* » comment serait-elle concevable sans ce rapport à ce -ϕ corrélatif essentiellement du S en tant que ce qui se diminue ici, se barre là ?
+La conclusion de ce mécanisme essentiel, comme dit, il me semble très bien, M<sup>me</sup> Piera AULAGNIER, cette « *forclusion* » comment serait-elle concevable sans ce rapport à ce -ϕ corrélatif essentiellement du S en tant que ce qui se diminue ici, se barre là ?
 
 <!-- id: s12-09-0221 -->
 

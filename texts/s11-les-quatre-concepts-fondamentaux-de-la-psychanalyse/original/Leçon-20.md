@@ -511,7 +511,7 @@ Le désir de l’analyste n’est pas un désir pur.
 
 <!-- id: s11-20-0097 -->
 
-C’est un désir d’obtenir la *différence absolue*, celle qui vient quand, confronté au *signifiant pri­mordial*, le sujet vient pour la première fois en position de se l’assujettir.
+C’est un désir d’obtenir la *différence absolue*, celle qui vient quand, confronté au *signifiant pri­mordial*, le sujet vient pour la première fois en position de s’y assujettir.
 
 <!-- id: s11-20-0098 -->
 

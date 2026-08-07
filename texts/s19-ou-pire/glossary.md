@@ -58,6 +58,7 @@
 | Autre / grand Autre | 大他者 | 被划杠的大他者写作 $\not A$；其能指写作 $S(\not A)$。 |
 | objet petit (a) / objet (a) | 小对象 $a$ | 公式中写作 $a$。 |
 | jouissance | 享乐 | 与 *plaisir*“快乐／快感”区分。 |
+| suppléance / suppléer | 替补 / 起替补作用 | 指某物在缺失处代为发挥功能，不是单纯增加内容；依句法可译“补位／替代”。 |
 | plus-de-jouir | 剩余享乐 | 保留同“剩余价值”的构词关联。 |
 | semblant | 假象 | 指话语中的结构位置或在该位置发挥作用之物，不等于一般“假装”。 |
 | mi-dire | 半说 | 真理只能被“半说”。 |

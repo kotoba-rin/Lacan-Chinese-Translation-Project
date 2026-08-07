@@ -343,7 +343,7 @@ Si la théorie analytique laisse en suspens…
 >
 > est quelque chose qui se réduit à un rapport biologique, au rapport du sujet vivant avec *le sein*, avec *les fèces ou cybales*,
 >
-> avec *telle ou telle forme plus ou coins incarnée de l’objet(a)*, la fonction du *phallus* étant là tout à fait présente …si *l’objet - (a)* ou non - dépend du rapport avec le A, avec l’Autre, avec le statut que nous devons donner à l’Autre, au A par rapport au sujet, c’est bien là une question qui mérite d’être posée. Et si elle doit l’être, *dans quelle mesure* dépend-elle de ce rapport spécifique à l’Autre que nous *symbolisons* de la figure \[...\], à savoir de celle de la demande ?
+> avec *telle ou telle forme plus ou moins incarnée de l’objet(a)*, la fonction du *phallus* étant là tout à fait présente …si *l’objet - (a)* ou non - dépend du rapport avec le A, avec l’Autre, avec le statut que nous devons donner à l’Autre, au A par rapport au sujet, c’est bien là une question qui mérite d’être posée. Et si elle doit l’être, *dans quelle mesure* dépend-elle de ce rapport spécifique à l’Autre que nous *symbolisons* de la figure \[...\], à savoir de celle de la demande ?
 
 <!-- id: s12-11-0077 -->
 

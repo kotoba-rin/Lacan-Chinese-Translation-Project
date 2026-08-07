@@ -223,15 +223,12 @@ et ce n’est point là métaphore.
 <!-- id: s11-08-0040 -->
 
 La portée de cette petite histoire, telle qu’el­le venait de surgir dans l’invention de mon partenaire, le fait qu’il la trouvât si drôle
-et que moi, moins, tient au fait que si on me regarde, si on me raconte une histoire comme celle vous donnant là l’exemple premier
-de ce que j’in­diquais tout à l’heure, devant être essentiellement ce fonctionnement d’entrelacs, d’entrecroisement, de *chiasma*,
-qui est celui auquel, ou dans lequel, nous devons nous déplacer dans tout ce domaine.
+et que moi, moins, tient à ce que, si on me raconte une histoire comme celle-là, c’est tout de même parce que moi, à ce moment-là,
+tel que je me suis dépeint, avec ces types qui gagnaient péniblement leur existence dans l’étreinte avec ce qui était pour eux la rude nature,
 
 <!-- id: s11-08-0041 -->
 
-Là, c’est tout de même dans la mesure où moi, à ce moment vous donnant là l’exemple premier de ce que j’in­diquais tout à l’heure, devant être essentiellement ce fonctionnement d’entrelacs, d’entrecroisement, de *chiasma*, qui est celui auquel, ou dans lequel,
-nous devons nous déplacer dans tout ce domaine - là, tel que je me suis dépeint, avec ces types qui gagnaient là péniblement
-leur existence à *cette étreinte avec ce qui était, pour eux, la rude nature,* moi *je faisais tableau* d’une façon assez inénarrable.
+*je faisais tableau* d’une façon assez inénarrable. Pour tout dire, je faisais tant soit peu *tache dans le tableau*.
 
 <!-- id: s11-08-0042 -->
 

@@ -317,6 +317,8 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | psychique / psychiques | 精神的 | 作定语时依汉语搭配写作“精神现象”“精神经济”“精神现实”“精神因果性”等，不译“心理的”。*Psychologie* 仍译“心理学”；神话人物 *Psyché* 仍译“普绪克”。 |
+| économie psychique | 精神经济 | 不是“经济学”，也不只是泛指“结构”。在精神分析语境中，指精神装置中能量、投注、驱力、欲望、满足与享乐的配置及运作；可解释为“精神装置内部的能量配置与运作方式”。在拉康语境中，这个“内部”不是与大他者隔绝的封闭内心。第十七课见 *l’économie psychique* 与 *une économie réglée par le niveau de la jouissance*；第十三、二十五课另见 *l’économie de son désir*、*l’économie de votre sujet*。 |
+| économie d’un texte / économie d’une œuvre / économie du Banquet | 文本的整体安排 / 内部布局 | 指文本各部分的组织、配置及彼此关系，不译“精神经济”或“经济学”。第七课 *l’économie du Banquet* 指《会饮篇》的整体安排及阿伽通演说在其中的位置。 |
 | transfert | 转移 |  |
 | transfert positif / transfert négatif | 正转移 / 负转移 | 第十二课提醒不要从通常现象标注进入转移问题。 |
 | contre-transfert | 反转移 | 第十三课指分析家在分析中产生、并由其同被分析者的关系所决定的感受。 |

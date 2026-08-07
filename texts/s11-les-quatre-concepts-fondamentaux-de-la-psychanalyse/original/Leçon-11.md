@@ -229,9 +229,9 @@ la fonction du *cogito cartésien*, c’est qu’elle est illustrée par la reto
 <!-- id: s11-11-0045 -->
 
 En d’autres termes, dans notre vocabulaire à nous, qui fait de l’S par quoi nous symbolisons le sujet en tant que déterminé, constitué comme second, par rapport au signifiant. Et pour l’illustrer, je souligne que la chose peut se présenter de la façon
-la plus simple dans le *trait unaire *: le premier signifiant c’est *la coche*, par où il est marqué par exemple que le sujet à ce moment-là
-a tué une bête, moyennant quoi dans sa mémoire il ne s’embrouillera que quand il en aura tué dix autres,
-\[mais ?\] il ne se souviendra plus laquelle est laquelle.
+la plus simple dans le *trait unaire *: le premier signifiant, c’est *la coche*, par où il est marqué, par exemple, que le sujet à ce moment-là
+a tué une bête, moyennant quoi il ne s’embrouillera pas dans sa mémoire quand il en aura tué dix autres.
+Il n’aura pas à se souvenir de laquelle est laquelle.
 
 <!-- id: s11-11-0046 -->
 

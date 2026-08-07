@@ -23,4 +23,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/专名、书写与语音化.md|专名、书写与语音化]]
+
 [[texts/s8-le-transfert/translation/Leçon-21.md#s8-21-0022|s8-21-0022]]
