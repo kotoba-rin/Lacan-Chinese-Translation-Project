@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 89
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 89
 ---
 # Leçon 09 | 21 Mars 1978
@@ -14,356 +14,356 @@ max_segment_id: 89
 
 <!-- id: s25-09-0001 -->
 
-<!-- untranslated -->
+[苏里](#SOURY21Mars)
 
 <!-- id: s25-09-0002 -->
 
-<!-- untranslated -->
+拉康
 
 <!-- id: s25-09-0003 -->
 
-<!-- untranslated -->
+我要通知你们，巴黎第一大学校长阿尔韦莱夫人好意作出安排，让我在 4 月 11 日和 18 日举行研讨班。那段时间正值假期，所以你们大概只需要从面向先贤祠广场而非圣雅克街的那扇门进入。事实上，我原本只剩下两次研讨班；至于五月，会安排在第二个星期二，而不是第三个星期二，因为有人通知我，第三个星期二，这个讲堂里会举行考试。
 
 <!-- id: s25-09-0004 -->
 
-<!-- untranslated -->
+尽管如此，我仍然十分关心这里所涉及的问题，尤其是环面。苏里会把一些环面传给你们，这些环面上织着某种东西。有一件事令我格外关心，那就是所谓的*环面性*与*开孔*之间的关系。照苏里的说法，*开孔*与*环面性*之间似乎没有关系。对我来说，我不能说自己*看不出*其中的关系，但我对所谓环面大概只有一种混乱的观念。上一次，你们已经看到了一种关于如何处理环面的呈现。苏里一会儿会传给你们某件带有开孔的东西。这是一种人为的开孔；我的意思是，那是一个被针织物覆盖的环面，而这种针织物比简单的针织物更加密实；所谓简单的针织物，就是——困难恰恰在这里——作为针织图样画在环面上的东西。
 
 <!-- id: s25-09-0005 -->
 
-<!-- untranslated -->
+1 ![[texts/s25-le-moment-de-conclure/original/assets/image65.jpeg|260]] ![[texts/s25-le-moment-de-conclure/original/assets/image66.jpeg|260]] 3　2 ![[texts/s25-le-moment-de-conclure/original/assets/image67.jpeg|260]] ![[texts/s25-le-moment-de-conclure/original/assets/image68.jpeg|260]] 4　5 ![[texts/s25-le-moment-de-conclure/original/assets/image69.jpeg|260]] ![[texts/s25-le-moment-de-conclure/original/assets/image70.jpeg|260]] 7　6 ![[texts/s25-le-moment-de-conclure/original/assets/image71.jpeg|260]] ![[texts/s25-le-moment-de-conclure/original/assets/image72.jpeg|260]] 8
 
 <!-- id: s25-09-0006 -->
 
-<!-- untranslated -->
+我并没有向你们隐瞒这会带来什么问题：它被画在环面上这一事实，完全会使我所谓的“画出的东西”无法被当作针织物。尽管如此，按照约定，人们仍把它思考并表述为针织物。但必须再加上一项补充：能够画在曲面另一侧的东西必须反转，而且必须通过凸显上下穿越关系的反转来反转；这当然明显增加了我们谈论环面内部所发生之事的难度。
 
 <!-- id: s25-09-0007 -->
 
-<!-- untranslated -->
+这一点正显现在这里所画内容的相对复杂性中。［苏里图表的第三、第四层］
 
 <!-- id: s25-09-0008 -->
 
-<!-- untranslated -->
+我们不妨说，上下穿越关系的反转使问题变得复杂；因为我刚才所谓的这张图表的复杂性，与另一种反转毫无关系。由于那种反转发生在环面内部而不是外部，我们可以约定把它称作——或者按照定义称作——环面的镜像。这意味着存在环面镜子。
 
 <!-- id: s25-09-0009 -->
 
-<!-- untranslated -->
+这只是一个定义问题。事实是，被认为重要的是外部的东西，*环面外部的*、*画在环面外部的*东西。在这些图中［苏里图表的第三、第四层］，没有任何痕迹显示我所谓的“*环面镜像*”反转。*开孔*是实现*翻转*的一种手段。
 
 <!-- id: s25-09-0010 -->
 
-<!-- untranslated -->
+通过开孔，一只手可以伸进去，抓住环面的轴线，从而把环面翻转。
 
 <!-- id: s25-09-0011 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image99.jpeg|300]]
 
 <!-- id: s25-09-0012 -->
 
-<!-- untranslated -->
+但还有另一种可能：通过这个孔，把整个环面从孔里推过去，也会产生翻转效果。
 
 <!-- id: s25-09-0013 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image100.jpeg|300]]
 
 <!-- id: s25-09-0014 -->
 
-<!-- untranslated -->
+苏里一会儿会借助一种稍复杂的环面针织物向你们展示这一点。
 
 <!-- id: s25-09-0015 -->
 
-<!-- untranslated -->
+令人惊讶的是，推动环面的外部，会得到完全相同的结果。
 
 <!-- id: s25-09-0016 -->
 
-<!-- untranslated -->
+我的理由是：这个孔按照定义严格说来没有维度。也就是说，它可以这样呈现，而这里作为孔洞的东西，也同样可以用下面的方式投影。因此，这里表现为抓住轴线的动作会发生反转：抓住轴线会使这个部分来到孔洞之外；但由于环面发生了反转，抓住轴线会使环面……
 
 <!-- id: s25-09-0017 -->
 
-<!-- untranslated -->
+> 这里同样只是一个圆；轴线被抓住以后，它会来到这里。
 
 <!-- id: s25-09-0018 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image101.jpeg|400]]
 
 <!-- id: s25-09-0019 -->
 
-<!-- untranslated -->
+……但反过来可以看到，我们在这里*会得到同一幅图*：这里通过孔洞抓住的部分，以及这里被推入内部的部分，在此处反转以后，同样会作为一个环面运转，而这里的部分会变成轴线。
 
 <!-- id: s25-09-0020 -->
 
-<!-- untranslated -->
+现在，既然苏里好意来到这里，我要请他展示这两种表现*环面针织物*的方式之间存在的差异——也就是零差异。您拿着那个对象吗？
 
 <!-- id: s25-09-0021 -->
 
-<!-- untranslated -->
+苏里——我已经把它传下去了。
 
 <!-- id: s25-09-0022 -->
 
-<!-- untranslated -->
+拉康
 
 <!-- id: s25-09-0023 -->
 
-<!-- untranslated -->
+您已经把它传下去了……在这个对象上，可以看出抓住轴线与推动整个环面之间的差异。开始吧。
 
 <!-- id: s25-09-0024 -->
 
-<!-- untranslated -->
+苏里——我开始吗？
 
 <!-- id: s25-09-0025 -->
 
-<!-- untranslated -->
+[皮埃尔·苏里的发言](#Mars21)<span id="SOURY21Mars" class="anchor"></span>
 
 <!-- id: s25-09-0026 -->
 
-<!-- untranslated -->
+这里涉及通过开孔来翻转环面。
 
 <!-- id: s25-09-0027 -->
 
-<!-- untranslated -->
+我会用下面的方式呈现它：这是一个嫁接在无限平面上的环面。
 
 <!-- id: s25-09-0028 -->
 
-<!-- untranslated -->
+这幅图表明，一个环面通过一根*管子*嫁接在无限平面上。其中与开孔相对应的，就是这个*管子*部分；它既形成*环面的开孔*，也形成*无限平面的开孔*，而在这一点上，两者是一样的。
 
 <!-- id: s25-09-0029 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image102.jpeg|280]] ![[texts/s25-le-moment-de-conclure/original/assets/image103.jpeg|260]]
 
 <!-- id: s25-09-0030 -->
 
-<!-- untranslated -->
+在这里，空间被分成两个半部，而这个曲面有两个面。其中一面……
 
 <!-- id: s25-09-0031 -->
 
-<!-- untranslated -->
+> 我在这里用曲面上的一些毛来画它……在这里：这是一个面，另有一个面。好！
 
 <!-- id: s25-09-0032 -->
 
-<!-- untranslated -->
+空间被分成两个半部：
 
 <!-- id: s25-09-0033 -->
 
-<!-- untranslated -->
+- *空间的一个半部*：位于这个无限平面左侧、处在环面外部，并为这个环面构成轴线的半部，
 
 <!-- id: s25-09-0034 -->
 
-<!-- untranslated -->
+- *另一个半部*：总之，这个无限平面的另一侧与环面内部相通，而我在这里画出某种构成芯环的东西。
 
 <!-- id: s25-09-0035 -->
 
-<!-- untranslated -->
+这种构形可以用来表示*翻转*。现在我要表示*翻转以前*与*翻转以后*。
 
 <!-- id: s25-09-0036 -->
 
-<!-- untranslated -->
+我正在这里重画同一个东西，这是*翻转以前*。至于*翻转以后*……我仍用同一种标记表示两个面。
 
 <!-- id: s25-09-0037 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image104.jpeg|400]]
 
 <!-- id: s25-09-0038 -->
 
-<!-- untranslated -->
+所以，这里原先构成*外侧面*的部分——平面的左侧面与环面的外侧面——翻转以后仍然构成*平面的左侧面*，却变成了*环面的内侧面*。也就是说，在翻转中，原先的*环面外侧面*变成了*内侧面*。
 
 <!-- id: s25-09-0039 -->
 
-<!-- untranslated -->
+因此，这有点像手套；总之，这种翻转可以与翻手套相比较。
 
 <!-- id: s25-09-0040 -->
 
-<!-- untranslated -->
+不过，它并不完全是一只手套，而是一只环面手套，一只能够抓取、会闭合并抓住东西的手套。
 
 <!-- id: s25-09-0041 -->
 
-<!-- untranslated -->
+这只会闭合并抓取的手套可以翻转；翻转以后，它仍是一只会闭合并抓取的手套。
 
 <!-- id: s25-09-0042 -->
 
-<!-- untranslated -->
+刚才给出的一种描述是：一只手——我要把它画成蓝色——来到这里抓住……
 
 <!-- id: s25-09-0043 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image102.jpeg|260]] ![[texts/s25-le-moment-de-conclure/original/assets/image105.jpeg|240]]
 
 <!-- id: s25-09-0044 -->
 
-<!-- untranslated -->
+好，这只蓝色的手——赭色与蓝色这个对子是内部—外部的对子——来到这里抓取并使用这只手套。也就是说，这只环面手套套住这只蓝色的手，蓝色的手从而能够抓取，可以抓住这里以赭色表示的轴线。这只把手套当作手套使用的手，能够借此抓住赭色轴线。
 
 <!-- id: s25-09-0045 -->
 
-<!-- untranslated -->
+此时，可以用下面的方式描述*翻转*：这只蓝色的手拉、拉……最后它来到什么位置？
 
 <!-- id: s25-09-0046 -->
 
-<!-- untranslated -->
+总之，*翻转*以后，这只手来到这里：
 
 <!-- id: s25-09-0047 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image104.jpeg|400]]
 
 <!-- id: s25-09-0048 -->
 
-<!-- untranslated -->
+我要把这只手画实；好了，这是抓住东西的手和手臂，这只手来到了这里。
 
 <!-- id: s25-09-0049 -->
 
-<!-- untranslated -->
+而且现在，我已经略微改变了手的画法，也就是把它画成一只正在抓取的手；我不再像那里那样，留下手指尚未闭合的表示：
 
 <!-- id: s25-09-0050 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image106.jpeg|240]]
 
 <!-- id: s25-09-0051 -->
 
-<!-- untranslated -->
+我用两种不同的方式画了这只手。现在我要修改这里这只手的画法，表明它是一只正在抓取的手；因此，我把它画成闭合的手。好了：
 
 <!-- id: s25-09-0052 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image107.jpeg|240]]
 
 <!-- id: s25-09-0053 -->
 
-<!-- untranslated -->
+我已经修改了手的画法，把它画成一只闭合的、正在抓取的手。就是这样。
 
 <!-- id: s25-09-0054 -->
 
-<!-- untranslated -->
+所以，在这里，这只手与环面的关系是被环面像手套那样套住；而在这里，它与环面的关系则是同环面处在“*握手*”状态。也就是说，这里从手到环面的关系就像一次*握手*；也就是说，从手到环面，是从一种加倍状态——手套是手的加倍——过渡到一种互补状态。也就是说，这两只正在握手的手彼此互补；总之，它们是两个互补的环面、两个相扣的环面，而正在抓取的手本身也是一个环面。
 
 <!-- id: s25-09-0055 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image108.jpeg|280]]
 
 <!-- id: s25-09-0056 -->
 
-<!-- untranslated -->
+所以，这里是翻转以前与翻转以后。总之，在翻转中，可以通过这只手的状态——或者被手套套住，或者正在握手——来精确说明翻转。这有助于明确翻转，却不是表示翻转所不可缺少的。也就是说，即使这只手没有出现在图中，即使它缺席，翻转仍然可以得到表现：把这一切推入孔洞即可。
 
 <!-- id: s25-09-0057 -->
 
-<!-- untranslated -->
+翻转这只环面手套，可以通过把它推入孔洞来完成。也就是说，从这里的翻转以前过渡到翻转以后，并不需要借一只手来界定：这只手抓住、拉动，最后又来到那里。这只起初在*内部*、随后成为*互补者*的手并非不可或缺；翻转可以被简单地界定为：*推动*这里的整个部分——*环面部分*——*把它推入孔洞*；只要把它推入孔洞，它就会来到另一边。
 
 <!-- id: s25-09-0058 -->
 
-<!-- untranslated -->
+换句话说，这里的抓取确实有助于描述翻转。从戴入手套到握手的过渡，换句话说，*从*环面的*加倍*到环面的*互补者*的过渡；因此，其中的抓取所用来表明的、它所表明的，就是翻转之际会从加倍过渡到相扣。
 
 <!-- id: s25-09-0059 -->
 
-<!-- untranslated -->
+但它并不是……其中的手只是在展示*互补环面*。
 
 <!-- id: s25-09-0060 -->
 
-<!-- untranslated -->
+其中的手代表互补环面。但是，即使互补环面不在场，也可以通过推动这一切来完成翻转。总之，把这一切从孔洞中推过去，就会得到这个；也就是说，并不是……总之，也可以把整体推过去，可以同时推动环面和手，同样会得到这个结果。
 
 <!-- id: s25-09-0061 -->
 
-<!-- untranslated -->
+也就是说，其中正在抓取的手不过是环面的一个加倍，因而*并非翻转所不可缺少的*。也就是说，没有手与有手这两种描述之间的差异，就是翻转一个这里以白色表示的环面，与翻转一个由蓝色环面加倍的环面之间的差异。
 
 <!-- id: s25-09-0062 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image109.jpeg|240]] ![[texts/s25-le-moment-de-conclure/original/assets/image110.jpeg|240]]
 
 <!-- id: s25-09-0063 -->
 
-<!-- untranslated -->
+现在，我画出关于翻转的两种描述——不过我刚才画错了，这里应该是蓝色。
 
 <!-- id: s25-09-0064 -->
 
-<!-- untranslated -->
+我重新画出先前画过的东西，也就是先前这个环面，以及它在这里的外部。
 
 <!-- id: s25-09-0065 -->
 
-<!-- untranslated -->
+这里是环面的外侧面；它像这样翻转以后，外侧面变成了内侧面。
 
 <!-- id: s25-09-0066 -->
 
-<!-- untranslated -->
+而这里是同一回事，只不过环面由手加倍。这里则……好了。
 
 <!-- id: s25-09-0067 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image109.jpeg|240]] → ![[texts/s25-le-moment-de-conclure/original/assets/image111.jpeg|240]]　![[texts/s25-le-moment-de-conclure/original/assets/image110.jpeg|240]] → ![[texts/s25-le-moment-de-conclure/original/assets/image112.jpeg|260]]
 
 <!-- id: s25-09-0068 -->
 
-<!-- untranslated -->
+因此，这是两种呈现，是关于翻转的两种彼此相近的描述：
 
 <!-- id: s25-09-0069 -->
 
-<!-- untranslated -->
+- 一种情况是孤立的环面，
 
 <!-- id: s25-09-0070 -->
 
-<!-- untranslated -->
+- 另一种情况是环面及其双体；这个双体或者通过加倍得到，或者通过相扣得到。通过加倍得到的双体可以用戴入手套的状态形象化，通过相扣得到的双体则可以用握手状态形象化。好，就是这样。
 
 <!-- id: s25-09-0071 -->
 
-<!-- untranslated -->
+让-米歇尔·里贝特——*您能标出轴线的位置吗？*
 
 <!-- id: s25-09-0072 -->
 
-<!-- untranslated -->
+皮埃尔·苏里
 
 <!-- id: s25-09-0073 -->
 
-<!-- untranslated -->
+这里的轴线，我可以把它加上去。因此，戴着手套的手抓住轴线。在翻转之际，轴线会变成芯环。这里是轴线，翻转以后，它变成了芯环。
 
 <!-- id: s25-09-0074 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image113.jpeg|260]] → ![[texts/s25-le-moment-de-conclure/original/assets/image114.jpeg|240]]　![[texts/s25-le-moment-de-conclure/original/assets/image115.jpeg|260]] → ![[texts/s25-le-moment-de-conclure/original/assets/image116.jpeg|260]]
 
 <!-- id: s25-09-0075 -->
 
-<!-- untranslated -->
+某人——为什么*握手*这个图像看起来那么……
 
 <!-- id: s25-09-0076 -->
 
-<!-- untranslated -->
+皮埃尔·苏里——为什么握手这个图像……？
 
 <!-- id: s25-09-0077 -->
 
-<!-- untranslated -->
+某人——……看起来那么……？
 
 <!-- id: s25-09-0078 -->
 
-<!-- untranslated -->
+皮埃尔·苏里
 
 <!-- id: s25-09-0079 -->
 
-<!-- untranslated -->
+为什么*握手*这个图像看起来那么僵硬？因为握在一起的手是完全闭合的。
 
 <!-- id: s25-09-0080 -->
 
-<!-- untranslated -->
+这些是闭合的环。
 
 <!-- id: s25-09-0081 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image117.jpeg|300]]
 
 <!-- id: s25-09-0082 -->
 
-<!-- untranslated -->
+而且只能在*握手*与戴入手套之间选择。这里的柔韧性只允许从*握手*过渡到戴入手套，却不允许……总之，至于能够张开和闭合的手是什么，我并不知道。
 
 <!-- id: s25-09-0083 -->
 
-<!-- untranslated -->
+这里的只是环面手，是闭合的手。
 
 <!-- id: s25-09-0084 -->
 
-<!-- untranslated -->
+拉康
 
 <!-- id: s25-09-0085 -->
 
-<!-- untranslated -->
+归根结底，您认为这里所涉及的是*推动*？
 
 <!-- id: s25-09-0086 -->
 
-<!-- untranslated -->
+在这种操作方式中，只能是推动整个环面。
 
 <!-- id: s25-09-0087 -->
 
-<!-- untranslated -->
+所以您刚才才会谈到整个环面。
 
 <!-- id: s25-09-0088 -->
 
-<!-- untranslated -->
+皮埃尔·苏里——对，对。
 
 <!-- id: s25-09-0089 -->
 
-<!-- untranslated -->
+拉康——好，我今天就讲到这里。我们 4 月 11 日再见。

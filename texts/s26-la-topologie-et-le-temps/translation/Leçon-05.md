@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 15
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 15
 ---
 # Leçon 05 | 16 janvier 1979
@@ -14,60 +14,60 @@ max_segment_id: 15
 
 <!-- id: s26-05-0001 -->
 
-<!-- untranslated -->
+我对上一次向你们宣布的事情颇感为难，也就是：必须有第三种性别。
 
 <!-- id: s26-05-0002 -->
 
-<!-- untranslated -->
+这种第三性别无法在另外两种性别在场时继续存在。
 
 <!-- id: s26-05-0003 -->
 
-<!-- untranslated -->
+有一种强制操作，叫作入门仪式。
 
 <!-- id: s26-05-0004 -->
 
-<!-- untranslated -->
+精神分析是一种反入门仪式。
 
 <!-- id: s26-05-0005 -->
 
-<!-- untranslated -->
+入门仪式，就是我们借以——可以这样说——升向阳具的东西。
 
 <!-- id: s26-05-0006 -->
 
-<!-- untranslated -->
+要知道什么是入门仪式、什么不是，并不容易。
 
 <!-- id: s26-05-0007 -->
 
-<!-- untranslated -->
+不过，总的方向终究是：人把阳具整合进自身。
 
 <!-- id: s26-05-0008 -->
 
-<!-- untranslated -->
+既然没有入门仪式，人就必然不是男人，就是女人。好。
 
 <!-- id: s26-05-0009 -->
 
-<!-- untranslated -->
+下面我要同你们谈一个五股辫结。
 
 <!-- id: s26-05-0010 -->
 
-<!-- untranslated -->
+你们在这里看到，它从两股上方跨过，又从两股下方跨过。
 
 <!-- id: s26-05-0011 -->
 
-<!-- untranslated -->
+还需要把这个序列重复一次，也就是在这里（辫结图的下部）。
 
 <!-- id: s26-05-0012 -->
 
-<!-- untranslated -->
+在这张重复画了两次的图中，可以看到，有一种经纬结构关涉……
 
 <!-- id: s26-05-0013 -->
 
-<!-- untranslated -->
+好，我弄乱了，这很让人厌烦；不过，我得说，也得承认，我确实弄乱了。
 
 <!-- id: s26-05-0014 -->
 
-<!-- untranslated -->
+好。今天就到这里。
 
 <!-- id: s26-05-0015 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image22.jpeg|265]]

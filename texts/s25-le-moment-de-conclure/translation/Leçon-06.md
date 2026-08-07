@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 41
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 41
 ---
 # Leçon 06 | 14 Février 1978
@@ -14,164 +14,166 @@ max_segment_id: 41
 
 <!-- id: s25-06-0001 -->
 
-<!-- untranslated -->
+我有一点为难，因为我今天并不打算让你们轻松。就是这样！
 
 <!-- id: s25-06-0002 -->
 
-<!-- untranslated -->
+有一件事，我一直在问自己，并且正努力解决。
 
 <!-- id: s25-06-0003 -->
 
-<!-- untranslated -->
+这件事在于：假设有某种像这样呈现的东西，换句话说，它包含一个双环。
 
 <!-- id: s25-06-0004 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image53.jpeg|260]]
 
 <!-- id: s25-06-0005 -->
 
-<!-- untranslated -->
+利用这个东西，也就是利用这个开端，我们能够构成一个三元博罗米结。
 
 <!-- id: s25-06-0006 -->
 
-<!-- untranslated -->
+你们看得很清楚，这里的两个圆大致是这样的——它们是从透视角度看到的圆——这两个圆结在一起。
 
 <!-- id: s25-06-0007 -->
 
-<!-- untranslated -->
+这是我想到的一个主意；我原本不能确定它是否会构成博罗米结。
 
 <!-- id: s25-06-0008 -->
 
-<!-- untranslated -->
+但总之，我把它说了出来，结果证明是对的。
 
 <!-- id: s25-06-0009 -->
 
-<!-- untranslated -->
+这里需要你们稍稍尽一点力；它就是这样组装起来的。
 
 <!-- id: s25-06-0010 -->
 
-<!-- untranslated -->
+我同那个叫苏里的人一起检验了它；眼下我常与他来往。
 
 <!-- id: s25-06-0011 -->
 
-<!-- untranslated -->
+我与他来往，是因为他在这些博罗米结的问题上会对我说些有道理的话。
 
 <!-- id: s25-06-0012 -->
 
-<!-- untranslated -->
+尽管如此，我不能说他没有给我带来*麻烦*。
 
 <!-- id: s25-06-0013 -->
 
-<!-- untranslated -->
+我的意思是，对于这个博罗米结，他无论如何都想把它做成四元的。
 
 <!-- id: s25-06-0014 -->
 
-<!-- untranslated -->
+二元情形已经存在了，为什么还要做成四元？更何况到了二元情形，它根本维系不住。
 
 <!-- id: s25-06-0015 -->
 
-<!-- untranslated -->
+在我看来，到了四元情形，它也不会更能维系；也就是说，它必然会解开，除非把它做成环形的。
 
 <!-- id: s25-06-0016 -->
 
-<!-- untranslated -->
+我已经对你们谈过这种环形博罗米链环。
 
 <!-- id: s25-06-0017 -->
 
-<!-- untranslated -->
+它假定有某种东西，如人们所说，把开端接回起点；而这个东西只能是那个既结束它、又同时开启它的圆环：
 
 <!-- id: s25-06-0018 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image54.jpeg|360]]
 
 <!-- id: s25-06-0019 -->
 
-<!-- untranslated -->
+这个开始成形的博罗米结——正如我刚才所说——并不是环形的。
 
 <!-- id: s25-06-0020 -->
 
-<!-- untranslated -->
+更确切地说，它只有在三元情形中才是环形的。到了三元情形，只要让待补入的一支从下方那一支的下面穿过、从上方那一支的上面穿过[注]，我们就会得到一个典型的博罗米结，也就是这个：这个［I］与这个［II］以这种方式［III］彼此补全：
+
+> [注] *Faire passer dessous l’inférieur, dessus le supérieur* 省略了被使动穿越的成分。图 III，以及第十一课更完整的说法 *passer sous celui qui est dessous, et sur celui qui est dessus*，都表明这里是让待补入的一支相对于上下两支穿越；Staferla 与录音—Chollet 工作本在本句措辞一致。
 
 <!-- id: s25-06-0021 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image55.jpeg|220]] ![[texts/s25-le-moment-de-conclure/original/assets/image56.jpeg|220]] ![[texts/s25-le-moment-de-conclure/original/assets/image57.jpeg|240]]
 
 <!-- id: s25-06-0022 -->
 
-<!-- untranslated -->
+> I　II　III　很明显，人们还没有习惯这个博罗米结。我到底为什么要把它引进来？
 
 <!-- id: s25-06-0023 -->
 
-<!-- untranslated -->
+我把它引进来，是因为在我看来，它与临床有某种关系。
 
 <!-- id: s25-06-0024 -->
 
-<!-- untranslated -->
+我的意思是，*想象界、象征界与实在界*这个三元组，在我看来具有某种意义。
 
 <!-- id: s25-06-0025 -->
 
-<!-- untranslated -->
+事实上，可以肯定，这是某种像这样组装起来的东西，也就是第三个图［III］；那么，它们会结在一起。
 
 <!-- id: s25-06-0026 -->
 
-<!-- untranslated -->
+这在那幅图上并不明显。
 
 <!-- id: s25-06-0027 -->
 
-<!-- untranslated -->
+但如果把我后来用黑色加上的东西放到开头——我的意思是放在这里——我们就会看到，这两条黑线［I］可以彼此等同。
 
 <!-- id: s25-06-0028 -->
 
-<!-- untranslated -->
+我会试着借一幅补充图向你们展示这一点。这确实非常复杂。
 
 <!-- id: s25-06-0029 -->
 
-<!-- untranslated -->
+大致是这样，条件是像这样把它补全。
 
 <!-- id: s25-06-0030 -->
 
-<!-- untranslated -->
+很明显，我在这些图里辨认方向时极其笨拙［*笑声*］。
 
 <!-- id: s25-06-0031 -->
 
-<!-- untranslated -->
+还有另一种画法［*笑声*］，这是我从苏里那里得来的，大致这样呈现。
 
 <!-- id: s25-06-0032 -->
 
-<!-- untranslated -->
+画法如下［IV］，并在下一幅图［V］中得到补全；这幅图显然并不十分清楚……
 
 <!-- id: s25-06-0033 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image58.jpeg|300]] ![[texts/s25-le-moment-de-conclure/original/assets/image59.jpeg|320]]
 
 <!-- id: s25-06-0034 -->
 
-<!-- untranslated -->
+IV　V
 
 <!-- id: s25-06-0035 -->
 
-<!-- untranslated -->
+请注意，可以把第三幅图，也就是黑色的图［这里为蓝色］放在这里。
 
 <!-- id: s25-06-0036 -->
 
-<!-- untranslated -->
+也许，尽管它按这里的呈现方式无疑会解开，你们仍能把下面这一点重构出来：它们会结在一起。
 
 <!-- id: s25-06-0037 -->
 
-<!-- untranslated -->
+我的意思是，这里构成了一个三元博罗米结，它通过首尾接合而形成——也就是说，通过闭合而形成。
 
 <!-- id: s25-06-0038 -->
 
-<!-- untranslated -->
+它的闭合方式与我刚才在那里不恰当地展示给你们的完全一样，也与简单博罗米结的情况完全一样。就是这样！
 
 <!-- id: s25-06-0039 -->
 
-<!-- untranslated -->
+很抱歉，我没能把这一课准备得更好。
 
 <!-- id: s25-06-0040 -->
 
-<!-- untranslated -->
+下一次，我会尽量给你们分发几幅更清楚一些的图。
 
 <!-- id: s25-06-0041 -->
 
-<!-- untranslated -->
+好了，我今天就讲到这里。

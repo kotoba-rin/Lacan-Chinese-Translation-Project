@@ -142,7 +142,7 @@ De sorte que « *La parenté en question »...*
 
 <!-- id: s24-10-0034 -->
 
-Ça n’a pas du tout la mêmes conséquence que *l’analysant ne parle que de ça* *parce que* *ses proches parents lui ont appris* *lalangue *: il ne différencie pas ce qui spécifie sa relation à lui, avec ses proches parents.
+Ça n’a pas du tout les mêmes conséquences que *l’analysant ne parle que de ça* *parce que* *ses proches parents lui ont appris* *lalangue *: il ne différencie pas ce qui spécifie sa relation à lui, avec ses proches parents.
 
 <!-- id: s24-10-0035 -->
 

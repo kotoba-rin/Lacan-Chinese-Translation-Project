@@ -44,19 +44,40 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 
 ## 当前内容翻译进度
 
-截至 2026 年 7 月 30 日，已有 7 部研讨班建立完整译文目录，共 131 课；其中 86 课已完成译文覆盖。按项目插件采用的分段进度算法，当前已覆盖 14,243 / 20,403 个分段（69.81%）。
+截至 2026 年 8 月 7 日，28 部研讨班均已建立完整译文目录，共 531 课；其中 522 课已完成译文覆盖，27 部研讨班达到 100%。按项目插件采用的分段进度算法，当前已覆盖 86,489 / 88,020 个分段（98.26%）。
 
 | 研讨班 | 目录 | 已覆盖课次 | 分段进度 | 当前状态 |
 | --- | --- | ---: | ---: | --- |
+| I，*Les écrits techniques de Freud* | `texts/s1-les-ecrits-techniques-de-freud` | 23 / 23 | 100% | 译文覆盖完成，待校订 |
+| II，*Le moi dans la théorie et dans la technique psychanalytique* | `texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
+| III，*Les psychoses* | `texts/s3-les-psychoses` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
+| IV，*La relation d'objet* | `texts/s4-la-relation-d-objet` | 24 / 24 | 100% | 译文覆盖完成，待校订 |
+| V，*Les formations de l'inconscient* | `texts/s5-les-formations-de-l-inconscient` | 28 / 28 | 100% | 译文覆盖完成，待校订 |
+| VI，*Le désir et son interprétation* | `texts/s6-le-desir-et-son-interpretation` | 27 / 27 | 100% | 译文覆盖完成，待校订 |
 | VII，*L'éthique de la psychanalyse* | `texts/s7-l-ethique-de-la-psychanalyse` | 27 / 27 | 100% | 译文覆盖完成，待校订 |
 | VIII，*Le transfert* | `texts/s8-le-transfert` | 27 / 27 | 100% | 译文覆盖完成，持续校订 |
-| X，*L'angoisse* | `texts/s10-l-angoisse` | 0 / 25 | 0% | 译文骨架已建立，待翻译 |
-| XI，*Les quatre concepts fondamentaux de la psychanalyse* | `texts/s11-les-quatre-concepts-fondamentaux-de-la-psychanalyse` | 0 / 20 | 0% | 译文骨架已建立，待翻译 |
+| IX，*L'identification* | `texts/s9-l-identification` | 26 / 26 | 100% | 译文覆盖完成，待校订 |
+| X，*L'angoisse* | `texts/s10-l-angoisse` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
+| XI，*Les quatre concepts fondamentaux de la psychanalyse* | `texts/s11-les-quatre-concepts-fondamentaux-de-la-psychanalyse` | 20 / 20 | 100% | 译文覆盖完成，待校订 |
+| XII，*Problèmes cruciaux pour la psychanalyse* | `texts/s12-problemes-cruciaux-pour-la-psychanalyse` | 15 / 24 | 67.16% | 翻译进行中 |
+| XIII，*L'objet de la psychanalyse* | `texts/s13-l-objet-de-la-psychanalyse` | 23 / 23 | 100% | 译文覆盖完成，待校订 |
+| XIV，*La logique du fantasme* | `texts/s14-la-logique-du-fantasme` | 24 / 24 | 100% | 译文覆盖完成，待校订 |
+| XV，*L'acte psychanalytique* | `texts/s15-l-acte-psychanalytique` | 18 / 18 | 100% | 译文覆盖完成，待校订 |
+| XVI，*D'un Autre à l'autre* | `texts/s16-d-un-autre-a-l-autre` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
 | XVII，*L'envers de la psychanalyse* | `texts/s17-l-envers-de-la-psychanalyse` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
+| XVIII，*D'un discours qui ne serait pas du semblant* | `texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant` | 10 / 10 | 100% | 译文覆盖完成，待校订 |
 | XIX，*... ou pire* | `texts/s19-ou-pire` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
 | XIXb，*Le savoir du psychanalyste* | `texts/s19b-le-savoir-du-psychanalyste` | 7 / 7 | 100% | 译文覆盖完成，待校订 |
+| XX，*Encore* | `texts/s20-encore` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
+| XXI，*Les non-dupes errent* | `texts/s21-les-non-dupes-errent` | 15 / 15 | 100% | 译文覆盖完成，待校订 |
+| XXII，*R.S.I.* | `texts/s22-r-s-i` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XXIII，*Le sinthome* | `texts/s23-le-sinthome` | 11 / 11 | 100% | 译文覆盖完成，待校订 |
+| XXIV，*L'insu que sait de l'une-bévue s'aile à mourre* | `texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XXV，*Le moment de conclure* | `texts/s25-le-moment-de-conclure` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XXVI，*La topologie et le temps* | `texts/s26-la-topologie-et-le-temps` | 10 / 10 | 100% | 译文覆盖完成，待校订 |
+| XXVII，*Dissolution* | `texts/s27-dissolution` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
 
-这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。其余 21 部研讨班目前仅收录原文，尚未纳入译文进度统计。
+这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。目前仅第十二研讨班尚未完成译文覆盖，翻译仍在进行中。
 
 ## 许可证
 

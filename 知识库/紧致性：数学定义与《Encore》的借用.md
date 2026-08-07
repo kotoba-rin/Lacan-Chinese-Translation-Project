@@ -4,11 +4,11 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XX
+  - 研讨班XXVI
   - 领域/数学
-  - 领域/精神分析
   - 概念/拓扑学
   - 概念/非全
-verified_at: 2026-08-06
+verified_at: 2026-08-07
 ---
 
 拓扑学中，一个空间具有紧致性，通常是指它的每一个开覆盖都能抽出有限子覆盖。等价地说：在紧致空间中，如果一族闭集具有有限交性质——每一个有限子族的交都非空——那么整族闭集的交也非空。这两个条件通过取补集互相转换。
@@ -17,11 +17,14 @@ verified_at: 2026-08-06
 
 拉康借这组有限／无限、闭集／开集的转换来思考裂隙、绝对大他者与“非全”。这是一项概念性借用，不是由拓扑学定理推出性化结构的数学证明。还应注意，本项目法文底本在 s20-01-0198 用方括号把开集覆盖直接解释成“女性的、非全的享乐”；该句属于底本编注，不应当作拉康现场发言逐字引用。
 
+《研讨班 XXVI》第十课中，瓦普罗回看《再来一次》，说数学家能在“紧致裂口”一段认出“完全正确”的紧致性定义，并试图把它接回《研讨班 XI》的能指网络与不连续性。这是瓦普罗的评价，不会消除《研讨班 XX》口头表述中省略的数学前提，也不能把“紧致裂口”直接变成一条标准拓扑学术语。尤其是，他紧接着承认，在由连续映射定义的拓扑语境里谈“不连续性”会令数学家发笑；这使他的回接本身保持为需要论证的阅读，而不是数学证明。
+
 ## 来源
 
 - [[texts/s20-encore/original/Leçon-01.md#s20-01-0182|《研讨班 XX》第一课 s20-01-0182]]—[[texts/s20-encore/original/Leçon-01.md#s20-01-0183|s20-01-0183]]（法文；紧致性、裂隙与闭集交）
 - [[texts/s20-encore/original/Leçon-01.md#s20-01-0194|《研讨班 XX》第一课 s20-01-0194]]—[[texts/s20-encore/original/Leçon-01.md#s20-01-0198|s20-01-0198]]（法文；有限子覆盖及底本编注）
 - [The Stacks Project, Lemma 5.12.6](https://stacks.math.columbia.edu/tag/005D)（英文；紧致空间中闭集有限交性质的严格表述与证明）
+- [[texts/s26-la-topologie-et-le-temps/original/Leçon-10.md#s26-10-0257|《研讨班 XXVI》第十课 s26-10-0257—s26-10-0261]]（法文；瓦普罗对“紧致裂口”的回读及其对连续／不连续张力的承认）
 
 ## 关联
 
@@ -33,3 +36,7 @@ verified_at: 2026-08-06
 [[texts/s20-encore/translation/Leçon-01.md#s20-01-0183|s20-01-0183]]
 [[texts/s20-encore/translation/Leçon-01.md#s20-01-0196|s20-01-0196]]
 [[texts/s20-encore/translation/Leçon-01.md#s20-01-0198|s20-01-0198]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-10.md#s26-10-0257|s26-10-0257]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-10.md#s26-10-0258|s26-10-0258]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-10.md#s26-10-0260|s26-10-0260]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-10.md#s26-10-0261|s26-10-0261]]

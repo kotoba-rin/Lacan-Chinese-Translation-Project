@@ -1,10 +1,10 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 1
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 1
 ---
-# Leçon 11 | 29 juin 1980
+# Leçon 11 | 1980 年 6 月 29 日
 
 <!-- source-original: texts/s27-dissolution/original/Leçon-11.md -->
 
@@ -14,4 +14,24 @@ max_segment_id: 1
 
 <!-- id: s27-11-0001 -->
 
-<!-- untranslated -->
+![[texts/s27-dissolution/original/assets/image5.jpeg|420]]
+
+**弗洛伊德事业**  
+法国巴黎 75007，里尔街 5 号
+
+**1980 年 7 月通讯**
+
+我以自己最后一场研讨班，为“弗洛伊德事业”创办第一期通讯；一千多人正在等待它。
+
+我们这里所谓的假期将至，但这并不能阻止我，因为对我来说，假期会像往常一样只是徒有其名。
+
+而且，追随我时，你们所能做的最好事情正是这个：归根结底，就是作出努力。我的意思是，组成卡特尔。
+
+至于 E.F.，我要说明：在我把它彻底办结以前，它绝不会得到 P.。[注]
+
+雅克·拉康  
+1980 年 6 月 29 日
+
+> [注] 图中文字只写缩写 *P.*，没有展开；它可听作 *paix*（“安宁”），同时又是 E.F.P. 中的字母 P。译文保留字母，不把这一可能读法写成定论。
+
+除投递错误或地址变更外，《事业通讯》第 1 期将寄给所有收到 2 月 21 日卡片的人。拉康医生要求把本通讯寄给巴黎弗洛伊德学派的全体成员。请以回邮方式把登记表寄回里尔街 5 号秘书处。

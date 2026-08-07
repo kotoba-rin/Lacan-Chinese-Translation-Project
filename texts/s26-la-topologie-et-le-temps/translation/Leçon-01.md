@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 62
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 62
 ---
 # Leçon 01 | 21 Novembre 1978
@@ -14,248 +14,262 @@ max_segment_id: 62
 
 <!-- id: s26-01-0001 -->
 
-<!-- untranslated -->
+拓扑学与实践之间存在着一种对应关系。
 
 <!-- id: s26-01-0002 -->
 
-<!-- untranslated -->
+这种对应关系就在于“诸时间”。[注]
+
+> [注] *Cette correspondance consiste en les temps* 在 Staferla、Michel Chollet 两种转录及现存录音中一致。录音里的 *les temps*（诸时间）与 *l’étant*（存在着的东西／存在者）同音，听辨上形成歧义；因此正文保留底本的复数“诸时间”，不把它定改为“存在者”。结合本课开篇所说的“切割的时间”，这里也可能暗示拉康的多个逻辑时刻，但那属于解释，不能据此改写底本。
 
 <!-- id: s26-01-0003 -->
 
-<!-- untranslated -->
+拓扑学具有抵抗性，正是在这一点上，对应关系才存在。
 
 <!-- id: s26-01-0004 -->
 
-<!-- untranslated -->
+有一条我们已经画出的莫比乌斯带：
 
 <!-- id: s26-01-0005 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image3.jpeg|170]]
 
 <!-- id: s26-01-0006 -->
 
-<!-- untranslated -->
+这就是所谓的三重带。可以注意到，这条三重带的特征在于它有边，而它的边大致是这样：
 
 <!-- id: s26-01-0007 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image4.png|150]]
 
 <!-- id: s26-01-0008 -->
 
-<!-- untranslated -->
+它的边是这样：
 
 <!-- id: s26-01-0009 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image5.png|170]]
 
 <!-- id: s26-01-0010 -->
 
-<!-- untranslated -->
+说得更准确些，是这样：
 
 <!-- id: s26-01-0011 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image6.jpeg|170]]
 
 <!-- id: s26-01-0012 -->
 
-<!-- untranslated -->
+如果你们把这些边折回去，就会得到这样呈现的东西；于是，黑色圆环便呈现出这种样子。结果大致就是这样。
 
 <!-- id: s26-01-0013 -->
 
-<!-- untranslated -->
+这里的黑色圆环是白色的。［拉康指着一个白色绳圈，它从一圈黄色绳线的缠绕内部穿过。］
 
 <!-- id: s26-01-0014 -->
 
-<!-- untranslated -->
+好了，我把它传给你们看。
 
 <!-- id: s26-01-0015 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image7.jpeg|155]]
 
 <!-- id: s26-01-0016 -->
 
-<!-- untranslated -->
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
 <!-- id: s26-01-0017 -->
 
-<!-- untranslated -->
+有一种办法，可以用这条带把它覆盖起来［虚线］：
 
 <!-- id: s26-01-0018 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image8.jpeg|150]]
 
 <!-- id: s26-01-0019 -->
 
-<!-- untranslated -->
+此后，它从下一条带的后面穿过。
 
 <!-- id: s26-01-0020 -->
 
-<!-- untranslated -->
+不过，应当看到的是：从下一条带后面穿过的部分，恰恰就是回到第 3 条带前面的部分；此后，它又回到这里所画之物的后面，我是说，回到三重莫比乌斯带的后面。
 
 <!-- id: s26-01-0021 -->
 
-<!-- untranslated -->
+正因如此，它又回到了前面。
 
 <!-- id: s26-01-0022 -->
 
-<!-- untranslated -->
+因此，我们得到的是：
 
 <!-- id: s26-01-0023 -->
 
-<!-- untranslated -->
+- 在前面：1、3、5；
 
 <!-- id: s26-01-0024 -->
 
-<!-- untranslated -->
+- 在后面：2、4、6……6 又同 1 相接。
 
 <!-- id: s26-01-0025 -->
 
-<!-- untranslated -->
+这正是我用虚线标出的包覆带部分。
 
 <!-- id: s26-01-0026 -->
 
-<!-- untranslated -->
+你们可以摆弄它，甚至可以用它覆盖三重带。
 
 <!-- id: s26-01-0027 -->
 
-<!-- untranslated -->
+这里还有一个我目前称作“包覆带”的样本。
 
 <!-- id: s26-01-0028 -->
 
-<!-- untranslated -->
+你们可以确认它与……是同一的。
 
 <!-- id: s26-01-0029 -->
 
-<!-- untranslated -->
+引人注目的是，一条普通的莫比乌斯带……
 
 <!-- id: s26-01-0030 -->
 
-<!-- untranslated -->
+> 这里就是一个例子：
+>
+> ![[texts/s26-la-topologie-et-le-temps/original/assets/image9.jpeg|240]]
+>
+> ……一条普通的莫比乌斯带——也就是说，像这样的莫比乌斯带——同样让 1、2、3、4 各自处在同样的位置上：
 
 <!-- id: s26-01-0031 -->
 
-<!-- untranslated -->
+- 这些数：2、4、6，都在后面；
 
 <!-- id: s26-01-0032 -->
 
-<!-- untranslated -->
+- 而这些数：1、3、5，都在前面。
 
 <!-- id: s26-01-0033 -->
 
-<!-- untranslated -->
+这里是 1；它在 2 处从后面穿过，在 3 处从前面穿过。在 4 处，它从后面穿过，这使它能够在 5 处重新回到前面，再从后面穿过，经由所谓的 6 同 1 相接。
 
 <!-- id: s26-01-0034 -->
 
-<!-- untranslated -->
+因此，在三重莫比乌斯带中，包覆带有两条边。
 
 <!-- id: s26-01-0035 -->
 
-<!-- untranslated -->
+在我刚才传给大家看的那条带上，这一点很容易看出来。
 
 <!-- id: s26-01-0036 -->
 
-<!-- untranslated -->
+这是一个重要之点；你们可以在我刚才传给大家看的东西上核实它。
 
 <!-- id: s26-01-0037 -->
 
-<!-- untranslated -->
+所有莫比乌斯带之间都有某种共同之处，至少这种交替就是如此。
 
 <!-- id: s26-01-0038 -->
 
-<!-- untranslated -->
+是否可能——这是肯定的……——切割莫比乌斯带呢？
 
 <!-- id: s26-01-0039 -->
 
-<!-- untranslated -->
+不仅每一条都可以切割，而且还可以切割我所谓的衬带。
 
 <!-- id: s26-01-0040 -->
 
-<!-- untranslated -->
+什么是衬带？
 
 <!-- id: s26-01-0041 -->
 
-<!-- untranslated -->
+衬带可以单独存在。不过，在这种情况下，必须切开莫比乌斯带——莫比乌斯带归根结底是整件事情的灵魂。
 
 <!-- id: s26-01-0042 -->
 
-<!-- untranslated -->
+有一种办法，可以在环面上画出一条莫比乌斯带。
 
 <!-- id: s26-01-0043 -->
 
-<!-- untranslated -->
+如果所涉及的是三重带，画法如下。
 
 <!-- id: s26-01-0044 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image10.jpeg|160]] → ![[texts/s26-la-topologie-et-le-temps/original/assets/image11.jpeg|115]] → ![[texts/s26-la-topologie-et-le-temps/original/assets/image12.jpeg|80]] → ![[texts/s26-la-topologie-et-le-temps/original/assets/image13.jpeg|120]]
 
 <!-- id: s26-01-0045 -->
 
-<!-- untranslated -->
+为此，必须把环面捏拢，让构成环面的两个表面贴合在一起[注1]。
+
+> [注1] 参见《晕眩言说》（*L’étourdit*）：“现在来一点拓扑学。”载 *Scilicet* 第 4 期，瑟伊出版社，1973 年，第 26 页。
 
 <!-- id: s26-01-0046 -->
 
-<!-- untranslated -->
+内侧面消失了，它被压平、碾扁了。
 
 <!-- id: s26-01-0047 -->
 
-<!-- untranslated -->
+同样很容易用环面做出一条三重带……
 
 <!-- id: s26-01-0048 -->
 
-<!-- untranslated -->
+我想说的是，同样很容易做出一条单重带。
 
 <!-- id: s26-01-0049 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image14.jpeg|190]]
 
 <!-- id: s26-01-0050 -->
 
-<!-- untranslated -->
+精神分析与拓扑学之间毕竟存在一道裂口。
 
 <!-- id: s26-01-0051 -->
 
-<!-- untranslated -->
+我努力要做的，就是把这道裂口填上。
 
 <!-- id: s26-01-0052 -->
 
-<!-- untranslated -->
+拓扑学具有典范性；它使我们能够在实践中作出若干隐喻。
 
 <!-- id: s26-01-0053 -->
 
-<!-- untranslated -->
+结构与拓扑学之间存在一种等价关系。
 
 <!-- id: s26-01-0054 -->
 
-<!-- untranslated -->
+格罗代克那里所说的“本我”（*Ça*），就是这个；正是这个“它”，才是“本我”。[注]
+
+> [注] *ça* 是日常指示代词“这／它”，大写 *Ça* 又是法语精神分析对弗洛伊德德语 *Es*（本我）的译名。拉康在 *C’est ça le « Ça »… c’est ça qui est « Ça »* 中反复利用两者同音而大小写不同的双关；正文以“本我”保住概念义，同时留下普通“这个／它”的指示义。
 
 <!-- id: s26-01-0055 -->
 
-<!-- untranslated -->
+必须在结构中确定方向。
 
 <!-- id: s26-01-0056 -->
 
-<!-- untranslated -->
+并不只有博罗米结。
 
 <!-- id: s26-01-0057 -->
 
-<!-- untranslated -->
+为了推广所谓的博罗米结，可以有一种做法，它并不只是让一个结在其中一环被剪断后便从其他所有环中释放出来。
 
 <!-- id: s26-01-0058 -->
 
-<!-- untranslated -->
+有一种特定的方式可以明确说明：在 5 个圆环中剪断 2 个，恰恰必然使余下 3 个获得自由。
 
 <!-- id: s26-01-0059 -->
 
-<!-- untranslated -->
+这就是所谓博罗米结的推广。
 
 <!-- id: s26-01-0060 -->
 
-<!-- untranslated -->
+在 5 个圆环中剪断 2 个，其余 3 个便是自由的。
 
 <!-- id: s26-01-0061 -->
 
-<!-- untranslated -->
+我会努力在今年结束以前给你们举出一个例子。
 
 <!-- id: s26-01-0062 -->
 
-<!-- untranslated -->
+好了，我讲了一个小时。感谢各位倾听。

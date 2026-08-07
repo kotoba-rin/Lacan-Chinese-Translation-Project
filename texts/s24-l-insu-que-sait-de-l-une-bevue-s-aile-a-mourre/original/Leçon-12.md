@@ -114,7 +114,7 @@ Ce n’est pas pour rien que dans son temps, j’ai manifesté une certaine pré
 
 <!-- id: s24-12-0028 -->
 
-Les *fictions* sont orientées vers le service, qu’il justifie en somme.
+Les *fictions* sont orientées vers le service, qui est… qu’il justifie en somme.
 
 <!-- id: s24-12-0029 -->
 

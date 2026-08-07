@@ -7,7 +7,7 @@ tags:
   - 领域/精神分析
   - 概念/对象a
   - 概念/主体分裂
-verified_at: 2026-08-06
+verified_at: 2026-08-07
 ---
 
 《研讨班 XIII》的题名“精神分析的对象”不是泛指精神分析所研究的一切人、症状或材料。拉康在第一课便把它明确为对象 (a) 在精神分析中发挥的功能；第二十课又重申，题名精确指向他以对象 (a) 写入结构的东西。
@@ -35,6 +35,7 @@ verified_at: 2026-08-06
 [[知识库/交叉帽、内八字切口与不可镜像化的客体a.md|交叉帽、内八字切口与不可镜像化的客体 a]]
 [[知识库/帕斯卡的赌注.md|帕斯卡的赌注]]
 [[知识库/康拉德·斯坦的分析情境：退行、自恋与拉康的批评.md|康拉德·斯坦的分析情境：退行、自恋与拉康的批评]]
+[[知识库/L’achose：在自身位置上缺席的“物”.md|L’achose：在自身位置上缺席的“物”]]
 
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-01.md#s13-01-0078|s13-01-0078]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-01.md#s13-01-0079|s13-01-0079]]
@@ -43,4 +44,3 @@ verified_at: 2026-08-06
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-06.md#s13-06-0101|s13-06-0101]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-18.md#s13-18-0137|s13-18-0137]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-20.md#s13-20-0004|s13-20-0004]]
-

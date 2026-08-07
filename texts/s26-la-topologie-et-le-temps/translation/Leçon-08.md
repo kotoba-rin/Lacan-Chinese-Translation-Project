@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 25
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 25
 ---
 # Leçon 08 | 20 mars 1979
@@ -14,100 +14,100 @@ max_segment_id: 25
 
 <!-- id: s26-08-0001 -->
 
-<!-- untranslated -->
+有人给我写信，告诉我他对我上一次研讨班讲演有什么想法。
 
 <!-- id: s26-08-0002 -->
 
-<!-- untranslated -->
+好吧，事实上，我当时做的是这个：这是一个广义博罗米结构［I］……
 
 <!-- id: s26-08-0003 -->
 
-<!-- untranslated -->
+> 而给我写信的人却把它化简成这里这个普通［博罗米结构］［II］……换言之，这个［广义博罗米结构］是通过把这两个部分——绿色与黑色［III］——接成连续的一体而得到的。
 
 <!-- id: s26-08-0004 -->
 
-<!-- untranslated -->
+绿色与黑色部分就在这里。
 
 <!-- id: s26-08-0005 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image30.jpeg|125]] ![[texts/s26-la-topologie-et-le-temps/original/assets/image31.jpeg|120]] ![[texts/s26-la-topologie-et-le-temps/original/assets/image32.jpeg|120]]
 
 <!-- id: s26-08-0006 -->
 
-<!-- untranslated -->
+**I　II　III**
 
 <!-- id: s26-08-0007 -->
 
-<!-- untranslated -->
+还有另一种解法：
 
 <!-- id: s26-08-0008 -->
 
-<!-- untranslated -->
+- 可以把我起先画成黄色（橙色）的部分，与我画成红色的部分［II］接成连续的一体；
 
 <!-- id: s26-08-0009 -->
 
-<!-- untranslated -->
+- 或者，也可以把我在这里画成红色的部分，与我画成黑色的部分［II］接成连续的一体。
 
 <!-- id: s26-08-0010 -->
 
-<!-- untranslated -->
+问题在于，什么是同伦的：同伦的东西处在同一个实存性［IV］内部。
 
 <!-- id: s26-08-0011 -->
 
-<!-- untranslated -->
+上一次，我做出了某种属于这个次序的东西［IV］；我的意思是，在同一根绳子内部，同伦就在于可以穿越这个图形。
 
 <!-- id: s26-08-0012 -->
 
-<!-- untranslated -->
+结果，这个结便解开了。只需在一个点上穿过绳子本身即可＊。这里涉及的是同一根绳子。
 
 <!-- id: s26-08-0013 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image33.jpeg|115]] **→** ![[texts/s26-la-topologie-et-le-temps/original/assets/image30.jpeg|125]]
 
 <!-- id: s26-08-0014 -->
 
-<!-- untranslated -->
+**第一状态　第二状态**
 
 <!-- id: s26-08-0015 -->
 
-<!-- untranslated -->
+**IV　V**
 
 <!-- id: s26-08-0016 -->
 
-<!-- untranslated -->
+**X：**同一根绳子必须在三个点上穿过自身。
 
 <!-- id: s26-08-0017 -->
 
-<!-- untranslated -->
+**拉康：**是的，您是这样认为的。
 
 <!-- id: s26-08-0018 -->
 
-<!-- untranslated -->
+**X：**
 
 <!-- id: s26-08-0019 -->
 
-<!-- untranslated -->
+- 右扭转……抱歉：上方是左扭转；
 
 <!-- id: s26-08-0020 -->
 
-<!-- untranslated -->
+- 下方是右扭转；
 
 <!-- id: s26-08-0021 -->
 
-<!-- untranslated -->
+- 还有左边……
 
 <!-- id: s26-08-0022 -->
 
-<!-- untranslated -->
+如果您只修正一个点，像您刚才说的那样，它并不会解开。
 
 <!-- id: s26-08-0023 -->
 
-<!-- untranslated -->
+**拉康：**您认为，只改变这里，它不会解开吗？那么，必须改变这些点？
 
 <!-- id: s26-08-0024 -->
 
-<!-- untranslated -->
+**X：**（听不清）
 
 <!-- id: s26-08-0025 -->
 
-<!-- untranslated -->
+**拉康：**好。再见！

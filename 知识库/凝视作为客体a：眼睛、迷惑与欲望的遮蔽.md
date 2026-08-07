@@ -6,9 +6,9 @@ tags:
   - 研讨班X
   - 研讨班XI
   - 研讨班XIII
-  - 领域/精神分析
+  - 研讨班XXVI
   - 概念/凝视
-verified_at: 2026-08-06
+verified_at: 2026-08-07
 ---
 
 在《研讨班 X》中，眼睛、观看、别人有意识的目光与作为客体 (a) 的凝视不能直接等同。拉康一方面说“眼睛已经是一面镜子”，它把世界组织成空间并承载图像；另一方面又指出，图像的发生要求一个本身不是图像的相关项。客体 (a) 要在这个非图像的位置上定位，而不是当作镜中可见的另一件物体。
@@ -23,6 +23,8 @@ verified_at: 2026-08-06
 
 《研讨班 XIII》借透视与《宫娥》继续区分眼睛、几何观看点和凝视。画作作为“表象代表”试图捕捉一个不断消隐的平面，而从其中掉落的对象 (a) 不能在镜中被把握；观看者自己反而构成了那扇窗口。于是，凝视并不是画中人物彼此目光交错的总和，也不等于透视图中的单一眼点，而是画面、观看位置与主体分裂之间无法被完整表象的余落。
 
+《研讨班 XXVI》第九课中，迪迪埃-韦尔明确沿用“凝视不涉及视觉器官”的区分，并把它推进到自己的三种超我假说：美杜莎式凝视使主体在一个无所不知的大他者面前石化；迷摄性凝视来自可见、可定位的位置并可能被中断；震慑性凝视则来自主体不知道的不可见位置，以 *Che vuoi?* 式意外使镜映框架爆裂。这是来宾对凝视概念的再部署，不表示三种超我都可直接等同于作为客体 (a) 的凝视，也不能把这套分类改署为拉康本人。
+
 ## 来源
 
 - [[texts/s10-l-angoisse/original/Leçon-17.md#s10-17-0133|《研讨班 X》第十七课 s10-17-0133—s10-17-0139]]（法文；眼睛、镜子与图像所要求的非图像相关项）
@@ -34,6 +36,7 @@ verified_at: 2026-08-06
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-17.md#s13-17-0028|《研讨班 XIII》第十七课 s13-17-0028—s13-17-0029]]（法文；主体分裂、视觉关系与作为凝视的对象 (a)）
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-18.md#s13-18-0176|《研讨班 XIII》第十八课 s13-18-0176—s13-18-0177]]（法文；画作捕捉消隐平面、不可镜取的对象 (a) 与观看者之窗口）
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-20.md#s13-20-0013|《研讨班 XIII》第二十课 s13-20-0013—s13-20-0015]]（法文；未被表象的对象 (a)、幻想与窥视场）
+- [[texts/s26-la-topologie-et-le-temps/original/Leçon-09.md#s26-09-0124|《研讨班 XXVI》第九课 s26-09-0124—s26-09-0149]]（法文；迪迪埃-韦尔的三种凝视性超我及“凝视”同视觉器官的区分）
 
 ## 关联
 
@@ -44,6 +47,7 @@ verified_at: 2026-08-06
 [[知识库/精神分析的对象：对象a与主体分裂.md|精神分析的对象：对象 (a) 与主体分裂]]
 [[知识库/透视的主体点：阿尔贝蒂、潘诺夫斯基与拉康.md|透视的主体点：阿尔贝蒂、潘诺夫斯基与拉康]]
 [[知识库/《宫娥》：福柯的表象分析与拉康的凝视重读.md|《宫娥》：福柯的表象分析与拉康的凝视重读]]
+[[知识库/阿兰·迪迪埃-韦尔的三种超我：美杜莎式、迷摄性与震慑性.md|阿兰·迪迪埃-韦尔的三种超我：美杜莎式、迷摄性与震慑性]]
 
 [[texts/s10-l-angoisse/translation/Leçon-17.md#s10-17-0133|s10-17-0133]]
 [[texts/s10-l-angoisse/translation/Leçon-17.md#s10-17-0139|s10-17-0139]]
@@ -64,3 +68,9 @@ verified_at: 2026-08-06
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-18.md#s13-18-0177|s13-18-0177]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-20.md#s13-20-0013|s13-20-0013]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-20.md#s13-20-0015|s13-20-0015]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-09.md#s26-09-0124|s26-09-0124]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-09.md#s26-09-0127|s26-09-0127]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-09.md#s26-09-0136|s26-09-0136]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-09.md#s26-09-0147|s26-09-0147]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-09.md#s26-09-0148|s26-09-0148]]
+[[texts/s26-la-topologie-et-le-temps/translation/Leçon-09.md#s26-09-0149|s26-09-0149]]

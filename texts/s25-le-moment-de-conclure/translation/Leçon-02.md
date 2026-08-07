@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 84
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 84
 ---
 # Leçon 02 | 13 Décembre 1977
@@ -14,336 +14,336 @@ max_segment_id: 84
 
 <!-- id: s25-02-0001 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image3.jpeg|320]]
 
 <!-- id: s25-02-0002 -->
 
-<!-- untranslated -->
+这幅图是要向你们表明，这是一个环面。因此我标上了“*孔洞*”。原则上，这是一个四元环面结构。
 
 <!-- id: s25-02-0003 -->
 
-<!-- untranslated -->
+这是一个四元环面结构，其中四个环面可以任取一个加以翻转。这里所说的四元环面是这样的：
 
 <!-- id: s25-02-0004 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image4.jpeg|320]]
 
 <!-- id: s25-02-0005 -->
 
-<!-- untranslated -->
+是苏里发现，把四个环面中的任意一个翻转，就会得到我在左图中展示给你们的形状。
 
 <!-- id: s25-02-0006 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image5.jpeg|240]] ← ![[texts/s25-le-moment-de-conclure/original/assets/image6.jpeg|320]]
 
 <!-- id: s25-02-0007 -->
 
-<!-- untranslated -->
+把四个环面中的任意一个翻转，就会得到这个由一个环面构成的形状；只不过在这个环面内部，我们只画出黑板上呈现的那些东西，也就是一些绳圈。
 
 <!-- id: s25-02-0008 -->
 
-<!-- untranslated -->
+但是每一个——你们在那里看到的每一个——每一个绳圈，本身都是一个环面。
 
 <!-- id: s25-02-0009 -->
 
-<!-- untranslated -->
+而这个绳圈一旦作为环面被翻转，会得到同样的结果。
 
 <!-- id: s25-02-0010 -->
 
-<!-- untranslated -->
+“*同样的结果*”：也就是说，在那个包住一切的环面内部，每一个绳圈……
 
 <!-- id: s25-02-0011 -->
 
-<!-- untranslated -->
+> 尽管它本身就是一个环面……每一个绳圈……
 
 <!-- id: s25-02-0012 -->
 
-<!-- untranslated -->
+> 我再对你们重复一遍，它同样是一个环面……每一个这样的绳圈，都以苏里用这幅图所表述的方式起作用。
 
 <!-- id: s25-02-0013 -->
 
-<!-- untranslated -->
+这包含着一种不对称。我的意思是，他选择了一个特定的环面，把它做成我刚刚画出的那种环面。
 
 <!-- id: s25-02-0014 -->
 
-<!-- untranslated -->
+他翻转的是这个环面——请你们注意这一点——因此，他赋予它一种高于其他环面的特权；其他环面碰巧只以绳圈的状态出现在这里。然而非常明显的是，他所选择的环面——他所选择的这个环面——可以从后向前标为 1、2、3、4：
 
 <!-- id: s25-02-0015 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image7.jpeg|320]]
 
 <!-- id: s25-02-0016 -->
 
-<!-- untranslated -->
+- 这个在前面，
 
 <!-- id: s25-02-0017 -->
 
-<!-- untranslated -->
+- 这个比那个更靠前一点——我说的是这个，它更靠前一点——所以我给它标上 3 号，
 
 <!-- id: s25-02-0018 -->
 
-<!-- untranslated -->
+- 而这个完全处在最前面。
 
 <!-- id: s25-02-0019 -->
 
-<!-- untranslated -->
+同样，正如你们所见——只要你们稍微有一点想象力——正如你们所见，这里有四个；选出其中一个并把它翻转，便得到你们在左边看到的图形：
 
 <!-- id: s25-02-0020 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image5.jpeg|240]] ← ![[texts/s25-le-moment-de-conclure/original/assets/image8.jpeg|320]]
 
 <!-- id: s25-02-0021 -->
 
-<!-- untranslated -->
+对于任何一个圆圈——我是说，任何一个环面——这幅图都是等价的。
 
 <!-- id: s25-02-0022 -->
 
-<!-- untranslated -->
+然而，我要向苏里提出下面这个同样成立的异议：把所谓博罗米结中的任何一个环翻转，都会得到下图：
 
 <!-- id: s25-02-0023 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image9.jpeg|320]] → ![[texts/s25-le-moment-de-conclure/original/assets/image10.jpeg|240]]
 
 <!-- id: s25-02-0024 -->
 
-<!-- untranslated -->
+2 和 3 可以互换；这里翻转的是我标作 1 的东西，也就是博罗米结的一个组成环。你们知道它是怎样画出来的：
 
 <!-- id: s25-02-0025 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image9.jpeg|320]]
 
 <!-- id: s25-02-0026 -->
 
-<!-- untranslated -->
+在右边这幅图里，也就是这幅：
 
 <!-- id: s25-02-0027 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image11.jpeg|320]]
 
 <!-- id: s25-02-0028 -->
 
-<!-- untranslated -->
+非常清楚的是，那些处在环面内部的绳圈，也可以用与我刚才所说等价的方式表示为环面——这正是我现在所做的：每一个这样的环面一经*翻转*，都会包住另外两个环面。
 
 <!-- id: s25-02-0029 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image12.jpeg|320]]
 
 <!-- id: s25-02-0030 -->
 
-<!-- untranslated -->
+就像这里用 1［**红色**］标出的东西：
 
 <!-- id: s25-02-0031 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image13.jpeg|280]]
 
 <!-- id: s25-02-0032 -->
 
-<!-- untranslated -->
+是一个环面；只要将它翻转，它就具有包住另外两个环面的属性。
 
 <!-- id: s25-02-0033 -->
 
-<!-- untranslated -->
+只要把每一个这样的环面翻转，*右图中的东西就会变成左图中的东西*。
 
 <!-- id: s25-02-0034 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image13.jpeg|260]] ← ![[texts/s25-le-moment-de-conclure/original/assets/image12.jpeg|320]]
 
 <!-- id: s25-02-0035 -->
 
-<!-- untranslated -->
+显然，左边的两幅图比右边的两幅图更为复杂：
 
 <!-- id: s25-02-0036 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image14.jpeg|240]] ← ![[texts/s25-le-moment-de-conclure/original/assets/image15.jpeg|320]]
 
 <!-- id: s25-02-0037 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image13.jpeg|240]] ← ![[texts/s25-le-moment-de-conclure/original/assets/image12.jpeg|320]]
 
 <!-- id: s25-02-0038 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image13.jpeg|240]] = ![[texts/s25-le-moment-de-conclure/original/assets/image16.jpeg|280]] ← ![[texts/s25-le-moment-de-conclure/original/assets/image17.jpeg|320]]
 
 <!-- id: s25-02-0039 -->
 
-<!-- untranslated -->
+此外，第三幅图还让下面这点显现出来：从左向右看第三幅图，我在图中标作 1 的那个环面被翻转以后……关于这些环面，我忽然想到一件事：假设我所谓的“*赋予一个环面以特权*”发生在环面 2 的层面上。
 
 <!-- id: s25-02-0040 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image18.jpeg|240]] = ![[texts/s25-le-moment-de-conclure/original/assets/image16.jpeg|280]] ← ![[texts/s25-le-moment-de-conclure/original/assets/image17.jpeg|320]]
 
 <!-- id: s25-02-0041 -->
 
-<!-- untranslated -->
+你们能否想象，相对于环面 3 而赋予环面 2［蓝色］以特权，也就是在我称作环面 1 的那个环面内部把环面 2 翻转以后，它会变成什么样子？
 
 <!-- id: s25-02-0042 -->
 
-<!-- untranslated -->
+在一种情况下，翻转不会改变环面 2 与环面 3 的关系。
 
 <!-- id: s25-02-0043 -->
 
-<!-- untranslated -->
+在另一种情况下，它将等同于博罗米结的断裂。
 
 <!-- id: s25-02-0044 -->
 
-<!-- untranslated -->
+这是因为，博罗米结会根据翻转后环面上的断裂以不同方式发生而表现得不同：
 
 <!-- id: s25-02-0045 -->
 
-<!-- untranslated -->
+- *同心切割*，
 
 <!-- id: s25-02-0046 -->
 
-<!-- untranslated -->
+- *垂直切割*。
 
 <!-- id: s25-02-0047 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image19.jpeg|320]] ![[texts/s25-le-moment-de-conclure/original/assets/image20.jpeg|360]]
 
 <!-- id: s25-02-0048 -->
 
-<!-- untranslated -->
+我将在左图上向你们指出这个很明显的事实……
 
 <!-- id: s25-02-0049 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image21.jpeg|320]]
 
 <!-- id: s25-02-0050 -->
 
-<!-- untranslated -->
+这个很明显的事实就是：
 
 <!-- id: s25-02-0051 -->
 
-<!-- untranslated -->
+- 像我刚才那样［*同心地*］切开翻转后的环面，博罗米结就会解开。
 
 <!-- id: s25-02-0052 -->
 
-<!-- untranslated -->
+- 相反，以另一种方式［*垂直地*］切开它——我想，对你们所有人来说，这显然等同于我在这里画出的东西，确实是等价的——博罗米结并不会解体；而在眼下这种情况下，我刚才在这里做的［*同心*］切割会使博罗米结解体。
 
 <!-- id: s25-02-0053 -->
 
-<!-- untranslated -->
+因此，这里所说的特权并不是单义的东西。
 
 <!-- id: s25-02-0054 -->
 
-<!-- untranslated -->
+把通向第一幅图的那些环面中的任意一个翻转，其结果并不相同：这取决于切口在环面上的走向是与孔洞*同心*，还是与孔洞*垂直*。
 
 <!-- id: s25-02-0055 -->
 
-<!-- untranslated -->
+非常清楚……
 
 <!-- id: s25-02-0056 -->
 
-<!-- untranslated -->
+> 这在第二幅图上可以看出来……非常清楚的是，情形相同。我的意思是，沿着这里所示的［*同心*］轨迹切断，三元博罗米结就会解体；因为非常清楚，即使处在环面状态，你们在那里看到的两个图形也会*解体*——我的意思是会*彼此分离*——如果翻转后的环面沿我所谓的*纵向*［*同心*］被切开的话。相反，另一个方向，即*横向*［*垂直*］，并不会释放第三个环面，*纵向*则会释放它。因此，对于翻转后的环面，仍然必须作出同样的选择，视人们想不想让*博罗米结*解体而定。
 
 <!-- id: s25-02-0057 -->
 
-<!-- untranslated -->
+右边的图：
 
 <!-- id: s25-02-0058 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image22.jpeg|320]]
 
 <!-- id: s25-02-0059 -->
 
-<!-- untranslated -->
+这幅图把包围在外的环面应当怎样切开具体呈现出来，以便——我想你们看得出来——释放那三个、剩下的三个环面。很清楚，像这样画出这些东西，我们就会看到，我在这里临时标作 2 的环面从 3 中释放出来，继而 3 又从 4 中释放出来。
 
 <!-- id: s25-02-0060 -->
 
-<!-- untranslated -->
+我要提出下面这一点；它的开端来自这样一个事实：在安排四元结构的图示方式时，那个叫苏里的人有所偏好。我的意思是，他更愿意表明四元结构应当这样画：
 
 <!-- id: s25-02-0061 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image23.jpeg|360]]
 
 <!-- id: s25-02-0062 -->
 
-<!-- untranslated -->
+这同样是一个博罗米结。
 
 <!-- id: s25-02-0063 -->
 
-<!-- untranslated -->
+但是我要提出，存在一种六元博罗米结，它不同于那种可以说会“*一前一后排成一串*”的博罗米结。这是一种更复杂的博罗米结；我给你们展示它的组织方式。也就是说，相对于我最先画出的两个环，这两个环等价于一个在另一个上面所产生的情形。在这种情况下，博罗米结必须这样嵌入：
 
 <!-- id: s25-02-0064 -->
 
-<!-- untranslated -->
+- 位于那个处在*上方*的环之*上*，
 
 <!-- id: s25-02-0065 -->
 
-<!-- untranslated -->
+- 并位于那个处在*下方*的环之*下*。
 
 <!-- id: s25-02-0066 -->
 
-<!-- untranslated -->
+这就是你们在那里看到的：它位于那个处在*下方*的环之*下*，又位于那个处在*上方*的环之*上*：
 
 <!-- id: s25-02-0067 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image24.jpeg|360]]
 
 <!-- id: s25-02-0068 -->
 
-<!-- untranslated -->
+这画起来并不方便。这里是处在下方的第三个环。关于图中所示的这两对环，你们只须注意到这个在上方，于是第三对环便从上面和下面绕过那个处在下方的环。
 
 <!-- id: s25-02-0069 -->
 
-<!-- untranslated -->
+我提出一个问题：把这里的某一个环翻转，会不会得到与我所谓的“*串列式*”图形相同的结果？也就是说，图形像这样依次呈现为 1、2、3、4、5、6，整体终止于这里的这个圆环。
 
 <!-- id: s25-02-0070 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image25.jpeg|400]]
 
 <!-- id: s25-02-0071 -->
 
-<!-- untranslated -->
+把这样构成的“六元结构”*翻转*，会不会得到与翻转这里三个环中的任意一个相同的结果？
 
 <!-- id: s25-02-0072 -->
 
-<!-- untranslated -->
+我们已经有一项提示答案的线索：结果会不一样。之所以不同，是因为把我称作“*串列式*”的这六个环中的任意一个翻转，将会得到类似这里所示的东西：
 
 <!-- id: s25-02-0073 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image26.jpeg|280]]
 
 <!-- id: s25-02-0074 -->
 
-<!-- untranslated -->
+相反，这幅图的翻转方式会给出不同的东西。
 
 <!-- id: s25-02-0075 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image24.jpeg|360]]
 
 <!-- id: s25-02-0076 -->
 
-<!-- untranslated -->
+我为自己直接把苏里牵扯进来而道歉。
 
 <!-- id: s25-02-0077 -->
 
-<!-- untranslated -->
+他引入了我今天所陈述的东西，这无疑是完全站得住脚的。
 
 <!-- id: s25-02-0078 -->
 
-<!-- untranslated -->
+我所谓的*纵向切割*与*横向切割*之间的区分至关重要。
 
 <!-- id: s25-02-0079 -->
 
-<!-- untranslated -->
+我想，这里的这道切口已经为你们提供了足够的说明。
 
 <!-- id: s25-02-0080 -->
 
-<!-- untranslated -->
+切口的形成方式完全是决定性的。
 
 <!-- id: s25-02-0081 -->
 
-<!-- untranslated -->
+把我在这里标出的六个环之一翻转，会发生什么？
 
 <!-- id: s25-02-0082 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image24.jpeg|360]]
 
 <!-- id: s25-02-0083 -->
 
-<!-- untranslated -->
+这一点很值得弄清楚；我把它重新交到你们手里，希望由此得到最终答案。
 
 <!-- id: s25-02-0084 -->
 
-<!-- untranslated -->
+好了，我今天就讲到这里。

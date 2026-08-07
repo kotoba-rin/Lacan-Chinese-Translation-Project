@@ -1,10 +1,10 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 16
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 16
 ---
-# Leçon 12 | 5 juillet 1980 (Maison de la Chimie)
+# Leçon 12 | 1980 年 7 月 5 日（化学之家）
 
 <!-- source-original: texts/s27-dissolution/original/Leçon-12.md -->
 
@@ -14,64 +14,66 @@ max_segment_id: 16
 
 <!-- id: s27-12-0001 -->
 
-<!-- untranslated -->
+你们好。
 
 <!-- id: s27-12-0002 -->
 
-<!-- untranslated -->
+谢谢你们前来。
 
 <!-- id: s27-12-0003 -->
 
-<!-- untranslated -->
+我要向你们解释自己的投票。
 
 <!-- id: s27-12-0004 -->
 
-<!-- untranslated -->
+我会投票赞成解散学派。
 
 <!-- id: s27-12-0005 -->
 
-<!-- untranslated -->
+我投赞成票，也希望你们像我一样。
 
 <!-- id: s27-12-0006 -->
 
-<!-- untranslated -->
+精神分析家是一些特殊的主体；他们是对欺骗格外敏感的主体。
 
 <!-- id: s27-12-0007 -->
 
-<!-- untranslated -->
+这同他们的实践有关。
 
 <!-- id: s27-12-0008 -->
 
-<!-- untranslated -->
+因此，他们依照各自的伦理而得到区分。
 
 <!-- id: s27-12-0009 -->
 
-<!-- untranslated -->
+这是一场严峻的考验。
 
 <!-- id: s27-12-0010 -->
 
-<!-- untranslated -->
+在分析群体的某些效应中，这是一场决定性的考验。
 
 <!-- id: s27-12-0011 -->
 
-<!-- untranslated -->
+弗洛伊德已经预言过群体的大众反应。
 
 <!-- id: s27-12-0012 -->
 
-<!-- untranslated -->
+这种反应就是躲进一个理想中——那个绝不会犯错者的理想。
 
 <!-- id: s27-12-0013 -->
 
-<!-- untranslated -->
+理想一旦确立，一切便都安然无事；人们彼此鞠躬行礼。
 
 <!-- id: s27-12-0014 -->
 
-<!-- untranslated -->
+至于我，我丝毫不声称自己化身为这个绝不会犯错者；我也不鞠躬行礼。
 
 <!-- id: s27-12-0015 -->
 
-<!-- untranslated -->
+我通过这次解散为此作证。所以，你们必须原谅我并非绝不会犯错；那些会原谅我的人会像我一样投票，而我要补充一句：也为我投票。就是这样。[注]
+
+> [注] *Et j’ajoute pour moi* 是口头省略句。苏珊娜·奥梅尔的初次转录以及后来公开版本都保留同一措辞，没有给出能消除歧义的标点。结合开头“我投票赞成，也希望你们像我一样”，这里较可能省略了 *voteront*，即“还会为我投票”；但 *pour moi* 也可能只是“就我而言”。正文采用前一读法，并在此保留后一可能。
 
 <!-- id: s27-12-0016 -->
 
-<!-- untranslated -->
+现在，应当由每个人说出自己的意见；我把话筒交给索朗热·法拉德。

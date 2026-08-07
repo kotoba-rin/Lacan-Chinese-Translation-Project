@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 40
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 40
 ---
 # Leçon 04 | 9 janvier 1979
@@ -14,160 +14,162 @@ max_segment_id: 40
 
 <!-- id: s26-04-0001 -->
 
-<!-- untranslated -->
+性关系不存在——这是我已经陈述过的。
 
 <!-- id: s26-04-0002 -->
 
-<!-- untranslated -->
+那么，是什么在它的位置上起替补作用呢？因为很清楚，人们……[注]
+
+> [注] *suppléer* 在这里不是把“不存在的性关系”补成一项完整关系，而是指某物在这一缺失的位置上起替补作用；因此译作“替补”，避免“补足”带出的完整化含义。
 
 <!-- id: s26-04-0003 -->
 
-<!-- untranslated -->
+> 所谓的人们，也就是人类……人们会做爱。
 
 <!-- id: s26-04-0004 -->
 
-<!-- untranslated -->
+对此有一种解释：可能性……
 
 <!-- id: s26-04-0005 -->
 
-<!-- untranslated -->
+> 请注意，“可能者”被我们定义为“停止被书写的东西”……也就是第三种性别的可能性。
 
 <!-- id: s26-04-0006 -->
 
-<!-- untranslated -->
+至于为什么会有两种性别，这倒很难解释。
 
 <!-- id: s26-04-0007 -->
 
-<!-- untranslated -->
+夏娃的替身，也就是莉莉丝，唤起了这一点。
 
 <!-- id: s26-04-0008 -->
 
-<!-- untranslated -->
+然而，唤起终究不是一件精确的事情。
 
 <!-- id: s26-04-0009 -->
 
-<!-- untranslated -->
+正是在精确性——也就是说实在界——这一点上，我在设想博罗米结究竟为何物时援引了它。
 
 <!-- id: s26-04-0010 -->
 
-<!-- untranslated -->
+博罗米结的实存性在于它可以被想象。
 
 <!-- id: s26-04-0011 -->
 
-<!-- untranslated -->
+想象界同所谓的象征界——换言之，同语言——有什么区别？
 
 <!-- id: s26-04-0012 -->
 
-<!-- untranslated -->
+语言有其法则；普遍性是它的模型，特殊性同样也是。
 
 <!-- id: s26-04-0013 -->
 
-<!-- untranslated -->
+想象界所做的，就是想象实在界：这是一种反射。
 
 <!-- id: s26-04-0014 -->
 
-<!-- untranslated -->
+反射与镜子相连；因此，正是在镜子中，一项功能得以运作。
 
 <!-- id: s26-04-0015 -->
 
-<!-- untranslated -->
+镜子是最简单的装置。
 
 <!-- id: s26-04-0016 -->
 
-<!-- untranslated -->
+这可以说是一项完全自然的功能。
 
 <!-- id: s26-04-0017 -->
 
-<!-- untranslated -->
+奇怪的是，我竟选择博罗米结来由此做出某种东西。
 
 <!-- id: s26-04-0018 -->
 
-<!-- untranslated -->
+不过，博罗米结有这样一个性质：可以从其中任意一个圆环开始。
 
 <!-- id: s26-04-0019 -->
 
-<!-- untranslated -->
+与此完全相反，在这个图形（I）中，不能从任意一个圆环开始。
 
 <!-- id: s26-04-0020 -->
 
-<!-- untranslated -->
+如果从这个圆环（绿色）开始，就会遇到一个障碍；它会像左边的图（III）所显示的那样形成辫结。不过，如果把这个圆环向右拉，另外两个圆环便会被带动，而我们不知道这种带动会产生什么结果。
 
 <!-- id: s26-04-0021 -->
 
-<!-- untranslated -->
+无论如何，被带动的是另外两个圆环。
 
 <!-- id: s26-04-0022 -->
 
-<!-- untranslated -->
+这个图（II）也是同一种情形；正因如此，这里这个东西不能用来象征想象界、象征界与实在界。因为在想象界、象征界与实在界中，我们所象征的是圆环的内部（V），也就是圆环内部的场——“场”，法文拼作 c.h.a.m.p.。
 
 <!-- id: s26-04-0023 -->
 
-<!-- untranslated -->
+因此，这里所涉及的是一个隐喻。要在这个图（I）中安置一个隐喻，会比在这个图（V）中困难得多；更不用说在第三个图（II）中了。
 
 <!-- id: s26-04-0024 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image17.jpeg|160]] ![[texts/s26-la-topologie-et-le-temps/original/assets/image18.jpeg|185]] ![[texts/s26-la-topologie-et-le-temps/original/assets/image19.jpeg|220]]
 
 <!-- id: s26-04-0025 -->
 
-<!-- untranslated -->
+I　V　II
 
 <!-- id: s26-04-0026 -->
 
-<!-- untranslated -->
+因为第三个图（II）看上去更复杂，但其实是同一个图。
 
 <!-- id: s26-04-0027 -->
 
-<!-- untranslated -->
+之所以是同一个图，是因为红色圆环在那里有一个弯曲点；借此可以把图形规整起来，使左边的图（I）纳入右边的图（II）。
 
 <!-- id: s26-04-0028 -->
 
-<!-- untranslated -->
+区别在于，这个图（II）同那个图（III）相合；
 
 <!-- id: s26-04-0029 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image19.jpeg|220]] ![[texts/s26-la-topologie-et-le-temps/original/assets/image20.jpeg|120]]
 
 <!-- id: s26-04-0030 -->
 
-<!-- untranslated -->
+> II　III；而这个图（V）像那个图（IV）一样编成辫结：
 
 <!-- id: s26-04-0031 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image18.jpeg|185]] ![[texts/s26-la-topologie-et-le-temps/original/assets/image21.jpeg|350]]
 
 <!-- id: s26-04-0032 -->
 
-<!-- untranslated -->
+V　IV
 
 <!-- id: s26-04-0033 -->
 
-<!-- untranslated -->
+处于最简单状态的博罗米结隐喻是不恰当的。
 
 <!-- id: s26-04-0034 -->
 
-<!-- untranslated -->
+这是对隐喻的滥用，因为事实上，并没有什么东西承载想象界、象征界与实在界。性关系不存在，这才是我所陈述之物的要点。
 
 <!-- id: s26-04-0035 -->
 
-<!-- untranslated -->
+因为有一个想象界、一个象征界和一个实在界，所以性关系不存在——这正是我不敢说出的东西。
 
 <!-- id: s26-04-0036 -->
 
-<!-- untranslated -->
+不过，我还是说了。
 
 <!-- id: s26-04-0037 -->
 
-<!-- untranslated -->
+很明显，我错了；但我任由自己滑向了这个说法……我就这样任由自己滑了进去。
 
 <!-- id: s26-04-0038 -->
 
-<!-- untranslated -->
+这很麻烦，甚至不只是令人厌烦。
 
 <!-- id: s26-04-0039 -->
 
-<!-- untranslated -->
+更令人厌烦的是，它毫无根据。
 
 <!-- id: s26-04-0040 -->
 
-<!-- untranslated -->
+这就是我今天才看清的，也是我此刻向你们承认的。好！

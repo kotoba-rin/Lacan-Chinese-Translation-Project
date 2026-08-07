@@ -6,9 +6,9 @@ tags:
   - 研讨班IV
   - 研讨班VII
   - 研讨班VIII
+  - 研讨班XXIV
   - 领域/精神分析
-  - 概念/分裂
-verified_at: 2026-08-05
+verified_at: 2026-08-07
 ---
 
 德语 *Spaltung* 的普通意义是分开、裂开或分割。精神分析文献中的“分裂”不是一个始终同义的单一机制，至少应区分自我裂分、对象裂分和拉康所谓主体的分裂。
@@ -21,6 +21,8 @@ verified_at: 2026-08-05
 
 《研讨班 VII》还从法语赘词 *ne* 和希腊语 *mē* 说明言说行为与所说内容的分裂：一个句子的命题内容并未被否定，言说位置却留下了不一致的痕迹。这里的语言例证用来显示主体不能同自己的陈述完全重合；它不是说某个语法小词本身就是一种临床机制。
 
+《研讨班 XXIV》第六课中，阿兰·迪迪埃-韦尔的来宾报告又特意区分 *clivage* 与 *division*：他把 *clivage* 设想为一种避开主体分裂的防御性切开，并说分析家若处在这种裂开中，其大他者也会被裂开。这是报告者为讨论通行程序提出的局部模型，不是拉康对 *Spaltung* 的统一新定义；它的价值正在于提醒读者，同样译作“分裂”的词在自我防御、主体构成和制度传递中可能承担不同功能。
+
 ## 来源
 
 - [Die Ichspaltung im Abwehrvorgang](https://www.freudedition.net/en/node/226699)（德文；弗洛伊德原文）
@@ -28,6 +30,7 @@ verified_at: 2026-08-05
 - [[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-26.md#s7-26-0031|本地法语原文 s7-26-0031]]（法文；*mē* 与言说／陈述的 *Spaltung*）
 - [[texts/s8-le-transfert/original/Leçon-08.md#s8-08-0076|《研讨班 VIII》第八课 s8-08-0076]]（法文；本项目底本）
 - [[texts/s8-le-transfert/original/Leçon-22.md#s8-22-0058|《研讨班 VIII》第二十二课 s8-22-0058]]（法文；本项目底本）
+- [[texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre/original/Leçon-06.md#s24-06-0187|《研讨班 XXIV》第六课 s24-06-0187—s24-06-0190]]（法文；迪迪埃-韦尔报告对 *clivage* 与 *division* 的区分）
 
 ## 关联
 
@@ -44,3 +47,5 @@ verified_at: 2026-08-05
 [[texts/s8-le-transfert/translation/Leçon-04.md#s8-04-0084|s8-04-0084]]
 [[texts/s8-le-transfert/translation/Leçon-08.md#s8-08-0076|s8-08-0076]]
 [[texts/s8-le-transfert/translation/Leçon-22.md#s8-22-0058|s8-22-0058]]
+[[texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre/translation/Leçon-06.md#s24-06-0187|s24-06-0187]]
+[[texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre/translation/Leçon-06.md#s24-06-0190|s24-06-0190]]

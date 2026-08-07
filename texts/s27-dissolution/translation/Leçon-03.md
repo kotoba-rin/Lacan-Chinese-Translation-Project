@@ -1,10 +1,10 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 11
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 11
 ---
-# Leçon 03 | 11 décembre 1979
+# Leçon 03 | 1979 年 12 月 11 日
 
 <!-- source-original: texts/s27-dissolution/original/Leçon-03.md -->
 
@@ -14,44 +14,44 @@ max_segment_id: 11
 
 <!-- id: s27-03-0001 -->
 
-<!-- untranslated -->
+我会试着告诉你们，博罗米结是什么。
 
 <!-- id: s27-03-0002 -->
 
-<!-- untranslated -->
+博罗米结会自行解开。
 
 <!-- id: s27-03-0003 -->
 
-<!-- untranslated -->
+它至少需要三个环；确实，要使它能够解开，就必须有三个环。
 
 <!-- id: s27-03-0004 -->
 
-<!-- untranslated -->
+左旋与右旋：在这里，我们可以认为它是左旋的……
 
 <!-- id: s27-03-0005 -->
 
-<!-- untranslated -->
+> 或者说：如果你们认为它是左旋的，它便向左转……不过，它是否真是左旋的仍然可疑；事实上，我们也可以认为它向右转。
 
 <!-- id: s27-03-0006 -->
 
-<!-- untranslated -->
+这是一个如何铺平的问题。如果朝相反的方向把它铺平，它就是右旋的。
 
 <!-- id: s27-03-0007 -->
 
-<!-- untranslated -->
+这个东西会解开，下面的事实正说明了这一点：
 
 <!-- id: s27-03-0008 -->
 
-<!-- untranslated -->
+- 这里会解开，见图中的 **1**；
 
 <!-- id: s27-03-0009 -->
 
-<!-- untranslated -->
+- 而这里会断裂，见图中的 **2**。
 
 <!-- id: s27-03-0010 -->
 
-<!-- untranslated -->
+因此，它……
 
 <!-- id: s27-03-0011 -->
 
-<!-- untranslated -->
+![[texts/s27-dissolution/original/assets/image4.jpeg|400]]

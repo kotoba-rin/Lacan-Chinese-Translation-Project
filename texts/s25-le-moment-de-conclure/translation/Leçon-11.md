@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 121
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 121
 ---
 # Leçon 11 | 18 Avril 1979
@@ -14,484 +14,484 @@ max_segment_id: 121
 
 <!-- id: s25-11-0001 -->
 
-<!-- untranslated -->
+[泰拉松](#TERASSON)
 
 <!-- id: s25-11-0002 -->
 
-<!-- untranslated -->
+拉康
 
 <!-- id: s25-11-0003 -->
 
-<!-- untranslated -->
+请过来一下，因为您给我寄来了一些东西。
 
 <!-- id: s25-11-0004 -->
 
-<!-- untranslated -->
+我希望您把寄给我的这些东西逐一讲解一下，因为现在这样还不行。
 
 <!-- id: s25-11-0005 -->
 
-<!-- untranslated -->
+我要提醒你们：上一次我尽力画给你们看的那条带，如果把它一分为二，结果……
 
 <!-- id: s25-11-0006 -->
 
-<!-- untranslated -->
+> 如果像这样把它一分为二……结果就是所谓的三叶结，也就是呈现为这样的一种东西。
 
 <!-- id: s25-11-0007 -->
 
-<!-- untranslated -->
+这当然十分引人注目。
 
 <!-- id: s25-11-0008 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image119.jpeg|220]] → ![[texts/s25-le-moment-de-conclure/original/assets/image120.jpeg|220]]
 
 <!-- id: s25-11-0009 -->
 
-<!-- untranslated -->
+这里就是所谓的*莫比乌斯带*：
 
 <!-- id: s25-11-0010 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image118.jpeg|280]] \[1\]
 
 <!-- id: s25-11-0011 -->
 
-<!-- untranslated -->
+我把它重新画一遍，因为值得注意的是，借助所谓的弹性，*莫比乌斯带*可以画成这样。换言之，我们把以这种形式出现的东西翻转过来：
 
 <!-- id: s25-11-0012 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image121.jpeg|280]]
 
 <!-- id: s25-11-0013 -->
 
-<!-- untranslated -->
+形式 \[1\] 就是出现在《*Scilicet*》封面上的形式，但真正的*莫比乌斯带是这一条*。
 
 <!-- id: s25-11-0014 -->
 
-<!-- untranslated -->
+还有一种东西，让-克洛德·泰拉松——他就在这里，也在帮助我——十分正当地把它称作……他十分正当地……
 
 <!-- id: s25-11-0015 -->
 
-<!-- untranslated -->
+让-克洛德·泰拉松把它称作“一次*半扭转*”；而在我上一次让它运作的形式中——因为这正是我上次给你们画的——有三次*半扭转*：
 
 <!-- id: s25-11-0016 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image119.jpeg|240]]
 
 <!-- id: s25-11-0017 -->
 
-<!-- untranslated -->
+反过来，也可以做出*一次完整扭转*。图 2 展示的就是这一点，其中确实只有*一次完整扭转*：
 
 <!-- id: s25-11-0018 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image122.jpeg|280]]
 
 <!-- id: s25-11-0019 -->
 
-<!-- untranslated -->
+图 2 也可以画成这样：
 
 <!-- id: s25-11-0020 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image123.jpeg|260]]
 
 <!-- id: s25-11-0021 -->
 
-<!-- untranslated -->
+这是一个只有*一次完整扭转*的图形，它与下面这个图形等价——这不容易画：
 
 <!-- id: s25-11-0022 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image124.jpeg|300]]
 
 <!-- id: s25-11-0023 -->
 
-<!-- untranslated -->
+也就是说，如果我们在这里画出其内部，这就是通常由所谓环面实现的东西。
 
 <!-- id: s25-11-0024 -->
 
-<!-- untranslated -->
+如果我们在这里做一个环圈，那么到这里来的部分会以某种形式越过我所说的*环面轴线*；进入*环面轴线* \[**2**\] 的正是这一部分，而绕*环面一周* \[**1**\] 的则是这一部分：
 
 <!-- id: s25-11-0025 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image125.jpeg|340]]
 
 <!-- id: s25-11-0026 -->
 
-<!-- untranslated -->
+请你们借此机会亲自验证；你们会看到，这里所涉及的扭转，也就是完整扭转，恰好等价于让-克洛德·泰拉松所说的一次扭转、一次完整扭转。
 
 <!-- id: s25-11-0027 -->
 
-<!-- untranslated -->
+这正是在环面上实现的东西……*完整扭转*就是人们在环面上所能做的一切。这当然并不奇怪，因为在环面上没有任何别的操作方式。
 
 <!-- id: s25-11-0028 -->
 
-<!-- untranslated -->
+如果你们在环面上画出某条切割线——当然，它先经过所谓的“*环面后方*”，再回到“*前方*”，然后又经过“*环面后方*”——你们得到的就是这样一种东西，并以如下方式闭合：也就是说，它使绕着环面盘旋的结加倍。
 
 <!-- id: s25-11-0029 -->
 
-<!-- untranslated -->
+换言之，这里延伸过来的部分，恰恰就是绕过我所谓轴线的部分。
 
 <!-- id: s25-11-0030 -->
 
-<!-- untranslated -->
+因此，这等价于两次*扭转*：这里一次*扭转*，那里两次*扭转*。
 
 <!-- id: s25-11-0031 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image126.jpeg|300]]
 
 <!-- id: s25-11-0032 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image127.jpeg|300]]
 
 <!-- id: s25-11-0033 -->
 
-<!-- untranslated -->
+现在我要请让-克洛德·泰拉松发言，请他为我们讲解他在那里画的*那些图形*。
 
 <!-- id: s25-11-0034 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image128.jpeg|320]]
 
 <!-- id: s25-11-0035 -->
 
-<!-- untranslated -->
+这是一条*莫比乌斯带*。
 
 <!-- id: s25-11-0036 -->
 
-<!-- untranslated -->
+[让-克洛德·泰拉松的发言](#Avril18)<span id="TERASSON" class="anchor"></span>
 
 <!-- id: s25-11-0037 -->
 
-<!-- untranslated -->
+那么，我们可以提出这样一个问题：怎样才能用铺平的、也就是压平的*莫比乌斯带*，有规则地*铺满空间，或者铺满平面*？问题就是：我怎样才能通过压平*莫比乌斯带*——总之，是一些带子……\[**0**\]——来有规则地铺满平面？也就是说，我们可以先从*零扭转的带*开始：如果只画它的边缘，就画成这样：
 
 <!-- id: s25-11-0038 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image129.jpeg|360]]
 
 <!-- id: s25-11-0039 -->
 
-<!-- untranslated -->
+这两条边之所以相互连接，只是因为带本身具有某种物质性，可以把两条边连在一起。
 
 <!-- id: s25-11-0040 -->
 
-<!-- untranslated -->
+好，那么，为了把这个图形放平、压平，并得到某种可以有规则地铺满平面的东西，也就是一个正多边形……
 
 <!-- id: s25-11-0041 -->
 
-<!-- untranslated -->
+> 总之，这样的多边形没有多少，只有*正六边形*、*正方形*和*等边三角形*……为此，我有一个非常简单的办法，就是把两条边粘在一起……
 
 <!-- id: s25-11-0042 -->
 
-<!-- untranslated -->
+> 确切地说，是把**一条**边粘起来，让一条边同自身贴合……再把它压平。也就是说，如果我用阴影标出表面重叠两次的地方……好，就是这样：我得到一个正方形。好，这里画的不是正方形，但它本来可以是，只要带的长度是宽度的两倍，我就会得到一个正方形。\[**1**\] 从**半次**扭转开始，问题会变得更复杂；不过我们已经可以注意到，每一次都会得到……
 
 <!-- id: s25-11-0043 -->
 
-<!-- untranslated -->
+> 总之，直到五次半扭转为止……我们都会得到一个没有孔洞的正多边形。也就是说，带的孔洞会找到一种自行消退的方式，从而得到一个正多边形；而且这会是我能够得到的唯一一种正多边形。
 
 <!-- id: s25-11-0044 -->
 
-<!-- untranslated -->
+好，那么这个图形——\[*半次扭转的带*\]——如果我把它的边画出来，就是这样。也就是说，可以看到，它之所以保持打结状态……
 
 <!-- id: s25-11-0045 -->
 
-<!-- untranslated -->
+就像第一个*图形*一样，这条边之所以保持在扭转的位置，只是因为带也具有某种物质性。
 
 <!-- id: s25-11-0046 -->
 
-<!-- untranslated -->
+从下面这些带开始，情况就不再如此了：其边缘无需带的任何物质性，便能自行维持：
 
 <!-- id: s25-11-0047 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image128.jpeg|260]] → ![[texts/s25-le-moment-de-conclure/original/assets/image130.jpeg|260]] → ![[texts/s25-le-moment-de-conclure/original/assets/image131.jpeg|220]]
 
 <!-- id: s25-11-0048 -->
 
-<!-- untranslated -->
+那么，这是*一次半扭转的带*被放平后的样子。我在这里画出：
 
 <!-- id: s25-11-0049 -->
 
-<!-- untranslated -->
+- 带的边缘，
 
 <!-- id: s25-11-0050 -->
 
-<!-- untranslated -->
+- 当然，还有它从下方经过之处的虚线，
 
 <!-- id: s25-11-0051 -->
 
-<!-- untranslated -->
+- 以及表面相互重叠之处的阴影线。
 
 <!-- id: s25-11-0052 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image132.jpeg|420]]
 
 <!-- id: s25-11-0053 -->
 
-<!-- untranslated -->
+好，那么，这条带同所有将成为六边形的带一样，为了得到一个正六边形，其比例必须是：
 
 <!-- id: s25-11-0054 -->
 
-<!-- untranslated -->
+- 宽度，我把宽度取为 1：*l* = 1；
 
 <!-- id: s25-11-0055 -->
 
-<!-- untranslated -->
+- 长度则为根号 3：L = √3。
 
 <!-- id: s25-11-0056 -->
 
-<!-- untranslated -->
+好，我们就不深入这些了……
 
 <!-- id: s25-11-0057 -->
 
-<!-- untranslated -->
+\[**2**\] 好，那么到了*两次半扭转的带*，也就是一次完整扭转，也就是一条*有两条边的带*，情况是这样的。
 
 <!-- id: s25-11-0058 -->
 
-<!-- untranslated -->
+孔洞的边缘、也就是带的边缘以这种方式相互打结；换言之，这时它们已不再需要带的物质性来维持其打结。正因如此，才会像拉康刚才说的那样过渡到环面。
 
 <!-- id: s25-11-0059 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image133.jpeg|240]] → ![[texts/s25-le-moment-de-conclure/original/assets/image134.jpeg|240]] → ![[texts/s25-le-moment-de-conclure/original/assets/image135.jpeg|240]]
 
 <!-- id: s25-11-0060 -->
 
-<!-- untranslated -->
+这个图形可以重新在正方形中铺平。
 
 <!-- id: s25-11-0061 -->
 
-<!-- untranslated -->
+不过，为了让这些图形更容易看懂……
 
 <!-- id: s25-11-0062 -->
 
-<!-- untranslated -->
+> 这里的边同样会与自身贴合，也就是说，它在这里出现了两次……为了让这件事看得清楚，我应该把它们稍微错开一点来画。我还是用阴影标出重叠之处；看，这里稍微错开了一点，以便看出孔洞及其边缘如何彼此打结：
 
 <!-- id: s25-11-0063 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image136.jpeg|300]]
 
 <!-- id: s25-11-0064 -->
 
-<!-- untranslated -->
+于是，这个图形被完全覆盖，表面在整体上彼此重叠。这个图形是一个正方形；从这时起，它不再是刚才那个正方形，而是*由一条长度为宽度四倍的带所得的正方形*：L = 4*l*。
 
 <!-- id: s25-11-0065 -->
 
-<!-- untranslated -->
+\[**3**\] 那么，当我们过渡到*三次半扭转的带*时，带的边缘图形就是这样。
 
 <!-- id: s25-11-0066 -->
 
-<!-- untranslated -->
+我仍然可以把这个图形、这条带*放平*。好，做法相同：我画出孔洞可见的边缘，便得到这个图形。也就是说，我仍用一条同那些带具有相同比例的带来做。
 
 <!-- id: s25-11-0067 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image137.jpeg|220]] → ![[texts/s25-le-moment-de-conclure/original/assets/image138.jpeg|220]] → ![[texts/s25-le-moment-de-conclure/original/assets/image139.jpeg|220]] → ![[texts/s25-le-moment-de-conclure/original/assets/image140.jpeg|220]]
 
 <!-- id: s25-11-0068 -->
 
-<!-- untranslated -->
+\[**4**\] *四次半扭转的带*，也就是具有两次完整扭转的带，会以这种方式把自己的两条边打成结；也就是说，像这样。这是第二个结，也可以说它是有两个孔洞的环面。这一条我仍然可以压平。
 
 <!-- id: s25-11-0069 -->
 
-<!-- untranslated -->
+做法相同，我应该画出孔洞的边缘。看，它将以这种方式打结。
 
 <!-- id: s25-11-0070 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image141.jpeg|240]] → ![[texts/s25-le-moment-de-conclure/original/assets/image142.jpeg|240]] → ![[texts/s25-le-moment-de-conclure/original/assets/image143.jpeg|240]]
 
 <!-- id: s25-11-0071 -->
 
-<!-- untranslated -->
+你们可以看到，它与这个图形相同：
 
 <!-- id: s25-11-0072 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image144.jpeg|300]]
 
 <!-- id: s25-11-0073 -->
 
-<!-- untranslated -->
+而这个图形在翻转以后仍与自身相同。
 
 <!-- id: s25-11-0074 -->
 
-<!-- untranslated -->
+这里我没有画出*五次半扭转的带*，但很明显，它不会构成一个可以铺满空间的正多边形，这时已经没有办法了。不过，如果回到六次半扭转的带，我们还能再次做出一个可以铺满空间的规则图形。
 
 <!-- id: s25-11-0075 -->
 
-<!-- untranslated -->
+J. 拉加里格
 
 <!-- id: s25-11-0076 -->
 
-<!-- untranslated -->
+无论是一次半扭转还是三次半扭转，你那里总有一个虚点、一个虚孔；它就是这里的一个点，完全像一个小三角形。但对一次半扭转来说，它其实并非必不可少，你可以把它缩减到一个三角形的大小。我来画一下。
 
 <!-- id: s25-11-0077 -->
 
-<!-- untranslated -->
+你现在有的是这种表示；这条边在这里描出一个这样的图式：边在这里，从后方经过；还有那条边从前方重新出发，并构成这个图式。不过，我们可以把这三条边缩减到什么也不剩。
 
 <!-- id: s25-11-0078 -->
 
-<!-- untranslated -->
+那么，如果你把这三条边缩减到什么也不剩，得到的就是一种三角形的形式……
 
 <!-- id: s25-11-0079 -->
 
-<!-- untranslated -->
+> 我没有把它画成完全的三角形，以便更容易表示……其中这条边会——这不容易画——而其中实际上有：
 
 <!-- id: s25-11-0080 -->
 
-<!-- untranslated -->
+- 这条边会像这样来到这里，接着从后方经过，再像这样回到前方；
 
 <!-- id: s25-11-0081 -->
 
-<!-- untranslated -->
+- 这一条边走到那里；这条缩减到什么也不剩的短边就在这里；它又从后方经过并接上那条边。那一条于是会来到上方，然后再回到这里，从后方经过，并在这里接上第三条边。
 
 <!-- id: s25-11-0082 -->
 
-<!-- untranslated -->
+这样一来，就有了一条被缩减到最简形式、再也不可缩减的*莫比乌斯带*；它呈三角形，包含三个连续的区段：
 
 <!-- id: s25-11-0083 -->
 
-<!-- untranslated -->
+- 第一个区段由这条以这种方式经过的带表示；
 
 <!-- id: s25-11-0084 -->
 
-<!-- untranslated -->
+- 然后是第二个区段——*它会在这里经过后方*——接着第二个区段*重新经过*，并第三次折叠，*再次经过后方*。
 
 <!-- id: s25-11-0085 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image145.jpeg|230]] → ![[texts/s25-le-moment-de-conclure/original/assets/image146.jpeg|230]] → ![[texts/s25-le-moment-de-conclure/original/assets/image147.jpeg|230]] → ![[texts/s25-le-moment-de-conclure/original/assets/image148.jpeg|230]]
 
 <!-- id: s25-11-0086 -->
 
-<!-- untranslated -->
+事实上，你在这里用六边形做的铺砌，也可以用三角形来做。但这其实是另一种简单得多的铺砌形式。你以为几乎必不可少的那个虚孔，会在这种表示中消失。好了，这就是我想说的。这是另一种表示。
 
 <!-- id: s25-11-0087 -->
 
-<!-- untranslated -->
+让-克洛德·泰拉松
 
 <!-- id: s25-11-0088 -->
 
-<!-- untranslated -->
+为什么我采用这些表示，而没有采用那个呢？
 
 <!-- id: s25-11-0089 -->
 
-<!-- untranslated -->
+因为这里至多只有一层双重厚度和一层单一厚度；显然，我可以像这里一样，用能够铺满平面的铺块来表示它。
 
 <!-- id: s25-11-0090 -->
 
-<!-- untranslated -->
+J. 拉加里格
 
 <!-- id: s25-11-0091 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image129.jpeg|320]]
 
 <!-- id: s25-11-0092 -->
 
-<!-- untranslated -->
+这里没有穿过平面的虚孔，因为唯一的孔洞是一个像袖筒一样竖直的孔洞；而在这种表示里，就像在这里一样，你总有一个虚孔，它就在这里：这是一个可以让针、别针穿过的点。到了三条带完全彼此重叠的这种表示中，这个点便消失了：
 
 <!-- id: s25-11-0093 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image149.jpeg|230]] → ![[texts/s25-le-moment-de-conclure/original/assets/image146.jpeg|230]] → ![[texts/s25-le-moment-de-conclure/original/assets/image150.jpeg|230]] → ![[texts/s25-le-moment-de-conclure/original/assets/image151.jpeg|230]]
 
 <!-- id: s25-11-0094 -->
 
-<!-- untranslated -->
+这实际上是具有一次半扭转的*莫比乌斯带*所能达到的最简形式；这种表示比那个简化得多，因为你实际上消除了六边形的效果。可以说，那是一种没有特殊理由存在的人为效果。一次半扭转的*莫比乌斯带*唯一有理由采取的形式，其实就是三角形，这就是它。
 
 <!-- id: s25-11-0095 -->
 
-<!-- untranslated -->
+而对于第二种*莫比乌斯带*，也就是具有*三次半扭转的莫比乌斯带*，你不可能得到这种形式；因为在后一种情形中，中央虚孔的存在绝对不可或缺。用一条纸带就很容易做出来……
 
 <!-- id: s25-11-0096 -->
 
-<!-- untranslated -->
+拉康
 
 <!-- id: s25-11-0097 -->
 
-<!-- untranslated -->
+这番思考的意义在于：对于*莫比乌斯带*同样如此。把我上一次画的东西变窄，可以保持通向三叶结的形式。我的意思是，这条*莫比乌斯带*——众所周知——在一分为二以后会形成一个“8”字形，如果我没记错的话；再把这个“8”字形一分为二，就会形成这样的形式，也就是某种相扣的东西，*如果我没记错的话*……我想我的记忆不对。
 
 <!-- id: s25-11-0098 -->
 
-<!-- untranslated -->
+J. 拉加里格
 
 <!-- id: s25-11-0099 -->
 
-<!-- untranslated -->
+我想，它会产生一种具有这类特征的*构形*。
 
 <!-- id: s25-11-0100 -->
 
-<!-- untranslated -->
+当我们把一条*莫比乌斯带*切分两次时，会得到一条看起来像这样的带，属于这一类型：这里有一条像这样、通过某种编织方式打结的带，它并不是一个简单的…… 拉康
 
 <!-- id: s25-11-0101 -->
 
-<!-- untranslated -->
+我想，实际上用*莫比乌斯带*得到的是两个彼此分开的环。
 
 <!-- id: s25-11-0102 -->
 
-<!-- untranslated -->
+不过，有件事在我看来仍不清楚：你所说的双重扭转——你是怎样得到那个图形的？
 
 <!-- id: s25-11-0103 -->
 
-<!-- untranslated -->
+让-克洛德·泰拉松
 
 <!-- id: s25-11-0104 -->
 
-<!-- untranslated -->
+通过压平一条*莫比乌斯带*，也就是压平一条具有一次完整扭转的带；换言之，每一次都做半次扭转，它就会形成这种形状：
 
 <!-- id: s25-11-0105 -->
 
-<!-- untranslated -->
+![[texts/s25-le-moment-de-conclure/original/assets/image128.jpeg|320]]
 
 <!-- id: s25-11-0106 -->
 
-<!-- untranslated -->
+拉康——这里的两条边是怎样形成*相扣*的？因为事实上，它们的确形成了*相扣*。它们形成了*相扣*！
 
 <!-- id: s25-11-0107 -->
 
-<!-- untranslated -->
+让-克洛德·泰拉松
 
 <!-- id: s25-11-0108 -->
 
-<!-- untranslated -->
+这是第一条边缘能够自行形成的带，也就是说，它不依赖带本身存在这一事实…… 拉康——对…… 某人——我们很想参与一下。
 
 <!-- id: s25-11-0109 -->
 
-<!-- untranslated -->
+拉康——两条边形成相扣。
 
 <!-- id: s25-11-0110 -->
 
-<!-- untranslated -->
+让-克洛德·泰拉松——这是边缘之间的第一个相扣。还可以继续下去。边缘之间还有一整个相扣系列。
 
 <!-- id: s25-11-0111 -->
 
-<!-- untranslated -->
+拉康——嗯？
 
 <!-- id: s25-11-0112 -->
 
-<!-- untranslated -->
+J. 拉加里格——边缘之间还有一整个相扣系列。
 
 <!-- id: s25-11-0113 -->
 
-<!-- untranslated -->
+拉康
 
 <!-- id: s25-11-0114 -->
 
-<!-- untranslated -->
+请原谅。我有一种办法，可以用三叶结做出一个博罗米结。
 
 <!-- id: s25-11-0115 -->
 
-<!-- untranslated -->
+不过，问题在于：是否还有*另一种办法*，可以用三叶结做出一个博罗米结？
 
 <!-- id: s25-11-0116 -->
 
-<!-- untranslated -->
+如果把这三个组合起来，那么显然，我们得到的会与用*莫比乌斯带*得到的东西相同。
 
 <!-- id: s25-11-0117 -->
 
-<!-- untranslated -->
+能不能通过错开这个三叶结——今天上午我一直在费力琢磨这件事——通过错开并移动这个三叶结，使我们可以从第二个略有错位的三叶结下方穿过，使我们可以从……下方穿过？
 
 <!-- id: s25-11-0118 -->
 
-<!-- untranslated -->
+> 因为这正是博罗米结的定义……使我们可以从位于*下方*的那个结的*下方*穿过，并从位于*上方*的那个结的*上方*经过。
 
 <!-- id: s25-11-0119 -->
 
-<!-- untranslated -->
+这就是我提议请你们检验的事情，因为今天上午我自己没能完成检验。
 
 <!-- id: s25-11-0120 -->
 
-<!-- untranslated -->
+另一方面，还必须明白，这个三叶结本身可以一分为二；我的意思是，它可以被切开，而且从中间切开会产生某种效果，我同样提议请你们加以检验。
 
 <!-- id: s25-11-0121 -->
 
-<!-- untranslated -->
+这样一来，5 月 9 日那一课应当会给我们带来一些结果；我自己也会努力为它们找出解法。

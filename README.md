@@ -14,7 +14,7 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 
 ## 当前内容翻译进度
 
-截至 2026 年 8 月 7 日，28 部研讨班均已建立完整译文目录，共 531 课；其中 434 课已完成译文覆盖，19 部研讨班达到 100%。按项目插件采用的分段进度算法，当前已覆盖 72,394 / 88,020 个分段（82.25%）。
+截至 2026 年 8 月 7 日，28 部研讨班均已建立完整译文目录，共 531 课；其中 522 课已完成译文覆盖，27 部研讨班达到 100%。按项目插件采用的分段进度算法，当前已覆盖 86,489 / 88,020 个分段（98.26%）。
 
 |研讨班|目录|已覆盖课次|分段进度|当前状态|
 |---|---|--:|--:|---|
@@ -22,7 +22,7 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 |II，_Le moi dans la théorie et dans la technique psychanalytique_|`texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique`|25 / 25|100%|译文覆盖完成，待校订|
 |III，_Les psychoses_|`texts/s3-les-psychoses`|25 / 25|100%|译文覆盖完成，待校订|
 |IV，_La relation d'objet_|`texts/s4-la-relation-d-objet`|24 / 24|100%|译文覆盖完成，待校订|
-|V，_Les formations de l'inconscient_|`texts/s5-les-formations-de-l-inconscient`|20 / 28|73.41%|翻译进行中|
+|V，_Les formations de l'inconscient_|`texts/s5-les-formations-de-l-inconscient`|28 / 28|100%|译文覆盖完成，待校订|
 |VI，_Le désir et son interprétation_|`texts/s6-le-desir-et-son-interpretation`|27 / 27|100%|译文覆盖完成，待校订|
 |VII，_L'éthique de la psychanalyse_|`texts/s7-l-ethique-de-la-psychanalyse`|27 / 27|100%|译文覆盖完成，待校订|
 |VIII，_Le transfert_|`texts/s8-le-transfert`|27 / 27|100%|译文覆盖完成，持续校订|
@@ -35,19 +35,19 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 |XV，_L'acte psychanalytique_|`texts/s15-l-acte-psychanalytique`|18 / 18|100%|译文覆盖完成，待校订|
 |XVI，_D'un Autre à l'autre_|`texts/s16-d-un-autre-a-l-autre`|25 / 25|100%|译文覆盖完成，待校订|
 |XVII，_L'envers de la psychanalyse_|`texts/s17-l-envers-de-la-psychanalyse`|13 / 13|100%|译文覆盖完成，待校订|
-|XVIII，_D'un discours qui ne serait pas du semblant_|`texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant`|0 / 10|0%|译文骨架已建立，待翻译|
+|XVIII，_D'un discours qui ne serait pas du semblant_|`texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant`|10 / 10|100%|译文覆盖完成，待校订|
 |XIX，_... ou pire_|`texts/s19-ou-pire`|12 / 12|100%|译文覆盖完成，待校订|
 |XIXb，_Le savoir du psychanalyste_|`texts/s19b-le-savoir-du-psychanalyste`|7 / 7|100%|译文覆盖完成，待校订|
 |XX，_Encore_|`texts/s20-encore`|13 / 13|100%|译文覆盖完成，待校订|
 |XXI，_Les non-dupes errent_|`texts/s21-les-non-dupes-errent`|15 / 15|100%|译文覆盖完成，待校订|
-|XXII，_R.S.I._|`texts/s22-r-s-i`|0 / 12|0%|译文骨架已建立，待翻译|
-|XXIII，_Le sinthome_|`texts/s23-le-sinthome`|0 / 11|0%|译文骨架已建立，待翻译|
-|XXIV，_L'insu que sait de l'une-bévue s'aile à mourre_|`texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre`|0 / 12|0%|译文骨架已建立，待翻译|
-|XXV，_Le moment de conclure_|`texts/s25-le-moment-de-conclure`|0 / 12|0%|译文骨架已建立，待翻译|
-|XXVI，_La topologie et le temps_|`texts/s26-la-topologie-et-le-temps`|0 / 10|0%|译文骨架已建立，待翻译|
-|XXVII，_Dissolution_|`texts/s27-dissolution`|0 / 13|0%|译文骨架已建立，待翻译|
+|XXII，_R.S.I._|`texts/s22-r-s-i`|12 / 12|100%|译文覆盖完成，待校订|
+|XXIII，_Le sinthome_|`texts/s23-le-sinthome`|11 / 11|100%|译文覆盖完成，待校订|
+|XXIV，_L'insu que sait de l'une-bévue s'aile à mourre_|`texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre`|12 / 12|100%|译文覆盖完成，待校订|
+|XXV，_Le moment de conclure_|`texts/s25-le-moment-de-conclure`|12 / 12|100%|译文覆盖完成，待校订|
+|XXVI，_La topologie et le temps_|`texts/s26-la-topologie-et-le-temps`|10 / 10|100%|译文覆盖完成，待校订|
+|XXVII，_Dissolution_|`texts/s27-dissolution`|13 / 13|100%|译文覆盖完成，待校订|
 
-这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。尚未完成覆盖的 9 部研讨班均已建立译文骨架，其中第五、十二研讨班正在翻译，其余 7 部目前为 0%。
+这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。目前仅第十二研讨班尚未完成译文覆盖，翻译仍在进行中。
 
 ## 文本来源
 
@@ -182,7 +182,7 @@ Obsidian 语法兼容说明：
 
 ## 当前内容翻译进度
 
-截至 2026 年 8 月 7 日，28 部研讨班均已建立完整译文目录，共 531 课；其中 434 课已完成译文覆盖，19 部研讨班达到 100%。按项目插件采用的分段进度算法，当前已覆盖 72,394 / 88,020 个分段（82.25%）。
+截至 2026 年 8 月 7 日，28 部研讨班均已建立完整译文目录，共 531 课；其中 522 课已完成译文覆盖，27 部研讨班达到 100%。按项目插件采用的分段进度算法，当前已覆盖 86,489 / 88,020 个分段（98.26%）。
 
 | 研讨班 | 目录 | 已覆盖课次 | 分段进度 | 当前状态 |
 | --- | --- | ---: | ---: | --- |
@@ -190,7 +190,7 @@ Obsidian 语法兼容说明：
 | II，*Le moi dans la théorie et dans la technique psychanalytique* | `texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
 | III，*Les psychoses* | `texts/s3-les-psychoses` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
 | IV，*La relation d'objet* | `texts/s4-la-relation-d-objet` | 24 / 24 | 100% | 译文覆盖完成，待校订 |
-| V，*Les formations de l'inconscient* | `texts/s5-les-formations-de-l-inconscient` | 20 / 28 | 73.41% | 翻译进行中 |
+| V，*Les formations de l'inconscient* | `texts/s5-les-formations-de-l-inconscient` | 28 / 28 | 100% | 译文覆盖完成，待校订 |
 | VI，*Le désir et son interprétation* | `texts/s6-le-desir-et-son-interpretation` | 27 / 27 | 100% | 译文覆盖完成，待校订 |
 | VII，*L'éthique de la psychanalyse* | `texts/s7-l-ethique-de-la-psychanalyse` | 27 / 27 | 100% | 译文覆盖完成，待校订 |
 | VIII，*Le transfert* | `texts/s8-le-transfert` | 27 / 27 | 100% | 译文覆盖完成，持续校订 |
@@ -203,19 +203,19 @@ Obsidian 语法兼容说明：
 | XV，*L'acte psychanalytique* | `texts/s15-l-acte-psychanalytique` | 18 / 18 | 100% | 译文覆盖完成，待校订 |
 | XVI，*D'un Autre à l'autre* | `texts/s16-d-un-autre-a-l-autre` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
 | XVII，*L'envers de la psychanalyse* | `texts/s17-l-envers-de-la-psychanalyse` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
-| XVIII，*D'un discours qui ne serait pas du semblant* | `texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant` | 0 / 10 | 0% | 译文骨架已建立，待翻译 |
+| XVIII，*D'un discours qui ne serait pas du semblant* | `texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant` | 10 / 10 | 100% | 译文覆盖完成，待校订 |
 | XIX，*... ou pire* | `texts/s19-ou-pire` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
 | XIXb，*Le savoir du psychanalyste* | `texts/s19b-le-savoir-du-psychanalyste` | 7 / 7 | 100% | 译文覆盖完成，待校订 |
 | XX，*Encore* | `texts/s20-encore` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
 | XXI，*Les non-dupes errent* | `texts/s21-les-non-dupes-errent` | 15 / 15 | 100% | 译文覆盖完成，待校订 |
-| XXII，*R.S.I.* | `texts/s22-r-s-i` | 0 / 12 | 0% | 译文骨架已建立，待翻译 |
-| XXIII，*Le sinthome* | `texts/s23-le-sinthome` | 0 / 11 | 0% | 译文骨架已建立，待翻译 |
-| XXIV，*L'insu que sait de l'une-bévue s'aile à mourre* | `texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre` | 0 / 12 | 0% | 译文骨架已建立，待翻译 |
-| XXV，*Le moment de conclure* | `texts/s25-le-moment-de-conclure` | 0 / 12 | 0% | 译文骨架已建立，待翻译 |
-| XXVI，*La topologie et le temps* | `texts/s26-la-topologie-et-le-temps` | 0 / 10 | 0% | 译文骨架已建立，待翻译 |
-| XXVII，*Dissolution* | `texts/s27-dissolution` | 0 / 13 | 0% | 译文骨架已建立，待翻译 |
+| XXII，*R.S.I.* | `texts/s22-r-s-i` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XXIII，*Le sinthome* | `texts/s23-le-sinthome` | 11 / 11 | 100% | 译文覆盖完成，待校订 |
+| XXIV，*L'insu que sait de l'une-bévue s'aile à mourre* | `texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XXV，*Le moment de conclure* | `texts/s25-le-moment-de-conclure` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XXVI，*La topologie et le temps* | `texts/s26-la-topologie-et-le-temps` | 10 / 10 | 100% | 译文覆盖完成，待校订 |
+| XXVII，*Dissolution* | `texts/s27-dissolution` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
 
-这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。尚未完成覆盖的 9 部研讨班均已建立译文骨架，其中第五、十二研讨班正在翻译，其余 7 部目前为 0%。
+这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。目前仅第十二研讨班尚未完成译文覆盖，翻译仍在进行中。
 
 ## 许可证
 

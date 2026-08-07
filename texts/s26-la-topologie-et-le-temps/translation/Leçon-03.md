@@ -1,7 +1,7 @@
 ---
-translation_progress: 0
-translation_progress_label: 0.00%
-untranslated_count: 19
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 19
 ---
 # Leçon 03 | 19 décembre 1978
@@ -14,76 +14,76 @@ max_segment_id: 19
 
 <!-- id: s26-03-0001 -->
 
-<!-- untranslated -->
+我立刻告诉你们，我今天不作研讨班讲演。
 
 <!-- id: s26-03-0002 -->
 
-<!-- untranslated -->
+我之所以告诉你们，是因为今天早上我家停电了；人们所谓的“灯”，也就是电灯，全都不亮了。
 
 <!-- id: s26-03-0003 -->
 
-<!-- untranslated -->
+当然，今天在场的 Gloria 帮了我：她给我拿来几根旧称 *chandelles*、如今叫 *bougies* 的蜡烛。
 
 <!-- id: s26-03-0004 -->
 
-<!-- untranslated -->
+Gloria 同我的教学——也就是同我今年关于拓扑学与时间所教的东西——有什么关系呢？
 
 <!-- id: s26-03-0005 -->
 
-<!-- untranslated -->
+她帮助我；当我要做绳圈时，她帮我剪绳子。
 
 <!-- id: s26-03-0006 -->
 
-<!-- untranslated -->
+绳圈是理论性的；它关涉圆环，关涉柔软、甚至有弹性的圆环——这是可以想象的。不过，想象走不了多远。
 
 <!-- id: s26-03-0007 -->
 
-<!-- untranslated -->
+拓扑学是想象的。
 
 <!-- id: s26-03-0008 -->
 
-<!-- untranslated -->
+它只是借助想象才得到发展。
 
 <!-- id: s26-03-0009 -->
 
-<!-- untranslated -->
+必须在想象界与我所谓的象征界之间作出区分：
 
 <!-- id: s26-03-0010 -->
 
-<!-- untranslated -->
+- 象征界，就是言说；
 
 <!-- id: s26-03-0011 -->
 
-<!-- untranslated -->
+- 想象界与之不同。
 
 <!-- id: s26-03-0012 -->
 
-<!-- untranslated -->
+有些表面有时没有边界：例如，环面就是一个没有边界的表面。
 
 <!-- id: s26-03-0013 -->
 
-<!-- untranslated -->
+不过，环面可以被压平；如果把它压平，便会形成一个有边界的表面。
 
 <!-- id: s26-03-0014 -->
 
-<!-- untranslated -->
+也正因为如此，环面才可以用来做莫比乌斯带。
 
 <!-- id: s26-03-0015 -->
 
-<!-- untranslated -->
+画法如下。只要把它压平，它就形成一条莫比乌斯带。
 
 <!-- id: s26-03-0016 -->
 
-<!-- untranslated -->
+不过，也可以把这个表面重新鼓起来；这样一来，它便再次成为一个环面。
 
 <!-- id: s26-03-0017 -->
 
-<!-- untranslated -->
+![[texts/s26-la-topologie-et-le-temps/original/assets/image10.jpeg|160]] → ![[texts/s26-la-topologie-et-le-temps/original/assets/image11.jpeg|115]] → ![[texts/s26-la-topologie-et-le-temps/original/assets/image10.jpeg|160]]
 
 <!-- id: s26-03-0018 -->
 
-<!-- untranslated -->
+尽管如此，环面与莫比乌斯带仍然彼此不同。
 
 <!-- id: s26-03-0019 -->
 
-<!-- untranslated -->
+［由于没有扩音设备，研讨班最后几分钟的录音无法听清。］
