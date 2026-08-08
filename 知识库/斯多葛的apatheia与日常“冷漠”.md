@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
-  - 领域/哲学
+  - 领域/哲学/古代哲学
   - 传统/斯多葛主义
   - 概念/apatheia
 verified_at: 2026-07-28

@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班IV
-  - 领域/精神分析
+  - 领域/精神分析/欲望驱力与客体
   - 人物/拉康
   - 概念/客体关系
 verified_at: 2026-08-05

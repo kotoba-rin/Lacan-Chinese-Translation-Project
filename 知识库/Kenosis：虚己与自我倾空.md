@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
-  - 领域/神学
+  - 领域/宗教与神话/基督教与神学
   - 传统/基督教
   - 语言/古希腊语
 verified_at: 2026-07-28

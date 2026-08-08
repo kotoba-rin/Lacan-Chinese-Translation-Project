@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班X
-  - 领域/精神分析
+  - 领域/精神分析/欲望驱力与客体
   - 作品/Das-Unheimliche
   - 概念/Unheimlich
   - 概念/焦虑

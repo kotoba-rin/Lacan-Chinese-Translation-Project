@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/精神分析
+  - 领域/精神分析/欲望驱力与客体
   - 人物/拉康
   - 概念/精神经济
   - 语言/法语

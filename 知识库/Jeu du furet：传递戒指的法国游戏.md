@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班XIXb
-  - 领域/文化史
+  - 领域/文学艺术与文化/文化游戏与民俗
   - 地区/法国
   - 体裁/童谣
   - 概念/儿童游戏

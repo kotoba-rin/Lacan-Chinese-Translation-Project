@@ -5,7 +5,7 @@ verification: 已核实
 tags:
   - 研讨班XX
   - 研讨班XXII
-  - 领域/精神分析
+  - 领域/精神分析/性爱与享乐
   - 概念/爱
   - 概念/恨
 verified_at: 2026-08-06

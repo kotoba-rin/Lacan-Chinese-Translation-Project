@@ -5,7 +5,7 @@ verification: 已核实
 tags:
   - 研讨班XIX
   - 研讨班XIXb
-  - 领域/精神分析
+  - 领域/精神分析/欲望驱力与客体
   - 概念/对象a
   - 概念/欲望
 verified_at: 2026-07-30

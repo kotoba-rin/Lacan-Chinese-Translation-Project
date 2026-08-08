@@ -4,10 +4,10 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班XVII
-  - 领域/古典学
-  - 领域/格言史
+  - 领域/语言符号与文献/语源修辞与造词
   - 语言/拉丁语
   - 人物/伪亚里士多德
+  - 时期/古典时代
 verified_at: 2026-07-28
 ---
 

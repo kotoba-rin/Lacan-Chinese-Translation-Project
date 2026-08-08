@@ -4,7 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIII
-  - 领域/精神分析史
+  - 领域/精神分析/无意识与主体
+  - 领域/精神分析/历史与学派
   - 语言/德语
   - 概念/Entfremdung
   - 作品/雅典卫城上的记忆障碍

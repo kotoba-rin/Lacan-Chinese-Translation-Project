@@ -4,8 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/哲学
-  - 领域/政治哲学
+  - 领域/哲学/伦理与政治
   - 人物/柏拉图
 verified_at: 2026-08-07
 ---

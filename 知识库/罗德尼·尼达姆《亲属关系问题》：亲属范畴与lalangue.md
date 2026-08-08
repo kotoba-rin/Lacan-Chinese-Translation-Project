@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班XXIV
-  - 领域/人类学
+  - 领域/历史社会与教育/人类学与民族志
   - 人物/罗德尼-尼达姆
   - 作品/亲属关系问题
   - 概念/亲属关系

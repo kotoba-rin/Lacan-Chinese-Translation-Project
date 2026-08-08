@@ -3,10 +3,11 @@ title: 弗雷格的 Sinn 与 Bedeutung
 type: knowledge-card
 verification: 部分准确
 tags:
+  - 研讨班XII
   - 研讨班XVIII
   - 研讨班XIX
-  - 领域/语言哲学
-  - 人物/戈特洛布-弗雷格
+  - 领域/语言符号与文献/符号与语言哲学
+  - 人物/弗雷格
   - 概念/Sinn与Bedeutung
 verified_at: 2026-08-07
 ---
@@ -32,6 +33,9 @@ verified_at: 2026-08-07
 [[知识库/弗雷格数概念中的零、后继与一.md|弗雷格数概念中的零、后继与一]]
 [[知识库/专名、书写与语音化.md|专名、书写与语音化]]
 
+[[texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/Leçon-21.md#s12-21-0232|s12-21-0232]]
+[[texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/Leçon-21.md#s12-21-0238|s12-21-0238]]
+[[texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/Leçon-22.md#s12-22-0006|s12-22-0006]]
 [[texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/Leçon-10.md#s18-10-0106|s18-10-0106]]
 [[texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/Leçon-10.md#s18-10-0108|s18-10-0108]]
 [[texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/Leçon-10.md#s18-10-0114|s18-10-0114]]

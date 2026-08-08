@@ -6,7 +6,7 @@ tags:
   - 研讨班XIX
   - 研讨班XIXb
   - 研讨班XXVII
-  - 领域/精神分析
+  - 领域/精神分析/三界幻想与拓扑
   - 概念/Mathème
 verified_at: 2026-08-07
 ---

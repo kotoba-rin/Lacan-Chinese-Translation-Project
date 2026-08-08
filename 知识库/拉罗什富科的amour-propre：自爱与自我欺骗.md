@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班II
-  - 领域/伦理思想史
+  - 领域/哲学/思想史
   - 人物/拉罗什富科
   - 概念/自爱
 verified_at: 2026-08-05

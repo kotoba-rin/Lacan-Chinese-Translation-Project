@@ -8,6 +8,7 @@ tags:
   - 研讨班VII
   - 研讨班VIII
   - 研讨班XIXb
+  - 领域/精神分析/临床结构与症状
 verified_at: 2026-08-06
 ---
 

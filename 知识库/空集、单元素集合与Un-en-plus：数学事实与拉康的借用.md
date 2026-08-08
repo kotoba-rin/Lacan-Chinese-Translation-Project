@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XVI
-  - 领域/数学
-  - 领域/精神分析
+  - 领域/精神分析/无意识与主体
+  - 领域/数学逻辑与形式科学/数学基础与集合论
   - 概念/空集
   - 概念/集合论
 verified_at: 2026-08-06

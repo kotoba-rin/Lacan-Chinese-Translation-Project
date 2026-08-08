@@ -4,7 +4,8 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XXV
-  - 领域/拓扑学
+  - 领域/精神分析/三界幻想与拓扑
+  - 领域/数学逻辑与形式科学/几何与拓扑
   - 概念/质料
   - 概念/实在界
 verified_at: 2026-08-07

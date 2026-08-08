@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XX
-  - 领域/艺术史
-  - 领域/精神分析
+  - 领域/精神分析/性爱与享乐
+  - 领域/文学艺术与文化/视觉艺术
   - 概念/巴洛克
   - 概念/身体
 verified_at: 2026-08-06

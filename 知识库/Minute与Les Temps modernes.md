@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XVII
-  - 领域/出版史
+  - 领域/语言符号与文献/文献出版与期刊
   - 地区/法国
   - 人物/萨特
   - 体裁/政治期刊

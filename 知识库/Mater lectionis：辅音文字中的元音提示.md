@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
-  - 领域/语言学
+  - 领域/语言符号与文献/语言学与语法
   - 语言/希伯来语
   - 概念/书写系统
 verified_at: 2026-07-28

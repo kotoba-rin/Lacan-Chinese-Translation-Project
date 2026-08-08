@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班X
-  - 领域/精神分析
+  - 领域/精神分析/欲望驱力与客体
   - 概念/声音
   - 概念/对象a
   - 概念/Shofar

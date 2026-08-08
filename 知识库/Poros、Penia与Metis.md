@@ -4,10 +4,10 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/古典学
-  - 领域/神话学
+  - 领域/宗教与神话/神话
   - 人物/柏拉图
   - 概念/爱的理论
+  - 时期/古典时代
 verified_at: 2026-07-28
 ---
 

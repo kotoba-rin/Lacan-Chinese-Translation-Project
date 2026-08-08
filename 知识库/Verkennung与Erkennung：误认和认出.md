@@ -5,7 +5,7 @@ verification: 部分准确
 tags:
   - 研讨班VII
   - 研讨班VIII
-  - 领域/精神分析
+  - 领域/精神分析/无意识与主体
   - 语言/德语
   - 概念/误认
 verified_at: 2026-08-06

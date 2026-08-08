@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XVII
-  - 领域/宗教学
-  - 语言/希腊语
+  - 领域/宗教与神话/宗教与仪式
+  - 语言/古希腊语
   - 传统/基督教
   - 概念/神秘训诲
 verified_at: 2026-07-30

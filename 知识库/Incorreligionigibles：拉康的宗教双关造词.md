@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/语言学
-  - 领域/宗教
+  - 领域/语言符号与文献/语源修辞与造词
+  - 领域/宗教与神话/宗教与仪式
   - 语言/法语
   - 概念/造词
 verified_at: 2026-07-28

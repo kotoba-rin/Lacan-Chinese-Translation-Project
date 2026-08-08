@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XXIII
-  - 领域/精神分析
+  - 领域/精神分析/性爱与享乐
   - 概念/Sinthome
   - 概念/性关系
   - 概念/ravage

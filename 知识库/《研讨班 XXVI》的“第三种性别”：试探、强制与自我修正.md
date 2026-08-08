@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XXVI
-  - 领域/精神分析
+  - 领域/精神分析/性爱与享乐
   - 概念/第三种性别
   - 概念/性关系不存在
   - 概念/反入门仪式

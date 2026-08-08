@@ -4,10 +4,10 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
-  - 领域/古典学
-  - 领域/宗教
+  - 领域/宗教与神话/宗教与仪式
   - 传统/古希腊宗教
   - 人物/苏格拉底
+  - 时期/古典时代
 verified_at: 2026-07-28
 ---
 

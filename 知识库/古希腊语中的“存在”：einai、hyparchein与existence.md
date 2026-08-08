@@ -4,10 +4,10 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/古典学
-  - 领域/哲学
+  - 领域/哲学/古代哲学
   - 语言/古希腊语
   - 概念/存在
+  - 时期/古典时代
 verified_at: 2026-07-28
 ---
 

@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班II
-  - 领域/精神分析
+  - 领域/精神分析/无意识与主体
   - 语言/法语
   - 人物/兰波
   - 概念/主体去中心化

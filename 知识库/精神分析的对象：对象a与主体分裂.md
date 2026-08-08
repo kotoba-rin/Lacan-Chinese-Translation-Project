@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XIII
-  - 领域/精神分析
+  - 领域/精神分析/欲望驱力与客体
   - 概念/对象a
   - 概念/主体分裂
 verified_at: 2026-08-07
@@ -36,6 +36,7 @@ verified_at: 2026-08-07
 [[知识库/帕斯卡的赌注.md|帕斯卡的赌注]]
 [[知识库/康拉德·斯坦的分析情境：退行、自恋与拉康的批评.md|康拉德·斯坦的分析情境：退行、自恋与拉康的批评]]
 [[知识库/L’achose：在自身位置上缺席的“物”.md|L’achose：在自身位置上缺席的“物”]]
+[[知识库/杜拉斯《Lol V. Stein的迷狂》：洞词、专名与客体—凝视.md|杜拉斯《Lol V. Stein 的迷狂》：洞词、专名与客体—凝视]]
 
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-01.md#s13-01-0078|s13-01-0078]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-01.md#s13-01-0079|s13-01-0079]]

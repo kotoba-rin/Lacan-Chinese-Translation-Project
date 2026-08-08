@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
-  - 领域/精神分析
+  - 领域/精神分析/性爱与享乐
   - 人物/弗洛伊德
   - 语言/德语
   - 概念/快乐

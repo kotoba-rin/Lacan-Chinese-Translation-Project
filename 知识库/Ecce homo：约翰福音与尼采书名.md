@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XIXb
-  - 领域/宗教
+  - 领域/宗教与神话/圣经与犹太传统
   - 语言/拉丁语
   - 人物/尼采
   - 作品/约翰福音

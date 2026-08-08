@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班VIII
-  - 领域/精神分析史
+  - 领域/精神分析/历史与学派
   - 人物/安娜O
   - 人物/布洛伊尔
 verified_at: 2026-07-28

@@ -4,10 +4,11 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/古典学
-  - 领域/精神分析
+  - 领域/精神分析/欲望驱力与客体
+  - 领域/哲学/古代哲学
   - 人物/拉康
   - 概念/对象a
+  - 时期/古典时代
 verified_at: 2026-08-07
 ---
 

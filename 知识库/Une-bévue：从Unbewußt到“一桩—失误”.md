@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XXIV
-  - 领域/精神分析
+  - 领域/精神分析/无意识与主体
   - 概念/无意识
   - 概念/造词
   - 语言/法语

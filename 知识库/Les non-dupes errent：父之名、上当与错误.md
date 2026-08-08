@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XXI
-  - 领域/精神分析
+  - 领域/精神分析/能指言说与书写
   - 语言/法语
   - 概念/父之名
   - 概念/无意识知识

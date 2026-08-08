@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/精神分析
-  - 领域/游戏史
+  - 领域/精神分析/话语社会与伦理
+  - 领域/文学艺术与文化/文化游戏与民俗
   - 作品/硬面包
   - 概念/分析家位置
 verified_at: 2026-07-29

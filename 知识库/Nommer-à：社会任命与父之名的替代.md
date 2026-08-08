@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XXI
-  - 领域/精神分析
-  - 领域/社会理论
+  - 领域/精神分析/话语社会与伦理
+  - 领域/历史社会与教育/社会与政治
   - 语言/法语
   - 概念/父之名
 verified_at: 2026-08-06

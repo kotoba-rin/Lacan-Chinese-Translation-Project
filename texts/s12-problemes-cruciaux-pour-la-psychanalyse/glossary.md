@@ -60,3 +60,10 @@
 | Wortbrücke | 词桥 | 弗洛伊德文本中由词语连接形成的联想通道。 |
 | différence exquise | 精微差异 | 指身体感受中不可还原、被能指标记的微小差异。 |
 | sonorité (phonologie) | 响音度 | 音系学中指音段在音节组织中的相对层级，不等同于声学音量；*degré / échelle de sonorité* 分别译“响音度／响音度阶梯”。 |
+| Sinn / Bedeutung | 意义／指称 | 弗雷格语境中的对举；*Bedeutung* 不与法语 *signification*“意指”合并。普通德语标题语境可依句法处理。 |
+| Wahrheit | 真理 | 第二十二、二十三课三元结构中的德语项；与 *Sinn*、*Zwang* 并列时首次保留德文。 |
+| Zwang / Entzweiung / Spaltung | 强迫／分裂为二／裂分 | 保留三者差异：*Zwang* 突出强制，*Entzweiung* 突出一分为二，*Spaltung* 指主体的结构性裂分。 |
+| non-être | 非存在 | 《智者篇》语境中与“存在”相对又由“他者”生成的形式位置，不译作日常“没有”。 |
+| être sexué | 性化存在 | 指处在性之结构关系中的存在，不化约为生理性别身份。 |
+| la Chose | 原物 | 弗洛伊德—拉康意义上的 *das Ding*；与普通 *chose*“东西、事物”区分。 |
+| τυγχάνον / tugkanon | 情势 | 第十七课斯多葛派三元关系中的术语，指包含行动者并支撑事件流的动态语境，不简化为静态“指涉对象”。 |

@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/技术
+  - 领域/技术与计算/技术与工程
   - 概念/二维码
   - 概念/信息编码
   - 概念/图像识别

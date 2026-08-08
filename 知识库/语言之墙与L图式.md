@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班II
-  - 领域/精神分析
+  - 领域/精神分析/能指言说与书写
   - 人物/拉康
   - 概念/L图式
   - 概念/语言之墙

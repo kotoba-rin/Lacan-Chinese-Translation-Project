@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XVIII
-  - 领域/精神分析
+  - 领域/精神分析/能指言说与书写
   - 概念/字母
   - 概念/书写
   - 概念/滨岸

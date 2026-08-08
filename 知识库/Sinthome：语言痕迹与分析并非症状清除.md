@@ -6,7 +6,7 @@ tags:
   - 研讨班XXIII
   - 研讨班XXIV
   - 研讨班XXV
-  - 领域/精神分析
+  - 领域/精神分析/三界幻想与拓扑
   - 概念/Sinthome
 verified_at: 2026-08-07
 ---

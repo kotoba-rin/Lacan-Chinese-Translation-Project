@@ -5,7 +5,7 @@ verification: 部分准确
 tags:
   - 研讨班XIV
   - 研讨班XVII
-  - 领域/哲学
+  - 领域/哲学/认识论与心灵
   - 人物/笛卡尔
   - 概念/我思
 verified_at: 2026-08-07

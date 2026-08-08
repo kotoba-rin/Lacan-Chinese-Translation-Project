@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XXIII
-  - 领域/精神分析
+  - 领域/精神分析/三界幻想与拓扑
   - 人物/詹姆斯-乔伊斯
   - 概念/自我
   - 概念/博罗米结

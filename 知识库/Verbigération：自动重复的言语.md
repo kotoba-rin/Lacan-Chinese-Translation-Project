@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/精神病理学
+  - 领域/心理精神病学与医学/精神病学与精神病理
   - 概念/言语症状
   - 语言/法语
 verified_at: 2026-07-28

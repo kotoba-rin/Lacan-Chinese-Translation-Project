@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班XVII
-  - 领域/计算机科学
+  - 领域/技术与计算/计算机与软件
   - 概念/GIL
   - 概念/Python
   - 概念/并发

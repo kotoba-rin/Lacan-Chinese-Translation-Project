@@ -5,7 +5,7 @@ verification: 部分准确
 tags:
   - 研讨班VII
   - 研讨班VIII
-  - 领域/哲学
+  - 领域/哲学/古代哲学
   - 作品/诗学
   - 概念/katharsis
 verified_at: 2026-07-30

@@ -4,9 +4,9 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/修辞学
-  - 领域/古典学
+  - 领域/语言符号与文献/语源修辞与造词
   - 语言/古希腊语
+  - 时期/古典时代
 verified_at: 2026-07-28
 ---
 
