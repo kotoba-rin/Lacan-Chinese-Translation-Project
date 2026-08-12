@@ -9,12 +9,18 @@ tags:
   - 人物/拉康
   - 概念/对象a
   - 时期/古典时代
-verified_at: 2026-08-07
+verified_at: 2026-08-08
 ---
 
 古希腊语 ἄγαλμα（*agalma*）可以指使神或观看者感到荣耀、欣喜的饰物、献礼或珍贵之物，后来尤其常指神像和奉献雕像。它并不只是现代意义上中性的“雕塑”：宗教奉献、光彩与价值感都可能包含在语境中。
 
-在《会饮》215a–216e，阿尔喀比亚德把苏格拉底比作店铺里的西勒诺斯小像：外壳滑稽丑陋，打开后却藏着“神的 *agalmata*”。他继而把苏格拉底内部的东西形容为神圣、金质、极美而令人惊异。复数 *agalmata* 在这里既保留“神像”意象，也承担“内部珍宝”的比喻作用。
+《研讨班 VIII》第十课开头先用法语 *ornement, parure*（“装饰物、饰品”）给出“第一眼”的词义，并把它联系到动词 ἀγάλλω（*agallô*，“装点、装饰”）。拉康随即强调，这还不是完整定义：进入《会饮》的西勒诺斯比喻后，重音从外表的装饰移向盒子内部的 *objet précieux, bijou*（“珍贵对象、珠宝”），最终又被明确称为藏在对象中的“欲望对象”和“部分对象”。因此，本项目在概念性语境中保留音译“阿伽尔玛”，必要时再按上下文释作“珍宝”或“隐藏的贵重之物”，而不把它固定成“饰品”或“神像”。
+
+拉康所说的西勒诺斯比喻具有两层作用。第一层是**形象上的反差**：西勒诺斯外表滑稽、粗陋，对应苏格拉底其貌不扬的外观。第二层是**器物结构上的内外关系**：西勒诺斯形物件可以打开，外壳内部显出 *agalmata*。拉康把后者称为“拓扑学线索”，因为使苏格拉底成为欲望对象的，并不是他可见的外表，而是阿尔喀比亚德认定藏在其内部的珍贵之物。这里的“内部”因而不只是物理位置，也表示欲望把价值安置在他者之中的结构。
+
+不过，应当区分柏拉图原文与拉康的具体重构。《会饮》215b 可以确认的是：工匠作坊里的西勒诺斯形物件能够分开，内部显出“诸神的 *agalmata*”；原文没有说明其确切形制和日常用途。拉康所说的“珠宝盒”“礼物外壳”抓住了外壳—内含物的关系，但不应当直接当作已获考古证实的器物说明。详细的文献与形制辨析另见 [[知识库/西勒诺斯、马西亚斯与苏格拉底的双重比喻.md|西勒诺斯、马西亚斯与苏格拉底的双重比喻]]。
+
+阿尔喀比亚德继而把苏格拉底内部的东西形容为神圣、金质、极美而令人惊异。复数 *agalmata* 在这里既保留“神像”意象，也承担“内部珍宝”的比喻作用。
 
 拉康抓住“在他者内部被假定存在的珍贵东西”，在《研讨班 VIII》中让 *agalma* 参与对象 *a* 概念的形成：
 
@@ -32,9 +38,11 @@ C. D. C. Reeve 据此把苏格拉底内部的 *agalmata* 解释为阿尔喀比�
 
 - [Cunliffe Lexicon: ἄγαλμα](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Acunliffe_lex-n24/)（希腊文/英文；古希腊词典）
 - [Plato, Symposium 215b–222a](https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Sym.+215b)（希腊文/英文；阿尔喀比亚德的西勒诺斯比喻）
+- [R. G. Bury, *The Symposium of Plato*, commentary on 215a](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0090%3Atext%3Dcomm%3Asection%3D215a)（英文；西勒诺斯形物件的不同形制重构及证据边界）
 - [C. D. C. Reeve, “Agalmata, Deontology, and the Erotics of Emptiness in the Symposium”](https://www.consecutio.org/wp-content/uploads/2017/10/Download-2.pdf)（英文；把 *agalmata*、少年爱教育规范与阿尔喀比亚德的占有幻想联结起来；属解释性研究）
 - [Radcliffe G. Edmonds III, “Alcibiades the Profane: Images of the Mysteries in Plato’s *Symposium*”](https://www.uni-weimar.de/kunst-und-gestaltung/wiki/images/Alcibiades_the_Profane_Images_of_the_Mysteries_in_Plato%3Fs_Sympos.pdf)（英文；以“私人占有”结构解释秘仪亵渎与 *agalma* 的平行）
-- [[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0011|《研讨班 VIII》第十课 s8-10-0011]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0019|s8-10-0019]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0032|第十一课 s8-11-0032]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0049|s8-11-0049]]（法文；本项目底本，苏格拉底内部的 *agalmata*、“铜换金”和欲望对象）
+- [[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0001|《研讨班 VIII》第十课 s8-10-0001]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0002|s8-10-0002]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0015|s8-10-0015]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0019|s8-10-0019]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0067|s8-10-0067]]（法文；从“装饰物、饰品”到内部珍宝、欲望对象与部分对象的推进）
+- [[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0032|《研讨班 VIII》第十一课 s8-11-0032]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0049|s8-11-0049]]（法文；苏格拉底内部的 *agalmata* 与“铜换金”）
 - [Seminar VIII overview: agalma and objet a](https://www.lacan.com/seminars2.htm)（英文；拉康研讨班索引；概念定位已同上述本地法文段落对照）
 - [The Lacanian Subject](https://www2.arnes.si/~jzaloh/bestbooks/Bruce-Fink_The-Lacanian-Subject.pdf)（英文；Bruce Fink 研究）
 
@@ -49,9 +57,13 @@ C. D. C. Reeve 据此把苏格拉底内部的 *agalmata* 解释为阿尔喀比�
 [[知识库/苏格拉底与分析家话语的回溯性比较.md|苏格拉底与分析家话语的回溯性比较]]
 [[知识库/西勒诺斯、马西亚斯与苏格拉底的双重比喻.md|西勒诺斯、马西亚斯与苏格拉底的双重比喻]]
 
+[[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0001|s8-10-0001]]
+[[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0002|s8-10-0002]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0011|s8-10-0011]]
+[[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0015|s8-10-0015]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0019|s8-10-0019]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0031|s8-10-0031]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0044|s8-10-0044]]
+[[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0067|s8-10-0067]]
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0032|s8-11-0032]]
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0049|s8-11-0049]]
