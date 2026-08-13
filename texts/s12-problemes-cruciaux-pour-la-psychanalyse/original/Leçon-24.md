@@ -1,4 +1,4 @@
-# Leçon 24 | 23 Juin 1966
+# Leçon 24 | 23 Juin 1965
 
 <!-- source-url: http://staferla.free.fr/S12/S12 PROBLEMES.docx -->
 <!-- seminar: s12 -->

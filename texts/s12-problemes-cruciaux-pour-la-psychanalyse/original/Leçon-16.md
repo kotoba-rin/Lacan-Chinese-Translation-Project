@@ -1,4 +1,4 @@
-# Leçon 16 | 28 Avril l965
+# Leçon 16 | 28 Avril 1965
 
 <!-- source-url: http://staferla.free.fr/S12/S12 PROBLEMES.docx -->
 <!-- seminar: s12 -->

@@ -1,4 +1,4 @@
-# Leçon 20 | 26 Mai l965
+# Leçon 20 | 26 Mai 1965
 
 <!-- source-url: http://staferla.free.fr/S12/S12 PROBLEMES.docx -->
 <!-- seminar: s12 -->

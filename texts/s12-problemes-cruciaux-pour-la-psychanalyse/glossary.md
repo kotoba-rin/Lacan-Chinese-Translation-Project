@@ -8,6 +8,7 @@
 | signification | 意指 | 指能指运作所产生或承载的意指；普通“含义、重要性”可依句法处理，但不与 *sens* 机械合并。 |
 | non-sens / nonsense | 非意义 | 第一课明确说明它不等于“没有意指”（*sans signification*）；保留其作为意义朝向所指一侧的拒绝面。 |
 | signifiant / signifié | 能指／所指 | 保留二者在 $S/s$ 公式中的区分；不得把 *signifiant* 泛化成“意义”。 |
+| représenter / représentant / représentation (*Vorstellung*) | 代表／代表项／表象 | 拉康公式中的动词 *représenter* 译“代表”，*représentant* 译“代表项”；弗洛伊德的心理表象或一般名词 *représentation* 才按语境译“表象”，三者不可机械合并。 |
 | chaîne signifiante | 能指链 | 指能指按组合关系形成的链条。 |
 | syntagme | 组合段 | 第一课把它界定为从要素接合方面考察的能指链。 |
 | sujet | 主体 | 概念性用法统一译“主体”；语法主语或受试者义按上下文处理。 |
@@ -15,10 +16,13 @@
 | référent | 指涉对象 | 不同于 *signifié*“所指”；第一课将它同实在及意指的迂回联系起来。 |
 | dénotation / connotation | 指称／涵义 | 第一课区分能指相对于指涉对象的两种用法。 |
 | réel | 实在 | 拉康三界概念用法；普通“现实、真实”义按上下文处理。 |
+| sexe / sexuel / différence sexuelle | 性／性的／性差异 | 指性及其结构性差异，不以当代社会身份意义上的“性别”替代；语法上的 *genre* 仍按语境译“性”。 |
 | praxis | 实践 | 指以主体为枢轴的精神分析实践，不改写成一般操作技术。 |
 | épicatathète / épanathète / épamphithète | 前置修饰语／后置修饰语／同位修饰语 | 第一课引用达穆雷特与皮雄对形容词位置及意义效应的区分。 |
 | signifiance | 能指性 | 指能指结构及其产生效应的性质，不等同于已经固定的“意义”。 |
+| pas de sens | 意义之不／意义之步 | *pas* 同时承载否定词“不／没有”和名词“步”的双关；关键处并列保留两层。 |
 | surface / face / bord | 曲面／面／边界 | 第二课拓扑语境中的区分；*surface* 不泛译为日常“表面”。 |
+| homologie / homologue | 同型关系／同型的 | 指形式、位置或结构上的对应，不预设共同起源；只有在明确的数学同调语境中才译“同调”。 |
 | tore / cross-cap / bande de Möbius / huit intérieur | 环面／交叉帽／莫比乌斯带／内八字 | 第二课用于说明能指链、主体及里面与外面的拓扑关系。 |
 | nom propre | 专名 | 第二课强调专名的功能不能被化约为对个体的指示。 |
 | métalangage / langage-objet | 元语言／对象语言 | “不存在元语言”否定一种能站到语言原初使用之外并穷尽它的层级；不否定局部形式化。 |

@@ -1,4 +1,4 @@
-# Leçon 18 | l2 Mai l965
+# Leçon 18 | 12 Mai 1965
 
 <!-- source-url: http://staferla.free.fr/S12/S12 PROBLEMES.docx -->
 <!-- seminar: s12 -->
@@ -400,7 +400,7 @@ Nous savons mais nous n’en tirons pas *les conséquences :* que *le sexe* ce 
 
 <!-- id: s12-18-0099 -->
 
-> entre la reproduction asexuée et la reproduction sexuée, autrement dit qui, selon l’étape du rejet de la lignée se reproduisent tantôt de façon asexuée et tantôt font quelque chose qui nous donne l’idée d’un rapport avec la reproduction sexuée, ce qui nous en donne l’idée …chez ces organismes élémentaires, *dont je n’aurais pas le pédantisme de dire ici les catégories car je ne veux pas encombrer mon exposé,* c’est que ce qui se passe quand j’ai parlé de reproduction sexuée, c’est surtout quelque chose dont l’essen­tiel est plutôt l’envers de la fécondation, que la fécondation elle-même : c’est à savoir une *méiose*, c’est-à-dire une *réduction chromosomique* et après ça, il peut y avoir une conjonction mais ce n’est pas forcément une reproduction, ça peut être aussi considéré comme une réjuvénation et c’est peut-être même ça essentiellement la conjonction sexuelle.
+> entre la reproduction asexuée et la reproduction sexuée, autrement dit qui, selon l’étage du rejet de la lignée se reproduisent tantôt de façon asexuée et tantôt font quelque chose qui nous donne l’idée d’un rapport avec la reproduction sexuée, ce qui nous en donne l’idée …chez ces organismes élémentaires, *dont je n’aurais pas le pédantisme de dire ici les catégories car je ne veux pas encombrer mon exposé,* c’est que ce qui se passe quand j’ai parlé de reproduction sexuée, c’est surtout quelque chose dont l’essen­tiel est plutôt l’envers de la fécondation, que la fécondation elle-même : c’est à savoir une *méiose*, c’est-à-dire une *réduction chromosomique* et après ça, il peut y avoir une conjonction mais ce n’est pas forcément une reproduction, ça peut être aussi considéré comme une réjuvénation et c’est peut-être même ça essentiellement la conjonction sexuelle.
 
 <!-- id: s12-18-0100 -->
 
