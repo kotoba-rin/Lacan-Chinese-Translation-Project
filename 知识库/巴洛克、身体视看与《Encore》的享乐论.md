@@ -14,6 +14,16 @@ verified_at: 2026-08-20
 
 巴洛克是艺术史标签，不是拉康创制的精神分析术语。贝尔尼尼以戏剧化的动作、空间、光线和多种媒介塑造十七世纪罗马巴洛克语汇；《圣女德肋撒的神魂超拔》（1647—1652）把德肋撒的神秘体验转换成一组高度身体化、又由整座科尔纳罗礼拜堂共同组织的视觉场景。
 
+**图像实例**
+
+![[texts/s20-encore/translation/assets/cornaro-chapel-bernini-2015.jpg|760]]
+
+*图 1：科尔纳罗礼拜堂正面全景。中央白色大理石群像、金色光束、彩色大理石建筑框架与两侧科尔纳罗家族的“观众包厢”被组织在同一装置中。摄影：Livioandronico2013，2015。图像来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，等比缩放展示、未裁剪。*
+
+![[texts/s20-encore/translation/assets/ecstasy-of-saint-teresa-bernini-2015.jpg|560]]
+
+*图 2：贝尔尼尼《圣女德肋撒的神魂超拔》中央雕塑群近景；持箭天使、斜倚的德肋撒、衣褶与金色光束共同构成被体现为身体场景的神秘体验。摄影：Alvesgaspar，2015。图像来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ecstasy_of_Saint_Teresa_September_2015-2a.jpg)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，等比缩放展示、未裁剪。*
+
 《研讨班 VIII》第十一课已把反宗教改革以后巴洛克艺术的兴起概括为“图像自身之力量”的确立，尤其强调图像的诱惑性。这个判断有可定位的历史背景：特利腾大公会议重新确认圣像在教导、纪念和敬礼中的作用，随后天主教艺术广泛发展出更具戏剧性、感官性和说服力的视觉语言。不过，“反宗教改革”不等于一种单一风格，巴洛克也不能全部由宗教改革解释；拉康把复杂艺术史压缩成“图像诱惑力”，是在为本课由神爱、诸神欲望回到 *agalma* 与诱饵的论证服务。
 
 《研讨班 XX》第七课先让听众去看贝尔尼尼的雕像，借德肋撒“体验到它，却对此一无所知”的见证讨论补充享乐。这里既不是对圣女个人心理或性生活的经验诊断，也不是说神秘体验与性行为相同；雕像被拉康用来显示一种经由身体可见、却不能被主体知识完整说出的享乐位置。
