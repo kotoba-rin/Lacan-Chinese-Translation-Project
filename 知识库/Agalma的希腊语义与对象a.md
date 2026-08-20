@@ -9,7 +9,7 @@ tags:
   - 人物/拉康
   - 概念/对象a
   - 时期/古典时代
-verified_at: 2026-08-13
+verified_at: 2026-08-20
 ---
 
 古希腊语 ἄγαλμα（*agalma*）可以指使神或观看者感到荣耀、欣喜的饰物、献礼或珍贵之物，后来尤其常指神像和奉献雕像。它并不只是现代意义上中性的“雕塑”：宗教奉献、光彩与价值感都可能包含在语境中。
@@ -44,6 +44,10 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 
 与“直接灌注”相对，《斐德罗》中严肃的教育要把有生命的言辞种入合适的灵魂，经过时间生长并在其他灵魂中继续繁衍。因而，Reeve 所批评的正是把德性误当作能够绕过主体改变、从苏格拉底“内部”直接取得的充实内容。拉康的处理也不只是揭穿“里面其实什么都没有”；他更关心这项被假定的内在珍宝怎样充当欲望的原因，并在阿尔喀比亚德、苏格拉底与阿伽通之间发生转移。
 
+《研讨班 VIII》第十一课结尾关于前苏格拉底哲学家的说法需要校勘。拉康犹疑地归给德谟克利特的材料，实际对应恩培多克勒残篇 DK 31 B 128：在那个无阿瑞斯、宙斯、克洛诺斯和波塞冬的时代，“只有库普里斯为女王”，人们以虔敬的 *agalmata*、彩绘动物、香料、乳香和蜜酒祭献她，不以杀牛染污祭坛。这里的库普里斯即阿佛洛狄忒，也可在恩培多克勒语境中指向“爱／结合”的力量。
+
+这段材料同时否定了拉康的另一项现场判断：ἄγαλμα 并不是在恩培多克勒残篇中才首次出现。荷马史诗已有八处用例，涉及献给神或人并带来荣耀、欣喜和愉悦的物件。因此，恩培多克勒残篇确实把阿佛洛狄忒、祭献与 *agalmata* 放在同一场景中，但不能据此建立该词的“最早见证”。
+
 ## 来源
 
 - [Cunliffe Lexicon: ἄγαλμα](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Acunliffe_lex-n24/)（希腊文/英文；古希腊词典）
@@ -53,14 +57,18 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 - [R. G. Bury, *The Symposium of Plato*, commentary on 215a](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0090%3Atext%3Dcomm%3Asection%3D215a)（英文；西勒诺斯形物件的不同形制重构及证据边界）
 - [C. D. C. Reeve, “Agalmata, Deontology, and the Erotics of Emptiness in the Symposium”](https://www.consecutio.org/wp-content/uploads/2017/10/Download-2.pdf)（英文；把 *agalmata*、灵魂孕育、言辞种子、阿多尼斯花园与雅典少年爱教育规范串联起来；属跨对话的解释性研究）
 - [Radcliffe G. Edmonds III, “Alcibiades the Profane: Images of the Mysteries in Plato’s *Symposium*”](https://www.uni-weimar.de/kunst-und-gestaltung/wiki/images/Alcibiades_the_Profane_Images_of_the_Mysteries_in_Plato%3Fs_Sympos.pdf)（英文；以“私人占有”结构解释秘仪亵渎与 *agalma* 的平行）
+- [Empedocles, DK 31 B 128](https://empedocles.org/)（古希腊文；库普里斯为女王、以 *agalmata* 与无血祭品敬神的残篇，见条目 128）
+- [Thomas J. Nelson, “The Terminology for Beauty in the *Iliad* and the *Odyssey*”](https://www.cambridge.org/core/journals/classical-quarterly/article/terminology-for-beauty-in-the-iliad-and-the-odyssey/1D099FB61BEEC5A091E98D6B87CB475E)（英文；荷马史诗中 ἄγαλμα 的八处用例及其荣耀、愉悦、奉献语义）
 - [[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0001|《研讨班 VIII》第十课 s8-10-0001]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0002|s8-10-0002]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0015|s8-10-0015]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0019|s8-10-0019]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0045|s8-10-0045]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0046|s8-10-0046]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0047|s8-10-0047]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0049|s8-10-0049]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0067|s8-10-0067]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0068|s8-10-0068]]（法文；从装饰、内部珍宝和圣所供物，经 *ex-voto* 乳房推进到欲望对象与部分对象）
-- [[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0019|《研讨班 VIII》第十一课 s8-11-0019]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0032|s8-11-0032]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0049|s8-11-0049]]（法文；德性的 *agalmata*、苏格拉底内部的珍宝与“铜换金”）
+- [[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0019|《研讨班 VIII》第十一课 s8-11-0019]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0032|s8-11-0032]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0049|s8-11-0049]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0091|s8-11-0091]]、[[texts/s8-le-transfert/original/Leçon-11.md#s8-11-0097|s8-11-0097]]（法文；德性的 *agalmata*、苏格拉底内部的珍宝、“铜换金”、丑闻之石及误归德谟克利特的前苏格拉底材料）
 - [Seminar VIII overview: agalma and objet a](https://www.lacan.com/seminars2.htm)（英文；拉康研讨班索引；概念定位已同上述本地法文段落对照）
 - [The Lacanian Subject](https://www2.arnes.si/~jzaloh/bestbooks/Bruce-Fink_The-Lacanian-Subject.pdf)（英文；Bruce Fink 研究）
 
 ## 关联
 
 [[知识库/Ex-voto：器官供物、Agalma与部分对象.md|Ex-voto：器官供物、Agalma 与部分对象]]
+[[知识库/Daimon与Theos：神性力量、中介与诸神.md|Daimon 与 Theos：神性力量、中介与诸神]]
+[[知识库/Skandalon：绊脚石、陷阱与丑闻.md|Skandalon：绊脚石、陷阱与丑闻]]
 [[知识库/部分对象与对象a.md|部分对象与对象 a]]
 [[知识库/鲍萨尼亚与两位阿佛洛狄忒.md|鲍萨尼亚与两位阿佛洛狄忒]]
 [[知识库/阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败.md|阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败]]
@@ -68,6 +76,7 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 [[知识库/狄奥提玛的凡人不朽：生成、记忆与在美中生育.md|狄奥提玛的凡人不朽：生成、记忆与在美中生育]]
 [[知识库/色诺芬与柏拉图的两部《会饮》.md|色诺芬与柏拉图的两部《会饮》]]
 [[知识库/苏格拉底与分析家话语的回溯性比较.md|苏格拉底与分析家话语的回溯性比较]]
+[[知识库/苏格拉底式解释：爱之三角与Agalma的替代.md|苏格拉底式解释：爱之三角与 Agalma 的替代]]
 [[知识库/西勒诺斯、马西亚斯与苏格拉底的双重比喻.md|西勒诺斯、马西亚斯与苏格拉底的双重比喻]]
 
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0001|s8-10-0001]]
@@ -86,3 +95,5 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0019|s8-11-0019]]
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0032|s8-11-0032]]
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0049|s8-11-0049]]
+[[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0091|s8-11-0091]]
+[[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0097|s8-11-0097]]
