@@ -44,7 +44,7 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 
 ## 当前内容翻译进度
 
-截至 2026 年 8 月 7 日，28 部研讨班均已建立完整译文目录，共 531 课；其中 522 课已完成译文覆盖，27 部研讨班达到 100%。按项目插件采用的分段进度算法，当前已覆盖 86,489 / 88,020 个分段（98.26%）。
+截至 2026 年 8 月 24 日，28 部研讨班均已建立完整译文目录，共 531 课；531 课均已完成译文覆盖，28 部研讨班全部达到 100%。按项目插件采用的分段进度算法，当前已覆盖 88,020 / 88,020 个分段（100%）。
 
 | 研讨班 | 目录 | 已覆盖课次 | 分段进度 | 当前状态 |
 | --- | --- | ---: | ---: | --- |
@@ -59,7 +59,7 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 | IX，*L'identification* | `texts/s9-l-identification` | 26 / 26 | 100% | 译文覆盖完成，待校订 |
 | X，*L'angoisse* | `texts/s10-l-angoisse` | 25 / 25 | 100% | 译文覆盖完成，待校订 |
 | XI，*Les quatre concepts fondamentaux de la psychanalyse* | `texts/s11-les-quatre-concepts-fondamentaux-de-la-psychanalyse` | 20 / 20 | 100% | 译文覆盖完成，待校订 |
-| XII，*Problèmes cruciaux pour la psychanalyse* | `texts/s12-problemes-cruciaux-pour-la-psychanalyse` | 15 / 24 | 67.16% | 翻译进行中 |
+| XII，*Problèmes cruciaux pour la psychanalyse* | `texts/s12-problemes-cruciaux-pour-la-psychanalyse` | 24 / 24 | 100% | 译文覆盖完成，待校订 |
 | XIII，*L'objet de la psychanalyse* | `texts/s13-l-objet-de-la-psychanalyse` | 23 / 23 | 100% | 译文覆盖完成，待校订 |
 | XIV，*La logique du fantasme* | `texts/s14-la-logique-du-fantasme` | 24 / 24 | 100% | 译文覆盖完成，待校订 |
 | XV，*L'acte psychanalytique* | `texts/s15-l-acte-psychanalytique` | 18 / 18 | 100% | 译文覆盖完成，待校订 |
@@ -77,7 +77,7 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 | XXVI，*La topologie et le temps* | `texts/s26-la-topologie-et-le-temps` | 10 / 10 | 100% | 译文覆盖完成，待校订 |
 | XXVII，*Dissolution* | `texts/s27-dissolution` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
 
-这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。目前仅第十二研讨班尚未完成译文覆盖，翻译仍在进行中。
+这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。目前 28 部研讨班均已完成译文覆盖，后续仍需持续校订。
 
 ## 许可证
 
