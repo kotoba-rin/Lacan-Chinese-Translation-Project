@@ -251,7 +251,7 @@
 | Description de la Grèce | 希腊志 | 波萨尼阿斯著作。 |
 | La Psychanalyse d’aujourd’hui | 今日精神分析 | 第十课注释中简称 La P.D.A.。 |
 | Essais de psychanalyse | 精神分析论集 | 第十课提及弗洛伊德文集。 |
-| Au-delà du principe du plaisir | 超越快乐原则 | 弗洛伊德著作；第十四课第三章引文涉及回忆、再生产与重复自动症。 |
+| Au-delà du principe du plaisir | 超越快乐原则 | 弗洛伊德著作；第十四课第三章引文涉及回忆、再生产与“重复的自动性”／重复强迫。 |
 | Pulsions et destins des pulsions | 驱力及其命运 | 弗洛伊德著作；第十四课以此重返驱力理论。 |
 | Trois essais sur la théorie de la sexualité | 性学三论 | 弗洛伊德著作；第十四课用来说明口腔阶段的食人性及其性的意义。 |
 | International Journal of Psychoanalysis | 国际精神分析期刊 |  |
@@ -398,7 +398,7 @@
 | pulsion de mort / instinct de mort | 死驱力 / 死本能 | 按原文分别处理 *pulsion* 与 *instinct*。 |
 | pulsion mortifère | 死亡性驱力 | 与 *pulsion de mort* 相关；按语境可简译“死驱力”。 |
 | pulsion sadique / sadique-oral | 施虐驱力 / 口腔—施虐 | 第十四课从肛门阶段回溯口腔阶段的吞噬主题，并追问施虐驱力如何进入性的层面。 |
-| automatisme de répétition / Wiederholungszwang | 重复自动症 | 第十四课保留弗洛伊德原文中的德语词，并把它同回忆、再生产及自我防御区分。 |
+| automatisme de répétition / Wiederholungszwang | 重复的自动性 / 重复强迫 | 法语 *automatisme de répétition* 统一译“重复的自动性”，强调其运作不由主体的意识直接决定，不等于机械习惯；德语 *Wiederholungszwang* 译“重复强迫”，保留 *Zwang* 的强制性。第十四课将二者并置。 |
 | Überlegenheit | 优越性 / 优越位置 | 第十四课引《超越快乐原则》；原文只说应保留一定程度的 *Überlegenheit*，并未规定它属于医生还是病人。 |
 | répétition du besoin / besoin de répétition | 需要的重复 / 重复的需要 | 第十二课讨论拉加什关于转移的区分。 |
 | effet Zeigarnik | 蔡格尼克效应 | 第十二课以未完成任务记忆效应说明转移问题。 |

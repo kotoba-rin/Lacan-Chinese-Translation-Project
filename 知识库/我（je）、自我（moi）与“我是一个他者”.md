@@ -24,6 +24,7 @@ verified_at: 2026-08-05
 
 ## 关联
 
+[[知识库/Infans：从“不能言说”到“婴儿”.md|Infans：从“不能言说”到“婴儿”]]
 [[知识库/Verkennung与Erkennung：误认和认出.md|Verkennung 与 Erkennung：误认和认出]]
 [[知识库/自我心理学与适应概念.md|自我心理学与适应概念]]
 [[知识库/拉罗什富科的amour-propre：自爱与自我欺骗.md|拉罗什富科的 amour-propre：自爱与自我欺骗]]
