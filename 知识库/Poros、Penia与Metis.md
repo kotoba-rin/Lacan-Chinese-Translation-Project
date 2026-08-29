@@ -4,11 +4,12 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
+  - 研讨班XIV
   - 领域/宗教与神话/神话
   - 人物/柏拉图
   - 概念/爱的理论
   - 时期/古典时代
-verified_at: 2026-07-28
+verified_at: 2026-08-28
 ---
 
 《会饮》203b–e 中，狄奥提玛用一则哲学神话说明厄洛斯的出身。阿佛洛狄忒诞生之日，众神举行宴会；宴后，贫穷的佩尼亚（Penia）来到门外乞讨。机谋或资源的化身波洛斯（Poros）饮醉花蜜后睡在宙斯的花园里，佩尼亚为摆脱贫困而与他结合，怀上厄洛斯。
@@ -23,9 +24,13 @@ verified_at: 2026-07-28
 
 这段谱系主要服务于《会饮》的哲学论证。Poros、Penia 与 Metis 的关系不能当作在全部希腊宗教、诗歌和地方祭祀中都固定一致的通行神谱。
 
+《研讨班 XIV》第六课把这组寓言名字重新部署为制度性的反讽。拉康把精神分析放在 Poros（资源、出路）一边，把大学放在 Penia（贫乏、无资源）一边，随即追问自己可以让“猥亵”走到多远，并把赌注连到另一个人所称的“哲学的爱欲”。这里可以确认的是一次借词义形成的攻击性对置；它并未在本段展开为一套关于大学制度的完整理论，也不应使 Poros 在其他语境中被固定成单一中文神名。
+
 ## 来源
 
 - [Plato, Symposium](https://www.gutenberg.org/files/1600/1600-h/1600-h.htm)（英文；柏拉图原典英译，203b–e）
+- [[texts/s8-le-transfert/original/Leçon-08.md#s8-08-0094|《研讨班 VIII》第八课 s8-08-0094—s8-08-0102]]（法文；Poros、Penia 与厄洛斯谱系的词义重读）
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-06.md#s14-06-0087|《研讨班 XIV》第六课 s14-06-0087]]（法文；“精神分析的 Poros／大学的 Penia”及“哲学的爱欲”）
 
 ## 关联
 
@@ -36,3 +41,4 @@ verified_at: 2026-07-28
 [[知识库/色诺芬与柏拉图的两部《会饮》.md|色诺芬与柏拉图的两部《会饮》]]
 
 [[texts/s8-le-transfert/translation/Leçon-08.md#s8-08-0095|s8-08-0095]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-06.md#s14-06-0087|s14-06-0087]]

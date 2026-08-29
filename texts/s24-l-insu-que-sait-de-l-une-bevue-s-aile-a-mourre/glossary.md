@@ -60,3 +60,11 @@
 | famillionnaire | *famillionnaire* | *familier* 与 *millionnaire* 的缩合造词；保留法文以显示机智语的揉皱和操作效果。 |
 | pouate / pouate assez | “噗哇特”／还不够噗哇特 | *poète*“诗人”的变音，并同 *pas poète assez*“不够诗人”叠合；第十二课借此改写亲缘关系。 |
 | automatisme mental / écho de la pensée | 精神自动症／思想回声 | 第十二课克莱朗博语境；拉康把它从纯粹病理标签重新放回多语言与自言自语的滑动中。 |
+
+## 地形学、地形与拓扑学
+
+| 外文 | 统一中文译名 | 备注 |
+| --- | --- | --- |
+| topique / première topique / seconde topique | 地形学／第一地形学／第二地形学 | 弗洛伊德元心理学的“精神地点”模型：第一地形学区分意识、前意识与无意识，第二地形学区分本我、自我与超我；所说地点不是脑部解剖位置。法语 *topique* 对应德语 *Topik*，英语文献通常把两套模型称作 *first / second topography*，不得同 *topologie*“拓扑学”混译。 |
+| topologie / topologique | 拓扑学／拓扑学的 | 指连续变形下保持的邻接、边界、连通与切割等结构关系；拉康借莫比乌斯带、环面、克莱因瓶、交叉帽及结来处理主体结构。它不同于弗洛伊德 *topique* 的第一／第二地形学，也不只是精神装置的区域示意图。 |
+| topographie | 地形／位置分布、位置描绘 | 普通法语可指具体空间、身体、政治版图或对象位置的描绘；须按上下文译，不因词形相近便自动并入 *topique*“地形学”或 *topologie*“拓扑学”。 |

@@ -27,9 +27,8 @@
 | plaisir / bien | 快乐 / 善 | 第一课回顾从苏格拉底到功利主义的论证；*bien* 作名词时译“善”，具体个人利益按语境处理。 |
 | libido / instinct sexuel | 力比多 / 性本能 | 第一课把二者并置为弗洛伊德真理闯入时的名称；不因此预设二者在后续论证中完全同义。 |
 | processus primaire | 初级过程 | 与弗洛伊德元心理学中的次级过程相对。 |
-| métapsychologie / métapsychologique | 元心理学 / 元心理学的 | 弗洛伊德从动力、经济与局部论等角度阐发心理过程的理论层次。 |
-| topique / topique métapsychologique | 局部论 / 元心理学局部论 | 指心理机构在心理装置中的位置关系；不得同后期数学意义的拓扑学混同。 |
-| le Moi / le Surmoi / le Ça | 自我 / 超我 / 本我 | 第一课列举弗洛伊德1920年后引入的新局部论概念；*Ça* 不译成普通代词“它”。 |
+| métapsychologie / métapsychologique | 元心理学 / 元心理学的 | 弗洛伊德从动力、经济与地形学等角度阐发心理过程的理论层次。 |
+| le Moi / le Surmoi / le Ça | 自我 / 超我 / 本我 | 第一课列举弗洛伊德1920年后引入的新地形学概念；*Ça* 不译成普通代词“它”。 |
 | ego autonome / autonomous ego / autonomus ego | 自主自我 | 哈特曼自我心理学的概念；第一课以 *autonomus ego* 的讽刺性写法批判其被当作现成给予。 |
 | moi fort / moi faible | 强自我 / 弱自我 | 第一课把这组概念视为回避神经症理解与技术运用问题的方式，不作为未经检验的治疗指标。 |
 | entification | 实体化 | 把自我或某种属性当作独立实体；不同于仅仅“命名”。 |
@@ -94,7 +93,7 @@
 | investissement / désinvestissement | 投注 / 撤回投注 | 能量学表述中，心理系统获得或失去心理能量的过程。 |
 | Verneinung | 否认 | 弗洛伊德术语；第五课反对把无意识理解为只需将自我陈述“变换符号”即可读出的反面。 |
 | analyse du matériel / analyse des résistances | 材料分析 / 阻抗分析 | 第五课追问二者是否真能互为反面或等价物；后者不得译成一般性的“抵抗分析”。 |
-| égologie | 自我学 | 指新局部论之后以自我组织及阻抗为技术中心的取向；第五课以批判口吻使用。 |
+| égologie | 自我学 | 指新地形学之后以自我组织及阻抗为技术中心的取向；第五课以批判口吻使用。 |
 | Rid Principle | 摆脱原则 | 第五课援引《精神分析季刊》中的英文标题，以 *to rid / to rid of* 说明把自我功能理解为避开、清除未整合刺激的倾向。 |
 | principe du plaisir / principe de réalité | 快乐原则 / 现实原则 | 第五课把现实原则界定为延迟的快乐原则，同时追问重复现象为何不能由同一平衡定律穷尽。 |
 | réalité psychique | 心理现实 | 与无生命现实中力量和能量的自由流通相对，指生物通过内部组织和调节维持的现实。 |
@@ -182,11 +181,11 @@
 | surmoi | 超我 | 第十一课把它定位为主体同法则整体之不可能关系在症状中的恐怖化体现，而不是同类间的自恋关系。 |
 | lieu psychique | 心理场所 | 费希纳与《梦的解析》的表述；不是解剖位置，而是梦受另一套结构法则支配的象征交换场所。 |
 | succession temporelle / direction | 时间序列 / 方向 | 心理装置中的兴奋被设定为按确定方向不可逆地通过，为随后的退行悖论提供前提。 |
-| régression topique / temporelle / formelle | 局部论退行 / 时间退行 / 形式退行 | 第十一课区分退行的三种说法，并指出局部论退行与神经兴奋单向传播的假设直接冲突。 |
+| régression topique / temporelle / formelle | 地形学退行 / 时间退行 / 形式退行 | 第十一课区分退行的三种说法，并指出地形学退行与神经兴奋单向传播的假设直接冲突。 |
 | décentrement / clivage du sujet | 主体离心 / 主体分裂 | 第十二课以“欲望实现对谁产生快乐”追问梦中说话者，并拒绝把患者或分析家当作单义的个体总和。 |
 | perte de l'objet / reconstruction de l'objet | 对象丧失 / 对象重构 | 人的对象并非沿预成轨道重新认出的既有对象，而是经由最初丧失、每次作为新对象得到重构。 |
 | coalescence | 合并 | 一切症状形成至少汇合两组动机：一组为性因素，另一组是主体所承担的言说或象征功能。 |
-| topique temporelle | 时间局部论 | 心理装置虽然画成空间图式，真正表述的却是兴奋依次通过各系统的时间秩序。 |
+| topique temporelle | 时间地形学 | 心理装置虽然画成空间图式，真正表述的却是兴奋依次通过各系统的时间秩序。 |
 | instance critiquante / instance critiquée | 批判审级 / 受批判审级 | 前者阻止梦动机通向意识，后者承受批判；二者被放入图式后形成前意识与意识的定位问题。 |
 | bloc-notes magique / ardoise magique | 神奇写字板 | 知觉表层每次书写后恢复空白，下面的记忆层却保留痕迹；用来区分无记忆的知觉与积累痕迹的记忆系统。 |
 | sens régrédient / sens progrédient | 退行方向 / 前行方向 | 前者指梦中数量流向知觉端，后者指清醒时兴奋朝运动放电端通过；不自动等同于发生论上的倒退。 |
@@ -293,3 +292,11 @@
 | Überlegenheit / Spiegelung | 优越性 / 映照 | 弗洛伊德关于转移神经症的原句：分析情境中的现实须凭一定的 *Überlegenheit* 被反复认作被遗忘过去的 *Spiegelung*；拉康提示前一词可能含文字游戏，后一词同镜像功能相联。 |
 | l'instinct de mort comme masque de l'ordre symbolique | 死本能作为象征秩序的面具 | 第二十五课的收束公式：尚未在主体承认中实现的象征秩序是沉默的，却以坚持要求存在的方式在无意识中运作；这里保留底本的 *instinct*“本能”。 |
 | La Pythie / Charmes | 《皮提亚》/《魅力集》 | 保罗·瓦莱里诗作及其所属诗集；第五、七、十四课引用同一末节，统一篇名与书名。 |
+
+## 地形学、地形与拓扑学
+
+| 外文 | 统一中文译名 | 备注 |
+| --- | --- | --- |
+| topique / première topique / seconde topique | 地形学／第一地形学／第二地形学 | 弗洛伊德元心理学的“精神地点”模型：第一地形学区分意识、前意识与无意识，第二地形学区分本我、自我与超我；所说地点不是脑部解剖位置。法语 *topique* 对应德语 *Topik*，英语文献通常把两套模型称作 *first / second topography*，不得同 *topologie*“拓扑学”混译。 |
+| topologie / topologique | 拓扑学／拓扑学的 | 指连续变形下保持的邻接、边界、连通与切割等结构关系；拉康借莫比乌斯带、环面、克莱因瓶、交叉帽及结来处理主体结构。它不同于弗洛伊德 *topique* 的第一／第二地形学，也不只是精神装置的区域示意图。 |
+| topographie | 地形／位置分布、位置描绘 | 普通法语可指具体空间、身体、政治版图或对象位置的描绘；须按上下文译，不因词形相近便自动并入 *topique*“地形学”或 *topologie*“拓扑学”。 |

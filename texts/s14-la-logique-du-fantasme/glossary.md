@@ -245,3 +245,11 @@
 | Florrie / Florie / passage à l’acte / acting-out | 弗洛丽／付诸行动／行动化 | 埃利斯英文原书作 *Florrie*，拉康与底本作 *Florie*。弗洛丽跨过鞭打幻想的禁令，对她自身是付诸行动，对阅读病例者则成为向埃利斯展示其卷入位置的行动化；这不等于她取得了性倒错享乐。 |
 | cabinet de toilette / antichambre / boudoir / parloir / chiottes / cabinet de l’analyste | 盥洗室／前厅／闺房／会客室／茅坑／分析家诊室 | 终课用一串房间名称闭合开头的“场所条件”；两个 *cabinet* 分别是盥洗室与分析家诊室，*chiottes* 则有意降入粗俗语体。不同空间不是临床分类表，而是为性行动与神经症安排位置的口语构造。 |
 | Verwerfung de l’acte sexuel / acte psychanalytique | 性行动的拒斥／精神分析行动 | 终课把分析家诊室比作一间什么也不发生的卧室，性行动在那里以 *Verwerfung* 形式呈现；该门槛引向下一年度的“精神分析行动”，不是说分析工作与性无关。 |
+
+## 地形学、地形与拓扑学
+
+| 外文 | 统一中文译名 | 备注 |
+| --- | --- | --- |
+| topique / première topique / seconde topique | 地形学／第一地形学／第二地形学 | 弗洛伊德元心理学的“精神地点”模型：第一地形学区分意识、前意识与无意识，第二地形学区分本我、自我与超我；所说地点不是脑部解剖位置。法语 *topique* 对应德语 *Topik*，英语文献通常把两套模型称作 *first / second topography*，不得同 *topologie*“拓扑学”混译。 |
+| topologie / topologique | 拓扑学／拓扑学的 | 指连续变形下保持的邻接、边界、连通与切割等结构关系；拉康借莫比乌斯带、环面、克莱因瓶、交叉帽及结来处理主体结构。它不同于弗洛伊德 *topique* 的第一／第二地形学，也不只是精神装置的区域示意图。 |
+| topographie | 地形／位置分布、位置描绘 | 普通法语可指具体空间、身体、政治版图或对象位置的描绘；须按上下文译，不因词形相近便自动并入 *topique*“地形学”或 *topologie*“拓扑学”。 |

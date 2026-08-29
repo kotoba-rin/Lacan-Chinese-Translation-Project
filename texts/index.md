@@ -79,6 +79,13 @@ GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 
 这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。目前 28 部研讨班均已完成译文覆盖，后续仍需持续校订。
 
+## 阅读笔记
+
+项目目前收录 18 篇阅读笔记，集中整理于《研讨班 VIII：转移》的[阅读资料与笔记目录](s8-le-transfert/notes/README.md)。本次更新包括：
+
+- [转移：面向现实听者的创造性再生产](s8-le-transfert/notes/s8-12-0001.md)
+- [墙的同一侧：反转移、分析师的欲望与回声](s8-le-transfert/notes/s8-13-0001.md)
+
 ## 许可证
 
 [License: CC-BY 4.0](./LICENSE)

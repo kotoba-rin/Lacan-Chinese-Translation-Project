@@ -27,8 +27,6 @@
 | réel / le Réel | 实在／实在界 | 作为三界之一时译“实在界”；本卷尤其把“无法书写的不可能”同实在相连。 |
 | symbolique / le Symbolique | 象征的／象征界 | 依形容词或名词用法处理。 |
 | imaginaire / l’Imaginaire | 想象的／想象界 | 依形容词或名词用法处理。 |
-| topique / seconde topique | 地形学／第二地形学 | 弗洛伊德心理装置模型；第二地形学指本我、自我、超我，不与 *topologie* 混译。 |
-| topologie | 拓扑学 | 指孔洞、边缘、内外关系等拓扑结构；与弗洛伊德的 *topique* 区分。 |
 
 ## 能指、话语、知识与真理
 
@@ -149,3 +147,11 @@
 | scapegoat | *scapegoat*［替罪羊］ | 第二十二课用来反讽分析家及其国际组织的自我保护。 |
 | perinde ac cadaver | *perinde ac cadaver*［如同一具尸体］ | 指极端服从、被动顺从与彻底奴役。 |
 | La Chose freudienne | 弗洛伊德之物 | 拉康文章名及真理的拟人化表达；同普通“弗洛伊德的事情”区分。 |
+
+## 地形学、地形与拓扑学
+
+| 外文 | 统一中文译名 | 备注 |
+| --- | --- | --- |
+| topique / première topique / seconde topique | 地形学／第一地形学／第二地形学 | 弗洛伊德元心理学的“精神地点”模型：第一地形学区分意识、前意识与无意识，第二地形学区分本我、自我与超我；所说地点不是脑部解剖位置。法语 *topique* 对应德语 *Topik*，英语文献通常把两套模型称作 *first / second topography*，不得同 *topologie*“拓扑学”混译。 |
+| topologie / topologique | 拓扑学／拓扑学的 | 指连续变形下保持的邻接、边界、连通与切割等结构关系；拉康借莫比乌斯带、环面、克莱因瓶、交叉帽及结来处理主体结构。它不同于弗洛伊德 *topique* 的第一／第二地形学，也不只是精神装置的区域示意图。 |
+| topographie | 地形／位置分布、位置描绘 | 普通法语可指具体空间、身体、政治版图或对象位置的描绘；须按上下文译，不因词形相近便自动并入 *topique*“地形学”或 *topologie*“拓扑学”。 |

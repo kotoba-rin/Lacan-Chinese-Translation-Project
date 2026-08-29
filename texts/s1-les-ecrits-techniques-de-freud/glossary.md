@@ -320,7 +320,7 @@
 | stimulus déclencheur / Gestalt / leurre | 触发刺激 / 格式塔 / 诱饵 | 刺鱼的互补性行为由同种伴侣图像的格式塔触发；假图像或仅带主要特征的影子也能启动同样行为，显示性行为的移置可能与想象性质。 |
 | œil mythique / reflet de l'œil mythique | 神话之眼 / 神话之眼的反射 | 光学图式中，前者是虚构的观看位置，后者标示自我理想；它使处在实像近旁的主体能在镜中以虚像状态看到实像。不得把它当作生理解剖之眼。 |
 | inclinaison du miroir / voix de l'autre / relation symbolique | 镜子的倾斜 / 他者的声音 / 象征关系 | 镜面倾角决定想象图像的清晰与完整程度；在人那里，这种调节由他者之声、法则和符号交换所体现的象征关系控制。 |
-| régression topique / régression génétique, archaïque, dans l'histoire | 局部论意义上的退行 / 发生学退行、古老性退行、历史中的退行 | 弗洛伊德始终区分的两类退行；前者关乎心理装置中的位置与运作方向，后者关乎发展阶段和历史。不得因都译“退行”而合并。 |
+| régression topique / régression génétique, archaïque, dans l'histoire | 地形学意义上的退行 / 发生学退行、古老性退行、历史中的退行 | 弗洛伊德始终区分的两类退行；前者关乎心理装置中的位置与运作方向，后者关乎发展阶段和历史。不得因都译“退行”而合并。 |
 | hominisation du monde / images du corps humain | 世界的人化 / 人体图像 | 现实对象同想象对象在镜面结构中重合，世界由同身体结构化相连的图像得到组织；不等于把所有外部事物主观化。 |
 | amour génital / terminaison de l'analyse | 生殖器之爱 / 分析的终结 | 第十二课质疑把所谓成熟的生殖器之爱当作分析的自然终点；它也可能是只能在部分个案中实现的一系列文化性渐近。 |
 | subduction du symbolique / Verliebtheit | 象征界的沉陷 / 爱恋激情 | 爱发生在想象界层面，会扰动自我理想的象征调节；当作为说话者的自我理想降到理想自我的对象层面，自恋性捕获便使人陷入爱恋。 |
@@ -533,8 +533,7 @@
 | ré-écrire l'histoire | 重新书写历史 | 与单纯回忆、原样恢复过去区分；保留 *ré-écrire* 的再次书写含义。 |
 | souvenir-écran | 屏幕记忆 | 记忆的显在内容既遮蔽也代表其他材料；经过阐发可以成为所寻找之物的等价表达。 |
 | instance / théorie des instances | 心理机构 / 心理机构理论 | 指自我、本我、超我等在心理装置中发挥作用的机构；不译作一般“层次”。 |
-| métapsychologie / métapsychologique | 元心理学 / 元心理学的 | 弗洛伊德从动力、经济与局部论等角度阐发心理过程的理论层次。 |
-| topique / topologique（元心理学语境） | 局部论 / 局部论的 | 指心理机构在心理装置中的位置关系；第八课题名 *La topique de l'imaginaire* 译“想象界的局部论”。不得与拉康后期数学意义上的 *topologie / topologique*“拓扑学／拓扑学的”混同。 |
+| métapsychologie / métapsychologique | 元心理学 / 元心理学的 | 弗洛伊德从动力、经济与地形学等角度阐发心理过程的理论层次。 |
 | analyse du moi | 对自我的分析 | 指把自我作为分析对象，不译成容易被误解为分析者自我分析的“自我分析”。 |
 | clivage du Moi / Ichspaltung | 自我裂分 | 指自我内部并存而不相调和的态度或立场；首次出现德文时可保留 *Ichspaltung*。 |
 | neuro-psychoses de défense | 防御性神经精神病 | 弗洛伊德早期分类用语；不要因现代诊断分类而擅自拆分或改名。 |
@@ -653,3 +652,11 @@
 | Wilhelm Stekel / STEKEL | 威廉·施特克尔 / 施特克尔 | 以 *Bipolarität*“两极性”命名相关现象，并撰有《转移的不同形式》。 |
 | Sándor Ferenczi / FERENCZI | 桑多尔·费伦齐 / 费伦齐 | 第五课所引弗洛伊德据其1909年工作界定暗示与转移现象的关系。 |
 | Gabriele Reuter | 加布里埃莱·罗伊特 | 《良家出身》作者；弗洛伊德借其小说说明强烈转移并非精神分析制造。 |
+
+## 地形学、地形与拓扑学
+
+| 外文 | 统一中文译名 | 备注 |
+| --- | --- | --- |
+| topique / première topique / seconde topique | 地形学／第一地形学／第二地形学 | 弗洛伊德元心理学的“精神地点”模型：第一地形学区分意识、前意识与无意识，第二地形学区分本我、自我与超我；所说地点不是脑部解剖位置。法语 *topique* 对应德语 *Topik*，英语文献通常把两套模型称作 *first / second topography*，不得同 *topologie*“拓扑学”混译。 |
+| topologie / topologique | 拓扑学／拓扑学的 | 指连续变形下保持的邻接、边界、连通与切割等结构关系；拉康借莫比乌斯带、环面、克莱因瓶、交叉帽及结来处理主体结构。它不同于弗洛伊德 *topique* 的第一／第二地形学，也不只是精神装置的区域示意图；本期个别 *registre topologique* 仍沿弗洛伊德元心理学的地点语汇，依上下文译作“地形学层面”。 |
+| topographie | 地形／位置分布、位置描绘 | 普通法语可指具体空间、身体、政治版图或对象位置的描绘；须按上下文译，不因词形相近便自动并入 *topique*“地形学”或 *topologie*“拓扑学”。 |
