@@ -51,32 +51,15 @@
     });
   }
 
-  function dispatchSearchEvent(searchbar) {
-    ["input", "keyup"].forEach(function (eventName) {
-      searchbar.dispatchEvent(new Event(eventName, { bubbles: true }));
-    });
-  }
-
-  function openBookSearch(query, focusSearchbar) {
-    var searchbar = document.getElementById("mdbook-searchbar");
-    if (!searchbar) {
-      return false;
+  function openNavigationSearch(query) {
+    if (
+      window.LacanNavigationSearch &&
+      typeof window.LacanNavigationSearch.open === "function"
+    ) {
+      window.LacanNavigationSearch.open(query);
+      return true;
     }
-
-    var toggle = document.getElementById("mdbook-search-toggle");
-    var searchOuter = document.getElementById("mdbook-searchbar-outer");
-    if (searchOuter && searchOuter.classList.contains("hidden") && toggle) {
-      toggle.click();
-    }
-
-    searchbar.value = query;
-    dispatchSearchEvent(searchbar);
-
-    if (focusSearchbar) {
-      searchbar.focus();
-    }
-
-    return true;
+    return false;
   }
 
   function createSearchForm() {
@@ -87,8 +70,8 @@
     var input = document.createElement("input");
     input.className = "lacan-tool-search-input";
     input.type = "search";
-    input.placeholder = "搜索全文";
-    input.setAttribute("aria-label", "搜索全文");
+    input.placeholder = "搜索标题、知识卡或段落 ID";
+    input.setAttribute("aria-label", "搜索标题、知识卡或段落 ID");
 
     var button = document.createElement("button");
     button.className = "lacan-tool-button";
@@ -375,12 +358,12 @@
     var searchInput = searchForm.querySelector(".lacan-tool-search-input");
     if (searchInput) {
       searchInput.addEventListener("input", function () {
-        openBookSearch(searchInput.value, false);
+        openNavigationSearch(searchInput.value);
       });
 
       searchForm.addEventListener("submit", function (event) {
         event.preventDefault();
-        openBookSearch(searchInput.value, true);
+        openNavigationSearch(searchInput.value);
       });
     }
 

@@ -31,6 +31,7 @@ and knowledge cards are linked back to translation paragraphs by segment ID.
 from __future__ import annotations
 
 import argparse
+import json
 import posixpath
 import re
 import shutil
@@ -74,6 +75,9 @@ OBSIDIAN_IMAGE_SIZE_RE = re.compile(r"^(\d+)(?:x(\d+))?$", re.IGNORECASE)
 INLINE_CODE_SPAN_RE = re.compile(r"(`+)(.*?)(\1)")
 SEGMENT_ID_TOKEN_RE = re.compile(r"\bs\d+[a-z]?-\d+-\d+\b", re.IGNORECASE)
 SEGMENT_ID_LINK_RE = re.compile(r"^s\d+[a-z]?-(\d+)-\d+$", re.IGNORECASE)
+SUMMARY_LINK_RE = re.compile(
+    r"^(?P<indent>\s*)-\s+\[(?P<title>.*)\]\((?P<href>[^)]+)\)\s*$"
+)
 FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*(?:\n|\Z)", re.DOTALL)
 FRONTMATTER_TITLE_RE = re.compile(r"^\s*title\s*:\s*(.+?)\s*$", re.MULTILINE)
 LEVEL_ONE_HEADING_RE = re.compile(r"^#\s+\S", re.MULTILINE)
@@ -125,6 +129,12 @@ class KnowledgeCard:
     output_relative_path: Path
     title: str
     segment_ids: list[str]
+    verification: str = ""
+    verified_at: str = ""
+    tags: tuple[str, ...] = ()
+    body: str = ""
+    card_links: tuple[dict[str, str], ...] = ()
+    segment_links: tuple[dict[str, str], ...] = ()
 
 
 @dataclass
@@ -915,16 +925,82 @@ def knowledge_segment_ids(body: str) -> list[str]:
     return segment_ids
 
 
+def frontmatter_list(raw_frontmatter: str, key: str) -> list[str]:
+    lines = raw_frontmatter.splitlines()
+    values: list[str] = []
+    in_list = False
+    for line in lines:
+        if re.match(rf"^\s*{re.escape(key)}\s*:\s*$", line):
+            in_list = True
+            continue
+        if not in_list:
+            continue
+        item = re.match(r"^\s+-\s+(.+?)\s*$", line)
+        if item:
+            values.append(item.group(1).strip().strip("\"'"))
+            continue
+        if line.strip():
+            break
+    return values
+
+
+def html_output_path(markdown_path: Path) -> str:
+    return markdown_path.with_suffix(".html").as_posix()
+
+
+def knowledge_links(body: str, source_path: Path) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
+    association = markdown_section(body, "关联")
+    card_links: list[dict[str, str]] = []
+    segment_links: list[dict[str, str]] = []
+
+    for match in OBSIDIAN_WIKI_LINK_RE.finditer(association):
+        target, label = split_obsidian_wiki_link(match.group(1))
+        target_path, fragment = split_link_fragment(target.strip().replace("\\", "/"))
+        output_path = resolve_wiki_target_output_path(target_path, source_path)
+        if output_path is None:
+            continue
+
+        if output_path.parts and output_path.parts[0] == KNOWLEDGE_DIR_NAME:
+            canonical_path = output_path.as_posix()
+            card_links.append(
+                {
+                    "path": canonical_path,
+                    "title": label or output_path.stem,
+                    "href": html_output_path(output_path),
+                }
+            )
+            continue
+
+        if fragment and SEGMENT_ID_TOKEN_RE.fullmatch(fragment.lower()):
+            canonical_path = target_path.strip("/")
+            segment_links.append(
+                {
+                    "id": fragment.lower(),
+                    "path": canonical_path,
+                    "href": f"{html_output_path(output_path)}#{fragment.lower()}",
+                }
+            )
+
+    return card_links, segment_links
+
+
 def parse_knowledge_card(card_path: Path) -> KnowledgeCard:
     raw_text = read_text(card_path)
-    _, raw_frontmatter, body = split_frontmatter(raw_text)
+    metadata, raw_frontmatter, body = split_frontmatter(raw_text)
     title = frontmatter_title(raw_frontmatter) or card_path.stem
+    card_links, segment_links = knowledge_links(body, card_path)
     return KnowledgeCard(
         source_path=card_path,
         output_relative_path=Path(KNOWLEDGE_DIR_NAME)
         / card_path.relative_to(KNOWLEDGE_DIR),
         title=title,
         segment_ids=knowledge_segment_ids(body),
+        verification=metadata.get("verification", ""),
+        verified_at=metadata.get("verified_at", ""),
+        tags=tuple(frontmatter_list(raw_frontmatter, "tags")),
+        body=body.strip(),
+        card_links=tuple(card_links),
+        segment_links=tuple(segment_links),
     )
 
 
@@ -1027,6 +1103,171 @@ def build_knowledge_base(cards: list[KnowledgeCard] | None = None) -> None:
             BUILD_DIR / card.output_relative_path,
             render_knowledge_page(card.source_path, card.title),
         )
+
+
+def build_ai_knowledge_index(cards: list[KnowledgeCard] | None = None) -> Path:
+    cards = cards if cards is not None else parse_knowledge_cards()
+    output_path = BUILD_DIR / "ai" / "knowledge-index.json"
+    payload = {
+        "version": 1,
+        "card_count": len(cards),
+        "cards": [
+            {
+                "path": card.output_relative_path.as_posix(),
+                "title": card.title,
+                "verification": card.verification,
+                "verified_at": card.verified_at,
+                "tags": list(card.tags),
+                "href": html_output_path(card.output_relative_path),
+                "body": card.body,
+                "card_links": list(card.card_links),
+                "segment_links": list(card.segment_links),
+            }
+            for card in cards
+        ],
+    }
+    write_text(
+        output_path,
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n",
+    )
+    return output_path
+
+
+def navigation_html_href(markdown_href: str) -> str:
+    """Convert an mdBook SUMMARY href to its generated HTML destination."""
+    path, separator, fragment = markdown_href.partition("#")
+    if path == "README.md":
+        path = "index.html"
+    elif path.endswith("/README.md"):
+        path = f"{path[:-len('README.md')]}index.html"
+    elif path.endswith(".md"):
+        path = f"{path[:-len('.md')]}.html"
+    return f"{path}{separator}{fragment}" if separator else path
+
+
+def navigation_entry_kind(markdown_href: str) -> str:
+    path = markdown_href.split("#", 1)[0]
+    if path == "index.md":
+        return "home"
+    if path == "glossary.md":
+        return "glossary"
+    if path == f"{KNOWLEDGE_DIR_NAME}/README.md":
+        return "knowledge-index"
+    if path.startswith(f"{KNOWLEDGE_DIR_NAME}/"):
+        return "knowledge"
+    if path.endswith(f"/{NOTES_DIR_NAME}/README.md"):
+        return "notes-index"
+    if f"/{NOTES_DIR_NAME}/" in path:
+        return "note"
+    if re.search(r"/(?:Leçon|Lecon|lesson)-\d+\.md$", path, re.IGNORECASE):
+        return "lesson"
+    if path.endswith("/glossary.md"):
+        return "glossary"
+    if path.endswith("/README.md"):
+        return "seminar"
+    return "page"
+
+
+def navigation_entry_aliases(
+    title: str,
+    markdown_href: str,
+    kind: str,
+    card: KnowledgeCard | None,
+) -> list[str]:
+    aliases: list[str] = []
+
+    def add(value: str) -> None:
+        clean = value.strip()
+        if clean and clean != title and clean not in aliases:
+            aliases.append(clean)
+
+    if card is not None:
+        add(card.title)
+        add(card.output_relative_path.stem)
+
+    path = markdown_href.split("#", 1)[0]
+    first_part = path.split("/", 1)[0]
+    seminar_match = re.match(r"^(s\d+[a-z]?)(?:-|$)", first_part, re.IGNORECASE)
+    if seminar_match:
+        code = seminar_match.group(1).lower()
+        if kind == "seminar":
+            add(code)
+            add(first_part)
+        elif kind == "lesson":
+            lesson_match = re.search(
+                r"/(?:Leçon|Lecon|lesson)-(\d+)\.md$",
+                path,
+                re.IGNORECASE,
+            )
+            if lesson_match:
+                lesson_number_value = int(lesson_match.group(1))
+                add(f"{code}-{lesson_number_value:02d}")
+                add(f"{code.upper()} 第 {lesson_number_value} 课")
+
+    return aliases
+
+
+def build_navigation_index(cards: list[KnowledgeCard] | None = None) -> Path:
+    """Build a compact title/path index; page bodies and segment IDs stay out."""
+    cards = cards if cards is not None else parse_knowledge_cards()
+    summary_path = BUILD_DIR / "SUMMARY.md"
+    if not summary_path.exists():
+        raise FileNotFoundError(f"Missing mdBook summary: {summary_path}")
+
+    cards_by_href = {
+        encode_link_href(card.output_relative_path.as_posix()): card
+        for card in cards
+    }
+    parent_titles: dict[int, str] = {}
+    entries: list[dict[str, object]] = []
+    seminars: dict[str, str] = {}
+
+    for line in read_text(summary_path).splitlines():
+        match = SUMMARY_LINK_RE.match(line)
+        if not match:
+            continue
+
+        indent = len(match.group("indent").expandtabs(2))
+        depth = indent // 2
+        title = match.group("title").strip()
+        markdown_href = match.group("href").strip()
+        kind = navigation_entry_kind(markdown_href)
+        card = cards_by_href.get(markdown_href.split("#", 1)[0])
+        aliases = navigation_entry_aliases(title, markdown_href, kind, card)
+        context = parent_titles.get(depth - 1, "") if depth else ""
+
+        entry: dict[str, object] = {
+            "title": title,
+            "href": navigation_html_href(markdown_href),
+            "kind": kind,
+            "context": context,
+            "aliases": aliases,
+            "tags": list(card.tags) if card is not None else [],
+        }
+        entries.append(entry)
+
+        parent_titles[depth] = title
+        for stale_depth in [key for key in parent_titles if key > depth]:
+            del parent_titles[stale_depth]
+
+        if kind == "seminar":
+            slug = markdown_href.split("/", 1)[0]
+            seminar_match = re.match(r"^(s\d+[a-z]?)(?:-|$)", slug, re.IGNORECASE)
+            if seminar_match:
+                seminars[seminar_match.group(1).lower()] = slug
+
+    output_path = BUILD_DIR / "navigation-index.json"
+    payload = {
+        "version": 1,
+        "entry_count": len(entries),
+        "seminars": seminars,
+        "entries": entries,
+    }
+    write_text(
+        output_path,
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n",
+    )
+    return output_path
 
 
 def rewrite_notes_readme_lesson_links(text: str) -> str:
@@ -1261,7 +1502,7 @@ def render_controls() -> list[str]:
         '    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 建言</label>',
         "  </div>",
         '  <form class="lacan-tool-search" role="search">',
-        '    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">',
+        '    <input class="lacan-tool-search-input" type="search" placeholder="搜索标题、知识卡或段落 ID" aria-label="搜索标题、知识卡或段落 ID">',
         '    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>',
         "  </form>",
         '  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>',
@@ -1723,12 +1964,14 @@ def main() -> None:
     knowledge_cards = parse_knowledge_cards()
     knowledge_by_segment = knowledge_cards_by_segment(knowledge_cards)
     build_knowledge_base(knowledge_cards)
+    build_ai_knowledge_index(knowledge_cards)
     stats = combine_stats(
         build_seminar(slug, knowledge_by_segment)
         for slug in seminars
     )
     if not args.skip_summary:
         write_summary()
+    build_navigation_index(knowledge_cards)
 
     seminar_list = ", ".join(sorted(stats.seminars))
     print(f"Built seminars: {seminar_list}")

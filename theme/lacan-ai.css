@@ -1,0 +1,756 @@
+.lacan-ai-launcher {
+  position: fixed;
+  right: 1.2rem;
+  bottom: 1.2rem;
+  z-index: 120;
+  width: 3.25rem;
+  height: 3.25rem;
+  border: 0;
+  border-radius: 999px;
+  background: #7b2d36;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  box-shadow: 0 10px 28px rgb(33 23 20 / 24%);
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+  transition: transform 140ms ease, box-shadow 140ms ease;
+}
+
+.lacan-ai-launcher:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 32px rgb(33 23 20 / 30%);
+}
+
+.lacan-ai-launcher[data-dragging="true"] {
+  cursor: grabbing;
+  transform: scale(0.96);
+}
+
+.lacan-ai-launcher:focus-visible {
+  outline: 3px solid rgb(123 45 54 / 28%);
+  outline-offset: 3px;
+}
+
+.lacan-ai-panel {
+  position: fixed;
+  inset: 0 0 0 auto;
+  z-index: 119;
+  box-sizing: border-box;
+  container-name: lacan-ai-panel;
+  container-type: inline-size;
+  width: min(var(--lacan-ai-panel-width, 440px), 100vw);
+  height: 100vh;
+  overflow: hidden;
+  background: var(--bg, #fffdf8);
+  color: var(--fg, #2f2925);
+  border-left: 1px solid rgb(123 45 54 / 20%);
+  box-shadow: -12px 0 36px rgb(33 23 20 / 18%);
+}
+
+.lacan-ai-resizer {
+  position: absolute;
+  inset: 0 auto 0 0;
+  z-index: 3;
+  width: 0.75rem;
+  cursor: col-resize;
+  touch-action: none;
+}
+
+.lacan-ai-resizer::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0.12rem;
+  width: 0.35rem;
+  height: 2.25rem;
+  border-radius: 999px;
+  background: radial-gradient(circle, currentColor 1.2px, transparent 1.4px) center / 4px 5px repeat-y;
+  color: rgb(123 45 54 / 58%);
+  opacity: 0.65;
+  transform: translateY(-50%);
+  transition: color 140ms ease, opacity 140ms ease;
+}
+
+.lacan-ai-resizer:hover::before,
+.lacan-ai-resizer:focus-visible::before,
+.lacan-ai-panel[data-resizing="true"] .lacan-ai-resizer::before {
+  color: #7b2d36;
+  opacity: 1;
+}
+
+.lacan-ai-resizer:focus-visible {
+  outline: 2px solid rgb(123 45 54 / 58%);
+  outline-offset: -2px;
+}
+
+.lacan-ai-is-resizing,
+.lacan-ai-is-resizing * {
+  cursor: col-resize !important;
+  user-select: none !important;
+}
+
+.sidebar-resizing .lacan-ai-resizer {
+  pointer-events: none;
+}
+
+.lacan-ai-is-resizing #mdbook-sidebar-resize-handle {
+  pointer-events: none;
+}
+
+@media (min-width: 900px) {
+  html.lacan-ai-panel-open .page-wrapper {
+    margin-inline-end: var(--lacan-ai-docked-width, 440px);
+  }
+
+  html.js:not(.sidebar-resizing):not(.lacan-ai-is-resizing) .page-wrapper {
+    transition:
+      margin-inline-start 300ms ease,
+      margin-inline-end 220ms ease,
+      transform 300ms ease;
+  }
+}
+
+.lacan-ai-panel[hidden],
+.lacan-ai-settings-overlay[hidden],
+.lacan-ai-knowledge-workspace[hidden],
+.lacan-ai-selection-summary[hidden] {
+  display: none !important;
+}
+
+.lacan-ai-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid rgb(123 45 54 / 18%);
+}
+
+.lacan-ai-header h2,
+.lacan-ai-body h3,
+.lacan-ai-settings h2 {
+  margin: 0;
+}
+
+.lacan-ai-header h2 {
+  font-size: 1.05rem;
+}
+
+.lacan-ai-header-actions,
+.lacan-ai-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.lacan-ai-body {
+  box-sizing: border-box;
+  height: calc(100vh - 3.7rem);
+  padding: 1rem;
+  padding-bottom: calc(5rem + env(safe-area-inset-bottom, 0px));
+  overflow-y: auto;
+  scroll-padding-bottom: calc(5rem + env(safe-area-inset-bottom, 0px));
+}
+
+.lacan-ai-body h3 {
+  margin: 0.8rem 0 0.55rem;
+  font-size: 0.98rem;
+}
+
+.lacan-ai-body > h3:first-child {
+  margin-top: 0;
+  letter-spacing: 0.08em;
+}
+
+.lacan-ai-function-help {
+  margin: 0.65rem 0 0;
+  padding: 0.7rem 0.8rem;
+  border-left: 3px solid #7b2d36;
+  background: rgb(123 45 54 / 7%);
+  font-size: 15px;
+  font-size: clamp(15px, 12px + 0.7cqi, 18px);
+  line-height: 1.62;
+}
+
+.lacan-ai-selection-summary {
+  display: grid;
+  gap: 0.35rem;
+  margin-top: 0.65rem;
+  padding: 0.7rem 0.8rem;
+  border: 1px solid rgb(123 45 54 / 30%);
+  border-radius: 0.45rem;
+  background: linear-gradient(90deg, rgb(123 45 54 / 11%), rgb(123 45 54 / 3%));
+  box-shadow: inset 3px 0 0 #7b2d36;
+}
+
+.lacan-ai-selection-summary strong,
+.lacan-ai-selection-summary span {
+  overflow-wrap: anywhere;
+}
+
+.lacan-ai-selection-summary strong {
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+}
+
+.lacan-ai-selection-summary span {
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 15px;
+  font-size: clamp(15px, 12px + 0.7cqi, 18px);
+  line-height: 1.55;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.lacan-ai-selection-summary[data-empty="true"] {
+  border-style: dashed;
+  background: transparent;
+  box-shadow: none;
+  opacity: 0.78;
+}
+
+.lacan-ai-knowledge-workspace {
+  margin-top: 0.85rem;
+  padding-top: 0.15rem;
+  border-top: 1px solid rgb(123 45 54 / 14%);
+}
+
+.lacan-ai-search {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.5rem;
+}
+
+.lacan-ai-input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.62rem 0.7rem;
+  border: 1px solid rgb(123 45 54 / 28%);
+  border-radius: 0.45rem;
+  background: var(--bg, #fff);
+  color: var(--fg, #2f2925);
+  font: inherit;
+}
+
+.lacan-ai-question {
+  display: block;
+  min-height: 8rem;
+  margin: 0.55rem 0;
+  resize: vertical;
+}
+
+.lacan-ai-primary,
+.lacan-ai-secondary,
+.lacan-ai-danger,
+.lacan-ai-close,
+.lacan-ai-result,
+.lacan-ai-open-card,
+.lacan-ai-copy,
+.lacan-ai-output-nav-button {
+  border-radius: 0.4rem;
+  font: inherit;
+  cursor: pointer;
+}
+
+.lacan-ai-primary {
+  border: 1px solid #7b2d36;
+  background: #7b2d36;
+  color: #fff;
+  padding: 0.58rem 0.8rem;
+}
+
+.lacan-ai-primary:disabled {
+  cursor: wait;
+  opacity: 0.55;
+}
+
+.lacan-ai-secondary,
+.lacan-ai-close {
+  border: 1px solid rgb(123 45 54 / 30%);
+  background: transparent;
+  color: inherit;
+  padding: 0.45rem 0.65rem;
+}
+
+.lacan-ai-danger {
+  border: 1px solid #a33a3a;
+  background: transparent;
+  color: #a33a3a;
+  padding: 0.45rem 0.65rem;
+}
+
+.lacan-ai-wide {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.lacan-ai-status,
+.lacan-ai-disclosure,
+.lacan-ai-diagnostics,
+.lacan-ai-settings-notice,
+.lacan-ai-settings-message {
+  margin: 0.6rem 0;
+}
+
+.lacan-ai-status,
+.lacan-ai-disclosure,
+.lacan-ai-diagnostics {
+  font-size: 15px;
+  font-size: clamp(15px, 12px + 0.7cqi, 18px);
+  line-height: 1.55;
+  opacity: 0.82;
+}
+
+.lacan-ai-settings-notice,
+.lacan-ai-settings-message {
+  font-size: 0.82rem;
+  line-height: 1.45;
+  opacity: 0.78;
+}
+
+.lacan-ai-diagnostics {
+  padding: 0.45rem 0.55rem;
+  border-radius: 0.4rem;
+  background: rgb(123 45 54 / 7%);
+  font-variant-numeric: tabular-nums;
+}
+
+.lacan-ai-settings-notice {
+  padding: 0.65rem 0.75rem;
+  border-left: 3px solid #7b2d36;
+  background: rgb(123 45 54 / 7%);
+  opacity: 0.9;
+}
+
+.lacan-ai-status[data-kind="error"],
+.lacan-ai-output[data-kind="error"] {
+  color: #a33a3a;
+}
+
+.lacan-ai-output-shell[data-kind="partial"] {
+  border-color: #b07a2a;
+}
+
+.lacan-ai-results {
+  display: grid;
+  gap: 0.5rem;
+  max-height: 18rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.lacan-ai-result,
+.lacan-ai-selected,
+.lacan-ai-output-shell {
+  border: 1px solid rgb(123 45 54 / 18%);
+  border-radius: 0.5rem;
+  background: rgb(123 45 54 / 4%);
+}
+
+.lacan-ai-result {
+  appearance: none;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.55rem 0.65rem;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 140ms ease, background-color 140ms ease, transform 140ms ease;
+}
+
+.lacan-ai-result:hover {
+  border-color: rgb(123 45 54 / 42%);
+  transform: translateX(2px);
+}
+
+.lacan-ai-result[aria-selected="true"] {
+  border-color: #7b2d36;
+  background: rgb(123 45 54 / 11%);
+  box-shadow: inset 3px 0 0 #7b2d36;
+}
+
+.lacan-ai-result:focus-visible {
+  outline: 2px solid #7b2d36;
+  outline-offset: 2px;
+}
+
+.lacan-ai-result-title {
+  display: block;
+  font-weight: 650;
+}
+
+.lacan-ai-result-meta,
+.lacan-ai-result-tags,
+.lacan-ai-selected-meta {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.76rem;
+  opacity: 0.72;
+}
+
+.lacan-ai-selected {
+  margin-top: 0.7rem;
+  padding: 0.7rem;
+}
+
+.lacan-ai-selected p {
+  margin: 0.45rem 0;
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+
+.lacan-ai-open-card {
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid rgb(123 45 54 / 28%);
+  color: inherit;
+  text-decoration: none;
+}
+
+.lacan-ai-output-shell {
+  margin-top: 0.7rem;
+  overflow: visible;
+}
+
+.lacan-ai-output-nav {
+  position: absolute;
+  top: 50%;
+  right: 1.1rem;
+  z-index: 4;
+  display: grid;
+  gap: 0.22rem;
+  padding: 0.28rem;
+  border: 1px solid rgb(123 45 54 / 28%);
+  border-radius: 999px;
+  background: rgb(26 22 21 / 76%);
+  box-shadow: 0 9px 28px rgb(20 15 14 / 24%);
+  opacity: 0.42;
+  transform: translateY(-50%);
+  backdrop-filter: blur(9px);
+  transition: opacity 150ms ease, box-shadow 150ms ease;
+}
+
+.lacan-ai-output-nav:hover,
+.lacan-ai-output-nav:focus-within {
+  opacity: 1;
+  box-shadow: 0 12px 32px rgb(20 15 14 / 36%);
+}
+
+.lacan-ai-output-nav-button {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #f6eee9;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.lacan-ai-output-nav-button:hover:not(:disabled),
+.lacan-ai-output-nav-button:focus-visible {
+  background: rgb(255 255 255 / 14%);
+}
+
+.lacan-ai-output-nav-button:focus-visible {
+  outline: 2px solid #f2d7d9;
+  outline-offset: 1px;
+}
+
+.lacan-ai-output-nav-button:disabled {
+  cursor: default;
+  opacity: 0.34;
+}
+
+.lacan-ai-output-nav[data-following="true"] .lacan-ai-output-nav-button:nth-child(2)::after {
+  content: "";
+  position: absolute;
+  right: 0.23rem;
+  bottom: 0.23rem;
+  width: 0.28rem;
+  height: 0.28rem;
+  border-radius: 999px;
+  background: #d98c93;
+}
+
+.lacan-ai-output-nav-clear {
+  color: #f0b7bb;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.lacan-ai-output-nav-clear:hover:not(:disabled) {
+  background: rgb(163 58 58 / 42%);
+}
+
+.lacan-ai-output-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.65rem;
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid rgb(123 45 54 / 18%);
+  background: var(--bg, #fffdf8);
+}
+
+.lacan-ai-output-label {
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  opacity: 0.72;
+}
+
+.lacan-ai-copy-tools {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.45rem;
+}
+
+.lacan-ai-copy-feedback {
+  max-width: 15rem;
+  font-size: 0.74rem;
+  line-height: 1.3;
+  text-align: right;
+  opacity: 0.8;
+}
+
+.lacan-ai-copy-feedback[data-kind="success"] {
+  color: #4f744f;
+}
+
+.lacan-ai-copy-feedback[data-kind="error"] {
+  color: #a33a3a;
+}
+
+.lacan-ai-copy {
+  flex: 0 0 auto;
+  border: 1px solid rgb(123 45 54 / 38%);
+  background: rgb(123 45 54 / 8%);
+  color: inherit;
+  padding: 0.38rem 0.6rem;
+  font-size: 0.78rem;
+  font-weight: 650;
+}
+
+.lacan-ai-copy:hover:not(:disabled) {
+  border-color: #7b2d36;
+  background: rgb(123 45 54 / 14%);
+}
+
+.lacan-ai-copy:focus-visible {
+  outline: 2px solid #7b2d36;
+  outline-offset: 2px;
+}
+
+.lacan-ai-copy:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.lacan-ai-copy-source {
+  position: fixed;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.lacan-ai-output {
+  min-height: 8rem;
+  margin: 0;
+  padding: 0.75rem;
+  overflow-x: auto;
+  overflow-wrap: anywhere;
+  font: inherit;
+  font-size: 17px;
+  font-size: clamp(17px, 12px + 0.9cqi, 21px);
+  line-height: 1.68;
+}
+
+.lacan-ai-output > :first-child {
+  margin-top: 0;
+}
+
+.lacan-ai-output > :last-child {
+  margin-bottom: 0;
+}
+
+.lacan-ai-output h1,
+.lacan-ai-output h2,
+.lacan-ai-output h3,
+.lacan-ai-output h4,
+.lacan-ai-output h5,
+.lacan-ai-output h6 {
+  margin: 1.2em 0 0.55em;
+  line-height: 1.35;
+}
+
+.lacan-ai-output h1 {
+  font-size: 1.42em;
+}
+
+.lacan-ai-output h2 {
+  font-size: 1.3em;
+}
+
+.lacan-ai-output h3 {
+  font-size: 1.18em;
+}
+
+.lacan-ai-output h4,
+.lacan-ai-output h5,
+.lacan-ai-output h6 {
+  font-size: 1.05em;
+}
+
+.lacan-ai-output p,
+.lacan-ai-output ul,
+.lacan-ai-output ol,
+.lacan-ai-output blockquote,
+.lacan-ai-output pre,
+.lacan-ai-output table {
+  margin: 0.75em 0;
+}
+
+.lacan-ai-output ul,
+.lacan-ai-output ol {
+  padding-inline-start: 1.45em;
+}
+
+.lacan-ai-output li + li {
+  margin-top: 0.28em;
+}
+
+.lacan-ai-output blockquote {
+  padding: 0.2em 0 0.2em 0.8em;
+  border-left: 3px solid rgb(123 45 54 / 48%);
+  opacity: 0.9;
+}
+
+.lacan-ai-output hr {
+  margin: 1.2em 0;
+  border: 0;
+  border-top: 1px solid rgb(123 45 54 / 24%);
+}
+
+.lacan-ai-output code {
+  padding: 0.08em 0.28em;
+  border-radius: 0.25rem;
+  background: rgb(123 45 54 / 10%);
+  font-family: var(--mono-font, monospace);
+  font-size: 0.9em;
+}
+
+.lacan-ai-output pre {
+  max-width: 100%;
+  padding: 0.7rem;
+  overflow: auto;
+  border: 1px solid rgb(123 45 54 / 18%);
+  border-radius: 0.4rem;
+  background: rgb(20 17 16 / 8%);
+  white-space: pre;
+  line-height: 1.5;
+}
+
+.lacan-ai-output pre code {
+  padding: 0;
+  background: transparent;
+  font-size: 0.84em;
+}
+
+.lacan-ai-output table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+.lacan-ai-output th,
+.lacan-ai-output td {
+  padding: 0.42rem 0.5rem;
+  border: 1px solid rgb(123 45 54 / 22%);
+  text-align: left;
+  vertical-align: top;
+}
+
+.lacan-ai-output th {
+  background: rgb(123 45 54 / 9%);
+  font-weight: 700;
+}
+
+.lacan-ai-output a {
+  color: #8d3a43;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+.lacan-ai-md-image-note,
+.lacan-ai-md-blocked-link {
+  opacity: 0.7;
+}
+
+.lacan-ai-settings-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 140;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  background: rgb(20 17 16 / 48%);
+}
+
+.lacan-ai-settings {
+  box-sizing: border-box;
+  width: min(520px, 100%);
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 1rem;
+  border-radius: 0.65rem;
+  background: var(--bg, #fffdf8);
+  color: var(--fg, #2f2925);
+  box-shadow: 0 18px 55px rgb(0 0 0 / 30%);
+}
+
+.lacan-ai-label {
+  display: block;
+  margin: 0.8rem 0 0.25rem;
+  font-size: 0.84rem;
+  font-weight: 650;
+}
+
+.lacan-ai-check {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 720px) {
+  .lacan-ai-panel {
+    width: 100vw;
+    border-left: 0;
+  }
+
+  .lacan-ai-resizer {
+    display: none;
+  }
+
+  .lacan-ai-launcher {
+    right: 0.8rem;
+    bottom: 0.8rem;
+  }
+}
