@@ -88,6 +88,45 @@ class TranslationCommentaryBuildTest(unittest.TestCase):
             self.assertNotIn("注：这一段明确标记为建言。", rendered.notes)
 
 
+class SiteAssetsBuildTest(unittest.TestCase):
+    def test_write_summary_syncs_homepage_assets(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            old_texts_dir = build_from_texts.TEXTS_DIR
+            old_texts_index = build_from_texts.TEXTS_INDEX
+            old_build_dir = build_from_texts.BUILD_DIR
+            build_from_texts.TEXTS_DIR = tmp_path / "texts"
+            build_from_texts.TEXTS_INDEX = build_from_texts.TEXTS_DIR / "index.md"
+            build_from_texts.BUILD_DIR = tmp_path / "build"
+
+            try:
+                assets = build_from_texts.TEXTS_DIR / "assets"
+                assets.mkdir(parents=True)
+                (assets / "community.png").write_bytes(b"current")
+                build_from_texts.TEXTS_INDEX.write_text(
+                    "# 首页\n\n![交流群](assets/community.png)\n",
+                    encoding="utf-8",
+                )
+
+                stale_assets = build_from_texts.BUILD_DIR / "assets"
+                stale_assets.mkdir(parents=True)
+                (stale_assets / "stale.png").write_bytes(b"stale")
+
+                build_from_texts.write_summary()
+
+                output_assets = build_from_texts.BUILD_DIR / "assets"
+                self.assertTrue((output_assets / "community.png").exists())
+                self.assertEqual(
+                    (output_assets / "community.png").read_bytes(),
+                    b"current",
+                )
+                self.assertFalse((output_assets / "stale.png").exists())
+            finally:
+                build_from_texts.TEXTS_DIR = old_texts_dir
+                build_from_texts.TEXTS_INDEX = old_texts_index
+                build_from_texts.BUILD_DIR = old_build_dir
+
+
 class ReadingNotesBuildTest(unittest.TestCase):
     def test_build_without_notes_source_omits_notes_page_and_links(self):
         with tempfile.TemporaryDirectory() as tmp:

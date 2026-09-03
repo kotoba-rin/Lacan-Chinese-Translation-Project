@@ -8,6 +8,12 @@
 
 GitHub Pages 备份地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html](https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html)
 
+qq交流群：700300644
+
+<p align="center">
+  <img src="assets/qq-group-700300644.png" alt="QQ 交流群 700300644 二维码" width="640">
+</p>
+
 ## 文本来源
 
 本项目整理和翻译的研讨班原始文本主要来自 [Staferla](http://staferla.free.fr/)。

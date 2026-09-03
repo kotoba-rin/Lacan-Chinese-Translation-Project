@@ -10,6 +10,11 @@
 - 备用站点：[GitHub Pages](https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html)
 - 协作说明：[CONTRIBUTING.md](./CONTRIBUTING.md)
 - 知识卡入口：[知识库/README.md](./知识库/README.md)
+- qq交流群：700300644
+
+<p align="center">
+  <img src="texts/assets/qq-group-700300644.png" alt="QQ 交流群 700300644 二维码" width="640">
+</p>
 
 ## 项目现状
 

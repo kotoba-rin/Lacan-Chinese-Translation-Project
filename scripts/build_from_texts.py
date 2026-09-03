@@ -1864,6 +1864,11 @@ def write_summary() -> None:
         write_text(index, "# 拉康开放翻译计划\n")
         lines.append("- [首页](index.md)")
 
+    homepage_assets = BUILD_DIR / "assets"
+    if homepage_assets.exists():
+        shutil.rmtree(homepage_assets)
+    copy_assets(TEXTS_DIR / "assets", homepage_assets)
+
     glossary = BUILD_DIR / "glossary.md"
     if glossary.exists():
         lines.append("- [全局术语表](glossary.md)")
