@@ -22,7 +22,7 @@ Nous poursuivons, en rappelant d’où nous partons : *l’aliénation*. Résum
 
 <!-- id: s14-12-0005 -->
 
-> en tant que nous l’avons pris pour départ de ce chemin logique que nous tentons cette année de tracer …c’est l’élimination - à prendre au sens pro­pre : rejet hors du seuil - l’élimination ordinaire de l’Autre.
+en tant que nous l’avons pris pour départ de ce chemin logique que nous tentons cette année de tracer …c’est l’élimination - à prendre au sens pro­pre : rejet hors du seuil - l’élimination ordinaire de l’Autre.
 
 <!-- id: s14-12-0006 -->
 
@@ -42,7 +42,7 @@ Tout le développement de la linguistique, nommé­ment - curieusement - ce qu�
 
 <!-- id: s14-12-0010 -->
 
-> ce qui s’appelle comme tel, ce qui se désigne, ce qui s’affiche comme tel récemment …ne nous intéresse pas à un degré égal. Ce qui peut sembler, au premier abord, surprenant.
+ce qui s’appelle comme tel, ce qui se désigne, ce qui s’affiche comme tel récemment …ne nous intéresse pas à un degré égal. Ce qui peut sembler, au premier abord, surprenant.
 
 <!-- id: s14-12-0011 -->
 
@@ -50,7 +50,7 @@ Tout le développement de la linguistique, nommé­ment - curieusement - ce qu�
 
 <!-- id: s14-12-0012 -->
 
-> De l’Autre : qu’est-ce que ça veut dire l’Autre, avec un grand A, en tant qu’ici il est éliminé ? …*Il est éliminé en tant que champ clos et uni­fié*. Ceci veut dire que nous affirmons, avec les meilleures raisons pour ce faire, qu’*il n’y a pas d’univers du discours*, qu’il n’y a rien d’assumable sous ce terme.
+De l’Autre : qu’est-ce que ça veut dire l’Autre, avec un grand A, en tant qu’ici il est éliminé ? …*Il est éliminé en tant que champ clos et uni­fié*. Ceci veut dire que nous affirmons, avec les meilleures raisons pour ce faire, qu’*il n’y a pas d’univers du discours*, qu’il n’y a rien d’assumable sous ce terme.
 
 <!-- id: s14-12-0013 -->
 
@@ -58,7 +58,7 @@ Tout le développement de la linguistique, nommé­ment - curieusement - ce qu�
 
 <!-- id: s14-12-0014 -->
 
-> notez que je pourrais dire aussi : sa pratique médicale. Quelqu’un que j’ai la surprise de ne pas voir là aujourd’hui à sa place ordinaire, m’a demandé ce signe que j’ai laissé en devinette du terme que j’eusse pu donner *en latin*, plus strict, du « *je pense* ». Si personne ne l’a trouvé, je le donne aujourd’hui, j’avais indiqué que ça ne pouvait se concevoir que d’un verbe à la voix moyenne[^51] – c’est : *medeor,* d’où vient à la fois la *médecine* qu’à l’instant j’évoque et la *méditation* *…le langage*, dans sa pratique radicale, *est soli­daire de quelque chose qu’il va nous falloir maintenant réin­tégrer*, concevoir, de quelque façon sous le mode d’une émana­tion de ce champ de l’Autre, à partir de ce moment où nous avons dû le considérer comme disjoint.
+notez que je pourrais dire aussi : sa pratique médicale. Quelqu’un que j’ai la surprise de ne pas voir là aujourd’hui à sa place ordinaire, m’a demandé ce signe que j’ai laissé en devinette du terme que j’eusse pu donner *en latin*, plus strict, du « *je pense* ». Si personne ne l’a trouvé, je le donne aujourd’hui, j’avais indiqué que ça ne pouvait se concevoir que d’un verbe à la voix moyenne[^51] – c’est : *medeor,* d’où vient à la fois la *médecine* qu’à l’instant j’évoque et la *méditation* *…le langage*, dans sa pratique radicale, *est soli­daire de quelque chose qu’il va nous falloir maintenant réin­tégrer*, concevoir, de quelque façon sous le mode d’une émana­tion de ce champ de l’Autre, à partir de ce moment où nous avons dû le considérer comme disjoint.
 
 <!-- id: s14-12-0015 -->
 
@@ -166,7 +166,7 @@ Je ne dis pas qu’il n’y a d’*acting-out* qu’en cours d’a­nalyse, je d
 
 <!-- id: s14-12-0041 -->
 
-> tel qu’il peut - comme psychiatres - nous poser des pro­blèmes et s’instituer comme catégorie autonome …distinguer *l’acting-out*. Je n’ai donc avancé qu’un corrélat, celui qui l’apparente au *symptôme* en tant que manifestation de *la véri­té*.
+tel qu’il peut - comme psychiatres - nous poser des pro­blèmes et s’instituer comme catégorie autonome …distinguer *l’acting-out*. Je n’ai donc avancé qu’un corrélat, celui qui l’apparente au *symptôme* en tant que manifestation de *la véri­té*.
 
 <!-- id: s14-12-0042 -->
 
@@ -186,7 +186,7 @@ Je poursuis… Quel est le terme que vous allez voir s’inscrire au 4<sup>ème<
 
 <!-- id: s14-12-0046 -->
 
-> et je pense pouvoir la soutenir aussi amplement qu’il est possible devant votre appréciation …c’est quelque chose qui - singulièrement - est resté, dans la théorie analytique, dans un certain suspens, qui est assurément le point concep­tuel autour duquel se sont accumulés le plus de nuages et le plus de faux-semblants.
+et je pense pouvoir la soutenir aussi amplement qu’il est possible devant votre appréciation …c’est quelque chose qui - singulièrement - est resté, dans la théorie analytique, dans un certain suspens, qui est assurément le point concep­tuel autour duquel se sont accumulés le plus de nuages et le plus de faux-semblants.
 
 <!-- id: s14-12-0047 -->
 
@@ -194,7 +194,7 @@ Pour le nommer…
 
 <!-- id: s14-12-0048 -->
 
-> et aussi bien il est déjà inscrit sur ce tableau, puisque c’est à cette note de Heinz HARTMANN que je vous prie de vous reporter pour saisir un fruit typique de la situation analytique comme telle …c’est *la sublimation.*
+et aussi bien il est déjà inscrit sur ce tableau, puisque c’est à cette note de Heinz HARTMANN que je vous prie de vous reporter pour saisir un fruit typique de la situation analytique comme telle …c’est *la sublimation.*
 
 <!-- id: s14-12-0049 -->
 
@@ -226,7 +226,7 @@ Pourquoi, pourtant, nous tenons-nous si fermes à l’assurance que derrière *l
 
 <!-- id: s14-12-0056 -->
 
-> c’est là le sens, le point d’accrochage, que j’irai jusqu’à appeler *fidéiste* de FREUD …que nous appelons *la satisfaction sexuelle.*
+c’est là le sens, le point d’accrochage, que j’irai jusqu’à appeler *fidéiste* de FREUD …que nous appelons *la satisfaction sexuelle.*
 
 <!-- id: s14-12-0057 -->
 
@@ -254,11 +254,11 @@ FREUD, quoiqu’il ne l’ait aucunement développé…
 
 <!-- id: s14-12-0063 -->
 
-> pour les mêmes raisons qui rendent les développements que j’y ad­joins nécessaires …FREUD a affirmé, selon le mode de procès qui est celui de sa pensée, qui consiste…
+pour les mêmes raisons qui rendent les développements que j’y ad­joins nécessaires …FREUD a affirmé, selon le mode de procès qui est celui de sa pensée, qui consiste…
 
 <!-- id: s14-12-0064 -->
 
-> comme disait un au­tre : BOSSUET, prénommé *Jacques-Bénigne* \[*Rires*\] …qui consiste à tenir fermement *les deux bouts de la chaîne *:
+comme disait un au­tre : BOSSUET, prénommé *Jacques-Bénigne* \[*Rires*\] …qui consiste à tenir fermement *les deux bouts de la chaîne *:
 
 <!-- id: s14-12-0065 -->
 
@@ -298,9 +298,9 @@ Telle est - comment FREUD introduit, pose devant nous - la fonction de la sublim
 
 <!-- id: s14-12-0074 -->
 
-> il y en a trois d’écrits-là \[au tableau en début de séance\], mais ce que j’appelle le second, c’est le second que j’ai nommé tout à l’heure, celui de Heinz HARTMANN, le premier que j’ai nommé étant celui de FENICHEL et l’ALEXANDER n’étant qu’une référence de FENICHEL je veux dire le point désigné par FENICHEL comme *le point ma­jeur* d’introduction
->
-> du terme d’*acting out* dans l’articulation psychanalytique …vous vous reporterez donc à l’article d’Heinz HARTMANN sur la sublimation, il est exemplaire.
+il y en a trois d’écrits-là \[au tableau en début de séance\], mais ce que j’appelle le second, c’est le second que j’ai nommé tout à l’heure, celui de Heinz HARTMANN, le premier que j’ai nommé étant celui de FENICHEL et l’ALEXANDER n’étant qu’une référence de FENICHEL je veux dire le point désigné par FENICHEL comme *le point ma­jeur* d’introduction
+
+du terme d’*acting out* dans l’articulation psychanalytique …vous vous reporterez donc à l’article d’Heinz HARTMANN sur la sublimation, il est exemplaire.
 
 <!-- id: s14-12-0075 -->
 
@@ -320,11 +320,11 @@ Pour ce qui est de Heinz HARTMANN et de *la façon dont il soutient*…
 
 <!-- id: s14-12-0079 -->
 
-> pendant quelques quatorze ou quinze pages, si mon souvenir est bon, avec les accents d’in­terrogation là …le problème de *la sublimation*, je pense qu’il ne peut échapper à quiconque y vient d’un esprit neuf, qu’un tel discours…
+pendant quelques quatorze ou quinze pages, si mon souvenir est bon, avec les accents d’in­terrogation là …le problème de *la sublimation*, je pense qu’il ne peut échapper à quiconque y vient d’un esprit neuf, qu’un tel discours…
 
 <!-- id: s14-12-0080 -->
 
-> qui est celui auquel je vous prie de vous re­porter sur pièce, en vous désignant *là où il est, où vous pouvez très facilement le trouver* …est un discours de *men­songe*, à proprement parler.
+qui est celui auquel je vous prie de vous re­porter sur pièce, en vous désignant *là où il est, où vous pouvez très facilement le trouver* …est un discours de *men­songe*, à proprement parler.
 
 <!-- id: s14-12-0081 -->
 
@@ -332,19 +332,19 @@ Tout l’appareil d’un prétendu « *énergétisme* », autour de quoi nous es
 
 <!-- id: s14-12-0082 -->
 
-> à interroger la subli­mation, en tant qu’elle nous est d’abord proposée comme étant identique et non-déplacée, par rapport
->
-> à quelque chose qui est proprement - avec les guillemets qu’impose l’usage à ce niveau, du terme de pulsion –
->
-> tout de même : la « pulsion sexuelle » …renverser ceci et à interroger de la façon la plus scandée, ce qu’il en est de la sublimation, comme étant relié à ce qu’on nous avance : à savoir que *les fonctions du* *moi*…
+à interroger la subli­mation, en tant qu’elle nous est d’abord proposée comme étant identique et non-déplacée, par rapport
+
+à quelque chose qui est proprement - avec les guillemets qu’impose l’usage à ce niveau, du terme de pulsion –
+
+tout de même : la « pulsion sexuelle » …renverser ceci et à interroger de la façon la plus scandée, ce qu’il en est de la sublimation, comme étant relié à ce qu’on nous avance : à savoir que *les fonctions du* *moi*…
 
 <!-- id: s14-12-0083 -->
 
-> *que de la façon la plus indue, on a posé comme étant autonome, comme étant même d’une autre source que de ce qu’on appelle, dans ce langage confusionnel, une source « instinc­tuelle », comme si jamais dans FREUD il avait été question de cela !* …de savoir donc, comment ces toutes *pures fonctions du moi* …
+*que de la façon la plus indue, on a posé comme étant autonome, comme étant même d’une autre source que de ce qu’on appelle, dans ce langage confusionnel, une source « instinc­tuelle », comme si jamais dans FREUD il avait été question de cela !* …de savoir donc, comment ces toutes *pures fonctions du moi* …
 
 <!-- id: s14-12-0084 -->
 
-> relatées à la mesure de la réalité et la donnant com­me telle d’une façon essentielle, rétablissant donc, là, *au cœur de la pensée analytique, ce que toute la pensée analy­tique rejette,* qu’il y a cette relation isolée, directe, au­tonome, identifiable, de relation de la pure pensée à un mon­de qu’elle serait capable d’aborder, sans être elle-même toute traversée de la fonction du désir …comment il se fait que puisse venir de ce qui est donc - ailleurs - le foyer instinctuel, je ne sais quel *reflet*, je ne sais quelle *peinture*, je ne sais quelle coloration, qu’on appelle textuellement : « *sexualisation des fonctions de l’ego* » ! Une fois introduite ainsi, la question devient litté­ralement insoluble, en tout cas à jamais exclue de tout ce qui se propose à la praxis de l’analyse.
+relatées à la mesure de la réalité et la donnant com­me telle d’une façon essentielle, rétablissant donc, là, *au cœur de la pensée analytique, ce que toute la pensée analy­tique rejette,* qu’il y a cette relation isolée, directe, au­tonome, identifiable, de relation de la pure pensée à un mon­de qu’elle serait capable d’aborder, sans être elle-même toute traversée de la fonction du désir …comment il se fait que puisse venir de ce qui est donc - ailleurs - le foyer instinctuel, je ne sais quel *reflet*, je ne sais quelle *peinture*, je ne sais quelle coloration, qu’on appelle textuellement : « *sexualisation des fonctions de l’ego* » ! Une fois introduite ainsi, la question devient litté­ralement insoluble, en tout cas à jamais exclue de tout ce qui se propose à la praxis de l’analyse.
 
 <!-- id: s14-12-0085 -->
 
@@ -376,7 +376,7 @@ Eh bien, *c’est là qu’il convient que nous nous aper­cevions de ceci,* qui
 
 <!-- id: s14-12-0092 -->
 
-> ce qui d’ailleurs est évident, parce que dès qu’on y pense, enfin, ça se touche tout de suite …c’est que ce n’est évidemment pas *la copulation pure et simple*.
+ce qui d’ailleurs est évident, parce que dès qu’on y pense, enfin, ça se touche tout de suite …c’est que ce n’est évidemment pas *la copulation pure et simple*.
 
 <!-- id: s14-12-0093 -->
 
@@ -428,7 +428,7 @@ En effet, essayons de mettre un ordre, une *mesure*, dans ce dont il s’agit da
 
 <!-- id: s14-12-0105 -->
 
-> c’est-à-dire en tant que nous y participons comme soumis à ce qu’il a de signifiant …a ses incidences autrement dites dans le fait que le sujet que nous sommes est opaque, qu’il a un inconscient.
+c’est-à-dire en tant que nous y participons comme soumis à ce qu’il a de signifiant …a ses incidences autrement dites dans le fait que le sujet que nous sommes est opaque, qu’il a un inconscient.
 
 <!-- id: s14-12-0106 -->
 
@@ -472,7 +472,7 @@ Nous allons lui donner…
 
 <!-- id: s14-12-0116 -->
 
-> parce que nous en retrou­vons, dans la pensée analytique elle-même, partout la trace, tout ce que ce terme signifiant de la mère entraîne avec lui de pensée de fusion, de falsification de l’unité, en tant, qu’elle nous intéresse seulement, à savoir de l’unité comp­table, de passage de cette unité comptable à l’unité unifiante …nous allons lui donner la valeur *Un*.
+parce que nous en retrou­vons, dans la pensée analytique elle-même, partout la trace, tout ce que ce terme signifiant de la mère entraîne avec lui de pensée de fusion, de falsification de l’unité, en tant, qu’elle nous intéresse seulement, à savoir de l’unité comp­table, de passage de cette unité comptable à l’unité unifiante …nous allons lui donner la valeur *Un*.
 
 <!-- id: s14-12-0117 -->
 
@@ -504,11 +504,11 @@ Autrement dit, que quelque chose ap­paraisse, qui…
 
 <!-- id: s14-12-0124 -->
 
-> comme dans cette *fondamentale* manipulation signifiante qu’est la relation harmonique …se manifeste comme ceci : cette grandeur (appelons-la c), par rapport à la somme des deux autres, a la même valeur que la plus petite par rap­port à la plus grande.
+comme dans cette *fondamentale* manipulation signifiante qu’est la relation harmonique …se manifeste comme ceci : cette grandeur (appelons-la c), par rapport à la somme des deux autres, a la même valeur que la plus petite par rap­port à la plus grande.
 
 <!-- id: s14-12-0125 -->
 
-> <img src="assets/image64.jpeg" style="width:0.83561in;height:0.39774in" alt="48a" />
+<img src="assets/image64.jpeg" style="width:0.83561in;height:0.39774in" alt="48a" />
 
 <!-- id: s14-12-0126 -->
 
@@ -532,7 +532,7 @@ C’est-à-dire le *rapport significatif* de la fonction phallique en tant que *
 
 <!-- id: s14-12-0131 -->
 
-> ceci en raison de son introduction-même dans la fonction subjective –ϕ …*la marque* de quelque chose qui doit y *représenter un manque fondamental*.
+ceci en raison de son introduction-même dans la fonction subjective –ϕ …*la marque* de quelque chose qui doit y *représenter un manque fondamental*.
 
 <!-- id: s14-12-0132 -->
 
@@ -556,9 +556,9 @@ C’est très précisément, de pouvoir *reproduire* exacte­ment le même type 
 
 <!-- id: s14-12-0137 -->
 
-> et je préférerais n’être pas forcé ici de l’évoquer spécifiquement,
->
-> sous la forme de ce qu’on appelle la « *création de l’Art* », mais puisqu’il le faut, je l’amène …c’est précisément dans la mesure où quelque chose, où quelque objet, peut venir prendre la place que prend le –ϕ dans l’acte sexuel comme tel, que la sublimation peut subsister, en donnant exactement le même ordre de *Befriedigung* qui est donné dans *l’acte sexuel* et dont vous voyez ce­ci : qu’il est très précisément suspendu au fait que ce qui est purement et simplement intérieur au couple *n’est pas sa­tisfaisant.*
+et je préférerais n’être pas forcé ici de l’évoquer spécifiquement,
+
+sous la forme de ce qu’on appelle la « *création de l’Art* », mais puisqu’il le faut, je l’amène …c’est précisément dans la mesure où quelque chose, où quelque objet, peut venir prendre la place que prend le –ϕ dans l’acte sexuel comme tel, que la sublimation peut subsister, en donnant exactement le même ordre de *Befriedigung* qui est donné dans *l’acte sexuel* et dont vous voyez ce­ci : qu’il est très précisément suspendu au fait que ce qui est purement et simplement intérieur au couple *n’est pas sa­tisfaisant.*
 
 <!-- id: s14-12-0138 -->
 
@@ -598,7 +598,7 @@ Assurément, il y a là un beaucoup plus grand *gap* [^52], celui qui assurémen
 
 <!-- id: s14-12-0147 -->
 
-> tel que nous essaierons de le saisir dans ce que nous dirons la prochaine fois …quelque chose qui, aussi, mérite d’être défini comme acte.
+tel que nous essaierons de le saisir dans ce que nous dirons la prochaine fois …quelque chose qui, aussi, mérite d’être défini comme acte.
 
 ## Notes
 

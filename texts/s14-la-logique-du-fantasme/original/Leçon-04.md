@@ -30,7 +30,7 @@ Il est néanmoins frappant, qu’à l’aide de BOOLE…
 
 <!-- id: s14-04-0007 -->
 
-> chez qui, bien-sûr, est absente cette articulation majeure : « *qu’aucun signifiant ne saurait se signifier lui-même* » …qu’en partant de la logique de BOOLE, c’est-à-dire de ce moment de virage où, en quelque sorte, on s’aperçoit, à avoir voulu formaliser *la logique classique*, que cette *formalisation* elle-même permet non seulement de lui apporter des *extensions* majeures, mais se révèle être *l’essence cachée* sur laquelle cette *logique* avait pu s’orienter et se construire, en croyant suivre quelque chose qui n’était pas vraiment son fondement - en croyant suivre ce que nous allons essayer de cerner aujourd’hui pour, en quelque sorte, l’écarter du champ où nous allons procéder, pour autant que nous l’avons annoncé *Logique du fantasme*.
+chez qui, bien-sûr, est absente cette articulation majeure : « *qu’aucun signifiant ne saurait se signifier lui-même* » …qu’en partant de la logique de BOOLE, c’est-à-dire de ce moment de virage où, en quelque sorte, on s’aperçoit, à avoir voulu formaliser *la logique classique*, que cette *formalisation* elle-même permet non seulement de lui apporter des *extensions* majeures, mais se révèle être *l’essence cachée* sur laquelle cette *logique* avait pu s’orienter et se construire, en croyant suivre quelque chose qui n’était pas vraiment son fondement - en croyant suivre ce que nous allons essayer de cerner aujourd’hui pour, en quelque sorte, l’écarter du champ où nous allons procéder, pour autant que nous l’avons annoncé *Logique du fantasme*.
 
 <!-- id: s14-04-0008 -->
 
@@ -66,9 +66,9 @@ C’est bien en quoi l’on peut dire que d’aucune fa­çon ce que je peux én
 
 <!-- id: s14-04-0016 -->
 
-> si nous donnons à ce sens non pas quoi que ce soit qui dé­signe ou honnisse un point géographique,
->
-> mais ce sens d’*Universitas litterarum* ou un *cursius classici* disons …il n’est pas inutile au passage d’indiquer que, quels que soient les autres sens bien-sûr, beaucoup plus historiques, qu’on peut donner à ce terme « d’*université* », *il y a là quelque allusion à* ce que j’ai appelé *l’univers du discours.*
+si nous donnons à ce sens non pas quoi que ce soit qui dé­signe ou honnisse un point géographique,
+
+mais ce sens d’*Universitas litterarum* ou un *cursius classici* disons …il n’est pas inutile au passage d’indiquer que, quels que soient les autres sens bien-sûr, beaucoup plus historiques, qu’on peut donner à ce terme « d’*université* », *il y a là quelque allusion à* ce que j’ai appelé *l’univers du discours.*
 
 <!-- id: s14-04-0017 -->
 
@@ -120,7 +120,7 @@ Si je me suis permis - toujours pour les oreilles qu’il fallait bien faire vib
 
 <!-- id: s14-04-0029 -->
 
-> « *Moi, la vérité, je parle.* [^13] » c’est bien en effet pour pointer ce relief qu’il s’agit pour nous de maintenir, ce à quoi - à proprement parler - s’accroche notre expérience et qui est absolument impossible à exclure de l’articulation de FREUD. Car FREUD y est mis tout de suite *au pied du mur*, et on n’est pas forcé d’intervenir pour ça : il s’y était mis lui-même.
+« *Moi, la vérité, je parle.* [^13] » c’est bien en effet pour pointer ce relief qu’il s’agit pour nous de maintenir, ce à quoi - à proprement parler - s’accroche notre expérience et qui est absolument impossible à exclure de l’articulation de FREUD. Car FREUD y est mis tout de suite *au pied du mur*, et on n’est pas forcé d’intervenir pour ça : il s’y était mis lui-même.
 
 <!-- id: s14-04-0030 -->
 
@@ -136,19 +136,19 @@ Et quand l’objection lui est faite, en un point précis de la *Traumdeutung*�
 
 <!-- id: s14-04-0033 -->
 
-> il se trouve que je n’ai pas apporté au­jourd’hui l’exemplaire où je vous avais repéré la page …il a à répondre à l’objection :
+il se trouve que je n’ai pas apporté au­jourd’hui l’exemplaire où je vous avais repéré la page …il a à répondre à l’objection :
 
 <!-- id: s14-04-0034 -->
 
-> « *Bien-sûr, avec votre fa­çon de procéder, à tout carrefour vous aurez bien l’occa­sion de trouver un signifié qui fera le pont entre deux*
->
-> *significations et avec cette façon d’organiser les ponts, vous irez toujours de quelque part à quelque part.* »
->
-> Ce n’est pas pour rien que j’avais mis la petite affichette extraite de l’ORUS APOLLO[^14] …
->
-> comme par hasard, à savoir d’une interprétation au XVI<sup>ème</sup> siècle des hiéroglyphes égyptiens
->
-> …sur une revue maintenant vaporisée qui s’appe­lait *La Psychanalyse* : « *L’Oreille et le Pont* »
+« *Bien-sûr, avec votre fa­çon de procéder, à tout carrefour vous aurez bien l’occa­sion de trouver un signifié qui fera le pont entre deux*
+
+*significations et avec cette façon d’organiser les ponts, vous irez toujours de quelque part à quelque part.* »
+
+Ce n’est pas pour rien que j’avais mis la petite affichette extraite de l’ORUS APOLLO[^14] …
+
+comme par hasard, à savoir d’une interprétation au XVI<sup>ème</sup> siècle des hiéroglyphes égyptiens
+
+…sur une revue maintenant vaporisée qui s’appe­lait *La Psychanalyse* : « *L’Oreille et le Pont* »
 
 <!-- id: s14-04-0035 -->
 
@@ -164,9 +164,9 @@ Autrement dit, ce qui s’oppose fondamentalement à l’interprétation psychan
 
 <!-- id: s14-04-0038 -->
 
-> comme on l’imagine de ce qui est ordinairement le seul bagage que les esprits qui entrent dans le champ de la médecine ont encore de leur année de philosophie, à savoir que le scien­tifique ça se fonde sur l’expérience !
->
-> Bien entendu, on n’a pas ouvert Claude BERNARD, mais on connaît encore le titre …ça n’est pas une *objection scientifique*, c’est une *objection* qui remonte à la tradition médiévale, où on sa­vait ce que c’était que *la logique*. C’était beaucoup plus répandu que de notre temps, malgré les moyens de diffusion qui sont les nôtres.
+comme on l’imagine de ce qui est ordinairement le seul bagage que les esprits qui entrent dans le champ de la médecine ont encore de leur année de philosophie, à savoir que le scien­tifique ça se fonde sur l’expérience !
+
+Bien entendu, on n’a pas ouvert Claude BERNARD, mais on connaît encore le titre …ça n’est pas une *objection scientifique*, c’est une *objection* qui remonte à la tradition médiévale, où on sa­vait ce que c’était que *la logique*. C’était beaucoup plus répandu que de notre temps, malgré les moyens de diffusion qui sont les nôtres.
 
 <!-- id: s14-04-0039 -->
 
@@ -238,9 +238,9 @@ Regardons-y au moins - pour le savoir - à deux fois. Contentons-nous de ce *nœ
 
 <!-- id: s14-04-0056 -->
 
-> et je n’ai indiqué par là nulle personne, sinon celle à qui j’ai fait dire ces mots : « *Moi, la Vérité, je parle* ».
->
-> Nulle personne, divine ou hu­maine, n’est intéressée en dehors de celle-là …à savoir *le point d’origine des rapports entre le signifiant et la vérité.*
+et je n’ai indiqué par là nulle personne, sinon celle à qui j’ai fait dire ces mots : « *Moi, la Vérité, je parle* ».
+
+Nulle personne, divine ou hu­maine, n’est intéressée en dehors de celle-là …à savoir *le point d’origine des rapports entre le signifiant et la vérité.*
 
 <!-- id: s14-04-0057 -->
 
@@ -268,7 +268,7 @@ En tout cas je tenais à préciser - je m’excuse de cette parenthèse - que si
 
 <!-- id: s14-04-0063 -->
 
-> une impasse caricaturale, dans un re­père très exact de tout le relief du développement moderne de la pensée …le maintien des espoirs les plus impensables concernant ce qui devrait se développer, soit à sa place, soit dans sa marge, et pour que pût se maintenir ce qui est son adhésion centrale à savoir ce qu’il appelle « *l’intuition de l’être* ».
+une impasse caricaturale, dans un re­père très exact de tout le relief du développement moderne de la pensée …le maintien des espoirs les plus impensables concernant ce qui devrait se développer, soit à sa place, soit dans sa marge, et pour que pût se maintenir ce qui est son adhésion centrale à savoir ce qu’il appelle « *l’intuition de l’être* ».
 
 <!-- id: s14-04-0064 -->
 
@@ -292,7 +292,7 @@ Donc je reprends, après cette parenthèse, ce qu’il s’agit pour nous d’in
 
 <!-- id: s14-04-0069 -->
 
-> un tableau, je vous le rappelle - je ne vais pas vous les faire tous - c’est à la portée de tout le monde de le voir …implique que si des deux propositions nous met­tions ici les valeurs, à savoir :
+un tableau, je vous le rappelle - je ne vais pas vous les faire tous - c’est à la portée de tout le monde de le voir …implique que si des deux propositions nous met­tions ici les valeurs, à savoir :
 
 <!-- id: s14-04-0070 -->
 
@@ -312,7 +312,7 @@ Et ceci peut être pour nous support, mais n’est que support et appui, à ce q
 
 <!-- id: s14-04-0074 -->
 
-> ce que nous manions, si je puis dire, par la parole, ce que nous disons, à dire qu’il y a vérité …*est-il licite d’écrire ce que nous disons*, pour au­tant que de l’écrire va être pour nous le fondement de notre manipulation ?
+ce que nous manions, si je puis dire, par la parole, ce que nous disons, à dire qu’il y a vérité …*est-il licite d’écrire ce que nous disons*, pour au­tant que de l’écrire va être pour nous le fondement de notre manipulation ?
 
 <!-- id: s14-04-0075 -->
 
@@ -396,7 +396,7 @@ Qu’est-ce que ça veut dire ? Bien-sûr : les condi­tions d’existence les p
 
 <!-- id: s14-04-0095 -->
 
-> «* Qu’il est vrai qu’il est faux* »
+«* Qu’il est vrai qu’il est faux* »
 
 <!-- id: s14-04-0096 -->
 
@@ -444,7 +444,7 @@ Et à propos du discours, aussi rigoureux que je tente de le faire aujour­d’h
 
 <!-- id: s14-04-0107 -->
 
-> dans beaucoup de coins de ce qu’on appelle plus ou moins proprement vos cervelles \[Rires\] …engendrer ces sortes de confusions, liées justement à la production du signifié dans la métaphore.
+dans beaucoup de coins de ce qu’on appelle plus ou moins proprement vos cervelles \[Rires\] …engendrer ces sortes de confusions, liées justement à la production du signifié dans la métaphore.
 
 <!-- id: s14-04-0108 -->
 
@@ -536,7 +536,7 @@ On est si peu logicien qu’on ne s’aperçoit pas qu’à ce moment il ne saur
 
 <!-- id: s14-04-0130 -->
 
-> le *moi* et le *non-moi*, en tant qu’ils se définissent dans l’opposition *Lust-Unlust* …et si peu à considérer comme de l’or­dre de cette complémentarité imposée par *l’univers du dis­cours*, que FREUD l’a distinguée en mettant à la première ligne : *Ich aussen welt,* qui n’est point du même registre.
+le *moi* et le *non-moi*, en tant qu’ils se définissent dans l’opposition *Lust-Unlust* …et si peu à considérer comme de l’or­dre de cette complémentarité imposée par *l’univers du dis­cours*, que FREUD l’a distinguée en mettant à la première ligne : *Ich aussen welt,* qui n’est point du même registre.
 
 <!-- id: s14-04-0131 -->
 
@@ -544,7 +544,7 @@ Si *moi* et *non-moi* voulaient dire à ce moment « *saisie du monde dans un U
 
 <!-- id: s14-04-0132 -->
 
-> ce qui est à propre­ment parler ce qu’on évoque à considérer que *le narcissisme primaire peut intervenir dans la séance analytique* …ceci voudrait dire que le sujet infantile, au point où FREUD le désigne, déjà dans le premier fonctionnement du *principe du plaisir*, est capable de faire de la logique.
+ce qui est à propre­ment parler ce qu’on évoque à considérer que *le narcissisme primaire peut intervenir dans la séance analytique* …ceci voudrait dire que le sujet infantile, au point où FREUD le désigne, déjà dans le premier fonctionnement du *principe du plaisir*, est capable de faire de la logique.
 
 <!-- id: s14-04-0133 -->
 
@@ -576,7 +576,7 @@ C’est ensuite ceci qui entrera plus loin, et plus ma­niable que ça l’est d
 
 <!-- id: s14-04-0140 -->
 
-> ce à quoi j’ai fait allusion tout à l’heure dans l’implication …pour au­tant qu’à la régler dans l’apparition de ces négations tout à fait opaques dans leur retournement, on peut l’appeler dans l’implication elle-même : le « *pas sans* », dans *l’implica­tion* telle qu’elle est *définie par la tradition stoïcienne*, telle qu’elle ne peut être évitée, quels que soient ses para­doxes.
+ce à quoi j’ai fait allusion tout à l’heure dans l’implication …pour au­tant qu’à la régler dans l’apparition de ces négations tout à fait opaques dans leur retournement, on peut l’appeler dans l’implication elle-même : le « *pas sans* », dans *l’implica­tion* telle qu’elle est *définie par la tradition stoïcienne*, telle qu’elle ne peut être évitée, quels que soient ses para­doxes.
 
 <!-- id: s14-04-0141 -->
 

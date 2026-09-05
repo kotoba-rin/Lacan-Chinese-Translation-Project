@@ -314,7 +314,7 @@ Ce *trait unaire* …
 
 <!-- id: s14-18-0078 -->
 
-> il me souvient des cris désespérés d’un de mes auditeurs des plus subtils, quand je l’ai simplement *ramassé* dans un texte de FREUD, l’*einziger Zug* où il avait passé inaperçu pour cet interlocuteur qui aurait bien aimé en *faire la trouvaille lui-même* …ne croyez pas pourtant qu’il n’existe que là, FREUD n’a pas découvert le *trait unaire*.
+il me souvient des cris désespérés d’un de mes auditeurs des plus subtils, quand je l’ai simplement *ramassé* dans un texte de FREUD, l’*einziger Zug* où il avait passé inaperçu pour cet interlocuteur qui aurait bien aimé en *faire la trouvaille lui-même* …ne croyez pas pourtant qu’il n’existe que là, FREUD n’a pas découvert le *trait unaire*.
 
 <!-- id: s14-18-0079 -->
 

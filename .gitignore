@@ -8,6 +8,7 @@ build/
 build.bk/
 pdf/
 reports/
+output/ebooks/
 
 # Obsidian: track only the translation helper source
 .obsidian/*

@@ -88,7 +88,7 @@ max_segment_id: 133
 
 <!-- id: s14-01-0019 -->
 
-> 以至于对所有人——尤其是那些以它为自身经验中心的人，即*精神分析家*——而言，它都已经足够熟悉，可以毫无畏惧、甚至毫无焦虑地呈现在他们面前。
+以至于对所有人——尤其是那些以它为自身经验中心的人，即*精神分析家*——而言，它都已经足够熟悉，可以毫无畏惧、甚至毫无焦虑地呈现在他们面前。
 
 <!-- id: s14-01-0020 -->
 
@@ -419,7 +419,7 @@ max_segment_id: 133
 
 <!-- id: s14-01-0094 -->
 
-> ![[texts/s14-la-logique-du-fantasme/original/assets/image10.jpeg|75]]
+![[texts/s14-la-logique-du-fantasme/original/assets/image10.jpeg|75]]
 
 <!-- id: s14-01-0095 -->
 
@@ -545,7 +545,7 @@ $S'$、两个 S，以及所指的小写 $s$；对于这个关系，我的一位�
 
 <!-- id: s14-01-0121 -->
 
-> ![[texts/s14-la-logique-du-fantasme/original/assets/image12.jpeg|85]]
+![[texts/s14-la-logique-du-fantasme/original/assets/image12.jpeg|85]]
 
 <!-- id: s14-01-0122 -->
 

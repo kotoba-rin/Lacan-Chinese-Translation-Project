@@ -14,13 +14,13 @@ Cette transformation, un logicien formé à la logi­que symbolique la reconnaî
 
 <!-- id: s14-07-0003 -->
 
-> la reconnaîtra, de repré­senter la formule mise au jour dans le registre de cette logique symbolique,
->
-> pour la première fois par de MORGAN au milieu du siècle dernier …pour autant que ce qu’elle énon­çait, qui représentait une véritable découverte, qui n’avait jamais été mise au jour sous cette forme jusque-là, s’exprimait d’abord ainsi : que dans *le rapport proposi­tionnel* qui consiste dans la *conjonction* de deux proposi­tions…
+la reconnaîtra, de repré­senter la formule mise au jour dans le registre de cette logique symbolique,
+
+pour la première fois par de MORGAN au milieu du siècle dernier …pour autant que ce qu’elle énon­çait, qui représentait une véritable découverte, qui n’avait jamais été mise au jour sous cette forme jusque-là, s’exprimait d’abord ainsi : que dans *le rapport proposi­tionnel* qui consiste dans la *conjonction* de deux proposi­tions…
 
 <!-- id: s14-07-0004 -->
 
-> ce qu’exprime, à droite et en haut de ces feuilles blanches, sur lesquelles j’ai écrit en noir pour que ce soit plus visible …la *conjonction* de A et de B : A ∩ B, si vous la niez en tant que *conjonction* : <img src="assets/image33.jpeg" style="width:0.2963in;height:0.13191in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S14\24.jpg" />. Si vous dites qu’il n’est pas vrai, par exemple, que A et B soient ensemble tenables, ceci équivaut à *la réunion *: <img src="assets/image34.jpeg" style="width:0.78241in;height:0.14431in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S14\25.jpg" />
+ce qu’exprime, à droite et en haut de ces feuilles blanches, sur lesquelles j’ai écrit en noir pour que ce soit plus visible …la *conjonction* de A et de B : A ∩ B, si vous la niez en tant que *conjonction* : <img src="assets/image33.jpeg" style="width:0.2963in;height:0.13191in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S14\24.jpg" />. Si vous dites qu’il n’est pas vrai, par exemple, que A et B soient ensemble tenables, ceci équivaut à *la réunion *: <img src="assets/image34.jpeg" style="width:0.78241in;height:0.14431in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S14\25.jpg" />
 
 <!-- id: s14-07-0005 -->
 
@@ -136,9 +136,9 @@ Aussi bien ces deux « *ne*... *pas* » ne sont-ils pas bien *entendus* : à 
 
 <!-- id: s14-07-0033 -->
 
-> pour autant qu’elle supporte ce quelque chose de défini par l’énonciation,
->
-> à quoi sans dou­te il se peut que rien ne réponde, mais qui est établi com­me tel …*cet ensemble vide en tant que représentant le su­jet de l’énonciation, nous force à prendre sous une valeur qui est à examiner, la fonction de la négation*.
+pour autant qu’elle supporte ce quelque chose de défini par l’énonciation,
+
+à quoi sans dou­te il se peut que rien ne réponde, mais qui est établi com­me tel …*cet ensemble vide en tant que représentant le su­jet de l’énonciation, nous force à prendre sous une valeur qui est à examiner, la fonction de la négation*.
 
 <!-- id: s14-07-0034 -->
 
@@ -162,7 +162,7 @@ C’est vous dire que cette dialectique du sujet…
 
 <!-- id: s14-07-0039 -->
 
-> pour autant que nous essayons de l’ordonner, de la délinéer, entre *sujet de l’énoncé* et *sujet de l’énonciation* …c’est là une œuvre bien utile et spécialement au niveau où nous reprenons aujourd’hui l’interrogation du *cogito* de DESCARTES, pour autant que c’est cela qui peut nous permettre de don­ner sens véritable, situation exacte, à ce qui de par FREUD s’en modifie et, pour le dire tout de suite, qui se propose à nous sous ces deux formes trop facilement superposées et confondues, qui s’appellent respectivement l’*inconscient* et le *Ça*, et qui sont ce qu’il s’agit pour nous de distinguer à la lumière de cette interrogation que nous faisons partir de l’examen du *cogito*.
+pour autant que nous essayons de l’ordonner, de la délinéer, entre *sujet de l’énoncé* et *sujet de l’énonciation* …c’est là une œuvre bien utile et spécialement au niveau où nous reprenons aujourd’hui l’interrogation du *cogito* de DESCARTES, pour autant que c’est cela qui peut nous permettre de don­ner sens véritable, situation exacte, à ce qui de par FREUD s’en modifie et, pour le dire tout de suite, qui se propose à nous sous ces deux formes trop facilement superposées et confondues, qui s’appellent respectivement l’*inconscient* et le *Ça*, et qui sont ce qu’il s’agit pour nous de distinguer à la lumière de cette interrogation que nous faisons partir de l’examen du *cogito*.
 
 <!-- id: s14-07-0040 -->
 
@@ -190,7 +190,7 @@ Mais pour autant qu’à travers ces déformations vous pourrez essayer de rejoi
 
 <!-- id: s14-07-0046 -->
 
-> dont tel ou tel scoliaste nous dit que tel passage est discutable, ou que l’ordre des livres a été bouleversé …combien, pour une lecture première, toutes ces questions apparaissent vrai­ment secondaires auprès de je ne sais quoi de direct et de frais, qui fait de cette lecture, à cette seule condition que vous la sortiez de *l’atmosphère de l’école*, une chose qui vous frappe du registre de ce que j’ai appelé tout à l’heure le « *pathétique* ».
+dont tel ou tel scoliaste nous dit que tel passage est discutable, ou que l’ordre des livres a été bouleversé …combien, pour une lecture première, toutes ces questions apparaissent vrai­ment secondaires auprès de je ne sais quoi de direct et de frais, qui fait de cette lecture, à cette seule condition que vous la sortiez de *l’atmosphère de l’école*, une chose qui vous frappe du registre de ce que j’ai appelé tout à l’heure le « *pathétique* ».
 
 <!-- id: s14-07-0047 -->
 
@@ -214,21 +214,21 @@ Il me paraît que c’est une tra­duction aussi valable que celle du « *quid*
 
 <!-- id: s14-07-0052 -->
 
-> Ce Τό τἰ ἦν εἶναι[^27] \[to ti en einai\], qui est la même chose, que ce qui se dit dans l’*[Hippolyte](http://remacle.org/bloodwolf/tragediens/euripide/hippolyte.htm)* d’EURIPIDE \[Vers 359\],
->
-> quand on dit : Κύπρις οὐκ ἄρ’ἦν θεός *à savoir :* « *Cypris–Aphrodite, pour toi, n’était pas une déesse* ». Ce qui veut dire que :
->
-> \- pour s’être conduite comme elle vient de le faire, assurément ce qu’elle était nous fuit et nous échappe,
->
-> \- et qu’aussi bien il faut que nous remettions en question tout ce qu’il en est de ce que c’est qu’une déesse ou qu’un dieu.
->
-> Ce Τό τἰ ἦν εἶναι le « *ce que c’était être* » : « *ce que c’était être* » quand ? Avant que j’en parle, à proprement parler.
->
-> C’est cette espèce de sentiment qu’il y a, dans le langage même d’ARISTOTE, de « *l’être* » encore inviolé et pour autant
->
-> que déjà il touchait, avec ce νοεῖν \[noein\], avec cette pensée, dont tout ce qui est agité c’est de savoir jusqu’à quel degré elle peut en être digne, *c’est-à-dire s’élever à la hauteur de l’être* \[τὸ αὐτό νοεῖν καὶ εἶναι[^28], (*to auto noein kai einai*) : « *le même, que de penser et être* »\].
->
-> Voilà dans quel tracé d’origine, dont vous ne pouvez pas ne pas sentir en quelque sorte la racine, de l’ordre du *sacré,* voilà où s’attache la pre­mière articulation du *philosophème* : au niveau de celui qu’il y a, à introduire - *on peut le dire* - le premier pas d’une science positive.
+Ce Τό τἰ ἦν εἶναι[^27] \[to ti en einai\], qui est la même chose, que ce qui se dit dans l’*[Hippolyte](http://remacle.org/bloodwolf/tragediens/euripide/hippolyte.htm)* d’EURIPIDE \[Vers 359\],
+
+quand on dit : Κύπρις οὐκ ἄρ’ἦν θεός *à savoir :* « *Cypris–Aphrodite, pour toi, n’était pas une déesse* ». Ce qui veut dire que :
+
+\- pour s’être conduite comme elle vient de le faire, assurément ce qu’elle était nous fuit et nous échappe,
+
+\- et qu’aussi bien il faut que nous remettions en question tout ce qu’il en est de ce que c’est qu’une déesse ou qu’un dieu.
+
+Ce Τό τἰ ἦν εἶναι le « *ce que c’était être* » : « *ce que c’était être* » quand ? Avant que j’en parle, à proprement parler.
+
+C’est cette espèce de sentiment qu’il y a, dans le langage même d’ARISTOTE, de « *l’être* » encore inviolé et pour autant
+
+que déjà il touchait, avec ce νοεῖν \[noein\], avec cette pensée, dont tout ce qui est agité c’est de savoir jusqu’à quel degré elle peut en être digne, *c’est-à-dire s’élever à la hauteur de l’être* \[τὸ αὐτό νοεῖν καὶ εἶναι[^28], (*to auto noein kai einai*) : « *le même, que de penser et être* »\].
+
+Voilà dans quel tracé d’origine, dont vous ne pouvez pas ne pas sentir en quelque sorte la racine, de l’ordre du *sacré,* voilà où s’attache la pre­mière articulation du *philosophème* : au niveau de celui qu’il y a, à introduire - *on peut le dire* - le premier pas d’une science positive.
 
 <!-- id: s14-07-0053 -->
 
@@ -244,7 +244,7 @@ Ce que je veux produire devant vous est ceci : c’est que pour autant que l’
 
 <!-- id: s14-07-0056 -->
 
-> *et précisément pour autant que ce refus a engendré cette suite, cette le­vée nouvelle de l’abord sur le monde, qui s’appelle la scien­ce* …que si quelque chose, à l’intérieur des effets de ce franchissement, s’est produit qui s’appelle la découverte freudienne, ou au niveau de celui qui l’y a introduite, ou encore sa pensée, voire sa pensée sur la pensée - le point essentiel c’est que ceci, en aucun cas, ne veut dire « *un retour à la pensée de l’être* ».
+*et précisément pour autant que ce refus a engendré cette suite, cette le­vée nouvelle de l’abord sur le monde, qui s’appelle la scien­ce* …que si quelque chose, à l’intérieur des effets de ce franchissement, s’est produit qui s’appelle la découverte freudienne, ou au niveau de celui qui l’y a introduite, ou encore sa pensée, voire sa pensée sur la pensée - le point essentiel c’est que ceci, en aucun cas, ne veut dire « *un retour à la pensée de l’être* ».
 
 <!-- id: s14-07-0057 -->
 
@@ -264,7 +264,7 @@ C’est pour en poser la question que nous avons in­troduit ces guillemets auto
 
 <!-- id: s14-07-0061 -->
 
-> et aussi bien dans le *Discours de la méthode* que dans les *Méditations* ou dans les *Principes* *…*c’est à savoir : comme un « *ergo* » de nécessité.
+et aussi bien dans le *Discours de la méthode* que dans les *Méditations* ou dans les *Principes* *…*c’est à savoir : comme un « *ergo* » de nécessité.
 
 <!-- id: s14-07-0062 -->
 
@@ -360,7 +360,7 @@ Le *détritus* c’est bien là le point à retenir, qui repré­sente…
 
 <!-- id: s14-07-0085 -->
 
-> et pas seulement comme signal, mais comme quelque chose d’essentiel …*ce autour de quoi pour nous va tourner* ce qu’il va en être maintenant, de ce que nous avons à inter­roger de *cette aliénation*.­
+et pas seulement comme signal, mais comme quelque chose d’essentiel …*ce autour de quoi pour nous va tourner* ce qu’il va en être maintenant, de ce que nous avons à inter­roger de *cette aliénation*.­
 
 <!-- id: s14-07-0086 -->
 
@@ -380,7 +380,7 @@ Mais assurément, ce fondement *fidéiste* qui reste si profondément ancré enc
 
 <!-- id: s14-07-0090 -->
 
-> « *Et non propter vitam vivendi perdere causas* »[^32]
+« *Et non propter vitam vivendi perdere causas* »[^32]
 
 <!-- id: s14-07-0091 -->
 
@@ -428,7 +428,7 @@ Et que tel de mes élèves[^34]…
 
 <!-- id: s14-07-0102 -->
 
-> au cours de ce petit rap­port qui fait partie de l’opuscule que je vous ai distribué la dernière fois …que tel de mes élèves se soit cru obligé d’en repasser par là, tenant pour un instant l’illusion que c’était même une voie par laquelle je vous aurais menés à \[le\] formuler - comme il est bien naturellement forcé, après m’a­voir entendu, à formuler le contraire, n’est ce pas - est en soi-même une sorte de *bluff* et d’*escroquerie*, car ceci n’a rien à faire dans la question.
+au cours de ce petit rap­port qui fait partie de l’opuscule que je vous ai distribué la dernière fois …que tel de mes élèves se soit cru obligé d’en repasser par là, tenant pour un instant l’illusion que c’était même une voie par laquelle je vous aurais menés à \[le\] formuler - comme il est bien naturellement forcé, après m’a­voir entendu, à formuler le contraire, n’est ce pas - est en soi-même une sorte de *bluff* et d’*escroquerie*, car ceci n’a rien à faire dans la question.
 
 <!-- id: s14-07-0103 -->
 
@@ -472,9 +472,9 @@ Et il n’est pas hasard si FREUD remarque que - dans l’analyse de *Ein Kind i
 
 <!-- id: s14-07-0113 -->
 
-> pour nous, dans la *reconstruc­tion* que nous en faisons, dans la *Bedeutung* que nous allons lui donner,
->
-> dans *l’interprétation* nécessaire : à savoir qu’à un moment ce soit lui qui soit le battu …mais dans l’énoncé du fantasme, nous dit FREUD, ce temps - et pour cause - n’est jamais avoué, car le « *je* » comme tel, est pré­cisément exclu du fantasme. De ceci nous ne pouvons nous rendre compte, qu’à mar­quer la ligne de division de deux compléments tels le « *je bats* » ou le « *pas-je* » où bascule cet être qu’il est, comme refus de l’être, avec ce qui reste comme articulation de la pensée et qui est la structure grammaticale de la phrase.
+pour nous, dans la *reconstruc­tion* que nous en faisons, dans la *Bedeutung* que nous allons lui donner,
+
+dans *l’interprétation* nécessaire : à savoir qu’à un moment ce soit lui qui soit le battu …mais dans l’énoncé du fantasme, nous dit FREUD, ce temps - et pour cause - n’est jamais avoué, car le « *je* » comme tel, est pré­cisément exclu du fantasme. De ceci nous ne pouvons nous rendre compte, qu’à mar­quer la ligne de division de deux compléments tels le « *je bats* » ou le « *pas-je* » où bascule cet être qu’il est, comme refus de l’être, avec ce qui reste comme articulation de la pensée et qui est la structure grammaticale de la phrase.
 
 <!-- id: s14-07-0114 -->
 

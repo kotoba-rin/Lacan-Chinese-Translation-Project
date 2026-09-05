@@ -58,7 +58,7 @@ En vous le recommandant *à titre d’exemple*, bien sûr, ce n’est pas vous l
 
 <!-- id: s14-19-0014 -->
 
-> c’est pourtant, comme je l’ai déjà dit, un ouvrage de grand mérite …ce n’est pas, certes, par ces voies que nous verrons d’aucune façon s’éclairer ce qu’il en est de la nature de la névrose, mais assurément ce n’est pas dire non plus qu’il ne soit pas là aperçu quelque ressort es­sentiel.
+c’est pourtant, comme je l’ai déjà dit, un ouvrage de grand mérite …ce n’est pas, certes, par ces voies que nous verrons d’aucune façon s’éclairer ce qu’il en est de la nature de la névrose, mais assurément ce n’est pas dire non plus qu’il ne soit pas là aperçu quelque ressort es­sentiel.
 
 <!-- id: s14-19-0015 -->
 
@@ -66,15 +66,15 @@ Les notions de structure qui sont ici mises en avant…
 
 <!-- id: s14-19-0016 -->
 
-> et qui d’ailleurs, *au sens où j’emploie pour l’ins­tant ce* mot, ne sont pas le privilège de cet auteur …ce qui s’énonce d’habitude dans la notion de *couches*…
+et qui d’ailleurs, *au sens où j’emploie pour l’ins­tant ce* mot, ne sont pas le privilège de cet auteur …ce qui s’énonce d’habitude dans la notion de *couches*…
 
 <!-- id: s14-19-0017 -->
 
-> que pour la même raison on étage : superficiel ou profond, ou inversement : profond ou superficiel …celles nommément dont part l’auteur, à savoir que dans les cas qu’il envisage…
+que pour la même raison on étage : superficiel ou profond, ou inversement : profond ou superficiel …celles nommément dont part l’auteur, à savoir que dans les cas qu’il envisage…
 
 <!-- id: s14-19-0018 -->
 
-> mais encore faut-il ajouter qu’il les considère de beaucoup comme les plus nombreux dans *la né­vrose* …les cas définis à son sens par ce qu’il appelle « *la régression orale* », se définissent par quelque chose qu’après tout je n’ai pas de raison, puisque c’est là ré­sumé en quelques lignes, de ne pas directement emprunter à son texte… Ce sera plus sûr  :
+mais encore faut-il ajouter qu’il les considère de beaucoup comme les plus nombreux dans *la né­vrose* …les cas définis à son sens par ce qu’il appelle « *la régression orale* », se définissent par quelque chose qu’après tout je n’ai pas de raison, puisque c’est là ré­sumé en quelques lignes, de ne pas directement emprunter à son texte… Ce sera plus sûr  :
 
 <!-- id: s14-19-0019 -->
 
@@ -94,9 +94,9 @@ Muriel ? Si vous voulez bien, vous me rendrez ce ser­vice. Prenez ces gros mac
 
 <!-- id: s14-19-0023 -->
 
-> « *Deuxièmement : je ne serai pas*...Je finis le premier paragraphe - *je me créerai le désir masochique* - donc - *d’être rejeté par ma mère,*
->
-> *en créant ou déformant des situations dans lesquelles quelque substitut de l’image préœdipienne de ma mère refusera mes désirs.* »
+« *Deuxièmement : je ne serai pas*...Je finis le premier paragraphe - *je me créerai le désir masochique* - donc - *d’être rejeté par ma mère,*
+
+*en créant ou déformant des situations dans lesquelles quelque substitut de l’image préœdipienne de ma mère refusera mes désirs.* »
 
 <!-- id: s14-19-0024 -->
 
@@ -132,7 +132,7 @@ Ce qu’aujourd’hui, sur ce sujet, j’avance est ceci : que nulle part n’es
 
 <!-- id: s14-19-0032 -->
 
-> qui, au reste, est juste : que dans la posi­tion orale le sujet, disons veut être refusé …pourquoi il n’est pas vrai de dire que la pulsion orale consiste à vouloir obtenir, nommément le sein.
+qui, au reste, est juste : que dans la posi­tion orale le sujet, disons veut être refusé …pourquoi il n’est pas vrai de dire que la pulsion orale consiste à vouloir obtenir, nommément le sein.
 
 <!-- id: s14-19-0033 -->
 
@@ -148,7 +148,7 @@ Comme sur ce sujet j’ai introduit un registre qui est à proprement parler cel
 
 <!-- id: s14-19-0036 -->
 
-> équiva­lent à ce que, dans la théorie ordinairement reçue, on ap­pelle « *narcissisme secondaire* » …comme j’y ai mis l’agres­sivité comme étant sa dimension constitutive et comme distincte, à ce titre, de la pure et simple agression, nous nous trouvons là dans un éventail de notions :
+équiva­lent à ce que, dans la théorie ordinairement reçue, on ap­pelle « *narcissisme secondaire* » …comme j’y ai mis l’agres­sivité comme étant sa dimension constitutive et comme distincte, à ce titre, de la pure et simple agression, nous nous trouvons là dans un éventail de notions :
 
 <!-- id: s14-19-0037 -->
 
@@ -176,7 +176,7 @@ La seule portée de ma remarque n’est pas d’en *trancher* quant aux faits…
 
 <!-- id: s14-19-0043 -->
 
-> outre que bien sûr d’en trancher impli­querait de chercher de quoi il parle, *à savoir de quelle névrose, de quel moment de son abord* …mais de ceci, qui manque dans un texte théorique, à savoir s’il n’y avait pas à se pencher, précisément ici, au point où les choses s’arrêtent, à savoir sur ce que veut dire et pourquoi est pertinent le terme « *être refusé* » :
+outre que bien sûr d’en trancher impli­querait de chercher de quoi il parle, *à savoir de quelle névrose, de quel moment de son abord* …mais de ceci, qui manque dans un texte théorique, à savoir s’il n’y avait pas à se pencher, précisément ici, au point où les choses s’arrêtent, à savoir sur ce que veut dire et pourquoi est pertinent le terme « *être refusé* » :
 
 <!-- id: s14-19-0044 -->
 
@@ -236,7 +236,7 @@ Le fait que le masochiste instaure une situation réglée à l’avance et régl
 
 <!-- id: s14-19-0058 -->
 
-> quand je dis « du contrat », je dis : du *contrat écrit* …de quelque chose qui dicte tout autant à l’Autre - *et bien plus encore à l’Autre qu’au masochiste lui-même* - toute sa conduite.
+quand je dis « du contrat », je dis : du *contrat écrit* …de quelque chose qui dicte tout autant à l’Autre - *et bien plus encore à l’Autre qu’au masochiste lui-même* - toute sa conduite.
 
 <!-- id: s14-19-0059 -->
 
@@ -268,7 +268,7 @@ Ces *collectionneurs d’injustices* chez qui assurément il décèle leur opér
 
 <!-- id: s14-19-0066 -->
 
-> comme nous l’avons d’ailleurs suffisamment montré… dans les fantas­mes c’est autre chose : je parle ici de la réalité …il vaut peut-être mieux, de temps en temps, être rejeté qu’être accepté trop vite ! La rencontre qu’on peut faire avec telle ou telle personne qui ne demande qu’à vous adop­ter, n’est pas toujours… la meilleure solution n’est pas toujours de ne pas y échapper !
+comme nous l’avons d’ailleurs suffisamment montré… dans les fantas­mes c’est autre chose : je parle ici de la réalité …il vaut peut-être mieux, de temps en temps, être rejeté qu’être accepté trop vite ! La rencontre qu’on peut faire avec telle ou telle personne qui ne demande qu’à vous adop­ter, n’est pas toujours… la meilleure solution n’est pas toujours de ne pas y échapper !
 
 <!-- id: s14-19-0067 -->
 
@@ -280,7 +280,7 @@ Il s’agit de convaincre certaines gens qu’ils ont bien tort de ne pas vouloi
 
 <!-- id: s14-19-0069 -->
 
-> qui nous montrerait sans doute, mais ce n’est pas aujourd’hui que je ferai dans cette direction, même les premiers pas …*que si Freud a écrit quelque part que « l’anatomie c’est le destin », il y a peut-être un moment où, quand on sera reve­nu à une saine perception de ce que Freud nous a découvert, on dira - je ne dis même pas que « la politique c’est l’incons­cient » - mais, tout simplement : <u>l’inconscient c’est la politi­que</u> !*
+qui nous montrerait sans doute, mais ce n’est pas aujourd’hui que je ferai dans cette direction, même les premiers pas …*que si Freud a écrit quelque part que « l’anatomie c’est le destin », il y a peut-être un moment où, quand on sera reve­nu à une saine perception de ce que Freud nous a découvert, on dira - je ne dis même pas que « la politique c’est l’incons­cient » - mais, tout simplement : <u>l’inconscient c’est la politi­que</u> !*
 
 <!-- id: s14-19-0070 -->
 
@@ -300,11 +300,11 @@ Comme je l’ai écrit quelque part : aussi bien le névrotique que ce que nous
 
 <!-- id: s14-19-0074 -->
 
-> car nul discours analytique n’est sans présenter pour nous l’occa­sion - l’interrogeant - l’occasion de nous apercevoir
->
-> de ce qu’il implique dans un certain cours innocent, où il ne sait jamais lui-même - je dis : ce discours analytique –
->
-> jusqu’où il va dans ce qu’il *articule* …ceci nous permet­trait de nous apercevoir, en effet, que si la clef de la position névrotique tient à ce rapport étroit à *la demande* de l’Autre, en tant qu’il \[le névrotique\] essaie de la faire surgir, c’est bien, comme je le disais à l’instant, parce que lui *s’of­fre* et que du même coup nous voyons là le caractère fan­tasmatique et donc caduc de ce mythe, de ce mythe introduit par la prêcherie analytique, et qui s’appelle *l’oblativité*. C’est un mythe de névrosé.
+car nul discours analytique n’est sans présenter pour nous l’occa­sion - l’interrogeant - l’occasion de nous apercevoir
+
+de ce qu’il implique dans un certain cours innocent, où il ne sait jamais lui-même - je dis : ce discours analytique –
+
+jusqu’où il va dans ce qu’il *articule* …ceci nous permet­trait de nous apercevoir, en effet, que si la clef de la position névrotique tient à ce rapport étroit à *la demande* de l’Autre, en tant qu’il \[le névrotique\] essaie de la faire surgir, c’est bien, comme je le disais à l’instant, parce que lui *s’of­fre* et que du même coup nous voyons là le caractère fan­tasmatique et donc caduc de ce mythe, de ce mythe introduit par la prêcherie analytique, et qui s’appelle *l’oblativité*. C’est un mythe de névrosé.
 
 <!-- id: s14-19-0075 -->
 
@@ -378,7 +378,7 @@ Néanmoins, il est clair que *tout ce que nous développons* - en termes plus ou
 
 <!-- id: s14-19-0092 -->
 
-> puisque nous dis­tinguons celle, par exemple, qui serait de l’ordre *prégéni­tal* de celle qui est *génitale* …implique une autre dimension : celle impliquée même par cette différence. Qu’assurément d’abord, un terme comme celui de « *re­lation d’objet* » se soit ici imposé, va de soi. Ce qui n’ôte rien au caractère bouffon de ce qui se passe quand on essaie d’inscrire sous ce terme, de le varier, de l’échelon­ner, selon le plus ou moins d’aise où s’inscrit la relation.
+puisque nous dis­tinguons celle, par exemple, qui serait de l’ordre *prégéni­tal* de celle qui est *génitale* …implique une autre dimension : celle impliquée même par cette différence. Qu’assurément d’abord, un terme comme celui de « *re­lation d’objet* » se soit ici imposé, va de soi. Ce qui n’ôte rien au caractère bouffon de ce qui se passe quand on essaie d’inscrire sous ce terme, de le varier, de l’échelon­ner, selon le plus ou moins d’aise où s’inscrit la relation.
 
 <!-- id: s14-19-0093 -->
 
@@ -454,7 +454,7 @@ Quant à ce qui est de l’union, matrimoniale si vous voulez, ou de tout autre�
 
 <!-- id: s14-19-0111 -->
 
-> *la chose a frappé tous ceux qui l’ont approché : uxorious*[^86] *comme on dit en anglais, uxorieux, ainsi le qualifie Jones, après tant d’autres* …mais dont après tout ce n’est pas un mystère non plus que *sa pensée a buté* jusqu’à la fin sur le thème : « *Que veut une femme ?* »
+*la chose a frappé tous ceux qui l’ont approché : uxorious*[^86] *comme on dit en anglais, uxorieux, ainsi le qualifie Jones, après tant d’autres* …mais dont après tout ce n’est pas un mystère non plus que *sa pensée a buté* jusqu’à la fin sur le thème : « *Que veut une femme ?* »
 
 <!-- id: s14-19-0112 -->
 
@@ -494,9 +494,9 @@ C’est ici que nous trouvons sans doute la raison pourquoi ARISTOTE, comme je l
 
 <!-- id: s14-19-0121 -->
 
-> encore que la langue grecque comme la nôtre soit abso­lument soumise à ce que PICHON appelle la « *sexuisemblance* » , à savoir qu’il y a *le fauteuil* et qu’il y a *la photo…* comme d’ailleurs - tenez - en passant amusez-vous à renverser l’orthographe, ça vous instruira beaucoup sur une di­mension tout à fait dissimulée de la relation analytique :
->
-> *le photeuil (p,h,o)* et *la fauto* (*f,a,u*), c’est très amu­sant …enfin, quoi qu’il en soit, ARISTOTE n’a jamais songé à soutenir à propos d’aucun *étant* - ce qui tout de même s’imposait tout autant de son temps que du nôtre - de savoir s’il y avait une catégorie du sexe.
+encore que la langue grecque comme la nôtre soit abso­lument soumise à ce que PICHON appelle la « *sexuisemblance* » , à savoir qu’il y a *le fauteuil* et qu’il y a *la photo…* comme d’ailleurs - tenez - en passant amusez-vous à renverser l’orthographe, ça vous instruira beaucoup sur une di­mension tout à fait dissimulée de la relation analytique :
+
+*le photeuil (p,h,o)* et *la fauto* (*f,a,u*), c’est très amu­sant …enfin, quoi qu’il en soit, ARISTOTE n’a jamais songé à soutenir à propos d’aucun *étant* - ce qui tout de même s’imposait tout autant de son temps que du nôtre - de savoir s’il y avait une catégorie du sexe.
 
 <!-- id: s14-19-0122 -->
 
@@ -524,7 +524,7 @@ Néanmoins, il reste qu’une certaine ἀλήθηια \[alétheia\]…
 
 <!-- id: s14-19-0128 -->
 
-> à prendre dans ce sens-là, avec l’accent de *Verborgenheit* \[*secret*\] que lui donne HEIDEGGER …peut être, à proprement parler, à instaurer quant à ce dont il s’agit concernant l’acte sexuel.
+à prendre dans ce sens-là, avec l’accent de *Verborgenheit* \[*secret*\] que lui donne HEIDEGGER …peut être, à proprement parler, à instaurer quant à ce dont il s’agit concernant l’acte sexuel.
 
 <!-- id: s14-19-0129 -->
 
@@ -532,9 +532,9 @@ C’est ceci qui justifie l’emploi par moi de ce *schème*, qui je le souligne
 
 <!-- id: s14-19-0130 -->
 
-> dont je vous ai dit parfois que, telle que je la symbolise quand je la fais jouer sur ce qu’on appelle « *le plan projectif* »
->
-> je prétends non pas *faire une métaphore,* mais à proprement parler, *parler du support réel* de ce dont il s’agit …il n’en est bien entendu pas de même dans ce très simple petit schème :
+dont je vous ai dit parfois que, telle que je la symbolise quand je la fais jouer sur ce qu’on appelle « *le plan projectif* »
+
+je prétends non pas *faire une métaphore,* mais à proprement parler, *parler du support réel* de ce dont il s’agit …il n’en est bien entendu pas de même dans ce très simple petit schème :
 
 <!-- id: s14-19-0131 -->
 
@@ -574,7 +574,7 @@ En tant que pour nous analystes…
 
 <!-- id: s14-19-0140 -->
 
-> et pour bien d’autres, avant même que nous soyons apparus - quoique pas bien longtemps - pour une pensée qui date de ce que nous pouvons appeler de son nom après tout : le tournant marxiste …*la véri­té n’a pas d’autre forme que le symptôme*. *Le symptôme, c’est-à-dire la signifiance des discordances entre le réel et ce pour quoi il se donne*.
+et pour bien d’autres, avant même que nous soyons apparus - quoique pas bien longtemps - pour une pensée qui date de ce que nous pouvons appeler de son nom après tout : le tournant marxiste …*la véri­té n’a pas d’autre forme que le symptôme*. *Le symptôme, c’est-à-dire la signifiance des discordances entre le réel et ce pour quoi il se donne*.
 
 <!-- id: s14-19-0141 -->
 
@@ -598,7 +598,7 @@ La position freudienne, il est tout à fait superflu de prétendre s’y rapport
 
 <!-- id: s14-19-0146 -->
 
-> je dis : *la connaissance,* je l’ai épinglée *mystique* pour *la distinguer* de ce qui est né de nos jours sous la forme de *la science* *…*de tout ce qui est de la connaissance, il n’y a, à son principe, *que* l’acte sexuel.
+je dis : *la connaissance,* je l’ai épinglée *mystique* pour *la distinguer* de ce qui est né de nos jours sous la forme de *la science* *…*de tout ce qui est de la connaissance, il n’y a, à son principe, *que* l’acte sexuel.
 
 <!-- id: s14-19-0147 -->
 
@@ -658,7 +658,7 @@ De sorte que la formule que « *le vrai concerne le réel en tant que nous y so
 
 <!-- id: s14-19-0161 -->
 
-> par cet acte sexuel dont j’avance d’abord qu’on n’est pas sûr qu’il existe, quoiqu’il n’y ait que lui qui intéresse *la vérité* …me paraît être la formule la plus juste, au point où nous en arrivons.
+par cet acte sexuel dont j’avance d’abord qu’on n’est pas sûr qu’il existe, quoiqu’il n’y ait que lui qui intéresse *la vérité* …me paraît être la formule la plus juste, au point où nous en arrivons.
 
 <!-- id: s14-19-0162 -->
 
@@ -734,7 +734,7 @@ Je me suis laissé dire…
 
 <!-- id: s14-19-0180 -->
 
-> quoique à la vérité, il faut croire que je m’en laisse de moins en moins dire, puisqu’on ne l’entend plus… enfin, que *je* ne l’entends plus : ça ne vient plus à mes oreilles …je me suis laissé dire pendant un temps, que je camouflais sous ce lieu de l’Autre ce qu’on appelle agréablement \- et après tout pour­quoi pas - l’Esprit. L’ennuyeux c’est que c’est faux.
+quoique à la vérité, il faut croire que je m’en laisse de moins en moins dire, puisqu’on ne l’entend plus… enfin, que *je* ne l’entends plus : ça ne vient plus à mes oreilles …je me suis laissé dire pendant un temps, que je camouflais sous ce lieu de l’Autre ce qu’on appelle agréablement \- et après tout pour­quoi pas - l’Esprit. L’ennuyeux c’est que c’est faux.
 
 <!-- id: s14-19-0181 -->
 
@@ -794,7 +794,7 @@ Avant cela, il pourrait bien être utile de mettre en suspens sa fonction à *ce
 
 <!-- id: s14-19-0195 -->
 
-> *d’être la force qui unirait d’un attrait irrésistible, toutes les cellules et les orga­nes que rassemble notre sac de peau : conception pour le moins mystique, car ils ne font pas la moindre résistance à ce qu’on les en extraie et le reste ne s’en porte pas plus mal !* …c’est évidemment *une fantaisie compensatrice des terreurs liées à ce fantasme orphique* que je viens de vous dé­crire.
+*d’être la force qui unirait d’un attrait irrésistible, toutes les cellules et les orga­nes que rassemble notre sac de peau : conception pour le moins mystique, car ils ne font pas la moindre résistance à ce qu’on les en extraie et le reste ne s’en porte pas plus mal !* …c’est évidemment *une fantaisie compensatrice des terreurs liées à ce fantasme orphique* que je viens de vous dé­crire.
 
 <!-- id: s14-19-0196 -->
 

@@ -38,7 +38,7 @@ On sait - *on souhaite que vous sachiez*, je vous l’in­dique autant que je pe
 
 <!-- id: s14-16-0009 -->
 
-> sur l’éventail des réfections catégorielles qui ont scandé historiquement les concepts du géométrique …que cette *méta-mathématique* - dis-je - vient à radicaliser plus encore le statut du *démontrable.*
+sur l’éventail des réfections catégorielles qui ont scandé historiquement les concepts du géométrique …que cette *méta-mathématique* - dis-je - vient à radicaliser plus encore le statut du *démontrable.*
 
 <!-- id: s14-16-0010 -->
 
@@ -90,7 +90,7 @@ C’est la même chose pour la psychanalyse, et cette sorte de latent, c’est c
 
 <!-- id: s14-16-0022 -->
 
-> à serrer, des départs nécessaires dans un certain champ qui ne peut se définir autrement que le champ critique …de noyer ceci dans quelque chose que j’identifie mal sous le nom vague de « *structuralisme* ».
+à serrer, des départs nécessaires dans un certain champ qui ne peut se définir autrement que le champ critique …de noyer ceci dans quelque chose que j’identifie mal sous le nom vague de « *structuralisme* ».
 
 <!-- id: s14-16-0023 -->
 
@@ -106,7 +106,7 @@ Je dis, ces *faits -* qu’on peut dire *derniers*, comme étant de structure - 
 
 <!-- id: s14-16-0026 -->
 
-> si nous les introduisons de quelque vue, d’ailleurs trivia­les : j’enfonce là des portes ouvertes sur l’ordre des scien­ces …*nos remarques* ne sont pas sans viser à de tels résul­tats qu’il faille bien que cet ordre - *je dis : l’or­dre des sciences* - s’en accommode.
+si nous les introduisons de quelque vue, d’ailleurs trivia­les : j’enfonce là des portes ouvertes sur l’ordre des scien­ces …*nos remarques* ne sont pas sans viser à de tels résul­tats qu’il faille bien que cet ordre - *je dis : l’or­dre des sciences* - s’en accommode.
 
 <!-- id: s14-16-0027 -->
 
@@ -158,7 +158,7 @@ Dès lors, le vide le cerne au plus strict de son essen­ce, c’est-à-dire : l
 
 <!-- id: s14-16-0039 -->
 
-> ce qui est main­tenant *fait* dans l’histoire de la science, j’entends dire : accompli …*y présentifiant son seul support : le langage lui-même*. C’est le sens de l’apparition dans la science, de la nouvelle linguistique.
+ce qui est main­tenant *fait* dans l’histoire de la science, j’entends dire : accompli …*y présentifiant son seul support : le langage lui-même*. C’est le sens de l’apparition dans la science, de la nouvelle linguistique.
 
 <!-- id: s14-16-0040 -->
 
@@ -178,7 +178,7 @@ Le premier *préjugé* à se présenter *dans le contexte psychologisant*…
 
 <!-- id: s14-16-0044 -->
 
-> la différence est là constituée par référence à l’énonciation que nous ve­nons d’en faire - la seule vraie - de l’inconscient …pourrait se formuler de la chute, dans notre énoncé, d’un indice essen­tiel à la structure.
+la différence est là constituée par référence à l’énonciation que nous ve­nons d’en faire - la seule vraie - de l’inconscient …pourrait se formuler de la chute, dans notre énoncé, d’un indice essen­tiel à la structure.
 
 <!-- id: s14-16-0045 -->
 
@@ -222,11 +222,11 @@ Je pourrais dire, si je voulais faire ici du BARBEY D’AUREVILLY : « *Quel est
 
 <!-- id: s14-16-0055 -->
 
-> un jour, imagina-t-il de faire dire à un de ces prêtres démoniaques qu’il excellait à feindre … « *Quel est le secret de l’Église ?* » « *Le secret de l’Église*…
+un jour, imagina-t-il de faire dire à un de ces prêtres démoniaques qu’il excellait à feindre … « *Quel est le secret de l’Église ?* » « *Le secret de l’Église*…
 
 <!-- id: s14-16-0056 -->
 
-> vous le savez, bien fait pour effrayer de vieilles dames provinciales …*C’est qu’il n’y a pas de Purgatoire* ».\[Rires\]
+vous le savez, bien fait pour effrayer de vieilles dames provinciales …*C’est qu’il n’y a pas de Purgatoire* ».\[Rires\]
 
 <!-- id: s14-16-0057 -->
 
@@ -302,7 +302,7 @@ C’est ce pourquoi j’ai introduit dans mes derniers propos logistiques cette 
 
 <!-- id: s14-16-0075 -->
 
-> dont je pense que j’ai suffisamment souligné ce qu’elle vise : d’établir le statut de *l’objet petit(a)* …celle qui s’appelle *le Nombre d’or,* en tant qu’il donne proprement, sous une forme aisément maniable, son statut à ce qui est en question, à savoir : l’incommensu­rable.
+dont je pense que j’ai suffisamment souligné ce qu’elle vise : d’établir le statut de *l’objet petit(a)* …celle qui s’appelle *le Nombre d’or,* en tant qu’il donne proprement, sous une forme aisément maniable, son statut à ce qui est en question, à savoir : l’incommensu­rable.
 
 <!-- id: s14-16-0076 -->
 
@@ -310,7 +310,7 @@ Nous partons de l’idée *- pour l’introduire -* que dans l’acte sexuel il 
 
 <!-- id: s14-16-0077 -->
 
-> si vous entendez cette *substance* au sens où ARISTOTE la désigne dans l’οὐσία \[ousia\], à savoir - *ce qu’on oublie* - c’est que ce qui la spécifie est justement ceci qu’elle ne saurait d’aucune façon être attribuée à aucun su­jet, le sujet étant entendu comme l’ὑποχείμενον \[upokeimenon\] *…*cet *objet petit(a),* en tant qu’il nous sert de module pour interroger celui qui en est supporté, n’a pas à chercher son complément à la dyade : ce qui lui *manque* pour faire deux, ce qui serait bien désirable.
+si vous entendez cette *substance* au sens où ARISTOTE la désigne dans l’οὐσία \[ousia\], à savoir - *ce qu’on oublie* - c’est que ce qui la spécifie est justement ceci qu’elle ne saurait d’aucune façon être attribuée à aucun su­jet, le sujet étant entendu comme l’ὑποχείμενον \[upokeimenon\] *…*cet *objet petit(a),* en tant qu’il nous sert de module pour interroger celui qui en est supporté, n’a pas à chercher son complément à la dyade : ce qui lui *manque* pour faire deux, ce qui serait bien désirable.
 
 <!-- id: s14-16-0078 -->
 
@@ -318,7 +318,7 @@ C’est que la solution de ce rapport, grâce à quoi peut s’établir le *deux
 
 <!-- id: s14-16-0079 -->
 
-> un fort simple calcul que j’ai déjà assez inscrit sur ce tableau pour vous prier de le retrouver vous-mêmes …se formule par a *au* *carré* : 1-*a* = *a*<sup>2</sup> .
+un fort simple calcul que j’ai déjà assez inscrit sur ce tableau pour vous prier de le retrouver vous-mêmes …se formule par a *au* *carré* : 1-*a* = *a*<sup>2</sup> .
 
 <!-- id: s14-16-0080 -->
 
@@ -342,7 +342,7 @@ Je ne clorai pas ce cycle aujourd’hui, c’est pour­quoi je veux l’introdui
 
 <!-- id: s14-16-0085 -->
 
-> s’il est bien là comme devant représenter dans la *dyade sexuelle*, la différence …pour qu’il produise deux résultats entre lesquels est suspen­due aujourd’hui notre question ?
+s’il est bien là comme devant représenter dans la *dyade sexuelle*, la différence …pour qu’il produise deux résultats entre lesquels est suspen­due aujourd’hui notre question ?
 
 <!-- id: s14-16-0086 -->
 
@@ -394,7 +394,7 @@ D’abord, en tant que pour nous…
 
 <!-- id: s14-16-0098 -->
 
-> je veux dire pour ce qui n’est pas dans ARISTOTE mais ce qui est déjà indiqué dans mon enseignement passé …nous le désignerons par le « *pas sans *». Ça nous servira plus tard. Ne vous inquié­tez pas ! Laissez-moi un petit peu vous *conduire*…
+je veux dire pour ce qui n’est pas dans ARISTOTE mais ce qui est déjà indiqué dans mon enseignement passé …nous le désignerons par le « *pas sans *». Ça nous servira plus tard. Ne vous inquié­tez pas ! Laissez-moi un petit peu vous *conduire*…
 
 <!-- id: s14-16-0099 -->
 
@@ -426,7 +426,7 @@ J’essaie de reconstruire une logique qui soit un peu moins boiteuse, du côté
 
 <!-- id: s14-16-0106 -->
 
-> ![](assets/image84.png)
+![](assets/image84.png)
 
 <!-- id: s14-16-0107 -->
 
@@ -458,11 +458,11 @@ Ce n’est pas de ça qu’il s’agit. Il s’agit d’une multiplication logiq
 
 <!-- id: s14-16-0114 -->
 
-> à quoi j’essayé de former ceux qui me suivaient les premières années, au moins pendant un trimestre, histoire de leur faire entendre ce que c’était que le signifiant …à l’opposé du jeu de « *pile ou face* »…
+à quoi j’essayé de former ceux qui me suivaient les premières années, au moins pendant un trimestre, histoire de leur faire entendre ce que c’était que le signifiant …à l’opposé du jeu de « *pile ou face* »…
 
 <!-- id: s14-16-0115 -->
 
-> qui s’inscrit tout uniment en *une succession de + ou de –* *…*le rapport de *l’un et l’autre* s’inscrit sous la forme *d’une multiplication*, j’entends d’une *multiplication logique*, d’une *multiplication booléenne*.
+qui s’inscrit tout uniment en *une succession de + ou de –* *…*le rapport de *l’un et l’autre* s’inscrit sous la forme *d’une multiplication*, j’entends d’une *multiplication logique*, d’une *multiplication booléenne*.
 
 <!-- id: s14-16-0116 -->
 
@@ -590,7 +590,7 @@ Car enfin, si quelque chose est accentué, dans la notion même, si confuse soit
 
 <!-- id: s14-16-0147 -->
 
-> comme dans les formules si agréablement avancées par le « *Petit Hans* » …qu’on *dévisse le pe­tit robinet* ! Il faut bien qu’il reste à sa place.
+comme dans les formules si agréablement avancées par le « *Petit Hans* » …qu’on *dévisse le pe­tit robinet* ! Il faut bien qu’il reste à sa place.
 
 <!-- id: s14-16-0148 -->
 
@@ -634,7 +634,7 @@ Peut–être que tout ce qui nous est indiqué, concernant la sexualité fémini
 
 <!-- id: s14-16-0158 -->
 
-> où d’ailleurs, conformément à l’expé­rience éternelle, joue un rôle si éminent *la mascarade* *…*à sa­voir la façon dont elle use d’un équivalent de l’objet phalli­que, ce qui la fait depuis toujours la porteuse de bijoux –
+où d’ailleurs, conformément à l’expé­rience éternelle, joue un rôle si éminent *la mascarade* *…*à sa­voir la façon dont elle use d’un équivalent de l’objet phalli­que, ce qui la fait depuis toujours la porteuse de bijoux –
 
 <!-- id: s14-16-0159 -->
 
@@ -654,7 +654,7 @@ Mais ne croyez pas que la femme…
 
 <!-- id: s14-16-0163 -->
 
-> là où elle est l’aliénation de la théorie analytique et celle de FREUD lui-même qui, de cette théorie, est le père assez grand pour s’être aperçu de cette aliénation dans la question qu’il répétait : « *Que veut la femme ?* » …ne croyez pas que la femme, sur ce sujet, *s’en porte plus mal* !
+là où elle est l’aliénation de la théorie analytique et celle de FREUD lui-même qui, de cette théorie, est le père assez grand pour s’être aperçu de cette aliénation dans la question qu’il répétait : « *Que veut la femme ?* » …ne croyez pas que la femme, sur ce sujet, *s’en porte plus mal* !
 
 <!-- id: s14-16-0164 -->
 

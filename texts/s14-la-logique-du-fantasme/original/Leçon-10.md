@@ -22,7 +22,7 @@ Sur une logique…
 
 <!-- id: s14-10-0005 -->
 
-> *qui n’est pas une logique, qui est une logique totalement inédite*, une logi­que après tout à laquelle je n’ai pas encore donné, je n’ai pas voulu donner, avant qu’elle ne soit instaurée, *sa dénomination*. J’en tiens une, qui me semble valable, par devers moi, encore m’est-il apparu convenable d’atten­dre de lui avoir donné un suffisant développement, pour lui donner sa désignation *…*sur une logique dont le départ curieux se fait de ce choix aliénant, qui vous est offert d’un « *je ne pense pas* » à un « *je ne suis pas* », on peut tout de même se demander quelle est la place - du fait que nous sommes ici - pour quelque chose qui pourrait bien s’appeler un « *nous pensons !* ». Déjà ça nous mènerait loin, puisque ce « *nous* » - sûrement vous le sentez - dans les chemins où je m’avance, qui sont ceux de l’Autre barré \[A\], pose une ques­tion.
+*qui n’est pas une logique, qui est une logique totalement inédite*, une logi­que après tout à laquelle je n’ai pas encore donné, je n’ai pas voulu donner, avant qu’elle ne soit instaurée, *sa dénomination*. J’en tiens une, qui me semble valable, par devers moi, encore m’est-il apparu convenable d’atten­dre de lui avoir donné un suffisant développement, pour lui donner sa désignation *…*sur une logique dont le départ curieux se fait de ce choix aliénant, qui vous est offert d’un « *je ne pense pas* » à un « *je ne suis pas* », on peut tout de même se demander quelle est la place - du fait que nous sommes ici - pour quelque chose qui pourrait bien s’appeler un « *nous pensons !* ». Déjà ça nous mènerait loin, puisque ce « *nous* » - sûrement vous le sentez - dans les chemins où je m’avance, qui sont ceux de l’Autre barré \[A\], pose une ques­tion.
 
 <!-- id: s14-10-0006 -->
 
@@ -34,7 +34,7 @@ Mais aujourd’hui, je me limiterai à ceci : c’est que, comme tout homme qui 
 
 <!-- id: s14-10-0008 -->
 
-> de l’ordre existant, c’est toujours le seul auquel on ait à se rapporter …c’est la grève ! Or cette grève étant suivie - je l’ai appris malheureusement un petit peu tard - *par l’ensemble de la Fonction publique*, je n’ai pas l’intention d’y faire exception. \[Rires\]
+de l’ordre existant, c’est toujours le seul auquel on ait à se rapporter …c’est la grève ! Or cette grève étant suivie - je l’ai appris malheureusement un petit peu tard - *par l’ensemble de la Fonction publique*, je n’ai pas l’intention d’y faire exception. \[Rires\]
 
 <!-- id: s14-10-0009 -->
 
@@ -42,7 +42,7 @@ C’est pourquoi je ne ferai pas aujourd’hui la le­çon à laquelle vous pouv
 
 <!-- id: s14-10-0010 -->
 
-> celle qui peut-être m’a rendu aveugle, *un petit peu plus tard qu’il ne fallait*, au fait qu’il était mieux que je ne fasse pas ma leçon …qui est la chose suivante, à savoir la présence parmi nous aujourd’hui, du Professeur Roman JAKOBSON, auquel vous savez tous quelle est notre dette, eu égard à ce qui se poursuit ici comme enseignement.
+celle qui peut-être m’a rendu aveugle, *un petit peu plus tard qu’il ne fallait*, au fait qu’il était mieux que je ne fasse pas ma leçon …qui est la chose suivante, à savoir la présence parmi nous aujourd’hui, du Professeur Roman JAKOBSON, auquel vous savez tous quelle est notre dette, eu égard à ce qui se poursuit ici comme enseignement.
 
 <!-- id: s14-10-0011 -->
 
@@ -106,7 +106,7 @@ J’ai voulu le symboliser, le marquer, en quelque sorte d’une image éclatant
 
 <!-- id: s14-10-0026 -->
 
-> en tant qu’il marque la limite statutai­re où la maturité du sujet s’instaurerait quelque part dans le *développement*, est représenté, si vous le voulez bien, pour tous ceux qui auront vu ce quelque chose - et je pense qu’il y en aura suffisamment dans l’assemblée pour que ma parole porte, que les autres se renseignent - pour ceux qui ont lu ou vu au cinéma
+en tant qu’il marque la limite statutai­re où la maturité du sujet s’instaurerait quelque part dans le *développement*, est représenté, si vous le voulez bien, pour tous ceux qui auront vu ce quelque chose - et je pense qu’il y en aura suffisamment dans l’assemblée pour que ma parole porte, que les autres se renseignent - pour ceux qui ont lu ou vu au cinéma
 
 <!-- id: s14-10-0027 -->
 
@@ -114,7 +114,7 @@ J’ai voulu le symboliser, le marquer, en quelque sorte d’une image éclatant
 
 <!-- id: s14-10-0028 -->
 
-> de la formation d’un individu mais tout spécialement d’un enfant …les éducateurs feraient mieux de s’enquérir quelles sont les meilleures voies qui lui permettent de se situer comme étant, de par son existence même, la proie des fan­tasmes de ses petits camarades, avant de chercher à s’a­percevoir à quelle *étape*, à quel *stade*, il sera capable de considérer que le « *je* » et le « *tu* » sont réciproques.
+de la formation d’un individu mais tout spécialement d’un enfant …les éducateurs feraient mieux de s’enquérir quelles sont les meilleures voies qui lui permettent de se situer comme étant, de par son existence même, la proie des fan­tasmes de ses petits camarades, avant de chercher à s’a­percevoir à quelle *étape*, à quel *stade*, il sera capable de considérer que le « *je* » et le « *tu* » sont réciproques.
 
 <!-- id: s14-10-0029 -->
 
@@ -158,7 +158,7 @@ La pensée de FREUD a pour nous son importance de ce que nous constatons qu’il
 
 <!-- id: s14-10-0039 -->
 
-> et de façon en quelque sorte d’autant plus déchirante, que ces traces sont déchirées …de quel objet il s’agit, et de nous ramener à ceci, à ceci qui est ce dont il s’agit, à savoir qu’il s’agit de ne pas le méconnaître.
+et de façon en quelque sorte d’autant plus déchirante, que ces traces sont déchirées …de quel objet il s’agit, et de nous ramener à ceci, à ceci qui est ce dont il s’agit, à savoir qu’il s’agit de ne pas le méconnaître.
 
 <!-- id: s14-10-0040 -->
 
@@ -234,9 +234,9 @@ Car nous avons à le clore *d’une clôture lo­gique*, c’est ce qui est notr
 
 <!-- id: s14-10-0058 -->
 
-> mais je vous donne ma parole que je ne la lui ai même pas, en venant en voiture, laissé entrevoir.
->
-> Ce n’est pas qu’elle me vienne maintenant, mais c’est maintenant qu’il me vient de la lui poser …*je lui demanderais* si lui, dont l’ensei­gnement sur le langage a pour nous de telles conséquences, s’il pense lui aussi que *cet enseignement* est de nature à exiger un changement de position radical au niveau de ce qui constitue disons le sujet chez ceux qui le suivent.
+mais je vous donne ma parole que je ne la lui ai même pas, en venant en voiture, laissé entrevoir.
+
+Ce n’est pas qu’elle me vienne maintenant, mais c’est maintenant qu’il me vient de la lui poser …*je lui demanderais* si lui, dont l’ensei­gnement sur le langage a pour nous de telles conséquences, s’il pense lui aussi que *cet enseignement* est de nature à exiger un changement de position radical au niveau de ce qui constitue disons le sujet chez ceux qui le suivent.
 
 <!-- id: s14-10-0059 -->
 
@@ -244,11 +244,11 @@ Je lui poserai aussi la question de savoir - mais c’est une question très *[a
 
 <!-- id: s14-10-0060 -->
 
-> je ne veux pas employer de grands mots et je me garde de mots qui peuvent suggérer l’ambi­guïté qui s’attache au mot
->
-> « ascèse », voire aux mots qui traînent dans les romans de science-fiction… de « *muta­tion* » \[Lacan ponctue d’un rire\]
->
-> certes nous n’en sommes pas à ces balivernes ! …il s’agit du sujet logique et de ce qu’il comporte, de ce qu’il comporte de discipline de pensée chez ceux qui, à cette position, sont, par leur pensée, introduits.
+je ne veux pas employer de grands mots et je me garde de mots qui peuvent suggérer l’ambi­guïté qui s’attache au mot
+
+« ascèse », voire aux mots qui traînent dans les romans de science-fiction… de « *muta­tion* » \[Lacan ponctue d’un rire\]
+
+certes nous n’en sommes pas à ces balivernes ! …il s’agit du sujet logique et de ce qu’il comporte, de ce qu’il comporte de discipline de pensée chez ceux qui, à cette position, sont, par leur pensée, introduits.
 
 <!-- id: s14-10-0061 -->
 
@@ -280,7 +280,7 @@ Je voulais demander à M. JAKOBSON…
 
 <!-- id: s14-10-0068 -->
 
-> étant donné que je m’intéresse particulièrement aux problèmes de difficultés de lecture et d’écriture, d’accession au langage écrit, de sa valeur symbolique …si dans ces difficultés, et en dehors des erreurs qui peuvent être repérées comme des *lapsus,* s’il pense que certaines structures du langage se rapportent à la structure même du sujet, ou plus exactement à sa position vis-à-vis de l’Autre. Je m’explique par des exemples d’ordre clinique : je ne lis pas l’allemand et je n’ai pu lire les *Kindersprache* [^44] qui doit être bientôt traduit, je crois.
+étant donné que je m’intéresse particulièrement aux problèmes de difficultés de lecture et d’écriture, d’accession au langage écrit, de sa valeur symbolique …si dans ces difficultés, et en dehors des erreurs qui peuvent être repérées comme des *lapsus,* s’il pense que certaines structures du langage se rapportent à la structure même du sujet, ou plus exactement à sa position vis-à-vis de l’Autre. Je m’explique par des exemples d’ordre clinique : je ne lis pas l’allemand et je n’ai pu lire les *Kindersprache* [^44] qui doit être bientôt traduit, je crois.
 
 <!-- id: s14-10-0069 -->
 

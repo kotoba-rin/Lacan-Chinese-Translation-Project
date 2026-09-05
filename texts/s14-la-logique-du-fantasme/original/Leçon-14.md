@@ -10,9 +10,9 @@ J’instaure en somme, toute une *méthode*…
 
 <!-- id: s14-14-0002 -->
 
-> sans la­quelle on peut dire que tout ce qui dans un certain champ reste implicite concernant ce qui définit ces champs,
->
-> à sa­voir la présence comme telle du sujet …eh bien, cette *métho­de* que j’instaure, consiste, permet de parer, si l’on peut dire, à tout ce que cette implication du *sujet* dans ce champ y introduit de *fallace,* de *falsité* à la base.
+sans la­quelle on peut dire que tout ce qui dans un certain champ reste implicite concernant ce qui définit ces champs,
+
+à sa­voir la présence comme telle du sujet …eh bien, cette *métho­de* que j’instaure, consiste, permet de parer, si l’on peut dire, à tout ce que cette implication du *sujet* dans ce champ y introduit de *fallace,* de *falsité* à la base.
 
 <!-- id: s14-14-0003 -->
 
@@ -28,7 +28,7 @@ Il est certain qu’avec des [*amodiations*](http://www.cnrtl.fr/lexicographie/a
 
 <!-- id: s14-14-0006 -->
 
-> *qui est précisément celui que manifes­tent ce que j’appelle - et elles ne sont pas univoques - les fallaces du sujet* …trouve le mieux a résister. Enfin, il n’en reste pas moins que c’est là que ces concepts se seront forgés et qu’on peut même dire plus : c’est que toute la contingence de l’aventure, à savoir le mode–même de ce qu’ils auront eu à affronter, *ces concepts*, à savoir :
+*qui est précisément celui que manifes­tent ce que j’appelle - et elles ne sont pas univoques - les fallaces du sujet* …trouve le mieux a résister. Enfin, il n’en reste pas moins que c’est là que ces concepts se seront forgés et qu’on peut même dire plus : c’est que toute la contingence de l’aventure, à savoir le mode–même de ce qu’ils auront eu à affronter, *ces concepts*, à savoir :
 
 <!-- id: s14-14-0007 -->
 
@@ -48,7 +48,7 @@ Voilà donc pourquoi, aujourd’hui nous arrivons à un terrain encore un peu pl
 
 <!-- id: s14-14-0011 -->
 
-> je suppose que mes auditeurs d’aujourd’hui y étaient tous, là, dans mes deux pré­cédentes leçons …que nous qualifierons - ce quadrangle - de celui qui connote le moment de *la répétition.*
+je suppose que mes auditeurs d’aujourd’hui y étaient tous, là, dans mes deux pré­cédentes leçons …que nous qualifierons - ce quadrangle - de celui qui connote le moment de *la répétition.*
 
 <!-- id: s14-14-0012 -->
 
@@ -96,7 +96,7 @@ ce sur quoi j’insisterai une fois de plus tout à l’heure. C’est même là
 
 <!-- id: s14-14-0023 -->
 
-> que nous appellerons, pour introduire son terme aujourd’hui : *l’acte psychanalytique­* …que quelque recours à *la règle à calcul* peut évidemment être exigible.
+que nous appellerons, pour introduire son terme aujourd’hui : *l’acte psychanalytique­* …que quelque recours à *la règle à calcul* peut évidemment être exigible.
 
 <!-- id: s14-14-0024 -->
 
@@ -112,7 +112,7 @@ On pourrait remarquer à ce propos, que tout ce qui s’énonce dans la théorie
 
 <!-- id: s14-14-0027 -->
 
-> à l’usage de ces êtres à divers titres souffrants ou insatisfaits dont nous prenons la charge …le caractère d’*acte* qu’il y a dans le fait *de la rencontre sexuelle*.
+à l’usage de ces êtres à divers titres souffrants ou insatisfaits dont nous prenons la charge …le caractère d’*acte* qu’il y a dans le fait *de la rencontre sexuelle*.
 
 <!-- id: s14-14-0028 -->
 
@@ -120,7 +120,7 @@ Toute la théorie analytique met l’accent sur le mode de *la relation sexuelle
 
 <!-- id: s14-14-0029 -->
 
-> en tout cas à divers titres, et à des titres sur lesquels je me suis permis d’élever à plusieurs reprises quelques objections …à qualifier comme plus ou moins satisfaisante telle ou telle forme de ce qu’on appelle *la relation sexuelle.*
+en tout cas à divers titres, et à des titres sur lesquels je me suis permis d’élever à plusieurs reprises quelques objections …à qualifier comme plus ou moins satisfaisante telle ou telle forme de ce qu’on appelle *la relation sexuelle.*
 
 <!-- id: s14-14-0030 -->
 
@@ -132,7 +132,7 @@ Comme c’est une coupure qui, comme toute notre expé­rience le démontre sura
 
 <!-- id: s14-14-0032 -->
 
-> au reste parfaitement articulées et repérées, sinon conçues à leur véritable portée dans la théorie analytique …en sont le ré­sultat, il est bien clair que le fait d’éluder ce qu’il en est du relief comme tel de l’*acte*, est assurément quelque chose de lié à ce que j’appellerai le tempérament, *le mode tempéré* sous lequel la théorie s’avance, dans le dessein manifeste de ne pas traîner avec elle trop de scandale.
+au reste parfaitement articulées et repérées, sinon conçues à leur véritable portée dans la théorie analytique …en sont le ré­sultat, il est bien clair que le fait d’éluder ce qu’il en est du relief comme tel de l’*acte*, est assurément quelque chose de lié à ce que j’appellerai le tempérament, *le mode tempéré* sous lequel la théorie s’avance, dans le dessein manifeste de ne pas traîner avec elle trop de scandale.
 
 <!-- id: s14-14-0033 -->
 
@@ -140,7 +140,7 @@ Le pire étant bien entendu celui-ci, qui ne semble pas pour autant réduit par 
 
 <!-- id: s14-14-0034 -->
 
-> que la théorie le reconnaisse ou non, y mette l’accent ou ne l’y mette pas, peu nous importe …l’expérience, semble-t-il, prouve surabondamment que depuis des temps qui ne datent pas d’hier, où parmi les nombreuses tentatives qui se sont faites, plus ou moins héritées des ex­périences autrement complexes qui furent celles de ce qu’on appelle « *le temps de l’homme du plaisir* », que ce à quoi ont pu aboutir, dans *certaines formules outrées* des milieux libertaires du début de ce siècle par exemple, dont il y avait encore quelques exemplaires surnageant, flottant, dans des milieux, sur d’autres terrains autrement sérieux, j’en­tends sur des terrains révolutionnaires, on a pu voir encore se maintenir la formule qu’après tout, enfin, l’acte sexuel ne devait pas être pris pour avoir plus d’importance que celle de boire un verre d’eau.
+que la théorie le reconnaisse ou non, y mette l’accent ou ne l’y mette pas, peu nous importe …l’expérience, semble-t-il, prouve surabondamment que depuis des temps qui ne datent pas d’hier, où parmi les nombreuses tentatives qui se sont faites, plus ou moins héritées des ex­périences autrement complexes qui furent celles de ce qu’on appelle « *le temps de l’homme du plaisir* », que ce à quoi ont pu aboutir, dans *certaines formules outrées* des milieux libertaires du début de ce siècle par exemple, dont il y avait encore quelques exemplaires surnageant, flottant, dans des milieux, sur d’autres terrains autrement sérieux, j’en­tends sur des terrains révolutionnaires, on a pu voir encore se maintenir la formule qu’après tout, enfin, l’acte sexuel ne devait pas être pris pour avoir plus d’importance que celle de boire un verre d’eau.
 
 <!-- id: s14-14-0035 -->
 
@@ -152,11 +152,11 @@ Je me souviens d’avoir lu autrefois en allemand un fort joli petit volume, qui
 
 <!-- id: s14-14-0037 -->
 
-> c’était quand même le commencement, avant la guerre, de quelque chose qui ressemblait fort au livre de poche,
->
-> et *sur la couverture il y avait* [*le ravissant museau de* M<sup>me</sup> KOL<span id="Retourkollontai" class="anchor"></span>LONTAI](#kollontai)[^56] - c’était la première équipe –
->
-> et elle fut, si mon souvenir est bon, ambas­sadrice à Stockholm …c’étaient de charmants contes sur ce thème.
+c’était quand même le commencement, avant la guerre, de quelque chose qui ressemblait fort au livre de poche,
+
+et *sur la couverture il y avait* [*le ravissant museau de* M<sup>me</sup> KOL<span id="Retourkollontai" class="anchor"></span>LONTAI](#kollontai)[^56] - c’était la première équipe –
+
+et elle fut, si mon souvenir est bon, ambas­sadrice à Stockholm …c’étaient de charmants contes sur ce thème.
 
 <!-- id: s14-14-0038 -->
 
@@ -196,7 +196,7 @@ Structurer ça, au niveau de la pulsion comme telle, n’est pas facile. Mais au
 
 <!-- id: s14-14-0047 -->
 
-> ils appellent cela l’*ambivalence*. On a tellement usé de ce mot *ambivalence,* qu’il ne veut absolument plus rien dire ! …de *l’ambiguïté de l’amour*.
+ils appellent cela l’*ambivalence*. On a tellement usé de ce mot *ambivalence,* qu’il ne veut absolument plus rien dire ! …de *l’ambiguïté de l’amour*.
 
 <!-- id: s14-14-0048 -->
 
@@ -204,9 +204,9 @@ Est-ce qu’un *acte sexuel* est moins un *acte sexuel…*
 
 <!-- id: s14-14-0049 -->
 
-> n’est qu’un acte immature qui sera à renvoyer - pour nous - dans le champ d’un sujet inachevé,
->
-> resté accroché à l’arriération de quel­que stade archaïque …s’il est commis, cet *acte sexuel*, dans *la haine* tout simplement ? Le cas semble ne pas intéresser la théorie analytique.
+n’est qu’un acte immature qui sera à renvoyer - pour nous - dans le champ d’un sujet inachevé,
+
+resté accroché à l’arriération de quel­que stade archaïque …s’il est commis, cet *acte sexuel*, dans *la haine* tout simplement ? Le cas semble ne pas intéresser la théorie analytique.
 
 <!-- id: s14-14-0050 -->
 
@@ -254,7 +254,7 @@ Le signe de la maturité génitale étant que cet objet réalisé dans le conjoi
 
 <!-- id: s14-14-0061 -->
 
-> puisqu’il s’agit, après tout, d’une formule qui tend à s’adapter à des mœurs aussi conformes qu’on peut le souhaiter …cet *objet*, il serait normal et signe de maturité *qu’on puisse en faire*, dans un délai que nous appellerons décent, *le deuil*.
+puisqu’il s’agit, après tout, d’une formule qui tend à s’adapter à des mœurs aussi conformes qu’on peut le souhaiter …cet *objet*, il serait normal et signe de maturité *qu’on puisse en faire*, dans un délai que nous appellerons décent, *le deuil*.
 
 <!-- id: s14-14-0062 -->
 
@@ -290,13 +290,13 @@ L’acte analytique bien sûr, dira-t-on, c’est *l’interprétation*. Mais co
 
 <!-- id: s14-14-0070 -->
 
-> d’une façon qui n’est pas sans comporter, je dois dire, quelque promesse …nous avons tout de même quelque chose de très strict dans la théorie, qui conjugue *la fonction de l’analyste*…
+d’une façon qui n’est pas sans comporter, je dois dire, quelque promesse …nous avons tout de même quelque chose de très strict dans la théorie, qui conjugue *la fonction de l’analyste*…
 
 <!-- id: s14-14-0071 -->
 
-> je ne dis pas la « *relation analytique* », sur laquelle je viens de très exactement diriger mon index,
->
-> pour dire qu’elle a en cette occasion une fonction d’écrantage …que *la fonction analytique* donc, paraît se rapprocher de quelque chose qui est du registre de *l’acte*.
+je ne dis pas la « *relation analytique* », sur laquelle je viens de très exactement diriger mon index,
+
+pour dire qu’elle a en cette occasion une fonction d’écrantage …que *la fonction analytique* donc, paraît se rapprocher de quelque chose qui est du registre de *l’acte*.
 
 <!-- id: s14-14-0072 -->
 
@@ -304,7 +304,7 @@ Ceci n’est pas sans promesse, nous allons le voir. Pour cette raison : c’est
 
 <!-- id: s14-14-0073 -->
 
-> bien sûr, pour nous le plus vif et le plus intéressant à déterminer : le point en bas à gauche du quadrangle qui nous concerne, au niveau où il s’agit de l’inconscient et du symptôme … *l’acte analytique* a, je dirai d’une façon assez complète, la structure du refou­lement, d’une sorte de position « *à côté »*.
+bien sûr, pour nous le plus vif et le plus intéressant à déterminer : le point en bas à gauche du quadrangle qui nous concerne, au niveau où il s’agit de l’inconscient et du symptôme … *l’acte analytique* a, je dirai d’une façon assez complète, la structure du refou­lement, d’une sorte de position « *à côté »*.
 
 <!-- id: s14-14-0074 -->
 
@@ -320,9 +320,9 @@ Tous ceux qui sont ici analystes ont au moins une vague notion de ce terme. Son 
 
 <!-- id: s14-14-0077 -->
 
-> ayant une structure sur laquel­le tous ne sont pas forcément à s’entendre,
->
-> mais sur lesquels on peut tout de même se reconnaître …sont susceptibles de se produire dans l’analyse et dans un certain rapport de dépendance plus ou moins grande, au regard non pas de la *si­tuation* ou de la *relation* analytique, mais d’un moment précis de l’intervention de l’analyste : de quelque chose, donc, qui doit avoir quelque rapport avec ce que je considère comme pas défini du tout, à savoir *l’acte psychanalytique.*
+ayant une structure sur laquel­le tous ne sont pas forcément à s’entendre,
+
+mais sur lesquels on peut tout de même se reconnaître …sont susceptibles de se produire dans l’analyse et dans un certain rapport de dépendance plus ou moins grande, au regard non pas de la *si­tuation* ou de la *relation* analytique, mais d’un moment précis de l’intervention de l’analyste : de quelque chose, donc, qui doit avoir quelque rapport avec ce que je considère comme pas défini du tout, à savoir *l’acte psychanalytique.*
 
 <!-- id: s14-14-0078 -->
 
@@ -338,7 +338,7 @@ On sait qu’il est quelque chose qui s’appelle *l’acting out, que ça a rap
 
 <!-- id: s14-14-0081 -->
 
-> c’est dans mon dialogue avec Jean HIPPOLYTE, concernant la *Verneinung* *…*où j’ai mis en relief un très bel exemple, excellent témoi­gnage, auquel on peut faire foi, car c’est un témoignage vraiment « *innocent* », c’est le cas de le dire, celui d’Ernst KRIS, dans *l’article* qu’il a fait sous le titre *Ego Psychology and Interpretation in Psychoanalytic Therapy, Psychoanalytic Quaterly, volume XX, n°1, janvier l951, pp. 15-30*.
+c’est dans mon dialogue avec Jean HIPPOLYTE, concernant la *Verneinung* *…*où j’ai mis en relief un très bel exemple, excellent témoi­gnage, auquel on peut faire foi, car c’est un témoignage vraiment « *innocent* », c’est le cas de le dire, celui d’Ernst KRIS, dans *l’article* qu’il a fait sous le titre *Ego Psychology and Interpretation in Psychoanalytic Therapy, Psychoanalytic Quaterly, volume XX, n°1, janvier l951, pp. 15-30*.
 
 <!-- id: s14-14-0082 -->
 
@@ -358,7 +358,7 @@ Ce n’est pas une des moindres distorsions de la théorie que celle, par exempl
 
 <!-- id: s14-14-0086 -->
 
-> comme si le fait de se retrouver trois fois par semaine était une réalité si simple ! …a quelque chose assurément, *qui laisse fort à penser sur la définition* que nous avons à donner de ce qu’il en est *de la réalité dans l’analyse*.
+comme si le fait de se retrouver trois fois par semaine était une réalité si simple ! …a quelque chose assurément, *qui laisse fort à penser sur la définition* que nous avons à donner de ce qu’il en est *de la réalité dans l’analyse*.
 
 <!-- id: s14-14-0087 -->
 
@@ -390,7 +390,7 @@ Et puis après ? Après ? Ceci bien sûr n’a pour nous d’intérêt, main­te
 
 <!-- id: s14-14-0094 -->
 
-> encore que bien sûr ça en ait toujours un, perma­nent, pour tous les analystes …que ceci n’a d’intérêt main­tenant que si ça nous permet d’avancer un peu dans la structure.
+encore que bien sûr ça en ait toujours un, perma­nent, pour tous les analystes …que ceci n’a d’intérêt main­tenant que si ça nous permet d’avancer un peu dans la structure.
 
 <!-- id: s14-14-0095 -->
 
@@ -418,7 +418,7 @@ C’est à savoir, que si les auteurs…
 
 <!-- id: s14-14-0101 -->
 
-> et je ne vais pas vous faire l’histoire des auteurs qui l’ont introduit, parce que le temps me presse …si les auteurs se sont servis d’« *acting out* », du terme *acting out* en anglais, eh bien, ils savaient très bien ce qu’ils voulaient dire et je vais vous en apporter la preuve.
+et je ne vais pas vous faire l’histoire des auteurs qui l’ont introduit, parce que le temps me presse …si les auteurs se sont servis d’« *acting out* », du terme *acting out* en anglais, eh bien, ils savaient très bien ce qu’ils voulaient dire et je vais vous en apporter la preuve.
 
 <!-- id: s14-14-0102 -->
 
@@ -426,11 +426,11 @@ Non pas en me servant de ce que j’aurais cru pouvoir trouver dans un excellent
 
 <!-- id: s14-14-0103 -->
 
-> qui est aussi un ad­mirable instrument - quoique en un seul volume - et qui parait en Amérique …pour trouver à *to act out,* la définition suivan­te, que j’espère retrouver… Voilà ! : *to*…
+qui est aussi un ad­mirable instrument - quoique en un seul volume - et qui parait en Amérique …pour trouver à *to act out,* la définition suivan­te, que j’espère retrouver… Voilà ! : *to*…
 
 <!-- id: s14-14-0104 -->
 
-> je m’excuse de mon… de mon anglais… de mon articulation, mon « *spelling* » insuffisant en anglais …*to represent,* entre parenthèses : *as a play, story and so on, in action –* donc : *représenter* com­me un jeu sur la scène, une histoire en action, *as opposed :* comme opposée, *to reading :* à la lecture. Comme par exemple : *as, to act out a scene one has readed.* Donc, comme *act out* \- je ne dis pas : « *jouer* » , puisque c’est *act out,* n’est-ce pas, ce n’est pas *jouer* \[*to play*\] - *une scène qu’on a lue*. Donc il y a *deux* temps.
+je m’excuse de mon… de mon anglais… de mon articulation, mon « *spelling* » insuffisant en anglais …*to represent,* entre parenthèses : *as a play, story and so on, in action –* donc : *représenter* com­me un jeu sur la scène, une histoire en action, *as opposed :* comme opposée, *to reading :* à la lecture. Comme par exemple : *as, to act out a scene one has readed.* Donc, comme *act out* \- je ne dis pas : « *jouer* » , puisque c’est *act out,* n’est-ce pas, ce n’est pas *jouer* \[*to play*\] - *une scène qu’on a lue*. Donc il y a *deux* temps.
 
 <!-- id: s14-14-0105 -->
 
@@ -470,7 +470,7 @@ Il avait un certain sens du τόπος \[ topos \], lui aussi, quand il s’agis
 
 <!-- id: s14-14-0114 -->
 
-> au livre « *êta* », si mon souvenir est bon, de la *Métaphysique* [^64], mais je ne vous jure pas …de ce lit si bel et bien, il ne le con­sidère jamais comme τόπος \[topos\] de l’acte sexuel.
+au livre « *êta* », si mon souvenir est bon, de la *Métaphysique* [^64], mais je ne vous jure pas …de ce lit si bel et bien, il ne le con­sidère jamais comme τόπος \[topos\] de l’acte sexuel.
 
 <!-- id: s14-14-0115 -->
 
@@ -506,7 +506,7 @@ Le *petit( a)*…
 
 <!-- id: s14-14-0123 -->
 
-> forme fermée, forme donnée au départ de l’expérience analytique, sous laquelle se présente le sujet, production de son histoire et nous dirons même plus : déchet de cette histoire, forme qui est celle que je désigne sous le nom de *l’objet(a)* …a le même rapport avec le A de l’Au­tre sexuel, que ce *A de la vérité*, du champ d’intrusion de ce quelque chose qui boite, qui pèche dans le sujet, sous le nom de *symptôme* - le même rapport que ce champ *petit( a)*, avec quoi ? Avec l’ensemble !
+forme fermée, forme donnée au départ de l’expérience analytique, sous laquelle se présente le sujet, production de son histoire et nous dirons même plus : déchet de cette histoire, forme qui est celle que je désigne sous le nom de *l’objet(a)* …a le même rapport avec le A de l’Au­tre sexuel, que ce *A de la vérité*, du champ d’intrusion de ce quelque chose qui boite, qui pèche dans le sujet, sous le nom de *symptôme* - le même rapport que ce champ *petit( a)*, avec quoi ? Avec l’ensemble !
 
 <!-- id: s14-14-0124 -->
 
@@ -518,11 +518,11 @@ Toute coupure faite dans ce champ … et ce n’est pas dire que l’analyste qu
 
 <!-- id: s14-14-0126 -->
 
-> comme on serait évidemment un tant soit peu tenté de le faire : les grossières analogies entre l’analyste et le père, par exemple, puisque aussi bien, ce pourrait aussi être là que fonctionne cette mesure destinée à déterminer tous les rapports de l’ensemble et nommément ceux du *petit( a)* avec le champ du A sexuel. Ne nous pressons pas, je vous en prie, vers des formules aussi précipitées, d’autant plus qu’elles sont faus­ses …ceci n’empêche pas qu’il y a le plus étroit rapport en­tre le champ du grand A de l’intervention véridique et la fa­çon dont le sujet vient à présentifier le *petit( a)*, ne serait-ce…
+comme on serait évidemment un tant soit peu tenté de le faire : les grossières analogies entre l’analyste et le père, par exemple, puisque aussi bien, ce pourrait aussi être là que fonctionne cette mesure destinée à déterminer tous les rapports de l’ensemble et nommément ceux du *petit( a)* avec le champ du A sexuel. Ne nous pressons pas, je vous en prie, vers des formules aussi précipitées, d’autant plus qu’elles sont faus­ses …ceci n’empêche pas qu’il y a le plus étroit rapport en­tre le champ du grand A de l’intervention véridique et la fa­çon dont le sujet vient à présentifier le *petit( a)*, ne serait-ce…
 
 <!-- id: s14-14-0127 -->
 
-> comme vous venez de le voir, en apparence, dans l’exemple em­prunté à Ernst KRIS …qu’en manière de protestation à une cou­pure anticipée.
+comme vous venez de le voir, en apparence, dans l’exemple em­prunté à Ernst KRIS …qu’en manière de protestation à une cou­pure anticipée.
 
 <!-- id: s14-14-0128 -->
 
@@ -542,9 +542,9 @@ pour autant que dans l’analyse, je dis : dans l’analyse d’autant plus que 
 
 <!-- id: s14-14-0132 -->
 
-> avant que je pour­suive plus loin : ce qui ne se fera qu’après les vacances de Pâques, pour la raison que
->
-> la prochaine de nos séances, qui sera la dernière *avant*, je la réserverai à quelqu’un qui m’a demandé d’intervenir sur ce que j’ai avancé, au moins depuis le début du mois de janvier, concernant cette topologie, celle qui comprend aussi bien les quatre termes de *l’aliénation* que ceux de *la répétition* …il vaut bien, dans ces conditions, de s’attarder sur ce qu’il en est de ce champ, en tant que, dans l’analyse, c’est là que se trouve réservée la place de l’acte sexuel.
+avant que je pour­suive plus loin : ce qui ne se fera qu’après les vacances de Pâques, pour la raison que
+
+la prochaine de nos séances, qui sera la dernière *avant*, je la réserverai à quelqu’un qui m’a demandé d’intervenir sur ce que j’ai avancé, au moins depuis le début du mois de janvier, concernant cette topologie, celle qui comprend aussi bien les quatre termes de *l’aliénation* que ceux de *la répétition* …il vaut bien, dans ces conditions, de s’attarder sur ce qu’il en est de ce champ, en tant que, dans l’analyse, c’est là que se trouve réservée la place de l’acte sexuel.
 
 <!-- id: s14-14-0133 -->
 
@@ -576,7 +576,7 @@ Et pourquoi le pénis se trouve-t-il le symboliser ? Précisément d’être ce 
 
 <!-- id: s14-14-0140 -->
 
-> sous forme de la *détumescence,* matérialise ce défaut, ce *manque à* *la jouissance* *…*matérialise le manque qui dérive, ou plus exac­tement qui paraît dériver, de *la loi du plaisir*.
+sous forme de la *détumescence,* matérialise ce défaut, ce *manque à* *la jouissance* *…*matérialise le manque qui dérive, ou plus exac­tement qui paraît dériver, de *la loi du plaisir*.
 
 <!-- id: s14-14-0141 -->
 

@@ -86,9 +86,9 @@ Simple­ment, pour signaler qu’il se passe, qu’il peut se passer, il peut se
 
 <!-- id: s14-24-0021 -->
 
-> qui ne sont bien sûr pas moins des *paroles pleines d’incidences*, et qui pourraient aussi les intéresser, les logiciens, mais, chose curieuse, qu’ils n’abordent qu’à les contourner et en quelque sorte de biais, et qui fait que, ce champ,
->
-> ils l’ont laissé jusqu’à ce jour as­sez intact …ces phrases que j’ai appelées *impératives, im­ploratives* pour autant qu’après tout - quoi ? - elles sollicitent bien quelque chose qui, si nous nous en référons à ce que j’ai défini comme *acte*, ne peut qu’intéresser la logique : si elles sollicitent des interventions actives ce peut être quel­quefois au titre d’actes.
+qui ne sont bien sûr pas moins des *paroles pleines d’incidences*, et qui pourraient aussi les intéresser, les logiciens, mais, chose curieuse, qu’ils n’abordent qu’à les contourner et en quelque sorte de biais, et qui fait que, ce champ,
+
+ils l’ont laissé jusqu’à ce jour as­sez intact …ces phrases que j’ai appelées *impératives, im­ploratives* pour autant qu’après tout - quoi ? - elles sollicitent bien quelque chose qui, si nous nous en référons à ce que j’ai défini comme *acte*, ne peut qu’intéresser la logique : si elles sollicitent des interventions actives ce peut être quel­quefois au titre d’actes.
 
 <!-- id: s14-24-0022 -->
 
@@ -116,9 +116,9 @@ C’est dire que ce qui est dans le discours, ob­jet de la logique, est donc li
 
 <!-- id: s14-24-0028 -->
 
-> non pas certes énoncée au départ par celui qui est ici le grand initiateur, à savoir ARISTOTE,
->
-> énoncée seulement par lui d’une façon ambiguë, par­tielle, mais assurément dégagée dans les progrès ultérieurs …nous voyons, au niveau de ce que j’ai appelé *les conditions nécessaires, mise en valeur la fonction de la négation en tant qu’elle exclut le tiers*.
+non pas certes énoncée au départ par celui qui est ici le grand initiateur, à savoir ARISTOTE,
+
+énoncée seulement par lui d’une façon ambiguë, par­tielle, mais assurément dégagée dans les progrès ultérieurs …nous voyons, au niveau de ce que j’ai appelé *les conditions nécessaires, mise en valeur la fonction de la négation en tant qu’elle exclut le tiers*.
 
 <!-- id: s14-24-0029 -->
 
@@ -218,7 +218,7 @@ Mais ne l’oubliez pas, j’ai affaire à des *psychanalystes*, c’est-à-dire
 
 <!-- id: s14-24-0053 -->
 
-> ce que je dis là est tangible et presque à la portée de tout le monde …ont le plus de tendance à l’oublier et, bien sûr, ils ont pour cela de fortes raisons. Je vais les dire tout de suite.
+ce que je dis là est tangible et presque à la portée de tout le monde …ont le plus de tendance à l’oublier et, bien sûr, ils ont pour cela de fortes raisons. Je vais les dire tout de suite.
 
 <!-- id: s14-24-0054 -->
 
@@ -226,7 +226,7 @@ Donc la question est là, je la pointe en passant, c’est qu’en somme on inte
 
 <!-- id: s14-24-0055 -->
 
-> s’il est vrai, suivant FREUD, ce que j’ai dit tout à l’heure …est *la vérité d’un discours* qui peut dire *oui* et *non* *en même temps*, *de la même chose*, puisque c’est un discours non soumis au *principe de contradiction,* et qui, se disant, se faisant, comme « *drôle de discours »*, introduit une *vérité*.
+s’il est vrai, suivant FREUD, ce que j’ai dit tout à l’heure …est *la vérité d’un discours* qui peut dire *oui* et *non* *en même temps*, *de la même chose*, puisque c’est un discours non soumis au *principe de contradiction,* et qui, se disant, se faisant, comme « *drôle de discours »*, introduit une *vérité*.
 
 <!-- id: s14-24-0056 -->
 
@@ -538,7 +538,7 @@ La définition du désir inconscient : c’est ça…
 
 <!-- id: s14-24-0133 -->
 
-> que nous permet­tent d’exprimer les subtilités de la négation, en français …à savoir ce point de chute que nous désigne le « *pas* », le « *point* », dont j’ai fait déjà usage sur le sujet du « *pas de sens* ».
+que nous permet­tent d’exprimer les subtilités de la négation, en français …à savoir ce point de chute que nous désigne le « *pas* », le « *point* », dont j’ai fait déjà usage sur le sujet du « *pas de sens* ».
 
 <!-- id: s14-24-0134 -->
 
@@ -598,9 +598,9 @@ Ce n’est pas parce que FREUD avait affaire à des illettrés que ça ne reste 
 
 <!-- id: s14-24-0148 -->
 
-> conformément à ce que je vous ai apporté au début de cette année,
->
-> concernant le couplage d’une part du « *je ne pense pas* », avec la structure grammaticale …de vous dire que c’est à la place même de cette structure grammaticale qu’au quatrième sommet du quadrangle surgit *l’objet(a)*, et d’ajouter - *puisque nous venons déjà d’en désigner deux, les deux à gauche -* que l’angle *en bas et à droite*, celui d’où « *je ne suis pas* » laisse la place - qu’il écorne au niveau de l’inconscient - à ceci qui est *le complément de la structure purement grammaticale signifiante du fantasme*, à savoir ce dont je suis parti aujourd’hui et qui s’appelle : une *signification de vérité*.
+conformément à ce que je vous ai apporté au début de cette année,
+
+concernant le couplage d’une part du « *je ne pense pas* », avec la structure grammaticale …de vous dire que c’est à la place même de cette structure grammaticale qu’au quatrième sommet du quadrangle surgit *l’objet(a)*, et d’ajouter - *puisque nous venons déjà d’en désigner deux, les deux à gauche -* que l’angle *en bas et à droite*, celui d’où « *je ne suis pas* » laisse la place - qu’il écorne au niveau de l’inconscient - à ceci qui est *le complément de la structure purement grammaticale signifiante du fantasme*, à savoir ce dont je suis parti aujourd’hui et qui s’appelle : une *signification de vérité*.
 
 <!-- id: s14-24-0149 -->
 
@@ -660,7 +660,7 @@ Et si vous voulez que je vous donne quelque chose qui vous serve à la fois de l
 
 <!-- id: s14-24-0163 -->
 
-> je ne peux pas dire que ce doive être pour vous lecture bien agréable : *c’est emmerdant comme la fumée !* …mais tout de même, comme exemple d’une véritable saloperie en matière scientifique, je vous recommanderai la lecture, dans HAVELOCK ELLIS, du cas célèbre de FLORIE.
+je ne peux pas dire que ce doive être pour vous lecture bien agréable : *c’est emmerdant comme la fumée !* …mais tout de même, comme exemple d’une véritable saloperie en matière scientifique, je vous recommanderai la lecture, dans HAVELOCK ELLIS, du cas célèbre de FLORIE.
 
 <!-- id: s14-24-0164 -->
 
@@ -676,9 +676,9 @@ D’aucune façon, le moment où FLORIE franchit…
 
 <!-- id: s14-24-0167 -->
 
-> dans le sens de ce quelque chose qui peut en quelque sorte arriver au névrosé sans que jamais il y ait rien pour lui d’équivalent à la jouissance perverse, mais « franchit » dans le sens ambigu qui en fait à la fois *un passage à l’acte* et,
->
-> pour nous qui lisons, *un acting-out* …quelque chose qui fait que FLORIE, affectée de ses fantasmes de flagellation, arrive une fois à en franchir l’interdit qu’ils représentent pour elle.
+dans le sens de ce quelque chose qui peut en quelque sorte arriver au névrosé sans que jamais il y ait rien pour lui d’équivalent à la jouissance perverse, mais « franchit » dans le sens ambigu qui en fait à la fois *un passage à l’acte* et,
+
+pour nous qui lisons, *un acting-out* …quelque chose qui fait que FLORIE, affectée de ses fantasmes de flagellation, arrive une fois à en franchir l’interdit qu’ils représentent pour elle.
 
 <!-- id: s14-24-0168 -->
 
@@ -710,7 +710,7 @@ mise à part celle d’ULYSSE, où le lit est un tronc enraciné dans le sol ...
 
 <!-- id: s14-24-0175 -->
 
-> et puis surtout à notre époque, hein, où toutes les choses se balancent dans le mur ! …*ça laisse un sérieux doute*, mais enfin c’est une place qui, au moins théoriquement, existe.
+et puis surtout à notre époque, hein, où toutes les choses se balancent dans le mur ! …*ça laisse un sérieux doute*, mais enfin c’est une place qui, au moins théoriquement, existe.
 
 <!-- id: s14-24-0176 -->
 

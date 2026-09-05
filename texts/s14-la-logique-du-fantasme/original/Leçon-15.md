@@ -62,7 +62,7 @@ Quand les sciences…
 
 <!-- id: s14-15-0015 -->
 
-> dont la médecine maintenant s’entoure et s’aide, se laisse… s’ouvre à elles de toutes parts …se seront rejointes au centre, eh bien, il n’y aura plus de médecine ! Il y aura peut–être encore la psychanalyse, qui constituera à ce moment-là la médecine. Mais ça sera bien fâcheux, parce que ce sera un obstacle définitif à ce que la psychanalyse devienne une science. *C’est pour ça que je ne le souhaite pas*.
+dont la médecine maintenant s’entoure et s’aide, se laisse… s’ouvre à elles de toutes parts …se seront rejointes au centre, eh bien, il n’y aura plus de médecine ! Il y aura peut–être encore la psychanalyse, qui constituera à ce moment-là la médecine. Mais ça sera bien fâcheux, parce que ce sera un obstacle définitif à ce que la psychanalyse devienne une science. *C’est pour ça que je ne le souhaite pas*.
 
 <!-- id: s14-15-0016 -->
 
@@ -70,9 +70,9 @@ Eh bien, hier soir, j’ai été amené devant cet audi­toire ainsi choisi, à 
 
 <!-- id: s14-15-0017 -->
 
-> pour eux qui constituent en somme la zone d’appel aux responsabilités psychanalytiques,
->
-> en d’autres termes : à ceux qui vont former les psychanalystes …j’ai cru devoir leur épingler, parce que c’était là vraiment le lieu, leur épingler comment se pose, si l’on peut dire, ce qu’on appelle ce *choix inaugural* qui est - vous le savez - un faux choix, puisque c’est un choix forcé.
+pour eux qui constituent en somme la zone d’appel aux responsabilités psychanalytiques,
+
+en d’autres termes : à ceux qui vont former les psychanalystes …j’ai cru devoir leur épingler, parce que c’était là vraiment le lieu, leur épingler comment se pose, si l’on peut dire, ce qu’on appelle ce *choix inaugural* qui est - vous le savez - un faux choix, puisque c’est un choix forcé.
 
 <!-- id: s14-15-0018 -->
 
@@ -92,7 +92,7 @@ Ce ne sont pas des noms forcément obligeants, évidemment. Mais, entre le « *j
 
 <!-- id: s14-15-0022 -->
 
-> pour ce qui est *d’une zone plus vaste*, avancés comme étant les constituants fondamentaux de cette aliénation première …ça n’est pas non plus très obligeant pour l’ensemble de cette zone que je détache dans le champ humain, sous la forme du champ du sujet : ou *il ne pense pas,* ou *il n’est pas*.
+pour ce qui est *d’une zone plus vaste*, avancés comme étant les constituants fondamentaux de cette aliénation première …ça n’est pas non plus très obligeant pour l’ensemble de cette zone que je détache dans le champ humain, sous la forme du champ du sujet : ou *il ne pense pas,* ou *il n’est pas*.
 
 <!-- id: s14-15-0023 -->
 
@@ -112,7 +112,7 @@ Parce que si la situation ancienne était celle de sous-développés de la logiq
 
 <!-- id: s14-15-0027 -->
 
-> par une sorte de paradoxe et par un effet qui est justement celui de l’analyse …l’incidence - *casus* - du meilleur optimisme peut être en bien des cas *pessimus*, la plus mauvaise.
+par une sorte de paradoxe et par un effet qui est justement celui de l’analyse …l’incidence - *casus* - du meilleur optimisme peut être en bien des cas *pessimus*, la plus mauvaise.
 
 <!-- id: s14-15-0028 -->
 
@@ -124,7 +124,7 @@ Je les ai vivement incités à abandonner ce point de vue. Je ne suis pas le seu
 
 <!-- id: s14-15-0030 -->
 
-> je veux dire pas du tout for­cément *à la fin de la psychanalyse didactique*, mais aussi bien en cours et peut-être cela vaut-il mieux …*la vigilance critique de ceux* qu’il peut avoir à l’occasion *à endoctriner*.
+je veux dire pas du tout for­cément *à la fin de la psychanalyse didactique*, mais aussi bien en cours et peut-être cela vaut-il mieux …*la vigilance critique de ceux* qu’il peut avoir à l’occasion *à endoctriner*.
 
 <!-- id: s14-15-0031 -->
 
@@ -132,7 +132,7 @@ Néanmoins je dois dire que c’est au titre de psycha­nalyste, de représentan
 
 <!-- id: s14-15-0032 -->
 
-> qui est celui - probléma­tique - où pour l’instant se joue encore tout l’avenir de la psychanalyse …que M. GREEN se trouve recevoir - de moi, aujour­d’hui - la parole, ceci en raison du fait, mon Dieu, tout à fait important, qu’il s’y est proposé lui-même, je veux dire que ce n’est pas – nullement - au titre d’être un de mes élèves sinon de mes suivants, qu’il va vous dire aujourd’hui les ré­flexions que lui inspirent les derniers termes que j’ai ap­portés concernant *la logique du fantasme*.
+qui est celui - probléma­tique - où pour l’instant se joue encore tout l’avenir de la psychanalyse …que M. GREEN se trouve recevoir - de moi, aujour­d’hui - la parole, ceci en raison du fait, mon Dieu, tout à fait important, qu’il s’y est proposé lui-même, je veux dire que ce n’est pas – nullement - au titre d’être un de mes élèves sinon de mes suivants, qu’il va vous dire aujourd’hui les ré­flexions que lui inspirent les derniers termes que j’ai ap­portés concernant *la logique du fantasme*.
 
 <!-- id: s14-15-0033 -->
 
@@ -224,7 +224,7 @@ LACAN en a donné plusieurs traductions :
 
 <!-- id: s14-15-0055 -->
 
-> « *Là ou c’était, là comme sujet dois-je advenir.* »
+« *Là ou c’était, là comme sujet dois-je advenir.* »
 
 <!-- id: s14-15-0056 -->
 
@@ -276,11 +276,11 @@ Au regard du langage, dans le discours de l’analysé nous avons des éléments
 
 <!-- id: s14-15-0068 -->
 
-> « *Mais alors ce serait* mon *père* mort *à qui je* parlais *dans le rêve.* » le même chez l’obsessionnel :
+« *Mais alors ce serait* mon *père* mort *à qui je* parlais *dans le rêve.* » le même chez l’obsessionnel :
 
 <!-- id: s14-15-0069 -->
 
-> « *Mais alors ce* serait mon *père* mort *à qui* je parlais dans le rêve. »
+« *Mais alors ce* serait mon *père* mort *à qui* je parlais dans le rêve. »
 
 <!-- id: s14-15-0070 -->
 
@@ -630,7 +630,7 @@ Ce que quelqu’un dans un article récent a appelé : l’hypostase biologique,
 
 <!-- id: s14-15-0156 -->
 
-> «* Mais en retour qu’à considérer la biologie comme le modèle de scientificité inaccessible à une théorie analytique essentiellement provisoire,* FREUD *aboutit à une pure spéculation, suffit à indiquer que cette biologie est un mythe idéologique, l’eschatologie de la psychanalyse. *»
+«* Mais en retour qu’à considérer la biologie comme le modèle de scientificité inaccessible à une théorie analytique essentiellement provisoire,* FREUD *aboutit à une pure spéculation, suffit à indiquer que cette biologie est un mythe idéologique, l’eschatologie de la psychanalyse. *»
 
 <!-- id: s14-15-0157 -->
 
@@ -898,7 +898,7 @@ S’il a apporté de nombreuses questions sur des plans divers concernant mon ac
 
 <!-- id: s14-15-0223 -->
 
-> de quelque chose qui se construit et se développe devant vous et à votre intention …c’est un remerciement de plus que je lui dois, puisque, grâce à l’étape que constitue son intervention, le niveau de ces questions est posé qui doit nous permettre dans la suite, non seulement ce que je ferai assurément, toujours en désignant le point auquel je me rac­corde, de lui répondre, mais même de poursuivre l’édification, je dirai, en prenant le repérage de ce niveau qu’apporte l’é­tude vraiment si profonde, si substantielle, qu’il a produit aujourd’hui devant vous, en référence - je peux le dire et je pense qu’il en sentira l’hommage - en référence à mon discours.
+de quelque chose qui se construit et se développe devant vous et à votre intention …c’est un remerciement de plus que je lui dois, puisque, grâce à l’étape que constitue son intervention, le niveau de ces questions est posé qui doit nous permettre dans la suite, non seulement ce que je ferai assurément, toujours en désignant le point auquel je me rac­corde, de lui répondre, mais même de poursuivre l’édification, je dirai, en prenant le repérage de ce niveau qu’apporte l’é­tude vraiment si profonde, si substantielle, qu’il a produit aujourd’hui devant vous, en référence - je peux le dire et je pense qu’il en sentira l’hommage - en référence à mon discours.
 
 <!-- id: s14-15-0224 -->
 

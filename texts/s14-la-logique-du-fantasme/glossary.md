@@ -5,13 +5,13 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | La logique du fantasme | 幻想的逻辑 | 本期标题；*logique* 指对幻想结构的逻辑化表述，不把幻想还原为想象性内容。 |
-| fantasme | 幻想 | 不译“幻觉”；公式按原文写作 $\bar S \mathbin{\lozenge} a$。 |
+| fantasme | 幻想 | 不译“幻觉”；公式按原文写作 $\not S \mathbin{\lozenge} a$。 |
 | logique | 逻辑 | 依语境可指形式逻辑、逻辑关系或对结构作逻辑化表述；不泛化成日常“道理”。 |
 | métalangage / langage-objet | 元语言／对象语言 | 第二课以“没有元语言”质疑用一个外在语言层级包裹对象语言的设想；不否认实际存在的语言分层操作。 |
 | sujet | 主体 | 概念义固定译“主体”；普通“题目、议题”义依语境处理。 |
-| S barré / sujet barré / division du sujet | 被划杠的 S／被划杠的主体／主体的分裂 | 公式中写作 $\bar S$；“划杠”标示主体由无意识与能指结构所造成的分裂。 |
+| S barré / sujet barré / division du sujet | 被划杠的 S／被划杠的主体／主体的分裂 | 公式中写作 $\not S$；“划杠”标示主体由无意识与能指结构所造成的分裂。 |
 | objet(a) / objet (a) / objet petit(a) | 对象(a) | 沿用相邻 S13 的记法；进入公式时写作 $a$，不改写成经验中的完整对象。 |
-| poinçon / ◊ | 菱形符号／◇ | 幻想公式中连接 $\bar S$ 与 $a$ 的符号；同时可按横向或纵向切分呈现双重关系，不译为普通“冲头”。 |
+| poinçon / ◊ | 菱形符号／◇ | 幻想公式中连接 $\not S$ 与 $a$ 的符号；同时可按横向或纵向切分呈现双重关系，不译为普通“冲头”。 |
 | signifiant / signifié / signification | 能指／所指／意指 | 不把 *signifiant* 译成“意义”；*signification* 指意指作用或形成的意指。 |
 | lettre | 字母 | 能指的最低限度书写形态；本期强调字母的重复并不自动保证自我同一，且字母可作为被排除或欠缺之物运作。 |
 | trésor du signifiant | 能指宝库 | 位于大他者场所，不局限于词典所收词语，而涵盖陈述得以产生的能指资源。 |
@@ -81,7 +81,7 @@
 | groupe de Klein | 克莱因四元群 | 由四个元素构成的群；第五课以三个对合操作 $a,b,c$ 及其复合关系组织后续对 *cogito* 的变换。 |
 | opération involutive | 对合操作 | 同一操作连续施行两次回到原状态；不应简单改说成“两次否定等于肯定”，因为起点未必是肯定。 |
 | Unterdrückt / refoulé / retour du refoulé | 被压制者／遭压抑者／遭压抑者的返回 | 第五课借 *sub-situer* 的文字拆分强调：被替代者不是消失，而是被置于下方；遭压抑者只在其返回层面被写出。 |
-| S(\bar A) | 大他者中欠缺的能指 | 第五课把它同“多出来的一”以及“欠缺的能指”相连；第九课进一步强调横杠表示“大他者受标记”，不只是一句泛泛的“大他者不存在”。 |
+| $S(\not A)$ | 大他者中欠缺的能指 | 第五课把它同“多出来的一”以及“欠缺的能指”相连；第九课进一步强调横杠表示“大他者受标记”，不只是一句泛泛的“大他者不存在”。 |
 | effet de vérité / vérité de l’interprétation | 真理效果／解释的真理性 | 解释可以产生真理效果，并不等于解释本身已经可被判定为真或假。 |
 | cogito ergo sum / dubito ergo sum | 我思故我在／我疑故我在 | 本期从书写、蕴含与主体构成考察笛卡尔公式；不把 *ergo* 自动缩减为普通实质蕴含。 |
 | voix moyenne / diathèse moyenne | 中间语态／中间语态配置 | 主体不是外在行动者，而由行动本身受到根本决定；第五课以 *loquor*、*sequor* 和献祭动词说明。 |
@@ -237,7 +237,7 @@
 | désir à l’heure de la vérité / objet cause | 真相时刻的欲望／作为原因的对象 | 欲望在对象似乎可以取得时反而发生事故，因为欲望在本质上是欠缺；对象可以成为欲望之因，却不存在能够把欲望彻底满足的对象。 |
 | érection / désir / jouissance auto-érotique | 勃起／欲望／自体性欲的享乐 | 勃起不是欲望的生理尺度，而是通向享乐的现象并且自身已是享乐；性行动要求不在这项局部自体享乐上停住。 |
 | demande / besoin / désir | 要求／需要／欲望 | 欲望作为主体在要求行动中的产物，从经过语言表述的要求中涌现；需要可以满足，要求可以得到回应，但要求对象因移置而无法满足欲望。 |
-| avoir barre sur / barre / sujet barré | 占……上风／杠／被划杠的主体 | *Avoir barre sur quelqu’un* 是占某人的上风；第二十四课让这一惯用义同 $\bar S$ 的“杠”发生回声。它不改变全书“被划杠的主体”的术语译法。 |
+| avoir barre sur / barre / sujet barré | 占……上风／杠／被划杠的主体 | *Avoir barre sur quelqu’un* 是占某人的上风；第二十四课让这一惯用义同 $\not S$ 的“杠”发生回声。它不改变全书“被划杠的主体”的术语译法。 |
 | art de l’offre / l’acheter / lâche / lâcheté / racheter / désir de l’Autre | 供给的艺术／买下它／松弛或懦弱／怯懦／重新买回或赎回／大他者的欲望 | 销售通过供给制造要求，让对象经由大他者欲望取得价值；第二十四课以近乎同音的 *l’acheter / lâcheté* 为枢纽，回扣 *discours lâche*，再由 *te racheter* 把购买、怯懦与赎回自身连接起来。 |
 | le désir est son interprétation / pas / point / pas de sens / désir-pas / irpassé | 欲望就是对它的解释／不或步／一点也不或点／无意义或意义的一步／欲望—不／重新经过 | 法语否定词同时具有“步／点”的词汇义；拉康据此把 *désir-pas* 重切为 *dés-irpas*，再令 *irpassé* 同 *y repasser* 谐振。解释占据欲望的位置，却不保证欲望获得出路。 |
 | signification de vérité / axiome du fantasme | 真理意义／幻想公理 | 神经症中的幻想不必被还原进无意识话语；它像被赋予真值的公理，必须尽量逐字保留，再由各结构的变换法则安置于无意识陈述的推导中。 |

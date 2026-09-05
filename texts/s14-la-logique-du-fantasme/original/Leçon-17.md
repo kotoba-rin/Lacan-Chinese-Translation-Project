@@ -50,7 +50,7 @@ Si j’ai ce souci de ceux qu’il convient d’introduire à ce que j’ai appe
 
 <!-- id: s14-17-0012 -->
 
-> et que je me suis trouvé un jour épingler comme étant « *le nombre* » …il m’est nécessaire de m’adresser à eux pour que mon discours revienne, en quelque sor­te d’un point de *réflexion*, aux oreilles des psychanalystes.
+et que je me suis trouvé un jour épingler comme étant « *le nombre* » …il m’est nécessaire de m’adresser à eux pour que mon discours revienne, en quelque sor­te d’un point de *réflexion*, aux oreilles des psychanalystes.
 
 <!-- id: s14-17-0013 -->
 
@@ -98,7 +98,7 @@ Je n’ai encore *jamais vu* que personne ne l’ait dégagé, quoi­que dans mo
 
 <!-- id: s14-17-0024 -->
 
-> d’autant plus, bien sûr, que c’est *une formule* : méfiance, toujours à vouloir ramas­ser tout dans *une formule* …quand j’ai dit : « *Quand l’analysé vous parle à vous analyste, il parle de lui, et quand il parlera de lui à vous… tout ira bien.* »
+d’autant plus, bien sûr, que c’est *une formule* : méfiance, toujours à vouloir ramas­ser tout dans *une formule* …quand j’ai dit : « *Quand l’analysé vous parle à vous analyste, il parle de lui, et quand il parlera de lui à vous… tout ira bien.* »
 
 <!-- id: s14-17-0025 -->
 
@@ -122,7 +122,7 @@ Poser la question au niveau de l’inconscient est une autre paire de manches, q
 
 <!-- id: s14-17-0030 -->
 
-> dans mon texte qui s’appelle *La chose freudienne,* écrit en l956 pour le centenaire de FREUD …j’ai fait surgir cette entité qui dit : « *Moi la vérité, je parle.* » \[*Écrits* p.409\]
+dans mon texte qui s’appelle *La chose freudienne,* écrit en l956 pour le centenaire de FREUD …j’ai fait surgir cette entité qui dit : « *Moi la vérité, je parle.* » \[*Écrits* p.409\]
 
 <!-- id: s14-17-0031 -->
 
@@ -158,9 +158,9 @@ Comme bien d’autres avant lui, en effet - à commencer par DESCARTES - il proc
 
 <!-- id: s14-17-0039 -->
 
-> à savoir ce qui est réduit à n’être que *le nombre*, à savoir que ce qu’on appelle dans le contexte marxiste
->
-> « *la conscience de classe* » , en tant qu’elle est *la classe du nombre* …*ne saurait se tromper !*
+à savoir ce qui est réduit à n’être que *le nombre*, à savoir que ce qu’on appelle dans le contexte marxiste
+
+« *la conscience de classe* » , en tant qu’elle est *la classe du nombre* …*ne saurait se tromper !*
 
 <!-- id: s14-17-0040 -->
 
@@ -168,7 +168,7 @@ Singulier prin­cipe pourtant sur lequel tous ceux qui méritent d’avoir pour�
 
 <!-- id: s14-17-0041 -->
 
-> j’entends : alors même qu’elle ne sait rien ou sait fort peu …de la théorie, quand *la conscien­ce de classe* fonctionne… *à entendre les théoriciens, même au niveau non éduqué* …si proprement elle est *réduite à* ceux qui appartiennent au niveau défini dans l’occasion par le terme de « *la classe exclue des profits capitalistes* » ?
+j’entends : alors même qu’elle ne sait rien ou sait fort peu …de la théorie, quand *la conscien­ce de classe* fonctionne… *à entendre les théoriciens, même au niveau non éduqué* …si proprement elle est *réduite à* ceux qui appartiennent au niveau défini dans l’occasion par le terme de « *la classe exclue des profits capitalistes* » ?
 
 <!-- id: s14-17-0042 -->
 
@@ -204,7 +204,7 @@ Quoi qu’il en soit, ce texte sur lequel nous reviendrons sûre­ment, car litt
 
 <!-- id: s14-17-0050 -->
 
-> comme sur un sujet sur le­quel je ne suis pas resté muet, puisque j’ai écrit *Kant avec Sade,* mais où il n’y a littéralement vraiment qu’un aperçu, nommément sur ceci, que le *sadisme* et le *masochisme* sont deux voies strictement distinctes, même si bien sûr, on doit, tou­tes les deux, les repérer dans la structure …*que tout sadiste n’est pas automatiquement maso, ni tout maso un sadiste qui s’ignore. Il ne s’agit pas d’un gant qu’on retourne*.
+comme sur un sujet sur le­quel je ne suis pas resté muet, puisque j’ai écrit *Kant avec Sade,* mais où il n’y a littéralement vraiment qu’un aperçu, nommément sur ceci, que le *sadisme* et le *masochisme* sont deux voies strictement distinctes, même si bien sûr, on doit, tou­tes les deux, les repérer dans la structure …*que tout sadiste n’est pas automatiquement maso, ni tout maso un sadiste qui s’ignore. Il ne s’agit pas d’un gant qu’on retourne*.
 
 <!-- id: s14-17-0051 -->
 
@@ -256,11 +256,11 @@ Bien sûr, ce *Nombre d’or* n’est-il là que comme un support choisi d’avo
 
 <!-- id: s14-17-0063 -->
 
-> qui nous le fait retenir, mais simplement comme *fonction symbolique* …d’avoir ceci de privilégié…
+qui nous le fait retenir, mais simplement comme *fonction symbolique* …d’avoir ceci de privilégié…
 
 <!-- id: s14-17-0064 -->
 
-> que je vous ai déjà indiqué comme j’ai pu, faute de pouvoir vous en donner - ce serait vraiment nous en­traîner - la théorie mathématique la plus moderne et la plus stricte …d’être si je puis dire l’incommensurable qui resser­re le moins vite les intervalles dans lesquels il peut se lo­caliser.
+que je vous ai déjà indiqué comme j’ai pu, faute de pouvoir vous en donner - ce serait vraiment nous en­traîner - la théorie mathématique la plus moderne et la plus stricte …d’être si je puis dire l’incommensurable qui resser­re le moins vite les intervalles dans lesquels il peut se lo­caliser.
 
 <!-- id: s14-17-0065 -->
 
@@ -268,7 +268,7 @@ Autrement dit, celui qui, pour parvenir à une cer­taine *limite* d’approxima
 
 <!-- id: s14-17-0066 -->
 
-> elles sont *multiples* et, je pense, presque *infinies* …de l’in­commensurable, d’être celui qui demande le plus d’opérations.
+elles sont *multiples* et, je pense, presque *infinies* …de l’in­commensurable, d’être celui qui demande le plus d’opérations.
 
 <!-- id: s14-17-0067 -->
 
@@ -364,11 +364,11 @@ Mais ce n’est pas de ça qu’il s’agit. Qu’est-ce que ça pour­rait êtr
 
 <!-- id: s14-17-0090 -->
 
-> et si on donne un sens à ce que je suis en train de développer devant vous …un signifiant, dans l’occasion ce qu’on appelle…
+et si on donne un sens à ce que je suis en train de développer devant vous …un signifiant, dans l’occasion ce qu’on appelle…
 
 <!-- id: s14-17-0091 -->
 
-> et vous allez voir tout de suite comme on va être embarrassé, car si je dis « *mâle* » ou « *femelle* », quand même, hein ?… c’est bien ani­mal ça ! alors, je veux bien… …« *masculin* » ou « *féminin* ».
+et vous allez voir tout de suite comme on va être embarrassé, car si je dis « *mâle* » ou « *femelle* », quand même, hein ?… c’est bien ani­mal ça ! alors, je veux bien… …« *masculin* » ou « *féminin* ».
 
 <!-- id: s14-17-0092 -->
 
@@ -376,9 +376,9 @@ Là s’avère tout de suite que FREUD, le premier qui s’est avancé dans cett
 
 <!-- id: s14-17-0093 -->
 
-> Je dis : *ce n’est pas que je dise à vous qui êtes là devant moi «* *à quelle dose êtes-vous masculin et à quelle dose féminin ?* »,
->
-> *ce n’est pas de cela qu’il s’agit*, il ne s’agit pas non plus de la biologie, ni de l’organe de WOLFF et de MÜLLER …il est impossible de donner un sens, j’entends *un sens analytique,* aux termes « *masculin* » et « *féminin* ».
+Je dis : *ce n’est pas que je dise à vous qui êtes là devant moi «* *à quelle dose êtes-vous masculin et à quelle dose féminin ?* »,
+
+*ce n’est pas de cela qu’il s’agit*, il ne s’agit pas non plus de la biologie, ni de l’organe de WOLFF et de MÜLLER …il est impossible de donner un sens, j’entends *un sens analytique,* aux termes « *masculin* » et « *féminin* ».
 
 <!-- id: s14-17-0094 -->
 
@@ -394,9 +394,9 @@ Je souligne que si nous interrogeons le sexe quant à sa subjectivation possible
 
 <!-- id: s14-17-0097 -->
 
-> si vous interrogez ce que j’ai appelé tout à l’heure *la conscience de classe*,
->
-> la classe de tous ceux qui croient que l’homme et la femme, ça existe …ça ne pourrait pas être autre chose que ça.
+si vous interrogez ce que j’ai appelé tout à l’heure *la conscience de classe*,
+
+la classe de tous ceux qui croient que l’homme et la femme, ça existe …ça ne pourrait pas être autre chose que ça.
 
 <!-- id: s14-17-0098 -->
 
@@ -404,7 +404,7 @@ Et comme ça, ça serait très bien, si c’était. Je veux dire que le principe
 
 <!-- id: s14-17-0099 -->
 
-> dans une assemblée comme ça, qui me devient familière, une assemblée où je peux faire *entendre*, juste comme il convient « *qu’il n’y a pas d’acte sexuel* », ce qui veut dire : il n’y a pas d’acte à un certain niveau et justement c’est bien pour ça que nous avons à chercher comment il se constitue …si je pouvais faire que le terme de « *relation sexuelle* »  prenne dans chacune de vos têtes exactement la *connotation bouffonne* qu’elle méri­te, cette locution, j’aurais gagné quelque chose !
+dans une assemblée comme ça, qui me devient familière, une assemblée où je peux faire *entendre*, juste comme il convient « *qu’il n’y a pas d’acte sexuel* », ce qui veut dire : il n’y a pas d’acte à un certain niveau et justement c’est bien pour ça que nous avons à chercher comment il se constitue …si je pouvais faire que le terme de « *relation sexuelle* »  prenne dans chacune de vos têtes exactement la *connotation bouffonne* qu’elle méri­te, cette locution, j’aurais gagné quelque chose !
 
 <!-- id: s14-17-0100 -->
 
@@ -432,11 +432,11 @@ Simplement, ne nous étonnons pas qu’à la distance où nous sommes, de ce niv
 
 <!-- id: s14-17-0106 -->
 
-> croyez-moi : ce n’est pas moi qui ai inventé ça, c’est déjà apparu à quelques autres personnes …seulement, si je le désigne ce point d’extrême…
+croyez-moi : ce n’est pas moi qui ai inventé ça, c’est déjà apparu à quelques autres personnes …seulement, si je le désigne ce point d’extrême…
 
 <!-- id: s14-17-0107 -->
 
-> tout en soulignant ex­pressément qu’il est tout à fait irrésolu, que le pont n’est pas fait …c’est simplement pour vous marquer que - *par contre* - dans l’ordre de ce qu’on appelle plus ou moins proprement la pensée, on a pendant tout le cours des siècles - au moins de ceux qui nous sont connus - jamais rien fait d’autre que de parler comme si ce point était résolu !
+tout en soulignant ex­pressément qu’il est tout à fait irrésolu, que le pont n’est pas fait …c’est simplement pour vous marquer que - *par contre* - dans l’ordre de ce qu’on appelle plus ou moins proprement la pensée, on a pendant tout le cours des siècles - au moins de ceux qui nous sont connus - jamais rien fait d’autre que de parler comme si ce point était résolu !
 
 <!-- id: s14-17-0108 -->
 
@@ -484,7 +484,7 @@ Je commence aujourd’hui précisément, à faire remarquer que si *la valeur de
 
 <!-- id: s14-17-0119 -->
 
-> autrement dit l’interdit de l’auto-érotisme portant sur un organe précis, qui ne joue là rôle et fonction que d’introduire cet élément d’unité à l’inauguration d’un statut d’échange, d’où dépend tout ce qui va être ensuite économie, chez l’être parlant dont il s’agit dans le sexe …il est clair que l’important est de voir *la réversion* qui en résulte.
+autrement dit l’interdit de l’auto-érotisme portant sur un organe précis, qui ne joue là rôle et fonction que d’introduire cet élément d’unité à l’inauguration d’un statut d’échange, d’où dépend tout ce qui va être ensuite économie, chez l’être parlant dont il s’agit dans le sexe …il est clair que l’important est de voir *la réversion* qui en résulte.
 
 <!-- id: s14-17-0120 -->
 
@@ -508,9 +508,9 @@ En d’autres termes, je souligne la position de ce que j’appellerai la *ficti
 
 <!-- id: s14-17-0125 -->
 
-> il n’y a rien de plus content qu’un type qui n’a jamais vu plus loin que le bout de son nez
->
-> et qui vous exprime la formule, comme ça, provocante : « *en avoir ou pas* » …« *on est c’qui y a* »… « *c’qui y a* » : *ce que vous savez*.
+il n’y a rien de plus content qu’un type qui n’a jamais vu plus loin que le bout de son nez
+
+et qui vous exprime la formule, comme ça, provocante : « *en avoir ou pas* » …« *on est c’qui y a* »… « *c’qui y a* » : *ce que vous savez*.
 
 <!-- id: s14-17-0126 -->
 
@@ -562,7 +562,7 @@ Très précisément en ceci : c’est que pour dire qu’une chose est *extrait
 
 <!-- id: s14-17-0138 -->
 
-> et non seulement ce qui est discutable, mais ce qui est d’ores et déjà tranchable …c’est qu’il n’y a pas *homomorphisme*, il n’y a pas *structure* telle que « *le lambeau phallique* » si l’on peut di­re soit *saisissable* à la façon d’*une partie de l’investisse­ment narcissique*.
+et non seulement ce qui est discutable, mais ce qui est d’ores et déjà tranchable …c’est qu’il n’y a pas *homomorphisme*, il n’y a pas *structure* telle que « *le lambeau phallique* » si l’on peut di­re soit *saisissable* à la façon d’*une partie de l’investisse­ment narcissique*.
 
 <!-- id: s14-17-0139 -->
 

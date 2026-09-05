@@ -14,7 +14,7 @@ Comme vous allez le voir, rien de plus *concret* que ce que je vais avancer, mê
 
 <!-- id: s14-02-0003 -->
 
-> « *Il n’y a pas de métalangage.* »
+« *Il n’y a pas de métalangage.* »
 
 <!-- id: s14-02-0004 -->
 
@@ -46,9 +46,9 @@ Il est assez dans la nature des choses qui s’agitent ici, qu’elles émergent
 
 <!-- id: s14-02-0011 -->
 
-> sous quelque angle, sous quelque biais, sous quelque arête qui perce une surface où,
->
-> par le seul fait de parler, nous sommes obligés de nous tenir …qu’elles apparaissent à quelque moment avant de prendre *une fonction*. Voici donc ce qu’un jour j’écrivis au tableau :
+sous quelque angle, sous quelque biais, sous quelque arête qui perce une surface où,
+
+par le seul fait de parler, nous sommes obligés de nous tenir …qu’elles apparaissent à quelque moment avant de prendre *une fonction*. Voici donc ce qu’un jour j’écrivis au tableau :
 
 <!-- id: s14-02-0012 -->
 
@@ -72,9 +72,9 @@ Dès le départ, ceci aussi mérite d’être rap­pelé…
 
 <!-- id: s14-02-0017 -->
 
-> au moment où la plupart de ceux qui sont ici en ont une notion suffisante,
->
-> et pour ceux qui n’en au­raient aucune, ceci peut servir de point d’accrochage …leur rappelant qu’en aucune façon des « *pas* » nouveaux, assurément nouveaux en ce sens qu’ils sont loin, ne peuvent se résorber dans le cadre d’une *logique classi­que* ou traditionnelle. *Les développements nouveaux de la logique sont entièrement liés à des jeux d’écri­ture*.
+au moment où la plupart de ceux qui sont ici en ont une notion suffisante,
+
+et pour ceux qui n’en au­raient aucune, ceci peut servir de point d’accrochage …leur rappelant qu’en aucune façon des « *pas* » nouveaux, assurément nouveaux en ce sens qu’ils sont loin, ne peuvent se résorber dans le cadre d’une *logique classi­que* ou traditionnelle. *Les développements nouveaux de la logique sont entièrement liés à des jeux d’écri­ture*.
 
 <!-- id: s14-02-0018 -->
 
@@ -106,11 +106,11 @@ Quand précisément, corrélativement de la construction de ce graphe, j’ai co
 
 <!-- id: s14-02-0025 -->
 
-> non pas « insensé » mais proche de ce jeu que l’anglais définit fort bien, fait résonner sous le terme « *non sense* » *…qu’il y a dans le mot d’esprit dont*, après tout pour faire entendre la dimension qu’il s’agissait d’y dégager, *j’ai montré alors la parenté*…
+non pas « insensé » mais proche de ce jeu que l’anglais définit fort bien, fait résonner sous le terme « *non sense* » *…qu’il y a dans le mot d’esprit dont*, après tout pour faire entendre la dimension qu’il s’agissait d’y dégager, *j’ai montré alors la parenté*…
 
 <!-- id: s14-02-0026 -->
 
-> au moins au niveau de la réception, de la vibration tympa­nique …*la parenté qu’il a avec* ce qui fut pour nous, dans un temps d’épreuve, *le message personnel. Le message personnel*, c’est-à-dire tout énoncé aussi bien, en tant qu’il se décou­pe *non-sensicalement*. J’y ai fait la dernière fois allu­sion, en rappelant le célèbre *Colourless green ideas, etc*.
+au moins au niveau de la réception, de la vibration tympa­nique …*la parenté qu’il a avec* ce qui fut pour nous, dans un temps d’épreuve, *le message personnel. Le message personnel*, c’est-à-dire tout énoncé aussi bien, en tant qu’il se décou­pe *non-sensicalement*. J’y ai fait la dernière fois allu­sion, en rappelant le célèbre *Colourless green ideas, etc*.
 
 <!-- id: s14-02-0027 -->
 
@@ -138,11 +138,11 @@ Qu’en est-il de cet *univers du discours *en tant qu’il implique ce jeu du 
 
 <!-- id: s14-02-0033 -->
 
-> ce signifiant que nous avons jusqu’ici défini de sa fonction de *représenter un sujet pour un autre signifiant* …*ce signifiant, que représente-t-il en face de lui-même, de sa ré­pétition d’unité signifiante* ? Ceci est défini par l’« *axiome* » : *qu’aucun signifiant*…
+ce signifiant que nous avons jusqu’ici défini de sa fonction de *représenter un sujet pour un autre signifiant* …*ce signifiant, que représente-t-il en face de lui-même, de sa ré­pétition d’unité signifiante* ? Ceci est défini par l’« *axiome* » : *qu’aucun signifiant*…
 
 <!-- id: s14-02-0034 -->
 
-> fut-il - *et très précisément quand il l’est* - réduit à sa forme minimale, celle que nous appelons *la lettre* *…ne saurait se signifier lui-même*. L’usage mathématique qui tient précisément en ceci que quand nous avons quelque part \- *et pas seulement, vous le sa­vez, dans un exercice d’algèbre -* quand nous avons quelque part posé une lettre grand A, nous la reprenons ensuite comme si c’était, la deuxième fois que nous nous en servons, toujours la même.
+fut-il - *et très précisément quand il l’est* - réduit à sa forme minimale, celle que nous appelons *la lettre* *…ne saurait se signifier lui-même*. L’usage mathématique qui tient précisément en ceci que quand nous avons quelque part \- *et pas seulement, vous le sa­vez, dans un exercice d’algèbre -* quand nous avons quelque part posé une lettre grand A, nous la reprenons ensuite comme si c’était, la deuxième fois que nous nous en servons, toujours la même.
 
 <!-- id: s14-02-0035 -->
 
@@ -182,7 +182,7 @@ Avant d’en arriver à une telle formule, dont après tout vous voyez bien que 
 
 <!-- id: s14-02-0044 -->
 
-> je fais vraiment tout pour que les voies vous soient frayées dans ce en quoi j’essaie que vous me suiviez …prenons d’abord le soin de mettre à l’épreuve ceci : c’est que *ce que spécifie l’axiome que « le signifiant ne saurait se signifier lui-même »,* *reste partie de l’univers du discours*. Qu’avons-nous alors à poser ?
+je fais vraiment tout pour que les voies vous soient frayées dans ce en quoi j’essaie que vous me suiviez …prenons d’abord le soin de mettre à l’épreuve ceci : c’est que *ce que spécifie l’axiome que « le signifiant ne saurait se signifier lui-même »,* *reste partie de l’univers du discours*. Qu’avons-nous alors à poser ?
 
 <!-- id: s14-02-0045 -->
 
@@ -190,7 +190,7 @@ Ce dont il s’agit, ce que spécifie la relation que j’ai énoncée sous la f
 
 <!-- id: s14-02-0046 -->
 
-> prenons arbi­trairement l’usage d’un petit signe qui sert dans cette lo­gique qui se fonde sur l’écriture, ce « W » auquel vous recon­naîtrez la forme - ces jeux ne sont peut–être pas purement accidentels - de mon *poinçon,* dont en quelque sorte on aurait basculé le chapeau, qu’on aurait ouvert comme une petite boite, et qui sert, ce W, à désigner dans la logique des ensembles, *l’exclusion.* Autrement dit, ce que désigne le « *ou *» latin, qui s’exprime par un « *aut* » : *l’un ou l’autre*
+prenons arbi­trairement l’usage d’un petit signe qui sert dans cette lo­gique qui se fonde sur l’écriture, ce « W » auquel vous recon­naîtrez la forme - ces jeux ne sont peut–être pas purement accidentels - de mon *poinçon,* dont en quelque sorte on aurait basculé le chapeau, qu’on aurait ouvert comme une petite boite, et qui sert, ce W, à désigner dans la logique des ensembles, *l’exclusion.* Autrement dit, ce que désigne le « *ou *» latin, qui s’exprime par un « *aut* » : *l’un ou l’autre*
 
 <!-- id: s14-02-0047 -->
 
@@ -222,7 +222,7 @@ Il s’agit alors de savoir s’il n’y a pas quelque contra­diction qui en r�
 
 <!-- id: s14-02-0054 -->
 
-> de ce fait même que nous avons écrit que le signifiant ne saurait se signifier lui-même …nous pourrons écrire que ce B, non pas se signifie lui-même, mais, faisant partie de *l’univers du discours*, peut être considéré comme quelque chose qui, sous le mode qui ca­ractérise ce que nous avons appelé une spécification, peut s’écrire : B *fait partie de lui–même.*
+de ce fait même que nous avons écrit que le signifiant ne saurait se signifier lui-même …nous pourrons écrire que ce B, non pas se signifie lui-même, mais, faisant partie de *l’univers du discours*, peut être considéré comme quelque chose qui, sous le mode qui ca­ractérise ce que nous avons appelé une spécification, peut s’écrire : B *fait partie de lui–même.*
 
 <!-- id: s14-02-0055 -->
 
@@ -238,7 +238,7 @@ Ici, nous nous trouvons devant quelque chose dont aussi bien la parenté doit su
 
 <!-- id: s14-02-0058 -->
 
-> pour autant qu’elle fait quelque cho­se que je n’ai pas fait, moi, encore, car je ne suis pas ici pour l’introduire mais pour vous maintenir dans un champ qui logiquement est en deçà, mais introduisez quelque chose que c’est l’occasion à ce propos d’essayer de saisir : à savoir ce qui fonde la mise en jeu de l’appareil dit *théorie des ensem­bles,* qui aujourd’hui se présente comme tout à fait originel­le, assurément, à tout énoncé mathématique et pour qui la lo­gique n’est rien d’autre que ce que le symbolisme mathématique peut saisir …cette fonction des *ensembles* sera aussi le prin­cipe, et c’est cela que je mets en question, de tout fondement de la logique.
+pour autant qu’elle fait quelque cho­se que je n’ai pas fait, moi, encore, car je ne suis pas ici pour l’introduire mais pour vous maintenir dans un champ qui logiquement est en deçà, mais introduisez quelque chose que c’est l’occasion à ce propos d’essayer de saisir : à savoir ce qui fonde la mise en jeu de l’appareil dit *théorie des ensem­bles,* qui aujourd’hui se présente comme tout à fait originel­le, assurément, à tout énoncé mathématique et pour qui la lo­gique n’est rien d’autre que ce que le symbolisme mathématique peut saisir …cette fonction des *ensembles* sera aussi le prin­cipe, et c’est cela que je mets en question, de tout fondement de la logique.
 
 <!-- id: s14-02-0059 -->
 
@@ -310,7 +310,7 @@ Voilà donc ce qui fait que puisque nous ne sommes pas au niveau d’une telle s
 
 <!-- id: s14-02-0076 -->
 
-> quoique fait de la spécification que : « *le signifiant ne saurait se signifier lui–même * » *…peut peut-être avoir avec lui-même cette sorte de rap­port qui échappe au paradoxe de Russell* : à savoir nous démon­trer quelque chose qui serait peut-être sa propre dimension, et à propos de quoi nous allons voir dans quel statut il fait ou non partie de *l’univers du discours*.
+quoique fait de la spécification que : « *le signifiant ne saurait se signifier lui–même * » *…peut peut-être avoir avec lui-même cette sorte de rap­port qui échappe au paradoxe de Russell* : à savoir nous démon­trer quelque chose qui serait peut-être sa propre dimension, et à propos de quoi nous allons voir dans quel statut il fait ou non partie de *l’univers du discours*.
 
 <!-- id: s14-02-0077 -->
 
@@ -390,7 +390,7 @@ Ce qui caractérise la structure de ce B…
 
 <!-- id: s14-02-0096 -->
 
-> en tant que nous ne savons où le situer dans *l’univers du discours *: de­dans ou dehors …c’est très précisément ce trait que je vous ai annoncé tout à l’heure, en vous faisant le cercle, seule­ment de cet A,B,C,D,E, pour autant qu’à simplement *fer­mer la chaîne*, *il en résulte que chaque groupe de quatre peut laisser aisément hors de lui le signifiant étranger qui peut servir à désigner le groupe*, pour la seule raison qu’il n’y est pas représenté, et que pourtant la chaîne totale se trou­vera constituer l’ensemble de tous ces signifiants, *faisant surgir cette unité de plus, incomptable* comme telle, qui est *essentielle à toute une série de structures*, qui sont précisé­ment celles sur lesquelles j’ai fondé, dès l’année l960, tou­te mon opératoire de *L’identification* \[Séminaire 1961-62\].
+en tant que nous ne savons où le situer dans *l’univers du discours *: de­dans ou dehors …c’est très précisément ce trait que je vous ai annoncé tout à l’heure, en vous faisant le cercle, seule­ment de cet A,B,C,D,E, pour autant qu’à simplement *fer­mer la chaîne*, *il en résulte que chaque groupe de quatre peut laisser aisément hors de lui le signifiant étranger qui peut servir à désigner le groupe*, pour la seule raison qu’il n’y est pas représenté, et que pourtant la chaîne totale se trou­vera constituer l’ensemble de tous ces signifiants, *faisant surgir cette unité de plus, incomptable* comme telle, qui est *essentielle à toute une série de structures*, qui sont précisé­ment celles sur lesquelles j’ai fondé, dès l’année l960, tou­te mon opératoire de *L’identification* \[Séminaire 1961-62\].
 
 <!-- id: s14-02-0097 -->
 
@@ -398,7 +398,7 @@ Ce qui caractérise la structure de ce B…
 
 <!-- id: s14-02-0098 -->
 
-> naturellement plus il y en a plus c’est satisfaisant mais plus c’est obs­cur …il suffit d’en faire deux pour du même coup voir appa­raître ce troisième, nécessité pour que ces deux se bouclent et, si je puis dire, pour que la ligne se morde la queue : ce sera ce troisième tour, qui est assuré par le bouclage autour du trou central, par lequel il est impossible de ne pas pas­ser pour que les deux premières boucles se recoupent.
+naturellement plus il y en a plus c’est satisfaisant mais plus c’est obs­cur …il suffit d’en faire deux pour du même coup voir appa­raître ce troisième, nécessité pour que ces deux se bouclent et, si je puis dire, pour que la ligne se morde la queue : ce sera ce troisième tour, qui est assuré par le bouclage autour du trou central, par lequel il est impossible de ne pas pas­ser pour que les deux premières boucles se recoupent.
 
 <!-- id: s14-02-0099 -->
 
@@ -450,7 +450,7 @@ Il ne me paraît pas inutile de nous aper­cevoir que *Mènè,* qui veut dire «
 
 <!-- id: s14-02-0111 -->
 
-> comme le fait remar­quer DANIEL l’interprétant au prince inquiet …s’exprime deux fois, comme pour montrer la répétition la plus simple de ce que consti­tue le comptage : il suffit de compter jusqu’à deux pour que tout ce qu’il en est de cet *un en plus,* qui est la vraie racine de la fonction de la répétition dans FREUD, s’exerce et se marque en ceci : qu’à ceci près que, contrairement à ce qui est dans *la théo­rie des ensembles*, on ne le *dit* pas.
+comme le fait remar­quer DANIEL l’interprétant au prince inquiet …s’exprime deux fois, comme pour montrer la répétition la plus simple de ce que consti­tue le comptage : il suffit de compter jusqu’à deux pour que tout ce qu’il en est de cet *un en plus,* qui est la vraie racine de la fonction de la répétition dans FREUD, s’exerce et se marque en ceci : qu’à ceci près que, contrairement à ce qui est dans *la théo­rie des ensembles*, on ne le *dit* pas.
 
 <!-- id: s14-02-0112 -->
 
@@ -466,11 +466,11 @@ Voilà exactement par quelle voie se porte l’effet de l’entrée de *ce qui s
 
 <!-- id: s14-02-0115 -->
 
-> comme je l’ai toujours dit et accentué, jusqu’à y employer les images les plus vulgaires …la *lettre* dont il s’agit. Mais la *lettre* en tant qu’elle est exclue, qu’elle manque. C’est bien ce…
+comme je l’ai toujours dit et accentué, jusqu’à y employer les images les plus vulgaires …la *lettre* dont il s’agit. Mais la *lettre* en tant qu’elle est exclue, qu’elle manque. C’est bien ce…
 
 <!-- id: s14-02-0116 -->
 
-> qu’aussi bien, puisque aujourd’hui je refais une irruption dans cette tradition juive …sur quoi, à vrai dire, j’avais tant de choses préparées et jusqu’à m’être colleté à un petit exercice d’apprentissage de lecture massorétique[^8], tout tra­vail qui m’a été en quelque sorte rengainé *par le fait que je ne vous ai point pu faire la thématique que j’avais l’intention de développer autour du Nom du Père* et qu’aussi bien de tout ceci il en reste quelque chose et nommément qu’au niveau de l’histoire de *La Création* : \[בְּרֵאשִׁית, בָּרָא אֱלֹהִים, אֵת הַשָּׁמַיִם, וְאֵת הָאָרֶץ. \] « *Béréchith Bârâ Elohim* » commence le Livre, c’est-à­-dire par un *beth*.
+qu’aussi bien, puisque aujourd’hui je refais une irruption dans cette tradition juive …sur quoi, à vrai dire, j’avais tant de choses préparées et jusqu’à m’être colleté à un petit exercice d’apprentissage de lecture massorétique[^8], tout tra­vail qui m’a été en quelque sorte rengainé *par le fait que je ne vous ai point pu faire la thématique que j’avais l’intention de développer autour du Nom du Père* et qu’aussi bien de tout ceci il en reste quelque chose et nommément qu’au niveau de l’histoire de *La Création* : \[בְּרֵאשִׁית, בָּרָא אֱלֹהִים, אֵת הַשָּׁמַיִם, וְאֵת הָאָרֶץ. \] « *Béréchith Bârâ Elohim* » commence le Livre, c’est-à­-dire par un *beth*.
 
 <!-- id: s14-02-0117 -->
 

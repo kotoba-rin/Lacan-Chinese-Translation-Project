@@ -80,7 +80,7 @@ Assurément il est sou­haitable que ceux qui m’écoutent cette année, en aie
 
 <!-- id: s14-01-0019 -->
 
-> pour tous et spécialement pour ceux pour qui c’est le centre de leur expérience : *les psychanalys­tes* …ait encore, si je puis dire assez de familiarité, pour que ce soit, je dirais *sans crain­te*, voire sans angoisse, qu’il leur soit présentifié.
+pour tous et spécialement pour ceux pour qui c’est le centre de leur expérience : *les psychanalys­tes* …ait encore, si je puis dire assez de familiarité, pour que ce soit, je dirais *sans crain­te*, voire sans angoisse, qu’il leur soit présentifié.
 
 <!-- id: s14-01-0020 -->
 
@@ -92,7 +92,7 @@ Je pense, à la vérité, qu’à prendre les choses d’un horizon un peu plus 
 
 <!-- id: s14-01-0022 -->
 
-> dont les incidences - me semble-t-il - se sont faites pour les gens de notre gé­nération assez largement sentir …il me semble que beau­coup de ce qui s’est fait comme analyses, tant de *la subjectivité* que de *l’histoire* et de son interprétation et nommément de ce que nous avons vécu comme histoire contemporaine et très précisément de ce que nous avons assez grossièrement baptisé du terme le plus impropre sous le nom de « *totalitarisme* ».
+dont les incidences - me semble-t-il - se sont faites pour les gens de notre gé­nération assez largement sentir …il me semble que beau­coup de ce qui s’est fait comme analyses, tant de *la subjectivité* que de *l’histoire* et de son interprétation et nommément de ce que nous avons vécu comme histoire contemporaine et très précisément de ce que nous avons assez grossièrement baptisé du terme le plus impropre sous le nom de « *totalitarisme* ».
 
 <!-- id: s14-01-0023 -->
 
@@ -184,9 +184,9 @@ Mais il est à noter que pour qui résumait alors ce que je pouvais indiquer dan
 
 <!-- id: s14-01-0045 -->
 
-> je veux dire : défaut concer­nant l’appartenance de chacun des termes de ces *trois fonctions* qui alors pouvaient
->
-> se désigner comme *sujet, objet* - *au sens d’objet d’amour* - et de l’au-delà de celui­-ci, notre actuel *objet(a)* …la moindre faute, à savoir la référence à « *l’imagination du sujet* », pouvait obscurcir *la relation* qu’il s’agissait là d’esquisser.
+je veux dire : défaut concer­nant l’appartenance de chacun des termes de ces *trois fonctions* qui alors pouvaient
+
+se désigner comme *sujet, objet* - *au sens d’objet d’amour* - et de l’au-delà de celui­-ci, notre actuel *objet(a)* …la moindre faute, à savoir la référence à « *l’imagination du sujet* », pouvait obscurcir *la relation* qu’il s’agissait là d’esquisser.
 
 <!-- id: s14-01-0046 -->
 
@@ -202,9 +202,9 @@ J’avance donc, dans ce qu’il s’agit ici d’énoncer : pour faire du fant
 
 <!-- id: s14-01-0049 -->
 
-> cette surface primordiale qu’il nous faut pour faire fonctionner notre articulation logique, vous en connaissez déjà quelques formes : ce sont des surfaces fermées, elles participent de *la bulle* à ceci près qu’elles ne sont pas sphériques.
->
-> Appelons-les « *la bulle* » et nous verrons ce qui motive, ce à quoi s’attache, l’existence de *bulles* dans le *réel* …cette surface que j’appelle *bulle* a proprement deux noms : *le désir* et *la réalité*.
+cette surface primordiale qu’il nous faut pour faire fonctionner notre articulation logique, vous en connaissez déjà quelques formes : ce sont des surfaces fermées, elles participent de *la bulle* à ceci près qu’elles ne sont pas sphériques.
+
+Appelons-les « *la bulle* » et nous verrons ce qui motive, ce à quoi s’attache, l’existence de *bulles* dans le *réel* …cette surface que j’appelle *bulle* a proprement deux noms : *le désir* et *la réalité*.
 
 <!-- id: s14-01-0050 -->
 
@@ -252,7 +252,7 @@ Si nous prenons, de ces surfaces, la plus exemplaire parce que la plus simple à
 
 <!-- id: s14-01-0061 -->
 
-> je le rappelle pour ceux pour qui ces images ont encore quelque présence : si, je le répète, d’une façon purement ima­gée, mais dont l’image est nécessaire, à savoir sur cette *bulle* :
+je le rappelle pour ceux pour qui ces images ont encore quelque présence : si, je le répète, d’une façon purement ima­gée, mais dont l’image est nécessaire, à savoir sur cette *bulle* :
 
 <!-- id: s14-01-0062 -->
 
@@ -260,9 +260,9 @@ Si nous prenons, de ces surfaces, la plus exemplaire parce que la plus simple à
 
 <!-- id: s14-01-0063 -->
 
-> dont les parois (appelons-les anté­rieure et postérieure) vien­nent ici \[X\], en ce trait non moins imaginaire, se croi­ser.
->
-> C’est ainsi que nous représentons la structure de ce dont il s’agit …toute découpe, toute coupe qui franchira cette ligne imaginaire, ins­taurera un changement total de la structure de la surface :
+dont les parois (appelons-les anté­rieure et postérieure) vien­nent ici \[X\], en ce trait non moins imaginaire, se croi­ser.
+
+C’est ainsi que nous représentons la structure de ce dont il s’agit …toute découpe, toute coupe qui franchira cette ligne imaginaire, ins­taurera un changement total de la structure de la surface :
 
 <!-- id: s14-01-0064 -->
 
@@ -336,7 +336,7 @@ C’est par là qu’à jamais…
 
 <!-- id: s14-01-0081 -->
 
-> dans *cette relation d’un vel originalement structuré* qui est celui où j’ai essayé d’articuler pour vous, il y a déjà trois ans, *l’aliénation* …le sujet ne saurait s’instituer que com­me un rapport de *manque* à ce *(a)* qui est de l’Autre, sauf à vouloir se situer dans l’Autre, à ne l’avoir également qu’*amputé* de cet *objet(a)*. Le rapport du sujet à *l’objet(a)* comporte ce que *l’image d’Euler* prend comme sens quand elle est portée au niveau de simple représentation des deux opérations logiques qu’on appelle « *réunion »* et « *intersection ».*
+dans *cette relation d’un vel originalement structuré* qui est celui où j’ai essayé d’articuler pour vous, il y a déjà trois ans, *l’aliénation* …le sujet ne saurait s’instituer que com­me un rapport de *manque* à ce *(a)* qui est de l’Autre, sauf à vouloir se situer dans l’Autre, à ne l’avoir également qu’*amputé* de cet *objet(a)*. Le rapport du sujet à *l’objet(a)* comporte ce que *l’image d’Euler* prend comme sens quand elle est portée au niveau de simple représentation des deux opérations logiques qu’on appelle « *réunion »* et « *intersection ».*
 
 <!-- id: s14-01-0082 -->
 
@@ -372,11 +372,11 @@ Chacun sait, et pourra s’apercevoir dans ce recueil mis maintenant à votre po
 
 <!-- id: s14-01-0090 -->
 
-> même si propédeutiquement il a fallu pendant un temps en seriner la fonction aux oreilles qui m’écoutent …*le signifiant*…
+même si propédeutiquement il a fallu pendant un temps en seriner la fonction aux oreilles qui m’écoutent …*le signifiant*…
 
 <!-- id: s14-01-0091 -->
 
-> et l’on pourra remarquer que je ne l’ai ja­mais proprement articulé comme tel …*n’est pas seulement ce qui supporte ce qui n’est pas là* [^3].
+et l’on pourra remarquer que je ne l’ai ja­mais proprement articulé comme tel …*n’est pas seulement ce qui supporte ce qui n’est pas là* [^3].
 
 <!-- id: s14-01-0092 -->
 
@@ -388,7 +388,7 @@ C’est l’algorithme :
 
 <!-- id: s14-01-0094 -->
 
-> <img src="assets/image10.jpeg" style="width:0.68894in;height:0.43403in" alt="8" />
+<img src="assets/image10.jpeg" style="width:0.68894in;height:0.43403in" alt="8" />
 
 <!-- id: s14-01-0095 -->
 
@@ -460,7 +460,7 @@ Ceci viendra, au moment où nous aurons à attaquer certain registre et dès mai
 
 <!-- id: s14-01-0112 -->
 
-> je veux dire de celles dont je viens de vous donner l’exemple le moins ambigu …de la confondre avec quoi que ce soit qui en fasse une sorte de *rapport proportionnel*.
+je veux dire de celles dont je viens de vous donner l’exemple le moins ambigu …de la confondre avec quoi que ce soit qui en fasse une sorte de *rapport proportionnel*.
 
 <!-- id: s14-01-0113 -->
 
@@ -468,7 +468,7 @@ Ceci viendra, au moment où nous aurons à attaquer certain registre et dès mai
 
 <!-- id: s14-01-0114 -->
 
-> le fait d’*enter*[^7] un signifiant substitué à un autre signifiant sur la chaîne signifiante …c’est la source et l’origi­ne de toute signification, ce que j’ai articulé s’inter­prète correctement sous la forme où, aujourd’hui, par le surgissement de ce *sujet barré* comme tel, je vous ai donné la formule.
+le fait d’*enter*[^7] un signifiant substitué à un autre signifiant sur la chaîne signifiante …c’est la source et l’origi­ne de toute signification, ce que j’ai articulé s’inter­prète correctement sous la forme où, aujourd’hui, par le surgissement de ce *sujet barré* comme tel, je vous ai donné la formule.
 
 <!-- id: s14-01-0115 -->
 
@@ -488,7 +488,7 @@ le S’, les deux S et le petit s du signifié, avec cette relation de proportio
 
 <!-- id: s14-01-0119 -->
 
-> M. PERELMAN, l’auteur d’une théorie de l’argu­mentation, promouvant à nouveau une rhétorique abandon­née …articule la métaphore, y voyant la fonction de l’analogie et que c’est du rapport d’un signifiant à un autre en tant qu’un troisième le reproduit en faisant surgir un signifié idéal, qu’il fonde la fonction de la métaphore. À quoi j’ai répondu, en son temps.
+M. PERELMAN, l’auteur d’une théorie de l’argu­mentation, promouvant à nouveau une rhétorique abandon­née …articule la métaphore, y voyant la fonction de l’analogie et que c’est du rapport d’un signifiant à un autre en tant qu’un troisième le reproduit en faisant surgir un signifié idéal, qu’il fonde la fonction de la métaphore. À quoi j’ai répondu, en son temps.
 
 <!-- id: s14-01-0120 -->
 
@@ -496,7 +496,7 @@ C’est uni­quement d’une telle métaphore que peut surgir la formule qui a �
 
 <!-- id: s14-01-0121 -->
 
-> <img src="assets/image12.jpeg" style="width:0.6101in;height:0.86431in" alt="Sans titre" />
+<img src="assets/image12.jpeg" style="width:0.6101in;height:0.86431in" alt="Sans titre" />
 
 <!-- id: s14-01-0122 -->
 
@@ -512,9 +512,9 @@ Et puisque aujourd’hui, il s’avère que je ne rempli­rai pas les cinq point
 
 <!-- id: s14-01-0125 -->
 
-> très précisément au début du petit recueil dont je vous par­lais tout à l’heure, qui concerne
->
-> *le tournant de mes rapports avec mon audience*, qu’a constitué le *Congrès de Bonneval* …il est erroné de structu­rer ainsi, *sur un prétendu mythe de « langage réduit* », au­cune déduction de l’inconscient, pour la raison suivan­te : *il est de la nature de tout et d’aucun signifiant de ne pou­voir en aucun cas se signifier lui-même.*
+très précisément au début du petit recueil dont je vous par­lais tout à l’heure, qui concerne
+
+*le tournant de mes rapports avec mon audience*, qu’a constitué le *Congrès de Bonneval* …il est erroné de structu­rer ainsi, *sur un prétendu mythe de « langage réduit* », au­cune déduction de l’inconscient, pour la raison suivan­te : *il est de la nature de tout et d’aucun signifiant de ne pou­voir en aucun cas se signifier lui-même.*
 
 <!-- id: s14-01-0126 -->
 

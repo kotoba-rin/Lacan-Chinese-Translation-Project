@@ -14,11 +14,11 @@ Si j’essaie cette année d’ébaucher devant vous une structure qui s’annon
 
 <!-- id: s14-20-0003 -->
 
-> d’une logique hasar­deuse, combien précaire peut–être, où aussi bien je vous ménage, n’y donnant pas trop vite les formes auxquelles j’ai pu me fier dans mes propres gribouillages, mais essayant de vous montrer l’accessible d’une articulation de telle sorte, sous cette forme facile qu’enfin j’ai choisie entre d’autres, qui consiste très simplement à m’emparer de ce qu’il y a de plus incommensurable au 1, nommément *le Nombre d’or* …et ce­ci, à cette fin seulement de vous rendre tangible combien par un tel chemin…
+d’une logique hasar­deuse, combien précaire peut–être, où aussi bien je vous ménage, n’y donnant pas trop vite les formes auxquelles j’ai pu me fier dans mes propres gribouillages, mais essayant de vous montrer l’accessible d’une articulation de telle sorte, sous cette forme facile qu’enfin j’ai choisie entre d’autres, qui consiste très simplement à m’emparer de ce qu’il y a de plus incommensurable au 1, nommément *le Nombre d’or* …et ce­ci, à cette fin seulement de vous rendre tangible combien par un tel chemin…
 
 <!-- id: s14-20-0004 -->
 
-> où, je vous le répète, je ne prétends point ni vous donner les pas définitifs, ni même les avoir faits moi-même …mais combien est préférable un tel chemin qui s’assure de quelque vérité concernant la dépendance du sujet, plutôt que de se livrer à ces exercices pénibles qui sont ceux de la prose analytique commune et qui se dis­tinguent en ces sortes de tortillements, de détours insensés, qui semblent toujours *nécessaires* pour rendre compte de ce jeu de *positions libidinales*.
+où, je vous le répète, je ne prétends point ni vous donner les pas définitifs, ni même les avoir faits moi-même …mais combien est préférable un tel chemin qui s’assure de quelque vérité concernant la dépendance du sujet, plutôt que de se livrer à ces exercices pénibles qui sont ceux de la prose analytique commune et qui se dis­tinguent en ces sortes de tortillements, de détours insensés, qui semblent toujours *nécessaires* pour rendre compte de ce jeu de *positions libidinales*.
 
 <!-- id: s14-20-0005 -->
 
@@ -26,7 +26,7 @@ La mise en exercice de toute une population d’entités subjectives, que vous c
 
 <!-- id: s14-20-0006 -->
 
-> sans compter ce qu’on peut y ajouter de nouveau, de raffiné, en distinguant le *moi idéal* de *l’idéal du moi*, est-ce que tout cela ne porte pas en soi-même …voire, comme il se fait dans la littérature anglo-saxonne depuis quelque temps, y adjoindre « *le self* » qui, pour ma­nifestement y être adjoint pour *porter remède* à cette mul­titude ridicule, n’y échoue pas moins, pour ne représenter, de la façon dont il est manié qu’une entité supplémentaire. Entité, être de raison, toujours inadéquat à partir du moment où nous faisons entrer en jeu, d’une façon correcte, la fonction du *sujet* comme rien d’autre que *ce qui est re­présenté par un signifiant auprès d’un autre signifiant*.
+sans compter ce qu’on peut y ajouter de nouveau, de raffiné, en distinguant le *moi idéal* de *l’idéal du moi*, est-ce que tout cela ne porte pas en soi-même …voire, comme il se fait dans la littérature anglo-saxonne depuis quelque temps, y adjoindre « *le self* » qui, pour ma­nifestement y être adjoint pour *porter remède* à cette mul­titude ridicule, n’y échoue pas moins, pour ne représenter, de la façon dont il est manié qu’une entité supplémentaire. Entité, être de raison, toujours inadéquat à partir du moment où nous faisons entrer en jeu, d’une façon correcte, la fonction du *sujet* comme rien d’autre que *ce qui est re­présenté par un signifiant auprès d’un autre signifiant*.
 
 <!-- id: s14-20-0007 -->
 
@@ -50,7 +50,7 @@ Si cette expression était appro­priée *au dernier carat* - je veux dire qu’
 
 <!-- id: s14-20-0012 -->
 
-> enfin… comment ça se présenterait si on l’aborde du dehors, et après tout nous en sommes toujours tous là …que le passage au fantasme de l’organe est... dans une certaine fonction, assurément privi­légiée dès lors : la génitale précisément ...nécessaire pour que la fonction s’accomplisse.
+enfin… comment ça se présenterait si on l’aborde du dehors, et après tout nous en sommes toujours tous là …que le passage au fantasme de l’organe est... dans une certaine fonction, assurément privi­légiée dès lors : la génitale précisément ...nécessaire pour que la fonction s’accomplisse.
 
 <!-- id: s14-20-0013 -->
 
@@ -58,7 +58,7 @@ Je ne vois aucune façon ici de sortir de l’impasse, sinon à dire…
 
 <!-- id: s14-20-0014 -->
 
-> et un psychanalyste d’importance notable dans la topographie politique, a em­ployé ce moyen : je veux dire qu’au tournant d’une phrase, sans même s’apercevoir bien de la portée de ce qu’il dit, il nous affirme …qu’après tout *la castration*, eh bien « *c’est un rêve !* », ceci, employé au sens où « *c’est des histoires de malade* ». Or, il n’en est rien !
+et un psychanalyste d’importance notable dans la topographie politique, a em­ployé ce moyen : je veux dire qu’au tournant d’une phrase, sans même s’apercevoir bien de la portée de ce qu’il dit, il nous affirme …qu’après tout *la castration*, eh bien « *c’est un rêve !* », ceci, employé au sens où « *c’est des histoires de malade* ». Or, il n’en est rien !
 
 <!-- id: s14-20-0015 -->
 
@@ -66,11 +66,11 @@ La castration est une structure - comme je le rappelais à l’instant - subject
 
 <!-- id: s14-20-0016 -->
 
-> mon Dieu, il n’y a pas très longtemps : il y a quatre ou cinq de nos rencon­tres …j’ai introduit la remarque qu’il ne saurait s’agir que de *l’introduction du sujet dans cette fonction du* « *génital* »…
+mon Dieu, il n’y a pas très longtemps : il y a quatre ou cinq de nos rencon­tres …j’ai introduit la remarque qu’il ne saurait s’agir que de *l’introduction du sujet dans cette fonction du* « *génital* »…
 
 <!-- id: s14-20-0017 -->
 
-> si tant est que nous sachions ce que nous voulons dire quand nous l’appelons ainsi … c’est-à-dire du passage de la fonction à l’acte, de la mise en question de savoir si cet acte peut mériter le titre d’acte sexuel.
+si tant est que nous sachions ce que nous voulons dire quand nous l’appelons ainsi … c’est-à-dire du passage de la fonction à l’acte, de la mise en question de savoir si cet acte peut mériter le titre d’acte sexuel.
 
 <!-- id: s14-20-0018 -->
 
@@ -82,17 +82,17 @@ Quoi qu’il en soit, on ne saurait d’aucune façon s’éva­der de ceci qui
 
 <!-- id: s14-20-0020 -->
 
-> *je parle de quelque chose qui y ressemble et ne soit pas ce à quoi je vais essayer de me référer aujourd’hui,*
->
-> *d’introduire à proprement parler le registre, à savoir la perversion* …n’est capable d’opérer d’une fa­çon qui ne soit pas fautive, que le sujet disons castré et…
+*je parle de quelque chose qui y ressemble et ne soit pas ce à quoi je vais essayer de me référer aujourd’hui,*
+
+*d’introduire à proprement parler le registre, à savoir la perversion* …n’est capable d’opérer d’une fa­çon qui ne soit pas fautive, que le sujet disons castré et…
 
 <!-- id: s14-20-0021 -->
 
-> répétons–nous à la façon des dictionnaires : sens à ajou­ter au mot « castré » …en règle… ça n’est pas aller loin que de s’exprimer *ainsi* *…*en règle avec *ce complexe* qu’on appelle *le complexe de castration*, et qui bien entendu ne veut pas dire qu’on est « complexé », mais bien au contraire…
+répétons–nous à la façon des dictionnaires : sens à ajou­ter au mot « castré » …en règle… ça n’est pas aller loin que de s’exprimer *ainsi* *…*en règle avec *ce complexe* qu’on appelle *le complexe de castration*, et qui bien entendu ne veut pas dire qu’on est « complexé », mais bien au contraire…
 
 <!-- id: s14-20-0022 -->
 
-> comme toute littérature digne de ce nom - *psychanalytique je veux dire* - qui ne soit pas les bavardages de gens qui ne savent pas ce qu’ils disent - ce qui arrive même aux plus hautes autorités - ce qui veut dire bel et bien, dans toute littéra­ture analytique saine …qu’on est, dirai-je, « *normé* » au regard de *l’acte sexuel*.
+comme toute littérature digne de ce nom - *psychanalytique je veux dire* - qui ne soit pas les bavardages de gens qui ne savent pas ce qu’ils disent - ce qui arrive même aux plus hautes autorités - ce qui veut dire bel et bien, dans toute littéra­ture analytique saine …qu’on est, dirai-je, « *normé* » au regard de *l’acte sexuel*.
 
 <!-- id: s14-20-0023 -->
 
@@ -128,7 +128,7 @@ Nous dirons même, comme je l’ai rappelé une de ces dernières fois, qu’ell
 
 <!-- id: s14-20-0031 -->
 
-> à condition bien sûr d’avoir avec sa pratique une conduite totale cohérente …peut en faire un fondement de son bien-être : se rappeler DIOGÈNE, à qui non seulement elle était familière, mais qui la promouvait en exemple de la façon dont il convenait de traiter ce qui reste, dans cette perspective, le menu sur­plus d’un chatouillement organique : *titillation*.
+à condition bien sûr d’avoir avec sa pratique une conduite totale cohérente …peut en faire un fondement de son bien-être : se rappeler DIOGÈNE, à qui non seulement elle était familière, mais qui la promouvait en exemple de la façon dont il convenait de traiter ce qui reste, dans cette perspective, le menu sur­plus d’un chatouillement organique : *titillation*.
 
 <!-- id: s14-20-0032 -->
 
@@ -148,9 +148,9 @@ Il est donc tout à fait hors de jeu d’alléguer, *selon la tradition moralisa
 
 <!-- id: s14-20-0036 -->
 
-> la fin étant la production *de petits chrétiens, voire* - j’y reviens, quoique ça ait scandalisé, la dernière fois que je l’ai dit – ­
->
-> voire *de petits prolétaires* …eh bien, que ce soit porter *un moyen* au rang de *fin*, ça n’a absolument rien à faire avec la question telle qu’il faut la poser, puisque c’est celle de la norme d’un acte, pris au sens plein - que j’ai rappelé - de ce mot « *acte* », et que ça n’a rien à faire avec les rejets reproductifs que ça peut prendre, dans la fin de la perpétua­tion de l’animal.
+la fin étant la production *de petits chrétiens, voire* - j’y reviens, quoique ça ait scandalisé, la dernière fois que je l’ai dit – ­
+
+voire *de petits prolétaires* …eh bien, que ce soit porter *un moyen* au rang de *fin*, ça n’a absolument rien à faire avec la question telle qu’il faut la poser, puisque c’est celle de la norme d’un acte, pris au sens plein - que j’ai rappelé - de ce mot « *acte* », et que ça n’a rien à faire avec les rejets reproductifs que ça peut prendre, dans la fin de la perpétua­tion de l’animal.
 
 <!-- id: s14-20-0037 -->
 
@@ -158,7 +158,7 @@ Au contraire, nous devons le situer par rapport à ceci, qui est le passage du s
 
 <!-- id: s14-20-0038 -->
 
-> et tout à fait en dehors du champ ordi­naire où nous sommes à l’aise avec le mot « *acte* » *…*qui s’appelle ce point *problématique* qu’est l’acte sexuel.
+et tout à fait en dehors du champ ordi­naire où nous sommes à l’aise avec le mot « *acte* » *…*qui s’appelle ce point *problématique* qu’est l’acte sexuel.
 
 <!-- id: s14-20-0039 -->
 
@@ -166,7 +166,7 @@ Que le passage de *la jouissance*, là où elle peut être saisie, soit par une 
 
 <!-- id: s14-20-0040 -->
 
-> pour être plus prudents et mettre en suspens ceci : que peut-être on pourrait arriver à la formuler d’une façon plus précise …que ce passage, en tout cas ait le rapport le plus manifeste avec l’introduction de cette *jouissance* à une fonction de *valeur* : voilà en tout cas ce qui peut se dire sans imprudence.
+pour être plus prudents et mettre en suspens ceci : que peut-être on pourrait arriver à la formuler d’une façon plus précise …que ce passage, en tout cas ait le rapport le plus manifeste avec l’introduction de cette *jouissance* à une fonction de *valeur* : voilà en tout cas ce qui peut se dire sans imprudence.
 
 <!-- id: s14-20-0041 -->
 
@@ -174,11 +174,11 @@ Que l’expérience - une expérience même, où si l’on peut dire, une certai
 
 <!-- id: s14-20-0042 -->
 
-> je n’ai aucu­ne raison de me refuser à ce qu’ici donne la littérature, parce que, comme je viens de vous le dire, il n’y a là *d’accès que* « *empathique* », ça devra être purifié secondairement, mais enfin on ne se refuse pas cet accès-là non plus, quand nous sommes en terrain difficile …donc ait le plus étroit rapport - *cette castration* - avec l’apparition de ce qu’on appelle *l’ob­jet* dans la structure de l’orgasme, en tant \- je vous le ré­pète : nous sommes toujours dans l’empathie - qu’il est repé­ré comme distinct d’une *jouissance*…
+je n’ai aucu­ne raison de me refuser à ce qu’ici donne la littérature, parce que, comme je viens de vous le dire, il n’y a là *d’accès que* « *empathique* », ça devra être purifié secondairement, mais enfin on ne se refuse pas cet accès-là non plus, quand nous sommes en terrain difficile …donc ait le plus étroit rapport - *cette castration* - avec l’apparition de ce qu’on appelle *l’ob­jet* dans la structure de l’orgasme, en tant \- je vous le ré­pète : nous sommes toujours dans l’empathie - qu’il est repé­ré comme distinct d’une *jouissance*…
 
 <!-- id: s14-20-0043 -->
 
-> ah ! comment allons-nous l’appeler ?Auto-érotique ? : c’est une concession ! *…masturbatoire -* et puis c’est tout ! - étant donné *ce dont il s’a­git*, c’est-à-dire *d’un organe* et bien précis.
+ah ! comment allons-nous l’appeler ?Auto-érotique ? : c’est une concession ! *…masturbatoire -* et puis c’est tout ! - étant donné *ce dont il s’a­git*, c’est-à-dire *d’un organe* et bien précis.
 
 <!-- id: s14-20-0044 -->
 
@@ -186,9 +186,9 @@ Parce que, comme l’auto-érotisme, Dieu sait ce qu’on en a déjà fait et do
 
 <!-- id: s14-20-0045 -->
 
-> et comme vous savez que c’est justement là ce qui est en question, à savoir que cet auto-érotisme, qui a ici, en effet
->
-> \- qui pourrait avoir - un sens tout à fait bien précis : celui de jouissance locale et maniable, comme tout ce qui est local ! …on va en faire bientôt *le bain océanique* dans lequel tout ça nous avons à le repérer !
+et comme vous savez que c’est justement là ce qui est en question, à savoir que cet auto-érotisme, qui a ici, en effet
+
+\- qui pourrait avoir - un sens tout à fait bien précis : celui de jouissance locale et maniable, comme tout ce qui est local ! …on va en faire bientôt *le bain océanique* dans lequel tout ça nous avons à le repérer !
 
 <!-- id: s14-20-0046 -->
 
@@ -204,7 +204,7 @@ Bref, c’est l’intérêt de l’introduction du mot « *acte* », d’ouvri
 
 <!-- id: s14-20-0049 -->
 
-> qui vaut bien après tout d’être ouverte, parce que c’est certainement pas moi qui la fais circuler parmi vous …de savoir si dans *l’acte sexuel* - pour autant que pour aucun d’entre vous ce soit jamais arrivé, un *acte sexuel... -* si ça a rapport à *l’avènement d’un signifiant représentant le sujet comme sexe auprès d’un autre signifiant*, ou si ça a la valeur de ce que j’ai appelé dans un autre re­gistre « *La rencontre »,* à savoir : la rencontre unique, *Celle* qui une fois arrivée, est définitive !
+qui vaut bien après tout d’être ouverte, parce que c’est certainement pas moi qui la fais circuler parmi vous …de savoir si dans *l’acte sexuel* - pour autant que pour aucun d’entre vous ce soit jamais arrivé, un *acte sexuel... -* si ça a rapport à *l’avènement d’un signifiant représentant le sujet comme sexe auprès d’un autre signifiant*, ou si ça a la valeur de ce que j’ai appelé dans un autre re­gistre « *La rencontre »,* à savoir : la rencontre unique, *Celle* qui une fois arrivée, est définitive !
 
 <!-- id: s14-20-0050 -->
 
@@ -248,7 +248,7 @@ Il n’en reste pas moins que cette dimension qui fait que la question de *la va
 
 <!-- id: s14-20-0060 -->
 
-> quoi que ce soit que nous ayons à en penser sur le plan physiologique, royalement délaissé bien entendu par les psychanalystes qui, là-dessus, n’ont pas apporté même la moindre petite lumière clinique nouvelle, qui ne soit pas déjà dans tous les manuels, concernant la physiologie du sexe, je veux dire qui n’était pas déjà traînant partout avant que la psychanalyse vienne au monde mais qu’importe ! Ceci ne fait que renforcer ce dont il s’agit …à savoir que *la détumescence* n’est là que pour son utilisation subjective, autrement dit : *pour rappeler la limite dite du principe du plaisir*.
+quoi que ce soit que nous ayons à en penser sur le plan physiologique, royalement délaissé bien entendu par les psychanalystes qui, là-dessus, n’ont pas apporté même la moindre petite lumière clinique nouvelle, qui ne soit pas déjà dans tous les manuels, concernant la physiologie du sexe, je veux dire qui n’était pas déjà traînant partout avant que la psychanalyse vienne au monde mais qu’importe ! Ceci ne fait que renforcer ce dont il s’agit …à savoir que *la détumescence* n’est là que pour son utilisation subjective, autrement dit : *pour rappeler la limite dite du principe du plaisir*.
 
 <!-- id: s14-20-0061 -->
 
@@ -256,13 +256,13 @@ Il n’en reste pas moins que cette dimension qui fait que la question de *la va
 
 <!-- id: s14-20-0062 -->
 
-> pour être la caractéristique du fonc­tionnement de l’organe pénien, nommément, dans l’acte génital,
->
-> et justement dans la mesure où ce qu’elle supporte de jouis­sance est mis en suspens …*est là pour introduire*, légitime­ment ou pas…
+pour être la caractéristique du fonc­tionnement de l’organe pénien, nommément, dans l’acte génital,
+
+et justement dans la mesure où ce qu’elle supporte de jouis­sance est mis en suspens …*est là pour introduire*, légitime­ment ou pas…
 
 <!-- id: s14-20-0063 -->
 
-> *quand je dis « légitimement », je veux dire : comme quelque chose de réel, ou comme une dimension supposée* …pour introduire *ceci : qu’il y a jouissance au-delà*. Que le *principe du plaisir*, ici, fonctionne *comme limite* au bord d’une dimension de la jouissance en tant qu’elle est suggérée par la conjonction dite « acte sexuel ».
+*quand je dis « légitimement », je veux dire : comme quelque chose de réel, ou comme une dimension supposée* …pour introduire *ceci : qu’il y a jouissance au-delà*. Que le *principe du plaisir*, ici, fonctionne *comme limite* au bord d’une dimension de la jouissance en tant qu’elle est suggérée par la conjonction dite « acte sexuel ».
 
 <!-- id: s14-20-0064 -->
 
@@ -326,9 +326,9 @@ Seulement, ce qui est cu­rieux et que la psychanalyse affirme*…*
 
 <!-- id: s14-20-0079 -->
 
-> seulement faute de l’exprimer d’une façon logiquement correcte, naturellement personne
->
-> ne s’aperçoit de ce que ça veut dire, de ce que ça comporte ! …c’est que *la jouissance féminine* elle-même ne peut passer que par *le même repère*, et que c’est ça qu’on appelle chez la femme, le complexe de castration !
+seulement faute de l’exprimer d’une façon logiquement correcte, naturellement personne
+
+ne s’aperçoit de ce que ça veut dire, de ce que ça comporte ! …c’est que *la jouissance féminine* elle-même ne peut passer que par *le même repère*, et que c’est ça qu’on appelle chez la femme, le complexe de castration !
 
 <!-- id: s14-20-0080 -->
 
@@ -368,9 +368,9 @@ Je veux dire que tout ce que je vais avoir à articuler - je dis dans notre proc
 
 <!-- id: s14-20-0089 -->
 
-> sur le registre, sur les tablettes duquel s’inscrit toute cette aventure, et je vous ai dit que ce registre, et ses tablettes,
->
-> n’étaient autres que le corps même …que ce rapport de l’Autre, du grand Autre, avec le partenaire qui lui reste, à savoir ce dont nous sommes partis, et que ce n’est pas pour rien que je l’ai appelé *petit(a),* c’est à savoir votre substance, votre substance de sujet, pour autant que, comme sujet, vous n’en avez aucune, sinon cet objet chu de l’inscription signifiante, sinon ce qui fait que ce *petit(a)* est cette sorte de fragments de l’appartenance du grand A en ballade, c’est-à-dire vous-même, qui êtes bien ici comme présence subjective, mais qui \- dès que j’aurai fini - montrerez bien votre nature d’*objet(a)* à l’aspect de grand balayage que prendra aussitôt cette salle ! \[Rires\]
+sur le registre, sur les tablettes duquel s’inscrit toute cette aventure, et je vous ai dit que ce registre, et ses tablettes,
+
+n’étaient autres que le corps même …que ce rapport de l’Autre, du grand Autre, avec le partenaire qui lui reste, à savoir ce dont nous sommes partis, et que ce n’est pas pour rien que je l’ai appelé *petit(a),* c’est à savoir votre substance, votre substance de sujet, pour autant que, comme sujet, vous n’en avez aucune, sinon cet objet chu de l’inscription signifiante, sinon ce qui fait que ce *petit(a)* est cette sorte de fragments de l’appartenance du grand A en ballade, c’est-à-dire vous-même, qui êtes bien ici comme présence subjective, mais qui \- dès que j’aurai fini - montrerez bien votre nature d’*objet(a)* à l’aspect de grand balayage que prendra aussitôt cette salle ! \[Rires\]
 
 <!-- id: s14-20-0090 -->
 
@@ -390,7 +390,7 @@ Et parmi d’autres, vous y verrez, je dois dire subtilement magnifiée, ce que 
 
 <!-- id: s14-20-0094 -->
 
-> de celui qui, puisqu’il était *Un*, il fallait bien qu’ils soient les deux, il était l’Homme sous ses deux faces, mâle et femelle …« *Il est bon, se dit Dieu* \[Rire de Lacan\] *qu’il ait une compagne* » !
+de celui qui, puisqu’il était *Un*, il fallait bien qu’ils soient les deux, il était l’Homme sous ses deux faces, mâle et femelle …« *Il est bon, se dit Dieu* \[Rire de Lacan\] *qu’il ait une compagne* » !
 
 <!-- id: s14-20-0095 -->
 
@@ -398,7 +398,7 @@ Ce qui encore ne serait rien, si nous ne voyions pas que pour procéder à cette
 
 <!-- id: s14-20-0096 -->
 
-> d’autant plus étrange qu’il semble que jusque-là, l’ADAM en question - *figure faite de terres rouges* - s’en était fort bien passé …Dieu *profite de son sommeil* \[Rires\] pour lui extraire *une côte*, dont il façonne, nous dit-on, l’ÈVE première !
+d’autant plus étrange qu’il semble que jusque-là, l’ADAM en question - *figure faite de terres rouges* - s’en était fort bien passé …Dieu *profite de son sommeil* \[Rires\] pour lui extraire *une côte*, dont il façonne, nous dit-on, l’ÈVE première !
 
 <!-- id: s14-20-0097 -->
 
@@ -406,7 +406,7 @@ Est-ce qu’il peut y avoir illustrations plus saisissantes de ce qu’introduit
 
 <!-- id: s14-20-0098 -->
 
-> au moment précis où vient - supplémentaire - se marquer sur lui l’intervention divine …se trouve dès lors avoir affaire, comme objet, à un morceau de son propre corps ?
+au moment précis où vient - supplémentaire - se marquer sur lui l’intervention divine …se trouve dès lors avoir affaire, comme objet, à un morceau de son propre corps ?
 
 <!-- id: s14-20-0099 -->
 
@@ -430,9 +430,9 @@ Nul étonnement qu’on nous dise…
 
 <!-- id: s14-20-0104 -->
 
-> qu’on nous dise dans les à-côtés mythiques de *La Bible*, ces à-côtés, curieusement,
->
-> qu’on trouve dans les petites additions marginales des rab­bins …qu’on nous dise que quelque chose, qui est peut-être bien justement la femme primordiale, celle qui était là avant ÈVE, et qu’ils appellent - je dis : les rabbins, ce n’est pas moi qui m’en mêle de ces histoires ! - et qu’ils appellent LILITH.
+qu’on nous dise dans les à-côtés mythiques de *La Bible*, ces à-côtés, curieusement,
+
+qu’on trouve dans les petites additions marginales des rab­bins …qu’on nous dise que quelque chose, qui est peut-être bien justement la femme primordiale, celle qui était là avant ÈVE, et qu’ils appellent - je dis : les rabbins, ce n’est pas moi qui m’en mêle de ces histoires ! - et qu’ils appellent LILITH.
 
 <!-- id: s14-20-0105 -->
 

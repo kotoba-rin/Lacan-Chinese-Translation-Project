@@ -1,0 +1,56 @@
+body { font-family: "Songti SC", "Noto Serif CJK SC", "Arial Unicode MS", "Apple Symbols", serif; color: #252a2c; line-height: 1.75; }
+h1, h2, .series, .knowledge-links, .edition, .toc { font-family: "PingFang SC", "Noto Sans CJK SC", sans-serif; }
+h1 { font-size: 1.65em; font-weight: 500; line-height: 1.5; margin: 0 0 1.8em; }
+h2 { font-size: 1.2em; }
+p { margin: 0 0 .72em; text-align: justify; overflow-wrap: anywhere; widows: 2; orphans: 2; }
+a { color: #27545e; text-decoration: none; }
+strong { font-weight: 700; }
+em { font-style: italic; }
+.segment { margin: 0 0 1.15em; }
+.segment-anchor { font-size: 0; line-height: 0; }
+.annotation { font-size: .83em; line-height: 1.6; margin: .5em 0 .8em 1em; padding-left: .85em; border-left: 1px solid #a9b2b5; color: #3e484d; }
+.annotation p:last-child { margin-bottom: 0; }
+blockquote { margin: .5em 1em; }
+.knowledge-links { font-size: .73em; line-height: 1.7; margin: .6em 0 .9em; color: #58696c; }
+.knowledge-links .label { color: #727e81; margin-right: .6em; }
+img { max-width: 100%; max-height: 75vh; height: auto; object-fit: contain; }
+figure { margin: 1em auto; text-align: center; }
+figure img, p > img { display: block; margin: .6em auto; }
+figcaption { font-size: .8em; color: #62696b; }
+.math-inline { white-space: nowrap; }
+.math-inline svg { display: inline; max-width: 100%; }
+.math-display { text-align: center; margin: 1em auto; }
+table { border-collapse: collapse; width: 100%; font-size: .9em; }
+td, th { padding: .3em; border-bottom: 1px solid #dce1e3; }
+ul, ol { padding-left: 1.6em; }
+li { margin-bottom: .25em; }
+.cover { text-align: left; padding-top: 18%; }
+.cover .series { font-size: .9em; letter-spacing: .18em; color: #53696b; }
+.cover h1 { font-family: "Songti SC", serif; font-size: 4.5em; letter-spacing: .18em; margin: 1.1em 0 .25em; color: #183e44; }
+.cover .french { font-size: 1.8em; font-style: italic; margin: 0 0 1em; }
+.cover .year { font-size: 1.2em; color: #53696b; }
+.cover .author { margin-top: 3.5em; }
+.cover .edition { font-size: .78em; margin-top: 2.5em; color: #69787b; }
+.cover-image { margin: 0; text-align: center; }
+.cover-image img { max-height: 100%; width: 100%; }
+.imprint { font-size: .86em; }
+.toc ol { list-style: none; padding: 0; }
+.toc li { margin: 0 0 .6em; }
+@media print {
+  @page { size: A5; margin: 19mm 17mm 19mm; @top-center { content: "雅克·拉康  /  第八期：移情"; font-family: "PingFang SC", sans-serif; font-size: 7.5pt; color: #819095; } @bottom-center { content: counter(page); font-family: serif; font-size: 8pt; color: #65767b; } }
+  @page cover { margin: 20mm; @top-center { content: none; } @bottom-center { content: none; } }
+  @page front { @top-center { content: none; } }
+  body { font-size: 10.5pt; margin: 0; }
+  .cover { page: cover; height: 160mm; padding-top: 10mm; break-after: page; }
+  .imprint, .toc { page: front; break-before: page; break-after: page; }
+  .chapter { break-before: page; }
+  .chapter h1 { bookmark-level: 1; break-after: avoid; }
+  .cover h1, .imprint h1, .toc h1 { bookmark-level: none; }
+  .toc a::after { content: leader('.') target-counter(attr(href), page); }
+  .toc { font-size: 9pt; }
+  .toc li { margin-bottom: 2mm; }
+  img { max-height: 145mm; break-inside: avoid; }
+  .knowledge-links { break-before: avoid; }
+  .annotation { break-before: avoid; }
+  .segment > :last-child { margin-bottom: 0; }
+}

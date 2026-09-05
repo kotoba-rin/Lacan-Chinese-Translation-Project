@@ -14,11 +14,11 @@ L’une, importante, qui date de notre *antépénultième* rencontre, est assur�
 
 <!-- id: s14-21-0003 -->
 
-> puisque aussi bien la chose n’était pas, à ceux qui m’enten­dent, inaccessible …expressément *le lieu de l’Autre*…
+puisque aussi bien la chose n’était pas, à ceux qui m’enten­dent, inaccessible …expressément *le lieu de l’Autre*…
 
 <!-- id: s14-21-0004 -->
 
-> ou ce que jusqu’ici, je veux dire depuis le début de mon enseigne­ment, j’ai articulé comme tel …désigné *le lieu de l’Autre dans le corps*.
+ou ce que jusqu’ici, je veux dire depuis le début de mon enseigne­ment, j’ai articulé comme tel …désigné *le lieu de l’Autre dans le corps*.
 
 <!-- id: s14-21-0005 -->
 
@@ -46,9 +46,9 @@ Je veux dire que cette incommensurabilité de ce *(a)*…
 
 <!-- id: s14-21-0011 -->
 
-> que je ne fi­gure que pour la lisibilité de mon texte, *paramètre du Nombre d’or*, car ceux qui « *savent* », savent que cette sorte
->
-> de nombre, constitué par le progrès même de son *approximation*, est toute une famille de nombres et, si l’on peut dire *...peut partir de n’importe où*, de n’importe quel exercice de rapport, à cette seule condition que *l’incommensurable* exige que *l’approxi­mation* n’ait pas de terme, tout en étant pourtant parfaitement reconnaissable à chaque instant comme rigoureuse.
+que je ne fi­gure que pour la lisibilité de mon texte, *paramètre du Nombre d’or*, car ceux qui « *savent* », savent que cette sorte
+
+de nombre, constitué par le progrès même de son *approximation*, est toute une famille de nombres et, si l’on peut dire *...peut partir de n’importe où*, de n’importe quel exercice de rapport, à cette seule condition que *l’incommensurable* exige que *l’approxi­mation* n’ait pas de terme, tout en étant pourtant parfaitement reconnaissable à chaque instant comme rigoureuse.
 
 <!-- id: s14-21-0012 -->
 
@@ -64,7 +64,7 @@ En d’autres termes, le problème qui pour un HEGEL pouvait se contenir dans ce
 
 <!-- id: s14-21-0015 -->
 
-> peut se permettre étant données certaines *conditions* que j’évoquerai tout à l’heure, qui sont *conditions d’Histoire* …de mettre en question le rapport avec une *vérité*,
+peut se permettre étant données certaines *conditions* que j’évoquerai tout à l’heure, qui sont *conditions d’Histoire* …de mettre en question le rapport avec une *vérité*,
 
 <!-- id: s14-21-0016 -->
 
@@ -80,7 +80,7 @@ Ce qu’il s’agit donc d’introduire aujourd’hui, et d’autant plus rapide
 
 <!-- id: s14-21-0019 -->
 
-> pour des oreilles déjà suffisamment formées à la notion de *la prévalence du si­gnifiant dans toute constitution subjective* …d’apercevoir la différence qu’il y a entre :
+pour des oreilles déjà suffisamment formées à la notion de *la prévalence du si­gnifiant dans toute constitution subjective* …d’apercevoir la différence qu’il y a entre :
 
 <!-- id: s14-21-0020 -->
 
@@ -96,7 +96,7 @@ Ce qu’il s’agit donc d’introduire aujourd’hui, et d’autant plus rapide
 
 <!-- id: s14-21-0023 -->
 
-> dont ce n’est pas ici, à cette heure, ni la pre­mière fois que j’introduits le terme …*dans quelque chose* que je nomme comme étant *la jouissance,* j’entends comme dès longtemps introduite et nommément dans mon séminai­re sur *L*’*Éthique* \[1959-60\].Il est en effet exigible que ce terme de *jouissance* soit proféré et proprement comme *distinct du plaisir*, comme en constituant *l’au-delà*.
+dont ce n’est pas ici, à cette heure, ni la pre­mière fois que j’introduits le terme …*dans quelque chose* que je nomme comme étant *la jouissance,* j’entends comme dès longtemps introduite et nommément dans mon séminai­re sur *L*’*Éthique* \[1959-60\].Il est en effet exigible que ce terme de *jouissance* soit proféré et proprement comme *distinct du plaisir*, comme en constituant *l’au-delà*.
 
 <!-- id: s14-21-0024 -->
 
@@ -128,7 +128,7 @@ C’est en ceci que j’ai tenu à apporter la référence, dont chacun sait que
 
 <!-- id: s14-21-0031 -->
 
-> *ce procès de la dialectique des différents niveaux de la certitude de soi-même, de la Phénoménologie de L’esprit comme il a dit* …se suspend à un mouvement qu’il appelle « *dialectique* » et qui assurément dans sa perspective, peut être tenu pour être seu­lement dialectique d’un rapport qu’il articule de la présen­ce de cette conscience, pour autant que sa vérité lui échappe, dans ce qui constitue le jeu du rapport *d’une conscience de soi-même* à *une autre conscience de soi-même :* dans le rapport de *l’intersubjectivité*. Or il est clair, il est dès longtemps démontré, ne se­rait-ce que par *la révélation de cette béance sociale*, en tant qu’elle ne nous permet pas de résumer à l’affrontement « *d’une conscience à une conscience* » ce qui se présente comme « *lutte* », nommément « *du maître et de l’esclave* ».
+*ce procès de la dialectique des différents niveaux de la certitude de soi-même, de la Phénoménologie de L’esprit comme il a dit* …se suspend à un mouvement qu’il appelle « *dialectique* » et qui assurément dans sa perspective, peut être tenu pour être seu­lement dialectique d’un rapport qu’il articule de la présen­ce de cette conscience, pour autant que sa vérité lui échappe, dans ce qui constitue le jeu du rapport *d’une conscience de soi-même* à *une autre conscience de soi-même :* dans le rapport de *l’intersubjectivité*. Or il est clair, il est dès longtemps démontré, ne se­rait-ce que par *la révélation de cette béance sociale*, en tant qu’elle ne nous permet pas de résumer à l’affrontement « *d’une conscience à une conscience* » ce qui se présente comme « *lutte* », nommément « *du maître et de l’esclave* ».
 
 <!-- id: s14-21-0032 -->
 
@@ -144,7 +144,7 @@ Le terme de *jouissance* y intervient : *la jouissance* - après le terme de ce
 
 <!-- id: s14-21-0035 -->
 
-> qu’après tout je ne puis pas ici produire et encore moins avec l’abré­viation à laquelle nous sommes contraints aujourd’hui …de quoi le maître jouit-il ?
+qu’après tout je ne puis pas ici produire et encore moins avec l’abré­viation à laquelle nous sommes contraints aujourd’hui …de quoi le maître jouit-il ?
 
 <!-- id: s14-21-0036 -->
 
@@ -156,7 +156,7 @@ En fait il est bien loin d’en être ainsi - nous le ré-indiquerons tout à l�
 
 <!-- id: s14-21-0038 -->
 
-> et je n’ai point à *le défendre*, je veux dire : ce point vif, puisque déjà dans HEGEL, il est suffi­samment indiqué …qu’il y a pour l’esclave une certaine *jouis­sance de la chose*, en tant que non seulement il l’apporte au maître, mais à la transformer pour la lui rendre recevable.
+et je n’ai point à *le défendre*, je veux dire : ce point vif, puisque déjà dans HEGEL, il est suffi­samment indiqué …qu’il y a pour l’esclave une certaine *jouis­sance de la chose*, en tant que non seulement il l’apporte au maître, mais à la transformer pour la lui rendre recevable.
 
 <!-- id: s14-21-0039 -->
 
@@ -224,13 +224,13 @@ Je ne m’amuse en général pas au hasard, ceci veut dire quelque chose…
 
 <!-- id: s14-21-0055 -->
 
-> ç’aurait pu aussi bien *être relevé* par quelqu’un de ceux qui m’écoutent,
->
-> jJe regrette trop souvent de ne *recueillir rien de plus* que ce qui me force à le faire moi-même. …la question est celle-ci : *ce dont on jouit*…
+ç’aurait pu aussi bien *être relevé* par quelqu’un de ceux qui m’écoutent,
+
+jJe regrette trop souvent de ne *recueillir rien de plus* que ce qui me force à le faire moi-même. …la question est celle-ci : *ce dont on jouit*…
 
 <!-- id: s14-21-0056 -->
 
-> s’il y a cette jouissance qui s’inaugure dans le « *je* » du sujet en tant qu’il possède …*ce dont on jouit cela jouit-il ?*
+s’il y a cette jouissance qui s’inaugure dans le « *je* » du sujet en tant qu’il possède …*ce dont on jouit cela jouit-il ?*
 
 <!-- id: s14-21-0057 -->
 
@@ -242,7 +242,7 @@ Le maître…
 
 <!-- id: s14-21-0059 -->
 
-> *en tant qu’il est ce­lui-là, dans la Cité, qui ne saurait d’aucune façon être n’im­porte qui, mais qui est marqué de sa fonction de maître* …il a bien autre chose à faire qu’à s’abandonner à la jouissance. Et la maîtrise de son corps, car il ne s’agit pas seulement du loisir, est quelque chose qui ne se mène que par les plus rudes disciplines. À toutes les époques de civilisation, celui-­là qui est maître n’a nullement le temps de se laisser aller, et fût-ce dans ses loisirs !
+*en tant qu’il est ce­lui-là, dans la Cité, qui ne saurait d’aucune façon être n’im­porte qui, mais qui est marqué de sa fonction de maître* …il a bien autre chose à faire qu’à s’abandonner à la jouissance. Et la maîtrise de son corps, car il ne s’agit pas seulement du loisir, est quelque chose qui ne se mène que par les plus rudes disciplines. À toutes les époques de civilisation, celui-­là qui est maître n’a nullement le temps de se laisser aller, et fût-ce dans ses loisirs !
 
 <!-- id: s14-21-0060 -->
 
@@ -254,7 +254,7 @@ La question est justement celle-ci : est-ce que…
 
 <!-- id: s14-21-0062 -->
 
-> *ce qui après tout n’est que juste et conforme au premier enjeu de la par­tie* …celui qui - à en croire HEGEL ­- n’a pu dès le départ tenir le risque éventuel de la perte de la vie, ce qui est bien en effet la voie la plus sûre pour perdre la jouissance, celui qui a assez tenu à la jouissance pour se soumettre et pour aliéner son corps, et pourquoi donc la jouissance ne lui resterait­-elle pas en main ?
+*ce qui après tout n’est que juste et conforme au premier enjeu de la par­tie* …celui qui - à en croire HEGEL ­- n’a pu dès le départ tenir le risque éventuel de la perte de la vie, ce qui est bien en effet la voie la plus sûre pour perdre la jouissance, celui qui a assez tenu à la jouissance pour se soumettre et pour aliéner son corps, et pourquoi donc la jouissance ne lui resterait­-elle pas en main ?
 
 <!-- id: s14-21-0063 -->
 
@@ -262,7 +262,7 @@ Nous avons mille témoignages de ceci…
 
 <!-- id: s14-21-0064 -->
 
-> *qu’une courte vue, on ne sait quel fantasme, qui veut que tout soit toujours du même côté, que le bouquet complet soit dans une seule main* …nous avons mille témoignages que ce qui caractérise la position de *celui dont le corps est remis à la merci d’un autre, c’est à partir de là* *que s’ouvre ce qui peut s’appeler la pure jouis­sance.*
+*qu’une courte vue, on ne sait quel fantasme, qui veut que tout soit toujours du même côté, que le bouquet complet soit dans une seule main* …nous avons mille témoignages que ce qui caractérise la position de *celui dont le corps est remis à la merci d’un autre, c’est à partir de là* *que s’ouvre ce qui peut s’appeler la pure jouis­sance.*
 
 <!-- id: s14-21-0065 -->
 
@@ -314,7 +314,7 @@ Pour mesurer ce qu’il en est concernant ses effets sur la jouissance, il convi
 
 <!-- id: s14-21-0077 -->
 
-> « *Il n’y a de jouissance <u>que</u> du corps.* »
+« *Il n’y a de jouissance <u>que</u> du corps.* »
 
 <!-- id: s14-21-0078 -->
 
@@ -410,9 +410,9 @@ Mais, aussi bien, chacun sait…
 
 <!-- id: s14-21-0101 -->
 
-> chacun sait - mon Dieu - par l’expérience, pour ce que ce mariage,
->
-> qui a été mis dès lors à la portée de tous, traîne encore après lui de déchire­ments …chacun sait que cela ne va pas tout seul !
+chacun sait - mon Dieu - par l’expérience, pour ce que ce mariage,
+
+qui a été mis dès lors à la portée de tous, traîne encore après lui de déchire­ments …chacun sait que cela ne va pas tout seul !
 
 <!-- id: s14-21-0102 -->
 
@@ -420,7 +420,7 @@ Et si vous ouvrez TITE LIVE, vous verrez qu’il est une époque, pas telle­men
 
 <!-- id: s14-21-0103 -->
 
-> les dames romai­nes, celles qui étaient vraiment marquées du vrai [*connubium*](http://remacle.org/bloodwolf/institutions/connubium.htm) *…*ont empoisonné pendant toute une génération, avec une ampleur et une persévérance qui n’a pas été sans laisser quelques tra­ces dans la mémoire et que TITE LIVE inscrit, ont empoisonné leurs maris : ce n’était pas sans raison.
+les dames romai­nes, celles qui étaient vraiment marquées du vrai [*connubium*](http://remacle.org/bloodwolf/institutions/connubium.htm) *…*ont empoisonné pendant toute une génération, avec une ampleur et une persévérance qui n’a pas été sans laisser quelques tra­ces dans la mémoire et que TITE LIVE inscrit, ont empoisonné leurs maris : ce n’était pas sans raison.
 
 <!-- id: s14-21-0104 -->
 
@@ -444,11 +444,11 @@ Cette interrogation sur *ce qu’il en est de la jouissance en fonction tierce*,
 
 <!-- id: s14-21-0109 -->
 
-> *exactement à l’inverse de ce pas, de ce franchissement, qui est fait dans le sens de l’acte sexuel* *…qui s’appelle*…
+*exactement à l’inverse de ce pas, de ce franchissement, qui est fait dans le sens de l’acte sexuel* *…qui s’appelle*…
 
 <!-- id: s14-21-0110 -->
 
-> *et justement, et uniquement à cause que c’est dans un sens inverse, concernant une certaine progression, progression lo­gique* …*qui s’appelle*, à cause de cela : *la régression.*
+*et justement, et uniquement à cause que c’est dans un sens inverse, concernant une certaine progression, progression lo­gique* …*qui s’appelle*, à cause de cela : *la régression.*
 
 <!-- id: s14-21-0111 -->
 
@@ -516,11 +516,11 @@ Qu’est-ce à dire, puisque pour l’esclave, il n’y a du côté de l’Autre
 
 <!-- id: s14-21-0127 -->
 
-> HEGEL est trompé en ceci que c’est *pour l’esclave* qu’il y a la jouissance du maître …mais *la question* qui vaut, je vous l’ai posée tout à l’heure :
+HEGEL est trompé en ceci que c’est *pour l’esclave* qu’il y a la jouissance du maître …mais *la question* qui vaut, je vous l’ai posée tout à l’heure :
 
 <!-- id: s14-21-0128 -->
 
-> « *Ce dont on jouit, jouit–il ?* »
+« *Ce dont on jouit, jouit–il ?* »
 
 <!-- id: s14-21-0129 -->
 
@@ -604,4 +604,4 @@ C’est pourquoi vous me permettrez de terminer aujourd’hui sur ce point, en v
 
 <!-- id: s14-21-0149 -->
 
-> comme point d’arrivée, comme pointe de ce qui est mis en question par cette introduction de la perversion …en vous promettant de vous indiquer comme pointe, que nous mettrons enfin, j’espère, quelque ordre, tout au moins un peu plus de clarté, concernant ce dont il s’agit, quand il s’agit du masochisme.
+comme point d’arrivée, comme pointe de ce qui est mis en question par cette introduction de la perversion …en vous promettant de vous indiquer comme pointe, que nous mettrons enfin, j’espère, quelque ordre, tout au moins un peu plus de clarté, concernant ce dont il s’agit, quand il s’agit du masochisme.

@@ -74,7 +74,7 @@ Si je me pose cette question, *c’est qu’elle vaut d’être posée*. Ce peti
 
 <!-- id: s14-06-0018 -->
 
-> et qui me semble devoir être rappelé à votre attention juste avant que j’apporte *une formule logique qui permette en quelque sorte d’assurer d’une façon ferme et certaine ce qu’il en est de la réaction du sujet pris dans cette réalité de l’incons­cient* …il n’est pas vain que ce volume vous témoigne de ce qu’il en est des difficultés de ce séjour, pour ceux dont c’est la praxis et la fonction que d’y être… peut-être est-ce faute de mesurer le rapport qu’il y a de cet « *y être* » à un certain « *n’y être pas* » nécessaire …ce volume vous témoignera de ce qu’a été une rencontre autour de ce thème de l’inconscient.
+et qui me semble devoir être rappelé à votre attention juste avant que j’apporte *une formule logique qui permette en quelque sorte d’assurer d’une façon ferme et certaine ce qu’il en est de la réaction du sujet pris dans cette réalité de l’incons­cient* …il n’est pas vain que ce volume vous témoigne de ce qu’il en est des difficultés de ce séjour, pour ceux dont c’est la praxis et la fonction que d’y être… peut-être est-ce faute de mesurer le rapport qu’il y a de cet « *y être* » à un certain « *n’y être pas* » nécessaire …ce volume vous témoignera de ce qu’a été une rencontre autour de ce thème de l’inconscient.
 
 <!-- id: s14-06-0019 -->
 
@@ -86,7 +86,7 @@ Vous verrez *à la première page*, en tout petits carac­tères, *une très sin
 
 <!-- id: s14-06-0021 -->
 
-> je vous laisse le soin - ça vous permettra de les re-feuilleter un peu - de trouver ce point …ce que FREUD et la police, d’une même voix, appellent « *le cadeau* » ou « *la carte de visite* ».
+je vous laisse le soin - ça vous permettra de les re-feuilleter un peu - de trouver ce point …ce que FREUD et la police, d’une même voix, appellent « *le cadeau* » ou « *la carte de visite* ».
 
 <!-- id: s14-06-0022 -->
 
@@ -98,9 +98,9 @@ Si un jour, il vous arrive que votre appartement soit visité en votre absence, 
 
 <!-- id: s14-06-0024 -->
 
-> les formules que je veux être aussi sûr de moi que possible, le jour où j’essaierai
->
-> de vous les donner dans leur essentielle et dans leur vraie instance …vous verrez la nécessité qui s’attache à la résistance et qu’elle ne saurait d’aucune façon se limiter au non-psychanalysé.
+les formules que je veux être aussi sûr de moi que possible, le jour où j’essaierai
+
+de vous les donner dans leur essentielle et dans leur vraie instance …vous verrez la nécessité qui s’attache à la résistance et qu’elle ne saurait d’aucune façon se limiter au non-psychanalysé.
 
 <!-- id: s14-06-0025 -->
 
@@ -132,7 +132,7 @@ Pourquoi ? Parce que précisément, c’est en termes de sujet que FREUD articul
 
 <!-- id: s14-06-0032 -->
 
-> autour de quoi j’ai appris à tourner, non pas seulement à moi-même, mais à ceux qui m’é­coutent ...le « *Wo es war, soll Ich werden* ».
+autour de quoi j’ai appris à tourner, non pas seulement à moi-même, mais à ceux qui m’é­coutent ...le « *Wo es war, soll Ich werden* ».
 
 <!-- id: s14-06-0033 -->
 
@@ -164,9 +164,9 @@ Nous pouvons \[graver ?\] formule plus digne de la pierre que celle dont il ava
 
 <!-- id: s14-06-0040 -->
 
-> que ce dont il s’agit dans cette indication, n’est pas l’espoir que tout d’un coup, chez tous les êtres humains,
->
-> comme on s’exprime dans un langage de vermine « le moi doit déloger le ça » ...*ce qui veut dire* que FREUD indique là, rien moins que cette révolution de la pensée que son œuvre nécessite.
+que ce dont il s’agit dans cette indication, n’est pas l’espoir que tout d’un coup, chez tous les êtres humains,
+
+comme on s’exprime dans un langage de vermine « le moi doit déloger le ça » ...*ce qui veut dire* que FREUD indique là, rien moins que cette révolution de la pensée que son œuvre nécessite.
 
 <!-- id: s14-06-0041 -->
 
@@ -174,7 +174,7 @@ Or, il est clair que c’est là un défi, et dangereux pour quiconque s’avanc
 
 <!-- id: s14-06-0042 -->
 
-> pour qu’en quelque sorte vous y puissiez pré­parer votre esprit par quelque exercice …que *ce qui nous y est interdit*, c’est exactement cette sorte de mouvement de la pensée qui est proprement celui du *cogito*, qui tout au­tant que *l’analyse* nécessite l’*Autre* avec un grand A. Ce qui n’exige nullement la présence de quelque imbécile.
+pour qu’en quelque sorte vous y puissiez pré­parer votre esprit par quelque exercice …que *ce qui nous y est interdit*, c’est exactement cette sorte de mouvement de la pensée qui est proprement celui du *cogito*, qui tout au­tant que *l’analyse* nécessite l’*Autre* avec un grand A. Ce qui n’exige nullement la présence de quelque imbécile.
 
 <!-- id: s14-06-0043 -->
 
@@ -242,7 +242,7 @@ Celui que j’ai pris *- le dernier -* est celui de CANTOR. Sachez qu’on lui a
 
 <!-- id: s14-06-0059 -->
 
-> *maintenant que j’articule dans une dimension qui est véhiculée par celle de la vente assez stupéfiante de ces Écrits, j’articule donc ce discours* …il va falloir - ou non ! - que je m’occupe de la foire.
+*maintenant que j’articule dans une dimension qui est véhiculée par celle de la vente assez stupéfiante de ces Écrits, j’articule donc ce discours* …il va falloir - ou non ! - que je m’occupe de la foire.
 
 <!-- id: s14-06-0060 -->
 
@@ -250,7 +250,7 @@ Car bien entendu, je ne peux pas copier sur ceux dont c’est le métier de se f
 
 <!-- id: s14-06-0061 -->
 
-> *avec le happage, au passage, de n’importe quel petit truc qu’on accroche dans le discours de LACAN, ou dans le discours de quelqu’un d’autre* …pour faire un papier où « il » démontre son originalité.
+*avec le happage, au passage, de n’importe quel petit truc qu’on accroche dans le discours de LACAN, ou dans le discours de quelqu’un d’autre* …pour faire un papier où « il » démontre son originalité.
 
 <!-- id: s14-06-0062 -->
 
@@ -294,7 +294,7 @@ Néanmoins, cela tout seul suffi­rait-il à justifier ce qui, aussi bien, peut 
 
 <!-- id: s14-06-0072 -->
 
-> au cours des cent ans où ils ont marqué et pous­sé devant eux des foules d’étudiants ...n’ont trouvé moyen de faire sortir une *édition complète* de KANT.
+au cours des cent ans où ils ont marqué et pous­sé devant eux des foules d’étudiants ...n’ont trouvé moyen de faire sortir une *édition complète* de KANT.
 
 <!-- id: s14-06-0073 -->
 
@@ -306,7 +306,7 @@ C’est à cause de ce *nombre*, de *ce quelque chose d’incroyable* qui fait q
 
 <!-- id: s14-06-0075 -->
 
-> que je salue puisque aussi bien ils sont là pour me prouver qu’il y a dans ce que je dis quelque chose qui *résonne,* qui résonne assez pour que ceux-là viennent m’en­tendre, plutôt que le discours de tel ou tel de leurs pro­fesseurs concernant des choses qui les intéressent, parce que ça fait partie de leur programme …ils viennent m’entendre moi, qui n’en fais pas partie.
+que je salue puisque aussi bien ils sont là pour me prouver qu’il y a dans ce que je dis quelque chose qui *résonne,* qui résonne assez pour que ceux-là viennent m’en­tendre, plutôt que le discours de tel ou tel de leurs pro­fesseurs concernant des choses qui les intéressent, parce que ça fait partie de leur programme …ils viennent m’entendre moi, qui n’en fais pas partie.
 
 <!-- id: s14-06-0076 -->
 
@@ -334,7 +334,7 @@ Je vous invite, puisque vous allez être en vacances, à vous procurer, si par h
 
 <!-- id: s14-06-0082 -->
 
-> car on ne sait pas… les œuvres de FREUD, elles aussi, sont introuvables …à vous procurer *<u>Le</u> [mot d’esprit](http://classiques.uqac.ca/classiques/freud_sigmund/le_mot_d_esprit/le_mot_d_esprit.html)<u>...</u>*, et à vous en pénétrer. S’il m’arrive de devoir prendre des vacances, moi aussi, c’est la première chose - de mes séminaires du passé - dont j’essaierai de donner par écrit un équivalent.
+car on ne sait pas… les œuvres de FREUD, elles aussi, sont introuvables …à vous procurer *<u>Le</u> [mot d’esprit](http://classiques.uqac.ca/classiques/freud_sigmund/le_mot_d_esprit/le_mot_d_esprit.html)<u>...</u>*, et à vous en pénétrer. S’il m’arrive de devoir prendre des vacances, moi aussi, c’est la première chose - de mes séminaires du passé - dont j’essaierai de donner par écrit un équivalent.
 
 <!-- id: s14-06-0083 -->
 
