@@ -10,8 +10,9 @@
 - 备用站点：[GitHub Pages](https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html)
 - 协作说明：[CONTRIBUTING.md](./CONTRIBUTING.md)
 - 知识卡入口：[知识库/README.md](./知识库/README.md)
-- qq交流群：700300644
-
+- 预约精神分析工作可以添加 分析师工作微信：Yanlin_Char
+- 分析师bilibili账号 **言林_Char**
+- 翻译项目交流qq群：700300644
 <p align="center">
   <img src="texts/assets/qq-group-700300644.png" alt="QQ 交流群 700300644 二维码" width="640">
 </p>
@@ -51,7 +52,7 @@
 | XXVI，_La topologie et le temps_ | `texts/s26-la-topologie-et-le-temps` | 10 / 10 | 100% | 译文覆盖完成，待校订 |
 | XXVII，_Dissolution_ | `texts/s27-dissolution` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
 
-这里的 100% 只表示所有分段已有译文，不表示已经完成学术校订。目前 28 部研讨班均已完成译文覆盖，后续仍需持续校订。
+这里的 100% 只表示所有分段已有译文，不表示已经完成翻译校订与注释。目前 28 部研讨班均已完成译文覆盖，后续仍需持续校订和注释。
 
 ## 仓库内容
 
