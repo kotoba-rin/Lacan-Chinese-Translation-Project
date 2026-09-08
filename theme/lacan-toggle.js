@@ -97,8 +97,8 @@
   function refineThemeMenu() {
     var labels = {
       default_theme: "跟随系统",
-      light: "浅色 · 纸页",
-      navy: "暗色 · 墨夜",
+      light: "浅色 · 纽约时报",
+      navy: "暗色 · 纽约时报",
     };
 
     ["rust", "coal", "ayu"].forEach(function (name) {

@@ -1,44 +1,48 @@
-/* Paper / Ink: two palettes for one editorial reading system.
+/* Newspaper typography with matching light and dark reading palettes.
    mdBook uses a 10px rem; explicit interface sizes keep controls legible. */
 :root, html.light, html.rust {
-  --lacan-elegant-bg: #f7f5ef;
-  --lacan-elegant-surface: #fffdf8;
-  --lacan-elegant-text: #293b3e;
-  --lacan-elegant-muted: #5f6c68;
-  --lacan-elegant-soft: #efeee6;
-  --lacan-elegant-border: #dddcd2;
-  --lacan-elegant-strong-border: #b9c2bb;
-  --lacan-elegant-accent: #28645f;
-  --lacan-elegant-code: #805a32;
-  --lacan-sidebar: #eeede5;
-  --lacan-accent-soft: #e4ece5;
-  --lacan-on-accent: #fffdf8;
-  --lacan-comment: #856334;
+  --lacan-elegant-bg: #ffffff;
+  --lacan-elegant-surface: #ffffff;
+  --lacan-elegant-text: #121212;
+  --lacan-elegant-muted: #5c5c5c;
+  --lacan-elegant-soft: #f7f7f7;
+  --lacan-elegant-border: #dddddd;
+  --lacan-elegant-strong-border: #777777;
+  --lacan-elegant-accent: #326891;
+  --lacan-elegant-code: #555555;
+  --lacan-sidebar: #fafafa;
+  --lacan-accent-soft: #eaf0f5;
+  --lacan-on-accent: #ffffff;
+  --lacan-headline: #000000;
+  --lacan-comment: #121212;
+  --lacan-editorial-surface: #f0f0f0;
   --lacan-error: #a33a3a;
-  --lacan-overlay: rgb(24 38 39 / 42%);
-  --lacan-shadow: 0 18px 60px rgb(24 38 39 / 12%);
-  --lacan-elegant-serif: "Noto Serif SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", serif;
-  --lacan-elegant-display: "Baskerville", "Palatino Linotype", "Songti SC", "STSong", serif;
+  --lacan-overlay: rgb(0 0 0 / 42%);
+  --lacan-shadow: 0 12px 36px rgb(0 0 0 / 12%);
+  --lacan-elegant-serif: Georgia, "Times New Roman", "Songti SC", "STSong", "SimSun", serif;
+  --lacan-elegant-display: Georgia, "Times New Roman", "Songti SC", "STSong", serif;
   --lacan-elegant-sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   --lacan-color-scheme: light;
 }
 html.coal, html.navy, html.ayu {
-  --lacan-elegant-bg: #152326;
-  --lacan-elegant-surface: #1a2a2e;
-  --lacan-elegant-text: #e0e5dc;
-  --lacan-elegant-muted: #a2b2ad;
-  --lacan-elegant-soft: #203338;
-  --lacan-elegant-border: #35484b;
-  --lacan-elegant-strong-border: #5b726f;
-  --lacan-elegant-accent: #9fc7b8;
-  --lacan-elegant-code: #d9b887;
-  --lacan-sidebar: #101d20;
-  --lacan-accent-soft: #263f3e;
-  --lacan-on-accent: #152326;
-  --lacan-comment: #d5b77f;
+  --lacan-elegant-bg: #121212;
+  --lacan-elegant-surface: #1c1c1c;
+  --lacan-elegant-text: #ededed;
+  --lacan-elegant-muted: #b0b0b0;
+  --lacan-elegant-soft: #202020;
+  --lacan-elegant-border: #3c3c3c;
+  --lacan-elegant-strong-border: #8c8c8c;
+  --lacan-elegant-accent: #a8c9e3;
+  --lacan-elegant-code: #c7c7c7;
+  --lacan-sidebar: #181818;
+  --lacan-accent-soft: #25323c;
+  --lacan-on-accent: #121212;
+  --lacan-headline: #f5f5f5;
+  --lacan-comment: #ededed;
+  --lacan-editorial-surface: #272727;
   --lacan-error: #f0aaa0;
-  --lacan-overlay: rgb(4 12 14 / 70%);
-  --lacan-shadow: 0 18px 60px rgb(0 8 10 / 32%);
+  --lacan-overlay: rgb(0 0 0 / 72%);
+  --lacan-shadow: 0 12px 36px rgb(0 0 0 / 32%);
   --lacan-color-scheme: dark;
 }
 :root {
@@ -64,17 +68,17 @@ html.coal, html.navy, html.ayu {
   --quote-border: var(--lacan-elegant-strong-border);
   --warning-border: var(--lacan-comment);
   --color-scheme: var(--lacan-color-scheme);
-  --lacan-original-accent: var(--lacan-elegant-accent);
-  --lacan-original-bg: var(--lacan-elegant-soft);
-  --lacan-note-accent: var(--lacan-elegant-strong-border);
-  --lacan-note-bg: var(--lacan-elegant-surface);
+  --lacan-original-accent: var(--lacan-elegant-muted);
+  --lacan-original-bg: transparent;
+  --lacan-note-accent: var(--lacan-headline);
+  --lacan-note-bg: var(--lacan-elegant-soft);
   --lacan-commentary-accent: var(--lacan-comment);
-  --lacan-commentary-bg: color-mix(in srgb, var(--lacan-comment) 6%, var(--bg));
+  --lacan-commentary-bg: var(--lacan-editorial-surface);
   --lacan-share-selected-bg: var(--lacan-accent-soft);
   --lacan-share-selected-border: var(--lacan-elegant-accent);
-  --lacan-target-bg: var(--lacan-accent-soft);
+  --lacan-target-bg: var(--lacan-elegant-soft);
   --sidebar-target-width: 286px;
-  --content-max-width: 880px;
+  --content-max-width: 776px;
   --menu-bar-height: 60px;
   --page-padding: 24px;
   --lacan-reading-offset: 154px;
@@ -93,8 +97,8 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 }
 .lacan-sidebar-brand { padding: 30px 24px 0; }
 .lacan-brand-link { display: block; width: fit-content; text-decoration: none; }
-.lacan-brand-wordmark { display: block; color: var(--fg); font: 40px/1 var(--lacan-elegant-display); letter-spacing: 0.16em; }
-.lacan-brand-title { display: block; margin: 12px 0 22px; color: var(--lacan-elegant-muted); font-size: 12px; letter-spacing: 0.22em; }
+.lacan-brand-wordmark { display: block; color: var(--lacan-headline); font: 700 40px/1 var(--lacan-elegant-display); letter-spacing: -0.04em; }
+.lacan-brand-title { display: block; margin: 12px 0 22px; color: var(--lacan-elegant-muted); font-size: 12px; letter-spacing: 0.08em; }
 .lacan-sidebar-search {
   display: flex; align-items: center; justify-content: space-between;
   width: 100%; min-height: 40px; padding: 8px 12px;
@@ -104,7 +108,7 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 }
 .lacan-sidebar-search:hover { border-color: var(--links); color: var(--links); }
 .lacan-search-key { padding: 1px 5px; border: 0; background: var(--lacan-elegant-soft); }
-.lacan-sidebar-caption { margin-top: 22px; padding-bottom: 14px; border-bottom: 1px solid var(--lacan-elegant-border); color: var(--lacan-elegant-muted); font-size: 10px; letter-spacing: 0.13em; }
+.lacan-sidebar-caption { margin-top: 22px; padding-bottom: 14px; border-bottom: 3px double var(--lacan-elegant-strong-border); color: var(--lacan-elegant-muted); font-size: 11px; letter-spacing: 0.04em; }
 .lacan-branded-sidebar .sidebar-scrollbox { top: 232px; padding: 10px 16px 32px; }
 .chapter { margin: 0; font-size: 13px; }
 .chapter li.chapter-item { margin-top: 3px; }
@@ -122,9 +126,9 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 #mdbook-menu-bar .fa-svg { padding: 0; font-size: 14px; }
 .left-buttons { margin: 0 14px; }
 .right-buttons { display: flex; gap: 16px; margin: 0 22px; }
-.menu-title { color: var(--lacan-elegant-muted); font-size: 13px; font-weight: 400; letter-spacing: 0.15em; }
+.menu-title { color: var(--fg); font-size: 13px; font-weight: 600; letter-spacing: 0.04em; }
 .lacan-nav-menu-glyph { font-size: 13px; font-weight: 500; }
-.theme-popup { top: 52px; padding: 6px; min-width: 164px; border-radius: 5px; box-shadow: var(--lacan-shadow); }
+.theme-popup { top: 52px; padding: 6px; min-width: 188px; border-radius: 3px; box-shadow: var(--lacan-shadow); }
 .theme-popup .theme { padding: 12px 14px; font: 13px var(--lacan-elegant-sans); border-radius: 3px; }
 .theme-popup .theme-selected { color: var(--links); background: var(--lacan-accent-soft); }
 
@@ -133,45 +137,46 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 .content main {
   box-sizing: border-box; max-width: var(--content-max-width);
   min-height: calc(100vh - var(--menu-bar-height)); padding: 56px 48px 48px;
-  color: var(--fg); font: 18px/1.95 var(--lacan-elegant-serif); overflow-wrap: anywhere;
+  color: var(--fg); font: 18px/1.8 var(--lacan-elegant-serif); overflow-wrap: anywhere;
 }
-.content main .lacan-page-kicker { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; color: var(--links); font: 12px/1.6 var(--lacan-elegant-sans); letter-spacing: 0.12em; }
-.lacan-page-kicker::before { content: ""; flex: 0 0 26px; height: 2px; background: var(--links); }
+.content main .lacan-page-kicker { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; color: var(--fg); font: 600 12px/1.6 var(--lacan-elegant-sans); letter-spacing: 0.06em; }
+.lacan-page-kicker::before { content: ""; flex: 0 0 26px; height: 2px; background: var(--lacan-headline); }
 .content main .lacan-page-kicker a { border: 0; color: inherit; }
 .content main h1, .content main h2, .content main h3,
 .content main h4, .content main h5, .content main h6 {
-  color: var(--fg); font-family: var(--lacan-elegant-serif); font-weight: 600;
+  color: var(--lacan-headline); font-family: var(--lacan-elegant-serif); font-weight: 700;
   text-align: left; scroll-margin-top: var(--lacan-reading-offset);
 }
-.content main h1 { margin: 0 0 32px; font-size: 38px; font-weight: 500; line-height: 1.5; letter-spacing: 0.035em; }
+.content main h1 { margin: 0 0 24px; padding-bottom: 20px; border-bottom: 1px solid var(--lacan-headline); font-size: 42px; line-height: 1.2; letter-spacing: -0.02em; }
 .content main h1 .header { display: block; }
-.lacan-lesson-number { display: block; font: 54px/1.14 var(--lacan-elegant-display); letter-spacing: -0.02em; }
+.lacan-lesson-number { display: block; font: 700 42px/1.2 var(--lacan-elegant-display); letter-spacing: -0.02em; }
 .lacan-title-separator { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 .lacan-lesson-date { display: block; margin-top: 14px; color: var(--lacan-elegant-muted); font: 14px/1.5 var(--lacan-elegant-sans); letter-spacing: 0.08em; }
-.content main h2 { margin: 48px 0 20px; padding-bottom: 14px; border-bottom: 1px solid var(--lacan-elegant-border); font-size: 26px; line-height: 1.6; }
-.content main h3 { margin: 36px 0 16px; font-size: 22px; line-height: 1.65; }
-.content main h4 { margin: 28px 0 12px; font-size: 19px; }
-.content main h5, .content main h6 { margin: 24px 0 12px; font-size: 17px; }
-.content main p { margin: 18px 0; line-height: inherit; text-indent: 0; }
-.content main a { color: var(--links); text-decoration: none; border-bottom: 1px solid var(--lacan-elegant-strong-border); text-underline-offset: 4px; }
+.content main h2 { margin: 48px 0 16px; font-size: 32px; line-height: 1.3; letter-spacing: -0.01em; }
+.content main h3 { margin: 40px 0 16px; font-size: 24px; line-height: 1.4; }
+.content main h4 { margin: 32px 0 12px; font-size: 20px; line-height: 1.5; }
+.content main h5 { margin: 28px 0 12px; font-size: 18px; line-height: 1.5; }
+.content main h6 { margin: 24px 0 10px; font-size: 16px; line-height: 1.5; font-style: italic; }
+.content main p { margin: 20px 0; line-height: inherit; text-indent: 0; }
+.content main a { color: var(--links); text-decoration: none; border-bottom: 1px solid var(--links); text-underline-offset: 4px; }
 .content main a:hover { border-color: var(--links); text-decoration: none; }
-.content main .header { border: 0; color: var(--fg); }
-.content main strong { color: var(--fg); font-weight: 700; }
+.content main .header { border: 0; color: inherit; }
+.content main strong { color: var(--lacan-headline); font-weight: 700; }
 .content main em { color: inherit; }
-.content main ul, .content main ol { margin: 18px 0; padding-left: 1.6em; line-height: inherit; }
-.content main li { margin: 8px 0; line-height: inherit; }
+.content main ul, .content main ol { margin: 24px 0; padding-left: 2em; line-height: inherit; }
+.content main li { margin: 12px 0; line-height: inherit; }
 .content main li::marker { color: var(--links); }
-.content main blockquote { margin: 24px 0; padding: 8px 22px; border: 0; border-left: 2px solid var(--lacan-elegant-strong-border); background: var(--lacan-elegant-soft); color: var(--lacan-elegant-muted); }
+.content main blockquote { margin: 24px 0; padding: 14px 24px; border: 0; border-left: 5px solid var(--lacan-headline); background: var(--lacan-elegant-soft); color: var(--fg); font-size: 18px; line-height: 1.6; font-style: italic; }
 .content main blockquote p { margin: 8px 0; }
 .content main code { padding: 2px 5px; border-radius: 3px; background: var(--lacan-elegant-soft); color: var(--inline-code-color); font-size: 0.82em; }
 .content main pre { margin: 24px 0; padding: 18px; overflow-x: auto; border: 1px solid var(--lacan-elegant-border); border-radius: 4px; background: var(--lacan-elegant-soft); line-height: 1.7; }
 .content main pre code { padding: 0; background: transparent; color: inherit; }
-.content main hr { height: 1px; margin: 40px 0; border: 0; background: var(--lacan-elegant-border); }
+.content main hr { max-width: 100px; height: 1px; margin: 48px auto; border: 0; background: var(--lacan-elegant-border); }
 .content main img { display: block; max-width: 100%; max-height: 560px; height: auto; margin: 24px auto; border-radius: 2px; }
-.content main .table-wrapper { margin: 24px 0; }
-.content main table { width: 100%; margin: 0; font: 14px/1.7 var(--lacan-elegant-sans); }
-.content main th { padding: 14px 16px; border: 0; border-bottom: 2px solid var(--lacan-elegant-strong-border); color: var(--fg); font-weight: 600; text-align: left; }
-.content main td { padding: 13px 16px; border: 0; border-bottom: 1px solid var(--lacan-elegant-border); }
+.content main .table-wrapper { margin: 32px 0; }
+.content main table { width: 100%; margin: 0; border: 1px solid var(--lacan-elegant-border); font: 16px/1.7 var(--lacan-elegant-serif); }
+.content main th { padding: 14px 16px; border: 1px solid var(--lacan-elegant-border); color: var(--fg); font-weight: 700; text-align: left; }
+.content main td { padding: 14px 16px; border: 1px solid var(--lacan-elegant-border); }
 .content main tr { border: 0; }
 .content main sup, .content main sub { text-indent: 0; }
 
@@ -180,14 +185,16 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
   position: sticky; top: var(--menu-bar-height); right: auto; z-index: 30;
   display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap: 10px 14px;
   box-sizing: border-box; width: auto; margin: 0 0 32px; padding: 14px 0;
-  border: 0; border-top: 1px solid var(--lacan-elegant-strong-border);
+  border: 0;
   border-bottom: 1px solid var(--lacan-elegant-border); border-radius: 0;
   background: var(--bg); box-shadow: none; line-height: 1.4;
 }
 .lacan-toggle-group { flex-direction: row; flex-wrap: wrap; gap: 12px; }
-.reading-controls label { gap: 6px; min-height: 34px; color: var(--lacan-elegant-muted); font-size: 12px; }
+.reading-controls label { gap: 6px; min-height: 34px; color: var(--lacan-elegant-muted); font-size: 13px; }
 .reading-controls input[type="checkbox"] { width: 15px; height: 15px; margin: 0; accent-color: var(--links); }
 .reading-controls label:has(input:checked) { color: var(--fg); }
+.reading-controls label:has(input[data-lacan-toggle="notes"]),
+.reading-controls label:has(input[data-lacan-toggle="commentary"]) { font-weight: 700; }
 .lacan-tool-search { flex: 1 1 180px; max-width: none; gap: 5px; }
 .lacan-tool-search-input, .lacan-tool-button {
   min-height: 34px; padding: 7px 10px; border: 1px solid var(--lacan-elegant-border);
@@ -209,20 +216,19 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 .content main .paragraph-id { display: inline-block; max-width: 100%; margin-bottom: 14px; color: var(--lacan-elegant-muted); font: 11px/1.65 var(--mono-font); letter-spacing: 0.03em; overflow-wrap: anywhere; }
 .paragraph-anchor-alias { scroll-margin-top: var(--lacan-reading-offset); }
 .content main .translation-block { margin: 24px 0 18px; }
-.content main .translation-block p { text-indent: 2em; }
-.content main .original-block { margin-top: 0; padding: 16px 22px; border-left: 2px solid var(--links); border-radius: 0 3px 3px 0; background: var(--lacan-original-bg); box-shadow: none; }
-.content main .original-block summary { color: var(--links); font: 11px/1.7 var(--lacan-elegant-sans); letter-spacing: 0.02em; cursor: pointer; }
+.content main .translation-block p { text-indent: 0; }
+.content main .original-block { margin-top: 0; padding: 4px 0 4px 18px; border-left: 1px solid var(--lacan-elegant-border); border-radius: 0; background: var(--lacan-original-bg); box-shadow: none; }
+.content main .original-block summary { color: var(--lacan-elegant-muted); font: 12px/1.7 var(--lacan-elegant-sans); letter-spacing: 0.02em; cursor: pointer; }
 .content main .original-block summary::after { content: "FR"; margin-left: 10px; padding: 2px 5px; border: 1px solid var(--lacan-elegant-strong-border); border-radius: 2px; font-size: 9px; }
 .content main .original-block[open] summary { margin-bottom: 12px; }
-.content main .original-paragraph { color: var(--lacan-elegant-muted); font-family: var(--lacan-elegant-display); font-size: 18px; line-height: 1.75; }
+.content main .original-paragraph { color: var(--lacan-elegant-muted); font-family: var(--lacan-elegant-serif); font-size: 17px; line-height: 1.8; }
 .content main .original-paragraph p { margin: 12px 0; text-indent: 0; }
 .content main .original-paragraph > :last-child { margin-bottom: 0; }
-.content main .note-block, .content main .commentary-block { margin: 22px 0; padding: 14px 18px; border-left-width: 2px; border-radius: 0; box-shadow: none; font-size: 16px; line-height: 1.85; }
+.content main .note-block, .content main .commentary-block { margin: 24px 0; padding: 18px 24px; border-left-width: 5px; border-radius: 0; box-shadow: none; color: var(--fg); font-size: 18px; line-height: 1.8; }
 .content main .note-block { background: var(--lacan-note-bg); }
 .content main .commentary-block { background: var(--lacan-commentary-bg); }
-.note-block::before, .commentary-block::before { margin: 0 0 10px; padding: 0; border: 0; border-radius: 0; color: var(--lacan-elegant-muted); font: 11px/1.5 var(--lacan-elegant-sans); letter-spacing: 0.12em; }
-.commentary-block::before { color: var(--lacan-commentary-accent); }
-.content main .note-block > blockquote, .content main .commentary-block > blockquote { margin: 0; padding: 0; border: 0; background: transparent; color: var(--fg); }
+.note-block::before, .commentary-block::before { margin: 0 0 14px; padding: 4px 9px; border: 0; border-radius: 0; background: var(--lacan-headline); color: var(--bg); font: 700 13px/1.4 var(--lacan-elegant-sans); letter-spacing: 0.08em; }
+.content main .note-block > blockquote, .content main .commentary-block > blockquote { margin: 0; padding: 0; border: 0; background: transparent; color: var(--fg); font-size: inherit; line-height: inherit; font-style: normal; }
 .content main .note-block p, .content main .commentary-block p { text-indent: 0; }
 .content main .reading-note-links { margin: 16px 0 0; color: var(--lacan-elegant-muted); font: 11px/1.8 var(--lacan-elegant-sans); text-align: left; }
 .reading-note-links-title { font: inherit; }
@@ -234,7 +240,7 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 .content main .footnote-definition p, .content main .original-notes p { text-indent: 0; }
 .footnote-definition { font-size: 15px; line-height: 1.85; }
 
-.content main.lacan-home h1 { max-width: 11em; margin-bottom: 24px; font-size: clamp(32px, 3.5vw, 48px); line-height: 1.55; }
+.content main.lacan-home h1 { margin-bottom: 24px; font-size: clamp(32px, 3.5vw, 42px); line-height: 1.35; }
 .lacan-home-subtitle { display: none; }
 .content main .lacan-home-actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 42px; }
 .content main .lacan-home-actions a { padding: 11px 22px; border: 1px solid var(--links); border-radius: 3px; font: 13px/1.6 var(--lacan-elegant-sans); }
@@ -245,7 +251,7 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 
 /* Compact navigation leaves the reading margins clear. */
 .nav-wide-wrapper { display: none; }
-.nav-wrapper { display: flex; justify-content: space-between; gap: 20px; max-width: 784px; margin: 20px auto 0; padding-top: 24px; border-top: 1px solid var(--lacan-elegant-border); }
+.nav-wrapper { display: flex; justify-content: space-between; gap: 20px; max-width: 680px; margin: 20px auto 0; padding-top: 24px; border-top: 1px solid var(--lacan-elegant-border); }
 .mobile-nav-chapters { display: inline-flex; align-items: center; justify-content: center; gap: 10px; width: auto; min-height: 44px; padding: 0 16px; border: 1px solid var(--lacan-elegant-border); border-radius: 3px; background: transparent; color: var(--links); font: 13px var(--lacan-elegant-sans); text-decoration: none; }
 .mobile-nav-chapters.previous::after { content: "上一篇"; }
 .mobile-nav-chapters.next::before { content: "下一篇"; }
@@ -312,11 +318,11 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 }
 @media (max-width: 700px) {
   :root { --page-padding: 20px; --menu-bar-height: 54px; --lacan-reading-offset: 190px; }
-  .content main { padding: 30px 0 24px; font-size: 17px; line-height: 1.95; }
-  .content main h1 { font-size: 30px; }
-  .content main h2 { font-size: 23px; margin-top: 36px; }
-  .content main h3 { font-size: 20px; }
-  .lacan-lesson-number { font-size: 44px; }
+  .content main { padding: 30px 0 24px; font-size: 18px; line-height: 1.8; }
+  .content main h1 { font-size: 34px; }
+  .content main h2 { font-size: 28px; margin-top: 36px; }
+  .content main h3 { font-size: 23px; }
+  .lacan-lesson-number { font-size: 34px; }
   .lacan-lesson-date { font-size: 12px; }
   .content main .lacan-page-kicker { font-size: 10px; margin-bottom: 18px; }
   #mdbook-menu-bar .icon-button { min-width: 38px; height: 54px; }
@@ -329,9 +335,9 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
   .lacan-tool-search { order: 4; flex-basis: 100%; }
   .lacan-tool-search-input { min-height: 38px; font-size: 16px; }
   .lacan-tool-button { min-height: 38px; }
-  .content main .original-block { padding: 14px 16px; }
+  .content main .original-block { padding: 4px 0 4px 14px; }
   .content main .original-paragraph { font-size: 17px; }
-  .content main .note-block, .content main .commentary-block { padding: 12px 15px; font-size: 15px; }
+  .content main .note-block, .content main .commentary-block { padding: 16px; font-size: 18px; }
   .content main .translation-block { margin-top: 22px; }
   .content main .parallel-text { gap: 20px; }
   .content main .parallel-paragraph:target, .content main .parallel-paragraph.lacan-share-selected { padding: 14px; }
@@ -355,12 +361,14 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
   html { scroll-behavior: auto; }
 }
 @media print {
-  html[class] { --lacan-elegant-bg: #fff; --lacan-elegant-text: #000; --lacan-elegant-muted: #444; --lacan-elegant-soft: #f5f5f5; --lacan-elegant-surface: #fff; --lacan-elegant-accent: #254c48; --lacan-comment: #654b28; --lacan-elegant-border: #ccc; --lacan-elegant-strong-border: #999; --lacan-color-scheme: light; }
+  html[class] { --lacan-elegant-bg: #fff; --lacan-elegant-text: #000; --lacan-elegant-muted: #444; --lacan-elegant-soft: #f5f5f5; --lacan-elegant-surface: #fff; --lacan-elegant-accent: #326891; --lacan-headline: #000; --lacan-comment: #000; --lacan-editorial-surface: #f0f0f0; --lacan-elegant-border: #ccc; --lacan-elegant-strong-border: #999; --lacan-color-scheme: light; }
   .reading-controls, .lacan-sidebar-brand, .lacan-home-actions, .nav-wrapper,
   .lacan-ai-launcher, .lacan-ai-panel, .lacan-ai-settings-overlay, .lacan-nav-overlay { display: none !important; }
   #mdbook-page-wrapper.page-wrapper { margin-inline-end: 0; }
   .content main { max-width: none; min-height: 0; padding: 0; font-size: 12pt; }
   .content main .parallel-paragraph { break-inside: auto; }
   .content main .original-block, .content main .note-block, .content main .commentary-block { background: transparent; }
+  .content main .note-block, .content main .commentary-block { font-size: inherit; }
+  .note-block::before, .commentary-block::before { padding-left: 0; background: transparent; color: var(--fg); }
   .content main h1 { margin-top: 24px; }
 }
