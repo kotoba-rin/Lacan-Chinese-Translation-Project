@@ -96,9 +96,9 @@
 
   function refineThemeMenu() {
     var labels = {
-      default_theme: "自动",
-      light: "浅色",
-      navy: "暗色",
+      default_theme: "跟随系统",
+      light: "浅色 · 纸页",
+      navy: "暗色 · 墨夜",
     };
 
     ["rust", "coal", "ayu"].forEach(function (name) {

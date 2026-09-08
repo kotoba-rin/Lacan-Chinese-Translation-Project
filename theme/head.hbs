@@ -1,3 +1,14 @@
+<script>
+// Migrate legacy choices before mdBook initializes the first-paint theme.
+try {
+  var lacanSavedTheme = localStorage.getItem("mdbook-theme");
+  var lacanThemeAliases = { rust: "light", coal: "navy", ayu: "navy" };
+  var lacanNormalizedTheme = lacanSavedTheme && lacanSavedTheme.replace(/^"|"$/g, "");
+  if (lacanThemeAliases[lacanNormalizedTheme]) {
+    localStorage.setItem("mdbook-theme", lacanThemeAliases[lacanNormalizedTheme]);
+  }
+} catch (error) { /* Reading remains available when storage is disabled. */ }
+</script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: {
