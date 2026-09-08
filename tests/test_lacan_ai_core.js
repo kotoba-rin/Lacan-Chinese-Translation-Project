@@ -3,6 +3,81 @@ const path = require("path");
 
 const core = require(path.join(__dirname, "..", "theme", "lacan-ai-core.js"));
 
+function settingsStorage(entries = {}) {
+  const data = new Map(Object.entries(entries));
+  return {
+    getItem(key) { return data.has(key) ? data.get(key) : null; },
+    setItem(key, value) { data.set(key, String(value)); },
+    removeItem(key) { data.delete(key); },
+  };
+}
+
+const settingsKey = "lacan-ai:settings";
+const apiKeyName = "lacan-ai:key";
+const interfaceConfig = {
+  endpoint: "https://api.example.com/v1/chat/completions",
+  model: "test-model",
+};
+const legacySettings = JSON.stringify({ ...interfaceConfig, persistKey: true });
+const legacyLocal = settingsStorage({
+  [settingsKey]: legacySettings,
+  [apiKeyName]: "old-test-key",
+  unrelated: "keep",
+  "lacan-ai:panel-width": "520",
+});
+const migratedSession = settingsStorage();
+const migrated = core.readAiSettings(legacyLocal, migratedSession);
+assert.deepStrictEqual(migrated.settings, { ...interfaceConfig, apiKey: "old-test-key" });
+assert.strictEqual(migrated.migrated, true);
+assert.strictEqual(migratedSession.getItem(apiKeyName), "old-test-key");
+assert.strictEqual(legacyLocal.getItem(apiKeyName), null);
+assert.deepStrictEqual(JSON.parse(legacyLocal.getItem(settingsKey)), interfaceConfig);
+assert.strictEqual(legacyLocal.getItem("unrelated"), "keep");
+assert.strictEqual(legacyLocal.getItem("lacan-ai:panel-width"), "520");
+assert.strictEqual(core.readAiSettings(legacyLocal, migratedSession).migrated, false);
+assert.strictEqual(core.readAiSettings(legacyLocal, migratedSession).settings.apiKey, "old-test-key");
+assert.strictEqual(core.readAiSettings(legacyLocal, settingsStorage()).settings.apiKey, "");
+
+// A stale persistent key must not replace a newer session key or an explicit blank key.
+for (const currentKey of ["current-test-key", ""]) {
+  const local = settingsStorage({ [settingsKey]: legacySettings, [apiKeyName]: "stale-test-key" });
+  const session = settingsStorage({ [apiKeyName]: currentKey });
+  assert.strictEqual(core.readAiSettings(local, session).settings.apiKey, currentKey);
+  assert.strictEqual(local.getItem(apiKeyName), null);
+}
+
+// Do not destroy the only usable key if the browser rejects the session write.
+const blockedLocal = settingsStorage({ [settingsKey]: legacySettings, [apiKeyName]: "preserve-test-key" });
+const blockedSession = settingsStorage();
+blockedSession.setItem = () => { throw new Error("Session storage unavailable"); };
+assert.throws(() => core.readAiSettings(blockedLocal, blockedSession), /Session storage unavailable/);
+assert.strictEqual(blockedLocal.getItem(apiKeyName), "preserve-test-key");
+
+// Invalid preference JSON must not prevent recovery of a separately stored key.
+for (const saved of ["{invalid", "null", '"invalid"']) {
+  const local = settingsStorage({ [settingsKey]: saved, [apiKeyName]: "recover-test-key" });
+  const session = settingsStorage();
+  assert.strictEqual(core.readAiSettings(local, session).settings.apiKey, "recover-test-key");
+  assert.strictEqual(local.getItem(apiKeyName), null);
+}
+
+const savedLocal = settingsStorage({ [apiKeyName]: "obsolete-test-key", unrelated: "keep" });
+const savedSession = settingsStorage();
+core.saveAiSettings(savedLocal, savedSession, {
+  ...interfaceConfig,
+  apiKey: "new-test-key",
+  persistKey: true,
+  unexpected: "do-not-persist",
+});
+assert.deepStrictEqual(JSON.parse(savedLocal.getItem(settingsKey)), interfaceConfig);
+assert.strictEqual(savedLocal.getItem(apiKeyName), null);
+assert.strictEqual(savedSession.getItem(apiKeyName), "new-test-key");
+assert.strictEqual(savedLocal.getItem("unrelated"), "keep");
+assert.strictEqual(core.readAiSettings(savedLocal, savedSession).settings.apiKey, "new-test-key");
+assert.strictEqual(core.readAiSettings(savedLocal, settingsStorage()).settings.apiKey, "");
+core.saveAiSettings(savedLocal, savedSession, { ...interfaceConfig, apiKey: "" });
+assert.strictEqual(core.readAiSettings(savedLocal, savedSession).settings.apiKey, "");
+
 const cards = [
   {
     path: "知识库/对象a.md",

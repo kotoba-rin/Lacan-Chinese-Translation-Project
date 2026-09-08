@@ -4,8 +4,6 @@
   var Core = window.LacanAiCore;
   if (!Core) return;
 
-  var SETTINGS_KEY = "lacan-ai:settings";
-  var API_KEY = "lacan-ai:key";
   var LAUNCHER_POSITION_KEY = "lacan-ai:launcher-position";
   var PANEL_WIDTH_KEY = "lacan-ai:panel-width";
   var STORAGE_PREFIX = "lacan-ai:";
@@ -46,6 +44,8 @@
     sidebarResizeObserver: null,
     selectionPointerStartedInPage: false,
     selectionCaptureFrame: 0,
+    settingsNotice: "",
+    settingsError: false,
     refs: {},
   };
 
@@ -63,37 +63,23 @@
   }
 
   function readSettings() {
-    var defaults = {
-      endpoint: "https://api.openai.com/v1/chat/completions",
-      model: "",
-      persistKey: false,
-    };
     try {
-      var saved = JSON.parse(window.localStorage.getItem(SETTINGS_KEY) || "{}");
-      var settings = Object.assign({}, defaults, saved);
-      settings.apiKey = settings.persistKey
-        ? window.localStorage.getItem(API_KEY) || ""
-        : window.sessionStorage.getItem(API_KEY) || "";
-      return settings;
+      var result = Core.readAiSettings(window.localStorage, window.sessionStorage);
+      if (state.settingsError) state.settingsNotice = "";
+      state.settingsError = false;
+      if (result.migrated) {
+        state.settingsNotice = "旧版长期保存的 API Key 已清理；密钥现在仅保留在当前标签页会话中。";
+      }
+      return result.settings;
     } catch (_error) {
-      return Object.assign({}, defaults, { apiKey: "" });
+      state.settingsError = true;
+      state.settingsNotice = "未能读取或迁移接口配置，请检查浏览器的存储权限后重试。";
+      return { endpoint: "https://api.openai.com/v1/chat/completions", model: "", apiKey: "" };
     }
   }
 
   function saveSettings(settings) {
-    var persisted = {
-      endpoint: settings.endpoint,
-      model: settings.model,
-      persistKey: Boolean(settings.persistKey),
-    };
-    window.localStorage.setItem(SETTINGS_KEY, JSON.stringify(persisted));
-    if (persisted.persistKey) {
-      window.localStorage.setItem(API_KEY, settings.apiKey || "");
-      window.sessionStorage.removeItem(API_KEY);
-    } else {
-      window.sessionStorage.setItem(API_KEY, settings.apiKey || "");
-      window.localStorage.removeItem(API_KEY);
-    }
+    Core.saveAiSettings(window.localStorage, window.sessionStorage, settings);
   }
 
   function setStatus(message, kind) {
@@ -851,8 +837,9 @@
     state.refs.endpoint.value = settings.endpoint;
     state.refs.model.value = settings.model;
     state.refs.apiKey.value = settings.apiKey;
-    state.refs.persistKey.checked = settings.persistKey;
-    state.refs.settingsMessage.textContent = "";
+    state.refs.settingsMessage.textContent = state.settingsNotice || (
+      settings.apiKey ? "" : "当前标签页尚未保存 API Key；如接口需要认证，请在此输入。"
+    );
     state.refs.settingsOverlay.hidden = false;
     state.refs.endpoint.focus();
   }
@@ -869,15 +856,14 @@
         endpoint: endpoint,
         model: state.refs.model.value.trim().slice(0, 120),
         apiKey: state.refs.apiKey.value.trim().slice(0, 1000),
-        persistKey: state.refs.persistKey.checked,
       };
       if (!settings.model) throw new Error("请填写模型名称。");
       saveSettings(settings);
+      state.settingsNotice = "";
+      state.settingsError = false;
       closeSettings();
       setStatus(
-        settings.persistKey
-          ? "接口配置已保存在此浏览器。"
-          : "接口地址与模型已保存；API Key 只保留在当前会话。",
+        "接口地址与模型已保存；API Key 仅保留在当前标签页会话中，独立新标签页需重新填写。",
         "success"
       );
     } catch (error) {
@@ -893,7 +879,8 @@
     state.refs.endpoint.value = "https://api.openai.com/v1/chat/completions";
     state.refs.model.value = "";
     state.refs.apiKey.value = "";
-    state.refs.persistKey.checked = false;
+    state.settingsNotice = "";
+    state.settingsError = false;
     state.refs.settingsMessage.textContent = "本网站的本地接口配置、悬浮按钮位置和助手宽度已清空；其他网站数据未受影响。";
     setStatus("浏览器本地接口配置已清空。", "success");
   }
@@ -1276,15 +1263,10 @@
     var apiKey = element("input", "lacan-ai-input");
     apiKey.type = "password";
     apiKey.autocomplete = "off";
-    var persistKey = element("input", "");
-    persistKey.type = "checkbox";
-
-    var persistLabel = element("label", "lacan-ai-check");
-    persistLabel.append(persistKey, document.createTextNode("在此浏览器持久保存 API Key（同源脚本可能读取）"));
     var notice = element(
       "p",
       "lacan-ai-settings-notice",
-      "本页面不会将您的 API Key 保存到任何外部服务；它仅保存在您本地的浏览器缓存中，并只在调用时发送到您填写的 OpenAI 兼容接口。"
+      "本页面不会将您的 API Key 保存到任何外部服务；密钥仅保留在当前标签页会话中，独立新标签页需重新填写，并只在调用时发送到您填写的 OpenAI 兼容接口。同源脚本仍可能读取密钥。"
     );
     var message = element("p", "lacan-ai-settings-message", "");
     message.setAttribute("role", "status");
@@ -1310,7 +1292,6 @@
       model,
       element("label", "lacan-ai-label", "API Key（本地接口可留空）"),
       apiKey,
-      persistLabel,
       notice,
       message,
       actions
@@ -1322,7 +1303,6 @@
     state.refs.endpoint = endpoint;
     state.refs.model = model;
     state.refs.apiKey = apiKey;
-    state.refs.persistKey = persistKey;
     state.refs.settingsMessage = message;
   }
 
@@ -1518,9 +1498,13 @@
   }
 
   function init() {
+    readSettings();
     createPanel();
     createSettingsDialog();
     setupTranslationSelectionTracking();
+    if (state.settingsNotice) {
+      setStatus(state.settingsNotice, state.settingsError ? "error" : "info");
+    }
     document.addEventListener("keydown", function (event) {
       if (event.key !== "Escape") return;
       if (!state.refs.settingsOverlay.hidden) closeSettings();

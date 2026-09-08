@@ -24,6 +24,7 @@ class LacanAiMdBookConfigTest(unittest.TestCase):
 
     def test_ai_panel_includes_required_mvp_controls(self):
         script = (ROOT / "theme" / "lacan-ai.js").read_text(encoding="utf-8")
+        core = (ROOT / "theme" / "lacan-ai-core.js").read_text(encoding="utf-8")
         styles = (ROOT / "theme" / "lacan-ai.css").read_text(encoding="utf-8")
 
         for label in (
@@ -39,8 +40,8 @@ class LacanAiMdBookConfigTest(unittest.TestCase):
         self.assertNotIn('["translation", "翻译"]', script)
         self.assertNotIn('["proofreading", "校对"]', script)
 
-        self.assertIn("lacan-ai:settings", script)
-        self.assertIn("lacan-ai:key", script)
+        self.assertIn("lacan-ai:settings", core)
+        self.assertIn("lacan-ai:key", core)
         self.assertNotIn("localStorage.clear", script)
         self.assertIn("aria-modal", script)
         self.assertIn('element("form", "lacan-ai-settings")', script)
@@ -57,6 +58,9 @@ class LacanAiMdBookConfigTest(unittest.TestCase):
         self.assertIn("打开此卡片", script)
         self.assertIn("解读此卡片", script)
         self.assertIn("本页面不会将您的 API Key 保存到任何外部服务", script)
+        self.assertIn("独立新标签页需重新填写", script)
+        self.assertNotIn("持久保存 API Key", script)
+        self.assertNotIn("persistKey", script)
         self.assertIn('"lacan-ai-settings-notice"', script)
         self.assertIn('element("p", "lacan-ai-settings-message", "")', script)
         self.assertIn("knowledgeWorkspace.hidden = !showKnowledge", script)

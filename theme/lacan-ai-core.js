@@ -14,6 +14,50 @@
   var MAX_OUTPUT_TOKENS = 1600;
   var MAX_RESPONSE_BYTES = 1024 * 1024;
   var MAX_OUTPUT_CHARS = 200000;
+  var AI_SETTINGS_KEY = "lacan-ai:settings";
+  var AI_API_KEY = "lacan-ai:key";
+
+  function aiSettingsPreferences(settings) {
+    settings = settings || {};
+    return {
+      endpoint: typeof settings.endpoint === "string"
+        ? settings.endpoint
+        : "https://api.openai.com/v1/chat/completions",
+      model: typeof settings.model === "string" ? settings.model : "",
+    };
+  }
+
+  function readAiSettings(localStorage, sessionStorage) {
+    var raw = localStorage.getItem(AI_SETTINGS_KEY);
+    var saved;
+    try {
+      saved = JSON.parse(raw || "{}");
+    } catch (_error) {
+      saved = {};
+    }
+    var settings = aiSettingsPreferences(saved);
+    var sessionKey = sessionStorage.getItem(AI_API_KEY);
+    var legacyKey = localStorage.getItem(AI_API_KEY);
+    if (legacyKey !== null) {
+      // Complete the session write before removing the only persistent copy.
+      if (sessionKey === null) {
+        sessionStorage.setItem(AI_API_KEY, legacyKey);
+        sessionKey = legacyKey;
+      }
+      localStorage.removeItem(AI_API_KEY);
+    }
+    if (saved && Object.prototype.hasOwnProperty.call(saved, "persistKey")) {
+      localStorage.setItem(AI_SETTINGS_KEY, JSON.stringify(settings));
+    }
+    settings.apiKey = sessionKey || "";
+    return { settings: settings, migrated: legacyKey !== null };
+  }
+
+  function saveAiSettings(localStorage, sessionStorage, settings) {
+    sessionStorage.setItem(AI_API_KEY, settings.apiKey || "");
+    localStorage.setItem(AI_SETTINGS_KEY, JSON.stringify(aiSettingsPreferences(settings)));
+    localStorage.removeItem(AI_API_KEY);
+  }
 
   function normalize(value) {
     return String(value || "")
@@ -750,6 +794,8 @@
     MAX_OUTPUT_TOKENS: MAX_OUTPUT_TOKENS,
     MAX_RESPONSE_BYTES: MAX_RESPONSE_BYTES,
     MAX_OUTPUT_CHARS: MAX_OUTPUT_CHARS,
+    readAiSettings: readAiSettings,
+    saveAiSettings: saveAiSettings,
     normalize: normalize,
     searchCards: searchCards,
     findCardsBySegment: findCardsBySegment,
