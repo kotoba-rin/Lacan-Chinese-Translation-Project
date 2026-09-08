@@ -70,10 +70,13 @@
     };
     try {
       var saved = JSON.parse(window.localStorage.getItem(SETTINGS_KEY) || "{}");
-      var settings = Object.assign({}, defaults, saved);
-      settings.apiKey = settings.persistKey
-        ? window.localStorage.getItem(API_KEY) || ""
-        : window.sessionStorage.getItem(API_KEY) || "";
+      var settings = Object.assign({}, defaults);
+      Object.keys(defaults).forEach(function (key) {
+        if (Object.prototype.hasOwnProperty.call(saved, key)) {
+          settings[key] = saved[key];
+        }
+      });
+      settings.apiKey = window.sessionStorage.getItem(API_KEY) || "";
       return settings;
     } catch (_error) {
       return Object.assign({}, defaults, { apiKey: "" });
@@ -87,13 +90,8 @@
       persistKey: Boolean(settings.persistKey),
     };
     window.localStorage.setItem(SETTINGS_KEY, JSON.stringify(persisted));
-    if (persisted.persistKey) {
-      window.localStorage.setItem(API_KEY, settings.apiKey || "");
-      window.sessionStorage.removeItem(API_KEY);
-    } else {
-      window.sessionStorage.setItem(API_KEY, settings.apiKey || "");
-      window.localStorage.removeItem(API_KEY);
-    }
+    window.sessionStorage.setItem(API_KEY, settings.apiKey || "");
+    window.localStorage.removeItem(API_KEY);
   }
 
   function setStatus(message, kind) {
