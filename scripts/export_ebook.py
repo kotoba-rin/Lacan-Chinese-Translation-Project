@@ -28,7 +28,9 @@ ROOT = source.ROOT
 # Optional isolated dependencies; the ordinary website remains stdlib-only.
 sys.path.insert(0, str(ROOT / '.cache/ebooks/python'))
 os.environ.setdefault('DYLD_FALLBACK_LIBRARY_PATH', '/opt/homebrew/lib')
-from lxml import etree, html
+import defusedxml.lxml as defused_lxml
+import lxml.etree as etree
+import lxml.html as html
 
 WEB = 'https://kotoba-rin.com/seminars/'
 XHTML = 'http://www.w3.org/1999/xhtml'
@@ -195,7 +197,7 @@ def prepare_math(chapters, formulas):
                 continue
             index = int(placeholder.attrib.pop('data-formula'))
             placeholder.set('class', 'math-display' if formulas[index]['display'] else 'math-inline')
-            svg = etree.fromstring(svgs[index].encode())
+            svg = defused_lxml.fromstring(svgs[index].encode())
             title = etree.Element(f'{{{SVG}}}title')
             title.text = formulas[index]['tex']
             svg.insert(0, title)
@@ -425,7 +427,7 @@ def validate_epub(path, audit):
         assert archive.namelist()[0]=='mimetype'
         assert archive.getinfo('mimetype').compress_type==zipfile.ZIP_STORED
         files=set(archive.namelist())
-        docs={name:etree.fromstring(archive.read(name)) for name in files if name.endswith(('.xhtml','.opf','.ncx','.xml'))}
+        docs={name:defused_lxml.fromstring(archive.read(name)) for name in files if name.endswith(('.xhtml','.opf','.ncx','.xml'))}
         ids={name:{e.get('id') for e in doc.iter() if e.get('id')} for name,doc in docs.items()}
         seen=[]; notes=0; cards=0
         for name,doc in docs.items():
