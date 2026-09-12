@@ -41,6 +41,17 @@ DISPLAY_MATH = re.compile(r'^\\{2}\[\s*\n?(.*?)\n?\\{2}\]\s*$', re.S | re.M)
 SOURCE_QUOTATIONS = {'s8-19-0093', 's8-27-0007'}
 
 
+def parse_xml(data):
+    """Read generated SVG/EPUB XML without entities or external resources."""
+    parser = etree.XMLParser(resolve_entities=False, load_dtd=False, no_network=True)
+    root = etree.fromstring(data, parser=parser)
+    # Our generated documents need no DTD. Reject declarations so unresolved
+    # entity references cannot be passed on to an ebook reader either.
+    if root.getroottree().docinfo.doctype:
+        raise ValueError('DTD declarations are not allowed in ebook XML')
+    return root
+
+
 def sha256(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
@@ -195,7 +206,7 @@ def prepare_math(chapters, formulas):
                 continue
             index = int(placeholder.attrib.pop('data-formula'))
             placeholder.set('class', 'math-display' if formulas[index]['display'] else 'math-inline')
-            svg = etree.fromstring(svgs[index].encode())
+            svg = parse_xml(svgs[index].encode())
             title = etree.Element(f'{{{SVG}}}title')
             title.text = formulas[index]['tex']
             svg.insert(0, title)
@@ -425,7 +436,7 @@ def validate_epub(path, audit):
         assert archive.namelist()[0]=='mimetype'
         assert archive.getinfo('mimetype').compress_type==zipfile.ZIP_STORED
         files=set(archive.namelist())
-        docs={name:etree.fromstring(archive.read(name)) for name in files if name.endswith(('.xhtml','.opf','.ncx','.xml'))}
+        docs={name:parse_xml(archive.read(name)) for name in files if name.endswith(('.xhtml','.opf','.ncx','.xml'))}
         ids={name:{e.get('id') for e in doc.iter() if e.get('id')} for name,doc in docs.items()}
         seen=[]; notes=0; cards=0
         for name,doc in docs.items():

@@ -17,6 +17,19 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  ebook-xml-security:
+    name: Test ebook XML parsing
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Install optional XML dependency
+        run: python3 -m pip install --target .cache/ebooks/python lxml
+      - name: Test SVG and EPUB XML safety
+        run: python3 -m unittest discover -s tests -p test_ebook_xml_security.py
+
   build:
     name: Build mdBook
     runs-on: ubuntu-latest

@@ -34,6 +34,8 @@ macOS 默认读取 `/opt/homebrew/lib` 下的动态库。PDF 正文优先使用�
 
 注释保留原文标号和段落位置。图片只收集保留内容实际引用的本地资源；图像最长边限制为2000像素。TeX 在构建时转为 SVG；普通转义方括号不当作公式。EPUB 输出检查所有内链、图片、XML、分段 ID、注释数量与知识卡链接数量。PDF 还需检查渲染页面、字体、目录、分页、链接和公式。
 
+SVG 和 EPUB XML 解析使用现有 lxml 依赖，关闭实体展开、外部 DTD 加载和网络访问，并拒绝带 DTD 声明的文档。无需安装已弃用的 `defusedxml.lxml`。安装 lxml 后，可运行 `python3 -m unittest discover -s tests -p test_ebook_xml_security.py` 验证恶意 XML 拒绝行为及正常公式、EPUB 导出的兼容性；GitHub Actions 也会独立运行这组测试。
+
 `制作清单.json` 记录逐段注释哈希、关联卡链接、源文件哈希、分段覆盖及文件哈希，用于追溯版本。输出不是自动更新的版本，需重新运行导出。
 
 本命令只创建本地电子书，不执行 Git 推送或网站发布。
