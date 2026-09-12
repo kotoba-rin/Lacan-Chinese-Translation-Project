@@ -101,6 +101,8 @@
 | occultation / éclipse | 遮掩／隐没 | 本我与无意识两个场域重合时彼此遮蔽的操作；两个方向分别显露对象(a)与性差异无法被指称充分覆盖的裂隙。 |
 | sui-pensée / Selbstbewusstsein | 自思／自我意识 | 第八课以法语新词 *sui-pensée* 模拟德语复合词的构造，讽拟笛卡尔式思想仿佛对自身透明；“自思”不等于已经成立的统一自我。 |
 | Traumgedanken / Trauminhalt / Traumarbeit | 梦思想／梦内容／梦工作 | 梦思想以语言和语法关系得到重构；梦内容则是经凝缩、移置等机制形成的能指总体，二者不得混用。 |
+| rêve « Sezerno » / Secerno | Sezerno 电报之梦；西色末之梦（网络译例） | 第八课 s14-08-0105 引《梦的解析》第六章 C 节：电报地址首词可作 via、Villa 或 Casa，均须纳入解释。“Sezerno 电报之梦”为本项目说明性名称；“西色末”有中文网络译例，但尚未确认为通行译名；Secerno 为另一拼写，正文保留本地法文的 Sezerno。参见知识卡《Sezerno 电报之梦：模糊词语与并行解释》（链接见该段注释）。 |
+| rêve où il faut fermer ou bien un œil ou bien deux yeux | 闭上一只眼／两只眼之梦 | 第八课 s14-08-0105 并举的另一个梦，涉及弗洛伊德父亲的葬礼；“闭一只眼”有请求宽宥之意。是依梦内容作出的描述，不与 Sezerno 电报之梦混同。 |
 | structure grammaticale | 语法结构 | 大他者坠落后留下的“非‘我’”之结构补集；窥视驱力、施虐—受虐驱力及“一个孩子正挨打”都借语法位置展开。 |
 | Verwerfung / verworfen | 拒斥／遭到拒斥 | 固定译“拒斥”：从象征界遭拒斥者在实在界返回；第十一课明确要求同 *Verleugnung*［否认］区分，不译成普通排除或法律术语。 |
 | réalité sexuelle / rapport des sexes / Bedeutung sexuelle | 性现实／两性关系／性的指称 | 语言不能支配性现实，也不能以指称充分表述两性关系；阉割标示这项语言欠缺，不把它心理化为经验中的残缺感。 |

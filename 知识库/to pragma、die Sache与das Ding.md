@@ -5,10 +5,11 @@ verification: 部分准确
 tags:
   - 研讨班VII
   - 研讨班VIII
+  - 研讨班XIV
   - 研讨班XXV
   - 领域/精神分析/欲望驱力与客体
   - 概念/事物
-verified_at: 2026-08-07
+verified_at: 2026-09-12
 ---
 
 希腊语 πρᾶγμα（*pragma*）来自表示“做、行动”的动词 πράσσω，其语义可从“所做之事”延伸到事务、处境、争议中的问题或摆在面前的事物。带冠词的 τὸ πρᾶγμα（*to pragma*）通常就是“这件事／所论之事”，不能仅凭词形把它固定译成某个特殊的形而上学实体。
@@ -22,10 +23,15 @@ verified_at: 2026-08-07
 
 《研讨班 VIII》把 *to pragma* 放进自己的理论语境，使它承担法语 *la Chose* 所带的“原物”重量。这是拉康对柏拉图词语的概念性重读，不是一条可以反向套用到全部希腊语、德语和法语文本的词典等式。
 
+《研讨班 XIV》第九课谈到列维-斯特劳斯时，把两种事物写作 *la chose miel*（蜂蜜之物）和 *la chose tabac*（烟草之物），并说前者很久以来一直在“等待”（*attendait*）后者。句中先说明：在烟草来到欧洲以前，蜂蜜的对立项“灰”已经在某种意义上为它准备好了位置。结合这一上下文，“等待”可读为对结构位置的拟人化描述：并不是先有一个主体预见了尚未出现的烟草，而是既有的对立关系使后来出现的事物能够被纳入其中。*En quelque sorte*（在某种意义上）保留了类比的限定；“自古以来”不应被扩张成超历史结构永远存在的证明。这是对拉康此处转述的语境解释，不是列维-斯特劳斯原书的逐字命题，也不能仅凭这段话独立证实所有相关中世纪文本的历史情形。
+
+这一例子随后被拉康用于重问 *Sachvorstellungen*（事物表象）：表象是否只能是主体头脑对孤立事物的再现，还是也可以从事物间的关系来考虑？“事物彼此成为记号、相互示意”（*les choses se font signe*）把重点移向相互指涉的关系。“蜂蜜之物”中的 *chose* 因而不应直接升级为表象网络之外的 *das Ding*；此处恰在讨论可相互召唤、相互等待的事物秩序。不过，拉康紧接着又说，仅仅在无意识中找出古老神话的网络并不是分析工作。因此，这个例子不能变成任意套用神话象征对照的许可。
+
 《研讨班 XXV》又通过词语、表象和织物改写 *la Chose* 的问题。第一课先说词语“造出事物”，随即用同音书写把它裂开，并承认词语与事物并不相称；第十二课则把“被想象的原物”说成“被表象的织物”，同时强调表象与对象的差异。这里不是把 *la Chose* 还原成一块可见布料，而是借 *tissu / étoffe* 标出：原物只能经由想象和表象获得呈现，却不等同于任何一次呈现。
 
 ## 来源
 
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0094|本地法语原文 s14-09-0094]]、[[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0095|s14-09-0095]]、[[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0096|s14-09-0096]]、[[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0097|s14-09-0097]]、[[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0098|s14-09-0098]]、[[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0099|s14-09-0099]]（法文；蜂蜜之物等待烟草之物、事物表象与相互指涉；正文对“等待”的结构性解读据这一连续语境作出）
 - [[texts/s8-le-transfert/original/Leçon-06.md#s8-06-0009|《研讨班 VIII》法文原文位置]]
 - [[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-04.md#s7-04-0002|本地法语原文 s7-04-0002]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-04.md#s7-04-0021|s7-04-0021]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-04.md#s7-04-0072|s7-04-0072]]、[[texts/s7-l-ethique-de-la-psychanalyse/original/Leçon-04.md#s7-04-0073|s7-04-0073]]（法文；*Ding/Sache*、语言实践与 *Nebenmensch* 复合体）
 - [[texts/s25-le-moment-de-conclure/original/Leçon-01.md#s25-01-0031|《研讨班 XXV》第一课 s25-01-0031—s25-01-0034]]、[[texts/s25-le-moment-de-conclure/original/Leçon-01.md#s25-01-0078|s25-01-0078—s25-01-0081]]、[[texts/s25-le-moment-de-conclure/original/Leçon-12.md#s25-12-0062|第十二课 s25-12-0062—s25-12-0063]]（法文；词与事物的不相称、原物、织物、表象与对象）
@@ -34,6 +40,7 @@ verified_at: 2026-08-07
 
 ## 关联
 
+[[知识库/列维-斯特劳斯的民族志书写与神话变换.md|列维-斯特劳斯的民族志书写与神话变换]]
 [[知识库/Extimité：外密性与原物的位置.md|Extimité：外密性与原物的位置]]
 [[知识库/弗洛伊德《纲要》中的满足经验与身旁之人.md|弗洛伊德《纲要》中的满足经验与身旁之人]]
 [[知识库/康德的物自体与先验形式.md|康德的物自体与先验形式]]
@@ -47,6 +54,12 @@ verified_at: 2026-08-07
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-04.md#s7-04-0072|s7-04-0072]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-04.md#s7-04-0073|s7-04-0073]]
 [[texts/s8-le-transfert/translation/Leçon-06.md#s8-06-0009|s8-06-0009]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0094|s14-09-0094]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0095|s14-09-0095]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0096|s14-09-0096]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0097|s14-09-0097]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0098|s14-09-0098]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0099|s14-09-0099]]
 [[texts/s25-le-moment-de-conclure/translation/Leçon-01.md#s25-01-0031|s25-01-0031]]
 [[texts/s25-le-moment-de-conclure/translation/Leçon-01.md#s25-01-0033|s25-01-0033]]
 [[texts/s25-le-moment-de-conclure/translation/Leçon-01.md#s25-01-0078|s25-01-0078]]

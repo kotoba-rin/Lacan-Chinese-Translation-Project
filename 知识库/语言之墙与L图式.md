@@ -25,9 +25,10 @@ verified_at: 2026-08-05
 
 ## 关联
 
-[[知识库/空洞言说与充实言说.md|空洞言说与充实言说]]
+[[知识库/主体间性与相互性：拉康对发展尺度的批评.md|主体间性与相互性：拉康对发展尺度的批评]]
 [[知识库/拉康“罗马报告”：言语与语言的功能及领域.md|拉康“罗马报告”：言语与语言的功能及领域]]
 [[知识库/无意识是大他者的话语.md|无意识是大他者的话语]]
+[[知识库/空洞言说与充实言说.md|空洞言说与充实言说]]
 
 [[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/translation/Leçon-20.md#s2-20-0012|s2-20-0012]]
 [[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/translation/Leçon-20.md#s2-20-0013|s2-20-0013]]

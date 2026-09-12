@@ -30,6 +30,7 @@ verified_at: 2026-08-27
 ## 关联
 
 [[知识库/我（je）、自我（moi）与“我是一个他者”.md|我（je）、自我（moi）与“我是一个他者”]]
+[[知识库/第一语言习得的关键期：早期输入与晚期学习的边界.md|第一语言习得的关键期：早期输入与晚期学习的边界]]
 
 [[texts/s6-le-desir-et-son-interpretation/translation/Leçon-01.md#s6-01-0142|s6-01-0142]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-05.md#s14-05-0020|s14-05-0020]]

@@ -8,7 +8,7 @@ tags:
   - 领域/哲学/认识论与心灵
   - 人物/笛卡尔
   - 概念/我思
-verified_at: 2026-08-27
+verified_at: 2026-09-12
 ---
 
 *Cogito* 是拉丁语 *cogitare*（思考、思量）的第一人称单数现在时直陈式，字面即“我思”；在后来的哲学语境中，它也被名词化，用作 *cogito ergo sum*［我思，故我在］及其论证位置的简称。
@@ -21,6 +21,10 @@ verified_at: 2026-08-27
 
 这一步首先保证的是：在怀疑或思想正在发生的当下，正在思者不能同时被否认为不存在。它并不就此证明身体、外部世界或关于“我是什么”的全部规定，也不是对经验性自我心理状态的普通描述，更不等于意识已经对自身的一切内容完全透明。
 
+《指导心智的规则》第三条把直观与演绎区分为可靠的认识途径，并将“自己存在、自己思想”列为直观所能直接把握的例子；同条末尾仍承认启示真理的最高确定性，把信仰归于意志而非理智的活动。因而不能把这套方法简单描述为排除神学的理性自足宣言，也不能把《规则》的方法论同《沉思》的上帝证明当作同一段论证。
+
+还须区分 *cogito* 的当下确定性与知识体系的持续有效性。《第二沉思》中，即便假设有欺骗者，“我正在思想，因此不能不存在”仍然成立，无须先证明一个不欺骗的上帝。《第三沉思》随后从无限者观念的来源，以及具有这种观念的有限之我的存在与保存原因，论证上帝存在；这需要观念、因果与完满性等前提，并非由裸露的“我在”直接推出上帝。《第五沉思》再借不欺骗的上帝保证清楚分明认识的真理性，尤其说明为何注意力离开证明后，已被清楚把握的结论仍能作为确定知识保存。
+
 把公式重新标点为“我思：‘故我在’”是后来对主体分裂和陈述层次的哲学改写，不是笛卡尔原句的语法校订。
 
 《研讨班 XIV》第五课先把笛卡尔 *cogito* 称作无意识地位的根本矛盾和“最佳反面”：它看起来把主体奠基于自我意识，而无意识主体恰恰不能被还原为透明的“思考者”。但拉康并未简单抛弃 *cogito*；他同时指出，*cogito* 主体的出现同现代科学的来临具有同样的历史范围，精神分析也只有在这一主体位置出现以后才可能形成。这里的“反面”因此也是一个可被重新操作的结构支点。
@@ -31,10 +35,19 @@ verified_at: 2026-08-27
 
 拉康稍后又把 *cogito* 称为 *déchet*：笛卡尔逐步清除一切可疑知识时，*cogito* 作为这项撤空运作剩下的“废余物”出现。这是拉康对方法性怀疑之结构后果的重读，不是 *cogito* 的拉丁语词义。
 
+第八课还把思想仿佛对自身透明的形象讽拟为 *sui-pensée*（自思），用以承载法语 *conscience de soi* 和德语 *Selbstbewusstsein* 的问题。后者的哲学义是对自身作为思想者的意识，日常义则可指自信，本段用的是前者。拉康明确把这种透明性限定为“表象”；既不能据此认定主体已完整认识自己，也不能把德语构词中的 *Selbst* 直接当作弗洛伊德心理机构意义上的 *Ich*。
+
+《研讨班 XIV》第八课将这一后续进路压缩为 *sum, ergo Deus est*（我在，故上帝存在），称缺少这种补足的 *cogito* 不能作为哲学表述站稳。这是拉康对笛卡尔奠基结构的重读，不是《规则》中已定位的逐字引文，也不是否认 *cogito* 在思想当下的确定性。他称之为把后果交回大他者承担，同时保留笛卡尔这一步已取得的成果。第八课后文进一步说，即使尚未赋予大他者神圣本质，“我思”中的“所以”已经要求对话者跟随和认可，因而诉诸言语与真理断言的场所。这里的大他者不能直接等同于上帝：上帝是其保证功能的神学形式，而拉康把大他者重新规定为言语的场所，并拒绝再赋予它另一种实体性存在。
+
 最后，拉康把“我思，故我在”反转成“要么我不思，要么我不在”，并借异化与克莱因四元群的图式处理无意识主体。这是为精神分析构造的逻辑重排，不是笛卡尔本人提出的另一版 *cogito*，也不能当作上述原典公式的校勘结果。
 
 ## 来源
 
+- [Descartes, Règles pour la direction de l’esprit，第三条](https://fr.wikisource.org/wiki/R%C3%A8gles_pour_la_direction_de_l%E2%80%99esprit)（法文；原典译本，直观与演绎、“存在／思想”的直接把握及启示真理与信仰的限定）
+- [Descartes, Méditations métaphysiques，第二、三沉思](https://athena.unige.ch/athena/descartes/descartes-meditations-metaphysiques-complet.html)（法文；原典，思想当下的存在确定性、无限者观念与有限之我的存在原因）
+- [Descartes, Méditations métaphysiques，第五沉思](https://athena.unige.ch/athena/descartes/descartes-meditations-metaphysiques-5.html)（法文；原典，不欺骗的上帝与注意力转移后的知识确定性）
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-08.md#s14-08-0025|《研讨班 XIV》第八课 s14-08-0025—s14-08-0029]]（法文；*sum, ergo Deus est*、哲学奠基与保留下来的主体问题）
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-08.md#s14-08-0039|《研讨班 XIV》第八课 s14-08-0039—s14-08-0042、s14-08-0047—s14-08-0049]]（法文；大他者作为言语场所及 *cogito* 对这一场所的先行依赖）
 - [Discours de la méthode, quatrième partie](https://fr.wikisource.org/wiki/Discours_de_la_m%C3%A9thode_(%C3%A9d._Cousin)/Quatri%C3%A8me_partie)（法文；笛卡尔原著）
 - [Principia philosophiae, I.7—10](https://la.wikisource.org/wiki/Principia_philosophiae)（拉丁文；笛卡尔原著，*ego cogito, ergo sum*、思想与同时存在的关系及 *cogitatio* 的范围）
 - [Meditationes de prima philosophia, II](https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%281685%29/Meditatio_II)（拉丁文；笛卡尔原著，*ego sum, ego existo* 与思想行动）
@@ -50,11 +63,16 @@ verified_at: 2026-08-27
 - [[texts/s14-la-logique-du-fantasme/original/Leçon-05.md#s14-05-0163|《研讨班 XIV》第五课 s14-05-0163—s14-05-0165]]（法文；“要么我不思，要么我不在”作为面向无意识主体的实用重排）
 - [Éditions du Seuil：*Le Séminaire, livre XIV — La Logique du fantasme*](https://www.seuil.com/ouvrage/le-seminaire-livre-xiv-jacques-lacan/9782021524321)（法文；米勒 2023 年出版说明，概括克莱因四元群与经修改的笛卡尔 *cogito* 之交叉）
 
+- [Duden：*Selbstbewusstsein*](https://www.duden.de/rechtschreibung/Selbstbewusstsein)（德文；哲学中的自我意识与日常自信义的区别）
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-08.md#s14-08-0022|本地法语原文 s14-08-0022—0024]]（法文；*sui-pensée*、*Selbstbewusstsein* 及主体透明性仅为表象的限定）
+
 ## 关联
 
 [[知识库/克莱因四元群：对合运算与第十四期的逻辑借用.md|克莱因四元群：对合运算与第十四期的逻辑借用]]
+[[知识库/安瑟伦《Proslogion》：愚人与不可设想有比之更大者.md|安瑟伦《Proslogion》：愚人与不可设想有比之更大者]]
 [[知识库/德·摩根律与对称差：否定的集合图.md|德·摩根律与对称差：否定的集合图]]
 [[知识库/拉康《科学与真理》.md|拉康《科学与真理》]]
+[[知识库/海德格尔《什么叫作思？》：思的含义与召唤.md|海德格尔《什么叫作思？》：思的含义与召唤]]
 [[知识库/笛卡尔的广延与牛顿引力的超距难题.md|笛卡尔的广延与牛顿引力的超距难题]]
 
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-05.md#s14-05-0068|s14-05-0068]]
@@ -67,4 +85,8 @@ verified_at: 2026-08-27
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-05.md#s14-05-0124|s14-05-0124]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-05.md#s14-05-0146|s14-05-0146]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-05.md#s14-05-0163|s14-05-0163]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-08.md#s14-08-0022|s14-08-0022]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-08.md#s14-08-0023|s14-08-0023]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-08.md#s14-08-0025|s14-08-0025]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-08.md#s14-08-0047|s14-08-0047]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-11.md#s17-11-0087|s17-11-0087]]
