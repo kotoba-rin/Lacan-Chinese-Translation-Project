@@ -35,3 +35,6 @@ OCR/
 /.agents/skills/deploy-mdbook-wordpress/
 /scripts/deploy_mdbook_wordpress.py
 /tests/test_deploy_mdbook_wordpress.py
+
+# Private Ecrits collection: never stage, commit, or push
+/texts/Écricts/

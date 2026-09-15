@@ -8,7 +8,7 @@ tags:
   - 研讨班X
   - 研讨班XIX
   - 领域/精神分析/欲望驱力与客体
-verified_at: 2026-08-13
+verified_at: 2026-09-16
 ---
 
 “部分对象”（*partial object / objet partiel*）首先来自弗洛伊德之后的客体关系理论。所谓“部分”不只表示一件东西在物理上是身体的一部分，也表示婴儿早期的欲望、幻想与焦虑可能指向照料者的某项功能，而非把对方经验成统一完整的人。梅兰妮·克莱因尤其讨论好乳房／坏乳房等部分对象，以及爱与攻击如何围绕它们组织。
@@ -29,6 +29,12 @@ verified_at: 2026-08-13
 
 《研讨班 X》把这项区别系统化为五个层级：口腔、肛门、阳具、窥视与呼喊，相应地围绕乳房、粪便、(−φ)、凝视与声音定位。但拉康立即警告，把它们当作相互分离的五件对象，只是一种粗浅而会遮暗问题的说法。各层展现的始终是同一项 (a) 功能：主体在大他者中的构成留下一份余数，它又作为欲望的原因运作。
 
+《研讨班 VIII》第十五课的小汉斯语境提供另一种区分。母亲可以拒斥孩子正在苏醒、尚说不清的欲望，却赞赏他被认为“拥有”的那个部分对象。s8-15-0045—0047 的重心因此不是对象有多小，而是同一孩子作为有价值的对象受到赞赏、作为欲望主体却遭到贬抑。对象取得 *agalma* 的特权价值，并不等于孩子的欲望获得承认。
+
+同课末尾还阻止把口腔对象、肛门对象与阳具对象排成简单的逐级特化：s8-15-0051 明说阳具对象不是前两者终于显露的具体形式。(a) = A − ϕ 仅在随后限定的生殖欲望与阉割阶段语境中提出，不能升格为跨时期对象 a 的通用定义。
+
+第十六课 s8-16-0069—0072 把 $(a)$ 放在另一条变换链的终端：作为言说场所、完全意义上主体及诚信／失信关系一方的大他者，“跌落”成类似最惰性欲望对象的东西。这里说的是大他者在欲望关系中的位置变换，不是把任何真实他人都定义成一件“贬降的物品”，也不是一般性地定义对象 a 的所有形式。
+
 ## 来源
 
 - [An Introductory Dictionary of Lacanian Psychoanalysis](https://www.davidbardschwarz.com/pdf/evans.pdf)（英文；概念词典）
@@ -43,26 +49,28 @@ verified_at: 2026-08-13
 - [[texts/s10-l-angoisse/original/Leçon-23.md#s10-23-0001|《研讨班 X》第二十三课 s10-23-0001—s10-23-0003]]（法文；各层展现同一项客体 (a) 功能）
 - [[texts/s10-l-angoisse/original/Leçon-24.md#s10-24-0145|《研讨班 X》第二十四课 s10-24-0145—s10-24-0148]]（法文；口腔、肛门、阳具、窥视与“呼喊”〔*vociféré*〕的层级次序）
 
+- [[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0044|本地法语原文 s8-15-0044]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0045|本地法语原文 s8-15-0045]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0046|本地法语原文 s8-15-0046]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0047|本地法语原文 s8-15-0047]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0051|本地法语原文 s8-15-0051]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0054|本地法语原文 s8-15-0054]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0055|本地法语原文 s8-15-0055]]（法文；对象赞赏与欲望拒斥，以及阳具对象并非早期对象的线性特化）
+- [[texts/s8-le-transfert/original/Leçon-16.md#s8-16-0069|本地法语原文 s8-16-0069]]、[[texts/s8-le-transfert/original/Leçon-16.md#s8-16-0072|s8-16-0072]]（法文；大他者在欲望关系中向惰性对象 $(a)$ 层级的跌落）
+
 ## 关联
 
 [[知识库/Agalma的希腊语义与对象a.md|Agalma 的希腊语义与对象 a]]
 [[知识库/Ex-voto：器官供物、Agalma与部分对象.md|Ex-voto：器官供物、Agalma 与部分对象]]
-[[知识库/梅兰妮·克莱因.md|梅兰妮·克莱因]]
-[[知识库/萨德作品中的规则化享乐与身体碎片化.md|萨德作品中的规则化享乐与身体碎片化]]
-[[知识库/欲望的转喻性.md|欲望的转喻性]]
-[[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]
-[[知识库/拉康的四种话语与四分之一转位.md|拉康的四种话语与四分之一转位]]
 [[知识库/Lettre d’a-mur：情书、对象a与墙.md|Lettre d’a-mur：情书、对象 a 与墙]]
-[[知识库/皮尔士的符号三元关系与解释项.md|皮尔士的符号三元关系与解释项]]
+[[知识库/Wiwimacher：小汉斯的尿尿器与儿童性理论.md|Wiwimacher：小汉斯的“尿尿器”与儿童性理论]]
 [[知识库/交叉帽、内八字切口与不可镜像化的客体a.md|交叉帽、内八字切口与不可镜像化的客体 a]]
-[[知识库/阉割的客体：部分客体、丧失与对象a.md|阉割的客体：部分客体、丧失与对象 a]]
+[[知识库/大写Φ与小写ϕ的功能差异.md|大写 Φ 与小写 ϕ 的功能差异]]
 [[知识库/客体a的五个层级：口腔、肛门、阳具、凝视与声音.md|客体 a 的五个层级：口腔、肛门、阳具、凝视与声音]]
-[[知识库/驱力回路与让自己被.md|驱力回路与“让自己被……”]]
+[[知识库/拉康的四种话语与四分之一转位.md|拉康的四种话语与四分之一转位]]
+[[知识库/梅兰妮·克莱因.md|梅兰妮·克莱因]]
+[[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]
+[[知识库/欲望的转喻性.md|欲望的转喻性]]
+[[知识库/皮尔士的符号三元关系与解释项.md|皮尔士的符号三元关系与解释项]]
 [[知识库/精神分析的对象：对象a与主体分裂.md|精神分析的对象：对象 (a) 与主体分裂]]
+[[知识库/萨德作品中的规则化享乐与身体碎片化.md|萨德作品中的规则化享乐与身体碎片化]]
+[[知识库/阉割的客体：部分客体、丧失与对象a.md|阉割的客体：部分客体、丧失与对象 a]]
+[[知识库/驱力回路与让自己被.md|驱力回路与“让自己被……”]]
 
-[[texts/s19-ou-pire/translation/Leçon-05.md#s19-05-0215|s19-05-0215]]
-[[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0247|s19-12-0247]]
-[[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0248|s19-12-0248]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-16.md#s7-16-0083|s7-16-0083]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-16.md#s7-16-0084|s7-16-0084]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0034|s8-10-0034]]
@@ -72,6 +80,13 @@ verified_at: 2026-08-13
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0049|s8-10-0049]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0067|s8-10-0067]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0068|s8-10-0068]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0045|s8-15-0045]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0046|s8-15-0046]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0047|s8-15-0047]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0051|s8-15-0051]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0055|s8-15-0055]]
+[[texts/s8-le-transfert/translation/Leçon-16.md#s8-16-0069|s8-16-0069]]
+[[texts/s8-le-transfert/translation/Leçon-16.md#s8-16-0072|s8-16-0072]]
 [[texts/s10-l-angoisse/translation/Leçon-13.md#s10-13-0118|s10-13-0118]]
 [[texts/s10-l-angoisse/translation/Leçon-13.md#s10-13-0141|s10-13-0141]]
 [[texts/s10-l-angoisse/translation/Leçon-13.md#s10-13-0142|s10-13-0142]]
@@ -82,3 +97,6 @@ verified_at: 2026-08-13
 [[texts/s10-l-angoisse/translation/Leçon-23.md#s10-23-0003|s10-23-0003]]
 [[texts/s10-l-angoisse/translation/Leçon-24.md#s10-24-0145|s10-24-0145]]
 [[texts/s10-l-angoisse/translation/Leçon-24.md#s10-24-0148|s10-24-0148]]
+[[texts/s19-ou-pire/translation/Leçon-05.md#s19-05-0215|s19-05-0215]]
+[[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0247|s19-12-0247]]
+[[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0248|s19-12-0248]]

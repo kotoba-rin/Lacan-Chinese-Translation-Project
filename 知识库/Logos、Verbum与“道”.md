@@ -28,6 +28,7 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Ethos、Pathos与Logos：亚里士多德修辞学的三种说服方式.md|Ethos、Pathos 与 Logos：亚里士多德修辞学的三种说服方式]]
 [[知识库/圣奥古斯丁《论教师》：符号与内在教师.md|圣奥古斯丁《论教师》：符号与内在教师]]
 
 [[知识库/《研讨班VIII》中的le Verbe、logos与语言.md|《研讨班 VIII》中的 le Verbe、logos 与语言]]

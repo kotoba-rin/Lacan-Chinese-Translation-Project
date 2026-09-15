@@ -9,7 +9,7 @@ tags:
   - 人物/拉康
   - 概念/对象a
   - 时期/古典时代
-verified_at: 2026-08-20
+verified_at: 2026-09-13
 ---
 
 古希腊语 ἄγαλμα（*agalma*）可以指使神或观看者感到荣耀、欣喜的饰物、献礼或珍贵之物，后来尤其常指神像和奉献雕像。它并不只是现代意义上中性的“雕塑”：宗教奉献、光彩与价值感都可能包含在语境中。
@@ -48,6 +48,8 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 
 这段材料同时否定了拉康的另一项现场判断：ἄγαλμα 并不是在恩培多克勒残篇中才首次出现。荷马史诗已有八处用例，涉及献给神或人并带来荣耀、欣喜和愉悦的物件。因此，恩培多克勒残篇确实把阿佛洛狄忒、祭献与 *agalmata* 放在同一场景中，但不能据此建立该词的“最早见证”。
 
+第十五课把 *agalma* 从《会饮》的珍宝形象带入两项具体关系：乳头经要求和爱的关系事后获得爱欲价值（s8-15-0004—0005）；孩子身上受特权兴趣标记的对象则被称为他内部的珍珠（s8-15-0046）。紧接着“作为对象受赞赏、作为欲望受贬抑”的对照说明：珍贵对象的价值不等于完整主体或其欲望已获承认。这里的内部珍珠是论述中的价值形象，不是身体内部实际藏着一件宝物。
+
 ## 来源
 
 - [Cunliffe Lexicon: ἄγαλμα](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Acunliffe_lex-n24/)（希腊文/英文；古希腊词典）
@@ -64,20 +66,23 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 - [Seminar VIII overview: agalma and objet a](https://www.lacan.com/seminars2.htm)（英文；拉康研讨班索引；概念定位已同上述本地法文段落对照）
 - [The Lacanian Subject](https://www2.arnes.si/~jzaloh/bestbooks/Bruce-Fink_The-Lacanian-Subject.pdf)（英文；Bruce Fink 研究）
 
+- [[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0004|本地法语原文 s8-15-0004]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0005|本地法语原文 s8-15-0005]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0046|本地法语原文 s8-15-0046]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0047|本地法语原文 s8-15-0047]]（法文；乳头的回溯性爱欲价值与孩子内部珍珠的比喻）
+
 ## 关联
 
-[[知识库/Ex-voto：器官供物、Agalma与部分对象.md|Ex-voto：器官供物、Agalma 与部分对象]]
 [[知识库/Daimon与Theos：神性力量、中介与诸神.md|Daimon 与 Theos：神性力量、中介与诸神]]
+[[知识库/Ex-voto：器官供物、Agalma与部分对象.md|Ex-voto：器官供物、Agalma 与部分对象]]
 [[知识库/Skandalon：绊脚石、陷阱与丑闻.md|Skandalon：绊脚石、陷阱与丑闻]]
-[[知识库/部分对象与对象a.md|部分对象与对象 a]]
-[[知识库/鲍萨尼亚与两位阿佛洛狄忒.md|鲍萨尼亚与两位阿佛洛狄忒]]
-[[知识库/阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败.md|阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败]]
 [[知识库/厄琉息斯秘仪：epopteia、伊阿科斯与死后希望.md|厄琉息斯秘仪：epopteia、伊阿科斯与死后希望]]
+[[知识库/口腔要求、肛门礼物与回溯性.md|口腔要求、肛门礼物与回溯性]]
 [[知识库/狄奥提玛的凡人不朽：生成、记忆与在美中生育.md|狄奥提玛的凡人不朽：生成、记忆与在美中生育]]
 [[知识库/色诺芬与柏拉图的两部《会饮》.md|色诺芬与柏拉图的两部《会饮》]]
 [[知识库/苏格拉底与分析家话语的回溯性比较.md|苏格拉底与分析家话语的回溯性比较]]
 [[知识库/苏格拉底式解释：爱之三角与Agalma的替代.md|苏格拉底式解释：爱之三角与 Agalma 的替代]]
 [[知识库/西勒诺斯、马西亚斯与苏格拉底的双重比喻.md|西勒诺斯、马西亚斯与苏格拉底的双重比喻]]
+[[知识库/部分对象与对象a.md|部分对象与对象 a]]
+[[知识库/阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败.md|阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败]]
+[[知识库/鲍萨尼亚与两位阿佛洛狄忒.md|鲍萨尼亚与两位阿佛洛狄忒]]
 
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0001|s8-10-0001]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0002|s8-10-0002]]
@@ -97,3 +102,6 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0049|s8-11-0049]]
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0091|s8-11-0091]]
 [[texts/s8-le-transfert/translation/Leçon-11.md#s8-11-0097|s8-11-0097]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0004|s8-15-0004]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0046|s8-15-0046]]
+[[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0047|s8-15-0047]]

@@ -26,5 +26,7 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/Ethos、Pathos与Logos：亚里士多德修辞学的三种说服方式.md|Ethos、Pathos 与 Logos：亚里士多德修辞学的三种说服方式]]
+
 [[texts/s8-le-transfert/translation/Leçon-16.md#s8-16-0039|s8-16-0039]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-01.md#s19b-01-0001|s19b-01-0001]]

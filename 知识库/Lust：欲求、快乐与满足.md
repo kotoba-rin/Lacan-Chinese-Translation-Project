@@ -24,4 +24,6 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/口腔要求、肛门礼物与回溯性.md|口腔要求、肛门礼物与回溯性]]
+
 [[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0002|s8-15-0002]]
