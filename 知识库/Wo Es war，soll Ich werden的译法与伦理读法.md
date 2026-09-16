@@ -37,6 +37,7 @@ verified_at: 2026-08-28
 [[知识库/弗洛伊德.md|弗洛伊德]]
 [[知识库/Spaltung：自我裂分、对象裂分与主体分裂.md|Spaltung：自我裂分、对象裂分与主体分裂]]
 [[知识库/弗洛伊德的第一与第二地形学.md|弗洛伊德的第一与第二地形学]]
+[[知识库/笛卡尔的cogito并非普通三段论.md|笛卡尔的 cogito 并非普通三段论]]
 
 [[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-03.md#s1-03-0043|s1-03-0043]]
 [[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-19.md#s1-19-0148|s1-19-0148]]

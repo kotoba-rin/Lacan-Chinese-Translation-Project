@@ -8,7 +8,7 @@ tags:
   - 领域/哲学/认识论与心灵
   - 人物/笛卡尔
   - 概念/我思
-verified_at: 2026-09-12
+verified_at: 2026-09-16
 ---
 
 *Cogito* 是拉丁语 *cogitare*（思考、思量）的第一人称单数现在时直陈式，字面即“我思”；在后来的哲学语境中，它也被名词化，用作 *cogito ergo sum*［我思，故我在］及其论证位置的简称。
@@ -41,6 +41,12 @@ verified_at: 2026-09-12
 
 最后，拉康把“我思，故我在”反转成“要么我不思，要么我不在”，并借异化与克莱因四元群的图式处理无意识主体。这是为精神分析构造的逻辑重排，不是笛卡尔本人提出的另一版 *cogito*，也不能当作上述原典公式的校勘结果。
 
+第十课又把公式改写成 *cogito, ergo Es*。小写拉丁语 *es* 是 *esse* 的第二人称单数“你是”，所以它可以听成“我思，故你在”；大写德语 *Es* 同时指向弗洛伊德的“本我／它”。换色书写把同一句内部从拉丁语切换到德语的动作显形。这不是笛卡尔公式的另一种拉丁文版本，而是拉康用近似同音与大小写差异重新提出第二人称、无意识和“本我”地位的问题。
+
+紧邻译文中的“我不思的时候，也就是它思的时候”可以作为这条思路的压缩提示，却不宜当作第十课法文的逐字引文，也不是一条简单的逻辑等价式。第十课只明说异化选择从“我不思”通往“我不在”；下一课才说“我不思”把场域让给逻辑结构的 *Es*，并把无意识思想同那个自称统一主体的“我”分开。因此，“它思”标记的是思想不归属于透明自我的去中心化位置，不是另一个完整主体、内部人格或“坏的自我”；第十课随后恰好排除了这种实体化理解。
+
+第九课进一步把这个问题推进到小对象 (a)：能够补充 *Selbstbewusstsein*［自我意识］之欠缺的，不是把自我意识自身宣布为不可能，而是对象 (a)。这里的“补充”不恢复一个对自身透明的主体；对象 (a) 正是作为欲望之因和结构余留承担支撑功能，因此主体分裂不会被取消。这一限定也把拉康的用法同萨特的非设定自我意识区分开来。
+
 ## 来源
 
 - [Descartes, Règles pour la direction de l’esprit，第三条](https://fr.wikisource.org/wiki/R%C3%A8gles_pour_la_direction_de_l%E2%80%99esprit)（法文；原典译本，直观与演绎、“存在／思想”的直接把握及启示真理与信仰的限定）
@@ -62,9 +68,14 @@ verified_at: 2026-09-12
 - [[texts/s14-la-logique-du-fantasme/original/Leçon-05.md#s14-05-0144|《研讨班 XIV》第五课 s14-05-0144—s14-05-0146]]（法文；拆开 *sum* 与主语，并将 *cogito* 读作撤空运作的剩余）
 - [[texts/s14-la-logique-du-fantasme/original/Leçon-05.md#s14-05-0163|《研讨班 XIV》第五课 s14-05-0163—s14-05-0165]]（法文；“要么我不思，要么我不在”作为面向无意识主体的实用重排）
 - [Éditions du Seuil：*Le Séminaire, livre XIV — La Logique du fantasme*](https://www.seuil.com/ouvrage/le-seminaire-livre-xiv-jacques-lacan/9782021524321)（法文；米勒 2023 年出版说明，概括克莱因四元群与经修改的笛卡尔 *cogito* 之交叉）
+- [Sigmund Freud, *Das Ich und das Es*（1923 年初版）](https://www.freudedition.net/werke/das-ich-und-das-es/druckschrift)（德文；书名及 *Ich / Es* 的原始术语层次）
 
 - [Duden：*Selbstbewusstsein*](https://www.duden.de/rechtschreibung/Selbstbewusstsein)（德文；哲学中的自我意识与日常自信义的区别）
 - [[texts/s14-la-logique-du-fantasme/original/Leçon-08.md#s14-08-0022|本地法语原文 s14-08-0022—0024]]（法文；*sui-pensée*、*Selbstbewusstsein* 及主体透明性仅为表象的限定）
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-10.md#s14-10-0003|《研讨班 XIV》第十课 s14-10-0003—0005、0018—0021]]（法文；*cogito, ergo Es* 文字游戏、异化选择及对实体化“本我”的排除）
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-11.md#s14-11-0121|《研讨班 XIV》第十一课 s14-11-0121—0122、0137]]（法文；“我不思”、逻辑结构的 *Es* 与不归属于统一之“我”的无意识思想）
+
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0058|《研讨班 XIV》第九课 s14-09-0058、s14-09-0119]]（法文；自我意识之欠缺、对象 (a) 的补充功能及其非透明性）
 
 ## 关联
 
@@ -74,6 +85,8 @@ verified_at: 2026-09-12
 [[知识库/拉康《科学与真理》.md|拉康《科学与真理》]]
 [[知识库/海德格尔《什么叫作思？》：思的含义与召唤.md|海德格尔《什么叫作思？》：思的含义与召唤]]
 [[知识库/笛卡尔的广延与牛顿引力的超距难题.md|笛卡尔的广延与牛顿引力的超距难题]]
+[[知识库/Wo Es war，soll Ich werden的译法与伦理读法.md|Wo Es war，soll Ich werden 的译法与伦理读法]]
+[[知识库/萨特的非设定自我意识、坏信念与“地狱就是他人”.md|萨特的非设定自我意识、坏信念与“地狱就是他人”]]
 
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-05.md#s14-05-0068|s14-05-0068]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-05.md#s14-05-0103|s14-05-0103]]
@@ -89,4 +102,15 @@ verified_at: 2026-09-12
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-08.md#s14-08-0023|s14-08-0023]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-08.md#s14-08-0025|s14-08-0025]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-08.md#s14-08-0047|s14-08-0047]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0003|s14-10-0003]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0005|s14-10-0005]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0018|s14-10-0018]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0019|s14-10-0019]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0020|s14-10-0020]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0021|s14-10-0021]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-11.md#s14-11-0121|s14-11-0121]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-11.md#s14-11-0122|s14-11-0122]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-11.md#s14-11-0137|s14-11-0137]]
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-11.md#s17-11-0087|s17-11-0087]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0058|s14-09-0058]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0119|s14-09-0119]]

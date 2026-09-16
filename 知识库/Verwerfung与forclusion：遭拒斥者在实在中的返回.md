@@ -4,11 +4,12 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班III
+  - 研讨班XIV
   - 领域/精神分析/临床结构与症状
   - 领域/心理精神病学与医学/精神病学与精神病理
   - 概念/拒斥
   - 概念/实在界
-verified_at: 2026-08-06
+verified_at: 2026-09-16
 ---
 
 《研讨班 III》从让·伊波利特对弗洛伊德《否定》的评论出发，区分压抑与一种更原初的排除。拉康假定，在言语化过程背后有一项原初的 *Bejahung*（肯定），即某物被接纳进象征秩序；这项接纳本身可能缺失。他在这里用 *Verwerfung* 指称发生在这一层次的拒斥，而不是发生在已经形成的象征链内部的否定或压抑。
@@ -19,12 +20,16 @@ verified_at: 2026-08-06
 
 这项结构命题也不能直接充当个体诊断捷径。不能只凭一次幻觉、一个被否认的事实或某种现实态度，便断言发生了拒斥；必须考察某个能指怎样缺席、现象怎样在主体的言说与现实关系中取得位置。
 
+《研讨班 XIV》第九课把爱之公式构成的操作称为 *Verwerfung*：爱不把“你不在／你不是，所以我不在／我不是”所暴露的欠缺思出来，而以“你只是我之所是”将它排除。这里是把既有术语局部借入爱的逻辑，不是把恋爱本身诊断为精神病，也不是以这一段重写《研讨班 III》关于原初能指缺失和“在实在中返回”的一般界定。
+
 ## 来源
 
 - [[texts/s3-les-psychoses/original/Leçon-01.md#s3-01-0126|《研讨班 III》第一课 s3-01-0126—s3-01-0128]]（法文；原初 *Bejahung*、*Verwerfung* 与进入象征秩序的缺失）
 - [[texts/s3-les-psychoses/original/Leçon-04.md#s3-04-0016|《研讨班 III》第四课 s3-04-0016—s3-04-0018]]（法文；遭象征界拒斥者在实在中的重新出现，以及它同压抑之返回的差异）
 - [[texts/s3-les-psychoses/original/Leçon-12.md#s3-12-0083|《研讨班 III》第十二课 s3-12-0083—s3-12-0086]]（法文；*Verwerfung*、原初能指的缺失及其不同返回道路）
 - [[texts/s3-les-psychoses/original/Leçon-25.md#s3-25-0138|《研讨班 III》第二十五课 s3-25-0138—s3-25-0140]]（法文；以 *forclusion* 取代 *rejet* 的术语提议及精神病过程的起点）
+
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0072|《研讨班 XIV》第九课 s14-09-0072]]（法文；爱之公式所构成的 *Verwerfung* 及“爱不思”的局部用法）
 
 ## 关联
 
@@ -40,3 +45,4 @@ verified_at: 2026-08-06
 [[texts/s3-les-psychoses/translation/Leçon-12.md#s3-12-0085|s3-12-0085]]
 [[texts/s3-les-psychoses/translation/Leçon-25.md#s3-25-0138|s3-25-0138]]
 
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0072|s14-09-0072]]

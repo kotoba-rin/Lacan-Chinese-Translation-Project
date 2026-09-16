@@ -5,10 +5,11 @@ verification: 部分准确
 tags:
   - 研讨班IX
   - 研讨班XIII
+  - 研讨班XIV
   - 领域/精神分析/三界幻想与拓扑
   - 领域/数学逻辑与形式科学/几何与拓扑
   - 概念/对象a
-verified_at: 2026-08-06
+verified_at: 2026-09-16
 ---
 
 实射影平面 \(\mathbb{RP}^2\) 是闭合、不可定向、欧拉示性数为 1 的二维流形。它可以由一个圆盘把边界上的对跖点两两识别得到，也可以看成莫比乌斯带沿边界粘上一张圆盘。它不能无自交地嵌入三维欧氏空间；“交叉帽”是把它放进三维空间时常用的一种自交模型。
@@ -21,6 +22,8 @@ verified_at: 2026-08-06
 
 《研讨班 XIII》重新使用这项构造：从射影平面切出莫比乌斯带时留下的圆盘状残余，被拉康取作对象 (a) 的支架；把它重新接回以后，所得结构不能再维持普通的正面／反面之分。第十三课又借莫比乌斯带与其“摹本”的拓扑差异说明对象 (a) 的不可镜像化。圆盘残余、粘合与不可定向性是图式的数学层；把残余定位为对象 (a)，仍是拉康的精神分析映射。
 
+《研讨班 XIV》第九课把同一构造的结果称为“掉落对象”（*objet de chute*）。特殊曲面经切割后“让某样东西掉落”，不是说一件预先存在的物体偶然向下坠落，而是切割同时使主体一侧与对象余留一侧显现。拉康随即把圆片形象限定为“粗糙而不充分的表象”，并把对象 (a) 推向切割效果中的“消逝点”；所以拓扑图提供结构支架，却不能把对象 (a) 固定成一块有确定形状的小圆片。
+
 ## 来源
 
 - [Projective plane](https://encyclopediaofmath.org/wiki/Projective_plane)（英文；实射影平面的闭合、不可定向及欧拉示性数）
@@ -32,6 +35,8 @@ verified_at: 2026-08-06
 - [[texts/s9-l-identification/original/Leçon-22.md#s9-22-0086|《研讨班 IX》第二十二课 s9-22-0086]]（法文；对象 (a) 没有图像及镜像的误认功能）
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-06.md#s13-06-0141|《研讨班 XIII》第六课 s13-06-0141—s13-06-0142]]（法文；射影平面切割的圆盘残余、对象 (a) 与正反面）
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-13.md#s13-13-0051|《研讨班 XIII》第十三课 s13-13-0051]]（法文；莫比乌斯带摹本的拓扑差异与对象 (a) 的不可镜像化）
+
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0150|《研讨班 XIV》第九课 s14-09-0150—s14-09-0154]]（法文；“让某样东西掉落”、*objet de chute*、曲面切割与对象 (a) 的消逝点）
 
 ## 关联
 
@@ -56,3 +61,7 @@ verified_at: 2026-08-06
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-06.md#s13-06-0141|s13-06-0141]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-06.md#s13-06-0142|s13-06-0142]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-13.md#s13-13-0051|s13-13-0051]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0150|s14-09-0150]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0152|s14-09-0152]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0153|s14-09-0153]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0154|s14-09-0154]]

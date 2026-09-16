@@ -4,10 +4,11 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XIII
+  - 研讨班XIV
   - 领域/精神分析/欲望驱力与客体
   - 概念/对象a
   - 概念/主体分裂
-verified_at: 2026-08-07
+verified_at: 2026-09-16
 ---
 
 《研讨班 XIII》的题名“精神分析的对象”不是泛指精神分析所研究的一切人、症状或材料。拉康在第一课便把它明确为对象 (a) 在精神分析中发挥的功能；第二十课又重申，题名精确指向他以对象 (a) 写入结构的东西。
@@ -18,6 +19,8 @@ verified_at: 2026-08-07
 
 本期的拓扑、透视与帕斯卡讨论分别给这项功能提供不同写法：射影平面切割留下的圆盘残余支撑不可镜像化的对象 (a)；窥视场把它定位为凝视；帕斯卡赌注则被拉康重读为主体已经押上的欲望之因。这些数学、艺术史与哲学材料提供的是拉康的理论支架，而不是各自在自身学科中独立证明对象 (a) 的存在。
 
+《研讨班 XIV》第九课又从自我意识与分析家位置界定这项功能。对象 (a) 补充 *Selbstbewusstsein*［自我意识］的欠缺，却不把主体修补成透明整体；而把 *analyste* 拆作 *a-nalyste*，则用拼写演示分析家在分析道路上应占据对象 (a) 的位置。这不是法语词源，也不是说分析家本人就是一件经验对象，而是对分析操作中位置和欲望之因的结构性定位。
+
 ## 来源
 
 - [Jacques Lacan：*La Science et la vérité*](https://www.lutecium.org/Jacques_Lacan/transcriptions/science_et_verite_v1.pdf)（法文；与本期第一课同源的发表文本）
@@ -25,6 +28,8 @@ verified_at: 2026-08-07
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-06.md#s13-06-0100|《研讨班 XIII》第六课 s13-06-0100—s13-06-0101]]（法文；从知识把握中坠落及现代逻辑的缝合）
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-18.md#s13-18-0137|《研讨班 XIII》第十八课 s13-18-0137]]（法文；对象 (a) 作为主体分裂的支架）
 - [[texts/s13-l-objet-de-la-psychanalyse/original/Leçon-20.md#s13-20-0004|《研讨班 XIII》第二十课 s13-20-0004]]（法文；研讨班题名的精确所指）
+
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0081|《研讨班 XIV》第九课 s14-09-0081、s14-09-0119]]（法文；*a-nalyste* 的拼写操作、对象 (a) 与自我意识之欠缺）
 
 ## 关联
 
@@ -37,6 +42,7 @@ verified_at: 2026-08-07
 [[知识库/康拉德·斯坦的分析情境：退行、自恋与拉康的批评.md|康拉德·斯坦的分析情境：退行、自恋与拉康的批评]]
 [[知识库/L’achose：在自身位置上缺席的“物”.md|L’achose：在自身位置上缺席的“物”]]
 [[知识库/杜拉斯《Lol V. Stein的迷狂》：洞词、专名与客体—凝视.md|杜拉斯《Lol V. Stein 的迷狂》：洞词、专名与客体—凝视]]
+[[知识库/Tat tvam asi：歌者奥义书的“大句”与拉康的重读.md|Tat tvam asi：《歌者奥义书》的“大句”与拉康的重读]]
 
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-01.md#s13-01-0078|s13-01-0078]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-01.md#s13-01-0079|s13-01-0079]]
@@ -45,3 +51,5 @@ verified_at: 2026-08-07
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-06.md#s13-06-0101|s13-06-0101]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-18.md#s13-18-0137|s13-18-0137]]
 [[texts/s13-l-objet-de-la-psychanalyse/translation/Leçon-20.md#s13-20-0004|s13-20-0004]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0081|s14-09-0081]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0119|s14-09-0119]]

@@ -7,6 +7,7 @@ tags:
   - 研讨班VIII
   - 研讨班X
   - 研讨班XIX
+  - 研讨班XIV
   - 领域/精神分析/欲望驱力与客体
 verified_at: 2026-09-16
 ---
@@ -35,6 +36,8 @@ verified_at: 2026-09-16
 
 第十六课 s8-16-0069—0072 把 $(a)$ 放在另一条变换链的终端：作为言说场所、完全意义上主体及诚信／失信关系一方的大他者，“跌落”成类似最惰性欲望对象的东西。这里说的是大他者在欲望关系中的位置变换，不是把任何真实他人都定义成一件“贬降的物品”，也不是一般性地定义对象 a 的所有形式。
 
+《研讨班 XIV》第九课从“掉落对象”再次限制“部分对象”的形象。即使一块被切下的曲面碎片容易同分析话语中的部分对象相联，也不能满足于碎片的形状；关键在整张曲面的结构以及切割产生的效果。对象 (a) 因而被描述为这些效果中的“消逝点”，而不是一项可由解剖外形或固定清单直接认出的东西。这一段把“可脱落性”推进到拓扑切割层面，同时保留了部分对象与对象 (a) 不能简单等同的边界。
+
 ## 来源
 
 - [An Introductory Dictionary of Lacanian Psychoanalysis](https://www.davidbardschwarz.com/pdf/evans.pdf)（英文；概念词典）
@@ -51,6 +54,8 @@ verified_at: 2026-09-16
 
 - [[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0044|本地法语原文 s8-15-0044]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0045|本地法语原文 s8-15-0045]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0046|本地法语原文 s8-15-0046]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0047|本地法语原文 s8-15-0047]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0051|本地法语原文 s8-15-0051]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0054|本地法语原文 s8-15-0054]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0055|本地法语原文 s8-15-0055]]（法文；对象赞赏与欲望拒斥，以及阳具对象并非早期对象的线性特化）
 - [[texts/s8-le-transfert/original/Leçon-16.md#s8-16-0069|本地法语原文 s8-16-0069]]、[[texts/s8-le-transfert/original/Leçon-16.md#s8-16-0072|s8-16-0072]]（法文；大他者在欲望关系中向惰性对象 $(a)$ 层级的跌落）
+
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0152|《研讨班 XIV》第九课 s14-09-0152—s14-09-0154]]（法文；*objet de chute*、碎片／部分对象的不足及切割效果中的对象 (a)）
 
 ## 关联
 
@@ -100,3 +105,6 @@ verified_at: 2026-09-16
 [[texts/s19-ou-pire/translation/Leçon-05.md#s19-05-0215|s19-05-0215]]
 [[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0247|s19-12-0247]]
 [[texts/s19-ou-pire/translation/Leçon-12.md#s19-12-0248|s19-12-0248]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0152|s14-09-0152]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0153|s14-09-0153]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0154|s14-09-0154]]
