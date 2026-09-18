@@ -50,7 +50,7 @@
 | sujet supposé savoir | 被假定知道的主体 | 转移的结构性支点；不改写成“真正掌握知识的主体”。 |
 | Autre / grand Autre | 大他者 | 大写 A 时统一译“大他者”；与普通 *autre* 区分。 |
 | objet | 对象 | 延续项目既有术语，避免改作“客体”。 |
-| objet(a) / objet a / objet petit(a) | 对象(a) | 进入公式时写作 $a$；不译“小客体 a”，首次出现可保留法文写法说明。 |
+| objet(a) / objet a / objet petit(a) | 对象a／对象小a | 一般写“对象a”；强调 *petit* 时写“对象小a”。进入公式时写作 $a$，首次出现可保留法文写法说明。 |
 | relation d'objet / La relation d'objet | 客体关系 / 《客体关系》 | 作为既有理论名称与第四研讨班书名沿用“客体关系”；不影响 *objet* 与对象(a)在正文中的统一译法。 |
 | objet perdu | 丧失的对象 |  |
 | objet cause du désir | 欲望之因的对象 | 若正文顺畅，也可写“作为欲望之因的对象(a)”。 |

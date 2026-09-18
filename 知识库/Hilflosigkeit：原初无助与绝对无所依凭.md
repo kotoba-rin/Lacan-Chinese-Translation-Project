@@ -32,7 +32,7 @@ verified_at: 2026-08-06
 ## 关联
 
 [[知识库/弗洛伊德《纲要》中的满足经验与身旁之人.md|弗洛伊德《纲要》中的满足经验与身旁之人]]
-[[知识库/焦虑并非没有对象：缺失之缺失与客体a.md|焦虑并非没有对象：缺失之缺失与客体 a]]
+[[知识库/焦虑并非没有对象：缺失之缺失与客体a.md|焦虑并非没有对象：缺失之缺失与对象a]]
 
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-03.md#s7-03-0089|s7-03-0089]]
 [[texts/s7-l-ethique-de-la-psychanalyse/translation/Leçon-26.md#s7-26-0014|s7-26-0014]]

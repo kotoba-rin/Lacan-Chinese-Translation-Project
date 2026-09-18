@@ -60,17 +60,17 @@
 | identité de perception / identité de pensée | 知觉同一性／思想同一性 | 第七课区分初级过程所追求的知觉同一性与次级过程中的思想同一性。 |
 | Urverdrängung / l’Urverdrängte | 原初压抑／原被压抑之物 | 前者指原初压抑这一过程或结构，后者指其结果；不并入一般压抑。 |
 | lexis / phasis | 词项／言说 | 逻辑命题中是否有对象可取的词项层面，与作出全称断定的言说层面；第二十六课原注指出拉康口误颠倒二者。 |
-| objet (a) / petit(a) | 客体(a)／小客体(a) | 公式中保留括号；普通论述可依原文写“客体a”，但不把 *a* 解释成一般对象编号。 |
+| objet (a) / petit(a) | 对象a／对象小a | 正文写“对象a”或“对象小a”；公式中保留原有括号，不把 *a* 解释成一般对象编号。 |
 | fantasme / fantasme fondamental | 幻想／根本幻想 | 指以 S◇a 形式化的主体与欲望客体关系；不泛译成随意想象。 |
 | demande / désir | 要求／欲望 | *Demande* 是经能指重复并指向大他者的要求；与不能由满足填平的 *désir* 区分。 |
 | pulsion / Trieb | 驱力 | 不译作本能；第二十二课把它界定为要求效应下实在向主体的第一次变更。 |
-| objet du désir / objet de la castration | 欲望客体／阉割的客体 | 后者是第二十六课对小客体(a)的逻辑规定；不得同剥夺或挫折的客体混同。 |
+| objet du désir / objet de la castration | 欲望客体／阉割的客体 | 后者是第二十六课对对象小a的逻辑规定；不得同剥夺或挫折的客体混同。 |
 | objet partiel | 部分客体 | 其“部分”不等于物理残片；第二十六课以丧失所标示的压抑点规定其功能。 |
 | phallus / pénis | 阳具／阴茎 | *Phallus* 指能指与结构功能，*pénis* 指身体器官；不得互换。 |
 | Einheit / Einzigkeit | 统一性／独一性 | 第十一课的德语区分：前者指统一为一，后者指不可替代的唯一。 |
 | Einverleibung / incorporation | 并入／并入 | 指主体同身体及父亲一侧的结构关系；依具体吞食语境可译“吞食式并入”。 |
 | intuition pure / Sinnlichkeit / Beharrlichkeit | 纯粹直观／感性／持存 | 康德语境中的术语组；*Beharrlichkeit* 不泛译为一般恒常。 |
-| privation / frustration / castration | 剥夺／挫折／阉割 | 三项必须分开；后两课分别从类逻辑、满足匮乏与客体(a)的结构规定展开。 |
+| privation / frustration / castration | 剥夺／挫折／阉割 | 三项必须分开；后两课分别从类逻辑、满足匮乏与对象a的结构规定展开。 |
 | ens privativum / ens rationis | 缺失之有／理性之有 | 保留“有”的本体论层次；不平写成“缺少的东西／想出来的东西”。 |
 | Verwerfung / verworfen | 拒斥／遭拒斥之物 | 指精神病结构中的排除机制及其结果；与一般否认、压抑区分。 |
 | jouissance | 享乐 | 拉康概念用法；不按普通快乐或享受改写。 |
@@ -85,7 +85,7 @@
 | huit inversé / huit intérieur | 倒置八字形／内八字形 | 前者主要描述线形，后者作为切口能指及双环结构的名称；依原文保持区分。 |
 | différence symétrique / auto-différence | 对称差／自身差异 | 集合与拓扑论证中的技术词；不泛化为一般对称或自我差别。 |
 | surface orientable / non-orientable | 可定向表面／不可定向表面 | 指能否在整个表面一致规定方向；不等同于能否在三维空间中看清朝向。 |
-| spécularisable / non spécularisable | 可由镜像区分／不能成为镜像对象 | 前者在本课语境中指镜像不能与原表面重合；后者指镜像功能对客体(a)失去把握。 |
+| spécularisable / non spécularisable | 可由镜像区分／不能成为镜像对象 | 前者在本课语境中指镜像不能与原表面重合；后者指镜像功能对对象a失去把握。 |
 | point privilégié / point-trou | 特殊点／点孔 | 射影平面伪穿透线的终点；“点孔”无维度却不可填平，是表面组织的不可还原起点。 |
 | trou courant d’air / place du trou | 穿堂风孔洞／孔洞的位置 | 第二十一课以孔洞的位置而非实体内容规定表面结构。 |
 | aphanisis / fading | 消隐／消隐 | 指主体在能指或欲望结构中的淡出；保留原文外文时首次附中文。 |

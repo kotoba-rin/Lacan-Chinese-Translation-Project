@@ -48,8 +48,8 @@ verified_at: 2026-09-16
 - [[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0045|《研讨班 VIII》第十课 s8-10-0045—s8-10-0049]]、[[texts/s8-le-transfert/original/Leçon-10.md#s8-10-0067|s8-10-0067—s8-10-0068]]（法文；*agalma*、*ex-voto* 乳房、部分对象与欲望对象的连续论述）
 - [[texts/s10-l-angoisse/original/Leçon-13.md#s10-13-0118|《研讨班 X》第十三课 s10-13-0118]]、[[texts/s10-l-angoisse/original/Leçon-13.md#s10-13-0141|s10-13-0141—s10-13-0142]]（法文；乳房命名的不足、可脱落性与幻想所构成的部分对象）
 - [[texts/s10-l-angoisse/original/Leçon-19.md#s10-19-0001|《研讨班 X》第十九课 s10-19-0001—s10-19-0006]]（法文；五个客体层级及其内在连带和余数功能）
-- [[texts/s10-l-angoisse/original/Leçon-22.md#s10-22-0006|《研讨班 X》第二十二课 s10-22-0006]]（法文；客体 (a) 是欲望之因而非欲望指向的经验对象）
-- [[texts/s10-l-angoisse/original/Leçon-23.md#s10-23-0001|《研讨班 X》第二十三课 s10-23-0001—s10-23-0003]]（法文；各层展现同一项客体 (a) 功能）
+- [[texts/s10-l-angoisse/original/Leçon-22.md#s10-22-0006|《研讨班 X》第二十二课 s10-22-0006]]（法文；对象a 是欲望之因而非欲望指向的经验对象）
+- [[texts/s10-l-angoisse/original/Leçon-23.md#s10-23-0001|《研讨班 X》第二十三课 s10-23-0001—s10-23-0003]]（法文；各层展现同一项对象a 功能）
 - [[texts/s10-l-angoisse/original/Leçon-24.md#s10-24-0145|《研讨班 X》第二十四课 s10-24-0145—s10-24-0148]]（法文；口腔、肛门、阳具、窥视与“呼喊”〔*vociféré*〕的层级次序）
 
 - [[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0044|本地法语原文 s8-15-0044]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0045|本地法语原文 s8-15-0045]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0046|本地法语原文 s8-15-0046]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0047|本地法语原文 s8-15-0047]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0051|本地法语原文 s8-15-0051]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0054|本地法语原文 s8-15-0054]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0055|本地法语原文 s8-15-0055]]（法文；对象赞赏与欲望拒斥，以及阳具对象并非早期对象的线性特化）
@@ -63,9 +63,9 @@ verified_at: 2026-09-16
 [[知识库/Ex-voto：器官供物、Agalma与部分对象.md|Ex-voto：器官供物、Agalma 与部分对象]]
 [[知识库/Lettre d’a-mur：情书、对象a与墙.md|Lettre d’a-mur：情书、对象 a 与墙]]
 [[知识库/Wiwimacher：小汉斯的尿尿器与儿童性理论.md|Wiwimacher：小汉斯的“尿尿器”与儿童性理论]]
-[[知识库/交叉帽、内八字切口与不可镜像化的客体a.md|交叉帽、内八字切口与不可镜像化的客体 a]]
+[[知识库/交叉帽、内八字切口与不可镜像化的客体a.md|交叉帽、内八字切口与不可镜像化的对象a]]
 [[知识库/大写Φ与小写ϕ的功能差异.md|大写 Φ 与小写 ϕ 的功能差异]]
-[[知识库/客体a的五个层级：口腔、肛门、阳具、凝视与声音.md|客体 a 的五个层级：口腔、肛门、阳具、凝视与声音]]
+[[知识库/客体a的五个层级：口腔、肛门、阳具、凝视与声音.md|对象a 的五个层级：口腔、肛门、阳具、凝视与声音]]
 [[知识库/拉康的四种话语与四分之一转位.md|拉康的四种话语与四分之一转位]]
 [[知识库/梅兰妮·克莱因.md|梅兰妮·克莱因]]
 [[知识库/欲望的结构定义与悲剧经验.md|欲望的结构定义与悲剧经验]]

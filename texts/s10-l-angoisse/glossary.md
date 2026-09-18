@@ -31,7 +31,7 @@
 | manque | 缺失 | 第三课“缺失开始缺失”保留同词重复，不改写为一般缺少。 |
 | castration | 阉割 | 不缩减为生理解剖事件；第三课首先表现为想象性阉割。 |
 | phallus | 阳具 | 同（-φ）及镜像中的空白相连。 |
-| objet a / petit (a) | 客体 (a)／小客体 (a) | 一般写“客体 (a)”；原文强调 *petit* 时写“小客体 (a)”。它是除法意义上的余数，并非镜像对象。 |
+| objet a / petit (a) | 对象a／对象小a | 一般写“对象a”；原文强调 *petit* 时写“对象小a”。它是除法意义上的余数，并非镜像对象。 |
 | reste / résidu | 余数／剩余 | 数学除法语境用“余数”；结构性残留依句法用“剩余”。 |
 | image spéculaire | 镜像 | 与 *image réelle*“实像”、*image virtuelle*“虚像”区分。 |
 | moi idéal | 理想自我 | 与 *idéal du moi*“自我理想”区分。 |

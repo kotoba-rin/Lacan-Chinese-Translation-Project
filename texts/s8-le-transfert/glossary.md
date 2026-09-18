@@ -473,7 +473,7 @@
 | vieilles tantes | 老嫂子们 | 第九课中拉康对《会饮篇》聚会的戏谑说法。 |
 | concurrence | 竞争 | 第九课中指对象在主体间交流中的竞争维度。 |
 | transitivismes | 互易感觉 | 第九课中说明对象在主体间交流中构成自身。 |
-| objet(a) / objet (a) | 对象(a) | 幻想对象；避免改作“客体(a)”。 |
+| objet(a) / objet (a) | 对象a | 幻想对象；强调 *petit* 时可写“对象小a”，公式保留原记法。 |
 | objet(a) excrémentiel | 排泄物性的对象(a) | 第十四课在肛门阶段把主体同排泄物对象的认同联系起来。 |
 | objet de convoitise unique | 独特贪欲的对象 | 第九课中说明爱之行动核心处排除竞争的对象。 |
 | convoitise | 贪欲 | 第十一课阿尔西比亚德对“最好之物”的贪欲语境。 |

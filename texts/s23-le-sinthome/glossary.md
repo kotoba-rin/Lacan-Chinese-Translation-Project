@@ -37,8 +37,8 @@
 | signifiant / signifié | 能指／所指 | 不把 *signifiant* 改写成一般“意义”。 |
 | phonation / identité phonatoire | 发声／发音同一性 | 第五至七课讨论声音效果、书写与能指时使用。 |
 | jouissance / plaisir | 享乐／快乐或快感 | 保留拉康概念中的享乐与快乐原则层面的 *plaisir* 之别。 |
-| objet petit a / objet (a) | 小客体 a | 公式中写作 $a$；普通 *objet* 依语境译“客体／对象”。 |
-| semblant / faire semblant de l’objet petit a | 假象／充当小客体 a 的假象 | 分析家以小客体 a 的形态占据分析话语的假象位置；不按戏剧角色扮演译成“假扮小客体 a”。 |
+| objet petit a / objet (a) | 对象小a | 公式中写作 $a$；普通 *objet* 依语境译“客体／对象”。 |
+| semblant / faire semblant de l’objet petit a | 假象／充当对象小a 的假象 | 分析家以对象小a 的形态占据分析话语的假象位置；不按戏剧角色扮演译成“假扮对象小a”。 |
 | S₁ / S₂ / S(Ⱥ) / Φ | **S₁**／**S₂**／**S(Ⱥ)**／**Φ** | 分别为主人能指、知识、被划杠大他者的能指与阳具功能；不彼此替代。 |
 | savoir / savoir-faire | 知识／能会（*savoir-faire*） | *savoir-faire* 指乔伊斯对能指和书写“知道怎样做”的技艺；首次保留法文。 |
 | artifice / artificier / artiste | 人为构造／造作师／艺术家 | 第四、八课把“能会”同三者连缀；*artificier* 的通常义还有烟火师、机关制作者，正文保留法文以免抹去词形滑动。 |
@@ -56,7 +56,7 @@
 | épiphanie | 显现 | 乔伊斯术语；第十一课把它重读为借过错使无意识与实在打结。 |
 | dit-mension / mensionge | 说—维／*mensionge* | 前者把 *dit*“所说”嵌入 *dimension*；后者把 *mension*、*mensonge*“谎言”与 *je* 叠合。 |
 | appensée | 倚思 | 由 *appui*“支撑”与 *pensée*“思想”构成，指倚着能指而思考；首次保留法文。 |
-| osbjet | 骨—客体 | 把 *os*“骨”与 *objet*“客体”压合，并由小客体 a 标记。 |
+| osbjet | 骨—客体 | 把 *os*“骨”与 *objet*“客体”压合，并由对象小a 标记。 |
 | art-dire / ardeur | 说的艺术／热情 | 第八课由 *art-dire* 滑向 *ardeur*；正文保留法文以呈现音形关系。 |
 | évidement / évidence | 掏空／显明 | 第八、十一课反复利用两词近音，说明结被掏空因而并不显明。 |
 
