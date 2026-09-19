@@ -36,7 +36,7 @@ verified_at: 2026-08-06
 [[知识库/Unheimlich：本应空缺的位置显现某物.md|Unheimlich：本应空缺的位置显现某物]]
 [[知识库/Hilflosigkeit：原初无助与绝对无所依凭.md|Hilflosigkeit：原初无助与绝对无所依凭]]
 [[知识库/Vorstellungsrepräsentanz：表象代表.md|Vorstellungsrepräsentanz：表象代表]]
-[[知识库/客体a的五个层级：口腔、肛门、阳具、凝视与声音.md|对象a 的五个层级：口腔、肛门、阳具、凝视与声音]]
+[[知识库/对象a的五个层级：口腔、肛门、阳具、凝视与声音.md|对象a 的五个层级：口腔、肛门、阳具、凝视与声音]]
 [[知识库/Pas sans：并非没有与“第三种否定”.md|Pas sans：并非没有与“第三种否定”]]
 
 [[texts/s10-l-angoisse/translation/Leçon-01.md#s10-01-0132|s10-01-0132]]
