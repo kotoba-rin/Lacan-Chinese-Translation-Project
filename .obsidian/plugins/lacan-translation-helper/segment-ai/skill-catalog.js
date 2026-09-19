@@ -9,11 +9,6 @@ const STANDARD_SKILL_PROFILE = Object.freeze({
   supportingSkills: [],
 });
 
-const ALLOWED_CUSTOM_SKILL_ROOTS = new Set([
-  ".agents/skills",
-  ".codex/skills",
-]);
-
 class SegmentAiSkillError extends Error {
   constructor(code, message, details = {}) {
     super(message);
@@ -306,78 +301,8 @@ const skillSnapshotsEqual = (left, right) => {
   return JSON.stringify(normalize(left)) === JSON.stringify(normalize(right));
 };
 
-class CustomSkillService {
-  constructor({ vaultRoot, adapter } = {}) {
-    if (!path.isAbsolute(String(vaultRoot || "")) || !adapter) {
-      throw new TypeError("CustomSkillService requires a Vault root and adapter.");
-    }
-    this.vaultRoot = path.resolve(vaultRoot);
-    this.adapter = adapter;
-  }
-
-  async create({
-    name,
-    description,
-    instructions,
-    root = ".agents/skills",
-  } = {}) {
-    const normalizedName = String(name || "").trim();
-    const normalizedDescription = String(description || "").trim();
-    const normalizedInstructions = String(instructions || "").trim();
-    const normalizedRoot = String(root || "").replace(/\\/g, "/").replace(/\/+$/, "");
-    if (!/^[A-Za-z0-9][A-Za-z0-9_-]*$/.test(normalizedName)) {
-      throw new SegmentAiSkillError(
-        "InvalidSkillName",
-        "Skill 名称只能包含字母、数字、短横线和下划线。"
-      );
-    }
-    if (!ALLOWED_CUSTOM_SKILL_ROOTS.has(normalizedRoot)) {
-      throw new SegmentAiSkillError(
-        "InvalidSkillRoot",
-        "自定义 Skill 只能保存在当前 Vault 的 .agents/skills 或 .codex/skills。"
-      );
-    }
-    if (!normalizedDescription || !normalizedInstructions) {
-      throw new SegmentAiSkillError(
-        "InvalidSkillContent",
-        "Skill 说明和指令正文不能为空。"
-      );
-    }
-    const directory = `${normalizedRoot}/${normalizedName}`;
-    const skillPath = `${directory}/SKILL.md`;
-    if (await this.adapter.exists(directory) || await this.adapter.exists(skillPath)) {
-      throw new SegmentAiSkillError(
-        "SkillAlreadyExists",
-        `已经存在名为 “${normalizedName}” 的 Vault Skill。`
-      );
-    }
-    await this.adapter.mkdir(normalizedRoot);
-    await this.adapter.mkdir(directory);
-    const content = [
-      "---",
-      `name: ${normalizedName}`,
-      `description: ${JSON.stringify(normalizedDescription)}`,
-      "---",
-      "",
-      `# ${normalizedName}`,
-      "",
-      normalizedInstructions,
-      "",
-    ].join("\n");
-    await this.adapter.write(skillPath, content);
-    return {
-      name: normalizedName,
-      description: normalizedDescription,
-      path: skillPath,
-      scope: "repo",
-    };
-  }
-}
-
 module.exports = {
-  ALLOWED_CUSTOM_SKILL_ROOTS,
   CodexSkillCatalog,
-  CustomSkillService,
   STANDARD_SKILL_PROFILE,
   SegmentAiSkillError,
   normalizeSkillMetadata,

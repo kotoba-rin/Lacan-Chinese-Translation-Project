@@ -457,39 +457,50 @@
 }
 
 .lacan-settings-tabs {
-  align-items: flex-end;
-  border-bottom: 1px solid var(--background-modifier-border);
+  align-items: center;
   display: flex;
-  gap: 18px;
-  margin: 0 0 18px;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 20px;
+  padding: 2px;
 }
 
-.lacan-settings-tab {
-  background: transparent;
-  border: 0;
-  border-bottom: 2px solid transparent;
-  border-radius: 0;
+.lacan-settings-tabs > .lacan-settings-tab {
+  align-items: center;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border-hover);
+  border-radius: 8px;
   box-shadow: none;
+  box-sizing: border-box;
   color: var(--text-muted);
+  cursor: pointer;
+  display: inline-flex;
   font: inherit;
-  margin-bottom: -1px;
-  padding: 8px 2px 9px;
-}
-
-.lacan-settings-tab:hover {
-  background: transparent;
-  color: var(--text-normal);
-}
-
-.lacan-settings-tab.is-active {
-  border-bottom-color: var(--interactive-accent);
-  color: var(--text-normal);
   font-weight: var(--font-semibold);
+  height: auto;
+  justify-content: center;
+  line-height: 1.4;
+  margin: 0;
+  min-height: 36px;
+  padding: 8px 16px;
+  white-space: nowrap;
 }
 
-.lacan-settings-tab:focus-visible {
-  box-shadow: 0 2px 0 var(--interactive-accent);
-  outline: none;
+.lacan-settings-tabs > .lacan-settings-tab:hover {
+  background: var(--background-modifier-hover);
+  border-color: var(--text-muted);
+  color: var(--text-normal);
+}
+
+.lacan-settings-tabs > .lacan-settings-tab.is-active {
+  background: color-mix(in srgb, var(--interactive-accent) 14%, var(--background-primary));
+  border-color: var(--interactive-accent);
+  color: var(--text-normal);
+}
+
+.lacan-settings-tabs > .lacan-settings-tab:focus-visible {
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: 2px;
 }
 
 .lacan-ai-settings-description {
@@ -1047,11 +1058,39 @@
   padding: 10px 12px;
 }
 
+.setting-item:has(.lacan-ai-global-prompt) {
+  align-items: stretch;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.setting-item:has(.lacan-ai-global-prompt) > .setting-item-info {
+  flex: none;
+  margin-right: 0;
+  min-width: 0;
+  width: 100%;
+}
+
+.setting-item:has(.lacan-ai-global-prompt) > .setting-item-control {
+  align-items: stretch;
+  flex: none;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 0;
+  width: 100%;
+}
+
+.setting-item:has(.lacan-ai-global-prompt) > .setting-item-control > button {
+  align-self: flex-end;
+}
+
 .lacan-ai-global-prompt {
   box-sizing: border-box;
   font-family: var(--font-monospace);
   line-height: 1.55;
+  max-width: 100%;
   min-height: 220px;
+  min-width: 0;
   resize: vertical;
   width: 100%;
 }

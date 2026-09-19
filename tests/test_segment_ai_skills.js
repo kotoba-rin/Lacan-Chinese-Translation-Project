@@ -3,7 +3,6 @@ const path = require("path");
 
 const {
   CodexSkillCatalog,
-  CustomSkillService,
   normalizeSkillProfiles,
   skillSnapshotsEqual,
   skillProfileSignature,
@@ -227,52 +226,6 @@ const run = async () => {
     skillProfileSignature(profile),
     skillProfileSignature({ ...profile, title: "另一个显示名称" }),
     "display-only profile changes must not split a conversation identity"
-  );
-
-  const folders = new Set();
-  const files = new Map();
-  const customSkills = new CustomSkillService({
-    vaultRoot: "/vault",
-    adapter: {
-      async exists(relativePath) {
-        return folders.has(relativePath) || files.has(relativePath);
-      },
-      async mkdir(relativePath) {
-        folders.add(relativePath);
-      },
-      async write(relativePath, content) {
-        files.set(relativePath, content);
-      },
-    },
-  });
-  const created = await customSkills.create({
-    name: "lacan-close-reading",
-    description: "围绕分段证据进行拉康研讨班细读。",
-    instructions: "先定位原文，再解释概念，最后说明前后文关系。",
-    root: ".agents/skills",
-  });
-  assert.strictEqual(
-    created.path,
-    ".agents/skills/lacan-close-reading/SKILL.md"
-  );
-  assert.match(files.get(created.path), /^---\nname: lacan-close-reading\n/m);
-  assert.match(files.get(created.path), /围绕分段证据/);
-  assert.match(files.get(created.path), /先定位原文/);
-  await assert.rejects(
-    customSkills.create({
-      name: "../escape",
-      description: "bad",
-      instructions: "bad",
-    }),
-    (error) => error.code === "InvalidSkillName"
-  );
-  await assert.rejects(
-    customSkills.create({
-      name: "lacan-close-reading",
-      description: "duplicate",
-      instructions: "duplicate",
-    }),
-    (error) => error.code === "SkillAlreadyExists"
   );
 };
 

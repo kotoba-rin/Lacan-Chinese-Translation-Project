@@ -33,7 +33,6 @@ const {
 } = require("../segment-ai/workspace-store");
 const {
   CodexSkillCatalog,
-  CustomSkillService,
   normalizeSkillMetadata,
   normalizeSkillProfiles,
 } = require("../segment-ai/skill-catalog");
@@ -118,7 +117,6 @@ const DEFAULT_SETTINGS = {
   segmentAiSkillCatalogUpdatedAt: 0,
   segmentAiSkillProfiles: [],
   segmentAiDefaultSkillProfileId: "standard",
-  segmentAiCustomSkillRoot: ".agents/skills",
   forks: [],
 };
 
@@ -231,12 +229,6 @@ module.exports = class LacanTranslationHelper extends Plugin {
     ) {
       this.settings.segmentAiDefaultSkillProfileId = "standard";
     }
-    this.settings.segmentAiCustomSkillRoot = [
-      ".agents/skills",
-      ".codex/skills",
-    ].includes(this.settings.segmentAiCustomSkillRoot)
-      ? this.settings.segmentAiCustomSkillRoot
-      : ".agents/skills";
     this.settings.segmentAiSkillCatalog = (
       Array.isArray(this.settings.segmentAiSkillCatalog)
         ? this.settings.segmentAiSkillCatalog
@@ -322,7 +314,6 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.segmentAiController = null;
     this.segmentAiWorkspaceStore = null;
     this.segmentAiSkillCatalog = null;
-    this.segmentAiCustomSkillService = null;
     this.segmentAiSkillChangeUnsubscribe = null;
     this.segmentAiModelDiscoveryPromise = null;
     this.segmentAiSkillDiscoveryPromise = null;
@@ -602,10 +593,6 @@ module.exports = class LacanTranslationHelper extends Plugin {
         this.segmentAiRuntime.onSkillsChanged?.(() => {
           this.segmentAiSkillCatalog?.invalidate?.();
         }) || null;
-      this.segmentAiCustomSkillService = new CustomSkillService({
-        vaultRoot: this.getVaultBasePath(),
-        adapter: this.createCustomSkillAdapter(),
-      });
       this.segmentAiController = new InterpretationWorkspaceController({
         resolver: createObsidianContextResolver(this.app),
         promptBuilder: new InterpretationPromptBuilder({
@@ -650,7 +637,6 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.segmentAiController = null;
     this.segmentAiWorkspaceStore = null;
     this.segmentAiSkillCatalog = null;
-    this.segmentAiCustomSkillService = null;
     this.segmentAiMcpBackgroundPromise = null;
     this.initializeSegmentAi();
     if (scheduleMcpCheck) {
@@ -794,80 +780,6 @@ module.exports = class LacanTranslationHelper extends Plugin {
     } finally {
       this.segmentAiSkillDiscoveryPromise = null;
     }
-  }
-
-  createCustomSkillAdapter() {
-    return {
-      exists: async (relativePath) => Boolean(
-        this.app.vault.getAbstractFileByPath(normalizePath(relativePath))
-      ),
-      mkdir: async (relativePath) => {
-        const normalized = normalizePath(relativePath);
-        const parts = normalized.split("/").filter(Boolean);
-        let current = "";
-        for (const part of parts) {
-          current = current ? `${current}/${part}` : part;
-          if (!this.app.vault.getAbstractFileByPath(current)) {
-            await this.app.vault.createFolder(current);
-          }
-        }
-      },
-      write: async (relativePath, content) => {
-        const normalized = normalizePath(relativePath);
-        if (this.app.vault.getAbstractFileByPath(normalized)) {
-          throw Object.assign(
-            new Error("目标 SKILL.md 已经存在。"),
-            { code: "SkillAlreadyExists" }
-          );
-        }
-        await this.app.vault.create(normalized, content);
-      },
-    };
-  }
-
-  async createSegmentAiCustomSkill(options) {
-    if (!this.segmentAiCustomSkillService) {
-      this.initializeSegmentAi();
-    }
-    const created = await this.segmentAiCustomSkillService.create(options);
-    const skills = await this.discoverSegmentAiSkills({ forceReload: true });
-    const expectedAbsolutePath = normalizePath(
-      `${this.getVaultBasePath().replace(/\/+$/, "")}/${created.path}`
-    );
-    const verified = skills.find((skill) => (
-      skill.name === created.name
-      && skill.scope === "repo"
-      && (
-        normalizePath(skill.path) === expectedAbsolutePath
-        || normalizePath(skill.path) === normalizePath(created.path)
-      )
-    ));
-    if (!verified) {
-      throw Object.assign(
-        new Error("文件已经写入，但 Codex 尚未发现这个 Skill。请检查内容后刷新。"),
-        { code: "SkillUnavailable" }
-      );
-    }
-    const profileId = `skill-${created.name}`;
-    if (!this.settings.segmentAiSkillProfiles.some(
-      (profile) => profile.id === profileId
-    )) {
-      this.settings.segmentAiSkillProfiles.push({
-        id: profileId,
-        title: created.name,
-        primarySkill: {
-          name: verified.name,
-          scope: verified.scope,
-          pathHint: verified.path,
-        },
-        supportingSkills: [],
-      });
-      this.settings.segmentAiSkillProfiles = normalizeSkillProfiles(
-        this.settings.segmentAiSkillProfiles
-      );
-      await this.saveSettings();
-    }
-    return { ...created, profileId };
   }
 
   updateSegmentAiState(state) {
@@ -4958,84 +4870,6 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
             this.plugin.refreshSegmentAiEntrances();
             new Notice(`已保存 Skill 方案“${profileDraft.title}”。`);
             this.display();
-          });
-      });
-
-    const customSkillDraft = {
-      name: "",
-      description: "",
-      instructions: "",
-      root: this.plugin.settings.segmentAiCustomSkillRoot || ".agents/skills",
-    };
-    const customSkillEl = containerEl.createDiv("lacan-ai-skill-editor");
-    customSkillEl.createEl("h5", { text: "新建 Vault 自定义 Skill" });
-    customSkillEl.createEl("p", {
-      cls: "setting-item-description",
-      text: "这是你在设置页明确发起的文件管理操作；Agent 解读回合本身仍保持只读。第一版只创建一个标准 SKILL.md。",
-    });
-    new Setting(customSkillEl)
-      .setName("Skill 名称")
-      .setDesc("只能使用字母、数字、短横线和下划线。")
-      .addText((text) => {
-        text
-          .setPlaceholder("lacan-close-reading")
-          .onChange((value) => {
-            customSkillDraft.name = value.trim();
-          });
-      });
-    new Setting(customSkillEl)
-      .setName("说明")
-      .addText((text) => {
-        text
-          .setPlaceholder("说明这个 Skill 在何时、如何使用")
-          .onChange((value) => {
-            customSkillDraft.description = value.trim();
-          });
-      });
-    new Setting(customSkillEl)
-      .setName("指令正文")
-      .addTextArea((text) => {
-        text
-          .setPlaceholder("写明分析步骤、证据要求和输出方式。")
-          .onChange((value) => {
-            customSkillDraft.instructions = value.trim();
-          });
-      });
-    new Setting(customSkillEl)
-      .setName("保存位置")
-      .addDropdown((dropdown) => {
-        dropdown
-          .addOption(".agents/skills", ".agents/skills（推荐，随项目）")
-          .addOption(".codex/skills", ".codex/skills（随项目）")
-          .setValue(customSkillDraft.root)
-          .onChange(async (value) => {
-            customSkillDraft.root = value;
-            this.plugin.settings.segmentAiCustomSkillRoot = value;
-            await this.plugin.saveSettings();
-          });
-      });
-    new Setting(customSkillEl)
-      .setName("创建并加入 Skill 方案")
-      .addButton((button) => {
-        button
-          .setButtonText("创建 Skill")
-          .setCta()
-          .onClick(async () => {
-            button.setDisabled(true);
-            try {
-              const created = await this.plugin.createSegmentAiCustomSkill(
-                customSkillDraft
-              );
-              new Notice(
-                `已创建 ${created.path}，并加入 Skill 方案列表。`
-              );
-              this.plugin.refreshSegmentAiEntrances();
-              this.display();
-            } catch (error) {
-              new Notice(`创建 Skill 失败：${error?.message || "未知错误"}`);
-            } finally {
-              button.setDisabled(false);
-            }
           });
       });
 
