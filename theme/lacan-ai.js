@@ -1110,6 +1110,9 @@
           }), streamEvent);
         }
       });
+      if (typeof answer !== "string") {
+        throw new Error("AI 接口返回了无法识别的响应内容。");
+      }
       var finishedAt = Date.now();
       return {
         answer: answer,
