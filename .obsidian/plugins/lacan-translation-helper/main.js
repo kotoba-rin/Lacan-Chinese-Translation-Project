@@ -16,7 +16,7 @@ var require_segment_parser = __commonJS({
         this.code = code;
       }
     };
-    var SegmentParser = class {
+    var SegmentParser2 = class {
       parse(text, sourcePath = "") {
         const source = String(text || "");
         const comments = this.parseComments(source);
@@ -126,7 +126,7 @@ var require_segment_parser = __commonJS({
     };
     module2.exports = {
       SegmentContextError,
-      SegmentParser
+      SegmentParser: SegmentParser2
     };
   }
 });
@@ -135,13 +135,13 @@ var require_segment_parser = __commonJS({
 var require_context_resolver = __commonJS({
   "segment-ai/context-resolver.js"(exports2, module2) {
     var { createHash } = require("crypto");
-    var { SegmentContextError, SegmentParser } = require_segment_parser();
+    var { SegmentContextError, SegmentParser: SegmentParser2 } = require_segment_parser();
     var TRANSLATION_PATH_RE2 = /^texts\/([^/]+)\/translation\/((?:Leçon|Lecon|lesson)-(\d+)\.md)$/i;
     var NOTE_LINK_RE = /\[\[\s*([^|\]#]+)(?:#[^|\]]*)?(?:\|[^\]]*)?\]\]/g;
     var FRONTMATTER_RE = /^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/;
     var CONTEXT_VERSION = "1";
     var SegmentContextResolver = class {
-      constructor({ readText, listMarkdownPaths = async () => [], parser = new SegmentParser() } = {}) {
+      constructor({ readText, listMarkdownPaths = async () => [], parser = new SegmentParser2() } = {}) {
         if (typeof readText !== "function") {
           throw new TypeError("SegmentContextResolver requires readText(path).");
         }
@@ -368,13 +368,13 @@ var require_context_resolver = __commonJS({
       return values;
     };
     var frontmatterSegmentIds = (text) => {
-      const parser = new SegmentParser();
+      const parser = new SegmentParser2();
       return parser.mergeIds(...frontmatterSegmentValues(text).map((value) => parser.idsFromText(value)));
     };
     var frontmatterReferencesIds = (text, segmentIds) => {
       const targets = new Set(segmentIds || []);
       for (const value of frontmatterSegmentValues(text)) {
-        const directIds = new SegmentParser().idsFromText(value);
+        const directIds = new SegmentParser2().idsFromText(value);
         if (directIds.some((id) => targets.has(id))) {
           return true;
         }
@@ -5597,6 +5597,7 @@ var require_obsidian_integration = __commonJS({
 
 // src/main.js
 var Obsidian = require("obsidian");
+var { SegmentParser } = require_segment_parser();
 var {
   Component,
   Menu,
@@ -5739,8 +5740,8 @@ var ReadingNoteButtonWidget = class extends WidgetTypeBase {
     noteButton.className = "lacan-segment-note-button";
     noteButton.type = "button";
     noteButton.textContent = "记笔记";
-    noteButton.title = `为 ${this.segmentId} 记笔记`;
-    noteButton.setAttribute("aria-label", `为 ${this.segmentId} 记笔记`);
+    noteButton.title = `将 ${this.segmentId} 加入章节笔记`;
+    noteButton.setAttribute("aria-label", `将 ${this.segmentId} 加入章节笔记`);
     noteButton.addEventListener("click", (event) => {
       event.preventDefault();
       event.stopPropagation();
@@ -6910,6 +6911,19 @@ module.exports = class LacanTranslationHelper extends Plugin {
     return activeFile instanceof TFile ? normalizePath(activeFile.path) : "";
   }
   async createReadingNoteForSegment(sourcePath, segmentId) {
+    const previous = this.readingNoteWriteQueue || Promise.resolve();
+    const operation = previous.catch(() => {
+    }).then(
+      () => this.createReadingNoteForSegmentUnlocked(sourcePath, segmentId)
+    );
+    this.readingNoteWriteQueue = operation;
+    try {
+      return await operation;
+    } finally {
+      if (this.readingNoteWriteQueue === operation) this.readingNoteWriteQueue = null;
+    }
+  }
+  async createReadingNoteForSegmentUnlocked(sourcePath, segmentId) {
     const normalizedPath = normalizePath(sourcePath || "");
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     if (!this.isTranslationLessonPath(normalizedPath)) {
@@ -6926,34 +6940,37 @@ module.exports = class LacanTranslationHelper extends Plugin {
     if (!notePath) {
       throw new Error("无法计算阅读笔记路径。");
     }
-    const noteFile = await this.createOrUpdateReadingNoteFile(notePath, normalizedSegmentId, normalizedPath);
     const translationText = await this.app.vault.read(translationFile);
-    const updatedTranslationText = this.insertReadingNoteLink(translationText, normalizedSegmentId);
-    if (updatedTranslationText === translationText && !this.hasReadingNoteLink(translationText, normalizedSegmentId)) {
-      throw new Error(`译文中没有找到分段 ID：${normalizedSegmentId}`);
-    }
-    if (updatedTranslationText !== translationText) {
-      await this.app.vault.modify(translationFile, updatedTranslationText);
-    }
+    const parser = new SegmentParser();
+    parser.findByRequestedId(parser.parse(translationText, normalizedPath), normalizedSegmentId);
+    const noteFile = await this.createOrUpdateReadingNoteFile(notePath, normalizedSegmentId, normalizedPath);
+    await this.app.vault.process(
+      translationFile,
+      (currentText) => this.insertReadingNoteLink(currentText, normalizedSegmentId)
+    );
     await this.openReadingNoteOnRight(noteFile);
-    new Notice(`已打开阅读笔记：${normalizedSegmentId}`);
+    new Notice(`已打开章节笔记：${this.readingNoteChapterId(normalizedSegmentId)}`);
+  }
+  readingNoteChapterId(segmentId) {
+    return String(segmentId || "").trim().toLowerCase().replace(/-\d+$/, "");
   }
   readingNotePathForSegment(sourcePath, segmentId) {
     const normalizedPath = normalizePath(sourcePath || "");
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     const match = normalizedPath.match(TRANSLATION_PATH_RE);
-    if (!match || !SEGMENT_ID_LINK_RE.test(normalizedSegmentId)) {
+    if (!match || !SEGMENT_ID_LINK_RE.test(normalizedSegmentId) || Number(this.lessonFromPath(normalizedPath)) !== Number(normalizedSegmentId.split("-")[1]) || match[1].split("-")[0].toLowerCase() !== normalizedSegmentId.split("-")[0]) {
       return "";
     }
-    return `texts/${match[1]}/notes/${normalizedSegmentId}.md`;
+    return `texts/${match[1]}/notes/${this.readingNoteChapterId(normalizedSegmentId)}.md`;
   }
   readingNoteWikiLinkForSegment(segmentId) {
-    return `[[notes/${String(segmentId || "").trim().toLowerCase()}|阅读笔记]]`;
+    const id = String(segmentId || "").trim().toLowerCase();
+    return `[[notes/${this.readingNoteChapterId(id)}#${id}|阅读笔记]]`;
   }
   hasReadingNoteLink(text, segmentId) {
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     const pattern = new RegExp(
-      `\\[\\[\\s*notes/${this.escapeRegExp(normalizedSegmentId)}(?:\\.md)?(?:#[^\\]|]+)?(?:\\|[^\\]]*)?\\]\\]`,
+      `\\[\\[\\s*notes/${this.escapeRegExp(this.readingNoteChapterId(normalizedSegmentId))}(?:\\.md)?#${this.escapeRegExp(normalizedSegmentId)}(?:\\|[^\\]]*)?\\]\\]`,
       "i"
     );
     return pattern.test(String(text || ""));
@@ -6972,7 +6989,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     const blockEnd = nextMarker ? nextMarker.index : sourceText.length;
     const updatedBlock = this.insertReadingNoteLinkIntoSegmentBlock(
       sourceText.slice(blockStart, blockEnd),
-      normalizedSegmentId
+      marker.id
     );
     return `${sourceText.slice(0, blockStart)}${updatedBlock}${sourceText.slice(blockEnd)}`;
   }
@@ -6988,7 +7005,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
   isReadingNoteLinkLineForSegment(line, segmentId) {
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     const pattern = new RegExp(
-      `^\\s*\\[\\[\\s*notes/${this.escapeRegExp(normalizedSegmentId)}(?:\\.md)?(?:#[^\\]|]+)?(?:\\|[^\\]]*)?\\]\\]\\s*$`,
+      `^\\s*\\[\\[\\s*notes/${this.escapeRegExp(this.readingNoteChapterId(normalizedSegmentId))}(?:\\.md)?#${this.escapeRegExp(normalizedSegmentId)}(?:\\|[^\\]]*)?\\]\\]\\s*$`,
       "i"
     );
     return pattern.test(String(line || ""));
@@ -7013,40 +7030,122 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
     return lines.slice(start, end);
   }
   async createOrUpdateReadingNoteFile(notePath, segmentId, sourcePath = "") {
-    await this.ensureFolder(notePath.split("/").slice(0, -1).join("/"));
     const existing = this.app.vault.getAbstractFileByPath(notePath);
     if (existing instanceof TFile) {
-      await this.ensureReadingNoteSegmentFrontmatter(existing, segmentId);
+      const text = await this.app.vault.read(existing);
+      if (this.readingNoteContainsSegment(text, segmentId)) return existing;
+    } else if (existing) {
+      throw new Error(`章节笔记路径已被占用：${notePath}`);
+    }
+    const snapshot = await this.readReadingNoteSnapshot(sourcePath, segmentId);
+    if (existing instanceof TFile) {
+      const section = this.buildReadingNoteSegmentContent(segmentId, sourcePath, snapshot);
+      await this.app.vault.process(
+        existing,
+        (text) => this.readingNoteContainsSegment(text, segmentId) ? text : `${text}
+
+${section}`
+      );
+      await this.ensureReadingNoteSegmentFrontmatter(existing, snapshot.ids);
       return existing;
     }
-    return this.app.vault.create(notePath, this.buildReadingNoteContent(segmentId, sourcePath));
+    await this.ensureFolder(notePath.split("/").slice(0, -1).join("/"));
+    return this.app.vault.create(notePath, this.buildReadingNoteContent(segmentId, sourcePath, snapshot));
   }
-  async ensureReadingNoteSegmentFrontmatter(noteFile, segmentId) {
-    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
-    await this.app.fileManager.processFrontMatter(noteFile, (frontmatter) => {
-      if (!frontmatter.title) {
-        frontmatter.title = `${normalizedSegmentId} 阅读笔记`;
+  readingNoteContainsSegment(text, segmentId) {
+    return this.segmentCommentMatches(text).some((marker) => marker.ids.includes(segmentId)) || String(text).includes(`<!-- reading-note-segment: ${segmentId} -->`);
+  }
+  async readReadingNoteSnapshot(sourcePath, segmentId) {
+    const parser = new SegmentParser();
+    const readBlocks = async (path) => {
+      const file = this.app.vault.getAbstractFileByPath(path);
+      if (!(file instanceof TFile)) throw new Error(`找不到课文文件：${path}`);
+      return parser.parse(await this.app.vault.read(file), path);
+    };
+    const translation = parser.findByRequestedId(await readBlocks(sourcePath), segmentId);
+    const originalPath = this.pathsFromTranslation(sourcePath).originalPath;
+    const originals = await readBlocks(originalPath);
+    const aligned = [...new Set(translation.ids.map((id) => parser.findByRequestedId(originals, id)))];
+    return {
+      ids: translation.ids,
+      original: aligned.map((block) => block.markdown).join("\n\n"),
+      ...this.splitReadingNoteTranslation(translation.markdown)
+    };
+  }
+  splitReadingNoteTranslation(markdown) {
+    const sections = { translation: [], annotations: [], commentary: [] };
+    const lines = String(markdown).split(/\r?\n/);
+    for (let i = 0; i < lines.length; ) {
+      const line = lines[i];
+      if (/^\s*\[\[\s*notes\/[^\]]+\]\]\s*$/.test(line)) {
+        i += 1;
+      } else if (/^\s*>/.test(line)) {
+        const quote = [];
+        while (i < lines.length && /^\s*>/.test(lines[i])) quote.push(lines[i++]);
+        const visible = quote.map((value) => value.replace(/^\s*>\s?/, "")).find((value) => value.trim()) || "";
+        const isAnnotation = !quote.some((value) => /<!--\s*建言\s*-->/.test(value)) && /^[【\[（(]*\s*注/.test(visible.trim());
+        sections[isAnnotation ? "annotations" : "commentary"].push(...quote, "");
+      } else {
+        sections.translation.push(line);
+        i += 1;
       }
-      const currentSegments = Array.isArray(frontmatter.segments) ? frontmatter.segments.map((value) => String(value)) : frontmatter.segments ? [String(frontmatter.segments)] : [];
-      if (!currentSegments.some((value) => value.toLowerCase() === normalizedSegmentId)) {
-        currentSegments.push(normalizedSegmentId);
+    }
+    return Object.fromEntries(Object.entries(sections).map(([key, lines2]) => [key, lines2.join("\n").trim()]));
+  }
+  async ensureReadingNoteSegmentFrontmatter(noteFile, segmentIds) {
+    const ids = Array.isArray(segmentIds) ? segmentIds : [segmentIds];
+    await this.app.fileManager.processFrontMatter(noteFile, (frontmatter) => {
+      if (!frontmatter.title) frontmatter.title = `${this.readingNoteChapterId(ids[0])} 章节笔记`;
+      const currentSegments = Array.isArray(frontmatter.segments) ? frontmatter.segments.map(String) : frontmatter.segments ? [String(frontmatter.segments)] : [];
+      for (const id of ids) {
+        if (!currentSegments.some((value) => value.toLowerCase() === id)) currentSegments.push(id);
       }
       frontmatter.segments = currentSegments;
     });
   }
-  buildReadingNoteContent(segmentId, sourcePath = "") {
-    const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
+  buildReadingNoteSegmentContent(segmentId, sourcePath, snapshot) {
+    return [
+      ...snapshot.ids.map((id) => `<!-- reading-note-segment: ${id} -->`),
+      `## ${snapshot.ids[0]}`,
+      "",
+      `<!-- id: ${snapshot.ids[0]} -->`,
+      ...snapshot.ids.length > 1 ? [`<!-- ids: ${snapshot.ids.join(" ")} -->`] : [],
+      "",
+      this.translationWikiLinkForSegment(sourcePath, segmentId),
+      "",
+      "### 法语原文",
+      "",
+      snapshot.original,
+      "",
+      "### 中文译文",
+      "",
+      snapshot.translation || "（暂无译文）",
+      "",
+      "### 当前段落注释",
+      "",
+      snapshot.annotations || "（无）",
+      "",
+      "### 当前段落建言",
+      "",
+      snapshot.commentary || "（无）",
+      "",
+      "### 我的笔记",
+      "",
+      ""
+    ].join("\n");
+  }
+  buildReadingNoteContent(segmentId, sourcePath = "", snapshot) {
+    const chapterId = this.readingNoteChapterId(segmentId);
     return [
       "---",
-      `title: ${normalizedSegmentId} 阅读笔记`,
+      `title: ${chapterId} 章节笔记`,
       "segments:",
-      `  - ${normalizedSegmentId}`,
+      ...snapshot.ids.map((id) => `  - ${id}`),
       "---",
       "",
-      `# ${normalizedSegmentId} 阅读笔记`,
+      `# ${chapterId} 章节笔记`,
       "",
-      this.translationWikiLinkForSegment(sourcePath, normalizedSegmentId),
-      ""
+      this.buildReadingNoteSegmentContent(segmentId, sourcePath, snapshot)
     ].join("\n");
   }
   translationWikiLinkForSegment(sourcePath, segmentId) {
@@ -8337,6 +8436,8 @@ ${normalizedSections.map((lines) => lines.join("\n")).join("\n\n")}
       return datasetId;
     }
     const target = linkEl?.getAttribute?.("data-href") || linkEl?.getAttribute?.("href") || "";
+    const targetPath = this.segmentTargetPathFromLinkTarget(target);
+    if (/^(?:texts\/[^/]+\/)?notes\//i.test(targetPath)) return "";
     const explicitTargetId = this.segmentIdFromExplicitLinkTarget(target);
     if (explicitTargetId) {
       return explicitTargetId;

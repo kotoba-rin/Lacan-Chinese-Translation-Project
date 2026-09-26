@@ -160,15 +160,23 @@ try {
 
   assert.strictEqual(
     plugin.readingNotePathForSegment("texts/s8-le-transfert/translation/Leçon-01.md", "s8-01-0001"),
-    "texts/s8-le-transfert/notes/s8-01-0001.md"
+    "texts/s8-le-transfert/notes/s8-01.md"
   );
   assert.strictEqual(plugin.isReadingNotePath("texts/s8-le-transfert/notes/s8-11-0041.md"), true);
   assert.strictEqual(plugin.isReadingNotePath("texts/s8-le-transfert/translation/Leçon-11.md"), false);
 
   assert.strictEqual(
     plugin.readingNoteWikiLinkForSegment("s8-01-0001"),
-    "[[notes/s8-01-0001|阅读笔记]]"
+    "[[notes/s8-01#s8-01-0001|阅读笔记]]"
   );
+
+  assert.strictEqual(plugin.readingNotePathForSegment("texts/s8-le-transfert/translation/Leçon-01.md", "s8-01-0002"),
+    "texts/s8-le-transfert/notes/s8-01.md");
+  for (const target of ["notes/s8-01#s8-01-0001", "texts/s8-le-transfert/notes/s8-01.md#s8-01-0001"]) {
+    assert.strictEqual(plugin.segmentIdFromLinkElement({
+      getAttribute: (name) => name === "data-href" ? target : "",
+    }), "", "chapter note links must not be redirected to the translation");
+  }
 
   const titledReadingNote = new MockTFile();
   titledReadingNote.path = "texts/s8-le-transfert/notes/爱欲的投资、占有与增值.md";
@@ -212,9 +220,10 @@ try {
 
   const note = plugin.buildReadingNoteContent(
     "s8-01-0001",
-    "texts/s8-le-transfert/translation/Leçon-01.md"
+    "texts/s8-le-transfert/translation/Leçon-01.md",
+    { ids: ["s8-01-0001"], original: "Bonjour.", translation: "你好。", annotations: "", commentary: "" }
   );
-  assert.ok(note.includes("title: s8-01-0001 阅读笔记"));
+  assert.ok(note.includes("title: s8-01 章节笔记"));
   assert.ok(note.includes("segments:\n  - s8-01-0001"));
   assert.ok(note.includes("[[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0001|「s8-01-0001」译文]]"));
   assert.strictEqual(
@@ -458,7 +467,7 @@ try {
     "译文正文。",
   ].join("\n");
   const updated = plugin.insertReadingNoteLink(source, "s8-01-0001");
-  assert.ok(updated.includes("<!-- id: s8-01-0001 -->\n\n译文正文。\n\n[[notes/s8-01-0001|阅读笔记]]\n\n"));
+  assert.ok(updated.includes("<!-- id: s8-01-0001 -->\n\n译文正文。\n\n[[notes/s8-01#s8-01-0001|阅读笔记]]\n\n"));
   assert.strictEqual(plugin.insertReadingNoteLink(updated, "s8-01-0001"), updated);
   const moved = plugin.insertReadingNoteLink(
     [
@@ -466,7 +475,7 @@ try {
       "",
       "<!-- id: s8-01-0001 -->",
       "",
-      "[[notes/s8-01-0001|阅读笔记]]",
+      "[[notes/s8-01#s8-01-0001|阅读笔记]]",
       "",
       "译文正文。",
       "",
@@ -474,7 +483,7 @@ try {
     ].join("\n"),
     "s8-01-0001"
   );
-  assert.ok(moved.includes("<!-- id: s8-01-0001 -->\n\n译文正文。\n\n> 译者说明。\n\n[[notes/s8-01-0001|阅读笔记]]\n"));
+  assert.ok(moved.includes("<!-- id: s8-01-0001 -->\n\n译文正文。\n\n> 译者说明。\n\n[[notes/s8-01#s8-01-0001|阅读笔记]]\n"));
 
   const file = new MockTFile();
   file.path = "texts/s8-le-transfert/translation/Leçon-01.md";
@@ -520,53 +529,94 @@ try {
   assert.strictEqual(decorations.length, 1);
   assert.strictEqual(decorations[0].from, lines[0].to);
 
+  // Exercise the complete note workflow with an in-memory Vault, including concurrent clicks.
   const noteOpeningSourcePath = "texts/s8-le-transfert/translation/Leçon-01.md";
-  const noteOpeningSource = [
-    "<!-- id: s8-01-0001 -->",
-    "",
-    "第一段。",
-    "",
-    "<!-- id: s8-01-0002 -->",
-    "",
-    "第二段。",
-  ].join("\n");
-  const createdNote = new MockTFile();
-  createdNote.path = "texts/s8-le-transfert/notes/s8-01-0001.md";
-  const existingNote = new MockTFile();
-  existingNote.path = "texts/s8-le-transfert/notes/s8-01-0002.md";
-  const noteFiles = [createdNote, existingNote];
+  const originalPath = noteOpeningSourcePath.replace("/translation/", "/original/");
+  const chapterPath = "texts/s8-le-transfert/notes/s8-01.md";
+  const legacyPath = "texts/s8-le-transfert/notes/s8-01-0001.md";
+  const noteTexts = new Map([
+    [noteOpeningSourcePath, [
+      "<!-- id: s8-01-0001 -->", "", "第一段。", "",
+      "> [注1] 第一条注释。", "> 注释续行。", "",
+      "> <!-- 建言 -->", "> 第一条建言。", "",
+      "[[notes/s8-01-0001|阅读笔记]]", "",
+      "<!-- id: s8-01-0002 -->", "<!-- ids: s8-01-0002 s8-01-0003 -->", "",
+      "第二、三段合并译文。", "", "> 未标记的建言。", "",
+      "<!-- id: s8-01-0004 -->", "", "缺少对应法文。",
+    ].join("\n")],
+    [originalPath, "<!-- id: s8-01-0001 -->\nBonjour.\n<!-- id: s8-01-0002 -->\nDeux.\n<!-- id: s8-01-0003 -->\nTrois."],
+    [legacyPath, "用户以前的笔记，必须保留。"],
+  ]);
+  const noteFiles = new Map([...noteTexts.keys()].map((path) => [path, Object.assign(new MockTFile(), { path })]));
   const openedOnRight = [];
-  const originalCreateOrUpdateReadingNoteFile = plugin.createOrUpdateReadingNoteFile;
   const originalOpenReadingNoteOnRight = plugin.openReadingNoteOnRight;
-  const originalOpenFile = plugin.openFile;
   plugin.app = {
     vault: {
-      getAbstractFileByPath(requestedPath) {
-        assert.strictEqual(requestedPath, noteOpeningSourcePath);
+      getAbstractFileByPath: (path) => noteFiles.get(path),
+      read: async (file) => noteTexts.get(file.path),
+      async createFolder(path) { noteFiles.set(path, { path }); },
+      async create(path, text) {
+        assert.ok(!noteFiles.has(path), "a chapter must only be created once");
+        const file = Object.assign(new MockTFile(), { path });
+        noteFiles.set(path, file);
+        noteTexts.set(path, text);
         return file;
       },
-      async read(requestedFile) {
-        assert.strictEqual(requestedFile, file);
-        return noteOpeningSource;
-      },
-      async modify(requestedFile) {
-        assert.strictEqual(requestedFile, file);
+      async process(file, update) { noteTexts.set(file.path, update(noteTexts.get(file.path))); },
+    },
+    fileManager: {
+      async processFrontMatter(file, update) {
+        const text = noteTexts.get(file.path);
+        const header = text.match(/^---\n([\s\S]*?)\n---/)[0];
+        const fm = {
+          title: header.match(/title: (.*)/)[1],
+          segments: [...header.matchAll(/  - (.*)/g)].map((match) => match[1]),
+        };
+        update(fm);
+        noteTexts.set(file.path, text.replace(header, ["---", `title: ${fm.title}`, "segments:", ...fm.segments.map((id) => `  - ${id}`), "---"].join("\n")));
       },
     },
   };
-  plugin.createOrUpdateReadingNoteFile = async () => noteFiles.shift();
-  plugin.openReadingNoteOnRight = async (noteFile) => {
-    openedOnRight.push(noteFile);
-  };
-  plugin.openFile = async () => {
-    throw new Error("阅读笔记不应在当前叶窗格打开");
-  };
+  plugin.openReadingNoteOnRight = async (file) => openedOnRight.push(file.path);
+  await Promise.all([
+    plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001"),
+    plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001"),
+  ]);
+  const firstNote = noteTexts.get(chapterPath);
+  assert.ok(firstNote.includes("### 法语原文\n\nBonjour."));
+  assert.ok(firstNote.includes("### 中文译文\n\n第一段。"));
+  assert.ok(firstNote.includes("### 当前段落注释\n\n> [注1] 第一条注释。\n> 注释续行。"));
+  assert.ok(firstNote.includes("### 当前段落建言\n\n> <!-- 建言 -->\n> 第一条建言。"));
+  assert.ok(!firstNote.includes("[[notes/"), "source helper links must not enter the snapshot");
+  noteTexts.set(chapterPath, firstNote.replace("Bonjour.", "用户编辑过的法文") + "\n手写分析。\n");
+  const editedNote = noteTexts.get(chapterPath);
   await plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001");
-  await plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0002");
-  assert.deepStrictEqual(openedOnRight, [createdNote, existingNote]);
-  plugin.createOrUpdateReadingNoteFile = originalCreateOrUpdateReadingNoteFile;
+  assert.strictEqual(noteTexts.get(chapterPath), editedNote, "repeat click must preserve user edits byte for byte");
+  await Promise.all([
+    plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0002"),
+    plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0003"),
+    plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0002"),
+  ]);
+  const completeNote = noteTexts.get(chapterPath);
+  assert.strictEqual((completeNote.match(/第二、三段合并译文。/g) || []).length, 1);
+  assert.ok(completeNote.includes("Deux.\n\nTrois."));
+  assert.ok(completeNote.includes("> 未标记的建言。"));
+  assert.ok(completeNote.includes("手写分析。"));
+  assert.ok(completeNote.includes("用户编辑过的法文"));
+  assert.ok(completeNote.includes("  - s8-01-0003"));
+  assert.strictEqual(noteTexts.get(legacyPath), "用户以前的笔记，必须保留。");
+  assert.ok(noteTexts.get(noteOpeningSourcePath).includes("[[notes/s8-01-0001|阅读笔记]]"));
+  assert.ok(noteTexts.get(noteOpeningSourcePath).includes("[[notes/s8-01#s8-01-0002|阅读笔记]]"));
+  assert.deepStrictEqual(openedOnRight, Array(6).fill(chapterPath));
+  assert.deepStrictEqual([...noteTexts.keys()], [noteOpeningSourcePath, originalPath, legacyPath, chapterPath]);
+  const beforeFailure = new Map(noteTexts);
+  await assert.rejects(plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0004"), /找不到分段/);
+  await assert.rejects(plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-9999"), /找不到分段/);
+  assert.deepStrictEqual(noteTexts, beforeFailure, "missing sources must not create partial notes or links");
+  assert.strictEqual(plugin.readingNotePathForSegment(noteOpeningSourcePath, "s8-02-0001"), "");
+  assert.strictEqual(plugin.readingNotePathForSegment(noteOpeningSourcePath, "s9-01-0001"), "");
+  await plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001");
   plugin.openReadingNoteOnRight = originalOpenReadingNoteOnRight;
-  plugin.openFile = originalOpenFile;
 
   const oldDocument = global.document;
   const createFakeElement = (tagName) => ({
@@ -846,7 +896,7 @@ try {
   assert.strictEqual(plugin.segmentAiState.workspaceError.code, "Unknown");
 
   const rightPaneNote = new MockTFile();
-  rightPaneNote.path = "texts/s8-le-transfert/notes/s8-01-0001.md";
+  rightPaneNote.path = "texts/s8-le-transfert/notes/s8-01.md";
   const rightPaneLeaf = {
     async openFile(file) {
       assert.strictEqual(file, rightPaneNote);
@@ -873,7 +923,7 @@ try {
 }
 };
 
-run().catch((error) => {
+run().then(() => console.log("lacan translation helper tests passed")).catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
