@@ -548,8 +548,8 @@ try {
     [legacyPath, "用户以前的笔记，必须保留。"],
   ]);
   const noteFiles = new Map([...noteTexts.keys()].map((path) => [path, Object.assign(new MockTFile(), { path })]));
-  const openedOnRight = [];
-  const originalOpenReadingNoteOnRight = plugin.openReadingNoteOnRight;
+  const openedOnLeft = [];
+  const originalOpenReadingNoteOnLeft = plugin.openReadingNoteOnLeft;
   plugin.app = {
     vault: {
       getAbstractFileByPath: (path) => noteFiles.get(path),
@@ -577,7 +577,7 @@ try {
       },
     },
   };
-  plugin.openReadingNoteOnRight = async (file) => openedOnRight.push(file.path);
+  plugin.openReadingNoteOnLeft = async (file) => openedOnLeft.push(file.path);
   await Promise.all([
     plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001"),
     plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001"),
@@ -607,7 +607,7 @@ try {
   assert.strictEqual(noteTexts.get(legacyPath), "用户以前的笔记，必须保留。");
   assert.ok(noteTexts.get(noteOpeningSourcePath).includes("[[notes/s8-01-0001|阅读笔记]]"));
   assert.ok(noteTexts.get(noteOpeningSourcePath).includes("[[notes/s8-01#s8-01-0002|阅读笔记]]"));
-  assert.deepStrictEqual(openedOnRight, Array(6).fill(chapterPath));
+  assert.deepStrictEqual(openedOnLeft, Array(6).fill(chapterPath));
   assert.deepStrictEqual([...noteTexts.keys()], [noteOpeningSourcePath, originalPath, legacyPath, chapterPath]);
   const beforeFailure = new Map(noteTexts);
   await assert.rejects(plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0004"), /找不到分段/);
@@ -616,7 +616,7 @@ try {
   assert.strictEqual(plugin.readingNotePathForSegment(noteOpeningSourcePath, "s8-02-0001"), "");
   assert.strictEqual(plugin.readingNotePathForSegment(noteOpeningSourcePath, "s9-01-0001"), "");
   await plugin.createReadingNoteForSegment(noteOpeningSourcePath, "s8-01-0001");
-  plugin.openReadingNoteOnRight = originalOpenReadingNoteOnRight;
+  plugin.openReadingNoteOnLeft = originalOpenReadingNoteOnLeft;
 
   const oldDocument = global.document;
   const createFakeElement = (tagName) => ({
@@ -630,7 +630,8 @@ try {
       return child;
     },
     setAttribute() {},
-    addEventListener() {},
+    listeners: {},
+    addEventListener(name, handler) { this.listeners[name] = handler; },
   });
   global.document = {
     createElement(tagName) {
@@ -640,6 +641,15 @@ try {
   try {
     const actions = decorations[0].value.widget.toDOM();
     assert.strictEqual(actions.className, "lacan-segment-actions");
+    for (const name of ["pointerdown", "mousedown"]) {
+      let prevented = false;
+      let stopped = false;
+      actions.children[0].listeners[name]({
+        preventDefault() { prevented = true; },
+        stopPropagation() { stopped = true; },
+      });
+      assert.ok(prevented && stopped, "pressing the note button must preserve editor focus");
+    }
     assert.deepStrictEqual(
       actions.children.map((child) => child.textContent),
       ["记笔记", "Ф"]
@@ -895,29 +905,92 @@ try {
   assert.strictEqual(failedInterpretation.state, "failed");
   assert.strictEqual(plugin.segmentAiState.workspaceError.code, "Unknown");
 
-  const rightPaneNote = new MockTFile();
-  rightPaneNote.path = "texts/s8-le-transfert/notes/s8-01.md";
-  const rightPaneLeaf = {
-    async openFile(file) {
-      assert.strictEqual(file, rightPaneNote);
+  const leftPaneNote = Object.assign(new MockTFile(), { path: "texts/s8-le-transfert/notes/s8-01.md" });
+  const anotherNote = Object.assign(new MockTFile(), { path: "texts/s8-le-transfert/notes/s8-02.md" });
+  const cursor = { line: 7, ch: 12 };
+  const focusedDocument = { activeElement: null };
+  const sourceEditor = {
+    isConnected: true,
+    ownerDocument: focusedDocument,
+    focus(options) {
+      assert.deepStrictEqual(options, { preventScroll: true });
+      focusedDocument.activeElement = this;
     },
   };
-  let revealedLeaf = null;
-  plugin.app = {
-    workspace: {
-      getLeaf(mode, direction) {
-        assert.strictEqual(mode, "split");
-        assert.strictEqual(direction, "vertical");
-        return rightPaneLeaf;
-      },
-      revealLeaf(leaf) {
-        revealedLeaf = leaf;
-      },
+  focusedDocument.activeElement = sourceEditor;
+  const sourceLeaf = { view: { file, editor: { cursor }, containerEl: { ownerDocument: focusedDocument, getBoundingClientRect: () => ({ left: 500, right: 1000, width: 500 }) } } };
+  const openCalls = [];
+  const leaves = [sourceLeaf];
+  let splitCalls = 0;
+  const workspace = {
+    activeLeaf: sourceLeaf,
+    getLeavesOfType(type) { assert.strictEqual(type, "markdown"); return leaves; },
+    createLeafBySplit(anchor, direction, before) {
+      assert.strictEqual(anchor, sourceLeaf);
+      assert.strictEqual(direction, "vertical");
+      assert.strictEqual(before, true, "new note split must be on the left");
+      splitCalls += 1;
+      const leaf = {
+        view: { file: null, containerEl: { ownerDocument: focusedDocument, getBoundingClientRect: () => ({ left: 0, right: 500, width: 500 }), contains: (element) => element === leaf } },
+        async openFile(file, options) {
+          assert.deepStrictEqual(options, { active: false });
+          openCalls.push(file.path);
+          this.view.file = file;
+        },
+      };
+      leaves.push(leaf);
+      return leaf;
     },
+    setActiveLeaf(leaf, options) {
+      assert.deepStrictEqual(options, { focus: false });
+      this.activeLeaf = leaf;
+    },
+    revealLeaf() { throw new Error("must not reveal/focus the note editor"); },
   };
-  assert.strictEqual(typeof plugin.openReadingNoteOnRight, "function");
-  await plugin.openReadingNoteOnRight(rightPaneNote);
-  assert.strictEqual(revealedLeaf, rightPaneLeaf);
+  // An old note on the right must not prevent opening the requested left pane.
+  leaves.push({ view: { file: leftPaneNote, containerEl: {
+    ownerDocument: focusedDocument,
+    getBoundingClientRect: () => ({ left: 1000, right: 1500, width: 500 }),
+  } } });
+  plugin.app = { workspace };
+  await plugin.openReadingNoteOnLeft(leftPaneNote);
+  leaves.splice(1, 1);
+  assert.strictEqual(splitCalls, 1);
+  assert.strictEqual(workspace.activeLeaf, sourceLeaf);
+  assert.strictEqual(focusedDocument.activeElement, sourceEditor);
+  assert.strictEqual(sourceLeaf.view.editor.cursor, cursor);
+  const noteLeaf = leaves[1];
+  await plugin.openReadingNoteOnLeft(leftPaneNote);
+  assert.strictEqual(splitCalls, 1, "repeat click must reuse the existing note pane");
+  assert.deepStrictEqual(openCalls, [leftPaneNote.path], "do not reopen the same file or reset its scroll");
+  plugin.readingNoteLeaf = null;
+  await plugin.openReadingNoteOnLeft(leftPaneNote);
+  assert.strictEqual(splitCalls, 1, "discover an already open note after plugin reload");
+  await plugin.openReadingNoteOnLeft(anotherNote);
+  assert.strictEqual(splitCalls, 1, "other chapters should reuse the managed note pane");
+  assert.deepStrictEqual(openCalls, [leftPaneNote.path, anotherNote.path]);
+  assert.strictEqual(workspace.activeLeaf, sourceLeaf);
+
+  noteLeaf.openFile = async () => {
+    workspace.activeLeaf = noteLeaf;
+    focusedDocument.activeElement = noteLeaf;
+    throw new Error("open failed");
+  };
+  await assert.rejects(plugin.openReadingNoteOnLeft(leftPaneNote), /open failed/);
+  assert.strictEqual(workspace.activeLeaf, sourceLeaf, "restore source even when opening fails");
+  assert.strictEqual(focusedDocument.activeElement, sourceEditor);
+
+  // A closed leaf must not be reused.
+  leaves.splice(1);
+  await plugin.openReadingNoteOnLeft(leftPaneNote);
+  assert.strictEqual(splitCalls, 2);
+  assert.strictEqual(workspace.activeLeaf, sourceLeaf);
+
+  const navigatedLeaf = { view: {} };
+  leaves[1].openFile = async () => { workspace.activeLeaf = navigatedLeaf; };
+  await plugin.openReadingNoteOnLeft(anotherNote);
+  assert.strictEqual(workspace.activeLeaf, navigatedLeaf, "do not steal focus if the user navigated during I/O");
+
 } finally {
   Module._load = originalLoad;
 }

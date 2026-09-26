@@ -5742,6 +5742,12 @@ var ReadingNoteButtonWidget = class extends WidgetTypeBase {
     noteButton.textContent = "记笔记";
     noteButton.title = `将 ${this.segmentId} 加入章节笔记`;
     noteButton.setAttribute("aria-label", `将 ${this.segmentId} 加入章节笔记`);
+    for (const eventName of ["pointerdown", "mousedown"]) {
+      noteButton.addEventListener(eventName, (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+      });
+    }
     noteButton.addEventListener("click", (event) => {
       event.preventDefault();
       event.stopPropagation();
@@ -6911,10 +6917,11 @@ module.exports = class LacanTranslationHelper extends Plugin {
     return activeFile instanceof TFile ? normalizePath(activeFile.path) : "";
   }
   async createReadingNoteForSegment(sourcePath, segmentId) {
+    const sourceLeaf = this.app.workspace?.activeLeaf;
     const previous = this.readingNoteWriteQueue || Promise.resolve();
     const operation = previous.catch(() => {
     }).then(
-      () => this.createReadingNoteForSegmentUnlocked(sourcePath, segmentId)
+      () => this.createReadingNoteForSegmentUnlocked(sourcePath, segmentId, sourceLeaf)
     );
     this.readingNoteWriteQueue = operation;
     try {
@@ -6923,7 +6930,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       if (this.readingNoteWriteQueue === operation) this.readingNoteWriteQueue = null;
     }
   }
-  async createReadingNoteForSegmentUnlocked(sourcePath, segmentId) {
+  async createReadingNoteForSegmentUnlocked(sourcePath, segmentId, sourceLeaf) {
     const normalizedPath = normalizePath(sourcePath || "");
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     if (!this.isTranslationLessonPath(normalizedPath)) {
@@ -6948,7 +6955,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       translationFile,
       (currentText) => this.insertReadingNoteLink(currentText, normalizedSegmentId)
     );
-    await this.openReadingNoteOnRight(noteFile);
+    await this.openReadingNoteOnLeft(noteFile, sourceLeaf);
     new Notice(`已打开章节笔记：${this.readingNoteChapterId(normalizedSegmentId)}`);
   }
   readingNoteChapterId(segmentId) {
@@ -9130,10 +9137,42 @@ ${section}`
   async openFile(file, openState = void 0) {
     await this.app.workspace.getLeaf(false).openFile(file, openState);
   }
-  async openReadingNoteOnRight(file) {
-    const leaf = this.app.workspace.getLeaf("split", "vertical");
-    await leaf.openFile(file);
-    await this.app.workspace.revealLeaf?.(leaf);
+  async openReadingNoteOnLeft(file, sourceLeaf = this.app.workspace.activeLeaf) {
+    const workspace = this.app.workspace;
+    const leaves = workspace.getLeavesOfType("markdown");
+    const anchor = sourceLeaf || workspace.getMostRecentLeaf();
+    if (!anchor) throw new Error("找不到可用于打开章节笔记的正文窗口。");
+    const paneBounds = (leaf2) => {
+      const element = leaf2.view.containerEl;
+      return (element?.closest?.(".workspace-tabs") || element)?.getBoundingClientRect();
+    };
+    const sourceBounds = paneBounds(anchor);
+    const leftNotes = leaves.filter((leaf2) => {
+      if (leaf2 === anchor || !this.isReadingNotePath(leaf2.view.file?.path)) return false;
+      if (leaf2.view.containerEl?.ownerDocument !== anchor.view.containerEl?.ownerDocument) return false;
+      const bounds = paneBounds(leaf2);
+      return bounds?.width > 0 && sourceBounds?.width > 0 && bounds.right <= sourceBounds.left + 1;
+    });
+    const existing = leftNotes.find((leaf2) => leaf2.view.file?.path === file.path);
+    const reusable = leftNotes.includes(this.readingNoteLeaf) ? this.readingNoteLeaf : leftNotes[0];
+    const activeLeaf = workspace.activeLeaf;
+    const focusedElement = activeLeaf?.view.containerEl?.ownerDocument.activeElement;
+    const leaf = existing || (reusable || workspace.createLeafBySplit(anchor, "vertical", true));
+    this.readingNoteLeaf = leaf;
+    try {
+      if (leaf.view.file?.path !== file.path) await leaf.openFile(file, { active: false });
+      if (workspace.activeLeaf === activeLeaf || workspace.activeLeaf === leaf) {
+        workspace.setActiveLeaf(leaf, { focus: false });
+        if (activeLeaf) workspace.setActiveLeaf(activeLeaf, { focus: false });
+      }
+    } finally {
+      if (activeLeaf && workspace.activeLeaf === leaf) {
+        workspace.setActiveLeaf(activeLeaf, { focus: false });
+      }
+      if (workspace.activeLeaf === activeLeaf && focusedElement?.isConnected && leaf.view.containerEl?.contains(focusedElement.ownerDocument.activeElement)) {
+        focusedElement.focus({ preventScroll: true });
+      }
+    }
   }
 };
 var LacanTranslationHelperSettingTab = class extends PluginSettingTab {

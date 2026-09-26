@@ -153,6 +153,13 @@ class ReadingNoteButtonWidget extends WidgetTypeBase {
     noteButton.textContent = "记笔记";
     noteButton.title = `将 ${this.segmentId} 加入章节笔记`;
     noteButton.setAttribute("aria-label", `将 ${this.segmentId} 加入章节笔记`);
+    // Keep CodeMirror's selection and focus when the pointer presses this widget.
+    for (const eventName of ["pointerdown", "mousedown"]) {
+      noteButton.addEventListener(eventName, (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+      });
+    }
     noteButton.addEventListener("click", (event) => {
       event.preventDefault();
       event.stopPropagation();
@@ -1525,9 +1532,10 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
   async createReadingNoteForSegment(sourcePath, segmentId) {
     // Serialize clicks so creating a chapter and appending its segments cannot race.
+    const sourceLeaf = this.app.workspace?.activeLeaf;
     const previous = this.readingNoteWriteQueue || Promise.resolve();
     const operation = previous.catch(() => {}).then(() =>
-      this.createReadingNoteForSegmentUnlocked(sourcePath, segmentId)
+      this.createReadingNoteForSegmentUnlocked(sourcePath, segmentId, sourceLeaf)
     );
     this.readingNoteWriteQueue = operation;
     try {
@@ -1537,7 +1545,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
   }
 
-  async createReadingNoteForSegmentUnlocked(sourcePath, segmentId) {
+  async createReadingNoteForSegmentUnlocked(sourcePath, segmentId, sourceLeaf) {
     const normalizedPath = normalizePath(sourcePath || "");
     const normalizedSegmentId = String(segmentId || "").trim().toLowerCase();
     if (!this.isTranslationLessonPath(normalizedPath)) {
@@ -1566,7 +1574,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       this.insertReadingNoteLink(currentText, normalizedSegmentId)
     );
 
-    await this.openReadingNoteOnRight(noteFile);
+    await this.openReadingNoteOnLeft(noteFile, sourceLeaf);
     new Notice(`已打开章节笔记：${this.readingNoteChapterId(normalizedSegmentId)}`);
   }
 
@@ -4188,10 +4196,48 @@ module.exports = class LacanTranslationHelper extends Plugin {
     await this.app.workspace.getLeaf(false).openFile(file, openState);
   }
 
-  async openReadingNoteOnRight(file) {
-    const leaf = this.app.workspace.getLeaf("split", "vertical");
-    await leaf.openFile(file);
-    await this.app.workspace.revealLeaf?.(leaf);
+  async openReadingNoteOnLeft(file, sourceLeaf = this.app.workspace.activeLeaf) {
+    const workspace = this.app.workspace;
+    const leaves = workspace.getLeavesOfType("markdown");
+    const anchor = sourceLeaf || workspace.getMostRecentLeaf();
+    if (!anchor) throw new Error("找不到可用于打开章节笔记的正文窗口。");
+    const paneBounds = (leaf) => {
+      const element = leaf.view.containerEl;
+      // Use the tab group so a note behind another tab can still be reused.
+      return (element?.closest?.(".workspace-tabs") || element)?.getBoundingClientRect();
+    };
+    const sourceBounds = paneBounds(anchor);
+    const leftNotes = leaves.filter((leaf) => {
+      if (leaf === anchor || !this.isReadingNotePath(leaf.view.file?.path)) return false;
+      if (leaf.view.containerEl?.ownerDocument !== anchor.view.containerEl?.ownerDocument) return false;
+      const bounds = paneBounds(leaf);
+      return bounds?.width > 0 && sourceBounds?.width > 0 && bounds.right <= sourceBounds.left + 1;
+    });
+    const existing = leftNotes.find((leaf) => leaf.view.file?.path === file.path);
+    const reusable = leftNotes.includes(this.readingNoteLeaf) ? this.readingNoteLeaf : leftNotes[0];
+
+    const activeLeaf = workspace.activeLeaf;
+    const focusedElement = activeLeaf?.view.containerEl?.ownerDocument.activeElement;
+    const leaf = existing || (reusable || workspace.createLeafBySplit(anchor, "vertical", true));
+    this.readingNoteLeaf = leaf;
+    try {
+      if (leaf.view.file?.path !== file.path) await leaf.openFile(file, { active: false });
+      // Select the note tab without focusing its editor, then keep the source active.
+      // This also reveals a note hidden behind another tab in the same split.
+      if (workspace.activeLeaf === activeLeaf || workspace.activeLeaf === leaf) {
+        workspace.setActiveLeaf(leaf, { focus: false });
+        if (activeLeaf) workspace.setActiveLeaf(activeLeaf, { focus: false });
+      }
+    } finally {
+      if (activeLeaf && workspace.activeLeaf === leaf) {
+        workspace.setActiveLeaf(activeLeaf, { focus: false });
+      }
+      // Only undo focus taken by the note; never override navigation made while awaiting I/O.
+      if (workspace.activeLeaf === activeLeaf && focusedElement?.isConnected
+        && leaf.view.containerEl?.contains(focusedElement.ownerDocument.activeElement)) {
+        focusedElement.focus({ preventScroll: true });
+      }
+    }
   }
 };
 

@@ -6,10 +6,10 @@ tags:
   - 研讨班II
   - 研讨班I
   - 研讨班VIII
+  - 研讨班XIV
   - 领域/哲学/古代哲学
   - 领域/语言符号与文献/符号与语言哲学
-  - 传统/基督教
-verified_at: 2026-09-17
+verified_at: 2026-09-22
 ---
 
 希腊语 λόγος（*logos*）的语义场很宽，可以表示话语、陈述、说明、理由、论证、计算或理性原则。它在不同哲学家那里也有不同的专门用法，因此不能脱离文本把它一概理解为某种单一的“宇宙理性”。
@@ -21,6 +21,8 @@ verified_at: 2026-09-17
 - **动词**：语法术语，如 *le verbe être*（动词 *être*）、*la conjugaison des verbes*（动词变位）。“有动词的意思”说的是 *verbe* 所指的词类，并非说 *verbe* 这个词本身是动词。
 - **言辞、表达或文辞**：在文学用法中指表达思想的方式，也可涉及声音、说话的腔调；不能把所有小写 *verbe* 都译成“动词”。
 - **圣言／道**：基督教神学通常写作大写 *le Verbe*，指圣三位一体的第二位、圣子。《约翰福音》1:1、1:14 的法语 *Verbe* 与拉丁语 *Verbum*、希腊语 λόγος 对应，取的是这一神学义，而非语法中的“动词”义。
+
+《研讨班 XIV》第十三课的 *la religion du Verbe*（“圣言／道的宗教”）也取第三义。尽管 *verbe* 可作语法术语表示“动词”，这里的大写 *Verbe* 与教会、保罗传统、律法和教义陈述同处于明确的基督教语境，不应译成“动词的宗教”。
 
 “圣言”是中文基督教、尤其天主教文献中已有的称谓。《天主教教理》第479条把圣父的独生子称为“永远的圣言”，并说明其降生成人。用于此处时，“圣言”明确指向圣子这一位格，并非泛指一句神圣的话语。词义辨别须结合语境；大小写是提示，不足以单独决定译法。
 
@@ -36,6 +38,7 @@ verified_at: 2026-09-17
 - [“道”入《圣经》（一）：重探新教中文《圣经》“道”译 Logos 的历史起点](https://doi.org/10.29635/JRCC.202406_%2822%29.0007)（中文；翻译史研究）
 - [[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/original/Leçon-23.md#s2-23-0178|《研讨班 II》第二十三课 s2-23-0178]]、[[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/original/Leçon-23.md#s2-23-0347|s2-23-0347]]（法文；*logos*、言说与象征关系）
 - [[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/original/Leçon-25.md#s2-25-0024|《研讨班 II》第二十五课 s2-25-0024]]—[[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/original/Leçon-25.md#s2-25-0029|s2-25-0029]]、[[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/original/Leçon-25.md#s2-25-0058|s2-25-0058]]、[[texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/original/Leçon-25.md#s2-25-0079|s2-25-0079]]（法文；*Verbum*、*logos* 与约翰福音开篇的援引）
+- [[texts/s14-la-logique-du-fantasme/original/Leçon-13.md#s14-13-0085|《研讨班 XIV》第十三课 s14-13-0085]]（法文；*la religion du Verbe* 与教会、保罗传统、律法及教义陈述的语境）
 
 ## 关联
 
@@ -53,3 +56,4 @@ verified_at: 2026-09-17
 [[texts/s1-les-ecrits-techniques-de-freud/translation/Leçon-21.md#s1-21-0048|s1-21-0048]]
 
 [[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0005|s8-01-0005]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-13.md#s14-13-0085|s14-13-0085]]

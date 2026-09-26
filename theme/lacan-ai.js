@@ -1,6 +1,15 @@
 (function () {
   "use strict";
 
+  // The WordPress reader uses the site's signed bot bridge and shared controls.
+  if (/(^|\.)kotoba-rin\.com$/.test(window.location.hostname)) {
+    var bridge = document.createElement("script");
+    bridge.src = "/wp-content/plugins/kotoba-open-api/assistant.js?v=20260926-14";
+    bridge.defer = true;
+    document.head.appendChild(bridge);
+    return;
+  }
+
   var Core = window.LacanAiCore;
   if (!Core) return;
 
