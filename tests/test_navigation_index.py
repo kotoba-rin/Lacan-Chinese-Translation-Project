@@ -4,6 +4,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -38,14 +39,18 @@ class NavigationIndexTest(unittest.TestCase):
                 ),
                 encoding="utf-8",
             )
-            card = build_from_texts.KnowledgeCard(
-                source_path=Path(tmp) / "知识库" / "对象a.md",
-                output_relative_path=Path("知识库/对象a.md"),
-                title="对象 a",
-                segment_ids=["s14-07-0097"],
-                tags=("概念/对象a", "欲望"),
-                body="这段正文不应进入导航索引。",
+            knowledge_dir = Path(tmp) / "知识库"
+            knowledge_dir.mkdir()
+            card_path = knowledge_dir / "对象a.md"
+            card_path.write_text(
+                "---\ntitle: 对象 a\ntags:\n  - 概念/对象a\n  - 欲望\n---\n\n"
+                "这段正文不应进入导航索引。\n\n## 关联\n\n"
+                "[[texts/s14-la-logique-du-fantasme/translation/Leçon-07.md#s14-07-0097]]\n",
+                encoding="utf-8",
             )
+            with patch.object(build_from_texts, "KNOWLEDGE_DIR", knowledge_dir):
+                card = build_from_texts.parse_knowledge_card(card_path)
+            self.assertEqual(card.segment_ids, ["s14-07-0097"])
 
             old_build_dir = build_from_texts.BUILD_DIR
             build_from_texts.BUILD_DIR = build_dir

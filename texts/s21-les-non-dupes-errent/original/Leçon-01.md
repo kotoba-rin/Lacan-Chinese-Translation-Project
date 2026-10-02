@@ -114,7 +114,7 @@ Alors il s’arrête à un sens, mais le sens auquel on doit s’arrêter, dans 
 
 <!-- id: s21-01-0028 -->
 
-> quoique ça soit le même savoir ...ce n’est pas le même sens.
+quoique ça soit le même savoir ...ce n’est pas le même sens.
 
 <!-- id: s21-01-0029 -->
 
@@ -138,7 +138,7 @@ Et ne croyez pas même qu’à l’occasion, il ne reste pas là...
 
 <!-- id: s21-01-0034 -->
 
-> à propos de ce rapprochement, de cette identité phonématique, des *Noms du Père* et des *non-dupes errent* ... ne croyez pas qu’il n’y ait pas d’énigme pour moi-même, mais c’est bien de ça qu’il s’agit.
+à propos de ce rapprochement, de cette identité phonématique, des *Noms du Père* et des *non-dupes errent* ... ne croyez pas qu’il n’y ait pas d’énigme pour moi-même, mais c’est bien de ça qu’il s’agit.
 
 <!-- id: s21-01-0035 -->
 
@@ -170,7 +170,7 @@ Il est en effet bien clair que le travail, tel que nous le connaissons par l’i
 
 <!-- id: s21-01-0042 -->
 
-> des rapports à ce savoir dont nous sommes tourmentés ...c’est ce qui fait, de ces rapports, *la jouissan­ce*.
+des rapports à ce savoir dont nous sommes tourmentés ...c’est ce qui fait, de ces rapports, *la jouissan­ce*.
 
 <!-- id: s21-01-0043 -->
 
@@ -198,7 +198,7 @@ Ce que j’ai avancé, pourtant, avec ce « *j’imagine* », à propos du sen
 
 <!-- id: s21-01-0049 -->
 
-> quoi que vous en ayez entendu, parce que vous vous imaginez comprendre ...c’est que *l’imaginaire c’est une « dit-mension » -* comme vous savez que je l’écris - aussi importante que les autres.
+quoi que vous en ayez entendu, parce que vous vous imaginez comprendre ...c’est que *l’imaginaire c’est une « dit-mension » -* comme vous savez que je l’écris - aussi importante que les autres.
 
 <!-- id: s21-01-0050 -->
 
@@ -230,7 +230,7 @@ Le branlage humain est plus varié qu’on ne croit, quoiqu’il soit limité pa
 
 <!-- id: s21-01-0057 -->
 
-> mais justement c’est pas fini, il peut peut-être venir autre chose ... dans l’état actuel des choses, assure la dominance de l’οψις \[opsis\][^1] dans le peu que nous en savons de ce corps, c’est-à-dire l’anatomie.
+mais justement c’est pas fini, il peut peut-être venir autre chose ... dans l’état actuel des choses, assure la dominance de l’οψις \[opsis\][^1] dans le peu que nous en savons de ce corps, c’est-à-dire l’anatomie.
 
 <!-- id: s21-01-0058 -->
 
@@ -238,11 +238,11 @@ Cette dominance de l’οψις, c’est ce qui fait que quand même qu’il y a
 
 <!-- id: s21-01-0059 -->
 
-> c’est bien le cas de le dire ... le nœud de l’affaire, à propos de ce qu’ils appellent...
+c’est bien le cas de le dire ... le nœud de l’affaire, à propos de ce qu’ils appellent...
 
 <!-- id: s21-01-0060 -->
 
-> je parle des mathématiciens, je n’en suis pas, je le regrette \[*sic*\] ... de ce qu’ils appellent « *l’espace vectoriel »*.
+je parle des mathématiciens, je n’en suis pas, je le regrette \[*sic*\] ... de ce qu’ils appellent « *l’espace vectoriel »*.
 
 <!-- id: s21-01-0061 -->
 
@@ -250,7 +250,7 @@ C’est très joli de voir comment cette affaire, qui est peut-être, enfin...
 
 <!-- id: s21-01-0062 -->
 
-> certains d’entre vous doivent en avoir entendu vaguement parler ... je peux leur affirmer en tout cas que c’est vraiment le dernier grand pas de la mathématique.
+certains d’entre vous doivent en avoir entendu vaguement parler ... je peux leur affirmer en tout cas que c’est vraiment le dernier grand pas de la mathématique.
 
 <!-- id: s21-01-0063 -->
 
@@ -270,7 +270,7 @@ Pourquoi faut-il revenir à comprendre...
 
 <!-- id: s21-01-0067 -->
 
-> on reparlera de *l’espace vectoriel*, laissez-moi simplement me contenter aujourd’hui d’une annonce ...pourquoi faut-il revenir à comprendre, c’est-à-dire à imaginer, pour savoir où appliquer l’appareil ?
+on reparlera de *l’espace vectoriel*, laissez-moi simplement me contenter aujourd’hui d’une annonce ...pourquoi faut-il revenir à comprendre, c’est-à-dire à imaginer, pour savoir où appliquer l’appareil ?
 
 <!-- id: s21-01-0068 -->
 
@@ -286,7 +286,7 @@ Enfin, c’était comme ça avant que la logique en ait pris quand même certain
 
 <!-- id: s21-01-0071 -->
 
-> de ces mathématiques modernes que l’on sait exécrables, aux dires de certains ... on peut se passer, pendant beaucoup de chapitres, de la moindre figure.
+de ces mathématiques modernes que l’on sait exécrables, aux dires de certains ... on peut se passer, pendant beaucoup de chapitres, de la moindre figure.
 
 <!-- id: s21-01-0072 -->
 
@@ -302,7 +302,7 @@ Ce n’est pas parce que la géométrie se fait dans l’espace, l’intuitif...
 
 <!-- id: s21-01-0075 -->
 
-> la géométrie des Grecs, dont on peut dire que c’était pas mal, mais enfin que ça cassait pas les manivelles ...c’est pour une autre raison qu’on y vient.
+la géométrie des Grecs, dont on peut dire que c’était pas mal, mais enfin que ça cassait pas les manivelles ...c’est pour une autre raison qu’on y vient.
 
 <!-- id: s21-01-0076 -->
 
@@ -318,11 +318,11 @@ C’est pas parce qu’il y en a 3...
 
 <!-- id: s21-01-0079 -->
 
-> ne vous y trompez pas, les coordonnées car­tésiennes relèvent de la vieille géométrie ...c’est parce que c’est un espace...
+ne vous y trompez pas, les coordonnées car­tésiennes relèvent de la vieille géométrie ...c’est parce que c’est un espace...
 
 <!-- id: s21-01-0080 -->
 
-> le mien, tel que je le définis de ces trois *dit-mensions* ...c’est un espace dont les points se déterminent tout autrement.
+le mien, tel que je le définis de ces trois *dit-mensions* ...c’est un espace dont les points se déterminent tout autrement.
 
 <!-- id: s21-01-0081 -->
 
@@ -330,11 +330,11 @@ Et c’est ce que j’ai essayé...
 
 <!-- id: s21-01-0082 -->
 
-> comme ça dépassait peut-être mes moyens, c’est peut-être ça qui m’a donné l’idée de laisser tomber la chose ... c’est une géo­métrie où les points...
+comme ça dépassait peut-être mes moyens, c’est peut-être ça qui m’a donné l’idée de laisser tomber la chose ... c’est une géo­métrie où les points...
 
 <!-- id: s21-01-0083 -->
 
-> pour ceux qui étaient là - j’espère - l’année derniè­re ... dont les points se déterminent du coinçage de ce dont vous vous souvenez peut-être que j’ai appelé « *mes ronds de ficelle* ».
+pour ceux qui étaient là - j’espère - l’année derniè­re ... dont les points se déterminent du coinçage de ce dont vous vous souvenez peut-être que j’ai appelé « *mes ronds de ficelle* ».
 
 <!-- id: s21-01-0084 -->
 
@@ -362,7 +362,7 @@ C’est peut-être s’apercevoir que rien qu’à en prendre 3 de ces ronds de 
 
 <!-- id: s21-01-0090 -->
 
-> tel que je vous l’ai expliqué, quand ils sont 3, bien que si vous en cou­piez un, les deux autres ne sont pas liés ... ils peuvent, rien que d’être trois... avant ce trois les deux restant séparés ...rien que d’être trois, se coincer de façon à être inséparables.
+tel que je vous l’ai expliqué, quand ils sont 3, bien que si vous en cou­piez un, les deux autres ne sont pas liés ... ils peuvent, rien que d’être trois... avant ce trois les deux restant séparés ...rien que d’être trois, se coincer de façon à être inséparables.
 
 <!-- id: s21-01-0091 -->
 
@@ -382,7 +382,7 @@ C’est un petit peu différent de tout ce qu’on a élucubré jusqu’ici *mor
 
 <!-- id: s21-01-0095 -->
 
-> quelque chose d’autrement *consistant* que ce vide avec lequel on opère sur l’espace ...il en faut trois, toujours, en tout cas, pour déterminer un point.
+quelque chose d’autrement *consistant* que ce vide avec lequel on opère sur l’espace ...il en faut trois, toujours, en tout cas, pour déterminer un point.
 
 <!-- id: s21-01-0096 -->
 
@@ -390,11 +390,11 @@ Je vous réexpliquerai ça mieux encore, c’est-à-dire en long et en large, ma
 
 <!-- id: s21-01-0097 -->
 
-> avec l’espace que nous habitons réellement, si l’inconscient existe ...je pars d’une autre façon de consi­dérer l’espace, et qu’en qualifiant ces trois dimensions...
+avec l’espace que nous habitons réellement, si l’inconscient existe ...je pars d’une autre façon de consi­dérer l’espace, et qu’en qualifiant ces trois dimensions...
 
 <!-- id: s21-01-0098 -->
 
-> en les épinglant des termes mêmes que j’ai paru jusqu’ici fortement différencier ...des termes de *Symbolique*, d’*Imaginaire* et de *Réel*, ce que je suis en train d’avancer c’est qu’on peut les faire strictement *équivalents*.
+en les épinglant des termes mêmes que j’ai paru jusqu’ici fortement différencier ...des termes de *Symbolique*, d’*Imaginaire* et de *Réel*, ce que je suis en train d’avancer c’est qu’on peut les faire strictement *équivalents*.
 
 <!-- id: s21-01-0099 -->
 
@@ -402,9 +402,9 @@ C’est une question que se pose Freud, à la fin de *La science des rêves,* à
 
 <!-- id: s21-01-0100 -->
 
-> et on voit bien qu’il ne l’appelle plus avec tellement de certitude,
->
-> qu’il ne l’épingle plus de quelque chose qui la séparerait ... ce qu’il appelle « *réalité »*, qu’il qualifie de « *psychique »* : qu’est-ce que ça peut avoir à faire avec le *réel* ?
+et on voit bien qu’il ne l’appelle plus avec tellement de certitude,
+
+qu’il ne l’épingle plus de quelque chose qui la séparerait ... ce qu’il appelle « *réalité »*, qu’il qualifie de « *psychique »* : qu’est-ce que ça peut avoir à faire avec le *réel* ?
 
 <!-- id: s21-01-0101 -->
 
@@ -416,7 +416,7 @@ Nous allons donc essayer de les distinguer, de gar­der encore une ombre de dist
 
 <!-- id: s21-01-0103 -->
 
-> notre espace habité en tant qu’êtres parlants ...ces 3 catégories sont strictement équivalentes.
+notre espace habité en tant qu’êtres parlants ...ces 3 catégories sont strictement équivalentes.
 
 <!-- id: s21-01-0104 -->
 
@@ -432,11 +432,11 @@ Si j’écris R.I.S*., Réel, Imaginaire, Symbolique*, ou mieux : *Réel, Symbol
 
 <!-- id: s21-01-0107 -->
 
-> vous verrez tout à l’heure pour­quoi je corrige ... vous les écrivez en lettres majuscules, vous ne pouvez pas faire autrement, et ils restent pour vous comme ça, adhérant en quelque sorte à la chose...
+vous verrez tout à l’heure pour­quoi je corrige ... vous les écrivez en lettres majuscules, vous ne pouvez pas faire autrement, et ils restent pour vous comme ça, adhérant en quelque sorte à la chose...
 
 <!-- id: s21-01-0108 -->
 
-> simplement question d’écriture ... que c’est tout à fait hétérogène.
+simplement question d’écriture ... que c’est tout à fait hétérogène.
 
 <!-- id: s21-01-0109 -->
 
@@ -444,7 +444,7 @@ Vous allez continuer comme ça parce que vous avez toujours compris...
 
 <!-- id: s21-01-0110 -->
 
-> vous avez toujours compris, mais à tort ! ... que le progrès, le pas en avant c’était d’avoir marqué l’importance écrasante du « *Symbolique* » au regard de ce malheureux « *Imaginaire »* par lequel j’ai com­mencé, j’ai commencé en tirant dessus à balles, sous le prétexte du narcissisme.
+vous avez toujours compris, mais à tort ! ... que le progrès, le pas en avant c’était d’avoir marqué l’importance écrasante du « *Symbolique* » au regard de ce malheureux « *Imaginaire »* par lequel j’ai com­mencé, j’ai commencé en tirant dessus à balles, sous le prétexte du narcissisme.
 
 <!-- id: s21-01-0111 -->
 
@@ -464,7 +464,7 @@ Et c’est bien pour ça que c’est tout autre chose si ce même R.S.I. vous pr
 
 <!-- id: s21-01-0115 -->
 
-> vous voyez là où gît l’astuce ...de les écrire *a,b,c* : là tout le monde sent que tout au moins ça les rapproche, un *a* vaut un *b*, un *b* vaut un *c*, et ça tourne en rond comme ça. C’est même là-des­sus qu’est fondée la combinatoire.
+vous voyez là où gît l’astuce ...de les écrire *a,b,c* : là tout le monde sent que tout au moins ça les rapproche, un *a* vaut un *b*, un *b* vaut un *c*, et ça tourne en rond comme ça. C’est même là-des­sus qu’est fondée la combinatoire.
 
 <!-- id: s21-01-0116 -->
 
@@ -480,7 +480,7 @@ Seulement, si pour vous soumettre à une conception de l’espace où le point s
 
 <!-- id: s21-01-0119 -->
 
-> pardonnez-moi aujourd’hui de ne pas écrire bien tout ça, en figures, au tableau, je le ferai dans la suite ...vous vous apercevez que c’est pas en raison d’une scansion qui va du meilleur au pire : du *Réel* à l’*Imaginaire*, en mettant au milieu le *Symbolique*, c’est pas en raison d’une préférence quelconque, que vous devez vous apercevoir qu’à prendre les choses par le coinçage, autrement dit par le nœud borro­méen :
+pardonnez-moi aujourd’hui de ne pas écrire bien tout ça, en figures, au tableau, je le ferai dans la suite ...vous vous apercevez que c’est pas en raison d’une scansion qui va du meilleur au pire : du *Réel* à l’*Imaginaire*, en mettant au milieu le *Symbolique*, c’est pas en raison d’une préférence quelconque, que vous devez vous apercevoir qu’à prendre les choses par le coinçage, autrement dit par le nœud borro­méen :
 
 <!-- id: s21-01-0120 -->
 
@@ -536,11 +536,11 @@ Et ça nous met - nous analystes - du même côté, du côté *lévogyre*, par q
 
 <!-- id: s21-01-0133 -->
 
-> je le professe depuis toujours ...c’est de là que se fraye la linguistique. C’est-à-dire que c’est à étendre le procédé mathématique...
+je le professe depuis toujours ...c’est de là que se fraye la linguistique. C’est-à-dire que c’est à étendre le procédé mathématique...
 
 <!-- id: s21-01-0134 -->
 
-> qui consiste à s’apercevoir de ce qu’il y a de *Réel* dans le *Symbolique*, ...que c’est par là qu’est pour nous dessiné un nouveau passage.
+qui consiste à s’apercevoir de ce qu’il y a de *Réel* dans le *Symbolique*, ...que c’est par là qu’est pour nous dessiné un nouveau passage.
 
 <!-- id: s21-01-0135 -->
 
@@ -580,13 +580,13 @@ Si la dupe est vraiment ce qu’on nous dit...
 
 <!-- id: s21-01-0144 -->
 
-> je parle étymologiquement, ça n’a aucune importance ...si la dupe c’est cet oiseau qu’on appelle la huppe...
+je parle étymologiquement, ça n’a aucune importance ...si la dupe c’est cet oiseau qu’on appelle la huppe...
 
 <!-- id: s21-01-0145 -->
 
-> la huppe parce qu’elle est huppée, naturellement rien ne justifie que huppée ça se dise la huppe,
->
-> il n’en reste pas moins que c’est comme ça qu’elle est appréciée dans le dictionnaire ...la dupe, c’est l’oiseau, paraît-il, qu’on prend au piège, justement de ce qu’elle soit stupide.
+la huppe parce qu’elle est huppée, naturellement rien ne justifie que huppée ça se dise la huppe,
+
+il n’en reste pas moins que c’est comme ça qu’elle est appréciée dans le dictionnaire ...la dupe, c’est l’oiseau, paraît-il, qu’on prend au piège, justement de ce qu’elle soit stupide.
 
 <!-- id: s21-01-0146 -->
 
@@ -626,17 +626,21 @@ Et il y a quelque chose, enfin, qui est encore plus drôle, que j’ai...
 
 <!-- id: s21-01-0155 -->
 
-> je ne peux pas dire que je l’ai trouvé dans Chamfort ...je l’ai trouvé aussi dans le dictionnaire, dans un autre, cette citation de Chamfort...
+je ne peux pas dire que je l’ai trouvé dans Chamfort ...je l’ai trouvé aussi dans le dictionnaire, dans un autre, cette citation de Chamfort...
 
 <!-- id: s21-01-0156 -->
 
-> parce que je passe pas mon temps à lire Chamfort, mais c’est quand même pas mal, ...enfin, que ce soit au mot « *dupe* » que j’ai relevé ceci :
+parce que je passe pas mon temps à lire Chamfort, mais c’est quand même pas mal, ...enfin, que ce soit au mot « *dupe* » que j’ai relevé ceci :
 
 <!-- id: s21-01-0157 -->
 
-> « *Une des meilleures raison* *qu’on puisse avoir de ne se marier jamais,*
->
-> *c’est qu’on n’est pas tout à fait la dupe d’une femme tant qu’elle n’est pas la vôtre* ».
+<div class="text-quotation">
+
+« *Une des meilleures raison* *qu’on puisse avoir de ne se marier jamais,*
+
+*c’est qu’on n’est pas tout à fait la dupe d’une femme tant qu’elle n’est pas la vôtre* ».
+
+</div>
 
 <!-- id: s21-01-0158 -->
 
@@ -660,7 +664,7 @@ Alors, si le mariage l’est à ce point-là - c’est pas sûr, hein ! - enfin,
 
 <!-- id: s21-01-0163 -->
 
-> c’est ce que veut dire Chamfort aussi, sans doute ...une femme ne se trompe jamais... dans le mariage, en tout cas.
+c’est ce que veut dire Chamfort aussi, sans doute ...une femme ne se trompe jamais... dans le mariage, en tout cas.
 
 <!-- id: s21-01-0164 -->
 
@@ -684,13 +688,13 @@ Je vous ai déjà tout à l’heure un petit peu indiqué qu’*errer*...
 
 <!-- id: s21-01-0169 -->
 
-> enfin, vous allez quand même vous reporter au dictionnaire Bloch et von Wartburg, parce que je ne vais pas passer mon temps à vous faire de l’étymologie, n’est-ce pas, sachez simplement qu’il y a quelque chose que l’étymologie...
->
-> ce qui veut dire simplement pointer l’usage au cours des temps
->
-> ...que l’étymologie rend parfaitement manifeste, c’est qu’exactement comme dans mon titre *les Non-dupes errent*
->
-> et *les Noms du père*, c’est exactement la même chose pour le mot *erre*, ou plus exactement pour le mot *errer* ...*errer* résulte de la convergence
+enfin, vous allez quand même vous reporter au dictionnaire Bloch et von Wartburg, parce que je ne vais pas passer mon temps à vous faire de l’étymologie, n’est-ce pas, sachez simplement qu’il y a quelque chose que l’étymologie...
+
+ce qui veut dire simplement pointer l’usage au cours des temps
+
+...que l’étymologie rend parfaitement manifeste, c’est qu’exactement comme dans mon titre *les Non-dupes errent*
+
+et *les Noms du père*, c’est exactement la même chose pour le mot *erre*, ou plus exactement pour le mot *errer* ...*errer* résulte de la convergence
 
 <!-- id: s21-01-0170 -->
 
@@ -766,7 +770,11 @@ C’est-à-dire, nous dire :
 
 <!-- id: s21-01-0188 -->
 
-> « *et la valeur du rêve pour la connaissance de ce qui va en résulter dans le monde, de la découverte de l’inconscient* »
+<div class="text-quotation">
+
+« *et la valeur du rêve pour la connaissance de ce qui va en résulter dans le monde, de la découverte de l’inconscient* »
+
+</div>
 
 <!-- id: s21-01-0189 -->
 
@@ -814,7 +822,7 @@ Ceux qui ne sont pas dupes de l’inconscient, c’est-à-dire qui ne font pas t
 
 <!-- id: s21-01-0200 -->
 
-> dans toute une étape de la logique, celle dont après-coup, bien sûr, et avec je ne sais quelles conséquences, ...sont apparues ces choses, dont on ne voit même pas à quel point c’est un paradoxe : *tous les hommes sont mortels*.
+dans toute une étape de la logique, celle dont après-coup, bien sûr, et avec je ne sais quelles conséquences, ...sont apparues ces choses, dont on ne voit même pas à quel point c’est un paradoxe : *tous les hommes sont mortels*.
 
 <!-- id: s21-01-0201 -->
 
@@ -862,7 +870,11 @@ Je sais bien que « *la Voie* » ...
 
 <!-- id: s21-01-0212 -->
 
-> « *la Voie* » dont il s’agit : le *Taô* ...elle s’imagine être dans la structure.
+<div class="text-quotation">
+
+« *la Voie* » dont il s’agit : le *Taô* ...elle s’imagine être dans la structure.
+
+</div>
 
 <!-- id: s21-01-0213 -->
 
@@ -886,7 +898,7 @@ Mais nous n’al­lons pas, comme ça, après ce que je vous en ai dit...
 
 <!-- id: s21-01-0218 -->
 
-> et combien de fois, et y revenant et y retournant ...nous mettre à y coller, sans savoir que *c’est un choix*, puis­qu’elle ne peut que se *mi-dire*.
+et combien de fois, et y revenant et y retournant ...nous mettre à y coller, sans savoir que *c’est un choix*, puis­qu’elle ne peut que se *mi-dire*.
 
 <!-- id: s21-01-0219 -->
 
@@ -906,7 +918,7 @@ Je voudrais pas compromettre Dieu, trop, dans cette affaire...
 
 <!-- id: s21-01-0223 -->
 
-> chacun sait que je considère que il est plutôt de l’ordre du super-chéri \[*Rires*\] ...alors pourquoi est-ce qu’il dirait toujours *la vérité*, alors que ça va aussi bien s’il est totalement trompeur, hein ?
+chacun sait que je considère que il est plutôt de l’ordre du super-chéri \[*Rires*\] ...alors pourquoi est-ce qu’il dirait toujours *la vérité*, alors que ça va aussi bien s’il est totalement trompeur, hein ?
 
 <!-- id: s21-01-0224 -->
 

@@ -35,13 +35,13 @@ je dois commencer, avant d’ouvrir ce qui se pré­sente donc comme une nouvell
 
 <!-- id: s11-01-0006 -->
 
-> M. BRAUDEL, empêché, m’a dit son regret de ne pouvoir être présent au moment où aujourd’hui je lui rends *cet hom­mage*
-> …ainsi que ce que j’appellerai *la noblesse* avec laquelle en cette occasion, il a voulu parer à *la situation de défaut* où j’étais…
+M. BRAUDEL, empêché, m’a dit son regret de ne pouvoir être présent au moment où aujourd’hui je lui rends *cet hom­mage*
+…ainsi que ce que j’appellerai *la noblesse* avec laquelle en cette occasion, il a voulu parer à *la situation de défaut* où j’étais…
 
 <!-- id: s11-01-0007 -->
 
-> pour un ensei­gnement dont, en somme, ne lui était parvenu rien d’autre que le style et la réputation
-> …pour que je ne sois pas purement et simplement *réduit au silence*.
+pour un ensei­gnement dont, en somme, ne lui était parvenu rien d’autre que le style et la réputation
+…pour que je ne sois pas purement et simplement *réduit au silence*.
 
 <!-- id: s11-01-0008 -->
 
@@ -116,8 +116,8 @@ qui s’appelle le *Comité exécutif* de cette organisation interna­tionale qu
 
 <!-- id: s11-01-0022 -->
 
-> qui doit être considéré *comme nul* en tout ce qui peut en venir *quant à l’habilitation au registre de cette société d’un psychanalyste*
-> ...à faire de cette proscription, la condition d’affiliation de la société à laquelle j’appartiens.
+qui doit être considéré *comme nul* en tout ce qui peut en venir *quant à l’habilitation au registre de cette société d’un psychanalyste*
+...à faire de cette proscription, la condition d’affiliation de la société à laquelle j’appartiens.
 
 <!-- id: s11-01-0023 -->
 
@@ -132,10 +132,10 @@ Elle n’existe sous cette forme que dans une communauté religieuse désignée 
 
 <!-- id: s11-01-0025 -->
 
-> singulier bicentenaire, puisqu’il correspond à celui de FREUD \[né le 6 Mai 1856\]
-> …le 27 juillet 1656, SPINOZA fut l’objet du חרם \[herem\]*, excommunication qui répond bien à cette excommunication majeure*.
-> Il attendit quelque temps pour être l’objet du *Chammata,* lequel consiste à y ajouter
-> cette condition de *l’impossibilité d’un retour*.
+singulier bicentenaire, puisqu’il correspond à celui de FREUD \[né le 6 Mai 1856\]
+…le 27 juillet 1656, SPINOZA fut l’objet du חרם \[herem\]*, excommunication qui répond bien à cette excommunication majeure*.
+Il attendit quelque temps pour être l’objet du *Chammata,* lequel consiste à y ajouter
+cette condition de *l’impossibilité d’un retour*.
 
 <!-- id: s11-01-0026 -->
 
@@ -144,8 +144,8 @@ Ne croyez pas, là non plus, qu’il s’agisse d’un jeu métaphorique, qu’i
 
 <!-- id: s11-01-0027 -->
 
-> non seulement par les échos qu’il évoque, mais par la structure qu’il implique
-> …il introduit quelque chose qui serait au principe de notre interrogation concernant *la praxis psychanalytique.*
+non seulement par les échos qu’il évoque, mais par la structure qu’il implique
+…il introduit quelque chose qui serait au principe de notre interrogation concernant *la praxis psychanalytique.*
 
 <!-- id: s11-01-0028 -->
 
@@ -166,8 +166,8 @@ pas plus que pour l’intercesseur…
 
 <!-- id: s11-01-0031 -->
 
-> dont je n’ai pas hésité à l’instant à évoquer ce en quoi il peut servir en une telle occasion, de référence, voire de précédent
-> …pas plus pour moi que - je le suppose - pour lui, ce n’est là *matière à comédie*, au sens de *matière à rire*.
+dont je n’ai pas hésité à l’instant à évoquer ce en quoi il peut servir en une telle occasion, de référence, voire de précédent
+…pas plus pour moi que - je le suppose - pour lui, ce n’est là *matière à comédie*, au sens de *matière à rire*.
 
 <!-- id: s11-01-0032 -->
 
@@ -177,9 +177,9 @@ Elle appartenait plutôt au fait qui fut le mien pendant deux ans, de savoir que
 
 <!-- id: s11-01-0033 -->
 
-> et très exactement par ceux-là qui étaient à mon endroit, dans la position de *collègues*, voire d’*élèves*
-> ...dans la position d’être ce qu’on appelle « *négocié* ». Car ce dont il s’agit, c’était de savoir dans quelle mesure les concessions faites
-> au sujet de la valeur habilitante de mon enseignement pouvaient être mises en balance avec ce qu’il s’agissait d’obtenir d’autre part : *l’habilitation de cette société.*
+et très exactement par ceux-là qui étaient à mon endroit, dans la position de *collègues*, voire d’*élèves*
+...dans la position d’être ce qu’on appelle « *négocié* ». Car ce dont il s’agit, c’était de savoir dans quelle mesure les concessions faites
+au sujet de la valeur habilitante de mon enseignement pouvaient être mises en balance avec ce qu’il s’agissait d’obtenir d’autre part : *l’habilitation de cette société.*
 
 <!-- id: s11-01-0034 -->
 
@@ -187,8 +187,8 @@ Je ne veux pas laisser passer cette occasion...
 
 <!-- id: s11-01-0035 -->
 
-> dans la même perspective que je vous ai dite tout à l’heure, à savoir de ce que nous pouvons en retrouver dans la suite
-> ...l’occasion de pointer - nous le retrouverons - que c’est là, à proprement parler, quelque chose qui peut être vécu, quand on y est, dans *la dimension du comique*. *Je crois néanmoins que ce n’est peut-être saisi pleinement que par un psychanalyste*.
+dans la même perspective que je vous ai dite tout à l’heure, à savoir de ce que nous pouvons en retrouver dans la suite
+...l’occasion de pointer - nous le retrouverons - que c’est là, à proprement parler, quelque chose qui peut être vécu, quand on y est, dans *la dimension du comique*. *Je crois néanmoins que ce n’est peut-être saisi pleinement que par un psychanalyste*.
 
 <!-- id: s11-01-0036 -->
 
@@ -239,10 +239,10 @@ et d’une façon plus précise concernant ce fait qui s’appelle *la psychanal
 
 <!-- id: s11-01-0044 -->
 
-> cette *praxis* ou cette étape de la *praxis* qui est laissée par ce qui se publie - tant à l’intérieur que, bien entendu,
->
-> *a fortiori*, à l’extérieur de la psychanalyse - complète­ment dans l’ombre
-> …d’apporter justement quelque lumière concernant ses buts, ses limites, ses effets.
+cette *praxis* ou cette étape de la *praxis* qui est laissée par ce qui se publie - tant à l’intérieur que, bien entendu,
+
+*a fortiori*, à l’extérieur de la psychanalyse - complète­ment dans l’ombre
+…d’apporter justement quelque lumière concernant ses buts, ses limites, ses effets.
 
 <!-- id: s11-01-0045 -->
 
@@ -286,11 +286,11 @@ Ce que nous pouvons attendre d’un tel discours n’est pas seulement de classe
 
 <!-- id: s11-01-0053 -->
 
-> qui a bien pour nous sa valeur authen­tique, parfaitement reconnaissable,
->
-> nous savons où nous sommes : *il y a assez de psychanalystes dans cette assemblée pour me servir ici de contrôle*
-> …mais que, assurément par ce en quoi elle nous permet de poser cette question, *cette psychanalyse* - qu’elle soit digne ou non
-> de s’inscrire à l’un des *deux registres - peut même nous éclairer sur ce que nous devons entendre* par *« une science »*, voire par *« une religion »*.
+qui a bien pour nous sa valeur authen­tique, parfaitement reconnaissable,
+
+nous savons où nous sommes : *il y a assez de psychanalystes dans cette assemblée pour me servir ici de contrôle*
+…mais que, assurément par ce en quoi elle nous permet de poser cette question, *cette psychanalyse* - qu’elle soit digne ou non
+de s’inscrire à l’un des *deux registres - peut même nous éclairer sur ce que nous devons entendre* par *« une science »*, voire par *« une religion »*.
 
 <!-- id: s11-01-0054 -->
 
@@ -299,10 +299,10 @@ on va me dire : « *De toute façon, c’est une recherche* ». Eh bien là, per
 
 <!-- id: s11-01-0055 -->
 
-> et même après tout m’adressant un tant soit peu aux *pouvoirs publics* pour qui ce terme de « *recherche* »
->
-> depuis quelque temps, semble servir de *schibbolet* [^3] pour pas mal de choses
-> …le terme de « *recherche* » je m’en méfie.
+et même après tout m’adressant un tant soit peu aux *pouvoirs publics* pour qui ce terme de « *recherche* »
+
+depuis quelque temps, semble servir de *schibbolet* [^3] pour pas mal de choses
+…le terme de « *recherche* » je m’en méfie.
 
 <!-- id: s11-01-0056 -->
 
@@ -501,11 +501,11 @@ Que pour guérir *l’hystérique* de tous ses symptômes, la meilleure façon s
 
 <!-- id: s11-01-0095 -->
 
-> *qui est, pour nous, à nos regards, elle l’hystérique, de poser son désir comme désir insatisfait*
-> …lais­se entièrement hors du champ la question spécifique de ce pourquoi *elle ne peut soutenir son désir que comme désir insatisfait*,
-> de sorte que *l’hystérie*, dirais-je, nous met sur la trace d’un certain péché originel de l’analyse. Il faut bien qu’il y en ait un.
-> Le vrai n’est peut-être qu’une seule chose : c’est *le désir* de FREUD lui-même, à savoir le fait que quelque chose, dans FREUD,
-> n’a jamais été analysé.
+*qui est, pour nous, à nos regards, elle l’hystérique, de poser son désir comme désir insatisfait*
+…lais­se entièrement hors du champ la question spécifique de ce pourquoi *elle ne peut soutenir son désir que comme désir insatisfait*,
+de sorte que *l’hystérie*, dirais-je, nous met sur la trace d’un certain péché originel de l’analyse. Il faut bien qu’il y en ait un.
+Le vrai n’est peut-être qu’une seule chose : c’est *le désir* de FREUD lui-même, à savoir le fait que quelque chose, dans FREUD,
+n’a jamais été analysé.
 
 <!-- id: s11-01-0096 -->
 

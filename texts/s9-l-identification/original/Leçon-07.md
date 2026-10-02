@@ -66,9 +66,9 @@ Vous savez que, plus haut encore, j’ai fait allusion à ces fameux cailloux du
 
 <!-- id: s9-07-0016 -->
 
-> au point qu’à la fin du paléolithique un stade est désigné du terme d’« *azilien* », du fait qu’il se rap­porte
->
-> à ce que nous pouvons en définir le point d’évolution technique, à la fin de ce paléolithique, dans la période non pas à proprement parler transitionnelle, mais pré-transitionnelle du paléo au néolithique ...sur ces cailloux du Mas d’Azil nous retrouvons des *signes* analogues dont l’étrangeté frappante, à ressembler de si près aux *signes* de notre alphabet, a pu égarer - vous le savez - des esprits qui n’étaient pas spécialement médiocres, à toutes sortes de spéculations qui ne pou­vaient conduire qu’à la confusion, voire au ridicule. Il reste néanmoins que la présence de ces éléments est là pour nous faire tou­cher du doigt quelque chose qui se propose comme radical dans ce que nous pouvons appeler l’attache du langage au réel.
+au point qu’à la fin du paléolithique un stade est désigné du terme d’« *azilien* », du fait qu’il se rap­porte
+
+à ce que nous pouvons en définir le point d’évolution technique, à la fin de ce paléolithique, dans la période non pas à proprement parler transitionnelle, mais pré-transitionnelle du paléo au néolithique ...sur ces cailloux du Mas d’Azil nous retrouvons des *signes* analogues dont l’étrangeté frappante, à ressembler de si près aux *signes* de notre alphabet, a pu égarer - vous le savez - des esprits qui n’étaient pas spécialement médiocres, à toutes sortes de spéculations qui ne pou­vaient conduire qu’à la confusion, voire au ridicule. Il reste néanmoins que la présence de ces éléments est là pour nous faire tou­cher du doigt quelque chose qui se propose comme radical dans ce que nous pouvons appeler l’attache du langage au réel.
 
 <!-- id: s9-07-0017 -->
 
@@ -145,9 +145,9 @@ Si, faisant du *signifiant* quelque chose de tout autre...
 
 <!-- id: s9-07-0035 -->
 
-> quelque chose dont la genèse est problématique, nous porte au niveau *d’une interrogation sur*
->
-> *un cer­tain rapport existentiel*, celle qui comme telle déjà se situe dans une référence à *la négativité*
+quelque chose dont la genèse est problématique, nous porte au niveau *d’une interrogation sur*
+
+*un cer­tain rapport existentiel*, celle qui comme telle déjà se situe dans une référence à *la négativité*
 
 <!-- id: s9-07-0036 -->
 
@@ -319,7 +319,7 @@ Il y a quelque chose d’analogue ici. Ce n’est pas indéfiniment qu’on peut
 
 <!-- id: s9-07-0078 -->
 
-> à savoir la même chose, l’inconnu \[*i*\] de ce qui est à l’origine sous la forme du sujet.
+à savoir la même chose, l’inconnu \[*i*\] de ce qui est à l’origine sous la forme du sujet.
 
 <!-- id: s9-07-0079 -->
 
@@ -427,7 +427,7 @@ Vous retrouverez périodiquement, c’est-à-dire *toutes les trois fois* dans l
 
 <!-- id: s9-07-0105 -->
 
-> à savoir que si c’est au troisième temps - chose curieuse, temps vers lequel aucune méditation philosophique ne nous a poussés à spécialement nous arrê­ter, c’est-à-dire au temps du « *je pense* », en tant qu’il est lui–même objet de pen­sée et qu’il se prend comme objet - si c’est à ce moment-là que nous semblons arriver à atteindre cette fameuse *unité*, dont le caractère satisfaisant pour définir quoi que ce soit n’est assurément pas douteux, mais dont nous pouvons nous demander si c’est bien de la même unité qu’il s’agit que de celle dont il s’agissait au départ, à savoir dans *l’identification primordiale* et déclenchante.
+à savoir que si c’est au troisième temps - chose curieuse, temps vers lequel aucune méditation philosophique ne nous a poussés à spécialement nous arrê­ter, c’est-à-dire au temps du « *je pense* », en tant qu’il est lui–même objet de pen­sée et qu’il se prend comme objet - si c’est à ce moment-là que nous semblons arriver à atteindre cette fameuse *unité*, dont le caractère satisfaisant pour définir quoi que ce soit n’est assurément pas douteux, mais dont nous pouvons nous demander si c’est bien de la même unité qu’il s’agit que de celle dont il s’agissait au départ, à savoir dans *l’identification primordiale* et déclenchante.
 
 <!-- id: s9-07-0106 -->
 

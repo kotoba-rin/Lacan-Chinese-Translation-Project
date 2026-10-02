@@ -78,9 +78,13 @@ max_segment_id: 103
 
 <!-- id: s4-18-0017 -->
 
-> “*我们由此得知，这场恐怖症其实何等弥散。它指向马，也指向车；指向马倒下，也指向马咬人；指向具有某些特殊性质的马，也指向载重或没有载重的车……不妨直说：所有这些特征之所以触及要害，是因为焦虑最初同马或恶马毫无关系；它后来才被转置到马的恐怖症上，并固定在并非单独的马、而是马之情结中那些适合某些移情的位置。*”[注1]
->
-> ［*Wir erfahren so, wie diffus sie eigentlich ist. Sie geht auf Pferde und auf Wagen, darauf, daß Pferde fallen, und daß sie beißen, auf Pferde besonderer Beschaffenheit, auf Wagen, die schwer beladen sind. Verraten wir gleich, daß alle diese Eigentümlichkeiten daher rühren, daß die Angst ursprünglich gar nicht den Pferden galt, sondern sekundär auf sie transponiert wurde und sich nun an den Stellen des Pferdekomplexes fixierte, die sich zu gewissen Übertragungen geeignet zeigten.*］
+<div class="text-quotation">
+
+“*我们由此得知，这场恐怖症其实何等弥散。它指向马，也指向车；指向马倒下，也指向马咬人；指向具有某些特殊性质的马，也指向载重或没有载重的车……不妨直说：所有这些特征之所以触及要害，是因为焦虑最初同马或恶马毫无关系；它后来才被转置到马的恐怖症上，并固定在并非单独的马、而是马之情结中那些适合某些移情的位置。*”[注1]
+
+［*Wir erfahren so, wie diffus sie eigentlich ist. Sie geht auf Pferde und auf Wagen, darauf, daß Pferde fallen, und daß sie beißen, auf Pferde besonderer Beschaffenheit, auf Wagen, die schwer beladen sind. Verraten wir gleich, daß alle diese Eigentümlichkeiten daher rühren, daß die Angst ursprünglich gar nicht den Pferden galt, sondern sekundär auf sie transponiert wurde und sich nun an den Stellen des Pferdekomplexes fixierte, die sich zu gewissen Übertragungen geeignet zeigten.*］
+
+</div>
 
 > [注1] 引自弗洛伊德《五个精神分析案例》，法国大学出版社，1954 年。原书法译大意为：“由此我们得以看出，它实际上何等弥散。它指向马与车，指向马倒下、咬人，指向某类特殊的马，也指向载重的车。我们现在即可揭示：所有这些特征都源于焦虑最初同马毫无关系；焦虑后来才被转置到马身上，并固定在马之情结中适合某些移情的要素上。”
 
@@ -402,9 +406,13 @@ max_segment_id: 103
 
 <!-- id: s4-18-0096 -->
 
-> “*我必须说明，汉斯不是说自己当时才染上蠢念头，而是说这一切同蠢念头相联。事情必然如此，因为理论要求：今天成为恐怖症对象的东西，以前必曾是强烈快感的对象。这里，我替儿童补上他自己无法表达的内容：‘因为’（wegen）这个小词，为恐怖症从马扩展到‘车’（Wagen；依汉斯习惯听到和说出的形式则是 Wägen）开辟了道路。绝不能忘记，儿童对待词语远比成人具体；因此，语词之间的同音对他具有完全不同的重要性。*”
->
-> ［德语原句中的 *wegen dem Pferd* 意为“因为马”；其中 *wegen/Wägen* 构成谐音，并同 *Wagen*“车”相连。法译为了重现文字游戏，把它转写成 *vois-tu le cheval*，即“你看见马吗”。——法译者注，法国大学出版社，1954 年］
+<div class="text-quotation">
+
+“*我必须说明，汉斯不是说自己当时才染上蠢念头，而是说这一切同蠢念头相联。事情必然如此，因为理论要求：今天成为恐怖症对象的东西，以前必曾是强烈快感的对象。这里，我替儿童补上他自己无法表达的内容：‘因为’（wegen）这个小词，为恐怖症从马扩展到‘车’（Wagen；依汉斯习惯听到和说出的形式则是 Wägen）开辟了道路。绝不能忘记，儿童对待词语远比成人具体；因此，语词之间的同音对他具有完全不同的重要性。*”
+
+［德语原句中的 *wegen dem Pferd* 意为“因为马”；其中 *wegen/Wägen* 构成谐音，并同 *Wagen*“车”相连。法译为了重现文字游戏，把它转写成 *vois-tu le cheval*，即“你看见马吗”。——法译者注，法国大学出版社，1954 年］
+
+</div>
 
 <!-- id: s4-18-0097 -->
 

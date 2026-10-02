@@ -78,8 +78,8 @@ dite des α, β, γ, δ, dont vous avez un exposé[^2] qui, malgré les critiqu
 
 <!-- id: s5-01-0013 -->
 
-> certaines motivées : il y a deux petits manques qu’il conviendrait de corriger dans une édition ultérieure
-> …me semble être *un résumé sommaire sur le sujet de cette syntaxe*, qui doit pouvoir encore et pour longtemps, vous servir.
+certaines motivées : il y a deux petits manques qu’il conviendrait de corriger dans une édition ultérieure
+…me semble être *un résumé sommaire sur le sujet de cette syntaxe*, qui doit pouvoir encore et pour longtemps, vous servir.
 
 <!-- id: s5-01-0014 -->
 

@@ -154,17 +154,21 @@ Ce que je suis en train de montrer, à travers l’énoncé de propos qui sont t
 
 <!-- id: s7-18-0038 -->
 
-> « *Point de destruction -* dit-il *- point de nourriture à la terre et, par conséquent plus de possibilité à l’homme de pouvoir se reproduire - ce serait dans le cas où il s’harmoniserait fort bien dans le règne de la Nature. Fatale vérité sans doute, puisqu’elle prouve*
->
-> *d’une manière invisible que les vices et les vertus de notre système social ne sont rien et que les vices mêmes sont plus nécessaires que les vertus puisqu’ils sont créateurs, et que les vertus ne sont que créées, ou, si vous l’aimez mieux, qu’ils sont causes et que les vertus ne sont qu’effets* \[...\] *qu’une trop parfaite harmonie aurait encore plus d’inconvénients que le désordre; et que si la guerre, la discorde et les crimes venaient à être bannis de dessus la terre, l’empire des trois règnes devenu trop violent alors, détruirait à son tour toutes les autres lois de la nature. Les corps célestes s’arrêteraient tous, les influences seraient suspendues par le trop grand empire de l’une d’elles; il n’y aurait plus ni gravitation, ni mouvement. Ce sont donc les crimes de l’homme qui, portant du trouble dans l’influence des trois règnes, empêchent cette influence de parvenir à un point de supériorité qui troublerait toutes les autres, en maintenant*
->
-> *dans l’univers ce parfait équilibre qu’Horace appelait rerum concordia discors. Le crime est donc nécessaire dans le monde.*
->
-> *Mais les plus utiles, sans doute, sont ceux qui troublent le plus, tels que le refus de la propagation, ou la destruction; tous les autres sont nuls, ou plutôt il n’est que ces deux-là qui puissent mériter le nom de crimes: et voilà donc ces crimes essentiels aux lois*
->
-> *des règnes, et… aux lois de la nature.Un philosophe ancien appelait la guerre la mère de toutes choses.*
->
-> *L’existence des meurtriers est aussi nécessaire que ce fléau : sans eux, tout serait troublé dans l’univers...* ».
+<div class="text-quotation">
+
+« *Point de destruction -* dit-il *- point de nourriture à la terre et, par conséquent plus de possibilité à l’homme de pouvoir se reproduire - ce serait dans le cas où il s’harmoniserait fort bien dans le règne de la Nature. Fatale vérité sans doute, puisqu’elle prouve*
+
+*d’une manière invisible que les vices et les vertus de notre système social ne sont rien et que les vices mêmes sont plus nécessaires que les vertus puisqu’ils sont créateurs, et que les vertus ne sont que créées, ou, si vous l’aimez mieux, qu’ils sont causes et que les vertus ne sont qu’effets* \[...\] *qu’une trop parfaite harmonie aurait encore plus d’inconvénients que le désordre; et que si la guerre, la discorde et les crimes venaient à être bannis de dessus la terre, l’empire des trois règnes devenu trop violent alors, détruirait à son tour toutes les autres lois de la nature. Les corps célestes s’arrêteraient tous, les influences seraient suspendues par le trop grand empire de l’une d’elles; il n’y aurait plus ni gravitation, ni mouvement. Ce sont donc les crimes de l’homme qui, portant du trouble dans l’influence des trois règnes, empêchent cette influence de parvenir à un point de supériorité qui troublerait toutes les autres, en maintenant*
+
+*dans l’univers ce parfait équilibre qu’Horace appelait rerum concordia discors. Le crime est donc nécessaire dans le monde.*
+
+*Mais les plus utiles, sans doute, sont ceux qui troublent le plus, tels que le refus de la propagation, ou la destruction; tous les autres sont nuls, ou plutôt il n’est que ces deux-là qui puissent mériter le nom de crimes: et voilà donc ces crimes essentiels aux lois*
+
+*des règnes, et… aux lois de la nature.Un philosophe ancien appelait la guerre la mère de toutes choses.*
+
+*L’existence des meurtriers est aussi nécessaire que ce fléau : sans eux, tout serait troublé dans l’univers...* ».
+
+</div>
 
 <!-- id: s7-18-0039 -->
 
@@ -172,9 +176,13 @@ Et ceci continue :
 
 <!-- id: s7-18-0040 -->
 
-> « ...*cette dissolution sert à la nature, puisque ce sont de ces parties détruites qu’elle recompose. Donc, tout changement opéré par l’homme, sur cette matière organisée sert la nature bien plus qu’il ne la contrarie. Que dis-je, hélas ! Pour la servir, il faudrait des destructions bien plus entières* \[...\] *bien plus complètes que celles que nous pouvons opérer; c’est l’atrocité, c’est l’étendue qu’elle veut dans les crimes, plus nos destructions seront de cette espèce, plus elles lui seront agréables. Il faudrait, pour la mieux servir encore, pouvoir s’opposer à la régénération résultant du cadavre que nous enterrons. Le meurtre n’ôte que la première vie à l’individu que nous frappons; il faudrait pouvoir lui arracher la seconde pour être encore plus utiles à la nature, car c’est l’anéantissement*
->
-> *qu’elle veut, il est hors de nous de mettre à nos meurtres toute l’extension qu’elle y désire.* »
+<div class="text-quotation">
+
+« ...*cette dissolution sert à la nature, puisque ce sont de ces parties détruites qu’elle recompose. Donc, tout changement opéré par l’homme, sur cette matière organisée sert la nature bien plus qu’il ne la contrarie. Que dis-je, hélas ! Pour la servir, il faudrait des destructions bien plus entières* \[...\] *bien plus complètes que celles que nous pouvons opérer; c’est l’atrocité, c’est l’étendue qu’elle veut dans les crimes, plus nos destructions seront de cette espèce, plus elles lui seront agréables. Il faudrait, pour la mieux servir encore, pouvoir s’opposer à la régénération résultant du cadavre que nous enterrons. Le meurtre n’ôte que la première vie à l’individu que nous frappons; il faudrait pouvoir lui arracher la seconde pour être encore plus utiles à la nature, car c’est l’anéantissement*
+
+*qu’elle veut, il est hors de nous de mettre à nos meurtres toute l’extension qu’elle y désire.* »
+
+</div>
 
 <!-- id: s7-18-0041 -->
 

@@ -98,7 +98,7 @@ Mais toute la question posée par notre discours ici met en question de savoir s
 
 <!-- id: s2-16-0024 -->
 
-> c’est ce que je voudrais vous faire aujourd’hui, nous allons maintenant travailler rapidement
+c’est ce que je voudrais vous faire aujourd’hui, nous allons maintenant travailler rapidement
 
 <!-- id: s2-16-0025 -->
 

@@ -110,15 +110,27 @@ Le texte introduit la question inaugurale de Hans par la phrase :
 
 <!-- id: s12-16-0027 -->
 
-> « *Mama, hast du auch einen Wiwimacher ?* » « *Maman, as-tu également un  Wiwimacher ?* » …suivie, à propos du pis de la vache :
+<div class="text-quotation">
+
+« *Mama, hast du auch einen Wiwimacher ?* » « *Maman, as-tu également un  Wiwimacher ?* » …suivie, à propos du pis de la vache :
+
+</div>
 
 <!-- id: s12-16-0028 -->
 
-> « *Aus dem Wiwimacher kommt Milch. *» « *Il sort du lait de son Wiwimacher.* » …qui précède immédiatement la menace de la castration de la mère :
+<div class="text-quotation">
+
+« *Aus dem Wiwimacher kommt Milch. *» « *Il sort du lait de son Wiwimacher.* » …qui précède immédiatement la menace de la castration de la mère :
+
+</div>
 
 <!-- id: s12-16-0029 -->
 
-> « *der schneidet dir den Wiwimacher ab.* » « *on te coupera le* *WiWimacher.* » …amenant la réponse de HANS :
+<div class="text-quotation">
+
+« *der schneidet dir den Wiwimacher ab.* » « *on te coupera le* *WiWimacher.* » …amenant la réponse de HANS :
+
+</div>
 
 <!-- id: s12-16-0030 -->
 
@@ -146,7 +158,11 @@ Hans complète son investigation :
 
 <!-- id: s12-16-0036 -->
 
-> « *Papa, hast du auch einen wiwimacher ?* » « *Papa, as-tu également un fais-pipi ?* »
+<div class="text-quotation">
+
+« *Papa, hast du auch einen wiwimacher ?* » « *Papa, as-tu également un fais-pipi ?* »
+
+</div>
 
 <!-- id: s12-16-0037 -->
 
@@ -162,7 +178,11 @@ La naissance de Hanna complète les associations de Hans secondairement à la me
 
 <!-- id: s12-16-0040 -->
 
-> « *Aus meinem Wiwimacher kommt kein Blut.* » « *Mon Wiwimacher ne saigne pas.* »
+<div class="text-quotation">
+
+« *Aus meinem Wiwimacher kommt kein Blut.* » « *Mon Wiwimacher ne saigne pas.* »
+
+</div>
 
 <!-- id: s12-16-0041 -->
 
@@ -186,7 +206,11 @@ Le refus de la mère de toucher le pénis de Hans, va structurer - appelant la m
 
 <!-- id: s12-16-0046 -->
 
-> « *Es ist eine Schweinerei* », « *c’est une cochonnerie* ».
+<div class="text-quotation">
+
+« *Es ist eine Schweinerei* », « *c’est une cochonnerie* ».
+
+</div>
 
 <!-- id: s12-16-0047 -->
 
@@ -422,7 +446,11 @@ Enfin la question se pose de savoir comment éviter, à ce niveau d’étude pho
 
 <!-- id: s12-16-0105 -->
 
-> « *au plus près des sources subjectives de la fonction symbolique.* »
+<div class="text-quotation">
+
+« *au plus près des sources subjectives de la fonction symbolique.* »
+
+</div>
 
 <!-- id: s12-16-0106 -->
 
@@ -450,9 +478,9 @@ Le désir que j’ai, que notre réunion d’aujourd’hui remplisse le programm
 
 <!-- id: s12-16-0112 -->
 
-> à savoir d’introduire un nouvel aiguillage
->
-> dans notre travail du séminaire fermé par le texte que Madame AULAGNIER va vous communiquer …ce désir fera que je ne pourrai répondre que brièvement à ce travail dont je pense que l’intérêt ne vous a point échappé.
+à savoir d’introduire un nouvel aiguillage
+
+dans notre travail du séminaire fermé par le texte que Madame AULAGNIER va vous communiquer …ce désir fera que je ne pourrai répondre que brièvement à ce travail dont je pense que l’intérêt ne vous a point échappé.
 
 <!-- id: s12-16-0113 -->
 
@@ -504,7 +532,7 @@ Je veux tout de même dès maintenant prendre une position strictement identique
 
 <!-- id: s12-16-0125 -->
 
-> à laquelle je ne crois pas que, à la lecture première que j’ai faite du texte de MAJOR, MAJOR réponde …la remarque que je crois très pertinente de SAFOUAN, qui est que c’est dans la mesure où nous approchons de cette barrière de l’inceste, que l’autre barrière, celle qui est entre l’inconscient et le préconscient, se trouve régulièrement - enfin dans l’expérience - se trouve franchie, et que se produit *le retour du refoulé*. Ce qui indique tout au moins que si les barrières peuvent se voisiner ou se croiser quelque part elles ne fonctionnent pas dans le même sens.
+à laquelle je ne crois pas que, à la lecture première que j’ai faite du texte de MAJOR, MAJOR réponde …la remarque que je crois très pertinente de SAFOUAN, qui est que c’est dans la mesure où nous approchons de cette barrière de l’inceste, que l’autre barrière, celle qui est entre l’inconscient et le préconscient, se trouve régulièrement - enfin dans l’expérience - se trouve franchie, et que se produit *le retour du refoulé*. Ce qui indique tout au moins que si les barrières peuvent se voisiner ou se croiser quelque part elles ne fonctionnent pas dans le même sens.
 
 <!-- id: s12-16-0126 -->
 
@@ -524,7 +552,7 @@ Je donne donc la parole, sur un sujet qui marque un temps, à savoir que ce n’
 
 <!-- id: s12-16-0130 -->
 
-> c’était un peu l’objet du propos de SAFOUAN sous sa forme d’appel un peu agressif …qu’il y a des choses qui ne sont pas encore *dix mille fois remâchées* et qui sont aussi très intéressantes.
+c’était un peu l’objet du propos de SAFOUAN sous sa forme d’appel un peu agressif …qu’il y a des choses qui ne sont pas encore *dix mille fois remâchées* et qui sont aussi très intéressantes.
 
 <!-- id: s12-16-0131 -->
 
@@ -560,7 +588,7 @@ Entre le moment où *L’Homme aux rats* décide d’aller voir un médecin pour
 
 <!-- id: s12-16-0139 -->
 
-> mais il aurait pu aussi bien aller lui demander un médicament ou un conseil, peu importe …et celui où il se présente chez FREUD, quelque chose est venu changer radicalement l’objet de sa demande : le hasard le fit tomber sur un livre de FREUD et ce livre va décider de son choix. Ce qu’il vient demander à FREUD, c’est que celui-ci mette son savoir en œuvre afin qu’au *non-sens* du *symptôme* se substitue une parole qui retrans­forme ses *élucubrations cogitatives* en discours, ce qu’il connaît de ce savoir c’est qu’il a trait à la vie sexuelle, soit au désir.
+mais il aurait pu aussi bien aller lui demander un médicament ou un conseil, peu importe …et celui où il se présente chez FREUD, quelque chose est venu changer radicalement l’objet de sa demande : le hasard le fit tomber sur un livre de FREUD et ce livre va décider de son choix. Ce qu’il vient demander à FREUD, c’est que celui-ci mette son savoir en œuvre afin qu’au *non-sens* du *symptôme* se substitue une parole qui retrans­forme ses *élucubrations cogitatives* en discours, ce qu’il connaît de ce savoir c’est qu’il a trait à la vie sexuelle, soit au désir.
 
 <!-- id: s12-16-0140 -->
 
@@ -784,7 +812,11 @@ Notre écoute est le support de cette croyance qui est la sienne, celle d’avoi
 
 <!-- id: s12-16-0195 -->
 
-> « *Comment faites-vous pour vous souvenir de tout ce que je dis ?* »
+<div class="text-quotation">
+
+« *Comment faites-vous pour vous souvenir de tout ce que je dis ?* »
+
+</div>
 
 <!-- id: s12-16-0196 -->
 
@@ -860,7 +892,11 @@ J’en arrive ainsi à la troisième manœuvre, la mise en place du fantasme de 
 
 <!-- id: s12-16-0214 -->
 
-> « *Le fantasme est ce qui rend le plaisir apte au désir.* »
+<div class="text-quotation">
+
+« *Le fantasme est ce qui rend le plaisir apte au désir.* »
+
+</div>
 
 <!-- id: s12-16-0215 -->
 
@@ -916,9 +952,13 @@ Ce qui selon lui, introduit cette dimension dans la cure, c’est la parole de l
 
 <!-- id: s12-16-0228 -->
 
-> « *Dans l’unité de la parole du patient et de l’écoute de l’analyste, toute action liant des représentations des personnes se déroule au sein de l’unique personne qui occupe non seulement le cabinet de l’analyste mais le monde entier et qui ne saurait avoir ni intérieur ni extérieur…*
->
-> *Mais l’analyste qui écoute pourrait aussi bien se prononcer… dans l’accom­plissement de l’expansion narcissique, cette seule éventualité constitue une faille par où s’introduit un pouvoir hétérogène; cette faille se mani­feste dans l’attente, phénomène qui est à l’opposé de celui de l’expansion narcissique et qui a la qualité du déplaisir; le déplaisir affecte l’attente de l’intervention de l’analyste, indépendamment du contenu de l’action attendue… La possibilité de l’intervention de l’analyste est réelle.* »
+<div class="text-quotation">
+
+« *Dans l’unité de la parole du patient et de l’écoute de l’analyste, toute action liant des représentations des personnes se déroule au sein de l’unique personne qui occupe non seulement le cabinet de l’analyste mais le monde entier et qui ne saurait avoir ni intérieur ni extérieur…*
+
+*Mais l’analyste qui écoute pourrait aussi bien se prononcer… dans l’accom­plissement de l’expansion narcissique, cette seule éventualité constitue une faille par où s’introduit un pouvoir hétérogène; cette faille se mani­feste dans l’attente, phénomène qui est à l’opposé de celui de l’expansion narcissique et qui a la qualité du déplaisir; le déplaisir affecte l’attente de l’intervention de l’analyste, indépendamment du contenu de l’action attendue… La possibilité de l’intervention de l’analyste est réelle.* »
+
+</div>
 
 <!-- id: s12-16-0229 -->
 
@@ -938,7 +978,7 @@ Le névrosé...
 
 <!-- id: s12-16-0233 -->
 
-> je me permets à ce propos, de rappeler que tout ce qui, ici, est dit se rapporte de façon spécifique à l’analyse du névrosé. La spécificité de la demande psychotique, comme de la demande perverse, demanderait la mise en place d’une topique relationnelle différente …le névrosé dans la séance se passe au fond fort bien d’agir.
+je me permets à ce propos, de rappeler que tout ce qui, ici, est dit se rapporte de façon spécifique à l’analyse du névrosé. La spécificité de la demande psychotique, comme de la demande perverse, demanderait la mise en place d’une topique relationnelle différente …le névrosé dans la séance se passe au fond fort bien d’agir.
 
 <!-- id: s12-16-0234 -->
 
@@ -1098,9 +1138,9 @@ J’y apporterai comme introduction accompagnant l’invitation, si je puis dire
 
 <!-- id: s12-16-0273 -->
 
-> que depuis le temps que dure mon enseignement j’essaie, pour ceux qui m’écoutent et qui sont avant tout des praticiens,
->
-> de leur faire passer dans les veines, concernant leur objet et la façon dont il convient qu’ils opèrent …à quel point ces catégories n’ont même pas besoin d’être modifiées d’une ligne, simplement répétées textuellement.
+que depuis le temps que dure mon enseignement j’essaie, pour ceux qui m’écoutent et qui sont avant tout des praticiens,
+
+de leur faire passer dans les veines, concernant leur objet et la façon dont il convient qu’ils opèrent …à quel point ces catégories n’ont même pas besoin d’être modifiées d’une ligne, simplement répétées textuellement.
 
 <!-- id: s12-16-0274 -->
 
@@ -1164,7 +1204,7 @@ Der Name wird Jehovah ausgesprochen, indem man ihm die Vokalzeichen des nicht ve
 
 <!-- id: s12-16-0289 -->
 
-> FREUD.
+FREUD.
 
 ## Notes
 

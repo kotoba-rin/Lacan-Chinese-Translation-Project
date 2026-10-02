@@ -94,7 +94,7 @@ Et comment il est nécessaire qu’une demande qui se répète dans cette forme 
 
 <!-- id: s13-13-0023 -->
 
-> je m’exprime dans *des termes imagés et simples* de façon à bien me faire entendre de cet auditoire qui n’est pas forcément initié aux formes proprement mathématiques qui donneraient à ceci sa rigueur …à faire, si je puis dire, *le tour de ce trou central*, qui est la propriété topologique essentielle du tore, celle qui introduit dans *son extérieur*, cette énigme de contenir *un intérieur par rapport à l’intérieur du tore*, ou si vous voulez, d’une façon plus rigoureuse, de permettre *que des circuits fermés à l’intérieur du tore, s’enchaînent ou se bouclent* par rapport à *des circuits fermés qui sont extérieurs*.
+je m’exprime dans *des termes imagés et simples* de façon à bien me faire entendre de cet auditoire qui n’est pas forcément initié aux formes proprement mathématiques qui donneraient à ceci sa rigueur …à faire, si je puis dire, *le tour de ce trou central*, qui est la propriété topologique essentielle du tore, celle qui introduit dans *son extérieur*, cette énigme de contenir *un intérieur par rapport à l’intérieur du tore*, ou si vous voulez, d’une façon plus rigoureuse, de permettre *que des circuits fermés à l’intérieur du tore, s’enchaînent ou se bouclent* par rapport à *des circuits fermés qui sont extérieurs*.
 
 <!-- id: s13-13-0024 -->
 
@@ -222,9 +222,9 @@ Elle n’est ni *homéomorphe*, ni *homéotope*, elle n’est pas *homologue*, c
 
 <!-- id: s13-13-0055 -->
 
-> les noms divers du *plan projectif* quelquefois ou mieux encore, dans le cas où nous la représentons…
->
-> cette construction que j’ai maintes fois représentée devant vous sous cette forme dont vous savez qu’elle représente l’entrecroisement de ce qui est la surface qui se gonfle ici dans la partie inférieure \[*a*\] de cette baudruche, l’entrecroisement de cette surface avec elle–même qui ici passe derrière \[b\], de même ici celle-ci passe derrière \[c\]
+les noms divers du *plan projectif* quelquefois ou mieux encore, dans le cas où nous la représentons…
+
+cette construction que j’ai maintes fois représentée devant vous sous cette forme dont vous savez qu’elle représente l’entrecroisement de ce qui est la surface qui se gonfle ici dans la partie inférieure \[*a*\] de cette baudruche, l’entrecroisement de cette surface avec elle–même qui ici passe derrière \[b\], de même ici celle-ci passe derrière \[c\]
 
 <!-- id: s13-13-0056 -->
 
@@ -588,7 +588,7 @@ Comment est-ce constitué un *plan projectif* ? La forme rigoureuse, je vous la 
 
 <!-- id: s13-13-0146 -->
 
-> mais c’est elle qui est à la fois la plus essentielle, je veux dire dans une représentation topologique tout à fait couramment reçue, valable et fondamentale …c’est celle-ci : partez d’une figure qui est faite comme l’autre, vous voyez, *des deux cercles qui font bord dans le cylindre et identifiez chaque point d’un de ces cercles avec le point diamétralement opposé de l’autre.*
+mais c’est elle qui est à la fois la plus essentielle, je veux dire dans une représentation topologique tout à fait couramment reçue, valable et fondamentale …c’est celle-ci : partez d’une figure qui est faite comme l’autre, vous voyez, *des deux cercles qui font bord dans le cylindre et identifiez chaque point d’un de ces cercles avec le point diamétralement opposé de l’autre.*
 
 <!-- id: s13-13-0147 -->
 
@@ -620,7 +620,7 @@ encore que ça ne saute pas à l’intuition, mais quand je vous l’ai représe
 
 <!-- id: s13-13-0154 -->
 
-> je ne vous apprends là… je ne sais pas, ça peut vous surprendre, mais reportez-vous aux manuels de topologie, vous y verrez - ce qui est considéré comme fondamental - ceci …que le *plan projectif* est composé de *deux parties* à savoir, d’un disque central, et de quelque chose qui l’entoure, qui a la structure d’une *bande de Mœbius* que je considère, par cette figure, comme suffisamment illustré.
+je ne vous apprends là… je ne sais pas, ça peut vous surprendre, mais reportez-vous aux manuels de topologie, vous y verrez - ce qui est considéré comme fondamental - ceci …que le *plan projectif* est composé de *deux parties* à savoir, d’un disque central, et de quelque chose qui l’entoure, qui a la structure d’une *bande de Mœbius* que je considère, par cette figure, comme suffisamment illustré.
 
 <!-- id: s13-13-0155 -->
 

@@ -14,7 +14,7 @@ Il me revient des propos...
 
 <!-- id: s18-02-0003 -->
 
-> je n’ai aucune peine à me donner pour ça ...du type de celui-ci : il se trouve que certains se sont demandés en quelques points de mon discours de la dernière fois, comme ils s’expriment, «* où je veux en venir *».
+je n’ai aucune peine à me donner pour ça ...du type de celui-ci : il se trouve que certains se sont demandés en quelques points de mon discours de la dernière fois, comme ils s’expriment, «* où je veux en venir *».
 
 <!-- id: s18-02-0004 -->
 
@@ -22,9 +22,9 @@ D’autres propos me sont revenus, d’ailleurs : qu’on entend mal au fond de
 
 <!-- id: s18-02-0005 -->
 
-> je ne le savais absolument pas la dernière fois,
->
-> je croyais qu’on avait une aussi bonne acoustique que dans l’amphithéâtre précédent ...si on veut bien me faire signe au moment où malgré moi ma voix baissera, j’essaierai de faire de mon mieux.
+je ne le savais absolument pas la dernière fois,
+
+je croyais qu’on avait une aussi bonne acoustique que dans l’amphithéâtre précédent ...si on veut bien me faire signe au moment où malgré moi ma voix baissera, j’essaierai de faire de mon mieux.
 
 <!-- id: s18-02-0006 -->
 
@@ -40,7 +40,7 @@ Il serait peut-être...
 
 <!-- id: s18-02-0009 -->
 
-> étant donné justement ce que j’ai avancé la dernière fois ...plus *impliqué* de se demander d’où je pars, ou même d’où je veux vous faire partir.
+étant donné justement ce que j’ai avancé la dernière fois ...plus *impliqué* de se demander d’où je pars, ou même d’où je veux vous faire partir.
 
 <!-- id: s18-02-0010 -->
 
@@ -108,7 +108,7 @@ j’ai déjà mis en garde contre l’usage abusif de ce mot ...mais il est cert
 
 <!-- id: s18-02-0026 -->
 
-> c’est là le seul élément qu’il ait de commun d’ailleurs ...qui est aussi cet élément qu’a apporté Marx : c’est à savoir de considérer un certain nombre de faits *comme des symptômes*.
+c’est là le seul élément qu’il ait de commun d’ailleurs ...qui est aussi cet élément qu’a apporté Marx : c’est à savoir de considérer un certain nombre de faits *comme des symptômes*.
 
 <!-- id: s18-02-0027 -->
 
@@ -200,7 +200,7 @@ Il se supporte de 4 *places privilégiées* parmi les­quelles une d’entre ell
 
 <!-- id: s18-02-0049 -->
 
-> celle d’en haut et à gauche, pour ceux qui ont été là et qui s’en souviennent encore, ...*cette place* qui est ici occupée dans le *discours du Maître* par le signifiant en tant que *maître* : S<sub>1,</sub> *cette place non désignée encore*, je la désigne de son nom, du nom qu’elle mérite, c’est très précisément la place du *Semblant.*
+celle d’en haut et à gauche, pour ceux qui ont été là et qui s’en souviennent encore, ...*cette place* qui est ici occupée dans le *discours du Maître* par le signifiant en tant que *maître* : S<sub>1,</sub> *cette place non désignée encore*, je la désigne de son nom, du nom qu’elle mérite, c’est très précisément la place du *Semblant.*
 
 <!-- id: s18-02-0050 -->
 
@@ -236,7 +236,7 @@ La configuration mytho-rituelle...
 
 <!-- id: s18-02-0058 -->
 
-> qui est la meilleure façon de les épingler ...n’implique pas forcément l’articulation du *discours du Maître*.
+qui est la meilleure façon de les épingler ...n’implique pas forcément l’articulation du *discours du Maître*.
 
 <!-- id: s18-02-0059 -->
 
@@ -304,9 +304,9 @@ la façon dont, dans ces godets glissent un certain nombre de termes :
 
 <!-- id: s18-02-0075 -->
 
-> ou cette « *demansion* » (*d.e.m.a.n*...)
->
-> si vous me permettez de faire un nouveau *mot* pour désigner ces « *godets »* ...*cette demansion* qui est strictement corrélative de celle du *semblant*, *cette demansion,* je vous l’ai dit, qui - cette der­nière, celle du *semblant -* la supporte.
+ou cette « *demansion* » (*d.e.m.a.n*...)
+
+si vous me permettez de faire un nouveau *mot* pour désigner ces « *godets »* ...*cette demansion* qui est strictement corrélative de celle du *semblant*, *cette demansion,* je vous l’ai dit, qui - cette der­nière, celle du *semblant -* la supporte.
 
 <!-- id: s18-02-0076 -->
 
@@ -442,7 +442,7 @@ Il ne s’agit pas d’être *réaliste* au sens où on l’était au Moyen­-â
 
 <!-- id: s18-02-0109 -->
 
-> et comme tel il ne s’agit que de lettres ...voilà le seul appareil au moyen de quoi nous désignons ce qui est *réel* : *ce qui est réel c’est ce qui fait trou dans ce semblant*.
+et comme tel il ne s’agit que de lettres ...voilà le seul appareil au moyen de quoi nous désignons ce qui est *réel* : *ce qui est réel c’est ce qui fait trou dans ce semblant*.
 
 <!-- id: s18-02-0110 -->
 
@@ -586,15 +586,15 @@ Il est étrange certes...
 
 <!-- id: s18-02-0145 -->
 
-> il n’est pas étrange que d’un seul point de vue, le point de vue de la charlatanerie
->
-> qui préside à toute action thérapeutique dans notre société ...il est étrange qu’on ne se soit pas aperçu du *monde* qu’il y a entre le terme *« sexualité »*...
+il n’est pas étrange que d’un seul point de vue, le point de vue de la charlatanerie
+
+qui préside à toute action thérapeutique dans notre société ...il est étrange qu’on ne se soit pas aperçu du *monde* qu’il y a entre le terme *« sexualité »*...
 
 <!-- id: s18-02-0146 -->
 
-> partout où il com­mence - où il commence seulement - à prendre une substance biologique,
->
-> et je vous ferai remarquer que s’il y a quelque part qu’on peut commencer de s’aper­cevoir du sens que ça a, c’est plutôt du côté des bactéries ...du *monde* qu’il y a entre cela, et ce dont il s’agit concernant ce que Freud énonce des relations que l’inconscient révèle.
+partout où il com­mence - où il commence seulement - à prendre une substance biologique,
+
+et je vous ferai remarquer que s’il y a quelque part qu’on peut commencer de s’aper­cevoir du sens que ça a, c’est plutôt du côté des bactéries ...du *monde* qu’il y a entre cela, et ce dont il s’agit concernant ce que Freud énonce des relations que l’inconscient révèle.
 
 <!-- id: s18-02-0147 -->
 
@@ -618,7 +618,7 @@ Parce qu’il est très étrange quand on voit les petits essais timides que les
 
 <!-- id: s18-02-0152 -->
 
-> et ils voudraient bien autre chose : du non-conflictuel, ça repose ...et alors là, ils s’aperçoivent par exemple de ceci : c’est que on n’attend pas du tout la phase phallique pour dis­tinguer une petite fille d’un petit garçon, ils sont pas du tout pareils. Ils s’émer­veillent !
+et ils voudraient bien autre chose : du non-conflictuel, ça repose ...et alors là, ils s’aperçoivent par exemple de ceci : c’est que on n’attend pas du tout la phase phallique pour dis­tinguer une petite fille d’un petit garçon, ils sont pas du tout pareils. Ils s’émer­veillent !
 
 <!-- id: s18-02-0153 -->
 
@@ -690,11 +690,11 @@ Si on ne comprend pas
 
 <!-- id: s18-02-0170 -->
 
-> tout en témoigne, y compris les références qui sont communes, qui traînent partout
->
-> ...à *la parade sexuelle* chez les mammifères supérieurs principalement, mais aussi bien chez les... dans un très, très grand nombre de vues que nous pouvons avoir très, très loin dans le phylum animal, qui montre le caractère essentiel, dans le rapport sexuel, de quelque chose qu’il convient parfaitement de limiter au niveau où nous le touchons,
->
-> qui n’a rien à faire ni avec un niveau cellulaire, qu’il soit chromosomique ou pas, ni avec un niveau organique, qu’il s’agisse ou non de l’ambiguïté de tel ou tel *tractus* concernant la gonade, c’est à savoir un niveau éthologique qui est celui-ci : celui proprement d’un *semblant*.
+tout en témoigne, y compris les références qui sont communes, qui traînent partout
+
+...à *la parade sexuelle* chez les mammifères supérieurs principalement, mais aussi bien chez les... dans un très, très grand nombre de vues que nous pouvons avoir très, très loin dans le phylum animal, qui montre le caractère essentiel, dans le rapport sexuel, de quelque chose qu’il convient parfaitement de limiter au niveau où nous le touchons,
+
+qui n’a rien à faire ni avec un niveau cellulaire, qu’il soit chromosomique ou pas, ni avec un niveau organique, qu’il s’agisse ou non de l’ambiguïté de tel ou tel *tractus* concernant la gonade, c’est à savoir un niveau éthologique qui est celui-ci : celui proprement d’un *semblant*.
 
 <!-- id: s18-02-0171 -->
 
@@ -718,7 +718,7 @@ La seule chose qui l’en différencie c’est *que ce semblant soit véhiculé 
 
 <!-- id: s18-02-0176 -->
 
-> à ce niveau de *discours* seulement ...qu’il est porté vers - permettez-moi - quelque effet *qui ne serait pas du semblant*.
+à ce niveau de *discours* seulement ...qu’il est porté vers - permettez-moi - quelque effet *qui ne serait pas du semblant*.
 
 <!-- id: s18-02-0177 -->
 
@@ -794,9 +794,9 @@ Le *phallus*...
 
 <!-- id: s18-02-0195 -->
 
-> quelqu’un a écrit un jour ceci : que ce serait le signifiant qui désignerait le manque de signifiant,
->
-> c’est absurde, je n’ai jamais articulé une chose pareille
+quelqu’un a écrit un jour ceci : que ce serait le signifiant qui désignerait le manque de signifiant,
+
+c’est absurde, je n’ai jamais articulé une chose pareille
 
 <!-- id: s18-02-0196 -->
 
@@ -912,7 +912,7 @@ car c’est en cela qu’elle est l’Autre ...nulle autre que la femme ne sait 
 
 <!-- id: s18-02-0224 -->
 
-> n’en sont pas moins distincts dans l’épreuve,
+n’en sont pas moins distincts dans l’épreuve,
 
 <!-- id: s18-02-0225 -->
 
@@ -936,9 +936,9 @@ Mais *que la femme soit la vérité de l’homme*, que cette vieille histoire pr
 
 <!-- id: s18-02-0230 -->
 
-> quand il s’agit de comprendre quelque chose, le « *cherchez la femme* »,
->
-> à quoi on donne naturellement une interprétation policière ...soit quelque chose de tout autre, à savoir que pour avoir *la vérité d’un homme*, on ferait bien de savoir *quelle est sa femme* - j’entends : *son épouse -* à l’occasion, et pourquoi pas ?
+quand il s’agit de comprendre quelque chose, le « *cherchez la femme* »,
+
+à quoi on donne naturellement une interprétation policière ...soit quelque chose de tout autre, à savoir que pour avoir *la vérité d’un homme*, on ferait bien de savoir *quelle est sa femme* - j’entends : *son épouse -* à l’occasion, et pourquoi pas ?
 
 <!-- id: s18-02-0231 -->
 
@@ -1034,7 +1034,7 @@ Je ne sais pas, je donne un exemple : dans [Mencius](http://classiques.uqac.ca/
 
 <!-- id: s18-02-0254 -->
 
-> qui est son disciple d’ailleurs, ce n’est pas lui ...et qui commence d’énoncer des choses comme ceci :
+qui est son disciple d’ailleurs, ce n’est pas lui ...et qui commence d’énoncer des choses comme ceci :
 
 <!-- id: s18-02-0255 -->
 

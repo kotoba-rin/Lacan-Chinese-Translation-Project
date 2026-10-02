@@ -232,7 +232,7 @@ max_segment_id: 79
 
 <!-- id: s9-25-0052 -->
 
-> ![[texts/s9-l-identification/original/assets/image252.jpeg|71]]
+![[texts/s9-l-identification/original/assets/image252.jpeg|71]]
 
 <!-- id: s9-25-0053 -->
 
@@ -244,7 +244,7 @@ max_segment_id: 79
 
 <!-- id: s9-25-0055 -->
 
-> 〔1〕　〔2〕　〔3〕
+〔1〕　〔2〕　〔3〕
 
 <!-- id: s9-25-0056 -->
 

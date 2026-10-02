@@ -67,8 +67,8 @@ Mais observez : le volume dont il s’agit, à la 1<sup>ère</sup> page porte..
 
 <!-- id: s10-10-0010 -->
 
-> comme un que j’ai acquis cette semaine, et c’est ça qui m’a inspiré ce petit apologue
-> ...à la première page, la notation « *les quatre gravures de tant à tant man­quent* ».
+comme un que j’ai acquis cette semaine, et c’est ça qui m’a inspiré ce petit apologue
+...à la première page, la notation « *les quatre gravures de tant à tant man­quent* ».
 
 <!-- id: s10-10-0011 -->
 
@@ -201,9 +201,9 @@ que le rapport à l’Autre...
 
 <!-- id: s10-10-0036 -->
 
-> en tant qu’il est *ce où se situe* toute possibilité de *sym­bolisation, et* *de lieu du discours*,
-> ...rejoint *un vice de structure*, et qu’il nous faut - c’est le pas de plus - concevoir que nous touchons là,
-> à ce qui rend *pos­sible* ce rapport à l’Autre, c’est-à-dire *ce d’où surgit qu’il y a du signifiant*.
+en tant qu’il est *ce où se situe* toute possibilité de *sym­bolisation, et* *de lieu du discours*,
+...rejoint *un vice de structure*, et qu’il nous faut - c’est le pas de plus - concevoir que nous touchons là,
+à ce qui rend *pos­sible* ce rapport à l’Autre, c’est-à-dire *ce d’où surgit qu’il y a du signifiant*.
 
 <!-- id: s10-10-0037 -->
 
@@ -408,8 +408,8 @@ Car enfin, observez combien il est étrange de rapprocher ces deux faces du disc
 
 <!-- id: s10-10-0074 -->
 
-> qui sur ce point fait preuve d’un tact et d’une mesure qui manquent souvent beaucoup à l’emphase du dis­cours analytique, sur ce qu’on appelle *les menaces* de l’*Id,* du *Ça,* de l’*Es*
-> ...ce que simplement Jones appelle un *« buried desire », un désir enterré.*
+qui sur ce point fait preuve d’un tact et d’une mesure qui manquent souvent beaucoup à l’emphase du dis­cours analytique, sur ce qu’on appelle *les menaces* de l’*Id,* du *Ça,* de l’*Es*
+...ce que simplement Jones appelle un *« buried desire », un désir enterré.*
 
 <!-- id: s10-10-0075 -->
 
@@ -460,14 +460,14 @@ La fonction du « *ne que* » : « *ce n’est que du transfert* »...
 
 <!-- id: s10-10-0084 -->
 
-> *en­vers* de : « *Ιl n’a qu’à faire ainsi* », cette *forme* du verbe qui se conjugue,
->
-> mais pas comme vous le croyez, celle qui fait dire : « *Ιl n’a qu’avait* »,
->
-> qu’on voit spontanément fleurir dans le discours spontané,
-> ...c’est l’autre face de ce qu’on nous explique comme étant, semble-t-il, *la charge*, *le fardeau*, du *héros* *analyste*,
-> d’avoir à l’intérioriser ce *(a)*, le prendre en lui, « *bon* » ou « *mauvais objet* », mais comme objet interne,
-> et que c’est de là que surgirait toute la créa­tivité par où il doit restaurer, du sujet, l’accès au monde.
+*en­vers* de : « *Ιl n’a qu’à faire ainsi* », cette *forme* du verbe qui se conjugue,
+
+mais pas comme vous le croyez, celle qui fait dire : « *Ιl n’a qu’avait* »,
+
+qu’on voit spontanément fleurir dans le discours spontané,
+...c’est l’autre face de ce qu’on nous explique comme étant, semble-t-il, *la charge*, *le fardeau*, du *héros* *analyste*,
+d’avoir à l’intérioriser ce *(a)*, le prendre en lui, « *bon* » ou « *mauvais objet* », mais comme objet interne,
+et que c’est de là que surgirait toute la créa­tivité par où il doit restaurer, du sujet, l’accès au monde.
 
 <!-- id: s10-10-0085 -->
 
@@ -541,10 +541,10 @@ Et voila pourquoi, quelqu’un comme Margaret Little...
 
 <!-- id: s10-10-0097 -->
 
-> prise parmi d’autres, et je vous l’ai dit, vraiment à la façon dont on peut se bander les yeux
->
-> et placer en travers des pages pour faire de la divination, un couteau
-> ...Margaret Little dans son article sur *« La réponse totale de l’analyste aux besoins de son patient »,* de Mai-Août l957*, partie* III-IV *du volume* 38, poursuit le discours auquel je m’étais déjà arrêté à un point de mon séminaire où cet article n’avait pas enco­re paru.
+prise parmi d’autres, et je vous l’ai dit, vraiment à la façon dont on peut se bander les yeux
+
+et placer en travers des pages pour faire de la divination, un couteau
+...Margaret Little dans son article sur *« La réponse totale de l’analyste aux besoins de son patient »,* de Mai-Août l957*, partie* III-IV *du volume* 38, poursuit le discours auquel je m’étais déjà arrêté à un point de mon séminaire où cet article n’avait pas enco­re paru.
 
 <!-- id: s10-10-0098 -->
 
@@ -751,10 +751,10 @@ tout le texte en témoigne assez
 
 <!-- id: s10-10-0136 -->
 
-> et qui atteint assurément le sujet, qui fait pour lui, qui lui permet de *transférer*, à proprement parler, dans sa relation à l’analyste, la réaction dont il s’agissait dans ce deuil,
->
-> à savoir l’apparition de ceci : qu’il y avait une personne pour qui elle pou­vait être un manque
-> ...c’est ce que l’intervention de l’analyste lui fait appa­raître *chez l’analyste*, ceci qui s’appelle *de l’angoisse*.
+et qui atteint assurément le sujet, qui fait pour lui, qui lui permet de *transférer*, à proprement parler, dans sa relation à l’analyste, la réaction dont il s’agissait dans ce deuil,
+
+à savoir l’apparition de ceci : qu’il y avait une personne pour qui elle pou­vait être un manque
+...c’est ce que l’intervention de l’analyste lui fait appa­raître *chez l’analyste*, ceci qui s’appelle *de l’angoisse*.
 
 <!-- id: s10-10-0137 -->
 
@@ -763,10 +763,10 @@ que *cette insertion*, que *cette greffe* si je puis dire, *ce marcottage*...
 
 <!-- id: s10-10-0138 -->
 
-> qui permet à un sujet dont toute la relation avec les parents est définie, vous le verrez dans l’observation,
->
-> que sous aucun rapport *il n’a pu se saisir*, ce sujet féminin, *comme un manque*
-> *...*trouve ici à s’ouvrir.
+qui permet à un sujet dont toute la relation avec les parents est définie, vous le verrez dans l’observation,
+
+que sous aucun rapport *il n’a pu se saisir*, ce sujet féminin, *comme un manque*
+*...*trouve ici à s’ouvrir.
 
 <!-- id: s10-10-0139 -->
 
@@ -790,16 +790,16 @@ La seconde fois...
 
 <!-- id: s10-10-0142 -->
 
-> je ne vous donne pas ça comme un modèle de technique \[*rires*\], je vous demande de lire une observation, de suivre les problèmes qui se posent à une analyste manifestement aussi expérimentée que brûlante d’authenticité
-> ...la seconde fois, il s’agit des légères modifica­tions qui ont été faites chez l’analyste, à ce qu’elle appelle *la décoration de son cabinet*...
-> si nous en croyons ce qu’est la décoration, en moyenne, chez nos confrères, ça doit être joli \[*rires*\]
-> ...déjà notre Margaret Little a été tannée toute la journée par les remarques de ses patients :
-> « *C’est bien... c’est mal... ce brun est dégoûtant... ce vert est admirable...* »,
-> ...et voilà notre patiente qui rap­plique vers la fin de la journée, nous dit-elle,
-> et qui remet ça en termes disons un tout petit peu plus agressifs que les autres, et elle lui dit textuellement :
-> « *Écoutez, je me fiche totalement de ce que vous pouvez en penser* ».
-> La patiente, je dois dire, comme la première fois, est profondément cho­quée, estomaquée.
-> Après quoi, elle ressort de son silence avec des cris d’en­thousiasme : « *Ce que vous avez fait là, c’est formidable* ».
+je ne vous donne pas ça comme un modèle de technique \[*rires*\], je vous demande de lire une observation, de suivre les problèmes qui se posent à une analyste manifestement aussi expérimentée que brûlante d’authenticité
+...la seconde fois, il s’agit des légères modifica­tions qui ont été faites chez l’analyste, à ce qu’elle appelle *la décoration de son cabinet*...
+si nous en croyons ce qu’est la décoration, en moyenne, chez nos confrères, ça doit être joli \[*rires*\]
+...déjà notre Margaret Little a été tannée toute la journée par les remarques de ses patients :
+« *C’est bien... c’est mal... ce brun est dégoûtant... ce vert est admirable...* »,
+...et voilà notre patiente qui rap­plique vers la fin de la journée, nous dit-elle,
+et qui remet ça en termes disons un tout petit peu plus agressifs que les autres, et elle lui dit textuellement :
+« *Écoutez, je me fiche totalement de ce que vous pouvez en penser* ».
+La patiente, je dois dire, comme la première fois, est profondément cho­quée, estomaquée.
+Après quoi, elle ressort de son silence avec des cris d’en­thousiasme : « *Ce que vous avez fait là, c’est formidable* ».
 
 <!-- id: s10-10-0143 -->
 

@@ -10,7 +10,7 @@ Aujourd’hui, pour des raisons, comme ça, de choix personnel, je vais partir d
 
 <!-- id: s21-11-0002 -->
 
-> c’est un « bateau », vous le savez... ...et cette question c’est : qu’est-ce que Lacan, ici présent, a inventé ?
+c’est un « bateau », vous le savez... ...et cette question c’est : qu’est-ce que Lacan, ici présent, a inventé ?
 
 <!-- id: s21-11-0003 -->
 
@@ -34,7 +34,7 @@ Quoi ? Je répondrai...
 
 <!-- id: s21-11-0008 -->
 
-> puisqu’il est entendu que j’ai déjà la réponse ...je répondrai, comme ça, pour mettre les choses en train : l’*objet(a)*.
+puisqu’il est entendu que j’ai déjà la réponse ...je répondrai, comme ça, pour mettre les choses en train : l’*objet(a)*.
 
 <!-- id: s21-11-0009 -->
 
@@ -98,7 +98,7 @@ Et puis - qui sait ? - peut-être est-il question qu’il vienne se mettre à l
 
 <!-- id: s21-11-0024 -->
 
-> que j’appellerai aujourd’hui comme ça parce qu’en me réveillant ce matin j’ai écrit quelques notes ...que j’appellerai *de la sexuation*. : § / § ; ! . !
+que j’appellerai aujourd’hui comme ça parce qu’en me réveillant ce matin j’ai écrit quelques notes ...que j’appellerai *de la sexuation*. : § / § ; ! . !
 
 <!-- id: s21-11-0025 -->
 
@@ -126,11 +126,11 @@ J’évoque ceci, c’est que c’est celles qui se marquent de : § à gauche.
 
 <!-- id: s21-11-0031 -->
 
-> et qui se continuent par quatre autres for­mules qui sont comme ça en carré, bon. ...il aurait pu m’en revenir quelque chose...
+et qui se continuent par quatre autres for­mules qui sont comme ça en carré, bon. ...il aurait pu m’en revenir quelque chose...
 
 <!-- id: s21-11-0032 -->
 
-> si bien sûr ça ne demandait pas un peu de peine ...mais s’il est quelque chose que je voudrais vous faire remarquer, c’est que ces *formules* dites « *quantiques de la sexuation »* pourraient s’exprimer autrement, et ça permettrait peut-être d’avancer.
+si bien sûr ça ne demandait pas un peu de peine ...mais s’il est quelque chose que je voudrais vous faire remarquer, c’est que ces *formules* dites « *quantiques de la sexuation »* pourraient s’exprimer autrement, et ça permettrait peut-être d’avancer.
 
 <!-- id: s21-11-0033 -->
 
@@ -154,7 +154,7 @@ Quel est le statut de ces « *autres* » dans l’occasion, si ce n’est que c
 
 <!-- id: s21-11-0038 -->
 
-> je ne dis pas au *lieu de l’Autre...*c’est «<u> *quelque part*</u>* »* qu’il s’agit de bien situer, savoir *<u>où</u>* ça s’écrit mes *formules quantiques de la sexuation*.
+je ne dis pas au *lieu de l’Autre...*c’est «<u> *quelque part*</u>* »* qu’il s’agit de bien situer, savoir *<u>où</u>* ça s’écrit mes *formules quantiques de la sexuation*.
 
 <!-- id: s21-11-0039 -->
 
@@ -174,11 +174,11 @@ Ce serait donc incontestablement vrai si ce n’est que...
 
 <!-- id: s21-11-0043 -->
 
-> chose curieuse, enfin il semble ...qu’encore que ça se soit étalé depuis le com­mencement des siècles, qu’on ait mis un bout de temps justement à l’épingler de ces termes...
+chose curieuse, enfin il semble ...qu’encore que ça se soit étalé depuis le com­mencement des siècles, qu’on ait mis un bout de temps justement à l’épingler de ces termes...
 
 <!-- id: s21-11-0044 -->
 
-> comme par hasard impropres ...de ces termes d’« *homosexuel* » par exemple.
+comme par hasard impropres ...de ces termes d’« *homosexuel* » par exemple.
 
 <!-- id: s21-11-0045 -->
 
@@ -190,9 +190,9 @@ Bien avant, on n’avait pas ces termes-là, enfin, on appelait ça, par exemple
 
 <!-- id: s21-11-0047 -->
 
-> enfin, pour un côté, et le fait qu’on les distinguât d’une façon sérieuse
->
-> jusqu’à leur donner une place différente sur la carte géographique, est déjà suffisamment indicatif ...on appelait ça, pour un côté, « *des sodomites ».*
+enfin, pour un côté, et le fait qu’on les distinguât d’une façon sérieuse
+
+jusqu’à leur donner une place différente sur la carte géographique, est déjà suffisamment indicatif ...on appelait ça, pour un côté, « *des sodomites ».*
 
 <!-- id: s21-11-0048 -->
 
@@ -208,7 +208,11 @@ Bon. En attendant est-ce qu’il n’aurait pas pu venir à l’idée dans mon �
 
 <!-- id: s21-11-0051 -->
 
-> « *que l’analyste ne s’autorise que de lui-même* » ?
+<div class="text-quotation">
+
+« *que l’analyste ne s’autorise que de lui-même* » ?
+
+</div>
 
 <!-- id: s21-11-0052 -->
 
@@ -216,17 +220,17 @@ Bon. En attendant est-ce qu’il n’aurait pas pu venir à l’idée dans mon �
 
 <!-- id: s21-11-0053 -->
 
-> c’est une écriture \[:\] ...qu’il existe cet X qui dit que n’est pas vrai...
+c’est une écriture \[:\] ...qu’il existe cet X qui dit que n’est pas vrai...
 
 <!-- id: s21-11-0054 -->
 
-> que n’est pas vrai comme *fondement d’exception* \[§\] ...que n’est pas vrai que !...
+que n’est pas vrai comme *fondement d’exception* \[§\] ...que n’est pas vrai que !...
 
 <!-- id: s21-11-0055 -->
 
-> à savoir que ce qui supporte dans l’écriture *la fonction*, la fonction propositionnelle
->
-> où nous pouvons écrire ce qu’il en est de ce choix de l’être sexué ...qu’il n’est pas vrai qu’elle tienne toujours, que même la condition pour que le choix puisse en être fait au positif, c’est-à-dire qu’il y ait de l’homme, c’est qu’il y ait quelque part de la castration.
+à savoir que ce qui supporte dans l’écriture *la fonction*, la fonction propositionnelle
+
+où nous pouvons écrire ce qu’il en est de ce choix de l’être sexué ...qu’il n’est pas vrai qu’elle tienne toujours, que même la condition pour que le choix puisse en être fait au positif, c’est-à-dire qu’il y ait de l’homme, c’est qu’il y ait quelque part de la castration.
 
 <!-- id: s21-11-0056 -->
 
@@ -234,15 +238,15 @@ Si je dis donc « *que l’analyste ne s’autorise que de lui-même* »...
 
 <!-- id: s21-11-0057 -->
 
-> ce qui est quelque chose de tellement accablant, enfin à y penser : que si l’analyste est quelque chose
->
-> qui est sur le mode d’être « *nommé-à* », à l’analyse si je puis dire, à l’analyse sous cette forme qui veut dire :
->
-> *« membre associé »*, « *membre titulaire »*, « *membre*... » je ne sais pas quoi ...tout ce dont j’ai essayé de faire rire dans un petit article [^22]...
+ce qui est quelque chose de tellement accablant, enfin à y penser : que si l’analyste est quelque chose
+
+qui est sur le mode d’être « *nommé-à* », à l’analyse si je puis dire, à l’analyse sous cette forme qui veut dire :
+
+*« membre associé »*, « *membre titulaire »*, « *membre*... » je ne sais pas quoi ...tout ce dont j’ai essayé de faire rire dans un petit article [^22]...
 
 <!-- id: s21-11-0058 -->
 
-> *en y marquant l’échelon de ce que j’ai appelé*
+*en y marquant l’échelon de ce que j’ai appelé*
 
 <!-- id: s21-11-0059 -->
 
@@ -270,7 +274,7 @@ Mais ça impliquerait quand même que cette formule...
 
 <!-- id: s21-11-0065 -->
 
-> que j’ai faite dans une certaine « *Proposition*... » [^23] tout à fait axiale ...que cette formule reçoive les quelques *compléments* qu’implique que si assurément on ne peut pas être *nommé à* la psychanalyse, ça ne veut pas dire que n’importe qui puisse rentrer là-dedans comme un rhinocéros dans la porcelaine.
+que j’ai faite dans une certaine « *Proposition*... » [^23] tout à fait axiale ...que cette formule reçoive les quelques *compléments* qu’implique que si assurément on ne peut pas être *nommé à* la psychanalyse, ça ne veut pas dire que n’importe qui puisse rentrer là-dedans comme un rhinocéros dans la porcelaine.
 
 <!-- id: s21-11-0066 -->
 
@@ -330,7 +334,7 @@ Les brancher, ça serait en donner ce développement qui ferait que dans une Éc
 
 <!-- id: s21-11-0080 -->
 
-> la mienne, pourquoi pas, avec un peu de chance ...que dans une École s’articulerait cette fonction, dont le choix de l’analyste, le choix de l’être, ne peut que dépendre.
+la mienne, pourquoi pas, avec un peu de chance ...que dans une École s’articulerait cette fonction, dont le choix de l’analyste, le choix de l’être, ne peut que dépendre.
 
 <!-- id: s21-11-0081 -->
 
@@ -346,7 +350,7 @@ Ceci nous pousse...
 
 <!-- id: s21-11-0084 -->
 
-> nous pousse parce que je choisis d’y être poussé, mais vous pousse en même temps puisque vous m’écoutez ...à tenter de préciser la liaison qu’il y a entre
+nous pousse parce que je choisis d’y être poussé, mais vous pousse en même temps puisque vous m’écoutez ...à tenter de préciser la liaison qu’il y a entre
 
 <!-- id: s21-11-0085 -->
 
@@ -366,7 +370,7 @@ C’est bien ce dont j’essaie de vous donner depuis longtemps l’indication, 
 
 <!-- id: s21-11-0089 -->
 
-> ce que j’ai fait très tôt ...*en glissant*, si je puis dire, dans l’énoncé que j’ai tenté de donner de *Fonction et Champ de la parole et du langage,* je n’ai quand même pas intitulé un certain article comme ça - un écrit pivot - je ne l’ai pas intitulé « L’instance du signifiant dans l’inconscient », je l’ai intitulé « *L’instance de la lettre*... ».
+ce que j’ai fait très tôt ...*en glissant*, si je puis dire, dans l’énoncé que j’ai tenté de donner de *Fonction et Champ de la parole et du langage,* je n’ai quand même pas intitulé un certain article comme ça - un écrit pivot - je ne l’ai pas intitulé « L’instance du signifiant dans l’inconscient », je l’ai intitulé « *L’instance de la lettre*... ».
 
 <!-- id: s21-11-0090 -->
 
@@ -374,13 +378,13 @@ Et c’est autour de *lettres*...
 
 <!-- id: s21-11-0091 -->
 
-> comme vous vous souvenez peut-être un peu, enfin, comme ça dans la brume,
->
-> que S, S<sub>1</sub>, S<sub>2</sub>, etc., sur s, sur petit s, ...c’est tout ce que...
+comme vous vous souvenez peut-être un peu, enfin, comme ça dans la brume,
+
+que S, S<sub>1</sub>, S<sub>2</sub>, etc., sur s, sur petit s, ...c’est tout ce que...
 
 <!-- id: s21-11-0092 -->
 
-> tout ceci impliquant une certaine relation que j’ai épinglée de la *métaphore*, une autre de la *méto­nymie* ...c’est autour de ça que j’ai fait tourner un certain nombre de *pro­positions* qui peuvent être considérées comme un forçage, je veux dire de donner une certaine instance - non pas de la lettre - mais de la linguis­tique.
+tout ceci impliquant une certaine relation que j’ai épinglée de la *métaphore*, une autre de la *méto­nymie* ...c’est autour de ça que j’ai fait tourner un certain nombre de *pro­positions* qui peuvent être considérées comme un forçage, je veux dire de donner une certaine instance - non pas de la lettre - mais de la linguis­tique.
 
 <!-- id: s21-11-0093 -->
 
@@ -392,7 +396,7 @@ Mais je vous fais remarquer que la linguistique ne procède pas autrement que le
 
 <!-- id: s21-11-0095 -->
 
-> parce que je croyais *qu’avec le temps*, enfin n’est-ce pas ...il y a ces « surréalistes » dont on me tanne quand on veut écrire sur moi des articles.
+parce que je croyais *qu’avec le temps*, enfin n’est-ce pas ...il y a ces « surréalistes » dont on me tanne quand on veut écrire sur moi des articles.
 
 <!-- id: s21-11-0096 -->
 
@@ -404,7 +408,7 @@ Pourquoi ? Parce que c’est bien là ce qui démontre ce que je vous faisais re
 
 <!-- id: s21-11-0098 -->
 
-> vous l’avez peut-être entendu à mon dernier séminaire ...ce que je vous ai fait remarquer, c’est à savoir qu’en fin de compte, *avec tout ce chambard, ils savaient pas très bien ce qu’ils faisaient*.
+vous l’avez peut-être entendu à mon dernier séminaire ...ce que je vous ai fait remarquer, c’est à savoir qu’en fin de compte, *avec tout ce chambard, ils savaient pas très bien ce qu’ils faisaient*.
 
 <!-- id: s21-11-0099 -->
 
@@ -420,7 +424,7 @@ Je veux dire que si on peut faire une certaine analogie, enfin une certaine homo
 
 <!-- id: s21-11-0102 -->
 
-> mais avec pour le mot « *homo »* ce sens approximatif qui est celui que je vous ai déjà souligné tout à l’heu­re ...une certaine homologie entre
+mais avec pour le mot « *homo »* ce sens approximatif qui est celui que je vous ai déjà souligné tout à l’heu­re ...une certaine homologie entre
 
 <!-- id: s21-11-0103 -->
 
@@ -460,7 +464,7 @@ Est-ce que ce sont les seules qui peuvent nous permettre de définir com­ment,
 
 <!-- id: s21-11-0112 -->
 
-> du savoir inconscient, ...com­ment dans la science ceci peut constituer ce que j’appellerai « *un* *bord »*, c’est-à-dire ce dont la science même, comme telle, est - faute d’un meilleur mot je dirai - *structurée*.
+du savoir inconscient, ...com­ment dans la science ceci peut constituer ce que j’appellerai « *un* *bord »*, c’est-à-dire ce dont la science même, comme telle, est - faute d’un meilleur mot je dirai - *structurée*.
 
 <!-- id: s21-11-0113 -->
 
@@ -472,7 +476,7 @@ Là encore je souligne que ça ne va pas jusqu’à dire que le peu de *Réel* q
 
 <!-- id: s21-11-0115 -->
 
-> qui se réduit au *nombre* ...que le peu de *Réel* que nous savons, s’il est si peu, ça tient au fameux *trou* : au fait qu’au centre il y a ce τόπος \[topos\], qu’on ne peut que boucher.
+qui se réduit au *nombre* ...que le peu de *Réel* que nous savons, s’il est si peu, ça tient au fameux *trou* : au fait qu’au centre il y a ce τόπος \[topos\], qu’on ne peut que boucher.
 
 <!-- id: s21-11-0116 -->
 
@@ -512,7 +516,7 @@ Mais le fait que ça s’imagine, n’ôte rien de la portée de l’*objet(a)* 
 
 <!-- id: s21-11-0125 -->
 
-> rien de plus ai-je fait ...pour en donner l’image qui n’a qu’un avantage, c’est que *c’est une image écrite*, celle que j’ai donnée *dans le nœud borroméen *: l’*objet(a) c’est là que ça se noue*.
+rien de plus ai-je fait ...pour en donner l’image qui n’a qu’un avantage, c’est que *c’est une image écrite*, celle que j’ai donnée *dans le nœud borroméen *: l’*objet(a) c’est là que ça se noue*.
 
 <!-- id: s21-11-0126 -->
 
@@ -524,7 +528,7 @@ Vous voyez ce que j’essaye de faire là : j’essaie de vous situer *l’écr
 
 <!-- id: s21-11-0128 -->
 
-> et ça va loin d’avancer çà ...*comme ce bord du Réel, situé sur ce bord.*
+et ça va loin d’avancer çà ...*comme ce bord du Réel, situé sur ce bord.*
 
 <!-- id: s21-11-0129 -->
 
@@ -532,13 +536,13 @@ Parce qu’il faut bien vous donner d’autre pâture que cette abstraction comm
 
 <!-- id: s21-11-0130 -->
 
-> car justement ce qui est là sensible, c’est que *ça n’est pas de l’abstraction*.
->
-> *C’est dur comme fer* \[*cf. séance précédente*\]. C’est pas parce qu’une chose n’est pas succulente qu’elle est abstraite ...il est évidemment amusant que j’éprouve là le besoin, pour vous...
+car justement ce qui est là sensible, c’est que *ça n’est pas de l’abstraction*.
+
+*C’est dur comme fer* \[*cf. séance précédente*\]. C’est pas parce qu’une chose n’est pas succulente qu’elle est abstraite ...il est évidemment amusant que j’éprouve là le besoin, pour vous...
 
 <!-- id: s21-11-0131 -->
 
-> *le désir de l’homme étant le désir de l’Autre* ...que j’éprouve là le besoin pour vous d’avoir une peti­te scansion rigolade, pour vous faire remarquer que c’est amusant, enfin... une chose, un petit échantillon anecdotique que je vais vous donner, n’est-ce pas.
+*le désir de l’homme étant le désir de l’Autre* ...que j’éprouve là le besoin pour vous d’avoir une peti­te scansion rigolade, pour vous faire remarquer que c’est amusant, enfin... une chose, un petit échantillon anecdotique que je vais vous donner, n’est-ce pas.
 
 <!-- id: s21-11-0132 -->
 
@@ -550,7 +554,7 @@ Quand Galilée a aperçu certaines de ses inventions, qui bouleversaient tout à
 
 <!-- id: s21-11-0134 -->
 
-> pas plus : 2 vers ...dans lesquels, par lesquels il pouvait en quelque sorte prendre date, et en prenant un certain nombre de lettres de trois en trois, par exemple, démontrer qu’il avait inventé la chose impossible à faire avaler à son époque, *qu’il l’avait inventée déjà à telle date*.
+pas plus : 2 vers ...dans lesquels, par lesquels il pouvait en quelque sorte prendre date, et en prenant un certain nombre de lettres de trois en trois, par exemple, démontrer qu’il avait inventé la chose impossible à faire avaler à son époque, *qu’il l’avait inventée déjà à telle date*.
 
 <!-- id: s21-11-0135 -->
 
@@ -562,17 +566,17 @@ Et la façon dont...
 
 <!-- id: s21-11-0137 -->
 
-> Sous, en quelque sorte, ce que nous appellerons l’apparente connerie des deux vers ...était inscrite la date...
+Sous, en quelque sorte, ce que nous appellerons l’apparente connerie des deux vers ...était inscrite la date...
 
 <!-- id: s21-11-0138 -->
 
-> la date de telle chose, la chose dont il s’agissait, à savoir sur le ciel et le principe des trajets qu’il offre à voir ...est-ce que là ne s’illustre pas...
+la date de telle chose, la chose dont il s’agissait, à savoir sur le ciel et le principe des trajets qu’il offre à voir ...est-ce que là ne s’illustre pas...
 
 <!-- id: s21-11-0139 -->
 
-> d’une façon certes seulement amusante, mais vous en avez bien d’autres illustrations,
->
-> puisque comme je l’ai fait, j’y ai insisté avec des pieds de plomb ...il est bien évident que si *la logique* est ce que je dis : *la science du Réel* et pas autre chose, si justement le propre de la logique en tant que *science du Réel*
+d’une façon certes seulement amusante, mais vous en avez bien d’autres illustrations,
+
+puisque comme je l’ai fait, j’y ai insisté avec des pieds de plomb ...il est bien évident que si *la logique* est ce que je dis : *la science du Réel* et pas autre chose, si justement le propre de la logique en tant que *science du Réel*
 
 <!-- id: s21-11-0140 -->
 
@@ -604,11 +608,11 @@ Je pose là la question : *est-ce que l’anagramme*...
 
 <!-- id: s21-11-0147 -->
 
-> puisque c’est de ça qu’il s’agissait dans les vers de Galilée ...*que l’anagramme*...
+puisque c’est de ça qu’il s’agissait dans les vers de Galilée ...*que l’anagramme*...
 
 <!-- id: s21-11-0148 -->
 
-> au niveau où le cher Saussure s’en cassait la tête en privé ...*est-ce que l’anagramme* n’est pas là simplement pour faire preuve que c’est là la nature de *l’écrit*, même quand on n’a pas encore l’idée de rien à prouver ?
+au niveau où le cher Saussure s’en cassait la tête en privé ...*est-ce que l’anagramme* n’est pas là simplement pour faire preuve que c’est là la nature de *l’écrit*, même quand on n’a pas encore l’idée de rien à prouver ?
 
 <!-- id: s21-11-0149 -->
 
@@ -616,11 +620,11 @@ Je pose là la question : *est-ce que l’anagramme*...
 
 <!-- id: s21-11-0150 -->
 
-> à savoir au niveau où dans les vers dits « s*aturniens* », on peut retrouver justement le nombre de lettres
->
-> qu’il faut pour désigner un dieu, sans que rien du ciel ne puisse nous secourir pour savoir si c’était l’intention, là, du poète, d’avoir truf­fé ce qu’il avait à écrire - puisque l’écrit déjà fonctionnait -
->
-> de l’avoir truf­fé d’un certain nombre de lettres qui fondent le nom d’un dieu ...est-ce que là on ne sent pas que même quand il n’est supporté par rien, par rien dont nous puissions témoigner, il nous faut bien admettre que *c’est l’écrit qui supporte*, qu’il y a là une sorte d’*entité* *de l’écrit *?
+à savoir au niveau où dans les vers dits « s*aturniens* », on peut retrouver justement le nombre de lettres
+
+qu’il faut pour désigner un dieu, sans que rien du ciel ne puisse nous secourir pour savoir si c’était l’intention, là, du poète, d’avoir truf­fé ce qu’il avait à écrire - puisque l’écrit déjà fonctionnait -
+
+de l’avoir truf­fé d’un certain nombre de lettres qui fondent le nom d’un dieu ...est-ce que là on ne sent pas que même quand il n’est supporté par rien, par rien dont nous puissions témoigner, il nous faut bien admettre que *c’est l’écrit qui supporte*, qu’il y a là une sorte d’*entité* *de l’écrit *?
 
 <!-- id: s21-11-0151 -->
 
@@ -668,7 +672,7 @@ Voilà ! Il est bien évident que comme je l’ai souligné...
 
 <!-- id: s21-11-0162 -->
 
-> comme ça, incidemment, parce que je passe pas mon temps à m’expliquer avec les philosophes ...il est bien évident que c’est mon matérialisme à moi. *Ouais*...
+comme ça, incidemment, parce que je passe pas mon temps à m’expliquer avec les philosophes ...il est bien évident que c’est mon matérialisme à moi. *Ouais*...
 
 <!-- id: s21-11-0163 -->
 
@@ -696,7 +700,7 @@ Qu’on l’exploite un peu, tout au moins un temps.
 
 <!-- id: s21-11-0169 -->
 
-> si vous traduisez *la modalité* comme je vous ai appris à le faire ...*ça veut dire que « ça cesse de s’écrire »*, et pas du tout le contraire.
+si vous traduisez *la modalité* comme je vous ai appris à le faire ...*ça veut dire que « ça cesse de s’écrire »*, et pas du tout le contraire.
 
 <!-- id: s21-11-0170 -->
 
@@ -712,9 +716,9 @@ Parce que la pulsation que ça implique...
 
 <!-- id: s21-11-0173 -->
 
-> à savoir - ce que chacun sait - que ne peut être *nécessaire* que *le possible*,
->
-> à savoir *ce que je situe du <u>cesser de s’écrire</u>* *est justement <u>ceci qui ne cesse pas de se répéter</u>*, ...ce qui est là quelque chose que nous avons bien su toucher, dans cette fonction produite génialement par Freud de la *répétition*.
+à savoir - ce que chacun sait - que ne peut être *nécessaire* que *le possible*,
+
+à savoir *ce que je situe du <u>cesser de s’écrire</u>* *est justement <u>ceci qui ne cesse pas de se répéter</u>*, ...ce qui est là quelque chose que nous avons bien su toucher, dans cette fonction produite génialement par Freud de la *répétition*.
 
 <!-- id: s21-11-0174 -->
 
@@ -726,15 +730,15 @@ Et j’irai même jusqu’à poser la question à ceux qui pourraient m’en dir
 
 <!-- id: s21-11-0176 -->
 
-> et ça m’amuserait bien qu’on m’y réponde là-dessus ...c’est qu’à prendre un ensemble de dimensions...
+et ça m’amuserait bien qu’on m’y réponde là-dessus ...c’est qu’à prendre un ensemble de dimensions...
 
 <!-- id: s21-11-0177 -->
 
-> ensemble ne supposant rien de cardinal, mais disons *un ensemble fini* ...comment déterminer sur cet ensemble de dimensions...
+ensemble ne supposant rien de cardinal, mais disons *un ensemble fini* ...comment déterminer sur cet ensemble de dimensions...
 
 <!-- id: s21-11-0178 -->
 
-> pourquoi ne pas imaginer la dimension telle que je la définis \[*dit-mansion*\], c’est-à-dire là où se situe *le dire* ...com­ment arriver à formuler ceci :
+pourquoi ne pas imaginer la dimension telle que je la définis \[*dit-mansion*\], c’est-à-dire là où se situe *le dire* ...com­ment arriver à formuler ceci :
 
 <!-- id: s21-11-0179 -->
 
@@ -774,7 +778,7 @@ C’est la seule chose...
 
 <!-- id: s21-11-0188 -->
 
-> dans cette forme que j’ai faite aussi épurée que possible ...c’est la seule chose qu’il y avait à comprendre : c’est que « *le temps pour comprendre »* ne va pas, s’il n’y a pas **3**, à savoir ce que j’ai appelé :
+dans cette forme que j’ai faite aussi épurée que possible ...c’est la seule chose qu’il y avait à comprendre : c’est que « *le temps pour comprendre »* ne va pas, s’il n’y a pas **3**, à savoir ce que j’ai appelé :
 
 <!-- id: s21-11-0189 -->
 
@@ -826,7 +830,7 @@ C’est à savoir que c’est comme ça que les êtres s’imaginent une univers
 
 <!-- id: s21-11-0201 -->
 
-> puisque d’un apologue il s’agit ...il n’y a pas trace dans cet apologue du moindre rapport entre les prisonniers, puisque c’est justement ce qui leur est interdit : c’est de communiquer entre eux. Ils sont simplement - s’identifient ou se distinguent - d’avoir ou de n’avoir pas, un disque blanc ou un disque noir dans le dos.
+puisque d’un apologue il s’agit ...il n’y a pas trace dans cet apologue du moindre rapport entre les prisonniers, puisque c’est justement ce qui leur est interdit : c’est de communiquer entre eux. Ils sont simplement - s’identifient ou se distinguent - d’avoir ou de n’avoir pas, un disque blanc ou un disque noir dans le dos.
 
 <!-- id: s21-11-0202 -->
 
@@ -858,7 +862,7 @@ Cette place de « *personne »* est bien entendu...
 
 <!-- id: s21-11-0209 -->
 
-> comme le nom de *personne* l’indique ...une place de « *rang à tenir »*, de « *semblant » *: il s’agit de tenir le rôle de l’analyste.
+comme le nom de *personne* l’indique ...une place de « *rang à tenir »*, de « *semblant » *: il s’agit de tenir le rôle de l’analyste.
 
 <!-- id: s21-11-0210 -->
 
@@ -918,11 +922,11 @@ De l’organisation *imaginaire* \[*de la société*\], si on peut dire.
 
 <!-- id: s21-11-0224 -->
 
-> parce que c’est l’autre face de ce que j’ai appelé tout à l’heure le choix, « le groupe » …*simuler avec la foule*…
+parce que c’est l’autre face de ce que j’ai appelé tout à l’heure le choix, « le groupe » …*simuler avec la foule*…
 
 <!-- id: s21-11-0225 -->
 
-> et on a toujours affaire à ça pour y recueillir un groupe …*simuler avec la foule* quelque chose qui fonc­tionne *comme un corps*. *Ouais*... Bon !
+et on a toujours affaire à ça pour y recueillir un groupe …*simuler avec la foule* quelque chose qui fonc­tionne *comme un corps*. *Ouais*... Bon !
 
 <!-- id: s21-11-0226 -->
 
@@ -930,9 +934,9 @@ Mais enfin, cet *objet(a)* quand même, quelle est la face de ce qui vous intér
 
 <!-- id: s21-11-0227 -->
 
-> parce que je l’écris le moins que je peux, j’ai trop le sens de mes *responsabilités* pour que cet écrit,
->
-> je lui laisse pas sa chan­ce, sa chance que *ça cesse*, pour que, si *ça ne cesse pas*, ça fasse sa preu­ve ...mais là, là quand je jaspine, qu’est-ce qui vous intéresse de ce *(a)* dont je parle ?
+parce que je l’écris le moins que je peux, j’ai trop le sens de mes *responsabilités* pour que cet écrit,
+
+je lui laisse pas sa chan­ce, sa chance que *ça cesse*, pour que, si *ça ne cesse pas*, ça fasse sa preu­ve ...mais là, là quand je jaspine, qu’est-ce qui vous intéresse de ce *(a)* dont je parle ?
 
 <!-- id: s21-11-0228 -->
 
@@ -960,7 +964,7 @@ La voix se définit d’autre chose que de ce qui s’inscrit sur un disque...
 
 <!-- id: s21-11-0234 -->
 
-> et sur une bande magnétique comme il y en a tant qui s’en régalent \[*sic*\] ...ça n’a rien à faire avec ça. La voix peut être strictement *la scansion* avec laquelle tout ça je vous le raconte.
+et sur une bande magnétique comme il y en a tant qui s’en régalent \[*sic*\] ...ça n’a rien à faire avec ça. La voix peut être strictement *la scansion* avec laquelle tout ça je vous le raconte.
 
 <!-- id: s21-11-0235 -->
 
@@ -1020,9 +1024,9 @@ Et il faut voir ce qu’elle est capable de vous faire faire : *La vérité*, m
 
 <!-- id: s21-11-0249 -->
 
-> vous entendez jamais rien de ce que je vous dis de ce truc-là
->
-> parce que j’ai l’air de ricaner quand j’en parle de la religion, mais je ricane pas, je grince ...elle mène à la religion, et *à la vraie*, comme je l’ai dit déjà.
+vous entendez jamais rien de ce que je vous dis de ce truc-là
+
+parce que j’ai l’air de ricaner quand j’en parle de la religion, mais je ricane pas, je grince ...elle mène à la religion, et *à la vraie*, comme je l’ai dit déjà.
 
 <!-- id: s21-11-0250 -->
 
@@ -1042,7 +1046,7 @@ Il est évident que ceux qui ont inventé les plus beaux trucs du savoir...
 
 <!-- id: s21-11-0254 -->
 
-> je les nomme, hein, c’est un palmarès
+je les nomme, hein, c’est un palmarès
 
 <!-- id: s21-11-0255 -->
 
@@ -1062,11 +1066,11 @@ Newton, enfin est-ce que vous vous rendez compte de ce que Newton a écrit
 
 <!-- id: s21-11-0259 -->
 
-> vous n’avez jamais regardé ça bien sûr, parce qu’on ne vous le donne pas en livre de poche...
->
-> mais je le regrette. Je ne vous reproche pas non plus de ne pas être allé le chercher.
->
-> Il faudrait faire un livre de poche avec ça, et bien traduit. ...il y croyait dur comme fer à la religion.
+vous n’avez jamais regardé ça bien sûr, parce qu’on ne vous le donne pas en livre de poche...
+
+mais je le regrette. Je ne vous reproche pas non plus de ne pas être allé le chercher.
+
+Il faudrait faire un livre de poche avec ça, et bien traduit. ...il y croyait dur comme fer à la religion.
 
 <!-- id: s21-11-0260 -->
 
@@ -1074,7 +1078,7 @@ Et les deux autres...
 
 <!-- id: s21-11-0261 -->
 
-> il me semble que c’est difficile de renoncer à l’évidence ...ils par­lent que de ça, il y a même que ça qui les intéresse.
+il me semble que c’est difficile de renoncer à l’évidence ...ils par­lent que de ça, il y a même que ça qui les intéresse.
 
 <!-- id: s21-11-0262 -->
 
@@ -1090,7 +1094,11 @@ La parabole d’où c’est parti...
 
 <!-- id: s21-11-0265 -->
 
-> « *la parabo­le* » : je parle de la parabole tracée... ...la parabole et puis n’importe quelle autre lunule ou trucmuche ou machin, enfin c’est des choses écrites, il n’y a que là que nous touchons ce qu’il en est du Réel.
+<div class="text-quotation">
+
+« *la parabo­le* » : je parle de la parabole tracée... ...la parabole et puis n’importe quelle autre lunule ou trucmuche ou machin, enfin c’est des choses écrites, il n’y a que là que nous touchons ce qu’il en est du Réel.
+
+</div>
 
 <!-- id: s21-11-0266 -->
 
@@ -1126,7 +1134,7 @@ C’est pas un hasard que ce soit, dans mes élèves, une femme...
 
 <!-- id: s21-11-0274 -->
 
-> elle est faite comme ça, celle-là, bon, enfin... ...qui a fait comme ça tout un jaspinage sur le *désir de savoir*. C’est certainement pas chez moi qu’elle l’avait pris !
+elle est faite comme ça, celle-là, bon, enfin... ...qui a fait comme ça tout un jaspinage sur le *désir de savoir*. C’est certainement pas chez moi qu’elle l’avait pris !
 
 <!-- id: s21-11-0275 -->
 
@@ -1138,11 +1146,11 @@ J’ai jamais même suggéré un machin pareil, hein.
 
 <!-- id: s21-11-0277 -->
 
-> et sur quoi je n’ai rien à vous dire, parce que je n’en sais rien ...*c’est qu’il y a les mathéma­tiques*...
+et sur quoi je n’ai rien à vous dire, parce que je n’en sais rien ...*c’est qu’il y a les mathéma­tiques*...
 
 <!-- id: s21-11-0278 -->
 
-> qui ne peuvent procéder, me semble-t-il, à moins que ce soit un effet de l’inconscient ...*qui ne produisent pas le moindre désir*, mais c’est quand même curieux de voir que la mathématique ça se continue.
+qui ne peuvent procéder, me semble-t-il, à moins que ce soit un effet de l’inconscient ...*qui ne produisent pas le moindre désir*, mais c’est quand même curieux de voir que la mathématique ça se continue.
 
 <!-- id: s21-11-0279 -->
 
@@ -1182,13 +1190,13 @@ Et un « *très peu pour moi* » dont l’enfant donne la preuve sous cette form
 
 <!-- id: s21-11-0288 -->
 
-> mais comme vous savez, moi aussi j’en apprends tous les jours, je m’éduque, je m’éduque bien sûr dans
->
-> la ligne de ce qui me plaît, dans la ligne de ce que j’invente, forcément, mais enfin *la nourriture ne me manque pas* ...et si vous saviez comme je le sais, à quel point ce que j’ai déjà illustré de l’anorexie mentale en faisant énoncer par cette *action*...
+mais comme vous savez, moi aussi j’en apprends tous les jours, je m’éduque, je m’éduque bien sûr dans
+
+la ligne de ce qui me plaît, dans la ligne de ce que j’invente, forcément, mais enfin *la nourriture ne me manque pas* ...et si vous saviez comme je le sais, à quel point ce que j’ai déjà illustré de l’anorexie mentale en faisant énoncer par cette *action*...
 
 <!-- id: s21-11-0289 -->
 
-> car une action énonce
+car une action énonce
 
 <!-- id: s21-11-0290 -->
 
@@ -1208,7 +1216,7 @@ Mais si vous le demandez aux anorexiques, ou plutôt si vous les laissez venir, 
 
 <!-- id: s21-11-0294 -->
 
-> je l’ai demandé parce que j’étais déjà dans ma petite veine d’invention sur ce sujet ...je l’ai demandé alors, qu’est-ce qu’ils m’ont répondu ?
+je l’ai demandé parce que j’étais déjà dans ma petite veine d’invention sur ce sujet ...je l’ai demandé alors, qu’est-ce qu’ils m’ont répondu ?
 
 <!-- id: s21-11-0295 -->
 
@@ -1216,7 +1224,7 @@ Mais c’est très clair : elle était tel­lement préoccupée de savoir si ell
 
 <!-- id: s21-11-0296 -->
 
-> ce savoir comme ça, désir de savoir, n’est-ce pas ...rien que pour ça elle se serait laissée crever de faim, la gosse !
+ce savoir comme ça, désir de savoir, n’est-ce pas ...rien que pour ça elle se serait laissée crever de faim, la gosse !
 
 <!-- id: s21-11-0297 -->
 
@@ -1272,7 +1280,7 @@ Je veux dire qu’il se peut très bien qu’une personne qui n’avait pas le m
 
 <!-- id: s21-11-0310 -->
 
-> à la moutarde qui devient *hystérique*, et justement pour ça ...qui lui refile que c’est un moyen de la puissance.
+à la moutarde qui devient *hystérique*, et justement pour ça ...qui lui refile que c’est un moyen de la puissance.
 
 <!-- id: s21-11-0311 -->
 
@@ -1296,13 +1304,13 @@ Et tout ce qu’ils veulent, c’est entendre quelque chose qui fait plaisir, mo
 
 <!-- id: s21-11-0316 -->
 
-> temps miraculeux, temps que je voudrais voir se reproduire sous la forme des psychanalystes,
->
-> je voudrais voir s’y reproduire cette espèce de République, ...cette espèce de République qui faisait que Pascal correspondait avec Fermat, avec Roberval, avec Carcavi, avec des tas de gens, qui étaient tous entre eux pour ceci, qu’on ne sait pas quoi s’était produit...
+temps miraculeux, temps que je voudrais voir se reproduire sous la forme des psychanalystes,
+
+je voudrais voir s’y reproduire cette espèce de République, ...cette espèce de République qui faisait que Pascal correspondait avec Fermat, avec Roberval, avec Carcavi, avec des tas de gens, qui étaient tous entre eux pour ceci, qu’on ne sait pas quoi s’était produit...
 
 <!-- id: s21-11-0317 -->
 
-> c’est bien ce que je voudrais un jour tirer de l’histoire ...on ne sait pas quoi s’était produit qui faisait qu’il y avait des gens qui désiraient plus en savoir, à propos de ces choses invraisemblables, qui se dessinent comme ça : [*la cycloïde*](http://www.mathcurve.com/courbes2d/cycloid/cycloid.shtml).
+c’est bien ce que je voudrais un jour tirer de l’histoire ...on ne sait pas quoi s’était produit qui faisait qu’il y avait des gens qui désiraient plus en savoir, à propos de ces choses invraisemblables, qui se dessinent comme ça : [*la cycloïde*](http://www.mathcurve.com/courbes2d/cycloid/cycloid.shtml).
 
 <!-- id: s21-11-0318 -->
 
@@ -1314,7 +1322,7 @@ Bien sûr de là est sortie votre télévision...
 
 <!-- id: s21-11-0320 -->
 
-> cette télévision grâce à quoi vous êtes définitivement abrutis ...bon, mais enfin ils ne le faisaient pas pour ça.
+cette télévision grâce à quoi vous êtes définitivement abrutis ...bon, mais enfin ils ne le faisaient pas pour ça.
 
 <!-- id: s21-11-0321 -->
 

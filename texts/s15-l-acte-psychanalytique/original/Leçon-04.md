@@ -62,9 +62,9 @@ Ces trois répliques désignent donc ce mode propre de *l’appréhension sachan
 
 <!-- id: s15-04-0013 -->
 
-> qui s’en étonne ou ferait à cette occasion de grands yeux, montrerait bien qu’il oublie
->
-> ce qui a été l’entrée dans le monde, les premiers pas de l’analyse …le champ du *lapsus*, de *l’achoppement*, de *l’acte manqué*.
+qui s’en étonne ou ferait à cette occasion de grands yeux, montrerait bien qu’il oublie
+
+ce qui a été l’entrée dans le monde, les premiers pas de l’analyse …le champ du *lapsus*, de *l’achoppement*, de *l’acte manqué*.
 
 <!-- id: s15-04-0014 -->
 
@@ -132,7 +132,7 @@ Il suffit de commencer, auprès de quelqu’un de bon sens, comme on dit, à int
 
 <!-- id: s15-04-0030 -->
 
-> s’il est neuf, s’il n’a pas encore été immunisé, s’il a gardé quelque fraîcheur …la dimension des cogitations analytiques, pour que les gens vous répondent :
+s’il est neuf, s’il n’a pas encore été immunisé, s’il a gardé quelque fraîcheur …la dimension des cogitations analytiques, pour que les gens vous répondent :
 
 <!-- id: s15-04-0031 -->
 
@@ -156,9 +156,9 @@ Le *patient* comme on s’exprime encore, le *psychanalysant* comme j’en ai in
 
 <!-- id: s15-04-0036 -->
 
-> qui s’est diffusé rapidement, ce qui prouve qu’il n’est pas si inopportun et que d’ailleurs il est évident que dire
->
-> *le psychanalysé*, est laisser sur l’achèvement de la chose toutes les équivoques : pendant qu’on est en psychanalyse, le mot *psychanalysé* n’a de sens que d’indiquer une passivité qui n’est nullement évidente, c’est bien plutôt le contraire puisque après tout, celui qui parle tout le temps, c’est bien le psychanalysant, c’est déjà un indice …ce *psychanalysant*, dont l’analyse est menée à un terme dont - je viens de le dire - *personne* n’a strictement défini encore la portée de *fin* dans toutes les acceptions de ce mot, mais où néanmoins il est supposé que ce peut être un *faire* réussi, l’épingler d’un mot comme *être*, pourquoi pas ?
+qui s’est diffusé rapidement, ce qui prouve qu’il n’est pas si inopportun et que d’ailleurs il est évident que dire
+
+*le psychanalysé*, est laisser sur l’achèvement de la chose toutes les équivoques : pendant qu’on est en psychanalyse, le mot *psychanalysé* n’a de sens que d’indiquer une passivité qui n’est nullement évidente, c’est bien plutôt le contraire puisque après tout, celui qui parle tout le temps, c’est bien le psychanalysant, c’est déjà un indice …ce *psychanalysant*, dont l’analyse est menée à un terme dont - je viens de le dire - *personne* n’a strictement défini encore la portée de *fin* dans toutes les acceptions de ce mot, mais où néanmoins il est supposé que ce peut être un *faire* réussi, l’épingler d’un mot comme *être*, pourquoi pas ?
 
 <!-- id: s15-04-0037 -->
 
@@ -198,7 +198,7 @@ Et aussi bien n’y a-t-il rien d’abusif à l’évoquer quand les analystes d
 
 <!-- id: s15-04-0046 -->
 
-> et qui peuvent tomber le plus sous le coup de cette désignation de l’achoppement - là où je propose qu’on aille chercher l’incidence qui puisse compléter voire instaurer l’appui de notre critique …il n’y a rien d’abusif à parler de ce point tournant du passage du psychanalysant au psychanalyste puisque par les psychanalystes eux-mêmes, ceci même que je viens d’évoquer, la référence en est constante et donnée comme condition de toute compétence analytique.
+et qui peuvent tomber le plus sous le coup de cette désignation de l’achoppement - là où je propose qu’on aille chercher l’incidence qui puisse compléter voire instaurer l’appui de notre critique …il n’y a rien d’abusif à parler de ce point tournant du passage du psychanalysant au psychanalyste puisque par les psychanalystes eux-mêmes, ceci même que je viens d’évoquer, la référence en est constante et donnée comme condition de toute compétence analytique.
 
 <!-- id: s15-04-0047 -->
 
@@ -210,11 +210,11 @@ Le frappant en serait que les déchirures qui se marquent à tout instant, l’i
 
 <!-- id: s15-04-0049 -->
 
-> celle qui est liée à la première *recherche pathétique*, celle supposée par l’existence simplement d’un système moteur qui, dès lors qu’il ne rencontre pas l’objet de sa satisfaction, serait - c’est au principe de l’explication du processus primaire - responsable de ce processus régressif qui fait apparaître *l’image fantasmatique* de ce qui est recherché …la complète incompatibilité de ce registre, qui est bien pourtant à mettre au tableau de la pensée, avec ce qui est au niveau du processus secondaire instauré d’une pensée*…* qui est une sorte *d’action réduite*, *d’action au petit pied* qui force à passer dans un tout autre registre que celui qui a été évoqué d’abord, à savoir *l’introduction de la dimension de l’épreuve de la réalité* …ne manque pas bien sûr d’être notées au passage par l’auteur qui, poursuivant imperturbablement son chemin, en arrivera à s’apercevoir que non seulement il n’y a pas deux modes et deux registres de pensée, mais qu’il y en a une infinité…
+celle qui est liée à la première *recherche pathétique*, celle supposée par l’existence simplement d’un système moteur qui, dès lors qu’il ne rencontre pas l’objet de sa satisfaction, serait - c’est au principe de l’explication du processus primaire - responsable de ce processus régressif qui fait apparaître *l’image fantasmatique* de ce qui est recherché …la complète incompatibilité de ce registre, qui est bien pourtant à mettre au tableau de la pensée, avec ce qui est au niveau du processus secondaire instauré d’une pensée*…* qui est une sorte *d’action réduite*, *d’action au petit pied* qui force à passer dans un tout autre registre que celui qui a été évoqué d’abord, à savoir *l’introduction de la dimension de l’épreuve de la réalité* …ne manque pas bien sûr d’être notées au passage par l’auteur qui, poursuivant imperturbablement son chemin, en arrivera à s’apercevoir que non seulement il n’y a pas deux modes et deux registres de pensée, mais qu’il y en a une infinité…
 
 <!-- id: s15-04-0050 -->
 
-> qui sont à peu près à *échelonner* dans ce qu’auparavant les psychologues ont noté des « *étagements de la conscience *» …et par conséquent de complètement réduire le relief de ce qui a été apporté par FREUD à ce qu’on appelle « *la psychologie générale* », c’est-à-dire à son abolition.
+qui sont à peu près à *échelonner* dans ce qu’auparavant les psychologues ont noté des « *étagements de la conscience *» …et par conséquent de complètement réduire le relief de ce qui a été apporté par FREUD à ce qu’on appelle « *la psychologie générale* », c’est-à-dire à son abolition.
 
 <!-- id: s15-04-0051 -->
 
@@ -226,11 +226,11 @@ Ce n’est là qu’un exemple léger et vous pouvez à votre gré aller le conf
 
 <!-- id: s15-04-0053 -->
 
-> car *le plaisir* servait de toujours à définir le « *Bien* », il était en lui-même satisfaction, à ceci près naturellement
->
-> que personne ne pouvait y croire, parce que tout le monde a su depuis toujours qu’être dans le « *Bien* »,
->
-> ce n’est pas toujours satisfaisant …si FREUD introduit cette autre chose, il s’agit de voir quelle est la cohérence de cette pointe avec celle qui d’abord s’indique dans la dimension de *la vérité*.
+car *le plaisir* servait de toujours à définir le « *Bien* », il était en lui-même satisfaction, à ceci près naturellement
+
+que personne ne pouvait y croire, parce que tout le monde a su depuis toujours qu’être dans le « *Bien* »,
+
+ce n’est pas toujours satisfaisant …si FREUD introduit cette autre chose, il s’agit de voir quelle est la cohérence de cette pointe avec celle qui d’abord s’indique dans la dimension de *la vérité*.
 
 <!-- id: s15-04-0054 -->
 
@@ -374,7 +374,7 @@ Seulement, ça comporte un certain nombre de points *tabous*, en quelque sorte d
 
 <!-- id: s15-04-0089 -->
 
-> je veux dire ceux qui viennent consulter l’analyste pour trouver plus d’assurance …eh bien - mon Dieu - il arrive qu’on fasse une théorie des conditions de l’assurance croissante qui doit arriver à quelqu’un qui se développe normalement.
+je veux dire ceux qui viennent consulter l’analyste pour trouver plus d’assurance …eh bien - mon Dieu - il arrive qu’on fasse une théorie des conditions de l’assurance croissante qui doit arriver à quelqu’un qui se développe normalement.
 
 <!-- id: s15-04-0090 -->
 
@@ -390,7 +390,7 @@ L’échelonnement va, tout à fait au sommet, nous donner…
 
 <!-- id: s15-04-0093 -->
 
-> je l’ai déjà évoqué quelquefois, je m’excuse, c’est là un bateau …un *G.I.* parfaitement assuré. C’est constructible, tout est constructible en termes de psychologie.
+je l’ai déjà évoqué quelquefois, je m’excuse, c’est là un bateau …un *G.I.* parfaitement assuré. C’est constructible, tout est constructible en termes de psychologie.
 
 <!-- id: s15-04-0094 -->
 
@@ -434,7 +434,7 @@ La seule introduction de ce petit objet qu’on appelle chez M. WINNICOTT *l’o
 
 <!-- id: s15-04-0104 -->
 
-> qui quand nous l’observons n’est pas du tout forcément un drame, comme me faisait remarquer quelqu’un qui n’est pas sans pénétration : il se peut que le sevrage, la personne qui le ressent le plus, c’est la mère …que ce ne soit la présence, la seule présence dans ce cas qui semble être en quelque sorte l’appui, l’arche fondamentale grâce à quoi tout ne sera plus jamais ensuite développé qu’en termes de rapport duel, de rapport de l’enfant à la mère.
+qui quand nous l’observons n’est pas du tout forcément un drame, comme me faisait remarquer quelqu’un qui n’est pas sans pénétration : il se peut que le sevrage, la personne qui le ressent le plus, c’est la mère …que ce ne soit la présence, la seule présence dans ce cas qui semble être en quelque sorte l’appui, l’arche fondamentale grâce à quoi tout ne sera plus jamais ensuite développé qu’en termes de rapport duel, de rapport de l’enfant à la mère.
 
 <!-- id: s15-04-0105 -->
 
@@ -490,7 +490,7 @@ Qui ne voit…
 
 <!-- id: s15-04-0118 -->
 
-> quand déjà nous avons dans la théorie analytique ce « *Real-Ich *», ce « *Lust-Ich *», ce « *ego *», ce « *id* », toutes ces références déjà assez articulées pour définir notre champ …que *l’adjonction* de ce *self* ne représente rien d’autre que - comme d’ailleurs *c’est avoué* dans le texte avec *false* et *true - la vérité* ?
+quand déjà nous avons dans la théorie analytique ce « *Real-Ich *», ce « *Lust-Ich *», ce « *ego *», ce « *id* », toutes ces références déjà assez articulées pour définir notre champ …que *l’adjonction* de ce *self* ne représente rien d’autre que - comme d’ailleurs *c’est avoué* dans le texte avec *false* et *true - la vérité* ?
 
 <!-- id: s15-04-0119 -->
 
@@ -506,7 +506,7 @@ Nous sommes ici pour indiquer comment la moindre méconnaissance…
 
 <!-- id: s15-04-0122 -->
 
-> et comment n’existerait–elle pas puisque n’est pas encore défini ce qu’il en est de *l’acte analytique* ? …entraîne aussitôt *qui* l’assume, et d’autant mieux qu’il est plus sûr, qu’il est plus capable… je cite cet auteur parce que je considère qu’*il n’y en a pas qui l’approchent en langue anglaise* …qu’aussitôt il soit porté, noir sur blanc, à la négation de la position analytique.
+et comment n’existerait–elle pas puisque n’est pas encore défini ce qu’il en est de *l’acte analytique* ? …entraîne aussitôt *qui* l’assume, et d’autant mieux qu’il est plus sûr, qu’il est plus capable… je cite cet auteur parce que je considère qu’*il n’y en a pas qui l’approchent en langue anglaise* …qu’aussitôt il soit porté, noir sur blanc, à la négation de la position analytique.
 
 <!-- id: s15-04-0123 -->
 

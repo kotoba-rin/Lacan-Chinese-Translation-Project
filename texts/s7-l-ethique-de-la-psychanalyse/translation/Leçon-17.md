@@ -78,7 +78,7 @@ max_segment_id: 147
 
 <!-- id: s7-17-0016 -->
 
-> 《勒沙特列原理与自我保存驱力》（*Das Prinzip von Le Chatelier und der Selbsterhaltungstrieb*）。〔[*Imago*，1929，第3—4册，第289—298页](http://www.archive.org/details/Imago_1929_XV_Heft_3_4_k)〕
+《勒沙特列原理与自我保存驱力》（*Das Prinzip von Le Chatelier und der Selbsterhaltungstrieb*）。〔[*Imago*，1929，第3—4册，第289—298页](http://www.archive.org/details/Imago_1929_XV_Heft_3_4_k)〕
 
 <!-- id: s7-17-0017 -->
 
@@ -86,7 +86,7 @@ max_segment_id: 147
 
 <!-- id: s7-17-0018 -->
 
-> 《论精神能量、力比多及其可测量性》（*Über psychische Energie, Libido und deren Meßbarkeit*）。〔[*Imago*，1930，第1册，第66—118页](http://www.archive.org/details/Imago_1930_XVI_Heft_1_k)〕
+《论精神能量、力比多及其可测量性》（*Über psychische Energie, Libido und deren Meßbarkeit*）。〔[*Imago*，1930，第1册，第66—118页](http://www.archive.org/details/Imago_1930_XVI_Heft_1_k)〕
 
 <!-- id: s7-17-0019 -->
 
@@ -94,7 +94,7 @@ max_segment_id: 147
 
 <!-- id: s7-17-0020 -->
 
-> 《脑与身体之间的温差》（*Über die Temperaturdifferenz zwischen Gehirn und Körper*）。
+《脑与身体之间的温差》（*Über die Temperaturdifferenz zwischen Gehirn und Körper*）。
 
 <!-- id: s7-17-0021 -->
 
@@ -102,7 +102,7 @@ max_segment_id: 147
 
 <!-- id: s7-17-0022 -->
 
-> 《熵原理与死亡驱力》（*Der Entropiesatz und der Todestrieb*），后来英译刊于《国际精神分析杂志》。
+《熵原理与死亡驱力》（*Der Entropiesatz und der Todestrieb*），后来英译刊于《国际精神分析杂志》。
 
 <!-- id: s7-17-0023 -->
 

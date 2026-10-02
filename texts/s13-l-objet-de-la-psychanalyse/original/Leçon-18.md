@@ -126,7 +126,11 @@ Et puis, j’ai repris le texte de FOUCAULT, ce chapitre tellement remarquable, 
 
 <!-- id: s13-18-0031 -->
 
-> « *Sa taille sombre et son visage clair sont mitoyens du visible et de l’invisible.* » \[*Les mots et les choses*, p.19\]
+<div class="text-quotation">
+
+« *Sa taille sombre et son visage clair sont mitoyens du visible et de l’invisible.* » \[*Les mots et les choses*, p.19\]
+
+</div>
 
 <!-- id: s13-18-0032 -->
 
@@ -178,7 +182,7 @@ Ils sont en avant de VELÀZQUEZ et je crois qu’on peut diviser ce groupe lui-m
 
 <!-- id: s13-18-0044 -->
 
-> et je crois que ceci est évidemment très important,
+et je crois que ceci est évidemment très important,
 
 <!-- id: s13-18-0045 -->
 
@@ -338,7 +342,7 @@ Partir de là en disant que ceci \[A\], dont *vous avez tracé la ligne horizont
 
 <!-- id: s13-18-0084 -->
 
-> et d’ailleurs ce sur quoi nous restons dans l’embarras, parce que, cette ligne, ce par quoi elle est déterminée : elle est déterminée par ce plan que j’ai appelé la première fois *le plan–support*, que j’ai appelé plus simplement et pour faire image, ensuite, le sol n’est-ce pas, *le* *plan sol* …vous ne le précisez pas, mais par contre supposer que quoi que ce soit qui est dans ce plan, dans ce plan du regard, peut aller se projeter à ce quelque chose que vous avez introduit d’abord et qui est la ligne d’horizon, c’est vraiment manquer l’essentiel de ce qu’apportait la construction que je vous ai montrée l’autre jour \[supra 11-05\] en second temps, après l’avoir d’abord exprimée \[Supra 04-05\] d’une façon, enfin, qui aurait pu se traduire simplement *par des lettres ou des chiffres* au tableau.
+et d’ailleurs ce sur quoi nous restons dans l’embarras, parce que, cette ligne, ce par quoi elle est déterminée : elle est déterminée par ce plan que j’ai appelé la première fois *le plan–support*, que j’ai appelé plus simplement et pour faire image, ensuite, le sol n’est-ce pas, *le* *plan sol* …vous ne le précisez pas, mais par contre supposer que quoi que ce soit qui est dans ce plan, dans ce plan du regard, peut aller se projeter à ce quelque chose que vous avez introduit d’abord et qui est la ligne d’horizon, c’est vraiment manquer l’essentiel de ce qu’apportait la construction que je vous ai montrée l’autre jour \[supra 11-05\] en second temps, après l’avoir d’abord exprimée \[Supra 04-05\] d’une façon, enfin, qui aurait pu se traduire simplement *par des lettres ou des chiffres* au tableau.
 
 <!-- id: s13-18-0085 -->
 
@@ -442,7 +446,7 @@ Le champ scopique, il y a longtemps qu’il sert dans cette relation à *L’ess
 
 <!-- id: s13-18-0110 -->
 
-> dont je ne conçois même pas pourquoi il n’a pas été traduit le premier, comme *Wesen* - non pas comme *Wesen der Wahrheit* - mais de la *Lehre* \[*Doctrine, enseignement*\] de PLATON sur *la vérité*, ouvrage qui non seulement n’est pas traduit mais en plus, est introuvable ...est là pour nous rappeler combien, dans le premier enseignement, il est absolument clair, manifeste, sur ce sujet de *la vérité*, -que PLATON a fait usage de ce que j’appellerais ce monde scopique.
+dont je ne conçois même pas pourquoi il n’a pas été traduit le premier, comme *Wesen* - non pas comme *Wesen der Wahrheit* - mais de la *Lehre* \[*Doctrine, enseignement*\] de PLATON sur *la vérité*, ouvrage qui non seulement n’est pas traduit mais en plus, est introuvable ...est là pour nous rappeler combien, dans le premier enseignement, il est absolument clair, manifeste, sur ce sujet de *la vérité*, -que PLATON a fait usage de ce que j’appellerais ce monde scopique.
 
 <!-- id: s13-18-0111 -->
 
@@ -466,9 +470,9 @@ C’est bien l’entière présence de tout le bataclan qui permet à HEIDEGGER 
 
 <!-- id: s13-18-0116 -->
 
-> parce que je pense que vous l’avez lu, et comme cet ouvrage est introuvable il doit y en avoir peu
->
-> qui l’aient lu jusqu’ici, ici, mais j’en ai tout de même quelque peu parlé …c’est-à-dire de faire dire à PLATON beaucoup plus qu’on n’y lit ordinairement, et de montrer, en tout cas, la valeur fondamentale d’un certain nombre de *mouvements du sujet* qui sont très exactement quelque chose qui, comme il le souligne, lie la vérité à une certaine formation, une certaine παιδεία \[paideia\]. À savoir à ces mouvements que nous connaissons bien, en tout cas dont ceux qui suivent mon enseignement, connaissent bien la valeur de signifiant : mouvement de tour et de retour, mouvement de celui qui se retourne et qui doit se maintenir dans ce *retournement*.
+parce que je pense que vous l’avez lu, et comme cet ouvrage est introuvable il doit y en avoir peu
+
+qui l’aient lu jusqu’ici, ici, mais j’en ai tout de même quelque peu parlé …c’est-à-dire de faire dire à PLATON beaucoup plus qu’on n’y lit ordinairement, et de montrer, en tout cas, la valeur fondamentale d’un certain nombre de *mouvements du sujet* qui sont très exactement quelque chose qui, comme il le souligne, lie la vérité à une certaine formation, une certaine παιδεία \[paideia\]. À savoir à ces mouvements que nous connaissons bien, en tout cas dont ceux qui suivent mon enseignement, connaissent bien la valeur de signifiant : mouvement de tour et de retour, mouvement de celui qui se retourne et qui doit se maintenir dans ce *retournement*.
 
 <!-- id: s13-18-0117 -->
 
@@ -640,7 +644,7 @@ Par contre, en tenant compte de ceci : que cette ligne \[b\]…
 
 <!-- id: s13-18-0159 -->
 
-> que nous déterminons comme la *ligne d’intersection* du plan \[*S*\] qui passe par le point S supposé de départ, d’intersection avec le plan support …que cette ligne sur le *plan-figure* a une traduction \[Δp\] qu’il est facile de saisir, parce qu’il suffit simplement de renverser, ce qu’il nous a paru tout naturel d’admettre concernant la relation de l’horizon \[h\] avec la ligne infinie \[Δq\] sur le plan support, là dans l’autre disposition :
+que nous déterminons comme la *ligne d’intersection* du plan \[*S*\] qui passe par le point S supposé de départ, d’intersection avec le plan support …que cette ligne sur le *plan-figure* a une traduction \[Δp\] qu’il est facile de saisir, parce qu’il suffit simplement de renverser, ce qu’il nous a paru tout naturel d’admettre concernant la relation de l’horizon \[h\] avec la ligne infinie \[Δq\] sur le plan support, là dans l’autre disposition :
 
 <!-- id: s13-18-0160 -->
 
@@ -700,7 +704,7 @@ C’est pour autant que ce n’est pas une œuvre avec une perspective habituell
 
 <!-- id: s13-18-0174 -->
 
-> dont je regrette d’être forcé de toujours revenir sur les mêmes plans qui soient trop arides …un peintre dont je vais, en vous quittant, vous montrer ici une œuvre, que vous pouvez d’ailleurs aller tous voir là où elle est exposée, montrant que c’est bien le problème du peintre - *et ceci, reportez-vous à mes premières dialectiques comme quand j’ai introduit la pulsion scopique -* à savoir que le tableau est un piège à regard, qu’il s’agit de piéger celui qui est là devant.
+dont je regrette d’être forcé de toujours revenir sur les mêmes plans qui soient trop arides …un peintre dont je vais, en vous quittant, vous montrer ici une œuvre, que vous pouvez d’ailleurs aller tous voir là où elle est exposée, montrant que c’est bien le problème du peintre - *et ceci, reportez-vous à mes premières dialectiques comme quand j’ai introduit la pulsion scopique -* à savoir que le tableau est un piège à regard, qu’il s’agit de piéger celui qui est là devant.
 
 <!-- id: s13-18-0175 -->
 
@@ -748,9 +752,9 @@ Et que cet intervalle \[δ\], cet intervalle entre les deux plans, le plan du ta
 
 <!-- id: s13-18-0186 -->
 
-> car, en plus, histoire de se faire un peu plus mal voir : un vocabulaire qui n’était pas comme celui de tout le monde
->
-> \[[G. DESARGUES : *Brouillon project d’une atteinte aux événemens des rencontres d’un cône avec un plan* (1639)](http://gallica.bnf.fr/ark:/12148/bpt6k105071b.capture)\] …dans l’« *essieu* » de l’affaire qu’est-ce qui se passe ?
+car, en plus, histoire de se faire un peu plus mal voir : un vocabulaire qui n’était pas comme celui de tout le monde
+
+\[[G. DESARGUES : *Brouillon project d’une atteinte aux événemens des rencontres d’un cône avec un plan* (1639)](http://gallica.bnf.fr/ark:/12148/bpt6k105071b.capture)\] …dans l’« *essieu* » de l’affaire qu’est-ce qui se passe ?
 
 <!-- id: s13-18-0187 -->
 
@@ -762,7 +766,11 @@ Bref que les deux points de fuite de ce tableau soient non pas simplement celui 
 
 <!-- id: s13-18-0189 -->
 
-> « *Tu ne me vois pas d’où je te regarde.* »
+<div class="text-quotation">
+
+« *Tu ne me vois pas d’où je te regarde.* »
+
+</div>
 
 <!-- id: s13-18-0190 -->
 
@@ -818,9 +826,9 @@ Mais c’est pas vrai. Il l’avait mis là parce que ça devait être là… En
 
 <!-- id: s13-18-0203 -->
 
-> je l’avais vu déjà une fois, autrefois, et je ne m’en souvenais plus, mais quand je l’ai vu cette fois-ci, dans ce contexte,
->
-> vous attribuerez ceci, je ne sais pas à quoi, à ma lucidité ou à mon délire, c’est à vous d’en trancher …j’ai dit : « *Voilà Les Ménines.* » Pourquoi est-ce que ce tableau ce sont *Les Ménines* ?
+je l’avais vu déjà une fois, autrefois, et je ne m’en souvenais plus, mais quand je l’ai vu cette fois-ci, dans ce contexte,
+
+vous attribuerez ceci, je ne sais pas à quoi, à ma lucidité ou à mon délire, c’est à vous d’en trancher …j’ai dit : « *Voilà Les Ménines.* » Pourquoi est-ce que ce tableau ce sont *Les Ménines* ?
 
 <!-- id: s13-18-0204 -->
 

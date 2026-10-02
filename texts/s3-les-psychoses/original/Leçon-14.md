@@ -70,7 +70,7 @@ La seconde partie concernait cet infléchissement de l’analyse ou ce qui résu
 
 <!-- id: s3-14-0017 -->
 
-> comme j’espère l’avoir assez fortement articulé dans l’ensemble
+comme j’espère l’avoir assez fortement articulé dans l’ensemble
 
 <!-- id: s3-14-0018 -->
 
@@ -78,7 +78,7 @@ La seconde partie concernait cet infléchissement de l’analyse ou ce qui résu
 
 <!-- id: s3-14-0019 -->
 
-> la façon dont elle se désigne elle-même, dont l’exprime dans cette doctrine, la théorie promue actuellement dans les cercles new-yorkais
+la façon dont elle se désigne elle-même, dont l’exprime dans cette doctrine, la théorie promue actuellement dans les cercles new-yorkais
 
 <!-- id: s3-14-0020 -->
 
@@ -98,7 +98,7 @@ Il y a bien d’autres façons, de modes d’intervention : l’extension des n�
 
 <!-- id: s3-14-0024 -->
 
-> qui sont à proprement parler dans leur signifiance, mais qui à l’occasion peuvent être pourtant mobilisés
+qui sont à proprement parler dans leur signifiance, mais qui à l’occasion peuvent être pourtant mobilisés
 
 <!-- id: s3-14-0025 -->
 
@@ -126,9 +126,9 @@ J’ai indiqué hier soir les points les plus significatifs. Vous voyez que FREU
 
 <!-- id: s3-14-0031 -->
 
-> ce qu’il a appelé « *idéal du moi* », c’est-à-dire justement la fonction d’illusion, d’irréalisation,
->
-> la fonction fondamentalement narcissisante du *moi*, dit-il en toutes lettres
+ce qu’il a appelé « *idéal du moi* », c’est-à-dire justement la fonction d’illusion, d’irréalisation,
+
+la fonction fondamentalement narcissisante du *moi*, dit-il en toutes lettres
 
 <!-- id: s3-14-0032 -->
 
@@ -144,7 +144,7 @@ C’est à savoir quelle est dans les névroses typiques l’utilisation que pre
 
 <!-- id: s3-14-0035 -->
 
-> *pour ne pas dire « L’homme pense », il ne faut pas dire « l’âme pense », dit Aristote, mais « l’homme pense avec son âme. »*
+*pour ne pas dire « L’homme pense », il ne faut pas dire « l’âme pense », dit Aristote, mais « l’homme pense avec son âme. »*
 
 <!-- id: s3-14-0036 -->
 
@@ -192,9 +192,9 @@ Et *le ressort* de son erreur, la critique de sa technique…
 
 <!-- id: s3-14-0047 -->
 
-> qui est donnée *par lui-même* dans la reconnaissance du fait qu’il s’est trompé sur *l’objet*,
->
-> c’est-à-dire quelque chose qui est dans toute la topique générale de la relation subjective
+qui est donnée *par lui-même* dans la reconnaissance du fait qu’il s’est trompé sur *l’objet*,
+
+c’est-à-dire quelque chose qui est dans toute la topique générale de la relation subjective
 
 <!-- id: s3-14-0048 -->
 
@@ -222,7 +222,11 @@ La fonction remplie, si vous voulez, dans le schéma du stade du miroir par *l�
 
 <!-- id: s3-14-0054 -->
 
-> « *Elle n’a plus besoin de parler puisqu’il n’est plus là. Il n’y a plus qu’à écrire.* »
+<div class="text-quotation">
+
+« *Elle n’a plus besoin de parler puisqu’il n’est plus là. Il n’y a plus qu’à écrire.* »
+
+</div>
 
 <!-- id: s3-14-0055 -->
 
@@ -250,9 +254,9 @@ S’il y a quelque chose qui ressort de tout ce sur quoi FREUD a toujours insist
 
 <!-- id: s3-14-0061 -->
 
-> malgré le mouvement d’enthousiasme pour les phénomènes imaginaires remués dans l’expérience analytique, les bonnes volontés à trouver immédiatement les symétries, les analogies :
->
-> « *Le complexe d’Œdipe ? Comme c’est clair ! Comme on l’a bien expliqué pour le garçon ! Alors ça doit bien être la même chose pour la fille. Et d’ailleurs comme Freud lui-même l’a indiqué : beaucoup de choses jouent ainsi.* »
+malgré le mouvement d’enthousiasme pour les phénomènes imaginaires remués dans l’expérience analytique, les bonnes volontés à trouver immédiatement les symétries, les analogies :
+
+« *Le complexe d’Œdipe ? Comme c’est clair ! Comme on l’a bien expliqué pour le garçon ! Alors ça doit bien être la même chose pour la fille. Et d’ailleurs comme Freud lui-même l’a indiqué : beaucoup de choses jouent ainsi.* »
 
 <!-- id: s3-14-0062 -->
 

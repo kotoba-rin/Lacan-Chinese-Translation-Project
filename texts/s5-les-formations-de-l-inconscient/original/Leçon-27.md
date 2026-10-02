@@ -293,7 +293,7 @@ en tant qu’elle n’est pas une *signification natu­relle*, qu’elle n’est
 
 <!-- id: s5-27-0062 -->
 
-> que nous pouvons appeler justement ainsi, momentané­ment et pour les distinguer, d’un certain Σ \[sigma\] si vous voulez, c’est-à-dire *cet au-delà de la chaîne signifiante* dans laquelle nous essayons de la réduire
+que nous pouvons appeler justement ainsi, momentané­ment et pour les distinguer, d’un certain Σ \[sigma\] si vous voulez, c’est-à-dire *cet au-delà de la chaîne signifiante* dans laquelle nous essayons de la réduire
 
 <!-- id: s5-27-0063 -->
 
@@ -630,8 +630,8 @@ le *signifiant phallus*. C’est là, devant les quatre points cardinaux posés 
 
 <!-- id: s5-27-0132 -->
 
-> placé dans les conditions *aty­piques, anormales, déficitaires, pathologiques* qui sont celles du névrosé, mais néan­moins dans une constellation complète, et non pas décomplétée comme chez le psychotique
-> *...*le sujet va avoir à développer.
+placé dans les conditions *aty­piques, anormales, déficitaires, pathologiques* qui sont celles du névrosé, mais néan­moins dans une constellation complète, et non pas décomplétée comme chez le psychotique
+*...*le sujet va avoir à développer.
 
 <!-- id: s5-27-0133 -->
 
@@ -984,11 +984,15 @@ que l’auteur emploie ailleurs dans des termes qui sont à peu près ceux que j
 
 <!-- id: s5-27-0209 -->
 
-> « *Ceci est mon corps, ceci est mon sang...* *Ce phallus, vous pouvez vous fier à moi, homme comme tel, absorbez-le,*
->
-> *je vous le permets, ce phallus c’est ce qui doit vous donner force et vigueur, c’est le quelque chose qui doit résoudre*
->
-> *pour vous toutes vos difficultés d’ob­sessionnelle.* »
+<div class="text-quotation">
+
+« *Ceci est mon corps, ceci est mon sang...* *Ce phallus, vous pouvez vous fier à moi, homme comme tel, absorbez-le,*
+
+*je vous le permets, ce phallus c’est ce qui doit vous donner force et vigueur, c’est le quelque chose qui doit résoudre*
+
+*pour vous toutes vos difficultés d’ob­sessionnelle.* »
+
+</div>
 
 <!-- id: s5-27-0210 -->
 

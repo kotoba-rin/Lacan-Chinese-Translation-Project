@@ -266,7 +266,7 @@ Je vous l’ai montré la dernière fois, et je vous le remontrerai : ceci nous 
 
 <!-- id: s9-21-0066 -->
 
-> \(1\) (2) (3)
+\(1\) (2) (3)
 
 <!-- id: s9-21-0067 -->
 
@@ -318,7 +318,7 @@ Néan­moins, ce qui est ainsi indiqué par cette forme ainsi encerclée n’est
 
 <!-- id: s9-21-0079 -->
 
-> \[a\] \[b\] \[c\]
+\[a\] \[b\] \[c\]
 
 <!-- id: s9-21-0080 -->
 

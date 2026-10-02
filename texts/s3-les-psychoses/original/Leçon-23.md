@@ -174,9 +174,9 @@ Personne non plus ne s’arrête à ceci : c’est qu’au fond de la pensée r
 
 <!-- id: s3-23-0043 -->
 
-> je le répète parce que je l’ai indiqué tout à l’heure, et que c’est par là que ça se raccorde
->
-> à notre expérience qui nous est la plus commune
+je le répète parce que je l’ai indiqué tout à l’heure, et que c’est par là que ça se raccorde
+
+à notre expérience qui nous est la plus commune
 
 <!-- id: s3-23-0044 -->
 
@@ -396,7 +396,7 @@ Vous le voyez assez puisque pour le Président SCHREBER qui selon toute apparenc
 
 <!-- id: s3-23-0098 -->
 
-> et en partant des exemples que je vous donne aujourd’hui, comment nous pouvons concevoir le mécanisme,
+et en partant des exemples que je vous donne aujourd’hui, comment nous pouvons concevoir le mécanisme,
 
 <!-- id: s3-23-0099 -->
 

@@ -42,7 +42,11 @@ Je voudrais vous rappeler pourtant que je pense, que la 1<sup>ère</sup> fois qu
 
 <!-- id: s20-05-0010 -->
 
-> « *La jouissance - la jouissance de l’Autre, que j’ai dit symbolisé par le corps -* [*n’est pas u*<span id="Retour_UN_signe" class="anchor"></span>*n signe de l’amour*](#LE_signe) ».
+<div class="text-quotation">
+
+« *La jouissance - la jouissance de l’Autre, que j’ai dit symbolisé par le corps -* [*n’est pas u*<span id="Retour_UN_signe" class="anchor"></span>*n signe de l’amour*](#LE_signe) ».
+
+</div>
 
 <!-- id: s20-05-0011 -->
 
@@ -54,7 +58,7 @@ Naturellement ça passe, ça passe parce que, on sent que c’est du niveau de c
 
 <!-- id: s20-05-0013 -->
 
-> \[*le « dire que ça ne va pas », le « dire que non » à quoi aboutit chaque discours* (H,U,M,A) *dans son impuissance à rejoindre la vérité de « la jouissance du corps de l’Autre », renverse le discours « échoué » et passe au discours suivant : rotation anti-horaire d’un quart de tour et changement d’objet(a)*\]
+\[*le « dire que ça ne va pas », le « dire que non » à quoi aboutit chaque discours* (H,U,M,A) *dans son impuissance à rejoindre la vérité de « la jouissance du corps de l’Autre », renverse le discours « échoué » et passe au discours suivant : rotation anti-horaire d’un quart de tour et changement d’objet(a)*\]
 
 <!-- id: s20-05-0014 -->
 
@@ -76,9 +80,9 @@ Naturellement ça passe, ça passe parce que, on sent que c’est du niveau de c
 
 <!-- id: s20-05-0018 -->
 
-> je veux dire en tant qu’*incarnation* distincte du sexe
->
-> ...qu’ils prennent leur fonction.
+je veux dire en tant qu’*incarnation* distincte du sexe
+
+...qu’ils prennent leur fonction.
 
 <!-- id: s20-05-0019 -->
 
@@ -86,9 +90,9 @@ Naturellement ça passe, ça passe parce que, on sent que c’est du niveau de c
 
 <!-- id: s20-05-0020 -->
 
-> \- Qu’est-ce qu’il en est de cet *Autre* ?
->
-> \- Qu’est-ce qu’il en est de sa position au regard de ce autour de quoi se réalise *le rapport sexuel* ?
+\- Qu’est-ce qu’il en est de cet *Autre* ?
+
+\- Qu’est-ce qu’il en est de sa position au regard de ce autour de quoi se réalise *le rapport sexuel* ?
 
 <!-- id: s20-05-0021 -->
 
@@ -148,7 +152,7 @@ Ai-je besoin d’accentuer qu’il est au centre, qu’il est au cœur, très pr
 
 <!-- id: s20-05-0035 -->
 
-> à savoir ce qui dans le langage se dérobe le plus, ce sur quoi j’ai insisté comme *ce qui allait être*, ou ce qui justement *d’être,* a fait surprise.
+à savoir ce qui dans le langage se dérobe le plus, ce sur quoi j’ai insisté comme *ce qui allait être*, ou ce qui justement *d’être,* a fait surprise.
 
 <!-- id: s20-05-0036 -->
 
@@ -156,9 +160,9 @@ Ai-je besoin d’accentuer qu’il est au centre, qu’il est au cœur, très pr
 
 <!-- id: s20-05-0037 -->
 
-> \- s’il n’est pas si près de cet *être* du signifiant « *m’être » :* « *m, apostrophe, e accent grave… »* \[lapsus\], - s’il n’est pas l’*être* au commandement,
->
-> \- s’il n’y a pas là le plus étrange des leurres.
+\- s’il n’est pas si près de cet *être* du signifiant « *m’être » :* « *m, apostrophe, e accent grave… »* \[lapsus\], - s’il n’est pas l’*être* au commandement,
+
+\- s’il n’y a pas là le plus étrange des leurres.
 
 <!-- id: s20-05-0038 -->
 
@@ -194,7 +198,7 @@ De *l’être* en tant qu’il est...
 
 <!-- id: s20-05-0046 -->
 
-> pardonnez-moi ce glissement d’écrit ...conçu comme « *<u>l’être</u>nel »*, comme l’*éternel* pour les sourds.
+pardonnez-moi ce glissement d’écrit ...conçu comme « *<u>l’être</u>nel »*, comme l’*éternel* pour les sourds.
 
 <!-- id: s20-05-0047 -->
 
@@ -202,7 +206,7 @@ Et que de *l’être*, après cette élaboration, ce cheminement pourtant si tem
 
 <!-- id: s20-05-0048 -->
 
-> cette idée jusque là cernée, frôlée, approchée, approximative de *l’être* ...vient à culminer dans ce violent arrachement à la fonction du temps, par l’énoncé de *l’Éternel* \[« *Je suis ce que je suis* »\], il en résulte d’étranges conséquences.
+cette idée jusque là cernée, frôlée, approchée, approximative de *l’être* ...vient à culminer dans ce violent arrachement à la fonction du temps, par l’énoncé de *l’Éternel* \[« *Je suis ce que je suis* »\], il en résulte d’étranges conséquences.
 
 <!-- id: s20-05-0049 -->
 
@@ -210,13 +214,13 @@ C’est à savoir l’énonciation : \[1\] qu’il y a *l’être qui, éternel
 
 <!-- id: s20-05-0050 -->
 
-> mais qui s’arrête à ce qui semble s’en imposer du fait des définitions logiques...
->
-> si toutefois la négation suffisait dans cet ordre, d’une fonction univoque, à assurer l’existence
->
-> ...qui s’arrête à ceci : *que ce qui n’est pas éternel* *ne saurait en aucun cas...*
->
-> puisque *des 4 subdivisions* qui se produisent *de cette alternance de l’affirmation et de la négation de l’éternel et du de lui-même*, \[4\] *y a-t-il,* dit-il, *un être qui non éternel, puisse être de lui-même* \[*le signifiant*\] ?
+mais qui s’arrête à ce qui semble s’en imposer du fait des définitions logiques...
+
+si toutefois la négation suffisait dans cet ordre, d’une fonction univoque, à assurer l’existence
+
+...qui s’arrête à ceci : *que ce qui n’est pas éternel* *ne saurait en aucun cas...*
+
+puisque *des 4 subdivisions* qui se produisent *de cette alternance de l’affirmation et de la négation de l’éternel et du de lui-même*, \[4\] *y a-t-il,* dit-il, *un être qui non éternel, puisse être de lui-même* \[*le signifiant*\] ?
 
 <!-- id: s20-05-0051 -->
 
@@ -236,7 +240,7 @@ C’est là sans doute ce que...
 
 <!-- id: s20-05-0055 -->
 
-> plutôt que de le qualifier d’« *arbitraire »*
+plutôt que de le qualifier d’« *arbitraire »*
 
 <!-- id: s20-05-0056 -->
 
@@ -256,7 +260,7 @@ Et pourtant s’il y a quelque chose qui peut s’en avancer c’est *sa partici
 
 <!-- id: s20-05-0060 -->
 
-> pour employer une approche platonicienne ...c’est *sa participation* à ce *« rien »*, d’où effectivement c’est l’émergence même de l’idée créationniste que de nous dire que quelque chose de tout à fait originel a été fait « *ex nihilo »*, c’est à savoir de *« rien »*.
+pour employer une approche platonicienne ...c’est *sa participation* à ce *« rien »*, d’où effectivement c’est l’émergence même de l’idée créationniste que de nous dire que quelque chose de tout à fait originel a été fait « *ex nihilo »*, c’est à savoir de *« rien »*.
 
 <!-- id: s20-05-0061 -->
 
@@ -264,9 +268,9 @@ Il semble bien...
 
 <!-- id: s20-05-0062 -->
 
-> ne vous semble-t-il pas, n’y a-t-il pas quelque chose qui vous apparaisse,
->
-> si tant est que la paresse qui est la vôtre puisse être réveillée par quelque apparition ...que la *Genèse* ne nous raconte rien d’autre que la création de *rien* - en effet, de quoi ? - de *rien d’autre que de signifiants*.
+ne vous semble-t-il pas, n’y a-t-il pas quelque chose qui vous apparaisse,
+
+si tant est que la paresse qui est la vôtre puisse être réveillée par quelque apparition ...que la *Genèse* ne nous raconte rien d’autre que la création de *rien* - en effet, de quoi ? - de *rien d’autre que de signifiants*.
 
 <!-- id: s20-05-0063 -->
 
@@ -290,7 +294,7 @@ Dès que cette *« Création »* surgit, *elle s’articule de la nomination d
 
 <!-- id: s20-05-0067 -->
 
-> essentiellement de la création, et de la création à partir de rien
+essentiellement de la création, et de la création à partir de rien
 
 <!-- id: s20-05-0068 -->
 
@@ -302,7 +306,7 @@ Dès que cette *« Création »* surgit, *elle s’articule de la nomination d
 
 <!-- id: s20-05-0070 -->
 
-> à se refléter dans une « *conception du monde* », s’est énoncé comme *« révolution copernicienne » ?*
+à se refléter dans une « *conception du monde* », s’est énoncé comme *« révolution copernicienne » ?*
 
 <!-- id: s20-05-0071 -->
 
@@ -314,9 +318,9 @@ Comme si, de ce que lui a appris *le discours de l’hystérique*...
 
 <!-- id: s20-05-0073 -->
 
-> à savoir de cette autre *substance* qui toute entière tient en ceci :
->
-> qu’il y a du signifiant et que c’est de l’effet de ce signifiant qu’il s’agit dans ce *discours de l’hystérique* ...qu’à le recueillir *il a su faire tourner* de ce quart de tour* *qui en a fait *le discours analytique.* \[*cf*. Galilée « *et pourtant elle tourne !* »\] \[*cf. supra* « *ça tourne* », *du discours* H ( S → S<sub>1</sub> → ↓S<sub>2</sub> ◊ *a* ), *au discours* A ( *a* → S → S<sub>1</sub> ◊ S<sub>2</sub>) \].
+à savoir de cette autre *substance* qui toute entière tient en ceci :
+
+qu’il y a du signifiant et que c’est de l’effet de ce signifiant qu’il s’agit dans ce *discours de l’hystérique* ...qu’à le recueillir *il a su faire tourner* de ce quart de tour* *qui en a fait *le discours analytique.* \[*cf*. Galilée « *et pourtant elle tourne !* »\] \[*cf. supra* « *ça tourne* », *du discours* H ( S → S<sub>1</sub> → ↓S<sub>2</sub> ◊ *a* ), *au discours* A ( *a* → S → S<sub>1</sub> ◊ S<sub>2</sub>) \].
 
 <!-- id: s20-05-0074 -->
 
@@ -352,13 +356,13 @@ Ce que nous savons bien sûr, c’est que cette virée éternelle des étoiles d
 
 <!-- id: s20-05-0082 -->
 
-> celle à quoi Aristote suppose une autre encore,
->
-> qui serait celle de l’immobile, *cause* 1<sup>ère</sup> du mouvement de celles qui tournent ...si les étoiles tournent c’est bien assurément de ce que la terre, la terre tourne sur elle-même, et que c’est déjà merveille que de cette virée, de cette *révolution*, de *ce tournage éternel* de la sphère stellaire, il se soit trouvé des hommes pour forger, pour forger ces autres sphères, où faire tourner...
+celle à quoi Aristote suppose une autre encore,
+
+qui serait celle de l’immobile, *cause* 1<sup>ère</sup> du mouvement de celles qui tournent ...si les étoiles tournent c’est bien assurément de ce que la terre, la terre tourne sur elle-même, et que c’est déjà merveille que de cette virée, de cette *révolution*, de *ce tournage éternel* de la sphère stellaire, il se soit trouvé des hommes pour forger, pour forger ces autres sphères, où faire tourner...
 
 <!-- id: s20-05-0083 -->
 
-> de ce mouvement oscillatoire qui est celui du système ptolémaïque ...les sphères des planètes, de celles qui tournant autour du soleil, se trouvent au regard de la terre dans cette position ambiguë d’aller et de venir en dents de crochet.
+de ce mouvement oscillatoire qui est celui du système ptolémaïque ...les sphères des planètes, de celles qui tournant autour du soleil, se trouvent au regard de la terre dans cette position ambiguë d’aller et de venir en dents de crochet.
 
 <!-- id: s20-05-0084 -->
 
@@ -378,7 +382,7 @@ Ce signifiant garde tout son poids et il est tout à fait clair que loin que *l�
 
 <!-- id: s20-05-0088 -->
 
-> ce qui se désigne de ce terme, ce qui *est* quoi ? ce qui fait *signifié* ...que *l’homme* ait jamais été en quoi que ce soit ébranlé par le fait que la terre n’est pas au centre, il y a fort bien substitué le soleil.
+ce qui se désigne de ce terme, ce qui *est* quoi ? ce qui fait *signifié* ...que *l’homme* ait jamais été en quoi que ce soit ébranlé par le fait que la terre n’est pas au centre, il y a fort bien substitué le soleil.
 
 <!-- id: s20-05-0089 -->
 
@@ -398,15 +402,15 @@ L’important c’est qu’il y ait un centre, et puisqu’il est bien sûr main
 
 <!-- id: s20-05-0093 -->
 
-> garde en fin de compte toujours le même sens, et que ce sens, il est donné par le sentiment que chacun a,
->
-> de faire partie de son monde tout au moins, c’est-à-dire de sa petite famille, et de tout ce qui tourne autour.
->
-> Et que chacun, chacun de vous - je parle même pour les *gauchistes* - vous y êtes plus que vous ne croyez...
->
-> et dans une mesure dont vous justement vous feriez bien de prendre l’empan
->
-> ...attachés à un certain nombre de préjugés qui vous font *assiette* et qui limitent la portée de vos insurrections, au terme le plus court, à celui très précisément où ça ne vous apporte nulle gêne, et nommément pas dans *une conception du monde* qui reste, elle, toujours parfaitement sphérique*, le signifié* trouve son centre où que vous le portiez.
+garde en fin de compte toujours le même sens, et que ce sens, il est donné par le sentiment que chacun a,
+
+de faire partie de son monde tout au moins, c’est-à-dire de sa petite famille, et de tout ce qui tourne autour.
+
+Et que chacun, chacun de vous - je parle même pour les *gauchistes* - vous y êtes plus que vous ne croyez...
+
+et dans une mesure dont vous justement vous feriez bien de prendre l’empan
+
+...attachés à un certain nombre de préjugés qui vous font *assiette* et qui limitent la portée de vos insurrections, au terme le plus court, à celui très précisément où ça ne vous apporte nulle gêne, et nommément pas dans *une conception du monde* qui reste, elle, toujours parfaitement sphérique*, le signifié* trouve son centre où que vous le portiez.
 
 <!-- id: s20-05-0094 -->
 
@@ -414,9 +418,9 @@ Ce n’est pas, jusqu’à nouvel ordre, le discours analytique...
 
 <!-- id: s20-05-0095 -->
 
-> si difficile à soutenir dans son décentrement,
->
-> qui a à faire encore son entrée dans la conscience commune ...qui peut d’aucune façon subvertir quoi que ce soit.
+si difficile à soutenir dans son décentrement,
+
+qui a à faire encore son entrée dans la conscience commune ...qui peut d’aucune façon subvertir quoi que ce soit.
 
 <!-- id: s20-05-0096 -->
 
@@ -472,9 +476,9 @@ Mais le « *ça tombe* » ne prend, si je puis m’exprimer ainsi, son poids -
 
 <!-- id: s20-05-0109 -->
 
-> puisqu’à conserver le centre, la révolution continue indéfiniment
->
-> et justement pour revenir toujours sur elle-même ...c’est que le « *ça tombe* » aboutit à quoi ?
+puisqu’à conserver le centre, la révolution continue indéfiniment
+
+et justement pour revenir toujours sur elle-même ...c’est que le « *ça tombe* » aboutit à quoi ?
 
 <!-- id: s20-05-0110 -->
 
@@ -482,27 +486,27 @@ Très exactement à ceci, et rien de plus, que : F = G. *mm’*/*d <sup>2</sup>*
 
 <!-- id: s20-05-0111 -->
 
-> *la distance* *d* qui sépare les deux masses exprimées par *m* et *m’*,
->
-> et que ce qui s’exprime ainsi \[F = G. *mm’*/*d <sup>2</sup>*\], à savoir *une force*,
->
-> *une force* en tant que *tout ce qui est masse est susceptible*, au regard de cette force, *de prendre une certaine accélération*, ...que c’est tout entier dans cet *écrit*...
+*la distance* *d* qui sépare les deux masses exprimées par *m* et *m’*,
+
+et que ce qui s’exprime ainsi \[F = G. *mm’*/*d <sup>2</sup>*\], à savoir *une force*,
+
+*une force* en tant que *tout ce qui est masse est susceptible*, au regard de cette force, *de prendre une certaine accélération*, ...que c’est tout entier dans cet *écrit*...
 
 <!-- id: s20-05-0112 -->
 
-> dans ce qui se résume à ces cinq petites *lettres* écrites au creux de la main, avec un chiffre en plus
->
-> comme puissance, puissance au carré de la distance, et *inversement proportionnel au carré de la distance*. ...c’est là, c’est dans cet *effet d’écrit* que consiste ce qu’on attribue donc indûment à Copernic... dans quelque chose qui justement nous arrache à la fonction comme telle... fonction *imaginaire*, fonction imaginaire et pourtant fondée dans le *réel* ...de la révolution.
+dans ce qui se résume à ces cinq petites *lettres* écrites au creux de la main, avec un chiffre en plus
+
+comme puissance, puissance au carré de la distance, et *inversement proportionnel au carré de la distance*. ...c’est là, c’est dans cet *effet d’écrit* que consiste ce qu’on attribue donc indûment à Copernic... dans quelque chose qui justement nous arrache à la fonction comme telle... fonction *imaginaire*, fonction imaginaire et pourtant fondée dans le *réel* ...de la révolution.
 
 <!-- id: s20-05-0113 -->
 
-> \[*Lacan nous dit que cet « effet du signifiant » est ici « effet d’écriture », que ce qui s’écrit dans « cinq petites lettres* \[…\] *avec un chiffre en plus »*
->
-> *est le fondement de ce retour répétitif des astres, de « ce qui revient toujours à la même place » (1<sup>ère</sup> définition du réel), de la répétition*...
->
-> *De la même façon quatre petites lettres :* α, β, γ, δ, *au moins, sont au fondement, par leur combinatoire, de lalangue,*
->
-> *de l’inconscient structuré comme un langage, et d’une autre « répétition » (cf. « l’introduction » du séminaire sur La lettre volée)*\]
+\[*Lacan nous dit que cet « effet du signifiant » est ici « effet d’écriture », que ce qui s’écrit dans « cinq petites lettres* \[…\] *avec un chiffre en plus »*
+
+*est le fondement de ce retour répétitif des astres, de « ce qui revient toujours à la même place » (1<sup>ère</sup> définition du réel), de la répétition*...
+
+*De la même façon quatre petites lettres :* α, β, γ, δ, *au moins, sont au fondement, par leur combinatoire, de lalangue,*
+
+*de l’inconscient structuré comme un langage, et d’une autre « répétition » (cf. « l’introduction » du séminaire sur La lettre volée)*\]
 
 <!-- id: s20-05-0114 -->
 
@@ -510,21 +514,21 @@ Ceci étant énoncé...
 
 <!-- id: s20-05-0115 -->
 
-> rappel sans doute, mais aussi bien prélude ...ce qu’il importe, c’est de souligner que ce qui est produit...
+rappel sans doute, mais aussi bien prélude ...ce qu’il importe, c’est de souligner que ce qui est produit...
 
 <!-- id: s20-05-0116 -->
 
-> ce qui est produit comme tel dans l’articulation de ce nouveau discours
->
-> qui émerge comme étant *le discours de l’analyste*, ...*le discours de l’analyse,* c’est ceci : c’est que le fondement, le départ, est pris dans *l’effet* comme tel de ce qu’il en est *du signifiant*.
+ce qui est produit comme tel dans l’articulation de ce nouveau discours
+
+qui émerge comme étant *le discours de l’analyste*, ...*le discours de l’analyse,* c’est ceci : c’est que le fondement, le départ, est pris dans *l’effet* comme tel de ce qu’il en est *du signifiant*.
 
 <!-- id: s20-05-0117 -->
 
-> \[*Discours* A : *l’analyste en place de semblant* *de* (*a*) *« questionne » le sujet* **S***, ce qui aboutit à la production de signifiants* **S<sub>1</sub>** *coupés de tout signifié,*
->
-> *de tout sens, de tout savoir *(S<sub>1</sub> ◊ S<sub>2</sub>), <sub>→</sub> *signifiant asémantique*, *où - là seulement - du « signifiant comme tel » (aucun signifié)*
->
-> *l’effet d’écriture (dans la parole analysante) peut se « lire »* <sub>→</sub> (*lettre*). *(cf. « Qu’on dise reste oublié derrière ce qui se dit dans ce qui s’entend »)*\]
+\[*Discours* A : *l’analyste en place de semblant* *de* (*a*) *« questionne » le sujet* **S***, ce qui aboutit à la production de signifiants* **S<sub>1</sub>** *coupés de tout signifié,*
+
+*de tout sens, de tout savoir *(S<sub>1</sub> ◊ S<sub>2</sub>), <sub>→</sub> *signifiant asémantique*, *où - là seulement - du « signifiant comme tel » (aucun signifié)*
+
+*l’effet d’écriture (dans la parole analysante) peut se « lire »* <sub>→</sub> (*lettre*). *(cf. « Qu’on dise reste oublié derrière ce qui se dit dans ce qui s’entend »)*\]
 
 <!-- id: s20-05-0118 -->
 
@@ -532,7 +536,7 @@ Bien loin que soit admis...
 
 <!-- id: s20-05-0119 -->
 
-> en quelque sorte par le vécu ...bien loin que soit admis, comme du fait-même, que *le signifiant* emporte de ses effets de signifié à partir desquels s’est édifiée cette structuration dont je vous ai, tout à l’heure, énoncé en rappel combien pendant des temps il a semblé naturel qu’un « *monde* » se constituât, dont les corrélatifs étaient ce quelque chose au-delà, qui était *l’être* même, *l’être* pris comme éternel : la théologie.
+en quelque sorte par le vécu ...bien loin que soit admis, comme du fait-même, que *le signifiant* emporte de ses effets de signifié à partir desquels s’est édifiée cette structuration dont je vous ai, tout à l’heure, énoncé en rappel combien pendant des temps il a semblé naturel qu’un « *monde* » se constituât, dont les corrélatifs étaient ce quelque chose au-delà, qui était *l’être* même, *l’être* pris comme éternel : la théologie.
 
 <!-- id: s20-05-0120 -->
 
@@ -556,7 +560,7 @@ Est-ce que il n’y a pas dans le discours analytique...
 
 <!-- id: s20-05-0125 -->
 
-> tel qu’il s’instaure du quart de tour dont j’ai parlé tout à l’heure ...est-ce qu’il n’y a pas quelque chose qui, de soi, doit nous introduire à ceci : que toute... tout maintien, toute *subsistance*, toute *persistance du « monde »* comme tel \[« *sens du monde »* : S<sub>1</sub> <sub>→</sub> S<sub>2</sub>\], c’est très précisément là ce à quoi introduit ce discours : c’est que, elle, *cette subsistance, cette persistance* \[du « *sens du monde »* : S<sub>1</sub> <sub>→</sub> S<sub>2</sub>\]*, doit comme telle être abandonnée* ? \[<sub>→</sub> *suspension du sens *: S<sub>1</sub> ◊ S<sub>2</sub>\]
+tel qu’il s’instaure du quart de tour dont j’ai parlé tout à l’heure ...est-ce qu’il n’y a pas quelque chose qui, de soi, doit nous introduire à ceci : que toute... tout maintien, toute *subsistance*, toute *persistance du « monde »* comme tel \[« *sens du monde »* : S<sub>1</sub> <sub>→</sub> S<sub>2</sub>\], c’est très précisément là ce à quoi introduit ce discours : c’est que, elle, *cette subsistance, cette persistance* \[du « *sens du monde »* : S<sub>1</sub> <sub>→</sub> S<sub>2</sub>\]*, doit comme telle être abandonnée* ? \[<sub>→</sub> *suspension du sens *: S<sub>1</sub> ◊ S<sub>2</sub>\]
 
 <!-- id: s20-05-0126 -->
 
@@ -564,11 +568,11 @@ Le langage est tel...
 
 <!-- id: s20-05-0127 -->
 
-> la langue forgée du discours philosophique \[*discours* M*, soutien imaginaire de* (S<sub>1→</sub>S<sub>2</sub>)<sub>→</sub> *production d’un « sens du monde »*\] ...le langage est tel qu’à tout instant, vous le voyez...
+la langue forgée du discours philosophique \[*discours* M*, soutien imaginaire de* (S<sub>1→</sub>S<sub>2</sub>)<sub>→</sub> *production d’un « sens du monde »*\] ...le langage est tel qu’à tout instant, vous le voyez...
 
 <!-- id: s20-05-0128 -->
 
-> au moment que j’avance *quoi que ce soit* de ce qui peut, de ce *discours analytique*, s’établir, vous marquer ...que je ne peux faire à tout instant que de reglisser - dans quoi ? - dans ce « *monde* », dans ce *supposé d’une substance* qui tout de même se trouve *imprégnée de la fonction de l’être*.
+au moment que j’avance *quoi que ce soit* de ce qui peut, de ce *discours analytique*, s’établir, vous marquer ...que je ne peux faire à tout instant que de reglisser - dans quoi ? - dans ce « *monde* », dans ce *supposé d’une substance* qui tout de même se trouve *imprégnée de la fonction de l’être*.
 
 <!-- id: s20-05-0129 -->
 
@@ -576,11 +580,11 @@ Et que de suivre le fil du *discours analytique,* ne tend à rien de moins qu’
 
 <!-- id: s20-05-0130 -->
 
-> et d’une incurvation qui ne saurait même être maintenue comme étant celle de lignes de force, ...qui produit comme telle *la faille, la discontinuité, la rupture*, qui nous suggère de *voir dans la langue ce qui* en fin de compte *la brise*. \[S<sub>1→</sub>S<sub>2 →</sub> ↓ (*a*)\]
+et d’une incurvation qui ne saurait même être maintenue comme étant celle de lignes de force, ...qui produit comme telle *la faille, la discontinuité, la rupture*, qui nous suggère de *voir dans la langue ce qui* en fin de compte *la brise*. \[S<sub>1→</sub>S<sub>2 →</sub> ↓ (*a*)\]
 
 <!-- id: s20-05-0131 -->
 
-> <img src="assets/image35.jpeg" style="width:1.03509in;height:0.30763in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\23c.jpg" />
+<img src="assets/image35.jpeg" style="width:1.03509in;height:0.30763in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\23c.jpg" />
 
 <!-- id: s20-05-0132 -->
 
@@ -596,9 +600,9 @@ C’est que si *la grammaire* c’est ce qui dans le langage ne se révèle que 
 
 <!-- id: s20-05-0135 -->
 
-> cet effet qui se produit de se supporter seulement de *l’écriture*,
->
-> qui est assurément l’idéal de la mathématique *...*c’est là que *« ce autour de quoi »,* ce dont il s’agit dans le langage, se révèle.
+cet effet qui se produit de se supporter seulement de *l’écriture*,
+
+qui est assurément l’idéal de la mathématique *...*c’est là que *« ce autour de quoi »,* ce dont il s’agit dans le langage, se révèle.
 
 <!-- id: s20-05-0136 -->
 
@@ -638,7 +642,7 @@ Que ce qu’il faut... ce à quoi il faut nous rompre, c’est à substituer à 
 
 <!-- id: s20-05-0145 -->
 
-> qui est celle que le langage provoque : *imposition de l’être...*la prise radicale, l’admission de départ *que de l’être nous n’avons rien, jamais*.
+qui est celle que le langage provoque : *imposition de l’être...*la prise radicale, l’admission de départ *que de l’être nous n’avons rien, jamais*.
 
 <!-- id: s20-05-0146 -->
 
@@ -666,9 +670,9 @@ Eh bien, tout ceci nous introduit... nous introduit à cet énoncé qui...
 
 <!-- id: s20-05-0152 -->
 
-> vous pouvez bien l’admettre si vous donnez l’accent que cette nouvelle orthographe
->
-> avec toutes ses conséquences, toutes ses conséquences morphologiques ...qu’il faut savoir assumer, dans cette nouvelle conjugaison que je vous propose :
+vous pouvez bien l’admettre si vous donnez l’accent que cette nouvelle orthographe
+
+avec toutes ses conséquences, toutes ses conséquences morphologiques ...qu’il faut savoir assumer, dans cette nouvelle conjugaison que je vous propose :
 
 <!-- id: s20-05-0153 -->
 
@@ -688,9 +692,9 @@ Il est proprement fabuleux que la fonction de l’Autre, de l’Autre comme lieu
 
 <!-- id: s20-05-0157 -->
 
-> et pour tout dire de la seule place - quoiqu’irréductible - que nous pouvons donner
->
-> au terme de *l’être divin*, de Dieu pour l’appeler par son nom
+et pour tout dire de la seule place - quoiqu’irréductible - que nous pouvons donner
+
+au terme de *l’être divin*, de Dieu pour l’appeler par son nom
 
 <!-- id: s20-05-0158 -->
 
@@ -698,7 +702,7 @@ Il est proprement fabuleux que la fonction de l’Autre, de l’Autre comme lieu
 
 <!-- id: s20-05-0159 -->
 
-> si vous m’en permettez le terme ...se *produit le dieu, le dieur, le dire* : pour un rien, *le dire ça fait Dieu*.
+si vous m’en permettez le terme ...se *produit le dieu, le dieur, le dire* : pour un rien, *le dire ça fait Dieu*.
 
 <!-- id: s20-05-0160 -->
 
@@ -742,9 +746,9 @@ Il faut, il le faut bien, il faut que ça dure *encore*, à savoir que par l’i
 
 <!-- id: s20-05-0170 -->
 
-> comme l’ont très bien vu des gens qui à l’égard de tout ça,
->
-> ont pris leurs précautions, comme ça, sous le paravent de l’Église ...que ça aboutisse à la reproduction.
+comme l’ont très bien vu des gens qui à l’égard de tout ça,
+
+ont pris leurs précautions, comme ça, sous le paravent de l’Église ...que ça aboutisse à la reproduction.
 
 <!-- id: s20-05-0171 -->
 
@@ -796,7 +800,7 @@ Il y a beaucoup à s’instruire, non pas en recherchant les cailloux du Mas d�
 
 <!-- id: s20-05-0183 -->
 
-> public d’analystes - *un bon petit temps*... ...on leur expliquait *le trait unaire*, l’encoche, c’était à la portée de leur entendement.
+public d’analystes - *un bon petit temps*... ...on leur expliquait *le trait unaire*, l’encoche, c’était à la portée de leur entendement.
 
 <!-- id: s20-05-0184 -->
 
@@ -820,13 +824,17 @@ C’est vraiment la façon la plus grossière de donner à ce terme...
 
 <!-- id: s20-05-0189 -->
 
-> à ce terme qui se dérobe manifestement ...du *rapport sexuel*, son signifié.
+à ce terme qui se dérobe manifestement ...du *rapport sexuel*, son signifié.
 
 <!-- id: s20-05-0190 -->
 
-> \[*« la jouissance du corps de l’Autre n’est pas le signe de l’amour ». La jouissance du corps de l’Autre est barrée, aucun « discours » qui parviennent à atteindre sa vérité, du fait de la fonction phallique en visant* S<sub>1</sub> *on n’atteint que des « faisant fonction » : les objets(a) <sub>→</sub> impuissance à assurer la jouissance qu’il « faut »*
->
-> *(il n’y a pas de rapport sexuel). Dans le par-être des objets(a) substitutifs, c’est l’amour qui supplée à l’absence du rapport sexuel pour « réaliser le Un »*\]
+<div class="text-quotation">
+
+\[*« la jouissance du corps de l’Autre n’est pas le signe de l’amour ». La jouissance du corps de l’Autre est barrée, aucun « discours » qui parviennent à atteindre sa vérité, du fait de la fonction phallique en visant* S<sub>1</sub> *on n’atteint que des « faisant fonction » : les objets(a) <sub>→</sub> impuissance à assurer la jouissance qu’il « faut »*
+
+*(il n’y a pas de rapport sexuel). Dans le par-être des objets(a) substitutifs, c’est l’amour qui supplée à l’absence du rapport sexuel pour « réaliser le Un »*\]
+
+</div>
 
 <!-- id: s20-05-0191 -->
 
@@ -834,13 +842,13 @@ Le commencement de la sagesse devrait être de commencer par s’apercevoir que.
 
 <!-- id: s20-05-0192 -->
 
-> et c’est en ça que le vieux père Freud a frayé des voies quand même ...il est tout de même très joli, très frappant...
+et c’est en ça que le vieux père Freud a frayé des voies quand même ...il est tout de même très joli, très frappant...
 
 <!-- id: s20-05-0193 -->
 
-> c’est de là que je suis parti, parce que ça m’a moi-même, comme ça, un petit peu touché,
->
-> ça pourrait toucher n’importe qui d’ailleurs, n’est-ce pas ...de s’apercevoir *que le fondement de l’amour, si ça a rapport avec l’« Un », ça a très exactement pour résultat* *de ne jamais faire sortir quiconque de soi-même*.
+c’est de là que je suis parti, parce que ça m’a moi-même, comme ça, un petit peu touché,
+
+ça pourrait toucher n’importe qui d’ailleurs, n’est-ce pas ...de s’apercevoir *que le fondement de l’amour, si ça a rapport avec l’« Un », ça a très exactement pour résultat* *de ne jamais faire sortir quiconque de soi-même*.
 
 <!-- id: s20-05-0194 -->
 
@@ -884,7 +892,7 @@ Vous avez laissé passer ceci : c’est que j’ai dit...
 
 <!-- id: s20-05-0204 -->
 
-> comme d’ailleurs *c’est écrit*, comme *ça s’imprime*, comme *c’est imprimé* dans la dite *théorie des ensembles* ...que *la lettre désigne un assemblage.* \[*le 09-01 Lacan parle de* [*la let*<span id="Retour_bourbaki" class="anchor"></span>*tre*](#bourbaki) *(*A*) pour désigner un « lieu » <sub>→</sub>* *lieu ≈ lieu d’assemblage*\]
+comme d’ailleurs *c’est écrit*, comme *ça s’imprime*, comme *c’est imprimé* dans la dite *théorie des ensembles* ...que *la lettre désigne un assemblage.* \[*le 09-01 Lacan parle de* [*la let*<span id="Retour_bourbaki" class="anchor"></span>*tre*](#bourbaki) *(*A*) pour désigner un « lieu » <sub>→</sub>* *lieu ≈ lieu d’assemblage*\]
 
 <!-- id: s20-05-0205 -->
 
@@ -892,9 +900,9 @@ C’est justement, quoique les auteurs...
 
 <!-- id: s20-05-0206 -->
 
-> puisque comme vous le savez ils sont multiples les auteurs
->
-> qui ont fini par donner leur assentiment à l’édition définitive de la dite théorie ...prennent soin de ceci, de dire *qu’ils <u>désignent</u> des assemblages*.
+puisque comme vous le savez ils sont multiples les auteurs
+
+qui ont fini par donner leur assentiment à l’édition définitive de la dite théorie ...prennent soin de ceci, de dire *qu’ils <u>désignent</u> des assemblages*.
 
 <!-- id: s20-05-0207 -->
 
@@ -914,11 +922,11 @@ Vous voyez qu’à conserver encore ce « *comme* », je m’en tiens à l’o
 
 <!-- id: s20-05-0211 -->
 
-> \[*Chaque « Un » réalisé, laisse une trace de l’identification à l’objet d’amour, trace singulière, hétérogène aux autres.*
->
-> *La lettre en fait l’assemblage en un « lieu ».*
->
-> *Cf. la genèse de la lettre* (\[+,+,-,+,-,+,+,+,-,+,-,-,+, …\]→ \[1,2,3, 2,1,3…\]→\[α, β, γ, δ\]) *dans l’« Introduction » au séminaire sur « La lettre volée »*\]
+\[*Chaque « Un » réalisé, laisse une trace de l’identification à l’objet d’amour, trace singulière, hétérogène aux autres.*
+
+*La lettre en fait l’assemblage en un « lieu ».*
+
+*Cf. la genèse de la lettre* (\[+,+,-,+,-,+,+,+,-,+,-,-,+, …\]→ \[1,2,3, 2,1,3…\]→\[α, β, γ, δ\]) *dans l’« Introduction » au séminaire sur « La lettre volée »*\]
 
 <!-- id: s20-05-0212 -->
 
@@ -926,7 +934,7 @@ Ce « *comme* » est très précisément...
 
 <!-- id: s20-05-0213 -->
 
-> j’y reviens toujours ...pensé comme disant... ne disant pas que l’inconscient est structuré par un langage : *il est structuré <u>comme</u>...*
+j’y reviens toujours ...pensé comme disant... ne disant pas que l’inconscient est structuré par un langage : *il est structuré <u>comme</u>...*
 
 <!-- id: s20-05-0214 -->
 
@@ -962,11 +970,11 @@ C’est dans le jeu-même... le jeu-même de *l’écrit mathématique* \[*les p
 
 <!-- id: s20-05-0222 -->
 
-> de ce *lien social* nouveau qui émerge et singulièrement s’étend, et qui s’appelle *le discours analytique,* ...tirer ce qu’on peut en tirer, quant à la fonction même de *ce langage*, de ce langage à quoi nous faisons confiance en somme, pour que ce *discours* ait des effets...
+de ce *lien social* nouveau qui émerge et singulièrement s’étend, et qui s’appelle *le discours analytique,* ...tirer ce qu’on peut en tirer, quant à la fonction même de *ce langage*, de ce langage à quoi nous faisons confiance en somme, pour que ce *discours* ait des effets...
 
 <!-- id: s20-05-0223 -->
 
-> sans doute moyens mais suffisamment supportables ...pour que ce discours puisse supporter et compléter les autres discours. \[*l’émergence du discours analytique ferme la boucle en quatre discours et enclenche « la ronde des discours » et sa « lumière rasante »*\]
+sans doute moyens mais suffisamment supportables ...pour que ce discours puisse supporter et compléter les autres discours. \[*l’émergence du discours analytique ferme la boucle en quatre discours et enclenche « la ronde des discours » et sa « lumière rasante »*\]
 
 <!-- id: s20-05-0224 -->
 
@@ -974,9 +982,9 @@ Nous verrons à l’occasion...
 
 <!-- id: s20-05-0225 -->
 
-> puisque depuis quelques temps il est clair que *le discours universitaire* s’écrit autrement
->
-> et qu’il doit être « *uni vers Cythère* », qu’il doit répandre l’éducation sexuelle ...nous allons voir comment ça va se faire, à quoi ça aboutira... il ne faut surtout pas y faire obstacle.
+puisque depuis quelques temps il est clair que *le discours universitaire* s’écrit autrement
+
+et qu’il doit être « *uni vers Cythère* », qu’il doit répandre l’éducation sexuelle ...nous allons voir comment ça va se faire, à quoi ça aboutira... il ne faut surtout pas y faire obstacle.
 
 <!-- id: s20-05-0226 -->
 
@@ -1012,9 +1020,9 @@ Je veux dire que ce dont il s’agit et qui mériterait d’être regardé de pl
 
 <!-- id: s20-05-0234 -->
 
-> qui est déjà très, très articulé n’est-ce-pas, à savoir d’une petite devinette
->
-> liée au fait qu’il y a pour 3 personnes 3 disques blancs, et de noirs : un de moins ...que les choses se jouent en fait.
+qui est déjà très, très articulé n’est-ce-pas, à savoir d’une petite devinette
+
+liée au fait qu’il y a pour 3 personnes 3 disques blancs, et de noirs : un de moins ...que les choses se jouent en fait.
 
 <!-- id: s20-05-0235 -->
 
@@ -1054,7 +1062,7 @@ C’est très précisément en ceci que dans l’écrit quelque chose, quelque c
 
 <!-- id: s20-05-0244 -->
 
-> à partir de ceci de brutal, ...prend pour « *Un* » *tous les* 1 qu’on voudra, que les impasses qui s’en révèlent sont par elles-mêmes, pour nous, un accès possible à cet *être*, une réduction possible de la fonction de cet *être* dans *l’amour*.
+à partir de ceci de brutal, ...prend pour « *Un* » *tous les* 1 qu’on voudra, que les impasses qui s’en révèlent sont par elles-mêmes, pour nous, un accès possible à cet *être*, une réduction possible de la fonction de cet *être* dans *l’amour*.
 
 <!-- id: s20-05-0245 -->
 
@@ -1082,7 +1090,7 @@ Ce *signe*, ce signe en tant que *le signe n’est pas « le signe de quelque c
 
 <!-- id: s20-05-0251 -->
 
-> qu’il ait ou non conscience *de quel signifiant il est l’effet* ...*ce n’est rien d’autre* comme tel *que <u>ce qui glisse</u> dans une chaîne de signifiants*.
+qu’il ait ou non conscience *de quel signifiant il est l’effet* ...*ce n’est rien d’autre* comme tel *que <u>ce qui glisse</u> dans une chaîne de signifiants*.
 
 <!-- id: s20-05-0252 -->
 

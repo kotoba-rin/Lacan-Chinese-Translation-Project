@@ -42,19 +42,23 @@ Or, on ne peut pas donner de meilleure qualification de l’œuvre de FREUD. L�
 
 <!-- id: s2-08-0010 -->
 
-> « *Il convient, entend-on dire souvent, qu’une science soit fondée sur des concepts fondamentaux clairs et bien définis.*
->
-> *En réalité, aucune science, même parmi les plus exactes, ne débute par de semblables définitions. L’activité scientifique,*
->
-> *à son véritable début, consiste bien plutôt à décri­re des phénomènes qu’ensuite elle groupera, classera et rangera dans cer­tains ensembles. Mais déjà, alors qu’il n’est question que de description, l’on ne peut éviter d’appliquer au matériel certaines idées abstraites prises quelque part, non certes tirées uniquement de la nouvelle expérience. Ces idées, concepts fondamentaux de la science, s’avèrent encore plus indis­pensables lorsqu’on continue à travailler la même matière. Elles compor­tent nécessairement au début un certain degré d’incertitude et il ne sau­rait être question de délimiter nettement leur contenu. Tant qu’elles se trouvent en cet état, on parvient à s’entendre sur leur signification en recourant, de façon répétée, au matériel expérimental dont elles paraissent tirées, alors que ce matériel leur est en réalité soumis. Elles ont donc, à proprement parler, le caractère de conventions, tout dépend de ce que leur choix n’a pas été arbitraire,*
->
-> *mais qu’elles ont été désignées du fait de leurs importants rapports avec les matières empiriques dont on peut postuler l’existence*
->
-> *avant même de l’avoir reconnue et prouvée. Seule une étude plus approfondie de l’ensemble des phénomènes considérés permettra*
->
-> *d’en mieux saisir les concepts scientifiques fondamentaux et de les modifier progressivement afin de les rendre utilisables*
->
-> *sur une vaste échelle, les débarrassant par là entièrement des contradictions.* » \[début de l’article\]
+<div class="text-quotation">
+
+« *Il convient, entend-on dire souvent, qu’une science soit fondée sur des concepts fondamentaux clairs et bien définis.*
+
+*En réalité, aucune science, même parmi les plus exactes, ne débute par de semblables définitions. L’activité scientifique,*
+
+*à son véritable début, consiste bien plutôt à décri­re des phénomènes qu’ensuite elle groupera, classera et rangera dans cer­tains ensembles. Mais déjà, alors qu’il n’est question que de description, l’on ne peut éviter d’appliquer au matériel certaines idées abstraites prises quelque part, non certes tirées uniquement de la nouvelle expérience. Ces idées, concepts fondamentaux de la science, s’avèrent encore plus indis­pensables lorsqu’on continue à travailler la même matière. Elles compor­tent nécessairement au début un certain degré d’incertitude et il ne sau­rait être question de délimiter nettement leur contenu. Tant qu’elles se trouvent en cet état, on parvient à s’entendre sur leur signification en recourant, de façon répétée, au matériel expérimental dont elles paraissent tirées, alors que ce matériel leur est en réalité soumis. Elles ont donc, à proprement parler, le caractère de conventions, tout dépend de ce que leur choix n’a pas été arbitraire,*
+
+*mais qu’elles ont été désignées du fait de leurs importants rapports avec les matières empiriques dont on peut postuler l’existence*
+
+*avant même de l’avoir reconnue et prouvée. Seule une étude plus approfondie de l’ensemble des phénomènes considérés permettra*
+
+*d’en mieux saisir les concepts scientifiques fondamentaux et de les modifier progressivement afin de les rendre utilisables*
+
+*sur une vaste échelle, les débarrassant par là entièrement des contradictions.* » \[début de l’article\]
+
+</div>
 
 <!-- id: s2-08-0011 -->
 
@@ -66,9 +70,13 @@ Nécessité du discours cohérent, vous le voyez. On dit que FREUD n’est pas u
 
 <!-- id: s2-08-0013 -->
 
-> « *Il sera temps alors de les enfermer dans des définitions. Le progrès de la connaissance n’admet non plus aucune rigidité*
->
-> *de ces définitions. Ainsi que le montre brillamment l’exemple de la physique...* » \[*Dann mag es auch an der Zeit sein, sie in Definitionen zu bannen. Der Fortschritt der Erkenntnis duldet aber auch keine Starrheit der Definitionen. Wie das Beispiel der Physik in glänzender Weise lehrt*...\]
+<div class="text-quotation">
+
+« *Il sera temps alors de les enfermer dans des définitions. Le progrès de la connaissance n’admet non plus aucune rigidité*
+
+*de ces définitions. Ainsi que le montre brillamment l’exemple de la physique...* » \[*Dann mag es auch an der Zeit sein, sie in Definitionen zu bannen. Der Fortschritt der Erkenntnis duldet aber auch keine Starrheit der Definitionen. Wie das Beispiel der Physik in glänzender Weise lehrt*...\]
+
+</div>
 
 <!-- id: s2-08-0014 -->
 
@@ -92,13 +100,17 @@ Donc, quand même ce sens de l’esprit scien­tifique en tant que par exemple l
 
 <!-- id: s2-08-0019 -->
 
-> « ...*l’exemple de la physique, le contenu des concepts fondamentaux fixés en définitions se modifie aussi continuellement.*
->
-> *C’est d’un semblable concept fon­damental et conventionnel, pour le moment encore assez obscur,*
->
-> *mais dont nous ne pouvons nous passer en psychologie, celui de l’instinct, autrement dit pulsion, que nous allons parler.* »
->
-> \[*Wie das Beispiel der Physik in glänzender Weise lehrt, erfahren auch die in Definitionen festgelegten « Grundbegriffe » einen stetigen Inhaltswandel. Ein solcher konventioneller, vorläufig noch ziemlich dunkler Grundbegriff, den wir aber in der Psychologie nicht entbehren können, ist der des Triebes.*\]
+<div class="text-quotation">
+
+« ...*l’exemple de la physique, le contenu des concepts fondamentaux fixés en définitions se modifie aussi continuellement.*
+
+*C’est d’un semblable concept fon­damental et conventionnel, pour le moment encore assez obscur,*
+
+*mais dont nous ne pouvons nous passer en psychologie, celui de l’instinct, autrement dit pulsion, que nous allons parler.* »
+
+\[*Wie das Beispiel der Physik in glänzender Weise lehrt, erfahren auch die in Definitionen festgelegten « Grundbegriffe » einen stetigen Inhaltswandel. Ein solcher konventioneller, vorläufig noch ziemlich dunkler Grundbegriff, den wir aber in der Psychologie nicht entbehren können, ist der des Triebes.*\]
+
+</div>
 
 <!-- id: s2-08-0020 -->
 
@@ -122,7 +134,7 @@ Eh bien, je ne crois pas que ce fût là une bonne distinction. L’important es
 
 <!-- id: s2-08-0025 -->
 
-> que commence une période tout à fait élaborée de sa théorie de la libido.
+que commence une période tout à fait élaborée de sa théorie de la libido.
 
 <!-- id: s2-08-0026 -->
 
@@ -162,7 +174,7 @@ Mais il y a aussi des choses qui se passent avant ou sur un autre plan. Or cet a
 
 <!-- id: s2-08-0035 -->
 
-> je le dis d’autant mieux que c’est quel­qu’un qui, dans un temps, laissait plus d’espoir
+je le dis d’autant mieux que c’est quel­qu’un qui, dans un temps, laissait plus d’espoir
 
 <!-- id: s2-08-0036 -->
 
@@ -282,9 +294,9 @@ Le *réel*, lui, est abso­lument sans fissure. Ne nous cachons pas les biais, e
 
 <!-- id: s2-08-0065 -->
 
-> de choses aussi momen­tanément sympathiques, voire fécondes, que des théories comme celle de [Von FRISCH](http://fr.wikipedia.org/wiki/Karl_von_Frisch),
->
-> de toute espèce d’holisme réciproque, de positions en principe corres­pondantes entre un *Umwelt* et un *Innenwelt*
+de choses aussi momen­tanément sympathiques, voire fécondes, que des théories comme celle de [Von FRISCH](http://fr.wikipedia.org/wiki/Karl_von_Frisch),
+
+de toute espèce d’holisme réciproque, de positions en principe corres­pondantes entre un *Umwelt* et un *Innenwelt*
 
 <!-- id: s2-08-0066 -->
 
@@ -376,9 +388,9 @@ Un certain circuit de rapports, un certain échange de rapports - je concrétise
 
 <!-- id: s2-08-0088 -->
 
-> il faut se le représenter comme un discours qu’on récite comme si nous étions partout
->
-> avec un appareil enregistreur, on pourrait l’isoler et le recueillir, quelque chose dont une part considérable, pour les meilleures raisons, échappe au sujet, parce qu’il n’a pas les appareils enregistreurs en ques­tion
+il faut se le représenter comme un discours qu’on récite comme si nous étions partout
+
+avec un appareil enregistreur, on pourrait l’isoler et le recueillir, quelque chose dont une part considérable, pour les meilleures raisons, échappe au sujet, parce qu’il n’a pas les appareils enregistreurs en ques­tion
 
 <!-- id: s2-08-0089 -->
 

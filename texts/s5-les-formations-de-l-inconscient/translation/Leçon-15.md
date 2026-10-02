@@ -170,7 +170,7 @@ max_segment_id: 224
 
 <!-- id: s5-15-0039 -->
 
-> ![[texts/s5-les-formations-de-l-inconscient/original/assets/image43.jpeg|164]]
+![[texts/s5-les-formations-de-l-inconscient/original/assets/image43.jpeg|164]]
 
 <!-- id: s5-15-0040 -->
 
@@ -624,7 +624,7 @@ max_segment_id: 224
 
 <!-- id: s5-15-0148 -->
 
-> ［*successful in filling herself with just the things the child wants so badly…*］
+［*successful in filling herself with just the things the child wants so badly…*］
 
 <!-- id: s5-15-0149 -->
 

@@ -10,8 +10,8 @@ Mesdames, Messieurs, pour commencer à l’heure, pour vous permettre aussi de p
 
 <!-- id: s11-02-0002 -->
 
-> et je crois même que certains en retrouveront l’accent le plus profond
-> …avec ce que j’ai dit l’année dernière[^7], dans mon séminaire concernant *l’objet mystérieux, l’objet le plus caché : celui de la pulsion scopique*.
+et je crois même que certains en retrouveront l’accent le plus profond
+…avec ce que j’ai dit l’année dernière[^7], dans mon séminaire concernant *l’objet mystérieux, l’objet le plus caché : celui de la pulsion scopique*.
 
 <!-- id: s11-02-0003 -->
 
@@ -19,21 +19,25 @@ Il s’agit de ce court poème qu’à la page 70 du *Fou d’Elsa,* ARAGON inti
 
 <!-- id: s11-02-0004 -->
 
-> *Vainement ton image arrive à ma rencontre*
->
-> *Et ne m’entre où je suis qui seulement la montre*
->
-> *Toi te tournant vers moi tu ne saurais trouver*
->
-> *Au mur de mon regard que ton ombre rêvée*
->
-> *Je suis ce malheureux comparable aux miroirs*
->
-> *Qui peuvent réfléchir mais ne peuvent pas voir*
->
-> *Comme eux mon œil est vide et comme eux habité*
->
-> *De l’absence de toi qui fait sa cécité*
+<div class="text-quotation">
+
+*Vainement ton image arrive à ma rencontre*
+
+*Et ne m’entre où je suis qui seulement la montre*
+
+*Toi te tournant vers moi tu ne saurais trouver*
+
+*Au mur de mon regard que ton ombre rêvée*
+
+*Je suis ce malheureux comparable aux miroirs*
+
+*Qui peuvent réfléchir mais ne peuvent pas voir*
+
+*Comme eux mon œil est vide et comme eux habité*
+
+*De l’absence de toi qui fait sa cécité*
+
+</div>
 
 <!-- id: s11-02-0005 -->
 
@@ -49,7 +53,11 @@ qu’il fait suivre de ces lignes énigmatiques :
 
 <!-- id: s11-02-0007 -->
 
-> « *Ainsi dit une fois An-Nadjî* [^9]*comme on l’avait invité pour une circoncision* ».
+<div class="text-quotation">
+
+« *Ainsi dit une fois An-Nadjî* [^9]*comme on l’avait invité pour une circoncision* ».
+
+</div>
 
 <!-- id: s11-02-0008 -->
 
@@ -130,9 +138,13 @@ eu égard à la ques­tion posée la dernière fois :
 
 <!-- id: s11-02-0024 -->
 
-> « *La psychanalyse sous ses aspects paradoxaux, singuliers, aporiques, peut-elle, parmi nous, être considérée*
->
-> *comme constituant, à quelque degré, une science, ou seulement un espoir de science ?* »
+<div class="text-quotation">
+
+« *La psychanalyse sous ses aspects paradoxaux, singuliers, aporiques, peut-elle, parmi nous, être considérée*
+
+*comme constituant, à quelque degré, une science, ou seulement un espoir de science ?* »
+
+</div>
 
 <!-- id: s11-02-0025 -->
 
@@ -180,12 +192,12 @@ C’est de cette structure, affirmée comme initiale de l’inconscient…
 
 <!-- id: s11-02-0034 -->
 
-> aux temps historiques où nous sommes de formation d’une science : d’*une science* qu’on peut qualifier d’« *humaine »*
->
-> mais qu’il faut bien distinguer de toute psychosociologie, d’une science dont le modèle est le jeu combi­natoire
-> …que la linguistique nous permet de saisir dans un certain champ, opérant dans sa spontanéité et tout seul, d’une façon
-> pré-subjective, c’est ce champ-là qui donne de nos jours son *statut* à l’inconscient. C’est celui-là, en tout cas, qui nous assure
-> qu’il y a quelque chose de quali­fiable sous ce terme qui est assurément accessible, d’une façon tout à fait objectivable.
+aux temps historiques où nous sommes de formation d’une science : d’*une science* qu’on peut qualifier d’« *humaine »*
+
+mais qu’il faut bien distinguer de toute psychosociologie, d’une science dont le modèle est le jeu combi­natoire
+…que la linguistique nous permet de saisir dans un certain champ, opérant dans sa spontanéité et tout seul, d’une façon
+pré-subjective, c’est ce champ-là qui donne de nos jours son *statut* à l’inconscient. C’est celui-là, en tout cas, qui nous assure
+qu’il y a quelque chose de quali­fiable sous ce terme qui est assurément accessible, d’une façon tout à fait objectivable.
 
 <!-- id: s11-02-0035 -->
 
@@ -228,10 +240,10 @@ Je dirai que la cause…
 
 <!-- id: s11-02-0043 -->
 
-> toute modalité que KANT finalement l’inscrive dans les catégories de la *Raison pure,*
->
-> ou plus exactement qu’il y inscrit au registre, au tableau des relations entre l’inhérent et la communauté
-> …que la cause n’est pas pour autant, pour nous, plus rationalisée.
+toute modalité que KANT finalement l’inscrive dans les catégories de la *Raison pure,*
+
+ou plus exactement qu’il y inscrit au registre, au tableau des relations entre l’inhérent et la communauté
+…que la cause n’est pas pour autant, pour nous, plus rationalisée.
 
 <!-- id: s11-02-0044 -->
 

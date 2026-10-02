@@ -22,11 +22,11 @@ Il y a quand même...
 
 <!-- id: s22-11-0005 -->
 
-> je pense que ça vous sera sensible pour vous qui regardez ça tel que je l’ai fabriqué ...qu’il y en a deux, ceux de gauche : *les rouges*
+je pense que ça vous sera sensible pour vous qui regardez ça tel que je l’ai fabriqué ...qu’il y en a deux, ceux de gauche : *les rouges*
 
 <!-- id: s22-11-0006 -->
 
-> c’est pour ça que j’ai mis les autres en noir ...*qui sont noués en chaîne*, qui font à eux deux tous seuls une chaîne, qui sont de ce fait en tout comparables à ce dont je parlerai tout à l’heure : deux tores, dont l’un passerait par le trou de l’autre.
+c’est pour ça que j’ai mis les autres en noir ...*qui sont noués en chaîne*, qui font à eux deux tous seuls une chaîne, qui sont de ce fait en tout comparables à ce dont je parlerai tout à l’heure : deux tores, dont l’un passerait par le trou de l’autre.
 
 <!-- id: s22-11-0007 -->
 
@@ -54,7 +54,7 @@ Le cas est le même - c’est pour ça que je l’ai mis aussi en noir - pour ce
 
 <!-- id: s22-11-0013 -->
 
-> mais bien sûr ça ne veut plus rien dire à ce niveau-là ...un des côtés de l’autre.
+mais bien sûr ça ne veut plus rien dire à ce niveau-là ...un des côtés de l’autre.
 
 <!-- id: s22-11-0014 -->
 
@@ -78,11 +78,11 @@ Nous appelons nœud borroméen ce qui se constitue de façon telle qu’à soust
 
 <!-- id: s22-11-0019 -->
 
-> je dis « *figurés* » parce que ce n’en est qu’une figure, ce n’en est pas la consistance ...un des éléments que j’ai là figurés, chacun dans les couples de deux que j’ai faits, il suffise de rompre...
+je dis « *figurés* » parce que ce n’en est qu’une figure, ce n’en est pas la consistance ...un des éléments que j’ai là figurés, chacun dans les couples de deux que j’ai faits, il suffise de rompre...
 
 <!-- id: s22-11-0020 -->
 
-> qu’est-ce que veut dire « *rompre* » : nous essaierons de le dire tout à l’heure ...qu’il suf­fise de rompre un de ces éléments pour que tous les autres soient égale­ment dénoués de chacun.
+qu’est-ce que veut dire « *rompre* » : nous essaierons de le dire tout à l’heure ...qu’il suf­fise de rompre un de ces éléments pour que tous les autres soient égale­ment dénoués de chacun.
 
 <!-- id: s22-11-0021 -->
 
@@ -98,7 +98,7 @@ C’est en cela qu’il me semble que peut se supporter d’une façon dicible..
 
 <!-- id: s22-11-0024 -->
 
-> terme que je commenterai tout à l’heure ...c’est en cela que peut se supporter le terme de *non-rapport sexuel* : *sexuel* en tant je ne peux que répéter qu’il se supporte essentiellement d’un non-rapport de couple.
+terme que je commenterai tout à l’heure ...c’est en cela que peut se supporter le terme de *non-rapport sexuel* : *sexuel* en tant je ne peux que répéter qu’il se supporte essentiellement d’un non-rapport de couple.
 
 <!-- id: s22-11-0025 -->
 
@@ -110,7 +110,7 @@ Dans un temps où la plupart d’entre vous n’étaient pas à mon séminai­re
 
 <!-- id: s22-11-0027 -->
 
-> puisque c’était le temps où je faisais surgir ce qu’il en est de la *deman­de* et du *désir* ...j’ai illustré de *deux tores* le lien à faire entre la *deman­de* et le *désir*, *deux tores* c’est-à-dire deux *cycles* orientables.
+puisque c’était le temps où je faisais surgir ce qu’il en est de la *deman­de* et du *désir* ...j’ai illustré de *deux tores* le lien à faire entre la *deman­de* et le *désir*, *deux tores* c’est-à-dire deux *cycles* orientables.
 
 <!-- id: s22-11-0028 -->
 
@@ -122,9 +122,9 @@ C’est quelque chose qui commence à se dessiner comme ça...
 
 <!-- id: s22-11-0030 -->
 
-> Vous voyez, en plus on s’embrouille !
->
-> Évidemment, je ne suis pas très doué, mais vous l’êtes pas plus que moi, ...voilà comment ça se dessine, si on veut faire quelque chose de complet :
+Vous voyez, en plus on s’embrouille !
+
+Évidemment, je ne suis pas très doué, mais vous l’êtes pas plus que moi, ...voilà comment ça se dessine, si on veut faire quelque chose de complet :
 
 <!-- id: s22-11-0031 -->
 
@@ -196,7 +196,7 @@ Non pas certes qu’à l’occasion l’amour ne se préoccupe pas un petit peu 
 
 <!-- id: s22-11-0048 -->
 
-> pour moi, dans mon voca­bulaire, ma nomination à moi ...veut dire le jeu, le jeu permis à l’un des *cycles*, à l’une des consistances, permis par le nœud borroméen.
+pour moi, dans mon voca­bulaire, ma nomination à moi ...veut dire le jeu, le jeu permis à l’un des *cycles*, à l’une des consistances, permis par le nœud borroméen.
 
 <!-- id: s22-11-0049 -->
 
@@ -204,7 +204,7 @@ Non pas certes qu’à l’occasion l’amour ne se préoccupe pas un petit peu 
 
 <!-- id: s22-11-0050 -->
 
-> parce qu’il y a du *Réel* dans l’affai­re ...l’amour s’obstine à tout le contraire du bien-être de l’autre.
+parce qu’il y a du *Réel* dans l’affai­re ...l’amour s’obstine à tout le contraire du bien-être de l’autre.
 
 <!-- id: s22-11-0051 -->
 
@@ -300,7 +300,7 @@ Alors, contentons de dire que *l’inconscient c’est le Réel en tant qu’il 
 
 <!-- id: s22-11-0074 -->
 
-> *Vous vous en allez ? Vous avez bien raison ! Comment est-ce qu’on peut supporter ce que je raconte*... ...*que l’inconscient, c’est le Réel en tant que chez le parlêtre, il est affligé de la seule chose - chose j’ai dit - qui fasse trou*, qui du *trou* nous assure, c’est ce que j’appelle le *Symbolique*, en l’incarnant dans le *signifiant* [^31], dont en fin de compte il n’y a pas d’autre définition : que c’est ça le *trou*, le signifiant fait *trou*.
+*Vous vous en allez ? Vous avez bien raison ! Comment est-ce qu’on peut supporter ce que je raconte*... ...*que l’inconscient, c’est le Réel en tant que chez le parlêtre, il est affligé de la seule chose - chose j’ai dit - qui fasse trou*, qui du *trou* nous assure, c’est ce que j’appelle le *Symbolique*, en l’incarnant dans le *signifiant* [^31], dont en fin de compte il n’y a pas d’autre définition : que c’est ça le *trou*, le signifiant fait *trou*.
 
 <!-- id: s22-11-0075 -->
 
@@ -312,7 +312,7 @@ Non seulement ce qui fait nœud n’est pas *Imaginaire*, n’est pas une *repr�
 
 <!-- id: s22-11-0077 -->
 
-> c’est en ça que ça échappe à une *représentation*, et que je vous assure que c’est pas de faire des grimaces, qu’à chaque fois que j’en représente un, je fais un trait de travers. Je pense que, comme je me crois pas moins imaginatif qu’un autre, ça démontre déjà à quel point le nœud, ça nous répugne comme modèle …il n’y a pas d’affinité du *corps* avec le *nœud*, même si dans le corps, les trous ça joue, *pour les analystes*, une *sacrée fonction*.
+c’est en ça que ça échappe à une *représentation*, et que je vous assure que c’est pas de faire des grimaces, qu’à chaque fois que j’en représente un, je fais un trait de travers. Je pense que, comme je me crois pas moins imaginatif qu’un autre, ça démontre déjà à quel point le nœud, ça nous répugne comme modèle …il n’y a pas d’affinité du *corps* avec le *nœud*, même si dans le corps, les trous ça joue, *pour les analystes*, une *sacrée fonction*.
 
 <!-- id: s22-11-0078 -->
 
@@ -344,7 +344,7 @@ Mais comment même savoir ce que ça pouvait vouloir dire avant Fabre, qui ne le
 
 <!-- id: s22-11-0085 -->
 
-> car, ce savoir on le constate à la précision de ses gestes ...comment il faut, en tel point du corps de tel autre insecte, en telle jointure, en plus puisqu’il s’agit d’insecte en se filant en-dessous de ce qu’on appelle carapace, et qui bien sûr, n’est que mythologie figurative parce qu’il faut bien que quelque part il y ait quelque chose à percer, pour atteindre tel point précis de ce que nous savons maintenant qui vient de l’*ectoderme*, à savoir la partie invaginée qu’on appelle système nerveux, et là rompre quelque chose qui fait que l’autre insecte sera bon à être mis en conserve.
+car, ce savoir on le constate à la précision de ses gestes ...comment il faut, en tel point du corps de tel autre insecte, en telle jointure, en plus puisqu’il s’agit d’insecte en se filant en-dessous de ce qu’on appelle carapace, et qui bien sûr, n’est que mythologie figurative parce qu’il faut bien que quelque part il y ait quelque chose à percer, pour atteindre tel point précis de ce que nous savons maintenant qui vient de l’*ectoderme*, à savoir la partie invaginée qu’on appelle système nerveux, et là rompre quelque chose qui fait que l’autre insecte sera bon à être mis en conserve.
 
 <!-- id: s22-11-0086 -->
 
@@ -360,11 +360,11 @@ Quel intérêt y a-t-il, en quoi c’est-il explicatif, de le transporter dans u
 
 <!-- id: s22-11-0089 -->
 
-> je l’ai énoncée, bien sûr parce que moi je m’aventure comme ça ...ça pousse à cette idée que...
+je l’ai énoncée, bien sûr parce que moi je m’aventure comme ça ...ça pousse à cette idée que...
 
 <!-- id: s22-11-0090 -->
 
-> celle à laquelle j’en suis venu comme ça, par petits pas ...que *le Réel* c’est pas tout, et quand je dis que c’est pas tout, ça met beaucoup de choses en cause.
+celle à laquelle j’en suis venu comme ça, par petits pas ...que *le Réel* c’est pas tout, et quand je dis que c’est pas tout, ça met beaucoup de choses en cause.
 
 <!-- id: s22-11-0091 -->
 
@@ -420,7 +420,7 @@ Il y a quelqu’un qui...
 
 <!-- id: s22-11-0104 -->
 
-> on m’a rapporté ça comme ça, c’est un connard de la plus belle eau ...il a dit que ma théorie, elle était morte.
+on m’a rapporté ça comme ça, c’est un connard de la plus belle eau ...il a dit que ma théorie, elle était morte.
 
 <!-- id: s22-11-0105 -->
 
@@ -432,7 +432,7 @@ En atten­dant, le type qui évidemment n’est pas de mon bord, ça fait partie
 
 <!-- id: s22-11-0107 -->
 
-> ils parlent... ils parlent... ils savent pas ce qu’ils disent ...qui parlent de « *réalité psychique* ». Oui !
+ils parlent... ils parlent... ils savent pas ce qu’ils disent ...qui parlent de « *réalité psychique* ». Oui !
 
 <!-- id: s22-11-0108 -->
 
@@ -464,15 +464,15 @@ Malgré vous, pour vous, et c’est ça que j’aimerais un petit peu vous faire
 
 <!-- id: s22-11-0115 -->
 
-> pour vous, si simplement vous éprouvez un peu les choses ...*la structure du monde*...
+pour vous, si simplement vous éprouvez un peu les choses ...*la structure du monde*...
 
 <!-- id: s22-11-0116 -->
 
-> si je puis m’exprimer ainsi pour parler de ce qui est *immonde* ...*la structure du monde*...
+si je puis m’exprimer ainsi pour parler de ce qui est *immonde* ...*la structure du monde*...
 
 <!-- id: s22-11-0117 -->
 
-> je vous prie de tâcher de saisir les points, les points où vous pouvez saisir ...que pour vous, *la structure du monde* *consiste à vous* *payer de mots*.
+je vous prie de tâcher de saisir les points, les points où vous pouvez saisir ...que pour vous, *la structure du monde* *consiste à vous* *payer de mots*.
 
 <!-- id: s22-11-0118 -->
 
@@ -480,11 +480,11 @@ Et que c’est même en quoi le monde est plus futile...
 
 <!-- id: s22-11-0119 -->
 
-> je veux dire qu’il *fuit* ...est plus futile que le *Réel*, ce *Réel* que j’essaie de vous suggérer, dans sa *dit-mansion*...
+je veux dire qu’il *fuit* ...est plus futile que le *Réel*, ce *Réel* que j’essaie de vous suggérer, dans sa *dit-mansion*...
 
 <!-- id: s22-11-0120 -->
 
-> *dit* (*d.i.t*), *mansion* : demeure du *dit* ...que j’essaie de vous faire saisir par ce *dit* qui est le mien, à savoir par mon *dire*.
+*dit* (*d.i.t*), *mansion* : demeure du *dit* ...que j’essaie de vous faire saisir par ce *dit* qui est le mien, à savoir par mon *dire*.
 
 <!-- id: s22-11-0121 -->
 
@@ -524,13 +524,13 @@ Ce que Freud dit, c’est que le rêve chez le parlêtre...
 
 <!-- id: s22-11-0130 -->
 
-> parce que lui il n’a pas expérimenté sur les rats, ni sur quoi que ce soit dont nous ayons des preuves qu’il rêve. Personne ne sait si une mouche rêve, ni un rat, on peut se l’imaginer parce que on est tous un petit peu *rat*
->
-> par quelque côté, on est surtout *raté* \[*Rires*\] ! Et les expérimentations en question le sont plus que les autres,
->
-> ils sont *ratifiés*, ce sont des « *hommes-aux-rats* » \[*Rires*\]. Enfin, on est habité par des tas d’*hommes-aux-rats*,
->
-> quand on est homme. En tout cas on a les *hommes-aux-rats*  de la science
+parce que lui il n’a pas expérimenté sur les rats, ni sur quoi que ce soit dont nous ayons des preuves qu’il rêve. Personne ne sait si une mouche rêve, ni un rat, on peut se l’imaginer parce que on est tous un petit peu *rat*
+
+par quelque côté, on est surtout *raté* \[*Rires*\] ! Et les expérimentations en question le sont plus que les autres,
+
+ils sont *ratifiés*, ce sont des « *hommes-aux-rats* » \[*Rires*\]. Enfin, on est habité par des tas d’*hommes-aux-rats*,
+
+quand on est homme. En tout cas on a les *hommes-aux-rats*  de la science
 
 <!-- id: s22-11-0131 -->
 
@@ -546,7 +546,7 @@ Mais par contre, s’il y a une chose que Freud fait bien sentir...
 
 <!-- id: s22-11-0134 -->
 
-> et ça il faudrait suivre le texte, et s’apercevoir que lui, il sait ce qu’il dit ...c’est que le rêve protè­ge quelque chose qui s’appelle *un désir*.
+et ça il faudrait suivre le texte, et s’apercevoir que lui, il sait ce qu’il dit ...c’est que le rêve protè­ge quelque chose qui s’appelle *un désir*.
 
 <!-- id: s22-11-0135 -->
 
@@ -562,7 +562,7 @@ Et qu’à dire que ce que je dis n’est que conditionné que par le fait que..
 
 <!-- id: s22-11-0138 -->
 
-> *je ne dirai pas que la parole agit dans le discours analytique* ...que la parole seule agit.
+*je ne dirai pas que la parole agit dans le discours analytique* ...que la parole seule agit.
 
 <!-- id: s22-11-0139 -->
 
@@ -570,7 +570,7 @@ Et qu’à dire que ce que je dis n’est que conditionné que par le fait que..
 
 <!-- id: s22-11-0140 -->
 
-> oui enfin... c’est pas si mal ...il croit que c’est contradictoire avec *das Wort,* mais s’il y a pas de *das Wort* avant la *die Tat,* il y a pas de *« Tat »* du tout.
+oui enfin... c’est pas si mal ...il croit que c’est contradictoire avec *das Wort,* mais s’il y a pas de *das Wort* avant la *die Tat,* il y a pas de *« Tat »* du tout.
 
 <!-- id: s22-11-0141 -->
 
@@ -590,7 +590,7 @@ Seul l’inconscient permet de voir comment il y a un savoir, non dans le *Réel
 
 <!-- id: s22-11-0145 -->
 
-> non pas à la limite, mais *par* la limite ...comme étant fait d’une *consistance* exigible pour le trou, et l’imposant de ce fait.
+non pas à la limite, mais *par* la limite ...comme étant fait d’une *consistance* exigible pour le trou, et l’imposant de ce fait.
 
 <!-- id: s22-11-0146 -->
 
@@ -602,7 +602,7 @@ Alors tout ce qu’on a dit de l’instinct, ça ne veut dire que ceci : c’es
 
 <!-- id: s22-11-0148 -->
 
-> à du *Réel supposé* ...qu’on aille à du *Réel* pour avoir un pressentiment de l’inconscient.
+à du *Réel supposé* ...qu’on aille à du *Réel* pour avoir un pressentiment de l’inconscient.
 
 <!-- id: s22-11-0149 -->
 
@@ -658,9 +658,9 @@ Parce qu’il ne faut pas vous figurer que parce que quand ici je les interroge,
 
 <!-- id: s22-11-0162 -->
 
-> ils ne mouftent pas pour des raisons qui tiennent à la fonction du *dire*,
->
-> qui tiennent à l’*ex-sistence*, c’est-à-dire au nœud, en fin de compte ...mais ça *ex-sistait* rudement bien dans ces *journées*.
+ils ne mouftent pas pour des raisons qui tiennent à la fonction du *dire*,
+
+qui tiennent à l’*ex-sistence*, c’est-à-dire au nœud, en fin de compte ...mais ça *ex-sistait* rudement bien dans ces *journées*.
 
 <!-- id: s22-11-0163 -->
 
@@ -668,11 +668,11 @@ Moi j’ai naturellement tendance à penser que ce que je dis, à savoir ce disc
 
 <!-- id: s22-11-0164 -->
 
-> tout ce qui est là au tableau est fait pour en faire la démonstration ...un trou, pour peu qu’il soit consistant c’est-à-dire cerné \[*ici en rouge*\], un trou suffit pour nouer un nombre strictement indéfini de consistances, et que ça commence à 2 \[*ici les 2 droites infinies* A *et* B\] ...
+tout ce qui est là au tableau est fait pour en faire la démonstration ...un trou, pour peu qu’il soit consistant c’est-à-dire cerné \[*ici en rouge*\], un trou suffit pour nouer un nombre strictement indéfini de consistances, et que ça commence à 2 \[*ici les 2 droites infinies* A *et* B\] ...
 
 <!-- id: s22-11-0165 -->
 
-> comme le manifeste ce nœud borroméen qui est ici :
+comme le manifeste ce nœud borroméen qui est ici :
 
 <!-- id: s22-11-0166 -->
 
@@ -712,7 +712,7 @@ J’avais avancé ça comme je pouvais, dans un temps, enfin – on me l’a rap
 
 <!-- id: s22-11-0175 -->
 
-> je ne manque pas de tout bon sens ...j’y regarde à deux fois avant de faire mauvais effet.
+je ne manque pas de tout bon sens ...j’y regarde à deux fois avant de faire mauvais effet.
 
 <!-- id: s22-11-0176 -->
 
@@ -776,7 +776,7 @@ quand on avait couché avec sa mère - qu’on s’en aille...
 
 <!-- id: s22-11-0191 -->
 
-> je ne sais plus... vers l’Orient ou vers le Couchant... je crois que c’est vers le Couchant \[*Rires*\] ...vers le Couchant avec sa propre queue dans ses dents, après l’avoir tranchée bien entendu !
+je ne sais plus... vers l’Orient ou vers le Couchant... je crois que c’est vers le Couchant \[*Rires*\] ...vers le Couchant avec sa propre queue dans ses dents, après l’avoir tranchée bien entendu !
 
 <!-- id: s22-11-0192 -->
 
@@ -808,11 +808,11 @@ Il faut du *Symbolique* pour qu’apparaisse, individualisé dans le nœud, ce *
 
 <!-- id: s22-11-0199 -->
 
-> que moi je n’appelle pas tellement le complexe d’Œdipe, c’est pas si complexe que ça ...j’appelle ça le *Nom-du-Père*, ce qui ne veut rien dire que *le Père comme Nom*...
+que moi je n’appelle pas tellement le complexe d’Œdipe, c’est pas si complexe que ça ...j’appelle ça le *Nom-du-Père*, ce qui ne veut rien dire que *le Père comme Nom*...
 
 <!-- id: s22-11-0200 -->
 
-> ce qui veut rien dire au départ ...non seulement *le Père comme Nom*, mais *le Père comme Nommant*.
+ce qui veut rien dire au départ ...non seulement *le Père comme Nom*, mais *le Père comme Nommant*.
 
 <!-- id: s22-11-0201 -->
 
@@ -824,7 +824,11 @@ Ils nous ont bien expliqué que c’était le Père, le Père qu’ils appellent
 
 <!-- id: s22-11-0203 -->
 
-> « *je suis ce que je suis* »
+<div class="text-quotation">
+
+« *je suis ce que je suis* »
+
+</div>
 
 <!-- id: s22-11-0204 -->
 
@@ -940,7 +944,7 @@ Est-ce que ça veut dire que je pense que...
 
 <!-- id: s22-11-0232 -->
 
-> comme le nœud borroméen ...il y en a 3 qui doivent incarner *le Symbolique, l’Imaginaire et le Réel *?
+comme le nœud borroméen ...il y en a 3 qui doivent incarner *le Symbolique, l’Imaginaire et le Réel *?
 
 <!-- id: s22-11-0233 -->
 
@@ -952,7 +956,7 @@ Est-ce que vous avez entendu parler...
 
 <!-- id: s22-11-0235 -->
 
-> j’ai pas posé la question hier, aux « *journées* », parce que je voulais surtout recevoir, m’instruire ...est-ce que vous avez entendu parler de « *l’identification »* ?
+j’ai pas posé la question hier, aux « *journées* », parce que je voulais surtout recevoir, m’instruire ...est-ce que vous avez entendu parler de « *l’identification »* ?
 
 <!-- id: s22-11-0236 -->
 
@@ -1012,7 +1016,7 @@ De 3, on ne sait jamais laquelle des 3 est réelle, c’est bien pour ça qu’i
 
 <!-- id: s22-11-0250 -->
 
-> pourquoi pas l’an­née prochaine, du train dont je persiste ...j’essaierai de vous montrer que tout de même des *Noms-du-père*, si je l’accouple ce *Nom-du-Père* au *Symbolique*, pour en faire le « *plus un* », dont s’assure manifestement...
+pourquoi pas l’an­née prochaine, du train dont je persiste ...j’essaierai de vous montrer que tout de même des *Noms-du-père*, si je l’accouple ce *Nom-du-Père* au *Symbolique*, pour en faire le « *plus un* », dont s’assure manifestement...
 
 <!-- id: s22-11-0251 -->
 
@@ -1044,11 +1048,11 @@ Mais pour en revenir...
 
 <!-- id: s22-11-0258 -->
 
-> car je veux terminer sur quelque chose qui ait substance ...est-ce que Freud n’a pas proprement énoncé que dans l’*identification*...
+car je veux terminer sur quelque chose qui ait substance ...est-ce que Freud n’a pas proprement énoncé que dans l’*identification*...
 
 <!-- id: s22-11-0259 -->
 
-> il l’a dit ! Personne n’en voit le support, c’est-à-dire la portée ...il n’y a *d’amour* que de l’identification portant sur ce 4<sup>ème</sup> terme, à savoir *le Nom-du-Père*.
+il l’a dit ! Personne n’en voit le support, c’est-à-dire la portée ...il n’y a *d’amour* que de l’identification portant sur ce 4<sup>ème</sup> terme, à savoir *le Nom-du-Père*.
 
 <!-- id: s22-11-0260 -->
 
@@ -1100,7 +1104,7 @@ Trois fusils qui font faisceaux, qui se supportent à *trois* les uns les autres
 
 <!-- id: s22-11-0272 -->
 
-> vous le savez peut-être, et c’est de ça que le nom est tiré ...les Bretons ont pris pour faire leurs armes, les armes de la Bretagne moderne.
+vous le savez peut-être, et c’est de ça que le nom est tiré ...les Bretons ont pris pour faire leurs armes, les armes de la Bretagne moderne.
 
 <!-- id: s22-11-0273 -->
 
@@ -1124,7 +1128,7 @@ Je vous le répète, précise, c’est en tant que *le Nom-du-Père* est ce qui 
 
 <!-- id: s22-11-0278 -->
 
-> et s’il s’agit du *triskel*, *le Nom-du-Père*, ici, du *triskel* fait nœud ...c’est en tant donc que le *triskel ex-siste* qu’il peut y avoir *identification*. *Identification* à quoi ?
+et s’il s’agit du *triskel*, *le Nom-du-Père*, ici, du *triskel* fait nœud ...c’est en tant donc que le *triskel ex-siste* qu’il peut y avoir *identification*. *Identification* à quoi ?
 
 <!-- id: s22-11-0279 -->
 
@@ -1132,7 +1136,7 @@ Je vous le répète, précise, c’est en tant que *le Nom-du-Père* est ce qui 
 
 <!-- id: s22-11-0280 -->
 
-> dans tout nœud borroméen, je vous le rappelle - allez ! Vous voyez, voilà mon *triskel* ici ...dans tout nœud borroméen *fait le cœur*, le centre du nœud.
+dans tout nœud borroméen, je vous le rappelle - allez ! Vous voyez, voilà mon *triskel* ici ...dans tout nœud borroméen *fait le cœur*, le centre du nœud.
 
 <!-- id: s22-11-0281 -->
 

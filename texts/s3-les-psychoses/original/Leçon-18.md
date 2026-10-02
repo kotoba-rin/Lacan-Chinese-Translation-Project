@@ -6,9 +6,13 @@
 
 <!-- id: s3-18-0001 -->
 
-> « *Sie lieben also den Wahn wie sich selbst. Das ist das Geheimnis.* »
->
-> « *Ils aiment ainsi leur délire comme ils s’aiment eux-mêmes. Tel est le secret.* »
+<div class="text-quotation">
+
+« *Sie lieben also den Wahn wie sich selbst. Das ist das Geheimnis.* »
+
+« *Ils aiment ainsi leur délire comme ils s’aiment eux-mêmes. Tel est le secret.* »
+
+</div>
 
 <!-- id: s3-18-0002 -->
 
@@ -124,7 +128,11 @@ Nous dirons que la partie de la phrase qui est pleine, où sont les *mots noyaux
 
 <!-- id: s3-18-0030 -->
 
-> « *Maintenant, c’est le moment qu’il soit maté !* »
+<div class="text-quotation">
+
+« *Maintenant, c’est le moment qu’il soit maté !* »
+
+</div>
 
 <!-- id: s3-18-0031 -->
 
@@ -136,7 +144,11 @@ Après cela est impliqué ce qui doit être imposé à la pensée du sujet par c
 
 <!-- id: s3-18-0033 -->
 
-> « *C’en est donc maintenant trop, d’après la conception des âmes.* »
+<div class="text-quotation">
+
+« *C’en est donc maintenant trop, d’après la conception des âmes.* »
+
+</div>
 
 <!-- id: s3-18-0034 -->
 
@@ -152,7 +164,11 @@ Et après cela ce qui est impliqué - qui n’est pas donné à voix haute dans 
 
 <!-- id: s3-18-0037 -->
 
-> « *Ce qui me manque, c’est justement la pensée principale* »,
+<div class="text-quotation">
+
+« *Ce qui me manque, c’est justement la pensée principale* »,
+
+</div>
 
 <!-- id: s3-18-0038 -->
 
@@ -160,7 +176,11 @@ Ce que veut dire :
 
 <!-- id: s3-18-0039 -->
 
-> « *Nous, les rayons, nous manquons de pensée* »
+<div class="text-quotation">
+
+« *Nous, les rayons, nous manquons de pensée* »
+
+</div>
 
 <!-- id: s3-18-0040 -->
 
@@ -180,7 +200,7 @@ Alors que c’est mi-Novembre qu’il est entré dans la maison de FLESHIG, c’
 
 <!-- id: s3-18-0044 -->
 
-> qui apparaît alors à la limite, être ce *personnage divin* qui surgit de son expérience délirante
+qui apparaît alors à la limite, être ce *personnage divin* qui surgit de son expérience délirante
 
 <!-- id: s3-18-0045 -->
 
@@ -208,7 +228,11 @@ La *métaphore* n’est pas la chose du monde dont il soit le plus facile de par
 
 <!-- id: s3-18-0051 -->
 
-> « *Sa gerbe n’était point avare, ni haineuse.* » *–* Victor HUGO.
+<div class="text-quotation">
+
+« *Sa gerbe n’était point avare, ni haineuse.* » *–* Victor HUGO.
+
+</div>
 
 <!-- id: s3-18-0052 -->
 

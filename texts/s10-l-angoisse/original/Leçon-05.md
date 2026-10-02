@@ -10,9 +10,9 @@ On a vu, on a lu, on verra, on lira encore, qu’une certaine forme d’enseigne
 
 <!-- id: s10-05-0002 -->
 
-> nommément celui qui se poursuit ici
-> ...a un carac­tère prétendument plus philosophique que tel autre qui essaierait de se rac­corder à une expérience plus concrète,
-> plus scientifique, plus expérimenta­le. Peu importe quel mot on emploie.
+nommément celui qui se poursuit ici
+...a un carac­tère prétendument plus philosophique que tel autre qui essaierait de se rac­corder à une expérience plus concrète,
+plus scientifique, plus expérimenta­le. Peu importe quel mot on emploie.
 
 <!-- id: s10-05-0003 -->
 
@@ -55,12 +55,12 @@ Il me souvient avoir provoqué l’indignation de cette sorte de *« confrères
 
 <!-- id: s10-05-0011 -->
 
-> qui savent à l’oc­casion se remparder derrière je ne sais quelle *enflure* de bons sentiments
->
-> destinée à rassurer je ne sais qui,
-> ...d’avoir provoqué l’indignation en disant que dans l’analyse, la guérison venait en quelque sorte « *par surcroît »*.
-> On y a vu je ne sais quel dédain de celui dont nous avons la charge, de celui qui souffre.
-> Je parlais d’un point de vue méthodologique...
+qui savent à l’oc­casion se remparder derrière je ne sais quelle *enflure* de bons sentiments
+
+destinée à rassurer je ne sais qui,
+...d’avoir provoqué l’indignation en disant que dans l’analyse, la guérison venait en quelque sorte « *par surcroît »*.
+On y a vu je ne sais quel dédain de celui dont nous avons la charge, de celui qui souffre.
+Je parlais d’un point de vue méthodologique...
 
 <!-- id: s10-05-0012 -->
 
@@ -117,9 +117,9 @@ C’est mon propos d’aujourd’hui de l’indiquer, faute de pouvoir, bien sû
 
 <!-- id: s10-05-0021 -->
 
-> qui nécessiterait toute une année de séminaire
-> ...faire la somme de ce qui a été apporté dans un certain nombre de types d’interro­gations qu’on appelle,
-> à tort ou à raison, par exemple :
+qui nécessiterait toute une année de séminaire
+...faire la somme de ce qui a été apporté dans un certain nombre de types d’interro­gations qu’on appelle,
+à tort ou à raison, par exemple :
 
 <!-- id: s10-05-0022 -->
 
@@ -141,8 +141,8 @@ Et c’est pour ça que la dernière fois mon dis­cours aboutissait à le cerne
 
 <!-- id: s10-05-0026 -->
 
-> que je n’avais bien sûr fait qu’amorcer, introduire
-> ...de 3 points où assurément, la dimension de l’Autre restait dominante, à savoir :
+que je n’avais bien sûr fait qu’amorcer, introduire
+...de 3 points où assurément, la dimension de l’Autre restait dominante, à savoir :
 
 <!-- id: s10-05-0027 -->
 
@@ -190,8 +190,8 @@ que certains trouvent à prendre dans le fait, par exemple, que soi-disant « *
 
 <!-- id: s10-05-0036 -->
 
-> et en quoi ce serait-il « *au contraire* » ?
-> ...des « *névroses* » sont réalisées chez l’animal, dans le laboratoire, sur la table d’expérience.
+et en quoi ce serait-il « *au contraire* » ?
+...des « *névroses* » sont réalisées chez l’animal, dans le laboratoire, sur la table d’expérience.
 
 <!-- id: s10-05-0037 -->
 
@@ -223,10 +223,10 @@ Bref, d’en arriver au point où la demande faite à *la fonction*...
 
 <!-- id: s10-05-0042 -->
 
-> c’est quelque chose qu’on a théorisé plus récemment et en d’autres aires culturelles, par le terme du *stress* [^31]
-> ...peut aboutir, peut déboucher sur cette sorte de déficit qui dépasse *la fonction* elle-même,
-> qui intéresse l’ap­pareil de façon qui le modifie au-delà du registre de la réponse fonction­nelle,
-> qui plus ou moins confine, dans les traces durables qu’il engendre, à un déficit lésionnel.
+c’est quelque chose qu’on a théorisé plus récemment et en d’autres aires culturelles, par le terme du *stress* [^31]
+...peut aboutir, peut déboucher sur cette sorte de déficit qui dépasse *la fonction* elle-même,
+qui intéresse l’ap­pareil de façon qui le modifie au-delà du registre de la réponse fonction­nelle,
+qui plus ou moins confine, dans les traces durables qu’il engendre, à un déficit lésionnel.
 
 <!-- id: s10-05-0043 -->
 
@@ -247,10 +247,10 @@ que si primitif, par rapport à celui d’un sujet parlant, que soit l’organis
 
 <!-- id: s10-05-0046 -->
 
-> et il est très loin d’être primitif, d’être éloigné du nôtre, cet organisme,
->
-> dans les expériences pavloviennes puisque ce sont des chiens
-> ...la dimension de l’Autre, avec un grand A, est présente dans l’expérience.
+et il est très loin d’être primitif, d’être éloigné du nôtre, cet organisme,
+
+dans les expériences pavloviennes puisque ce sont des chiens
+...la dimension de l’Autre, avec un grand A, est présente dans l’expérience.
 
 <!-- id: s10-05-0047 -->
 
@@ -259,11 +259,11 @@ sur quelques phénomènes qui nous étaient rapportés...
 
 <!-- id: s10-05-0048 -->
 
-> je ne vais pas y revenir aujourd’hui
-> ...concernant la création des névroses expérimentales, je faisais remarquer à celui qui communiquait ses recherches,
-> que sa présence à lui, dans l’expérience, comme personnage humain,
-> manipulateur d’un certain nombre de choses autour de l’animal,
-> devait être à tel et tel moment de l’expérience, mise en cause, comptée.
+je ne vais pas y revenir aujourd’hui
+...concernant la création des névroses expérimentales, je faisais remarquer à celui qui communiquait ses recherches,
+que sa présence à lui, dans l’expérience, comme personnage humain,
+manipulateur d’un certain nombre de choses autour de l’animal,
+devait être à tel et tel moment de l’expérience, mise en cause, comptée.
 
 <!-- id: s10-05-0049 -->
 
@@ -279,8 +279,8 @@ a été de vous démontrer l’ampleur du niveau où chez nous, sujet...
 
 <!-- id: s10-05-0051 -->
 
-> tel que nous apprenons à le manier, à le déterminer, ce sujet que nous sommes
-> ...il y a aussi tout un champ où de ce qui le consti­tue comme champ, nous ne savons rien.
+tel que nous apprenons à le manier, à le déterminer, ce sujet que nous sommes
+...il y a aussi tout un champ où de ce qui le consti­tue comme champ, nous ne savons rien.
 
 <!-- id: s10-05-0052 -->
 
@@ -307,9 +307,9 @@ c’est qu’il existe des moments d’apparition de *l’objet* qui nous jetten
 
 <!-- id: s10-05-0056 -->
 
-> parce qu’elle est donnée dans l’expérience
-> ...d’être détachée comme telle, comme primiti­ve dans l’expérience, qui est justement *la dimension de l’étrange*,
-> de quelque chose qui d’aucune façon ne se laisse saisir, comme laissant en face de lui *le sujet transparent à sa connaissance*.
+parce qu’elle est donnée dans l’expérience
+...d’être détachée comme telle, comme primiti­ve dans l’expérience, qui est justement *la dimension de l’étrange*,
+de quelque chose qui d’aucune façon ne se laisse saisir, comme laissant en face de lui *le sujet transparent à sa connaissance*.
 
 <!-- id: s10-05-0057 -->
 
@@ -326,9 +326,9 @@ c’est l’effet d’une réaction héritée, ancestrale, primordiale, d’une 
 
 <!-- id: s10-05-0059 -->
 
-> puisque « pensée » il semble qu’il faille toujours qu’on en conserve le terme
-> ...d’une pensée structurée autrement que la pensée logique, rationnelle,
-> et on construit et on invente c’est là qu’on fait de la philosophie.
+puisque « pensée » il semble qu’il faille toujours qu’on en conserve le terme
+...d’une pensée structurée autrement que la pensée logique, rationnelle,
+et on construit et on invente c’est là qu’on fait de la philosophie.
 
 <!-- id: s10-05-0060 -->
 
@@ -340,17 +340,17 @@ Cette *forme* que je vous livre, qui est concevable, qui consiste à s’apercev
 
 <!-- id: s10-05-0062 -->
 
-> qui est l’objet corrélatif d’un premier mode d’abord, celui qui part de la *reconnaissance* de notre propre forme
-> ...et si cette connaissance, en elle-même limitée, laisse échapper quelque chose de cet investissement primitif à notre être
-> qui est donné par le fait d’exister comme corps, est-ce que ce n’est pas dire quelque chose, non seulement de raisonnable
-> mais de contrôlable, que de dire que *c’est ce reste, c’est ce résidu non « imaginé » du corps,* qui vient par quelque détour...
+qui est l’objet corrélatif d’un premier mode d’abord, celui qui part de la *reconnaissance* de notre propre forme
+...et si cette connaissance, en elle-même limitée, laisse échapper quelque chose de cet investissement primitif à notre être
+qui est donné par le fait d’exister comme corps, est-ce que ce n’est pas dire quelque chose, non seulement de raisonnable
+mais de contrôlable, que de dire que *c’est ce reste, c’est ce résidu non « imaginé » du corps,* qui vient par quelque détour...
 
 <!-- id: s10-05-0063 -->
 
-> et si nous savons, ce détour, le désigner
-> ...ici se manifester, à cette place prévue pour le manque \[(- φ)\], se manifester de cette façon qui nous intéresse,
-> et d’une façon qui, pour n’être pas spéculaire, devient dès lors *irrepérable*.
-> C’est une dimension de l’angoisse, effectivement, que ce défaut de certains repères.
+et si nous savons, ce détour, le désigner
+...ici se manifester, à cette place prévue pour le manque \[(- φ)\], se manifester de cette façon qui nous intéresse,
+et d’une façon qui, pour n’être pas spéculaire, devient dès lors *irrepérable*.
+C’est une dimension de l’angoisse, effectivement, que ce défaut de certains repères.
 
 <!-- id: s10-05-0064 -->
 
@@ -391,8 +391,8 @@ Je vous prie de vous reporter aux textes...
 
 <!-- id: s10-05-0073 -->
 
-> très accessibles, puisqu’ils ont été traduits en français
-> *...*des analyses goldsteiniennes pour y repérer à la fois
+très accessibles, puisqu’ils ont été traduits en français
+*...*des analyses goldsteiniennes pour y repérer à la fois
 
 <!-- id: s10-05-0074 -->
 
@@ -463,9 +463,9 @@ la première chose en tout cas qui apparaît...
 
 <!-- id: s10-05-0087 -->
 
-> qui apparaît dans le mythe, mais aussi dans la phénoménologie du cauche­mar, du cauche­mar vécu
-> ...c’est que cet être qui pèse par sa jouissance, est aussi un être *questionneur,* et même à proprement parler, qui se manifeste,
-> se déploie, dans cette dimension complète, développée, de la question comme telle qui s’appelle « *l’énigme »*.
+qui apparaît dans le mythe, mais aussi dans la phénoménologie du cauche­mar, du cauche­mar vécu
+...c’est que cet être qui pèse par sa jouissance, est aussi un être *questionneur,* et même à proprement parler, qui se manifeste,
+se déploie, dans cette dimension complète, développée, de la question comme telle qui s’appelle « *l’énigme »*.
 
 <!-- id: s10-05-0088 -->
 
@@ -632,7 +632,7 @@ De sorte que vous saisissez là que, *à l’origine, ce qui nourrit l’émerge
 
 <!-- id: s10-05-0120 -->
 
-> <img src="assets/image28.jpeg" style="width:1.11317in;height:0.79355in" alt="..\Documents S10\9.jpg" />
+<img src="assets/image28.jpeg" style="width:1.11317in;height:0.79355in" alt="..\Documents S10\9.jpg" />
 
 <!-- id: s10-05-0121 -->
 
@@ -695,15 +695,15 @@ C’est ce qui fait que la mère qui...
 
 <!-- id: s10-05-0132 -->
 
-> comme je le voyais surgir il n’y a pas si longtemps dans le discours d’un de mes patients
-> ...n’a pas quitté jus­qu’à tel âge son enfant d’une semelle...
+comme je le voyais surgir il n’y a pas si longtemps dans le discours d’un de mes patients
+...n’a pas quitté jus­qu’à tel âge son enfant d’une semelle...
 
 <!-- id: s10-05-0133 -->
 
-> peut-on dire mieux ?
-> ...n’a donné à cette *demande* qu’une fausse réponse, une réponse vraiment à côté,
-> puisque si la *demande* est ce quelque chose qui est structuré ainsi que je vous le dis, parce que le signifiant est ce qu’il est,
-> elle n’est pas à prendre - cette *demande* - « *au pied de la lettre* ».
+peut-on dire mieux ?
+...n’a donné à cette *demande* qu’une fausse réponse, une réponse vraiment à côté,
+puisque si la *demande* est ce quelque chose qui est structuré ainsi que je vous le dis, parce que le signifiant est ce qu’il est,
+elle n’est pas à prendre - cette *demande* - « *au pied de la lettre* ».
 
 <!-- id: s10-05-0134 -->
 
@@ -779,17 +779,21 @@ Est-ce que nous ne trouvons pas là, tout de suite...
 
 <!-- id: s10-05-0147 -->
 
-> dès le premier abord *analytique* à proprement parler de « *l’instinct* »,
-> ...cette ligne de cassure dont je vous parle comme essentielle à cette dialectique instaurée par cette référen­ce à l’Autre, en miroir, dont j’avais cru vous avoir apporté aujourd’hui - *je ne l’ai pas retrouvée tout à l’heure dans mes papiers -* la référence,
-> que je vous donnerai la prochaine fois dans Hegel, dans la *Phénoménologie de l’Esprit,* où il est formellement dit que :
+dès le premier abord *analytique* à proprement parler de « *l’instinct* »,
+...cette ligne de cassure dont je vous parle comme essentielle à cette dialectique instaurée par cette référen­ce à l’Autre, en miroir, dont j’avais cru vous avoir apporté aujourd’hui - *je ne l’ai pas retrouvée tout à l’heure dans mes papiers -* la référence,
+que je vous donnerai la prochaine fois dans Hegel, dans la *Phénoménologie de l’Esprit,* où il est formellement dit que :
 
 <!-- id: s10-05-0148 -->
 
-> *« Langage et travail, c’est là où le sujet fait passer son intérieur dans l’extérieur. »*
->
-> \[« *Langage et travail sont des extériorisations dans lesquelles l'individu ne se conserve plus et ne se possède plus en lui-même ;*
->
-> *mais il laisse aller l'intérieur tout à fait en dehors de soi et l'abandonne à la merci de quelque chose d'Autre.* »\] [^34]
+<div class="text-quotation">
+
+*« Langage et travail, c’est là où le sujet fait passer son intérieur dans l’extérieur. »*
+
+\[« *Langage et travail sont des extériorisations dans lesquelles l'individu ne se conserve plus et ne se possède plus en lui-même ;*
+
+*mais il laisse aller l'intérieur tout à fait en dehors de soi et l'abandonne à la merci de quelque chose d'Autre.* »\] [^34]
+
+</div>
 
 <!-- id: s10-05-0149 -->
 
@@ -811,9 +815,9 @@ Et c’est d’ailleurs bien ce qui permet qu’on le remplace par n’importe q
 
 <!-- id: s10-05-0152 -->
 
-> les références au besoin, bien sûr c’est essentiel, il ne s’agit pas de s’y refuser
-> ...mais c’est pour s’apercevoir quelle *toute primitive différence structurale*  y introduit de fait des ruptures, des coupures,
-> y introduit tout de suite la dialectique signi­fiante.
+les références au besoin, bien sûr c’est essentiel, il ne s’agit pas de s’y refuser
+...mais c’est pour s’apercevoir quelle *toute primitive différence structurale*  y introduit de fait des ruptures, des coupures,
+y introduit tout de suite la dialectique signi­fiante.
 
 <!-- id: s10-05-0153 -->
 
@@ -871,8 +875,8 @@ Moi je crois plutôt qu’il s’en foutait \[*rires*\], car il y avait *une cho
 
 <!-- id: s10-05-0163 -->
 
-> et c’est pour ça que Pascal nous touche encore, même ceux d’entre nous qui sont absolument incroyants
-> ...*c’est que* Pascal, *comme un bon janséniste qu’il était, s’intéressait au désir*.
+et c’est pour ça que Pascal nous touche encore, même ceux d’entre nous qui sont absolument incroyants
+...*c’est que* Pascal, *comme un bon janséniste qu’il était, s’intéressait au désir*.
 
 <!-- id: s10-05-0164 -->
 

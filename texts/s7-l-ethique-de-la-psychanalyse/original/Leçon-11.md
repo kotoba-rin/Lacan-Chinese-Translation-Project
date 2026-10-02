@@ -154,9 +154,9 @@ Quand vous pourrez lire cet étonnant ouvrage qu’est *Moïse et le monothéism
 
 <!-- id: s7-11-0038 -->
 
-> concernant ce que je vous ai montré - tout au long de ces années
->
-> comme étant l’essentielle référence, le *Nom du Père*, sa fonction signifiante
+concernant ce que je vous ai montré - tout au long de ces années
+
+comme étant l’essentielle référence, le *Nom du Père*, sa fonction signifiante
 
 <!-- id: s7-11-0039 -->
 
@@ -172,9 +172,9 @@ Et, nous dit-il, il y a un véritable progrès dans la spiritualité dans le fai
 
 <!-- id: s7-11-0042 -->
 
-> à savoir *celui dont on n’est jamais sûr*, et dont aussi bien on peut dire
->
-> que *la reconnaissance de son action* implique toute une *élaboration mentale*, toute *une réflexion*
+à savoir *celui dont on n’est jamais sûr*, et dont aussi bien on peut dire
+
+que *la reconnaissance de son action* implique toute une *élaboration mentale*, toute *une réflexion*
 
 <!-- id: s7-11-0043 -->
 
@@ -262,9 +262,9 @@ Il y a un moment maximum qui va à peu près du début du XII<sup>ème</sup> si�
 
 <!-- id: s7-11-0064 -->
 
-> qui, comme leur nom l’indique, sont des cercles au sens de *l’amour courtois*, je veux dire
->
-> des cercles de cour, des cercles nobles, occupant une certaine position élevée dans la société
+qui, comme leur nom l’indique, sont des cercles au sens de *l’amour courtois*, je veux dire
+
+des cercles de cour, des cercles nobles, occupant une certaine position élevée dans la société
 
 <!-- id: s7-11-0065 -->
 
@@ -352,9 +352,9 @@ Ce sont des *satisfactions de puissance* nous dit FREUD. C’est pourquoi il n�
 
 <!-- id: s7-11-0086 -->
 
-> il y en a, je crois, 126 dans ce recueil dit *Manuscrit des Manes* \[[*Codex Manesse*](http://fr.wikipedia.org/wiki/Codex_Manesse)\] qui, au début du XIX<sup>ème</sup> siècle,
->
-> se trouvait à la *Bibliothèque nationale de Paris* et devant lequel Henri HEINE allait faire ses dévotions comme à l’origine même de la poésie germanique. Depuis 1888 ce *Manuscrit* a été, je ne sais par la voie de quelle négociation, mais de la façon la plus justifiée, restitué aux Allemands, il est maintenant à Heidelberg
+il y en a, je crois, 126 dans ce recueil dit *Manuscrit des Manes* \[[*Codex Manesse*](http://fr.wikipedia.org/wiki/Codex_Manesse)\] qui, au début du XIX<sup>ème</sup> siècle,
+
+se trouvait à la *Bibliothèque nationale de Paris* et devant lequel Henri HEINE allait faire ses dévotions comme à l’origine même de la poésie germanique. Depuis 1888 ce *Manuscrit* a été, je ne sais par la voie de quelle négociation, mais de la façon la plus justifiée, restitué aux Allemands, il est maintenant à Heidelberg
 
 <!-- id: s7-11-0087 -->
 
@@ -430,7 +430,7 @@ Ici, l’objet - nommément l’objet féminin, dont je vous ai déjà dit qu’
 
 <!-- id: s7-11-0105 -->
 
-> quelquefois il y en a qui sont à des *niveaux populaires*, qui sont quelquefois sortis des serviteurs, des sirvens de tel lieu qui est celui de leur naissance. Bernard DE VENTADOUR par exemple était le fils d’un servant au château de Ventadour dont le titulaire, Ebles DE VENTADOUR, était lui aussi un troubadour
+quelquefois il y en a qui sont à des *niveaux populaires*, qui sont quelquefois sortis des serviteurs, des sirvens de tel lieu qui est celui de leur naissance. Bernard DE VENTADOUR par exemple était le fils d’un servant au château de Ventadour dont le titulaire, Ebles DE VENTADOUR, était lui aussi un troubadour
 
 <!-- id: s7-11-0106 -->
 
@@ -442,7 +442,7 @@ D’autre part cet objet, la « *Domnei* » comme on l’appelle...
 
 <!-- id: s7-11-0108 -->
 
-> mais dont il est bien remarquable que tellement fréquemment, dans ce qui lui est adressé, le terme sous lequel elle est invoquée est masculinisé. On l’appelle à l’occasion « *mi Dom* », c’est-à-dire « *mon seigneur* »
+mais dont il est bien remarquable que tellement fréquemment, dans ce qui lui est adressé, le terme sous lequel elle est invoquée est masculinisé. On l’appelle à l’occasion « *mi Dom* », c’est-à-dire « *mon seigneur* »
 
 <!-- id: s7-11-0109 -->
 
@@ -458,9 +458,9 @@ C’est bien cela qui rend si facile dans la suite, à tel ou tel *poète métap
 
 <!-- id: s7-11-0112 -->
 
-> dont on sait qu’il l’avait énamourée quand elle avait neuf ans, qui est restée
->
-> au centre de sa chanson depuis la *Vita nuova* jusqu’à la *Divine Comédie*
+dont on sait qu’il l’avait énamourée quand elle avait neuf ans, qui est restée
+
+au centre de sa chanson depuis la *Vita nuova* jusqu’à la *Divine Comédie*
 
 <!-- id: s7-11-0113 -->
 
@@ -476,9 +476,9 @@ C’est en somme, que *quelque chose* articule ce *centre*, cette *place* que te
 
 <!-- id: s7-11-0116 -->
 
-> d’une façon que je trouve assez jolie et que je ne répudie pas expressément, bien que,
->
-> vous allez le voir, ce qui en fait le charme, ce soit en quelque sorte une référence presque histologique
+d’une façon que je trouve assez jolie et que je ne répudie pas expressément, bien que,
+
+vous allez le voir, ce qui en fait le charme, ce soit en quelque sorte une référence presque histologique
 
 <!-- id: s7-11-0117 -->
 
@@ -510,9 +510,9 @@ Ce que la création de la poésie courtoise tend à faire, c’est à situer, à
 
 <!-- id: s7-11-0124 -->
 
-> et dans une époque dont nous pouvons retrouver les coordonnées historiques, où justement quelque discord peut apparaître dans les conditions de la réalité particulièrement sévère par rapport à *certaines exigences du fond*,
->
-> un certain *Malaise dans la culture* et, selon le mode de *la sublimation* qui est celui propre de l’art
+et dans une époque dont nous pouvons retrouver les coordonnées historiques, où justement quelque discord peut apparaître dans les conditions de la réalité particulièrement sévère par rapport à *certaines exigences du fond*,
+
+un certain *Malaise dans la culture* et, selon le mode de *la sublimation* qui est celui propre de l’art
 
 <!-- id: s7-11-0125 -->
 
@@ -564,9 +564,9 @@ Et pourtant, si quelque chose se trouve alors dans les techniques précises...
 
 <!-- id: s7-11-0137 -->
 
-> car ces techniques, elles vont loin dans ce qu’elles nous laissent entrevoir de ce qui pouvait à l’occasion
->
-> passer dans le fait de ce qui est à proprement parler de l’ordre sexuel dans l’inspiration de cet érotisme
+car ces techniques, elles vont loin dans ce qu’elles nous laissent entrevoir de ce qui pouvait à l’occasion
+
+passer dans le fait de ce qui est à proprement parler de l’ordre sexuel dans l’inspiration de cet érotisme
 
 <!-- id: s7-11-0138 -->
 

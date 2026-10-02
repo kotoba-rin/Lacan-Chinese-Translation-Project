@@ -150,7 +150,7 @@ Ceci dit, ce qu’il faut - ça, c’est le premier point - ce qu’il faut comp
 
 <!-- id: s26-09-0037 -->
 
-> parce que, vous le voyez, la censure a laissé passer un premier mot ...l’important c’est de comprendre que « *pour une fois ça passe, mais n’insiste pas* ».
+parce que, vous le voyez, la censure a laissé passer un premier mot ...l’important c’est de comprendre que « *pour une fois ça passe, mais n’insiste pas* ».
 
 <!-- id: s26-09-0038 -->
 
@@ -198,9 +198,13 @@ Si vous voulez, vous voyez par là que nous sommes très proches, ce censeur, il
 
 <!-- id: s26-09-0049 -->
 
-> « *tu ne m’auras pas, on ne me la fait pas, quoi que tu disais je sais où situer ce que tu as à dire*
->
-> *et dans cette position de méfiance, de soupçon, je t’ai à l’œil, je ne serai pas surpris.* »
+<div class="text-quotation">
+
+« *tu ne m’auras pas, on ne me la fait pas, quoi que tu disais je sais où situer ce que tu as à dire*
+
+*et dans cette position de méfiance, de soupçon, je t’ai à l’œil, je ne serai pas surpris.* »
+
+</div>
 
 <!-- id: s26-09-0050 -->
 
@@ -208,7 +212,7 @@ Je débouche là sur un point tout à fait fondamental, c’est qu’une fonctio
 
 <!-- id: s26-09-0051 -->
 
-> c’est un point qui, à mon avis, n’a pas assez été retenu ...est de considérer ce prévenu qu’est le sujet pour elle, de prévenir *toute surprise* *possible* venant de lui et en particulier - ça c’est textuellement dans Freud - Freud dit qu’une des fonctions de la censure est de dépouiller de son intensité ce qu’il appelle « *le signifiant de haute valeur psychique* ».
+c’est un point qui, à mon avis, n’a pas assez été retenu ...est de considérer ce prévenu qu’est le sujet pour elle, de prévenir *toute surprise* *possible* venant de lui et en particulier - ça c’est textuellement dans Freud - Freud dit qu’une des fonctions de la censure est de dépouiller de son intensité ce qu’il appelle « *le signifiant de haute valeur psychique* ».
 
 <!-- id: s26-09-0052 -->
 
@@ -244,7 +248,7 @@ Maintenant rien ne nous empêche d’imaginer quelles sont les conditions qui pe
 
 <!-- id: s26-09-0060 -->
 
-> c’est-à-dire « *À bas, le ministre !* » ...quelles seraient les conditions qui feraient que cet « *À bas, le ministre !* » revienne, c’est-à-dire soit repris.
+c’est-à-dire « *À bas, le ministre !* » ...quelles seraient les conditions qui feraient que cet « *À bas, le ministre !* » revienne, c’est-à-dire soit repris.
 
 <!-- id: s26-09-0061 -->
 
@@ -320,7 +324,7 @@ C’est-à-dire que dans ce vide constitué, à ce moment-là le sujet entend ce
 
 <!-- id: s26-09-0079 -->
 
-> mais quand je dis étonnante, c’est au sens fort, il faut entendre le mot tonnerre ...c’est que ce « *Che vuoi ?* », il donne une réponse qui est une question : « *Che vuoi ?* ».
+mais quand je dis étonnante, c’est au sens fort, il faut entendre le mot tonnerre ...c’est que ce « *Che vuoi ?* », il donne une réponse qui est une question : « *Che vuoi ?* ».
 
 <!-- id: s26-09-0080 -->
 
@@ -344,11 +348,15 @@ Donc ce qu’on peut dire, ce que je dirais, si vous voulez, du surgissement du 
 
 <!-- id: s26-09-0085 -->
 
-> « *Bon, je prends acte du fait que tu as insisté et maintenant qu’est-ce que tu vas faire. C’est-à-dire est-ce que cette insistance,*
->
-> *tu vas pouvoir la soutenir par un 3<sup>ème</sup> mot, est-ce qu’un 3<sup>ème</sup> mot va te permettre de trouver les coordonnées*
->
-> *d’articuler un 3<sup>ème</sup> mot, un 3<sup>ème</sup> signifiant qui va faire que cette insistance*, *tu vas la transmuter en persévérance ?* »
+<div class="text-quotation">
+
+« *Bon, je prends acte du fait que tu as insisté et maintenant qu’est-ce que tu vas faire. C’est-à-dire est-ce que cette insistance,*
+
+*tu vas pouvoir la soutenir par un 3<sup>ème</sup> mot, est-ce qu’un 3<sup>ème</sup> mot va te permettre de trouver les coordonnées*
+
+*d’articuler un 3<sup>ème</sup> mot, un 3<sup>ème</sup> signifiant qui va faire que cette insistance*, *tu vas la transmuter en persévérance ?* »
+
+</div>
 
 <!-- id: s26-09-0086 -->
 
@@ -364,9 +372,9 @@ Vous voyez que tout à l’opposé du censeur...
 
 <!-- id: s26-09-0089 -->
 
-> qui, lui, serait en position de dire : « *Pour une fois je passe : errare humanum est* »,
->
-> *« l’erreur n’est pas grave »* en un mot ...là où ça devient grave, c’est si l’insistance se transforme en persévérance.
+qui, lui, serait en position de dire : « *Pour une fois je passe : errare humanum est* »,
+
+*« l’erreur n’est pas grave »* en un mot ...là où ça devient grave, c’est si l’insistance se transforme en persévérance.
 
 <!-- id: s26-09-0090 -->
 
@@ -414,7 +422,7 @@ Et vous voyez que trois directions finalement s’imposent de ce cernage par ce 
 
 <!-- id: s26-09-0101 -->
 
-> et ces signifiants nous disent qu’alors le sujet tombe des nues interloqué, comme une loque. Où tombe-t-il effectivement ? Il tombe là où on tombe : par terre, il est atterré.
+et ces signifiants nous disent qu’alors le sujet tombe des nues interloqué, comme une loque. Où tombe-t-il effectivement ? Il tombe là où on tombe : par terre, il est atterré.
 
 <!-- id: s26-09-0102 -->
 
@@ -422,11 +430,11 @@ Et vous voyez que trois directions finalement s’imposent de ce cernage par ce 
 
 <!-- id: s26-09-0103 -->
 
-> à laquelle est réduit le sujet fixé à terre, puisque là ce sont les termes de stupeur, stupidité, stupéfié...
->
-> qui en ancien français veut dire paralysé,
->
-> ...qui qualifient cette impossibilité de déplacement par laquelle le corps, pas plus que la parole, ne peuvent être dits de ce que le sujet reste interdit.
+à laquelle est réduit le sujet fixé à terre, puisque là ce sont les termes de stupeur, stupidité, stupéfié...
+
+qui en ancien français veut dire paralysé,
+
+...qui qualifient cette impossibilité de déplacement par laquelle le corps, pas plus que la parole, ne peuvent être dits de ce que le sujet reste interdit.
 
 <!-- id: s26-09-0104 -->
 
@@ -518,9 +526,9 @@ Maintenant... vous voyez je me suis permis de qualifier
 
 <!-- id: s26-09-0126 -->
 
-> je ne vais peut-être pas avoir le temps de les développer là vraiment
->
-> ...mais il y a un certain nombre de raisons qui nous autorisent à repérer que le *surmoi* procède de la structure d’un regard.
+je ne vais peut-être pas avoir le temps de les développer là vraiment
+
+...mais il y a un certain nombre de raisons qui nous autorisent à repérer que le *surmoi* procède de la structure d’un regard.
 
 <!-- id: s26-09-0127 -->
 
@@ -564,11 +572,11 @@ Ce *surmoi médusant*, il me semble qu’on pourrait le repérer comme étant ce
 
 <!-- id: s26-09-0137 -->
 
-> je vous rappelle que sous le regard de la Méduse un sujet est pétrifié, c’est-à-dire que
->
-> pour l’éternité, il n’y a plus de temps, il n’y a plus de diachronie,
->
-> pour l’éternité il est figé, il perd la disposition du mouvement langagier ou du mouvement corporel ...on peut ajouter que le psychotique, pensez au petit Dick dans le *Séminaire* II, est un être qu’on pourrait dire *invisible*, il se considère comme invisible en tant qu’il serait *regardé de partout*.
+je vous rappelle que sous le regard de la Méduse un sujet est pétrifié, c’est-à-dire que
+
+pour l’éternité, il n’y a plus de temps, il n’y a plus de diachronie,
+
+pour l’éternité il est figé, il perd la disposition du mouvement langagier ou du mouvement corporel ...on peut ajouter que le psychotique, pensez au petit Dick dans le *Séminaire* II, est un être qu’on pourrait dire *invisible*, il se considère comme invisible en tant qu’il serait *regardé de partout*.
 
 <!-- id: s26-09-0138 -->
 
@@ -580,11 +588,11 @@ Le problème, c’est que ce regard médusant, ce regard qui serait le surmoi le
 
 <!-- id: s26-09-0140 -->
 
-> ça mérite tout de même la peine d’être marqué ...que le regard chez le psychotique, par opposition au Surmoi chez le névrosé, participe...
+ça mérite tout de même la peine d’être marqué ...que le regard chez le psychotique, par opposition au Surmoi chez le névrosé, participe...
 
 <!-- id: s26-09-0141 -->
 
-> en tout cas dans la *Traumdeutung* ...participe de l’*inconscient*, la censure est inconsciente en partie et c’est pour cela que Freud l’a isolé très tardivement.
+en tout cas dans la *Traumdeutung* ...participe de l’*inconscient*, la censure est inconsciente en partie et c’est pour cela que Freud l’a isolé très tardivement.
 
 <!-- id: s26-09-0142 -->
 
@@ -628,7 +636,7 @@ Si ces différences pour moi sont effectivement isolables, comment rendre compte
 
 <!-- id: s26-09-0152 -->
 
-> dans la mesure où l’identification dite primordiale d’incorporation est à la racine du *surmoi* ...comment rendre compte de la dialectique entre
+dans la mesure où l’identification dite primordiale d’incorporation est à la racine du *surmoi* ...comment rendre compte de la dialectique entre
 
 <!-- id: s26-09-0153 -->
 
@@ -748,7 +756,7 @@ Dans le mythe en tout cas, dans la forme héroïque du mythe, quelque chose nous
 
 <!-- id: s26-09-0182 -->
 
-> ces choses sont rapportées par Durkheim, par Frazer, par les sources de Freud, Spencer et Gillen ...eh bien, le mouvement de va-et-vient qu’il y a entre le spectre et l’ancêtre se manifeste par exemple par le fait que : il y a le père mort, dans un premier temps l’âme va rester ici-bas, elle ne veut pas foutre le camp, elle reste là, elle demeure là et pourquoi, c’est la question que nous abordons? Pourquoi ?
+ces choses sont rapportées par Durkheim, par Frazer, par les sources de Freud, Spencer et Gillen ...eh bien, le mouvement de va-et-vient qu’il y a entre le spectre et l’ancêtre se manifeste par exemple par le fait que : il y a le père mort, dans un premier temps l’âme va rester ici-bas, elle ne veut pas foutre le camp, elle reste là, elle demeure là et pourquoi, c’est la question que nous abordons? Pourquoi ?
 
 <!-- id: s26-09-0183 -->
 
@@ -768,7 +776,7 @@ Il se trouve qu’elle est malfaisante et dangereuse. Ce spectre qui ne veut pas
 
 <!-- id: s26-09-0187 -->
 
-> il repart pour la 3<sup>ème</sup> et dernière fois à l’île des Morts d’où il ne reviendra pas.
+il repart pour la 3<sup>ème</sup> et dernière fois à l’île des Morts d’où il ne reviendra pas.
 
 <!-- id: s26-09-0188 -->
 
@@ -856,7 +864,7 @@ Maintenant Freud, si vous voulez, ce qui est très intéressant si on lit ligne 
 
 <!-- id: s26-09-0209 -->
 
-> je me permets de le faire pendant cinq minutes
+je me permets de le faire pendant cinq minutes
 
 <!-- id: s26-09-0210 -->
 
@@ -872,9 +880,9 @@ Voilà ce qu’il écrit : cette projection énigmatique, cette projection au de
 
 <!-- id: s26-09-0213 -->
 
-> c’est tout à fait énigmatique chez Freud
->
-> cette notion de perception interne de processus intellectuels et affectifs ...sont comme des perceptions sensorielles projetées au dehors.
+c’est tout à fait énigmatique chez Freud
+
+cette notion de perception interne de processus intellectuels et affectifs ...sont comme des perceptions sensorielles projetées au dehors.
 
 <!-- id: s26-09-0214 -->
 
@@ -970,7 +978,7 @@ Le propre de Freud, sans doute parce que c’est lui, c’est qu’il ne répond
 
 <!-- id: s26-09-0237 -->
 
-> mais ça a été déjà remarqué, ...en se réveillant ni en faisant un rêve de désir sexuel, le propre de Freud c’est que cette angoisse, on pourrait dire cette fascination, va laisser place à la sidération, de ce que vraisemblablement on peut dire qu’il y a eu une castration du regard fascinant qui est sur lui, castration qui va être opérée justement par la mise en œuvre d’un au-delà - au-delà du Principe de Plaisir - et cette sidération qui va succéder à l’angoisse, je dirais qu’elle s’introduit selon la dialectique du mot d’esprit : sidération et lumière, c’est-à-dire que Freud va faire une sorte de mot d’esprit, c’est-à-dire qu’il va articuler ce signifiant S(A) par la mise en jeu finalement de cette présence qui est en lui quand tout est perdu, puisque sous l’effet de ce Réel horrible et angoissant qui se montre à lui, il se dissout, tout fout le camp, et au moment où tout fout le camp, eh bien, il ne trouve que quelque chose qui tient bon, quelque chose *répond présent* et répond en l’occurrence « *triméthylamine* » et répond présent, comme je l’ai démontré tout à l’heure sur la dialectique, après la survenue de cette sidération du « *Che vuoi* ? ».
+mais ça a été déjà remarqué, ...en se réveillant ni en faisant un rêve de désir sexuel, le propre de Freud c’est que cette angoisse, on pourrait dire cette fascination, va laisser place à la sidération, de ce que vraisemblablement on peut dire qu’il y a eu une castration du regard fascinant qui est sur lui, castration qui va être opérée justement par la mise en œuvre d’un au-delà - au-delà du Principe de Plaisir - et cette sidération qui va succéder à l’angoisse, je dirais qu’elle s’introduit selon la dialectique du mot d’esprit : sidération et lumière, c’est-à-dire que Freud va faire une sorte de mot d’esprit, c’est-à-dire qu’il va articuler ce signifiant S(A) par la mise en jeu finalement de cette présence qui est en lui quand tout est perdu, puisque sous l’effet de ce Réel horrible et angoissant qui se montre à lui, il se dissout, tout fout le camp, et au moment où tout fout le camp, eh bien, il ne trouve que quelque chose qui tient bon, quelque chose *répond présent* et répond en l’occurrence « *triméthylamine* » et répond présent, comme je l’ai démontré tout à l’heure sur la dialectique, après la survenue de cette sidération du « *Che vuoi* ? ».
 
 <!-- id: s26-09-0238 -->
 
@@ -1026,7 +1034,7 @@ je vais vous faire passer ça, c’est retourné déjà, vous voyez qu’en vert
 
 <!-- id: s26-09-0251 -->
 
-> c’est un soutien provisoire que je me donne ...mais séparé l’un de l’autre par une torsion qui, amenant le trou réel dans le trou symbolique, pourrait métaphoriser cette nouvelle articulation dont se supporterait le 2<sup>ème</sup> *surmoi* qui ainsi se substituerait au 1<sup>er</sup> surmoi du fait donc d’un refoulement originaire du signifiant phallique, refoulement dont le retournement serait le support et qui ferait passer de ce 1<sup>er</sup> surmoi archaïque au 2<sup>nd</sup>.
+c’est un soutien provisoire que je me donne ...mais séparé l’un de l’autre par une torsion qui, amenant le trou réel dans le trou symbolique, pourrait métaphoriser cette nouvelle articulation dont se supporterait le 2<sup>ème</sup> *surmoi* qui ainsi se substituerait au 1<sup>er</sup> surmoi du fait donc d’un refoulement originaire du signifiant phallique, refoulement dont le retournement serait le support et qui ferait passer de ce 1<sup>er</sup> surmoi archaïque au 2<sup>nd</sup>.
 
 <!-- id: s26-09-0252 -->
 
@@ -1058,7 +1066,7 @@ Dans l’ennui, je dirais, ce qui nous arrive, c’est que nous accédons à une
 
 <!-- id: s26-09-0259 -->
 
-> je m’excuse d’aller un peu vite, mais je crois qu’on peut le dire quand même ...ça correspond avec quelque chose de l’ordre de l’usure de la métaphore paternelle.
+je m’excuse d’aller un peu vite, mais je crois qu’on peut le dire quand même ...ça correspond avec quelque chose de l’ordre de l’usure de la métaphore paternelle.
 
 <!-- id: s26-09-0260 -->
 
@@ -1066,9 +1074,9 @@ Les métaphores s’usent : regardez un mot d’esprit, il fait de l’effet un 
 
 <!-- id: s26-09-0261 -->
 
-> et cette usure se produit justement sous l’effet de l’impact de ces signifiants
->
-> qui persistent dans le Réel et qui sont corrodants sur la métaphore ...cette usure, je dirais qu’elle est liée à l’apparition du déchet dans notre univers.
+et cette usure se produit justement sous l’effet de l’impact de ces signifiants
+
+qui persistent dans le Réel et qui sont corrodants sur la métaphore ...cette usure, je dirais qu’elle est liée à l’apparition du déchet dans notre univers.
 
 <!-- id: s26-09-0262 -->
 
@@ -1112,7 +1120,7 @@ Je conclurai là en vous rappelant que Freud a écrit « *Totem et tabou* » d
 
 <!-- id: s26-09-0272 -->
 
-> cette recherche sur le signifiant du Nom du Père qu’est « *Totem et tabou* » ...il l’a écrit dans le cadre de sa diatribe avec Jung et il l’écrit pour rompre avec Jung et pour rompre avec ce qu’il appelle la religion aryenne.
+cette recherche sur le signifiant du Nom du Père qu’est « *Totem et tabou* » ...il l’a écrit dans le cadre de sa diatribe avec Jung et il l’écrit pour rompre avec Jung et pour rompre avec ce qu’il appelle la religion aryenne.
 
 <!-- id: s26-09-0273 -->
 
@@ -1120,7 +1128,7 @@ Et à Jung se posait la question de la dégénérescence de l’énergie vitale 
 
 <!-- id: s26-09-0274 -->
 
-> je ne vais pas avoir le temps d’aller beaucoup plus loin ...à Jung qui se posait cette question, Freud répond en partie, comme il peut, dans ce texte.
+je ne vais pas avoir le temps d’aller beaucoup plus loin ...à Jung qui se posait cette question, Freud répond en partie, comme il peut, dans ce texte.
 
 <!-- id: s26-09-0275 -->
 
@@ -1132,7 +1140,7 @@ Jung se dit quand le national-socialisme éclot, la question qu’il se pose est
 
 <!-- id: s26-09-0277 -->
 
-> c’est une question qui est d’autant plus frappante qu’elle a été posée à *un congrès des langues romanes* par un analyste qui pensait faire le reproche le plus cinglant possible à l’enseignement de Lacan,
+c’est une question qui est d’autant plus frappante qu’elle a été posée à *un congrès des langues romanes* par un analyste qui pensait faire le reproche le plus cinglant possible à l’enseignement de Lacan,
 
 <!-- id: s26-09-0278 -->
 
@@ -1164,7 +1172,7 @@ En conclusion, je terminerai en disant ceci, c’est que dans le fond, la métap
 
 <!-- id: s26-09-0285 -->
 
-> c’est un petit peu le *mana* dont nous parle Lévi-Strauss ...et en même temps qui consiste à ne pas céder à ce mouvement d’une force vitale qui voudrait s’émanciper, n’appartenir qu’à lui-même dans la fraîcheur d’une innocence retrouvée.
+c’est un petit peu le *mana* dont nous parle Lévi-Strauss ...et en même temps qui consiste à ne pas céder à ce mouvement d’une force vitale qui voudrait s’émanciper, n’appartenir qu’à lui-même dans la fraîcheur d’une innocence retrouvée.
 
 <!-- id: s26-09-0286 -->
 
@@ -1172,11 +1180,11 @@ Le signifiant du Nom du Père fonde l’excédent pulsionnel pour autant que ne 
 
 <!-- id: s26-09-0287 -->
 
-> Artaud par exemple qui toute sa vie évoque la présence vitales qui le côtoient avec la nostalgie
->
-> de ne pas en être possédé comme cela se passait dans le théâtre antique,
->
-> parce que ces forces, il en a la conscience, le savoir, mais il ne peut pas les articuler ...quand il ne cède pas, il peut arriver que le sujet parvienne conformément au graphe qui est aussi la façon dont le *parl’être* peut travailler à utiliser l’effet de l’insistance de cet excès en le pointant sur le même point d’où en lui insiste cet excès, alors que cet excès sourcé dans le manque de signifiant accepte, fait retour sur lui-même et procède à la nomination, à la métaphorisation donc de ce signifiant toujours nouveau du fait de cesser de ne pas trouver le point ou il insiste.
+Artaud par exemple qui toute sa vie évoque la présence vitales qui le côtoient avec la nostalgie
+
+de ne pas en être possédé comme cela se passait dans le théâtre antique,
+
+parce que ces forces, il en a la conscience, le savoir, mais il ne peut pas les articuler ...quand il ne cède pas, il peut arriver que le sujet parvienne conformément au graphe qui est aussi la façon dont le *parl’être* peut travailler à utiliser l’effet de l’insistance de cet excès en le pointant sur le même point d’où en lui insiste cet excès, alors que cet excès sourcé dans le manque de signifiant accepte, fait retour sur lui-même et procède à la nomination, à la métaphorisation donc de ce signifiant toujours nouveau du fait de cesser de ne pas trouver le point ou il insiste.
 
 <!-- id: s26-09-0288 -->
 

@@ -6,15 +6,15 @@
 
 <!-- id: s4-20-0001 -->
 
-> Des enfants au maillot
->
->  
->
-> « *O cités de la mer, je vois chez vous vos citoyens, hommes*
->
-> *et femmes, les bras et les jambes étroitement ligotés dans de solides liens par des gens qui n’entendront point votre langage, et vous ne pourrez exhaler qu’entre vous, par des plaintes larmoyantes, des lamentations et des soupirs, vos douleurs et vos regrets de la liberté perdue. Car ceux-là qui vous ligotent ne comprendront pas votre langue, non plus que vous ne les comprendrez.* »
->
-> *Carnets* de Léonard De VINCI, Codice Atlantico 145. r. a. Gallimard t. II, p. 400.
+Des enfants au maillot
+
+ 
+
+« *O cités de la mer, je vois chez vous vos citoyens, hommes*
+
+*et femmes, les bras et les jambes étroitement ligotés dans de solides liens par des gens qui n’entendront point votre langage, et vous ne pourrez exhaler qu’entre vous, par des plaintes larmoyantes, des lamentations et des soupirs, vos douleurs et vos regrets de la liberté perdue. Car ceux-là qui vous ligotent ne comprendront pas votre langue, non plus que vous ne les comprendrez.* »
+
+*Carnets* de Léonard De VINCI, Codice Atlantico 145. r. a. Gallimard t. II, p. 400.
 
 <!-- id: s4-20-0002 -->
 
@@ -118,8 +118,12 @@ Nous nous trouvons là à l’entrée dans les sortes de malentendus qui vont pr
 
 <!-- id: s4-20-0021 -->
 
-> «* Il est tout à fait frappant de voir, en quelque sorte sous­ jacente à tout le développement de l’observation,*
-> *on ne sait quelle fonction, non pas de vagina dentata, mais du phallus dentatus*. »
+<div class="text-quotation">
+
+«* Il est tout à fait frappant de voir, en quelque sorte sous­ jacente à tout le développement de l’observation,*
+*on ne sait quelle fonction, non pas de vagina dentata, mais du phallus dentatus*. »
+
+</div>
 
 <!-- id: s4-20-0022 -->
 
@@ -274,13 +278,17 @@ Littéralement délibérément FREUD lui dit :
 
 <!-- id: s4-20-0052 -->
 
-> « *Je vais te raconter cette grande histoire que j’ai inventée, que je savais avant que tu vins au monde :*
->
-> *c’est qu’un jour un petit Hans viendrait qui aimerait trop sa mère, et qui à cause de cela, détesterait son père.* » \[p. 120\]
->
-> \[*Lange, ehe er auf der Welt war, hätte ich schon gewußt, daß ein kleiner Hans kommen werde,*
->
-> *der seine Mutter so lieb hätte, daß er sich darum vor dem Vater fürchten müßte, und hätte es seinem Vater erzählt.*\]
+<div class="text-quotation">
+
+« *Je vais te raconter cette grande histoire que j’ai inventée, que je savais avant que tu vins au monde :*
+
+*c’est qu’un jour un petit Hans viendrait qui aimerait trop sa mère, et qui à cause de cela, détesterait son père.* » \[p. 120\]
+
+\[*Lange, ehe er auf der Welt war, hätte ich schon gewußt, daß ein kleiner Hans kommen werde,*
+
+*der seine Mutter so lieb hätte, daß er sich darum vor dem Vater fürchten müßte, und hätte es seinem Vater erzählt.*\]
+
+</div>
 
 <!-- id: s4-20-0053 -->
 
@@ -595,8 +603,12 @@ nous aideront à *la peindre* de plus près. Comme on dit dans cet admirable dra
 
 <!-- id: s4-20-0112 -->
 
-> « *Elles sont tout ce que nous sommes*
-> *Et cependant ne sont pas hommes *». \[Acte I, scène 9\]
+<div class="text-quotation">
+
+« *Elles sont tout ce que nous sommes*
+*Et cependant ne sont pas hommes *». \[Acte I, scène 9\]
+
+</div>
 
 <!-- id: s4-20-0113 -->
 

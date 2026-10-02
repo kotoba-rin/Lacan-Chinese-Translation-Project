@@ -114,11 +114,11 @@ Parce que il est tout à fait manifeste que ça n’est pas facile de se représ
 
 <!-- id: s23-11-0028 -->
 
-> puisqu’il s’agit en réalité, non pas d’un nœud mais d’une chaîne *...*cette chaîne borroméenne, ça n’est pas facile de la voir fonctionner rien qu’à la penser*...*
+puisqu’il s’agit en réalité, non pas d’un nœud mais d’une chaîne *...*cette chaîne borroméenne, ça n’est pas facile de la voir fonctionner rien qu’à la penser*...*
 
 <!-- id: s23-11-0029 -->
 
-> cette fois-ci en coupant le terme, en coupant le « *la* » de « *penser* » ...c’est pas facile même pour le plus simple.
+cette fois-ci en coupant le terme, en coupant le « *la* » de « *penser* » ...c’est pas facile même pour le plus simple.
 
 <!-- id: s23-11-0030 -->
 
@@ -150,7 +150,7 @@ Et c’est une autonomie d’autant plus remarquable qu’il y a une autre *écr
 
 <!-- id: s23-11-0037 -->
 
-> c’est à savoir celle qui résulte de ce qu’on pourrait appeler « *une* *précipitation du signifiant »*
+c’est à savoir celle qui résulte de ce qu’on pourrait appeler « *une* *précipitation du signifiant »*
 
 <!-- id: s23-11-0038 -->
 
@@ -182,7 +182,7 @@ C’est en tout cas ce que démontre parfaitement mon nœud *bo*.
 
 <!-- id: s23-11-0045 -->
 
-> là aussi, parce que je suis pas du tout sûr que ça ne vous ait pas échappé ...c’est *comme ça* que je l’écris : « *mension du dit* ».
+là aussi, parce que je suis pas du tout sûr que ça ne vous ait pas échappé ...c’est *comme ça* que je l’écris : « *mension du dit* ».
 
 <!-- id: s23-11-0046 -->
 
@@ -206,11 +206,15 @@ Il n’en reste pas moins que ce qu’il y a de φιλία \[philia\] dans le «
 
 <!-- id: s23-11-0051 -->
 
-> le « *philo* » qui commence le mot philosophie ...ce qu’il y a de φιλία peut prendre un poids : c’est le temps en tant que pensé...
+le « *philo* » qui commence le mot philosophie ...ce qu’il y a de φιλία peut prendre un poids : c’est le temps en tant que pensé...
 
 <!-- id: s23-11-0052 -->
 
-> « *pensé* » : non pas *la pensée*, mais le temps pensé ...le temps pensé, c’est la φιλία.
+<div class="text-quotation">
+
+« *pensé* » : non pas *la pensée*, mais le temps pensé ...le temps pensé, c’est la φιλία.
+
+</div>
 
 <!-- id: s23-11-0053 -->
 
@@ -258,7 +262,7 @@ La droite infinie en question...
 
 <!-- id: s23-11-0064 -->
 
-> ça n’est pas la première fois que vous m’entendez en parler ...c’est quelque chose que je caractérise de son équivalence au cercle, c’est le principe du nœud borroméen.
+ça n’est pas la première fois que vous m’entendez en parler ...c’est quelque chose que je caractérise de son équivalence au cercle, c’est le principe du nœud borroméen.
 
 <!-- id: s23-11-0065 -->
 
@@ -394,7 +398,7 @@ C’est bien ce que je suis en train de vous imposer par mon langage : c’est 
 
 <!-- id: s23-11-0098 -->
 
-> au nom de je ne sais quelle inhibition ...d’être mis en posture d’*écrire*.
+au nom de je ne sais quelle inhibition ...d’être mis en posture d’*écrire*.
 
 <!-- id: s23-11-0099 -->
 
@@ -422,11 +426,11 @@ Il m’est venu, comme ça, dans *la boule*...
 
 <!-- id: s23-11-0105 -->
 
-> *la boule* qui dans l’occa­sion, est loin d’être sphérique, puisqu’elle se rattache à tout ce qu’on sait ...il m’est venu, comme ça, dans *la boule*, que Joyce c’est quelque chose qui lui est arrivé...
+*la boule* qui dans l’occa­sion, est loin d’être sphérique, puisqu’elle se rattache à tout ce qu’on sait ...il m’est venu, comme ça, dans *la boule*, que Joyce c’est quelque chose qui lui est arrivé...
 
 <!-- id: s23-11-0106 -->
 
-> et qui lui est arrivé par une voie dont, moi, je crois pouvoir rendre compte ...quelque chose qui lui est arrivé et qui fait que chez lui ce qu’on appelle, comme ça, couramment, l’*ego*, a joué un tout autre rôle que le rôle simple... qu’on s’imagine simple ...que le rôle simple qu’il joue dans le commun de ce qu’on appelle mortel - mortel à juste titre.
+et qui lui est arrivé par une voie dont, moi, je crois pouvoir rendre compte ...quelque chose qui lui est arrivé et qui fait que chez lui ce qu’on appelle, comme ça, couramment, l’*ego*, a joué un tout autre rôle que le rôle simple... qu’on s’imagine simple ...que le rôle simple qu’il joue dans le commun de ce qu’on appelle mortel - mortel à juste titre.
 
 <!-- id: s23-11-0107 -->
 
@@ -446,13 +450,13 @@ Et il l’a illustré quand, dans une rencontre avec je ne sais plus quel « *j
 
 <!-- id: s23-11-0111 -->
 
-> j’ai pas retrouvé le nom, non pas que je ne l’ai pas cherché, mais c’est un épisode bien connu.
->
-> Il est peut-être dans Gormann[^16]. Je ne l’ai pas retrouvé dans Ellmann[^17] qui est sûrement la meilleure, la plus soigneuse, des biographies de Joyce. Je ne l’ai pas retrouvé, non pas que ça n’y soit sûrement pas,
->
-> c’est parce que j’ai pas eu le temps ce matin de le rechercher.
->
-> Il s’agit de quelque chose dont un quelconque des biographes de Joyce fait état ...quelqu’un, un jour, est venu le voir et lui a demandé de parler de ce qui concernait une certaine image.
+j’ai pas retrouvé le nom, non pas que je ne l’ai pas cherché, mais c’est un épisode bien connu.
+
+Il est peut-être dans Gormann[^16]. Je ne l’ai pas retrouvé dans Ellmann[^17] qui est sûrement la meilleure, la plus soigneuse, des biographies de Joyce. Je ne l’ai pas retrouvé, non pas que ça n’y soit sûrement pas,
+
+c’est parce que j’ai pas eu le temps ce matin de le rechercher.
+
+Il s’agit de quelque chose dont un quelconque des biographes de Joyce fait état ...quelqu’un, un jour, est venu le voir et lui a demandé de parler de ce qui concernait une certaine image.
 
 <!-- id: s23-11-0112 -->
 
@@ -508,7 +512,7 @@ Que chacun des chapitres d’*Ulysses* se veuille être supporté d’un certain
 
 <!-- id: s23-11-0125 -->
 
-> qui dans l’occasion est appelé *dialectique* par exemple, ou *rhéto­rique* ou *théologie* ...c’est bien ce qui est, pour lui, lié à l’étoffe même de ce qu’il raconte.
+qui dans l’occasion est appelé *dialectique* par exemple, ou *rhéto­rique* ou *théologie* ...c’est bien ce qui est, pour lui, lié à l’étoffe même de ce qu’il raconte.
 
 <!-- id: s23-11-0126 -->
 
@@ -528,11 +532,15 @@ s’il y a un inconscient ...à vouloir exprimer quelque chose, non pas seulemen
 
 <!-- id: s23-11-0130 -->
 
-> c’est ce que je vous ai exprimé en son temps par le rapport d’un signifiant à un autre signifiant ...le sujet réside dans cette division même, que c’est *la vie du langage*...
+c’est ce que je vous ai exprimé en son temps par le rapport d’un signifiant à un autre signifiant ...le sujet réside dans cette division même, que c’est *la vie du langage*...
 
 <!-- id: s23-11-0131 -->
 
-> « *vie* » pour le langage étant tout autre chose que ce qu’on appelle simplement vie ...que ce qui signifie « mort » pour le support somatique a tout autant de place dans ces pulsions qui relèvent de ce que je viens d’appeler *vie du langage*.
+<div class="text-quotation">
+
+« *vie* » pour le langage étant tout autre chose que ce qu’on appelle simplement vie ...que ce qui signifie « mort » pour le support somatique a tout autant de place dans ces pulsions qui relèvent de ce que je viens d’appeler *vie du langage*.
+
+</div>
 
 <!-- id: s23-11-0132 -->
 
@@ -548,7 +556,7 @@ Outre que le corps a des trous, c’est même - au dire de Freud - ce qui aurait
 
 <!-- id: s23-11-0135 -->
 
-> parce que ceci c’est abstrait ...de ces trous abstraits qui concernent l’*énonciation* de quoi que ce soit.
+parce que ceci c’est abstrait ...de ces trous abstraits qui concernent l’*énonciation* de quoi que ce soit.
 
 <!-- id: s23-11-0136 -->
 
@@ -576,7 +584,7 @@ Vous voyez comment tout s’engage, et où en somme, cette idée d’éternité.
 
 <!-- id: s23-11-0142 -->
 
-> dont personne ne sait ce que c’est ...cette idée d’éternité nous mène \[*sic*\]. Voilà !
+dont personne ne sait ce que c’est ...cette idée d’éternité nous mène \[*sic*\]. Voilà !
 
 <!-- id: s23-11-0143 -->
 
@@ -584,17 +592,17 @@ Pour ce qui est de Joyce je voudrais... j’aurais pu vous lire à l’occasion.
 
 <!-- id: s23-11-0144 -->
 
-> mais enfin sachez que ça existe et que vous pouvez le lire très facilement en français,
->
-> parce que il y a eu une traduction du *Portrait of the Artist as a Young Man*... *Portrait* non pas *of the Artist*
->
-> - car j’ai fait là naturellement un lapsus - *of an Artist *: *Portrait d’<u>un</u> Artiste comme <u>un</u> Jeune Homme* ...il y a une confidence que nous fait Joyce qui concerne ceci : c’est que, à propos de Tennyson, de Byron, enfin de choses qui se référaient à des poètes, il s’est trouvé que des camarades l’ont ficelé à une barrière \- non pas quelconque, elle était même en fil de fer barbelé - et lui ont donné à lui, Joyce, James Joyce...
+mais enfin sachez que ça existe et que vous pouvez le lire très facilement en français,
+
+parce que il y a eu une traduction du *Portrait of the Artist as a Young Man*... *Portrait* non pas *of the Artist*
+
+- car j’ai fait là naturellement un lapsus - *of an Artist *: *Portrait d’<u>un</u> Artiste comme <u>un</u> Jeune Homme* ...il y a une confidence que nous fait Joyce qui concerne ceci : c’est que, à propos de Tennyson, de Byron, enfin de choses qui se référaient à des poètes, il s’est trouvé que des camarades l’ont ficelé à une barrière \- non pas quelconque, elle était même en fil de fer barbelé - et lui ont donné à lui, Joyce, James Joyce...
 
 <!-- id: s23-11-0145 -->
 
-> le camarade qui dirigeait toute l’aventure était un nommé Heron (*h,e,r,o,­n*),
->
-> ce qui n’est pas un terme tout à fait indifférent, c’est l’ἐρῶν \[erôn : *l’amant* (≈ [ἐρᾰστής](https://en.wiktionary.org/wiki/%E1%BC%90%CF%81%CE%B1%CF%83%CF%84%CE%AE%CF%82#Ancient_Greek) : erastès)\] ...cet Heron l’a donc battu pendant un certain temps, aidé bien sûr de quelques autres camarades, et après l’aventure, Joyce s’interroge sur ce qui a fait que, passée la chose, il ne lui en voulait pas.
+le camarade qui dirigeait toute l’aventure était un nommé Heron (*h,e,r,o,­n*),
+
+ce qui n’est pas un terme tout à fait indifférent, c’est l’ἐρῶν \[erôn : *l’amant* (≈ [ἐρᾰστής](https://en.wiktionary.org/wiki/%E1%BC%90%CF%81%CE%B1%CF%83%CF%84%CE%AE%CF%82#Ancient_Greek) : erastès)\] ...cet Heron l’a donc battu pendant un certain temps, aidé bien sûr de quelques autres camarades, et après l’aventure, Joyce s’interroge sur ce qui a fait que, passée la chose, il ne lui en voulait pas.
 
 <!-- id: s23-11-0146 -->
 
@@ -642,7 +650,7 @@ Mais l’inconscient de Freud...
 
 <!-- id: s23-11-0157 -->
 
-> c’est quelque chose qui vaut la peine d’être énoncé à cette occasion ...c’est justement ce que j’ai dit, à savoir le rapport qu’il y a entre
+c’est quelque chose qui vaut la peine d’être énoncé à cette occasion ...c’est justement ce que j’ai dit, à savoir le rapport qu’il y a entre
 
 <!-- id: s23-11-0158 -->
 
@@ -666,7 +674,7 @@ Mais cette image confuse n’est pas sans comporter - appe­lons ça comme ça s
 
 <!-- id: s23-11-0163 -->
 
-> comme Joyce en témoigne, après avoir reçu les coups de bâton de ses quatre ou cinq camarades …il y a quelque chose qui ne demande qu’à s’en aller, qu’à lâcher, comme une pelure.
+comme Joyce en témoigne, après avoir reçu les coups de bâton de ses quatre ou cinq camarades …il y a quelque chose qui ne demande qu’à s’en aller, qu’à lâcher, comme une pelure.
 
 <!-- id: s23-11-0164 -->
 
@@ -686,7 +694,7 @@ Il n’a pas joui cette fois-là ! Il a eu...
 
 <!-- id: s23-11-0168 -->
 
-> c’est quelque chose qui vaut psycholo­giquement ...il a eu une réaction de dégoût, et ce dégoût concerne son propre corps, en somme.
+c’est quelque chose qui vaut psycholo­giquement ...il a eu une réaction de dégoût, et ce dégoût concerne son propre corps, en somme.
 
 <!-- id: s23-11-0169 -->
 
@@ -750,7 +758,7 @@ Le nœud *bo* n’est que la traduction de ceci, c’est que - comme on me le r
 
 <!-- id: s23-11-0184 -->
 
-> et par dessus le marché l’amour qu’on peut qualifier d’« *éternel* » ...*c’est ce qui se rapporte à la fonction du père, qui s’adresse à lui au nom de ceci que le père est porteur de la castration*.
+et par dessus le marché l’amour qu’on peut qualifier d’« *éternel* » ...*c’est ce qui se rapporte à la fonction du père, qui s’adresse à lui au nom de ceci que le père est porteur de la castration*.
 
 <!-- id: s23-11-0185 -->
 
@@ -766,9 +774,13 @@ Mais de cette *intuition*, à cette *intuition*, j’essaie de donner un autre c
 
 <!-- id: s23-11-0188 -->
 
-> « *la Loi* »qui n’a absolument rien à faire avec les lois du monde réel,
->
-> les lois du monde réel étant d’ailleurs une question qui reste toute entière ouverte ... « *la Loi* » dans l’occasion, est simplement « *la Loi de l’amour* », c’est-à-dire la perversion.
+<div class="text-quotation">
+
+« *la Loi* »qui n’a absolument rien à faire avec les lois du monde réel,
+
+les lois du monde réel étant d’ailleurs une question qui reste toute entière ouverte ... « *la Loi* » dans l’occasion, est simplement « *la Loi de l’amour* », c’est-à-dire la perversion.
+
+</div>
 
 <!-- id: s23-11-0189 -->
 
@@ -792,7 +804,7 @@ Le nœud borroméen a cet aspect, c’est-à-dire...
 
 <!-- id: s23-11-0194 -->
 
-> comme vous ne l’auriez certainement pas imaginé à prendre les choses comme ça : de nature d’*imaginaire* ...c’est-à-dire que comme vous le voyez, le grand **I** qui est là n’a plus qu’à foutre le camp.
+comme vous ne l’auriez certainement pas imaginé à prendre les choses comme ça : de nature d’*imaginaire* ...c’est-à-dire que comme vous le voyez, le grand **I** qui est là n’a plus qu’à foutre le camp.
 
 <!-- id: s23-11-0195 -->
 
@@ -840,7 +852,7 @@ C’est que c’est pas compliqué à voir : supposez qu’ici, là, je le marq
 
 <!-- id: s23-11-0206 -->
 
-> pourquoi ça n’arriverait-il pas qu’un nœud ne soit pas borroméen, que ça rate ...j’ai dix mille fois fait des erreurs au tableau en le dessinant.
+pourquoi ça n’arriverait-il pas qu’un nœud ne soit pas borroméen, que ça rate ...j’ai dix mille fois fait des erreurs au tableau en le dessinant.
 
 <!-- id: s23-11-0207 -->
 
@@ -860,11 +872,11 @@ C’est la différence entre la géométrie commune qui est celle d’où sort l
 
 <!-- id: s23-11-0211 -->
 
-> la géométrie c’est des choses qui jouent sur les faces, les polyèdres c’est tout plein de faces, d’arêtes et de sommets ...mais le nœud nous introduit...
+la géométrie c’est des choses qui jouent sur les faces, les polyèdres c’est tout plein de faces, d’arêtes et de sommets ...mais le nœud nous introduit...
 
 <!-- id: s23-11-0212 -->
 
-> le nœud qui est *chaîne* dans l’occasion ...le *nœud* nous introduit à une tout autre dimension, dont je dirai que, à la différence de l’*évidence* de la face géométrique, c’est *évidé*, et justement parce que c’est *évidé,* ça n’est pas *évident*.
+le nœud qui est *chaîne* dans l’occasion ...le *nœud* nous introduit à une tout autre dimension, dont je dirai que, à la différence de l’*évidence* de la face géométrique, c’est *évidé*, et justement parce que c’est *évidé,* ça n’est pas *évident*.
 
 <!-- id: s23-11-0213 -->
 
@@ -880,7 +892,7 @@ Le *vrai* *in-tensionnel*...
 
 <!-- id: s23-11-0216 -->
 
-> que je me permettrai ici d’écrire : l’*in-tension.* J’ai déjà distingué l’*in-ten­sion* du mot *ex-tension* ...le *vrai* *in-tensionnel ,* écrit comme ça, *ça peut de temps en temps toucher à quelque chose de* *Réel*, mais ça, pour le coup, c’est par hasard.
+que je me permettrai ici d’écrire : l’*in-tension.* J’ai déjà distingué l’*in-ten­sion* du mot *ex-tension* ...le *vrai* *in-tensionnel ,* écrit comme ça, *ça peut de temps en temps toucher à quelque chose de* *Réel*, mais ça, pour le coup, c’est par hasard.
 
 <!-- id: s23-11-0217 -->
 
@@ -904,7 +916,7 @@ Puisque ça me sert à vous expliquer quelque chose, on peut bien tolérer...
 
 <!-- id: s23-11-0222 -->
 
-> puisque c’est ça la situation où vous êtes ...que je folâtre avec mes faibles moyens.
+puisque c’est ça la situation où vous êtes ...que je folâtre avec mes faibles moyens.
 
 <!-- id: s23-11-0223 -->
 
@@ -972,9 +984,9 @@ Alors l’*énigme*...
 
 <!-- id: s23-11-0239 -->
 
-> heureusement, comme ça, dans un temps, je m’y suis intéressé, j’écris ça E<sub>e</sub> : E indice e.
->
-> E - un grand E - il s’agit de l’*énonciation* et de l’*énoncé* ...l’*énigme* consiste en leur rapport du grand E au petit e, à savoir de pourquoi diable *un tel énoncé* a-t-il été prononcé ?
+heureusement, comme ça, dans un temps, je m’y suis intéressé, j’écris ça E<sub>e</sub> : E indice e.
+
+E - un grand E - il s’agit de l’*énonciation* et de l’*énoncé* ...l’*énigme* consiste en leur rapport du grand E au petit e, à savoir de pourquoi diable *un tel énoncé* a-t-il été prononcé ?
 
 <!-- id: s23-11-0240 -->
 
@@ -994,7 +1006,7 @@ Que Joyce soit l’écrivain par excellence de l’*énigme*, c’est ce que je 
 
 <!-- id: s23-11-0244 -->
 
-> j’aurais pu vous en citer maint exemples s’il n’était pas si tard ...mais je vous conseille d’aller le vérifier.
+j’aurais pu vous en citer maint exemples s’il n’était pas si tard ...mais je vous conseille d’aller le vérifier.
 
 <!-- id: s23-11-0245 -->
 

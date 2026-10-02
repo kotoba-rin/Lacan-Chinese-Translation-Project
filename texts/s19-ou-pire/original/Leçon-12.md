@@ -114,7 +114,7 @@ Ce qui commande c’est l’*Un* : l’*Un* fait l’*Être*...
 
 <!-- id: s19-12-0028 -->
 
-> Je vous ai prié d’aller chercher ça dans le « *Parménide ».* Vous avez peut-être, pour certains, obtempéré. ... l’*Un* fait l’*Être* comme l’hystérique fait l’homme.
+Je vous ai prié d’aller chercher ça dans le « *Parménide ».* Vous avez peut-être, pour certains, obtempéré. ... l’*Un* fait l’*Être* comme l’hystérique fait l’homme.
 
 <!-- id: s19-12-0029 -->
 
@@ -166,7 +166,7 @@ Ce qu’on voudrait c’est que *l’escamotage*...
 
 <!-- id: s19-12-0041 -->
 
-> l’escamotage qui a lieu n’est-ce pas et qui est l’œuvre d’art ...c’est que *l’escamotage* n’ait pas besoin de gobelets.
+l’escamotage qui a lieu n’est-ce pas et qui est l’œuvre d’art ...c’est que *l’escamotage* n’ait pas besoin de gobelets.
 
 <!-- id: s19-12-0042 -->
 
@@ -174,7 +174,7 @@ Vous n’avez qu’à regarder ça, il y a un tableau de Breughel...
 
 <!-- id: s19-12-0043 -->
 
-> qui était un artiste qui était très au-dessus de ça ...il ne dissimule pas comment, comment que ça se fait la captivation des badauds. Bon !
+qui était un artiste qui était très au-dessus de ça ...il ne dissimule pas comment, comment que ça se fait la captivation des badauds. Bon !
 
 <!-- id: s19-12-0044 -->
 
@@ -206,7 +206,7 @@ Une certaine position que je rappelle, qui est celle où j’ai cru pouvoir cond
 
 <!-- id: s19-12-0051 -->
 
-> et vous auriez tort de croire que je le méconnais ...avec quelque chose qu’on appelle comme ça « *l’être humain* », oui bien sûr, mais moi je ne l’appelle pas comme ça.
+et vous auriez tort de croire que je le méconnais ...avec quelque chose qu’on appelle comme ça « *l’être humain* », oui bien sûr, mais moi je ne l’appelle pas comme ça.
 
 <!-- id: s19-12-0052 -->
 
@@ -266,7 +266,7 @@ On parle de maladie, on sait pas : en même temps on dit qu’il n’y en a pas
 
 <!-- id: s19-12-0066 -->
 
-> qu’il n’y a pas de *maladie mentale* par exemple, ...à juste titre au sens où c’est « *une entité nosologique »* comme on disait autrefois, c’est pas du tout entitaire la maladie mentale.
+qu’il n’y a pas de *maladie mentale* par exemple, ...à juste titre au sens où c’est « *une entité nosologique »* comme on disait autrefois, c’est pas du tout entitaire la maladie mentale.
 
 <!-- id: s19-12-0067 -->
 
@@ -362,7 +362,7 @@ Le propre de *la jouissance*, c’est que quand il y a deux corps...
 
 <!-- id: s19-12-0090 -->
 
-> encore bien plus quand il y en a plus, naturellement, ...on ne sait pas, on ne peut pas dire *lequel* jouit.
+encore bien plus quand il y en a plus, naturellement, ...on ne sait pas, on ne peut pas dire *lequel* jouit.
 
 <!-- id: s19-12-0091 -->
 
@@ -402,13 +402,13 @@ C’est pas toujours ce qu’un vain peuple pense, mais c’est parfaitement dit
 
 <!-- id: s19-12-0100 -->
 
-> si la « *tapeuse* » n’avait pas fait un grand nombre de petits trous, faute d’avoir bien entendu.
->
-> Si elle avait seulement reproduit correctement la phrase latine que j’avais écrite au tableau,
->
-> dont je ne sais plus maintenant à quel auteur elle appartient.
->
-> \[*Cicéron : « Ad usum autem orationis, incredibile est, nisi diligenter attenteris quanta opera machinata natura est ».*\] ...je le ferai, je ne sais pas, dans le prochain numéro de *Scilicet*.
+si la « *tapeuse* » n’avait pas fait un grand nombre de petits trous, faute d’avoir bien entendu.
+
+Si elle avait seulement reproduit correctement la phrase latine que j’avais écrite au tableau,
+
+dont je ne sais plus maintenant à quel auteur elle appartient.
+
+\[*Cicéron : « Ad usum autem orationis, incredibile est, nisi diligenter attenteris quanta opera machinata natura est ».*\] ...je le ferai, je ne sais pas, dans le prochain numéro de *Scilicet*.
 
 <!-- id: s19-12-0101 -->
 
@@ -416,7 +416,7 @@ Le temps qu’il va me falloir pour retrouver de qui est cette phrase latine, va
 
 <!-- id: s19-12-0102 -->
 
-> du signifiant à un moment où vraiment on ne peut pas dire que ce fût à la mode : en 56 ...ça reste frappé d’un métal où je n’ai rien à retoucher.
+du signifiant à un moment où vraiment on ne peut pas dire que ce fût à la mode : en 56 ...ça reste frappé d’un métal où je n’ai rien à retoucher.
 
 <!-- id: s19-12-0103 -->
 
@@ -456,11 +456,11 @@ Ce qu’il faut tout de même bien essayer de voir, c’est que, ce que Freud in
 
 <!-- id: s19-12-0112 -->
 
-> on s’imagine que je le méconnais parce que je parle du signifiant ...c’est le retour à ce fondement qui est dans le corps, et qui fait que...
+on s’imagine que je le méconnais parce que je parle du signifiant ...c’est le retour à ce fondement qui est dans le corps, et qui fait que...
 
 <!-- id: s19-12-0113 -->
 
-> tout à fait indépendamment des signifiants dont on les articule ...ces 4 pôles \[1 *dans chaque discours*\] qui se déterminent de l’émergence comme telle *de la jouissance* justement *comme insaisissable*, eh bien *c’est ça* qui fait surgir les 3 autres \[*dans chacun des discours*\], et en réponse !
+tout à fait indépendamment des signifiants dont on les articule ...ces 4 pôles \[1 *dans chaque discours*\] qui se déterminent de l’émergence comme telle *de la jouissance* justement *comme insaisissable*, eh bien *c’est ça* qui fait surgir les 3 autres \[*dans chacun des discours*\], et en réponse !
 
 <!-- id: s19-12-0114 -->
 
@@ -492,7 +492,7 @@ Eh bien je vous ai en somme expliqué pendant une année, j’ai mis assez de te
 
 <!-- id: s19-12-0121 -->
 
-> c’est en ça qu’il faut que vous voyiez que la nécessité qui est la mienne, la façon dont je procède ...justement je ne peux jamais l’articuler comme une *vérité*.
+c’est en ça qu’il faut que vous voyiez que la nécessité qui est la mienne, la façon dont je procède ...justement je ne peux jamais l’articuler comme une *vérité*.
 
 <!-- id: s19-12-0122 -->
 
@@ -512,7 +512,7 @@ Quoiqu’il en soit si j’ai émis...
 
 <!-- id: s19-12-0126 -->
 
-> ce qui est tout de même d’un certain culot ...le titre « *D’un discours qui ne serait pas du semblant* ».
+ce qui est tout de même d’un certain culot ...le titre « *D’un discours qui ne serait pas du semblant* ».
 
 <!-- id: s19-12-0127 -->
 
@@ -528,7 +528,7 @@ Quand même, s’il y a quelqu’un qui a attrapé ce qu’il en est du *plus de
 
 <!-- id: s19-12-0130 -->
 
-> avec une certaine grille - une grille qui, j’en conviens, est vraisemblable ...traduit de ces énoncés.
+avec une certaine grille - une grille qui, j’en conviens, est vraisemblable ...traduit de ces énoncés.
 
 <!-- id: s19-12-0131 -->
 
@@ -548,7 +548,7 @@ Platon c’est celui quand même qui a avancé la fonction de *la dyade* comme �
 
 <!-- id: s19-12-0135 -->
 
-> je parle de tout ça dans le 11 avril 1956 ...le supplément, la différence qu’il y a entre le supplément et le complément.
+je parle de tout ça dans le 11 avril 1956 ...le supplément, la différence qu’il y a entre le supplément et le complément.
 
 <!-- id: s19-12-0136 -->
 
@@ -576,9 +576,9 @@ Inutile de vous dire que c’est à peu près vers la même époque que j’ai s
 
 <!-- id: s19-12-0142 -->
 
-> que les remarques sur l’ambiguïté totale de l’*Universel*, qu’il soit *Affirmatif* ou *Négatif*,
->
-> et du *Particulier* de même ...qu’est-ce que ça pouvait bien faire à ceux qui ne songeaient dans tout ça qu’à retrouver leur ritournelle ?
+que les remarques sur l’ambiguïté totale de l’*Universel*, qu’il soit *Affirmatif* ou *Négatif*,
+
+et du *Particulier* de même ...qu’est-ce que ça pouvait bien faire à ceux qui ne songeaient dans tout ça qu’à retrouver leur ritournelle ?
 
 <!-- id: s19-12-0143 -->
 
@@ -614,7 +614,7 @@ Il faut bien que vous vous rendiez compte que ce dont vous dépendez le plus fon
 
 <!-- id: s19-12-0151 -->
 
-> parce qu’enfin l’université n’est pas née d’hier ...c’est *le discours du maître* quand même, qui est le 1<sup>er</sup> surgi, et puis c’est lui qui dure et qui a peu de chance de s’ébranler.
+parce qu’enfin l’université n’est pas née d’hier ...c’est *le discours du maître* quand même, qui est le 1<sup>er</sup> surgi, et puis c’est lui qui dure et qui a peu de chance de s’ébranler.
 
 <!-- id: s19-12-0152 -->
 
@@ -652,7 +652,7 @@ Mais il reste qu’au niveau où le dis­cours fonctionne...
 
 <!-- id: s19-12-0160 -->
 
-> qui n’est pas *le discours analytique* ...la question se pose de comment ça a réussi, ce discours, à attraper des corps.
+qui n’est pas *le discours analytique* ...la question se pose de comment ça a réussi, ce discours, à attraper des corps.
 
 <!-- id: s19-12-0161 -->
 
@@ -752,11 +752,11 @@ Alors, la question est celle-ci : si les sentiments, si...
 
 <!-- id: s19-12-0185 -->
 
-> *Ne vous agi­tez pas pour les personnes qui s’en vont, elles ont à faire à cette heure, elles ont à aller aux obsèques*
->
-> *de quelqu’un dont je salue ici la mémoire, et qui était quelqu’un de notre École, que je chérissais vraiment.*
->
-> *Je suis au regret, vu mes engagements, de ne pouvoir m’y joindre moi-même* ...oui, qu’est-ce qu’il y a dans *le discours analytique*, entre les fonctions de discours et ce support, qui n’est pas la signification du discours, qui ne tient à rien de ce qui est « *dit* » ?
+*Ne vous agi­tez pas pour les personnes qui s’en vont, elles ont à faire à cette heure, elles ont à aller aux obsèques*
+
+*de quelqu’un dont je salue ici la mémoire, et qui était quelqu’un de notre École, que je chérissais vraiment.*
+
+*Je suis au regret, vu mes engagements, de ne pouvoir m’y joindre moi-même* ...oui, qu’est-ce qu’il y a dans *le discours analytique*, entre les fonctions de discours et ce support, qui n’est pas la signification du discours, qui ne tient à rien de ce qui est « *dit* » ?
 
 <!-- id: s19-12-0186 -->
 
@@ -800,7 +800,7 @@ Le *dire* a ses effets dont se constitue ce qu’on appelle *le fantasme*, c’e
 
 <!-- id: s19-12-0196 -->
 
-> qui est ce qui se concentre de *l’effet du discours* pour causer le désir ...et ce *quelque chose* qui autour et comme une fente, *se condense*, et qui s’appelle *le sujet*.
+qui est ce qui se concentre de *l’effet du discours* pour causer le désir ...et ce *quelque chose* qui autour et comme une fente, *se condense*, et qui s’appelle *le sujet*.
 
 <!-- id: s19-12-0197 -->
 
@@ -812,7 +812,7 @@ Oui ! Enfin pour revenir à Rome, j’ai pu saisir, toucher du doigt l’effet, 
 
 <!-- id: s19-12-0199 -->
 
-> en italien ça se dit « *squarcio* » paraît-il, mais je sais pas l’italien, je me le suis fait expliquer ...c’est une fente, comme ça, il faisait une fente dans une plaque de cuivre.
+en italien ça se dit « *squarcio* » paraît-il, mais je sais pas l’italien, je me le suis fait expliquer ...c’est une fente, comme ça, il faisait une fente dans une plaque de cuivre.
 
 <!-- id: s19-12-0200 -->
 
@@ -852,7 +852,7 @@ Parce que si on m’en croit, on doit penser que c’est bien comme je l’énon
 
 <!-- id: s19-12-0209 -->
 
-> avec toute l’*ambiguïté* de ce terme qui est motivé ...c’est parce que l’analyste *« en corps »* installe *l’objet petit(a) à la place du semblant*, qu’il y a quelque chose qui existe et qui s’appelle *le discours analytique*.
+avec toute l’*ambiguïté* de ce terme qui est motivé ...c’est parce que l’analyste *« en corps »* installe *l’objet petit(a) à la place du semblant*, qu’il y a quelque chose qui existe et qui s’appelle *le discours analytique*.
 
 <!-- id: s19-12-0210 -->
 
@@ -868,7 +868,7 @@ C’est là qu’il est frappant de voir qu’au terme d’une tradition...
 
 <!-- id: s19-12-0213 -->
 
-> comme on nous l’a bien fait sentir la dernière fois ...cosmologique, comment est-ce que l’univers a pu naître ?
+comme on nous l’a bien fait sentir la dernière fois ...cosmologique, comment est-ce que l’univers a pu naître ?
 
 <!-- id: s19-12-0214 -->
 
@@ -892,7 +892,7 @@ Nous voilà là, touchant du doigt...
 
 <!-- id: s19-12-0219 -->
 
-> tel qu’on vous l’a énoncé la dernière fois ...touchant du doigt qu’*il n’y a discours sur l’origine qu’à traiter de l’origine d’un discours*.
+tel qu’on vous l’a énoncé la dernière fois ...touchant du doigt qu’*il n’y a discours sur l’origine qu’à traiter de l’origine d’un discours*.
 
 <!-- id: s19-12-0220 -->
 
@@ -900,7 +900,7 @@ Qu’il n’y a pas d’autre origine attrapable que l’origine d’un discours
 
 <!-- id: s19-12-0221 -->
 
-> dont je vais vite là retracer les termes et leur disposition ...comporte la double inversion précisément des vecteurs obliques.
+dont je vais vite là retracer les termes et leur disposition ...comporte la double inversion précisément des vecteurs obliques.
 
 <!-- id: s19-12-0222 -->
 
@@ -912,7 +912,7 @@ Et ceci a toute son importance.
 
 <!-- id: s19-12-0224 -->
 
-> **M A**
+**M A**
 
 <!-- id: s19-12-0225 -->
 
@@ -928,11 +928,11 @@ Par cette voie, ce qu’à promouvoir cette année *la théorie des ensembles*, 
 
 <!-- id: s19-12-0228 -->
 
-> à ceux qui tiennent la fonction de l’analyste ...de suggérer, c’est que ce soit dans cette veine...
+à ceux qui tiennent la fonction de l’analyste ...de suggérer, c’est que ce soit dans cette veine...
 
 <!-- id: s19-12-0229 -->
 
-> celle qu’exploitent ces énoncés qui se formalisent de la logique ...c’est que ce soit à cette veine qu’ils se rompent pour se former.
+celle qu’exploitent ces énoncés qui se formalisent de la logique ...c’est que ce soit à cette veine qu’ils se rompent pour se former.
 
 <!-- id: s19-12-0230 -->
 
@@ -988,9 +988,9 @@ Pour que l’interprétation progresse, soit possible, selon le schéma de Peirc
 
 <!-- id: s19-12-0243 -->
 
-> remarquez, de quoi s’agit-il ?
->
-> Quel est cet objet dans Peirce ? ...c’est de là que la *nouvelle interprétation*, il n’y a pas de fin à ce à quoi elle peut venir, sauf à ce qu’il y ait une limite précisément :
+remarquez, de quoi s’agit-il ?
+
+Quel est cet objet dans Peirce ? ...c’est de là que la *nouvelle interprétation*, il n’y a pas de fin à ce à quoi elle peut venir, sauf à ce qu’il y ait une limite précisément :
 
 <!-- id: s19-12-0244 -->
 
@@ -1046,7 +1046,7 @@ Mais il est tout de même clair que s’il y a une chose que *le rêve de cette 
 
 <!-- id: s19-12-0257 -->
 
-> depuis le temps que j’ai annoncé cette chose ...qui devrait avoir été exploitée par n’importe qui dans l’analy­se.
+depuis le temps que j’ai annoncé cette chose ...qui devrait avoir été exploitée par n’importe qui dans l’analy­se.
 
 <!-- id: s19-12-0258 -->
 
@@ -1090,7 +1090,7 @@ Moyennant quoi bien sûr *le sujet continue à rêver dans sa vie*.
 
 <!-- id: s19-12-0268 -->
 
-> permettez-moi de m’exprimer - puisque je suis à la fin - ainsi ...n’a pas de raison d’être, c’est que quelque chose s’est produit qui est *la rencontre*, *la rencontre* d’où procède la névrose, *la tête de Méduse*, *la fente* de tout à l’heure, *directement vue*, c’est en tant qu’elle, elle n’a pas de solution.
+permettez-moi de m’exprimer - puisque je suis à la fin - ainsi ...n’a pas de raison d’être, c’est que quelque chose s’est produit qui est *la rencontre*, *la rencontre* d’où procède la névrose, *la tête de Méduse*, *la fente* de tout à l’heure, *directement vue*, c’est en tant qu’elle, elle n’a pas de solution.
 
 <!-- id: s19-12-0269 -->
 
@@ -1118,7 +1118,7 @@ Est-ce qu’il ne vous semble pas, que si on le conjoint à ce lieu, le terme «
 
 <!-- id: s19-12-0275 -->
 
-> qui est sur tous les murs : « *Liberté, Égalité, Fraternité* » ...je vous le demande, au point de culture où nous en sommes, de qui sommes-nous frères ?
+qui est sur tous les murs : « *Liberté, Égalité, Fraternité* » ...je vous le demande, au point de culture où nous en sommes, de qui sommes-nous frères ?
 
 <!-- id: s19-12-0276 -->
 
@@ -1182,7 +1182,11 @@ Je veux dire que ce qui naît d’une analyse, ce qui naît au niveau du sujet, 
 
 <!-- id: s19-12-0291 -->
 
-> *« L’homme pense* - disait Aristote - *avec son âme »* ...l’analysant analyse *avec* cette merde que lui propose, en la figure de son analyste, *l’objet(a)*.
+<div class="text-quotation">
+
+*« L’homme pense* - disait Aristote - *avec son âme »* ...l’analysant analyse *avec* cette merde que lui propose, en la figure de son analyste, *l’objet(a)*.
+
+</div>
 
 <!-- id: s19-12-0292 -->
 
@@ -1190,7 +1194,7 @@ C’est *avec* cela que *quelque chose*, cette chose fendue \[**S**\], doit naî
 
 <!-- id: s19-12-0293 -->
 
-> pour reprendre quelque chose qui vous a été avancé l’autre jour à propos de Peirce ...que le fléau dont une balance peut s’établir et qui s’appelle justice.
+pour reprendre quelque chose qui vous a été avancé l’autre jour à propos de Peirce ...que le fléau dont une balance peut s’établir et qui s’appelle justice.
 
 <!-- id: s19-12-0294 -->
 

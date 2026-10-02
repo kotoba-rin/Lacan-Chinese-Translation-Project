@@ -18,7 +18,7 @@ Cet élément de *la procrastination* ne peut pas, d’aucune façon...
 
 <!-- id: s6-18-0004 -->
 
-> *encore que certains auteurs*, dans une littérature que j’ai de plus en plus, au cours de cette étude, approfondie…
+*encore que certains auteurs*, dans une littérature que j’ai de plus en plus, au cours de cette étude, approfondie…
 
 <!-- id: s6-18-0005 -->
 
@@ -34,7 +34,7 @@ En d’autres moments aussi, la façon *quasi mystérieuse*…
 
 <!-- id: s6-18-0008 -->
 
-> je dirai presque en état second, quand la nuit il se réveille sur ce bateau dans la tempête
+je dirai presque en état second, quand la nuit il se réveille sur ce bateau dans la tempête
 
 <!-- id: s6-18-0009 -->
 
@@ -50,9 +50,9 @@ Bien sûr ce n’est là qu’un mirage, car *l’heure de l’Autre*…
 
 <!-- id: s6-18-0012 -->
 
-> et c’est aussi ce que je vous ai expliqué lorsque j’ai appelé *la réponse dernière dans ce signifiant de l’Autre barré* :
->
-> *il n’y a pas* - vous ai-je dit - *d’Autre de l’Autre*. *Il n’y a pas, dans le signifiant lui-même, de garant de la dimension de vérité instaurée par le signifiant*
+et c’est aussi ce que je vous ai expliqué lorsque j’ai appelé *la réponse dernière dans ce signifiant de l’Autre barré* :
+
+*il n’y a pas* - vous ai-je dit - *d’Autre de l’Autre*. *Il n’y a pas, dans le signifiant lui-même, de garant de la dimension de vérité instaurée par le signifiant*
 
 <!-- id: s6-18-0013 -->
 
@@ -80,7 +80,7 @@ On peut le dire, ce qui manque c’est à tout instant, chez HAMLET…
 
 <!-- id: s6-18-0019 -->
 
-> ce que nous pourrions appeler d’un langage communicatif, dans le langage de tous les jours
+ce que nous pourrions appeler d’un langage communicatif, dans le langage de tous les jours
 
 <!-- id: s6-18-0020 -->
 
@@ -117,7 +117,7 @@ Ce que le traducteur transcrit par : « …*la raison*…
 
 <!-- id: s6-18-0028 -->
 
-> c’est le grand discours, le discours fondamental, ce que j’appellerai ici le discours concret
+c’est le grand discours, le discours fondamental, ce que j’appellerai ici le discours concret
 
 <!-- id: s6-18-0029 -->
 
@@ -217,7 +217,7 @@ Et ceci qui est si profondément énigmatique d’être dans son fond une relati
 
 <!-- id: s6-18-0053 -->
 
-> si vous me permettez une formule qui est de celles qui viennent sous ma plume dans mes notes et qui me revient là, mais n’en faites *pas une formule doctrinale, prenez­là tout au plus pour une image*
+si vous me permettez une formule qui est de celles qui viennent sous ma plume dans mes notes et qui me revient là, mais n’en faites *pas une formule doctrinale, prenez­là tout au plus pour une image*
 
 <!-- id: s6-18-0054 -->
 
@@ -281,7 +281,7 @@ Sans doute à l’étage au-dessous il y a quelque chose dont les autres pensent
 
 <!-- id: s6-18-0069 -->
 
-> c’est-à-dire à un niveau de ce que HEGEL appelle « *la lutte de pur prestige* »
+c’est-à-dire à un niveau de ce que HEGEL appelle « *la lutte de pur prestige* »
 
 <!-- id: s6-18-0070 -->
 
@@ -349,7 +349,7 @@ Ce qui est frappant, c’est qu’ici *le sans-gêne du scénariste* rejoint ce 
 
 <!-- id: s6-18-0086 -->
 
-> Dieu sait comment ! Cela doit être une des difficultés du jeu de scène
+Dieu sait comment ! Cela doit être une des difficultés du jeu de scène
 
 <!-- id: s6-18-0087 -->
 
@@ -365,7 +365,7 @@ Personne n’a d’ailleurs à se donner le moindre mal, car ce dont il s’agit
 
 <!-- id: s6-18-0090 -->
 
-> dans l’occasion *l’instrument le plus voilé du drame*, ce qu’HAMLET ne peut *recevoir que de l’autre*
+dans l’occasion *l’instrument le plus voilé du drame*, ce qu’HAMLET ne peut *recevoir que de l’autre*
 
 <!-- id: s6-18-0091 -->
 
@@ -377,7 +377,7 @@ Ici on ne peut pas ne pas être frappé de quelque chose qui littéralement se t
 
 <!-- id: s6-18-0093 -->
 
-> de la rivalité avec celui qui est son semblable, en plus beau, le moi-même qu’il peut aimer
+de la rivalité avec celui qui est son semblable, en plus beau, le moi-même qu’il peut aimer
 
 <!-- id: s6-18-0094 -->
 
@@ -457,7 +457,7 @@ Voici donc la caractéristique de la constellation dans laquelle s’établit l�
 
 <!-- id: s6-18-0113 -->
 
-> pour qui plus aucun homme ni femme n’est autre chose qu’une ombre inconsistante et putride
+pour qui plus aucun homme ni femme n’est autre chose qu’une ombre inconsistante et putride
 
 <!-- id: s6-18-0114 -->
 
@@ -525,9 +525,9 @@ L’obsessionnel, ce n’est pas tellement que l’objet de son désir soit impo
 
 <!-- id: s6-18-0130 -->
 
-> si tant est que de par la structure même des fondements du désir,
->
-> il y a toujours cette note d’impossibilité dans l’objet du désir
+si tant est que de par la structure même des fondements du désir,
+
+il y a toujours cette note d’impossibilité dans l’objet du désir
 
 <!-- id: s6-18-0131 -->
 
@@ -535,9 +535,9 @@ L’obsessionnel, ce n’est pas tellement que l’objet de son désir soit impo
 
 <!-- id: s6-18-0132 -->
 
-> cela n’est donc pas que l’objet de son désir soit impossible, car il ne serait là,
->
-> et par ce trait il n’est là qu’une des formes spécialement manifestes d’un aspect du désir humain
+cela n’est donc pas que l’objet de son désir soit impossible, car il ne serait là,
+
+et par ce trait il n’est là qu’une des formes spécialement manifestes d’un aspect du désir humain
 
 <!-- id: s6-18-0133 -->
 
@@ -549,7 +549,7 @@ Autrement dit, il s’arrange à ce que l’objet de son désir prenne valeur es
 
 <!-- id: s6-18-0135 -->
 
-> pour la première fois depuis qu’il y a des psychologues et qui pensent
+pour la première fois depuis qu’il y a des psychologues et qui pensent
 
 <!-- id: s6-18-0136 -->
 
@@ -561,7 +561,7 @@ L’objet du deuil, c’est dans un certain rapport d’identification…
 
 <!-- id: s6-18-0138 -->
 
-> et qu’il a essayé de définir de plus près, d’appeler un *rapport d’incorporation* avec le sujet
+et qu’il a essayé de définir de plus près, d’appeler un *rapport d’incorporation* avec le sujet
 
 <!-- id: s6-18-0139 -->
 
@@ -573,7 +573,7 @@ Si nous nous avançons dans cette voie nous allons voir…
 
 <!-- id: s6-18-0141 -->
 
-> et uniquement en fonction des *appareils symboliques* que nous employons dans cette exploration
+et uniquement en fonction des *appareils symboliques* que nous employons dans cette exploration
 
 <!-- id: s6-18-0142 -->
 
@@ -585,9 +585,9 @@ Qu’est-ce que c’est que cette *incorporation de l’objet perdu* ? En quoi c
 
 <!-- id: s6-18-0144 -->
 
-> le saut de LAERTE dans la tombe et le fait qu’il embrasse,
->
-> hors de lui, l’objet dont la disparition est cause de cette douleur
+le saut de LAERTE dans la tombe et le fait qu’il embrasse,
+
+hors de lui, l’objet dont la disparition est cause de cette douleur
 
 <!-- id: s6-18-0145 -->
 
@@ -615,7 +615,7 @@ Ce *trou dans le réel* de ce fait, se trouve…
 
 <!-- id: s6-18-0151 -->
 
-> et en raison de la même correspondance qui est celle que j’articule dans la *Verwerfung*
+et en raison de la même correspondance qui est celle que j’articule dans la *Verwerfung*
 
 <!-- id: s6-18-0152 -->
 
@@ -655,7 +655,7 @@ et en même temps ne peut la trouver parce que ce signifiant ne peut pas s’art
 
 <!-- id: s6-18-0161 -->
 
-> et c’est ce par quoi le deuil s’apparente à la psychose
+et c’est ce par quoi le deuil s’apparente à la psychose
 
 <!-- id: s6-18-0162 -->
 
@@ -663,9 +663,9 @@ et en même temps ne peut la trouver parce que ce signifiant ne peut pas s’art
 
 <!-- id: s6-18-0163 -->
 
-> et dont les phénomènes de premier plan, ceux par quoi se manifeste non pas telle ou telle *folie particulière*, mais *une des folies collectives les plus essentielles* de la communauté humaine comme telle, c’est à savoir
->
-> ce qui est là mis au premier plan, au premier chef de la tragédie d’HAMLET
+et dont les phénomènes de premier plan, ceux par quoi se manifeste non pas telle ou telle *folie particulière*, mais *une des folies collectives les plus essentielles* de la communauté humaine comme telle, c’est à savoir
+
+ce qui est là mis au premier plan, au premier chef de la tragédie d’HAMLET
 
 <!-- id: s6-18-0164 -->
 
@@ -685,9 +685,9 @@ Je voudrais avoir le temps de vous faire quelques séminaires sur ce sujet du ri
 
 <!-- id: s6-18-0168 -->
 
-> à savoir le fait qu’en effet il n’y a rien qui puisse combler de signifiants ce trou dans
->
-> le réel si ce n’est la totalité du signifiant
+à savoir le fait qu’en effet il n’y a rien qui puisse combler de signifiants ce trou dans
+
+le réel si ce n’est la totalité du signifiant
 
 <!-- id: s6-18-0169 -->
 
@@ -695,9 +695,9 @@ le travail accompli au niveau du λόγος \[logos\]…
 
 <!-- id: s6-18-0170 -->
 
-> je dis cela pour ne pas dire au niveau du groupe ni de la communauté : bien sûr c’est le groupe
->
-> et la communauté en tant que culturellement organisés qui en sont les supports
+je dis cela pour ne pas dire au niveau du groupe ni de la communauté : bien sûr c’est le groupe
+
+et la communauté en tant que culturellement organisés qui en sont les supports
 
 <!-- id: s6-18-0171 -->
 
@@ -717,7 +717,11 @@ OPHÉLIE apparaît, dans cette perspective, neutre, rien d’autre qu’une vict
 
 <!-- id: s6-18-0175 -->
 
-> « *Hide fox, and all after.* » \[IV, 2, 29\]
+<div class="text-quotation">
+
+« *Hide fox, and all after.* » \[IV, 2, 29\]
+
+</div>
 
 <!-- id: s6-18-0176 -->
 
@@ -745,7 +749,11 @@ Peut-être au cours de ceci beaucoup d’idées préconçues chez vous resteront
 
 <!-- id: s6-18-0182 -->
 
-> « *On ne fait pas d’HAMLET sans casser des neufs !* »
+<div class="text-quotation">
+
+« *On ne fait pas d’HAMLET sans casser des neufs !* »
+
+</div>
 
 <!-- id: s6-18-0183 -->
 

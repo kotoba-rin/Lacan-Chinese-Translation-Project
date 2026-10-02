@@ -30,7 +30,7 @@ Je dis « *particulier* » :
 
 <!-- id: s8-27-0007 -->
 
-> à contestation sinon à discordance.
+à contestation sinon à discordance.
 
 <!-- id: s8-27-0008 -->
 

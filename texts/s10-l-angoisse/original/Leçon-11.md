@@ -236,9 +236,9 @@ La résistance - d’après Szasz - à reconnaître les satisfactions liées à 
 
 <!-- id: s10-11-0044 -->
 
-> dont le tout est pour lui de faire que ce pouvoir soit légitime, donc développé dans une rigueur scientifique extrême, et non pas illégitime, comme c’est le cas dans ce qu’il considère comme les inconvé­nients de la formation actuelle, qu’il assimile tout bonnement à de l’espion­nage, ce qui lui vaut d’ailleurs d’être refusé dans toute publication analytique а l’heure actuelle
-> ...la résistance à accepter ceci tient au fait que l’analyste occupe une position parentale, et le parent, il n’est pas question qu’il ait
-> des *satisfactions*, étant donné qu’il fait une œuvre en soi.
+dont le tout est pour lui de faire que ce pouvoir soit légitime, donc développé dans une rigueur scientifique extrême, et non pas illégitime, comme c’est le cas dans ce qu’il considère comme les inconvé­nients de la formation actuelle, qu’il assimile tout bonnement à de l’espion­nage, ce qui lui vaut d’ailleurs d’être refusé dans toute publication analytique а l’heure actuelle
+...la résistance à accepter ceci tient au fait que l’analyste occupe une position parentale, et le parent, il n’est pas question qu’il ait
+des *satisfactions*, étant donné qu’il fait une œuvre en soi.
 
 <!-- id: s10-11-0045 -->
 

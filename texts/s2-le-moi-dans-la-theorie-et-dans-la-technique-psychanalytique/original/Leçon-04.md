@@ -6,15 +6,19 @@
 
 <!-- id: s2-04-0001 -->
 
-> « *Indem er alles schaft, was schaftet der höchste ? - Sich.*
->
-> *Was schaft er aber vor er alles schaftet ? - Mich.* »
->
-> « *Que faisait le Tout-Puissant au moment où il a fait la création ? - Sich : soi-même.*
->
-> *Qu’est-ce qui était avant qu’il fasse quoi que ce soit ? - Mich : moi-même.* » \[[Cf. 15-06-1955](#CHEPKO)\]
->
-> \*Daniel [VON CZEPKO](http://de.wikipedia.org/wiki/Daniel_von_Czepko) \[1605-60\]
+<div class="text-quotation">
+
+« *Indem er alles schaft, was schaftet der höchste ? - Sich.*
+
+*Was schaft er aber vor er alles schaftet ? - Mich.* »
+
+« *Que faisait le Tout-Puissant au moment où il a fait la création ? - Sich : soi-même.*
+
+*Qu’est-ce qui était avant qu’il fasse quoi que ce soit ? - Mich : moi-même.* » \[[Cf. 15-06-1955](#CHEPKO)\]
+
+\*Daniel [VON CZEPKO](http://de.wikipedia.org/wiki/Daniel_von_Czepko) \[1605-60\]
+
+</div>
 
 <!-- id: s2-04-0002 -->
 
@@ -86,7 +90,7 @@ Je voulais montrer combien…
 
 <!-- id: s2-04-0019 -->
 
-> quelles qu’aient été exactement vos intentions au moment où vous l’avez fait
+quelles qu’aient été exactement vos intentions au moment où vous l’avez fait
 
 <!-- id: s2-04-0020 -->
 
@@ -102,7 +106,11 @@ Tout de suite, pour certaines raisons, j’étais amené à dire à la personne 
 
 <!-- id: s2-04-0023 -->
 
-> « *Cet enfant, c’est le sujet. Il n’y a aucun doute*. »
+<div class="text-quotation">
+
+« *Cet enfant, c’est le sujet. Il n’y a aucun doute*. »
+
+</div>
 
 <!-- id: s2-04-0024 -->
 
@@ -178,7 +186,7 @@ Ceci est important parce qu’en fin de compte :
 
 <!-- id: s2-04-0042 -->
 
-> et même telle­ment *entre lui et d’autres* que c’est à cause de cette parole qu’il y a *lui* et qu’il y a *les autres*.
+et même telle­ment *entre lui et d’autres* que c’est à cause de cette parole qu’il y a *lui* et qu’il y a *les autres*.
 
 <!-- id: s2-04-0043 -->
 
@@ -246,7 +254,7 @@ C’est-à-dire que ce décentrage, qui est essentiel pour la découverte freudi
 
 <!-- id: s2-04-0059 -->
 
-> exactement comme le regard qui est la proie d’une diplopie quel­conque, si nous la faisions artificielle cette diplopie, expérience bien connue des oculistes : mettons *deux images très proches l’une de l’autre* et près de se recouvrir, grâce à une certaine loucherie il arrivera qu’elles n’en feront qu’une, si elles sont assez rapprochées
+exactement comme le regard qui est la proie d’une diplopie quel­conque, si nous la faisions artificielle cette diplopie, expérience bien connue des oculistes : mettons *deux images très proches l’une de l’autre* et près de se recouvrir, grâce à une certaine loucherie il arrivera qu’elles n’en feront qu’une, si elles sont assez rapprochées
 
 <!-- id: s2-04-0060 -->
 
@@ -258,7 +266,7 @@ C’est exactement ce qui s’est passé dans l’analyse à partir du jour où,
 
 <!-- id: s2-04-0062 -->
 
-> pour une raison qui restera rétrospectivement à élucider
+pour une raison qui restera rétrospectivement à élucider
 
 <!-- id: s2-04-0063 -->
 
@@ -330,7 +338,7 @@ Seulement vous n’en savez rien parce que contrairement à tout ce qu’on peut
 
 <!-- id: s2-04-0080 -->
 
-> et vous le ver­rez jusque dans FREUD, qui en est embarrassé comme un poisson d’une pomme
+et vous le ver­rez jusque dans FREUD, qui en est embarrassé comme un poisson d’une pomme
 
 <!-- id: s2-04-0081 -->
 
@@ -342,7 +350,7 @@ Il s’agit à proprement par­ler *des illusions de la conscience*. Je suis sû
 
 <!-- id: s2-04-0083 -->
 
-> quelle que partielle que puisse être l’appréhension de la conscience, donc de ce quelque chose qui s’appelle le *moi*
+quelle que partielle que puisse être l’appréhension de la conscience, donc de ce quelque chose qui s’appelle le *moi*
 
 <!-- id: s2-04-0084 -->
 
@@ -362,7 +370,7 @@ Le *moi* comme tel *est* sinon tout exploré, du moins *appréhendé dans son un
 
 <!-- id: s2-04-0088 -->
 
-> de la conscience et il dit : « *Il doit y avoir des lois spéciales* ».
+de la conscience et il dit : « *Il doit y avoir des lois spéciales* ».
 
 <!-- id: s2-04-0089 -->
 
@@ -510,7 +518,7 @@ Je vous prie de considérer pendant un certain temps au sens introductif que je 
 
 <!-- id: s2-04-0125 -->
 
-> et cela se produit dans les endroits les plus inattendus et les plus dis­tants les uns des autres
+et cela se produit dans les endroits les plus inattendus et les plus dis­tants les uns des autres
 
 <!-- id: s2-04-0126 -->
 
@@ -518,7 +526,7 @@ Je vous prie de considérer pendant un certain temps au sens introductif que je 
 
 <!-- id: s2-04-0127 -->
 
-> imaginez-les de l’ordre de la lumière, puisque c’est ce qui fait le plus manifestement image dans notre esprit
+imaginez-les de l’ordre de la lumière, puisque c’est ce qui fait le plus manifestement image dans notre esprit
 
 <!-- id: s2-04-0128 -->
 
@@ -566,11 +574,11 @@ Peut-être, après tout, y a-t-il quelque chose de cet ordre aussi dans d’autr
 
 <!-- id: s2-04-0139 -->
 
-> ne forgeons pas d’hypothèse, ne posons pas la question de savoir où cette dialectique de l’univers primitif
->
-> avec une unité appréhendée dans une expérience unique et aliénante, représentant le sujet comme aliéné,
->
-> ayant dissipé sa propre unité où elle pût se situer dans l’ordre de l’univers objectif
+ne forgeons pas d’hypothèse, ne posons pas la question de savoir où cette dialectique de l’univers primitif
+
+avec une unité appréhendée dans une expérience unique et aliénante, représentant le sujet comme aliéné,
+
+ayant dissipé sa propre unité où elle pût se situer dans l’ordre de l’univers objectif
 
 <!-- id: s2-04-0140 -->
 
@@ -590,7 +598,7 @@ Je dirais qu’il est *aveugle*, c’est une façon de parler : il est aveugle 
 
 <!-- id: s2-04-0144 -->
 
-> puisqu’en fin de compte le paralytique c’est à partir de lui que se construit cette perspective dont il s’agit
+puisqu’en fin de compte le paralytique c’est à partir de lui que se construit cette perspective dont il s’agit
 
 <!-- id: s2-04-0145 -->
 

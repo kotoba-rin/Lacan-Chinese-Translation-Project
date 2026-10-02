@@ -18,11 +18,11 @@ Mais s’il y avait quelqu’un par hasard, qui dans ce que j’ai dit la derni�
 
 <!-- id: s20-09-0004 -->
 
-> la dernière fois dont, dont je suis sorti moi-même, disons seulement assez inquiet pour ne pas dire plus,
->
-> et ce qui se trouve à ma relecture s’avérer - enfin, pour moi-même - tout à fait supportable,
->
-> disons c’est ma façon à moi de dire que c’était très bien ...je ne serais pas mécontent si quand même quelqu’un pouvait me donner le témoignage *d’en avoir entendu quelque chose*.
+la dernière fois dont, dont je suis sorti moi-même, disons seulement assez inquiet pour ne pas dire plus,
+
+et ce qui se trouve à ma relecture s’avérer - enfin, pour moi-même - tout à fait supportable,
+
+disons c’est ma façon à moi de dire que c’était très bien ...je ne serais pas mécontent si quand même quelqu’un pouvait me donner le témoignage *d’en avoir entendu quelque chose*.
 
 <!-- id: s20-09-0005 -->
 
@@ -66,13 +66,13 @@ Et en effet si j’ai terminé sur quelque chose...
 
 <!-- id: s20-09-0015 -->
 
-> ce quelque chose grâce à quoi peut faire qu’aborder ce qui m’avait polarisé
->
-> pendant toute mon énonciation de la dernière fois ...j’avais énoncé de ce dernier paragraphe qu’il y avait un nommé Empédocle, et j’avais fait remarquer que ce n’est pas pour rien que Freud s’en arme : que pour Empédocle Dieu devait être le plus ignorant de tous les êtres...
+ce quelque chose grâce à quoi peut faire qu’aborder ce qui m’avait polarisé
+
+pendant toute mon énonciation de la dernière fois ...j’avais énoncé de ce dernier paragraphe qu’il y avait un nommé Empédocle, et j’avais fait remarquer que ce n’est pas pour rien que Freud s’en arme : que pour Empédocle Dieu devait être le plus ignorant de tous les êtres...
 
 <!-- id: s20-09-0016 -->
 
-> ce qui nous conjoint à la question du *savoir* ...et ceci très précisément disais-je, de ne point connaître la haine.
+ce qui nous conjoint à la question du *savoir* ...et ceci très précisément disais-je, de ne point connaître la haine.
 
 <!-- id: s20-09-0017 -->
 
@@ -88,7 +88,7 @@ C’est à dire que, s’il y a *connaissance* de quelque chose, si cette *conna
 
 <!-- id: s20-09-0020 -->
 
-> qui a été fomentée au cours des siècles, et qui fait qu’il nous faut rénover la fonction du savoir *...*c’est bien peut-être que *la haine* n’y a point été mise à sa place.
+qui a été fomentée au cours des siècles, et qui fait qu’il nous faut rénover la fonction du savoir *...*c’est bien peut-être que *la haine* n’y a point été mise à sa place.
 
 <!-- id: s20-09-0021 -->
 
@@ -100,11 +100,11 @@ Et c’est pour ça que j’ai terminé de cette phrase : on pourrait dire que 
 
 <!-- id: s20-09-0023 -->
 
-> c’est à dire *ce dont elle jouit*, rappelez-vous mon schéma de la dernière fois, je vais pas le refaire ...*moins il hait*, *et du même coup* disais-je...
+c’est à dire *ce dont elle jouit*, rappelez-vous mon schéma de la dernière fois, je vais pas le refaire ...*moins il hait*, *et du même coup* disais-je...
 
 <!-- id: s20-09-0024 -->
 
-> d’avoir équivoqué sur le *h.a.i.t.* et le *e.s.t.* en français ...c’est à dire que dans cette affaire, aussi bien, *moins il aime*.
+d’avoir équivoqué sur le *h.a.i.t.* et le *e.s.t.* en français ...c’est à dire que dans cette affaire, aussi bien, *moins il aime*.
 
 <!-- id: s20-09-0025 -->
 
@@ -136,9 +136,13 @@ Partout où nous la voyons se présenter, s’affirmer elle-même comme d’un i
 
 <!-- id: s20-09-0032 -->
 
-> \[« *dont la parole peut être le support* *» *: *chacun des 4 discours positionne la vérité comme ne pouvant pas être atteinte*,
->
-> <sub>→</sub> *chaque discours va buter sur son* *« impuissance »* <sub>→</sub> H : *science sans (**a**)me,* U : *sujet sans pouvoir,* M: *plus-de-jouir sans sujet*\]
+<div class="text-quotation">
+
+\[« *dont la parole peut être le support* *» *: *chacun des 4 discours positionne la vérité comme ne pouvant pas être atteinte*,
+
+<sub>→</sub> *chaque discours va buter sur son* *« impuissance »* <sub>→</sub> H : *science sans (**a**)me,* U : *sujet sans pouvoir,* M: *plus-de-jouir sans sujet*\]
+
+</div>
 
 <!-- id: s20-09-0033 -->
 
@@ -174,7 +178,7 @@ Dans le schéma, le petit *gramme* que je vous ai donné du discours analytique�
 
 <!-- id: s20-09-0041 -->
 
-> s’il peut, comment hélas pourrait-il ? *...*« toute la vérité » sur ce qu’il *sait*.
+s’il peut, comment hélas pourrait-il ? *...*« toute la vérité » sur ce qu’il *sait*.
 
 <!-- id: s20-09-0042 -->
 
@@ -246,11 +250,11 @@ Assurément cet « ***i-maginaire* » je l’ai désigné expressément de l�
 
 <!-- id: s20-09-0059 -->
 
-> de l’habillement de *l’image de soi* qui vient envelopper *l’objet cause du désir* \[*Cf. supra la perruche de Picasso*\] que se soutient le plus souvent...
+de l’habillement de *l’image de soi* qui vient envelopper *l’objet cause du désir* \[*Cf. supra la perruche de Picasso*\] que se soutient le plus souvent...
 
 <!-- id: s20-09-0060 -->
 
-> c’est l’articulation même de l’analyse ...que se soutient le plus souvent le « rapport objectal ». \[*l’amour s’adresse au semblant, à l’Autre, mais l’amour n’atteint l’Autre que si, à cet Autre un a est (a)ccolé comme fiction d’un petit autre, d’un a’ imaginaire au miroir,* *qui viendrait habiller l’Autre et supporter, « soutenir », le sujet comme* S *dans ce champ d’ex-sistence, permettant ainsi la réciprocité (imaginaire aussi) de l’amour* \]
+c’est l’articulation même de l’analyse ...que se soutient le plus souvent le « rapport objectal ». \[*l’amour s’adresse au semblant, à l’Autre, mais l’amour n’atteint l’Autre que si, à cet Autre un a est (a)ccolé comme fiction d’un petit autre, d’un a’ imaginaire au miroir,* *qui viendrait habiller l’Autre et supporter, « soutenir », le sujet comme* S *dans ce champ d’ex-sistence, permettant ainsi la réciprocité (imaginaire aussi) de l’amour* \]
 
 <!-- id: s20-09-0061 -->
 
@@ -262,7 +266,7 @@ C’est là, que ce qui peut nous venir à *dire* du *réel,* se distingue, *car
 
 <!-- id: s20-09-0063 -->
 
-> si vous le prenez tel que j’ai cru, au cours des temps, temps qui sont ceux de mon expérience *...le réel ne saurait s’inscrire que d’une impasse* \[◊\] *de la formalisation.* \[*trace du réel* : *impasse logique, cf. les 4 impossibles des 4 discours *: *inconsistance* (H)*, incomplétude* (M)*, indémontrable* (U)*, indécidable* (A)\]
+si vous le prenez tel que j’ai cru, au cours des temps, temps qui sont ceux de mon expérience *...le réel ne saurait s’inscrire que d’une impasse* \[◊\] *de la formalisation.* \[*trace du réel* : *impasse logique, cf. les 4 impossibles des 4 discours *: *inconsistance* (H)*, incomplétude* (M)*, indémontrable* (U)*, indécidable* (A)\]
 
 <!-- id: s20-09-0064 -->
 
@@ -286,23 +290,27 @@ Et pourtant *ne peut-on pas dire* que ce réseau si loin poussé de la logique m
 
 <!-- id: s20-09-0069 -->
 
-> pour autant qu’au regard de ce qui a trouvé sa pointe d’une philosophie
->
-> bien forcée de sortir de ses propres retranchements : le sommet c’est Hegel ...*ne peut-on pas dire* qu’au regard de cette plénitude des contrastes dialectisés dans l’idée d’une progression historique...
+pour autant qu’au regard de ce qui a trouvé sa pointe d’une philosophie
+
+bien forcée de sortir de ses propres retranchements : le sommet c’est Hegel ...*ne peut-on pas dire* qu’au regard de cette plénitude des contrastes dialectisés dans l’idée d’une progression historique...
 
 <!-- id: s20-09-0070 -->
 
-> dont il faut dire que rien ne nous atteste la substance ...*ne peut-on pas dire* qu’au regard de cela, ce qui s’énonce de cette formalisation si bien faite à ne se supporter que de *l’écrit,* soit quelque chose qui ne nous sert*...*
+dont il faut dire que rien ne nous atteste la substance ...*ne peut-on pas dire* qu’au regard de cela, ce qui s’énonce de cette formalisation si bien faite à ne se supporter que de *l’écrit,* soit quelque chose qui ne nous sert*...*
 
 <!-- id: s20-09-0071 -->
 
-> ne nous servirait s’il le fallait dans le procès analytique *...*que de ce que s’y désigne *« ça »* qui retient les corps invisiblement ?
+ne nous servirait s’il le fallait dans le procès analytique *...*que de ce que s’y désigne *« ça »* qui retient les corps invisiblement ?
 
 <!-- id: s20-09-0072 -->
 
-> \[« *ça qui retient les corps » *: *l’habit imaginaire (et scintillant) qui « enveloppe les corps » (cf. la perruche amoureuse de la veste de Picasso), *
->
-> *la trace sur l’« a-mur », l’écriture d’une jouissance qui les soutient au champ de l’Autre*\]
+<div class="text-quotation">
+
+\[« *ça qui retient les corps » *: *l’habit imaginaire (et scintillant) qui « enveloppe les corps » (cf. la perruche amoureuse de la veste de Picasso), *
+
+*la trace sur l’« a-mur », l’écriture d’une jouissance qui les soutient au champ de l’Autre*\]
+
+</div>
 
 <!-- id: s20-09-0073 -->
 
@@ -318,7 +326,7 @@ C’est en cela que je ne crois pas vain qu’après un travail d’élaboration
 
 <!-- id: s20-09-0076 -->
 
-> dont je n’ai point à rappeler la date ici, ni maintenant, ...*j’en sois venu à l’écriture* :
+dont je n’ai point à rappeler la date ici, ni maintenant, ...*j’en sois venu à l’écriture* :
 
 <!-- id: s20-09-0077 -->
 
@@ -414,9 +422,9 @@ C’est dans ce « *cesse de ne pas s’écrire* » \[S<sub>1</sub>\] que résid
 
 <!-- id: s20-09-0100 -->
 
-> c’est le « *ne cesse pas de ne pas s’écrire* » \[lapsus\]... Je vous demande pardon :
->
-> c’est le *nécessaire* qui ici nous introduit ce « *ne cesse pas* », mais le « *ne cesse pas* » du *nécessaire* ...*c’est le « ne cesse pas de s’écrire »*.
+c’est le « *ne cesse pas de ne pas s’écrire* » \[lapsus\]... Je vous demande pardon :
+
+c’est le *nécessaire* qui ici nous introduit ce « *ne cesse pas* », mais le « *ne cesse pas* » du *nécessaire* ...*c’est le « ne cesse pas de s’écrire »*.
 
 <!-- id: s20-09-0101 -->
 
@@ -432,7 +440,7 @@ Le « *ne cesse pas de ne pas s’écrire* »...
 
 <!-- id: s20-09-0104 -->
 
-> que j’ai dit par lapsus à l’instant ...*c’est l’impossible*, *l’impossible* tel que je le définis de ce qu’il ne puisse en aucun cas s’écrire.
+que j’ai dit par lapsus à l’instant ...*c’est l’impossible*, *l’impossible* tel que je le définis de ce qu’il ne puisse en aucun cas s’écrire.
 
 <!-- id: s20-09-0105 -->
 
@@ -452,7 +460,7 @@ C’est en ce sens qu’on peut dire que *par la psychanalyse le phallus...*
 
 <!-- id: s20-09-0109 -->
 
-> le *phallus* réservé, aux temps antiques, aux « *mystères »...a cessé de ne pas s’écrire*, rien de plus.
+le *phallus* réservé, aux temps antiques, aux « *mystères »...a cessé de ne pas s’écrire*, rien de plus.
 
 <!-- id: s20-09-0110 -->
 
@@ -492,9 +500,9 @@ Ce que nous démontre la conjonction de ces trois termes, c’est justement ce q
 
 <!-- id: s20-09-0119 -->
 
-> *le peu de réalité*, c’est-à-dire ceci :
->
-> *que tout ce qu’il nous est permis d’aborder de réalité reste enraciné dans le fantasme* \[*a* ◊ S, *butée du discours du Maître*\].
+*le peu de réalité*, c’est-à-dire ceci :
+
+*que tout ce qu’il nous est permis d’aborder de réalité reste enraciné dans le fantasme* \[*a* ◊ S, *butée du discours du Maître*\].
 
 <!-- id: s20-09-0120 -->
 
@@ -510,7 +518,7 @@ C’est bien aussi de ce qui se confirme de tout ce qui s’est élaboré comme 
 
 <!-- id: s20-09-0123 -->
 
-> à le *lire* à partir de l’expérience analytique, à lire Aristote par exemple, ...voir que ce dont il s’agit c’est de l’ *objet*(*a*).
+à le *lire* à partir de l’expérience analytique, à lire Aristote par exemple, ...voir que ce dont il s’agit c’est de l’ *objet*(*a*).
 
 <!-- id: s20-09-0124 -->
 
@@ -522,9 +530,9 @@ C’est donc d’une des « *graphicisations* » *...*
 
 <!-- id: s20-09-0126 -->
 
-> pour ne pas parler de graphe, puisqu’aussi bien *un graphe*
->
-> c’est un terme qui a un sens très précis dans la logique mathématique *...*dans cette « *graphicisation* » que se montrent ces correspondances qui font du *réel* un *ouvert* entre *le semblant* qui résulte du *symbolique,* et *la réalité* telle qu’elle se supporte dans le concret de la vie humaine:
+pour ne pas parler de graphe, puisqu’aussi bien *un graphe*
+
+c’est un terme qui a un sens très précis dans la logique mathématique *...*dans cette « *graphicisation* » que se montrent ces correspondances qui font du *réel* un *ouvert* entre *le semblant* qui résulte du *symbolique,* et *la réalité* telle qu’elle se supporte dans le concret de la vie humaine:
 
 <!-- id: s20-09-0127 -->
 
@@ -552,7 +560,7 @@ Le *vrai* alors, bien sûr c’est cela, à ceci près que ça ne s’atteint ja
 
 <!-- id: s20-09-0133 -->
 
-> dont en effet tout se supporte pour rebondir dans *le fantasme...*qu’avant cela, il y a à faire une distinction sévère de *l’imaginaire* et du *réel*, qu’il ne faut pas croire que ce *semblant*, ce soit d’aucune façon nous-mêmes qui le supportions même.
+dont en effet tout se supporte pour rebondir dans *le fantasme...*qu’avant cela, il y a à faire une distinction sévère de *l’imaginaire* et du *réel*, qu’il ne faut pas croire que ce *semblant*, ce soit d’aucune façon nous-mêmes qui le supportions même.
 
 <!-- id: s20-09-0134 -->
 
@@ -564,11 +572,11 @@ Nous sommes, à l’occasion, ce qui peut en occuper la place, et y faire régne
 
 <!-- id: s20-09-0136 -->
 
-> pour nous en tenir à cet immédiat d’aujourd’hui *...*nous permet de dire qu’après tout l’analyste, dans tous les ordres de discours, qui sont ceux en tout cas qui se soutiennent actuellement*...*
+pour nous en tenir à cet immédiat d’aujourd’hui *...*nous permet de dire qu’après tout l’analyste, dans tous les ordres de discours, qui sont ceux en tout cas qui se soutiennent actuellement*...*
 
 <!-- id: s20-09-0137 -->
 
-> et ce mot « *actuellement* » n’est pas rien, si nous donnons à « l’*acte* » son plein sens aristotélicien *...*de tous les discours qui se soutiennent actuellement, c’est bien l’analyste qui, à mettre l’*objet*(*a*) à la place du *semblant*, est dans la position la plus convenable à faire ce qu’il est juste de faire, à savoir interroger comme du *« savoir »,* ce qu’il en est de *la vérité*.
+et ce mot « *actuellement* » n’est pas rien, si nous donnons à « l’*acte* » son plein sens aristotélicien *...*de tous les discours qui se soutiennent actuellement, c’est bien l’analyste qui, à mettre l’*objet*(*a*) à la place du *semblant*, est dans la position la plus convenable à faire ce qu’il est juste de faire, à savoir interroger comme du *« savoir »,* ce qu’il en est de *la vérité*.
 
 <!-- id: s20-09-0138 -->
 
@@ -580,7 +588,7 @@ Qu’est-ce c’est que le « *savoir »* ?
 
 <!-- id: s20-09-0140 -->
 
-> *Discours scientifique* : **H**
+*Discours scientifique* : **H**
 
 <!-- id: s20-09-0141 -->
 
@@ -588,7 +596,7 @@ Il est étrange que, mis à part Descartes*...*
 
 <!-- id: s20-09-0142 -->
 
-> dont ce n’est pas pour rien qu’il est à l’orée de *la science moderne*, pas le seul mais qu’il l’est tout de même *...*qu’avant Descartes, la question du *savoir* n’ait jamais été posée. \[*discours scientifique* : **H**\]
+dont ce n’est pas pour rien qu’il est à l’orée de *la science moderne*, pas le seul mais qu’il l’est tout de même *...*qu’avant Descartes, la question du *savoir* n’ait jamais été posée. \[*discours scientifique* : **H**\]
 
 <!-- id: s20-09-0143 -->
 
@@ -596,7 +604,7 @@ Il est étrange que, mis à part Descartes*...*
 
 <!-- id: s20-09-0144 -->
 
-> *Discours Analytique*
+*Discours Analytique*
 
 <!-- id: s20-09-0145 -->
 
@@ -620,7 +628,7 @@ Et qu’on pourra même aller plus loin : à en prendre les équivoques au sens
 
 <!-- id: s20-09-0150 -->
 
-> où il trouvait les plus étranges ponctuations d’*écrit*, ...c’était ou non intentionnel. \[*discours scientifique* : **H**\]
+où il trouvait les plus étranges ponctuations d’*écrit*, ...c’était ou non intentionnel. \[*discours scientifique* : **H**\]
 
 <!-- id: s20-09-0151 -->
 
@@ -636,9 +644,9 @@ Si vous voulez bien ici pardonner quelque chose que j’emprunterai à un tout a
 
 <!-- id: s20-09-0154 -->
 
-> mais vous verrez que ce n’est pas déplacé puisque,
->
-> il faudra bien que nous en venions à en parler de la dite religion *...*il y a là une sorte d’effet tardif, de rejet, de surgeon, de « *charité »*.
+mais vous verrez que ce n’est pas déplacé puisque,
+
+il faudra bien que nous en venions à en parler de la dite religion *...*il y a là une sorte d’effet tardif, de rejet, de surgeon, de « *charité »*.
 
 <!-- id: s20-09-0155 -->
 
@@ -646,7 +654,7 @@ Qu’est-ce qui a bien pu*…*
 
 <!-- id: s20-09-0156 -->
 
-> si ce n’est je ne sais quelle parenté, affinité avec ce qui, dans le genre de *cet animal* qui est *parlant* *…*participer du « *don »,* comme on dit ?
+si ce n’est je ne sais quelle parenté, affinité avec ce qui, dans le genre de *cet animal* qui est *parlant* *…*participer du « *don »,* comme on dit ?
 
 <!-- id: s20-09-0157 -->
 
@@ -674,7 +682,11 @@ Se rend-on compte que c’est l’Autre, l’Autre avec un grand A, tel qu’au 
 
 <!-- id: s20-09-0163 -->
 
-> « *dit-mansion *» en deux mots : *la résidence du dit...*le *dit* dont le savoir pose l’Autre comme *lieu*.
+<div class="text-quotation">
+
+« *dit-mansion *» en deux mots : *la résidence du dit...*le *dit* dont le savoir pose l’Autre comme *lieu*.
+
+</div>
 
 <!-- id: s20-09-0164 -->
 
@@ -694,7 +706,7 @@ Le statut du savoir implique comme tel qu’il y en a déjà du *savoir*, et dan
 
 <!-- id: s20-09-0168 -->
 
-> en deux mots et *c.o.û.t.* avec accent grave *...beau coût* de ce qu’il faille y mettre de sa peau, de ce qu’il soit difficile, difficile, difficile de quoi ? - et bien, moins de l’acquérir que d’en *jouir*.
+en deux mots et *c.o.û.t.* avec accent grave *...beau coût* de ce qu’il faille y mettre de sa peau, de ce qu’il soit difficile, difficile, difficile de quoi ? - et bien, moins de l’acquérir que d’en *jouir*.
 
 <!-- id: s20-09-0169 -->
 
@@ -730,7 +742,7 @@ Bien sûr qu’il y a des choses qui courent et qui ont tout à fait l’air de 
 
 <!-- id: s20-09-0177 -->
 
-> qu’un ordinateur *pense *: moi je le veux bien *...*mais qu’il *sache*, *qui est-ce qui va le dire ?*
+qu’un ordinateur *pense *: moi je le veux bien *...*mais qu’il *sache*, *qui est-ce qui va le dire ?*
 
 <!-- id: s20-09-0178 -->
 
@@ -742,7 +754,7 @@ C’est ainsi, puisque, comme vous le voyez, là se rencontre de façon sûre...
 
 <!-- id: s20-09-0180 -->
 
-> plus sûre que dans Marx lui-même, ...ce qu’il en est d’*une valeur d’usage*, puisqu’aussi bien, dans Marx, elle n’est là que pour faire *point idéal* par rapport à *la valeur d’échange* où tout se résume.
+plus sûre que dans Marx lui-même, ...ce qu’il en est d’*une valeur d’usage*, puisqu’aussi bien, dans Marx, elle n’est là que pour faire *point idéal* par rapport à *la valeur d’échange* où tout se résume.
 
 <!-- id: s20-09-0181 -->
 
@@ -808,9 +820,9 @@ Je pense que vous sentez là - hein ? - quant au *savoir,* la fonction que je d
 
 <!-- id: s20-09-0196 -->
 
-> si nous sommes dans la ligne de la physique... de la physiologie moléculaire
->
-> *...*que nous devons si sévèrement séparer des corps auprès desquels il véhicule vie et mort tout ensemble.
+si nous sommes dans la ligne de la physique... de la physiologie moléculaire
+
+*...*que nous devons si sévèrement séparer des corps auprès desquels il véhicule vie et mort tout ensemble.
 
 <!-- id: s20-09-0197 -->
 
@@ -854,7 +866,7 @@ Ceux qui arrivent à faire ces sortes de « *rejets d’être »*, encore, c�
 
 <!-- id: s20-09-0207 -->
 
-> puisqu’aujourd’hui je m’amuse avec l’*a-prix,* et le reste... ...*m.é.p.r.i.x.*, ça fait « *Uniprix »* \[*Rires*\]... nous sommes quand même au temps des « *supermarkets* », alors il faut savoir ce qu’on est capable de produire, même en fait d’*être*. Ouais...
+puisqu’aujourd’hui je m’amuse avec l’*a-prix,* et le reste... ...*m.é.p.r.i.x.*, ça fait « *Uniprix »* \[*Rires*\]... nous sommes quand même au temps des « *supermarkets* », alors il faut savoir ce qu’on est capable de produire, même en fait d’*être*. Ouais...
 
 <!-- id: s20-09-0208 -->
 
@@ -878,9 +890,9 @@ Enfin comme j’arrive au bout de ces discours que j’ai le courage de poursuiv
 
 <!-- id: s20-09-0213 -->
 
-> puisque c’est là une idée qui me vient et qu’après tout
->
-> c’est une idée aussi à laquelle j’ai un tout petit peu réfléchi - n’est-ce pas ? ...c’est que le Christ, en somme, dont on nous explique le malheur par une idée de sauver les hommes, je trouve plutôt que c’est de sauver Dieu qu’il s’agissait, en redonnant enfin un peu de présence, d’actualité, à cette haine de Dieu, sur laquelle, bien sûr, nous sommes - pour cause - plutôt mous.
+puisque c’est là une idée qui me vient et qu’après tout
+
+c’est une idée aussi à laquelle j’ai un tout petit peu réfléchi - n’est-ce pas ? ...c’est que le Christ, en somme, dont on nous explique le malheur par une idée de sauver les hommes, je trouve plutôt que c’est de sauver Dieu qu’il s’agissait, en redonnant enfin un peu de présence, d’actualité, à cette haine de Dieu, sur laquelle, bien sûr, nous sommes - pour cause - plutôt mous.
 
 <!-- id: s20-09-0214 -->
 
@@ -900,7 +912,7 @@ Alors - momentanément, bien sûr - ça peut être commode de le rendre responsa
 
 <!-- id: s20-09-0218 -->
 
-> à part ceci que personne ne s’en aperçoit ...c’est qu’en somme *si le désir, la libido, est masculine*, eh bien *la chère femme, c’est justement que de là où elle est « toute »*, c’est-à-dire là d’où la voit l’homme, *et rien que là, qu’elle peut avoir un inconscient*.
+à part ceci que personne ne s’en aperçoit ...c’est qu’en somme *si le désir, la libido, est masculine*, eh bien *la chère femme, c’est justement que de là où elle est « toute »*, c’est-à-dire là d’où la voit l’homme, *et rien que là, qu’elle peut avoir un inconscient*.
 
 <!-- id: s20-09-0219 -->
 
@@ -908,7 +920,7 @@ Et à quoi ça lui sert ? Ben ça lui sert - comme chacun sait - *à faire parl
 
 <!-- id: s20-09-0220 -->
 
-> je ne sais pas si vous l’avez bien remarqué dans la théorie analytique *...*à n’exister que comme mère.
+je ne sais pas si vous l’avez bien remarqué dans la théorie analytique *...*à n’exister que comme mère.
 
 <!-- id: s20-09-0221 -->
 
@@ -920,7 +932,7 @@ J’ai joué en somme la dernière fois*...*
 
 <!-- id: s20-09-0223 -->
 
-> comme je me le permets ...sur l’équivoque un peu tirée par les cheveux de « *il hait* » et « *il est* ».
+comme je me le permets ...sur l’équivoque un peu tirée par les cheveux de « *il hait* » et « *il est* ».
 
 <!-- id: s20-09-0224 -->
 
@@ -988,7 +1000,7 @@ Voilà *la question* sur laquelle je vous laisse aujourd’hui, et si vous voule
 
 <!-- id: s20-09-0240 -->
 
-> c’est-à-dire si mon souvenir est bon le 10 avril ...ce que j’ai écrit sur la *Bedeutung des phallus*, sur *La signification du phallus*[^77] en français, si vous voulez le lire, vous verrez à quoi conduit la dernière question sur laquelle je vous laisse.
+c’est-à-dire si mon souvenir est bon le 10 avril ...ce que j’ai écrit sur la *Bedeutung des phallus*, sur *La signification du phallus*[^77] en français, si vous voulez le lire, vous verrez à quoi conduit la dernière question sur laquelle je vous laisse.
 
 ## Notes
 

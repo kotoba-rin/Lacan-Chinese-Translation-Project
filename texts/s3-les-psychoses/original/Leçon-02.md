@@ -50,9 +50,9 @@ Le découpage de la paranoïa était incontestablement plus large et beaucoup pl
 
 <!-- id: s3-02-0012 -->
 
-> et qui en somme recouvrait jusque-là ce qu’il y a, à partir de cette réduction,
->
-> ramené vers le cadre de la démence précoce, en en faisant le secteur paranoïde
+et qui en somme recouvrait jusque-là ce qu’il y a, à partir de cette réduction,
+
+ramené vers le cadre de la démence précoce, en en faisant le secteur paranoïde
 
 <!-- id: s3-02-0013 -->
 
@@ -60,11 +60,15 @@ Le découpage de la paranoïa était incontestablement plus large et beaucoup pl
 
 <!-- id: s3-02-0014 -->
 
-> « *La paranoïa se distingue des autres parce qu’elle se caractérise par le développement insidieux de causes internes,*
->
-> *et selon une évolution continue d’un système délirant, durable et impossible à ébranler, et qui s’installe avec une conservation*
->
-> *complète de la clarté et de l’ordre dans la pensée, le vouloir et l’action.* »
+<div class="text-quotation">
+
+« *La paranoïa se distingue des autres parce qu’elle se caractérise par le développement insidieux de causes internes,*
+
+*et selon une évolution continue d’un système délirant, durable et impossible à ébranler, et qui s’installe avec une conservation*
+
+*complète de la clarté et de l’ordre dans la pensée, le vouloir et l’action.* »
+
+</div>
 
 <!-- id: s3-02-0015 -->
 
@@ -132,7 +136,7 @@ Il y a quelque chose qui me paraît être tout à fait du ressort du problème e
 
 <!-- id: s3-02-0031 -->
 
-> j’emprunte ce terme et intentionnellement à mon maître CLÉRAMBAULT
+j’emprunte ce terme et intentionnellement à mon maître CLÉRAMBAULT
 
 <!-- id: s3-02-0032 -->
 
@@ -242,7 +246,7 @@ C’est pourtant bien là qu’il convient de reprendre le problème : c’est q
 
 <!-- id: s3-02-0058 -->
 
-> comme présentant l’ouverture pour le problème, l’entrée dialectique dans le cas
+comme présentant l’ouverture pour le problème, l’entrée dialectique dans le cas
 
 <!-- id: s3-02-0059 -->
 
@@ -338,7 +342,7 @@ Il a fallu M. SÉGLAS[^5] dans son livre des « *Leçons cliniques »* au déb
 
 <!-- id: s3-02-0082 -->
 
-> à des signes très évidents dans certains cas, et dans d’autres en y regardant d’un peu plus près
+à des signes très évidents dans certains cas, et dans d’autres en y regardant d’un peu plus près
 
 <!-- id: s3-02-0083 -->
 
@@ -354,7 +358,7 @@ Il reste à savoir si cela continue à être applicable, par exemple, au domaine
 
 <!-- id: s3-02-0086 -->
 
-> dont il semble qu’il a simplement abordé les choses du point de vue concret
+dont il semble qu’il a simplement abordé les choses du point de vue concret
 
 <!-- id: s3-02-0087 -->
 
@@ -398,9 +402,9 @@ Il mène à ce moment-là une vie apparemment normale pendant une huitaine d’a
 
 <!-- id: s3-02-0097 -->
 
-> tous les auteurs s’accordent à relever dans les écrits de SCHREBER, que ceci correspond
->
-> avec le moment d’une promotion très importante dans sa carrière : il est nommé *Président de la Cour d’Appel* dans la ville de Leipzig
+tous les auteurs s’accordent à relever dans les écrits de SCHREBER, que ceci correspond
+
+avec le moment d’une promotion très importante dans sa carrière : il est nommé *Président de la Cour d’Appel* dans la ville de Leipzig
 
 <!-- id: s3-02-0098 -->
 
@@ -412,7 +416,7 @@ Il est, semble-t-il - comme il arrive souvent dans beaucoup de crises mentales -
 
 <!-- id: s3-02-0100 -->
 
-> ce qui est jeune pour le titre de Président de la Cour d’Appel de Leipzig
+ce qui est jeune pour le titre de Président de la Cour d’Appel de Leipzig
 
 <!-- id: s3-02-0101 -->
 
@@ -468,7 +472,7 @@ Autrement dit, il essaie de situer exactement ces intentions qui bien entendu so
 
 <!-- id: s3-02-0114 -->
 
-> est loin d’être intéressée.
+est loin d’être intéressée.
 
 <!-- id: s3-02-0115 -->
 
@@ -508,7 +512,7 @@ C’est la question qui se pose à propos de toute espèce de construction émot
 
 <!-- id: s3-02-0124 -->
 
-> avec tous les *désinvestissements*, « *potemisation* [^7]* »*, *réaction de séparation*, *influence à distance*, que cela comporte
+avec tous les *désinvestissements*, « *potemisation* [^7]* »*, *réaction de séparation*, *influence à distance*, que cela comporte
 
 <!-- id: s3-02-0125 -->
 

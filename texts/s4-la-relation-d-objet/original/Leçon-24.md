@@ -751,17 +751,17 @@ nous avons affaire et que je vous ai appris à situer, à dessiner comme étant 
 
 <!-- id: s4-24-0136 -->
 
-> Il est très important de voir combien Léonard DE VINCI insiste pour dire qu’*il n’y a pas de voix dans la nature,*
->
-> et il en donne des démonstrations tellement amusantes, tellement curieuses, que cela vaudrait la peine de voir à quel point cela devient pour lui quelque chose à proprement parler d’*obsessionnel*, de démontrer qu’il ne pouvait pas y avoir quelqu’un qui lui réponde, qui s’appelle à ce moment-là ce que tout le monde croit, un esprit qui parle quelque part dans l’air.
->
-> C’est là quelque chose de toute importance pour lui, il y insiste, et il y revient souvent, et en effet il y avait des gens pour qui c’était là une vérité quasi scandaleuse que de le proclamer. Néanmoins, la façon dont Léonard DE VINCI interroge cette nature, est comme cet autre qui à la fois n’est pas un sujet, mais dont il y a lieu de lire les raisons, et quand je dis ceci, je le dis parce que c’est dans Léonard DE VINCI :
->
-> « *La nature est pleine d’infinies raisons qui n’ont jamais été dans l’ex­périence.* »
->
-> Le paradoxe de cette formule - si nous faisons de Léonard DE VINCI, comme on le fait bien souvent, une sorte de précurseur de l’expérimentalisme moderne - est là pour montrer justement la distance et la difficulté qu’il y a à saisir après coup, quand une certaine évolution, quand un certain dégagement dans la pensée
->
-> s’est accompli, dans quoi est engagée la pensée de celui qu’on appelle généralement un précurseur.
+Il est très important de voir combien Léonard DE VINCI insiste pour dire qu’*il n’y a pas de voix dans la nature,*
+
+et il en donne des démonstrations tellement amusantes, tellement curieuses, que cela vaudrait la peine de voir à quel point cela devient pour lui quelque chose à proprement parler d’*obsessionnel*, de démontrer qu’il ne pouvait pas y avoir quelqu’un qui lui réponde, qui s’appelle à ce moment-là ce que tout le monde croit, un esprit qui parle quelque part dans l’air.
+
+C’est là quelque chose de toute importance pour lui, il y insiste, et il y revient souvent, et en effet il y avait des gens pour qui c’était là une vérité quasi scandaleuse que de le proclamer. Néanmoins, la façon dont Léonard DE VINCI interroge cette nature, est comme cet autre qui à la fois n’est pas un sujet, mais dont il y a lieu de lire les raisons, et quand je dis ceci, je le dis parce que c’est dans Léonard DE VINCI :
+
+« *La nature est pleine d’infinies raisons qui n’ont jamais été dans l’ex­périence.* »
+
+Le paradoxe de cette formule - si nous faisons de Léonard DE VINCI, comme on le fait bien souvent, une sorte de précurseur de l’expérimentalisme moderne - est là pour montrer justement la distance et la difficulté qu’il y a à saisir après coup, quand une certaine évolution, quand un certain dégagement dans la pensée
+
+s’est accompli, dans quoi est engagée la pensée de celui qu’on appelle généralement un précurseur.
 
 <!-- id: s4-24-0137 -->
 
@@ -887,9 +887,13 @@ et quand vous le voyez *se parler* tout le temps *à lui­-même*, en s’appela
 
 <!-- id: s4-24-0159 -->
 
-> « *Tu feras cela. Tu demanderas à Jean de Paris le secret de la peinture sèche* »
-> ou « *Tu iras chercher deux pincées de lavande ou de romarin au magasin du coin* ».
-> Car ce sont des choses de cet ordre, tout est mêlé. C’est là quelque chose qui finit aussi par impressionner et par saisir.
+<div class="text-quotation">
+
+« *Tu feras cela. Tu demanderas à Jean de Paris le secret de la peinture sèche* »
+ou « *Tu iras chercher deux pincées de lavande ou de romarin au magasin du coin* ».
+Car ce sont des choses de cet ordre, tout est mêlé. C’est là quelque chose qui finit aussi par impressionner et par saisir.
+
+</div>
 
 <!-- id: s4-24-0160 -->
 

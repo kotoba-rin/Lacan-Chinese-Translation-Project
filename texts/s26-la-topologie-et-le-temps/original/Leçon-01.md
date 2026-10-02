@@ -126,9 +126,9 @@ Ce qu’il y a de frappant, c’est qu’*une bande de Mœbius* normale...
 
 <!-- id: s26-01-0030 -->
 
-> en voilà un exemple :
->
-> <img src="assets/image9.jpeg" style="width:2.47461in;height:1.55833in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S26\14d.jpg" /> ...*une bande de Mœbius* normale - c’est à dire *une bande de Mœbius* comme ça - a également le 1 et le 2 et le 3 et le 4 à la même place :
+en voilà un exemple :
+
+<img src="assets/image9.jpeg" style="width:2.47461in;height:1.55833in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S26\14d.jpg" /> ...*une bande de Mœbius* normale - c’est à dire *une bande de Mœbius* comme ça - a également le 1 et le 2 et le 3 et le 4 à la même place :
 
 <!-- id: s26-01-0031 -->
 

@@ -221,13 +221,17 @@ c’est d’une façon un peu plus élaborée. Nous sautons donc *le rêve de la
 
 <!-- id: s5-21-0042 -->
 
-> « *Une jeune femme intelligente et fine, réservée, du type de « l’eau qui dort », raconte : « J’ai rêvé que j’arrivais trop tard au marché et que je ne trouvais plus rien chez le bou­cher et chez la marchande de légumes. » Voilà assurément un rêve innocent ; mais un rêve ne se présente pas de cette manière ; je demande un récit détaillé. Le voici : Elle allait au marché avec sa cuisinière qui portait le panier. Le boucher lui a dit, après qu elle lui eût demandé quelque chose : « On ne peut plus en avoir »,*
->
-> *et il a voulu lui donner autre chose en disant : « C’est bon aussi. » Elle a refusé et est allée chez la mar­chande de légumes. Celle-ci a voulu lui vendre des légumes d’une espèce singulière, attachés en petits paquets, mais de couleur noire.*
->
-> *Elle a dit : « Je ne sais pas ce que c’est, je ne prends pas ça. »* »
->
-> \[*Eine kluge und feine junge Dame, die aber auch im Leben zu den Reservierten, zu den « stillen Wassern » gehört, erzählt: Ich habe geträumt, daß ich auf den Markt zu spät komme und beim Fleischhauer sowie bei der Gemüsefrau nichts bekomme. Gewiß ein harmloser Traum, aber so sieht ein Traum nicht aus; ich lasse ihn mir detailliert erzählen. Dann lautet der Bericht folgendermaßen : Sie geht auf den Markt mit ihrerKöchin, die den Korb trägt. Der Fleischhauer sagt ihr, nachdem sie etwas verlangt hat: Das ist nicht mehr zu haben, und will ihr etwas anderes geben mit der Bemerkung: Das ist auch gut. Sie lehnt ab und geht zur Gemüsefrau, die will ihr ein eigentümliches Gemüse verkaufen, das in Bündeln zusammengebunden ist, aber schwarz von Farbe. Sie sagt: Das kenne ich nicht, das nehme ich nicht.*\]
+<div class="text-quotation">
+
+« *Une jeune femme intelligente et fine, réservée, du type de « l’eau qui dort », raconte : « J’ai rêvé que j’arrivais trop tard au marché et que je ne trouvais plus rien chez le bou­cher et chez la marchande de légumes. » Voilà assurément un rêve innocent ; mais un rêve ne se présente pas de cette manière ; je demande un récit détaillé. Le voici : Elle allait au marché avec sa cuisinière qui portait le panier. Le boucher lui a dit, après qu elle lui eût demandé quelque chose : « On ne peut plus en avoir »,*
+
+*et il a voulu lui donner autre chose en disant : « C’est bon aussi. » Elle a refusé et est allée chez la mar­chande de légumes. Celle-ci a voulu lui vendre des légumes d’une espèce singulière, attachés en petits paquets, mais de couleur noire.*
+
+*Elle a dit : « Je ne sais pas ce que c’est, je ne prends pas ça. »* »
+
+\[*Eine kluge und feine junge Dame, die aber auch im Leben zu den Reservierten, zu den « stillen Wassern » gehört, erzählt: Ich habe geträumt, daß ich auf den Markt zu spät komme und beim Fleischhauer sowie bei der Gemüsefrau nichts bekomme. Gewiß ein harmloser Traum, aber so sieht ein Traum nicht aus; ich lasse ihn mir detailliert erzählen. Dann lautet der Bericht folgendermaßen : Sie geht auf den Markt mit ihrerKöchin, die den Korb trägt. Der Fleischhauer sagt ihr, nachdem sie etwas verlangt hat: Das ist nicht mehr zu haben, und will ihr etwas anderes geben mit der Bemerkung: Das ist auch gut. Sie lehnt ab und geht zur Gemüsefrau, die will ihr ein eigentümliches Gemüse verkaufen, das in Bündeln zusammengebunden ist, aber schwarz von Farbe. Sie sagt: Das kenne ich nicht, das nehme ich nicht.*\]
+
+</div>
 
 <!-- id: s5-21-0043 -->
 
@@ -288,13 +292,17 @@ Ce ne sont pas des implications de la situation : il s’agit de ce qui se dis­
 
 <!-- id: s5-21-0055 -->
 
-> « *Cela provient de discours de la vie éveillée. Sans doute ceux-ci sont traités comme de la matière brute, on les fragmente,*
->
-> *on les transforme un peu, surtout on les sépare de l’ensemble auquel ils appartenaient. Le travail d’interprétation peut partir*
->
-> *de ces sortes de discours. D’où viennent donc les paroles du boucher : « On ne peut plus en avoir ? »* »
->
-> \[*...das stammt von Reden des wachen Lebens her, die freilich als Rohmaterial behandelt, zerstückelt, leise verändert, vor allem aber aus dem Zusammenhange gerissen worden sind. Man kann bei der Deutungsarbeit von solchen Reden ausgehen. Woher stammt also die Rede des Fleischhauers : Das ist nicht mehr zu haben ?* \]
+<div class="text-quotation">
+
+« *Cela provient de discours de la vie éveillée. Sans doute ceux-ci sont traités comme de la matière brute, on les fragmente,*
+
+*on les transforme un peu, surtout on les sépare de l’ensemble auquel ils appartenaient. Le travail d’interprétation peut partir*
+
+*de ces sortes de discours. D’où viennent donc les paroles du boucher : « On ne peut plus en avoir ? »* »
+
+\[*...das stammt von Reden des wachen Lebens her, die freilich als Rohmaterial behandelt, zerstückelt, leise verändert, vor allem aber aus dem Zusammenhange gerissen worden sind. Man kann bei der Deutungsarbeit von solchen Reden ausgehen. Woher stammt also die Rede des Fleischhauers : Das ist nicht mehr zu haben ?* \]
+
+</div>
 
 <!-- id: s5-21-0056 -->
 
@@ -304,19 +312,23 @@ C’est bien à ce propos qu’il dit cela à la patiente :
 
 <!-- id: s5-21-0057 -->
 
-> « *Je les ai prononcées moi-même, en lui expliquant quelques jours avant, que nous ne pouvions plus avoir (évoquer)*
->
-> *les plus anciens vécus de l’enfance qui ne sont plus comme tels, mais qu’ils nous étaient rendus par des transferts et des rêves dans l’ana­lyse. C’est donc moi qui suis le boucher, et elle repousse ce transfert d’anciennes manières de penser et de sentir.*
->
-> *D’où viennent les paroles, d’autre part, qu’elle pro­nonce dans le rêve : « Je ne connais pas, je ne prends pas »*.
->
-> *L’analyse doit diviser cette phrase. Elle-même, quelques jours avant, au cours d’une discussion, a dit à sa cuisinière :*
->
-> *« Je ne sais pas ce que c’est », mais elle a ajouté : « Soyez correcte, je vous prie ! »* *Benehmen Sie sich anständig ! »*
->
-> \[ *« Von mir selbst; ich hatte ihr einige Tage vorher erklärt, »daß die ältesten Kindererlebnisse nicht mehr als solche zu haben sind, sondern durch ›Übertragungen‹ und Träume in der Analyse ersetzt werden«. Ich bin also der Fleischhauer, und sie lehnt diese Übertragungen alter Denk– und Empfindungsweisen auf die Gegenwart ab. Woher rührt ihre Traumrede : <u>Das kenne ich nicht, das nehme ich nicht</u> ?*
->
-> *Diese ist für die Analyse zu zerteilen. » Das kenne ich nicht « hat sie selbst tags vorher zu ihrer Köchin gesagt, mit der sie einen Streit hatte, damals aber hinzugefügt : Benehmen Sie sich anständig.* \]
+<div class="text-quotation">
+
+« *Je les ai prononcées moi-même, en lui expliquant quelques jours avant, que nous ne pouvions plus avoir (évoquer)*
+
+*les plus anciens vécus de l’enfance qui ne sont plus comme tels, mais qu’ils nous étaient rendus par des transferts et des rêves dans l’ana­lyse. C’est donc moi qui suis le boucher, et elle repousse ce transfert d’anciennes manières de penser et de sentir.*
+
+*D’où viennent les paroles, d’autre part, qu’elle pro­nonce dans le rêve : « Je ne connais pas, je ne prends pas »*.
+
+*L’analyse doit diviser cette phrase. Elle-même, quelques jours avant, au cours d’une discussion, a dit à sa cuisinière :*
+
+*« Je ne sais pas ce que c’est », mais elle a ajouté : « Soyez correcte, je vous prie ! »* *Benehmen Sie sich anständig ! »*
+
+\[ *« Von mir selbst; ich hatte ihr einige Tage vorher erklärt, »daß die ältesten Kindererlebnisse nicht mehr als solche zu haben sind, sondern durch ›Übertragungen‹ und Träume in der Analyse ersetzt werden«. Ich bin also der Fleischhauer, und sie lehnt diese Übertragungen alter Denk– und Empfindungsweisen auf die Gegenwart ab. Woher rührt ihre Traumrede : <u>Das kenne ich nicht, das nehme ich nicht</u> ?*
+
+*Diese ist für die Analyse zu zerteilen. » Das kenne ich nicht « hat sie selbst tags vorher zu ihrer Köchin gesagt, mit der sie einen Streit hatte, damals aber hinzugefügt : Benehmen Sie sich anständig.* \]
+
+</div>
 
 <!-- id: s5-21-0058 -->
 
@@ -334,8 +346,12 @@ si l’on était plus rigou­reux, comme : « *Das kenne ich nicht,* *Benehmen
 
 <!-- id: s5-21-0061 -->
 
-> « *Nous saisissons le déplacement : des deux phrases dites à la cuisinière, elle n’a gardé dans le rêve que celle qui était dépourvue de sens ; celle qu’elle a refoulée correspondait seule au reste du rêve. On dira : « Soyez correct, je vous prie ! » à quelqu’un*
-> *qui sera volontairement négligé dans son habillement.* »
+<div class="text-quotation">
+
+« *Nous saisissons le déplacement : des deux phrases dites à la cuisinière, elle n’a gardé dans le rêve que celle qui était dépourvue de sens ; celle qu’elle a refoulée correspondait seule au reste du rêve. On dira : « Soyez correct, je vous prie ! » à quelqu’un*
+*qui sera volontairement négligé dans son habillement.* »
+
+</div>
 
 <!-- id: s5-21-0062 -->
 
@@ -357,10 +373,14 @@ La traduction est fan­taisiste.
 
 <!-- id: s5-21-0066 -->
 
-> « *L’exactitude de notre interprétation est prouvée par son accord avec les allusions qui sont au fond de l’incident*
-> *de la marchande de légumes. Un légume allongé, que l’on vend en bottes, un légume noir, cela peut-il être autre chose*
-> *que la confusion produite par le rêve de l’asperge et du radis noir ? Je n’ai besoin d’interpréter l’asperge pour personne,*
-> *mais l’autre légume me paraît être aussi une allusion.* »
+<div class="text-quotation">
+
+« *L’exactitude de notre interprétation est prouvée par son accord avec les allusions qui sont au fond de l’incident*
+*de la marchande de légumes. Un légume allongé, que l’on vend en bottes, un légume noir, cela peut-il être autre chose*
+*que la confusion produite par le rêve de l’asperge et du radis noir ? Je n’ai besoin d’interpréter l’asperge pour personne,*
+*mais l’autre légume me paraît être aussi une allusion.* »
+
+</div>
 
 <!-- id: s5-21-0067 -->
 
@@ -377,9 +397,9 @@ Le mot « *allu­sion* » n’est pas dans le texte allemand, il se rapporte, 
 
 <!-- id: s5-21-0070 -->
 
-> \[*Daß wir der Deutung wirklich auf die Spur gekommen sind, beweist dann der Zusammenklang mit den Anspielungen, die in der Begebenheit mit der Gemüsefrau niedergelegt sind. Ein Gemüse, das in Bündeln zusammengebunden verkauft wird (länglich ist, wie sie nachträglich hinzufügt), und dabei schwarz, was kann das anderes sein als die Traumvereinigung von Spargel und schwarzem Rettich ? Spargel brauche ich keinem und keiner Wissenden zu deuten, aber auch das andere Gemüse - als Zuruf: Schwarzer, rett’ dich! - scheint mir auf das nämliche sexuelle Thema hinzuweisen, das wir gleich anfangs errieten, als wir für die Traumerzählung einsetzen wollten :*
-> *die Fleischbank war geschlossen. Es kommt nicht darauf an, den Sinn dieses Traumes vollständig zu erkennen; soviel steht fest,*
-> *daß er sinnreich ist und keineswegs harmlos.*\]
+\[*Daß wir der Deutung wirklich auf die Spur gekommen sind, beweist dann der Zusammenklang mit den Anspielungen, die in der Begebenheit mit der Gemüsefrau niedergelegt sind. Ein Gemüse, das in Bündeln zusammengebunden verkauft wird (länglich ist, wie sie nachträglich hinzufügt), und dabei schwarz, was kann das anderes sein als die Traumvereinigung von Spargel und schwarzem Rettich ? Spargel brauche ich keinem und keiner Wissenden zu deuten, aber auch das andere Gemüse - als Zuruf: Schwarzer, rett’ dich! - scheint mir auf das nämliche sexuelle Thema hinzuweisen, das wir gleich anfangs errieten, als wir für die Traumerzählung einsetzen wollten :*
+*die Fleischbank war geschlossen. Es kommt nicht darauf an, den Sinn dieses Traumes vollständig zu erkennen; soviel steht fest,*
+*daß er sinnreich ist und keineswegs harmlos.*\]
 
 <!-- id: s5-21-0071 -->
 
@@ -458,7 +478,11 @@ est un rêve dit soi-disant « *innocent* ».
 
 <!-- id: s5-21-0086 -->
 
-> « *Son mari demande : « Ne faut-il pas faire accorder le piano ? ». Elle répond : « Ce n’est pas la peine !*… *Es lohnt nicht !*
+<div class="text-quotation">
+
+« *Son mari demande : « Ne faut-il pas faire accorder le piano ? ». Elle répond : « Ce n’est pas la peine !*… *Es lohnt nicht !*
+
+</div>
 
 <!-- id: s5-21-0087 -->
 
@@ -466,9 +490,13 @@ Cela veut dire quelque chose comme : « *Ça ne paye pas !* »
 
 <!-- id: s5-21-0088 -->
 
-> *« Il faut d’abord le faire recouvrir. C’est la répétition d’un événement réel du jour pré­cédent. Mais pourquoi en rêve-t-elle ?*
->
-> *Elle dit bien que ce piano est une boîte dégoûtante, qui donne un mauvais son, que son mari l’avait déjà avant son mariage »*
+<div class="text-quotation">
+
+*« Il faut d’abord le faire recouvrir. C’est la répétition d’un événement réel du jour pré­cédent. Mais pourquoi en rêve-t-elle ?*
+
+*Elle dit bien que ce piano est une boîte dégoûtante, qui donne un mauvais son, que son mari l’avait déjà avant son mariage »*
+
+</div>
 
 <!-- id: s5-21-0089 -->
 
@@ -476,15 +504,19 @@ Et ainsi que l’analyse nous le montrera, elle dit le contraire de ce qu’elle
 
 <!-- id: s5-21-0090 -->
 
-> « *Mais la solution nous sera donnée par la phrase « Ce n’est pas la peine ». Elle l’a dite hier, dit Freud, comme elle était*
->
-> *en visite chez une amie. On l’engageait à enlever sa jaquette, elle s’y est refusée en disant : « Ce n’est pas la peine, je vais devoir m’en aller. » Je pense alors qu’hier pendant l’analyse, elle a brusquement porté la main à sa jaquette dont un bouton venait de s’ouvrir. C’était comme si elle avait dit : « Je vous en prie, ne regar­dez pas de ce côté, ce n’est pas la peine. » Ainsi elle remplace boîte par poitrine* - *boîte* : *Kasten,* *poitrine* : *Brust-kasten - et l’interprétation du rêve nous ramène à l’époque de sa formation : elle commençait alors à être mécontente de ses formes. Si nous prenons garde au « dégoûtant », au « mauvais son »,*
->
-> *et si nous nous rappelons combien de fois les petits hémisphères du corps féminin remplacent les grands,*
->
-> *l’analyse nous ramène encore dans l’enfance.* »
->
-> \[*Ein anderer harmloser Traum derselben Patientin, in gewisser Hinsicht ein Gegenstück zum vorigen: Ihr Mann fragt: Soll man das Klavier nicht stimmen lassen? Sie : Es lohnt nicht, es muß ohnedies neu beledert werden. Wiederum die Wiederholung eines realen Ereignisses vom Vortag. Ihr Mann hat so gefragt und sie so ähnlich geantwortet. Aber was bedeutet es, daß sie es träumt ? Sie erzählt zwar vom Klavier, es sei ein ekelhafter Kasten, der einen schlechten Ton gibt, ein Ding, das ihr Mann schon vor der Ehe besessen hat usw., aber den Schlüssel zur Lösung ergibt doch erst die Rede: Es lohnt nicht. Diese stammt von einem gestern gemachten Besuch bei ihrer Freundin. Dort wurde sie aufgefordert, ihre Jacke abzulegen, und weigerte sich mit den Worten: Danke, es lohnt nicht, ich muß gleich gehen. Bei dieser Erzählung muß mir einfallen, daß sie gestern während der Analysenarbeit plötzlich an ihre Jacke griff, an der sich ein Knopf geöffnet hatte. Es ist also, als wollte sie sagen: Bitte, sehen Sie nicht hin, es lohnt nicht. So ergänzt sich der Kasten zum Brustkasten, und die Deutung des Traumes führt direkt in die Zeit ihrer körperlichen Entwicklung, da sie anfing, mit ihren Körperformen unzufrieden zu sein. Es führt auch wohl in frühere Zeiten, wenn wir auf das » Ekelhaft « und den » schlechten Ton « Rücksicht nehmen und uns daran erinnern, wie häufig die kleinen Hemisphären des weiblichen Körpers - als Gegensatz und als Ersatz - für die großen eintreten - in der Anspielung und im Traum.*\]
+<div class="text-quotation">
+
+« *Mais la solution nous sera donnée par la phrase « Ce n’est pas la peine ». Elle l’a dite hier, dit Freud, comme elle était*
+
+*en visite chez une amie. On l’engageait à enlever sa jaquette, elle s’y est refusée en disant : « Ce n’est pas la peine, je vais devoir m’en aller. » Je pense alors qu’hier pendant l’analyse, elle a brusquement porté la main à sa jaquette dont un bouton venait de s’ouvrir. C’était comme si elle avait dit : « Je vous en prie, ne regar­dez pas de ce côté, ce n’est pas la peine. » Ainsi elle remplace boîte par poitrine* - *boîte* : *Kasten,* *poitrine* : *Brust-kasten - et l’interprétation du rêve nous ramène à l’époque de sa formation : elle commençait alors à être mécontente de ses formes. Si nous prenons garde au « dégoûtant », au « mauvais son »,*
+
+*et si nous nous rappelons combien de fois les petits hémisphères du corps féminin remplacent les grands,*
+
+*l’analyse nous ramène encore dans l’enfance.* »
+
+\[*Ein anderer harmloser Traum derselben Patientin, in gewisser Hinsicht ein Gegenstück zum vorigen: Ihr Mann fragt: Soll man das Klavier nicht stimmen lassen? Sie : Es lohnt nicht, es muß ohnedies neu beledert werden. Wiederum die Wiederholung eines realen Ereignisses vom Vortag. Ihr Mann hat so gefragt und sie so ähnlich geantwortet. Aber was bedeutet es, daß sie es träumt ? Sie erzählt zwar vom Klavier, es sei ein ekelhafter Kasten, der einen schlechten Ton gibt, ein Ding, das ihr Mann schon vor der Ehe besessen hat usw., aber den Schlüssel zur Lösung ergibt doch erst die Rede: Es lohnt nicht. Diese stammt von einem gestern gemachten Besuch bei ihrer Freundin. Dort wurde sie aufgefordert, ihre Jacke abzulegen, und weigerte sich mit den Worten: Danke, es lohnt nicht, ich muß gleich gehen. Bei dieser Erzählung muß mir einfallen, daß sie gestern während der Analysenarbeit plötzlich an ihre Jacke griff, an der sich ein Knopf geöffnet hatte. Es ist also, als wollte sie sagen: Bitte, sehen Sie nicht hin, es lohnt nicht. So ergänzt sich der Kasten zum Brustkasten, und die Deutung des Traumes führt direkt in die Zeit ihrer körperlichen Entwicklung, da sie anfing, mit ihren Körperformen unzufrieden zu sein. Es führt auch wohl in frühere Zeiten, wenn wir auf das » Ekelhaft « und den » schlechten Ton « Rücksicht nehmen und uns daran erinnern, wie häufig die kleinen Hemisphären des weiblichen Körpers - als Gegensatz und als Ersatz - für die großen eintreten - in der Anspielung und im Traum.*\]
+
+</div>
 
 <!-- id: s5-21-0091 -->
 
@@ -611,9 +643,9 @@ Ce qui se présente dans le désir comme tel, c’est ce quelque chose qui est e
 
 <!-- id: s5-21-0115 -->
 
-> com­ment ferions-nous nos *désirs*, si ce n’est en empruntant la matière première de nos besoins ?
-> …mais cela passe à un état, non pas d’inconditionné puisqu’il s’agit de quelque chose d’emprunté à un besoin particulier, mais d’une *condition absolue*, sans mesure avec aucune proportion du besoin à un objet quelconque,
-> et en tant que cette condition peut être appelée absolue justement en ceci, qu’elle abolit là, la dimension de l’Autre, que c’est une exigence où l’Autre n’a pas à répondre *oui* ou *non*.
+com­ment ferions-nous nos *désirs*, si ce n’est en empruntant la matière première de nos besoins ?
+…mais cela passe à un état, non pas d’inconditionné puisqu’il s’agit de quelque chose d’emprunté à un besoin particulier, mais d’une *condition absolue*, sans mesure avec aucune proportion du besoin à un objet quelconque,
+et en tant que cette condition peut être appelée absolue justement en ceci, qu’elle abolit là, la dimension de l’Autre, que c’est une exigence où l’Autre n’a pas à répondre *oui* ou *non*.
 
 <!-- id: s5-21-0116 -->
 

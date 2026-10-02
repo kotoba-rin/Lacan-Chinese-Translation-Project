@@ -79,10 +79,10 @@ Ceci nous indique qu’il n’y a pas à prendre les choses au pied de la décla
 
 <!-- id: s11-05-0016 -->
 
-> vous le verrez, j’y revien­drai à tous les étages, non seulement les « défauts » de notre expérience,
->
-> mais la structure même que nous donnons à la formation du sujet
-> …nous la retrouverons à chaque instant comme étant le mode - le mode d’ap­préhension par excellence - de ce qui pour nous commande cette sorte de *déchiffrage* nouveau que nous avons donné des rapports du sujet à tout ce qui fait sa condition.
+vous le verrez, j’y revien­drai à tous les étages, non seulement les « défauts » de notre expérience,
+
+mais la structure même que nous donnons à la formation du sujet
+…nous la retrouverons à chaque instant comme étant le mode - le mode d’ap­préhension par excellence - de ce qui pour nous commande cette sorte de *déchiffrage* nouveau que nous avons donné des rapports du sujet à tout ce qui fait sa condition.
 
 <!-- id: s11-05-0017 -->
 
@@ -167,9 +167,9 @@ Et nous ne pouvons tout de même le faire, que d’accentuer…
 
 <!-- id: s11-05-0032 -->
 
-> enfin je vous ai laissé le temps à tous, soit de le lire, soit - je l’espérais - peut-être aussi d’intervenir
-> …la fonction que donne dans son *chapitre VII*, *si étran­gement*, FREUD, à ce rêve que je vous ai brièvement décrit,
-> aussi briève­ment d’ailleurs qu’il l’est dans FREUD.
+enfin je vous ai laissé le temps à tous, soit de le lire, soit - je l’espérais - peut-être aussi d’intervenir
+…la fonction que donne dans son *chapitre VII*, *si étran­gement*, FREUD, à ce rêve que je vous ai brièvement décrit,
+aussi briève­ment d’ailleurs qu’il l’est dans FREUD.
 
 <!-- id: s11-05-0033 -->
 
@@ -177,12 +177,12 @@ Notez comme ce rêve, tout entier fait aussi sur *l’incident, le bruit,* qui d
 
 <!-- id: s11-05-0034 -->
 
-> qui a été prendre, dans la chambre voisi­ne de celle où repose son enfant mort, quelque repos,
->
-> laissant l’enfant à la garde, nous dit le texte, d’un grison, d’un autre vieillard
-> …qui, atteint, réveillé, par quelque chose qui, non seulement est la réalité, le choc, le *knocking* d’un bruit fait pour le rappeler au réel,
-> mais qui dans son rêve, traduit juste la quasi identité de ce qui se passe, à savoir la réalité même d’un cierge renversé
-> et en train de mettre le feu au lit où repose cet enfant.
+qui a été prendre, dans la chambre voisi­ne de celle où repose son enfant mort, quelque repos,
+
+laissant l’enfant à la garde, nous dit le texte, d’un grison, d’un autre vieillard
+…qui, atteint, réveillé, par quelque chose qui, non seulement est la réalité, le choc, le *knocking* d’un bruit fait pour le rappeler au réel,
+mais qui dans son rêve, traduit juste la quasi identité de ce qui se passe, à savoir la réalité même d’un cierge renversé
+et en train de mettre le feu au lit où repose cet enfant.
 
 <!-- id: s11-05-0035 -->
 
@@ -190,7 +190,7 @@ Notez comme ce rêve, tout entier fait aussi sur *l’incident, le bruit,* qui d
 
 <!-- id: s11-05-0036 -->
 
-> *à savoir que le rêve est la réalisation d’un désir !*
+*à savoir que le rêve est la réalisation d’un désir !*
 
 <!-- id: s11-05-0037 -->
 
@@ -226,11 +226,11 @@ Est-ce que cela n’est pas une autre réalité, celle que dans le rêve, FREUD 
 
 <!-- id: s11-05-0044 -->
 
-> et qui lui auront été dits, suppose-t-il, « *peut-être à cause de la fièvre* », mais qui sait ?
->
-> ...pour lui, *perpétue la question, l’angoisse, le remords*, de ce dont FREUD pointe la question concernant ce qui, chez le père peut perpétuer le désir qu’aussi celui qu’il a mis près du lit de son fils à veiller : le grison, ne sera peut-être pas « *à la hauteur de bien tenir sa tâche* » *Besorgnis* \[…\] *gewachsen* il ne sera pas, peut-être, en mesure, à la hau­teur de sa tâche. *Et en effet, il s’est endormi*.
->
-> \[*Vielleicht hatte selbst der Vater die Besorgnis mit in den Schlaf hinübergenommen, daß der greise Wächter seiner Aufgabe nicht gewachsen sein dürfte*.\]
+et qui lui auront été dits, suppose-t-il, « *peut-être à cause de la fièvre* », mais qui sait ?
+
+...pour lui, *perpétue la question, l’angoisse, le remords*, de ce dont FREUD pointe la question concernant ce qui, chez le père peut perpétuer le désir qu’aussi celui qu’il a mis près du lit de son fils à veiller : le grison, ne sera peut-être pas « *à la hauteur de bien tenir sa tâche* » *Besorgnis* \[…\] *gewachsen* il ne sera pas, peut-être, en mesure, à la hau­teur de sa tâche. *Et en effet, il s’est endormi*.
+
+\[*Vielleicht hatte selbst der Vater die Besorgnis mit in den Schlaf hinübergenommen, daß der greise Wächter seiner Aufgabe nicht gewachsen sein dürfte*.\]
 
 <!-- id: s11-05-0045 -->
 
@@ -359,9 +359,9 @@ se redouble, fait double emploi de ce qui nous désigne :
 
 <!-- id: s11-05-0074 -->
 
-> <img src="assets/image3.jpeg" style="width:1.1713in;height:1.23883in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S12b\Doc S12\34.jpg" />
->
-> \[schéma de la séance du 13-05-64\]
+<img src="assets/image3.jpeg" style="width:1.1713in;height:1.23883in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S12b\Doc S12\34.jpg" />
+
+\[schéma de la séance du 13-05-64\]
 
 <!-- id: s11-05-0075 -->
 
@@ -437,11 +437,15 @@ le *Vorstellungsrepräsentanz* manquera ?
 
 <!-- id: s11-05-0089 -->
 
-> « *J’ai vu, moi aussi, vu de mes yeux dessillés par la divination mater­nelle, comment l’enfant, traumatisé par mon départ malgré un appel précocement ébauché de la voix et désormais plus renouvelé pour des mois entiers, j’ai vu bien longtemps après encore quand je prenais*
->
-> *ce même enfant dans mes bras, je l’ai vu laisser aller sa tête sur mon épaule pour tomber dans le sommeil seul capable de lui rendre l’accès*
->
-> *au signi­fiant vivant que j’étais depuis la date du trauma.* » [^35]
+<div class="text-quotation">
+
+« *J’ai vu, moi aussi, vu de mes yeux dessillés par la divination mater­nelle, comment l’enfant, traumatisé par mon départ malgré un appel précocement ébauché de la voix et désormais plus renouvelé pour des mois entiers, j’ai vu bien longtemps après encore quand je prenais*
+
+*ce même enfant dans mes bras, je l’ai vu laisser aller sa tête sur mon épaule pour tomber dans le sommeil seul capable de lui rendre l’accès*
+
+*au signi­fiant vivant que j’étais depuis la date du trauma.* » [^35]
+
+</div>
 
 <!-- id: s11-05-0090 -->
 
@@ -490,17 +494,29 @@ Il a dit, répondant à la question qui est la nôtre, celle de l’idéalisme :
 
 <!-- id: s11-05-0100 -->
 
-> « *rien peut-être ?* ».
-> Il n’a pas répondu :
+<div class="text-quotation">
+
+« *rien peut-être ?* ».
+Il n’a pas répondu :
+
+</div>
 
 <!-- id: s11-05-0101 -->
 
-> « *peut-être rien* »
-> mais pas \[*non plus*\] :
+<div class="text-quotation">
+
+« *peut-être rien* »
+mais pas \[*non plus*\] :
+
+</div>
 
 <!-- id: s11-05-0102 -->
 
-> « *rien* ».
+<div class="text-quotation">
+
+« *rien* ».
+
+</div>
 
 ## Notes
 

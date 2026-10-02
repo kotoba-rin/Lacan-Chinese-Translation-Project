@@ -329,6 +329,11 @@ html.lacan-share-mode .parallel-paragraph {
   color: color-mix(in srgb, var(--fg) 86%, var(--icons));
 }
 
+.text-quotation {
+  margin: 0.75em 0 0.75em 2em;
+  font-style: italic;
+}
+
 .original-notes::before {
   content: "原文 Notes";
 }

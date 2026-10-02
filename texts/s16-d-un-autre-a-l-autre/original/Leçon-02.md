@@ -14,9 +14,9 @@ Dans une relation, que dans un premier temps j’ai présentée comme homologiqu
 
 <!-- id: s16-02-0003 -->
 
-> ce qu’on appelle, dans la langue originale - où cette notion bien sûr a été pour la première fois non pas nommée mais découverte dans sa fonction essentielle - *Mehrwert.* \[*Plus-value* en allemand\] Je l’ai écrit parce que Dieu sait ce qui arriverait si je ne faisais que le prononcer devant ce que j’ai comme auditoire - *et spécialement de psychanalystes, quand ils se recrutent parmi ce qu’on appelle - être de nature ou d’hérédité - des agents doubles -* bientôt on me dirait que c’est la « *mère verte* », (M.E.R.E.), que je retombe dans les sentiers battus. C’est avec ça que - avec mon « *ça parle* » -
->
-> on réintègre le désir soi-disant obstiné du sujet de se retrouver bien au chaud dans le ventre maternel. …donc, à cette *plus-value* j’ai accroché, j’ai superposé, j’ai enduit à l’enve la notion de *plus de jouir*.
+ce qu’on appelle, dans la langue originale - où cette notion bien sûr a été pour la première fois non pas nommée mais découverte dans sa fonction essentielle - *Mehrwert.* \[*Plus-value* en allemand\] Je l’ai écrit parce que Dieu sait ce qui arriverait si je ne faisais que le prononcer devant ce que j’ai comme auditoire - *et spécialement de psychanalystes, quand ils se recrutent parmi ce qu’on appelle - être de nature ou d’hérédité - des agents doubles -* bientôt on me dirait que c’est la « *mère verte* », (M.E.R.E.), que je retombe dans les sentiers battus. C’est avec ça que - avec mon « *ça parle* » -
+
+on réintègre le désir soi-disant obstiné du sujet de se retrouver bien au chaud dans le ventre maternel. …donc, à cette *plus-value* j’ai accroché, j’ai superposé, j’ai enduit à l’enve la notion de *plus de jouir*.
 
 <!-- id: s16-02-0004 -->
 
@@ -36,7 +36,7 @@ Naturellement, *selon l’usage*, dans les heures qui suivent, ça a fait du *pi
 
 <!-- id: s16-02-0008 -->
 
-> et que je ne dénie pas puisque c’est sur ce plan que j’ai introduit mon propos de la dernière fois …à savoir ce facteur, *le facteur poubellicant ou poubellicatoire*, comme vous voudrez l’appeler, du structuralisme, j’avais précisément fait allusion au fait qu’aux derniers échos, ALTHUSSER ne s’y trouvait pas si à l’aise.
+et que je ne dénie pas puisque c’est sur ce plan que j’ai introduit mon propos de la dernière fois …à savoir ce facteur, *le facteur poubellicant ou poubellicatoire*, comme vous voudrez l’appeler, du structuralisme, j’avais précisément fait allusion au fait qu’aux derniers échos, ALTHUSSER ne s’y trouvait pas si à l’aise.
 
 <!-- id: s16-02-0009 -->
 
@@ -64,7 +64,7 @@ Ce qui est ici essentiel, à savoir que - comme je l’ai déjà souligné à d�
 
 <!-- id: s16-02-0015 -->
 
-> qui est tout ce qu’on peut mettre en effet, pour le représenter, sur une page …que cette petite image évidemment n’est là que pour vous figurer certaines connexions qui sont celles qui ne peuvent pas s’imaginer mais qui peuvent par contre parfaitement bien s’écrire. La structure, c’est donc *réel*.
+qui est tout ce qu’on peut mettre en effet, pour le représenter, sur une page …que cette petite image évidemment n’est là que pour vous figurer certaines connexions qui sont celles qui ne peuvent pas s’imaginer mais qui peuvent par contre parfaitement bien s’écrire. La structure, c’est donc *réel*.
 
 <!-- id: s16-02-0016 -->
 
@@ -132,7 +132,7 @@ Autrement dit, dans *le principe*, appelez-le « *structuraliste »* ou non…
 
 <!-- id: s16-02-0032 -->
 
-> disons que ce n’est pas la peine de parler d’autre chose que du *réel* dans lequel *le discours* lui-même *a des conséquences* …appelez ça « *structuralisme »* ou pas, c’est ce que j’ai appelé la dernière fois la condition du sérieux.
+disons que ce n’est pas la peine de parler d’autre chose que du *réel* dans lequel *le discours* lui-même *a des conséquences* …appelez ça « *structuralisme »* ou pas, c’est ce que j’ai appelé la dernière fois la condition du sérieux.
 
 <!-- id: s16-02-0033 -->
 
@@ -176,9 +176,9 @@ Bref, dire que la physique ne va pas sans le physicien, n’est pas…
 
 <!-- id: s16-02-0043 -->
 
-> comme j’espère il ne se trouve nul l’entendant ici pour formuler l’objection,
->
-> qui serait assez bouffonne à l’intérieur de ce que je viens d’énoncer …dire qu’il s’agit là d’un postulat idéaliste.
+comme j’espère il ne se trouve nul l’entendant ici pour formuler l’objection,
+
+qui serait assez bouffonne à l’intérieur de ce que je viens d’énoncer …dire qu’il s’agit là d’un postulat idéaliste.
 
 <!-- id: s16-02-0044 -->
 
@@ -198,9 +198,9 @@ Seulement voilà, irrésistiblement, on s’imagine que l’argument *réaliste*
 
 <!-- id: s16-02-0048 -->
 
-> que nous soyons là ou pas, nous et notre science, comme si notre science était nôtre,
->
-> et comme si nous n’étions pas déterminés par elle …eh bien la nature, dit-on, est toujours là. Je n’en discute absolument pas : la nature est là.
+que nous soyons là ou pas, nous et notre science, comme si notre science était nôtre,
+
+et comme si nous n’étions pas déterminés par elle …eh bien la nature, dit-on, est toujours là. Je n’en discute absolument pas : la nature est là.
 
 <!-- id: s16-02-0049 -->
 
@@ -220,7 +220,7 @@ Nous remarquons dans le langage…
 
 <!-- id: s16-02-0053 -->
 
-> car c’est au niveau du langage que je reprendrai les choses, et pour marquer bien les limites …une *syntaxe* telle que l’incarne un grand nombre de langues que, faute d’audace, on appelle les « *langues positives* ».
+car c’est au niveau du langage que je reprendrai les choses, et pour marquer bien les limites …une *syntaxe* telle que l’incarne un grand nombre de langues que, faute d’audace, on appelle les « *langues positives* ».
 
 <!-- id: s16-02-0054 -->
 
@@ -236,7 +236,7 @@ Il est tout à fait clair que même vis-à-vis du *langage*…
 
 <!-- id: s16-02-0057 -->
 
-> quelque prévalence que nous lui donnions parce qu’on l’oublie comme réalité naturelle …tout discours scientifique sur la langue se présente par *réduction de son matériel*. On met en valeur un fonctionnement où se saisissent des conséquences, je dirai plus : où se saisit la notion même de conséquence avec ses variétés du *nécessaire* ou du *contingent* par exemple. On opère donc un clivage discursif, et c’est ce qui permet de donner tout son prix à ce que d’abord j’affirme *qu’il n’y a pas de métalangage*, ce qui est vrai dans le champ du langage naturel.
+quelque prévalence que nous lui donnions parce qu’on l’oublie comme réalité naturelle …tout discours scientifique sur la langue se présente par *réduction de son matériel*. On met en valeur un fonctionnement où se saisissent des conséquences, je dirai plus : où se saisit la notion même de conséquence avec ses variétés du *nécessaire* ou du *contingent* par exemple. On opère donc un clivage discursif, et c’est ce qui permet de donner tout son prix à ce que d’abord j’affirme *qu’il n’y a pas de métalangage*, ce qui est vrai dans le champ du langage naturel.
 
 <!-- id: s16-02-0058 -->
 
@@ -276,7 +276,7 @@ Il n’en reste pas moins - comme je l’ai dit - que :
 
 <!-- id: s16-02-0067 -->
 
-> c’est bien en effet toute l’apparence qu’on en a dans ces publications, la plupart …de s’arrêter à la psychanalyse,
+c’est bien en effet toute l’apparence qu’on en a dans ces publications, la plupart …de s’arrêter à la psychanalyse,
 
 <!-- id: s16-02-0068 -->
 
@@ -284,9 +284,9 @@ Il n’en reste pas moins - comme je l’ai dit - que :
 
 <!-- id: s16-02-0069 -->
 
-> je n’ai pas dit seulement en tant que pensant, encore qu’après tout, il n’y a lieu d’avoir vis-à-vis de ce terme aucune répugnance, le fait de penser serait–il le privilège des *intellectuels intellectualistes* qui,
->
-> comme chacun sait, sont le poison de ce bas monde, et de ce bas monde psychanalytique, bien entendu …tout ce que vous êtes en tant que « sentant », tombe sous le coup des conséquences du discours.
+je n’ai pas dit seulement en tant que pensant, encore qu’après tout, il n’y a lieu d’avoir vis-à-vis de ce terme aucune répugnance, le fait de penser serait–il le privilège des *intellectuels intellectualistes* qui,
+
+comme chacun sait, sont le poison de ce bas monde, et de ce bas monde psychanalytique, bien entendu …tout ce que vous êtes en tant que « sentant », tombe sous le coup des conséquences du discours.
 
 <!-- id: s16-02-0070 -->
 
@@ -350,7 +350,7 @@ La question n’est pas là : *que vous le sachiez ou que vous ne le sachiez pa
 
 <!-- id: s16-02-0085 -->
 
-> dont je viens de dire qu’elles sont là, *que vous le sachiez ou que vous ne le sachiez pas* …car alors la question se pose : *comment ça pouvait se faire avant que la logique, qu’on appelle mathématique, ne soit venue au jour* ?
+dont je viens de dire qu’elles sont là, *que vous le sachiez ou que vous ne le sachiez pas* …car alors la question se pose : *comment ça pouvait se faire avant que la logique, qu’on appelle mathématique, ne soit venue au jour* ?
 
 <!-- id: s16-02-0086 -->
 
@@ -366,9 +366,9 @@ C’est à savoir qu’il a fallu quelque chose déjà attenant aux effets du di
 
 <!-- id: s16-02-0089 -->
 
-> même si quelque chose pouvait déjà représenter dans une existence de sujet quelque chose
->
-> que rétroactivement nous pouvons rattacher à quelques effet dans cette existence du discours de la logique …il est tout à fait clair, il doit être fermement tenu que ce ne sont pas les mêmes conséquences que depuis que ce discours, j’entends celui de la logique mathématique, a été proféré.
+même si quelque chose pouvait déjà représenter dans une existence de sujet quelque chose
+
+que rétroactivement nous pouvons rattacher à quelques effet dans cette existence du discours de la logique …il est tout à fait clair, il doit être fermement tenu que ce ne sont pas les mêmes conséquences que depuis que ce discours, j’entends celui de la logique mathématique, a été proféré.
 
 <!-- id: s16-02-0090 -->
 
@@ -384,11 +384,11 @@ La *plus-value* était-elle là avant que « *le travail abstrait* »…
 
 <!-- id: s16-02-0093 -->
 
-> j’entends celui dont cette abstraction se dégage, j’entends comme moyenne sociale …ait résulté de quelque chose que nous appellerons…
+j’entends celui dont cette abstraction se dégage, j’entends comme moyenne sociale …ait résulté de quelque chose que nous appellerons…
 
 <!-- id: s16-02-0094 -->
 
-> je ne garantis pas l’exactitude du premier mot mais je veux dire un mot qui porte …*l’absolutisation du marché*.
+je ne garantis pas l’exactitude du premier mot mais je veux dire un mot qui porte …*l’absolutisation du marché*.
 
 <!-- id: s16-02-0095 -->
 
@@ -400,9 +400,9 @@ Il a donc fallu ceci…
 
 <!-- id: s16-02-0097 -->
 
-> qui peut difficilement être séparé du développement de certains *effets de langage*,
->
-> à savoir *l’absolutisation du marché* au point qu’il englobe le travail lui-même …pour que la plus-value se définisse en ceci :qu’en payant avec de l’argent ou pas… avec de l’argent puisque nous sommes dans le marché …le travail à son « *vrai prix* », telle que se définit dans le marché *la fonction de la valeur d’échange*, il y a de la *valeur non payée* dans ce qui apparaît comme *fruit du travail*, dans une *valeur d’usage*, dans ce qui est le vrai prix de ce fruit.
+qui peut difficilement être séparé du développement de certains *effets de langage*,
+
+à savoir *l’absolutisation du marché* au point qu’il englobe le travail lui-même …pour que la plus-value se définisse en ceci :qu’en payant avec de l’argent ou pas… avec de l’argent puisque nous sommes dans le marché …le travail à son « *vrai prix* », telle que se définit dans le marché *la fonction de la valeur d’échange*, il y a de la *valeur non payée* dans ce qui apparaît comme *fruit du travail*, dans une *valeur d’usage*, dans ce qui est le vrai prix de ce fruit.
 
 <!-- id: s16-02-0098 -->
 
@@ -410,7 +410,7 @@ Ce travail non payé…
 
 <!-- id: s16-02-0099 -->
 
-> quoique payé de façon *juste* par rapport à la *consistance* du marché, ceci dans le fonctionnement du sujet capitaliste …ce travail non payé, c’est *la plus-value*. C’est le fruit des *moyens d’articulation* qui constituent le discours capitaliste de la logique capitaliste. Sans doute, articulé ainsi ceci entraîne une *revendication* concernant la frustration du travailleur.
+quoique payé de façon *juste* par rapport à la *consistance* du marché, ceci dans le fonctionnement du sujet capitaliste …ce travail non payé, c’est *la plus-value*. C’est le fruit des *moyens d’articulation* qui constituent le discours capitaliste de la logique capitaliste. Sans doute, articulé ainsi ceci entraîne une *revendication* concernant la frustration du travailleur.
 
 <!-- id: s16-02-0100 -->
 
@@ -486,7 +486,7 @@ Il s’agit du savoir. C’est par rapport à lui, sous sa forme scientifique, q
 
 <!-- id: s16-02-0118 -->
 
-> *quoique tout à l’heure j’ai paru en amorcer mon discours* …le savoir ce n’est pas le travail. Ça vaut du travail quelquefois, mais ça peut vous être donné sans.
+*quoique tout à l’heure j’ai paru en amorcer mon discours* …le savoir ce n’est pas le travail. Ça vaut du travail quelquefois, mais ça peut vous être donné sans.
 
 <!-- id: s16-02-0119 -->
 
@@ -522,7 +522,7 @@ Il y a des choses comme ça, dont j’ai parlé incidemment sous d’autres angl
 
 <!-- id: s16-02-0127 -->
 
-> je veux dire que c’est à l’étranger qu’on les paye, et voilà que même en France, ça commence …c’est à partir de ce moment-là qu’on peut décerner ce que j’ai appelé autrefois - dans un cercle intime – un « *prix haut-le-cœur* » à quiconque se démontre spécialement en vue dans cette sorte de spéculation.
+je veux dire que c’est à l’étranger qu’on les paye, et voilà que même en France, ça commence …c’est à partir de ce moment-là qu’on peut décerner ce que j’ai appelé autrefois - dans un cercle intime – un « *prix haut-le-cœur* » à quiconque se démontre spécialement en vue dans cette sorte de spéculation.
 
 <!-- id: s16-02-0128 -->
 
@@ -558,7 +558,7 @@ C’est à partir de là que nous pouvons concevoir *qu’il y a quelque chose l
 
 <!-- id: s16-02-0136 -->
 
-> ce qui n’est pas nouveau mais ce qui ne se révèle qu’à partir de *l’homogénéisation des savoirs* sur le marché …on aperçoit enfin que la jouissance s’ordonne et peut s’établir comme recherchée et perverse.
+ce qui n’est pas nouveau mais ce qui ne se révèle qu’à partir de *l’homogénéisation des savoirs* sur le marché …on aperçoit enfin que la jouissance s’ordonne et peut s’établir comme recherchée et perverse.
 
 <!-- id: s16-02-0137 -->
 
@@ -602,7 +602,7 @@ Une *vérité collective*, mais qu’il faut bien voir au sens où la grève…
 
 <!-- id: s16-02-0147 -->
 
-> qui ne consonnait avec cette *vérité*, pas mal du tout …est justement cette sorte de rapport qui soude le collectif au travail. C’est même le seul.
+qui ne consonnait avec cette *vérité*, pas mal du tout …est justement cette sorte de rapport qui soude le collectif au travail. C’est même le seul.
 
 <!-- id: s16-02-0148 -->
 

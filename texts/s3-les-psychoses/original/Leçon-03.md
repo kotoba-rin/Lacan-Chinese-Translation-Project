@@ -10,7 +10,7 @@ La vie du psychanalyste…
 
 <!-- id: s3-03-0002 -->
 
-> comme il me le fut rappelé plusieurs fois le même jour par une sorte de convergence, par mes analysés
+comme il me le fut rappelé plusieurs fois le même jour par une sorte de convergence, par mes analysés
 
 <!-- id: s3-03-0003 -->
 
@@ -54,7 +54,7 @@ Au bout donc d’une période de huit ou neuf ans, quelque chose de nouveau qui 
 
 <!-- id: s3-03-0013 -->
 
-> à un certain point prématuré, à un âge qui ne laissait pas *prévoir* qu’il fût nommé à une fonction aussi élevée
+à un certain point prématuré, à un âge qui ne laissait pas *prévoir* qu’il fût nommé à une fonction aussi élevée
 
 <!-- id: s3-03-0014 -->
 
@@ -78,7 +78,7 @@ Si le Président SCHREBER n’a pas eu d’enfant, on en prend fait et acte pour
 
 <!-- id: s3-03-0019 -->
 
-> appétence homosexuelle autour de ce qui concerne le père
+appétence homosexuelle autour de ce qui concerne le père
 
 <!-- id: s3-03-0020 -->
 
@@ -114,7 +114,11 @@ Quelque part dans un deuxième chapitre, SCHREBER l’exprime au passage :
 
 <!-- id: s3-03-0028 -->
 
-> « *Il m’a été donné des lumières qui sont rarement données à un mortel.* »
+<div class="text-quotation">
+
+« *Il m’a été donné des lumières qui sont rarement données à un mortel.* »
+
+</div>
 
 <!-- id: s3-03-0029 -->
 
@@ -202,7 +206,7 @@ Et là encore le texte de SCHREBER nous le souligne bien : il y a deux types de
 
 <!-- id: s3-03-0050 -->
 
-> qui est le vide complet, à savoir la formule qui se répète, qui se réitère, se serine, et bien d’autres modes pour exprimer ce caractère d’insistance stéréotypé de ce qui leur est communiqué, et qui est ce que nous pourrons appeler à l’opposé du mot : *la ritournelle*.
+qui est le vide complet, à savoir la formule qui se répète, qui se réitère, se serine, et bien d’autres modes pour exprimer ce caractère d’insistance stéréotypé de ce qui leur est communiqué, et qui est ce que nous pourrons appeler à l’opposé du mot : *la ritournelle*.
 
 <!-- id: s3-03-0051 -->
 
@@ -222,7 +226,7 @@ C’est bien, vous le voyez déjà, *ce terme de « langage »*…
 
 <!-- id: s3-03-0055 -->
 
-> ce même langage auquel nous pouvons nous laisser prendre dans un premier abord du sujet, quelquefois même le plus délirant
+ce même langage auquel nous pouvons nous laisser prendre dans un premier abord du sujet, quelquefois même le plus délirant
 
 <!-- id: s3-03-0056 -->
 
@@ -306,7 +310,7 @@ Observez bien au passage ce dont il s’agit, nous ne sommes pas là dans le pro
 
 <!-- id: s3-03-0076 -->
 
-> problème qui a arrêté toute la philosophie depuis LEIBNIZ, c’est-à-dire au moins depuis le moment où l’accent a été mis sur la conscience quant au fondement de la certitude
+problème qui a arrêté toute la philosophie depuis LEIBNIZ, c’est-à-dire au moins depuis le moment où l’accent a été mis sur la conscience quant au fondement de la certitude
 
 <!-- id: s3-03-0077 -->
 
@@ -322,7 +326,7 @@ Ce qui bien entendu est tellement loin d’être simple, que ça ouvre immédiat
 
 <!-- id: s3-03-0080 -->
 
-> c’est-à-dire comme étant quelque chose d’objectivement immotivé, d’inscrit seulement dans la structure définie par l’appareil, dans la perturbation des voies supposées neurologiques de frayage
+c’est-à-dire comme étant quelque chose d’objectivement immotivé, d’inscrit seulement dans la structure définie par l’appareil, dans la perturbation des voies supposées neurologiques de frayage
 
 <!-- id: s3-03-0081 -->
 
@@ -374,7 +378,7 @@ Est-ce que ceci suffit à expliquer maintenant le niveau des phénomènes de la 
 
 <!-- id: s3-03-0093 -->
 
-> dont le *moi* en tant que camouflage de ces notions, était forcément le pivot essentiel.
+dont le *moi* en tant que camouflage de ces notions, était forcément le pivot essentiel.
 
 <!-- id: s3-03-0094 -->
 
@@ -466,9 +470,9 @@ Observez bien que lorsque notre paranoïaque de l’autre jour... celle à laque
 
 <!-- id: s3-03-0116 -->
 
-> c’est-à-dire que c’est ce que vous exprimez dans la mesure où vous dites que sa personnalité
->
-> est encore saine, à savoir que vous avez affaire simplement à « *un délire partiel »*
+c’est-à-dire que c’est ce que vous exprimez dans la mesure où vous dites que sa personnalité
+
+est encore saine, à savoir que vous avez affaire simplement à « *un délire partiel »*
 
 <!-- id: s3-03-0117 -->
 
@@ -616,7 +620,7 @@ Vous devez voir déjà à quel point il y a une différence de niveau entre :
 
 <!-- id: s3-03-0153 -->
 
-> *c’est-à-dire parlant non pas à l’autre avec un petit a, ou de l’autre avec un petit a, mais parlant avec l’Autre avec un grand A*
+*c’est-à-dire parlant non pas à l’autre avec un petit a, ou de l’autre avec un petit a, mais parlant avec l’Autre avec un grand A*
 
 <!-- id: s3-03-0154 -->
 
@@ -680,7 +684,7 @@ D’autre part je vous fais bien toucher du doigt au passage que, à analyser ai
 
 <!-- id: s3-03-0169 -->
 
-> FREUD le distingue parfaitement parce que ça se distingue parfaitement dans la clinique
+FREUD le distingue parfaitement parce que ça se distingue parfaitement dans la clinique
 
 <!-- id: s3-03-0170 -->
 

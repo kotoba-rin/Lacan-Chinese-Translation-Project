@@ -34,7 +34,7 @@ Je désire l’introduire de quelques remarques destinées à situer, pour les p
 
 <!-- id: s12-09-0008 -->
 
-> venant ici avec des préjugés divers je veux dire avec l’idée qu’elles se font de ce qui doit être fait dans ce séminaire fermé …pourraient très bien ne pas réaliser tout de suite, pourquoi vous allez entendre expressément ce qui va venir, ainsi que pour les personnes qui - rares - viennent ici depuis très peu de temps.
+venant ici avec des préjugés divers je veux dire avec l’idée qu’elles se font de ce qui doit être fait dans ce séminaire fermé …pourraient très bien ne pas réaliser tout de suite, pourquoi vous allez entendre expressément ce qui va venir, ainsi que pour les personnes qui - rares - viennent ici depuis très peu de temps.
 
 <!-- id: s12-09-0009 -->
 
@@ -46,9 +46,9 @@ Je ne suppose pas qu’ici tout le monde, ni même beaucoup, soient des logicien
 
 <!-- id: s12-09-0011 -->
 
-> pour situer la logique elle-même, pour la placer, ce qui est vraiment bien le minimum de ce à quoi un logicien
->
-> doive s’obliger quand il commence un traité de logique …il verront, ils seront frappés, surtout si je leur mets à cet endroit la puce à l’oreille, à quel point l’ordre de difficulté que le logicien rencontre pour placer sa science, dans la hiérarchie, dans *la classification des sciences*, sont vraiment analogues, correspondent, aux difficultés que peut avoir de même l’analyste. Ceci n’est qu’une indication.
+pour situer la logique elle-même, pour la placer, ce qui est vraiment bien le minimum de ce à quoi un logicien
+
+doive s’obliger quand il commence un traité de logique …il verront, ils seront frappés, surtout si je leur mets à cet endroit la puce à l’oreille, à quel point l’ordre de difficulté que le logicien rencontre pour placer sa science, dans la hiérarchie, dans *la classification des sciences*, sont vraiment analogues, correspondent, aux difficultés que peut avoir de même l’analyste. Ceci n’est qu’une indication.
 
 <!-- id: s12-09-0012 -->
 
@@ -56,9 +56,9 @@ La psychanalyse est une logique et inversement, on peut dire que la logique a be
 
 <!-- id: s12-09-0013 -->
 
-> ce qui frappe *celui qui vient de l’extérieur*, quand il arrive et qu’il entend le psychanalyste s’exprimer, sur la valeur à donner,
->
-> sur l’accent, sur la traduction de telle ou telle manifestation dans le comportement, de tel ou tel symptôme …c’est quelque chose, en général chez ce *nouveau venu*, qui se manifeste par l’idée d’une certaine absence de logique, tout au moins d’un certain renversement, d’un certain désordre dans la logique.
+ce qui frappe *celui qui vient de l’extérieur*, quand il arrive et qu’il entend le psychanalyste s’exprimer, sur la valeur à donner,
+
+sur l’accent, sur la traduction de telle ou telle manifestation dans le comportement, de tel ou tel symptôme …c’est quelque chose, en général chez ce *nouveau venu*, qui se manifeste par l’idée d’une certaine absence de logique, tout au moins d’un certain renversement, d’un certain désordre dans la logique.
 
 <!-- id: s12-09-0014 -->
 
@@ -130,15 +130,15 @@ Vous m’avez vu, entendu, l’articuler d’une certaine façon qui, il me semb
 
 <!-- id: s12-09-0031 -->
 
-> tout au moins pour ceux qui étaient déjà suffisamment entraînés dans cette voie …à ceux-là donner *quelque satisfaction*, c’est dire que…
+tout au moins pour ceux qui étaient déjà suffisamment entraînés dans cette voie …à ceux-là donner *quelque satisfaction*, c’est dire que…
 
 <!-- id: s12-09-0032 -->
 
-> qu’elle se manifeste, qu’elle soit prise au niveau du sujet, ou au niveau de cet objet privilégié, singulier, qui s’appelle l’*objet(a)*,
->
-> au niveau des diverses formes - plus ou moins leurrantes - de *l’identification*, au niveau des voies
->
-> par où nous mettons à l’épreuve cette fonction de *l’identification*, ce que j’ai appelé les voies de *la tromperie* ou *du transfert* …nous avons là des plans qu’il ne suffit pas d’*énumérer*, voire de caresser au passage, pour croire que nous possédons la clé de ce qu’il y a à manier.
+qu’elle se manifeste, qu’elle soit prise au niveau du sujet, ou au niveau de cet objet privilégié, singulier, qui s’appelle l’*objet(a)*,
+
+au niveau des diverses formes - plus ou moins leurrantes - de *l’identification*, au niveau des voies
+
+par où nous mettons à l’épreuve cette fonction de *l’identification*, ce que j’ai appelé les voies de *la tromperie* ou *du transfert* …nous avons là des plans qu’il ne suffit pas d’*énumérer*, voire de caresser au passage, pour croire que nous possédons la clé de ce qu’il y a à manier.
 
 <!-- id: s12-09-0033 -->
 
@@ -150,7 +150,7 @@ Parmi ces problèmes essentiels…
 
 <!-- id: s12-09-0035 -->
 
-> *et véritablement énormes, proéminents, presque écrasants, et pas seulement dans notre domaine* …la question de savoir si l’*Un* est une constitution subjective *essentiellement*, est une question première.
+*et véritablement énormes, proéminents, presque écrasants, et pas seulement dans notre domaine* …la question de savoir si l’*Un* est une constitution subjective *essentiellement*, est une question première.
 
 <!-- id: s12-09-0036 -->
 
@@ -158,13 +158,13 @@ Parmi ces problèmes essentiels…
 
 <!-- id: s12-09-0037 -->
 
-> pour autant que je l’ai longuement martelée,
->
-> je puis dire - pendant presque une année entière, il y a trois ans dans mon *séminaire* sur *l’identification* …*cette question de l’Un* du *trait unaire*…
+pour autant que je l’ai longuement martelée,
+
+je puis dire - pendant presque une année entière, il y a trois ans dans mon *séminaire* sur *l’identification* …*cette question de l’Un* du *trait unaire*…
 
 <!-- id: s12-09-0038 -->
 
-> pour autant qu’elle est à *la clé de la deuxième espèce d’identification* distinguée par FREUD …*cette question de l’Un* est essentielle, pivotale, pour cette logique qu’il s’agit de constituer dans son statut, et qui sera ce vers quoi j’entends diriger la suite de mon discours jusqu’à la fin de cette année.
+pour autant qu’elle est à *la clé de la deuxième espèce d’identification* distinguée par FREUD …*cette question de l’Un* est essentielle, pivotale, pour cette logique qu’il s’agit de constituer dans son statut, et qui sera ce vers quoi j’entends diriger la suite de mon discours jusqu’à la fin de cette année.
 
 <!-- id: s12-09-0039 -->
 
@@ -228,7 +228,7 @@ C’est à un de ceux là qu’aujourd’hui je donne la parole, pour répondre 
 
 <!-- id: s12-09-0054 -->
 
-> à un de ceux qui, la dernière fois, a bien voulu nous rendre le service d’introduire ici le discours et la question de FREGE …pour lui répondre, pour vous ouvrir aussi les diverses voies dans lesquelles nous souhaitons qu’intervienne quiconque a été admis ici, et le fait que cette salle soit remplie prouve assez que je n’y mets nulle barrière artificielle, que je laisse place à quiconque se présente avec le désir manifeste de prendre part à notre dialogue.
+à un de ceux qui, la dernière fois, a bien voulu nous rendre le service d’introduire ici le discours et la question de FREGE …pour lui répondre, pour vous ouvrir aussi les diverses voies dans lesquelles nous souhaitons qu’intervienne quiconque a été admis ici, et le fait que cette salle soit remplie prouve assez que je n’y mets nulle barrière artificielle, que je laisse place à quiconque se présente avec le désir manifeste de prendre part à notre dialogue.
 
 <!-- id: s12-09-0055 -->
 
@@ -336,7 +336,7 @@ La simplicité de son économie ne devrait pourtant pas nous dissimuler que les 
 
 <!-- id: s12-09-0081 -->
 
-> dont on ne peut par ailleurs que reconnaître son mérite …publié dans le *tome 8* de la revue *La Psychanalyse* [^65], *aberrations* qui peuvent peut-être se déduire de la négligence qui s’y manifeste de cette *logique du signifiant*.
+dont on ne peut par ailleurs que reconnaître son mérite …publié dans le *tome 8* de la revue *La Psychanalyse* [^65], *aberrations* qui peuvent peut-être se déduire de la négligence qui s’y manifeste de cette *logique du signifiant*.
 
 <!-- id: s12-09-0082 -->
 
@@ -388,7 +388,11 @@ La question, dans sa forme la plus générale, s’énonce ainsi :
 
 <!-- id: s12-09-0094 -->
 
-> « *Qu’est-ce qui fonctionne dans la suite des nombres entiers naturels à quoi il faut rapporter leur progression ?* »
+<div class="text-quotation">
+
+« *Qu’est-ce qui fonctionne dans la suite des nombres entiers naturels à quoi il faut rapporter leur progression ?* »
+
+</div>
 
 <!-- id: s12-09-0095 -->
 
@@ -716,9 +720,9 @@ Le rapport du sujet au champ de l’Autre - car maintenant nous jouons cartes su
 
 <!-- id: s12-09-0176 -->
 
-> je vous le rappelle, car cette proposition a été avancée par Jacques LACAN
->
-> il doit y avoir trois ans si j’en crois les notes sur son séminaire sur l’identification …*ce rapport matriciel* ne saurait être intégré dans une définition de l’objectivité.
+je vous le rappelle, car cette proposition a été avancée par Jacques LACAN
+
+il doit y avoir trois ans si j’en crois les notes sur son séminaire sur l’identification …*ce rapport matriciel* ne saurait être intégré dans une définition de l’objectivité.
 
 <!-- id: s12-09-0177 -->
 
@@ -798,7 +802,7 @@ Et donc que ce *temps*, qui serait nécessaire à représenter cet engendrement,
 
 <!-- id: s12-09-0196 -->
 
-> *qu’il est exclu du signifiant qui le détermine*
+*qu’il est exclu du signifiant qui le détermine*
 
 <!-- id: s12-09-0197 -->
 
@@ -954,7 +958,7 @@ Il a essayé de donner *le principe* des partitions opérées, selon leur pertin
 
 <!-- id: s12-09-0235 -->
 
-> et on voit en quoi ici la psychanalyse peut donner le principe d’une nouvelle classification …la pertinence pour chacun de ces discours, c’est la position où se soutient le sujet par rapport au *représenté* qui le produit, l’institue.
+et on voit en quoi ici la psychanalyse peut donner le principe d’une nouvelle classification …la pertinence pour chacun de ces discours, c’est la position où se soutient le sujet par rapport au *représenté* qui le produit, l’institue.
 
 <!-- id: s12-09-0236 -->
 
@@ -994,15 +998,15 @@ Est-ce que Piera AULAGNIER…
 
 <!-- id: s12-09-0245 -->
 
-> Piera AULAGNIER qui, bien entendu, ayant été mise sur la sellette - d’une façon je dois dire, assez flatteuse …peut bien penser que nous n’allons pas en rester là et que, comme nous avons encore d’autres textes de Piera AULAGNIER publiés ou pas publiés, et un récemment produit en public, j’aurai l’occasion de m’y référer, dans toute la mesure où cet exposé radical, cet exposé noyau, concernant la fonction du **0** et du **1**…
+Piera AULAGNIER qui, bien entendu, ayant été mise sur la sellette - d’une façon je dois dire, assez flatteuse …peut bien penser que nous n’allons pas en rester là et que, comme nous avons encore d’autres textes de Piera AULAGNIER publiés ou pas publiés, et un récemment produit en public, j’aurai l’occasion de m’y référer, dans toute la mesure où cet exposé radical, cet exposé noyau, concernant la fonction du **0** et du **1**…
 
 <!-- id: s12-09-0246 -->
 
-> vous verrez en quoi il est un pivot absolument essentiel …moyennant quoi nous pourrons étager, reprendre des questions qui - je m’en suis aperçu au cours de cette période de… disons le mot : d’isolement que j’ai voulu prendre récemment, de reprendre dis-je, dans leur ordre…
+vous verrez en quoi il est un pivot absolument essentiel …moyennant quoi nous pourrons étager, reprendre des questions qui - je m’en suis aperçu au cours de cette période de… disons le mot : d’isolement que j’ai voulu prendre récemment, de reprendre dis-je, dans leur ordre…
 
 <!-- id: s12-09-0247 -->
 
-> où je me suis aperçu qu’elles avaient été énoncées dans un ordre qui, assurément à tous ceux qui se rapporteraient au texte de mes séminaires des années passées, apparaîtrait tout à fait rigoureux, je dois dire : je dois m’attribuer ce bon point parfaitement didactique …de reprendre dans leur ordre, tout ce dont j’ai montré la conséquence, au niveau respectif de la position de la demande et du désir, d’abord, et d’une distinction tout à fait fondamentale que j’ai faite, à propos desquels se sont produits autour de moi, et *pas seulement* dans l’article de Piera AULAGNIER, certains glissements, presque obligés, mais qu’il s’agit toujours de redresser, concernant la distinction des fonctions que j’ai dites opposées, comme étant respectivement de *la privation*, de *la frustration*, de *la castration*, qui sont tellement essentielles à distinguer pour remettre en place toute la théorie que nous donnons de la cure dans sa forme la plus concrète.
+où je me suis aperçu qu’elles avaient été énoncées dans un ordre qui, assurément à tous ceux qui se rapporteraient au texte de mes séminaires des années passées, apparaîtrait tout à fait rigoureux, je dois dire : je dois m’attribuer ce bon point parfaitement didactique …de reprendre dans leur ordre, tout ce dont j’ai montré la conséquence, au niveau respectif de la position de la demande et du désir, d’abord, et d’une distinction tout à fait fondamentale que j’ai faite, à propos desquels se sont produits autour de moi, et *pas seulement* dans l’article de Piera AULAGNIER, certains glissements, presque obligés, mais qu’il s’agit toujours de redresser, concernant la distinction des fonctions que j’ai dites opposées, comme étant respectivement de *la privation*, de *la frustration*, de *la castration*, qui sont tellement essentielles à distinguer pour remettre en place toute la théorie que nous donnons de la cure dans sa forme la plus concrète.
 
 <!-- id: s12-09-0248 -->
 
@@ -1010,11 +1014,11 @@ Je pense que ce qui vous a été apporté aujourd’hui…
 
 <!-- id: s12-09-0249 -->
 
-> qui sera ronéotypé et mis à votre disposition dans les mêmes conditions, c’est-à-dire *sans engagement*, si l’on peut dire, de votre part à y intervenir immédiatement, dans les mêmes conditions que le discours de DUROUX la dernière fois …je pense qu’on ne pouvait attendre de meilleure base de départ pour la suite de ce que je vais vous développer maintenant pendant le mois de Mars, et auquel alors pourra être apporté, peut-être d’abord d’une façon qui nous laissera le temps de le faire…
+qui sera ronéotypé et mis à votre disposition dans les mêmes conditions, c’est-à-dire *sans engagement*, si l’on peut dire, de votre part à y intervenir immédiatement, dans les mêmes conditions que le discours de DUROUX la dernière fois …je pense qu’on ne pouvait attendre de meilleure base de départ pour la suite de ce que je vais vous développer maintenant pendant le mois de Mars, et auquel alors pourra être apporté, peut-être d’abord d’une façon qui nous laissera le temps de le faire…
 
 <!-- id: s12-09-0250 -->
 
-> nous aurons deux séances fermées à la fin du mois de mars …et d’une façon aussi qui sera diversifiée par les divers rejets que j’aurais eu le temps de reprendre d’ici la fin.
+nous aurons deux séances fermées à la fin du mois de mars …et d’une façon aussi qui sera diversifiée par les divers rejets que j’aurais eu le temps de reprendre d’ici la fin.
 
 <!-- id: s12-09-0251 -->
 

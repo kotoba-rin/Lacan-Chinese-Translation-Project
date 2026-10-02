@@ -27,9 +27,9 @@ Mon 1<sup>er</sup> point sera donc de rappeler, d’articuler, d’ajouter une p
 
 <!-- id: s10-08-0005 -->
 
-> certainement, pour ceux qui m’ont ouï, non impossible à conquérir,
->
-> encore que le souligner aujourd’hui ne me semble-t-il pas inutile
+certainement, pour ceux qui m’ont ouï, non impossible à conquérir,
+
+encore que le souligner aujourd’hui ne me semble-t-il pas inutile
 
 <!-- id: s10-08-0006 -->
 
@@ -37,8 +37,8 @@ Mon 1<sup>er</sup> point sera donc de rappeler, d’articuler, d’ajouter une p
 
 <!-- id: s10-08-0007 -->
 
-> j’espère arriver jusqu’à un point quatre
-> ...est pour préciser cette fonction de *l’objet* en tant que nous la défi­nissons *analytiquement* comme « *objet du désir* ».
+j’espère arriver jusqu’à un point quatre
+...est pour préciser cette fonction de *l’objet* en tant que nous la défi­nissons *analytiquement* comme « *objet du désir* ».
 
 <!-- id: s10-08-0008 -->
 
@@ -87,8 +87,8 @@ Réduite à une sorte *d’ombre métaphysique*, nous sentons bien qu’il est *
 
 <!-- id: s10-08-0015 -->
 
-> dont c’est trop peu dire que ce soit un recours à l’intuition qui le fasse subsister
-> ...qui reste autour de cette fonction de la cause.
+dont c’est trop peu dire que ce soit un recours à l’intuition qui le fasse subsister
+...qui reste autour de cette fonction de la cause.
 
 <!-- id: s10-08-0016 -->
 
@@ -144,9 +144,9 @@ emploient des termes bien frappants dont le premier est le terme de « *eingesc
 
 <!-- id: s10-08-0027 -->
 
-> c’est le même mot qui sert dans la *Verschiebung,* qui désigne le *déplacement*
-> ...*l’objet*, dans sa fonction essentielle de ce quelque chose qui se dérobe
-> dans le niveau de saisie qui est proprement le nôtre, est là comme tel pointé.
+c’est le même mot qui sert dans la *Verschiebung,* qui désigne le *déplacement*
+...*l’objet*, dans sa fonction essentielle de ce quelque chose qui se dérobe
+dans le niveau de saisie qui est proprement le nôtre, est là comme tel pointé.
 
 <!-- id: s10-08-0028 -->
 
@@ -197,8 +197,8 @@ C’est à *cet extérieur, à ce lieu de l’objet d’avant toute intériorisa
 
 <!-- id: s10-08-0039 -->
 
-> si vous voulez bien, si vous essayez de reprendre la notion de *cause*
-> ...que cette notion de *cause*, vous dis-je, appartient.
+si vous voulez bien, si vous essayez de reprendre la notion de *cause*
+...que cette notion de *cause*, vous dis-je, appartient.
 
 <!-- id: s10-08-0040 -->
 
@@ -255,12 +255,12 @@ de *la précision* de ce dont il s’agit quand je mets *(a) d’abord*, dans un
 
 <!-- id: s10-08-0050 -->
 
-> je l’illustrerai un peu plus avant, toute la suite de notre discours ne cessera de l’illustrer toujours plus avant, mais déjà je veux vous faire entendre bien ce dont il s’agit, où va nous conduire notre recherche
-> ...c’est que c’est au lieu même où votre habitude mentale vous indique où chercher le *sujet*,
-> ce quelque chose qui malgré vous se profile comme tel comme *sujet*,
-> à la place où par exemple Freud indique « *la source de la tendance* »,
-> enfin là où il y a ce que dans le discours vous articulez comme étant « *vous* », *là où vous dites* « *Je* »,
-> c’est là, à proprement parler que, au niveau de l’inconscient, se situe *(a)*.
+je l’illustrerai un peu plus avant, toute la suite de notre discours ne cessera de l’illustrer toujours plus avant, mais déjà je veux vous faire entendre bien ce dont il s’agit, où va nous conduire notre recherche
+...c’est que c’est au lieu même où votre habitude mentale vous indique où chercher le *sujet*,
+ce quelque chose qui malgré vous se profile comme tel comme *sujet*,
+à la place où par exemple Freud indique « *la source de la tendance* »,
+enfin là où il y a ce que dans le discours vous articulez comme étant « *vous* », *là où vous dites* « *Je* »,
+c’est là, à proprement parler que, au niveau de l’inconscient, se situe *(a)*.
 
 <!-- id: s10-08-0051 -->
 
@@ -341,8 +341,8 @@ c’est que ce qui caractérise le désir sadique est proprement qu’*il ne sai
 
 <!-- id: s10-08-0066 -->
 
-> car il s’agit proprement de ce type d’action humaine où nous trou­vons toutes les structures du rite
-> ...*ce qu’il ne sait pas, c’est ce qu’il cherche*.
+car il s’agit proprement de ce type d’action humaine où nous trou­vons toutes les structures du rite
+...*ce qu’il ne sait pas, c’est ce qu’il cherche*.
 
 <!-- id: s10-08-0067 -->
 
@@ -350,8 +350,8 @@ c’est que ce qui caractérise le désir sadique est proprement qu’*il ne sai
 
 <!-- id: s10-08-0068 -->
 
-> à qui ? - puisqu’en tout cas à lui-même cette révélation ne saurait rester qu’obtuse
-> ...*à se faire apparaître lui-même comme pur objet, fétiche noir*.
+à qui ? - puisqu’en tout cas à lui-même cette révélation ne saurait rester qu’obtuse
+...*à se faire apparaître lui-même comme pur objet, fétiche noir*.
 
 <!-- id: s10-08-0069 -->
 
@@ -367,8 +367,8 @@ par une sorte de transsubstantiation avec le cours des âges, l’élaboration i
 
 <!-- id: s10-08-0071 -->
 
-> M<span id="RManRay" class="anchor"></span>an Ray n’a pas trouvé mieux, le jour où il s’est agi de faire son *[portrait imaginaire](#ManRay),*
-> *...une forme pétrifiée*.
+M<span id="RManRay" class="anchor"></span>an Ray n’a pas trouvé mieux, le jour où il s’est agi de faire son *[portrait imaginaire](#ManRay),*
+*...une forme pétrifiée*.
 
 <!-- id: s10-08-0072 -->
 
@@ -459,8 +459,8 @@ et quand il s’agira de *l’objet qui vient immédiatement après*...
 
 <!-- id: s10-08-0089 -->
 
-> je vous le livre tout de même, histoire de donner à votre curiosité une pâture, c’est-à-dire *l’œil* en tant que tel
-> ...vous ne savez plus, là, du tout.
+je vous le livre tout de même, histoire de donner à votre curiosité une pâture, c’est-à-dire *l’œil* en tant que tel
+...vous ne savez plus, là, du tout.
 
 <!-- id: s10-08-0090 -->
 
@@ -474,9 +474,9 @@ Ce me sera pour l’immédiat, l’occasion de faire apparaître en quel sens j�
 
 <!-- id: s10-08-0092 -->
 
-> *ceci a retenu l’oreille d’un de mes auditeurs* \[ Safouan ?\]
-> ...j’ai dit, il y a deux leçons, ceci : *que le désir et la loi étaient la même chose*.
-> C’est pour autant, et en ce sens, que *le désir et la loi ont leur objet commun.*
+*ceci a retenu l’oreille d’un de mes auditeurs* \[ Safouan ?\]
+...j’ai dit, il y a deux leçons, ceci : *que le désir et la loi étaient la même chose*.
+C’est pour autant, et en ce sens, que *le désir et la loi ont leur objet commun.*
 
 <!-- id: s10-08-0093 -->
 
@@ -524,8 +524,8 @@ Le masochisme prend dans cette perspective la valeur et la fonction d’apparaî
 
 <!-- id: s10-08-0103 -->
 
-> et d’apparaître clairement, c’est son seul prix au masochiste
-> ...quand *le désir* et *la loi* se retrouvent ensemble.
+et d’apparaître clairement, c’est son seul prix au masochiste
+...quand *le désir* et *la loi* se retrouvent ensemble.
 
 <!-- id: s10-08-0104 -->
 
@@ -533,8 +533,8 @@ Car ce que le masochiste entend faire apparaître...
 
 <!-- id: s10-08-0105 -->
 
-> et j’ajoute : « *sur sa petite scène* », car il ne faut jamais oublier cette dimension
-> ...c’est quelque chose où le désir de l’Autre fait la loi.
+et j’ajoute : « *sur sa petite scène* », car il ne faut jamais oublier cette dimension
+...c’est quelque chose où le désir de l’Autre fait la loi.
 
 <!-- id: s10-08-0106 -->
 
@@ -622,10 +622,10 @@ et cherchant à lire dans l’Autre de quoi il retourne, nous ne trouvons là \[
 
 <!-- id: s10-08-0122 -->
 
-> c’est-à-dire *aussi loin que pos­sible*, au-delà même de ce qui peut apparaître dans « *le retour du refoulé* »,
->
-> et constituant l’*Urverdrängung,* l’irréductible de *l’incognito*, puisqu’aussi bien nous ne pouvons pas dire absolument *l’inconnaissable* puisque nous en parlons
-> ...*c’est là que se structure, que se situe* ce que dans notre analyse du *transfert* *j’ai produit devant vous par le terme* d’ἄγαλμα \[agalma\][^58].
+c’est-à-dire *aussi loin que pos­sible*, au-delà même de ce qui peut apparaître dans « *le retour du refoulé* »,
+
+et constituant l’*Urverdrängung,* l’irréductible de *l’incognito*, puisqu’aussi bien nous ne pouvons pas dire absolument *l’inconnaissable* puisque nous en parlons
+...*c’est là que se structure, que se situe* ce que dans notre analyse du *transfert* *j’ai produit devant vous par le terme* d’ἄγαλμα \[agalma\][^58].
 
 <!-- id: s10-08-0123 -->
 
@@ -684,9 +684,9 @@ Et que nous ne pouvons rien comprendre au *transfert* si nous ne savons pas qu�
 
 <!-- id: s10-08-0134 -->
 
-> et les analystes doivent s’en sou­venir en cours d’analyse, d’un amour qui est présent de diverses façons
->
-> ...mais au moins qu’ils s’en souviennent quand il est là visible,
+et les analystes doivent s’en sou­venir en cours d’analyse, d’un amour qui est présent de diverses façons
+
+...mais au moins qu’ils s’en souviennent quand il est là visible,
 
 <!-- id: s10-08-0135 -->
 
@@ -699,10 +699,10 @@ Quand on retourne aux conditions où il apparaît *qu’on l’est*, car on l’
 
 <!-- id: s10-08-0137 -->
 
-> pour un homme ça ne fait pas de doute,
->
-> et pour une femme nous redirons par quelle incidence elle est amenée à l’être
-> ...eh bien c’est *toujours* fort dangereux.
+pour un homme ça ne fait pas de doute,
+
+et pour une femme nous redirons par quelle incidence elle est amenée à l’être
+...eh bien c’est *toujours* fort dangereux.
 
 <!-- id: s10-08-0138 -->
 
@@ -747,10 +747,10 @@ c’est pour autant qu’un jour, cette liaison menée au su et vrai­ment au d�
 
 <!-- id: s10-08-0146 -->
 
-> style dont tout de suite Freud a aperçu le rapport de provocation par rapport à X,
->
-> quelqu’un de sa famille, et il apparaît bien vite et très certainement que c’est son père
-> ...cette liaison prend fin par une rencontre.
+style dont tout de suite Freud a aperçu le rapport de provocation par rapport à X,
+
+quelqu’un de sa famille, et il apparaît bien vite et très certainement que c’est son père
+...cette liaison prend fin par une rencontre.
 
 <!-- id: s10-08-0147 -->
 
@@ -763,11 +763,11 @@ La scène dès lors se passe très vite : la personne...
 
 <!-- id: s10-08-0149 -->
 
-> pour qui sans doute cette aventure n’est qu’un divertissement assez obscur et qui commence manifestement
->
-> à en avoir assez, et qui ne veut pas au reste, sans doute, s’ex­poser à de grandes difficultés
-> ...dit à la jeune fille que ça a assez duré et qu’on s’en tienne là désormais, qu’elle cesse de lui envoyer,
-> comme elle le fait tous les jours, *des fleurs* sans compter, de s’attacher étroitement à ses pas.
+pour qui sans doute cette aventure n’est qu’un divertissement assez obscur et qui commence manifestement
+
+à en avoir assez, et qui ne veut pas au reste, sans doute, s’ex­poser à de grandes difficultés
+...dit à la jeune fille que ça a assez duré et qu’on s’en tienne là désormais, qu’elle cesse de lui envoyer,
+comme elle le fait tous les jours, *des fleurs* sans compter, de s’attacher étroitement à ses pas.
 
 <!-- id: s10-08-0150 -->
 
@@ -775,11 +775,11 @@ Et la fille immédiatement se balance par-dessus un endroit...
 
 <!-- id: s10-08-0151 -->
 
-> vous vous rappelez que il était un temps où j’explorais minutieusement les cartes de Vienne pour permettre de donner son plein sens au cas du *Petit Hans,* je n’irai pas aujourd’hui jusqu’à vous dire l’endroit où très probablement
->
-> se trouve quelque chose de comparable à ce que vous voyez encore du côté du boulevard Pereire
-> ...à savoir un petit fossé au fond duquel il y a des rails pour un petit chemin de fer qui maintenant ne marche plus,
-> c’est là que la fille se balance, *niederkommt* : *se laisse tomber*.
+vous vous rappelez que il était un temps où j’explorais minutieusement les cartes de Vienne pour permettre de donner son plein sens au cas du *Petit Hans,* je n’irai pas aujourd’hui jusqu’à vous dire l’endroit où très probablement
+
+se trouve quelque chose de comparable à ce que vous voyez encore du côté du boulevard Pereire
+...à savoir un petit fossé au fond duquel il y a des rails pour un petit chemin de fer qui maintenant ne marche plus,
+c’est là que la fille se balance, *niederkommt* : *se laisse tomber*.
 
 <!-- id: s10-08-0152 -->
 
@@ -793,8 +793,8 @@ Ce n’est pas pour rien que le sujet *mélancolique* a une propension telle...
 
 <!-- id: s10-08-0154 -->
 
-> et toujours accomplie avec une rapidité fulgurante si déconcertante
-> ...à se balancer par la fenêtre.
+et toujours accomplie avec une rapidité fulgurante si déconcertante
+...à se balancer par la fenêtre.
 
 <!-- id: s10-08-0155 -->
 
@@ -804,8 +804,8 @@ au moment même où se conjugue dans l’absolu d’un sujet...
 
 <!-- id: s10-08-0156 -->
 
-> dont nous seuls, analystes, pouvons avoir l’idée
-> ...cette *conjonction du désir et de la loi*.
+dont nous seuls, analystes, pouvons avoir l’idée
+...cette *conjonction du désir et de la loi*.
 
 <!-- id: s10-08-0157 -->
 
@@ -861,15 +861,15 @@ C’est dans la mesure où tout ceci vient dans cette simple rencontre, *au nive
 
 <!-- id: s10-08-0167 -->
 
-> pour qui pourtant toute cette scène... qui a tout gagné de l’assentiment du sujet
-> ...où cette scène vient *au regard du père*, que se produit ce que nous pourrons appeler...
+pour qui pourtant toute cette scène... qui a tout gagné de l’assentiment du sujet
+...où cette scène vient *au regard du père*, que se produit ce que nous pourrons appeler...
 
 <!-- id: s10-08-0168 -->
 
-> nous référant au premier tableau que je vous ai donné des coordonnées de l’angoisse
-> ...« *le suprême embarras* », que *l’émotion.*..
-> reportez-vous à ce tableau, vous en verrez les coordonnées exactes
-> ...*que l’émotion*, par la subite impossibilité de faire face à la scène que lui fait son amie, *s’y ajoute*.
+nous référant au premier tableau que je vous ai donné des coordonnées de l’angoisse
+...« *le suprême embarras* », que *l’émotion.*..
+reportez-vous à ce tableau, vous en verrez les coordonnées exactes
+...*que l’émotion*, par la subite impossibilité de faire face à la scène que lui fait son amie, *s’y ajoute*.
 
 <!-- id: s10-08-0169 -->
 
@@ -881,10 +881,10 @@ Les deux conditions essentielles de ce qui s’ap­pelle à proprement parler «
 
 <!-- id: s10-08-0171 -->
 
-> et ici je m’adresse à quelqu’un qui m’a demandé de devancer un peu
->
-> ce que je peux avoir à dire sur cette distinction de *l’acting-out*, nous aurons à y revenir
-> ...les deux conditions du *passage à l’acte* comme tel sont *réalisées*.
+et ici je m’adresse à quelqu’un qui m’a demandé de devancer un peu
+
+ce que je peux avoir à dire sur cette distinction de *l’acting-out*, nous aurons à y revenir
+...les deux conditions du *passage à l’acte* comme tel sont *réalisées*.
 
 <!-- id: s10-08-0172 -->
 
@@ -893,10 +893,10 @@ La confrontation de ce désir du père...
 
 <!-- id: s10-08-0173 -->
 
-> sur lequel tout dans sa conduite est construit
-> ...avec cette loi qui se présentifie dans le regard du père,
-> c’est ceci par quoi elle se sent définitivement *identifiée*, et du même coup rejetée, déjetée hors de la scène.
-> Seul le « *laisser tomber* », le « *se laisser tomber* » peut le réaliser.
+sur lequel tout dans sa conduite est construit
+...avec cette loi qui se présentifie dans le regard du père,
+c’est ceci par quoi elle se sent définitivement *identifiée*, et du même coup rejetée, déjetée hors de la scène.
+Seul le « *laisser tomber* », le « *se laisser tomber* » peut le réaliser.
 
 <!-- id: s10-08-0174 -->
 
@@ -972,10 +972,10 @@ Et c’est là...
 
 <!-- id: s10-08-0188 -->
 
-> j’ai scrupule à le dire parce qu’aussi bien *c’est un texte si merveilleusement éclairant*. Je n’ai pas besoin de vous en donner
->
-> les autres propriétés, *mais je vous prie de ne pas prendre ça pour une de ces ritournelles dont on nous a habitués depuis*
-> ...ce sur quoi Freud en train de découvrir ce dont il s’agit, conclut son texte, à savoir :
+j’ai scrupule à le dire parce qu’aussi bien *c’est un texte si merveilleusement éclairant*. Je n’ai pas besoin de vous en donner
+
+les autres propriétés, *mais je vous prie de ne pas prendre ça pour une de ces ritournelles dont on nous a habitués depuis*
+...ce sur quoi Freud en train de découvrir ce dont il s’agit, conclut son texte, à savoir :
 
 <!-- id: s10-08-0189 -->
 
@@ -995,12 +995,12 @@ Le paradoxe est...
 
 <!-- id: s10-08-0193 -->
 
-> celui qui confine à ce que la dernière fois je vous ai indi­qué comme le point où Freud
->
-> nous lègue la question de savoir comment opérer au niveau du complexe de castration
-> ...\[le paradoxe\] est désigné par ceci qui est ins­crit dans l’observation...
-> et dont je m’étonne que ce ne soit pas l’objet le plus commun de l’étonnement parmi les analystes
-> ...que cette analyse se termine en ceci que *Freud la laisse tomber*.
+celui qui confine à ce que la dernière fois je vous ai indi­qué comme le point où Freud
+
+nous lègue la question de savoir comment opérer au niveau du complexe de castration
+...\[le paradoxe\] est désigné par ceci qui est ins­crit dans l’observation...
+et dont je m’étonne que ce ne soit pas l’objet le plus commun de l’étonnement parmi les analystes
+...que cette analyse se termine en ceci que *Freud la laisse tomber*.
 
 <!-- id: s10-08-0194 -->
 

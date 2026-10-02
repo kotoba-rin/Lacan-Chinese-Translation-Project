@@ -50,7 +50,7 @@ Quand vous aurez lu ce chapitre vous pourrez… vous serez beaucoup plus à l’
 
 <!-- id: s13-15-0012 -->
 
-> on prononce Ruyère paraît-il, Raymond RUYER, professeur à la Faculté des lettres de Nancy …Monsieur RUYER, qui dans cette retraite provinciale poursuit depuis de longues années, un travail d’élaboration extraordinairement important du point de vue épistémologique, vous donne là une sorte de recueil d’anecdotes qui, je dirai, a à mes yeux une valeur cathartique tout à fait extraordinaire : celle de réduire en effet ce qu’on peut appeler *les paradoxes de la conscience* à la forme *d’une sorte d’Almanach Vermot* - ce qui est tout de même assez intéressant - je veux dire, les met à leur place, à leur place en somme de « *bonnes histoires* ».
+on prononce Ruyère paraît-il, Raymond RUYER, professeur à la Faculté des lettres de Nancy …Monsieur RUYER, qui dans cette retraite provinciale poursuit depuis de longues années, un travail d’élaboration extraordinairement important du point de vue épistémologique, vous donne là une sorte de recueil d’anecdotes qui, je dirai, a à mes yeux une valeur cathartique tout à fait extraordinaire : celle de réduire en effet ce qu’on peut appeler *les paradoxes de la conscience* à la forme *d’une sorte d’Almanach Vermot* - ce qui est tout de même assez intéressant - je veux dire, les met à leur place, à leur place en somme de « *bonnes histoires* ».
 
 <!-- id: s13-15-0013 -->
 
@@ -74,7 +74,7 @@ Car l’intérêt de *ces séminaires fermés*, c’est de nous livrer à des tr
 
 <!-- id: s13-15-0018 -->
 
-> non pas le troisième mais après tout on peut s’en passer …*ont été traduits* - ça m’a été rappelé d’une façon qui m’a paru assez heureuse, car je l’avais complètement oublié - *ont été traduits* dans le *n°* 7 de *La psychanalyse* consacré à la sexualité féminine, numéros qui ne sont peut–être pas épuisés, de sorte que - mon Dieu - pour ceux d’entre vous, qui n’ont pas une trop grande *familiarité* avec la langue anglaise, ceci vous facilitera - rétrospectivement, je pense, pour ceux qui n’ont pas encore lu le premier article - de bien saisir ce que nous arriverons à dire aujourd’hui sur cet article, et lisant l’autre, d’y trouver l’amorce de travaux futurs que j’espère…
+non pas le troisième mais après tout on peut s’en passer …*ont été traduits* - ça m’a été rappelé d’une façon qui m’a paru assez heureuse, car je l’avais complètement oublié - *ont été traduits* dans le *n°* 7 de *La psychanalyse* consacré à la sexualité féminine, numéros qui ne sont peut–être pas épuisés, de sorte que - mon Dieu - pour ceux d’entre vous, qui n’ont pas une trop grande *familiarité* avec la langue anglaise, ceci vous facilitera - rétrospectivement, je pense, pour ceux qui n’ont pas encore lu le premier article - de bien saisir ce que nous arriverons à dire aujourd’hui sur cet article, et lisant l’autre, d’y trouver l’amorce de travaux futurs que j’espère…
 
 <!-- id: s13-15-0019 -->
 
@@ -146,7 +146,7 @@ Que ces fils conducteurs soient pour JONES l’occasion de remettre en question 
 
 <!-- id: s13-15-0036 -->
 
-> *si importante soit-elle, de la perte de capacité à l’acte sexuel et du plaisir sexuel* ». \[*La psychanalyse*, n° 7, p.241\]
+*si importante soit-elle, de la perte de capacité à l’acte sexuel et du plaisir sexuel* ». \[*La psychanalyse*, n° 7, p.241\]
 
 <!-- id: s13-15-0037 -->
 
@@ -162,7 +162,11 @@ Le *parti-pris inconscient*, comme l’appela Karen HORNEY, a contribué, nous d
 
 <!-- id: s13-15-0040 -->
 
-> « *En essayant de répondre à cette question, c’est-à-dire de rendre compte du fait que les femmes souffrent de cette terreur au moins autant que les hommes - j’en vins à la conclusion que le concept de « castration » a, par certains côtés, entravé notre appréciation des conflits fondamentaux.* » \[*La psychanalyse*, n° 7, p.240\]
+<div class="text-quotation">
+
+« *En essayant de répondre à cette question, c’est-à-dire de rendre compte du fait que les femmes souffrent de cette terreur au moins autant que les hommes - j’en vins à la conclusion que le concept de « castration » a, par certains côtés, entravé notre appréciation des conflits fondamentaux.* » \[*La psychanalyse*, n° 7, p.240\]
+
+</div>
 
 <!-- id: s13-15-0041 -->
 
@@ -206,15 +210,19 @@ Il lui est impossible de garder les deux. Je crois que ça mérite à ce moment-
 
 <!-- id: s13-15-0051 -->
 
-> *La fille doit choisir, grosso modo, entre abandonner son attachement érotique au père et l’abandon de sa féminité, c’est-à-dire*
->
-> *son identification anale à la mère. Elle doit changer d’objet ou de désir ; il lui est impossible de garder les deux. Elle doit renoncer*
->
-> *soit au père, soit au vagin (y compris les vagins prégénitaux). Dans le premier cas les désirs féminins s’épanouissent à un niveau adulte - c’est-à-dire charme érotique diffus, (narcissisme), attitude vaginale positive envers le coït, culminant dans la grossesse et l’accouchement -*
->
-> *et sont transférés à des objets plus accessibles. Dans le second cas le lien avec le père est conservé, mais cette relation d’objet*
->
-> *est transformée en identification - c’est-à-dire en complexe du pénis.* » \[*La psychanalyse*, n° 7, p.247\]
+<div class="text-quotation">
+
+*La fille doit choisir, grosso modo, entre abandonner son attachement érotique au père et l’abandon de sa féminité, c’est-à-dire*
+
+*son identification anale à la mère. Elle doit changer d’objet ou de désir ; il lui est impossible de garder les deux. Elle doit renoncer*
+
+*soit au père, soit au vagin (y compris les vagins prégénitaux). Dans le premier cas les désirs féminins s’épanouissent à un niveau adulte - c’est-à-dire charme érotique diffus, (narcissisme), attitude vaginale positive envers le coït, culminant dans la grossesse et l’accouchement -*
+
+*et sont transférés à des objets plus accessibles. Dans le second cas le lien avec le père est conservé, mais cette relation d’objet*
+
+*est transformée en identification - c’est-à-dire en complexe du pénis.* » \[*La psychanalyse*, n° 7, p.247\]
+
+</div>
 
 <!-- id: s13-15-0052 -->
 
@@ -234,15 +242,19 @@ Donc JONES opère une division à l’intérieur du groupe homosexuel :
 
 <!-- id: s13-15-0056 -->
 
-> « *On peut y distinguer deux grands groupes*. *Primo : les femmes qui conservent leur intérêt pour les hommes mais qui ont à cœur*
->
-> *de se faire accepter par les hommes comme étant des leurs. À ce groupe appartient un certain type de femmes qui se plaignent sans cesse*
->
-> *de l’injustice du sort de la femme et du mauvais traitement des hommes à leur égard. Secundo : celles qui n’ont que peu ou pas d’intérêt*
->
-> *pour les hommes, mais dont la libido est centrée sur les femmes. L’analyse montre que cet intérêt pour les femmes est un moyen*
->
-> *substitutif de jouir de la féminité. Elles utilisent simplement d’autres femmes pour l’exhiber à leur place.* » \[*La psychanalyse*, n° 7, p.249\]
+<div class="text-quotation">
+
+« *On peut y distinguer deux grands groupes*. *Primo : les femmes qui conservent leur intérêt pour les hommes mais qui ont à cœur*
+
+*de se faire accepter par les hommes comme étant des leurs. À ce groupe appartient un certain type de femmes qui se plaignent sans cesse*
+
+*de l’injustice du sort de la femme et du mauvais traitement des hommes à leur égard. Secundo : celles qui n’ont que peu ou pas d’intérêt*
+
+*pour les hommes, mais dont la libido est centrée sur les femmes. L’analyse montre que cet intérêt pour les femmes est un moyen*
+
+*substitutif de jouir de la féminité. Elles utilisent simplement d’autres femmes pour l’exhiber à leur place.* » \[*La psychanalyse*, n° 7, p.249\]
+
+</div>
 
 <!-- id: s13-15-0057 -->
 
@@ -258,13 +270,17 @@ Alors, je répète : « ...*tandis que le deuxième groupe correspond au sujet 
 
 <!-- id: s13-15-0060 -->
 
-> *« Les femmes appartenant au second groupe s’identifient aussi, avec l’objet d’amour, mais cet objet perd alors tout intérêt pour elles ;*
->
-> *leur relation d’objet externe à l’autre femme est très imparfaite car elle ne représente dès lors que leur propre féminité au moyen*
->
-> *de l’identification et leur but est d’en obtenir par substitution la gratification de la part d’un homme qui leur reste invisible*
->
-> *(le père incorporé en elles).* » \[*La psychanalyse*, n° 7, p.249\]
+<div class="text-quotation">
+
+*« Les femmes appartenant au second groupe s’identifient aussi, avec l’objet d’amour, mais cet objet perd alors tout intérêt pour elles ;*
+
+*leur relation d’objet externe à l’autre femme est très imparfaite car elle ne représente dès lors que leur propre féminité au moyen*
+
+*de l’identification et leur but est d’en obtenir par substitution la gratification de la part d’un homme qui leur reste invisible*
+
+*(le père incorporé en elles).* » \[*La psychanalyse*, n° 7, p.249\]
+
+</div>
 
 <!-- id: s13-15-0061 -->
 
@@ -300,13 +316,13 @@ Nous proposons qu’il s’agit dans cet exemple d’une *opération symbolique�
 
 <!-- id: s13-15-0069 -->
 
-> ce qui ne veut pas dire *the unseeing man*
->
-> *...*le père ou plutôt *ce qui de lui voit, ce qui de lui est seeing, l’œil*
->
-> symbole déjà évoqué par JONES dans sa *théorie du symbolisme* et précisé par lui en ce lieu *comme phallique*
->
-> *…* est le véritable objet car *sa présence* est nécessaire, voire indispensable à l’accomplissement du rite destiné à rendre au père ce qu’il n’a pas donné.
+ce qui ne veut pas dire *the unseeing man*
+
+*...*le père ou plutôt *ce qui de lui voit, ce qui de lui est seeing, l’œil*
+
+symbole déjà évoqué par JONES dans sa *théorie du symbolisme* et précisé par lui en ce lieu *comme phallique*
+
+*…* est le véritable objet car *sa présence* est nécessaire, voire indispensable à l’accomplissement du rite destiné à rendre au père ce qu’il n’a pas donné.
 
 <!-- id: s13-15-0070 -->
 
@@ -318,7 +334,11 @@ Pour vous laisser une image très saisissante de ce type de relation, je voudrai
 
 <!-- id: s13-15-0072 -->
 
-> « *Dans l’échancrure de son corsage de crêpe M<sup>elle</sup> Vinteuil sentit que son amie piquait un baiser. Elle poussa un petit cri, s’échappa, et elles se poursuivirent en sautant, faisant voleter leurs larges manches comme des ailes et gloussant et piaillant comme des oiseaux amoureux. Puis M<sup>elle</sup> Vinteuil finit par tomber sur le canapé, couverte par le corps de son amie. Mais celle-ci tournait le dos à la petite table sur laquelle était placé le portrait de l’ancien professeur de piano.* »
+<div class="text-quotation">
+
+« *Dans l’échancrure de son corsage de crêpe M<sup>elle</sup> Vinteuil sentit que son amie piquait un baiser. Elle poussa un petit cri, s’échappa, et elles se poursuivirent en sautant, faisant voleter leurs larges manches comme des ailes et gloussant et piaillant comme des oiseaux amoureux. Puis M<sup>elle</sup> Vinteuil finit par tomber sur le canapé, couverte par le corps de son amie. Mais celle-ci tournait le dos à la petite table sur laquelle était placé le portrait de l’ancien professeur de piano.* »
+
+</div>
 
 <!-- id: s13-15-0073 -->
 
@@ -330,21 +350,25 @@ Muriel DRAZIEN
 
 <!-- id: s13-15-0075 -->
 
-> « *M<sup>elle</sup> Vinteuil comprit que son amie ne le verrait pas si elle n’attirait pas sur lui son attention et elle lui dit, comme si elle venait seulement de le remarquer :*
->
-> * – Oh, ce portrait de mon père qui nous regarde. Je ne sais pas qui a pu le mettre là ?*
->
-> *J’ai pourtant dit vingt fois que ce n’était pas sa place. »*
->
-> *Je me souviens que c’était les mots que M. Vinteuil avait dits à mon père à propos du morceau de musique. Ce portrait leur servait*
->
-> *sans doute habituellement pour des profanations rituelles car son amie lui répondit par ces paroles qui devaient faire partie*
->
-> *de ses réponses liturgiques :*
->
-> *– Mais laisse le donc où il est, il n’est plus là pour nous embêter. Crois-tu qu’il pleurnicherait et qu’il voudrait te mettre ton manteau s’il te voyait là, la fenêtre ouverte, le vilain singe. »*
->
-> *M<sup>elle</sup> Vinteuil répondit par des paroles de doux reproche :  « Voyons, voyons.* » ... \[M. Proust : *Du coté de chez Swann*, Pléiade, 1954, p. 162\]
+<div class="text-quotation">
+
+« *M<sup>elle</sup> Vinteuil comprit que son amie ne le verrait pas si elle n’attirait pas sur lui son attention et elle lui dit, comme si elle venait seulement de le remarquer :*
+
+* – Oh, ce portrait de mon père qui nous regarde. Je ne sais pas qui a pu le mettre là ?*
+
+*J’ai pourtant dit vingt fois que ce n’était pas sa place. »*
+
+*Je me souviens que c’était les mots que M. Vinteuil avait dits à mon père à propos du morceau de musique. Ce portrait leur servait*
+
+*sans doute habituellement pour des profanations rituelles car son amie lui répondit par ces paroles qui devaient faire partie*
+
+*de ses réponses liturgiques :*
+
+*– Mais laisse le donc où il est, il n’est plus là pour nous embêter. Crois-tu qu’il pleurnicherait et qu’il voudrait te mettre ton manteau s’il te voyait là, la fenêtre ouverte, le vilain singe. »*
+
+*M<sup>elle</sup> Vinteuil répondit par des paroles de doux reproche :  « Voyons, voyons.* » ... \[M. Proust : *Du coté de chez Swann*, Pléiade, 1954, p. 162\]
+
+</div>
 
 <!-- id: s13-15-0076 -->
 
@@ -352,13 +376,17 @@ Et plus loin :
 
 <!-- id: s13-15-0077 -->
 
-> « *Mais elle ne put résister à l’attrait du plaisir qu’elle éprouverait à être traitée avec douceur par une personne si implacable envers*
->
-> *un mort sans défense ; elle sauta sur les genoux de son amie et lui tendit chastement son front à baiser comme elle aurait pu faire*
->
-> *si elle avait été sa fille, sentant avec délices qu’elles allaient ainsi toutes deux au bout de la cruauté en ravissant à M. Vinteuil,*
->
-> *jusque dans le tombeau, sa paternité.* » \[p. 162-163\]
+<div class="text-quotation">
+
+« *Mais elle ne put résister à l’attrait du plaisir qu’elle éprouverait à être traitée avec douceur par une personne si implacable envers*
+
+*un mort sans défense ; elle sauta sur les genoux de son amie et lui tendit chastement son front à baiser comme elle aurait pu faire*
+
+*si elle avait été sa fille, sentant avec délices qu’elles allaient ainsi toutes deux au bout de la cruauté en ravissant à M. Vinteuil,*
+
+*jusque dans le tombeau, sa paternité.* » \[p. 162-163\]
+
+</div>
 
 <!-- id: s13-15-0078 -->
 
@@ -366,9 +394,13 @@ Et plus loin (c’est le narrateur qui parle) :
 
 <!-- id: s13-15-0079 -->
 
-> « ...*je savais maintenant, pour toutes les souffrances que pendant sa vie M. Vinteuil avait supportées à cause de sa fille,*
->
-> *ce qu’après la mort il avait reçu d’elle en salaire.* » \[p. 163\]
+<div class="text-quotation">
+
+« ...*je savais maintenant, pour toutes les souffrances que pendant sa vie M. Vinteuil avait supportées à cause de sa fille,*
+
+*ce qu’après la mort il avait reçu d’elle en salaire.* » \[p. 163\]
+
+</div>
 
 <!-- id: s13-15-0080 -->
 
@@ -428,9 +460,9 @@ Dans un sens de toujours plus grande légèreté de contenu …
 
 <!-- id: s13-15-0094 -->
 
-> on ne peut pas se référer à un autre registre, encore que ce ne soit pas le terme qu’il emploie mais il est forcé
->
-> d’en employer tellement d’autres qui sont toutes… qui sont tous du même ordre …à savoir d’une sorte de raréfaction, de vidage ou d’abstraction, ou de généralisation, bref, de respect dans cette sorte d’ordonnance, de hiérarchie concernant *la consistance de l’objet* qui est celle d’une théorie enfin classique de la connaissance.
+on ne peut pas se référer à un autre registre, encore que ce ne soit pas le terme qu’il emploie mais il est forcé
+
+d’en employer tellement d’autres qui sont toutes… qui sont tous du même ordre …à savoir d’une sorte de raréfaction, de vidage ou d’abstraction, ou de généralisation, bref, de respect dans cette sorte d’ordonnance, de hiérarchie concernant *la consistance de l’objet* qui est celle d’une théorie enfin classique de la connaissance.
 
 <!-- id: s13-15-0095 -->
 
@@ -450,7 +482,7 @@ Toute l’ambiguïté de l’article sur le symbolisme de JONES tient là. Néan
 
 <!-- id: s13-15-0099 -->
 
-> en son effort principalement pour montrer que ce dont il s’agit dans le symbolisme …cerne quelque chose qu’il ne sait pas désigner mais qu’il cerne tout de même, en quelque sorte, du mouvement propre de son élan, de son expérience à lui, concrète, de ce dont il s’agit dans l’analyse.
+en son effort principalement pour montrer que ce dont il s’agit dans le symbolisme …cerne quelque chose qu’il ne sait pas désigner mais qu’il cerne tout de même, en quelque sorte, du mouvement propre de son élan, de son expérience à lui, concrète, de ce dont il s’agit dans l’analyse.
 
 <!-- id: s13-15-0100 -->
 
@@ -466,7 +498,7 @@ Je reprendrais, à l’occasion, en commentaire, les détails de cet article sur
 
 <!-- id: s13-15-0103 -->
 
-> C’est le numéro 6 où c’est paru ?
+C’est le numéro 6 où c’est paru ?
 
 <!-- id: s13-15-0104 -->
 
@@ -478,7 +510,7 @@ LACAN le numéro 5… sur *La théorie du symbolisme chez Jones* [^156]. Ce que 
 
 <!-- id: s13-15-0106 -->
 
-> par rapport à ce que j’aurai à développer donc dans les prochains séminaires sur la fonction de *l’objet(a)* …une certaine valeur de… je ne dirai pas d’anticipation, mais d’horizon. Car en fin de compte, il y a un rapport entre la place de *l’objet(a)* en tant qu’elle est fondamentale, qu’elle nous permet, dans *un certain mode de structure* qui n’a pas d’autre nom que celui du *fantasme*, de comprendre *la fonction déterminante* - *déterminante à la manière d’un support ou d’une monture* ai-je dit - qu’a, dans la détermination de *la refente du sujet*, *l’objet(a)*.
+par rapport à ce que j’aurai à développer donc dans les prochains séminaires sur la fonction de *l’objet(a)* …une certaine valeur de… je ne dirai pas d’anticipation, mais d’horizon. Car en fin de compte, il y a un rapport entre la place de *l’objet(a)* en tant qu’elle est fondamentale, qu’elle nous permet, dans *un certain mode de structure* qui n’a pas d’autre nom que celui du *fantasme*, de comprendre *la fonction déterminante* - *déterminante à la manière d’un support ou d’une monture* ai-je dit - qu’a, dans la détermination de *la refente du sujet*, *l’objet(a)*.
 
 <!-- id: s13-15-0107 -->
 
@@ -502,7 +534,7 @@ L’autre versant est celui qu’a la relation du désir. C’est donc une fonct
 
 <!-- id: s13-15-0112 -->
 
-> à savoir que l’homosexuelle était amenée à renoncer à son désir pour l’objet, pour ne pas renoncer à son sexe …est inexact, en anglais c’est *the wish*, et du moment que c’est *the wish*, ce n’est pas *le désir*, c’est *le vœu* ou *la demande*.
+à savoir que l’homosexuelle était amenée à renoncer à son désir pour l’objet, pour ne pas renoncer à son sexe …est inexact, en anglais c’est *the wish*, et du moment que c’est *the wish*, ce n’est pas *le désir*, c’est *le vœu* ou *la demande*.
 
 <!-- id: s13-15-0113 -->
 
@@ -602,7 +634,7 @@ Il y a quelque chose de tordu qui permet d’aborder d’une façon toute diffé
 
 <!-- id: s13-15-0137 -->
 
-> non pas d’une façon qui, en quelque sorte, s’en extrait comme si un jugement pouvait quelque part saisir la relation de l’*être* et du *non-être*, mais d’une façon qui y est, en quelque sorte, profondément impliquée …nous fait saisir que nous ne saurions d’aucune façon spéculer, raisonner, structurer tout ce qu’il en est du sujet, sans partir de ceci que nous-mêmes comme sujets soyons impliqués dans cette profonde *duplicité*, qui est la même que le *cogito* cartésien dégage, en se fixant sur un point de plus en plus réduit à l’idéal, jusqu’à être, lui de néant, qui est le « *Je pense* ».
+non pas d’une façon qui, en quelque sorte, s’en extrait comme si un jugement pouvait quelque part saisir la relation de l’*être* et du *non-être*, mais d’une façon qui y est, en quelque sorte, profondément impliquée …nous fait saisir que nous ne saurions d’aucune façon spéculer, raisonner, structurer tout ce qu’il en est du sujet, sans partir de ceci que nous-mêmes comme sujets soyons impliqués dans cette profonde *duplicité*, qui est la même que le *cogito* cartésien dégage, en se fixant sur un point de plus en plus réduit à l’idéal, jusqu’à être, lui de néant, qui est le « *Je pense* ».
 
 <!-- id: s13-15-0138 -->
 
@@ -674,7 +706,7 @@ Mais ceci nous permettra de comprendre à condition de nous apercevoir de l’an
 
 <!-- id: s13-15-0155 -->
 
-> si tant est qu’on puisse parler de la forme, mais enfin, puisque je la dessine, elle a une forme …je la représente *sous la forme inversée* par rapport à ce que vous voyez d’habitude, dans le dessin que j’ai appelé *son ouverture, son cercle de réversion,* la *bouteille de Klein* apparaît en haut comme le point \[J\] de tout à l’heure.
+si tant est qu’on puisse parler de la forme, mais enfin, puisque je la dessine, elle a une forme …je la représente *sous la forme inversée* par rapport à ce que vous voyez d’habitude, dans le dessin que j’ai appelé *son ouverture, son cercle de réversion,* la *bouteille de Klein* apparaît en haut comme le point \[J\] de tout à l’heure.
 
 <!-- id: s13-15-0156 -->
 
@@ -738,7 +770,7 @@ Mais enfin il est tout à fait clair que tout d’abord, il est impossible de d�
 
 <!-- id: s13-15-0171 -->
 
-> qui ne font justement que montrer qu’on pourrait *trouver des signes* s’il y en avait, puisque quelquefois on en trouve …il est tout à fait clair que partout ailleurs on n’en trouve pas, en tout cas de signes objectifs de l’orgasme chez la femelle.
+qui ne font justement que montrer qu’on pourrait *trouver des signes* s’il y en avait, puisque quelquefois on en trouve …il est tout à fait clair que partout ailleurs on n’en trouve pas, en tout cas de signes objectifs de l’orgasme chez la femelle.
 
 <!-- id: s13-15-0172 -->
 
@@ -758,7 +790,7 @@ Au mode de l’existence d’un organe érectile qui est très loin d’être un
 
 <!-- id: s13-15-0176 -->
 
-> *je ne vais pas m’amuser à faire ici pour vous de la biologie mais je vous prie d’ouvrir les gros traités de zoologie* …il y a des animaux qui réalisent la conjonction sexuelle à l’aide d’organes de fixation parfaitement non tumescibles *puisque ce sont* *purement et simplement* *des crochets*. Il parait bien évident que l’orgasme, dans ces cas, s’il existe, doit prendre, même chez le mâle, une toute autre apparence dont rien ne dit par exemple, qu’il serait susceptible de quelque subjectivation.
+*je ne vais pas m’amuser à faire ici pour vous de la biologie mais je vous prie d’ouvrir les gros traités de zoologie* …il y a des animaux qui réalisent la conjonction sexuelle à l’aide d’organes de fixation parfaitement non tumescibles *puisque ce sont* *purement et simplement* *des crochets*. Il parait bien évident que l’orgasme, dans ces cas, s’il existe, doit prendre, même chez le mâle, une toute autre apparence dont rien ne dit par exemple, qu’il serait susceptible de quelque subjectivation.
 
 <!-- id: s13-15-0177 -->
 
@@ -866,7 +898,7 @@ Au contraire - ce n’est pas moi qui le dis, c’est JONES - dans l’autre cas
 
 <!-- id: s13-15-0203 -->
 
-> je le répète je ne puis faire plus aujourd’hui que de dire : c’est JONES qui le dit.
+je le répète je ne puis faire plus aujourd’hui que de dire : c’est JONES qui le dit.
 
 <!-- id: s13-15-0204 -->
 

@@ -45,7 +45,11 @@ Ce n’est heureusement pas comme cela que FREUD *s’exprime*, *il s’exprime*
 
 <!-- id: s5-05-0008 -->
 
-> « *La source du plaisir dans le mot d’esprit* - va-t-il jusqu’à dire - *c’est simplement la plaisanterie.* »
+<div class="text-quotation">
+
+« *La source du plaisir dans le mot d’esprit* - va-t-il jusqu’à dire - *c’est simplement la plaisanterie.* »
+
+</div>
 
 <!-- id: s5-05-0009 -->
 
@@ -238,7 +242,11 @@ avec ce petit accent viennois que peut donner le ton de l’histoire, il lui dit
 
 <!-- id: s5-05-0041 -->
 
-> « *Comment ! Est-ce pour cela que je t’ai donné de l’argent ? Pour t’offrir du saumon mayonnaise !* »
+<div class="text-quotation">
+
+« *Comment ! Est-ce pour cela que je t’ai donné de l’argent ? Pour t’offrir du saumon mayonnaise !* »
+
+</div>
 
 <!-- id: s5-05-0042 -->
 
@@ -246,10 +254,14 @@ avec ce petit accent viennois que peut donner le ton de l’histoire, il lui dit
 
 <!-- id: s5-05-0043 -->
 
-> « *Mais alors je ne comprends pas !*
-> *Quand je n’ai pas d’argent je ne peux pas avoir de saumon mayonnaise.*
-> *Quand j’en ai je ne peux pas non plus en prendre !*
-> *Quand donc mangerai-je du saumon mayonnaise ?* »
+<div class="text-quotation">
+
+« *Mais alors je ne comprends pas !*
+*Quand je n’ai pas d’argent je ne peux pas avoir de saumon mayonnaise.*
+*Quand j’en ai je ne peux pas non plus en prendre !*
+*Quand donc mangerai-je du saumon mayonnaise ?* »
+
+</div>
 
 <!-- id: s5-05-0044 -->
 
@@ -291,7 +303,11 @@ Quant à « *Visiter les malades* », je rappellerai le *mot* de Sacha GUITRY 
 
 <!-- id: s5-05-0051 -->
 
-> « *Faire une visite fait toujours plaisir. Si ce n’est pas quand on arrive, c’est au moins quand on s’en va !* »
+<div class="text-quotation">
+
+« *Faire une visite fait toujours plaisir. Si ce n’est pas quand on arrive, c’est au moins quand on s’en va !* »
+
+</div>
 
 <!-- id: s5-05-0052 -->
 
@@ -864,7 +880,11 @@ comme le dit quelque part FREUD, *cette conditionnalité subjective essentielle*
 
 <!-- id: s5-05-0170 -->
 
-> « *N’est trait d’esprit*...
+<div class="text-quotation">
+
+« *N’est trait d’esprit*...
+
+</div>
 
 <!-- id: s5-05-0171 -->
 
@@ -872,7 +892,11 @@ Dit-il avec ce *caractère acéré des formules* qu’on ne trouve presque dans 
 
 <!-- id: s5-05-0172 -->
 
-> « *N’est trait d’esprit que ce que je reconnais moi-même comme trait d’esprit.* »
+<div class="text-quotation">
+
+« *N’est trait d’esprit que ce que je reconnais moi-même comme trait d’esprit.* »
+
+</div>
 
 <!-- id: s5-05-0173 -->
 

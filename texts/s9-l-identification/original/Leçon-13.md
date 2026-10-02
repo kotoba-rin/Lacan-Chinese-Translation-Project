@@ -359,11 +359,11 @@ Vous savez l’importance, l’accent, que j’ai mis, après d’autres - aprè
 
 <!-- id: s9-13-0078 -->
 
-> qui jusqu’alors n’a été que l’objet sous-jacent, élidé, masqué pour lui derrière ce retour d’une présence liée à chacune
->
-> de ses satisfactions, qui n’a été - dans ce rythme où s’est inscrite, où se sent la nécessité de sa première *dépen­dance* –
->
-> que l’*objet métonymique* de chacun de ces retours ...le voici soudain pour lui produit dans l’éclairage - aux effets pour nous signalés par *sa pâleur mortelle* - l’éclairage de ce *quelque chose* de nouveau qui est *le désir*.
+qui jusqu’alors n’a été que l’objet sous-jacent, élidé, masqué pour lui derrière ce retour d’une présence liée à chacune
+
+de ses satisfactions, qui n’a été - dans ce rythme où s’est inscrite, où se sent la nécessité de sa première *dépen­dance* –
+
+que l’*objet métonymique* de chacun de ces retours ...le voici soudain pour lui produit dans l’éclairage - aux effets pour nous signalés par *sa pâleur mortelle* - l’éclairage de ce *quelque chose* de nouveau qui est *le désir*.
 
 <!-- id: s9-13-0079 -->
 
@@ -463,9 +463,9 @@ Que s’il y avait quelque chose à faire pour imaginer le sujet par rapport à 
 
 <!-- id: s9-13-0103 -->
 
-> si je puis me permettre pour vous de pousser, d’exploiter
->
-> \- mais vous verrez qu’il y a plus d’une façon de le faire - son image intuitive
+si je puis me permettre pour vous de pousser, d’exploiter
+
+\- mais vous verrez qu’il y a plus d’une façon de le faire - son image intuitive
 
 <!-- id: s9-13-0104 -->
 

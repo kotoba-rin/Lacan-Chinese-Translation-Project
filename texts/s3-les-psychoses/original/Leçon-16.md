@@ -98,7 +98,7 @@ En d’autres termes, est-ce que pour tout ce qui est signification, pour l’ê
 
 <!-- id: s3-16-0024 -->
 
-> tous, quels qu’ils soient, si profonds, si primitifs, si élémentaires que nous les supposions
+tous, quels qu’ils soient, si profonds, si primitifs, si élémentaires que nous les supposions
 
 <!-- id: s3-16-0025 -->
 
@@ -124,7 +124,7 @@ C’est là l’intérêt de la considération linguistique du problème, c’es
 
 <!-- id: s3-16-0030 -->
 
-> le fait de ne pas s’occuper que de ça représente justement, doit représenter, doit se retrouver exactement partout où notre recherche analytique se heurte à des impasses, soit à des confusions, soit la plupart du temps à des sortes de cercles et de tautologies.
+le fait de ne pas s’occuper que de ça représente justement, doit représenter, doit se retrouver exactement partout où notre recherche analytique se heurte à des impasses, soit à des confusions, soit la plupart du temps à des sortes de cercles et de tautologies.
 
 <!-- id: s3-16-0031 -->
 
@@ -136,9 +136,9 @@ Mais c’est que *ces significations*, que toute une zone de significations…
 
 <!-- id: s3-16-0033 -->
 
-> et qui sont des plus primordiales, des plus enracinées, des plus proches des besoins au sens de l’insertion
->
-> la plus animale dans l’entourage en tant que nutritif et en tant que captivant
+et qui sont des plus primordiales, des plus enracinées, des plus proches des besoins au sens de l’insertion
+
+la plus animale dans l’entourage en tant que nutritif et en tant que captivant
 
 <!-- id: s3-16-0034 -->
 
@@ -154,7 +154,7 @@ Et que le signifiant « *homme* » comme le signifiant « *femme* » sont au
 
 <!-- id: s3-16-0037 -->
 
-> qu’attitude passive ou qu’attitude active, qu’attitude agressive ou qu’attitude cédante
+qu’attitude passive ou qu’attitude active, qu’attitude agressive ou qu’attitude cédante
 
 <!-- id: s3-16-0038 -->
 
@@ -178,9 +178,9 @@ Mais si nous ajoutons que le passage du sujet par cette expérience *symbolique*
 
 <!-- id: s3-16-0043 -->
 
-> et par toutes nos voies, par tout ce qui court dans la littérature, dans la façon dont nous expliquons
->
-> les choses, dont nous nous accordons sur un certain nombre de principes fondamentaux
+et par toutes nos voies, par tout ce qui court dans la littérature, dans la façon dont nous expliquons
+
+les choses, dont nous nous accordons sur un certain nombre de principes fondamentaux
 
 <!-- id: s3-16-0044 -->
 
@@ -274,7 +274,7 @@ Qu’est-ce que ceci comporte et va pouvoir dire ? Essayez ce que peut être l�
 
 <!-- id: s3-16-0066 -->
 
-> c’est notre expérience qui à tout instant nous le fait sentir
+c’est notre expérience qui à tout instant nous le fait sentir
 
 <!-- id: s3-16-0067 -->
 
@@ -286,7 +286,7 @@ Est–ce que vous vous imaginez le terme de « *pensée magique »*…
 
 <!-- id: s3-16-0069 -->
 
-> avec lequel *la connerie scientifique moderne* s’exprime pour chaque fois qu’on se trouve devant quelque chose qui semble dépasser ces petites cervelles ratatinées de gens dont il semble que pour pénétrer dans le domaine de la culture, la condition première et indispensable est que rien d’eux­mêmes les prenne dans un désir quelconque qui les humanise
+avec lequel *la connerie scientifique moderne* s’exprime pour chaque fois qu’on se trouve devant quelque chose qui semble dépasser ces petites cervelles ratatinées de gens dont il semble que pour pénétrer dans le domaine de la culture, la condition première et indispensable est que rien d’eux­mêmes les prenne dans un désir quelconque qui les humanise
 
 <!-- id: s3-16-0070 -->
 
@@ -294,7 +294,7 @@ Est–ce que vous vous imaginez le terme de « *pensée magique »*…
 
 <!-- id: s3-16-0071 -->
 
-> des gens qui avaient toutes les chances d’avoir les mêmes rapports sur la naissance, qui nous ont interprété la naissance du monde comme *le jour et la nuit*, comme *la terre et le ciel*, comme des entités qui se conjuguent et qui copulent, et qui, dans une famille mêlée d’assassinats, d’incestes, d’éclipses extraordinaires, de disparitions, métamorphoses, mutilations de tel ou tel terme
+des gens qui avaient toutes les chances d’avoir les mêmes rapports sur la naissance, qui nous ont interprété la naissance du monde comme *le jour et la nuit*, comme *la terre et le ciel*, comme des entités qui se conjuguent et qui copulent, et qui, dans une famille mêlée d’assassinats, d’incestes, d’éclipses extraordinaires, de disparitions, métamorphoses, mutilations de tel ou tel terme
 
 <!-- id: s3-16-0072 -->
 
@@ -342,7 +342,7 @@ Est-ce que ce n’est pas de cela justement qu’il s’agit quand, dans cette p
 
 <!-- id: s3-16-0083 -->
 
-> il faut bien le dire, tout à fait à la différence du primitif qui a tout de même des clefs - grâce à ses mythes - pour toutes sortes de situations extraordinaires : il y a des clefs pour le cas où il se met en rupture avec tout, il est encore pris, il retrouve encore la possibilité des signifiants qui le supportent à ce moment-là, qui lui disent par exemple très exactement la forme de la punition que comporte sa sortie qui peut produire à plus d’un niveau des désordres et de la règle qui lui impose son rythme fondamental
+il faut bien le dire, tout à fait à la différence du primitif qui a tout de même des clefs - grâce à ses mythes - pour toutes sortes de situations extraordinaires : il y a des clefs pour le cas où il se met en rupture avec tout, il est encore pris, il retrouve encore la possibilité des signifiants qui le supportent à ce moment-là, qui lui disent par exemple très exactement la forme de la punition que comporte sa sortie qui peut produire à plus d’un niveau des désordres et de la règle qui lui impose son rythme fondamental
 
 <!-- id: s3-16-0084 -->
 
@@ -422,7 +422,7 @@ Et nous avons très bien compris qu’il y avait eu quelque chose qui s’était
 
 <!-- id: s3-16-0103 -->
 
-> à travers l’existence de celui qui était devenu vraiment son point d’enracinement dans l’existence
+à travers l’existence de celui qui était devenu vraiment son point d’enracinement dans l’existence
 
 <!-- id: s3-16-0104 -->
 
@@ -498,9 +498,9 @@ Il s’agit donc de savoir ce qui se passe quand le sujet se trouve affronté no
 
 <!-- id: s3-16-0122 -->
 
-> bien entendu, cela pourra entraîner toutes sortes de conflits, et plus d’un.
->
-> C’est justement là que nous nous apercevons de la structure particulière du conflit
+bien entendu, cela pourra entraîner toutes sortes de conflits, et plus d’un.
+
+C’est justement là que nous nous apercevons de la structure particulière du conflit
 
 <!-- id: s3-16-0123 -->
 
@@ -512,9 +512,9 @@ Quand nous voyons que ce qui se passe est infiniment plus manifeste, plus ordonn
 
 <!-- id: s3-16-0125 -->
 
-> je veux dire que tout ce qui était éléments fondamentaux du signifiant ne forme jamais
->
-> \- parce que la signifiance même du signifiant - que quelque chose de cohérent
+je veux dire que tout ce qui était éléments fondamentaux du signifiant ne forme jamais
+
+\- parce que la signifiance même du signifiant - que quelque chose de cohérent
 
 <!-- id: s3-16-0126 -->
 
@@ -562,7 +562,7 @@ Par exemple, il s’agirait de le protéger contre les tentations homosexuelles.
 
 <!-- id: s3-16-0137 -->
 
-> comme si c’était la même chose, la réalité des murailles contre lesquelles nous nous cognons
+comme si c’était la même chose, la réalité des murailles contre lesquelles nous nous cognons
 
 <!-- id: s3-16-0138 -->
 
@@ -610,7 +610,7 @@ Quand par exemple le registre du père, dans sa fonction essentielle, dans ce qu
 
 <!-- id: s3-16-0149 -->
 
-> si notre expérience existe, d’essentiel pour l’accession au type de la virilité.
+si notre expérience existe, d’essentiel pour l’accession au type de la virilité.
 
 <!-- id: s3-16-0150 -->
 

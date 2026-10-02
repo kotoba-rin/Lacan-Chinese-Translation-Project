@@ -10,7 +10,7 @@ Peut-être certains d’entre vous, qui par hasard seraient philosophes, entrevo
 
 <!-- id: s16-18-0002 -->
 
-> un peu dépassée par un effet de la lassitude plutôt que d’avoir reçu une effective solution …celle qui s’ouvre entre les termes d’*idéalisme* et de *réalisme*, se trouve ici renouvelée.
+un peu dépassée par un effet de la lassitude plutôt que d’avoir reçu une effective solution …celle qui s’ouvre entre les termes d’*idéalisme* et de *réalisme*, se trouve ici renouvelée.
 
 <!-- id: s16-18-0003 -->
 
@@ -22,9 +22,9 @@ Il n’a pas été réfuté philosophiquement. Cela veut dire que *le sens commu
 
 <!-- id: s16-18-0005 -->
 
-> réaliste dans les termes où l’idéalisme pose la question
->
-> à savoir que nous ne connaîtrions, à l’entendre, du réel que les représentations …il est clair que cette position qui, à partir d’un certain schéma est irréfutable, l’est quand même - réfutable - à partir du moment où on ne fait pas de la représentation le reflet pur et simple du réel. Je vais y revenir.
+réaliste dans les termes où l’idéalisme pose la question
+
+à savoir que nous ne connaîtrions, à l’entendre, du réel que les représentations …il est clair que cette position qui, à partir d’un certain schéma est irréfutable, l’est quand même - réfutable - à partir du moment où on ne fait pas de la représentation le reflet pur et simple du réel. Je vais y revenir.
 
 <!-- id: s16-18-0006 -->
 
@@ -40,11 +40,11 @@ Il est difficile de ne pas s’apercevoir que même *à l’intérieur de la myt
 
 <!-- id: s16-18-0009 -->
 
-> comme dépendant d’un certain nombre de conditions et nommément sociales, c’est à savoir celles de la production …est-ce position de réalisme que de se référer à un réel qui en tant que tel…
+comme dépendant d’un certain nombre de conditions et nommément sociales, c’est à savoir celles de la production …est-ce position de réalisme que de se référer à un réel qui en tant que tel…
 
 <!-- id: s16-18-0010 -->
 
-> *à savoir en ceci que la pensée en est toujours dépendante* …ne peut de ce fait être pleinement appréhendée, et ceci d’autant plus, que ce réel, nous considérons que nous sommes en état de le transformer à proprement parler. Ces réflexions sont massives. Ce que j’entends faire observer, c’est que ce réel par rapport auquel nous devons considérer - c’est là le sens de la critique dite de l’idéologie - notre savoir comme en progrès, est partie intégrante d’*une subversion que nous introduisons dans le réel*.
+*à savoir en ceci que la pensée en est toujours dépendante* …ne peut de ce fait être pleinement appréhendée, et ceci d’autant plus, que ce réel, nous considérons que nous sommes en état de le transformer à proprement parler. Ces réflexions sont massives. Ce que j’entends faire observer, c’est que ce réel par rapport auquel nous devons considérer - c’est là le sens de la critique dite de l’idéologie - notre savoir comme en progrès, est partie intégrante d’*une subversion que nous introduisons dans le réel*.
 
 <!-- id: s16-18-0011 -->
 
@@ -68,7 +68,7 @@ C’est toujours comme un présupposé, et pour tout dire, un préjugé d’auta
 
 <!-- id: s16-18-0016 -->
 
-> à constituer un savoir qui est appareil se développant à partir du présupposé radical que nous n’avons affaire à rien d’autre qu’aux appareils de ce que non seulement manie le sujet mais où il peut se purifier en tant que tel, n’étant plus rien que le support de ce qui s’articule comme savoir ordonné dans un certain discours, un discours séparé de celui de l’opinion et qui comme tel s’en distingue comme discours de la science, …il reste que, ce pas fait, rien n’a été porté d’une question sérieuse sur les implications qui - malgré nous - persistent de ce préjugé en tant qu’il est non critiqué. C’est à savoir que ce savoir, à le découvrir, devons-nous, oui ou non, le penser « *fait de pensée* », qu’il est une place où ce savoir, que nous le voulions ou pas, nous le concevons comme ordonné déjà.
+à constituer un savoir qui est appareil se développant à partir du présupposé radical que nous n’avons affaire à rien d’autre qu’aux appareils de ce que non seulement manie le sujet mais où il peut se purifier en tant que tel, n’étant plus rien que le support de ce qui s’articule comme savoir ordonné dans un certain discours, un discours séparé de celui de l’opinion et qui comme tel s’en distingue comme discours de la science, …il reste que, ce pas fait, rien n’a été porté d’une question sérieuse sur les implications qui - malgré nous - persistent de ce préjugé en tant qu’il est non critiqué. C’est à savoir que ce savoir, à le découvrir, devons-nous, oui ou non, le penser « *fait de pensée* », qu’il est une place où ce savoir, que nous le voulions ou pas, nous le concevons comme ordonné déjà.
 
 <!-- id: s16-18-0017 -->
 
@@ -116,9 +116,9 @@ Et à cet endroit leur pensée reste retardataire au point qu’il est facile de
 
 <!-- id: s16-18-0028 -->
 
-> dit « patient » à plus ou moins juste titre, mais en tout cas,
->
-> quoi qu’il en soit, traité, tressé dans *l’acte même de l’expérience psychanalytique* …renforcer chez ce sujet les mêmes préjugés.
+dit « patient » à plus ou moins juste titre, mais en tout cas,
+
+quoi qu’il en soit, traité, tressé dans *l’acte même de l’expérience psychanalytique* …renforcer chez ce sujet les mêmes préjugés.
 
 <!-- id: s16-18-0029 -->
 
@@ -138,7 +138,7 @@ Comment, avec l’usage qui est fait couramment, non seulement jour après jour 
 
 <!-- id: s16-18-0033 -->
 
-> s’ils ne sont pas en eux-mêmes critiqués d’une façon correcte …comment ne pouvons-nous pas voir leur effet inhibant sur la pensée de l’analyste lui-même, et bien plus : *leur effet suggestif* dans l’intervention interprétative et sous le mode dont il n’y a aucun excès à dire qu’il ne peut être que crétinisant.
+s’ils ne sont pas en eux-mêmes critiqués d’une façon correcte …comment ne pouvons-nous pas voir leur effet inhibant sur la pensée de l’analyste lui-même, et bien plus : *leur effet suggestif* dans l’intervention interprétative et sous le mode dont il n’y a aucun excès à dire qu’il ne peut être que crétinisant.
 
 <!-- id: s16-18-0034 -->
 
@@ -146,9 +146,9 @@ Est-ce qu’*un dedans* et *un dehors*…
 
 <!-- id: s16-18-0035 -->
 
-> ce qui a l’air d’aller de soi si nous considérons l’organisme, à savoir un individu qui en effet est bien là,
->
-> ce qui est dedans c’est ce qui est dans son *sac de peau*, et ce qui est dehors, c’est tout le reste …que de là le pas se fasse que ce qu’il se représente de ce dehors doit être aussi à l’intérieur du sac de peau est quelque chose qui, d’un premier abord, paraît un pas modeste et comme allant de soi.
+ce qui a l’air d’aller de soi si nous considérons l’organisme, à savoir un individu qui en effet est bien là,
+
+ce qui est dedans c’est ce qui est dans son *sac de peau*, et ce qui est dehors, c’est tout le reste …que de là le pas se fasse que ce qu’il se représente de ce dehors doit être aussi à l’intérieur du sac de peau est quelque chose qui, d’un premier abord, paraît un pas modeste et comme allant de soi.
 
 <!-- id: s16-18-0036 -->
 
@@ -180,7 +180,7 @@ Il n’y a même pas besoin de recourir à quelque chose qui est tout de même a
 
 <!-- id: s16-18-0043 -->
 
-> ce par quoi il l’aborde, ce où il entend rendre compte du fait de la vision …a quelque chose qui nous fait à soi tout seul apercevoir qu’il lui manque de façon frappante ce qui pour nous ne fait pas question, à savoir l’appareil le plus *élémentaire* de l’optique dont après tout c’est bien là l’occasion de dire quel avantage il y aurait à ce qu’on fasse une étude du point où en était - concernant l’optique à proprement parler - la science antique, cette science qui a été fort loin, beaucoup plus loin même qu’on ne le croit, dans toutes sortes de vues mécaniques, mais dont il semble en effet que, sur le point propre de l’optique, elle ait présenté un remarquable blanc.
+ce par quoi il l’aborde, ce où il entend rendre compte du fait de la vision …a quelque chose qui nous fait à soi tout seul apercevoir qu’il lui manque de façon frappante ce qui pour nous ne fait pas question, à savoir l’appareil le plus *élémentaire* de l’optique dont après tout c’est bien là l’occasion de dire quel avantage il y aurait à ce qu’on fasse une étude du point où en était - concernant l’optique à proprement parler - la science antique, cette science qui a été fort loin, beaucoup plus loin même qu’on ne le croit, dans toutes sortes de vues mécaniques, mais dont il semble en effet que, sur le point propre de l’optique, elle ait présenté un remarquable blanc.
 
 <!-- id: s16-18-0044 -->
 
@@ -192,7 +192,7 @@ Il est extrêmement frappant de voir qu’un certain détour de la science, qui 
 
 <!-- id: s16-18-0046 -->
 
-> lequel, vous le savez, a été aussi inaugurant et génial quant à l’optique qu’il l’a été quant à la loi de la gravitation …dont ce n’est pas pour rien à ce tournant que je rappellerai que ce dont lui fit louange son temps, c’est très exactement d’avoir été à la hauteur - ceci fut articulé, et par les meilleurs esprits - des desseins de Dieu qu’il s’est trouvé *déchiffrer*.
+lequel, vous le savez, a été aussi inaugurant et génial quant à l’optique qu’il l’a été quant à la loi de la gravitation …dont ce n’est pas pour rien à ce tournant que je rappellerai que ce dont lui fit louange son temps, c’est très exactement d’avoir été à la hauteur - ceci fut articulé, et par les meilleurs esprits - des desseins de Dieu qu’il s’est trouvé *déchiffrer*.
 
 <!-- id: s16-18-0047 -->
 
@@ -212,7 +212,7 @@ Il semble impliqué dans cette fonction du sujet modelé sur la chambre noire qu
 
 <!-- id: s16-18-0051 -->
 
-> et qui n’est plus qu’*image*, pour ne plus se traduire que comme *image au-dedans* …au-dehors dans un espace que rien ne limite en principe, tout peut venir à prendre place à l’intérieur de la chambre.
+et qui n’est plus qu’*image*, pour ne plus se traduire que comme *image au-dedans* …au-dehors dans un espace que rien ne limite en principe, tout peut venir à prendre place à l’intérieur de la chambre.
 
 <!-- id: s16-18-0052 -->
 
@@ -224,7 +224,7 @@ Une surface, bien sûr, nous dit-on, c’est déjà quelque chose dans le texte 
 
 <!-- id: s16-18-0054 -->
 
-> parce que les représentations ne peuvent être mises ailleurs …que du même coup on y met tout le reste, à savoir ce qu’on appelle diversement, confusément, *affects, instincts, pulsions*. Tout cela est dans le dedans.
+parce que les représentations ne peuvent être mises ailleurs …que du même coup on y met tout le reste, à savoir ce qu’on appelle diversement, confusément, *affects, instincts, pulsions*. Tout cela est dans le dedans.
 
 <!-- id: s16-18-0055 -->
 
@@ -292,7 +292,7 @@ Mais l’important, dans l’histoire, ce n’est pas ça…
 
 <!-- id: s16-18-0071 -->
 
-> à savoir que nous nous laissions piper à une image de plus, et spécialement *dépendante d’un certain état de la technique* …c’est qu’effectivement, son argumentation soit *irréfutable*.
+à savoir que nous nous laissions piper à une image de plus, et spécialement *dépendante d’un certain état de la technique* …c’est qu’effectivement, son argumentation soit *irréfutable*.
 
 <!-- id: s16-18-0072 -->
 
@@ -404,9 +404,9 @@ Car je vous le demande : *qu’est-ce que suppose ce terme de projection*…
 
 <!-- id: s16-18-0099 -->
 
-> quand il s’agit non plus de ce qui se voit mais de l’*imaginaire*, si ce n’est que nous supposons,
->
-> au regard d’une certaine configuration affective qui est celle autour de quoi, à tel moment, à telle date, nous supposons que le sujet « *patient* » modifie le monde …*qu’est–ce que c’est que cette projection, sinon la supposition de ceci* : *que c’est du dedans que le faisceau lumineux part qui va peindre le monde*, tout comme dans les temps antiques, il en était certains pour imaginer ces rayons qui partant de l’œil, allaient en effet nous éclairer le monde et les objets, quelque énigmatique que fût ce rayonnement de la vision.
+quand il s’agit non plus de ce qui se voit mais de l’*imaginaire*, si ce n’est que nous supposons,
+
+au regard d’une certaine configuration affective qui est celle autour de quoi, à tel moment, à telle date, nous supposons que le sujet « *patient* » modifie le monde …*qu’est–ce que c’est que cette projection, sinon la supposition de ceci* : *que c’est du dedans que le faisceau lumineux part qui va peindre le monde*, tout comme dans les temps antiques, il en était certains pour imaginer ces rayons qui partant de l’œil, allaient en effet nous éclairer le monde et les objets, quelque énigmatique que fût ce rayonnement de la vision.
 
 <!-- id: s16-18-0100 -->
 
@@ -458,7 +458,7 @@ Et en quoi dans *la circonvolution* l’image deviendra-t-elle tout d’un coup�
 
 <!-- id: s16-18-0112 -->
 
-> parce qu’elle est dans une circonvolution plutôt que d’être sur la rétine …quelque chose de synthétique ?
+parce qu’elle est dans une circonvolution plutôt que d’être sur la rétine …quelque chose de synthétique ?
 
 <!-- id: s16-18-0113 -->
 
@@ -506,13 +506,13 @@ Voilà quelque chose qui n’est plus bafouillage, si nous nous apercevons que c
 
 <!-- id: s16-18-0124 -->
 
-> de métaphore du point nié dans le champ de la vision, comme mise au principe de ce qui fait non pas
->
-> son déploiement plus ou moins de mirage, mais ce qui attache le sujet en tant que ce sujet est quelque chose
->
-> dont le savoir est tout entier déterminé par un autre manque plus radical, plus essentiel, qui est celui de ce qui
->
-> le concerne en tant qu’être sexué …c’est là ce qui fait apparaître comment le champ de la vision s’insère dans le désir.
+de métaphore du point nié dans le champ de la vision, comme mise au principe de ce qui fait non pas
+
+son déploiement plus ou moins de mirage, mais ce qui attache le sujet en tant que ce sujet est quelque chose
+
+dont le savoir est tout entier déterminé par un autre manque plus radical, plus essentiel, qui est celui de ce qui
+
+le concerne en tant qu’être sexué …c’est là ce qui fait apparaître comment le champ de la vision s’insère dans le désir.
 
 <!-- id: s16-18-0125 -->
 
@@ -520,7 +520,7 @@ Et après tout pourquoi n’y a-t-il pas moyen d’admettre que ce qui fait qu�
 
 <!-- id: s16-18-0126 -->
 
-> du *manque* lui-même parfaitement articulé et articulé comme *manque* …à savoir ceci qui est le seul terme grâce à quoi ce qu’il en est de l’être parlant peut se repérer : au regard de ce qu’il en est de son appartenance *sexuelle*.
+du *manque* lui-même parfaitement articulé et articulé comme *manque* …à savoir ceci qui est le seul terme grâce à quoi ce qu’il en est de l’être parlant peut se repérer : au regard de ce qu’il en est de son appartenance *sexuelle*.
 
 <!-- id: s16-18-0127 -->
 
@@ -574,7 +574,7 @@ Mais à un niveau radical, au niveau de la logification de notre expérience, S(
 
 <!-- id: s16-18-0139 -->
 
-> et vous savez quelles réserves je fais sur ces épinglages philosophiques …c’est en tant que le rapport entre ce que permet d’édifier une logique rigoureuse avec ce que d’autre part dans l’inconscient nous est montré de *certains défauts d’articulation irréductibles* d’où procède cet effort même qui témoigne du désir de savoir.
+et vous savez quelles réserves je fais sur ces épinglages philosophiques …c’est en tant que le rapport entre ce que permet d’édifier une logique rigoureuse avec ce que d’autre part dans l’inconscient nous est montré de *certains défauts d’articulation irréductibles* d’où procède cet effort même qui témoigne du désir de savoir.
 
 <!-- id: s16-18-0140 -->
 
@@ -590,13 +590,13 @@ Et si vous me permettez de terminer sur quelques jeux de mots en quelque sorte h
 
 <!-- id: s16-18-0143 -->
 
-> le fait que la femme est distinguée de ceci qu’elle n’a pas *le phallus* …que ceci par cette opération mystérieuse de *l’objet(a)* est bouché, et est masqué, et est comblé, est-ce que ce n’est pas là que s’articule cette formule que déjà une fois j’ai poussée en avant…
+le fait que la femme est distinguée de ceci qu’elle n’a pas *le phallus* …que ceci par cette opération mystérieuse de *l’objet(a)* est bouché, et est masqué, et est comblé, est-ce que ce n’est pas là que s’articule cette formule que déjà une fois j’ai poussée en avant…
 
 <!-- id: s16-18-0144 -->
 
-> que cette façon de parer à la béance radicale dans l’ordre du signifiant que représente le recours à la castration, *d’y parer* - ce qui est la base et le principe de la structure perverse - *en pourvoyant de quelque chose qui comble*,
->
-> qui remplace le manque phallique, en pourvoyant cet Autre et en tant qu’il est asexué …est-ce que ce n’est pas cela qu’un jour, devant vous, j’avais désigné du terme de « *l’hommelle* ».
+que cette façon de parer à la béance radicale dans l’ordre du signifiant que représente le recours à la castration, *d’y parer* - ce qui est la base et le principe de la structure perverse - *en pourvoyant de quelque chose qui comble*,
+
+qui remplace le manque phallique, en pourvoyant cet Autre et en tant qu’il est asexué …est-ce que ce n’est pas cela qu’un jour, devant vous, j’avais désigné du terme de « *l’hommelle* ».
 
 <!-- id: s16-18-0145 -->
 
@@ -604,7 +604,7 @@ Voilà une référence qui…
 
 <!-- id: s16-18-0146 -->
 
-> quant à l’assiette d’un certain dehors au regard du jeu de l’inconscient …vous rendra dans son épinglage, paraît-il seulement pittoresque, quelques services.
+quant à l’assiette d’un certain dehors au regard du jeu de l’inconscient …vous rendra dans son épinglage, paraît-il seulement pittoresque, quelques services.
 
 <!-- id: s16-18-0147 -->
 
@@ -648,7 +648,7 @@ Si pour le pervers, il faut qu’il y ait une femme « *non châtrée* », ou 
 
 <!-- id: s16-18-0157 -->
 
-> dont le « *je* » est véritablement l’enjeu de ce dont il s’agit dans le drame familial …c’est cet *objet(a)* en tant que libéré.
+dont le « *je* » est véritablement l’enjeu de ce dont il s’agit dans le drame familial …c’est cet *objet(a)* en tant que libéré.
 
 <!-- id: s16-18-0158 -->
 

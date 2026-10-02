@@ -26,7 +26,7 @@ Alors, la seule excuse...
 
 <!-- id: s23-09-0006 -->
 
-> parce qu’à la vérité, j’ai besoin d’excuses. J’ai besoin d’excuses au moins à mes yeux ...la seule excuse que j’ai, de vous dire quelque chose aujourd’hui, c’est que ça va être *sensé*.
+parce qu’à la vérité, j’ai besoin d’excuses. J’ai besoin d’excuses au moins à mes yeux ...la seule excuse que j’ai, de vous dire quelque chose aujourd’hui, c’est que ça va être *sensé*.
 
 <!-- id: s23-09-0007 -->
 
@@ -58,9 +58,9 @@ J’ai dit que s’il s’y cassait les dents lui-même, parce que Jacques Auber
 
 <!-- id: s23-09-0014 -->
 
-> pas plus que n’importe qui d’ailleurs, pas plus qu’un nommé Adams
->
-> qui a fait des tours de force dans ce genre ...n’arrive pas à cette façon aisée de le présenter.
+pas plus que n’importe qui d’ailleurs, pas plus qu’un nommé Adams
+
+qui a fait des tours de force dans ce genre ...n’arrive pas à cette façon aisée de le présenter.
 
 <!-- id: s23-09-0015 -->
 
@@ -324,7 +324,7 @@ Il n’en reste pas moins que...
 
 <!-- id: s23-09-0080 -->
 
-> vous le contrôlerez j’es­père, j’y reviendrai la pro­chaine fois ...non seulement il y a un obstacle, mais il est *radi­calement impossible* de sépa­rer les quatre éléments.
+vous le contrôlerez j’es­père, j’y reviendrai la pro­chaine fois ...non seulement il y a un obstacle, mais il est *radi­calement impossible* de sépa­rer les quatre éléments.
 
 <!-- id: s23-09-0081 -->
 
@@ -336,7 +336,7 @@ Que veut dire que je proteste, dans mon séminaire *Encore,* paraît-il...
 
 <!-- id: s23-09-0083 -->
 
-> parce que bien sûr je le lis jamais, c’est les autres qui le lisent ...contre l’équivalence donnée, paraît-il par certains - je l’avais totalement oublié - du S(**A**) avec la fonction Φ... je dis, non pas le petit φ mais le grand Φ ...qui est *une fonction*, comme l’implique ce que j’ai indiqué, à savoir qu’*il existe un x pour qui cette fonction est négative* : : §.
+parce que bien sûr je le lis jamais, c’est les autres qui le lisent ...contre l’équivalence donnée, paraît-il par certains - je l’avais totalement oublié - du S(**A**) avec la fonction Φ... je dis, non pas le petit φ mais le grand Φ ...qui est *une fonction*, comme l’implique ce que j’ai indiqué, à savoir qu’*il existe un x pour qui cette fonction est négative* : : §.
 
 <!-- id: s23-09-0084 -->
 
@@ -420,7 +420,7 @@ On ne se reconnaît jamais...
 
 <!-- id: s23-09-0104 -->
 
-> c’est impliqué par ce que j’avance, c’est impliqué par le fait reconnu par Freud qu’il y a de l’inconscient ...on ne se reconnaît jamais dans ce qu’on est. C’est le premier pas de la psychanalyse.
+c’est impliqué par ce que j’avance, c’est impliqué par le fait reconnu par Freud qu’il y a de l’inconscient ...on ne se reconnaît jamais dans ce qu’on est. C’est le premier pas de la psychanalyse.
 
 <!-- id: s23-09-0105 -->
 
@@ -484,7 +484,7 @@ l’Histoire des faits auxquels s’intéressent les historiens ...il y a le myt
 
 <!-- id: s23-09-0120 -->
 
-> du *sinthome* de Dublin, qui ne prend âme que du sien à lui ...ne manque pas - chose fabuleuse - de tomber dans le mythe [Vico](https://fr.wikipedia.org/wiki/Giambattista_Vico) qui soutient le *Finnegan’s Wake.*
+du *sinthome* de Dublin, qui ne prend âme que du sien à lui ...ne manque pas - chose fabuleuse - de tomber dans le mythe [Vico](https://fr.wikipedia.org/wiki/Giambattista_Vico) qui soutient le *Finnegan’s Wake.*
 
 <!-- id: s23-09-0121 -->
 
@@ -500,7 +500,7 @@ On ne retrouve pas...
 
 <!-- id: s23-09-0124 -->
 
-> ou bien c’est désigner qu’on ne fait jamais que tourner en rond ...on trouve !
+ou bien c’est désigner qu’on ne fait jamais que tourner en rond ...on trouve !
 
 <!-- id: s23-09-0125 -->
 
@@ -540,9 +540,9 @@ L’incroyable c’est que Joyce, qui avait le plus grand mépris de l’Histoir
 
 <!-- id: s23-09-0134 -->
 
-> en effet futile, qu’il qualifie de cauchemar, de cauchemar dont le caractère
->
-> est de lâcher sur nous les grands mots dont il souligne qu’ils nous font tant de mal ...n’ait pu trouver, enfin, que cette solution : écrire *Finnegan’s Wake.*
+en effet futile, qu’il qualifie de cauchemar, de cauchemar dont le caractère
+
+est de lâcher sur nous les grands mots dont il souligne qu’ils nous font tant de mal ...n’ait pu trouver, enfin, que cette solution : écrire *Finnegan’s Wake.*
 
 <!-- id: s23-09-0135 -->
 
@@ -570,7 +570,7 @@ Alors, ce qui est le signe de mon empêtrement, c’est bien Joyce, c’est bien
 
 <!-- id: s23-09-0141 -->
 
-> et avance d’une façon tout à fait spécialement artiste : il sait y faire ...c’est le *sinthome*. Et *sinthome* tel qu’il y ait rien à faire pour l’*analyser*.
+et avance d’une façon tout à fait spécialement artiste : il sait y faire ...c’est le *sinthome*. Et *sinthome* tel qu’il y ait rien à faire pour l’*analyser*.
 
 <!-- id: s23-09-0142 -->
 
@@ -578,9 +578,9 @@ J’ai dit ça récemment : un catholique...
 
 <!-- id: s23-09-0143 -->
 
-> un catholique de bonne roche, comme était Joyce, qui n’a jamais pu faire qu’il ait pas été sainement élevé par les jésuites... un catholique, un vrai de vrai... mais bien sûr, il y en a pas un de vrai ici, bien sûr,
->
-> vous n’avez pas été élevés chez les Jésuites, n’importe qui d’entre vous ! ...ben, un catholique est inanalysable. \[*Rires*\]
+un catholique de bonne roche, comme était Joyce, qui n’a jamais pu faire qu’il ait pas été sainement élevé par les jésuites... un catholique, un vrai de vrai... mais bien sûr, il y en a pas un de vrai ici, bien sûr,
+
+vous n’avez pas été élevés chez les Jésuites, n’importe qui d’entre vous ! ...ben, un catholique est inanalysable. \[*Rires*\]
 
 <!-- id: s23-09-0144 -->
 
@@ -616,7 +616,7 @@ J’ai quand même extrait quelques personnes de mon École, qui assistaient à 
 
 <!-- id: s23-09-0152 -->
 
-> je suppose, enfin, c’est ce dont je me suis servi comme terme pour dire l’effet que ça m’avait fait ...j’ai été, à proprement parler *soufflé*.
+je suppose, enfin, c’est ce dont je me suis servi comme terme pour dire l’effet que ça m’avait fait ...j’ai été, à proprement parler *soufflé*.
 
 <!-- id: s23-09-0153 -->
 
@@ -624,7 +624,7 @@ J’ai été *soufflé* parce que c’est de l’érotisme...
 
 <!-- id: s23-09-0154 -->
 
-> je m’attendais pas à ça \[*Rires*\] en allant voir un film japonais ...c’est de l’érotisme féminin. Là, j’ai commencé à comprendre le pouvoir des japonaises \[*Rires*\].
+je m’attendais pas à ça \[*Rires*\] en allant voir un film japonais ...c’est de l’érotisme féminin. Là, j’ai commencé à comprendre le pouvoir des japonaises \[*Rires*\].
 
 <!-- id: s23-09-0155 -->
 
@@ -644,7 +644,7 @@ L’érotisme féminin semble y être porté...
 
 <!-- id: s23-09-0159 -->
 
-> je m’en vais pas - simple­ment sur un film - faire une ligne de partage ...semble porté à son extrême. Et cet extrême est le fantasme - ni plus ni moins - de tuer l’homme.
+je m’en vais pas - simple­ment sur un film - faire une ligne de partage ...semble porté à son extrême. Et cet extrême est le fantasme - ni plus ni moins - de tuer l’homme.
 
 <!-- id: s23-09-0160 -->
 
@@ -684,11 +684,11 @@ Cette lettre situe les rapports de ce que j’appellerai une *fonction de phonat
 
 <!-- id: s23-09-0169 -->
 
-> c’est là l’essence du Φ, contrairement à ce qu’on croit ...une *fonction de phonation* qui se trouve être substitutive du mâle - dit « *homme* », comme tel – avec...
+c’est là l’essence du Φ, contrairement à ce qu’on croit ...une *fonction de phonation* qui se trouve être substitutive du mâle - dit « *homme* », comme tel – avec...
 
 <!-- id: s23-09-0170 -->
 
-> c’est là ce contre quoi je m’élevais c’est que la substitution de ce Φ au signifiant, que je n’ai pu supporter que d’une lettre compliquée de notation mathématique, à savoir ce que j’ai écrit en dessous, là : S(**A**)
+c’est là ce contre quoi je m’élevais c’est que la substitution de ce Φ au signifiant, que je n’ai pu supporter que d’une lettre compliquée de notation mathématique, à savoir ce que j’ai écrit en dessous, là : S(**A**)
 
 <!-- id: s23-09-0171 -->
 
@@ -708,7 +708,7 @@ Pour ce que fantasme la femme, si c’est bien là ce que nous a présenté le f
 
 <!-- id: s23-09-0175 -->
 
-> on opère *avec* cet instrument pour la copulation *...si cet instrument est bien, comme c’est patent, à mettre au rancard*, c’est pas du même ordre que ce dont il s’agit dans mon S(**A**).
+on opère *avec* cet instrument pour la copulation *...si cet instrument est bien, comme c’est patent, à mettre au rancard*, c’est pas du même ordre que ce dont il s’agit dans mon S(**A**).
 
 <!-- id: s23-09-0176 -->
 
@@ -716,25 +716,25 @@ C’est parce qu’il n’y a pas d’Autre, non pas là où il y a suppléance.
 
 <!-- id: s23-09-0177 -->
 
-> à savoir l’Autre comme lieu de l’inconscient,
->
-> ce dont j’ai dit que c’est avec ça que l’homme fait l’amour, en un autre sens du mot *avec,* c’est ça *le partenaire* ...mais ce que veut dire ce grand S de grand A comme barré \[S(**A**)\]...
+à savoir l’Autre comme lieu de l’inconscient,
+
+ce dont j’ai dit que c’est avec ça que l’homme fait l’amour, en un autre sens du mot *avec,* c’est ça *le partenaire* ...mais ce que veut dire ce grand S de grand A comme barré \[S(**A**)\]...
 
 <!-- id: s23-09-0178 -->
 
-> et je m’excuse de n’avoir pas eu autre chose que la barre dont me servir ...il y a une barre que n’importe quelle femme sait sauter, c’est la barre entre le signifiant et le signifié...
+et je m’excuse de n’avoir pas eu autre chose que la barre dont me servir ...il y a une barre que n’importe quelle femme sait sauter, c’est la barre entre le signifiant et le signifié...
 
 <!-- id: s23-09-0179 -->
 
-> comme - je l’espère - vous l’a prouvé le film à quoi j’ai fait allusion tout à l’heure ...mais il y a une autre barre qui consiste à barrer...
+comme - je l’espère - vous l’a prouvé le film à quoi j’ai fait allusion tout à l’heure ...mais il y a une autre barre qui consiste à barrer...
 
 <!-- id: s23-09-0180 -->
 
-> à savoir, elle est comme cette barre-ci : . !.
->
-> Je regrette de ne l’avoir pas fait de la même façon, d’ailleurs,
->
-> c’est comme ça que ça aurait été le plus exemplaire ...elle dit que : il n’y a pas d’Autre, d’Autre qui répondrait comme <u>partenaire</u>.
+à savoir, elle est comme cette barre-ci : . !.
+
+Je regrette de ne l’avoir pas fait de la même façon, d’ailleurs,
+
+c’est comme ça que ça aurait été le plus exemplaire ...elle dit que : il n’y a pas d’Autre, d’Autre qui répondrait comme <u>partenaire</u>.
 
 <!-- id: s23-09-0181 -->
 
@@ -742,7 +742,7 @@ La toute nécessité de l’espèce humaine étant qu’il y ait un Autre de l�
 
 <!-- id: s23-09-0182 -->
 
-> c’est celui-là qu’on appelle généralement Dieu *...*mais dont l’analyse dévoile que c’est tout simplement « *La femme* ».
+c’est celui-là qu’on appelle généralement Dieu *...*mais dont l’analyse dévoile que c’est tout simplement « *La femme* ».
 
 <!-- id: s23-09-0183 -->
 
@@ -750,9 +750,9 @@ La seule chose qui permette de la désigner comme *La*...
 
 <!-- id: s23-09-0184 -->
 
-> puisque je vous ai dit que « *La* femme » n’ex-sistait pas,
->
-> et j’ai de plus en plus de raisons de le croire, surtout après avoir vu ce film ...la seule chose qui permette de supposer *La* femme, c’est que - comme Dieu - elle soit pondeuse.
+puisque je vous ai dit que « *La* femme » n’ex-sistait pas,
+
+et j’ai de plus en plus de raisons de le croire, surtout après avoir vu ce film ...la seule chose qui permette de supposer *La* femme, c’est que - comme Dieu - elle soit pondeuse.
 
 <!-- id: s23-09-0185 -->
 
@@ -760,7 +760,7 @@ Seulement c’est là le progrès que l’analyse nous fait aire, c’est de nou
 
 <!-- id: s23-09-0186 -->
 
-> qu’encore que le mythe la fasse toute sortir d’une seule mère - à savoir d’Ève ...ben, il n’y a que des pondeuses particulières.
+qu’encore que le mythe la fasse toute sortir d’une seule mère - à savoir d’Ève ...ben, il n’y a que des pondeuses particulières.
 
 <!-- id: s23-09-0187 -->
 
@@ -784,13 +784,13 @@ Quoiqu’après tout, c’est ce qu’on peut faire de mieux, pour fonder*...*
 
 <!-- id: s23-09-0192 -->
 
-> je vous en reconseille la lecture, elle est sobre et du meilleur ton.
->
-> Les catholiques la font pas souvent cette lecture, il faut dire.
->
-> On peut même dire que le catholicisme a consisté pendant des siècles
->
-> à ce que on empêche les tenants de lire la *Bible...*mais pour fonder la « Sagesse » sur *le manque*, qui est la seule fondation qu’elle puisse avoir, c’est vraiment pas mal du tout, c’est gratiné.
+je vous en reconseille la lecture, elle est sobre et du meilleur ton.
+
+Les catholiques la font pas souvent cette lecture, il faut dire.
+
+On peut même dire que le catholicisme a consisté pendant des siècles
+
+à ce que on empêche les tenants de lire la *Bible...*mais pour fonder la « Sagesse » sur *le manque*, qui est la seule fondation qu’elle puisse avoir, c’est vraiment pas mal du tout, c’est gratiné.
 
 <!-- id: s23-09-0193 -->
 

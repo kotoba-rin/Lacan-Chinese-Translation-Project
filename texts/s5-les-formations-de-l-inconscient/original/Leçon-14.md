@@ -324,10 +324,10 @@ le personnage s’est senti frémir - que GIDE, *l’enfant disgracié*, l’enf
 
 <!-- id: s5-14-0067 -->
 
-> dont véri­tablement les livres sont fondamentaux de toute l’ambiguïté du sadisme primordial,
->
-> mais où le sadisme n’est peut-être pas le plus élaboré
-> …où il a pris la forme de l’enfant battu, d’une servante qui laisse tomber quelque chose dans un grand « *patatras* »
+dont véri­tablement les livres sont fondamentaux de toute l’ambiguïté du sadisme primordial,
+
+mais où le sadisme n’est peut-être pas le plus élaboré
+…où il a pris la forme de l’enfant battu, d’une servante qui laisse tomber quelque chose dans un grand « *patatras* »
 
 <!-- id: s5-14-0068 -->
 

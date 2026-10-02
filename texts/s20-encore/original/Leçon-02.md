@@ -18,7 +18,7 @@ Lacan paraît-il, dans son 1<sup>er</sup> « *séminaire* »...
 
 <!-- id: s20-02-0004 -->
 
-> comme on l’appelle... ...de cette année, aurait parlé, je vous le donne en mille, de *l’amour,* pas moins !
+comme on l’appelle... ...de cette année, aurait parlé, je vous le donne en mille, de *l’amour,* pas moins !
 
 <!-- id: s20-02-0005 -->
 
@@ -46,7 +46,7 @@ Enfin je pense qu’il est clair...
 
 <!-- id: s20-02-0011 -->
 
-> même si vous ne vous l’êtes pas formulé ...il est clair que dans ce 1<sup>er</sup> séminaire j’ai parlé de la *bêtise*, de celle qui conditionne ce dont j’ai donné cette année le titre à mon séminaire et qui se dit « *Encore ».*
+même si vous ne vous l’êtes pas formulé ...il est clair que dans ce 1<sup>er</sup> séminaire j’ai parlé de la *bêtise*, de celle qui conditionne ce dont j’ai donné cette année le titre à mon séminaire et qui se dit « *Encore ».*
 
 <!-- id: s20-02-0012 -->
 
@@ -78,11 +78,11 @@ Et peut-être à « *remonter* » un certain *discours...*
 
 <!-- id: s20-02-0019 -->
 
-> qui est *le discours analytique* ...jusqu’à ce qui fait le conditionnement de ce *discours,* à savoir cette « *vérité »* \[**S<sub>2</sub>**\] ...
+qui est *le discours analytique* ...jusqu’à ce qui fait le conditionnement de ce *discours,* à savoir cette « *vérité »* \[**S<sub>2</sub>**\] ...
 
 <!-- id: s20-02-0020 -->
 
-> la seule qui puisse être incontestable *de ce qu’elle n’est pas* ...*qu’il n’y a pas de rapport sexuel,* ceci ne permet d’aucune façon de juger de ce qui est ou n’est pas de « *la bêtise »*.
+la seule qui puisse être incontestable *de ce qu’elle n’est pas* ...*qu’il n’y a pas de rapport sexuel,* ceci ne permet d’aucune façon de juger de ce qui est ou n’est pas de « *la bêtise »*.
 
 <!-- id: s20-02-0021 -->
 
@@ -94,7 +94,7 @@ Et pourquoi pas, pourquoi pas après tout, ne pas se demander quel est le statut
 
 <!-- id: s20-02-0023 -->
 
-> c’est là la nuance ...comme « *vérité »,* soit annoncé « *qu’il n’y a pas de rapport sexuel »*.
+c’est là la nuance ...comme « *vérité »,* soit annoncé « *qu’il n’y a pas de rapport sexuel »*.
 
 <!-- id: s20-02-0024 -->
 
@@ -130,11 +130,11 @@ C’est pas tout à fait *comme ça* que s’établit *le discours analytique...
 
 <!-- id: s20-02-0032 -->
 
-> ce que je vous ai formulé du *a* et de l’S<sub>2</sub> qui est *en dessous,*
->
-> et de ce que ça interroge du côté du sujet, \[*a* → **S**\]
->
-> pour produire quoi ? \[ *Produit* : **S<sub>1</sub>,** *signifiant asémantique, hors sens → « la bêtise »*\] ...c’est bien évidemment que ça s’installe là-dedans, dans *la bêtise* - pourquoi pas ? - et que ça n’a pas ce recul \[*reculer devant la bêtise*\], que je n’ai pas pris moi non plus, de dire que si ça continue c’est de *la bêtise*.
+ce que je vous ai formulé du *a* et de l’S<sub>2</sub> qui est *en dessous,*
+
+et de ce que ça interroge du côté du sujet, \[*a* → **S**\]
+
+pour produire quoi ? \[ *Produit* : **S<sub>1</sub>,** *signifiant asémantique, hors sens → « la bêtise »*\] ...c’est bien évidemment que ça s’installe là-dedans, dans *la bêtise* - pourquoi pas ? - et que ça n’a pas ce recul \[*reculer devant la bêtise*\], que je n’ai pas pris moi non plus, de dire que si ça continue c’est de *la bêtise*.
 
 <!-- id: s20-02-0033 -->
 
@@ -214,7 +214,7 @@ Et la tautologie initiale *«* A est A *»*...
 
 <!-- id: s20-02-0052 -->
 
-> dont on se souvient que Wittgenstein dit que c’est un coup de force dénué de sens ...c’est proprement ce qui institue le sens, car il passe quelque chose là-dedans.
+dont on se souvient que Wittgenstein dit que c’est un coup de force dénué de sens ...c’est proprement ce qui institue le sens, car il passe quelque chose là-dedans.
 
 <!-- id: s20-02-0053 -->
 
@@ -254,7 +254,7 @@ Je vais revenir là-dessus parce que c’est à peu près le nerf de toute l’a
 
 <!-- id: s20-02-0062 -->
 
-> c’est de ça que je crains de n’avoir pas le temps de le faire ...de *la logique de Port-Royal* [^18], parce que c’est une *théorie de la substance*, justement, et qu’il a été dit la dernière fois qu’on ne se réfère pas ici à aucune *substance*. Mais j’y viendrai tout à l’heure.
+c’est de ça que je crains de n’avoir pas le temps de le faire ...de *la logique de Port-Royal* [^18], parce que c’est une *théorie de la substance*, justement, et qu’il a été dit la dernière fois qu’on ne se réfère pas ici à aucune *substance*. Mais j’y viendrai tout à l’heure.
 
 <!-- id: s20-02-0063 -->
 
@@ -266,9 +266,9 @@ C’est-à-dire qu’on peut bien poser que *la répétition du vide* ou *la ré
 
 <!-- id: s20-02-0065 -->
 
-> enfin que ce type de répétition de quelque chose qui n’est pas donné,
->
-> et qu’il faut donc produire dans le temps qu’on voudrait le répéter ...on peut bien poser que c’est *l’impossible*, et c’est ce que dit à peu près tout le monde, mais il suffit que ce soit *impossible* pour qu’il y ait quelque chose là d’assuré, et que cette assurance permette justement une répétition, c’est d’ailleurs une 2<sup>ème</sup> répétition.
+enfin que ce type de répétition de quelque chose qui n’est pas donné,
+
+et qu’il faut donc produire dans le temps qu’on voudrait le répéter ...on peut bien poser que c’est *l’impossible*, et c’est ce que dit à peu près tout le monde, mais il suffit que ce soit *impossible* pour qu’il y ait quelque chose là d’assuré, et que cette assurance permette justement une répétition, c’est d’ailleurs une 2<sup>ème</sup> répétition.
 
 <!-- id: s20-02-0066 -->
 
@@ -408,7 +408,7 @@ La « *section de prédicat* », c’est proprement le noyau de mon exposé. O
 
 <!-- id: s20-02-0100 -->
 
-> en faisant le tour véritablement ...de cerner ce noyau qui va apparaître dans tous les exemples que je vais donner.
+en faisant le tour véritablement ...de cerner ce noyau qui va apparaître dans tous les exemples que je vais donner.
 
 <!-- id: s20-02-0101 -->
 
@@ -460,13 +460,13 @@ Mais le seul intérêt de cette formule...
 
 <!-- id: s20-02-0113 -->
 
-> parce que somme toute, personne dans l’assemblée du *Banquet* ne la conteste ...c’est ce qui permet de s’ensuivre ceci : que l’amour en aucun cas ne saurait être beau, parce que ce qui se pose comme *objet de l’amour*, ce qui comme série tombe sous le coup de l’amour...
+parce que somme toute, personne dans l’assemblée du *Banquet* ne la conteste ...c’est ce qui permet de s’ensuivre ceci : que l’amour en aucun cas ne saurait être beau, parce que ce qui se pose comme *objet de l’amour*, ce qui comme série tombe sous le coup de l’amour...
 
 <!-- id: s20-02-0114 -->
 
-> l’amour étant comme une marque qui fait défiler, qui instaure une espèce de couloir
->
-> où une série d’objets va passer, les objets qu’il a marqués ...l’amour ne peut pas être beau *parce que* ses objets sont beaux.
+l’amour étant comme une marque qui fait défiler, qui instaure une espèce de couloir
+
+où une série d’objets va passer, les objets qu’il a marqués ...l’amour ne peut pas être beau *parce que* ses objets sont beaux.
 
 <!-- id: s20-02-0115 -->
 
@@ -502,9 +502,9 @@ Alors ce qu’il a voulu c’est que ça reste, qu’il y ait un effet, et pour 
 
 <!-- id: s20-02-0123 -->
 
-> qui étaient alors comme les sexes dans le dos et l’endroit de la coupure,
->
-> c’était proprement le ventre puisqu’il y a le nombril qui est l’indice de la coupure ...il a décidé de tourner les visages du côté du nombril, pour que les hommes s’en souviennent de cette coupure.
+qui étaient alors comme les sexes dans le dos et l’endroit de la coupure,
+
+c’était proprement le ventre puisqu’il y a le nombril qui est l’indice de la coupure ...il a décidé de tourner les visages du côté du nombril, pour que les hommes s’en souviennent de cette coupure.
 
 <!-- id: s20-02-0124 -->
 
@@ -592,9 +592,9 @@ C’est-à-dire que ce qui va m’intéresser...
 
 <!-- id: s20-02-0145 -->
 
-> et on peut voir le rapport de ceci avec *la section de prédicat*,
->
-> c’est-à-dire avec cette expression et cette récurrence ...c’est le rapport entre les deux.
+et on peut voir le rapport de ceci avec *la section de prédicat*,
+
+c’est-à-dire avec cette expression et cette récurrence ...c’est le rapport entre les deux.
 
 <!-- id: s20-02-0146 -->
 
@@ -606,7 +606,7 @@ Et si *l’impossible* c’est ce qui *dit non*...
 
 <!-- id: s20-02-0148 -->
 
-> ce qui n’est pas évident et je regrette de n’avoir pas le temps de développer ce point ...il faudra l’entendre à peu près comme *une dénégation radicale*, en tant que *la dénégation* *c’est quelque chose qui est déjà infini*.
+ce qui n’est pas évident et je regrette de n’avoir pas le temps de développer ce point ...il faudra l’entendre à peu près comme *une dénégation radicale*, en tant que *la dénégation* *c’est quelque chose qui est déjà infini*.
 
 <!-- id: s20-02-0149 -->
 
@@ -690,7 +690,7 @@ La preuve en est que justement le **0** et le **1**...
 
 <!-- id: s20-02-0169 -->
 
-> qui n’est censé être autre que l’identification du **0** ...ça fait justement 2.
+qui n’est censé être autre que l’identification du **0** ...ça fait justement 2.
 
 <!-- id: s20-02-0170 -->
 
@@ -702,7 +702,7 @@ Mais ce qui est remarquable, c’est que ce **0** et ce **1**...
 
 <!-- id: s20-02-0172 -->
 
-> qui n’ont rien à voir, qui ne se situent pas au même niveau ...on les met ensemble comme les éléments de ce nouvel ensemble constitué par l’ordinal 2. **0** et **1** ça fait **2** justement au sens où le **0** et le **1** sont en quelque sorte nivelés, mis sur un même plan dans le **2**.
+qui n’ont rien à voir, qui ne se situent pas au même niveau ...on les met ensemble comme les éléments de ce nouvel ensemble constitué par l’ordinal 2. **0** et **1** ça fait **2** justement au sens où le **0** et le **1** sont en quelque sorte nivelés, mis sur un même plan dans le **2**.
 
 <!-- id: s20-02-0173 -->
 
@@ -822,9 +822,9 @@ Il faut que dans l’ensemble constitué par le **4** soient présents à la foi
 
 <!-- id: s20-02-0202 -->
 
-> à travers les différentes limites successives
->
-> qui font en quelque sorte opposition au passage du **0** au **1**, du **1** au **2** etc., ...*l’insistance* à travers ces limites successives de ce qui se donne comme *limite absolue* et qui serait l’*encore*.
+à travers les différentes limites successives
+
+qui font en quelque sorte opposition au passage du **0** au **1**, du **1** au **2** etc., ...*l’insistance* à travers ces limites successives de ce qui se donne comme *limite absolue* et qui serait l’*encore*.
 
 <!-- id: s20-02-0203 -->
 
@@ -832,9 +832,9 @@ Et si le **4** comme écrasement totalitaire...
 
 <!-- id: s20-02-0204 -->
 
-> c’est-à-dire comme sommation de tout ce qui s’est passé avant lui,
->
-> de tous les écrasements impuissants à s’achever ...si le **4** laisse ouverte cette question, c’est bien parce que lui-même, en tant qu’écrasement, répondant à cette faille qui appelle une fermeture impossible, il ne peut à son tour que s’écraser encore, c’est-à-dire reproduire la faille, nommément dans la nouvelle formule qui l’inclut comme élément, et c’est-à-dire le **5**, et qui pour ce faire le confronte à tous les éléments qu’il contient, mis à côté de lui, pour faire surgir entre tous ces éléments et leur écrasement dans le **1**, *l’impossible identité*.
+c’est-à-dire comme sommation de tout ce qui s’est passé avant lui,
+
+de tous les écrasements impuissants à s’achever ...si le **4** laisse ouverte cette question, c’est bien parce que lui-même, en tant qu’écrasement, répondant à cette faille qui appelle une fermeture impossible, il ne peut à son tour que s’écraser encore, c’est-à-dire reproduire la faille, nommément dans la nouvelle formule qui l’inclut comme élément, et c’est-à-dire le **5**, et qui pour ce faire le confronte à tous les éléments qu’il contient, mis à côté de lui, pour faire surgir entre tous ces éléments et leur écrasement dans le **1**, *l’impossible identité*.
 
 <!-- id: s20-02-0205 -->
 
@@ -962,7 +962,7 @@ Ce qui se donne comme résistance à l’interprétation du rêve dans une analy
 
 <!-- id: s20-02-0236 -->
 
-> s’il y a une opposition entre eux ...que par Saussure, il faut bien se souvenir que le *signifié* dont on parle, ce n’est pas autre chose que du *signifiant*, mais dans une série, au sens où précisément il y a des fonctions dans cette série, des rôles qui s’échangent, et qu’on peut dire qu’effectivement il y a un rôle de signifié par rapport à un rôle de signifiant.
+s’il y a une opposition entre eux ...que par Saussure, il faut bien se souvenir que le *signifié* dont on parle, ce n’est pas autre chose que du *signifiant*, mais dans une série, au sens où précisément il y a des fonctions dans cette série, des rôles qui s’échangent, et qu’on peut dire qu’effectivement il y a un rôle de signifié par rapport à un rôle de signifiant.
 
 <!-- id: s20-02-0237 -->
 
@@ -970,7 +970,7 @@ Mais le signifié c’est un signifiant plongé dans l’interprétation au sens
 
 <!-- id: s20-02-0238 -->
 
-> qui est la même qu’on voit ici ...de comprendre qu’on a affaire à des unités d’un autre ensemble, à des éléments d’un ensemble plus large.
+qui est la même qu’on voit ici ...de comprendre qu’on a affaire à des unités d’un autre ensemble, à des éléments d’un ensemble plus large.
 
 <!-- id: s20-02-0239 -->
 
@@ -1014,7 +1014,7 @@ Il suffit d’un léger *glissement*...
 
 <!-- id: s20-02-0249 -->
 
-> je ne peux pas ici citer d’exemples et c’est dommage car cela paraît extrêmement bien ...*d’un changement de niveau* tout à fait dérisoire, c’est-à-dire *d’un transport*, d’un transport de ce qui se donne comme *équation* dans quelque chose d’autre, où il y a d’autres éléments qui sont en jeu pour que cette équation satisfaite d’elle-même, cet ensemble fermé, devienne tout d’un coup autre chose, c’est-à-dire pour qu’on se rende compte qu’il peut aussi bien fonctionner comme un élément d’un autre ensemble, comme partie d’un autre ensemble qui peut précisément être l’ensemble de ses parties comme ici on le voit, c’est-à-dire comme un élément d’un ensemble où le tout de l’équation précédente figure à côté de n’importe quoi, à côté de n’importe quel trait et au même titre que l’ensemble vide par exemple.
+je ne peux pas ici citer d’exemples et c’est dommage car cela paraît extrêmement bien ...*d’un changement de niveau* tout à fait dérisoire, c’est-à-dire *d’un transport*, d’un transport de ce qui se donne comme *équation* dans quelque chose d’autre, où il y a d’autres éléments qui sont en jeu pour que cette équation satisfaite d’elle-même, cet ensemble fermé, devienne tout d’un coup autre chose, c’est-à-dire pour qu’on se rende compte qu’il peut aussi bien fonctionner comme un élément d’un autre ensemble, comme partie d’un autre ensemble qui peut précisément être l’ensemble de ses parties comme ici on le voit, c’est-à-dire comme un élément d’un ensemble où le tout de l’équation précédente figure à côté de n’importe quoi, à côté de n’importe quel trait et au même titre que l’ensemble vide par exemple.
 
 <!-- id: s20-02-0250 -->
 
@@ -1054,7 +1054,7 @@ et je n’insisterai pas là-dessus quoique ce soit important ...tout est une qu
 
 <!-- id: s20-02-0259 -->
 
-> et je regrette aussi de ne pas pouvoir m’étaler un peu là-dessus ...mais ce fut une des erreurs du linguicisme contemporain de postuler quelque chose comme une régulation intrasystématique dans un ensemble, sans la poser fonction de quelque chose qui participe à un ordre, fonction d’une limite exclue.
+et je regrette aussi de ne pas pouvoir m’étaler un peu là-dessus ...mais ce fut une des erreurs du linguicisme contemporain de postuler quelque chose comme une régulation intrasystématique dans un ensemble, sans la poser fonction de quelque chose qui participe à un ordre, fonction d’une limite exclue.
 
 <!-- id: s20-02-0260 -->
 
@@ -1070,7 +1070,7 @@ Quelque chose comme l’interprétation de Pierce a été perçu en linguistique
 
 <!-- id: s20-02-0263 -->
 
-> je ne fais que le mentionner ...qui est précisément, pour un même signifiant ou pour un même ensemble de signifiants, le passage d’un système à un autre de type différent.
+je ne fais que le mentionner ...qui est précisément, pour un même signifiant ou pour un même ensemble de signifiants, le passage d’un système à un autre de type différent.
 
 <!-- id: s20-02-0264 -->
 
@@ -1154,13 +1154,13 @@ La première opération est donc celle-ci. Maintenant le phénomène essentiel d
 
 <!-- id: s20-02-0284 -->
 
-> quoique je ne pointe pas que ce soit précisément un changement de système,
->
-> mais ce qui fait qu’il y a interprétation ...c’est qu’une fois qu’on a un message formé uniquement en *a* et en *b* par la transcription à partir de chacune des lettres dans ce tableau, on va retranscrire dans l’alphabet originel latin, en prenant non pas chaque groupe de 5 *a* ou de 5 *b*, parce que ce serait proprement ré-effectuer ce découpage qu’il s’agit de masquer, on va prendre chaque *a* et chaque *b* séparément, et à chaque *a* et chaque *b*...
+quoique je ne pointe pas que ce soit précisément un changement de système,
+
+mais ce qui fait qu’il y a interprétation ...c’est qu’une fois qu’on a un message formé uniquement en *a* et en *b* par la transcription à partir de chacune des lettres dans ce tableau, on va retranscrire dans l’alphabet originel latin, en prenant non pas chaque groupe de 5 *a* ou de 5 *b*, parce que ce serait proprement ré-effectuer ce découpage qu’il s’agit de masquer, on va prendre chaque *a* et chaque *b* séparément, et à chaque *a* et chaque *b*...
 
 <!-- id: s20-02-0285 -->
 
-> comme ce sont les deux seules lettres dont est formé le message moyen, le message frontière ...il pourra correspondre à chacun un nombre énorme de lettres de l’alphabet latin.
+comme ce sont les deux seules lettres dont est formé le message moyen, le message frontière ...il pourra correspondre à chacun un nombre énorme de lettres de l’alphabet latin.
 
 <!-- id: s20-02-0286 -->
 
@@ -1200,7 +1200,7 @@ C’est d’ailleurs ce fait que le terme, l’agent de la série...
 
 <!-- id: s20-02-0295 -->
 
-> c’est ce que je disais au début ...est absent de la série qu’il agence, c’est-à-dire qu’il n’y sera présent qu’un coup d’après.
+c’est ce que je disais au début ...est absent de la série qu’il agence, c’est-à-dire qu’il n’y sera présent qu’un coup d’après.
 
 <!-- id: s20-02-0296 -->
 
@@ -1232,7 +1232,11 @@ Mais Freud, qui a très bien compris ce processus dit :
 
 <!-- id: s20-02-0303 -->
 
-> « *Justement, son désir, c’est qu’il n’y ait pas de désir dans le rêve, c’est-à-dire que j’aie tort* ».
+<div class="text-quotation">
+
+« *Justement, son désir, c’est qu’il n’y ait pas de désir dans le rêve, c’est-à-dire que j’aie tort* ».
+
+</div>
 
 <!-- id: s20-02-0304 -->
 
@@ -1348,9 +1352,13 @@ C’est-à-dire qu’à part ces substantifs dont je viens de parler, il y a aus
 
 <!-- id: s20-02-0332 -->
 
-> « *l’idée que j’ai de la rondeur me représente une manière d’être ou un mode*
->
-> *que je ne conçois pouvoir subsister naturellement sans la substance dont il est mode* ».
+<div class="text-quotation">
+
+« *l’idée que j’ai de la rondeur me représente une manière d’être ou un mode*
+
+*que je ne conçois pouvoir subsister naturellement sans la substance dont il est mode* ».
+
+</div>
 
 <!-- id: s20-02-0333 -->
 
@@ -1358,9 +1366,13 @@ Et tout de suite après, il est dit :
 
 <!-- id: s20-02-0334 -->
 
-> « *Les noms qui signifient premièrement et directement les modes parce qu’en cela, ils ont quelque rapport avec la substance,*
->
-> *sont aussi appelés substantifs et absolus, comme dureté, chaleur, justice, prudence* ».
+<div class="text-quotation">
+
+« *Les noms qui signifient premièrement et directement les modes parce qu’en cela, ils ont quelque rapport avec la substance,*
+
+*sont aussi appelés substantifs et absolus, comme dureté, chaleur, justice, prudence* ».
+
+</div>
 
 <!-- id: s20-02-0335 -->
 
@@ -1492,7 +1504,7 @@ Si tant est que le terme ultime d’une relation sérielle la représente toute 
 
 <!-- id: s20-02-0367 -->
 
-> et vous avez sans doute remarqué qu’on n’arrête pas de travailler dans cette hypothèse ...alors, de même que l’ensemble des relations objet-prédicat, c’est-à-dire l’extension, « *tient lieu de*... » et interprète ces relations, ce sera l’ensemble de toutes les extensions qui sera l’interprétant de l’extension.
+et vous avez sans doute remarqué qu’on n’arrête pas de travailler dans cette hypothèse ...alors, de même que l’ensemble des relations objet-prédicat, c’est-à-dire l’extension, « *tient lieu de*... » et interprète ces relations, ce sera l’ensemble de toutes les extensions qui sera l’interprétant de l’extension.
 
 <!-- id: s20-02-0368 -->
 
@@ -1520,9 +1532,13 @@ Je cite « *La logique*... » à propos de l’Être et de la pensée :
 
 <!-- id: s20-02-0374 -->
 
-> « *Il ne faut pas nous demander que nous expliquions ces termes parce qu’ils sont du nombre de ceux qui sont*
->
-> *si bien entendus par tout le monde qu’on les obscurcirait en voulant les expliquer* ».
+<div class="text-quotation">
+
+« *Il ne faut pas nous demander que nous expliquions ces termes parce qu’ils sont du nombre de ceux qui sont*
+
+*si bien entendus par tout le monde qu’on les obscurcirait en voulant les expliquer* ».
+
+</div>
 
 <!-- id: s20-02-0375 -->
 
@@ -1706,7 +1722,7 @@ Lacan
 
 <!-- id: s20-02-0420 -->
 
-> Je conclurai avec ces mots : *avec le temps, ça sort !*
+Je conclurai avec ces mots : *avec le temps, ça sort !*
 
 ## Notes
 

@@ -46,7 +46,7 @@ Je vous parlerai d’autre chose dont je vous laisse la surprise mais dont je vo
 
 <!-- id: s13-07-0011 -->
 
-> vous verrez tout à l’heure ce que c’est que j’ai choisi …à quelque siècles de distance de DANTE, je me trouverai amené ici à un de ces *points tournants* d’introduction, de mise en évidence, de saillie d’une donnée structurale qui nous sera, spécialement pour nous psychanalystes, de la plus grande utilité, comme fondement, pour essayer d’ordonner ce qui se dit de complètement confus, parce que « *collabé* », parce qu’écrasé, si l’on peut dire, par les différents plans que ça invoque, au sujet du *masochisme*.
+vous verrez tout à l’heure ce que c’est que j’ai choisi …à quelque siècles de distance de DANTE, je me trouverai amené ici à un de ces *points tournants* d’introduction, de mise en évidence, de saillie d’une donnée structurale qui nous sera, spécialement pour nous psychanalystes, de la plus grande utilité, comme fondement, pour essayer d’ordonner ce qui se dit de complètement confus, parce que « *collabé* », parce qu’écrasé, si l’on peut dire, par les différents plans que ça invoque, au sujet du *masochisme*.
 
 <!-- id: s13-07-0012 -->
 
@@ -110,7 +110,11 @@ Le texte le voilà, traduit naturellement : « *Et que te châtie, dit le Grec,
 
 <!-- id: s13-07-0027 -->
 
-> « *Comme d’habitude ta bouche ne se démantibule que pour son mal, car si j’ai soif et si l’humeur me farcit, tu as la fièvre et la tête te fait mal ; et pour lécher le miroir de Narcisse, il ne te faudrait pas de longues paroles d’invitation.* » \[*Enfer*, *Chant* XXX, 124-129\]
+<div class="text-quotation">
+
+« *Comme d’habitude ta bouche ne se démantibule que pour son mal, car si j’ai soif et si l’humeur me farcit, tu as la fièvre et la tête te fait mal ; et pour lécher le miroir de Narcisse, il ne te faudrait pas de longues paroles d’invitation.* » \[*Enfer*, *Chant* XXX, 124-129\]
+
+</div>
 
 <!-- id: s13-07-0028 -->
 
@@ -198,7 +202,11 @@ C’est VIRGILE qui l’exprime dans un raccourci tout à fait saisissant, en un
 
 <!-- id: s13-07-0049 -->
 
-> « *La fraude - dont toute conscience sent le remords* - » \[Enfer, Chant XI, 52\]
+<div class="text-quotation">
+
+« *La fraude - dont toute conscience sent le remords* - » \[Enfer, Chant XI, 52\]
+
+</div>
 
 <!-- id: s13-07-0050 -->
 
@@ -446,19 +454,23 @@ Voilà le texte, dans la traduction de Madame ESPINASSE-MONGENET [^85]. C’est 
 
 <!-- id: s13-07-0111 -->
 
-> *qu’elle vit encore en ma mémoire.*
->
-> *Et, pareil à celui qui rêve son dommage,*
->
-> *et, rêvant, souhaite rêver,*
->
-> *si bien qu’il désire ardemment ce qui est, comme si cela n’était point,*
->
-> *tel je me fis, ne pouvant pas parler,*
->
-> *car j’eusse souhaité m’excuser et je m’excusais*
->
-> *en vérité, tout en ne croyant point le faire*. \[*Enfer*, Chant XXX, 134-141\]
+<div class="text-quotation">
+
+*qu’elle vit encore en ma mémoire.*
+
+*Et, pareil à celui qui rêve son dommage,*
+
+*et, rêvant, souhaite rêver,*
+
+*si bien qu’il désire ardemment ce qui est, comme si cela n’était point,*
+
+*tel je me fis, ne pouvant pas parler,*
+
+*car j’eusse souhaité m’excuser et je m’excusais*
+
+*en vérité, tout en ne croyant point le faire*. \[*Enfer*, Chant XXX, 134-141\]
+
+</div>
 
 <!-- id: s13-07-0112 -->
 
@@ -518,31 +530,39 @@ La scène se passe dans le ciel de la lune. BÉATRICE vient de détruire l’opi
 
 <!-- id: s13-07-0126 -->
 
-> *Tels d’un cristal transparent et limpide*
->
-> *ou de la surface des eaux pures et tranquilles,*
->
-> *non assez profondes pour que les fonds en soient obscurcis,*
->
-> *nous reviennent les traits de notre visage*
->
-> *si apâlis qu’une perle sur un fond blanc*
->
-> *n’arrive point plus lente à nos prunelles,* *telles je vis plusieurs figures prêtes à parler,* *ce qui fut cause que je courus à l’erreur contraire* *à celle qui fit naître l’amour entre l’homme et la fontaine.*
+<div class="text-quotation">
+
+*Tels d’un cristal transparent et limpide*
+
+*ou de la surface des eaux pures et tranquilles,*
+
+*non assez profondes pour que les fonds en soient obscurcis,*
+
+*nous reviennent les traits de notre visage*
+
+*si apâlis qu’une perle sur un fond blanc*
+
+*n’arrive point plus lente à nos prunelles,* *telles je vis plusieurs figures prêtes à parler,* *ce qui fut cause que je courus à l’erreur contraire* *à celle qui fit naître l’amour entre l’homme et la fontaine.*
+
+</div>
 
 <!-- id: s13-07-0127 -->
 
-> *Aussitôt dans l’instant que je m’aperçus de leur présence,*
->
-> *estimant que c’était là le reflet de visages vus en un miroir,*
->
-> *pour voir à qui ils appartenaient je tournais mes yeux en arrière ;*
->
-> *et je ne vis rien : et je les reportai devant moi,*
->
-> *droit aux yeux de mon doux guide*
->
-> *qui souriant, avait une flamme en son saint regard.* » \[*Paradis*, III, 4-23\]
+<div class="text-quotation">
+
+*Aussitôt dans l’instant que je m’aperçus de leur présence,*
+
+*estimant que c’était là le reflet de visages vus en un miroir,*
+
+*pour voir à qui ils appartenaient je tournais mes yeux en arrière ;*
+
+*et je ne vis rien : et je les reportai devant moi,*
+
+*droit aux yeux de mon doux guide*
+
+*qui souriant, avait une flamme en son saint regard.* » \[*Paradis*, III, 4-23\]
+
+</div>
 
 <!-- id: s13-07-0128 -->
 
@@ -674,7 +694,7 @@ Il y a donc là une transformation profonde de quelque chose qui n’est pas ét
 
 <!-- id: s13-07-0160 -->
 
-> que je ne qualifierai pas de plus générale et que j’ai qualifiée d’antérieure …des rapports du *savoir* et de *la vérité*. Ces rapports du *savoir* et de *la vérité* c’est toute la tradition que nous allons appeler, pour une plus grande commodité, philosophique. C’est dans ce cadre topologique que se situe la position d’un DANTE.
+que je ne qualifierai pas de plus générale et que j’ai qualifiée d’antérieure …des rapports du *savoir* et de *la vérité*. Ces rapports du *savoir* et de *la vérité* c’est toute la tradition que nous allons appeler, pour une plus grande commodité, philosophique. C’est dans ce cadre topologique que se situe la position d’un DANTE.
 
 <!-- id: s13-07-0161 -->
 
@@ -710,7 +730,7 @@ DANTE est en outre un poète. Et je vais essayer de vous dire comment c’est en
 
 <!-- id: s13-07-0169 -->
 
-> que je vais maintenant situer, je veux dire donner *les raisons pour lesquelles il peut en témoigner* …où il témoigne d’une façon en quelque sorte *anticipée*, pour nous, de la présence dans ces rapports du *savoir* et de *la vérité*, de ce qui, proprement cette année, est par moi promu comme la fonction de *l’objet(a)*.
+que je vais maintenant situer, je veux dire donner *les raisons pour lesquelles il peut en témoigner* …où il témoigne d’une façon en quelque sorte *anticipée*, pour nous, de la présence dans ces rapports du *savoir* et de *la vérité*, de ce qui, proprement cette année, est par moi promu comme la fonction de *l’objet(a)*.
 
 <!-- id: s13-07-0170 -->
 
@@ -734,7 +754,7 @@ Tel est le départ de la physique antique et c’est là-dessus…
 
 <!-- id: s13-07-0175 -->
 
-> ce que nous pouvons en somme, qualifier d’introduction à une science comme telle dans la connaissance humaine …c’est là-dessus que nous pouvons qualifier les Anciens comme ayant fait *les premiers pas* historiquement recevables, transmissibles, et qui ont servi de première matière à la révolution qui a été appelée « *la révolution copernicienne* », introduction elle-même, de celle - toute différente - de « *la révolution newtonienne* ».
+ce que nous pouvons en somme, qualifier d’introduction à une science comme telle dans la connaissance humaine …c’est là-dessus que nous pouvons qualifier les Anciens comme ayant fait *les premiers pas* historiquement recevables, transmissibles, et qui ont servi de première matière à la révolution qui a été appelée « *la révolution copernicienne* », introduction elle-même, de celle - toute différente - de « *la révolution newtonienne* ».
 
 <!-- id: s13-07-0176 -->
 
@@ -750,9 +770,9 @@ Et c’est bien en effet ainsi que *toute la pensée médiévale*…
 
 <!-- id: s13-07-0179 -->
 
-> qui loin d’être une pensée négligeable, en quelque sorte à rejeter,
->
-> quelque radicale que je vous présente la coupure instaurée par la naissance de la science moderne …est pour nous éclairante de cette topologie dont il faut que nous tenions compte dans la situation qui se réinstaure du fait de la question posée par l’expérience analytique, cette thématique d’opposition entre *la vérité* et le *savoir* est inscrite pendant tout le développement de la pensée médiévale, dans ce qu’on a appelé « *la doctrine de la double vérité* ».
+qui loin d’être une pensée négligeable, en quelque sorte à rejeter,
+
+quelque radicale que je vous présente la coupure instaurée par la naissance de la science moderne …est pour nous éclairante de cette topologie dont il faut que nous tenions compte dans la situation qui se réinstaure du fait de la question posée par l’expérience analytique, cette thématique d’opposition entre *la vérité* et le *savoir* est inscrite pendant tout le développement de la pensée médiévale, dans ce qu’on a appelé « *la doctrine de la double vérité* ».
 
 <!-- id: s13-07-0180 -->
 
@@ -784,7 +804,7 @@ Ai-je besoin de rappeler que Saint THOMAS…
 
 <!-- id: s13-07-0187 -->
 
-> si mon souvenir est bon encore, après tout je n’en suis pas sûr, mais peu importe …en référence - c’est là *le point de référence* pour nous - à la condamnation de l277 émanant de LA SORBONNE, de l’évêque TEMPIER, qui le condamne, précisément *d’avoir soutenu* - aux dires des *autorités ecclésiastiques* - *plus loin qu’il ne convient à la conscience chrétienne, la distinction de ces deux domaines*, et se trouve assimilé dans la même condamnation aux *averroïstes* et à l’enseignement par exemple d’un SIGER DE BRABANT, dont pourtant *il se distinguait par toutes sortes de modalités*.
+si mon souvenir est bon encore, après tout je n’en suis pas sûr, mais peu importe …en référence - c’est là *le point de référence* pour nous - à la condamnation de l277 émanant de LA SORBONNE, de l’évêque TEMPIER, qui le condamne, précisément *d’avoir soutenu* - aux dires des *autorités ecclésiastiques* - *plus loin qu’il ne convient à la conscience chrétienne, la distinction de ces deux domaines*, et se trouve assimilé dans la même condamnation aux *averroïstes* et à l’enseignement par exemple d’un SIGER DE BRABANT, dont pourtant *il se distinguait par toutes sortes de modalités*.
 
 <!-- id: s13-07-0188 -->
 
@@ -836,7 +856,7 @@ C’est en ceci que le poète, quoi qu’il en ait, et même s’il ne le sait p
 
 <!-- id: s13-07-0200 -->
 
-> dès lors que ce qu’il sait et manipule c’est *la structure du langage* et non pas simplement *la parole* …là réintroduit, quoi qu’il en ait, cette topologie du bord et l’articulation de la structure. C’est ce par quoi DANTE, ici va au-delà de ce qu’il emprunte à la structure du savoir de son temps, et justement dans la mesure de cette ambiguïté, introduite du fait qu’il projette les formes cosmologiques du savoir de son temps dans le champ de ce que j’appelle « *les fins dernières* ».
+dès lors que ce qu’il sait et manipule c’est *la structure du langage* et non pas simplement *la parole* …là réintroduit, quoi qu’il en ait, cette topologie du bord et l’articulation de la structure. C’est ce par quoi DANTE, ici va au-delà de ce qu’il emprunte à la structure du savoir de son temps, et justement dans la mesure de cette ambiguïté, introduite du fait qu’il projette les formes cosmologiques du savoir de son temps dans le champ de ce que j’appelle « *les fins dernières* ».
 
 <!-- id: s13-07-0201 -->
 
@@ -852,9 +872,9 @@ C’est d’avoir fait de la cosmologie de son temps - ce qu’il entend chanter
 
 <!-- id: s13-07-0204 -->
 
-> \- *celui qui a fait de la parole le support d’une tromperie* \[Sinon\],
->
-> \- *et celui qui a fait la fausse monnaie* \[Adam\].
+\- *celui qui a fait de la parole le support d’une tromperie* \[Sinon\],
+
+\- *et celui qui a fait la fausse monnaie* \[Adam\].
 
 <!-- id: s13-07-0205 -->
 
@@ -866,9 +886,9 @@ Ce n’est pas pour rien, ce n’est pas par hasard, que sont conjoints pour dia
 
 <!-- id: s13-07-0207 -->
 
-> et non pas de n’importe quelle façon, n’a pas simplement *menti*, n’a pas simplement *fraudé*,
->
-> on vous l’a dit tout à l’heure, mais a fraudé en trompant la confiance de l’autre …cette conjonction du mensonge comme atteinte à la foi avec le fait de la référence de ce *quelque chose* qui est non pas *vérité* mais *valeur de vérité*, cette *chose* dont il est si nécessaire d’introduire la référence quand il s’agit de la vérité que, quand HEIDEGGER nous propose le *Vom Wesen der Wahrheit* [^88], c’est de *la pièce de monnaie* que lui aussi parle.
+et non pas de n’importe quelle façon, n’a pas simplement *menti*, n’a pas simplement *fraudé*,
+
+on vous l’a dit tout à l’heure, mais a fraudé en trompant la confiance de l’autre …cette conjonction du mensonge comme atteinte à la foi avec le fait de la référence de ce *quelque chose* qui est non pas *vérité* mais *valeur de vérité*, cette *chose* dont il est si nécessaire d’introduire la référence quand il s’agit de la vérité que, quand HEIDEGGER nous propose le *Vom Wesen der Wahrheit* [^88], c’est de *la pièce de monnaie* que lui aussi parle.
 
 <!-- id: s13-07-0208 -->
 
@@ -900,7 +920,11 @@ Il m’est arrivé dans un temps d’écrire ces phrases :
 
 <!-- id: s13-07-0215 -->
 
-> « *Quand l’homme cherchant le vide de la pensée s’avança dans la lueur sans ombre de l’espace imaginaire en s’abstenant même d’attendre ce qui va en surgir, un miroir sans éclat lui montre une surface où ne se reflète rien.* » \[*Écrits* p.188\]
+<div class="text-quotation">
+
+« *Quand l’homme cherchant le vide de la pensée s’avança dans la lueur sans ombre de l’espace imaginaire en s’abstenant même d’attendre ce qui va en surgir, un miroir sans éclat lui montre une surface où ne se reflète rien.* » \[*Écrits* p.188\]
+
+</div>
 
 <!-- id: s13-07-0216 -->
 
@@ -960,9 +984,9 @@ Dans le développement que j’aurai à poursuivre sur le sujet de la structure,
 
 <!-- id: s13-07-0230 -->
 
-> après l’avoir introduite l’année dernière sous la forme qu’elle a pour l’instant,
->
-> c’est un fait, ça s’appelle comme ça, c’est *la bouteille de Klein* …permettra de structurer d’une façon décisive, ce que j’entends ici par « *ce rapport du sujet à l’Autre* ».
+après l’avoir introduite l’année dernière sous la forme qu’elle a pour l’instant,
+
+c’est un fait, ça s’appelle comme ça, c’est *la bouteille de Klein* …permettra de structurer d’une façon décisive, ce que j’entends ici par « *ce rapport du sujet à l’Autre* ».
 
 <!-- id: s13-07-0231 -->
 
@@ -970,7 +994,7 @@ C’est en tant que DANTE, poète courtois le rejoint, qu’il peut faire les re
 
 <!-- id: s13-07-0232 -->
 
-> il est trop tard en tout cas, pour savoir si je l’ai atteint cette année, dans la suite vous me le prouverez …j’ai suffisamment repéré ce dont il s’agit.
+il est trop tard en tout cas, pour savoir si je l’ai atteint cette année, dans la suite vous me le prouverez …j’ai suffisamment repéré ce dont il s’agit.
 
 <!-- id: s13-07-0233 -->
 

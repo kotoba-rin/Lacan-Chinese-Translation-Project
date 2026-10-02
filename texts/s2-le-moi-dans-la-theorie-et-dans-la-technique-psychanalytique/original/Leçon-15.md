@@ -6,7 +6,7 @@
 
 <!-- id: s2-15-0001 -->
 
-> STÉNOTYPIE MANQUANTE
+STÉNOTYPIE MANQUANTE
 
 <!-- id: s2-15-0002 -->
 

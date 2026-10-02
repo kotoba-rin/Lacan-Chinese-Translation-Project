@@ -187,9 +187,9 @@ max_segment_id: 104
 
 <!-- id: s4-10-0042 -->
 
-> ［*Im ersteren Falle hat sich das Ich um die Eigenschaften des Objekts bereichert, sich dasselbe nach Ferenczi’s Ausdruck « introjiziert », im zweiten Fall ist es verarmt, hat sich dem Objekt hingegeben, dasselbe an die Stelle seines wichtigsten Bestandteils gesetzt.*］
->
-> ［“在第一种情况下，自我以对象的属性丰富自身；用费伦齐的说法，它把对象‘内摄’进来。在第二种情况下，自我变得贫乏，把自己交给对象，并把对象安置到自身最重要的构成要素的位置。”］
+［*Im ersteren Falle hat sich das Ich um die Eigenschaften des Objekts bereichert, sich dasselbe nach Ferenczi’s Ausdruck « introjiziert », im zweiten Fall ist es verarmt, hat sich dem Objekt hingegeben, dasselbe an die Stelle seines wichtigsten Bestandteils gesetzt.*］
+
+［“在第一种情况下，自我以对象的属性丰富自身；用费伦齐的说法，它把对象‘内摄’进来。在第二种情况下，自我变得贫乏，把自己交给对象，并把对象安置到自身最重要的构成要素的位置。”］
 
 <!-- id: s4-10-0043 -->
 
@@ -243,7 +243,11 @@ max_segment_id: 104
 
 <!-- id: s4-10-0055 -->
 
-> “*从经济观点看，问题既不在于丰富，也不在于贫乏，因为即使极端的爱恋状态，也可以被设想成对象向自我的内摄。*”
+<div class="text-quotation">
+
+“*从经济观点看，问题既不在于丰富，也不在于贫乏，因为即使极端的爱恋状态，也可以被设想成对象向自我的内摄。*”
+
+</div>
 
 <!-- id: s4-10-0056 -->
 
@@ -251,11 +255,11 @@ max_segment_id: 104
 
 <!-- id: s4-10-0057 -->
 
-> ［*Im Falle der Identifizierung ist das Objekt verloren gegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von seiten und auf Kosten des Ichs überbesetzt.*］
->
-> ［“在认同的情况下，对象已经失去或遭到放弃；随后它在自我中重新建立起来，自我依照失去对象的范型发生部分改变。在另一种情况下，对象被保留下来，并作为这样的对象，由自我一方以自我为代价得到过度投注。”］
->
-> “*在认同的情况下，对象挥发、消失，随后在自我中重新出现；自我则依照已经消失的对象之范型发生部分转变。在另一种情况下，已经构成的对象由自我赋予全部性质，并以自我为代价。*”
+［*Im Falle der Identifizierung ist das Objekt verloren gegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von seiten und auf Kosten des Ichs überbesetzt.*］
+
+［“在认同的情况下，对象已经失去或遭到放弃；随后它在自我中重新建立起来，自我依照失去对象的范型发生部分改变。在另一种情况下，对象被保留下来，并作为这样的对象，由自我一方以自我为代价得到过度投注。”］
+
+“*在认同的情况下，对象挥发、消失，随后在自我中重新出现；自我则依照已经消失的对象之范型发生部分转变。在另一种情况下，已经构成的对象由自我赋予全部性质，并以自我为代价。*”
 
 <!-- id: s4-10-0058 -->
 
@@ -275,11 +279,11 @@ max_segment_id: 104
 
 <!-- id: s4-10-0062 -->
 
-> ［*Im Falle der Identifizierung ist das Objekt verlorengegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von seiten und auf Kosten des Ichs überbesetzt. Aber auch hiegegen erhebt sich ein Bedenken. Steht es denn fest, daß die Identifizierung das Aufgeben der Objektbesetzung voraussetzt, kann es nicht Identifizierung bei erhaltenem Objekt geben? Und ehe wir uns in die Diskussion dieser heikeln Frage einlassen, kann uns bereits die Einsicht aufdämmern, daß eine andere Alternative das Wesen dieses Sachverhaltes in sich faßt, nämlich ob das Objekt an die Stelle des Ichs oder des Ichideals gesetzt wird.*］
->
-> ［“在认同的情况下，对象已经失去或遭到放弃；随后它在自我中重新建立起来，自我依照失去对象的范型发生部分改变。在另一种情况下，对象被保留下来，并作为这样的对象，由自我一方以自我为代价得到过度投注。不过，这个区分也引起一项疑问：认同确实以放弃对象投注为前提吗？难道不能在对象被保留时发生认同吗？在我们进入这个棘手问题的讨论以前，或许已经可以逐渐看出，另一个二择一包含着这一事态的本质：对象究竟被安置在自我的位置，还是自我理想的位置。”］
->
-> “*于是，它重新竖立在自我中，而部分的自我依照失去对象的范型发生部分转变。在另一种情况下，对象仍然被保留下来，并作为这样的对象，由自我一方以自我为代价得到过度投注。但这一差别又引起新的思考：认同是否确实以放弃对象投注为前提？难道也不能同保留下来的对象发生认同吗？在进入这个格外棘手问题的讨论以前，我们还应当在一项考虑面前稍作停留；我们预感到，还有另一种选择可以设想这种事态的本质，也就是对象究竟被安置到自我的位置，还是自我理想的位置。*”
+［*Im Falle der Identifizierung ist das Objekt verlorengegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von seiten und auf Kosten des Ichs überbesetzt. Aber auch hiegegen erhebt sich ein Bedenken. Steht es denn fest, daß die Identifizierung das Aufgeben der Objektbesetzung voraussetzt, kann es nicht Identifizierung bei erhaltenem Objekt geben? Und ehe wir uns in die Diskussion dieser heikeln Frage einlassen, kann uns bereits die Einsicht aufdämmern, daß eine andere Alternative das Wesen dieses Sachverhaltes in sich faßt, nämlich ob das Objekt an die Stelle des Ichs oder des Ichideals gesetzt wird.*］
+
+［“在认同的情况下，对象已经失去或遭到放弃；随后它在自我中重新建立起来，自我依照失去对象的范型发生部分改变。在另一种情况下，对象被保留下来，并作为这样的对象，由自我一方以自我为代价得到过度投注。不过，这个区分也引起一项疑问：认同确实以放弃对象投注为前提吗？难道不能在对象被保留时发生认同吗？在我们进入这个棘手问题的讨论以前，或许已经可以逐渐看出，另一个二择一包含着这一事态的本质：对象究竟被安置在自我的位置，还是自我理想的位置。”］
+
+“*于是，它重新竖立在自我中，而部分的自我依照失去对象的范型发生部分转变。在另一种情况下，对象仍然被保留下来，并作为这样的对象，由自我一方以自我为代价得到过度投注。但这一差别又引起新的思考：认同是否确实以放弃对象投注为前提？难道也不能同保留下来的对象发生认同吗？在进入这个格外棘手问题的讨论以前，我们还应当在一项考虑面前稍作停留；我们预感到，还有另一种选择可以设想这种事态的本质，也就是对象究竟被安置到自我的位置，还是自我理想的位置。*”
 
 <!-- id: s4-10-0063 -->
 

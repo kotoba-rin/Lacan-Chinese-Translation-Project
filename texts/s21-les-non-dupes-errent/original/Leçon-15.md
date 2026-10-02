@@ -14,7 +14,7 @@ Il est évident que c’est plus qu’aimable de la part de l’Université de P
 
 <!-- id: s21-15-0003 -->
 
-> ce que, bien sûr, moi j’ignore ...cette salle aurait dût être à la disposition d’une autre partie de l’ad­ministration qui, elle, s’occupe de vous canaliser.
+ce que, bien sûr, moi j’ignore ...cette salle aurait dût être à la disposition d’une autre partie de l’ad­ministration qui, elle, s’occupe de vous canaliser.
 
 <!-- id: s21-15-0004 -->
 
@@ -46,9 +46,9 @@ Alors, d’autre part, je vous le donne en mille...
 
 <!-- id: s21-15-0011 -->
 
-> vous n’imaginerez jamais à quoi j’ai perdu mon temps - perdu, enfin oui, perdu -
->
-> à quoi j’ai perdu mon temps en partie depuis que je vous ai vus réunis là ...je vous le donne en mille : j’ai été à Milan à un congrès de sémiotique.
+vous n’imaginerez jamais à quoi j’ai perdu mon temps - perdu, enfin oui, perdu -
+
+à quoi j’ai perdu mon temps en partie depuis que je vous ai vus réunis là ...je vous le donne en mille : j’ai été à Milan à un congrès de sémiotique.
 
 <!-- id: s21-15-0012 -->
 
@@ -60,7 +60,7 @@ Alors, d’autre part, je vous le donne en mille...
 
 <!-- id: s21-15-0014 -->
 
-> dans une perspective justement universitaire ...d’aborder la sémiotique.
+dans une perspective justement universitaire ...d’aborder la sémiotique.
 
 <!-- id: s21-15-0015 -->
 
@@ -76,7 +76,7 @@ Mais j’y ai réfléchi, et il y a à ça des raisons qui sont peut-être dues 
 
 <!-- id: s21-15-0018 -->
 
-> puisque c’est comme ça que j’ai situé l’Université \[discours « *uni vers Cythère* »\] ...le savoir de *La femme,* c’est peut-être pas tout à fait la même chose que le savoir dont nous nous occupons ici.
+puisque c’est comme ça que j’ai situé l’Université \[discours « *uni vers Cythère* »\] ...le savoir de *La femme,* c’est peut-être pas tout à fait la même chose que le savoir dont nous nous occupons ici.
 
 <!-- id: s21-15-0019 -->
 
@@ -92,7 +92,7 @@ Si j’ai par exemple marqué l’accent, sur le savoir en tant que le discours 
 
 <!-- id: s21-15-0022 -->
 
-> nulle hypothèse en tant qu’il articulait la chose scientifiquement ...eh bien, il était bien incapable... sauf bien sûr à ce qu’on le lui reproche ...il était bien incapable de dire où se situait ce savoir grâce à quoi le ciel se meut dans l’ordre qu’on sait, c’est-à-dire sur le fondement de la gravitation.
+nulle hypothèse en tant qu’il articulait la chose scientifiquement ...eh bien, il était bien incapable... sauf bien sûr à ce qu’on le lui reproche ...il était bien incapable de dire où se situait ce savoir grâce à quoi le ciel se meut dans l’ordre qu’on sait, c’est-à-dire sur le fondement de la gravitation.
 
 <!-- id: s21-15-0023 -->
 
@@ -100,9 +100,9 @@ Si j’ai accentué ce caractère « *dans le Réel* » d’un certain *savoir
 
 <!-- id: s21-15-0024 -->
 
-> d’une *écriture* qui n’est pas aisée, puisque c’est celle que vous m’avez vu manier
->
-> plus ou moins adroitement au tableau sous la forme du nœud borroméen ...et c’est en quoi je voudrais conclure cette année.
+d’une *écriture* qui n’est pas aisée, puisque c’est celle que vous m’avez vu manier
+
+plus ou moins adroitement au tableau sous la forme du nœud borroméen ...et c’est en quoi je voudrais conclure cette année.
 
 <!-- id: s21-15-0025 -->
 
@@ -114,7 +114,7 @@ De ça, il faut tout de même que je reparte, de ce qui m’a été également p
 
 <!-- id: s21-15-0027 -->
 
-> dans une certaine *Société* dite *Internationale* ...qui continuent à opérer comme si tout ça allait de soi.
+dans une certaine *Société* dite *Internationale* ...qui continuent à opérer comme si tout ça allait de soi.
 
 <!-- id: s21-15-0028 -->
 
@@ -122,7 +122,7 @@ C’est à savoir que ça pouvait se situer dans un monde, comme ça, qui serait
 
 <!-- id: s21-15-0029 -->
 
-> de corps qu’on appelle *vivants,* et bien sûr y a pas de raison qu’on les appelle pas comme ça ...qui sont plongés dans un milieu qu’on appelle *«* *monde* » et tout ça, en effet, pourquoi le rejeter d’un coup ?
+de corps qu’on appelle *vivants,* et bien sûr y a pas de raison qu’on les appelle pas comme ça ...qui sont plongés dans un milieu qu’on appelle *«* *monde* » et tout ça, en effet, pourquoi le rejeter d’un coup ?
 
 <!-- id: s21-15-0030 -->
 
@@ -130,11 +130,11 @@ Néanmoins, ce qui ressort d’une pratique...
 
 <!-- id: s21-15-0031 -->
 
-> d’une pratique qui se fonde sur l’*ex-sistence de l’inconscient* ...doit tout de même nous permettre de décoller de cette vision élémentaire qui est celle... je ne dirais pas du *moi*, encore qu’il s’en encombre et que j’aie lu des choses directement extraites *d’un certain congrès* qui s’est tenu à Madrid où par exemple, on s’aperçoit que Freud lui-même, je dois dire, a dit des choses aussi énormes que ça que je vais vous avancer, que c’est du *moi*...
+d’une pratique qui se fonde sur l’*ex-sistence de l’inconscient* ...doit tout de même nous permettre de décoller de cette vision élémentaire qui est celle... je ne dirais pas du *moi*, encore qu’il s’en encombre et que j’aie lu des choses directement extraites *d’un certain congrès* qui s’est tenu à Madrid où par exemple, on s’aperçoit que Freud lui-même, je dois dire, a dit des choses aussi énormes que ça que je vais vous avancer, que c’est du *moi*...
 
 <!-- id: s21-15-0032 -->
 
-> le *moi* c’est autre chose que l’inconscient, évidemment ce n’est pas souligné que c’est autre chose... ...il y a un moment où Freud a refait toute sa « *Topique* », n’est-ce pas, comme on dit :
+le *moi* c’est autre chose que l’inconscient, évidemment ce n’est pas souligné que c’est autre chose... ...il y a un moment où Freud a refait toute sa « *Topique* », n’est-ce pas, comme on dit :
 
 <!-- id: s21-15-0033 -->
 
@@ -150,7 +150,7 @@ Mais comme ce corps...
 
 <!-- id: s21-15-0036 -->
 
-> et c’est en ça que ça consiste, cette « *seconde Topique »* de Freud ...comme ce corps est situé d’une relation au « *Ça* », au « *Ça* » qui est une idée extraordinairement *confuse* : comme Freud l’articule c’est un lieu, un lieu de silence, c’est ce qu’il en dit de principal.
+et c’est en ça que ça consiste, cette « *seconde Topique »* de Freud ...comme ce corps est situé d’une relation au « *Ça* », au « *Ça* » qui est une idée extraordinairement *confuse* : comme Freud l’articule c’est un lieu, un lieu de silence, c’est ce qu’il en dit de principal.
 
 <!-- id: s21-15-0037 -->
 
@@ -190,7 +190,7 @@ Je vous le répète : c’est difficile d’être entièrement satisfait de cett
 
 <!-- id: s21-15-0046 -->
 
-> à quoi nous avons affaire dans la pratique analytique ...c’est quelque chose qui semble bien se pré­senter d’une façon toute différente.
+à quoi nous avons affaire dans la pratique analytique ...c’est quelque chose qui semble bien se pré­senter d’une façon toute différente.
 
 <!-- id: s21-15-0047 -->
 
@@ -198,9 +198,9 @@ C’est à savoir que cet inconscient, par rapport à ce qui couplerait si bien 
 
 <!-- id: s21-15-0048 -->
 
-> le corps à ce qui l’entoure, ce qui l’ordonnerait sous cette sorte de rapport
->
-> qu’on s’obstine à vouloir considérer comme naturel ...c’est que par rapport à lui, cet inconscient se présente comme essentiellement *différent* de cette harmonie, \- disons le mot - *dysharmonique*. Je le lâche tout de suite, et pourquoi pas ? Il faut y mettre l’accent.
+le corps à ce qui l’entoure, ce qui l’ordonnerait sous cette sorte de rapport
+
+qu’on s’obstine à vouloir considérer comme naturel ...c’est que par rapport à lui, cet inconscient se présente comme essentiellement *différent* de cette harmonie, \- disons le mot - *dysharmonique*. Je le lâche tout de suite, et pourquoi pas ? Il faut y mettre l’accent.
 
 <!-- id: s21-15-0049 -->
 
@@ -208,7 +208,7 @@ Le rapport au *monde* est certainement...
 
 <!-- id: s21-15-0050 -->
 
-> si nous donnons son sens, ce sens effectif qu’il a dans la pratique ...est quelque chose dont on ne peut pas ne pas tout de suite ressentir que, par rapport à cette vision toute simple en quelque sorte de l’échange avec l’environnement, cet inconscient est parasitaire.
+si nous donnons son sens, ce sens effectif qu’il a dans la pratique ...est quelque chose dont on ne peut pas ne pas tout de suite ressentir que, par rapport à cette vision toute simple en quelque sorte de l’échange avec l’environnement, cet inconscient est parasitaire.
 
 <!-- id: s21-15-0051 -->
 
@@ -264,7 +264,7 @@ Et à la vérité, il a fallu en arriver fort tard dans la biologie pour qu’on
 
 <!-- id: s21-15-0064 -->
 
-> c’est tout ce que nous pouvons en dire ...c’est « *autre chose »* que l’ensemble des forces qui s’opposent à la résolution du corps en cadavre.
+c’est tout ce que nous pouvons en dire ...c’est « *autre chose »* que l’ensemble des forces qui s’opposent à la résolution du corps en cadavre.
 
 <!-- id: s21-15-0065 -->
 
@@ -272,7 +272,7 @@ Je dirais même plus : tout ce qu’il peut y avoir qui nous laisse espérer un 
 
 <!-- id: s21-15-0066 -->
 
-> à savoir de ce que c’est que la vie ...nous porte tout de même vers une toute autre *conception.*
+à savoir de ce que c’est que la vie ...nous porte tout de même vers une toute autre *conception.*
 
 <!-- id: s21-15-0067 -->
 
@@ -280,7 +280,7 @@ Celle dont j’ai cette année essayé de placer quelque chose en vous parlant d
 
 <!-- id: s21-15-0068 -->
 
-> c’est par là que j’ai essayé de vous en donner une idée ...ce qui bien au-delà se trouve être ce que nous pouvons articuler du développement de la vie, et nommément ceci auquel les biologistes arrivent : que grâce au fait qu’ils peuvent y regarder d’un peu plus près qu’on ne l’a fait depuis toujours, que la vie se supporte de *quelque chose* dont je ne vais pas quant à moi franchir le pas,
+c’est par là que j’ai essayé de vous en donner une idée ...ce qui bien au-delà se trouve être ce que nous pouvons articuler du développement de la vie, et nommément ceci auquel les biologistes arrivent : que grâce au fait qu’ils peuvent y regarder d’un peu plus près qu’on ne l’a fait depuis toujours, que la vie se supporte de *quelque chose* dont je ne vais pas quant à moi franchir le pas,
 
 <!-- id: s21-15-0069 -->
 
@@ -292,7 +292,7 @@ Celle dont j’ai cette année essayé de placer quelque chose en vous parlant d
 
 <!-- id: s21-15-0071 -->
 
-> de choses qui vont aux purines, ou à toutes sortes de constructions chimiquement repérées et repérables.
+de choses qui vont aux purines, ou à toutes sortes de constructions chimiquement repérées et repérables.
 
 <!-- id: s21-15-0072 -->
 
@@ -348,9 +348,9 @@ Et ce qui constitue l’*Un* de cet individu, c’est qu’à toutes sortes de s
 
 <!-- id: s21-15-0085 -->
 
-> mais pas de signes dans le sens où je l’entendais tout à l’heure,
->
-> de signes que donne cette expérience privilégiée que je situais dans l’analyse, ne l’oublions pas ...il y a des signes dans son déplacement, dans sa motion, qu’il *jouit*.
+mais pas de signes dans le sens où je l’entendais tout à l’heure,
+
+de signes que donne cette expérience privilégiée que je situais dans l’analyse, ne l’oublions pas ...il y a des signes dans son déplacement, dans sa motion, qu’il *jouit*.
 
 <!-- id: s21-15-0086 -->
 
@@ -378,7 +378,7 @@ Mais ce que nous découvrons, c’est que chez un être privilégié...
 
 <!-- id: s21-15-0092 -->
 
-> aussi privilégié qu’Aristote l’était par rapport à l’ensemble de l’humain ...chez un être privilégié, cette vie - si je puis dire - *se varie,* ou même *s’avarie, s’avarie au point de se diversifier*... dans quoi ?
+aussi privilégié qu’Aristote l’était par rapport à l’ensemble de l’humain ...chez un être privilégié, cette vie - si je puis dire - *se varie,* ou même *s’avarie, s’avarie au point de se diversifier*... dans quoi ?
 
 <!-- id: s21-15-0093 -->
 
@@ -398,13 +398,17 @@ Qu’« *empêchement* »...
 
 <!-- id: s21-15-0097 -->
 
-> comme je l’ai dit dans un temps dans mon séminaire sur *L’Angoisse*
->
-> dont je peux regretter qu’après tout il ne soit pas déjà là à votre disposition ...qu’« *empêchement* », « *émoi* »...
+comme je l’ai dit dans un temps dans mon séminaire sur *L’Angoisse*
+
+dont je peux regretter qu’après tout il ne soit pas déjà là à votre disposition ...qu’« *empêchement* », « *émoi* »...
 
 <!-- id: s21-15-0098 -->
 
-> « *émoi* » tel que je l’ai bien précisé : « *émoi* » c’est retrait d’une puissance ...qu’« *embarras* », soient des mots qui ont *du sens*, eh bien ils n’ont de *sens* que véhiculés sur les traces que fraye *lalangue.*
+<div class="text-quotation">
+
+« *émoi* » tel que je l’ai bien précisé : « *émoi* » c’est retrait d’une puissance ...qu’« *embarras* », soient des mots qui ont *du sens*, eh bien ils n’ont de *sens* que véhiculés sur les traces que fraye *lalangue.*
+
+</div>
 
 <!-- id: s21-15-0099 -->
 
@@ -424,9 +428,9 @@ Alors je voudrais quand même vous faire sentir ce qu’implique l’expérience
 
 <!-- id: s21-15-0103 -->
 
-> et pourquoi pas ? Vous savez bien que je ne vous barbe pas avec l’*âme* \[*anima*\] :
->
-> l’*animation*, c’est dans le sens d’un sérieux *trifouillement*, d’un *chatouillis*, d’un *grat­tage*, d’une *fureur* pour tout dire ...*l’animation de la jouissance du corps*.
+et pourquoi pas ? Vous savez bien que je ne vous barbe pas avec l’*âme* \[*anima*\] :
+
+l’*animation*, c’est dans le sens d’un sérieux *trifouillement*, d’un *chatouillis*, d’un *grat­tage*, d’une *fureur* pour tout dire ...*l’animation de la jouissance du corps*.
 
 <!-- id: s21-15-0104 -->
 
@@ -434,9 +438,9 @@ Et *cette « animation »* n’est pas notre expérience, ne provient pas de n
 
 <!-- id: s21-15-0105 -->
 
-> à savoir que c’est *l’animation* que donne un parasite*...*
->
-> *l’animation* que, peut-être, moi je donne à l’Université par exemple ...eh bien *ça provient d’une jouissance privilégiée, distincte de celle du corps*.
+à savoir que c’est *l’animation* que donne un parasite*...*
+
+*l’animation* que, peut-être, moi je donne à l’Université par exemple ...eh bien *ça provient d’une jouissance privilégiée, distincte de celle du corps*.
 
 <!-- id: s21-15-0106 -->
 
@@ -452,7 +456,7 @@ Mais *c’est très précisément ça que nous situons dans la jouissance phalli
 
 <!-- id: s21-15-0109 -->
 
-> *tracassé* comme je l’ai été par ce Congrès de sémiotique *...*je me permets d’avancer le mot « *sème* ».
+*tracassé* comme je l’ai été par ce Congrès de sémiotique *...*je me permets d’avancer le mot « *sème* ».
 
 <!-- id: s21-15-0110 -->
 
@@ -476,7 +480,7 @@ Tout ce qui fait sens dans *lalangue* s’avère lié à *l’ex-sistence* de ce
 
 <!-- id: s21-15-0115 -->
 
-> que j’espère avoir rendu présent - mais qui sait ? ...c’est que c’est pour autant *que cette jouissance phallique, que cette jouissance sémiotique* se surajoute au corps, qu’il y a un problème.
+que j’espère avoir rendu présent - mais qui sait ? ...c’est que c’est pour autant *que cette jouissance phallique, que cette jouissance sémiotique* se surajoute au corps, qu’il y a un problème.
 
 <!-- id: s21-15-0116 -->
 
@@ -484,7 +488,7 @@ Ce problème, je vous ai proposé de le résoudre, si tant est que ce soit une c
 
 <!-- id: s21-15-0117 -->
 
-> et cette mesure, je vous la propose comme absolue *...*dans la mesure où *il n’y a pas de rapport sexuel*.
+et cette mesure, je vous la propose comme absolue *...*dans la mesure où *il n’y a pas de rapport sexuel*.
 
 <!-- id: s21-15-0118 -->
 
@@ -492,7 +496,7 @@ En d’autres termes, dans cet ensemble confus que *seul le sème*...
 
 <!-- id: s21-15-0119 -->
 
-> *le sème une fois qu’on l’a lui-même un peu éveillé à l’ex-sistence, c’est-à-dire qu’on l’a <u>dit</u>* comme tel, ...c’est par là, *c’est dans la mesure où le corps parlant habite ces sèmes qu’il trouve le moyen de suppléer au fait* *que rien, rien à part ça, ne le conduirait vers* ce qu’on a bien été forcé de faire surgir dans le terme « *autre* », dans le terme *autre* qui habite *lalangue* et qui est fait pour représenter ceci justement : *qu’il n’y a avec le partenaire sexuel aucun rapport autre que par l’intermédiaire de ce qui fait sens dans lalangue.*
+*le sème une fois qu’on l’a lui-même un peu éveillé à l’ex-sistence, c’est-à-dire qu’on l’a <u>dit</u>* comme tel, ...c’est par là, *c’est dans la mesure où le corps parlant habite ces sèmes qu’il trouve le moyen de suppléer au fait* *que rien, rien à part ça, ne le conduirait vers* ce qu’on a bien été forcé de faire surgir dans le terme « *autre* », dans le terme *autre* qui habite *lalangue* et qui est fait pour représenter ceci justement : *qu’il n’y a avec le partenaire sexuel aucun rapport autre que par l’intermédiaire de ce qui fait sens dans lalangue.*
 
 <!-- id: s21-15-0120 -->
 
@@ -516,11 +520,11 @@ Non seulement qui est à part des autres mais qui, les autres jouissances...
 
 <!-- id: s21-15-0125 -->
 
-> la jouissance qu’il est ma foi tout à fait facile d’imaginer, à savoir qu’un corps, mon Dieu,
->
-> c’est fait pour qu’on ait le plaisir de lever un bras et puis l’autre, et puis de faire de la gymnastique,
->
-> et de sauter, et de courir, et de tirer, et de faire tout ce qu’on veut ...il est quand même curieux que ce soit autour de cet organe que naisse une jouissance privilégiée.
+la jouissance qu’il est ma foi tout à fait facile d’imaginer, à savoir qu’un corps, mon Dieu,
+
+c’est fait pour qu’on ait le plaisir de lever un bras et puis l’autre, et puis de faire de la gymnastique,
+
+et de sauter, et de courir, et de tirer, et de faire tout ce qu’on veut ...il est quand même curieux que ce soit autour de cet organe que naisse une jouissance privilégiée.
 
 <!-- id: s21-15-0126 -->
 
@@ -528,9 +532,9 @@ Car c’est ce que nous montre l’expérience analytique, c’est à savoir que
 
 <!-- id: s21-15-0127 -->
 
-> quoique tout de même ça le chatouillait lui aussi
->
-> et il l’a entrevu, il l’a presque dit dans *« Malaise dans la Civilisation »...*c’est à savoir que *le sens n’est sexuel que parce que le sens se substitue justement au sexuel qui manque*.
+quoique tout de même ça le chatouillait lui aussi
+
+et il l’a entrevu, il l’a presque dit dans *« Malaise dans la Civilisation »...*c’est à savoir que *le sens n’est sexuel que parce que le sens se substitue justement au sexuel qui manque*.
 
 <!-- id: s21-15-0128 -->
 
@@ -582,7 +586,7 @@ Il y a quelqu’un qui, naturellement est à *cent coudées au-dessus* *d’un t
 
 <!-- id: s21-15-0140 -->
 
-> j’en savais assez pour le savoir quand même ...des stoïciens et de saint Augustin.
+j’en savais assez pour le savoir quand même ...des stoïciens et de saint Augustin.
 
 <!-- id: s21-15-0141 -->
 
@@ -598,7 +602,7 @@ Le *signans* a l’intérêt qu’il nous permet dans l’analyse d’opérer, d
 
 <!-- id: s21-15-0144 -->
 
-> encore que, comme tout le monde, nous ne soyons capables que d’avoir une pensée à la fois *...*mais de nous mettre dans cet état dit pudiquement *« d’attention flottante »*, qui fait que justement quand le partenaire là, l’*analysant*, lui en émet une, une pensée, nous pouvons en avoir une tout autre, c’est un heureux hasard d’où jaillit un éclair.
+encore que, comme tout le monde, nous ne soyons capables que d’avoir une pensée à la fois *...*mais de nous mettre dans cet état dit pudiquement *« d’attention flottante »*, qui fait que justement quand le partenaire là, l’*analysant*, lui en émet une, une pensée, nous pouvons en avoir une tout autre, c’est un heureux hasard d’où jaillit un éclair.
 
 <!-- id: s21-15-0145 -->
 
@@ -606,11 +610,11 @@ Et c’est justement de là que peut se produire l’*interprétation*, c’est-
 
 <!-- id: s21-15-0146 -->
 
-> quelquefois simplement du fait d’une espèce d’*équivoque*, c’est-à-dire d’une équivalence matérielle ...nous nous apercevons que ce qu’il a dit...
+quelquefois simplement du fait d’une espèce d’*équivoque*, c’est-à-dire d’une équivalence matérielle ...nous nous apercevons que ce qu’il a dit...
 
 <!-- id: s21-15-0147 -->
 
-> nous nous apercevons parce que nous le subissons ...que ce qu’il a dit pouvait être entendu *tout de travers*.
+nous nous apercevons parce que nous le subissons ...que ce qu’il a dit pouvait être entendu *tout de travers*.
 
 <!-- id: s21-15-0148 -->
 
@@ -642,7 +646,7 @@ C’est pas pour rien...
 
 <!-- id: s21-15-0155 -->
 
-> parce que quand même j’ai ma petite idée ...c’est pas pour rien que je vous ai fait remarquer que ce fameux arbre de départ là, celui où on a cueilli la pomme, on pouvait se poser la question *s’il jouit* lui-même tout comme un autre être vivant.
+parce que quand même j’ai ma petite idée ...c’est pas pour rien que je vous ai fait remarquer que ce fameux arbre de départ là, celui où on a cueilli la pomme, on pouvait se poser la question *s’il jouit* lui-même tout comme un autre être vivant.
 
 <!-- id: s21-15-0156 -->
 
@@ -654,7 +658,7 @@ Et alors disons que *lalangue, <u>n’importe quel élément de lalangue</u> <u>
 
 <!-- id: s21-15-0158 -->
 
-> *au regard de la jouissance phallique...<u>un brin de jouissance</u>, et c’est en ça que ça étend ses racines <u>si loin dans le corps</u>.*
+*au regard de la jouissance phallique...<u>un brin de jouissance</u>, et c’est en ça que ça étend ses racines <u>si loin dans le corps</u>.*
 
 <!-- id: s21-15-0159 -->
 
@@ -662,7 +666,7 @@ Bon, alors *ce dont il faut partir*...
 
 <!-- id: s21-15-0160 -->
 
-> vous voyez, ça traîne, il est tard, bon... ...*c’est de cette forte affirmation que l’inconscient n’est pas une connaissance : c’est un savoir,* *et un savoir en tant que je le définis de la connexion de signifiants*, 1<sup>er</sup> point. 2<sup>ème</sup> point : *c’est un savoir dysharmonique,* qui ne prête d’aucune façon à un mariage qui serait heureux.
+vous voyez, ça traîne, il est tard, bon... ...*c’est de cette forte affirmation que l’inconscient n’est pas une connaissance : c’est un savoir,* *et un savoir en tant que je le définis de la connexion de signifiants*, 1<sup>er</sup> point. 2<sup>ème</sup> point : *c’est un savoir dysharmonique,* qui ne prête d’aucune façon à un mariage qui serait heureux.
 
 <!-- id: s21-15-0161 -->
 
@@ -742,13 +746,13 @@ Il y a une personne*...*
 
 <!-- id: s21-15-0180 -->
 
-> et une personne dont je m’étonne pas du tout que ce soit *cette personne-là*, parce que quand même
->
-> il a reçu une touche d’un petit coup de fion que je lui ai donné dans le temps \[*Rires*\] *...*c’est que tout est centré autour de ceci qu’il voit se reproduire dans un de ses rêves une note, une note à proprement parler sémantique*...*
+et une personne dont je m’étonne pas du tout que ce soit *cette personne-là*, parce que quand même
+
+il a reçu une touche d’un petit coup de fion que je lui ai donné dans le temps \[*Rires*\] *...*c’est que tout est centré autour de ceci qu’il voit se reproduire dans un de ses rêves une note, une note à proprement parler sémantique*...*
 
 <!-- id: s21-15-0181 -->
 
-> à savoir que ça n’est que vraiment là comme noté, articulé, écrit *...*il voit se reproduire dans un de ses rêves une note sémantique du rêve d’un de ses patients.
+à savoir que ça n’est que vraiment là comme noté, articulé, écrit *...*il voit se reproduire dans un de ses rêves une note sémantique du rêve d’un de ses patients.
 
 <!-- id: s21-15-0182 -->
 
@@ -800,9 +804,9 @@ Il y a un machin de Cocteau*...*
 
 <!-- id: s21-15-0194 -->
 
-> parce que de temps en temps je ne vois pas pourquoi je cracherais sur les écrivains,
->
-> ils sont plutôt moins cons que les autres *...*il y a un machin de Cocteau qui s’appelle « *Le Potomak »* où il a créé quelque chose, dont je ne vais pas me mettre à vous dire ce que c’est : *les Eugène*. Mais il y a aussi là-dedans *les Mortimer*.
+parce que de temps en temps je ne vois pas pourquoi je cracherais sur les écrivains,
+
+ils sont plutôt moins cons que les autres *...*il y a un machin de Cocteau qui s’appelle « *Le Potomak »* où il a créé quelque chose, dont je ne vais pas me mettre à vous dire ce que c’est : *les Eugène*. Mais il y a aussi là-dedans *les Mortimer*.
 
 <!-- id: s21-15-0195 -->
 
@@ -834,7 +838,7 @@ Alors quand même...
 
 <!-- id: s21-15-0202 -->
 
-> il ne me reste plus qu’un petit quart d’heure ...je voudrais quand même faire quelques remarques sur la portée... parce que ça a semblé frapper comme ça un copain qui est là au premier rang, je lui ai lâché ça comme ça au cours d’un dîner, et j’ai eu la surprise de voir que ça le comblait de plaisir.
+il ne me reste plus qu’un petit quart d’heure ...je voudrais quand même faire quelques remarques sur la portée... parce que ça a semblé frapper comme ça un copain qui est là au premier rang, je lui ai lâché ça comme ça au cours d’un dîner, et j’ai eu la surprise de voir que ça le comblait de plaisir.
 
 <!-- id: s21-15-0203 -->
 
@@ -870,7 +874,7 @@ Et il y a rien d’illégitime...
 
 <!-- id: s21-15-0211 -->
 
-> je ne vais pas plaider ça aujourd’hui parce que nous n’avons plus le temps ...il y a rien d’illégitime à cette quantification du sens.
+je ne vais pas plaider ça aujourd’hui parce que nous n’avons plus le temps ...il y a rien d’illégitime à cette quantification du sens.
 
 <!-- id: s21-15-0212 -->
 
@@ -894,7 +898,7 @@ Le propre d’un signifiant...
 
 <!-- id: s21-15-0217 -->
 
-> c’est un fait de langue auquel on ne peut rien ...c’est que tout signifiant peut se réduire à la portée du signifiant **1**.
+c’est un fait de langue auquel on ne peut rien ...c’est que tout signifiant peut se réduire à la portée du signifiant **1**.
 
 <!-- id: s21-15-0218 -->
 
@@ -902,11 +906,11 @@ Et c’est en tant que signifiant **1***...*
 
 <!-- id: s21-15-0219 -->
 
-> je pense que vous vous souvenez autrefois de mes petites parenthèses :
->
-> S<sub>1</sub>, S<sub>2</sub> entre parenthèses, et il y avait des S<sub>1</sub> qui se refoutaient devant, *etc.*
->
-> \[(S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> → S<sub>2</sub>) ) ) )\] *...*pour exprimer l’affaire que je définis pour faire que le signifiant ça soit ce qui domine dans la constitution du sujet : *« un signifiant est ce qui représente un sujet pour un autre signifiant »*.
+je pense que vous vous souvenez autrefois de mes petites parenthèses :
+
+S<sub>1</sub>, S<sub>2</sub> entre parenthèses, et il y avait des S<sub>1</sub> qui se refoutaient devant, *etc.*
+
+\[(S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> → S<sub>2</sub>) ) ) )\] *...*pour exprimer l’affaire que je définis pour faire que le signifiant ça soit ce qui domine dans la constitution du sujet : *« un signifiant est ce qui représente un sujet pour un autre signifiant »*.
 
 <!-- id: s21-15-0220 -->
 
@@ -942,9 +946,9 @@ C’est-à-dire que tous ces épinglages dits *fonctionnels* de *l’identificat
 
 <!-- id: s21-15-0228 -->
 
-> et c’est en ça que le copain en question manifestait sa vive satisfaction,
->
-> c’est parce que je le lui ai dit comme ça appuyé, au lieu qu’à vous, je vous ai laissés dans la mélasse *...*c’est que *toutes ces identifications sont du même côté*.
+et c’est en ça que le copain en question manifestait sa vive satisfaction,
+
+c’est parce que je le lui ai dit comme ça appuyé, au lieu qu’à vous, je vous ai laissés dans la mélasse *...*c’est que *toutes ces identifications sont du même côté*.
 
 <!-- id: s21-15-0229 -->
 
@@ -964,7 +968,7 @@ parce que vous remarquez que je dis bien sûr *<u>une</u> femme,* et puis je dis
 
 <!-- id: s21-15-0233 -->
 
-> l’homme tel que l’imagine *La femme,* c’est-à-dire celle qui n’existe pas, c’est-à-dire une imagination de vide *...*l’homme lui, il est tordu par son sexe.
+l’homme tel que l’imagine *La femme,* c’est-à-dire celle qui n’existe pas, c’est-à-dire une imagination de vide *...*l’homme lui, il est tordu par son sexe.
 
 <!-- id: s21-15-0234 -->
 
@@ -996,7 +1000,7 @@ Qu’est-ce que ça veut dire pour *la femme,* puisque vous avez pu croire qu’
 
 <!-- id: s21-15-0241 -->
 
-> je commence par là, parce que c’est le plus marrant
+je commence par là, parce que c’est le plus marrant
 
 <!-- id: s21-15-0242 -->
 
@@ -1016,7 +1020,7 @@ Le « *pas toutes* » dont j’ai inscrit l’autre rapport au ! \[. !\], c’
 
 <!-- id: s21-15-0246 -->
 
-> l’amour dont il s’agit et que je mets là comme ça, *généreusement* tout entier du côté des femmes, ...il faut quand même y mettre, si je puis dire, une pédale \[*Rires*\].
+l’amour dont il s’agit et que je mets là comme ça, *généreusement* tout entier du côté des femmes, ...il faut quand même y mettre, si je puis dire, une pédale \[*Rires*\].
 
 <!-- id: s21-15-0247 -->
 
@@ -1032,7 +1036,7 @@ Et puis après le :, *l’ex-sistence* du *x* - lui que pour un rien...
 
 <!-- id: s21-15-0250 -->
 
-> enfin, « *pour un rien* » et puis parce que je l’ai dit ici en clair ...qui est celui où se situe Dieu.
+enfin, « *pour un rien* » et puis parce que je l’ai dit ici en clair ...qui est celui où se situe Dieu.
 
 <!-- id: s21-15-0251 -->
 
@@ -1124,11 +1128,11 @@ Je voudrais terminer sur ceci qui est extrait de Peirce : c’est qu’il s’es
 
 <!-- id: s21-15-0273 -->
 
-> non pas l’épinglage fonctionnel à un seul argument que je viens de vous donner pour être celui de *l’identification* en en remettant la chose dans la poche de la femme *...*il s’est mis à cogiter autour de *x* R...
+non pas l’épinglage fonctionnel à un seul argument que je viens de vous donner pour être celui de *l’identification* en en remettant la chose dans la poche de la femme *...*il s’est mis à cogiter autour de *x* R...
 
 <!-- id: s21-15-0274 -->
 
-> R, signe d’une relation idéale, vidée, il ne dit pas laquelle
+R, signe d’une relation idéale, vidée, il ne dit pas laquelle
 
 <!-- id: s21-15-0275 -->
 
@@ -1140,7 +1144,7 @@ Qu’est-ce que c’est...
 
 <!-- id: s21-15-0277 -->
 
-> à partir de ce que je viens de vous avancer aujourd’hui ...qu’est-ce que c’est que la relation « *savoir »* ?
+à partir de ce que je viens de vous avancer aujourd’hui ...qu’est-ce que c’est que la relation « *savoir »* ?
 
 <!-- id: s21-15-0278 -->
 
@@ -1200,9 +1204,9 @@ C’est pas parce que j’ai dit que les sentiments sont toujours réciproques*.
 
 <!-- id: s21-15-0292 -->
 
-> car c’est ainsi que je me suis exprimé dans le temps,
->
-> devant des gens qui comme d’habitude n’entendent rien à ce que je dis *...*c’est pas parce qu’on aime qu’on est aimé. Je n’ai jamais osé dire une chose pareille !
+car c’est ainsi que je me suis exprimé dans le temps,
+
+devant des gens qui comme d’habitude n’entendent rien à ce que je dis *...*c’est pas parce qu’on aime qu’on est aimé. Je n’ai jamais osé dire une chose pareille !
 
 <!-- id: s21-15-0293 -->
 
@@ -1218,7 +1222,7 @@ Là nous avons une surprise, c’est que « *le savoir »* c’est parfaitemen
 
 <!-- id: s21-15-0296 -->
 
-> au niveau du *savoir inconscient* ...au fait que « *le sujet est su »*. Au niveau *du sens* en tout cas, c’est absolument clair : le savoir c’est ce qui est su.
+au niveau du *savoir inconscient* ...au fait que « *le sujet est su »*. Au niveau *du sens* en tout cas, c’est absolument clair : le savoir c’est ce qui est su.
 
 <!-- id: s21-15-0297 -->
 
@@ -1226,7 +1230,7 @@ Alors essayons quand même de tirer quelques conséquences de ceci que ce que l�
 
 <!-- id: s21-15-0298 -->
 
-> l’amour courant, l’amour sur lequel on s’assoit tranquillement, et puis pas d’histoires *...*c’est pas tout à fait pareil que ce qui se produit quand *émerge la jouissance* *de* *la* *femme.*
+l’amour courant, l’amour sur lequel on s’assoit tranquillement, et puis pas d’histoires *...*c’est pas tout à fait pareil que ce qui se produit quand *émerge la jouissance* *de* *la* *femme.*
 
 <!-- id: s21-15-0299 -->
 
@@ -1238,7 +1242,7 @@ Pour l’instant, essayons bien de saisir que ce que l’analyse a révélé com
 
 <!-- id: s21-15-0301 -->
 
-> l’amour dont j’ai parlé tout à l’heure ...*l’amour se porte vers le sujet supposé savoir*.
+l’amour dont j’ai parlé tout à l’heure ...*l’amour se porte vers le sujet supposé savoir*.
 
 <!-- id: s21-15-0302 -->
 
@@ -1286,7 +1290,7 @@ Mais c’est peut-être dans cette *erre* (*e,deux r,e)...*
 
 <!-- id: s21-15-0313 -->
 
-> vous savez, ce truc qui tire, là, quand le navire se laisse balancer *...*c’est peut-être là
+vous savez, ce truc qui tire, là, quand le navire se laisse balancer *...*c’est peut-être là
 
 <!-- id: s21-15-0314 -->
 

@@ -205,8 +205,8 @@ Aussi bien, cette référence, dans la suite, me sera-t-elle assez essen­tielle
 
 <!-- id: s11-17-0036 -->
 
-> assez essentielle pour caractériser ce qu’il en est de l’expérience du transfert
-> …pour que je revienne ici, à en articuler quelques traits.
+assez essentielle pour caractériser ce qu’il en est de l’expérience du transfert
+…pour que je revienne ici, à en articuler quelques traits.
 
 <!-- id: s11-17-0037 -->
 
@@ -324,15 +324,15 @@ et directive dans notre méthode investigatrice qui est celle de l’*inconscien
 
 <!-- id: s11-17-0061 -->
 
-> à se pousser lui-même par une méthode dont j’ai bien toujours souligné devant vous - et j’ai été assez satisfait en relisant ces textes de voir que là *je ne brode pas*, que ce n’est point un commentaire - qu’effectivement pour lui, comme là où je vous le dis, *la certitude ça n’est pas un moment en quelque sorte qu’on puisse tenir pour acquis une fois qu’il a été franchi, il faut qu’il soit, à chaque fois, par chacun répété, c’est une ascèse*. C’est un joint et *c’est un point d’orientation particulièrement difficile à soutenir* dans ce tranchant qui fait sa valeur essentielle et qui est à pro­prement parler l’instauration comme telle de ce quelque chose de séparé
-> …*on pourrait dire* que quand DESCARTES saisit, tient, nous dirons *inau­gure* le concept d’une certitude qui ne tiendrait toute entière que dans ce « *je pense* » de la cogitation…
+à se pousser lui-même par une méthode dont j’ai bien toujours souligné devant vous - et j’ai été assez satisfait en relisant ces textes de voir que là *je ne brode pas*, que ce n’est point un commentaire - qu’effectivement pour lui, comme là où je vous le dis, *la certitude ça n’est pas un moment en quelque sorte qu’on puisse tenir pour acquis une fois qu’il a été franchi, il faut qu’il soit, à chaque fois, par chacun répété, c’est une ascèse*. C’est un joint et *c’est un point d’orientation particulièrement difficile à soutenir* dans ce tranchant qui fait sa valeur essentielle et qui est à pro­prement parler l’instauration comme telle de ce quelque chose de séparé
+…*on pourrait dire* que quand DESCARTES saisit, tient, nous dirons *inau­gure* le concept d’une certitude qui ne tiendrait toute entière que dans ce « *je pense* » de la cogitation…
 
 <!-- id: s11-17-0062 -->
 
-> si l’on peut dire, marquée même de ce point de non-issue qu’il y a entre l’annihilation du savoir
->
-> et le scepticisme qui ne sont point deux choses semblables
-> …*on pourrait dire* que son erreur, c’est de croire que c’est là un savoir, que de cette *certitude* il puisse dire qu’il sache quelque chose, comme je l’ai déjà dit devant vous, que ce « *je pense* » ne soit pas simple point d’évanouissement.
+si l’on peut dire, marquée même de ce point de non-issue qu’il y a entre l’annihilation du savoir
+
+et le scepticisme qui ne sont point deux choses semblables
+…*on pourrait dire* que son erreur, c’est de croire que c’est là un savoir, que de cette *certitude* il puisse dire qu’il sache quelque chose, comme je l’ai déjà dit devant vous, que ce « *je pense* » ne soit pas simple point d’évanouissement.
 
 <!-- id: s11-17-0063 -->
 

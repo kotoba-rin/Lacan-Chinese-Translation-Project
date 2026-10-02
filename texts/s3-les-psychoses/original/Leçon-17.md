@@ -6,11 +6,15 @@
 
 <!-- id: s3-17-0001 -->
 
-> « *C’est de là que résultent les innombrables malentendus que je dois présumer de la part de Dieu.*
->
-> *En ont résulté les tortures intellectuelles presque insupportables que je devais subir pendant*
->
-> *des années. Aussi longtemps que Dieu voit par mon intermédiaire, participe à mes impressions*… »
+<div class="text-quotation">
+
+« *C’est de là que résultent les innombrables malentendus que je dois présumer de la part de Dieu.*
+
+*En ont résulté les tortures intellectuelles presque insupportables que je devais subir pendant*
+
+*des années. Aussi longtemps que Dieu voit par mon intermédiaire, participe à mes impressions*… »
+
+</div>
 
 <!-- id: s3-17-0002 -->
 
@@ -18,19 +22,23 @@ Dans l’étude d’un cas - quel qu’il soit, et celui-là en particulier - il
 
 <!-- id: s3-17-0003 -->
 
-> « *Aussi longtemps que la volupté d’âme dans mon cœur, permet la jouissance, ou aussi longtemps que mon activité intellectuelle fait sortir des pensées formulées en mots, aussi longtemps que ces trois choses parallèles se produisent. Dieu est pour ainsi dire satisfait et la tendance à se retirer de moi ne se fait peu ou bien pas du tout sentir, ou bien seulement dans le minimum*
->
-> *qui comme je dois le supposer est conditionné dans un risque périodique par les dispositions que l’on avait prises une fois,*
->
-> *il y a des années, et qui sont contradictoires à l’ordre de l’univers. C’est ce qui sert à maintenir à une juste distance*
->
-> *tout ce qui tend à se précipiter vers lui, à se concentrer dans une sorte de point central, par la vertu de la force d’attraction qu’exerce son propre être sur ce qui reste au monde d’existant.*
->
-> ...*Mais d’un autre côté, l’homme n’est pas capable de jouir et de penser sans cesse. Donc aussitôt que je m’abandonne*
->
-> *au rien penser, sans laisser se produire simultanément les soins de la volupté dans le sens précis*...
->
-> ...*Le retrait des rayons réapparaît immédiatement avec ces phénomènes accessoires plus ou moins désagréables pour moi, sensations douloureuses, crises de hurlements, accompagnés par un vacarme quelconque dans ma proximité.*
+<div class="text-quotation">
+
+« *Aussi longtemps que la volupté d’âme dans mon cœur, permet la jouissance, ou aussi longtemps que mon activité intellectuelle fait sortir des pensées formulées en mots, aussi longtemps que ces trois choses parallèles se produisent. Dieu est pour ainsi dire satisfait et la tendance à se retirer de moi ne se fait peu ou bien pas du tout sentir, ou bien seulement dans le minimum*
+
+*qui comme je dois le supposer est conditionné dans un risque périodique par les dispositions que l’on avait prises une fois,*
+
+*il y a des années, et qui sont contradictoires à l’ordre de l’univers. C’est ce qui sert à maintenir à une juste distance*
+
+*tout ce qui tend à se précipiter vers lui, à se concentrer dans une sorte de point central, par la vertu de la force d’attraction qu’exerce son propre être sur ce qui reste au monde d’existant.*
+
+...*Mais d’un autre côté, l’homme n’est pas capable de jouir et de penser sans cesse. Donc aussitôt que je m’abandonne*
+
+*au rien penser, sans laisser se produire simultanément les soins de la volupté dans le sens précis*...
+
+...*Le retrait des rayons réapparaît immédiatement avec ces phénomènes accessoires plus ou moins désagréables pour moi, sensations douloureuses, crises de hurlements, accompagnés par un vacarme quelconque dans ma proximité.*
+
+</div>
 
 <!-- id: s3-17-0004 -->
 
@@ -58,7 +66,7 @@ En d’autres termes, nous allons apparemment nous contenter non seulement de no
 
 <!-- id: s3-17-0010 -->
 
-> a été considéré comme la chose à éviter.
+a été considéré comme la chose à éviter.
 
 <!-- id: s3-17-0011 -->
 
@@ -122,9 +130,9 @@ En fait quand nous nous apercevons…
 
 <!-- id: s3-17-0026 -->
 
-> pas simplement à propos d’un cas aussi remarquable que le Président SCHREBER,
->
-> mais à propos du moindre des sujets
+pas simplement à propos d’un cas aussi remarquable que le Président SCHREBER,
+
+mais à propos du moindre des sujets
 
 <!-- id: s3-17-0027 -->
 
@@ -136,7 +144,7 @@ Nous n’avons vraiment aucune raison de ne pas recueillir comme tel, sous prét
 
 <!-- id: s3-17-0029 -->
 
-> vous savez quoi… tout ce qu’on échafaude sur les prétendus phénomènes primitifs, élémentaires
+vous savez quoi… tout ce qu’on échafaude sur les prétendus phénomènes primitifs, élémentaires
 
 <!-- id: s3-17-0030 -->
 
@@ -200,9 +208,9 @@ Si vous interrogez simplement *sur ce que deviennent les vocalisations pour une 
 
 <!-- id: s3-17-0045 -->
 
-> et ce n’est sans doute pas sans raison que le phénomène soit plus particulièrement en montagne,
->
-> peut-être que ces lieux sont moins humanisés que les autres
+et ce n’est sans doute pas sans raison que le phénomène soit plus particulièrement en montagne,
+
+peut-être que ces lieux sont moins humanisés que les autres
 
 <!-- id: s3-17-0046 -->
 
@@ -234,13 +242,17 @@ Il parle des autres aliénés - il a lu KRÆPELIN - pour qui les phénomènes so
 
 <!-- id: s3-17-0053 -->
 
-> « *Chez moi, par contre, ces phénomènes dans la conversation des voix n’existent point, depuis le début de mon contact avec Dieu l’Unique, exception faite des premières semaines, quand il y a eu à part les périodes sacrées, encore des périodes non sacrées. Donc depuis presque sept années, il n’y avait même pas un seul moment, sauf pendant le sommeil, où je n’aurais pas entendu des voix. Elles m’accompagnent à tout endroit et à toute occasion. Elles continuent à se faire entendre même si je suis en conversation avec d’autres gens. Elles poursuivent librement leur cours, même si je m’occupe aussi attentivement que possible d’autres choses. Quand par exemple, je lis un livre ou un journal, je joue du piano, c’est seulement aussi longtemps que je parle moi-même à haute voix avec d’autres gens ou en étant seul qu’elles sont couvertes par le son plus puissant du mot parlé,*
->
-> *et ne sont ainsi pas entendues par moi pendant ces moments. Mais le recommencement immédiat des phrases, reprises avec un son extrême du milieu de la phrase, me fait savoir de toute façon que le fil de la conversation n’a pas été interrompu, c’est-à-dire*
->
-> *que les stimulations du sens ou l’oscillation de nerf, par lesquels les faits auditifs plus faibles, correspondant aux voix,*
->
-> *se manifestent, ont continué aussi pendant que je parlais à haute voix.* »
+<div class="text-quotation">
+
+« *Chez moi, par contre, ces phénomènes dans la conversation des voix n’existent point, depuis le début de mon contact avec Dieu l’Unique, exception faite des premières semaines, quand il y a eu à part les périodes sacrées, encore des périodes non sacrées. Donc depuis presque sept années, il n’y avait même pas un seul moment, sauf pendant le sommeil, où je n’aurais pas entendu des voix. Elles m’accompagnent à tout endroit et à toute occasion. Elles continuent à se faire entendre même si je suis en conversation avec d’autres gens. Elles poursuivent librement leur cours, même si je m’occupe aussi attentivement que possible d’autres choses. Quand par exemple, je lis un livre ou un journal, je joue du piano, c’est seulement aussi longtemps que je parle moi-même à haute voix avec d’autres gens ou en étant seul qu’elles sont couvertes par le son plus puissant du mot parlé,*
+
+*et ne sont ainsi pas entendues par moi pendant ces moments. Mais le recommencement immédiat des phrases, reprises avec un son extrême du milieu de la phrase, me fait savoir de toute façon que le fil de la conversation n’a pas été interrompu, c’est-à-dire*
+
+*que les stimulations du sens ou l’oscillation de nerf, par lesquels les faits auditifs plus faibles, correspondant aux voix,*
+
+*se manifestent, ont continué aussi pendant que je parlais à haute voix.* »
+
+</div>
 
 <!-- id: s3-17-0054 -->
 
@@ -288,13 +300,17 @@ Une brève petite note à propos de l’intelligence divine et l’intelligence 
 
 <!-- id: s3-17-0065 -->
 
-> « *Je crois pouvoir dire que l’intelligence divine est égale au moins à la somme de toutes les intelligences humaines qui existaient pendant les générations passées. Car Dieu assimile après la mort tous les nerfs humains. Il unit donc en soi l’ensemble des intelligences, en élevant progressivement tous les souvenirs qui n’avaient un intérêt que pour les individus respectifs et qui par conséquent ne sont pas considérés comme parties intégrantes d’une intelligence généralement de valeur. Il n’y a aucun doute pour moi, par exemple, que Dieu sait ce que sont les chemins de fer, connaît leur essence et leur but précis. D’où Dieu a-t-il acquis cette connaissance ? Dieu n’a en soi dans des conditions conformes à l’ordre de l’univers qu’une impression extérieure d’un train qui roule comme de tout autre événement sur terre. Il aurait eu la possibilité de procurer par la force d’une assomption*
->
-> *sur quelqu’un... par les questions ferroviaires des renseignements d’état sur le but et le fonctionnement de ces phénomènes.*
->
-> *Mais il n’avait guère de motifs pour prendre une telle mesure. Avec le temps, des générations entières, donc qui connaissaient couramment toute la signification des chemins de fer, revenaient à Dieu. Ainsi la connaissance des chemins de fer*
->
-> *était acquise par Dieu même.* »
+<div class="text-quotation">
+
+« *Je crois pouvoir dire que l’intelligence divine est égale au moins à la somme de toutes les intelligences humaines qui existaient pendant les générations passées. Car Dieu assimile après la mort tous les nerfs humains. Il unit donc en soi l’ensemble des intelligences, en élevant progressivement tous les souvenirs qui n’avaient un intérêt que pour les individus respectifs et qui par conséquent ne sont pas considérés comme parties intégrantes d’une intelligence généralement de valeur. Il n’y a aucun doute pour moi, par exemple, que Dieu sait ce que sont les chemins de fer, connaît leur essence et leur but précis. D’où Dieu a-t-il acquis cette connaissance ? Dieu n’a en soi dans des conditions conformes à l’ordre de l’univers qu’une impression extérieure d’un train qui roule comme de tout autre événement sur terre. Il aurait eu la possibilité de procurer par la force d’une assomption*
+
+*sur quelqu’un... par les questions ferroviaires des renseignements d’état sur le but et le fonctionnement de ces phénomènes.*
+
+*Mais il n’avait guère de motifs pour prendre une telle mesure. Avec le temps, des générations entières, donc qui connaissaient couramment toute la signification des chemins de fer, revenaient à Dieu. Ainsi la connaissance des chemins de fer*
+
+*était acquise par Dieu même.* »
+
+</div>
 
 <!-- id: s3-17-0066 -->
 
@@ -314,11 +330,15 @@ Le cinquième chapitre, entres autres, va concerner en particulier ce qu’on ap
 
 <!-- id: s3-17-0070 -->
 
-> « *À part la langue habituelle, il y a encore une sorte de langue des nerfs dont en général l’homme qui normalement se porte bien n’est pas conscient. Pour pouvoir comprendre au mieux ce phénomène, il faut, selon mon avis, se rappeler les procédés*
->
-> *qui entrent en jeu quand un homme cherche à retenir dans sa mémoire certains mots dans un ordre déterminé. Par exemple, l’enfant qui apprend par cœur un poème qu’il doit réciter à l’école, ou un prêtre le sermon qu’il veut tenir à l’église. *
->
-> *On répète ces mots dans le silence.* »
+<div class="text-quotation">
+
+« *À part la langue habituelle, il y a encore une sorte de langue des nerfs dont en général l’homme qui normalement se porte bien n’est pas conscient. Pour pouvoir comprendre au mieux ce phénomène, il faut, selon mon avis, se rappeler les procédés*
+
+*qui entrent en jeu quand un homme cherche à retenir dans sa mémoire certains mots dans un ordre déterminé. Par exemple, l’enfant qui apprend par cœur un poème qu’il doit réciter à l’école, ou un prêtre le sermon qu’il veut tenir à l’église. *
+
+*On répète ces mots dans le silence.* »
+
+</div>
 
 <!-- id: s3-17-0071 -->
 
@@ -326,11 +346,15 @@ Nous approchons. On sent qu’il y a quelque chose qui prouve que le sujet a cer
 
 <!-- id: s3-17-0072 -->
 
-> « *Il en est de même avec l’oraison mentale à laquelle la communauté est invité du haut de la chaire,*
->
-> *c’est-à-dire que l’homme incite ses nerfs à des privations conformes à l’usage des mots respectifs,*
->
-> *les organes de la voix proprement dits n’entrent pas en fonction, ou seulement involontairement.* »
+<div class="text-quotation">
+
+« *Il en est de même avec l’oraison mentale à laquelle la communauté est invité du haut de la chaire,*
+
+*c’est-à-dire que l’homme incite ses nerfs à des privations conformes à l’usage des mots respectifs,*
+
+*les organes de la voix proprement dits n’entrent pas en fonction, ou seulement involontairement.* »
+
+</div>
 
 <!-- id: s3-17-0073 -->
 
@@ -338,11 +362,15 @@ Il se rend bien compte que le phénomène, la position d’exception de la parol
 
 <!-- id: s3-17-0074 -->
 
-> « *L’application de cette langue de nerfs dépend dans des conditions normales, conformes à l’ordre de l’univers, uniquement*
->
-> *de la volonté de l’homme dont les nerfs sont en cause. Aucun homme ne peut forcer un autre à se servir de la langue des nerfs. Par contre, il est arrivé dans mon cas, depuis le revirement critique de ma maladie nerveuse, que mes nerfs aient été mis*
->
-> *en action de l’extérieur sans cesse et sans relâche. La qualité d’agir de telle façon sur les nerfs d’un homme est surtout propre aux rayons divins. C’est de là que provient le fait que Dieu a été depuis toujours en mesure d’inspirer des rêves aux hommes.* »
+<div class="text-quotation">
+
+« *L’application de cette langue de nerfs dépend dans des conditions normales, conformes à l’ordre de l’univers, uniquement*
+
+*de la volonté de l’homme dont les nerfs sont en cause. Aucun homme ne peut forcer un autre à se servir de la langue des nerfs. Par contre, il est arrivé dans mon cas, depuis le revirement critique de ma maladie nerveuse, que mes nerfs aient été mis*
+
+*en action de l’extérieur sans cesse et sans relâche. La qualité d’agir de telle façon sur les nerfs d’un homme est surtout propre aux rayons divins. C’est de là que provient le fait que Dieu a été depuis toujours en mesure d’inspirer des rêves aux hommes.* »
+
+</div>
 
 <!-- id: s3-17-0075 -->
 
@@ -350,11 +378,15 @@ Cette subite introduction du rêve comme appartenant, comme essentiellement, au 
 
 <!-- id: s3-17-0076 -->
 
-> « *J’ai senti une certaine influence, comme d’une action provenant du Professeur Fleschig, je ne saurai expliquer ce fait que le Professeur Fleschig ait essayé d’assujettir les rayons divins. À part les nerfs du Professeur Fleschig, d’autres rayons divins se sont mis en contact avec mes nerfs de façon à agir à mes côtés, d’amener à des formes opposées à l’ordre de l’univers et des droits naturels de l’homme, à disposer de l’usage de ces nerfs, et si j’ose dire, de plus en plus grotesque, cette action se fit donc remarquer assez tôt sous la forme d’une obligation de penser, d’une compulsion à penser, un terme employé par les voix intérieures mêmes, et qui ne saurait guère être connu par d’autres gens, parce que ce phénomène se trouve hors de toute expérience humaine. La nature de l’obligation à penser consiste en ce que l’homme est forcé de penser sans relâche.*
->
-> *En d’autres termes le droit naturel d’un homme d’accorder de temps en temps à ses nerfs de l’intellect le repos nécessaire par un rien penser, me fut refusé depuis par des rayons qui me* \[...\] *entrer et qui désiraient savoir sans cesse ce que je pense. On me posa même la question en ces termes : à quoi pensez-vous ? À cet instant, puisque cette question représente déjà par sa forme un non-sens complet, un homme, comme tout le monde le sait, peut aussi bien à certains moments penser à rien, penser à mille choses à la fois. Mes nerfs ne réagissaient pas à une telle question contradictoire en soi-même. J’étais donc obligé de recourir à un système de falsification de pensée, en répliquant par exemple à la question posée : c’est l’ordre de l’univers auquel un tel désir essaie de penser. C’est-à-dire qu’on obligeait mes nerfs par l’action de la langue de me* \[...\] *aux vibrations qui correspondaient à l’usage de ces mots. Cela fut la cause que le nombre des points dont provenaient les adjonctions de nerfs augmentaient avec le temps.*
->
-> *À part le Professeur FLESCHIG, le seul dont je savais avec certitude qu’il a été, au moins pendant un certain temps parmi les vivants, c’étaient surtout des âmes décédées qui commencèrent à s’intéresser de plus en plus à moi.* »
+<div class="text-quotation">
+
+« *J’ai senti une certaine influence, comme d’une action provenant du Professeur Fleschig, je ne saurai expliquer ce fait que le Professeur Fleschig ait essayé d’assujettir les rayons divins. À part les nerfs du Professeur Fleschig, d’autres rayons divins se sont mis en contact avec mes nerfs de façon à agir à mes côtés, d’amener à des formes opposées à l’ordre de l’univers et des droits naturels de l’homme, à disposer de l’usage de ces nerfs, et si j’ose dire, de plus en plus grotesque, cette action se fit donc remarquer assez tôt sous la forme d’une obligation de penser, d’une compulsion à penser, un terme employé par les voix intérieures mêmes, et qui ne saurait guère être connu par d’autres gens, parce que ce phénomène se trouve hors de toute expérience humaine. La nature de l’obligation à penser consiste en ce que l’homme est forcé de penser sans relâche.*
+
+*En d’autres termes le droit naturel d’un homme d’accorder de temps en temps à ses nerfs de l’intellect le repos nécessaire par un rien penser, me fut refusé depuis par des rayons qui me* \[...\] *entrer et qui désiraient savoir sans cesse ce que je pense. On me posa même la question en ces termes : à quoi pensez-vous ? À cet instant, puisque cette question représente déjà par sa forme un non-sens complet, un homme, comme tout le monde le sait, peut aussi bien à certains moments penser à rien, penser à mille choses à la fois. Mes nerfs ne réagissaient pas à une telle question contradictoire en soi-même. J’étais donc obligé de recourir à un système de falsification de pensée, en répliquant par exemple à la question posée : c’est l’ordre de l’univers auquel un tel désir essaie de penser. C’est-à-dire qu’on obligeait mes nerfs par l’action de la langue de me* \[...\] *aux vibrations qui correspondaient à l’usage de ces mots. Cela fut la cause que le nombre des points dont provenaient les adjonctions de nerfs augmentaient avec le temps.*
+
+*À part le Professeur FLESCHIG, le seul dont je savais avec certitude qu’il a été, au moins pendant un certain temps parmi les vivants, c’étaient surtout des âmes décédées qui commencèrent à s’intéresser de plus en plus à moi.* »
+
+</div>
 
 <!-- id: s3-17-0077 -->
 
@@ -362,7 +394,11 @@ Là-dessus, considérations et précisions dans *une note* :
 
 <!-- id: s3-17-0078 -->
 
-> « *Dans cette réponse, le mot « penser » a été retranché. Les âmes avaient l’habitude déjà avant que les situations contradictoires à l’ordre de l’univers se fassent remarquer, d’exprimer leurs pensées, dans le commerce entre elles, d’une façon grammaticalement incomplète, c’est-à-dire de retrancher certains mots dont on pouvait se passer sans changer le sens. Cette habitude dégénéra au cours du temps en un abus. On peut en faire moins parce que les nerfs de l’intellect de l’homme sont fortement dans la langue fondamentale, sont toujours excités par de telles phrases morcelées, parce qu’ils cherchent automatiquement à trouver le mot qui manque. Ainsi j’entends - pour mentionner un seul des innombrables exemples - depuis des années, toujours la même question cent fois : « pourquoi ne le dites-vous pas ? » où on retranche les mots qui sont nécessaires pour compléter la phrase. Les rayons se donnent Eux-mêmes la réponse à peu près comme ceci : « parce que je suis bête ». Depuis des années mes nerfs doivent supporter sans cesse de pareils non-sens affreux et monotones, qui sortent pour ainsi dire d’eux-mêmes. Je m’expliquerai plus tard en détail sur la raison qui fut décisive pour le choix des phrases respectives et les effets qu’on avait l’intention d’obtenir.* »
+<div class="text-quotation">
+
+« *Dans cette réponse, le mot « penser » a été retranché. Les âmes avaient l’habitude déjà avant que les situations contradictoires à l’ordre de l’univers se fassent remarquer, d’exprimer leurs pensées, dans le commerce entre elles, d’une façon grammaticalement incomplète, c’est-à-dire de retrancher certains mots dont on pouvait se passer sans changer le sens. Cette habitude dégénéra au cours du temps en un abus. On peut en faire moins parce que les nerfs de l’intellect de l’homme sont fortement dans la langue fondamentale, sont toujours excités par de telles phrases morcelées, parce qu’ils cherchent automatiquement à trouver le mot qui manque. Ainsi j’entends - pour mentionner un seul des innombrables exemples - depuis des années, toujours la même question cent fois : « pourquoi ne le dites-vous pas ? » où on retranche les mots qui sont nécessaires pour compléter la phrase. Les rayons se donnent Eux-mêmes la réponse à peu près comme ceci : « parce que je suis bête ». Depuis des années mes nerfs doivent supporter sans cesse de pareils non-sens affreux et monotones, qui sortent pour ainsi dire d’eux-mêmes. Je m’expliquerai plus tard en détail sur la raison qui fut décisive pour le choix des phrases respectives et les effets qu’on avait l’intention d’obtenir.* »
+
+</div>
 
 <!-- id: s3-17-0079 -->
 
@@ -374,7 +410,7 @@ Je reviendrai par la suite sur la personnalité particulière du père de SCHREB
 
 <!-- id: s3-17-0081 -->
 
-> qui est celle qui surgit dans une sorte de deuxième premier temps du délire
+qui est celle qui surgit dans une sorte de deuxième premier temps du délire
 
 <!-- id: s3-17-0082 -->
 
@@ -390,9 +426,9 @@ Ces âmes qu’il désigne, qu’il situe, autour desquelles il désorganise tou
 
 <!-- id: s3-17-0085 -->
 
-> qui sont en quelque sorte la réduction en un seul nerf, avec le temps et à la suite des successives réductions, soustractions ou adjonctions de nerfs qui sont le processus de résorbation qu’il sent comme étant celui
->
-> par où ils s’intègrent à lui-même, à le détruire
+qui sont en quelque sorte la réduction en un seul nerf, avec le temps et à la suite des successives réductions, soustractions ou adjonctions de nerfs qui sont le processus de résorbation qu’il sent comme étant celui
+
+par où ils s’intègrent à lui-même, à le détruire
 
 <!-- id: s3-17-0086 -->
 
@@ -432,7 +468,7 @@ Il y a une autre voie qui se manifeste comme étant d’une autre nature. Elle n
 
 <!-- id: s3-17-0095 -->
 
-> quelque résiduelle qu’elle soit dans le plus grand nombre des critiques
+quelque résiduelle qu’elle soit dans le plus grand nombre des critiques
 
 <!-- id: s3-17-0096 -->
 

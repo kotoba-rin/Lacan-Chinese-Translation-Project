@@ -30,9 +30,9 @@ Il y a cette structure plus complexe qui s’appelle le fantasme, et où paradox
 
 <!-- id: s6-24-0007 -->
 
-> en prenant une forme particulière spécialement exemplaire
->
-> \- non sans profonds motifs - celle de l’exhibitionniste et du voyeur
+en prenant une forme particulière spécialement exemplaire
+
+\- non sans profonds motifs - celle de l’exhibitionniste et du voyeur
 
 <!-- id: s6-24-0008 -->
 
@@ -88,7 +88,7 @@ Un temps d’arrêt qui a cette valeur d’*index* correspond à un moment d’a
 
 <!-- id: s6-24-0021 -->
 
-> qui est justement *ce que nous désignons comme désir ici*, ce que nous essayons d’isoler dans sa fonction de *désir*
+qui est justement *ce que nous désignons comme désir ici*, ce que nous essayons d’isoler dans sa fonction de *désir*
 
 <!-- id: s6-24-0022 -->
 
@@ -116,9 +116,9 @@ C’est là le point essentiel : *aphanisis* \[ἀϕάνισις\]. Sans doute l
 
 <!-- id: s6-24-0028 -->
 
-> pour autant que nous avons défini ce *point extrême*, *ce point imaginaire où l’être du sujet réside dans sa densité maxima*
->
-> ce ne sont que des images pour que votre esprit s’accroche à une métaphore
+pour autant que nous avons défini ce *point extrême*, *ce point imaginaire où l’être du sujet réside dans sa densité maxima*
+
+ce ne sont que des images pour que votre esprit s’accroche à une métaphore
 
 <!-- id: s6-24-0029 -->
 
@@ -126,7 +126,7 @@ C’est là le point essentiel : *aphanisis* \[ἀϕάνισις\]. Sans doute l
 
 <!-- id: s6-24-0030 -->
 
-> en tant qu’il est celui qui est à *articuler*, à *nommer* dans l’inconscient
+en tant qu’il est celui qui est à *articuler*, à *nommer* dans l’inconscient
 
 <!-- id: s6-24-0031 -->
 
@@ -138,7 +138,7 @@ c’est autour de ce point imaginaire…
 
 <!-- id: s6-24-0033 -->
 
-> et ceci est, en tout domaine, légitime si nous pouvons articuler sa structure par ce qui en part
+et ceci est, en tout domaine, légitime si nous pouvons articuler sa structure par ce qui en part
 
 <!-- id: s6-24-0034 -->
 
@@ -154,11 +154,11 @@ Alors à partir de là, à partir de cette structure où le sujet, dans son mome
 
 <!-- id: s6-24-0037 -->
 
-> et je vous le répète c’est là une notion dont vous pouvez trouver la trace lorsque FREUD
->
-> parle de « *l’ombilic du rêve* », *le point où toutes les associations convergent* pour disparaître,
->
-> pour n’être plus reliables à rien que ce qu’il appelle l’*unerkannt* \[*le non reconnu*\], c’est de cela qu’il s’agit
+et je vous le répète c’est là une notion dont vous pouvez trouver la trace lorsque FREUD
+
+parle de « *l’ombilic du rêve* », *le point où toutes les associations convergent* pour disparaître,
+
+pour n’être plus reliables à rien que ce qu’il appelle l’*unerkannt* \[*le non reconnu*\], c’est de cela qu’il s’agit
 
 <!-- id: s6-24-0038 -->
 
@@ -306,7 +306,7 @@ Elle prend la place de ce que nous pourrions appeler d’un terme anglais « *a
 
 <!-- id: s6-24-0074 -->
 
-> fiez-vous à ces formules quand vous aurez affaire aux sujets cliniquement ainsi qualifiables
+fiez-vous à ces formules quand vous aurez affaire aux sujets cliniquement ainsi qualifiables
 
 <!-- id: s6-24-0075 -->
 
@@ -318,7 +318,7 @@ C’est de cette disparition même du sujet - le S - au point d’approche du d�
 
 <!-- id: s6-24-0077 -->
 
-> *parce qu’il n’y a pas d’autre place que celle qui était réservée jusqu’ici à la structure instantanée, relationnelle, de l’hystérique*
+*parce qu’il n’y a pas d’autre place que celle qui était réservée jusqu’ici à la structure instantanée, relationnelle, de l’hystérique*
 
 <!-- id: s6-24-0078 -->
 
@@ -394,7 +394,7 @@ C’est en raison sans aucun doute d’une *souplesse génétique*. C’est auss
 
 <!-- id: s6-24-0096 -->
 
-> car rien n’est articulé dans l’analyse si on ne l’articule pas à ce niveau
+car rien n’est articulé dans l’analyse si on ne l’articule pas à ce niveau
 
 <!-- id: s6-24-0097 -->
 
@@ -406,7 +406,7 @@ Et aussi bien c’est ainsi que chaque fois qu’on fait intervenir d’une faç
 
 <!-- id: s6-24-0099 -->
 
-> pour autant qu’elle règle, qu’elle noue le désir à une loi
+pour autant qu’elle règle, qu’elle noue le désir à une loi
 
 <!-- id: s6-24-0100 -->
 
@@ -418,7 +418,7 @@ C’est de la rencontre de ceci avec sa *fonction phallique*…
 
 <!-- id: s6-24-0102 -->
 
-> avec sa *fonction phallique* dans les liens réels des rapports *avec les autres réels*, de la génération réelle de la lignée
+avec sa *fonction phallique* dans les liens réels des rapports *avec les autres réels*, de la génération réelle de la lignée
 
 <!-- id: s6-24-0103 -->
 
@@ -434,7 +434,7 @@ C’est à savoir ce sujet qui se qualifiait lui-même comme « *personne* ».
 
 <!-- id: s6-24-0106 -->
 
-> ce sujet au moment où il approche de son désir, où il y met tout juste le doigt, où il a à choisir de n’être personne ou d’être pris, absorbé entièrement dans le désir dévorant de la femme, que tout de suite après il est sommé « *d’être ou de ne pas être* » : de faire venir au jour *le « to be » de la seconde partie* - qui n’a pas le même sens que dans la première - le « *ne pas être* » de la structure primordiale du désir
+ce sujet au moment où il approche de son désir, où il y met tout juste le doigt, où il a à choisir de n’être personne ou d’être pris, absorbé entièrement dans le désir dévorant de la femme, que tout de suite après il est sommé « *d’être ou de ne pas être* » : de faire venir au jour *le « to be » de la seconde partie* - qui n’a pas le même sens que dans la première - le « *ne pas être* » de la structure primordiale du désir
 
 <!-- id: s6-24-0107 -->
 
@@ -474,7 +474,7 @@ C’est pourquoi on peut dire qu’à l’issue de la démystification analytiqu
 
 <!-- id: s6-24-0116 -->
 
-> tout au moins ce dont nous témoigne FREUD dans sa propre expérience
+tout au moins ce dont nous témoigne FREUD dans sa propre expérience
 
 <!-- id: s6-24-0117 -->
 
@@ -498,7 +498,7 @@ Je veux dire ce que nous avons manifesté, mis en valeur au moment voulu, ce qui
 
 <!-- id: s6-24-0122 -->
 
-> FREUD l’a souligné maintes fois en son temps et en ses propres termes
+FREUD l’a souligné maintes fois en son temps et en ses propres termes
 
 <!-- id: s6-24-0123 -->
 
@@ -538,9 +538,9 @@ Sa première réaction est à mon avis presque *faramineuse* dans son caractère
 
 <!-- id: s6-24-0132 -->
 
-> qui par certains côtés a si bien vu *les éléments de structure comme ceux de l’introjection et de l’expulsion*, à savoir
->
-> cette limite du monde extérieur de ce qu’on peut appeler les ténèbres intérieures par rapport à un sujet
+qui par certains côtés a si bien vu *les éléments de structure comme ceux de l’introjection et de l’expulsion*, à savoir
+
+cette limite du monde extérieur de ce qu’on peut appeler les ténèbres intérieures par rapport à un sujet
 
 <!-- id: s6-24-0133 -->
 
@@ -552,7 +552,7 @@ Sa première réaction est à mon avis presque *faramineuse* dans son caractère
 
 <!-- id: s6-24-0135 -->
 
-> car nous en trouvons *dans certaines structures du village primitif* de ces sortes de zones déblayées entre les deux
+car nous en trouvons *dans certaines structures du village primitif* de ces sortes de zones déblayées entre les deux
 
 <!-- id: s6-24-0136 -->
 
@@ -596,7 +596,7 @@ Je veux dire, puisque nous avons fait allusion en son temps à la perspective h�
 
 <!-- id: s6-24-0146 -->
 
-> la tradition, sous la bouche de CHRYSIPPE[^113] si mon souvenir est bon, nous en transmet le témoignage
+la tradition, sous la bouche de CHRYSIPPE[^113] si mon souvenir est bon, nous en transmet le témoignage
 
 <!-- id: s6-24-0147 -->
 
@@ -608,7 +608,7 @@ Le fantasme de *l’obsessionnel* est donc quelque chose qui, bien entendu, a un
 
 <!-- id: s6-24-0149 -->
 
-> dont il est même remarquable que cela puisse en devenir une des conditions
+dont il est même remarquable que cela puisse en devenir une des conditions
 
 <!-- id: s6-24-0150 -->
 
@@ -668,13 +668,13 @@ C’est ceci : que c’est dans le fait de s’aliéner, c’est-à-dire de se s
 
 <!-- id: s6-24-0164 -->
 
-> et nous verrons la prochaine fois comment nous pouvons lui opposer quelque chose de très particulier,
->
-> non pas la perversion en général, car ici la perversion dans ce que nous explorons comme structure
->
-> joue un rôle de point pivot, mais où nous pouvons lui opposer quelque chose de très spécial,
->
-> et dont le facteur commun ne semble pas avoir été trouvé jusqu’ici, c’est à savoir l’homosexualité
+et nous verrons la prochaine fois comment nous pouvons lui opposer quelque chose de très particulier,
+
+non pas la perversion en général, car ici la perversion dans ce que nous explorons comme structure
+
+joue un rôle de point pivot, mais où nous pouvons lui opposer quelque chose de très spécial,
+
+et dont le facteur commun ne semble pas avoir été trouvé jusqu’ici, c’est à savoir l’homosexualité
 
 <!-- id: s6-24-0165 -->
 
@@ -690,7 +690,7 @@ Le sujet donc se présente ici comme je ne dirai point un « *être pur* »…
 
 <!-- id: s6-24-0168 -->
 
-> *ce dont je suis parti pour vous indiquer ce que voulait dire le rapport de cette manifestation particulière du sujet au réel*
+*ce dont je suis parti pour vous indiquer ce que voulait dire le rapport de cette manifestation particulière du sujet au réel*
 
 <!-- id: s6-24-0169 -->
 

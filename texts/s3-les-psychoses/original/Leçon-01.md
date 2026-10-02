@@ -26,7 +26,7 @@ Puisque aussi bien ce point de mire…
 
 <!-- id: s3-01-0006 -->
 
-> et assurément ce n’est pas un hasard, mettons que ce soit un lapsus : c’est un lapsus significatif
+et assurément ce n’est pas un hasard, mettons que ce soit un lapsus : c’est un lapsus significatif
 
 <!-- id: s3-01-0007 -->
 
@@ -42,9 +42,9 @@ En effet ce qui est frappant d’un autre côté, c’est que FREUD s’est int�
 
 <!-- id: s3-01-0010 -->
 
-> il n’ignorait pas bien entendu la *schizophrénie* ni ce mouvement,
->
-> lui qui était contemporain de l’élaboration de la *schizophrénie*
+il n’ignorait pas bien entendu la *schizophrénie* ni ce mouvement,
+
+lui qui était contemporain de l’élaboration de la *schizophrénie*
 
 <!-- id: s3-01-0011 -->
 
@@ -56,11 +56,11 @@ Et pour vous indiquer tout de suite un point de texte auquel vous pourrez vous r
 
 <!-- id: s3-01-0013 -->
 
-> et qui correspond très exactement au terme qu’il voudrait bien, lui FREUD, qu’on donne au champ
->
-> à proprement parler des *schizophrénies*, ou encore ce qu’il propose qu’on appelle *champ des schizophrénies*
->
-> dans la nosologie analytique
+et qui correspond très exactement au terme qu’il voudrait bien, lui FREUD, qu’on donne au champ
+
+à proprement parler des *schizophrénies*, ou encore ce qu’il propose qu’on appelle *champ des schizophrénies*
+
+dans la nosologie analytique
 
 <!-- id: s3-01-0014 -->
 
@@ -72,9 +72,9 @@ Donc pour FREUD, le champ des psychoses se divise en deux : psychoses à proprem
 
 <!-- id: s3-01-0016 -->
 
-> pour savoir ce que cela recouvre à peu près dans l’ensemble du domaine psychiatrique, *psychose* cela n’est pas *démence*. Les psychoses, si vous voulez - il n’y a pas de raison de se refuser le luxe d’employer ce terme -
->
-> ça correspond à ce que l’on a appelé toujours, et qui continue d’être appelé légitimement « les folies »
+pour savoir ce que cela recouvre à peu près dans l’ensemble du domaine psychiatrique, *psychose* cela n’est pas *démence*. Les psychoses, si vous voulez - il n’y a pas de raison de se refuser le luxe d’employer ce terme -
+
+ça correspond à ce que l’on a appelé toujours, et qui continue d’être appelé légitimement « les folies »
 
 <!-- id: s3-01-0017 -->
 
@@ -110,7 +110,7 @@ Mais nous avons d’autres tendances en France à voir le mot paranoïa pris, à
 
 <!-- id: s3-01-0025 -->
 
-> moment extrêmement tardif : ça joue sur une cinquantaine d’années
+moment extrêmement tardif : ça joue sur une cinquantaine d’années
 
 <!-- id: s3-01-0026 -->
 
@@ -122,11 +122,11 @@ En France ce que nous appelons un paranoïaque…
 
 <!-- id: s3-01-0028 -->
 
-> ou tout au moins ce qu’on appelait un paranoïaque avant que la thèse d’un certain Jacques LACAN
->
-> sur « *Les psychoses paranoïaques dans leurs rapports avec la personnalité »*, ait tenté de jeter un grand trouble dans
->
-> les esprits, qui s’est limité à un petit cercle, au petit cercle qui convient : on ne parle plus des paranoïaques comme on en parlait auparavant
+ou tout au moins ce qu’on appelait un paranoïaque avant que la thèse d’un certain Jacques LACAN
+
+sur « *Les psychoses paranoïaques dans leurs rapports avec la personnalité »*, ait tenté de jeter un grand trouble dans
+
+les esprits, qui s’est limité à un petit cercle, au petit cercle qui convient : on ne parle plus des paranoïaques comme on en parlait auparavant
 
 <!-- id: s3-01-0029 -->
 
@@ -142,9 +142,9 @@ Voilà à peu près - je ne force en rien - où nous en étions en France, je ne
 
 <!-- id: s3-01-0032 -->
 
-> parce que si vous lisez, vous verrez qu’au contraire il s’agit là d’une clinique très fine qui permet précisément de reconstituer les bases et les fondements
->
-> de *la psychose paranoïaque* telle qu’elle est effectivement structurée
+parce que si vous lisez, vous verrez qu’au contraire il s’agit là d’une clinique très fine qui permet précisément de reconstituer les bases et les fondements
+
+de *la psychose paranoïaque* telle qu’elle est effectivement structurée
 
 <!-- id: s3-01-0033 -->
 
@@ -164,11 +164,11 @@ Monsieur DE CLÉRAMBAULT…
 
 <!-- id: s3-01-0037 -->
 
-> j’évoque sa personne, son action, son influence et son nom dans une causerie introductive
->
-> de notre champ pour ceux d’entre vous qui n’ont de son œuvre qu’une connaissance moyenne
->
-> ou approximative, ou par ouïe-dire, et je pense qu’il doit y en avoir un certain nombre
+j’évoque sa personne, son action, son influence et son nom dans une causerie introductive
+
+de notre champ pour ceux d’entre vous qui n’ont de son œuvre qu’une connaissance moyenne
+
+ou approximative, ou par ouïe-dire, et je pense qu’il doit y en avoir un certain nombre
 
 <!-- id: s3-01-0038 -->
 
@@ -204,7 +204,7 @@ C’est là une assomption dont il serait exagéré de dire qu’elle est assez 
 
 <!-- id: s3-01-0046 -->
 
-> et je le crains, encore pour vous, tout au moins pour beaucoup d’entre vous
+et je le crains, encore pour vous, tout au moins pour beaucoup d’entre vous
 
 <!-- id: s3-01-0047 -->
 
@@ -216,9 +216,9 @@ Ceci n’est pas faux en soi, mais ce qui est fauxc’est de s’imaginer…
 
 <!-- id: s3-01-0049 -->
 
-> comme il reste d’une façon ambiante dans l’esprit disons des salles de garde,
->
-> de la moyenne de l’opinion commune, du « *sensus commune* » des psychiatres
+comme il reste d’une façon ambiante dans l’esprit disons des salles de garde,
+
+de la moyenne de l’opinion commune, du « *sensus commune* » des psychiatres
 
 <!-- id: s3-01-0050 -->
 
@@ -254,7 +254,7 @@ En ce sens, si nous arrivions même à concevoir...
 
 <!-- id: s3-01-0058 -->
 
-> c’est très difficile de le concevoir parce que c’est littéralement inconcevable, mais comme toutes les choses qui ne sont pas approchées, serrées de près, prises dans un véritable concept, cela reste la supposition latente à tout ce que l’on considère comme une espèce de changement de couleur de la psychiatrie depuis une trentaine d’années.
+c’est très difficile de le concevoir parce que c’est littéralement inconcevable, mais comme toutes les choses qui ne sont pas approchées, serrées de près, prises dans un véritable concept, cela reste la supposition latente à tout ce que l’on considère comme une espèce de changement de couleur de la psychiatrie depuis une trentaine d’années.
 
 <!-- id: s3-01-0059 -->
 
@@ -262,7 +262,7 @@ En ce sens, si nous arrivions même à concevoir...
 
 <!-- id: s3-01-0060 -->
 
-> parce que je pense que la plupart d’entre vous sont capables dès maintenant de comprendre parfaitement ce que je veux dire après deux ans d’enseignement sur le *symbolique*, l’*imaginaire* et le *réel*,
+parce que je pense que la plupart d’entre vous sont capables dès maintenant de comprendre parfaitement ce que je veux dire après deux ans d’enseignement sur le *symbolique*, l’*imaginaire* et le *réel*,
 
 <!-- id: s3-01-0061 -->
 
@@ -306,7 +306,7 @@ Il faut aller un tout petit peu plus loin, et il faut même dire qu’aussi bien
 
 <!-- id: s3-01-0071 -->
 
-> comme disait VOLTAIRE de l’histoire naturelle : « *elle n’est pas aussi naturelle que cela* »
+comme disait VOLTAIRE de l’histoire naturelle : « *elle n’est pas aussi naturelle que cela* »
 
 <!-- id: s3-01-0072 -->
 
@@ -322,7 +322,7 @@ Si on oublie ce qui est vraiment le relief, le ressort essentiel de la psychanal
 
 <!-- id: s3-01-0075 -->
 
-> ce qui d’ailleurs est naturellement le penchant constant, quotidiennement constaté de la psychanalyse
+ce qui d’ailleurs est naturellement le penchant constant, quotidiennement constaté de la psychanalyse
 
 <!-- id: s3-01-0076 -->
 
@@ -418,7 +418,7 @@ Posons-nous des questions à propos d’un phénomène aussi simple, le phénom�
 
 <!-- id: s3-01-0099 -->
 
-> dont je n’ai pas dit dans quelle classe de la psychose il se place
+dont je n’ai pas dit dans quelle classe de la psychose il se place
 
 <!-- id: s3-01-0100 -->
 
@@ -430,9 +430,9 @@ Posons-nous des questions à propos d’un phénomène aussi simple, le phénom�
 
 <!-- id: s3-01-0102 -->
 
-> de la perception, qu’était posée la question de savoir ce qu’éprouvait de façon élémentaire le sujet aliéné,
->
-> si c’est un *daltonien* qui voit le rouge vert, ou inversement, personne n’y a été voir, il n’en distingue pas simplement la couleur
+de la perception, qu’était posée la question de savoir ce qu’éprouvait de façon élémentaire le sujet aliéné,
+
+si c’est un *daltonien* qui voit le rouge vert, ou inversement, personne n’y a été voir, il n’en distingue pas simplement la couleur
 
 <!-- id: s3-01-0103 -->
 
@@ -440,9 +440,9 @@ Posons-nous des questions à propos d’un phénomène aussi simple, le phénom�
 
 <!-- id: s3-01-0104 -->
 
-> un certain comportement individu-adversaire pour le moment de leur rencontre, fonction imaginaire de ce rouge, fonction si vous voulez qui dans l’ordre précisément des *relations de compréhension* se traduit par le fait que ce rouge pour le sujet, aura hâté quelque chose qui l’aura fait *voir rouge*, qui lui aura semblé porter
->
-> en lui-même le caractère expressif et immédiat de l’hostilité ou de la colère.
+un certain comportement individu-adversaire pour le moment de leur rencontre, fonction imaginaire de ce rouge, fonction si vous voulez qui dans l’ordre précisément des *relations de compréhension* se traduit par le fait que ce rouge pour le sujet, aura hâté quelque chose qui l’aura fait *voir rouge*, qui lui aura semblé porter
+
+en lui-même le caractère expressif et immédiat de l’hostilité ou de la colère.
 
 <!-- id: s3-01-0105 -->
 
@@ -458,9 +458,9 @@ Il est tout à fait clair, *massivement*, que ce que FREUD introduit quand il ab
 
 <!-- id: s3-01-0108 -->
 
-> et ceci est encore plus éclatant ici que partout ailleurs, peut–être parce que c’est plus localisé,
->
-> parce que cela tranche plus avec les discours contemporains
+et ceci est encore plus éclatant ici que partout ailleurs, peut–être parce que c’est plus localisé,
+
+parce que cela tranche plus avec les discours contemporains
 
 <!-- id: s3-01-0109 -->
 
@@ -468,13 +468,13 @@ Il est tout à fait clair, *massivement*, que ce que FREUD introduit quand il ab
 
 <!-- id: s3-01-0110 -->
 
-> nous finissons par ne plus nous rendre compte de la trame technique, c’est une espèce de création,
->
-> on a beau dire qu’il y a des sciences qui se sont déjà intéressées au sens du rêve, ça n’a *absolument* rien à faire avec la méthode appliquée dans la *Traumdeutung,* avec ce travail de pionnier qui est déjà fait devant nos yeux, et qui aboutit à la formule : « *le rêve vous dit quelque chose* » et la seule chose qui nous intéresse, c’est cette élaboration à travers laquelle il dit quelque chose, *il dit quelque chose comme on parle*. Ceci n’avait jamais été dit.
->
-> On a dit qu’il y avait un sens, que nous pouvions y lire quelque chose, mais *le rêve dit quelque chose*,
->
-> il parle admettons encore qu’il pouvait y avoir de cela justement par l’intermédiaire de toutes les pratiques innocentes, quelque chose de cela
+nous finissons par ne plus nous rendre compte de la trame technique, c’est une espèce de création,
+
+on a beau dire qu’il y a des sciences qui se sont déjà intéressées au sens du rêve, ça n’a *absolument* rien à faire avec la méthode appliquée dans la *Traumdeutung,* avec ce travail de pionnier qui est déjà fait devant nos yeux, et qui aboutit à la formule : « *le rêve vous dit quelque chose* » et la seule chose qui nous intéresse, c’est cette élaboration à travers laquelle il dit quelque chose, *il dit quelque chose comme on parle*. Ceci n’avait jamais été dit.
+
+On a dit qu’il y avait un sens, que nous pouvions y lire quelque chose, mais *le rêve dit quelque chose*,
+
+il parle admettons encore qu’il pouvait y avoir de cela justement par l’intermédiaire de toutes les pratiques innocentes, quelque chose de cela
 
 <!-- id: s3-01-0111 -->
 
@@ -482,11 +482,11 @@ Il est tout à fait clair, *massivement*, que ce que FREUD introduit quand il ab
 
 <!-- id: s3-01-0112 -->
 
-> car parmi toutes les productions littéraires du type du plaidoyer, de la communication, du message fait par quelqu’un qui, passé au-delà des limites, nous parle du domaine de cette expérience profondément extérieure, étrange, qui est celle du psychosé, c’est certainement un des livres les plus remarquables,
->
-> c’en est un d’un caractère tout à fait privilégié, il y a là une rencontre exceptionnelle entre le génie
->
-> de FREUD et quelque chose de tout à fait rare
+car parmi toutes les productions littéraires du type du plaidoyer, de la communication, du message fait par quelqu’un qui, passé au-delà des limites, nous parle du domaine de cette expérience profondément extérieure, étrange, qui est celle du psychosé, c’est certainement un des livres les plus remarquables,
+
+c’en est un d’un caractère tout à fait privilégié, il y a là une rencontre exceptionnelle entre le génie
+
+de FREUD et quelque chose de tout à fait rare
 
 <!-- id: s3-01-0113 -->
 
@@ -578,7 +578,7 @@ Là-dessus, le texte de FREUD est sans ambiguïté : *si l’Homme aux loups n�
 
 <!-- id: s3-01-0135 -->
 
-> comme la suite de l’observation l’a montré, il n’est pas du tout sans receler quelques ressources du côté de la psychose, comme il le démontre dans cette courte paranoïa qu’il ferait entre la fin du traitement de FREUD et le moment où il est repris au niveau de l’observation que nous donne FREUD
+comme la suite de l’observation l’a montré, il n’est pas du tout sans receler quelques ressources du côté de la psychose, comme il le démontre dans cette courte paranoïa qu’il ferait entre la fin du traitement de FREUD et le moment où il est repris au niveau de l’observation que nous donne FREUD
 
 <!-- id: s3-01-0136 -->
 
@@ -678,7 +678,7 @@ Parce qu’enfin, ce qui s’entrevoit à la limite d’une telle analyse, c’e
 
 <!-- id: s3-01-0160 -->
 
-> celui qui n’est pas si facile à atteindre puisqu’il est perpétuellement interféré par l’*autre*
+celui qui n’est pas si facile à atteindre puisqu’il est perpétuellement interféré par l’*autre*
 
 <!-- id: s3-01-0161 -->
 
@@ -694,9 +694,9 @@ Il n’en reste pas moins que c’est à une certaine façon de manier la relati
 
 <!-- id: s3-01-0164 -->
 
-> et qui est proprement d’authentification de la relation imaginaire dont on parlait,
->
-> cette substitution à *la reconnaissance sur le plan symbolique* de *la reconnaissance sur le plan imaginaire*
+et qui est proprement d’authentification de la relation imaginaire dont on parlait,
+
+cette substitution à *la reconnaissance sur le plan symbolique* de *la reconnaissance sur le plan imaginaire*
 
 <!-- id: s3-01-0165 -->
 

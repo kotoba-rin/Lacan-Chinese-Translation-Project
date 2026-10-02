@@ -30,7 +30,7 @@ Voici trois figures :
 
 <!-- id: s9-24-0007 -->
 
-> fig.1 fig.2 fig.3
+fig.1 fig.2 fig.3
 
 <!-- id: s9-24-0008 -->
 
@@ -194,7 +194,7 @@ C’est en effet ce qu’il faut bien concevoir, car lorsque nous tra­çons une
 
 <!-- id: s9-24-0048 -->
 
-> fig.1 fig.3
+fig.1 fig.3
 
 <!-- id: s9-24-0049 -->
 
@@ -222,7 +222,7 @@ C’est *un conjointement* qui n’est concevable qu’à partir d’une amorce 
 
 <!-- id: s9-24-0055 -->
 
-> \[b\]
+\[b\]
 
 <!-- id: s9-24-0056 -->
 
@@ -242,7 +242,7 @@ Elle devient purement et simplement *la forme la plus simplifiée* du reploiemen
 
 <!-- id: s9-24-0060 -->
 
-> fig.5
+fig.5
 
 <!-- id: s9-24-0061 -->
 
@@ -386,15 +386,15 @@ C’est en situant ce qu’est S *coupure de (a)* \[S◊*a*\]...
 
 <!-- id: s9-24-0096 -->
 
-> par rapport à la déficience fondamentale de l’Autre comme lieu de la parole, par rapport à ce qui est la seule réponse défini­tive au niveau de l’énonciation, le signifiant de A, du témoin universel en tant qu’il fait défaut
->
-> et qu’à un moment donné il n’a plus qu’une fonction de faux témoin ...c’est en situant la fonction de *(a)* en ce point de défaillance, en montrant le support que trouve le sujet dans ce *(a)*...
+par rapport à la déficience fondamentale de l’Autre comme lieu de la parole, par rapport à ce qui est la seule réponse défini­tive au niveau de l’énonciation, le signifiant de A, du témoin universel en tant qu’il fait défaut
+
+et qu’à un moment donné il n’a plus qu’une fonction de faux témoin ...c’est en situant la fonction de *(a)* en ce point de défaillance, en montrant le support que trouve le sujet dans ce *(a)*...
 
 <!-- id: s9-24-0097 -->
 
-> qui est ce que nous visons dans l’analyse comme objet qui n’a rien de commun
->
-> avec l’objet de l’idéalisme classique, qui n’a rien de commun avec l’objet du sujet hégélien
+qui est ce que nous visons dans l’analyse comme objet qui n’a rien de commun
+
+avec l’objet de l’idéalisme classique, qui n’a rien de commun avec l’objet du sujet hégélien
 
 <!-- id: s9-24-0098 -->
 
@@ -402,11 +402,11 @@ C’est en situant ce qu’est S *coupure de (a)* \[S◊*a*\]...
 
 <!-- id: s9-24-0099 -->
 
-> qui est aussi *le point* où le sujet reçoit de cet Autre, comme lieu de la parole, sa marque majeure,
->
-> celle *du trait unaire*, celle qui distingue notre sujet, de la transparence connaissante de la pensée classique, comme un sujet entièrement attaché au signifiant en tant que ce signifiant est le point tournant de son rejet,
->
-> à lui le sujet, hors de toute la réa­lisation signifiante ...c’est en montrant, à partir de la formule S◊*a* comme *struc­ture du fantasme*, *la relation de cet objet(a) avec la carence de l’Autre*, *que nous voyons comment à un moment tout recule, tout s’efface dans la fonction signi­fiante devant la montée, l’irruption de cet objet.*
+qui est aussi *le point* où le sujet reçoit de cet Autre, comme lieu de la parole, sa marque majeure,
+
+celle *du trait unaire*, celle qui distingue notre sujet, de la transparence connaissante de la pensée classique, comme un sujet entièrement attaché au signifiant en tant que ce signifiant est le point tournant de son rejet,
+
+à lui le sujet, hors de toute la réa­lisation signifiante ...c’est en montrant, à partir de la formule S◊*a* comme *struc­ture du fantasme*, *la relation de cet objet(a) avec la carence de l’Autre*, *que nous voyons comment à un moment tout recule, tout s’efface dans la fonction signi­fiante devant la montée, l’irruption de cet objet.*
 
 <!-- id: s9-24-0100 -->
 

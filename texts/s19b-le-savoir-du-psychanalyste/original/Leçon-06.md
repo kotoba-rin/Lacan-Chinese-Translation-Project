@@ -26,17 +26,17 @@ Puis après ça, je dirai les choses que j'ai pensées depuis, en pensant plus r
 
 <!-- id: s19b-06-0006 -->
 
-> J'avais écrit ceci, que bien sûr je ne livrerai jamais à la *poubel­lication,*
->
-> je ne vois pas pourquoi j'augmenterai le contenu des bibliothèques :
->
-> \...il y a *deux horizons du signifiant*.
->
-> Là-dessus écrit, je fais une accolade\...
->
-> comme c'est écrit, il faut que vous fassiez attention, je veux dire que vous ne croyiez pas com­prendre
->
-> \...alors dans l'accolade :
+J'avais écrit ceci, que bien sûr je ne livrerai jamais à la *poubel­lication,*
+
+je ne vois pas pourquoi j'augmenterai le contenu des bibliothèques :
+
+\...il y a *deux horizons du signifiant*.
+
+Là-dessus écrit, je fais une accolade\...
+
+comme c'est écrit, il faut que vous fassiez attention, je veux dire que vous ne croyiez pas com­prendre
+
+\...alors dans l'accolade :
 
 <!-- id: s19b-06-0007 -->
 
@@ -60,17 +60,17 @@ Les articuler, je veux dire comme tels\...
 
 <!-- id: s19b-06-0012 -->
 
-> ça c'est une parenthèse, je l'ai pas écrit \...je veux dire les articuler dans chacun de ces deux horizons, c'est donc\...
+ça c'est une parenthèse, je l'ai pas écrit \...je veux dire les articuler dans chacun de ces deux horizons, c'est donc\...
 
 <!-- id: s19b-06-0013 -->
 
-> ça, je l'ai écrit \...c'est donc procéder selon ces horizons eux-mêmes, puisque la mention de leur « *au-delà* » - au-delà de l'horizon -- ne se soutient que de leur position\...
+ça, je l'ai écrit \...c'est donc procéder selon ces horizons eux-mêmes, puisque la mention de leur « *au-delà* » - au-delà de l'horizon -- ne se soutient que de leur position\...
 
 <!-- id: s19b-06-0014 -->
 
-> quand ça vous ennuiera vous me le direz
->
-> et je vous raconterai les choses que j'ai à vous raconter ce soir \...de leur position - écris-je - en *un discours* de fait.
+quand ça vous ennuiera vous me le direz
+
+et je vous raconterai les choses que j'ai à vous raconter ce soir \...de leur position - écris-je - en *un discours* de fait.
 
 <!-- id: s19b-06-0015 -->
 
@@ -154,7 +154,7 @@ Quand vous lisez par exemple un texte sur *la Théorie des Ensembles*, on vous e
 
 <!-- id: s19b-06-0035 -->
 
-> À la ligne suivante on vous dit quelque chose que vous comprenez, parce que vous continuez de lire :
+À la ligne suivante on vous dit quelque chose que vous comprenez, parce que vous continuez de lire :
 
 <!-- id: s19b-06-0036 -->
 
@@ -182,7 +182,7 @@ De sorte que vous vous apercevez que c'est parce que,
 
 <!-- id: s19b-06-0042 -->
 
-> c'est-à-dire que vous avez sauté cet élément essentiel qui est celui d'un *signifiant* qui rend possible *ce changement de niveau*, grâce auquel vous avez eu un instant le sentiment d'une contradiction.
+c'est-à-dire que vous avez sauté cet élément essentiel qui est celui d'un *signifiant* qui rend possible *ce changement de niveau*, grâce auquel vous avez eu un instant le sentiment d'une contradiction.
 
 <!-- id: s19b-06-0043 -->
 
@@ -202,7 +202,7 @@ Ce que la psychanalyse nous apprend, c'est que : tout savoir naïf\...
 
 <!-- id: s19b-06-0047 -->
 
-> ça c'est écrit, et c'est pour ça que *je le lis* \...est associé à un voilement de *la jouissance* qui s'y réalise, et pose la question de ce qui s'y trahit *des limites de la puissance*, c'est-à-dire - quoi ? - du tracé imposé à *la jouissance*.
+ça c'est écrit, et c'est pour ça que *je le lis* \...est associé à un voilement de *la jouissance* qui s'y réalise, et pose la question de ce qui s'y trahit *des limites de la puissance*, c'est-à-dire - quoi ? - du tracé imposé à *la jouissance*.
 
 <!-- id: s19b-06-0048 -->
 
@@ -218,7 +218,7 @@ Ce qui jouit d'un corps qu'il vit comme\...
 
 <!-- id: s19b-06-0051 -->
 
-> ce que j'ai déjà énoncé \...du « *tu-able* », c'est-à-dire comme *tutoyable*, d'un corps qu'il *tutoie,* et d'un corps à qui il dit « *tue-toie* » dans la même ligne.
+ce que j'ai déjà énoncé \...du « *tu-able* », c'est-à-dire comme *tutoyable*, d'un corps qu'il *tutoie,* et d'un corps à qui il dit « *tue-toie* » dans la même ligne.
 
 <!-- id: s19b-06-0052 -->
 
@@ -230,7 +230,7 @@ La psychanalyse, c'est ce qui reproduit\...
 
 <!-- id: s19b-06-0054 -->
 
-> vous allez retrouver les rails ordinaires \...c'est ce qui reproduit une production de la *névrose*.
+vous allez retrouver les rails ordinaires \...c'est ce qui reproduit une production de la *névrose*.
 
 <!-- id: s19b-06-0055 -->
 
@@ -246,7 +246,7 @@ Cette *névrose* qu'on attribue - non sans raison - à l'action des parents, n'e
 
 <!-- id: s19b-06-0058 -->
 
-> c'est le terme par quoi j'ai commencé la troisième ligne \...de la position du psychanalyste.
+c'est le terme par quoi j'ai commencé la troisième ligne \...de la position du psychanalyste.
 
 <!-- id: s19b-06-0059 -->
 
@@ -306,7 +306,7 @@ Pour étendre *ce « dl'Un »* à la mesure de son empire\...
 
 <!-- id: s19b-06-0073 -->
 
-> puisqu'il *est assurément le signifiant-maître* \...il faut l'approcher là où on l'a laissé à ses talents, pour le mettre lui, au pied du mur.
+puisqu'il *est assurément le signifiant-maître* \...il faut l'approcher là où on l'a laissé à ses talents, pour le mettre lui, au pied du mur.
 
 <!-- id: s19b-06-0074 -->
 
@@ -338,7 +338,7 @@ Il y a quelqu'un, l'autre jour, qui au sortir du dernier truc au Pan­théon\...
 
 <!-- id: s19b-06-0081 -->
 
-> il est peut-être là encore \...est venu m'interpeller sur le sujet de savoir « *si je croyais à la liberté* ».
+il est peut-être là encore \...est venu m'interpeller sur le sujet de savoir « *si je croyais à la liberté* ».
 
 <!-- id: s19b-06-0082 -->
 
@@ -418,7 +418,7 @@ C'est tout particulièrement propice à ce qui s'offre au *discours universitair
 
 <!-- id: s19b-06-0101 -->
 
-> *Discours universitaire*
+*Discours universitaire*
 
 <!-- id: s19b-06-0102 -->
 
@@ -438,7 +438,7 @@ Son sommet, *son culmen* c'est ce qui s'appelle glorieusement *L'histoire de la 
 
 <!-- id: s19b-06-0106 -->
 
-> et c'est ample­ment démontré \...son ressort dans les aventures et mésaventures du *discours du Maître*, qu'il faut bien de temps en temps renouveler.
+et c'est ample­ment démontré \...son ressort dans les aventures et mésaventures du *discours du Maître*, qu'il faut bien de temps en temps renouveler.
 
 <!-- id: s19b-06-0107 -->
 
@@ -454,7 +454,7 @@ Je sais bien que tout ça n'est pas facile et qu'il faut quand même\...
 
 <!-- id: s19b-06-0110 -->
 
-> ce dans la bonne tradition de ce que je fais ici \...que je vous dise des choses plus amusantes.
+ce dans la bonne tradition de ce que je fais ici \...que je vous dise des choses plus amusantes.
 
 <!-- id: s19b-06-0111 -->
 
@@ -466,7 +466,7 @@ L'*amour* dans l'analyse\...
 
 <!-- id: s19b-06-0113 -->
 
-> et bien entendu c'est du fait de la posi­tion de l'analyste \...*l'amour on en parle*. Toutes proportions gardées, *on n'en parle pas plus qu'ailleurs*, puisqu'après tout *l'amour c'est à ça que ça sert*.
+et bien entendu c'est du fait de la posi­tion de l'analyste \...*l'amour on en parle*. Toutes proportions gardées, *on n'en parle pas plus qu'ailleurs*, puisqu'après tout *l'amour c'est à ça que ça sert*.
 
 <!-- id: s19b-06-0114 -->
 
@@ -506,7 +506,7 @@ J'ai pris quelqu'un, Dieu merci, que je savais d'avan­ce avoir besoin d'une psy
 
 <!-- id: s19b-06-0123 -->
 
-> vous vous rendez compte de ce que je peux faire comme saloperies pour vérifier mes affir­mations \...sur la base de ceci : qu'il fallait à tout prix qu'il ait le *conjugo* avec la dame de son cœur.
+vous vous rendez compte de ce que je peux faire comme saloperies pour vérifier mes affir­mations \...sur la base de ceci : qu'il fallait à tout prix qu'il ait le *conjugo* avec la dame de son cœur.
 
 <!-- id: s19b-06-0124 -->
 
@@ -562,15 +562,15 @@ Que le partenaire en question soit *de l'autre sexe* et que ce qui est en jeu ce
 
 <!-- id: s19b-06-0137 -->
 
-> Cette *jouissance-là*, celle qui n'est pas *en analyse*, si vous me permettez de m'exprimer ainsi, *elle fait fonction pour lui de réel*.
->
-> Ce qu'il a par contre en analyse - c'est-à-dire le sujet - il le prend pour ce qu'il est, c'est-à-dire pour *effet de discours*.
->
-> Je vous prie de remarquer au passage qu'il ne le subjective pas.
->
-> Ça ne veut pas dire que tout ça c'est ses petites idées,
->
-> mais que comme sujet il est déterminé par un discours dont il provient depuis longtemps, et c'est ça qui est analysable.
+Cette *jouissance-là*, celle qui n'est pas *en analyse*, si vous me permettez de m'exprimer ainsi, *elle fait fonction pour lui de réel*.
+
+Ce qu'il a par contre en analyse - c'est-à-dire le sujet - il le prend pour ce qu'il est, c'est-à-dire pour *effet de discours*.
+
+Je vous prie de remarquer au passage qu'il ne le subjective pas.
+
+Ça ne veut pas dire que tout ça c'est ses petites idées,
+
+mais que comme sujet il est déterminé par un discours dont il provient depuis longtemps, et c'est ça qui est analysable.
 
 <!-- id: s19b-06-0138 -->
 
@@ -594,11 +594,11 @@ Il y a une chose frappante c'est que le sexe comme *réel*\...
 
 <!-- id: s19b-06-0143 -->
 
-> je veux dire *duel*, je veux dire qu'il y en ait *deux* \...jamais personne\...
+je veux dire *duel*, je veux dire qu'il y en ait *deux* \...jamais personne\...
 
 <!-- id: s19b-06-0144 -->
 
-> même l'évêque Berke­ley \...n'a osé énoncer que c'était une petite idée que chacun avait en tête, que c'était « une représentation ».
+même l'évêque Berke­ley \...n'a osé énoncer que c'était une petite idée que chacun avait en tête, que c'était « une représentation ».
 
 <!-- id: s19b-06-0145 -->
 
@@ -610,7 +610,7 @@ Ce que je viens de vous définir à ce propos c'est ceci : que surtout depuis q
 
 <!-- id: s19b-06-0147 -->
 
-> je ne parle pas des organes sexuels, je parle des gamètes \...rendez-vous compte qu'on man­quait de ça jusqu'à Leeuwenhoek et Swammerdam.
+je ne parle pas des organes sexuels, je parle des gamètes \...rendez-vous compte qu'on man­quait de ça jusqu'à Leeuwenhoek et Swammerdam.
 
 <!-- id: s19b-06-0148 -->
 
@@ -622,7 +622,7 @@ Le fait que nous sachions d'une façon certaine que le sexe ça se trouve là: d
 
 <!-- id: s19b-06-0150 -->
 
-> bien sûr, depuis bien avant qu'on ait su qu'il y a deux espèces de gamètes \...au nom de ça, le psychanalyste croit qu'il y a *rapport sexuel*.
+bien sûr, depuis bien avant qu'on ait su qu'il y a deux espèces de gamètes \...au nom de ça, le psychanalyste croit qu'il y a *rapport sexuel*.
 
 <!-- id: s19b-06-0151 -->
 
@@ -630,11 +630,11 @@ On a vu des psychanalystes\...
 
 <!-- id: s19b-06-0152 -->
 
-> dans la littérature, dans un domaine dont on ne peut pas dire qu'il soit très filtré \...trouver dans l'intrusion du gamète mâle\...
+dans la littérature, dans un domaine dont on ne peut pas dire qu'il soit très filtré \...trouver dans l'intrusion du gamète mâle\...
 
 <!-- id: s19b-06-0153 -->
 
-> du « *spermato* » comme on dit, et « *zoïde* » encore \...dans l'enveloppe de l'ovule, trouver là le modèle de je ne sais quelle effraction redoutable.
+du « *spermato* » comme on dit, et « *zoïde* » encore \...dans l'enveloppe de l'ovule, trouver là le modèle de je ne sais quelle effraction redoutable.
 
 <!-- id: s19b-06-0154 -->
 
@@ -650,11 +650,11 @@ Et c'est bien là que l'évolution des *formes du discours* est pour vous bien p
 
 <!-- id: s19b-06-0157 -->
 
-> c'est d'effets du discours \...bien plus indicative que toute référence à ce qui totalement\...
+c'est d'effets du discours \...bien plus indicative que toute référence à ce qui totalement\...
 
 <!-- id: s19b-06-0158 -->
 
-> même s'il est sûr que les sexes soient deux \...*à ce qui totalement reste en sus­pens, c'est à savoir* *si ce que ce discours est capable d'articuler, comprend oui ou non,* *le rapport sexuel*. C'est ça qui est digne d'être mis en question.
+même s'il est sûr que les sexes soient deux \...*à ce qui totalement reste en sus­pens, c'est à savoir* *si ce que ce discours est capable d'articuler, comprend oui ou non,* *le rapport sexuel*. C'est ça qui est digne d'être mis en question.
 
 <!-- id: s19b-06-0159 -->
 
@@ -670,7 +670,7 @@ Les *petites choses* que je vous ai déjà *écrites* au tableau, à savoir :
 
 <!-- id: s19b-06-0162 -->
 
-> et d'autre part d'un « *tout x est conforme à la fonction* Φx » \[; !\], \...de « *pas tout* » \[. !\], qui est une formule nouvelle, « *pas tout* » et rien de plus, « *n'est susceptible* », dans la colonne de droite, « *de satisfaire à la fonction dite phallique* ».
+et d'autre part d'un « *tout x est conforme à la fonction* Φx » \[; !\], \...de « *pas tout* » \[. !\], qui est une formule nouvelle, « *pas tout* » et rien de plus, « *n'est susceptible* », dans la colonne de droite, « *de satisfaire à la fonction dite phallique* ».
 
 <!-- id: s19b-06-0163 -->
 
@@ -722,15 +722,15 @@ Trouver - et mon Dieu sous la plume de Freud - l'idée que l'*Éros* se *fonde*\
 
 <!-- id: s19b-06-0175 -->
 
-> au subjonctif \[*donc : fondre*\] : voyez l'équivoque, mais je ne vois pas pourquoi
->
-> je ne me servirai pas de la langue française, entre fondation et fusion \...que *l'Éros se fonde* de faire de *l'Un* avec les deux, c'est évidemment une idée étrange, à partir de laquelle, bien sûr, procède cette idée absolument exorbitante qui s'incarne dans la prêcherie à laquelle pourtant le cher Freud répugne de tout son être\...
+au subjonctif \[*donc : fondre*\] : voyez l'équivoque, mais je ne vois pas pourquoi
+
+je ne me servirai pas de la langue française, entre fondation et fusion \...que *l'Éros se fonde* de faire de *l'Un* avec les deux, c'est évidemment une idée étrange, à partir de laquelle, bien sûr, procède cette idée absolument exorbitante qui s'incarne dans la prêcherie à laquelle pourtant le cher Freud répugne de tout son être\...
 
 <!-- id: s19b-06-0176 -->
 
-> il nous la lâche de la façon la plus claire dans « *L'avenir d'une illusion »*,
->
-> dans bien d'autres choses encore, dans bien d'autres endroits, dans « *Malaise* *dans la civilisation »* \...sa répugnance à cette idée de « l'amour universel ».
+il nous la lâche de la façon la plus claire dans « *L'avenir d'une illusion »*,
+
+dans bien d'autres choses encore, dans bien d'autres endroits, dans « *Malaise* *dans la civilisation »* \...sa répugnance à cette idée de « l'amour universel ».
 
 <!-- id: s19b-06-0177 -->
 
@@ -742,7 +742,7 @@ C'est pas seulement pour des raisons didactiques que je vou­drais produire deva
 
 <!-- id: s19b-06-0179 -->
 
-> j'entends l'Éros de doctrine freudienne \...mais la chèreThanatos aussi, avec laquelle on nous emmerde depuis assez longtemps.
+j'entends l'Éros de doctrine freudienne \...mais la chèreThanatos aussi, avec laquelle on nous emmerde depuis assez longtemps.
 
 <!-- id: s19b-06-0180 -->
 
@@ -762,7 +762,7 @@ Il s'agit de savoir si, sur ce « *y a d'l'Un* » dont il est question, nous ne 
 
 <!-- id: s19b-06-0184 -->
 
-> d'un « *ensemble »* bien sûr, qui n'a jamais été fait pour ça \...tirer quelque lumière.
+d'un « *ensemble »* bien sûr, qui n'a jamais été fait pour ça \...tirer quelque lumière.
 
 <!-- id: s19b-06-0185 -->
 
@@ -818,7 +818,7 @@ Quels que soient les per­fectionnements que vous puissiez ajouter à la dite *g
 
 <!-- id: s19b-06-0198 -->
 
-> par la considération des proportions, de ce qui se manifeste de différence entre
+par la considération des proportions, de ce qui se manifeste de différence entre
 
 <!-- id: s19b-06-0199 -->
 
@@ -866,9 +866,9 @@ C'est de là que nous partons\...
 
 <!-- id: s19b-06-0210 -->
 
-> et la dernière fois, je le dis pour ceux qui n'y étaient pas au Panthéon,
->
-> là où j'ai commencé d'aborder ce sujet glissant \...*que le fondement de l'Un,* de ce fait-là, *s'avère* être proprement *consti­tué de la place d'un manque*.
+et la dernière fois, je le dis pour ceux qui n'y étaient pas au Panthéon,
+
+là où j'ai commencé d'aborder ce sujet glissant \...*que le fondement de l'Un,* de ce fait-là, *s'avère* être proprement *consti­tué de la place d'un manque*.
 
 <!-- id: s19b-06-0211 -->
 
@@ -880,7 +880,7 @@ Je l'ai illustré la dernière fois : *c'est au moment où manque*\...
 
 <!-- id: s19b-06-0213 -->
 
-> dans les deux séries comparées \...*un partenaire, que la notion de l'Un surgit : il y en a un qui manque*.
+dans les deux séries comparées \...*un partenaire, que la notion de l'Un surgit : il y en a un qui manque*.
 
 <!-- id: s19b-06-0214 -->
 
@@ -912,7 +912,7 @@ Comme l'avait déjà remarqué Galilée\...
 
 <!-- id: s19b-06-0221 -->
 
-> qui n'avait pas pour cela attendu Cantor \...la suite de tous les carrés est en correspondance biunivoque avec chacun des nombres entiers.
+qui n'avait pas pour cela attendu Cantor \...la suite de tous les carrés est en correspondance biunivoque avec chacun des nombres entiers.
 
 <!-- id: s19b-06-0222 -->
 
@@ -928,7 +928,7 @@ C'est ceci qui constitue *l'ensemble infini,* au moyen de quoi on dit qu'il peut
 
 <!-- id: s19b-06-0225 -->
 
-> c'est-à-dire dans le raisonnement qui s'en sert \...*à ce qu'on appelle « l'induction » *:  « *l'induction* » est recevable quand un ensemble est fini.
+c'est-à-dire dans le raisonnement qui s'en sert \...*à ce qu'on appelle « l'induction » *:  « *l'induction* » est recevable quand un ensemble est fini.
 
 <!-- id: s19b-06-0226 -->
 
@@ -940,7 +940,7 @@ C'est celui qui relève de ce qu'on appelle « *la non-dénombrabilité des par
 
 <!-- id: s19b-06-0228 -->
 
-> entendez par là *sous-ensembles,* \...telles qu'elles peuvent se définir à partir d'un ensemble.
+entendez par là *sous-ensembles,* \...telles qu'elles peuvent se définir à partir d'un ensemble.
 
 <!-- id: s19b-06-0229 -->
 
@@ -968,7 +968,7 @@ Il est très facile, si vous partez de ceci pour prendre le nombre cardinal: vou
 
 <!-- id: s19b-06-0235 -->
 
-> est manifestable comme une de ses parties. Car les parties, ça n'est pas l'élément.
+est manifestable comme une de ses parties. Car les parties, ça n'est pas l'élément.
 
 <!-- id: s19b-06-0236 -->
 
@@ -976,7 +976,7 @@ Ce qui s'en ordonne\...
 
 <!-- id: s19b-06-0237 -->
 
-> si quelqu'un voulait écrire à ma place au tableau ça me reposerait \...ceci s'écrit comme ça : 1, 5, 10, 10, 5, 1.
+si quelqu'un voulait écrire à ma place au tableau ça me reposerait \...ceci s'écrit comme ça : 1, 5, 10, 10, 5, 1.
 
 <!-- id: s19b-06-0238 -->
 
@@ -996,7 +996,7 @@ Qu'est-ce qu'il se trouve que nous avons défini comme partie de l'ensemble ?
 
 <!-- id: s19b-06-0242 -->
 
-> vous pouvez le faire à partir de γ, etc. Vous verrez qu'il y en a 10.
+vous pouvez le faire à partir de γ, etc. Vous verrez qu'il y en a 10.
 
 <!-- id: s19b-06-0243 -->
 
@@ -1068,11 +1068,11 @@ Je ne puis ici, vu l'heure et puis le fait qu'après tout ceci n'intéresse pas 
 
 <!-- id: s19b-06-0260 -->
 
-> je sollicite je dois dire comme je le fais d'habitude, d'une façon désespérée \...je sollicite des grammairiens de temps en temps de me donner un petit tuyau\...
+je sollicite je dois dire comme je le fais d'habitude, d'une façon désespérée \...je sollicite des grammairiens de temps en temps de me donner un petit tuyau\...
 
 <!-- id: s19b-06-0261 -->
 
-> ils m'en envoient : c'est toujours les mauvais \...j'ai sollicité des mathématiciens - très nombreux déjà - de me répondre là-dessus, et à la vérité ils font la sourde oreille.
+ils m'en envoient : c'est toujours les mauvais \...j'ai sollicité des mathématiciens - très nombreux déjà - de me répondre là-dessus, et à la vérité ils font la sourde oreille.
 
 <!-- id: s19b-06-0262 -->
 
@@ -1088,9 +1088,9 @@ Son intérêt est ceci : c'est que, à substituer à la notion des « *parties
 
 <!-- id: s19b-06-0265 -->
 
-> de la même façon que nous avons admis que *les parties de l'ensemble infini*, *ce serait* 2^[א]{dir="rtl"}0^ c'est-à-dire
->
-> le plus petit des *transfinis*, celui constitué par l'ensemble, le cardinal de l'ensemble des entiers\[![\\mathbb N](assets/image30.png){width="7.5e-2in" height="7.5e-2in"}\] \...au lieu d'avoir 2^[א]{dir="rtl"}0^, nous avons : 2^[א]{dir="rtl"}0-1^.
+de la même façon que nous avons admis que *les parties de l'ensemble infini*, *ce serait* 2^[א]{dir="rtl"}0^ c'est-à-dire
+
+le plus petit des *transfinis*, celui constitué par l'ensemble, le cardinal de l'ensemble des entiers\[![\\mathbb N](assets/image30.png){width="7.5e-2in" height="7.5e-2in"}\] \...au lieu d'avoir 2^[א]{dir="rtl"}0^, nous avons : 2^[א]{dir="rtl"}0-1^.
 
 <!-- id: s19b-06-0266 -->
 
@@ -1102,7 +1102,7 @@ Si, comme la formule en por­te elle-même la trace, ce qu'on appelle « *ensem
 
 <!-- id: s19b-06-0268 -->
 
-> et surtout à partir du moment où nous mettons en question *l'induction* quand il s'agit de *l'ensemble infini* \...comment est-il rece­vable que nous acceptions *une formule* qui manifeste aussi clairement qu'il s'agit, non pas de *parties de l'ensemble*, mais de *sa partition*.
+et surtout à partir du moment où nous mettons en question *l'induction* quand il s'agit de *l'ensemble infini* \...comment est-il rece­vable que nous acceptions *une formule* qui manifeste aussi clairement qu'il s'agit, non pas de *parties de l'ensemble*, mais de *sa partition*.
 
 <!-- id: s19b-06-0269 -->
 
@@ -1110,9 +1110,9 @@ J'y ajouterai quelque chose qui a bien son intérêt : c'est que [א]{dir="rtl"
 
 <!-- id: s19b-06-0270 -->
 
-> *index* qui n'est pas pris au hasard, et *index* forgé pour désigner\...
->
-> car il y en a toute la série des autres en principe admis, toute la série des nombres entiers peuvent servir d'*index* à ce qu'il en est de l'en­semble en tant qu'il fonde *le* *transfini* \...néanmoins, à partir du moment où ce dont il s'agit c'est *la fonction de la puissance*, et qu'il semble que nous ayons abusé de *l'induction* en nous permettant d'y trouver test de *la non-dénombrabilité des parties de l'ensemble infini*, est-ce que, à y regarder de près, nous ne trouverions pas ici, à ce *zéro*, une autre fonction, celui qu'il a dans *la puissance exponentielle*, c'est à savoir : que quelque *nombre* que ce soit, l'exposant *zéro* quant à ce qui est de la puissance, l'égale à 1, quel que soit ce *nombre*.
+*index* qui n'est pas pris au hasard, et *index* forgé pour désigner\...
+
+car il y en a toute la série des autres en principe admis, toute la série des nombres entiers peuvent servir d'*index* à ce qu'il en est de l'en­semble en tant qu'il fonde *le* *transfini* \...néanmoins, à partir du moment où ce dont il s'agit c'est *la fonction de la puissance*, et qu'il semble que nous ayons abusé de *l'induction* en nous permettant d'y trouver test de *la non-dénombrabilité des parties de l'ensemble infini*, est-ce que, à y regarder de près, nous ne trouverions pas ici, à ce *zéro*, une autre fonction, celui qu'il a dans *la puissance exponentielle*, c'est à savoir : que quelque *nombre* que ce soit, l'exposant *zéro* quant à ce qui est de la puissance, l'égale à 1, quel que soit ce *nombre*.
 
 <!-- id: s19b-06-0271 -->
 
@@ -1124,21 +1124,21 @@ C'est donc 1 qui sert ici d'élément pivot.
 
 <!-- id: s19b-06-0273 -->
 
-> À partir de ce moment *la partition de l'ensemble transfini* aboutit à ceci,
->
-> à savoir que si nous égalons *l'aleph zéro* dans cette occasion à **1**,
->
-> nous avons pour ce qu'il en est de la partition de l'ensemble, ce qui paraît en effet bien rece­vable,
->
-> à savoir que *la suite des nombres entiers* n'est supportée par rien d'autre que par la réitération de l'**1**, *le* **1** *sorti de l'ensemble vide*.
->
-> C'est de se reproduire qu'il constitue ce que j'ai donné la dernière fois comme étant au principe manifes­té dans
->
-> « *le triangle de Pascal* », de ce qu'il en est au niveau du *cardinal des monades*, et que derrière les appuis, ce que j'ai appelé\...
->
-> je le dis pour les sourds qui se sont interrogés sur ce que j'avais dit
->
-> \...la « *nade* », c'est-à-dire le 1
+À partir de ce moment *la partition de l'ensemble transfini* aboutit à ceci,
+
+à savoir que si nous égalons *l'aleph zéro* dans cette occasion à **1**,
+
+nous avons pour ce qu'il en est de la partition de l'ensemble, ce qui paraît en effet bien rece­vable,
+
+à savoir que *la suite des nombres entiers* n'est supportée par rien d'autre que par la réitération de l'**1**, *le* **1** *sorti de l'ensemble vide*.
+
+C'est de se reproduire qu'il constitue ce que j'ai donné la dernière fois comme étant au principe manifes­té dans
+
+« *le triangle de Pascal* », de ce qu'il en est au niveau du *cardinal des monades*, et que derrière les appuis, ce que j'ai appelé\...
+
+je le dis pour les sourds qui se sont interrogés sur ce que j'avais dit
+
+\...la « *nade* », c'est-à-dire le 1
 
 <!-- id: s19b-06-0274 -->
 
@@ -1158,17 +1158,17 @@ Ce qui est en effet affirmé *au principe de l'ensemble*, ceci sous *la plume* d
 
 <!-- id: s19b-06-0278 -->
 
-> certes comme on le dit : « *naïve* » au moment où elle a frayé cette voie vraiment sensationnelle \...ce que *la plume* de Cantor affirme, c'est que pour ce qui est des *éléments de l'ensemble*\...
+certes comme on le dit : « *naïve* » au moment où elle a frayé cette voie vraiment sensationnelle \...ce que *la plume* de Cantor affirme, c'est que pour ce qui est des *éléments de l'ensemble*\...
 
 <!-- id: s19b-06-0279 -->
 
-> ceci veut dire qu'il s'agit de quelque chose d'aussi divers qu'on le voudra, à cette seule condition
->
-> que nous posions chacune de ces choses, qu'il va jusqu'à dire *objets de l'intuition* ou *de la pensée*,
->
-> c'est ainsi qu'il s'exprime, et en effet pourquoi le lui refuser,
->
-> ça ne veut rien dire d'autre que *quelque chose d'aussi éternel qu'on voudra* \...il est tout à fait clair qu'à partir du moment où on mêle *l'intuition avec la pensée*, ce dont il s'agit c'est *de signi­fiants*, ce qui est bien entendu manifesté par le fait que ça *s'écrit* *a, b, c, d*.
+ceci veut dire qu'il s'agit de quelque chose d'aussi divers qu'on le voudra, à cette seule condition
+
+que nous posions chacune de ces choses, qu'il va jusqu'à dire *objets de l'intuition* ou *de la pensée*,
+
+c'est ainsi qu'il s'exprime, et en effet pourquoi le lui refuser,
+
+ça ne veut rien dire d'autre que *quelque chose d'aussi éternel qu'on voudra* \...il est tout à fait clair qu'à partir du moment où on mêle *l'intuition avec la pensée*, ce dont il s'agit c'est *de signi­fiants*, ce qui est bien entendu manifesté par le fait que ça *s'écrit* *a, b, c, d*.
 
 <!-- id: s19b-06-0280 -->
 
@@ -1176,7 +1176,7 @@ Mais ce qui est dit, c'est très sûrement proprement ceci : que ce qui est exc
 
 <!-- id: s19b-06-0281 -->
 
-> donc dans l'appartenance à un *ensemble* comme *élément* \...c'est qu'un élément quelconque soit *répété* comme tel.
+donc dans l'appartenance à un *ensemble* comme *élément* \...c'est qu'un élément quelconque soit *répété* comme tel.
 
 <!-- id: s19b-06-0282 -->
 
@@ -1232,7 +1232,7 @@ S'il est vrai que nous n'avons comme *nombre de partitions* que le nombre qui p
 
 <!-- id: s19b-06-0295 -->
 
-> elles se trouve­ront dans une bipartition \...qui vont composer comme partie, selon le premier énoncé, l'ensemble supérieur, nous avons à chaque fois à faire *l'addition* de ce qui correspond dans la colonne de gauche aux 2 nombres qui sont situés :
+elles se trouve­ront dans une bipartition \...qui vont composer comme partie, selon le premier énoncé, l'ensemble supérieur, nous avons à chaque fois à faire *l'addition* de ce qui correspond dans la colonne de gauche aux 2 nombres qui sont situés :
 
 <!-- id: s19b-06-0296 -->
 
@@ -1252,7 +1252,7 @@ Qu'est-ce à dire, si ce n'est que pour obtenir le premier chiffre, celui des *m
 
 <!-- id: s19b-06-0300 -->
 
-> je dirai : par un abus d'office, \...mis *l'ensemble vide* au rang des éléments monadiques.
+je dirai : par un abus d'office, \...mis *l'ensemble vide* au rang des éléments monadiques.
 
 <!-- id: s19b-06-0301 -->
 
@@ -1284,11 +1284,11 @@ Nous avons dit que cet *ensemble vide*, quand il s'agira de faire l'ensemble té
 
 <!-- id: s19b-06-0308 -->
 
-> bien entendu, il ne s'agit pas de tétraèdre, il s'agit de nombres \...si c'est désigné par les lettres grec­ques α, β, γ, nous aurons ici\...
+bien entendu, il ne s'agit pas de tétraèdre, il s'agit de nombres \...si c'est désigné par les lettres grec­ques α, β, γ, nous aurons ici\...
 
 <!-- id: s19b-06-0309 -->
 
-> comme 4^ème^ élément à « *un élément* » dans l'ordre de ces *sous-ensembles* \...nous aurons *l'ensemble vide*.
+comme 4^ème^ élément à « *un élément* » dans l'ordre de ces *sous-ensembles* \...nous aurons *l'ensemble vide*.
 
 <!-- id: s19b-06-0310 -->
 
@@ -1304,7 +1304,7 @@ C'est qu'au niveau de l'é­lément des *sous-ensembles* antépénultième \[n-1
 
 <!-- id: s19b-06-0313 -->
 
-> disons, pour rester dans l'intuition des *cinq quadrangles* \...qu'on peut mettre en évidence dans, disons aussi, un polyèdre à 5 sommets.
+disons, pour rester dans l'intuition des *cinq quadrangles* \...qu'on peut mettre en évidence dans, disons aussi, un polyèdre à 5 sommets.
 
 <!-- id: s19b-06-0314 -->
 
@@ -1320,7 +1320,7 @@ Comment pouvons nous avoir notre compte\...
 
 <!-- id: s19b-06-0317 -->
 
-> sauf à ce même niveau, où nous aurions trois *sous-ensemble* \...d'y ajouter les éléments seuls de l'en­semble, c'est-à-dire α, β, γ, δ, comme non pris en un *ensemble*, c'est-à-dire en tant que définis comme *éléments* ils ne sont pas des *ensembles*, mais qu'isolés de ce qui les inclut dans l'*ensemble* ils doivent être comptés, pour que nous ayons notre compte de quatre, à fournir la partie du *chiffre* 5 au niveau de *l'ensemble à* 5 *éléments*, il nous faut faire intervenir les éléments au nombre de 4 comme simplement *juxtaposés*, mais non pas pris en un ensemble, « *sous-ensemble* » à l'occa­sion, c'est-à-dire quoi ?
+sauf à ce même niveau, où nous aurions trois *sous-ensemble* \...d'y ajouter les éléments seuls de l'en­semble, c'est-à-dire α, β, γ, δ, comme non pris en un *ensemble*, c'est-à-dire en tant que définis comme *éléments* ils ne sont pas des *ensembles*, mais qu'isolés de ce qui les inclut dans l'*ensemble* ils doivent être comptés, pour que nous ayons notre compte de quatre, à fournir la partie du *chiffre* 5 au niveau de *l'ensemble à* 5 *éléments*, il nous faut faire intervenir les éléments au nombre de 4 comme simplement *juxtaposés*, mais non pas pris en un ensemble, « *sous-ensemble* » à l'occa­sion, c'est-à-dire quoi ?
 
 <!-- id: s19b-06-0318 -->
 
@@ -1344,7 +1344,7 @@ Mais qu'est-ce que nous voyons ? Nous voyons ceci : qu'à ne prendre l'élémen
 
 <!-- id: s19b-06-0323 -->
 
-> comme c'était déjà démontré à la deuxième ligne \...est tout à fait équi­valent à un *ensemble vide*, puisque *l'ensemble vide* peut aussi jouer comme *élément*.
+comme c'était déjà démontré à la deuxième ligne \...est tout à fait équi­valent à un *ensemble vide*, puisque *l'ensemble vide* peut aussi jouer comme *élément*.
 
 <!-- id: s19b-06-0324 -->
 
@@ -1356,7 +1356,7 @@ Mais à prendre cette équivalence, cette « *mêmeté de la différence absolu
 
 <!-- id: s19b-06-0326 -->
 
-> et ceci non prise dans cette *inclusion ensembliste,* si je puis dire, qui la ferait *sous-ensemble* \...ça veut dire que la *mêmeté* comme telle est, en un point, comptée !
+et ceci non prise dans cette *inclusion ensembliste,* si je puis dire, qui la ferait *sous-ensemble* \...ça veut dire que la *mêmeté* comme telle est, en un point, comptée !
 
 <!-- id: s19b-06-0327 -->
 
@@ -1364,7 +1364,7 @@ Ceci me paraît d'une extrême importance, et très précisément par exemple, a
 
 <!-- id: s19b-06-0328 -->
 
-> dans la perspective réaliste \...un *universel* en tant que cet *universel* est *la réalité*.
+dans la perspective réaliste \...un *universel* en tant que cet *universel* est *la réalité*.
 
 <!-- id: s19b-06-0329 -->
 
@@ -1372,7 +1372,7 @@ Ce que nous voyons, c'est qu'il n'est pas du même niveau\...
 
 <!-- id: s19b-06-0330 -->
 
-> et c'est à ça que j'ai fait allusion dans mon dernier discours du Panthéon \...ce n'est pas au même niveau que l'idée de *semblable* s'introduit.
+et c'est à ça que j'ai fait allusion dans mon dernier discours du Panthéon \...ce n'est pas au même niveau que l'idée de *semblable* s'introduit.
 
 <!-- id: s19b-06-0331 -->
 
@@ -1400,7 +1400,7 @@ Quel est d'autre part\...
 
 <!-- id: s19b-06-0337 -->
 
-> à considérer *le schéma* que j'ai donné *du discours analytique* \...ce qui se produit de la mise en place du *sujet* au niveau de « *la jouissance de parler* » ?
+à considérer *le schéma* que j'ai donné *du discours analytique* \...ce qui se produit de la mise en place du *sujet* au niveau de « *la jouissance de parler* » ?
 
 <!-- id: s19b-06-0338 -->
 
@@ -1412,7 +1412,7 @@ Ce qui se produit et ce que je désigne à l'étage dit du *plus-de­-jouir*, c'
 
 <!-- id: s19b-06-0340 -->
 
-> quitte à me donner le devoir de vous en faire sentir l'incidence \...que je propose de reconnaî­tre dans ce qu'il en est, de quoi ?
+quitte à me donner le devoir de vous en faire sentir l'incidence \...que je propose de reconnaî­tre dans ce qu'il en est, de quoi ?
 
 <!-- id: s19b-06-0341 -->
 
@@ -1432,7 +1432,7 @@ L'*Un* dont il s'agit\...
 
 <!-- id: s19b-06-0345 -->
 
-> celui que produit le sujet, disons « *point idéal* » dans l'analyse \...c'est très précisément, au contraire de ce dont il s'agit dans la répétition,
+celui que produit le sujet, disons « *point idéal* » dans l'analyse \...c'est très précisément, au contraire de ce dont il s'agit dans la répétition,
 
 <!-- id: s19b-06-0346 -->
 

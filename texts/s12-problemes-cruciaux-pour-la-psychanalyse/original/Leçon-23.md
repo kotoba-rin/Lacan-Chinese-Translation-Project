@@ -46,7 +46,7 @@ Il faut se souvenir que ce surgissement du *cogito,* dans cette division où mon
 
 <!-- id: s12-23-0011 -->
 
-> je parle de celle que nous pouvons retenir comme la meilleure …*n’a été rien d’autre que de définir les conditions de possibilité d’un sujet en face de ce savoir en tant qu’il peut s’accumuler*. *Or c’est ceci qui est position fausse de la philosophie qui met le philosophe dans la même position de valet qui fait que le psychologue est là pour nous donner les conditions de possibilité d’un sujet dans une société dominée par l’accumulation du capital.*
+je parle de celle que nous pouvons retenir comme la meilleure …*n’a été rien d’autre que de définir les conditions de possibilité d’un sujet en face de ce savoir en tant qu’il peut s’accumuler*. *Or c’est ceci qui est position fausse de la philosophie qui met le philosophe dans la même position de valet qui fait que le psychologue est là pour nous donner les conditions de possibilité d’un sujet dans une société dominée par l’accumulation du capital.*
 
 <!-- id: s12-23-0012 -->
 
@@ -158,7 +158,7 @@ La relation de *ces trois termes* est marquée par un rapport qui est celui que.
 
 <!-- id: s12-23-0039 -->
 
-> sous le terme écrit ici en rouge, et qui est en quelque sorte le titre au tableau de l’*Entzweiung* …que j’essaie de vous faire comprendre comme s’instaurant, s’enracinant, dans le mode du rapport de ce qui constitue *le statut du sujet* : *le statut du sujet* en tant que nous avons toute l’année tourné autour de l’espèce d’*un trait* particulier qui est celui qui le constitue, cet 1 dont nous avons été chercher dans FREGE la formule, pour autant qu’il est cet 1 qui s’institue dans le repérage du manque.
+sous le terme écrit ici en rouge, et qui est en quelque sorte le titre au tableau de l’*Entzweiung* …que j’essaie de vous faire comprendre comme s’instaurant, s’enracinant, dans le mode du rapport de ce qui constitue *le statut du sujet* : *le statut du sujet* en tant que nous avons toute l’année tourné autour de l’espèce d’*un trait* particulier qui est celui qui le constitue, cet 1 dont nous avons été chercher dans FREGE la formule, pour autant qu’il est cet 1 qui s’institue dans le repérage du manque.
 
 <!-- id: s12-23-0040 -->
 
@@ -266,9 +266,9 @@ Il peut vous sembler lointain détour, caprice, goût du singulier, que je m’a
 
 <!-- id: s12-23-0066 -->
 
-> structure peu familière, puisque je suis sûr que pour certains, sinon pour la plupart de ceux qui sont ici, la remarque que
->
-> je viens de faire, que le fait de nous servir d’une surface comme étant le support le plus propice à représenter une certains triade se pose ici pour nous comme instituant à proprement parler la *position subjective*, je précise et j’insiste : j’entends bien que je sais ce que je dis, quand je dis *position subjective de l’être* comme tel …que ce support porte en lui la nécessité d’un certain rapport imagé par la *bande de Mœbius* mais dont je vous ai déjà fait remarquer que la bande n’en est que l’image.
+structure peu familière, puisque je suis sûr que pour certains, sinon pour la plupart de ceux qui sont ici, la remarque que
+
+je viens de faire, que le fait de nous servir d’une surface comme étant le support le plus propice à représenter une certains triade se pose ici pour nous comme instituant à proprement parler la *position subjective*, je précise et j’insiste : j’entends bien que je sais ce que je dis, quand je dis *position subjective de l’être* comme tel …que ce support porte en lui la nécessité d’un certain rapport imagé par la *bande de Mœbius* mais dont je vous ai déjà fait remarquer que la bande n’en est que l’image.
 
 <!-- id: s12-23-0067 -->
 
@@ -284,9 +284,9 @@ Mais le propre de cette bande c’est qu’elle peut…
 
 <!-- id: s12-23-0070 -->
 
-> je vous l’ai montré en son temps, mais je regrette de ne pas pouvoir le remontrer aujourd’hui :
->
-> j’ai oublié ma paire de ciseaux et ma colle, et je n’ai pas pu en trouver ici le supplément au secrétariat …mais rappelez-vous que cette bande peut se recouvrir elle-même, d’une façon telle qu’elle reprend la forme exacte d’une *bande de Mœbius* et qu’alors, ce qui sera le double bord de cette bande de nouveau repliée en une *bande de Mœbius*, ce sera un intervalle que vous avez ici, figuré au tableau, dont on peut démontrer qu’il comporte ce demi-tour également, qui est une *bande de Mœbius*.
+je vous l’ai montré en son temps, mais je regrette de ne pas pouvoir le remontrer aujourd’hui :
+
+j’ai oublié ma paire de ciseaux et ma colle, et je n’ai pas pu en trouver ici le supplément au secrétariat …mais rappelez-vous que cette bande peut se recouvrir elle-même, d’une façon telle qu’elle reprend la forme exacte d’une *bande de Mœbius* et qu’alors, ce qui sera le double bord de cette bande de nouveau repliée en une *bande de Mœbius*, ce sera un intervalle que vous avez ici, figuré au tableau, dont on peut démontrer qu’il comporte ce demi-tour également, qui est une *bande de Mœbius*.
 
 <!-- id: s12-23-0071 -->
 
@@ -446,11 +446,15 @@ J’ai entendu il n’y a pas longtemps, dans une de mes analyses, employer le t
 
 <!-- id: s12-23-0110 -->
 
-> « *Il y a donc*… me disait mon analysé, se faisant pour l’occasion objecteur
+<div class="text-quotation">
+
+« *Il y a donc*… me disait mon analysé, se faisant pour l’occasion objecteur
+
+</div>
 
 <!-- id: s12-23-0111 -->
 
-> …*des fausses couches analytiques* ».
+…*des fausses couches analytiques* ».
 
 <!-- id: s12-23-0112 -->
 

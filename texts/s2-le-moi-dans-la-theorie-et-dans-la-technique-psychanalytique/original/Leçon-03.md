@@ -110,7 +110,11 @@ Je me suis mal expliqué là-dessus, parce qu’on ne pouvait pas le faire en ra
 
 <!-- id: s2-03-0027 -->
 
-> « *Comment expliquer la violence de ce que nous connaissons ?* »
+<div class="text-quotation">
+
+« *Comment expliquer la violence de ce que nous connaissons ?* »
+
+</div>
 
 <!-- id: s2-03-0028 -->
 
@@ -138,7 +142,7 @@ Cela me semblait donc être tout un faisceau de remarques qui s’appliquaient d
 
 <!-- id: s2-03-0034 -->
 
-> à moins que mes associations d’idées ne relèvent aussi de rapports personnels
+à moins que mes associations d’idées ne relèvent aussi de rapports personnels
 
 <!-- id: s2-03-0035 -->
 
@@ -274,7 +278,7 @@ Ce que *les structures élémentaires* montrent, c’est le lien absolument étr
 
 <!-- id: s2-03-0068 -->
 
-> là je l’emploie dans le sens technique de mode de nomenclature extraordinairement élevé
+là je l’emploie dans le sens technique de mode de nomenclature extraordinairement élevé
 
 <!-- id: s2-03-0069 -->
 
@@ -290,9 +294,9 @@ C’est ça la portée de la remarque de LÉVI-STRAUSS, qui est une remarque fon
 
 <!-- id: s2-03-0072 -->
 
-> puisqu’il se pose toujours comme un *organisme symbolique* formant à lui tout seul *un univers*,
->
-> et même *constituant l’univers* comme tel, *comme distinct du monde*,
+puisqu’il se pose toujours comme un *organisme symbolique* formant à lui tout seul *un univers*,
+
+et même *constituant l’univers* comme tel, *comme distinct du monde*,
 
 <!-- id: s2-03-0073 -->
 
@@ -316,9 +320,9 @@ C’est à partir d’une étude *arithmétique*, véritablement…
 
 <!-- id: s2-03-0078 -->
 
-> si vous entendez par arithmétique le fait non seulement de manipuler des *collections d’objets*,
->
-> mais de comprendre la portée de ces *opérations combinatoires*
+si vous entendez par arithmétique le fait non seulement de manipuler des *collections d’objets*,
+
+mais de comprendre la portée de ces *opérations combinatoires*
 
 <!-- id: s2-03-0079 -->
 
@@ -334,9 +338,9 @@ Cela suppose donc - vous le voyez bien, et c’est le sens de la question que je
 
 <!-- id: s2-03-0082 -->
 
-> et le fonctionnement dès l’origine, c’est là le sens de la remarque que j’ai faite au même sens
->
-> que l’in­conscient dans l’individu, tel que nous le découvrons, le manipulons dans l’ana­lyse
+et le fonctionnement dès l’origine, c’est là le sens de la remarque que j’ai faite au même sens
+
+que l’in­conscient dans l’individu, tel que nous le découvrons, le manipulons dans l’ana­lyse
 
 <!-- id: s2-03-0083 -->
 
@@ -348,9 +352,9 @@ C’est bien là que nous pouvons dire qu’il y a eu quelque flottement dans la
 
 <!-- id: s2-03-0085 -->
 
-> et c’est fréquent chez les gens qui introduisent des idées nouvelles,
->
-> une espèce d’hésitation à en maintenir tout le tranchant
+et c’est fréquent chez les gens qui introduisent des idées nouvelles,
+
+une espèce d’hésitation à en maintenir tout le tranchant
 
 <!-- id: s2-03-0086 -->
 
@@ -378,9 +382,9 @@ Malgré tout, c’est toujours en termes de mécanismes que nous essaierons d’
 
 <!-- id: s2-03-0092 -->
 
-> et là nous pouvons donner une porte de sortie à la chose qui s’engage dans une espèce de controverse
->
-> entre vitalisme et mécanisme
+et là nous pouvons donner une porte de sortie à la chose qui s’engage dans une espèce de controverse
+
+entre vitalisme et mécanisme
 
 <!-- id: s2-03-0093 -->
 
@@ -736,11 +740,11 @@ Ce qui ne dit pas qu’essen­tiellement le transfert…
 
 <!-- id: s2-03-0181 -->
 
-> la fonction qui est le point de fuite, le point de perspective, là où tout converge dans les différentes fonctions
->
-> du transfert, fonction à proprement parler créatrice, fondatrice, qui existe dans un certain type,
->
-> dans une certaine fonction pleine de *la parole*
+la fonction qui est le point de fuite, le point de perspective, là où tout converge dans les différentes fonctions
+
+du transfert, fonction à proprement parler créatrice, fondatrice, qui existe dans un certain type,
+
+dans une certaine fonction pleine de *la parole*
 
 <!-- id: s2-03-0182 -->
 
@@ -768,9 +772,9 @@ LACAN
 
 <!-- id: s2-03-0188 -->
 
-> et c’est là quelque chose qui est une découverte de l’expérience, qui n’est pas, si vous voulez, d’aucune façon,
->
-> une catégorie que je qualifierai presque d’*a priori,* comme la catégorie *symbolique* en tant que je la détache, dégage
+et c’est là quelque chose qui est une découverte de l’expérience, qui n’est pas, si vous voulez, d’aucune façon,
+
+une catégorie que je qualifierai presque d’*a priori,* comme la catégorie *symbolique* en tant que je la détache, dégage
 
 <!-- id: s2-03-0189 -->
 

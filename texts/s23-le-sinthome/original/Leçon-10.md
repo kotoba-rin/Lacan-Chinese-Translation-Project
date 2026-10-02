@@ -10,7 +10,7 @@ D’habitude, j’ai quelque chose à vous dire. Mais je souhaiterais comme ça,
 
 <!-- id: s23-10-0002 -->
 
-> je souhaiterais parce que j’ai une occasion : c’est le jour de mon anniversaire \[*applaudissements*\] ...je souhaiterais que je puisse vérifier si je sais ce que je dis.
+je souhaiterais parce que j’ai une occasion : c’est le jour de mon anniversaire \[*applaudissements*\] ...je souhaiterais que je puisse vérifier si je sais ce que je dis.
 
 <!-- id: s23-10-0003 -->
 
@@ -38,7 +38,7 @@ Je préférerais donc qu’aujourd’hui, quelqu’un...
 
 <!-- id: s23-10-0009 -->
 
-> je ne demande pas des merveilles, je ne demande pas du tout que l’étincelle jaillisse ...j’aurais aimé sans doute que quelqu’un écrive quelque chose qui en somme justifierait cette peine que je me donne depuis environ vingt-deux ans, un peu plus.
+je ne demande pas des merveilles, je ne demande pas du tout que l’étincelle jaillisse ...j’aurais aimé sans doute que quelqu’un écrive quelque chose qui en somme justifierait cette peine que je me donne depuis environ vingt-deux ans, un peu plus.
 
 <!-- id: s23-10-0010 -->
 
@@ -158,7 +158,7 @@ Je veux dire que, à mon expérience tout au moins, il n’est pas du tout aisé
 
 <!-- id: s23-10-0039 -->
 
-> même à les réduire à trois ...ça ne *s’imagine* pas facilement, ça ne *s’écrit* pas facilement.
+même à les réduire à trois ...ça ne *s’imagine* pas facilement, ça ne *s’écrit* pas facilement.
 
 <!-- id: s23-10-0040 -->
 
@@ -202,7 +202,7 @@ Je dirai même plus, c’est ça qui rend sensible, qui fait toucher du doigt...
 
 <!-- id: s23-10-0050 -->
 
-> mais de façon tout à fait illusoire ...ce que peut être ce qu’on appelle « *la réminiscence »*.
+mais de façon tout à fait illusoire ...ce que peut être ce qu’on appelle « *la réminiscence »*.
 
 <!-- id: s23-10-0051 -->
 
@@ -266,7 +266,7 @@ D’où mon écriture du savoir comme se supportant de S...
 
 <!-- id: s23-10-0066 -->
 
-> non pas à la deuxième puissance \[**S<sup>2</sup>**\] *...*de S avec cet *indice* qui le supporte, cet *indice* d’un petit 2 dans le bas - ça n’est pas le S au carré - c’est le S « *supposé être* 2 » : **S<sub>2</sub>**.
+non pas à la deuxième puissance \[**S<sup>2</sup>**\] *...*de S avec cet *indice* qui le supporte, cet *indice* d’un petit 2 dans le bas - ça n’est pas le S au carré - c’est le S « *supposé être* 2 » : **S<sub>2</sub>**.
 
 <!-- id: s23-10-0067 -->
 
@@ -274,7 +274,7 @@ La définition que je donne de ce signifiant, comme tel...
 
 <!-- id: s23-10-0068 -->
 
-> et que je supporte du S *indice* 1 : **S<sub>1</sub>** <sub>...</sub>c’est de représenter un sujet, comme tel, et de le représenter vraiment.
+et que je supporte du S *indice* 1 : **S<sub>1</sub>** <sub>...</sub>c’est de représenter un sujet, comme tel, et de le représenter vraiment.
 
 <!-- id: s23-10-0069 -->
 
@@ -294,7 +294,7 @@ C’est une supposition tout à fait précaire que mon *Réel*...
 
 <!-- id: s23-10-0073 -->
 
-> faut bien que je me le mette à mon actif ...que mon *Réel* conditionne la réalité, la réalité de votre audition par exemple.
+faut bien que je me le mette à mon actif ...que mon *Réel* conditionne la réalité, la réalité de votre audition par exemple.
 
 <!-- id: s23-10-0074 -->
 
@@ -306,7 +306,7 @@ En d’autres termes, l’instance du savoir...
 
 <!-- id: s23-10-0076 -->
 
-> que Freud renouvelle, je veux dire rénove sous la forme de l’inconscient ...est une chose qui ne suppose pas du tout obligatoirement le *Réel* dont je me sers.
+que Freud renouvelle, je veux dire rénove sous la forme de l’inconscient ...est une chose qui ne suppose pas du tout obligatoirement le *Réel* dont je me sers.
 
 <!-- id: s23-10-0077 -->
 
@@ -334,7 +334,7 @@ Je veux dire que...
 
 <!-- id: s23-10-0083 -->
 
-> si tant est que il y ait ce qu’on puisse appeler une élucubration freudienne ...que c’est ma façon à moi de porter à son degré de symbolisme, au second degré, c’est dans la mesure où Freud a articulé l’inconscient que j’y réagis, mais déjà nous voyons là que c’est une façon de porter *le sinthome* lui-même au second degré.
+si tant est que il y ait ce qu’on puisse appeler une élucubration freudienne ...que c’est ma façon à moi de porter à son degré de symbolisme, au second degré, c’est dans la mesure où Freud a articulé l’inconscient que j’y réagis, mais déjà nous voyons là que c’est une façon de porter *le sinthome* lui-même au second degré.
 
 <!-- id: s23-10-0084 -->
 
@@ -342,7 +342,7 @@ C’est dans la mesure où Freud a vraiment fait une découverte...
 
 <!-- id: s23-10-0085 -->
 
-> et à supposer que cette découverte soit vraie ...qu’on peut dire que le *Réel* est ma *réponse symptomatique*.
+et à supposer que cette découverte soit vraie ...qu’on peut dire que le *Réel* est ma *réponse symptomatique*.
 
 <!-- id: s23-10-0086 -->
 
@@ -446,7 +446,7 @@ Quel serait le privilège de l’énergétique, si ce n’est que, on l’a...
 
 <!-- id: s23-10-0111 -->
 
-> à condition de faire les bonnes manipulations, *les mani­pulations* *conformes* à un certain enseignement mathématique ...on trouve toujours un *nombre constant*.
+à condition de faire les bonnes manipulations, *les mani­pulations* *conformes* à un certain enseignement mathématique ...on trouve toujours un *nombre constant*.
 
 <!-- id: s23-10-0112 -->
 
@@ -470,7 +470,7 @@ Mais je fais distinction de *cet organe*, si je puis dire...
 
 <!-- id: s23-10-0117 -->
 
-> de cet organe qui n’a absolument rien à faire avec un organe charnel ... je fais tout à fait distinction de *cet organe*... par quoi *Imaginaire* et *Symbolique* sont, comme on dit, noués, ... je fais tout à fait distinction
+de cet organe qui n’a absolument rien à faire avec un organe charnel ... je fais tout à fait distinction de *cet organe*... par quoi *Imaginaire* et *Symbolique* sont, comme on dit, noués, ... je fais tout à fait distinction
 
 <!-- id: s23-10-0118 -->
 
@@ -550,7 +550,7 @@ QUESTIONS
 
 <!-- id: s23-10-0137 -->
 
-> je n’ai pas dit que la psychanalyse était un sinthome ...*est-ce que ce que vous faites avec votre nœud et vos mathèmes, ce n’est pas déchiffrer, avec la conséquence d’en dissiper la signification* ? »
+je n’ai pas dit que la psychanalyse était un sinthome ...*est-ce que ce que vous faites avec votre nœud et vos mathèmes, ce n’est pas déchiffrer, avec la conséquence d’en dissiper la signification* ? »
 
 <!-- id: s23-10-0138 -->
 
@@ -586,7 +586,7 @@ C’est dans la mesure où je crois pouvoir, de quelque chose qui est une topolo
 
 <!-- id: s23-10-0146 -->
 
-> avec certitude parce que j’en ai la pratique ... du terme d’« *inconscient* ».
+avec certitude parce que j’en ai la pratique ... du terme d’« *inconscient* ».
 
 <!-- id: s23-10-0147 -->
 
@@ -594,7 +594,7 @@ C’est dans cette mesure...
 
 <!-- id: s23-10-0148 -->
 
-> et dans la mesure où l’*inconscient* ne va pas sans référence au corps ... que je pense que la fonction du *Réel* peut en être distinguée.
+et dans la mesure où l’*inconscient* ne va pas sans référence au corps ... que je pense que la fonction du *Réel* peut en être distinguée.
 
 <!-- id: s23-10-0149 -->
 
@@ -682,7 +682,7 @@ Qu’une droite coupée soit as­surément finie, comme ayant des limites, ne di
 
 <!-- id: s23-10-0170 -->
 
-> puisqu’elle peut être supposée comme ayant ce qu’on appelle *un point à l’infini*, c’est-à-dire en somme faisant cercle ...ça n’est pas pour autant que la droite suffise à métaphoriser l’infini.
+puisqu’elle peut être supposée comme ayant ce qu’on appelle *un point à l’infini*, c’est-à-dire en somme faisant cercle ...ça n’est pas pour autant que la droite suffise à métaphoriser l’infini.
 
 <!-- id: s23-10-0171 -->
 
@@ -698,7 +698,7 @@ Il ne nous donne pas, à condition de le supposer...
 
 <!-- id: s23-10-0174 -->
 
-> comme il semble bien, aux dernières nouvelles d’Einstein ...de le supposer flexible : il s’infléchit ce rayon lumineux, lui-même. Il s’infléchit quoi­qu’il donne à la courte portée, à la nôtre de courte portée, quoiqu’il donne toute apparence de ne pas l’être, à savoir de réaliser la droite.
+comme il semble bien, aux dernières nouvelles d’Einstein ...de le supposer flexible : il s’infléchit ce rayon lumineux, lui-même. Il s’infléchit quoi­qu’il donne à la courte portée, à la nôtre de courte portée, quoiqu’il donne toute apparence de ne pas l’être, à savoir de réaliser la droite.
 
 <!-- id: s23-10-0175 -->
 
@@ -782,7 +782,7 @@ Je parle du *Réel* comme *impossible* dans la mesure où je crois justement que
 
 <!-- id: s23-10-0195 -->
 
-> enfin... « *je crois* » : si c’est mon symptôme, dites-le moi ...où je crois que le *Réel* est, il faut bien le dire, sans loi.
+enfin... « *je crois* » : si c’est mon symptôme, dites-le moi ...où je crois que le *Réel* est, il faut bien le dire, sans loi.
 
 <!-- id: s23-10-0196 -->
 

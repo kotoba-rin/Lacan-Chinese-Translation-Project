@@ -27,8 +27,8 @@ Néanmoins, vous le savez, FREUD a posé, et très tôt, la question de l’auth
 
 <!-- id: s11-10-0005 -->
 
-> qu’il s’agit là de quelque chose qui serait comme une sorte de faux-amour, d’ombre d’amour
-> …FREUD *est loin d’avoir fait pencher la balan­ce dans ce sens*.
+qu’il s’agit là de quelque chose qui serait comme une sorte de faux-amour, d’ombre d’amour
+…FREUD *est loin d’avoir fait pencher la balan­ce dans ce sens*.
 
 <!-- id: s11-10-0006 -->
 
@@ -47,8 +47,8 @@ Pour ne pas nous contenter du niveau où ces choses se dessinent…
 
 <!-- id: s11-10-0009 -->
 
-> dire qu’en somme, du point de vue de *l’affect*, dans l’emploi de ce terme comme désignant *l’affect*
-> …nous dirons avec plus de justesse que *le transfert* :
+dire qu’en somme, du point de vue de *l’affect*, dans l’emploi de ce terme comme désignant *l’affect*
+…nous dirons avec plus de justesse que *le transfert* :
 
 <!-- id: s11-10-0010 -->
 
@@ -342,7 +342,7 @@ Ce que FREUD nous indique, et dès ce qu’il apporte au premier temps concernan
 
 <!-- id: s11-10-0069 -->
 
-> *en tant qu’elle lui est opposée*.
+*en tant qu’elle lui est opposée*.
 
 <!-- id: s11-10-0070 -->
 
@@ -441,9 +441,13 @@ de ses collègues et de lui-même. Ce risque, *this hazard,* doit être carré­
 
 <!-- id: s11-10-0090 -->
 
-> « *Ni la professionnalisation, ni l’élévation des standards, ni les analyses didactiques poussées jusqu’au forçage - cœrced training analysis –*
->
-> *ne peuvent nous protéger contre ce danger* ».
+<div class="text-quotation">
+
+« *Ni la professionnalisation, ni l’élévation des standards, ni les analyses didactiques poussées jusqu’au forçage - cœrced training analysis –*
+
+*ne peuvent nous protéger contre ce danger* ».
+
+</div>
 
 <!-- id: s11-10-0091 -->
 
@@ -464,10 +468,10 @@ Mais la lecture de cet article...
 
 <!-- id: s11-10-0095 -->
 
-> et après tout je peux penser que cette revue est d’un accès suffisamment possible, encore qu’elle ne vienne pas ici en France par paquets, pour un nombre au moins important de mes auditeurs, pour vous inciter à en prendre connaissance d’ici la prochaine fois
-> …toute cette impasse ci désignée - et je dois dire, entièrement forgée, complètement erronée - qui est ici désignée, est pourtant pour l’auteur, nécessitée par le fait même qu’il ne saurait concevoir *l’analyse du transfert* que dans les termes que j’ai posés
-> tout à l’heure, à savoir : d’un assen­timent, d’un accord obtenu, ou non, de la part de l’analyste de ce qu’on appelle - il est le seul à ne pas s’en servir, mais le texte implique que c’est ce dont il s’agit - ce qu’on appelle « *la partie saine du moi* », celle qui est *apte à juger*
-> *de la réalité* et *à trancher de l’illusion.* Le départ de son article commence ainsi logiquement :
+et après tout je peux penser que cette revue est d’un accès suffisamment possible, encore qu’elle ne vienne pas ici en France par paquets, pour un nombre au moins important de mes auditeurs, pour vous inciter à en prendre connaissance d’ici la prochaine fois
+…toute cette impasse ci désignée - et je dois dire, entièrement forgée, complètement erronée - qui est ici désignée, est pourtant pour l’auteur, nécessitée par le fait même qu’il ne saurait concevoir *l’analyse du transfert* que dans les termes que j’ai posés
+tout à l’heure, à savoir : d’un assen­timent, d’un accord obtenu, ou non, de la part de l’analyste de ce qu’on appelle - il est le seul à ne pas s’en servir, mais le texte implique que c’est ce dont il s’agit - ce qu’on appelle « *la partie saine du moi* », celle qui est *apte à juger*
+*de la réalité* et *à trancher de l’illusion.* Le départ de son article commence ainsi logiquement :
 
 <!-- id: s11-10-0096 -->
 

@@ -22,11 +22,11 @@ De l’*Un* pour autant que déjà je vous ai indiqué, vous indiquant aussi com
 
 <!-- id: s19-07-0005 -->
 
-> comme dia­lectisable, comme se développant ...de tout discours possible au sujet de l’*Un,* c’est d’abord...
+comme dia­lectisable, comme se développant ...de tout discours possible au sujet de l’*Un,* c’est d’abord...
 
 <!-- id: s19-07-0006 -->
 
-> et à ne le prendre qu’à ce niveau qui n’est rien en dire d’autre, comme il s’exprime ...que « *c’est Un* ».
+et à ne le prendre qu’à ce niveau qui n’est rien en dire d’autre, comme il s’exprime ...que « *c’est Un* ».
 
 <!-- id: s19-07-0007 -->
 
@@ -62,9 +62,9 @@ Ces observations étant faites, c’est de *l’Un* donc...
 
 <!-- id: s19-07-0015 -->
 
-> pour des raisons dont il va falloir *encore* que je m’excuse,
->
-> car au nom de quoi est-ce que je vous occuperais avec ça ? ...c’est de *l’Un* que je vais vous parler aujour­d’hui.
+pour des raisons dont il va falloir *encore* que je m’excuse,
+
+car au nom de quoi est-ce que je vous occuperais avec ça ? ...c’est de *l’Un* que je vais vous parler aujour­d’hui.
 
 <!-- id: s19-07-0016 -->
 
@@ -96,7 +96,7 @@ De sorte qu’il n’est pas possible... je vais essayer pourtant de frayer tout
 
 <!-- id: s19-07-0023 -->
 
-> pour autant qu’il est lui-même frayage du *discours analytique* ...l’intérêt que mon dis­cours a à passer par *l’Un*.
+pour autant qu’il est lui-même frayage du *discours analytique* ...l’intérêt que mon dis­cours a à passer par *l’Un*.
 
 <!-- id: s19-07-0024 -->
 
@@ -124,9 +124,9 @@ Si elle n’était pas soutenue d’une autre figure...
 
 <!-- id: s19-07-0030 -->
 
-> qui est très précisément celle où échoue *le rapport sexuel*,
->
-> à savoir celle de *l’Un *et de *« pas-un »,* c’est à savoir *zéro...*on voit mal la fonction que pourrait tenir ce couple stupéfiant.
+qui est très précisément celle où échoue *le rapport sexuel*,
+
+à savoir celle de *l’Un *et de *« pas-un »,* c’est à savoir *zéro...*on voit mal la fonction que pourrait tenir ce couple stupéfiant.
 
 <!-- id: s19-07-0031 -->
 
@@ -138,7 +138,7 @@ Mais il est certain qu’en tout cas *l’Un* ne saurait...
 
 <!-- id: s19-07-0033 -->
 
-> dans ce discours *sauvage* qui s’institue de la tentative d’énoncer le rapport sexuel ...il est strictement impossible de considérer la copulation de 2 corps comme n’en fai­sant qu’**1**.
+dans ce discours *sauvage* qui s’institue de la tentative d’énoncer le rapport sexuel ...il est strictement impossible de considérer la copulation de 2 corps comme n’en fai­sant qu’**1**.
 
 <!-- id: s19-07-0034 -->
 
@@ -146,7 +146,7 @@ Il est extraordinaire qu’à cet égard, le *« Banquet »* de Platon...
 
 <!-- id: s19-07-0035 -->
 
-> alors que les savants ricanent du « *Parménide »* ...le *« Banquet »* de Platon soit pris au sérieux comme représentant quoi que ce soit qui concerne l’amour.
+alors que les savants ricanent du « *Parménide »* ...le *« Banquet »* de Platon soit pris au sérieux comme représentant quoi que ce soit qui concerne l’amour.
 
 <!-- id: s19-07-0036 -->
 
@@ -154,7 +154,7 @@ Certains se souviennent peut-être encore que j’en ai usé dans une année...
 
 <!-- id: s19-07-0037 -->
 
-> exactement celle qui précède celle que j’ai avancée tout à l’heure, l’année 61-62 ...c’est en 60-61 que j’ai pris *Le Banquet* pour terrain d’exercice, *et je n’ai rien songé à en faire d’autre qu’à en fonder* *le transfert* [^18].
+exactement celle qui précède celle que j’ai avancée tout à l’heure, l’année 61-62 ...c’est en 60-61 que j’ai pris *Le Banquet* pour terrain d’exercice, *et je n’ai rien songé à en faire d’autre qu’à en fonder* *le transfert* [^18].
 
 <!-- id: s19-07-0038 -->
 
@@ -170,7 +170,7 @@ Le plus énorme, c’est qu’il n’apparaisse pas que celle qui couronne tout 
 
 <!-- id: s19-07-0041 -->
 
-> qu’il soit homo ou hétéro *...on n’y touche pas*, qu’il n’y a que l’Aphrodite Uranienne qui compte.
+qu’il soit homo ou hétéro *...on n’y touche pas*, qu’il n’y a que l’Aphrodite Uranienne qui compte.
 
 <!-- id: s19-07-0042 -->
 
@@ -242,11 +242,11 @@ Chose très étrange, je n’ai pas réussi...
 
 <!-- id: s19-07-0059 -->
 
-> ça ne veut pas dire que ça ne soit pas trouvable, mais enfin comme ça, à la façon assez hâtive
->
-> dont je procède malgré tout, la fonction de la hâte en logique j’en sais un petit quelque chose,
->
-> faut bien que je me presse, le temps me presse ...je n’ai pas réussi à voir, à trouver quelque chose, ni à simplement...
+ça ne veut pas dire que ça ne soit pas trouvable, mais enfin comme ça, à la façon assez hâtive
+
+dont je procède malgré tout, la fonction de la hâte en logique j’en sais un petit quelque chose,
+
+faut bien que je me presse, le temps me presse ...je n’ai pas réussi à voir, à trouver quelque chose, ni à simplement...
 
 <!-- id: s19-07-0060 -->
 
@@ -282,7 +282,7 @@ Au nom de quoi, justement, se désigne que le discours...
 
 <!-- id: s19-07-0068 -->
 
-> eh bien comme dit et comme le démontre le « *Parménide »* ...le discours, ça change.
+eh bien comme dit et comme le démontre le « *Parménide »* ...le discours, ça change.
 
 <!-- id: s19-07-0069 -->
 
@@ -290,7 +290,7 @@ C’est bien en ça que *le discours analytique* peut représenter une émergenc
 
 <!-- id: s19-07-0070 -->
 
-> aux yeux de beaucoup d’esprits, bien sûr tou­jours présente comme possible sinon imminente ...dès ma disparition on s’attend, dans le même champ, à la véritable pluie d’ordures qui déjà s’annonce parce qu’on croit que ça ne peut plus tarder. \[*Rires*\]
+aux yeux de beaucoup d’esprits, bien sûr tou­jours présente comme possible sinon imminente ...dès ma disparition on s’attend, dans le même champ, à la véritable pluie d’ordures qui déjà s’annonce parce qu’on croit que ça ne peut plus tarder. \[*Rires*\]
 
 <!-- id: s19-07-0071 -->
 
@@ -334,7 +334,7 @@ Et ce qu’il faudrait sûrement traduire...
 
 <!-- id: s19-07-0081 -->
 
-> je com­prends le scrupule qui y arrête les traducteurs ...faudrait sûrement traduire : « *s’il y a Un* » ou *l’Un,* c’est à vous de choisir.
+je com­prends le scrupule qui y arrête les traducteurs ...faudrait sûrement traduire : « *s’il y a Un* » ou *l’Un,* c’est à vous de choisir.
 
 <!-- id: s19-07-0082 -->
 
@@ -362,11 +362,11 @@ Ce qu’il commence par démontrer est très précisément ceci, qu’à prendre
 
 <!-- id: s19-07-0088 -->
 
-> Et qui est là interrogé ? Ce n’est évidemment pas le pauvre petit, le cher mignon,
->
-> le dénommé Aristote si mon souvenir est bon,
->
-> dont il semble difficile de croire que ça puisse être à ce moment-là celui qui nous a lais­sé sa mémoire, ...il est bien clair que, comme dans tout dialogue, dans tout dialogue *platonicien*, il y a pas trace d’interlocuteur.
+Et qui est là interrogé ? Ce n’est évidemment pas le pauvre petit, le cher mignon,
+
+le dénommé Aristote si mon souvenir est bon,
+
+dont il semble difficile de croire que ça puisse être à ce moment-là celui qui nous a lais­sé sa mémoire, ...il est bien clair que, comme dans tout dialogue, dans tout dialogue *platonicien*, il y a pas trace d’interlocuteur.
 
 <!-- id: s19-07-0089 -->
 
@@ -378,7 +378,11 @@ Ce qu’il commence par démontrer est très précisément ceci, qu’à prendre
 
 <!-- id: s19-07-0091 -->
 
-> *« présen­ce humaine »* disons-le ... \[*plus*\] que dans bien d’autres choses qui se sont écrites depuis.
+<div class="text-quotation">
+
+*« présen­ce humaine »* disons-le ... \[*plus*\] que dans bien d’autres choses qui se sont écrites depuis.
+
+</div>
 
 <!-- id: s19-07-0092 -->
 
@@ -386,13 +390,13 @@ Il ne nous en faudrait pour témoignage que ceci, que dans les premières appro
 
 <!-- id: s19-07-0093 -->
 
-> c’est là que vraiment on peut le sentir si déjà on ne savait pas par le commun de la vie
->
-> qu’on n’a jamais vu un dialogue abou­tir à quoi que ce soit ...il s’agit dans ce qu’on appelle « *dialogue* »...
+c’est là que vraiment on peut le sentir si déjà on ne savait pas par le commun de la vie
+
+qu’on n’a jamais vu un dialogue abou­tir à quoi que ce soit ...il s’agit dans ce qu’on appelle « *dialogue* »...
 
 <!-- id: s19-07-0094 -->
 
-> dans cette littérature qui a sa date ...justement de serrer quel est le *réel* qui peut faire croire, qui donne l’illusion qu’on peut parvenir à quelque chose en dialoguant avec quelqu’un.
+dans cette littérature qui a sa date ...justement de serrer quel est le *réel* qui peut faire croire, qui donne l’illusion qu’on peut parvenir à quelque chose en dialoguant avec quelqu’un.
 
 <!-- id: s19-07-0095 -->
 
@@ -420,11 +424,11 @@ Parce que ne me tra­duisez pas ἀδολεσχὶα par l’idée qu’il s’a
 
 <!-- id: s19-07-0101 -->
 
-> je dis ça pour ceux qui ne sont pas avertis, surtout que comme en face de la page
->
-> on vous dit qu’il s’agit de se conduire comme des innocents, comme des jeunots,
->
-> vous pourriez confondre. Ils ne sont pas nommés comme ça, les jeunots, dans le texte grec, ...ἀδολεσχὶα \[adoleskia\] ça veut dire *bavardage*.
+je dis ça pour ceux qui ne sont pas avertis, surtout que comme en face de la page
+
+on vous dit qu’il s’agit de se conduire comme des innocents, comme des jeunots,
+
+vous pourriez confondre. Ils ne sont pas nommés comme ça, les jeunots, dans le texte grec, ...ἀδολεσχὶα \[adoleskia\] ça veut dire *bavardage*.
 
 <!-- id: s19-07-0102 -->
 
@@ -432,7 +436,7 @@ Mais on peut considérer que c’est là quelque chose de l’amorce, de la pré
 
 <!-- id: s19-07-0103 -->
 
-> tressé par ce qu’on a pu, la phénoménologie qu’on pouvait à ce moment-là avoir à la portée de sa main ...ce qu’on a traduit par « *associations libres* ».
+tressé par ce qu’on a pu, la phénoménologie qu’on pouvait à ce moment-là avoir à la portée de sa main ...ce qu’on a traduit par « *associations libres* ».
 
 <!-- id: s19-07-0104 -->
 
@@ -464,9 +468,9 @@ Seulement le pas de Platon c’est différent : c’est de montrer que dès que 
 
 <!-- id: s19-07-0111 -->
 
-> comme on dirait dans ce que j’ai appelé tout à l’heure « *notre rude langage »*
->
-> le mot « *structure »* ne vaut pas mieux que le mot d’« *associations libres »,* ...mais ce qui se dessine fait difficulté, et que *le réel* c’est dans cette voie qu’il faut le chercher.
+comme on dirait dans ce que j’ai appelé tout à l’heure « *notre rude langage »*
+
+le mot « *structure »* ne vaut pas mieux que le mot d’« *associations libres »,* ...mais ce qui se dessine fait difficulté, et que *le réel* c’est dans cette voie qu’il faut le chercher.
 
 <!-- id: s19-07-0112 -->
 
@@ -570,11 +574,11 @@ Mais, je le demande...
 
 <!-- id: s19-07-0137 -->
 
-> à tous ceux qui ont des frémissements comme ça de changer les rôles ...je le demande : qu’est-ce qui peut faire - puisque l’esclave survit - qu’il devienne pas tout de suite...
+à tous ceux qui ont des frémissements comme ça de changer les rôles ...je le demande : qu’est-ce qui peut faire - puisque l’esclave survit - qu’il devienne pas tout de suite...
 
 <!-- id: s19-07-0138 -->
 
-> après « *la lutte à mort de pure prestance* », aujourd’hui, et « *la crainte de la mort* » ...qu’il change de camp, que tout ça ne subsiste, n’a chance de subsister qu’à condition qu’on voie très précisément ce que Platon *écarte*.
+après « *la lutte à mort de pure prestance* », aujourd’hui, et « *la crainte de la mort* » ...qu’il change de camp, que tout ça ne subsiste, n’a chance de subsister qu’à condition qu’on voie très précisément ce que Platon *écarte*.
 
 <!-- id: s19-07-0139 -->
 
@@ -582,9 +586,9 @@ Ce que Platon *écarte*...
 
 <!-- id: s19-07-0140 -->
 
-> mais qui saura jamais au nom de quoi, parce qu’on ne peut pas, mon Dieu,
->
-> sonder son cœur, c’est peut-être débilité mentale simplement ...il est clair au contraire, que c’est là la plus belle occasion de marquer ce qu’il en est de ce qu’il appelle le μετέχειν \[metékein\] *la participation*.
+mais qui saura jamais au nom de quoi, parce qu’on ne peut pas, mon Dieu,
+
+sonder son cœur, c’est peut-être débilité mentale simplement ...il est clair au contraire, que c’est là la plus belle occasion de marquer ce qu’il en est de ce qu’il appelle le μετέχειν \[metékein\] *la participation*.
 
 <!-- id: s19-07-0141 -->
 
@@ -596,7 +600,7 @@ De même que le Maître...
 
 <!-- id: s19-07-0143 -->
 
-> j’appelle ça « *l’essence* », appelez-le comme vous voudrez, *j’aime beaucoup mieux l’écrire* S<sub>1</sub>, *le signifiant-maître* ...et quant au Maître, s’il n’y avait pas S<sub>2</sub>, le savoir de l’esclave qu’est-ce qu’il en ferait ?
+j’appelle ça « *l’essence* », appelez-le comme vous voudrez, *j’aime beaucoup mieux l’écrire* S<sub>1</sub>, *le signifiant-maître* ...et quant au Maître, s’il n’y avait pas S<sub>2</sub>, le savoir de l’esclave qu’est-ce qu’il en ferait ?
 
 <!-- id: s19-07-0144 -->
 
@@ -612,7 +616,7 @@ Car dès qu’on interroge cet *Un,* ce qu’il devient...
 
 <!-- id: s19-07-0147 -->
 
-> enfin comme une chose qui se défait ...*c’est qu’il est impossible de le mettre en rapport avec quoi que ce soit, hors la série des nombres entiers, qui n’est rien d’autre que cet Un.*
+enfin comme une chose qui se défait ...*c’est qu’il est impossible de le mettre en rapport avec quoi que ce soit, hors la série des nombres entiers, qui n’est rien d’autre que cet Un.*
 
 <!-- id: s19-07-0148 -->
 
@@ -652,7 +656,7 @@ C’est bien pour ça qu’il faut l’incarner, et que j’ai mis d’abord *«
 
 <!-- id: s19-07-0157 -->
 
-> si vous l’approchez suffisamment ...de l’étonnement que mérite *qu’il y ait de l’Un*.
+si vous l’approchez suffisamment ...de l’étonnement que mérite *qu’il y ait de l’Un*.
 
 <!-- id: s19-07-0158 -->
 
@@ -672,11 +676,11 @@ Ici, eh bien celui-là dont il s’agit : *l’Un*, le responsable...
 
 <!-- id: s19-07-0162 -->
 
-> car c’est à l’attraper par les oreilles, n’est-ce pas, que « *y en a* » montre bien le fond dont il *ex-siste* ...le fond dont il *ex-siste* tient en ceci, qui ne va pas de soi, c’est que...
+car c’est à l’attraper par les oreilles, n’est-ce pas, que « *y en a* » montre bien le fond dont il *ex-siste* ...le fond dont il *ex-siste* tient en ceci, qui ne va pas de soi, c’est que...
 
 <!-- id: s19-07-0163 -->
 
-> pour prendre d’abord le premier *meuble* que j’avais à la portée de ma main ...*l’Un débile mental*, vous pouvez y ajouter : *une grippe, un tiroir, un pied de nez, une fumée, un « bonjour de ta Catherine ! »,* *une civi­lisation*, et - voire ! - *une jarretière dépareillée*, ça fait 8. Si épars que ça vous paraisse, hein ?
+pour prendre d’abord le premier *meuble* que j’avais à la portée de ma main ...*l’Un débile mental*, vous pouvez y ajouter : *une grippe, un tiroir, un pied de nez, une fumée, un « bonjour de ta Catherine ! »,* *une civi­lisation*, et - voire ! - *une jarretière dépareillée*, ça fait 8. Si épars que ça vous paraisse, hein ?
 
 <!-- id: s19-07-0164 -->
 
@@ -800,9 +804,9 @@ C’est bien ainsi que je prétends vous mener quelque part...
 
 <!-- id: s19-07-0194 -->
 
-> à poursuivre, par cette *bifidité de l’Un*, encore faut-il voir si elle tient,
->
-> cet *Un* que Platon si bien distingue de l’Être ...c’est assurément que l’Être, lui, est *Un,* toujours, en tous les cas, mais que *l’Un* sache être comme *être*, voilà qui est dans le « *Parménide »* parfaitement démontré.
+à poursuivre, par cette *bifidité de l’Un*, encore faut-il voir si elle tient,
+
+cet *Un* que Platon si bien distingue de l’Être ...c’est assurément que l’Être, lui, est *Un,* toujours, en tous les cas, mais que *l’Un* sache être comme *être*, voilà qui est dans le « *Parménide »* parfaitement démontré.
 
 <!-- id: s19-07-0195 -->
 
@@ -822,7 +826,7 @@ Aristote s’imagine qu’il suffit de dire que « *quelques* »*...*
 
 <!-- id: s19-07-0199 -->
 
-> *quelques* seulement, pas *tous* ...sont comme-ci ou comme-ça, pour que ça les distingue. Que c’est en les distinguant de ce qui, lui, est comme ça, si celles-ci ne le sont pas par exemple, ça suffit à assurer leur existence.
+*quelques* seulement, pas *tous* ...sont comme-ci ou comme-ça, pour que ça les distingue. Que c’est en les distinguant de ce qui, lui, est comme ça, si celles-ci ne le sont pas par exemple, ça suffit à assurer leur existence.
 
 <!-- id: s19-07-0200 -->
 
@@ -858,15 +862,15 @@ Traduisez ça comme vous voudrez c’est *l’instant*, c’est *le soudain*, c�
 
 <!-- id: s19-07-0208 -->
 
-> à me reporter à cet εξαίφνης \[ekxaifnés\] ...dans Aristote lui-même, à m’apercevoir qu’en fin de compte il y a eu émergence de ce terme d’*« exister »* quelque part dans la *« Physique »* où vous pourrez le trouver...
+à me reporter à cet εξαίφνης \[ekxaifnés\] ...dans Aristote lui-même, à m’apercevoir qu’en fin de compte il y a eu émergence de ce terme d’*« exister »* quelque part dans la *« Physique »* où vous pourrez le trouver...
 
 <!-- id: s19-07-0209 -->
 
-> où vous pourrez le trouver surtout si je vous le donne ...c’est quelque part au *Livre* IV de la *« Physique »* d’Aristote[^19]...
+où vous pourrez le trouver surtout si je vous le donne ...c’est quelque part au *Livre* IV de la *« Physique »* d’Aristote[^19]...
 
 <!-- id: s19-07-0210 -->
 
-> je ne le vois pas ici dans mes papiers, mais à la vérité il doit y être
+je ne le vois pas ici dans mes papiers, mais à la vérité il doit y être
 
 <!-- id: s19-07-0211 -->
 

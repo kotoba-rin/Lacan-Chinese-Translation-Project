@@ -40,9 +40,13 @@ max_segment_id: 113
 
 <!-- id: s4-04-0007 -->
 
-> “*驱力的对象，是驱力能够在其中或借以达到目标的东西。它是驱力中最容易变化的部分，原本并不同驱力相连；只因它适合使驱力得到平息和满足，才被配置给驱力。*”
->
-> ［“*Das Objekt des Triebes ist dasjenige, an welchem oder durch welches der Trieb sein Ziel erreichen kann. Es ist das variabelste am Triebe, nicht ursprünglich mit ihm verknüpft, sondern ihm nur infolge seiner Eignung zur Ermöglichung der Befriedigung zugeordnet.*”］
+<div class="text-quotation">
+
+“*驱力的对象，是驱力能够在其中或借以达到目标的东西。它是驱力中最容易变化的部分，原本并不同驱力相连；只因它适合使驱力得到平息和满足，才被配置给驱力。*”
+
+［“*Das Objekt des Triebes ist dasjenige, an welchem oder durch welches der Trieb sein Ziel erreichen kann. Es ist das variabelste am Triebe, nicht ursprünglich mit ihm verknüpft, sondern ihm nur infolge seiner Eignung zur Ermöglichung der Befriedigung zugeordnet.*”］
+
+</div>
 
 <!-- id: s4-04-0008 -->
 
@@ -188,7 +192,11 @@ max_segment_id: 113
 
 <!-- id: s4-04-0042 -->
 
-> “*因此，孩子带着遗传本能出生，面对一个他尚未感知、却已经记得的世界。此后，他既不必从自身或任何其他东西中把这个世界产生出来，也不必通过一连串异乎寻常的发现来发现它，而只需把它认出来。*”
+<div class="text-quotation">
+
+“*因此，孩子带着遗传本能出生，面对一个他尚未感知、却已经记得的世界。此后，他既不必从自身或任何其他东西中把这个世界产生出来，也不必通过一连串异乎寻常的发现来发现它，而只需把它认出来。*”
+
+</div>
 
 <!-- id: s4-04-0043 -->
 

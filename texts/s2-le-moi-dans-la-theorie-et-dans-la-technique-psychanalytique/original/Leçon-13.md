@@ -10,7 +10,7 @@ Nous allons essayer aujourd’hui de faire quelque chose malgré ma fatigue. Je 
 
 <!-- id: s2-13-0002 -->
 
-> toujours répondant pour lui à de très difficiles exigences de cohérence interne
+toujours répondant pour lui à de très difficiles exigences de cohérence interne
 
 <!-- id: s2-13-0003 -->
 
@@ -58,7 +58,7 @@ Le rêve initial, le rêve des rêves, celui de *l’injection d’Irma*, auquel
 
 <!-- id: s2-13-0014 -->
 
-> je vous signale que c’est au niveau de l’explication, de l’introduction qu’il donne de la notion de « *condensation »*
+je vous signale que c’est au niveau de l’explication, de l’introduction qu’il donne de la notion de « *condensation »*
 
 <!-- id: s2-13-0015 -->
 
@@ -86,7 +86,7 @@ Un homme qui s’appelle ERICKSON, et se qualifie lui-même comme tenant de l’
 
 <!-- id: s2-13-0021 -->
 
-> je ne sache pas que FREUD l’ait jamais négligé, ni ceux qui peuvent se qualifier comme spécifiquement freudiens
+je ne sache pas que FREUD l’ait jamais négligé, ni ceux qui peuvent se qualifier comme spécifiquement freudiens
 
 <!-- id: s2-13-0022 -->
 
@@ -102,7 +102,7 @@ D’un autre côté, je suis étonné de voir que ce *culturalisme* converge ass
 
 <!-- id: s2-13-0025 -->
 
-> et ce n’est pas pour rien que j’ai nommé HARTMANN, ce n’est pas le simple désir de persifler sa « *synchronisation* »
+et ce n’est pas pour rien que j’ai nommé HARTMANN, ce n’est pas le simple désir de persifler sa « *synchronisation* »
 
 <!-- id: s2-13-0026 -->
 
@@ -126,27 +126,31 @@ Ce rêve, je vais rapidement vous en faire rappeler le contenu. J’espère que 
 
 <!-- id: s2-13-0031 -->
 
-> « *Un grand hall,* *beaucoup d’invités, nous recevons. Parmi ces invités, Irma, que je prends tout de suite à part, pour lui reprocher,*
->
-> *en réponse à sa lettre, de ne pas avoir encore accepté ma « solution ». Je lui dis : « Si tu as encore des douleurs, c’est réellement*
->
-> *de ta faute ». Elle répond : « Si tu savais comme j’ai mal à la gorge, à l’estomac et au ventre, cela m’étrangle ». Je prends peur*
->
-> *et je la regarde. Elle a un air pâle et bouffi ; je me dis : n’ai-je pas laissé échapper quelque symptôme d’origine organique.*
->
-> *Je l’amène près de la fenêtre et j’examine sa gorge. Elle manifeste une certaine résistance comme les femmes qui portent un dentier.*
->
-> *Je me dis : pourtant elle n’en a pas besoin. Alors, elle ouvre bien la bouche, et je constate, à droite, une grande tache blanche, et d’autre part j’aperçois d’extraordinaires formations contournées qui ont l’apparence des cornets du nez, et sur elles de larges escarres blanc grisâtre. J’appelle aussitôt le docteur M., qui à son tour examine la malade et confirme... Le docteur M. n’est pas comme d’habitude,*
->
-> *il est très pâle, il boite, il n’a pas de barbe... Mon ami Otto est également là, à côté d’elle et mon ami Léopold la per­cute par-dessus*
->
-> *le corset ; il dit : « Elle a une matité à la base gauche », et il indique aussi une région infiltrée de la peau au niveau de l’épaule gauche (fait que je constate comme lui, malgré les vêtements)... M. dit : « Il n’y a pas de doute, c’est une infection, mais ça ne fait rien ;*
->
-> *il va s’y ajouter de la dysenterie et le poison va s’éliminer. ». Nous savons également, d’une manière directe, d’où vient l’infection.*
->
-> *Mon ami Otto lui a fait récem­ment, un jour où elle s’était sentie souffrante, une injection avec une pré­paration de propyle, propylène... acide proprionique... triméthylamine (dont je vois la formule devant mes yeux, imprimée en caractères gras)... Ces injections ne sont pas faciles à faire... il est probable aussi que la seringue n’était pas propre.* » \[p. 99, éd. PUF 1967 ; p. 142 éd. PUF 2003.\]
->
-> \[*Eine große Halle – viele Gäste, dia wir empfangen. – Unter ihnen Irma, die ich sofort bei Seite nehme, um gleichsam ihren Brief zu beantworten, ihr Vorwürfe zu machen, daß sie die „Lösung“ noch nicht akzeptiert. Ich sage ihr: Wenn du noch Schmerzen hast, so ist es wirklich nur deine Schuld. – Sie antwortet: Wenn du wüßtest, was ich für Schmerzen jetzt habe im Halse, Magen und Leib, es schnürt mich zusammen. – Ich erschrecke und sehe sie an. Sie sieht bleich und gedunsen aus; ich denke, am Ende übersehe ich da doch etwas Organisches. Ich nehme sie zum Fenster und schaue ihr in den Hals. Dabei zeigt sie etwas Sträuben, wie die Frauen, die ein künstliches Gebiß tragen. Ich denke mir, sie hat es doch nicht nötig. – Der Mund geht dann auch gut auf und ich finde rechts einen großen weißen Fleck und anderwärts sehe ich an merk­würdigen krausen Gebilden, die offenbar den Nasenmuscheln nach­gebildet sind, ansgedehnte weißgraue Schorfe. – Ich rufe schnell Dr. M. hinzu, der die Untersuchung wiederholt und bestätigt.... Dr. M. sieht ganz anders aus als sonst; er ist sehr bleich, hinkt, ist am Kinn bartlos.... Mein Freund Otto steht jetzt auch neben ihr und Freund Leopold perkutiert sie über dem Leibchen und sagt: Sie hat eine Dämpfung links unten, weist auch auf eine infiltrierte Hautpartie an der linken Schulter hin (was ich trotz des Kleides wie er spüre). M. sagt: Kein Zweifel, es ist eine Infektion, aber es macht nichts; es wird noch Dysenterie hinzukommen und das Gift sich ausscheiden.... Wir wissen auch unmittelbar, woher die Infektion rührt. Freund Otto hat ihr unlängst, als sie sich unwohl fühlte, eine Injektion gegeben mit einem Propylpräparat, Propylen... Propionsäure... Trimethylamin (dessen Formel ich fett gedruckt vor mir sehe). Man macht solche Injektionen nicht so leichtfertig. Wahrscheinlich war auch die Spritze nicht rein.*\] \[*Traumdeutung,* Deuticke 1911, 3<sup>ème</sup> éd.\]
+<div class="text-quotation">
+
+« *Un grand hall,* *beaucoup d’invités, nous recevons. Parmi ces invités, Irma, que je prends tout de suite à part, pour lui reprocher,*
+
+*en réponse à sa lettre, de ne pas avoir encore accepté ma « solution ». Je lui dis : « Si tu as encore des douleurs, c’est réellement*
+
+*de ta faute ». Elle répond : « Si tu savais comme j’ai mal à la gorge, à l’estomac et au ventre, cela m’étrangle ». Je prends peur*
+
+*et je la regarde. Elle a un air pâle et bouffi ; je me dis : n’ai-je pas laissé échapper quelque symptôme d’origine organique.*
+
+*Je l’amène près de la fenêtre et j’examine sa gorge. Elle manifeste une certaine résistance comme les femmes qui portent un dentier.*
+
+*Je me dis : pourtant elle n’en a pas besoin. Alors, elle ouvre bien la bouche, et je constate, à droite, une grande tache blanche, et d’autre part j’aperçois d’extraordinaires formations contournées qui ont l’apparence des cornets du nez, et sur elles de larges escarres blanc grisâtre. J’appelle aussitôt le docteur M., qui à son tour examine la malade et confirme... Le docteur M. n’est pas comme d’habitude,*
+
+*il est très pâle, il boite, il n’a pas de barbe... Mon ami Otto est également là, à côté d’elle et mon ami Léopold la per­cute par-dessus*
+
+*le corset ; il dit : « Elle a une matité à la base gauche », et il indique aussi une région infiltrée de la peau au niveau de l’épaule gauche (fait que je constate comme lui, malgré les vêtements)... M. dit : « Il n’y a pas de doute, c’est une infection, mais ça ne fait rien ;*
+
+*il va s’y ajouter de la dysenterie et le poison va s’éliminer. ». Nous savons également, d’une manière directe, d’où vient l’infection.*
+
+*Mon ami Otto lui a fait récem­ment, un jour où elle s’était sentie souffrante, une injection avec une pré­paration de propyle, propylène... acide proprionique... triméthylamine (dont je vois la formule devant mes yeux, imprimée en caractères gras)... Ces injections ne sont pas faciles à faire... il est probable aussi que la seringue n’était pas propre.* » \[p. 99, éd. PUF 1967 ; p. 142 éd. PUF 2003.\]
+
+\[*Eine große Halle – viele Gäste, dia wir empfangen. – Unter ihnen Irma, die ich sofort bei Seite nehme, um gleichsam ihren Brief zu beantworten, ihr Vorwürfe zu machen, daß sie die „Lösung“ noch nicht akzeptiert. Ich sage ihr: Wenn du noch Schmerzen hast, so ist es wirklich nur deine Schuld. – Sie antwortet: Wenn du wüßtest, was ich für Schmerzen jetzt habe im Halse, Magen und Leib, es schnürt mich zusammen. – Ich erschrecke und sehe sie an. Sie sieht bleich und gedunsen aus; ich denke, am Ende übersehe ich da doch etwas Organisches. Ich nehme sie zum Fenster und schaue ihr in den Hals. Dabei zeigt sie etwas Sträuben, wie die Frauen, die ein künstliches Gebiß tragen. Ich denke mir, sie hat es doch nicht nötig. – Der Mund geht dann auch gut auf und ich finde rechts einen großen weißen Fleck und anderwärts sehe ich an merk­würdigen krausen Gebilden, die offenbar den Nasenmuscheln nach­gebildet sind, ansgedehnte weißgraue Schorfe. – Ich rufe schnell Dr. M. hinzu, der die Untersuchung wiederholt und bestätigt.... Dr. M. sieht ganz anders aus als sonst; er ist sehr bleich, hinkt, ist am Kinn bartlos.... Mein Freund Otto steht jetzt auch neben ihr und Freund Leopold perkutiert sie über dem Leibchen und sagt: Sie hat eine Dämpfung links unten, weist auch auf eine infiltrierte Hautpartie an der linken Schulter hin (was ich trotz des Kleides wie er spüre). M. sagt: Kein Zweifel, es ist eine Infektion, aber es macht nichts; es wird noch Dysenterie hinzukommen und das Gift sich ausscheiden.... Wir wissen auch unmittelbar, woher die Infektion rührt. Freund Otto hat ihr unlängst, als sie sich unwohl fühlte, eine Injektion gegeben mit einem Propylpräparat, Propylen... Propionsäure... Trimethylamin (dessen Formel ich fett gedruckt vor mir sehe). Man macht solche Injektionen nicht so leichtfertig. Wahrscheinlich war auch die Spritze nicht rein.*\] \[*Traumdeutung,* Deuticke 1911, 3<sup>ème</sup> éd.\]
+
+</div>
 
 <!-- id: s2-13-0032 -->
 
@@ -226,7 +230,7 @@ La question est plutôt celle-ci : comment FREUD se contente-t-il…
 
 <!-- id: s2-13-0051 -->
 
-> étant donné le développement qu’ultérieurement a pris pour lui la théorie du rêve, qu’il y a dans le rêve un certain nombre d’éléments qui sont en continuité, il y a le texte du *préconscient*, qui sont dans le rêve fondamentalement animés par le désir inconscient
+étant donné le développement qu’ultérieurement a pris pour lui la théorie du rêve, qu’il y a dans le rêve un certain nombre d’éléments qui sont en continuité, il y a le texte du *préconscient*, qui sont dans le rêve fondamentalement animés par le désir inconscient
 
 <!-- id: s2-13-0052 -->
 
@@ -274,9 +278,13 @@ Quand FREUD interrompt les associations, il a ses raisons pour cela et il nous d
 
 <!-- id: s2-13-0063 -->
 
-> « *Ici, je ne veux pas vous en dire plus long, car quand même je vous en donne déjà assez,*
->
-> *je ne peux pas vous raconter toutes les histoires de lit et de pot de chambre…* »
+<div class="text-quotation">
+
+« *Ici, je ne veux pas vous en dire plus long, car quand même je vous en donne déjà assez,*
+
+*je ne peux pas vous raconter toutes les histoires de lit et de pot de chambre…* »
+
+</div>
 
 <!-- id: s2-13-0064 -->
 
@@ -344,7 +352,11 @@ Inversement, Irma lui dit :
 
 <!-- id: s2-13-0080 -->
 
-> « *Tu ne peux pas savoir comme ça fait mal ici et là : gorge, ventre, estomac .*»
+<div class="text-quotation">
+
+« *Tu ne peux pas savoir comme ça fait mal ici et là : gorge, ventre, estomac .*»
+
+</div>
 
 <!-- id: s2-13-0081 -->
 
@@ -408,7 +420,7 @@ Ceci va très loin, jusqu’à ce qu’ayant ouvert la bouche de la patiente, ay
 
 <!-- id: s2-13-0096 -->
 
-> c’est de cela qu’il s’agit justement dans la réalité : qu’elle n’ouvre pas la bouche
+c’est de cela qu’il s’agit justement dans la réalité : qu’elle n’ouvre pas la bouche
 
 <!-- id: s2-13-0097 -->
 
@@ -444,9 +456,13 @@ Ici, M. ERIKSON fait une remarque qui, je dois dire, est excellente :
 
 <!-- id: s2-13-0105 -->
 
-> « *Normalement un rêve qui aboutit à cela doit provoquer le réveil. Pourquoi ne se réveille-t-il pas ?*
->
-> *Parce que c’est Freud ! C’est un dur* »
+<div class="text-quotation">
+
+« *Normalement un rêve qui aboutit à cela doit provoquer le réveil. Pourquoi ne se réveille-t-il pas ?*
+
+*Parce que c’est Freud ! C’est un dur* »
+
+</div>
 
 <!-- id: s2-13-0106 -->
 
@@ -574,7 +590,11 @@ Nous voyons donc là, une toute autre triade, mais elle est dans le rêve. L’*
 
 <!-- id: s2-13-0137 -->
 
-> « *Ai-je tort ou raison ? Où est la vérité ? Quel est le sort du problème ? Où est-ce que je suis situé ?* »
+<div class="text-quotation">
+
+« *Ai-je tort ou raison ? Où est la vérité ? Quel est le sort du problème ? Où est-ce que je suis situé ?* »
+
+</div>
 
 <!-- id: s2-13-0138 -->
 
@@ -618,9 +638,9 @@ Que voyons-nous se produire ? De même qu’il y a eu dans la première étape 
 
 <!-- id: s2-13-0148 -->
 
-> *unmittelbar,* fait allusion à ce quelque chose qui est la caractéristique de la conviction déli­rante :
->
-> tout d’un coup, vous savez que c’est celui-là qui vous en veut
+*unmittelbar,* fait allusion à ce quelque chose qui est la caractéristique de la conviction déli­rante :
+
+tout d’un coup, vous savez que c’est celui-là qui vous en veut
 
 <!-- id: s2-13-0149 -->
 
@@ -656,7 +676,7 @@ L’important est que le rêve, qui a culminé une première fois alors que l’
 
 <!-- id: s2-13-0157 -->
 
-> alors que quelque chose est là que nous ne pouvons pas identifier autrement que *la parole en tant que telle, en tant qu’on dit ce qui se dit, la rumeur universelle* dans une formule écrite, avec son côté « *Mené, thecel, Phares »* écrit sur la muraille
+alors que quelque chose est là que nous ne pouvons pas identifier autrement que *la parole en tant que telle, en tant qu’on dit ce qui se dit, la rumeur universelle* dans une formule écrite, avec son côté « *Mené, thecel, Phares »* écrit sur la muraille
 
 <!-- id: s2-13-0158 -->
 

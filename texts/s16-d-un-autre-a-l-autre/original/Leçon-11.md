@@ -22,7 +22,7 @@ Aujourd’hui je sens…
 
 <!-- id: s16-11-0005 -->
 
-> pour toutes sortes de raisons, ne serait-ce que parce que nous approchons du Mardi-Gras, alors c’est *convenable* …que je vais tout doucement infléchir les choses. Je le sens, comme ça, d’après l’équilibre de ce que j’ai cogité ce matin avant de vous voir. Je vais m’infléchir un peu vers quelque chose que vous appellerez comme vous voudrez, mais plutôt d’une note morale.
+pour toutes sortes de raisons, ne serait-ce que parce que nous approchons du Mardi-Gras, alors c’est *convenable* …que je vais tout doucement infléchir les choses. Je le sens, comme ça, d’après l’équilibre de ce que j’ai cogité ce matin avant de vous voir. Je vais m’infléchir un peu vers quelque chose que vous appellerez comme vous voudrez, mais plutôt d’une note morale.
 
 <!-- id: s16-11-0006 -->
 
@@ -34,9 +34,13 @@ Mais, comme ça, histoire d’introduire un peu les choses et de détendre - si 
 
 <!-- id: s16-11-0008 -->
 
-> «* Cher Monsieur Lacan. On est étudiants et on a lu vos Écrits, presque tout. On y trouve pas mal de choses.*
->
-> *Évidemment, ce n’est pas toujours d’un abord très aisé, mais ça mérite quand même nos félicitations*… »
+<div class="text-quotation">
+
+«* Cher Monsieur Lacan. On est étudiants et on a lu vos Écrits, presque tout. On y trouve pas mal de choses.*
+
+*Évidemment, ce n’est pas toujours d’un abord très aisé, mais ça mérite quand même nos félicitations*… »
+
+</div>
 
 <!-- id: s16-11-0009 -->
 
@@ -52,7 +56,11 @@ Je ne suis en train de me foutre de personne, et pas de ces gars que je trouve v
 
 <!-- id: s16-11-0012 -->
 
-> «... *ça nous servirait pour nos examens. On a bien une licence de philosophie, mais ça devient de plus en plus compliqué de surmonter la sélection. On pense qu’il vaut mieux ruser et étonner les profs plutôt que de persister dans une forme de discours platement terre-à-terre*... »
+<div class="text-quotation">
+
+«... *ça nous servirait pour nos examens. On a bien une licence de philosophie, mais ça devient de plus en plus compliqué de surmonter la sélection. On pense qu’il vaut mieux ruser et étonner les profs plutôt que de persister dans une forme de discours platement terre-à-terre*... »
+
+</div>
 
 <!-- id: s16-11-0013 -->
 
@@ -64,9 +72,13 @@ Moi ça me frappe, parce que je me dis que dans le fond, c’est ce que je suis 
 
 <!-- id: s16-11-0015 -->
 
-> « *D’autre part, on voudrait vous demander encore quelque chose si ce n’est pas trop osé : est-ce que vous pourriez nous envoyer comme souvenir de vous un de vos jolis nœuds papillon ? Ça nous ferait plaisir. En vous remerciant d’avance, on vous dit au-revoir,*
->
-> *Monsieur Lacan, et veuillez recevoir nos respectueux hommages* ».
+<div class="text-quotation">
+
+« *D’autre part, on voudrait vous demander encore quelque chose si ce n’est pas trop osé : est-ce que vous pourriez nous envoyer comme souvenir de vous un de vos jolis nœuds papillon ? Ça nous ferait plaisir. En vous remerciant d’avance, on vous dit au-revoir,*
+
+*Monsieur Lacan, et veuillez recevoir nos respectueux hommages* ».
+
+</div>
 
 <!-- id: s16-11-0016 -->
 
@@ -106,9 +118,9 @@ Alors nous reprenons les choses où nous les avons un peu démontées, à savoir
 
 <!-- id: s16-11-0025 -->
 
-> les lignes bleues sont faites pour montrer où s’arrêtent les limites de chacun de ces schémas,
->
-> pour qu’ils ne chevauchent pas l’un sur l’autre, ni réellement, ni dans votre esprit …alors celui de gauche est celui dont j’ai cru devoir compléter la matrice dans laquelle, à l’imitation de ce qui se pratique dans la théorie des jeux, on pourrait schématiser ce qui s’est agité effectivement pendant tout un XIX<sup>ème</sup> et même pendant tout un bon début de notre siècle autour du *pari de Pascal*, à savoir la façon de démontrer comment, en quelque sorte, PASCAL *essayait de nous flouer*.
+les lignes bleues sont faites pour montrer où s’arrêtent les limites de chacun de ces schémas,
+
+pour qu’ils ne chevauchent pas l’un sur l’autre, ni réellement, ni dans votre esprit …alors celui de gauche est celui dont j’ai cru devoir compléter la matrice dans laquelle, à l’imitation de ce qui se pratique dans la théorie des jeux, on pourrait schématiser ce qui s’est agité effectivement pendant tout un XIX<sup>ème</sup> et même pendant tout un bon début de notre siècle autour du *pari de Pascal*, à savoir la façon de démontrer comment, en quelque sorte, PASCAL *essayait de nous flouer*.
 
 <!-- id: s16-11-0026 -->
 
@@ -116,7 +128,7 @@ Je pense avoir suffisamment fait sentir, qu’en raison de la fonction des 0 qui
 
 <!-- id: s16-11-0027 -->
 
-> pour la raison que c’est précisément de l’existence du partenaire qu’il s’agit et que c’est sur elle qu’il s’agit de parier …dans ces conditions les deux lignes de possibilité qui s’offrent au parieur ne s’entrecroisent avec aucune ligne de possibilité qui appartiendrait à l’Autre, puisque de l’Autre on ne peut même point assurer l’existence.
+pour la raison que c’est précisément de l’existence du partenaire qu’il s’agit et que c’est sur elle qu’il s’agit de parier …dans ces conditions les deux lignes de possibilité qui s’offrent au parieur ne s’entrecroisent avec aucune ligne de possibilité qui appartiendrait à l’Autre, puisque de l’Autre on ne peut même point assurer l’existence.
 
 <!-- id: s16-11-0028 -->
 
@@ -128,19 +140,19 @@ Seulement, on n’oubliera pas que j’ai introduit à ce stade de l’affaire�
 
 <!-- id: s16-11-0030 -->
 
-> pour ne pas bien sûr prêter à malentendu et croire qu’ici je me prête
->
-> à quelque chose qui serait l’indication du bénéfice de cette solution …j’ai effectivement fait remarquer ceci…
+pour ne pas bien sûr prêter à malentendu et croire qu’ici je me prête
+
+à quelque chose qui serait l’indication du bénéfice de cette solution …j’ai effectivement fait remarquer ceci…
 
 <!-- id: s16-11-0031 -->
 
-> et dans l’introduction même du rappel du *Pari* tel qu’il se présente,
->
-> beaucoup moins tel qu’il est à travers la grille des discussions devenues classiques …j’ai fait remarquer qu’à ce niveau on peut aussi bien substituer au choix à faire sur le sujet de *l’existence de Dieu* cette remarque qu’aussi bien on remplirait la fonction - ce qui en changerait totalement le sens - cette remarque que ce dont il s’agit, ce dont il pourrait s’agir, c’est de *cette formulation radicale* qui est celle du *réel*, en tant que nous pouvons le concevoir…
+et dans l’introduction même du rappel du *Pari* tel qu’il se présente,
+
+beaucoup moins tel qu’il est à travers la grille des discussions devenues classiques …j’ai fait remarquer qu’à ce niveau on peut aussi bien substituer au choix à faire sur le sujet de *l’existence de Dieu* cette remarque qu’aussi bien on remplirait la fonction - ce qui en changerait totalement le sens - cette remarque que ce dont il s’agit, ce dont il pourrait s’agir, c’est de *cette formulation radicale* qui est celle du *réel*, en tant que nous pouvons le concevoir…
 
 <!-- id: s16-11-0032 -->
 
-> et comme aussi bien nous le touchons à l’occasion du doigt …qu’il n’est pas concevable d’imaginer d’autre *limite* du savoir que *ce point de butée* où on n’a affaire qu’à ceci : à *quelque chose d’indicible* et qui « *ou bien est, ou bien n’est pas* ». Autrement dit quelque chose qui relève du « *pile ou face* ».
+et comme aussi bien nous le touchons à l’occasion du doigt …qu’il n’est pas concevable d’imaginer d’autre *limite* du savoir que *ce point de butée* où on n’a affaire qu’à ceci : à *quelque chose d’indicible* et qui « *ou bien est, ou bien n’est pas* ». Autrement dit quelque chose qui relève du « *pile ou face* ».
 
 <!-- id: s16-11-0033 -->
 
@@ -164,9 +176,9 @@ Ce n’est évidemment pas pour vous rappeler que NEWTON *aussi*, qui avait pour
 
 <!-- id: s16-11-0038 -->
 
-> *j’entends dans le calcul, dans la manipulation des chiffres pourtant combien problématiques*
->
-> *que ceux dont il s’agit quand il s’agit de situer le règne de Nabuchodonosor par exemple* …que dans son étude des lois de la gravitation. À rappeler donc en marge, mais *ça ne nous fait ni chaud ni froid*.
+*j’entends dans le calcul, dans la manipulation des chiffres pourtant combien problématiques*
+
+*que ceux dont il s’agit quand il s’agit de situer le règne de Nabuchodonosor par exemple* …que dans son étude des lois de la gravitation. À rappeler donc en marge, mais *ça ne nous fait ni chaud ni froid*.
 
 <!-- id: s16-11-0039 -->
 
@@ -174,7 +186,7 @@ Ce dont il s’agit à ce stade, c’est de remarquer ceci, qu’au niveau où P
 
 <!-- id: s16-11-0040 -->
 
-> quelle que soit la pertinence de nos remarques sur ce qu’il en est au dernier terme …c’est à savoir que si pareil propos ne se conçoit qu’au moment où le savoir est né, qui est celui de la science, il n’en reste pas moins que pour lui, le pari repose sur ce que nous pouvons appeler « *la parole de l’Autre* », et la parole de l’Autre bien sûr conçue comme vérité.
+quelle que soit la pertinence de nos remarques sur ce qu’il en est au dernier terme …c’est à savoir que si pareil propos ne se conçoit qu’au moment où le savoir est né, qui est celui de la science, il n’en reste pas moins que pour lui, le pari repose sur ce que nous pouvons appeler « *la parole de l’Autre* », et la parole de l’Autre bien sûr conçue comme vérité.
 
 <!-- id: s16-11-0041 -->
 
@@ -198,7 +210,11 @@ Mais évidemment c’est ce que vous diriez si vous n’avez rien compris à ce 
 
 <!-- id: s16-11-0046 -->
 
-> « *Moi la vérité, je parle* »
+<div class="text-quotation">
+
+« *Moi la vérité, je parle* »
+
+</div>
 
 <!-- id: s16-11-0047 -->
 
@@ -218,7 +234,7 @@ Naturellement, je ne vais pas m’appesantir, parce qu’il se dit qu’on cite 
 
 <!-- id: s16-11-0051 -->
 
-> je n’ai pas été y regarder, je dois dire, parce que je n’ai pas eu le temps …avec avantage dans l’*Humanité*, parce que soi-disant j’aurais commencé cette année comme ça, en sentant venir le vent, à faire une médiation entre FREUD et MARX. Dieu merci, comme j’étais grippé le dernier week-end, ça m’a donné tout d’un coup une stimulation pour ce qu’on appelle le travail, c’est-à-dire le remue-ménage.
+je n’ai pas été y regarder, je dois dire, parce que je n’ai pas eu le temps …avec avantage dans l’*Humanité*, parce que soi-disant j’aurais commencé cette année comme ça, en sentant venir le vent, à faire une médiation entre FREUD et MARX. Dieu merci, comme j’étais grippé le dernier week-end, ça m’a donné tout d’un coup une stimulation pour ce qu’on appelle le travail, c’est-à-dire le remue-ménage.
 
 <!-- id: s16-11-0052 -->
 
@@ -234,7 +250,7 @@ Je me suis aperçu pour tout dire que ma traductrice italienne…
 
 <!-- id: s16-11-0055 -->
 
-> *que j’ai montée en épingle quand j’ai sauté le pas*, pour faire cette sorte d’analogie entre *la plus-value* et *le plus-de­-jouir* *…*que ma traductrice italienne - ça s’est trouvé qu’elle était là, il y a deux ans - n’a eu aucun mérite à me dire qu’en somme c’est *la plus-value,* parce que j’ai déjà tellement parlé de MARX à propos d’un certain nombre d’articulations *fondamentales* autour de ce dont il s’agit dans la psychanalyse, que je me demande ce que j’ai apporté de nouveau, sauf ce nom *Mehrlust, plus-de-jouir* en analogue au *Merhwert* \[*plus-value*\].
+*que j’ai montée en épingle quand j’ai sauté le pas*, pour faire cette sorte d’analogie entre *la plus-value* et *le plus-de­-jouir* *…*que ma traductrice italienne - ça s’est trouvé qu’elle était là, il y a deux ans - n’a eu aucun mérite à me dire qu’en somme c’est *la plus-value,* parce que j’ai déjà tellement parlé de MARX à propos d’un certain nombre d’articulations *fondamentales* autour de ce dont il s’agit dans la psychanalyse, que je me demande ce que j’ai apporté de nouveau, sauf ce nom *Mehrlust, plus-de-jouir* en analogue au *Merhwert* \[*plus-value*\].
 
 <!-- id: s16-11-0056 -->
 
@@ -246,9 +262,9 @@ Seulement c’est de ça même que ressort la suite et la portée de nos remarqu
 
 <!-- id: s16-11-0058 -->
 
-> cette vérité d’où part la théorie marxiste, bien sûr elle va un tout petit peu plus loin
->
-> puisque ce dont elle fait la théorie, c’est précisément le *capitalisme* …la conséquence révolutionnaire c’est que *la théorie part en effet de cette vérité, à savoir que le prolétariat c’est la vérité du capitalisme*.
+cette vérité d’où part la théorie marxiste, bien sûr elle va un tout petit peu plus loin
+
+puisque ce dont elle fait la théorie, c’est précisément le *capitalisme* …la conséquence révolutionnaire c’est que *la théorie part en effet de cette vérité, à savoir que le prolétariat c’est la vérité du capitalisme*.
 
 <!-- id: s16-11-0059 -->
 
@@ -320,9 +336,9 @@ Ces choses devraient être aérées depuis longtemps par la lecture de HEGEL, la
 
 <!-- id: s16-11-0076 -->
 
-> ce qui pourrait être ici en question si on voulait, comme on dit,
->
-> lécher le plat au point où nous pouvons en profiter, en mettant le petit doigt …c’est de s’apercevoir que ces choses n’ont pas de si mauvais effets que ça, *puisque quand je dis que le service du champ de la vérité* - le service en tant que tel, *service qu’on ne demande à personne, il faut avoir la vocation -* entraîne nécessairement au mensonge, je veux aussi faire remarquer ceci - parce qu’il faut être juste - c’est que ça fait énormément travailler !
+ce qui pourrait être ici en question si on voulait, comme on dit,
+
+lécher le plat au point où nous pouvons en profiter, en mettant le petit doigt …c’est de s’apercevoir que ces choses n’ont pas de si mauvais effets que ça, *puisque quand je dis que le service du champ de la vérité* - le service en tant que tel, *service qu’on ne demande à personne, il faut avoir la vocation -* entraîne nécessairement au mensonge, je veux aussi faire remarquer ceci - parce qu’il faut être juste - c’est que ça fait énormément travailler !
 
 <!-- id: s16-11-0077 -->
 
@@ -350,11 +366,11 @@ Dans les premiers temps de mon expérience, j’étais dans l’admiration de vo
 
 <!-- id: s16-11-0083 -->
 
-> *que précisément il fait sortir à l’état de perles, des perles uniques, puisque jusqu’ici je n’évoquais ce terme qu’à propos du mensonge* …il faut tout de même que chez le débile mental, tout ne soit pas si débile que ça. Et si c’était…
+*que précisément il fait sortir à l’état de perles, des perles uniques, puisque jusqu’ici je n’évoquais ce terme qu’à propos du mensonge* …il faut tout de même que chez le débile mental, tout ne soit pas si débile que ça. Et si c’était…
 
 <!-- id: s16-11-0084 -->
 
-> *vous comprendrez mieux ce que je veux dire si vous savez vous reporter aux bons auteurs, c’est-à-dire à* Maud MANNONI …un petit rusé, le débile mental ?
+*vous comprendrez mieux ce que je veux dire si vous savez vous reporter aux bons auteurs, c’est-à-dire à* Maud MANNONI …un petit rusé, le débile mental ?
 
 <!-- id: s16-11-0085 -->
 
@@ -382,7 +398,7 @@ Ce que je voudrais maintenant, c’est reprendre au niveau où je vous avais lai
 
 <!-- id: s16-11-0091 -->
 
-> l’infini en tant qu’il est à droite, du côté de l’existence de Dieu
+l’infini en tant qu’il est à droite, du côté de l’existence de Dieu
 
 <!-- id: s16-11-0092 -->
 
@@ -406,7 +422,7 @@ C’est une position d’indifférence, en fin de compte, au regard de ce qu’i
 
 <!-- id: s16-11-0097 -->
 
-> il nous le souligne et ça vaut le coup de l’avoir de sa plume …ce Dieu, « *nous ne savons ni ce qu’il est, ni s’il est* ».
+il nous le souligne et ça vaut le coup de l’avoir de sa plume …ce Dieu, « *nous ne savons ni ce qu’il est, ni s’il est* ».
 
 <!-- id: s16-11-0098 -->
 
@@ -438,9 +454,9 @@ Mais il a cette originalité que *son nom est imprononçable*, de sorte que c’
 
 <!-- id: s16-11-0105 -->
 
-> véritablement au centre du champ, pas seulement du savoir, mais de ce pour quoi le savoir nous tient
->
-> aux tripes et même, si vous voulez, par les couilles …que là est évoqué à proprement parler le *Nom du Père* et le *tralala* de mythes qu’il trimballe, car si j’avais pu vous faire mon année sur le *Nom du Père*, je vous aurais fait part aussi du résultat de mes recherches *statistiques* : c’est fou ce que, même chez les Pères de l’Église, cette histoire du Père, on en parle peu.
+véritablement au centre du champ, pas seulement du savoir, mais de ce pour quoi le savoir nous tient
+
+aux tripes et même, si vous voulez, par les couilles …que là est évoqué à proprement parler le *Nom du Père* et le *tralala* de mythes qu’il trimballe, car si j’avais pu vous faire mon année sur le *Nom du Père*, je vous aurais fait part aussi du résultat de mes recherches *statistiques* : c’est fou ce que, même chez les Pères de l’Église, cette histoire du Père, on en parle peu.
 
 <!-- id: s16-11-0106 -->
 
@@ -492,7 +508,7 @@ Seulement ceci, ce qui était en question dans *la mise,* dès qu’on s’est a
 
 <!-- id: s16-11-0118 -->
 
-> mais un autre joueur que celui dont parle PASCAL, à savoir celui-là même dont, parce qu’il sentait quand même quelque chose, même si contre l’apparence son système est boiteux : HEGEL …a *compris*, à savoir qu’il n’y a d’autre jeu que de *risquer le tout pour le tout*, que c’est même ça qui s’appelle « *agir »* tout court.
+mais un autre joueur que celui dont parle PASCAL, à savoir celui-là même dont, parce qu’il sentait quand même quelque chose, même si contre l’apparence son système est boiteux : HEGEL …a *compris*, à savoir qu’il n’y a d’autre jeu que de *risquer le tout pour le tout*, que c’est même ça qui s’appelle « *agir »* tout court.
 
 <!-- id: s16-11-0119 -->
 
@@ -512,7 +528,7 @@ Dieu merci, *la pensée* a eu assez à fourmiller à l’intérieur de cette con
 
 <!-- id: s16-11-0123 -->
 
-> <img src="assets/image65.jpeg" style="width:0.96364in;height:0.89939in" alt="51a" /> il y ait un *(a)* d’une part :
+<img src="assets/image65.jpeg" style="width:0.96364in;height:0.89939in" alt="51a" /> il y ait un *(a)* d’une part :
 
 <!-- id: s16-11-0124 -->
 
@@ -576,13 +592,13 @@ Il est extraordinairement curieux que Daniel DEFOE…
 
 <!-- id: s16-11-0139 -->
 
-> pour prendre celui qui n’a pas inventé l’île déserte, celui qui l’a inventée, c’est Balthazar GRACIÁN,
->
-> qui était quelqu’un d’une autre classe, il était Jésuite et pas menteur par ­dessus le marché, c’est dans le *Criticon*,
->
-> où le héros, de retour de je ne sais pas où sur l’Atlantique, passe un certain temps sur une île déserte,
->
-> ce qui pour lui a au moins l’avantage de le mettre à l’abri des femmes …il est extraordinaire que Daniel DEFOE ne se soit pas aperçu de ce que ROBINSON n’avait pas à attendre VENDREDI, que déjà dans le seul fait qu’il était un être parlant et qu’il connaissait parfaitement son langage, à savoir la langue anglaise, c’était un élément absolument aussi essentiel pour sa survie dans l’île que son rapport avec quelques menues broutilles naturelles dont il était arrivé à se faire cahute et ravitaillement.
+pour prendre celui qui n’a pas inventé l’île déserte, celui qui l’a inventée, c’est Balthazar GRACIÁN,
+
+qui était quelqu’un d’une autre classe, il était Jésuite et pas menteur par ­dessus le marché, c’est dans le *Criticon*,
+
+où le héros, de retour de je ne sais pas où sur l’Atlantique, passe un certain temps sur une île déserte,
+
+ce qui pour lui a au moins l’avantage de le mettre à l’abri des femmes …il est extraordinaire que Daniel DEFOE ne se soit pas aperçu de ce que ROBINSON n’avait pas à attendre VENDREDI, que déjà dans le seul fait qu’il était un être parlant et qu’il connaissait parfaitement son langage, à savoir la langue anglaise, c’était un élément absolument aussi essentiel pour sa survie dans l’île que son rapport avec quelques menues broutilles naturelles dont il était arrivé à se faire cahute et ravitaillement.
 
 <!-- id: s16-11-0140 -->
 
@@ -634,7 +650,7 @@ C’est très précisément quant au regard de l’*Un*, le jeu dont il s’agit
 
 <!-- id: s16-11-0152 -->
 
-> le mot très probablement lui-même est étrusque d’origine …jusqu’aux *jeux du cirque*, ni plus ni moins, et quelque chose d’autre encore, que je vous signalerai quand le temps sera venu.
+le mot très probablement lui-même est étrusque d’origine …jusqu’aux *jeux du cirque*, ni plus ni moins, et quelque chose d’autre encore, que je vous signalerai quand le temps sera venu.
 
 <!-- id: s16-11-0153 -->
 
@@ -674,7 +690,7 @@ Alors que nous savons fort bien que cette pensée ne subsiste que de l’articul
 
 <!-- id: s16-11-0162 -->
 
-> à l’avoir lâché, à l’avoir perdu, à avoir joué sans le savoir à je ne sais quel « *qui perd gagne* » …parvenir à rien d’autre qu’à identifier au *a* ce qu’il en est de l’Autre lui-même, c’est à savoir à trouver dans le *a* l’essence du *Un* supposé de la pensée, c’est-à-dire à déterminer la pensée elle-même comme étant l’effet, je dis plus : *l’ombre* de ce qu’il en est de la fonction de *l’objet(a)*.
+à l’avoir lâché, à l’avoir perdu, à avoir joué sans le savoir à je ne sais quel « *qui perd gagne* » …parvenir à rien d’autre qu’à identifier au *a* ce qu’il en est de l’Autre lui-même, c’est à savoir à trouver dans le *a* l’essence du *Un* supposé de la pensée, c’est-à-dire à déterminer la pensée elle-même comme étant l’effet, je dis plus : *l’ombre* de ce qu’il en est de la fonction de *l’objet(a)*.
 
 <!-- id: s16-11-0163 -->
 
@@ -710,9 +726,9 @@ C’est ce qui nous permettra peut-être d’éclairer plus radicalement ce qu�
 
 <!-- id: s16-11-0171 -->
 
-> et non pas à n’importe quelle époque, précisément au temps où l’argument ontologique
->
-> avait un sens, à savoir que ce qui manque au désir, c’est à proprement parler l’infini …peut-être en dirons-nous quelque chose qui lui donne un autre statut.
+et non pas à n’importe quelle époque, précisément au temps où l’argument ontologique
+
+avait un sens, à savoir que ce qui manque au désir, c’est à proprement parler l’infini …peut-être en dirons-nous quelque chose qui lui donne un autre statut.
 
 <!-- id: s16-11-0172 -->
 

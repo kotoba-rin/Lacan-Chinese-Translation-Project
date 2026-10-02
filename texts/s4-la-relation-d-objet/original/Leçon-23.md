@@ -33,12 +33,12 @@ par tout ce qui vient de précéder.
 
 <!-- id: s4-23-0006 -->
 
-> \[Ich : « *Weshalb schimpf ich denn eigentlich ?  *»
-> Er : « *Das weiß ich nicht ! *»
-> Ich : « *Warum ?* »
-> Er : « *Weil du eifern tust.* »
-> Ich : « *Das ist doch nicht wahr !*  »
-> Er : « *Ja, das ist wahr, du tust eifern, das weiß ich. Das muß wahr sein.* »\]
+\[Ich : « *Weshalb schimpf ich denn eigentlich ?  *»
+Er : « *Das weiß ich nicht ! *»
+Ich : « *Warum ?* »
+Er : « *Weil du eifern tust.* »
+Ich : « *Das ist doch nicht wahr !*  »
+Er : « *Ja, das ist wahr, du tust eifern, das weiß ich. Das muß wahr sein.* »\]
 
 <!-- id: s4-23-0007 -->
 
@@ -803,11 +803,11 @@ N’est-il pas frappant de voir qu’ici où partout est appelé par l’enfant 
 
 <!-- id: s4-23-0150 -->
 
-> il somme presque son père de lui en faire subir l’épreuve ou en tout cas d’une façon reflétée,
-> il en fomente et il en organise l’épreuve sur l’image de son père, il le blesse et il souhaite que ceci soit réalisé
-> …n’est-il pas frappant de voir qu’à travers tous ces vains efforts pour que soit achevée, pour que soit franchie cette sorte
-> de métamorphose fondamentale chez le sujet, ce qui se passe est quelque chose qui n’intéresse pas le sexe, mais qui intéresse essentiellement *son assiette*, son rapport avec sa mère, qui fait qu’il peut meubler la place, mais ceci aux dépens de quelque chose
-> qui ne nous paraît pas dans cette perspective : il s’agit de la dialectique du rapport du sujet à son propre organe.
+il somme presque son père de lui en faire subir l’épreuve ou en tout cas d’une façon reflétée,
+il en fomente et il en organise l’épreuve sur l’image de son père, il le blesse et il souhaite que ceci soit réalisé
+…n’est-il pas frappant de voir qu’à travers tous ces vains efforts pour que soit achevée, pour que soit franchie cette sorte
+de métamorphose fondamentale chez le sujet, ce qui se passe est quelque chose qui n’intéresse pas le sexe, mais qui intéresse essentiellement *son assiette*, son rapport avec sa mère, qui fait qu’il peut meubler la place, mais ceci aux dépens de quelque chose
+qui ne nous paraît pas dans cette perspective : il s’agit de la dialectique du rapport du sujet à son propre organe.
 
 <!-- id: s4-23-0151 -->
 
@@ -817,8 +817,12 @@ le dit dans « *Les mamelles de Tiresias »,* d’APOLLINAIRE - un homme, comm
 
 <!-- id: s4-23-0152 -->
 
-> « *Revenez dès ce soir voir comment la nature  
-> Me donnera sans femme une progéniture.* » \[[I,8](http://www.hs-augsburg.de/~harsch/gallica/Chronologie/20siecle/Apollinaire/apo_ma01.html)\]
+<div class="text-quotation">
+
+« *Revenez dès ce soir voir comment la nature  
+Me donnera sans femme une progéniture.* » \[[I,8](http://www.hs-augsburg.de/~harsch/gallica/Chronologie/20siecle/Apollinaire/apo_ma01.html)\]
+
+</div>
 
 <!-- id: s4-23-0153 -->
 

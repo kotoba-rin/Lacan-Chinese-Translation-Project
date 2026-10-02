@@ -54,7 +54,7 @@ Et s’il est vrai que l’apparition d’une nouvelle structure de discours pre
 
 <!-- id: s19-04-0013 -->
 
-> comme je l’ai appelé dans un texte publié ailleurs ...par le dernier glissement de ce qui s’articule au nom de *la signifiance* \[**S<sub>1</sub> ◊ S<sub>2</sub>**\], il devient sensible que quelque chose d’original se produit de ce cercle qui se ferme.
+comme je l’ai appelé dans un texte publié ailleurs ...par le dernier glissement de ce qui s’articule au nom de *la signifiance* \[**S<sub>1</sub> ◊ S<sub>2</sub>**\], il devient sensible que quelque chose d’original se produit de ce cercle qui se ferme.
 
 <!-- id: s19-04-0014 -->
 
@@ -78,7 +78,7 @@ Si c’est bien ce dont il s’agit dans la tragédie, c’est bien pour autant 
 
 <!-- id: s19-04-0019 -->
 
-> c’est évident, car il ne s’y agit que d’êtres parlants ...d’une nécessi­té, dis-je, que logique.
+c’est évident, car il ne s’y agit que d’êtres parlants ...d’une nécessi­té, dis-je, que logique.
 
 <!-- id: s19-04-0020 -->
 
@@ -94,7 +94,11 @@ En quoi sûrement il s’agit d’une illusion, illusion dont nous montrerons l�
 
 <!-- id: s19-04-0023 -->
 
-> « *de ce que nous allons* » : je vais l’essayer ...essayer de frayer.
+<div class="text-quotation">
+
+« *de ce que nous allons* » : je vais l’essayer ...essayer de frayer.
+
+</div>
 
 <!-- id: s19-04-0024 -->
 
@@ -146,7 +150,7 @@ Ce qui répond à cette question « *Qu’est la nécessité* ? » c’est ce
 
 <!-- id: s19-04-0036 -->
 
-> d’être avec moi en analyse, il y en a quelques uns, bien sûr pas tous ...viennent me confier sans pouvoir prendre d’ailleurs, avant un certain pas franchi, le sentiment de ce qu’à le faire, de venir me voir, ils me supposent être moi-même - ce *bricolage* - à le faire donc, c’est-à-dire tous, même ceux qui ne me le confient pas, ils répondent déjà.
+d’être avec moi en analyse, il y en a quelques uns, bien sûr pas tous ...viennent me confier sans pouvoir prendre d’ailleurs, avant un certain pas franchi, le sentiment de ce qu’à le faire, de venir me voir, ils me supposent être moi-même - ce *bricolage* - à le faire donc, c’est-à-dire tous, même ceux qui ne me le confient pas, ils répondent déjà.
 
 <!-- id: s19-04-0037 -->
 
@@ -226,7 +230,7 @@ C’est la croyance en elle-même, c’est ce rejet de la logique qui s’exprim
 
 <!-- id: s19-04-0056 -->
 
-> il y a un de mes élèves qui a un jour trouvé ça tout seul ...et qui s’exprime selon la formule qu’il en a donnée, je le remercie : « *Sûrement pas, mais tout de même* » \[Octave Manoni\].
+il y a un de mes élèves qui a un jour trouvé ça tout seul ...et qui s’exprime selon la formule qu’il en a donnée, je le remercie : « *Sûrement pas, mais tout de même* » \[Octave Manoni\].
 
 <!-- id: s19-04-0057 -->
 
@@ -258,7 +262,7 @@ Cette nécessité c’est la répétition elle-même : en elle-même, par elle-
 
 <!-- id: s19-04-0064 -->
 
-> qui est bien autre chose, je l’ai souligné, que « *la puissance de la vie* », *l’amour*  ou *autres balivernes* ...qui est cette programmation radicale qui ne commence pour nous, un peu, à se désenténébrer qu’à ce que font les biologistes au niveau de la bactérie et dont la conséquence n’est précisément que la reproduction de la vie.
+qui est bien autre chose, je l’ai souligné, que « *la puissance de la vie* », *l’amour*  ou *autres balivernes* ...qui est cette programmation radicale qui ne commence pour nous, un peu, à se désenténébrer qu’à ce que font les biologistes au niveau de la bactérie et dont la conséquence n’est précisément que la reproduction de la vie.
 
 <!-- id: s19-04-0065 -->
 
@@ -266,7 +270,7 @@ Ce que le discours fait...
 
 <!-- id: s19-04-0066 -->
 
-> à démontrer ce niveau où rien d’une nécessité logique ne se manifeste que *dans la répétition* ...paraît ici rejoindre, comme *<u>un semblant</u>,* ce qui s’effectue au niveau d’un message qu’il n’est nullement facile de réduire à ce que de ce terme nous connaissons, et qui est de l’ordre de ce qui se situe au niveau d’une combinatoire courte dont les modulations sont celles qui passent
+à démontrer ce niveau où rien d’une nécessité logique ne se manifeste que *dans la répétition* ...paraît ici rejoindre, comme *<u>un semblant</u>,* ce qui s’effectue au niveau d’un message qu’il n’est nullement facile de réduire à ce que de ce terme nous connaissons, et qui est de l’ordre de ce qui se situe au niveau d’une combinatoire courte dont les modulations sont celles qui passent
 
 <!-- id: s19-04-0067 -->
 
@@ -334,13 +338,13 @@ Il m’avait semblé opportun d’introduire sous le terme de *Bedeutung* ce qu�
 
 <!-- id: s19-04-0083 -->
 
-> j’en marque la distance par une petite note qui est, au début de ce texte, reproduite ...les Allemands n’avaient...
+j’en marque la distance par une petite note qui est, au début de ce texte, reproduite ...les Allemands n’avaient...
 
 <!-- id: s19-04-0084 -->
 
-> bien entendu je parle des analystes, on était au sortir de la guerre
->
-> et on ne peut pas dire que l’analyse avait fait, pendant, beaucoup de progrès ...les Allemands n’y ont entravé que *pouic*.
+bien entendu je parle des analystes, on était au sortir de la guerre
+
+et on ne peut pas dire que l’analyse avait fait, pendant, beaucoup de progrès ...les Allemands n’y ont entravé que *pouic*.
 
 <!-- id: s19-04-0085 -->
 
@@ -360,7 +364,7 @@ On pourrait exprimer autrement...
 
 <!-- id: s19-04-0089 -->
 
-> et vous verrez que ce n’est pas incom­patible, ...ce qu’il en est de *la nécessité qui conduit à cet art de la pro­duire comme nécessité de discours*.
+et vous verrez que ce n’est pas incom­patible, ...ce qu’il en est de *la nécessité qui conduit à cet art de la pro­duire comme nécessité de discours*.
 
 <!-- id: s19-04-0090 -->
 
@@ -372,7 +376,7 @@ Tel est le sens...
 
 <!-- id: s19-04-0092 -->
 
-> faites attention, les menus échanges commencent ...tel est le sens que Frege donne à *Bedeutung *: *la dénotation.*
+faites attention, les menus échanges commencent ...tel est le sens que Frege donne à *Bedeutung *: *la dénotation.*
 
 <!-- id: s19-04-0093 -->
 
@@ -380,7 +384,7 @@ Il vous apparaîtra clair, si vous voulez bien ouvrir ce livre qui s’appelle �
 
 <!-- id: s19-04-0094 -->
 
-> et qu’une certaine Claude Imbert, qui autrefois, si mon souvenir est bon, fréquenta mon séminaire, a traduit, ce qui le laisse là pour vous, à la portée de votre main, entièrement accessible ...il vous apparaîtra clair - comme c’était prévisible - que pour qu’il y ait à coup sûr *dénotation*, ce ne soit pas mal de s’adresser d’abord, timidement, au champ de *l’arithmétique* tel qu’il est défini par *les nombres entiers*.
+et qu’une certaine Claude Imbert, qui autrefois, si mon souvenir est bon, fréquenta mon séminaire, a traduit, ce qui le laisse là pour vous, à la portée de votre main, entièrement accessible ...il vous apparaîtra clair - comme c’était prévisible - que pour qu’il y ait à coup sûr *dénotation*, ce ne soit pas mal de s’adresser d’abord, timidement, au champ de *l’arithmétique* tel qu’il est défini par *les nombres entiers*.
 
 <!-- id: s19-04-0095 -->
 
@@ -392,7 +396,7 @@ C’est justement pour autant que rien n’est sûr qui soit de cette espèce...
 
 <!-- id: s19-04-0097 -->
 
-> à savoir qu’un effort logique peut au moins tenter de rendre compte des nombres entiers, ...que j’amène dans le champ de votre considération le travail de Frege.
+à savoir qu’un effort logique peut au moins tenter de rendre compte des nombres entiers, ...que j’amène dans le champ de votre considération le travail de Frege.
 
 <!-- id: s19-04-0098 -->
 
@@ -400,11 +404,11 @@ Néanmoins, je voudrais m’arrêter un instant - ne serait-ce que pour vous inc
 
 <!-- id: s19-04-0099 -->
 
-> dont vous verrez qu’au point où j’en suis - enfin c’est un petit mérite dont je me targue –
->
-> il n’y a rien à reprendre, bien qu’à cette époque personne vraiment n’y entendît rien :
->
-> j’ai pu le constater sur place ...qu’est-ce que veut dire *La signification du phallus* ?
+dont vous verrez qu’au point où j’en suis - enfin c’est un petit mérite dont je me targue –
+
+il n’y a rien à reprendre, bien qu’à cette époque personne vraiment n’y entendît rien :
+
+j’ai pu le constater sur place ...qu’est-ce que veut dire *La signification du phallus* ?
 
 <!-- id: s19-04-0100 -->
 
@@ -440,9 +444,9 @@ Ce que je voudrais vous faire remarquer, c’est que *La signification du phallu
 
 <!-- id: s19-04-0108 -->
 
-> et ce que je développerai sera fait pour vous le faire découvrir
->
-> au sens que je viens de préciser du mot « *sens »*, c’est-à-dire *<u>la petite flèche</u>* ...c’est neutre. *La signification du phallus*, ça a ceci d’astucieux que ce que le *phallus* dénote, c’est le pouvoir de signification.
+et ce que je développerai sera fait pour vous le faire découvrir
+
+au sens que je viens de préciser du mot « *sens »*, c’est-à-dire *<u>la petite flèche</u>* ...c’est neutre. *La signification du phallus*, ça a ceci d’astucieux que ce que le *phallus* dénote, c’est le pouvoir de signification.
 
 <!-- id: s19-04-0109 -->
 
@@ -450,7 +454,7 @@ Ce n’est donc pas - ce Φx - une fonction du type ordinaire, c’est ce qui fa
 
 <!-- id: s19-04-0110 -->
 
-> produit lui-même de la recherche de la nécessité logique et rien d’autre ...ce qui s’épinglera de *ce prosdiorisme* prendra *signification* d’*homme* ou de *femme,* selon *le prosdiorisme choisi*, c’est-à-dire :
+produit lui-même de la recherche de la nécessité logique et rien d’autre ...ce qui s’épinglera de *ce prosdiorisme* prendra *signification* d’*homme* ou de *femme,* selon *le prosdiorisme choisi*, c’est-à-dire :
 
 <!-- id: s19-04-0111 -->
 
@@ -494,11 +498,11 @@ Mais justement, puisqu’il faut faire *signe*, c’est que *le nombre doit avoi
 
 <!-- id: s19-04-0121 -->
 
-> fût-ce à chaque fois avec un aboiement ...chacune par exemple des personnes ici présentes : pour qu’elles aient valeur de **1** il faut...
+fût-ce à chaque fois avec un aboiement ...chacune par exemple des personnes ici présentes : pour qu’elles aient valeur de **1** il faut...
 
 <!-- id: s19-04-0122 -->
 
-> comme on l’a remarqué depuis toujours ...qu’on les dépouille de toutes leurs qua­lités sans exception. Alors qu’est-ce qui reste ?
+comme on l’a remarqué depuis toujours ...qu’on les dépouille de toutes leurs qua­lités sans exception. Alors qu’est-ce qui reste ?
 
 <!-- id: s19-04-0123 -->
 
@@ -514,11 +518,11 @@ C’est ce qu’avait bien vu un nommé Leibniz qui a cru devoir par­tir - comm
 
 <!-- id: s19-04-0126 -->
 
-> 2 =1+1
->
-> 3 =2+1
->
-> 4 =3+1 et de croire avoir résolu le problème en montrant qu’à réduire chacune de ces définitions à la précédente, on pouvait démontrer que 2 *et* 2 *font* 4.
+2 =1+1
+
+3 =2+1
+
+4 =3+1 et de croire avoir résolu le problème en montrant qu’à réduire chacune de ces définitions à la précédente, on pouvait démontrer que 2 *et* 2 *font* 4.
 
 <!-- id: s19-04-0127 -->
 
@@ -526,7 +530,7 @@ Il y a malheureusement un petit obstacle dont les logiciens du XIX<sup>ème</sup
 
 <!-- id: s19-04-0128 -->
 
-> à savoir la parenthèse enserrant le (1+1) ...et qu’il est nécessaire... ce qu’il néglige ...qu’il est nécessaire de poser l’axiome que : (a+b)+c = a+(b+c).
+à savoir la parenthèse enserrant le (1+1) ...et qu’il est nécessaire... ce qu’il néglige ...qu’il est nécessaire de poser l’axiome que : (a+b)+c = a+(b+c).
 
 <!-- id: s19-04-0129 -->
 
@@ -542,7 +546,7 @@ Je ne fais ici que vous indiquer à partir de quelle notion du concept, du conce
 
 <!-- id: s19-04-0132 -->
 
-> ceux qu’ils choisit : « *satellites de Mars »,* voire « *de Jupiter »* ...n’aient pas cette portée de dénotation suffisante pour qu’on ne puisse dire qu’un nombre soit à chacun d’eux associé.
+ceux qu’ils choisit : « *satellites de Mars »,* voire « *de Jupiter »* ...n’aient pas cette portée de dénotation suffisante pour qu’on ne puisse dire qu’un nombre soit à chacun d’eux associé.
 
 <!-- id: s19-04-0133 -->
 
@@ -554,11 +558,11 @@ L’ordre des nombres ne peut dès lors être donné que par cette astuce qui co
 
 <!-- id: s19-04-0135 -->
 
-> le concept de nombre, issu du concept ...*le nombre prédéces­seur* c’est celui qui...
+le concept de nombre, issu du concept ...*le nombre prédéces­seur* c’est celui qui...
 
 <!-- id: s19-04-0136 -->
 
-> mis à part tel objet qui servait d’appui dans le concept d’un certain nombre ...c’est le concept qui - mis à part cet objet - se trouve *identique* à un nombre qui est très précisément caractérisé de ne pas être identique au précédent, disons à 1 près.
+mis à part tel objet qui servait d’appui dans le concept d’un certain nombre ...c’est le concept qui - mis à part cet objet - se trouve *identique* à un nombre qui est très précisément caractérisé de ne pas être identique au précédent, disons à 1 près.
 
 <!-- id: s19-04-0137 -->
 
@@ -586,7 +590,7 @@ Néanmoins c’est sur cette hypothèse que Frege constitue la notion que *le co
 
 <!-- id: s19-04-0143 -->
 
-> selon la formule qu’il a donnée d’abord pour celle qui est du *nombre prédécesseur* ...donne un nombre différent de ce qu’il en est du 0 défi­ni, tenu - et bel et bien - pour le néant, c’est-à-dire de celui auquel convient *non pas l’égalité à* 0, mais *le nombre* 0.
+selon la formule qu’il a donnée d’abord pour celle qui est du *nombre prédécesseur* ...donne un nombre différent de ce qu’il en est du 0 défi­ni, tenu - et bel et bien - pour le néant, c’est-à-dire de celui auquel convient *non pas l’égalité à* 0, mais *le nombre* 0.
 
 <!-- id: s19-04-0144 -->
 
@@ -614,7 +618,7 @@ Et ceci de toute façon, cette conquête nous reste précieuse pour autant qu’
 
 <!-- id: s19-04-0150 -->
 
-> entendez bien ce que je dis *...le signifiant de l’inexistence*.
+entendez bien ce que je dis *...le signifiant de l’inexistence*.
 
 <!-- id: s19-04-0151 -->
 
@@ -634,7 +638,7 @@ Chaque *terme* à s’inscrire est constitué sans autre commentaire, il s’agi
 
 <!-- id: s19-04-0155 -->
 
-> vous remarquerez que je n’ai parlé encore jamais d’addition, non plus que Frege ...*par l’ad­dition* des deux chiffres : celui qui est immédiatement à sa gauche, et celui qui est à sa gauche et au-dessus.
+vous remarquerez que je n’ai parlé encore jamais d’addition, non plus que Frege ...*par l’ad­dition* des deux chiffres : celui qui est immédiatement à sa gauche, et celui qui est à sa gauche et au-dessus.
 
 <!-- id: s19-04-0156 -->
 
@@ -646,7 +650,7 @@ Vous vérifierez aisément qu’il s’agit ici de quelque chose qui nous donne.
 
 <!-- id: s19-04-0158 -->
 
-> par exemple quand nous avons un nombre entier de points que nous appellerons « *monades »* ...qui nous donne automatiquement ce qu’il en est, étant donné un nombre de ces points, du nombre de sous-ensemble qui peuvent, dans l’ensemble qui com­prend tous ces points, se former d’un nombre quelconque, choisi comme étant au-dessous du nombre entier dont il s’agit.
+par exemple quand nous avons un nombre entier de points que nous appellerons « *monades »* ...qui nous donne automatiquement ce qu’il en est, étant donné un nombre de ces points, du nombre de sous-ensemble qui peuvent, dans l’ensemble qui com­prend tous ces points, se former d’un nombre quelconque, choisi comme étant au-dessous du nombre entier dont il s’agit.
 
 <!-- id: s19-04-0159 -->
 
@@ -734,7 +738,7 @@ Est-ce qu’il n’y a pas...
 
 <!-- id: s19-04-0180 -->
 
-> je ne peux ici qu’en avancer la question ...quelque chose qui suggère qu’à ce fait, qu’il n’y ait pas un seul 1 mais :
+je ne peux ici qu’en avancer la question ...quelque chose qui suggère qu’à ce fait, qu’il n’y ait pas un seul 1 mais :
 
 <!-- id: s19-04-0181 -->
 

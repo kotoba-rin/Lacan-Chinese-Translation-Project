@@ -226,9 +226,9 @@ C’est cela, nous dit PLATON, qui était l’affaire du ϕιλοσόϕειν \[
 
 <!-- id: s8-03-0056 -->
 
-> tellement de choses dans PLATON qui ont servi, profité, ensuite à toutes les mystagogies :
->
-> je parle avant tout de la *gnose*, et disons de ce qui dans le christianisme lui-même est toujours resté *gnostique*
+tellement de choses dans PLATON qui ont servi, profité, ensuite à toutes les mystagogies :
+
+je parle avant tout de la *gnose*, et disons de ce qui dans le christianisme lui-même est toujours resté *gnostique*
 
 <!-- id: s8-03-0057 -->
 

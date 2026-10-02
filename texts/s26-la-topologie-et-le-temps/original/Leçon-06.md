@@ -78,7 +78,7 @@ En d’autres termes, en rabattant ceci, c’est-à-dire ceci, ça vous permet, 
 
 <!-- id: s26-06-0019 -->
 
-> <img src="assets/image25.jpeg" style="width:1.86458in;height:1.79in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S26\25.jpg" />
+<img src="assets/image25.jpeg" style="width:1.86458in;height:1.79in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S26\25.jpg" />
 
 <!-- id: s26-06-0020 -->
 
@@ -110,7 +110,7 @@ X \[...\] avons avancé, il n’y a pas longtemps, il y a à peu près deux sém
 
 <!-- id: s26-06-0027 -->
 
-> je m’arrête là pour le moment ...ça ne convient pas pour rendre compte du R.S.I.
+je m’arrête là pour le moment ...ça ne convient pas pour rendre compte du R.S.I.
 
 <!-- id: s26-06-0028 -->
 
@@ -122,7 +122,7 @@ Alors voilà un petit peu mes réflexions : le nœud borroméen, comme tout ce q
 
 <!-- id: s26-06-0030 -->
 
-> en tout cas, pour moi, c’est comme ça ...il me faut quelques années pour comprendre, entendre...
+en tout cas, pour moi, c’est comme ça ...il me faut quelques années pour comprendre, entendre...
 
 <!-- id: s26-06-0031 -->
 
@@ -182,7 +182,7 @@ Enfin il a dit quelque chose...
 
 <!-- id: s26-06-0045 -->
 
-> Je n’ai pas retrouvé mes notes, je les ai prêtées à quelqu’un, je n’ai pas pu revoir exactement ...mais c’était quelque chose, enfin il y avait un adjectif en « able » du genre « *c’est pas convenable* », c’était peut-être un autre... disons « *injustifiable* » ?
+Je n’ai pas retrouvé mes notes, je les ai prêtées à quelqu’un, je n’ai pas pu revoir exactement ...mais c’était quelque chose, enfin il y avait un adjectif en « able » du genre « *c’est pas convenable* », c’était peut-être un autre... disons « *injustifiable* » ?
 
 <!-- id: s26-06-0046 -->
 
@@ -194,9 +194,9 @@ Injustifiable, ça veut dire que notre démonstration ne convient pas bien, notr
 
 <!-- id: s26-06-0048 -->
 
-> je dis nous parce qu’on assiste à son séminaire, et même après quelques années
->
-> je pense qu’on assiste son séminaire, c’est pour cela que je me permets de parler ...bon, alors c’est « injustifiable »
+je dis nous parce qu’on assiste à son séminaire, et même après quelques années
+
+je pense qu’on assiste son séminaire, c’est pour cela que je me permets de parler ...bon, alors c’est « injustifiable »
 
 <!-- id: s26-06-0049 -->
 
@@ -244,7 +244,7 @@ Enfin la question...
 
 <!-- id: s26-06-0060 -->
 
-> mais je crois que c’est pas très clair ce que je dis, je le dis comme je le peux ...la question que je pose à Lacan, c’est : sommes-nous, nous tous, emmêlés dans des nœuds là devant des difficultés proprement mathématiques, mais ça n’a-t-il pas des incidences, puisque quand même il nous parle dans la psychanalyse là, pour la psychanalyse ?
+mais je crois que c’est pas très clair ce que je dis, je le dis comme je le peux ...la question que je pose à Lacan, c’est : sommes-nous, nous tous, emmêlés dans des nœuds là devant des difficultés proprement mathématiques, mais ça n’a-t-il pas des incidences, puisque quand même il nous parle dans la psychanalyse là, pour la psychanalyse ?
 
 <!-- id: s26-06-0061 -->
 

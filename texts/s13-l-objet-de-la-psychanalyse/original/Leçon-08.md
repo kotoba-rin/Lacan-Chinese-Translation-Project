@@ -62,7 +62,7 @@ J’obtiendrai, ou je n’obtiendrai pas…
 
 <!-- id: s13-08-0015 -->
 
-> mais il ne s’agit pas, pour moi du tout, de la valeur du travail que j’ai fait pour vous ici …j’obtiendrai donc ou je n’obtiendrai pas qu’on intervienne.
+mais il ne s’agit pas, pour moi du tout, de la valeur du travail que j’ai fait pour vous ici …j’obtiendrai donc ou je n’obtiendrai pas qu’on intervienne.
 
 <!-- id: s13-08-0016 -->
 
@@ -94,9 +94,9 @@ Je crois qu’au centre de la préoccupation de CONTÉ, à propos des deux artic
 
 <!-- id: s13-08-0023 -->
 
-> l\) si je rapporte ces états à une structure névrotique déterminée.
->
-> 2\) Comment je situe ces états par rapport à l’ensemble de la cure.
+l\) si je rapporte ces états à une structure névrotique déterminée.
+
+2\) Comment je situe ces états par rapport à l’ensemble de la cure.
 
 <!-- id: s13-08-0024 -->
 
@@ -160,13 +160,17 @@ Je vous donne un exemple pour bien préciser les choses. Le patient…
 
 <!-- id: s13-08-0039 -->
 
-> disons dans la situation analytique puisque en fait, ce n’est que celle-là que nous aurons en vue aujourd’hui
->
-> et que je n’irai pas jusqu’à l’extrapolation qui concerne tout dialogue …le patient dit à son psychanalyste :
+disons dans la situation analytique puisque en fait, ce n’est que celle-là que nous aurons en vue aujourd’hui
+
+et que je n’irai pas jusqu’à l’extrapolation qui concerne tout dialogue …le patient dit à son psychanalyste :
 
 <!-- id: s13-08-0040 -->
 
-> « *Vous ne répondez pas à mon attente.* »
+<div class="text-quotation">
+
+« *Vous ne répondez pas à mon attente.* »
+
+</div>
 
 <!-- id: s13-08-0041 -->
 
@@ -174,7 +178,11 @@ Le sujet du prédicat, contrairement aux apparences, est contenu dans « *mon* �
 
 <!-- id: s13-08-0042 -->
 
-> « *J’attends en vain votre réponse* ».
+<div class="text-quotation">
+
+« *J’attends en vain votre réponse* ».
+
+</div>
 
 <!-- id: s13-08-0043 -->
 
@@ -266,7 +274,7 @@ Le cas imaginaire est précisément celui où, contrairement à la loi…
 
 <!-- id: s13-08-0065 -->
 
-> que je vous ai présentée sous forme de remarque tout à l’heure …où contrairement à la loi, le sujet du prédicat est à la deuxième personne, alors que le sujet prédicant est le même que le sujet du prédicat. Autrement dit, où *la première* et *la deuxième personne* ne font qu’une.
+que je vous ai présentée sous forme de remarque tout à l’heure …où contrairement à la loi, le sujet du prédicat est à la deuxième personne, alors que le sujet prédicant est le même que le sujet du prédicat. Autrement dit, où *la première* et *la deuxième personne* ne font qu’une.
 
 <!-- id: s13-08-0066 -->
 
@@ -354,7 +362,7 @@ Eh bien, c’est une erreur. Si on veut maintenir le cadre des *névroses narcis
 
 <!-- id: s13-08-0087 -->
 
-> qui est celui que je vous propose par exemple, car il y a *beaucoup d’autres formulations possibles* …comme étant par exemple cette capacité de se désigner au moyen de l’interprétation supposée du psychanalyste.
+qui est celui que je vous propose par exemple, car il y a *beaucoup d’autres formulations possibles* …comme étant par exemple cette capacité de se désigner au moyen de l’interprétation supposée du psychanalyste.
 
 <!-- id: s13-08-0088 -->
 
@@ -362,7 +370,7 @@ Eh bien *la folie*, dans la mesure où le patient est fou…
 
 <!-- id: s13-08-0089 -->
 
-> car on n’est jamais entièrement fou, et c’est pour ça qu’on peut quand même traiter les fous …dans la mesure où le patient est fou, cette possibilité n’existe pas en raison de la forclusion dont il vient d’être question.
+car on n’est jamais entièrement fou, et c’est pour ça qu’on peut quand même traiter les fous …dans la mesure où le patient est fou, cette possibilité n’existe pas en raison de la forclusion dont il vient d’être question.
 
 <!-- id: s13-08-0090 -->
 
@@ -398,9 +406,9 @@ Donc ceci, c’était une incidente, une indication très sommaire pour vous mon
 
 <!-- id: s13-08-0098 -->
 
-> je ne pense pas qu’il soit nécessaire de voir
->
-> les choses comme je les vois et je ne pense pas qu’il soit nécessaire de s’intéresser à ce genre de formulations …mais pour vous dire que dans la mesure où on s’y intéresse, cela ne veut pas dire qu’on ne s’occupe pas de psychanalyse.
+je ne pense pas qu’il soit nécessaire de voir
+
+les choses comme je les vois et je ne pense pas qu’il soit nécessaire de s’intéresser à ce genre de formulations …mais pour vous dire que dans la mesure où on s’y intéresse, cela ne veut pas dire qu’on ne s’occupe pas de psychanalyse.
 
 <!-- id: s13-08-0099 -->
 
@@ -424,7 +432,7 @@ Ce qui est important c’est de souligner le caractère irréductiblement incons
 
 <!-- id: s13-08-0104 -->
 
-> plutôt que de parler d’expansion narcissique puisque nous faisons la théorie …en l’énonçant, ce fantasme, de la manière suivante : « *Ça dit tu es Je* ». Vous remarquerez que « *tu es Je* », cette formule n’est pas *spécularisable* et qu’il n’y qu’un « *ça* », ce qui répond, je crois suffisamment à la question de CONTÉ .
+plutôt que de parler d’expansion narcissique puisque nous faisons la théorie …en l’énonçant, ce fantasme, de la manière suivante : « *Ça dit tu es Je* ». Vous remarquerez que « *tu es Je* », cette formule n’est pas *spécularisable* et qu’il n’y qu’un « *ça* », ce qui répond, je crois suffisamment à la question de CONTÉ .
 
 <!-- id: s13-08-0105 -->
 
@@ -452,7 +460,7 @@ Du moins on peut les distinguer. *Le fantasme narcissique* c’est le fantasme d
 
 <!-- id: s13-08-0111 -->
 
-> voilà une notion, peut-être un peu plus nouvelle que CONTÉ introduit ainsi …*le mythe narcissique*, lui, n’est pas inconscient mais conscient ou préconscient, susceptible de devenir conscient, ce *mythe narcissique* est celui selon lequel l’autre pourrait accomplir ou combler son désir.
+voilà une notion, peut-être un peu plus nouvelle que CONTÉ introduit ainsi …*le mythe narcissique*, lui, n’est pas inconscient mais conscient ou préconscient, susceptible de devenir conscient, ce *mythe narcissique* est celui selon lequel l’autre pourrait accomplir ou combler son désir.
 
 <!-- id: s13-08-0112 -->
 
@@ -640,7 +648,7 @@ Mais c’est assurément une chose assez profondément armaturée pour que cela 
 
 <!-- id: s13-08-0158 -->
 
-> car les limites que vous impliquez du développement de cette situation analytique peuvent être dépassées …que c’est ici justement, là, une base, un point d’appui qui peut m’être excessivement précieux pour repérer en quoi ce que j’articule cette année me permet de critiquer cette position. Je le ferai assurément d’autant plus, et d’autant plus aisément, et d’une façon d’autant plus pertinente pour tous, que vous verrez où en sont tels ou tels de mes auditeurs par rapport à l’audition que cette présentation d’aujourd’hui impose.
+car les limites que vous impliquez du développement de cette situation analytique peuvent être dépassées …que c’est ici justement, là, une base, un point d’appui qui peut m’être excessivement précieux pour repérer en quoi ce que j’articule cette année me permet de critiquer cette position. Je le ferai assurément d’autant plus, et d’autant plus aisément, et d’une façon d’autant plus pertinente pour tous, que vous verrez où en sont tels ou tels de mes auditeurs par rapport à l’audition que cette présentation d’aujourd’hui impose.
 
 <!-- id: s13-08-0159 -->
 
@@ -728,7 +736,7 @@ Et à propos de ce troisième article sur *Le Jugement du psychanalyste*, il y a
 
 <!-- id: s13-08-0180 -->
 
-> et par exemple l’analysé tentant de se poser comme objet manquant à l’analyste …où il passe donc de ce niveau, à celui du *manquement*, où il s’agit là du *manquement* à une loi et où il s’agit donc de l’interdiction, à savoir l’articulation très précise que fait STEIN entre le premier jugement fondateur, en tant qu’il établit le sujet d’une part comme objet du désir et d’autre part comme sujet d’une faute passée.
+et par exemple l’analysé tentant de se poser comme objet manquant à l’analyste …où il passe donc de ce niveau, à celui du *manquement*, où il s’agit là du *manquement* à une loi et où il s’agit donc de l’interdiction, à savoir l’articulation très précise que fait STEIN entre le premier jugement fondateur, en tant qu’il établit le sujet d’une part comme objet du désir et d’autre part comme sujet d’une faute passée.
 
 <!-- id: s13-08-0181 -->
 
@@ -812,7 +820,7 @@ Par exemple, j’aurais tendance à interpréter ce que tu définis sous le term
 
 <!-- id: s13-08-0201 -->
 
-> que CONTÉ a relevé d’ailleurs comme un phénomène bien sûr possible mais rare …j’aurais bien sûr tendance à essayer de l’évoquer dans cette dimension qui serait, peut-être éventuellement celle où le patient pourrait avoir le sentiment que sa parole risquerait de rejoindre un discours, le discours de l’Autre, où toute séparation à partir de ce moment là, où toute rupture, où tout *hiatus*, où toute distance se trouverait abolie.
+que CONTÉ a relevé d’ailleurs comme un phénomène bien sûr possible mais rare …j’aurais bien sûr tendance à essayer de l’évoquer dans cette dimension qui serait, peut-être éventuellement celle où le patient pourrait avoir le sentiment que sa parole risquerait de rejoindre un discours, le discours de l’Autre, où toute séparation à partir de ce moment là, où toute rupture, où tout *hiatus*, où toute distance se trouverait abolie.
 
 <!-- id: s13-08-0202 -->
 
@@ -820,7 +828,7 @@ Je me demande aussi, si d’introduire cette référence ne permettrait pas de s
 
 <!-- id: s13-08-0203 -->
 
-> je t’en demande pardon s’ils n’ont pas été en t’écoutant là forcément toujours suffisamment attentifs …mais ce que tu introduis au sujet de cette *distinction* des diverses personnes au sujet du « *tu* » et du « *il* » qui sont des catégories grammaticales qui, bien sûr, sont essentielles mais dont je dois dire, je me demande chaque fois en t’écoutant comment tu les utilises.
+je t’en demande pardon s’ils n’ont pas été en t’écoutant là forcément toujours suffisamment attentifs …mais ce que tu introduis au sujet de cette *distinction* des diverses personnes au sujet du « *tu* » et du « *il* » qui sont des catégories grammaticales qui, bien sûr, sont essentielles mais dont je dois dire, je me demande chaque fois en t’écoutant comment tu les utilises.
 
 <!-- id: s13-08-0204 -->
 
@@ -1016,9 +1024,9 @@ Est-ce que vous voulez, STEIN, répondre *tout de suite*, ou bien comme il est c
 
 <!-- id: s13-08-0252 -->
 
-> car je vous annonce déjà que je ferai en Février trois séminaires, deux séminaires ouverts et
->
-> je ferai encore un séminaire fermé, le quatrième je serai, en principe, parti aux U.S.A. …il est tout à fait concevable que le quatrième séminaire se passe à poursuivre une discussion si bien engagée.
+car je vous annonce déjà que je ferai en Février trois séminaires, deux séminaires ouverts et
+
+je ferai encore un séminaire fermé, le quatrième je serai, en principe, parti aux U.S.A. …il est tout à fait concevable que le quatrième séminaire se passe à poursuivre une discussion si bien engagée.
 
 <!-- id: s13-08-0253 -->
 

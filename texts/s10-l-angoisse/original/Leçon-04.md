@@ -43,10 +43,10 @@ pour nous *ces fonctions de l’objet* dans lesquelles nous allons maintenant av
 
 <!-- id: s10-04-0008 -->
 
-> je vous l’ai dit, au Congrès de Royaumont
-> ...de la part, à mon étonnement, de philosophes que je croyais plus endurcis à l’accueil de l’inhabituel,
-> et qui assurément dans quelque chose qui était justement fait pour remettre très profondément en question devant eux
-> la fonction de *l’objet,* et de *l’objet du désir* nommément, aboutit de leur part à *une impression* que je ne peux pas *qualifier* autrement que comme ils l’ont qualifiée eux-mêmes, celle d’une sorte de cauchemar, voire d’élucubration sortie d’un certain *diabolisme*.
+je vous l’ai dit, au Congrès de Royaumont
+...de la part, à mon étonnement, de philosophes que je croyais plus endurcis à l’accueil de l’inhabituel,
+et qui assurément dans quelque chose qui était justement fait pour remettre très profondément en question devant eux
+la fonction de *l’objet,* et de *l’objet du désir* nommément, aboutit de leur part à *une impression* que je ne peux pas *qualifier* autrement que comme ils l’ont qualifiée eux-mêmes, celle d’une sorte de cauchemar, voire d’élucubration sortie d’un certain *diabolisme*.
 
 <!-- id: s10-04-0009 -->
 
@@ -54,11 +54,11 @@ Est-ce qu’il ne semble pas pourtant que tout, dans une expérience que j’app
 
 <!-- id: s10-04-0010 -->
 
-> une expérience au niveau de ce qu’apporte de modifi­cations profondes à l’appréhension de l’objet,
->
-> l’ère que je ne suis pas le premier à qualifier comme « *l’ère de la technique* »
-> ...est-ce que déjà ça ne doit pas nous apporter l’idée *qu’un discours sur l’objet doit obligatoirement passer par des rapports complexes*,
-> qui ne nous en permettent l’accès qu’à travers de profondes chicanes ?
+une expérience au niveau de ce qu’apporte de modifi­cations profondes à l’appréhension de l’objet,
+
+l’ère que je ne suis pas le premier à qualifier comme « *l’ère de la technique* »
+...est-ce que déjà ça ne doit pas nous apporter l’idée *qu’un discours sur l’objet doit obligatoirement passer par des rapports complexes*,
+qui ne nous en permettent l’accès qu’à travers de profondes chicanes ?
 
 <!-- id: s10-04-0011 -->
 
@@ -66,8 +66,8 @@ Est-ce qu’on ne peut pas dire que par exemple ce module d’objet si caractér
 
 <!-- id: s10-04-0012 -->
 
-> je parle dans l’expérience la plus externe, il ne s’agit pas d’expérience analy­tique
-> ...ce modèle d’objet qu’on appelle « *la pièce détachée* » ?
+je parle dans l’expérience la plus externe, il ne s’agit pas d’expérience analy­tique
+...ce modèle d’objet qu’on appelle « *la pièce détachée* » ?
 
 <!-- id: s10-04-0013 -->
 
@@ -159,13 +159,13 @@ Disons tout de suite que...
 
 <!-- id: s10-04-0033 -->
 
-> comme vous le voyez, je vais droit au point nodal
-> ...tout ce que nous savons *sur cette structure du sujet*, *sur cette dialectique du désir* qui est celle que nous avons à articuler, *nous analystes*, quelque chose d’absolument nouveau, d’original, nous l’avons appris...
+comme vous le voyez, je vais droit au point nodal
+...tout ce que nous savons *sur cette structure du sujet*, *sur cette dialectique du désir* qui est celle que nous avons à articuler, *nous analystes*, quelque chose d’absolument nouveau, d’original, nous l’avons appris...
 
 <!-- id: s10-04-0034 -->
 
-> par quoi, par quelle voie ?
-> ...par la voie de l’expérience du névrosé.
+par quoi, par quelle voie ?
+...par la voie de l’expérience du névrosé.
 
 <!-- id: s10-04-0035 -->
 
@@ -215,8 +215,8 @@ mais destin qui n’a pas de terme, destin qui se perd dans l’océan des histo
 
 <!-- id: s10-04-0045 -->
 
-> et qu’est-ce que les histoires sinon une immense fiction ?
-> ...qu’est-ce qui peut assurer un rapport du *sujet* à *cet* *univers des significations,* sinon que quelque part il y ait *jouissance* ?
+et qu’est-ce que les histoires sinon une immense fiction ?
+...qu’est-ce qui peut assurer un rapport du *sujet* à *cet* *univers des significations,* sinon que quelque part il y ait *jouissance* ?
 
 <!-- id: s10-04-0046 -->
 
@@ -277,8 +277,8 @@ Je vous ai priés de vous reporter au texte de freud la dernière fois...
 
 <!-- id: s10-04-0056 -->
 
-> ceci pour les mêmes rai­sons : parce que je n’ai pas le temps de ré-épeler avec vous ce texte
-> ...beaucoup **d**’entre vous, je le sais, s’y sont tout de suite portés, ce dont je les remercie.
+ceci pour les mêmes rai­sons : parce que je n’ai pas le temps de ré-épeler avec vous ce texte
+...beaucoup **d**’entre vous, je le sais, s’y sont tout de suite portés, ce dont je les remercie.
 
 <!-- id: s10-04-0057 -->
 
@@ -322,8 +322,8 @@ avec ce qu’elle apporte d’étrangeté radicale, et...
 
 <!-- id: s10-04-0064 -->
 
-> pour employer des termes qui prennent leur signification de s’opposer aux termes hégéliens :
-> ...*en nous faisant apparaître comme objet, de nous révéler la non-autonomie du sujet*.
+pour employer des termes qui prennent leur signification de s’opposer aux termes hégéliens :
+...*en nous faisant apparaître comme objet, de nous révéler la non-autonomie du sujet*.
 
 <!-- id: s10-04-0065 -->
 
@@ -349,11 +349,15 @@ Il dit :
 
 <!-- id: s10-04-0069 -->
 
-> « *Lisez « Les élixir du Diable ».*
->
-> *Je ne peux même pas vous dire à quel point c’est complet, à quel point il y a toutes les formes possibles du même méca­nisme*
->
-> *où s’explicitent toutes les incidences où peuvent se produire cette fonc­tion, où peut se produire cette fonction, l’Unheimlich.* »
+<div class="text-quotation">
+
+« *Lisez « Les élixir du Diable ».*
+
+*Je ne peux même pas vous dire à quel point c’est complet, à quel point il y a toutes les formes possibles du même méca­nisme*
+
+*où s’explicitent toutes les incidences où peuvent se produire cette fonc­tion, où peut se produire cette fonction, l’Unheimlich.* »
+
+</div>
 
 <!-- id: s10-04-0070 -->
 
@@ -401,8 +405,8 @@ Et le *fantasme* pris ainsi, qu’est-ce que c’est sinon...
 
 <!-- id: s10-04-0077 -->
 
-> ce dont nous nous doutions
-> ...*un vœu, ein Wunsh,* et même, comme tous les vœux, assez naïf.
+ce dont nous nous doutions
+...*un vœu, ein Wunsh,* et même, comme tous les vœux, assez naïf.
 
 <!-- id: s10-04-0078 -->
 
@@ -421,8 +425,8 @@ que les 2 façons dont j’ai écrit les rapports du S avec le *(a)...*
 
 <!-- id: s10-04-0081 -->
 
-> en le situant différemment par rapport à la fonction réflexive du A, par rapport au miroir A
-> ...ces 2 façons corres­pondent exactement à la façon, à la répartition des termes du fantasme chez le pervers et chez le névrosé.
+en le situant différemment par rapport à la fonction réflexive du A, par rapport au miroir A
+...ces 2 façons corres­pondent exactement à la façon, à la répartition des termes du fantasme chez le pervers et chez le névrosé.
 
 <!-- id: s10-04-0082 -->
 
@@ -490,10 +494,10 @@ Car il y a tout de même une chose...
 
 <!-- id: s10-04-0096 -->
 
-> qu’à partir de la position de la fonction que je viens devant vous de dresser du fantasme,
-> ...qu’il faut bien commencer par dire, *c’est que ce fantasme* dont le névrosé se sert, qu’il organise, au moment où il en use :
-> il y a bien en effet quelque chose de l’ordre du *(a)* qui apparaît à la place « *heim »,*
-> au-dessus de l’image que je vous désigne être le lieu d’apparition de l’angoisse.
+qu’à partir de la position de la fonction que je viens devant vous de dresser du fantasme,
+...qu’il faut bien commencer par dire, *c’est que ce fantasme* dont le névrosé se sert, qu’il organise, au moment où il en use :
+il y a bien en effet quelque chose de l’ordre du *(a)* qui apparaît à la place « *heim »,*
+au-dessus de l’image que je vous désigne être le lieu d’apparition de l’angoisse.
 
 <!-- id: s10-04-0097 -->
 
@@ -510,10 +514,10 @@ Il y a donc…
 
 <!-- id: s10-04-0100 -->
 
-> ça ne peut se concevoir naturellement qu’à partir des pré­supposés que j’ai bien dû - dans leur extrême - poser d’abord, mais comme tout discours nouveau, il faudra bien que vous le jugiez sur le moment où il se ferme,
->
-> et voir s’il recouvre, comme je pense vous n’en aurez pas de doute, le fonctionnement de l’expérience
-> …cet *objet(a)* qu’il se fait être dans son fantasme, *le névrosé *: eh ben je dirai qu’il lui va à peu près comme des guêtres à un lapin.
+ça ne peut se concevoir naturellement qu’à partir des pré­supposés que j’ai bien dû - dans leur extrême - poser d’abord, mais comme tout discours nouveau, il faudra bien que vous le jugiez sur le moment où il se ferme,
+
+et voir s’il recouvre, comme je pense vous n’en aurez pas de doute, le fonctionnement de l’expérience
+…cet *objet(a)* qu’il se fait être dans son fantasme, *le névrosé *: eh ben je dirai qu’il lui va à peu près comme des guêtres à un lapin.
 
 <!-- id: s10-04-0101 -->
 
@@ -562,9 +566,9 @@ Et comme il était à la fois intelligent et courageux, il a su se servir de sa 
 
 <!-- id: s10-04-0109 -->
 
-> laquel­le était au principe de son attachement ridicule à cette impossible bonne femme,
->
-> qui d’ailleurs l’a enterré, et qui s’appelait M<sup>me</sup> Freud
+laquel­le était au principe de son attachement ridicule à cette impossible bonne femme,
+
+qui d’ailleurs l’a enterré, et qui s’appelait M<sup>me</sup> Freud
 
 <!-- id: s10-04-0110 -->
 
@@ -613,9 +617,9 @@ Seulement, ce que les analystes en question...
 
 <!-- id: s10-04-0118 -->
 
-> les « *beaux parleurs de la maturité génitale* », comme si c’était là le lieu du don
-> ...ne s’aperçoivent pas que ce qu’il faudrait lui apprendre à donner au névrosé, c’est cette chose qu’il n’imagine pas,
-> c’est « *rien* », c’est justement son angoisse.
+les « *beaux parleurs de la maturité génitale* », comme si c’était là le lieu du don
+...ne s’aperçoivent pas que ce qu’il faudrait lui apprendre à donner au névrosé, c’est cette chose qu’il n’imagine pas,
+c’est « *rien* », c’est justement son angoisse.
 
 <!-- id: s10-04-0119 -->
 
@@ -640,8 +644,8 @@ Il veut que vous lui demandiez quelque chose. Comme vous ne lui demandez rien...
 
 <!-- id: s10-04-0123 -->
 
-> c’est comme ça, la première entrée dans l’analyse
-> ...lui, il commence à moduler les siennes : ses demandes viennent là, à la place « *heim ».*
+c’est comme ça, la première entrée dans l’analyse
+...lui, il commence à moduler les siennes : ses demandes viennent là, à la place « *heim ».*
 
 <!-- id: s10-04-0124 -->
 
@@ -678,8 +682,8 @@ Ce qui est absolument contraire à l’expérience : jamais on n’a vu une ana�
 
 <!-- id: s10-04-0130 -->
 
-> si réussie qu’on la suppose dans le procès de la régression
-> ...repasser par les étapes contraires, comme il serait nécessaire s’il s’agissait de *quelque chose comme d’une reconstruction génétique*.
+si réussie qu’on la suppose dans le procès de la régression
+...repasser par les étapes contraires, comme il serait nécessaire s’il s’agissait de *quelque chose comme d’une reconstruction génétique*.
 
 <!-- id: s10-04-0131 -->
 
@@ -757,8 +761,8 @@ Ceci, que ce sur quoi on met un accent qui n’est pas bien centré...
 
 <!-- id: s10-04-0145 -->
 
-> à savoir que soi-disant l’angoisse serait liée à l’interdiction par la mère des pratiques masturbatoires
-> ...est vécu, perçu, par l’enfant comme présence du désir de la mère s’exerçant à son endroit.
+à savoir que soi-disant l’angoisse serait liée à l’interdiction par la mère des pratiques masturbatoires
+...est vécu, perçu, par l’enfant comme présence du désir de la mère s’exerçant à son endroit.
 
 <!-- id: s10-04-0146 -->
 

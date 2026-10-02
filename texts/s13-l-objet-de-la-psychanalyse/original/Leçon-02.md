@@ -26,7 +26,7 @@ D’ailleurs, vous avez peut-être pu entendre que mon *cogito* à moi…
 
 <!-- id: s13-02-0006 -->
 
-> ce qui ne veut pas dire d’ailleurs qu’il est en quoi que ce soit en contradiction avec celui de DESCARTES …ce serait plutôt : « *Je pense, donc je cesse d’être.* »
+ce qui ne veut pas dire d’ailleurs qu’il est en quoi que ce soit en contradiction avec celui de DESCARTES …ce serait plutôt : « *Je pense, donc je cesse d’être.* »
 
 <!-- id: s13-02-0007 -->
 
@@ -70,7 +70,7 @@ C’est bien pour ça d’ailleurs que cette leçon, *cet exposé a pour vérita
 
 <!-- id: s13-02-0017 -->
 
-> à condition que vous mettiez le «* et* » dans la parenthèse qu’il mérite, à savoir que c’est un terme qui n’a pas du tout un sens univoque, qu’il peut bien, aussi bien, inclure *la dissymétrie*, l’*oddité* dont je parlais tout à l’heure …*La science (et) la vérité* sera le titre de cet exposé, ou bien si vous voulez : *La science, la vérité*.
+à condition que vous mettiez le «* et* » dans la parenthèse qu’il mérite, à savoir que c’est un terme qui n’a pas du tout un sens univoque, qu’il peut bien, aussi bien, inclure *la dissymétrie*, l’*oddité* dont je parlais tout à l’heure …*La science (et) la vérité* sera le titre de cet exposé, ou bien si vous voulez : *La science, la vérité*.
 
 <!-- id: s13-02-0018 -->
 
@@ -86,7 +86,7 @@ C’est à savoir que chacun à tour de rôle, et aussi bien suivant je ne sais 
 
 <!-- id: s13-02-0021 -->
 
-> il peut être à la mode, par exemple d’être un petit peu à la traîne sur la mode …aurait à user comme repère dans la position qu’il prend dans l’activité analytique successivement :
+il peut être à la mode, par exemple d’être un petit peu à la traîne sur la mode …aurait à user comme repère dans la position qu’il prend dans l’activité analytique successivement :
 
 <!-- id: s13-02-0022 -->
 
@@ -106,11 +106,11 @@ Voilà une des formes d’échappatoire…
 
 <!-- id: s13-02-0026 -->
 
-> si je puis dire : j’espère qu’elle n’est que mythique, approximative, que je ne désigne là et pointe qu’une tendance …voilà bien une des formes d’échappatoire les plus radicales à ce que je peux tenter d’obtenir puisque, quel sens aurait-elle cette formulation que je donne, de la fonction du sujet comme coupure…
+si je puis dire : j’espère qu’elle n’est que mythique, approximative, que je ne désigne là et pointe qu’une tendance …voilà bien une des formes d’échappatoire les plus radicales à ce que je peux tenter d’obtenir puisque, quel sens aurait-elle cette formulation que je donne, de la fonction du sujet comme coupure…
 
 <!-- id: s13-02-0027 -->
 
-> laissant peut-être une certaine indétermination, dans *son choix à l’origine*, *mais dès lors que faite, absolument déterminante* …s’il ne s’agissait pas précisément, d’obtenir une certaine accommodation de la position de l’analyste à cette coupure fondamentale qui s’appelle le sujet ?
+laissant peut-être une certaine indétermination, dans *son choix à l’origine*, *mais dès lors que faite, absolument déterminante* …s’il ne s’agissait pas précisément, d’obtenir une certaine accommodation de la position de l’analyste à cette coupure fondamentale qui s’appelle le sujet ?
 
 <!-- id: s13-02-0028 -->
 
@@ -206,7 +206,7 @@ Ces remarques étant closes, qui d’ailleurs ne sont pas sans intérêt pour le
 
 <!-- id: s13-02-0051 -->
 
-> rappelez-vous - *ceux qui le peuvent* - *mon premier graphe* échafaudé pendant toute une année, patiemment, rappelez vous *ce premier graphe*, ce rapport *en réseau* des fonctions déterminantes de *la structure du langage et du champ de la parole* [^32] …si cette structure en réseau par exemple, a un avantage, c’est précisément d’appartenir - au premier mot « monde » près, mais je l’emploie vite pour me faire entendre - à un monde topologique, ce qui veut dire : où les connexions ne se perdent pas, parce que le fond est déformable, souple, élastique - ce n’est pas nouveau ça, même les gens rebelles ont très bien compris de quoi il s’agissait - de sorte que c’est ce qui permet que l’édifice ne s’écroule pas, ne se déchire pas, en raison des modifications des proportions de *la métrique de l’ensemble*.
+rappelez-vous - *ceux qui le peuvent* - *mon premier graphe* échafaudé pendant toute une année, patiemment, rappelez vous *ce premier graphe*, ce rapport *en réseau* des fonctions déterminantes de *la structure du langage et du champ de la parole* [^32] …si cette structure en réseau par exemple, a un avantage, c’est précisément d’appartenir - au premier mot « monde » près, mais je l’emploie vite pour me faire entendre - à un monde topologique, ce qui veut dire : où les connexions ne se perdent pas, parce que le fond est déformable, souple, élastique - ce n’est pas nouveau ça, même les gens rebelles ont très bien compris de quoi il s’agissait - de sorte que c’est ce qui permet que l’édifice ne s’écroule pas, ne se déchire pas, en raison des modifications des proportions de *la métrique de l’ensemble*.
 
 <!-- id: s13-02-0052 -->
 
@@ -226,7 +226,7 @@ Il y a là sur la droite, le rappel de quatre de ces réseaux structuraux. D’a
 
 <!-- id: s13-02-0056 -->
 
-> pour autant que *s’y différencie l’énonciation de l’énoncé*.
+pour autant que *s’y différencie l’énonciation de l’énoncé*.
 
 <!-- id: s13-02-0057 -->
 
@@ -518,7 +518,7 @@ Et ou serait donc la fécondité de ce qu’on nous dit être la caractéristiqu
 
 <!-- id: s13-02-0129 -->
 
-> c’était tout du moins ainsi que KRONEKER s’exprimait si mon souvenir est bon …« *Le nombre entier est un cadeau de Dieu* [^43] ». Les mathématiciens peuvent se permettre des opinions aussi *humoristiques*.
+c’était tout du moins ainsi que KRONEKER s’exprimait si mon souvenir est bon …« *Le nombre entier est un cadeau de Dieu* [^43] ». Les mathématiciens peuvent se permettre des opinions aussi *humoristiques*.
 
 <!-- id: s13-02-0130 -->
 
@@ -574,7 +574,7 @@ Pour ponctuer, pointer ce dont il va s’agir, je ferai l’opposition : quel r
 
 <!-- id: s13-02-0143 -->
 
-> *je n’ai pas dit l’idée, faites attention ! Cette idée, nous savons comment elle a attrapé PLATON par la cheville et qu’il ne s’en est point dépêtré* … *la fonction du manque*, nous la voyons surgir, subir la fuite nécessaire par la chute de *l’objet(a)* et c’est ce que ces dessins, que j’ai amenés aujourd’hui, que je ramènerai la prochaine fois, sont faits pour vous faire toucher du doigt.
+*je n’ai pas dit l’idée, faites attention ! Cette idée, nous savons comment elle a attrapé PLATON par la cheville et qu’il ne s’en est point dépêtré* … *la fonction du manque*, nous la voyons surgir, subir la fuite nécessaire par la chute de *l’objet(a)* et c’est ce que ces dessins, que j’ai amenés aujourd’hui, que je ramènerai la prochaine fois, sont faits pour vous faire toucher du doigt.
 
 <!-- id: s13-02-0144 -->
 
@@ -630,7 +630,7 @@ Je vous ai expliqué que le schéma de l’aliénation c’est cela, un choix qu
 
 <!-- id: s13-02-0157 -->
 
-> Là est *le trou* : vous avez ce savoir amputé.
+Là est *le trou* : vous avez ce savoir amputé.
 
 <!-- id: s13-02-0158 -->
 

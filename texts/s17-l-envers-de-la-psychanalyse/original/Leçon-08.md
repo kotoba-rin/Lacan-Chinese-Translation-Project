@@ -10,7 +10,7 @@ Il y a une personne dans cette assemblée qui a cru bon, et je l’en remercie, 
 
 <!-- id: s17-08-0002 -->
 
-> le plaisir, comme vous le savez, c’est la loi du moindre effort ...le plaisir de me devancer sur une trace que j’aurais ouverte.
+le plaisir, comme vous le savez, c’est la loi du moindre effort ...le plaisir de me devancer sur une trace que j’aurais ouverte.
 
 <!-- id: s17-08-0003 -->
 
@@ -166,9 +166,9 @@ Et est-ce tout en dire que de le rallier à ce procès, combien ambigu dans le c
 
 <!-- id: s17-08-0041 -->
 
-> en quoi Œdipe, comme toute sa lignée, se distingue justement,
->
-> comme l’a remarqué fort bien Claude Lévi-Strauss, de *ne pas marcher droit* \[*œdipus = pieds gonflés*\] ...puis de finir à l’aide d’un bâton, qui pour n’être pas la canne blanche de l’aveugle, n’en devait pas être néanmoins pour Œdipe, du plus singulier élément 3<sup>ème</sup>,  pour le nommer : sa fille Antigone ?
+en quoi Œdipe, comme toute sa lignée, se distingue justement,
+
+comme l’a remarqué fort bien Claude Lévi-Strauss, de *ne pas marcher droit* \[*œdipus = pieds gonflés*\] ...puis de finir à l’aide d’un bâton, qui pour n’être pas la canne blanche de l’aveugle, n’en devait pas être néanmoins pour Œdipe, du plus singulier élément 3<sup>ème</sup>,  pour le nommer : sa fille Antigone ?
 
 <!-- id: s17-08-0042 -->
 
@@ -220,7 +220,7 @@ La mort dès lors, à se présenter comme étant à l’origine, est-ce que nous
 
 <!-- id: s17-08-0054 -->
 
-> d’une façon dernière et tout à fait rigoureuse ...ce que permet d’énoncer la position proprement de l’analyste.
+d’une façon dernière et tout à fait rigoureuse ...ce que permet d’énoncer la position proprement de l’analyste.
 
 <!-- id: s17-08-0055 -->
 
@@ -264,7 +264,7 @@ qui tout au contraire a critiqué le dire de ce qu’il en est de l’essence de
 
 <!-- id: s17-08-0065 -->
 
-> s’ils recouvrent quelque chose, s’ils le masquent ...ce qui est à masquer en l’occasion.
+s’ils recouvrent quelque chose, s’ils le masquent ...ce qui est à masquer en l’occasion.
 
 <!-- id: s17-08-0066 -->
 
@@ -276,9 +276,9 @@ qui tout au contraire a critiqué le dire de ce qu’il en est de l’essence de
 
 <!-- id: s17-08-0068 -->
 
-> dont assurément Conrad Stein profite fort habilement dans la ligne de son interpré­tation,
->
-> interpré­tation qui est celle d’une dénégation de la mort au nom de la toute-puissance ...ceci est peut-être susceptible, à prendre le der­nier rêve de la même série pour en faire le sens... ce que j’ai fait en son temps ...de remarquer l’accent, l’accent qui est mis sur un rêve qui n’est pas un rêve de Freud, mais celui d’un de ses patients, le rêve qui s’énonce... et que je décomposais pour l’analyser, à l’aligner sur les deux lignes de *l’énonciation* et de *l’énoncé* ... «* il ne savait pas qu’il était mort* ».
+dont assurément Conrad Stein profite fort habilement dans la ligne de son interpré­tation,
+
+interpré­tation qui est celle d’une dénégation de la mort au nom de la toute-puissance ...ceci est peut-être susceptible, à prendre le der­nier rêve de la même série pour en faire le sens... ce que j’ai fait en son temps ...de remarquer l’accent, l’accent qui est mis sur un rêve qui n’est pas un rêve de Freud, mais celui d’un de ses patients, le rêve qui s’énonce... et que je décomposais pour l’analyser, à l’aligner sur les deux lignes de *l’énonciation* et de *l’énoncé* ... «* il ne savait pas qu’il était mort* ».
 
 <!-- id: s17-08-0069 -->
 
@@ -342,7 +342,7 @@ Ici, le mythe se transcende d’énoncer au titre du *réel*...
 
 <!-- id: s17-08-0084 -->
 
-> car c’est là ce sur quoi Freud insiste : que ça s’est passé *réellement*, que *c’est le réel* ...que « *le père mort est ce qui a la garde de la jouissance* », est ce d’où est parti *l’interdit de la jouissance*, d’où elle a procédé.
+car c’est là ce sur quoi Freud insiste : que ça s’est passé *réellement*, que *c’est le réel* ...que « *le père mort est ce qui a la garde de la jouissance* », est ce d’où est parti *l’interdit de la jouissance*, d’où elle a procédé.
 
 <!-- id: s17-08-0085 -->
 
@@ -362,9 +362,9 @@ Nous reconnaissons bien là en effet, au delà du mythe d’Œdipe, un opérateu
 
 <!-- id: s17-08-0089 -->
 
-> avec - je dirai même - cette propriété : qu’au titre de *paradigme* il est aussi la promotion,
->
-> au cœur du système freudien, de ce qui est le «* père <u>du</u> réel *» aussi bien ...ceci qui marque, qui met au centre de l’énonciation de Freud un terme de *l’impossible*.
+avec - je dirai même - cette propriété : qu’au titre de *paradigme* il est aussi la promotion,
+
+au cœur du système freudien, de ce qui est le «* père <u>du</u> réel *» aussi bien ...ceci qui marque, qui met au centre de l’énonciation de Freud un terme de *l’impossible*.
 
 <!-- id: s17-08-0090 -->
 
@@ -372,7 +372,7 @@ C’est très bien dire que l’énonciation freudienne n’a rien à faire avec
 
 <!-- id: s17-08-0091 -->
 
-> je n’ai pas besoin de répéter la dérision que j’en ai fait lors, je pense, du dernier séminaire ...celui « *qui jouit de toutes les femmes* », concevable imagination, alors qu’il n’est que trop clair, que c’est assez normalement perceptible, que c’est déjà beaucoup de suffire à une.
+je n’ai pas besoin de répéter la dérision que j’en ai fait lors, je pense, du dernier séminaire ...celui « *qui jouit de toutes les femmes* », concevable imagination, alors qu’il n’est que trop clair, que c’est assez normalement perceptible, que c’est déjà beaucoup de suffire à une.
 
 <!-- id: s17-08-0092 -->
 
@@ -484,7 +484,7 @@ Aussi bien le terme d’« *acte »* est-il ici à relever, à relever soit-di
 
 <!-- id: s17-08-0119 -->
 
-> quand j’ai traité de *L’acte psychanalytique* [^34] *...*est à prendre au sérieux, à savoir :
+quand j’ai traité de *L’acte psychanalytique* [^34] *...*est à prendre au sérieux, à savoir :
 
 <!-- id: s17-08-0120 -->
 
@@ -644,7 +644,7 @@ De sorte que s’il y a quelque chose que l’analyse pourrait faire poser comme
 
 <!-- id: s17-08-0157 -->
 
-> je sens que j’aborde là un terrain dangereux ...mais enfin, il n’y a quand même pas que dans les tribus Aranda[^39] qu’on pourrait se poser la question de ce qui est réellement le père, dans une occasion où une femme s’est trouvée engrossée.
+je sens que j’aborde là un terrain dangereux ...mais enfin, il n’y a quand même pas que dans les tribus Aranda[^39] qu’on pourrait se poser la question de ce qui est réellement le père, dans une occasion où une femme s’est trouvée engrossée.
 
 <!-- id: s17-08-0158 -->
 
@@ -652,7 +652,7 @@ Pourquoi est-ce que ça ne serait pas...
 
 <!-- id: s17-08-0159 -->
 
-> on en a de temps en temps le soupçon ...pourquoi est-ce que ça ne serait pas, dans une psychanalyse, *le psychanalyste* qui soit… même si ce n’est pas lui du tout, du tout, qui l’a fait, là, sur le terrain spermato­zoïdique \[*Rires*\] ...qui soit le père réel, puisque c’est à propos de quelque chose qui est le rapport de la patiente avec, disons pour être pudique, *la situation analy­tique*, qu’elle s’est trouvée finalement mère.
+on en a de temps en temps le soupçon ...pourquoi est-ce que ça ne serait pas, dans une psychanalyse, *le psychanalyste* qui soit… même si ce n’est pas lui du tout, du tout, qui l’a fait, là, sur le terrain spermato­zoïdique \[*Rires*\] ...qui soit le père réel, puisque c’est à propos de quelque chose qui est le rapport de la patiente avec, disons pour être pudique, *la situation analy­tique*, qu’elle s’est trouvée finalement mère.
 
 <!-- id: s17-08-0160 -->
 
@@ -680,9 +680,9 @@ Parce que si j’ai dit que...
 
 <!-- id: s17-08-0166 -->
 
-> enfin tout ce qu’a élucubré Freud, non pas bien sûr au niveau ni du mythe,
->
-> ni non plus de la reconnaissance des souhaits de mort dans le rêve de ses patients ...si je vous dit que ça \[le mythe d’Œdipe\] c’est un rêve de Freud, c’est bien entendu parce qu’il semble que l’analyste devrait un tout petit peu s’arra­cher à ce plan du rêve.
+enfin tout ce qu’a élucubré Freud, non pas bien sûr au niveau ni du mythe,
+
+ni non plus de la reconnaissance des souhaits de mort dans le rêve de ses patients ...si je vous dit que ça \[le mythe d’Œdipe\] c’est un rêve de Freud, c’est bien entendu parce qu’il semble que l’analyste devrait un tout petit peu s’arra­cher à ce plan du rêve.
 
 <!-- id: s17-08-0167 -->
 
@@ -790,7 +790,7 @@ Il est bien clair que *ce que l’hystérique veut*...
 
 <!-- id: s17-08-0193 -->
 
-> enfin je dis ça pour ceux qui n’ont pas la voca­tion, là il y a l’air d’en avoir beaucoup ...*ce qu’elle veut c’est un Maître*.
+enfin je dis ça pour ceux qui n’ont pas la voca­tion, là il y a l’air d’en avoir beaucoup ...*ce qu’elle veut c’est un Maître*.
 
 <!-- id: s17-08-0194 -->
 
@@ -862,7 +862,7 @@ Le vrai ressort est celui-ci : *la jouissance sépare le signifiant-Maître* ..
 
 <!-- id: s17-08-0211 -->
 
-> en tant qu’on voudrait l’attribuer au père ...*du savoir en tant que vérité*.
+en tant qu’on voudrait l’attribuer au père ...*du savoir en tant que vérité*.
 
 <!-- id: s17-08-0212 -->
 

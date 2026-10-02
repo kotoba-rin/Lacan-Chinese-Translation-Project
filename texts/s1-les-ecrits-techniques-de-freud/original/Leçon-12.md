@@ -18,17 +18,21 @@ Dans les « *Fragments du Narcisse* » de VALÉRY, *on trouve le narcis­sisme
 
 <!-- id: s1-12-0004 -->
 
-> *Rêvez, rêvez de moi !... Sans vous, belles fontaines,*
->
-> *Ma beauté, ma douleur, me seraient incertaines.*
->
-> *Je chercherais en vain ce que j’ai de plus cher,*
->
-> *Sa tendresse confuse étonnerait ma chair,*
->
-> *Et mes tristes regards, ignorants de mes charmes,*
->
-> *À d’autres que moi-même, adresseraient leurs larmes...*
+<div class="text-quotation">
+
+*Rêvez, rêvez de moi !... Sans vous, belles fontaines,*
+
+*Ma beauté, ma douleur, me seraient incertaines.*
+
+*Je chercherais en vain ce que j’ai de plus cher,*
+
+*Sa tendresse confuse étonnerait ma chair,*
+
+*Et mes tristes regards, ignorants de mes charmes,*
+
+*À d’autres que moi-même, adresseraient leurs larmes...*
+
+</div>
 
 <!-- id: s1-12-0005 -->
 
@@ -112,7 +116,11 @@ Pour en revenir ensuite à l’hypocondrie, dans ses différences et ses points 
 
 <!-- id: s1-12-0025 -->
 
-> « …*remplacer le génital et se compor­ter comme lui, c’est-à-dire être le siège de manifestations et de détentes.* »
+<div class="text-quotation">
+
+« …*remplacer le génital et se compor­ter comme lui, c’est-à-dire être le siège de manifestations et de détentes.* »
+
+</div>
 
 <!-- id: s1-12-0026 -->
 
@@ -132,7 +140,7 @@ Tout de même, à ce moment-là, la remarque essentielle est que…
 
 <!-- id: s1-12-0030 -->
 
-> vous savez combien c’est difficile à traduire *Verarbeitung* : *élaboration* ce n’est pas tout à fait cela
+vous savez combien c’est difficile à traduire *Verarbeitung* : *élaboration* ce n’est pas tout à fait cela
 
 <!-- id: s1-12-0031 -->
 
@@ -791,7 +799,7 @@ Partons de l’étude de l’instinct chez l’animal, un animal lui aussi idéa
 
 <!-- id: s1-12-0191 -->
 
-> le texte même de FREUD que nous avons sous les yeux l’indique
+le texte même de FREUD que nous avons sous les yeux l’indique
 
 <!-- id: s1-12-0192 -->
 
@@ -1063,7 +1071,7 @@ Comment se fait-il donc, que dans le rapport analytique, cette chose qui est de 
 
 <!-- id: s1-12-0259 -->
 
-> FREUD nous le dit dans le texte que j’avais donné à GRANOFF à dépouiller, sur *L’amour de transfert*
+FREUD nous le dit dans le texte que j’avais donné à GRANOFF à dépouiller, sur *L’amour de transfert*
 
 <!-- id: s1-12-0260 -->
 

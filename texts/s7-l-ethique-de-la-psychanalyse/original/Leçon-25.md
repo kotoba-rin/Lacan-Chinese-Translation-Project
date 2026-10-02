@@ -10,9 +10,9 @@ Dans un *Rapport* [^71] qui doit paraître dans le prochain numéro de notre rev
 
 <!-- id: s7-25-0002 -->
 
-> qui est le rapport que j’ai fait il y a deux ans à Royaumont, rapport qui était un peu jeté, comme je l’ai expliqué, puisque je l’ai composé entre deux séminaires d’ici, j’en garderai la forme improvisée, tout en essayant
->
-> quand même de compléter et de rectifier certaines des choses qui y sont contenues
+qui est le rapport que j’ai fait il y a deux ans à Royaumont, rapport qui était un peu jeté, comme je l’ai expliqué, puisque je l’ai composé entre deux séminaires d’ici, j’en garderai la forme improvisée, tout en essayant
+
+quand même de compléter et de rectifier certaines des choses qui y sont contenues
 
 <!-- id: s7-25-0003 -->
 
@@ -68,9 +68,9 @@ La dialectique du maître...
 
 <!-- id: s7-25-0016 -->
 
-> telle qu’elle permet à ARISTOTE de faire un choix entre les biens qu’il offre au maître,
->
-> et de lui dire qu’il y a seulement certain de ces biens qui sont dignes de sa dévotion, à savoir *la contemplation*
+telle qu’elle permet à ARISTOTE de faire un choix entre les biens qu’il offre au maître,
+
+et de lui dire qu’il y a seulement certain de ces biens qui sont dignes de sa dévotion, à savoir *la contemplation*
 
 <!-- id: s7-25-0017 -->
 
@@ -242,9 +242,9 @@ Cette expérience me parait hautement instructive. Je veux dire que c’est par 
 
 <!-- id: s7-25-0059 -->
 
-> pensez maintenant aux vieux souliers de VAN GOGH
->
-> dont il nous fit l’image émerveillante qui fait que c’est une œuvre de beauté
+pensez maintenant aux vieux souliers de VAN GOGH
+
+dont il nous fit l’image émerveillante qui fait que c’est une œuvre de beauté
 
 <!-- id: s7-25-0060 -->
 
@@ -324,9 +324,9 @@ C’est ici que je voudrais introduire comme parallèle à la fonction du *beau*
 
 <!-- id: s7-25-0079 -->
 
-> pour abréger : la fonction de quelque chose que j’ai déjà ici nommé à plusieurs reprises
->
-> et sans jamais trop insister, et qui me paraît pourtant essentiel à produire
+pour abréger : la fonction de quelque chose que j’ai déjà ici nommé à plusieurs reprises
+
+et sans jamais trop insister, et qui me paraît pourtant essentiel à produire
 
 <!-- id: s7-25-0080 -->
 
@@ -466,9 +466,9 @@ C’est parce que sur *le sublime* nous n’avons pas encore tiré toute la subs
 
 <!-- id: s7-25-0114 -->
 
-> qui n’est probablement pas seulement de hasard, ni homonymique avec le terme de sublimation
->
-> au centre de la seule satisfaction permise par la promesse analytique
+qui n’est probablement pas seulement de hasard, ni homonymique avec le terme de sublimation
+
+au centre de la seule satisfaction permise par la promesse analytique
 
 <!-- id: s7-25-0115 -->
 

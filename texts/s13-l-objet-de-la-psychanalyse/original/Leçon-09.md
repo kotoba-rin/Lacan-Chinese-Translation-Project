@@ -18,7 +18,7 @@ S’il est vrai que l’aspiration primaire du sujet psychologique est de prése
 
 <!-- id: s13-09-0004 -->
 
-> sous une forme quelconque, voir dans ce qui s’appelle *la cure psychanalytique* qui est une expérience proprement transcendante au regard de ce qui s’est exprimé jusqu’alors dans *l’ordre de l’éthique* …nous ne saurions jamais prendre trop de précautions pour définir les voies par où cette formule du rapport du sujet au désir de l’Autre - que je viens de donner d’abord et qui n’a jamais été, dans aucune doctrine philosophique dépassée - soit effectivement dépassée, franchie d’une façon radicale.
+sous une forme quelconque, voir dans ce qui s’appelle *la cure psychanalytique* qui est une expérience proprement transcendante au regard de ce qui s’est exprimé jusqu’alors dans *l’ordre de l’éthique* …nous ne saurions jamais prendre trop de précautions pour définir les voies par où cette formule du rapport du sujet au désir de l’Autre - que je viens de donner d’abord et qui n’a jamais été, dans aucune doctrine philosophique dépassée - soit effectivement dépassée, franchie d’une façon radicale.
 
 <!-- id: s13-09-0005 -->
 
@@ -38,7 +38,11 @@ S’exposer à cette situation, qui est vraiment fondamentale, que toute demande
 
 <!-- id: s13-09-0009 -->
 
-> « *C’est vous qui subirez, si vous me demandez la vérité, cette loi que toute demande ne peut qu’être déçue. Vous ne jouirez pas de ma vérité et c’est pour cela que je vous suppose savoir. C’est parce que c’est cela qui vous oblige à être trompé. La pulsion épistémologique, c’est la vérité qui s’offre comme jouissance et qui sait, par là même, être défendue car, qui pourrait jouir de la vérité ?* »
+<div class="text-quotation">
+
+« *C’est vous qui subirez, si vous me demandez la vérité, cette loi que toute demande ne peut qu’être déçue. Vous ne jouirez pas de ma vérité et c’est pour cela que je vous suppose savoir. C’est parce que c’est cela qui vous oblige à être trompé. La pulsion épistémologique, c’est la vérité qui s’offre comme jouissance et qui sait, par là même, être défendue car, qui pourrait jouir de la vérité ?* »
+
+</div>
 
 <!-- id: s13-09-0010 -->
 
@@ -46,9 +50,13 @@ Pulsion donc, « plutôt mythique », laissez-moi accoler ces deux termes en u
 
 <!-- id: s13-09-0011 -->
 
-> « *J’éveille votre désir le plus réfléchi, c’est-à-dire le plus méconnaissable.*
->
-> *Le prédicat dont vous m’affecterez, c’est votre chute à vous, si vous qualifiez, vous vous qualifiez, je triomphe.* ».
+<div class="text-quotation">
+
+« *J’éveille votre désir le plus réfléchi, c’est-à-dire le plus méconnaissable.*
+
+*Le prédicat dont vous m’affecterez, c’est votre chute à vous, si vous qualifiez, vous vous qualifiez, je triomphe.* ».
+
+</div>
 
 <!-- id: s13-09-0012 -->
 
@@ -64,9 +72,13 @@ Le *glissement harmonique* de la langue, ce *sujet* qui a à se *juger*, reconna
 
 <!-- id: s13-09-0015 -->
 
-> « *Bien sûr vous me rendriez masochiste c’est-à-dire amoureux de votre angoisse que vous prenez pour une jouissance. Je suis devenu l’Autre pour vous et si vous n’y prenez garde, vous ne pouvez plus que jouer tout de travers. Car il suffit que je m’identifie à vous*
->
-> *pour que vous voyiez bien que ce n’est pas de moi que vous jouirez. La muscade est passée et qu’à prendre votre réalité (Wirklichkeit),* *ce que j’efface jusqu’à la trace dans le réel (Realität), c’est justement ce que j’ai choisi en vous pour sanctionner cet effacement.* »
+<div class="text-quotation">
+
+« *Bien sûr vous me rendriez masochiste c’est-à-dire amoureux de votre angoisse que vous prenez pour une jouissance. Je suis devenu l’Autre pour vous et si vous n’y prenez garde, vous ne pouvez plus que jouer tout de travers. Car il suffit que je m’identifie à vous*
+
+*pour que vous voyiez bien que ce n’est pas de moi que vous jouirez. La muscade est passée et qu’à prendre votre réalité (Wirklichkeit),* *ce que j’efface jusqu’à la trace dans le réel (Realität), c’est justement ce que j’ai choisi en vous pour sanctionner cet effacement.* »
+
+</div>
 
 <!-- id: s13-09-0016 -->
 
@@ -118,7 +130,7 @@ Je ne serai pas, pourtant, sans vous recommander tel article, qui se recommande 
 
 <!-- id: s13-09-0028 -->
 
-> paru dans une revue italienne et dont après tout, j’aimerais vous laisser ici l’indication, revue italienne qui est celle publiée sous le titre de *Archivio di filosofia, n°3, l962, organe de l’institut des études philosophiques, Di studi filosofici* à Rome …l’article de Monsieur Henri GOUHIER : « *Le pari de Pascal »* mérite, si vous pouvez vous procurer le tome de cette revue, votre attention. C’est, comme vous le voyez, un des derniers parus.
+paru dans une revue italienne et dont après tout, j’aimerais vous laisser ici l’indication, revue italienne qui est celle publiée sous le titre de *Archivio di filosofia, n°3, l962, organe de l’institut des études philosophiques, Di studi filosofici* à Rome …l’article de Monsieur Henri GOUHIER : « *Le pari de Pascal »* mérite, si vous pouvez vous procurer le tome de cette revue, votre attention. C’est, comme vous le voyez, un des derniers parus.
 
 <!-- id: s13-09-0029 -->
 
@@ -162,9 +174,9 @@ Parier - comme PASCAL nous l’indique, si tant est que c’est de cela qu’il 
 
 <!-- id: s13-09-0039 -->
 
-> dont l’articulation de PASCAL semble toute entière orientée à nous montrer le *sans mesure*
->
-> au regard de ce que nous abandonnerions …« *introduction* » dit-on - pour nous : « *invite* » - au pari de la croyance : assurément discernez dès maintenant ce qui se propose dans l’avancée de ce *quelque chose*, après tout qui n’est pas si loin de la conscience la plus commune, cette vague angoisse de l’au-delà - qui n’est point forcément un au-delà de la mort - ne faut-il pas qu’elle existe pour se supporter dans toutes sortes de références qui, pour les plus exigeants, prennent forme dans ces espoirs auxquels on se consacre et qui ne sont, dans cette perspective, au regard de la religion, que quelque chose que pour le moins nous qualifierons d’*analogique*…
+dont l’articulation de PASCAL semble toute entière orientée à nous montrer le *sans mesure*
+
+au regard de ce que nous abandonnerions …« *introduction* » dit-on - pour nous : « *invite* » - au pari de la croyance : assurément discernez dès maintenant ce qui se propose dans l’avancée de ce *quelque chose*, après tout qui n’est pas si loin de la conscience la plus commune, cette vague angoisse de l’au-delà - qui n’est point forcément un au-delà de la mort - ne faut-il pas qu’elle existe pour se supporter dans toutes sortes de références qui, pour les plus exigeants, prennent forme dans ces espoirs auxquels on se consacre et qui ne sont, dans cette perspective, au regard de la religion, que quelque chose que pour le moins nous qualifierons d’*analogique*…
 
 <!-- id: s13-09-0040 -->
 
@@ -180,7 +192,7 @@ Mais il me semble que nulle part, personne ne s’est avancé dans ce texte du p
 
 <!-- id: s13-09-0043 -->
 
-> dans tel ou tel vœu qui peut nous paraître exorbitant : celui d’être mené aux incurables pour y achever son existence …ce serait bien vite les épingler que d’y relever la thématique masochiste.
+dans tel ou tel vœu qui peut nous paraître exorbitant : celui d’être mené aux incurables pour y achever son existence …ce serait bien vite les épingler que d’y relever la thématique masochiste.
 
 <!-- id: s13-09-0044 -->
 
@@ -216,11 +228,15 @@ Rappel des puissances de l’imaginaire .
 
 <!-- id: s13-09-0052 -->
 
-> « *L’unité jointe à l’infini ne l’augmente de rien, non plus qu’un pied à une mesure infinie. Le finit s’anéantit en présence de l’infini,*
->
-> *et devient pur néant. Ainsi notre esprit devant Dieu ; ainsi notre justice devant la justice divine. Il n’y a pas si grande disproportion*
->
-> *entre notre justice et celle de Dieu, qu’entre l’unité et l’infini.* »
+<div class="text-quotation">
+
+« *L’unité jointe à l’infini ne l’augmente de rien, non plus qu’un pied à une mesure infinie. Le finit s’anéantit en présence de l’infini,*
+
+*et devient pur néant. Ainsi notre esprit devant Dieu ; ainsi notre justice devant la justice divine. Il n’y a pas si grande disproportion*
+
+*entre notre justice et celle de Dieu, qu’entre l’unité et l’infini.* »
+
+</div>
 
 <!-- id: s13-09-0053 -->
 
@@ -228,7 +244,11 @@ Je ne résiste pas au plaisir de ne pas couper ce qui suit :
 
 <!-- id: s13-09-0054 -->
 
-> « *Il faut que la justice de Dieu soit énorme comme sa miséricorde. Or la justice envers les réprouvés est moins énorme et doit moins choquer que la miséricorde envers les élus. Nous connaissons qu’il y a un infini, et ignorons sa nature. Come nous savons qu’il est faux que les nombres soient finis, donc il est vrai qu’il y a un infini en nombre. Mais nous savons ce qu’il est : il est faux qu’il soit pair,* *il est faux qu’il soit impair, car, en ajoutant l’unité, il ne change point de nature ; cependant c’est un nombre, et tout nombre est pair* *ou impair (il est vrai que cela s’entend de tout nombre fini). Ainsi, on peut bien connaître qu’il y a un Dieu sans savoir ce qu’il est.*
+<div class="text-quotation">
+
+« *Il faut que la justice de Dieu soit énorme comme sa miséricorde. Or la justice envers les réprouvés est moins énorme et doit moins choquer que la miséricorde envers les élus. Nous connaissons qu’il y a un infini, et ignorons sa nature. Come nous savons qu’il est faux que les nombres soient finis, donc il est vrai qu’il y a un infini en nombre. Mais nous savons ce qu’il est : il est faux qu’il soit pair,* *il est faux qu’il soit impair, car, en ajoutant l’unité, il ne change point de nature ; cependant c’est un nombre, et tout nombre est pair* *ou impair (il est vrai que cela s’entend de tout nombre fini). Ainsi, on peut bien connaître qu’il y a un Dieu sans savoir ce qu’il est.*
+
+</div>
 
 <!-- id: s13-09-0055 -->
 
@@ -248,7 +268,7 @@ penseur, et penseur - si vous le voulez – religieux, intégré à la pensée q
 
 <!-- id: s13-09-0059 -->
 
-> sont entièrement à la merci de la grâce divine …n’en pose pas moins pourtant comme *démarche inaugurale*, que Dieu, d’aucune sorte de façon et jusque dans son être, ne saurait être connu.
+sont entièrement à la merci de la grâce divine …n’en pose pas moins pourtant comme *démarche inaugurale*, que Dieu, d’aucune sorte de façon et jusque dans son être, ne saurait être connu.
 
 <!-- id: s13-09-0060 -->
 
@@ -272,11 +292,15 @@ Dès lors, déblayez, décrassez ces questions préliminaires qui rendront assur
 
 <!-- id: s13-09-0065 -->
 
-> « *Et maintenant que penser d’une expérience qui se présente ainsi : pour entrer dans l’état d’âme du croyant*
->
-> *vous dépouillerez votre nature, vous ferez table rase de vos instincts, de vos sentiments, de vos conceptions du bonheur.*
->
-> *À ne considérer le pari qu’au point de vue logique, le refus de parier pour*…»
+<div class="text-quotation">
+
+« *Et maintenant que penser d’une expérience qui se présente ainsi : pour entrer dans l’état d’âme du croyant*
+
+*vous dépouillerez votre nature, vous ferez table rase de vos instincts, de vos sentiments, de vos conceptions du bonheur.*
+
+*À ne considérer le pari qu’au point de vue logique, le refus de parier pour*…»
+
+</div>
 
 <!-- id: s13-09-0066 -->
 
@@ -288,15 +312,19 @@ Dès lors, déblayez, décrassez ces questions préliminaires qui rendront assur
 
 <!-- id: s13-09-0068 -->
 
-> « *Mais si nous nous mettons en face des conditions réelles du pari, nous devons dire qu’il y aurait au contraire folie à prendre croix car la foi n’est pas telle que Pascal quelquefois la présente. Elle ne se superpose pas simplement à la raison, elle n’a pas pour effet de reculer les bornes de notre esprit sans entraver son développement naturel et de lui donner ainsi accès dans un monde qui lui serait naturellement fermé. En réalité elle exige l’abdication de notre raison, l’immolation de nos sentiments. Cet anéantissement de notre personnalité*
->
-> *n’est-il pas le plus grand danger que nous puissions, humainement courir. Pascal, néanmoins, voit ce danger d’un œil indifférent. Qu’avez-vous à perdre ? Nous dit-il, tout rempli de ses idées théologiques* - nous voilà dans la psychologie - *il n’entre pas dans l’esprit de l’homme purement homme et son « discours » s’adresse exclusivement à celui qui admet déjà, sinon le péché originel*
->
-> *et la déchéance de l’homme, du moins la faiblesse de la raison, la vanité du bonheur terrestre et toute cette philosophie pessimiste*
->
-> *que lui-même a tiré du dogme chrétien - mais tout esprit qui n’a que la raison pour guide et qui croit à la dignité naturelle de l’homme*
->
-> *et à la possibilité du bonheur ne peut manquer de considérer l’argumentation du pari à la fois comme une monstruosité logique et une énormité morale. La dureté d’un pareil jugement trouverait au besoin sa justification ou son excuse dans la remarque célèbre de Pascal sur la différence entre les hommes ou l’originalité des esprits* ».
+<div class="text-quotation">
+
+« *Mais si nous nous mettons en face des conditions réelles du pari, nous devons dire qu’il y aurait au contraire folie à prendre croix car la foi n’est pas telle que Pascal quelquefois la présente. Elle ne se superpose pas simplement à la raison, elle n’a pas pour effet de reculer les bornes de notre esprit sans entraver son développement naturel et de lui donner ainsi accès dans un monde qui lui serait naturellement fermé. En réalité elle exige l’abdication de notre raison, l’immolation de nos sentiments. Cet anéantissement de notre personnalité*
+
+*n’est-il pas le plus grand danger que nous puissions, humainement courir. Pascal, néanmoins, voit ce danger d’un œil indifférent. Qu’avez-vous à perdre ? Nous dit-il, tout rempli de ses idées théologiques* - nous voilà dans la psychologie - *il n’entre pas dans l’esprit de l’homme purement homme et son « discours » s’adresse exclusivement à celui qui admet déjà, sinon le péché originel*
+
+*et la déchéance de l’homme, du moins la faiblesse de la raison, la vanité du bonheur terrestre et toute cette philosophie pessimiste*
+
+*que lui-même a tiré du dogme chrétien - mais tout esprit qui n’a que la raison pour guide et qui croit à la dignité naturelle de l’homme*
+
+*et à la possibilité du bonheur ne peut manquer de considérer l’argumentation du pari à la fois comme une monstruosité logique et une énormité morale. La dureté d’un pareil jugement trouverait au besoin sa justification ou son excuse dans la remarque célèbre de Pascal sur la différence entre les hommes ou l’originalité des esprits* ».
+
+</div>
 
 <!-- id: s13-09-0069 -->
 
@@ -316,9 +344,13 @@ Un pari. On a dit sur ce pari beaucoup de choses, et en particulier qu’il n’
 
 <!-- id: s13-09-0073 -->
 
-> « *Exa­minons donc ce point et disons : Dieu est ou il n’est pas. Mais de quel côté pencherons-nous. La raison n’y peut rien déterminer.*
->
-> *Il y a un chaos infini. Tout nous sépare. Il se joue un jeu*...
+<div class="text-quotation">
+
+« *Exa­minons donc ce point et disons : Dieu est ou il n’est pas. Mais de quel côté pencherons-nous. La raison n’y peut rien déterminer.*
+
+*Il y a un chaos infini. Tout nous sépare. Il se joue un jeu*...
+
+</div>
 
 <!-- id: s13-09-0074 -->
 
@@ -342,11 +374,15 @@ C’est PASCAL qui parle.
 
 <!-- id: s13-09-0079 -->
 
-> « *Ne blâmez donc pas de fausseté ceux qui ont pris un choix car vous n’en savez rien. - Non… répond l’interlocuteur qui est Pascal lui-même aussi… mais je les blâmerai d’avoir fait, non ce choix, mais <u>un choix</u> car encore que celui qui prend croix et l’autre,*
->
-> *soient en pareille faute, ils sont tous deux en faute. Le juste est de ne point parier . - Oui, mais il faut parier. Cela n’est pas volontaire. Vous êtes embarqués. Lequel prendrez-vous donc, voyons, puisqu’il faut choisir. Voyons ce qui vous intéresse le moins.*
->
-> *Vous avez deux choses à perdre*...
+<div class="text-quotation">
+
+« *Ne blâmez donc pas de fausseté ceux qui ont pris un choix car vous n’en savez rien. - Non… répond l’interlocuteur qui est Pascal lui-même aussi… mais je les blâmerai d’avoir fait, non ce choix, mais <u>un choix</u> car encore que celui qui prend croix et l’autre,*
+
+*soient en pareille faute, ils sont tous deux en faute. Le juste est de ne point parier . - Oui, mais il faut parier. Cela n’est pas volontaire. Vous êtes embarqués. Lequel prendrez-vous donc, voyons, puisqu’il faut choisir. Voyons ce qui vous intéresse le moins.*
+
+*Vous avez deux choses à perdre*...
+
+</div>
 
 <!-- id: s13-09-0080 -->
 
@@ -486,7 +522,7 @@ La répugnance marquée - par exemple dans une lettre à Max BORN - d’EINSTEIN
 
 <!-- id: s13-09-0114 -->
 
-> ceci ne peut être défini qu’au moment de ce seuil, de ce pas, de ce franchissement radical de PASCAL ...à savoir le terme strictement opposé d’un hasard défini \[αύτόματον : *automaton*\].
+ceci ne peut être défini qu’au moment de ce seuil, de ce pas, de ce franchissement radical de PASCAL ...à savoir le terme strictement opposé d’un hasard défini \[αύτόματον : *automaton*\].
 
 <!-- id: s13-09-0115 -->
 
@@ -502,7 +538,7 @@ La science n’est point achevée, mais la progressive montée d’une pensée *
 
 <!-- id: s13-09-0118 -->
 
-> pour autant que le niveau du *réel* que nous interrogeons nous y oblige …peut nous permettre au moins de suggérer cette perspective où s’inscrirait le savoir scientifique. s’il est précisément ce que je vous dis - c’est-à-dire *renonciation au connaître, du même coup à l’être -* n’est-ce point dans la mesure où ce dont il s’agit c’est de construire sous forme *des instruments scientifiques,* ce qui, au cours de cette visée de rejoindre au *réel* le point de hasard, nous a été commandé comme instrument qui soit capable de le rejoindre.
+pour autant que le niveau du *réel* que nous interrogeons nous y oblige …peut nous permettre au moins de suggérer cette perspective où s’inscrirait le savoir scientifique. s’il est précisément ce que je vous dis - c’est-à-dire *renonciation au connaître, du même coup à l’être -* n’est-ce point dans la mesure où ce dont il s’agit c’est de construire sous forme *des instruments scientifiques,* ce qui, au cours de cette visée de rejoindre au *réel* le point de hasard, nous a été commandé comme instrument qui soit capable de le rejoindre.
 
 <!-- id: s13-09-0119 -->
 
@@ -522,7 +558,7 @@ Ouvrez n’importe quel livre...
 
 <!-- id: s13-09-0123 -->
 
-> il y en a de bons, il y en a de mauvais - *il y en a un bon que je vous cite au passage :* *« Le hasard »* de M. Émile BOREL[^106] - simplement du fait qu’il vous ramasse au passage une série d’objections, de *questions absurdes* : rien de plus intéressant pour nous que les *stultitiœ questiones* [^107] …vous y verrez que pour ceux qui commencent à *donner corps,* à donner forme à cette question sur le hasard, quand j’ai dit tout à l’heure « *donner corps* » et évoquant cette édification de notre science, il me vient en écho la formule qui avait en quelque sorte - prenant des notes - jailli de ma plume : que dans le repérage sur ce « *mur de hasard* », *notre science*, *dans ses instruments*, *donnerait corps à la vérité*.
+il y en a de bons, il y en a de mauvais - *il y en a un bon que je vous cite au passage :* *« Le hasard »* de M. Émile BOREL[^106] - simplement du fait qu’il vous ramasse au passage une série d’objections, de *questions absurdes* : rien de plus intéressant pour nous que les *stultitiœ questiones* [^107] …vous y verrez que pour ceux qui commencent à *donner corps,* à donner forme à cette question sur le hasard, quand j’ai dit tout à l’heure « *donner corps* » et évoquant cette édification de notre science, il me vient en écho la formule qui avait en quelque sorte - prenant des notes - jailli de ma plume : que dans le repérage sur ce « *mur de hasard* », *notre science*, *dans ses instruments*, *donnerait corps à la vérité*.
 
 <!-- id: s13-09-0124 -->
 
@@ -554,7 +590,7 @@ Elle vise à la fois ce *réel* dont *il n’y a rien à attendre*…
 
 <!-- id: s13-09-0131 -->
 
-> ce qu’un poète en l929 écrivait dans une petite revue introuvable : « ...*le mal aveugle et sou*<span id="Rhiatusirrationnalis" class="anchor"></span>*rd, le dieu privé de sens*... »[^108] …et en même temps, elle en attend de se manifester comme un sujet.
+ce qu’un poète en l929 écrivait dans une petite revue introuvable : « ...*le mal aveugle et sou*<span id="Rhiatusirrationnalis" class="anchor"></span>*rd, le dieu privé de sens*... »[^108] …et en même temps, elle en attend de se manifester comme un sujet.
 
 <!-- id: s13-09-0132 -->
 
@@ -566,7 +602,7 @@ Même si les enjeux sont égaux…
 
 <!-- id: s13-09-0134 -->
 
-> ce qui est toujours ce dont on part pour commencer d’apprécier ce qui est en jeu dans un jeu de hasard …que les chances, comme on dit, ou encore *l’espérance mathématique*, terme très impropre, soient égales à un demi, ici commence qu’il vaille la peine d’être joué.
+ce qui est toujours ce dont on part pour commencer d’apprécier ce qui est en jeu dans un jeu de hasard …que les chances, comme on dit, ou encore *l’espérance mathématique*, terme très impropre, soient égales à un demi, ici commence qu’il vaille la peine d’être joué.
 
 <!-- id: s13-09-0135 -->
 
@@ -578,13 +614,13 @@ Ce qui est engagé, ce qui est à l’horizon subjectif de la passion du joueur 
 
 <!-- id: s13-09-0137 -->
 
-> je ne l’ai pas encore abordé jusqu’ici parce que c’est là que nous allons entrer ensuite …une réponse pure donne l’équivalent de ce qui en effet est toujours engagé comme *rien*…
+je ne l’ai pas encore abordé jusqu’ici parce que c’est là que nous allons entrer ensuite …une réponse pure donne l’équivalent de ce qui en effet est toujours engagé comme *rien*…
 
 <!-- id: s13-09-0138 -->
 
-> puisque *la mise* est mise là pour être perdue, qu’elle *incarne* pour tout dire ce que j’appelle
->
-> *l’objet perdu pour le sujet dans tout engagement dans le signifiant* …et qu’au–delà une autre chaîne \[Φ → Δ\]… *supposée être signifiante et d’un autre ordre de sujet* …livre quelque chose qui ne comporte pas d’*objet perdu* et de ce fait dans la séquence réussie, nous le rend.
+puisque *la mise* est mise là pour être perdue, qu’elle *incarne* pour tout dire ce que j’appelle
+
+*l’objet perdu pour le sujet dans tout engagement dans le signifiant* …et qu’au–delà une autre chaîne \[Φ → Δ\]… *supposée être signifiante et d’un autre ordre de sujet* …livre quelque chose qui ne comporte pas d’*objet perdu* et de ce fait dans la séquence réussie, nous le rend.
 
 <!-- id: s13-09-0139 -->
 
@@ -612,7 +648,7 @@ Mais une chose, à l’époque même où il commençait d’écrire *Les Pensée
 
 <!-- id: s13-09-0145 -->
 
-> dont je n’aurai donc aujourd’hui parcouru que deux, réservant pour la prochaine fois le troisième, pyrrhonien ...nul accès à « *la vérité géomètre* », « *géométrie du hasard* », c’est en ces termes que PASCAL s’adresse à la société mathématique parisienne devant laquelle il présente certains des résultats de *son triangle arithmétique*. Il appelle lui-même « *stupéfiante* » cette capture, ce licol par lui passé de la géométrie au hasard.
+dont je n’aurai donc aujourd’hui parcouru que deux, réservant pour la prochaine fois le troisième, pyrrhonien ...nul accès à « *la vérité géomètre* », « *géométrie du hasard* », c’est en ces termes que PASCAL s’adresse à la société mathématique parisienne devant laquelle il présente certains des résultats de *son triangle arithmétique*. Il appelle lui-même « *stupéfiante* » cette capture, ce licol par lui passé de la géométrie au hasard.
 
 <!-- id: s13-09-0146 -->
 
@@ -624,7 +660,7 @@ PASCAL a un tout autre procédé, *c’est ce qui s’appelle* dans PASCAL « *
 
 <!-- id: s13-09-0148 -->
 
-> dans l’édition BOUTROUX, GAZIER, BRUNSCHVICG [^109] au *livre III* du *volume III* …à la lecture de ce qu’il en est non seulement de « *la règle des parties* », mais du *triangle arithmétique*.
+dans l’édition BOUTROUX, GAZIER, BRUNSCHVICG [^109] au *livre III* du *volume III* …à la lecture de ce qu’il en est non seulement de « *la règle des parties* », mais du *triangle arithmétique*.
 
 <!-- id: s13-09-0149 -->
 
@@ -664,9 +700,9 @@ Donc pour consentir, moi qui suis *gagnant* maintenant, à l’interruption du j
 
 <!-- id: s13-09-0158 -->
 
-> il y a ceux qui partent et ceux qui le font repartir, *Parturi cognoscant partitura jusque :*
->
-> ou bien *j’ai à reprendre ma mise*, ou bien *je gagne le tout.* …je vous demande comme légitime de prendre la moitié de votre mise.
+il y a ceux qui partent et ceux qui le font repartir, *Parturi cognoscant partitura jusque :*
+
+ou bien *j’ai à reprendre ma mise*, ou bien *je gagne le tout.* …je vous demande comme légitime de prendre la moitié de votre mise.
 
 <!-- id: s13-09-0159 -->
 
@@ -686,9 +722,9 @@ Que ce pari tienne pour sûres les deux lignes séparées par une barre :
 
 <!-- id: s13-09-0163 -->
 
-> *<u>Dieu existe</u>*
->
-> *Dieu n’existe pas* à savoir que, non pas comme on l’a dit, le pari de PASCAL reste suspendu parce que si Dieu n’existe pas, il n’y a pas de pari puisqu’il n’y a *ni Autre, ni mise*, bien loin de là : la structure qu’avance le *pari de Pascal*, c’est la possibilité, non seulement *fondamentale*, mais je dirai essentielle, structurale, ubiquiste dans toute structure du sujet, que le champ par rap­port auquel s’instaure la revendication du *(a)*, de l’objet du désir :
+*<u>Dieu existe</u>*
+
+*Dieu n’existe pas* à savoir que, non pas comme on l’a dit, le pari de PASCAL reste suspendu parce que si Dieu n’existe pas, il n’y a pas de pari puisqu’il n’y a *ni Autre, ni mise*, bien loin de là : la structure qu’avance le *pari de Pascal*, c’est la possibilité, non seulement *fondamentale*, mais je dirai essentielle, structurale, ubiquiste dans toute structure du sujet, que le champ par rap­port auquel s’instaure la revendication du *(a)*, de l’objet du désir :
 
 <!-- id: s13-09-0164 -->
 

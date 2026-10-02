@@ -26,7 +26,7 @@ Sur quelque chose que je qualifierai, comme ça, du plus mental de tous les ment
 
 <!-- id: s24-11-0006 -->
 
-> je veux dire de tout ce qu’il y a de plus mental, le mental par excellence, la pointe du mental ...à savoir ce qui se comp­te : *ce qui se compte c’est l’arithmétique*. Je veux dire que *c’est l’arithmétique qui développe le comptable*.
+je veux dire de tout ce qu’il y a de plus mental, le mental par excellence, la pointe du mental ...à savoir ce qui se comp­te : *ce qui se compte c’est l’arithmétique*. Je veux dire que *c’est l’arithmétique qui développe le comptable*.
 
 <!-- id: s24-11-0007 -->
 
@@ -54,7 +54,7 @@ C’est tout au moins ce qui résulte du fait que le mental est tissé de mots, 
 
 <!-- id: s24-11-0013 -->
 
-> c’est expressément - me semble-t-il - la définition qu’en donne Freud ...entre quoi il y a des « *bévues »* toujours possibles. D’où mon énoncé, que de *Réel* il n’y a que *l’impossible*.
+c’est expressément - me semble-t-il - la définition qu’en donne Freud ...entre quoi il y a des « *bévues »* toujours possibles. D’où mon énoncé, que de *Réel* il n’y a que *l’impossible*.
 
 <!-- id: s24-11-0014 -->
 
@@ -110,7 +110,7 @@ En d’autres termes, le signe est à rechercher...
 
 <!-- id: s24-11-0027 -->
 
-> et c’est bien ce que, dans cette *instance de la lettre*, j’ai posé ...est à rechercher comme *congruence du signe au Réel*.
+et c’est bien ce que, dans cette *instance de la lettre*, j’ai posé ...est à rechercher comme *congruence du signe au Réel*.
 
 <!-- id: s24-11-0028 -->
 
@@ -146,7 +146,7 @@ N’y aurait-il de *sens* que menteur, puisque la notion de *Réel*, on peut en 
 
 <!-- id: s24-11-0036 -->
 
-> qu’il faut écrire au *subjonctif* ...qu’elle *exclue* le sens ? Est-ce que ça indique qu’elle *exclue* aussi le *mensonge* ?
+qu’il faut écrire au *subjonctif* ...qu’elle *exclue* le sens ? Est-ce que ça indique qu’elle *exclue* aussi le *mensonge* ?
 
 <!-- id: s24-11-0037 -->
 
@@ -154,7 +154,7 @@ C’est bien ce à quoi nous avons affaire quand nous parions en somme sur le fa
 
 <!-- id: s24-11-0038 -->
 
-> au subjonctif, mais *le subjonctif est l’indication du modal* ...qu’est-ce qui se module dans ce modal qui exclurait le mensonge ?
+au subjonctif, mais *le subjonctif est l’indication du modal* ...qu’est-ce qui se module dans ce modal qui exclurait le mensonge ?
 
 <!-- id: s24-11-0039 -->
 
@@ -182,7 +182,7 @@ Et ma pratique - puisque pratique il y a, pratique sur quoi je m’interroge - c
 
 <!-- id: s24-11-0045 -->
 
-> parce que c’est comme ça que c’est foutu ...j’ai à me glisser entre *le transfert* qu’on appelle - je ne sais pourquoi - *négatif*, mais c’est un fait qu’on l’appelle comme ça, on l’appelle *négatif* parce qu’on sent bien qu’il y a *quelque chose*... On ne sait toujours pas ce que c’est que *le transfert positif*, le transfert positif c’est ce que j’ai essayé de définir sous le nom du *sujet supposé savoir.*
+parce que c’est comme ça que c’est foutu ...j’ai à me glisser entre *le transfert* qu’on appelle - je ne sais pourquoi - *négatif*, mais c’est un fait qu’on l’appelle comme ça, on l’appelle *négatif* parce qu’on sent bien qu’il y a *quelque chose*... On ne sait toujours pas ce que c’est que *le transfert positif*, le transfert positif c’est ce que j’ai essayé de définir sous le nom du *sujet supposé savoir.*
 
 <!-- id: s24-11-0046 -->
 
@@ -270,7 +270,7 @@ Ce sentiment que j’ai appelé - selon les unarités - que j’ai appelé le su
 
 <!-- id: s24-11-0067 -->
 
-> il faut tout de même bien que je finisse là-dessus ...que j’écris dans mon titre de cette année : *L’insu que sait -* quoi ? - *de l’Une-bévue*.
+il faut tout de même bien que je finisse là-dessus ...que j’écris dans mon titre de cette année : *L’insu que sait -* quoi ? - *de l’Une-bévue*.
 
 <!-- id: s24-11-0068 -->
 
@@ -358,7 +358,7 @@ Cet inconscient, il est en fin de compte impossible de le saisir. Il ne représe
 
 <!-- id: s24-11-0089 -->
 
-> j’ai parlé tout à l’heure des paradoxes comme étant représentables, à savoir dessinables ...il n’y a pas de dessin possible de l’inconscient.
+j’ai parlé tout à l’heure des paradoxes comme étant représentables, à savoir dessinables ...il n’y a pas de dessin possible de l’inconscient.
 
 <!-- id: s24-11-0090 -->
 

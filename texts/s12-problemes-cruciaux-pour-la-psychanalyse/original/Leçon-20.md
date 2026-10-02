@@ -74,7 +74,11 @@ Dans son texte, l’introduction de ce concept de « *la non-identité à soi*�
 
 <!-- id: s12-20-0018 -->
 
-> « *La vérité est que chaque chose est identique à soi* ».
+<div class="text-quotation">
+
+« *La vérité est que chaque chose est identique à soi* ».
+
+</div>
 
 <!-- id: s12-20-0019 -->
 
@@ -170,7 +174,7 @@ Il peut envisager l’énigme de la génération…
 
 <!-- id: s12-20-0042 -->
 
-> non seulement celle de *l’engendrement de la suite des nombres*, mais de *la génération des hommes* …et il peut - peut-être - entrevoir alors la vérité d’un côté qui est très exactement celui de la mort.
+non seulement celle de *l’engendrement de la suite des nombres*, mais de *la génération des hommes* …et il peut - peut-être - entrevoir alors la vérité d’un côté qui est très exactement celui de la mort.
 
 <!-- id: s12-20-0043 -->
 
@@ -376,7 +380,7 @@ L’Étranger
 
 <!-- id: s12-20-0093 -->
 
-> *de trouver profit pour le dessein que nous poursuivons.*
+*de trouver profit pour le dessein que nous poursuivons.*
 
 <!-- id: s12-20-0094 -->
 
@@ -408,7 +412,7 @@ L’Étranger
 
 <!-- id: s12-20-0101 -->
 
-> *façonné et compris sous le nom d’objet mobilier, l’imitation enfin. Tout cet ensemble n’a–t–il pas vraiment droit à une appellation unique ?*
+*façonné et compris sous le nom d’objet mobilier, l’imitation enfin. Tout cet ensemble n’a–t–il pas vraiment droit à une appellation unique ?*
 
 <!-- id: s12-20-0102 -->
 
@@ -516,7 +520,7 @@ Or, remarquons-le en passant, le Sophiste est justement celui qui se dérobe der
 
 <!-- id: s12-20-0128 -->
 
-> *celui-là même qui fait dire aux médecins du corps que, de la nourriture qu’on lui fournit, le corps ne saurait tirer profit tant que les obstacles internes (et autres choses) ne seront évacués. Ils se sont donc faits, à propos de l’âme, la même idée : elle ne tirera de ce qu’on lui peut ingérer de science aucun bénéfice jusqu’à ce qu’on l’ait soumise à la réfutation et que, par cette réfutation, lui faisant honte d’elle-même, on l’ait débarrassée des opinions qui ferment les voies à l’enseignement, amenée à l’état de pureté manifeste et à croire savoir cette fois, tout juste ce qu’elle sait mais pas davantage.* »
+*celui-là même qui fait dire aux médecins du corps que, de la nourriture qu’on lui fournit, le corps ne saurait tirer profit tant que les obstacles internes (et autres choses) ne seront évacués. Ils se sont donc faits, à propos de l’âme, la même idée : elle ne tirera de ce qu’on lui peut ingérer de science aucun bénéfice jusqu’à ce qu’on l’ait soumise à la réfutation et que, par cette réfutation, lui faisant honte d’elle-même, on l’ait débarrassée des opinions qui ferment les voies à l’enseignement, amenée à l’état de pureté manifeste et à croire savoir cette fois, tout juste ce qu’elle sait mais pas davantage.* »
 
 <!-- id: s12-20-0129 -->
 
@@ -524,11 +528,11 @@ Or, remarquons-le en passant, le Sophiste est justement celui qui se dérobe der
 
 <!-- id: s12-20-0130 -->
 
-> l\) pour instruire la jeunesse sur toute chose, il faut connaître toutes choses.
->
-> 2\) Or, être omniscient est impossible : c’est donc chez le sophiste, un faux-semblant.
->
-> « *Eh quoi, quand on affirme qu’on sait tout et qu’on enseignera tout à autrui pour presque rien et presque en un rien de temps, ne faut-il pas penser que ce n’est que par jeu ?* » \[234a\]
+l\) pour instruire la jeunesse sur toute chose, il faut connaître toutes choses.
+
+2\) Or, être omniscient est impossible : c’est donc chez le sophiste, un faux-semblant.
+
+« *Eh quoi, quand on affirme qu’on sait tout et qu’on enseignera tout à autrui pour presque rien et presque en un rien de temps, ne faut-il pas penser que ce n’est que par jeu ?* » \[234a\]
 
 <!-- id: s12-20-0131 -->
 
@@ -536,11 +540,19 @@ Ce jeu, c’est la mimétique qui va remplacer la réalité par des imitations e
 
 <!-- id: s12-20-0132 -->
 
-> « *Ainsi l’homme qui se donne comme capable par un art unique, de tout produire, nous savons en somme qu’il ne fabriquera que des imitations et des homonymes des réalités. Fort de sa technique de peintre, il pourra, exhibant de loin ses dessins au plus innocent parmi les jeunes garçons, leur donner l’illusion que tout ce qu’il veut faire, il est parfaitement à même d’en créer la réalité vraie.* » or, cette imitation peut aussi être amenée par le discours, alors que nous autres - continue l’Étranger - nous sommes par l’expérience venus à bout des ϕαντάσματα \[phantasmata\], des illusions.  Je cite :
+<div class="text-quotation">
+
+« *Ainsi l’homme qui se donne comme capable par un art unique, de tout produire, nous savons en somme qu’il ne fabriquera que des imitations et des homonymes des réalités. Fort de sa technique de peintre, il pourra, exhibant de loin ses dessins au plus innocent parmi les jeunes garçons, leur donner l’illusion que tout ce qu’il veut faire, il est parfaitement à même d’en créer la réalité vraie.* » or, cette imitation peut aussi être amenée par le discours, alors que nous autres - continue l’Étranger - nous sommes par l’expérience venus à bout des ϕαντάσματα \[phantasmata\], des illusions.  Je cite :
+
+</div>
 
 <!-- id: s12-20-0133 -->
 
-> « *Pour le plus grand nombre de ceux qui entendirent à cet âge de tels discours, n’est–il pas inévitable, THÉÉTÈTE qu’une suite suffisante d’années s’écoulant, l’avancement en âge, les choses abordées de près, les épreuves qui les contraignent au clair contact des réalités, ne leur fassent changer les opinions reçues alors, trouver petit ce qui leur avait paru grand, difficile ce qui semblait facile, si bien que les simulacres que transportaient les mots s’évanouirent devant les réalités vivantes.* » \[234d\]
+<div class="text-quotation">
+
+« *Pour le plus grand nombre de ceux qui entendirent à cet âge de tels discours, n’est–il pas inévitable, THÉÉTÈTE qu’une suite suffisante d’années s’écoulant, l’avancement en âge, les choses abordées de près, les épreuves qui les contraignent au clair contact des réalités, ne leur fassent changer les opinions reçues alors, trouver petit ce qui leur avait paru grand, difficile ce qui semblait facile, si bien que les simulacres que transportaient les mots s’évanouirent devant les réalités vivantes.* » \[234d\]
+
+</div>
 
 <!-- id: s12-20-0134 -->
 
@@ -620,7 +632,7 @@ L’Étranger
 
 <!-- id: s12-20-0153 -->
 
-> *ne sera-ce pas un simulacre ?* » \[235e\] le Sophiste fait donc illusion mais *du point de vue même où se trouve son interlocuteur*. Il crée des « *représentants de la représentation* », des *copies* du simulacre, des « *Vorstellungsrepräsentanz* ». Son art est l’art du fantasme. C’est là que va s’introduire *la question* dont on pour­rait croire qu’elle est l’essentiel du dialogue : quel statut donner au *non-être* - à ce qui manque l’être - dans le simulacre ?
+*ne sera-ce pas un simulacre ?* » \[235e\] le Sophiste fait donc illusion mais *du point de vue même où se trouve son interlocuteur*. Il crée des « *représentants de la représentation* », des *copies* du simulacre, des « *Vorstellungsrepräsentanz* ». Son art est l’art du fantasme. C’est là que va s’introduire *la question* dont on pour­rait croire qu’elle est l’essentiel du dialogue : quel statut donner au *non-être* - à ce qui manque l’être - dans le simulacre ?
 
 <!-- id: s12-20-0154 -->
 
@@ -692,7 +704,11 @@ Cette ornière donc, c’est que :
 
 <!-- id: s12-20-0171 -->
 
-> « *donnant au sophiste le domaine du simulacre et pour œuvre la tromperie nous affirmerons que son art est un art d’illusion, dirons-nous alors que notre âme se forme des opinions fausses par l’effet de son art.* »
+<div class="text-quotation">
+
+« *donnant au sophiste le domaine du simulacre et pour œuvre la tromperie nous affirmerons que son art est un art d’illusion, dirons-nous alors que notre âme se forme des opinions fausses par l’effet de son art.* »
+
+</div>
 
 <!-- id: s12-20-0172 -->
 
@@ -912,7 +928,11 @@ Je me dispense de citer pour ne pas allonger mon texte. Outre cet accord, il en 
 
 <!-- id: s12-20-0226 -->
 
-> « *Ainsi, un assemblage de verbe et de noms qui, à l’égard d’un sujet énonce en fait comme autre ce qui est même, est comme étant ce qui n’est point, voilà ce me semble, au juste, l’espèce d’assemblage qui constitue réellement et véritablement un discours faux.* »
+<div class="text-quotation">
+
+« *Ainsi, un assemblage de verbe et de noms qui, à l’égard d’un sujet énonce en fait comme autre ce qui est même, est comme étant ce qui n’est point, voilà ce me semble, au juste, l’espèce d’assemblage qui constitue réellement et véritablement un discours faux.* »
+
+</div>
 
 <!-- id: s12-20-0227 -->
 
@@ -1204,7 +1224,11 @@ Dans le poème de GÓNGORA, nous entendons le chant de POLYPHÈME, seulement il 
 
 <!-- id: s12-20-0299 -->
 
-> « *Fille de la mer dont les oreilles pour mes gémissements sont roches dans le vent, soit que dans ton sommeil dérobent à mes plaintes des arbres purpurins de corail par centaines ou que, au rythme dissonant des coquilles - marin sinon agréable instrument - entrelaces des cœurs d’encens,* *écoute aujourd’hui ma voix pour sa douceur sinon parce que mienne.* »
+<div class="text-quotation">
+
+« *Fille de la mer dont les oreilles pour mes gémissements sont roches dans le vent, soit que dans ton sommeil dérobent à mes plaintes des arbres purpurins de corail par centaines ou que, au rythme dissonant des coquilles - marin sinon agréable instrument - entrelaces des cœurs d’encens,* *écoute aujourd’hui ma voix pour sa douceur sinon parce que mienne.* »
+
+</div>
 
 <!-- id: s12-20-0300 -->
 
@@ -1212,7 +1236,11 @@ Et alors, un peu plus loin, nous assistons à la naissance du cyclope. Voici ce 
 
 <!-- id: s12-20-0301 -->
 
-> « *Un maritime Alcyon*[^161]*couronnait en son vol, au–dessus de ses œufs, une roche éminente, le jour où miroir de saphir, fut brillant de ma personne le rivage bleu, je me mirai et vis luire un soleil en mon front tandis que, dans le ciel un Œil apparaissait. Neutre, l’eau se demandait à qui ajouter foi : au ciel humain ou au Cyclope céleste ?* »
+<div class="text-quotation">
+
+« *Un maritime Alcyon*[^161]*couronnait en son vol, au–dessus de ses œufs, une roche éminente, le jour où miroir de saphir, fut brillant de ma personne le rivage bleu, je me mirai et vis luire un soleil en mon front tandis que, dans le ciel un Œil apparaissait. Neutre, l’eau se demandait à qui ajouter foi : au ciel humain ou au Cyclope céleste ?* »
+
+</div>
 
 <!-- id: s12-20-0302 -->
 
@@ -1280,7 +1308,11 @@ L’une des *principales transformations* à laquelle nous assistons dans EURIPI
 
 <!-- id: s12-20-0318 -->
 
-> « *Blanche Galatée, pourquoi repousses-tu celui qui t’aime ?* »
+<div class="text-quotation">
+
+« *Blanche Galatée, pourquoi repousses-tu celui qui t’aime ?* »
+
+</div>
 
 <!-- id: s12-20-0319 -->
 
@@ -1288,9 +1320,13 @@ Et un peu plus loin, ce qui nous donne alors un repère en ce qui concerne le p�
 
 <!-- id: s12-20-0320 -->
 
-> « *Quel malheur que ma mère ne m’ait pas mis au monde avec des branchies ! Je plongerais pour te rejoindre. Je baiserais ta main*
->
-> *si tu ne veux pas ta bouche, je te porterais des lys blanc, de tendres pavots…* »
+<div class="text-quotation">
+
+« *Quel malheur que ma mère ne m’ait pas mis au monde avec des branchies ! Je plongerais pour te rejoindre. Je baiserais ta main*
+
+*si tu ne veux pas ta bouche, je te porterais des lys blanc, de tendres pavots…* »
+
+</div>
 
 <!-- id: s12-20-0321 -->
 
@@ -1370,7 +1406,7 @@ En somme, il s’agit de comprendre ce que devient l’unité nombrante à l’i
 
 <!-- id: s12-20-0340 -->
 
-> si nous raccordons ceci au thème de PALAMÈDE et de l’ordre qui s’établit entre les lettres …la question qui est ici posée, c’est la ques­tion du nom propre, du nombre ordinal au nombre cardinal.
+si nous raccordons ceci au thème de PALAMÈDE et de l’ordre qui s’établit entre les lettres …la question qui est ici posée, c’est la ques­tion du nom propre, du nombre ordinal au nombre cardinal.
 
 <!-- id: s12-20-0341 -->
 

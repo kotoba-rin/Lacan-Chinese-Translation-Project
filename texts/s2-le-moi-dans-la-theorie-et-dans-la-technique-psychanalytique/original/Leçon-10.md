@@ -38,7 +38,7 @@ Comme il s’agissait de donner un sens à cet *instinct de mort*, on a vu un an
 
 <!-- id: s2-10-0009 -->
 
-> il nous a présenté tout cela d’une façon tout à fait camouflée, en l’attribuant à un patient
+il nous a présenté tout cela d’une façon tout à fait camouflée, en l’attribuant à un patient
 
 <!-- id: s2-10-0010 -->
 
@@ -58,7 +58,7 @@ de commenter, donne avec FEITELBERG *le rapport de je ne sais quoi*, qui n’a d
 
 <!-- id: s2-10-0014 -->
 
-> quand les psychanalystes se mettent à faire de l’expérience, c’est quelque chose qui n’est pas mal, je vous assure
+quand les psychanalystes se mettent à faire de l’expérience, c’est quelque chose qui n’est pas mal, je vous assure
 
 <!-- id: s2-10-0015 -->
 
@@ -150,7 +150,7 @@ Cet effort de formalisation même, dans son progrès, dans son relatif échec, n
 
 <!-- id: s2-10-0037 -->
 
-> vous le savez déjà en gros, vous ne pouvez pas ne pas savoir de quoi je parle après un an et demi de séminaire ici
+vous le savez déjà en gros, vous ne pouvez pas ne pas savoir de quoi je parle après un an et demi de séminaire ici
 
 <!-- id: s2-10-0038 -->
 
@@ -162,9 +162,9 @@ C’est-à-dire quelque chose qui est justement ce par quoi je vous désigne l�
 
 <!-- id: s2-10-0040 -->
 
-> disons ça en gros, encore que le langage ici va représenter une certaine chute de niveau,
->
-> pour imager pour ceux qui ne compren­nent rien
+disons ça en gros, encore que le langage ici va représenter une certaine chute de niveau,
+
+pour imager pour ceux qui ne compren­nent rien
 
 <!-- id: s2-10-0041 -->
 
@@ -184,7 +184,7 @@ Voici d’abord ce que je vous ai désigné l’autre jour…
 
 <!-- id: s2-10-0045 -->
 
-> bien entendu, si vous ne lisez pas le texte, vous ne verrez pas tout le schéma
+bien entendu, si vous ne lisez pas le texte, vous ne verrez pas tout le schéma
 
 <!-- id: s2-10-0046 -->
 
@@ -280,9 +280,13 @@ Par exemple, prenons l’exemple de \[l’élément ?\] moteur, qui se charge, 
 
 <!-- id: s2-10-0069 -->
 
-> « *En crois-je mes yeux ?*
->
-> *Est-ce bien cela que je regarde ?* »
+<div class="text-quotation">
+
+« *En crois-je mes yeux ?*
+
+*Est-ce bien cela que je regarde ?* »
+
+</div>
 
 <!-- id: s2-10-0070 -->
 
@@ -306,9 +310,9 @@ Mais voilà l’amorce de quelque chose que nous allons retrouver à tous les ni
 
 <!-- id: s2-10-0075 -->
 
-> pour vous indiquer le mouvement général, pour que vous ne soyez pas perdus à la suite de ces séminaires,
->
-> qui vont s’engager, et vont peut-être un peu piétiner
+pour vous indiquer le mouvement général, pour que vous ne soyez pas perdus à la suite de ces séminaires,
+
+qui vont s’engager, et vont peut-être un peu piétiner
 
 <!-- id: s2-10-0076 -->
 
@@ -388,9 +392,9 @@ Nous sommes passés du modèle mécanique à un modèle logique. Ce n’est pas 
 
 <!-- id: s2-10-0095 -->
 
-> en somme, ce que nous sommes en train d’essayer de démontrer à saisir,
->
-> quant à la présence, l’actualisation du langage humain
+en somme, ce que nous sommes en train d’essayer de démontrer à saisir,
+
+quant à la présence, l’actualisation du langage humain
 
 <!-- id: s2-10-0096 -->
 
@@ -418,9 +422,9 @@ Je l’ai l’autre jour découvert à la *Société de philosophie*. On n’y p
 
 <!-- id: s2-10-0102 -->
 
-> ce qu’elle espérait pouvoir en être compris par l’assemblée philosophique qui était là,
->
-> elle a été trop modeste dans ses préten­tions, ils auraient pu comprendre un peu plus
+ce qu’elle espérait pouvoir en être compris par l’assemblée philosophique qui était là,
+
+elle a été trop modeste dans ses préten­tions, ils auraient pu comprendre un peu plus
 
 <!-- id: s2-10-0103 -->
 
@@ -440,9 +444,9 @@ Mais simplement ce qui se passe dans une *société scientifique*, en moyenne…
 
 <!-- id: s2-10-0107 -->
 
-> pourquoi a surgi l’expression paradoxale de « *machine à penser* » ?
->
-> Moi qui dis déjà que les hommes ne pensent que très rarement, je ne vais pas parler de « *machines à penser* »
+pourquoi a surgi l’expression paradoxale de « *machine à penser* » ?
+
+Moi qui dis déjà que les hommes ne pensent que très rarement, je ne vais pas parler de « *machines à penser* »
 
 <!-- id: s2-10-0108 -->
 
@@ -478,7 +482,7 @@ C’est de cela qu’il s’agit, que vous verrez se repro­duire au niveau de c
 
 <!-- id: s2-10-0116 -->
 
-> avec ce petit schéma que LANG a plus ou moins bien évoqué à côté du stade du miroir
+avec ce petit schéma que LANG a plus ou moins bien évoqué à côté du stade du miroir
 
 <!-- id: s2-10-0117 -->
 
@@ -558,7 +562,7 @@ Vous voyez bien qu’ici ce schéma a l’avantage de maintenir, de mettre en é
 
 <!-- id: s2-10-0136 -->
 
-> enco­re bien entendu que rien n’apparaisse qui ne soit lié à une sorte de frottement à ce niveau du *moi* ou d’effet d’illumination, de chauffage, de tout ce que vous voudrez, au niveau de cette interposition du *moi*, et que bien entendu si nous n’avions pas cette interposition, et du même coup cette résistance, ces effets de la communication au niveau de l’inconscient ne seraient ni saisissables, ni mesu­rables dans leur effet, sur l’individu, le *moi* comme tel
+enco­re bien entendu que rien n’apparaisse qui ne soit lié à une sorte de frottement à ce niveau du *moi* ou d’effet d’illumination, de chauffage, de tout ce que vous voudrez, au niveau de cette interposition du *moi*, et que bien entendu si nous n’avions pas cette interposition, et du même coup cette résistance, ces effets de la communication au niveau de l’inconscient ne seraient ni saisissables, ni mesu­rables dans leur effet, sur l’individu, le *moi* comme tel
 
 <!-- id: s2-10-0137 -->
 
@@ -678,9 +682,13 @@ Moi je ne pense pas. D’après ce texte on ne peut pas en tirer cela. Ils disen
 
 <!-- id: s2-10-0166 -->
 
-> « *The most momentous conclusions flowed from this comparison…* »
->
-> « *Les conclusions les plus importantes découlent de cette comparaison*… »
+<div class="text-quotation">
+
+« *The most momentous conclusions flowed from this comparison…* »
+
+« *Les conclusions les plus importantes découlent de cette comparaison*… »
+
+</div>
 
 <!-- id: s2-10-0167 -->
 
@@ -712,11 +720,15 @@ Vous connaissez la préface à \[...\] ?
 
 <!-- id: s2-10-0174 -->
 
-> « *Je ne peux m’analyser que sur mes bases de connaissances objectives, comme je pourrais le faire pour un étranger.*
->
-> *La self-analyse est à pro­prement parler impossible. Sans cela, il n’y aurait pas de maladie -* C’est dans la *Lettre 75* –
->
-> *C’est dans la mesure où je rencontre quelque énigme dans mes cas, que l’analyse doit s’arrêter.* »
+<div class="text-quotation">
+
+« *Je ne peux m’analyser que sur mes bases de connaissances objectives, comme je pourrais le faire pour un étranger.*
+
+*La self-analyse est à pro­prement parler impossible. Sans cela, il n’y aurait pas de maladie -* C’est dans la *Lettre 75* –
+
+*C’est dans la mesure où je rencontre quelque énigme dans mes cas, que l’analyse doit s’arrêter.* »
+
+</div>
 
 <!-- id: s2-10-0175 -->
 
@@ -884,9 +896,9 @@ Tout ce qui est là au niveau du *moi*…
 
 <!-- id: s2-10-0216 -->
 
-> qui peut aussi bien faire *obstacle* ou être *le signal du passage*, c’est-à-dire *s’illuminer au moment du passage* \[Cf. triode\]
->
-> de ce qui est en train de se constituer, *c’est-à-dire* *ce vaste discours à* FLIESS qui sera ensuite toute l’œuvre de FREUD,
+qui peut aussi bien faire *obstacle* ou être *le signal du passage*, c’est-à-dire *s’illuminer au moment du passage* \[Cf. triode\]
+
+de ce qui est en train de se constituer, *c’est-à-dire* *ce vaste discours à* FLIESS qui sera ensuite toute l’œuvre de FREUD,
 
 <!-- id: s2-10-0217 -->
 
@@ -914,11 +926,15 @@ Dans la *Traumdeutung,* page 80 et suivantes, dans la secon­de analyse de ce r�
 
 <!-- id: s2-10-0223 -->
 
-> « *Je devine pourquoi la formule de la triméthylamine a pris tant d’impor­tance. Elle ne rappelle pas seulement le rôle dominant*
->
-> *de la sexualité, mais aussi l’ami à qui je songe avec bonheur quand je me sens seul de mon avis.*
->
-> *Cet ami, qui joue un si grand rôle dans ma vie, vais-je le rencontrer dans la suite des associations du rêve ?* »
+<div class="text-quotation">
+
+« *Je devine pourquoi la formule de la triméthylamine a pris tant d’impor­tance. Elle ne rappelle pas seulement le rôle dominant*
+
+*de la sexualité, mais aussi l’ami à qui je songe avec bonheur quand je me sens seul de mon avis.*
+
+*Cet ami, qui joue un si grand rôle dans ma vie, vais-je le rencontrer dans la suite des associations du rêve ?* »
+
+</div>
 
 <!-- id: s2-10-0224 -->
 
@@ -954,7 +970,7 @@ La découverte comme telle de l’inconscient nous montre déjà ceci…
 
 <!-- id: s2-10-0232 -->
 
-> c’est important, parce qu’au moment de son surgissement historique, ça se montre avec sa dimension pleine
+c’est important, parce qu’au moment de son surgissement historique, ça se montre avec sa dimension pleine
 
 <!-- id: s2-10-0233 -->
 

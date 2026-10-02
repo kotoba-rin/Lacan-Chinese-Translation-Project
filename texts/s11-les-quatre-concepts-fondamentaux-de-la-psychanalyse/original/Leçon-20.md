@@ -241,7 +241,11 @@ pâté impérial*…* comme on dit, et quelques autres. Il se peut très bien, s
 
 <!-- id: s11-20-0046 -->
 
-> « *Qu’est-ce que je désire là-dedans, c’est à vous de le savoir.* »
+<div class="text-quotation">
+
+« *Qu’est-ce que je désire là-dedans, c’est à vous de le savoir.* »
+
+</div>
 
 <!-- id: s11-20-0047 -->
 
@@ -388,7 +392,7 @@ Pour vous donner deux formules-repères qui soient aussi structu­rantes que pos
 
 <!-- id: s11-20-0075 -->
 
-> que lui, l’analyste est appelé, par le sujet, à incarner.
+que lui, l’analyste est appelé, par le sujet, à incarner.
 
 <!-- id: s11-20-0076 -->
 

@@ -30,7 +30,7 @@ Et ce que j’ai inventé est fait en somme pour expliquer...
 
 <!-- id: s24-06-0007 -->
 
-> je dis « expliquer », je ne sais pas très bien ce que ça veut dire ...expliquer Freud.
+je dis « expliquer », je ne sais pas très bien ce que ça veut dire ...expliquer Freud.
 
 <!-- id: s24-06-0008 -->
 
@@ -46,7 +46,7 @@ Je pense que là vous reconnaissez la figure...
 
 <!-- id: s24-06-0011 -->
 
-> si toutefois je l’ai bien dessinée ...la figure où j’ai, d’un seul trait, figuré l’engen­drement du *Réel*, et que ce *Réel* se prolonge en somme par l’*Imaginaire* puisque c’est bien de ça qu’il s’agit, sans qu’on sache très bien où s’arrê­tent le *Réel* et l’*Imaginaire*.
+si toutefois je l’ai bien dessinée ...la figure où j’ai, d’un seul trait, figuré l’engen­drement du *Réel*, et que ce *Réel* se prolonge en somme par l’*Imaginaire* puisque c’est bien de ça qu’il s’agit, sans qu’on sache très bien où s’arrê­tent le *Réel* et l’*Imaginaire*.
 
 <!-- id: s24-06-0012 -->
 
@@ -110,13 +110,13 @@ Ce qui me frappe le plus dans cet *Essai sur la rosée,* c’est que ça n’a a
 
 <!-- id: s24-06-0027 -->
 
-> Je me le suis procuré, bien entendu, à la *Bibliothèque Nationale* où j’ai comme ça de temps en temps quelque personne qui fait un effort pour moi, une personne qui est là-bas musicologue et qui est
->
-> en somme pas trop mal placée pour me procurer. Dans l’occasion, comme je n’avais aucun moyen d’avoir le texte original qu’à la rigueur j’aurais pu arriver à lire, c’est une traduc­tion que je lui ai réclamé ...il a été traduit en effet, cet *Essai sur la rosée* a été traduit...
+Je me le suis procuré, bien entendu, à la *Bibliothèque Nationale* où j’ai comme ça de temps en temps quelque personne qui fait un effort pour moi, une personne qui est là-bas musicologue et qui est
+
+en somme pas trop mal placée pour me procurer. Dans l’occasion, comme je n’avais aucun moyen d’avoir le texte original qu’à la rigueur j’aurais pu arriver à lire, c’est une traduc­tion que je lui ai réclamé ...il a été traduit en effet, cet *Essai sur la rosée* a été traduit...
 
 <!-- id: s24-06-0028 -->
 
-> de son auteur William Charles Wells ...il a été traduit par le nommé Tordeux, maître en pharmacie et il faut vraiment énormément se forcer pour y trouver le moindre intérêt.
+de son auteur William Charles Wells ...il a été traduit par le nommé Tordeux, maître en pharmacie et il faut vraiment énormément se forcer pour y trouver le moindre intérêt.
 
 <!-- id: s24-06-0029 -->
 
@@ -204,11 +204,11 @@ Le circuit que je vais mettre en place devant vous, prétend métaphoriser par u
 
 <!-- id: s24-06-0050 -->
 
-> vous verrez que j’en désigne 3 très précisément ...à l’issue desquels un sujet et son Autre peuvent arriver à un point précis, très repérable...
+vous verrez que j’en désigne 3 très précisément ...à l’issue desquels un sujet et son Autre peuvent arriver à un point précis, très repérable...
 
 <!-- id: s24-06-0051 -->
 
-> que j’appellerai B<sub>4</sub>-R<sub>4</sub> - vous verrez pourquoi ...et à partir duquel j’articulerai ce qui me semble pou­voir être,
+que j’appellerai B<sub>4</sub>-R<sub>4</sub> - vous verrez pourquoi ...et à partir duquel j’articulerai ce qui me semble pou­voir être,
 
 <!-- id: s24-06-0052 -->
 
@@ -256,7 +256,7 @@ Tout mon montage va consister à substituer au *court-circuit*...
 
 <!-- id: s24-06-0063 -->
 
-> par lequel le conte de Poe tient ses deux sujets *hors du cheminement de la lettre* ...à un *long circuit* en chicane par lequel la lettre partant de la position B<sub>1</sub> finira par aboutir à la posi­tion B<sub>4</sub>.
+par lequel le conte de Poe tient ses deux sujets *hors du cheminement de la lettre* ...à un *long circuit* en chicane par lequel la lettre partant de la position B<sub>1</sub> finira par aboutir à la posi­tion B<sub>4</sub>.
 
 <!-- id: s24-06-0064 -->
 
@@ -288,7 +288,7 @@ Par B<sub>1</sub>, si vous voulez, je qualifie l’état, je dirais d’*innocen
 
 <!-- id: s24-06-0071 -->
 
-> peu importe le contenu de la lettre ...tout simplement *ne sait pas* que le sujet sait quelque chose à son endroit.
+peu importe le contenu de la lettre ...tout simplement *ne sait pas* que le sujet sait quelque chose à son endroit.
 
 <!-- id: s24-06-0072 -->
 
@@ -316,7 +316,7 @@ Je fais maintenant...
 
 <!-- id: s24-06-0078 -->
 
-> l’histoire commence ...je fais maintenant intervenir quelqu’un que j’appelle - vous voyez ce que j’ai nommé M - M, j’appellerai ça « *le messager* ».
+l’histoire commence ...je fais maintenant intervenir quelqu’un que j’appelle - vous voyez ce que j’ai nommé M - M, j’appellerai ça « *le messager* ».
 
 <!-- id: s24-06-0079 -->
 
@@ -348,13 +348,17 @@ Vous voyez donc que le point impor­tant là, est le fait que Bozef…
 
 <!-- id: s24-06-0086 -->
 
-> qui était dans la position d’une niaiserie, de la niaiserie en B<sub>1</sub>,
->
-> du fait de l’inversion du message qui lui revient, c’est-­à-dire cette fois : *l’Autre sait* …est déplacé. Il ne peut plus rester en B<sub>1</sub>, il se retrouve en B<sub>2</sub>. Et en B<sub>2</sub>, je dirai qu’il est là dans la position du *sem­blant*, il peut encore se soutenir de la position que je dirai être celle de la duplicité puisqu’en B<sub>2</sub> il peut encore se dire :
+qui était dans la position d’une niaiserie, de la niaiserie en B<sub>1</sub>,
+
+du fait de l’inversion du message qui lui revient, c’est-­à-dire cette fois : *l’Autre sait* …est déplacé. Il ne peut plus rester en B<sub>1</sub>, il se retrouve en B<sub>2</sub>. Et en B<sub>2</sub>, je dirai qu’il est là dans la position du *sem­blant*, il peut encore se soutenir de la position que je dirai être celle de la duplicité puisqu’en B<sub>2</sub> il peut encore se dire :
 
 <!-- id: s24-06-0087 -->
 
-> « *Oui, il sait, mais il ne sait pas que je sais qu’il sait* ».
+<div class="text-quotation">
+
+« *Oui, il sait, mais il ne sait pas que je sais qu’il sait* ».
+
+</div>
 
 <!-- id: s24-06-0088 -->
 
@@ -386,7 +390,7 @@ L’effet à partir de là, à partir de la nouvelle position de l’Autre va po
 
 <!-- id: s24-06-0095 -->
 
-> ici un effet sujet élémentaire où il se produira, ce que Lacan appellerait le signifié de l’Autre ...au niveau B<sub>2</sub>, c’est-à-dire qu’on peut aussi dessiner cette flèche.
+ici un effet sujet élémentaire où il se produira, ce que Lacan appellerait le signifié de l’Autre ...au niveau B<sub>2</sub>, c’est-à-dire qu’on peut aussi dessiner cette flèche.
 
 <!-- id: s24-06-0096 -->
 
@@ -454,7 +458,11 @@ Qu’est-ce qui se passe donc quand le roi est en R<sub>3</sub>, quand il est da
 
 <!-- id: s24-06-0112 -->
 
-> « *Le roi sait que je sais qu’il sait que je sais* ».
+<div class="text-quotation">
+
+« *Le roi sait que je sais qu’il sait que je sais* ».
+
+</div>
 
 <!-- id: s24-06-0113 -->
 
@@ -482,7 +490,7 @@ Si le roi est dans une position - dans cette position R<sub>3</sub> - où il sau
 
 <!-- id: s24-06-0119 -->
 
-> cela désigne aussi *la pulsion*, mais je ne vais pas parler de ça maintenant
+cela désigne aussi *la pulsion*, mais je ne vais pas parler de ça maintenant
 
 <!-- id: s24-06-0120 -->
 
@@ -574,9 +582,9 @@ Le messager a été au bout de sa course, et au bout du recours de Bozef, et pou
 
 <!-- id: s24-06-0142 -->
 
-> c’est-à-dire celui à qui la lettre était véritablement destinée
->
-> et dont il éludait la rencontre le plus possible, à ce moment-là il est face à cet Autre ...et il ne peut pas faire autre chose que de *dire une parole* en reconnaissant cet Autre, *une parole et une seule*.
+c’est-à-dire celui à qui la lettre était véritablement destinée
+
+et dont il éludait la rencontre le plus possible, à ce moment-là il est face à cet Autre ...et il ne peut pas faire autre chose que de *dire une parole* en reconnaissant cet Autre, *une parole et une seule*.
 
 <!-- id: s24-06-0143 -->
 
@@ -652,7 +660,7 @@ Autrement dit : est-ce que c’est parce qu’un sujet pense penser quelque chos
 
 <!-- id: s24-06-0161 -->
 
-> *le sujet de l’inconscient* qui est en lui ...répond de ce qu’il dit.
+*le sujet de l’inconscient* qui est en lui ...répond de ce qu’il dit.
 
 <!-- id: s24-06-0162 -->
 
@@ -676,7 +684,7 @@ La question donc où je vais aller plus avant, c’est que si ce **S(A)** à laq
 
 <!-- id: s24-06-0167 -->
 
-> peu importe le mot qu’il emploie, il est banal : « *c’est toi* », c’est du baratin, c’est rien du tout ...*le poids de vérité de ce message, c’est que c’est un lieu*.
+peu importe le mot qu’il emploie, il est banal : « *c’est toi* », c’est du baratin, c’est rien du tout ...*le poids de vérité de ce message, c’est que c’est un lieu*.
 
 <!-- id: s24-06-0168 -->
 
@@ -700,7 +708,7 @@ Mais, remarquez déjà...
 
 <!-- id: s24-06-0173 -->
 
-> enfin pour mieux cerner ce que je veux dire ...c’est que d’une façon générale les gens qui dans la vie vous inspi­rent confiance, comme on dit, c’est des gens que précisément vous sen­tez désirants, mais d’un désir qui à eux-mêmes reste, je dirais, *énigmatique*, *voilé*, et vous sentez que l’objet de leur désir leur est à eux-mêmes énigmatique.
+enfin pour mieux cerner ce que je veux dire ...c’est que d’une façon générale les gens qui dans la vie vous inspi­rent confiance, comme on dit, c’est des gens que précisément vous sen­tez désirants, mais d’un désir qui à eux-mêmes reste, je dirais, *énigmatique*, *voilé*, et vous sentez que l’objet de leur désir leur est à eux-mêmes énigmatique.
 
 <!-- id: s24-06-0174 -->
 
@@ -764,7 +772,7 @@ Et c’est pourquoi je dirais, si un « *parl’être* » se met à la ramener �
 
 <!-- id: s24-06-0189 -->
 
-> pensons à l’I.P.A. ou même - sans aller si loin - à ce qui se passait chez nous ...ne peut litté­ralement pas supporter, pour l’écho que cela renvoie en lui.
+pensons à l’I.P.A. ou même - sans aller si loin - à ce qui se passait chez nous ...ne peut litté­ralement pas supporter, pour l’écho que cela renvoie en lui.
 
 <!-- id: s24-06-0190 -->
 
@@ -812,9 +820,9 @@ C’est très intéressant, quand nous lisons - je fais une parenthèse rapide �
 
 <!-- id: s24-06-0201 -->
 
-> et ils sont intéressants parce qu’ils correspondent à la lettre
->
-> à ce qui s’est passé dans un passé récent *pour nous* ...c’est que l’Inquisiteur repère parfaitement bien de quoi il est question dans ce S(A), il le repère dans sa façon de définir *l’hérétique* : *l’hérétique* n’est pas celui qui erre, qui est dans l’er­reur, « *errare humanum est »,* c’est celui qui persévère :
+et ils sont intéressants parce qu’ils correspondent à la lettre
+
+à ce qui s’est passé dans un passé récent *pour nous* ...c’est que l’Inquisiteur repère parfaitement bien de quoi il est question dans ce S(A), il le repère dans sa façon de définir *l’hérétique* : *l’hérétique* n’est pas celui qui erre, qui est dans l’er­reur, « *errare humanum est »,* c’est celui qui persévère :
 
 <!-- id: s24-06-0202 -->
 
@@ -850,7 +858,7 @@ Ce désaveu d’ailleurs...
 
 <!-- id: s24-06-0210 -->
 
-> remarquez que je ne jette la pierre à personne ...ce désaveu nous guette à tous les instants.
+remarquez que je ne jette la pierre à personne ...ce désaveu nous guette à tous les instants.
 
 <!-- id: s24-06-0211 -->
 
@@ -858,7 +866,7 @@ Il est pas tellement rare de voir par exemple un analyste en contrôle qui, à u
 
 <!-- id: s24-06-0212 -->
 
-> la règle étant de pouvoir dire n’importe quoi ...comme si à ce moment-là, il était dégagé du fait qu’il avait à répondre de ce qu’il dit, qu’il pouvait parler sans responsabilité.
+la règle étant de pouvoir dire n’importe quoi ...comme si à ce moment-là, il était dégagé du fait qu’il avait à répondre de ce qu’il dit, qu’il pouvait parler sans responsabilité.
 
 <!-- id: s24-06-0213 -->
 
@@ -886,7 +894,7 @@ En **S(A)**, il se passe un phénomène contradictoire, qui est celui d’une «
 
 <!-- id: s24-06-0219 -->
 
-> le mot est de Lacan dans « *Les Formations de l’inconscient »* [^6], vous le trouverez ...qui est celui d’une « *communion* » coïncidant avec une séparation entre le sujet et l’Autre.
+le mot est de Lacan dans « *Les Formations de l’inconscient »* [^6], vous le trouverez ...qui est celui d’une « *communion* » coïncidant avec une séparation entre le sujet et l’Autre.
 
 <!-- id: s24-06-0220 -->
 
@@ -902,7 +910,7 @@ En ce point là, je dirais...
 
 <!-- id: s24-06-0223 -->
 
-> je suis obligé parce que pour comprendre ce que c’est que la nature de l’émergence du sujet à l’état pur ...en B<sub>3</sub>-R<sub>3</sub>, rapidement, le sujet était dans une position où *le refoulement origi­naire* aurait disparu, fixé par le regard du *Réel*.
+je suis obligé parce que pour comprendre ce que c’est que la nature de l’émergence du sujet à l’état pur ...en B<sub>3</sub>-R<sub>3</sub>, rapidement, le sujet était dans une position où *le refoulement origi­naire* aurait disparu, fixé par le regard du *Réel*.
 
 <!-- id: s24-06-0224 -->
 
@@ -910,7 +918,7 @@ Qu’est-ce qui va per­mettre au sujet de se défixer...
 
 <!-- id: s24-06-0225 -->
 
-> rappelez-vous d’ailleurs, qu’au sujet de la fixation Freud l’articule au refoulement originaire ...qu’est-ce qui va permettre au sujet de se défixer, qu’est-ce qui va permettre à l’Autre qui est dans le *Réel* de réintégrer son *site symbolique* ? C’est là d’ailleurs que l’art de l’analyste devra savoir se faire entendre.
+rappelez-vous d’ailleurs, qu’au sujet de la fixation Freud l’articule au refoulement originaire ...qu’est-ce qui va permettre au sujet de se défixer, qu’est-ce qui va permettre à l’Autre qui est dans le *Réel* de réintégrer son *site symbolique* ? C’est là d’ailleurs que l’art de l’analyste devra savoir se faire entendre.
 
 <!-- id: s24-06-0226 -->
 
@@ -918,7 +926,7 @@ Un exemple : un analysant dans cette position, où pour lui le savoir de l’Aut
 
 <!-- id: s24-06-0227 -->
 
-> pour voir de quelle façon l’analyste va se manifester, d’où il parle ...lui téléphone un jour pour presser un ren­dez-vous pour voir la réaction.
+pour voir de quelle façon l’analyste va se manifester, d’où il parle ...lui téléphone un jour pour presser un ren­dez-vous pour voir la réaction.
 
 <!-- id: s24-06-0228 -->
 
@@ -950,7 +958,7 @@ Je dirais qu’à ce moment-là...
 
 <!-- id: s24-06-0235 -->
 
-> les Écritures nous disent : « *Que la lumière soit* », « *Fiat lux* » ...ce dont il s’agit à ce moment-là c’est « *Fiat trou* », c’est une expression de Lacan.
+les Écritures nous disent : « *Que la lumière soit* », « *Fiat lux* » ...ce dont il s’agit à ce moment-là c’est « *Fiat trou* », c’est une expression de Lacan.
 
 <!-- id: s24-06-0236 -->
 
@@ -962,8 +970,8 @@ Ceci dit, qu’est-ce qui fait que le sujet...
 
 <!-- id: s24-06-0238 -->
 
-> je tourne tout le temps autour de ça, vous voyez  
-> ...qui a perdu la parole, va la retrouver et va pouvoir dire ce « *c’est toi* » ?
+je tourne tout le temps autour de ça, vous voyez  
+...qui a perdu la parole, va la retrouver et va pouvoir dire ce « *c’est toi* » ?
 
 <!-- id: s24-06-0239 -->
 
@@ -971,11 +979,11 @@ Eh bien, je dirais que *du fait de l’opération de l’intervention du signifi
 
 <!-- id: s24-06-0240 -->
 
-> qui a recréé le *refoulement originaire*,
->
-> qui a fait disparaître le **S<sub>2</sub>**<sub>,</sub>
->
-> et remis l’*objet(a)* à sa place ...*du fait de l’opération de ce signifiant du Nom du Père*, le Sujet accède à un autre point de vue, à un point de vue où il ne fait pas l’équivalence entre le savoir de l’Autre et la clé qui - en lui - manque.
+qui a recréé le *refoulement originaire*,
+
+qui a fait disparaître le **S<sub>2</sub>**<sub>,</sub>
+
+et remis l’*objet(a)* à sa place ...*du fait de l’opération de ce signifiant du Nom du Père*, le Sujet accède à un autre point de vue, à un point de vue où il ne fait pas l’équivalence entre le savoir de l’Autre et la clé qui - en lui - manque.
 
 <!-- id: s24-06-0241 -->
 
@@ -995,9 +1003,9 @@ Le paradoxe invraisemblable sur lequel on débouche, c’est comment un signifia
 
 <!-- id: s24-06-0245 -->
 
-> quand vous lisez, quand vous entendez une musique qui *vous bouleverse* ou un poème qui *vous bouleverse*, le mot qui fait mouche en vous, on peut dire que c’est qu’il rouvre au maximum cette dimension
->
-> du *refoulement originaire* ...com­ment donc ce signifiant peut-il assumer cette contradiction de maintenir cette *béance* et en même temps d’être « *ce qui cesse de ne pas s’écrire* », par exemple une note très banale de la gamme diachronique, un « *la* » tout bête ?
+quand vous lisez, quand vous entendez une musique qui *vous bouleverse* ou un poème qui *vous bouleverse*, le mot qui fait mouche en vous, on peut dire que c’est qu’il rouvre au maximum cette dimension
+
+du *refoulement originaire* ...com­ment donc ce signifiant peut-il assumer cette contradiction de maintenir cette *béance* et en même temps d’être « *ce qui cesse de ne pas s’écrire* », par exemple une note très banale de la gamme diachronique, un « *la* » tout bête ?
 
 <!-- id: s24-06-0246 -->
 
@@ -1005,7 +1013,7 @@ Vous voyez que cette gageure pourtant, c’est ce qui est réalisé dans notre 3
 
 <!-- id: s24-06-0247 -->
 
-> par lequel Lacan n’a pas hésité à employer *le mot de « communion » dans la production du mot d’esprit* ...cette barre même, cette barre même dont le paradoxe est d’associer et de dissocier dans le même temps.
+par lequel Lacan n’a pas hésité à employer *le mot de « communion » dans la production du mot d’esprit* ...cette barre même, cette barre même dont le paradoxe est d’associer et de dissocier dans le même temps.
 
 <!-- id: s24-06-0248 -->
 
@@ -1029,7 +1037,7 @@ Vous voyez que l’expérience de *ce manque à être* en **S(A)**...
 
 <!-- id: s24-06-0253 -->
 
-> justement il faut savoir la distinguer de l’*aphanisis* qui - lui - est, on pourrait dire une excommunication du sujet - là il ne s’agit pas de l’être, là on pourrait dire qu’il s’agit effectivement d’une communion dans le non-être ...que c’est dans cette *mise en commun* du signifiant **S<sub>2</sub>** et du signifiant qui manque à l’Autre qu’est délivré ce signifiant que j’articule, que je vais maintenant articuler de plus près à *la Passe*.
+justement il faut savoir la distinguer de l’*aphanisis* qui - lui - est, on pourrait dire une excommunication du sujet - là il ne s’agit pas de l’être, là on pourrait dire qu’il s’agit effectivement d’une communion dans le non-être ...que c’est dans cette *mise en commun* du signifiant **S<sub>2</sub>** et du signifiant qui manque à l’Autre qu’est délivré ce signifiant que j’articule, que je vais maintenant articuler de plus près à *la Passe*.
 
 <!-- id: s24-06-0254 -->
 
@@ -1037,7 +1045,7 @@ On pourrait dire, si vous voulez, que la barre du sujet et de l’Autre, à comm
 
 <!-- id: s24-06-0255 -->
 
-> dans l’incandescence de ce manque partagé ...aux sources même de l’existence, bien au-delà de l’objet, bien au-delà du fantasme.
+dans l’incandescence de ce manque partagé ...aux sources même de l’existence, bien au-delà de l’objet, bien au-delà du fantasme.
 
 <!-- id: s24-06-0256 -->
 
@@ -1049,7 +1057,7 @@ Enfin vous voyez que le propre de cette réponse...
 
 <!-- id: s24-06-0258 -->
 
-> le « *c’est toi* », tel que je le définis en ce moment ...que le propre de cette réponse est qu’elle est une métaphore à l’état pur.
+le « *c’est toi* », tel que je le définis en ce moment ...que le propre de cette réponse est qu’elle est une métaphore à l’état pur.
 
 <!-- id: s24-06-0259 -->
 
@@ -1073,7 +1081,7 @@ C’est-à-dire, nous voyons que Bozef...
 
 <!-- id: s24-06-0264 -->
 
-> qui est arrivé en délivrant son message « *C’est toi* » ...cor­respond à ce que j’ai repéré, c’est-à-dire être arrivé à se passer d’un inter­médiaire, on n’est plus *deux*, on est qu’*un -*pour s’adresser à un lieu.
+qui est arrivé en délivrant son message « *C’est toi* » ...cor­respond à ce que j’ai repéré, c’est-à-dire être arrivé à se passer d’un inter­médiaire, on n’est plus *deux*, on est qu’*un -*pour s’adresser à un lieu.
 
 <!-- id: s24-06-0265 -->
 
@@ -1085,7 +1093,7 @@ Mais Bozef étant en ce point, est-ce que pour autant...
 
 <!-- id: s24-06-0267 -->
 
-> s’il est, comme on dirait, « *passant* » ...est-ce que pour autant il est capable de témoigner, de rendre compte qu’il est dans *la Passe* d’où il parle ?
+s’il est, comme on dirait, « *passant* » ...est-ce que pour autant il est capable de témoigner, de rendre compte qu’il est dans *la Passe* d’où il parle ?
 
 <!-- id: s24-06-0268 -->
 
@@ -1101,7 +1109,7 @@ Il l’entend. Mais le roi...
 
 <!-- id: s24-06-0271 -->
 
-> ce n’est pas par hasard que le roi qui est l’analyste ...le roi n’est pas le jury d’agrément.
+ce n’est pas par hasard que le roi qui est l’analyste ...le roi n’est pas le jury d’agrément.
 
 <!-- id: s24-06-0272 -->
 
@@ -1121,7 +1129,7 @@ Nous l’avons déjà dit : si le propre de ce **S(A)** est de ne pouvoir être
 
 <!-- id: s24-06-0276 -->
 
-> pour revenir à notre métaphore de l’analyste possédant ...nous faisons un pas de plus et nous disons maintenant qu’en tant que lieu ne se dit pas tel quel, il ne peut pas arriver tel quel au jury.
+pour revenir à notre métaphore de l’analyste possédant ...nous faisons un pas de plus et nous disons maintenant qu’en tant que lieu ne se dit pas tel quel, il ne peut pas arriver tel quel au jury.
 
 <!-- id: s24-06-0277 -->
 
@@ -1129,7 +1137,7 @@ Bon, je vais illustrer ça de la façon suivante : quand vous entendez un analys
 
 <!-- id: s24-06-0278 -->
 
-> puisque Lacan s’est défini comme ne cessant pas de passer *la Passe* ...quand vous l’entendez ce passeur, est-ce que vous pouvez dire que vous entendez d’où parle Lacan ?
+puisque Lacan s’est défini comme ne cessant pas de passer *la Passe* ...quand vous l’entendez ce passeur, est-ce que vous pouvez dire que vous entendez d’où parle Lacan ?
 
 <!-- id: s24-06-0279 -->
 
@@ -1153,13 +1161,13 @@ Si Lacan, à un temps donné, rappelait aux analystes qu’ils feraient mieux de
 
 <!-- id: s24-06-0284 -->
 
-> comme dans certaines sociétés de psy­chanalyse ...un nivellement dans l’œuvre de Freud...
+comme dans certaines sociétés de psy­chanalyse ...un nivellement dans l’œuvre de Freud...
 
 <!-- id: s24-06-0285 -->
 
-> vous entendez que dans *« nivellement »* le mot *« vel »* est barré,
->
-> c’est-à-dire qu’on entend plus *la dimension du parl’être* Freud ...ce à quoi l’on aboutit, c’est effectivement à une prise de possession de la théorie que l’on peut mettre en cassette.
+vous entendez que dans *« nivellement »* le mot *« vel »* est barré,
+
+c’est-à-dire qu’on entend plus *la dimension du parl’être* Freud ...ce à quoi l’on aboutit, c’est effectivement à une prise de possession de la théorie que l’on peut mettre en cassette.
 
 <!-- id: s24-06-0286 -->
 
@@ -1175,7 +1183,7 @@ Parce que le propre d’un *écrit*...
 
 <!-- id: s24-06-0289 -->
 
-> je vous donne ce dernier exemple avant de conclure ...le propre d’un *écrit* quel qu’il soit, c’est que *dans un écrit* *le sujet de l’énoncé* et *le sujet de l’énonciation* *peuvent bien être présents*, mais ce n’est pas pour autant que l’écrit sera *passeur*, *l’écrit ne sera* *passeur* *que si les deux « je » sont, de façon transmissible, articulés.*
+je vous donne ce dernier exemple avant de conclure ...le propre d’un *écrit* quel qu’il soit, c’est que *dans un écrit* *le sujet de l’énoncé* et *le sujet de l’énonciation* *peuvent bien être présents*, mais ce n’est pas pour autant que l’écrit sera *passeur*, *l’écrit ne sera* *passeur* *que si les deux « je » sont, de façon transmissible, articulés.*
 
 <!-- id: s24-06-0290 -->
 
@@ -1207,15 +1215,15 @@ Si l’auteur lui-même - dont je parle - jouait son propre rôle dans la fictio
 
 <!-- id: s24-06-0297 -->
 
-> s’il jouait son propre personnage, qu’il le jouait à la perfection,
->
-> criant de vérité comme on dit, - c’est arrivé à de grands auteurs comme Molière ...ça ne prouve pas que...
+s’il jouait son propre personnage, qu’il le jouait à la perfection,
+
+criant de vérité comme on dit, - c’est arrivé à de grands auteurs comme Molière ...ça ne prouve pas que...
 
 <!-- id: s24-06-0298 -->
 
-> si le hasard acceptait cette fiction, si le hasard de la vie le faisait rencontrer
->
-> la même situation que celle qu’il avait décrite à son personnage ...ça ne prouve pas qu’à ce moment-là il ne serait pas gauche, emprunté.
+si le hasard acceptait cette fiction, si le hasard de la vie le faisait rencontrer
+
+la même situation que celle qu’il avait décrite à son personnage ...ça ne prouve pas qu’à ce moment-là il ne serait pas gauche, emprunté.
 
 <!-- id: s24-06-0299 -->
 
@@ -1239,7 +1247,7 @@ Qu’est-ce qui peut rendre compte de la position d’où il parle, sinon cet en
 
 <!-- id: s24-06-0304 -->
 
-> je ne les ai pas ter­minés malheureusement ...que je vous ai dessinés au tableau.
+je ne les ai pas ter­minés malheureusement ...que je vous ai dessinés au tableau.
 
 <!-- id: s24-06-0305 -->
 
@@ -1247,9 +1255,9 @@ Si cette hypothèse est vraie...
 
 <!-- id: s24-06-0306 -->
 
-> c’est-à-dire si le passeur, cet écrit, ces graphes ont fonctionné comme passeurs
->
-> en ceci qu’ils témoignent du lieu de l’énon­ciation strictement articulé à l’énoncé ...qui est *le passant*, puisque ce n’est pas Bozef ?
+c’est-à-dire si le passeur, cet écrit, ces graphes ont fonctionné comme passeurs
+
+en ceci qu’ils témoignent du lieu de l’énon­ciation strictement articulé à l’énoncé ...qui est *le passant*, puisque ce n’est pas Bozef ?
 
 <!-- id: s24-06-0307 -->
 
@@ -1269,15 +1277,15 @@ Il ne cesse pas...
 
 <!-- id: s24-06-0311 -->
 
-> et nous pouvons penser qu’il ne cessera jamais ...il ne cesse pas parce que, séminaire après séminaire, il crée, il ressuscite *le passeur* qu’est son écrit, c’est-à-dire qu’il crée les conditions de sa division. Il crée...
+et nous pouvons penser qu’il ne cessera jamais ...il ne cesse pas parce que, séminaire après séminaire, il crée, il ressuscite *le passeur* qu’est son écrit, c’est-à-dire qu’il crée les conditions de sa division. Il crée...
 
 <!-- id: s24-06-0312 -->
 
-> comme Bozef à un moment donné dans son parcours, mis au pied du mur,
->
-> se met à la place du transmetteur pour se faire en même temps émetteur et transmetteur,
->
-> dans la flèche violette, quand il renonce à l’in­termédiaire
+comme Bozef à un moment donné dans son parcours, mis au pied du mur,
+
+se met à la place du transmetteur pour se faire en même temps émetteur et transmetteur,
+
+dans la flèche violette, quand il renonce à l’in­termédiaire
 
 <!-- id: s24-06-0313 -->
 

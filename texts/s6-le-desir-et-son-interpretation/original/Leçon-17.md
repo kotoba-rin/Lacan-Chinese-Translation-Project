@@ -46,9 +46,9 @@ Et tout l’indique dans *la sorte de tournant que représente* HAMLET dans l’
 
 <!-- id: s6-17-0011 -->
 
-> que nous pensons ici pouvoir interpréter en fonction de certains de nos repères,
->
-> de ceux qui sont articulés dans notre *gramme*
+que nous pensons ici pouvoir interpréter en fonction de certains de nos repères,
+
+de ceux qui sont articulés dans notre *gramme*
 
 <!-- id: s6-17-0012 -->
 
@@ -104,7 +104,7 @@ Dans cette sorte de chute, d’abandon, de la fin de l’adjuration d’HAMLET, 
 
 <!-- id: s6-17-0025 -->
 
-> le monde entier devient pour lui vivant reproche de n’être jamais à la hauteur de sa propre *volonté*
+le monde entier devient pour lui vivant reproche de n’être jamais à la hauteur de sa propre *volonté*
 
 <!-- id: s6-17-0026 -->
 
@@ -120,7 +120,7 @@ Il s’agit de voir en quoi…
 
 <!-- id: s6-17-0029 -->
 
-> d’une façon plus articulée, en entrant dans un détail psychologique qui resterait, je dois dire, foncièrement *énigmatique* s’il n’était pas - *ce détail* - soumis à cette visée d’ensemble qui *fait le sens de la tragédie* d’HAMLET
+d’une façon plus articulée, en entrant dans un détail psychologique qui resterait, je dois dire, foncièrement *énigmatique* s’il n’était pas - *ce détail* - soumis à cette visée d’ensemble qui *fait le sens de la tragédie* d’HAMLET
 
 <!-- id: s6-17-0030 -->
 
@@ -172,9 +172,9 @@ Et au niveau, premièrement de la demande, si ce fantasme intervient - ou aussi 
 
 <!-- id: s6-17-0042 -->
 
-> du signifié de l’Autre \[*s*(A)\] qui est le module, la somme de toutes les significations
->
-> telles qu’elles sont acquises par le sujet dans l’échange inter-humain et le discours complet
+du signifié de l’Autre \[*s*(A)\] qui est le module, la somme de toutes les significations
+
+telles qu’elles sont acquises par le sujet dans l’échange inter-humain et le discours complet
 
 <!-- id: s6-17-0043 -->
 
@@ -206,7 +206,7 @@ Simplement, dans la relation d’objet telle qu’elle nous est expliquée le pl
 
 <!-- id: s6-17-0050 -->
 
-> que ce soit un volume paru assez près de nous auquel je fais allusion comme à l’exemple le plus caricatural, comme d’autres plus élaborés comme ceux de FEDERN ou tel ou tel autre[^81]
+que ce soit un volume paru assez près de nous auquel je fais allusion comme à l’exemple le plus caricatural, comme d’autres plus élaborés comme ceux de FEDERN ou tel ou tel autre[^81]
 
 <!-- id: s6-17-0051 -->
 
@@ -222,7 +222,7 @@ Pour autant que dans ces deux points de notre *gramme*, qu’il s’agisse du *c
 
 <!-- id: s6-17-0054 -->
 
-> c’est-à-dire de la série de rapports qu’il a avec un certain appareil de la demande
+c’est-à-dire de la série de rapports qu’il a avec un certain appareil de la demande
 
 <!-- id: s6-17-0055 -->
 
@@ -238,7 +238,7 @@ C’est en tant donc que le sujet est en un même moment d’oscillation qui est
 
 <!-- id: s6-17-0058 -->
 
-> nous viendrons naturellement à donner *son support et ses coordonnées réelles* à ce qui n’est qu’une métaphore
+nous viendrons naturellement à donner *son support et ses coordonnées réelles* à ce qui n’est qu’une métaphore
 
 <!-- id: s6-17-0059 -->
 
@@ -262,9 +262,9 @@ Car cet objet est autre, car cet objet, en tant qu’objet du désir, a un autre
 
 <!-- id: s6-17-0064 -->
 
-> même donnerions-nous toute leur valeur primitive déterminante, comme on le fait, aux signifiants de la demande en tant qu’ils sont signifiants oraux, anaux, avec toutes les subdivisions, toutes les différences d’orientation ou de polarisation que peut prendre cet objet en tant que tel par rapport au sujet,
->
-> ce que *la relation d’objet*, telle qu’elle est pour l’instant articulée, méconnaissait
+même donnerions-nous toute leur valeur primitive déterminante, comme on le fait, aux signifiants de la demande en tant qu’ils sont signifiants oraux, anaux, avec toutes les subdivisions, toutes les différences d’orientation ou de polarisation que peut prendre cet objet en tant que tel par rapport au sujet,
+
+ce que *la relation d’objet*, telle qu’elle est pour l’instant articulée, méconnaissait
 
 <!-- id: s6-17-0065 -->
 
@@ -300,7 +300,7 @@ Le sujet est présent dans le fantasme. Et la fonction de l’objet…
 
 <!-- id: s6-17-0073 -->
 
-> qui est objet du désir uniquement en ceci qu’il est *terme* du fantasme
+qui est objet du désir uniquement en ceci qu’il est *terme* du fantasme
 
 <!-- id: s6-17-0074 -->
 
@@ -372,7 +372,7 @@ Néanmoins ce qui est essentiel…
 
 <!-- id: s6-17-0091 -->
 
-> et ce qui est cet élément de phénoménologie auquel je faisais allusion tout à l’heure
+et ce qui est cet élément de phénoménologie auquel je faisais allusion tout à l’heure
 
 <!-- id: s6-17-0092 -->
 
@@ -388,7 +388,7 @@ Si la perversion est donc quelque chose d’articulé bien sûr…
 
 <!-- id: s6-17-0095 -->
 
-> et exactement du même niveau, vous allez le voir, que la névrose
+et exactement du même niveau, vous allez le voir, que la névrose
 
 <!-- id: s6-17-0096 -->
 
@@ -396,9 +396,9 @@ Si la perversion est donc quelque chose d’articulé bien sûr…
 
 <!-- id: s6-17-0097 -->
 
-> pour autant que dans les éléments imaginaires quelque chose se trouve d’un rapport essentiel du sujet
->
-> à son être, sous une forme essentiellement localisée, fixée comme on l’a toujours dit
+pour autant que dans les éléments imaginaires quelque chose se trouve d’un rapport essentiel du sujet
+
+à son être, sous une forme essentiellement localisée, fixée comme on l’a toujours dit
 
 <!-- id: s6-17-0098 -->
 
@@ -442,7 +442,7 @@ C’est ici…
 
 <!-- id: s6-17-0108 -->
 
-> dans ce fait que le fondement d’un comportement névrotique, dans sa forme la plus générale, et que dans son objet, le sujet cherche toujours à lire son heure, même si l’on peut dire qu’il apprend à lire l’heure,
+dans ce fait que le fondement d’un comportement névrotique, dans sa forme la plus générale, et que dans son objet, le sujet cherche toujours à lire son heure, même si l’on peut dire qu’il apprend à lire l’heure,
 
 <!-- id: s6-17-0109 -->
 
@@ -470,7 +470,7 @@ HAMLET triomphe, exulte, bafoue celui qui ainsi s’est dénoncé, et sur le che
 
 <!-- id: s6-17-0115 -->
 
-> et dont tout un chacun presse sa mère de hâter le terme
+et dont tout un chacun presse sa mère de hâter le terme
 
 <!-- id: s6-17-0116 -->
 
@@ -550,7 +550,7 @@ Mais tout de même, essentiellement, c’est encore « *à l’heure de l’autr
 
 <!-- id: s6-17-0135 -->
 
-> car ce ne sont pas ses biens qui sont engagés, c’est au bénéfice de son beau-père, et lui-même comme tenant de son beau-père
+car ce ne sont pas ses biens qui sont engagés, c’est au bénéfice de son beau-père, et lui-même comme tenant de son beau-père
 
 <!-- id: s6-17-0136 -->
 
@@ -562,7 +562,7 @@ Il se précipite donc dans le piège. Je dirais que ce qu’il y a de nouveau à
 
 <!-- id: s6-17-0138 -->
 
-> à savoir qu’il sera atteint mortellement avant qu’il puisse atteindre son ennemi
+à savoir qu’il sera atteint mortellement avant qu’il puisse atteindre son ennemi
 
 <!-- id: s6-17-0139 -->
 
@@ -586,7 +586,7 @@ Ce n’est cependant pas secondaire en ceci…
 
 <!-- id: s6-17-0144 -->
 
-> il faut réfléchir à ceci si nous voulons comprendre ce que SHAKESPEARE a voulu dans HAMLET
+il faut réfléchir à ceci si nous voulons comprendre ce que SHAKESPEARE a voulu dans HAMLET
 
 <!-- id: s6-17-0145 -->
 
@@ -610,7 +610,7 @@ Je veux simplement…
 
 <!-- id: s6-17-0150 -->
 
-> puisqu’il est assez tard pour que je ne puisse pas en finir aujourd’hui avec OPHÉLIE
+puisqu’il est assez tard pour que je ne puisse pas en finir aujourd’hui avec OPHÉLIE
 
 <!-- id: s6-17-0151 -->
 
@@ -630,7 +630,11 @@ On la voit apparaître à propos de quelque chose qui en fait déjà une personn
 
 <!-- id: s6-17-0155 -->
 
-> *He took me by the wrist and held me the hard, Il me prend par le poignet et le serre bien fort, Then gœs he to the length of all his arms, Il se recule de toute la longueur de son bras, And with his other hand thus o’er his brow, Avec son autre main sur les sourcils, He falls to such perusal of my face, Il tombe dans un tel examen de ma figure, comme s’il voulait la dessiner. Il se tient longuement ainsi, Et à la fin, me secouant légèrement le bras, Et par trois fois hochant la tête de haut en bas, And thrice his head thus waving up and down, Il exhala un soupir si triste et si profond que ce soupir parut ébranler tout son être et terminer sa vie; Après quoi il me lâche: Et toujours regardant par dessus son épaule, He seem’d to find his way without his eyes, Il paraît trouver son chemin sans l’aide de ses yeux, Hors de la porte et jusqu’à la fin il les tient fixes sur moi .* » \[II, 1, 87-100\]
+<div class="text-quotation">
+
+*He took me by the wrist and held me the hard, Il me prend par le poignet et le serre bien fort, Then gœs he to the length of all his arms, Il se recule de toute la longueur de son bras, And with his other hand thus o’er his brow, Avec son autre main sur les sourcils, He falls to such perusal of my face, Il tombe dans un tel examen de ma figure, comme s’il voulait la dessiner. Il se tient longuement ainsi, Et à la fin, me secouant légèrement le bras, Et par trois fois hochant la tête de haut en bas, And thrice his head thus waving up and down, Il exhala un soupir si triste et si profond que ce soupir parut ébranler tout son être et terminer sa vie; Après quoi il me lâche: Et toujours regardant par dessus son épaule, He seem’d to find his way without his eyes, Il paraît trouver son chemin sans l’aide de ses yeux, Hors de la porte et jusqu’à la fin il les tient fixes sur moi .* » \[II, 1, 87-100\]
+
+</div>
 
 <!-- id: s6-17-0156 -->
 

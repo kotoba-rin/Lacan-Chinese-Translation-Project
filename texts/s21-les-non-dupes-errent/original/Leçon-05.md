@@ -50,7 +50,7 @@ C’est bien ce que j’ai fait...
 
 <!-- id: s21-05-0012 -->
 
-> loger ces mots bien sûr, il faut quand même vous mâcher les choses ...c’est bien l’effort que j’ai fait, que j’ai fait la dernière fois, à partir de l’amour.
+loger ces mots bien sûr, il faut quand même vous mâcher les choses ...c’est bien l’effort que j’ai fait, que j’ai fait la dernière fois, à partir de l’amour.
 
 <!-- id: s21-05-0013 -->
 
@@ -62,11 +62,11 @@ Ce qui se traduit dans mon *dire* de ce qu’elle se fonde...
 
 <!-- id: s21-05-0015 -->
 
-> *la chose, la chose amour* ...qu’elle ne se fonde...
+*la chose, la chose amour* ...qu’elle ne se fonde...
 
 <!-- id: s21-05-0016 -->
 
-> puisqu’il s’agit seulement de sa possibilité ...*elle se fonde*, comme je dis, *de cesser de s’écrire*.
+puisqu’il s’agit seulement de sa possibilité ...*elle se fonde*, comme je dis, *de cesser de s’écrire*.
 
 <!-- id: s21-05-0017 -->
 
@@ -78,7 +78,7 @@ C’est-à-dire *de ce qu’il en reste de ça : qu’elle cesse de s’écrire
 
 <!-- id: s21-05-0019 -->
 
-> depuis ce temps, presque infini pour moi, que je me répète ...à savoir *la lettre d’(a)mur*.
+depuis ce temps, presque infini pour moi, que je me répète ...à savoir *la lettre d’(a)mur*.
 
 <!-- id: s21-05-0020 -->
 
@@ -114,11 +114,11 @@ Vous le savez, cette distinction du *cardinal* et de l’*ordinal*...
 
 <!-- id: s21-05-0028 -->
 
-> le pas a été franchi seulement grâce à la théorie des ensembles, c’est-à-dire grâce à Cantor \[1845-1918\] ...en quoi ça peut-il nous servir pour ce qu’il en est de l’exploration d’un *discours nouveau*...
+le pas a été franchi seulement grâce à la théorie des ensembles, c’est-à-dire grâce à Cantor \[1845-1918\] ...en quoi ça peut-il nous servir pour ce qu’il en est de l’exploration d’un *discours nouveau*...
 
 <!-- id: s21-05-0029 -->
 
-> vous le savez, c’est ainsi que je désigne *le discours analytique* ...lequel discours s’est annoncé d’un *décantage du sens* \[S<sub>1</sub> ◊ S<sub>2</sub>\].
+vous le savez, c’est ainsi que je désigne *le discours analytique* ...lequel discours s’est annoncé d’un *décantage du sens* \[S<sub>1</sub> ◊ S<sub>2</sub>\].
 
 <!-- id: s21-05-0030 -->
 
@@ -134,7 +134,7 @@ C’est propre­ment...
 
 <!-- id: s21-05-0033 -->
 
-> et c’est en cela que la métaphore du « *décantage* » ici se soutient ...c’est proprement de *la condensation* de ce qui, du sens, se concentre par ce discours de ceci : que *le sens, le sens des mots, ne fait qu’appareil pour* ce que nous appellerons si vous le voulez bien rien de plus : *le coït sexuel*.
+et c’est en cela que la métaphore du « *décantage* » ici se soutient ...c’est proprement de *la condensation* de ce qui, du sens, se concentre par ce discours de ceci : que *le sens, le sens des mots, ne fait qu’appareil pour* ce que nous appellerons si vous le voulez bien rien de plus : *le coït sexuel*.
 
 <!-- id: s21-05-0034 -->
 
@@ -146,7 +146,7 @@ Et c’est ce qu’il faut bien dire : si c’est bien ce qui de ce discours e
 
 <!-- id: s21-05-0036 -->
 
-> et c’est bien pourquoi j’infléchis ainsi le sens du « *néces­saire »* ...c’est que sa caractéristique, dans ce discours, c’est que ce dis­cours *ne cesse pas de l’écrire*. \[*<u>nécess</u>aire* : *<u>ne cesse</u>*\]
+et c’est bien pourquoi j’infléchis ainsi le sens du « *néces­saire »* ...c’est que sa caractéristique, dans ce discours, c’est que ce dis­cours *ne cesse pas de l’écrire*. \[*<u>nécess</u>aire* : *<u>ne cesse</u>*\]
 
 <!-- id: s21-05-0037 -->
 
@@ -198,11 +198,11 @@ En quoi il s’entrevoit à la limite que *le langage*, lui, n’est pas fait de
 
 <!-- id: s21-05-0049 -->
 
-> car c’est cela, et rien de plus, qu’on appelle une proposition ...*une proposition* c’est l’effacement au moins relatif...
+car c’est cela, et rien de plus, qu’on appelle une proposition ...*une proposition* c’est l’effacement au moins relatif...
 
 <!-- id: s21-05-0050 -->
 
-> je dis ça : « *au moins relatif* », pour vous faciliter l’accès aux choses ...*c’est l’effacement du sens des mots*.
+je dis ça : « *au moins relatif* », pour vous faciliter l’accès aux choses ...*c’est l’effacement du sens des mots*.
 
 <!-- id: s21-05-0051 -->
 
@@ -210,7 +210,7 @@ En quoi il s’entrevoit à la limite que *le langage*, lui, n’est pas fait de
 
 <!-- id: s21-05-0052 -->
 
-> vous savez que je l’écris en un mot ...*lalangue si, elle en est faite du sens*, à savoir comment *par l’ambiguïté de chaque mot* elle prête à cette fonction que *<u>le sens y ruisselle</u>*.
+vous savez que je l’écris en un mot ...*lalangue si, elle en est faite du sens*, à savoir comment *par l’ambiguïté de chaque mot* elle prête à cette fonction que *<u>le sens y ruisselle</u>*.
 
 <!-- id: s21-05-0053 -->
 
@@ -226,7 +226,7 @@ Et ce « *ruis­sellement* » dont je parle, comment l’imaginer...
 
 <!-- id: s21-05-0056 -->
 
-> c’est le cas de le dire ...comment l’imaginer si c’est un ruissellement qu’arrêtent enfin des « *cou­pelles* » ?
+c’est le cas de le dire ...comment l’imaginer si c’est un ruissellement qu’arrêtent enfin des « *cou­pelles* » ?
 
 <!-- id: s21-05-0057 -->
 
@@ -278,11 +278,11 @@ C’est en quoi, la dernière fois, *l’amour* était un bon test de la précar
 
 <!-- id: s21-05-0069 -->
 
-> ce qui est bien le fait de son sens même \[*l’amour « supplée » à l’impossible du rapport dexuel* \] ...par l’*impossible* du lien sexuel avec l’objet...
+ce qui est bien le fait de son sens même \[*l’amour « supplée » à l’impossible du rapport dexuel* \] ...par l’*impossible* du lien sexuel avec l’objet...
 
 <!-- id: s21-05-0070 -->
 
-> l’objet quelle qu’en soit l’origine ...l’objet de cette impossibilité.
+l’objet quelle qu’en soit l’origine ...l’objet de cette impossibilité.
 
 <!-- id: s21-05-0071 -->
 
@@ -350,7 +350,7 @@ Ce qu’il faut bien articuler, c’est que c’est dans l’*écriture* du nœu
 
 <!-- id: s21-05-0087 -->
 
-> car réfléchis­sez bien, ce nœud, ce ne sont que des traits écrits au tableau ...c’est dans cette *écriture* même que réside *l’événement de mon dire*.
+car réfléchis­sez bien, ce nœud, ce ne sont que des traits écrits au tableau ...c’est dans cette *écriture* même que réside *l’événement de mon dire*.
 
 <!-- id: s21-05-0088 -->
 
@@ -366,7 +366,7 @@ Il faudrait que là-dessus j’y aille tout de suite, si quelque chose ne me dis
 
 <!-- id: s21-05-0091 -->
 
-> ce qui est un mode d’écri­ture précisé par la mathématique au principe même de la topologie ...un filtre dont ces mots retrouvent leur sens, je veux dire ce comme quoi ils fonctionnent dans *l’ordre sexuel*, lequel ordre, c’est patent, n’est que le principe d’un ordinaire.
+ce qui est un mode d’écri­ture précisé par la mathématique au principe même de la topologie ...un filtre dont ces mots retrouvent leur sens, je veux dire ce comme quoi ils fonctionnent dans *l’ordre sexuel*, lequel ordre, c’est patent, n’est que le principe d’un ordinaire.
 
 <!-- id: s21-05-0092 -->
 
@@ -378,7 +378,7 @@ En d’autres termes justifier, non eux - les termes de cet ordre - mais cet ord
 
 <!-- id: s21-05-0094 -->
 
-> car c’est là ce qu’aujourd’hui j’ai à dire ne sachant pas qui me suivra ...le nœud a une fonction tout autre, tout autre que de fonder cet ordre, l’ordre quelconque dans lequel vous pourriez enchaîner *le Symbolique, l’Imaginaire et le Réel*.
+car c’est là ce qu’aujourd’hui j’ai à dire ne sachant pas qui me suivra ...le nœud a une fonction tout autre, tout autre que de fonder cet ordre, l’ordre quelconque dans lequel vous pourriez enchaîner *le Symbolique, l’Imaginaire et le Réel*.
 
 <!-- id: s21-05-0095 -->
 
@@ -386,7 +386,7 @@ Ce qu’il nous faut trouver, ce n’est pas la diversi­té de leur consistance
 
 <!-- id: s21-05-0096 -->
 
-> à savoir ce qu’on ne peut pas dire ...*cette consistance même* en tant qu’elle ne les diversifie pas, mais seulement qu’elle les noue.
+à savoir ce qu’on ne peut pas dire ...*cette consistance même* en tant qu’elle ne les diversifie pas, mais seulement qu’elle les noue.
 
 <!-- id: s21-05-0097 -->
 
@@ -398,7 +398,7 @@ L’*Imaginaire* se distingue en « *sens »* de ce qu’il s’imagine, comme
 
 <!-- id: s21-05-0099 -->
 
-> si tant est qu’ils *disent* peut-être parmi vous ...il faut quand même que vous y regardiez de plus près pour dire alors que cela ne va pas de soi, et *pour cette raison* - que peut-être vous manqueriez - *que ce n’est pas le privilège de l’Imaginaire*.
+si tant est qu’ils *disent* peut-être parmi vous ...il faut quand même que vous y regardiez de plus près pour dire alors que cela ne va pas de soi, et *pour cette raison* - que peut-être vous manqueriez - *que ce n’est pas le privilège de l’Imaginaire*.
 
 <!-- id: s21-05-0100 -->
 
@@ -414,7 +414,7 @@ Et c’est pourquoi j’ai commencé...
 
 <!-- id: s21-05-0103 -->
 
-> commencé dans ma 2<sup>ème</sup> articulation devant vous, dans mon 2<sup>ème</sup> « *séminaire »* qu’on appelle ça 2<sup>ème</sup> j’ai commencé par dire qu’il n’y a pas d’initiation.
+commencé dans ma 2<sup>ème</sup> articulation devant vous, dans mon 2<sup>ème</sup> « *séminaire »* qu’on appelle ça 2<sup>ème</sup> j’ai commencé par dire qu’il n’y a pas d’initiation.
 
 <!-- id: s21-05-0104 -->
 
@@ -478,7 +478,7 @@ Il faut que vous sentiez bien ceci : c’est *que de les ranger à 3, en tant qu
 
 <!-- id: s21-05-0119 -->
 
-> je vous demande pardon de l’aridité de ce que j’ai à vous dire aujourd’hui ...ceci, qui est propre au 3, *ceci n’im­plique nulle ordination*, quoi qu’il vous en semble.
+je vous demande pardon de l’aridité de ce que j’ai à vous dire aujourd’hui ...ceci, qui est propre au 3, *ceci n’im­plique nulle ordination*, quoi qu’il vous en semble.
 
 <!-- id: s21-05-0120 -->
 
@@ -498,7 +498,7 @@ Qu’est-ce que ça veut dire, ce que je viens de dire ? C’est que à trois - 
 
 <!-- id: s21-05-0124 -->
 
-> à cette seule condition qu’il n’y en ait pas deux mêmes à la suite …on ne peut faire - à les écrire - que de trouver tous les ordres tels qu’ils seraient cogitables par une *com­binatoire*.
+à cette seule condition qu’il n’y en ait pas deux mêmes à la suite …on ne peut faire - à les écrire - que de trouver tous les ordres tels qu’ils seraient cogitables par une *com­binatoire*.
 
 <!-- id: s21-05-0125 -->
 
@@ -506,9 +506,9 @@ Qu’est-ce que ça veut dire, ce que je viens de dire ? C’est que à trois - 
 
 <!-- id: s21-05-0126 -->
 
-> à cette seule condition de la prendre dans l’ordre *palindromique*,
->
-> c’est-à­-dire à l’envers : de droite à gauche, au lieu de gauche à droite ...1,3,2. \[1, **2**, **3 - 1**, 2, 3\]
+à cette seule condition de la prendre dans l’ordre *palindromique*,
+
+c’est-à­-dire à l’envers : de droite à gauche, au lieu de gauche à droite ...1,3,2. \[1, **2**, **3 - 1**, 2, 3\]
 
 <!-- id: s21-05-0127 -->
 
@@ -532,9 +532,9 @@ Le propre d’un nœud, quand il est mis à plat, dimension essentielle, car le 
 
 <!-- id: s21-05-0132 -->
 
-> je pense vous l’avoir fait remarquer quand je vous ai montré une petite construction en cube
->
-> que je vous avais apportée je ne sais plus quel­le fois, la fois dernière ou je crois plutôt l’avant-dernière ...c’est fait comme ça :
+je pense vous l’avoir fait remarquer quand je vous ai montré une petite construction en cube
+
+que je vous avais apportée je ne sais plus quel­le fois, la fois dernière ou je crois plutôt l’avant-dernière ...c’est fait comme ça :
 
 <!-- id: s21-05-0133 -->
 
@@ -634,7 +634,7 @@ Ce serait un biais - il faut le dire assez comique - de faire rentrer au niveau 
 
 <!-- id: s21-05-0157 -->
 
-> c’était le sens de ce que j’ai avancé à la fin de mon séminaire de l’année derniè­re ...uniquement l’énumérable, à savoir l’*aleph zéro* \[**א<sub>0</sub>**\][^11], et rien de plus, c’est-à-dire ce qui se dit être un *Un,* mais en tant qu’à dire « c’est un *Un* » c’est le couper de toute ordination, c’est ne le prendre - et c’est ce que seul per­met Cantor - que sous son aspect purement *cardinal*.
+c’était le sens de ce que j’ai avancé à la fin de mon séminaire de l’année derniè­re ...uniquement l’énumérable, à savoir l’*aleph zéro* \[**א<sub>0</sub>**\][^11], et rien de plus, c’est-à-dire ce qui se dit être un *Un,* mais en tant qu’à dire « c’est un *Un* » c’est le couper de toute ordination, c’est ne le prendre - et c’est ce que seul per­met Cantor - que sous son aspect purement *cardinal*.
 
 <!-- id: s21-05-0158 -->
 
@@ -642,7 +642,7 @@ Certes, me direz-vous, il ne peut le faire...
 
 <!-- id: s21-05-0159 -->
 
-> si tant est que vous me disiez quelque chose ...il ne peut le faire
+si tant est que vous me disiez quelque chose ...il ne peut le faire
 
 <!-- id: s21-05-0160 -->
 
@@ -670,7 +670,7 @@ Il est certain que si j’énonce que de **2** « *il n’y a pas »*,
 
 <!-- id: s21-05-0166 -->
 
-> parce que ce serait inscrire du même coup *dans le Réel la possibilité du rapport* tel qu’il se fonde du *rapport sexuel*
+parce que ce serait inscrire du même coup *dans le Réel la possibilité du rapport* tel qu’il se fonde du *rapport sexuel*
 
 <!-- id: s21-05-0167 -->
 

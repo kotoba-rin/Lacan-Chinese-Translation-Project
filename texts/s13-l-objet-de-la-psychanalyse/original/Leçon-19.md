@@ -14,9 +14,13 @@ Ce sera moins long que ce que je vous ai donné déjà, de développé concernan
 
 <!-- id: s13-19-0003 -->
 
-> « *Ce séminaire qui est, pour nous encore en cours -* écris-je *- s’est occupé, suivant sa ligne de la fonction longtemps repérée dans l’expérience psychanalytique au titre de la relation d’objet. On y professe qu’elle domine, pour le sujet analysable, sa relation au réel et l’objet oral ou anal y sont promus aux dépens d’autres dont le statut, pourtant manifeste, y demeure incertain. C’est que, si les premiers - de ces objets - reposent directement sur la relation de la demande, bien propice à intervention corrective, les autres, exigent une théorie plus complexe puisque, n’y peut être méconnue une division du sujet, impossible à réduire par les seuls efforts de la bonne intention, étant la division même dont se supporte le désir. Ces autres objets, nommément, le regard et la voix - si nous laissons à venir l’objet en jeu dans la castration - font corps avec cette division du sujet et en présentifient dans le champ même du perçu, la partie élidée comme libidinale. Comme tels, ils font reculer l’appréciation de la pratique qu’intimide leurs recouvrements à ces objets, par la relation spéculaire avec les identifications du moi qu’on y veut respecter. Ce rappel suffit à motiver que nous ayons insisté de préférence, cette année, sur la pulsion scopique et son objet immanent, le regard. Nous avons donné la topologie qui permet de rétablir la présence du percipiens lui-même dans le champ où comme imperçu, il est pourtant perceptible, quand il ne l’est même que trop, dans les effets de la pulsion qui se manifestent comme exhibition ou voyeurisme. Cette topologie qui s’inscrit dans la géométrie projective et les surfaces de l’analysis situs, n’est pas à prendre, comme il en est des modèles optiques chez FREUD, au rang de métaphore, mais bien pour représenter la structure elle-même. Cette topologie rend compte enfin de l’impureté du perceptum scopique en retrouvant ce que nous avions cru pouvoir indiquer dans un de nos articles - très précisément celui de la « Question préliminaire à tout traitement possible des psychoses » - ce que nous avions cru pouvoir indiquer de la présence du percipiens irrécusable de la marque qu’elle porte là du signifiant, quand elle se montre monnayée dans le phénomène jamais conçu de la voix psychotique. L’exigence absolue en ces deux points, scopique et invoquant, d’une théorie du désir, nous reporte à la rectification des infléchissements de la pratique, à l’autocritique nécessaire de la position de l’analyste, autocritique qui va au risque attaché à sa propre subjectivation, s’il veut répondre honnêtement, fusse seulement*
->
-> *à la demande.* »
+<div class="text-quotation">
+
+« *Ce séminaire qui est, pour nous encore en cours -* écris-je *- s’est occupé, suivant sa ligne de la fonction longtemps repérée dans l’expérience psychanalytique au titre de la relation d’objet. On y professe qu’elle domine, pour le sujet analysable, sa relation au réel et l’objet oral ou anal y sont promus aux dépens d’autres dont le statut, pourtant manifeste, y demeure incertain. C’est que, si les premiers - de ces objets - reposent directement sur la relation de la demande, bien propice à intervention corrective, les autres, exigent une théorie plus complexe puisque, n’y peut être méconnue une division du sujet, impossible à réduire par les seuls efforts de la bonne intention, étant la division même dont se supporte le désir. Ces autres objets, nommément, le regard et la voix - si nous laissons à venir l’objet en jeu dans la castration - font corps avec cette division du sujet et en présentifient dans le champ même du perçu, la partie élidée comme libidinale. Comme tels, ils font reculer l’appréciation de la pratique qu’intimide leurs recouvrements à ces objets, par la relation spéculaire avec les identifications du moi qu’on y veut respecter. Ce rappel suffit à motiver que nous ayons insisté de préférence, cette année, sur la pulsion scopique et son objet immanent, le regard. Nous avons donné la topologie qui permet de rétablir la présence du percipiens lui-même dans le champ où comme imperçu, il est pourtant perceptible, quand il ne l’est même que trop, dans les effets de la pulsion qui se manifestent comme exhibition ou voyeurisme. Cette topologie qui s’inscrit dans la géométrie projective et les surfaces de l’analysis situs, n’est pas à prendre, comme il en est des modèles optiques chez FREUD, au rang de métaphore, mais bien pour représenter la structure elle-même. Cette topologie rend compte enfin de l’impureté du perceptum scopique en retrouvant ce que nous avions cru pouvoir indiquer dans un de nos articles - très précisément celui de la « Question préliminaire à tout traitement possible des psychoses » - ce que nous avions cru pouvoir indiquer de la présence du percipiens irrécusable de la marque qu’elle porte là du signifiant, quand elle se montre monnayée dans le phénomène jamais conçu de la voix psychotique. L’exigence absolue en ces deux points, scopique et invoquant, d’une théorie du désir, nous reporte à la rectification des infléchissements de la pratique, à l’autocritique nécessaire de la position de l’analyste, autocritique qui va au risque attaché à sa propre subjectivation, s’il veut répondre honnêtement, fusse seulement*
+
+*à la demande.* »
+
+</div>
 
 <!-- id: s13-19-0004 -->
 
@@ -60,9 +64,9 @@ C’est à ce titre, et à ce titre d’abord, qu’on peut dire que le tableau.
 
 <!-- id: s13-19-0014 -->
 
-> structuré si différemment et dans son cadre, dans son cadre qui ne peut être isolé
->
-> d’un autre point de référence, celui occupé par le point S dominant sa projective …que *le tableau n’est que le représentant de la représentation. Il est le représentant de ce qu’est la représentation dans le miroir.*
+structuré si différemment et dans son cadre, dans son cadre qui ne peut être isolé
+
+d’un autre point de référence, celui occupé par le point S dominant sa projective …que *le tableau n’est que le représentant de la représentation. Il est le représentant de ce qu’est la représentation dans le miroir.*
 
 <!-- id: s13-19-0015 -->
 
@@ -74,7 +78,7 @@ Et ceci, l’art moderne vous l’illustre : un tableau, une toile avec une simp
 
 <!-- id: s13-19-0017 -->
 
-> car qu’est-ce d’autre après-tout, qu’une grande tache de couleur ? Et ceci est manifesté d’une façon, en quelque sorte provocante, par certains extrêmes de la création artistique …est un tableau autant qu’est une œuvre d’art le *ready made* de DUCHAMP à savoir aussi bien la présentation, devant vous de quelque porte-manteau accroché à une tringle.
+car qu’est-ce d’autre après-tout, qu’une grande tache de couleur ? Et ceci est manifesté d’une façon, en quelque sorte provocante, par certains extrêmes de la création artistique …est un tableau autant qu’est une œuvre d’art le *ready made* de DUCHAMP à savoir aussi bien la présentation, devant vous de quelque porte-manteau accroché à une tringle.
 
 <!-- id: s13-19-0018 -->
 
@@ -114,7 +118,11 @@ C’est pourquoi quand j’ai introduit la question de ce tableau avec le « *F
 
 <!-- id: s13-19-0027 -->
 
-> « *Tu ne me vois pas d’où je te regarde.* »
+<div class="text-quotation">
+
+« *Tu ne me vois pas d’où je te regarde.* »
+
+</div>
 
 <!-- id: s13-19-0028 -->
 
@@ -138,7 +146,11 @@ Encore que là gît l’ambiguïté qui nous permet de remarquer que, comme il s
 
 <!-- id: s13-19-0033 -->
 
-> « *Tu ne me vois pas d’où je te regarde* »
+<div class="text-quotation">
+
+« *Tu ne me vois pas d’où je te regarde* »
+
+</div>
 
 <!-- id: s13-19-0034 -->
 
@@ -290,7 +302,7 @@ Mais il s’agit de bien autre chose dans la relation spéculaire, et ce qui fai
 
 <!-- id: s13-19-0071 -->
 
-> à la distraction j’espère, non pas au manque de travail, ou simplement au désir de ne pas s’embarrasser soi-même …est-ce qu’il n’y a pas là quelque problème au moins *soulevé*, depuis que je vous ai dit que *le (a) n’est pas spéculaire ?*
+à la distraction j’espère, non pas au manque de travail, ou simplement au désir de ne pas s’embarrasser soi-même …est-ce qu’il n’y a pas là quelque problème au moins *soulevé*, depuis que je vous ai dit que *le (a) n’est pas spéculaire ?*
 
 <!-- id: s13-19-0072 -->
 
@@ -322,7 +334,7 @@ Qu’est-ce qui ressemble plus, à cette sorte d’objet secret sous une brillan
 
 <!-- id: s13-19-0079 -->
 
-> qui est d’une part, ici représenté dans le bouquet de fleurs, voilé, caché, pris, enserré, autour de cette énorme robe du vase qui est, à la fois *image réelle*, mais *image réelle saisie au virtuel du miroir*
+qui est d’une part, ici représenté dans le bouquet de fleurs, voilé, caché, pris, enserré, autour de cette énorme robe du vase qui est, à la fois *image réelle*, mais *image réelle saisie au virtuel du miroir*
 
 <!-- id: s13-19-0080 -->
 
@@ -462,9 +474,9 @@ Quand il se produit ce quelque chose…
 
 <!-- id: s13-19-0114 -->
 
-> qui n’est bien entendu pas la psychanalyse du roi,
->
-> puisque d’abord ce serait de la fonction du roi qu’il s’agit, non pas du roi lui-même …quand vient apparaître, dans cette prise parfaite, cet objet central où viennent se conjoindre, comme dans la description de Michel FOUCAULT, ces deux lignes croisées qui départagent le tableau pour, au centre, nous isoler cette image brillante.
+qui n’est bien entendu pas la psychanalyse du roi,
+
+puisque d’abord ce serait de la fonction du roi qu’il s’agit, non pas du roi lui-même …quand vient apparaître, dans cette prise parfaite, cet objet central où viennent se conjoindre, comme dans la description de Michel FOUCAULT, ces deux lignes croisées qui départagent le tableau pour, au centre, nous isoler cette image brillante.
 
 <!-- id: s13-19-0115 -->
 

@@ -268,7 +268,7 @@ Quand je vois tel ou tel personnage…
 
 <!-- id: s15-15-0066 -->
 
-> qui heureusement écrit dans une revue obscure de sorte que ça m’évite d’avoir trop à batailler contre *un mode d’objection* qui est vraiment tout à fait lamentable …quand un personnage nous sort un certain nombre de traits auxquels il croit pouvoir donner consistance sous cette forme qu’un des effets de ce qu’il appelle *le travail du rêve*, c’est *la violence qu’il exerce* sur quelque chose dont, en fin de compte, il ne conteste pas du tout que la matière donnée soit langagière, c’est de la déformation, impliquée d’une façon tout à fait sommaire, en ce qui concerne l’incidence du désir qui caractérise le rêve. Il peut trouver, par ci par là, et sans aucune difficulté, dans les textes de FREUD lui-même, appui à ses remarques. Mais on ne peut pas dire qu’il apporte quoi que ce soit qui est le fond de la question.
+qui heureusement écrit dans une revue obscure de sorte que ça m’évite d’avoir trop à batailler contre *un mode d’objection* qui est vraiment tout à fait lamentable …quand un personnage nous sort un certain nombre de traits auxquels il croit pouvoir donner consistance sous cette forme qu’un des effets de ce qu’il appelle *le travail du rêve*, c’est *la violence qu’il exerce* sur quelque chose dont, en fin de compte, il ne conteste pas du tout que la matière donnée soit langagière, c’est de la déformation, impliquée d’une façon tout à fait sommaire, en ce qui concerne l’incidence du désir qui caractérise le rêve. Il peut trouver, par ci par là, et sans aucune difficulté, dans les textes de FREUD lui-même, appui à ses remarques. Mais on ne peut pas dire qu’il apporte quoi que ce soit qui est le fond de la question.
 
 <!-- id: s15-15-0067 -->
 
@@ -276,9 +276,9 @@ Je ne nie pas du tout que, dans le rêve, le langage…
 
 <!-- id: s15-15-0068 -->
 
-> ne serait-ce qu’en raison de la *Rücksichst auf Darstellbarkeit* [^114],
->
-> des égards dus à la nécessité de la représentation et de bien d’autres choses encore …subisse des déformations extrêmement importantes, des constructions, des distorsions, non seulement je ne nie pas, mais qui songerait à nier ?
+ne serait-ce qu’en raison de la *Rücksichst auf Darstellbarkeit* [^114],
+
+des égards dus à la nécessité de la représentation et de bien d’autres choses encore …subisse des déformations extrêmement importantes, des constructions, des distorsions, non seulement je ne nie pas, mais qui songerait à nier ?
 
 <!-- id: s15-15-0069 -->
 
@@ -310,7 +310,7 @@ La question que je croyais poser…
 
 <!-- id: s15-15-0076 -->
 
-> j’ai du mal à reprendre la synthèse de cette question …est celle-ci : ce langage qui est en même temps la voie par laquelle nous cherchons à arriver à l’inconscient et qui est en même temps l’objet que nous recherchons, ce langage quel est-il ? Et de qui est-il ?
+j’ai du mal à reprendre la synthèse de cette question …est celle-ci : ce langage qui est en même temps la voie par laquelle nous cherchons à arriver à l’inconscient et qui est en même temps l’objet que nous recherchons, ce langage quel est-il ? Et de qui est-il ?
 
 <!-- id: s15-15-0077 -->
 
@@ -330,7 +330,7 @@ Je ne dis pas que nous pouvons démontrer qu’il n’est pas acte du sujet. Le 
 
 <!-- id: s15-15-0081 -->
 
-> que jusqu’à présent personne n’est arrivé à imaginer d’une façon satisfaisante …à savoir comment a bien pu arriver un jour qu’il y en ait qui parlent.
+que jusqu’à présent personne n’est arrivé à imaginer d’une façon satisfaisante …à savoir comment a bien pu arriver un jour qu’il y en ait qui parlent.
 
 <!-- id: s15-15-0082 -->
 
@@ -422,7 +422,7 @@ Par contre, je me félicite de la présence de tous ceux qui ont bien voulu veni
 
 <!-- id: s15-15-0104 -->
 
-> car il y a aussi ici bien des gens que j’ai admis avec plaisir, encore qu’ils ne soient point analystes …faire sentir l’ampleur d’un enjeu et aussi ce qui fait que je ne peux pas dire *tout et n’importe quoi* devant n’importe quelle assistance, je veux dire dans une assistance que je repère moins que je peux le faire, à voir toutes vos figures, devant celle que j’ai aujourd’hui ici.
+car il y a aussi ici bien des gens que j’ai admis avec plaisir, encore qu’ils ne soient point analystes …faire sentir l’ampleur d’un enjeu et aussi ce qui fait que je ne peux pas dire *tout et n’importe quoi* devant n’importe quelle assistance, je veux dire dans une assistance que je repère moins que je peux le faire, à voir toutes vos figures, devant celle que j’ai aujourd’hui ici.
 
 <!-- id: s15-15-0105 -->
 
@@ -498,7 +498,7 @@ Ce « *je ne suis pas* », ça vaut la peine qu’on s’y arrête un peu, surto
 
 <!-- id: s15-15-0123 -->
 
-> *je ne sais pas si vous en êtes encore là mais ça peut vous venir* …c’est quand on s’est aperçu de l’impossibilité de dire pas du tout que « *ça soit* », puisque « *ça est* » justement, « *ça est* » que « *je ne suis pas* ».
+*je ne sais pas si vous en êtes encore là mais ça peut vous venir* …c’est quand on s’est aperçu de l’impossibilité de dire pas du tout que « *ça soit* », puisque « *ça est* » justement, « *ça est* » que « *je ne suis pas* ».
 
 <!-- id: s15-15-0124 -->
 
@@ -534,7 +534,7 @@ Je voudrais poser la question suivante : dans le cas où un homme peut faire l�
 
 <!-- id: s15-15-0132 -->
 
-> ce qui arrive aussi, il n’est pas toujours impuissant avec les femmes, quand même ! …je voudrais savoir ceci... qui implique la question suivante qui est une légère modification de l’énoncé universel que j’ai écrit : « *tous les hommes aiment la femme* » ...est-il vrai que « *tous les hommes désirent une femme* » ? Là ce n’est plus *la femme*, quand elle leur est proposée, c’est-à-dire en tant qu’*objet à leur portée*. Supposons qu’il n’y a pas d’impuissants, supposons qu’il n’y a pas de « *ravalement de la vie amoureuse* ».
+ce qui arrive aussi, il n’est pas toujours impuissant avec les femmes, quand même ! …je voudrais savoir ceci... qui implique la question suivante qui est une légère modification de l’énoncé universel que j’ai écrit : « *tous les hommes aiment la femme* » ...est-il vrai que « *tous les hommes désirent une femme* » ? Là ce n’est plus *la femme*, quand elle leur est proposée, c’est-à-dire en tant qu’*objet à leur portée*. Supposons qu’il n’y a pas d’impuissants, supposons qu’il n’y a pas de « *ravalement de la vie amoureuse* ».
 
 <!-- id: s15-15-0133 -->
 
@@ -542,7 +542,7 @@ Je pose une question qui montre bien la distinction de ce que j’appellerai *le
 
 <!-- id: s15-15-0134 -->
 
-> il faut toujours la faire intervenir, la nature dans cette occasion ! …est-ce qu’il est *naturel* qu’ils baisent ? Voilà la question. Il s’agit du naturalisme du désirable.
+il faut toujours la faire intervenir, la nature dans cette occasion ! …est-ce qu’il est *naturel* qu’ils baisent ? Voilà la question. Il s’agit du naturalisme du désirable.
 
 <!-- id: s15-15-0135 -->
 
@@ -582,11 +582,11 @@ Mais ce que je prononce aujourd’hui…
 
 <!-- id: s15-15-0144 -->
 
-> il y a un nombre remarquablement insuffisant de psychanalystes ici …c’est la question suivante : Qu’est-ce que pense « *d’instinct* »…
+il y a un nombre remarquablement insuffisant de psychanalystes ici …c’est la question suivante : Qu’est-ce que pense « *d’instinct* »…
 
 <!-- id: s15-15-0145 -->
 
-> vous pensez bien qu’un mot comme ça ne peut jamais venir dans ma bouche au hasard …le clinicien, au nom de son *instinct de clinicien* - *restera à définir ce que c’est que l’instinct de clinicien* ! - *à propos du chalet de montagne* ?
+vous pensez bien qu’un mot comme ça ne peut jamais venir dans ma bouche au hasard …le clinicien, au nom de son *instinct de clinicien* - *restera à définir ce que c’est que l’instinct de clinicien* ! - *à propos du chalet de montagne* ?
 
 <!-- id: s15-15-0146 -->
 
@@ -606,9 +606,9 @@ Si le clinicien, *l’essence clinicienne*, intervient pour *tiquer* d’une cer
 
 <!-- id: s15-15-0150 -->
 
-> qui, je vous le répète pour le psychanalyste, n’est pas du tout automatiquement
->
-> désirée par l’animal mâle quand cet animal mâle est un être parlant …cette femme se croit désirable parce que c’est ce qu’elle a de mieux à faire dans un certain embarras.
+qui, je vous le répète pour le psychanalyste, n’est pas du tout automatiquement
+
+désirée par l’animal mâle quand cet animal mâle est un être parlant …cette femme se croit désirable parce que c’est ce qu’elle a de mieux à faire dans un certain embarras.
 
 <!-- id: s15-15-0151 -->
 
@@ -672,13 +672,13 @@ Ce n’est absolument pas de cela qu’il s’agit. C’est aussi pour cela qu�
 
 <!-- id: s15-15-0166 -->
 
-> d’ailleurs, j’ai l’air de faire là une revendication féministe mais n’en croyez rien,
->
-> c’est beaucoup plus large que ça, c’est dans la structure …ceci qui la désigne, dans la dramatisation subjective de ce qu’il en est de l’acte sexuel, qui lui impose *la fonction de l’objet(a)*, pour autant qu’elle masque ce dont il s’agit, à savoir un creux, un vide, cette chose qui manque au centre, qui est cette chose que j’ai essayé de symboliser et dont on peut dire qu’il semble que *l’homme et la femme n’ont ensemble*…
+d’ailleurs, j’ai l’air de faire là une revendication féministe mais n’en croyez rien,
+
+c’est beaucoup plus large que ça, c’est dans la structure …ceci qui la désigne, dans la dramatisation subjective de ce qu’il en est de l’acte sexuel, qui lui impose *la fonction de l’objet(a)*, pour autant qu’elle masque ce dont il s’agit, à savoir un creux, un vide, cette chose qui manque au centre, qui est cette chose que j’ai essayé de symboliser et dont on peut dire qu’il semble que *l’homme et la femme n’ont ensemble*…
 
 <!-- id: s15-15-0167 -->
 
-> et retenez le choix des termes dont je me suis servi …*rien à voir*.
+et retenez le choix des termes dont je me suis servi …*rien à voir*.
 
 <!-- id: s15-15-0168 -->
 
@@ -714,11 +714,11 @@ Le point où j’en suis quand je vous dis que la règle pour que l’analyste �
 
 <!-- id: s15-15-0176 -->
 
-> je lui indiquai la dernière fois dans mon dernier discours, à la pointe de ce que j’ai dit la dernière fois devant ce que j’appelle un public plus large …cette référence que j’ai empruntée au discours d’une année précédente, à savoir je ne dirai pas l’apologue…
+je lui indiquai la dernière fois dans mon dernier discours, à la pointe de ce que j’ai dit la dernière fois devant ce que j’appelle un public plus large …cette référence que j’ai empruntée au discours d’une année précédente, à savoir je ne dirai pas l’apologue…
 
 <!-- id: s15-15-0177 -->
 
-> car je ne fais jamais d’apologue, je vous montre *la* *réalité* de ce qu’il en est *pour l’analyste*, figurée dans d’autres exemples et dont ce n’est pas étonnant que ce soient des exemples pris dans l’art par exemple …à savoir *pour avoir une autre espèce de connaissance que cette espèce de connaissance de fiction qui est la sienne* et qui le paralyse…
+car je ne fais jamais d’apologue, je vous montre *la* *réalité* de ce qu’il en est *pour l’analyste*, figurée dans d’autres exemples et dont ce n’est pas étonnant que ce soient des exemples pris dans l’art par exemple …à savoir *pour avoir une autre espèce de connaissance que cette espèce de connaissance de fiction qui est la sienne* et qui le paralyse…
 
 <!-- id: s15-15-0178 -->
 
@@ -738,7 +738,7 @@ Le point où j’en suis quand je vous dis que la règle pour que l’analyste �
 
 <!-- id: s15-15-0182 -->
 
-> de la même façon que VELÀZQUEZ est dans le tableau des *Ménines* …où lui il était, l’analyste, déjà à tel moment et en tel point de l’histoire du sujet.
+de la même façon que VELÀZQUEZ est dans le tableau des *Ménines* …où lui il était, l’analyste, déjà à tel moment et en tel point de l’histoire du sujet.
 
 <!-- id: s15-15-0183 -->
 
@@ -830,11 +830,11 @@ Ce qui fait le statut de l’analyste c’est en effet une vie qui mérite d’�
 
 <!-- id: s15-15-0205 -->
 
-> elle est construite pour ça, l’autorisation, l’investiture de l’analyse, sa hiérarchie, la montée de son *gradus* …de façon telle qu’au niveau où, pour lui, ça peut avoir des conséquences, cette fonction, la sienne…
+elle est construite pour ça, l’autorisation, l’investiture de l’analyse, sa hiérarchie, la montée de son *gradus* …de façon telle qu’au niveau où, pour lui, ça peut avoir des conséquences, cette fonction, la sienne…
 
 <!-- id: s15-15-0206 -->
 
-> la plus scabreuse de toutes qui est celle d’occuper la place de cet *objet(a)* …ça lui permet de conserver néanmoins, stables et permanentes, toutes les fictions les plus incompatibles avec ce qu’il en est de son expérience de discours fondamental qui l’institue comme fait.
+la plus scabreuse de toutes qui est celle d’occuper la place de cet *objet(a)* …ça lui permet de conserver néanmoins, stables et permanentes, toutes les fictions les plus incompatibles avec ce qu’il en est de son expérience de discours fondamental qui l’institue comme fait.
 
 <!-- id: s15-15-0207 -->
 

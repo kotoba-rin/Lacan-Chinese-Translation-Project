@@ -10,11 +10,11 @@ Il y a des gens bien intentionnés à mon endroit...
 
 <!-- id: s24-09-0002 -->
 
-> et déjà ça soulè­ve une montagne de problèmes :
->
-> qu’est-ce qui peut bien faire que des gens soient bien intentionnés à mon endroit ?
->
-> C’est qu’ils ne me connaissent pas ! Car, quant à moi, je ne suis pas plein de bonnes inten­tions ...enfin ces bien intentionnés m’ont quelquefois écrit des lettres tendant – enfin, c’était écrit – c’était écrit que mon bafouillage de la dernière fois concernant le discours que j’appelle « *analytique »*, était un lapsus.
+et déjà ça soulè­ve une montagne de problèmes :
+
+qu’est-ce qui peut bien faire que des gens soient bien intentionnés à mon endroit ?
+
+C’est qu’ils ne me connaissent pas ! Car, quant à moi, je ne suis pas plein de bonnes inten­tions ...enfin ces bien intentionnés m’ont quelquefois écrit des lettres tendant – enfin, c’était écrit – c’était écrit que mon bafouillage de la dernière fois concernant le discours que j’appelle « *analytique »*, était un lapsus.
 
 <!-- id: s24-09-0003 -->
 
@@ -38,7 +38,7 @@ L’ennuyeux c’est que là où j’ai fait *lapsus*...
 
 <!-- id: s24-09-0008 -->
 
-> où je suis censé avoir fait *lapsus* ...c’est en matière, si je puis dire, en matière d’*écrit*, que j’ai fait *lapsus*.
+où je suis censé avoir fait *lapsus* ...c’est en matière, si je puis dire, en matière d’*écrit*, que j’ai fait *lapsus*.
 
 <!-- id: s24-09-0009 -->
 
@@ -78,9 +78,9 @@ Madame Kress-Rosen a eu la bonté de dire hier soir, presque ce que je voulais d
 
 <!-- id: s24-09-0018 -->
 
-> dont il n’est d’ailleurs plus question que je la rencontre,
->
-> puisque c’est une personne à qui j’ai demandé de télépho­ner chez moi, et qui ne l’a pas fait ...c’est quelqu’un qui fait partie de la radio allemande, je ne sais pas très bien, je ne sais pas son nom à la véri­té, mais elle m’a demandé - paraît-il sur l’avis de Roman Jakobson - de répondre quelque chose sur ce qui le concerne.
+dont il n’est d’ailleurs plus question que je la rencontre,
+
+puisque c’est une personne à qui j’ai demandé de télépho­ner chez moi, et qui ne l’a pas fait ...c’est quelqu’un qui fait partie de la radio allemande, je ne sais pas très bien, je ne sais pas son nom à la véri­té, mais elle m’a demandé - paraît-il sur l’avis de Roman Jakobson - de répondre quelque chose sur ce qui le concerne.
 
 <!-- id: s24-09-0019 -->
 
@@ -88,7 +88,7 @@ Mon premier sentiment était de dire que ce que j’appelle « *la linguisterie
 
 <!-- id: s24-09-0020 -->
 
-> Madame Kress-Rosen a fait un sort à cette appellation ...que ce que j’appelle « *la linguisterie »* exige la psychanalyse pour être soutenue.
+Madame Kress-Rosen a fait un sort à cette appellation ...que ce que j’appelle « *la linguisterie »* exige la psychanalyse pour être soutenue.
 
 <!-- id: s24-09-0021 -->
 
@@ -104,9 +104,9 @@ depuis le *Cratyle*, depuis Donat, depuis Priscien, ...qu’on en a toujours fai
 
 <!-- id: s24-09-0024 -->
 
-> je m’en suis aperçu à propos de ce **S<sub>1</sub>** et de cet **S<sub>2</sub>** qui sont séparés
->
-> dans la notation correcte de ce que j’ai appelé *discours psychanalytique* ...je pense que malgré tout vous vous êtes un peu infor­més auprès des Belges, et que le fait que j’ai parlé de *la psychanalyse comme* *pouvant être une escroquerie*, est parvenu à vos oreilles, je dirais même que j’y insistais en parlant de ce **S<sub>1</sub>** qui paraît promettre un **S<sub>2</sub>**.
+je m’en suis aperçu à propos de ce **S<sub>1</sub>** et de cet **S<sub>2</sub>** qui sont séparés
+
+dans la notation correcte de ce que j’ai appelé *discours psychanalytique* ...je pense que malgré tout vous vous êtes un peu infor­més auprès des Belges, et que le fait que j’ai parlé de *la psychanalyse comme* *pouvant être une escroquerie*, est parvenu à vos oreilles, je dirais même que j’y insistais en parlant de ce **S<sub>1</sub>** qui paraît promettre un **S<sub>2</sub>**.
 
 <!-- id: s24-09-0025 -->
 
@@ -114,7 +114,7 @@ Il faut quand même à ce moment-là se souvenir de ce que j’ai dit concernant
 
 <!-- id: s24-09-0026 -->
 
-> c’est à savoir le rapport de cet **S<sub>1</sub>** avec cet **S<sub>2</sub>** ...j’ai dit, dans son temps : « *qu’un signifiant était ce qui représente le sujet auprès d’un autre signifiant »*.
+c’est à savoir le rapport de cet **S<sub>1</sub>** avec cet **S<sub>2</sub>** ...j’ai dit, dans son temps : « *qu’un signifiant était ce qui représente le sujet auprès d’un autre signifiant »*.
 
 <!-- id: s24-09-0027 -->
 
@@ -146,9 +146,9 @@ Je pense que M<sup>me</sup> Kress-Rosen ne me contredira pas...
 
 <!-- id: s24-09-0034 -->
 
-> si elle veut s’y opposer d’une façon quelconque,
->
-> elle est tout à fait libre de me faire signe puisque, je le répète, je me félicite qu’elle soit là ...la psychanalyse n’est pas - je dirai - plus une escroquerie que la poésie elle-même, et la poésie se fonde précisément sur cette ambiguïté dont je parle et que je qualifie du « *sens double* ».
+si elle veut s’y opposer d’une façon quelconque,
+
+elle est tout à fait libre de me faire signe puisque, je le répète, je me félicite qu’elle soit là ...la psychanalyse n’est pas - je dirai - plus une escroquerie que la poésie elle-même, et la poésie se fonde précisément sur cette ambiguïté dont je parle et que je qualifie du « *sens double* ».
 
 <!-- id: s24-09-0035 -->
 
@@ -168,9 +168,9 @@ Il reste quand même que son départ...
 
 <!-- id: s24-09-0039 -->
 
-> à savoir que la langue est le fruit d’une maturation,
->
-> d’un mûrissement de quelque chose qui se cristallise dans l’usage ...il reste que *la poésie relève d’une violence* faite à cet usage et que - nous en avons des preuves - si j’ai évoqué la dernière fois Dante et *la poésie amoureuse*, c’est bien *pour marquer cette violence que la philosophie fait tout pour effacer*.
+à savoir que la langue est le fruit d’une maturation,
+
+d’un mûrissement de quelque chose qui se cristallise dans l’usage ...il reste que *la poésie relève d’une violence* faite à cet usage et que - nous en avons des preuves - si j’ai évoqué la dernière fois Dante et *la poésie amoureuse*, c’est bien *pour marquer cette violence que la philosophie fait tout pour effacer*.
 
 <!-- id: s24-09-0040 -->
 
@@ -182,7 +182,7 @@ C’est bien en quoi la philosophie est le champ d’essai de l’escroquerie et
 
 <!-- id: s24-09-0042 -->
 
-> peut-être le premier, et je ne vois pas pourquoi je m’en ferai un titre ...*le rapport sexuel *: *il n’y en a pas*, je veux dire à proprement parler, au sens où il y aurait quelque chose qui ferait qu’un homme reconnaîtrait forcément une femme.
+peut-être le premier, et je ne vois pas pourquoi je m’en ferai un titre ...*le rapport sexuel *: *il n’y en a pas*, je veux dire à proprement parler, au sens où il y aurait quelque chose qui ferait qu’un homme reconnaîtrait forcément une femme.
 
 <!-- id: s24-09-0043 -->
 
@@ -194,7 +194,7 @@ C’est certain que moi, j’ai cette faiblesse de la reconnaître « *la *»,
 
 <!-- id: s24-09-0045 -->
 
-> mais il faut tout de même bien dire que ça ne va pas de soi
+mais il faut tout de même bien dire que ça ne va pas de soi
 
 <!-- id: s24-09-0046 -->
 
@@ -202,7 +202,7 @@ C’est certain que moi, j’ai cette faiblesse de la reconnaître « *la *»,
 
 <!-- id: s24-09-0047 -->
 
-> c’est très exac­tement ce qu’a avancé Freud
+c’est très exac­tement ce qu’a avancé Freud
 
 <!-- id: s24-09-0048 -->
 
@@ -254,7 +254,7 @@ Il y a une chose qu’il faut noter au passage, c’est que comme je l’ai fait
 
 <!-- id: s24-09-0060 -->
 
-> *la dernière fois*, je veux dire dans son local même, à Jussieu, celui dont je vous ai parlé la dernière fois ...je lui ai fait remarquer que le tore retournable dont il fait l’approche du nœud borroméen, est quelque chose qui, pour le nœud en question, suppose qu’un seul tore est retourné.
+*la dernière fois*, je veux dire dans son local même, à Jussieu, celui dont je vous ai parlé la dernière fois ...je lui ai fait remarquer que le tore retournable dont il fait l’approche du nœud borroméen, est quelque chose qui, pour le nœud en question, suppose qu’un seul tore est retourné.
 
 <!-- id: s24-09-0061 -->
 
@@ -270,7 +270,7 @@ Il n’est donc pas surprenant d’énoncer à propos de ce tore...
 
 <!-- id: s24-09-0064 -->
 
-> de ce tore qui part d’un nœud borroméen triple ...de ce tore - si vous le retournez - de qualifier ce qui est *dans le tore* - dans le tore du Symbolique - de *symboli­quement réel.*
+de ce tore qui part d’un nœud borroméen triple ...de ce tore - si vous le retournez - de qualifier ce qui est *dans le tore* - dans le tore du Symbolique - de *symboli­quement réel.*
 
 <!-- id: s24-09-0065 -->
 
@@ -286,7 +286,7 @@ Au lieu que le *symboliquement réel* ...
 
 <!-- id: s24-09-0068 -->
 
-> je veux dire ce qui du *Réel* se connote à l’intérieur du *Symbolique* ...c’est ce qu’on appelle l’*angoisse*.
+je veux dire ce qui du *Réel* se connote à l’intérieur du *Symbolique* ...c’est ce qu’on appelle l’*angoisse*.
 
 <!-- id: s24-09-0069 -->
 
@@ -298,7 +298,7 @@ Alors je vais quand même vous noter en passant ce qui est *symboli­quement ima
 
 <!-- id: s24-09-0071 -->
 
-> le fameux *mos geome­tricus* dont on a fait tant état ...c’est la *géométrie des anges*, c’est-à-dire quelque chose qui malgré l’Écriture n’existe pas.
+le fameux *mos geome­tricus* dont on a fait tant état ...c’est la *géométrie des anges*, c’est-à-dire quelque chose qui malgré l’Écriture n’existe pas.
 
 <!-- id: s24-09-0072 -->
 

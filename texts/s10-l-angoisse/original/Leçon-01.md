@@ -84,8 +84,8 @@ n’est peut-être pas si externe qu’on le croit et méritait d’être rappel
 
 <!-- id: s10-01-0016 -->
 
-> je dirai jusqu’à un certain point la réflexion par laquelle j’ai introduit mon discours tout à l’heure, celle qui a été faite par un de mes proches, je veux dire dans notre *Société*
-> ...*l’angoisse* ne semble pas être ce qui vous étouffe, j’entends, comme psychanalystes.
+je dirai jusqu’à un certain point la réflexion par laquelle j’ai introduit mon discours tout à l’heure, celle qui a été faite par un de mes proches, je veux dire dans notre *Société*
+...*l’angoisse* ne semble pas être ce qui vous étouffe, j’entends, comme psychanalystes.
 
 <!-- id: s10-01-0017 -->
 
@@ -204,13 +204,13 @@ Mais au début de ce discours, je tiens à dire qu’il me semble que dans cette
 
 <!-- id: s10-01-0037 -->
 
-> pour autant que de son patron, nommé le premier à ceux dont j’ai pu avancer le nom,
->
-> incontestablement se marque quelque dégradation
-> ...il me semble la voir, cette philosophie, *marquée dirais-je*, de quelque hâte d’elle-même méconnue,
-> *marquée dirais-je*, de quelque désarroi par rapport à une réfé­rence qui est celle à quoi, à la même époque,
-> le mouvement de la pensée se confine : *la référence à l’histoire*.
-> C’est *d’un désarroi* - au sens étymologique du terme[^3] - par rapport à cette référence, que naît et se précipite *la réflexion existentialiste*.
+pour autant que de son patron, nommé le premier à ceux dont j’ai pu avancer le nom,
+
+incontestablement se marque quelque dégradation
+...il me semble la voir, cette philosophie, *marquée dirais-je*, de quelque hâte d’elle-même méconnue,
+*marquée dirais-je*, de quelque désarroi par rapport à une réfé­rence qui est celle à quoi, à la même époque,
+le mouvement de la pensée se confine : *la référence à l’histoire*.
+C’est *d’un désarroi* - au sens étymologique du terme[^3] - par rapport à cette référence, que naît et se précipite *la réflexion existentialiste*.
 
 <!-- id: s10-01-0038 -->
 
@@ -236,10 +236,10 @@ C’est précisément en fonction de cela que M. Sartre[^4] s’est beaucoup occ
 
 <!-- id: s10-01-0042 -->
 
-> les philosophes qui nous observent, sur le point où nous en venons \[s’interrogent\] :
->
-> « *les analystes seront-ils à la hauteur de ce que nous faisons de l’an­goisse ?* »
-> *...il y a* Heidegger[^5].
+les philosophes qui nous observent, sur le point où nous en venons \[s’interrogent\] :
+
+« *les analystes seront-ils à la hauteur de ce que nous faisons de l’an­goisse ?* »
+*...il y a* Heidegger[^5].
 
 <!-- id: s10-01-0043 -->
 
@@ -252,10 +252,10 @@ c’est bien de lui, de sa déréliction originelle que j’étais le plus près
 
 <!-- id: s10-01-0045 -->
 
-> qui est la voie d’ac­cès par où Heidegger, dans son discours rompu,
->
-> nous mène à son interro­gation présente et énigmatique sur *l’être de l’étant*
-> *...*je crois, ne passe pas vraiment par l’angoisse.
+qui est la voie d’ac­cès par où Heidegger, dans son discours rompu,
+
+nous mène à son interro­gation présente et énigmatique sur *l’être de l’étant*
+*...*je crois, ne passe pas vraiment par l’angoisse.
 
 <!-- id: s10-01-0046 -->
 
@@ -275,12 +275,12 @@ Mais qu’il me soit arrivé hier soir un travail...
 
 <!-- id: s10-01-0049 -->
 
-> dont j’avais demandé à quelqu’un d’entre vous[^6] d’avoir le texte,
->
-> voire de m’orien­ter à propos d’une question que lui-même m’avait posée
-> ...travail que je lui avais dit attendre avant de commencer ici mon discours,
-> le fait qu’il m’ait été ainsi apporté en quelque sorte *à temps*, même si je n’ai pas pu depuis *en prendre connaissance*,
-> comme après-tout aussi *je viens ici répondre à temps à votre attente*, est-ce là un mouvement *de nature* en soi-même *à susciter l’angoisse* ?
+dont j’avais demandé à quelqu’un d’entre vous[^6] d’avoir le texte,
+
+voire de m’orien­ter à propos d’une question que lui-même m’avait posée
+...travail que je lui avais dit attendre avant de commencer ici mon discours,
+le fait qu’il m’ait été ainsi apporté en quelque sorte *à temps*, même si je n’ai pas pu depuis *en prendre connaissance*,
+comme après-tout aussi *je viens ici répondre à temps à votre attente*, est-ce là un mouvement *de nature* en soi-même *à susciter l’angoisse* ?
 
 <!-- id: s10-01-0050 -->
 
@@ -346,7 +346,7 @@ Travailler sans filet évoque le funambule. Je ne prends comme corde que le titr
 
 <!-- id: s10-01-0062 -->
 
-> Inhibition,
+Inhibition,
 
 <!-- id: s10-01-0063 -->
 
@@ -371,9 +371,9 @@ L’inhibition, c’est quelque chose qui est, au sens le plus large de ce terme
 
 <!-- id: s10-01-0067 -->
 
-> je n’entrerai pas dans le texte
-> ...tout de même vous vous en souvenez assez pour voir qu’il ne put pas faire autre­ment que de parler de la locomotion
-> au moment où il introduit ce terme.
+je n’entrerai pas dans le texte
+...tout de même vous vous en souvenez assez pour voir qu’il ne put pas faire autre­ment que de parler de la locomotion
+au moment où il introduit ce terme.
 
 <!-- id: s10-01-0068 -->
 
@@ -388,10 +388,10 @@ Je ne vois pas pourquoi nous ne mettrions pas...
 
 <!-- id: s10-01-0070 -->
 
-> dans une *matrice* qui doit nous permettre de distinguer les dimensions
->
-> dont il s’agit dans une notion à nous si familière
-> ...nous ne mettrions pas :
+dans une *matrice* qui doit nous permettre de distinguer les dimensions
+
+dont il s’agit dans une notion à nous si familière
+...nous ne mettrions pas :
 
 <!-- id: s10-01-0071 -->
 
@@ -429,16 +429,16 @@ Et si on regarde ce que ça veut dire « *être empêché* »...
 
 <!-- id: s10-01-0079 -->
 
-> sachez-le bien ceci n’implique nulle superstition du côté de l’étymologie, je m’en sers quand elle me sert
-> ...tout de même « *impedicare* » ça veut dire *être pris au piège*. Et ça, c’est une notion extrêmement précieu­se,
-> car cela implique le rapport d’une dimension à quelque chose d’autre qui vient y interférer *et qui empêche*...
+sachez-le bien ceci n’implique nulle superstition du côté de l’étymologie, je m’en sers quand elle me sert
+...tout de même « *impedicare* » ça veut dire *être pris au piège*. Et ça, c’est une notion extrêmement précieu­se,
+car cela implique le rapport d’une dimension à quelque chose d’autre qui vient y interférer *et qui empêche*...
 
 <!-- id: s10-01-0080 -->
 
-> ce qui nous intéresse, ce qui nous rap­proche de ce que nous cherchons,
->
-> à savoir ce qui se passe sous la forme, sous le nom d’« *angoisse* »
-> ...non pas la fonction, terme de référence, non pas le mouvement, rendu difficile - mais *le sujet*.
+ce qui nous intéresse, ce qui nous rap­proche de ce que nous cherchons,
+
+à savoir ce qui se passe sous la forme, sous le nom d’« *angoisse* »
+...non pas la fonction, terme de référence, non pas le mouvement, rendu difficile - mais *le sujet*.
 
 <!-- id: s10-01-0081 -->
 
@@ -497,9 +497,9 @@ de curieuses références qu’on trouve, si je suis bien informé, dans de nomb
 
 <!-- id: s10-01-0091 -->
 
-> il n’y a pas d’Espagnols ici ? - tant pis
-> ...car on m’affirme que *l’embarazada -* sans recourir au patois - veut dire la femme enceinte en espagnol.
-> Ce qui est une autre forme bien significative de *la barre* à sa place.
+il n’y a pas d’Espagnols ici ? - tant pis
+...car on m’affirme que *l’embarazada -* sans recourir au patois - veut dire la femme enceinte en espagnol.
+Ce qui est une autre forme bien significative de *la barre* à sa place.
 
 <!-- id: s10-01-0092 -->
 
@@ -512,8 +512,8 @@ C’est l’émotion d’abord. *L’émotion*...
 
 <!-- id: s10-01-0094 -->
 
-> vous me pardonnerez de continuer à me fier à une étymologie qui m’a été jusqu’à maintenant si propice
-> ...*l’émotion*, de fait, étymologiquement, se réfère au mouvement.
+vous me pardonnerez de continuer à me fier à une étymologie qui m’a été jusqu’à maintenant si propice
+...*l’émotion*, de fait, étymologiquement, se réfère au mouvement.
 
 <!-- id: s10-01-0095 -->
 
@@ -543,8 +543,8 @@ Le fait par exemple *qu’on ait pu*...
 
 <!-- id: s10-01-0101 -->
 
-> et qu’on le fasse d’ailleurs sans scrupules
-> ...*se servir de la même référence à* « *la réaction catastro­phique* » *pour désigner la crise hystérique en tant que telle*, *ou enco­re la colère dans d’autres cas*, prouve tout de même assez que ça ne saurait suffire à distinguer, à épingler, à pointer où est l’angoisse.
+et qu’on le fasse d’ailleurs sans scrupules
+...*se servir de la même référence à* « *la réaction catastro­phique* » *pour désigner la crise hystérique en tant que telle*, *ou enco­re la colère dans d’autres cas*, prouve tout de même assez que ça ne saurait suffire à distinguer, à épingler, à pointer où est l’angoisse.
 
 <!-- id: s10-01-0102 -->
 
@@ -567,13 +567,13 @@ Le sentiment linguistique, comme s’expriment Messieurs Bloch et Von Wartburg
 
 <!-- id: s10-01-0105 -->
 
-> je m’excuse si cela fait double emploi avec ce que je vais vous dire main­tenant,
->
-> d’autant plus double emploi que ce que je vais vous dire en est la citation textuelle,
->
-> je prends mon bien où je le trouve, n’en déplaise à qui­conque
-> ...Messieurs Bloch et Von Wartburg *disent donc que le sentiment linguistique a rapproché ce terme du mot juste : du mot « émouvoir ».*
-> Or détrompez-vous, il n’en est rien. *L’« émoi »* n’a rien à faire avec *l’émotion* pour qui d’ailleurs sait s’en servir.
+je m’excuse si cela fait double emploi avec ce que je vais vous dire main­tenant,
+
+d’autant plus double emploi que ce que je vais vous dire en est la citation textuelle,
+
+je prends mon bien où je le trouve, n’en déplaise à qui­conque
+...Messieurs Bloch et Von Wartburg *disent donc que le sentiment linguistique a rapproché ce terme du mot juste : du mot « émouvoir ».*
+Or détrompez-vous, il n’en est rien. *L’« émoi »* n’a rien à faire avec *l’émotion* pour qui d’ailleurs sait s’en servir.
 
 <!-- id: s10-01-0106 -->
 
@@ -581,8 +581,12 @@ En tout cas, apprenez - j’irai vite - que le terme « *esmayer* », qu’avant
 
 <!-- id: s10-01-0107 -->
 
-> « *esmais* », si vous voulez le savoir, est déjà attesté au treizième siècle
-> ...n’ont connu... pour m’exprimer avec les auteurs : *n’ont triomphé qu’au seizième*.
+<div class="text-quotation">
+
+« *esmais* », si vous voulez le savoir, est déjà attesté au treizième siècle
+...n’ont connu... pour m’exprimer avec les auteurs : *n’ont triomphé qu’au seizième*.
+
+</div>
 
 <!-- id: s10-01-0108 -->
 
@@ -623,8 +627,8 @@ Je me remparderai aussi de cette enquête étymologique pour vous dire que jusqu
 
 <!-- id: s10-01-0115 -->
 
-> à peu près la même que ce qu’on appelle dans Bloch et Von Wartburg « *le triomphe de l’émoi* »
-> ...« *émeute* » justement a eu le sens d’*émotion* et n’a pris le sens de *mouvement populaire* qu’à peu près à partir du dix-septième siècle.
+à peu près la même que ce qu’on appelle dans Bloch et Von Wartburg « *le triomphe de l’émoi* »
+...« *émeute* » justement a eu le sens d’*émotion* et n’a pris le sens de *mouvement populaire* qu’à peu près à partir du dix-septième siècle.
 
 <!-- id: s10-01-0116 -->
 
@@ -709,8 +713,8 @@ Ce que j’ai dit par contre de *l’affect,* c’est qu’il *n’est pas refou
 
 <!-- id: s10-01-0133 -->
 
-> et ça, Freud le dit comme moi
-> ..*il est désarrimé, il s’en va à la dérive.* On le retrouve déplacé, fou, inversé, métabolisé, mais il n’est pas refoulé.
+et ça, Freud le dit comme moi
+..*il est désarrimé, il s’en va à la dérive.* On le retrouve déplacé, fou, inversé, métabolisé, mais il n’est pas refoulé.
 
 <!-- id: s10-01-0134 -->
 
@@ -729,8 +733,8 @@ Quand, au niveau de l’Autre, du signifiant...
 
 <!-- id: s10-01-0137 -->
 
-> c’est-à-dire tou­jours plus ou moins de la foi et de la bonne foi
-> ...on ne joue pas le jeu. C’est ça qui suscite la colère.
+c’est-à-dire tou­jours plus ou moins de la foi et de la bonne foi
+...on ne joue pas le jeu. C’est ça qui suscite la colère.
 
 <!-- id: s10-01-0138 -->
 
@@ -754,10 +758,10 @@ mais une praxis qui mérite un nom : érotologie.
 
 <!-- id: s10-01-0141 -->
 
-> par où nous sommes sollicités, peut-être, à faire surgir tout ce qu’il comporte comme conséquence universelle,
->
-> non pas générale sur la théorie des affects
-> ...c’est l’angoisse.
+par où nous sommes sollicités, peut-être, à faire surgir tout ce qu’il comporte comme conséquence universelle,
+
+non pas générale sur la théorie des affects
+...c’est l’angoisse.
 
 <!-- id: s10-01-0142 -->
 

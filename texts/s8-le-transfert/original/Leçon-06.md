@@ -162,9 +162,13 @@ Remarquez-le encore, il n’a pas de disciples, mais plutôt *des familiers, des
 
 <!-- id: s8-06-0040 -->
 
-> « *Un tel l’a recueilli d’un tel qui était là, à partir de telle ou telle visite où ils ont mené tel ou tel débat.* »
->
-> « *L’enregistrement sur cervelle, là je l’ai en première, là en seconde édition* ».
+<div class="text-quotation">
+
+« *Un tel l’a recueilli d’un tel qui était là, à partir de telle ou telle visite où ils ont mené tel ou tel débat.* »
+
+« *L’enregistrement sur cervelle, là je l’ai en première, là en seconde édition* ».
+
+</div>
 
 <!-- id: s8-06-0041 -->
 

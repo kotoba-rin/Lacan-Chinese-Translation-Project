@@ -260,8 +260,8 @@ J’insiste sur ce caractère de *marque* qui a d’ailleurs…
 
 <!-- id: s5-17-0052 -->
 
-> dans toutes les autres mani­festations que les manifestations analytiques, interprétatives, significatives, et bien certainement dans tout ce qui l’incarne cérémoniellement, rituellement, sociologiquement
-> …ce caractère d’être le signe de tout ce qui supporte cette relation castratrice dont nous avons commencé
+dans toutes les autres mani­festations que les manifestations analytiques, interprétatives, significatives, et bien certainement dans tout ce qui l’incarne cérémoniellement, rituellement, sociologiquement
+…ce caractère d’être le signe de tout ce qui supporte cette relation castratrice dont nous avons commencé
 
 <!-- id: s5-17-0053 -->
 
@@ -276,7 +276,11 @@ une certaine phase qui, d’une façon non ambiguë, se présente comme une phas
 
 <!-- id: s5-17-0055 -->
 
-> « *Voilà, nous y sommes ! La marque, pas difficile de la ren­contrer !* »
+<div class="text-quotation">
+
+« *Voilà, nous y sommes ! La marque, pas difficile de la ren­contrer !* »
+
+</div>
 
 <!-- id: s5-17-0056 -->
 
@@ -448,7 +452,7 @@ d’une pensée qui jusqu’à lui, concernant l’homme, reste une pensée que 
 
 <!-- id: s5-17-0094 -->
 
-> au premier plan duquel nous devons mettre ce caractère non seulement inadapté, inadaptable mais fonda­mentalement perverti, marqué.
+au premier plan duquel nous devons mettre ce caractère non seulement inadapté, inadaptable mais fonda­mentalement perverti, marqué.
 
 <!-- id: s5-17-0095 -->
 
@@ -702,7 +706,7 @@ C’est tout ce que cela veut dire.
 
 <!-- id: s5-17-0145 -->
 
-> <img src="assets/image77.jpeg" style="width:1.14583in;height:1.15588in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S3\1.jpg" />
+<img src="assets/image77.jpeg" style="width:1.14583in;height:1.15588in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S3\1.jpg" />
 
 <!-- id: s5-17-0146 -->
 

@@ -54,15 +54,15 @@ C’est pas mal et ça suppose...
 
 <!-- id: s21-08-0013 -->
 
-> je ne viens de l’avoir qu’il y a deux jours ...ça suppose que quelqu’un, le Hintikka en question, m’avait devancé...
+je ne viens de l’avoir qu’il y a deux jours ...ça suppose que quelqu’un, le Hintikka en question, m’avait devancé...
 
 <!-- id: s21-08-0014 -->
 
-> m’avait devancé depuis longtemps puisque son bouquin a non seulement été écrit, mais est sorti ...m’avait devancé depuis longtemps sur ce que je vous faisais remarquer la dernière fois, que l’*Organon* d’Aristote, ça vaut la peine d’être lu parce que le moins qu’on puisse dire c’est que ça vous cassera la tête, et que ce qui est difficile c’est bien de savoir...
+m’avait devancé depuis longtemps puisque son bouquin a non seulement été écrit, mais est sorti ...m’avait devancé depuis longtemps sur ce que je vous faisais remarquer la dernière fois, que l’*Organon* d’Aristote, ça vaut la peine d’être lu parce que le moins qu’on puisse dire c’est que ça vous cassera la tête, et que ce qui est difficile c’est bien de savoir...
 
 <!-- id: s21-08-0015 -->
 
-> chez un « *frayeur »*, comme je l’ai appelé, comme Aristote ...c’est bien de savoir pourquoi il a choisi ces termes-là et pas d’autres. Voilà ! Il a choisi ceux-là et pas d’autres parce que...
+chez un « *frayeur »*, comme je l’ai appelé, comme Aristote ...c’est bien de savoir pourquoi il a choisi ces termes-là et pas d’autres. Voilà ! Il a choisi ceux-là et pas d’autres parce que...
 
 <!-- id: s21-08-0016 -->
 
@@ -174,7 +174,7 @@ Sauf le premier jour où, comme ça, happé par le bras, enfin, dans cette thès
 
 <!-- id: s21-08-0043 -->
 
-> où il est François Wahl ? Je sais pas mais enfin qu’importe, il est peut-être là, il n’y est peut-être pas ...mais enfin s’il est là je fais remarquer que j’ai promis un jour publiquement, comme ça, cédant à une pression tendre, que je la republierai cette thèse, je l’ai dit - ça leur suffit - au Seuil.
+où il est François Wahl ? Je sais pas mais enfin qu’importe, il est peut-être là, il n’y est peut-être pas ...mais enfin s’il est là je fais remarquer que j’ai promis un jour publiquement, comme ça, cédant à une pression tendre, que je la republierai cette thèse, je l’ai dit - ça leur suffit - au Seuil.
 
 <!-- id: s21-08-0044 -->
 
@@ -230,11 +230,11 @@ Quoi qu’il en soit, *science,* donc, *sans conscience*. Il y a quelqu’un qui
 
 <!-- id: s21-08-0057 -->
 
-> il s’appelait Rabelais, c’était quelqu’un de particulièrement astucieux,
->
-> et il suffit de lire ce qu’il a écrit pour s’en apercevoir.
->
-> Écrire ce qu’a écrit Rabelais, c’est comme pour ce que je *dis *: *« il faut le faire !* »
+il s’appelait Rabelais, c’était quelqu’un de particulièrement astucieux,
+
+et il suffit de lire ce qu’il a écrit pour s’en apercevoir.
+
+Écrire ce qu’a écrit Rabelais, c’est comme pour ce que je *dis *: *« il faut le faire !* »
 
 <!-- id: s21-08-0058 -->
 
@@ -250,7 +250,7 @@ Vous ne vous aper­cevez sans doute pas que : que je dise que « *ça fout l�
 
 <!-- id: s21-08-0061 -->
 
-> c’est-à-­dire que ça la rend complètement inutile ...c’est exactement la même chose que ce que je viens de vous dire en vous disant : *que révéler la vérité au monde, c’est révéler le monde à lui-même*. Ça veut dire qu’il n’y a pas plus de « *monde »* que d’« *âme »*.
+c’est-à-­dire que ça la rend complètement inutile ...c’est exactement la même chose que ce que je viens de vous dire en vous disant : *que révéler la vérité au monde, c’est révéler le monde à lui-même*. Ça veut dire qu’il n’y a pas plus de « *monde »* que d’« *âme »*.
 
 <!-- id: s21-08-0062 -->
 
@@ -270,13 +270,13 @@ C’est bien pour ça qu’il y faut un pas de plus dans la logique, et s’aper
 
 <!-- id: s21-08-0066 -->
 
-> c’est même là-dessus que repose le balayage qu’elle constitue, c’est de voir ce que ça va donner si vous écrivez,
->
-> c’est comme ça qu’ils écrivent là-dedans : savoir de a, petit a...
->
-> c’est pas si mal choisi, ce petit a, enfin c’est un hasard si c’est le même que le mien
->
-> ...savoir de petit a, il faudrait évidemment le com­menter, là il désigne le sujet. Bien sûr qu’ils ne savent pas que le sujet c’est ce dont *petit(a)* est la cause, mais enfin c’est un fait qu’ils l’écrivent comme ça S de petit *a*, α  : S(*a,* α) ...la logique épistémique part de ceci que *le savoir* c’est forcément *savoir le vrai*.
+c’est même là-dessus que repose le balayage qu’elle constitue, c’est de voir ce que ça va donner si vous écrivez,
+
+c’est comme ça qu’ils écrivent là-dedans : savoir de a, petit a...
+
+c’est pas si mal choisi, ce petit a, enfin c’est un hasard si c’est le même que le mien
+
+...savoir de petit a, il faudrait évidemment le com­menter, là il désigne le sujet. Bien sûr qu’ils ne savent pas que le sujet c’est ce dont *petit(a)* est la cause, mais enfin c’est un fait qu’ils l’écrivent comme ça S de petit *a*, α  : S(*a,* α) ...la logique épistémique part de ceci que *le savoir* c’est forcément *savoir le vrai*.
 
 <!-- id: s21-08-0067 -->
 
@@ -292,9 +292,9 @@ D’où il résulte qu’il est tout à fait impossible...
 
 <!-- id: s21-08-0070 -->
 
-> c’est pas très difficile à obtenir, mais enfin il y a un mathématicien très sympathique,
->
-> qui se rompt à Hintikka, et qui en effet fait la très jolie démonstration - on m’en a communiqué les notes ...que le savoir qui se supporterait de ce *qu’on ne sache pas qu’on sait* est strictement *inconsistant*, enfin, impos­sible à énoncer dans la logique épistémique. Ouais...
+c’est pas très difficile à obtenir, mais enfin il y a un mathématicien très sympathique,
+
+qui se rompt à Hintikka, et qui en effet fait la très jolie démonstration - on m’en a communiqué les notes ...que le savoir qui se supporterait de ce *qu’on ne sache pas qu’on sait* est strictement *inconsistant*, enfin, impos­sible à énoncer dans la logique épistémique. Ouais...
 
 <!-- id: s21-08-0071 -->
 
@@ -310,7 +310,7 @@ Et son rapport à *la vérité*, il faut bien le dire, Freud s’en inquiète, c
 
 <!-- id: s21-08-0074 -->
 
-> on appelait ça « *patiente »* à ce moment­-là, on n’avait pas encore trouvé le terme d’*analysant* ...quand une de ses patientes lui apporte un rêve qui ment délibérément. C’est que c’est là qu’est la faille.
+on appelait ça « *patiente »* à ce moment­-là, on n’avait pas encore trouvé le terme d’*analysant* ...quand une de ses patientes lui apporte un rêve qui ment délibérément. C’est que c’est là qu’est la faille.
 
 <!-- id: s21-08-0075 -->
 
@@ -362,7 +362,7 @@ La vie c’est quelque chose qui s’est levé un jour*...*
 
 <!-- id: s21-08-0087 -->
 
-> Dieu sait pourquoi, c’est le cas de le dire *...*et puis qui ne deman­de qu’à faire retour, comme tout le reste.
+Dieu sait pourquoi, c’est le cas de le dire *...*et puis qui ne deman­de qu’à faire retour, comme tout le reste.
 
 <!-- id: s21-08-0088 -->
 
@@ -418,7 +418,7 @@ Ce qui est important*...*
 
 <!-- id: s21-08-0101 -->
 
-> et ce qu’*a frôlé* Freud à cette occasion *...*c’est qu’il n’y a de mort que là où il y a reproduction de type sexuel. C’est tout.
+et ce qu’*a frôlé* Freud à cette occasion *...*c’est qu’il n’y a de mort que là où il y a reproduction de type sexuel. C’est tout.
 
 <!-- id: s21-08-0102 -->
 
@@ -426,11 +426,11 @@ Si nous employons le terme d’Aristote, l’ὑπάρχειν \[uparkein\] en q
 
 <!-- id: s21-08-0103 -->
 
-> sous ce prétexte qu’il y a *quelque chose* dans le monde qui montre que la vie quelquefois va à la mort *...* il conjoint ce qu’il est quand même difficile d’éliminer du sexe, c’est la jouissance, et que faisant le glissement...
+sous ce prétexte qu’il y a *quelque chose* dans le monde qui montre que la vie quelquefois va à la mort *...* il conjoint ce qu’il est quand même difficile d’éliminer du sexe, c’est la jouissance, et que faisant le glissement...
 
 <!-- id: s21-08-0104 -->
 
-> qu’il n’aurait pas fait s’il avait tenu ferme dans ses mains le nœud borroméen *...*il désigne de « *masochis­me* la prétendue conjonction de cette jouissance, jouissance sexuelle, et de la mort.
+qu’il n’aurait pas fait s’il avait tenu ferme dans ses mains le nœud borroméen *...*il désigne de « *masochis­me* la prétendue conjonction de cette jouissance, jouissance sexuelle, et de la mort.
 
 <!-- id: s21-08-0105 -->
 
@@ -442,7 +442,7 @@ S’il y a un endroit où la clinique, la pratique, nous montrent bien quelque c
 
 <!-- id: s21-08-0107 -->
 
-> et c’est pourquoi j’en ai félicité, comme ça, au tournant, quelqu’un qui depuis a mal tourné *...*s’il y a quelque chose qui est bien évident, c’est que le *masochis­me* c’est du *chiqué*.
+et c’est pourquoi j’en ai félicité, comme ça, au tournant, quelqu’un qui depuis a mal tourné *...*s’il y a quelque chose qui est bien évident, c’est que le *masochis­me* c’est du *chiqué*.
 
 <!-- id: s21-08-0108 -->
 
@@ -502,7 +502,7 @@ Il faut voir aussi avec quelles pincettes*...*
 
 <!-- id: s21-08-0122 -->
 
-> la personne qui voulait bien jouer le machin, comme ça, pour lui répondre *...*avec quelles pincettes elle le pre­nait, le Sacher-Masoch ! Elle ne savait pas qu’en faire.
+la personne qui voulait bien jouer le machin, comme ça, pour lui répondre *...*avec quelles pincettes elle le pre­nait, le Sacher-Masoch ! Elle ne savait pas qu’en faire.
 
 <!-- id: s21-08-0123 -->
 
@@ -562,7 +562,7 @@ Et j’ai pas besoin d’aller loin, quelqu’un m’a rapporté pas plus tard q
 
 <!-- id: s21-08-0137 -->
 
-> ça court les rues, hein, c’est le cas de le dire ...dont non seulement il lui était impossible, à la personne qui parlait, de dire si c’était un homme ou une femme, mais même elle lui a demandé et lui n’a pas pu lui répondre. \[*Rires*\]
+ça court les rues, hein, c’est le cas de le dire ...dont non seulement il lui était impossible, à la personne qui parlait, de dire si c’était un homme ou une femme, mais même elle lui a demandé et lui n’a pas pu lui répondre. \[*Rires*\]
 
 <!-- id: s21-08-0138 -->
 
@@ -606,11 +606,11 @@ Alors que de l’autre côté c’est du *dire...*
 
 <!-- id: s21-08-0148 -->
 
-> du *dire* formel quoique dire que personne *...*/ §, c’est-à-dire que ce n’est que pour tout autre qu’est niée la fonction Φx, que la négation - disons, pour illustrer - est lais­sée*...* je ne vais quand même pas dire : à Dieu...
+du *dire* formel quoique dire que personne *...*/ §, c’est-à-dire que ce n’est que pour tout autre qu’est niée la fonction Φx, que la négation - disons, pour illustrer - est lais­sée*...* je ne vais quand même pas dire : à Dieu...
 
 <!-- id: s21-08-0149 -->
 
-> parce que ça nous emmerde cette histoire : le collage de l’Autre à Dieu ...mais quand même, pour qui réalise cette sorte *d’universalité* qu’il n’y a pas la négation de la fonction **Φx** \[/ §\], et c’est la seule forme d’universalité du *dire* d’une femme, quelle qu’elle soit.
+parce que ça nous emmerde cette histoire : le collage de l’Autre à Dieu ...mais quand même, pour qui réalise cette sorte *d’universalité* qu’il n’y a pas la négation de la fonction **Φx** \[/ §\], et c’est la seule forme d’universalité du *dire* d’une femme, quelle qu’elle soit.
 
 <!-- id: s21-08-0150 -->
 
@@ -618,9 +618,9 @@ Il n’en reste pas moins*...*
 
 <!-- id: s21-08-0151 -->
 
-> je pense que vous vous souvenez quand même de ce que j’ai écrit au tableau,
->
-> et que je vais pas être forcé de le récrire là *...*il n’en reste pas moins que dans cet ensemble, ce n’est « *pas tout »* \[.\] *dire* qui formule la fonction Φx.
+je pense que vous vous souvenez quand même de ce que j’ai écrit au tableau,
+
+et que je vais pas être forcé de le récrire là *...*il n’en reste pas moins que dans cet ensemble, ce n’est « *pas tout »* \[.\] *dire* qui formule la fonction Φx.
 
 <!-- id: s21-08-0152 -->
 
@@ -632,7 +632,7 @@ Ce qui s’oppose à l’*Un* du *tout* de L’homme...
 
 <!-- id: s21-08-0154 -->
 
-> et il n’y en a qu’ *Un* comme chacun sait, la preuve c’est qu’on le désigne par l’article défini ...*ce qui s’oppose au « tout » de L’homme,* là, c’est - il faut bien le dire - *« les » femmes, en tant qu’il n’y a pas moyen d’en venir à bout*, sinon à les énumérer... je peux pas dire « *toutes* » parce que le propre du *dénom­brable*, c’est justement qu’*on n’en vient jamais au bout*.
+et il n’y en a qu’ *Un* comme chacun sait, la preuve c’est qu’on le désigne par l’article défini ...*ce qui s’oppose au « tout » de L’homme,* là, c’est - il faut bien le dire - *« les » femmes, en tant qu’il n’y a pas moyen d’en venir à bout*, sinon à les énumérer... je peux pas dire « *toutes* » parce que le propre du *dénom­brable*, c’est justement qu’*on n’en vient jamais au bout*.
 
 <!-- id: s21-08-0155 -->
 
@@ -644,11 +644,11 @@ Alors, alors. Qu’est-ce qu’il en est du savoir ? Bien sûr, je suis pas arri
 
 <!-- id: s21-08-0157 -->
 
-> c’est-à-dire une heure vingt, ou quelque chose comme ça, vingt-quatre ...je suis pas arrivé à cette heure-ci à même vous dire le quart de ce qu’il faut que je vous fasse passer dans les tripes...
+c’est-à-dire une heure vingt, ou quelque chose comme ça, vingt-quatre ...je suis pas arrivé à cette heure-ci à même vous dire le quart de ce qu’il faut que je vous fasse passer dans les tripes...
 
 <!-- id: s21-08-0158 -->
 
-> parce que c’est la fonction du *dire* : si je vous le dis pas il suffira pas que je l’écrive ...mais je vais quand même vous don­ner un petit échantillon de *ce qui peut s’écrire*, puisque sans cette réflexion sur l’*écrit*, *sans ce qui fait que* *le dire ça vient à s’écrire*, il n’y a pas moyen que je vous fasse sentir la dimension dont subsiste *le savoir inconscient*.
+parce que c’est la fonction du *dire* : si je vous le dis pas il suffira pas que je l’écrive ...mais je vais quand même vous don­ner un petit échantillon de *ce qui peut s’écrire*, puisque sans cette réflexion sur l’*écrit*, *sans ce qui fait que* *le dire ça vient à s’écrire*, il n’y a pas moyen que je vous fasse sentir la dimension dont subsiste *le savoir inconscient*.
 
 <!-- id: s21-08-0159 -->
 
@@ -656,7 +656,7 @@ Et ce qu’il faut que vous fassiez comme pas supplémentai­re, c’est de vous
 
 <!-- id: s21-08-0160 -->
 
-> puisqu’il y a rien à décou­vrir, *il y a rien à découvrir dans le Réel, puisque là il y a un trou* ...si l’in­conscient, là, *invente*, c’est d’autant plus précieux de vous apercevoir que *dans la logique c’est la même chose*.
+puisqu’il y a rien à décou­vrir, *il y a rien à découvrir dans le Réel, puisque là il y a un trou* ...si l’in­conscient, là, *invente*, c’est d’autant plus précieux de vous apercevoir que *dans la logique c’est la même chose*.
 
 <!-- id: s21-08-0161 -->
 
@@ -664,7 +664,7 @@ Et ce qu’il faut que vous fassiez comme pas supplémentai­re, c’est de vous
 
 <!-- id: s21-08-0162 -->
 
-> bien sûr on avait fait du syllogisme avant lui, simplement on ne savait pas que c’étaient des syllogismes ...pour s’en apercevoir, il faut l’*inventer* : *pour voir où est le trou, il faut voir le bord du Réel*.
+bien sûr on avait fait du syllogisme avant lui, simplement on ne savait pas que c’étaient des syllogismes ...pour s’en apercevoir, il faut l’*inventer* : *pour voir où est le trou, il faut voir le bord du Réel*.
 
 <!-- id: s21-08-0163 -->
 
@@ -672,7 +672,7 @@ Et comme nous sommes déjà bien avant, et que je suis pas arrivé à vous en di
 
 <!-- id: s21-08-0164 -->
 
-> ça sera tant pis, ça meublera ce qui vien­dra ensuite ...il faut quand même que je vous fasse sentir la portée d’une certaine façon dont moi je fraye la logique modale.
+ça sera tant pis, ça meublera ce qui vien­dra ensuite ...il faut quand même que je vous fasse sentir la portée d’une certaine façon dont moi je fraye la logique modale.
 
 <!-- id: s21-08-0165 -->
 
@@ -680,7 +680,7 @@ Le plus fort c’est que bien sûr, pour ce qui est de construire, pour ce qui e
 
 <!-- id: s21-08-0166 -->
 
-> et voyez là tous les échos d’intuitionnisme qu’il vous plaira, si tant est que vous sachiez ce que c’est ...je vous ai tra­duit un jour le *<u>nécessaire</u>* par *ce qui <u>ne cesse</u> pas de s’écrire.*
+et voyez là tous les échos d’intuitionnisme qu’il vous plaira, si tant est que vous sachiez ce que c’est ...je vous ai tra­duit un jour le *<u>nécessaire</u>* par *ce qui <u>ne cesse</u> pas de s’écrire.*
 
 <!-- id: s21-08-0167 -->
 
@@ -688,11 +688,11 @@ Bon. Sachez-le, il y a une trace dans Aristote, que la logique propositionnel­l
 
 <!-- id: s21-08-0168 -->
 
-> à savoir que quelque chose est vrai ou faux, ce qui se note 0 ou 1 selon les cas ...il y a une petite trace, il y a un endroit où Aristote dérape...
+à savoir que quelque chose est vrai ou faux, ce qui se note 0 ou 1 selon les cas ...il y a une petite trace, il y a un endroit où Aristote dérape...
 
 <!-- id: s21-08-0169 -->
 
-> je vous montrerai ça quand vous voudrez ...dans le Περὶ Ἑρμηνείας \[*Peri ermeneias*\] comme par hasard : « *De l’interprétation »,* pour ceux qui ne l’entravent pas, il y a un endroit où ça fuse, que la logique propositionnelle est tout aussi *modale* que les autres.
+je vous montrerai ça quand vous voudrez ...dans le Περὶ Ἑρμηνείας \[*Peri ermeneias*\] comme par hasard : « *De l’interprétation »,* pour ceux qui ne l’entravent pas, il y a un endroit où ça fuse, que la logique propositionnelle est tout aussi *modale* que les autres.
 
 <!-- id: s21-08-0170 -->
 
@@ -736,7 +736,7 @@ Il peut arriver que j’aime une femme, comme à chacun d’entre vous...
 
 <!-- id: s21-08-0180 -->
 
-> c’est ces sortes d’aventures dans lesquelles vous pouvez glisser ...ça ne donne pourtant aucune assurance concernant *l’identification sexuelle* de la personne que j’aime, pas plus que de la mien­ne.
+c’est ces sortes d’aventures dans lesquelles vous pouvez glisser ...ça ne donne pourtant aucune assurance concernant *l’identification sexuelle* de la personne que j’aime, pas plus que de la mien­ne.
 
 <!-- id: s21-08-0181 -->
 

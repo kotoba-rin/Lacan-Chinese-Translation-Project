@@ -42,7 +42,7 @@ On n’imagine pas...
 
 <!-- id: s22-10-0010 -->
 
-> c’est le cas de le dire, parce qu’il faut un petit recul ...*on n’imagine pas à quel point l’Imaginaire est engluant*, et d’un englue­ment que je vais tout de suite désigner : celui de « *la sphère et de la croix* ».
+c’est le cas de le dire, parce qu’il faut un petit recul ...*on n’imagine pas à quel point l’Imaginaire est engluant*, et d’un englue­ment que je vais tout de suite désigner : celui de « *la sphère et de la croix* ».
 
 <!-- id: s22-10-0011 -->
 
@@ -50,7 +50,7 @@ C’est formidable ! Je me suis...
 
 <!-- id: s22-10-0012 -->
 
-> pourquoi ne pas le dire ...je me suis *baladé* dans Joyce parce qu’on m’a sollicité de prendre la parole pour un congrès Joyce qui doit avoir lieu en juin. Je peux pas dire « c’est pas imaginable » : ce n’est que trop imaginable !
+pourquoi ne pas le dire ...je me suis *baladé* dans Joyce parce qu’on m’a sollicité de prendre la parole pour un congrès Joyce qui doit avoir lieu en juin. Je peux pas dire « c’est pas imaginable » : ce n’est que trop imaginable !
 
 <!-- id: s22-10-0013 -->
 
@@ -102,7 +102,7 @@ Moyennant quoi, le cercle, le rond, le cycle...
 
 <!-- id: s22-10-0025 -->
 
-> je reviendrai tout à l’heure sur ce que ça veut dire ...n’a plus qu’à glisser sur ce qui est ainsi noué.
+je reviendrai tout à l’heure sur ce que ça veut dire ...n’a plus qu’à glisser sur ce qui est ainsi noué.
 
 <!-- id: s22-10-0026 -->
 
@@ -110,7 +110,7 @@ Il n’est pas, si je puis dire, natu­rel...
 
 <!-- id: s22-10-0027 -->
 
-> qu’est-ce que ça veut dire *natu­rel*, dès qu’on s’approche ça disparaît, mais enfin : *naturel à votre imagination* ...il n’est pas natu­rel de faire exactement le contraire, c’est-à-dire - le cercle, le cycle - de le distordre ainsi :
+qu’est-ce que ça veut dire *natu­rel*, dès qu’on s’approche ça disparaît, mais enfin : *naturel à votre imagination* ...il n’est pas natu­rel de faire exactement le contraire, c’est-à-dire - le cercle, le cycle - de le distordre ainsi :
 
 <!-- id: s22-10-0028 -->
 
@@ -194,7 +194,7 @@ J’ai été faire une petite visite pendant ces vacances...
 
 <!-- id: s22-10-0048 -->
 
-> histoi­re de lui faire un petit signe avant que nous nous dissolvions tous deux ...au nommé Heidegger. Je l’aime beaucoup, il est encore très vaillant \[*86 ans*\].
+histoi­re de lui faire un petit signe avant que nous nous dissolvions tous deux ...au nommé Heidegger. Je l’aime beaucoup, il est encore très vaillant \[*86 ans*\].
 
 <!-- id: s22-10-0049 -->
 
@@ -226,7 +226,7 @@ Comment faire pour que ce nœud auquel je suis arrivé...
 
 <!-- id: s22-10-0056 -->
 
-> bien sûr, sans me prendre les pattes tout autant que vous ...comment faire pour qu’il le serre ce nœud, au point que le *parlêtre*, comme je l’appelle, ne croit plus – ne croit plus quoi ? – qu’hors *l’être de parler,* il croit à *l’être* !
+bien sûr, sans me prendre les pattes tout autant que vous ...comment faire pour qu’il le serre ce nœud, au point que le *parlêtre*, comme je l’appelle, ne croit plus – ne croit plus quoi ? – qu’hors *l’être de parler,* il croit à *l’être* !
 
 <!-- id: s22-10-0057 -->
 
@@ -262,9 +262,9 @@ Mon « *succès* » si je puis dire...
 
 <!-- id: s22-10-0065 -->
 
-> qui n’a bien sûr aucune connotation de réussite à mes yeux et pour cause : je ne crois, comme Freud,
->
-> qu’à l’ac­te manqué, mais à l’acte manqué en tant qu’il est révélateur du site, de la situation du « *transi* » en question[^26], avec *trans*fert à la clé bien sûr, tout ça, ça fait du « *trans* », il faut simplement ce « *trans* » le ramener à sa juste mesure ...mon succès donc - ma succession, c’est ça que ça veut dire - restera-t-il dans ce *trans*itoire ?
+qui n’a bien sûr aucune connotation de réussite à mes yeux et pour cause : je ne crois, comme Freud,
+
+qu’à l’ac­te manqué, mais à l’acte manqué en tant qu’il est révélateur du site, de la situation du « *transi* » en question[^26], avec *trans*fert à la clé bien sûr, tout ça, ça fait du « *trans* », il faut simplement ce « *trans* » le ramener à sa juste mesure ...mon succès donc - ma succession, c’est ça que ça veut dire - restera-t-il dans ce *trans*itoire ?
 
 <!-- id: s22-10-0066 -->
 
@@ -276,7 +276,7 @@ Simplement Freud a fait la remarque qu’il y a peut-être *un dire* qui vaille,
 
 <!-- id: s22-10-0068 -->
 
-> ça veut dire : « *dit entre* », rien de plus, *entre les lignes,* ...c’est ce qu’il a appelé, comme ça, le « *refoulé* ».
+ça veut dire : « *dit entre* », rien de plus, *entre les lignes,* ...c’est ce qu’il a appelé, comme ça, le « *refoulé* ».
 
 <!-- id: s22-10-0069 -->
 
@@ -288,7 +288,7 @@ Mais pour­quoi, si vraiment comme je viens de le dire, *il n’y a* *pas de tra
 
 <!-- id: s22-10-0071 -->
 
-> même dans les gens qui seraient *faits* en quelque sorte pour le rencontrer ...*pas de trace* de ce nœud borroméen, malgré ce que je vous dis : depuis que « *la sphère et la croix* » ça traîne partout, on aurait dû s’apercevoir que ça pouvait faire nœud borroméen, comme je viens de vous l’expliquer.
+même dans les gens qui seraient *faits* en quelque sorte pour le rencontrer ...*pas de trace* de ce nœud borroméen, malgré ce que je vous dis : depuis que « *la sphère et la croix* » ça traîne partout, on aurait dû s’apercevoir que ça pouvait faire nœud borroméen, comme je viens de vous l’expliquer.
 
 <!-- id: s22-10-0072 -->
 
@@ -296,7 +296,7 @@ Bon ! Il se trouve que j’ai fait cette trouvaille du nœud borroméen - sans l
 
 <!-- id: s22-10-0073 -->
 
-> faut aussi que ça vous paraisse, bien sûr, ...ça me paraît trouvaille notable de récupérer, non pas l’air de Freud : *a.i.r.*, mais justement son *erre*, ce qui en *ex-siste*, rigoureusement affaire de nœud.
+faut aussi que ça vous paraisse, bien sûr, ...ça me paraît trouvaille notable de récupérer, non pas l’air de Freud : *a.i.r.*, mais justement son *erre*, ce qui en *ex-siste*, rigoureusement affaire de nœud.
 
 <!-- id: s22-10-0074 -->
 
@@ -320,21 +320,21 @@ Il y a quand même quelqu’un, qui un jour...
 
 <!-- id: s22-10-0079 -->
 
-> vous vous en souvenez pas, bien sûr, parce que vous avez pas lu tout Aragon...
->
-> Qui est-ce qui lit tout Aragon ? ...il y a un passage d’Aragon jeune, qui s’est mis à « *fumer »*, je veux dire à s’échauffer, à prétendre qu’un temps qui a été jusqu’à supprimer les carrefours, *quadri vii*...
+vous vous en souvenez pas, bien sûr, parce que vous avez pas lu tout Aragon...
+
+Qui est-ce qui lit tout Aragon ? ...il y a un passage d’Aragon jeune, qui s’est mis à « *fumer »*, je veux dire à s’échauffer, à prétendre qu’un temps qui a été jusqu’à supprimer les carrefours, *quadri vii*...
 
 <!-- id: s22-10-0080 -->
 
-> il pensait aux autoroutes, parce que c’est un mot assez marrant « *autoroute* ».
->
-> Qu’est-ce que ça veut dire une *autoroute* : une route *en soi,* ou une route *pour soi* ? ...qui trouvait que ce temps...
+il pensait aux autoroutes, parce que c’est un mot assez marrant « *autoroute* ».
+
+Qu’est-ce que ça veut dire une *autoroute* : une route *en soi,* ou une route *pour soi* ? ...qui trouvait que ce temps...
 
 <!-- id: s22-10-0081 -->
 
-> il y a encore beaucoup de carrefours, beau­coup de coins de rues, bien sûr,
->
-> je sais pas ce qui lui a pris de penser qu’il y aurait plus de carrefours, qu’il y aurait toujours des passages souterrains ...que ce temps mériterait un meilleur sort que de rester dans la théologie générale.
+il y a encore beaucoup de carrefours, beau­coup de coins de rues, bien sûr,
+
+je sais pas ce qui lui a pris de penser qu’il y aurait plus de carrefours, qu’il y aurait toujours des passages souterrains ...que ce temps mériterait un meilleur sort que de rester dans la théologie générale.
 
 <!-- id: s22-10-0082 -->
 
@@ -350,7 +350,7 @@ Il n’a pas spatialisé le nœud borroméen de la bonne façon. Grâce à quoi 
 
 <!-- id: s22-10-0085 -->
 
-> comme me le disait Heidegger, là que j’ai extrait tout à l’heure de sa boîte ...à être *In-der-Welt,* à l’*In-der-Welt sein.*
+comme me le disait Heidegger, là que j’ai extrait tout à l’heure de sa boîte ...à être *In-der-Welt,* à l’*In-der-Welt sein.*
 
 <!-- id: s22-10-0086 -->
 
@@ -370,9 +370,9 @@ Oui, j’ai appris que dans les bandes dessinées c’est par des bulles...
 
 <!-- id: s22-10-0090 -->
 
-> je m’en étais jamais aperçu, parce que, je dois dire la vérité, je regarde jamais les bandes dessinées.
->
-> J’ai honte ! J’ai honte parce que c’est merveilleux, n’est-ce pas ? ...c’est même pas des bandes dessinées, c’est des photo­montages, enfin c’est sublime, c’est des photo­montages \- j’ai lu ça dans « *Nous deux » -* des photo­montages avec paroles, et alors les pensées c’est quand il y a des *bulles* !
+je m’en étais jamais aperçu, parce que, je dois dire la vérité, je regarde jamais les bandes dessinées.
+
+J’ai honte ! J’ai honte parce que c’est merveilleux, n’est-ce pas ? ...c’est même pas des bandes dessinées, c’est des photo­montages, enfin c’est sublime, c’est des photo­montages \- j’ai lu ça dans « *Nous deux » -* des photo­montages avec paroles, et alors les pensées c’est quand il y a des *bulles* !
 
 <!-- id: s22-10-0091 -->
 
@@ -392,7 +392,7 @@ Alors je suis ce *trou à la trace*, si je puis dire, et je ren­contre...
 
 <!-- id: s22-10-0095 -->
 
-> c’est pas moi qui l’ai inventé ...je rencontre le nœud borroméen qui, comme on dit toujours, me vient là comme bague au doigt...
+c’est pas moi qui l’ai inventé ...je rencontre le nœud borroméen qui, comme on dit toujours, me vient là comme bague au doigt...
 
 <!-- id: s22-10-0096 -->
 
@@ -404,7 +404,7 @@ Seulement il y a quand même quelque chose...
 
 <!-- id: s22-10-0098 -->
 
-> quand on y va, comme ça, à suivre les choses à la trace, ...c’est qu’on s’aperçoit qu’il n’y a pas qu’un truc pour faire un *cycle *: c’est pas forcément et seulement le *trou.*
+quand on y va, comme ça, à suivre les choses à la trace, ...c’est qu’on s’aperçoit qu’il n’y a pas qu’un truc pour faire un *cycle *: c’est pas forcément et seulement le *trou.*
 
 <!-- id: s22-10-0099 -->
 
@@ -436,7 +436,7 @@ Si la droite est une droite infinie...
 
 <!-- id: s22-10-0106 -->
 
-> et comment ne pas s’y référer comme *la ficelle* en elle–même, la *consistance,* réduite à ce qu’elle a de dernier ...eh ben ça fait un nœud !
+et comment ne pas s’y référer comme *la ficelle* en elle–même, la *consistance,* réduite à ce qu’elle a de dernier ...eh ben ça fait un nœud !
 
 <!-- id: s22-10-0107 -->
 
@@ -476,7 +476,7 @@ Il y a quelqu’un, un homme de génie qui s’appelait Desargues, auquel j’ai
 
 <!-- id: s22-10-0116 -->
 
-> enfin « *dans son temps* » : dans le temps où j’y ai fait allusion \[Girard Desargues : 1591-1661\] ...à qui il était venu l’idée que toute droite infinie faisait clôture, faisait boucle, en un point à l’infini.
+enfin « *dans son temps* » : dans le temps où j’y ai fait allusion \[Girard Desargues : 1591-1661\] ...à qui il était venu l’idée que toute droite infinie faisait clôture, faisait boucle, en un point à l’infini.
 
 <!-- id: s22-10-0117 -->
 
@@ -528,11 +528,11 @@ Il est quand même curieux que même Descartes...
 
 <!-- id: s22-10-0129 -->
 
-> sa *Regula decima* \[« *Règle 10* », *cf. supra*\], à savoir celle que je vous ai pointée ...même lui, concernant...
+sa *Regula decima* \[« *Règle 10* », *cf. supra*\], à savoir celle que je vous ai pointée ...même lui, concernant...
 
 <!-- id: s22-10-0130 -->
 
-> ce qui n’est pas dit en toutes lettres ...concernant *l’usage du fil*, *l’usage du* *tissage* [^28], l’usage de ce qui aurait pu le conduire au *nœud*, et au *nœud borroméen* en particulier, il n’en ait jamais rien fait, et c’est un signe.
+ce qui n’est pas dit en toutes lettres ...concernant *l’usage du fil*, *l’usage du* *tissage* [^28], l’usage de ce qui aurait pu le conduire au *nœud*, et au *nœud borroméen* en particulier, il n’en ait jamais rien fait, et c’est un signe.
 
 <!-- id: s22-10-0131 -->
 
@@ -540,7 +540,7 @@ Bon alors, la différence...
 
 <!-- id: s22-10-0132 -->
 
-> je vous dis pas que c’est mon dernier mot ...la différence c’est dans le passage de l’un à l’autre \[« *de la droite au cercle* », *du* « *tissage* » (Descartes) au « *nœud* *du plan projectif* » (Desargues)\], et dans ceci que pour l’instant je me contente d’illustrer, sans le faire d’une façon définitive, c’est qu’entre les deux, il y a un *jeu*, et puisque tout ce *jeu* n’aboutit qu’à leur équivalence, c’est peut-être *dans ce* *parcours* \[*le « chemin » du « mur de l’impossible », dans « la ronde des discours »*\] *que quelque chose qui de faire cycle, boucle un trou*, c’est peut-être dans le jeu de l’*ex-sistence*, de l’*erre* en somme, du fait *qu’il y a un jeu*, *que ça se promène*, *que ça s’ouvre* comme on dit, que la différence consiste.
+je vous dis pas que c’est mon dernier mot ...la différence c’est dans le passage de l’un à l’autre \[« *de la droite au cercle* », *du* « *tissage* » (Descartes) au « *nœud* *du plan projectif* » (Desargues)\], et dans ceci que pour l’instant je me contente d’illustrer, sans le faire d’une façon définitive, c’est qu’entre les deux, il y a un *jeu*, et puisque tout ce *jeu* n’aboutit qu’à leur équivalence, c’est peut-être *dans ce* *parcours* \[*le « chemin » du « mur de l’impossible », dans « la ronde des discours »*\] *que quelque chose qui de faire cycle, boucle un trou*, c’est peut-être dans le jeu de l’*ex-sistence*, de l’*erre* en somme, du fait *qu’il y a un jeu*, *que ça se promène*, *que ça s’ouvre* comme on dit, que la différence consiste.
 
 <!-- id: s22-10-0133 -->
 
@@ -588,7 +588,7 @@ Il y a quand même *un abord* qui s’exprime *dans ce que la mathématique a qu
 
 <!-- id: s22-10-0144 -->
 
-> notez cet *autrement*, ça vaut bien la peine qu’on le retienne, ...eh ben on ne peut pas dire que ça nous mène à des notions si aisées.
+notez cet *autrement*, ça vaut bien la peine qu’on le retienne, ...eh ben on ne peut pas dire que ça nous mène à des notions si aisées.
 
 <!-- id: s22-10-0145 -->
 
@@ -612,7 +612,7 @@ Quoi qu’il en soit, le caractère tordu de cette *topologie*, l’instauration
 
 <!-- id: s22-10-0150 -->
 
-> on voit très bien quel est le versant ...sur *la discontinuité* comme telle, alors que manifestement il y a là une résistance : que *la continuité* c’est bien le versant naturelde l’*imagi­nation*.
+on voit très bien quel est le versant ...sur *la discontinuité* comme telle, alors que manifestement il y a là une résistance : que *la continuité* c’est bien le versant naturelde l’*imagi­nation*.
 
 <!-- id: s22-10-0151 -->
 
@@ -628,7 +628,7 @@ La difficulté effective de cogiter sur le nœud bo, là redoublée du fait que 
 
 <!-- id: s22-10-0154 -->
 
-> manquée d’un poil, inexplicablement, jamais familière en tout cas ...pourquoi ne pas voir dans l’aversion que ceci entraîne - manifeste - la trace de ce refoule­ment premier lui-même ?
+manquée d’un poil, inexplicablement, jamais familière en tout cas ...pourquoi ne pas voir dans l’aversion que ceci entraîne - manifeste - la trace de ce refoule­ment premier lui-même ?
 
 <!-- id: s22-10-0155 -->
 
@@ -832,7 +832,7 @@ Mais on finira bien par...
 
 <!-- id: s22-10-0205 -->
 
-> enfin je peux pas dire que je l’espère ...je dis : à remonter ce courant, on finira bien par inventer quelque chose de moins stéréotypé que la *perversion*.
+enfin je peux pas dire que je l’espère ...je dis : à remonter ce courant, on finira bien par inventer quelque chose de moins stéréotypé que la *perversion*.
 
 <!-- id: s22-10-0206 -->
 
@@ -868,7 +868,7 @@ Il est évident que la biologie a avantage à se forcer...
 
 <!-- id: s22-10-0214 -->
 
-> à devenir - avec un accent un petit peu différent – « *la viologie* » : la logie de la violence ...à se forcer du côté de la moisissure, avec lequel ledit *parlêtre* a beaucoup d’analogies.
+à devenir - avec un accent un petit peu différent – « *la viologie* » : la logie de la violence ...à se forcer du côté de la moisissure, avec lequel ledit *parlêtre* a beaucoup d’analogies.
 
 <!-- id: s22-10-0215 -->
 
@@ -884,7 +884,7 @@ Ce qui ne peut vouloir dire...
 
 <!-- id: s22-10-0218 -->
 
-> dans l’état actuel de la connaissance ...vouloir dire que remplacer cette disproportion fondamentale dudit *rapport,* par une autre formule, par quelque chose qui ne peut se concevoir que comme un détour voué à l’*erre*, mais à une *erre* limitée par un nœud. *Ouais*...
+dans l’état actuel de la connaissance ...vouloir dire que remplacer cette disproportion fondamentale dudit *rapport,* par une autre formule, par quelque chose qui ne peut se concevoir que comme un détour voué à l’*erre*, mais à une *erre* limitée par un nœud. *Ouais*...
 
 <!-- id: s22-10-0219 -->
 
@@ -900,11 +900,11 @@ Alors, je voudrais pour eux...
 
 <!-- id: s22-10-0222 -->
 
-> parce que probablement ils seront les seuls à apprécier ...pour eux, faire remarquer ceci : c’est que ce que j’ai apporté aujourd’hui...
+parce que probablement ils seront les seuls à apprécier ...pour eux, faire remarquer ceci : c’est que ce que j’ai apporté aujourd’hui...
 
 <!-- id: s22-10-0223 -->
 
-> je ne sais pas ce que j’ai apporté aujourd’hui d’ailleurs, ...ce que j’ai apporté aujourd’hui, *à savoir la remarque qu’il y a moyen de faire cycle avec deux cercles.*
+je ne sais pas ce que j’ai apporté aujourd’hui d’ailleurs, ...ce que j’ai apporté aujourd’hui, *à savoir la remarque qu’il y a moyen de faire cycle avec deux cercles.*
 
 <!-- id: s22-10-0224 -->
 
@@ -924,7 +924,7 @@ Néanmoins, il y a quelque chose d’amusant, c’est que si vous transformez un
 
 <!-- id: s22-10-0228 -->
 
-> c’était là la portée de la remarque que je leur avais faite, mais contre quoi ils ont eu raison de tenir, ...je leur avais fait la remarque que c’était du côté de ce 3<sup>ème</sup> qu’il y avait quelque chose qui me semblait imposer l’*ex-sistence*, non pas d’1 nœud, mais de 2 nœuds orientés.
+c’était là la portée de la remarque que je leur avais faite, mais contre quoi ils ont eu raison de tenir, ...je leur avais fait la remarque que c’était du côté de ce 3<sup>ème</sup> qu’il y avait quelque chose qui me semblait imposer l’*ex-sistence*, non pas d’1 nœud, mais de 2 nœuds orientés.
 
 <!-- id: s22-10-0229 -->
 
@@ -980,7 +980,7 @@ Il n’y a pour ça, nous pouvons l’admettre...
 
 <!-- id: s22-10-0242 -->
 
-> comme nous avons fini par l’admettre pour la quadrature du cercle, encore que là ce soit démontré, ...nous pouvons admettre qu’il n’y a rien à faire.
+comme nous avons fini par l’admettre pour la quadrature du cercle, encore que là ce soit démontré, ...nous pouvons admettre qu’il n’y a rien à faire.
 
 <!-- id: s22-10-0243 -->
 
@@ -1008,9 +1008,9 @@ Nous pouvons dire par exemple que nous définissons l’un d’entre eux comme �
 
 <!-- id: s22-10-0249 -->
 
-> comme vous le voyez, du fait de la loi qu’ont mis en valeur Soury et Thomé,
->
-> concernant le nœud de ces deux cercles ...est d’un côté *dextro­gyre*, si nous définissons la *dextro­gyrie* par le fait que le plus externe passe au-dessus de la bande du cercle, du rond de ficelle, et qu’il y en a un autre qui de ce fait, passe au-dessus également, puisque c’est ainsi que nous définirions la gyrie, mais il se trouve être dans un sens différent au regard du cercle.
+comme vous le voyez, du fait de la loi qu’ont mis en valeur Soury et Thomé,
+
+concernant le nœud de ces deux cercles ...est d’un côté *dextro­gyre*, si nous définissons la *dextro­gyrie* par le fait que le plus externe passe au-dessus de la bande du cercle, du rond de ficelle, et qu’il y en a un autre qui de ce fait, passe au-dessus également, puisque c’est ainsi que nous définirions la gyrie, mais il se trouve être dans un sens différent au regard du cercle.
 
 <!-- id: s22-10-0250 -->
 
@@ -1022,7 +1022,7 @@ Nous sommes incapables de dire laquelle est *dextro*, laquel­le est *lévo*, no
 
 <!-- id: s22-10-0252 -->
 
-> je l’ai essayée pour avoir eu l’espoir que le nœud borroméen nous donnerait peut-être ça, ...aucune manipulation du nœud à 3, ne donne sans ambiguïté la définition de *lévo*, ou du *dextro*.
+je l’ai essayée pour avoir eu l’espoir que le nœud borroméen nous donnerait peut-être ça, ...aucune manipulation du nœud à 3, ne donne sans ambiguïté la définition de *lévo*, ou du *dextro*.
 
 <!-- id: s22-10-0253 -->
 
@@ -1106,7 +1106,7 @@ Mais il suffit qu’un...
 
 <!-- id: s22-10-0273 -->
 
-> pris d’ailleurs : du « non point de vue » ...ex-siste, pour qu’il démontre les orientations, à savoir le nœud borroméen en tant qu’orien­té comme étant 2.
+pris d’ailleurs : du « non point de vue » ...ex-siste, pour qu’il démontre les orientations, à savoir le nœud borroméen en tant qu’orien­té comme étant 2.
 
 <!-- id: s22-10-0274 -->
 
@@ -1130,7 +1130,7 @@ Le mot « *orientable* »...
 
 <!-- id: s22-10-0279 -->
 
-> qui est dans le vocabulaire de ce qui vous a été distribué
+qui est dans le vocabulaire de ce qui vous a été distribué
 
 <!-- id: s22-10-0280 -->
 

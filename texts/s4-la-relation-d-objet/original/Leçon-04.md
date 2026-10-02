@@ -35,11 +35,15 @@ Voilà la phrase de FREUD qui se trouve dans l’article des *pulsions et de leu
 
 <!-- id: s4-04-0007 -->
 
-> « *L’objet de la pulsion est celui à travers lequel l’instinct peut atteindre son but. Il est ce qu’il y a de plus variable dans l’instinct, rien qui lui soit originairement accroché, mais quelque chose qui lui est subordonné, seulement par suite de son appropriation*
->
-> *à la possibilité de son apaisement, sa satisfaction.* »
->
-> \[« *Das Objekt des Triebes ist dasjenige, an welchem oder durch welches der Trieb sein Ziel erreichen kann. Es ist das variabelste am Triebe, nicht ursprünglich mit ihm verknüpft, sondern ihm nur infolge seiner Eignung zur Ermöglichung der Befriedigung zugeordnet.* »\]
+<div class="text-quotation">
+
+« *L’objet de la pulsion est celui à travers lequel l’instinct peut atteindre son but. Il est ce qu’il y a de plus variable dans l’instinct, rien qui lui soit originairement accroché, mais quelque chose qui lui est subordonné, seulement par suite de son appropriation*
+
+*à la possibilité de son apaisement, sa satisfaction.* »
+
+\[« *Das Objekt des Triebes ist dasjenige, an welchem oder durch welches der Trieb sein Ziel erreichen kann. Es ist das variabelste am Triebe, nicht ursprünglich mit ihm verknüpft, sondern ihm nur infolge seiner Eignung zur Ermöglichung der Befriedigung zugeordnet.* »\]
+
+</div>
 
 <!-- id: s4-04-0008 -->
 
@@ -231,9 +235,13 @@ de *« schème préformé »* - dont ils disent qu’il est très difficile de
 
 <!-- id: s4-04-0042 -->
 
-> « *Donc* - disent-ils - *l’enfant naît avec des instincts hérités, en face d’un monde qu’il ne perçoit pas,*
-> *mais dont il se souvient et qu’il aura ensuite non pas à faire partir de lui-même ni de rien d’autre,*
-> *non pas à découvrir par une suite de trouvailles insolites, mais à reconnaître. »*
+<div class="text-quotation">
+
+« *Donc* - disent-ils - *l’enfant naît avec des instincts hérités, en face d’un monde qu’il ne perçoit pas,*
+*mais dont il se souvient et qu’il aura ensuite non pas à faire partir de lui-même ni de rien d’autre,*
+*non pas à découvrir par une suite de trouvailles insolites, mais à reconnaître. »*
+
+</div>
 
 <!-- id: s4-04-0043 -->
 

@@ -26,7 +26,7 @@ Parce que ce que je dis est un frayage qui concerne ma pratique, un frayage qui 
 
 <!-- id: s22-04-0006 -->
 
-> que bien sûr je ne me poserais pas si je n’avais pas dans ma pra­tique la réponse *...*c’est « *qu’est-ce qu’implique que la psychanalyse opère ?* »
+que bien sûr je ne me poserais pas si je n’avais pas dans ma pra­tique la réponse *...*c’est « *qu’est-ce qu’implique que la psychanalyse opère ?* »
 
 <!-- id: s22-04-0007 -->
 
@@ -34,7 +34,7 @@ Vous venez de me voir...
 
 <!-- id: s22-04-0008 -->
 
-> mais ça n’a rien à faire avec ce que je fais de psychanalyse ...vous venez de me voir opérer au tableau.
+mais ça n’a rien à faire avec ce que je fais de psychanalyse ...vous venez de me voir opérer au tableau.
 
 <!-- id: s22-04-0009 -->
 
@@ -74,7 +74,7 @@ Tel que c’est fait comme ça, il ne peut pas y en avoir plus de 4 et si je pro
 
 <!-- id: s22-04-0018 -->
 
-> si vous voulez, celui tout à fait à droite ...que nous appellerons le *dernier*, une autre façon de se nouer.
+si vous voulez, celui tout à fait à droite ...que nous appellerons le *dernier*, une autre façon de se nouer.
 
 <!-- id: s22-04-0019 -->
 
@@ -86,7 +86,7 @@ Vous le savez par...
 
 <!-- id: s22-04-0021 -->
 
-> j’ai dû au passage y faire allusion ...la façon d’arti­culer l’essence du nombre qu’a faite Peano au moyen d’un certain nombre d’axiomes, il semble qu’ici le n+1, le « *successeur* » que Peano met en valeur comme structurant le nombre entier, ceci à une seule condi­tion : c’est qu’il y en ait un au départ qui ne soit le *« successeur »* de per­sonne, c’est-à-dire ce qu’imite fort bien ce rond de ficelle, ce qu’il désigne par le *zéro*.
+j’ai dû au passage y faire allusion ...la façon d’arti­culer l’essence du nombre qu’a faite Peano au moyen d’un certain nombre d’axiomes, il semble qu’ici le n+1, le « *successeur* » que Peano met en valeur comme structurant le nombre entier, ceci à une seule condi­tion : c’est qu’il y en ait un au départ qui ne soit le *« successeur »* de per­sonne, c’est-à-dire ce qu’imite fort bien ce rond de ficelle, ce qu’il désigne par le *zéro*.
 
 <!-- id: s22-04-0022 -->
 
@@ -122,7 +122,7 @@ Tout abord du *Réel* rend très difficile de ne pas tenir compte du *nombre*, l
 
 <!-- id: s22-04-0030 -->
 
-> pourquoi ne pas accueillir ce mot qui me vient ici pré­maturément ...*tout abord du Réel est tissé par le nombre*.
+pourquoi ne pas accueillir ce mot qui me vient ici pré­maturément ...*tout abord du Réel est tissé par le nombre*.
 
 <!-- id: s22-04-0031 -->
 
@@ -142,11 +142,11 @@ C’est au titre d’être la même, la même *consistance*...
 
 <!-- id: s22-04-0035 -->
 
-> dans ces trois « *quelque chose* » que j’originalise du *Symbolique*, de l’*Imaginaire* et du *Réel* ...c’est à ce titre d’être la même, la même *consistance,* que je produis...
+dans ces trois « *quelque chose* » que j’originalise du *Symbolique*, de l’*Imaginaire* et du *Réel* ...c’est à ce titre d’être la même, la même *consistance,* que je produis...
 
 <!-- id: s22-04-0036 -->
 
-> et ce, pourquoi ? - pour rendre raison de ma pratique ...que je produis ce nœud borro­méen.
+et ce, pourquoi ? - pour rendre raison de ma pratique ...que je produis ce nœud borro­méen.
 
 <!-- id: s22-04-0037 -->
 
@@ -198,7 +198,7 @@ Est-ce qu’en d’autres termes...
 
 <!-- id: s22-04-0049 -->
 
-> c’est le sens de ce que je vous demande ...à quatre ça marche, c’est le même nœud ? Ou est-ce qu’il en faut un de plus ?
+c’est le sens de ce que je vous demande ...à quatre ça marche, c’est le même nœud ? Ou est-ce qu’il en faut un de plus ?
 
 <!-- id: s22-04-0050 -->
 
@@ -222,9 +222,9 @@ S’il y a quelque chose qui illustre que la *consistance*...
 
 <!-- id: s22-04-0055 -->
 
-> ce *quelque chose* qui est en quelque sorte sous-jacent- à quoi ? – à tout ce que nous disons,
->
-> que cette *consistance* est autre chose que ce qu’on qualifie, dans le lan­gage, de la « *non-contradiction* », ...c’est bien cette sorte de figure, en tant qu’elle a ce *quelque chose* que je suis bien forcé d’appeler une *consis­tance réelle*, puisque c’est ça qui est supposé : c’est qu’une corde, ça tient.
+ce *quelque chose* qui est en quelque sorte sous-jacent- à quoi ? – à tout ce que nous disons,
+
+que cette *consistance* est autre chose que ce qu’on qualifie, dans le lan­gage, de la « *non-contradiction* », ...c’est bien cette sorte de figure, en tant qu’elle a ce *quelque chose* que je suis bien forcé d’appeler une *consis­tance réelle*, puisque c’est ça qui est supposé : c’est qu’une corde, ça tient.
 
 <!-- id: s22-04-0056 -->
 
@@ -240,7 +240,7 @@ Et le fait que je suis sûr que vous ne soyez pas plus familiers que moi avec ce
 
 <!-- id: s22-04-0059 -->
 
-> les quelques frayages que je vous y donne, en la dessinant au tableau ...je suis sûr que pour, disons la grande majorité d’entre vous, la question que je pose, celle de la *transformation*, qui n’est pas une transformation, qui serait une transformation s’il fallait refaire le nœud pour que celle de gauche se transforme en celle de droite, ou inversement.
+les quelques frayages que je vous y donne, en la dessinant au tableau ...je suis sûr que pour, disons la grande majorité d’entre vous, la question que je pose, celle de la *transformation*, qui n’est pas une transformation, qui serait une transformation s’il fallait refaire le nœud pour que celle de gauche se transforme en celle de droite, ou inversement.
 
 <!-- id: s22-04-0060 -->
 
@@ -292,15 +292,19 @@ Après tout, c’est pas pour rien qu’on vous dit : « *Tenez bien la corde h
 
 <!-- id: s22-04-0072 -->
 
-> « *...comme tous les esprits ne sont pas également portés à découvrir spontanément les choses par leurs propres forces,*
->
-> *cette règle apprend qu’il ne faut pas s’occuper tout de suite des choses plus difficiles et ardues - moins importantes –*
->
-> *mais qu’il faut approfondir tout d’abord les arts les moins importants et les plus simples, ceux surtout où l’ordre règne davantage,*
->
-> *comme sont ceux des artisans qui font de la toile et des tapis, ou ceux des femmes qui brodent ou font de la dentelle,*
->
-> *ainsi que toutes les combinaisons des nombres et toutes les opérations qui se rap­portent à l’arithmétique, et autres choses semblables..*. » [^7].
+<div class="text-quotation">
+
+« *...comme tous les esprits ne sont pas également portés à découvrir spontanément les choses par leurs propres forces,*
+
+*cette règle apprend qu’il ne faut pas s’occuper tout de suite des choses plus difficiles et ardues - moins importantes –*
+
+*mais qu’il faut approfondir tout d’abord les arts les moins importants et les plus simples, ceux surtout où l’ordre règne davantage,*
+
+*comme sont ceux des artisans qui font de la toile et des tapis, ou ceux des femmes qui brodent ou font de la dentelle,*
+
+*ainsi que toutes les combinaisons des nombres et toutes les opérations qui se rap­portent à l’arithmétique, et autres choses semblables..*. » [^7].
+
+</div>
 
 <!-- id: s22-04-0073 -->
 
@@ -348,11 +352,11 @@ C’est ceci : c’est que...
 
 <!-- id: s22-04-0084 -->
 
-> est-ce du fait de l’intui­tion ? ...mais ce que je vous démontre c’est que ça va bien plus loin que ça : c’est pas seulement que la vision fasse toujours plus ou moins surfa­ce, c’est pour des raisons plus profondes...
+est-ce du fait de l’intui­tion ? ...mais ce que je vous démontre c’est que ça va bien plus loin que ça : c’est pas seulement que la vision fasse toujours plus ou moins surfa­ce, c’est pour des raisons plus profondes...
 
 <!-- id: s22-04-0085 -->
 
-> et qu’en quelque sorte ces *nœuds* nous rendent tangibles ...c’est pour des raisons plus profondes, pour ce qui est de la *nature*, de la « *nature des choses* » comme on dit.
+et qu’en quelque sorte ces *nœuds* nous rendent tangibles ...c’est pour des raisons plus profondes, pour ce qui est de la *nature*, de la « *nature des choses* » comme on dit.
 
 <!-- id: s22-04-0086 -->
 
@@ -368,7 +372,7 @@ C’est bien pourquoi, vous m’avez entendu produire ceci qui est la même chos
 
 <!-- id: s22-04-0089 -->
 
-> vous le savez, parce que je vous l’ai seriné ...que j’écris : *d.i.t,* *tiret*, et puis *mension *: *mention* du *dire*.
+vous le savez, parce que je vous l’ai seriné ...que j’écris : *d.i.t,* *tiret*, et puis *mension *: *mention* du *dire*.
 
 <!-- id: s22-04-0090 -->
 
@@ -416,7 +420,7 @@ Car enfin, on ne peut dire que la matière...
 
 <!-- id: s22-04-0101 -->
 
-> vous en avez un petit peu entendu parler ...que la matière ne lui fasse pas problème à tout instant.
+vous en avez un petit peu entendu parler ...que la matière ne lui fasse pas problème à tout instant.
 
 <!-- id: s22-04-0102 -->
 
@@ -424,7 +428,7 @@ Car enfin, on ne peut dire que la matière...
 
 <!-- id: s22-04-0103 -->
 
-> c’est ça que ça veut dire « *Problème »...*défense avancée, chose à concasser pour qu’on arrive à voir ce que ça défend.
+c’est ça que ça veut dire « *Problème »...*défense avancée, chose à concasser pour qu’on arrive à voir ce que ça défend.
 
 <!-- id: s22-04-0104 -->
 
@@ -440,7 +444,7 @@ On s’en est aperçu, il y a eu un petit moment de réveil, au moment de Newton
 
 <!-- id: s22-04-0107 -->
 
-> com­ment d’ailleurs pouvait-on se la représenter avant, mis à part le τόπος \[topos\] d’Aristote ...*enfin ! C’est à nous impensable !*
+com­ment d’ailleurs pouvait-on se la représenter avant, mis à part le τόπος \[topos\] d’Aristote ...*enfin ! C’est à nous impensable !*
 
 <!-- id: s22-04-0108 -->
 
@@ -476,7 +480,7 @@ Qu’est-ce que c’est que cette « *analyse »*, au sens propre­ment de *ma
 
 <!-- id: s22-04-0116 -->
 
-> celle que j’ai en commun avec un certain nombre de personnes qui sont ici ...et quelle place occupe *cette technique,* au regard de ce que fait la science ?
+celle que j’ai en commun avec un certain nombre de personnes qui sont ici ...et quelle place occupe *cette technique,* au regard de ce que fait la science ?
 
 <!-- id: s22-04-0117 -->
 
@@ -592,9 +596,9 @@ Et pas dans n’importe quel joint, dans ce joint-ci où vous pouvez confondre c
 
 <!-- id: s22-04-0145 -->
 
-> encore qu’ils ne procèdent pas du même mouvement,
->
-> du même mouvement relatif de *l’Imaginaire et du Symbolique* ...ici dans ces deux points qui d’ailleurs se confondent, quand de l’*Imaginaire* et du *Symbolique,* le coincement se produit, en ces deux points il y a *le sens*.
+encore qu’ils ne procèdent pas du même mouvement,
+
+du même mouvement relatif de *l’Imaginaire et du Symbolique* ...ici dans ces deux points qui d’ailleurs se confondent, quand de l’*Imaginaire* et du *Symbolique,* le coincement se produit, en ces deux points il y a *le sens*.
 
 <!-- id: s22-04-0146 -->
 
@@ -602,7 +606,7 @@ Faut bien que je fende un peu les choses...
 
 <!-- id: s22-04-0147 -->
 
-> puisque - je m’en excuse - j’ai dû traîner ...pour vous donner un peu une *dit-mension*, une *dit-mension* qui me tracasse, celle du nœud.
+puisque - je m’en excuse - j’ai dû traîner ...pour vous donner un peu une *dit-mension*, une *dit-mension* qui me tracasse, celle du nœud.
 
 <!-- id: s22-04-0148 -->
 
@@ -638,7 +642,7 @@ Néanmoins, il est curieux que ce terme ait fait son émergence dans un champ qu
 
 <!-- id: s22-04-0156 -->
 
-> *l’hu-mante religieuse...*où la religion humait la philosophie, que nous avons vu sor­tir ce mot d’*existence*, qui semble pourtant avoir eu - c’est le cas de le dire - bien des raisons d’être.
+*l’hu-mante religieuse...*où la religion humait la philosophie, que nous avons vu sor­tir ce mot d’*existence*, qui semble pourtant avoir eu - c’est le cas de le dire - bien des raisons d’être.
 
 <!-- id: s22-04-0157 -->
 
@@ -662,7 +666,7 @@ Le grave, c’est que la suite a consisté à démontrer à Aristote...
 
 <!-- id: s22-04-0162 -->
 
-> qui n’en pouvait mais depuis longtemps ...« *que l’universalité n’impliquait pas l’existence »*.
+qui n’en pouvait mais depuis longtemps ...« *que l’universalité n’impliquait pas l’existence »*.
 
 <!-- id: s22-04-0163 -->
 
@@ -670,7 +674,11 @@ Mais c’est pas ça qu’il y a de grave dans une certaine appréhension des ch
 
 <!-- id: s22-04-0164 -->
 
-> *« que l’universalité n’implique pas l’existence »* nous en faisons le balayage tous les jours ...c’est que *l’existence* implique l’*universalité* qui est grave.
+<div class="text-quotation">
+
+*« que l’universalité n’implique pas l’existence »* nous en faisons le balayage tous les jours ...c’est que *l’existence* implique l’*universalité* qui est grave.
+
+</div>
 
 <!-- id: s22-04-0165 -->
 
@@ -746,9 +754,9 @@ Il y a chez Freud une référence à quelque chose qu’il considère comme le *
 
 <!-- id: s22-04-0183 -->
 
-> c’est pas ce qu’on croit, c’est pas le « *Realitätsprinzip »*,
->
-> parce qu’il est trop évident que ce « *Realitätsprinzip »* est une histoire de *dire*, c’est-à-dire *sociale* ...mais supposons qu’il ait eu le soupçon, simple­ment qu’il ne se soit pas dit que ça pouvait faire nœud.
+c’est pas ce qu’on croit, c’est pas le « *Realitätsprinzip »*,
+
+parce qu’il est trop évident que ce « *Realitätsprinzip »* est une histoire de *dire*, c’est-à-dire *sociale* ...mais supposons qu’il ait eu le soupçon, simple­ment qu’il ne se soit pas dit que ça pouvait faire nœud.
 
 <!-- id: s22-04-0184 -->
 
@@ -756,7 +764,7 @@ Bref, Freud...
 
 <!-- id: s22-04-0185 -->
 
-> contrairement à un nombre prodigieux de personnes, depuis Platon jus­qu’à Tolstoï
+contrairement à un nombre prodigieux de personnes, depuis Platon jus­qu’à Tolstoï
 
 <!-- id: s22-04-0186 -->
 
@@ -820,15 +828,15 @@ Puisque ces deux figures - puisque figures il y a - ce sont les mêmes...
 
 <!-- id: s22-04-0201 -->
 
-> qui sont dessinés de *l’ex-sistence* de quelque chose autour de *la consistance* ...de parcourir tous ces *champs.*..
+qui sont dessinés de *l’ex-sistence* de quelque chose autour de *la consistance* ...de parcourir tous ces *champs.*..
 
 <!-- id: s22-04-0202 -->
 
-> à savoir ici d’être dans *la jouissance de l’Autre*, puis dans l’*Imaginaire*, puis dans le *sens*,
->
-> puis du trou du *Symbolique* et le franchissant, d’être quelque part dans une *ex-sistence*
->
-> qui est extérieure au *Symbolique* et au *Réel* ...qu’il fait retour vers ce point qui n’est autre que celui que le désigne de l’*objet(a).*
+à savoir ici d’être dans *la jouissance de l’Autre*, puis dans l’*Imaginaire*, puis dans le *sens*,
+
+puis du trou du *Symbolique* et le franchissant, d’être quelque part dans une *ex-sistence*
+
+qui est extérieure au *Symbolique* et au *Réel* ...qu’il fait retour vers ce point qui n’est autre que celui que le désigne de l’*objet(a).*
 
 <!-- id: s22-04-0203 -->
 
@@ -844,9 +852,9 @@ J’ai dit...
 
 <!-- id: s22-04-0206 -->
 
-> j’ai dit ici, ou si ce n’est pas ici c’est ailleurs, c’est dans mon *« Dis­cours de Rome »,*
->
-> le dernier que j’ai fait, celui que j’appelle *« La troisième »* ...j’ai dit que si j’avais fait « *Les Noms du père »* - écrits cette fois correctement - j’aurais énoncé *une consistance* telle qu’elle nous donnerait raison de certains glissements de Freud.
+j’ai dit ici, ou si ce n’est pas ici c’est ailleurs, c’est dans mon *« Dis­cours de Rome »,*
+
+le dernier que j’ai fait, celui que j’appelle *« La troisième »* ...j’ai dit que si j’avais fait « *Les Noms du père »* - écrits cette fois correctement - j’aurais énoncé *une consistance* telle qu’elle nous donnerait raison de certains glissements de Freud.
 
 <!-- id: s22-04-0207 -->
 
@@ -866,15 +874,15 @@ Ce par quoi, avec le temps, j’ai tenu à procéder, vient de ceci : que je cr
 
 <!-- id: s22-04-0211 -->
 
-> et cette année je vous le montrerai ...*il est implicite*...
+et cette année je vous le montrerai ...*il est implicite*...
 
 <!-- id: s22-04-0212 -->
 
-> dans le nœud tel que je le figure du Symbolique, de l’Imaginaire et du Réel ...*il est implicite*...
+dans le nœud tel que je le figure du Symbolique, de l’Imaginaire et du Réel ...*il est implicite*...
 
 <!-- id: s22-04-0213 -->
 
-> et ceci se démontre, et chacun de ces points peut en lui-même se pré­ciser ...*il est implicite* en ceci que pour avoir le même effet, mais cette fois au minimum, il y suffit de faire passer <u>en ces deux points</u> ce qui était des­sous, dessus.
+et ceci se démontre, et chacun de ces points peut en lui-même se pré­ciser ...*il est implicite* en ceci que pour avoir le même effet, mais cette fois au minimum, il y suffit de faire passer <u>en ces deux points</u> ce qui était des­sous, dessus.
 
 <!-- id: s22-04-0214 -->
 
@@ -890,7 +898,7 @@ C’est ce que - pour avoir 4 termes - Freud lui-même n’a pu faire, mais c’
 
 <!-- id: s22-04-0217 -->
 
-> non pas la « *réalité* » au sens freudien ...que *le Réel* en deux points que je nommerai comme tels, que le *Réel* en deux points *sur­monte* le *Symbolique*.
+non pas la « *réalité* » au sens freudien ...que *le Réel* en deux points que je nommerai comme tels, que le *Réel* en deux points *sur­monte* le *Symbolique*.
 
 <!-- id: s22-04-0218 -->
 
@@ -910,7 +918,7 @@ Je vous fais remarquer...
 
 <!-- id: s22-04-0222 -->
 
-> je vous l’ai déjà dit une fois au passage ...que si vous le retournez il a toujours exac­tement le même aspect, c’est-à-dire que si vous le retournez, ce n’est pas à son image en miroir que vous avez affaire, c’est exactement le même machin *lévogyre* que vous avez dans *le nœud borroméen* que vous trou­vez au dos.
+je vous l’ai déjà dit une fois au passage ...que si vous le retournez il a toujours exac­tement le même aspect, c’est-à-dire que si vous le retournez, ce n’est pas à son image en miroir que vous avez affaire, c’est exactement le même machin *lévogyre* que vous avez dans *le nœud borroméen* que vous trou­vez au dos.
 
 <!-- id: s22-04-0223 -->
 
@@ -926,7 +934,7 @@ Il est déjà une heure assez avancée, je renonce...
 
 <!-- id: s22-04-0226 -->
 
-> si je puis dire, vu la dif­ficulté, la lenteur de ce que je vous ai aujourd’hui présenté ...je renonce à aller plus loin, remettant à notre prochaine rencontre qui aura lieu dans huit jours, la suite de ce que je voulais vous dire aujourd’hui.
+si je puis dire, vu la dif­ficulté, la lenteur de ce que je vous ai aujourd’hui présenté ...je renonce à aller plus loin, remettant à notre prochaine rencontre qui aura lieu dans huit jours, la suite de ce que je voulais vous dire aujourd’hui.
 
 <!-- id: s22-04-0227 -->
 
@@ -950,7 +958,7 @@ Je peux quand même marquer quelque chose,c’est que
 
 <!-- id: s22-04-0232 -->
 
-> même dans quelque chose d’aussi exténué que l’*ex-sisten­ce* ...garde son sens.
+même dans quelque chose d’aussi exténué que l’*ex-sisten­ce* ...garde son sens.
 
 <!-- id: s22-04-0233 -->
 

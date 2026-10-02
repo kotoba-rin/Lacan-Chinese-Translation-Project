@@ -132,7 +132,11 @@ max_segment_id: 162
 
 ［德文原文：
 
-> *Die Idee, die uns so zur Verfügung gestellt wird, ist die einer psychischen Lokalität. Wir wollen ganz beiseite lassen, daß der seelische Apparat, um den es sich hier handelt, uns auch als anatomisches Präparat bekannt ist, und wollen der Versuchung sorgfältig aus dem Wege gehen, die psychische Lokalität etwa anatomisch zu bestimmen. Wir bleiben’ auf psychologischem Boden und gedenken nur der Aufforderung zu folgen, daß wir uns das Instrument, welches den Seelenleistungen dient, vorstellen wie etwa ein zusammengesetztes Mikroskop, einen photographischen Apparat u. dgl. Die psychische Lokalität entspricht dann einem Orte innerhalb eines solchen Apparats, an dem eine der Vor­stufen des Bildes zustande kommt. Beim Mikroskop und Fernrohr sind dies bekanntlich zum Teil ideelle Örtlichkeiten, Gegenden, in denen kein greifbarer Bestandteil des Apparats gelegen ist. Für die Unvollkommenheiten dieser und aller ähnlichen Bilder Ent­schuldigung zu erbitten, halte ich für überflüssig. Diese Gleich­nisse sollen uns nur bei einem Versuch unterstützen, der es unter­nimmt, uns die Komplikation der psychischen Leistung ver­ständlich zu machen, indem wir diese Leistung zerlegen, und die Einzelleistung den einzelnen Bestandteilen des Apparats zuweisen. Der Versuch, die Zusammensetzung des seelischen Instruments aus solcher Zerlegung zu erraten, ist meines Wissens noch nicht gewagt worden. Er scheint mir harmlos.*
+<div class="text-quotation">
+
+*Die Idee, die uns so zur Verfügung gestellt wird, ist die einer psychischen Lokalität. Wir wollen ganz beiseite lassen, daß der seelische Apparat, um den es sich hier handelt, uns auch als anatomisches Präparat bekannt ist, und wollen der Versuchung sorgfältig aus dem Wege gehen, die psychische Lokalität etwa anatomisch zu bestimmen. Wir bleiben’ auf psychologischem Boden und gedenken nur der Aufforderung zu folgen, daß wir uns das Instrument, welches den Seelenleistungen dient, vorstellen wie etwa ein zusammengesetztes Mikroskop, einen photographischen Apparat u. dgl. Die psychische Lokalität entspricht dann einem Orte innerhalb eines solchen Apparats, an dem eine der Vor­stufen des Bildes zustande kommt. Beim Mikroskop und Fernrohr sind dies bekanntlich zum Teil ideelle Örtlichkeiten, Gegenden, in denen kein greifbarer Bestandteil des Apparats gelegen ist. Für die Unvollkommenheiten dieser und aller ähnlichen Bilder Ent­schuldigung zu erbitten, halte ich für überflüssig. Diese Gleich­nisse sollen uns nur bei einem Versuch unterstützen, der es unter­nimmt, uns die Komplikation der psychischen Leistung ver­ständlich zu machen, indem wir diese Leistung zerlegen, und die Einzelleistung den einzelnen Bestandteilen des Apparats zuweisen. Der Versuch, die Zusammensetzung des seelischen Instruments aus solcher Zerlegung zu erraten, ist meines Wissens noch nicht gewagt worden. Er scheint mir harmlos.*
+
+</div>
 
 中文：“由此供我们使用的观念，是一个心理地点的观念。我们要完全撇开这样一个事实：这里所说的心理装置也可以作为解剖标本为我们所知；我们还要谨慎避开一种诱惑，不从解剖学上规定心理地点。我们留在心理学的地基上，只遵循这样一项要求：把服务于心理活动的工具设想成某种复合显微镜、摄影装置之类。于是，心理地点对应于这类装置内部的一个位置，图像的某个前期阶段在那里形成。大家知道，在显微镜和望远镜中，这些地点部分是观念性的；这些区域内并没有装置的任何可触部件。我认为，无须为这个比喻以及一切类似图像的不完善请求原谅。这些比喻只用来支持一种尝试：把心理活动分解开来，把单项活动分别归给装置的不同部件，从而使心理活动的复杂性变得可以理解。据我所知，还从未有人尝试依据这种分解推测心理工具的构成。在我看来，这项尝试并无危险。”（西格蒙德·弗洛伊德：《梦的解析》第七章第二节“退行”，1925年版，第455—456页。）］
 
@@ -146,7 +150,7 @@ max_segment_id: 162
 
 <!-- id: s1-08-0032 -->
 
-> 倒不是说继续展开这个比喻没有趣味，只是那会把我们带得有些远
+倒不是说继续展开这个比喻没有趣味，只是那会把我们带得有些远
 
 <!-- id: s1-08-0033 -->
 
@@ -234,7 +238,7 @@ max_segment_id: 162
 
 <!-- id: s1-08-0054 -->
 
-> 你们看不见藏在下面的花束；不过，如果处在正确的视域内——大约就是这边的所有人——
+你们看不见藏在下面的花束；不过，如果处在正确的视域内——大约就是这边的所有人——
 
 <!-- id: s1-08-0055 -->
 
@@ -256,13 +260,13 @@ max_segment_id: 162
 
 <!-- id: s1-08-0059 -->
 
-> 它同*对自身身体图像的把握*有关；更深一层，则同 *Ur-Ich*（原自我）或 *Lust-Ich*（快乐自我）的关系有关；
->
-> 同整个原初*自我*概念有关：这个自我将在同外部世界的某种分裂和区分中构成；
->
-> 也同被纳入内部之物与被排除之物之间的关系有关；后一项通过所有这些排除过程，
->
-> 即 *Ausstossung*（驱逐）、投射，以及对*自我*自身领域的划界而实现
+它同*对自身身体图像的把握*有关；更深一层，则同 *Ur-Ich*（原自我）或 *Lust-Ich*（快乐自我）的关系有关；
+
+同整个原初*自我*概念有关：这个自我将在同外部世界的某种分裂和区分中构成；
+
+也同被纳入内部之物与被排除之物之间的关系有关；后一项通过所有这些排除过程，
+
+即 *Ausstossung*（驱逐）、投射，以及对*自我*自身领域的划界而实现
 
 <!-- id: s1-08-0060 -->
 
@@ -410,7 +414,11 @@ max_segment_id: 162
 
 <!-- id: s1-08-0096 -->
 
-> “*孩子的世界从一个容器——也就是母亲的身体——以及这个母亲身体的内容物出发而产生。*”
+<div class="text-quotation">
+
+“*孩子的世界从一个容器——也就是母亲的身体——以及这个母亲身体的内容物出发而产生。*”
+
+</div>
 
 <!-- id: s1-08-0097 -->
 
@@ -466,7 +474,7 @@ max_segment_id: 162
 
 <!-- id: s1-08-0110 -->
 
-> 你们可以留意这一点；当问题涉及*象征性内摄*时，它会为你们照亮事情
+你们可以留意这一点；当问题涉及*象征性内摄*时，它会为你们照亮事情
 
 <!-- id: s1-08-0111 -->
 
@@ -590,7 +598,7 @@ max_segment_id: 162
 
 <!-- id: s1-08-0141 -->
 
-> 也许很快会出版的、有关某个苏丹族群的神话
+也许很快会出版的、有关某个苏丹族群的神话
 
 <!-- id: s1-08-0142 -->
 
@@ -614,7 +622,7 @@ max_segment_id: 162
 
 <!-- id: s1-08-0147 -->
 
-> 也就是我们所谓的*现实世界*；它无非是一个得到人化、得到*象征化*的世界，只由*符号*引入原初现实的超越性构成
+也就是我们所谓的*现实世界*；它无非是一个得到人化、得到*象征化*的世界，只由*符号*引入原初现实的超越性构成
 
 <!-- id: s1-08-0148 -->
 

@@ -94,9 +94,9 @@ Son *erreur de jugement* - je crois qu’ici nous pouvons serrer de plus près q
 
 <!-- id: s7-22-0023 -->
 
-> avant la lettre sans doute, car n’oublions pas que c’est très vieux quand même : 441 avant J. C.,
->
-> le « *Souverain Bien* », l’ami PLATON ne nous en avait pas encore forgé le mirage
+avant la lettre sans doute, car n’oublions pas que c’est très vieux quand même : 441 avant J. C.,
+
+le « *Souverain Bien* », l’ami PLATON ne nous en avait pas encore forgé le mirage
 
 <!-- id: s7-22-0024 -->
 
@@ -156,7 +156,7 @@ Ce dont il s’agit, c’est de ce que la pensée désigne comme *le crime* en c
 
 <!-- id: s7-22-0038 -->
 
-> pour autant que sans doute avant lui ce n’était guère venu, au moins apparemment, je veux dire dans une pensée qui s’articule, car nous ne savons pas ce qu’ont pu formuler depuis longtemps les sectes mystiques
+pour autant que sans doute avant lui ce n’était guère venu, au moins apparemment, je veux dire dans une pensée qui s’articule, car nous ne savons pas ce qu’ont pu formuler depuis longtemps les sectes mystiques
 
 <!-- id: s7-22-0039 -->
 
@@ -176,9 +176,9 @@ Effectivement c’est bien un fantasme, où l’analyse montre clairement que le
 
 <!-- id: s7-22-0043 -->
 
-> comme si je ne sais quel tabou, interdiction parente de cette difficulté que nous connaissons bien
->
-> chez nos patients à avouer ce qui est à proprement parler de l’ordre du fantasme
+comme si je ne sais quel tabou, interdiction parente de cette difficulté que nous connaissons bien
+
+chez nos patients à avouer ce qui est à proprement parler de l’ordre du fantasme
 
 <!-- id: s7-22-0044 -->
 
@@ -378,9 +378,13 @@ Mais nous, nous ne pouvons pas le faire. Et ce que je veux produire c’est ceci
 
 <!-- id: s7-22-0093 -->
 
-> « *Ce que j’ai pu réfléchir sur la route, et combien de fois je me suis retourné pour prendre mes jambes à mon cou,*
->
-> *et c’est comme ça qu’une route courte devient un long chemin.* ».
+<div class="text-quotation">
+
+« *Ce que j’ai pu réfléchir sur la route, et combien de fois je me suis retourné pour prendre mes jambes à mon cou,*
+
+*et c’est comme ça qu’une route courte devient un long chemin.* ».
+
+</div>
 
 <!-- id: s7-22-0094 -->
 

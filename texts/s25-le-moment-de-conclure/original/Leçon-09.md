@@ -70,7 +70,7 @@ Ce que je justifie en disant que ce trou par définition n’a pas à proprement
 
 <!-- id: s25-09-0017 -->
 
-> ceci est également un simple cercle et se trouvera ici après que l’axe ait été saisi
+ceci est également un simple cercle et se trouvera ici après que l’axe ait été saisi
 
 <!-- id: s25-09-0018 -->
 
@@ -126,7 +126,7 @@ Alors là-dedans, l’espace est divi­sé en deux moitiés et cette surface a d
 
 <!-- id: s25-09-0031 -->
 
-> que je dessine ici par des poils, des poils sur la surface ...est ici : ceci c’est une face, et il y a une autre face. Bon !
+que je dessine ici par des poils, des poils sur la surface ...est ici : ceci c’est une face, et il y a une autre face. Bon !
 
 <!-- id: s25-09-0032 -->
 

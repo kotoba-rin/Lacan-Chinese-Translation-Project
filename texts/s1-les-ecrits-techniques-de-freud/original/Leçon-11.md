@@ -166,7 +166,7 @@ C’est pourquoi il a dit également non moins nettement qu’au stade primitif�
 
 <!-- id: s1-11-0041 -->
 
-> à un stade antérieur à ce que nous permet de pénétrer notre investigation proprement *psychana­lytique*
+à un stade antérieur à ce que nous permet de pénétrer notre investigation proprement *psychana­lytique*
 
 <!-- id: s1-11-0042 -->
 
@@ -314,7 +314,7 @@ Et j’ai l’im­pression, pour reprendre la ligne de ce que vous disiez, que c
 
 <!-- id: s1-11-0078 -->
 
-> c’est la seule que FREUD lui reconnaisse d’ailleurs dans ce texte, les autres termes ne venant qu’en confirmation
+c’est la seule que FREUD lui reconnaisse d’ailleurs dans ce texte, les autres termes ne venant qu’en confirmation
 
 <!-- id: s1-11-0079 -->
 
@@ -438,9 +438,9 @@ Il est certain que l’image ne peut être vue avec une suffisante netteté pour
 
 <!-- id: s1-11-0109 -->
 
-> cette illusion très particulière qui s’appelle une *illusion réelle* - ce n’est pas comme l’image que vous voyez *dans le miroir*,
->
-> qui n’est pas où vous la voyez - image qui est là où vous la voyez
+cette illusion très particulière qui s’appelle une *illusion réelle* - ce n’est pas comme l’image que vous voyez *dans le miroir*,
+
+qui n’est pas où vous la voyez - image qui est là où vous la voyez
 
 <!-- id: s1-11-0110 -->
 

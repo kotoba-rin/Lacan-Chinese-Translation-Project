@@ -30,10 +30,10 @@ dans *Hemmung, Symptom und Angst -* dans l’ap­pendice В : *« Ergänzung zu
 
 <!-- id: s10-13-0006 -->
 
-> et après tout je n’aurai besoin que de vous rappeler la masse même de l’article
->
-> pour dire que cette caractéristique d’être sans objet ne peut pas être retenue
-> ...mais la phrase même d’avant, Freud dit :
+et après tout je n’aurai besoin que de vous rappeler la masse même de l’article
+
+pour dire que cette caractéristique d’être sans objet ne peut pas être retenue
+...mais la phrase même d’avant, Freud dit :
 
 <!-- id: s10-13-0007 -->
 
@@ -101,25 +101,25 @@ je me souvenais de ce que je crois déjà vous avoir signalé dans une petite - 
 
 <!-- id: s10-13-0018 -->
 
-> j’ai vainement essayé de me faire rendre compte du titre que cette nouvelle a en russe,
->
-> car inexplicablement cette notation parfaitement repérée avec son année dans la traduction française,
->
-> mais que nul de mes auditeurs russophones n’a pu me la retrouver, même avec l’aide de cette date,
->
-> dans les éditions de Tchekhov, qui sont pourtant faites en général chronologiques.
->
-> C’est sin­gulier, c’est déroutant, et je ne peux pas dire que je n’en sois pas déçu
-> ...dans cette notation, sous le terme de « *Frayeurs* »[^85], les frayeurs qu’il а éprouvées, lui, Tchekhov...
-> je vous ai, je crois, une fois déjà signalé de quoi il s’agissait
-> ...un jour, avec un jeune garçon qui conduit son traîneau...
-> « *droschka* » je crois que ça s’appelle, quelque chose comme ça
-> ...il s’avance dans une plaine, et au loin, au coucher du soleil, et le soleil étant déjà tombé sous l’horizon,
-> il voit dans un clocher qui apparaît...
-> à une approche raisonnable pour en voir les détails,
-> *...*il voit vaciller par une lucarne, à un étage très élevé du clocher...
-> auquel il sait, parce qu’il connaît l’endroit, qu’on ne peut accéder d’aucune façon
-> ...une mystérieuse, inexpli­cable, flamme, que rien ne lui permet d’attribuer à aucun effet de reflet.
+j’ai vainement essayé de me faire rendre compte du titre que cette nouvelle a en russe,
+
+car inexplicablement cette notation parfaitement repérée avec son année dans la traduction française,
+
+mais que nul de mes auditeurs russophones n’a pu me la retrouver, même avec l’aide de cette date,
+
+dans les éditions de Tchekhov, qui sont pourtant faites en général chronologiques.
+
+C’est sin­gulier, c’est déroutant, et je ne peux pas dire que je n’en sois pas déçu
+...dans cette notation, sous le terme de « *Frayeurs* »[^85], les frayeurs qu’il а éprouvées, lui, Tchekhov...
+je vous ai, je crois, une fois déjà signalé de quoi il s’agissait
+...un jour, avec un jeune garçon qui conduit son traîneau...
+« *droschka* » je crois que ça s’appelle, quelque chose comme ça
+...il s’avance dans une plaine, et au loin, au coucher du soleil, et le soleil étant déjà tombé sous l’horizon,
+il voit dans un clocher qui apparaît...
+à une approche raisonnable pour en voir les détails,
+*...*il voit vaciller par une lucarne, à un étage très élevé du clocher...
+auquel il sait, parce qu’il connaît l’endroit, qu’on ne peut accéder d’aucune façon
+...une mystérieuse, inexpli­cable, flamme, que rien ne lui permet d’attribuer à aucun effet de reflet.
 
 <!-- id: s10-13-0019 -->
 
@@ -520,13 +520,13 @@ Ce que le sadique cherche dans l’Autre...
 
 <!-- id: s10-13-0091 -->
 
-> car il est bien clair que pour lui *l’Autre existe* et que ce n’est pas parce qu’il le prend pour objet
->
-> que nous devons dire qu’il у а là je ne sais quelle relation que nous appelle­rions « *immature »*,
->
-> ou encore, comme on s’exprime : « *prégénitale »*
-> *...*l’Autre est absolument essentiel et c’est bien ce que j’ai voulu articuler, quand je vous ai fait mon séminaire sur *L’éthique,*
-> en rapprochant Sade de Kant.
+car il est bien clair que pour lui *l’Autre existe* et que ce n’est pas parce qu’il le prend pour objet
+
+que nous devons dire qu’il у а là je ne sais quelle relation que nous appelle­rions « *immature »*,
+
+ou encore, comme on s’exprime : « *prégénitale »*
+*...*l’Autre est absolument essentiel et c’est bien ce que j’ai voulu articuler, quand je vous ai fait mon séminaire sur *L’éthique,*
+en rapprochant Sade de Kant.
 
 <!-- id: s10-13-0092 -->
 
@@ -716,10 +716,10 @@ Il у а des tas d’insectes, diversement répugnants : de la blat­te au cafa
 
 <!-- id: s10-13-0128 -->
 
-> je ne vou­drais pas faire un cours d’anatomie comparée aujourd’hui,
->
-> je vous prie de vous référer aux bons auteurs, à l’occasion je vous les indiquerai
-> ...le dard c’est un instrument : ça sert à accrocher.
+je ne vou­drais pas faire un cours d’anatomie comparée aujourd’hui,
+
+je vous prie de vous référer aux bons auteurs, à l’occasion je vous les indiquerai
+...le dard c’est un instrument : ça sert à accrocher.
 
 <!-- id: s10-13-0129 -->
 
@@ -733,10 +733,10 @@ Notre expérience, à nous hommes, et l’expérience que nous pouvons présumer
 
 <!-- id: s10-13-0131 -->
 
-> tout indique même que là où l’instrument copulatoire est un dard ou une griffe,
->
-> un objet d’accrochage, en tout cas un objet ni tumescent, ni détumescible
-> ...*que la jouissance soit liée à la fonction de l’objet*.
+tout indique même que là où l’instrument copulatoire est un dard ou une griffe,
+
+un objet d’accrochage, en tout cas un objet ni tumescent, ni détumescible
+...*que la jouissance soit liée à la fonction de l’objet*.
 
 <!-- id: s10-13-0132 -->
 
@@ -831,7 +831,7 @@ c’est ce que nous essaierons d’engager la prochaine fois.
 
 <!-- id: s10-13-0148 -->
 
-> [Sainte Agathe](#RAgathe) [Sainte Lucie](#RLucie)
+[Sainte Agathe](#RAgathe) [Sainte Lucie](#RLucie)
 
 ## Notes
 

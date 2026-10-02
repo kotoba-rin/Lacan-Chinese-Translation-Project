@@ -30,7 +30,7 @@ Cet *objet(a)*, si en un certain sens je l’ai inventé…
 
 <!-- id: s16-03-0007 -->
 
-> *comme on peut dire que ce que le discours de Marx invente - qu’est-ce à dire ? - c’est la trouvaille de la plus-value* …ce n’est pas dire, bien sûr, qu’il n’ait pas été, avant mon propre discours, approché, et c’est ce qu’on a appelé \[…\] mais de façon franchement insuffisante, aussi insuffisante qu’était la définition de *la plus-value* avant que la fasse apparaître dans sa rigueur le discours de MARX.
+*comme on peut dire que ce que le discours de Marx invente - qu’est-ce à dire ? - c’est la trouvaille de la plus-value* …ce n’est pas dire, bien sûr, qu’il n’ait pas été, avant mon propre discours, approché, et c’est ce qu’on a appelé \[…\] mais de façon franchement insuffisante, aussi insuffisante qu’était la définition de *la plus-value* avant que la fasse apparaître dans sa rigueur le discours de MARX.
 
 <!-- id: s16-03-0008 -->
 
@@ -58,7 +58,7 @@ Il est clair que personne, sauf une…
 
 <!-- id: s16-03-0014 -->
 
-> ma traductrice italienne dont je n’offenserai pas la modestie : du fait qu’elle a raté l’avion ce matin elle n’est pas là …qui s’est fort bien aperçue il y a quelque temps, de *l’identité de cette fonction de la plus-value et de l’objet(a). Pourquoi pas plus ?*
+ma traductrice italienne dont je n’offenserai pas la modestie : du fait qu’elle a raté l’avion ce matin elle n’est pas là …qui s’est fort bien aperçue il y a quelque temps, de *l’identité de cette fonction de la plus-value et de l’objet(a). Pourquoi pas plus ?*
 
 <!-- id: s16-03-0015 -->
 
@@ -74,13 +74,13 @@ Et pourtant, n’est-il pas singulier…
 
 <!-- id: s16-03-0018 -->
 
-> puisque aussi bien j’ai là un témoignage qui après tout prend sa valeur
->
-> de provenir de quelqu’un qui est d’une génération des plus jeunes …n’est-il pas singulier de voir que par un *effet* qu’assurément je ne désignerai pas pour être celui de mon discours, mais pour être celui du progrès *de la difficulté croissante* qui s’engendre de ce que j’ai appelé cette « *absolutisation du marché du savoir* », je puisse toucher très fréquemment…
+puisque aussi bien j’ai là un témoignage qui après tout prend sa valeur
+
+de provenir de quelqu’un qui est d’une génération des plus jeunes …n’est-il pas singulier de voir que par un *effet* qu’assurément je ne désignerai pas pour être celui de mon discours, mais pour être celui du progrès *de la difficulté croissante* qui s’engendre de ce que j’ai appelé cette « *absolutisation du marché du savoir* », je puisse toucher très fréquemment…
 
 <!-- id: s16-03-0019 -->
 
-> combien plus aisé, dans la génération qui vient, est mon échange …ceux dont après tout, par une petite expérience de calcul, *j’ai pu faire la moyenne d’âge, disons avec ceux qui ont vingt quatre ans.*
+combien plus aisé, dans la génération qui vient, est mon échange …ceux dont après tout, par une petite expérience de calcul, *j’ai pu faire la moyenne d’âge, disons avec ceux qui ont vingt quatre ans.*
 
 <!-- id: s16-03-0020 -->
 
@@ -112,7 +112,7 @@ Ce que j’énonce du sujet comme effet lui-même du discours rend absolument ex
 
 <!-- id: s16-03-0027 -->
 
-> du sujet psychanalytique dont je me fais ici support …par rapport à *ce qui le commande,* et qui tient à *tout le savoir*.
+du sujet psychanalytique dont je me fais ici support …par rapport à *ce qui le commande,* et qui tient à *tout le savoir*.
 
 <!-- id: s16-03-0028 -->
 
@@ -148,7 +148,7 @@ Le rapport de ce *signifiant* 1 à ce *signifiant* 2, pour tous ceux…
 
 <!-- id: s16-03-0036 -->
 
-> et il n’est pas du tout rare de pouvoir l’espérer à partir d’un certain moment …pour tous ceux qui ont quelque *audition* de ce qu’il en est *en logique*, de ce qu’il en est proprement dans *la théorie des ensembles,* de ce qu’on appelle « *une paire ordonnée* », je ne puis ici qu’en donner l’indication quitte à ce que, sur telle demande qui me vienne, j’en donne plus tard *un commentaire*. Cette référence théorique est néanmoins importante à être ici attachée.
+et il n’est pas du tout rare de pouvoir l’espérer à partir d’un certain moment …pour tous ceux qui ont quelque *audition* de ce qu’il en est *en logique*, de ce qu’il en est proprement dans *la théorie des ensembles,* de ce qu’on appelle « *une paire ordonnée* », je ne puis ici qu’en donner l’indication quitte à ce que, sur telle demande qui me vienne, j’en donne plus tard *un commentaire*. Cette référence théorique est néanmoins importante à être ici attachée.
 
 <!-- id: s16-03-0037 -->
 
@@ -168,7 +168,7 @@ Et pour bien marquer les choses dans le vif de ce dont il s’agit, je dirai que
 
 <!-- id: s16-03-0041 -->
 
-> du *mot d’esprit*, comme FREUD s’exprime, du *mot d’esprit* donc, dis-je …que cette construction a commencé.
+du *mot d’esprit*, comme FREUD s’exprime, du *mot d’esprit* donc, dis-je …que cette construction a commencé.
 
 <!-- id: s16-03-0042 -->
 
@@ -176,7 +176,7 @@ Et pour bien marquer les choses dans le vif de ce dont il s’agit, je dirai que
 
 <!-- id: s16-03-0043 -->
 
-> pour reprendre ici le point où je l’ai laissé la dernière fois …mais bien plutôt à quelque chose qui, il faut le dire : sans être parfait, et même sans témoigner de négligence singulière, a la portée pourtant de témoigner qu’à telle date dans le *Bulletin de Psychologie,* ce compte-rendu, ce résumé, a été imprimé.
+pour reprendre ici le point où je l’ai laissé la dernière fois …mais bien plutôt à quelque chose qui, il faut le dire : sans être parfait, et même sans témoigner de négligence singulière, a la portée pourtant de témoigner qu’à telle date dans le *Bulletin de Psychologie,* ce compte-rendu, ce résumé, a été imprimé.
 
 <!-- id: s16-03-0044 -->
 
@@ -184,7 +184,7 @@ On peut y voir que dès cette époque, combien *préhistorique* par rapport à l
 
 <!-- id: s16-03-0045 -->
 
-> à ce niveau qui suivait ce que j’avais fait l’année précédente sur *La relation d’objet* \[56-57\] …qui n’est pas désigné, mais bel et bien préfiguré, pour quiconque a entendu la suite, dans la fonction de *l’objet métonymique*.
+à ce niveau qui suivait ce que j’avais fait l’année précédente sur *La relation d’objet* \[56-57\] …qui n’est pas désigné, mais bel et bien préfiguré, pour quiconque a entendu la suite, dans la fonction de *l’objet métonymique*.
 
 <!-- id: s16-03-0046 -->
 
@@ -204,7 +204,7 @@ Que nous mettions le δ́ ou que nous ne le mettions pas, il est clair que…
 
 <!-- id: s16-03-0050 -->
 
-> à voir le dessin de cette courbe avec cette marque de *flèche* à l’extrémité et cette petite pyramide au départ …il n’est pas question de la faire partir d’ici pour aller en sens contraire. Qu’importe !
+à voir le dessin de cette courbe avec cette marque de *flèche* à l’extrémité et cette petite pyramide au départ …il n’est pas question de la faire partir d’ici pour aller en sens contraire. Qu’importe !
 
 <!-- id: s16-03-0051 -->
 
@@ -234,7 +234,7 @@ Quoi serait plus naturel, ne serait-ce que d’une façon didactique, que d’av
 
 <!-- id: s16-03-0057 -->
 
-> et après tout, pourquoi moi-même ne tremblerais-je pas à présent quand je songe combien fut longue cette marche, de m’être laissé aller alors à une pareille faiblesse, Dieu merci, il n’en est rien. Je lis sous la plume du *scribe* d’alors qui, malgré ses négligences, n’en a pas moins fort bien retenu ici ce qui est essentiel : …« *Notre schéma représente non le signifiant et le signifié, mais deux états du signifiant* ».
+et après tout, pourquoi moi-même ne tremblerais-je pas à présent quand je songe combien fut longue cette marche, de m’être laissé aller alors à une pareille faiblesse, Dieu merci, il n’en est rien. Je lis sous la plume du *scribe* d’alors qui, malgré ses négligences, n’en a pas moins fort bien retenu ici ce qui est essentiel : …« *Notre schéma représente non le signifiant et le signifié, mais deux états du signifiant* ».
 
 <!-- id: s16-03-0058 -->
 
@@ -246,7 +246,7 @@ Quoi serait plus naturel, ne serait-ce que d’une façon didactique, que d’av
 
 <!-- id: s16-03-0060 -->
 
-> je ne vous le répète pas comme il l’énonce puisqu’il l’énonce de travers mais c’est évidemment celui-ci …le circuit qui se désigne \[→ γ → A → \] « *représente la chaîne du signifiant en tant qu’elle reste perméable aux effets de la métaphore et de la métonymie, c’est pourquoi nous la tenons pour constituée au niveau des phonèmes* ».
+je ne vous le répète pas comme il l’énonce puisqu’il l’énonce de travers mais c’est évidemment celui-ci …le circuit qui se désigne \[→ γ → A → \] « *représente la chaîne du signifiant en tant qu’elle reste perméable aux effets de la métaphore et de la métonymie, c’est pourquoi nous la tenons pour constituée au niveau des phonèmes* ».
 
 <!-- id: s16-03-0061 -->
 
@@ -258,7 +258,7 @@ Vous sentez bien combien ceci, au niveau où je l’édifie, peut être conditio
 
 <!-- id: s16-03-0063 -->
 
-> encore fallait-il s’apercevoir que c’était là l’accès le plus évident …*de mettre en place la formation de l’inconscient* en tant qu’elle peut produire à l’occasion le *Witz*, ce qu’il en est dans la formation du mot « *famillionnaire* ». Est-ce qu’il n’est pas évident que ceci ne peut se produire que pour autant que puisse se recouper, en une *interférence* précise, structuralement définissable :
+encore fallait-il s’apercevoir que c’était là l’accès le plus évident …*de mettre en place la formation de l’inconscient* en tant qu’elle peut produire à l’occasion le *Witz*, ce qu’il en est dans la formation du mot « *famillionnaire* ». Est-ce qu’il n’est pas évident que ceci ne peut se produire que pour autant que puisse se recouper, en une *interférence* précise, structuralement définissable :
 
 <!-- id: s16-03-0064 -->
 
@@ -274,11 +274,11 @@ Quand Hirsch HYACINTHE…
 
 <!-- id: s16-03-0067 -->
 
-> dont il est essentiel qu’ici ce ne soit pas par Henri HEINE (autre **H.H**.) qu’il soit raconté …quand Hirsch HYACINTHE, parlant de Salomon ROTHSCHILD, dit qu’il l’a reçu d’une façon « *tout à fait familière* »…
+dont il est essentiel qu’ici ce ne soit pas par Henri HEINE (autre **H.H**.) qu’il soit raconté …quand Hirsch HYACINTHE, parlant de Salomon ROTHSCHILD, dit qu’il l’a reçu d’une façon « *tout à fait familière* »…
 
 <!-- id: s16-03-0068 -->
 
-> *voilà ce qui vient : « familièrement », sur le cercle du discours* …vient à dire qu’il l’a reçu d’une façon « *famillionnaire* ».
+*voilà ce qui vient : « familièrement », sur le cercle du discours* …vient à dire qu’il l’a reçu d’une façon « *famillionnaire* ».
 
 <!-- id: s16-03-0069 -->
 
@@ -322,7 +322,7 @@ Quelle est la fonction de chacun de ceux qui passent entre les mailles du résea
 
 <!-- id: s16-03-0079 -->
 
-> qu’insuffisamment épingle la notion de l’exploitation de certains hommes par d’autres …tous ceux qui ne sont pas pris dans ces deux extrêmes de la chaîne, que sont-ils dans cette perspective, sinon *des employés* ?
+qu’insuffisamment épingle la notion de l’exploitation de certains hommes par d’autres …tous ceux qui ne sont pas pris dans ces deux extrêmes de la chaîne, que sont-ils dans cette perspective, sinon *des employés* ?
 
 <!-- id: s16-03-0080 -->
 
@@ -342,7 +342,7 @@ C’est à savoir que rien n’en saurait être articulé concernant la fonction
 
 <!-- id: s16-03-0084 -->
 
-> *à un autre niveau uniquement en vertu des dimensions du papier* …se présenter comme l’*étage supérieur*, mais qui n’est là - *on pourrait aussi bien le décrire à l’envers -* qu’en tant qu’il est *appendu* précisément à *cette fonction du grand A* qui est celle que nous avons aujourd’hui à interroger.
+*à un autre niveau uniquement en vertu des dimensions du papier* …se présenter comme l’*étage supérieur*, mais qui n’est là - *on pourrait aussi bien le décrire à l’envers -* qu’en tant qu’il est *appendu* précisément à *cette fonction du grand A* qui est celle que nous avons aujourd’hui à interroger.
 
 <!-- id: s16-03-0085 -->
 
@@ -378,7 +378,7 @@ Si ici, ce qui s’y rapporte…
 
 <!-- id: s16-03-0093 -->
 
-> *comme homologue à la fonctions* *s*(A)*, c’est-à-dire à ce qui se produit comme effet de sujet dans l’énonciation* …ici donc, l’indice ou l’indication S(A) est maintenant ce que nous avons, *non pas* je dirai *à interpréter pour la première fois*, car je l’ai fait déjà sous plusieurs formes, mais à réinterroger dans la perspective qu’aujourd’hui nous introduisons.
+*comme homologue à la fonctions* *s*(A)*, c’est-à-dire à ce qui se produit comme effet de sujet dans l’énonciation* …ici donc, l’indice ou l’indication S(A) est maintenant ce que nous avons, *non pas* je dirai *à interpréter pour la première fois*, car je l’ai fait déjà sous plusieurs formes, mais à réinterroger dans la perspective qu’aujourd’hui nous introduisons.
 
 <!-- id: s16-03-0094 -->
 
@@ -410,9 +410,9 @@ C’est là le sens de ce que FREUD désigne comme l’*Urverdrängung…*
 
 <!-- id: s16-03-0101 -->
 
-> ce prétendu *refoulement* qui est *dit*, expressément *formulé* comme n’en étant pas un,
->
-> mais comme étant ce noyau déjà hors de portée du sujet, tout en étant savoir …c’est là ce que signifie la notion d’*Urverdrängung* pour autant qu’elle rend possible que toute une chaîne signifiante vienne la rejoindre, impliquant cette énigme, cette véritable *contradictio in adjecto*, qu’est le sujet comme inconscient.
+ce prétendu *refoulement* qui est *dit*, expressément *formulé* comme n’en étant pas un,
+
+mais comme étant ce noyau déjà hors de portée du sujet, tout en étant savoir …c’est là ce que signifie la notion d’*Urverdrängung* pour autant qu’elle rend possible que toute une chaîne signifiante vienne la rejoindre, impliquant cette énigme, cette véritable *contradictio in adjecto*, qu’est le sujet comme inconscient.
 
 <!-- id: s16-03-0102 -->
 
@@ -432,9 +432,9 @@ Il ne s’agit point ici de la parole et je ne vous ai point encore montré…
 
 <!-- id: s16-03-0106 -->
 
-> si déjà pourtant je l’ai fait entrer en jeu en vous rappelant le discours que j’ai attribué à cette *personne insaisissable* essentiellement que j’ai appelée *La Vérité*, si je lui ai fait dire « *Moi la vérité, je parle.* »
->
-> *c’est bien* - je l’ai souligné - *qu’il s’agit d’autre chose que de ce qu’elle dit* …je l’indique ici pour marquer qu’*elle est à l’arrière-plan, qu’elle nous attend quant à ce que nous avons à dire de la fonction du discours*.
+si déjà pourtant je l’ai fait entrer en jeu en vous rappelant le discours que j’ai attribué à cette *personne insaisissable* essentiellement que j’ai appelée *La Vérité*, si je lui ai fait dire « *Moi la vérité, je parle.* »
+
+*c’est bien* - je l’ai souligné - *qu’il s’agit d’autre chose que de ce qu’elle dit* …je l’indique ici pour marquer qu’*elle est à l’arrière-plan, qu’elle nous attend quant à ce que nous avons à dire de la fonction du discours*.
 
 <!-- id: s16-03-0107 -->
 
@@ -442,7 +442,7 @@ Reprenons-la maintenant et observons que dans ce dont il s’agit dans la chaîn
 
 <!-- id: s16-03-0108 -->
 
-> c’est un artifice d’exposition - je n’ai point ici à le dissimuler - qui m’évite une introduction par la voie de *la théorie des ensembles* et le rappel, s’il fallait que je le fasse, il faudrait que je le fasse un tant soit peu articulé …du rappel de ce fait qu’au premier pas, cette théorie trébuche sur *un paradoxe*, celui qu’on appelle *le paradoxe de Russell*.
+c’est un artifice d’exposition - je n’ai point ici à le dissimuler - qui m’évite une introduction par la voie de *la théorie des ensembles* et le rappel, s’il fallait que je le fasse, il faudrait que je le fasse un tant soit peu articulé …du rappel de ce fait qu’au premier pas, cette théorie trébuche sur *un paradoxe*, celui qu’on appelle *le paradoxe de Russell*.
 
 <!-- id: s16-03-0109 -->
 
@@ -454,7 +454,7 @@ Rien d’autre n’est indiqué encore dans ce qu’articule la première défin
 
 <!-- id: s16-03-0111 -->
 
-> que nous pouvons définir comme nous voulons, le terme le plus simple sera celui d’appartenance …rapport d’un signifiant à un autre signifiant \[S<sub>2</sub>\], dans ce rapport, avons-nous dit, il \[S<sub>1</sub>\] représente le sujet \[S<sub>1</sub>/S\].
+que nous pouvons définir comme nous voulons, le terme le plus simple sera celui d’appartenance …rapport d’un signifiant à un autre signifiant \[S<sub>2</sub>\], dans ce rapport, avons-nous dit, il \[S<sub>1</sub>\] représente le sujet \[S<sub>1</sub>/S\].
 
 <!-- id: s16-03-0112 -->
 
@@ -500,7 +500,7 @@ Cette façon de poser le problème…
 
 <!-- id: s16-03-0122 -->
 
-> je le dis pour rassurer aussi ceux que cela peut inquiéter …n’est point du tout étrangère à ce qui constitue le départ d’un certain *phylum* [^14] de formalisation dans *la logique mathématique*.
+je le dis pour rassurer aussi ceux que cela peut inquiéter …n’est point du tout étrangère à ce qui constitue le départ d’un certain *phylum* [^14] de formalisation dans *la logique mathématique*.
 
 <!-- id: s16-03-0123 -->
 
@@ -512,11 +512,11 @@ La question est si bien posée au niveau de la logique mathématique qu’il est
 
 <!-- id: s16-03-0125 -->
 
-> dont, plût au Ciel qu’elle nous concernât de plus près car les problèmes y sont résolus …c’est à savoir que « *la classe des ensembles qui se contiennent eux-mêmes* »…
+dont, plût au Ciel qu’elle nous concernât de plus près car les problèmes y sont résolus …c’est à savoir que « *la classe des ensembles qui se contiennent eux-mêmes* »…
 
 <!-- id: s16-03-0126 -->
 
-> vous en voyez là un exemple au moins indiqué sous la forme de cette inscription …cette « *classe* » n’existe pas.
+vous en voyez là un exemple au moins indiqué sous la forme de cette inscription …cette « *classe* » n’existe pas.
 
 <!-- id: s16-03-0127 -->
 
@@ -524,7 +524,7 @@ Mais nous avons autre chose à faire que de la logique mathématique. Notre rapp
 
 <!-- id: s16-03-0128 -->
 
-> ce que très précisément, à la fin de l’année dernière, j’ai ici proféré qu’il n’y est pas ce *dialogue* …si donc cet Autre pouvait être conçu comme *le code* fermé, celui sur le clavier duquel il n’y a qu’à appuyer pour que le discours s’institue sans faille, pour que le discours puisse s’y totaliser, c’est ceci que, de cette façon rudimentaire et en quelque sorte en marge de la théorie des ensembles, j’interroge.
+ce que très précisément, à la fin de l’année dernière, j’ai ici proféré qu’il n’y est pas ce *dialogue* …si donc cet Autre pouvait être conçu comme *le code* fermé, celui sur le clavier duquel il n’y a qu’à appuyer pour que le discours s’institue sans faille, pour que le discours puisse s’y totaliser, c’est ceci que, de cette façon rudimentaire et en quelque sorte en marge de la théorie des ensembles, j’interroge.
 
 <!-- id: s16-03-0129 -->
 
@@ -544,9 +544,9 @@ Vous voyez donc ce qui se produit : à partir de ce procès nous allons avoir u
 
 <!-- id: s16-03-0133 -->
 
-> je ne sais pas ce que c’est que ces cercles que je dessine,
->
-> ils nous ont servi à faire fonctionner l’ensemble et sa désignation comme telle …nous avons une répétition indéfinie du S sans que nous puissions à la fin jamais arrêter le recul, si je puis dire, du grand A.
+je ne sais pas ce que c’est que ces cercles que je dessine,
+
+ils nous ont servi à faire fonctionner l’ensemble et sa désignation comme telle …nous avons une répétition indéfinie du S sans que nous puissions à la fin jamais arrêter le recul, si je puis dire, du grand A.
 
 <!-- id: s16-03-0134 -->
 
@@ -562,7 +562,7 @@ Ce caractère *insaisissable* n’est sûrement pas pour nous surprendre puisque
 
 <!-- id: s16-03-0137 -->
 
-> simplement de ce fait que nous pouvons l’écrire à l’extérieur et à l’intérieur …que ces cercles ne font qu’*indexer* cette identité.
+simplement de ce fait que nous pouvons l’écrire à l’extérieur et à l’intérieur …que ces cercles ne font qu’*indexer* cette identité.
 
 <!-- id: s16-03-0138 -->
 
@@ -582,7 +582,7 @@ En d’autres termes, ce que nous savons déjà d’une expérience fondamentale
 
 <!-- id: s16-03-0142 -->
 
-> qui n’est point expérience de hasard, production caduque des prêtres …à savoir la question « *Dieu existe-t-il ?* », nous nous apercevons que cette question ne prend son poids que de précisément reposer sur une structure plus fondamentale, c’est à savoir : *au lieu du savoir pouvons-nous dire qu’en quelque façon le savoir se sache lui-même ?*
+qui n’est point expérience de hasard, production caduque des prêtres …à savoir la question « *Dieu existe-t-il ?* », nous nous apercevons que cette question ne prend son poids que de précisément reposer sur une structure plus fondamentale, c’est à savoir : *au lieu du savoir pouvons-nous dire qu’en quelque façon le savoir se sache lui-même ?*
 
 <!-- id: s16-03-0143 -->
 
@@ -598,7 +598,7 @@ Ce cercle qui dessine cette forme que, plus simplement encore, je veux dire pour
 
 <!-- id: s16-03-0146 -->
 
-> étant donné ce caractère qu’a mon dessin d’être un cercle qui se retrouve lui–même, mais retourné, puisque le plus intérieur vient se conjoindre pour que sens puisse lui être donné d’index de la difficulté dont il s’agit …me référer dis-je, à la *bouteille de Klein*, dont j’ai assez fait - j’espère - de dessins ici, pour que quelques uns s’en souviennent.
+étant donné ce caractère qu’a mon dessin d’être un cercle qui se retrouve lui–même, mais retourné, puisque le plus intérieur vient se conjoindre pour que sens puisse lui être donné d’index de la difficulté dont il s’agit …me référer dis-je, à la *bouteille de Klein*, dont j’ai assez fait - j’espère - de dessins ici, pour que quelques uns s’en souviennent.
 
 <!-- id: s16-03-0147 -->
 
@@ -610,9 +610,9 @@ Ce qui en apparaît - c’est quoi ? - c’est que *cette structure*…
 
 <!-- id: s16-03-0149 -->
 
-> et en tant que, vous le voyez, nous pouvons lui donner quelque support *imaginaire*,
->
-> et c’est bien ce en quoi nous devons être particulièrement sobres …*cette structure n’est rien d’autre que l’objet(a)*. C’est justement *en ceci que l’objet(a) c’est le trou qui se désigne au niveau de l’Autre* comme tel, qui est mis en question pour nous dans sa relation au sujet.
+et en tant que, vous le voyez, nous pouvons lui donner quelque support *imaginaire*,
+
+et c’est bien ce en quoi nous devons être particulièrement sobres …*cette structure n’est rien d’autre que l’objet(a)*. C’est justement *en ceci que l’objet(a) c’est le trou qui se désigne au niveau de l’Autre* comme tel, qui est mis en question pour nous dans sa relation au sujet.
 
 <!-- id: s16-03-0150 -->
 
@@ -624,7 +624,7 @@ Il suffit…
 
 <!-- id: s16-03-0152 -->
 
-> et je vous laisse aller chercher dans les premières pages de n’importe quelle théorie, naïve ou pas, des ensembles …il suffit que vous vous y reportiez pour savoir que, de la même façon que c’est parfaitement illustré dans l’articulation du sophisme, la classe de tous les catalogues qui ne se contiennent pas eux-mêmes ne saurait d’aucune façon se situer sous forme d’ensemble pour la bonne raison qu’elle ne peut d’aucune façon se reconnaître dans les éléments déjà inscrits de *cet ensemble*.
+et je vous laisse aller chercher dans les premières pages de n’importe quelle théorie, naïve ou pas, des ensembles …il suffit que vous vous y reportiez pour savoir que, de la même façon que c’est parfaitement illustré dans l’articulation du sophisme, la classe de tous les catalogues qui ne se contiennent pas eux-mêmes ne saurait d’aucune façon se situer sous forme d’ensemble pour la bonne raison qu’elle ne peut d’aucune façon se reconnaître dans les éléments déjà inscrits de *cet ensemble*.
 
 <!-- id: s16-03-0153 -->
 
@@ -636,7 +636,7 @@ Je ne vous en ferai pas ici au tableau étalage, il suffit simplement de ceci qu
 
 <!-- id: s16-03-0155 -->
 
-> *en tant que contrairement à lui, il ne part pas de ceci, que comme A, par rapport à lui-même, il se contient lui-même* …à seulement vouloir l’isoler, *vous ne savez* - faites-en l’épreuve - *où le loger* : *s’il est dehors il est dedans, s’il est dedans il est dehors.*
+*en tant que contrairement à lui, il ne part pas de ceci, que comme A, par rapport à lui-même, il se contient lui-même* …à seulement vouloir l’isoler, *vous ne savez* - faites-en l’épreuve - *où le loger* : *s’il est dehors il est dedans, s’il est dedans il est dehors.*
 
 <!-- id: s16-03-0156 -->
 
@@ -644,7 +644,7 @@ En d’autres termes que d’aucune façon, pour tout discours qui se pose comme
 
 <!-- id: s16-03-0157 -->
 
-> je parle ici non pas du signifiant, mais de ce qui est articulé comme discours …sera toujours à extraire de quelque champ que ce soit qui prétend le totaliser.
+je parle ici non pas du signifiant, mais de ce qui est articulé comme discours …sera toujours à extraire de quelque champ que ce soit qui prétend le totaliser.
 
 <!-- id: s16-03-0158 -->
 
@@ -660,7 +660,7 @@ Ceci, je m’en excuse, pour finir, est sans doute un peu difficile, mais observ
 
 <!-- id: s16-03-0161 -->
 
-> *que dans une métaphore spatiale nous appelons trou, en tant que c’est la structure du cross-cap ou de la bouteille de Klein* …sort précisément de *ce centre où le (a) se pose comme absence*.
+*que dans une métaphore spatiale nous appelons trou, en tant que c’est la structure du cross-cap ou de la bouteille de Klein* …sort précisément de *ce centre où le (a) se pose comme absence*.
 
 <!-- id: s16-03-0162 -->
 

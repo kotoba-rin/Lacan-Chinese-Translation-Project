@@ -14,7 +14,7 @@ Je n’ai pas été sans avoir écho des difficultés que déjà vous-mêmes la 
 
 <!-- id: s6-02-0003 -->
 
-> c’est-à-dire à un moment où il était loin d’être pour tous nouveau
+c’est-à-dire à un moment où il était loin d’être pour tous nouveau
 
 <!-- id: s6-02-0004 -->
 
@@ -26,7 +26,7 @@ Que vous ne puissiez pas, comme certains le remarquent, vous apercevoir que son 
 
 <!-- id: s6-02-0006 -->
 
-> à différents degrés, peut-être même moins qu’ils ne l’émettent eux-mêmes
+à différents degrés, peut-être même moins qu’ils ne l’émettent eux-mêmes
 
 <!-- id: s6-02-0007 -->
 
@@ -58,7 +58,7 @@ Je pense aujourd’hui, si j’en ai le temps, pouvoir commencer de voir par exe
 
 <!-- id: s6-02-0014 -->
 
-> ce n’est pas à l’uniforme sous lequel il puisse être présenté qu’il faut s’attacher
+ce n’est pas à l’uniforme sous lequel il puisse être présenté qu’il faut s’attacher
 
 <!-- id: s6-02-0015 -->
 
@@ -94,7 +94,7 @@ Refaisons le au moins à petits pas, avant de le mettre en application, pour qu�
 
 <!-- id: s6-02-0023 -->
 
-> et c’est même cela qui serait la difficulté pour beaucoup d’entre vous
+et c’est même cela qui serait la difficulté pour beaucoup d’entre vous
 
 <!-- id: s6-02-0024 -->
 
@@ -106,9 +106,9 @@ C’est justement parce que vous ne la retrouvez pas que ces deux étages vous *
 
 <!-- id: s6-02-0026 -->
 
-> étage évidemment abstraitement défini, parce que comme ce graphe est un discours,
->
-> on ne peut pas tout dire en même temps
+étage évidemment abstraitement défini, parce que comme ce graphe est un discours,
+
+on ne peut pas tout dire en même temps
 
 <!-- id: s6-02-0027 -->
 
@@ -128,7 +128,7 @@ C’est justement autour de cette question que se répartissent *ces deux étage
 
 <!-- id: s6-02-0031 -->
 
-> parce que cela semble, la dernière fois, avoir échappé à certains
+parce que cela semble, la dernière fois, avoir échappé à certains
 
 <!-- id: s6-02-0032 -->
 
@@ -140,7 +140,7 @@ En d’autres termes, si vous pensez aux procès de ce qui se passe dans le suje
 
 <!-- id: s6-02-0034 -->
 
-> dans le sujet en tant qu’intervient dans son activité le signifiant
+dans le sujet en tant qu’intervient dans son activité le signifiant
 
 <!-- id: s6-02-0035 -->
 
@@ -148,9 +148,9 @@ En d’autres termes, si vous pensez aux procès de ce qui se passe dans le suje
 
 <!-- id: s6-02-0036 -->
 
-> que j’ai eu l’occasion d’articuler pour l’un d’entre vous à qui je donnais un petit supplément d’explications après mon séminaire, et si je vous le souligne, c’est parce que mon interlocuteur m’a fait remarquer
->
-> ce que pouvait avoir pour lui de non-aperçu ce que je vais vous dire
+que j’ai eu l’occasion d’articuler pour l’un d’entre vous à qui je donnais un petit supplément d’explications après mon séminaire, et si je vous le souligne, c’est parce que mon interlocuteur m’a fait remarquer
+
+ce que pouvait avoir pour lui de non-aperçu ce que je vais vous dire
 
 <!-- id: s6-02-0037 -->
 
@@ -182,9 +182,9 @@ Les procès donc sont simultanés dans ces quatre *trajets* : D – Δ – I –
 
 <!-- id: s6-02-0044 -->
 
-> \[*Niveau* 1 : D → A... *et* Δ → A → s(A) → I,
->
-> *Niveau* 2 : S(A) →(S◊D), *et* A → *d* → (S◊D) → S(A) → *s*(A)\]
+\[*Niveau* 1 : D → A... *et* Δ → A → s(A) → I,
+
+*Niveau* 2 : S(A) →(S◊D), *et* A → *d* → (S◊D) → S(A) → *s*(A)\]
 
 <!-- id: s6-02-0045 -->
 
@@ -236,9 +236,9 @@ Tout mon point de départ consiste à montrer comment cette demande du sujet est
 
 <!-- id: s6-02-0057 -->
 
-> et même provisoirement - car c’est secondairement que j’aurai à insister là-dessus - dans celui–ci :
->
-> en tant que vous n’avez pas à tenir compte de la ligne : A → *i*(*a*) → *m* → *s*(A).
+et même provisoirement - car c’est secondairement que j’aurai à insister là-dessus - dans celui–ci :
+
+en tant que vous n’avez pas à tenir compte de la ligne : A → *i*(*a*) → *m* → *s*(A).
 
 <!-- id: s6-02-0058 -->
 
@@ -262,7 +262,7 @@ C’est de la *solidarité* de ce système - synchronique en tant que reposant a
 
 <!-- id: s6-02-0063 -->
 
-> fût-elle ce qu’on appelle une satisfaction magique, du moins de refus
+fût-elle ce qu’on appelle une satisfaction magique, du moins de refus
 
 <!-- id: s6-02-0064 -->
 
@@ -302,7 +302,7 @@ C’est la rétroaction sur elle précisément de la forme d’éléments discre
 
 <!-- id: s6-02-0073 -->
 
-> pour autant qu’il est toujours plus ou moins, au sens original du terme, un pédant
+pour autant qu’il est toujours plus ou moins, au sens original du terme, un pédant
 
 <!-- id: s6-02-0074 -->
 
@@ -314,9 +314,9 @@ En d’autres termes, pour donner le sentiment que nous ne nous éloignons pas d
 
 <!-- id: s6-02-0076 -->
 
-> comme on s’exprime couramment dans l’analyse sous la plume de Monsieur GLOVER,
->
-> vous verrez cela articulé : « *le premier noyau de la formation du moi* »
+comme on s’exprime couramment dans l’analyse sous la plume de Monsieur GLOVER,
+
+vous verrez cela articulé : « *le premier noyau de la formation du moi* »
 
 <!-- id: s6-02-0077 -->
 
@@ -328,9 +328,9 @@ Il s’agit de ce qui se produit pour autant que la mère n’est pas simplement
 
 <!-- id: s6-02-0079 -->
 
-> comme il est bien manifeste qu’elle lui parle, et bien avant qu’elle puisse présumer qu’il y entend
->
-> quelque chose, de même qu’il y entend quelque chose bien avant qu’elle ne se l’imagine
+comme il est bien manifeste qu’elle lui parle, et bien avant qu’elle puisse présumer qu’il y entend
+
+quelque chose, de même qu’il y entend quelque chose bien avant qu’elle ne se l’imagine
 
 <!-- id: s6-02-0080 -->
 
@@ -370,7 +370,7 @@ Passons au *second étage* de ce graphe, celui donc que la dernière fois, il se
 
 <!-- id: s6-02-0089 -->
 
-> *alors que j’y ai fait allusion dans quelque développement*
+*alors que j’y ai fait allusion dans quelque développement*
 
 <!-- id: s6-02-0090 -->
 
@@ -442,7 +442,7 @@ Je rappelle pour ceux qui n’étaient pas là, la différence qu’il y a en fr
 
 <!-- id: s6-02-0107 -->
 
-> c’est une finesse que toutes les langues ne permettent pas de mettre en évidence
+c’est une finesse que toutes les langues ne permettent pas de mettre en évidence
 
 <!-- id: s6-02-0108 -->
 
@@ -458,9 +458,9 @@ Ce discours…
 
 <!-- id: s6-02-0111 -->
 
-> donc le discours qui se formule au niveau du second étage,
->
-> et qui est le discours de toujours, nous ne distinguons qu’arbitrairement ces deux étages
+donc le discours qui se formule au niveau du second étage,
+
+et qui est le discours de toujours, nous ne distinguons qu’arbitrairement ces deux étages
 
 <!-- id: s6-02-0112 -->
 
@@ -468,7 +468,7 @@ Ce discours…
 
 <!-- id: s6-02-0113 -->
 
-> qui comme tout discours, est *le discours de l’Autre* même quand c’est le sujet qui le tient
+qui comme tout discours, est *le discours de l’Autre* même quand c’est le sujet qui le tient
 
 <!-- id: s6-02-0114 -->
 
@@ -480,7 +480,7 @@ Avec plus ou moins de force, il contient toujours…
 
 <!-- id: s6-02-0116 -->
 
-> et c’est là une fois de plus une des merveilleuses équivoques homophoniques que contient le français
+et c’est là une fois de plus une des merveilleuses équivoques homophoniques que contient le français
 
 <!-- id: s6-02-0117 -->
 
@@ -516,7 +516,7 @@ Elles sont sujettes à enregistrement, elles sont souvent action pour prendre ac
 
 <!-- id: s6-02-0125 -->
 
-> comme on dit, et contrairement à ce qui se passe, ou plus exactement conformément à tout ce qui se passe chez le juge d’instruction
+comme on dit, et contrairement à ce qui se passe, ou plus exactement conformément à tout ce qui se passe chez le juge d’instruction
 
 <!-- id: s6-02-0126 -->
 
@@ -600,7 +600,7 @@ Qu’est-ce que veut dire le désir ? Où se situe-t-il ?
 
 <!-- id: s6-02-0146 -->
 
-> <img src="assets/image12.jpeg" style="width:3.9908in;height:4.55915in" alt="39.jpg" />
+<img src="assets/image12.jpeg" style="width:3.9908in;height:4.55915in" alt="39.jpg" />
 
 <!-- id: s6-02-0147 -->
 
@@ -624,9 +624,9 @@ Je ne le fais pas aujourd’hui, uniquement…
 
 <!-- id: s6-02-0152 -->
 
-> non pas parce que j’en ai pas le temps car je suis disposé à prendre tout mon temps
->
-> pour vous communiquer ce que j’ai à vous dire
+non pas parce que j’en ai pas le temps car je suis disposé à prendre tout mon temps
+
+pour vous communiquer ce que j’ai à vous dire
 
 <!-- id: s6-02-0153 -->
 
@@ -666,9 +666,9 @@ Vous devez donc remarquer la différence…
 
 <!-- id: s6-02-0162 -->
 
-> à condition bien entendu que vous lisiez vraiment, c’est-à-dire que vous ne continuiez pas à penser
->
-> à vos petites affaires pendant que vos yeux parcourent *la Traumdeutung*
+à condition bien entendu que vous lisiez vraiment, c’est-à-dire que vous ne continuiez pas à penser
+
+à vos petites affaires pendant que vos yeux parcourent *la Traumdeutung*
 
 <!-- id: s6-02-0163 -->
 
@@ -720,7 +720,7 @@ Il s’agit justement de savoir pourquoi, mais pour savoir pourquoi je veux simp
 
 <!-- id: s6-02-0175 -->
 
-> *si c’est un homme ou si c’est une femme, et dont il faut bien choisir que c’est un homme et que cela va peut-être entraîner nombre de références contextuelles*
+*si c’est un homme ou si c’est une femme, et dont il faut bien choisir que c’est un homme et que cela va peut-être entraîner nombre de références contextuelles*
 
 <!-- id: s6-02-0176 -->
 
@@ -728,7 +728,7 @@ Il s’agit justement de savoir pourquoi, mais pour savoir pourquoi je veux simp
 
 <!-- id: s6-02-0177 -->
 
-> *comme l’optimisme moralisant sur lequel vous me voyez de temps en temps rompre des lances à l’intérieur de l’analyse*
+*comme l’optimisme moralisant sur lequel vous me voyez de temps en temps rompre des lances à l’intérieur de l’analyse*
 
 <!-- id: s6-02-0178 -->
 
@@ -764,7 +764,7 @@ En d’autres termes, pour nous référer à une expérience beaucoup moins infi
 
 <!-- id: s6-02-0186 -->
 
-> à propos de la moindre distorsion comme on dit de la personnalité ou des images
+à propos de la moindre distorsion comme on dit de la personnalité ou des images
 
 <!-- id: s6-02-0187 -->
 
@@ -776,9 +776,9 @@ Dire à quelqu’un : je vous désire, c’est très précisément lui dire…
 
 <!-- id: s6-02-0189 -->
 
-> mais cela ce n’est pas l’expérience qui le donne toujours,
->
-> sauf pour les braves et instructifs petits pervers, petits et grands
+mais cela ce n’est pas l’expérience qui le donne toujours,
+
+sauf pour les braves et instructifs petits pervers, petits et grands
 
 <!-- id: s6-02-0190 -->
 
@@ -790,9 +790,9 @@ C’est ici…
 
 <!-- id: s6-02-0192 -->
 
-> *puisque j’ai décidé que je ne pousserai pas cette année au-delà d’un certain temps – j’espère m’y tenir encore –*
->
-> *l’épreuve où je vous prie de m’entendre*
+*puisque j’ai décidé que je ne pousserai pas cette année au-delà d’un certain temps – j’espère m’y tenir encore –*
+
+*l’épreuve où je vous prie de m’entendre*
 
 <!-- id: s6-02-0193 -->
 
@@ -804,7 +804,7 @@ C’est ici…
 
 <!-- id: s6-02-0195 -->
 
-> si ce terme de « *désir* » a un sens différent de celui de « *vœu* » dans le rêve
+si ce terme de « *désir* » a un sens différent de celui de « *vœu* » dans le rêve
 
 <!-- id: s6-02-0196 -->
 
@@ -820,9 +820,9 @@ Je voudrais vous dire simplement, histoire de vous laisser un peu en appétit, q
 
 <!-- id: s6-02-0199 -->
 
-> c’est pour cela qu’il est construit comme cela, c’est parce que ça tourne,
->
-> une fois que c’est alimenté par le début, ça se met à tourner indéfiniment à l’intérieur
+c’est pour cela qu’il est construit comme cela, c’est parce que ça tourne,
+
+une fois que c’est alimenté par le début, ça se met à tourner indéfiniment à l’intérieur
 
 <!-- id: s6-02-0200 -->
 
@@ -874,7 +874,7 @@ si vous voulez pour schématiser les choses
 
 <!-- id: s6-02-0212 -->
 
-> c’est-à-dire justement par rapport à une visée qui est celle de l’aboutissement du processus en I
+c’est-à-dire justement par rapport à une visée qui est celle de l’aboutissement du processus en I
 
 <!-- id: s6-02-0213 -->
 

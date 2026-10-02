@@ -77,11 +77,11 @@ Qu’importe ! Ce n’est pas hasard si c’est là que nous devons chercher not
 
 <!-- id: s12-11-0011 -->
 
-> *ce noyau intuitif* qui assurément est là *irréductible* et donne à notre pensée cet indispensable support des dimensions de *l’espace* - *fantasmagorie insuffisante du temps linéaire* - les éléments plus ou moins bien articulés dans l’*Esthétique transcendantale* de KANT …il reste que sur ce support, où vous le voyez, je n’ai point inclus de nombre…
+*ce noyau intuitif* qui assurément est là *irréductible* et donne à notre pensée cet indispensable support des dimensions de *l’espace* - *fantasmagorie insuffisante du temps linéaire* - les éléments plus ou moins bien articulés dans l’*Esthétique transcendantale* de KANT …il reste que sur ce support, où vous le voyez, je n’ai point inclus de nombre…
 
 <!-- id: s12-11-0012 -->
 
-> encore que ce nombre, intuitif ou pas, nous offre un noyau tellement plus résistant, de consistance, d’opacité …vous le voyez, tout l’effort - *dont il s’agit de savoir s’il réussit aux mathématiciens -* est - de ce nombre - *d’opérer cette réduction logique* qui, si réussie que chez certains elle nous apparaisse, nous laisse pourtant suspendus à *quelque chose* dont les mathématiciens témoignent qu’il reste irréductible, ce *quelque chose* qui fait appeler ces nombres du prédicat de *nombres naturels*.
+encore que ce nombre, intuitif ou pas, nous offre un noyau tellement plus résistant, de consistance, d’opacité …vous le voyez, tout l’effort - *dont il s’agit de savoir s’il réussit aux mathématiciens -* est - de ce nombre - *d’opérer cette réduction logique* qui, si réussie que chez certains elle nous apparaisse, nous laisse pourtant suspendus à *quelque chose* dont les mathématiciens témoignent qu’il reste irréductible, ce *quelque chose* qui fait appeler ces nombres du prédicat de *nombres naturels*.
 
 <!-- id: s12-11-0013 -->
 
@@ -93,7 +93,7 @@ Et ce « *tout doit être dit* », c’est-à-dire quelle que soit la bribe, l
 
 <!-- id: s12-11-0015 -->
 
-> qui assurément n’est pas le triangle dessiné au tableau, ni découpé dans un papier, et qui pourtant reste support visualisable, imagination du rapport des deux dimensions conjointes qui suffisent pour le subjectiver …que néanmoins de la moindre opération, celle d’une translation, d’une superposition, il faut que nous *justifiions en mots* ce qui légitime cette application d’un côté sur un côté, de telle ou telle des égalités sur lesquelles nous établirons les vérités \- à propos de ce triangle - les plus élémentaires.
+qui assurément n’est pas le triangle dessiné au tableau, ni découpé dans un papier, et qui pourtant reste support visualisable, imagination du rapport des deux dimensions conjointes qui suffisent pour le subjectiver …que néanmoins de la moindre opération, celle d’une translation, d’une superposition, il faut que nous *justifiions en mots* ce qui légitime cette application d’un côté sur un côté, de telle ou telle des égalités sur lesquelles nous établirons les vérités \- à propos de ce triangle - les plus élémentaires.
 
 <!-- id: s12-11-0016 -->
 
@@ -101,9 +101,9 @@ Ce « *tout doit être dit* » qui nous porte…
 
 <!-- id: s12-11-0017 -->
 
-> maintenant que nous avons appris non seulement à manipuler
->
-> mais à construire bien d’autres choses, d’une autre complication que le triangle …nous savons que ce « *tout doit être dit* », c’est à partir de là que s’est construit, élaboré, échafaudé, tout ce qui de nos jours nous permet, cette *mathématique*, de la concevoir dans cette extraordinaire liberté qui ne se définit que par ce qu’on appelle « *le corps* », c’est-à-dire l’ensemble de signes qui constitueront ce autour de quoi - pour une théorie - autour de quoi nous cernerons cette limite qui nous impose de ne nous servir que de ces éléments individualisés par des *lettres*, plus quelques *signes* qui les conjoindront.
+maintenant que nous avons appris non seulement à manipuler
+
+mais à construire bien d’autres choses, d’une autre complication que le triangle …nous savons que ce « *tout doit être dit* », c’est à partir de là que s’est construit, élaboré, échafaudé, tout ce qui de nos jours nous permet, cette *mathématique*, de la concevoir dans cette extraordinaire liberté qui ne se définit que par ce qu’on appelle « *le corps* », c’est-à-dire l’ensemble de signes qui constitueront ce autour de quoi - pour une théorie - autour de quoi nous cernerons cette limite qui nous impose de ne nous servir que de ces éléments individualisés par des *lettres*, plus quelques *signes* qui les conjoindront.
 
 <!-- id: s12-11-0018 -->
 
@@ -211,7 +211,7 @@ Mais ceci étant posé, pour vous pointer dans quelle direction vous référer p
 
 <!-- id: s12-11-0044 -->
 
-> et *cette image à la limite de l’image*, vous allez le voir, car en fait ce n’en est pas une …que j’essaie ici de présentifier avec certaines références mathématiques, comme celles qu’on appelle « *topologiques* », et dont la forme la plus simple, je m’en contenterai aujourd’hui, vous savez que *c’est fondamentalement la même que celle de la bouteille de Klein*, je vous le rappellerai d’ailleurs - et c’est inscrit au tableau - tout à l’heure : *la bande de Mœbius*.
+et *cette image à la limite de l’image*, vous allez le voir, car en fait ce n’en est pas une …que j’essaie ici de présentifier avec certaines références mathématiques, comme celles qu’on appelle « *topologiques* », et dont la forme la plus simple, je m’en contenterai aujourd’hui, vous savez que *c’est fondamentalement la même que celle de la bouteille de Klein*, je vous le rappellerai d’ailleurs - et c’est inscrit au tableau - tout à l’heure : *la bande de Mœbius*.
 
 <!-- id: s12-11-0045 -->
 
@@ -299,7 +299,7 @@ Car dans *la bouteille de Klein* les deux *bandes de Mœbius se conjoignent* - d
 
 <!-- id: s12-11-0066 -->
 
-> Fig.1 Fig.2
+Fig.1 Fig.2
 
 <!-- id: s12-11-0067 -->
 
@@ -339,11 +339,11 @@ Si la théorie analytique laisse en suspens…
 
 <!-- id: s12-11-0076 -->
 
-> voire au point de laisser croire que laisser la porte ouverte au fait que cet *objet(a)* - que nous identifions à l’objet partiel -
->
-> est quelque chose qui se réduit à un rapport biologique, au rapport du sujet vivant avec *le sein*, avec *les fèces ou cybales*,
->
-> avec *telle ou telle forme plus ou moins incarnée de l’objet(a)*, la fonction du *phallus* étant là tout à fait présente …si *l’objet - (a)* ou non - dépend du rapport avec le A, avec l’Autre, avec le statut que nous devons donner à l’Autre, au A par rapport au sujet, c’est bien là une question qui mérite d’être posée. Et si elle doit l’être, *dans quelle mesure* dépend-elle de ce rapport spécifique à l’Autre que nous *symbolisons* de la figure \[...\], à savoir de celle de la demande ?
+voire au point de laisser croire que laisser la porte ouverte au fait que cet *objet(a)* - que nous identifions à l’objet partiel -
+
+est quelque chose qui se réduit à un rapport biologique, au rapport du sujet vivant avec *le sein*, avec *les fèces ou cybales*,
+
+avec *telle ou telle forme plus ou moins incarnée de l’objet(a)*, la fonction du *phallus* étant là tout à fait présente …si *l’objet - (a)* ou non - dépend du rapport avec le A, avec l’Autre, avec le statut que nous devons donner à l’Autre, au A par rapport au sujet, c’est bien là une question qui mérite d’être posée. Et si elle doit l’être, *dans quelle mesure* dépend-elle de ce rapport spécifique à l’Autre que nous *symbolisons* de la figure \[...\], à savoir de celle de la demande ?
 
 <!-- id: s12-11-0077 -->
 
@@ -391,9 +391,9 @@ Et il nous restera, à partir de ce mode de concevoir, à penser *le plaisir* co
 
 <!-- id: s12-11-0088 -->
 
-> *l’intérieur même de la surface que nous avons appelé (a) – que nous pourrions aussi bien appeler tout autrement à cette occasion,*
->
-> *à savoir la portion ou tout ce que vous voudrez* …c’est dans la mesure où cette surface est capable de se traverser elle-même, dans le prolongement de cette intersection nécessaire, c’est ici que nous situerons ce cas d’investissement narcissique : *la fonction de la douleur* \[Cf. séminaire *L’identification* : 28-02\], qui autrement reste, logiquement, à proprement parler dans le texte de FREUD[^83] - quoique admirablement élucidé - *impensable*.
+*l’intérieur même de la surface que nous avons appelé (a) – que nous pourrions aussi bien appeler tout autrement à cette occasion,*
+
+*à savoir la portion ou tout ce que vous voudrez* …c’est dans la mesure où cette surface est capable de se traverser elle-même, dans le prolongement de cette intersection nécessaire, c’est ici que nous situerons ce cas d’investissement narcissique : *la fonction de la douleur* \[Cf. séminaire *L’identification* : 28-02\], qui autrement reste, logiquement, à proprement parler dans le texte de FREUD[^83] - quoique admirablement élucidé - *impensable*.
 
 <!-- id: s12-11-0089 -->
 
@@ -405,13 +405,21 @@ Mais ces caractères sont tellement, pour quiconque peut se donner la peine d’
 
 <!-- id: s12-11-0091 -->
 
-> « *Que, pour tout ce qui est du ciel et de la terre, que tous*… le terme « *universel* » est bien isolé, posant la fonction de l’*affirmative universelle*
+<div class="text-quotation">
+
+« *Que, pour tout ce qui est du ciel et de la terre, que tous*… le terme « *universel* » est bien isolé, posant la fonction de l’*affirmative universelle*
+
+</div>
 
 <!-- id: s12-11-0092 -->
 
-> … *que tous sachent ce qu’il en est du bien, alors c’est de cela que naît le contraire.*
->
-> *Que tous sachent ce qu’il en est du beau, alors que c’est de cela que naît la laideur.* »
+<div class="text-quotation">
+
+… *que tous sachent ce qu’il en est du bien, alors c’est de cela que naît le contraire.*
+
+*Que tous sachent ce qu’il en est du beau, alors que c’est de cela que naît la laideur.* »
+
+</div>
 
 <!-- id: s12-11-0093 -->
 
@@ -527,7 +535,7 @@ Je commencerai la prochaine fois en vous parlant du *cri* parce que je ne peux p
 
 <!-- id: s12-11-0121 -->
 
-> il est vrai en passe de se faire valoir, ailleurs, dans des endroits où l’on parle bien étrangement des relations analytiques …de ce qu’une personne « *bien intentionnée* » a déclaré avoir cherché de tout son cœur, à la loupe dans mes *Écrits* : soi-disant, il n’y aurait nulle part *la place du silence* !
+il est vrai en passe de se faire valoir, ailleurs, dans des endroits où l’on parle bien étrangement des relations analytiques …de ce qu’une personne « *bien intentionnée* » a déclaré avoir cherché de tout son cœur, à la loupe dans mes *Écrits* : soi-disant, il n’y aurait nulle part *la place du silence* !
 
 <!-- id: s12-11-0122 -->
 

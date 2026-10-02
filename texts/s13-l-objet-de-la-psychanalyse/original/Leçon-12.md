@@ -186,9 +186,13 @@ Bref, ce que j’appelais tout à l’heure la dominance du passé, je viens de 
 
 <!-- id: s13-12-0046 -->
 
-> « *Après tout, c’est extraordinaire* - je prends les termes propres de quelqu’un qui me parlait *- c’est extraordinaire, la facilité de la vie*
->
-> *là-bas pour un psychiatre, on n’a vraiment pas besoin,* *me disait-on*, *de se donner de la peine pour avoir de la clientèle*. »
+<div class="text-quotation">
+
+« *Après tout, c’est extraordinaire* - je prends les termes propres de quelqu’un qui me parlait *- c’est extraordinaire, la facilité de la vie*
+
+*là-bas pour un psychiatre, on n’a vraiment pas besoin,* *me disait-on*, *de se donner de la peine pour avoir de la clientèle*. »
+
+</div>
 
 <!-- id: s13-12-0047 -->
 
@@ -236,7 +240,7 @@ Le passé dans lequel elle n’intervient à aucun degré - et c’est bien un s
 
 <!-- id: s13-12-0058 -->
 
-> le mot ville était une métaphore pour l’université DAN HARBOUR ce n’en est pas une : la circulation de quelques 30.000 étudiants qui vivent là dans une ville quasiment spécialisée pour les recevoir.
+le mot ville était une métaphore pour l’université DAN HARBOUR ce n’en est pas une : la circulation de quelques 30.000 étudiants qui vivent là dans une ville quasiment spécialisée pour les recevoir.
 
 <!-- id: s13-12-0059 -->
 
@@ -300,9 +304,9 @@ C’est qu’on ne peut qu’être très impressionné de voir enfin – quoi ?
 
 <!-- id: s13-12-0074 -->
 
-> car à Chicago il y a sur les murs d’une bibliothèque ultra-moderne par exemple,
->
-> les quatre façades entières décorées de ce que nous pourrions appeler l’usage d’épaves de ces formes signifiantes …ce qui se véhicule par là me semble quelque chose d’à la fois énigmatique, et en même temps d’aussi impressionnant par cette sorte de lien invisible à travers une cassure irrémédiable qui subsiste, entre les générations qui se lèvent et celles de ces étudiants qui peuplent une université à Mexico - je dirais *la plus énorme* de toutes celles que j’ai vues - avec ces signes, ces signes avec quoi quelque chose est à jamais rompu et qui pourtant sont là, traduisant d’une façon visible, ce que je ne pourrai appeler - parce que je suis devant cet auditoire - qu’un rapport conservé avec ce qu’il y a de si sensible dans tout ce que nous savons de ces cultes antiques, cette chose à quoi n’ont rien compris, sinon par un effet d’horreur, les premiers conquérants, et qui n’est autre…
+car à Chicago il y a sur les murs d’une bibliothèque ultra-moderne par exemple,
+
+les quatre façades entières décorées de ce que nous pourrions appeler l’usage d’épaves de ces formes signifiantes …ce qui se véhicule par là me semble quelque chose d’à la fois énigmatique, et en même temps d’aussi impressionnant par cette sorte de lien invisible à travers une cassure irrémédiable qui subsiste, entre les générations qui se lèvent et celles de ces étudiants qui peuplent une université à Mexico - je dirais *la plus énorme* de toutes celles que j’ai vues - avec ces signes, ces signes avec quoi quelque chose est à jamais rompu et qui pourtant sont là, traduisant d’une façon visible, ce que je ne pourrai appeler - parce que je suis devant cet auditoire - qu’un rapport conservé avec ce qu’il y a de si sensible dans tout ce que nous savons de ces cultes antiques, cette chose à quoi n’ont rien compris, sinon par un effet d’horreur, les premiers conquérants, et qui n’est autre…
 
 <!-- id: s13-12-0075 -->
 
@@ -442,9 +446,9 @@ Irais-je jusqu’à vous dire que j’ai amorcé pour eux ce qui sera le pas sui
 
 <!-- id: s13-12-0109 -->
 
-> je minimise en disant qu’il est *illustré* par *la structure du tore *: il est soutenu par *la structure du tore*, *le tore est la substance,*
->
-> *l’* ὑποχείμενον \[upokeimenon\] *de la structure* dont il s’agit concernant le désir, le *tore* peut apparaître, avec évidence, c’est ce que je vous montrerai à bout de craie la prochaine fois …que s’y inscrit de la façon la plus claire *le rapport* qu’il y a du soutien d’un désir, non pas à la demande mais à la demande répétée ou à *la double demande*. Et le fait que cette figure, qui est proprement celle que je vous dessine ici :
+je minimise en disant qu’il est *illustré* par *la structure du tore *: il est soutenu par *la structure du tore*, *le tore est la substance,*
+
+*l’* ὑποχείμενον \[upokeimenon\] *de la structure* dont il s’agit concernant le désir, le *tore* peut apparaître, avec évidence, c’est ce que je vous montrerai à bout de craie la prochaine fois …que s’y inscrit de la façon la plus claire *le rapport* qu’il y a du soutien d’un désir, non pas à la demande mais à la demande répétée ou à *la double demande*. Et le fait que cette figure, qui est proprement celle que je vous dessine ici :
 
 <!-- id: s13-12-0110 -->
 
@@ -456,9 +460,9 @@ Irais-je jusqu’à vous dire que j’ai amorcé pour eux ce qui sera le pas sui
 
 <!-- id: s13-12-0112 -->
 
-> et nous verrons ce que signifie retournement en fonction de ce qu’il arrive du retournement
->
-> quand il s’agit des autres *structures topologiques* à savoir du *cross-cap* et de *la bouteille* *de Klein* …ce retournement étant opéré, nous avons *deux désirs* en rapport avec *une demande*.
+et nous verrons ce que signifie retournement en fonction de ce qu’il arrive du retournement
+
+quand il s’agit des autres *structures topologiques* à savoir du *cross-cap* et de *la bouteille* *de Klein* …ce retournement étant opéré, nous avons *deux désirs* en rapport avec *une demande*.
 
 <!-- id: s13-12-0113 -->
 

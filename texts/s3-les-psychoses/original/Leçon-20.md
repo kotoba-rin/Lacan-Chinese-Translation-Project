@@ -6,9 +6,13 @@
 
 <!-- id: s3-20-0001 -->
 
-> « *Le même parallèle est possible en raison de l’omission de diverses relations qui dans les deux cas doivent être supplées*
->
-> *par le contexte. Si cette conception de la méthode de représentation dans les rêves n’a pas été jusqu’ici suivie, ceci, comme on doit le comprendre d’emblée, doit être inscrit, rapporté au fait que les psychanalystes sont entièrement ignorants de l’attitude et du mode de connaissance avec lesquels un philologue doit approcher un tel problème que celui qui est présenté dans les rêves.* »
+<div class="text-quotation">
+
+« *Le même parallèle est possible en raison de l’omission de diverses relations qui dans les deux cas doivent être supplées*
+
+*par le contexte. Si cette conception de la méthode de représentation dans les rêves n’a pas été jusqu’ici suivie, ceci, comme on doit le comprendre d’emblée, doit être inscrit, rapporté au fait que les psychanalystes sont entièrement ignorants de l’attitude et du mode de connaissance avec lesquels un philologue doit approcher un tel problème que celui qui est présenté dans les rêves.* »
+
+</div>
 
 <!-- id: s3-20-0002 -->
 
@@ -32,9 +36,13 @@ Il rapproche tout d’un coup dans un raccourci saisissant, les trois grandes ne
 
 <!-- id: s3-20-0007 -->
 
-> « *C’est ainsi, dit-il, qu’il s’agit bel et bien de signifiant ce qui doit être mis en relation pour être compris dans son ensemble.*
->
-> *Par exemple :*
+<div class="text-quotation">
+
+« *C’est ainsi, dit-il, qu’il s’agit bel et bien de signifiant ce qui doit être mis en relation pour être compris dans son ensemble.*
+
+*Par exemple :*
+
+</div>
 
 <!-- id: s3-20-0008 -->
 
@@ -50,7 +58,7 @@ Il rapproche tout d’un coup dans un raccourci saisissant, les trois grandes ne
 
 <!-- id: s3-20-0011 -->
 
-> *Dans les trois cas, ce seront différentes représentations du souhait du patient de venir à ce qui a été réprimé dans son inconscient et sa réaction défensive contre ce fait.* »
+*Dans les trois cas, ce seront différentes représentations du souhait du patient de venir à ce qui a été réprimé dans son inconscient et sa réaction défensive contre ce fait.* »
 
 <!-- id: s3-20-0012 -->
 
@@ -70,7 +78,7 @@ Ce qui n’est pas moins facile à approcher…
 
 <!-- id: s3-20-0016 -->
 
-> si vous y pensez, si vous pensez précisément combien tout *un long processus* à proprement parler *dialectique* est nécessaire à un individu pour y revenir, et combien toute notre expérience est faite des excès et des défauts de cette approche
+si vous y pensez, si vous pensez précisément combien tout *un long processus* à proprement parler *dialectique* est nécessaire à un individu pour y revenir, et combien toute notre expérience est faite des excès et des défauts de cette approche
 
 <!-- id: s3-20-0017 -->
 
@@ -102,9 +110,9 @@ Bien entendu, par uniquement le fait qu’on parle autour de lui. Ce que nous a 
 
 <!-- id: s3-20-0024 -->
 
-> c’est-à-dire de n’avoir pas vu s’ouvrir devant soi les conflits et les impasses, et de ne pas l’avoir résolu d’une certaine façon par une certaine intégration, qui n’est pas simplement intégration de ses éléments à l’intérieur
->
-> du sujet, mais aussi prise du sujet dans ses éléments qui sont donnés à l’extérieur
+c’est-à-dire de n’avoir pas vu s’ouvrir devant soi les conflits et les impasses, et de ne pas l’avoir résolu d’une certaine façon par une certaine intégration, qui n’est pas simplement intégration de ses éléments à l’intérieur
+
+du sujet, mais aussi prise du sujet dans ses éléments qui sont donnés à l’extérieur
 
 <!-- id: s3-20-0025 -->
 
@@ -128,7 +136,7 @@ Si nous en sommes - à force d’y revenir - arrivés à bien concevoir que l’
 
 <!-- id: s3-20-0030 -->
 
-> ce que j’ai appelé, dans mon discours sur FREUD il y a quinze jours, « *du langage habité* », du langage en tant qu’il est habité, c’est-à-dire nécessaire pour le sujet qui y prend littéralement - mais plus ou moins - *la parole*, *et par tout son être*, c’est-à-dire en partie à son insu
+ce que j’ai appelé, dans mon discours sur FREUD il y a quinze jours, « *du langage habité* », du langage en tant qu’il est habité, c’est-à-dire nécessaire pour le sujet qui y prend littéralement - mais plus ou moins - *la parole*, *et par tout son être*, c’est-à-dire en partie à son insu
 
 <!-- id: s3-20-0031 -->
 
@@ -140,11 +148,11 @@ Si nous en sommes - à force d’y revenir - arrivés à bien concevoir que l’
 
 <!-- id: s3-20-0033 -->
 
-> qui montre un certain affrontement, une certaine distinction, une certaine épreuve auxquels le sujet
->
-> est soumis et qui est essentiellement problème de quelque faute qui concerne ce discours permanent
->
-> que nous devons concevoir comme soutenant le quotidien, le tout venant de l’expérience humaine
+qui montre un certain affrontement, une certaine distinction, une certaine épreuve auxquels le sujet
+
+est soumis et qui est essentiellement problème de quelque faute qui concerne ce discours permanent
+
+que nous devons concevoir comme soutenant le quotidien, le tout venant de l’expérience humaine
 
 <!-- id: s3-20-0034 -->
 
@@ -156,7 +164,7 @@ Cette étape corrélative, textuelle, de ce que nous pourrions appeler « *le m
 
 <!-- id: s3-20-0036 -->
 
-> sous prétexte que ce sont justement les faits de structure qui apparaissent
+sous prétexte que ce sont justement les faits de structure qui apparaissent
 
 <!-- id: s3-20-0037 -->
 
@@ -220,9 +228,9 @@ Il n’y aurait pas de question de la contre-indication de l’analyse, si tout 
 
 <!-- id: s3-20-0052 -->
 
-> si nous n’avions pas tous dans notre mémoire tel ou tel cas de notre pratique ou de la pratique
->
-> de nos collègues, où une belle et bonne psychose, j’entends une belle et bonne *psychose hallucinatoire*, je ne veux pas dire une schizophrénie précipitée
+si nous n’avions pas tous dans notre mémoire tel ou tel cas de notre pratique ou de la pratique
+
+de nos collègues, où une belle et bonne psychose, j’entends une belle et bonne *psychose hallucinatoire*, je ne veux pas dire une schizophrénie précipitée
 
 <!-- id: s3-20-0053 -->
 
@@ -338,7 +346,7 @@ Ceci ne peut trouver sa solution qu’à distinguer :
 
 <!-- id: s3-20-0081 -->
 
-> la forme, le champ dans lequel se structure pour le nouveau–né humain une multiplicité d’objets,
+la forme, le champ dans lequel se structure pour le nouveau–né humain une multiplicité d’objets,
 
 <!-- id: s3-20-0082 -->
 
@@ -370,7 +378,7 @@ Et c’est cette possibilité d’une relation *extatique* à l’*Autre* qui es
 
 <!-- id: s3-20-0089 -->
 
-> de l’*animus* et de l’*anima*, qui se situeront suivant les sexes à une place ou à l’autre.
+de l’*animus* et de l’*anima*, qui se situeront suivant les sexes à une place ou à l’autre.
 
 <!-- id: s3-20-0090 -->
 
@@ -398,7 +406,7 @@ Je vais, pour vous faire sentir ce que je veux dire…
 
 <!-- id: s3-20-0096 -->
 
-> car il peut vous sembler que ce soit un curieux et singulier détour que de recourir à une théorie médiévale de l’amour, pour introduire la question de la psychose
+car il peut vous sembler que ce soit un curieux et singulier détour que de recourir à une théorie médiévale de l’amour, pour introduire la question de la psychose
 
 <!-- id: s3-20-0097 -->
 
@@ -406,7 +414,7 @@ Je vais, pour vous faire sentir ce que je veux dire…
 
 <!-- id: s3-20-0098 -->
 
-> \[une page manque dans la sténotypie\][^30]
+\[une page manque dans la sténotypie\][^30]
 
 <!-- id: s3-20-0099 -->
 
@@ -430,7 +438,7 @@ Et par exemple la curieuse entrée de SCHREBER dans son délire, sa psychose, av
 
 <!-- id: s3-20-0104 -->
 
-> dans laquelle tout de même les analystes peuvent se retourner en trouvant le sens assez accessible, la formule qu’il emploie de *l’assassinat d’âme*, comme étant le quelque chose d’initial, d’introductif à sa psychose
+dans laquelle tout de même les analystes peuvent se retourner en trouvant le sens assez accessible, la formule qu’il emploie de *l’assassinat d’âme*, comme étant le quelque chose d’initial, d’introductif à sa psychose
 
 <!-- id: s3-20-0105 -->
 
@@ -526,7 +534,7 @@ Puis avec l’idée de recul, distance, *Entfernung*, *éloignement*, ce qui cor
 
 <!-- id: s3-20-0128 -->
 
-> ce par quoi il est compris, ce à quoi il a affaire, c’est à dire le Dieu antérieur avec lequel il a cette singulière relation, en effet, sorte d’image de la copulation : le premier *rêve d’invasion* de la psychose
+ce par quoi il est compris, ce à quoi il a affaire, c’est à dire le Dieu antérieur avec lequel il a cette singulière relation, en effet, sorte d’image de la copulation : le premier *rêve d’invasion* de la psychose
 
 <!-- id: s3-20-0129 -->
 

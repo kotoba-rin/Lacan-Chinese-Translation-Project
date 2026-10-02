@@ -54,7 +54,7 @@ Du point de vue qui est le nôtre - *de notre expérience* - de celui du *manque
 
 <!-- id: s12-18-0013 -->
 
-> mais du défaut d’une articulation de signifiance.
+mais du défaut d’une articulation de signifiance.
 
 <!-- id: s12-18-0014 -->
 
@@ -106,7 +106,7 @@ Une certaine irréflexion médicale, dont je suis entouré, peut assurément - q
 
 <!-- id: s12-18-0026 -->
 
-> *ainsi l’inconscient ne serait qu’une invention de FREUD ? *
+*ainsi l’inconscient ne serait qu’une invention de FREUD ? *
 
 <!-- id: s12-18-0027 -->
 
@@ -286,7 +286,7 @@ Deux rapports se dessinent dans cette relation tierce que pour vous j’articule
 
 <!-- id: s12-18-0071 -->
 
-> \- *ou bien le sujet, et le signifiant qui s’évanouit.*
+\- *ou bien le sujet, et le signifiant qui s’évanouit.*
 
 <!-- id: s12-18-0072 -->
 
@@ -298,7 +298,7 @@ La composition de la dyade signifiante, du couple quel qu’il soit, que tout us
 
 <!-- id: s12-18-0074 -->
 
-> n, o, n : comme dans Platon qui ne parle que de ce non et de la distinction de ce « non » et du « non-être » ...*à chaque bien son mal.* »
+n, o, n : comme dans Platon qui ne parle que de ce non et de la distinction de ce « non » et du « non-être » ...*à chaque bien son mal.* »
 
 <!-- id: s12-18-0075 -->
 
@@ -342,9 +342,9 @@ Qu’est-ce que c’est, pour que le savoir...
 
 <!-- id: s12-18-0085 -->
 
-> j’entends le savoir capable de rendre compte de lui-même, le savoir qui sait articuler le sujet : il n’y en a pas d’autre
->
-> pour donner son statut à l’inconscient : l’inconscient ne veut rien dire en dehors de cette perspective ...qu’est-ce qu’il y a dans ce savoir de tel pour qu’à l’approche de ce savoir, fonctionne et d’une façon unilatérale, à savoir dans le sens de la pure éclipse, de la disparition du signifiant - non seulement du *Verworfen* fondateur du sujet mais du *Verdrängt*, du refoulement de tout ce qui peut en approcher même de loin, et qui nous témoigne de *la présence du sujet dans l’inconscient,* *où le sujet de l’inconscient est le sujet qui évite le savoir du sexe*.
+j’entends le savoir capable de rendre compte de lui-même, le savoir qui sait articuler le sujet : il n’y en a pas d’autre
+
+pour donner son statut à l’inconscient : l’inconscient ne veut rien dire en dehors de cette perspective ...qu’est-ce qu’il y a dans ce savoir de tel pour qu’à l’approche de ce savoir, fonctionne et d’une façon unilatérale, à savoir dans le sens de la pure éclipse, de la disparition du signifiant - non seulement du *Verworfen* fondateur du sujet mais du *Verdrängt*, du refoulement de tout ce qui peut en approcher même de loin, et qui nous témoigne de *la présence du sujet dans l’inconscient,* *où le sujet de l’inconscient est le sujet qui évite le savoir du sexe*.
 
 <!-- id: s12-18-0086 -->
 
@@ -400,7 +400,7 @@ Nous savons mais nous n’en tirons pas *les conséquences :* que *le sexe* ce 
 
 <!-- id: s12-18-0099 -->
 
-> entre la reproduction asexuée et la reproduction sexuée, autrement dit qui, selon l’étage du rejet de la lignée se reproduisent tantôt de façon asexuée et tantôt font quelque chose qui nous donne l’idée d’un rapport avec la reproduction sexuée, ce qui nous en donne l’idée …chez ces organismes élémentaires, *dont je n’aurais pas le pédantisme de dire ici les catégories car je ne veux pas encombrer mon exposé,* c’est que ce qui se passe quand j’ai parlé de reproduction sexuée, c’est surtout quelque chose dont l’essen­tiel est plutôt l’envers de la fécondation, que la fécondation elle-même : c’est à savoir une *méiose*, c’est-à-dire une *réduction chromosomique* et après ça, il peut y avoir une conjonction mais ce n’est pas forcément une reproduction, ça peut être aussi considéré comme une réjuvénation et c’est peut-être même ça essentiellement la conjonction sexuelle.
+entre la reproduction asexuée et la reproduction sexuée, autrement dit qui, selon l’étage du rejet de la lignée se reproduisent tantôt de façon asexuée et tantôt font quelque chose qui nous donne l’idée d’un rapport avec la reproduction sexuée, ce qui nous en donne l’idée …chez ces organismes élémentaires, *dont je n’aurais pas le pédantisme de dire ici les catégories car je ne veux pas encombrer mon exposé,* c’est que ce qui se passe quand j’ai parlé de reproduction sexuée, c’est surtout quelque chose dont l’essen­tiel est plutôt l’envers de la fécondation, que la fécondation elle-même : c’est à savoir une *méiose*, c’est-à-dire une *réduction chromosomique* et après ça, il peut y avoir une conjonction mais ce n’est pas forcément une reproduction, ça peut être aussi considéré comme une réjuvénation et c’est peut-être même ça essentiellement la conjonction sexuelle.
 
 <!-- id: s12-18-0100 -->
 
@@ -432,7 +432,7 @@ Je spécule, je rêve... *Schwärmereien*. Mais il est étrange que ces sortes d
 
 <!-- id: s12-18-0107 -->
 
-> et aussi bien d’ailleurs elles sont abondantes, elles fourmillent, il s’y en additionne tous les jours… Pourtant *les chromosomes* c’est passionnant, c’est l’objet de discussions fébriles pour tous ceux qui s’occupent effectivement de ce quelque chose qui s’appelle la reproduction des vivants quels qu’ils soient …*les psychanalystes* c’est strictement pour eux *lettre morte* !
+et aussi bien d’ailleurs elles sont abondantes, elles fourmillent, il s’y en additionne tous les jours… Pourtant *les chromosomes* c’est passionnant, c’est l’objet de discussions fébriles pour tous ceux qui s’occupent effectivement de ce quelque chose qui s’appelle la reproduction des vivants quels qu’ils soient …*les psychanalystes* c’est strictement pour eux *lettre morte* !
 
 <!-- id: s12-18-0108 -->
 

@@ -126,9 +126,9 @@ C’est pourquoi je serais assez porté aujourd’hui, parodiant cet accident de
 
 <!-- id: s9-22-0031 -->
 
-> cela vous évitera de l’appeler le *lacs*, ce qui me semblerait un dangereux encouragement à l’usage
->
-> qu’un de mes fervents, récemment a cru devoir faire du terme de *lacanisme* ! J’espère qu’au moins aussi longtemps que je vivrai, ce terme, manifestement appétant, après ma seconde mort, me sera épar­gné ! ...donc ce que *mon signifiant polonais* est destiné à *illustrer*, c’est *le rapport du signifiant à soi-même*, c’est-à-dire à nous conduire au rapport du *signifiant* au *sujet*, si tant est que le sujet puisse être conçu comme son effet.
+cela vous évitera de l’appeler le *lacs*, ce qui me semblerait un dangereux encouragement à l’usage
+
+qu’un de mes fervents, récemment a cru devoir faire du terme de *lacanisme* ! J’espère qu’au moins aussi longtemps que je vivrai, ce terme, manifestement appétant, après ma seconde mort, me sera épar­gné ! ...donc ce que *mon signifiant polonais* est destiné à *illustrer*, c’est *le rapport du signifiant à soi-même*, c’est-à-dire à nous conduire au rapport du *signifiant* au *sujet*, si tant est que le sujet puisse être conçu comme son effet.
 
 <!-- id: s9-22-0032 -->
 
@@ -216,7 +216,7 @@ Car si nous avons défini *la demande* en ceci qu’elle se répète et qu’ell
 
 <!-- id: s9-22-0053 -->
 
-> ce vide qui la soutient et la constitue, ce vide qui ne comporte, je vous le signale en passant, aucun jeu en quelque sorte éthique, ni plaisamment pessimiste, comme s’il y avait un pire dépassant l’ordinaire du sujet, c’est sim­plement une nécessité de logique abécédaire, si je puis dire ...toute satisfaction saisissable - qu’on la situe sur le versant du sujet ou sur le versant de l’objet - fait défaut à la demande.
+ce vide qui la soutient et la constitue, ce vide qui ne comporte, je vous le signale en passant, aucun jeu en quelque sorte éthique, ni plaisamment pessimiste, comme s’il y avait un pire dépassant l’ordinaire du sujet, c’est sim­plement une nécessité de logique abécédaire, si je puis dire ...toute satisfaction saisissable - qu’on la situe sur le versant du sujet ou sur le versant de l’objet - fait défaut à la demande.
 
 <!-- id: s9-22-0054 -->
 
@@ -292,7 +292,7 @@ Je vous demande pardon de vous faire suivre un chemin qui peut vous paraître ar
 
 <!-- id: s9-22-0072 -->
 
-> fig.1 fig.2 fig.3
+fig.1 fig.2 fig.3
 
 <!-- id: s9-22-0073 -->
 
@@ -372,9 +372,9 @@ J’ai dit d’abord en détruisant, parce que c’est le plus exemplaire : c’
 
 <!-- id: s9-22-0092 -->
 
-> comme les commentateurs *phénoménologistes* ne man­quent pas un instant de l’appuyer,
->
-> avec tout l’excès des débordements qui leur permet de se fixer à jamais dans le ridicule
+comme les commentateurs *phénoménologistes* ne man­quent pas un instant de l’appuyer,
+
+avec tout l’excès des débordements qui leur permet de se fixer à jamais dans le ridicule
 
 <!-- id: s9-22-0093 -->
 

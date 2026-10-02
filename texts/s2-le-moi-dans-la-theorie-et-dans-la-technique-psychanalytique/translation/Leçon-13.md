@@ -18,7 +18,7 @@ max_segment_id: 177
 
 <!-- id: s2-13-0002 -->
 
-> 对他来说，它们始终回应着极其艰难的内部连贯性要求
+对他来说，它们始终回应着极其艰难的内部连贯性要求
 
 <!-- id: s2-13-0003 -->
 
@@ -66,7 +66,7 @@ max_segment_id: 177
 
 <!-- id: s2-13-0014 -->
 
-> 我提醒你们，这发生在他解释并引入“*凝缩*”概念的地方
+我提醒你们，这发生在他解释并引入“*凝缩*”概念的地方
 
 <!-- id: s2-13-0015 -->
 
@@ -94,7 +94,7 @@ max_segment_id: 177
 
 <!-- id: s2-13-0021 -->
 
-> 据我所知，弗洛伊德从未忽略它，那些可以特别称作弗洛伊德派的人也没有
+据我所知，弗洛伊德从未忽略它，那些可以特别称作弗洛伊德派的人也没有
 
 <!-- id: s2-13-0022 -->
 
@@ -110,7 +110,7 @@ max_segment_id: 177
 
 <!-- id: s2-13-0025 -->
 
-> 我提到哈特曼并非没有理由，也不只是想讥讽他的“*同步化*”
+我提到哈特曼并非没有理由，也不只是想讥讽他的“*同步化*”
 
 <!-- id: s2-13-0026 -->
 
@@ -134,9 +134,13 @@ max_segment_id: 177
 
 <!-- id: s2-13-0031 -->
 
-> “*一座大厅，许多客人，我们正在招待他们。伊尔玛也在这些客人中。我立刻把她拉到一旁，针对她的来信责备她仍未接受我的‘解答’。我对她说：‘如果你还有疼痛，那确实只是你自己的错。’她回答：‘要是你知道我现在喉咙、胃和腹部有多么痛，这让我透不过气。’我害怕起来，仔细看她。她面色苍白而浮肿；我心想：难道我终究漏掉了某种器质性症状？我把她带到窗边，检查她的喉咙。她表现出某种抗拒，就像戴着假牙的女人。我心想：可她根本不需要假牙。接着她把嘴张得很大；我发现右边有一大片白斑，又在别处看见一些奇异的卷曲构造，显然形似鼻甲，上面覆着大片灰白色痂皮。我立刻叫来 M. 医生；他再次检查患者并予以确认……M. 医生看起来与平常全然不同：他十分苍白，跛着脚，下巴没有胡须……我的朋友奥托现在也站在她身边，朋友利奥波德隔着紧身胸衣为她叩诊；他说：‘她的左下部有浊音’，又指出左肩处有一块皮肤浸润〔尽管隔着衣服，我也像他一样触知这一点〕……M. 说：‘毫无疑问，这是感染，不过没关系；接下来会出现痢疾，毒素会排出去。’我们也立刻知道感染来自哪里。我的朋友奥托不久前在她感到不适时，给她注射了一种丙基制剂：丙烯……丙酸……三甲胺〔我看见它的分子式以粗体印在眼前〕……这种注射不能如此轻率地进行……很可能注射器也不干净。*”〔法国大学出版社 1967 年版第 99 页；2003 年版第 142 页〕
->
-> 〔德文原文：*Eine große Halle – viele Gäste, dia wir empfangen. – Unter ihnen Irma, die ich sofort bei Seite nehme, um gleichsam ihren Brief zu beantworten, ihr Vorwürfe zu machen, daß sie die „Lösung“ noch nicht akzeptiert. Ich sage ihr: Wenn du noch Schmerzen hast, so ist es wirklich nur deine Schuld. – Sie antwortet: Wenn du wüßtest, was ich für Schmerzen jetzt habe im Halse, Magen und Leib, es schnürt mich zusammen. – Ich erschrecke und sehe sie an. Sie sieht bleich und gedunsen aus; ich denke, am Ende übersehe ich da doch etwas Organisches. Ich nehme sie zum Fenster und schaue ihr in den Hals. Dabei zeigt sie etwas Sträuben, wie die Frauen, die ein künstliches Gebiß tragen. Ich denke mir, sie hat es doch nicht nötig. – Der Mund geht dann auch gut auf und ich finde rechts einen großen weißen Fleck und anderwärts sehe ich an merk­würdigen krausen Gebilden, die offenbar den Nasenmuscheln nach­gebildet sind, ansgedehnte weißgraue Schorfe. – Ich rufe schnell Dr. M. hinzu, der die Untersuchung wiederholt und bestätigt.... Dr. M. sieht ganz anders aus als sonst; er ist sehr bleich, hinkt, ist am Kinn bartlos.... Mein Freund Otto steht jetzt auch neben ihr und Freund Leopold perkutiert sie über dem Leibchen und sagt: Sie hat eine Dämpfung links unten, weist auch auf eine infiltrierte Hautpartie an der linken Schulter hin (was ich trotz des Kleides wie er spüre). M. sagt: Kein Zweifel, es ist eine Infektion, aber es macht nichts; es wird noch Dysenterie hinzukommen und das Gift sich ausscheiden.... Wir wissen auch unmittelbar, woher die Infektion rührt. Freund Otto hat ihr unlängst, als sie sich unwohl fühlte, eine Injektion gegeben mit einem Propylpräparat, Propylen... Propionsäure... Trimethylamin (dessen Formel ich fett gedruckt vor mir sehe). Man macht solche Injektionen nicht so leichtfertig. Wahrscheinlich war auch die Spritze nicht rein.*〕〔《梦的解析》，Deuticke 出版社，1911 年第 3 版〕
+<div class="text-quotation">
+
+“*一座大厅，许多客人，我们正在招待他们。伊尔玛也在这些客人中。我立刻把她拉到一旁，针对她的来信责备她仍未接受我的‘解答’。我对她说：‘如果你还有疼痛，那确实只是你自己的错。’她回答：‘要是你知道我现在喉咙、胃和腹部有多么痛，这让我透不过气。’我害怕起来，仔细看她。她面色苍白而浮肿；我心想：难道我终究漏掉了某种器质性症状？我把她带到窗边，检查她的喉咙。她表现出某种抗拒，就像戴着假牙的女人。我心想：可她根本不需要假牙。接着她把嘴张得很大；我发现右边有一大片白斑，又在别处看见一些奇异的卷曲构造，显然形似鼻甲，上面覆着大片灰白色痂皮。我立刻叫来 M. 医生；他再次检查患者并予以确认……M. 医生看起来与平常全然不同：他十分苍白，跛着脚，下巴没有胡须……我的朋友奥托现在也站在她身边，朋友利奥波德隔着紧身胸衣为她叩诊；他说：‘她的左下部有浊音’，又指出左肩处有一块皮肤浸润〔尽管隔着衣服，我也像他一样触知这一点〕……M. 说：‘毫无疑问，这是感染，不过没关系；接下来会出现痢疾，毒素会排出去。’我们也立刻知道感染来自哪里。我的朋友奥托不久前在她感到不适时，给她注射了一种丙基制剂：丙烯……丙酸……三甲胺〔我看见它的分子式以粗体印在眼前〕……这种注射不能如此轻率地进行……很可能注射器也不干净。*”〔法国大学出版社 1967 年版第 99 页；2003 年版第 142 页〕
+
+〔德文原文：*Eine große Halle – viele Gäste, dia wir empfangen. – Unter ihnen Irma, die ich sofort bei Seite nehme, um gleichsam ihren Brief zu beantworten, ihr Vorwürfe zu machen, daß sie die „Lösung“ noch nicht akzeptiert. Ich sage ihr: Wenn du noch Schmerzen hast, so ist es wirklich nur deine Schuld. – Sie antwortet: Wenn du wüßtest, was ich für Schmerzen jetzt habe im Halse, Magen und Leib, es schnürt mich zusammen. – Ich erschrecke und sehe sie an. Sie sieht bleich und gedunsen aus; ich denke, am Ende übersehe ich da doch etwas Organisches. Ich nehme sie zum Fenster und schaue ihr in den Hals. Dabei zeigt sie etwas Sträuben, wie die Frauen, die ein künstliches Gebiß tragen. Ich denke mir, sie hat es doch nicht nötig. – Der Mund geht dann auch gut auf und ich finde rechts einen großen weißen Fleck und anderwärts sehe ich an merk­würdigen krausen Gebilden, die offenbar den Nasenmuscheln nach­gebildet sind, ansgedehnte weißgraue Schorfe. – Ich rufe schnell Dr. M. hinzu, der die Untersuchung wiederholt und bestätigt.... Dr. M. sieht ganz anders aus als sonst; er ist sehr bleich, hinkt, ist am Kinn bartlos.... Mein Freund Otto steht jetzt auch neben ihr und Freund Leopold perkutiert sie über dem Leibchen und sagt: Sie hat eine Dämpfung links unten, weist auch auf eine infiltrierte Hautpartie an der linken Schulter hin (was ich trotz des Kleides wie er spüre). M. sagt: Kein Zweifel, es ist eine Infektion, aber es macht nichts; es wird noch Dysenterie hinzukommen und das Gift sich ausscheiden.... Wir wissen auch unmittelbar, woher die Infektion rührt. Freund Otto hat ihr unlängst, als sie sich unwohl fühlte, eine Injektion gegeben mit einem Propylpräparat, Propylen... Propionsäure... Trimethylamin (dessen Formel ich fett gedruckt vor mir sehe). Man macht solche Injektionen nicht so leichtfertig. Wahrscheinlich war auch die Spritze nicht rein.*〕〔《梦的解析》，Deuticke 出版社，1911 年第 3 版〕
+
+</div>
 
 <!-- id: s2-13-0032 -->
 
@@ -218,7 +222,7 @@ max_segment_id: 177
 
 <!-- id: s2-13-0051 -->
 
-> 考虑到梦理论在他那里后来的发展：梦中有若干彼此连续的要素，有*前意识*文本，而这些要素在梦中从根本上由无意识欲望赋予动力
+考虑到梦理论在他那里后来的发展：梦中有若干彼此连续的要素，有*前意识*文本，而这些要素在梦中从根本上由无意识欲望赋予动力
 
 <!-- id: s2-13-0052 -->
 
@@ -266,9 +270,13 @@ max_segment_id: 177
 
 <!-- id: s2-13-0063 -->
 
-> “*这里我不想再告诉你们更多，因为我毕竟已经讲得够多；*
->
-> *我不能把床笫和夜壶的所有故事都讲给你们听……*”
+<div class="text-quotation">
+
+“*这里我不想再告诉你们更多，因为我毕竟已经讲得够多；*
+
+*我不能把床笫和夜壶的所有故事都讲给你们听……*”
+
+</div>
 
 <!-- id: s2-13-0064 -->
 
@@ -338,7 +346,11 @@ max_segment_id: 177
 
 <!-- id: s2-13-0080 -->
 
-> “*你不知道这里、那里有多么痛：喉咙、腹部、胃。*”
+<div class="text-quotation">
+
+“*你不知道这里、那里有多么痛：喉咙、腹部、胃。*”
+
+</div>
 
 <!-- id: s2-13-0081 -->
 
@@ -402,7 +414,7 @@ X 夫人——从前，人们要三四个人一起拉紧束腹的带子，才能
 
 <!-- id: s2-13-0096 -->
 
-> 现实中所涉及的恰恰是这一点：她不开口
+现实中所涉及的恰恰是这一点：她不开口
 
 <!-- id: s2-13-0097 -->
 
@@ -440,9 +452,13 @@ X 夫人——从前，人们要三四个人一起拉紧束腹的带子，才能
 
 <!-- id: s2-13-0105 -->
 
-> “*通常，一个走到这里的梦应该让人醒来。他为什么没有醒？*
->
-> *因为他是弗洛伊德！他是个硬汉。*”
+<div class="text-quotation">
+
+“*通常，一个走到这里的梦应该让人醒来。他为什么没有醒？*
+
+*因为他是弗洛伊德！他是个硬汉。*”
+
+</div>
 
 <!-- id: s2-13-0106 -->
 
@@ -572,7 +588,11 @@ M. 医生对应于弗洛伊德生命中一个全然关键的人物——他的�
 
 <!-- id: s2-13-0137 -->
 
-> “*我是错还是对？真理在哪里？问题的命运如何？我处在什么位置？*”
+<div class="text-quotation">
+
+“*我是错还是对？真理在哪里？问题的命运如何？我处在什么位置？*”
+
+</div>
 
 <!-- id: s2-13-0138 -->
 
@@ -616,9 +636,9 @@ M. 医生对应于弗洛伊德生命中一个全然关键的人物——他的�
 
 <!-- id: s2-13-0148 -->
 
-> *unmittelbar*（直接、立即）指向某种构成妄想确信特征的东西：
->
-> 你突然知道，就是那个人对你怀有恶意
+*unmittelbar*（直接、立即）指向某种构成妄想确信特征的东西：
+
+你突然知道，就是那个人对你怀有恶意
 
 <!-- id: s2-13-0149 -->
 
@@ -654,7 +674,7 @@ M. 医生对应于弗洛伊德生命中一个全然关键的人物——他的�
 
 <!-- id: s2-13-0157 -->
 
-> 那里出现了某种我们只能认作*言说本身*的东西，也就是人们说出所被说出的东西，是普遍流言凝结成一条书写公式，带着那种写在墙上的“*Mené, thecel, Phares*”意味
+那里出现了某种我们只能认作*言说本身*的东西，也就是人们说出所被说出的东西，是普遍流言凝结成一条书写公式，带着那种写在墙上的“*Mené, thecel, Phares*”意味
 
 <!-- id: s2-13-0158 -->
 

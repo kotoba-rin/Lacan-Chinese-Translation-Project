@@ -98,7 +98,7 @@ Cette topologie, du fait de son insertion mathématique, est liée à des rappor
 
 <!-- id: s19b-05-0024 -->
 
-> justement c'est ce que servait à démontrer mon dernier séminaire \...est liée à des rapports de pure signifiance, c'est-à-dire que c'est en tant que ces trois termes sont trois, que nous voyons que de la présence du troisième s'établit entre les deux autres une relation.
+justement c'est ce que servait à démontrer mon dernier séminaire \...est liée à des rapports de pure signifiance, c'est-à-dire que c'est en tant que ces trois termes sont trois, que nous voyons que de la présence du troisième s'établit entre les deux autres une relation.
 
 <!-- id: s19b-05-0025 -->
 
@@ -114,17 +114,17 @@ Elle est actuelle pour le fait que quelqu'un que j'ai nommé\...
 
 <!-- id: s19b-05-0028 -->
 
-> il se trouve que je l'ai nommé *après* que l'ait fait  Jakobson,
->
-> mais que - comme il arrive - je l'avais connu dès avant, c'est à savoir un nommé René Thom \...et ce quelqu'un tente en somme\...
+il se trouve que je l'ai nommé *après* que l'ait fait  Jakobson,
+
+mais que - comme il arrive - je l'avais connu dès avant, c'est à savoir un nommé René Thom \...et ce quelqu'un tente en somme\...
 
 <!-- id: s19b-05-0029 -->
 
-> certainement non sans en avoir déjà frayé certaines voies \...d'aborder la question du langage sous le biais sémantique, c'est-à-dire non pas de la combinaison signifiante\...
+certainement non sans en avoir déjà frayé certaines voies \...d'aborder la question du langage sous le biais sémantique, c'est-à-dire non pas de la combinaison signifiante\...
 
 <!-- id: s19b-05-0030 -->
 
-> en tant que la mathématique pure peut nous aider à la concevoir comme telle \...mais sous l'angle sémantique, c'est-à-dire non pas sans recourir aussi à la mathématique, à trouver dans certaines courbes, dirais-je, certaines formes, ajouterais-je, qui se déduisent de ces courbes, quelque chose qui nous permettrait de concevoir *le langage* comme - dirais-je - quelque chose comme l'écho des phénomènes physiques.
+en tant que la mathématique pure peut nous aider à la concevoir comme telle \...mais sous l'angle sémantique, c'est-à-dire non pas sans recourir aussi à la mathématique, à trouver dans certaines courbes, dirais-je, certaines formes, ajouterais-je, qui se déduisent de ces courbes, quelque chose qui nous permettrait de concevoir *le langage* comme - dirais-je - quelque chose comme l'écho des phénomènes physiques.
 
 <!-- id: s19b-05-0031 -->
 
@@ -164,9 +164,9 @@ Le schème fondamental de ce dont il s'agit, et que ce soir je vais tenter de po
 
 <!-- id: s19b-05-0040 -->
 
-> pour autant que nous en sachions quelque chose,
->
-> nous en savons quand même un bout, ne serait-ce que par expérience \...de ceci que les sexes sont deux.
+pour autant que nous en sachions quelque chose,
+
+nous en savons quand même un bout, ne serait-ce que par expérience \...de ceci que les sexes sont deux.
 
 <!-- id: s19b-05-0041 -->
 
@@ -174,11 +174,11 @@ Quoi qu'en pense un auteur célèbre, qui je dois dire, dans son temps\...
 
 <!-- id: s19b-05-0042 -->
 
-> avant qu'elle eût pondu ce livre qui s'appelle « *Le deuxième sexe »* \...avait cru, en raison de je ne sais quelle orientation
+avant qu'elle eût pondu ce livre qui s'appelle « *Le deuxième sexe »* \...avait cru, en raison de je ne sais quelle orientation
 
 <!-- id: s19b-05-0043 -->
 
-> car à la vérité, je n'avais encore commencé de rien enseigner \...avait cru devoir en référer à moi avant de pondre « *Le deuxième sexe »*.
+car à la vérité, je n'avais encore commencé de rien enseigner \...avait cru devoir en référer à moi avant de pondre « *Le deuxième sexe »*.
 
 <!-- id: s19b-05-0044 -->
 
@@ -190,7 +190,7 @@ Comme je lui faisais remarquer qu'il faudrait bien au moins\...
 
 <!-- id: s19b-05-0046 -->
 
-> c'est un minimum puisque j'en parle depuis 20 ans et que ce n'est pas par hasard \...qu'il faudrait bien 5 ou 6 mois pour que je lui débrouille la question, elle me fit observer qu'il n'était pas question, bien sûr, qu'un livre qui était déjà en cours d'exécution, attendît si longtemps.
+c'est un minimum puisque j'en parle depuis 20 ans et que ce n'est pas par hasard \...qu'il faudrait bien 5 ou 6 mois pour que je lui débrouille la question, elle me fit observer qu'il n'était pas question, bien sûr, qu'un livre qui était déjà en cours d'exécution, attendît si longtemps.
 
 <!-- id: s19b-05-0047 -->
 
@@ -214,11 +214,11 @@ Ou pour dire les choses autrement concernant ce qu'on appelle *l'hétérosexuali
 
 <!-- id: s19b-05-0052 -->
 
-> qui est le terme qui sert à dire « *autre* » en grec, \...est très précisément dans cette position\...
+qui est le terme qui sert à dire « *autre* » en grec, \...est très précisément dans cette position\...
 
 <!-- id: s19b-05-0053 -->
 
-> pour le *rapport* que chez l'être parlant on appelle « *sexuel »*, \...de se vider en tant qu'être, et c'est précisément de ce vide qu'il offre à la parole ce que j'appelle « *le lieu de l'Autre* », à savoir ce lieu où s'inscrivent les effets de la dite parole.
+pour le *rapport* que chez l'être parlant on appelle « *sexuel »*, \...de se vider en tant qu'être, et c'est précisément de ce vide qu'il offre à la parole ce que j'appelle « *le lieu de l'Autre* », à savoir ce lieu où s'inscrivent les effets de la dite parole.
 
 <!-- id: s19b-05-0054 -->
 
@@ -230,7 +230,7 @@ Je ne vais pas nourrir ceci, parce qu'après tout ça nous retarderait, de quelq
 
 <!-- id: s19b-05-0056 -->
 
-> que je vous épargnerais même de vous nommer - ἅτερος \[àteros\],
+que je vous épargnerais même de vous nommer - ἅτερος \[àteros\],
 
 <!-- id: s19b-05-0057 -->
 
@@ -238,7 +238,7 @@ Je ne vais pas nourrir ceci, parce qu'après tout ça nous retarderait, de quelq
 
 <!-- id: s19b-05-0058 -->
 
-> et très précisément marque que ce δεύτερος \[dèuteros\], dans l'occasion est si je puis dire, *élidé*.
+et très précisément marque que ce δεύτερος \[dèuteros\], dans l'occasion est si je puis dire, *élidé*.
 
 <!-- id: s19b-05-0059 -->
 
@@ -246,7 +246,7 @@ Il est clair que ceci peut paraître surprenant, comme il est évident que depui
 
 <!-- id: s19b-05-0060 -->
 
-> la vérité c'est que je ne sache pas qu'il y ait un repère d'un temps où elle aurait été formulée \...une telle formule \[« *Il n'y a pas de deuxième sexe »*\] est très précisément ce qui est ignoré.
+la vérité c'est que je ne sache pas qu'il y ait un repère d'un temps où elle aurait été formulée \...une telle formule \[« *Il n'y a pas de deuxième sexe »*\] est très précisément ce qui est ignoré.
 
 <!-- id: s19b-05-0061 -->
 
@@ -278,7 +278,7 @@ Ce à quoi nous nous référons\...
 
 <!-- id: s19b-05-0068 -->
 
-> et ne croyez pas que ça aille de soi \...ce à quoi nous nous référons, c'est au modèle, si je puis dire, supposé « *animal »*.
+et ne croyez pas que ça aille de soi \...ce à quoi nous nous référons, c'est au modèle, si je puis dire, supposé « *animal »*.
 
 <!-- id: s19b-05-0069 -->
 
@@ -338,7 +338,7 @@ Vous voyez donc que l'énoncé se promulgue selon la forme, la forme sémantique
 
 <!-- id: s19b-05-0083 -->
 
-> reconnaissez dans *ce conditionnel* quelque chose à quoi fait écho mon *Discours qui ne <u>serait</u> pas du semblant* \...eh bien à remplacer « *chacun* » par « *quiconque* » nous serions bien dans cette indétermination de ce qui est choisi dans chaque « *tous* », pour répondre à « *tous les autres* ».
+reconnaissez dans *ce conditionnel* quelque chose à quoi fait écho mon *Discours qui ne <u>serait</u> pas du semblant* \...eh bien à remplacer « *chacun* » par « *quiconque* » nous serions bien dans cette indétermination de ce qui est choisi dans chaque « *tous* », pour répondre à « *tous les autres* ».
 
 <!-- id: s19b-05-0084 -->
 
@@ -358,9 +358,9 @@ Si nous n'avions pas ce *modèle animal*\...
 
 <!-- id: s19b-05-0088 -->
 
-> même si le choix est de *rencontre*, l'accouplement bi-univoque est ce qui nous en apparaît,
->
-> à savoir qu'il y a que deux animaux qui copulent ensemble \...eh bien, nous n'aurions pas cette dimension essentielle qui est très précisément que *la rencontre* *est unique*.
+même si le choix est de *rencontre*, l'accouplement bi-univoque est ce qui nous en apparaît,
+
+à savoir qu'il y a que deux animaux qui copulent ensemble \...eh bien, nous n'aurions pas cette dimension essentielle qui est très précisément que *la rencontre* *est unique*.
 
 <!-- id: s19b-05-0089 -->
 
@@ -408,9 +408,9 @@ Pour être ici plus insistant et m'en tenir au niveau de l'expérience la plus r
 
 <!-- id: s19b-05-0100 -->
 
-> que nous reconstituons à notre idée bien sûr,
->
-> car il est clair que nous ne pouvons le reconstruire que par l'observation \...mais *l'imaginaire* par contre, nous en avons une expérience, une expérience qui n'est pas aisée, mais que la psychanalyse nous a permis d'étendre.
+que nous reconstituons à notre idée bien sûr,
+
+car il est clair que nous ne pouvons le reconstruire que par l'observation \...mais *l'imaginaire* par contre, nous en avons une expérience, une expérience qui n'est pas aisée, mais que la psychanalyse nous a permis d'étendre.
 
 <!-- id: s19b-05-0101 -->
 
@@ -418,7 +418,7 @@ Et pour dire les choses crûment, il ne sera, me semble-t-il, pas difficile de m
 
 <!-- id: s19b-05-0102 -->
 
-> j'ai appelé ça : « *crûment* », c'est pas si « *cru* », c'est « *cruel* » qu'il faut dire \...eh bien - mon Dieu\... - qu'en toute rencontre sexuelle, s'il y a quelque chose que la psychanalyse permet d'avancer, c'est bien je ne sais quel profil d'*autre présence,* pour lequel le terme vulgaire de *« partouze »* n'est pas absolument exclu.
+j'ai appelé ça : « *crûment* », c'est pas si « *cru* », c'est « *cruel* » qu'il faut dire \...eh bien - mon Dieu\... - qu'en toute rencontre sexuelle, s'il y a quelque chose que la psychanalyse permet d'avancer, c'est bien je ne sais quel profil d'*autre présence,* pour lequel le terme vulgaire de *« partouze »* n'est pas absolument exclu.
 
 <!-- id: s19b-05-0103 -->
 
@@ -506,13 +506,13 @@ Et que ce qui ressort de ce *discours*, c'est la dimension jamais jusqu'à prés
 
 <!-- id: s19b-05-0124 -->
 
-> et très précisément celui auquel s'attache ici ce mot : l'*Hun*,
->
-> c'est non pas de sa position d'*Hun* qui serait réductible à ce quelque chose qu'on appelle soit *« le mâle »,* soit dans la terminologie chinoise l'essence du *Yang* \...c'est très précisément au contraire en raison de ce qui après tout mérite d'être rappelé pour accentuer le sens\...
+et très précisément celui auquel s'attache ici ce mot : l'*Hun*,
+
+c'est non pas de sa position d'*Hun* qui serait réductible à ce quelque chose qu'on appelle soit *« le mâle »,* soit dans la terminologie chinoise l'essence du *Yang* \...c'est très précisément au contraire en raison de ce qui après tout mérite d'être rappelé pour accentuer le sens\...
 
 <!-- id: s19b-05-0125 -->
 
-> le sens voilé parce qu'il nous vient de loin \...du terme d'*organe*, c'est justement ce qui n'est *organe* - pour accentuer les choses - que comme un « *ustensile* ».
+le sens voilé parce qu'il nous vient de loin \...du terme d'*organe*, c'est justement ce qui n'est *organe* - pour accentuer les choses - que comme un « *ustensile* ».
 
 <!-- id: s19b-05-0126 -->
 
@@ -524,7 +524,7 @@ J'ai dit que ce qui stigmatise ce rapport, d'être dans le langage profondément
 
 <!-- id: s19b-05-0128 -->
 
-> comme ça s'est fait pourtant, mais dans une dimension qui me paraît être de mirage \...*il ne peut plus s'écrire en termes d'essences* *mâle* et *femelle*.
+comme ça s'est fait pourtant, mais dans une dimension qui me paraît être de mirage \...*il ne peut plus s'écrire en termes d'essences* *mâle* et *femelle*.
 
 <!-- id: s19b-05-0129 -->
 
@@ -536,7 +536,7 @@ Si je repousse cette *ancienne écriture* au nom du *discours analytique*, vous 
 
 <!-- id: s19b-05-0131 -->
 
-> c'est ce que je viens de remettre une fois de plus au tableau \...c'est quelque chose qui prétend supporter d'une écriture - quoi ? - le réseau de l'affaire sexuelle.
+c'est ce que je viens de remettre une fois de plus au tableau \...c'est quelque chose qui prétend supporter d'une écriture - quoi ? - le réseau de l'affaire sexuelle.
 
 <!-- id: s19b-05-0132 -->
 
@@ -552,7 +552,7 @@ Néanmoins *cette écriture* ne s'autorise, ne prend sa forme que *d'une écritu
 
 <!-- id: s19b-05-0135 -->
 
-> l'irruption précisément de ce qu'on me demandait tout à l'heure,
+l'irruption précisément de ce qu'on me demandait tout à l'heure,
 
 <!-- id: s19b-05-0136 -->
 
@@ -580,13 +580,13 @@ C'est très précisément de ce que *la fonction est unique*, *il s'agit toujour
 
 <!-- id: s19b-05-0142 -->
 
-> comme il n'est pas possible, du seul fait que vous soyez ici,
->
-> que vous n'en n'ayez pas au moins une petite idée \...que s'engendre la difficulté et la complication. ! affirme qu'il est vrai\...
+comme il n'est pas possible, du seul fait que vous soyez ici,
+
+que vous n'en n'ayez pas au moins une petite idée \...que s'engendre la difficulté et la complication. ! affirme qu'il est vrai\...
 
 <!-- id: s19b-05-0143 -->
 
-> c'est le sens qu'a le terme de *fonction* \...qu'il est vrai que ce qui se rapporte à l'exercice, au registre de l'acte sexuel, relève de *la fonction phallique*.
+c'est le sens qu'a le terme de *fonction* \...qu'il est vrai que ce qui se rapporte à l'exercice, au registre de l'acte sexuel, relève de *la fonction phallique*.
 
 <!-- id: s19b-05-0144 -->
 
@@ -638,7 +638,7 @@ Je veux dire que le mode sous lequel la *variable*\...
 
 <!-- id: s19b-05-0156 -->
 
-> ce qu'on appelle la *variable*, à savoir ce qui fait place à l'*argument* \...est quelque chose qui est ici tout à fait spécifié par la forme quadruple sous laquelle la relation de l'argument à la fonction est posée.
+ce qu'on appelle la *variable*, à savoir ce qui fait place à l'*argument* \...est quelque chose qui est ici tout à fait spécifié par la forme quadruple sous laquelle la relation de l'argument à la fonction est posée.
 
 <!-- id: s19b-05-0157 -->
 
@@ -674,7 +674,7 @@ Car vous pouvez voir qu'au niveau, quel qu'il soit\...
 
 <!-- id: s19b-05-0165 -->
 
-> je veux dire le niveau inférieur et le niveau supérieur \...où l'énoncé de *la fonction* - à savoir qu'elle est *phallique -* où l'énoncé de la fonction est posé :
+je veux dire le niveau inférieur et le niveau supérieur \...où l'énoncé de *la fonction* - à savoir qu'elle est *phallique -* où l'énoncé de la fonction est posé :
 
 <!-- id: s19b-05-0166 -->
 
@@ -694,7 +694,7 @@ Que dans les deux cas, à ces deux niveaux qui sont comme tels indépendants, do
 
 <!-- id: s19b-05-0170 -->
 
-> et un « *il n'existe* *pas* » \[/ §\]
+et un « *il n'existe* *pas* » \[/ §\]
 
 <!-- id: s19b-05-0171 -->
 
@@ -702,7 +702,7 @@ Que dans les deux cas, à ces deux niveaux qui sont comme tels indépendants, do
 
 <!-- id: s19b-05-0172 -->
 
-> et la différence de la position de l'argument dans *la fonction phallique*, c'est très précisément que ce n'est « *Pas toute* » *femme* qui s'y inscrit \[; §\].
+et la différence de la position de l'argument dans *la fonction phallique*, c'est très précisément que ce n'est « *Pas toute* » *femme* qui s'y inscrit \[; §\].
 
 <!-- id: s19b-05-0173 -->
 
@@ -734,9 +734,9 @@ J'ai parlé, après *la négation,* de *la conjonction*.
 
 <!-- id: s19b-05-0180 -->
 
-> la remarque dont j'espère qu'il y a ici assez de gens qui auront, comme ça,
->
-> vaguement broutillé un livre de logique pour que j'aie pas besoin d'insister *\...*c'est à savoir que *la conjonction* est fondée très précisément sur ceci : qu'elle ne prend valeur que du fait que deux propositions peuvent être toutes deux *vraies*.
+la remarque dont j'espère qu'il y a ici assez de gens qui auront, comme ça,
+
+vaguement broutillé un livre de logique pour que j'aie pas besoin d'insister *\...*c'est à savoir que *la conjonction* est fondée très précisément sur ceci : qu'elle ne prend valeur que du fait que deux propositions peuvent être toutes deux *vraies*.
 
 <!-- id: s19b-05-0181 -->
 
@@ -816,9 +816,9 @@ De sorte qu'on peut dire, que le sort de ce qui serait un mode sous lequel *se s
 
 <!-- id: s19b-05-0200 -->
 
-> et nous verrons ce que tout à l'heure j'entends dire par là, je veux dire au niveau des *Universels*
->
-> qui ne se soutiennent pas du fait de l'*inconsistance* d'un d'entre eux \...que se passe-t-il là où nous écartons la fonction elle-même, c'est que :
+et nous verrons ce que tout à l'heure j'entends dire par là, je veux dire au niveau des *Universels*
+
+qui ne se soutiennent pas du fait de l'*inconsistance* d'un d'entre eux \...que se passe-t-il là où nous écartons la fonction elle-même, c'est que :
 
 <!-- id: s19b-05-0201 -->
 
@@ -854,7 +854,7 @@ C'est très précisément ceci qui est évidemment ce qu'il nous faut rapprocher
 
 <!-- id: s19b-05-0209 -->
 
-> ceci est l'expérience, hélas trop quotidienne pour ne pas voiler la structure \...où elle ne participe qu'à la vouloir,
+ceci est l'expérience, hélas trop quotidienne pour ne pas voiler la structure \...où elle ne participe qu'à la vouloir,
 
 <!-- id: s19b-05-0210 -->
 
@@ -870,7 +870,7 @@ Mais très précisément ceci ne l'universalise pas, ne serait-ce que de ceci\..
 
 <!-- id: s19b-05-0213 -->
 
-> qui est cette racine du « *pas toute* », \...qu'elle recèle *une autre jouissance* que *la jouissance phallique* : *la jouissance dite* proprement *féminine,* qui n'en dépend nullement.
+qui est cette racine du « *pas toute* », \...qu'elle recèle *une autre jouissance* que *la jouissance phallique* : *la jouissance dite* proprement *féminine,* qui n'en dépend nullement.
 
 <!-- id: s19b-05-0214 -->
 
@@ -894,7 +894,7 @@ C'est comme ça parce qu'il s'est trouvé que j'ai relu\...
 
 <!-- id: s19b-05-0219 -->
 
-> parce que quelqu'un m'en a prié \...cette première conférence de l'année 1963, ici même - hein ! - à Sainte Anne.
+parce que quelqu'un m'en a prié \...cette première conférence de l'année 1963, ici même - hein ! - à Sainte Anne.
 
 <!-- id: s19b-05-0220 -->
 
@@ -910,7 +910,7 @@ Et si je le publie, on verra avec quel soin j'ai repéré alors\...
 
 <!-- id: s19b-05-0223 -->
 
-> mais je l'ai déjà dit depuis cinq ans sur un certain nombre de registre \...*la métaphore paternelle* notamment, *le nom propre*, il y avait tout ce qu'il fallait pour que, avec la Bible, on donne un sens à cette élucubration mythique de mes dires.
+mais je l'ai déjà dit depuis cinq ans sur un certain nombre de registre \...*la métaphore paternelle* notamment, *le nom propre*, il y avait tout ce qu'il fallait pour que, avec la Bible, on donne un sens à cette élucubration mythique de mes dires.
 
 <!-- id: s19b-05-0224 -->
 
@@ -926,7 +926,7 @@ C'est simplement l'indication de ce qui est dans mon *graphe*\...
 
 <!-- id: s19b-05-0227 -->
 
-> je dis ça parce que ça a eu son petit sort \...de ce que j'inscris du signifiant de A *barré* \[**A**\], ça veut dire : l'Autre, d'où qu'on le prenne, *l'Autre est absent à partir du moment où il s'agit du rapport sexuel*.
+je dis ça parce que ça a eu son petit sort \...de ce que j'inscris du signifiant de A *barré* \[**A**\], ça veut dire : l'Autre, d'où qu'on le prenne, *l'Autre est absent à partir du moment où il s'agit du rapport sexuel*.
 
 <!-- id: s19b-05-0228 -->
 
@@ -934,7 +934,7 @@ Naturellement au niveau de ce qui fonctionne\...
 
 <!-- id: s19b-05-0229 -->
 
-> c'est-à-dire *la fonction phallique* \...il y a simplement cette *discorde* que je viens de rappeler, à savoir que d'un côté et de l'autre, là pour le coup on n'est pas dans la même position, à savoir que :
+c'est-à-dire *la fonction phallique* \...il y a simplement cette *discorde* que je viens de rappeler, à savoir que d'un côté et de l'autre, là pour le coup on n'est pas dans la même position, à savoir que :
 
 <!-- id: s19b-05-0230 -->
 
@@ -1006,7 +1006,7 @@ Ce n'est rien de tel, c'est au contraire simplement deux modes différents de ce
 
 <!-- id: s19b-05-0247 -->
 
-> comme les langues sont très profondément différentes dans leur structure, \...il faut bien que ce soit par rapport à *quelque chose* qui n'est pas le langage.
+comme les langues sont très profondément différentes dans leur structure, \...il faut bien que ce soit par rapport à *quelque chose* qui n'est pas le langage.
 
 <!-- id: s19b-05-0248 -->
 
@@ -1026,7 +1026,7 @@ Ce fait que, du *rapport,* lui accessible au langage\...
 
 <!-- id: s19b-05-0252 -->
 
-> accessible au langage *s'il est fondé* très justement *du non-rapport sexuel*, \...qu'il ne puisse donc qu'*affronter* le 0 et le 1, ceci trouverait aisément son reflet dans l'élaboration par Frege de sa genèse logique des nombres.
+accessible au langage *s'il est fondé* très justement *du non-rapport sexuel*, \...qu'il ne puisse donc qu'*affronter* le 0 et le 1, ceci trouverait aisément son reflet dans l'élaboration par Frege de sa genèse logique des nombres.
 
 <!-- id: s19b-05-0253 -->
 
@@ -1034,7 +1034,7 @@ Je vous ai dit - indiqué tout au moins - ce qui fait difficulté dans cette gen
 
 <!-- id: s19b-05-0254 -->
 
-> *la béance* que je vous ai soulignée du triangle mathématique \...entre ce 0 et ce 1, *béance* que redouble leur opposition d'*affrontement*.
+*la béance* que je vous ai soulignée du triangle mathématique \...entre ce 0 et ce 1, *béance* que redouble leur opposition d'*affrontement*.
 
 <!-- id: s19b-05-0255 -->
 
@@ -1042,15 +1042,15 @@ Que déjà ce qui peut intervenir, ne soit là que du fait que ce soit là l'ess
 
 <!-- id: s19b-05-0256 -->
 
-> qui sont en elles-mêmes sans aucun inconvénient pour autant qu'elles structurent admirablement la nécessité qu'il y ait quelque part « *au moins Un* » qui transcende ce qu'il en est de la prise de *la fonction phallique*.
->
-> Le mythe du « *Père primitif* » ne veut rien dire d'autre.
->
-> Ceci y est très suffisamment exprimé pour que nous puissions en faire aisément usage,
->
-> outre que nous le trouvons confirmé par la structuration logique qui est celle que je vous rappelle
->
-> de ce qui est inscrit au tableau.
+qui sont en elles-mêmes sans aucun inconvénient pour autant qu'elles structurent admirablement la nécessité qu'il y ait quelque part « *au moins Un* » qui transcende ce qu'il en est de la prise de *la fonction phallique*.
+
+Le mythe du « *Père primitif* » ne veut rien dire d'autre.
+
+Ceci y est très suffisamment exprimé pour que nous puissions en faire aisément usage,
+
+outre que nous le trouvons confirmé par la structuration logique qui est celle que je vous rappelle
+
+de ce qui est inscrit au tableau.
 
 <!-- id: s19b-05-0257 -->
 
@@ -1062,7 +1062,7 @@ L'*Un*, comme vous le savez, est fréquemment évoqué par Freud comme signifian
 
 <!-- id: s19b-05-0259 -->
 
-> qui assurément n'est pas du tout de bonne mystique \...serait ce à quoi tiendrait une des tensions fondamentales du monde, à savoir de ne faire qu'*Un*.
+qui assurément n'est pas du tout de bonne mystique \...serait ce à quoi tiendrait une des tensions fondamentales du monde, à savoir de ne faire qu'*Un*.
 
 <!-- id: s19b-05-0260 -->
 
@@ -1074,7 +1074,7 @@ S'il y a *quelque chose* qui est bien patent dans les rapports entre les sexes\.
 
 <!-- id: s19b-05-0262 -->
 
-> et que l'analyse non seulement articule, mais est faite pour faire jouer dans tous les sens \...s'il y a bien *quelque chose* qui dans les *rapports* fait difficulté, c'est très précisément les rapports entre *les femmes* et *les hommes* et que rien ne saurait y ressembler à je ne sais quoi de *spontané*, hors précisément cet horizon dont je parlais tout à l'heure comme étant à la limite fondé sur je ne sais quel mythe animal et que d'aucune façon l'*Éros,* soit une tendance à l'*Un*. Bien loin de là !
+et que l'analyse non seulement articule, mais est faite pour faire jouer dans tous les sens \...s'il y a bien *quelque chose* qui dans les *rapports* fait difficulté, c'est très précisément les rapports entre *les femmes* et *les hommes* et que rien ne saurait y ressembler à je ne sais quoi de *spontané*, hors précisément cet horizon dont je parlais tout à l'heure comme étant à la limite fondé sur je ne sais quel mythe animal et que d'aucune façon l'*Éros,* soit une tendance à l'*Un*. Bien loin de là !
 
 <!-- id: s19b-05-0263 -->
 
@@ -1082,9 +1082,9 @@ C'est dans cette mesure, c'est dans cette fonction, que toute articulation préc
 
 <!-- id: s19b-05-0264 -->
 
-> de ce, où ce n'est que dans *la discorde* que se fonde l'opposition entre les sexes
->
-> en tant qu'ils ne pourraient d'aucune façon s'instituer d'un *Universel* \...qu'au niveau de l'existence - au contraire - c'est très précisément dans une opposition qui consiste dans *l'annulation,* *le vidage, d'une des fonctions comme étant celle de l'autre, que recèle la possibilité de l'articulation du langage,* c'est cela qui me paraît essentiellement à mettre en évidence.
+de ce, où ce n'est que dans *la discorde* que se fonde l'opposition entre les sexes
+
+en tant qu'ils ne pourraient d'aucune façon s'instituer d'un *Universel* \...qu'au niveau de l'existence - au contraire - c'est très précisément dans une opposition qui consiste dans *l'annulation,* *le vidage, d'une des fonctions comme étant celle de l'autre, que recèle la possibilité de l'articulation du langage,* c'est cela qui me paraît essentiellement à mettre en évidence.
 
 <!-- id: s19b-05-0265 -->
 
@@ -1112,7 +1112,7 @@ Or, rien de ce qui est *disjonction*, au niveau inférieur, au niveau de l'insuf
 
 <!-- id: s19b-05-0271 -->
 
-> qui se produit au niveau supérieur \...effectivement se produise, pour que la discorde du niveau inférieur soit exigible, et très précisément réciproquement.
+qui se produit au niveau supérieur \...effectivement se produise, pour que la discorde du niveau inférieur soit exigible, et très précisément réciproquement.
 
 <!-- id: s19b-05-0272 -->
 
@@ -1120,7 +1120,7 @@ Par contre ce que nous voyons, c'est une fois de plus fonctionner\...
 
 <!-- id: s19b-05-0273 -->
 
-> d'une façon, mais distincte, mais séparée \...la relation du niveau supérieur au niveau inférieur.
+d'une façon, mais distincte, mais séparée \...la relation du niveau supérieur au niveau inférieur.
 
 <!-- id: s19b-05-0274 -->
 
@@ -1128,7 +1128,7 @@ L'exigence qu'il existe « *au-moins-un-homme* »\...
 
 <!-- id: s19b-05-0275 -->
 
-> qui est celle qui paraît émise au niveau de ce *féminin* qui se spécifie d'être un « *pas-toute* », une dualité \...le seul point où la dualité a chance d'être *représentée,* il n'y a là qu'un réquisit, si je puis dire, gratuit.
+qui est celle qui paraît émise au niveau de ce *féminin* qui se spécifie d'être un « *pas-toute* », une dualité \...le seul point où la dualité a chance d'être *représentée,* il n'y a là qu'un réquisit, si je puis dire, gratuit.
 
 <!-- id: s19b-05-0276 -->
 
@@ -1136,7 +1136,7 @@ Cet « *au-moins-un »*, rien ne l'impose sinon la chance unique\...
 
 <!-- id: s19b-05-0277 -->
 
-> encore faut-il qu'elle soit jouée \...de ce que *quelque chose* fonctionne sur l'autre versant, mais comme un *point idéal*, comme possibilité pour tous les hommes d'y atteindre.
+encore faut-il qu'elle soit jouée \...de ce que *quelque chose* fonctionne sur l'autre versant, mais comme un *point idéal*, comme possibilité pour tous les hommes d'y atteindre.
 
 <!-- id: s19b-05-0278 -->
 
@@ -1152,7 +1152,7 @@ Mais observez par contre ce qu'il en résulte concernant *l'Universelle barrée*
 
 <!-- id: s19b-05-0281 -->
 
-> et c'est en quoi cet *au-moins-un* dont se supporte le *Nom du Père*, le *Nom du Père mythique*, est indispensable \...c'est ici que j'avance un aperçu qui est celui qui manque à *la fonction*, à la notion de *l'espèce* ou de *la classe*.
+et c'est en quoi cet *au-moins-un* dont se supporte le *Nom du Père*, le *Nom du Père mythique*, est indispensable \...c'est ici que j'avance un aperçu qui est celui qui manque à *la fonction*, à la notion de *l'espèce* ou de *la classe*.
 
 <!-- id: s19b-05-0282 -->
 
@@ -1192,7 +1192,7 @@ Mais il est une chose singulière que je retrouve par voie d'enquête\...
 
 <!-- id: s19b-05-0291 -->
 
-> et parce que d'une formation ancienne, je n'ignore pas tout à fait le chinois \...j'ai demandé à un de mes chers amis de me rappeler ce qu'évidemment je n'avais gardé plus ou moins que comme *trace*, et ce qu'il a fallu que je me fasse confirmer par quelqu'un dont c'est la langue maternelle, il est assurément très étrange que dans le chinois la dénomination du « *tout homme* »,
+et parce que d'une formation ancienne, je n'ignore pas tout à fait le chinois \...j'ai demandé à un de mes chers amis de me rappeler ce qu'évidemment je n'avais gardé plus ou moins que comme *trace*, et ce qu'il a fallu que je me fasse confirmer par quelqu'un dont c'est la langue maternelle, il est assurément très étrange que dans le chinois la dénomination du « *tout homme* »,
 
 <!-- id: s19b-05-0292 -->
 
@@ -1208,7 +1208,7 @@ Enfin si ça vous amuse, je vais quand même vous l'écrire:
 
 <!-- id: s19b-05-0295 -->
 
-> *dōu* : 都*, quán* : 全
+*dōu* : 都*, quán* : 全
 
 <!-- id: s19b-05-0296 -->
 
@@ -1268,7 +1268,7 @@ Et c'est ici que nous pourrons\...
 
 <!-- id: s19b-05-0310 -->
 
-> puisque nous continuons à nous entretenir, mais que ça va finir bientôt, je vous l'assure \...c'est de voir alors là où reprendre l'unilatérité de la fonction existentielle pour ce qui est de l'autre, de l'autre partenaire en tant qu'il est « *sans exception* ».
+puisque nous continuons à nous entretenir, mais que ça va finir bientôt, je vous l'assure \...c'est de voir alors là où reprendre l'unilatérité de la fonction existentielle pour ce qui est de l'autre, de l'autre partenaire en tant qu'il est « *sans exception* ».
 
 <!-- id: s19b-05-0311 -->
 
@@ -1284,11 +1284,11 @@ Seulement là comme tout à l'heure, si la supposition fondée sur, en quelque s
 
 <!-- id: s19b-05-0314 -->
 
-> ce qui est le comble du *réel* \...ceci n'ébranle pas pour autant *la fragilité*, si je puis dire, *de la conjecture,* parce qu'en tout cas la femme n'en est pas plus assurée dans son *essence universelle*, pour la simple raison de ceci : c'est que le contraire de *la limite*, à savoir : qu'il n'y en ait pas, qu'ici il n'y ait pas *d'exception*, le fait qu'il n'y ait pas d'exception n'assure pas plus *l'Universel*\...
+ce qui est le comble du *réel* \...ceci n'ébranle pas pour autant *la fragilité*, si je puis dire, *de la conjecture,* parce qu'en tout cas la femme n'en est pas plus assurée dans son *essence universelle*, pour la simple raison de ceci : c'est que le contraire de *la limite*, à savoir : qu'il n'y en ait pas, qu'ici il n'y ait pas *d'exception*, le fait qu'il n'y ait pas d'exception n'assure pas plus *l'Universel*\...
 
 <!-- id: s19b-05-0315 -->
 
-> déjà si mal établi en raison de ceci qu'il est discordant \...n'assure pas plus *l'Universel de la femme*.
+déjà si mal établi en raison de ceci qu'il est discordant \...n'assure pas plus *l'Universel de la femme*.
 
 <!-- id: s19b-05-0316 -->
 
@@ -1312,7 +1312,7 @@ Le côté exorbitant de l'émergence de cet *Un*, c'est ce que nous serons amen�
 
 <!-- id: s19b-05-0321 -->
 
-> et c'est bien pour cela que depuis longtemps je vous ai invités à relire, avant que je l'aborde, \...le « *Parménide »* de Platon.
+et c'est bien pour cela que depuis longtemps je vous ai invités à relire, avant que je l'aborde, \...le « *Parménide »* de Platon.
 
 ## Notes
 

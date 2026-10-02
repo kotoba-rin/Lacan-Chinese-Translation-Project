@@ -187,7 +187,7 @@ offre à l’enfant, par la seule introduction du signi­fiant, du *terme symbol
 
 <!-- id: s5-15-0039 -->
 
-> <img src="assets/image43.jpeg" style="width:1.64096in;height:1.53387in" alt="37.jpg" />
+<img src="assets/image43.jpeg" style="width:1.64096in;height:1.53387in" alt="37.jpg" />
 
 <!-- id: s5-15-0040 -->
 
@@ -691,7 +691,7 @@ et JONES ne s’en aper­çoit pas
 
 <!-- id: s5-15-0148 -->
 
-> \[successful in filling herself with just the things the child wants so badly… \]
+\[successful in filling herself with just the things the child wants so badly… \]
 
 <!-- id: s5-15-0149 -->
 

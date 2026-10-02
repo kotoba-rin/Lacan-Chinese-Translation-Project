@@ -18,7 +18,7 @@ Je vous ai dit que c'est ici que j'avais accepté\...
 
 <!-- id: s19b-04-0004 -->
 
-> à la prière d'un de mes élèves \...de reparler cette année pour la première fois depuis 63.
+à la prière d'un de mes élèves \...de reparler cette année pour la première fois depuis 63.
 
 <!-- id: s19b-04-0005 -->
 
@@ -42,7 +42,7 @@ Je voudrais aujourd'hui éclairer à propos de ce mur\...
 
 <!-- id: s19b-04-0010 -->
 
-> qui n'est pas du tout une métaphore \...éclairer ce que je peux dire ailleurs.
+qui n'est pas du tout une métaphore \...éclairer ce que je peux dire ailleurs.
 
 <!-- id: s19b-04-0011 -->
 
@@ -58,9 +58,9 @@ Pour introduire un peu les choses, suggérer une dimension à certains, j'espèr
 
 <!-- id: s19b-04-0014 -->
 
-> comme on dit, sinon de manière imbécile ou abjecte, ce qui est une aggravation :
->
-> « *abjecte* » c'est comme on en parle dans la psychanalyse \...qu'on ne puisse donc « *parler d'amour* » mais qu'on puisse en *écrire *: ça devrait frapper.
+comme on dit, sinon de manière imbécile ou abjecte, ce qui est une aggravation :
+
+« *abjecte* » c'est comme on en parle dans la psychanalyse \...qu'on ne puisse donc « *parler d'amour* » mais qu'on puisse en *écrire *: ça devrait frapper.
 
 <!-- id: s19b-04-0015 -->
 
@@ -68,7 +68,7 @@ La lettre, *la lettre* « *d'(a)mur* »\...
 
 <!-- id: s19b-04-0016 -->
 
-> pour donner suite à cette petite ballade en six vers que j'ai commentée ici la der­nière fois \...il est clair qu'il faudrait que ça se morde la queue, et que si ça commence :
+pour donner suite à cette petite ballade en six vers que j'ai commentée ici la der­nière fois \...il est clair qu'il faudrait que ça se morde la queue, et que si ça commence :
 
 <!-- id: s19b-04-0017 -->
 
@@ -76,7 +76,7 @@ La lettre, *la lettre* « *d'(a)mur* »\...
 
 <!-- id: s19b-04-0018 -->
 
-> dont personne ne sait ce que c'est
+dont personne ne sait ce que c'est
 
 <!-- id: s19b-04-0019 -->
 
@@ -84,7 +84,7 @@ La lettre, *la lettre* « *d'(a)mur* »\...
 
 <!-- id: s19b-04-0020 -->
 
-> je ne vais pas recommen­cer aujourd'hui \...et ça devrait se terminer à la fin, à la fin il y a le mur : « *entre l'hom­me et le mur, il y a*\... » \[*lapsus*\] \...justement l'*(a)mur*, *la lettre d'amour*.
+je ne vais pas recommen­cer aujourd'hui \...et ça devrait se terminer à la fin, à la fin il y a le mur : « *entre l'hom­me et le mur, il y a*\... » \[*lapsus*\] \...justement l'*(a)mur*, *la lettre d'amour*.
 
 <!-- id: s19b-04-0021 -->
 
@@ -100,7 +100,7 @@ Il y a un type, comme ça, il y a 3000 ans, qui était certainement à l'acmé d
 
 <!-- id: s19b-04-0024 -->
 
-> je m'en vais pas reprendre
+je m'en vais pas reprendre
 
 <!-- id: s19b-04-0025 -->
 
@@ -168,11 +168,11 @@ Eh bien, c'est pas encourageant !
 
 <!-- id: s19b-04-0041 -->
 
-> Parce que depuis hier - hier, c'est-à-dire que c'était avant-hier - que j'ai commencé à le chercher
->
-> et comme je ne trouvais pas toujours, depuis hier j'ai téléphoné à une dizaine de personnes
->
-> qui me paraissaient les plus propices à me donner cette réponse. Bon, eh bien tant pis !
+Parce que depuis hier - hier, c'est-à-dire que c'était avant-hier - que j'ai commencé à le chercher
+
+et comme je ne trouvais pas toujours, depuis hier j'ai téléphoné à une dizaine de personnes
+
+qui me paraissaient les plus propices à me donner cette réponse. Bon, eh bien tant pis !
 
 <!-- id: s19b-04-0042 -->
 
@@ -188,7 +188,7 @@ Mes « *quadripode* » en question, je les appelés ainsi pour vous donner l'id�
 
 <!-- id: s19b-04-0045 -->
 
-> histoire, puisque j'étais dans les mass-média [^9], de rassurer un peu les personnes \...mais en réalité, j'explique à l'intérieur ceci à propos de ce que j'ai isolé des 4 *discours* : ces 4 *discours* résultent de l'émer­gence du dernier venu, du *discours de l'analyste*.
+histoire, puisque j'étais dans les mass-média [^9], de rassurer un peu les personnes \...mais en réalité, j'explique à l'intérieur ceci à propos de ce que j'ai isolé des 4 *discours* : ces 4 *discours* résultent de l'émer­gence du dernier venu, du *discours de l'analyste*.
 
 <!-- id: s19b-04-0046 -->
 
@@ -196,7 +196,7 @@ Mes « *quadripode* » en question, je les appelés ainsi pour vous donner l'id�
 
 <!-- id: s19b-04-0047 -->
 
-> dans un certain état actuel des pensées \...un ordre dont s'éclairent d'autres *discours* qui ont émergé bien plus tôt.
+dans un certain état actuel des pensées \...un ordre dont s'éclairent d'autres *discours* qui ont émergé bien plus tôt.
 
 <!-- id: s19b-04-0048 -->
 
@@ -236,7 +236,7 @@ Cette menue forme que je viens de rappeler là, est là pour faire sentir de quo
 
 <!-- id: s19b-04-0057 -->
 
-> que j'ai tracé à mon dernier séminaire \[19-01-1972\].
+que j'ai tracé à mon dernier séminaire \[19-01-1972\].
 
 <!-- id: s19b-04-0058 -->
 
@@ -260,7 +260,7 @@ Le tétraèdre, pour l'appeler par son aspect présent, a de curieuses propriét
 
 <!-- id: s19b-04-0063 -->
 
-> l'égale distance n'est là que pour vous rappeler les propriétés du nombre 4, eu égard à l'espace \...s'il est quelconque, il vous est proprement impossible d'y définir une symétrie.
+l'égale distance n'est là que pour vous rappeler les propriétés du nombre 4, eu égard à l'espace \...s'il est quelconque, il vous est proprement impossible d'y définir une symétrie.
 
 <!-- id: s19b-04-0064 -->
 
@@ -268,9 +268,9 @@ Néanmoins il a ceci de particulier que si ses côtés, à savoir ces petits tr
 
 <!-- id: s19b-04-0065 -->
 
-> qui serait forcément un privilège, puis­que si ça se passait,
->
-> il y en aurait au moins deux qui ne pourraient pas en bénéficier \...si donc vous posez :
+qui serait forcément un privilège, puis­que si ça se passait,
+
+il y en aurait au moins deux qui ne pourraient pas en bénéficier \...si donc vous posez :
 
 <!-- id: s19b-04-0066 -->
 
@@ -346,7 +346,7 @@ Effectivement, sur un certain gribouillage analytique, il semble qu'on peut lire
 
 <!-- id: s19b-04-0084 -->
 
-> et ce n'est pas surprenant, vous allez voir pourquoi \...tous les « *sens* » que l'on veut jusqu'au plus archaïque, je veux dire y avoir comme l'écho, la sempiternelle répétition de ce qui, du fond des âges nous est venu sous ce terme de « *sens* », sous des formes dont il faut bien dire qu'il n'y a que leur superposition qui fasse sens.
+et ce n'est pas surprenant, vous allez voir pourquoi \...tous les « *sens* » que l'on veut jusqu'au plus archaïque, je veux dire y avoir comme l'écho, la sempiternelle répétition de ce qui, du fond des âges nous est venu sous ce terme de « *sens* », sous des formes dont il faut bien dire qu'il n'y a que leur superposition qui fasse sens.
 
 <!-- id: s19b-04-0085 -->
 
@@ -366,7 +366,7 @@ Le rapprocher d'une mythologie, quelle qu'elle soit, chacun sait
 
 <!-- id: s19b-04-0089 -->
 
-> Référez vous là-dessus à des travaux dont je n'ai pas, je pense, à vous évoquer une fois de plus l'auteur.
+Référez vous là-dessus à des travaux dont je n'ai pas, je pense, à vous évoquer une fois de plus l'auteur.
 
 <!-- id: s19b-04-0090 -->
 
@@ -378,11 +378,11 @@ Je me suis servi\...
 
 <!-- id: s19b-04-0092 -->
 
-> parce que c'était bien nécessaire \...je me suis servi\...
+parce que c'était bien nécessaire \...je me suis servi\...
 
 <!-- id: s19b-04-0093 -->
 
-> pour introduire ce qu'il en est du *discours analytique,* \...je me suis servi sans scrupule du frayage dit *linguistique*.
+pour introduire ce qu'il en est du *discours analytique,* \...je me suis servi sans scrupule du frayage dit *linguistique*.
 
 <!-- id: s19b-04-0094 -->
 
@@ -390,11 +390,11 @@ Et *pour tempérer des ardeurs* qui autour de moi auraient pu s'éveiller trop t
 
 <!-- id: s19b-04-0095 -->
 
-> digne de ce titre « *linguistique* » comme science \...que ne s'est soutenu quelque chose qui semble avoir la langue comme telle, voire la parole, pour objet, que ça ne s'est soutenu qu'à condition de se jurer entre soi, entre linguistes, de ne jamais plus jamais\...
+digne de ce titre « *linguistique* » comme science \...que ne s'est soutenu quelque chose qui semble avoir la langue comme telle, voire la parole, pour objet, que ça ne s'est soutenu qu'à condition de se jurer entre soi, entre linguistes, de ne jamais plus jamais\...
 
 <!-- id: s19b-04-0096 -->
 
-> parce qu'on n'avait fait que ça pendant des siècles \...plus jamais, même de loin, faire allusion à *l'origine du langage*.
+parce qu'on n'avait fait que ça pendant des siècles \...plus jamais, même de loin, faire allusion à *l'origine du langage*.
 
 <!-- id: s19b-04-0097 -->
 
@@ -402,13 +402,13 @@ C'était, entre autres, un des mots d'ordre que j'avais donné à cette forme d'
 
 <!-- id: s19b-04-0098 -->
 
-> Quand je dis que c'était pour éviter à mon audience le retour à une certaine équivoque fangeuse, ce n'est pas moi
->
-> qui me sers de ce terme, c'est Freud lui-même, et nommément justement à propos des archétypes dits « *jungiens* »,
->
-> ça n'est certainement pas pour lever maintenant cet interdit :
->
-> il n'est nullement question de spéculer sur quelque *origine du langage*, *j'ai dit qu'il est question de formuler* *la fonction de la parole*.
+Quand je dis que c'était pour éviter à mon audience le retour à une certaine équivoque fangeuse, ce n'est pas moi
+
+qui me sers de ce terme, c'est Freud lui-même, et nommément justement à propos des archétypes dits « *jungiens* »,
+
+ça n'est certainement pas pour lever maintenant cet interdit :
+
+il n'est nullement question de spéculer sur quelque *origine du langage*, *j'ai dit qu'il est question de formuler* *la fonction de la parole*.
 
 <!-- id: s19b-04-0099 -->
 
@@ -416,7 +416,7 @@ C'était, entre autres, un des mots d'ordre que j'avais donné à cette forme d'
 
 <!-- id: s19b-04-0100 -->
 
-> il y a très longtemps que j'ai avancé ça \...*c'est d'être la seule forme d'action qui se pose comme vérité*.
+il y a très longtemps que j'ai avancé ça \...*c'est d'être la seule forme d'action qui se pose comme vérité*.
 
 <!-- id: s19b-04-0101 -->
 
@@ -436,13 +436,13 @@ Il faut dire que je n'ai pas dit « *quand c'est parlé* », il y a quelque chos
 
 <!-- id: s19b-04-0105 -->
 
-> quand elle commande,
->
-> quand elle prie,
->
-> quand elle injurie,
->
-> quand elle émet un vœu, elle ne fonde aucun fait.
+quand elle commande,
+
+quand elle prie,
+
+quand elle injurie,
+
+quand elle émet un vœu, elle ne fonde aucun fait.
 
 <!-- id: s19b-04-0106 -->
 
@@ -450,13 +450,13 @@ Nous pouvons aujourd'hui ici\...
 
 <!-- id: s19b-04-0107 -->
 
-> c'est pas des choses que j'irais produire là-bas, à l'autre place,
->
-> où heureusement je dis des choses plus sérieuses \...ici parce que c'est impliqué dans ce sérieux, je développe toujours plus en pointe, et en restant toujours à la-dite pointe comme à mon dernier séminaire\...
+c'est pas des choses que j'irais produire là-bas, à l'autre place,
+
+où heureusement je dis des choses plus sérieuses \...ici parce que c'est impliqué dans ce sérieux, je développe toujours plus en pointe, et en restant toujours à la-dite pointe comme à mon dernier séminaire\...
 
 <!-- id: s19b-04-0108 -->
 
-> j'espère qu'il se fera qu'au prochain il y aura moins de monde : ce n'était pas rigolo \...mais enfin ici on peut rigoler un peu, c'est des amusements comiques.
+j'espère qu'il se fera qu'au prochain il y aura moins de monde : ce n'était pas rigolo \...mais enfin ici on peut rigoler un peu, c'est des amusements comiques.
 
 <!-- id: s19b-04-0109 -->
 
@@ -468,7 +468,7 @@ C'est pas pour rien que ça instaure la dimension de *la vérité*, parce que *l
 
 <!-- id: s19b-04-0111 -->
 
-> excusez-moi de reprendre ce terme, mais puisque j'ai commencé, je ne l'abandonne pas \...c'est que de *bander*\... c'est ce que là-bas, place du Panthéon, j'appelle ! \...c'est que de *bander*, ça n'a aucun rapport avec *le sexe*, pas avec l'*autre* en tout cas !
+excusez-moi de reprendre ce terme, mais puisque j'ai commencé, je ne l'abandonne pas \...c'est que de *bander*\... c'est ce que là-bas, place du Panthéon, j'appelle ! \...c'est que de *bander*, ça n'a aucun rapport avec *le sexe*, pas avec l'*autre* en tout cas !
 
 <!-- id: s19b-04-0112 -->
 
@@ -488,9 +488,9 @@ Je vous ai dit que « *la signification du phallus* » c'est le seul cas de g�
 
 <!-- id: s19b-04-0116 -->
 
-> c'est que ce que vous expliquait ce matin, je dis ça pour ceux qui sont un peu avertis
->
-> c'est que ce que vous expliquait ce matin Jakobson : *\...le phallus c'est la signification, c'est ce par quoi le langage signifie. Il n'y a qu'une seule Bedeutung, c'est le phallus*.
+c'est que ce que vous expliquait ce matin, je dis ça pour ceux qui sont un peu avertis
+
+c'est que ce que vous expliquait ce matin Jakobson : *\...le phallus c'est la signification, c'est ce par quoi le langage signifie. Il n'y a qu'une seule Bedeutung, c'est le phallus*.
 
 <!-- id: s19b-04-0117 -->
 
@@ -502,7 +502,7 @@ Car elle n'est pas toujours appliquée à dénoter des faits\...
 
 <!-- id: s19b-04-0119 -->
 
-> c'est tout ce qu'elle peut faire, on ne dénote pas des choses, on dénote des faits \...mais c'est tout à fait par hasard, de temps en temps.
+c'est tout ce qu'elle peut faire, on ne dénote pas des choses, on dénote des faits \...mais c'est tout à fait par hasard, de temps en temps.
 
 <!-- id: s19b-04-0120 -->
 
@@ -562,7 +562,7 @@ Un nommé Van Gulik [^10] dont le livre m'a paru excellent, qui pique par-ci par
 
 <!-- id: s19b-04-0134 -->
 
-> bien sûr il fait comme tout le monde, il pique plus près de ce qu'il y a de la tradition écrite chinoise \...dont le sujet est « *le savoir sexuel* », ce qui n'est pas très étendu, je vous assure, ni non plus très éclairé !
+bien sûr il fait comme tout le monde, il pique plus près de ce qu'il y a de la tradition écrite chinoise \...dont le sujet est « *le savoir sexuel* », ce qui n'est pas très étendu, je vous assure, ni non plus très éclairé !
 
 <!-- id: s19b-04-0135 -->
 
@@ -578,9 +578,9 @@ L'intérêt de ce que je pointe, ce n'est pas de dire que depuis toujours les ch
 
 <!-- id: s19b-04-0138 -->
 
-> mais c'est curieux, c'est toujours dans des endroits
->
-> où il faut vraiment sérieusement montrer patte blanche pour entrer, \...des endroits où il se passe entre l'*homme* et la *femme* cette conjonction harmonieuse qui les ferait être au septième ciel, mais c'est tout de même très cu­rieux qu'on n'en entende jamais parler que du dehors.
+mais c'est curieux, c'est toujours dans des endroits
+
+où il faut vraiment sérieusement montrer patte blanche pour entrer, \...des endroits où il se passe entre l'*homme* et la *femme* cette conjonction harmonieuse qui les ferait être au septième ciel, mais c'est tout de même très cu­rieux qu'on n'en entende jamais parler que du dehors.
 
 <!-- id: s19b-04-0139 -->
 
@@ -644,9 +644,9 @@ Vous comprenez, vous ne pouvez plus vous imaginer\...
 
 <!-- id: s19b-04-0154 -->
 
-> c'est pour vous faire imaginer quelque chose si vous en êtes capables,
->
-> mais qui sait, à l'entraînement de ma voix \...vous pouvez même pas imaginer ce que c'était une zone du temps qu'on appelle à cause de ça « *antique »,* où la δοχα \[doxa\], vous savez la célèbre δοχα dont on parle dans le « *Ménon »,* « *mais non, mais non* » \[*Rires*\], *il y avait de la* δοχα *qui n'était pas universitaire*.
+c'est pour vous faire imaginer quelque chose si vous en êtes capables,
+
+mais qui sait, à l'entraînement de ma voix \...vous pouvez même pas imaginer ce que c'était une zone du temps qu'on appelle à cause de ça « *antique »,* où la δοχα \[doxa\], vous savez la célèbre δοχα dont on parle dans le « *Ménon »,* « *mais non, mais non* » \[*Rires*\], *il y avait de la* δοχα *qui n'était pas universitaire*.
 
 <!-- id: s19b-04-0155 -->
 
@@ -658,7 +658,7 @@ Il n'y a pas d'exemple d'une opinion, aussi stupide soit-elle, qui ne soit repé
 
 <!-- id: s19b-04-0157 -->
 
-> à l'occasion de ce qu'elle est repérée \...enseignée. Ben ça fausse tout !
+à l'occasion de ce qu'elle est repérée \...enseignée. Ben ça fausse tout !
 
 <!-- id: s19b-04-0158 -->
 
@@ -666,9 +666,9 @@ Parce que quand Platon parle de δοχα \[doxa\]\...
 
 <!-- id: s19b-04-0159 -->
 
-> comme de quelque chose dont il ne sait littéralement que faire,
->
-> lui, philosophe qui cherche à fonder une science, \...il s'aperçoit que la δοχα, la δοχα qu'il rencontre à tous les coins de rue, *il y en a de vraies*.
+comme de quelque chose dont il ne sait littéralement que faire,
+
+lui, philosophe qui cherche à fonder une science, \...il s'aperçoit que la δοχα, la δοχα qu'il rencontre à tous les coins de rue, *il y en a de vraies*.
 
 <!-- id: s19b-04-0160 -->
 
@@ -696,7 +696,7 @@ Bien entendu puisque c'est un *discours de l'analyste*, ça prend\...
 
 <!-- id: s19b-04-0166 -->
 
-> comme tous mes discours, les quatre que j'ai nommés \...le sens du génitif objectif :
+comme tous mes discours, les quatre que j'ai nommés \...le sens du génitif objectif :
 
 <!-- id: s19b-04-0167 -->
 
@@ -712,9 +712,9 @@ Alors notre Gide\...
 
 <!-- id: s19b-04-0170 -->
 
-> pour continuer la tresse : je prends le Gide,
->
-> puis je le relaisserai, puis on le reprendra ensemble, et ainsi de suite \...notre Gide là, parce qu'il est quand même exemplaire, il ne nous sort pas de notre petite affaire, bien loin de là !
+pour continuer la tresse : je prends le Gide,
+
+puis je le relaisserai, puis on le reprendra ensemble, et ainsi de suite \...notre Gide là, parce qu'il est quand même exemplaire, il ne nous sort pas de notre petite affaire, bien loin de là !
 
 <!-- id: s19b-04-0171 -->
 
@@ -774,7 +774,7 @@ Il est déterminé comme *sujet*, c'est-à-dire qu'*il est divisé comme sujet*�
 
 <!-- id: s19b-04-0185 -->
 
-> c'est une production ! - ça produit *mathématiquement*, c'est le cas de le dire, \...cet *objet(a)* en tant que *cause du désir*.
+c'est une production ! - ça produit *mathématiquement*, c'est le cas de le dire, \...cet *objet(a)* en tant que *cause du désir*.
 
 <!-- id: s19b-04-0186 -->
 
@@ -814,7 +814,7 @@ J'avais commencé autrefois\...
 
 <!-- id: s19b-04-0195 -->
 
-> j'en ai fait qu'une leçon, un « *séminaire* » ce qu'on appelle \...quelque chose sur *le Nom du Père*.
+j'en ai fait qu'une leçon, un « *séminaire* » ce qu'on appelle \...quelque chose sur *le Nom du Père*.
 
 <!-- id: s19b-04-0196 -->
 
@@ -878,11 +878,11 @@ Il a dit : « *Regardez le mur* » - comme moi\...
 
 <!-- id: s19b-04-0211 -->
 
-> puis, depuis ce temps, il est devenu « *le Léonard des familles* », on fait cadeau de ses manuscrits.
->
-> Il y a un ouvrage de luxe - même à moi, on m'en a donnée une paire,
->
-> vous vous rendez compte, mais ça ne veut pas dire que c'est pas lisible \[*Rires*\] \...alors il vous explique : « *Regardez bien le mur* » comme ici, c'est un peu sale.
+puis, depuis ce temps, il est devenu « *le Léonard des familles* », on fait cadeau de ses manuscrits.
+
+Il y a un ouvrage de luxe - même à moi, on m'en a donnée une paire,
+
+vous vous rendez compte, mais ça ne veut pas dire que c'est pas lisible \[*Rires*\] \...alors il vous explique : « *Regardez bien le mur* » comme ici, c'est un peu sale.
 
 <!-- id: s19b-04-0212 -->
 
@@ -894,7 +894,7 @@ Eh bien si vous en croyez Léonard : s'il y a une tache de moi­sissure, c'est 
 
 <!-- id: s19b-04-0214 -->
 
-> ça, ça se prête encore mieux, parce que dans la moisissure, il y a toujours des ombres, des creux \...c'est très important ça : s'apercevoir qu'il y a une classe de choses sur les murs, qui prête à la figure, à la création d'art, comme on dit. C'est le figuratif même, la tache en question.
+ça, ça se prête encore mieux, parce que dans la moisissure, il y a toujours des ombres, des creux \...c'est très important ça : s'apercevoir qu'il y a une classe de choses sur les murs, qui prête à la figure, à la création d'art, comme on dit. C'est le figuratif même, la tache en question.
 
 <!-- id: s19b-04-0215 -->
 
@@ -902,7 +902,7 @@ Il faut tout de même savoir le rapport qu'il y a entre ça et quelque chose d'a
 
 <!-- id: s19b-04-0216 -->
 
-> encore que ça arrive, c'est bien comme ça que ça commence toujours \...mais du *discours*.
+encore que ça arrive, c'est bien comme ça que ça commence toujours \...mais du *discours*.
 
 <!-- id: s19b-04-0217 -->
 
@@ -914,7 +914,7 @@ Autrement dit : si c'est du même ordre la *moisissure* sur le mur ou l'*écrit
 
 <!-- id: s19b-04-0219 -->
 
-> il n'y a pas très longtemps, ça commence à vieillir \...se sont beaucoup occupés d'écrire des choses, *des lettres d'amour sur les murs*. <u>[</u>[Dàzìbào : 大字報](https://fr.wikipedia.org/wiki/Dazibao)<u>]</u>
+il n'y a pas très longtemps, ça commence à vieillir \...se sont beaucoup occupés d'écrire des choses, *des lettres d'amour sur les murs*. <u>[</u>[Dàzìbào : 大字報](https://fr.wikipedia.org/wiki/Dazibao)<u>]</u>
 
 <!-- id: s19b-04-0220 -->
 
@@ -958,7 +958,7 @@ Mais ça sert quand même parce que si on n'avait jamais rien écrit sur un mur\
 
 <!-- id: s19b-04-0230 -->
 
-> quel qu'il soit, celui-là ou les autres \...eh bien, c'est un fait : on n'aurait pas fait un pas dans le sens de ce qui peut-être est à regarder *au-delà du mur*.
+quel qu'il soit, celui-là ou les autres \...eh bien, c'est un fait : on n'aurait pas fait un pas dans le sens de ce qui peut-être est à regarder *au-delà du mur*.
 
 <!-- id: s19b-04-0231 -->
 
@@ -970,7 +970,7 @@ Voyez-vous, il y a quelque chose dont je serai amené un peu à vous parler cett
 
 <!-- id: s19b-04-0233 -->
 
-> pour vous le dire tout de suite \...il n'y a, à notre connaissance, que ce *Réel* qui se signale justement *de l'impossible, de l'impossible de l'atteindre au-delà du mur*.
+pour vous le dire tout de suite \...il n'y a, à notre connaissance, que ce *Réel* qui se signale justement *de l'impossible, de l'impossible de l'atteindre au-delà du mur*.
 
 <!-- id: s19b-04-0234 -->
 
@@ -1030,7 +1030,7 @@ Il est très clair que quelqu'un\...
 
 <!-- id: s19b-04-0248 -->
 
-> dont vous avez entendu - sans doute, certains - parler pour la première fois ce matin
+dont vous avez entendu - sans doute, certains - parler pour la première fois ce matin
 
 <!-- id: s19b-04-0249 -->
 
@@ -1038,7 +1038,7 @@ Il est très clair que quelqu'un\...
 
 <!-- id: s19b-04-0250 -->
 
-> *c'est-à-dire le discours qui se tient sur le mur* \...*soit quelque chose qui suffise même à rendre compte du nombre*, premier pas de la mathématique.
+*c'est-à-dire le discours qui se tient sur le mur* \...*soit quelque chose qui suffise même à rendre compte du nombre*, premier pas de la mathématique.
 
 <!-- id: s19b-04-0251 -->
 
@@ -1046,7 +1046,7 @@ Par contre, il lui semble pouvoir rendre compte, non seulement de ce qui se trac
 
 <!-- id: s19b-04-0252 -->
 
-> ça n'est rien d'autre que la vie même, ça commence à la moisissure comme vous savez \...rendre compte par *le nombre, l'algèbre, les fonctions, la topologie*, rendre compte de ce qui se passe dans le champ de la vie.
+ça n'est rien d'autre que la vie même, ça commence à la moisissure comme vous savez \...rendre compte par *le nombre, l'algèbre, les fonctions, la topologie*, rendre compte de ce qui se passe dans le champ de la vie.
 
 <!-- id: s19b-04-0253 -->
 
@@ -1062,7 +1062,7 @@ Je vous expliquerai :
 
 <!-- id: s19b-04-0256 -->
 
-> que fait la prime moisissure avant de s'élever jusqu'à l'homme,
+que fait la prime moisissure avant de s'élever jusqu'à l'homme,
 
 <!-- id: s19b-04-0257 -->
 
@@ -1070,7 +1070,7 @@ Je vous expliquerai :
 
 <!-- id: s19b-04-0258 -->
 
-> que la topologie peut fournir une typologie des langues naturelles.
+que la topologie peut fournir une typologie des langues naturelles.
 
 <!-- id: s19b-04-0259 -->
 
@@ -1158,7 +1158,7 @@ C'est *quelque chose* qui nous donne l'état actuel de *ce qui de lien social se
 
 <!-- id: s19b-04-0280 -->
 
-> du *maître*, de l'*esclave*, du *produit*, ou de ce qui supporte toute l'affaire \...quelque soit la place qu'on y occupe, on n'y entrave jamais que *pouic*.
+du *maître*, de l'*esclave*, du *produit*, ou de ce qui supporte toute l'affaire \...quelque soit la place qu'on y occupe, on n'y entrave jamais que *pouic*.
 
 <!-- id: s19b-04-0281 -->
 
@@ -1190,13 +1190,13 @@ Chose d'ailleurs qu'il héritait - c'est pas pour rien - des *Stoïciens,* dont 
 
 <!-- id: s19b-04-0288 -->
 
-> ce que j'articule des petites lettres que je vous ai dit tout à l'heure \[S~2,~ S~1~\]
->
-> *\...le signifié* \[S~2~\] *d'un signifiant* \[S~1~\]*\...*
->
-> là où on accroche quelque chose qui peut ressembler à un sens
->
-> *\...ça vient toujours de la place que le même signifiant occupe dans un autre discours*.
+ce que j'articule des petites lettres que je vous ai dit tout à l'heure \[S~2,~ S~1~\]
+
+*\...le signifié* \[S~2~\] *d'un signifiant* \[S~1~\]*\...*
+
+là où on accroche quelque chose qui peut ressembler à un sens
+
+*\...ça vient toujours de la place que le même signifiant occupe dans un autre discours*.
 
 <!-- id: s19b-04-0289 -->
 
@@ -1276,7 +1276,7 @@ Qu'il y ait un corrélat entre ça\...
 
 <!-- id: s19b-04-0308 -->
 
-> comme je l'ai souligné au début de ce discours \...un *corrélat* entre ça et ce qui se fomente de *la* *parole*, nous ne pouvons rien dire de plus.
+comme je l'ai souligné au début de ce discours \...un *corrélat* entre ça et ce qui se fomente de *la* *parole*, nous ne pouvons rien dire de plus.
 
 <!-- id: s19b-04-0309 -->
 
@@ -1284,11 +1284,11 @@ Qu'au point où nous en sommes de *l'état actuel des pensées*\...
 
 <!-- id: s19b-04-0310 -->
 
-> ça fait la 6^ème^ fois que je viens d'employer cette formule, il est bien clair que *ça n'a pas l'air de tracasser personne*, c'est pourtant bien quelque chose qui vaudrait qu'on y revienne, parce que « *l'état actuel des pensées »*,
->
-> j'en fais un meuble, c'est pourtant vrai, hein ?
->
-> C'est pas de l'idéalisme de dire que les pensées sont aussi strictement déterminées que le dernier gadget \...enfin, dans *l'état actuel des pensées*, on a *le discours hystérique* qui, quand on veut bien l'entendre pour ce qu'il est, se montre lié à une curieuse adaption.
+ça fait la 6^ème^ fois que je viens d'employer cette formule, il est bien clair que *ça n'a pas l'air de tracasser personne*, c'est pourtant bien quelque chose qui vaudrait qu'on y revienne, parce que « *l'état actuel des pensées »*,
+
+j'en fais un meuble, c'est pourtant vrai, hein ?
+
+C'est pas de l'idéalisme de dire que les pensées sont aussi strictement déterminées que le dernier gadget \...enfin, dans *l'état actuel des pensées*, on a *le discours hystérique* qui, quand on veut bien l'entendre pour ce qu'il est, se montre lié à une curieuse adaption.
 
 <!-- id: s19b-04-0311 -->
 
@@ -1324,9 +1324,9 @@ J'ai joué longtemps sur la formule dont se régalait mon cher ami Perelman : �
 
 <!-- id: s19b-04-0319 -->
 
-> On n'est jamais bien sûr, et je vous conseille de partir de là,
->
-> de ce que j'ai derrière la tête quand je m'amuse justement ! \...« *un océan de fausse science* », c'est peut-être *le savoir de l'analyste*, pourquoi pas ?
+On n'est jamais bien sûr, et je vous conseille de partir de là,
+
+de ce que j'ai derrière la tête quand je m'amuse justement ! \...« *un océan de fausse science* », c'est peut-être *le savoir de l'analyste*, pourquoi pas ?
 
 <!-- id: s19b-04-0320 -->
 
@@ -1346,7 +1346,7 @@ C'est qu'à cette place là\...
 
 <!-- id: s19b-04-0324 -->
 
-> dans ce que j'ai appelée *tétrapode* ou *quadripède* \...à la place de *la* *vérité* se tient S~2~. *Ce savoir*, c'est un savoir lui-même qui est donc toujours à mettre en question.
+dans ce que j'ai appelée *tétrapode* ou *quadripède* \...à la place de *la* *vérité* se tient S~2~. *Ce savoir*, c'est un savoir lui-même qui est donc toujours à mettre en question.
 
 <!-- id: s19b-04-0325 -->
 
@@ -1366,7 +1366,7 @@ Ce *savoir-là* c'est ce que j'assume, je définis pour ne pouvoir se poser\...
 
 <!-- id: s19b-04-0329 -->
 
-> trait nouveau dans l'émergence \...*que de la jouissance du sujet*.
+trait nouveau dans l'émergence \...*que de la jouissance du sujet*.
 
 ## Notes
 

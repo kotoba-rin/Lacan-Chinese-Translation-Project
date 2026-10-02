@@ -18,7 +18,7 @@ Est-ce que je colle assez pour ne pas... pour m’en distraire, c’est-à-dire 
 
 <!-- id: s21-02-0004 -->
 
-> je vous le dis tout de suite : j’aborderai pas ça aujourd’hui ...mais *les espaces vectoriels* ça introduit une notion, comme ça, un autre espace dans l’espace : on appelle ça « *espace fibré ».*
+je vous le dis tout de suite : j’aborderai pas ça aujourd’hui ...mais *les espaces vectoriels* ça introduit une notion, comme ça, un autre espace dans l’espace : on appelle ça « *espace fibré ».*
 
 <!-- id: s21-02-0005 -->
 
@@ -54,7 +54,7 @@ C’est ce qui s’inscrit d’une certaine élaboration de ce que j’appellera
 
 <!-- id: s21-02-0013 -->
 
-> c’est la même chose de dire que « ça s’inscrit », que de dire ce que je vais dire maintenant, ... à savoir la mathématique de Freud, ce qui est repérable à la logique de son discours, à son errance à lui.
+c’est la même chose de dire que « ça s’inscrit », que de dire ce que je vais dire maintenant, ... à savoir la mathématique de Freud, ce qui est repérable à la logique de son discours, à son errance à lui.
 
 <!-- id: s21-02-0014 -->
 
@@ -90,11 +90,11 @@ C’est vrai, ça a été recueilli dans le tome III des *Gesammelte Schriften.*
 
 <!-- id: s21-02-0022 -->
 
-> Mais pas ailleurs, à savoir là où ça aurait dû paraître : la 8<sup>ème</sup> *édition de la* *Traumdeutung* étant déjà éditée en 1925,
->
-> en fait étant même déjà paru une première fois si mon souvenir est bon dans...
->
-> Eh ben non... c’est pas paru du tout avant *ça*, que j’ai eu, donc ...alors c’était donc, *c’est sorti dans les* *Gesammelte Schriften* \[III\] mais ça n’a pas paru là où ça devait paraître au moment où ça sortait, c’est à savoir dans la 8<sup>ème</sup> *édition de la* *Traumdeutung*.
+Mais pas ailleurs, à savoir là où ça aurait dû paraître : la 8<sup>ème</sup> *édition de la* *Traumdeutung* étant déjà éditée en 1925,
+
+en fait étant même déjà paru une première fois si mon souvenir est bon dans...
+
+Eh ben non... c’est pas paru du tout avant *ça*, que j’ai eu, donc ...alors c’était donc, *c’est sorti dans les* *Gesammelte Schriften* \[III\] mais ça n’a pas paru là où ça devait paraître au moment où ça sortait, c’est à savoir dans la 8<sup>ème</sup> *édition de la* *Traumdeutung*.
 
 <!-- id: s21-02-0023 -->
 
@@ -166,9 +166,9 @@ De sorte qu’il tient compte de tous les faits qui font trou dans son...
 
 <!-- id: s21-02-0040 -->
 
-> disons, je vais vite là, parce que c’est pas un mot qui vaut,
->
-> mais « qui font *trou »* parce que c’est plus sensible, tout de suite, de la dire comme ça ...qui font trou dans son système !
+disons, je vais vite là, parce que c’est pas un mot qui vaut,
+
+mais « qui font *trou »* parce que c’est plus sensible, tout de suite, de la dire comme ça ...qui font trou dans son système !
 
 <!-- id: s21-02-0041 -->
 
@@ -192,11 +192,11 @@ Et si vous avez pu l’autre jour regarder ce que j’avais commencé de faire, 
 
 <!-- id: s21-02-0046 -->
 
-> sur la ligne du voyage, dès lors que l’entrée dans le champ du langage s’est produite ...accompagne d’un bout à l’autre...
+sur la ligne du voyage, dès lors que l’entrée dans le champ du langage s’est produite ...accompagne d’un bout à l’autre...
 
 <!-- id: s21-02-0047 -->
 
-> et *Ebenbild*  : toujours le même, sans variation ...accompagne le sujet structurant son désir.
+et *Ebenbild*  : toujours le même, sans variation ...accompagne le sujet structurant son désir.
 
 <!-- id: s21-02-0048 -->
 
@@ -204,7 +204,7 @@ Comme dit Freud : « *Ebenbild* » : *à l’image*...
 
 <!-- id: s21-02-0049 -->
 
-> on traduit « *à l’image »*, mais c’est pas « *à l’image* » : « *Ebenbild »* c’est *une image fixe*, toujours la même ...*à l’image der Vergangenheit*, c’est-à-dire ce qui, au regard de cet « *Ebenbild* » ne peut même pas s’appeler du passé : c’est toujours la même chose, il n’y a pas de passé à partir du moment où il s’agit de cette fonction spatiale, le croisement de la ligne avec ce réseau de la structure, qui se déplace, elle, selon la ligne, mais en même temps dont on peut dire qu’elle ne se déplace pas, puisque la ligne, elle, ne varie pas.
+on traduit « *à l’image »*, mais c’est pas « *à l’image* » : « *Ebenbild »* c’est *une image fixe*, toujours la même ...*à l’image der Vergangenheit*, c’est-à-dire ce qui, au regard de cet « *Ebenbild* » ne peut même pas s’appeler du passé : c’est toujours la même chose, il n’y a pas de passé à partir du moment où il s’agit de cette fonction spatiale, le croisement de la ligne avec ce réseau de la structure, qui se déplace, elle, selon la ligne, mais en même temps dont on peut dire qu’elle ne se déplace pas, puisque la ligne, elle, ne varie pas.
 
 <!-- id: s21-02-0050 -->
 
@@ -240,7 +240,7 @@ C’est bien en ça que ce qui en rétroagit, c’est que...
 
 <!-- id: s21-02-0058 -->
 
-> c’est ce qu’il a expliqué à propos du rêve ...c’est que : il y a de l’inconscient, et que l’inconscient c’est ça !
+c’est ce qu’il a expliqué à propos du rêve ...c’est que : il y a de l’inconscient, et que l’inconscient c’est ça !
 
 <!-- id: s21-02-0059 -->
 
@@ -252,7 +252,11 @@ Et moi, je soupçonne que si « *Die Grenzen der Deutbarkeit* »...
 
 <!-- id: s21-02-0061 -->
 
-> « *Les* *limites de l’interprétation »*, c’est ça que ça veut dire ...ne sont pas sorties dans l’édition suivante de *L’interprétation des rêves*, c’est pas simplement parce que c’était *à l’ombre de l’occulte*, c’est parce que, quand même, là,
+<div class="text-quotation">
+
+« *Les* *limites de l’interprétation »*, c’est ça que ça veut dire ...ne sont pas sorties dans l’édition suivante de *L’interprétation des rêves*, c’est pas simplement parce que c’était *à l’ombre de l’occulte*, c’est parce que, quand même, là,
+
+</div>
 
 <!-- id: s21-02-0062 -->
 
@@ -272,9 +276,9 @@ C’est pour ça que ça vaut la peine, quand même, que je vous en donne comme 
 
 <!-- id: s21-02-0066 -->
 
-> il est évident que devant une pareille assistance il n’est pas possible
->
-> que je commente 25 pages de Freud, il n’y en a pas plus, il y en a même moins ...mais je pourrai quand même aborder le premier paragraphe, ça vous incitera à aller le trouver.
+il est évident que devant une pareille assistance il n’est pas possible
+
+que je commente 25 pages de Freud, il n’y en a pas plus, il y en a même moins ...mais je pourrai quand même aborder le premier paragraphe, ça vous incitera à aller le trouver.
 
 <!-- id: s21-02-0067 -->
 
@@ -286,7 +290,7 @@ L’étrange est que ça n’ait été publié...
 
 <!-- id: s21-02-0069 -->
 
-> comme me le fait remar­quer ma chère amie Nicole Sels ...qu’à la suite de la séance dernière j’ai lancée sur ce truc.
+comme me le fait remar­quer ma chère amie Nicole Sels ...qu’à la suite de la séance dernière j’ai lancée sur ce truc.
 
 <!-- id: s21-02-0070 -->
 
@@ -298,7 +302,7 @@ Dans les *Gesammelte Schriften* il y a tout de suite après...
 
 <!-- id: s21-02-0072 -->
 
-> c’est même pas une note, après le point, le dernier point, la dernière ligne ...il y a écrit « *Zusatz Kapitel C* », ce qui veut dire « *Appendice* *C* » à peu près, comme on traduit ça.
+c’est même pas une note, après le point, le dernier point, la dernière ligne ...il y a écrit « *Zusatz Kapitel C* », ce qui veut dire « *Appendice* *C* » à peu près, comme on traduit ça.
 
 <!-- id: s21-02-0073 -->
 
@@ -310,15 +314,15 @@ Alors, comme me le commente...
 
 <!-- id: s21-02-0075 -->
 
-> ça vaut la peine, n’est-ce pas ...comme me le commente la chère Nicole, qui en connaît un bout pour ce qui est de chercher l’édition d’un texte...
+ça vaut la peine, n’est-ce pas ...comme me le commente la chère Nicole, qui en connaît un bout pour ce qui est de chercher l’édition d’un texte...
 
 <!-- id: s21-02-0076 -->
 
-> qui en connaît un bout et qui en fout un coup, c’est inimaginable ce que je la fais cavaler,
->
-> je veux dire qu’elle cavale, et qu’elle me rapporte le truc dans les deux heures,
->
-> là elle a mis beaucoup plus de temps : elle a mis au moins trois jours ...oui, il ne figure ce chapitre supplémentaire, parce que je lui avais dit :
+qui en connaît un bout et qui en fout un coup, c’est inimaginable ce que je la fais cavaler,
+
+je veux dire qu’elle cavale, et qu’elle me rapporte le truc dans les deux heures,
+
+là elle a mis beaucoup plus de temps : elle a mis au moins trois jours ...oui, il ne figure ce chapitre supplémentaire, parce que je lui avais dit :
 
 <!-- id: s21-02-0077 -->
 
@@ -330,7 +334,7 @@ Elle me répond qu’il n’est dans cet ouvrage à aucune place logique, ni au 
 
 <!-- id: s21-02-0079 -->
 
-> ça bien sûr, je m’en étais aperçu, c’est même ce qui m’avait rendu enragé ...ni dans le tome XIV qui correspond à l’année 1925 :
+ça bien sûr, je m’en étais aperçu, c’est même ce qui m’avait rendu enragé ...ni dans le tome XIV qui correspond à l’année 1925 :
 
 <!-- id: s21-02-0080 -->
 
@@ -354,7 +358,7 @@ Je ne sais pas ce qu’en pense Nicole Sels, mais c’est...
 
 <!-- id: s21-02-0085 -->
 
-> au regard, simplement des faits qu’elle m’apporte ...secondaire.
+au regard, simplement des faits qu’elle m’apporte ...secondaire.
 
 <!-- id: s21-02-0086 -->
 
@@ -362,7 +366,7 @@ Alors, je ne vous lis pas tout de suite la chose en allemand. Ça se dit comme �
 
 <!-- id: s21-02-0087 -->
 
-> *geben kann, soll nicht abstrakt behandelt werden, sondern unter <u>Beziehung</u> auf die <u>Verhältnisse</u>, <u>unter denen</u> <u>man an der Traumdeutung arbeitet</u>.* » ([*Gesammelte Schriften* 1925](http://archive.org/details/GesammelteSchriftenIiiErgnzungenZurTraumlehre), III, p.172*)*\]
+*geben kann, soll nicht abstrakt behandelt werden, sondern unter <u>Beziehung</u> auf die <u>Verhältnisse</u>, <u>unter denen</u> <u>man an der Traumdeutung arbeitet</u>.* » ([*Gesammelte Schriften* 1925](http://archive.org/details/GesammelteSchriftenIiiErgnzungenZurTraumlehre), III, p.172*)*\]
 
 <!-- id: s21-02-0088 -->
 
@@ -370,27 +374,27 @@ Alors, je ne vous lis pas tout de suite la chose en allemand. Ça se dit comme �
 
 <!-- id: s21-02-0089 -->
 
-> déjà cet emploi de *Übersetzung,* c’est pas mal, c’est très lacanien, bon \[*Rires*\] ...*<u>in die Ausdrucksweise des Wachlebens</u> : « dans le mode de s’exprimer de la vie de veille »*...
+déjà cet emploi de *Übersetzung,* c’est pas mal, c’est très lacanien, bon \[*Rires*\] ...*<u>in die Ausdrucksweise des Wachlebens</u> : « dans le mode de s’exprimer de la vie de veille »*...
 
 <!-- id: s21-02-0090 -->
 
-> et entre parenthèses : (*<u>Deutung</u>*), c’est-à-dire *sens* : « *Deutbarkeit »* ça veut dire *interpréta­tion*
->
-> mais *« Deutung »* ça veut dire *sens*, *« Traumdeutung »* ça veut dire *sens des rêves* ...*ne peut pas être traitée abstraitement,mais sous <u>la Beziehung</u> (relation) avec : <u>Verhältnisse</u>* ...
+et entre parenthèses : (*<u>Deutung</u>*), c’est-à-dire *sens* : « *Deutbarkeit »* ça veut dire *interpréta­tion*
+
+mais *« Deutung »* ça veut dire *sens*, *« Traumdeutung »* ça veut dire *sens des rêves* ...*ne peut pas être traitée abstraitement,mais sous <u>la Beziehung</u> (relation) avec : <u>Verhältnisse</u>* ...
 
 <!-- id: s21-02-0091 -->
 
-> c’est un autre terme pour exprimer *relations,...avec les relations*...
+c’est un autre terme pour exprimer *relations,...avec les relations*...
 
 <!-- id: s21-02-0092 -->
 
-> donc désignées par un autre mot, c’est-à-dire posées autrement : *Beziehung,* c’est quelque chose
->
-> *comme ça d’approximatif*. *Verhältnisse,* ça peut être pris dans le sens des relations qui s’écrivent,
->
-> je veux dire de ce qui est constitué à proprement parler dans une articulation propre au sens du terme,
->
-> n’est­-ce pas, comme quelque chose qui peut arriver à se poser là ...*les rela­tions - <u>unter denen</u> - sous le coup desquelles on travaille à l’interprétation des rêves* : *<u>man an der Traumdeutung arbeitet</u>* ».
+donc désignées par un autre mot, c’est-à-dire posées autrement : *Beziehung,* c’est quelque chose
+
+*comme ça d’approximatif*. *Verhältnisse,* ça peut être pris dans le sens des relations qui s’écrivent,
+
+je veux dire de ce qui est constitué à proprement parler dans une articulation propre au sens du terme,
+
+n’est­-ce pas, comme quelque chose qui peut arriver à se poser là ...*les rela­tions - <u>unter denen</u> - sous le coup desquelles on travaille à l’interprétation des rêves* : *<u>man an der Traumdeutung arbeitet</u>* ».
 
 <!-- id: s21-02-0093 -->
 
@@ -398,7 +402,11 @@ Et c’est là qu’on entre un peu plus avant.
 
 <!-- id: s21-02-0094 -->
 
-> \[« *<u>Unsere geistigen Tätigkeiten</u> <u>streben</u> entweder <u>ein nützliches Ziel</u> an <u>oder unmittelbaren Lustgewinn</u>.*  » (*Gesam. Schrif.* 1925*, p.*172*)*\]
+<div class="text-quotation">
+
+\[« *<u>Unsere geistigen Tätigkeiten</u> <u>streben</u> entweder <u>ein nützliches Ziel</u> an <u>oder unmittelbaren Lustgewinn</u>.*  » (*Gesam. Schrif.* 1925*, p.*172*)*\]
+
+</div>
 
 <!-- id: s21-02-0095 -->
 
@@ -406,9 +414,9 @@ Et c’est là qu’on entre un peu plus avant.
 
 <!-- id: s21-02-0096 -->
 
-> c’est comme ça : *<u>Unsere geistigen Tätigkeiten</u>*. Pour Freud, ça veut dire « *ce qu’on pense* ».
->
-> Les activités de l’esprit, c’est ce qui est généralement désigné comme les pen­sées
+c’est comme ça : *<u>Unsere geistigen Tätigkeiten</u>*. Pour Freud, ça veut dire « *ce qu’on pense* ».
+
+Les activités de l’esprit, c’est ce qui est généralement désigné comme les pen­sées
 
 <!-- id: s21-02-0097 -->
 
@@ -416,19 +424,19 @@ Et c’est là qu’on entre un peu plus avant.
 
 <!-- id: s21-02-0098 -->
 
-> *Streben,* c’est un mot qui a une toute autre résonance - n’est-ce pas ? - que ce par quoi on le traduit en anglais, à savoir dans cette occasion, n’est-ce pas - c’est la traduction de Strachey - justement : *pursue.*
->
-> Ça *poursuit* rien du tout. Ça poursuit rien du tout : *Streben*, quand on regarde bien ce que c’est, quand on voit l’étoffe du mot - ce qui évidemment se fait avec ses usages précédents - c’est quelque chose qui est à inscrire, quelque chose comme ça : vous comprenez si vous avez une voûte, comme ça, quelque chose en bois :
->
-> c’est les tirants. Ça a l’air de la sup­porter comme ça... si vous aviez la moindre notion d’architecture,
->
-> vous sauriez que les tirants, dans une voûte, eh ben, ça tire. Je veux dire que ça tire vers l’extérieur.
->
-> Les tirants, ça ne soutient pas. Enfin, qu’importe, sur le *Streben* ...*ce qu’ils tirent, ce qu’ils font tenir ensemble*, c’est, ou bien : *<u>ein nützliches Ziel</u>*...
+*Streben,* c’est un mot qui a une toute autre résonance - n’est-ce pas ? - que ce par quoi on le traduit en anglais, à savoir dans cette occasion, n’est-ce pas - c’est la traduction de Strachey - justement : *pursue.*
+
+Ça *poursuit* rien du tout. Ça poursuit rien du tout : *Streben*, quand on regarde bien ce que c’est, quand on voit l’étoffe du mot - ce qui évidemment se fait avec ses usages précédents - c’est quelque chose qui est à inscrire, quelque chose comme ça : vous comprenez si vous avez une voûte, comme ça, quelque chose en bois :
+
+c’est les tirants. Ça a l’air de la sup­porter comme ça... si vous aviez la moindre notion d’architecture,
+
+vous sauriez que les tirants, dans une voûte, eh ben, ça tire. Je veux dire que ça tire vers l’extérieur.
+
+Les tirants, ça ne soutient pas. Enfin, qu’importe, sur le *Streben* ...*ce qu’ils tirent, ce qu’ils font tenir ensemble*, c’est, ou bien : *<u>ein nützliches Ziel</u>*...
 
 <!-- id: s21-02-0099 -->
 
-> et là vous retrouvez les fonctions essentielle­ment lacaniennes de l’*utile* et du *jouir*. Elles sont précisées comme telles, c’est là-dessus qu’au départ j’ai fait entièrement pivoter ce que j’ai dit de *L’éthique de la psychanalyse* ...*un but utile,* c’est
+et là vous retrouvez les fonctions essentielle­ment lacaniennes de l’*utile* et du *jouir*. Elles sont précisées comme telles, c’est là-dessus qu’au départ j’ai fait entièrement pivoter ce que j’ai dit de *L’éthique de la psychanalyse* ...*un but utile,* c’est
 
 <!-- id: s21-02-0100 -->
 
@@ -456,9 +464,9 @@ C’est justement pour ça qu’ils se faisaient traiter de « *pourceaux »*.
 
 <!-- id: s21-02-0106 -->
 
-> parce qu’en effet, les *pourceaux*, mon Dieu, ça jouit pas tellement qu’on s’imagine, n’est-ce pas,
->
-> ça reste dans sa petite porcherie, bien tranquilles, enfin, ça jouit au minimum ...c’est bien pour ça qu’on les a traités de « *pourceaux »*, parce que tous les autres, ils étaient vachement tracassés par *la jouissance*. Fallait qu’ils en mettent un coup : ils étaient esclaves de la jouis­sance.
+parce qu’en effet, les *pourceaux*, mon Dieu, ça jouit pas tellement qu’on s’imagine, n’est-ce pas,
+
+ça reste dans sa petite porcherie, bien tranquilles, enfin, ça jouit au minimum ...c’est bien pour ça qu’on les a traités de « *pourceaux »*, parce que tous les autres, ils étaient vachement tracassés par *la jouissance*. Fallait qu’ils en mettent un coup : ils étaient esclaves de la jouis­sance.
 
 <!-- id: s21-02-0107 -->
 
@@ -534,7 +542,7 @@ Ce qui prouve, quand même, qu’il y a des greffes, n’est-ce pas, que c’est
 
 <!-- id: s21-02-0125 -->
 
-> ces *geistigen Tätigkeiten*, ces opérations spirituelles ...*ce sont des déci­sions intellectuelles, des préparations à la manipulation *: *<u>Handlungen</u>, ou des communications, <u>an andere</u> *: *aux autres*. ».
+ces *geistigen Tätigkeiten*, ces opérations spirituelles ...*ce sont des déci­sions intellectuelles, des préparations à la manipulation *: *<u>Handlungen</u>, ou des communications, <u>an andere</u> *: *aux autres*. ».
 
 <!-- id: s21-02-0126 -->
 
@@ -550,7 +558,7 @@ Ce qui prouve, quand même, qu’il y a des greffes, n’est-ce pas, que c’est
 
 <!-- id: s21-02-0129 -->
 
-> à savoir ce qu’il a défini par le *unmittelbaren Lustgewinn*
+à savoir ce qu’il a défini par le *unmittelbaren Lustgewinn*
 
 <!-- id: s21-02-0130 -->
 
@@ -562,7 +570,7 @@ Ce qui prouve, quand même, qu’il y a des greffes, n’est-ce pas, que c’est
 
 <!-- id: s21-02-0132 -->
 
-> en œuvre, la préparation, le fignolage, n’est-ce pas ...*d’une communication, <u>einer Mitteilung</u>, à un autre, <u>an einen anderen</u>* ».
+en œuvre, la préparation, le fignolage, n’est-ce pas ...*d’une communication, <u>einer Mitteilung</u>, à un autre, <u>an einen anderen</u>* ».
 
 <!-- id: s21-02-0133 -->
 
@@ -570,7 +578,7 @@ En quoi il a ceci de lacanien, notre cher Freud, n’est-ce pas, que...
 
 <!-- id: s21-02-0134 -->
 
-> puisque tout ce qu’il vient de dire autour du *rêve*, c’est uniquement de la *construction*, du *chiffrage* ...ce *chiffrage* qui est la dimension du langage n’a rien à faire avec la communication.
+puisque tout ce qu’il vient de dire autour du *rêve*, c’est uniquement de la *construction*, du *chiffrage* ...ce *chiffrage* qui est la dimension du langage n’a rien à faire avec la communication.
 
 <!-- id: s21-02-0135 -->
 
@@ -622,7 +630,7 @@ C’est à savoir qu’il est fait, et n’est fait en rien...
 
 <!-- id: s21-02-0147 -->
 
-> et c’est pour ça qu’il fonctionne comme ça ...il n’est fait en rien *<u>que</u>* *pour, le sommeil, <u>des Schlafes verhüten,</u> proté­ger *: *il protège le sommeil*.
+et c’est pour ça qu’il fonctionne comme ça ...il n’est fait en rien *<u>que</u>* *pour, le sommeil, <u>des Schlafes verhüten,</u> proté­ger *: *il protège le sommeil*.
 
 <!-- id: s21-02-0148 -->
 
@@ -634,7 +642,7 @@ Je veux dire que la question qu’il introduit c’est : en quoi précisément 
 
 <!-- id: s21-02-0150 -->
 
-> c’est-à-dire de la structure, de la structure du désir ...ce qui du rêve pourrait bien incommoder *le sommeil *?
+c’est-à-dire de la structure, de la structure du désir ...ce qui du rêve pourrait bien incommoder *le sommeil *?
 
 <!-- id: s21-02-0151 -->
 
@@ -642,7 +650,7 @@ Sur le sommeil, il est clair que nous ne savons pas grand-chose. Nous savons pas
 
 <!-- id: s21-02-0152 -->
 
-> encéphalopodes, encéphalo-tout-ce-que-vous-voudrez ...ben, ils lient des choses ensemble, enfin, mais c’est quand même curieux, n’est-ce pas, qu’une chose aussi répandue dans la vie, là, comme on dit, que le som­meil, enfin je n’avance rien, là je constate qu’on n’a jamais posé la question de ce que ça avait à faire avec *la jouissance*.
+encéphalopodes, encéphalo-tout-ce-que-vous-voudrez ...ben, ils lient des choses ensemble, enfin, mais c’est quand même curieux, n’est-ce pas, qu’une chose aussi répandue dans la vie, là, comme on dit, que le som­meil, enfin je n’avance rien, là je constate qu’on n’a jamais posé la question de ce que ça avait à faire avec *la jouissance*.
 
 <!-- id: s21-02-0153 -->
 
@@ -714,7 +722,7 @@ La *Beziehung,* elle, a lieu avec ceci : qu’il n’y a pas de sexuelles *Verh�
 
 <!-- id: s21-02-0170 -->
 
-> la *Verhältnis* en tant qu’écrite, en tant que ça peut s’inscrire et que c’est mathème ...ça, ça foire toujours.
+la *Verhältnis* en tant qu’écrite, en tant que ça peut s’inscrire et que c’est mathème ...ça, ça foire toujours.
 
 <!-- id: s21-02-0171 -->
 
@@ -730,15 +738,15 @@ Mais l’important, l’important pour nous, s’il est vrai que ce sens sexuel 
 
 <!-- id: s21-02-0174 -->
 
-> non pas dans le déchiffrage ...ce qui dans le *chiffrage* nécessite *die Grenzen* \[*la limite*\], le même mot...
+non pas dans le déchiffrage ...ce qui dans le *chiffrage* nécessite *die Grenzen* \[*la limite*\], le même mot...
 
 <!-- id: s21-02-0175 -->
 
-> ici employé dans le titre ...le même mot sert à ce qui dans la mathématique se désigne comme *limite...*
+ici employé dans le titre ...le même mot sert à ce qui dans la mathématique se désigne comme *limite...*
 
 <!-- id: s21-02-0176 -->
 
-> comme *limite d’une fonction*, comme *limite d’un nombre réel* ...ça peut augmenter tant que ça veut, la variable, la fonc­tion ne dépassera pas une certaine limite.
+comme *limite d’une fonction*, comme *limite d’un nombre réel* ...ça peut augmenter tant que ça veut, la variable, la fonc­tion ne dépassera pas une certaine limite.
 
 <!-- id: s21-02-0177 -->
 
@@ -758,7 +766,7 @@ Dans ce point-là se justifie que le *Réel* je le définisse de *l’im­possib
 
 <!-- id: s21-02-0181 -->
 
-> c’est la nature du langage ...il n’arrive pas, jamais à ce que le rapport sexuel puisse s’inscrire. Ouais...
+c’est la nature du langage ...il n’arrive pas, jamais à ce que le rapport sexuel puisse s’inscrire. Ouais...
 
 <!-- id: s21-02-0182 -->
 
@@ -782,7 +790,7 @@ La chose fabuleuse, c’est que quand même, grâce à une autre amie...
 
 <!-- id: s21-02-0187 -->
 
-> vous voyez, je n’ai que des amies
+vous voyez, je n’ai que des amies
 
 <!-- id: s21-02-0188 -->
 
@@ -790,7 +798,7 @@ La chose fabuleuse, c’est que quand même, grâce à une autre amie...
 
 <!-- id: s21-02-0189 -->
 
-> Nanie Bridgeman qui est à la B.N. ...a mis la main sur *la 7<sup>ème</sup>*.
+Nanie Bridgeman qui est à la B.N. ...a mis la main sur *la 7<sup>ème</sup>*.
 
 <!-- id: s21-02-0190 -->
 
@@ -810,7 +818,7 @@ Mais avant il y avait eu Isaac Meyerson, j’avais été...
 
 <!-- id: s21-02-0194 -->
 
-> je lui en demande pardon ...jusqu’à penser que pour lui, c’était le même truc, à savoir qu’il écrivait n’importe quoi.
+je lui en demande pardon ...jusqu’à penser que pour lui, c’était le même truc, à savoir qu’il écrivait n’importe quoi.
 
 <!-- id: s21-02-0195 -->
 
@@ -842,11 +850,11 @@ il est saisi uniquement là, c’est la seule édition où il y a une phrase com
 
 <!-- id: s21-02-0202 -->
 
-> un savant certes modeste, il le qualifie comme ça ...il y a quand même deux trucs que de toute façon...
+un savant certes modeste, il le qualifie comme ça ...il y a quand même deux trucs que de toute façon...
 
 <!-- id: s21-02-0203 -->
 
-> enfin, il met là une bar­rière …il ne peut pas encaisser :
+enfin, il met là une bar­rière …il ne peut pas encaisser :
 
 <!-- id: s21-02-0204 -->
 
@@ -894,9 +902,9 @@ C’est tout de même une belle occasion de nous interroger sur ce pour quoi des
 
 <!-- id: s21-02-0215 -->
 
-> qui ne sont pas d’ailleurs n’importe lesquels, qui sont des événements, disons « *humains »*,
->
-> je ne vois pas pourquoi je répugnerais là à l’énoncer ainsi ...pourquoi est-ce que c’est ça le contingent ?
+qui ne sont pas d’ailleurs n’importe lesquels, qui sont des événements, disons « *humains »*,
+
+je ne vois pas pourquoi je répugnerais là à l’énoncer ainsi ...pourquoi est-ce que c’est ça le contingent ?
 
 <!-- id: s21-02-0216 -->
 
@@ -940,21 +948,21 @@ J’ai dit que *l’effet de l’interprétation*...
 
 <!-- id: s21-02-0226 -->
 
-> pour me limiter à ce à quoi je dois rester collé : je dois rester dupe.
->
-> Et plus encore : dupe sans me forcer, parce que si je suis dupe en me forçant,
->
-> eh ben j’écrirai le *Discours sur les passions de l’amour* justement, c’est-à-dire ce qu’a écrit Pascal,
->
-> et qu’est-ce qu’on voit qu’il se force... Après ça, naturellement ça a lâché, ça a claqué, il n’a jamais pu
->
-> y revenir, mais il est assez probable - j’en suis pas sûr - qu’il s’est forcé, quand il a écrit ça, quand même.
->
-> Ça donne des résultats absolument stupéfiants... C’est absolument magnifique, en se forçant, on arri­ve à dire...
->
-> on arrive, on arrive vraiment à ne pas errer. Lisez ça, enfin, ça colle, l’amour ça se passe comme ça.
->
-> Absolument déconcertant, mais ça se passe comme ça. Bon... ...qu’est-ce que ça veut dire que *l’interprétation est incalculable dans ses effets ?*
+pour me limiter à ce à quoi je dois rester collé : je dois rester dupe.
+
+Et plus encore : dupe sans me forcer, parce que si je suis dupe en me forçant,
+
+eh ben j’écrirai le *Discours sur les passions de l’amour* justement, c’est-à-dire ce qu’a écrit Pascal,
+
+et qu’est-ce qu’on voit qu’il se force... Après ça, naturellement ça a lâché, ça a claqué, il n’a jamais pu
+
+y revenir, mais il est assez probable - j’en suis pas sûr - qu’il s’est forcé, quand il a écrit ça, quand même.
+
+Ça donne des résultats absolument stupéfiants... C’est absolument magnifique, en se forçant, on arri­ve à dire...
+
+on arrive, on arrive vraiment à ne pas errer. Lisez ça, enfin, ça colle, l’amour ça se passe comme ça.
+
+Absolument déconcertant, mais ça se passe comme ça. Bon... ...qu’est-ce que ça veut dire que *l’interprétation est incalculable dans ses effets ?*
 
 <!-- id: s21-02-0227 -->
 
@@ -986,11 +994,11 @@ Alors maintenant quand même, je ne vais tout de même pas vous quitter sans vou
 
 <!-- id: s21-02-0234 -->
 
-> ou bien je me suis exercé devant vous, ...mais où vous m’avez quand même...
+ou bien je me suis exercé devant vous, ...mais où vous m’avez quand même...
 
 <!-- id: s21-02-0235 -->
 
-> enfin il y a des chances, comme ça ...un peu suivi, au moins suivi par votre silence...
+enfin il y a des chances, comme ça ...un peu suivi, au moins suivi par votre silence...
 
 <!-- id: s21-02-0236 -->
 
@@ -1026,9 +1034,9 @@ Il faut quand même bien voir que Freud, alors...
 
 <!-- id: s21-02-0244 -->
 
-> lisez ses textes, n’est-ce pas, ceux dont je viens de donner le titre,
->
-> parce que quand même, ceux-là on les trouve, contrairement aux *Grenzen der Deutbarkeit* ...c’est tout à fait clair : il dit que *le rêve* et *la télépathie*, par exemple, ça n’a strictement rien à faire.
+lisez ses textes, n’est-ce pas, ceux dont je viens de donner le titre,
+
+parce que quand même, ceux-là on les trouve, contrairement aux *Grenzen der Deutbarkeit* ...c’est tout à fait clair : il dit que *le rêve* et *la télépathie*, par exemple, ça n’a strictement rien à faire.
 
 <!-- id: s21-02-0245 -->
 
@@ -1036,7 +1044,7 @@ C’est même au point qu’il va jusqu’à dire : mais *la télépathie*, c�
 
 <!-- id: s21-02-0246 -->
 
-> je l’admets, pourquoi pas ? ...c’est de l’ordre de la *communication*.
+je l’admets, pourquoi pas ? ...c’est de l’ordre de la *communication*.
 
 <!-- id: s21-02-0247 -->
 
@@ -1044,9 +1052,9 @@ Et dans le rêve, c’est traité comme n’importe quelle autre...
 
 <!-- id: s21-02-0248 -->
 
-> à savoir la première partie de ce que je vous avais énoncé tout à l’heure,
->
-> à savoir *etwas nützliches,* quelque chose qui sert aux manigances de la journée ...et c’est repris de la même façon dans le rêve.
+à savoir la première partie de ce que je vous avais énoncé tout à l’heure,
+
+à savoir *etwas nützliches,* quelque chose qui sert aux manigances de la journée ...et c’est repris de la même façon dans le rêve.
 
 <!-- id: s21-02-0249 -->
 
@@ -1062,11 +1070,11 @@ Que ce soit télépathique ou pas...
 
 <!-- id: s21-02-0252 -->
 
-> autrement dit il s’en fout ...la seule chose qui l’intéresse c’est que c’est repris dans le rêve, ceci...
+autrement dit il s’en fout ...la seule chose qui l’intéresse c’est que c’est repris dans le rêve, ceci...
 
 <!-- id: s21-02-0253 -->
 
-> je ne peux pas vous faire la lecture parce qu’il est trop tard ...ceci est énoncé dans Freud : il faut considérer, pour concevoir quelque chose aux rapports de la télépathie et du rêve, que la télépathie s’est produite comme un reste, résidu, de la journée précédente.
+je ne peux pas vous faire la lecture parce qu’il est trop tard ...ceci est énoncé dans Freud : il faut considérer, pour concevoir quelque chose aux rapports de la télépathie et du rêve, que la télépathie s’est produite comme un reste, résidu, de la journée précédente.
 
 <!-- id: s21-02-0254 -->
 
@@ -1074,11 +1082,11 @@ Il préfère admettre ça...
 
 <!-- id: s21-02-0255 -->
 
-> quoique bien sûr, naturellement ...il préfère admettre le phénomène télépathique
+quoique bien sûr, naturellement ...il préfère admettre le phénomène télépathique
 
 <!-- id: s21-02-0256 -->
 
-> c’est ça l’essence de sa position ...que de le faire rentrer dans le rêve.
+c’est ça l’essence de sa position ...que de le faire rentrer dans le rêve.
 
 <!-- id: s21-02-0257 -->
 
@@ -1086,7 +1094,7 @@ Et il souligne, il souligne, à savoir il dit pourquoi : parce que le rêve c’
 
 <!-- id: s21-02-0258 -->
 
-> et il fait toute la liste ... de toute une série de chif­frages, et que ces chif­frage*s* ne peuvent porter que sur un matériel qui est constitué par les restes diurnes.
+et il fait toute la liste ... de toute une série de chif­frages, et que ces chif­frage*s* ne peuvent porter que sur un matériel qui est constitué par les restes diurnes.
 
 <!-- id: s21-02-0259 -->
 
@@ -1098,15 +1106,15 @@ C’est si facile à confirmer, il suffit que vous vous reportiez...
 
 <!-- id: s21-02-0261 -->
 
-> bien sûr naturellement en français ça n’a jamais été traduit mais quand même, il y en a certains d’entre vous
->
-> qui lisent l’anglais, même - j’espère - beaucoup, et d’autre part un certain nombre qui lisent l’allemand ...reportez-vous aux textes de Freud sur l’inconscient et la télépathie : il n’y a jamais d’ambiguïté, il préfère tout...
+bien sûr naturellement en français ça n’a jamais été traduit mais quand même, il y en a certains d’entre vous
+
+qui lisent l’anglais, même - j’espère - beaucoup, et d’autre part un certain nombre qui lisent l’allemand ...reportez-vous aux textes de Freud sur l’inconscient et la télépathie : il n’y a jamais d’ambiguïté, il préfère tout...
 
 <!-- id: s21-02-0262 -->
 
-> à savoir, en somme, non seulement ce qu’il met en doute, mais ce sur quoi... ce dont il se lave les mains,
->
-> ce dont il dit : je n’ai là-dessus aucu­ne compétence ...mais il préfère admettre que la télépathie existe, à sim­plement la rapprocher de ce qu’il en est de l’*inconscient*.
+à savoir, en somme, non seulement ce qu’il met en doute, mais ce sur quoi... ce dont il se lave les mains,
+
+ce dont il dit : je n’ai là-dessus aucu­ne compétence ...mais il préfère admettre que la télépathie existe, à sim­plement la rapprocher de ce qu’il en est de l’*inconscient*.
 
 <!-- id: s21-02-0263 -->
 
@@ -1114,7 +1122,7 @@ Autrement dit, tout ce qu’il émet, tout ce qu’il avance comme remarquable..
 
 <!-- id: s21-02-0264 -->
 
-> considérant certains rêves ...tout ce qu’il avance comme remarquable consiste tou­jours à dire :
+considérant certains rêves ...tout ce qu’il avance comme remarquable consiste tou­jours à dire :
 
 <!-- id: s21-02-0265 -->
 
@@ -1130,7 +1138,7 @@ En d’autres termes il dénie tout phénomène télépathique auprès de ceci, 
 
 <!-- id: s21-02-0268 -->
 
-> ce qui veut dire par rapport à mon inscription de l’autre jour de la vie comme voya­ge et de la structure qui se déplace en même temps que le voyage dessi­né ...dessiné linéairement.
+ce qui veut dire par rapport à mon inscription de l’autre jour de la vie comme voya­ge et de la structure qui se déplace en même temps que le voyage dessi­né ...dessiné linéairement.
 
 <!-- id: s21-02-0269 -->
 
@@ -1150,11 +1158,11 @@ L’inconscient n’exclut pas...
 
 <!-- id: s21-02-0273 -->
 
-> si l’inconscient est cette structure de langage ...l’inconscient n’exclut pas...
+si l’inconscient est cette structure de langage ...l’inconscient n’exclut pas...
 
 <!-- id: s21-02-0274 -->
 
-> et ce n’est que trop évident ...l’inconscient n’exclut pas la reconnaissance du désir de l’Autre comme tel.
+et ce n’est que trop évident ...l’inconscient n’exclut pas la reconnaissance du désir de l’Autre comme tel.
 
 <!-- id: s21-02-0275 -->
 
@@ -1242,11 +1250,11 @@ Tout ce que nous pou­vons entrevoir des fameux « *Mystères* », et tout ce 
 
 <!-- id: s21-02-0296 -->
 
-> dans des pays ethnologiquement situables ...de *quelque chose* de l’ordre de l’initiation, c’est lié à ce que quelque part, quel­qu’un comme Mauss avait appelé *Technique du corps* [^4], je veux dire que ce que nous avons et qui nous concerne dans ce discours...
+dans des pays ethnologiquement situables ...de *quelque chose* de l’ordre de l’initiation, c’est lié à ce que quelque part, quel­qu’un comme Mauss avait appelé *Technique du corps* [^4], je veux dire que ce que nous avons et qui nous concerne dans ce discours...
 
 <!-- id: s21-02-0297 -->
 
-> autant « *analytique »* que « *scientifique »*, voire « *universitaire »*, voire celui « *du Maître »* et tout ce que vous voudrez ...c’est qu’elle se présente elle-même - *l’initiation* - quand on regarde la chose de près, toujours comme ceci :
+autant « *analytique »* que « *scientifique »*, voire « *universitaire »*, voire celui « *du Maître »* et tout ce que vous voudrez ...c’est qu’elle se présente elle-même - *l’initiation* - quand on regarde la chose de près, toujours comme ceci :
 
 <!-- id: s21-02-0298 -->
 

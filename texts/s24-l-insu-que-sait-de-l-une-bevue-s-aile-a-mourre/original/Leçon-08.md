@@ -22,7 +22,7 @@ Donc il se trouve que j’ai dit...
 
 <!-- id: s24-08-0005 -->
 
-> et que de ce fait ça se trouve écrit ...j’ai dit qu’*il n’y a pas de métalangage*, à savoir qu’on ne parle pas sur le langage.
+et que de ce fait ça se trouve écrit ...j’ai dit qu’*il n’y a pas de métalangage*, à savoir qu’on ne parle pas sur le langage.
 
 <!-- id: s24-08-0006 -->
 
@@ -30,7 +30,7 @@ Il se trouve que j’ai relu quelque chose - qui est dans le « *Scilicet* 4 �
 
 <!-- id: s24-08-0007 -->
 
-> c’est en ça que c’est une chose comme ça qui porte votre marque ...enfin je l’ai intitulé* « L’étourdit »,* et dans « *L’étourdit »* je me suis aperçu, j’ai reconnu quelque chose : dans « *L’étourdit »* ce métalangage, je dirais que je le fais presque naître.
+c’est en ça que c’est une chose comme ça qui porte votre marque ...enfin je l’ai intitulé* « L’étourdit »,* et dans « *L’étourdit »* je me suis aperçu, j’ai reconnu quelque chose : dans « *L’étourdit »* ce métalangage, je dirais que je le fais presque naître.
 
 <!-- id: s24-08-0008 -->
 
@@ -66,11 +66,11 @@ Et alors, à ce propos, je m’aperçois que c’était pour une préface que j�
 
 <!-- id: s24-08-0016 -->
 
-> il n’est pas sûr que je la donne... il n’est pas sûr que je la donne parce que ça m’ennuie ...mais je me suis rendu compte à ce propos, que j’ai consulté quelqu’un qui est italien...
+il n’est pas sûr que je la donne... il n’est pas sûr que je la donne parce que ça m’ennuie ...mais je me suis rendu compte à ce propos, que j’ai consulté quelqu’un qui est italien...
 
 <!-- id: s24-08-0017 -->
 
-> pour qui cette langue, à laquelle je n’entends rien, est sa langue maternelle ...j’ai consulté quelqu’un qui m’a fait remarquer qu’il y a quelque chose qui ressemble à *s’embler,* qui ressemble à *s’embler* mais qui n’est pas faci­le à introduire avec la déformation d’écriture que je donne.
+pour qui cette langue, à laquelle je n’entends rien, est sa langue maternelle ...j’ai consulté quelqu’un qui m’a fait remarquer qu’il y a quelque chose qui ressemble à *s’embler,* qui ressemble à *s’embler* mais qui n’est pas faci­le à introduire avec la déformation d’écriture que je donne.
 
 <!-- id: s24-08-0018 -->
 
@@ -82,7 +82,7 @@ Comme toutes les préfaces, je serais incliné à...
 
 <!-- id: s24-08-0020 -->
 
-> comme d’ordinaire c’est ce qui se passe dans les préfaces ...je serais incliné à m’approuver, voire à m’applaudir.
+comme d’ordinaire c’est ce qui se passe dans les préfaces ...je serais incliné à m’approuver, voire à m’applaudir.
 
 <!-- id: s24-08-0021 -->
 
@@ -138,7 +138,7 @@ Et là je voudrais faire une remarque : c’est que « *les ronds de ficelle*�
 
 <!-- id: s24-08-0034 -->
 
-> en quoi je fais consister *cette triade du Réel, de l’Imaginaire et du Symbolique *:
+en quoi je fais consister *cette triade du Réel, de l’Imaginaire et du Symbolique *:
 
 <!-- id: s24-08-0035 -->
 
@@ -146,13 +146,13 @@ Et là je voudrais faire une remarque : c’est que « *les ronds de ficelle*�
 
 <!-- id: s24-08-0036 -->
 
-> *à laquelle j’ai été poussé*, pas par n’importe qui, *par les hystériques*, de sorte que je suis reparti
->
-> du même matériel que Freud, puisque c’est pour dire quelque chose de cohérent sur *les hystériques*
->
-> que Freud a édifié toute sa technique, qui est une technique,
->
-> c’est-à-dire quelque chose en l’occasion de bien fragile. ...je voudrais tout de même faire remarquer ceci : c’est que les *ronds de ficelle* dans l’occasion, ça ne tient pas.
+*à laquelle j’ai été poussé*, pas par n’importe qui, *par les hystériques*, de sorte que je suis reparti
+
+du même matériel que Freud, puisque c’est pour dire quelque chose de cohérent sur *les hystériques*
+
+que Freud a édifié toute sa technique, qui est une technique,
+
+c’est-à-dire quelque chose en l’occasion de bien fragile. ...je voudrais tout de même faire remarquer ceci : c’est que les *ronds de ficelle* dans l’occasion, ça ne tient pas.
 
 <!-- id: s24-08-0037 -->
 
@@ -164,11 +164,11 @@ C’est ce qui m’a été, je dois dire, suggéré par, l’autre jour, le cour
 
 <!-- id: s24-08-0039 -->
 
-> Soury fait un cours le jeudi soir - je ne vois pas pourquoi je ne vous le dirais pas –
->
-> à sept heures et quart à Jussieu dans un endroit que vous lui demanderez.
->
-> J’espère que plusieurs des personnes qui sont ici s’y rendront ...il m’a fait remarquer très justement que ces *ronds de ficelle*, ça ne tenait qu’à condition d’être quelque chose qu’il faut bien appeler par son nom : *un tore*.
+Soury fait un cours le jeudi soir - je ne vois pas pourquoi je ne vous le dirais pas –
+
+à sept heures et quart à Jussieu dans un endroit que vous lui demanderez.
+
+J’espère que plusieurs des personnes qui sont ici s’y rendront ...il m’a fait remarquer très justement que ces *ronds de ficelle*, ça ne tenait qu’à condition d’être quelque chose qu’il faut bien appeler par son nom : *un tore*.
 
 <!-- id: s24-08-0040 -->
 
@@ -196,11 +196,11 @@ Que cette surface se retourne, a des propriétés d’où il résulte...
 
 <!-- id: s24-08-0046 -->
 
-> j’ai, dans mon temps, évoqué que le tore se retournait ...d’où il résulte - c’est grâce à ça qu’il apparaît, que retourné, le tore...
+j’ai, dans mon temps, évoqué que le tore se retournait ...d’où il résulte - c’est grâce à ça qu’il apparaît, que retourné, le tore...
 
 <!-- id: s24-08-0047 -->
 
-> qui par exemple serait un des trois, celui-ci par exemple \[*vert*\] :
+qui par exemple serait un des trois, celui-ci par exemple \[*vert*\] :
 
 <!-- id: s24-08-0048 -->
 
@@ -224,7 +224,7 @@ Il faut que vous le coupiez...
 
 <!-- id: s24-08-0053 -->
 
-> si je puis dire pour m’exprimer de façon métaphorique ...il faut que vous le coupiez dans « *la longueur* » pour qu’il se libère :
+si je puis dire pour m’exprimer de façon métaphorique ...il faut que vous le coupiez dans « *la longueur* » pour qu’il se libère :
 
 <!-- id: s24-08-0054 -->
 
@@ -248,7 +248,7 @@ C’est d’autant moins rassurant que, comme je l’ai dit tout à l’heure, D
 
 <!-- id: s24-08-0059 -->
 
-> à l’occasion de ladite poésie amoureuse ...a commencé à bouffonner.
+à l’occasion de ladite poésie amoureuse ...a commencé à bouffonner.
 
 <!-- id: s24-08-0060 -->
 
@@ -288,7 +288,7 @@ Ils se dénouent, et ceci veut dire que le *Réel*...
 
 <!-- id: s24-08-0069 -->
 
-> tel tout au moins que nous croyons le représenter ...le *Réel* n’est lié que par une structure, si nous posons que structure, ça ne veut rien dire que nœud borroméen.
+tel tout au moins que nous croyons le représenter ...le *Réel* n’est lié que par une structure, si nous posons que structure, ça ne veut rien dire que nœud borroméen.
 
 <!-- id: s24-08-0070 -->
 
@@ -316,7 +316,11 @@ Je veux dire que...
 
 <!-- id: s24-08-0076 -->
 
-> « *Je veux dire* » : *si tant est que ce que je dis ait un sens...*ce que je veux dire c’est que j’ai lu une thèse, qui, chose bizarre, a été émise en 1943.
+<div class="text-quotation">
+
+« *Je veux dire* » : *si tant est que ce que je dis ait un sens...*ce que je veux dire c’est que j’ai lu une thèse, qui, chose bizarre, a été émise en 1943.
+
+</div>
 
 <!-- id: s24-08-0077 -->
 
@@ -336,11 +340,11 @@ Je veux dire que jusqu’à lui...
 
 <!-- id: s24-08-0081 -->
 
-> car enfin c’est de lui que ça vient ...jusqu’à lui on croyait à ce qu’on peut appeler « la génération spontanée », à savoir qu’on croyait qu’à abandonner...
+car enfin c’est de lui que ça vient ...jusqu’à lui on croyait à ce qu’on peut appeler « la génération spontanée », à savoir qu’on croyait qu’à abandonner...
 
 <!-- id: s24-08-0082 -->
 
-> c’était là le fondement apparent ...à abandonner un corps vivant, naturellement ça se met à grouiller dessus, je veux dire que ça grouille de ce qu’on appelle *micro-organismes*, moyennant quoi on s’imaginait que ces *micro-organismes* pouvaient pousser sur n’importe quoi. C’est bien certain que si on laisse un gobelet à l’air, il y a des trucs qui s’y déposent et qui même, à l’occasion, font ce qu’on appelle « *culture* ».
+c’était là le fondement apparent ...à abandonner un corps vivant, naturellement ça se met à grouiller dessus, je veux dire que ça grouille de ce qu’on appelle *micro-organismes*, moyennant quoi on s’imaginait que ces *micro-organismes* pouvaient pousser sur n’importe quoi. C’est bien certain que si on laisse un gobelet à l’air, il y a des trucs qui s’y déposent et qui même, à l’occasion, font ce qu’on appelle « *culture* ».
 
 <!-- id: s24-08-0083 -->
 
@@ -348,7 +352,7 @@ Mais ce que Freud a démontré... ce que Pasteur ! a démontré...
 
 <!-- id: s24-08-0084 -->
 
-> ce lapsus a toute sa valeur, étant donné le sens de la thèse de ladite Madeleine Cavet ...ce que Pasteur a démontré, c’est qu’à condition seulement de mettre un petit coton à l’entrée d’un vase, ça ne se met pas à foisonner à l’intérieur et c’est manifestement une des démonstrations les plus simples de la non-génération spontanée.
+ce lapsus a toute sa valeur, étant donné le sens de la thèse de ladite Madeleine Cavet ...ce que Pasteur a démontré, c’est qu’à condition seulement de mettre un petit coton à l’entrée d’un vase, ça ne se met pas à foisonner à l’intérieur et c’est manifestement une des démonstrations les plus simples de la non-génération spontanée.
 
 <!-- id: s24-08-0085 -->
 
@@ -384,11 +388,11 @@ Car pourquoi, au nom de quoi, sinon au nom d’un être qu’il faut tout de mê
 
 <!-- id: s24-08-0093 -->
 
-> qui, lui, manipule et trifouille des choses ...comme si l’homme tout d’un coup avait vu qu’il avait un singe, un singe-Dieu...
+qui, lui, manipule et trifouille des choses ...comme si l’homme tout d’un coup avait vu qu’il avait un singe, un singe-Dieu...
 
 <!-- id: s24-08-0094 -->
 
-> je veux dire que Dieu le singerait ...comme si tout partait en somme de là, ce qui en somme boucle la boucle.
+je veux dire que Dieu le singerait ...comme si tout partait en somme de là, ce qui en somme boucle la boucle.
 
 <!-- id: s24-08-0095 -->
 
@@ -420,7 +424,7 @@ J’ai un petit-fils qui s’appelle Luc...
 
 <!-- id: s24-08-0102 -->
 
-> c’est une drôle d’idée, mais c’est ses parents qui l’ont baptisé ...il s’appelle Luc et il dit des choses tout à fait convenables : il dit qu’en somme les mots qu’il ne comprenait pas, il s’efforçait de les *dire*, et il en déduit que c’est ça qui lui a fait enfler la tête, parce qu’il a comme moi... c’est pas surprenant, puisqu’il est mon petit-fils ...il a comme moi une grosse tête.
+c’est une drôle d’idée, mais c’est ses parents qui l’ont baptisé ...il s’appelle Luc et il dit des choses tout à fait convenables : il dit qu’en somme les mots qu’il ne comprenait pas, il s’efforçait de les *dire*, et il en déduit que c’est ça qui lui a fait enfler la tête, parce qu’il a comme moi... c’est pas surprenant, puisqu’il est mon petit-fils ...il a comme moi une grosse tête.
 
 <!-- id: s24-08-0103 -->
 
@@ -428,7 +432,7 @@ C’est ce qu’on appelle - je ne suis pas à proprement parler hydrocéphale -
 
 <!-- id: s24-08-0104 -->
 
-> et une tête, on la caractérise par la moyenne ...j’ai plutôt une grosse tête.
+et une tête, on la caractérise par la moyenne ...j’ai plutôt une grosse tête.
 
 <!-- id: s24-08-0105 -->
 
@@ -436,11 +440,11 @@ Mon petit-fils aussi et il a le tort évidemment de penser que cette façon qu�
 
 <!-- id: s24-08-0106 -->
 
-> car c’est de ça qu’il s’agit ...cette façon qu’il a de définir si bien l’inconscient...
+car c’est de ça qu’il s’agit ...cette façon qu’il a de définir si bien l’inconscient...
 
 <!-- id: s24-08-0107 -->
 
-> à savoir que les mots lui entraient dans la tête ...il en a déduit que du même coup c’est pour ça qu’il a une grosse tête.
+à savoir que les mots lui entraient dans la tête ...il en a déduit que du même coup c’est pour ça qu’il a une grosse tête.
 
 <!-- id: s24-08-0108 -->
 
@@ -500,9 +504,9 @@ Mais ceci veut dire du même coup, et c’est ce que j’ai essayé de crayonner
 
 <!-- id: s24-08-0122 -->
 
-> dans ce *graphe* que j’ai commis dans un ancien temps
->
-> sur lequel, comme ça, quelques personnes spéculent ...j’ai écrit ce quelque chose qui est le signifiant de ce que l’Autre n’existe pas, ce que j’ai écrit comme ça : **S(A)**.
+dans ce *graphe* que j’ai commis dans un ancien temps
+
+sur lequel, comme ça, quelques personnes spéculent ...j’ai écrit ce quelque chose qui est le signifiant de ce que l’Autre n’existe pas, ce que j’ai écrit comme ça : **S(A)**.
 
 <!-- id: s24-08-0123 -->
 
@@ -526,7 +530,7 @@ Il y a un choix à faire entre *l’infini actuel*...
 
 <!-- id: s24-08-0128 -->
 
-> qui peut être circulaire, à condition qu’il n’y ait pas d’origine désignable ...et les nœuds dénombrables, c’est-à-dire finis.
+qui peut être circulaire, à condition qu’il n’y ait pas d’origine désignable ...et les nœuds dénombrables, c’est-à-dire finis.
 
 <!-- id: s24-08-0129 -->
 
@@ -534,7 +538,7 @@ Il y a beaucoup de *possibles* là-dedans, ce qui veut dire qu’on interrompt l
 
 <!-- id: s24-08-0130 -->
 
-> c’est ma définition du *possible* ...on ne la continue que si on veut. De fait on abandonne, parce qu’il est toujours possible d’abandonner, parce qu’il est même impossible de ne pas abandonner réellement.
+c’est ma définition du *possible* ...on ne la continue que si on veut. De fait on abandonne, parce qu’il est toujours possible d’abandonner, parce qu’il est même impossible de ne pas abandonner réellement.
 
 <!-- id: s24-08-0131 -->
 
@@ -558,21 +562,21 @@ C’est un nommé Goldzahl...
 
 <!-- id: s24-08-0136 -->
 
-> c’est amusant qu’il ait ce nom qui veut dire *« nombre d’or »,* eh oui ! ...il m’a introduit dans une petite salle où il y avait *trace*...
+c’est amusant qu’il ait ce nom qui veut dire *« nombre d’or »,* eh oui ! ...il m’a introduit dans une petite salle où il y avait *trace*...
 
 <!-- id: s24-08-0137 -->
 
-> parce que c’est immense Saclay, c’est absolument énorme, on n’imagine pas le nombre de gens
->
-> qui grat­tent du papier là-dedans, il y en a 7000, ils ne font d’ailleurs que de grat­ter du papier,
->
-> sauf les quelques personnes qui sont là dans cette petite salle et grâce à quoi est vu
->
-> ce qui témoigne du fonctionnement de la plupart des appareils ...moyennant quoi, on voit *le tracé ondulatoire* de ce qui représente...
+parce que c’est immense Saclay, c’est absolument énorme, on n’imagine pas le nombre de gens
+
+qui grat­tent du papier là-dedans, il y en a 7000, ils ne font d’ailleurs que de grat­ter du papier,
+
+sauf les quelques personnes qui sont là dans cette petite salle et grâce à quoi est vu
+
+ce qui témoigne du fonctionnement de la plupart des appareils ...moyennant quoi, on voit *le tracé ondulatoire* de ce qui représente...
 
 <!-- id: s24-08-0138 -->
 
-> bien sûr il a fallu qu’on monte les appareils de façon à ce que ça fonctionne, que ça soit représenté ...de ce qui représente le magnétisme des principaux aimants.
+bien sûr il a fallu qu’on monte les appareils de façon à ce que ça fonctionne, que ça soit représenté ...de ce qui représente le magnétisme des principaux aimants.
 
 <!-- id: s24-08-0139 -->
 
@@ -656,7 +660,7 @@ Comment est-ce qu’un sujet...
 
 <!-- id: s24-08-0159 -->
 
-> puisque c’est comme ça que je désigne le S avec la barre : **S** ...comment est-ce qu’un sujet, un sujet avec toute sa faiblesse, sa débilité, peut tenir la place de *la Vérité* et même faire que ça ait des résultats ?
+puisque c’est comme ça que je désigne le S avec la barre : **S** ...comment est-ce qu’un sujet, un sujet avec toute sa faiblesse, sa débilité, peut tenir la place de *la Vérité* et même faire que ça ait des résultats ?
 
 <!-- id: s24-08-0160 -->
 

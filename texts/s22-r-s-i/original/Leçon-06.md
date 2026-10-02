@@ -26,7 +26,7 @@ Car il m’est évidemment pénible d’entendre la remarque...
 
 <!-- id: s22-06-0006 -->
 
-> puisqu’il y a quelques personnes qui viennent me voir ...d’entendre la remarque que j’ai peut-être bien raconté des choses intéressantes, la veille ou l’avant-veille, qu’on y était, mais qu’on n’a pas entendu.
+puisqu’il y a quelques personnes qui viennent me voir ...d’entendre la remarque que j’ai peut-être bien raconté des choses intéressantes, la veille ou l’avant-veille, qu’on y était, mais qu’on n’a pas entendu.
 
 <!-- id: s22-06-0007 -->
 
@@ -34,7 +34,7 @@ Je me réjouis qu’aujourd’hui tout de même...
 
 <!-- id: s22-06-0008 -->
 
-> parce que j’ai choisi le *Mardi-gras* pour venir ...qu’aujourd’hui tout de même les portes ne soient pas trop encombrées.
+parce que j’ai choisi le *Mardi-gras* pour venir ...qu’aujourd’hui tout de même les portes ne soient pas trop encombrées.
 
 <!-- id: s22-06-0009 -->
 
@@ -42,11 +42,11 @@ Je me réjouis qu’aujourd’hui tout de même...
 
 <!-- id: s22-06-0010 -->
 
-> le rapport parce que ça m’avait instruit ...je vous avais fait le rapport du fait que j’avais été à Nice, que j’avais accep­té *n’importe quel titre*...
+le rapport parce que ça m’avait instruit ...je vous avais fait le rapport du fait que j’avais été à Nice, que j’avais accep­té *n’importe quel titre*...
 
 <!-- id: s22-06-0011 -->
 
-> enfin, je dirais que c’est au titre de *n’importe lequel* que je l’avais accepté ...à *ce titre*, évidemment pour moi un peu cho­quant, du « *Phénomène Lacanien* ».
+enfin, je dirais que c’est au titre de *n’importe lequel* que je l’avais accepté ...à *ce titre*, évidemment pour moi un peu cho­quant, du « *Phénomène Lacanien* ».
 
 <!-- id: s22-06-0012 -->
 
@@ -58,9 +58,9 @@ Il semble, à mesurer les choses, que ces effets ne sont pas immédiats, mais qu
 
 <!-- id: s22-06-0014 -->
 
-> et aussi, il faut bien le dire, la persévé­rance, puisque somme toute,
->
-> pour moi au moins il a fallu 20 ans* *pour que je les constate, je veux dire que je les enregistre, ...qu’il m’apparaisse que ça a eu des effets.
+et aussi, il faut bien le dire, la persévé­rance, puisque somme toute,
+
+pour moi au moins il a fallu 20 ans* *pour que je les constate, je veux dire que je les enregistre, ...qu’il m’apparaisse que ça a eu des effets.
 
 <!-- id: s22-06-0015 -->
 
@@ -68,19 +68,19 @@ Et je vous ai dit ma surprise...
 
 <!-- id: s22-06-0016 -->
 
-> on ne sait jamais si une surprise est bonne ou mauvaise, une surprise est une surprise,
->
-> elle est hors du champ de l’agréable ou du désagréable, puisque après tout ce qu’on appelle *bon ou mauvais*, c’est *agréable ou désagréable*, alors une surprise est heureuse disons, ça signifie ce qu’on appelle *une rencontre*, c’est-à-dire en fin de compte quelque chose qui vous vient de vous.
->
-> J’espère qu’il vous en arrive de temps en temps ...alors j’ai pu renouveler cette *surprise* que j’appelle *heureuse* plutôt que bonne ou mauvaise, en allant depuis...
+on ne sait jamais si une surprise est bonne ou mauvaise, une surprise est une surprise,
+
+elle est hors du champ de l’agréable ou du désagréable, puisque après tout ce qu’on appelle *bon ou mauvais*, c’est *agréable ou désagréable*, alors une surprise est heureuse disons, ça signifie ce qu’on appelle *une rencontre*, c’est-à-dire en fin de compte quelque chose qui vous vient de vous.
+
+J’espère qu’il vous en arrive de temps en temps ...alors j’ai pu renouveler cette *surprise* que j’appelle *heureuse* plutôt que bonne ou mauvaise, en allant depuis...
 
 <!-- id: s22-06-0017 -->
 
-> depuis que je vous ai donné congé jusqu’au 1<sup>er</sup> mardi de février... 1<sup>er</sup>, enfin 2<sup>ème</sup>, celui où je parle ...j’ai fait un petit tour à Strasbourg où j’ai pu constater..
+depuis que je vous ai donné congé jusqu’au 1<sup>er</sup> mardi de février... 1<sup>er</sup>, enfin 2<sup>ème</sup>, celui où je parle ...j’ai fait un petit tour à Strasbourg où j’ai pu constater..
 
 <!-- id: s22-06-0018 -->
 
-> sans même en être trop sur­pris puisque c’est le groupe de Strasbourg qui s’en charge ...que j’avais des effets, des effets de sens en Allemagne.
+sans même en être trop sur­pris puisque c’est le groupe de Strasbourg qui s’en charge ...que j’avais des effets, des effets de sens en Allemagne.
 
 <!-- id: s22-06-0019 -->
 
@@ -92,7 +92,7 @@ J’en ai été moins surpris qu’à Nice, étant donné que c’est le groupe 
 
 <!-- id: s22-06-0021 -->
 
-> non pas que personne ne prenne soin de ce que je dis à Nice ...mais enfin il s’est trouvé, comme ça, que je m’at­tendais à moins.
+non pas que personne ne prenne soin de ce que je dis à Nice ...mais enfin il s’est trouvé, comme ça, que je m’at­tendais à moins.
 
 <!-- id: s22-06-0022 -->
 
@@ -104,7 +104,7 @@ J’en ai eu une plus grande, parce que, je viens de passer huit jours...
 
 <!-- id: s22-06-0024 -->
 
-> je vous donne en mille : où ? ...je viens de passer huit jours à Londres.
+je vous donne en mille : où ? ...je viens de passer huit jours à Londres.
 
 <!-- id: s22-06-0025 -->
 
@@ -112,9 +112,9 @@ Il est tout à fait certain que ni les Anglais, ni...
 
 <!-- id: s22-06-0026 -->
 
-> je ne dirai pas les psychanalystes anglais, je n’en connais qu’un qui soit anglais,
->
-> et encore : il doit être écossais probablement ...la langue, je crois que c’est la langue anglaise qui fait obstacle.
+je ne dirai pas les psychanalystes anglais, je n’en connais qu’un qui soit anglais,
+
+et encore : il doit être écossais probablement ...la langue, je crois que c’est la langue anglaise qui fait obstacle.
 
 <!-- id: s22-06-0027 -->
 
@@ -142,11 +142,11 @@ J’ai fait des remarques, enfin je me suis permis *d’écri­re quelque chose*
 
 <!-- id: s22-06-0033 -->
 
-> qui a été plus ou moins bien accueilli, comme j’y suis habitué ...*quelque chose* au retour d’un voyage au Japon où je crois que j’ai dit - pour le japonais - quelque chose qui s’oppose au jeu, et même au maniement de l’inconscient comme tel, dans ce que j’ai appelé à l’époque...
+qui a été plus ou moins bien accueilli, comme j’y suis habitué ...*quelque chose* au retour d’un voyage au Japon où je crois que j’ai dit - pour le japonais - quelque chose qui s’oppose au jeu, et même au maniement de l’inconscient comme tel, dans ce que j’ai appelé à l’époque...
 
 <!-- id: s22-06-0034 -->
 
-> dans un petit article que j’ai fait, que j’ai sorti je ne sais plus où, j’ai com­plètement oublié ...que j’ai appelé *Lituraterre* [^13].
+dans un petit article que j’ai fait, que j’ai sorti je ne sais plus où, j’ai com­plètement oublié ...que j’ai appelé *Lituraterre* [^13].
 
 <!-- id: s22-06-0035 -->
 
@@ -154,11 +154,11 @@ J’ai cru voir dans une cer­taine, disons duplicité...
 
 <!-- id: s22-06-0036 -->
 
-> duplicité de - dans le cas de la langue Japonaise - de la prononciation ...j’ai cru voir là quelque chose...
+duplicité de - dans le cas de la langue Japonaise - de la prononciation ...j’ai cru voir là quelque chose...
 
 <!-- id: s22-06-0037 -->
 
-> qui redoublé par le système de l’écriture qui est aussi double ...j’ai cru voir là une certaine spéciale dif­ficulté à jouer sur le plan de l’inconscient.
+qui redoublé par le système de l’écriture qui est aussi double ...j’ai cru voir là une certaine spéciale dif­ficulté à jouer sur le plan de l’inconscient.
 
 <!-- id: s22-06-0038 -->
 
@@ -174,7 +174,7 @@ se caractérise par une spéciale accentuation du trou dans ce qui fait face - s
 
 <!-- id: s22-06-0041 -->
 
-> *génitif* non pas subjectif mais *objectif* ...et j’ai souligné que c’est là que se situe tout spécialement ceci qui, je crois, légitimement, sainement, corrige la notion que Freud a de l’Éros comme d’une fusion, comme d’une union.
+*génitif* non pas subjectif mais *objectif* ...et j’ai souligné que c’est là que se situe tout spécialement ceci qui, je crois, légitimement, sainement, corrige la notion que Freud a de l’Éros comme d’une fusion, comme d’une union.
 
 <!-- id: s22-06-0042 -->
 
@@ -182,7 +182,7 @@ J’ai mis l’accent, à ce propos...
 
 <!-- id: s22-06-0043 -->
 
-> comme ça, incidemment, plus ou moins avant d’avoir sorti ce nœud borroméen ...j’ai mis l’accent sur ceci : c’est que c’est très difficile que deux corps se fondent.
+comme ça, incidemment, plus ou moins avant d’avoir sorti ce nœud borroméen ...j’ai mis l’accent sur ceci : c’est que c’est très difficile que deux corps se fondent.
 
 <!-- id: s22-06-0044 -->
 
@@ -202,7 +202,7 @@ Il est bien évident que je les ai maintes fois dans mon travail de griffonnage.
 
 <!-- id: s22-06-0048 -->
 
-> puisque c’est avec des griffonnages que je prépare ce que j’ai ici à vous dire ...que ces équivalences je les ai maintes fois rencontrées, et que j’y regarde à deux fois avant de vous en faire part.
+puisque c’est avec des griffonnages que je prépare ce que j’ai ici à vous dire ...que ces équivalences je les ai maintes fois rencontrées, et que j’y regarde à deux fois avant de vous en faire part.
 
 <!-- id: s22-06-0049 -->
 
@@ -218,9 +218,9 @@ Est-ce qu’ici par exemple, il y a quelqu’un qui sache - parce que je ne sais
 
 <!-- id: s22-06-0052 -->
 
-> qui est un auteur bien connu, célèbre. Enfin... J’avais lu dans son temps un petit bouquin tra­duit,
->
-> si mon souvenir est bon, chez Stock, concernant Elisabeth et le Comte d’Essex ...est-ce que quelqu’un ici est en état de me le dire... comme il y a des personnes qui sont au Seuil, est-ce qu’il y en a ?
+qui est un auteur bien connu, célèbre. Enfin... J’avais lu dans son temps un petit bouquin tra­duit,
+
+si mon souvenir est bon, chez Stock, concernant Elisabeth et le Comte d’Essex ...est-ce que quelqu’un ici est en état de me le dire... comme il y a des personnes qui sont au Seuil, est-ce qu’il y en a ?
 
 <!-- id: s22-06-0053 -->
 
@@ -244,7 +244,7 @@ Qui est-ce qui a bien pu me dire*...* Bon, je suis très embêté, parce que ça
 
 <!-- id: s22-06-0058 -->
 
-> parce qu’il y a quand même des bibliothèques et il y a aussi des livres d’occasion ...tous ceux qui pourront mettre la main sur ce « *Queen Victoria »* de Lytton Strachey, je les invite vivement à le lire, parce que, à mon retour d’Angleterre, c’est-à-dire samedi dernier et dimanche, je n’ai pas pu quitter ce bouquin.
+parce qu’il y a quand même des bibliothèques et il y a aussi des livres d’occasion ...tous ceux qui pourront mettre la main sur ce « *Queen Victoria »* de Lytton Strachey, je les invite vivement à le lire, parce que, à mon retour d’Angleterre, c’est-à-dire samedi dernier et dimanche, je n’ai pas pu quitter ce bouquin.
 
 <!-- id: s22-06-0059 -->
 
@@ -284,11 +284,15 @@ Il se situe pour moi...
 
 <!-- id: s22-06-0068 -->
 
-> enfin quand ça m’arrive, pas souvent ...il se situe pour moi...
+enfin quand ça m’arrive, pas souvent ...il se situe pour moi...
 
 <!-- id: s22-06-0069 -->
 
-> « pour moi », ça veut pas dire que ce soit comme ça pour tout le monde ...il se situe pour moi au moment où effectivement je sors du sommeil, j’ai à ce moment-là un bref *éclair* de lucidité, ça ne dure pas, bien sûr, je rentre comme tout le monde dans ce rêve qu’on appelle la réalité, à savoir dans les discours dont je fais partie, et parmi lesquels j’essaie de frayer la voie au discours analytique.
+<div class="text-quotation">
+
+« pour moi », ça veut pas dire que ce soit comme ça pour tout le monde ...il se situe pour moi au moment où effectivement je sors du sommeil, j’ai à ce moment-là un bref *éclair* de lucidité, ça ne dure pas, bien sûr, je rentre comme tout le monde dans ce rêve qu’on appelle la réalité, à savoir dans les discours dont je fais partie, et parmi lesquels j’essaie de frayer la voie au discours analytique.
+
+</div>
 
 <!-- id: s22-06-0070 -->
 
@@ -300,13 +304,13 @@ Je crois que ce livre me semble devoir vous rendre sensible ceci...
 
 <!-- id: s22-06-0072 -->
 
-> enfin sensible avec un particulier relief ...ceci que l’*amour* n’a rien à faire avec le *rapport sexuel*, et confirmer que ça part, non pas - je vais dire - de *la femme*, puisque justement ce à propos de quoi j’ai vu, j’ai vu qu’une fois de plus...
+enfin sensible avec un particulier relief ...ceci que l’*amour* n’a rien à faire avec le *rapport sexuel*, et confirmer que ça part, non pas - je vais dire - de *la femme*, puisque justement ce à propos de quoi j’ai vu, j’ai vu qu’une fois de plus...
 
 <!-- id: s22-06-0073 -->
 
-> enfin c’est un point sur lequel même les gens qui me sont le plus sympathiques,
->
-> je veux dire qui croient devoir me rendre hommage, là, flottent et même déraillent, il faut bien le dire ...si je dis que « *La* *femme* » n’existe pas, c’est évidemment *sans retour*, si je puis dire.
+enfin c’est un point sur lequel même les gens qui me sont le plus sympathiques,
+
+je veux dire qui croient devoir me rendre hommage, là, flottent et même déraillent, il faut bien le dire ...si je dis que « *La* *femme* » n’existe pas, c’est évidemment *sans retour*, si je puis dire.
 
 <!-- id: s22-06-0074 -->
 
@@ -314,15 +318,15 @@ Mais, *une* femme, *une* femme entre autres, *une* femme bien isolée dans le co
 
 <!-- id: s22-06-0075 -->
 
-> c’est pas parce qu’il y a une aristocratie qu’il y a un *discours du maître*. Cette aristocratie d’ailleurs n’a pas grand-chose à faire avec une sélection *locale*, si je puis dire. Les vrais maîtres, c’est pas ceux qui sont les
->
-> \- ceux qu’on pourrait appeler - les mondains, les gens biens, les gens de bonne compagnie,
->
-> les gens qui se connaissent entre eux, enfin, ou qui croient se connaître ...la fatalité qui a fait qu’un certain Albert de Saxe-Cobourg est tombé dans les pattes... il n’y avait aucun penchant...
+c’est pas parce qu’il y a une aristocratie qu’il y a un *discours du maître*. Cette aristocratie d’ailleurs n’a pas grand-chose à faire avec une sélection *locale*, si je puis dire. Les vrais maîtres, c’est pas ceux qui sont les
+
+\- ceux qu’on pourrait appeler - les mondains, les gens biens, les gens de bonne compagnie,
+
+les gens qui se connaissent entre eux, enfin, ou qui croient se connaître ...la fatalité qui a fait qu’un certain Albert de Saxe-Cobourg est tombé dans les pattes... il n’y avait aucun penchant...
 
 <!-- id: s22-06-0076 -->
 
-> c’est ce qu’il y a de merveilleux, enfin c’est ce que Lytton Strachey souligne ...pas le moindre penchant vers les femmes.
+c’est ce qu’il y a de merveilleux, enfin c’est ce que Lytton Strachey souligne ...pas le moindre penchant vers les femmes.
 
 <!-- id: s22-06-0077 -->
 
@@ -354,9 +358,9 @@ Pourquoi est-ce que ça n’a pas eu les mêmes pour celui qu’on appelle...
 
 <!-- id: s22-06-0084 -->
 
-> quand on désigne le *musée* qui subsiste à leur mémoire le « *Victoria and Albert* »,
->
-> parce qu’on ne dit pas « *Victoria and...* », on dit « *Victor and Albert* » ...pourquoi est-ce que le Albert en question n’a pas subi le sort d’Essex ?
+quand on désigne le *musée* qui subsiste à leur mémoire le « *Victoria and Albert* »,
+
+parce qu’on ne dit pas « *Victoria and...* », on dit « *Victor and Albert* » ...pourquoi est-ce que le Albert en question n’a pas subi le sort d’Essex ?
 
 <!-- id: s22-06-0085 -->
 
@@ -388,7 +392,7 @@ Il est certain que ce que je dis ne va pas tout à fait dans le sens, malgré to
 
 <!-- id: s22-06-0092 -->
 
-> si on peut appeler ça *une chance* ...dans une espèce d’intégra­tion aux catégories de l’homme.
+si on peut appeler ça *une chance* ...dans une espèce d’intégra­tion aux catégories de l’homme.
 
 <!-- id: s22-06-0093 -->
 
@@ -400,7 +404,7 @@ Et la seule chose qui m’étonne c’est pas tellement...
 
 <!-- id: s22-06-0095 -->
 
-> comme je l’ai dit, comme ça, à l’occasion ...qu’elles sachent mieux traiter l’inconscient : je suis pas très sûr.
+comme je l’ai dit, comme ça, à l’occasion ...qu’elles sachent mieux traiter l’inconscient : je suis pas très sûr.
 
 <!-- id: s22-06-0096 -->
 
@@ -420,7 +424,7 @@ Elles s’en occupent, il faut bien le dire, sans que ce soit, sans que ce soit 
 
 <!-- id: s22-06-0100 -->
 
-> c’est bien peut-être là que se trouve renversée l’idée du mérite ...elles y perdent quelque chose de leur chance qui, rien que d’être une entre les femmes, est en quelque sorte sans mesure.
+c’est bien peut-être là que se trouve renversée l’idée du mérite ...elles y perdent quelque chose de leur chance qui, rien que d’être une entre les femmes, est en quelque sorte sans mesure.
 
 <!-- id: s22-06-0101 -->
 
@@ -452,7 +456,7 @@ J’ai eu le bonheur qu’une personne...
 
 <!-- id: s22-06-0108 -->
 
-> qui était une de celles qui m’avaient invité là-bas, je veux dire à Londres ...qu’une personne me passe ce truc *out of print*, enfin, son exemplaire pour tout dire, et je pense que c’est une lecture que personne ici ne doit manquer s’il a - je sais pas quoi – un peu de touche, un peu de vibration à l’endroit de ce que je dis.
+qui était une de celles qui m’avaient invité là-bas, je veux dire à Londres ...qu’une personne me passe ce truc *out of print*, enfin, son exemplaire pour tout dire, et je pense que c’est une lecture que personne ici ne doit manquer s’il a - je sais pas quoi – un peu de touche, un peu de vibration à l’endroit de ce que je dis.
 
 <!-- id: s22-06-0109 -->
 
@@ -460,13 +464,13 @@ Il est évidemment tout à fait extraordinaire...
 
 <!-- id: s22-06-0110 -->
 
-> je passe à un autre sujet ...tout à fait extraordinaire de voir que l’art...
+je passe à un autre sujet ...tout à fait extraordinaire de voir que l’art...
 
 <!-- id: s22-06-0111 -->
 
-> l’art même qui a traité les sujets qu’on appelle géométriques au nom de ceci :
->
-> qu’un interdit est porté par certaines religions sur la représentation humaine ...que même l’art arabe donc, pour l’appeler par son nom, fait des frises, mais que parmi ces frises et ces tresses que ça comporte, il n’y ait pas de nœud borro­méen.
+l’art même qui a traité les sujets qu’on appelle géométriques au nom de ceci :
+
+qu’un interdit est porté par certaines religions sur la représentation humaine ...que même l’art arabe donc, pour l’appeler par son nom, fait des frises, mais que parmi ces frises et ces tresses que ça comporte, il n’y ait pas de nœud borro­méen.
 
 <!-- id: s22-06-0112 -->
 
@@ -490,7 +494,7 @@ Mais c’est de les homogénéiser que je leur donne cette *consistance*, et les
 
 <!-- id: s22-06-0117 -->
 
-> on se demande au nom de quoi ? ...c’est leur donner *une consistance* pour tout dire de l’*Imaginaire*.
+on se demande au nom de quoi ? ...c’est leur donner *une consistance* pour tout dire de l’*Imaginaire*.
 
 <!-- id: s22-06-0118 -->
 
@@ -502,7 +506,7 @@ C’est même en raison du fait qu’ils sont noués de cette façon...
 
 <!-- id: s22-06-0120 -->
 
-> c’est-à-dire d’une façon qui les met strictement l’un par rapport à l’autre, l’un par rapport aux deux autres ...dans le même rapport, c’est même là qu’il s’agit de faire un effort qui soit de l’ordre de *l’effet de sens*.
+c’est-à-dire d’une façon qui les met strictement l’un par rapport à l’autre, l’un par rapport aux deux autres ...dans le même rapport, c’est même là qu’il s’agit de faire un effort qui soit de l’ordre de *l’effet de sens*.
 
 <!-- id: s22-06-0121 -->
 
@@ -518,7 +522,7 @@ La *parole* est un objet d’élaboration pour l’analysant, mais ce que dit l�
 
 <!-- id: s22-06-0124 -->
 
-> car il dit ! ...ce que dit l’analyste a des effets dont ça n’est pas rien de dire que le transfert y joue un rôle, ça n’est pas rien... mais ça n’éclaire rien.
+car il dit ! ...ce que dit l’analyste a des effets dont ça n’est pas rien de dire que le transfert y joue un rôle, ça n’est pas rien... mais ça n’éclaire rien.
 
 <!-- id: s22-06-0125 -->
 
@@ -530,7 +534,7 @@ Il est bien évident que trop d’analystes ont l’habitude de la fermer, j’o
 
 <!-- id: s22-06-0127 -->
 
-> je veux dire « *la boucler* », « *ne pas l’ouvrir* » comme on dit, je parle de la bouche ...j’ose croire que leur silence n’est pas seulement fait d’une mauvaise habitude, mais d’une suffisante appréhension de la portée *<u>d’un dire silencieux</u>*.
+je veux dire « *la boucler* », « *ne pas l’ouvrir* » comme on dit, je parle de la bouche ...j’ose croire que leur silence n’est pas seulement fait d’une mauvaise habitude, mais d’une suffisante appréhension de la portée *<u>d’un dire silencieux</u>*.
 
 <!-- id: s22-06-0128 -->
 
@@ -550,7 +554,7 @@ Ce que j’essaie de faire ici...
 
 <!-- id: s22-06-0132 -->
 
-> où hélas je bavarde, je bavarde beaucoup ...est tout de même destiné à changer la perspective sur ce qu’il en est de l’*effet de sens*.
+où hélas je bavarde, je bavarde beaucoup ...est tout de même destiné à changer la perspective sur ce qu’il en est de l’*effet de sens*.
 
 <!-- id: s22-06-0133 -->
 
@@ -562,7 +566,7 @@ Je suis très étonné de réussir à substituer - je le crois - cet *effet de s
 
 <!-- id: s22-06-0135 -->
 
-> désignable sur ce nœud même, ceci dont je ne crois pas du tout participer, si ce n’est en ce point précis ...et qui s’appelle *l’effet de fascination*.
+désignable sur ce nœud même, ceci dont je ne crois pas du tout participer, si ce n’est en ce point précis ...et qui s’appelle *l’effet de fascination*.
 
 <!-- id: s22-06-0136 -->
 
@@ -610,7 +614,7 @@ Il n’a en apparence de rapport avec ceci...
 
 <!-- id: s22-06-0147 -->
 
-> à savoir le cercle consistant du *Réel* ...il n’a qu’un rapport, en principe, d’extériorité.
+à savoir le cercle consistant du *Réel* ...il n’a qu’un rapport, en principe, d’extériorité.
 
 <!-- id: s22-06-0148 -->
 
@@ -666,9 +670,9 @@ Il y a déjà ceci, que nous posons avec ce nœud, ceci qui va contre l’image 
 
 <!-- id: s22-06-0161 -->
 
-> c’est-à-dire qu’il n’y a pas réciprocité du passage d’*une* des *consistances* dans le trou que lui offre l’autre,
->
-> c’est-à-dire qu’*une des consistances*, au sens commun du terme, ne se noue pas à l’autre, je veux dire, ne fait pas chaîne ...c’est en ceci que se spécifie le rapport du *Symbolique,* de *l’Imaginaire* et du *Réel*.
+c’est-à-dire qu’il n’y a pas réciprocité du passage d’*une* des *consistances* dans le trou que lui offre l’autre,
+
+c’est-à-dire qu’*une des consistances*, au sens commun du terme, ne se noue pas à l’autre, je veux dire, ne fait pas chaîne ...c’est en ceci que se spécifie le rapport du *Symbolique,* de *l’Imaginaire* et du *Réel*.
 
 <!-- id: s22-06-0162 -->
 
@@ -676,7 +680,7 @@ C’est en cela que la question d’abord se pose de savoir *si l’effet de sen
 
 <!-- id: s22-06-0163 -->
 
-> je dis l’*emploi* au sens usuel du terme ...ou seulement à leur « *jaculation *», si je puis dire, c’est un terme en usage pour ce qu’il en est des mots.
+je dis l’*emploi* au sens usuel du terme ...ou seulement à leur « *jaculation *», si je puis dire, c’est un terme en usage pour ce qu’il en est des mots.
 
 <!-- id: s22-06-0164 -->
 
@@ -748,7 +752,7 @@ Et *la consistance*...
 
 <!-- id: s22-06-0181 -->
 
-> pour la désigner par son nom, je veux dire par sa *correspon­dance -* ...*la consistance*, je dirais, *est de l’ordre Imaginaire*.
+pour la désigner par son nom, je veux dire par sa *correspon­dance -* ...*la consistance*, je dirais, *est de l’ordre Imaginaire*.
 
 <!-- id: s22-06-0182 -->
 
@@ -756,9 +760,9 @@ Ce qui se démontre...
 
 <!-- id: s22-06-0183 -->
 
-> ce qui se démontre longuement dans toute l’histoire humaine,
->
-> et qui doit nous inspirer une singulière pruden­ce ...est que beaucoup de la *consistance,* *toute la consistance* qui a déjà fait ses preuves, *est pure imagination*.
+ce qui se démontre longuement dans toute l’histoire humaine,
+
+et qui doit nous inspirer une singulière pruden­ce ...est que beaucoup de la *consistance,* *toute la consistance* qui a déjà fait ses preuves, *est pure imagination*.
 
 <!-- id: s22-06-0184 -->
 
@@ -838,11 +842,11 @@ L’étonnant est qu’à travailler, si je puis dire, sur ces trois fonctions, 
 
 <!-- id: s22-06-0203 -->
 
-> en fin de compte je ne peux même pas croire qu’il y ait jamais un Anglais qui ait fait plus que ça ...de regar­der un petit peu, ou d’ouvrir mes livres...
+en fin de compte je ne peux même pas croire qu’il y ait jamais un Anglais qui ait fait plus que ça ...de regar­der un petit peu, ou d’ouvrir mes livres...
 
 <!-- id: s22-06-0204 -->
 
-> quand ils savent le français, puisque c’est pas encore traduit ...et que quand même il y ait quelque chose qui leur ait permis d’y répondre.
+quand ils savent le français, puisque c’est pas encore traduit ...et que quand même il y ait quelque chose qui leur ait permis d’y répondre.
 
 <!-- id: s22-06-0205 -->
 
@@ -858,13 +862,13 @@ Et c’est ceci qui nous amène à *la topologie dite du tore* qui est celle par
 
 <!-- id: s22-06-0208 -->
 
-> je peux pas dire de mon plein gré, c’est pas de ces choses qui me soient tellement familières,
->
-> quoique tout le monde sache bien ce que c’est qu’un bracelet ...simplement ce que je constate, c’est que la topologie mathématique, celle qui, s’intitulant comme telle, et constituant l’introduction de ces rapports au *mou*, au *flou*...
+je peux pas dire de mon plein gré, c’est pas de ces choses qui me soient tellement familières,
+
+quoique tout le monde sache bien ce que c’est qu’un bracelet ...simplement ce que je constate, c’est que la topologie mathématique, celle qui, s’intitulant comme telle, et constituant l’introduction de ces rapports au *mou*, au *flou*...
 
 <!-- id: s22-06-0209 -->
 
-> comme s’ex­prime mon cher ami Guilbaud ...au *nœud* du même coup, soit quelque chose qui, dans la théorie mathématique me donne tellement de mal, et vous en donnerait tout autant, je dois dire.
+comme s’ex­prime mon cher ami Guilbaud ...au *nœud* du même coup, soit quelque chose qui, dans la théorie mathématique me donne tellement de mal, et vous en donnerait tout autant, je dois dire.
 
 <!-- id: s22-06-0210 -->
 
@@ -924,7 +928,7 @@ Je vous ai figuré la dernière fois comment...
 
 <!-- id: s22-06-0224 -->
 
-> par une figure qui est celle d’un 4<sup>ème</sup> tore, ...ces trois, ici figurés indépendants, peuvent être noués - peuvent et doivent être noués.
+par une figure qui est celle d’un 4<sup>ème</sup> tore, ...ces trois, ici figurés indépendants, peuvent être noués - peuvent et doivent être noués.
 
 <!-- id: s22-06-0225 -->
 
@@ -932,7 +936,7 @@ Et j’ai même fait allusion à ceci : c’est que dans Freud, il y a élision
 
 <!-- id: s22-06-0226 -->
 
-> *à ce qu’il appelle « la réalité psy­chique », nommément à la réalité religieuse, car c’est exactement la même chose...que c’est ainsi par cette fonction, par cette fonction de rêve, que Freud instaure le lien du Symbolique, de l’Imaginaire et du Réel.*
+*à ce qu’il appelle « la réalité psy­chique », nommément à la réalité religieuse, car c’est exactement la même chose...que c’est ainsi par cette fonction, par cette fonction de rêve, que Freud instaure le lien du Symbolique, de l’Imaginaire et du Réel.*
 
 <!-- id: s22-06-0227 -->
 
@@ -976,7 +980,7 @@ Je vais vous le présenter d’une autre façon qui est celle-ci : il est très
 
 <!-- id: s22-06-0237 -->
 
-> sous la forme qui a été matérialisée de tren­te six façons au cours des âges, à savoir d’*astrolabes* ...il est très facile de concevoir trois cercles sphériques métalliques là où nous nous retrouvons bien plus aisément, bien sûr, puisque nous ne sommes capables de faire de géomé­trie, que des solides.
+sous la forme qui a été matérialisée de tren­te six façons au cours des âges, à savoir d’*astrolabes* ...il est très facile de concevoir trois cercles sphériques métalliques là où nous nous retrouvons bien plus aisément, bien sûr, puisque nous ne sommes capables de faire de géomé­trie, que des solides.
 
 <!-- id: s22-06-0238 -->
 
@@ -1036,7 +1040,7 @@ C’est bien parce que ces choses m’intéressaient depuis longtemps...
 
 <!-- id: s22-06-0252 -->
 
-> quoique je n’avais pas encore à cette époque trouvé cette façon de les figurer ...que j’ai commencé *Les Noms-du-Père.*
+quoique je n’avais pas encore à cette époque trouvé cette façon de les figurer ...que j’ai commencé *Les Noms-du-Père.*
 
 <!-- id: s22-06-0253 -->
 
@@ -1044,7 +1048,7 @@ Il y a en effet plusieurs façons d’illustrer la manière dont Freud...
 
 <!-- id: s22-06-0254 -->
 
-> comme c’est patent dans son texte ...ne fait tenir la conjonction du *Symbolique,* de *l’Imaginaire* et du *Réel* que par les *Noms-du-Père.*
+comme c’est patent dans son texte ...ne fait tenir la conjonction du *Symbolique,* de *l’Imaginaire* et du *Réel* que par les *Noms-du-Père.*
 
 <!-- id: s22-06-0255 -->
 
@@ -1060,11 +1064,11 @@ Il est certain que quand j’ai commencé à faire le *séminaire* *des Noms-du-
 
 <!-- id: s22-06-0258 -->
 
-> comme certains le savent, au moins ceux qui étaient là que j’y ai mis un terme, j’avais sûrement...
+comme certains le savent, au moins ceux qui étaient là que j’y ai mis un terme, j’avais sûrement...
 
 <!-- id: s22-06-0259 -->
 
-> c’est pas pour rien que j’avais appelé ça « *Les Noms-du-Père »* et pas « *Le Nom-du-Père »* ...j’avais un certain nombre d’idées de la suppléance que prend le domaine, le *dis­cours analytique*, du fait de cette avancée par Freud *des Noms-du-Père*.
+c’est pas pour rien que j’avais appelé ça « *Les Noms-du-Père »* et pas « *Le Nom-du-Père »* ...j’avais un certain nombre d’idées de la suppléance que prend le domaine, le *dis­cours analytique*, du fait de cette avancée par Freud *des Noms-du-Père*.
 
 <!-- id: s22-06-0260 -->
 
@@ -1080,7 +1084,7 @@ Mais ne vous imaginez pas que...
 
 <!-- id: s22-06-0263 -->
 
-> ce serait *bien pas* dans mon ton habituel ...je sois en train de prophétiser que du *Nom-du-Père* dans l’analyse, et aussi bien du *Nom-du-Père* ailleurs, nous puissions d’aucune façon nous passer pour que notre *Symbolique*, notre *Imaginaire* et notre *Réel,* comme c’est votre sort à tous, ne s’en aillent très bien chacun de son côté.
+ce serait *bien pas* dans mon ton habituel ...je sois en train de prophétiser que du *Nom-du-Père* dans l’analyse, et aussi bien du *Nom-du-Père* ailleurs, nous puissions d’aucune façon nous passer pour que notre *Symbolique*, notre *Imaginaire* et notre *Réel,* comme c’est votre sort à tous, ne s’en aillent très bien chacun de son côté.
 
 <!-- id: s22-06-0264 -->
 
@@ -1088,15 +1092,15 @@ Il est certain que...
 
 <!-- id: s22-06-0265 -->
 
-> sans qu’on puisse dire que ceci constitue un progrès, car on ne voit pas en quoi un nœud de plus...
->
-> sur le dos, sur le col et ailleurs
->
-> ...on ne voit pas en quoi un nœud, un nœud réduit à son plus strict, constituerait un progrès
->
-> de ce seul fait que ce soit un minimum, ça constitue sûrement un progrès dans l’*Imaginaire*,
->
-> c’est-à-dire un progrès dans *la consistance,* ...il est bien certain que dans l’état actuel des choses, vous êtes tous et tout un chacun, aussi inconsistants que vos pères, mais c’est justement du fait d’en être entièrement suspendus à eux, que vous êtes dans l’état présent.
+sans qu’on puisse dire que ceci constitue un progrès, car on ne voit pas en quoi un nœud de plus...
+
+sur le dos, sur le col et ailleurs
+
+...on ne voit pas en quoi un nœud, un nœud réduit à son plus strict, constituerait un progrès
+
+de ce seul fait que ce soit un minimum, ça constitue sûrement un progrès dans l’*Imaginaire*,
+
+c’est-à-dire un progrès dans *la consistance,* ...il est bien certain que dans l’état actuel des choses, vous êtes tous et tout un chacun, aussi inconsistants que vos pères, mais c’est justement du fait d’en être entièrement suspendus à eux, que vous êtes dans l’état présent.
 
 ## Notes
 

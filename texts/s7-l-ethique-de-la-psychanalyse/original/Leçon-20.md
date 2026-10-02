@@ -82,9 +82,9 @@ C’est bien le moment - le moment où ces choses sont là possibles, possibles 
 
 <!-- id: s7-20-0020 -->
 
-> et ce n’est en quelque sorte qu’au passage, en un bref *flash*, en un éclair, ce que de telles images
->
-> peuvent en nous faire vibrer ce quelque chose d’étrange qui s’appelle le désir pervers
+et ce n’est en quelque sorte qu’au passage, en un bref *flash*, en un éclair, ce que de telles images
+
+peuvent en nous faire vibrer ce quelque chose d’étrange qui s’appelle le désir pervers
 
 <!-- id: s7-20-0021 -->
 
@@ -184,13 +184,13 @@ Le « *Potlatch* »...
 
 <!-- id: s7-20-0045 -->
 
-> je pense que vous êtes tous au moins au niveau élémentaire pour que je n’aie pas - en tout cas, ce n’est pas aujourd’hui mon objet ni le champ de ce que j’ai à vous enseigner - à vous rappeler ce qu’est le « *Potlatch* ». J’indique, simplement brièvement, qu’il s’agit de cérémonies rituelles comportant la destruction étendue
->
-> de biens divers qui sont : les uns, biens de consommation, les autres, biens de représentation et de luxe,
->
-> qui se constituent dans les sociétés qui, du reste, ne sont plus pour nous que des reliquats et des vestiges
->
-> de l’existence sociale d’un mode humain que notre expansion tend à abolir
+je pense que vous êtes tous au moins au niveau élémentaire pour que je n’aie pas - en tout cas, ce n’est pas aujourd’hui mon objet ni le champ de ce que j’ai à vous enseigner - à vous rappeler ce qu’est le « *Potlatch* ». J’indique, simplement brièvement, qu’il s’agit de cérémonies rituelles comportant la destruction étendue
+
+de biens divers qui sont : les uns, biens de consommation, les autres, biens de représentation et de luxe,
+
+qui se constituent dans les sociétés qui, du reste, ne sont plus pour nous que des reliquats et des vestiges
+
+de l’existence sociale d’un mode humain que notre expansion tend à abolir
 
 <!-- id: s7-20-0046 -->
 
@@ -386,9 +386,9 @@ Il semble au reste qu’il soit de la nature du *beau* de rester, comme on dit, 
 
 <!-- id: s7-20-0094 -->
 
-> je veux dire avec des *repères* qui vous permettront d’être éveillés au moment de son passage,
->
-> je veux dire dans une séance d’analyse et à propos de choses qui vous seront racontées
+je veux dire avec des *repères* qui vous permettront d’être éveillés au moment de son passage,
+
+je veux dire dans une séance d’analyse et à propos de choses qui vous seront racontées
 
 <!-- id: s7-20-0095 -->
 

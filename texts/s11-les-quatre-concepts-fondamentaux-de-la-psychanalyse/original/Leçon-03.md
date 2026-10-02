@@ -10,10 +10,10 @@ Mon introduction du premier de ceux que j’ai appelés les quatre concepts freu
 
 <!-- id: s11-03-0002 -->
 
-> mon introduction la dernière fois de l’inconscient par la structure d’une béance
-> …l’introduction a fourni l’occasion à un de mes auditeurs : Jacques-Alain MILLER, d’un excellent tracé de ce que
-> \- dans mes écrits précédents - il a pris soin de reconnaître comme étant la fonction structurante d’un *manque*, et de le rejoindre
-> en somme, par un arc audacieux, élégant, à ce que j’ai pu désigner en parlant de *la fonction du désir comme le manque à être*.
+mon introduction la dernière fois de l’inconscient par la structure d’une béance
+…l’introduction a fourni l’occasion à un de mes auditeurs : Jacques-Alain MILLER, d’un excellent tracé de ce que
+\- dans mes écrits précédents - il a pris soin de reconnaître comme étant la fonction structurante d’un *manque*, et de le rejoindre
+en somme, par un arc audacieux, élégant, à ce que j’ai pu désigner en parlant de *la fonction du désir comme le manque à être*.
 
 <!-- id: s11-03-0003 -->
 
@@ -44,7 +44,11 @@ quand il l’a prononcé - dont il est bien remarquable que la menace soit, apr�
 
 <!-- id: s11-03-0007 -->
 
-> « *Flectere si nequeo superos, Acheronta movebo* [^20] »
+<div class="text-quotation">
+
+« *Flectere si nequeo superos, Acheronta movebo* [^20] »
+
+</div>
 
 <!-- id: s11-03-0008 -->
 
@@ -267,7 +271,11 @@ tout ce qu’il en est du contenu de l’inconscient, et spécialement quand il 
 
 <!-- id: s11-03-0050 -->
 
-> « *Je ne suis pas sûr, je doute.* »
+<div class="text-quotation">
+
+« *Je ne suis pas sûr, je doute.* »
+
+</div>
 
 <!-- id: s11-03-0051 -->
 
@@ -347,11 +355,15 @@ Or ça ne trouble pas FREUD parce que c’est justement ce qu’il faut qu’on 
 
 <!-- id: s11-03-0065 -->
 
-> « *Mais, alors, ce fameux inconscient qui était là pour nous faire accéder au plus vrai, à une vérité* - ironisent-t-ils - *divine, voilà que*
->
-> *cette patiente, dans ses rêves, s’est donc ri de vous, puisqu’elle a fait dans l’analyse des rêves exprès pour vous persuader que manifestement,*
->
-> *elle revenait à ce qu’on lui demandait, à savoir le goût des hommes !* »
+<div class="text-quotation">
+
+« *Mais, alors, ce fameux inconscient qui était là pour nous faire accéder au plus vrai, à une vérité* - ironisent-t-ils - *divine, voilà que*
+
+*cette patiente, dans ses rêves, s’est donc ri de vous, puisqu’elle a fait dans l’analyse des rêves exprès pour vous persuader que manifestement,*
+
+*elle revenait à ce qu’on lui demandait, à savoir le goût des hommes !* »
+
+</div>
 
 <!-- id: s11-03-0066 -->
 
@@ -381,8 +393,8 @@ De même c’est au désir du père...
 
 <!-- id: s11-03-0071 -->
 
-> justifiant une fois de plus la formule - formule bien sûr originée dans cette expérience d’hystérique pour la faire situer à son juste niveau - la formule que j’ai donnée, que : *le désir de l’hom­me c’est le désir de l’autre*»
-> …que l’homosexuelle trouve une autre solution, ce désir du père : le défier.
+justifiant une fois de plus la formule - formule bien sûr originée dans cette expérience d’hystérique pour la faire situer à son juste niveau - la formule que j’ai donnée, que : *le désir de l’hom­me c’est le désir de l’autre*»
+…que l’homosexuelle trouve une autre solution, ce désir du père : le défier.
 
 <!-- id: s11-03-0072 -->
 

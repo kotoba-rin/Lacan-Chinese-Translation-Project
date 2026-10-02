@@ -30,11 +30,11 @@ C’est-à-dire que quelque part dans ce voyage qu’il a entrepris, comme il di
 
 <!-- id: s6-12-0007 -->
 
-> c’est le seul point sur lequel Ella SHARPE nous dira qu’elle n’a pas obtenu de lumières suffisantes
->
-> faute d’avoir interrogé le patient sur ce que signifie le mot *Tchécoslovaquie*, et elle le regrette
->
-> car cette *Tchécoslovaquie*, après tout, nous pouvons peut-être en penser quelque chose
+c’est le seul point sur lequel Ella SHARPE nous dira qu’elle n’a pas obtenu de lumières suffisantes
+
+faute d’avoir interrogé le patient sur ce que signifie le mot *Tchécoslovaquie*, et elle le regrette
+
+car cette *Tchécoslovaquie*, après tout, nous pouvons peut-être en penser quelque chose
 
 <!-- id: s6-12-0008 -->
 
@@ -54,7 +54,7 @@ En fait il y a une véritable exploration de quelque chose qui est interprété�
 
 <!-- id: s6-12-0012 -->
 
-> avec beaucoup d’insistance et de soin dans l’observation par Ella SHARPE
+avec beaucoup d’insistance et de soin dans l’observation par Ella SHARPE
 
 <!-- id: s6-12-0013 -->
 
@@ -86,7 +86,7 @@ Car il s’agit de rien moins que de préciser à cette occasion ce *caractère 
 
 <!-- id: s6-12-0020 -->
 
-> qui reste à la fois toujours si importante, si immédiate, si « *carrefour* » dans l’interprétation analytique
+qui reste à la fois toujours si importante, si immédiate, si « *carrefour* » dans l’interprétation analytique
 
 <!-- id: s6-12-0021 -->
 
@@ -106,7 +106,7 @@ Pour autant que du contenant il convoite, il désire…
 
 <!-- id: s6-12-0025 -->
 
-> tous les termes sont employés, malheureusement toujours *avec difficulté* : c’est-à-dire juxtaposés
+tous les termes sont employés, malheureusement toujours *avec difficulté* : c’est-à-dire juxtaposés
 
 <!-- id: s6-12-0026 -->
 
@@ -146,7 +146,7 @@ Ce que j’ai mis là en valeur est quelque chose qui est à la fois très sensi
 
 <!-- id: s6-12-0035 -->
 
-> très spécialement à propos de la genèse des perversions
+très spécialement à propos de la genèse des perversions
 
 <!-- id: s6-12-0036 -->
 
@@ -222,7 +222,7 @@ Les choses en fait sont beaucoup moins simples à formuler si nous cherchons à 
 
 <!-- id: s6-12-0054 -->
 
-> \- c’est pour cela que *le phallus* joue sa fonction essentiellement signifiante - *que le sujet à la fois l’est et ne l’est pas*.
+\- c’est pour cela que *le phallus* joue sa fonction essentiellement signifiante - *que le sujet à la fois l’est et ne l’est pas*.
 
 <!-- id: s6-12-0055 -->
 
@@ -258,7 +258,7 @@ C’est dans cette inflexion de « *n’être pas sans* », c’est autour de ce
 
 <!-- id: s6-12-0063 -->
 
-> qui a pris une certaine fonction d’équivalent ou d’étalon dans le rapport à l’objet
+qui a pris une certaine fonction d’équivalent ou d’étalon dans le rapport à l’objet
 
 <!-- id: s6-12-0064 -->
 
@@ -278,7 +278,7 @@ En somme nous dirons…
 
 <!-- id: s6-12-0068 -->
 
-> pour pousser les choses à l’extrême et les bien-faire-entendre
+pour pousser les choses à l’extrême et les bien-faire-entendre
 
 <!-- id: s6-12-0069 -->
 
@@ -306,9 +306,9 @@ Quoi qu’il en soit nous pouvons dire que jusqu’à un certain point, quelque 
 
 <!-- id: s6-12-0075 -->
 
-> nous trouvons presque là une opposition qui recouvre des oppositions philosophiques,
->
-> parce ce qui fait toujours le jeu du fameux *Parménide* entre l’Un et l’être
+nous trouvons presque là une opposition qui recouvre des oppositions philosophiques,
+
+parce ce qui fait toujours le jeu du fameux *Parménide* entre l’Un et l’être
 
 <!-- id: s6-12-0076 -->
 
@@ -348,7 +348,7 @@ Rapport spéculaire qui lui est donné soit dans l’expérience spéculaire com
 
 <!-- id: s6-12-0085 -->
 
-> ici le mot « petit » visant le fait de petits camarades
+ici le mot « petit » visant le fait de petits camarades
 
 <!-- id: s6-12-0086 -->
 
@@ -364,9 +364,9 @@ Et ce qui se passe, ce qui s’établit, gît tout entier dans le fait que ce qu
 
 <!-- id: s6-12-0089 -->
 
-> c’est-à-dire la forme inconstituée dans laquelle se présente
->
-> le premier vagissement de l’enfant, le cri, l’appel de son besoin
+c’est-à-dire la forme inconstituée dans laquelle se présente
+
+le premier vagissement de l’enfant, le cri, l’appel de son besoin
 
 <!-- id: s6-12-0090 -->
 
@@ -394,7 +394,7 @@ Le petit schéma dont je me suis servi autrefois et que j’ai rappelé récemme
 
 <!-- id: s6-12-0096 -->
 
-> à condition qu’on se place dans un point favorable déterminé, je veux dire à l’intérieur de quelque chose qui prolonge les limites du *miroir concave* à partir du moment où on les fait passer par le centre du *miroir sphérique*
+à condition qu’on se place dans un point favorable déterminé, je veux dire à l’intérieur de quelque chose qui prolonge les limites du *miroir concave* à partir du moment où on les fait passer par le centre du *miroir sphérique*
 
 <!-- id: s6-12-0097 -->
 
@@ -454,9 +454,13 @@ Ce que j’ai traduit par :
 
 <!-- id: s6-12-0111 -->
 
-> « *amaro* » a un autre accent qu’en français « *amer* », on pourrait traduire par « *empoisonné* »
->
-> mais cela ne me satisfait pas non plus.
+<div class="text-quotation">
+
+« *amaro* » a un autre accent qu’en français « *amer* », on pourrait traduire par « *empoisonné* »
+
+mais cela ne me satisfait pas non plus.
+
+</div>
 
 <!-- id: s6-12-0112 -->
 
@@ -468,7 +472,7 @@ Cette expérience une fois formalisée, vous allez la voir apparaître dans tout
 
 <!-- id: s6-12-0114 -->
 
-> à la suite des explorations concernant cette expérience primitive
+à la suite des explorations concernant cette expérience primitive
 
 <!-- id: s6-12-0115 -->
 
@@ -496,7 +500,7 @@ Contrairement à ce qui est articulé dans JONES : toute privation, dit-il quelq
 
 <!-- id: s6-12-0121 -->
 
-> et c’est toujours autour de la discussion de la phase phallique que c’est formulé
+et c’est toujours autour de la discussion de la phase phallique que c’est formulé
 
 <!-- id: s6-12-0122 -->
 
@@ -504,9 +508,9 @@ Contrairement à ce qui est articulé dans JONES : toute privation, dit-il quelq
 
 <!-- id: s6-12-0123 -->
 
-> je dis *imaginaire* parce qu’après tout rien ne prouve qu’il soit lui-même privé,
->
-> un autre peut être privé, ou on peut s’occuper de lui à son tour
+je dis *imaginaire* parce qu’après tout rien ne prouve qu’il soit lui-même privé,
+
+un autre peut être privé, ou on peut s’occuper de lui à son tour
 
 <!-- id: s6-12-0124 -->
 
@@ -518,7 +522,7 @@ C’est là que s’amorce, que s’ouvre le quelque chose qui va permettre à c
 
 <!-- id: s6-12-0126 -->
 
-> une sorte d’auto-destruction passionnelle absolument adhérant à cette pâleur, à cette décomposition que nous montre ici le pinceau littéraire de celui qui nous le débite, à savoir Saint AUGUSTIN
+une sorte d’auto-destruction passionnelle absolument adhérant à cette pâleur, à cette décomposition que nous montre ici le pinceau littéraire de celui qui nous le débite, à savoir Saint AUGUSTIN
 
 <!-- id: s6-12-0127 -->
 
@@ -566,7 +570,7 @@ Ce dont il s’agit, c’est en tout cas de quelque chose qui dépasse cette exp
 
 <!-- id: s6-12-0138 -->
 
-> dans sa passion anéantissante, dans sa passion jalouse dans l’occasion
+dans sa passion anéantissante, dans sa passion jalouse dans l’occasion
 
 <!-- id: s6-12-0139 -->
 
@@ -586,7 +590,7 @@ Voyons si ce rapport *au désir*, ce rapport appelé *désir*…
 
 <!-- id: s6-12-0143 -->
 
-> ce rapport à l’objet en tant qu’il est rapport de désir humain
+ce rapport à l’objet en tant qu’il est rapport de désir humain
 
 <!-- id: s6-12-0144 -->
 
@@ -626,7 +630,7 @@ Ce sont très exactement les mêmes termes dont il se sert concernant *sa propre
 
 <!-- id: s6-12-0153 -->
 
-> et qu’il ne songe pas à en faire une affaire avec cet excellent brave homme
+et qu’il ne songe pas à en faire une affaire avec cet excellent brave homme
 
 <!-- id: s6-12-0154 -->
 
@@ -646,7 +650,7 @@ Et *comme vous le savez*, c’est là-dessus qu’Ella SHARPE…
 
 <!-- id: s6-12-0158 -->
 
-> saisie du mouvement du chasseur devant le gibier, l’objet de la recherche
+saisie du mouvement du chasseur devant le gibier, l’objet de la recherche
 
 <!-- id: s6-12-0159 -->
 
@@ -666,7 +670,7 @@ C’est-à-dire que c’est au moment même où ceci est porté à notre connais
 
 <!-- id: s6-12-0163 -->
 
-> je veux dire qu’il avait une mauvaise mémoire pour tout ce qui est au-dessous de 11 ans
+je veux dire qu’il avait une mauvaise mémoire pour tout ce qui est au-dessous de 11 ans
 
 <!-- id: s6-12-0164 -->
 
@@ -694,9 +698,9 @@ C’est quelque chose qui a évidemment rapport avec, non la castration…
 
 <!-- id: s6-12-0170 -->
 
-> si c’était la castration bien assimilée, bien enregistrée, assumée
->
-> par le sujet, il n’y aurait pas eu ce petit symptôme transitoire
+si c’était la castration bien assimilée, bien enregistrée, assumée
+
+par le sujet, il n’y aurait pas eu ce petit symptôme transitoire
 
 <!-- id: s6-12-0171 -->
 
@@ -772,7 +776,7 @@ C’est-à-dire que si elle est en train d’opérer sur elle-même d’une faç
 
 <!-- id: s6-12-0189 -->
 
-> *en me référant aux propres comparaisons de* M<sup>me</sup> Ella SHARPE *qui considère l’analyse comme un jeu d’échecs*
+*en me référant aux propres comparaisons de* M<sup>me</sup> Ella SHARPE *qui considère l’analyse comme un jeu d’échecs*
 
 <!-- id: s6-12-0190 -->
 
@@ -868,7 +872,7 @@ Il n’y a rien dans le matériel qui nous donne une indication du caractère ag
 
 <!-- id: s6-12-0213 -->
 
-> vous le verrez si vous relisez bien attentivement ses associations
+vous le verrez si vous relisez bien attentivement ses associations
 
 <!-- id: s6-12-0214 -->
 

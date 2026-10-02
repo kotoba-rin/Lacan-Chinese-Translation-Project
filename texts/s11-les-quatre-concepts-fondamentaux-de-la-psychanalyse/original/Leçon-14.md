@@ -10,7 +10,7 @@
 
 <!-- id: s11-14-0002 -->
 
-> HÉRACLITE (Fragment 48)
+HÉRACLITE (Fragment 48)
 
 <!-- id: s11-14-0003 -->
 
@@ -388,7 +388,11 @@ le retour, l’*insertion* sur le corps propre, du départ et de la fin de *la p
 
 <!-- id: s11-14-0076 -->
 
-> « *Mais à quel moment voyons-nous* - dit Freud - *s’introduire, dans la pulsion sadomasochiste, la possibilité de la douleur ?* »
+<div class="text-quotation">
+
+« *Mais à quel moment voyons-nous* - dit Freud - *s’introduire, dans la pulsion sadomasochiste, la possibilité de la douleur ?* »
+
+</div>
 
 <!-- id: s11-14-0077 -->
 

@@ -15,9 +15,13 @@ que j’al­lais donner aux choses - on m’a demandé :
 
 <!-- id: s5-09-0003 -->
 
-> « *De quoi comptez-vous nous parler à la suite de l’année ?* »
-> Et j’ai répondu :
-> « *Je compte aborder des questions de structure.* »
+<div class="text-quotation">
+
+« *De quoi comptez-vous nous parler à la suite de l’année ?* »
+Et j’ai répondu :
+« *Je compte aborder des questions de structure.* »
+
+</div>
 
 <!-- id: s5-09-0004 -->
 
@@ -772,7 +776,7 @@ c’est *un signifiant qui vient à la place d’un autre signifiant*. Je dis :
 
 <!-- id: s5-09-0155 -->
 
-> même si cela doit ahu­rir les oreilles de certains, je dis exactement :
+même si cela doit ahu­rir les oreilles de certains, je dis exactement :
 
 <!-- id: s5-09-0156 -->
 
@@ -792,7 +796,7 @@ c’est-à-dire quelque chose qui était le *signifié* dans le rapport de l’e
 
 <!-- id: s5-09-0159 -->
 
-> <img src="assets/image40.jpeg" style="width:1.13851in;height:0.454in" alt="34.jpg" />
+<img src="assets/image40.jpeg" style="width:1.13851in;height:0.454in" alt="34.jpg" />
 
 <!-- id: s5-09-0160 -->
 

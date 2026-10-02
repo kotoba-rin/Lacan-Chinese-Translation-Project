@@ -18,7 +18,7 @@ Nous y sommes en plein parce que ce dont il s’agit étant de situer le sens du
 
 <!-- id: s6-15-0004 -->
 
-> sur ce qui est, au reste, depuis le début, un des grands thèmes de la pensée analytique
+sur ce qui est, au reste, depuis le début, un des grands thèmes de la pensée analytique
 
 <!-- id: s6-15-0005 -->
 
@@ -70,11 +70,11 @@ Mais cela va plus loin. Certains ont été jusqu’à soutenir…
 
 <!-- id: s6-15-0017 -->
 
-> en particulier ROBERTSON au niveau du troisième centenaire, supportés un peu sans doute
->
-> par une espèce de *rush*, qu’il y a eu à ce moment-là sur les thèmes shakespeariens,
->
-> l’exaltation passionnelle avec laquelle tout le monde littéraire anglais a fait revivre ce thème
+en particulier ROBERTSON au niveau du troisième centenaire, supportés un peu sans doute
+
+par une espèce de *rush*, qu’il y a eu à ce moment-là sur les thèmes shakespeariens,
+
+l’exaltation passionnelle avec laquelle tout le monde littéraire anglais a fait revivre ce thème
 
 <!-- id: s6-15-0018 -->
 
@@ -82,7 +82,7 @@ Mais cela va plus loin. Certains ont été jusqu’à soutenir…
 
 <!-- id: s6-15-0019 -->
 
-> *on savait qu’il y avait déjà un* HAMLET *qu’on attribue à* KYD, *qui aurait été joué une douzaine d’années avant cet automne de* 1601 où nous avons à peu près la certitude que pour la première fois apparut cet HAMLET
+*on savait qu’il y avait déjà un* HAMLET *qu’on attribue à* KYD, *qui aurait été joué une douzaine d’années avant cet automne de* 1601 où nous avons à peu près la certitude que pour la première fois apparut cet HAMLET
 
 <!-- id: s6-15-0020 -->
 
@@ -90,7 +90,7 @@ Mais cela va plus loin. Certains ont été jusqu’à soutenir…
 
 <!-- id: s6-15-0021 -->
 
-> et je dirai que c’est là-dessus que se termine le premier chapitre du livre de JONES
+et je dirai que c’est là-dessus que se termine le premier chapitre du livre de JONES
 
 <!-- id: s6-15-0022 -->
 
@@ -110,7 +110,7 @@ Dites-vous bien que quelqu’un qui n’est rien de moins que T.S. ELIOT…
 
 <!-- id: s6-15-0026 -->
 
-> qui pour un certain milieu est plus ou moins le plus grand poète anglais moderne
+qui pour un certain milieu est plus ou moins le plus grand poète anglais moderne
 
 <!-- id: s6-15-0027 -->
 
@@ -142,7 +142,7 @@ Par exemple quelqu’un qui est TRENCH [^67] qui est cité par JONES - on verra 
 
 <!-- id: s6-15-0034 -->
 
-> on voit que ce passage est amusant, le glissement de la plume ou de la pensée va vers ceci :
+on voit que ce passage est amusant, le glissement de la plume ou de la pensée va vers ceci :
 
 <!-- id: s6-15-0035 -->
 
@@ -178,7 +178,7 @@ Il y a là donc quelque chose qui nous fait toucher du doigt la stricte équival
 
 <!-- id: s6-15-0043 -->
 
-> il suffit de s’arrêter un instant pour s’en apercevoir
+il suffit de s’arrêter un instant pour s’en apercevoir
 
 <!-- id: s6-15-0044 -->
 
@@ -190,7 +190,7 @@ Ne parlons pas *du héros qui à vrai dire*…
 
 <!-- id: s6-15-0046 -->
 
-> si vous me suivez dans le chemin où j’essaye de vous induire
+si vous me suivez dans le chemin où j’essaye de vous induire
 
 <!-- id: s6-15-0047 -->
 
@@ -202,7 +202,7 @@ C’est bien là la seconde poignée à laquelle je vous demande de vous accroch
 
 <!-- id: s6-15-0049 -->
 
-> nous touche précisément de la façon la plus profonde, c’est-à-dire sur le plan de l’inconscient
+nous touche précisément de la façon la plus profonde, c’est-à-dire sur le plan de l’inconscient
 
 <!-- id: s6-15-0050 -->
 
@@ -242,7 +242,7 @@ Cela vaut par son organisation, par ce que cela instaure de plans superposés à
 
 <!-- id: s6-15-0059 -->
 
-> si vous voulez, dans *cette machinerie*, ou encore dans *ces portants*, pour métaphoriser ce que je veux vous dire, dans la nécessité d’un certain nombre de plans superposés
+si vous voulez, dans *cette machinerie*, ou encore dans *ces portants*, pour métaphoriser ce que je veux vous dire, dans la nécessité d’un certain nombre de plans superposés
 
 <!-- id: s6-15-0060 -->
 
@@ -274,7 +274,7 @@ Cela n’est pas parce que SHAKESPEARE est à ce moment là pris dans un drame p
 
 <!-- id: s6-15-0067 -->
 
-> vous savez qu’il s’est trouvé à la fois doublement trompé, du côté de son ami et du côté de sa maîtresse
+vous savez qu’il s’est trouvé à la fois doublement trompé, du côté de son ami et du côté de sa maîtresse
 
 <!-- id: s6-15-0068 -->
 
@@ -314,7 +314,7 @@ Je ne pense pas non plus que ceci, pour vous, puisse faire longtemps problème e
 
 <!-- id: s6-15-0077 -->
 
-> la fonction de l’inconscient que j’ai défini comme discours de l’Autre
+la fonction de l’inconscient que j’ai défini comme discours de l’Autre
 
 <!-- id: s6-15-0078 -->
 
@@ -338,9 +338,9 @@ Et si je vous dis que ce qui constitue notre rapport à l’inconscient, c’est
 
 <!-- id: s6-15-0083 -->
 
-> j’ignore parait-il l’existence du corps, j’ai une théorie de l’analyse incorporelle, c’est ce qu’on découvre,
->
-> du moins à entendre le rayonnement de ce que j’articule ici, à une certaine distance !
+j’ignore parait-il l’existence du corps, j’ai une théorie de l’analyse incorporelle, c’est ce qu’on découvre,
+
+du moins à entendre le rayonnement de ce que j’articule ici, à une certaine distance !
 
 <!-- id: s6-15-0084 -->
 
@@ -348,7 +348,7 @@ Et si je vous dis que ce qui constitue notre rapport à l’inconscient, c’est
 
 <!-- id: s6-15-0085 -->
 
-> c’est cela même que j’enseigne et que je passe mon temps à vous dire
+c’est cela même que j’enseigne et que je passe mon temps à vous dire
 
 <!-- id: s6-15-0086 -->
 
@@ -436,9 +436,9 @@ Mais après tout, est-ce que tout cela ne permet pas…
 
 <!-- id: s6-15-0107 -->
 
-> fascinés devant une sorte d’insondable lié à un schéma qui pour nous est environné
->
-> d’une sorte de caractère intouchable, non dialectique
+fascinés devant une sorte d’insondable lié à un schéma qui pour nous est environné
+
+d’une sorte de caractère intouchable, non dialectique
 
 <!-- id: s6-15-0108 -->
 
@@ -466,9 +466,13 @@ Si en effet c’est quelque chose qu’il n’a pas pu ressentir encore, qu’il
 
 <!-- id: s6-15-0114 -->
 
-> « *Il est tout de même curieux - curiously enough, dit-il - que les choses qui évidemment sont les plus censurées*
->
-> *par l’organisation sociale, ce soient les désirs les plus naturels.* » [^70]
+<div class="text-quotation">
+
+« *Il est tout de même curieux - curiously enough, dit-il - que les choses qui évidemment sont les plus censurées*
+
+*par l’organisation sociale, ce soient les désirs les plus naturels.* » [^70]
+
+</div>
 
 <!-- id: s6-15-0115 -->
 
@@ -532,7 +536,7 @@ Et se passe cette longue scène qui est une espèce de sommet du théâtre, ce q
 
 <!-- id: s6-15-0130 -->
 
-> je regrette de ne pas pouvoir lire toute cette scène, mais *faites-le et comme on le fait à l’école, la plume à la main*
+je regrette de ne pas pouvoir lire toute cette scène, mais *faites-le et comme on le fait à l’école, la plume à la main*
 
 <!-- id: s6-15-0131 -->
 
@@ -572,7 +576,7 @@ Puis arrivé là, alors que l’autre est littéralement pantelante, au point qu
 
 <!-- id: s6-15-0140 -->
 
-> car vous savez que le spectre réapparaît dans la scène de la chambre à coucher
+car vous savez que le spectre réapparaît dans la scène de la chambre à coucher
 
 <!-- id: s6-15-0141 -->
 
@@ -620,7 +624,7 @@ Avant qu’il y ait eu une analyse et des analystes, les êtres humains se sont 
 
 <!-- id: s6-15-0152 -->
 
-> et se la posaient sans cesse, croyez-le bien, comme de notre temps, comme depuis FREUD
+et se la posaient sans cesse, croyez-le bien, comme de notre temps, comme depuis FREUD
 
 <!-- id: s6-15-0153 -->
 
@@ -648,7 +652,7 @@ Par quelque chose qui se dessine ainsi :
 
 <!-- id: s6-15-0159 -->
 
-> car si vous remarquez comment est fait le graphe, vous verrez que le trait n’a pas de retour
+car si vous remarquez comment est fait le graphe, vous verrez que le trait n’a pas de retour
 
 <!-- id: s6-15-0160 -->
 
@@ -680,7 +684,7 @@ Que tracé, si l’on peut dire, le mouvement de cette scène est à peu près c
 
 <!-- id: s6-15-0167 -->
 
-> non pas vers un point où quelque chose l’arrête, où il se rencontre lui-même avec son propre désir, il n’a plus de désir, OPHÉLIE a été rejetée, et nous verrons la prochaine fois quelle est la fonction d’OPHÉLIE là-dedans
+non pas vers un point où quelque chose l’arrête, où il se rencontre lui-même avec son propre désir, il n’a plus de désir, OPHÉLIE a été rejetée, et nous verrons la prochaine fois quelle est la fonction d’OPHÉLIE là-dedans
 
 <!-- id: s6-15-0168 -->
 
@@ -700,7 +704,7 @@ Le repas des funérailles sert le lendemain aux noces, « *Économie, économie 
 
 <!-- id: s6-15-0172 -->
 
-> pourquoi ne pas le dire, c’est très curieux qu’on se serve tout le temps de mots comme *objet*, mais que la première fois qu’on le rencontre, on ne le reconnaisse pas du début jusqu’à la fin on ne parle que de cela
+pourquoi ne pas le dire, c’est très curieux qu’on se serve tout le temps de mots comme *objet*, mais que la première fois qu’on le rencontre, on ne le reconnaisse pas du début jusqu’à la fin on ne parle que de cela
 
 <!-- id: s6-15-0173 -->
 
@@ -724,7 +728,7 @@ Or on ne peut qu’être frappé de ceci…
 
 <!-- id: s6-15-0178 -->
 
-> je vais un peu vite parce qu’il faut que je vous donne un aperçu des *horizons* vers lesquels je tends
+je vais un peu vite parce qu’il faut que je vous donne un aperçu des *horizons* vers lesquels je tends
 
 <!-- id: s6-15-0179 -->
 
@@ -736,7 +740,7 @@ C’est à savoir que si le deuil a lieu…
 
 <!-- id: s6-15-0181 -->
 
-> et on nous dit que c’est en raison d’une introjection de l’objet perdu
+et on nous dit que c’est en raison d’une introjection de l’objet perdu
 
 <!-- id: s6-15-0182 -->
 
@@ -772,9 +776,9 @@ C’est par la voie du deuil autrement dit, et du deuil assumé dans le même ra
 
 <!-- id: s6-15-0190 -->
 
-> la présence de S qui met devant lui tout à coup *un support* où cet *objet* qui,
->
-> pour lui, est rejeté à cause de *la confusion des objets*, de *la mixtion des objets*
+la présence de S qui met devant lui tout à coup *un support* où cet *objet* qui,
+
+pour lui, est rejeté à cause de *la confusion des objets*, de *la mixtion des objets*
 
 <!-- id: s6-15-0191 -->
 
@@ -786,7 +790,7 @@ C’est par la voie du deuil autrement dit, et du deuil assumé dans le même ra
 
 <!-- id: s6-15-0193 -->
 
-> pour un court instant sans aucun doute, mais un instant qui suffit pour que la pièce se termine
+pour un court instant sans aucun doute, mais un instant qui suffit pour que la pièce se termine
 
 <!-- id: s6-15-0194 -->
 
@@ -798,7 +802,7 @@ Ce que je veux vous dire, c’est…
 
 <!-- id: s6-15-0196 -->
 
-> non pas que SHAKESPEARE, bien entendu, s’est dit toutes ces jolies choses
+non pas que SHAKESPEARE, bien entendu, s’est dit toutes ces jolies choses
 
 <!-- id: s6-15-0197 -->
 
@@ -806,7 +810,7 @@ Ce que je veux vous dire, c’est…
 
 <!-- id: s6-15-0198 -->
 
-> ce *cri accompagné de commentaires* qui vont tellement dans le sens que je vous dis qu’il faut les lire
+ce *cri accompagné de commentaires* qui vont tellement dans le sens que je vous dis qu’il faut les lire
 
 <!-- id: s6-15-0199 -->
 

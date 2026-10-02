@@ -61,6 +61,28 @@ class DuplicateIdValidationTest(unittest.TestCase):
 
 
 class TranslationCommentaryBuildTest(unittest.TestCase):
+    def test_source_quotation_stays_in_body_with_notes_and_legacy_commentary(self):
+        entry = build_from_texts.TranslationEntry(
+            anchor_id="s8-01-0001",
+            paragraph_ids=["s8-01-0001"],
+            content='正文。\n\n<div class="text-quotation">\n\n“引文。”\n\n</div>\n\n'
+            '> [注1] 原文注释。\n\n> 我想到的个人笔记。\n\n'
+            '> <!-- 建言 -->\n> 明确标记的建言。',
+        )
+        rendered = build_from_texts.render_translation_entry(entry)
+        self.assertIn('class="text-quotation"', rendered.body)
+        self.assertIn('“引文。”', rendered.body)
+        self.assertNotIn('“引文。”', rendered.commentary)
+        self.assertIn('[注1] 原文注释。', rendered.notes)
+        self.assertIn('我想到的个人笔记。', rendered.commentary)
+        self.assertIn('明确标记的建言。', rendered.commentary)
+
+    def test_variant_note_labels_and_source_anchor_remain_notes(self):
+        for text in ('> [译注1] 译注。', '> 〔原文注4〕原注。', '> 〔出版说明〕说明。',
+                     '> <span id="Rank2801" class="anchor"></span>\n>\n> [注6] 原注。'):
+            with self.subTest(text=text):
+                self.assertTrue(build_from_texts.note_like_quote(text.splitlines()))
+
     def test_explicit_commentary_marker_overrides_note_like_prefix(self):
         with tempfile.TemporaryDirectory() as tmp:
             translation = Path(tmp) / "Leçon-01.md"

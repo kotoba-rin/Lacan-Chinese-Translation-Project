@@ -22,7 +22,11 @@ Il faudrait quand même que je vous situe le problème, l’histoire d’*Amphit
 
 <!-- id: s2-22-0005 -->
 
-> « *Je me suis laissé aller* »... mes laisser-aller sont bien particuliers !
+<div class="text-quotation">
+
+« *Je me suis laissé aller* »... mes laisser-aller sont bien particuliers !
+
+</div>
 
 <!-- id: s2-22-0006 -->
 
@@ -82,9 +86,9 @@ Mais on a vu des penseurs et des plus sérieux, on a vu Monsieur PROUDHON un jou
 
 <!-- id: s2-22-0020 -->
 
-> je vous conseille beaucoup la lecture de PROUDHON, c’était un esprit ferme et quelqu’un dans lequel
->
-> on retrouve comme ça, à quelque tournant, ce sûr accent qui est celui des « *Pères de l’Église* »
+je vous conseille beaucoup la lecture de PROUDHON, c’était un esprit ferme et quelqu’un dans lequel
+
+on retrouve comme ça, à quelque tournant, ce sûr accent qui est celui des « *Pères de l’Église* »
 
 <!-- id: s2-22-0021 -->
 
@@ -108,7 +112,7 @@ Par exemple, mettons-nous dans la perspecti­ve de la femme, l’amour que la fe
 
 <!-- id: s2-22-0026 -->
 
-> si tant est même qu’elle l’idéalise, qu’elle puisse avec le temps maintenir une idéalisation dont on sait qu’assurément c’est bien là le dan­ger de ce qu’on appelle la vie commune, c’est qu’elle n’est pas tenable elle non plus l’*idéalisation*
+si tant est même qu’elle l’idéalise, qu’elle puisse avec le temps maintenir une idéalisation dont on sait qu’assurément c’est bien là le dan­ger de ce qu’on appelle la vie commune, c’est qu’elle n’est pas tenable elle non plus l’*idéalisation*
 
 <!-- id: s2-22-0027 -->
 
@@ -148,9 +152,9 @@ Quand nous prenons les structures élé­mentaires…
 
 <!-- id: s2-22-0036 -->
 
-> vous savez que *ces structures élémentaires* sont naturellement les plus compliquées,
->
-> et qu’inversement celles que nous appellerons « *complexes »* se présenteront en apparence comme les plus simples
+vous savez que *ces structures élémentaires* sont naturellement les plus compliquées,
+
+et qu’inversement celles que nous appellerons « *complexes »* se présenteront en apparence comme les plus simples
 
 <!-- id: s2-22-0037 -->
 
@@ -166,7 +170,7 @@ L’intérêt des *struc­tures* dites « *élémentaires »* est qu’elles n
 
 <!-- id: s2-22-0040 -->
 
-> si essentielle, puisque c’est elle qui définit *l’ordre culturel* comme tel, par opposition à *l’ordre naturel*
+si essentielle, puisque c’est elle qui définit *l’ordre culturel* comme tel, par opposition à *l’ordre naturel*
 
 <!-- id: s2-22-0041 -->
 
@@ -210,7 +214,7 @@ Tout ceci pour situer, en quelque sorte, les piquets du décor au milieu duquel 
 
 <!-- id: s2-22-0051 -->
 
-> je ne dirai pas les hommes, bien que ce soit les hommes qui en soient effectivement les supports
+je ne dirai pas les hommes, bien que ce soit les hommes qui en soient effectivement les supports
 
 <!-- id: s2-22-0052 -->
 
@@ -230,7 +234,7 @@ Il y a pour elle quelque chose d’insurmontable, disons d’inac­ceptable dans
 
 <!-- id: s2-22-0056 -->
 
-> auquel elle est d’autre part, par son humanité toute entière, intégrée, toute entière soumise aussi bien que l’homme
+auquel elle est d’autre part, par son humanité toute entière, intégrée, toute entière soumise aussi bien que l’homme
 
 <!-- id: s2-22-0057 -->
 
@@ -410,7 +414,11 @@ Voilà quelqu’un qui n’avait pas été aux séminaires, mais qui a la marque
 
 <!-- id: s2-22-0101 -->
 
-> « *Es-tu maître ou valet ? - Comme il me prend envie* ».
+<div class="text-quotation">
+
+« *Es-tu maître ou valet ? - Comme il me prend envie* ».
+
+</div>
 
 <!-- id: s2-22-0102 -->
 
@@ -650,9 +658,9 @@ Il y a un cas tout à fait concret qui est celui de *l’obsédé*. Ce qu’il y
 
 <!-- id: s2-22-0161 -->
 
-> non pas, comme vous le disent certains *théo­riciens*, le danger de la folie, c’est-à-dire le symbole déchaîné comme tel, le sujet schizoïde, le sujet qui parle en quelque sorte au niveau de ses pulsions, l’aliéna­tion fondamentale du *moi*,
->
-> ce n’est pas du tout cela, dont il s’agit
+non pas, comme vous le disent certains *théo­riciens*, le danger de la folie, c’est-à-dire le symbole déchaîné comme tel, le sujet schizoïde, le sujet qui parle en quelque sorte au niveau de ses pulsions, l’aliéna­tion fondamentale du *moi*,
+
+ce n’est pas du tout cela, dont il s’agit
 
 <!-- id: s2-22-0162 -->
 
@@ -704,9 +712,9 @@ Il faut en effet que ce à quoi il tient soit toujours autre, car s’il le reco
 
 <!-- id: s2-22-0174 -->
 
-> ça n’est pas par la voie du maintien - comme on nous l’affirme - d’une espèce d’auto-observation, qui serait fondée sur ce fameux *splitting* du *dédou­blemen*t de l’*ego* qui serait fondamental dans la situation analytique,
->
-> ceci ne fait que perpétuer la relation fondamentalement ambiguë du *moi*
+ça n’est pas par la voie du maintien - comme on nous l’affirme - d’une espèce d’auto-observation, qui serait fondée sur ce fameux *splitting* du *dédou­blemen*t de l’*ego* qui serait fondamental dans la situation analytique,
+
+ceci ne fait que perpétuer la relation fondamentalement ambiguë du *moi*
 
 <!-- id: s2-22-0175 -->
 
@@ -734,7 +742,7 @@ En d’autres termes, ce que SOSIE a à apprendre, ça n’est pas qu’il n’a
 
 <!-- id: s2-22-0181 -->
 
-> et aussi du fait, à l’étage supérieur, au niveau du plan des dieux, de la naissance simultanée par le ventre d’ALCMÈNE, qui est beaucoup plus présente - nous avons acquis avec le temps une pudeur qui nous empêche d’aller loin dans les choses - qui est beaucoup plus présen­te dans la pièce de PLAUTE, ce qui fait qu’ALCMÈNE engendre d’un double amour aussi un double fruit.
+et aussi du fait, à l’étage supérieur, au niveau du plan des dieux, de la naissance simultanée par le ventre d’ALCMÈNE, qui est beaucoup plus présente - nous avons acquis avec le temps une pudeur qui nous empêche d’aller loin dans les choses - qui est beaucoup plus présen­te dans la pièce de PLAUTE, ce qui fait qu’ALCMÈNE engendre d’un double amour aussi un double fruit.
 
 <!-- id: s2-22-0182 -->
 

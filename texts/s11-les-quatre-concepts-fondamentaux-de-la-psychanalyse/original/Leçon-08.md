@@ -199,17 +199,17 @@ Je vais vous raconter un petit apologue, une petite histoire, elle est vraie. El
 
 <!-- id: s11-08-0037 -->
 
-> à ce moment-là, notre Bretagne n’était pas encore au stade de la grande industrie, ni du chalutier, le pêcheur pêchait dans sa coquille de noix, et à ses risques et périls, c’est ces risques et périls que j’aimais partager, mais ce n’était pas
->
-> tout le temps risques ni périls, il y avait aussi des jours de beau temps
-> …et un jour que nous attendions le moment de retirer les filets, le nommé Petit-Jean, nous l’appellerons ainsi…
+à ce moment-là, notre Bretagne n’était pas encore au stade de la grande industrie, ni du chalutier, le pêcheur pêchait dans sa coquille de noix, et à ses risques et périls, c’est ces risques et périls que j’aimais partager, mais ce n’était pas
+
+tout le temps risques ni périls, il y avait aussi des jours de beau temps
+…et un jour que nous attendions le moment de retirer les filets, le nommé Petit-Jean, nous l’appellerons ainsi…
 
 <!-- id: s11-08-0038 -->
 
-> il est comme toute sa famille disparu très promptement du fait de la tuberculose qui était
->
-> à ce moment-là la maladie vraiment ambiante, dans laquelle toute cette couche sociale se déplaçait
-> …me montre *ce quelque chose qui flottait* à la surface des vagues : *c’était une petite boîte,* et même précisons : *une boîte à sardines*.
+il est comme toute sa famille disparu très promptement du fait de la tuberculose qui était
+
+à ce moment-là la maladie vraiment ambiante, dans laquelle toute cette couche sociale se déplaçait
+…me montre *ce quelque chose qui flottait* à la surface des vagues : *c’était une petite boîte,* et même précisons : *une boîte à sardines*.
 
 <!-- id: s11-08-0039 -->
 
@@ -504,7 +504,11 @@ dans une dialectique semblable. Eh bien, dès le premier abord, nous voyons dans
 
 <!-- id: s11-08-0094 -->
 
-> « *Jamais tu ne me regardes, là où je te vois* ».
+<div class="text-quotation">
+
+« *Jamais tu ne me regardes, là où je te vois* ».
+
+</div>
 
 <!-- id: s11-08-0095 -->
 
@@ -530,7 +534,11 @@ Quand dans l’apologue antique, concernant [ZEUXIS](http://fr.wikipedia.org/wik
 
 <!-- id: s11-08-0100 -->
 
-> « *Alors et maintenant, montre-nous - toi - ce que tu as fait derrière ça.*[^51] »
+<div class="text-quotation">
+
+« *Alors et maintenant, montre-nous - toi - ce que tu as fait derrière ça.*[^51] »
+
+</div>
 
 <!-- id: s11-08-0101 -->
 

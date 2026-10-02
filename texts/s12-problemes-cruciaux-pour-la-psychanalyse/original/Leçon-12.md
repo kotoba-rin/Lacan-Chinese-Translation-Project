@@ -38,9 +38,9 @@ Comme référence, dans ce *défrichage* qui est ici le mien, et dont vous pense
 
 <!-- id: s12-12-0009 -->
 
-> dont il faut bien dire que jusque-là, bien souvent dans le langage, pour eux, ces trois espèces de formes de la dialectique
->
-> du manque qui s’appellent : *privation, frustration, castration*, étaient employées de façon presque interchangeable …quand j’ai rappelé que, au niveau de la référence au *symbolique*, à *l’imaginaire* et au *réel*, il convenait de voir qu’il y avait quelque chose, à ces trois niveaux, de radicalement différent.
+dont il faut bien dire que jusque-là, bien souvent dans le langage, pour eux, ces trois espèces de formes de la dialectique
+
+du manque qui s’appellent : *privation, frustration, castration*, étaient employées de façon presque interchangeable …quand j’ai rappelé que, au niveau de la référence au *symbolique*, à *l’imaginaire* et au *réel*, il convenait de voir qu’il y avait quelque chose, à ces trois niveaux, de radicalement différent.
 
 <!-- id: s12-12-0010 -->
 
@@ -92,7 +92,7 @@ Ce n’est point tant parce qu’il a été en fait *- et réellement -* que dan
 
 <!-- id: s12-12-0022 -->
 
-> vu les métamorphoses sous lesquelles nous avons à le repérer et à le voir se traduire …*absolument exclusif d’une pure et simple expérience concrète*.
+vu les métamorphoses sous lesquelles nous avons à le repérer et à le voir se traduire …*absolument exclusif d’une pure et simple expérience concrète*.
 
 <!-- id: s12-12-0023 -->
 
@@ -208,7 +208,11 @@ PLAUTE[^92] quelque part, dit aux auditeurs, comme c’est l’ambition de tout 
 
 <!-- id: s12-12-0051 -->
 
-> « *Sileteque et tacete atque animum aduortite.* » « *Faites attention, faites le silence et taisez-vous.* »
+<div class="text-quotation">
+
+« *Sileteque et tacete atque animum aduortite.* » « *Faites attention, faites le silence et taisez-vous.* »
+
+</div>
 
 <!-- id: s12-12-0052 -->
 
@@ -296,7 +300,7 @@ de la *bande de Mœbius* périphérique et de cette rondelle réduite, de ce que
 
 <!-- id: s12-12-0073 -->
 
-> d’une façon qui est imaginaire ou bien qui est agie, cet *objet(a),*
+d’une façon qui est imaginaire ou bien qui est agie, cet *objet(a),*
 
 <!-- id: s12-12-0074 -->
 
@@ -328,9 +332,9 @@ Il est clair que de centrer autour du surgissement de ce fantasme, en tant qu’
 
 <!-- id: s12-12-0081 -->
 
-> qu’à une phase qui est précisément une phase qui franchit cette étape purement identificatoire de repérage,
->
-> de pointage, de « tâtage » d’un *certain réel* qui est celui où une *certaine technique* se confine …c’est dans la mesure où le sujet lui-même peut en venir, au-delà de cette identification, à vivre l’effet de cette coupure comme étant lui-même *ce reste, ce déchet* même, si vous voulez, cette chose extrêmement réduite d’où il est effectivement parti, à une origine qu’il ne s’agit pas tant de concevoir comme celle de son histoire mais comme cette origine qui reste inscrite dans la synchronie, dans le statut même de son être, que quelque chose un temps soit éprouvé comme : qu’il le soit, lui, cet objet - soit demandé à l’Autre, soit qu’on lui demande *sein*, voire même *déchet*, *excrément* à proprement parler - et en d’autres cas, en d’autres registres qui ne sont pas ceux de la névrose : cette fonction de *la voix* ou du *regard*.
+qu’à une phase qui est précisément une phase qui franchit cette étape purement identificatoire de repérage,
+
+de pointage, de « tâtage » d’un *certain réel* qui est celui où une *certaine technique* se confine …c’est dans la mesure où le sujet lui-même peut en venir, au-delà de cette identification, à vivre l’effet de cette coupure comme étant lui-même *ce reste, ce déchet* même, si vous voulez, cette chose extrêmement réduite d’où il est effectivement parti, à une origine qu’il ne s’agit pas tant de concevoir comme celle de son histoire mais comme cette origine qui reste inscrite dans la synchronie, dans le statut même de son être, que quelque chose un temps soit éprouvé comme : qu’il le soit, lui, cet objet - soit demandé à l’Autre, soit qu’on lui demande *sein*, voire même *déchet*, *excrément* à proprement parler - et en d’autres cas, en d’autres registres qui ne sont pas ceux de la névrose : cette fonction de *la voix* ou du *regard*.
 
 <!-- id: s12-12-0082 -->
 
@@ -402,7 +406,7 @@ Laissons la figure d’AGATHON dont le nom pourrait tôt ou tard nous servir à 
 
 <!-- id: s12-12-0099 -->
 
-> \- *bien plus légitimement que Nietzsche* \[[*La naissance de la tragédie*](http://fr.wikisource.org/wiki/L%E2%80%99Origine_de_la_Trag%C3%A9die)\] *ne l’a fait pour Euripide* - comme un tragique assurément, perçant vers la comédie. Mais qu’importe !
+\- *bien plus légitimement que Nietzsche* \[[*La naissance de la tragédie*](http://fr.wikisource.org/wiki/L%E2%80%99Origine_de_la_Trag%C3%A9die)\] *ne l’a fait pour Euripide* - comme un tragique assurément, perçant vers la comédie. Mais qu’importe !
 
 <!-- id: s12-12-0100 -->
 
@@ -414,7 +418,11 @@ Que *ce transfert très spécial* que nous avons le droit... qui est mis là au 
 
 <!-- id: s12-12-0102 -->
 
-> « *L’amour, c’est donner ce qu’on n’a pas à quelqu’un qui n’en veut pas.* »
+<div class="text-quotation">
+
+« *L’amour, c’est donner ce qu’on n’a pas à quelqu’un qui n’en veut pas.* »
+
+</div>
 
 <!-- id: s12-12-0103 -->
 

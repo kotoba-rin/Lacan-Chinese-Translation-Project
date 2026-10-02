@@ -254,11 +254,11 @@ Le jeu encapuchonne le risque, et la preuve c’est que les premiers pas de la t
 
 <!-- id: s12-19-0063 -->
 
-> qui se sont faits, non pas au niveau de VON NEUMAN mais au niveau de PASCAL[^156] …commencent par *la théorie du partage* \[<span id="RLettrePASCAL" class="anchor"></span>[Lettres de <u>Pascal à Fermat</u>](#LettrePASCAL)\], ce qui veut dire qu’à chaque moment d’un jeu, un *partage équitable* est concevable de ce qui est en jeu : un calcul des *espérances* est possible, qui fait que d’arrêter un jeu dans le milieu, ce n’est pas simplement que chacun des joueurs retire sa mise - ce qui serait injuste - c’est que la mise soit partagée en fonction de…
+qui se sont faits, non pas au niveau de VON NEUMAN mais au niveau de PASCAL[^156] …commencent par *la théorie du partage* \[<span id="RLettrePASCAL" class="anchor"></span>[Lettres de <u>Pascal à Fermat</u>](#LettrePASCAL)\], ce qui veut dire qu’à chaque moment d’un jeu, un *partage équitable* est concevable de ce qui est en jeu : un calcul des *espérances* est possible, qui fait que d’arrêter un jeu dans le milieu, ce n’est pas simplement que chacun des joueurs retire sa mise - ce qui serait injuste - c’est que la mise soit partagée en fonction de…
 
 <!-- id: s12-19-0064 -->
 
-> ce qui est énorme à énoncer, et qui pourtant, donne la structure même de ce dont il s’agit …en fonction du calcul des *espérances* des joueurs. Je n’entrerai pas dans le détail de ce dont il s’agit ici, me contentant de vous renvoyer aux *opuscules fondamentaux* qui en la matière, de PASCAL et d’ailleurs, ont fait loi, et pour les meilleures raisons, depuis.
+ce qui est énorme à énoncer, et qui pourtant, donne la structure même de ce dont il s’agit …en fonction du calcul des *espérances* des joueurs. Je n’entrerai pas dans le détail de ce dont il s’agit ici, me contentant de vous renvoyer aux *opuscules fondamentaux* qui en la matière, de PASCAL et d’ailleurs, ont fait loi, et pour les meilleures raisons, depuis.
 
 <!-- id: s12-19-0065 -->
 
@@ -266,7 +266,7 @@ Qu’est-ce à dire, sinon que pour nous dont les voies sont frayées par cette 
 
 <!-- id: s12-19-0066 -->
 
-> ce qui est parfaitement calculable, ce qui, dans un nombre de cas assez étendus pour que ceci fasse départ à toute élaboration concernant l’exercice des jeux dans un nombre assez grand de cas, \[étant\] connue la connotation des coups possibles pour un joueur avec l’ensemble *des* coups possibles pour l’autre …il y a un point, nommé « *point de selle* », comme on dit « selle d’un cheval » :
+ce qui est parfaitement calculable, ce qui, dans un nombre de cas assez étendus pour que ceci fasse départ à toute élaboration concernant l’exercice des jeux dans un nombre assez grand de cas, \[étant\] connue la connotation des coups possibles pour un joueur avec l’ensemble *des* coups possibles pour l’autre …il y a un point, nommé « *point de selle* », comme on dit « selle d’un cheval » :
 
 <!-- id: s12-19-0067 -->
 
@@ -346,7 +346,7 @@ Et d’un certain point de vue et jusqu’à une certaine limite…
 
 <!-- id: s12-19-0086 -->
 
-> si l’analyste, dans sa position pure, originelle, n’en a pas d’autre que celle du sujet telle que je la définis cartésiennement, mettant celui qui, en tout cas, s’affirme que même s’il ne sait rien, il est celui qui pense qu’il ne sait rien \[l’analyste\] et que ceci suffit parfaitement à assurer sa position en face de l’autre joueur, qui sait sans doute, mais ne sait pas qu’il sait …il est bien clair que ces deux pôles peuvent très valablement constituer, jusqu’à un certain point une même personne, si nous définissons la personne non pas par cette référence mais par l’intérêt commun, et l’intérêt commun c’est ce qu’on appelle la guérison. *La guérison* qu’est-ce que ça veut dire ?
+si l’analyste, dans sa position pure, originelle, n’en a pas d’autre que celle du sujet telle que je la définis cartésiennement, mettant celui qui, en tout cas, s’affirme que même s’il ne sait rien, il est celui qui pense qu’il ne sait rien \[l’analyste\] et que ceci suffit parfaitement à assurer sa position en face de l’autre joueur, qui sait sans doute, mais ne sait pas qu’il sait …il est bien clair que ces deux pôles peuvent très valablement constituer, jusqu’à un certain point une même personne, si nous définissons la personne non pas par cette référence mais par l’intérêt commun, et l’intérêt commun c’est ce qu’on appelle la guérison. *La guérison* qu’est-ce que ça veut dire ?
 
 <!-- id: s12-19-0087 -->
 
@@ -446,11 +446,11 @@ Et c’est pourquoi il est parfaitement possible…
 
 <!-- id: s12-19-0111 -->
 
-> contrairement à ce que quelqu’un de cette École a écrit à propos de *L’histoire de la folie* de Michel FOUCAULT,
->
-> auquel on ne peut reprocher qu’une chose, c’est de ne pas donner de *la psychose* cette formulation, faute d’avoir assisté
->
-> à mon séminaire sur le Président SCHREBER \[Séminaire 1955-56 : « *Les psychoses*... » Seuil, Paris, 1981\] …il y a un discours parfaitement cohérent de *la folie*, il se distingue en ceci : *qu’il est sûr que La Chose sait*.
+contrairement à ce que quelqu’un de cette École a écrit à propos de *L’histoire de la folie* de Michel FOUCAULT,
+
+auquel on ne peut reprocher qu’une chose, c’est de ne pas donner de *la psychose* cette formulation, faute d’avoir assisté
+
+à mon séminaire sur le Président SCHREBER \[Séminaire 1955-56 : « *Les psychoses*... » Seuil, Paris, 1981\] …il y a un discours parfaitement cohérent de *la folie*, il se distingue en ceci : *qu’il est sûr que La Chose sait*.
 
 <!-- id: s12-19-0112 -->
 

@@ -74,9 +74,9 @@ La dernière fois, nous en avons indiqué le fait très singulier que dans ce qu
 
 <!-- id: s2-11-0018 -->
 
-> à savoir ce qu’on a remarqué la dernière fois et qui est étalé d’une façon presque inconsciente dans le rêve,
->
-> à savoir en fin de compte la question de ses relations avec une série d’*images sexuelles féminines*, qui toutes sont combinées avec ce quelque chose de tensionnel dans *ses rapports conjugaux* qui est très suffisamment indiqué dans le rêve pour nous intéresser.
+à savoir ce qu’on a remarqué la dernière fois et qui est étalé d’une façon presque inconsciente dans le rêve,
+
+à savoir en fin de compte la question de ses relations avec une série d’*images sexuelles féminines*, qui toutes sont combinées avec ce quelque chose de tensionnel dans *ses rapports conjugaux* qui est très suffisamment indiqué dans le rêve pour nous intéresser.
 
 <!-- id: s2-11-0019 -->
 
@@ -168,9 +168,13 @@ Eh bien, FREUD réfute cette idée en donnant *des exemples*. Il reprend d’ail
 
 <!-- id: s2-11-0041 -->
 
-> « *Si je voulais, dans la veille, faire choix de dire quelque chose au hasard, trouver un nombre au hasard,*
->
-> *l’analyse trouverait que ce n’est pas du hasard, que par conséquent le hasard n’existe pas.* »
+<div class="text-quotation">
+
+« *Si je voulais, dans la veille, faire choix de dire quelque chose au hasard, trouver un nombre au hasard,*
+
+*l’analyse trouverait que ce n’est pas du hasard, que par conséquent le hasard n’existe pas.* »
+
+</div>
 
 <!-- id: s2-11-0042 -->
 
@@ -218,9 +222,13 @@ Ce qui importe, c’est jusqu’où nous puissions voir que peut aller cet oubli
 
 <!-- id: s2-11-0053 -->
 
-> *« Ceci* - nous dit FREUD - *importe si peu que, n’en reste-t-il encore que sim­plement un élément, et un élément sur lequel on doute,*
->
-> *un petit bout de bout, une ombre d’ombre de rêve, nous pouvons continuer à lui accorder un sens. »*
+<div class="text-quotation">
+
+*« Ceci* - nous dit FREUD - *importe si peu que, n’en reste-t-il encore que sim­plement un élément, et un élément sur lequel on doute,*
+
+*un petit bout de bout, une ombre d’ombre de rêve, nous pouvons continuer à lui accorder un sens. »*
+
+</div>
 
 <!-- id: s2-11-0054 -->
 
@@ -280,13 +288,17 @@ C’est en fin de compte une modulation, un *discours interrompu* qui insiste. N
 
 <!-- id: s2-11-0068 -->
 
-> « *Tout ce dont nous parlons pour l’instant, ne nous imaginons pas que nous l’expliquons du point de vue psychologique,*
->
-> *toutes les explications que nous donnons, ne nous imaginons pas que nous les ramenons à du déjà connu dans le psychique,*
->
-> *ce sont des phé­nomènes d’un autre ordre que tout ce qui a été déjà abordé du point de vue psy­chologique.*
->
-> *Nous nous en tenons là pour l’instant. Nous suspendons un instant notre pensée.* »
+<div class="text-quotation">
+
+« *Tout ce dont nous parlons pour l’instant, ne nous imaginons pas que nous l’expliquons du point de vue psychologique,*
+
+*toutes les explications que nous donnons, ne nous imaginons pas que nous les ramenons à du déjà connu dans le psychique,*
+
+*ce sont des phé­nomènes d’un autre ordre que tout ce qui a été déjà abordé du point de vue psy­chologique.*
+
+*Nous nous en tenons là pour l’instant. Nous suspendons un instant notre pensée.* »
+
+</div>
 
 <!-- id: s2-11-0069 -->
 
@@ -434,7 +446,11 @@ Comme vous le savez, le père d’Ivan KARAMAZOV, quand Ivan KARAMAZOV le fait a
 
 <!-- id: s2-11-0105 -->
 
-> « *Si Dieu n’existe pas* - dit le père - *alors tout est per­mis* »
+<div class="text-quotation">
+
+« *Si Dieu n’existe pas* - dit le père - *alors tout est per­mis* »
+
+</div>
 
 <!-- id: s2-11-0106 -->
 
@@ -442,7 +458,11 @@ Notion évidemment naïve, car nous savons bien, nous analystes, que *si Dieu n�
 
 <!-- id: s2-11-0107 -->
 
-> « *Si le Roi d’Angleterre est un con*, *alors tout est permis.* »
+<div class="text-quotation">
+
+« *Si le Roi d’Angleterre est un con*, *alors tout est permis.* »
+
+</div>
 
 <!-- id: s2-11-0108 -->
 
@@ -462,7 +482,7 @@ Sur ce préambule, continuons. Il est bien clair qu’en effet pour les sujets d
 
 <!-- id: s2-11-0112 -->
 
-> c’est l’hypothèse, ne croyez pas que je suis en train de mal parler de nos alliés anglais
+c’est l’hypothèse, ne croyez pas que je suis en train de mal parler de nos alliés anglais
 
 <!-- id: s2-11-0113 -->
 
@@ -642,7 +662,7 @@ Il y a un certain nombre de caractères dans les processus d’éla­boration du
 
 <!-- id: s2-11-0157 -->
 
-> Et dans le rêve, c’est O. qui est coupable au présent.
+Et dans le rêve, c’est O. qui est coupable au présent.
 
 <!-- id: s2-11-0158 -->
 
@@ -670,11 +690,15 @@ Jean-Paul VALABREGA
 
 <!-- id: s2-11-0164 -->
 
-> « *Nous ne concevons pas un lieu comme localité,mais pourtant ça va nous permettre de construire.* »
->
-> Et là il passera tout de suite à la construction de son appareil psychique basé sur ces trois remarques, la dernière : *la notion d’un lieu psychique*. Il passe à la construction de son appareil par une double analogie : l’appareil psychique sera constitué par une analogie-réflexe, un processus réflexe, et d’autre part une analogie optique, familière à tous ceux qui ont suivi les cours de M. LACAN, qui en a parlé souvent.
->
-> Dans ce texte sur la régression, *le lieu psychique* va être considéré - dans une analogie optique d’un microscope, d’une lunette, un appareil de photo - comme le lieu où se forme l’image, disons par exemple le plan focal, ça n’existe pas, ça n’a pas d’existence réelle, mais c’est quand même une qualité, un endroit, un lieu.
+<div class="text-quotation">
+
+« *Nous ne concevons pas un lieu comme localité,mais pourtant ça va nous permettre de construire.* »
+
+Et là il passera tout de suite à la construction de son appareil psychique basé sur ces trois remarques, la dernière : *la notion d’un lieu psychique*. Il passe à la construction de son appareil par une double analogie : l’appareil psychique sera constitué par une analogie-réflexe, un processus réflexe, et d’autre part une analogie optique, familière à tous ceux qui ont suivi les cours de M. LACAN, qui en a parlé souvent.
+
+Dans ce texte sur la régression, *le lieu psychique* va être considéré - dans une analogie optique d’un microscope, d’une lunette, un appareil de photo - comme le lieu où se forme l’image, disons par exemple le plan focal, ça n’existe pas, ça n’a pas d’existence réelle, mais c’est quand même une qualité, un endroit, un lieu.
+
+</div>
 
 <!-- id: s2-11-0165 -->
 
@@ -734,7 +758,11 @@ Attendez un peu... Cet appareil est à ranger dans le système Ψ. C’est dans 
 
 <!-- id: s2-11-0179 -->
 
-> « *Et après tout, ne l’oublions pas, c’est là une propriété de l’appareil réflexe, les choses ne vont que dans un sens.* »
+<div class="text-quotation">
+
+« *Et après tout, ne l’oublions pas, c’est là une propriété de l’appareil réflexe, les choses ne vont que dans un sens.* »
+
+</div>
 
 <!-- id: s2-11-0180 -->
 
@@ -750,7 +778,7 @@ Or, c’est là si vous voulez que j’amorce - et que nous allons peut-être la
 
 <!-- id: s2-11-0183 -->
 
-> au moins dans ce schéma, si nous le considérons comme fondamental de l’arc réflexe
+au moins dans ce schéma, si nous le considérons comme fondamental de l’arc réflexe
 
 <!-- id: s2-11-0184 -->
 
@@ -786,7 +814,7 @@ Je ne fais que vous indiquer là ce qui fera l’objet de notre prochain sémina
 
 <!-- id: s2-11-0192 -->
 
-> de même que j’essaie de limiter l’emploi de termes comme « *résistance* » ou « *censure* »
+de même que j’essaie de limiter l’emploi de termes comme « *résistance* » ou « *censure* »
 
 <!-- id: s2-11-0193 -->
 

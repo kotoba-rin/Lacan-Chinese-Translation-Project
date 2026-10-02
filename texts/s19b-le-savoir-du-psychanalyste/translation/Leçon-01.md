@@ -419,126 +419,126 @@ un—>a/an
 从享乐（jouissance）的角度来看，是彻底的失败（complètement raté）。
 至于那些佛教徒（les bouddhistes）——带着他们的**汽油桶（bidons d’essence）​，他们确实“跟得上时代（à la page）”，但我们什么也不知道，因为他们没有回来作证（ne reviennent pas porter témoignage）**​。
 
-> 弗洛伊德的那篇文章，真是**漂亮的一篇文本（un joli texte）**​。
-> 他在其中重新提到了躯体（soma）与生殖细胞（germen）——这绝非偶然。
-> 他**嗅觉敏锐（il flaire）​，感觉到正是在这一点上，有些什么值得进一步深入（à approfondir）的东西。是的，确实需要被深入的问题，正是我今年在研讨课中提出的第五个要点（5ème point）**​，其表述如下：
-> “性关系并不存在（il n’y a pas de rapport sexuel）。”
-> 当然啦，乍听之下这话有点像疯子说的，有点轻飘（un peu zinzin, un peu éffloupi）。
-> ——只要**好好做爱一场（baiser un bon coup）**​，似乎就能“证明”我错了。
-> 遗憾的是，那恰恰是唯一一种什么也无法证明的事情（ne démontre absolument rien de pareil）——因为，所谓“关系（rapport）”这一概念，与人们在日常语言中对这个词所作的隐喻性使用（usage métaphorique）——“他们发生了关系（ils ont eu des rapports）”——
-> 并不相符（ne coïncide pas tout à fait）​。换句话说，当人们说“他们有过关系”时，那根本不是我所说的“关系”。
-> 我们只有在某种话语（discours）建立起一个关系、并且能够被表述出来（énoncer le rapport）时，才有可能认真地谈论“关系（rapport）”。
-> 的确，**实在界（le réel）在我们思考它之前就已经存在，但“关系”这个东西就要可疑得多（beaucoup plus douteux）​：
-> 它不仅需要被思考，还必须能够被书写（il faut l’écrire）**​。如果你无法写出它，那就根本没有关系。(Si vous êtes pas foutus de l’écrire, il n’y a pas de rapport.)
-> 而若是事实证明——并且证明得足够长久，以至于我们开始真正理解这一点——**性关系（le rapport sexuel）是无法被书写的（il est impossible de l’écrire）**​，那无疑将是件极为值得注意的事情。
+弗洛伊德的那篇文章，真是**漂亮的一篇文本（un joli texte）**​。
+他在其中重新提到了躯体（soma）与生殖细胞（germen）——这绝非偶然。
+他**嗅觉敏锐（il flaire）​，感觉到正是在这一点上，有些什么值得进一步深入（à approfondir）的东西。是的，确实需要被深入的问题，正是我今年在研讨课中提出的第五个要点（5ème point）**​，其表述如下：
+“性关系并不存在（il n’y a pas de rapport sexuel）。”
+当然啦，乍听之下这话有点像疯子说的，有点轻飘（un peu zinzin, un peu éffloupi）。
+——只要**好好做爱一场（baiser un bon coup）**​，似乎就能“证明”我错了。
+遗憾的是，那恰恰是唯一一种什么也无法证明的事情（ne démontre absolument rien de pareil）——因为，所谓“关系（rapport）”这一概念，与人们在日常语言中对这个词所作的隐喻性使用（usage métaphorique）——“他们发生了关系（ils ont eu des rapports）”——
+并不相符（ne coïncide pas tout à fait）​。换句话说，当人们说“他们有过关系”时，那根本不是我所说的“关系”。
+我们只有在某种话语（discours）建立起一个关系、并且能够被表述出来（énoncer le rapport）时，才有可能认真地谈论“关系（rapport）”。
+的确，**实在界（le réel）在我们思考它之前就已经存在，但“关系”这个东西就要可疑得多（beaucoup plus douteux）​：
+它不仅需要被思考，还必须能够被书写（il faut l’écrire）**​。如果你无法写出它，那就根本没有关系。(Si vous êtes pas foutus de l’écrire, il n’y a pas de rapport.)
+而若是事实证明——并且证明得足够长久，以至于我们开始真正理解这一点——**性关系（le rapport sexuel）是无法被书写的（il est impossible de l’écrire）**​，那无疑将是件极为值得注意的事情。
 
-> 这件事之所以重要，正是因为如今我们借着所谓“科学（la science）”的进展，正在把一整套细微的事务（menues affaires）
-> ——涉及配子（gamète）、基因（gène）的层面，以及一系列所谓“选择（choix）”“筛选（tris）”的过程，无论称之为“减数分裂（méiose）”或别的什么——推进到了极远的程度。
-> 这些研究似乎确实阐明（élucider）了一些事情，一些与这样一个事实有关的事情：
-> 至少在生命的某个层次上，繁殖（reproduction）是有性的（sexuée）。
+这件事之所以重要，正是因为如今我们借着所谓“科学（la science）”的进展，正在把一整套细微的事务（menues affaires）
+——涉及配子（gamète）、基因（gène）的层面，以及一系列所谓“选择（choix）”“筛选（tris）”的过程，无论称之为“减数分裂（méiose）”或别的什么——推进到了极远的程度。
+这些研究似乎确实阐明（élucider）了一些事情，一些与这样一个事实有关的事情：
+至少在生命的某个层次上，繁殖（reproduction）是有性的（sexuée）。
 
-> 然而，这些（科学上的发现）与所谓“性关系（rapport sexuel）”毫无关联。
-> 尽管有一点是确切无疑的：
-> **对于说话之在（l’être parlant）而言，围绕着这一“关系”——作为建立在“享乐（jouissance）”之上的东西——展开着一个极其壮丽的多样谱系（éventail admirable en son étalement）**​。
-> 而且，有两件事被弗洛伊德——以及精神分析的话语（le discours analytique）——清楚地揭示出来：
-> 那就是整个享乐的谱系（toute la gamme de la jouissance）——换句话说，凡是人们能做的那些与“恰当地对待一个身体（traiter un corps, voire son corps）”有关的事情，在某种程度上，都参与着性的享乐（jouissance sexuelle）。
-> 但是，性的享乐本身（la jouissance sexuelle elle-même），当你试图去把握它（mettre la main dessus）时，——如果可以这么说——它便不再是性的（elle n’est plus sexuelle du tout），它消失了（elle se perd）。
+然而，这些（科学上的发现）与所谓“性关系（rapport sexuel）”毫无关联。
+尽管有一点是确切无疑的：
+**对于说话之在（l’être parlant）而言，围绕着这一“关系”——作为建立在“享乐（jouissance）”之上的东西——展开着一个极其壮丽的多样谱系（éventail admirable en son étalement）**​。
+而且，有两件事被弗洛伊德——以及精神分析的话语（le discours analytique）——清楚地揭示出来：
+那就是整个享乐的谱系（toute la gamme de la jouissance）——换句话说，凡是人们能做的那些与“恰当地对待一个身体（traiter un corps, voire son corps）”有关的事情，在某种程度上，都参与着性的享乐（jouissance sexuelle）。
+但是，性的享乐本身（la jouissance sexuelle elle-même），当你试图去把握它（mettre la main dessus）时，——如果可以这么说——它便不再是性的（elle n’est plus sexuelle du tout），它消失了（elle se perd）。
 
-> 正是在这里，“阳具（Phallus）”这一术语的全部建构才介入进来。
-> 它确实指示着一个特定的“所指（signifié）”，——但这是某个彻底消逝的能指（signifiant parfaitement évanouissant）的所指。
-> 至于要定义什么是“男人”或“女人”，精神分析恰恰向我们展示出：这在根本上是不可能的。
-> 并且，至少在某种程度上，没有任何迹象能表明——如果我们哪怕片刻将“享乐（jouissance）”
-> 视为“生殖功能（fonction de reproduction）”的引导，那它就必然应当指向异性的伴侣（le partenaire de l’autre sexe）”。
+正是在这里，“阳具（Phallus）”这一术语的全部建构才介入进来。
+它确实指示着一个特定的“所指（signifié）”，——但这是某个彻底消逝的能指（signifiant parfaitement évanouissant）的所指。
+至于要定义什么是“男人”或“女人”，精神分析恰恰向我们展示出：这在根本上是不可能的。
+并且，至少在某种程度上，没有任何迹象能表明——如果我们哪怕片刻将“享乐（jouissance）”
+视为“生殖功能（fonction de reproduction）”的引导，那它就必然应当指向异性的伴侣（le partenaire de l’autre sexe）”。
 
-> 此刻，我们正面临着——可以这么说——**“性观念（notion de sexualité）”的爆裂（éclatement）**​。
-> 毫无疑问，**性（la sexualité）位于一切无意识活动（inconscient）的中心。但它之所以处在中心，
-> 正是因为它本身是一个缺失（manque）**​。
+此刻，我们正面临着——可以这么说——**“性观念（notion de sexualité）”的爆裂（éclatement）**​。
+毫无疑问，**性（la sexualité）位于一切无意识活动（inconscient）的中心。但它之所以处在中心，
+正是因为它本身是一个缺失（manque）**​。
 
-> 也就是说，**在任何可以被写出的“性关系（rapport sexuel）”的位置上，被替代而出现的，是由性的享乐功能（fonction de la jouissance précisément sexuelle）所生成的一系列死胡同（impasses）**​。
-> 这种享乐之所以会如此，正是因为它显现为一种“海市蜃楼般的点（point de mirage）”——
-> 而弗洛伊德本人，也在某处曾将其标示为“绝对的享乐（jouissance absolue）”。
+也就是说，**在任何可以被写出的“性关系（rapport sexuel）”的位置上，被替代而出现的，是由性的享乐功能（fonction de la jouissance précisément sexuelle）所生成的一系列死胡同（impasses）**​。
+这种享乐之所以会如此，正是因为它显现为一种“海市蜃楼般的点（point de mirage）”——
+而弗洛伊德本人，也在某处曾将其标示为“绝对的享乐（jouissance absolue）”。
 
-> 而正是因为它如此接近（si près），它恰恰并不是绝对的（elle ne l’est pas, absolue）。
-> 它在任何意义上都不是绝对的，首先，因为“享乐”本身（la jouissance）必然归于两种不同形式的失败（formes d’échec）：
+而正是因为它如此接近（si près），它恰恰并不是绝对的（elle ne l’est pas, absolue）。
+它在任何意义上都不是绝对的，首先，因为“享乐”本身（la jouissance）必然归于两种不同形式的失败（formes d’échec）：
 
-> 对男性的享乐而言，这个失败就是阉割（la castration）；
-> 对女性的享乐而言，这个失败则表现为分裂（la division）；
+对男性的享乐而言，这个失败就是阉割（la castration）；
+对女性的享乐而言，这个失败则表现为分裂（la division）；
 
-> 其次，享乐所导向的东西，与交配（copulation）毫无关联。
-> 至于交配，它仅仅是——姑且这样说——说话之在（l’être parlant）这一物种中
-> 实现繁殖的一种常用模式（mode usuel）——（而且，说不定未来这模式还会改变。）
-> 换句话说：
-> — 首先**​，有一个正题（thèse）**​：
-> “**性关系不存在（il n’y a pas de rapport sexuel）**​。”
-> 我在这里谈的，是关于说话之在（l’être parlant）的情况。
-> — **第二，有一个反题（antithèse）**​：
-> 那就是**生命的繁殖（la reproduction de la vie）​。这是一个广为人知的主题——它如今成了天主教会（l’Église catholique）的旗帜。在这一点上，必须向教会的勇气（courage）致敬：
-> 它明确主张——“性关系是存在的”**​，
-> 而且“它通向生育”​。这当然是一个可以“持守”的立场，只是——它无法被证明。没有任何一种话语能支撑它，除了宗教话语（le discours religieux），因为唯有宗教话语，才确立了“真理与知识的严格分离”。
-> —**第三，没有综合（synthèse）**​，除非你愿意把这样的陈述称作“综合”：
-> “享乐唯有在死亡中达成（il n’y a de jouissance que de mourir）。”
-> 以上这些，便是关于精神分析家的知识（le savoir du psychanalyste）应当据以加以节奏化（scander）的一系列真理与知识的要点（points de vérité et de savoir）。
-> 只可惜，没有一个精神分析家，对这些要点不是“一纸空文（lettre morte）”。
-> 至于所谓“综合（synthèse）”，我们完全可以信赖他们——他们会坚持这些术语（en soutenir les termes），但把它们理解得完全跑到了别的地方（tout à fait ailleurs），与死亡本能（instinct de mort）毫无关系。
-> “逐出自然——它便疾驰归来（Chassez le naturel, il revient au galop）。”（俗语：赶走自然，它会飞奔回来。）
+其次，享乐所导向的东西，与交配（copulation）毫无关联。
+至于交配，它仅仅是——姑且这样说——说话之在（l’être parlant）这一物种中
+实现繁殖的一种常用模式（mode usuel）——（而且，说不定未来这模式还会改变。）
+换句话说：
+— 首先**​，有一个正题（thèse）**​：
+“**性关系不存在（il n’y a pas de rapport sexuel）**​。”
+我在这里谈的，是关于说话之在（l’être parlant）的情况。
+— **第二，有一个反题（antithèse）**​：
+那就是**生命的繁殖（la reproduction de la vie）​。这是一个广为人知的主题——它如今成了天主教会（l’Église catholique）的旗帜。在这一点上，必须向教会的勇气（courage）致敬：
+它明确主张——“性关系是存在的”**​，
+而且“它通向生育”​。这当然是一个可以“持守”的立场，只是——它无法被证明。没有任何一种话语能支撑它，除了宗教话语（le discours religieux），因为唯有宗教话语，才确立了“真理与知识的严格分离”。
+—**第三，没有综合（synthèse）**​，除非你愿意把这样的陈述称作“综合”：
+“享乐唯有在死亡中达成（il n’y a de jouissance que de mourir）。”
+以上这些，便是关于精神分析家的知识（le savoir du psychanalyste）应当据以加以节奏化（scander）的一系列真理与知识的要点（points de vérité et de savoir）。
+只可惜，没有一个精神分析家，对这些要点不是“一纸空文（lettre morte）”。
+至于所谓“综合（synthèse）”，我们完全可以信赖他们——他们会坚持这些术语（en soutenir les termes），但把它们理解得完全跑到了别的地方（tout à fait ailleurs），与死亡本能（instinct de mort）毫无关系。
+“逐出自然——它便疾驰归来（Chassez le naturel, il revient au galop）。”（俗语：赶走自然，它会飞奔回来。）
 
 > [译注] *lettre morte* 字面为“死信”，引申为失去效力的一纸空文；*Chassez le naturel, il revient au galop* 是“本性难移”之意的法语谚语。
 
-> 不过，我们还是有必要给那句古老的谚语赋予它真正的意义。
-> 所谓“自然（le naturel）”，——就让我们好好谈谈它吧，因为问题正出在这里。
-> “自然”，指的是一切披上“知识的制服（livrée du savoir）”的东西——而天知道，这样的东西可真不少。
-> 而那种专门让知识穿上这身“制服”的话语，就是大学话语（le discours universitaire）。
-> 很显然，这种“装扮（habillement）”指的正是“自然”的观念（l’idée de la nature），而这种观念——
-> 一点也没有要从舞台上消失的意思（n’est pas prête de disparaître du devant de la scène）。
-> 我并不是想要以另一种“自然”来取代那一种。请不要以为我属于那些把“文化（culture）”与“自然（nature）”对立起来的人。首先，仅仅因为：
-> “自然”本身恰恰是“文化的果实（un fruit de la culture）”。
-> 然而，至于那种“知识与真理之间的关系（le rapport savoir / vérité）”，或者反过来说“真理 / 知识”，随你怎么称呼——我们甚至还没有开始对它形成哪怕一丁点认同（adhésion）；医学、精神病学（psychiatrie）以及许多其他问题的情形也是如此。
-> 我们很快——不出四五年——就会被一切分隔性的（ségrégatifs）问题所淹没。这些问题将被冠以、或被抨击为“种族主义（racisme）”之名。而所有这些问题，恰恰都是围绕着一个看似简单的主题：
-> “生命繁殖层面的控制（le contrôle）”。
-> ——只是，这个问题出现在这样一种生物身上：
-> 他们因为自己是“说话之在”，因此在这一层面上，带着各种良心与意识的困扰（problèmes de conscience）。
-> 真正令人匪夷所思（absolument inouï）的，是：
-> 人们至今还没有意识到——所谓“良心的问题”，其实就是“享乐的问题”。不过，好在我们如今才刚刚开始能够说出这一点。
-> 把这些问题说出来是否会产生哪怕一点后果，也完全不能确定，因为我们知道，要让解释被接受，就需要我开头所说的“工作”。
-> 至于知识，它属于享乐的秩序；完全看不出它为什么会换床。
-> 人们所谓的“理智化”，——他们所期待的，或所指责的这种东西——
-> 其实不过意味着：
-> 他们凭经验早已明白，理解某件事情——既不是必要的条件，也不是充分的条件，足以让任何事情发生改变。至于精神分析家的知识（le savoir du psychanalyste），问题根本不在于它能否被表述（s’articuler ou pas），而在于：
-> 必须处于怎样的位置（à quelle place），才能支撑（soutenir）这种知识。
-> 显然，正是在这一点上，我将试着指出一些东西（indiquer quelque chose）——
-> 尽管我并不确定，自己是否能将它表述成一种可传达的形式（formulation transmissible）。
-> ——但我仍然要试一试。
-> 问题在于：
-> 我们必须弄清楚，科学（la science）究竟在何种程度上能够触及（atteindre）那个属于“实在界（le réel）”的东西。因为无论是在当下，还是在弗洛伊德的时代，精神分析对科学所能做的，也不过是跟随其后（faire cortège）。
-> 象征界（le Symbolique）、想象界（l’Imaginaire）与实在界（le Réel）——很显然，象征界的力量（la puissance du Symbolique）毋须证明，它本身就是力量之源（c’est la puissance même）。
-> 在语言出现之前，世界上没有任何“力量（puissance）”的痕迹。
-> 至于弗洛伊德在谈论“哥白尼之前的人类（l’avant Copernic）”时所描绘的图景，令人震惊的是：
-> 他似乎认为，人类曾“愉快地居于宇宙的中心”，并“自以为是宇宙的王者”。
-> ——那真是一种绝妙的幻觉（illusion absolument fabuleuse）！
+不过，我们还是有必要给那句古老的谚语赋予它真正的意义。
+所谓“自然（le naturel）”，——就让我们好好谈谈它吧，因为问题正出在这里。
+“自然”，指的是一切披上“知识的制服（livrée du savoir）”的东西——而天知道，这样的东西可真不少。
+而那种专门让知识穿上这身“制服”的话语，就是大学话语（le discours universitaire）。
+很显然，这种“装扮（habillement）”指的正是“自然”的观念（l’idée de la nature），而这种观念——
+一点也没有要从舞台上消失的意思（n’est pas prête de disparaître du devant de la scène）。
+我并不是想要以另一种“自然”来取代那一种。请不要以为我属于那些把“文化（culture）”与“自然（nature）”对立起来的人。首先，仅仅因为：
+“自然”本身恰恰是“文化的果实（un fruit de la culture）”。
+然而，至于那种“知识与真理之间的关系（le rapport savoir / vérité）”，或者反过来说“真理 / 知识”，随你怎么称呼——我们甚至还没有开始对它形成哪怕一丁点认同（adhésion）；医学、精神病学（psychiatrie）以及许多其他问题的情形也是如此。
+我们很快——不出四五年——就会被一切分隔性的（ségrégatifs）问题所淹没。这些问题将被冠以、或被抨击为“种族主义（racisme）”之名。而所有这些问题，恰恰都是围绕着一个看似简单的主题：
+“生命繁殖层面的控制（le contrôle）”。
+——只是，这个问题出现在这样一种生物身上：
+他们因为自己是“说话之在”，因此在这一层面上，带着各种良心与意识的困扰（problèmes de conscience）。
+真正令人匪夷所思（absolument inouï）的，是：
+人们至今还没有意识到——所谓“良心的问题”，其实就是“享乐的问题”。不过，好在我们如今才刚刚开始能够说出这一点。
+把这些问题说出来是否会产生哪怕一点后果，也完全不能确定，因为我们知道，要让解释被接受，就需要我开头所说的“工作”。
+至于知识，它属于享乐的秩序；完全看不出它为什么会换床。
+人们所谓的“理智化”，——他们所期待的，或所指责的这种东西——
+其实不过意味着：
+他们凭经验早已明白，理解某件事情——既不是必要的条件，也不是充分的条件，足以让任何事情发生改变。至于精神分析家的知识（le savoir du psychanalyste），问题根本不在于它能否被表述（s’articuler ou pas），而在于：
+必须处于怎样的位置（à quelle place），才能支撑（soutenir）这种知识。
+显然，正是在这一点上，我将试着指出一些东西（indiquer quelque chose）——
+尽管我并不确定，自己是否能将它表述成一种可传达的形式（formulation transmissible）。
+——但我仍然要试一试。
+问题在于：
+我们必须弄清楚，科学（la science）究竟在何种程度上能够触及（atteindre）那个属于“实在界（le réel）”的东西。因为无论是在当下，还是在弗洛伊德的时代，精神分析对科学所能做的，也不过是跟随其后（faire cortège）。
+象征界（le Symbolique）、想象界（l’Imaginaire）与实在界（le Réel）——很显然，象征界的力量（la puissance du Symbolique）毋须证明，它本身就是力量之源（c’est la puissance même）。
+在语言出现之前，世界上没有任何“力量（puissance）”的痕迹。
+至于弗洛伊德在谈论“哥白尼之前的人类（l’avant Copernic）”时所描绘的图景，令人震惊的是：
+他似乎认为，人类曾“愉快地居于宇宙的中心”，并“自以为是宇宙的王者”。
+——那真是一种绝妙的幻觉（illusion absolument fabuleuse）！
 
-> 如果说古人（在“永恒的天球”中）曾经从那里汲取某种观念，那正是：那里蕴藏着知识的最终之语（le dernier mot du savoir）。
-> 在这个世界上，唯有那些“以太天球（les sphères éthérées）”才真正“知道”些什么——当然，这一观念需要时间才能消退。
-> 正是在这个意义上，“知识（savoir）”自其起源起就与“权力（pouvoir）”紧密相连。
+如果说古人（在“永恒的天球”中）曾经从那里汲取某种观念，那正是：那里蕴藏着知识的最终之语（le dernier mot du savoir）。
+在这个世界上，唯有那些“以太天球（les sphères éthérées）”才真正“知道”些什么——当然，这一观念需要时间才能消退。
+正是在这个意义上，“知识（savoir）”自其起源起就与“权力（pouvoir）”紧密相连。
 
-> 在我那本厚厚的《著作集（Écrits）》背面的那段小广告（petite annonce）上——你们都看过吧？因为——何必不承认呢？——那段小文字确实是我亲自写的。
-> 还能是谁写的呢？一看就认得出是我的文风——写得还不错吧！……我在那里提到了“启蒙（les Lumières）”。
-> 很明显，启蒙（les Lumières）花了相当长的时间才让自己变得明朗（s’élucider）。
-> 在最初阶段，它确实彻底搞砸了。不过——就像地狱一样——它们的道路也是由“善意铺就的（pavées de bonnes intentions）”。
-> 与后来人们对它的一切批评相反，启蒙运动的目标，其实是要宣告一种不向任何权力致敬的知识（un savoir qui ne fût hommage à aucun pouvoir）。
+在我那本厚厚的《著作集（Écrits）》背面的那段小广告（petite annonce）上——你们都看过吧？因为——何必不承认呢？——那段小文字确实是我亲自写的。
+还能是谁写的呢？一看就认得出是我的文风——写得还不错吧！……我在那里提到了“启蒙（les Lumières）”。
+很明显，启蒙（les Lumières）花了相当长的时间才让自己变得明朗（s’élucider）。
+在最初阶段，它确实彻底搞砸了。不过——就像地狱一样——它们的道路也是由“善意铺就的（pavées de bonnes intentions）”。
+与后来人们对它的一切批评相反，启蒙运动的目标，其实是要宣告一种不向任何权力致敬的知识（un savoir qui ne fût hommage à aucun pouvoir）。
 
-> 然而，我们不得不遗憾地承认：
-> 那些承担起这一使命（指启蒙运动传播“无权力知识”的人）的人们，
-> 却过于地以仆人的姿态依附于当时那一类——我得说，相当幸福而兴盛的——主子（maîtres），
-> 也就是当时的贵族阶层（les nobles de l’époque）。
-> 因此，他们最终不可能导向别的结果，除了那场众所周知的“法国大革命（Révolution française）”——一场导致的结果你们都清楚：
-> 即建立了一种比以往任何时代都更残酷的“主人阶级”（une race de maîtres plus féroces）。
-> 一种无可奈何的知识（un savoir qui n’en peut mais），——无能的知识（le savoir de l’impuissance），这大概就是精神分析家——从某种视角来看（我不会称之为一种进步）
-> ——所可能携带、传递（véhiculer）的东西。
-> 为了让你们感受一下我今年希望继续展开话语的那条脉络的语调，我先给你们一点预告、独家首发（la primeur）——舔舔嘴唇，准备好听吧（pourléchez-vous les babines）——我现在就要告诉你们我将在与去年同一地点开设的新一年度研讨课的标题。
-> ——当然，这一切多亏了几位朋友的努力，他们让我们得以保留下这个场所。
-> 它写作是这样的——在读出之前，先要看看写法：
-> ——这是一个 O​，
-> ——这是一个 U​，
-> ——……然后三个点（...），你们可以自行补上想要的东西。
-> 我就把它留给你们去冥想吧。
-> 这个 **ou（或）**​，是那种拉丁语中所说的 vel 或 aut 的 “或”——也就是说：“……或者更糟（Ou pire）”。
+然而，我们不得不遗憾地承认：
+那些承担起这一使命（指启蒙运动传播“无权力知识”的人）的人们，
+却过于地以仆人的姿态依附于当时那一类——我得说，相当幸福而兴盛的——主子（maîtres），
+也就是当时的贵族阶层（les nobles de l’époque）。
+因此，他们最终不可能导向别的结果，除了那场众所周知的“法国大革命（Révolution française）”——一场导致的结果你们都清楚：
+即建立了一种比以往任何时代都更残酷的“主人阶级”（une race de maîtres plus féroces）。
+一种无可奈何的知识（un savoir qui n’en peut mais），——无能的知识（le savoir de l’impuissance），这大概就是精神分析家——从某种视角来看（我不会称之为一种进步）
+——所可能携带、传递（véhiculer）的东西。
+为了让你们感受一下我今年希望继续展开话语的那条脉络的语调，我先给你们一点预告、独家首发（la primeur）——舔舔嘴唇，准备好听吧（pourléchez-vous les babines）——我现在就要告诉你们我将在与去年同一地点开设的新一年度研讨课的标题。
+——当然，这一切多亏了几位朋友的努力，他们让我们得以保留下这个场所。
+它写作是这样的——在读出之前，先要看看写法：
+——这是一个 O​，
+——这是一个 U​，
+——……然后三个点（...），你们可以自行补上想要的东西。
+我就把它留给你们去冥想吧。
+这个 **ou（或）**​，是那种拉丁语中所说的 vel 或 aut 的 “或”——也就是说：“……或者更糟（Ou pire）”。

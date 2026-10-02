@@ -90,7 +90,7 @@ C’est bien en quoi il n’est pas possible d’obtenir directement ceci...
 
 <!-- id: s25-12-0022 -->
 
-> à savoir ce qui résulte de la bande à l’intérieur de *la coupure* ...il n’est pas pos­sible de l’obtenir directement, puisque c’est ce qui ne résulte que de la sec­tion par le milieu de *la triple bande de Mœbius*. C’est peut-être ce qui m’excuse d’avoir formulé cette absurdité que j’ai avouée *tout à l’heure*.
+à savoir ce qui résulte de la bande à l’intérieur de *la coupure* ...il n’est pas pos­sible de l’obtenir directement, puisque c’est ce qui ne résulte que de la sec­tion par le milieu de *la triple bande de Mœbius*. C’est peut-être ce qui m’excuse d’avoir formulé cette absurdité que j’ai avouée *tout à l’heure*.
 
 <!-- id: s25-12-0023 -->
 
@@ -130,7 +130,7 @@ C’est la béance entre l’*Imaginaire* et le *Réel*...
 
 <!-- id: s25-12-0032 -->
 
-> si tant est que nous puissions encore la *supporter* ...c’est la béance entre l’*Imaginaire* et le *Réel* qui fait notre *inhibition*.
+si tant est que nous puissions encore la *supporter* ...c’est la béance entre l’*Imaginaire* et le *Réel* qui fait notre *inhibition*.
 
 <!-- id: s25-12-0033 -->
 
@@ -174,7 +174,7 @@ Eh bien ceci, à savoir l’équivalence de ceci qu’on appelle la « *bande d
 
 <!-- id: s25-12-0043 -->
 
-> par une convenable manipulation de ce en quoi consiste le niveau où j’ai écrit 1-2-­3 …il est possible de réduire par une convenable manipulation, ceci à ceci :
+par une convenable manipulation de ce en quoi consiste le niveau où j’ai écrit 1-2-­3 …il est possible de réduire par une convenable manipulation, ceci à ceci :
 
 <!-- id: s25-12-0044 -->
 
@@ -242,7 +242,7 @@ Je ne m’y suis pas aventuré pour rien, ne serait-ce qu’en ceci que la prima
 
 <!-- id: s25-12-0060 -->
 
-> c’est-à-dire de ce que j’appelle en l’occasion : *les choses* …la primauté du tissu est essentiellement ce qui est nécessité par la mise en valeur de ce qu’il en est de l’étoffe d’une psychanalyse.
+c’est-à-dire de ce que j’appelle en l’occasion : *les choses* …la primauté du tissu est essentiellement ce qui est nécessité par la mise en valeur de ce qu’il en est de l’étoffe d’une psychanalyse.
 
 <!-- id: s25-12-0061 -->
 

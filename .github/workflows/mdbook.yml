@@ -40,11 +40,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Test AI reader
-        run: |
-          node tests/test_lacan_ai_core.js
-          python3 -m unittest discover -s tests -p test_lacan_ai_mdbook.py
-
       - name: Verify Obsidian plugin bundle
         working-directory: .obsidian/plugins/lacan-translation-helper
         run: |

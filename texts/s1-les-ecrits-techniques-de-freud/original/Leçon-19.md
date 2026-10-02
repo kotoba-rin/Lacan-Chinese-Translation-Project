@@ -14,7 +14,7 @@ Je pense que vous avez compris ce que je vous ai montré, je le résume, à quel
 
 <!-- id: s1-19-0003 -->
 
-> comme harmonique saturante essentiellement du désir naturel, cette relation à un objet qui est un objet de satisfaction
+comme harmonique saturante essentiellement du désir naturel, cette relation à un objet qui est un objet de satisfaction
 
 <!-- id: s1-19-0004 -->
 
@@ -26,9 +26,9 @@ J’ai essayé de vous le démontrerdans la phénoménologie de la relation per�
 
 <!-- id: s1-19-0006 -->
 
-> telle que je vous en ai montré la dernière fois, et que je vais vous répéter ce qui consti­tue essentiellement
->
-> son incertitude, son équilibre instable, le caractère essen­tiellement critique
+telle que je vous en ai montré la dernière fois, et que je vais vous répéter ce qui consti­tue essentiellement
+
+son incertitude, son équilibre instable, le caractère essen­tiellement critique
 
 <!-- id: s1-19-0007 -->
 
@@ -72,9 +72,9 @@ Elle est approfondissante en effet, en ceci que dans cette *béance* du désir h
 
 <!-- id: s1-19-0017 -->
 
-> souvenez-vous de cette prodigieuse analyse de l’homosexualité qui se développe dans PROUST sur le plan du mythe
->
-> d’Albertine. Peu importe que ce personnage soit féminin, la structure de la relation est éminemment homosexuelle
+souvenez-vous de cette prodigieuse analyse de l’homosexualité qui se développe dans PROUST sur le plan du mythe
+
+d’Albertine. Peu importe que ce personnage soit féminin, la structure de la relation est éminemment homosexuelle
 
 <!-- id: s1-19-0018 -->
 
@@ -310,7 +310,7 @@ Comment un auteur si subtil, aussi fin, aussi délicat praticien, aussi admirabl
 
 <!-- id: s1-19-0076 -->
 
-> le mot « émotion » fait toujours mieux image, alors on parle d’émotions
+le mot « émotion » fait toujours mieux image, alors on parle d’émotions
 
 <!-- id: s1-19-0077 -->
 
@@ -326,7 +326,7 @@ Alors nous parlons *du drapeau national, du lion et de la licorne britanniques, 
 
 <!-- id: s1-19-0080 -->
 
-> et nous allons le voir quand il va amener des exemples concrets, com­ment il faut examiner la question de *symbole*
+et nous allons le voir quand il va amener des exemples concrets, com­ment il faut examiner la question de *symbole*
 
 <!-- id: s1-19-0081 -->
 
@@ -374,9 +374,9 @@ Un monsieur qui vient le voir, il est là au bord de l’analyse. Nous connais­
 
 <!-- id: s1-19-0092 -->
 
-> dont je suis en train de diffamer les positions théoriques, et Dieu sait si je ne le fais qu’à regret,
->
-> mais c’est essentiel, car il s’agit de savoir où on va
+dont je suis en train de diffamer les positions théoriques, et Dieu sait si je ne le fais qu’à regret,
+
+mais c’est essentiel, car il s’agit de savoir où on va
 
 <!-- id: s1-19-0093 -->
 
@@ -392,7 +392,11 @@ C’est une expérience clinique, ça nous arrive, ces choses-là, et il faut to
 
 <!-- id: s1-19-0096 -->
 
-> « *C’est curieux, vous me racontez des tas de choses, fort intéressantes, mais moi je dois vous dire que votre histoire : je n’y com­prends rien.* »
+<div class="text-quotation">
+
+« *C’est curieux, vous me racontez des tas de choses, fort intéressantes, mais moi je dois vous dire que votre histoire : je n’y com­prends rien.* »
+
+</div>
 
 <!-- id: s1-19-0097 -->
 
@@ -480,9 +484,9 @@ Car si ses paroles l’engagent, il va falloir qu’elle se mette - comme l’ex
 
 <!-- id: s1-19-0118 -->
 
-> bien entendu, tout ça n’est pas dit tout à fait comme je vous le dis,
->
-> mais suffisamment pour rendre légitime ce que je mets là en relief
+bien entendu, tout ça n’est pas dit tout à fait comme je vous le dis,
+
+mais suffisamment pour rendre légitime ce que je mets là en relief
 
 <!-- id: s1-19-0119 -->
 
@@ -510,7 +514,7 @@ Et Dieu sait si la dialectique de l’adulte s’ar­range, là, pour déraper !
 
 <!-- id: s1-19-0125 -->
 
-> ce n’est pas moi qui le dis, c’est lui, je ne fais que commenter le texte, et il a raison
+ce n’est pas moi qui le dis, c’est lui, je ne fais que commenter le texte, et il a raison
 
 <!-- id: s1-19-0126 -->
 

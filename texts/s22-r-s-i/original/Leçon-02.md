@@ -34,7 +34,7 @@ Encore faut-il...
 
 <!-- id: s22-02-0008 -->
 
-> pour qu’on puisse dire qu’il y en a tant ...encore faut-il fonder cette unité sur le *signe *:
+pour qu’on puisse dire qu’il y en a tant ...encore faut-il fonder cette unité sur le *signe *:
 
 <!-- id: s22-02-0009 -->
 
@@ -58,7 +58,7 @@ Encore faut-il distinguer, dans ce sens d’*autre,* l’autre fait d’une dist
 
 <!-- id: s22-02-0014 -->
 
-> quelque part dans les « *Nouvelles Conférences... »...*une chose qui est censée contenir - contenir quoi ? - c’est drôle à dire : c’est les pulsions. C’est ça qu’il appelle le *Ça*.
+quelque part dans les « *Nouvelles Conférences... »...*une chose qui est censée contenir - contenir quoi ? - c’est drôle à dire : c’est les pulsions. C’est ça qu’il appelle le *Ça*.
 
 <!-- id: s22-02-0015 -->
 
@@ -102,7 +102,7 @@ Seulement, il y a un autre Autre...
 
 <!-- id: s22-02-0025 -->
 
-> celui que j’ai marqué d’un grand A ...qui lui se définit de n’avoir pas le moindre rapport, si petit que vous l’imaginiez.
+celui que j’ai marqué d’un grand A ...qui lui se définit de n’avoir pas le moindre rapport, si petit que vous l’imaginiez.
 
 <!-- id: s22-02-0026 -->
 
@@ -150,7 +150,7 @@ C’est que pour ce qu’il en est de la pratique analytique, c’est de là que
 
 <!-- id: s22-02-0037 -->
 
-> il faut bien le dire : le plus difficile de ce que j’ai eu à introduire ...*ce quelque chose* qui est par moi défini, structuré, comme le *Symbolique*, c’est de l’équi­voque, fondamentale à ce *ce quelque chose* dont il s’agit sous ce terme du *Symbolique*, que toujours vous opérez, je parle à ceux qui sont ici dignes du nom d’analyste.
+il faut bien le dire : le plus difficile de ce que j’ai eu à introduire ...*ce quelque chose* qui est par moi défini, structuré, comme le *Symbolique*, c’est de l’équi­voque, fondamentale à ce *ce quelque chose* dont il s’agit sous ce terme du *Symbolique*, que toujours vous opérez, je parle à ceux qui sont ici dignes du nom d’analyste.
 
 <!-- id: s22-02-0038 -->
 
@@ -178,7 +178,7 @@ Et ceci résulte de la seule notion d’*Imaginaire*, en tant que le départ de 
 
 <!-- id: s22-02-0044 -->
 
-> je veux dire : tout ce qui pour lui se représente ...n’est que le reflet de son organisme.
+je veux dire : tout ce qui pour lui se représente ...n’est que le reflet de son organisme.
 
 <!-- id: s22-02-0045 -->
 
@@ -202,19 +202,19 @@ Cette dimension s’introduit de ce quelque chose que la langue, et pas n’impo
 
 <!-- id: s22-02-0050 -->
 
-> ceci pour remettre à leur place ceux qui, à la latine, lui imputent justement cette imbécillité ...c’est justement la seule qui au lieu de foutre là *un terme opaque* comme le νοῦς \[nouss\], ou autre métaphore d’on ne sait quoi...
+ceci pour remettre à leur place ceux qui, à la latine, lui imputent justement cette imbécillité ...c’est justement la seule qui au lieu de foutre là *un terme opaque* comme le νοῦς \[nouss\], ou autre métaphore d’on ne sait quoi...
 
 <!-- id: s22-02-0051 -->
 
-> d’un savoir dont lui, pour sûr, nous ne savons pas s’il existe, puisque c’est le savoir supposé par le *Réel*.
->
-> Le savoir de Dieu, c’est certain qu’il *ex-siste*. Nous avons assez de peine à nous donner pour l’épeler,
->
-> il existe, mais seulement au sens que j’inscris du terme « *ex-sistence »*, à l’écrire autrement qu’il ne se fait
->
-> d’habitude : il « *siste* » peut-être, *mais on ne sait pas où*, tout ce qu’on peut dire,
->
-> c’est que *ce qui consiste* n’en donne nul témoignage ...alors il y a quelque chose d’un tout petit peu frappant à voir que la langue soupçonnée d’être « *la plus bête* » est justement celle-là qui forge ce terme « *intelligere* »*, lire entre les lignes*, à savoir *ailleurs* que la façon dont le *Symbolique s’écrit*.
+d’un savoir dont lui, pour sûr, nous ne savons pas s’il existe, puisque c’est le savoir supposé par le *Réel*.
+
+Le savoir de Dieu, c’est certain qu’il *ex-siste*. Nous avons assez de peine à nous donner pour l’épeler,
+
+il existe, mais seulement au sens que j’inscris du terme « *ex-sistence »*, à l’écrire autrement qu’il ne se fait
+
+d’habitude : il « *siste* » peut-être, *mais on ne sait pas où*, tout ce qu’on peut dire,
+
+c’est que *ce qui consiste* n’en donne nul témoignage ...alors il y a quelque chose d’un tout petit peu frappant à voir que la langue soupçonnée d’être « *la plus bête* » est justement celle-là qui forge ce terme « *intelligere* »*, lire entre les lignes*, à savoir *ailleurs* que la façon dont le *Symbolique s’écrit*.
 
 <!-- id: s22-02-0052 -->
 
@@ -226,7 +226,7 @@ Sans le langage, pas le moindre soup­çon ne pourrait nous venir de cette *imb�
 
 <!-- id: s22-02-0054 -->
 
-> je vous le rappelle, de l’avoir dit tout à l’heure, mais ça vous a fait ni chaud ni froid ...nous témoigne d’être vivant.
+je vous le rappelle, de l’avoir dit tout à l’heure, mais ça vous a fait ni chaud ni froid ...nous témoigne d’être vivant.
 
 <!-- id: s22-02-0055 -->
 
@@ -250,13 +250,13 @@ La seule chose qui fait que je persévère...
 
 <!-- id: s22-02-0060 -->
 
-> et vous savez que je ne persé­vère pas sans y regarder à deux fois,
->
-> je vous ai dit la dernière fois ce en quoi j’hésitais à remettre ça cette année ...c’est qu’il y a quelque chose que je crois avoir saisi...
+et vous savez que je ne persé­vère pas sans y regarder à deux fois,
+
+je vous ai dit la dernière fois ce en quoi j’hésitais à remettre ça cette année ...c’est qu’il y a quelque chose que je crois avoir saisi...
 
 <!-- id: s22-02-0061 -->
 
-> je peux même pas dire avec mes mains, avec mes pieds ...c’est l’entrée en jeu de cette trace que dessine, ce qui bien appa­remment n’est pas aisément supporté, notamment par les analystes, c’est l’expérience analytique.
+je peux même pas dire avec mes mains, avec mes pieds ...c’est l’entrée en jeu de cette trace que dessine, ce qui bien appa­remment n’est pas aisément supporté, notamment par les analystes, c’est l’expérience analytique.
 
 <!-- id: s22-02-0062 -->
 
@@ -268,7 +268,7 @@ Il y a quelque chose qui s’est produit pourtant...
 
 <!-- id: s22-02-0064 -->
 
-> je vous en fais part comme ça, parce que je me laisse entraîner ...naturellement je ne pouvais rien leur expliquer de tout ça, puisque pour eux j’étais un *phénomène*.
+je vous en fais part comme ça, parce que je me laisse entraîner ...naturellement je ne pouvais rien leur expliquer de tout ça, puisque pour eux j’étais un *phénomène*.
 
 <!-- id: s22-02-0065 -->
 
@@ -328,7 +328,7 @@ Il est en somme de la vague...
 
 <!-- id: s22-02-0079 -->
 
-> si vous me permettez d’employer un terme qui aurait pu me tenter ...d’écri­re les lettres dans un autre ordre, au lieu de RSI : « RIS », ça aurait fait un « *ris* », le fameux « *ris de l’eau* », sur lequel justement, quelque part dans mes *Écrits,* j’équivoque.
+si vous me permettez d’employer un terme qui aurait pu me tenter ...d’écri­re les lettres dans un autre ordre, au lieu de RSI : « RIS », ça aurait fait un « *ris* », le fameux « *ris de l’eau* », sur lequel justement, quelque part dans mes *Écrits,* j’équivoque.
 
 <!-- id: s22-02-0080 -->
 
@@ -336,7 +336,7 @@ J’ai recherché la page tout à l’heure...
 
 <!-- id: s22-02-0081 -->
 
-> il y avait quel­qu’un là, un copain du premier rang, qui les avait ces *Écrits...*je l’ai trou­vé : c’est à la page 166 que je joue sur ce *ris d’eau* \[*rideau*\], voire à y impliquer « *mon cher ami Leiris dominant...* » je ne sais pas quoi [^3].
+il y avait quel­qu’un là, un copain du premier rang, qui les avait ces *Écrits...*je l’ai trou­vé : c’est à la page 166 que je joue sur ce *ris d’eau* \[*rideau*\], voire à y impliquer « *mon cher ami Leiris dominant...* » je ne sais pas quoi [^3].
 
 <!-- id: s22-02-0082 -->
 
@@ -368,7 +368,7 @@ C’est bien en ça que m’était précieux que m’accom­pagne une personne, 
 
 <!-- id: s22-02-0089 -->
 
-> je ne lui ai pas demandé ...à ce niveau précis du phénomène, du phénomène dit « *lacanien* » a pu s’apercevoir, pré­cisément là, au niveau de ce que j’avais à dire, de ce que je viens mainte­nant d’énoncer, à savoir que ce phénomène je l’ai simplement, cette fois-là, *démontré* par le fait que de là, de cette attroupement j’ai reçu des questions, et que *là seulement* est le phénomène.
+je ne lui ai pas demandé ...à ce niveau précis du phénomène, du phénomène dit « *lacanien* » a pu s’apercevoir, pré­cisément là, au niveau de ce que j’avais à dire, de ce que je viens mainte­nant d’énoncer, à savoir que ce phénomène je l’ai simplement, cette fois-là, *démontré* par le fait que de là, de cette attroupement j’ai reçu des questions, et que *là seulement* est le phénomène.
 
 <!-- id: s22-02-0090 -->
 
@@ -392,7 +392,7 @@ C’est à savoir que je n’ai *trouvé* - pour dire le mot - qu’une seule fa
 
 <!-- id: s22-02-0095 -->
 
-> à ces 3 termes : *Réel, Symbolique, Imaginaire,...*commune mesure, qu’à les nouer de ce nœud bobo, borroméen.
+à ces 3 termes : *Réel, Symbolique, Imaginaire,...*commune mesure, qu’à les nouer de ce nœud bobo, borroméen.
 
 <!-- id: s22-02-0096 -->
 
@@ -404,7 +404,7 @@ Car c’est bien là que nous retrouverons tout le temps la question : qu’est-
 
 <!-- id: s22-02-0098 -->
 
-> de ces choses que dans un temps, j’ai désignées de « ronds de ficelle* »...*qu’est-ce qui distingue chacun des autres ?
+de ces choses que dans un temps, j’ai désignées de « ronds de ficelle* »...*qu’est-ce qui distingue chacun des autres ?
 
 <!-- id: s22-02-0099 -->
 
@@ -416,13 +416,13 @@ Et c’est en quoi nous avons l’espoir*...*
 
 <!-- id: s22-02-0101 -->
 
-> un espoir - mon Dieu - sur quoi vous pouvez faire fonds, parce que l’espoir il n’est que pour moi
->
-> dans cette affaire. Et si je n’avais pas la réponse, comme vous le savez, je ne poserais pas la question *...*nous avons l’espoir...
+un espoir - mon Dieu - sur quoi vous pouvez faire fonds, parce que l’espoir il n’est que pour moi
+
+dans cette affaire. Et si je n’avais pas la réponse, comme vous le savez, je ne poserais pas la question *...*nous avons l’espoir...
 
 <!-- id: s22-02-0102 -->
 
-> je vous laisse l’espoir à court terme, il n’y en a pas d’autre ...que nous fassions cette année un pas ensemble, un pas qui seulement consiste en ceci :
+je vous laisse l’espoir à court terme, il n’y en a pas d’autre ...que nous fassions cette année un pas ensemble, un pas qui seulement consiste en ceci :
 
 <!-- id: s22-02-0103 -->
 
@@ -514,7 +514,7 @@ Je vous l’ai indiqué déjà en son temps : il y a très probablement une qua
 
 <!-- id: s22-02-0125 -->
 
-> *d’infinie au sens du numérable* ...puisque vous n’avez un instant qu’à supposer la façon suivante de faire une boucle : pour vous apercevoir que vous pouvez la multiplier indéfiniment. Vous y êtes ?
+*d’infinie au sens du numérable* ...puisque vous n’avez un instant qu’à supposer la façon suivante de faire une boucle : pour vous apercevoir que vous pouvez la multiplier indéfiniment. Vous y êtes ?
 
 <!-- id: s22-02-0126 -->
 
@@ -538,7 +538,7 @@ J’avance dès aujourd’hui...
 
 <!-- id: s22-02-0131 -->
 
-> ce que dans la suite je me permettrai de démontrer ...j’avance ceci : *le nœud borroméen*, en tant qu’il se suppor­te du nombre 3*, est du registre de l’Imaginaire*.
+ce que dans la suite je me permettrai de démontrer ...j’avance ceci : *le nœud borroméen*, en tant qu’il se suppor­te du nombre 3*, est du registre de l’Imaginaire*.
 
 <!-- id: s22-02-0132 -->
 
@@ -546,7 +546,7 @@ C’est en tant que *l’Imaginaire s’enracine des 3 dimensions de l’espace.
 
 <!-- id: s22-02-0133 -->
 
-> j’avance ceci qui ne va nulle part se conjurer avec une « esthétique transcendantale » *...*c’est au contraire parce que le nœud borroméen appartient à l’*Imaginaire*, c’est-à-dire supporte la triade de *l’Imaginaire, du Symbolique et du Réel*, c’est en tant que cette triade existe de ce que s’y conjoigne l’addition de l’*Imaginaire,* que l’espace en tant que sen­sible se trouve réduit à ce minimum de 3 dimensions, soit de son attache au *Symbolique* et au *Réel*.
+j’avance ceci qui ne va nulle part se conjurer avec une « esthétique transcendantale » *...*c’est au contraire parce que le nœud borroméen appartient à l’*Imaginaire*, c’est-à-dire supporte la triade de *l’Imaginaire, du Symbolique et du Réel*, c’est en tant que cette triade existe de ce que s’y conjoigne l’addition de l’*Imaginaire,* que l’espace en tant que sen­sible se trouve réduit à ce minimum de 3 dimensions, soit de son attache au *Symbolique* et au *Réel*.
 
 <!-- id: s22-02-0134 -->
 
@@ -582,11 +582,11 @@ Je voudrais vous faire remarquer qu’il n’est nullement impliqué dans la not
 
 <!-- id: s22-02-0142 -->
 
-> qu’il s’agisse de ronds de ficelle ou de tores ...qu’il est tout aussi concevable que conformément à l’intui­tion qui fut celle de Desargues dans la géométrie ordinaire, ces ronds s’ouvrent, ou pour le dire simplement, deviennent des cordes censées...
+qu’il s’agisse de ronds de ficelle ou de tores ...qu’il est tout aussi concevable que conformément à l’intui­tion qui fut celle de Desargues dans la géométrie ordinaire, ces ronds s’ouvrent, ou pour le dire simplement, deviennent des cordes censées...
 
 <!-- id: s22-02-0143 -->
 
-> pourquoi pas ? Rien ne nous empêche de le poser comme un postulat ...se rejoindre - pourquoi pas ? - à l’infini.
+pourquoi pas ? Rien ne nous empêche de le poser comme un postulat ...se rejoindre - pourquoi pas ? - à l’infini.
 
 <!-- id: s22-02-0144 -->
 
@@ -606,7 +606,7 @@ Est-ce qu’il n’y a pas...
 
 <!-- id: s22-02-0148 -->
 
-> dans la définition que donne la géométrie euclidienne, du point comme de l’intersection de deux droites ...quelque chose... je me permettrai de dire : quelque chose qui pèche ?
+dans la définition que donne la géométrie euclidienne, du point comme de l’intersection de deux droites ...quelque chose... je me permettrai de dire : quelque chose qui pèche ?
 
 <!-- id: s22-02-0149 -->
 
@@ -650,7 +650,7 @@ C’est clair ici, du fait que nous pouvons voir que, avec deux droites infinies
 
 <!-- id: s22-02-0159 -->
 
-> quelque part, entre ce nœud et l’infini ...se recouper que d’une seule façon :
+quelque part, entre ce nœud et l’infini ...se recouper que d’une seule façon :
 
 <!-- id: s22-02-0160 -->
 
@@ -718,7 +718,7 @@ Nous avons : *jouissance*. Il s’agit de savoir - ces deux jouissances :
 
 <!-- id: s22-02-0176 -->
 
-> nous sommes amenés à l’y référer, mais est-ce sûr ? *...*si le *Réel* c’est la vie, la jouissance, pour autant qu’elle participe de l’*Imaginaire* du sens, le jouir de la vie pour tout dire, c’est quelque chose que nous pouvons situer dans ceci, qui notons-le, n’est pas moins un point que le point central, le point dit de *l’objet(a),* puisqu’il conjoint à l’occasion trois surfaces qui également se coincent.
+nous sommes amenés à l’y référer, mais est-ce sûr ? *...*si le *Réel* c’est la vie, la jouissance, pour autant qu’elle participe de l’*Imaginaire* du sens, le jouir de la vie pour tout dire, c’est quelque chose que nous pouvons situer dans ceci, qui notons-le, n’est pas moins un point que le point central, le point dit de *l’objet(a),* puisqu’il conjoint à l’occasion trois surfaces qui également se coincent.
 
 <!-- id: s22-02-0177 -->
 
@@ -754,9 +754,9 @@ Comment est-il concevable que l’être, présumé n’avoir pas le langage, se 
 
 <!-- id: s22-02-0185 -->
 
-> à savoir cette surface, pour la topologiser de la façon dont je vous ai dit
->
-> que c’est assurément seulement sur deux dimensions que ceci se figure ...comment l’*inhibition* peut avoir affaire à ce qui est effet d’arrêt qui résulte de son intrusion dans le champ du *Symbolique*.
+à savoir cette surface, pour la topologiser de la façon dont je vous ai dit
+
+que c’est assurément seulement sur deux dimensions que ceci se figure ...comment l’*inhibition* peut avoir affaire à ce qui est effet d’arrêt qui résulte de son intrusion dans le champ du *Symbolique*.
 
 <!-- id: s22-02-0186 -->
 
@@ -784,7 +784,7 @@ C’est pour autant que ce *Symbolique*...
 
 <!-- id: s22-02-0192 -->
 
-> tel que je l’ai dessiné ici, doit se compléter ici, et pourquoi est-ce extérieur : c’est ce que j’aurai à manipuler pour vous dans la suite ...c’est pour autant que *l’inconscient* est pour tout dire ce qui répond du *symptôme*.
+tel que je l’ai dessiné ici, doit se compléter ici, et pourquoi est-ce extérieur : c’est ce que j’aurai à manipuler pour vous dans la suite ...c’est pour autant que *l’inconscient* est pour tout dire ce qui répond du *symptôme*.
 
 <!-- id: s22-02-0193 -->
 
@@ -792,7 +792,7 @@ C’est pour autant que ce nœud...
 
 <!-- id: s22-02-0194 -->
 
-> ce nœud, lui bien réel quoique seulement reflété dans l’*Imaginaire...*c’est pour autant que ce nœud rend compte d’un certain nombre d’inscriptions par quoi des surfaces se répondent, que nous verrons que l’inconscient peut être responsable de la réduction du *symptôme*.
+ce nœud, lui bien réel quoique seulement reflété dans l’*Imaginaire...*c’est pour autant que ce nœud rend compte d’un certain nombre d’inscriptions par quoi des surfaces se répondent, que nous verrons que l’inconscient peut être responsable de la réduction du *symptôme*.
 
 ## Notes
 

@@ -46,7 +46,7 @@ Je l'ai ouvert, si on est un peu attentif et rigoureux, on ne peut pas dire que 
 
 <!-- id: s19b-03-0011 -->
 
-> du fait que si il n'y en avait pas de 2^ème^, il n'y aurait pas de 1^ère^ \...qui se trouve donc être celle qui inaugure la *répétition *: c'est l'histoire du 0 et du 1.
+du fait que si il n'y en avait pas de 2^ème^, il n'y aurait pas de 1^ère^ \...qui se trouve donc être celle qui inaugure la *répétition *: c'est l'histoire du 0 et du 1.
 
 <!-- id: s19b-03-0012 -->
 
@@ -62,13 +62,13 @@ Quoi qu'il en soit il y a évidemment un monde, du point de vue de ce qui nous i
 
 <!-- id: s19b-03-0015 -->
 
-> et ce qui nous intéresse est analytique \...entre la 2^ème^ fois qui est ce que j'ai cru devoir souligner du terme de « *nachträg* » : *l'après-coup*\...
+et ce qui nous intéresse est analytique \...entre la 2^ème^ fois qui est ce que j'ai cru devoir souligner du terme de « *nachträg* » : *l'après-coup*\...
 
 <!-- id: s19b-03-0016 -->
 
-> c'est évidemment des choses que je ne reprendrai - pas ici - qu'à mon séminaire,
->
-> j'essaierai d'y revenir cette année.
+c'est évidemment des choses que je ne reprendrai - pas ici - qu'à mon séminaire,
+
+j'essaierai d'y revenir cette année.
 
 <!-- id: s19b-03-0017 -->
 
@@ -136,7 +136,7 @@ C'est tout à fait frappant que cette question\...
 
 <!-- id: s19b-03-0033 -->
 
-> que j'ai posée assez tôt et que je ne crois pas vaine \...n'ait soulevé, apparemment au moins, aucun remou, au moins parmi mes corréligionnaires, je veux dire ceux qui se sont instruits à l'ombre de la Trinité.
+que j'ai posée assez tôt et que je ne crois pas vaine \...n'ait soulevé, apparemment au moins, aucun remou, au moins parmi mes corréligionnaires, je veux dire ceux qui se sont instruits à l'ombre de la Trinité.
 
 <!-- id: s19b-03-0034 -->
 
@@ -148,11 +148,11 @@ La question se pose de savoir si c'est parce qu'ils y sont ci-dedans\...
 
 <!-- id: s19b-03-0036 -->
 
-> ce que j'ai peine à croire \...qu'ils n'entendent rien, ou\...
+ce que j'ai peine à croire \...qu'ils n'entendent rien, ou\...
 
 <!-- id: s19b-03-0037 -->
 
-> ce qui est de beaucoup plus probable \...qu'ils sont d'un athéisme assez intégral pour que cette question ne leur fasse aucun effet.
+ce qui est de beaucoup plus probable \...qu'ils sont d'un athéisme assez intégral pour que cette question ne leur fasse aucun effet.
 
 <!-- id: s19b-03-0038 -->
 
@@ -180,7 +180,7 @@ C'est une idée folle parce qu'en réalité *les filles du monde* n'ont jamais s
 
 <!-- id: s19b-03-0044 -->
 
-> il en parle aussi \...les garçons pour ça s'y entendent : ils se tiennent tous par la main.
+il en parle aussi \...les garçons pour ça s'y entendent : ils se tiennent tous par la main.
 
 <!-- id: s19b-03-0045 -->
 
@@ -286,7 +286,7 @@ Surtout qu'en fin de compte vous comptez dans l'affaire\...
 
 <!-- id: s19b-03-0070 -->
 
-> quoique je m'efforce \...vous comptez au moins pour ceci que je ne parle pas de là où je comptais parler puisque je comptais parler à l'amphithéâtre Magnan et que je parle à la chapelle.
+quoique je m'efforce \...vous comptez au moins pour ceci que je ne parle pas de là où je comptais parler puisque je comptais parler à l'amphithéâtre Magnan et que je parle à la chapelle.
 
 <!-- id: s19b-03-0071 -->
 
@@ -370,9 +370,9 @@ On omet trop que l'architecte, quelque effort qu'il fasse pour en sortir, il est
 
 <!-- id: s19b-03-0091 -->
 
-> c'est quand même très frappant que depuis, ce dont je parlais tout à l'heure,
->
-> à savoir *le christianisme*, penche peut-être par là un peu trop vers *l'hégélianisme* \...mais *c'est fait pour entourer un vide*.
+c'est quand même très frappant que depuis, ce dont je parlais tout à l'heure,
+
+à savoir *le christianisme*, penche peut-être par là un peu trop vers *l'hégélianisme* \...mais *c'est fait pour entourer un vide*.
 
 <!-- id: s19b-03-0092 -->
 
@@ -388,7 +388,11 @@ Nous avons le sentiment que pendant toute cette période que nous épinglons de 
 
 <!-- id: s19b-03-0095 -->
 
-> « *C'est aux grandes Panathénées qu'Adymante et Glaucon* - vous savez la suite - *ont rencontré le nommé Céphale* ».
+<div class="text-quotation">
+
+« *C'est aux grandes Panathénées qu'Adymante et Glaucon* - vous savez la suite - *ont rencontré le nommé Céphale* ».
+
+</div>
 
 <!-- id: s19b-03-0096 -->
 
@@ -496,7 +500,7 @@ Parce qu'il est évident que si *je parle aux murs*, je m'y suis mis tard, à sa
 
 <!-- id: s19b-03-0122 -->
 
-> *c'est une réponse à* *la personne* -- \[*cf. supra,* *la personne* X : « *On devrait tous sortir si vous parlez aux murs »*\] \...bien avant ça j'ai entendu, j'ai entendu des choses tout à fait décisives, enfin qui l'on été pour moi.
+*c'est une réponse à* *la personne* -- \[*cf. supra,* *la personne* X : « *On devrait tous sortir si vous parlez aux murs »*\] \...bien avant ça j'ai entendu, j'ai entendu des choses tout à fait décisives, enfin qui l'on été pour moi.
 
 <!-- id: s19b-03-0123 -->
 
@@ -512,7 +516,7 @@ Pour tout dire, et lui rendre hommage de quelque chose où en somme elle n'est p
 
 <!-- id: s19b-03-0126 -->
 
-> qui n'était pas le sien bien sûr \...que j'ai été aspiré vers la psychanalyse. Il n'y a pas qu'elle bien sûr.
+qui n'était pas le sien bien sûr \...que j'ai été aspiré vers la psychanalyse. Il n'y a pas qu'elle bien sûr.
 
 <!-- id: s19b-03-0127 -->
 
@@ -528,13 +532,13 @@ Il m'arrive après d'en parler avec quelques personnes qui ont assisté à cette
 
 <!-- id: s19b-03-0130 -->
 
-> enfin cette présentation qui consiste à les écouter,
->
-> ce qui évidemment ne leur arrive pas à tous les coins de rue \...il arrive qu'en en parlant après\...
+enfin cette présentation qui consiste à les écouter,
+
+ce qui évidemment ne leur arrive pas à tous les coins de rue \...il arrive qu'en en parlant après\...
 
 <!-- id: s19b-03-0131 -->
 
-> avec quelques personnes qui étaient là pour m'accompagner, pour en attraper ce qu'elles pouvaient \...il m'arrive en en parlant après, d'en apprendre, parce que c'est pas tout de suite, il faut évidemment qu'on accorde sa voix à la renvoyer sur les murs.
+avec quelques personnes qui étaient là pour m'accompagner, pour en attraper ce qu'elles pouvaient \...il m'arrive en en parlant après, d'en apprendre, parce que c'est pas tout de suite, il faut évidemment qu'on accorde sa voix à la renvoyer sur les murs.
 
 <!-- id: s19b-03-0132 -->
 
@@ -602,11 +606,11 @@ C'est une très grave question, que je n'ai vu sérieusement formulée que - out
 
 <!-- id: s19b-03-0148 -->
 
-> dont nous nous contenterons pour l'instant de saisir qu'elle part de l'appareil grammatical \...a à faire avec quelque chose qui s'imposerait, je veux pas dire d'*intuitif*\...
+dont nous nous contenterons pour l'instant de saisir qu'elle part de l'appareil grammatical \...a à faire avec quelque chose qui s'imposerait, je veux pas dire d'*intuitif*\...
 
 <!-- id: s19b-03-0149 -->
 
-> car ce serait retomber sur la pente de l'intuition, c'est-à-dire de quelque chose de *visuel* \...mais avec quelque chose justement de *résonnant*.
+car ce serait retomber sur la pente de l'intuition, c'est-à-dire de quelque chose de *visuel* \...mais avec quelque chose justement de *résonnant*.
 
 <!-- id: s19b-03-0150 -->
 
@@ -622,7 +626,7 @@ Cha­cun sait qu'elle ne suffit pas et qu'il lui a fallu depuis quelques temps\.
 
 <!-- id: s19b-03-0153 -->
 
-> on aurait pu le voir venir depuis un bout de temps, depuis Platon précisément \...mettre en jeu la mathématique.
+on aurait pu le voir venir depuis un bout de temps, depuis Platon précisément \...mettre en jeu la mathématique.
 
 <!-- id: s19b-03-0154 -->
 
@@ -650,9 +654,9 @@ Ce que je peux dire, c'est que par un certain biais qui est celui d'une logique,
 
 <!-- id: s19b-03-0160 -->
 
-> dans *un parcours* qui pour partir de ma malade Aimée, a abouti à - l'avant-dernière année de séminaire -
->
-> énoncer sous le titre de « *quatre discours* », vers quoi converge le crible d'une certaine *actualité* \...que j'ai pu, par cette voie - quoi faire ? - donner au moins la raison des murs.
+dans *un parcours* qui pour partir de ma malade Aimée, a abouti à - l'avant-dernière année de séminaire -
+
+énoncer sous le titre de « *quatre discours* », vers quoi converge le crible d'une certaine *actualité* \...que j'ai pu, par cette voie - quoi faire ? - donner au moins la raison des murs.
 
 <!-- id: s19b-03-0161 -->
 
@@ -696,7 +700,7 @@ C'est bien pour ça que deux siècles après ce glissement\...
 
 <!-- id: s19b-03-0171 -->
 
-> appelons-­le « *calviniste* », après tout pourquoi pas ? \...la castration a fait enfin son entrée irrup­tive sous la forme du *discours analytique*.
+appelons-­le « *calviniste* », après tout pourquoi pas ? \...la castration a fait enfin son entrée irrup­tive sous la forme du *discours analytique*.
 
 <!-- id: s19b-03-0172 -->
 
@@ -708,7 +712,7 @@ Voilà au nom de quoi\...
 
 <!-- id: s19b-03-0174 -->
 
-> porté par une sorte, une espèce de *brouhaha* qui s'était produit quelque part du côté des psychanalystes \...j'ai été amené à introduire ce qu'il y avait d'évident dans la nouveauté psychanalytique, à savoir qu'il s'agissait de *langage* et que c'était un nouveau *discours*.
+porté par une sorte, une espèce de *brouhaha* qui s'était produit quelque part du côté des psychanalystes \...j'ai été amené à introduire ce qu'il y avait d'évident dans la nouveauté psychanalytique, à savoir qu'il s'agissait de *langage* et que c'était un nouveau *discours*.
 
 <!-- id: s19b-03-0175 -->
 
@@ -728,9 +732,9 @@ Ils y arrivent\...
 
 <!-- id: s19b-03-0179 -->
 
-> comme les billes de certains jeux de *tric-trac*
->
-> comme ça que vous connaissez bien, qui finissent par tomber dans le machin \...ils y arrivent sans avoir la moindre idée de ce qui leur arrive.
+comme les billes de certains jeux de *tric-trac*
+
+comme ça que vous connaissez bien, qui finissent par tomber dans le machin \...ils y arrivent sans avoir la moindre idée de ce qui leur arrive.
 
 <!-- id: s19b-03-0180 -->
 
@@ -746,7 +750,7 @@ Comment se fait-il que j'ai accueilli comme ça\...
 
 <!-- id: s19b-03-0183 -->
 
-> parmi toutes sortes d'autres choses sensées \...une sorte d'exergue du genre ritournelle, que vous trouverez dans\... vous n'avez qu'à regarder au niveau de la partie IV, pour autant que je me souvienne, un truc que j'avais trouvé dans un almanach, ça s'appelait : *Paris en l'an 2000*.
+parmi toutes sortes d'autres choses sensées \...une sorte d'exergue du genre ritournelle, que vous trouverez dans\... vous n'avez qu'à regarder au niveau de la partie IV, pour autant que je me souvienne, un truc que j'avais trouvé dans un almanach, ça s'appelait : *Paris en l'an 2000*.
 
 <!-- id: s19b-03-0184 -->
 
@@ -762,9 +766,13 @@ enfin qui vient là dans cette histoire de « *Fonction et champ*\... » comme
 
 <!-- id: s19b-03-0187 -->
 
-> « *Entre l'homme et la femme, il y a l'amour,*
->
-> *Entre l'homme et l'amour,*\...
+<div class="text-quotation">
+
+« *Entre l'homme et la femme, il y a l'amour,*
+
+*Entre l'homme et l'amour,*\...
+
+</div>
 
 <!-- id: s19b-03-0188 -->
 
@@ -772,9 +780,9 @@ Vous l'avez jamais remarqué, hein, ce truc-là, dans son machin !
 
 <!-- id: s19b-03-0189 -->
 
-> \...*il y a un monde.*
->
-> *Entre l'homme et le monde, il y a un mur.* » \[Antoine Tudal in « *Paris en l'an 2000* »\]
+\...*il y a un monde.*
+
+*Entre l'homme et le monde, il y a un mur.* » \[Antoine Tudal in « *Paris en l'an 2000* »\]
 
 <!-- id: s19b-03-0190 -->
 
@@ -790,7 +798,11 @@ Comme ici je parle aux murs, je fais pas de cours, alors je vais pas vous dire c
 
 <!-- id: s19b-03-0193 -->
 
-> « *Entre l'homme et la femme, il y a l'amour*\...
+<div class="text-quotation">
+
+« *Entre l'homme et la femme, il y a l'amour*\...
+
+</div>
 
 <!-- id: s19b-03-0194 -->
 
@@ -798,7 +810,7 @@ Comme ici je parle aux murs, je fais pas de cours, alors je vais pas vous dire c
 
 <!-- id: s19b-03-0195 -->
 
-> \...*Entre l'homme et l'amour, il y a un monde*\...
+\...*Entre l'homme et l'amour, il y a un monde*\...
 
 <!-- id: s19b-03-0196 -->
 
@@ -886,11 +898,11 @@ Il s'agit de voir ce qu'il va y avoir maintenant\...
 
 <!-- id: s19b-03-0217 -->
 
-> comment on peut l'écrire \...ce qu'il va y avoir entre l'homme, c'est-à-dire lui, le « *pouète* »\...
+comment on peut l'écrire \...ce qu'il va y avoir entre l'homme, c'est-à-dire lui, le « *pouète* »\...
 
 <!-- id: s19b-03-0218 -->
 
-> le « *pouète de Pouasie* », comme disait le cher Léon-Paul Fargue \...qu'est-ce qu'il y a entre lui et l'amour ?
+le « *pouète de Pouasie* », comme disait le cher Léon-Paul Fargue \...qu'est-ce qu'il y a entre lui et l'amour ?
 
 <!-- id: s19b-03-0219 -->
 
@@ -922,27 +934,27 @@ C'est pour ça que celui que nous appellerons *l'homme* dans l'occasion, il s'im
 
 <!-- id: s19b-03-0226 -->
 
-> Ce qui nous permet de voir topologiquement tout à fait ce dont il s'agit, c'est que ensuite quand on nous dit :
->
-> « *entre l'homme et le monde* » ce monde substitué à la volatilisation du partenaire sexuel\...
->
-> comment est-ce que c'est arrivé, c'est ce que nous verrons après
->
-> \...ben « *il y a un mur* », c'est-à-dire l'endroit où se produit ce *rebroussement*,
->
-> ce *rebroussement* que j'ai introduit un jour comme signifiant la jonction entre *vérité* et *savoir*.
->
-> J'ai pas dit, moi, que c'était coupé, c'est *un poète de Papouasie* qui dit que c'est un mur.
->
-> *C'est pas un mur : c'est simplement le lieu de la castration.*
->
-> *Ce qui fait que le savoir laisse intact le champ de la vérité, et réciproquement*.
->
-> Seulement ce qu'il faut voir c'est que *ce mur il est partout*, car c'est ce qui définit cette surface,
->
-> c'est que *le cercle ou le point de rebroussement,* disons le cercle puisque là je l'ai représenté par un cercle,
->
-> il est homogène sur toute la surface.
+Ce qui nous permet de voir topologiquement tout à fait ce dont il s'agit, c'est que ensuite quand on nous dit :
+
+« *entre l'homme et le monde* » ce monde substitué à la volatilisation du partenaire sexuel\...
+
+comment est-ce que c'est arrivé, c'est ce que nous verrons après
+
+\...ben « *il y a un mur* », c'est-à-dire l'endroit où se produit ce *rebroussement*,
+
+ce *rebroussement* que j'ai introduit un jour comme signifiant la jonction entre *vérité* et *savoir*.
+
+J'ai pas dit, moi, que c'était coupé, c'est *un poète de Papouasie* qui dit que c'est un mur.
+
+*C'est pas un mur : c'est simplement le lieu de la castration.*
+
+*Ce qui fait que le savoir laisse intact le champ de la vérité, et réciproquement*.
+
+Seulement ce qu'il faut voir c'est que *ce mur il est partout*, car c'est ce qui définit cette surface,
+
+c'est que *le cercle ou le point de rebroussement,* disons le cercle puisque là je l'ai représenté par un cercle,
+
+il est homogène sur toute la surface.
 
 <!-- id: s19b-03-0227 -->
 
@@ -958,11 +970,11 @@ Si je vous montrais tout de suite la sorte de coupure qui suffit à *la volatili
 
 <!-- id: s19b-03-0230 -->
 
-> en tant que spécifique, topologiquement définie \...*la volatiliser* instantanément, vous verriez que c'est pas une surface qu'on se représente, mais que c'est quelque chose qui se définit par certaines *coordonnées*\...
+en tant que spécifique, topologiquement définie \...*la volatiliser* instantanément, vous verriez que c'est pas une surface qu'on se représente, mais que c'est quelque chose qui se définit par certaines *coordonnées*\...
 
 <!-- id: s19b-03-0231 -->
 
-> appelons-les si vous voulez, *vectorielles* \...telles qu'en cha­cun des points de la surface *le rebroussement* soit toujours là, en chacun de ses points.
+appelons-les si vous voulez, *vectorielles* \...telles qu'en cha­cun des points de la surface *le rebroussement* soit toujours là, en chacun de ses points.
 
 <!-- id: s19b-03-0232 -->
 
@@ -990,11 +1002,11 @@ Et qu'est-ce qui passe par ce défilé de la *castration*, c'est quelque chose q
 
 <!-- id: s19b-03-0238 -->
 
-> Ici je parle aux murs voire aux « *(a)murs* » et aux *(a)murs-sements,* ailleurs j'essaie d'en rendre compte.
->
-> Et quelque que puisse être l'usage des murs pour le maintien en forme de la voix, il est clair que les murs,
->
-> pas plus que le reste, ne peuvent avoir de support intuitif, même avec tout l'art de l'architecte à la clé.
+Ici je parle aux murs voire aux « *(a)murs* » et aux *(a)murs-sements,* ailleurs j'essaie d'en rendre compte.
+
+Et quelque que puisse être l'usage des murs pour le maintien en forme de la voix, il est clair que les murs,
+
+pas plus que le reste, ne peuvent avoir de support intuitif, même avec tout l'art de l'architecte à la clé.
 
 <!-- id: s19b-03-0239 -->
 
@@ -1002,7 +1014,7 @@ Chose curieuse, quand j'ai défini ces 4 *discours*, dont je parlais tout à l'h
 
 <!-- id: s19b-03-0240 -->
 
-> au regard de quelque chose qui est autre, pour ne pas dire l'Autre \...que vous n'en êtes que le *supposé*.
+au regard de quelque chose qui est autre, pour ne pas dire l'Autre \...que vous n'en êtes que le *supposé*.
 
 <!-- id: s19b-03-0241 -->
 
@@ -1026,11 +1038,11 @@ Ce qu'elle démontre, c'est justement que *la jouissance* qu'on pourrait dire *s
 
 <!-- id: s19b-03-0246 -->
 
-> qui ne serait pas du sem­blant du sexuel \...celle-là se marque de l'indice\...
+qui ne serait pas du sem­blant du sexuel \...celle-là se marque de l'indice\...
 
 <!-- id: s19b-03-0247 -->
 
-> rien de plus jusqu'à nouvel ordre \...de ce qui ne s'énonce, de ce qui ne s'annonce, que de l'indice de *la castration*.
+rien de plus jusqu'à nouvel ordre \...de ce qui ne s'énonce, de ce qui ne s'annonce, que de l'indice de *la castration*.
 
 <!-- id: s19b-03-0248 -->
 
@@ -1050,7 +1062,7 @@ Ces S, S~1~, S~2~ et ce *a* dont j'ai fait\...
 
 <!-- id: s19b-03-0252 -->
 
-> pour vous pendant quelques mois \...*joujou*, c'est tout de même ça le mur.
+pour vous pendant quelques mois \...*joujou*, c'est tout de même ça le mur.
 
 <!-- id: s19b-03-0253 -->
 
@@ -1070,9 +1082,9 @@ Car ce dont il a à s'occuper c'est quoi ?
 
 <!-- id: s19b-03-0257 -->
 
-> C'est très curieux, cette introduction du danger dans le discours dont s'assied l'ordre social.
->
-> Qu'est-ce que ce danger ?
+C'est très curieux, cette introduction du danger dans le discours dont s'assied l'ordre social.
+
+Qu'est-ce que ce danger ?
 
 <!-- id: s19b-03-0258 -->
 
@@ -1084,13 +1096,13 @@ Car ce dont il a à s'occuper c'est quoi ?
 
 <!-- id: s19b-03-0260 -->
 
-> Quand je vois s'élever de nos jours des protestations contre l'usage qu'on fait\...
->
-> pour appeler les choses par leur nom et aller vite, il est tard
->
-> \...en U.R.S.S. des asiles, ou de quelque chose qui doit avoir un nom plus prétentieux, pour y mettre à l'abri,
->
-> disons les opposants, mais il est bien évident qu'ils sont dangereux pour l'ordre social où ils s'insèrent.
+Quand je vois s'élever de nos jours des protestations contre l'usage qu'on fait\...
+
+pour appeler les choses par leur nom et aller vite, il est tard
+
+\...en U.R.S.S. des asiles, ou de quelque chose qui doit avoir un nom plus prétentieux, pour y mettre à l'abri,
+
+disons les opposants, mais il est bien évident qu'ils sont dangereux pour l'ordre social où ils s'insèrent.
 
 <!-- id: s19b-03-0261 -->
 
@@ -1102,7 +1114,7 @@ La première chose que peut être les psychia­tres\...
 
 <!-- id: s19b-03-0263 -->
 
-> s'il en est quelques uns ici \...pourraient recevoir, je ne dis pas de *ma parole*, qui n'a rien à voir en l'affaire, mais de *la réflexion* de ma voix sur ces murs, c'est de savoir d'abord ce qui les spécifie comme psychiatres.
+s'il en est quelques uns ici \...pourraient recevoir, je ne dis pas de *ma parole*, qui n'a rien à voir en l'affaire, mais de *la réflexion* de ma voix sur ces murs, c'est de savoir d'abord ce qui les spécifie comme psychiatres.
 
 <!-- id: s19b-03-0264 -->
 
@@ -1134,11 +1146,11 @@ Si je peux, avec le temps, avoir réussi *à édifier*\...
 
 <!-- id: s19b-03-0271 -->
 
-> avec mon S *barré* \[**S**\], mon S *indice* 1 \[**S~1~**\], mon S *indice* 2 \[**S~2~**\], et *l'objet(a)*, \...*la « réson » d'être*\...
+avec mon S *barré* \[**S**\], mon S *indice* 1 \[**S~1~**\], mon S *indice* 2 \[**S~2~**\], et *l'objet(a)*, \...*la « réson » d'être*\...
 
 <!-- id: s19b-03-0272 -->
 
-> de quelque façon que vous l'écriviez \...peut-être qu'après tout vous ne prendrez pas la *réflexion* de ma voix sur ces murs pour une simple *réflexion* personnelle. \[la réson de ce qui cloche dans la raison\]
+de quelque façon que vous l'écriviez \...peut-être qu'après tout vous ne prendrez pas la *réflexion* de ma voix sur ces murs pour une simple *réflexion* personnelle. \[la réson de ce qui cloche dans la raison\]
 
 <!-- id: s19b-03-0273 -->
 

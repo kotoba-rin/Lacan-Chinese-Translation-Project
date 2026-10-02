@@ -86,7 +86,11 @@ max_segment_id: 176
 
 ［德文原文：
 
-> *Auch der Hysteriker und Zwangsneurotiker hat, soweit seine Krankheit reicht, die Beziehung zur Realität aufgegeben. Die Analyse zeigt aber, daß er die erotische Beziehung zu Personen und Dingen keineswegs aufgehoben hat. Er hält sie noch in der Phantasie fest, das heißt, er hat einerseits die realen Objekte durch imaginäre seiner Erinnerung ersetzt oder sie mit ihnen vermengt, anderseits darauf verzichtet, die motorischen Aktionen zur Erreichung seiner Ziele an diesen Objekten einzuleiten. Für diesen Zustand der Libido sollte man allein den von Jung ohne Unterscheidung gebrauchten Ausdruck: Introversion der Libido gelten lassen. Anders der Paraphreniker. Dieser scheint seine Libido von den Personen und Dingen der Außenwelt wirklich zurückgezogen zu haben, ohne diese durch andere in seiner Phantasie zu ersetzen. Wo dies dann geschieht, scheint es sekundär zu sein und einem Heilungsversuch anzugehören, welcher die Libido zum Objekt zurückführen will...*
+<div class="text-quotation">
+
+*Auch der Hysteriker und Zwangsneurotiker hat, soweit seine Krankheit reicht, die Beziehung zur Realität aufgegeben. Die Analyse zeigt aber, daß er die erotische Beziehung zu Personen und Dingen keineswegs aufgehoben hat. Er hält sie noch in der Phantasie fest, das heißt, er hat einerseits die realen Objekte durch imaginäre seiner Erinnerung ersetzt oder sie mit ihnen vermengt, anderseits darauf verzichtet, die motorischen Aktionen zur Erreichung seiner Ziele an diesen Objekten einzuleiten. Für diesen Zustand der Libido sollte man allein den von Jung ohne Unterscheidung gebrauchten Ausdruck: Introversion der Libido gelten lassen. Anders der Paraphreniker. Dieser scheint seine Libido von den Personen und Dingen der Außenwelt wirklich zurückgezogen zu haben, ohne diese durch andere in seiner Phantasie zu ersetzen. Wo dies dann geschieht, scheint es sekundär zu sein und einem Heilungsversuch anzugehören, welcher die Libido zum Objekt zurückführen will...*
+
+</div>
 
 中文：“癔症患者和强迫神经症患者，就其疾病影响所及，也放弃了同现实的关系。但分析表明，他绝没有取消同人和事物的爱欲关系。他仍把这些关系固定在幻想中；也就是说，一方面，他以记忆中的想象对象替代真实对象，或者把二者混合起来；另一方面，他放弃发动旨在通过这些对象达到自身目标的运动活动。只有对这种力比多状态，才应当采用荣格不加区分使用的‘力比多内倾’一语。妄想痴呆患者的情形则不同。他看起来确实从外部世界的人和事物上撤回了力比多，却没有在幻想中以其他对象取而代之。后来即使发生这种替代，它似乎也属于次级过程，属于一种试图治愈的努力，其目标是使力比多重新回到对象……”］
 

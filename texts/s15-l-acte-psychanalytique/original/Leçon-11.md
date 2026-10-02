@@ -18,7 +18,7 @@ Quelqu’un qui, déjà alerté la dernière fois par les soins de Monsieur Char
 
 <!-- id: s15-11-0004 -->
 
-> qui avait bien voulu la dernière fois tenir la place ici, pour le séminaire fermé de la fin janvier …s’est trouvé par lui sollicité, et de façon d’autant plus légitime que Jacques NASSIF, dont il s’agit, a bien voulu faire, pour le *Bulletin de l’École Freudienne*, le résumé de mon séminaire de l’année dernière, celui sur *La logique du fantasme.*
+qui avait bien voulu la dernière fois tenir la place ici, pour le séminaire fermé de la fin janvier …s’est trouvé par lui sollicité, et de façon d’autant plus légitime que Jacques NASSIF, dont il s’agit, a bien voulu faire, pour le *Bulletin de l’École Freudienne*, le résumé de mon séminaire de l’année dernière, celui sur *La logique du fantasme.*
 
 <!-- id: s15-11-0005 -->
 
@@ -46,9 +46,9 @@ Que nous soyons précisément au point où, dans cette élaboration, cette quest
 
 <!-- id: s15-11-0011 -->
 
-> sur ce quelque chose qui peut s’entendre d’une certaine façon comme 
->
-> « *En toute chose, il y a une logique.* »… personne ne sait bien ce que cela veut dire …dire qu’il y a là une logique interne à quelque chose, qu’on serait là simplement à chercher la logique de la chose, c’est-à-dire que le terme « logique » serait là mis en usage d’une façon en quelque sorte métaphorique.
+sur ce quelque chose qui peut s’entendre d’une certaine façon comme 
+
+« *En toute chose, il y a une logique.* »… personne ne sait bien ce que cela veut dire …dire qu’il y a là une logique interne à quelque chose, qu’on serait là simplement à chercher la logique de la chose, c’est-à-dire que le terme « logique » serait là mis en usage d’une façon en quelque sorte métaphorique.
 
 <!-- id: s15-11-0012 -->
 
@@ -60,11 +60,11 @@ Enfin, ce que j’ai indiqué c’est ceci, c’est qu’il devait y avoir…
 
 <!-- id: s15-11-0014 -->
 
-> et bien sûr, j’espère me montrer en état d’apporter dans ce sens quelque argument …quelque relation, quelque possibilité même de *définir* comme telle la logique…
+et bien sûr, j’espère me montrer en état d’apporter dans ce sens quelque argument …quelque relation, quelque possibilité même de *définir* comme telle la logique…
 
 <!-- id: s15-11-0015 -->
 
-> la logique au sens précis du terme, à savoir cette science qui s’est élaborée, précisée, définie …et en disant « définir » cela ne veut pas dire qu’elle se soit définie du premier pas, du premier coup.
+la logique au sens précis du terme, à savoir cette science qui s’est élaborée, précisée, définie …et en disant « définir » cela ne veut pas dire qu’elle se soit définie du premier pas, du premier coup.
 
 <!-- id: s15-11-0016 -->
 
@@ -80,15 +80,15 @@ J’ai posé l’autre jour qu’il y avait peut-être une définition à laquel
 
 <!-- id: s15-11-0019 -->
 
-> c’est bien ce « on » aussi qui ici méritera d’être retenu et, en quelque sorte,
->
-> signalé d’une parenthèse comme point à élucider pour la suite …c’est quelque chose qui serait de l’ordre - de quoi ? - de la maîtrise ou du débarras, c’est quelquefois la même chose, à l’endroit précisément de ce qu’ici nous pointons dans notre pratique à nous *analystes*, comme le *sujet supposé savoir* : un champ de la science qui aurait précisément pour fin…
+c’est bien ce « on » aussi qui ici méritera d’être retenu et, en quelque sorte,
+
+signalé d’une parenthèse comme point à élucider pour la suite …c’est quelque chose qui serait de l’ordre - de quoi ? - de la maîtrise ou du débarras, c’est quelquefois la même chose, à l’endroit précisément de ce qu’ici nous pointons dans notre pratique à nous *analystes*, comme le *sujet supposé savoir* : un champ de la science qui aurait précisément pour fin…
 
 <!-- id: s15-11-0020 -->
 
-> et même ici il ne serait pas trop de dire « *pour objet* » car le mot « *objet* »
->
-> ici prend toute son ambiguïté d’être interne à l’opération elle-même …disons-le tout de suite, d’exclure de quelque chose, pourtant non seulement d’articulable mais d’articulé, d’exclure comme tel le *sujet supposé savoir.*
+et même ici il ne serait pas trop de dire « *pour objet* » car le mot « *objet* »
+
+ici prend toute son ambiguïté d’être interne à l’opération elle-même …disons-le tout de suite, d’exclure de quelque chose, pourtant non seulement d’articulable mais d’articulé, d’exclure comme tel le *sujet supposé savoir.*
 
 <!-- id: s15-11-0021 -->
 
@@ -96,9 +96,9 @@ C’est une idée, de le définir ainsi, qui ne peut évidemment venir qu’à p
 
 <!-- id: s15-11-0022 -->
 
-> tout au moins nous en sommes… je vous ai suffisamment habitués à poser la question comme ça, à savoir
->
-> à vous apercevoir que dans la psychanalyse, et c’est vraiment là le seul point vif, le seul nœud, la seule difficulté …le point qui à la fois *distingue la psychanalyse et la met profondément en question* comme science, c’est justement cette chose, qui d’ailleurs n’a jamais été à proprement parler critiquée, accrochée comme telle, c’est à savoir : que ce que le savoir construit - ça ne va pas de soi - quelqu’un le savait avant.
+tout au moins nous en sommes… je vous ai suffisamment habitués à poser la question comme ça, à savoir
+
+à vous apercevoir que dans la psychanalyse, et c’est vraiment là le seul point vif, le seul nœud, la seule difficulté …le point qui à la fois *distingue la psychanalyse et la met profondément en question* comme science, c’est justement cette chose, qui d’ailleurs n’a jamais été à proprement parler critiquée, accrochée comme telle, c’est à savoir : que ce que le savoir construit - ça ne va pas de soi - quelqu’un le savait avant.
 
 <!-- id: s15-11-0023 -->
 
@@ -142,7 +142,7 @@ Alors, comme cette sorte de discours a toujours engendré, bien sûr, ce je ne s
 
 <!-- id: s15-11-0033 -->
 
-> ceci étant d’autant plus *déconcertant* qu’elles se produisaient dans la bouche de gens qui devaient être les moins naïfs …du *célèbre pilier de comité de rédaction*, comme ça, qui devrait quand même en savoir un bout *sur ce qui se dit et ce qui ne se dit pas*, qu’on obtienne de lui *ce cri d’enfant* que j’ai reproduit quelque part, à savoir : « *Pourquoi est-ce qu’il ne dit pas le vrai sur le vrai* [^81] ? ».
+ceci étant d’autant plus *déconcertant* qu’elles se produisaient dans la bouche de gens qui devaient être les moins naïfs …du *célèbre pilier de comité de rédaction*, comme ça, qui devrait quand même en savoir un bout *sur ce qui se dit et ce qui ne se dit pas*, qu’on obtienne de lui *ce cri d’enfant* que j’ai reproduit quelque part, à savoir : « *Pourquoi est-ce qu’il ne dit pas le vrai sur le vrai* [^81] ? ».
 
 <!-- id: s15-11-0034 -->
 
@@ -150,7 +150,7 @@ C’est évidemment assez comique et ça donne un petit peu une idée de la mesu
 
 <!-- id: s15-11-0035 -->
 
-> c’est en ces termes que je m’exprimais auprès de MERLEAU-PONTY …dès l’après-midi même du jour où je parlai.
+c’est en ces termes que je m’exprimais auprès de MERLEAU-PONTY …dès l’après-midi même du jour où je parlai.
 
 <!-- id: s15-11-0036 -->
 
@@ -162,9 +162,9 @@ Je veux dire que même à prendre les positions les plus *radicales*, les plus *
 
 <!-- id: s15-11-0038 -->
 
-> même si vous allez au-delà de la conscience thétique, comme on dit, si, à vous mettre dans la conscience non thétique, vous prenez ce recul vis-à-vis de la réalité qui a l’air d’être quelque chose de tout à fait subversif,
->
-> bref si vous faites le pas existentialiste …il y a une chose que vous ne mettez toujours pas en question, c’est à savoir : si ce que vous dites était *vrai avant*.
+même si vous allez au-delà de la conscience thétique, comme on dit, si, à vous mettre dans la conscience non thétique, vous prenez ce recul vis-à-vis de la réalité qui a l’air d’être quelque chose de tout à fait subversif,
+
+bref si vous faites le pas existentialiste …il y a une chose que vous ne mettez toujours pas en question, c’est à savoir : si ce que vous dites était *vrai avant*.
 
 <!-- id: s15-11-0039 -->
 
@@ -176,11 +176,11 @@ Maintenant, après cette introduction, vous allez voir que le discours de NASSIF
 
 <!-- id: s15-11-0041 -->
 
-> et c’est ce que dans la suite de mon discours de cette année j’essaierai de vous montrer …nous donne le tracé, l’indication d’un sentier en quelque sorte, qui est celui qui nous est prédestiné, ce sentier qu’en quelque sorte déjà elle nous préfigurerait dans toute la mesure où ses variations, ses vibrations, ses palpitations, à cette logique, et précisément depuis le temps…
+et c’est ce que dans la suite de mon discours de cette année j’essaierai de vous montrer …nous donne le tracé, l’indication d’un sentier en quelque sorte, qui est celui qui nous est prédestiné, ce sentier qu’en quelque sorte déjà elle nous préfigurerait dans toute la mesure où ses variations, ses vibrations, ses palpitations, à cette logique, et précisément depuis le temps…
 
 <!-- id: s15-11-0042 -->
 
-> corrélatif du *temps de la science*, ce n’est pas pour rien …où elle-même s’est mise à vibrer, à ne plus pouvoir rester sur son assiette aristotélicienne, la façon, en somme, dont elle ne peut pas se débarrasser du sujet supposé savoir, si c’est bien ainsi que nous devons interpréter la difficulté de la mise au point de cette logique qu’on appelle logique mathématique ou logistique.
+corrélatif du *temps de la science*, ce n’est pas pour rien …où elle-même s’est mise à vibrer, à ne plus pouvoir rester sur son assiette aristotélicienne, la façon, en somme, dont elle ne peut pas se débarrasser du sujet supposé savoir, si c’est bien ainsi que nous devons interpréter la difficulté de la mise au point de cette logique qu’on appelle logique mathématique ou logistique.
 
 <!-- id: s15-11-0043 -->
 
@@ -206,7 +206,11 @@ Enfin je suis pris dans cette paraphrase malgré moi du discours de LACAN, et je
 
 <!-- id: s15-11-0048 -->
 
-> « *Enfant, lorsque j’écrivis pour la première fois mon nom, j’eus conscience de commencer un livre.* »
+<div class="text-quotation">
+
+« *Enfant, lorsque j’écrivis pour la première fois mon nom, j’eus conscience de commencer un livre.* »
+
+</div>
 
 <!-- id: s15-11-0049 -->
 
@@ -214,7 +218,11 @@ Et plusieurs pages plus loin :
 
 <!-- id: s15-11-0050 -->
 
-> « *Mon nom est une question, et ma liberté dans mon penchant pour les questions.* »
+<div class="text-quotation">
+
+« *Mon nom est une question, et ma liberté dans mon penchant pour les questions.* »
+
+</div>
 
 <!-- id: s15-11-0051 -->
 
@@ -278,7 +286,7 @@ Mais cette fonction logique de sujet que j’ai fait surgir ici ne peut surgir e
 
 <!-- id: s15-11-0066 -->
 
-> remettant en question cet « *univers du discours* » que la grammaire, pour ainsi dire, sécrète …en ce qu’elle ne tient pas compte de la duplicité du *sujet de l’énoncé* et du *sujet de l’énonciation*.
+remettant en question cet « *univers du discours* » que la grammaire, pour ainsi dire, sécrète …en ce qu’elle ne tient pas compte de la duplicité du *sujet de l’énoncé* et du *sujet de l’énonciation*.
 
 <!-- id: s15-11-0067 -->
 
@@ -302,7 +310,11 @@ Mais justement ce *trait unaire* est nécessairement occulté dans tout univers 
 
 <!-- id: s15-11-0072 -->
 
-> « *Qu’aucun signifiant ne peut se signifier lui-même*. »
+<div class="text-quotation">
+
+« *Qu’aucun signifiant ne peut se signifier lui-même*. »
+
+</div>
 
 <!-- id: s15-11-0073 -->
 
@@ -330,7 +342,7 @@ Mais ce que cette analyse permet d’ores et déjà de voir, c’est que si l’
 
 <!-- id: s15-11-0079 -->
 
-> quoique grevé peut-être d’un passé philosophique lui aussi assez chargé …ne présente pas l’inconvénient de cette ambiguïté liée au concept d’écriture. Mais cela implique, si nous voulons parler de « *logique du fantasme* » que soient élucidés les rapports de ce concept au concept de vérité.
+quoique grevé peut-être d’un passé philosophique lui aussi assez chargé …ne présente pas l’inconvénient de cette ambiguïté liée au concept d’écriture. Mais cela implique, si nous voulons parler de « *logique du fantasme* » que soient élucidés les rapports de ce concept au concept de vérité.
 
 <!-- id: s15-11-0080 -->
 
@@ -342,7 +354,7 @@ Ainsi se pose en effet le problème de savoir s’il est licite d’inscrire dan
 
 <!-- id: s15-11-0082 -->
 
-> qui n’est autre que *la grammaire d’un univers du discours* …la solution inventée par les STOÏCIENS reste *paradoxale*. Elle consiste à se demander comment il faut que *les propositions* s’enchaînent au regard du *vrai* et du *faux*, et à mettre en place une relation d’implication qui fait intervenir deux temps propositionnels, *la protase* et *l’apodose*, et qui permet d’établir que *le vrai* ne saurait impliquer *le faux* sans empêcher pourtant que du *faux*, on puisse déduire aussi bien *le faux* que *le vrai*. C’est l’adage : « *ex falso sequitur quod libet* ».
+qui n’est autre que *la grammaire d’un univers du discours* …la solution inventée par les STOÏCIENS reste *paradoxale*. Elle consiste à se demander comment il faut que *les propositions* s’enchaînent au regard du *vrai* et du *faux*, et à mettre en place une relation d’implication qui fait intervenir deux temps propositionnels, *la protase* et *l’apodose*, et qui permet d’établir que *le vrai* ne saurait impliquer *le faux* sans empêcher pourtant que du *faux*, on puisse déduire aussi bien *le faux* que *le vrai*. C’est l’adage : « *ex falso sequitur quod libet* ».
 
 <!-- id: s15-11-0083 -->
 
@@ -464,7 +476,7 @@ Or, ce manque est inaugural pour l’enfant lorsqu’il découvre avec horreur q
 
 <!-- id: s15-11-0112 -->
 
-> et toute tentative pour rétablir dans la légitimité un univers du discours …consiste - une fois qu’elle s’est donnée par l’écriture une marque - à la raturer dans l’Autre, à présenter cet Autre comme non affecté par la marque. Or cette *marque* qui permet ce rejet dans le *symbolique* n’est en fait que le tenant-lieu de cette trace, inscrite sur le corps même, qu’est la castration. Il est donc ici possible de présenter cette forclusion de la marque du grand Autre comme un refus motivé et sans cesse repris de ce qui constitue un acte.
+et toute tentative pour rétablir dans la légitimité un univers du discours …consiste - une fois qu’elle s’est donnée par l’écriture une marque - à la raturer dans l’Autre, à présenter cet Autre comme non affecté par la marque. Or cette *marque* qui permet ce rejet dans le *symbolique* n’est en fait que le tenant-lieu de cette trace, inscrite sur le corps même, qu’est la castration. Il est donc ici possible de présenter cette forclusion de la marque du grand Autre comme un refus motivé et sans cesse repris de ce qui constitue un acte.
 
 <!-- id: s15-11-0113 -->
 
@@ -530,7 +542,7 @@ Ce « *pas je *», c’est le Ça, lequel peut se définir par tout ce qui, da
 
 <!-- id: s15-11-0128 -->
 
-> dans cette logique régie par la négation portant tour à tour sur l’Autre et sur le sujet …qu’*une branche de l’alternative où est pris ce sujet quand il passe à l’acte*, et si elle se définit par tout ce qui dans le discours « *n’est pas je* », c’est bien parce que *le sujet en est l’effet*.
+dans cette logique régie par la négation portant tour à tour sur l’Autre et sur le sujet …qu’*une branche de l’alternative où est pris ce sujet quand il passe à l’acte*, et si elle se définit par tout ce qui dans le discours « *n’est pas je* », c’est bien parce que *le sujet en est l’effet*.
 
 <!-- id: s15-11-0129 -->
 
@@ -554,9 +566,9 @@ Mais ce concept de « *grammaire pure* »…
 
 <!-- id: s15-11-0134 -->
 
-> loin de s’articuler comme dans HUSSERL avec la logique de la contradiction,
->
-> laquelle s’articule à son tour sur une logique de la vérité …dans la mesure où ces concepts de *logique* et de *grammaire* tels que je suis en train de les faire fonctionner ici, dans la mesure où cette « *grammaire pure* » permet de bien situer les *fantasmes* et le *moi* qui en est la matrice, ce concept de « *grammaire* » donc doit fonctionner de façon inverse, c’est-à-dire permettre de constater qu’il y a de l’agrammatical - *quelque chose que HUSSERL rejetterait donc* - qui est quand même encore du logique, et que *la langue bien faite du fantasme ne peut empêcher ces manifestations de vérité que sont le mot d’esprit, l’acte manqué ou le rêve*, manifestations par rapport auxquelles le sujet ne peut se situer que du côté d’un *je ne suis pas.*
+loin de s’articuler comme dans HUSSERL avec la logique de la contradiction,
+
+laquelle s’articule à son tour sur une logique de la vérité …dans la mesure où ces concepts de *logique* et de *grammaire* tels que je suis en train de les faire fonctionner ici, dans la mesure où cette « *grammaire pure* » permet de bien situer les *fantasmes* et le *moi* qui en est la matrice, ce concept de « *grammaire* » donc doit fonctionner de façon inverse, c’est-à-dire permettre de constater qu’il y a de l’agrammatical - *quelque chose que HUSSERL rejetterait donc* - qui est quand même encore du logique, et que *la langue bien faite du fantasme ne peut empêcher ces manifestations de vérité que sont le mot d’esprit, l’acte manqué ou le rêve*, manifestations par rapport auxquelles le sujet ne peut se situer que du côté d’un *je ne suis pas.*
 
 <!-- id: s15-11-0135 -->
 
@@ -616,9 +628,9 @@ Mais il faut descendre dans le temps pour constater, d’une part, que *la véri
 
 <!-- id: s15-11-0149 -->
 
-> et qui n’est autre que ce que les mathématiciens appellent effectivité,
->
-> d’où le fait qu’un modèle permette d’interpréter un domaine …que cette *vérité* n’a aucune prise sur le *réel*. En revanche, nous retrouvons ici le modèle de l’aliénation qui pourrait s’imager sous la forme d’un « *ce n’est ni pareil ni pas pareil* ». Or, ce n’est là rien d’autre que le graphe de la double boucle qui sert à représenter depuis fort longtemps dans LACAN la solidarité d’un effet directif à *un effet rétroactif*.
+et qui n’est autre que ce que les mathématiciens appellent effectivité,
+
+d’où le fait qu’un modèle permette d’interpréter un domaine …que cette *vérité* n’a aucune prise sur le *réel*. En revanche, nous retrouvons ici le modèle de l’aliénation qui pourrait s’imager sous la forme d’un « *ce n’est ni pareil ni pas pareil* ». Or, ce n’est là rien d’autre que le graphe de la double boucle qui sert à représenter depuis fort longtemps dans LACAN la solidarité d’un effet directif à *un effet rétroactif*.
 
 <!-- id: s15-11-0150 -->
 
@@ -666,7 +678,7 @@ De plus, le modèle de la satisfaction que FREUD nous propose n’est pas assur�
 
 <!-- id: s15-11-0161 -->
 
-> nous n’avons pas affaire à cette solidarité d’un effet actif et rétroactif …mais précisément le point où la satisfaction s’avère la plus déchirante pour le sujet, celle de l’acte sexuel, et c’est par rapport à cette satisfaction que toutes les autres sont à mettre en dépendance au sein de *la structure.*
+nous n’avons pas affaire à cette solidarité d’un effet actif et rétroactif …mais précisément le point où la satisfaction s’avère la plus déchirante pour le sujet, celle de l’acte sexuel, et c’est par rapport à cette satisfaction que toutes les autres sont à mettre en dépendance au sein de *la structure.*
 
 <!-- id: s15-11-0162 -->
 
@@ -750,11 +762,19 @@ Dans le moment où nous sommes de notre énoncé sur l’acte psychanalytique, e
 
 <!-- id: s15-11-0182 -->
 
-> « *tout homme n’est pas psychanalyste* », principe de l’institution des sociétés qui portent ce nom ou de dire que :
+<div class="text-quotation">
+
+« *tout homme n’est pas psychanalyste* », principe de l’institution des sociétés qui portent ce nom ou de dire que :
+
+</div>
 
 <!-- id: s15-11-0183 -->
 
-> « *tout homme est non psychanalyste* » ?
+<div class="text-quotation">
+
+« *tout homme est non psychanalyste* » ?
+
+</div>
 
 <!-- id: s15-11-0184 -->
 
@@ -790,7 +810,7 @@ Quand nous essayons de faire la fonction qui correspond à la proposition prédi
 
 <!-- id: s15-11-0192 -->
 
-> il n’était pas admis comme algorithme à l’époque, mais qu’importe …et nous mettons dans la parenthèse : +, …, c’est-à-dire la réunion, la non confusion, contraire de l’*identification*, je l’écris sous la forme qui vous est plus familière : V. Donc nous avons :
+il n’était pas admis comme algorithme à l’époque, mais qu’importe …et nous mettons dans la parenthèse : +, …, c’est-à-dire la réunion, la non confusion, contraire de l’*identification*, je l’écris sous la forme qui vous est plus familière : V. Donc nous avons :
 
 <!-- id: s15-11-0193 -->
 
@@ -822,9 +842,13 @@ C’est autour de cette mise en question du sujet comme tel, à savoir sur la di
 
 <!-- id: s15-11-0200 -->
 
-> «* Pas tous ne sont psychanalystes(non licet omnibus « psychanalystas » esse)*
->
-> *ou bien, il n’en est aucun qui soit psychanalyste. *»
+<div class="text-quotation">
+
+«* Pas tous ne sont psychanalystes(non licet omnibus « psychanalystas » esse)*
+
+*ou bien, il n’en est aucun qui soit psychanalyste. *»
+
+</div>
 
 <!-- id: s15-11-0201 -->
 
@@ -836,7 +860,7 @@ Il y a bien là un rapport, et le rapport le plus étroit, de cette béance du d
 
 <!-- id: s15-11-0203 -->
 
-> et je vous le rappellerai incidemment pour ceux qui n’en auraient pas la moindre idée …*qu’il n’y a pas d’univers du discours*.
+et je vous le rappellerai incidemment pour ceux qui n’en auraient pas la moindre idée …*qu’il n’y a pas d’univers du discours*.
 
 <!-- id: s15-11-0204 -->
 
@@ -856,7 +880,7 @@ J’illustre. Ce n’est pas parce que l’inconscient ne connaît pas la contra
 
 <!-- id: s15-11-0208 -->
 
-> ce n’est pas étonnant, nous le touchons du doigt, comment ça se fait, ça ne se fait pas n’importe comment : tout de suite, je le touche à ceci, parce que c’est au principe même de ce qui est inscrit dans les premières formulations de ce dont il s’agit concernant l’acte sexuel …c’est que l’inconscient, nous dit-on, c’est ça : l’Œdipe - le rapport de l’homme et de la femme - il le métaphorise.
+ce n’est pas étonnant, nous le touchons du doigt, comment ça se fait, ça ne se fait pas n’importe comment : tout de suite, je le touche à ceci, parce que c’est au principe même de ce qui est inscrit dans les premières formulations de ce dont il s’agit concernant l’acte sexuel …c’est que l’inconscient, nous dit-on, c’est ça : l’Œdipe - le rapport de l’homme et de la femme - il le métaphorise.
 
 <!-- id: s15-11-0209 -->
 
@@ -880,7 +904,7 @@ Aussi bien ai-je besoin de vous rappeler *à cette occasion*, parce que c’est 
 
 <!-- id: s15-11-0214 -->
 
-> ce qu’il ne faudrait pas croire du tout que je déprécie …la fureur copulatoire. Il faut dire que ce n’est pas à la portée de *tout le monde*. Il faut être dans un certain ordre de civilisation qui ne s’est jamais engagée dans une certaine dialectique que j’essaierai de vous définir plus précisément un jour incidemment comme étant la chrétienne. Il est très étrange que, chaque fois que vous voyez ces personnages qui s’étreignent de façon si véritablement saisissante et qui n’a rien à faire avec l’esthétisme véritablement dégueulasse qui est celui des habituelles représentations de ce qui se passe *à ce niveau dans notre* *peinture*.
+ce qu’il ne faudrait pas croire du tout que je déprécie …la fureur copulatoire. Il faut dire que ce n’est pas à la portée de *tout le monde*. Il faut être dans un certain ordre de civilisation qui ne s’est jamais engagée dans une certaine dialectique que j’essaierai de vous définir plus précisément un jour incidemment comme étant la chrétienne. Il est très étrange que, chaque fois que vous voyez ces personnages qui s’étreignent de façon si véritablement saisissante et qui n’a rien à faire avec l’esthétisme véritablement dégueulasse qui est celui des habituelles représentations de ce qui se passe *à ce niveau dans notre* *peinture*.
 
 <!-- id: s15-11-0215 -->
 

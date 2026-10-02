@@ -54,9 +54,9 @@ Là il faut que je fasse une parenthèse, j’ai dit la tendance que cette *lett
 
 <!-- id: s24-10-0013 -->
 
-> *dont ce pied indique l’ac­crochage au sol*,
->
-> ce qui est une métaphore, une métaphore *piètre*, ce qui va bien avec « *pied »* ... *la tendance que cette lettre a à rejoindre le Réel, c’est son affaire*.
+*dont ce pied indique l’ac­crochage au sol*,
+
+ce qui est une métaphore, une métaphore *piètre*, ce qui va bien avec « *pied »* ... *la tendance que cette lettre a à rejoindre le Réel, c’est son affaire*.
 
 <!-- id: s24-10-0014 -->
 
@@ -68,7 +68,7 @@ Ce que son analysant, à l’analyste en question, *croit* lui dire, n’a rien 
 
 <!-- id: s24-10-0016 -->
 
-> et ça, Freud s’en est aperçu ...n’a rien à faire avec *la vérité*.
+et ça, Freud s’en est aperçu ...n’a rien à faire avec *la vérité*.
 
 <!-- id: s24-10-0017 -->
 
@@ -88,11 +88,11 @@ C’est comme ça qu’il s’exprime formellement, à savoir qu’à mesure que
 
 <!-- id: s24-10-0021 -->
 
-> comme je l’ai fait remarquer en invoquant mon petit-fils ...l’apprentissage qu’il a subi d’une langue entre autres, qui est pour lui *lalangue*...
+comme je l’ai fait remarquer en invoquant mon petit-fils ...l’apprentissage qu’il a subi d’une langue entre autres, qui est pour lui *lalangue*...
 
 <!-- id: s24-10-0022 -->
 
-> que j’écris, on le sait, en un seul mot ...*dans l’espoir de « ferrer elle », Lalangue*, ce qui équivoque avec *« faire-réel ».*
+que j’écris, on le sait, en un seul mot ...*dans l’espoir de « ferrer elle », Lalangue*, ce qui équivoque avec *« faire-réel ».*
 
 <!-- id: s24-10-0023 -->
 
@@ -108,13 +108,13 @@ Je vous signale qu’il y a des sociologues qui ont énoncé sous le patronage d
 
 <!-- id: s24-10-0026 -->
 
-> qui n’est pas le Needham qui s’est occupé avec tellement de soin de la science chinoise,
->
-> qui est un autre Needham : le Needham de la science chinoise ne s’appelle pas Robert ...lui, le Needham en question, s’imagine faire mieux que les autres en faisant la remarque, d’ailleurs juste, que la parenté est à mettre en question, c’est-à-dire qu’elle comporte dans les faits autre chose, une plus grande variété, une plus grande diversité que ce que...
+qui n’est pas le Needham qui s’est occupé avec tellement de soin de la science chinoise,
+
+qui est un autre Needham : le Needham de la science chinoise ne s’appelle pas Robert ...lui, le Needham en question, s’imagine faire mieux que les autres en faisant la remarque, d’ailleurs juste, que la parenté est à mettre en question, c’est-à-dire qu’elle comporte dans les faits autre chose, une plus grande variété, une plus grande diversité que ce que...
 
 <!-- id: s24-10-0027 -->
 
-> il faut bien le dire, c’est à ça qu’il se réfère ... que ce que les analysants en disent.
+il faut bien le dire, c’est à ça qu’il se réfère ... que ce que les analysants en disent.
 
 <!-- id: s24-10-0028 -->
 
@@ -138,7 +138,7 @@ De sorte que « *La parenté en question »...*
 
 <!-- id: s24-10-0033 -->
 
-> c’est un livre paru au Seuil ...que « *La parenté en question »* met en valeur ce fait primordial que c’est de *lalangue* qu’il s’agit.
+c’est un livre paru au Seuil ...que « *La parenté en question »* met en valeur ce fait primordial que c’est de *lalangue* qu’il s’agit.
 
 <!-- id: s24-10-0034 -->
 
@@ -150,7 +150,7 @@ Il faudrait là s’apercevoir que ce que j’appellerai dans cette occa­sion *
 
 <!-- id: s24-10-0036 -->
 
-> puisque « *culture* » est aussi une métaphore ... la métaphore de l’« *agri* » du même nom - n’est-ce pas ? - il faudrait substituer à l’« *agri* » en question les termes de « *bouillon de culture* », ça serait mieux d’appeler « *culture* » un bouillon de langage.
+puisque « *culture* » est aussi une métaphore ... la métaphore de l’« *agri* » du même nom - n’est-ce pas ? - il faudrait substituer à l’« *agri* » en question les termes de « *bouillon de culture* », ça serait mieux d’appeler « *culture* » un bouillon de langage.
 
 <!-- id: s24-10-0037 -->
 
@@ -158,7 +158,7 @@ Il faudrait là s’apercevoir que ce que j’appellerai dans cette occa­sion *
 
 <!-- id: s24-10-0038 -->
 
-> je m’efforce là de pousser les choses un petit peu plus loin. ...qu’est-ce que veut dire asso­cier librement ?
+je m’efforce là de pousser les choses un petit peu plus loin. ...qu’est-ce que veut dire asso­cier librement ?
 
 <!-- id: s24-10-0039 -->
 
@@ -166,7 +166,7 @@ Est-ce que c’est une garantie...
 
 <!-- id: s24-10-0040 -->
 
-> ça semble quand même être une garantie ...que le sujet qui énonce va dire des choses qui aient un peu plus de valeur ?
+ça semble quand même être une garantie ...que le sujet qui énonce va dire des choses qui aient un peu plus de valeur ?
 
 <!-- id: s24-10-0041 -->
 
@@ -174,7 +174,7 @@ Mais enfin chacun sait que la *ratiocination*...
 
 <!-- id: s24-10-0042 -->
 
-> ce qu’on appelle comme ça en psychanalyse ... la *ratiocination* a plus de poids que le raisonnement.
+ce qu’on appelle comme ça en psychanalyse ... la *ratiocination* a plus de poids que le raisonnement.
 
 <!-- id: s24-10-0043 -->
 
@@ -186,7 +186,7 @@ Il faudrait tâcher, comme l’énonce Freud, de voir sur quoi est fondé ce que
 
 <!-- id: s24-10-0045 -->
 
-> qui ne fonctionne qu’à l’usure ...dont est supposée *la Vérité*.
+qui ne fonctionne qu’à l’usure ...dont est supposée *la Vérité*.
 
 <!-- id: s24-10-0046 -->
 
@@ -194,7 +194,7 @@ Il faudrait voir, s’ouvrir à la dimension de *la vérité* comme variable, c�
 
 <!-- id: s24-10-0047 -->
 
-> en condensant comme ça les deux mots ...j’appellerais *la varité*, avec un petit « *é* » avalé, *la variété*.
+en condensant comme ça les deux mots ...j’appellerais *la varité*, avec un petit « *é* » avalé, *la variété*.
 
 <!-- id: s24-10-0048 -->
 
@@ -202,7 +202,7 @@ Par exemple, je vais donner quelque chose qui a bien son prix : *si un sujet an
 
 <!-- id: s24-10-0049 -->
 
-> comme je viens d’en faire par exemple, à propos de la « *varité* » ...*qu’est-ce qu’on peut dire de ce néologisme* ?
+comme je viens d’en faire par exemple, à propos de la « *varité* » ...*qu’est-ce qu’on peut dire de ce néologisme* ?
 
 <!-- id: s24-10-0050 -->
 
@@ -222,7 +222,7 @@ Bref, il faut quand même soulever la question de savoir si la psycha­nalyse...
 
 <!-- id: s24-10-0054 -->
 
-> je vous demande pardon, je demande pardon au moins aux psychanalystes ...ça n’est pas ce qu’on peut appeler un « *autisme à deux* » ? \[*cf. « délire à deux »*\]
+je vous demande pardon, je demande pardon au moins aux psychanalystes ...ça n’est pas ce qu’on peut appeler un « *autisme à deux* » ? \[*cf. « délire à deux »*\]
 
 <!-- id: s24-10-0055 -->
 
@@ -230,11 +230,11 @@ Il y a quand même une chose qui permet de forcer cet *autisme,* c’est jus­te
 
 <!-- id: s24-10-0056 -->
 
-> c’est justement là où je suis, c’est-à-dire capable de me faire entendre de tout le monde ici ...c’est là ce qui est le garant...
+c’est justement là où je suis, c’est-à-dire capable de me faire entendre de tout le monde ici ...c’est là ce qui est le garant...
 
 <!-- id: s24-10-0057 -->
 
-> c’est bien pour ça que j’ai mis à l’ordre du jour « *Transmission de la psychanalyse* » ...c’est bien ce qui est *le garant que la psychanalyse ne boîte pas irréductiblement de* *ce que j’ai appelé tout à l’heure* « *autisme à deux* ».
+c’est bien pour ça que j’ai mis à l’ordre du jour « *Transmission de la psychanalyse* » ...c’est bien ce qui est *le garant que la psychanalyse ne boîte pas irréductiblement de* *ce que j’ai appelé tout à l’heure* « *autisme à deux* ».
 
 <!-- id: s24-10-0058 -->
 
@@ -270,7 +270,7 @@ Il est un fait que l’*élangue*...
 
 <!-- id: s24-10-0066 -->
 
-> j’écris ça : *é.l.a.n.g.u.e* ...que l’*élangue* s’élongent à se traduire l’une dans l’autre, mais que le seul savoir reste le savoir d’élangues, que la parenté ne se traduit pas, en *fait*, mais elle n’a de commun que ceci : que les analysants ne parlent que de ça.
+j’écris ça : *é.l.a.n.g.u.e* ...que l’*élangue* s’élongent à se traduire l’une dans l’autre, mais que le seul savoir reste le savoir d’élangues, que la parenté ne se traduit pas, en *fait*, mais elle n’a de commun que ceci : que les analysants ne parlent que de ça.
 
 <!-- id: s24-10-0067 -->
 
@@ -330,7 +330,7 @@ Même l’art abstrait se *titrise* comme les autres...
 
 <!-- id: s24-10-0081 -->
 
-> j’ai pas voulu dire titularise parce que ça ne voudrait rien dire ...même l’art abstrait a des titres, des titres qu’il s’efforce de faire aussi vides qu’il peut, mais quand même ça se *titrise*.
+j’ai pas voulu dire titularise parce que ça ne voudrait rien dire ...même l’art abstrait a des titres, des titres qu’il s’efforce de faire aussi vides qu’il peut, mais quand même ça se *titrise*.
 
 <!-- id: s24-10-0082 -->
 
@@ -370,7 +370,7 @@ Freud était un débile mental, comme tout le monde...
 
 <!-- id: s24-10-0091 -->
 
-> et comme moi-même à l’occasion, en particulier ...en outre : névrosé. Un *obsédé de la sexualité* comme on l’a dit.
+et comme moi-même à l’occasion, en particulier ...en outre : névrosé. Un *obsédé de la sexualité* comme on l’a dit.
 
 <!-- id: s24-10-0092 -->
 
@@ -462,7 +462,7 @@ Si vous êtes psychanalyste, vous verrez que c’est *le forçage par où un psy
 
 <!-- id: s24-10-0114 -->
 
-> mais ce qui résonne ça va pas loin, c’est plutôt mou, le sens ça tamponne, ...mais *à l’aide de ce qu’on appelle « l’écriture poétique »* *vous pouvez avoir la dimension de ce que pourrait être, de ce que pourrait être l’interprétation analytique*.
+mais ce qui résonne ça va pas loin, c’est plutôt mou, le sens ça tamponne, ...mais *à l’aide de ce qu’on appelle « l’écriture poétique »* *vous pouvez avoir la dimension de ce que pourrait être, de ce que pourrait être l’interprétation analytique*.
 
 <!-- id: s24-10-0115 -->
 
@@ -478,7 +478,7 @@ Non pas que toute poésie...
 
 <!-- id: s24-10-0118 -->
 
-> je parle de la nôtre spécialement ...que toute poésie soit telle que nous puissions l’*imaginer* par l’*écriture*, par l’*écriture* poétique chinoise.
+je parle de la nôtre spécialement ...que toute poésie soit telle que nous puissions l’*imaginer* par l’*écriture*, par l’*écriture* poétique chinoise.
 
 <!-- id: s24-10-0119 -->
 
@@ -518,7 +518,7 @@ Ce n’est pas du côté de la logique articulée...
 
 <!-- id: s24-10-0128 -->
 
-> quoique, à l’occasion, j’y glisse ...ce n’est pas du côté de la logique articulée qu’il faut sentir la portée de notre *dire*, non pas, bien sûr... non pas, bien sûr qu’il y ait quelque part quelque chose qui mérite de faire deux versants.
+quoique, à l’occasion, j’y glisse ...ce n’est pas du côté de la logique articulée qu’il faut sentir la portée de notre *dire*, non pas, bien sûr... non pas, bien sûr qu’il y ait quelque part quelque chose qui mérite de faire deux versants.
 
 <!-- id: s24-10-0129 -->
 
@@ -526,7 +526,7 @@ Ce que toujours nous énonçons...
 
 <!-- id: s24-10-0130 -->
 
-> parce que c’est la loi du discours ...ce que toujours nous énonçons comme « *système d’opposition* », c’est cela même qu’il nous faudrait surmonter, et la première chose serait d’éteindre la notion de *« *Beau » : nous n’avons rien à dire de *« *Beau ».
+parce que c’est la loi du discours ...ce que toujours nous énonçons comme « *système d’opposition* », c’est cela même qu’il nous faudrait surmonter, et la première chose serait d’éteindre la notion de *« *Beau » : nous n’avons rien à dire de *« *Beau ».
 
 <!-- id: s24-10-0131 -->
 

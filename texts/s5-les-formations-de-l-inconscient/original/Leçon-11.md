@@ -222,9 +222,9 @@ du *message* pour la mère. « Lui » *il a la parole ici*, et ce qu’il dit,
 
 <!-- id: s5-11-0047 -->
 
-> dont je vais vous dire, *à ma très grande surprise*, que *les linguistes* ne la distinguent pas comme telle,
->
-> en quoi on voit qu’il y a bien intérêt à ce que nous fassions notre jonc­tion avec *les linguistes*
+dont je vais vous dire, *à ma très grande surprise*, que *les linguistes* ne la distinguent pas comme telle,
+
+en quoi on voit qu’il y a bien intérêt à ce que nous fassions notre jonc­tion avec *les linguistes*
 
 <!-- id: s5-11-0048 -->
 
@@ -343,7 +343,11 @@ d’avoir un pénis pour plus tard. C’est vraiment, nous l’avons dit la dern
 
 <!-- id: s5-11-0070 -->
 
-> « *Ah, le beau billet qu’a La Châtre !* »
+<div class="text-quotation">
+
+« *Ah, le beau billet qu’a La Châtre !* »
+
+</div>
 
 <!-- id: s5-11-0071 -->
 
@@ -501,7 +505,11 @@ et quand il dit « *il n’est pas rare* », il ne s’exprime pas au hasard : 
 
 <!-- id: s5-11-0102 -->
 
-> « *Il est fréquent -* c’est une des possibilités *- qu’une inversion soit déterminée par la chute d’un père trop interdicteur.* »
+<div class="text-quotation">
+
+« *Il est fréquent -* c’est une des possibilités *- qu’une inversion soit déterminée par la chute d’un père trop interdicteur.* »
+
+</div>
 
 <!-- id: s5-11-0103 -->
 

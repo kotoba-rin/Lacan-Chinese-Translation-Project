@@ -22,7 +22,7 @@ D’autre part, ces gens qui s’efforcent de redécouvrir qu’assurément ce q
 
 <!-- id: s3-24-0005 -->
 
-> je le souligne, parce que certains, pour être à une vue superficielle, essaient de répandre la pensée contraire
+je le souligne, parce que certains, pour être à une vue superficielle, essaient de répandre la pensée contraire
 
 <!-- id: s3-24-0006 -->
 
@@ -42,9 +42,13 @@ Pour aujourd’hui, nous reprendrons les choses là ou nous les avons laissées 
 
 <!-- id: s3-24-0010 -->
 
-> « *Vous amenez ça de loin sans doute, c’est fatigant, on ne sait pas très bien où vous voulez en venir,*
->
-> *mais quand même rétroactivement on s’aperçoit que le point d’où vous êtes parti… enfin, on voit bien qu’il y avait quelque rapport entre ce dont vous êtes parti et ce à quoi vous êtes arrivé*. »
+<div class="text-quotation">
+
+« *Vous amenez ça de loin sans doute, c’est fatigant, on ne sait pas très bien où vous voulez en venir,*
+
+*mais quand même rétroactivement on s’aperçoit que le point d’où vous êtes parti… enfin, on voit bien qu’il y avait quelque rapport entre ce dont vous êtes parti et ce à quoi vous êtes arrivé*. »
+
+</div>
 
 <!-- id: s3-24-0011 -->
 
@@ -76,7 +80,7 @@ De plus en plus, nous nous passons de cette référence, et de cette catégorie 
 
 <!-- id: s3-24-0018 -->
 
-> Qu’elle surgisse ou qu’elle ne surgisse pas, est - du point de vue économique - tout à fait contingent
+Qu’elle surgisse ou qu’elle ne surgisse pas, est - du point de vue économique - tout à fait contingent
 
 <!-- id: s3-24-0019 -->
 
@@ -112,7 +116,11 @@ Le « *tu* », si vous y regardez bien, est de très près, du côté formel, gr
 
 <!-- id: s3-24-0027 -->
 
-> « *Si tu risques un œil au dehors, on va te descendre.* »
+<div class="text-quotation">
+
+« *Si tu risques un œil au dehors, on va te descendre.* »
+
+</div>
 
 <!-- id: s3-24-0028 -->
 
@@ -120,7 +128,11 @@ Ou bien encore :
 
 <!-- id: s3-24-0029 -->
 
-> « *Tu vois le pont, alors tu tournes à droite.* »
+<div class="text-quotation">
+
+« *Tu vois le pont, alors tu tournes à droite.* »
+
+</div>
 
 <!-- id: s3-24-0030 -->
 
@@ -160,7 +172,7 @@ Cette référence montrera peut-être qu’il n’est pas exclu, que si la chose
 
 <!-- id: s3-24-0039 -->
 
-> parce que tout d’un coup vous vous penchez sur une phrase au lieu de l’entendre
+parce que tout d’un coup vous vous penchez sur une phrase au lieu de l’entendre
 
 <!-- id: s3-24-0040 -->
 
@@ -172,9 +184,9 @@ En d’autres termes, il s’agit de s’apercevoir que le *« tu »* a un certa
 
 <!-- id: s3-24-0042 -->
 
-> dans les langues qui pour nous ont l’avantage de servir un peu à nous ouvrir l’esprit…
->
-> je parle justement de ces langues sans flexion [^36]
+dans les langues qui pour nous ont l’avantage de servir un peu à nous ouvrir l’esprit…
+
+je parle justement de ces langues sans flexion [^36]
 
 <!-- id: s3-24-0043 -->
 
@@ -202,7 +214,7 @@ L’important est que vous saisissiez :
 
 <!-- id: s3-24-0049 -->
 
-> *cet Autre*, et *de hameçonner très exactement dans le discours, d’accrocher à l’Autre la signification*.
+*cet Autre*, et *de hameçonner très exactement dans le discours, d’accrocher à l’Autre la signification*.
 
 <!-- id: s3-24-0050 -->
 
@@ -218,7 +230,7 @@ Puis l’impératif vient qui ne nécessite rien, il y a un stade de plus, il y 
 
 <!-- id: s3-24-0053 -->
 
-> <img src="assets/image11.jpeg" style="width:1.34797in;height:0.77508in" alt="3.jpg" />
+<img src="assets/image11.jpeg" style="width:1.34797in;height:0.77508in" alt="3.jpg" />
 
 <!-- id: s3-24-0054 -->
 
@@ -254,9 +266,9 @@ Là-dessus M. HEIDEGGER a promu quelques réflexions dans son traité métaphysi
 
 <!-- id: s3-24-0062 -->
 
-> avec les accents que dégage par son seul apport au niveau du signifiant, au niveau de l’analyse du mot et
->
-> de la conjugaison comme on dit couramment, disons plus exactement de la *déclinaison*, car il donne beaucoup d’importance dans cette notion de déclinaison au sens propre et physique du terme, du verbe *Sein*
+avec les accents que dégage par son seul apport au niveau du signifiant, au niveau de l’analyse du mot et
+
+de la conjugaison comme on dit couramment, disons plus exactement de la *déclinaison*, car il donne beaucoup d’importance dans cette notion de déclinaison au sens propre et physique du terme, du verbe *Sein*
 
 <!-- id: s3-24-0063 -->
 
@@ -284,7 +296,7 @@ Je résume pour vous donner simplement l’idée de la chose, pour dire que dans
 
 <!-- id: s3-24-0069 -->
 
-> ce qui est singulier quand il s’agit d’un progrès auquel essaie de nous initier HEIDEGGER
+ce qui est singulier quand il s’agit d’un progrès auquel essaie de nous initier HEIDEGGER
 
 <!-- id: s3-24-0070 -->
 
@@ -296,7 +308,7 @@ C’est la fonction purement et simplement copulaire, et en tant que dans le reg
 
 <!-- id: s3-24-0072 -->
 
-> tel que nous l’avons défini comme ponctuation, comme mode d’accrochage signifiant indéterminé
+tel que nous l’avons défini comme ponctuation, comme mode d’accrochage signifiant indéterminé
 
 <!-- id: s3-24-0073 -->
 
@@ -308,7 +320,7 @@ Je crois que c’est *très essentiellement* quand il est pris…
 
 <!-- id: s3-24-0075 -->
 
-> et c’est pour cela que j’ai choisi *les phrases exemplaires* dont nous sommes partis : « *tu es celui qui*… »
+et c’est pour cela que j’ai choisi *les phrases exemplaires* dont nous sommes partis : « *tu es celui qui*… »
 
 <!-- id: s3-24-0076 -->
 
@@ -336,7 +348,7 @@ En d’autres termes, cet « *Autre* » ou ce « *tu* » à ce niveau où nous p
 
 <!-- id: s3-24-0082 -->
 
-> comme chacun sait c’est la propriété justement du névrosé, c’est avec cela qu’on lui désigne
+comme chacun sait c’est la propriété justement du névrosé, c’est avec cela qu’on lui désigne
 
 <!-- id: s3-24-0083 -->
 
@@ -376,11 +388,11 @@ On peut remarquer l’opportunité heureuse que nous offre la forme française q
 
 <!-- id: s3-24-0092 -->
 
-> et comment dans le sens de « *tu* » lui-même, nous avons le bonheur en France d’avoir ce signifiant radical
->
-> du « *tu* », et à la deuxième personne du singulier reproduit jusque dans sa forme alphabétique l’inscription
->
-> du « *tu* », et qui passe de l’autre côté de « *celui qui*… »
+et comment dans le sens de « *tu* » lui-même, nous avons le bonheur en France d’avoir ce signifiant radical
+
+du « *tu* », et à la deuxième personne du singulier reproduit jusque dans sa forme alphabétique l’inscription
+
+du « *tu* », et qui passe de l’autre côté de « *celui qui*… »
 
 <!-- id: s3-24-0093 -->
 
@@ -396,11 +408,15 @@ De même pour aboutir à traduire un passage de \[Pichon ?\] effectivement cél
 
 <!-- id: s3-24-0096 -->
 
-> « *Tu ne peux pas supporter la vérité du « tu », en quoi tu peux toujours être désigné pour ce que tu es, à savoir un vaurien.*
->
-> *Si tu veux le respect de tes voisins, élève-toi jusqu’à cette notion des distances normales, c’est-à-dire une notion générale*
->
-> *de l’Autre, de l’ordre du monde et de la loi.* »
+<div class="text-quotation">
+
+« *Tu ne peux pas supporter la vérité du « tu », en quoi tu peux toujours être désigné pour ce que tu es, à savoir un vaurien.*
+
+*Si tu veux le respect de tes voisins, élève-toi jusqu’à cette notion des distances normales, c’est-à-dire une notion générale*
+
+*de l’Autre, de l’ordre du monde et de la loi.* »
+
+</div>
 
 <!-- id: s3-24-0097 -->
 
@@ -512,9 +528,9 @@ Ce que peut être une génération qui serait en somme… une génération équi
 
 <!-- id: s3-24-0124 -->
 
-> et je vous prie d’en rechercher dans chaque cas
->
-> et évoquer au-delà de tout signifiant qui puisse être significatif pour le sujet
+et je vous prie d’en rechercher dans chaque cas
+
+et évoquer au-delà de tout signifiant qui puisse être significatif pour le sujet
 
 <!-- id: s3-24-0125 -->
 
@@ -594,9 +610,9 @@ Assurément moins qu’ailleurs, il convient de reculer devant cette investigati
 
 <!-- id: s3-24-0144 -->
 
-> que je pourrais dire cette *mise en alerte* ou *en* *suspension* de la fonction de la paternité : nous savons
->
-> par son propre témoignage qu’il a espéré devenir père, nous savons d’ailleurs que sa femme dans l’intervalle de huit ans qui a séparé la première crise de la seconde, a éprouvé plusieurs avortements spontanés
+que je pourrais dire cette *mise en alerte* ou *en* *suspension* de la fonction de la paternité : nous savons
+
+par son propre témoignage qu’il a espéré devenir père, nous savons d’ailleurs que sa femme dans l’intervalle de huit ans qui a séparé la première crise de la seconde, a éprouvé plusieurs avortements spontanés
 
 <!-- id: s3-24-0145 -->
 

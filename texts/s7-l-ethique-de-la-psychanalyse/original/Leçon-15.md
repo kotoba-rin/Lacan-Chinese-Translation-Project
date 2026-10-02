@@ -74,7 +74,7 @@ Donc FREUD ne néglige ni le *Nom du père*...
 
 <!-- id: s7-15-0018 -->
 
-> il en parle fort bien, et dans *Moïse et le monothéisme* on pourrait dire à qui ne prendrait pas *Totem et Tabou* pour
+il en parle fort bien, et dans *Moïse et le monothéisme* on pourrait dire à qui ne prendrait pas *Totem et Tabou* pour
 
 <!-- id: s7-15-0019 -->
 
@@ -122,7 +122,7 @@ Une tradition qui commence à CHAUCER, mais qui s’épanouit pleinement dans le
 
 <!-- id: s7-15-0030 -->
 
-> le *fool* est effectivement un *innocent*, un *demeuré*, mais par sa bouche, sortent des vérités qui ne sont pas seulement tolérées, de par ce que ce *fool* est quelquefois revêtu, désigné, imparti, des fonctions du *bouffon*
+le *fool* est effectivement un *innocent*, un *demeuré*, mais par sa bouche, sortent des vérités qui ne sont pas seulement tolérées, de par ce que ce *fool* est quelquefois revêtu, désigné, imparti, des fonctions du *bouffon*
 
 <!-- id: s7-15-0031 -->
 
@@ -134,7 +134,7 @@ Une tradition qui commence à CHAUCER, mais qui s’épanouit pleinement dans le
 
 <!-- id: s7-15-0033 -->
 
-> et je dois dire la qualification de ce pour quoi la même tradition nous fournit un terme de tradition strictement contemporain, et terme employé d’une façon conjuguée. Je vous montrerai, si nous en avons le temps, ces textes : ils sont multiples, abondants, sans ambiguïté
+et je dois dire la qualification de ce pour quoi la même tradition nous fournit un terme de tradition strictement contemporain, et terme employé d’une façon conjuguée. Je vous montrerai, si nous en avons le temps, ces textes : ils sont multiples, abondants, sans ambiguïté
 
 <!-- id: s7-15-0034 -->
 
@@ -210,7 +210,11 @@ il faut quand même donner aux mots un sens
 
 <!-- id: s7-15-0052 -->
 
-> \[*« Infolgedessen ist ihm der Nächste nicht nur möglicher Helfer und Sexualobjekt, sondern auch eine Versuchung, seine Aggression an ihm zu befriedigen, seine Arbeitskraft ohne Entschädigung auszunützen, ihn ohne seine Einwilligung sexuell zu gebrauchen, sich in den Besitz seiner Habe zu setzen, ihn zu demütigen, ihm Schmerzen zu bereiten, zu martern und zu töten. »*\]
+<div class="text-quotation">
+
+\[*« Infolgedessen ist ihm der Nächste nicht nur möglicher Helfer und Sexualobjekt, sondern auch eine Versuchung, seine Aggression an ihm zu befriedigen, seine Arbeitskraft ohne Entschädigung auszunützen, ihn ohne seine Einwilligung sexuell zu gebrauchen, sich in den Besitz seiner Habe zu setzen, ihn zu demütigen, ihm Schmerzen zu bereiten, zu martern und zu töten. »*\]
+
+</div>
 
 <!-- id: s7-15-0053 -->
 

@@ -58,13 +58,13 @@ Et si pendant plusieurs années j’ai insisté devant vous…
 
 <!-- id: s6-22-0014 -->
 
-> par tous les biais par lesquels pouvaient vous être suggérées les parts illusoires qu’il y a dans cet effet
->
-> de transparence, si j’ai essayé de montrer par toutes sortes de fables dont vous avez peut-être encore le souvenir, comment à la limite nous pouvions essayer, *sous la forme d’une image dans un miroir* rendue efficace au-delà de toute subsistance du sujet, par quel mécanisme persistant dans le néant subjectif réalisé par
->
-> la destruction de toute vie, si j’ai essayé de vous donner là l’image d’une possibilité de subsistance
->
-> de *quelque chose d’absolument spéculaire*, indépendamment de tout support subjectif,
+par tous les biais par lesquels pouvaient vous être suggérées les parts illusoires qu’il y a dans cet effet
+
+de transparence, si j’ai essayé de montrer par toutes sortes de fables dont vous avez peut-être encore le souvenir, comment à la limite nous pouvions essayer, *sous la forme d’une image dans un miroir* rendue efficace au-delà de toute subsistance du sujet, par quel mécanisme persistant dans le néant subjectif réalisé par
+
+la destruction de toute vie, si j’ai essayé de vous donner là l’image d’une possibilité de subsistance
+
+de *quelque chose d’absolument spéculaire*, indépendamment de tout support subjectif,
 
 <!-- id: s6-22-0015 -->
 
@@ -76,7 +76,7 @@ Et si pendant plusieurs années j’ai insisté devant vous…
 
 <!-- id: s6-22-0017 -->
 
-> celle qui nous fait toucher sans cesse du doigt la méconnaissance systématique du sujet
+celle qui nous fait toucher sans cesse du doigt la méconnaissance systématique du sujet
 
 <!-- id: s6-22-0018 -->
 
@@ -156,7 +156,7 @@ Ici je veux simplement rappeler…
 
 <!-- id: s6-22-0037 -->
 
-> à l’usage de ceux qui pourraient ici s’inquiéter, comme d’une construction arbitraire, de cette identification de la chaîne inconsciente que je présente ici, par rapport à l’interrogation du sujet, être dans les mêmes relations que celles du discours premier de la demande à l’intention qui surgit du besoin
+à l’usage de ceux qui pourraient ici s’inquiéter, comme d’une construction arbitraire, de cette identification de la chaîne inconsciente que je présente ici, par rapport à l’interrogation du sujet, être dans les mêmes relations que celles du discours premier de la demande à l’intention qui surgit du besoin
 
 <!-- id: s6-22-0038 -->
 
@@ -216,7 +216,7 @@ Très précisément ceci : c’est que ceci et rien d’autre que ce point que n
 
 <!-- id: s6-22-0052 -->
 
-> c’est-à-dire en tant que le sujet qui est constitué dans l’au-delà du discours concret, en tant que le sujet voit, lit, entend, je dis rétroactivement, nous pouvons le supposer ici comme *support de l’articulation de l’inconscient*
+c’est-à-dire en tant que le sujet qui est constitué dans l’au-delà du discours concret, en tant que le sujet voit, lit, entend, je dis rétroactivement, nous pouvons le supposer ici comme *support de l’articulation de l’inconscient*
 
 <!-- id: s6-22-0053 -->
 
@@ -308,7 +308,7 @@ Je dis ceci : si quelque chose *se présente, s’articule* que nous puissions 
 
 <!-- id: s6-22-0075 -->
 
-> je veux dire la réalité dont nous faisons état dans notre discours analytique
+je veux dire la réalité dont nous faisons état dans notre discours analytique
 
 <!-- id: s6-22-0076 -->
 
@@ -320,7 +320,7 @@ Je dirai plus : la coupure, ne l’oublions pas…
 
 <!-- id: s6-22-0078 -->
 
-> et ceci nous est déjà indiqué dans le type du premier objet du fantasme, de l’objet prégénital
+et ceci nous est déjà indiqué dans le type du premier objet du fantasme, de l’objet prégénital
 
 <!-- id: s6-22-0079 -->
 
@@ -352,7 +352,7 @@ C’est bien quelque chose qui peut nous suggérer de ne voir dans cette aventur
 
 <!-- id: s6-22-0086 -->
 
-> ou, si vous voulez provisoirement, de quelque chose que j’appellerai à cette occasion, avec tout l’accent *d’ironie nécessaire*, car ce n’est certes pas mon penchant de l’appeler ainsi :« *le grand Tout* »
+ou, si vous voulez provisoirement, de quelque chose que j’appellerai à cette occasion, avec tout l’accent *d’ironie nécessaire*, car ce n’est certes pas mon penchant de l’appeler ainsi :« *le grand Tout* »
 
 <!-- id: s6-22-0087 -->
 
@@ -376,7 +376,7 @@ Il vous paraît peut-être excessif de voir désigner…
 
 <!-- id: s6-22-0092 -->
 
-> au niveau de ce que nous avons appelé tout à l’heure une manifestation pure de cet être
+au niveau de ce que nous avons appelé tout à l’heure une manifestation pure de cet être
 
 <!-- id: s6-22-0093 -->
 
@@ -412,7 +412,7 @@ C’est un *acteur­auteur*…
 
 <!-- id: s6-22-0101 -->
 
-> et si je me réfère à cela c’est bien parce que je vais revenir tout à l’heure à HAMLET
+et si je me réfère à cela c’est bien parce que je vais revenir tout à l’heure à HAMLET
 
 <!-- id: s6-22-0102 -->
 
@@ -444,7 +444,7 @@ Il répète par deux fois quelque chose…
 
 <!-- id: s6-22-0109 -->
 
-> si j’avais le temps il faudrait que je vous lise cela dans le texte pour vous faire sentir *le caractère assez opaque*
+si j’avais le temps il faudrait que je vous lise cela dans le texte pour vous faire sentir *le caractère assez opaque*
 
 <!-- id: s6-22-0110 -->
 
@@ -456,7 +456,7 @@ Dans l’autre cas, c’est *le détail qui nous introduit au problème*, c’es
 
 <!-- id: s6-22-0112 -->
 
-> il ne va même pas jusqu’à formuler cette notion de texte
+il ne va même pas jusqu’à formuler cette notion de texte
 
 <!-- id: s6-22-0113 -->
 
@@ -468,7 +468,7 @@ Il y a là quelque chose qui, si l’on y regarde de plus près, ne peut pas tou
 
 <!-- id: s6-22-0115 -->
 
-> s’il y a contraste, il y a aussi bien entendu parallélisme
+s’il y a contraste, il y a aussi bien entendu parallélisme
 
 <!-- id: s6-22-0116 -->
 
@@ -476,7 +476,7 @@ Il y a là quelque chose qui, si l’on y regarde de plus près, ne peut pas tou
 
 <!-- id: s6-22-0117 -->
 
-> dans le symbolique comme tel dans une œuvre écrite, et ici en tout cas
+dans le symbolique comme tel dans une œuvre écrite, et ici en tout cas
 
 <!-- id: s6-22-0118 -->
 
@@ -492,7 +492,7 @@ Et pourquoi après tout ? Car s’il est clair que dans l’œuvre d’art, ce q
 
 <!-- id: s6-22-0121 -->
 
-> vous entendez bien que je veux dire quelque chose qui se présente à nous comme une discontinuité
+vous entendez bien que je veux dire quelque chose qui se présente à nous comme une discontinuité
 
 <!-- id: s6-22-0122 -->
 
@@ -548,7 +548,7 @@ Car si ce rapport du sujet à l’avènement de *la coupure* lui est interdit en
 
 <!-- id: s6-22-0135 -->
 
-> par la seule référence de cette expérience et pour autant qu’elle est intimement tissée à l’œuvre
+par la seule référence de cette expérience et pour autant qu’elle est intimement tissée à l’œuvre
 
 <!-- id: s6-22-0136 -->
 
@@ -572,7 +572,7 @@ Car une chose est claire, c’est qu’il n’est jamais exclu que SHAKESPEARE l
 
 <!-- id: s6-22-0141 -->
 
-> c’est le détail *irrelevant* qui va le mettre sur la voie d’une certaine recherche
+c’est le détail *irrelevant* qui va le mettre sur la voie d’une certaine recherche
 
 <!-- id: s6-22-0142 -->
 
@@ -628,7 +628,7 @@ Pour la même raison peut-être que toute notre science conserve encore ce postu
 
 <!-- id: s6-22-0155 -->
 
-> il disait de temps en temps, des choses qui n’étaient pas si superficielles que cela, dans l’ordre philosophique
+il disait de temps en temps, des choses qui n’étaient pas si superficielles que cela, dans l’ordre philosophique
 
 <!-- id: s6-22-0156 -->
 
@@ -720,7 +720,7 @@ Tel poison une fois ingéré par le rat…
 
 <!-- id: s6-22-0178 -->
 
-> et vous savez que le rat n’est jamais très loin de toutes ces affaires, spécialement dans HAMLET
+et vous savez que le rat n’est jamais très loin de toutes ces affaires, spécialement dans HAMLET
 
 <!-- id: s6-22-0179 -->
 

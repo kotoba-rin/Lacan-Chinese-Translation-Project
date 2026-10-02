@@ -62,7 +62,7 @@ Qui est-ce qui se sent d’humeur...
 
 <!-- id: s18-06-0015 -->
 
-> voyez je suis gentil, je n’interpelle personne ...qui est-ce qui se sent d’humeur à *en dire quelque chose*, voire ceci - pourquoi pas ? - *qu’il y a guère moyen de s’en apercevoir ?* Est-ce que quelqu’un aurait la gen­tillesse de me communiquer un petit bout de réflexion qu’a pu lui inspirer, je ne dis pas « *ces pages* », mais ce que la dernière fois j’ai dit de ce en quoi elles consis­taient à mon gré.
+voyez je suis gentil, je n’interpelle personne ...qui est-ce qui se sent d’humeur à *en dire quelque chose*, voire ceci - pourquoi pas ? - *qu’il y a guère moyen de s’en apercevoir ?* Est-ce que quelqu’un aurait la gen­tillesse de me communiquer un petit bout de réflexion qu’a pu lui inspirer, je ne dis pas « *ces pages* », mais ce que la dernière fois j’ai dit de ce en quoi elles consis­taient à mon gré.
 
 <!-- id: s18-06-0016 -->
 
@@ -102,11 +102,19 @@ Et je constate pourtant que dès ce niveau on ne peut pas dire...
 
 <!-- id: s18-06-0025 -->
 
-> « *dès ce niveau* » dis-je : de ma construction ...dès ce temps, si vous voulez aussi, eh bien j’ai dirigé mon coup si je puis dire...
+<div class="text-quotation">
+
+« *dès ce niveau* » dis-je : de ma construction ...dès ce temps, si vous voulez aussi, eh bien j’ai dirigé mon coup si je puis dire...
+
+</div>
 
 <!-- id: s18-06-0026 -->
 
-> *« j’ai dirigé mon coup »* c’est beaucoup dire, pouvoir *tirer* c’est déjà ça \[*rires ostentatoires*\] ...de façon telle qu’il ne me paraisse pas maintenant *porter à faux*, je veux dire dans un stade plus avancé de *cette construction*.
+<div class="text-quotation">
+
+*« j’ai dirigé mon coup »* c’est beaucoup dire, pouvoir *tirer* c’est déjà ça \[*rires ostentatoires*\] ...de façon telle qu’il ne me paraisse pas maintenant *porter à faux*, je veux dire dans un stade plus avancé de *cette construction*.
+
+</div>
 
 <!-- id: s18-06-0027 -->
 
@@ -114,7 +122,7 @@ Bien sûr, quand j’ai dit la dernière fois...
 
 <!-- id: s18-06-0028 -->
 
-> je me laisse aller comme ça, surtout quand il faut un peu faire semblant de respirer ...j’ai dit la dernière fois que je m’admirais, j’espère que vous n’avez tout de même pas pris ça au pied de la lettre.
+je me laisse aller comme ça, surtout quand il faut un peu faire semblant de respirer ...j’ai dit la dernière fois que je m’admirais, j’espère que vous n’avez tout de même pas pris ça au pied de la lettre.
 
 <!-- id: s18-06-0029 -->
 
@@ -130,11 +138,11 @@ Qu’il soit tout à fait frappant que tout ce qui y est pêchable, si je puis d
 
 <!-- id: s18-06-0032 -->
 
-> et là c’est bien de ça qu’il s’agit : je suis venu à la pêche ...de ce « *séminaire sur La Lettre volée »,* dont je pense qu’après tout, depuis un temps, le fait que je l’aie mis en tête...
+et là c’est bien de ça qu’il s’agit : je suis venu à la pêche ...de ce « *séminaire sur La Lettre volée »,* dont je pense qu’après tout, depuis un temps, le fait que je l’aie mis en tête...
 
 <!-- id: s18-06-0033 -->
 
-> n’est-ce pas, en dépit de toute chronolo­gie ...montrait peut-être qu’il fallait... que j’avais l’idée que c’était en somme la meilleure façon d’introduire à mes *Écrits.*
+n’est-ce pas, en dépit de toute chronolo­gie ...montrait peut-être qu’il fallait... que j’avais l’idée que c’était en somme la meilleure façon d’introduire à mes *Écrits.*
 
 <!-- id: s18-06-0034 -->
 
@@ -150,13 +158,13 @@ Je dis ça, je dis ça et je ne vais pas y revenir, car à vrai dire ce que je v
 
 <!-- id: s18-06-0037 -->
 
-> pour quelqu’un qui s’en serait donné la peine ...permettre directement, sur un texte comme ça, d’avancer la plupart des *articulations* que j’aurais peut-être à développer, à dérouler, à construire aujourd’hui...
+pour quelqu’un qui s’en serait donné la peine ...permettre directement, sur un texte comme ça, d’avancer la plupart des *articulations* que j’aurais peut-être à développer, à dérouler, à construire aujourd’hui...
 
 <!-- id: s18-06-0038 -->
 
-> comme vous allez le voir, si vous voulez bien, dans un second temps,
->
-> après avoir entendu ce que j’aurai plus ou moins réussi à dire ...se trouvait en somme *déjà bel et bien écrit là*, et non seu­lement écrit là avec *toutes* - et *les mêmes* - *articulations nécessaires*, celles par les­quelles je crois devoir vous promener.
+comme vous allez le voir, si vous voulez bien, dans un second temps,
+
+après avoir entendu ce que j’aurai plus ou moins réussi à dire ...se trouvait en somme *déjà bel et bien écrit là*, et non seu­lement écrit là avec *toutes* - et *les mêmes* - *articulations nécessaires*, celles par les­quelles je crois devoir vous promener.
 
 <!-- id: s18-06-0039 -->
 
@@ -208,7 +216,7 @@ Elle arrive, disons même pas à *celui* ni à *celle*, à *<u>ceux</u>* qui ne 
 
 <!-- id: s18-06-0051 -->
 
-> comme je le souligne et je l’explique en de nombreuses pages c’est même pour ça qu’elle était même pas capable de la trouver, son substrat matériel de la lettre.
+comme je le souligne et je l’explique en de nombreuses pages c’est même pour ça qu’elle était même pas capable de la trouver, son substrat matériel de la lettre.
 
 <!-- id: s18-06-0052 -->
 
@@ -244,7 +252,7 @@ Quoiqu’il en soit, tel que, c’est comme ça que ça se marque : un bâton, 
 
 <!-- id: s18-06-0060 -->
 
-> car c’est bien sûr dans Freud que j’ai été le pêcher *...*qui pose quelques questions, comme je vous l’ai déjà un peu introduit la dernière fois par cette remarque qu’il était tout à fait impossible de penser quoi que ce soit qui tienne debout sur cette *bipartition* si difficile, si problématique pour les mathé­maticiens, qui est à savoir :
+car c’est bien sûr dans Freud que j’ai été le pêcher *...*qui pose quelques questions, comme je vous l’ai déjà un peu introduit la dernière fois par cette remarque qu’il était tout à fait impossible de penser quoi que ce soit qui tienne debout sur cette *bipartition* si difficile, si problématique pour les mathé­maticiens, qui est à savoir :
 
 <!-- id: s18-06-0061 -->
 
@@ -252,7 +260,7 @@ Quoiqu’il en soit, tel que, c’est comme ça que ça se marque : un bâton, 
 
 <!-- id: s18-06-0062 -->
 
-> c’est-à-dire à *un discours* qui se soutient d’une structure bien déterminée.
+c’est-à-dire à *un discours* qui se soutient d’une structure bien déterminée.
 
 <!-- id: s18-06-0063 -->
 
@@ -260,7 +268,7 @@ Quoiqu’il en soit, tel que, c’est comme ça que ça se marque : un bâton, 
 
 <!-- id: s18-06-0064 -->
 
-> quoi que nous fas­sions pour l’enserrer de cette structure, le réduire ...*qui tout de même reste, un dernier noyau, et qu’on appelle* « *intuition* » ?
+quoi que nous fas­sions pour l’enserrer de cette structure, le réduire ...*qui tout de même reste, un dernier noyau, et qu’on appelle* « *intuition* » ?
 
 <!-- id: s18-06-0065 -->
 
@@ -272,7 +280,7 @@ Bien sûr, cette opposition cartésienne, d’être faite plus par un penseur qu
 
 <!-- id: s18-06-0067 -->
 
-> non pas certes incapable de produire en mathématiques, comme les effets s’en sont prouvés *...*a été bien sûr bien plus enrichie par les mathématiciens eux-mêmes.
+non pas certes incapable de produire en mathématiques, comme les effets s’en sont prouvés *...*a été bien sûr bien plus enrichie par les mathématiciens eux-mêmes.
 
 <!-- id: s18-06-0068 -->
 
@@ -284,7 +292,7 @@ Car je vous prierai de remarquer cette chose qui me semble à moi très certaine
 
 <!-- id: s18-06-0070 -->
 
-> qu’on me contredise si on le peut, il serait facile de trouver là-dessus plus compétent que moi ...il est tout de même très frappant que les mathématiciens de l’Antiquité aient, eux, poursuivi leur marche sans avoir le moindre égard à tout ce qui pouvait se passer dans *les écoles de sagesse,* dans *les écoles -* quelles qu’elles fussent *- de philosophie.*
+qu’on me contredise si on le peut, il serait facile de trouver là-dessus plus compétent que moi ...il est tout de même très frappant que les mathématiciens de l’Antiquité aient, eux, poursuivi leur marche sans avoir le moindre égard à tout ce qui pouvait se passer dans *les écoles de sagesse,* dans *les écoles -* quelles qu’elles fussent *- de philosophie.*
 
 <!-- id: s18-06-0071 -->
 
@@ -300,7 +308,7 @@ C’est qu’il me semble que la remarque, la remarque que je peux faire du poin
 
 <!-- id: s18-06-0074 -->
 
-> au moins dans cette première arête, ...de spécial dans la fonction de *l’écrit* au regard de tout *discours*, est de nature peut-être à faire que les mathématiciens s’aperçoivent de ce que par exemple j’ai indiqué la dernière fois : que *l’intuition même de l’espace euclidien* *doit quelque chose à l’écrit*.
+au moins dans cette première arête, ...de spécial dans la fonction de *l’écrit* au regard de tout *discours*, est de nature peut-être à faire que les mathématiciens s’aperçoivent de ce que par exemple j’ai indiqué la dernière fois : que *l’intuition même de l’espace euclidien* *doit quelque chose à l’écrit*.
 
 <!-- id: s18-06-0075 -->
 
@@ -312,11 +320,11 @@ comme je vais essayer de vous le pousser un peu plus loin *...*ce qu’on appell
 
 <!-- id: s18-06-0077 -->
 
-> il suffit pour le constater de suivre l’histoire *...*que *la manipulation* *de petites ou de grandes lettres*, *de lots alphabétiques divers*...
+il suffit pour le constater de suivre l’histoire *...*que *la manipulation* *de petites ou de grandes lettres*, *de lots alphabétiques divers*...
 
 <!-- id: s18-06-0078 -->
 
-> je veux dire *lettres grecques* ou *lettres ger­maniques*... *plusieurs lots alphabétiques...toute manipulation dont avance dans la réduction logistique dans le raisonnement mathématique nécessite ce support.*
+je veux dire *lettres grecques* ou *lettres ger­maniques*... *plusieurs lots alphabétiques...toute manipulation dont avance dans la réduction logistique dans le raisonnement mathématique nécessite ce support.*
 
 <!-- id: s18-06-0079 -->
 
@@ -324,7 +332,7 @@ Comme je vous le répète, je ne vois pas la différence essentielle avec ce qui
 
 <!-- id: s18-06-0080 -->
 
-> pendant toute une époque, XVII et XVIII<sup>ème</sup> siècles ...la difficulté de la pen­sée mathématicienne, à savoir : *la nécessité du tracé pour la démonstration euclidienne, qu’au moins un de ces triangles soit là tracé*.
+pendant toute une époque, XVII et XVIII<sup>ème</sup> siècles ...la difficulté de la pen­sée mathématicienne, à savoir : *la nécessité du tracé pour la démonstration euclidienne, qu’au moins un de ces triangles soit là tracé*.
 
 <!-- id: s18-06-0081 -->
 
@@ -336,7 +344,7 @@ Car il est bien clair qu’il est toujours particulier, et que ce que vous démo
 
 <!-- id: s18-06-0083 -->
 
-> toujours la même histoire *...*à savoir que les trois angles qui font deux droits, ben il est clair que faut pas que vous disiez que ce triangle n’a pas le droit d’être aussi bien rectangle, isocèle à la fois, ou équilatéral.
+toujours la même histoire *...*à savoir que les trois angles qui font deux droits, ben il est clair que faut pas que vous disiez que ce triangle n’a pas le droit d’être aussi bien rectangle, isocèle à la fois, ou équilatéral.
 
 <!-- id: s18-06-0084 -->
 
@@ -348,7 +356,7 @@ Je vous passe bien sûr*...*
 
 <!-- id: s18-06-0086 -->
 
-> ce n’est pas l’endroit de le rappeler ici, on n’est pas là pour faire de l’érudition *...*à travers tel et tel ça coule, depuis Descartes, Leibniz ou d’autres, ça va jusqu’à Husserl, ils me semblent n’avoir jamais vu cet os tout de même :
+ce n’est pas l’endroit de le rappeler ici, on n’est pas là pour faire de l’érudition *...*à travers tel et tel ça coule, depuis Descartes, Leibniz ou d’autres, ça va jusqu’à Husserl, ils me semblent n’avoir jamais vu cet os tout de même :
 
 <!-- id: s18-06-0087 -->
 
@@ -380,7 +388,7 @@ Je ne sais pas si je dois vous faire remarquer que la consistance de l’espace,
 
 <!-- id: s18-06-0094 -->
 
-> <img src="assets/image45.png" style="width:3.21078in;height:1.08548in" />
+<img src="assets/image45.png" style="width:3.21078in;height:1.08548in" />
 
 <!-- id: s18-06-0095 -->
 
@@ -388,9 +396,9 @@ Je ne sais pas si je dois vous faire remarquer que la consistance de l’espace,
 
 <!-- id: s18-06-0096 -->
 
-> de chacun des quatre autres, parce que - tout au moins dans notre espace euclidien - vous n’y arriverez pas :
->
-> il faut, pour que vous ayez ces cinq points à égale distance - vous m’entendez bien - chacun de tous les autres, que vous fabriquiez une cinquième \[*lapsus*\]... une 4<sup>ème</sup> dimension. Voilà !
+de chacun des quatre autres, parce que - tout au moins dans notre espace euclidien - vous n’y arriverez pas :
+
+il faut, pour que vous ayez ces cinq points à égale distance - vous m’entendez bien - chacun de tous les autres, que vous fabriquiez une cinquième \[*lapsus*\]... une 4<sup>ème</sup> dimension. Voilà !
 
 <!-- id: s18-06-0097 -->
 
@@ -410,7 +418,7 @@ L’État et la police, ben pour quelqu’un qui a un tout petit peu réfléchi*
 
 <!-- id: s18-06-0101 -->
 
-> on ne peut pas dire que Hegel là-dessus soit si mal placé *...*c’est exactement la même chose.
+on ne peut pas dire que Hegel là-dessus soit si mal placé *...*c’est exactement la même chose.
 
 <!-- id: s18-06-0102 -->
 
@@ -430,9 +438,9 @@ C’est dans la mesure où on fait tourner ces structures sur les 4 arêtes du c
 
 <!-- id: s18-06-0106 -->
 
-> qui dans *le tétraèdre* se suivent - c’est une condition - s’emmanchent dans le même sens,
->
-> dans ce sens que tourne en rond une, n’importe laquelle des deux autres, des 3 autres ...que la variation s’établit de ce qu’il en est de la structure du discours, très précisément en tant qu’elle reste à <u>un certain niveau de construction qui est celui *tétraédrique*</u> <u>dont *on ne saurait se contenter dès lors* *qu’on fait surgir l’instance de la lettre.*</u> C’est même parce qu’on ne saurait s’en contenter, qu’à rester à son niveau il y a toujours un de ces côtés qui fait cercle*, qui se rompt.*
+qui dans *le tétraèdre* se suivent - c’est une condition - s’emmanchent dans le même sens,
+
+dans ce sens que tourne en rond une, n’importe laquelle des deux autres, des 3 autres ...que la variation s’établit de ce qu’il en est de la structure du discours, très précisément en tant qu’elle reste à <u>un certain niveau de construction qui est celui *tétraédrique*</u> <u>dont *on ne saurait se contenter dès lors* *qu’on fait surgir l’instance de la lettre.*</u> C’est même parce qu’on ne saurait s’en contenter, qu’à rester à son niveau il y a toujours un de ces côtés qui fait cercle*, qui se rompt.*
 
 <!-- id: s18-06-0107 -->
 
@@ -440,17 +448,17 @@ Alors c’est de là qu’il résulte que dans un monde...
 
 <!-- id: s18-06-0108 -->
 
-> tel qu’il est structuré par un certain tétraèdre qu’on retrouve à plus d’un bout de champ ...*une lettre n’arrive à destination qu’à trouver* celui que dans mon discours sur *La Lettre volée,* je désigne du terme du « *Sujet »*...
+tel qu’il est structuré par un certain tétraèdre qu’on retrouve à plus d’un bout de champ ...*une lettre n’arrive à destination qu’à trouver* celui que dans mon discours sur *La Lettre volée,* je désigne du terme du « *Sujet »*...
 
 <!-- id: s18-06-0109 -->
 
-> qui n’est pas du tout à éliminer d’aucune façon ni à retirer
->
-> sous prétexte que nous faisons quelques pas dans la structure, ...et dont il faut tout de même bien partir de ceci : c’est que si ce que nous avons découvert sous le terme d’« *inconscient* » a un sens, le *sujet*...
+qui n’est pas du tout à éliminer d’aucune façon ni à retirer
+
+sous prétexte que nous faisons quelques pas dans la structure, ...et dont il faut tout de même bien partir de ceci : c’est que si ce que nous avons découvert sous le terme d’« *inconscient* » a un sens, le *sujet*...
 
 <!-- id: s18-06-0110 -->
 
-> je vous le répète : *irréductible*, nous ne pouvons pas, même à ce niveau, ne pas en tenir compte ...et *le sujet se distingue de sa toute spéciale imbécillité*.
+je vous le répète : *irréductible*, nous ne pouvons pas, même à ce niveau, ne pas en tenir compte ...et *le sujet se distingue de sa toute spéciale imbécillité*.
 
 <!-- id: s18-06-0111 -->
 
@@ -474,13 +482,13 @@ Il est clair que c’est uniquement en fonction de cette circulation de la lettr
 
 <!-- id: s18-06-0116 -->
 
-> puisque ici il y en a eu quand même quelques-uns qui ont autrefois lu Poe,
->
-> vous devez savoir qu’il y a un ministre dans le coup, celui qui a barboté la lettre ...que le ministre nous montre au cours du *déplacement* de ladite *lettre*, des variations - tel le poisson mourrant - des variations de sa couleur, et à la vérité que sa fonction essentielle, que tout mon texte *joue*...
+puisque ici il y en a eu quand même quelques-uns qui ont autrefois lu Poe,
+
+vous devez savoir qu’il y a un ministre dans le coup, celui qui a barboté la lettre ...que le ministre nous montre au cours du *déplacement* de ladite *lettre*, des variations - tel le poisson mourrant - des variations de sa couleur, et à la vérité que sa fonction essentielle, que tout mon texte *joue*...
 
 <!-- id: s18-06-0117 -->
 
-> peut-être un petit trop abondamment, mais on ne saurait trop insister pour se faire entendre ...*joue sur le fait que la lettre a <u>un effet féminisant</u>*.
+peut-être un petit trop abondamment, mais on ne saurait trop insister pour se faire entendre ...*joue sur le fait que la lettre a <u>un effet féminisant</u>*.
 
 <!-- id: s18-06-0118 -->
 
@@ -556,7 +564,7 @@ Car ce qui se passe au niveau du *narrateur*, c’est en fin de compte ce que je
 
 <!-- id: s18-06-0136 -->
 
-> je m’excuse d’insister sur le caractère démonstratif de ce petit essai ...c’est qu’à la fin du compte, c’est la plus parfaite castration qui est démontrée.
+je m’excuse d’insister sur le caractère démonstratif de ce petit essai ...c’est qu’à la fin du compte, c’est la plus parfaite castration qui est démontrée.
 
 <!-- id: s18-06-0137 -->
 
@@ -576,17 +584,17 @@ Car ce qui se passe au niveau du *narrateur*, c’est en fin de compte ce que je
 
 <!-- id: s18-06-0141 -->
 
-> \- ou il lui plaît de devenir l’amant de la Reine et ça devrait être agréable,
->
-> en principe on dit ça : ça plaît pas à tout le monde,
->
-> \- ou si vraiment il a pour elle un de ces sentiments qui sont de l’ordre de ce que j’appelle moi
->
-> *le seul sentiment lucide*, à savoir *la haine*, comme je vous l’ai très bien expliqué,
->
-> s’il la hait, elle l’en aimera d’autant plus, et ça lui permettra d’aller si loin,
->
-> qu’il finira quand même par se douter que la lettre, elle n’est plus là depuis longtemps.
+\- ou il lui plaît de devenir l’amant de la Reine et ça devrait être agréable,
+
+en principe on dit ça : ça plaît pas à tout le monde,
+
+\- ou si vraiment il a pour elle un de ces sentiments qui sont de l’ordre de ce que j’appelle moi
+
+*le seul sentiment lucide*, à savoir *la haine*, comme je vous l’ai très bien expliqué,
+
+s’il la hait, elle l’en aimera d’autant plus, et ça lui permettra d’aller si loin,
+
+qu’il finira quand même par se douter que la lettre, elle n’est plus là depuis longtemps.
 
 <!-- id: s18-06-0142 -->
 
@@ -634,7 +642,7 @@ Je vous ferai remarquer d’abord que toute notre affaire...
 
 <!-- id: s18-06-0153 -->
 
-> toute notre affaire qui est l’histoire du *rapport sexuel*, n’est-ce pas, ...tourne autour de ceci que vous pourriez croire que *c’est écrit* puisqu’en somme, c’est ce qu’on a trouvé dans *la psychanalyse*, on est tout de même bien référé à un écrit.
+toute notre affaire qui est l’histoire du *rapport sexuel*, n’est-ce pas, ...tourne autour de ceci que vous pourriez croire que *c’est écrit* puisqu’en somme, c’est ce qu’on a trouvé dans *la psychanalyse*, on est tout de même bien référé à un écrit.
 
 <!-- id: s18-06-0154 -->
 
@@ -650,7 +658,7 @@ Le propre d’un mythe qui est écrit...
 
 <!-- id: s18-06-0157 -->
 
-> comme l’a fait remarquer déjà Claude Lévi-Strauss, ...c’est que de l’écrire, il n’a qu’une seule forme, alors que le propre du mythe... comme c’est toute l’œuvre de Lévi-Strauss de le démontrer, ...c’est d’en avoir une très très grande quantité, c’est ça qui le constitue comme mythe, et non comme mythe écrit.
+comme l’a fait remarquer déjà Claude Lévi-Strauss, ...c’est que de l’écrire, il n’a qu’une seule forme, alors que le propre du mythe... comme c’est toute l’œuvre de Lévi-Strauss de le démontrer, ...c’est d’en avoir une très très grande quantité, c’est ça qui le constitue comme mythe, et non comme mythe écrit.
 
 <!-- id: s18-06-0158 -->
 
@@ -666,7 +674,7 @@ Voilà, c’est que c’est pour ça qu’il n’est pas indifférent que je soi
 
 <!-- id: s18-06-0161 -->
 
-> cette lettre qui en l’occasion peut avoir cette fonction, cette fonction féminisante ...c’est que par rapport à ce que je vous ai dit de ceci : que le mythe écrit - l’œdipe - est fait très exactement pour nous pointer que c’est que c’est impensable de dire : *la femme.*
+cette lettre qui en l’occasion peut avoir cette fonction, cette fonction féminisante ...c’est que par rapport à ce que je vous ai dit de ceci : que le mythe écrit - l’œdipe - est fait très exactement pour nous pointer que c’est que c’est impensable de dire : *la femme.*
 
 <!-- id: s18-06-0162 -->
 
@@ -682,7 +690,7 @@ D’autre part, ce que je souligne à propos de cette *Lettre volée,* c’est q
 
 <!-- id: s18-06-0165 -->
 
-> dans le contexte de ce que je vous ai énoncé, avancé, tout à l’heure sur la discussion mathématique ...appelle la « *multi-unité* », à savoir ceci :
+dans le contexte de ce que je vous ai énoncé, avancé, tout à l’heure sur la discussion mathématique ...appelle la « *multi-unité* », à savoir ceci :
 
 <!-- id: s18-06-0166 -->
 
@@ -694,7 +702,7 @@ D’autre part, ce que je souligne à propos de cette *Lettre volée,* c’est q
 
 <!-- id: s18-06-0168 -->
 
-> *comme étant à l’origine*, à très proprement parler, *de l’écrit*, c’est ce que j’appellerai *le papludun*.
+*comme étant à l’origine*, à très proprement parler, *de l’écrit*, c’est ce que j’appellerai *le papludun*.
 
 <!-- id: s18-06-0169 -->
 
@@ -742,7 +750,7 @@ La structure est telle que l’homme comme tel - en tant qu’il fonctionne - es
 
 <!-- id: s18-06-0180 -->
 
-> si elle existe, et justement c’est pour ça qu’elle n’existe pas ...c’est qu’en tant que « *La femme »,* elle, n’a rien à faire avec la *Loi*.
+si elle existe, et justement c’est pour ça qu’elle n’existe pas ...c’est qu’en tant que « *La femme »,* elle, n’a rien à faire avec la *Loi*.
 
 <!-- id: s18-06-0181 -->
 
@@ -754,9 +762,9 @@ Alors comment concevoir ce qui s’est passé ?
 
 <!-- id: s18-06-0183 -->
 
-> on y met le temps et à la vérité on s’y est peut-être toujours intéressé,
->
-> seule­ment nous avons perdu la clé de la façon dont on s’y est intéressé précédemment ...mais pour nous, au cœur, *dans l’efflorescence de l’ère scientifique*, nous aperce­vons ce qu’il en est par Freud. C’est quoi ?
+on y met le temps et à la vérité on s’y est peut-être toujours intéressé,
+
+seule­ment nous avons perdu la clé de la façon dont on s’y est intéressé précédemment ...mais pour nous, au cœur, *dans l’efflorescence de l’ère scientifique*, nous aperce­vons ce qu’il en est par Freud. C’est quoi ?
 
 <!-- id: s18-06-0184 -->
 
@@ -812,7 +820,7 @@ Ce n’est que par là que se structure...
 
 <!-- id: s18-06-0197 -->
 
-> qu’est rejoint dans le discours, ce qui seul peut y apporter la Loi ...ce qu’il en est de la jouissance sexuelle.
+qu’est rejoint dans le discours, ce qui seul peut y apporter la Loi ...ce qu’il en est de la jouissance sexuelle.
 
 <!-- id: s18-06-0198 -->
 
@@ -836,7 +844,7 @@ Nous pouvons ici passer.
 
 <!-- id: s18-06-0203 -->
 
-> l’impossibilité de ce rapport sexuel ...c’est bien aussi ce qui fait *la portée de la parole,* en ceci bien sûr *qu’elle peut tout*, sauf ser­vir au point où elle est occasionnée.
+l’impossibilité de ce rapport sexuel ...c’est bien aussi ce qui fait *la portée de la parole,* en ceci bien sûr *qu’elle peut tout*, sauf ser­vir au point où elle est occasionnée.
 
 <!-- id: s18-06-0204 -->
 
@@ -872,7 +880,7 @@ Dans la *logique aristotélicienne*, vous avez les « *affirmatives »*...
 
 <!-- id: s18-06-0212 -->
 
-> je ne les mets pas avec les lettres qui sont d’usage habituel dans la logique formelle, je ne mets pas A ...j’écris ça « *universelle affirmative »*, et j’écris ça « *universelle négative »*, c’est ce que ça veut dire.
+je ne les mets pas avec les lettres qui sont d’usage habituel dans la logique formelle, je ne mets pas A ...j’écris ça « *universelle affirmative »*, et j’écris ça « *universelle négative »*, c’est ce que ça veut dire.
 
 <!-- id: s18-06-0213 -->
 
@@ -884,7 +892,7 @@ Je fais remarquer qu’au niveau de l’articulation aristotélicienne c’est e
 
 <!-- id: s18-06-0215 -->
 
-> puisque c’est à Aristote que ces catégories propositionnelles sont empruntées ...c’est entre ces deux pôles que se fait la discrimination logique :
+puisque c’est à Aristote que ces catégories propositionnelles sont empruntées ...c’est entre ces deux pôles que se fait la discrimination logique :
 
 <!-- id: s18-06-0216 -->
 
@@ -928,7 +936,7 @@ Et de dire : « *Il y en a pas qui*... »...
 
 <!-- id: s18-06-0226 -->
 
-> ce qui n’est pas la même chose que de dire : « *Il y en a qui*... *pas* », ...c’est-à-dire *l’univer­selle négative*. « *Il y en a pas qui*... », ben ça prouve rien non plus, c’est un fait.
+ce qui n’est pas la même chose que de dire : « *Il y en a qui*... *pas* », ...c’est-à-dire *l’univer­selle négative*. « *Il y en a pas qui*... », ben ça prouve rien non plus, c’est un fait.
 
 <!-- id: s18-06-0227 -->
 
@@ -984,7 +992,7 @@ Ce que j’avance, c’est que dans cette façon d’écrire justement, tout tie
 
 <!-- id: s18-06-0240 -->
 
-> c’est le signe de l’A renversé : ∀ ...qu’il satisfait à ce qui est écrit : F(x), qu’il n’y est pas déplacé.
+c’est le signe de l’A renversé : ∀ ...qu’il satisfait à ce qui est écrit : F(x), qu’il n’y est pas déplacé.
 
 <!-- id: s18-06-0241 -->
 
@@ -1012,9 +1020,9 @@ La question est de *ce qui ne peut pas s’écrire dans la fonction* F(x), à pa
 
 <!-- id: s18-06-0247 -->
 
-> ce qui est le point autour duquel va tourner ce que nous reprendrons
->
-> quand je vous reverrai dans deux mois ...à savoir qu’elle est à proprement parler ce qui s’appelle « *illisible »*.
+ce qui est le point autour duquel va tourner ce que nous reprendrons
+
+quand je vous reverrai dans deux mois ...à savoir qu’elle est à proprement parler ce qui s’appelle « *illisible »*.
 
 ## Notes
 

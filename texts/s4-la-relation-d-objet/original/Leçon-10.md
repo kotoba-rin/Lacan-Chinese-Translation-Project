@@ -265,8 +265,8 @@ sous le nom d’inféodation, ou d’appartenance amoureuse qu’il est facile d
 
 <!-- id: s4-10-0042 -->
 
-> \[*Im ersteren Falle hat sich das Ich um die Eigenschaften des Objekts bereichert, sich dasselbe nach Ferenczi’s Ausdruck « introjiziert »,*
-> *im zweiten Fall ist es verarmt, hat sich dem Objekt hingegeben, dasselbe an die Stelle seines wichtigsten Bestandteils gesetzt.*\]
+\[*Im ersteren Falle hat sich das Ich um die Eigenschaften des Objekts bereichert, sich dasselbe nach Ferenczi’s Ausdruck « introjiziert »,*
+*im zweiten Fall ist es verarmt, hat sich dem Objekt hingegeben, dasselbe an die Stelle seines wichtigsten Bestandteils gesetzt.*\]
 
 <!-- id: s4-10-0043 -->
 
@@ -324,8 +324,12 @@ cette description fait apparaître des <u>*oppositions*</u> qui en réalité n�
 
 <!-- id: s4-10-0055 -->
 
-> « *Au point de vue économique, il ne s’agit ni d’enrichissement, ni d’appauvrissement, car même l’état amoureux extrême*
-> *peut être conçu comme une introjection de l’objet dans le moi.* »
+<div class="text-quotation">
+
+« *Au point de vue économique, il ne s’agit ni d’enrichissement, ni d’appauvrissement, car même l’état amoureux extrême*
+*peut être conçu comme une introjection de l’objet dans le moi.* »
+
+</div>
 
 <!-- id: s4-10-0056 -->
 
@@ -333,9 +337,9 @@ La distinction suivante porterait peut-être sur des points essentiels :
 
 <!-- id: s4-10-0057 -->
 
-> \[*Im Falle der Identifizierung ist das Objekt verloren gegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von seiten und auf Kosten des Ichs überbesetzt.*\]
->
-> « *Dans le cas d’identification, l’objet se volatilise et disparaît pour reparaître dans le moi, lequel subit une transformation partielle d’après le modèle de l’objet disparu.Dans l’autre cas l’objet constitué se trouve doté de toutes les qualités par le moi et à ses dépens.* »
+\[*Im Falle der Identifizierung ist das Objekt verloren gegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von seiten und auf Kosten des Ichs überbesetzt.*\]
+
+« *Dans le cas d’identification, l’objet se volatilise et disparaît pour reparaître dans le moi, lequel subit une transformation partielle d’après le modèle de l’objet disparu.Dans l’autre cas l’objet constitué se trouve doté de toutes les qualités par le moi et à ses dépens.* »
 
 <!-- id: s4-10-0058 -->
 
@@ -358,27 +362,27 @@ Il ne s’agit donc pas d’objet qui « *se volatilise* » ni qui « *dispar
 
 <!-- id: s4-10-0062 -->
 
-> \[*Im Falle der Identifizierung ist das Objekt verlorengegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von sehen*
->
-> *und auf Kosten des Ichs überbesetzt. Aber auch hiegegen erhebt sich ein Bedenken. Steht es denn fest, daß die Identifizierung das Aufgeben*
->
-> *der Objektbesetzung voraussetzt, kann es nicht Identifizierung bei erhaltenem Objekt geben ? Und ehe wir uns in die Diskussion dieser heikeln Frage einlassen, kann uns bereits die Einsicht aufdämmern, daß eine andere Alternative das Wesen dieses Sachverhaltes in sich faßt,*
->
-> *nämlich ob das Objekt an die Stelle des Ichs oder des Ichideals gesetzt wird.*\]
->
-> « *Il est alors de nouveau reérigé dans le moi, et le moi partiel se transforme partiellement d’après le modèle de l’objet perdu.*
->
-> *Dans l’autre cas l’objet est demeuré conservé et comme tel est surinvesti de la part et aux dépens du moi.*
->
-> *Mais cette distinction à son tour soulève une nouvelle réflexion : est-il bien sûr que l’identification suppose l’abandon*
->
-> *de l’investissement de l’objet, ne peut-on aussi avoir une identification avec l’objet conservé ? Et avant que nous entrions dans*
->
-> *cette discussion particulièrement épineuse, nous devons aussi un instant nous arrêter à cette considération que nous présentons*
->
-> *qu’il y a une autre alternative dans laquelle peut se concevoir l’essence de cet état de choses, et qui est nommément que l’objet*
->
-> *soit placé à la place du moi ou de l’idéal du moi.* »
+\[*Im Falle der Identifizierung ist das Objekt verlorengegangen oder aufgegeben worden; es wird dann im Ich wieder aufgerichtet, das Ich verändert sich partiell nach dem Vorbild des verlorenen Objekts. Im anderen Falle ist das Objekt erhalten geblieben und wird als solches von sehen*
+
+*und auf Kosten des Ichs überbesetzt. Aber auch hiegegen erhebt sich ein Bedenken. Steht es denn fest, daß die Identifizierung das Aufgeben*
+
+*der Objektbesetzung voraussetzt, kann es nicht Identifizierung bei erhaltenem Objekt geben ? Und ehe wir uns in die Diskussion dieser heikeln Frage einlassen, kann uns bereits die Einsicht aufdämmern, daß eine andere Alternative das Wesen dieses Sachverhaltes in sich faßt,*
+
+*nämlich ob das Objekt an die Stelle des Ichs oder des Ichideals gesetzt wird.*\]
+
+« *Il est alors de nouveau reérigé dans le moi, et le moi partiel se transforme partiellement d’après le modèle de l’objet perdu.*
+
+*Dans l’autre cas l’objet est demeuré conservé et comme tel est surinvesti de la part et aux dépens du moi.*
+
+*Mais cette distinction à son tour soulève une nouvelle réflexion : est-il bien sûr que l’identification suppose l’abandon*
+
+*de l’investissement de l’objet, ne peut-on aussi avoir une identification avec l’objet conservé ? Et avant que nous entrions dans*
+
+*cette discussion particulièrement épineuse, nous devons aussi un instant nous arrêter à cette considération que nous présentons*
+
+*qu’il y a une autre alternative dans laquelle peut se concevoir l’essence de cet état de choses, et qui est nommément que l’objet*
+
+*soit placé à la place du moi ou de l’idéal du moi.* »
 
 <!-- id: s4-10-0063 -->
 

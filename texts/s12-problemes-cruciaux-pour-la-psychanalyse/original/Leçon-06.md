@@ -38,7 +38,7 @@ Cet extraordinaire attrape-nigaud forgé par EULER selon la mode de l’époque,
 
 <!-- id: s12-06-0009 -->
 
-> c’est l’envers \[Euler : 1707-83\] de ce qu’on a appelé par ailleurs le siècle du génie \[XVII<sup>ème</sup> siècle\] …à s’être fascinés - comme les ouvrages en témoignent, innombrables à être parus dans ce siècle sur ce sujet - à s’être fascinés sur cet ouvrage apparemment impensable pour eux qu’était l’éducation des femmes.
+c’est l’envers \[Euler : 1707-83\] de ce qu’on a appelé par ailleurs le siècle du génie \[XVII<sup>ème</sup> siècle\] …à s’être fascinés - comme les ouvrages en témoignent, innombrables à être parus dans ce siècle sur ce sujet - à s’être fascinés sur cet ouvrage apparemment impensable pour eux qu’était l’éducation des femmes.
 
 <!-- id: s12-06-0010 -->
 
@@ -66,13 +66,13 @@ Faisons donc un peu attention avant de manier le cercle et surtout n’oublions 
 
 <!-- id: s12-06-0016 -->
 
-> – qu’« *extension* » et « *compréhension* » peuvent être confondues,
->
-> – que dans le cercle on imagine *l’ensemble numérique* des objets sans mettre l’accent sur les *conditions* qu’implique
->
-> l’entrée en jeu du *nombre* et qui sont radicalement différentes des *caractéristiques classificatoires*,
->
-> au moins dans ce qui nous permet de l’appréhender dans *la fonction de signification*.
+– qu’« *extension* » et « *compréhension* » peuvent être confondues,
+
+– que dans le cercle on imagine *l’ensemble numérique* des objets sans mettre l’accent sur les *conditions* qu’implique
+
+l’entrée en jeu du *nombre* et qui sont radicalement différentes des *caractéristiques classificatoires*,
+
+au moins dans ce qui nous permet de l’appréhender dans *la fonction de signification*.
 
 <!-- id: s12-06-0017 -->
 
@@ -92,7 +92,7 @@ Les « *privilèges* », les « *résistances* » de la fonction du nombre en
 
 <!-- id: s12-06-0021 -->
 
-> je mets ici des termes entre guillemets, pour ne pas introduire de références plus techniques …voilà ce qui fait problème au mathématicien, ce qui l’a poussé à des efforts considérables - *la question est de savoir s’ils ont réussi* - pour homogénéiser *la fonction du nombre* à celle *des classes*. C’est ce qui, j’espère, sera traité lors de notre prochaine rencontre, rencontre fermée, ici au niveau du séminaire.
+je mets ici des termes entre guillemets, pour ne pas introduire de références plus techniques …voilà ce qui fait problème au mathématicien, ce qui l’a poussé à des efforts considérables - *la question est de savoir s’ils ont réussi* - pour homogénéiser *la fonction du nombre* à celle *des classes*. C’est ce qui, j’espère, sera traité lors de notre prochaine rencontre, rencontre fermée, ici au niveau du séminaire.
 
 <!-- id: s12-06-0022 -->
 
@@ -104,9 +104,9 @@ La théorie mathématique...
 
 <!-- id: s12-06-0024 -->
 
-> qui représente à la fois la solution - c’est ce que je mets en question - et la butée, peut-être-est-il plus vrai de le dire,
->
-> de cette tentative *de réduire, de résoudre la fonction du nombre entier dans le langage mathématique* …aboutit à la formule suivante, schématisée exactement de la même façon que je vous montre : comment en quelque sorte *le sujet* *se véhicule de signifiant à signifiant*, chaque représentant *signifiant* pour celui qui le suit, c’est - sous le 1 - du 0 qu’il s’agit pour la suite, des 1 qui vont venir : 1/0 – 1– 1<sup>n</sup>.
+qui représente à la fois la solution - c’est ce que je mets en question - et la butée, peut-être-est-il plus vrai de le dire,
+
+de cette tentative *de réduire, de résoudre la fonction du nombre entier dans le langage mathématique* …aboutit à la formule suivante, schématisée exactement de la même façon que je vous montre : comment en quelque sorte *le sujet* *se véhicule de signifiant à signifiant*, chaque représentant *signifiant* pour celui qui le suit, c’est - sous le 1 - du 0 qu’il s’agit pour la suite, des 1 qui vont venir : 1/0 – 1– 1<sup>n</sup>.
 
 <!-- id: s12-06-0025 -->
 
@@ -130,7 +130,11 @@ Autrement dit, la découverte conditionnée par *la recherche logico-mathématiq
 
 <!-- id: s12-06-0030 -->
 
-> « *J’ai trois frères, Paul, Ernest et moi.* »[^43]
+<div class="text-quotation">
+
+« *J’ai trois frères, Paul, Ernest et moi.* »[^43]
+
+</div>
 
 <!-- id: s12-06-0031 -->
 
@@ -206,7 +210,7 @@ La question de ce qui se passe au niveau du *cercle de réversion*, voilà ce qu
 
 <!-- id: s12-06-0049 -->
 
-> je passe le terme, je le mets entre guillemets pour me faire entendre …le modèle de ce qui est mis en question pour nous par la fonction de l’identification.
+je passe le terme, je le mets entre guillemets pour me faire entendre …le modèle de ce qui est mis en question pour nous par la fonction de l’identification.
 
 <!-- id: s12-06-0050 -->
 
@@ -218,13 +222,13 @@ La dernière fois j’ai rappelé que *les spires d’une trace* poursuivie sur 
 
 <!-- id: s12-06-0052 -->
 
-> que vous voyez ici représentée entière à gauche, représentée seulement partiellement à droite, à savoir sur le point
->
-> qui nous intéresse aux abords de ce que je viens d’appeler *cercle de réversion*, ou *de rebroussement* comme vous l’entendez …*les spires de la demande avec leur répétition* sur un tore ordinaire…
+que vous voyez ici représentée entière à gauche, représentée seulement partiellement à droite, à savoir sur le point
+
+qui nous intéresse aux abords de ce que je viens d’appeler *cercle de réversion*, ou *de rebroussement* comme vous l’entendez …*les spires de la demande avec leur répétition* sur un tore ordinaire…
 
 <!-- id: s12-06-0053 -->
 
-> comme je l’ai longuement développé autrefois[^47] et précisément en relation avec *la structure du névrosé*
+comme je l’ai longuement développé autrefois[^47] et précisément en relation avec *la structure du névrosé*
 
 <!-- id: s12-06-0054 -->
 
@@ -244,7 +248,7 @@ Je vous l’ai déjà dit la dernière fois, et *le schéma* que je viens de vou
 
 <!-- id: s12-06-0058 -->
 
-> selon - là vous le voyez, je vous en ai représenté l’incidence minimale - selon, pour vous, à vos yeux, un demi-cercle …ayant franchi cette passe, devant toujours le franchir selon un nombre impair de ces demi-cercles, reparaîtra de l’autre côté torique de la *bouteille de Klein* *dans une giration en sens contraire* :
+selon - là vous le voyez, je vous en ai représenté l’incidence minimale - selon, pour vous, à vos yeux, un demi-cercle …ayant franchi cette passe, devant toujours le franchir selon un nombre impair de ces demi-cercles, reparaîtra de l’autre côté torique de la *bouteille de Klein* *dans une giration en sens contraire* :
 
 <!-- id: s12-06-0059 -->
 
@@ -260,13 +264,13 @@ Or ceci, ceci est pour nous, en quelque sorte de la faveur ici touchée que nous
 
 <!-- id: s12-06-0062 -->
 
-> mais qui n’a nul besoin de cette figure, que je pourrai simplement, d’une façon qui vous serait plus obscure, plus opaque, faire supporter pour vous par une disposition réduite de quelques symboles algébriques en y ajoutant des vecteurs et qui serait beaucoup plus opaque pour votre représentation …cette figure donc, avec son appel intuitif, je la destine à vous permettre de saisir la cohérence qu’il y a en ce point…
+mais qui n’a nul besoin de cette figure, que je pourrai simplement, d’une façon qui vous serait plus obscure, plus opaque, faire supporter pour vous par une disposition réduite de quelques symboles algébriques en y ajoutant des vecteurs et qui serait beaucoup plus opaque pour votre représentation …cette figure donc, avec son appel intuitif, je la destine à vous permettre de saisir la cohérence qu’il y a en ce point…
 
 <!-- id: s12-06-0063 -->
 
-> si nous le définissons, le déterminons comme cernant les conditions,
->
-> les faveurs, mais aussi les ambiguïtés et donc les *leurres,* de *l’identification* …de vous faire saisir aussi la connexion de *ce point*, et *qui lui donne son vrai sens* avec ce que nous constatons dans notre expérience, *ce qui est pour nous la clinique, la clinique analytique*, ce qui est pour nous tellement forcé que nous avons dû y modeler notre langage, *à savoir la réversibilité essentielle de la demande* et ce qui fait que dans le jeu dynamique complexuel, il n’y a point par exemple de *fantasme de dévoration* que nous ne tenions pour impliquant, nécessitant à quelque moment - qui hors de cette théorie reste obscur - en son inversion propre, je dis résultant en cette inversion et commandant le passage au *fantasme d’être dévoré*.
+si nous le définissons, le déterminons comme cernant les conditions,
+
+les faveurs, mais aussi les ambiguïtés et donc les *leurres,* de *l’identification* …de vous faire saisir aussi la connexion de *ce point*, et *qui lui donne son vrai sens* avec ce que nous constatons dans notre expérience, *ce qui est pour nous la clinique, la clinique analytique*, ce qui est pour nous tellement forcé que nous avons dû y modeler notre langage, *à savoir la réversibilité essentielle de la demande* et ce qui fait que dans le jeu dynamique complexuel, il n’y a point par exemple de *fantasme de dévoration* que nous ne tenions pour impliquant, nécessitant à quelque moment - qui hors de cette théorie reste obscur - en son inversion propre, je dis résultant en cette inversion et commandant le passage au *fantasme d’être dévoré*.
 
 <!-- id: s12-06-0064 -->
 
@@ -274,7 +278,7 @@ Saisir la cohérence…
 
 <!-- id: s12-06-0065 -->
 
-> avec le point focal, avec toutes les déterminations que va nous permettre de nouer la localisation de ce point focal …*saisir la cohérence de ce fait d’expérience avec* ce que nous appelons tellement confusément *l’identification*, du même coup, précise ce qu’il en est de cette identification telle ou telle, de celle-ci et de pas une autre, voilà dans quoi nous avançons et qui commande notre pas.
+avec le point focal, avec toutes les déterminations que va nous permettre de nouer la localisation de ce point focal …*saisir la cohérence de ce fait d’expérience avec* ce que nous appelons tellement confusément *l’identification*, du même coup, précise ce qu’il en est de cette identification telle ou telle, de celle-ci et de pas une autre, voilà dans quoi nous avançons et qui commande notre pas.
 
 <!-- id: s12-06-0066 -->
 
@@ -290,9 +294,9 @@ Ce que nous appellerons *un énoncé*…
 
 <!-- id: s12-06-0069 -->
 
-> au sens où il nous intéresse, au sens où il a des incidences d’identification,
->
-> je dis là non pas d’identification analytique, mais d’identification analytique et conceptuelle …c’est quelque chose qu’en effet nous voulons bien symboliser par un cercle.
+au sens où il nous intéresse, au sens où il a des incidences d’identification,
+
+je dis là non pas d’identification analytique, mais d’identification analytique et conceptuelle …c’est quelque chose qu’en effet nous voulons bien symboliser par un cercle.
 
 <!-- id: s12-06-0070 -->
 
@@ -336,7 +340,7 @@ Nous pouvons de ce cercle ainsi écrit, tel qu’il est là par exemple :
 
 <!-- id: s12-06-0080 -->
 
-> ne tenez compte encore ni des lettres ni de la fonction de cette ligne diamétrale …nous pouvons écrire : « *Tous les hommes sont mortels.* ». Le « *sont mortels* » aurait dû être écrit à la suite, j’aurais dû aussi l’écrire à l’envers mais ça n’aurait rien ajouté. Nous pouvons aussi écrire : « *Socrate est mortel* ». Il s’agit de savoir ce que nous faisons en articulant ces énoncés, que selon les cas nous appellerons *prédication*, *jugement*, ou *concept*.
+ne tenez compte encore ni des lettres ni de la fonction de cette ligne diamétrale …nous pouvons écrire : « *Tous les hommes sont mortels.* ». Le « *sont mortels* » aurait dû être écrit à la suite, j’aurais dû aussi l’écrire à l’envers mais ça n’aurait rien ajouté. Nous pouvons aussi écrire : « *Socrate est mortel* ». Il s’agit de savoir ce que nous faisons en articulant ces énoncés, que selon les cas nous appellerons *prédication*, *jugement*, ou *concept*.
 
 <!-- id: s12-06-0081 -->
 
@@ -364,7 +368,7 @@ Bref que *les deux moitiés du cercle à ce niveau ne sont point homogènes*, qu
 
 <!-- id: s12-06-0087 -->
 
-> sauf à tout prix vouloir s’aveugler comme c’est la fonction du logicien formel …que ce n’est pas dans le même champ, du point de vue de l’identification au sens où elle nous intéresse :
+sauf à tout prix vouloir s’aveugler comme c’est la fonction du logicien formel …que ce n’est pas dans le même champ, du point de vue de l’identification au sens où elle nous intéresse :
 
 <!-- id: s12-06-0088 -->
 
@@ -412,11 +416,11 @@ Je n’ai pu ici - parce qu’après tout, comme de bien d’autres choses, je v
 
 <!-- id: s12-06-0099 -->
 
-> comme opposé à la ρῆσις \[rhésis\], à savoir comme d’une des deux fonctions essentielles du langage …l’ὄνομα \[onoma\]…
+comme opposé à la ρῆσις \[rhésis\], à savoir comme d’une des deux fonctions essentielles du langage …l’ὄνομα \[onoma\]…
 
 <!-- id: s12-06-0100 -->
 
-> au temps de PLATON et d’ARISTOTE, aussi bien de PROTAGORAS et aussi bien dans le *Cratyle* [^48] …l’ὄνομα \[onoma\] s’appelle, quand il s’agit du *nom propre,* l’ὄνομα κύριον \[onoma keriun\], ce qui veut dire *le nom par excellence*.
+au temps de PLATON et d’ARISTOTE, aussi bien de PROTAGORAS et aussi bien dans le *Cratyle* [^48] …l’ὄνομα \[onoma\] s’appelle, quand il s’agit du *nom propre,* l’ὄνομα κύριον \[onoma keriun\], ce qui veut dire *le nom par excellence*.
 
 <!-- id: s12-06-0101 -->
 
@@ -428,7 +432,7 @@ Et c’est bien là ce qui permet cette *faute de logique*. Car à la vérité, 
 
 <!-- id: s12-06-0103 -->
 
-> entendez de ceci où au maximum se majore cette fonction *propre au signifiant* qui est de ne pouvoir s’identifiera soi-même, ce qui assurément vient culminer dans la fonction de la nomination …ce SOCRATE qui est à la fois un « *soi-disant* » et un « *autre-disant* » : celui qui se déclare comme SOCRATE et celui que d’autres, d’autres qui sont les éléments de sa lignée, qu’ils soient incarnés ou non, que d’autres sont couverts du nom de SOCRATE, voilà qui ne peut pas se traiter *d’une façon homogène* avec quoi que ce soit qui puisse être inclus sous la rubrique de « *tous les hommes* ».
+entendez de ceci où au maximum se majore cette fonction *propre au signifiant* qui est de ne pouvoir s’identifiera soi-même, ce qui assurément vient culminer dans la fonction de la nomination …ce SOCRATE qui est à la fois un « *soi-disant* » et un « *autre-disant* » : celui qui se déclare comme SOCRATE et celui que d’autres, d’autres qui sont les éléments de sa lignée, qu’ils soient incarnés ou non, que d’autres sont couverts du nom de SOCRATE, voilà qui ne peut pas se traiter *d’une façon homogène* avec quoi que ce soit qui puisse être inclus sous la rubrique de « *tous les hommes* ».
 
 <!-- id: s12-06-0104 -->
 
@@ -464,9 +468,9 @@ Quel mystère ! Il y a pourtant chez ce « *soi-disant* » par excellence…
 
 <!-- id: s12-06-0112 -->
 
-> ce que grâce à ceux qui l’ont suivi, et sans doute n’est-ce point par hasard, à ce *soi-disant* toujours *soi-disant* SOCRATE,
->
-> ce qui veut dire ici exactement le contraire, à savoir *qu’il ne se dit pas* …il y a tout de même quelque chose… deux choses, qui sont irréfragables, deux façons qui ne prêtent pas à interprétation quant aux dires de SOCRATE.
+ce que grâce à ceux qui l’ont suivi, et sans doute n’est-ce point par hasard, à ce *soi-disant* toujours *soi-disant* SOCRATE,
+
+ce qui veut dire ici exactement le contraire, à savoir *qu’il ne se dit pas* …il y a tout de même quelque chose… deux choses, qui sont irréfragables, deux façons qui ne prêtent pas à interprétation quant aux dires de SOCRATE.
 
 <!-- id: s12-06-0113 -->
 
@@ -486,9 +490,9 @@ Et, chose curieuse, *même en ce grand siècle* - le XIX<sup>ème</sup> - *de la
 
 <!-- id: s12-06-0117 -->
 
-> *dans quelles fonctions ça rentre au-delà de son phénomène ?*
->
-> *qu’est-ce que cela veut dire dans le champ subjectif ?* …tant qu’on n’a pas ce qui nous permet, dans mon discours de la formuler comme *ce petit objet déchu de l’autre*, comme il y en a d’autres de ces objets - l’*objet(a)* pour l’appeler par son nom - alors nous n’avons pas l’appareil suffisant pour situer sans imprudence *la fonction de la voix* dans un cas comme celui de SOCRATE, en effet privilégié.
+*dans quelles fonctions ça rentre au-delà de son phénomène ?*
+
+*qu’est-ce que cela veut dire dans le champ subjectif ?* …tant qu’on n’a pas ce qui nous permet, dans mon discours de la formuler comme *ce petit objet déchu de l’autre*, comme il y en a d’autres de ces objets - l’*objet(a)* pour l’appeler par son nom - alors nous n’avons pas l’appareil suffisant pour situer sans imprudence *la fonction de la voix* dans un cas comme celui de SOCRATE, en effet privilégié.
 
 <!-- id: s12-06-0118 -->
 
@@ -528,9 +532,9 @@ Seulement voilà, ce désir de SOCRATE…
 
 <!-- id: s12-06-0127 -->
 
-> dont ce n’est peut-être pas trop dire qu’il est à la racine des trois quarts de ce qui,
->
-> dans *la réalité*, ou ce que vous avez appelé telle, nous configure, nous tous qui sommes là …ce désir de SOCRATE, celui qui s’affirme dans l’ἀτοπία \[atopia\], c’est celui qui fait SOCRATE - de son temps – être « *celui qui interroge le maître* ».
+dont ce n’est peut-être pas trop dire qu’il est à la racine des trois quarts de ce qui,
+
+dans *la réalité*, ou ce que vous avez appelé telle, nous configure, nous tous qui sommes là …ce désir de SOCRATE, celui qui s’affirme dans l’ἀτοπία \[atopia\], c’est celui qui fait SOCRATE - de son temps – être « *celui qui interroge le maître* ».
 
 <!-- id: s12-06-0128 -->
 
@@ -566,9 +570,13 @@ Or SOCRATE dit ceci :
 
 <!-- id: s12-06-0136 -->
 
-> « *Il n’y a pas de choix, ou vous me laissez être comme je suis, fusse à me mettre sur la cheminée comme une pendule, au Prytanée,*
->
-> *ou bien alors la mort, ce qui, à mon âge*... » *ajoute-t-il*.
+<div class="text-quotation">
+
+« *Il n’y a pas de choix, ou vous me laissez être comme je suis, fusse à me mettre sur la cheminée comme une pendule, au Prytanée,*
+
+*ou bien alors la mort, ce qui, à mon âge*... » *ajoute-t-il*.
+
+</div>
 
 <!-- id: s12-06-0137 -->
 
@@ -580,7 +588,7 @@ SOCRATE ne cherche en aucun cas à être drôle, il n’est tragique…
 
 <!-- id: s12-06-0139 -->
 
-> et encore : quel est ce singulier tragique des derniers moments de SOCRATE ? Laissons ce point suspendu …il n’est tragique qu’à la fin. En tout cas ce qu’il n’a jamais dit c’est qu’il était un homme.
+et encore : quel est ce singulier tragique des derniers moments de SOCRATE ? Laissons ce point suspendu …il n’est tragique qu’à la fin. En tout cas ce qu’il n’a jamais dit c’est qu’il était un homme.
 
 <!-- id: s12-06-0140 -->
 
@@ -608,7 +616,7 @@ Je ne pointerai ma ponctuation d’aujourd’hui qu’autour d’un trait topolo
 
 <!-- id: s12-06-0146 -->
 
-> en tout cas, et de quelque façon que ces deux cercles s’articulent, et assurément ils ne se recouvrent pas, disjoints qu’ils sont de toute la force de la reversion topologique autour de laquelle j’ai fait tourner aujourd’hui le jeu de mon discours …ponctuation que je marquerai de cette ligne virtuelle qui n’existe pas, qui n’est pas dans la surface, justement qui est essentiellement trompeuse.
+en tout cas, et de quelque façon que ces deux cercles s’articulent, et assurément ils ne se recouvrent pas, disjoints qu’ils sont de toute la force de la reversion topologique autour de laquelle j’ai fait tourner aujourd’hui le jeu de mon discours …ponctuation que je marquerai de cette ligne virtuelle qui n’existe pas, qui n’est pas dans la surface, justement qui est essentiellement trompeuse.
 
 <!-- id: s12-06-0147 -->
 
@@ -696,7 +704,7 @@ Ce désir et ce qu’il détermine, et ce qui n’est point sans figure, qui au 
 
 <!-- id: s12-06-0168 -->
 
-> après les autres : *indétermination, tromperie, incertitude* …nous introduit la *4<sup>ème</sup>* qui commande tout et qui est notre position même - ceci clairement articulé, vu et énoncé par FREUD – qui est celle même du désir en tant qu’elle détermine dans la réalité *la catégorie de l’impossible*.
+après les autres : *indétermination, tromperie, incertitude* …nous introduit la *4<sup>ème</sup>* qui commande tout et qui est notre position même - ceci clairement articulé, vu et énoncé par FREUD – qui est celle même du désir en tant qu’elle détermine dans la réalité *la catégorie de l’impossible*.
 
 <!-- id: s12-06-0169 -->
 

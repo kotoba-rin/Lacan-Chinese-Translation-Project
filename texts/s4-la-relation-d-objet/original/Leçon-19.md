@@ -438,11 +438,11 @@ Vous devez bien concevoir qu’ici au niveau individuel…
 
 <!-- id: s4-19-0087 -->
 
-> si *le mythe* assu­rément par toutes sortes de caractères ne peut d’aucune façon être complètement restitué
->
-> à une sorte d’identité avec la *mythologie* développée qui est celle qui est *à la base* de toute l’assiette sociale dans le monde, partout là où *les mythes* sont présents par leur fonction, et ne croyez pas que même là où ils sont absents apparemment comme dans notre civilisation scientifique, ils ne soient pas tout de même quelque part
-> …tout de même au niveau individuel ce caractère est maintenu du *développement mythique*, qu’en somme nous devons concevoir
-> sa fonction de solution dans une situation fermée en impasse, comme celle du petit Hans, entre son père et sa mère.
+si *le mythe* assu­rément par toutes sortes de caractères ne peut d’aucune façon être complètement restitué
+
+à une sorte d’identité avec la *mythologie* développée qui est celle qui est *à la base* de toute l’assiette sociale dans le monde, partout là où *les mythes* sont présents par leur fonction, et ne croyez pas que même là où ils sont absents apparemment comme dans notre civilisation scientifique, ils ne soient pas tout de même quelque part
+…tout de même au niveau individuel ce caractère est maintenu du *développement mythique*, qu’en somme nous devons concevoir
+sa fonction de solution dans une situation fermée en impasse, comme celle du petit Hans, entre son père et sa mère.
 
 <!-- id: s4-19-0088 -->
 

@@ -70,7 +70,7 @@ Puisque ce que nous découvrons dans l’expérience de la moindre psychanalyse,
 
 <!-- id: s17-02-0017 -->
 
-> non pas de *la connaissance*, non pas de *la représen­tation,* ...mais très précisément de ce *quelque chose* *qui lie*, dans une relation de réseau, *un signifiant* **S**<sub>1</sub>, si vous voulez, *à un autre signifiant* **S<sub>2</sub>**.
+non pas de *la connaissance*, non pas de *la représen­tation,* ...mais très précisément de ce *quelque chose* *qui lie*, dans une relation de réseau, *un signifiant* **S**<sub>1</sub>, si vous voulez, *à un autre signifiant* **S<sub>2</sub>**.
 
 <!-- id: s17-02-0018 -->
 
@@ -102,11 +102,11 @@ Néanmoins il apparaît, à la lumière de cette notion, «* qu’il n’est pa
 
 <!-- id: s17-02-0025 -->
 
-> pour opérer sur le schème du discours du Maître, du grand M ...c’est invisiblement le travail esclave...
+pour opérer sur le schème du discours du Maître, du grand M ...c’est invisiblement le travail esclave...
 
 <!-- id: s17-02-0026 -->
 
-> celui qui constitue un inconscient non révélé ...qui livre de cette vie qui vaut qu’on en parle, ce qui de vérités, de vérités vraies, a fait surgir tant *de détours*, *de fictions*, et *d’erreurs.*
+celui qui constitue un inconscient non révélé ...qui livre de cette vie qui vaut qu’on en parle, ce qui de vérités, de vérités vraies, a fait surgir tant *de détours*, *de fictions*, et *d’erreurs.*
 
 <!-- id: s17-02-0027 -->
 
@@ -122,7 +122,7 @@ Pour tout dire, l’idée que le savoir puisse faire...
 
 <!-- id: s17-02-0030 -->
 
-> d’aucune façon, ni à aucun moment, fût-il d’espoir dans l’avenir ...totalité close, voilà ce qui bien sûr, n’avait point attendu la psychanalyse pour pouvoir paraître douteux.
+d’aucune façon, ni à aucun moment, fût-il d’espoir dans l’avenir ...totalité close, voilà ce qui bien sûr, n’avait point attendu la psychanalyse pour pouvoir paraître douteux.
 
 <!-- id: s17-02-0031 -->
 
@@ -146,7 +146,7 @@ C’est une idée qui montre combien *peu,* porte l’incidence des écoles, c�
 
 <!-- id: s17-02-0036 -->
 
-> que le savoir puisse faire totalité ...qui si je puis dire est immanente, immanente au politique en tant que tel. On le sait depuis longtemps.
+que le savoir puisse faire totalité ...qui si je puis dire est immanente, immanente au politique en tant que tel. On le sait depuis longtemps.
 
 <!-- id: s17-02-0037 -->
 
@@ -162,7 +162,7 @@ Il est important de savoir qu’elle a toujours été utilisé dans le politique
 
 <!-- id: s17-02-0040 -->
 
-> U M
+U M
 
 <!-- id: s17-02-0041 -->
 
@@ -190,9 +190,9 @@ C’est pourquoi j’ai cru pouvoir indiquer...
 
 <!-- id: s17-02-0047 -->
 
-> je regrette qu’un mince contretemps m’ait empêché la dernière fois
->
-> peut-être d’y revenir pour donner telles indication supplémentaires ...j’ai cru pouvoir indiquer que ce qui s’opère du *discours du Maître antique* à celui *du Maître moderne* qu’on appelle *capitaliste*, c’est quelque chose qui s’est modifié dans la place du savoir.
+je regrette qu’un mince contretemps m’ait empêché la dernière fois
+
+peut-être d’y revenir pour donner telles indication supplémentaires ...j’ai cru pouvoir indiquer que ce qui s’opère du *discours du Maître antique* à celui *du Maître moderne* qu’on appelle *capitaliste*, c’est quelque chose qui s’est modifié dans la place du savoir.
 
 <!-- id: s17-02-0048 -->
 
@@ -248,7 +248,7 @@ Il est à produire par ceux-là qui se trouvent substitués à l’esclave antiq
 
 <!-- id: s17-02-0061 -->
 
-> et consommables tout autant que les autres ...d’une *société* dite « *de consommation* »: le *« matériel humain »,* comme on l’a énoncé dans un temps, aux applaudissements de certains qui y ont vu de la tendresse... Ceci mérite d’être pointé, puisque aussi bien ça nous concerne.
+et consommables tout autant que les autres ...d’une *société* dite « *de consommation* »: le *« matériel humain »,* comme on l’a énoncé dans un temps, aux applaudissements de certains qui y ont vu de la tendresse... Ceci mérite d’être pointé, puisque aussi bien ça nous concerne.
 
 <!-- id: s17-02-0062 -->
 
@@ -332,11 +332,11 @@ Voilà ce que veut dire *le discours de l’hystérique*, qui industrieuse comme
 
 <!-- id: s17-02-0082 -->
 
-> ça n’est pas son privilège : beaucoup d’hommes se font analyser,
->
-> et qui de ce seul fait sont bien forcés aussi d’en passer par le *discours de l’hystérique*,
->
-> puisque c’est la loi, la règle du jeu ...il s’agit de savoir ce qu’on en tire pour ce qui est du rapport entre hommes et femmes.
+ça n’est pas son privilège : beaucoup d’hommes se font analyser,
+
+et qui de ce seul fait sont bien forcés aussi d’en passer par le *discours de l’hystérique*,
+
+puisque c’est la loi, la règle du jeu ...il s’agit de savoir ce qu’on en tire pour ce qui est du rapport entre hommes et femmes.
 
 <!-- id: s17-02-0083 -->
 
@@ -356,7 +356,7 @@ C’est là-dessus qu’auraient porté mes réflexions de la dernière fois si 
 
 <!-- id: s17-02-0087 -->
 
-> on m’affirme que c’est du réel de la décolonisation : un hospitalisé, de soutien pour nous dans l’Algérie ancienne, et casé ici, et comme vous le voyez, une char­mante folâtrerie \[*Rires*\] ...grâce à ça vous ne saurez pas... comme ça, au moins jusqu’à un certain temps, car il faut bien que j’avance, ...quelle parenté je mets entre *le discours philosophique* et *le discours de l’hystérique*, précisément en ceci justement, qu’il semble que ce soit le discours philosophique qui ait animé le Maître, du désir de savoir.
+on m’affirme que c’est du réel de la décolonisation : un hospitalisé, de soutien pour nous dans l’Algérie ancienne, et casé ici, et comme vous le voyez, une char­mante folâtrerie \[*Rires*\] ...grâce à ça vous ne saurez pas... comme ça, au moins jusqu’à un certain temps, car il faut bien que j’avance, ...quelle parenté je mets entre *le discours philosophique* et *le discours de l’hystérique*, précisément en ceci justement, qu’il semble que ce soit le discours philosophique qui ait animé le Maître, du désir de savoir.
 
 <!-- id: s17-02-0088 -->
 
@@ -388,7 +388,7 @@ Ce qui importe à *l’hystérique* c’est que l’autre...
 
 <!-- id: s17-02-0095 -->
 
-> l’autre qui s’appelle l’homme ...sache quel *objet pré­cieux* elle devient dans ce contexte de discours.
+l’autre qui s’appelle l’homme ...sache quel *objet pré­cieux* elle devient dans ce contexte de discours.
 
 <!-- id: s17-02-0096 -->
 
@@ -480,7 +480,7 @@ Seulement ce qu’il faut comprendre de ces *schémas*, comme déjà ce fut indi
 
 <!-- id: s17-02-0118 -->
 
-> M M *« modernisé »* <sub>→</sub> U
+M M *« modernisé »* <sub>→</sub> U
 
 <!-- id: s17-02-0119 -->
 
@@ -492,7 +492,7 @@ Là, à quelle place est-il ? À la place que dans le *discours du Maître*, Heg
 
 <!-- id: s17-02-0121 -->
 
-> le plus sublime des hystériques \[*Rires*\]
+le plus sublime des hystériques \[*Rires*\]
 
 <!-- id: s17-02-0122 -->
 
@@ -512,7 +512,7 @@ Seulement il faut bien le dire, ce que j’appelle « *l’hystérie »* de ce
 
 <!-- id: s17-02-0126 -->
 
-> qui est en fait la marche des écoles et rien de plus ...aboutissait au « *savoir absolu »*, ce ne serait que pour mar­quer l’annulation, l’échec, l’évanouissement au terme de ce qui seul motive *la fonction du savoir* : c’est sa dialectique d’avec *la jouissance*, de ce qui ferait que le « *savoir absolu »* ce serait purement et simplement l’abolition de ce terme.
+qui est en fait la marche des écoles et rien de plus ...aboutissait au « *savoir absolu »*, ce ne serait que pour mar­quer l’annulation, l’échec, l’évanouissement au terme de ce qui seul motive *la fonction du savoir* : c’est sa dialectique d’avec *la jouissance*, de ce qui ferait que le « *savoir absolu »* ce serait purement et simplement l’abolition de ce terme.
 
 <!-- id: s17-02-0127 -->
 
@@ -556,9 +556,9 @@ J’ai fait état en Italie...
 
 <!-- id: s17-02-0137 -->
 
-> dans une des conférences qu’on m’avait demandées - je ne sais pourquoi –
->
-> et à laquelle j’ai fait face assez médiocrement - pourquoi ? ...j’ai fait état de *la Chimère* \[*la Sphynge*\], où s’incarne précisément le caractère originel du *discours de l’hystérique*.
+dans une des conférences qu’on m’avait demandées - je ne sais pourquoi –
+
+et à laquelle j’ai fait face assez médiocrement - pourquoi ? ...j’ai fait état de *la Chimère* \[*la Sphynge*\], où s’incarne précisément le caractère originel du *discours de l’hystérique*.
 
 <!-- id: s17-02-0138 -->
 
@@ -566,9 +566,9 @@ Elle pose une énigme à l’homme Œdipe...
 
 <!-- id: s17-02-0139 -->
 
-> qui avait peut-être déjà un complexe mais pas forcément,
->
-> certainement pas celui auquel il devait donner son nom ...il lui répond d’une certaine façon, et c’est comme cela qu’il devient Œdipe.
+qui avait peut-être déjà un complexe mais pas forcément,
+
+certainement pas celui auquel il devait donner son nom ...il lui répond d’une certaine façon, et c’est comme cela qu’il devient Œdipe.
 
 <!-- id: s17-02-0140 -->
 
@@ -666,7 +666,7 @@ Quand on cite Marx ou Freud...
 
 <!-- id: s17-02-0163 -->
 
-> ce n’est pas au hasard que j’ai choisi ces deux noms ...c’est en fonction de la part prise à un discours par le lecteur supposé, qu’on les cite.
+ce n’est pas au hasard que j’ai choisi ces deux noms ...c’est en fonction de la part prise à un discours par le lecteur supposé, qu’on les cite.
 
 <!-- id: s17-02-0164 -->
 
@@ -682,11 +682,11 @@ Vous remarquerez que c’est là le seul point vif...
 
 <!-- id: s17-02-0167 -->
 
-> mais pouvais-je l’expliquer jusqu’à présent ? ...qui fait que la citation...
+mais pouvais-je l’expliquer jusqu’à présent ? ...qui fait que la citation...
 
 <!-- id: s17-02-0168 -->
 
-> le fait que l’on cite ou non un auteur ...peut avoir tout à fait, au second degré, une importance.
+le fait que l’on cite ou non un auteur ...peut avoir tout à fait, au second degré, une importance.
 
 <!-- id: s17-02-0169 -->
 
@@ -746,7 +746,7 @@ Si la parole est donnée si librement au *psychanaly­sant*...
 
 <!-- id: s17-02-0183 -->
 
-> c’est justement ainsi qu’il reçoit cette liberté ...c’est qu’il lui est reconnu qu’il peut parler comme un Maître, c’est-à-dire comme un sansonnet, et que ça donnera d’aussi bons résultats que dans le cas d’un vrai Maître, que c’est supposé conduire à un savoir, un savoir dont se fait le gage, l’otage, celui qui accepte d’avance d’être « *le produit »* des cogitations du *psychanalysant*, c’est à savoir très précisément *le psychanalyste*, *en tant que, comme ce produit, il est destiné à la fin à la perte*, à l’élimina­tion du processus, je veux dire qu’il puisse assumer cette place.
+c’est justement ainsi qu’il reçoit cette liberté ...c’est qu’il lui est reconnu qu’il peut parler comme un Maître, c’est-à-dire comme un sansonnet, et que ça donnera d’aussi bons résultats que dans le cas d’un vrai Maître, que c’est supposé conduire à un savoir, un savoir dont se fait le gage, l’otage, celui qui accepte d’avance d’être « *le produit »* des cogitations du *psychanalysant*, c’est à savoir très précisément *le psychanalyste*, *en tant que, comme ce produit, il est destiné à la fin à la perte*, à l’élimina­tion du processus, je veux dire qu’il puisse assumer cette place.
 
 <!-- id: s17-02-0184 -->
 
@@ -762,7 +762,7 @@ Mais ce n’est pas là l’essentiel : à le supposer - *le sujet* - savoir ce
 
 <!-- id: s17-02-0187 -->
 
-> plus encore que l’hystérique dont c’est la vérité de la conduite mais non point l’être même ...lui, *l’analyste, se fait la cause du désir de l’analysant*.
+plus encore que l’hystérique dont c’est la vérité de la conduite mais non point l’être même ...lui, *l’analyste, se fait la cause du désir de l’analysant*.
 
 <!-- id: s17-02-0188 -->
 

@@ -90,11 +90,11 @@ PSYCHÉ, comblée, s’interroge sur ce à quoi elle a affaire et c’est ce mom
 
 <!-- id: s8-17-0022 -->
 
-> peut être bien au-delà de ce que lui-même pouvait, ou eût pu en articuler dans un discours : il y a un discours
->
-> sur les dieux antiques de ce personnage, j’ai pris soin de m’y reporter, sans grande illusion,
->
-> il n’y a pas grand-chose à tirer de ce discours, mais l’œuvre parle suffisamment elle-même ...que l’artiste a dans cette image saisi ce quelque chose d’instantané que j’ai appelé la dernière fois ce moment d’apparition, de naissance de la PSYCHÉ, cette sorte d’échange des pouvoirs qui fait qu’elle prend corps, et avec tout ce cortège de *malheurs* qui seront les siens pour qu’elle boucle une boucle, *pour qu’elle retrouve dans cet instant ce quelque chose*, qui pour elle, va disparaître l’instant après, précisément ce qu’elle a voulu saisir, ce qu’elle a voulu dévoiler : *la figure du désir*.
+peut être bien au-delà de ce que lui-même pouvait, ou eût pu en articuler dans un discours : il y a un discours
+
+sur les dieux antiques de ce personnage, j’ai pris soin de m’y reporter, sans grande illusion,
+
+il n’y a pas grand-chose à tirer de ce discours, mais l’œuvre parle suffisamment elle-même ...que l’artiste a dans cette image saisi ce quelque chose d’instantané que j’ai appelé la dernière fois ce moment d’apparition, de naissance de la PSYCHÉ, cette sorte d’échange des pouvoirs qui fait qu’elle prend corps, et avec tout ce cortège de *malheurs* qui seront les siens pour qu’elle boucle une boucle, *pour qu’elle retrouve dans cet instant ce quelque chose*, qui pour elle, va disparaître l’instant après, précisément ce qu’elle a voulu saisir, ce qu’elle a voulu dévoiler : *la figure du désir*.
 
 <!-- id: s8-17-0023 -->
 

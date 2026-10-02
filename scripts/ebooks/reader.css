@@ -11,6 +11,7 @@ em { font-style: italic; }
 .annotation { font-size: .83em; line-height: 1.6; margin: .5em 0 .8em 1em; padding-left: .85em; border-left: 1px solid #a9b2b5; color: #3e484d; }
 .annotation p:last-child { margin-bottom: 0; }
 blockquote { margin: .5em 1em; }
+.text-quotation { margin: .75em 0 .75em 2em; font-style: italic; }
 .knowledge-links { font-size: .73em; line-height: 1.7; margin: .6em 0 .9em; color: #58696c; }
 .knowledge-links .label { color: #727e81; margin-right: .6em; }
 img { max-width: 100%; max-height: 75vh; height: auto; object-fit: contain; }

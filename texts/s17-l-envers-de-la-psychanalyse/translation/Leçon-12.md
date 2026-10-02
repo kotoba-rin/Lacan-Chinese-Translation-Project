@@ -84,11 +84,11 @@ max_segment_id: 265
 <!-- id: s17-12-0023 -->
 <!-- ids: s17-12-0023 s17-12-0024 s17-12-0025 s17-12-0026 s17-12-0027 s17-12-0028 -->
 
-> *Und endlich ist nicht zu vergessen, daß die analytische Beziehung auf Wahrheitsliebe, d. h. auf die Anerkennung der Realität gegründet ist und jeden Schein und Trug ausschließt.*
->
-> “最后，不可忘记：分析关系建立在对真理的爱、也就是对现实的承认之上，并排除一切假象与欺骗。”
->
-> ——《有限的与无限的分析》，第七部分，1937 年
+*Und endlich ist nicht zu vergessen, daß die analytische Beziehung auf Wahrheitsliebe, d. h. auf die Anerkennung der Realität gegründet ist und jeden Schein und Trug ausschließt.*
+
+“最后，不可忘记：分析关系建立在对真理的爱、也就是对现实的承认之上，并排除一切假象与欺骗。”
+
+——《有限的与无限的分析》，第七部分，1937 年
 
 即使不懂德语，你们也能认出 *Realität*，因为它直接摹自我们的拉丁语。
 

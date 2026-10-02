@@ -10,9 +10,9 @@ Qu’est-ce que je vais vous raconter aujourd’hui ? Je vous ai quittés la der
 
 <!-- id: s2-20-0002 -->
 
-> c’est bien là que je m’excuse auprès de ceux qui n’étaient pas là la dernière fois,
->
-> ça va leur sembler surprenant en un endroit où on s’occupe de la psychanalyse
+c’est bien là que je m’excuse auprès de ceux qui n’étaient pas là la dernière fois,
+
+ça va leur sembler surprenant en un endroit où on s’occupe de la psychanalyse
 
 <!-- id: s2-20-0003 -->
 
@@ -240,7 +240,7 @@ Par définition, toute espèce d’action est une action de proche en proche. Ce
 
 <!-- id: s2-20-0059 -->
 
-> cette action qui s’exerce à distance, en tant qu’à distance
+cette action qui s’exerce à distance, en tant qu’à distance
 
 <!-- id: s2-20-0060 -->
 
@@ -252,9 +252,9 @@ Car pour que le système de NEWTON ait sa valeur, il faut un certain nombre de *
 
 <!-- id: s2-20-0062 -->
 
-> dans ce que nous appréhendons comme registre de la science et uniquement à la somme de la physique
->
-> qui entre dans la théorie du champ unifié, c’est-à-dire que ça s’est beaucoup augmenté depuis M. EINSTEIN
+dans ce que nous appréhendons comme registre de la science et uniquement à la somme de la physique
+
+qui entre dans la théorie du champ unifié, c’est-à-dire que ça s’est beaucoup augmenté depuis M. EINSTEIN
 
 <!-- id: s2-20-0063 -->
 
@@ -326,7 +326,7 @@ J’ai lu pour la première fois un article très sympathique sur « *la cure t
 
 <!-- id: s2-20-0080 -->
 
-> il ne faut pas confondre *la cure type* avec certaine façon de révéler le type de la cure
+il ne faut pas confondre *la cure type* avec certaine façon de révéler le type de la cure
 
 <!-- id: s2-20-0081 -->
 
@@ -378,9 +378,9 @@ Mais il est certain que la théorie psychanaly­tique - car il faut cerner les c
 
 <!-- id: s2-20-0093 -->
 
-> je veux dire en prenant les choses par ce biais, par cette bande, par l’intérêt récent - je ne dis pas pour cela
->
-> moins digne pour nous - de relation d’objet, de pulsion partielle, dans la psychanalyse
+je veux dire en prenant les choses par ce biais, par cette bande, par l’intérêt récent - je ne dis pas pour cela
+
+moins digne pour nous - de relation d’objet, de pulsion partielle, dans la psychanalyse
 
 <!-- id: s2-20-0094 -->
 
@@ -448,7 +448,7 @@ Je voudrais aujourd’hui vous proposer ce que je disais l’année dernière à
 
 <!-- id: s2-20-0110 -->
 
-> mais c’est la même chose, je raconte toujours la même chose !
+mais c’est la même chose, je raconte toujours la même chose !
 
 <!-- id: s2-20-0111 -->
 
@@ -488,9 +488,9 @@ Ici, en haut, la lettre S : c’est la lettre S mais c’est peut-être autre c
 
 <!-- id: s2-20-0120 -->
 
-> comme on passe son temps à nous casser les pieds à le dire avec sa totalité ! Parce que, pourquoi serait-il total ? Nous n’en savons rien. Vous en avez déjà rencontré, vous, des êtres totaux ? C’est peut-être *un idéal*, mais je n’en ai jamais vu. Moi, je ne suis pas total. Vous, non plus. Si on était totaux, on serait chacun de son côté, totaux,
->
-> on ne serait pas là, ensemble, à essayer de s’or­ganiser, comme on dit
+comme on passe son temps à nous casser les pieds à le dire avec sa totalité ! Parce que, pourquoi serait-il total ? Nous n’en savons rien. Vous en avez déjà rencontré, vous, des êtres totaux ? C’est peut-être *un idéal*, mais je n’en ai jamais vu. Moi, je ne suis pas total. Vous, non plus. Si on était totaux, on serait chacun de son côté, totaux,
+
+on ne serait pas là, ensemble, à essayer de s’or­ganiser, comme on dit
 
 <!-- id: s2-20-0121 -->
 
@@ -586,7 +586,7 @@ C’est ce qui ne varie pas, parce que les auteurs sont entièrement orientés d
 
 <!-- id: s2-20-0144 -->
 
-> et pour cause, la seule cause est *qu’ils ne savent pas pourquoi*, mais ils ont raison, c’est vrai !
+et pour cause, la seule cause est *qu’ils ne savent pas pourquoi*, mais ils ont raison, c’est vrai !
 
 <!-- id: s2-20-0145 -->
 
@@ -634,9 +634,9 @@ Il est bien entendu que tout ce que l’analyste arrive…
 
 <!-- id: s2-20-0156 -->
 
-> au moyen d’un certain type d’interprétations d’une résistance, d’une certaine direction,
->
-> dans certain sens, d’une certaine réduction de l’expérience totale de l’analyse à ses éléments seulement imagi­naires
+au moyen d’un certain type d’interprétations d’une résistance, d’une certaine direction,
+
+dans certain sens, d’une certaine réduction de l’expérience totale de l’analyse à ses éléments seulement imagi­naires
 
 <!-- id: s2-20-0157 -->
 
@@ -656,7 +656,7 @@ Autrement dit, si ce qui se passe dans l’analyse est quelque chose qui doit vi
 
 <!-- id: s2-20-0161 -->
 
-> cela n’exclut pas, bien entendu, le premier repérage de *l’imaginaire*, tel que je vous le montrai
+cela n’exclut pas, bien entendu, le premier repérage de *l’imaginaire*, tel que je vous le montrai
 
 <!-- id: s2-20-0162 -->
 
@@ -664,9 +664,9 @@ Autrement dit, si ce qui se passe dans l’analyse est quelque chose qui doit vi
 
 <!-- id: s2-20-0163 -->
 
-> dans cette relation dernière du sujet à un Autre comme tel, à un véritable Autre,
->
-> à l’Autre qui est un vrai Autre, à l’Autre qui donne la réponse qu’on n’attend pas
+dans cette relation dernière du sujet à un Autre comme tel, à un véritable Autre,
+
+à l’Autre qui est un vrai Autre, à l’Autre qui donne la réponse qu’on n’attend pas
 
 <!-- id: s2-20-0164 -->
 

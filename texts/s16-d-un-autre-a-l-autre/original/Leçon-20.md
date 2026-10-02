@@ -50,11 +50,11 @@ Ici est la formule, *la formule « œuf »* si je puis dire, qui nous permet d
 
 <!-- id: s16-20-0012 -->
 
-> *à savoir qu’il y a bien quelque chose qui constitue cette identité qui différencie ce monsieur-là de son voisin* …qu’à se contenter de ceci, nous nous trouvons en fait recouvrir tout énoncé, tout énoncé simplement descriptif de ce qui se passe effectivement dans la *relation analytique* comme d’un jeu de marionnettes où - je le répète - le sujet est aussi mobile que la parole même, la parole même du montreur des dites marionnettes, à savoir que, quand il parle *au nom de l’un* qu’il tient dans sa main droite, il ne peut pas en même temps parler *au nom de l’autre*, mais qu’il est aussi bien capable de passer de l’un à l’autre avec la rapidité que l’on sait.
+*à savoir qu’il y a bien quelque chose qui constitue cette identité qui différencie ce monsieur-là de son voisin* …qu’à se contenter de ceci, nous nous trouvons en fait recouvrir tout énoncé, tout énoncé simplement descriptif de ce qui se passe effectivement dans la *relation analytique* comme d’un jeu de marionnettes où - je le répète - le sujet est aussi mobile que la parole même, la parole même du montreur des dites marionnettes, à savoir que, quand il parle *au nom de l’un* qu’il tient dans sa main droite, il ne peut pas en même temps parler *au nom de l’autre*, mais qu’il est aussi bien capable de passer de l’un à l’autre avec la rapidité que l’on sait.
 
 <!-- id: s16-20-0013 -->
 
-> <img src="assets/image100.jpeg" style="width:0.63434in;height:0.40338in" alt="83a" />
+<img src="assets/image100.jpeg" style="width:0.63434in;height:0.40338in" alt="83a" />
 
 <!-- id: s16-20-0014 -->
 
@@ -78,9 +78,9 @@ Ce *rapport premier*, qui aussi bien est gros de tous les autres, de S<sub>1</su
 
 <!-- id: s16-20-0019 -->
 
-> sur ceci que je considère comme assez acquis pour avoir été, j’en ai recueilli témoignage,
->
-> sensible à certains qui ont trouvé quelque évidence, j’entends de maniement clinique …à cet *en-­forme du* A, formule destinée à montrer ce qu’il en est vraiment du *a*, à savoir de la structure topologique du A lui-même, de ce qui fait que le A *n’est pas complet*, n’est pas identifiable à un *Un*, en aucun cas à un tout.
+sur ceci que je considère comme assez acquis pour avoir été, j’en ai recueilli témoignage,
+
+sensible à certains qui ont trouvé quelque évidence, j’entends de maniement clinique …à cet *en-­forme du* A, formule destinée à montrer ce qu’il en est vraiment du *a*, à savoir de la structure topologique du A lui-même, de ce qui fait que le A *n’est pas complet*, n’est pas identifiable à un *Un*, en aucun cas à un tout.
 
 <!-- id: s16-20-0020 -->
 
@@ -88,7 +88,7 @@ Et pour tout dire que ce A est absolument à sentir, à représenter comme il en
 
 <!-- id: s16-20-0021 -->
 
-> *du paradoxe* dont ce n’est pas pour rien que ce sont des logiciens qui l’ont formé …*du paradoxe de* *l’ensemble dit de tous les ensembles qui ne se contiennent pas eux-mêmes*.
+*du paradoxe* dont ce n’est pas pour rien que ce sont des logiciens qui l’ont formé …*du paradoxe de* *l’ensemble dit de tous les ensembles qui ne se contiennent pas eux-mêmes*.
 
 <!-- id: s16-20-0022 -->
 
@@ -156,7 +156,7 @@ Nous pouvons poser d’ores et déjà poser que ce que devient *la trace* par m�
 
 <!-- id: s16-20-0038 -->
 
-> le signe si vous voulez, par métaphore aussi, ces mots ne sont point à leur place puisque je viens de les écarter …ce qui signifie un sujet en tant que cette trace, ce signe, contrairement à la trace naturelle, n’a plus d’autre support que l’*en-forme A*. Qu’est-ce à dire ? *La trace passe à l’en-forme de A des façons par où elle est effacée*.
+le signe si vous voulez, par métaphore aussi, ces mots ne sont point à leur place puisque je viens de les écarter …ce qui signifie un sujet en tant que cette trace, ce signe, contrairement à la trace naturelle, n’a plus d’autre support que l’*en-forme A*. Qu’est-ce à dire ? *La trace passe à l’en-forme de A des façons par où elle est effacée*.
 
 <!-- id: s16-20-0039 -->
 
@@ -240,11 +240,11 @@ C’est bien pour ça qu’il y porte tant d’intérêt, car pour lui BRIDOISON
 
 <!-- id: s16-20-0059 -->
 
-> ces traces qui ne sont effacées que d’être là - en repoussoir - effacées …ces traces qui ont un autre support qui est proprement l’*en-forme du* A…
+ces traces qui ne sont effacées que d’être là - en repoussoir - effacées …ces traces qui ont un autre support qui est proprement l’*en-forme du* A…
 
 <!-- id: s16-20-0060 -->
 
-> en tant qu’il est nécessité de ceci qu’il fasse un A, un A qui fonctionne au niveau du sujet …nous avons alors à les considérer du niveau de leur substance.
+en tant qu’il est nécessité de ceci qu’il fasse un A, un A qui fonctionne au niveau du sujet …nous avons alors à les considérer du niveau de leur substance.
 
 <!-- id: s16-20-0061 -->
 
@@ -312,7 +312,7 @@ Enfin, à articuler les choses par ce biais, nous verrons, nous toucherons du do
 
 <!-- id: s16-20-0077 -->
 
-> qui est non seulement effet, mais effet rejeté, mais effet qui s’emporte, et aussi bien effet qui s’accumule …la culture - pour tout dire - participe de ce quelque chose qui découle d’une économie fondée sur la structure de *l’objet(a)*.
+qui est non seulement effet, mais effet rejeté, mais effet qui s’emporte, et aussi bien effet qui s’accumule …la culture - pour tout dire - participe de ce quelque chose qui découle d’une économie fondée sur la structure de *l’objet(a)*.
 
 <!-- id: s16-20-0078 -->
 
@@ -348,7 +348,7 @@ Il y aurait évidemment ici à pointer en marge toutes sortes d’indications qu
 
 <!-- id: s16-20-0086 -->
 
-> point important dans cette *signification de l’index*, dans une découverte en progrès, c’est assurément quelque chose de tout autre que ce en quoi nous pouvons le distinguer pour, par exemple, dans la langue, en faire le distinctif d’une certaine sorte de *signifiant* …*index* donc, que je propose à ceux qui peuvent avoir ici un penchant à revenir sur ce que FREUD a énoncé au niveau de *Psychologie collective et analyse du moi *: à considérer que le chef, le leader, l’élément clé de l’*identification* tel qu’il l’énonce, combien il devient plus clair dans cette perspective à ce qu’on y montre la solution qui rend possible ce par quoi le sujet s’identifie strictement au *a*, autrement dit qu’il devient ce qu’il est vraiment, c’est-à-dire un sujet en tant que lui-même barré.
+point important dans cette *signification de l’index*, dans une découverte en progrès, c’est assurément quelque chose de tout autre que ce en quoi nous pouvons le distinguer pour, par exemple, dans la langue, en faire le distinctif d’une certaine sorte de *signifiant* …*index* donc, que je propose à ceux qui peuvent avoir ici un penchant à revenir sur ce que FREUD a énoncé au niveau de *Psychologie collective et analyse du moi *: à considérer que le chef, le leader, l’élément clé de l’*identification* tel qu’il l’énonce, combien il devient plus clair dans cette perspective à ce qu’on y montre la solution qui rend possible ce par quoi le sujet s’identifie strictement au *a*, autrement dit qu’il devient ce qu’il est vraiment, c’est-à-dire un sujet en tant que lui-même barré.
 
 <!-- id: s16-20-0087 -->
 
@@ -380,7 +380,7 @@ S’il y a quelque chose que l’analyse nous démontre, c’est que c’est en 
 
 <!-- id: s16-20-0094 -->
 
-> c’est que les identifications y ont été multiples, se recouvrant et toujours à la fin formant un ensemble composite.
+c’est que les identifications y ont été multiples, se recouvrant et toujours à la fin formant un ensemble composite.
 
 <!-- id: s16-20-0095 -->
 
@@ -388,7 +388,7 @@ L’ambiguïté qui reste sur tout ce qui pourrait inscrire au niveau du signifi
 
 <!-- id: s16-20-0096 -->
 
-> quand je dis radicalement, j’omets bien sûr au niveau des mammifères les caractères dits sexuels secondaires et la distinction possible du sexe tissulaire en rapport au sexe phanérogamique, mais laissons de côté ce qu’il peut en être …constatons que ce que désigne l’expérience analytique, c’est très précisément qu’à ce niveau il n’y a pas couplage signifiant : c’est au point que dans la théorie, s’il est fait les oppositions *actif-passif*, *voyeur-vu*, etc. nulle opposition n’est jamais promue comme fondamentale qui désigne le *mâle-femelle*.
+quand je dis radicalement, j’omets bien sûr au niveau des mammifères les caractères dits sexuels secondaires et la distinction possible du sexe tissulaire en rapport au sexe phanérogamique, mais laissons de côté ce qu’il peut en être …constatons que ce que désigne l’expérience analytique, c’est très précisément qu’à ce niveau il n’y a pas couplage signifiant : c’est au point que dans la théorie, s’il est fait les oppositions *actif-passif*, *voyeur-vu*, etc. nulle opposition n’est jamais promue comme fondamentale qui désigne le *mâle-femelle*.
 
 <!-- id: s16-20-0097 -->
 
@@ -500,7 +500,7 @@ L’important, c’est que c’est en ce point…
 
 <!-- id: s16-20-0124 -->
 
-> pour les cas qui tombent sous notre juridiction, c’est-à-dire ceux qui engendrent une névrose …c’est en ce point précis au moment même où cette positivation de la jouissance érotique se produit que, corrélativement se produit aussi la positivation du sujet en tant que dépendance - *anaclitisme* ai-je énoncé la dernière fois - du désir de l’Autre.
+pour les cas qui tombent sous notre juridiction, c’est-à-dire ceux qui engendrent une névrose …c’est en ce point précis au moment même où cette positivation de la jouissance érotique se produit que, corrélativement se produit aussi la positivation du sujet en tant que dépendance - *anaclitisme* ai-je énoncé la dernière fois - du désir de l’Autre.
 
 <!-- id: s16-20-0125 -->
 
@@ -520,7 +520,7 @@ Nous allons voir à quelles autres *frontières* le drame éclate. Mais d’ores
 
 <!-- id: s16-20-0129 -->
 
-> mais sans que pour autant soit assurée d’aucune façon la conjonction sexuée …que quelque chose se désigne comme essentiel à la position du sujet, c’est le désir de savoir.
+mais sans que pour autant soit assurée d’aucune façon la conjonction sexuée …que quelque chose se désigne comme essentiel à la position du sujet, c’est le désir de savoir.
 
 <!-- id: s16-20-0130 -->
 
@@ -564,7 +564,7 @@ S’il y a quelque chose qui sert dans le vocabulaire politique - et non sans ra
 
 <!-- id: s16-20-0140 -->
 
-> auquel j’ai déjà fait tout à l’heure allusion avec le langage \[紙老虎 zhǐ lǎohǔ, « *tigre de papier* » repris par Mao Zedong en 1956 \] …celui de « *tigre de papier* ».
+auquel j’ai déjà fait tout à l’heure allusion avec le langage \[紙老虎 zhǐ lǎohǔ, « *tigre de papier* » repris par Mao Zedong en 1956 \] …celui de « *tigre de papier* ».
 
 <!-- id: s16-20-0141 -->
 
@@ -616,7 +616,7 @@ Le petit Hans *qui n’a pas cessé pendant tout ce temps de jouer avec les peti
 
 <!-- id: s16-20-0153 -->
 
-> comme j’en ai fait dans son temps bel et bien la réserve …conserve, des rapports sexuels, ce quelque chose qui met au premier plan *le pénis comme fonction imaginaire *:
+comme j’en ai fait dans son temps bel et bien la réserve …conserve, des rapports sexuels, ce quelque chose qui met au premier plan *le pénis comme fonction imaginaire *:
 
 <!-- id: s16-20-0154 -->
 

@@ -33,7 +33,11 @@ quelqu’un m’a posé la question :
 
 <!-- id: s5-03-0006 -->
 
-> « *Mais alors que devient ce sujet, où est-il ?* »
+<div class="text-quotation">
+
+« *Mais alors que devient ce sujet, où est-il ?* »
+
+</div>
 
 <!-- id: s5-03-0007 -->
 
@@ -604,8 +608,12 @@ L’existence quelque part du terme « SIGNOR » est la conséquence de la *m�
 
 <!-- id: s5-03-0109 -->
 
-> « *Non seulement je ne retrouvais pas le nom de SIGNORELLI, mais je ne me suis jamais si bien souvenu, je n’ai jamais*
-> *à ce moment-là si bien visualisé la fresque d’Orvieto, moi -* dit-il *- qui ne suis pas* - et on le sait par toutes sortes d’autres traits, par la forme de ses rêves en particulier - *moi qui ne suis pas tellement imaginatif.* »
+<div class="text-quotation">
+
+« *Non seulement je ne retrouvais pas le nom de SIGNORELLI, mais je ne me suis jamais si bien souvenu, je n’ai jamais*
+*à ce moment-là si bien visualisé la fresque d’Orvieto, moi -* dit-il *- qui ne suis pas* - et on le sait par toutes sortes d’autres traits, par la forme de ses rêves en particulier - *moi qui ne suis pas tellement imaginatif.* »
+
+</div>
 
 <!-- id: s5-03-0110 -->
 

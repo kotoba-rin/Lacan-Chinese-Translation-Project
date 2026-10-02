@@ -154,9 +154,9 @@ L’*identifica­tion* n’est introduite, ne s’opère, purement et simplement
 
 <!-- id: s9-19-0038 -->
 
-> non pas simplement comme par un jeu men­tal, mais parce que nous y sommes ramenés
->
-> par *quelque chose* qui est, à nous, notre mode de quelque chose qui reçoit là légitimement sa formule
+non pas simplement comme par un jeu men­tal, mais parce que nous y sommes ramenés
+
+par *quelque chose* qui est, à nous, notre mode de quelque chose qui reçoit là légitimement sa formule
 
 <!-- id: s9-19-0039 -->
 

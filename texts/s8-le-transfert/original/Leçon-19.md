@@ -34,9 +34,9 @@ Au fond de tout un chacun d’entre nous qui tente cette expérience - de quelqu
 
 <!-- id: s8-19-0008 -->
 
-> quand je dis *« supposition »* je peux même la laisser marquée d’un accent dubitatif : c’est comme une tentative
->
-> que l’expérience peut être prise, qu’elle est prise le plus communément par ceux qui viennent à nous ...*supposition* que les impasses dues à notre ignorance ne sont peut-être déterminées en fait que parce que nous nous trompons sur ce qu’on peut appeler « *les relations de force de notre savoir* » : que nous nous posons en somme de faux problèmes.
+quand je dis *« supposition »* je peux même la laisser marquée d’un accent dubitatif : c’est comme une tentative
+
+que l’expérience peut être prise, qu’elle est prise le plus communément par ceux qui viennent à nous ...*supposition* que les impasses dues à notre ignorance ne sont peut-être déterminées en fait que parce que nous nous trompons sur ce qu’on peut appeler « *les relations de force de notre savoir* » : que nous nous posons en somme de faux problèmes.
 
 <!-- id: s8-19-0009 -->
 
@@ -136,9 +136,9 @@ Il m’a semblé pour une rencontre que j’ai faite, c’est bien le cas de le 
 
 <!-- id: s8-19-0033 -->
 
-> mais après tout l’auteur - puisque c’est celui-là même qui souhaitait, dans un temps, former un grand nombre
->
-> de *psychanalystes médiocres -* ne se formalisera pas trop, je pense, de cette appréciation ...que c’est bien là ce qui m’a redonné - je ne puis pas dire *le courage*, il y faut un peu plus - une espèce de fureur, pour repasser une fois de plus par un de ces détours dont j’espère que vous aurez la patience de suivre le circuit, et chercher s’il n’y a pas *dans notre expérience contemporaine* quelque chose où puisse s’accrocher ce que j’essaie de vous *montrer*, qui doit toujours bien être là, et je dirai *plus que jamais*, au temps de l’expérience analytique qui n’est après tout pas concevable pour avoir été seulement un *miracle* surgi de je ne sais quel accident individuel qui se serait appelé « *le petit bourgeois viennois* FREUD ».
+mais après tout l’auteur - puisque c’est celui-là même qui souhaitait, dans un temps, former un grand nombre
+
+de *psychanalystes médiocres -* ne se formalisera pas trop, je pense, de cette appréciation ...que c’est bien là ce qui m’a redonné - je ne puis pas dire *le courage*, il y faut un peu plus - une espèce de fureur, pour repasser une fois de plus par un de ces détours dont j’espère que vous aurez la patience de suivre le circuit, et chercher s’il n’y a pas *dans notre expérience contemporaine* quelque chose où puisse s’accrocher ce que j’essaie de vous *montrer*, qui doit toujours bien être là, et je dirai *plus que jamais*, au temps de l’expérience analytique qui n’est après tout pas concevable pour avoir été seulement un *miracle* surgi de je ne sais quel accident individuel qui se serait appelé « *le petit bourgeois viennois* FREUD ».
 
 <!-- id: s8-19-0034 -->
 
@@ -186,7 +186,7 @@ Je voudrais attirer votre attention sur ceci : « *L’otage »,* pour commen
 
 <!-- id: s8-19-0045 -->
 
-> à l’époque où il l’a écrite et où il était comme vous le savez fonctionnaire aux *Affaires étrangères*, *Représentant de la France* à je ne sais quel titre, disons quelque chose comme *Conseiller*, probablement plus qu’*Attaché*, enfin qu’importe il était « *Fonctionnaire de la République* » au temps où ça avait encore un sens ...écrit à André GIDE :
+à l’époque où il l’a écrite et où il était comme vous le savez fonctionnaire aux *Affaires étrangères*, *Représentant de la France* à je ne sais quel titre, disons quelque chose comme *Conseiller*, probablement plus qu’*Attaché*, enfin qu’importe il était « *Fonctionnaire de la République* » au temps où ça avait encore un sens ...écrit à André GIDE :
 
 <!-- id: s8-19-0046 -->
 
@@ -214,9 +214,9 @@ C’est dans le cours de cette entreprise donc...
 
 <!-- id: s8-19-0052 -->
 
-> fondée sur l’exaltation dramatique, poétique, recréée devant nous de certaines valeurs
->
-> qui sont valeurs ordonnées selon une certaine forme de la parole
+fondée sur l’exaltation dramatique, poétique, recréée devant nous de certaines valeurs
+
+qui sont valeurs ordonnées selon une certaine forme de la parole
 
 <!-- id: s8-19-0053 -->
 
@@ -380,9 +380,9 @@ C’est *une image* d’un désir auprès de quoi seule la référence sadienne,
 
 <!-- id: s8-19-0093 -->
 
-> vous le verrez dans le texte de la façon la plus expresse car l’image du crucifix est à l’horizon
->
-> depuis le début de la pièce et nous la retrouverons dans la pièce suivante ...mais encore, est-ce que ne vous frappe pas la *coïncidence* de ce thème, en tant que proprement érotique, avec ce qui ici est nommément, et sans qu’il y ait autre chose, un autre fil, un autre point de repère qui nous permette de transfixer toute l’intrigue et tout le scénario,celui du dépassement, de la trouée faite au-delà de toute valeur de la foi.
+vous le verrez dans le texte de la façon la plus expresse car l’image du crucifix est à l’horizon
+
+depuis le début de la pièce et nous la retrouverons dans la pièce suivante ...mais encore, est-ce que ne vous frappe pas la *coïncidence* de ce thème, en tant que proprement érotique, avec ce qui ici est nommément, et sans qu’il y ait autre chose, un autre fil, un autre point de repère qui nous permette de transfixer toute l’intrigue et tout le scénario,celui du dépassement, de la trouée faite au-delà de toute valeur de la foi.
 
 <!-- id: s8-19-0094 -->
 

@@ -10,7 +10,7 @@ Si être psychanalyste est une position responsable, la plus responsable de tout
 
 <!-- id: s12-17-0002 -->
 
-> ordre dont tout ce qu’il y a dans mon enseignement de rétrospection historique : essai de situer la position philosophique traditionnelle, vous montre - cet ordre - qu’il est resté en quelque sorte exclu …il est à savoir quelles sont les conditions qui sont requises pour que quelqu’un puisse se dire : « *Je suis psychanalyste* ».
+ordre dont tout ce qu’il y a dans mon enseignement de rétrospection historique : essai de situer la position philosophique traditionnelle, vous montre - cet ordre - qu’il est resté en quelque sorte exclu …il est à savoir quelles sont les conditions qui sont requises pour que quelqu’un puisse se dire : « *Je suis psychanalyste* ».
 
 <!-- id: s12-17-0003 -->
 
@@ -186,11 +186,11 @@ Ce qu’il a à savoir se définit par ce *niveau primordial* où il y a *un suj
 
 <!-- id: s12-17-0046 -->
 
-> ou bien : « ...*que ce signifiant qui est là, que je reconnais maintenant, c’était là où j’étais comme sujet.* »
+ou bien : « ...*que ce signifiant qui est là, que je reconnais maintenant, c’était là où j’étais comme sujet.* »
 
 <!-- id: s12-17-0047 -->
 
-> ou bien : « ...*que ce signifiant qui est là, que vous me désignez, que vous articulez pour moi, c’était pour me représenter - auprès de lui - que j’étais ceci ou cela.* »
+ou bien : « ...*que ce signifiant qui est là, que vous me désignez, que vous articulez pour moi, c’était pour me représenter - auprès de lui - que j’étais ceci ou cela.* »
 
 <!-- id: s12-17-0048 -->
 
@@ -250,11 +250,11 @@ L’indication définie, dans le symptôme lui-même, de cette dimension, de cet
 
 <!-- id: s12-17-0062 -->
 
-> dans une réunion que j’ai annoncée à la fin du séminaire fermé et qui aura lieu, non pas comme je l’ai dit le 20 Juin,
->
-> mais le 27 Juin par l’invitation d’un groupe, que les gens qualifiés recevront et que ceux qui ne sont pas qualifiés
->
-> n’ont qu’à se faire connaître pour recevoir …que j’aimerais que parte une certaine révision à proprement parler *nosologique* : que j’aimerais la voir partir au niveau de l’élément qui est le *symptôme*, la mise en valeur de cette dimension, de cette instance et sa variété, sa variabilité, sa diversité, que j’ai la dernière fois manifestée comme tripartite - je dois dire à simple titre d’introduction , d’engagement en cette matière - en disant que ce *savoir* en question, pour autant qu’il est aussi manque, voire échec, *il se diversifie selon les trois plans ici isolés du* λεκτόν \[lecton\], du τυγχάνον \[tugkanon\] et du *désir*, selon les trois variétés :
+dans une réunion que j’ai annoncée à la fin du séminaire fermé et qui aura lieu, non pas comme je l’ai dit le 20 Juin,
+
+mais le 27 Juin par l’invitation d’un groupe, que les gens qualifiés recevront et que ceux qui ne sont pas qualifiés
+
+n’ont qu’à se faire connaître pour recevoir …que j’aimerais que parte une certaine révision à proprement parler *nosologique* : que j’aimerais la voir partir au niveau de l’élément qui est le *symptôme*, la mise en valeur de cette dimension, de cette instance et sa variété, sa variabilité, sa diversité, que j’ai la dernière fois manifestée comme tripartite - je dois dire à simple titre d’introduction , d’engagement en cette matière - en disant que ce *savoir* en question, pour autant qu’il est aussi manque, voire échec, *il se diversifie selon les trois plans ici isolés du* λεκτόν \[lecton\], du τυγχάνον \[tugkanon\] et du *désir*, selon les trois variétés :
 
 <!-- id: s12-17-0063 -->
 
@@ -324,9 +324,9 @@ Et c’est en quoi un examen clinique, une présentation de malade, ne peut abso
 
 <!-- id: s12-17-0079 -->
 
-> Dieu sait si j’ai pu avoir récemment à rafraîchir mon admiration
->
-> pour le style éblouissant d’un KRAEPELIN quand il décrit ses diverses formes de paranoïa …la distinction est radicale de ce que - au moins en théorie, en puissance - de ce qui est exigible du rapport du clinicien avec le malade, serait-ce sur le plan de la première présentation.
+Dieu sait si j’ai pu avoir récemment à rafraîchir mon admiration
+
+pour le style éblouissant d’un KRAEPELIN quand il décrit ses diverses formes de paranoïa …la distinction est radicale de ce que - au moins en théorie, en puissance - de ce qui est exigible du rapport du clinicien avec le malade, serait-ce sur le plan de la première présentation.
 
 <!-- id: s12-17-0080 -->
 
@@ -358,9 +358,9 @@ Mais qu’est-ce que veut dire cette opposition du *leurre* au *réel*, si ce n�
 
 <!-- id: s12-17-0087 -->
 
-> ce ne sera pas forcément de la glande pinéale, mais où que vous le mettiez,
->
-> il sera bien toujours quelque part, dans quelque autre glande à sécrétion interne \[Cf. Descartes : *Passions de l’âme*\] …un sujet, un sujet qui se dérobe, un sujet fuyant.
+ce ne sera pas forcément de la glande pinéale, mais où que vous le mettiez,
+
+il sera bien toujours quelque part, dans quelque autre glande à sécrétion interne \[Cf. Descartes : *Passions de l’âme*\] …un sujet, un sujet qui se dérobe, un sujet fuyant.
 
 <!-- id: s12-17-0088 -->
 

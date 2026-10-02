@@ -136,11 +136,11 @@ max_segment_id: 62
 
 <!-- id: s26-01-0030 -->
 
-> 这里就是一个例子：
->
-> ![[texts/s26-la-topologie-et-le-temps/original/assets/image9.jpeg|240]]
->
-> ……一条普通的莫比乌斯带——也就是说，像这样的莫比乌斯带——同样让 1、2、3、4 各自处在同样的位置上：
+这里就是一个例子：
+
+![[texts/s26-la-topologie-et-le-temps/original/assets/image9.jpeg|240]]
+
+……一条普通的莫比乌斯带——也就是说，像这样的莫比乌斯带——同样让 1、2、3、4 各自处在同样的位置上：
 
 <!-- id: s26-01-0031 -->
 

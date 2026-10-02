@@ -46,7 +46,7 @@ D’autre part, il se trouve que j’ai été sollicité…
 
 <!-- id: s17-09-0011 -->
 
-> ça, je dois dire que ce n’est pas la première fois, c’est extensible cette sollicitation ...de répondre à la radio - Belge pour la nommer - et ce par un homme qui, à vrai dire, s’est attiré mon estime,
+ça, je dois dire que ce n’est pas la première fois, c’est extensible cette sollicitation ...de répondre à la radio - Belge pour la nommer - et ce par un homme qui, à vrai dire, s’est attiré mon estime,
 
 <!-- id: s17-09-0012 -->
 
@@ -410,7 +410,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0102 -->
 
-> *vous vous rappelez : « psychanalyse, ethnologie et je ne sais pas quoi*... *la linguistique »* ...*à la réunion que vous me proposez.*
+*vous vous rappelez : « psychanalyse, ethnologie et je ne sais pas quoi*... *la linguistique »* ...*à la réunion que vous me proposez.*
 
 <!-- id: s17-09-0103 -->
 
@@ -606,7 +606,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0151 -->
 
-> *fût-ce même à jouer en cours d’analyse de la traduction...y fait garantie « qu’il n’y a pas de métalangage », selon ma formule.*
+*fût-ce même à jouer en cours d’analyse de la traduction...y fait garantie « qu’il n’y a pas de métalangage », selon ma formule.*
 
 <!-- id: s17-09-0152 -->
 
@@ -710,7 +710,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0177 -->
 
-> *d’avoir - à la logique du signifiant - trouvé à rompre le leurre du signe,...que ce quelque chose est la division du sujet,* *laquelle division tient à ce que l’Autre soit ce qui fait le signifiant, par quoi il ne saurait représenter un sujet qu’à n’être « Un » que de l’Autre.*
+*d’avoir - à la logique du signifiant - trouvé à rompre le leurre du signe,...que ce quelque chose est la division du sujet,* *laquelle division tient à ce que l’Autre soit ce qui fait le signifiant, par quoi il ne saurait représenter un sujet qu’à n’être « Un » que de l’Autre.*
 
 <!-- id: s17-09-0178 -->
 
@@ -758,7 +758,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0189 -->
 
-> *Fig.* 1 *Fig.* 2
+*Fig.* 1 *Fig.* 2
 
 <!-- id: s17-09-0190 -->
 
@@ -826,7 +826,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0206 -->
 
-> *soit au « suprême quelqu’un », signe d’intelligence toujours,...démontre de quelle pau­vreté procède la vôtre, à supposer que tout fait signe* : *c’est « le quelqu’un de quelque part », « de nulle part », qui doit <u>tout</u> manigancer.*
+*soit au « suprême quelqu’un », signe d’intelligence toujours,...démontre de quelle pau­vreté procède la vôtre, à supposer que tout fait signe* : *c’est « le quelqu’un de quelque part », « de nulle part », qui doit <u>tout</u> manigancer.*
 
 <!-- id: s17-09-0207 -->
 
@@ -1138,7 +1138,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0284 -->
 
-> *rappelez-vous ses termes : jugement qui rejette et condamne,...que comme je le dis : « forclos du symbolique, ce savoir reparaît dans le réel de l’hallucination ».*
+*rappelez-vous ses termes : jugement qui rejette et condamne,...que comme je le dis : « forclos du symbolique, ce savoir reparaît dans le réel de l’hallucination ».*
 
 <!-- id: s17-09-0285 -->
 
@@ -1154,7 +1154,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0288 -->
 
-> *vous pouvez écrire ça avec un « g », si vous voulez...de l’étang de l’École Normale Supérieure, je m’entendis dès le premier jour réellement sommé de déclarer quel « être » j’accordais à tout ça.*
+*vous pouvez écrire ça avec un « g », si vous voulez...de l’étang de l’École Normale Supérieure, je m’entendis dès le premier jour réellement sommé de déclarer quel « être » j’accordais à tout ça.*
 
 <!-- id: s17-09-0289 -->
 
@@ -1202,7 +1202,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0300 -->
 
-> *faite pour prévenir les belges de leurs « belgicismes », c’est un livre que j’estime beaucoup...n’en soit pas recommandé - de ce « faudra » - il y est reconnu.*
+*faite pour prévenir les belges de leurs « belgicismes », c’est un livre que j’estime beaucoup...n’en soit pas recommandé - de ce « faudra » - il y est reconnu.*
 
 <!-- id: s17-09-0301 -->
 
@@ -1346,7 +1346,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0336 -->
 
-> *d’une inflexion de désinence, d’un jeu d’interversion, d’un voisinage même pas tenu pour préconçu,...interroge le Livre par exemple sur ce qu’il n’a pu dire de l’enfance de Moïse.*
+*d’une inflexion de désinence, d’un jeu d’interversion, d’un voisinage même pas tenu pour préconçu,...interroge le Livre par exemple sur ce qu’il n’a pu dire de l’enfance de Moïse.*
 
 <!-- id: s17-09-0337 -->
 

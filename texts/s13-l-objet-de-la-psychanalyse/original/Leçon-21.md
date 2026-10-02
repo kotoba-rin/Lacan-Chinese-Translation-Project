@@ -30,11 +30,11 @@ Pour conserver la note de gravité que certains ont eu le bon esprit de percevoi
 
 <!-- id: s13-21-0007 -->
 
-> me disait cet excellent ami dont je n’omets le nom que parce qu’après tout je ne sais pas *si je suis en droit de publier ces sortes d’ouverture du cœur*, elles ne sont pas communes chez les mathématiciens, ce sont des gens qui dans l’ensemble manquent un peu d’élan de ce côté-là, il n’en est pas de même chez ce personnage distingué qui me disait *…*« *Dans la mathématique*…
+me disait cet excellent ami dont je n’omets le nom que parce qu’après tout je ne sais pas *si je suis en droit de publier ces sortes d’ouverture du cœur*, elles ne sont pas communes chez les mathématiciens, ce sont des gens qui dans l’ensemble manquent un peu d’élan de ce côté-là, il n’en est pas de même chez ce personnage distingué qui me disait *…*« *Dans la mathématique*…
 
 <!-- id: s13-21-0008 -->
 
-> en somme, et peut-être après tout cet aveu lui était-il arraché par une certaine façon que j’avais de le harceler, d’essayer de lui tirer du nez le maximum de ce que je peux pour ces sortes de vermicules que je viens ensuite faire se tortiller devant vous sous la forme de ma topologie
+en somme, et peut-être après tout cet aveu lui était-il arraché par une certaine façon que j’avais de le harceler, d’essayer de lui tirer du nez le maximum de ce que je peux pour ces sortes de vermicules que je viens ensuite faire se tortiller devant vous sous la forme de ma topologie
 
 <!-- id: s13-21-0009 -->
 
@@ -162,13 +162,13 @@ Autrement dit, que *pour ce qu’il en est de rester cachée*…
 
 <!-- id: s13-21-0040 -->
 
-> beaucoup plus loin que *cachée* : *sans limite, inconnue, à peine approchée* en quelques points d’accès j’ai dit, ce que nous aussi nous ne disons que très rarement, au point même *qu’il vaut mieux ne pas le dire* ...j’ai nommé *la jouissance* - nous n’aurions aucune espèce d’idée de cette dimension, de cette profondeur…
+beaucoup plus loin que *cachée* : *sans limite, inconnue, à peine approchée* en quelques points d’accès j’ai dit, ce que nous aussi nous ne disons que très rarement, au point même *qu’il vaut mieux ne pas le dire* ...j’ai nommé *la jouissance* - nous n’aurions aucune espèce d’idée de cette dimension, de cette profondeur…
 
 <!-- id: s13-21-0041 -->
 
-> dont on ne peut pas dire qu’elle s’offre à nous puisqu’elle est *interdite*,
->
-> mais qu’à tout le moins nous pouvons nommer : *la jouissance* …nous n’en aurions aucune espèce d’idée, si ce n’était *la fondation du sujet dans le langage*, qui par voie de répercussion, en tant qu’il fonde en nous cet ordre, cette barrière, cette défense qui s’appelle le désir, qui par répercussion dis-je, ne nous forçait à interroger : contre quoi nous défendons-nous ? Qu’en est-il de cette *jouissance* ?
+dont on ne peut pas dire qu’elle s’offre à nous puisqu’elle est *interdite*,
+
+mais qu’à tout le moins nous pouvons nommer : *la jouissance* …nous n’en aurions aucune espèce d’idée, si ce n’était *la fondation du sujet dans le langage*, qui par voie de répercussion, en tant qu’il fonde en nous cet ordre, cette barrière, cette défense qui s’appelle le désir, qui par répercussion dis-je, ne nous forçait à interroger : contre quoi nous défendons-nous ? Qu’en est-il de cette *jouissance* ?
 
 <!-- id: s13-21-0042 -->
 
@@ -284,7 +284,7 @@ Disons que l’Autre, au lieu d’être ce champ inerte…
 
 <!-- id: s13-21-0070 -->
 
-> où l’on récupère quelque chose, à savoir ce sein qui est l’objet idéal, toujours manquant, qu’essaye dans toutes sortes d’appareillage de reproduire la machinerie humaine, en fin de compte que ce soit celui qui fait de la nage sous-marine ou qui s’envole dans les « *cosmos* », comme on dit maintenant, c’est toujours d’un petit appareil nourricier avec lui et formant circuit fermé, qu’il s’aborne, aucun besoin pour ça d’imaginer sa nostalgie de l’utérus maternel dans lequel, précisément, son appareillage était, à cet endroit, singulièrement déficient - je veux dire dans le registre que je viens d’évoquer - et d’une symbiose bien boiteuse …*le champ de l’Autre* c’est cela qu’il s’agit d’intéresser dans le désir : le désir vient intéresser l’Autre.
+où l’on récupère quelque chose, à savoir ce sein qui est l’objet idéal, toujours manquant, qu’essaye dans toutes sortes d’appareillage de reproduire la machinerie humaine, en fin de compte que ce soit celui qui fait de la nage sous-marine ou qui s’envole dans les « *cosmos* », comme on dit maintenant, c’est toujours d’un petit appareil nourricier avec lui et formant circuit fermé, qu’il s’aborne, aucun besoin pour ça d’imaginer sa nostalgie de l’utérus maternel dans lequel, précisément, son appareillage était, à cet endroit, singulièrement déficient - je veux dire dans le registre que je viens d’évoquer - et d’une symbiose bien boiteuse …*le champ de l’Autre* c’est cela qu’il s’agit d’intéresser dans le désir : le désir vient intéresser l’Autre.
 
 <!-- id: s13-21-0071 -->
 
@@ -316,7 +316,7 @@ Qu’est-ce que c’est, si ce n’est la nécessité de ces cadres, de ces port
 
 <!-- id: s13-21-0078 -->
 
-> déjà *complet* dans FREUD, mais jusqu’ici *complété* par personne, *complété* parce que pas suivi dans l’ordre …de son double tour instaure, à coté de la loi du désir en tant qu’il est le désir conditionné par l’œdipe, cette loi de ce qui lie, par quoi le sujet est accroché au lieu de l’Autre, rend nécessaire ce certain ordre construit autour de *l’objet du regard*.
+déjà *complet* dans FREUD, mais jusqu’ici *complété* par personne, *complété* parce que pas suivi dans l’ordre …de son double tour instaure, à coté de la loi du désir en tant qu’il est le désir conditionné par l’œdipe, cette loi de ce qui lie, par quoi le sujet est accroché au lieu de l’Autre, rend nécessaire ce certain ordre construit autour de *l’objet du regard*.
 
 <!-- id: s13-21-0079 -->
 
@@ -324,7 +324,7 @@ Ce qui fait que quand cet objet de l’Autre, vient se dresser sur quelque chose
 
 <!-- id: s13-21-0080 -->
 
-> juste m’emparant d’un terme dont je pense vous savez l’origine d’André BRETON[^194] …que j’appellerai *à l’Autre*, en tant que caractérisé par ce « *peu de réalité* » qui est toute la substance *du fantasme*, mais qui est aussi, peut-être, toute la réalité à laquelle nous pouvons accéder.
+juste m’emparant d’un terme dont je pense vous savez l’origine d’André BRETON[^194] …que j’appellerai *à l’Autre*, en tant que caractérisé par ce « *peu de réalité* » qui est toute la substance *du fantasme*, mais qui est aussi, peut-être, toute la réalité à laquelle nous pouvons accéder.
 
 <!-- id: s13-21-0081 -->
 
@@ -376,7 +376,7 @@ C’est vrai dans FREUD à part ceci : qu’aussi dans FREUD, nous pouvons nous
 
 <!-- id: s13-21-0093 -->
 
-> à celui de « *la lutte à mort de pur prestige* », vous connaissez la rengaine j’espère …attribue au « *maître* » de garder par-devers lui le privilège de la jouissance, ceci sous le prétexte que l’esclave, pour conserver sa vie, y a renoncé à cette jouissance.
+à celui de « *la lutte à mort de pur prestige* », vous connaissez la rengaine j’espère …attribue au « *maître* » de garder par-devers lui le privilège de la jouissance, ceci sous le prétexte que l’esclave, pour conserver sa vie, y a renoncé à cette jouissance.
 
 <!-- id: s13-21-0094 -->
 
@@ -432,25 +432,25 @@ Mais il faut qu’elles soient avancées parce que c’est proprement là ce qui
 
 <!-- id: s13-21-0107 -->
 
-> contrairement au fait qui fait que c’est telle ou telle appartenance du corps, objet chu
->
-> du corps dans un certain champ, qui organise la demande et le désir …quant à ce dont il s’agit *du rapport du désir à la jouissance*, en tant qu’il intéresse le sujet du sexe opposé, le truchement n’est plus d’un objet, ni même d’un objet interdit…
+contrairement au fait qui fait que c’est telle ou telle appartenance du corps, objet chu
+
+du corps dans un certain champ, qui organise la demande et le désir …quant à ce dont il s’agit *du rapport du désir à la jouissance*, en tant qu’il intéresse le sujet du sexe opposé, le truchement n’est plus d’un objet, ni même d’un objet interdit…
 
 <!-- id: s13-21-0108 -->
 
-> de l’interdiction pédantesque, si je puis dire, qui est tout un registre de la castration freudienne, ça va de l’interdit porté sur la main du petit garçon ou de la petite fille jusqu’à la formation que vous recevez à l’université,
->
-> il s’agit toujours de nous empêcher de voir clair …mais l’autre fonction de la castration qu’on confond avec la première est beaucoup plus profonde, c’est ce par quoi, si un accord est possible…
+de l’interdiction pédantesque, si je puis dire, qui est tout un registre de la castration freudienne, ça va de l’interdit porté sur la main du petit garçon ou de la petite fille jusqu’à la formation que vous recevez à l’université,
+
+il s’agit toujours de nous empêcher de voir clair …mais l’autre fonction de la castration qu’on confond avec la première est beaucoup plus profonde, c’est ce par quoi, si un accord est possible…
 
 <!-- id: s13-21-0109 -->
 
-> un accord, entendez-le à la façon dont je peux essayer de faire un échantillon de couleur,
->
-> ce qui reproduira à coté de celle-ci quelque chose qui soit de la même teinte …c’est grâce au fait que cet objet qui est le pénis…
+un accord, entendez-le à la façon dont je peux essayer de faire un échantillon de couleur,
+
+ce qui reproduira à coté de celle-ci quelque chose qui soit de la même teinte …c’est grâce au fait que cet objet qui est le pénis…
 
 <!-- id: s13-21-0110 -->
 
-> mais que nous sommes forcés de porter à cette fonction d’être épinglé *phallus* …est traité d’une façon telle que celle qui est la même que quand on se livre à cet *exercice de l’accord*.
+mais que nous sommes forcés de porter à cette fonction d’être épinglé *phallus* …est traité d’une façon telle que celle qui est la même que quand on se livre à cet *exercice de l’accord*.
 
 <!-- id: s13-21-0111 -->
 

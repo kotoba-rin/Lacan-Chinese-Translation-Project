@@ -202,7 +202,11 @@ Ici je vais un instant reglisser, pour vous en montrer le caractère vivifiant, 
 
 <!-- id: s8-12-0050 -->
 
-> « *Que ceux qui ne sont pas capables ni dignes d’entendre, les esclaves qui sont là, se bouchent les oreilles !* » \[218b\]
+<div class="text-quotation">
+
+« *Que ceux qui ne sont pas capables ni dignes d’entendre, les esclaves qui sont là, se bouchent les oreilles !* » \[218b\]
+
+</div>
 
 <!-- id: s8-12-0051 -->
 

@@ -18,7 +18,7 @@ Et pour repartir du point où nous étions la dernière fois, j’articule plus 
 
 <!-- id: s6-23-0004 -->
 
-> évidemment non sans précautions, non sans efforts pour éviter les ambiguïtés
+évidemment non sans précautions, non sans efforts pour éviter les ambiguïtés
 
 <!-- id: s6-23-0005 -->
 
@@ -58,9 +58,9 @@ Qu’il est la même chose que la coupure le présentifie dans le symbolique. Et
 
 <!-- id: s6-23-0014 -->
 
-> Je vais le dire plus brutalement puisque la dernière fois il semble - et je veux l’admettre bien volontiers –
->
-> que certaines formules que j’ai avancées ont paru circonlocutoires, voire confuses à certains
+Je vais le dire plus brutalement puisque la dernière fois il semble - et je veux l’admettre bien volontiers –
+
+que certaines formules que j’ai avancées ont paru circonlocutoires, voire confuses à certains
 
 <!-- id: s6-23-0015 -->
 
@@ -92,7 +92,7 @@ Mais reprenons les choses au niveau de l’expérience, je veux dire ici au nive
 
 <!-- id: s6-23-0022 -->
 
-> pour jouer sur *les ambiguïtés*, sur la langue, c’est là d’abord que je veux attirer votre attention, je veux dire sur le penchant que nous avons toujours d’oublier ce à quoi nous avons affaire dans l’expérience, celle de nos patients, ceux dont nous avons l’audace de nous charger, et c’est pourquoi je vous rapporte à vous–mêmes.
+pour jouer sur *les ambiguïtés*, sur la langue, c’est là d’abord que je veux attirer votre attention, je veux dire sur le penchant que nous avons toujours d’oublier ce à quoi nous avons affaire dans l’expérience, celle de nos patients, ceux dont nous avons l’audace de nous charger, et c’est pourquoi je vous rapporte à vous–mêmes.
 
 <!-- id: s6-23-0023 -->
 
@@ -116,7 +116,7 @@ Ceci est évidemment lié au fait…
 
 <!-- id: s6-23-0028 -->
 
-> qu’il convient aussi de rappeler parce que c’est le principe de notre expérience
+qu’il convient aussi de rappeler parce que c’est le principe de notre expérience
 
 <!-- id: s6-23-0029 -->
 
@@ -128,9 +128,9 @@ Si l’objet du désir \[était ?\] le plus *mûr*, le plus *adulte*…
 
 <!-- id: s6-23-0031 -->
 
-> comme nous nous exprimons de temps en temps
->
-> dans cette sorte d’ivresse baveuse qui s’appelle l’exaltation du « *désir génital* »
+comme nous nous exprimons de temps en temps
+
+dans cette sorte d’ivresse baveuse qui s’appelle l’exaltation du « *désir génital* »
 
 <!-- id: s6-23-0032 -->
 
@@ -174,7 +174,7 @@ J’irai plus loin, je dirai qu’en fin de compte, il n’y a d’ébauche de t
 
 <!-- id: s6-23-0042 -->
 
-> sans aucun doute *dans des coins protégés* dont l’accès bien entendu est réservé, n’est pas ouvert tout grand au *commun des mortels*, des fidèles, mais dans des coins *qu’on appelle la mystique*
+sans aucun doute *dans des coins protégés* dont l’accès bien entendu est réservé, n’est pas ouvert tout grand au *commun des mortels*, des fidèles, mais dans des coins *qu’on appelle la mystique*
 
 <!-- id: s6-23-0043 -->
 
@@ -202,7 +202,7 @@ C’est à savoir d’articu­ler ceci, qui apparaît bien clair dans l’expér
 
 <!-- id: s6-23-0049 -->
 
-> même si nous n’y sommes pas avec d’autres puis­samment engagés
+même si nous n’y sommes pas avec d’autres puis­samment engagés
 
 <!-- id: s6-23-0050 -->
 
@@ -218,9 +218,9 @@ Ceux-là mêmes dont je parle…
 
 <!-- id: s6-23-0053 -->
 
-> *mettons-les sous la rubrique du mouvement qui s’inscrit dans la pers­pective marxiste, et qui n’a rien d’autre*
->
-> *à son principe que celui que je viens d’exprimer :* « *Il n’y a de satisfaction de chacun sinon dans la satisfaction de tous.* »
+*mettons-les sous la rubrique du mouvement qui s’inscrit dans la pers­pective marxiste, et qui n’a rien d’autre*
+
+*à son principe que celui que je viens d’exprimer :* « *Il n’y a de satisfaction de chacun sinon dans la satisfaction de tous.* »
 
 <!-- id: s6-23-0054 -->
 
@@ -240,7 +240,7 @@ Pour vous frapper un dernier clou sur ce que je veux dire, je vous poserai la qu
 
 <!-- id: s6-23-0058 -->
 
-> *non pas en tant qu’analystes trop portés - moins ici qu’ailleurs - à vous croire destinés à être les régents des désirs des autres*
+*non pas en tant qu’analystes trop portés - moins ici qu’ailleurs - à vous croire destinés à être les régents des désirs des autres*
 
 <!-- id: s6-23-0059 -->
 
@@ -256,7 +256,7 @@ Mais si je vous demande d’articuler ce que cela veut dire de « *réaliser so
 
 <!-- id: s6-23-0062 -->
 
-> je croiserai cela avec la référence religieuse à laquelle je me suis avancé aujourd’hui
+je croiserai cela avec la référence religieuse à laquelle je me suis avancé aujourd’hui
 
 <!-- id: s6-23-0063 -->
 
@@ -276,7 +276,7 @@ Je vous pose la question :
 
 <!-- id: s6-23-0067 -->
 
-> ou non, fait ce qu’on appelle « *le bien* ».
+ou non, fait ce qu’on appelle « *le bien* ».
 
 <!-- id: s6-23-0068 -->
 
@@ -424,9 +424,9 @@ Je peux simplement ici quand même vous faire remarquer dans la relation *exhibi
 
 <!-- id: s6-23-0104 -->
 
-> je vais employer des termes *cahin-caha* pour me faire comprendre,
->
-> ce ne sont pas certainement les meilleurs, les plus littéraires
+je vais employer des termes *cahin-caha* pour me faire comprendre,
+
+ce ne sont pas certainement les meilleurs, les plus littéraires
 
 <!-- id: s6-23-0105 -->
 
@@ -450,9 +450,9 @@ C’est là d’ailleurs *la néces­sité du lieu public,* c’est qu’on soit
 
 <!-- id: s6-23-0110 -->
 
-> je vous le fais remarquer pour des gens qui lui reprochent de ne pas oser approcher de l’objet,
->
-> de céder à je ne sais quelle peur
+je vous le fais remarquer pour des gens qui lui reprochent de ne pas oser approcher de l’objet,
+
+de céder à je ne sais quelle peur
 
 <!-- id: s6-23-0111 -->
 
@@ -464,7 +464,7 @@ Ce n’est pas impossible. Avant d’aller si loin, essayons quand même de rema
 
 <!-- id: s6-23-0113 -->
 
-> sur lesquelles, versons en passant la larme des bonnes âmes
+sur lesquelles, versons en passant la larme des bonnes âmes
 
 <!-- id: s6-23-0114 -->
 
@@ -576,9 +576,9 @@ Je veux dire que désormais le S dans le fantasme, en tant que confronté et opp
 
 <!-- id: s6-23-0141 -->
 
-> vous voyez donc que toutes les formes de coupure, y compris
->
-> justement celles qui reflètent la coupure du sujet, sont signalées
+vous voyez donc que toutes les formes de coupure, y compris
+
+justement celles qui reflètent la coupure du sujet, sont signalées
 
 <!-- id: s6-23-0142 -->
 

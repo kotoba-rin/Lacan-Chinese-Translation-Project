@@ -18,9 +18,9 @@ Vous le savez, la moindre expérience que vous pouvez avoir des travaux analytiq
 
 <!-- id: s6-27-0004 -->
 
-> je parle d’une observation quelconque qu’on se plait à communiquer au moment analytique
->
-> que nous vivons et qui commence déjà il y a une vingtaine d’années
+je parle d’une observation quelconque qu’on se plait à communiquer au moment analytique
+
+que nous vivons et qui commence déjà il y a une vingtaine d’années
 
 <!-- id: s6-27-0005 -->
 
@@ -52,9 +52,9 @@ Ce qui est frappant ce n’est pas tellement cela pourtant...
 
 <!-- id: s6-27-0012 -->
 
-> avec tous les présupposés culturels que cela implique, c’est un ralliement implicite
->
-> à ce qu’on peut appeler un système de valeurs qui, pour être implicite, n’en est pas moins là présent
+avec tous les présupposés culturels que cela implique, c’est un ralliement implicite
+
+à ce qu’on peut appeler un système de valeurs qui, pour être implicite, n’en est pas moins là présent
 
 <!-- id: s6-27-0013 -->
 
@@ -62,7 +62,7 @@ Ce qui est frappant ce n’est pas tellement cela pourtant...
 
 <!-- id: s6-27-0014 -->
 
-> soit que cela traduise directement je ne sais quel tournant de l’analyse concrète, soit simplement que ce soit par une sorte de hâte à résumer ce qui paraît à l’analyste les derniers termes de l’expérience
+soit que cela traduise directement je ne sais quel tournant de l’analyse concrète, soit simplement que ce soit par une sorte de hâte à résumer ce qui paraît à l’analyste les derniers termes de l’expérience
 
 <!-- id: s6-27-0015 -->
 
@@ -74,7 +74,7 @@ Il y a toujours quelque penchant kleinien dans cette référence aux expérience
 
 <!-- id: s6-27-0017 -->
 
-> qu’on les appelle à cette occasion dans des termes plus anciens, dans des termes de référence instinctuelle, dans des rapports par exemple à un sadisme oral comme ayant profondément infléchi la relation œdipienne
+qu’on les appelle à cette occasion dans des termes plus anciens, dans des termes de référence instinctuelle, dans des rapports par exemple à un sadisme oral comme ayant profondément infléchi la relation œdipienne
 
 <!-- id: s6-27-0018 -->
 
@@ -106,7 +106,7 @@ Et la réalité supposée par l’analyste en fin de compte, qui revient sous un
 
 <!-- id: s6-27-0025 -->
 
-> pour s’être ainsi organisée par *une sorte de glissement progressif à partir de l’indication freudienne primordiale*
+pour s’être ainsi organisée par *une sorte de glissement progressif à partir de l’indication freudienne primordiale*
 
 <!-- id: s6-27-0026 -->
 
@@ -118,7 +118,7 @@ Le désir, tel que nous l’articulons, a cet effet de ramener au premier plan d
 
 <!-- id: s6-27-0028 -->
 
-> d’une façon - elle - non ambiguë, mais vraiment cruciale
+d’une façon - elle - non ambiguë, mais vraiment cruciale
 
 <!-- id: s6-27-0029 -->
 
@@ -126,7 +126,7 @@ Le désir, tel que nous l’articulons, a cet effet de ramener au premier plan d
 
 <!-- id: s6-27-0030 -->
 
-> il est ce qui est au cœur même de *notre subjectivité*, ce qui est le plus essentiellement sujet
+il est ce qui est au cœur même de *notre subjectivité*, ce qui est le plus essentiellement sujet
 
 <!-- id: s6-27-0031 -->
 
@@ -178,7 +178,7 @@ Pour autant qu’assurément tout rapport…
 
 <!-- id: s6-27-0043 -->
 
-> quel qu’il soit, de quelque façon que nous devions en supposer la normale
+quel qu’il soit, de quelque façon que nous devions en supposer la normale
 
 <!-- id: s6-27-0044 -->
 
@@ -294,7 +294,7 @@ Et Dieu sait si elle se permet à l’occasion…
 
 <!-- id: s6-27-0072 -->
 
-> on m’a rapporté des expériences, toutes vues du dehors mais rapportées d’une façon très fidèle
+on m’a rapporté des expériences, toutes vues du dehors mais rapportées d’une façon très fidèle
 
 <!-- id: s6-27-0073 -->
 
@@ -310,7 +310,7 @@ Ce qui dans notre registre, dans notre vocabulaire reste, et justifie une pareil
 
 <!-- id: s6-27-0076 -->
 
-> dont il n’a dans la plupart des cas que l’expérience la plus indirecte
+dont il n’a dans la plupart des cas que l’expérience la plus indirecte
 
 <!-- id: s6-27-0077 -->
 
@@ -334,7 +334,7 @@ Mais je crois que bien loin de nous en tenir à cette « *position phallocentri
 
 <!-- id: s6-27-0082 -->
 
-> ceux qui s’en tiennent à l’apparence de ce que je suis en train d’articuler
+ceux qui s’en tiennent à l’apparence de ce que je suis en train d’articuler
 
 <!-- id: s6-27-0083 -->
 
@@ -378,7 +378,11 @@ On a parlé du côté fétiche de la marchandise, et après tout il n’y a pas 
 
 <!-- id: s6-27-0093 -->
 
-> « [*J’ai vu le Dia*<span id="RetourJeanPaulToulet" class="anchor"></span>*ble l’autre nuit*](#JeanPaulToulet)…
+<div class="text-quotation">
+
+« [*J’ai vu le Dia*<span id="RetourJeanPaulToulet" class="anchor"></span>*ble l’autre nuit*](#JeanPaulToulet)…
+
+</div>
 
 <!-- id: s6-27-0094 -->
 
@@ -386,9 +390,13 @@ dit quelque part Paul-Jean TOULET,
 
 <!-- id: s6-27-0095 -->
 
-> …*et dessous sa pelure*…
->
-> *il dépassait ses deux*… »
+<div class="text-quotation">
+
+…*et dessous sa pelure*…
+
+*il dépassait ses deux*… »
+
+</div>
 
 <!-- id: s6-27-0096 -->
 
@@ -396,9 +404,13 @@ Cela se termine par :
 
 <!-- id: s6-27-0097 -->
 
-> « *Ils ne tombent pas tous, tu vois,*
->
-> *Les fruits de la Science!* »[^126]
+<div class="text-quotation">
+
+« *Ils ne tombent pas tous, tu vois,*
+
+*Les fruits de la Science!* »[^126]
+
+</div>
 
 <!-- id: s6-27-0098 -->
 
@@ -426,7 +438,7 @@ Mais justement ce qu’il importe de maintenir, c’est l’opposition à partir
 
 <!-- id: s6-27-0104 -->
 
-> d’un sujet sans aucun doute imaginaire mais au sens le plus radical, en ce sens qu’il est le pur sujet de la déconnexion, de la coupure parlée, en tant que la coupure est la scansion essentielle où s’édifie la parole
+d’un sujet sans aucun doute imaginaire mais au sens le plus radical, en ce sens qu’il est le pur sujet de la déconnexion, de la coupure parlée, en tant que la coupure est la scansion essentielle où s’édifie la parole
 
 <!-- id: s6-27-0105 -->
 
@@ -446,7 +458,7 @@ Remarquons : le propre des objets de l’expérience, c’est précisément de l
 
 <!-- id: s6-27-0109 -->
 
-> ce *réel* auquel j’ai fait allusion au moment où nous faisions l’analyse de SCHREBER
+ce *réel* auquel j’ai fait allusion au moment où nous faisions l’analyse de SCHREBER
 
 <!-- id: s6-27-0110 -->
 
@@ -458,7 +470,7 @@ Comment expliquerait-on autrement la présence, à l’origine de l’expérienc
 
 <!-- id: s6-27-0112 -->
 
-> pour autant que ce désir s’instaure, s’instituent foncièrement dans *la structure symbolique* comme telle
+pour autant que ce désir s’instaure, s’instituent foncièrement dans *la structure symbolique* comme telle
 
 <!-- id: s6-27-0113 -->
 
@@ -522,7 +534,7 @@ Il est certain que le rapport est décisif et que c’est immédiatement après 
 
 <!-- id: s6-27-0128 -->
 
-> chez un sujet qui peut-être n’est pas très bien qualifié au point de vue *diagnostic*, qui nous a semblé assurément *plus proche d’ébauches d’illusions paranoïdes que* vraiment de ce qu’on a fait, c’est à savoir *d’une phobie*
+chez un sujet qui peut-être n’est pas très bien qualifié au point de vue *diagnostic*, qui nous a semblé assurément *plus proche d’ébauches d’illusions paranoïdes que* vraiment de ce qu’on a fait, c’est à savoir *d’une phobie*
 
 <!-- id: s6-27-0129 -->
 
@@ -542,7 +554,7 @@ Cet élément qui jusque-là n’avait tenu aucune place dans la symptomatologie
 
 <!-- id: s6-27-0133 -->
 
-> en ce sens que lui, GLOVER, le diagnostique plutôt paranoïde, mais que nous le rattacherions, nous, inversement assez volontiers à une phobie
+en ce sens que lui, GLOVER, le diagnostique plutôt paranoïde, mais que nous le rattacherions, nous, inversement assez volontiers à une phobie
 
 <!-- id: s6-27-0134 -->
 
@@ -602,9 +614,9 @@ Ce qui se présente dans la société comme culture…
 
 <!-- id: s6-27-0148 -->
 
-> autrement dit pour autant qu’il soit, à divers titres, rentré dans un certain nombre de conditions stables,
->
-> elles aussi latentes, qui sont ce qu’on peut appeler des conditions d’échanges à l’intérieur du troupeau
+autrement dit pour autant qu’il soit, à divers titres, rentré dans un certain nombre de conditions stables,
+
+elles aussi latentes, qui sont ce qu’on peut appeler des conditions d’échanges à l’intérieur du troupeau
 
 <!-- id: s6-27-0149 -->
 
@@ -628,7 +640,7 @@ dit FREUD dans un de ces aperçus qui sont ce par quoi toujours ses textes, au r
 
 <!-- id: s6-27-0154 -->
 
-> …*C’est ainsi que nous pouvons nous apercevoir de la parenté qu’il y a entre les perversions, ces perversions en tant qu’elles nous évitent une répression, de leur parenté qu’il y a avec tous les Inkonsequenzen, Verschrobenheiten und Narrheiten der Menschen* ».[^129]
+…*C’est ainsi que nous pouvons nous apercevoir de la parenté qu’il y a entre les perversions, ces perversions en tant qu’elles nous évitent une répression, de leur parenté qu’il y a avec tous les Inkonsequenzen, Verschrobenheiten und Narrheiten der Menschen* ».[^129]
 
 <!-- id: s6-27-0155 -->
 
@@ -640,7 +652,7 @@ De sorte que nous pourrions dire que quelque chose s’instaure comme un circuit
 
 <!-- id: s6-27-0157 -->
 
-> là l’expression devient excellente pour définir tout ce qui de la culture se monnaie et s’aliène dans la société
+là l’expression devient excellente pour définir tout ce qui de la culture se monnaie et s’aliène dans la société
 
 <!-- id: s6-27-0158 -->
 
@@ -668,7 +680,7 @@ C’est ce quelque chose par quoi - comme je l’ai écrit quelque part - peuven
 
 <!-- id: s6-27-0164 -->
 
-> c’est-à-dire sous sa forme la plus générale, ce qui dans l’être humain résiste à toute *normalisation*
+c’est-à-dire sous sa forme la plus générale, ce qui dans l’être humain résiste à toute *normalisation*
 
 <!-- id: s6-27-0165 -->
 
@@ -716,9 +728,9 @@ Comme toujours, c’est assurément à la fois *la vérité la plus triviale et 
 
 <!-- id: s6-27-0176 -->
 
-> de cette situation où nous nous trouvons être celui qui s’offre comme support
->
-> à toutes les demandes, et qui ne répond à aucune
+de cette situation où nous nous trouvons être celui qui s’offre comme support
+
+à toutes les demandes, et qui ne répond à aucune
 
 <!-- id: s6-27-0177 -->
 
@@ -738,9 +750,9 @@ J’aimerais…
 
 <!-- id: s6-27-0181 -->
 
-> pour terminer notre leçon de cette année, et faire je ne sais quel rappel
->
-> de ce qui inaugurera nos leçons de l’année prochaine sous la forme d’une pré­leçon
+pour terminer notre leçon de cette année, et faire je ne sais quel rappel
+
+de ce qui inaugurera nos leçons de l’année prochaine sous la forme d’une pré­leçon
 
 <!-- id: s6-27-0182 -->
 

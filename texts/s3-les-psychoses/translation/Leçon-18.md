@@ -14,9 +14,13 @@ max_segment_id: 94
 
 <!-- id: s3-18-0001 -->
 
-> “*Sie lieben also den Wahn wie sich selbst. Das ist das Geheimnis.*”
->
-> “*他们爱自己的妄想，就像爱他们自己。这就是秘密。*”
+<div class="text-quotation">
+
+“*Sie lieben also den Wahn wie sich selbst. Das ist das Geheimnis.*”
+
+“*他们爱自己的妄想，就像爱他们自己。这就是秘密。*”
+
+</div>
 
 <!-- id: s3-18-0002 -->
 
@@ -134,7 +138,11 @@ max_segment_id: 94
 
 <!-- id: s3-18-0030 -->
 
-> “*现在是他该被制服的时候了！*”
+<div class="text-quotation">
+
+“*现在是他该被制服的时候了！*”
+
+</div>
 
 <!-- id: s3-18-0031 -->
 
@@ -146,7 +154,11 @@ max_segment_id: 94
 
 <!-- id: s3-18-0033 -->
 
-> “*所以，按照灵魂观念，这现在已经太过分了。*”
+<div class="text-quotation">
+
+“*所以，按照灵魂观念，这现在已经太过分了。*”
+
+</div>
 
 <!-- id: s3-18-0034 -->
 
@@ -162,7 +174,11 @@ max_segment_id: 94
 
 <!-- id: s3-18-0037 -->
 
-> “*我所缺少的，恰恰是主要思想。*”
+<div class="text-quotation">
+
+“*我所缺少的，恰恰是主要思想。*”
+
+</div>
 
 <!-- id: s3-18-0038 -->
 
@@ -170,7 +186,11 @@ max_segment_id: 94
 
 <!-- id: s3-18-0039 -->
 
-> “*我们这些射线缺少思想。*”
+<div class="text-quotation">
+
+“*我们这些射线缺少思想。*”
+
+</div>
 
 <!-- id: s3-18-0040 -->
 
@@ -190,7 +210,7 @@ max_segment_id: 94
 
 <!-- id: s3-18-0044 -->
 
-> 在极限处，这个绝对大他者似乎就是从他的妄想经验中涌现的*神圣人物*；
+在极限处，这个绝对大他者似乎就是从他的妄想经验中涌现的*神圣人物*；
 
 <!-- id: s3-18-0045 -->
 
@@ -218,7 +238,11 @@ max_segment_id: 94
 
 <!-- id: s3-18-0051 -->
 
-> “*他的禾捆既不吝啬，也不怀恨。*”——维克多·雨果
+<div class="text-quotation">
+
+“*他的禾捆既不吝啬，也不怀恨。*”——维克多·雨果
+
+</div>
 
 <!-- id: s3-18-0052 -->
 

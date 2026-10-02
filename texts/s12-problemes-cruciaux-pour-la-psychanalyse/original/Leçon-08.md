@@ -14,7 +14,7 @@ Je reprendrai donc ici notre entretien à la date du 24 Février, ce qui tombera
 
 <!-- id: s12-08-0003 -->
 
-> comme je m’y suis essayé lors du dernier de ces séminaires fermés …de comprendre ce qu’ils ont à y faire dans ce séminaire, c’est-à-dire à en tirer eux–mêmes les conséquences : à choisir s’ils doivent y rester ou en partir.
+comme je m’y suis essayé lors du dernier de ces séminaires fermés …de comprendre ce qu’ils ont à y faire dans ce séminaire, c’est-à-dire à en tirer eux–mêmes les conséquences : à choisir s’ils doivent y rester ou en partir.
 
 <!-- id: s12-08-0004 -->
 
@@ -22,11 +22,11 @@ Je reprendrai donc ici notre entretien à la date du 24 Février, ce qui tombera
 
 <!-- id: s12-08-0005 -->
 
-> nombreux parmi vous, ce qui rend légitime ma communication ici publique …qui étaient à ce dernier séminaire fermé, je précise qu’ils pourront trouver…
+nombreux parmi vous, ce qui rend légitime ma communication ici publique …qui étaient à ce dernier séminaire fermé, je précise qu’ils pourront trouver…
 
 <!-- id: s12-08-0006 -->
 
-> dans un délai que j’espère court, c’est-à-dire, je pense d’ici la fin de la semaine qui maintenant est commencée …l’un des textes et un peu plus tard l’autre de ceux dont il a été somme toute décidé que leur ronéotypie serait mise à la disposition des personnes qui voudraient s’y référer pour la suite de ces séminaires. Ce sera à leur disposition 54 rue de Varenne, au deuxième étage au fond de la cour : ils s’adresseront aux huissiers de Madame DURAND.
+dans un délai que j’espère court, c’est-à-dire, je pense d’ici la fin de la semaine qui maintenant est commencée …l’un des textes et un peu plus tard l’autre de ceux dont il a été somme toute décidé que leur ronéotypie serait mise à la disposition des personnes qui voudraient s’y référer pour la suite de ces séminaires. Ce sera à leur disposition 54 rue de Varenne, au deuxième étage au fond de la cour : ils s’adresseront aux huissiers de Madame DURAND.
 
 <!-- id: s12-08-0007 -->
 
@@ -42,7 +42,7 @@ C’est à cette fin que j’ai reproduit ici sous cette forme de *la bouteille 
 
 <!-- id: s12-08-0010 -->
 
-> eu égard à la forme la plus répandue, la plus courante, la plus imagée, dans les livres les plus élémentaires …elle peut vous apparaître simplifiée, elle n’est nullement simplifiée, c’est exactement la même, mais on pourrait la représenter de bien d’autres façons pour la simple raison que toute représentation en est une représentation inexacte, forcée, puisque toute représentation que je peux vous en donner, est sur ce tableau plan, évidemment, une *représentation* qui est une *projection* dans l’espace à trois dimensions à laquelle *la surface* d’une *bouteille de Klein* n’appartient pas.
+eu égard à la forme la plus répandue, la plus courante, la plus imagée, dans les livres les plus élémentaires …elle peut vous apparaître simplifiée, elle n’est nullement simplifiée, c’est exactement la même, mais on pourrait la représenter de bien d’autres façons pour la simple raison que toute représentation en est une représentation inexacte, forcée, puisque toute représentation que je peux vous en donner, est sur ce tableau plan, évidemment, une *représentation* qui est une *projection* dans l’espace à trois dimensions à laquelle *la surface* d’une *bouteille de Klein* n’appartient pas.
 
 <!-- id: s12-08-0011 -->
 
@@ -78,7 +78,7 @@ Il n’est peut-être pas vain que je vous rappelle de quoi il s’agit. La vert
 
 <!-- id: s12-08-0019 -->
 
-> pour l’instant laissez de côté cette partie du schéma \[partie droite\] ...grâce à *l’usage d’un miroir sphérique*, on peut faire apparaître à l’intérieur d’un vase supposé réel qui serait placé ici, un « *faux bouquet* ».
+pour l’instant laissez de côté cette partie du schéma \[partie droite\] ...grâce à *l’usage d’un miroir sphérique*, on peut faire apparaître à l’intérieur d’un vase supposé réel qui serait placé ici, un « *faux bouquet* ».
 
 <!-- id: s12-08-0020 -->
 
@@ -134,17 +134,17 @@ C’est exactement *le rapport entre l’identification qui s’appelle idéal d
 
 <!-- id: s12-08-0033 -->
 
-> *de toujours* ce n’est pas ce qui couvre *une histoire*, à savoir l’histoire de l’enfant dans sa relation d’identification avec l’adulte …c’est donc d’*un certain point d’accommodation dans le champ de l’Autre*…
+*de toujours* ce n’est pas ce qui couvre *une histoire*, à savoir l’histoire de l’enfant dans sa relation d’identification avec l’adulte …c’est donc d’*un certain point d’accommodation dans le champ de l’Autre*…
 
 <!-- id: s12-08-0034 -->
 
-> en tant qu’*il est tissé*, non seulement de la *relation symbolique* mais d’*un certain plan imaginaire*,
->
-> tels ses rapports avec les adultes qui veillent sur sa formation …c’est en quelque sorte *fixé là, repéré là, accommodé en ce point,* qu’il va avoir tout au long du même développement - *pour faire entrer ici ce à quoi on se réfère dans la genèse -* qu’il va avoir, au cours de ce développement, *à accommoder cette illusion qui est là l’illusion du vase renversé,* c’est-à-dire à faire jouer autour de quelque chose qui est *le bouquet*…
+en tant qu’*il est tissé*, non seulement de la *relation symbolique* mais d’*un certain plan imaginaire*,
+
+tels ses rapports avec les adultes qui veillent sur sa formation …c’est en quelque sorte *fixé là, repéré là, accommodé en ce point,* qu’il va avoir tout au long du même développement - *pour faire entrer ici ce à quoi on se réfère dans la genèse -* qu’il va avoir, au cours de ce développement, *à accommoder cette illusion qui est là l’illusion du vase renversé,* c’est-à-dire à faire jouer autour de quelque chose qui est *le bouquet*…
 
 <!-- id: s12-08-0035 -->
 
-> que nous avons ici réduit pour la clarté à une seule fleur, voire à ce signe : le petit rond au bout d’une tige …*à accommoder autour de ce quelque chose* *qui n’a pas encore dit son nom*… encore qu’il soit déjà écrit sur le tableau …*à accommoder autour de ce quelque chose qui est l’image virtuelle de la fleur, à accommoder en somme cette image réelle du vase renversé.*
+que nous avons ici réduit pour la clarté à une seule fleur, voire à ce signe : le petit rond au bout d’une tige …*à accommoder autour de ce quelque chose* *qui n’a pas encore dit son nom*… encore qu’il soit déjà écrit sur le tableau …*à accommoder autour de ce quelque chose qui est l’image virtuelle de la fleur, à accommoder en somme cette image réelle du vase renversé.*
 
 <!-- id: s12-08-0036 -->
 
@@ -172,7 +172,7 @@ Ce dont il s’agit dans le rappel que j’ai fait ici de ce petit schéma, c’
 
 <!-- id: s12-08-0042 -->
 
-> comme je l’ai appelée tout à l’heure, ici désignée par *(a)* et qui est effectivement ce que nous appelons l’*objet(a)* ...cette fleur n’a pas, dans cette expérience et par rapport au miroir, n’a pas la même fonction, n’est pas homogène à ce qui vient jouer autour d’elle comme repère, à savoir *l’image du corps* et le *moi*.
+comme je l’ai appelée tout à l’heure, ici désignée par *(a)* et qui est effectivement ce que nous appelons l’*objet(a)* ...cette fleur n’a pas, dans cette expérience et par rapport au miroir, n’a pas la même fonction, n’est pas homogène à ce qui vient jouer autour d’elle comme repère, à savoir *l’image du corps* et le *moi*.
 
 <!-- id: s12-08-0043 -->
 
@@ -180,9 +180,9 @@ Je peux même ajouter, pour ceux qui ont déjà suivi là-dessus mes développem
 
 <!-- id: s12-08-0044 -->
 
-> mais évidemment c’est une métaphore. N’étant là qu’une métaphore, plus spécialement la métaphore de cette petite expérience physique - ne cherchez pas, alors là à l’y faire rentrer - de toute façon, malgré que FREUD ait lui-même utilisé des schémas, en somme tout à fait semblables, vous ne pouvez en aucun cas y apporter plus de réalité
->
-> que nous ne le faisons ici nous-mêmes …néanmoins, n’oubliez pas que par ailleurs, et à l’aide d’une référence beaucoup plus près du *réel*, qui est justement la référence topologique, j’ai bien souligné que si *l’image du corps*, le *i(a)* s’origine dans le sujet, dans l’expérience *spéculaire*, le *petit(a)* - vous savez quelle instance je lui donne dans l’économie du sujet et son identification - *le (a) n’a pas d’image spéculaire*, il n’est pas spécularisable.
+mais évidemment c’est une métaphore. N’étant là qu’une métaphore, plus spécialement la métaphore de cette petite expérience physique - ne cherchez pas, alors là à l’y faire rentrer - de toute façon, malgré que FREUD ait lui-même utilisé des schémas, en somme tout à fait semblables, vous ne pouvez en aucun cas y apporter plus de réalité
+
+que nous ne le faisons ici nous-mêmes …néanmoins, n’oubliez pas que par ailleurs, et à l’aide d’une référence beaucoup plus près du *réel*, qui est justement la référence topologique, j’ai bien souligné que si *l’image du corps*, le *i(a)* s’origine dans le sujet, dans l’expérience *spéculaire*, le *petit(a)* - vous savez quelle instance je lui donne dans l’économie du sujet et son identification - *le (a) n’a pas d’image spéculaire*, il n’est pas spécularisable.
 
 <!-- id: s12-08-0045 -->
 
@@ -210,7 +210,7 @@ Autour disons du *(a)* caché dans la référence à l’Autre, autour du *(a)* 
 
 <!-- id: s12-08-0051 -->
 
-> que jouent à la fois ces impasses et la possibilité de leur solution.
+que jouent à la fois ces impasses et la possibilité de leur solution.
 
 <!-- id: s12-08-0052 -->
 
@@ -226,7 +226,7 @@ C’est là l’ordre dans lequel…
 
 <!-- id: s12-08-0055 -->
 
-> vous devez bien le sentir depuis un bon moment, car déjà ce terme d’« *acosmique* » je l’ai sorti et sous plus d’un horizon …le caractère *non vu*, profondément *anti–intuitif*, et comme me disait encore tout récemment un mathématicien avec qui j’essayais de mettre en jeu, sur cette fameuse petite *bouteille* \[*de Klein*\], quelques autres exercices : « *ces surfaces horribles à voir* ».
+vous devez bien le sentir depuis un bon moment, car déjà ce terme d’« *acosmique* » je l’ai sorti et sous plus d’un horizon …le caractère *non vu*, profondément *anti–intuitif*, et comme me disait encore tout récemment un mathématicien avec qui j’essayais de mettre en jeu, sur cette fameuse petite *bouteille* \[*de Klein*\], quelques autres exercices : « *ces surfaces horribles à voir* ».
 
 <!-- id: s12-08-0056 -->
 
@@ -258,7 +258,7 @@ Mais il est clair que je vous prie par là de repérer certaines choses que je n
 
 <!-- id: s12-08-0063 -->
 
-> vous pourrez vous exercer dans la solitude à en vérifier l’importance …c’est que pour aller d’un point a à un point b, qui sont ici représentés sur *le cercle de rebroussement* mais qui peuvent être quelquonques, si nous prenons un certain type de chemin aller et retour, nous coupons *la bouteille* d’une certaine façon qui laisse intacte ses caractéristiques, à savoir que nous la coupons - si ça vous amuse - en deux *bandes de Mœbius*, c’est-à-dire deux surfaces non orientables comme la bouteille.
+vous pourrez vous exercer dans la solitude à en vérifier l’importance …c’est que pour aller d’un point a à un point b, qui sont ici représentés sur *le cercle de rebroussement* mais qui peuvent être quelquonques, si nous prenons un certain type de chemin aller et retour, nous coupons *la bouteille* d’une certaine façon qui laisse intacte ses caractéristiques, à savoir que nous la coupons - si ça vous amuse - en deux *bandes de Mœbius*, c’est-à-dire deux surfaces non orientables comme la bouteille.
 
 <!-- id: s12-08-0064 -->
 
@@ -374,9 +374,9 @@ II faut tout de même savoir…
 
 <!-- id: s12-08-0092 -->
 
-> bien sûr si l’on accorde de l’importance à mes formules, si elles peuvent être appliquées,
->
-> c’est-à-dire - quoi ? - traduites, et c’est moi-même qui ai apporté une traduction : …« *transfert* » c’est « *tromperie* » dans son essence.
+bien sûr si l’on accorde de l’importance à mes formules, si elles peuvent être appliquées,
+
+c’est-à-dire - quoi ? - traduites, et c’est moi-même qui ai apporté une traduction : …« *transfert* » c’est « *tromperie* » dans son essence.
 
 <!-- id: s12-08-0093 -->
 
@@ -392,13 +392,13 @@ Et pourquoi pas ? Essayons. Qui trompe-t-on ?
 
 <!-- id: s12-08-0096 -->
 
-> et il n’est pas besoin de beaucoup de références pour nous le confirmer …il s’agit de savoir si *l’interprétation du transfert*…
+et il n’est pas besoin de beaucoup de références pour nous le confirmer …il s’agit de savoir si *l’interprétation du transfert*…
 
 <!-- id: s12-08-0097 -->
 
-> qui se limite à constater que ce qui nous est là figuré et représenté dans le comportement
->
-> du patient vient *d’ailleurs, de plus loin, d’il y a longtemps :* de ses rapports avec ses parents, …si l’interpréter ainsi, ne peut être *favoriser cette tromperie*.
+qui se limite à constater que ce qui nous est là figuré et représenté dans le comportement
+
+du patient vient *d’ailleurs, de plus loin, d’il y a longtemps :* de ses rapports avec ses parents, …si l’interpréter ainsi, ne peut être *favoriser cette tromperie*.
 
 <!-- id: s12-08-0098 -->
 
@@ -410,7 +410,7 @@ Après quelques salutations aux autorités de son milieu, elle pose correctement
 
 <!-- id: s12-08-0100 -->
 
-> \- dit-elle : elle s’exprime fort bien - *de ces expériences traumatiques pour le maintien* - dit-elle - *de l’omnipotence ou toute-puissance bien connue dans les références analytiques communes qui sont celles qui appartiennent à l’enfant et aussi bien à l’inconscient.* »
+\- dit-elle : elle s’exprime fort bien - *de ces expériences traumatiques pour le maintien* - dit-elle - *de l’omnipotence ou toute-puissance bien connue dans les références analytiques communes qui sont celles qui appartiennent à l’enfant et aussi bien à l’inconscient.* »
 
 <!-- id: s12-08-0101 -->
 
@@ -418,21 +418,21 @@ En d’autres termes, quelqu’un *- une analyste -* pose…
 
 <!-- id: s12-08-0102 -->
 
-> dans le penchant, dans la pente présente, le versant suivi par l’expérience analytique …pose la question de savoir si…
+dans le penchant, dans la pente présente, le versant suivi par l’expérience analytique …pose la question de savoir si…
 
 <!-- id: s12-08-0103 -->
 
-> sans doute, cette interprétation du transfert qui a la portée d’une expérience rectificative et d’un jeu qui est important …si de se limiter à ce champ, ce n’est pas pour l’analyste, en tant qu’il est ici l’Autre…
+sans doute, cette interprétation du transfert qui a la portée d’une expérience rectificative et d’un jeu qui est important …si de se limiter à ce champ, ce n’est pas pour l’analyste, en tant qu’il est ici l’Autre…
 
 <!-- id: s12-08-0104 -->
 
-> l’Autre du sujet cartésien : ce Dieu dont je vous ai dit qu’il ne s’agit pas tant de savoir s’il n’est pas trompeur mais
->
-> \- ce que DESCARTES ne soulève pas - s’il n’est pas trompé. Et si DESCARTES ne le soulève pas c’est bien pour une raison, c’est que ce Dieu non trompeur auquel il fait remise si généreusement de l’arbitraire des vérités éternelles,
->
-> n’a-t-on pas depuis toujours senti qu’il y a là, de la part du *Grand Joueur* qui là s’avance masqué, quelque tromperie.
->
-> Car, que lui importe de lui laisser ces vérités, si lui, le sujet du *cogito*, il lui soustrait après tout la seule chose qui compte pour lui : sa certitude d’être celui qui pense, *res cogitans*. Dieu peut bien être le *Maître des Vérités Éternelles*, il n’est même pas assuré dans cette remise qu’il le sache lui-même …alors, c’est bien de cela qu’il s’agit pour *l’analyste*.
+l’Autre du sujet cartésien : ce Dieu dont je vous ai dit qu’il ne s’agit pas tant de savoir s’il n’est pas trompeur mais
+
+\- ce que DESCARTES ne soulève pas - s’il n’est pas trompé. Et si DESCARTES ne le soulève pas c’est bien pour une raison, c’est que ce Dieu non trompeur auquel il fait remise si généreusement de l’arbitraire des vérités éternelles,
+
+n’a-t-on pas depuis toujours senti qu’il y a là, de la part du *Grand Joueur* qui là s’avance masqué, quelque tromperie.
+
+Car, que lui importe de lui laisser ces vérités, si lui, le sujet du *cogito*, il lui soustrait après tout la seule chose qui compte pour lui : sa certitude d’être celui qui pense, *res cogitans*. Dieu peut bien être le *Maître des Vérités Éternelles*, il n’est même pas assuré dans cette remise qu’il le sache lui-même …alors, c’est bien de cela qu’il s’agit pour *l’analyste*.
 
 <!-- id: s12-08-0105 -->
 
@@ -580,9 +580,9 @@ SOCRATE ne possédait rien d’autre que ceci : *son désir*. *Le désir*, comme
 
 <!-- id: s12-08-0141 -->
 
-> je me suis même laissé dire récemment - ce qui est amusant, qu’il y a quelque part dans HEIDEGGER[^64],
->
-> je ne m’en étais pas aperçu, une suggestion que c’est là une *issue à la crise du logement* *…mais on n’habite pas le manque. Le manque, lui par contre, peut habiter quelque part.*
+je me suis même laissé dire récemment - ce qui est amusant, qu’il y a quelque part dans HEIDEGGER[^64],
+
+je ne m’en étais pas aperçu, une suggestion que c’est là une *issue à la crise du logement* *…mais on n’habite pas le manque. Le manque, lui par contre, peut habiter quelque part.*
 
 <!-- id: s12-08-0142 -->
 
@@ -610,11 +610,15 @@ Qui évidemment sont faits pour se conjoindre mais qui, à ce moment sont encore
 
 <!-- id: s12-08-0148 -->
 
-> « *La partie de vous qui est mal d’aller mieux* - je traduis l’anglais du mieux que je peux - *et a fait alliance avec moi, en a par-dessus la tête*
->
-> \- *is fed up* en anglais - *de la façon dont vous continuez à être incapable de faire un pas vers ce qui vous manque. C’est là le statu quo dont vous parliez et il me semble que la raison pour laquelle vous ne pouvez vous avancer jusqu’à saisir un des objets que vous désirez, est que vous avez placé votre propre bouche de bébé affamé dans chacun des deux. Alors, comme vous croyez inconsciemment qu’il n’y a assez de nourriture que pour une bouche, c’est-à-dire que vous ne pouvez faire qu’une chose à la fois, l’autre va succomber à la faim et probablement en mourir.*
->
-> *C’est une raison pour laquelle vous étiez mis en demeure de préserver le statu quo, ce qui veut dire de ne pas vous permettre de sentir* - car c’est comme ça que le patient s’est exprimé - *que vous pouviez faire ou aviez fait quelque chose, parce que ceci aurait voulu dire qu’une partie de vous ou un de vos self, de vos soi aurait été abandonné pour toujours et serait mort de faim.* »
+<div class="text-quotation">
+
+« *La partie de vous qui est mal d’aller mieux* - je traduis l’anglais du mieux que je peux - *et a fait alliance avec moi, en a par-dessus la tête*
+
+\- *is fed up* en anglais - *de la façon dont vous continuez à être incapable de faire un pas vers ce qui vous manque. C’est là le statu quo dont vous parliez et il me semble que la raison pour laquelle vous ne pouvez vous avancer jusqu’à saisir un des objets que vous désirez, est que vous avez placé votre propre bouche de bébé affamé dans chacun des deux. Alors, comme vous croyez inconsciemment qu’il n’y a assez de nourriture que pour une bouche, c’est-à-dire que vous ne pouvez faire qu’une chose à la fois, l’autre va succomber à la faim et probablement en mourir.*
+
+*C’est une raison pour laquelle vous étiez mis en demeure de préserver le statu quo, ce qui veut dire de ne pas vous permettre de sentir* - car c’est comme ça que le patient s’est exprimé - *que vous pouviez faire ou aviez fait quelque chose, parce que ceci aurait voulu dire qu’une partie de vous ou un de vos self, de vos soi aurait été abandonné pour toujours et serait mort de faim.* »
+
+</div>
 
 <!-- id: s12-08-0149 -->
 
@@ -658,9 +662,9 @@ Ce qui est frappant c’est que tout de même par une sorte de sentiment de ne p
 
 <!-- id: s12-08-0159 -->
 
-> parce que *la demande orale* se fait par le même orifice que *la demande invoquante*,
->
-> que *la demande de manger* est la même du fait que *c’est la bouche qui parle*, …il a deux bouches.
+parce que *la demande orale* se fait par le même orifice que *la demande invoquante*,
+
+que *la demande de manger* est la même du fait que *c’est la bouche qui parle*, …il a deux bouches.
 
 <!-- id: s12-08-0160 -->
 
@@ -676,7 +680,7 @@ Je souhaite que le temps ne se soit pas assez allongé dans votre mémoire pour 
 
 <!-- id: s12-08-0163 -->
 
-> un père dépressif souvenons-nous en, c’est-à-dire dans l’économie duquel l’objet partiel a une importance prévalente …c’est que le patient, comme tout enfant, mais plus qu’un autre, justement en raison de cette structure du père, le patient \- je le répète : *comme tout enfant l’est à des degrés divers* - le patient est lui-même cet *objet(a)*.
+un père dépressif souvenons-nous en, c’est-à-dire dans l’économie duquel l’objet partiel a une importance prévalente …c’est que le patient, comme tout enfant, mais plus qu’un autre, justement en raison de cette structure du père, le patient \- je le répète : *comme tout enfant l’est à des degrés divers* - le patient est lui-même cet *objet(a)*.
 
 <!-- id: s12-08-0164 -->
 
@@ -684,7 +688,7 @@ La *prise* de l’enfant sur l’adulte…
 
 <!-- id: s12-08-0165 -->
 
-> et tout ce qu’il y a dans les mythes de l’enfant, comme s’exprimait tout à l’heure l’analyste concernant sa toute puissance …n’a nullement son ressort là où on le dit, dans une espèce de prétendue magie qu’on lui attribue également à condition bien sûr que le patient ne soit pas capable de parler de sa propre magie, tout le monde est capable de parler de ce langage, mais ce n’est pas une raison pour les en croire.
+et tout ce qu’il y a dans les mythes de l’enfant, comme s’exprimait tout à l’heure l’analyste concernant sa toute puissance …n’a nullement son ressort là où on le dit, dans une espèce de prétendue magie qu’on lui attribue également à condition bien sûr que le patient ne soit pas capable de parler de sa propre magie, tout le monde est capable de parler de ce langage, mais ce n’est pas une raison pour les en croire.
 
 <!-- id: s12-08-0166 -->
 

@@ -74,9 +74,9 @@ Pour le franchir, étant donné ce qui lui est suggéré, ce qu’elle croit dev
 
 <!-- id: s8-16-0018 -->
 
-> malgré que l’histoire de l’art ne nous donne aucun autre témoignage à ma connaissance,
->
-> je serais reconnaissant que quelqu’un maintenant, incité par mes remarques, m’apporte la preuve contraire
+malgré que l’histoire de l’art ne nous donne aucun autre témoignage à ma connaissance,
+
+je serais reconnaissant que quelqu’un maintenant, incité par mes remarques, m’apporte la preuve contraire
 
 <!-- id: s8-16-0019 -->
 
@@ -120,9 +120,9 @@ Et on pourrait faire toute une menue phénoménologie de *l’âme malheureuse* 
 
 <!-- id: s8-16-0029 -->
 
-> il n’y a à proprement parler qu’à savoir lire pour voir que ça n’est vraiment caché
->
-> que d’être au premier plan et trop évident, comme dans *La lettre volée*
+il n’y a à proprement parler qu’à savoir lire pour voir que ça n’est vraiment caché
+
+que d’être au premier plan et trop évident, comme dans *La lettre volée*
 
 <!-- id: s8-16-0030 -->
 
@@ -166,9 +166,9 @@ Car en fin de compte si le mythe de PSYCHÉ a un sens, c’est ceci : que PSYCH
 
 <!-- id: s8-16-0040 -->
 
-> non pas simplement comme pourvue d’un don initial extraordinaire, celui d’être égale à VÉNUS, ni non plus
->
-> d’une faveur masquée et inconnue, celle en somme d’un bonheur infini et insondable, ...mais en tant que PSYCHÉ, *en tant que sujet d’un pathos qui est à proprement parler celui de l’âme*, à ce même moment où justement le désir qui l’a comblée va la fuir, va se dérober, c’est à partir de ce moment que commencent les aventures de PSYCHÉ.
+non pas simplement comme pourvue d’un don initial extraordinaire, celui d’être égale à VÉNUS, ni non plus
+
+d’une faveur masquée et inconnue, celle en somme d’un bonheur infini et insondable, ...mais en tant que PSYCHÉ, *en tant que sujet d’un pathos qui est à proprement parler celui de l’âme*, à ce même moment où justement le désir qui l’a comblée va la fuir, va se dérober, c’est à partir de ce moment que commencent les aventures de PSYCHÉ.
 
 <!-- id: s8-16-0041 -->
 
@@ -304,9 +304,9 @@ Je pense la prochaine fois pouvoir vous l’articuler de la façon la plus exemp
 
 <!-- id: s8-16-0074 -->
 
-> disais-je, parlant d’un sujet pris dans la situation névrotique la plus exemplaire
->
-> pour nous en tant qu’elle était celle de l’*aphanisis* déterminée par le *complexe de castration*
+disais-je, parlant d’un sujet pris dans la situation névrotique la plus exemplaire
+
+pour nous en tant qu’elle était celle de l’*aphanisis* déterminée par le *complexe de castration*
 
 <!-- id: s8-16-0075 -->
 

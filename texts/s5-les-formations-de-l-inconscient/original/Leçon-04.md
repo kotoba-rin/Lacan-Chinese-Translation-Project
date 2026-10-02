@@ -205,7 +205,11 @@ C’est l’histoire du dialogue d’Henri HEINE avec le *poète* Frédéric SOU
 
 <!-- id: s5-04-0041 -->
 
-> « *Regardez*…
+<div class="text-quotation">
+
+« *Regardez*…
+
+</div>
 
 <!-- id: s5-04-0042 -->
 
@@ -213,7 +217,11 @@ dit Frédéric SOULIÉ à celui qui n’était que de peu son aîné et dont il 
 
 <!-- id: s5-04-0043 -->
 
-> « *Regardez comme le XIX<sup>ème</sup> siècle adore le Veau d’or !* »
+<div class="text-quotation">
+
+« *Regardez comme le XIX<sup>ème</sup> siècle adore le Veau d’or !* »
+
+</div>
 
 <!-- id: s5-04-0044 -->
 
@@ -223,7 +231,11 @@ sur lequel on attire son attention, répond :
 
 <!-- id: s5-04-0045 -->
 
-> « *Oui, mais celui-là me semble en avoir passé l’âge.* »
+<div class="text-quotation">
+
+« *Oui, mais celui-là me semble en avoir passé l’âge.* »
+
+</div>
 
 <!-- id: s5-04-0046 -->
 
@@ -328,7 +340,11 @@ qui n’a pas encore cessé de téter sa mère, purisme dont je me suis laissé 
 
 <!-- id: s5-04-0063 -->
 
-> « *Pour un veau, il a passé l’âge !* »
+<div class="text-quotation">
+
+« *Pour un veau, il a passé l’âge !* »
+
+</div>
 
 <!-- id: s5-04-0064 -->
 
@@ -457,7 +473,7 @@ de la chaîne signifiante - en rapport avec un autre signifiant :
 
 <!-- id: s5-04-0086 -->
 
-> f(S…S<sub>1</sub>) S<sub>2</sub> = S (–) *s*
+f(S…S<sub>1</sub>) S<sub>2</sub> = S (–) *s*
 
 <!-- id: s5-04-0087 -->
 
@@ -575,9 +591,13 @@ cela a le plus grand rapport avec *l’exclamation, l’invocation comique* que 
 
 <!-- id: s5-04-0111 -->
 
-> « *Il n’y aurait pas de métaphore s’il n’y avait pas de métonymie.* »
-> De même :
-> « *Vive la Pologne, parce que sans la Pologne* - disait aussi le père Ubu *- il n’y aurait pas de Polonais !* »
+<div class="text-quotation">
+
+« *Il n’y aurait pas de métaphore s’il n’y avait pas de métonymie.* »
+De même :
+« *Vive la Pologne, parce que sans la Pologne* - disait aussi le père Ubu *- il n’y aurait pas de Polonais !* »
+
+</div>
 
 <!-- id: s5-04-0112 -->
 
@@ -587,9 +607,13 @@ dans les malheurs de la Pologne qui ne sont que trop connus. La chose est aussi 
 
 <!-- id: s5-04-0113 -->
 
-> « *Vive la France, Monsieur, car sans la France il n’y aurait pas de Français !* »
-> De même si je dis :
-> « *Vive le christianisme, parce que sans le christianisme il n’y aurait pas de chrétiens ! Et même vive le Christ !* »
+<div class="text-quotation">
+
+« *Vive la France, Monsieur, car sans la France il n’y aurait pas de Français !* »
+De même si je dis :
+« *Vive le christianisme, parce que sans le christianisme il n’y aurait pas de chrétiens ! Et même vive le Christ !* »
+
+</div>
 
 <!-- id: s5-04-0114 -->
 
@@ -643,10 +667,14 @@ Et y étant entré, j’ai été bien surpris dans cette espèce \[dans ce genre
 
 <!-- id: s5-04-0124 -->
 
-> « *Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.*
-> *Comme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache*
-> *d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire,*
-> *un de ces regards de joli garçon, qui s’étendent comme des coups d’épervier.* »
+<div class="text-quotation">
+
+« *Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.*
+*Comme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache*
+*d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire,*
+*un de ces regards de joli garçon, qui s’étendent comme des coups d’épervier.* »
+
+</div>
 
 <!-- id: s5-04-0125 -->
 
@@ -674,11 +702,15 @@ fût-ce le plus immédiat. Je prends l’exemple de ce repas au restaurant, qui 
 
 <!-- id: s5-04-0129 -->
 
-> « *Les huîtres d’Ostende furent apportées, mignonnes et grasses, semblables à de petites oreilles enfermées*
-> *en des coquilles, et fondant entre le palais et la langue ainsi que des bonbons salés. Puis, après le potage, on servit une truite rose comme de la chair de jeune fille... Et les convives commencèrent à causer.*
-> *Ce fut le moment des sous-entendus adroits, des voiles levés par des mots, comme on lève des jupes, le moment*
-> *des ruses de langage, des audaces habiles et déguisées, de toutes les hypocrisies impudiques, de la phrase qui montre des images dévêtues avec des expressions couvertes, qui fait passer dans l’œil et dans l’esprit la vision rapide de tout*
-> *ce qu’on ne peut pas dire, et permet aux gens du monde une sorte d’amour subtil et mystérieux, une sorte de contact impur des pensées par l’évocation simultanée, troublante et sensuelle comme une étreinte, de toutes les choses secrètes, honteuses et désirées de l’enlacement. On avait apporté le rôti, des perdreaux*... »
+<div class="text-quotation">
+
+« *Les huîtres d’Ostende furent apportées, mignonnes et grasses, semblables à de petites oreilles enfermées*
+*en des coquilles, et fondant entre le palais et la langue ainsi que des bonbons salés. Puis, après le potage, on servit une truite rose comme de la chair de jeune fille... Et les convives commencèrent à causer.*
+*Ce fut le moment des sous-entendus adroits, des voiles levés par des mots, comme on lève des jupes, le moment*
+*des ruses de langage, des audaces habiles et déguisées, de toutes les hypocrisies impudiques, de la phrase qui montre des images dévêtues avec des expressions couvertes, qui fait passer dans l’œil et dans l’esprit la vision rapide de tout*
+*ce qu’on ne peut pas dire, et permet aux gens du monde une sorte d’amour subtil et mystérieux, une sorte de contact impur des pensées par l’évocation simultanée, troublante et sensuelle comme une étreinte, de toutes les choses secrètes, honteuses et désirées de l’enlacement. On avait apporté le rôti, des perdreaux*... »
+
+</div>
 
 <!-- id: s5-04-0130 -->
 
@@ -686,8 +718,12 @@ Je peux vous faire remarquer que ce rôti, les perdreaux, la terrine de volaille
 
 <!-- id: s5-04-0131 -->
 
-> « *Ils avaient mangé de tout cela sans y goûter, sans s’en douter, uniquement préoccupés de ce qu’ils disaient,*
-> *plongés dans un bain d’amour.* »
+<div class="text-quotation">
+
+« *Ils avaient mangé de tout cela sans y goûter, sans s’en douter, uniquement préoccupés de ce qu’ils disaient,*
+*plongés dans un bain d’amour.* »
+
+</div>
 
 <!-- id: s5-04-0132 -->
 
@@ -806,7 +842,11 @@ SOULIÉ invoque Henri HEINE beaucoup plus prestigieux que lui - sans vous faire 
 
 <!-- id: s5-04-0156 -->
 
-> « *Ne voyez-vous pas, mon cher maître* - quelque chose comme cela - *n’est-ce pas bien amusant de voir ce XIX<sup>ème</sup> siècle*...
+<div class="text-quotation">
+
+« *Ne voyez-vous pas, mon cher maître* - quelque chose comme cela - *n’est-ce pas bien amusant de voir ce XIX<sup>ème</sup> siècle*...
+
+</div>
 
 <!-- id: s5-04-0157 -->
 
@@ -814,7 +854,11 @@ Ici c’est *l’appel, l’invocation, le tirage du côté du* « *Je* » de 
 
 <!-- id: s5-04-0158 -->
 
-> ...*de voir ce XIX<sup>ème</sup> siècle adorer encore le Veau d’or ?* »
+<div class="text-quotation">
+
+...*de voir ce XIX<sup>ème</sup> siècle adorer encore le Veau d’or ?* »
+
+</div>
 
 <!-- id: s5-04-0159 -->
 

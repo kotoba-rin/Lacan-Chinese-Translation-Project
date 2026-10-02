@@ -94,7 +94,7 @@ Deux *manques*, ici se recouvrent :
 
 <!-- id: s11-16-0020 -->
 
-> et de façon *aussi leurrante* *le mythe* d’ARISTOPHANE : que c’est *l’autre*, que c’est *sa moitié sexuelle* que le vivant cherche dans l’amour.
+et de façon *aussi leurrante* *le mythe* d’ARISTOPHANE : que c’est *l’autre*, que c’est *sa moitié sexuelle* que le vivant cherche dans l’amour.
 
 <!-- id: s11-16-0021 -->
 

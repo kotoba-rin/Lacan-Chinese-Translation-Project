@@ -122,9 +122,9 @@ Si c’est au sein d’une caverne que PLATON tente de nous porter pour faire su
 
 <!-- id: s13-16-0030 -->
 
-> *et qui, devant ces figures ne s’essoufflent plus à imaginer l’homme des premiers temps dans*
->
-> *je ne sais quelle anxiété de rapporter suffisamment pour le repas de midi à sa bourgeoise, cette exploration qui, elle, se portant non pas sur l’interprétation imaginative de ce qu’il peut en être du rapport d’une flèche et d’un animal surtout quand il apparaît que la blessure porte les traces les plus évidentes d’être une représentation vulvaire* …cette méthode, qui a fait entrer en jeu avec M. LEROI-GOURHAN[^162] l’appareil d’un fichier soigné, voire l’usage d’une machine électronique, nous représente que ces figures ne sont pas réparties au hasard et que la fréquence constante, univoque des cerfs à l’entrée, des bisons au milieu, nous introduit en quelque sorte directement, encore que
+*et qui, devant ces figures ne s’essoufflent plus à imaginer l’homme des premiers temps dans*
+
+*je ne sais quelle anxiété de rapporter suffisamment pour le repas de midi à sa bourgeoise, cette exploration qui, elle, se portant non pas sur l’interprétation imaginative de ce qu’il peut en être du rapport d’une flèche et d’un animal surtout quand il apparaît que la blessure porte les traces les plus évidentes d’être une représentation vulvaire* …cette méthode, qui a fait entrer en jeu avec M. LEROI-GOURHAN[^162] l’appareil d’un fichier soigné, voire l’usage d’une machine électronique, nous représente que ces figures ne sont pas réparties au hasard et que la fréquence constante, univoque des cerfs à l’entrée, des bisons au milieu, nous introduit en quelque sorte directement, encore que
 
 <!-- id: s13-16-0031 -->
 
@@ -180,9 +180,9 @@ La *géométrie projective* est à proprement parler *combinatoire*, combinatoir
 
 <!-- id: s13-16-0044 -->
 
-> car une définition combinatoire ne vaut pas si elle comporte *des exceptions de l’ordre intuitif*,
->
-> si nous croyons que les parallèles sont justement les lignes qui ne se coupent pas …deux lignes se couperont toujours en un point et l’on se débrouillera comme on pourra, mais il faut que ce point existe.
+car une définition combinatoire ne vaut pas si elle comporte *des exceptions de l’ordre intuitif*,
+
+si nous croyons que les parallèles sont justement les lignes qui ne se coupent pas …deux lignes se couperont toujours en un point et l’on se débrouillera comme on pourra, mais il faut que ce point existe.
 
 <!-- id: s13-16-0045 -->
 
@@ -222,15 +222,15 @@ C’est là ce qui surgit au XVII<sup>ème</sup> siècle avec le génie de PASCA
 
 <!-- id: s13-16-0054 -->
 
-> je pense que vous savez ce que c’est qu’une conique mais je vous le rappelle : conique c’est un cône, c’est une hyperbole, c’est une parabole ce qui veut dire dans l’occasion qu’il s’agit de certaines de leurs formes
->
-> telles qu’elles sont engendrées dans l’espace et non pas simplement sous forme de révolutions. Un cône
->
-> se définissant alors, par la forme qui se présente dans l’espace, de par l’enveloppement d’une ligne joignant un point à un cercle par exemple et ne la joignant pas forcément d’un point situé perpendiculairement à son centre …toutes ces lignes donc présentent la propriété que les trois lignes qui joignent des sommets opposés…
+je pense que vous savez ce que c’est qu’une conique mais je vous le rappelle : conique c’est un cône, c’est une hyperbole, c’est une parabole ce qui veut dire dans l’occasion qu’il s’agit de certaines de leurs formes
+
+telles qu’elles sont engendrées dans l’espace et non pas simplement sous forme de révolutions. Un cône
+
+se définissant alors, par la forme qui se présente dans l’espace, de par l’enveloppement d’une ligne joignant un point à un cercle par exemple et ne la joignant pas forcément d’un point situé perpendiculairement à son centre …toutes ces lignes donc présentent la propriété que les trois lignes qui joignent des sommets opposés…
 
 <!-- id: s13-16-0055 -->
 
-> ce qui est facile à déterminer quelle que soit la forme de l’hexagone, par un simple comptage …[*ces trois lignes convergent en un point*](http://perso.univ-rennes1.fr/michel.coste/cindy/Pascal.html).
+ce qui est facile à déterminer quelle que soit la forme de l’hexagone, par un simple comptage …[*ces trois lignes convergent en un point*](http://perso.univ-rennes1.fr/michel.coste/cindy/Pascal.html).
 
 <!-- id: s13-16-0056 -->
 
@@ -246,9 +246,9 @@ Ici nous introduirons l’appareil qui déjà nous a servi comme essentiel à *c
 
 <!-- id: s13-16-0059 -->
 
-> qui, quelle qu’elle soit, élude, élide, ce qu’il en est du rapport de la représentation à l’objet,
->
-> puisque, de quelque façon, la représentation y sera toujours un double de cet objet …*confronter à ce que je vous ai d’abord présenté comme la structure de la vision, y opposant celle du regard*. Et *ce regard*, dans ce premier abord je l’ai mis *là où il se saisit*, *là où il se supporte*, à savoir *là où il s’est épandu :* en cette œuvre qu’on appelle *un tableau*.
+qui, quelle qu’elle soit, élude, élide, ce qu’il en est du rapport de la représentation à l’objet,
+
+puisque, de quelque façon, la représentation y sera toujours un double de cet objet …*confronter à ce que je vous ai d’abord présenté comme la structure de la vision, y opposant celle du regard*. Et *ce regard*, dans ce premier abord je l’ai mis *là où il se saisit*, *là où il se supporte*, à savoir *là où il s’est épandu :* en cette œuvre qu’on appelle *un tableau*.
 
 <!-- id: s13-16-0060 -->
 
@@ -268,7 +268,7 @@ Et *le tableau* dont nous allons parler…
 
 <!-- id: s13-16-0064 -->
 
-> puisque c’est dans ce sens que nous en attendons service et rendement …c’est bien *dans sa monture de chevalet* que nous allons *le prendre*, *ce tableau* de quelque chose qui se tient comme un objet matériel, c’est là ce qui va nous servir de référence pour un certain nombre de réflexions.
+puisque c’est dans ce sens que nous en attendons service et rendement …c’est bien *dans sa monture de chevalet* que nous allons *le prendre*, *ce tableau* de quelque chose qui se tient comme un objet matériel, c’est là ce qui va nous servir de référence pour un certain nombre de réflexions.
 
 <!-- id: s13-16-0065 -->
 
@@ -288,7 +288,7 @@ Ces lignes traversent cet autre plan \[P\] et les points, les lignes où elles l
 
 <!-- id: s13-16-0069 -->
 
-> *voire la traversée du plan qui se déterminera par rapport à une de ces lignes, de la contenir par exemple* …ces traversées du plan-figure - je distingue donc plan-support \[Q\] et plan-figure \[P\] - cette traversée de la ligne oculaire, laissant sa trace sur le plan-figure \[α’\], c’est à ceci que nous avons affaire dans ce qu’il en est de *la construction de la perspective*.
+*voire la traversée du plan qui se déterminera par rapport à une de ces lignes, de la contenir par exemple* …ces traversées du plan-figure - je distingue donc plan-support \[Q\] et plan-figure \[P\] - cette traversée de la ligne oculaire, laissant sa trace sur le plan-figure \[α’\], c’est à ceci que nous avons affaire dans ce qu’il en est de *la construction de la perspective*.
 
 <!-- id: s13-16-0070 -->
 
@@ -424,7 +424,7 @@ Ces remarques qui sont fondamentales pour toute science de la perspective et qui
 
 <!-- id: s13-16-0103 -->
 
-> je ne vois pas que j’y apporte là quoique ce soit de véritablement bien transcendant …*le point de fuite de la perspective*. *Ce point de fuite de la perspective est à proprement parler ce qui représente dans la figure, l’œil qui regarde*.
+je ne vois pas que j’y apporte là quoique ce soit de véritablement bien transcendant …*le point de fuite de la perspective*. *Ce point de fuite de la perspective est à proprement parler ce qui représente dans la figure, l’œil qui regarde*.
 
 <!-- id: s13-16-0104 -->
 

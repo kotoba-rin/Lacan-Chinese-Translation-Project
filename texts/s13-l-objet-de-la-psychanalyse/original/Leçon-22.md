@@ -18,7 +18,7 @@ Nous avons entendu…
 
 <!-- id: s13-22-0004 -->
 
-> je dis cela pour ceux qui sont à la fois partie prenante de ce séminaire fermé et qui assistent aux débats intitulés *Communications*... dans l’École Freudienne, il y a ici, par exemple, certainement, une part importante de l’assemblée qui réalise… cette réunion de caractère… …évidemment nous avons entendu une *communication très, très bien*[^197] - d’ailleurs je l’ai marqué - mais enfin elle est *très, très bien,* à placer, si vous me permettez cette chose qui est *à prendre avec le grain de sel*, dans ce qui constitue pour moi la problématique de ce qu’on appelle *communication* - vous avez vu tout à l’heure, je n’ai pas achevé - *communication scientifique dans la psychanalyse*.
+je dis cela pour ceux qui sont à la fois partie prenante de ce séminaire fermé et qui assistent aux débats intitulés *Communications*... dans l’École Freudienne, il y a ici, par exemple, certainement, une part importante de l’assemblée qui réalise… cette réunion de caractère… …évidemment nous avons entendu une *communication très, très bien*[^197] - d’ailleurs je l’ai marqué - mais enfin elle est *très, très bien,* à placer, si vous me permettez cette chose qui est *à prendre avec le grain de sel*, dans ce qui constitue pour moi la problématique de ce qu’on appelle *communication* - vous avez vu tout à l’heure, je n’ai pas achevé - *communication scientifique dans la psychanalyse*.
 
 <!-- id: s13-22-0005 -->
 
@@ -54,7 +54,7 @@ Il est bien clair que c’est le même problème que celui que notre ami Michel 
 
 <!-- id: s13-22-0013 -->
 
-> qui n’est pas là, lui non plus : il ne s’est pas cru invité au séminaire fermé, c’est bien malheureux …notre ami Michel FOUCAULT, en somme aborde avec des excellents bouquins comme ceux auxquels nous nous sommes reportés : *L’histoire de la folie*, ou *La naissance de la clinique*. Vous comprendrez pourquoi : premièrement il y a des *pervers normaux*, deuxièmement il y a des *pervers considérés comme anormaux*.
+qui n’est pas là, lui non plus : il ne s’est pas cru invité au séminaire fermé, c’est bien malheureux …notre ami Michel FOUCAULT, en somme aborde avec des excellents bouquins comme ceux auxquels nous nous sommes reportés : *L’histoire de la folie*, ou *La naissance de la clinique*. Vous comprendrez pourquoi : premièrement il y a des *pervers normaux*, deuxièmement il y a des *pervers considérés comme anormaux*.
 
 <!-- id: s13-22-0014 -->
 
@@ -66,7 +66,7 @@ Quoi qu’il en soit, je regrette l’absence de CLAVREUL parce que je lui aurai
 
 <!-- id: s13-22-0016 -->
 
-> n’oublions pas que sa conférence était intitulée *Le couple pervers*. Comme s’il y en avait de purs et simples couples pervers. Justement, c’est tout le drame. Enfin, laissons …la remarque qui est celle épinglée de Jean GENET, qu’il y a toujours dans l’exercice de l’acte pervers un endroit où le pervers tient beaucoup à ce que soit placée la marque du faux.
+n’oublions pas que sa conférence était intitulée *Le couple pervers*. Comme s’il y en avait de purs et simples couples pervers. Justement, c’est tout le drame. Enfin, laissons …la remarque qui est celle épinglée de Jean GENET, qu’il y a toujours dans l’exercice de l’acte pervers un endroit où le pervers tient beaucoup à ce que soit placée la marque du faux.
 
 <!-- id: s13-22-0017 -->
 
@@ -74,7 +74,7 @@ Je lui ai conseillé de repartir de là. Je lui conseillerai aujourd’hui *une 
 
 <!-- id: s13-22-0018 -->
 
-> que j’ai pris soin de passer chez le libraire pour que vous voyez qu’il existe, et je ne me souvenais plus qu’il avait été imprimé au Mercure de France, tout récemment d’ailleurs, grâce à quoi vous pouvez le voir - qui s’appelle « *Mémoires de l’Abbé de Choisy habillé en femme* [^198]» - lisez-le …moyennant quoi vous verrez d’où est le sain départ concernant le registre de la perversion.
+que j’ai pris soin de passer chez le libraire pour que vous voyez qu’il existe, et je ne me souvenais plus qu’il avait été imprimé au Mercure de France, tout récemment d’ailleurs, grâce à quoi vous pouvez le voir - qui s’appelle « *Mémoires de l’Abbé de Choisy habillé en femme* [^198]» - lisez-le …moyennant quoi vous verrez d’où est le sain départ concernant le registre de la perversion.
 
 <!-- id: s13-22-0019 -->
 
@@ -102,13 +102,13 @@ Ce que j’aimerais...
 
 <!-- id: s13-22-0025 -->
 
-> et ce dont heureusement je me suis assuré *une petite garantie*, que j’aurais au moins quelque chose pour me répondre …ce que j’aimerais, c’est que, somme toute, après une année où je vous ai dit des choses, dont il doit y avoir dans votre tête un gros résidu quand même…
+et ce dont heureusement je me suis assuré *une petite garantie*, que j’aurais au moins quelque chose pour me répondre …ce que j’aimerais, c’est que, somme toute, après une année où je vous ai dit des choses, dont il doit y avoir dans votre tête un gros résidu quand même…
 
 <!-- id: s13-22-0026 -->
 
-> j’ai dit des choses, certaines qui étaient tout à fait neuves au moins pour une part d’entre vous, d’autres qui étaient vraiment structurées pour la première fois d’une façon absolument, non seulement exemplaire mais même rigoureuse, et j’ai osé ajouter - prenant par là une sorte d’engagement - définitive, considérant par exemple,
->
-> le schéma que je vous ai donné de la fonction du regard …bon, je ne serais pas mécontent, je ne déplorerais pas que certains me posent des questions.
+j’ai dit des choses, certaines qui étaient tout à fait neuves au moins pour une part d’entre vous, d’autres qui étaient vraiment structurées pour la première fois d’une façon absolument, non seulement exemplaire mais même rigoureuse, et j’ai osé ajouter - prenant par là une sorte d’engagement - définitive, considérant par exemple,
+
+le schéma que je vous ai donné de la fonction du regard …bon, je ne serais pas mécontent, je ne déplorerais pas que certains me posent des questions.
 
 <!-- id: s13-22-0027 -->
 
@@ -116,9 +116,9 @@ Naturellement le bruit se confirme que ce n’est pas une chose à faire, sous p
 
 <!-- id: s13-22-0028 -->
 
-> qui en somme, est la seule personne qui sur ce plan m’a donné toute satisfaction cette année,
->
-> c’est à dire qu’il s’est tout simplement risqué à ce que je demande, c’est à dire à ce qu’on me réponde …Monsieur AUDOUARD a fait, c’est vrai, *une grosse erreur*, une grosse erreur en collant dans le schéma de la perspective, l’œil de l’artiste dans ce qu’on peut en somme appeler *le plan du tableau*, ceci au moment de fondation de la perspective. Bon !
+qui en somme, est la seule personne qui sur ce plan m’a donné toute satisfaction cette année,
+
+c’est à dire qu’il s’est tout simplement risqué à ce que je demande, c’est à dire à ce qu’on me réponde …Monsieur AUDOUARD a fait, c’est vrai, *une grosse erreur*, une grosse erreur en collant dans le schéma de la perspective, l’œil de l’artiste dans ce qu’on peut en somme appeler *le plan du tableau*, ceci au moment de fondation de la perspective. Bon !
 
 <!-- id: s13-22-0029 -->
 
@@ -126,7 +126,7 @@ Il faudrait quand même bien que vous conceviez ceci, c’est que, étant donné
 
 <!-- id: s13-22-0030 -->
 
-> je vous ai dit qu’il était dans ce fameux schéma de la perspective - je l’ai dessiné au tableau, enfin, j’ai pris beaucoup de peine - dans ce qu’ALBERTI a fondé, et qu’un nommé VIATOR - c’était parce qu’il s’appelait PELLERIN tout simplement en français - a repris …eh bien, l’erreur qu’a fait Monsieur AUDOUARD, c’est exactement l’erreur qu’a fait Albert DÜRER.
+je vous ai dit qu’il était dans ce fameux schéma de la perspective - je l’ai dessiné au tableau, enfin, j’ai pris beaucoup de peine - dans ce qu’ALBERTI a fondé, et qu’un nommé VIATOR - c’était parce qu’il s’appelait PELLERIN tout simplement en français - a repris …eh bien, l’erreur qu’a fait Monsieur AUDOUARD, c’est exactement l’erreur qu’a fait Albert DÜRER.
 
 <!-- id: s13-22-0031 -->
 
@@ -166,13 +166,13 @@ Donc dans ce rapport du S au A, nous avons pu établir la fonction de ce *(a)* d
 
 <!-- id: s13-22-0040 -->
 
-> si vous voulez, avec le privilège pour l’un d’entre eux, le moins étudié
->
-> et pourtant le plus fondamental pour toute articulation de la chose elle-même …et puis la correspondance *en avant*, ou si vous voulez l’équivalence que le (–J) c’est-à-dire *le phallus*, en tant qu’objet en jeu dans le rapport à *la jouissance*, en tant qu’il nécessite la conjonction de l’autre dans la relation sexuelle…
+si vous voulez, avec le privilège pour l’un d’entre eux, le moins étudié
+
+et pourtant le plus fondamental pour toute articulation de la chose elle-même …et puis la correspondance *en avant*, ou si vous voulez l’équivalence que le (–J) c’est-à-dire *le phallus*, en tant qu’objet en jeu dans le rapport à *la jouissance*, en tant qu’il nécessite la conjonction de l’autre dans la relation sexuelle…
 
 <!-- id: s13-22-0041 -->
 
-> Ah, ben vous voilà STEIN. Venez là. Je déplorais votre absence …eh bien, ceci évidemment pose - me semble offrir - l<span class="smallcaps">’</span>occasion de toutes sortes de questions.
+Ah, ben vous voilà STEIN. Venez là. Je déplorais votre absence …eh bien, ceci évidemment pose - me semble offrir - l<span class="smallcaps">’</span>occasion de toutes sortes de questions.
 
 <!-- id: s13-22-0042 -->
 
@@ -192,9 +192,9 @@ Mais que, comme je l’ai déjà dit depuis très longtemps, mais je le répète
 
 <!-- id: s13-22-0046 -->
 
-> dans cet espace que DESARGUES désigne du nom d’« *essieu* »,
->
-> et que j’ai identifié - c’est la seule identification possible - à ce que nous appelons le *Dasein* …là est chu le regard d’ŒDIPE.
+dans cet espace que DESARGUES désigne du nom d’« *essieu* »,
+
+et que j’ai identifié - c’est la seule identification possible - à ce que nous appelons le *Dasein* …là est chu le regard d’ŒDIPE.
 
 <!-- id: s13-22-0047 -->
 
@@ -242,7 +242,7 @@ On peut aussi se poser cette question. C’est là que je suis très embarrassé
 
 <!-- id: s13-22-0058 -->
 
-> qui ont pu faire échoir justement, ce jour-là, le fait que, après tout, des gens peut-être plus avertis de l’importance de ce que j’avais à dire, ont bien veillé à ce que je tienne ma parole de ne pas le dire, en certains cas …c’est bien qu’il y avait là tout de même *quelques raisons*, et qui touchent, qui touchent à *ce fait* *délicat* précisément, *de la limite où s’est arrêtée* FREUD.
+qui ont pu faire échoir justement, ce jour-là, le fait que, après tout, des gens peut-être plus avertis de l’importance de ce que j’avais à dire, ont bien veillé à ce que je tienne ma parole de ne pas le dire, en certains cas …c’est bien qu’il y avait là tout de même *quelques raisons*, et qui touchent, qui touchent à *ce fait* *délicat* précisément, *de la limite où s’est arrêtée* FREUD.
 
 <!-- id: s13-22-0059 -->
 
@@ -306,7 +306,7 @@ Oui, voilà évidemment un point de repère de nature à nous donner le sentimen
 
 <!-- id: s13-22-0074 -->
 
-> qui explique beaucoup de choses, par exemple de… de l’histoire de la psychanalyse depuis… du mode sous lequel s’y sont fait valoir non seulement la féminité et ses problèmes mais les femmes elles-mêmes.
+qui explique beaucoup de choses, par exemple de… de l’histoire de la psychanalyse depuis… du mode sous lequel s’y sont fait valoir non seulement la féminité et ses problèmes mais les femmes elles-mêmes.
 
 <!-- id: s13-22-0075 -->
 
@@ -358,13 +358,13 @@ Ceci se plaçant tout à fait aux dépens de la jouissance mâle, non seulement 
 
 <!-- id: s13-22-0087 -->
 
-> et dont on use, d’ailleurs - je parle dans le courant, chez la plupart des gens qui sont ici, par exemple –
->
-> sans du tout savoir ce qu’on fait, alors qu’il serait tout à fait simple de se reporter à d’excellents petits bouquins
->
-> de mathématiques qui maintenant courent les rues, car tout ça maintenant, se vulgarise Dieu merci, avec l50 ans
->
-> de retard mais enfin, il n’est jamais trop tard pour bien faire …mais tout le monde peut s’apercevoir que le signe *moins* peut avoir selon les groupes - et fait intervenir - des sens excessivement différents. Il s’agit de savoir donc, ce qu’il est pour nous.
+et dont on use, d’ailleurs - je parle dans le courant, chez la plupart des gens qui sont ici, par exemple –
+
+sans du tout savoir ce qu’on fait, alors qu’il serait tout à fait simple de se reporter à d’excellents petits bouquins
+
+de mathématiques qui maintenant courent les rues, car tout ça maintenant, se vulgarise Dieu merci, avec l50 ans
+
+de retard mais enfin, il n’est jamais trop tard pour bien faire …mais tout le monde peut s’apercevoir que le signe *moins* peut avoir selon les groupes - et fait intervenir - des sens excessivement différents. Il s’agit de savoir donc, ce qu’il est pour nous.
 
 <!-- id: s13-22-0088 -->
 
@@ -616,9 +616,9 @@ C’est à dire qu’il ne s’aperçoit pas que non seulement cette castration 
 
 <!-- id: s13-22-0150 -->
 
-> qui n’est évidemment pas le *phallus* réel parce que cela, ça ne lui manque pas à lui et pour ce qui la concerne,
->
-> on peut dire que ça ne lui manque pas parce que c’est justement de cela qu’elle ne veut pas …mais qui est l’image liée à cet organe, à savoir le *phallus imaginaire* qui dès lors va fonctionner comme (-ϕ) et c’est par ce biais là, qu’on peut dire que la position phallique fait que le sujet soit non pas ni homme ni femme, mais l’un ou l’autre.
+qui n’est évidemment pas le *phallus* réel parce que cela, ça ne lui manque pas à lui et pour ce qui la concerne,
+
+on peut dire que ça ne lui manque pas parce que c’est justement de cela qu’elle ne veut pas …mais qui est l’image liée à cet organe, à savoir le *phallus imaginaire* qui dès lors va fonctionner comme (-ϕ) et c’est par ce biais là, qu’on peut dire que la position phallique fait que le sujet soit non pas ni homme ni femme, mais l’un ou l’autre.
 
 <!-- id: s13-22-0151 -->
 
@@ -634,7 +634,7 @@ En d’autres termes, en d’autres mots, plus *i’(a)* tend à s’identifier 
 
 <!-- id: s13-22-0154 -->
 
-> car ce n’est pas là une opération qu’il *accomplit*, il s’agit plutôt d’une opération où il est pris …mais on voit comment en s’engageant dans cette voie, il ne voit que narcissisme, le reste, c’est à dire l’identification de la fille au *phallus*, étant l’effet de ce que la demande de l’Autre s’évoquait déjà à partir d’un désir.
+car ce n’est pas là une opération qu’il *accomplit*, il s’agit plutôt d’une opération où il est pris …mais on voit comment en s’engageant dans cette voie, il ne voit que narcissisme, le reste, c’est à dire l’identification de la fille au *phallus*, étant l’effet de ce que la demande de l’Autre s’évoquait déjà à partir d’un désir.
 
 <!-- id: s13-22-0155 -->
 

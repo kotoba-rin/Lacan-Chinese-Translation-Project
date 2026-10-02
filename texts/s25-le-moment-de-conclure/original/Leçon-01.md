@@ -30,7 +30,7 @@ Parce que l’ennuyeux...
 
 <!-- id: s25-01-0007 -->
 
-> comme l’a montré surabon­damment un nommé Karl Popper ...c’est que *ce n’est pas une science parce que c’est irréfutable*.
+comme l’a montré surabon­damment un nommé Karl Popper ...c’est que *ce n’est pas une science parce que c’est irréfutable*.
 
 <!-- id: s25-01-0008 -->
 
@@ -58,7 +58,7 @@ Ce qui veut dire qu’il n’y a pas que les phrases...
 
 <!-- id: s25-01-0014 -->
 
-> c’est-à-dire ce qu’on appelle les propositions ...qui impli­quent des conséquences, les mots aussi.
+c’est-à-dire ce qu’on appelle les propositions ...qui impli­quent des conséquences, les mots aussi.
 
 <!-- id: s25-01-0015 -->
 
@@ -90,7 +90,7 @@ Et ce rêve consiste à imaginer qu’on se réveille. On passe son temps à rê
 
 <!-- id: s25-01-0022 -->
 
-> on ne rêve pas seulement quand on dort ...*l’inconscient, c’est très exactement l’hypothèse qu’on ne rêve pas seule­ment quand on dort*.
+on ne rêve pas seulement quand on dort ...*l’inconscient, c’est très exactement l’hypothèse qu’on ne rêve pas seule­ment quand on dort*.
 
 <!-- id: s25-01-0023 -->
 
@@ -162,11 +162,11 @@ C’est ce que j’ai énoncé en formulant « *qu’il n’y a pas de rapport 
 
 <!-- id: s25-01-0040 -->
 
-> et sans doute à cause de l’existence du signifiant *...l’ensemble de ce qui pourrait être rapport sexuel* est un ensemble...
+et sans doute à cause de l’existence du signifiant *...l’ensemble de ce qui pourrait être rapport sexuel* est un ensemble...
 
 <!-- id: s25-01-0041 -->
 
-> on est arrivé à cogiter ça, on ne sait d’ailleurs pas très bien comment ça s’est produit ...*est un ensemble vide*.
+on est arrivé à cogiter ça, on ne sait d’ailleurs pas très bien comment ça s’est produit ...*est un ensemble vide*.
 
 <!-- id: s25-01-0042 -->
 
@@ -182,7 +182,7 @@ Le psychanalyste est un rhéteur...
 
 <!-- id: s25-01-0045 -->
 
-> pour continuer d’équivoquer, je dirai qu’il « *rhétifie* », ce qui implique qu’il rectifie ...l’analyste est un rhéteur, c’est-à-dire que *rectus,* le mot latin, équivoque avec la « *rhétification* ».
+pour continuer d’équivoquer, je dirai qu’il « *rhétifie* », ce qui implique qu’il rectifie ...l’analyste est un rhéteur, c’est-à-dire que *rectus,* le mot latin, équivoque avec la « *rhétification* ».
 
 <!-- id: s25-01-0046 -->
 
@@ -202,7 +202,7 @@ On essaie de dire la vérité, mais ça n’est pas facile parce qu’il y a de 
 
 <!-- id: s25-01-0050 -->
 
-> je l’ai reçu par l’intermédiaire de quelqu’un qui me veut du *bien* et à qui le Coornaert en question l’avait envoyé ...j’ai reçu de ce Coornaert *un machin* qui s’appelle « *Knots and links ».*
+je l’ai reçu par l’intermédiaire de quelqu’un qui me veut du *bien* et à qui le Coornaert en question l’avait envoyé ...j’ai reçu de ce Coornaert *un machin* qui s’appelle « *Knots and links ».*
 
 <!-- id: s25-01-0051 -->
 
@@ -218,7 +218,7 @@ Il n’y a que des supports multiples du langage qui s’appellent « *lalangue*
 
 <!-- id: s25-01-0054 -->
 
-> par une supposition ...arrive à défaire par la parole ce qui s’est fait par la parole.
+par une supposition ...arrive à défaire par la parole ce qui s’est fait par la parole.
 
 <!-- id: s25-01-0055 -->
 
@@ -226,7 +226,7 @@ Dans l’ordre du rêve qui se donne le champ d’user du *langage*, il y a une 
 
 <!-- id: s25-01-0056 -->
 
-> c’est un mot, comme on le sait, allemand ...et le *Wunsch* dont il s’agit a pour pro­priété qu’on ne sait pas si c’est un souhait, qui de toute façon est en l’air, un souhait adressé à qui ?
+c’est un mot, comme on le sait, allemand ...et le *Wunsch* dont il s’agit a pour pro­priété qu’on ne sait pas si c’est un souhait, qui de toute façon est en l’air, un souhait adressé à qui ?
 
 <!-- id: s25-01-0057 -->
 
@@ -242,7 +242,7 @@ Mais justement, ce qui définit la demande, c’est qu’on ne demande jamais qu
 
 <!-- id: s25-01-0060 -->
 
-> je veux dire : en passant par ce qu’on désire ...et ce qu’on désire, on ne le sait pas. C’est bien pour ça que j’ai mis l’accent sur *le désir de l’analyste*.
+je veux dire : en passant par ce qu’on désire ...et ce qu’on désire, on ne le sait pas. C’est bien pour ça que j’ai mis l’accent sur *le désir de l’analyste*.
 
 <!-- id: s25-01-0061 -->
 
@@ -270,7 +270,7 @@ Quelqu’un qui n’est autre...
 
 <!-- id: s25-01-0067 -->
 
-> il faut bien que je le nomme ...que J.Β. Lefebvre-Pontalis a accordé une interview au *Monde.* Ιl aurait mieux fait de s’abstenir. Ιl aurait mieux fait de s’abstenir parce que ce qu’il a dit ne vaut pas cher : à ce qu’il paraît que mon nœud borroméen serait une façon d’étrangler le monde, de faire suffoquer. Ouais ! Bon...
+il faut bien que je le nomme ...que J.Β. Lefebvre-Pontalis a accordé une interview au *Monde.* Ιl aurait mieux fait de s’abstenir. Ιl aurait mieux fait de s’abstenir parce que ce qu’il a dit ne vaut pas cher : à ce qu’il paraît que mon nœud borroméen serait une façon d’étrangler le monde, de faire suffoquer. Ouais ! Bon...
 
 <!-- id: s25-01-0068 -->
 
@@ -290,7 +290,7 @@ Je veux dire qu’on interrompt...
 
 <!-- id: s25-01-0072 -->
 
-> parce qu’on pro­jette les choses ...on interrompt ce dont il s’agit, c’est-à-dire une corde.
+parce qu’on pro­jette les choses ...on interrompt ce dont il s’agit, c’est-à-dire une corde.
 
 <!-- id: s25-01-0073 -->
 
@@ -298,7 +298,7 @@ Une corde ça fait un nœud, et je me souviens qu’il y eût un temps où le no
 
 <!-- id: s25-01-0074 -->
 
-> à quelqu’un qui est ici présent ...fit reproche d’avoir fait ce nœud de tra­vers.
+à quelqu’un qui est ici présent ...fit reproche d’avoir fait ce nœud de tra­vers.
 
 <!-- id: s25-01-0075 -->
 
@@ -326,7 +326,7 @@ Mais il est un fait, c’est que ça ne passe pas, qu’il n’y a ni crachat ni
 
 <!-- id: s25-01-0081 -->
 
-> l’anneau que serait ce *Symbolique* par rapport au *Réel,* ou ce *Réel* par rapport au *Symbolique* ...ne tienne pas.
+l’anneau que serait ce *Symbolique* par rapport au *Réel,* ou ce *Réel* par rapport au *Symbolique* ...ne tienne pas.
 
 <!-- id: s25-01-0082 -->
 
@@ -334,7 +334,7 @@ Je veux dire qu’il est tout à fait simple de s’apercevoir qu’à condition
 
 <!-- id: s25-01-0083 -->
 
-> comme vous le voyez d’une façon manifeste ...ne tient pas, puisqu’il est clair qu’ici, passant sous le *Symbolique*, cet *Imaginaire* vient ici, et il vient ici quoique, quoiqu’il soit sous le *Symbolique*.
+comme vous le voyez d’une façon manifeste ...ne tient pas, puisqu’il est clair qu’ici, passant sous le *Symbolique*, cet *Imaginaire* vient ici, et il vient ici quoique, quoiqu’il soit sous le *Symbolique*.
 
 <!-- id: s25-01-0084 -->
 
@@ -438,7 +438,7 @@ La pulsion est quelque chose qui ne se supporte que d’être nommée, et d’ê
 
 <!-- id: s25-01-0109 -->
 
-> au nom de quelque chose qui se trou­ve exister chez l’enfant ...que toute pulsion est sexuelle.
+au nom de quelque chose qui se trou­ve exister chez l’enfant ...que toute pulsion est sexuelle.
 
 <!-- id: s25-01-0110 -->
 
@@ -462,7 +462,7 @@ On ne voit pas pourquoi Freud a désigné...
 
 <!-- id: s25-01-0115 -->
 
-> alors qu’il pouvait prendre un chemin plus court ...a désigné d’autre chose que d’une comédie, ce à quoi il avait affaire dans ce rapport qui lie le *Symbolique*, l’*Imaginaire* et le *Réel*.
+alors qu’il pouvait prendre un chemin plus court ...a désigné d’autre chose que d’une comédie, ce à quoi il avait affaire dans ce rapport qui lie le *Symbolique*, l’*Imaginaire* et le *Réel*.
 
 <!-- id: s25-01-0116 -->
 

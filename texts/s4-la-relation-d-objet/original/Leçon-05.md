@@ -231,7 +231,7 @@ Première question de la recon­naissance de la relation mère-enfant. S’aperc
 
 <!-- id: s4-05-0042 -->
 
-> à cette mère manque aussi le *phallus*.
+à cette mère manque aussi le *phallus*.
 
 <!-- id: s4-05-0043 -->
 
@@ -600,8 +600,12 @@ L’analyste intervient de la façon suivante :
 
 <!-- id: s4-05-0115 -->
 
-> « *Sans doute vous aimez mieux vous intéresser à une femme en la regardant uriner que de faire l’effort d’aller à l’assaut*
-> *d’une autre femme qui peut vous plaire mais qui se trouve être quelqu’un de marié*. »
+<div class="text-quotation">
+
+« *Sans doute vous aimez mieux vous intéresser à une femme en la regardant uriner que de faire l’effort d’aller à l’assaut*
+*d’une autre femme qui peut vous plaire mais qui se trouve être quelqu’un de marié*. »
+
+</div>
 
 <!-- id: s4-05-0116 -->
 

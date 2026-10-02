@@ -22,7 +22,7 @@ Comme quant à moi, je n’ai à m’occuper…
 
 <!-- id: s15-17-0005 -->
 
-> je le souligne toujours depuis bien longtemps, *ça n’est pas pour renier maintenant ce que j’ai toujours pris soin de répéter* …que des psychanalystes, que je m’adresse aux psychanalystes, que c’est pour les psychanalystes que je crois soutenir depuis de nombreuses années un travail qui n’est pas mince, je dirai même jusqu’à un certain point que ça m’est une occasion de m’en apercevoir parce que le seul fait de n’avoir pas à préparer un de ces séminaires, puisqu’il était déjà préparé pour la dernière fois, je sens combien c’est allégeant pour moi.
+je le souligne toujours depuis bien longtemps, *ça n’est pas pour renier maintenant ce que j’ai toujours pris soin de répéter* …que des psychanalystes, que je m’adresse aux psychanalystes, que c’est pour les psychanalystes que je crois soutenir depuis de nombreuses années un travail qui n’est pas mince, je dirai même jusqu’à un certain point que ça m’est une occasion de m’en apercevoir parce que le seul fait de n’avoir pas à préparer un de ces séminaires, puisqu’il était déjà préparé pour la dernière fois, je sens combien c’est allégeant pour moi.
 
 <!-- id: s15-17-0006 -->
 
@@ -54,7 +54,7 @@ Bien sûr, c’est méritoire et on ne saurait détourner personne d’appliquer
 
 <!-- id: s15-17-0013 -->
 
-> d’ailleurs très rapidement aussi ouvert du côté des psychologues …cela me paraît une façon assez aisée de faire ce que je disais tout à l’heure : *de considérer comme s’être acquitté avec les événements*.
+d’ailleurs très rapidement aussi ouvert du côté des psychologues …cela me paraît une façon assez aisée de faire ce que je disais tout à l’heure : *de considérer comme s’être acquitté avec les événements*.
 
 <!-- id: s15-17-0014 -->
 
@@ -70,9 +70,9 @@ Il y a quelqu’un…
 
 <!-- id: s15-17-0017 -->
 
-> que je ne peux pas dire que je n’estime pas, c’est un de mes camarades, nous étions sur les mêmes bancs,
->
-> avec des liens ensemble, et on a fait bien connaissance …c’est un ami : M. Raymond ARON, qui a fait ce matin un article dans un journal qui reflète la pensée des gens honnêtes, et qui dit : ça se produit partout.
+que je ne peux pas dire que je n’estime pas, c’est un de mes camarades, nous étions sur les mêmes bancs,
+
+avec des liens ensemble, et on a fait bien connaissance …c’est un ami : M. Raymond ARON, qui a fait ce matin un article dans un journal qui reflète la pensée des gens honnêtes, et qui dit : ça se produit partout.
 
 <!-- id: s15-17-0018 -->
 
@@ -88,7 +88,7 @@ Qu’on ne veuille pas au moins se demander, ou tout au moins résolument qu’o
 
 <!-- id: s15-17-0021 -->
 
-> comme c’est le sens de cet article, écrit d’un très bon ton …qu’il doit y avoir là un phénomène beaucoup plus *structural*, et puisque j’ai fait allusion à ce coin, à ce nœud, à ce champ, pour moi il est bien clair que les rapports du désir et du savoir sont mis en question, que la psychanalyse aussi permet de nouer ça à un niveau de carence, d’insuffisance qui est à proprement parler stimulée, évoquée par ces rapports qui sont les rapports de la transmission du savoir.
+comme c’est le sens de cet article, écrit d’un très bon ton …qu’il doit y avoir là un phénomène beaucoup plus *structural*, et puisque j’ai fait allusion à ce coin, à ce nœud, à ce champ, pour moi il est bien clair que les rapports du désir et du savoir sont mis en question, que la psychanalyse aussi permet de nouer ça à un niveau de carence, d’insuffisance qui est à proprement parler stimulée, évoquée par ces rapports qui sont les rapports de la transmission du savoir.
 
 <!-- id: s15-17-0022 -->
 
@@ -120,9 +120,9 @@ Laissons cela. Mais nous avons su en effet, de la bouche autorisée, qui s’est
 
 <!-- id: s15-17-0029 -->
 
-> vous m’en croirez si vous voulez, beaucoup de gens ici sont disposés à m’en croire
->
-> puisque je le leur transmets, ça m’étonne mais c’est un fait …*ont été pour eux frayantes*, et ceci autour de conflits très précis qui se manifestaient *dans le champ d’une certaine cité universitaire*.
+vous m’en croirez si vous voulez, beaucoup de gens ici sont disposés à m’en croire
+
+puisque je le leur transmets, ça m’étonne mais c’est un fait …*ont été pour eux frayantes*, et ceci autour de conflits très précis qui se manifestaient *dans le champ d’une certaine cité universitaire*.
 
 <!-- id: s15-17-0030 -->
 
@@ -134,9 +134,9 @@ Toute l’expérience analytique, si nous voulons bien justement l’articuler�
 
 <!-- id: s15-17-0032 -->
 
-> et non pas la considérer comme une espèce de lieu de tourbillons, de forces confuses, une énergétique
->
-> des « *instincts de vie* » et des « *instincts de mort* » qui sont là à se co-étreindre …si nous voulons bien mettre un peu d’ordre dans ce que nous objectivons dans une expérience qui est une *expérience* *de langage*, nous verrons que la théorie de REICH est *formellement contredite* par notre expérience de tous les jours.
+et non pas la considérer comme une espèce de lieu de tourbillons, de forces confuses, une énergétique
+
+des « *instincts de vie* » et des « *instincts de mort* » qui sont là à se co-étreindre …si nous voulons bien mettre un peu d’ordre dans ce que nous objectivons dans une expérience qui est une *expérience* *de langage*, nous verrons que la théorie de REICH est *formellement contredite* par notre expérience de tous les jours.
 
 <!-- id: s15-17-0033 -->
 

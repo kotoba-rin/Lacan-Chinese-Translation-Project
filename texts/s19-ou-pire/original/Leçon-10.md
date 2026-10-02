@@ -38,7 +38,7 @@ Tout ça n’empêche pas que nous pouvons essayer de faire certain repérage et
 
 <!-- id: s19-10-0009 -->
 
-> pour partir de ce qui n’est pas par hasard que j’ai écrit en forme de fonctions ...j’ai commencé d’énoncer quelque chose qui j’espè­re vous rendra service, un dire que, si je l’écris, c’est dans un sens : dans le sens que c’est une fonction sans rapport avec quoi que ce soit qui fonde *d’eux* - *d, apostrophe, e, u, x* - *Un*.
+pour partir de ce qui n’est pas par hasard que j’ai écrit en forme de fonctions ...j’ai commencé d’énoncer quelque chose qui j’espè­re vous rendra service, un dire que, si je l’écris, c’est dans un sens : dans le sens que c’est une fonction sans rapport avec quoi que ce soit qui fonde *d’eux* - *d, apostrophe, e, u, x* - *Un*.
 
 <!-- id: s19-10-0010 -->
 
@@ -62,7 +62,7 @@ Ce qui bien sûr...
 
 <!-- id: s19-10-0015 -->
 
-> si la fable songeait le moins du monde un ins­tant à être autre chose qu’une fable, c’est-à-dire à être consistante ...n’im­pliquerait nullement qu’ils ne refassent pas *des petits à deux dos*, à dos d’eux, ce dont personne ne fait la remarque, et heureusement, parce qu’*un mythe est un mythe et celui-là* en dit assez, *c’est celui que j’ai d’abord projeté* sous une forme plus moderne, *sous la forme de *!.
+si la fable songeait le moins du monde un ins­tant à être autre chose qu’une fable, c’est-à-dire à être consistante ...n’im­pliquerait nullement qu’ils ne refassent pas *des petits à deux dos*, à dos d’eux, ce dont personne ne fait la remarque, et heureusement, parce qu’*un mythe est un mythe et celui-là* en dit assez, *c’est celui que j’ai d’abord projeté* sous une forme plus moderne, *sous la forme de *!.
 
 <!-- id: s19-10-0016 -->
 
@@ -70,11 +70,11 @@ C’est en somme ce qui, concernant *les rapports sexuels*, se présente à nous
 
 <!-- id: s19-10-0017 -->
 
-> je parle de la fonction mathématique ...l’espèce de discours...
+je parle de la fonction mathématique ...l’espèce de discours...
 
 <!-- id: s19-10-0018 -->
 
-> tout au moins je vous le propose comme modèle ...qui sur ce point nous permettrait de fonder autre chose : du *semblant*, …*ou pire*.
+tout au moins je vous le propose comme modèle ...qui sur ce point nous permettrait de fonder autre chose : du *semblant*, …*ou pire*.
 
 <!-- id: s19-10-0019 -->
 
@@ -138,7 +138,7 @@ Mais là il y avait *une pointe*, dans cette coupure de courant qui avait une si
 
 <!-- id: s19-10-0034 -->
 
-> malgré tout, étant à l’occasion la femme du travailleur ...s’appelle, de la bouche même du tra­vailleur, qui - quand même, j’en fréquente ! - s’appelle « *la bourgeoise »* !
+malgré tout, étant à l’occasion la femme du travailleur ...s’appelle, de la bouche même du tra­vailleur, qui - quand même, j’en fréquente ! - s’appelle « *la bourgeoise »* !
 
 <!-- id: s19-10-0035 -->
 
@@ -178,9 +178,9 @@ Bon, alors il s’agit maintenant du *discours psychanalytique,* et il s’agit 
 
 <!-- id: s19-10-0044 -->
 
-> je vous ai déjà expliqué ça la dernière fois, bien sûr naturellement ça vous est passé comme l’eau
->
-> sur les plumes d’un canard, mais enfin cer­tains quand même en ont paru un peu comme ça mouillés *...tienne la position du semblant*.
+je vous ai déjà expliqué ça la dernière fois, bien sûr naturellement ça vous est passé comme l’eau
+
+sur les plumes d’un canard, mais enfin cer­tains quand même en ont paru un peu comme ça mouillés *...tienne la position du semblant*.
 
 <!-- id: s19-10-0045 -->
 
@@ -236,7 +236,7 @@ Dans la position du *semblant* c’est beaucoup moins facile d’y rester, parce
 
 <!-- id: s19-10-0058 -->
 
-> comme je l’ai déjà expliqué quand j’ai commencé - à propos du langage - à en parler *...*c’est *« il court, il court, le furet... *» : dans tout ce que vous dites, il est à chaque instant ailleurs.
+comme je l’ai déjà expliqué quand j’ai commencé - à propos du langage - à en parler *...*c’est *« il court, il court, le furet... *» : dans tout ce que vous dites, il est à chaque instant ailleurs.
 
 <!-- id: s19-10-0059 -->
 
@@ -248,7 +248,7 @@ C’est en ça que nous intéresse que soit ancré ce *réel*, ce *réel* que je
 
 <!-- id: s19-10-0061 -->
 
-> à l’expérience de ce qu’il s’agit, de ce qui *se formule*, de ce qui *s’écrit* à l’occasion, ...nous voyons, nous pouvons tou­cher du doigt que là, *il y a quelque chose qui résiste*, je veux dire dont on ne peut pas dire n’importe quoi : on ne peut pas donner au *réel mathé­matique* n’importe quel sens.
+à l’expérience de ce qu’il s’agit, de ce qui *se formule*, de ce qui *s’écrit* à l’occasion, ...nous voyons, nous pouvons tou­cher du doigt que là, *il y a quelque chose qui résiste*, je veux dire dont on ne peut pas dire n’importe quoi : on ne peut pas donner au *réel mathé­matique* n’importe quel sens.
 
 <!-- id: s19-10-0062 -->
 
@@ -260,9 +260,13 @@ Il y avait comme ça un immense farfelu, que vous connais­sez bien sûr de rép
 
 <!-- id: s19-10-0064 -->
 
-> « *que la mathématique, c’est quelque chose qui s’articule d’une façon telle*
->
-> *qu’en fin de compte on ne sait même pas si c’est vrai ce qui s’articule, ni si ça a un sens* ».[^23]
+<div class="text-quotation">
+
+« *que la mathématique, c’est quelque chose qui s’articule d’une façon telle*
+
+*qu’en fin de compte on ne sait même pas si c’est vrai ce qui s’articule, ni si ça a un sens* ».[^23]
+
+</div>
 
 <!-- id: s19-10-0065 -->
 
@@ -278,7 +282,7 @@ Il y avait comme ça un immense farfelu, que vous connais­sez bien sûr de rép
 
 <!-- id: s19-10-0068 -->
 
-> le succès même, n’est-ce pas le mode sous lequel ça s’impose, que c’est *réel...*c’est que justement ni « *le vrai »* ni « *le sens »* n’y dominent, ils sont secondaires.
+le succès même, n’est-ce pas le mode sous lequel ça s’impose, que c’est *réel...*c’est que justement ni « *le vrai »* ni « *le sens »* n’y dominent, ils sont secondaires.
 
 <!-- id: s19-10-0069 -->
 
@@ -286,7 +290,7 @@ Et que de là, la position*...*
 
 <!-- id: s19-10-0070 -->
 
-> cette position seconde, à ces deux machins qui s’appellent *le vrai* et *le sens...*leur restait inhabituelle à eux, enfin que ça donne un peu le tournis aux gens quand ils prennent la peine de penser.
+cette position seconde, à ces deux machins qui s’appellent *le vrai* et *le sens...*leur restait inhabituelle à eux, enfin que ça donne un peu le tournis aux gens quand ils prennent la peine de penser.
 
 <!-- id: s19-10-0071 -->
 
@@ -370,13 +374,13 @@ C’est bien pour ça qu’après tout...
 
 <!-- id: s19-10-0091 -->
 
-> encore que cer­tains aient mis une certaine bonne volonté, un certain courage à dire :
->
-> « *qu’après tout ça peut s’admettre quoique ce soit un peu tiré par les che­veux* » ...on n’en est pas encore venu à bout de cette chose qui était pour­tant simple : de s’apercevoir que *l’Un...*
+encore que cer­tains aient mis une certaine bonne volonté, un certain courage à dire :
+
+« *qu’après tout ça peut s’admettre quoique ce soit un peu tiré par les che­veux* » ...on n’en est pas encore venu à bout de cette chose qui était pour­tant simple : de s’apercevoir que *l’Un...*
 
 <!-- id: s19-10-0092 -->
 
-> quand il est véridique, quand il dit ce qu’il a à dire, *...*on voit où ça va, en tout cas à la totale récusation d’aucun rapport à « *l’être »*.
+quand il est véridique, quand il dit ce qu’il a à dire, *...*on voit où ça va, en tout cas à la totale récusation d’aucun rapport à « *l’être »*.
 
 <!-- id: s19-10-0093 -->
 
@@ -408,7 +412,7 @@ C’est donc déjà, vous voyez bien, à la portée de notre main*...*
 
 <!-- id: s19-10-0100 -->
 
-> bien sûr, *pas à la portée de la main unienne de l’Un...*d’en faire quelque chose dans le sens du *sens*.
+bien sûr, *pas à la portée de la main unienne de l’Un...*d’en faire quelque chose dans le sens du *sens*.
 
 <!-- id: s19-10-0101 -->
 
@@ -416,7 +420,7 @@ C’est bien pour ça que je recommande à ceux qui veulent tenir la position de
 
 <!-- id: s19-10-0102 -->
 
-> avec ce que ça comporte de savoir ne pas en glisser *...*de se mettre à la page de ce qui, bien sûr, pourrait pour eux se lire à seulement travailler le *Parménide*, mais ça serait quand même un peu court, on se casse les dents là-dessus.
+avec ce que ça comporte de savoir ne pas en glisser *...*de se mettre à la page de ce qui, bien sûr, pourrait pour eux se lire à seulement travailler le *Parménide*, mais ça serait quand même un peu court, on se casse les dents là-dessus.
 
 <!-- id: s19-10-0103 -->
 
@@ -424,7 +428,7 @@ Au lieu qu’il est arri­vé autre chose qui rend tout à fait clair*...*
 
 <!-- id: s19-10-0104 -->
 
-> si bien sûr on s’obstine un peu, si on s’y rompt, si on s’y brise, même *...*qui rend tout à fait clai­re la distinction qu’il y a
+si bien sûr on s’obstine un peu, si on s’y rompt, si on s’y brise, même *...*qui rend tout à fait clai­re la distinction qu’il y a
 
 <!-- id: s19-10-0105 -->
 
@@ -440,7 +444,7 @@ Bien sûr, naturellement, ça ne veut pas dire que ça n’aura pas d’effet*..
 
 <!-- id: s19-10-0108 -->
 
-> d’ef­fet de massage, d’effet de revigoration, d’effet de soufflage, d’effet de nettoiement *...*sur ce qui nous paraîtra exigible au regard du *vrai* ou bien du *sens*.
+d’ef­fet de massage, d’effet de revigoration, d’effet de soufflage, d’effet de nettoiement *...*sur ce qui nous paraîtra exigible au regard du *vrai* ou bien du *sens*.
 
 <!-- id: s19-10-0109 -->
 
@@ -460,7 +464,7 @@ Je veux dire qu’il peut lui venir*...*
 
 <!-- id: s19-10-0113 -->
 
-> dans ce biais où il s’agit d’interpréter, de rénover le sens *...*de dire des choses de ce fait un peu moins court-circuitées, un peu moins « *chatoiement* », que toutes les conne­ries qui peuvent nous venir et dont tout à l’heure - ...*ou pire,* comme ça - je vous ai donné l’échantillon à partir simplement de ce qui pour moi n’était que la contrariété du matin.
+dans ce biais où il s’agit d’interpréter, de rénover le sens *...*de dire des choses de ce fait un peu moins court-circuitées, un peu moins « *chatoiement* », que toutes les conne­ries qui peuvent nous venir et dont tout à l’heure - ...*ou pire,* comme ça - je vous ai donné l’échantillon à partir simplement de ce qui pour moi n’était que la contrariété du matin.
 
 <!-- id: s19-10-0114 -->
 
@@ -472,9 +476,9 @@ J’aurais pu broder comme ça sur le travailleur et sa bourgeoise et en tirer u
 
 <!-- id: s19-10-0116 -->
 
-> le champ est vaste, *le sens* et *le vrai*, ça ne manque pas,
->
-> c’est même devenu la mangeoire universitaire justement *...*il y en a tellement, il y a un tel éventail qu’il s’en trouvera bien un, un jour pour faire avec ce que je vous dis, *une ontologie*, pour dire que j’ai dit que : « *la parole, c’était un effet de comblement de cette béance, qui est ce que j’articule *: *il n’y a pas de rapport sexuel* ».
+le champ est vaste, *le sens* et *le vrai*, ça ne manque pas,
+
+c’est même devenu la mangeoire universitaire justement *...*il y en a tellement, il y a un tel éventail qu’il s’en trouvera bien un, un jour pour faire avec ce que je vous dis, *une ontologie*, pour dire que j’ai dit que : « *la parole, c’était un effet de comblement de cette béance, qui est ce que j’articule *: *il n’y a pas de rapport sexuel* ».
 
 <!-- id: s19-10-0117 -->
 
@@ -526,7 +530,7 @@ Et puis je suis sûr de vous amuser à montrer que ce qu’on appelle « *l’a
 
 <!-- id: s19-10-0129 -->
 
-> si c’est là-dessus que vous vous fon­dez parce que, naturellement, c’est la monnaie courante *...*que c’est ça « *l’homme »* : il est actif le cher mignon !
+si c’est là-dessus que vous vous fon­dez parce que, naturellement, c’est la monnaie courante *...*que c’est ça « *l’homme »* : il est actif le cher mignon !
 
 <!-- id: s19-10-0130 -->
 
@@ -538,25 +542,25 @@ Puis il y a qu’à le voir quand même dans des positions que nous appel­leron
 
 <!-- id: s19-10-0132 -->
 
-> qui est « *le monde de Monsieur Thiers* », n’est-ce pas ? *...*que c’est pas évident que dans la vie normale*...*
+qui est « *le monde de Monsieur Thiers* », n’est-ce pas ? *...*que c’est pas évident que dans la vie normale*...*
 
 <!-- id: s19-10-0133 -->
 
-> je parle pas bien sûr naturellement des types du « *Gaz et de l’Électricité de France* »
->
-> qui eux ont pris leur distance, qui se sont rués dans le travail *...*mais dans une vie comme ça, appelons-la simplement ce qu’elle est, ce qu’elle est partout*...*
+je parle pas bien sûr naturellement des types du « *Gaz et de l’Électricité de France* »
+
+qui eux ont pris leur distance, qui se sont rués dans le travail *...*mais dans une vie comme ça, appelons-la simplement ce qu’elle est, ce qu’elle est partout*...*
 
 <!-- id: s19-10-0134 -->
 
-> sauf quand il y a eu une grande subversion chrétienne, *notre* grande subversion chrétienne *...*l’homme il se les roule, la femme elle moud, elle broie, elle coud, elle fait les courses et elle trouve le moyen encore...
+sauf quand il y a eu une grande subversion chrétienne, *notre* grande subversion chrétienne *...*l’homme il se les roule, la femme elle moud, elle broie, elle coud, elle fait les courses et elle trouve le moyen encore...
 
 <!-- id: s19-10-0135 -->
 
-> dans ces solides civilisations qui ne sont pas perdues ...elle trouve encore le moyen de tortiller du derrière, après pour*...*
+dans ces solides civilisations qui ne sont pas perdues ...elle trouve encore le moyen de tortiller du derrière, après pour*...*
 
 <!-- id: s19-10-0136 -->
 
-> je parle d’une danse bien sûr, hein ! *...*pour la satisfaction jubilatoire du type qui est là !
+je parle d’une danse bien sûr, hein ! *...*pour la satisfaction jubilatoire du type qui est là !
 
 <!-- id: s19-10-0137 -->
 
@@ -596,7 +600,7 @@ Pour le pay­san*...*
 
 <!-- id: s19-10-0146 -->
 
-> c’est pas forcément un homme, hein, le paysan, quoiqu’on en dise *...*pour le paysan, le gibier ça se rabat : *pan ! pan !* On lui ramène tout ça. C’est pas ça du tout la chasse !
+c’est pas forcément un homme, hein, le paysan, quoiqu’on en dise *...*pour le paysan, le gibier ça se rabat : *pan ! pan !* On lui ramène tout ça. C’est pas ça du tout la chasse !
 
 <!-- id: s19-10-0147 -->
 
@@ -624,7 +628,7 @@ Que ça pouvait bien, à eux, leur arriver aussi.
 
 <!-- id: s19-10-0153 -->
 
-> mais alors là il extrapole le gars quand même, mais enfin je vous le fournis parce que c’est excitant *...*que *le système nerveux dans un organis­me*, *c’était peut-être bien pas autre chose que ce qui résulte d’une iden­tification à la proie*, hein ?
+mais alors là il extrapole le gars quand même, mais enfin je vous le fournis parce que c’est excitant *...*que *le système nerveux dans un organis­me*, *c’était peut-être bien pas autre chose que ce qui résulte d’une iden­tification à la proie*, hein ?
 
 <!-- id: s19-10-0154 -->
 
@@ -652,7 +656,7 @@ Parce que la façon dont un pêcheur passe la main sous le ventre de la truite q
 
 <!-- id: s19-10-0160 -->
 
-> faut qu’il y ait ici un pêcheur de truite, quand même il y a des chances, il doit savoir ce que je dis là ...ça, c’est quelque chose !
+faut qu’il y ait ici un pêcheur de truite, quand même il y a des chances, il doit savoir ce que je dis là ...ça, c’est quelque chose !
 
 <!-- id: s19-10-0161 -->
 
@@ -672,13 +676,13 @@ Quand je dis « *Yad’l’Un* »*...*
 
 <!-- id: s19-10-0165 -->
 
-> il faut quand même que je balaie le pas de ma porte et puis je vois pas pourquoi je n’en resterai pas là puisque je vous parlerai donc le jeudi, le jeudi 1<sup>er</sup> Juin je crois, quelque chose comme ça.
->
-> Vous vous rendez compte, le 1<sup>er</sup> jeudi de Juin je suis forcé de revenir des quelques jours de vacances pour ne pas manquer à Sainte Anne ! *...*alors je vais quand même là, tout de même faire la remarque que « *Yad’l’Un* », ça ne veut pas dire*...*
+il faut quand même que je balaie le pas de ma porte et puis je vois pas pourquoi je n’en resterai pas là puisque je vous parlerai donc le jeudi, le jeudi 1<sup>er</sup> Juin je crois, quelque chose comme ça.
+
+Vous vous rendez compte, le 1<sup>er</sup> jeudi de Juin je suis forcé de revenir des quelques jours de vacances pour ne pas manquer à Sainte Anne ! *...*alors je vais quand même là, tout de même faire la remarque que « *Yad’l’Un* », ça ne veut pas dire*...*
 
 <!-- id: s19-10-0166 -->
 
-> il me semble que quand même pour beau­coup ça doit être déjà su, mais pourquoi pas ? *...*ça ne veut pas dire qu’il *y a de l’individu*.
+il me semble que quand même pour beau­coup ça doit être déjà su, mais pourquoi pas ? *...*ça ne veut pas dire qu’il *y a de l’individu*.
 
 <!-- id: s19-10-0167 -->
 
@@ -710,7 +714,7 @@ Parce que, on voit bien quand même, que ça pourrait être à la portée, pour 
 
 <!-- id: s19-10-0174 -->
 
-> en principe, au moins chez l’être qui parle, le nombre des hommes et des femmes sauf exception, n’est-ce pas, je veux dire des petites exceptions :
+en principe, au moins chez l’être qui parle, le nombre des hommes et des femmes sauf exception, n’est-ce pas, je veux dire des petites exceptions :
 
 <!-- id: s19-10-0175 -->
 
@@ -722,7 +726,7 @@ Parce que, on voit bien quand même, que ça pourrait être à la portée, pour 
 
 <!-- id: s19-10-0177 -->
 
-> Mais enfin *ça n’empêche pas que chacune a eu son chacun...*ça ne suffit pas du tout à motiver le rapport sexuel, qu’ils aillent un par un.
+Mais enfin *ça n’empêche pas que chacune a eu son chacun...*ça ne suffit pas du tout à motiver le rapport sexuel, qu’ils aillent un par un.
 
 <!-- id: s19-10-0178 -->
 
@@ -810,7 +814,7 @@ Ce qui, jusqu’à cette théorie, caractérise la notion justement en cause dan
 
 <!-- id: s19-10-0199 -->
 
-> pour autant qu’il amorcerait quelque chose *d’un rapport* …c’est très précisément ceci : que *l’universel* se fonde sur un commun attri­but.
+pour autant qu’il amorcerait quelque chose *d’un rapport* …c’est très précisément ceci : que *l’universel* se fonde sur un commun attri­but.
 
 <!-- id: s19-10-0200 -->
 
@@ -830,7 +834,7 @@ Dans un ensemble il ne peut y avoir...
 
 <!-- id: s19-10-0204 -->
 
-> si rien ne distingue un torchon d’un autre ...il ne peut y avoir qu’un torchon, de même qu’il ne peut y avoir qu’une serviette.
+si rien ne distingue un torchon d’un autre ...il ne peut y avoir qu’un torchon, de même qu’il ne peut y avoir qu’une serviette.
 
 <!-- id: s19-10-0205 -->
 
@@ -850,7 +854,7 @@ C’est-à-dire que si vous dites : *l’homme est bon*, et si à ce propos...
 
 <!-- id: s19-10-0209 -->
 
-> ce qui peut se dire, car qui n’est obligé de le dire ? ...poser que *l’homme est bon* n’exclut pas qu’on ait à rendre compte de ce qu’il ne réponde pas toujours à cette *appellation*.
+ce qui peut se dire, car qui n’est obligé de le dire ? ...poser que *l’homme est bon* n’exclut pas qu’on ait à rendre compte de ce qu’il ne réponde pas toujours à cette *appellation*.
 
 <!-- id: s19-10-0210 -->
 
@@ -862,9 +866,9 @@ C’est la théorie qu’on fait et où on se livre...
 
 <!-- id: s19-10-0212 -->
 
-> on n’a que vraiment... on a tout le sens à sa disposition pour, pour y faire face, à expliquer
->
-> que de temps en temps quand même, il est mauvais mais ça change rien à son attribut ...que si on en venait alors à devoir faire la balance du point de vue du nombre...
+on n’a que vraiment... on a tout le sens à sa disposition pour, pour y faire face, à expliquer
+
+que de temps en temps quand même, il est mauvais mais ça change rien à son attribut ...que si on en venait alors à devoir faire la balance du point de vue du nombre...
 
 <!-- id: s19-10-0213 -->
 
@@ -920,7 +924,7 @@ C’est ceci, le rapport de cet **1** qui a à se compter « *en plus* » avec
 
 <!-- id: s19-10-0226 -->
 
-> que c’est de là que surgit *l’Un* qui fait que cet :§doit être mis, et c’est le seul élément caractéristique, doit être mis du côté *de ce qui fonde l’homme comme tel*.
+que c’est de là que surgit *l’Un* qui fait que cet :§doit être mis, et c’est le seul élément caractéristique, doit être mis du côté *de ce qui fonde l’homme comme tel*.
 
 <!-- id: s19-10-0227 -->
 

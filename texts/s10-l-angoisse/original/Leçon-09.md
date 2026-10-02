@@ -49,26 +49,26 @@ La dernière fois j’ai amorcé, j’ai fait surgir devant vous...
 
 <!-- id: s10-09-0011 -->
 
-> par l’exemple, l’exemple non unique, car derrière cet exemple,
->
-> celui du *cas d’homo­sexualité féminine*, se profilait celui de Dora
-> ...j’ai fait surgir devant vous comme *caractéristique structurale de ce rapport du sujet au* *(a)...*
+par l’exemple, l’exemple non unique, car derrière cet exemple,
+
+celui du *cas d’homo­sexualité féminine*, se profilait celui de Dora
+...j’ai fait surgir devant vous comme *caractéristique structurale de ce rapport du sujet au* *(a)...*
 
 <!-- id: s10-09-0012 -->
 
-> la possibilité essentielle, la relation, on peut dire universelle concernant le *(a),*
->
-> car à tous les niveaux vous la retrouverez toujours,
->
-> et je dirai que c’en est la connotation la plus caractéristique, puisque justement liée à *cette fonction de reste,*
-> ...c’est ce que j’ai appelé...
+la possibilité essentielle, la relation, on peut dire universelle concernant le *(a),*
+
+car à tous les niveaux vous la retrouverez toujours,
+
+et je dirai que c’en est la connotation la plus caractéristique, puisque justement liée à *cette fonction de reste,*
+...c’est ce que j’ai appelé...
 
 <!-- id: s10-09-0013 -->
 
-> emprunté du vocabulaire et de la lecture de Freud,
->
-> à propos du *passage à l’acte* qui lui amène son cas d’homosexualité féminine
-> ...*le « laisser-tomber »,* le *niederkommen lassen.*
+emprunté du vocabulaire et de la lecture de Freud,
+
+à propos du *passage à l’acte* qui lui amène son cas d’homosexualité féminine
+...*le « laisser-tomber »,* le *niederkommen lassen.*
 
 <!-- id: s10-09-0014 -->
 
@@ -91,8 +91,8 @@ C’est au moment du plus grand « *embarras* », avec l’addition comporteme
 
 <!-- id: s10-09-0017 -->
 
-> où comme sujet fondamentalement historisé, seulement il peut se maintenir dans son statut de sujet,
-> ...*qu’il bascule essentiellement hors de la scène*. C’est là, la structure même, comme telle, du *passage à l’acte*.
+où comme sujet fondamentalement historisé, seulement il peut se maintenir dans son statut de sujet,
+...*qu’il bascule essentiellement hors de la scène*. C’est là, la structure même, comme telle, du *passage à l’acte*.
 
 <!-- id: s10-09-0018 -->
 
@@ -105,10 +105,10 @@ Dora, au moment de l’acmé d’embarras...
 
 <!-- id: s10-09-0020 -->
 
-> où la met, je vous l’ai fait remarquer depuis longtemps, la phrase piège,
->
-> le piège maladroit de Monsieur Κ. : « *Ma femme n’est rien pour moi* »
-> ...passe à l’acte : « *la gifle* ».
+où la met, je vous l’ai fait remarquer depuis longtemps, la phrase piège,
+
+le piège maladroit de Monsieur Κ. : « *Ma femme n’est rien pour moi* »
+...passe à l’acte : « *la gifle* ».
 
 <!-- id: s10-09-0021 -->
 
@@ -122,8 +122,8 @@ Cette direction d’« *évasion de la scène* », c’est ce qui nous permet 
 
 <!-- id: s10-09-0023 -->
 
-> et vous ver­rez, *de distinguer* ce quelque chose de tout autre qui est *l’acting-out*
-> *...le passage à l’acte* dans sa valeur propre.
+et vous ver­rez, *de distinguer* ce quelque chose de tout autre qui est *l’acting-out*
+*...le passage à l’acte* dans sa valeur propre.
 
 <!-- id: s10-09-0024 -->
 
@@ -139,8 +139,8 @@ où le sujet part *à la recherche*, à la rencontre de quelque chose de refusé
 
 <!-- id: s10-09-0026 -->
 
-> bien sûr, il revient, il retourne : ce peut être l’occasion de se faire *mousser*
-> *...*et le départ, c’est bien ce passage de *« la scène »* au *« monde »*.
+bien sûr, il revient, il retourne : ce peut être l’occasion de se faire *mousser*
+*...*et le départ, c’est bien ce passage de *« la scène »* au *« monde »*.
 
 <!-- id: s10-09-0027 -->
 
@@ -163,10 +163,10 @@ Je viendrai...
 
 <!-- id: s10-09-0031 -->
 
-> pour vous dire d’abord comment le plus caractéristiquement, ce *reste* comme tel se fait valoir
-> ...à vous parler aujourd’hui et d’abord...
-> je veux dire avant d’aller plus loin dans la fonction de l’angoisse
-> ...de *l’acting-out.*
+pour vous dire d’abord comment le plus caractéristiquement, ce *reste* comme tel se fait valoir
+...à vous parler aujourd’hui et d’abord...
+je veux dire avant d’aller plus loin dans la fonction de l’angoisse
+...de *l’acting-out.*
 
 <!-- id: s10-09-0032 -->
 
@@ -174,8 +174,8 @@ Je viendrai...
 
 <!-- id: s10-09-0033 -->
 
-> un détour de plus, n’est-ce pas un détour de trop ?
-> ...de m’étendre en un discours sur *l’angoisse*, sur quelque chose *qui d’abord semble plutôt de l’ordre de son évitement*.
+un détour de plus, n’est-ce pas un détour de trop ?
+...de m’étendre en un discours sur *l’angoisse*, sur quelque chose *qui d’abord semble plutôt de l’ordre de son évitement*.
 
 <!-- id: s10-09-0034 -->
 
@@ -214,11 +214,11 @@ Et partant de ceci, qui était déjà indiqué dans ce que je vous ai dit jusqu�
 
 <!-- id: s10-09-0040 -->
 
-> vous le voyez poindre dans ce schéma qui ici reflète tachigraphiquement,
->
-> et je m’en excuse s’il en apparaît du même coup un peu approximatif
-> ...*l’angoisse*, voyons-nous poindre, et conformément à ce que nous indique la dernière pensée de Freud,
-> *l’angoisse est un signal dans le moi*.
+vous le voyez poindre dans ce schéma qui ici reflète tachigraphiquement,
+
+et je m’en excuse s’il en apparaît du même coup un peu approximatif
+...*l’angoisse*, voyons-nous poindre, et conformément à ce que nous indique la dernière pensée de Freud,
+*l’angoisse est un signal dans le moi*.
 
 <!-- id: s10-09-0041 -->
 
@@ -234,12 +234,12 @@ Disons donc que c’est une *couleur,* si je puis dire...
 
 <!-- id: s10-09-0043 -->
 
-> je justifierai ça plus tard, à l’occasion, l’emploi métaphorique de ce terme de *couleur*
-> …qui se produit au bord de la surface spéculaire elle-même \[*i’(a)*\], *elle-même inversion*, en tant que spéculai­re, *de la surface réelle*,
-> ici ne l’oublions pas, c’est une *<u>image réelle</u>* que nous appelons *i(a),* *moi idéal,*
-> *moi-idéal* cette fonction par où le *moi* est constitué par la série des *identifications* - à quoi ? - à certains objets !
-> Ceux à propos de qui Freud nous propose dans [*Das Ich und das Es*](http://www.textlog.de/sigmund-freud-das-ich-und-das-es.html) [^62], essentiellement *l’ambiguïté de l’identification et de l’amour*.
-> Vous savez que cette ambiguï­té, il en souligne le problème comme le laissant, lui Freud, perplexe.
+je justifierai ça plus tard, à l’occasion, l’emploi métaphorique de ce terme de *couleur*
+…qui se produit au bord de la surface spéculaire elle-même \[*i’(a)*\], *elle-même inversion*, en tant que spéculai­re, *de la surface réelle*,
+ici ne l’oublions pas, c’est une *<u>image réelle</u>* que nous appelons *i(a),* *moi idéal,*
+*moi-idéal* cette fonction par où le *moi* est constitué par la série des *identifications* - à quoi ? - à certains objets !
+Ceux à propos de qui Freud nous propose dans [*Das Ich und das Es*](http://www.textlog.de/sigmund-freud-das-ich-und-das-es.html) [^62], essentiellement *l’ambiguïté de l’identification et de l’amour*.
+Vous savez que cette ambiguï­té, il en souligne le problème comme le laissant, lui Freud, perplexe.
 
 <!-- id: s10-09-0044 -->
 
@@ -256,18 +256,18 @@ le rapport de « l’*être »* à « l’*avoir »*.
 
 <!-- id: s10-09-0047 -->
 
-> pour souligner d’un repère, dans les saillants même de l’œuvre de Freud,
->
-> c’est l’identification qui est au princi­pe du deuil par exemple, essentiellement
-> ...ce *(a)*, *objet de l’identification*, n’est aussi *(a) objet de l’amour* que pour autant qu’il est, ce *(a),* ce qui fait de l’« amant »...
+pour souligner d’un repère, dans les saillants même de l’œuvre de Freud,
+
+c’est l’identification qui est au princi­pe du deuil par exemple, essentiellement
+...ce *(a)*, *objet de l’identification*, n’est aussi *(a) objet de l’amour* que pour autant qu’il est, ce *(a),* ce qui fait de l’« amant »...
 
 <!-- id: s10-09-0048 -->
 
-> pour employer le terme médiéval et traditionnel
-> ...ce qui l’ar­rache métaphoriquement cet amant, pour le faire amant à se proposer comme *aimable* ἐρωμένος \[éroménos\],
-> en le faisant ἔρόν \[erôn\], sujet du manque, donc ce par quoi il se constitue proprement dans l’amour,
-> ce qui lui donne si je puis dire l’ins­trument de l’amour, à savoir - nous y retombons –
-> *qu’on aime, qu’on est amant avec ce qu’on n’a pas*.
+pour employer le terme médiéval et traditionnel
+...ce qui l’ar­rache métaphoriquement cet amant, pour le faire amant à se proposer comme *aimable* ἐρωμένος \[éroménos\],
+en le faisant ἔρόν \[erôn\], sujet du manque, donc ce par quoi il se constitue proprement dans l’amour,
+ce qui lui donne si je puis dire l’ins­trument de l’amour, à savoir - nous y retombons –
+*qu’on aime, qu’on est amant avec ce qu’on n’a pas*.
 
 <!-- id: s10-09-0049 -->
 
@@ -294,10 +294,10 @@ qu’on prend, ou non, *dans l’encolure de cette image* ce qui reste la multip
 
 <!-- id: s10-09-0054 -->
 
-> représentés dans mon schéma par *les fleurs réelles* prises ou non dans la constitution, grâce au *miroir concave* du fond, *symbole de quelque chose*, disons, qui doit se retrou­ver dans la structure *du cortex*,
->
-> fondement d’un certain *rapport* de l’hom­me à *l’image de son corps*
-> ...les différents objets constituables de ce corps.
+représentés dans mon schéma par *les fleurs réelles* prises ou non dans la constitution, grâce au *miroir concave* du fond, *symbole de quelque chose*, disons, qui doit se retrou­ver dans la structure *du cortex*,
+
+fondement d’un certain *rapport* de l’hom­me à *l’image de son corps*
+...les différents objets constituables de ce corps.
 
 <!-- id: s10-09-0055 -->
 
@@ -338,13 +338,13 @@ comment se fait-il que le mou­vement de la réflexion, les guides, les rails de
 
 <!-- id: s10-09-0062 -->
 
-> Rank d’abord, et Freud sur ce point, le suivant
-> ...à trouver l’origi­ne de l’angoisse à *ce niveau pré-spéculaire*, *pré-autoérotique*, à *ce niveau de la naissance*, où qui donc songerait...
+Rank d’abord, et Freud sur ce point, le suivant
+...à trouver l’origi­ne de l’angoisse à *ce niveau pré-spéculaire*, *pré-autoérotique*, à *ce niveau de la naissance*, où qui donc songerait...
 
 <!-- id: s10-09-0063 -->
 
-> personne n’y a songé dans le concert analytique
-> ...à parler de la constitution d’un *moi* ?
+personne n’y a songé dans le concert analytique
+...à parler de la constitution d’un *moi* ?
 
 <!-- id: s10-09-0064 -->
 
@@ -358,10 +358,10 @@ ceux que l’on désigne...
 
 <!-- id: s10-09-0066 -->
 
-> en les comprenant analytiquement de façon certainement ambiguë,
->
-> à en voir les divergences, car nous aurons à y revenir,
-> ...ce sont les phénomènes juste­ment les plus contraires à *la structure du moi* comme tel, *les phénomènes de dépersonnalisation*.
+en les comprenant analytiquement de façon certainement ambiguë,
+
+à en voir les divergences, car nous aurons à y revenir,
+...ce sont les phénomènes juste­ment les plus contraires à *la structure du moi* comme tel, *les phénomènes de dépersonnalisation*.
 
 <!-- id: s10-09-0067 -->
 
@@ -392,9 +392,9 @@ C’est ce que j’ai essayé de vous faire saisir à l’aide *des références
 
 <!-- id: s10-09-0072 -->
 
-> *des méta­phores* si vous le voulez, mais je crois que cela va plus loin
-> ...*topologiques*, dont je me suis servi en tant qu’elles introduisent la possibilité d’une forme *non spécularisable*
-> dans la structure de certains de ces objets.
+*des méta­phores* si vous le voulez, mais je crois que cela va plus loin
+...*topologiques*, dont je me suis servi en tant qu’elles introduisent la possibilité d’une forme *non spécularisable*
+dans la structure de certains de ces objets.
 
 <!-- id: s10-09-0073 -->
 
@@ -402,8 +402,8 @@ Disons que phé­noménologiquement, *la dépersonnalisation commence*...
 
 <!-- id: s10-09-0074 -->
 
-> finissons notre phrase par quelque chose qui semble aller de soi
-> ...*avec la non-reconnais­sance de l’image spéculaire*.
+finissons notre phrase par quelque chose qui semble aller de soi
+...*avec la non-reconnais­sance de l’image spéculaire*.
 
 <!-- id: s10-09-0075 -->
 
@@ -411,8 +411,8 @@ Chacun sait combien ceci est sensible dans la clinique, avec quelle fréquence c
 
 <!-- id: s10-09-0076 -->
 
-> ou quoi que ce soit d’une situation qui soit analogue
-> ...*que le sujet commence d’être saisi par la vacillation dépersonnalisante*.
+ou quoi que ce soit d’une situation qui soit analogue
+...*que le sujet commence d’être saisi par la vacillation dépersonnalisante*.
 
 <!-- id: s10-09-0077 -->
 
@@ -421,11 +421,11 @@ Mais articulons plus précisément que cette formule, qui donne *le fait,* est i
 
 <!-- id: s10-09-0078 -->
 
-> pour référer à un moment que j’ai marqué comme caractéristique de cette expérience du miroir,
->
-> comme paradigma­tique de la constitution du *moi idéal dans l’espace de l’Autre*
-> ...qu’une rela­tion à l’image spéculaire s’établit, telle que l’enfant ne saurait *\[dans ce cas\]* retourner la tête,
-> selon ce mouvement que je vous ai décrit comme familier, vers cet autre, ce témoin, cet adulte qui est là, derrière lui, pour lui commu­niquer par son sourire, les manifestations de sa *jubilation,* de quelque chose qui le fait communiquer avec *l’image spéculaire*.
+pour référer à un moment que j’ai marqué comme caractéristique de cette expérience du miroir,
+
+comme paradigma­tique de la constitution du *moi idéal dans l’espace de l’Autre*
+...qu’une rela­tion à l’image spéculaire s’établit, telle que l’enfant ne saurait *\[dans ce cas\]* retourner la tête,
+selon ce mouvement que je vous ai décrit comme familier, vers cet autre, ce témoin, cet adulte qui est là, derrière lui, pour lui commu­niquer par son sourire, les manifestations de sa *jubilation,* de quelque chose qui le fait communiquer avec *l’image spéculaire*.
 
 <!-- id: s10-09-0079 -->
 
@@ -434,8 +434,8 @@ Ici la rela­tion duelle pure *dépossède*...
 
 <!-- id: s10-09-0080 -->
 
-> ce sentiment de relation de dépossession mar­qué par les cliniciens dans la psychose
-> ...*dépossède le sujet de cette rela­tion au grand Autre*.
+ce sentiment de relation de dépossession mar­qué par les cliniciens dans la psychose
+...*dépossède le sujet de cette rela­tion au grand Autre*.
 
 <!-- id: s10-09-0081 -->
 
@@ -546,11 +546,11 @@ et que l’enfant le plus *aimé*, c’est justement celui qu’un jour elle a l
 
 <!-- id: s10-09-0099 -->
 
-> et vous savez que dans la tragédie grecque, ceci n’ayant pas échappé à la perspicacité de Giraudoux[^65],
->
-> c’est là le plus pro­fond grief d’Electre à l’endroit de Clytemnestre, c’est qu’un jour elle l’a laissée de ses bras glisser
-> ...Alors là, oui, vous pouvez faire l’identification de ce qu’il convient d’appeler en l’occasion « *une mère phallique »*.
-> Ιl y a sans doute d’autres modes, mais disons que c’est celui-là qui me paraît le moins trompeur.
+et vous savez que dans la tragédie grecque, ceci n’ayant pas échappé à la perspicacité de Giraudoux[^65],
+
+c’est là le plus pro­fond grief d’Electre à l’endroit de Clytemnestre, c’est qu’un jour elle l’a laissée de ses bras glisser
+...Alors là, oui, vous pouvez faire l’identification de ce qu’il convient d’appeler en l’occasion « *une mère phallique »*.
+Ιl y a sans doute d’autres modes, mais disons que c’est celui-là qui me paraît le moins trompeur.
 
 <!-- id: s10-09-0100 -->
 
@@ -581,8 +581,8 @@ Mais *ce qui se montre*...
 
 <!-- id: s10-09-0106 -->
 
-> on avance pas à pas
-> ...*se montre essentiellement comme autre*, *autre* que ça n’est : *ce que « ça » est*, *personne ne le sait*, mais *que ce soit « autre », personne n’en doute !* *Ce que « ça » est*, dans le *cas de la jeune homosexuelle*, Freud le dit quand même : « Elle aurait voulu un enfant du père » nous dit-il.
+on avance pas à pas
+...*se montre essentiellement comme autre*, *autre* que ça n’est : *ce que « ça » est*, *personne ne le sait*, mais *que ce soit « autre », personne n’en doute !* *Ce que « ça » est*, dans le *cas de la jeune homosexuelle*, Freud le dit quand même : « Elle aurait voulu un enfant du père » nous dit-il.
 
 <!-- id: s10-09-0107 -->
 
@@ -591,13 +591,13 @@ C’est bien pour ça que je tenais tout à l’heure, au moins à indiquer la p
 
 <!-- id: s10-09-0108 -->
 
-> contrairement à tout le glissement de la pensée analy­tique
-> ...il convient de mettre...
+contrairement à tout le glissement de la pensée analy­tique
+...il convient de mettre...
 
 <!-- id: s10-09-0109 -->
 
-> par rapport au courant principal élaboré de l’élu­cidation du désir inconscient
-> ...dans un rapport, si je puis dire, en quelque sorte *latéral*.
+par rapport au courant principal élaboré de l’élu­cidation du désir inconscient
+...dans un rapport, si je puis dire, en quelque sorte *latéral*.
 
 <!-- id: s10-09-0110 -->
 
@@ -605,10 +605,10 @@ C’est bien pour ça que je tenais tout à l’heure, au moins à indiquer la p
 
 <!-- id: s10-09-0111 -->
 
-> en tout cas dans ce que nous pouvons en saisir par son incidence économique
-> ...quelque chose de *plein*, quelque chose de *rond*, quelque chose de *fermé*, quelque chose justement d’aussi *complet*
-> pendant la phase gestatoire que l’on peut dire qu’il nous faut des soins tout à fait spéciaux pour le faire rentrer,
-> pour voir comment son incidence s’applique à ce rapport de coupure de *i(a)* à *(a).*
+en tout cas dans ce que nous pouvons en saisir par son incidence économique
+...quelque chose de *plein*, quelque chose de *rond*, quelque chose de *fermé*, quelque chose justement d’aussi *complet*
+pendant la phase gestatoire que l’on peut dire qu’il nous faut des soins tout à fait spéciaux pour le faire rentrer,
+pour voir comment son incidence s’applique à ce rapport de coupure de *i(a)* à *(a).*
 
 <!-- id: s10-09-0112 -->
 
@@ -673,9 +673,9 @@ ce qui surgit c’est ce reste *(a),* c’est « *la livre de chair* », ce qu
 
 <!-- id: s10-09-0123 -->
 
-> je pense que vous savez ce que je cite [^66]
-> ...qu’on peut faire tous les emprunts qu’on veut pour boucher les trous du désir et de la mélan­colie,
-> il y a là le juif, qui lui, en sait un bout sur la balance des comptes, et qui demande à la fin « *la livre de chair* ».
+je pense que vous savez ce que je cite [^66]
+...qu’on peut faire tous les emprunts qu’on veut pour boucher les trous du désir et de la mélan­colie,
+il y a là le juif, qui lui, en sait un bout sur la balance des comptes, et qui demande à la fin « *la livre de chair* ».
 
 <!-- id: s10-09-0124 -->
 
@@ -699,8 +699,8 @@ Comme vous le savez...
 
 <!-- id: s10-09-0128 -->
 
-> je pense qu’il y a tout de même quelques personnes, une majo­rité ici, qui lisent de temps en temps ce que j’écris
-> ...il va bouffer des cervelles fraîches !
+je pense qu’il y a tout de même quelques personnes, une majo­rité ici, qui lisent de temps en temps ce que j’écris
+...il va bouffer des cervelles fraîches !
 
 <!-- id: s10-09-0129 -->
 
@@ -723,14 +723,22 @@ Vous allez me dire : « *Qu’est-ce que ça a d’original ?* »...
 
 <!-- id: s10-09-0133 -->
 
-> *« Vous allez me dire »... :* - enfin, je fais les demandes et les réponses !
-> ...je vous dirais : je l’espère pas, mais comme vous pourriez me le dire quand même, si je ne l’ai pas bien assez accentué :
+<div class="text-quotation">
+
+*« Vous allez me dire »... :* - enfin, je fais les demandes et les réponses !
+...je vous dirais : je l’espère pas, mais comme vous pourriez me le dire quand même, si je ne l’ai pas bien assez accentué :
+
+</div>
 
 <!-- id: s10-09-0134 -->
 
-> « *Mais qu’est-ce que ça a d’original, cet acting-out et cette démonstration de ce désir inconnu ? Le symptôme, c’est pareil.*
->
-> *L’acting-out, c’est un symptôme qui se montre comme autre, lui aussi, la preuve, c’est qu’il doit être interprété* ».
+<div class="text-quotation">
+
+« *Mais qu’est-ce que ça a d’original, cet acting-out et cette démonstration de ce désir inconnu ? Le symptôme, c’est pareil.*
+
+*L’acting-out, c’est un symptôme qui se montre comme autre, lui aussi, la preuve, c’est qu’il doit être interprété* ».
+
+</div>
 
 <!-- id: s10-09-0135 -->
 
@@ -781,7 +789,7 @@ comme étant la *jouissance*, c’est-à-dire qu’il va, lui, vers *la Chose* a
 
 <!-- id: s10-09-0145 -->
 
-> référence à mon séminaire sur l’éthique[^68]
+référence à mon séminaire sur l’éthique[^68]
 
 <!-- id: s10-09-0146 -->
 
@@ -811,8 +819,8 @@ Alors, revenons sur *l’acting-out.*
 
 <!-- id: s10-09-0152 -->
 
-> j’entends l’organisation par nous : la *Handlung du transfert*
-> ...une des façons de poser la question c’est de demander :
+j’entends l’organisation par nous : la *Handlung du transfert*
+...une des façons de poser la question c’est de demander :
 
 <!-- id: s10-09-0153 -->
 
@@ -878,9 +886,9 @@ La question est de savoir donc comment en agir avec *l’acting-out.* Ιl y en a
 
 <!-- id: s10-09-0166 -->
 
-> c’est une femme très, très bien, Phillis Greenacre
-> ...*l’interpréter*, avec ce que je viens de vous dire, est promis à peu d’effet, si je puis dire,
-> ne serait-ce que parce que c’est pour ça qu’il est fait, *l’actingout.*
+c’est une femme très, très bien, Phillis Greenacre
+...*l’interpréter*, avec ce que je viens de vous dire, est promis à peu d’effet, si je puis dire,
+ne serait-ce que parce que c’est pour ça qu’il est fait, *l’actingout.*
 
 <!-- id: s10-09-0167 -->
 
@@ -929,10 +937,10 @@ c’est son côté assurance-accident, assurance-maladie, car c’est très drô
 
 <!-- id: s10-09-0174 -->
 
-> au moins à partir du moment où un analyste a pris cette « *expérience* » qu’on appelle,
->
-> c’est-à-dire tout ce que dans sa propre attitude à lui la plupart du temps il ignore
-> ...combien les maladies de courte durée sont rares pendant les analyses, com­bien pendant une analyse qui se prolonge un peu, les rhumes, les grippes, tout ça s’efface, et même quant aux maladies de longue durée.
+au moins à partir du moment où un analyste a pris cette « *expérience* » qu’on appelle,
+
+c’est-à-dire tout ce que dans sa propre attitude à lui la plupart du temps il ignore
+...combien les maladies de courte durée sont rares pendant les analyses, com­bien pendant une analyse qui se prolonge un peu, les rhumes, les grippes, tout ça s’efface, et même quant aux maladies de longue durée.
 
 <!-- id: s10-09-0175 -->
 
@@ -942,9 +950,9 @@ Inversement, quand ça arrive, l’accident...
 
 <!-- id: s10-09-0176 -->
 
-> l’accident, je ne parle pas seulement de *l’acting-out*
-> ...c’est mis au compte de l’analyse très régulièrement, par le patient et par l’entourage,
-> c’est mis au compte de l’analyse en quelque sorte par nature.
+l’accident, je ne parle pas seulement de *l’acting-out*
+...c’est mis au compte de l’analyse très régulièrement, par le patient et par l’entourage,
+c’est mis au compte de l’analyse en quelque sorte par nature.
 
 <!-- id: s10-09-0177 -->
 
@@ -996,10 +1004,10 @@ Il n’en reste pas moins que Freud, le jour où il a eu une patiente...
 
 <!-- id: s10-09-0187 -->
 
-> la chose est articulée comme telle
-> ...qui lui men­tait en rêve, car c’est là ce comme quoi Freud caractérise le cas,
-> l’ἄγαλμα \[agalma\], le précieux *de ce discours* sur l’homosexualité féminine, c’est que Freud s’ar­rête un instant, estomaqué,
-> devant ceci - lui aussi fait les demandes et les réponses - il dit :
+la chose est articulée comme telle
+...qui lui men­tait en rêve, car c’est là ce comme quoi Freud caractérise le cas,
+l’ἄγαλμα \[agalma\], le précieux *de ce discours* sur l’homosexualité féminine, c’est que Freud s’ar­rête un instant, estomaqué,
+devant ceci - lui aussi fait les demandes et les réponses - il dit :
 
 <!-- id: s10-09-0188 -->
 
@@ -1096,16 +1104,16 @@ L’achoppement de la pensée de Freud sur quelque chose que nous pouvons appele
 
 <!-- id: s10-09-0208 -->
 
-> ne me faites pas dire que la femme est menteuse en tant que telle,
->
-> mais que la féminité se dérobe et que quelque chose y choit de ce biais, à Freud
-> ...cette - pour employer les termes du *Yi King -* cette *douceur fluente*, ce quelque chose devant quoi Freud a failli périr étouffé
-> de cette promenade nocturne que sa fiancée, le jour même où ils échangeaient les vœux derniers, a faite avec un vague cousin...
+ne me faites pas dire que la femme est menteuse en tant que telle,
+
+mais que la féminité se dérobe et que quelque chose y choit de ce biais, à Freud
+...cette - pour employer les termes du *Yi King -* cette *douceur fluente*, ce quelque chose devant quoi Freud a failli périr étouffé
+de cette promenade nocturne que sa fiancée, le jour même où ils échangeaient les vœux derniers, a faite avec un vague cousin...
 
 <!-- id: s10-09-0209 -->
 
-> je ne me souviens plus, je n’ai plus regardé la biographie[^71], je l’appelle « *un vague cousin* », c’est n’importe quoi d’autre, c’est *un de ces godelureaux à l’avenir,* comme on dit, *assuré*, ce qui veut dire qu’ils n’en ont aucun
-> …avec lequel il a découvert, peu après, qu’elle avait fait une petite balade.
+je ne me souviens plus, je n’ai plus regardé la biographie[^71], je l’appelle « *un vague cousin* », c’est n’importe quoi d’autre, c’est *un de ces godelureaux à l’avenir,* comme on dit, *assuré*, ce qui veut dire qu’ils n’en ont aucun
+…avec lequel il a découvert, peu après, qu’elle avait fait une petite balade.
 
 <!-- id: s10-09-0210 -->
 
@@ -1123,8 +1131,8 @@ La question, quand on en sort...
 
 <!-- id: s10-09-0213 -->
 
-> vous le savez, elle a été rappelée par moi à la fin d’un de mes articles[^72], elle est empruntée au *Talmud*
-> *...*quand on sort ensemble d’une cheminée : « *Lequel des deux va-t-il aller se débar­bouiller ?* » Ouais...
+vous le savez, elle a été rappelée par moi à la fin d’un de mes articles[^72], elle est empruntée au *Talmud*
+*...*quand on sort ensemble d’une cheminée : « *Lequel des deux va-t-il aller se débar­bouiller ?* » Ouais...
 
 <!-- id: s10-09-0214 -->
 
@@ -1141,8 +1149,8 @@ c’est cette [Di<span id="RetourDiane" class="anchor"></span>ane](#Diane) que j
 
 <!-- id: s10-09-0217 -->
 
-> sous la forme de nous tous
-> ...toute la chasse, après sa mort.
+sous la forme de nous tous
+...toute la chasse, après sa mort.
 
 <!-- id: s10-09-0218 -->
 

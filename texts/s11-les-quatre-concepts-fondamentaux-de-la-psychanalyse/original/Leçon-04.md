@@ -10,8 +10,8 @@ Je voudrais d’abord vous annoncer…
 
 <!-- id: s11-04-0002 -->
 
-> annonce qui n’aura de valeur que pour ceux qui sont au fait de mes habitudes, qui sont de m’absenter en général le temps de ce qui était autrefois deux de mes séminaires, pour aller vers ce mode de repos rituel, passé dans nos habitudes, qu’on appel­le « les sports d’hiver », dont un certain nombre d’entre vous pouvaient s’attendre à ce que ça se passât à peu près à la même date
-> …*j’ai le plai­sir de vous annoncer cette année qu’il n’en sera rien*, l’absence de neige m’ayant donné le prétexte de renoncer à cette obligation.
+annonce qui n’aura de valeur que pour ceux qui sont au fait de mes habitudes, qui sont de m’absenter en général le temps de ce qui était autrefois deux de mes séminaires, pour aller vers ce mode de repos rituel, passé dans nos habitudes, qu’on appel­le « les sports d’hiver », dont un certain nombre d’entre vous pouvaient s’attendre à ce que ça se passât à peu près à la même date
+…*j’ai le plai­sir de vous annoncer cette année qu’il n’en sera rien*, l’absence de neige m’ayant donné le prétexte de renoncer à cette obligation.
 
 <!-- id: s11-04-0003 -->
 
@@ -55,13 +55,13 @@ Que je donne cette fonction à l’inconscient…
 
 <!-- id: s11-04-0009 -->
 
-> tout en signalant *cette fonction* en quelque sorte *pulsative* que je n’ai cessé d’accentuer dans mes propos précédents, *cette nécessité d’évanouissement* qui semble lui être en quelque sorte inhérente : tout ce qui
->
-> un instant apparaît dans sa fente semblant être destiné, par une sorte de *préemption* en quelque sorte,
->
-> à se refermer, comme FREUD lui-même en a employé la métapho­re, à se dérober, à disparaître
-> …que ce soit ce point auquel j’ai donné cette même fonction, indiquant en quelque sorte l’espoir, *dont plus d’un pas déjà a été franchi*, que ce soit par là que, dans une *direction différente*, se renouvelle, se constitue cette sorte de cristallisation *également tranchan­te*, *également décisive*, *également inaugurante*, que celle qui s’est produite dans la science physique, dans cette autre direction que nous appellerons
-> « *la science conjecturale du sujet* ».
+tout en signalant *cette fonction* en quelque sorte *pulsative* que je n’ai cessé d’accentuer dans mes propos précédents, *cette nécessité d’évanouissement* qui semble lui être en quelque sorte inhérente : tout ce qui
+
+un instant apparaît dans sa fente semblant être destiné, par une sorte de *préemption* en quelque sorte,
+
+à se refermer, comme FREUD lui-même en a employé la métapho­re, à se dérober, à disparaître
+…que ce soit ce point auquel j’ai donné cette même fonction, indiquant en quelque sorte l’espoir, *dont plus d’un pas déjà a été franchi*, que ce soit par là que, dans une *direction différente*, se renouvelle, se constitue cette sorte de cristallisation *également tranchan­te*, *également décisive*, *également inaugurante*, que celle qui s’est produite dans la science physique, dans cette autre direction que nous appellerons
+« *la science conjecturale du sujet* ».
 
 <!-- id: s11-04-0010 -->
 
@@ -85,19 +85,19 @@ Quand il est mis en marge du texte du rêve *le colophon*...
 
 <!-- id: s11-04-0014 -->
 
-> *le colophon*, dans un vieux texte, c’est cette *petite main* indicative : on l’imprime, on l’imprimait du temps
->
-> où l’on avait encore une typographie - eh bien, il dit : tenez-en compte, *le colophon du doute fait partie du texte*
-> …nous indique, par ce *petit signe* d’une façon renforcée…
+*le colophon*, dans un vieux texte, c’est cette *petite main* indicative : on l’imprime, on l’imprimait du temps
+
+où l’on avait encore une typographie - eh bien, il dit : tenez-en compte, *le colophon du doute fait partie du texte*
+…nous indique, par ce *petit signe* d’une façon renforcée…
 
 <!-- id: s11-04-0015 -->
 
-> comme il nous l’indique par tous ses propos concernant la façon de tenir compte
->
-> de ce récit pourtant toujours possible à mettre en doute qui nous est donné du rêve
-> …nous indique qu’il place sa certi­tude, *Gewissheit* vous ai-je dit la dernière fois, dans la seule *constellation des signifiants,*
-> tels qu’ils résultent du récit, du commentaire, de l’associa­tion, peu importe la rétractation. Tout vient à fournir du signifiant
-> sur quoi compte-t-il pour établir *sa Gewissheit à lui*.
+comme il nous l’indique par tous ses propos concernant la façon de tenir compte
+
+de ce récit pourtant toujours possible à mettre en doute qui nous est donné du rêve
+…nous indique qu’il place sa certi­tude, *Gewissheit* vous ai-je dit la dernière fois, dans la seule *constellation des signifiants,*
+tels qu’ils résultent du récit, du commentaire, de l’associa­tion, peu importe la rétractation. Tout vient à fournir du signifiant
+sur quoi compte-t-il pour établir *sa Gewissheit à lui*.
 
 <!-- id: s11-04-0016 -->
 
@@ -108,7 +108,11 @@ qui l’a introduite, mais je dirai que c’est à elle \[*sa Gewissheit à lui*
 
 <!-- id: s11-04-0017 -->
 
-> « *Ici, dans le champ du rêve, tu es chez toi* ». « *Wo es war, soll ich werden* »
+<div class="text-quotation">
+
+« *Ici, dans le champ du rêve, tu es chez toi* ». « *Wo es war, soll ich werden* »
+
+</div>
 
 <!-- id: s11-04-0018 -->
 
@@ -150,9 +154,9 @@ La seule différence entre les schémas de la *Lettre* 52*...*
 
 <!-- id: s11-04-0025 -->
 
-> que quel­qu’un qui est au premier rang a commenté lors d’une de nos dernières réunions et, puisqu’il nous est présent
-> ...et le schéma auquel je vous prie de vous reporter, c’est que *<u>là</u>* - et puis en plus c’est dit par FREUD ! - que *<u>ce lieu</u>*,
-> où se joue l’affaire du *sujet de l’inconscient*, *n’est pas un lieu spatial*, n’est pas une couche anatomique.
+que quel­qu’un qui est au premier rang a commenté lors d’une de nos dernières réunions et, puisqu’il nous est présent
+...et le schéma auquel je vous prie de vous reporter, c’est que *<u>là</u>* - et puis en plus c’est dit par FREUD ! - que *<u>ce lieu</u>*,
+où se joue l’affaire du *sujet de l’inconscient*, *n’est pas un lieu spatial*, n’est pas une couche anatomique.
 
 <!-- id: s11-04-0026 -->
 
@@ -161,8 +165,8 @@ Sinon, comment la concevoir telle qu’elle nous est présentée, située *entre
 
 <!-- id: s11-04-0027 -->
 
-> *qui seront plus tard, quand il s’agira d’établir la seconde topique*, *l’acception perception-conscience, Wahrnehmung-Bewusstsein*
-> …seulement voilà, *dans l’intervalle est la place, la place de l’Autre où se constitue le sujet*.
+*qui seront plus tard, quand il s’agira d’établir la seconde topique*, *l’acception perception-conscience, Wahrnehmung-Bewusstsein*
+…seulement voilà, *dans l’intervalle est la place, la place de l’Autre où se constitue le sujet*.
 
 <!-- id: s11-04-0028 -->
 
@@ -171,13 +175,13 @@ où ces *Wahrnehmungszeichen* \[*Wahrnehmung : perception, zeichen : marque* \
 
 <!-- id: s11-04-0029 -->
 
-> auxquelles il y a lieu de donner tout de suite, d’après ce que je vous ai enseigné, leur vrai nom, à savoir des *signifiants*. Et cela même est précisé, car on nous dit que les *Wahrnehmungszeichen* « *traces de la per­ception* », comment ça fonctionne ?
->
-> Par la nécessité, déduite de son expé­rience que FREUD nous donne, de séparer absolument *perception* et *mémoire* :
->
-> c’est à savoir que, pour que ça passe dans la *mémoire*, il faut d’abord que ça soit effacé dans la *perception*, et réciproquement
-> …alors, il nous désigne un temps où ces *Wahrnehmungszeichen* doivent être constituées dans la simultanéité : qu’est-ce que c’est,
-> si ce n’est la *synchronie signifiante* ?
+auxquelles il y a lieu de donner tout de suite, d’après ce que je vous ai enseigné, leur vrai nom, à savoir des *signifiants*. Et cela même est précisé, car on nous dit que les *Wahrnehmungszeichen* « *traces de la per­ception* », comment ça fonctionne ?
+
+Par la nécessité, déduite de son expé­rience que FREUD nous donne, de séparer absolument *perception* et *mémoire* :
+
+c’est à savoir que, pour que ça passe dans la *mémoire*, il faut d’abord que ça soit effacé dans la *perception*, et réciproquement
+…alors, il nous désigne un temps où ces *Wahrnehmungszeichen* doivent être constituées dans la simultanéité : qu’est-ce que c’est,
+si ce n’est la *synchronie signifiante* ?
 
 <!-- id: s11-04-0030 -->
 
@@ -232,10 +236,10 @@ En ceci, qui est supposé acquis dans mon discours…
 
 <!-- id: s11-04-0040 -->
 
-> non démontré bien sûr, mais c’est là un champ qui n’est pas le mien, qui est à d’autres. Assez largement admis
->
-> quand même dans le domaine de l’histoire des sciences pour que nous puissions le tenir pour acquis
-> …que la science moderne ne commence qu’après que DESCARTES ait fait son pas inaugural.
+non démontré bien sûr, mais c’est là un champ qui n’est pas le mien, qui est à d’autres. Assez largement admis
+
+quand même dans le domaine de l’histoire des sciences pour que nous puissions le tenir pour acquis
+…que la science moderne ne commence qu’après que DESCARTES ait fait son pas inaugural.
 
 <!-- id: s11-04-0041 -->
 
@@ -272,10 +276,10 @@ Mais il est bien évident alors, comme d’ailleurs c’est également visible d
 
 <!-- id: s11-04-0047 -->
 
-> et là j’interpelle celui qui, après mon premier séminaire, m’a posé la question de *mon hésitation devant ce qu’il appelait*
->
-> \- ce qui le déroutait - devant *ce qu’il lui semblait y avoir de « psychologisme » dans mon discours :* je parlais du discours de FREUD
-> ...qu’il touche ici du doigt qu’à ce niveau, pour pouvoir se mettre en corrélation, en balance avec cette certitude où il progresse dans le sujet, ce qui est en relation :
+et là j’interpelle celui qui, après mon premier séminaire, m’a posé la question de *mon hésitation devant ce qu’il appelait*
+
+\- ce qui le déroutait - devant *ce qu’il lui semblait y avoir de « psychologisme » dans mon discours :* je parlais du discours de FREUD
+...qu’il touche ici du doigt qu’à ce niveau, pour pouvoir se mettre en corrélation, en balance avec cette certitude où il progresse dans le sujet, ce qui est en relation :
 
 <!-- id: s11-04-0048 -->
 
@@ -334,9 +338,9 @@ bien à vous amuser, car vous y verrez, par exemple, que le maintien de la tradu
 
 <!-- id: s11-04-0059 -->
 
-> *ce qui institue cette édition toute entière sur le plan du contresens absolu, il n’y a rien de commun entre le Trieb et l’instinct tout simplement*
-> …que là, le discord apparaît si impos­sible *qu’on ne peut même pas mener la phrase jusqu’au bout en tradui­sant Triebhaft par instinctual*.
-> Il faut une note écrite : « *Triebhaft : at the beginning of the next paragraph, the word Triebhaft is much more revealing of the urgency than the word instinctual.* »
+*ce qui institue cette édition toute entière sur le plan du contresens absolu, il n’y a rien de commun entre le Trieb et l’instinct tout simplement*
+…que là, le discord apparaît si impos­sible *qu’on ne peut même pas mener la phrase jusqu’au bout en tradui­sant Triebhaft par instinctual*.
+Il faut une note écrite : « *Triebhaft : at the beginning of the next paragraph, the word Triebhaft is much more revealing of the urgency than the word instinctual.* »
 
 <!-- id: s11-04-0060 -->
 
@@ -395,11 +399,11 @@ que dans la structure c’est un acte en l’honneur de quelque chose. Attendons
 
 <!-- id: s11-04-0071 -->
 
-> et spécialement concernant cette bipartition si structurante de toute la psychologie
->
-> \- *si je dis psychologie freudienne -* du *Principe du plaisir* au *Principe de réalité*
-> ...rien n’a plus fait énigme, que ce *Wiederholen, et tout près*, aux dires des étymologistes les plus mesurés, *et tout près du « haler »*,
-> comme on fait sur *les chemins de hala­ge, tout près du « haler » du sujet qui tire toujours son truc autour d’un certain che­min d’où il ne peut pas sortir*.
+et spécialement concernant cette bipartition si structurante de toute la psychologie
+
+\- *si je dis psychologie freudienne -* du *Principe du plaisir* au *Principe de réalité*
+...rien n’a plus fait énigme, que ce *Wiederholen, et tout près*, aux dires des étymologistes les plus mesurés, *et tout près du « haler »*,
+comme on fait sur *les chemins de hala­ge, tout près du « haler » du sujet qui tire toujours son truc autour d’un certain che­min d’où il ne peut pas sortir*.
 
 <!-- id: s11-04-0072 -->
 
@@ -433,8 +437,8 @@ et approchant toujours plus d’une sorte de *focus*, du centre où tout événe
 
 <!-- id: s11-04-0077 -->
 
-> *entre guillemets, car il faut changer aussi le sens des trois mots de ce que je vais dire, il faut le changer complètement pour lui donner sa portée*
-> ...« *la résistance du sujet* » et qui devient, à ce moment-là, *répétition en acte*.
+*entre guillemets, car il faut changer aussi le sens des trois mots de ce que je vais dire, il faut le changer complètement pour lui donner sa portée*
+...« *la résistance du sujet* » et qui devient, à ce moment-là, *répétition en acte*.
 
 <!-- id: s11-04-0078 -->
 

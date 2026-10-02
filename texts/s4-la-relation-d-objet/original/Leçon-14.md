@@ -214,11 +214,11 @@ vous avez toujours ceci que j’écris d’une façon un peu différente :
 
 <!-- id: s4-14-0045 -->
 
-> <u>α, δ</u> → α, β, γ, δ → <u>α, β</u>
->
-> γ, β γ, δ
->
-> 1<sup>er</sup> temps 2<sup>ème</sup> temps 3<sup>ème</sup> temps
+<u>α, δ</u> → α, β, γ, δ → <u>α, β</u>
+
+γ, β γ, δ
+
+1<sup>er</sup> temps 2<sup>ème</sup> temps 3<sup>ème</sup> temps
 
 <!-- id: s4-14-0046 -->
 
@@ -327,11 +327,11 @@ La poésie commence là, mais nous n’entrons même pas dans la poésie, nous f
 
 <!-- id: s4-14-0069 -->
 
-> <u>α, δ</u> → α, β, γ, δ → <u>α, β</u>
->
-> γ, β γ, δ
->
-> 1<sup>er</sup> temps 2<sup>ème</sup> temps 3<sup>ème</sup> temps
+<u>α, δ</u> → α, β, γ, δ → <u>α, β</u>
+
+γ, β γ, δ
+
+1<sup>er</sup> temps 2<sup>ème</sup> temps 3<sup>ème</sup> temps
 
 <!-- id: s4-14-0070 -->
 

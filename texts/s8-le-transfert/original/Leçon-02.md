@@ -38,7 +38,7 @@ Il me semble que quelqu’un qui lit *Le Banquet* pour la première fois, s’il
 
 <!-- id: s8-02-0009 -->
 
-> il me semble qu’on peut parler d’autant plus volontiers que je crois, qu’*une fois n’est pas coutume*, pas mal d’entre vous, à la suite de mon annonce de la dernière fois, ont fait l’acquisition de cet ouvrage et donc ont dû y mettre leur nez ...vous ne pouvez pas manquer d’être saisis par ce qui se passe dans la deuxième partie, au moins, de ce discours entre ALCIBIADE et SOCRATE.
+il me semble qu’on peut parler d’autant plus volontiers que je crois, qu’*une fois n’est pas coutume*, pas mal d’entre vous, à la suite de mon annonce de la dernière fois, ont fait l’acquisition de cet ouvrage et donc ont dû y mettre leur nez ...vous ne pouvez pas manquer d’être saisis par ce qui se passe dans la deuxième partie, au moins, de ce discours entre ALCIBIADE et SOCRATE.
 
 <!-- id: s8-02-0010 -->
 

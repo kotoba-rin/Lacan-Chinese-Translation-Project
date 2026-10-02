@@ -94,9 +94,9 @@ mais que de par une structure, je le répète : qui de beaucoup dépasse son co
 
 <!-- id: s13-17-0023 -->
 
-> quelle que soit l’expérience, du seul fait du fonctionnement où chacun s’identifie
->
-> à un certain statut nommable, dans l’occasion celui d’être le savant …qui tend à faire « *rentrer dans l’ordre* » l’essentiel de la *schize* par laquelle seule pourtant peut s’ouvrir un accès à l’expérience qui soit au niveau propre de cette expérience.
+quelle que soit l’expérience, du seul fait du fonctionnement où chacun s’identifie
+
+à un certain statut nommable, dans l’occasion celui d’être le savant …qui tend à faire « *rentrer dans l’ordre* » l’essentiel de la *schize* par laquelle seule pourtant peut s’ouvrir un accès à l’expérience qui soit au niveau propre de cette expérience.
 
 <!-- id: s13-17-0024 -->
 
@@ -188,7 +188,7 @@ Est-ce à dire que du point de vue de *la structure du sujet*…
 
 <!-- id: s13-17-0046 -->
 
-> en tant que le sujet : est le sujet du regard, est le sujet d’un monde vu, c’est ce qui va nous intéresser …est-ce à dire que nous pouvons négliger cette partie du sujet, qu’elle ne nous apparaisse qu’en une fonction d’artifice, qu’alors que la ligne d’horizon est structurale, le fait que le choix de la distance librement est laissé à mon choix, de moi qui regarde, je puisse dire qu’il n’y a là qu’artifice de l’artiste, que c’est à la distance où je me mets mentalement de tel ou tel plan, que je choisis dans la profondeur du tableau, que ceci soit donc en quelque sorte caduc et secondaire et non pas structural ?
+en tant que le sujet : est le sujet du regard, est le sujet d’un monde vu, c’est ce qui va nous intéresser …est-ce à dire que nous pouvons négliger cette partie du sujet, qu’elle ne nous apparaisse qu’en une fonction d’artifice, qu’alors que la ligne d’horizon est structurale, le fait que le choix de la distance librement est laissé à mon choix, de moi qui regarde, je puisse dire qu’il n’y a là qu’artifice de l’artiste, que c’est à la distance où je me mets mentalement de tel ou tel plan, que je choisis dans la profondeur du tableau, que ceci soit donc en quelque sorte caduc et secondaire et non pas structural ?
 
 <!-- id: s13-17-0047 -->
 
@@ -200,7 +200,7 @@ Ce second point, dans la perspective, se définit de la remarque que quelle que
 
 <!-- id: s13-17-0049 -->
 
-> du sujet S qui est justement ce que nous avons à mettre en suspens et voir comment il rentre dans le tableau …que quelle que soit *la distance* de ce sujet au tableau :
+du sujet S qui est justement ce que nous avons à mettre en suspens et voir comment il rentre dans le tableau …que quelle que soit *la distance* de ce sujet au tableau :
 
 <!-- id: s13-17-0050 -->
 
@@ -472,7 +472,7 @@ Et c’est cela l’effet de ce quelque chose qui, introduit dans l’espace du 
 
 <!-- id: s13-17-0117 -->
 
-> qui est la seconde fille du couple royal : Philippe IV et Doña Mariana d’Autriche …la petite Doña Margherita, je peux dire cinquante fois peinte par VELÀZQUEZ, que nous nous laissions guider par ce personnage qui vient en quelque sorte à notre devant dans *cet espace* qui est pour nous le point d’interrogation.
+qui est la seconde fille du couple royal : Philippe IV et Doña Mariana d’Autriche …la petite Doña Margherita, je peux dire cinquante fois peinte par VELÀZQUEZ, que nous nous laissions guider par ce personnage qui vient en quelque sorte à notre devant dans *cet espace* qui est pour nous le point d’interrogation.
 
 <!-- id: s13-17-0118 -->
 
@@ -480,7 +480,7 @@ Et pour tous ceux qui ont vu ce tableau, qui ont parlé de ce tableau, qui ont �
 
 <!-- id: s13-17-0119 -->
 
-> et c’est celui, me semble-t-il qui est manqué dans *l’analyse de l’œuvre dont je parlais tout à l’heure* \[Foucault\] …« *Fais voir* *ce qu’il y a derrière la toile* » telle que nous la voyons à l’envers, c’est un « *Fais voir !* » qu’il appelle et que nous sommes plus ou moins prêts à prononcer.
+et c’est celui, me semble-t-il qui est manqué dans *l’analyse de l’œuvre dont je parlais tout à l’heure* \[Foucault\] …« *Fais voir* *ce qu’il y a derrière la toile* » telle que nous la voyons à l’envers, c’est un « *Fais voir !* » qu’il appelle et que nous sommes plus ou moins prêts à prononcer.
 
 <!-- id: s13-17-0120 -->
 
@@ -512,9 +512,9 @@ L’aspect en quelque sorte, rêveur, absent, tourné vers quelque *disegno inte
 
 <!-- id: s13-17-0127 -->
 
-> comme s’expriment les gongoristes, je veux dire toute la théorie du style baroque, maniériste,
->
-> concettiste, tout ce que vous voudrez, et dont GONGORA est l’exemple, est la fleur. …*disegno interno* ce quelque chose à quoi se réfère le discours maniériste et qui est proprement ce que j’appelle que dans ce discours il n’y a pas de métaphore, que la métaphore y entre comme une composante réelle : cette présence de VELÀZQUEZ dans sa toile, sa figure portant en quelque sorte le signe et le support qu’il y est là, à la fois comme la composante et comme élément d’elle, c’est là le point structural, représenté, par où il nous est désigné, ce qu’il peut en être, par quelle voie peut se faire qu’apparaisse dans la toile même, celui qui la supporte en tant que sujet regardant.
+comme s’expriment les gongoristes, je veux dire toute la théorie du style baroque, maniériste,
+
+concettiste, tout ce que vous voudrez, et dont GONGORA est l’exemple, est la fleur. …*disegno interno* ce quelque chose à quoi se réfère le discours maniériste et qui est proprement ce que j’appelle que dans ce discours il n’y a pas de métaphore, que la métaphore y entre comme une composante réelle : cette présence de VELÀZQUEZ dans sa toile, sa figure portant en quelque sorte le signe et le support qu’il y est là, à la fois comme la composante et comme élément d’elle, c’est là le point structural, représenté, par où il nous est désigné, ce qu’il peut en être, par quelle voie peut se faire qu’apparaisse dans la toile même, celui qui la supporte en tant que sujet regardant.
 
 <!-- id: s13-17-0128 -->
 
@@ -642,7 +642,7 @@ Si le roi et la reine sont là pour être reflétés dans le fond dans le miroir
 
 <!-- id: s13-17-0159 -->
 
-> or il est impossible qu’ils soient représentés comme étant là dans le miroir, ne serait-ce qu’en raison de l’échelle, de la taille où on les voit dans le miroir où ils ont à peu près la même échelle que le personnage qui est en train de sortir à côté d’eux. Alors qu’étant donnée la distance où nous sommes, ils devraient être exactement deux fois plus petits. Mais ceci n’est encore qu’un argument de plus …Si le roi et la reine sont là dans cette hypothèse, alors, le peintre est ici et nous nous trouvons devant la position avancée par les anecdotiers, par Madame de MOTTEVILLE[^173] par exemple, à savoir que le roi et la reine étaient ici et ils seraient debout - *encore plus !* - en train de se faire… de poser et auraient devant eux la rangée de tous ces personnages, dont vous pouvez voir quelle serait la fonction naturelle, si vraiment pendant ce temps-là VELÀZQUEZ était en train de peindre toute autre chose qu’eux et par dessus le marché, quelque chose qu’il ne voit pas puisqu’il voit tous ces personnages dans une position qui l’entoure.
+or il est impossible qu’ils soient représentés comme étant là dans le miroir, ne serait-ce qu’en raison de l’échelle, de la taille où on les voit dans le miroir où ils ont à peu près la même échelle que le personnage qui est en train de sortir à côté d’eux. Alors qu’étant donnée la distance où nous sommes, ils devraient être exactement deux fois plus petits. Mais ceci n’est encore qu’un argument de plus …Si le roi et la reine sont là dans cette hypothèse, alors, le peintre est ici et nous nous trouvons devant la position avancée par les anecdotiers, par Madame de MOTTEVILLE[^173] par exemple, à savoir que le roi et la reine étaient ici et ils seraient debout - *encore plus !* - en train de se faire… de poser et auraient devant eux la rangée de tous ces personnages, dont vous pouvez voir quelle serait la fonction naturelle, si vraiment pendant ce temps-là VELÀZQUEZ était en train de peindre toute autre chose qu’eux et par dessus le marché, quelque chose qu’il ne voit pas puisqu’il voit tous ces personnages dans une position qui l’entoure.
 
 <!-- id: s13-17-0160 -->
 

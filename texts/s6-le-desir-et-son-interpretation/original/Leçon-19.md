@@ -10,7 +10,7 @@ HAMLET (7) Si la tragédie d’HAMLET est la tragédie du désir, il est temps d
 
 <!-- id: s6-19-0002 -->
 
-> *c’est là où je vous ai amenés à la fin de mon dernier propos*, au moment où nous arrivions au bout de notre cours
+*c’est là où je vous ai amenés à la fin de mon dernier propos*, au moment où nous arrivions au bout de notre cours
 
 <!-- id: s6-19-0003 -->
 
@@ -18,7 +18,7 @@ HAMLET (7) Si la tragédie d’HAMLET est la tragédie du désir, il est temps d
 
 <!-- id: s6-19-0004 -->
 
-> difficile pourtant à méconnaître une fois qu’on l’a formulée
+difficile pourtant à méconnaître une fois qu’on l’a formulée
 
 <!-- id: s6-19-0005 -->
 
@@ -58,7 +58,7 @@ dans cette articulation qui est celle de la société moderne
 
 <!-- id: s6-19-0014 -->
 
-> j’entends l’analyse marxiste, économique, pour autant qu’elle domine la pensée de notre époque
+j’entends l’analyse marxiste, économique, pour autant qu’elle domine la pensée de notre époque
 
 <!-- id: s6-19-0015 -->
 
@@ -102,7 +102,7 @@ Nous avons là une sorte de traces, de *clues* comme on dit en anglais, d’él�
 
 <!-- id: s6-19-0025 -->
 
-> pour que nous ne demandions pas, comme nous avons commencé de le faire la dernière fois
+pour que nous ne demandions pas, comme nous avons commencé de le faire la dernière fois
 
 <!-- id: s6-19-0026 -->
 
@@ -166,9 +166,9 @@ Il est bien clair que nous devons distinguer…
 
 <!-- id: s6-19-0041 -->
 
-> au lieu de faire comme toujours, de laisser les choses dans une sorte de trouble et de flou
->
-> qui ne facilite pas les spéculations des choses que nous avons à dire sur ce sujet
+au lieu de faire comme toujours, de laisser les choses dans une sorte de trouble et de flou
+
+qui ne facilite pas les spéculations des choses que nous avons à dire sur ce sujet
 
 <!-- id: s6-19-0042 -->
 
@@ -176,9 +176,9 @@ Il est bien clair que nous devons distinguer…
 
 <!-- id: s6-19-0043 -->
 
-> *la construction du totem*, établie en tant qu’elle ordonne ce qu’on peut appeler à proprement parler *un mythe*.
->
-> J’ai déjà, à l’occasion, touché ce problème : en quoi peut-être même on peut dire que la construction freudienne est peut-être ici l’exemple unique d’un mythe formé qui soit sorti dans notre âge historique
+*la construction du totem*, établie en tant qu’elle ordonne ce qu’on peut appeler à proprement parler *un mythe*.
+
+J’ai déjà, à l’occasion, touché ce problème : en quoi peut-être même on peut dire que la construction freudienne est peut-être ici l’exemple unique d’un mythe formé qui soit sorti dans notre âge historique
 
 <!-- id: s6-19-0044 -->
 
@@ -190,7 +190,7 @@ C’est là le sens du mythe d’Œdipe de FREUD, il est trop évident que ce cr
 
 <!-- id: s6-19-0046 -->
 
-> qui est pour lui exigé comme devant reparaître toujours comme formant l’horizon, la barre terminale du problème des origines en toute matière analytique, remarquons-le, car il le retrouve toujours et rien ne lui paraît épuisé qu’il ne le rejoigne à ce dernier terme
+qui est pour lui exigé comme devant reparaître toujours comme formant l’horizon, la barre terminale du problème des origines en toute matière analytique, remarquons-le, car il le retrouve toujours et rien ne lui paraît épuisé qu’il ne le rejoigne à ce dernier terme
 
 <!-- id: s6-19-0047 -->
 
@@ -350,7 +350,7 @@ Notre premier pas dans une introduction à la compréhension des élisabéthains
 
 <!-- id: s6-19-0086 -->
 
-> nous ne savons plus articuler ces mots qui sont en jeu au centre de ce qui est le vécu du sujet
+nous ne savons plus articuler ces mots qui sont en jeu au centre de ce qui est le vécu du sujet
 
 <!-- id: s6-19-0087 -->
 
@@ -374,7 +374,7 @@ C’est à savoir comment ceci vient à être dans l’inconscient et comment il
 
 <!-- id: s6-19-0092 -->
 
-> source des points de construction chez l’être humain de tout son monde objectif
+source des points de construction chez l’être humain de tout son monde objectif
 
 <!-- id: s6-19-0093 -->
 
@@ -414,7 +414,7 @@ C’est en tant que cette « *chose* »…
 
 <!-- id: s6-19-0102 -->
 
-> car je laisse l’interrogation sur la qualification, et nous allons voir ce que cela doit être pour nous
+car je laisse l’interrogation sur la qualification, et nous allons voir ce que cela doit être pour nous
 
 <!-- id: s6-19-0103 -->
 
@@ -466,9 +466,9 @@ C’est ici alors, peut-être…
 
 <!-- id: s6-19-0115 -->
 
-> en faisant le rapprochement, la synthèse avec ce qui nous a été donné
->
-> dans l’œuvre freudienne concernant le mécanisme du deuil
+en faisant le rapprochement, la synthèse avec ce qui nous a été donné
+
+dans l’œuvre freudienne concernant le mécanisme du deuil
 
 <!-- id: s6-19-0116 -->
 
@@ -500,7 +500,7 @@ Il va laisser sombrer tout cela en raison - nous dit FREUD - de quelque chose qu
 
 <!-- id: s6-19-0123 -->
 
-> *comme tel déjà si énigmatiquement introduit là dès l’origine, et pourtant d’une façon si claire à travers toute l’expérience*
+*comme tel déjà si énigmatiquement introduit là dès l’origine, et pourtant d’une façon si claire à travers toute l’expérience*
 
 <!-- id: s6-19-0124 -->
 
@@ -516,7 +516,7 @@ Eh bien, *traduit dans notre discours*, dans nos références, « *narcissique* 
 
 <!-- id: s6-19-0127 -->
 
-> et ici rien ne peut satisfaire, puisque la perte du *phallus* éprouvée comme telle est l’issue même du tour fait de tout le rapport du sujet à ce qui se passe *au lieu de l’Autre*, c’est-à-dire *au champ organisé du rapport symbolique* dans lequel a commencé de s’exprimer son exigence d’amour
+et ici rien ne peut satisfaire, puisque la perte du *phallus* éprouvée comme telle est l’issue même du tour fait de tout le rapport du sujet à ce qui se passe *au lieu de l’Autre*, c’est-à-dire *au champ organisé du rapport symbolique* dans lequel a commencé de s’exprimer son exigence d’amour
 
 <!-- id: s6-19-0128 -->
 
@@ -626,7 +626,7 @@ C’est l’objet qui soutient le sujet dans cette position privilégiée qu’i
 
 <!-- id: s6-19-0152 -->
 
-> parce qu’il est devenu pour nous maintenant exigible que nous ayons une juste définition de l’objet, tout au moins que nous fassions cette expérience à partir d’une définition que nous avons cru juste de cet objet
+parce qu’il est devenu pour nous maintenant exigible que nous ayons une juste définition de l’objet, tout au moins que nous fassions cette expérience à partir d’une définition que nous avons cru juste de cet objet
 
 <!-- id: s6-19-0153 -->
 
@@ -714,7 +714,7 @@ La manifestation tout à fait énigmatique du *signifiant de la puissance* comme
 
 <!-- id: s6-19-0174 -->
 
-> quand ceci se présente sous la forme particulièrement saisissante dans le réel, comme c’est dans HAMLET, celui du criminel et de l’usurpateur installé comme tel
+quand ceci se présente sous la forme particulièrement saisissante dans le réel, comme c’est dans HAMLET, celui du criminel et de l’usurpateur installé comme tel
 
 <!-- id: s6-19-0175 -->
 
@@ -778,7 +778,7 @@ Quelque part dans un de ses sonnets dont on n’imagine pas l’audace…
 
 <!-- id: s6-19-0190 -->
 
-> je suis étonné qu’on puisse parler à ce propos d’ambiguïté
+je suis étonné qu’on puisse parler à ce propos d’ambiguïté
 
 <!-- id: s6-19-0191 -->
 
@@ -798,7 +798,7 @@ Si nous nous introduisons dans ce chemin des *Sonnets* qui va nous permettre de 
 
 <!-- id: s6-19-0195 -->
 
-> un temps qui ne saurait subsister que dans l’éclair d’un instant
+un temps qui ne saurait subsister que dans l’éclair d’un instant
 
 <!-- id: s6-19-0196 -->
 

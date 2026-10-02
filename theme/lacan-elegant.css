@@ -16,7 +16,6 @@
   --lacan-headline: #000000;
   --lacan-comment: #121212;
   --lacan-editorial-surface: #f0f0f0;
-  --lacan-error: #a33a3a;
   --lacan-overlay: rgb(0 0 0 / 42%);
   --lacan-shadow: 0 12px 36px rgb(0 0 0 / 12%);
   --lacan-elegant-serif: Georgia, "Times New Roman", "Songti SC", "STSong", "SimSun", serif;
@@ -40,7 +39,6 @@ html.coal, html.navy, html.ayu {
   --lacan-headline: #f5f5f5;
   --lacan-comment: #ededed;
   --lacan-editorial-surface: #272727;
-  --lacan-error: #f0aaa0;
   --lacan-overlay: rgb(0 0 0 / 72%);
   --lacan-shadow: 0 12px 36px rgb(0 0 0 / 32%);
   --lacan-color-scheme: dark;
@@ -92,7 +90,7 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 /* The library spine stays visible independently of the long chapter list. */
 .sidebar { border-right: 1px solid var(--lacan-elegant-border); }
 .sidebar, .menu-bar, .theme-popup, .reading-controls,
-.lacan-nav-dialog, .lacan-ai-panel, .lacan-ai-settings {
+.lacan-nav-dialog {
   font-family: var(--lacan-elegant-sans);
 }
 .lacan-sidebar-brand { padding: 30px 24px 0; }
@@ -273,44 +271,6 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 .lacan-nav-result-title { font-size: 15px; font-weight: 500; }
 .lacan-nav-result-meta { font-size: 12px; }
 
-/* The existing assistant shares the reading palette. */
-.lacan-ai-launcher { right: 20px; bottom: 20px; width: 46px; height: 46px; border: 1px solid var(--lacan-elegant-strong-border); background: var(--links); color: var(--lacan-on-accent); font: 13px var(--lacan-elegant-sans); box-shadow: var(--lacan-shadow); }
-.lacan-ai-panel { border-color: var(--lacan-elegant-border); box-shadow: var(--lacan-shadow); }
-.lacan-ai-header, .lacan-ai-output-toolbar { border-color: var(--lacan-elegant-border); }
-.lacan-ai-primary { border-color: var(--links); background: var(--links); color: var(--lacan-on-accent); }
-.lacan-ai-input, .lacan-ai-secondary, .lacan-ai-close, .lacan-ai-open-card, .lacan-ai-copy { border-color: var(--lacan-elegant-strong-border); }
-.lacan-ai-result, .lacan-ai-selected, .lacan-ai-output-shell, .lacan-ai-diagnostics, .lacan-ai-copy { border-color: var(--lacan-elegant-border); background: var(--lacan-elegant-soft); }
-.lacan-ai-result[aria-selected="true"] { border-color: var(--links); background: var(--lacan-accent-soft); box-shadow: inset 3px 0 var(--links); }
-.lacan-ai-result:hover, .lacan-ai-copy:hover:not(:disabled) { border-color: var(--links); background: var(--lacan-accent-soft); }
-.lacan-ai-settings-notice { border-color: var(--links); background: var(--lacan-elegant-soft); }
-.lacan-ai-resizer::before, .lacan-ai-resizer:hover::before, .lacan-ai-panel[data-resizing="true"] .lacan-ai-resizer::before { color: var(--links); }
-.lacan-ai-panel { display: flex; flex-direction: column; height: 100dvh; font-size: 14px; }
-.lacan-ai-header { flex-shrink: 0; padding: 16px 20px; }
-.lacan-ai-header h2 { font-size: 17px; }
-.lacan-ai-body { flex: 1; min-height: 0; height: auto; padding: 20px 20px 76px; }
-.lacan-ai-body h3 { margin: 20px 0 10px; font-size: 14px; }
-.lacan-ai-function-help, .lacan-ai-selection-summary { padding: 12px 14px; border-color: var(--lacan-elegant-border); background: var(--lacan-elegant-soft); }
-.lacan-ai-function-help { border-left-color: var(--links); }
-.lacan-ai-selection-summary { box-shadow: inset 3px 0 var(--links); }
-.lacan-ai-selection-summary strong, .lacan-ai-output-label,
-.lacan-ai-result-meta, .lacan-ai-result-tags, .lacan-ai-selected-meta,
-.lacan-ai-selected p, .lacan-ai-copy, .lacan-ai-copy-feedback { font-size: 12px; }
-.lacan-ai-primary, .lacan-ai-secondary, .lacan-ai-close, .lacan-ai-danger { min-height: 34px; padding: 7px 12px; }
-.lacan-ai-question { min-height: 100px; }
-.lacan-ai-knowledge-workspace { border-color: var(--lacan-elegant-border); }
-.lacan-ai-output a { color: var(--links); }
-.lacan-ai-output blockquote { border-color: var(--links); }
-.lacan-ai-output hr, .lacan-ai-output pre, .lacan-ai-output th, .lacan-ai-output td { border-color: var(--lacan-elegant-border); }
-.lacan-ai-output code, .lacan-ai-output th, .lacan-ai-output pre { background: var(--lacan-elegant-soft); }
-.lacan-ai-status[data-kind="error"], .lacan-ai-output[data-kind="error"], .lacan-ai-copy-feedback[data-kind="error"], .lacan-ai-danger { color: var(--lacan-error); border-color: var(--lacan-error); }
-.lacan-ai-launcher:focus-visible, .lacan-ai-result:focus-visible, .lacan-ai-copy:focus-visible, .lacan-ai-resizer:focus-visible { outline-color: var(--links); }
-.lacan-ai-settings-overlay { background: var(--lacan-overlay); padding: 16px; }
-.lacan-ai-settings { padding: 24px; border: 1px solid var(--lacan-elegant-border); border-radius: 6px; box-shadow: var(--lacan-shadow); font-size: 14px; }
-.lacan-ai-settings h2 { font: 24px var(--lacan-elegant-serif); }
-.lacan-ai-label { margin: 18px 0 8px; font-size: 13px; }
-.lacan-ai-check { margin-top: 16px; font-size: 13px; }
-.lacan-ai-settings-notice, .lacan-ai-settings-message { font-size: 12px; line-height: 1.7; }
-
 @media (max-width: 1100px) {
   :root { --page-padding: 20px; }
   .content main { padding: 40px 20px; }
@@ -348,7 +308,6 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
   .lacan-nav-help, .lacan-nav-status { padding-right: 16px; padding-left: 16px; }
   .lacan-nav-results { max-height: calc(100dvh - 270px); }
   .lacan-nav-result-link { padding: 14px 16px; }
-  .lacan-ai-launcher { right: 14px; bottom: 14px; width: 42px; height: 42px; }
 }
 @media (max-width: 380px) {
   .right-buttons { display: none; }
@@ -356,14 +315,13 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
   .reading-controls { column-gap: 8px; }
 }
 @media (prefers-reduced-motion: reduce) {
-  html.js .page-wrapper, html.js .sidebar, .chapter-fold-toggle div,
-  .lacan-ai-launcher, .lacan-ai-result { transition: none; }
+  html.js .page-wrapper, html.js .sidebar, .chapter-fold-toggle div { transition: none; }
   html { scroll-behavior: auto; }
 }
 @media print {
   html[class] { --lacan-elegant-bg: #fff; --lacan-elegant-text: #000; --lacan-elegant-muted: #444; --lacan-elegant-soft: #f5f5f5; --lacan-elegant-surface: #fff; --lacan-elegant-accent: #326891; --lacan-headline: #000; --lacan-comment: #000; --lacan-editorial-surface: #f0f0f0; --lacan-elegant-border: #ccc; --lacan-elegant-strong-border: #999; --lacan-color-scheme: light; }
   .reading-controls, .lacan-sidebar-brand, .lacan-home-actions, .nav-wrapper,
-  .lacan-ai-launcher, .lacan-ai-panel, .lacan-ai-settings-overlay, .lacan-nav-overlay { display: none !important; }
+  .lacan-nav-overlay { display: none !important; }
   #mdbook-page-wrapper.page-wrapper { margin-inline-end: 0; }
   .content main { max-width: none; min-height: 0; padding: 0; font-size: 12pt; }
   .content main .parallel-paragraph { break-inside: auto; }

@@ -155,7 +155,11 @@ au niveau de la chaîne de l’énoncé…
 
 <!-- id: s11-11-0030 -->
 
-> « *Dans ce « je te trompe », ce que tu envoies comme message, c’est ce que moi je t’exprime. Ce faisant, tu dis la vérité.* »
+<div class="text-quotation">
+
+« *Dans ce « je te trompe », ce que tu envoies comme message, c’est ce que moi je t’exprime. Ce faisant, tu dis la vérité.* »
+
+</div>
 
 <!-- id: s11-11-0031 -->
 
@@ -281,9 +285,9 @@ Car ce que j’ai appelé « *isolat psychologique* », loin d’être la vieill
 
 <!-- id: s11-11-0056 -->
 
-> car la *« monade leibnizienne »* par exemple, n’est point isolée, elle est centre de connaissance, elle est ce qui dans le cos­mos est ce centre d’où quelque chose que nous appellerons - selon les inflexions - contemplation ou harmonie, viendra à s’exercer, elle n’est point séparable d’une *cosmologie*
-> ...l’« *isolat psychologique* » institué dans le concept du *moi* , tel qu’il vient par une déviation - déviation qui je pense, n’est qu’un détour -
-> dans la pensée psychanalytique, vient à jouer comme sujet, si l’on peut dire « *en détresse* » *dans le rapport à une réa­lité*, dont il va s’agir pour l’instant, pour nous, de repérer comment même elle est conçue dans l’analyse, est quelque chose qu’il convient aussi ici de situer pour en voir, par rapport à ce que l’analyse effective­ment profile à son horizon comme ouverture, pour en voir le paradoxe.
+car la *« monade leibnizienne »* par exemple, n’est point isolée, elle est centre de connaissance, elle est ce qui dans le cos­mos est ce centre d’où quelque chose que nous appellerons - selon les inflexions - contemplation ou harmonie, viendra à s’exercer, elle n’est point séparable d’une *cosmologie*
+...l’« *isolat psychologique* » institué dans le concept du *moi* , tel qu’il vient par une déviation - déviation qui je pense, n’est qu’un détour -
+dans la pensée psychanalytique, vient à jouer comme sujet, si l’on peut dire « *en détresse* » *dans le rapport à une réa­lité*, dont il va s’agir pour l’instant, pour nous, de repérer comment même elle est conçue dans l’analyse, est quelque chose qu’il convient aussi ici de situer pour en voir, par rapport à ce que l’analyse effective­ment profile à son horizon comme ouverture, pour en voir le paradoxe.
 
 <!-- id: s11-11-0057 -->
 
@@ -333,9 +337,9 @@ Je vais ici représenter au tableau quelque chose, un schéma, qui nous permette
 
 <!-- id: s11-11-0066 -->
 
-> mais si c’est *répétition* par rapport à quelque chose de toujours manqué, vous voyez bien d’ores et déjà *que le trans­fert ne saurait être par lui-même*, tel qu’on nous le représente comme *mode d’accès à ce qui se cache, à ce qui est occulté dans l’inconscient,*
->
-> *qu’une voie précaire *:
+mais si c’est *répétition* par rapport à quelque chose de toujours manqué, vous voyez bien d’ores et déjà *que le trans­fert ne saurait être par lui-même*, tel qu’on nous le représente comme *mode d’accès à ce qui se cache, à ce qui est occulté dans l’inconscient,*
+
+*qu’une voie précaire *:
 
 <!-- id: s11-11-0067 -->
 
@@ -449,7 +453,7 @@ la prochaine fois à repartir, pour y remettre les assises grâce à quoi une co
 
 <!-- id: s11-11-0089 -->
 
-> *Discussion*
+*Discussion*
 
 <!-- id: s11-11-0090 -->
 

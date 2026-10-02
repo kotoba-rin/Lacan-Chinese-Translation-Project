@@ -6,7 +6,11 @@
 
 <!-- id: s15-14-0001 -->
 
-> « *Tout homme est un animal, sauf à ce qu’il se n’homme* ».
+<div class="text-quotation">
+
+« *Tout homme est un animal, sauf à ce qu’il se n’homme* ».
+
+</div>
 
 <!-- id: s15-14-0002 -->
 
@@ -26,7 +30,7 @@ Supposez par exemple que mon enseignement, à savoir ce qui peut passer pour êt
 
 <!-- id: s15-14-0006 -->
 
-> comme c’est arrivé déjà à beaucoup de gens et d’une autre ampleur que moi …aucune suite. Il restera des petites choses comme ça. Alors là-dessus, il se produit quelque chose.
+comme c’est arrivé déjà à beaucoup de gens et d’une autre ampleur que moi …aucune suite. Il restera des petites choses comme ça. Alors là-dessus, il se produit quelque chose.
 
 <!-- id: s15-14-0007 -->
 
@@ -42,7 +46,7 @@ Il y en a déjà qui s’emploient, par exemple…
 
 <!-- id: s15-14-0010 -->
 
-> *sans attendre ni que je sois mort, ni qu’on ait vu le résultat des choses que j’ai, au cours de ces années, énoncées devant vous* …à doser à quel moment, dans ce qui constitue ce que j’ai rassemblé comme j’ai pu, avec un balai, sous le titre d’*Écrits*, je commence à parler vraiment de linguistique, à quel moment et jusqu’à quand ce que je dis recouvre ce qu’a dit JAKOBSON. Vous allez voir, ça va se développer.
+*sans attendre ni que je sois mort, ni qu’on ait vu le résultat des choses que j’ai, au cours de ces années, énoncées devant vous* …à doser à quel moment, dans ce qui constitue ce que j’ai rassemblé comme j’ai pu, avec un balai, sous le titre d’*Écrits*, je commence à parler vraiment de linguistique, à quel moment et jusqu’à quand ce que je dis recouvre ce qu’a dit JAKOBSON. Vous allez voir, ça va se développer.
 
 <!-- id: s15-14-0011 -->
 
@@ -78,11 +82,11 @@ Le fait que je parle de *l’acte psychanalytique*…
 
 <!-- id: s15-14-0019 -->
 
-> qui est ce dont en somme j’espère que puisse faire un pas ce qui s’appelle la qualification du *psychanalyste* …que *l’acte psychanalytique*, je sois amené à en parler devant un public qui n’est qu’en partie concerné comme celui-ci, c’est là quelque chose qui en soi soulève un problème, problème qui d’ailleurs n’est pas du tout insoluble puisque, en somme, je tiens une fois de plus à marquer ce qui justifie, non pas ce qui conditionne…
+qui est ce dont en somme j’espère que puisse faire un pas ce qui s’appelle la qualification du *psychanalyste* …que *l’acte psychanalytique*, je sois amené à en parler devant un public qui n’est qu’en partie concerné comme celui-ci, c’est là quelque chose qui en soi soulève un problème, problème qui d’ailleurs n’est pas du tout insoluble puisque, en somme, je tiens une fois de plus à marquer ce qui justifie, non pas ce qui conditionne…
 
 <!-- id: s15-14-0020 -->
 
-> ce qui conditionne c’est une série d’effets de position sur lesquels justement, à l’intérieur de notre discours d’aujourd’hui, ce que nous pourrons pousser en avant va nous permettre peut-être de préciser quelque chose …mais enfin quel que soit le conditionnement, ce qui justifie que quand on parle de l’acte devant un public plus large que celui qu’il intéresse, à savoir proprement les psychanalystes, c’est évidemment ceci : c’est que *l’acte psychanalytique* a une particularité.
+ce qui conditionne c’est une série d’effets de position sur lesquels justement, à l’intérieur de notre discours d’aujourd’hui, ce que nous pourrons pousser en avant va nous permettre peut-être de préciser quelque chose …mais enfin quel que soit le conditionnement, ce qui justifie que quand on parle de l’acte devant un public plus large que celui qu’il intéresse, à savoir proprement les psychanalystes, c’est évidemment ceci : c’est que *l’acte psychanalytique* a une particularité.
 
 <!-- id: s15-14-0021 -->
 
@@ -130,7 +134,7 @@ Là-dessus, naturellement, j’ai tout de même essayé de donner quelques défi
 
 <!-- id: s15-14-0032 -->
 
-> c’est bien de là que nous sommes partis quand nous avons commencé à balbutier autour …un fait de signifiant par où prend place le retour de l’effet dit « *effet de sujet* » qui se produit de la parole, dans le langage bien sûr, retour de cet « *effet de sujet* » en tant qu’il est radicalement divisant.
+c’est bien de là que nous sommes partis quand nous avons commencé à balbutier autour …un fait de signifiant par où prend place le retour de l’effet dit « *effet de sujet* » qui se produit de la parole, dans le langage bien sûr, retour de cet « *effet de sujet* » en tant qu’il est radicalement divisant.
 
 <!-- id: s15-14-0033 -->
 
@@ -138,13 +142,13 @@ C’est là la nouveauté apportée comme un défi par la découverte psychanaly
 
 <!-- id: s15-14-0034 -->
 
-> de par l’action de l’autre qui l’a guidé dans sa psychanalyse,
->
-> d’une psychanalyse dont l’acte a permis à la tâche de s’accomplir …rien n’explique que ce saut…
+de par l’action de l’autre qui l’a guidé dans sa psychanalyse,
+
+d’une psychanalyse dont l’acte a permis à la tâche de s’accomplir …rien n’explique que ce saut…
 
 <!-- id: s15-14-0035 -->
 
-> par quoi cet acte qui a permis la tâche réalisatrice, la tâche psychanalysante …*le psychanalysant* si l’on peut dire, *en assume quoi* ? Le programme.
+par quoi cet acte qui a permis la tâche réalisatrice, la tâche psychanalysante …*le psychanalysant* si l’on peut dire, *en assume quoi* ? Le programme.
 
 <!-- id: s15-14-0036 -->
 
@@ -152,7 +156,7 @@ Au regard de l’acte…
 
 <!-- id: s15-14-0037 -->
 
-> c’est une petite parenthèse réflexive que je ferai là au début et qui est importante, qui se rapporte d’ailleurs aux mots par quoi j’ai commencé concernant l’avenir de toute pensée …toute pensée ordonnée se situe *dans un bivium* ou *à partir d’un bivium* qui de nos jours est particulièrement clair : ou bien elle rejette cet effet de sujet dont je parle, en le nouant une fois de plus à lui-même dans un moment qui se veut *originel*, c’est le sens qu’a eu historiquement le *cogito*, le *cogito* en est le modèle, et le modèle honnête si l’on peut dire : il est honnête parce qu’il se pose lui-même comme origine.
+c’est une petite parenthèse réflexive que je ferai là au début et qui est importante, qui se rapporte d’ailleurs aux mots par quoi j’ai commencé concernant l’avenir de toute pensée …toute pensée ordonnée se situe *dans un bivium* ou *à partir d’un bivium* qui de nos jours est particulièrement clair : ou bien elle rejette cet effet de sujet dont je parle, en le nouant une fois de plus à lui-même dans un moment qui se veut *originel*, c’est le sens qu’a eu historiquement le *cogito*, le *cogito* en est le modèle, et le modèle honnête si l’on peut dire : il est honnête parce qu’il se pose lui-même comme origine.
 
 <!-- id: s15-14-0038 -->
 
@@ -204,9 +208,9 @@ Exemple : la remarque fondamentale à une doctrine qu’il est facile, je pense,
 
 <!-- id: s15-14-0050 -->
 
-> pas besoin d’ajouter « *de l’homme par l’homme* » parce que nous avons vu qu’il faut un peu se *méfier* de « *l’homme* »
->
-> dans l’occasion, et puis chacun sait qu’on a pu tourner cet usage à quelques mots d’esprit plaisants …ceci en raison de *l’effet de sujet* donc, qui est au fondement de cette exploitation, voilà qui a des conséquences d’acte : on appelle ça la révolution.
+pas besoin d’ajouter « *de l’homme par l’homme* » parce que nous avons vu qu’il faut un peu se *méfier* de « *l’homme* »
+
+dans l’occasion, et puis chacun sait qu’on a pu tourner cet usage à quelques mots d’esprit plaisants …ceci en raison de *l’effet de sujet* donc, qui est au fondement de cette exploitation, voilà qui a des conséquences d’acte : on appelle ça la révolution.
 
 <!-- id: s15-14-0051 -->
 
@@ -214,7 +218,7 @@ Et dans ces conséquences d’acte, la pensée a la plus grande difficulté à s
 
 <!-- id: s15-14-0052 -->
 
-> puisque c’était même, pour un certain nombre d’entre vous, commencé avant votre naissance …les difficultés qu’a eues, que continue d’avoir ce qu’on appelle l’*intelligentsia* avec l’ordre communiste.
+puisque c’était même, pour un certain nombre d’entre vous, commencé avant votre naissance …les difficultés qu’a eues, que continue d’avoir ce qu’on appelle l’*intelligentsia* avec l’ordre communiste.
 
 <!-- id: s15-14-0053 -->
 
@@ -222,11 +226,11 @@ Toute pensée donc, de cette catégorie qui touche à *l’effet de sujet*, part
 
 <!-- id: s15-14-0054 -->
 
-> les choses qui restent, comme ça, épinglées dans *les herbiers universitaires*, école stoïcienne par exemple …avait cette fin de l’acte. Ça tourne court quelquefois…
+les choses qui restent, comme ça, épinglées dans *les herbiers universitaires*, école stoïcienne par exemple …avait cette fin de l’acte. Ça tourne court quelquefois…
 
 <!-- id: s15-14-0055 -->
 
-> je veux dire que pour l’instant par exemple, dans le circuit à quoi j’ai fait allusion …*l’acte* qui de notre temps s’épingle du terme de *révolutionnaire*. L’issue n’est pas encore là.
+je veux dire que pour l’instant par exemple, dans le circuit à quoi j’ai fait allusion …*l’acte* qui de notre temps s’épingle du terme de *révolutionnaire*. L’issue n’est pas encore là.
 
 <!-- id: s15-14-0056 -->
 
@@ -254,7 +258,7 @@ C’est la vérité qui par le sujet - *quel qu’il soit et sous quelque préte
 
 <!-- id: s15-14-0062 -->
 
-> qui s’appelle en somme, et est fort nommable : l’impuissance à en savoir tout …que je suis là et que, Dieu merci, *le symptôme* qui révélait ce qui reste de masqué dans *l’effet de sujet* dont retentit un savoir, ce qu’il y a de masqué, j’en ai eu la levée, mais assurément non pas complète.
+qui s’appelle en somme, et est fort nommable : l’impuissance à en savoir tout …que je suis là et que, Dieu merci, *le symptôme* qui révélait ce qui reste de masqué dans *l’effet de sujet* dont retentit un savoir, ce qu’il y a de masqué, j’en ai eu la levée, mais assurément non pas complète.
 
 <!-- id: s15-14-0063 -->
 
@@ -270,7 +274,7 @@ C’est dans la mesure où l’existence de cet *objet(a)* s’est démontrée d
 
 <!-- id: s15-14-0066 -->
 
-> Et comment ? Mais vous le savez tous : dans l’effet de transfert ! …c’est en tant que le partenaire est celui qui s’est trouvé remplir - de la structure instituée par l’acte - la fonction… que depuis que le sujet a joué comme effet de sujet, que pris dans la demande, qu’instaurant le désir, il s’est trouvé déterminé par ces fonctions que l’analyse a épinglées comme étant celles de l’objet nourricier : *du sein*, de l’objet excrémentiel : *du scybale*, de la fonction *du regard* et de celle *de la voix* …c’est en tant que c’est autour de ces fonctions, pour autant que dans la relation analytique elles ont été distribuées à celui qui en est le partenaire, le pivot, et pour tout dire : le support, comme j’ai dit la dernière fois : l’instrument, qu’a pu se réaliser l’essence de ce qu’il en est de la fonction du S, à savoir de *l’impuissance du savoir*.
+Et comment ? Mais vous le savez tous : dans l’effet de transfert ! …c’est en tant que le partenaire est celui qui s’est trouvé remplir - de la structure instituée par l’acte - la fonction… que depuis que le sujet a joué comme effet de sujet, que pris dans la demande, qu’instaurant le désir, il s’est trouvé déterminé par ces fonctions que l’analyse a épinglées comme étant celles de l’objet nourricier : *du sein*, de l’objet excrémentiel : *du scybale*, de la fonction *du regard* et de celle *de la voix* …c’est en tant que c’est autour de ces fonctions, pour autant que dans la relation analytique elles ont été distribuées à celui qui en est le partenaire, le pivot, et pour tout dire : le support, comme j’ai dit la dernière fois : l’instrument, qu’a pu se réaliser l’essence de ce qu’il en est de la fonction du S, à savoir de *l’impuissance du savoir*.
 
 <!-- id: s15-14-0067 -->
 
@@ -286,7 +290,7 @@ Mais, tout de même, ne l’oublions pas, ne confondons pas la fiction tragique�
 
 <!-- id: s15-14-0070 -->
 
-> je veux dire le mythe d’ŒDIPE, d’ANTIGONE par exemple …avec *ce qui est vraiment une acception* - la seule d’ailleurs valable, fondée - *de la tragédie*, à savoir : *la représentation de La Chose*.
+je veux dire le mythe d’ŒDIPE, d’ANTIGONE par exemple …avec *ce qui est vraiment une acception* - la seule d’ailleurs valable, fondée - *de la tragédie*, à savoir : *la représentation de La Chose*.
 
 <!-- id: s15-14-0071 -->
 
@@ -294,7 +298,7 @@ Dans *la représentation*, nous sommes évidemment plus près de cette *schize* 
 
 <!-- id: s15-14-0072 -->
 
-> il n’y a pas besoin qu’il y en ait trente six, il n’y en a jamais qu’un seul …*le héros, c’est celui-là qui, sur la scène, n’est rien que la figure de déchet où se clôt toute tragédie* digne de ce nom.
+il n’y a pas besoin qu’il y en ait trente six, il n’y en a jamais qu’un seul …*le héros, c’est celui-là qui, sur la scène, n’est rien que la figure de déchet où se clôt toute tragédie* digne de ce nom.
 
 <!-- id: s15-14-0073 -->
 
@@ -350,9 +354,9 @@ Mais enfin, ne connaissant plus de mesure à ces opérations de rassemblement, i
 
 <!-- id: s15-14-0086 -->
 
-> si ce que FREUD a dit signifie quelque chose, c’est bien sûr qu’il y a eu la référence à ce
->
-> qu’on attendrait qui se produise de la conjonction sexuelle, à savoir une union, un « *tout* » …justement s’il y a quelque chose qui s’impose au terme de l’expérience, c’est que - au sens où je vous indique et où je le fais résonner pour vous - *le sexe n’est pas « tout »*.
+si ce que FREUD a dit signifie quelque chose, c’est bien sûr qu’il y a eu la référence à ce
+
+qu’on attendrait qui se produise de la conjonction sexuelle, à savoir une union, un « *tout* » …justement s’il y a quelque chose qui s’impose au terme de l’expérience, c’est que - au sens où je vous indique et où je le fais résonner pour vous - *le sexe n’est pas « tout »*.
 
 <!-- id: s15-14-0087 -->
 
@@ -388,15 +392,15 @@ Vous ne perdez rien à saisir ce à quoi je fais allusion quand je dis qu’enco
 
 <!-- id: s15-14-0095 -->
 
-> je veux dire ayant toute apparence *d’en exclure le sujet*,
->
-> je veux dire d’être maniable au moyen des pures et simples règles qui relèvent d’un maniement de lettres …il n’en reste pas moins que, si vous comparez l’usage de cette logique des quantificateurs avec tel ou tel autre secteur, segment de *la logique*, tels qu’ils se définissent en divers termes, vous vous apercevrez qu’il est singulier, qu’alors que pour tous les autres appareils logiques, vous pouvez donner toujours un certain nombre d’interprétations…
+je veux dire ayant toute apparence *d’en exclure le sujet*,
+
+je veux dire d’être maniable au moyen des pures et simples règles qui relèvent d’un maniement de lettres …il n’en reste pas moins que, si vous comparez l’usage de cette logique des quantificateurs avec tel ou tel autre secteur, segment de *la logique*, tels qu’ils se définissent en divers termes, vous vous apercevrez qu’il est singulier, qu’alors que pour tous les autres appareils logiques, vous pouvez donner toujours un certain nombre d’interprétations…
 
 <!-- id: s15-14-0096 -->
 
-> géométrique par exemple, économique, conceptuelle, je veux dire que chacun de ces maniements des appareils
->
-> logiques est tout à fait plurivalent quant à l’interprétation …il est tout à fait saisissant, au contraire, de voir que quelle que soit la rigueur à laquelle on a pu en fin de compte arriver à pousser la logique des quantificateurs, jamais vous n’arriverez à en soustraire ce *quelque chose* qui s’inscrit dans la structure grammaticale, je veux dire dans le langage ordinaire, et qui fait intervenir ces fonctions du « *tout* » et du « *quelque *».
+géométrique par exemple, économique, conceptuelle, je veux dire que chacun de ces maniements des appareils
+
+logiques est tout à fait plurivalent quant à l’interprétation …il est tout à fait saisissant, au contraire, de voir que quelle que soit la rigueur à laquelle on a pu en fin de compte arriver à pousser la logique des quantificateurs, jamais vous n’arriverez à en soustraire ce *quelque chose* qui s’inscrit dans la structure grammaticale, je veux dire dans le langage ordinaire, et qui fait intervenir ces fonctions du « *tout* » et du « *quelque *».
 
 <!-- id: s15-14-0097 -->
 
@@ -428,7 +432,7 @@ Mais ce privilège de la fonction des quantificateurs en tant qu’elle nous int
 
 <!-- id: s15-14-0104 -->
 
-> je soulève - appelons ça provisoirement *l’hypothèse* …cette impasse, en tant qu’elle est – remarquez-le - *une impasse féconde*, car si nous avions le moindre espoir que tout peut être soumis à *un algorithme universel*, qu’en tout nous pouvons trancher sur la question de savoir si une proposition est vraie ou fausse, *c’est ça qui serait plutôt une fermeture* ...l’hypothèse que je soulève tient en ceci que ce privilège de la fonction de la quantification tient à ce qu’il en est de l’essence du « *tout* » et de sa relation à la présence de *l’objet(a)*.
+je soulève - appelons ça provisoirement *l’hypothèse* …cette impasse, en tant qu’elle est – remarquez-le - *une impasse féconde*, car si nous avions le moindre espoir que tout peut être soumis à *un algorithme universel*, qu’en tout nous pouvons trancher sur la question de savoir si une proposition est vraie ou fausse, *c’est ça qui serait plutôt une fermeture* ...l’hypothèse que je soulève tient en ceci que ce privilège de la fonction de la quantification tient à ce qu’il en est de l’essence du « *tout* » et de sa relation à la présence de *l’objet(a)*.
 
 <!-- id: s15-14-0105 -->
 
@@ -484,7 +488,7 @@ C’est très précisément ce que, dans cet article recueilli dans mes *Écrits
 
 <!-- id: s15-14-0116 -->
 
-> puisqu’il me plaît assez de jouer avec le mot *homme* …*« l’hommelette »*, et qui n’est autre que *l’objet(a)*.
+puisqu’il me plaît assez de jouer avec le mot *homme* …*« l’hommelette »*, et qui n’est autre que *l’objet(a)*.
 
 <!-- id: s15-14-0117 -->
 
@@ -496,9 +500,9 @@ Pour ce qu’il en est de la qualification, il y a bien longtemps que, pour tout
 
 <!-- id: s15-14-0119 -->
 
-> je dis « pratique » parce que ce n’est pas dire du tout, parce que nous faisons prévaloir l’acte,
->
-> que nous en repoussons la référence …tout praticien suppose un certain savoir, si nous voulons nous avancer dans ce qu’il en est de l’ἐπιστήμη \[epistèmé\]. tout savoir de charpente, voilà qui, pour nous, définira le charpentier.
+je dis « pratique » parce que ce n’est pas dire du tout, parce que nous faisons prévaloir l’acte,
+
+que nous en repoussons la référence …tout praticien suppose un certain savoir, si nous voulons nous avancer dans ce qu’il en est de l’ἐπιστήμη \[epistèmé\]. tout savoir de charpente, voilà qui, pour nous, définira le charpentier.
 
 <!-- id: s15-14-0120 -->
 
@@ -584,9 +588,9 @@ Mais si j’ai fait référence à son propos à *des statuts*, quels qu’ils s
 
 <!-- id: s15-14-0140 -->
 
-> tels qu’ils sont pour nous évoqués depuis l’Antiquité, de la réflexion sur la science,
->
-> mais aussi bien encore présents dans un certain nombre de champs …est-ce que pour lui n’est pas *de quelque ressort, de quelque valeur ce qui*, à la lumière sans doute et seulement de la psychanalyse, *peut être défini dans telle fonction de pratique comme « évidant »*, comme mettant en valeur *la présence de l’objet(a) *?
+tels qu’ils sont pour nous évoqués depuis l’Antiquité, de la réflexion sur la science,
+
+mais aussi bien encore présents dans un certain nombre de champs …est-ce que pour lui n’est pas *de quelque ressort, de quelque valeur ce qui*, à la lumière sans doute et seulement de la psychanalyse, *peut être défini dans telle fonction de pratique comme « évidant »*, comme mettant en valeur *la présence de l’objet(a) *?
 
 <!-- id: s15-14-0141 -->
 
@@ -598,7 +602,7 @@ Il semble que ce soit là *théorie*, opération qui n’intéresse que l’arch
 
 <!-- id: s15-14-0143 -->
 
-> ne l’eût-il pas isolé lui-même depuis toujours, je veux dire depuis le temps où nous ne savons pas trop comment justifier *l’idéal* qui dirigeait par exemple ce qui nous est légué *des grammatismes* d’un VITRUVE[^112] …que ce dont il s’agit, ce qui domine ce que nous aurions tout à fait tort, vu la présence des idéaux, de réduire à une fonction utilitaire, de bâtisse par exemple.
+ne l’eût-il pas isolé lui-même depuis toujours, je veux dire depuis le temps où nous ne savons pas trop comment justifier *l’idéal* qui dirigeait par exemple ce qui nous est légué *des grammatismes* d’un VITRUVE[^112] …que ce dont il s’agit, ce qui domine ce que nous aurions tout à fait tort, vu la présence des idéaux, de réduire à une fonction utilitaire, de bâtisse par exemple.
 
 <!-- id: s15-14-0144 -->
 
@@ -610,7 +614,7 @@ Et cette mise en question de ce qui est le domaine même de la vision en tant qu
 
 <!-- id: s15-14-0146 -->
 
-> entre tous les autres et parce qu’il est le plus négligé de la fonction psychanalytique …la fonction de *l’objet(a)* qui s’appelle *le regard*.
+entre tous les autres et parce qu’il est le plus négligé de la fonction psychanalytique …la fonction de *l’objet(a)* qui s’appelle *le regard*.
 
 <!-- id: s15-14-0147 -->
 
@@ -642,7 +646,7 @@ Assurément ce n’est là qu’une indication, mais une indication donnée, *co
 
 <!-- id: s15-14-0154 -->
 
-> je veux dire dans l’opération située dans les quatre murs du cabinet où elle s’exerce …*tout est mis en jeu de l’objet(a)*, c’est *avec une très singulière réserve*, et qui n’est pas de hasard, *concernant ce qu’il en est du regard.*
+je veux dire dans l’opération située dans les quatre murs du cabinet où elle s’exerce …*tout est mis en jeu de l’objet(a)*, c’est *avec une très singulière réserve*, et qui n’est pas de hasard, *concernant ce qu’il en est du regard.*
 
 <!-- id: s15-14-0155 -->
 

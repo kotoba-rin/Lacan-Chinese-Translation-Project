@@ -98,7 +98,7 @@ Alors « *troubles de la mémoire* », c’est de là qu’il faut tout de mê
 
 <!-- id: s3-09-0024 -->
 
-> la localisation mnésique des événements, autrement dit *chronologique*, de restituer une part du temps perdu, mais qu’il y a aussi des choses qui se passent sur le plan topique, c’est-à-dire que la distinction de registres complètement différents dans la régression est là implicite.
+la localisation mnésique des événements, autrement dit *chronologique*, de restituer une part du temps perdu, mais qu’il y a aussi des choses qui se passent sur le plan topique, c’est-à-dire que la distinction de registres complètement différents dans la régression est là implicite.
 
 <!-- id: s3-09-0025 -->
 
@@ -118,7 +118,7 @@ Il y a un transfert de plan, le retrait de la libido des objets représente une 
 
 <!-- id: s3-09-0029 -->
 
-> c’est tout au moins ce qu’on lit dans certains passages de FREUD, d’une façon loin d’être aussi sommaire qu’on se la représente, et qu’on la traduit, tout d’abord
+c’est tout au moins ce qu’on lit dans certains passages de FREUD, d’une façon loin d’être aussi sommaire qu’on se la représente, et qu’on la traduit, tout d’abord
 
 <!-- id: s3-09-0030 -->
 
@@ -138,7 +138,7 @@ C’est cela le problème économique qui reste ouvert au moment où FREUD termi
 
 <!-- id: s3-09-0034 -->
 
-> *Le refoulé dans la névrose reparaît in loco sous un masque,*
+*Le refoulé dans la névrose reparaît in loco sous un masque,*
 
 <!-- id: s3-09-0035 -->
 
@@ -250,7 +250,7 @@ L’apparition aussi de ce qu’il appelle « *les rayons purs* », c’est-à
 
 <!-- id: s3-09-0062 -->
 
-> de transformations corporelles, déjà des émasculations sont apparues dans la première période,
+de transformations corporelles, déjà des émasculations sont apparues dans la première période,
 
 <!-- id: s3-09-0063 -->
 
@@ -290,7 +290,7 @@ Qu’ils *parlent*, qu’ils soient essentiellement *parlants*…
 
 <!-- id: s3-09-0072 -->
 
-> qu’il y ait une équivalence entre rayons, rayons parlants, nerfs de Dieu, et toutes les formes particulières qu’ils peuvent prendre, jusques et y compris les formes diversement miraculées sur lesquelles nous reviendrons tout à l’heure, nommément *les oiseaux*
+qu’il y ait une équivalence entre rayons, rayons parlants, nerfs de Dieu, et toutes les formes particulières qu’ils peuvent prendre, jusques et y compris les formes diversement miraculées sur lesquelles nous reviendrons tout à l’heure, nommément *les oiseaux*
 
 <!-- id: s3-09-0073 -->
 
@@ -330,7 +330,7 @@ Alors il est assez légitime…
 
 <!-- id: s3-09-0082 -->
 
-> pour un texte qui en somme n’a pas été rédigé plus haut que 1898, et qui s’étale, quant à la rédaction, jusqu’à l’époque de sa libération puisqu’il comprend la procédure de cette libération, c’est-à-dire en 1903
+pour un texte qui en somme n’a pas été rédigé plus haut que 1898, et qui s’étale, quant à la rédaction, jusqu’à l’époque de sa libération puisqu’il comprend la procédure de cette libération, c’est-à-dire en 1903
 
 <!-- id: s3-09-0083 -->
 
@@ -386,7 +386,7 @@ Car nous ne le voyons bien la façon dont les malades réagissent : ce n’est 
 
 <!-- id: s3-09-0096 -->
 
-> comme on dit au sens où on croit qu’entendre c’est entendre avec les oreilles
+comme on dit au sens où on croit qu’entendre c’est entendre avec les oreilles
 
 <!-- id: s3-09-0097 -->
 
@@ -434,7 +434,7 @@ Quand FREUD formule le terme de « *pensée inconsciente* »…
 
 <!-- id: s3-09-0108 -->
 
-> en ajoutant dans sa *Traumdeutung* « *sit venia verbo* » pour que l’excuse soit en contradiction de la parole
+en ajoutant dans sa *Traumdeutung* « *sit venia verbo* » pour que l’excuse soit en contradiction de la parole
 
 <!-- id: s3-09-0109 -->
 
@@ -442,9 +442,9 @@ Quand FREUD formule le terme de « *pensée inconsciente* »…
 
 <!-- id: s3-09-0110 -->
 
-> ne me faites pas dire ce que je ne dis pas, c’est pour vous faire comprendre
->
-> comme je l’entends, car justement le terme d’*intérieur* fausse déjà tout
+ne me faites pas dire ce que je ne dis pas, c’est pour vous faire comprendre
+
+comme je l’entends, car justement le terme d’*intérieur* fausse déjà tout
 
 <!-- id: s3-09-0111 -->
 
@@ -456,9 +456,9 @@ Mais quand même il y a quelque chose de cet ordre-là, c’est-à-dire de conti
 
 <!-- id: s3-09-0113 -->
 
-> là aussi il faut commencer à dire ce qu’on veut dire,
->
-> aller dans le sens où on va et en même temps savoir le corriger
+là aussi il faut commencer à dire ce qu’on veut dire,
+
+aller dans le sens où on va et en même temps savoir le corriger
 
 <!-- id: s3-09-0114 -->
 
@@ -506,9 +506,13 @@ Dans une phrase interrompue comme telle toujours finement articulée grammatical
 
 <!-- id: s3-09-0125 -->
 
-> « *Oui, c’est très bien, mais croyez-vous que c’est une chose un peu plus forte, acquise d’emblée, qu’une phrase,*
->
-> *même si nous la supposons complète, s’exprime comme ceci :* « *Il me manque la pensée principale*... » ?
+<div class="text-quotation">
+
+« *Oui, c’est très bien, mais croyez-vous que c’est une chose un peu plus forte, acquise d’emblée, qu’une phrase,*
+
+*même si nous la supposons complète, s’exprime comme ceci :* « *Il me manque la pensée principale*... » ?
+
+</div>
 
 <!-- id: s3-09-0126 -->
 
@@ -588,7 +592,7 @@ Cela nous apprend beaucoup sur la conception que pouvaient se faire les anciens 
 
 <!-- id: s3-09-0145 -->
 
-> d’un comportement aux dépens des autres,
+d’un comportement aux dépens des autres,
 
 <!-- id: s3-09-0146 -->
 
@@ -596,7 +600,7 @@ Cela nous apprend beaucoup sur la conception que pouvaient se faire les anciens 
 
 <!-- id: s3-09-0147 -->
 
-> à proprement parler déplacement méthodique dans le mécanisme de la névrose.
+à proprement parler déplacement méthodique dans le mécanisme de la névrose.
 
 <!-- id: s3-09-0148 -->
 

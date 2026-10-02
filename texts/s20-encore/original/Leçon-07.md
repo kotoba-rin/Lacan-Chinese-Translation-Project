@@ -22,7 +22,7 @@ Une autre satisfaction, celle...
 
 <!-- id: s20-07-0005 -->
 
-> je le répète, c’est le début de ce que j’ai dit la dernière fois ...celle qui répond à *la jouissance qu’il fallait « juste »*, *« juste »* pour que ça se passe entre ce que j’abrégerai de les appeler « *l’homme* et *la femme »,* et qui est la *jouissance phallique*.
+je le répète, c’est le début de ce que j’ai dit la dernière fois ...celle qui répond à *la jouissance qu’il fallait « juste »*, *« juste »* pour que ça se passe entre ce que j’abrégerai de les appeler « *l’homme* et *la femme »,* et qui est la *jouissance phallique*.
 
 <!-- id: s20-07-0006 -->
 
@@ -34,7 +34,7 @@ Ce *« juste »*, ce justement est un « *tout juste* », *tout juste réuss
 
 <!-- id: s20-07-0008 -->
 
-> ce qui, je pense, vous est sensible ...de donner justement *l’envers du raté*.
+ce qui, je pense, vous est sensible ...de donner justement *l’envers du raté*.
 
 <!-- id: s20-07-0009 -->
 
@@ -42,9 +42,9 @@ Ce *« juste »*, ce justement est un « *tout juste* », *tout juste réuss
 
 <!-- id: s20-07-0010 -->
 
-> puisque la dernière fois, du moins je l’espère,
->
-> le plus grand nombre était là qui sait que j’étais parti d’Aristote ...de voir là en somme justifié ce qu’Aristote apporte de la notion de *la justice* comme « *le juste milieu* ».
+puisque la dernière fois, du moins je l’espère,
+
+le plus grand nombre était là qui sait que j’étais parti d’Aristote ...de voir là en somme justifié ce qu’Aristote apporte de la notion de *la justice* comme « *le juste milieu* ».
 
 <!-- id: s20-07-0011 -->
 
@@ -56,15 +56,15 @@ Que ce soit le prosdiorisme, le « *tout* » qui dans l’occasion vient à no
 
 <!-- id: s20-07-0013 -->
 
-> du fait que ça ne se comprend pas tout de suite comme ça, et que somme toute,
->
-> Aristote s’il ne se comprend pas si aisément en raison de la distance qui nous sépare de lui ...c’est bien là ce qui me justifiait, quant à moi, à vous dire que *lire* n’est pas du tout quelque chose qui nous oblige à comprendre, *il faut le lire d’abord*.
+du fait que ça ne se comprend pas tout de suite comme ça, et que somme toute,
+
+Aristote s’il ne se comprend pas si aisément en raison de la distance qui nous sépare de lui ...c’est bien là ce qui me justifiait, quant à moi, à vous dire que *lire* n’est pas du tout quelque chose qui nous oblige à comprendre, *il faut le lire d’abord*.
 
 <!-- id: s20-07-0014 -->
 
-> \[*lire c’est d’abord lire des* S<sub>1</sub>*, hermétiques comme des hiéroglyphes, parce que privés de sens <sub>→</sub> il faut lire Aristote comme on « lit » un rêve*
->
-> (*Lacan disait qu’il fallait lire Descartes « comme un cauchemar »*)\]
+\[*lire c’est d’abord lire des* S<sub>1</sub>*, hermétiques comme des hiéroglyphes, parce que privés de sens <sub>→</sub> il faut lire Aristote comme on « lit » un rêve*
+
+(*Lacan disait qu’il fallait lire Descartes « comme un cauchemar »*)\]
 
 <!-- id: s20-07-0015 -->
 
@@ -72,7 +72,7 @@ Et c’est bien ce qui fait qu’aujourd’hui...
 
 <!-- id: s20-07-0016 -->
 
-> enfin peut-être d’une façon qui apparaîtra, à certains, de paradoxe ...je vais vous conseiller de lire un livre dont le moins qu’on puisse dire c’est qu’il me concerne, ce livre s’appelle « *Le titre de la lettre »* [^58], il est paru aux éditions Galilée, collection « *À la Lettre »*.
+enfin peut-être d’une façon qui apparaîtra, à certains, de paradoxe ...je vais vous conseiller de lire un livre dont le moins qu’on puisse dire c’est qu’il me concerne, ce livre s’appelle « *Le titre de la lettre »* [^58], il est paru aux éditions Galilée, collection « *À la Lettre »*.
 
 <!-- id: s20-07-0017 -->
 
@@ -96,7 +96,7 @@ Il me semble que ça serait trop dire...
 
 <!-- id: s20-07-0022 -->
 
-> et puis peut-être même est-ce trop en dire, que de mettre là-dedans, d’une façon quelconque, les sujets ...ça serait peut-être là trop les reconnaître en tant que sujets, que d’évoquer leurs sentiments.
+et puis peut-être même est-ce trop en dire, que de mettre là-dedans, d’une façon quelconque, les sujets ...ça serait peut-être là trop les reconnaître en tant que sujets, que d’évoquer leurs sentiments.
 
 <!-- id: s20-07-0023 -->
 
@@ -112,9 +112,9 @@ Les auteurs, puisqu’il faut bien tout de même que je les désigne, ont cru de
 
 <!-- id: s20-07-0026 -->
 
-> et mon Dieu pourquoi ne pas les en complimenter, puisque la condition d’une lecture
->
-> c’est évidemment qu’elle soit en place, qu’elle s’impose à elle-même des limites ...et ils se sont attachés à mon article, à cet article recueilli dans mes *Écrits* qui s’appelle « *L’instance de la lettre »* [^59].
+et mon Dieu pourquoi ne pas les en complimenter, puisque la condition d’une lecture
+
+c’est évidemment qu’elle soit en place, qu’elle s’impose à elle-même des limites ...et ils se sont attachés à mon article, à cet article recueilli dans mes *Écrits* qui s’appelle « *L’instance de la lettre »* [^59].
 
 <!-- id: s20-07-0027 -->
 
@@ -134,11 +134,11 @@ C’est là sans doute quelque chose où à la fin, je ne sais quoi...
 
 <!-- id: s20-07-0031 -->
 
-> et je n’ai pas autrement à le sonder ...je ne sais quoi échappe à ceux qui se sont imposés cet extraordinaire travail, tout se passant donc comme si ce soit justement à *l’impasse où tout mon discours est fait pour les mener*, qu’ils se tiennent quittes, qu’ils se déclarent ou me déclarent...
+et je n’ai pas autrement à le sonder ...je ne sais quoi échappe à ceux qui se sont imposés cet extraordinaire travail, tout se passant donc comme si ce soit justement à *l’impasse où tout mon discours est fait pour les mener*, qu’ils se tiennent quittes, qu’ils se déclarent ou me déclarent...
 
 <!-- id: s20-07-0032 -->
 
-> ce qui revient au même, au point où ils en parviennent ...être quinauds[^60].
+ce qui revient au même, au point où ils en parviennent ...être quinauds[^60].
 
 <!-- id: s20-07-0033 -->
 
@@ -158,7 +158,7 @@ Mais après tout, je ne suis pas sûr parce que...
 
 <!-- id: s20-07-0037 -->
 
-> pourquoi, puisque vous êtes toujours ici aussi nombreux, ne pas vous faire confiance ...que rien enfin ne vous rebute assurément \[*Rires*\].
+pourquoi, puisque vous êtes toujours ici aussi nombreux, ne pas vous faire confiance ...que rien enfin ne vous rebute assurément \[*Rires*\].
 
 <!-- id: s20-07-0038 -->
 
@@ -174,11 +174,11 @@ C’est à savoir la conséquence de ce que j’ai cru...
 
 <!-- id: s20-07-0041 -->
 
-> non certes sans avoir longtemps cheminé pour autant ...de ce que j’ai cru devoir énoncer de *ce qu’il y a entre les sexes*...
+non certes sans avoir longtemps cheminé pour autant ...de ce que j’ai cru devoir énoncer de *ce qu’il y a entre les sexes*...
 
 <!-- id: s20-07-0042 -->
 
-> entre les sexes chez l’être parlant ...*qui de rapport ne fasse pas*, et comment, en somme, c’est à partir de là seulement *que se puisse énoncer ce qui à ce rapport supplée.*
+entre les sexes chez l’être parlant ...*qui de rapport ne fasse pas*, et comment, en somme, c’est à partir de là seulement *que se puisse énoncer ce qui à ce rapport supplée.*
 
 <!-- id: s20-07-0043 -->
 
@@ -194,7 +194,7 @@ Bien sûr dans la psychanalyse...
 
 <!-- id: s20-07-0046 -->
 
-> ou plus exactement, puisqu’il faut bien le dire, dans le discours de Freud ...ceci s’annonce de l’ἔρως \[éros\], de l’ἔρως défini comme *fusion de ce qui du deux fait Un*, et à partir de là - mon Dieu - de proche en proche, est censé tendre à ne faire qu’*Un* d’une multitude immense.
+ou plus exactement, puisqu’il faut bien le dire, dans le discours de Freud ...ceci s’annonce de l’ἔρως \[éros\], de l’ἔρως défini comme *fusion de ce qui du deux fait Un*, et à partir de là - mon Dieu - de proche en proche, est censé tendre à ne faire qu’*Un* d’une multitude immense.
 
 <!-- id: s20-07-0047 -->
 
@@ -202,7 +202,7 @@ Moyennant quoi, comme il est clair que même tous, tant que vous êtes ici multi
 
 <!-- id: s20-07-0048 -->
 
-> fût-ce à « communier », comme on, dit dans ma parole, ...d’y parvenir comme il ne se démontre que trop et tous les jours.
+fût-ce à « communier », comme on, dit dans ma parole, ...d’y parvenir comme il ne se démontre que trop et tous les jours.
 
 <!-- id: s20-07-0049 -->
 
@@ -218,9 +218,9 @@ C’est évidemment *chose permise* *métaphoriquement* à Freud, grâce à cett
 
 <!-- id: s20-07-0052 -->
 
-> tout à fait manifeste au moins pour l’un des deux,
->
-> je veux dire juste d’avant le moment même où la conjonction se produit ...la soustraction de certains éléments qui bien sûr ne sont pas pour rien dans *l’opération finale*.
+tout à fait manifeste au moins pour l’un des deux,
+
+je veux dire juste d’avant le moment même où la conjonction se produit ...la soustraction de certains éléments qui bien sûr ne sont pas pour rien dans *l’opération finale*.
 
 <!-- id: s20-07-0053 -->
 
@@ -228,7 +228,7 @@ Mais la métaphore biologique \[*fusion du deux en Un*\] est assurément...
 
 <!-- id: s20-07-0054 -->
 
-> ici encore beaucoup moins qu’ailleurs ...ce qui peut suffire à nous conforter.
+ici encore beaucoup moins qu’ailleurs ...ce qui peut suffire à nous conforter.
 
 <!-- id: s20-07-0055 -->
 
@@ -256,7 +256,7 @@ Voie singulière à ce qu’elle seule ait permis de dégager ce dont, moi qui v
 
 <!-- id: s20-07-0061 -->
 
-> je veux dire ce *transfert*, et nommément en tant qu’il ne se distingue pas de *l’amour* ...de la formule : « *le sujet supposé savoir* ».
+je veux dire ce *transfert*, et nommément en tant qu’il ne se distingue pas de *l’amour* ...de la formule : « *le sujet supposé savoir* ».
 
 <!-- id: s20-07-0062 -->
 
@@ -276,13 +276,13 @@ Pensez qu’en somme...
 
 <!-- id: s20-07-0066 -->
 
-> si, comme vous le constaterez, ce à quoi je vous invite expressément à prendre part,
->
-> à savoir à une lecture dont la pointe est faite expressément pour – disons – me déconsidérer,
->
-> ce qui n’est certes pas devant quoi peut reculer quelqu’un \[*Derrida*\] qui ne parle en somme que de *la désidération,*
->
-> et qui ne vise rien d’autre, ...qu’en somme là où cette pointe porte, ou plus exactement paraît - aux auteurs - soutenable, c’est justement d’une dé-supposition de mon *savoir*.
+si, comme vous le constaterez, ce à quoi je vous invite expressément à prendre part,
+
+à savoir à une lecture dont la pointe est faite expressément pour – disons – me déconsidérer,
+
+ce qui n’est certes pas devant quoi peut reculer quelqu’un \[*Derrida*\] qui ne parle en somme que de *la désidération,*
+
+et qui ne vise rien d’autre, ...qu’en somme là où cette pointe porte, ou plus exactement paraît - aux auteurs - soutenable, c’est justement d’une dé-supposition de mon *savoir*.
 
 <!-- id: s20-07-0067 -->
 
@@ -318,7 +318,7 @@ Il serait, me semble-t-il, dédaigneux de - au moins - ne pas traverser ou faire
 
 <!-- id: s20-07-0075 -->
 
-> et d’une pensée qui s’est appelée - je dois dire improprement - *philosophique* ...de ce qui au cours des âges s’est élaboré sur l’amour. Je ne vais pas faire ici une revue générale.
+et d’une pensée qui s’est appelée - je dois dire improprement - *philosophique* ...de ce qui au cours des âges s’est élaboré sur l’amour. Je ne vais pas faire ici une revue générale.
 
 <!-- id: s20-07-0076 -->
 
@@ -330,29 +330,29 @@ Comme ça, *des personnes « bien intentionnées »*...
 
 <!-- id: s20-07-0078 -->
 
-> c’est bien pire que celles qui le sont « *mal »* ...des personnes *bien intentionnées*...
+c’est bien pire que celles qui le sont « *mal »* ...des personnes *bien intentionnées*...
 
 <!-- id: s20-07-0079 -->
 
-> quand, comme on dit quelque part dans ce livret, j’ai été, à ce qu’il y a là écrit, « *exclu »* de Sainte-Anne,
->
-> je n’ai pas été *exclu*, je me suis retiré, c’est très différent, mais enfin qu’importe,
->
-> nous n’en sommes pas là, d’autant plus que ces termes d’« *exclu* », d’« *exclure* »,
->
-> ont dans notre topologie toute leur importance ...*des personnes bien intentionnées* se sont trouvées en somme surprises d’avoir écho, ce n’était qu’un écho, mais comme ces personnes étaient...
+quand, comme on dit quelque part dans ce livret, j’ai été, à ce qu’il y a là écrit, « *exclu »* de Sainte-Anne,
+
+je n’ai pas été *exclu*, je me suis retiré, c’est très différent, mais enfin qu’importe,
+
+nous n’en sommes pas là, d’autant plus que ces termes d’« *exclu* », d’« *exclure* »,
+
+ont dans notre topologie toute leur importance ...*des personnes bien intentionnées* se sont trouvées en somme surprises d’avoir écho, ce n’était qu’un écho, mais comme ces personnes étaient...
 
 <!-- id: s20-07-0080 -->
 
-> mon Dieu, il faut bien le dire ...de la pure tradition philosophique, et de celle qui se réclame...
+mon Dieu, il faut bien le dire ...de la pure tradition philosophique, et de celle qui se réclame...
 
 <!-- id: s20-07-0081 -->
 
-> c’est bien en ça que je la dis « *pure* » ...il n’y a rien de plus philosophique que le matérialisme, et le matérialisme se croit obligé...
+c’est bien en ça que je la dis « *pure* » ...il n’y a rien de plus philosophique que le matérialisme, et le matérialisme se croit obligé...
 
 <!-- id: s20-07-0082 -->
 
-> Dieu sait pourquoi, c’est le cas de le dire ...d’être en garde contre ce Dieu dont j’ai dit qu’il a dominé, dans la philosophie, tout le débat de *l’amour*.
+Dieu sait pourquoi, c’est le cas de le dire ...d’être en garde contre ce Dieu dont j’ai dit qu’il a dominé, dans la philosophie, tout le débat de *l’amour*.
 
 <!-- id: s20-07-0083 -->
 
@@ -360,7 +360,7 @@ Le moins qu’on puisse dire est qu’une certaine gêne, vu le pont, le trempli
 
 <!-- id: s20-07-0084 -->
 
-> avec un grand A, dont il y avait, au dire de ceux qui se faisaient les véhicules bénévoles de cet écho ...*un certain Autre qui n’avait bien l’air que d’être « le bon vieux Dieu » de toujours*.
+avec un grand A, dont il y avait, au dire de ceux qui se faisaient les véhicules bénévoles de cet écho ...*un certain Autre qui n’avait bien l’air que d’être « le bon vieux Dieu » de toujours*.
 
 <!-- id: s20-07-0085 -->
 
@@ -368,7 +368,7 @@ Pour moi il me paraît sensible que pour ce qui est du « *bon vieux Dieu »*,
 
 <!-- id: s20-07-0086 -->
 
-> alors au temps de « *L’instance de la lettre »,* ...cet Autre avancé alors comme *lieu* où la parole ne peut s’inscrire qu’en *vérité*, cet Autre était quand même bien une façon, je ne peux même pas dire de laïciser, d’exorciser ce « *bon vieux Dieu »*.
+alors au temps de « *L’instance de la lettre »,* ...cet Autre avancé alors comme *lieu* où la parole ne peut s’inscrire qu’en *vérité*, cet Autre était quand même bien une façon, je ne peux même pas dire de laïciser, d’exorciser ce « *bon vieux Dieu »*.
 
 <!-- id: s20-07-0087 -->
 
@@ -380,7 +380,7 @@ Il y a bien des gens qui me font compliment...
 
 <!-- id: s20-07-0089 -->
 
-> dans je ne sais quel des derniers ou avant-derniers séminaires ...d’avoir su poser enfin que Dieu n’existait pas.
+dans je ne sais quel des derniers ou avant-derniers séminaires ...d’avoir su poser enfin que Dieu n’existait pas.
 
 <!-- id: s20-07-0090 -->
 
@@ -400,13 +400,13 @@ Malheureusement je ne vais pas tout à fait dans la même position, de ce que ju
 
 <!-- id: s20-07-0094 -->
 
-> cet Autre qui, s’il n’y en a qu’*Un tout seul*,
->
-> doit bien avoir quelque rapport avec ce qui alors apparaît de l’autre sexe ...cet Autre je suis bien forcé d’en tenir compte et chacun sait qu’après tout je ne me suis pas refusé...
+cet Autre qui, s’il n’y en a qu’*Un tout seul*,
+
+doit bien avoir quelque rapport avec ce qui alors apparaît de l’autre sexe ...cet Autre je suis bien forcé d’en tenir compte et chacun sait qu’après tout je ne me suis pas refusé...
 
 <!-- id: s20-07-0095 -->
 
-> dans cette même année que j’évoquais la dernière fois : de « *L’éthique de la psychanalyse »*, ...de me référer à l’amour courtois.
+dans cette même année que j’évoquais la dernière fois : de « *L’éthique de la psychanalyse »*, ...de me référer à l’amour courtois.
 
 <!-- id: s20-07-0096 -->
 
@@ -422,11 +422,11 @@ Bien sûr je passe sur ceci, enfin que pour ce qui est des matérialistes, ça s
 
 <!-- id: s20-07-0099 -->
 
-> enfin au lieu d’être là à flotter sur le paradoxe que ce soit apparu à l’époque féodale, de voir au contraire comment sans ça, ça s’enracine, comment c’est du discours de la féalité, de la fidélité à la personne, et pour tout dire : au dernier terme de ce qu’est toujours « *la personne »*, à savoir *le discours du maître* ...ce serait la plus splendide façon de voir combien était nécessaire...
+enfin au lieu d’être là à flotter sur le paradoxe que ce soit apparu à l’époque féodale, de voir au contraire comment sans ça, ça s’enracine, comment c’est du discours de la féalité, de la fidélité à la personne, et pour tout dire : au dernier terme de ce qu’est toujours « *la personne »*, à savoir *le discours du maître* ...ce serait la plus splendide façon de voir combien était nécessaire...
 
 <!-- id: s20-07-0100 -->
 
-> à l’homme dont la *Dame* était entièrement - au sens le plus servile - asservie, l’« *assujette* » ...comment c’était la seule façon de s’en tirer avec élégance concernant ce dont il s’agit et qui est le fondement, à savoir : l’absence du rapport sexuel. \[*l’amour courtois reste dans le discours du maîtrev*(:§)*, mais c’est de la Dame idéalisée que l’on est le « féal » <sub>→</sub> «<sub> </sub>la Dame » devient l’exception du* :§\]
+à l’homme dont la *Dame* était entièrement - au sens le plus servile - asservie, l’« *assujette* » ...comment c’était la seule façon de s’en tirer avec élégance concernant ce dont il s’agit et qui est le fondement, à savoir : l’absence du rapport sexuel. \[*l’amour courtois reste dans le discours du maîtrev*(:§)*, mais c’est de la Dame idéalisée que l’on est le « féal » <sub>→</sub> «<sub> </sub>la Dame » devient l’exception du* :§\]
 
 <!-- id: s20-07-0101 -->
 
@@ -434,11 +434,11 @@ Mais enfin j’aurai affaire...
 
 <!-- id: s20-07-0102 -->
 
-> plus tard je le reprendrai, il faut qu’aujourd’hui je fende un certain champ ...j’aurai affaire à cette notion de *l’obstacle* qui dans Aristote...
+plus tard je le reprendrai, il faut qu’aujourd’hui je fende un certain champ ...j’aurai affaire à cette notion de *l’obstacle* qui dans Aristote...
 
 <!-- id: s20-07-0103 -->
 
-> parce que malgré tout je préfère quand même Aristote à Jaufré Rudel, hein ? ...ce qui dans Aristote s’appelle justement « *l’obstacle* », l’ἔνστασις \[ènstasis\].
+parce que malgré tout je préfère quand même Aristote à Jaufré Rudel, hein ? ...ce qui dans Aristote s’appelle justement « *l’obstacle* », l’ἔνστασις \[ènstasis\].
 
 <!-- id: s20-07-0104 -->
 
@@ -446,11 +446,11 @@ Mes lecteurs \[*les auteurs de « Le titre de la lettre »*\], mes lecteurs...
 
 <!-- id: s20-07-0105 -->
 
-> dont, je vous le répète, il faut tous que vous achetiez tout à l’heure le livre ...mes lecteurs ont même trouvé ça, à savoir que l’instance qu’ils interrogent avec un soin, une précaution...
+dont, je vous le répète, il faut tous que vous achetiez tout à l’heure le livre ...mes lecteurs ont même trouvé ça, à savoir que l’instance qu’ils interrogent avec un soin, une précaution...
 
 <!-- id: s20-07-0106 -->
 
-> je vous dis : j’ai jamais vu un seul de mes élèves faire un travail pareil, *hélas !* Personne ne prendra jamais au sérieux ce que j’écris, sauf bien entendu ceux dont j’ai dit tout à l’heure, comme ça incidemment, qu’ils me haïssent sous prétexte qu’ils me dé-supposent le savoir. Qu’importe ! ...oui, ils ont été jusqu’à découvrir l’ἔνστασις \[ènstasis\], l’obstacle logique aristotélicien que j’avais gardé pour la bonne bouche, pour cette « *Instance de la lettre »* \[*Rires*\].
+je vous dis : j’ai jamais vu un seul de mes élèves faire un travail pareil, *hélas !* Personne ne prendra jamais au sérieux ce que j’écris, sauf bien entendu ceux dont j’ai dit tout à l’heure, comme ça incidemment, qu’ils me haïssent sous prétexte qu’ils me dé-supposent le savoir. Qu’importe ! ...oui, ils ont été jusqu’à découvrir l’ἔνστασις \[ènstasis\], l’obstacle logique aristotélicien que j’avais gardé pour la bonne bouche, pour cette « *Instance de la lettre »* \[*Rires*\].
 
 <!-- id: s20-07-0107 -->
 
@@ -502,7 +502,7 @@ Le moins que je puisse dire, c’est d’être au moins, de pouvoir au moins sup
 
 <!-- id: s20-07-0119 -->
 
-> décalage ouvert dès le départ et qui se poursuivra jusqu’à la fin ...c’est de me supposer - et avec ça on peut tout faire - de me supposer *une ontologie* ou ce qui revient au même, *un système*.
+décalage ouvert dès le départ et qui se poursuivra jusqu’à la fin ...c’est de me supposer - et avec ça on peut tout faire - de me supposer *une ontologie* ou ce qui revient au même, *un système*.
 
 <!-- id: s20-07-0120 -->
 
@@ -510,7 +510,7 @@ L’honnêteté, quand même, fait que dans *le diagramme circulaire* où soi-di
 
 <!-- id: s20-07-0121 -->
 
-> à juste titre car ils ne pèsent guère ...que sont mis - les enveloppant, enveloppant tous mes énoncés - les noms des principaux philosophes dans l’ontologie générale desquels j’insérerais mon prétendu *système*.
+à juste titre car ils ne pèsent guère ...que sont mis - les enveloppant, enveloppant tous mes énoncés - les noms des principaux philosophes dans l’ontologie générale desquels j’insérerais mon prétendu *système*.
 
 <!-- id: s20-07-0122 -->
 
@@ -530,7 +530,7 @@ Eh bien, pour moi, disons qu’il ne peut pas être ambigu que, au moins pour ce
 
 <!-- id: s20-07-0126 -->
 
-> ...*de l’être* », à savoir *qu’il y a jouissance de l’être*.
+...*de l’être* », à savoir *qu’il y a jouissance de l’être*.
 
 <!-- id: s20-07-0127 -->
 
@@ -538,11 +538,11 @@ Je dirai même plus, si je vous ai parlé de l’« *Éthique à Nicomaque »*
 
 <!-- id: s20-07-0128 -->
 
-> et ce qui a ouvert la voie à tout ce qui a traîné après lui, ...c’est « *qu’est-ce que c’est cette jouissance de l’être ?* » qu’un Saint Thomas n’aura ensuite aucune peine à forger, cette « *théorie »* comme on l’appelle, comme l’appelle l’Abbé Rousselot [^62]...
+et ce qui a ouvert la voie à tout ce qui a traîné après lui, ...c’est « *qu’est-ce que c’est cette jouissance de l’être ?* » qu’un Saint Thomas n’aura ensuite aucune peine à forger, cette « *théorie »* comme on l’appelle, comme l’appelle l’Abbé Rousselot [^62]...
 
 <!-- id: s20-07-0129 -->
 
-> dont je parlais la dernière fois ...comme l’appelle l’Abbé Rousselot : « *la théorie physique de l’amour »*.
+dont je parlais la dernière fois ...comme l’appelle l’Abbé Rousselot : « *la théorie physique de l’amour »*.
 
 <!-- id: s20-07-0130 -->
 
@@ -558,7 +558,7 @@ Et qu’à nous aimer d’abord nous-mêmes...
 
 <!-- id: s20-07-0133 -->
 
-> charité bien ordonnée, comme on dit ...nous faisons à Dieu l’hommage qui convient.
+charité bien ordonnée, comme on dit ...nous faisons à Dieu l’hommage qui convient.
 
 <!-- id: s20-07-0134 -->
 
@@ -566,7 +566,7 @@ Et qu’à nous aimer d’abord nous-mêmes...
 
 <!-- id: s20-07-0135 -->
 
-> si l’on veut à tout prix que je me serve de ce terme ce que... ce dont témoigne dès... ce dont est forcé de témoigner dès ses premières pages de lecture - simplement lecture ­- ce petit volume ...c’est à savoir *l’être de la signifiance*.
+si l’on veut à tout prix que je me serve de ce terme ce que... ce dont témoigne dès... ce dont est forcé de témoigner dès ses premières pages de lecture - simplement lecture ­- ce petit volume ...c’est à savoir *l’être de la signifiance*.
 
 <!-- id: s20-07-0136 -->
 
@@ -598,7 +598,7 @@ Il me semble avoir déjà scandé...
 
 <!-- id: s20-07-0143 -->
 
-> je suis pressé par le temps ...il me semble avoir déjà scandé que, pour prendre les choses du côté où c’est logiquement que le quanteur ;, c’est-à-dire « *tout x* », est fonction, fonction mathématique de !, \[;!\] c’est-à-dire *du côté* où on se range, en somme par choix...
+je suis pressé par le temps ...il me semble avoir déjà scandé que, pour prendre les choses du côté où c’est logiquement que le quanteur ;, c’est-à-dire « *tout x* », est fonction, fonction mathématique de !, \[;!\] c’est-à-dire *du côté* où on se range, en somme par choix...
 
 <!-- id: s20-07-0144 -->
 
@@ -638,7 +638,7 @@ Contrairement à ce qu’avance Freud, c’est *l’homme*...
 
 <!-- id: s20-07-0153 -->
 
-> je veux dire celui qui se trouve *mâle* sans savoir qu’en faire, tout en étant *être parlant* ...qui aborde *la femme*, comme on dit, qui peut même croire qu’il l’aborde, parce qu’à cet égard les convictions dont je parlais la dernière fois, les convictions ne manquent pas.
+je veux dire celui qui se trouve *mâle* sans savoir qu’en faire, tout en étant *être parlant* ...qui aborde *la femme*, comme on dit, qui peut même croire qu’il l’aborde, parce qu’à cet égard les convictions dont je parlais la dernière fois, les convictions ne manquent pas.
 
 <!-- id: s20-07-0154 -->
 
@@ -646,7 +646,7 @@ Seulement ce qu’il aborde...
 
 <!-- id: s20-07-0155 -->
 
-> parce que c’est là *la cause* de son désir ...c’est ce que j’ai désigné de *l’objet(a)*, c’est là l’acte d’amour, justement.
+parce que c’est là *la cause* de son désir ...c’est ce que j’ai désigné de *l’objet(a)*, c’est là l’acte d’amour, justement.
 
 <!-- id: s20-07-0156 -->
 
@@ -678,7 +678,7 @@ Alors de deux choses l’une :
 
 <!-- id: s20-07-0163 -->
 
-> et c’est pour ça que je vous prie de vous y reporter,
+et c’est pour ça que je vous prie de vous y reporter,
 
 <!-- id: s20-07-0164 -->
 
@@ -686,9 +686,9 @@ Alors de deux choses l’une :
 
 <!-- id: s20-07-0165 -->
 
-> et comme tel à se ranger dans *la fonction phallique*.
->
-> C’est ça qui définit la - attendez ! *la… la… la… la… la… la* quoi ? - *la femme* justement. \[*Rires*\]
+et comme tel à se ranger dans *la fonction phallique*.
+
+C’est ça qui définit la - attendez ! *la… la… la… la… la… la* quoi ? - *la femme* justement. \[*Rires*\]
 
 <!-- id: s20-07-0166 -->
 
@@ -696,7 +696,7 @@ Alors de deux choses l’une :
 
 <!-- id: s20-07-0167 -->
 
-> mettons lui un grand L pendant que nous y sommes, ça sera gentil \[*Rires*\] ...à ceci près que *La femme*, ça ne peut s’écrire qu’à *barrer* « <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> ».
+mettons lui un grand L pendant que nous y sommes, ça sera gentil \[*Rires*\] ...à ceci près que *La femme*, ça ne peut s’écrire qu’à *barrer* « <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> ».
 
 <!-- id: s20-07-0168 -->
 
@@ -704,11 +704,11 @@ Il n’y a pas *La femme*...
 
 <!-- id: s20-07-0169 -->
 
-> article défini pour désigner *l’universel* ...il n’y a pas « La » *femme* puisque...
+article défini pour désigner *l’universel* ...il n’y a pas « La » *femme* puisque...
 
 <!-- id: s20-07-0170 -->
 
-> j’ai déjà risqué le terme, et pourquoi y regarderais-je à deux fois ? ...puisque de son *« essence »,* elle n’est « *pas toute* » \[. !\].
+j’ai déjà risqué le terme, et pourquoi y regarderais-je à deux fois ? ...puisque de son *« essence »,* elle n’est « *pas toute* » \[. !\].
 
 <!-- id: s20-07-0171 -->
 
@@ -748,9 +748,9 @@ Mais par contre, s’il n’y a de femme - si je puis dire - *qu’exclue, dans 
 
 <!-- id: s20-07-0180 -->
 
-> il faut bien dire, hein, que ce que j’avance là, quand même ça peut se dire, parce que s’il y a quelque chose dont elles-mêmes se plaignent assez pour l’instant, c’est bien de ça, hein ! bon !
->
-> Simplement elles ne savent pas ce qu’elles disent ! C’est toute la différence entre elles et moi \[*Rires*\] ...*s’il n’y a donc de femme qu’exclue par la nature des choses comme* <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" />* femme*, il n’en reste pas moins que si elle est exclue par la nature des choses c’est justement
+il faut bien dire, hein, que ce que j’avance là, quand même ça peut se dire, parce que s’il y a quelque chose dont elles-mêmes se plaignent assez pour l’instant, c’est bien de ça, hein ! bon !
+
+Simplement elles ne savent pas ce qu’elles disent ! C’est toute la différence entre elles et moi \[*Rires*\] ...*s’il n’y a donc de femme qu’exclue par la nature des choses comme* <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" />* femme*, il n’en reste pas moins que si elle est exclue par la nature des choses c’est justement
 
 <!-- id: s20-07-0181 -->
 
@@ -778,13 +778,13 @@ Au niveau de, du *populaire*...
 
 <!-- id: s20-07-0187 -->
 
-> et c’est pour ça que je parle jamais enfin vraiment, sauf de temps en temps probablement,
->
-> enfin je dois bien un peu baver comme tout le monde, mais enfin en général je dis des choses importantes ...et quand je remarque que *le populaire* appelle...
+et c’est pour ça que je parle jamais enfin vraiment, sauf de temps en temps probablement,
+
+enfin je dois bien un peu baver comme tout le monde, mais enfin en général je dis des choses importantes ...et quand je remarque que *le populaire* appelle...
 
 <!-- id: s20-07-0188 -->
 
-> *le populaire*, moi j’en connais, ils sont pas forcément ici, mais j’en connais pas mal ! ...*le populaire* appelle la femme « *la bourgeoise* », c’est bien ça que ça veut dire, c’est que pour être à la botte - hein ? – c’est lui qui l’est, pas elle. \[*cf. l’amour courtois comme discours du maître* : S<sub>1→</sub> S<sub>2</sub>/*a*\]
+*le populaire*, moi j’en connais, ils sont pas forcément ici, mais j’en connais pas mal ! ...*le populaire* appelle la femme « *la bourgeoise* », c’est bien ça que ça veut dire, c’est que pour être à la botte - hein ? – c’est lui qui l’est, pas elle. \[*cf. l’amour courtois comme discours du maître* : S<sub>1→</sub> S<sub>2</sub>/*a*\]
 
 <!-- id: s20-07-0189 -->
 
@@ -804,21 +804,21 @@ Et même que ça joue, parce que c’est pas parce qu’elle est « *pas toute*
 
 <!-- id: s20-07-0193 -->
 
-> cet « *en plus »*, hein, faites attention, gardez-vous enfin d’en prendre trop vite les échos,
->
-> je peux pas le désigner mieux ni autrement parce qu’il faut que je tranche et que j’aille vite ...il y a *une jouissance*...
+cet « *en plus »*, hein, faites attention, gardez-vous enfin d’en prendre trop vite les échos,
+
+je peux pas le désigner mieux ni autrement parce qu’il faut que je tranche et que j’aille vite ...il y a *une jouissance*...
 
 <!-- id: s20-07-0194 -->
 
-> puisque nous nous en tenons à la jouissance, jouissance du corps ...il y a *une jouissance* qui est...
+puisque nous nous en tenons à la jouissance, jouissance du corps ...il y a *une jouissance* qui est...
 
 <!-- id: s20-07-0195 -->
 
-> si je puis m’exprimer ainsi, parce qu’après tout pourquoi pas en faire un titre de livre,
->
-> c’est pour le prochain de la collection *Galilée* : « *Au-delà du phallus »* \[*Rires*\],
->
-> ça serait mignon ça - hein ? - et puis ça donnerait une autre consistance au MLF. \[*Rires*\] ...*une jouissance au-delà du phallus*, hein !
+si je puis m’exprimer ainsi, parce qu’après tout pourquoi pas en faire un titre de livre,
+
+c’est pour le prochain de la collection *Galilée* : « *Au-delà du phallus »* \[*Rires*\],
+
+ça serait mignon ça - hein ? - et puis ça donnerait une autre consistance au MLF. \[*Rires*\] ...*une jouissance au-delà du phallus*, hein !
 
 <!-- id: s20-07-0196 -->
 
@@ -826,15 +826,15 @@ Si vous ne vous êtes pas encore aperçus...
 
 <!-- id: s20-07-0197 -->
 
-> \- hein ? - je parle naturellement ici aux quelques semblants d’hommes,
->
-> enfin qui... que je vois par-ci, par-là, \[*Rires*\] heureusement que pour la plupart je ne les connais pas,
->
-> comme ça je ne préjuge de rien \[*Rires*\] pour les autres comme... Ouais... ...il y a quelque chose que peut-être les quelques semblants d’hommes en question ont pu remarquer...
+\- hein ? - je parle naturellement ici aux quelques semblants d’hommes,
+
+enfin qui... que je vois par-ci, par-là, \[*Rires*\] heureusement que pour la plupart je ne les connais pas,
+
+comme ça je ne préjuge de rien \[*Rires*\] pour les autres comme... Ouais... ...il y a quelque chose que peut-être les quelques semblants d’hommes en question ont pu remarquer...
 
 <!-- id: s20-07-0198 -->
 
-> comme ça de temps en temps, enfin entre deux portes ...enfin il y a, il y a les choses qui les *secouent* ou qui les *secourent*. \[*la réponse féminine à la fonction phallique :* « / § » *les secoue, mais* « . ! » *les secourt*\]
+comme ça de temps en temps, enfin entre deux portes ...enfin il y a, il y a les choses qui les *secouent* ou qui les *secourent*. \[*la réponse féminine à la fonction phallique :* « / § » *les secoue, mais* « . ! » *les secourt*\]
 
 <!-- id: s20-07-0199 -->
 
@@ -878,7 +878,7 @@ Il y a une chose certaine, et qui laisse quand même depuis le temps quelque cha
 
 <!-- id: s20-07-0209 -->
 
-> et je parlais la dernière fois des psychanalystes femmes ...d’essayer quand même de nous le dire, d’approcher ça, eh ben *pfutt !* *motus* hein !
+et je parlais la dernière fois des psychanalystes femmes ...d’essayer quand même de nous le dire, d’approcher ça, eh ben *pfutt !* *motus* hein !
 
 <!-- id: s20-07-0210 -->
 
@@ -910,7 +910,7 @@ Enfin, bien... Ça vaudrait quand même la peine qu’on s’y arrête, parce qu
 
 <!-- id: s20-07-0217 -->
 
-> enfin ces *« quelques jours »*, je fais que ça depuis que j’ai 20 ans, enfin passons ...à explorer les philosophes sur ce sujet de *l’amour*, naturellement j’ai pas tout de suite centré ça sur *cette affaire de l’amour*.
+enfin ces *« quelques jours »*, je fais que ça depuis que j’ai 20 ans, enfin passons ...à explorer les philosophes sur ce sujet de *l’amour*, naturellement j’ai pas tout de suite centré ça sur *cette affaire de l’amour*.
 
 <!-- id: s20-07-0218 -->
 
@@ -918,9 +918,9 @@ Mais enfin, ça m’est venu dans un temps, avec justement l’Abbé Rousselot d
 
 <!-- id: s20-07-0219 -->
 
-> \[*la jouissance phallique vise «* L *femme* » *comme* S<sub>1</sub> *mais n’atteint que des* *objets (a)* *(objets partiels) et s’avère impuissante à aboutir à la jouissance du corps*
->
-> *de l’Autre (l’Autre jouissance), ce qui amène à distinguer l’amour charnel de l’amour extatique, l’Aphrodite « populaire » de l’Aphrodite « Ouranienne »*\]
+\[*la jouissance phallique vise «* L *femme* » *comme* S<sub>1</sub> *mais n’atteint que des* *objets (a)* *(objets partiels) et s’avère impuissante à aboutir à la jouissance du corps*
+
+*de l’Autre (l’Autre jouissance), ce qui amène à distinguer l’amour charnel de l’amour extatique, l’Aphrodite « populaire » de l’Aphrodite « Ouranienne »*\]
 
 <!-- id: s20-07-0220 -->
 
@@ -932,7 +932,7 @@ Vous pouvez pas savoir...
 
 <!-- id: s20-07-0222 -->
 
-> enfin si ! « *Vous pouvez pas savoir* » : ça dépend ! Il y a certains ici qui doivent savoir *quand même* ...quelle débauche de littérature s’est produite autour de ça :
+enfin si ! « *Vous pouvez pas savoir* » : ça dépend ! Il y a certains ici qui doivent savoir *quand même* ...quelle débauche de littérature s’est produite autour de ça :
 
 <!-- id: s20-07-0223 -->
 
@@ -996,9 +996,9 @@ Et si vous lisez cette Hadewijch...
 
 <!-- id: s20-07-0238 -->
 
-> dont je sais pas comment prononcer son nom, mais enfin quelqu’un qui est ici
->
-> et qui saura le néerlandais me l’expliquera j’espère tout à l’heure si vous lisez cette Hadewijch...
+dont je sais pas comment prononcer son nom, mais enfin quelqu’un qui est ici
+
+et qui saura le néerlandais me l’expliquera j’espère tout à l’heure si vous lisez cette Hadewijch...
 
 <!-- id: s20-07-0239 -->
 
@@ -1010,9 +1010,9 @@ Mais pour la Hadewijch en question, pour Sainte Thérèse, enfin disons quand m�
 
 <!-- id: s20-07-0241 -->
 
-> et puis en plus vous avez qu’à aller regarder dans une certaine église à Rome,
->
-> [la statue <span id="RetourBernin" class="anchor"></span>du Bernin](#Extase)[^69] pour *comprendre* tout de suite ...enfin quoi : *qu’elle jouit*, ça fait pas de doute !
+et puis en plus vous avez qu’à aller regarder dans une certaine église à Rome,
+
+[la statue <span id="RetourBernin" class="anchor"></span>du Bernin](#Extase)[^69] pour *comprendre* tout de suite ...enfin quoi : *qu’elle jouit*, ça fait pas de doute !
 
 <!-- id: s20-07-0242 -->
 
@@ -1052,7 +1052,7 @@ C’est peut-être ça qui doit nous faire entrevoir ce qu’il en est de l’Au
 
 <!-- id: s20-07-0251 -->
 
-> puisque c’était de ça, par là que j’ai abordé l’affaire tout à l’heure ...une face de Dieu *comme supportée par la jouissance féminine*, hein ?
+puisque c’était de ça, par là que j’ai abordé l’affaire tout à l’heure ...une face de Dieu *comme supportée par la jouissance féminine*, hein ?
 
 <!-- id: s20-07-0252 -->
 
@@ -1072,7 +1072,7 @@ Ce désir d’un bien, au second degré...
 
 <!-- id: s20-07-0256 -->
 
-> qui n’est pas causé par un *petit(a)* celui-là ...c’est peut-être par l’intermédiaire de Régine qu’il en avait *la dimension*.
+qui n’est pas causé par un *petit(a)* celui-là ...c’est peut-être par l’intermédiaire de Régine qu’il en avait *la dimension*.
 
 <!-- id: s20-07-0257 -->
 

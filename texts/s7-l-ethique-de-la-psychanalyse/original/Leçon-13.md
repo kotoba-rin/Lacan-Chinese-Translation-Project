@@ -114,9 +114,9 @@ Manifestement il y a ceux qui, à l’époque, ont recueilli et transmis ces po�
 
 <!-- id: s7-13-0028 -->
 
-> et Dieu sait qu’Arnaut DANIEL a été loin dans le sens de la plus grande subtilité du pacte amoureux,
->
-> allant jusqu’à pousser l’extrême du désir jusqu’au moment où il est offert lui-même en une sorte de sacrifice où il se retourne dans une espèce d’abolition de lui-même - eh bien, c’est le même qui se trouve avoir donné avec quelque reluctance un poème sur un sujet qui, pour qu’il lui consacre avec tant de soin son talent poétique, devait le toucher par quelque point
+et Dieu sait qu’Arnaut DANIEL a été loin dans le sens de la plus grande subtilité du pacte amoureux,
+
+allant jusqu’à pousser l’extrême du désir jusqu’au moment où il est offert lui-même en une sorte de sacrifice où il se retourne dans une espèce d’abolition de lui-même - eh bien, c’est le même qui se trouve avoir donné avec quelque reluctance un poème sur un sujet qui, pour qu’il lui consacre avec tant de soin son talent poétique, devait le toucher par quelque point
 
 <!-- id: s7-13-0029 -->
 

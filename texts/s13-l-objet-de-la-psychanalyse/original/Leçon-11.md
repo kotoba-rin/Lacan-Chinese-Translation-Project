@@ -118,7 +118,11 @@ Celle-ci s’exprime désormais sous une autre forme, grâce au transfert, qui r
 
 <!-- id: s13-11-0029 -->
 
-> « *Surmonter cette nouvelle névrose artificielle c’est supprimer la maladie engendrée par le traitement. Ces deux résultats vont de pair, et quand ils sont obtenus, notre tâche thérapeutique est terminée* » \[p.422\]
+<div class="text-quotation">
+
+« *Surmonter cette nouvelle névrose artificielle c’est supprimer la maladie engendrée par le traitement. Ces deux résultats vont de pair, et quand ils sont obtenus, notre tâche thérapeutique est terminée* » \[p.422\]
+
+</div>
 
 <!-- id: s13-11-0030 -->
 
@@ -282,9 +286,9 @@ Pourtant il me semble que dans cet article de STEIN, tout laisse à penser que l
 
 <!-- id: s13-11-0070 -->
 
-> l\) que l’homme peut avoir *le phallus* sur le fond de ne *l’avoir pas*,
->
-> 2\) que la femme n’a pas *le phallus* sur le fond de ce qu’elle l’a.
+l\) que l’homme peut avoir *le phallus* sur le fond de ne *l’avoir pas*,
+
+2\) que la femme n’a pas *le phallus* sur le fond de ce qu’elle l’a.
 
 <!-- id: s13-11-0071 -->
 
@@ -324,7 +328,7 @@ Je crois…
 
 <!-- id: s13-11-0080 -->
 
-> je ne peux pas développer la chose ici, c’est une idée qui, à mon sens, mériterait d’être fouillée …je crois que si les choses en sont encore aujourd’hui au point où elles en sont, c’est que malgré cette affirmation que l’analyse, c’est l’analyse du transfert, la pesée de cette conception initiale selon laquelle le transfert est une complication de la cure, cette pesée continue à s’exercer sur nous, c’est-à-dire que, dans une certaine mesure les psychanalystes - quoi qu’ils disent le contraire - continuent à considérer le transfert comme une complication, comme un accident de la cure.
+je ne peux pas développer la chose ici, c’est une idée qui, à mon sens, mériterait d’être fouillée …je crois que si les choses en sont encore aujourd’hui au point où elles en sont, c’est que malgré cette affirmation que l’analyse, c’est l’analyse du transfert, la pesée de cette conception initiale selon laquelle le transfert est une complication de la cure, cette pesée continue à s’exercer sur nous, c’est-à-dire que, dans une certaine mesure les psychanalystes - quoi qu’ils disent le contraire - continuent à considérer le transfert comme une complication, comme un accident de la cure.
 
 <!-- id: s13-11-0081 -->
 
@@ -340,7 +344,7 @@ Quand vous avez dit qu’il fallait concevoir le transfert dans *sa dimension hi
 
 <!-- id: s13-11-0084 -->
 
-> car la réminiscence est quelque chose d’actuel et pas quelque chose de passé …que toute cette technique de retrouvaille est un moyen de l’analyse et rien d’autre, et qu’il est *l’un des moyens* qu’il est bon d’employer dans certaines conjonctures, qu’il n’est pas bon d’employer dans d’autres conjonctures.
+car la réminiscence est quelque chose d’actuel et pas quelque chose de passé …que toute cette technique de retrouvaille est un moyen de l’analyse et rien d’autre, et qu’il est *l’un des moyens* qu’il est bon d’employer dans certaines conjonctures, qu’il n’est pas bon d’employer dans d’autres conjonctures.
 
 <!-- id: s13-11-0085 -->
 
@@ -360,7 +364,7 @@ Là, je ne veux pas non plus me lancer là-dedans. Il est évident que je suis o
 
 <!-- id: s13-11-0089 -->
 
-> comme je l’ai déjà fait à propos de la remarque similaire de CONTÉ …concernant la notion d’une relation duelle entre sujet et objet.
+comme je l’ai déjà fait à propos de la remarque similaire de CONTÉ …concernant la notion d’une relation duelle entre sujet et objet.
 
 <!-- id: s13-11-0090 -->
 
@@ -664,7 +668,7 @@ Et sur cette discussion qu’a introduite Irène, de savoir si le terme de frust
 
 <!-- id: s13-11-0165 -->
 
-> pas seulement peut-être pour des raisons de commodité de lecture ou de facilité …j’aurais tendance à regretter que finalement *l’algèbre lacanienne* ne soit pas ici, après tout, utilisée.
+pas seulement peut-être pour des raisons de commodité de lecture ou de facilité …j’aurais tendance à regretter que finalement *l’algèbre lacanienne* ne soit pas ici, après tout, utilisée.
 
 <!-- id: s13-11-0166 -->
 
@@ -692,7 +696,7 @@ Je dois dire que, il me semble qu’il y a par exemple une technique de la cure,
 
 <!-- id: s13-11-0172 -->
 
-> on sait combien l’inconscient des malades pige admirablement le temps, et combien les malades, même sans regarder leur montre, savent parfaitement le moment où, dans une séance dont le temps est, comme ça, strictement fixé, à quel moment va tomber la fin de la séance …eh bien je pense que, donc, dans cette technique-là, avec ces séances à heure fixe, jour fixe, je ne suis pas sûr qu’il y ait intervention de l’analyste.
+on sait combien l’inconscient des malades pige admirablement le temps, et combien les malades, même sans regarder leur montre, savent parfaitement le moment où, dans une séance dont le temps est, comme ça, strictement fixé, à quel moment va tomber la fin de la séance …eh bien je pense que, donc, dans cette technique-là, avec ces séances à heure fixe, jour fixe, je ne suis pas sûr qu’il y ait intervention de l’analyste.
 
 <!-- id: s13-11-0173 -->
 
@@ -772,7 +776,7 @@ Je vais intercaler un mot, un mot pour dire que quand on parle de la castration�
 
 <!-- id: s13-11-0192 -->
 
-> telle que, je crois, l’entend LACAN, qui est en cela freudien, il n’y a pas du tout d’écart, il n’y a aucune opposition de LACAN à FREUD en cette matière …quand on parle de la castration, il ne faut jamais oublier que pour nous, le concept de castration est un concept positif, c’est le concept de l’accession à un pouvoir véritable, et c’est là que se situe sa relation avec l’*idéal du moi*, c’est un concept positif figuré par l’image négative d’un manque. Tout ça qui se situe dans la marge entre la positivité de ce concept et la figuration qui est celle, négative, d’un manque, c’est quelque chose d’essentiel à la problématique de l’analyse.
+telle que, je crois, l’entend LACAN, qui est en cela freudien, il n’y a pas du tout d’écart, il n’y a aucune opposition de LACAN à FREUD en cette matière …quand on parle de la castration, il ne faut jamais oublier que pour nous, le concept de castration est un concept positif, c’est le concept de l’accession à un pouvoir véritable, et c’est là que se situe sa relation avec l’*idéal du moi*, c’est un concept positif figuré par l’image négative d’un manque. Tout ça qui se situe dans la marge entre la positivité de ce concept et la figuration qui est celle, négative, d’un manque, c’est quelque chose d’essentiel à la problématique de l’analyse.
 
 <!-- id: s13-11-0193 -->
 
@@ -792,7 +796,7 @@ Or justement, ça c’est le *complexe de castration*. Le *complexe de castratio
 
 <!-- id: s13-11-0197 -->
 
-> et c’est là qu’intervient justement *la structure du transfert* dont vous parliez en citant LACAN, *opposée à son historicité* …on peut quand même être amené à lui montrer, par exemple, lorsque c’est une dame qui se plaint de n’avoir pas de pénis, de lui dire que de toute façon l’analyse ne lui en donne pas un, que ce dont elle se plaint - de ne pas avoir de pénis – que son envie du pénis n’est rien d’autre que ce avec quoi elle essaie de présenter au psychanalyste un leurre.
+et c’est là qu’intervient justement *la structure du transfert* dont vous parliez en citant LACAN, *opposée à son historicité* …on peut quand même être amené à lui montrer, par exemple, lorsque c’est une dame qui se plaint de n’avoir pas de pénis, de lui dire que de toute façon l’analyse ne lui en donne pas un, que ce dont elle se plaint - de ne pas avoir de pénis – que son envie du pénis n’est rien d’autre que ce avec quoi elle essaie de présenter au psychanalyste un leurre.
 
 <!-- id: s13-11-0198 -->
 

@@ -14,9 +14,9 @@ C’est bien en effet concevable que ce n’est pas *à l’entrée* - en maniè
 
 <!-- id: s16-12-0003 -->
 
-> qui est bien ce qui vous intéresse, qui vous retient,
->
-> ce qui fait qu’au moins un certain nombre d’entre vous sont ici, sinon tous …il me faut – un certain temps - prendre le repère de ce qui en constituait les étapes dans le passé.
+qui est bien ce qui vous intéresse, qui vous retient,
+
+ce qui fait qu’au moins un certain nombre d’entre vous sont ici, sinon tous …il me faut – un certain temps - prendre le repère de ce qui en constituait les étapes dans le passé.
 
 <!-- id: s16-12-0004 -->
 
@@ -60,9 +60,9 @@ Il l’a au reste fort bien mis en valeur et montré sa parfaite information du 
 
 <!-- id: s16-12-0014 -->
 
-> dont, après tout, il n’y a pas lieu de nous étonner qu’elle ne soit pas de nos jours tout aussi bien à la traîne,
->
-> tout aussi bien en retard - par rapport à ce qui se fait - que dans les autres temps …qu’une fonction critique a cru pouvoir épingler de ce terme bizarre, qu’assurément aucun de ceux qui en sont les éléments de pointe n’assume, mais dont nous nous trouvons affectés comme d’une bizarre étiquette qu’on nous aurait collée dans le dos sans notre aveu : « *structuralisme* ».
+dont, après tout, il n’y a pas lieu de nous étonner qu’elle ne soit pas de nos jours tout aussi bien à la traîne,
+
+tout aussi bien en retard - par rapport à ce qui se fait - que dans les autres temps …qu’une fonction critique a cru pouvoir épingler de ce terme bizarre, qu’assurément aucun de ceux qui en sont les éléments de pointe n’assume, mais dont nous nous trouvons affectés comme d’une bizarre étiquette qu’on nous aurait collée dans le dos sans notre aveu : « *structuralisme* ».
 
 <!-- id: s16-12-0015 -->
 
@@ -70,13 +70,13 @@ Donc, il y a dix ans, commençant d’introduire la question…
 
 <!-- id: s16-12-0016 -->
 
-> je vous l’ai dit : qui n’avait jamais été même élevée, ce qui est bien singulier …éthique de la psychanalyse : assurément peut-être le plus étrange est cette remarque dont j’ai cru devoir l’illustrer…
+je vous l’ai dit : qui n’avait jamais été même élevée, ce qui est bien singulier …éthique de la psychanalyse : assurément peut-être le plus étrange est cette remarque dont j’ai cru devoir l’illustrer…
 
 <!-- id: s16-12-0017 -->
 
-> non pas certes immédiatement, mais même je ne sais pas si j’ai tellement appuyé, à ce moment-là, la chose :
->
-> j’avais un auditoire de psychanalystes, je croyais pouvoir en quelque sorte m’adresser directement à ce qu’il faut bien appeler d’un nom, quand il s’agit de morale, de *conscience*, ajoutez *morale* …je n’ai point trop fait remarquer alors que *l’éthique du psychanalyste* telle qu’elle est constituée par une déontologie ne donnait même pas l’ébauche, l’amorce, le plus petit trait de commencement, de *l’éthique de la psychanalyse*.
+non pas certes immédiatement, mais même je ne sais pas si j’ai tellement appuyé, à ce moment-là, la chose :
+
+j’avais un auditoire de psychanalystes, je croyais pouvoir en quelque sorte m’adresser directement à ce qu’il faut bien appeler d’un nom, quand il s’agit de morale, de *conscience*, ajoutez *morale* …je n’ai point trop fait remarquer alors que *l’éthique du psychanalyste* telle qu’elle est constituée par une déontologie ne donnait même pas l’ébauche, l’amorce, le plus petit trait de commencement, de *l’éthique de la psychanalyse*.
 
 <!-- id: s16-12-0018 -->
 
@@ -96,9 +96,9 @@ Ce n’est en effet pas par hasard que, pour pouvoir le brancher, je suis parti 
 
 <!-- id: s16-12-0022 -->
 
-> ou encore ceux qui croient devoir interroger le langage sous l’angle de ceci dont j’ai en son temps fait remarquer combien futile doit être la destinée, d’interroger ceci qu’ils expriment d’une façon exemplaire, à savoir la question mise sur le *meaning of meanings,* sur ce qu’il en est du sens de ce que les choses aient une signification :
->
-> il est bien certain que c’est là la voie toute opposée à ce qui nous intéresse …mais ce n’est aussi - bien sûr - pas par hasard que ce soit eux, et nommément OSGOOD qui ait sorti ou ressorti, édité plutôt cette oeuvre de Jeremy BENTHAM qui s’appelle « *Theory of fictions »* [^50].
+ou encore ceux qui croient devoir interroger le langage sous l’angle de ceci dont j’ai en son temps fait remarquer combien futile doit être la destinée, d’interroger ceci qu’ils expriment d’une façon exemplaire, à savoir la question mise sur le *meaning of meanings,* sur ce qu’il en est du sens de ce que les choses aient une signification :
+
+il est bien certain que c’est là la voie toute opposée à ce qui nous intéresse …mais ce n’est aussi - bien sûr - pas par hasard que ce soit eux, et nommément OSGOOD qui ait sorti ou ressorti, édité plutôt cette oeuvre de Jeremy BENTHAM qui s’appelle « *Theory of fictions »* [^50].
 
 <!-- id: s16-12-0023 -->
 
@@ -110,9 +110,9 @@ Il suffit d’entendre le terme « *fictions »* comme ne représentant, n’a
 
 <!-- id: s16-12-0025 -->
 
-> si l’on peut s’exprimer ainsi, pardonnez-moi ce *par essence*, c’est pour me faire entendre,
->
-> n’y mettez pas tout l’accent philosophique que ce terme comporte …*la vérité* - de soi, disons - *a structure de fiction*.
+si l’on peut s’exprimer ainsi, pardonnez-moi ce *par essence*, c’est pour me faire entendre,
+
+n’y mettez pas tout l’accent philosophique que ce terme comporte …*la vérité* - de soi, disons - *a structure de fiction*.
 
 <!-- id: s16-12-0026 -->
 
@@ -124,11 +124,11 @@ C’est à partir de ce point, qui ne peut bien sûr être atteint qu’à parti
 
 <!-- id: s16-12-0028 -->
 
-> disons une fois de plus pour évoquer notre PASCAL, tout d’un coup, au détour je m’en souviens :
->
-> qui donc a osé avant lui noter simplement comme de quelque chose qui devait faire partie du discours qu’il a laissé inachevé, celui assez légitimement, assez ambigument aussi, récolté sous le termes de *Pensées,* la formule
->
-> « *vérité en-deça des Pyrénées, erreur au-delà* » …c’est à partir de certains degrés de *relativisme*, et de *relativisme* du type le plus radical au regard non pas seulement des mœurs et des institutions mais de la vérité elle-même, que peut commencer de se poser le problème de l’éthique.
+disons une fois de plus pour évoquer notre PASCAL, tout d’un coup, au détour je m’en souviens :
+
+qui donc a osé avant lui noter simplement comme de quelque chose qui devait faire partie du discours qu’il a laissé inachevé, celui assez légitimement, assez ambigument aussi, récolté sous le termes de *Pensées,* la formule
+
+« *vérité en-deça des Pyrénées, erreur au-delà* » …c’est à partir de certains degrés de *relativisme*, et de *relativisme* du type le plus radical au regard non pas seulement des mœurs et des institutions mais de la vérité elle-même, que peut commencer de se poser le problème de l’éthique.
 
 <!-- id: s16-12-0029 -->
 
@@ -136,13 +136,13 @@ Et c’est en cela que *l’événement* FREUD se montre si *exemplaire*, en cec
 
 <!-- id: s16-12-0030 -->
 
-> comme je l’ai souligné et avec quelque appui, avec quelque accent dans ce qui a été le premier trimestre
->
-> de cette articulation de *L’éthique de la psychanalyse* [^51] …à savoir le changement radical qui résulte d’un événement qui n’est rien d’autre - nous allons le voir - que sa découverte, à savoir la fonction de l’inconscient, que c’est corrélativement…
+comme je l’ai souligné et avec quelque appui, avec quelque accent dans ce qui a été le premier trimestre
+
+de cette articulation de *L’éthique de la psychanalyse* [^51] …à savoir le changement radical qui résulte d’un événement qui n’est rien d’autre - nous allons le voir - que sa découverte, à savoir la fonction de l’inconscient, que c’est corrélativement…
 
 <!-- id: s16-12-0031 -->
 
-> nous allons voir tout à l’heure pourquoi, d’une façon qui, je pense, vous frappera assez par son élégance …qu’il a fait fonctionner d’une façon radicalement différente de tout ce qui avait été fait jusque là, *le principe* dit *du plaisir*.
+nous allons voir tout à l’heure pourquoi, d’une façon qui, je pense, vous frappera assez par son élégance …qu’il a fait fonctionner d’une façon radicalement différente de tout ce qui avait été fait jusque là, *le principe* dit *du plaisir*.
 
 <!-- id: s16-12-0032 -->
 
@@ -166,9 +166,9 @@ Disons qu’à grossièrement le schématiser, nous pourrons le mettre au cœur 
 
 <!-- id: s16-12-0037 -->
 
-> *pour ne pas dire « réponse », qui est un abus de terme parce que réponse a un sens*
->
-> *qui doit avoir pour nous une structure bien plus complexe où quelque chose s’interpose dans la fonction* …se définit très précisément non pas simplement d’être l’effet d’empêchement survenu sur l’arc basal, mais à proprement parler d’y faire obstacle, c’est-à­-dire de constituer un système dit Ψ, autonome, à l’intérieur duquel l’économie est telle que ce n’est certainement pas l’adaptation, l’adéquation de la réponse motrice qui, comme vous le savez, est loin d’être toujours suffisamment adaptée : nous la supposons libre, mais tout ce qui peut se passer au niveau du fait qu’un être vivant animal, en tant qu’il se définit par le fait d’être doué d’une motricité qui lui permet d’échapper aux *stimuli trop intenses*, aux *stimuli ravageants* qui peuvent menacer son intégrité… Il est clair que ce dont il s’agit au niveau de ce qu’articule FREUD, c’est que quelque chose est logé comme tel dans certains de ces êtres vivants, et non pas n’importe lesquels.
+*pour ne pas dire « réponse », qui est un abus de terme parce que réponse a un sens*
+
+*qui doit avoir pour nous une structure bien plus complexe où quelque chose s’interpose dans la fonction* …se définit très précisément non pas simplement d’être l’effet d’empêchement survenu sur l’arc basal, mais à proprement parler d’y faire obstacle, c’est-à­-dire de constituer un système dit Ψ, autonome, à l’intérieur duquel l’économie est telle que ce n’est certainement pas l’adaptation, l’adéquation de la réponse motrice qui, comme vous le savez, est loin d’être toujours suffisamment adaptée : nous la supposons libre, mais tout ce qui peut se passer au niveau du fait qu’un être vivant animal, en tant qu’il se définit par le fait d’être doué d’une motricité qui lui permet d’échapper aux *stimuli trop intenses*, aux *stimuli ravageants* qui peuvent menacer son intégrité… Il est clair que ce dont il s’agit au niveau de ce qu’articule FREUD, c’est que quelque chose est logé comme tel dans certains de ces êtres vivants, et non pas n’importe lesquels.
 
 <!-- id: s16-12-0038 -->
 
@@ -180,7 +180,7 @@ Et non pas certes qu’il puisse dire que le même appareil puisse être défini
 
 <!-- id: s16-12-0040 -->
 
-> même si de temps en temps il risque la possibilité d’interpréter ce qui se passe au niveau d’autres êtres voisins en référence à ce qui se passe chez *l’être humain défini*, d’une façon nécessaire par seulement les conséquences et le texte du discours de FREUD, *comme l’être parlant* …c’est à ce niveau que se produit cette régulation homéostasique qui est définie par le retour à une identité de perception.
+même si de temps en temps il risque la possibilité d’interpréter ce qui se passe au niveau d’autres êtres voisins en référence à ce qui se passe chez *l’être humain défini*, d’une façon nécessaire par seulement les conséquences et le texte du discours de FREUD, *comme l’être parlant* …c’est à ce niveau que se produit cette régulation homéostasique qui est définie par le retour à une identité de perception.
 
 <!-- id: s16-12-0041 -->
 
@@ -232,7 +232,7 @@ Pour tout dire, nous nous trouvons devant cette aventure que, pour motiver *ce q
 
 <!-- id: s16-12-0053 -->
 
-> *tout à l’envers de ce qui traditionnellement est l’appui des philosophes quand il s’agit d’aborder ce qu’il en est du bien de l’homme* …*voici que le monde tout entier est suspendu au rêve du monde*.
+*tout à l’envers de ce qui traditionnellement est l’appui des philosophes quand il s’agit d’aborder ce qu’il en est du bien de l’homme* …*voici que le monde tout entier est suspendu au rêve du monde*.
 
 <!-- id: s16-12-0054 -->
 
@@ -240,19 +240,19 @@ Pour tout dire, nous nous trouvons devant cette aventure que, pour motiver *ce q
 
 <!-- id: s16-12-0055 -->
 
-> qui consiste en rien d’autre que proprement un arrêt supposé de ce qui, *dans la perspective traditionnelle*,
->
-> était considéré comme le fondement englobant toutes les réflexions, à savoir de ce monde la rotation,
->
-> la rotation céleste si manifestement désignée dans le texte d’ARISTOTE comme constituant le point référentiel
->
-> où tout bien concevable doit s’accrocher …la mise en question donc radicale de tout effet de *représentation*, d’*aucune connivence* de ce qu’il en est *du représenté* comme tel, non point dans un sujet…
+qui consiste en rien d’autre que proprement un arrêt supposé de ce qui, *dans la perspective traditionnelle*,
+
+était considéré comme le fondement englobant toutes les réflexions, à savoir de ce monde la rotation,
+
+la rotation céleste si manifestement désignée dans le texte d’ARISTOTE comme constituant le point référentiel
+
+où tout bien concevable doit s’accrocher …la mise en question donc radicale de tout effet de *représentation*, d’*aucune connivence* de ce qu’il en est *du représenté* comme tel, non point dans un sujet…
 
 <!-- id: s16-12-0056 -->
 
-> ne le disons point trop tôt car si dans ARISTOTE ce terme ὑποχείμενον \[upokeimenon\]
->
-> est avancé exactement à propos de *la logique* il n’est nulle part isolé comme tel …il a fallu longtemps, et tout le progrès de la tradition philosophique, pour que la connaissance s’organise au dernier terme, au terme kantien, *d’une relation* « *­sujet et quelque chose* » *qui reste entièrement suspendu* - *c’est là le sens de l’idéalisme* - *à ce qui apparaît,* *au* ϕαινόμενον \[phainomenon\] laissant exclu le νουμενον \[noumenon\] c’est-à-dire ce qu’il y a derrière.
+ne le disons point trop tôt car si dans ARISTOTE ce terme ὑποχείμενον \[upokeimenon\]
+
+est avancé exactement à propos de *la logique* il n’est nulle part isolé comme tel …il a fallu longtemps, et tout le progrès de la tradition philosophique, pour que la connaissance s’organise au dernier terme, au terme kantien, *d’une relation* « *­sujet et quelque chose* » *qui reste entièrement suspendu* - *c’est là le sens de l’idéalisme* - *à ce qui apparaît,* *au* ϕαινόμενον \[phainomenon\] laissant exclu le νουμενον \[noumenon\] c’est-à-dire ce qu’il y a derrière.
 
 <!-- id: s16-12-0057 -->
 
@@ -284,7 +284,7 @@ C’est à proprement parler en ceci que *la position freudienne diffère* :
 
 <!-- id: s16-12-0064 -->
 
-> *et ceci tout à fait en passant hors du circuit de tout sujet en quoi prétendait s’unifier la représentation* …a une structure, a une *structure qui est de trame et de réseau*,
+*et ceci tout à fait en passant hors du circuit de tout sujet en quoi prétendait s’unifier la représentation* …a une structure, a une *structure qui est de trame et de réseau*,
 
 <!-- id: s16-12-0065 -->
 
@@ -320,15 +320,15 @@ Achetez « *Naissance de la psychanalyse »…*
 
 <!-- id: s16-12-0073 -->
 
-> comme a été traduit le recueil de lettres à FLIESS auquel était jointe cette *Entwurf* …et vous verrez bien qu’en effet ce dont FREUD a trouvé un support aisé…
+comme a été traduit le recueil de lettres à FLIESS auquel était jointe cette *Entwurf* …et vous verrez bien qu’en effet ce dont FREUD a trouvé un support aisé…
 
 <!-- id: s16-12-0074 -->
 
-> dans ce qui était alors à la portée de sa main du fait que de cela aussi on venait de faire la découverte …à savoir l’articulation neuronique, ce n’était rien d’autre que l’articulation sous la forme la plus élémentaire des signifiants et des relations qui peuvent se fixer à la façon dont de nos jours un même schéma qui aurait la même forme…
+dans ce qui était alors à la portée de sa main du fait que de cela aussi on venait de faire la découverte …à savoir l’articulation neuronique, ce n’était rien d’autre que l’articulation sous la forme la plus élémentaire des signifiants et des relations qui peuvent se fixer à la façon dont de nos jours un même schéma qui aurait la même forme…
 
 <!-- id: s16-12-0075 -->
 
-> achetez le dernier petit bouquin venu, ou plutôt achetez *Théorie axiomatique des ensembles* par M. KRIVINE[^52] …vous y verrez exactement les schémas de FREUD, à ceci près que ce dont il s’agit, ce sont des petits schémas orientés à peu près ainsi :
+achetez le dernier petit bouquin venu, ou plutôt achetez *Théorie axiomatique des ensembles* par M. KRIVINE[^52] …vous y verrez exactement les schémas de FREUD, à ceci près que ce dont il s’agit, ce sont des petits schémas orientés à peu près ainsi :
 
 <!-- id: s16-12-0076 -->
 
@@ -348,7 +348,7 @@ Et déjà là vous verrez…
 
 <!-- id: s16-12-0080 -->
 
-> à simplement lire les premières lignes, à savoir ce que comporte chaque pas axiomatique franchi …les véritables nécessités prises sous l’angle formel dans ce qu’il en est de l’articulation signifiante, prise à son niveau le plus radical qui est ceci notamment de particulièrement exemplaire : *que la notion qui s’y définit d’une partie concernant ses éléments* \- *éléments* qui sont toujours des « *ensembles »* - *la façon dont on dit qu’un de ces éléments est contenu dans un autre*, repose sur des définitions formelles qui sont telles qu’elles se distinguent, qu’elles ne peuvent pas être identifiées avec ce que veut dire intuitivement le terme « *être contenu dans* » car à supposer que *je fasse* *un schéma* un peu plus compliqué que celui-là et que j’écrive sur le tableau comme note : « *identification de chacun de ces termes ensemblistes* » il ne suffit pas du tout que l’un d’entre eux soit écrit c’est-à-dire constitue en apparence une partie de l’univers que j’institue ici, pour qu’il y puisse d’aucune façon être dit « *être contenu dans* » aucun des autres termes, à savoir en être élément.
+à simplement lire les premières lignes, à savoir ce que comporte chaque pas axiomatique franchi …les véritables nécessités prises sous l’angle formel dans ce qu’il en est de l’articulation signifiante, prise à son niveau le plus radical qui est ceci notamment de particulièrement exemplaire : *que la notion qui s’y définit d’une partie concernant ses éléments* \- *éléments* qui sont toujours des « *ensembles »* - *la façon dont on dit qu’un de ces éléments est contenu dans un autre*, repose sur des définitions formelles qui sont telles qu’elles se distinguent, qu’elles ne peuvent pas être identifiées avec ce que veut dire intuitivement le terme « *être contenu dans* » car à supposer que *je fasse* *un schéma* un peu plus compliqué que celui-là et que j’écrive sur le tableau comme note : « *identification de chacun de ces termes ensemblistes* » il ne suffit pas du tout que l’un d’entre eux soit écrit c’est-à-dire constitue en apparence une partie de l’univers que j’institue ici, pour qu’il y puisse d’aucune façon être dit « *être contenu dans* » aucun des autres termes, à savoir en être élément.
 
 <!-- id: s16-12-0081 -->
 
@@ -400,7 +400,7 @@ Mais l’important est ceci…
 
 <!-- id: s16-12-0093 -->
 
-> et qu’il convient ici d’accentuer pour nous permettre de saisir ce qu’il en est vraiment des fonctions qui sont les nôtres, j’entends des *fonctions psychanalytiques* …si au niveau de la possibilité de rêve… à savoir de ce *principe du plaisir* par quoi essentiellement et au départ la fonction du principe de réalité est constituée comme précaire, non certes annulée pour autant mais essentiellement suspendue à la précarité radicale à quoi la soumet le *principe du plaisir* …ce qu’il faut saisir, c’est ceci : que ce que nous voyons dans le rêve… puisqu’au départ c’est là que se fait pour l’essentiel l’abord de cette *fonction du signifiant*, de cette structure logique minimale dont je réarticulais à l’instant les termes, il faut pousser jusqu’au bout ce qu’il en est de la perspective freudienne …*si* - comme tout l’indique dans notre façon de traiter le rêve *- ce dont il s’agit, c’est de phrases*… laissons pour l’instant la nature de leur syntaxe : elles en ont une - élémentaire - au moins au niveau des deux mécanismes que je viens de rappeler de la *condensation* et du *déplacement* …ce qu’il faut voir, *c’est que la façon dont il nous apparaît hallucinatoire*… avec l’accent que FREUD donne à ce terme à ce niveau …*qu’est-ce à dire si ce n’est que le rêve est déjà en lui–même interprétation* - sauvage, certes - mais *interprétation*.
+et qu’il convient ici d’accentuer pour nous permettre de saisir ce qu’il en est vraiment des fonctions qui sont les nôtres, j’entends des *fonctions psychanalytiques* …si au niveau de la possibilité de rêve… à savoir de ce *principe du plaisir* par quoi essentiellement et au départ la fonction du principe de réalité est constituée comme précaire, non certes annulée pour autant mais essentiellement suspendue à la précarité radicale à quoi la soumet le *principe du plaisir* …ce qu’il faut saisir, c’est ceci : que ce que nous voyons dans le rêve… puisqu’au départ c’est là que se fait pour l’essentiel l’abord de cette *fonction du signifiant*, de cette structure logique minimale dont je réarticulais à l’instant les termes, il faut pousser jusqu’au bout ce qu’il en est de la perspective freudienne …*si* - comme tout l’indique dans notre façon de traiter le rêve *- ce dont il s’agit, c’est de phrases*… laissons pour l’instant la nature de leur syntaxe : elles en ont une - élémentaire - au moins au niveau des deux mécanismes que je viens de rappeler de la *condensation* et du *déplacement* …ce qu’il faut voir, *c’est que la façon dont il nous apparaît hallucinatoire*… avec l’accent que FREUD donne à ce terme à ce niveau …*qu’est-ce à dire si ce n’est que le rêve est déjà en lui–même interprétation* - sauvage, certes - mais *interprétation*.
 
 <!-- id: s16-12-0094 -->
 
@@ -432,9 +432,9 @@ Et FREUD nous dit qu’assurément…
 
 <!-- id: s16-12-0101 -->
 
-> à part ceci que le rêve n’était là que pour prolonger le sommeil
->
-> au regard des premiers signes de ce qui était perçu d’une réalité horrible …*est-ce que nous ne saisissons pas plus loin :* *que c’est précisément de considérer que la réalité recouvre ce rêve qui prouve que le père dort toujours*.
+à part ceci que le rêve n’était là que pour prolonger le sommeil
+
+au regard des premiers signes de ce qui était perçu d’une réalité horrible …*est-ce que nous ne saisissons pas plus loin :* *que c’est précisément de considérer que la réalité recouvre ce rêve qui prouve que le père dort toujours*.
 
 <!-- id: s16-12-0102 -->
 
@@ -488,7 +488,7 @@ C’est bien là qu’est la question et que nos formules, en tant qu’elles in
 
 <!-- id: s16-12-0114 -->
 
-> simplement la réunion des deux termes précédents pour constituer le troisième : 1,1,2,3,5… …que c’est de là même - je vous l’ai dit - que s’engendre ce quelque chose qui n’est pas de l’ordre de ce qu’on appelle *la mathématique*, *le rationnel*, à savoir *ce trait unaire*, mais quelque chose qui à l’origine introduit *cette première* - la plus originelle de toutes - *proportion* que nous avons désignée et qui se désigne en mathématiques où elle est parfaitement connue simplement par cette proportion :
+simplement la réunion des deux termes précédents pour constituer le troisième : 1,1,2,3,5… …que c’est de là même - je vous l’ai dit - que s’engendre ce quelque chose qui n’est pas de l’ordre de ce qu’on appelle *la mathématique*, *le rationnel*, à savoir *ce trait unaire*, mais quelque chose qui à l’origine introduit *cette première* - la plus originelle de toutes - *proportion* que nous avons désignée et qui se désigne en mathématiques où elle est parfaitement connue simplement par cette proportion :
 
 <!-- id: s16-12-0115 -->
 
@@ -512,7 +512,7 @@ Est-ce que notre rapport, celui que nous avons fait tout à l’heure, entre le 
 
 <!-- id: s16-12-0120 -->
 
-> *je l’isole de l’ensemble des formations de l’inconscient, ce n’est pas dire que je pourrais aussi l’étendre, mais je l’isole pour la clarté* …ce rêve dont c’est à tort dont nous pouvons à son propos nous poser la question de « *qu’est-ce que ça veut dire ?* », car ce n’est pas là l’important, c’est : « *où est la faille de ce qui se dit ?* » Parce que c’est cela qui nous importe.
+*je l’isole de l’ensemble des formations de l’inconscient, ce n’est pas dire que je pourrais aussi l’étendre, mais je l’isole pour la clarté* …ce rêve dont c’est à tort dont nous pouvons à son propos nous poser la question de « *qu’est-ce que ça veut dire ?* », car ce n’est pas là l’important, c’est : « *où est la faille de ce qui se dit ?* » Parce que c’est cela qui nous importe.
 
 <!-- id: s16-12-0121 -->
 
@@ -548,9 +548,9 @@ Mais je vous interroge : est-ce que vous avez jamais *rien*…
 
 <!-- id: s16-12-0129 -->
 
-> je ne dis pas « *appris* », parce qu’*apprendre*, c’est une chose terrible, il faut passer à travers
->
-> toute la connerie de ceux qui vous expliquent les choses, et ça c’est pénible à soulever …mais est-ce que *savoir* quelque chose, ça n’est pas toujours quelque chose qui *se produit en un éclair* ? \[Cf. Zen\]
+je ne dis pas « *appris* », parce qu’*apprendre*, c’est une chose terrible, il faut passer à travers
+
+toute la connerie de ceux qui vous expliquent les choses, et ça c’est pénible à soulever …mais est-ce que *savoir* quelque chose, ça n’est pas toujours quelque chose qui *se produit en un éclair* ? \[Cf. Zen\]
 
 <!-- id: s16-12-0130 -->
 
@@ -570,7 +570,7 @@ Et chaque fois que se produit un savoir, bien sûr, il n’est pas inutile qu’
 
 <!-- id: s16-12-0134 -->
 
-> que j’ai un scrupule de ne pas vous avoir fait complètement bien sentir tout à l’heure, mais le temps me pressait … de la théorie des ensembles. Nous y reviendrons s’il le faut.
+que j’ai un scrupule de ne pas vous avoir fait complètement bien sentir tout à l’heure, mais le temps me pressait … de la théorie des ensembles. Nous y reviendrons s’il le faut.
 
 <!-- id: s16-12-0135 -->
 

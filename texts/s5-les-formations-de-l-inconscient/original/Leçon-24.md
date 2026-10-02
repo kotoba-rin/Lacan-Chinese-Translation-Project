@@ -393,7 +393,7 @@ Je dois dire que « *la sexualité exubérante et précoce* », celui dont il 
 
 <!-- id: s5-24-0079 -->
 
-> qu’« *Il se masturbait en se pinçant légèrement la partie périphérique du prépuce, persuadé, à l’époque, qu’il se produirait des lésions irréparables si le four­reau se rétractait. Il n’osait pas se laver les* \[...\] *car il redoutait de se blesser et de perdre quelque chose. Les conseils d’un médecin* \[...\] *ils durent consulter un médecin devant les échecs répétés de leurs tentatives de coït.* »[^59]
+qu’« *Il se masturbait en se pinçant légèrement la partie périphérique du prépuce, persuadé, à l’époque, qu’il se produirait des lésions irréparables si le four­reau se rétractait. Il n’osait pas se laver les* \[...\] *car il redoutait de se blesser et de perdre quelque chose. Les conseils d’un médecin* \[...\] *ils durent consulter un médecin devant les échecs répétés de leurs tentatives de coït.* »[^59]
 
 <!-- id: s5-24-0080 -->
 
@@ -547,8 +547,12 @@ Essayons d’articuler plus précisément ceci. Ce désir, il est quand même vo
 
 <!-- id: s5-24-0108 -->
 
-> « *Quand je vous dis un insigne, un trait, un seul trait - peu importe lequel - de quelqu’un d’autre*
-> *chez lequel elle peut pressentir qu’il y a le même problème du désir*... »
+<div class="text-quotation">
+
+« *Quand je vous dis un insigne, un trait, un seul trait - peu importe lequel - de quelqu’un d’autre*
+*chez lequel elle peut pressentir qu’il y a le même problème du désir*... »
+
+</div>
 
 <!-- id: s5-24-0109 -->
 
@@ -640,8 +644,12 @@ Quand, après toutes sortes de sollicitations de l’analyste, certains fantasme
 
 <!-- id: s5-24-0128 -->
 
-> « *Je vous accompagne à votre domicile particulier. Dans votre chambre il y a un grand lit. Je m’y couche.*
-> *Je suis extrêmement gêné. Il y a un bidet dans un coin de la chambre. Je suis heureux, quoique mal à l’aise.* » \[R.F.P. 1948, p.435\]
+<div class="text-quotation">
+
+« *Je vous accompagne à votre domicile particulier. Dans votre chambre il y a un grand lit. Je m’y couche.*
+*Je suis extrêmement gêné. Il y a un bidet dans un coin de la chambre. Je suis heureux, quoique mal à l’aise.* » \[R.F.P. 1948, p.435\]
+
+</div>
 
 <!-- id: s5-24-0129 -->
 

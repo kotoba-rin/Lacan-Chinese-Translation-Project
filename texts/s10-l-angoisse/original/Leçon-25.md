@@ -110,8 +110,8 @@ Et singulièrement...
 
 <!-- id: s10-25-0019 -->
 
-> je vous prie un instant de vous arrêter au paradoxe qui là conjoint le point de départ de ce premier effet de cession, qu’est celui de l’angoisse, avec ce qui sera au terme quelque chose comme son point d’arrivée
-> ...cette manifestation de l’angoisse, coïncidant avec l’émergen­ce même au monde de celui qui sera le sujet, c’est *le cri*.
+je vous prie un instant de vous arrêter au paradoxe qui là conjoint le point de départ de ce premier effet de cession, qu’est celui de l’angoisse, avec ce qui sera au terme quelque chose comme son point d’arrivée
+...cette manifestation de l’angoisse, coïncidant avec l’émergen­ce même au monde de celui qui sera le sujet, c’est *le cri*.
 
 <!-- id: s10-25-0020 -->
 
@@ -141,27 +141,27 @@ Je vous prierai plutôt, de rete­nir...
 
 <!-- id: s10-25-0025 -->
 
-> car *tout* ce qui nous est indiqué dans cette spéculation souvent confu­se qu’est la spéculation psychanalytique
->
-> doit être considéré par nous comme n’étant pas dépourvu de sens, sur la voie de quelque chose d’indi­catif,
->
-> qu’elle saute, se traîne et quelque fois illumine
-> *...*puisque de *phylogenè­se* on fait état en l’occasion, je vous prie...
+car *tout* ce qui nous est indiqué dans cette spéculation souvent confu­se qu’est la spéculation psychanalytique
+
+doit être considéré par nous comme n’étant pas dépourvu de sens, sur la voie de quelque chose d’indi­catif,
+
+qu’elle saute, se traîne et quelque fois illumine
+*...*puisque de *phylogenè­se* on fait état en l’occasion, je vous prie...
 
 <!-- id: s10-25-0026 -->
 
-> du point de vue d’un échan­ge schématisé dans la forme d’un organisme
->
-> avec à sa limite et sur cette limi­te un certain nombre de points choisis d’échange
-> ...de vous apercevoir combien en effet, c’est une chose incroyable...
+du point de vue d’un échan­ge schématisé dans la forme d’un organisme
+
+avec à sa limite et sur cette limi­te un certain nombre de points choisis d’échange
+...de vous apercevoir combien en effet, c’est une chose incroyable...
 
 <!-- id: s10-25-0027 -->
 
-> si tant est que le schéma vital de l’échange le plus basal est effectivement fait de la fonction *de cette paroi, de cette limite, de cette osmose,* entre un milieu extérieur et un milieu inté­rieur entre lesquels il doit y avoir un facteur commun
-> ...de considérer l’étrangeté de ce saut par quoi des êtres vivants sont sortis de leur milieu primitif,
-> sont passés à cet air, avec un organe dont...
-> je vous prie de consulter là-dessus les livres d’embryologie
-> *...*on ne peut qu’être frappé par le caractère, dans le développement, de néo-formations, si l’on peut dire, arbitraires.
+si tant est que le schéma vital de l’échange le plus basal est effectivement fait de la fonction *de cette paroi, de cette limite, de cette osmose,* entre un milieu extérieur et un milieu inté­rieur entre lesquels il doit y avoir un facteur commun
+...de considérer l’étrangeté de ce saut par quoi des êtres vivants sont sortis de leur milieu primitif,
+sont passés à cet air, avec un organe dont...
+je vous prie de consulter là-dessus les livres d’embryologie
+*...*on ne peut qu’être frappé par le caractère, dans le développement, de néo-formations, si l’on peut dire, arbitraires.
 
 <!-- id: s10-25-0028 -->
 
@@ -203,10 +203,10 @@ Ce n’est pas essentiellement vrai que l’enfant *soit sevré*, *il se sèvre�
 
 <!-- id: s10-25-0035 -->
 
-> après cette première expérience dont le caractère déjà subjectivé se manifeste aussi sensiblement
->
-> par le passage sur sa face, seu­lement ébauchant les premiers signes de la mimique de la surprise
-> ...*il joue à se détacher et à reprendre ce sein*.
+après cette première expérience dont le caractère déjà subjectivé se manifeste aussi sensiblement
+
+par le passage sur sa face, seu­lement ébauchant les premiers signes de la mimique de la surprise
+...*il joue à se détacher et à reprendre ce sein*.
 
 <!-- id: s10-25-0036 -->
 
@@ -227,10 +227,10 @@ comment même pourrions-nous concevoir les faits très primitifs, très pri­mor
 
 <!-- id: s10-25-0040 -->
 
-> pour ce qu’il est donné pour être dans la théorie clas­sique,
->
-> à savoir la rupture du lien à l’Autre
-> ...*il lui manque* \[à ce sein\] *son plein lien à l’Autre*.
+pour ce qu’il est donné pour être dans la théorie clas­sique,
+
+à savoir la rupture du lien à l’Autre
+...*il lui manque* \[à ce sein\] *son plein lien à l’Autre*.
 
 <!-- id: s10-25-0041 -->
 
@@ -367,17 +367,17 @@ Et c’est pourquoi dès ma deuxième leçon [^174], je vous *ai signalé*...
 
 <!-- id: s10-25-0069 -->
 
-> en opposant la structure du rapport du désir au désir de l’Autre, au sens où je vous l’enseigne,
->
-> avec la structure où il s’articule, se définit, s’algébrise dans la dialectique hégélienne
-> ...je vous ai dit que le point où ils se recou­vrent, point partiel...
-> celui-là même qui nous permet de définir ce rapport comme rapport d’agressivité
-> ...c’est celui que définissait la formule au point où nous égalons à zéro le *« moment »* - je l’entends au sens physique - de ce désir,
-> c’est-à-dire de ce que j’ai écrit ici « *d(a)* » :
+en opposant la structure du rapport du désir au désir de l’Autre, au sens où je vous l’enseigne,
+
+avec la structure où il s’articule, se définit, s’algébrise dans la dialectique hégélienne
+...je vous ai dit que le point où ils se recou­vrent, point partiel...
+celui-là même qui nous permet de définir ce rapport comme rapport d’agressivité
+...c’est celui que définissait la formule au point où nous égalons à zéro le *« moment »* - je l’entends au sens physique - de ce désir,
+c’est-à-dire de ce que j’ai écrit ici « *d(a)* » :
 
 <!-- id: s10-25-0070 -->
 
-> *d(a)* : *0 \> d (0)*
+*d(a)* : *0 \> d (0)*
 
 <!-- id: s10-25-0071 -->
 
@@ -807,9 +807,9 @@ laquelle implique comme telle - je me suis contenté de l’indiquer - la dimens
 
 <!-- id: s10-25-0149 -->
 
-> *Si l’année prochaine les choses se passent de façon que je puisse poursuivre - selon la voie prévue - mon séminaire,*
->
-> *c’est autour, non pas seu­lement du nom, mais des Noms du Père que je vous donnerai rendez-vous.*
+*Si l’année prochaine les choses se passent de façon que je puisse poursuivre - selon la voie prévue - mon séminaire,*
+
+*c’est autour, non pas seu­lement du nom, mais des Noms du Père que je vous donnerai rendez-vous.*
 
 <!-- id: s10-25-0150 -->
 
@@ -831,12 +831,12 @@ La nécessité même...
 
 <!-- id: s10-25-0154 -->
 
-> à côté de ce qui nous est ici tracé, représenté, rendu sensible par l’expérience,
->
-> et jusque par les faits, maintes fois pesés par nous, de la carence de la fonction du père
-> ...est-ce que la néces­sité du maintien du mythe n’attire pas notre attention sur autre chose,
-> sur la nécessité de l’articulation, de l’appui, du maintien, d’une fonction qui est celle-ci :
-> qui est que le père dans la manifestation de son désir, sait - lui - à quel *(a)* ce désir se réfère ?
+à côté de ce qui nous est ici tracé, représenté, rendu sensible par l’expérience,
+
+et jusque par les faits, maintes fois pesés par nous, de la carence de la fonction du père
+...est-ce que la néces­sité du maintien du mythe n’attire pas notre attention sur autre chose,
+sur la nécessité de l’articulation, de l’appui, du maintien, d’une fonction qui est celle-ci :
+qui est que le père dans la manifestation de son désir, sait - lui - à quel *(a)* ce désir se réfère ?
 
 <!-- id: s10-25-0155 -->
 
@@ -854,12 +854,12 @@ Or ce rapport, *cette méconnaissance du* *(a)* est quelque chose qui laisse une
 
 <!-- id: s10-25-0157 -->
 
-> nous le savons depuis toujours, il n’y a même pas eu besoin de l’analyse pour nous le montrer
->
-> puisque j’ai cru pouvoir vous le montrer dans un dialogue de Platon, *Le Banquet*
-> *...l’objet(a)* en tant qu’au terme - terme sans doute jamais achevé - il est notre existence la plus radicale,
-> qu’il est la seule voie dans laquelle le désir puisse nous livrer ce en quoi nous aurons nous-mêmes à nous reconnaître :
-> *cet objet(a) est à situer comme tel, dans le champ de l’Autre*.
+nous le savons depuis toujours, il n’y a même pas eu besoin de l’analyse pour nous le montrer
+
+puisque j’ai cru pouvoir vous le montrer dans un dialogue de Platon, *Le Banquet*
+*...l’objet(a)* en tant qu’au terme - terme sans doute jamais achevé - il est notre existence la plus radicale,
+qu’il est la seule voie dans laquelle le désir puisse nous livrer ce en quoi nous aurons nous-mêmes à nous reconnaître :
+*cet objet(a) est à situer comme tel, dans le champ de l’Autre*.
 
 <!-- id: s10-25-0158 -->
 

@@ -10,7 +10,7 @@ Tous les besoins, tous les besoins de l’être parlant sont contaminés par le 
 
 <!-- id: s20-06-0002 -->
 
-> soulignez ces trois mots ...à quoi ils peuvent faire défaut, les dits « *besoins »* j’entends.
+soulignez ces trois mots ...à quoi ils peuvent faire défaut, les dits « *besoins »* j’entends.
 
 <!-- id: s20-06-0003 -->
 
@@ -22,17 +22,17 @@ Cette 1<sup>ère</sup> phrase...
 
 <!-- id: s20-06-0005 -->
 
-> que, mon Dieu, en me réveillant ce matin je l’ai mise sur le papier comme ça, pour que vous l’écriviez ...cette 1<sup>ère</sup> phrase emporte l’opposition des besoins...
+que, mon Dieu, en me réveillant ce matin je l’ai mise sur le papier comme ça, pour que vous l’écriviez ...cette 1<sup>ère</sup> phrase emporte l’opposition des besoins...
 
 <!-- id: s20-06-0006 -->
 
-> si tant est que ce terme - dont le recours est commun, vous le savez –
->
-> puisse si aisément se saisir, puisqu’après tout il ne se saisit qu’à faire défaut ...à ce que je viens d’avancer comme cette *autre satisfaction*.
+si tant est que ce terme - dont le recours est commun, vous le savez –
+
+puisse si aisément se saisir, puisqu’après tout il ne se saisit qu’à faire défaut ...à ce que je viens d’avancer comme cette *autre satisfaction*.
 
 <!-- id: s20-06-0007 -->
 
-> \[*1<sup>er</sup> registre : la satisfaction-besoin <sub>→</sub>* *plaisir-déplaisir*\]
+\[*1<sup>er</sup> registre : la satisfaction-besoin <sub>→</sub>* *plaisir-déplaisir*\]
 
 <!-- id: s20-06-0008 -->
 
@@ -48,7 +48,7 @@ Je reprends là, c’est-à-dire d’une certaine distance de ce à quoi depuis 
 
 <!-- id: s20-06-0011 -->
 
-> \[*2<sup>ème</sup> registre : l’autre satisfaction (avec le langage) met en jeu l’inconscient<sub>→</sub> symptôme, lapsus, rêve…*\]
+\[*2<sup>ème</sup> registre : l’autre satisfaction (avec le langage) met en jeu l’inconscient<sub>→</sub> symptôme, lapsus, rêve…*\]
 
 <!-- id: s20-06-0012 -->
 
@@ -64,11 +64,11 @@ Il m’est arrivé, il m’est arrivé de m’assurer...
 
 <!-- id: s20-06-0015 -->
 
-> je ne le soupçonnais pas jusqu’à présent ...en m’en faisant venir un exemplaire pendant que j’étais à la montagne...
+je ne le soupçonnais pas jusqu’à présent ...en m’en faisant venir un exemplaire pendant que j’étais à la montagne...
 
 <!-- id: s20-06-0016 -->
 
-> en m’en faisant venir un exemplaire qu’on a pu me trouver, ...grâce à je ne sais quoi qui arrive dans l’édition - les éditeurs m’enragent !
+en m’en faisant venir un exemplaire qu’on a pu me trouver, ...grâce à je ne sais quoi qui arrive dans l’édition - les éditeurs m’enragent !
 
 <!-- id: s20-06-0017 -->
 
@@ -76,11 +76,11 @@ Ce n’est pas une raison pour que je leur fasse de la réclame, en en parlant j
 
 <!-- id: s20-06-0018 -->
 
-> dans l’occasion c’est pas ça qui m’enrageait du tout ...simplement une traduction qui bien sûr m’avait servi, à moi comme aux autres...
+dans l’occasion c’est pas ça qui m’enrageait du tout ...simplement une traduction qui bien sûr m’avait servi, à moi comme aux autres...
 
 <!-- id: s20-06-0019 -->
 
-> faut pas croire que je lis comme ça aisément, enfin, le grec ...et alors la traduction, quand elle est en face, donne un petit support, comme ça. Ouais...
+faut pas croire que je lis comme ça aisément, enfin, le grec ...et alors la traduction, quand elle est en face, donne un petit support, comme ça. Ouais...
 
 <!-- id: s20-06-0020 -->
 
@@ -96,9 +96,9 @@ Quoi qu’il en soit, pour avoir eu cette traduction toute seule...
 
 <!-- id: s20-06-0023 -->
 
-> depuis quelques temps les choses s’étant *condensées* de façon telle
->
-> qu’on ne vous donne plus chez Garnier que - qui s’est en plus réuni à Flammarion \[*Rires*\], ouais... ...on ne donne plus chez Garnier que le texte français. Ouais...
+depuis quelques temps les choses s’étant *condensées* de façon telle
+
+qu’on ne vous donne plus chez Garnier que - qui s’est en plus réuni à Flammarion \[*Rires*\], ouais... ...on ne donne plus chez Garnier que le texte français. Ouais...
 
 <!-- id: s20-06-0024 -->
 
@@ -106,13 +106,17 @@ Alors quand vous lisez ça, vous n’en sortez pas, c’est à proprement parler
 
 <!-- id: s20-06-0025 -->
 
-> « *Tout art et toute recherche* - je sais pas... je commence, hein ? - *de même que toute action et toute délibération réfléchie* - quel rapport entre ces quatre trucs là ? - *tendent semble-t-il vers quelque bien. Aussi a-t-on eu parfois parfaitement raison de définir le bien :*
->
-> *ce à quoi on tend en toutes circonstances. Toutefois* - ça vient là-dessus comme des cheveux sur la soupe, on n’en a pas encore parlé –
->
-> *il paraît bien qu’il y a une différence entre les fins* [^47]».
->
-> \[Πᾶσα τέχνη καὶ πᾶσα μέθοδος, ὁμοίως δὲ πρᾶξίς τε καὶ προαίρεσις, ἀγαθοῦ τινὸς ἐϕίεσθαι δοκεῖ· διὸ καλῶς ἀπεϕήναντο τἀγαθόν, οὗ πάντ᾽ ἐϕίεται. Διαφορὰ δέ τις φαίνεται τῶν τελῶν·\]
+<div class="text-quotation">
+
+« *Tout art et toute recherche* - je sais pas... je commence, hein ? - *de même que toute action et toute délibération réfléchie* - quel rapport entre ces quatre trucs là ? - *tendent semble-t-il vers quelque bien. Aussi a-t-on eu parfois parfaitement raison de définir le bien :*
+
+*ce à quoi on tend en toutes circonstances. Toutefois* - ça vient là-dessus comme des cheveux sur la soupe, on n’en a pas encore parlé –
+
+*il paraît bien qu’il y a une différence entre les fins* [^47]».
+
+\[Πᾶσα τέχνη καὶ πᾶσα μέθοδος, ὁμοίως δὲ πρᾶξίς τε καὶ προαίρεσις, ἀγαθοῦ τινὸς ἐϕίεσθαι δοκεῖ· διὸ καλῶς ἀπεϕήναντο τἀγαθόν, οὗ πάντ᾽ ἐϕίεται. Διαφορὰ δέ τις φαίνεται τῶν τελῶν·\]
+
+</div>
 
 <!-- id: s20-06-0026 -->
 
@@ -120,7 +124,7 @@ Je défie quiconque pourra, de ce texte, s’en débrouiller sans d’abondants 
 
 <!-- id: s20-06-0027 -->
 
-> et je vous assure très péniblement toujours ...au texte grec, pour éclairer cette masse épaisse, dont pourtant il est impossible de penser que c’est simplement parce que c’est des notes mal prises.
+et je vous assure très péniblement toujours ...au texte grec, pour éclairer cette masse épaisse, dont pourtant il est impossible de penser que c’est simplement parce que c’est des notes mal prises.
 
 <!-- id: s20-06-0028 -->
 
@@ -144,7 +148,7 @@ J’aurais fait, moi, plouf... et puis « *L’éthique de la psychanalyse »*
 
 <!-- id: s20-06-0033 -->
 
-> enfin, il faut prendre les choses toujours au plus près ...un exemple de ceci que le calcul ne suffit pas : parce que, parce que moi j’ai empêché cette *« Éthique de la psychanalyse »* de paraître!
+enfin, il faut prendre les choses toujours au plus près ...un exemple de ceci que le calcul ne suffit pas : parce que, parce que moi j’ai empêché cette *« Éthique de la psychanalyse »* de paraître!
 
 <!-- id: s20-06-0034 -->
 
@@ -200,7 +204,7 @@ Il est tout à fait clair, il est rendu sensible par une épreuve toute simple, 
 
 <!-- id: s20-06-0047 -->
 
-> vous n’y comprendrez rien bien sûr, mais pas plus qu’à ce que je dis, donc ça suffit quand même ...vous verrez qu’Aristote c’est pas plus compréhensible que ce que je vous raconte, et que ça l’est même plutôt moins parce qu’il remue plus de choses, et des choses qui nous sont plus lointaines.
+vous n’y comprendrez rien bien sûr, mais pas plus qu’à ce que je dis, donc ça suffit quand même ...vous verrez qu’Aristote c’est pas plus compréhensible que ce que je vous raconte, et que ça l’est même plutôt moins parce qu’il remue plus de choses, et des choses qui nous sont plus lointaines.
 
 <!-- id: s20-06-0048 -->
 
@@ -208,7 +212,7 @@ Mais il est clair que cette « *autre satisfaction »* dont je parlais à l’
 
 <!-- id: s20-06-0049 -->
 
-> de quoi? - eh bien mes bons amis, impossible d’y échapper ...si vous ne mettez là au pied du truc - n’est-ce pas - des *Universaux*[^49] : du *Bien*, du *Vrai*, du *Beau*.
+de quoi? - eh bien mes bons amis, impossible d’y échapper ...si vous ne mettez là au pied du truc - n’est-ce pas - des *Universaux*[^49] : du *Bien*, du *Vrai*, du *Beau*.
 
 <!-- id: s20-06-0050 -->
 
@@ -248,7 +252,7 @@ Moi je vous conseille de la garder parce que ça chatouille, ça réveille.
 
 <!-- id: s20-06-0059 -->
 
-> \[*le lien social (discours) qui s’imprime (fonction* Φ *de l’écrit) sur l’être parlant, dépend des discours qui l’ont précédé et produit<sub>→</sub> Aristote.*
+\[*le lien social (discours) qui s’imprime (fonction* Φ *de l’écrit) sur l’être parlant, dépend des discours qui l’ont précédé et produit<sub>→</sub> Aristote.*
 
 <!-- id: s20-06-0060 -->
 
@@ -288,9 +292,9 @@ Parce qu’après tout *ce qu’il entoure*...
 
 <!-- id: s20-06-0069 -->
 
-> ce qu’il prend dans son filet, dans son réseau, ce qu’il retire,
->
-> ce qu’il manie, à quoi il a affaire, avec qui il se bat...
+ce qu’il prend dans son filet, dans son réseau, ce qu’il retire,
+
+ce qu’il manie, à quoi il a affaire, avec qui il se bat...
 
 <!-- id: s20-06-0070 -->
 
@@ -310,7 +314,7 @@ C’est quand même parce qu’il en a mis beaucoup à la suite...
 
 <!-- id: s20-06-0074 -->
 
-> et puis que ça nous parvient imprimé après avoir été écrit, comme ça, pendant longtemps ...qu’on suppose qu’il y a quelque chose qui fait, qui fait prise au milieu de tout ça.
+et puis que ça nous parvient imprimé après avoir été écrit, comme ça, pendant longtemps ...qu’on suppose qu’il y a quelque chose qui fait, qui fait prise au milieu de tout ça.
 
 <!-- id: s20-06-0075 -->
 
@@ -334,13 +338,13 @@ Vous avez bien entendu : « *faute », défaut, quelque chose qui ne va pas,
 
 <!-- id: s20-06-0080 -->
 
-> \[*dans* *le discours du maître, la fonction phallique soutient le* S<sub>1→</sub>S<sub>2</sub> *comme « possible » *:
->
-> S<sub>1 →</sub> S<sub>2</sub> (*« Du Bi »*),
->
-> *mène bien au Produit :* *a* (*« Du Bien »*),
->
-> *mais aboutit à l’impuissance* (« *Du Benêt »*)* : a* **◊ S**\]
+\[*dans* *le discours du maître, la fonction phallique soutient le* S<sub>1→</sub>S<sub>2</sub> *comme « possible » *:
+
+S<sub>1 →</sub> S<sub>2</sub> (*« Du Bi »*),
+
+*mène bien au Produit :* *a* (*« Du Bien »*),
+
+*mais aboutit à l’impuissance* (« *Du Benêt »*)* : a* **◊ S**\]
 
 <!-- id: s20-06-0081 -->
 
@@ -452,7 +456,7 @@ Et ce - mon Dieu - dans la proportion exacte où il ne parle pas encore.
 
 <!-- id: s20-06-0108 -->
 
-> à partir de ce moment là, très exactement, pas avant ...je comprends qu’il y ait du refoulement.
+à partir de ce moment là, très exactement, pas avant ...je comprends qu’il y ait du refoulement.
 
 <!-- id: s20-06-0109 -->
 
@@ -496,7 +500,7 @@ Alors ça pourrait peut-être aider à comprendre que...
 
 <!-- id: s20-06-0119 -->
 
-> avec cet écho littéraire ...*que le « moi », peut-être aussi l’est, fleur de rhétorique* sans doute, qui pousse du pot du *« principe du plaisir »*, de ce que Freud appelle *Lustprinzip*, et de ce que je définis : « *de ce qui se satisfait du blablabla *».
+avec cet écho littéraire ...*que le « moi », peut-être aussi l’est, fleur de rhétorique* sans doute, qui pousse du pot du *« principe du plaisir »*, de ce que Freud appelle *Lustprinzip*, et de ce que je définis : « *de ce qui se satisfait du blablabla *».
 
 <!-- id: s20-06-0120 -->
 
@@ -512,11 +516,11 @@ Faut que je mette les points sur les i !
 
 <!-- id: s20-06-0123 -->
 
-> vous pouvez peut-être tout de même maintenant vous rendre compte, à cause de la façon
->
-> dont j’ai accentué l’usage de certains mots, leur application différente dans les deux sexes,
->
-> à savoir ce que j’ai *accentué* du *« tout »*\[;\] et du *« pas tout »* \[.\] *...l’« univers », c’est là où de dire « tout » réussit...* \[; ! *par l’ex-sistence de l’exception :* : §\]
+vous pouvez peut-être tout de même maintenant vous rendre compte, à cause de la façon
+
+dont j’ai accentué l’usage de certains mots, leur application différente dans les deux sexes,
+
+à savoir ce que j’ai *accentué* du *« tout »*\[;\] et du *« pas tout »* \[.\] *...l’« univers », c’est là où de dire « tout » réussit...* \[; ! *par l’ex-sistence de l’exception :* : §\]
 
 <!-- id: s20-06-0124 -->
 
@@ -552,7 +556,7 @@ L’épithalame, le duo...
 
 <!-- id: s20-06-0132 -->
 
-> parce qu’il faut quand même distinguer le « duo » du dialogue ...l’alternance, la lettre d’amour, ce n’est pas *<u>le rapport</u>* sexuel.
+parce qu’il faut quand même distinguer le « duo » du dialogue ...l’alternance, la lettre d’amour, ce n’est pas *<u>le rapport</u>* sexuel.
 
 <!-- id: s20-06-0133 -->
 
@@ -564,7 +568,7 @@ Qu’il y ait donc *la façon mâle de tourner autour* et puis l’autre...
 
 <!-- id: s20-06-0135 -->
 
-> que je ne désigne pas autrement, parce que *c’est ça que cette année je suis en train d’élaborer* ...*à savoir comment de la façon femelle, ça s’élabore du « pas tout »*.
+que je ne désigne pas autrement, parce que *c’est ça que cette année je suis en train d’élaborer* ...*à savoir comment de la façon femelle, ça s’élabore du « pas tout »*.
 
 <!-- id: s20-06-0136 -->
 
@@ -584,9 +588,9 @@ Bon enfin bref, j’ai été à Milan et comme moi je peux jamais quitter...
 
 <!-- id: s20-06-0140 -->
 
-> parce que je suis comme ça, vous comprenez,
->
-> j’ai dit que je referai *L’éthique de la psychanalyse*, mais c’est parce que je la ré-extrais ...je ne peux pas ne pas rester au point où j’en suis, de sorte que de donner ce titre absolument fou pour une conférence aux milanais qui n’ont jamais entendu parler de ça : « *la psychanalyse dans sa référence au rapport sexuel ».*
+parce que je suis comme ça, vous comprenez,
+
+j’ai dit que je referai *L’éthique de la psychanalyse*, mais c’est parce que je la ré-extrais ...je ne peux pas ne pas rester au point où j’en suis, de sorte que de donner ce titre absolument fou pour une conférence aux milanais qui n’ont jamais entendu parler de ça : « *la psychanalyse dans sa référence au rapport sexuel ».*
 
 <!-- id: s20-06-0141 -->
 
@@ -614,7 +618,7 @@ J’essaie d’élaborer ce qu’il en est de cette affaire du rapport sexuel à
 
 <!-- id: s20-06-0147 -->
 
-> puisque justement il y a *quelque chose* là qui ne se réunit pas ...c’est justement du côté des dames, pour autant que c’est de *l’élaboration du pas tout* \[.\] *qu’il s’agit*, qu’il s’agit de frayer la voie, *ce qui est mon vrai sujet de cette année*, derrière cet *Encore* qui est... ben voilà : un des sens, que j’essaie encore et après d’autres.
+puisque justement il y a *quelque chose* là qui ne se réunit pas ...c’est justement du côté des dames, pour autant que c’est de *l’élaboration du pas tout* \[.\] *qu’il s’agit*, qu’il s’agit de frayer la voie, *ce qui est mon vrai sujet de cette année*, derrière cet *Encore* qui est... ben voilà : un des sens, que j’essaie encore et après d’autres.
 
 <!-- id: s20-06-0148 -->
 
@@ -634,7 +638,7 @@ Vous voyez ce que ça change de sens, le « *pas tout »*, quand je vous dis :
 
 <!-- id: s20-06-0152 -->
 
-> je parle de *la sexualité féminine* ...elles n’ont pas plus de raisons que les autres de ne pas en savoir un bout, il doit y avoir à ça une raison plus interne, liée justement à cette structure de l’appareil de la jouissance.
+je parle de *la sexualité féminine* ...elles n’ont pas plus de raisons que les autres de ne pas en savoir un bout, il doit y avoir à ça une raison plus interne, liée justement à cette structure de l’appareil de la jouissance.
 
 <!-- id: s20-06-0153 -->
 
@@ -666,7 +670,7 @@ C’est pas la peine de chercher...
 
 <!-- id: s20-06-0160 -->
 
-> comme je l’ai déjà dit depuis longtemps ...le « bon » et le « mauvais objet », et en quoi ils diffèrent : l’objet n’est ni bon...
+comme je l’ai déjà dit depuis longtemps ...le « bon » et le « mauvais objet », et en quoi ils diffèrent : l’objet n’est ni bon...
 
 <!-- id: s20-06-0161 -->
 
@@ -694,11 +698,11 @@ Enfin, dans un temps où je piétinais moins qu’aujourd’hui...
 
 <!-- id: s20-06-0167 -->
 
-> c’est même là que j’en suis passé, tout de suite après Aristote ...j’ai dit que si quelque chose avait un peu aéré l’atmosphère après tout ce piétinement grec autour de *l’eudémonisme*...
+c’est même là que j’en suis passé, tout de suite après Aristote ...j’ai dit que si quelque chose avait un peu aéré l’atmosphère après tout ce piétinement grec autour de *l’eudémonisme*...
 
 <!-- id: s20-06-0168 -->
 
-> ça veut dire *le bonheur* tout simplement : ça, ça se traduit ...si quelque chose les avait tirés de là, c’était la découverte de l’*utilitarisme*.
+ça veut dire *le bonheur* tout simplement : ça, ça se traduit ...si quelque chose les avait tirés de là, c’était la découverte de l’*utilitarisme*.
 
 <!-- id: s20-06-0169 -->
 
@@ -710,7 +714,7 @@ Je leur ai expliqué ce que c’était que l’*utilitarisme* au niveau de Benth
 
 <!-- id: s20-06-0171 -->
 
-> c’est de ça qu’il s’agit : ceux qui servent déjà *...*eh ben c’est *à quoi ils servent,* qu’il faut penser, rien de plus.
+c’est de ça qu’il s’agit : ceux qui servent déjà *...*eh ben c’est *à quoi ils servent,* qu’il faut penser, rien de plus.
 
 <!-- id: s20-06-0172 -->
 
@@ -722,7 +726,7 @@ Et ne pas s’étonner du résultat quand on s’en sert, on sait à quoi ils se
 
 <!-- id: s20-06-0174 -->
 
-> je ne peux tout de même pas toujours tout ré-évoquer ...de ce que j’ai mis d’accent sur l’équivoque entre « *faillir »* et « *falloir »* [^53].
+je ne peux tout de même pas toujours tout ré-évoquer ...de ce que j’ai mis d’accent sur l’équivoque entre « *faillir »* et « *falloir »* [^53].
 
 <!-- id: s20-06-0175 -->
 
@@ -758,7 +762,7 @@ Je vous expliquerai ça une autre fois, mais je vous en donne un petit bout de p
 
 <!-- id: s20-06-0183 -->
 
-> \[les 4 catégories de la logique modale d’Aristote : *Nécessaire, Impossible, Contingent, Possible,*
+\[les 4 catégories de la logique modale d’Aristote : *Nécessaire, Impossible, Contingent, Possible,*
 
 <!-- id: s20-06-0184 -->
 
@@ -814,21 +818,21 @@ Ce qui nous suggère pour son emploi *la protase, l’apodose*[^54] : c’est �
 
 <!-- id: s20-06-0197 -->
 
-> là, comme ça, pour que vous ne perdiez pas la corde,
->
-> c’est affreux mais si je vous parle comme ça, comme j’ai pris mes notes ce matin, vous perdrez le fil ...*s’il y en avait une autre,* *il ne faudrait pas que ce soit celle-là*.
+là, comme ça, pour que vous ne perdiez pas la corde,
+
+c’est affreux mais si je vous parle comme ça, comme j’ai pris mes notes ce matin, vous perdrez le fil ...*s’il y en avait une autre,* *il ne faudrait pas que ce soit celle-là*.
 
 <!-- id: s20-06-0198 -->
 
-> C’est très joli. Il faut *user*, hein... il faut *user*, mais *user* vraiment, savoir *user*, user jusqu’à la corde
->
-> de choses comme ça, bêtes comme chou, des vieux mots. C’est ça l’utilitarisme.
->
-> Et ça a permis un grand pas pour décoller des vieilles histoires, là, d’*Universaux* où on était engagé
->
-> depuis Platon et Aristote, et où ça avait traîné pendant tout le Moyen-âge,
->
-> et où ça étouffe encore Leibniz, au point qu’on se demande comment il a été aussi intelligent.
+C’est très joli. Il faut *user*, hein... il faut *user*, mais *user* vraiment, savoir *user*, user jusqu’à la corde
+
+de choses comme ça, bêtes comme chou, des vieux mots. C’est ça l’utilitarisme.
+
+Et ça a permis un grand pas pour décoller des vieilles histoires, là, d’*Universaux* où on était engagé
+
+depuis Platon et Aristote, et où ça avait traîné pendant tout le Moyen-âge,
+
+et où ça étouffe encore Leibniz, au point qu’on se demande comment il a été aussi intelligent.
 
 <!-- id: s20-06-0199 -->
 
@@ -864,7 +868,7 @@ Parce qu’enfin si je dis ça, qui se soutient au niveau de *l’implication ma
 
 <!-- id: s20-06-0207 -->
 
-> peut-être parce qu’elle ne la connaît pas ...celle qui la fait *« pas toute »* en tout cas.
+peut-être parce qu’elle ne la connaît pas ...celle qui la fait *« pas toute »* en tout cas.
 
 <!-- id: s20-06-0208 -->
 
@@ -920,7 +924,7 @@ Il est donc faux « *qu’il y en ait une autre* », ce qui ne nous empêchera
 
 <!-- id: s20-06-0221 -->
 
-> et que c’est de ça que dépend le « *il ne faudrait pas* » ...que le couperet n’en tombe pas moins sûr.
+et que c’est de ça que dépend le « *il ne faudrait pas* » ...que le couperet n’en tombe pas moins sûr.
 
 <!-- id: s20-06-0222 -->
 
@@ -932,7 +936,7 @@ Ce qui nous ouvre, comme ça latéralement...
 
 <!-- id: s20-06-0224 -->
 
-> je vous le dis comme ça, au passage ...ce petit aperçu qui a tout son poids dans une métaphysique.
+je vous le dis comme ça, au passage ...ce petit aperçu qui a tout son poids dans une métaphysique.
 
 <!-- id: s20-06-0225 -->
 
@@ -944,7 +948,7 @@ Eh bien, « *que le non-être ne soit pas* » il faut quand même pas oublier 
 
 <!-- id: s20-06-0227 -->
 
-> que j’ai dit : « *que le non-être ne soit pas *» ...ceci est porté par la parole au compte de l’être, dont c’est la faute... dont c’est la faute « *que le non-être ne soit pas* » ...et c’est bien vrai d’ailleurs que c’est sa faute, parce que si *l’être* n’existait pas, on serait bien plus tranquille avec cette question du *non-être*, et c’est donc bien mérité qu’on le lui reproche, à savoir qu’il soit en faute. \[*la question est de savoir si ce qui fonde l’être est que « l’être est, et le non-être n’est pas », ou bien que le non-être est (*Φ *comme fiction) et que l’être n’est pas, sauf à ex-sister*\]
+que j’ai dit : « *que le non-être ne soit pas *» ...ceci est porté par la parole au compte de l’être, dont c’est la faute... dont c’est la faute « *que le non-être ne soit pas* » ...et c’est bien vrai d’ailleurs que c’est sa faute, parce que si *l’être* n’existait pas, on serait bien plus tranquille avec cette question du *non-être*, et c’est donc bien mérité qu’on le lui reproche, à savoir qu’il soit en faute. \[*la question est de savoir si ce qui fonde l’être est que « l’être est, et le non-être n’est pas », ou bien que le non-être est (*Φ *comme fiction) et que l’être n’est pas, sauf à ex-sister*\]
 
 <!-- id: s20-06-0228 -->
 
@@ -952,9 +956,9 @@ Oui... C’est bien pour ça aussi que, si c’est bien vrai ce que je vous déb
 
 <!-- id: s20-06-0229 -->
 
-> ce dont je suis parti, je suppose que vous ne vous en souvenez pas,
->
-> *c’est que quand je m’oublie au point de… de « poublier », c’est-à-dire « tout-blier »,* il y a du « *tout »*  là-dedans ...eh bien je mérite d’écoper \[« *retour de bâton »*\]... d’écoper que ce soit de moi qu’on parle, et pas du tout de mon livre.
+ce dont je suis parti, je suppose que vous ne vous en souvenez pas,
+
+*c’est que quand je m’oublie au point de… de « poublier », c’est-à-dire « tout-blier »,* il y a du « *tout »*  là-dedans ...eh bien je mérite d’écoper \[« *retour de bâton »*\]... d’écoper que ce soit de moi qu’on parle, et pas du tout de mon livre.
 
 <!-- id: s20-06-0230 -->
 
@@ -962,11 +966,11 @@ Exactement comme ça se passait...
 
 <!-- id: s20-06-0231 -->
 
-> enfin c’est partout pareil ! ...à Milan où c’est peut-être pas tout à fait de moi qu’on parlait...
+enfin c’est partout pareil ! ...à Milan où c’est peut-être pas tout à fait de moi qu’on parlait...
 
 <!-- id: s20-06-0232 -->
 
-> quand on disait que « *pour moi les dames n’existent pas* » ...mais c’est certainement pas de ce que je venais de dire.
+quand on disait que « *pour moi les dames n’existent pas* » ...mais c’est certainement pas de ce que je venais de dire.
 
 <!-- id: s20-06-0233 -->
 
@@ -974,19 +978,19 @@ Bon, alors revenons-en à notre Aristote, après cet éclaircissement que nous a
 
 <!-- id: s20-06-0234 -->
 
-> et pas pour rien ...c’est parce que déjà, parce que c’est *un petit prématuré*, il a quelque chose à faire avec ce fameux *rapport sexuel...*
+et pas pour rien ...c’est parce que déjà, parce que c’est *un petit prématuré*, il a quelque chose à faire avec ce fameux *rapport sexuel...*
 
 <!-- id: s20-06-0235 -->
 
-> dont il n’aura que trop l’occasion de s’apercevoir qu’il n’existe pas ...c’est donc bien, plutôt *en second* - en second qu’en premier...
+dont il n’aura que trop l’occasion de s’apercevoir qu’il n’existe pas ...c’est donc bien, plutôt *en second* - en second qu’en premier...
 
 <!-- id: s20-06-0236 -->
 
-> et dans Freud il y en a la marque, il y en a des traces : s’il a parlé d’*Urverdrängung,* de *refoulement primordial,*
->
-> c’est bien parce que justement le vrai, le bon, le refoulement de tous les jours,
->
-> eh ben justement il n’est pas premier, il est second ...on la refoule la dite *jouissance*, ben parce qu’il ne convient pas qu’elle soit *dite*, et ceci pour la raison justement que *le dire* n’en peut être que ceci :
+et dans Freud il y en a la marque, il y en a des traces : s’il a parlé d’*Urverdrängung,* de *refoulement primordial,*
+
+c’est bien parce que justement le vrai, le bon, le refoulement de tous les jours,
+
+eh ben justement il n’est pas premier, il est second ...on la refoule la dite *jouissance*, ben parce qu’il ne convient pas qu’elle soit *dite*, et ceci pour la raison justement que *le dire* n’en peut être que ceci :
 
 <!-- id: s20-06-0237 -->
 
@@ -998,9 +1002,9 @@ Bon, alors revenons-en à notre Aristote, après cet éclaircissement que nous a
 
 <!-- id: s20-06-0239 -->
 
-> \[*le refoulement primordial (Urverdrängung) a créé irrémédiablement « la faille », il n’est pas du même ordre que les refoulements secondaires et leurs « retours du refoulé » sur le mode de la fonction phallique dans une tentative désespérée de récupération d’une mythique « jouissance perdue »,*
->
-> *qui n’aboutit qu’à la jouissance qui ne convient pas : « ça n’est pas ça ».*\]
+\[*le refoulement primordial (Urverdrängung) a créé irrémédiablement « la faille », il n’est pas du même ordre que les refoulements secondaires et leurs « retours du refoulé » sur le mode de la fonction phallique dans une tentative désespérée de récupération d’une mythique « jouissance perdue »,*
+
+*qui n’aboutit qu’à la jouissance qui ne convient pas : « ça n’est pas ça ».*\]
 
 <!-- id: s20-06-0240 -->
 
@@ -1032,7 +1036,7 @@ Et c’est ce qui fait le ressort...
 
 <!-- id: s20-06-0247 -->
 
-> comme je l’ai lourdement indiqué ...c’est ce qui fait de *la métaphore* le ressort.
+comme je l’ai lourdement indiqué ...c’est ce qui fait de *la métaphore* le ressort.
 
 <!-- id: s20-06-0248 -->
 
@@ -1052,11 +1056,11 @@ Eh bien c’est à partir de là...
 
 <!-- id: s20-06-0252 -->
 
-> c’est à partir de ce « *pas à pas »* qui m’a fait aujourd’hui scander quelque chose d’essentiel, ...qu’il nous faut aborder...
+c’est à partir de ce « *pas à pas »* qui m’a fait aujourd’hui scander quelque chose d’essentiel, ...qu’il nous faut aborder...
 
 <!-- id: s20-06-0253 -->
 
-> et je vous en laisserai le temps, à vous congédier maintenant ...qu’il nous faut aborder cet éclairage que peuvent prendre l’un de l’autre, Aristote et Freud, d’interroger comment pourrait bien s’épingler, de se traverser l’un l’autre, ce dont Aristote au *Livre* VII de la dite *Éthique de Nicomaque* pose la question à propos... à propos... à propos du plaisir.
+et je vous en laisserai le temps, à vous congédier maintenant ...qu’il nous faut aborder cet éclairage que peuvent prendre l’un de l’autre, Aristote et Freud, d’interroger comment pourrait bien s’épingler, de se traverser l’un l’autre, ce dont Aristote au *Livre* VII de la dite *Éthique de Nicomaque* pose la question à propos... à propos... à propos du plaisir.
 
 <!-- id: s20-06-0254 -->
 
@@ -1076,7 +1080,7 @@ Pour lui, Aristote, *le mouvement*, en raison de ce qu’il a mis au centre de s
 
 <!-- id: s20-06-0258 -->
 
-> de ce monde à jamais maintenant foutu le camp à vau-l’eau ...de ce qu’il ait mis au centre « *le moteur immobile »* [^56],
+de ce monde à jamais maintenant foutu le camp à vau-l’eau ...de ce qu’il ait mis au centre « *le moteur immobile »* [^56],
 
 <!-- id: s20-06-0259 -->
 
@@ -1104,7 +1108,7 @@ Si Aristote vient à épingler quelque part ce qui est du plaisir, ça ne saurai
 
 <!-- id: s20-06-0265 -->
 
-> et qu’on ne peut traduire en français que comme une « *activité* » ...ce qu’il appelle ἐνέργεια \[energeïa\], et dans l’occasion, encore n’y en a-t-il que de choisies, qu’il peut promouvoir à cette fonction d’éclairer ce qu’il en est du plaisir.
+et qu’on ne peut traduire en français que comme une « *activité* » ...ce qu’il appelle ἐνέργεια \[energeïa\], et dans l’occasion, encore n’y en a-t-il que de choisies, qu’il peut promouvoir à cette fonction d’éclairer ce qu’il en est du plaisir.
 
 <!-- id: s20-06-0266 -->
 
@@ -1124,7 +1128,7 @@ C’est amusant que mis sur ce pied, mis sur cette voie, posée comme ça, la qu
 
 <!-- id: s20-06-0270 -->
 
-> consultez toujours le Livre VII ...mettre en avant - quoi ? - ce que le français ne peut traduire autrement, faute de mot qui soit équivoque, que « *odorer* ».
+consultez toujours le Livre VII ...mettre en avant - quoi ? - ce que le français ne peut traduire autrement, faute de mot qui soit équivoque, que « *odorer* ».
 
 <!-- id: s20-06-0271 -->
 
@@ -1136,7 +1140,7 @@ Et il en a un vif sentiment de la diversité de la chose, et aussi que le plaisi
 
 <!-- id: s20-06-0273 -->
 
-> si opposé que semble ce second sens au premier ...le plaisir s’en trouvait supporté.
+si opposé que semble ce second sens au premier ...le plaisir s’en trouvait supporté.
 
 <!-- id: s20-06-0274 -->
 
@@ -1148,15 +1152,15 @@ Bon, puisque nous arrivons tout près de 45 \[13h 45\] je peux bien amorcer, ne 
 
 <!-- id: s20-06-0276 -->
 
-> dont après tout il faut que nous ayons déjà fait le pas que je vous ai dit tout à l’heure,
->
-> de voir que la jouissance se réfère centralement à *celle-là qu’il ne faut pas*,
->
-> « *qu’il faudrait* » pour qu’il y ait du rapport sexuel, mais qui y reste toute entière accrochée ...ce qui surgit sous la pointe, sous l’épinglage dont le désigne Aristote - c’est quoi ? – c’est très exactement ce que l’expérience analytique nous permet de repérer comme étant...
+dont après tout il faut que nous ayons déjà fait le pas que je vous ai dit tout à l’heure,
+
+de voir que la jouissance se réfère centralement à *celle-là qu’il ne faut pas*,
+
+« *qu’il faudrait* » pour qu’il y ait du rapport sexuel, mais qui y reste toute entière accrochée ...ce qui surgit sous la pointe, sous l’épinglage dont le désigne Aristote - c’est quoi ? – c’est très exactement ce que l’expérience analytique nous permet de repérer comme étant...
 
 <!-- id: s20-06-0277 -->
 
-> d’au-moins un côté de l’identification sexuelle, le côté mâle pour le nommer ...ce qui se repère d’être *l’objet* justement.
+d’au-moins un côté de l’identification sexuelle, le côté mâle pour le nommer ...ce qui se repère d’être *l’objet* justement.
 
 <!-- id: s20-06-0278 -->
 
@@ -1168,7 +1172,7 @@ C’est pour autant que *l’objet(a) joue* quelque part...
 
 <!-- id: s20-06-0280 -->
 
-> et d’un départ, d’un seul : du mâle ...*le rôle de ce qui vient à la place du partenaire manquant*, que se constitue - mais quoi ? – ce dont nous avons l’usage de le voir surgir aussi *à la place du réel*, à savoir : *le fantasme* \[**S ◊** *a*\].
+et d’un départ, d’un seul : du mâle ...*le rôle de ce qui vient à la place du partenaire manquant*, que se constitue - mais quoi ? – ce dont nous avons l’usage de le voir surgir aussi *à la place du réel*, à savoir : *le fantasme* \[**S ◊** *a*\].
 
 <!-- id: s20-06-0281 -->
 
@@ -1176,21 +1180,21 @@ Mais je suis presque au regret d’en avoir, de cette façon, dit assez, ce qui 
 
 <!-- id: s20-06-0282 -->
 
-> puisque justement ce que la prochaine fois j’essaierai d’énoncer d’une façon qui se tienne,
->
-> qui se tienne et soit assez complète pour que puissiez vous en supporter le temps
->
-> que durera ensuite la reprise, c’est-à-dire un demi-mois ...que du côté de <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> *femme*...
+puisque justement ce que la prochaine fois j’essaierai d’énoncer d’une façon qui se tienne,
+
+qui se tienne et soit assez complète pour que puissiez vous en supporter le temps
+
+que durera ensuite la reprise, c’est-à-dire un demi-mois ...que du côté de <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> *femme*...
 
 <!-- id: s20-06-0283 -->
 
-> mais marquez ce *« La »* de ce trait oblique
->
-> dont je désigne chaque fois que j’en ai l’occasion ce qui doit se barrer ...*à partir de* <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> *femme, c’est d’autre chose que de* *l’objet(a)*...
+mais marquez ce *« La »* de ce trait oblique
+
+dont je désigne chaque fois que j’en ai l’occasion ce qui doit se barrer ...*à partir de* <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> *femme, c’est d’autre chose que de* *l’objet(a)*...
 
 <!-- id: s20-06-0284 -->
 
-> je vous l’énoncerai la prochaine fois ...*qu’il s’agit dans ce qui vient à suppléer à - ce rapport sexuel - n’être pas*.
+je vous l’énoncerai la prochaine fois ...*qu’il s’agit dans ce qui vient à suppléer à - ce rapport sexuel - n’être pas*.
 
 ## Notes
 

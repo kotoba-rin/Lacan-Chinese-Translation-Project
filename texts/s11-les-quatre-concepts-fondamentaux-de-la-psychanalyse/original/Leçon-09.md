@@ -16,7 +16,7 @@ Je ne sais pas si vous voyez le tableau. J’y mets, comme d’habitude, quelque
 
 <!-- id: s11-09-0003 -->
 
-> *L’ objet(a) dans le champ du visible, c’est le regard*.
+*L’ objet(a) dans le champ du visible, c’est le regard*.
 
 <!-- id: s11-09-0004 -->
 
@@ -123,15 +123,15 @@ et de GOLDSTEIN, qui nous montrent comment…
 
 <!-- id: s11-09-0025 -->
 
-> si à être isolé - ce qui est l’effet d’un éclairage qui nous domine - si ce pinceau de lumière qui conduit
->
-> notre regard, nous captive au point de ne nous apparaître que comme ce cône laiteux qui nous empêche
->
-> en somme de voir ce qu’il éclaire
-> …la seule apparition dans ce champ d’un petit écran qui tranche sur ce qui est éclairé mais n’est pas vu, fait entrer
-> \- si l’on peut dire - dans l’ombre cette lumière, pour nous faire apparaître l’objet qu’elle cachait. Phénomène au niveau perceptif
-> de quelque chose qui est à prendre dans une fonction plus essentielle, c’est que dans le rapport de désir lui-même,
-> la réalité n’apparaît que marginale :
+si à être isolé - ce qui est l’effet d’un éclairage qui nous domine - si ce pinceau de lumière qui conduit
+
+notre regard, nous captive au point de ne nous apparaître que comme ce cône laiteux qui nous empêche
+
+en somme de voir ce qu’il éclaire
+…la seule apparition dans ce champ d’un petit écran qui tranche sur ce qui est éclairé mais n’est pas vu, fait entrer
+\- si l’on peut dire - dans l’ombre cette lumière, pour nous faire apparaître l’objet qu’elle cachait. Phénomène au niveau perceptif
+de quelque chose qui est à prendre dans une fonction plus essentielle, c’est que dans le rapport de désir lui-même,
+la réalité n’apparaît que marginale :
 
 <!-- id: s11-09-0026 -->
 
@@ -148,14 +148,14 @@ Je m’étonne qu’en un livre[^52]…
 
 <!-- id: s11-09-0029 -->
 
-> d’ailleurs remarquable comme tellement d’autres : c’est un jeu si captivant que de trouver les bâtis
->
-> de ces surfaces créées par le peintre, qu’au total on croit intituler - comme en ce livre - *Charpentes,*
->
-> ces images qu’on se complaît à faire traverser par des lignes, donnant des partages diversement décomposés,
->
-> des lignes de fuite, des lignes de force, dirait-on, où l’image trouve son statut
-> …*qu’il soit éludé que leur effet principal* - à ces lignes - c’est quelque chose qui ne suggère guère cette notion de *charpentes*.
+d’ailleurs remarquable comme tellement d’autres : c’est un jeu si captivant que de trouver les bâtis
+
+de ces surfaces créées par le peintre, qu’au total on croit intituler - comme en ce livre - *Charpentes,*
+
+ces images qu’on se complaît à faire traverser par des lignes, donnant des partages diversement décomposés,
+
+des lignes de fuite, des lignes de force, dirait-on, où l’image trouve son statut
+…*qu’il soit éludé que leur effet principal* - à ces lignes - c’est quelque chose qui ne suggère guère cette notion de *charpentes*.
 
 <!-- id: s11-09-0030 -->
 
@@ -194,8 +194,8 @@ la remarque de Roger CAILLOIS…
 
 <!-- id: s11-09-0037 -->
 
-> dont tout le monde s’est aperçu la dernière fois que j’avais fait un lapsus en le nommant « *René* », Dieu sait pourquoi !
-> …par cette petite porte, il nous entre en remarquant que sans doute, ce *mimétisme* est à chercher comme équivalent de la fonction qui, chez l’homme, s’exerce par cette activité singulière de la peinture. Ce n’est point pour faire ici cette psychanalyse du peintre, toujours si glissante, si scabreuse, et qui, jusqu’à un certain point, provoque tou­jours chez l’auditeur une réaction de pudeur.
+dont tout le monde s’est aperçu la dernière fois que j’avais fait un lapsus en le nommant « *René* », Dieu sait pourquoi !
+…par cette petite porte, il nous entre en remarquant que sans doute, ce *mimétisme* est à chercher comme équivalent de la fonction qui, chez l’homme, s’exerce par cette activité singulière de la peinture. Ce n’est point pour faire ici cette psychanalyse du peintre, toujours si glissante, si scabreuse, et qui, jusqu’à un certain point, provoque tou­jours chez l’auditeur une réaction de pudeur.
 
 <!-- id: s11-09-0038 -->
 
@@ -458,8 +458,8 @@ Comment ne pas voir que le sujet n’y est pas tout à fait, qu’il est télég
 
 <!-- id: s11-09-0088 -->
 
-> modifiant la formule qui est celle que je donne du désir en tant qu’inconscient : « *le désir de l’homme est désir <u>de</u> l’Autre* »
-> …ici c’est une sorte de « *désir <u>à</u> l’Autre* » qu’il s’agit, au bout duquel est le « *donné-à-voir* ».
+modifiant la formule qui est celle que je donne du désir en tant qu’inconscient : « *le désir de l’homme est désir <u>de</u> l’Autre* »
+…ici c’est une sorte de « *désir <u>à</u> l’Autre* » qu’il s’agit, au bout duquel est le « *donné-à-voir* ».
 
 <!-- id: s11-09-0089 -->
 
@@ -616,8 +616,8 @@ ou mille autres choses dont l’aspect est infiniment plus clair, comme par exem
 
 <!-- id: s11-09-0120 -->
 
-> c’est dans je ne sais plus quel auteur que c’est décrit, je crois que c’est dans [VARRON](http://www.cosmovisions.com/Varron.htm)[^57] ou quelque chose comme ça
-> …c’est un *phallus*, tout simplement !
+c’est dans je ne sais plus quel auteur que c’est décrit, je crois que c’est dans [VARRON](http://www.cosmovisions.com/Varron.htm)[^57] ou quelque chose comme ça
+…c’est un *phallus*, tout simplement !
 
 <!-- id: s11-09-0121 -->
 

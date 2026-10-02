@@ -88,10 +88,14 @@ Ces espèces de deux bouts de la chaîne :
 
 <!-- id: s5-06-0017 -->
 
-> « *N’a d’esprit que ce que moi-même je ressens comme tel.* »
-> mais d’autre part :
-> « *Il n’y a rien de suffisant dans mon propre consentement à cet endroit,*
-> *que le plaisir du trait d’esprit ne s’achève dans l’Autre et par l’Autre.* »
+<div class="text-quotation">
+
+« *N’a d’esprit que ce que moi-même je ressens comme tel.* »
+mais d’autre part :
+« *Il n’y a rien de suffisant dans mon propre consentement à cet endroit,*
+*que le plaisir du trait d’esprit ne s’achève dans l’Autre et par l’Autre.* »
+
+</div>
 
 <!-- id: s5-06-0018 -->
 

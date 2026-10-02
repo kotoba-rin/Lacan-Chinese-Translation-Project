@@ -18,7 +18,7 @@ Si vous me le permettez à la faveur de cette coupure et de ces vœux, d’y met
 
 <!-- id: s13-05-0004 -->
 
-> *objet de déchet*, vous en avez eu déjà assez d’approches pour sentir la pertinence de ce terme, objet, dans une certaine perspective et dans un certain sens rejeté, oui …ne dirons-nous pas de lui que, comme il est prédit, *pierre de rebut* il doit devenir la *pierre d’angle* [^57] ?
+*objet de déchet*, vous en avez eu déjà assez d’approches pour sentir la pertinence de ce terme, objet, dans une certaine perspective et dans un certain sens rejeté, oui …ne dirons-nous pas de lui que, comme il est prédit, *pierre de rebut* il doit devenir la *pierre d’angle* [^57] ?
 
 <!-- id: s13-05-0005 -->
 
@@ -186,7 +186,7 @@ Combien de fois ceux-ci n’ont-ils pas été frappés…
 
 <!-- id: s13-05-0046 -->
 
-> quand pour eux cette baudruche de quelque *tore* et de quelque *cross-cap*, je la montrai éventrée …de voir, en quelque sorte surgir au tableau une figure qui aurait pu passer au premier coup d’œil pour *une coupe de cerveau* par exemple avec des formes involuées si frappantes jusque dans la macroscopie, ou au contraire une étape de l’embryon ?
+quand pour eux cette baudruche de quelque *tore* et de quelque *cross-cap*, je la montrai éventrée …de voir, en quelque sorte surgir au tableau une figure qui aurait pu passer au premier coup d’œil pour *une coupe de cerveau* par exemple avec des formes involuées si frappantes jusque dans la macroscopie, ou au contraire une étape de l’embryon ?
 
 <!-- id: s13-05-0047 -->
 
@@ -306,7 +306,7 @@ Alors, la question est de savoir comment nous pouvons rendre compte de ceci qui 
 
 <!-- id: s13-05-0076 -->
 
-> *dont la première chose que nous voyons, et on n’a pas pour ça attendu FREUD, c’est qu’il est - où qu’il aille, où qu’il fasse acte de sujet - de lui-même divisé* …comment ça peut s’inscrire dans *un monde à topologie sphérique*.
+*dont la première chose que nous voyons, et on n’a pas pour ça attendu FREUD, c’est qu’il est - où qu’il aille, où qu’il fasse acte de sujet - de lui-même divisé* …comment ça peut s’inscrire dans *un monde à topologie sphérique*.
 
 <!-- id: s13-05-0077 -->
 
@@ -314,7 +314,7 @@ Notre seule faveur c’est d’être *au moment* où peut-être…
 
 <!-- id: s13-05-0078 -->
 
-> d’avoir crevé רקיע וַיַּבְדֵּל \[rakî’a\], *firmamentum*, avant tout dans les spéculations des mathématiciens …nous pouvons donner à l’espace, à l’étendue du réel, une autre structure que celle de *la sphère à trois dimensions*.
+d’avoir crevé רקיע וַיַּבְדֵּל \[rakî’a\], *firmamentum*, avant tout dans les spéculations des mathématiciens …nous pouvons donner à l’espace, à l’étendue du réel, une autre structure que celle de *la sphère à trois dimensions*.
 
 <!-- id: s13-05-0079 -->
 
@@ -322,7 +322,7 @@ Bien sûr, il fût un temps où je vous fis faire, dans un certain *Rapport* - *
 
 <!-- id: s13-05-0080 -->
 
-> *de ce moi qui se croit moi, à ce qu’il exige de nous, fascinés par ce point secret d’évanouissement qui est le vrai point de perspective au–delà de l’image spéculaire qui fascine celui qui, là, se reconnaît, se regarde* …la différence qu’il y a entre cela et le « *je* » de *la parole* et du *discours*, de *la parole pleine* comme ai-je dit, celle qui s’engage dans ce vœu que j’ose à peine répéter sans rire : « *Je suis ta femme* »[^66] ou bien « *ton homme* » ou bien « *ton élève* ».
+*de ce moi qui se croit moi, à ce qu’il exige de nous, fascinés par ce point secret d’évanouissement qui est le vrai point de perspective au–delà de l’image spéculaire qui fascine celui qui, là, se reconnaît, se regarde* …la différence qu’il y a entre cela et le « *je* » de *la parole* et du *discours*, de *la parole pleine* comme ai-je dit, celle qui s’engage dans ce vœu que j’ose à peine répéter sans rire : « *Je suis ta femme* »[^66] ou bien « *ton homme* » ou bien « *ton élève* ».
 
 <!-- id: s13-05-0081 -->
 
@@ -334,7 +334,7 @@ Au niveau de mon séminaire sur le Président SCHREBER j’ai longuement…
 
 <!-- id: s13-05-0083 -->
 
-> à propos de ce que j’ai appelé « *le pouvoir de performation* »[^67], de l’affirmation consacrante …longuement balancé autour de « *Tu es celui qui me suivra(s)* » qui - bienfait des dieux en français - bénéficie de l’amphibologie de la deuxième et de la troisième personne du futur, on ne sait pas s’il faut écrire « *suivras* » ou « *suivra* »[^68].
+à propos de ce que j’ai appelé « *le pouvoir de performation* »[^67], de l’affirmation consacrante …longuement balancé autour de « *Tu es celui qui me suivra(s)* » qui - bienfait des dieux en français - bénéficie de l’amphibologie de la deuxième et de la troisième personne du futur, on ne sait pas s’il faut écrire « *suivras* » ou « *suivra* »[^68].
 
 <!-- id: s13-05-0084 -->
 
@@ -414,7 +414,7 @@ Faisons-en d’autres \[y\]. Il est facile de s’apercevoir que ces autres *tro
 
 <!-- id: s13-05-0103 -->
 
-> 1 2 3
+1 2 3
 
 <!-- id: s13-05-0104 -->
 
@@ -430,7 +430,7 @@ Ceci veut dire que sur une surface déterminée par ce bord que nous appelons le
 
 <!-- id: s13-05-0107 -->
 
-> a b c
+a b c
 
 <!-- id: s13-05-0108 -->
 
@@ -494,7 +494,7 @@ Mais c’est une figure simple et qui ne doit nous donner l’idée que, analogi
 
 <!-- id: s13-05-0123 -->
 
-> pour me faire entendre d’un auditoire pas forcément rompu à l’usage *des formules mathématiques* …qu’il soit, sur lui-même tordu, d’une façon torique.
+pour me faire entendre d’un auditoire pas forcément rompu à l’usage *des formules mathématiques* …qu’il soit, sur lui-même tordu, d’une façon torique.
 
 <!-- id: s13-05-0124 -->
 
@@ -506,7 +506,7 @@ Quoi qu’il en soit, à le prendre, ce qui nous suffit, comme modèle au niveau
 
 <!-- id: s13-05-0126 -->
 
-> <img src="assets/image54.jpeg" style="width:1.3287in;height:0.94622in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S13 b\Doc S13\26.jpg" />
+<img src="assets/image54.jpeg" style="width:1.3287in;height:0.94622in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S13 b\Doc S13\26.jpg" />
 
 <!-- id: s13-05-0127 -->
 
@@ -514,7 +514,7 @@ Quoi qu’il en soit, à le prendre, ce qui nous suffit, comme modèle au niveau
 
 <!-- id: s13-05-0128 -->
 
-> son épaisseur d’anneau. Ceux-là sont irréductibles.
+son épaisseur d’anneau. Ceux-là sont irréductibles.
 
 <!-- id: s13-05-0129 -->
 
@@ -526,7 +526,7 @@ Il suffit pour cela de déclarer…
 
 <!-- id: s13-05-0131 -->
 
-> *convention, mais convention dont vous verrez la motivation profonde quand je serai revenu des figures suivantes* …que la demande doit à la fois boucler sa boucle autour de l’intérieur - l’intérieur d’anneau, de cet *anneau* qu’est le *tore* - et venir *se reboucler sur elle-même sans s’être croisée*. Voici à peu près la figure que vous obtenez.
+*convention, mais convention dont vous verrez la motivation profonde quand je serai revenu des figures suivantes* …que la demande doit à la fois boucler sa boucle autour de l’intérieur - l’intérieur d’anneau, de cet *anneau* qu’est le *tore* - et venir *se reboucler sur elle-même sans s’être croisée*. Voici à peu près la figure que vous obtenez.
 
 <!-- id: s13-05-0132 -->
 
@@ -634,9 +634,9 @@ Et pourtant ce disque se trouve le corrélatif irréductible…
 
 <!-- id: s13-05-0158 -->
 
-> dès lors que nous avons affaire au monde du réel à trois dimensions,
->
-> au monde marqué de ce signe de *l’impossible* au regard de nos structures topologiques …ce disque occupe une fonction déterminante à l’endroit de ce qui est le plus original : la *bande de Mœbius*.
+dès lors que nous avons affaire au monde du réel à trois dimensions,
+
+au monde marqué de ce signe de *l’impossible* au regard de nos structures topologiques …ce disque occupe une fonction déterminante à l’endroit de ce qui est le plus original : la *bande de Mœbius*.
 
 <!-- id: s13-05-0159 -->
 

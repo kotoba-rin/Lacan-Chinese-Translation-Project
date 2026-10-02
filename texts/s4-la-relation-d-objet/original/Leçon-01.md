@@ -330,9 +330,13 @@ Nous ne sommes pas forcés de souscrire à cette opinion, mais l’important est
 
 <!-- id: s4-01-0059 -->
 
-> « ...*avant la guerre de 1914, à l’époque où la société occidentale, sûre d’elle-même, ne se posait pas de questions sur sa propre pérennité. Au contraire depuis 1926 l’accent est mis sur l’angoisse et l’interaction de l’organisme et de l’environnement,*
-> *c’est aussi que les assises de la société ont été ébranlées, l’angoisse d’un monde changeant est vécue chaque jour,*
-> *les individus se reconnaissent différents. C’est l’époque même où la physique se cherche, où relativisme, incertitudes, probabilisme, semblent ôter à la pensée objective, sa confiance en elle-même.* »
+<div class="text-quotation">
+
+« ...*avant la guerre de 1914, à l’époque où la société occidentale, sûre d’elle-même, ne se posait pas de questions sur sa propre pérennité. Au contraire depuis 1926 l’accent est mis sur l’angoisse et l’interaction de l’organisme et de l’environnement,*
+*c’est aussi que les assises de la société ont été ébranlées, l’angoisse d’un monde changeant est vécue chaque jour,*
+*les individus se reconnaissent différents. C’est l’époque même où la physique se cherche, où relativisme, incertitudes, probabilisme, semblent ôter à la pensée objective, sa confiance en elle-même.* »
+
+</div>
 
 <!-- id: s4-01-0060 -->
 
@@ -385,7 +389,11 @@ dont on nous dit que ces relations à leur objet sont caractérisées par quelqu
 
 <!-- id: s4-01-0069 -->
 
-> « …*la perte de ces relations, ou de leur objet, ce qui est synonyme puisque ici l’objet n’existe qu’en fonction de ses rapports avec le sujet, certains entraînant de graves désordres de l’activité du moi, tels que phénomènes de dépersonnalisation, troubles psychotiques.* »
+<div class="text-quotation">
+
+« …*la perte de ces relations, ou de leur objet, ce qui est synonyme puisque ici l’objet n’existe qu’en fonction de ses rapports avec le sujet, certains entraînant de graves désordres de l’activité du moi, tels que phénomènes de dépersonnalisation, troubles psychotiques.* »
+
+</div>
 
 <!-- id: s4-01-0070 -->
 
@@ -393,7 +401,11 @@ Ici nous trouvons le point dans lequel est recherché le test du témoignage de 
 
 <!-- id: s4-01-0071 -->
 
-> « …*le sujet s’efforce de maintenir ses relations d’objet à tout prix, en utilisant toutes sortes d’aménagements dans ce but – changement d’objet avec utilisation du déplacement ou de la symbolisation qui, par le choix d’un objet symbolique arbitrairement chargé de la même valeur affective que l’objet initial, lui permettra de ne pas se trouver privé de relation objectale.* ».
+<div class="text-quotation">
+
+« …*le sujet s’efforce de maintenir ses relations d’objet à tout prix, en utilisant toutes sortes d’aménagements dans ce but – changement d’objet avec utilisation du déplacement ou de la symbolisation qui, par le choix d’un objet symbolique arbitrairement chargé de la même valeur affective que l’objet initial, lui permettra de ne pas se trouver privé de relation objectale.* ».
+
+</div>
 
 <!-- id: s4-01-0072 -->
 
@@ -402,8 +414,12 @@ et ceci explique que :
 
 <!-- id: s4-01-0073 -->
 
-> « …*Les génitaux au contraire possèdent un Moi qui ne voit pas sa force et l’exercice de ses fonctions dépendre de la possession d’un objet significatif. Alors que pour les premiers la perte d’une personne importante subjectivement parlant pour prendre l’exemple le plus simple, met en jeu leur individualité, pour eux cette perte, pour si douloureuse qu’elle soit, ne trouble en rien la solidité de leur personnalité. Ils ne sont pas dépendants d’une relation objectale. Cela ne veut pas dire qu’ils peuvent se passer aisément de toute relation objectale, ce qui d’ailleurs est pratiquement irréalisable, tant les relations d’objet sont multiples et variées, mais que simplement leur unité n’est pas à la merci de la perte d’un contact avec un objet significatif. C’est là ce qui du point de vue du rapport entre le Moi et la relation d’objet les différencie radicalement des précédents. »*
-> « *Si comme dans toute névrose une évolution normale semble avoir été stoppée par l’impossibilité où s’est trouvé le sujet de résoudre le dernier des conflits structurants de l’enfance, celui dont la liquidation parfaite, si l’on peut s’exprimer ainsi, aboutit à cette adaptation si heureuse au monde que l’on nomme la relation d’objet génitale et qui donne à tout observateur le sentiment d’une personnalité harmonieuse et à l’analyse la perception immédiate d’une sorte de limpidité cristalline de l’esprit, ce qui est, je le répète, plus une limite qu’une réalité, cette difficulté de résolution de l’Œdipe bien souvent n’a pas tenu au seul problème qu’il posait.* »
+<div class="text-quotation">
+
+« …*Les génitaux au contraire possèdent un Moi qui ne voit pas sa force et l’exercice de ses fonctions dépendre de la possession d’un objet significatif. Alors que pour les premiers la perte d’une personne importante subjectivement parlant pour prendre l’exemple le plus simple, met en jeu leur individualité, pour eux cette perte, pour si douloureuse qu’elle soit, ne trouble en rien la solidité de leur personnalité. Ils ne sont pas dépendants d’une relation objectale. Cela ne veut pas dire qu’ils peuvent se passer aisément de toute relation objectale, ce qui d’ailleurs est pratiquement irréalisable, tant les relations d’objet sont multiples et variées, mais que simplement leur unité n’est pas à la merci de la perte d’un contact avec un objet significatif. C’est là ce qui du point de vue du rapport entre le Moi et la relation d’objet les différencie radicalement des précédents. »*
+« *Si comme dans toute névrose une évolution normale semble avoir été stoppée par l’impossibilité où s’est trouvé le sujet de résoudre le dernier des conflits structurants de l’enfance, celui dont la liquidation parfaite, si l’on peut s’exprimer ainsi, aboutit à cette adaptation si heureuse au monde que l’on nomme la relation d’objet génitale et qui donne à tout observateur le sentiment d’une personnalité harmonieuse et à l’analyse la perception immédiate d’une sorte de limpidité cristalline de l’esprit, ce qui est, je le répète, plus une limite qu’une réalité, cette difficulté de résolution de l’Œdipe bien souvent n’a pas tenu au seul problème qu’il posait.* »
+
+</div>
 
 <!-- id: s4-01-0074 -->
 
@@ -412,10 +428,14 @@ c’est encore à ceci :
 
 <!-- id: s4-01-0075 -->
 
-> « *Les pulsions dont il s’agit nous feront aboutir à cette notion, alors que les formes prégénitales marquent ce besoin de possession incoercible, illimité, inconditionnel, comportant un aspect destructif, (dans les formes génitales), elles sont véritablement aimantes,*
-> *et si le sujet ne s’y montre pas pour autant oblatif c’est-à-dire désintéressé, et si ses objets sont aussi foncièrement des objets narcissiques que dans le cas précédent, il est ici capable de compréhension, d’adaptation à la situation de l’autre. D’ailleurs*
-> *la structure intime de ses relations objectales montre que la participation de l’objet à son propre plaisir à lui, est indispensable*
-> *au bonheur du sujet. Les convenances, les désirs, les besoins de l’objet sont pris en considération au plus haut point.* »
+<div class="text-quotation">
+
+« *Les pulsions dont il s’agit nous feront aboutir à cette notion, alors que les formes prégénitales marquent ce besoin de possession incoercible, illimité, inconditionnel, comportant un aspect destructif, (dans les formes génitales), elles sont véritablement aimantes,*
+*et si le sujet ne s’y montre pas pour autant oblatif c’est-à-dire désintéressé, et si ses objets sont aussi foncièrement des objets narcissiques que dans le cas précédent, il est ici capable de compréhension, d’adaptation à la situation de l’autre. D’ailleurs*
+*la structure intime de ses relations objectales montre que la participation de l’objet à son propre plaisir à lui, est indispensable*
+*au bonheur du sujet. Les convenances, les désirs, les besoins de l’objet sont pris en considération au plus haut point.* »
+
+</div>
 
 <!-- id: s4-01-0076 -->
 

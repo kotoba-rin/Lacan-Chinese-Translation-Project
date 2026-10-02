@@ -74,7 +74,7 @@ Que si c’était en raison de cette confusion *dans un article* qui par ailleur
 
 <!-- id: s16-24-0018 -->
 
-> ils sont faits pour ça, les cours de SAUSSURE certainement pas …et que d’autre part *la méthode* dite *diagonale* est bien connue pour sa fécondité en mathématiques, à savoir pour révéler que, de toute sériation qui se prétend exhaustive on peut, par la méthode diagonale, extraire quelque autre entité qu’elle n’enserre pas dans sa série \[Cf. Cantor et les א\]. En ce sens, j’accepterai assez volontiers d’avoir fait de SAUSSURE un usage diagonal.
+ils sont faits pour ça, les cours de SAUSSURE certainement pas …et que d’autre part *la méthode* dite *diagonale* est bien connue pour sa fécondité en mathématiques, à savoir pour révéler que, de toute sériation qui se prétend exhaustive on peut, par la méthode diagonale, extraire quelque autre entité qu’elle n’enserre pas dans sa série \[Cf. Cantor et les א\]. En ce sens, j’accepterai assez volontiers d’avoir fait de SAUSSURE un usage diagonal.
 
 <!-- id: s16-24-0019 -->
 
@@ -114,7 +114,7 @@ Je rappelle qu’en somme ce dont il s’agit est ceci : que tout ce qui se lai
 
 <!-- id: s16-24-0028 -->
 
-> en l’occasion et sans exclure que cela puisse s’écrire autrement …ce qui, dis-je, change *le relief du réel*.
+en l’occasion et sans exclure que cela puisse s’écrire autrement …ce qui, dis-je, change *le relief du réel*.
 
 <!-- id: s16-24-0029 -->
 
@@ -146,11 +146,11 @@ C’est pourquoi c’est seulement au moment que s’inscrivent ces trois signif
 
 <!-- id: s16-24-0036 -->
 
-> comme vous le voyez d’une façon qui ne va pas de soi, qui a demandé des mois et des années d’explication *pour ceux-là même* dont la pratique ne saurait un instant se soutenir sans se référer à *cette structure*, j’entends *les psychanalystes* …à soi tout seul ces trois termes inscrits sous ce mode d’inscription, ces trois termes constituent bien…
+comme vous le voyez d’une façon qui ne va pas de soi, qui a demandé des mois et des années d’explication *pour ceux-là même* dont la pratique ne saurait un instant se soutenir sans se référer à *cette structure*, j’entends *les psychanalystes* …à soi tout seul ces trois termes inscrits sous ce mode d’inscription, ces trois termes constituent bien…
 
 <!-- id: s16-24-0037 -->
 
-> au titre de ce qu’ils impliquent déjà, avant qu’il soit question d’en faire surgir l’apparition du sujet, une structure …déjà ils constituent par leur articulation *un savoir*.
+au titre de ce qu’ils impliquent déjà, avant qu’il soit question d’en faire surgir l’apparition du sujet, une structure …déjà ils constituent par leur articulation *un savoir*.
 
 <!-- id: s16-24-0038 -->
 
@@ -270,13 +270,13 @@ Au regard *du progrès* opéré par la cure parlante, la *talking cure,* comment
 
 <!-- id: s16-24-0067 -->
 
-> la question est de savoir comment il put se soumettre à cette fonction : pendant un an, deux ans, écouter tous les soirs, au moment qu’un état second marquait la coupe, la coupure, dont une Dora, dont une Anna symptomatique se séparait de son propre sujet …comment ne pas s’interroger sur la relation cachée qui fait que, simplement à prendre les choses comme elles se présentent, c’est de ce qu’un sujet vienne à savoir quelque chose qui est un trait – *rappelez-vous de cette observation* -
+la question est de savoir comment il put se soumettre à cette fonction : pendant un an, deux ans, écouter tous les soirs, au moment qu’un état second marquait la coupe, la coupure, dont une Dora, dont une Anna symptomatique se séparait de son propre sujet …comment ne pas s’interroger sur la relation cachée qui fait que, simplement à prendre les choses comme elles se présentent, c’est de ce qu’un sujet vienne à savoir quelque chose qui est un trait – *rappelez-vous de cette observation* -
 
 <!-- id: s16-24-0068 -->
 
-> un trait d’ailleurs suivi à la façon d’une *reprise historique*, non pas perdu dans les ténèbres de je ne sais quoi d’oublié, simplement de coupé de l’année juste avant, et qui - à mesure qu’avec ce retard qui à lui tout seul doit pour nous avoir un sens - fait que FREUD en étant informé, *le symptôme*…
->
-> dont le rapport n’est que lointain, n’est que forcé au regard de ce qui s’articule … *le symptôme* se lève.
+un trait d’ailleurs suivi à la façon d’une *reprise historique*, non pas perdu dans les ténèbres de je ne sais quoi d’oublié, simplement de coupé de l’année juste avant, et qui - à mesure qu’avec ce retard qui à lui tout seul doit pour nous avoir un sens - fait que FREUD en étant informé, *le symptôme*…
+
+dont le rapport n’est que lointain, n’est que forcé au regard de ce qui s’articule … *le symptôme* se lève.
 
 <!-- id: s16-24-0069 -->
 
@@ -300,7 +300,7 @@ Comment ne pas voir *qu’utilisée par une religion* soucieuse de reprendre son
 
 <!-- id: s16-24-0074 -->
 
-> quelle qu’elle soit, quelque saint ou sainte qu’elle représente, voire la Vierge Marie …est proprement ce regard qui est fait pour que devant, l’âme s’ouvre. Le rapprochement que j’ai fait d’un seul trait de *la structure perverse* avec je ne sais quelle capture qu’il faut bien appeler idolâtre de la foi, *si elle nous met au cœur de ce qui* *s’est présentifié en notre Occident d’une querelle des images*, est quelque chose d’exemplaire et dont nous avons à faire notre profit.
+quelle qu’elle soit, quelque saint ou sainte qu’elle représente, voire la Vierge Marie …est proprement ce regard qui est fait pour que devant, l’âme s’ouvre. Le rapprochement que j’ai fait d’un seul trait de *la structure perverse* avec je ne sais quelle capture qu’il faut bien appeler idolâtre de la foi, *si elle nous met au cœur de ce qui* *s’est présentifié en notre Occident d’une querelle des images*, est quelque chose d’exemplaire et dont nous avons à faire notre profit.
 
 <!-- id: s16-24-0075 -->
 
@@ -328,7 +328,7 @@ Son appui n’étant rien d’autre que le corps de l’esclave en tant qu’il 
 
 <!-- id: s16-24-0081 -->
 
-> pour employer une formule dont ce n’est pas pour rien qu’elle est venue au premier plan de la vie spirituelle …*perinde ac cadaver*[^88]. Mais il n’est ainsi que dans le champ dont se supporte le maître comme sujet.
+pour employer une formule dont ce n’est pas pour rien qu’elle est venue au premier plan de la vie spirituelle …*perinde ac cadaver*[^88]. Mais il n’est ainsi que dans le champ dont se supporte le maître comme sujet.
 
 <!-- id: s16-24-0082 -->
 
@@ -384,11 +384,11 @@ Et pour mettre en son cœur *l’appareil analogue, le modèle* dont il s’agit
 
 <!-- id: s16-24-0095 -->
 
-> de même qu’on peut dire que *l’obsessionnel* ne se prend pas pour le maître, mais *suppose que le maître sait ce qu’il veut* …de même *l’hystérique* pour la femme…
+de même qu’on peut dire que *l’obsessionnel* ne se prend pas pour le maître, mais *suppose que le maître sait ce qu’il veut* …de même *l’hystérique* pour la femme…
 
 <!-- id: s16-24-0096 -->
 
-> non pas que *l’hystérique* soit pour autant *obligatoirement* une femme, pas plus que *l’obsessionne*l est *obligatoirement* un homme, il s’agit de la référence au modèle du maître …de même *l’hystérique*, son modèle, c’est ce que je vais maintenant énoncer de ce qu’il en est du modèle où la femme instaure ce *quelque chose* de combien plus central, vous allez le voir, à notre expérience analytique.
+non pas que *l’hystérique* soit pour autant *obligatoirement* une femme, pas plus que *l’obsessionne*l est *obligatoirement* un homme, il s’agit de la référence au modèle du maître …de même *l’hystérique*, son modèle, c’est ce que je vais maintenant énoncer de ce qu’il en est du modèle où la femme instaure ce *quelque chose* de combien plus central, vous allez le voir, à notre expérience analytique.
 
 <!-- id: s16-24-0097 -->
 
@@ -416,9 +416,9 @@ Là où le sujet-maître engage un risque de vie, dans le pari inaugural de cett
 
 <!-- id: s16-24-0103 -->
 
-> je n’ai pas dit *l’hystérique*, j’ai dit *la femme* car *l’hystérique*, tel que fait *l’obsessionnel* tout à l’heure,
->
-> ne s’explique qu’en raison de ces références …*elle risque, elle parie, cette jouissance* dont chacun sait qu’elle est pour *la femme* inaugurale et existante, et telle que sans aucun de ces efforts, de ces détours qui caractérisent l’*auto-érotisme* chez l’homme, non seulement elle l’obtient mais que toujours elle subsiste distincte et parallèle de celle qu’elle prend à être *la femme de l’homme*, celle qui se satisfait de la « *jouissance de l’homme* ».
+je n’ai pas dit *l’hystérique*, j’ai dit *la femme* car *l’hystérique*, tel que fait *l’obsessionnel* tout à l’heure,
+
+ne s’explique qu’en raison de ces références …*elle risque, elle parie, cette jouissance* dont chacun sait qu’elle est pour *la femme* inaugurale et existante, et telle que sans aucun de ces efforts, de ces détours qui caractérisent l’*auto-érotisme* chez l’homme, non seulement elle l’obtient mais que toujours elle subsiste distincte et parallèle de celle qu’elle prend à être *la femme de l’homme*, celle qui se satisfait de la « *jouissance de l’homme* ».
 
 <!-- id: s16-24-0104 -->
 
@@ -426,7 +426,7 @@ Cette « *jouissance de l’homme* » à quoi la femme se prend, se captive, c
 
 <!-- id: s16-24-0105 -->
 
-> je veux dire ne subsiste que de sa relation à la mort et fasse avec cette relation subsister tout le système …le rapport de l’homme à la castration est aussi ce qui, ici, fait tenir tout l’appareil.
+je veux dire ne subsiste que de sa relation à la mort et fasse avec cette relation subsister tout le système …le rapport de l’homme à la castration est aussi ce qui, ici, fait tenir tout l’appareil.
 
 <!-- id: s16-24-0106 -->
 
@@ -454,7 +454,7 @@ Et c’est pour cela qu’elle s’interroge au-delà…
 
 <!-- id: s16-24-0112 -->
 
-> de ce que déjà j’ai articulé à propos de Dora, centré sur un premier abord que j’ai fait du *transfert* …au-delà - relisez l’observation, et aussi bien n’omettez pas tout ce qui, dans les observations antérieures, celles des *Études sur l’Hystérie,* nous permet simplement ceci : de voir la corrélation qu’il y a entre ceci :
+de ce que déjà j’ai articulé à propos de Dora, centré sur un premier abord que j’ai fait du *transfert* …au-delà - relisez l’observation, et aussi bien n’omettez pas tout ce qui, dans les observations antérieures, celles des *Études sur l’Hystérie,* nous permet simplement ceci : de voir la corrélation qu’il y a entre ceci :
 
 <!-- id: s16-24-0113 -->
 
@@ -470,9 +470,9 @@ Et c’est pour cela qu’elle s’interroge au-delà…
 
 <!-- id: s16-24-0116 -->
 
-> les deux modèles ne pouvant se distinguer de ce facteur introduit,
->
-> qui réunit sous le chef de *la névrose* aussi bien un type que l’autre …vous pouvez constater que le corrélat de *la mort est en jeu dans ce que l’hystérique aborde de ce qu’il en est de la femme.*
+les deux modèles ne pouvant se distinguer de ce facteur introduit,
+
+qui réunit sous le chef de *la névrose* aussi bien un type que l’autre …vous pouvez constater que le corrélat de *la mort est en jeu dans ce que l’hystérique aborde de ce qu’il en est de la femme.*
 
 <!-- id: s16-24-0117 -->
 
@@ -496,7 +496,7 @@ C’est que, tant que l’analyste ne pratique pas la coupure entre ceci qui est
 
 <!-- id: s16-24-0122 -->
 
-> à savoir les modèles que j’ai proprement ici articulés du 1, (1, *ensemble vide*) :
+à savoir les modèles que j’ai proprement ici articulés du 1, (1, *ensemble vide*) :
 
 <!-- id: s16-24-0123 -->
 
@@ -504,13 +504,13 @@ C’est que, tant que l’analyste ne pratique pas la coupure entre ceci qui est
 
 <!-- id: s16-24-0124 -->
 
-> tant au niveau du maître qu’au niveau de la femme …tant que ceci n’est pas coupé de la supposition du *sujet supposé savoir…*
+tant au niveau du maître qu’au niveau de la femme …tant que ceci n’est pas coupé de la supposition du *sujet supposé savoir…*
 
 <!-- id: s16-24-0125 -->
 
-> *c’est-à-dire de ce qui a fait naturellement le névrosé psychanalysant*
->
-> *parce que d’ores et déjà constituant en soi-même et avant toute analyse le transfert* …*la coalescence de la structure avec le sujet supposé savoir,* voilà ce qui témoigne chez le névrosé ceci : *qu’il interroge la vérité de ses structures et qu’il devient lui-même en chair cette interrogation*, et que si quelque chose peut faire tomber ceci : *qu’il est lui-même symptôme*.
+*c’est-à-dire de ce qui a fait naturellement le névrosé psychanalysant*
+
+*parce que d’ores et déjà constituant en soi-même et avant toute analyse le transfert* …*la coalescence de la structure avec le sujet supposé savoir,* voilà ce qui témoigne chez le névrosé ceci : *qu’il interroge la vérité de ses structures et qu’il devient lui-même en chair cette interrogation*, et que si quelque chose peut faire tomber ceci : *qu’il est lui-même symptôme*.
 
 <!-- id: s16-24-0126 -->
 

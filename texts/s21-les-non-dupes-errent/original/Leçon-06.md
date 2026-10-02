@@ -26,7 +26,7 @@ Pour le dire, la question est de savoir ce que le savoir inconscient...
 
 <!-- id: s21-06-0006 -->
 
-> là forcément, je vois bien que j’en­chaîne ...à savoir que *le savoir inconscient* je le pose comme ce qui travaille, et ce qui travaille ne peut travailler... il n’y a de prise quelconque du travail que dans un *discours*. Il s’agit de fonder *ce qui travaille* *dans le discours analytique*.
+là forcément, je vois bien que j’en­chaîne ...à savoir que *le savoir inconscient* je le pose comme ce qui travaille, et ce qui travaille ne peut travailler... il n’y a de prise quelconque du travail que dans un *discours*. Il s’agit de fonder *ce qui travaille* *dans le discours analytique*.
 
 <!-- id: s21-06-0007 -->
 
@@ -90,7 +90,7 @@ Il est bien certain que c’est *le discours* qui nous fait coller...
 
 <!-- id: s21-06-0022 -->
 
-> *le discours analytique* ...qui nous fait coller à ce savoir d’une façon qui n’a pas de précédent dans l’Histoire.
+*le discours analytique* ...qui nous fait coller à ce savoir d’une façon qui n’a pas de précédent dans l’Histoire.
 
 <!-- id: s21-06-0023 -->
 
@@ -98,7 +98,7 @@ Pourquoi après tout ne pourrions-nous pas considérer ce discours lui-même com
 
 <!-- id: s21-06-0024 -->
 
-> et aussi bien c’est de cela qu’il faut rendre compte ...*où se situe le Réel ? Est-ce que le Réel n’est jamais que supposé ?*
+et aussi bien c’est de cela qu’il faut rendre compte ...*où se situe le Réel ? Est-ce que le Réel n’est jamais que supposé ?*
 
 <!-- id: s21-06-0025 -->
 
@@ -118,7 +118,7 @@ C’est une question que je fonde, que je justifie de ceci : *qu’il n’y a pa
 
 <!-- id: s21-06-0029 -->
 
-> en d’autres termes, que je le précise de ceci ...*qui puisse s’écrire*.
+en d’autres termes, que je le précise de ceci ...*qui puisse s’écrire*.
 
 <!-- id: s21-06-0030 -->
 
@@ -126,15 +126,15 @@ Moyennant quoi ce qui s’écrit, c’est que, par exemple, il n’existe pas de
 
 <!-- id: s21-06-0031 -->
 
-> qui ici signifient le fondement de tels des êtres parlants, à se choisir comme de la partie mâle ou femelle,
->
-> ceci, cette fonction qui ferait le rapport, cette fonction de l’homme par rapport à la femme,
->
-> cette fonction de la femme par rapport à l’homme ...il n’en existe pas qui puisse s’écrire.
+qui ici signifient le fondement de tels des êtres parlants, à se choisir comme de la partie mâle ou femelle,
+
+ceci, cette fonction qui ferait le rapport, cette fonction de l’homme par rapport à la femme,
+
+cette fonction de la femme par rapport à l’homme ...il n’en existe pas qui puisse s’écrire.
 
 <!-- id: s21-06-0032 -->
 
-> <img src="assets/image22.jpeg" style="width:0.92792in;height:0.33077in" alt="13a.jpg" />
+<img src="assets/image22.jpeg" style="width:0.92792in;height:0.33077in" alt="13a.jpg" />
 
 <!-- id: s21-06-0033 -->
 
@@ -142,7 +142,7 @@ C’est ça *la chose*, *la chose* que je produis devant vous, c’est ce que qu
 
 <!-- id: s21-06-0034 -->
 
-> car je me répète, comme tout le monde, il n’y a que vous pour ne pas vous en apercevoir ...c’est ça que j’ai déjà énoncé sous le nom de *La chose freudienne*.
+car je me répète, comme tout le monde, il n’y a que vous pour ne pas vous en apercevoir ...c’est ça que j’ai déjà énoncé sous le nom de *La chose freudienne*.
 
 <!-- id: s21-06-0035 -->
 
@@ -166,7 +166,7 @@ C’est une supposition que l’expérience rend très évidemment intenable, et
 
 <!-- id: s21-06-0040 -->
 
-> par l’énonciation dont je ne suis le sujet que pour autant que dans *le discours analytique* je travaille moi-même ...qu’il faut que je ne mette pas de *sujet* sous cet x et sous cet y.
+par l’énonciation dont je ne suis le sujet que pour autant que dans *le discours analytique* je travaille moi-même ...qu’il faut que je ne mette pas de *sujet* sous cet x et sous cet y.
 
 <!-- id: s21-06-0041 -->
 
@@ -174,7 +174,7 @@ Il faut donc que l’énoncé...
 
 <!-- id: s21-06-0042 -->
 
-> et rien que déjà à écrire ceci au tableau ...il faut donc que mon énoncé n’implique pas de *sujet*.
+et rien que déjà à écrire ceci au tableau ...il faut donc que mon énoncé n’implique pas de *sujet*.
 
 <!-- id: s21-06-0043 -->
 
@@ -206,7 +206,7 @@ Ce n’est pas une petite affaire simplement pour ceci : c’est que à simpleme
 
 <!-- id: s21-06-0050 -->
 
-> si je puis dire : *bon heur*, les deux mots séparés ...s’écrive *f(x,y)* : il y a une fonction qui noue le x et le y, *et que ça a cessé de ne pas s’écrire.*
+si je puis dire : *bon heur*, les deux mots séparés ...s’écrive *f(x,y)* : il y a une fonction qui noue le x et le y, *et que ça a cessé de ne pas s’écrire.*
 
 <!-- id: s21-06-0051 -->
 
@@ -238,7 +238,7 @@ Je prends appui...
 
 <!-- id: s21-06-0058 -->
 
-> peut-être la ques­tion mérite qu’on la soulève ...sur une topologie.
+peut-être la ques­tion mérite qu’on la soulève ...sur une topologie.
 
 <!-- id: s21-06-0059 -->
 
@@ -254,7 +254,7 @@ L’ordre **1,2,3** ben, il y en a un qui vient le premier et ce n’est pas par
 
 <!-- id: s21-06-0062 -->
 
-> on ne sait d’ailleurs pas lequel vient le premier ...ce n’est pas par hasard que ce soit le **1**, puisque :
+on ne sait d’ailleurs pas lequel vient le premier ...ce n’est pas par hasard que ce soit le **1**, puisque :
 
 <!-- id: s21-06-0063 -->
 
@@ -278,7 +278,7 @@ Il suffit en effet qu’il y ait 1,2,3 ou 1,3,2...
 
 <!-- id: s21-06-0068 -->
 
-> c’est ça que j’appelle *« les prendre à revers »* ...pour que les six autres façons d’arranger le 1,2,3 soient possibles.
+c’est ça que j’appelle *« les prendre à revers »* ...pour que les six autres façons d’arranger le 1,2,3 soient possibles.
 
 <!-- id: s21-06-0069 -->
 
@@ -286,7 +286,7 @@ L’idée de « *successeur »*...
 
 <!-- id: s21-06-0070 -->
 
-> et que de *successeur* il n’y en ait qu’un dans la suite naturelle des nombres, ...c’est une idée qui ne s’est dégagée que tard, ce qui est assez curieux parce qu’il semblait bien que c’était là *la chose la plus tangible,* *la plus réelle* qui soit, concernant la suite naturelle. Pourquoi n’y aurait-il pas - de *successeurs* - une multitu­de ?
+et que de *successeur* il n’y en ait qu’un dans la suite naturelle des nombres, ...c’est une idée qui ne s’est dégagée que tard, ce qui est assez curieux parce qu’il semblait bien que c’était là *la chose la plus tangible,* *la plus réelle* qui soit, concernant la suite naturelle. Pourquoi n’y aurait-il pas - de *successeurs* - une multitu­de ?
 
 <!-- id: s21-06-0071 -->
 
@@ -350,11 +350,11 @@ Quand je témoigne, quand je dis que le nœud, c’est ça qui me cogite, et que
 
 <!-- id: s21-06-0086 -->
 
-> pour autant qu’il est le discours analytique ...mon discours en témoigne, il se trouve que...
+pour autant qu’il est le discours analytique ...mon discours en témoigne, il se trouve que...
 
 <!-- id: s21-06-0087 -->
 
-> parce que j’ai fait quelques pas de plus que vous ...il est borroméen en l’occasion ce nœud, mais il pourrait être autre.
+parce que j’ai fait quelques pas de plus que vous ...il est borroméen en l’occasion ce nœud, mais il pourrait être autre.
 
 <!-- id: s21-06-0088 -->
 
@@ -390,7 +390,7 @@ C’est un espace qui ne se sup­porte que de la continuité, qui s’en déduit
 
 <!-- id: s21-06-0096 -->
 
-> ce qui n’est pas dit,et n’est pas énoncé, formulé comme tel dans la topologie ...ce que j’appellerai *la malléabilité*.
+ce qui n’est pas dit,et n’est pas énoncé, formulé comme tel dans la topologie ...ce que j’appellerai *la malléabilité*.
 
 <!-- id: s21-06-0097 -->
 
@@ -418,11 +418,11 @@ L’idée, l’idée qui fonde la topologie, mathématiquement définie, est d�
 
 <!-- id: s21-06-0103 -->
 
-> c’est la topologie qui, là, supporte, ça n’est pas un sujet qui lui est supposé ...ce que la topologie supporte, *l’idée c’est de l’aborder sans image, de ne leur supposer à ces lettres*...
+c’est la topologie qui, là, supporte, ça n’est pas un sujet qui lui est supposé ...ce que la topologie supporte, *l’idée c’est de l’aborder sans image, de ne leur supposer à ces lettres*...
 
 <!-- id: s21-06-0104 -->
 
-> telles qu’elles fondent la topologie ...*de ne leur supposer que le Réel*.
+telles qu’elles fondent la topologie ...*de ne leur supposer que le Réel*.
 
 <!-- id: s21-06-0105 -->
 
@@ -430,13 +430,13 @@ Le *Réel* en tant qu’il n’ajoute...
 
 <!-- id: s21-06-0106 -->
 
-> est-ce que vous vous apercevez que ce terme est encore de trop, puisqu’il évoque l’addition ? ...qu’il n’ajoute...
+est-ce que vous vous apercevez que ce terme est encore de trop, puisqu’il évoque l’addition ? ...qu’il n’ajoute...
 
 <!-- id: s21-06-0107 -->
 
-> à ce que nous savons distinguer comme l’*Imaginaire* : cette souplesse liée au corps,
->
-> ou comme *Symbolique* : le fait de dénommer le voisinage, la conti­nuité ...qu’il n’ajoute que quelque chose, *le Réel, et non pas de ce qu’il soit* **3<sup>ème</sup>**, *mais de ce qu’à eux tous ils fassent* **3**.
+à ce que nous savons distinguer comme l’*Imaginaire* : cette souplesse liée au corps,
+
+ou comme *Symbolique* : le fait de dénommer le voisinage, la conti­nuité ...qu’il n’ajoute que quelque chose, *le Réel, et non pas de ce qu’il soit* **3<sup>ème</sup>**, *mais de ce qu’à eux tous ils fassent* **3**.
 
 <!-- id: s21-06-0108 -->
 
@@ -472,11 +472,11 @@ Ce qu’il faut voir, ce qu’il faut que vous supportiez, c’est ceci : c’es
 
 <!-- id: s21-06-0116 -->
 
-> ce qui serait de l’ordre de l’*Imaginaire* ...ce n’est pas un modèle parce que par rapport à ce 3, vous êtes...
+ce qui serait de l’ordre de l’*Imaginaire* ...ce n’est pas un modèle parce que par rapport à ce 3, vous êtes...
 
 <!-- id: s21-06-0117 -->
 
-> non pas son sujet l’imaginant ou le symbolisant, ...vous êtes : vous n’êtes, en tant que sujets, *vous n’êtes que les patients de cette triplicité*.
+non pas son sujet l’imaginant ou le symbolisant, ...vous êtes : vous n’êtes, en tant que sujets, *vous n’êtes que les patients de cette triplicité*.
 
 <!-- id: s21-06-0118 -->
 
@@ -484,11 +484,11 @@ Vous êtes les patients d’abord parce que c’est déjà dans *la langue*...
 
 <!-- id: s21-06-0119 -->
 
-> il n’y a pas de langue où le 3 ne s’énonce ...c’est dans *la langue*, et c’est aussi dans le fonctionnement qui s’appelle *le langage*, c’est-à-dire la structure logique telle que, tout naïvement, le pre­mier qui ait commencé là-dedans, par exemple...
+il n’y a pas de langue où le 3 ne s’énonce ...c’est dans *la langue*, et c’est aussi dans le fonctionnement qui s’appelle *le langage*, c’est-à-dire la structure logique telle que, tout naïvement, le pre­mier qui ait commencé là-dedans, par exemple...
 
 <!-- id: s21-06-0120 -->
 
-> le premier à notre connaissance, bien sûr ...à savoir : Aristote, enfin celui dont on a justement des *écrits*, il a bien fallu qu’il manipule la chose avec des petites lettres, et ça ne peut pas se manipuler sans qu’il y en ait 3.
+le premier à notre connaissance, bien sûr ...à savoir : Aristote, enfin celui dont on a justement des *écrits*, il a bien fallu qu’il manipule la chose avec des petites lettres, et ça ne peut pas se manipuler sans qu’il y en ait 3.
 
 <!-- id: s21-06-0121 -->
 
@@ -508,7 +508,7 @@ Un *dire* qui ne suppose rien, sinon que *triple* est le *Réel*...
 
 <!-- id: s21-06-0125 -->
 
-> j’ai dit triple, c’est-à-dire 3, non pas 3<sup>ème</sup> ...c’est en quoi consiste le *dire* que je me trouve contraint d’avancer par la question du *non-rapport*, du *non-rapport* en tant qu’il touche spécifiquement à ce qu’il en est de la subjectivation du sexuel.
+j’ai dit triple, c’est-à-dire 3, non pas 3<sup>ème</sup> ...c’est en quoi consiste le *dire* que je me trouve contraint d’avancer par la question du *non-rapport*, du *non-rapport* en tant qu’il touche spécifiquement à ce qu’il en est de la subjectivation du sexuel.
 
 <!-- id: s21-06-0126 -->
 
@@ -524,7 +524,7 @@ Et aussi bien la pensée...
 
 <!-- id: s21-06-0129 -->
 
-> au regard de ce qui se supporte de cette avancée du trois, du trois comme *nœud*, et comme rien d’autre ...*la pensée n’est* *que* ce que j’ai appelé tout à l’heure *ce qui se cogi­te, c’est-à-dire un rêve noir*, *celui dans lequel* communément *vous habi­tez*.
+au regard de ce qui se supporte de cette avancée du trois, du trois comme *nœud*, et comme rien d’autre ...*la pensée n’est* *que* ce que j’ai appelé tout à l’heure *ce qui se cogi­te, c’est-à-dire un rêve noir*, *celui dans lequel* communément *vous habi­tez*.
 
 <!-- id: s21-06-0130 -->
 
@@ -548,9 +548,9 @@ Cette pluie d’informations...
 
 <!-- id: s21-06-0135 -->
 
-> si je puis dire, au milieu desquelles on peut s’étonner que vous subsistiez encore,
->
-> que vous gardiez votre jugeo­te, à savoir que vous ne vous en fassiez finalement pas trop, de ce que le journal vous annonce tous les matins ...ben - Dieu merci ! - ça vous passe, comme on dit, comme de l’eau sur les plumes d’un canard ! Sans ça, où iriez-vous ?
+si je puis dire, au milieu desquelles on peut s’étonner que vous subsistiez encore,
+
+que vous gardiez votre jugeo­te, à savoir que vous ne vous en fassiez finalement pas trop, de ce que le journal vous annonce tous les matins ...ben - Dieu merci ! - ça vous passe, comme on dit, comme de l’eau sur les plumes d’un canard ! Sans ça, où iriez-vous ?
 
 <!-- id: s21-06-0136 -->
 
@@ -558,11 +558,11 @@ Il faut tout de même bien qu’il y ait quelque chose de fallacieux dans lequel
 
 <!-- id: s21-06-0137 -->
 
-> je veux dire celui même que je vous tiens ici, pour autant que j’en suis moi-même la victime ...auquel il faut donc qu’un certain *dire *: *le dire sur le dit*, ait contribué, pour que vous puissiez croire que dans ce qui fait tenir votre corps, c’est une circulation d’informations parties de je ne sais quels endroits...
+je veux dire celui même que je vous tiens ici, pour autant que j’en suis moi-même la victime ...auquel il faut donc qu’un certain *dire *: *le dire sur le dit*, ait contribué, pour que vous puissiez croire que dans ce qui fait tenir votre corps, c’est une circulation d’informations parties de je ne sais quels endroits...
 
 <!-- id: s21-06-0138 -->
 
-> de prime abord de l’ADN qu’on nous dit, ou du DN je ne sais pas quoi ...que c’est de ça que vous vous supportiez, que tout ne soit en somme qu’une information, dont heureusement on nous avertit que cette information ne tient qu’à violer un des fondements mêmes de ce qui par ailleurs s’édifie comme *énergétique*.
+de prime abord de l’ADN qu’on nous dit, ou du DN je ne sais pas quoi ...que c’est de ça que vous vous supportiez, que tout ne soit en somme qu’une information, dont heureusement on nous avertit que cette information ne tient qu’à violer un des fondements mêmes de ce qui par ailleurs s’édifie comme *énergétique*.
 
 <!-- id: s21-06-0139 -->
 
@@ -586,11 +586,11 @@ Encore faut-il pour qu’il ait ses conséquences, que je m’en donne la peine.
 
 <!-- id: s21-06-0144 -->
 
-> ici, je le profère pour le cas plus que probable où vous ne vous en seriez pas aperçus ...il n’est véritable qu’en tant qu’il fait *limite* à la portée...
+ici, je le profère pour le cas plus que probable où vous ne vous en seriez pas aperçus ...il n’est véritable qu’en tant qu’il fait *limite* à la portée...
 
 <!-- id: s21-06-0145 -->
 
-> à la portée de ce qui nous intéresse au premier chef nous autres, dans le discours analytique, ...*de ce qu’il fait limite à la portée de la vérité*.
+à la portée de ce qui nous intéresse au premier chef nous autres, dans le discours analytique, ...*de ce qu’il fait limite à la portée de la vérité*.
 
 <!-- id: s21-06-0146 -->
 
@@ -610,7 +610,7 @@ Mais par contre je peux dire...
 
 <!-- id: s21-06-0150 -->
 
-> je peux dire, mais encore fallait-il que j’y mette le temps, car il y a un temps pour tout ...je peux dire *la vérité* sur *la vérité*.
+je peux dire, mais encore fallait-il que j’y mette le temps, car il y a un temps pour tout ...je peux dire *la vérité* sur *la vérité*.
 
 <!-- id: s21-06-0151 -->
 
@@ -638,7 +638,7 @@ Disons le mot, elle est « *mi-métique* », elle est de l’*Imaginaire*...
 
 <!-- id: s21-06-0157 -->
 
-> et c’est bien pour ça que nous sommes forcés d’en passer par là ...elle est de l’*Imaginaire* en tant que l’*Imaginaire, c’est le faux* 2<sup>ème</sup> *par rap­port au Réel*, en tant que le mâle - chez l’être parlant - n’est pas la femel­le, et qu’il n’a pas d’autre biais par où se poser.
+et c’est bien pour ça que nous sommes forcés d’en passer par là ...elle est de l’*Imaginaire* en tant que l’*Imaginaire, c’est le faux* 2<sup>ème</sup> *par rap­port au Réel*, en tant que le mâle - chez l’être parlant - n’est pas la femel­le, et qu’il n’a pas d’autre biais par où se poser.
 
 <!-- id: s21-06-0158 -->
 
@@ -834,7 +834,7 @@ Et là, je vais avancer, en fin de ce *laïus*...
 
 <!-- id: s21-06-0206 -->
 
-> c’est bien le nom qui convient ...je vais avancer quelque chose qui est comme ça, enfin qui tranche : *le savoir masculin, chez l’être parlant, est irrémédiablement unaire, il est coupure, amorçant une fermeture*, justement celle du départ, c’est pas son privilège.
+c’est bien le nom qui convient ...je vais avancer quelque chose qui est comme ça, enfin qui tranche : *le savoir masculin, chez l’être parlant, est irrémédiablement unaire, il est coupure, amorçant une fermeture*, justement celle du départ, c’est pas son privilège.
 
 <!-- id: s21-06-0207 -->
 
@@ -858,7 +858,7 @@ Ben, heureusement, pour ça il y a *une femme*. Je vous ai déjà dit que la fem
 
 <!-- id: s21-06-0212 -->
 
-> naturellement c’est ce qui résulte de ce que j’ai déjà écrit au tableau ...que « *La femme* » ça n’existe pas, mais « *une femme* », ça, ça peut se pro­duire quand il y a nœud, ou plutôt *tresse*.
+naturellement c’est ce qui résulte de ce que j’ai déjà écrit au tableau ...que « *La femme* » ça n’existe pas, mais « *une femme* », ça, ça peut se pro­duire quand il y a nœud, ou plutôt *tresse*.
 
 <!-- id: s21-06-0213 -->
 
@@ -958,7 +958,7 @@ Mais c’est formé par l’hystérique, que l’homme part de l’idée...
 
 <!-- id: s21-06-0237 -->
 
-> l’idée première, la bonne, celle qui lui laisse une petite chance ...part de l’idée qu’il ne sait rien.
+l’idée première, la bonne, celle qui lui laisse une petite chance ...part de l’idée qu’il ne sait rien.
 
 <!-- id: s21-06-0238 -->
 

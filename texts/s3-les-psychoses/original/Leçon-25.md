@@ -14,9 +14,9 @@ Je ne sais pas très bien par quel bout commencer, pour finir ce cours. À tout 
 
 <!-- id: s3-25-0003 -->
 
-> le structurer, lorsqu’il semble bien être apparemment une relation liée par quelque bout à la parole. Ce schéma auquel je pourrai peut-être encore avoir à me référer, je vous le rappelle donc.
->
-> Je pense qu’il est déjà pour vous suffisamment commenté.
+le structurer, lorsqu’il semble bien être apparemment une relation liée par quelque bout à la parole. Ce schéma auquel je pourrai peut-être encore avoir à me référer, je vous le rappelle donc.
+
+Je pense qu’il est déjà pour vous suffisamment commenté.
 
 <!-- id: s3-25-0004 -->
 
@@ -48,7 +48,7 @@ Mais l’intérêt, pour prendre le problème dans le registre où nous l’avon
 
 <!-- id: s3-25-0011 -->
 
-> c’est-à-dire en référence aux fonctions et à la structure de la parole
+c’est-à-dire en référence aux fonctions et à la structure de la parole
 
 <!-- id: s3-25-0012 -->
 
@@ -60,7 +60,7 @@ Bien loin qu’elle puisse d’une façon quelconque se situer dans une telle r�
 
 <!-- id: s3-25-0014 -->
 
-> si tant est justement qu’elle implique, quelles qu’en soient les émergences, cette unilinéarité
+si tant est justement qu’elle implique, quelles qu’en soient les émergences, cette unilinéarité
 
 <!-- id: s3-25-0015 -->
 
@@ -84,9 +84,9 @@ Pourquoi est-elle niée ? Nous allons le voir tout à l’heure. Cette négation
 
 <!-- id: s3-25-0020 -->
 
-> Je résume. Vous pourrez en vous reportant au texte - je pense que vous l’avez fait depuis longtemps -
->
-> vous apercevoir si oui ou non mon résumé est exact, équilibré
+Je résume. Vous pourrez en vous reportant au texte - je pense que vous l’avez fait depuis longtemps -
+
+vous apercevoir si oui ou non mon résumé est exact, équilibré
 
 <!-- id: s3-25-0021 -->
 
@@ -114,9 +114,9 @@ Et aussi bien nous dit-il que la situation n’est jamais simple, ni se limite �
 
 <!-- id: s3-25-0027 -->
 
-> pour des raisons d’ailleurs qu’il tient pour suffisamment implicites, mais sur lesquelles,
->
-> à la vérité, il n’insiste pas
+pour des raisons d’ailleurs qu’il tient pour suffisamment implicites, mais sur lesquelles,
+
+à la vérité, il n’insiste pas
 
 <!-- id: s3-25-0028 -->
 
@@ -132,9 +132,9 @@ L’explication de FREUD à propos de ce délire…
 
 <!-- id: s3-25-0031 -->
 
-> qui se présente bien ici dans sa terminaison avec tous les caractères mégalomaniaques
->
-> *des délires de rédemption* dans leurs formes les plus développées
+qui se présente bien ici dans sa terminaison avec tous les caractères mégalomaniaques
+
+*des délires de rédemption* dans leurs formes les plus développées
 
 <!-- id: s3-25-0032 -->
 
@@ -162,9 +162,9 @@ Et ceci d’une manière d’autant plus frappante qu’en fait, si vous lisez l
 
 <!-- id: s3-25-0038 -->
 
-> ce sera là la valeur de l’objection de M<sup>me</sup> MACALPINE, je voudrais dire, cela pourrait être sa valeur, parce que c’est la seule chose qu’elle ne mette pas vraiment en évidence. Vous verrez, je le dirai tout à l’heure,
->
-> ce sur quoi elle fait tourner son argumentation
+ce sera là la valeur de l’objection de M<sup>me</sup> MACALPINE, je voudrais dire, cela pourrait être sa valeur, parce que c’est la seule chose qu’elle ne mette pas vraiment en évidence. Vous verrez, je le dirai tout à l’heure,
+
+ce sur quoi elle fait tourner son argumentation
 
 <!-- id: s3-25-0039 -->
 
@@ -232,7 +232,7 @@ Et aussi bien toute son argumentation consistera-t-elle à nous rapporter dans l
 
 <!-- id: s3-25-0055 -->
 
-> selon le terme courant, dans tout développement de cet ordre de nos jours : pré–œdipien
+selon le terme courant, dans tout développement de cet ordre de nos jours : pré–œdipien
 
 <!-- id: s3-25-0056 -->
 
@@ -252,7 +252,7 @@ L’important est bien de voir en quoi ceci se rattache à une certaine réorien
 
 <!-- id: s3-25-0060 -->
 
-> et des diverses réorganisations ou désorganisations, restructurations ou déstructurations fantasmatiques
+et des diverses réorganisations ou désorganisations, restructurations ou déstructurations fantasmatiques
 
 <!-- id: s3-25-0061 -->
 
@@ -280,7 +280,7 @@ Qu’est-ce qui nous permet - puisqu’il ne s’agit que de fantasmes imaginair
 
 <!-- id: s3-25-0067 -->
 
-> quelles que puissent être certaines faiblesses de l’argumentation freudienne à propos de la psychose
+quelles que puissent être certaines faiblesses de l’argumentation freudienne à propos de la psychose
 
 <!-- id: s3-25-0068 -->
 
@@ -292,7 +292,7 @@ La prévalence, dans toute l’évolution de la psychose de SCHREBER, des *perso
 
 <!-- id: s3-25-0070 -->
 
-> qui se substituent les uns aux autres, et vont toujours en s’agrandissant et en s’enveloppant les uns les autres, jusqu’à s’identifier au père divin lui-même, à la divinité marquée de l’accent proprement paternel
+qui se substituent les uns aux autres, et vont toujours en s’agrandissant et en s’enveloppant les uns les autres, jusqu’à s’identifier au père divin lui-même, à la divinité marquée de l’accent proprement paternel
 
 <!-- id: s3-25-0071 -->
 
@@ -312,7 +312,7 @@ Mais ce qu’incontestablement FREUD approche beaucoup plus que M<sup>me</sup> I
 
 <!-- id: s3-25-0075 -->
 
-> ce que j’ai appelé la dernière fois un accompagnement parlé de tous ses actes
+ce que j’ai appelé la dernière fois un accompagnement parlé de tous ses actes
 
 <!-- id: s3-25-0076 -->
 
@@ -328,9 +328,9 @@ C’est là-dessus que nous avons attiré l’attention et que nous insistons po
 
 <!-- id: s3-25-0079 -->
 
-> parce que FREUD ne l’a pas dégagée par cette voie directement, il ne l’a aperçue que par un autre abord
->
-> qui est précisément celui, je vous l’ai montré, non sans dessein, l’année dernière à propos du *principe du plaisir*
+parce que FREUD ne l’a pas dégagée par cette voie directement, il ne l’a aperçue que par un autre abord
+
+qui est précisément celui, je vous l’ai montré, non sans dessein, l’année dernière à propos du *principe du plaisir*
 
 <!-- id: s3-25-0080 -->
 
@@ -474,7 +474,7 @@ Est-ce que justement, il n’y a pas lieu de s’arrêter et d’être frappé d
 
 <!-- id: s3-25-0115 -->
 
-> lequel est supposé en être le véritable porteur, celui autour duquel va s’instaurer *la crainte de la perte du phallus*, chez l’enfant, *la revendication*, la privation ou l’ennui, la nostalgie *du phallus de la mère*
+lequel est supposé en être le véritable porteur, celui autour duquel va s’instaurer *la crainte de la perte du phallus*, chez l’enfant, *la revendication*, la privation ou l’ennui, la nostalgie *du phallus de la mère*
 
 <!-- id: s3-25-0116 -->
 
@@ -494,7 +494,7 @@ Et à partir du moment où nous serons sûrs que c’est un signifiant, nous nou
 
 <!-- id: s3-25-0120 -->
 
-> pour autant que les êtres vivants s’engendrent manifestement, n’est-ce pas
+pour autant que les êtres vivants s’engendrent manifestement, n’est-ce pas
 
 <!-- id: s3-25-0121 -->
 
@@ -542,7 +542,7 @@ Il s’agit pour le sujet, puisque c’est du père qu’il s’agit et que c’
 
 <!-- id: s3-25-0132 -->
 
-> si vous vous souvenez de ce que nous écrit tel ou tel quand il s’agit de ce qui paraît être l’expérience suprême, cette fameuse « *distance* » prise dans la relation d’objet qui consiste finalement à fantasmatiser l’organe sexuel de l’analyste et à l’absorber imaginairement
+si vous vous souvenez de ce que nous écrit tel ou tel quand il s’agit de ce qui paraît être l’expérience suprême, cette fameuse « *distance* » prise dans la relation d’objet qui consiste finalement à fantasmatiser l’organe sexuel de l’analyste et à l’absorber imaginairement
 
 <!-- id: s3-25-0133 -->
 
@@ -550,7 +550,7 @@ Il s’agit pour le sujet, puisque c’est du père qu’il s’agit et que c’
 
 <!-- id: s3-25-0134 -->
 
-> et je ne badine pas, pour une simple raison, c’est qu’il y a un rapport entre l’usage du terme et la racine *felo*, *felal*, mais enfin ça n’est pas très précisément
+et je ne badine pas, pour une simple raison, c’est qu’il y a un rapport entre l’usage du terme et la racine *felo*, *felal*, mais enfin ça n’est pas très précisément
 
 <!-- id: s3-25-0135 -->
 
@@ -626,7 +626,11 @@ Le dernier que j’ai montré était quelqu’un qui était très, très curieux
 
 <!-- id: s3-25-0153 -->
 
-> « *Quand est-ce que tout a commencé ? Pendant la grossesse de votre femme ?* »
+<div class="text-quotation">
+
+« *Quand est-ce que tout a commencé ? Pendant la grossesse de votre femme ?* »
+
+</div>
 
 <!-- id: s3-25-0154 -->
 
@@ -634,7 +638,11 @@ Il a été un petit peu étonné pendant un certain temps, après il a dit :
 
 <!-- id: s3-25-0155 -->
 
-> « *Oui, c’est vrai, je n’y ai pas pensé.* »
+<div class="text-quotation">
+
+« *Oui, c’est vrai, je n’y ai pas pensé.* »
+
+</div>
 
 <!-- id: s3-25-0156 -->
 
@@ -670,21 +678,25 @@ Puis, il y a *La Dame du lac* assise sur le tombeau. C’est elle qui l’y a fa
 
 <!-- id: s3-25-0164 -->
 
-> « *J’ai miaulé, miaulé, dit le monstre Chapalu, je n’ai rencontré*
->
-> *que des chats-huants qui m’ont assuré qu’il était mort.*
->
-> *Je ne serai jamais prolifique.*
->
-> *Pourtant ceux qui le sont ont des qualités.*
->
-> *J’avoue que je ne m’en connais aucune.*
->
-> *Je suis solitaire. J’ai faim, j’ai faim.*
->
-> *Voici que je me découvre une qualité ; je suis affamé.*
->
-> *Cherchons à manger. Celui qui mange n’est plus seul.* »
+<div class="text-quotation">
+
+« *J’ai miaulé, miaulé, dit le monstre Chapalu, je n’ai rencontré*
+
+*que des chats-huants qui m’ont assuré qu’il était mort.*
+
+*Je ne serai jamais prolifique.*
+
+*Pourtant ceux qui le sont ont des qualités.*
+
+*J’avoue que je ne m’en connais aucune.*
+
+*Je suis solitaire. J’ai faim, j’ai faim.*
+
+*Voici que je me découvre une qualité ; je suis affamé.*
+
+*Cherchons à manger. Celui qui mange n’est plus seul.* »
+
+</div>
 
 <!-- id: s3-25-0165 -->
 

@@ -166,7 +166,7 @@ Alors, peut-être que la naissance, la structure, la condition du *surmoi*, j’
 
 <!-- id: s7-26-0041 -->
 
-> personne non plus est capable de justifier dans l’état actuel des choses pourquoi c’est toujours le même *surmoi*, bien qu’il soit né paraît-il avant, en rétorsion des pulsions sadiques selon Madame Mélanie KLEIN
+personne non plus est capable de justifier dans l’état actuel des choses pourquoi c’est toujours le même *surmoi*, bien qu’il soit né paraît-il avant, en rétorsion des pulsions sadiques selon Madame Mélanie KLEIN
 
 <!-- id: s7-26-0042 -->
 

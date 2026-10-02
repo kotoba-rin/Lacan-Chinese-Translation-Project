@@ -38,9 +38,9 @@ Un tout petit mot d’histoire. Ce qui s’est passé dans l’analyse…
 
 <!-- id: s6-25-0009 -->
 
-> et c’est important ici à rappeler et, je dirais à la lumière de notre progrès,
->
-> peut être approché, serré d’une façon plus rigoureuse
+et c’est important ici à rappeler et, je dirais à la lumière de notre progrès,
+
+peut être approché, serré d’une façon plus rigoureuse
 
 <!-- id: s6-25-0010 -->
 
@@ -48,7 +48,7 @@ Un tout petit mot d’histoire. Ce qui s’est passé dans l’analyse…
 
 <!-- id: s6-25-0011 -->
 
-> ceci tout à fait spécialement à propos de l’hystérie, des névroses et du rêve
+ceci tout à fait spécialement à propos de l’hystérie, des névroses et du rêve
 
 <!-- id: s6-25-0012 -->
 
@@ -68,9 +68,9 @@ Et ce *quelque chose* qu’en somme le pervers met en scène, ce *quelque chose*
 
 <!-- id: s6-25-0016 -->
 
-> avec ce que nous connaissons, avec la relation que nous avons faite de ces fantasmes à l’histoire du sujet,
->
-> là où nous réussissons à le rattacher, si vous voulez, à cette histoire
+avec ce que nous connaissons, avec la relation que nous avons faite de ces fantasmes à l’histoire du sujet,
+
+là où nous réussissons à le rattacher, si vous voulez, à cette histoire
 
 <!-- id: s6-25-0017 -->
 
@@ -126,7 +126,7 @@ C’est bien là pourquoi toute une élaboration qui s’est faite, s’est int�
 
 <!-- id: s6-25-0030 -->
 
-> *tant par* ABRAHAM, *par* FERENCZI *que par d’autres*, je n’ai pas besoin de vous en rappeler ici les initiateurs
+*tant par* ABRAHAM, *par* FERENCZI *que par d’autres*, je n’ai pas besoin de vous en rappeler ici les initiateurs
 
 <!-- id: s6-25-0031 -->
 
@@ -150,7 +150,7 @@ Vous savez ce que, d’une part cette sorte d’*élaboration* a apporté de cla
 
 <!-- id: s6-25-0036 -->
 
-> *pour le moins des travaux concrets essayant effectivement d’articuler à propos d’un cas précis, d’une forme précise*
+*pour le moins des travaux concrets essayant effectivement d’articuler à propos d’un cas précis, d’une forme précise*
 
 <!-- id: s6-25-0037 -->
 
@@ -234,9 +234,9 @@ C’est pour autant qu’il a situé là…
 
 <!-- id: s6-25-0057 -->
 
-> quelque part dans l’intervalle, dans un article précédent qui est celui du *volume* XIII, de *juillet* 1932*, partie* 3,
->
-> *pages* 298-328 de l’*International journal of Psycho-analysis* sur les *drug-addictions* \[*On the Aetiology of Drug-Addiction*\], autrement dit ce que nous appelons les *toxicomanies*
+quelque part dans l’intervalle, dans un article précédent qui est celui du *volume* XIII, de *juillet* 1932*, partie* 3,
+
+*pages* 298-328 de l’*International journal of Psycho-analysis* sur les *drug-addictions* \[*On the Aetiology of Drug-Addiction*\], autrement dit ce que nous appelons les *toxicomanies*
 
 <!-- id: s6-25-0058 -->
 
@@ -252,7 +252,7 @@ C’est sur ce plan qu’il adhère à l’élaboration kleinienne et c’est po
 
 <!-- id: s6-25-0061 -->
 
-> très spécifique de cette étape type paranoïde, considéré comme primitif
+très spécifique de cette étape type paranoïde, considéré comme primitif
 
 <!-- id: s6-25-0062 -->
 
@@ -280,7 +280,7 @@ Et M<sup>me</sup> Mélanie KLEIN nous articule proprement ceci : c’est qu’en
 
 <!-- id: s6-25-0068 -->
 
-> ceci est articulé dans l’article *Symbol’s formation and ego* [^117]
+ceci est articulé dans l’article *Symbol’s formation and ego* [^117]
 
 <!-- id: s6-25-0069 -->
 
@@ -308,7 +308,7 @@ La différence qu’il y a entre la théorie que je vous donne des phobies, par 
 
 <!-- id: s6-25-0075 -->
 
-> pour autant qu’ils essayent d’indiquer la genèse de la phobie dans des formes structurales de l’expérience infantile – par exemple de la façon dont l’enfant a à s’arranger de ses rapports avec ceux qui l’entourent, du passage de la clarté à l’obscurité – il s’agit d’une genèse purement expérimentale, d’une expérience de crainte à partir de laquelle est engendrée et déduite la possibilité de la phobie
+pour autant qu’ils essayent d’indiquer la genèse de la phobie dans des formes structurales de l’expérience infantile – par exemple de la façon dont l’enfant a à s’arranger de ses rapports avec ceux qui l’entourent, du passage de la clarté à l’obscurité – il s’agit d’une genèse purement expérimentale, d’une expérience de crainte à partir de laquelle est engendrée et déduite la possibilité de la phobie
 
 <!-- id: s6-25-0076 -->
 
@@ -336,7 +336,7 @@ En fait, quelque chose se présente qui pose à GLOVER son problème dans ces te
 
 <!-- id: s6-25-0082 -->
 
-> plus ou moins contemporaines de l’époque paranoïde, voire de l’époque dépressive
+plus ou moins contemporaines de l’époque paranoïde, voire de l’époque dépressive
 
 <!-- id: s6-25-0083 -->
 
@@ -348,7 +348,7 @@ Ceci ne lui semble pas une objection pour la raison suivante, c’est qu’il fi
 
 <!-- id: s6-25-0085 -->
 
-> il ne peut pas aboutir à autre chose dans la perspective dont il est parti
+il ne peut pas aboutir à autre chose dans la perspective dont il est parti
 
 <!-- id: s6-25-0086 -->
 
@@ -372,7 +372,7 @@ Outre ceci : qu’il semble tout à fait paradoxal de faire de la perversion qu
 
 <!-- id: s6-25-0091 -->
 
-> ce rôle économique que beaucoup d’éléments contredisent
+ce rôle économique que beaucoup d’éléments contredisent
 
 <!-- id: s6-25-0092 -->
 
@@ -396,7 +396,7 @@ Car la notion, la distinction qui, si l’opposition comme telle est stricte…
 
 <!-- id: s6-25-0097 -->
 
-> et je dirais sans nuances, sans transitions, sans apercevoir d’aucune façon que c’est le même objet qui peut être bon ou mauvais selon les heures, à savoir la mère
+et je dirais sans nuances, sans transitions, sans apercevoir d’aucune façon que c’est le même objet qui peut être bon ou mauvais selon les heures, à savoir la mère
 
 <!-- id: s6-25-0098 -->
 
@@ -408,7 +408,7 @@ Il y a là quelque chose d’un autre registre, qui est contemporain mais qui ne
 
 <!-- id: s6-25-0100 -->
 
-> qu’il soit *effectivement présent à cette date* ou simplement « *Rück-Phantasie* », « *fantasme* » mais « *en* *arrière* »
+qu’il soit *effectivement présent à cette date* ou simplement « *Rück-Phantasie* », « *fantasme* » mais « *en* *arrière* »
 
 <!-- id: s6-25-0101 -->
 
@@ -456,9 +456,9 @@ C’est pour autant que quelque chose qui le définit dans une première identif
 
 <!-- id: s6-25-0112 -->
 
-> dans celle qui est exprimée ici au niveau de la première identification à la mère,
->
-> comme objet de la première identification *aux insignes de la mère*
+dans celle qui est exprimée ici au niveau de la première identification à la mère,
+
+comme objet de la première identification *aux insignes de la mère*
 
 <!-- id: s6-25-0113 -->
 
@@ -522,7 +522,7 @@ C’est que le maître vrai…
 
 <!-- id: s6-25-0128 -->
 
-> *chacun sait qu’il est au-delà de tout visage, qu’il est quelque part dans le langage, encore qu’il ne puisse même y être nulle part*
+*chacun sait qu’il est au-delà de tout visage, qu’il est quelque part dans le langage, encore qu’il ne puisse même y être nulle part*
 
 <!-- id: s6-25-0129 -->
 
@@ -542,7 +542,7 @@ Et qui tout de suite après…
 
 <!-- id: s6-25-0133 -->
 
-> dans la mesure où l’enfant va se permettre de reprendre contact avec ses objets dont il apparaît au départ, dans l’expérience, singulièrement séparé
+dans la mesure où l’enfant va se permettre de reprendre contact avec ses objets dont il apparaît au départ, dans l’expérience, singulièrement séparé
 
 <!-- id: s6-25-0134 -->
 
@@ -554,7 +554,7 @@ Puisque - vous vous en souvenez - c’est dans l’exercice d’une sorte de pet
 
 <!-- id: s6-25-0136 -->
 
-> qui est loin d’être un maladroit, puisqu’il se sert de toutes sortes d’éléments, tels que poignées de porte
+qui est loin d’être un maladroit, puisqu’il se sert de toutes sortes d’éléments, tels que poignées de porte
 
 <!-- id: s6-25-0137 -->
 
@@ -562,9 +562,9 @@ Puisque - vous vous en souvenez - c’est dans l’exercice d’une sorte de pet
 
 <!-- id: s6-25-0138 -->
 
-> sans vouloir même ici m’étendre sur les curieux jeux et termes qui pourraient se faire autour de ce *tender,*
->
-> qui est aussi *tender* en anglais, ce n’est pas « *la carte du tendre* » mais « *la carte du tender* » qui ici, s’offre à nous !
+sans vouloir même ici m’étendre sur les curieux jeux et termes qui pourraient se faire autour de ce *tender,*
+
+qui est aussi *tender* en anglais, ce n’est pas « *la carte du tendre* » mais « *la carte du tender* » qui ici, s’offre à nous !
 
 <!-- id: s6-25-0139 -->
 
@@ -608,7 +608,7 @@ Le fait est que nous y parvenions ou pas - à cette réduction - ce que nous avo
 
 <!-- id: s6-25-0149 -->
 
-> *après tout, peu nous importe que ce soit un processus primaire ou secondaire, c’est un processus saillant et irréductible*
+*après tout, peu nous importe que ce soit un processus primaire ou secondaire, c’est un processus saillant et irréductible*
 
 <!-- id: s6-25-0150 -->
 
@@ -620,7 +620,7 @@ Et tout le procès de ce qui se passe implique qu’en fait, même quand elle pa
 
 <!-- id: s6-25-0152 -->
 
-> car elle est dans une position très privilégiée, la femme, par rapport à l’homme
+car elle est dans une position très privilégiée, la femme, par rapport à l’homme
 
 <!-- id: s6-25-0153 -->
 
@@ -636,7 +636,7 @@ Mais ce qui constitue le test de notre expérience et les difficultés mêmes au
 
 <!-- id: s6-25-0156 -->
 
-> et en quelque sorte poétique, voire apocalyptique, de l’union sexuelle parfaite
+et en quelque sorte poétique, voire apocalyptique, de l’union sexuelle parfaite
 
 <!-- id: s6-25-0157 -->
 
@@ -660,7 +660,7 @@ Si tout ce que nous avons découvert de l’économie inconsciente de la femme t
 
 <!-- id: s6-25-0162 -->
 
-> et y compris au premier chef *l’objet le plus naturel* à se séparer d’elle, à savoir son « *produit infantile* »
+et y compris au premier chef *l’objet le plus naturel* à se séparer d’elle, à savoir son « *produit infantile* »
 
 <!-- id: s6-25-0163 -->
 
@@ -668,7 +668,7 @@ Si tout ce que nous avons découvert de l’économie inconsciente de la femme t
 
 <!-- id: s6-25-0164 -->
 
-> je ne fais que reproduire ici le test même de la doctrine analytique
+je ne fais que reproduire ici le test même de la doctrine analytique
 
 <!-- id: s6-25-0165 -->
 
@@ -748,7 +748,7 @@ Ce qui veut dire que si le sujet l’est, le *phallus*…
 
 <!-- id: s6-25-0184 -->
 
-> et cela s’illustre tout de suite sous cette forme, à savoir comme objet du désir de sa mère
+et cela s’illustre tout de suite sous cette forme, à savoir comme objet du désir de sa mère
 
 <!-- id: s6-25-0185 -->
 
@@ -764,7 +764,7 @@ Le *névrosé*, lui, se caractérise de quelle façon ? Eh bien le *névrosé*, 
 
 <!-- id: s6-25-0188 -->
 
-> pour autant qu’ici « *il ne l’est pas* » se présente comme premier par rapport à « *elle ne l’a pas* »
+pour autant qu’ici « *il ne l’est pas* » se présente comme premier par rapport à « *elle ne l’a pas* »
 
 <!-- id: s6-25-0189 -->
 

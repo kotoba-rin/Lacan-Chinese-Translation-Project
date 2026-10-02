@@ -290,9 +290,13 @@ Et, d’autre part, les expériences affectives sont travaillées dans ses poèm
 
 <!-- id: s7-12-0072 -->
 
-> « *J’ai, dans mon travail, caractérisé cette période comme étant une période consciemment artiste,*
->
-> *car dans cette période, une part très considérable d’énergie est employée à l’élaboration artistique des sentiments* ».
+<div class="text-quotation">
+
+« *J’ai, dans mon travail, caractérisé cette période comme étant une période consciemment artiste,*
+
+*car dans cette période, une part très considérable d’énergie est employée à l’élaboration artistique des sentiments* ».
+
+</div>
 
 <!-- id: s7-12-0073 -->
 
@@ -540,9 +544,13 @@ puisque c’est là, à ses yeux, l’élément significatif essentiel de cette 
 
 <!-- id: s7-12-0134 -->
 
-> …*confirme les buts du moi en tant que le moi, narcissiquement, s’exhibe comme le plus beau, le plus fort, le plus grand.*
->
-> *Et il y a une autre partie qui est contraire au moi pour autant qu’elle conduit à une excitation génitale* »
+<div class="text-quotation">
+
+…*confirme les buts du moi en tant que le moi, narcissiquement, s’exhibe comme le plus beau, le plus fort, le plus grand.*
+
+*Et il y a une autre partie qui est contraire au moi pour autant qu’elle conduit à une excitation génitale* »
+
+</div>
 
 <!-- id: s7-12-0135 -->
 
@@ -622,9 +630,9 @@ L’éthique freudienne est là pour autant qu’elle nous montre qu’une des p
 
 <!-- id: s7-12-0154 -->
 
-> et il est bien étonnant qu’on ne l’accentue plus, alors que d’un autre côté
->
-> cela court la place psychanalytique, ce dont parle toujours JONES, cette complaisance morale
+et il est bien étonnant qu’on ne l’accentue plus, alors que d’un autre côté
+
+cela court la place psychanalytique, ce dont parle toujours JONES, cette complaisance morale
 
 <!-- id: s7-12-0155 -->
 
@@ -644,9 +652,9 @@ Et on pourra introduire un mot qui aura toute la portée dans ce que nous dirons
 
 <!-- id: s7-12-0159 -->
 
-> déjà sensibles dans toute la méditation des Anciens et dont un passage du *De officiis*
->
-> \- que je vous communiquerai ultérieurement - nous parle
+déjà sensibles dans toute la méditation des Anciens et dont un passage du *De officiis*
+
+\- que je vous communiquerai ultérieurement - nous parle
 
 <!-- id: s7-12-0160 -->
 

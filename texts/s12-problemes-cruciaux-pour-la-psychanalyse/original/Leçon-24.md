@@ -130,9 +130,13 @@ Je me contenterai de citer cette phrase, de dire ce regret, ce deuil de Lol :
 
 <!-- id: s12-24-0032 -->
 
-> « *J’aime à croire, comme je l’aime, que si Lol est silencieuse dans la vie c’est qu’elle a cru, l’espace d’un éclair, que ce mot pourrait exister.*\[...\]
->
-> *Ç’aurait été un mot-absence, un mot-trou, creusé en son centre d’un trou, de ce trou où tous les autres mots auraient été enterrés.* » \[p.48\]
+<div class="text-quotation">
+
+« *J’aime à croire, comme je l’aime, que si Lol est silencieuse dans la vie c’est qu’elle a cru, l’espace d’un éclair, que ce mot pourrait exister.*\[...\]
+
+*Ç’aurait été un mot-absence, un mot-trou, creusé en son centre d’un trou, de ce trou où tous les autres mots auraient été enterrés.* » \[p.48\]
+
+</div>
 
 <!-- id: s12-24-0033 -->
 
@@ -140,11 +144,15 @@ Ce mot, Lol se rend bien compte qu’elle ne peut l’articuler. Aussi Marguerit
 
 <!-- id: s12-24-0034 -->
 
-> « *On n’aurait pas pu le dire mais on aurait pu le faire résonner. Immense, sans fin, un gong vide, il aurait retenu ceux qui voulaient partir,*
->
-> *il les aurait convaincus de l’impossible, ils les auraient assourdis à tout autre vocable que lui-même, en une fois il les aurait nommés,*
->
-> *eux, l’avenir et l’instant.* » \[p.48\]
+<div class="text-quotation">
+
+« *On n’aurait pas pu le dire mais on aurait pu le faire résonner. Immense, sans fin, un gong vide, il aurait retenu ceux qui voulaient partir,*
+
+*il les aurait convaincus de l’impossible, ils les auraient assourdis à tout autre vocable que lui-même, en une fois il les aurait nommés,*
+
+*eux, l’avenir et l’instant.* » \[p.48\]
+
+</div>
 
 <!-- id: s12-24-0035 -->
 
@@ -220,11 +228,11 @@ Tout ce qui va se passer dans la suite de la vie de Lol V. STEIN…
 
 <!-- id: s12-24-0053 -->
 
-> et nommément ce qui nous est rapporté, qui nous est rapporté par *un narrateur* qu’on ne connaît pas.
->
-> Il y a un moment où dans le milieu du livre, la distance est couverte et le narrateur se dévoile.
->
-> La distance est couverte : c’est moi - c’est lui qui parle, et qui rejoint sa propre entrée dans la vie de Lol V. STEIN …ce qui va se passer avec ce personnage - comment ce personnage est rencontré - est quelque chose qui manifeste l’état où est restée Lol V. STEIN à propos de cette scène traumatique.
+et nommément ce qui nous est rapporté, qui nous est rapporté par *un narrateur* qu’on ne connaît pas.
+
+Il y a un moment où dans le milieu du livre, la distance est couverte et le narrateur se dévoile.
+
+La distance est couverte : c’est moi - c’est lui qui parle, et qui rejoint sa propre entrée dans la vie de Lol V. STEIN …ce qui va se passer avec ce personnage - comment ce personnage est rencontré - est quelque chose qui manifeste l’état où est restée Lol V. STEIN à propos de cette scène traumatique.
 
 <!-- id: s12-24-0054 -->
 
@@ -236,7 +244,7 @@ Il y a bien autre chose dans le texte qui est un texte qui semble…
 
 <!-- id: s12-24-0056 -->
 
-> sans que nous ayons rien fait l’un et l’autre, Marguerite DURAS et moi, pour nous rencontrer …ce sont des textes congrus avec le thème même de ce que je vous ai avancé cette année.
+sans que nous ayons rien fait l’un et l’autre, Marguerite DURAS et moi, pour nous rencontrer …ce sont des textes congrus avec le thème même de ce que je vous ai avancé cette année.
 
 <!-- id: s12-24-0057 -->
 
@@ -342,9 +350,13 @@ Quel dessein secret s’est emparé de Marguerite DURAS qui l’a entraînée à
 
 <!-- id: s12-24-0082 -->
 
-> « *Ce fut ma première découverte à son propos : ne rien savoir de Lol c’était la connaître déjà. On pouvait, me parut-il,*
->
-> *en savoir moins encore, de moins en moins sur Lol V. STEIN.* » \[p.81\]
+<div class="text-quotation">
+
+« *Ce fut ma première découverte à son propos : ne rien savoir de Lol c’était la connaître déjà. On pouvait, me parut-il,*
+
+*en savoir moins encore, de moins en moins sur Lol V. STEIN.* » \[p.81\]
+
+</div>
 
 <!-- id: s12-24-0083 -->
 
@@ -408,7 +420,11 @@ Et le suivant, l’ayant rencontré dans la rue, elle attend ce qu’il attend, 
 
 <!-- id: s12-24-0098 -->
 
-> *Dès qu’elle se dirige vers lui dans ce déhanchement circu­laire, très lent, très doux, qui la fait, à tout moment de sa marche l’objet d’une flatterie caressante, secrète, et sans fin, d’elle-même à elle-même, aussitôt vue la masse noire de cette chevelure vaporeuse et sèche sous laquelle le très petit visage triangulaire, blanc, est envahi par des yeux immenses, très clairs, d’une gravité désolée par le remords ineffable d’être porteuse de ce corps d’adultère, Lol s’avoue avoir reconnu Tatiana Karl.* » \[p. 58\]
+<div class="text-quotation">
+
+*Dès qu’elle se dirige vers lui dans ce déhanchement circu­laire, très lent, très doux, qui la fait, à tout moment de sa marche l’objet d’une flatterie caressante, secrète, et sans fin, d’elle-même à elle-même, aussitôt vue la masse noire de cette chevelure vaporeuse et sèche sous laquelle le très petit visage triangulaire, blanc, est envahi par des yeux immenses, très clairs, d’une gravité désolée par le remords ineffable d’être porteuse de ce corps d’adultère, Lol s’avoue avoir reconnu Tatiana Karl.* » \[p. 58\]
+
+</div>
 
 <!-- id: s12-24-0099 -->
 
@@ -420,9 +436,13 @@ C’est-à-dire la femme qui a été le témoin de la scène initiale.
 
 <!-- id: s12-24-0101 -->
 
-> *Elle était vêtue discrètement d’un tailleur de sport noir mais sa chevelure était très soignée, piquée d’une fleur grise, relevée par des peignes d’or, elle avait mis tout son soin à en fixer la fragile coiffure, un long et épais bandeau noir qui, au passage près du visage, bordait le regard clair,*
->
-> *le faisait plus vaste, encore plus navré, et ceci qui n’aurait dû n’être touché que par le seul regard, qu’on ne pouvait sans détruire laisser au vent, elle avait dû - Lol le devine - l’avoir emprisonné dans une voilette sombre, pour que le moment venu il soit le seul à en entamer et à en détruire l’admirable facilité, un seul geste et elle baignerait alors dans la retombée de sa chevelure, dont Lol se souvient tout à coup et qu’elle revoit lumineusement juxtaposée à celle-ci.* » \[pp. 58-59\]
+<div class="text-quotation">
+
+*Elle était vêtue discrètement d’un tailleur de sport noir mais sa chevelure était très soignée, piquée d’une fleur grise, relevée par des peignes d’or, elle avait mis tout son soin à en fixer la fragile coiffure, un long et épais bandeau noir qui, au passage près du visage, bordait le regard clair,*
+
+*le faisait plus vaste, encore plus navré, et ceci qui n’aurait dû n’être touché que par le seul regard, qu’on ne pouvait sans détruire laisser au vent, elle avait dû - Lol le devine - l’avoir emprisonné dans une voilette sombre, pour que le moment venu il soit le seul à en entamer et à en détruire l’admirable facilité, un seul geste et elle baignerait alors dans la retombée de sa chevelure, dont Lol se souvient tout à coup et qu’elle revoit lumineusement juxtaposée à celle-ci.* » \[pp. 58-59\]
+
+</div>
 
 <!-- id: s12-24-0102 -->
 
@@ -430,17 +450,21 @@ Donc elle les voit qui se rejoignent :
 
 <!-- id: s12-24-0103 -->
 
-> « *Ils marchaient à un pas l’un de l’autre. Ils parlaient à peine. Je crois voir ce qu’a dû voir Lol V. STEIN. : il y a entre eux une entente saisissante qui ne vient pas d’une connaissance mutuelle mais justement, au contraire, du dédain de celle-ci. Ils ont la même expression*
->
-> *de consternation silencieuse, d’effroi, d’indifférence profonde. Ils vont plus vite en approchant. Lol V. STEIN guette, les couve, les fabrique,*
->
-> *ces amants. Leur allure ne la trompe pas, elle. Ils ne s’aiment pas. Qu’est-ce à dire pour elle ? D’autres le diraient du moins.*
->
-> *Elle, différemment, mais elle ne parle pas. D’autres liens les tiennent dans une emprise qui n’est pas celle du sentiment, ni celle du bonheur,*
->
-> *il s’agit d’autre chose qui ne prodigue ni peine ni joie. Ils ne sont ni heureux ni malheureux. Leur union est faite d’insensibilité, d’une manière qui est générale et qu’ils appréhendent momentanément, toute préférence en est bannie. Ils sont ensemble, des trains qui se croisent très près, autour d’eux le paysage charnel et végétal est pareil, ils le voient, ils ne sont pas seuls. On peut pactiser avec eux. Par des voies contraires*
->
-> *ils sont arrivés au même résultat que Lol V. STEIN, eux, à force de faire, de dire, d’essayer de se tromper, de s’en aller et de revenir,* *de mentir, de perdre, de gagner, d’avancer, de revenir encore, et elle, Lol, à force de rien.*» \[pp. 59-60\]
+<div class="text-quotation">
+
+« *Ils marchaient à un pas l’un de l’autre. Ils parlaient à peine. Je crois voir ce qu’a dû voir Lol V. STEIN. : il y a entre eux une entente saisissante qui ne vient pas d’une connaissance mutuelle mais justement, au contraire, du dédain de celle-ci. Ils ont la même expression*
+
+*de consternation silencieuse, d’effroi, d’indifférence profonde. Ils vont plus vite en approchant. Lol V. STEIN guette, les couve, les fabrique,*
+
+*ces amants. Leur allure ne la trompe pas, elle. Ils ne s’aiment pas. Qu’est-ce à dire pour elle ? D’autres le diraient du moins.*
+
+*Elle, différemment, mais elle ne parle pas. D’autres liens les tiennent dans une emprise qui n’est pas celle du sentiment, ni celle du bonheur,*
+
+*il s’agit d’autre chose qui ne prodigue ni peine ni joie. Ils ne sont ni heureux ni malheureux. Leur union est faite d’insensibilité, d’une manière qui est générale et qu’ils appréhendent momentanément, toute préférence en est bannie. Ils sont ensemble, des trains qui se croisent très près, autour d’eux le paysage charnel et végétal est pareil, ils le voient, ils ne sont pas seuls. On peut pactiser avec eux. Par des voies contraires*
+
+*ils sont arrivés au même résultat que Lol V. STEIN, eux, à force de faire, de dire, d’essayer de se tromper, de s’en aller et de revenir,* *de mentir, de perdre, de gagner, d’avancer, de revenir encore, et elle, Lol, à force de rien.*» \[pp. 59-60\]
+
+</div>
 
 <!-- id: s12-24-0104 -->
 
@@ -448,11 +472,15 @@ C’est là qu’elle les suit jusqu’à cet endroit qui est l’hôtel, l’h�
 
 <!-- id: s12-24-0105 -->
 
-> « *Lol connaît cet hôtel pour y être allée dans sa jeunesse avec Michael Richardson.* - Son amant qui l’a abandonnée - *Elle est sans doute arrivée jusque-là, quelquefois, durant ses promenades. C’était là que Michael Richardson lui avait fait son serment d’amour. Le souvenir*
->
-> *de l’après-midi d’hiver s’est englouti lui aussi dans l’ignorance, dans la lente, quotidienne glaciation de S. Tahla,* - c’est le nom de la ville -
->
-> *sous ses pas.* » \[p. 61\]
+<div class="text-quotation">
+
+« *Lol connaît cet hôtel pour y être allée dans sa jeunesse avec Michael Richardson.* - Son amant qui l’a abandonnée - *Elle est sans doute arrivée jusque-là, quelquefois, durant ses promenades. C’était là que Michael Richardson lui avait fait son serment d’amour. Le souvenir*
+
+*de l’après-midi d’hiver s’est englouti lui aussi dans l’ignorance, dans la lente, quotidienne glaciation de S. Tahla,* - c’est le nom de la ville -
+
+*sous ses pas.* » \[p. 61\]
+
+</div>
 
 <!-- id: s12-24-0106 -->
 
@@ -460,23 +488,27 @@ Donc c’est elle, c’est elle qui de là est partie pour la fameuse scène du 
 
 <!-- id: s12-24-0107 -->
 
-> « *Je vois comment elle y arrive. Très vite, elle gagne le champ de seigle, s’y laisse glisser, s’y trouve assisse, s’y allonge. Devant elle il y a cette fenêtre éclairée. Mais Lol est loin de sa lumière. L’idée de ce qu’elle fait ne la traverse pas. Je crois encore que c’est la première fois, qu’elle est là sans idée d’y être, que si on la questionnait elle dirait qu’elle s’y repose. De la fatigue d’être arrivée là. De celle qui va suivre. D’avoir à en repartir. Vivante, mourante, elle respire profondément, ce soir l’air est de miel, d’une épuisante suavité. Elle ne se demande pas d’où lui vient*
->
-> *la faiblesse merveilleuse qui l’a couchée dans ce champ. Elle la laisse agir, la remplir jusqu’à la suffocation, la bercer rudement, impitoyablement jusqu’au sommeil, de Lol V. STEIN. Le seigle crisse sous ses reins. Jeune seigle du début d’été. Les yeux rivés à la fenêtre éclairée, une femme entend le vide - se nourrir, dévorer ce spectacle inexistant, invisible, la lumière d’une chambre où d’autres sont. De loin, avec des doigts de fée,*
->
-> *le souvenir d’une certaine mémoire passe. Elle frôle Lol peu après qu’elle s’est allongée dans le champ, elle lui montre à cette heure tardive*
->
-> *du soir, dans le champ de seigle, cette femme qui regarde une petite fenêtre rectan­gulaire, une scène étroite, bornée comme une pierre, où aucun personnage encore ne s’est montré. Et peut-être Lol a-t-elle peur, mais si peu, de l’éventualité d’une séparation encore plus grande d’avec*
->
-> *les autres. Elle sait quand même que certains lutteraient - elle hier encore - qu’ils retourneraient chez eux en courant dès qu’un reste de raison*
->
-> *les ferait se surprendre dans ce champ. Mais c’est la dernière peur apprise de Lol, celle que d’autres auraient à sa place, ce soir.*
->
-> *Eux, l’emprisonneraient dans leur sein avec courage. Mais elle, tout au contraire, la chérit, l’apprivoise, la caresse de ses mains sur le seigle.*
->
-> *L’horizon, de l’autre côté de l’hôtel a perdu toute couleur. La nuit vient. L’ombre de l’homme passe à travers le rectangle de lumière.*
->
-> *Une première fois, puis une deuxième fois en sens inverse.* » \[p. 62\]
+<div class="text-quotation">
+
+« *Je vois comment elle y arrive. Très vite, elle gagne le champ de seigle, s’y laisse glisser, s’y trouve assisse, s’y allonge. Devant elle il y a cette fenêtre éclairée. Mais Lol est loin de sa lumière. L’idée de ce qu’elle fait ne la traverse pas. Je crois encore que c’est la première fois, qu’elle est là sans idée d’y être, que si on la questionnait elle dirait qu’elle s’y repose. De la fatigue d’être arrivée là. De celle qui va suivre. D’avoir à en repartir. Vivante, mourante, elle respire profondément, ce soir l’air est de miel, d’une épuisante suavité. Elle ne se demande pas d’où lui vient*
+
+*la faiblesse merveilleuse qui l’a couchée dans ce champ. Elle la laisse agir, la remplir jusqu’à la suffocation, la bercer rudement, impitoyablement jusqu’au sommeil, de Lol V. STEIN. Le seigle crisse sous ses reins. Jeune seigle du début d’été. Les yeux rivés à la fenêtre éclairée, une femme entend le vide - se nourrir, dévorer ce spectacle inexistant, invisible, la lumière d’une chambre où d’autres sont. De loin, avec des doigts de fée,*
+
+*le souvenir d’une certaine mémoire passe. Elle frôle Lol peu après qu’elle s’est allongée dans le champ, elle lui montre à cette heure tardive*
+
+*du soir, dans le champ de seigle, cette femme qui regarde une petite fenêtre rectan­gulaire, une scène étroite, bornée comme une pierre, où aucun personnage encore ne s’est montré. Et peut-être Lol a-t-elle peur, mais si peu, de l’éventualité d’une séparation encore plus grande d’avec*
+
+*les autres. Elle sait quand même que certains lutteraient - elle hier encore - qu’ils retourneraient chez eux en courant dès qu’un reste de raison*
+
+*les ferait se surprendre dans ce champ. Mais c’est la dernière peur apprise de Lol, celle que d’autres auraient à sa place, ce soir.*
+
+*Eux, l’emprisonneraient dans leur sein avec courage. Mais elle, tout au contraire, la chérit, l’apprivoise, la caresse de ses mains sur le seigle.*
+
+*L’horizon, de l’autre côté de l’hôtel a perdu toute couleur. La nuit vient. L’ombre de l’homme passe à travers le rectangle de lumière.*
+
+*Une première fois, puis une deuxième fois en sens inverse.* » \[p. 62\]
+
+</div>
 
 <!-- id: s12-24-0108 -->
 
@@ -484,11 +516,15 @@ Et c’est là qu’elle suit, sous la forme de ce théâtre d’ombre tout le m
 
 <!-- id: s12-24-0109 -->
 
-> « *Son mari est dans la rue, il l’attend, alarmé. Elle mentit et on la crut.* \[...\] *L’amour que Lol avait éprouvé pour Michael Richardson*
->
-> *était pour son mari la garantie la plus sûre de la fidélité de sa femme. Elle ne pouvait pas retrouver une deuxième fois un homme fait sur*
->
-> *les mesures de celui de T. Beach, ou alors il fallait qu’elle l’inventât, or elle n’inventait rien, croyait Jean Bedford.* » Son mari \[pp. 65-66\]
+<div class="text-quotation">
+
+« *Son mari est dans la rue, il l’attend, alarmé. Elle mentit et on la crut.* \[...\] *L’amour que Lol avait éprouvé pour Michael Richardson*
+
+*était pour son mari la garantie la plus sûre de la fidélité de sa femme. Elle ne pouvait pas retrouver une deuxième fois un homme fait sur*
+
+*les mesures de celui de T. Beach, ou alors il fallait qu’elle l’inventât, or elle n’inventait rien, croyait Jean Bedford.* » Son mari \[pp. 65-66\]
+
+</div>
 
 <!-- id: s12-24-0110 -->
 
@@ -508,7 +544,7 @@ Et c’est pourtant dans le roman, le seul sujet, celui autour de quoi se soutie
 
 <!-- id: s12-24-0114 -->
 
-> celui qu’on vous a fort joliment illustré du thème extrait de CREBILLON fils et aussi bien du roman pour la concierge, « *la marquise sortit à cinq heures* », ce de quoi un certain roman, un moment a cru devoir exclure la règle et le mode, en nous montrant que jamais les choses ne devaient être introduites, vivifiée que sous la forme de quelque monologue dont on passait le furet de l’un à l’autre des protagonistes du roman …c’est ici ce qu’on retrouve sous la forme, sans doute, d’un personnage *qui parle à la troisième personne*, mais qui est le personnage omniprésent, celui qui glisse, qui passe, qui voit les choses en quelque sorte du dehors, qui contrairement au principe de POLITZER, parle - et bien ! - et raconte le récit en troisième personne…
+celui qu’on vous a fort joliment illustré du thème extrait de CREBILLON fils et aussi bien du roman pour la concierge, « *la marquise sortit à cinq heures* », ce de quoi un certain roman, un moment a cru devoir exclure la règle et le mode, en nous montrant que jamais les choses ne devaient être introduites, vivifiée que sous la forme de quelque monologue dont on passait le furet de l’un à l’autre des protagonistes du roman …c’est ici ce qu’on retrouve sous la forme, sans doute, d’un personnage *qui parle à la troisième personne*, mais qui est le personnage omniprésent, celui qui glisse, qui passe, qui voit les choses en quelque sorte du dehors, qui contrairement au principe de POLITZER, parle - et bien ! - et raconte le récit en troisième personne…
 
 <!-- id: s12-24-0115 -->
 
@@ -644,7 +680,11 @@ C’est ce que dit M. ZINBERG lui-même terminant son article par l’énoncé d
 
 <!-- id: s12-24-0148 -->
 
-> « *Nous devons résister à la promotion de notre discipline. Nous avons alors peut-être, une deuxième chance.* »
+<div class="text-quotation">
+
+« *Nous devons résister à la promotion de notre discipline. Nous avons alors peut-être, une deuxième chance.* »
+
+</div>
 
 <!-- id: s12-24-0149 -->
 
@@ -664,7 +704,11 @@ Mais, ça… nous savons tous qu’aucun secteur de la vie américaine… qu’i
 
 <!-- id: s12-24-0153 -->
 
-> « *Les journaux fournissent une preuve de la manière dont les moyens d’information à grande diffusion ont absorbé et répandu les idées psychanalytiques. Les grandes agences d’information vont jusqu’à donner dans les nouvelles, les simples lapsus de langage sous entendant que celui qui a parlé a révélé ainsi un sentiment autre que ce qu’il voulait exprimer et généralement opposé à celui–ci. Les meilleurs exemples viennent de la campagne politique de 1960, du fait que M. Nixon a été sujet à des lapsus linguae. Parlant de son colistier : M. Henry Cabot Lodge, il l’appela « mon distingué adversaire ». Les analystes des nouvelles seraient sans doute incapables de parler du monde, s’ils étaient privés de phrases telles que climat émotif, intentions agressives, ambition personnelle et beaucoup d’autres. Ce qui est extraordinaire dans l’emploi constant d’idées qui venaient primitivement de la psychanalyse est qu’il n’est plus nécessaire de les signaler comme étant proprement psychanalytiques, elles ont été complètement acceptées et font partie de la langue…* »
+<div class="text-quotation">
+
+« *Les journaux fournissent une preuve de la manière dont les moyens d’information à grande diffusion ont absorbé et répandu les idées psychanalytiques. Les grandes agences d’information vont jusqu’à donner dans les nouvelles, les simples lapsus de langage sous entendant que celui qui a parlé a révélé ainsi un sentiment autre que ce qu’il voulait exprimer et généralement opposé à celui–ci. Les meilleurs exemples viennent de la campagne politique de 1960, du fait que M. Nixon a été sujet à des lapsus linguae. Parlant de son colistier : M. Henry Cabot Lodge, il l’appela « mon distingué adversaire ». Les analystes des nouvelles seraient sans doute incapables de parler du monde, s’ils étaient privés de phrases telles que climat émotif, intentions agressives, ambition personnelle et beaucoup d’autres. Ce qui est extraordinaire dans l’emploi constant d’idées qui venaient primitivement de la psychanalyse est qu’il n’est plus nécessaire de les signaler comme étant proprement psychanalytiques, elles ont été complètement acceptées et font partie de la langue…* »
+
+</div>
 
 <!-- id: s12-24-0154 -->
 
@@ -708,7 +752,11 @@ Et maintenant, pour un tout autre domaine, pour le cinéma par exemple, M. ZINBE
 
 <!-- id: s12-24-0164 -->
 
-> « *Les écrivains et les psychanalystes trouvèrent dans une psychanalyse simplifiée, aseptisée, les larges thèmes humains qu’ils cherchaient.* »
+<div class="text-quotation">
+
+« *Les écrivains et les psychanalystes trouvèrent dans une psychanalyse simplifiée, aseptisée, les larges thèmes humains qu’ils cherchaient.* »
+
+</div>
 
 <!-- id: s12-24-0165 -->
 
@@ -784,7 +832,11 @@ Quant à quoi ? Quant à son désir ! C’est encore ce qu’on peut lire chez M
 
 <!-- id: s12-24-0183 -->
 
-> « *Les psychanalystes ont une sorte de problème d’identité à l’égard de leur travail. Leur but principal est-il d’essayer d’améliorer l’état de santé de l’humanité (quelle qu’en soit la signification conceptuelle) ? Utilisent-ils au contraire, une technique, un outil de recherche qui permet d’étudier le mécanisme de l’esprit ? Ou bien construisent-ils, au moyen de leur expérience quotidienne, une large théorie psychologique destinée à expliquer à la fois la santé et la maladie ?* »
+<div class="text-quotation">
+
+« *Les psychanalystes ont une sorte de problème d’identité à l’égard de leur travail. Leur but principal est-il d’essayer d’améliorer l’état de santé de l’humanité (quelle qu’en soit la signification conceptuelle) ? Utilisent-ils au contraire, une technique, un outil de recherche qui permet d’étudier le mécanisme de l’esprit ? Ou bien construisent-ils, au moyen de leur expérience quotidienne, une large théorie psychologique destinée à expliquer à la fois la santé et la maladie ?* »
+
+</div>
 
 <!-- id: s12-24-0184 -->
 
@@ -808,9 +860,13 @@ Mais vous, les lacaniens, les analystes lacaniens, vous devez savoir et sans dou
 
 <!-- id: s12-24-0189 -->
 
-> « *Certains signes indiquent que l’influence de la psychanalyse en Amérique a atteint son apogée et peut-être même commencé à décliner alors qu’en Europe et au Japon sa vogue ne fait sans doute que commencer.* » Il s’explicite en disant : « *Une classe moyenne et prospère,*
->
-> *en Europe occidentale et au Japon, une classe moyenne et prospère et inévitablement matérialiste rompant avec la société traditionnelle commence à s’intéresser à la psychanalyse.* »
+<div class="text-quotation">
+
+« *Certains signes indiquent que l’influence de la psychanalyse en Amérique a atteint son apogée et peut-être même commencé à décliner alors qu’en Europe et au Japon sa vogue ne fait sans doute que commencer.* » Il s’explicite en disant : « *Une classe moyenne et prospère,*
+
+*en Europe occidentale et au Japon, une classe moyenne et prospère et inévitablement matérialiste rompant avec la société traditionnelle commence à s’intéresser à la psychanalyse.* »
+
+</div>
 
 <!-- id: s12-24-0190 -->
 
@@ -818,7 +874,11 @@ Lui-même, à la fin de son article, vous met en garde :
 
 <!-- id: s12-24-0191 -->
 
-> « *Il est difficile d’être patient* - il s’adresse aux Américains - *mais peut-être par notre exemple, pourrons-nous un jour aider les instituts psychanalytiques bourgeonnant d’Europe et du Japon à éviter nos erreurs et à épargner à leur pays tant de mauvaises plaisanteries.* »
+<div class="text-quotation">
+
+« *Il est difficile d’être patient* - il s’adresse aux Américains - *mais peut-être par notre exemple, pourrons-nous un jour aider les instituts psychanalytiques bourgeonnant d’Europe et du Japon à éviter nos erreurs et à épargner à leur pays tant de mauvaises plaisanteries.* »
+
+</div>
 
 <!-- id: s12-24-0192 -->
 

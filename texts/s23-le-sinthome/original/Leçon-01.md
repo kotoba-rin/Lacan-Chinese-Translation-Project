@@ -18,7 +18,7 @@ Si je me suis permis cette modification d’orthographe qui marque évidemment u
 
 <!-- id: s23-01-0004 -->
 
-> ce que j’appelle *lalangue*, *lalangue* mienne ...l’injection de grec, de cette langue dont Joyce, dans le *Portrait de l’Artiste,* émettait le vœu tout à fait... non, c’est pas dans le *Portrait de l’Artiste,* c’est dans le *Ulysses,* dans le *Ulysses,* au premier chapitre : il s’agit de *hellenise* ...d’injecter de même *lalangue* *hellène*, on ne sait pas à quoi, puisque il ne s’agissait pas du gaélique, encore qu’il s’agit de l’Irlande, mais que Joyce devait écrire en *anglais*.
+ce que j’appelle *lalangue*, *lalangue* mienne ...l’injection de grec, de cette langue dont Joyce, dans le *Portrait de l’Artiste,* émettait le vœu tout à fait... non, c’est pas dans le *Portrait de l’Artiste,* c’est dans le *Ulysses,* dans le *Ulysses,* au premier chapitre : il s’agit de *hellenise* ...d’injecter de même *lalangue* *hellène*, on ne sait pas à quoi, puisque il ne s’agissait pas du gaélique, encore qu’il s’agit de l’Irlande, mais que Joyce devait écrire en *anglais*.
 
 <!-- id: s23-01-0005 -->
 
@@ -26,7 +26,7 @@ Qu’il a écrit en anglais d’une façon telle que...
 
 <!-- id: s23-01-0006 -->
 
-> comme l’a dit quelqu’un dont j’espère qu’il est dans cette assemblée, Philippe Sollers, dans *Tel Quel* [^1] ...il l’a écrit d’une façon telle que la langue anglaise n’existe plus.
+comme l’a dit quelqu’un dont j’espère qu’il est dans cette assemblée, Philippe Sollers, dans *Tel Quel* [^1] ...il l’a écrit d’une façon telle que la langue anglaise n’existe plus.
 
 <!-- id: s23-01-0007 -->
 
@@ -50,9 +50,9 @@ Celle aussi à propos de quoi j’ai posé dans un temps, au temps où je me sui
 
 <!-- id: s23-01-0012 -->
 
-> par une sollicitation pressante, pressante je dois dire de la part de Jacques Aubert
->
-> ici présent et tout aussi pressant ...où je me suis laissé entraîner à inaugurer, à inaugurer au titre d’un symposium Joyce.
+par une sollicitation pressante, pressante je dois dire de la part de Jacques Aubert
+
+ici présent et tout aussi pressant ...où je me suis laissé entraîner à inaugurer, à inaugurer au titre d’un symposium Joyce.
 
 <!-- id: s23-01-0013 -->
 
@@ -60,7 +60,7 @@ C’est par là qu’en somme je me suis laissé détourner de mon projet qui é
 
 <!-- id: s23-01-0014 -->
 
-> je vous l’ai annoncé l’année dernière ...d’inti­tuler ce séminaire du « *quatre, cinq et six* ».
+je vous l’ai annoncé l’année dernière ...d’inti­tuler ce séminaire du « *quatre, cinq et six* ».
 
 <!-- id: s23-01-0015 -->
 
@@ -84,7 +84,7 @@ Appeler « *nature* » ce que vous excluez du fait même de porter intérêt �
 
 <!-- id: s23-01-0020 -->
 
-> ce quelque chose se distinguant d’être nommé ...la nature par ce procédé ne se risque à rien qu’à s’affirmer d’être un pot-pourri de hors-nature.
+ce quelque chose se distinguant d’être nommé ...la nature par ce procédé ne se risque à rien qu’à s’affirmer d’être un pot-pourri de hors-nature.
 
 <!-- id: s23-01-0021 -->
 
@@ -92,11 +92,11 @@ L’avantage de cet énoncé est que si vous trouvez - à bien le compter - que 
 
 <!-- id: s23-01-0022 -->
 
-> sous toute réserve donc, ce « *naturel­lement »...naturellement sexuel*, vous posez logiquement...
+sous toute réserve donc, ce « *naturel­lement »...naturellement sexuel*, vous posez logiquement...
 
 <!-- id: s23-01-0023 -->
 
-> ce qui se trouve être le cas ...que ce n’est pas là un privilège, un privilège de l’homme.
+ce qui se trouve être le cas ...que ce n’est pas là un privilège, un privilège de l’homme.
 
 <!-- id: s23-01-0024 -->
 
@@ -108,7 +108,7 @@ Tâchez plutôt de savoir ce qu’il en est dans chaque cas : de la bactérie �
 
 <!-- id: s23-01-0026 -->
 
-> j’ai déjà fait allusion à l’un et à l’autre ...de la bactérie à l’oiseau, puisque ceux-là ont des noms.
+j’ai déjà fait allusion à l’un et à l’autre ...de la bactérie à l’oiseau, puisque ceux-là ont des noms.
 
 <!-- id: s23-01-0027 -->
 
@@ -116,7 +116,11 @@ Remarquons au passage que dans la création dite « divine »...
 
 <!-- id: s23-01-0028 -->
 
-> « divine » seulement en ceci qu’elle se réfère à la nomination ...la bactérie n’est pas nommée.
+<div class="text-quotation">
+
+« divine » seulement en ceci qu’elle se réfère à la nomination ...la bactérie n’est pas nommée.
+
+</div>
 
 <!-- id: s23-01-0029 -->
 
@@ -124,7 +128,7 @@ Et qu’elle n’est pas plus nommée quand Dieu, bouffonnant l’homme...
 
 <!-- id: s23-01-0030 -->
 
-> l’homme supposé originel ...lui propose de commencer par *dire* le nom de chaque bestiole.
+l’homme supposé originel ...lui propose de commencer par *dire* le nom de chaque bestiole.
 
 <!-- id: s23-01-0031 -->
 
@@ -132,7 +136,7 @@ De ce premier - faut bien le dire - *déconnage*, nous n’avons de trace qu’�
 
 <!-- id: s23-01-0032 -->
 
-> comme son nom l’indique assez, c’est une allu­sion, ça, à « *la fonction de l’index* » de Peirce ...qu’Adam était... selon le *joke* qu’en fait Joyce justement ...qu’*Adam* était bien entendu une *Madame,* et qu’il n’a nommé les bestiaux que dans la langue de celle-ci.
+comme son nom l’indique assez, c’est une allu­sion, ça, à « *la fonction de l’index* » de Peirce ...qu’Adam était... selon le *joke* qu’en fait Joyce justement ...qu’*Adam* était bien entendu une *Madame,* et qu’il n’a nommé les bestiaux que dans la langue de celle-ci.
 
 <!-- id: s23-01-0033 -->
 
@@ -140,9 +144,9 @@ Il faut bien le supposer, puisque celle que j’appellerai l’Èvie (*e.v.i.e*)
 
 <!-- id: s23-01-0034 -->
 
-> l’ Èvie que j’ai bien le droit d’appeler ainsi puisque c’est ce que ça veut dire en hébreu,
->
-> si tant est que l’hébreu soit une langue, *la mère des vivants* ...eh bien l’Èvie l’avait tout de suite, et bien pendue cette langue, puisque après le supposé du « *nommer* » par Adam, la première personne qui s’en sert c’est bien elle, pour parler au serpent.
+l’ Èvie que j’ai bien le droit d’appeler ainsi puisque c’est ce que ça veut dire en hébreu,
+
+si tant est que l’hébreu soit une langue, *la mère des vivants* ...eh bien l’Èvie l’avait tout de suite, et bien pendue cette langue, puisque après le supposé du « *nommer* » par Adam, la première personne qui s’en sert c’est bien elle, pour parler au serpent.
 
 <!-- id: s23-01-0035 -->
 
@@ -162,7 +166,7 @@ Ce *possible*, comme je l’ai dit...
 
 <!-- id: s23-01-0039 -->
 
-> sans que vous le notiez, pour ce que moi-même point je ne l’ai noté de n’y pas mettre la virgule ...*ce possible*, j’ai dit autrefois c’est que c’est *ce qui cesse de s’écrire,* mais il y faut mettre la virgule : *c’est « ce qui cesse, virgule, de s’écrire »*.
+sans que vous le notiez, pour ce que moi-même point je ne l’ai noté de n’y pas mettre la virgule ...*ce possible*, j’ai dit autrefois c’est que c’est *ce qui cesse de s’écrire,* mais il y faut mettre la virgule : *c’est « ce qui cesse, virgule, de s’écrire »*.
 
 <!-- id: s23-01-0040 -->
 
@@ -178,7 +182,7 @@ Mais *elle ne sera alors que mi-dite, s’incarnant d’un* **S** *indice* **1**
 
 <!-- id: s23-01-0043 -->
 
-> mythique, en ce sens que le mythe la fait singulière : il s’agit d’Ève dont j’ai parlé tout à l’heure ...que l’*unique* - *La* femme - à avoir jamais été incontestablement possédée, pour avoir goûté du fruit de l’arbre défendu, celui de la science.
+mythique, en ce sens que le mythe la fait singulière : il s’agit d’Ève dont j’ai parlé tout à l’heure ...que l’*unique* - *La* femme - à avoir jamais été incontestablement possédée, pour avoir goûté du fruit de l’arbre défendu, celui de la science.
 
 <!-- id: s23-01-0044 -->
 
@@ -306,7 +310,7 @@ Et c’est toujours ainsi : le *phallus* c’est la conjonction de ce que j’a
 
 <!-- id: s23-01-0075 -->
 
-> qui est ce petit bout de queue en question ...c’est la conjonction de ceci avec *la fonction de la parole*. C’est en quoi son art est le vrai répondant de son *phallus*.
+qui est ce petit bout de queue en question ...c’est la conjonction de ceci avec *la fonction de la parole*. C’est en quoi son art est le vrai répondant de son *phallus*.
 
 <!-- id: s23-01-0076 -->
 
@@ -378,7 +382,7 @@ Vous ne trouverez pas le *Beebe* qui ouvre la liste par un article sur Joyce, je
 
 <!-- id: s23-01-0093 -->
 
-> peut-être à cause du sinthome madaquin en question ...à mon avis, parle assez bien de Joyce. Et *il y en a d’autres jusqu’à la fin*, dont je regrette que vous ne puissiez pas disposer.
+peut-être à cause du sinthome madaquin en question ...à mon avis, parle assez bien de Joyce. Et *il y en a d’autres jusqu’à la fin*, dont je regrette que vous ne puissiez pas disposer.
 
 <!-- id: s23-01-0094 -->
 
@@ -386,7 +390,7 @@ Vous ne trouverez pas le *Beebe* qui ouvre la liste par un article sur Joyce, je
 
 <!-- id: s23-01-0095 -->
 
-> je les ai fait rapetisser, Dieu merci ...que j’aie fait cette note en petits caractères...
+je les ai fait rapetisser, Dieu merci ...que j’aie fait cette note en petits caractères...
 
 <!-- id: s23-01-0096 -->
 
@@ -490,7 +494,7 @@ Mais que ce *dire*, pour qu’il *résonne*, pour qu’il *consonne*...
 
 <!-- id: s23-01-0121 -->
 
-> pour employer un autre mot du *sinthome madaquin* ...pour qu’il *consonne*, il faut que le corps y soit sensible. Et qu’il l’est, c’est un fait.
+pour employer un autre mot du *sinthome madaquin* ...pour qu’il *consonne*, il faut que le corps y soit sensible. Et qu’il l’est, c’est un fait.
 
 <!-- id: s23-01-0122 -->
 
@@ -498,7 +502,7 @@ C’est parce que le corps a quelques orifices dont le plus important...
 
 <!-- id: s23-01-0123 -->
 
-> dont le plus important parce qu’il peut pas se boucher, se clore ...dont le plus important est l’*oreille*, parce qu’il peut pas se fermer, que c’est à cause de ça que répond dans le corps ce que j’ai appelé *la voix*.
+dont le plus important parce qu’il peut pas se boucher, se clore ...dont le plus important est l’*oreille*, parce qu’il peut pas se fermer, que c’est à cause de ça que répond dans le corps ce que j’ai appelé *la voix*.
 
 <!-- id: s23-01-0124 -->
 
@@ -538,7 +542,7 @@ Le *sac*, en tant qu’il s’imagine dans la théorie de l’*ensemble*, telle 
 
 <!-- id: s23-01-0133 -->
 
-> si toute démonstration est tenue pour démontrer l’imaginaire qu’elle implique ...*ce sac*, dis-je, *mérite d’être connoté d’un ambigu de* **1** *et de* **0**, seul support adéquat de ce à quoi confine l’*ensemble vide* qui s’impose dans cette théorie.
+si toute démonstration est tenue pour démontrer l’imaginaire qu’elle implique ...*ce sac*, dis-je, *mérite d’être connoté d’un ambigu de* **1** *et de* **0**, seul support adéquat de ce à quoi confine l’*ensemble vide* qui s’impose dans cette théorie.
 
 <!-- id: s23-01-0134 -->
 
@@ -610,7 +614,7 @@ Il n’y a d’*umpire*...
 
 <!-- id: s23-01-0151 -->
 
-> *umpire* \[*arbitre*\] pour le dire en anglais, c’est comme ça que Joyce l’écrit ...qu’à partir de l’empire, de l’*imperium* sur le corps, comme tout en porte la marque dès l’*ordalie* \[« *jugement de Dieu* »\].
+*umpire* \[*arbitre*\] pour le dire en anglais, c’est comme ça que Joyce l’écrit ...qu’à partir de l’empire, de l’*imperium* sur le corps, comme tout en porte la marque dès l’*ordalie* \[« *jugement de Dieu* »\].
 
 <!-- id: s23-01-0152 -->
 
@@ -670,13 +674,13 @@ C’est que, à rabattre ce grand S...
 
 <!-- id: s23-01-0166 -->
 
-> c’est-à-dire ce qui s’affirme de la consistance du *Symbolique* ...à le rabattre, comme il est plausible, je veux dire offert, à le rabattre d’une façon qui se trace ainsi, vous avez...
+c’est-à-dire ce qui s’affirme de la consistance du *Symbolique* ...à le rabattre, comme il est plausible, je veux dire offert, à le rabattre d’une façon qui se trace ainsi, vous avez...
 
 <!-- id: s23-01-0167 -->
 
-> si cette figure est correcte, je veux dire que glissant *sous* le *Réel*, c’est évidemment aussi *sous* l’*Imaginaire*
->
-> qu’il doit se trouver, à ceci près qu’ici, c’est *sur* le *Symptômatique* qu’il doit passer ...vous vous trouvez dans la position suivante, c’est qu’à partir de quatre, ce qui se figure est ceci :
+si cette figure est correcte, je veux dire que glissant *sous* le *Réel*, c’est évidemment aussi *sous* l’*Imaginaire*
+
+qu’il doit se trouver, à ceci près qu’ici, c’est *sur* le *Symptômatique* qu’il doit passer ...vous vous trouvez dans la position suivante, c’est qu’à partir de quatre, ce qui se figure est ceci :
 
 <!-- id: s23-01-0168 -->
 
@@ -696,11 +700,11 @@ D’une façon qui, j’espère, vous paraît simple :
 
 <!-- id: s23-01-0172 -->
 
-> I R Σ S
->
-> 1 2 3 4
->
-> 2 1 4 3
+I R Σ S
+
+1 2 3 4
+
+2 1 4 3
 
 <!-- id: s23-01-0173 -->
 
@@ -712,7 +716,7 @@ c’est précisément ici que c’est figuré ...doit faire que le *symp­tôme*
 
 <!-- id: s23-01-0175 -->
 
-> il faudrait que je vous montre par quelque figuration simple ...d’une façon telle que il y en a - comme vous le voyez là-bas - qu’il y en a quatre qui sont - vous le voyez là – il y en a quatre qui sont tirés par le grand R, et ici c’est d’une certaine façon que le I se combine en passant au-dessus du *symbole* ici figuré, et au-dessous du *symptôme*. C’est toujours sous cette forme que se présente le lien, le lien que j’ai exprimé ici par l’opposition du R au I.
+il faudrait que je vous montre par quelque figuration simple ...d’une façon telle que il y en a - comme vous le voyez là-bas - qu’il y en a quatre qui sont - vous le voyez là – il y en a quatre qui sont tirés par le grand R, et ici c’est d’une certaine façon que le I se combine en passant au-dessus du *symbole* ici figuré, et au-dessous du *symptôme*. C’est toujours sous cette forme que se présente le lien, le lien que j’ai exprimé ici par l’opposition du R au I.
 
 <!-- id: s23-01-0176 -->
 
@@ -752,7 +756,7 @@ C’est dans la mesure où *ce père* - comme il s’avère dans l’*Ulysses - 
 
 <!-- id: s23-01-0185 -->
 
-> son art qui est toujours le *quelque chose* qui, du fond des âges, nous vient comme issu de l’*artisan* ...c’est par son art que Joyce fait subsister non seulement sa famille, mais l’*illustre* si l’on peut dire, et du même coup illustre ce qu’il appelle quelque part « *my country ».* L’esprit incréé - dit-il - de sa race... c’est ce par quoi finit *Le Portrait de l’Artiste* ...c’est là ce dont il se donne la mission.
+son art qui est toujours le *quelque chose* qui, du fond des âges, nous vient comme issu de l’*artisan* ...c’est par son art que Joyce fait subsister non seulement sa famille, mais l’*illustre* si l’on peut dire, et du même coup illustre ce qu’il appelle quelque part « *my country ».* L’esprit incréé - dit-il - de sa race... c’est ce par quoi finit *Le Portrait de l’Artiste* ...c’est là ce dont il se donne la mission.
 
 <!-- id: s23-01-0186 -->
 
@@ -820,7 +824,7 @@ Si nous supposons la consistance...
 
 <!-- id: s23-01-0202 -->
 
-> consistance d’une quelconque de ces fonctions, *Symbolique, Ima­ginaire et Réel* ...si nous suppo­sons cette *consistance* comme faisant *cercle*, ceci suppose un *trou*. Mais dans le cas du *symbole* et du *symptôme*, c’est autre chose dont il s’agit : ce qui fait trou c’est l’ensemble - c’est l’ensemble pliés l’un sur l’autre - de ces 2 cercles :
+consistance d’une quelconque de ces fonctions, *Symbolique, Ima­ginaire et Réel* ...si nous suppo­sons cette *consistance* comme faisant *cercle*, ceci suppose un *trou*. Mais dans le cas du *symbole* et du *symptôme*, c’est autre chose dont il s’agit : ce qui fait trou c’est l’ensemble - c’est l’ensemble pliés l’un sur l’autre - de ces 2 cercles :
 
 <!-- id: s23-01-0203 -->
 
@@ -844,7 +848,7 @@ C’est dire que : il faut *imaginer* pour que ces trous subsistent, se maintie
 
 <!-- id: s23-01-0208 -->
 
-> ça remplira le même rôle ...une droite pour peu qu’elle soit infinie.
+ça remplira le même rôle ...une droite pour peu qu’elle soit infinie.
 
 <!-- id: s23-01-0209 -->
 

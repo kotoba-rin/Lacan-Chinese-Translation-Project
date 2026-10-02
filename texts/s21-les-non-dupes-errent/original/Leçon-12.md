@@ -10,7 +10,7 @@ Bon, je vais d’abord...
 
 <!-- id: s21-12-0002 -->
 
-> en commençant trois minutes avant l’heure ...je vais d’abord m’acquitter d’un devoir que je n’ai pas rempli la dernière fois.
+en commençant trois minutes avant l’heure ...je vais d’abord m’acquitter d’un devoir que je n’ai pas rempli la dernière fois.
 
 <!-- id: s21-12-0003 -->
 
@@ -22,13 +22,13 @@ Il y a un livre qui vient de paraître au « *Champ freudien* », comme on dit.
 
 <!-- id: s21-12-0005 -->
 
-> c’est une collection dont il se trouve que je la dirige.
->
-> Si c’est paru dans cette collection, je n’y suis évidemment pas pour rien, il a même fallu que j’y force l’entrée. ...ce livre s’appelle...
+c’est une collection dont il se trouve que je la dirige.
+
+Si c’est paru dans cette collection, je n’y suis évidemment pas pour rien, il a même fallu que j’y force l’entrée. ...ce livre s’appelle...
 
 <!-- id: s21-12-0006 -->
 
-> c’est un titre, autant celui là vaut qu’un autre ...s’appelle : *L’Amour du Censeur.* Il est du nommé Pierre Legendre, qui se trouve être professeur à la Faculté de Droit. Voilà.
+c’est un titre, autant celui là vaut qu’un autre ...s’appelle : *L’Amour du Censeur.* Il est du nommé Pierre Legendre, qui se trouve être professeur à la Faculté de Droit. Voilà.
 
 <!-- id: s21-12-0007 -->
 
@@ -36,7 +36,7 @@ Alors, j’incite vivement ceux qui...
 
 <!-- id: s21-12-0008 -->
 
-> je ne sais pas trop pourquoi, enfin... ...s’accumulent ici autour de ce que je dis, je les incite vivement à ce qu’on appelle « en prendre connaissance », c’est-à-dire à le lire avec un peu de soin, parce qu’ils en apprendront quelque chose.
+je ne sais pas trop pourquoi, enfin... ...s’accumulent ici autour de ce que je dis, je les incite vivement à ce qu’on appelle « en prendre connaissance », c’est-à-dire à le lire avec un peu de soin, parce qu’ils en apprendront quelque chose.
 
 <!-- id: s21-12-0009 -->
 
@@ -68,7 +68,7 @@ Alors moi je vais vous avouer le mien, c’est celui qui me possède toute la se
 
 <!-- id: s21-12-0016 -->
 
-> c’est-à-dire par exemple ce matin même ...jusqu’à ce moment, j’ai toujours l’espoir que ce sera la dernière fois, que je pourrai vous dire, *n,i,ni* : fini.
+c’est-à-dire par exemple ce matin même ...jusqu’à ce moment, j’ai toujours l’espoir que ce sera la dernière fois, que je pourrai vous dire, *n,i,ni* : fini.
 
 <!-- id: s21-12-0017 -->
 
@@ -76,7 +76,7 @@ Le fait que je sois là...
 
 <!-- id: s21-12-0018 -->
 
-> parce que le jour où je le dirai, ça sera avant de commencer ...le fait que je sois là vous prouve que, tout particulier que me soit cet espoir, il est déçu.
+parce que le jour où je le dirai, ça sera avant de commencer ...le fait que je sois là vous prouve que, tout particulier que me soit cet espoir, il est déçu.
 
 <!-- id: s21-12-0019 -->
 
@@ -84,7 +84,7 @@ Bon alors moyennant quoi, en me réveillant j’ai naturellement pensé à tout 
 
 <!-- id: s21-12-0020 -->
 
-> je l’ai déjà dit, mais il faut bien que je le répète ...que s’il y a quelque chose dont l’analyse a découvert la vérité, c’est *l’amour du savoir*.
+je l’ai déjà dit, mais il faut bien que je le répète ...que s’il y a quelque chose dont l’analyse a découvert la vérité, c’est *l’amour du savoir*.
 
 <!-- id: s21-12-0021 -->
 
@@ -100,7 +100,7 @@ tout au moins si ce que je vous fais remarquer a quelque accent, accent qui vous
 
 <!-- id: s21-12-0024 -->
 
-> avec je crois quelque accent, au moins je me l’imagine, enfin j’espère que vous vous en souvenez ...non seulement j’ai avancé qu’il n’y avait pas de « *désir de savoir »*, mais j’ai même parlé de quelque chose, que j’ai articulé effectivement de « *l’horreur de savoir »*. Voilà !
+avec je crois quelque accent, au moins je me l’imagine, enfin j’espère que vous vous en souvenez ...non seulement j’ai avancé qu’il n’y avait pas de « *désir de savoir »*, mais j’ai même parlé de quelque chose, que j’ai articulé effectivement de « *l’horreur de savoir »*. Voilà !
 
 <!-- id: s21-12-0025 -->
 
@@ -116,7 +116,7 @@ Il y a un nommé William Blake, vous savez, qui a...
 
 <!-- id: s21-12-0028 -->
 
-> dans son temps, à son époque, avec son petit matériel à lui, qui n’était pas mince ...qui a remué ça, il lui a même donné exactement ce titre. Voilà !
+dans son temps, à son époque, avec son petit matériel à lui, qui n’était pas mince ...qui a remué ça, il lui a même donné exactement ce titre. Voilà !
 
 <!-- id: s21-12-0029 -->
 
@@ -136,7 +136,7 @@ Au moins est-ce là ce qui répond à ce que nous nous chargeons...
 
 <!-- id: s21-12-0033 -->
 
-> nous, analystes, si tant est qu’il y en ait du psychanalyste ...ce que nous nous chargeons de recueillir.
+nous, analystes, si tant est qu’il y en ait du psychanalyste ...ce que nous nous chargeons de recueillir.
 
 <!-- id: s21-12-0034 -->
 
@@ -156,13 +156,13 @@ C’est notre voie, la voie, il y a longtemps que de ça, on parle.
 
 <!-- id: s21-12-0038 -->
 
-> dans un énoncé qui j’espère est en train de vous corner aux oreilles \[Jean, 14 : 6, « *Je suis la voie, la vérité, la vie* »\] ...si on la met en premier...
+dans un énoncé qui j’espère est en train de vous corner aux oreilles \[Jean, 14 : 6, « *Je suis la voie, la vérité, la vie* »\] ...si on la met en premier...
 
 <!-- id: s21-12-0039 -->
 
-> c’est bien que c’est de ça qu’il s’agit en premier,
->
-> quoique les solutions qui s’en sont avancées diffèrent entre elles, et de beaucoup ...il s’agirait d’avoir une petite idée de la nôtre.
+c’est bien que c’est de ça qu’il s’agit en premier,
+
+quoique les solutions qui s’en sont avancées diffèrent entre elles, et de beaucoup ...il s’agirait d’avoir une petite idée de la nôtre.
 
 <!-- id: s21-12-0040 -->
 
@@ -170,7 +170,7 @@ C’est notre voie, la voie, il y a longtemps que de ça, on parle.
 
 <!-- id: s21-12-0041 -->
 
-> quand on énonce ce terme : la voie ...tout de suite après on parle de la vérité qui, si elle est ce que je viens de dire, est quelque chose comme une planche pourrie.
+quand on énonce ce terme : la voie ...tout de suite après on parle de la vérité qui, si elle est ce que je viens de dire, est quelque chose comme une planche pourrie.
 
 <!-- id: s21-12-0042 -->
 
@@ -182,7 +182,7 @@ Ce sont d’imprudentes émis­sions...
 
 <!-- id: s21-12-0044 -->
 
-> émissions de quoi ? - de voix, de voix à écrire tout autrement (*v,o,i,x*) celles-là ...ce sont d’imprudentes émissions de voix qui énoncent ces couplages.
+émissions de quoi ? - de voix, de voix à écrire tout autrement (*v,o,i,x*) celles-là ...ce sont d’imprudentes émissions de voix qui énoncent ces couplages.
 
 <!-- id: s21-12-0045 -->
 
@@ -218,7 +218,7 @@ Enfin, ces couplages, qu’est-ce que je suggère ici...
 
 <!-- id: s21-12-0053 -->
 
-> à partir de l’expé­rience qui se définit d’*analytique* ...qu’est-ce que je suggère ici ?
+à partir de l’expé­rience qui se définit d’*analytique* ...qu’est-ce que je suggère ici ?
 
 <!-- id: s21-12-0054 -->
 
@@ -238,7 +238,7 @@ Bon, je vous fais remarquer que dans ce discours, je ne suis...
 
 <!-- id: s21-12-0058 -->
 
-> c’est un petit test simplement, c’est pas du tout que je m’en targue ...je ne suis pas « reçu », je suis plutôt supporté, toléré.
+c’est un petit test simplement, c’est pas du tout que je m’en targue ...je ne suis pas « reçu », je suis plutôt supporté, toléré.
 
 <!-- id: s21-12-0059 -->
 
@@ -258,11 +258,11 @@ J’ai aussi énoncé...
 
 <!-- id: s21-12-0063 -->
 
-> vous voyez, j’insiste à me répéter ...j’ai aussi énoncé ceci : que faut-il...
+vous voyez, j’insiste à me répéter ...j’ai aussi énoncé ceci : que faut-il...
 
 <!-- id: s21-12-0064 -->
 
-> au sens de : *qu’est-ce qui manque* ...pour que cette expérience codifiée, elle ne soit pas à la portée de tout le monde ?
+au sens de : *qu’est-ce qui manque* ...pour que cette expérience codifiée, elle ne soit pas à la portée de tout le monde ?
 
 <!-- id: s21-12-0065 -->
 
@@ -434,7 +434,7 @@ Comme il n’y a pas de question sans réponse...
 
 <!-- id: s21-12-0107 -->
 
-> je vous le serine depuis longtemps ...ça veut dire que l’essence aussi en dépend, de la réponse. Seulement là, elle manque.
+je vous le serine depuis longtemps ...ça veut dire que l’essence aussi en dépend, de la réponse. Seulement là, elle manque.
 
 <!-- id: s21-12-0108 -->
 
@@ -474,7 +474,7 @@ Je le touche à ceci qu’ils ont vraiment bien contribué quand c’est venu à
 
 <!-- id: s21-12-0117 -->
 
-> à ce domaine qui m’intéresse, quoique ce ne soit pas le mien, le mien au sens de domaine de l’analyse ...qu’ils ont vraiment contribué, avec une particulière astuce, au domaine de la science.
+à ce domaine qui m’intéresse, quoique ce ne soit pas le mien, le mien au sens de domaine de l’analyse ...qu’ils ont vraiment contribué, avec une particulière astuce, au domaine de la science.
 
 <!-- id: s21-12-0118 -->
 
@@ -486,7 +486,7 @@ Qu’est-ce que ça veut dire, ça ? C’est pas eux qui l’ont inventée.
 
 <!-- id: s21-12-0120 -->
 
-> mettez ça entre guillemets, je vous en prie ...sur la « *nature* », sur la φύσις \[physis\] à pro­pos de quoi Monsieur Heidegger se tortille les circonvolutions.
+mettez ça entre guillemets, je vous en prie ...sur la « *nature* », sur la φύσις \[physis\] à pro­pos de quoi Monsieur Heidegger se tortille les circonvolutions.
 
 <!-- id: s21-12-0121 -->
 
@@ -518,7 +518,7 @@ C’est après coup, dans la timbale une fois décro­chée, qu’ils ont du met
 
 <!-- id: s21-12-0128 -->
 
-> que c’est clair, enfin quoi ! ...l’Einstein, à en remettre au grand machin de Newton, c’est lui qui tient le bon bout.
+que c’est clair, enfin quoi ! ...l’Einstein, à en remettre au grand machin de Newton, c’est lui qui tient le bon bout.
 
 <!-- id: s21-12-0129 -->
 
@@ -530,7 +530,7 @@ Ce qu’il y a de certain c’est que c’est quand même frap­pant qu’il ait
 
 <!-- id: s21-12-0131 -->
 
-> l’Écriture par excel­lence, qu’on dit ...qu’il ait suffi de ça pour qu’ils rentrent dans le truc de ce que les Grecs ont préparé.
+l’Écriture par excel­lence, qu’on dit ...qu’il ait suffi de ça pour qu’ils rentrent dans le truc de ce que les Grecs ont préparé.
 
 <!-- id: s21-12-0132 -->
 
@@ -550,7 +550,7 @@ Un *dire* à dormir debout naturellement...
 
 <!-- id: s21-12-0136 -->
 
-> comme je vous l’ai raconté tout à l’heure à propos de cette scène « *à la mords-moi-le-doigt* » ...un dire à dormir debout, mais un dire !
+comme je vous l’ai raconté tout à l’heure à propos de cette scène « *à la mords-moi-le-doigt* » ...un dire à dormir debout, mais un dire !
 
 <!-- id: s21-12-0137 -->
 
@@ -586,7 +586,7 @@ Et pourquoi pas nous en servir puisqu’elle nous vient avec ce que j’appelle
 
 <!-- id: s21-12-0145 -->
 
-> ce que j’appelle en la faisant basculer tout entière d’un côté ...ce que j’appelle *la vérité*. Parce que bien sûr c’est pas la vérité vidée, c’est *la vérité* comme ça, *foisonnante*.
+ce que j’appelle en la faisant basculer tout entière d’un côté ...ce que j’appelle *la vérité*. Parce que bien sûr c’est pas la vérité vidée, c’est *la vérité* comme ça, *foisonnante*.
 
 <!-- id: s21-12-0146 -->
 
@@ -602,11 +602,11 @@ Il y a une chose qui m’a frappé...
 
 <!-- id: s21-12-0149 -->
 
-> enfin, à la lecture de ce livre que j’ai lu avec passion de bout en bout, parce que c’était dans mon fil, comme ça ...c’est que si l’amibe...
+enfin, à la lecture de ce livre que j’ai lu avec passion de bout en bout, parce que c’était dans mon fil, comme ça ...c’est que si l’amibe...
 
 <!-- id: s21-12-0150 -->
 
-> cette petite saloperie là, que vous regardez au microscope, et puis qui manifestement frétille, elle vous bouffe des trucs ...ça c’est sûr qu’elle *jouit*, ben pour la bactérie, je m’interroge ! \[*Rires*\] Est-ce que la bactérie jouit ?
+cette petite saloperie là, que vous regardez au microscope, et puis qui manifestement frétille, elle vous bouffe des trucs ...ça c’est sûr qu’elle *jouit*, ben pour la bactérie, je m’interroge ! \[*Rires*\] Est-ce que la bactérie jouit ?
 
 <!-- id: s21-12-0151 -->
 
@@ -614,13 +614,13 @@ Et ben c’est marrant, la seule chose qui puisse nous en suggé­rer l’idée,
 
 <!-- id: s21-12-0152 -->
 
-> je peux quand même pas dire que c’est dans Jacob que je l’ai découvert.
->
-> Faut pas exagérer, j’avais eu une rumeur ...mais dans ce Jacob [^26]...
+je peux quand même pas dire que c’est dans Jacob que je l’ai découvert.
+
+Faut pas exagérer, j’avais eu une rumeur ...mais dans ce Jacob [^26]...
 
 <!-- id: s21-12-0153 -->
 
-> qui d’ailleurs est dans l’occasion associé à un nommé Wollman ...ce qui m’a véritablement *fasciné*, c’est ce qui est la caractéristique de ladite bactérie, c’est qu’il y a rien de tel au monde qu’une bactérie pour pouvoir être infectée.
+qui d’ailleurs est dans l’occasion associé à un nommé Wollman ...ce qui m’a véritablement *fasciné*, c’est ce qui est la caractéristique de ladite bactérie, c’est qu’il y a rien de tel au monde qu’une bactérie pour pouvoir être infectée.
 
 <!-- id: s21-12-0154 -->
 
@@ -632,11 +632,15 @@ Et le lien que fait...
 
 <!-- id: s21-12-0156 -->
 
-> « *que fait* » : il le fait pas, ça se dégage ...mais enfin c’est certain que le fait que, comme son nom l’indique, Jacob soit juif, c’est certainement pas pour rien que son rapport...
+<div class="text-quotation">
+
+« *que fait* » : il le fait pas, ça se dégage ...mais enfin c’est certain que le fait que, comme son nom l’indique, Jacob soit juif, c’est certainement pas pour rien que son rapport...
+
+</div>
 
 <!-- id: s21-12-0157 -->
 
-> rapport d’expé­riences accumulées, minutieuses, foisonnantes ...que son rapport sur ce qui se passe entre la bactérie et le bactériophage, ce soit là que nous puissions prendre le « *sentiment* » disons, que de son infection par le bactériophage, la bactérie *jouisse*, éventuellement.
+rapport d’expé­riences accumulées, minutieuses, foisonnantes ...que son rapport sur ce qui se passe entre la bactérie et le bactériophage, ce soit là que nous puissions prendre le « *sentiment* » disons, que de son infection par le bactériophage, la bactérie *jouisse*, éventuellement.
 
 <!-- id: s21-12-0158 -->
 
@@ -644,15 +648,15 @@ Et si on y regarde de bien près...
 
 <!-- id: s21-12-0159 -->
 
-> enfin, reportez-vous au texte, moi je vous l’indique, ça va en faire un second qu’il va vous falloir vous fourrer
->
-> dans les poches. Seulement celui-là il est très difficile à trouver, il est archi-épuisé ce machin-là, il est paru en Amérique. C’est emmerdant ! Ce serait tout de même pas mal que vous vous en fassiez tirer des photo­copies.
->
-> Il y en a aussi peut-être un en français qui circule, mais je peux pas vous dire, moi, je ne m’y suis pas précipité,
->
-> puisque j’ai lu la chose en anglais, enfin, il y en a aussi un en français, dont je sais même pas encore s’il se trouve.
->
-> Vous voyez quelle est ma bienfaisance, je vous l’indique au moment où vous allez donc me faire la plus effroyable concurrence si je veux me le procurer. Enfin tant pis, il y a toujours la photocopie ...c’est en fin de compte de là que se touche le joint, un joint qui est très particulier.
+enfin, reportez-vous au texte, moi je vous l’indique, ça va en faire un second qu’il va vous falloir vous fourrer
+
+dans les poches. Seulement celui-là il est très difficile à trouver, il est archi-épuisé ce machin-là, il est paru en Amérique. C’est emmerdant ! Ce serait tout de même pas mal que vous vous en fassiez tirer des photo­copies.
+
+Il y en a aussi peut-être un en français qui circule, mais je peux pas vous dire, moi, je ne m’y suis pas précipité,
+
+puisque j’ai lu la chose en anglais, enfin, il y en a aussi un en français, dont je sais même pas encore s’il se trouve.
+
+Vous voyez quelle est ma bienfaisance, je vous l’indique au moment où vous allez donc me faire la plus effroyable concurrence si je veux me le procurer. Enfin tant pis, il y a toujours la photocopie ...c’est en fin de compte de là que se touche le joint, un joint qui est très particulier.
 
 <!-- id: s21-12-0160 -->
 
@@ -660,7 +664,7 @@ Si Jacob par là manifeste qu’il y a sexe au niveau de la bacté­rie, il ne l
 
 <!-- id: s21-12-0161 -->
 
-> soit de ce fameux *escherichia coli* qui a servi de matériel de laboratoire à ce niveau-là ...qu’entre deux muta­tions de bactéries de la même provenance, ce qui constitue le sexe, c’est qu’entre ces mutations il n’y ait pas de rapport possible.
+soit de ce fameux *escherichia coli* qui a servi de matériel de laboratoire à ce niveau-là ...qu’entre deux muta­tions de bactéries de la même provenance, ce qui constitue le sexe, c’est qu’entre ces mutations il n’y ait pas de rapport possible.
 
 <!-- id: s21-12-0162 -->
 
@@ -688,7 +692,7 @@ C’est donc essentiellement du non-rapport entre deux rameaux...
 
 <!-- id: s21-12-0168 -->
 
-> nous le retrouvons notre petit arbre ...c’est donc du non-rapport entre deux rameaux d’un même arbre, que pour la première fois se suggère, au niveau de la bactérie, l’idée qu’il y a une spécification sexuelle.
+nous le retrouvons notre petit arbre ...c’est donc du non-rapport entre deux rameaux d’un même arbre, que pour la première fois se suggère, au niveau de la bactérie, l’idée qu’il y a une spécification sexuelle.
 
 <!-- id: s21-12-0169 -->
 
@@ -700,7 +704,7 @@ Parce qu’en somme ce que ça veut dire, c’est que dans sa 1<sup>ère</sup> a
 
 <!-- id: s21-12-0171 -->
 
-> qui n’a d’ailleurs, strictement rien à faire avec sa 2<sup>nde</sup> apparition qui est une pure homologie ...la sexualité ce n’est pas du tout la même chose, mais que ça puisse être à l’occasion à un niveau de l’arbre, une chose liée à l’infection et à rien d’autre, c’est quand même digne de nous retenir.
+qui n’a d’ailleurs, strictement rien à faire avec sa 2<sup>nde</sup> apparition qui est une pure homologie ...la sexualité ce n’est pas du tout la même chose, mais que ça puisse être à l’occasion à un niveau de l’arbre, une chose liée à l’infection et à rien d’autre, c’est quand même digne de nous retenir.
 
 <!-- id: s21-12-0172 -->
 
@@ -732,7 +736,7 @@ C’est quand même pas difficile à sentir, *la jouis­sance*, elle fait irrupt
 
 <!-- id: s21-12-0179 -->
 
-> qui sera plus tard, parce qu’il faut quand même bien sérier les choses ...où la question se retourne : le *Réel*, qu’a-t-il à répondre si *la jouis­sance* l’interroge ?
+qui sera plus tard, parce qu’il faut quand même bien sérier les choses ...où la question se retourne : le *Réel*, qu’a-t-il à répondre si *la jouis­sance* l’interroge ?
 
 <!-- id: s21-12-0180 -->
 
@@ -740,7 +744,7 @@ Et c’est en quoi je commence...
 
 <!-- id: s21-12-0181 -->
 
-> là vous voyez le lien ...en quoi je commence à poser la question : le savoir c’est pas pareil que la jouissance ?
+là vous voyez le lien ...en quoi je commence à poser la question : le savoir c’est pas pareil que la jouissance ?
 
 <!-- id: s21-12-0182 -->
 
@@ -764,7 +768,7 @@ Je dirai même plus, la réponse telle que je viens de l’accentuer...
 
 <!-- id: s21-12-0187 -->
 
-> l’*inconscient* au sens de Freud ...c’est au nom de quoi je pose la question du *savoir dans le Réel*.
+l’*inconscient* au sens de Freud ...c’est au nom de quoi je pose la question du *savoir dans le Réel*.
 
 <!-- id: s21-12-0188 -->
 
@@ -872,7 +876,7 @@ C’est que ce à quoi il s’en prend...
 
 <!-- id: s21-12-0214 -->
 
-> il s’en prend pour répondre à la question qui est celle que je pose mainte­nant : « *y a-t-il du savoir dans le Réel* ? » ...il s’en prend au savoir de l’arti­san.
+il s’en prend pour répondre à la question qui est celle que je pose mainte­nant : « *y a-t-il du savoir dans le Réel* ? » ...il s’en prend au savoir de l’arti­san.
 
 <!-- id: s21-12-0215 -->
 
@@ -932,7 +936,7 @@ C’est Aristote qui lui flanque ça sur le dos :
 
 <!-- id: s21-12-0229 -->
 
-> pour prendre les choses au niveau d’où ça sort, c’est-à-dire *le pot* ...c’est comme ça que c’est sorti, non pas bien sûr qu’ils savaient faire que ça les Grecs, ils savaient faire des machins beaucoup plus compliqués, mais tout ça, ça sort *du pot*.
+pour prendre les choses au niveau d’où ça sort, c’est-à-dire *le pot* ...c’est comme ça que c’est sorti, non pas bien sûr qu’ils savaient faire que ça les Grecs, ils savaient faire des machins beaucoup plus compliqués, mais tout ça, ça sort *du pot*.
 
 <!-- id: s21-12-0230 -->
 
@@ -952,7 +956,7 @@ Et si on lui achète pas son pot...
 
 <!-- id: s21-12-0234 -->
 
-> et ça c’est le client qui l’a à sa jugeote - ...si on lui achète pas son pot, ben il en est pour sa *jouissance*, c’est-à-dire qu’il reste avec, et que ça ne va pas très loin.
+et ça c’est le client qui l’a à sa jugeote - ...si on lui achète pas son pot, ben il en est pour sa *jouissance*, c’est-à-dire qu’il reste avec, et que ça ne va pas très loin.
 
 <!-- id: s21-12-0235 -->
 
@@ -968,9 +972,9 @@ Là vous pouvez voir...
 
 <!-- id: s21-12-0238 -->
 
-> à ce niveau-là parce qu’il y a des raisons pour que dans cette zone
->
-> on puisse encore voir les pots au moment de leur sur­gissement ...il est tout à fait clair que...
+à ce niveau-là parce qu’il y a des raisons pour que dans cette zone
+
+on puisse encore voir les pots au moment de leur sur­gissement ...il est tout à fait clair que...
 
 <!-- id: s21-12-0239 -->
 
@@ -1014,7 +1018,7 @@ Je vous en parle parce que si c’est le client qui finalement a à juger du pot
 
 <!-- id: s21-12-0249 -->
 
-> faute de quoi le potier il peut se mettre la cein­ture ...ça nous démontre quelque chose, c’est que c’est le client qui non seulement achète le pot, mais qui - l’artisan - le « *potière* », si je puis m’ex­primer ainsi.
+faute de quoi le potier il peut se mettre la cein­ture ...ça nous démontre quelque chose, c’est que c’est le client qui non seulement achète le pot, mais qui - l’artisan - le « *potière* », si je puis m’ex­primer ainsi.
 
 <!-- id: s21-12-0250 -->
 
@@ -1046,11 +1050,11 @@ Parce que ça, c’est ce qu’on a rencontré le jour où du *Réel* on a réus
 
 <!-- id: s21-12-0257 -->
 
-> le *Réel* au moins de la gravitation, c’est-à-dire pas rien quand même, puisque nous y sommes tous vissés
->
-> à cette gravitation et rien de moins que par notre corps, jusqu’à nouvel ordre,
->
-> non pas que c’en soit une propriété, comme l’a bien démontré la suite, mais on y est vissés à ce *Réel* ...et là qu’est-ce que c’est qui a tracassé les gens au moment de Newton ?
+le *Réel* au moins de la gravitation, c’est-à-dire pas rien quand même, puisque nous y sommes tous vissés
+
+à cette gravitation et rien de moins que par notre corps, jusqu’à nouvel ordre,
+
+non pas que c’en soit une propriété, comme l’a bien démontré la suite, mais on y est vissés à ce *Réel* ...et là qu’est-ce que c’est qui a tracassé les gens au moment de Newton ?
 
 <!-- id: s21-12-0258 -->
 
@@ -1058,7 +1062,7 @@ Parce que ça, c’est ce qu’on a rencontré le jour où du *Réel* on a réus
 
 <!-- id: s21-12-0259 -->
 
-> c’est le cas de le dire : « *les masses »* ...comment ces masses pouvaient-elles savoir à quelle distance elles étaient des autres masses pour qu’elles observent la loi de Newton ? Il est absolument clair qu’il faut Dieu, là.
+c’est le cas de le dire : « *les masses »* ...comment ces masses pouvaient-elles savoir à quelle distance elles étaient des autres masses pour qu’elles observent la loi de Newton ? Il est absolument clair qu’il faut Dieu, là.
 
 <!-- id: s21-12-0260 -->
 
@@ -1066,7 +1070,7 @@ On ne peut pas tout de même prétendre que les masses...
 
 <!-- id: s21-12-0261 -->
 
-> les masses comme telles, c’est-à-dire définies par leur seule inertie ...par où leur viendrait la notion de la distance à laquelle elles sont des autres masses ?
+les masses comme telles, c’est-à-dire définies par leur seule inertie ...par où leur viendrait la notion de la distance à laquelle elles sont des autres masses ?
 
 <!-- id: s21-12-0262 -->
 
@@ -1110,9 +1114,9 @@ Faut pas vous imaginer que parce qu’Einstein est venu après et en a remis un 
 
 <!-- id: s21-12-0272 -->
 
-> car il y a un bout de temps qu’on avait pu le dire qu’après tout Dieu c’était l’espace absolu,
->
-> enfin ça c’est des badinages, bon ...mais la relati­vation de cet espace par rapport à la lumière, ça vous a une drôle de touche de « *fiat lux »*, et ça a tout l’air de recommencer à se foutre le cul dans « *la mousse religieuse »*. Alors, n’exagérons rien.
+car il y a un bout de temps qu’on avait pu le dire qu’après tout Dieu c’était l’espace absolu,
+
+enfin ça c’est des badinages, bon ...mais la relati­vation de cet espace par rapport à la lumière, ça vous a une drôle de touche de « *fiat lux »*, et ça a tout l’air de recommencer à se foutre le cul dans « *la mousse religieuse »*. Alors, n’exagérons rien.
 
 <!-- id: s21-12-0273 -->
 
@@ -1120,7 +1124,7 @@ C’est peut-être là, vous comprenez...
 
 <!-- id: s21-12-0274 -->
 
-> c’est comme ça en tout cas que pour aujour­d’hui je me limiterai ...ce que fait surgir l’analyste.
+c’est comme ça en tout cas que pour aujour­d’hui je me limiterai ...ce que fait surgir l’analyste.
 
 <!-- id: s21-12-0275 -->
 

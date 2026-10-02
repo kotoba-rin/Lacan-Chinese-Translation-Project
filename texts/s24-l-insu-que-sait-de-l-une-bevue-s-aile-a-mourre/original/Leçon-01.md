@@ -26,7 +26,7 @@ J’ai dit qu’il y avait...
 
 <!-- id: s24-01-0006 -->
 
-> au sens de l’usage en français du parti­tif ...qu’il y avait « *de l’une-bévue* ». C’est une façon aussi bonne de tra­duire l’*Unbewußt* que n’importe quelle autre, que *l’inconscient* en par­ticulier, qui en français, et en allemand aussi d’ailleurs, équivoque avec inconscience.
+au sens de l’usage en français du parti­tif ...qu’il y avait « *de l’une-bévue* ». C’est une façon aussi bonne de tra­duire l’*Unbewußt* que n’importe quelle autre, que *l’inconscient* en par­ticulier, qui en français, et en allemand aussi d’ailleurs, équivoque avec inconscience.
 
 <!-- id: s24-01-0007 -->
 
@@ -46,7 +46,7 @@ On se reconnaît dans le trait d’esprit...
 
 <!-- id: s24-01-0011 -->
 
-> parce que le trait d’esprit tient à ce que j’ai appelé *lalangue* ...on se reconnaît dans le trait d’esprit, on y glisse...
+parce que le trait d’esprit tient à ce que j’ai appelé *lalangue* ...on se reconnaît dans le trait d’esprit, on y glisse...
 
 <!-- id: s24-01-0012 -->
 
@@ -90,9 +90,13 @@ D’ailleurs ce « ...*fication* » dans le français est en allemand autrement
 
 <!-- id: s24-01-0022 -->
 
-> « *je ne me souve­nais pas* » : je me souvenais quand même de ce qu’il y avait dans le cha­pitre,
->
-> je ne savais pas que j’y avais consacré une année ...mais je me sou­venais qu’il y a pour Freud, au moins 3 modes d’*identification*, à savoir :
+<div class="text-quotation">
+
+« *je ne me souve­nais pas* » : je me souvenais quand même de ce qu’il y avait dans le cha­pitre,
+
+je ne savais pas que j’y avais consacré une année ...mais je me sou­venais qu’il y a pour Freud, au moins 3 modes d’*identification*, à savoir :
+
+</div>
 
 <!-- id: s24-01-0023 -->
 
@@ -112,7 +116,7 @@ Il appelle ça, il épingle ça de *l’identification* *hystérique*.
 
 <!-- id: s24-01-0027 -->
 
-> j’en avais gardé quand même le souvenir sans savoir que j’avais fait tout un *séminaire* sur l’*identification* ...d’un *trait* que j’ai appelé « *unaire* ».
+j’en avais gardé quand même le souvenir sans savoir que j’avais fait tout un *séminaire* sur l’*identification* ...d’un *trait* que j’ai appelé « *unaire* ».
 
 <!-- id: s24-01-0028 -->
 
@@ -152,7 +156,7 @@ Je ne le crois pas, parce que l’inconscient reste...
 
 <!-- id: s24-01-0037 -->
 
-> je dis « *reste* », je ne dis pas « *reste éternellement* », parce qu’il n’y a aucune éternité ...reste l’*Autre*, c’est de l’*Autre avec un grand A* qu’il s’agit dans l’*inconscient*.
+je dis « *reste* », je ne dis pas « *reste éternellement* », parce qu’il n’y a aucune éternité ...reste l’*Autre*, c’est de l’*Autre avec un grand A* qu’il s’agit dans l’*inconscient*.
 
 <!-- id: s24-01-0038 -->
 
@@ -168,7 +172,7 @@ Est-ce que ça serait ou ça ne serait pas s’*identifier*...
 
 <!-- id: s24-01-0041 -->
 
-> s’*identifier* en prenant ses garanties, une espèce de distance ...s’*identifier* à son *symptôme* ?
+s’*identifier* en prenant ses garanties, une espèce de distance ...s’*identifier* à son *symptôme* ?
 
 <!-- id: s24-01-0042 -->
 
@@ -176,7 +180,7 @@ J’ai avancé que le *symptôme*, ça peut être...
 
 <!-- id: s24-01-0043 -->
 
-> c’est monnayable, c’est courant ...ça peut être *le partenaire sexuel*.
+c’est monnayable, c’est courant ...ça peut être *le partenaire sexuel*.
 
 <!-- id: s24-01-0044 -->
 
@@ -184,11 +188,11 @@ C’est dans la ligne de ce que j’ai proféré...
 
 <!-- id: s24-01-0045 -->
 
-> pro­féré sans que ça vous fasse pousser des cris d’orfraie ...c’est un fait, j’ai proféré que le *symptôme* pris dans ce sens c’est...
+pro­féré sans que ça vous fasse pousser des cris d’orfraie ...c’est un fait, j’ai proféré que le *symptôme* pris dans ce sens c’est...
 
 <!-- id: s24-01-0046 -->
 
-> pour employer le terme de « *connaître* » ...c’est ce qu’on connaît, c’est même ce qu’on connaît le mieux, sans que ça aille très loin.
+pour employer le terme de « *connaître* » ...c’est ce qu’on connaît, c’est même ce qu’on connaît le mieux, sans que ça aille très loin.
 
 <!-- id: s24-01-0047 -->
 
@@ -412,9 +416,9 @@ Mais vous allez voir qu’il suffit de le retourner...
 
 <!-- id: s24-01-0102 -->
 
-> non pas comme se retourne une sphère, parce qu’un tore ça se retourne d’une toute autre façon.
->
-> Si ici, par exemple, je me mets à imaginer que c’est une sphère qui est à l’intérieur d’une autre sphère :
+non pas comme se retourne une sphère, parce qu’un tore ça se retourne d’une toute autre façon.
+
+Si ici, par exemple, je me mets à imaginer que c’est une sphère qui est à l’intérieur d’une autre sphère :
 
 <!-- id: s24-01-0103 -->
 
@@ -422,9 +426,9 @@ Mais vous allez voir qu’il suffit de le retourner...
 
 <!-- id: s24-01-0104 -->
 
-> je n’obtiens rien qui ressemble à ce que je vais essayer de vous faire sentir maintenant.
->
-> Si je fais un trou dans l’autre sphère, cette sphère-là va sortir comme un *grelot* ...mais c<sup>’</sup>est un tore, c’est-à-dire qu<sup>’</sup>il va se comporter autrement.
+je n’obtiens rien qui ressemble à ce que je vais essayer de vous faire sentir maintenant.
+
+Si je fais un trou dans l’autre sphère, cette sphère-là va sortir comme un *grelot* ...mais c<sup>’</sup>est un tore, c’est-à-dire qu<sup>’</sup>il va se comporter autrement.
 
 <!-- id: s24-01-0105 -->
 
@@ -432,7 +436,7 @@ Il suffirait que vous preniez une simple chambre à air, une chambre à air d’
 
 <!-- id: s24-01-0106 -->
 
-> vous voyez comme j’ai de la peine à les manipuler ...prête à cette façon de s’enfiler si je puis dire, dans ce qu’offre à lui d’issue, la coupure que nous avons pra­tiquée ici, et que si je devais poursuivre, à supposer que la coupure vien­ne ici se rabattre, s’inverser, si l’on peut dire, ce que vous allez obtenir est ceci qui est différent, différent en apparence, du tore.
+vous voyez comme j’ai de la peine à les manipuler ...prête à cette façon de s’enfiler si je puis dire, dans ce qu’offre à lui d’issue, la coupure que nous avons pra­tiquée ici, et que si je devais poursuivre, à supposer que la coupure vien­ne ici se rabattre, s’inverser, si l’on peut dire, ce que vous allez obtenir est ceci qui est différent, différent en apparence, du tore.
 
 <!-- id: s24-01-0107 -->
 
@@ -476,7 +480,7 @@ Si vous, sur l’un de ces *tores couplés* de la même façon...
 
 <!-- id: s24-01-0117 -->
 
-> ceci va nous conduire à autre chose ...sur un de ces *tores couplés* vous pratiquez la manipulation que je vous ai expliquée ici, à savoir que vous y fassiez une coupure :
+ceci va nous conduire à autre chose ...sur un de ces *tores couplés* vous pratiquez la manipulation que je vous ai expliquée ici, à savoir que vous y fassiez une coupure :
 
 <!-- id: s24-01-0118 -->
 
@@ -500,7 +504,7 @@ Alors que pour désigner celui-ci \[*en jaune*\] comme étant celui autour duque
 
 <!-- id: s24-01-0123 -->
 
-> son extérieur tel qu’il se pose dans la boucle ...il a son extérieur toujours à la même place. Il y a donc eu de l’un d’entre eux, retournement.
+son extérieur tel qu’il se pose dans la boucle ...il a son extérieur toujours à la même place. Il y a donc eu de l’un d’entre eux, retournement.
 
 <!-- id: s24-01-0124 -->
 
@@ -520,7 +524,7 @@ Il est tout à fait remarquable que ce qui est ici, n’ait pas...
 
 <!-- id: s24-01-0128 -->
 
-> quoique ce soit littéralement un tore ...n’ait pas la même forme, à savoir que ça se présente comme *une trique*.
+quoique ce soit littéralement un tore ...n’ait pas la même forme, à savoir que ça se présente comme *une trique*.
 
 <!-- id: s24-01-0129 -->
 
@@ -576,7 +580,7 @@ C’est-à-dire que quelque chose qui se manifestera dans le tore par 2 coupures
 
 <!-- id: s24-01-0142 -->
 
-> et non pas en fermant la coupure unique, celle que j’ai faite ici ...c’est en joignant 2 coupures que nous obtiendrons cette *trique* que j’ai appellé de ce terme, encore que ce soit un tore.
+et non pas en fermant la coupure unique, celle que j’ai faite ici ...c’est en joignant 2 coupures que nous obtiendrons cette *trique* que j’ai appellé de ce terme, encore que ce soit un tore.
 
 <!-- id: s24-01-0143 -->
 
@@ -584,7 +588,7 @@ Voilà ce qu’aujourd’hui... et je conviens que ce n’est pas nourritu­re f
 
 <!-- id: s24-01-0144 -->
 
-> à savoir dans le 2<sup>ème</sup> mardi de Décembre, ...ce que j’aimerais entendre la prochaine fois, de quiconque d’entre vous, c’est la façon dont, de ces 2 modes de repliement du tore, y étant adjoint un 3<sup>ème</sup>, qui - lui - est celui-ci :
+à savoir dans le 2<sup>ème</sup> mardi de Décembre, ...ce que j’aimerais entendre la prochaine fois, de quiconque d’entre vous, c’est la façon dont, de ces 2 modes de repliement du tore, y étant adjoint un 3<sup>ème</sup>, qui - lui - est celui-ci :
 
 <!-- id: s24-01-0145 -->
 

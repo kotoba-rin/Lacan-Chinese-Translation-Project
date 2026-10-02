@@ -46,11 +46,11 @@ Et ce rond de ficelle retourné comme tore donne le même résultat.
 
 <!-- id: s25-02-0011 -->
 
-> qui est pourtant un tore ...chacun des ronds de ficelle...
+qui est pourtant un tore ...chacun des ronds de ficelle...
 
 <!-- id: s25-02-0012 -->
 
-> dont je vous le répète qu’il est également un tore ...chacun de ces ronds de ficelle fonctionne de la façon que Soury a formulée sous la forme de ce dessin.
+dont je vous le répète qu’il est également un tore ...chacun de ces ronds de ficelle fonctionne de la façon que Soury a formulée sous la forme de ce dessin.
 
 <!-- id: s25-02-0013 -->
 
@@ -226,7 +226,7 @@ Il est tout à fait clair...
 
 <!-- id: s25-02-0056 -->
 
-> ceci se voit sur la 2<sup>ème</sup> figu­re ...il est tout à fait clair que c’est la même chose, je veux dire qu’à rompre selon un tracé qui est celui-ci \[*concentrique*\], le nœud borroméen à 3 se dissout : car il est tout à fait clair que même à l’état de tore, les 2 figures que vous voyez là *se dissolvent*, je veux dire *se séparent*, si le tore retourné est coupé dans le sens que j’ai appelé *longitudinal* \[*concentrique*\], alors que l’autre sens: le *transversal* \[*perpendiculaire*\] ne libère pas le tore à 3, par contre le *longitudinal* le libère. Ιl y a donc le même choix à faire sur le tore retourné, selon le cas où l’on veut et où l’on ne veut pas, dis­soudre le *nœud borroméen*.
+ceci se voit sur la 2<sup>ème</sup> figu­re ...il est tout à fait clair que c’est la même chose, je veux dire qu’à rompre selon un tracé qui est celui-ci \[*concentrique*\], le nœud borroméen à 3 se dissout : car il est tout à fait clair que même à l’état de tore, les 2 figures que vous voyez là *se dissolvent*, je veux dire *se séparent*, si le tore retourné est coupé dans le sens que j’ai appelé *longitudinal* \[*concentrique*\], alors que l’autre sens: le *transversal* \[*perpendiculaire*\] ne libère pas le tore à 3, par contre le *longitudinal* le libère. Ιl y a donc le même choix à faire sur le tore retourné, selon le cas où l’on veut et où l’on ne veut pas, dis­soudre le *nœud borroméen*.
 
 <!-- id: s25-02-0057 -->
 

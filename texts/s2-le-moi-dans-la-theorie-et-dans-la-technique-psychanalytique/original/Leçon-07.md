@@ -102,7 +102,7 @@ Un esprit aussi peu porté dans ses choix à par­tir de positions philosophique
 
 <!-- id: s2-07-0025 -->
 
-> Mettons - et je ne demande qu’à l’admettre - que c’est son expérience de l’homme qui l’oriente et le dirige
+Mettons - et je ne demande qu’à l’admettre - que c’est son expérience de l’homme qui l’oriente et le dirige
 
 <!-- id: s2-07-0026 -->
 
@@ -110,7 +110,7 @@ Un esprit aussi peu porté dans ses choix à par­tir de positions philosophique
 
 <!-- id: s2-07-0027 -->
 
-> qu’il a tout d’un coup situé dans le registre d’un certain type de souffrance et de maladie de l’homme
+qu’il a tout d’un coup situé dans le registre d’un certain type de souffrance et de maladie de l’homme
 
 <!-- id: s2-07-0028 -->
 
@@ -122,9 +122,9 @@ Pour ne pas l’apporter \[...\] toute pensée de progrès immanent au mouvemen
 
 <!-- id: s2-07-0030 -->
 
-> là nous retrouvons même la *Gestalt,* mais justement dans son ambiguïté,
->
-> c’est-à-dire au point où le mot *Gestalt* rejoint le mot *forme* dans son sens le plus ample
+là nous retrouvons même la *Gestalt,* mais justement dans son ambiguïté,
+
+c’est-à-dire au point où le mot *Gestalt* rejoint le mot *forme* dans son sens le plus ample
 
 <!-- id: s2-07-0031 -->
 
@@ -180,7 +180,7 @@ Je vous ai indiqué…
 
 <!-- id: s2-07-0044 -->
 
-> je ne veux pas vous mener aujourd’hui trop tard, et j’es­saierai de vous donner des lignes générales à l’intérieur desquelles, pendant la suite, par les commentaires de textes dont le premier indiqué est celui que j’ai confié aujourd’hui à ANZIEU, ces commentaires devront trouver leur place
+je ne veux pas vous mener aujourd’hui trop tard, et j’es­saierai de vous donner des lignes générales à l’intérieur desquelles, pendant la suite, par les commentaires de textes dont le premier indiqué est celui que j’ai confié aujourd’hui à ANZIEU, ces commentaires devront trouver leur place
 
 <!-- id: s2-07-0045 -->
 
@@ -220,9 +220,9 @@ Parce que « *le plus bas* » peut vouloir dire deux choses, tous les biologis
 
 <!-- id: s2-07-0054 -->
 
-> il n’y a pas plus basse tension à laquelle on puisse arriver que la mort, toutes les tensions seront ramenées
->
-> \- du point de vue de l’être vivant - à zéro.
+il n’y a pas plus basse tension à laquelle on puisse arriver que la mort, toutes les tensions seront ramenées
+
+\- du point de vue de l’être vivant - à zéro.
 
 <!-- id: s2-07-0055 -->
 
@@ -294,7 +294,7 @@ L’*entropie*, c’est un grand E absolument indispen­sable à notre pensée, 
 
 <!-- id: s2-07-0072 -->
 
-> parfois les voies de la pensée sont obscures, celles du Seigneur sont insondables
+parfois les voies de la pensée sont obscures, celles du Seigneur sont insondables
 
 <!-- id: s2-07-0073 -->
 
@@ -310,9 +310,9 @@ Je crois que *l’organicisme com­mun* est une stupidité, mais qu’il y en a 
 
 <!-- id: s2-07-0076 -->
 
-> sinon en toute vérité car la vérité ça demande justement une certaine réflexion
->
-> d’en rechercher les traces dans l’expérience
+sinon en toute vérité car la vérité ça demande justement une certaine réflexion
+
+d’en rechercher les traces dans l’expérience
 
 <!-- id: s2-07-0077 -->
 
@@ -332,11 +332,11 @@ Mais *La pensée moderne* est en train d’essayer d’attraper par des voies so
 
 <!-- id: s2-07-0081 -->
 
-> mais dont vous ne pouvez pas mécon­naître que vous êtes contemporains de son accouchement, et je dirai plus, vous êtes tous en train, pour autant que vous êtes ici en train de suivre mon séminai­re, de basculer dans
->
-> cet accouchement lui-même, dans ce quelque chose essentiellement lié dans cette dimension
->
-> dans laquelle la pensée essaie de s’ordonner
+mais dont vous ne pouvez pas mécon­naître que vous êtes contemporains de son accouchement, et je dirai plus, vous êtes tous en train, pour autant que vous êtes ici en train de suivre mon séminai­re, de basculer dans
+
+cet accouchement lui-même, dans ce quelque chose essentiellement lié dans cette dimension
+
+dans laquelle la pensée essaie de s’ordonner
 
 <!-- id: s2-07-0082 -->
 
@@ -400,7 +400,11 @@ Et c’est bien une objection que nous aurions pu faire hier soir à M. MERLEAU-
 
 <!-- id: s2-07-0097 -->
 
-> « *Si on ne peut pas par­ler avec eux, le fond du langage s’évanouit, et le fond du langage c’est d’être uni­versel.* »
+<div class="text-quotation">
+
+« *Si on ne peut pas par­ler avec eux, le fond du langage s’évanouit, et le fond du langage c’est d’être uni­versel.* »
+
+</div>
 
 <!-- id: s2-07-0098 -->
 
@@ -440,7 +444,7 @@ Et même, de temps en temps, les ana­lystes, désespérés tout de même d’av
 
 <!-- id: s2-07-0107 -->
 
-> il n’y a qu’à regarder comment ça se passe : un jeune animal qui est là, qui a l’air si content de vivre
+il n’y a qu’à regarder comment ça se passe : un jeune animal qui est là, qui a l’air si content de vivre
 
 <!-- id: s2-07-0108 -->
 
@@ -484,9 +488,9 @@ Il s’agit :
 
 <!-- id: s2-07-0118 -->
 
-> à son temps, à une certaine maturi­té, à donner à chacune de ces étapes son temps de jeu,
->
-> puis en somme ensuite son temps d’adaptation, de stabilisation, jusqu’à ce que la nouvelle émergence vitale.
+à son temps, à une certaine maturi­té, à donner à chacune de ces étapes son temps de jeu,
+
+puis en somme ensuite son temps d’adaptation, de stabilisation, jusqu’à ce que la nouvelle émergence vitale.
 
 <!-- id: s2-07-0119 -->
 
@@ -554,7 +558,11 @@ Ceci alors - tout de même ne nous plaçons pas là au niveau de l’être et de
 
 <!-- id: s2-07-0135 -->
 
-> « *Faites surtout bien attention à ne pas comprendre le malade, il n’y a rien qui vous perde comme ça.* »
+<div class="text-quotation">
+
+« *Faites surtout bien attention à ne pas comprendre le malade, il n’y a rien qui vous perde comme ça.* »
+
+</div>
 
 <!-- id: s2-07-0136 -->
 
@@ -562,7 +570,11 @@ Le malade vous dit une chose que vous me rappor­tez, qui n’a ni queue ni têt
 
 <!-- id: s2-07-0137 -->
 
-> « *Eh bien j’ai compris -* me dit-on *- qu’il voulait dire ça.* »
+<div class="text-quotation">
+
+« *Eh bien j’ai compris -* me dit-on *- qu’il voulait dire ça.* »
+
+</div>
 
 <!-- id: s2-07-0138 -->
 
@@ -582,9 +594,9 @@ Eh bien, une fois de plus, c’est à une certaine distance que nous allons trou
 
 <!-- id: s2-07-0142 -->
 
-> ce qui, je vous l’indique en passant, a le plus étroit rapport avec un certain M. KIERKEGAARD,
->
-> qui était, comme vous le savez, un humoriste
+ce qui, je vous l’indique en passant, a le plus étroit rapport avec un certain M. KIERKEGAARD,
+
+qui était, comme vous le savez, un humoriste
 
 <!-- id: s2-07-0143 -->
 
@@ -640,7 +652,7 @@ Le sceau est aussi une machine, simplement on ne s’en aperçoit pas. Le sceau 
 
 <!-- id: s2-07-0156 -->
 
-> et ce sont des machines qui ne seraient pas du tout conformes au génie de ces récentes machines
+et ce sont des machines qui ne seraient pas du tout conformes au génie de ces récentes machines
 
 <!-- id: s2-07-0157 -->
 
@@ -704,7 +716,7 @@ Mais l’important est ceci : revenez à ce que nous disions la dernière fois,
 
 <!-- id: s2-07-0172 -->
 
-> on ne l’a pas appelé depuis, car on est engagé dans une voie où on aboutira à des absurdités
+on ne l’a pas appelé depuis, car on est engagé dans une voie où on aboutira à des absurdités
 
 <!-- id: s2-07-0173 -->
 
@@ -712,7 +724,7 @@ Mais l’important est ceci : revenez à ce que nous disions la dernière fois,
 
 <!-- id: s2-07-0174 -->
 
-> dans ce par quoi des choses s’accomplissent, très importantes, dans l’ordre du transfert chez *deux patients* corrélativement, soit que l’un soit en analyse ou l’autre à peine touché, soit que les deux soient en analyse, mais dont je vous ai montré en son temps, tout au moins pour ceux qui ont assisté à ces commentaires de textes-là
+dans ce par quoi des choses s’accomplissent, très importantes, dans l’ordre du transfert chez *deux patients* corrélativement, soit que l’un soit en analyse ou l’autre à peine touché, soit que les deux soient en analyse, mais dont je vous ai montré en son temps, tout au moins pour ceux qui ont assisté à ces commentaires de textes-là
 
 <!-- id: s2-07-0175 -->
 

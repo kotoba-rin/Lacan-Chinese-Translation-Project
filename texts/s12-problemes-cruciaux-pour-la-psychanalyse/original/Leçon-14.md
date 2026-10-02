@@ -106,7 +106,7 @@ Ici l’expérience psychanalytique ne laisse aucun doute sur la conclusion : c
 
 <!-- id: s12-14-0026 -->
 
-> et j’ai dit le *Nom du Père* car nous savons que pour ce qui est du père réel, c’est-à-dire du père dans sa référence irréductible à la position de l’enfant, ce père là est déjà mort depuis longtemps « *selon le vœu du sujet* » \[Cf. Séminaire 1958-59 : *Le désir*...\] …c’est donc dans la mesure où le *Nom du Père* garde quelque sens pour le sujet que quelque chose justement peut venir de l’inconscient et se fraie son chemin vers la conscience.
+et j’ai dit le *Nom du Père* car nous savons que pour ce qui est du père réel, c’est-à-dire du père dans sa référence irréductible à la position de l’enfant, ce père là est déjà mort depuis longtemps « *selon le vœu du sujet* » \[Cf. Séminaire 1958-59 : *Le désir*...\] …c’est donc dans la mesure où le *Nom du Père* garde quelque sens pour le sujet que quelque chose justement peut venir de l’inconscient et se fraie son chemin vers la conscience.
 
 <!-- id: s12-14-0027 -->
 
@@ -126,7 +126,7 @@ Une autre proposition qui n’a pas été dite ici et sur laquelle, il est tout 
 
 <!-- id: s12-14-0031 -->
 
-> parce que c’est nécessaire pour clarifier ce dont il s’agit dans *le matériel* que nous apporte LECLAIRE, et cela d’autant plus que c’est LECLAIRE lui-même qui est l’auteur de cette proposition …à savoir que la psychanalyse et l’expérience psychanalytique devraient mener le sujet vers ceci : vers quelque chose qui serait comme une transgression ou ressenti comme transgression - je vous le dis en passant : c’est exactement la même chose, mais tout est là - vers une « *rencontre incestueuse* ».
+parce que c’est nécessaire pour clarifier ce dont il s’agit dans *le matériel* que nous apporte LECLAIRE, et cela d’autant plus que c’est LECLAIRE lui-même qui est l’auteur de cette proposition …à savoir que la psychanalyse et l’expérience psychanalytique devraient mener le sujet vers ceci : vers quelque chose qui serait comme une transgression ou ressenti comme transgression - je vous le dis en passant : c’est exactement la même chose, mais tout est là - vers une « *rencontre incestueuse* ».
 
 <!-- id: s12-14-0032 -->
 
@@ -186,9 +186,13 @@ Ce qui arrive, c’est que nous entendons quelquefois des propos comme celui-ci 
 
 <!-- id: s12-14-0046 -->
 
-> « *Au fond, le nom c’est ça : c’est le prénom. Le nom c’est toujours le nom de quelqu’un ou de quelque chose d’autre : c’est le nom du père*
->
-> *ou de famille ou encore le nom du mari, mais mon prénom, c’est mon vrai nom, c’est là que je suis vraiment.* »
+<div class="text-quotation">
+
+« *Au fond, le nom c’est ça : c’est le prénom. Le nom c’est toujours le nom de quelqu’un ou de quelque chose d’autre : c’est le nom du père*
+
+*ou de famille ou encore le nom du mari, mais mon prénom, c’est mon vrai nom, c’est là que je suis vraiment.* »
+
+</div>
 
 <!-- id: s12-14-0047 -->
 
@@ -296,7 +300,7 @@ Je n’ai pas dit ce qu’il a rapporté, à savoir que l’analyse est ressenti
 
 <!-- id: s12-14-0073 -->
 
-> une certaine perspective analytique, à savoir la recherche d’un point singulier, d’un point irréductible, d’un point d’origine, le souvenir oublié, le point focal de l’origine …que la question était posée du rapport entre cette conception disons de l’analyse, ou ce fantasme sur l’analyse, et d’autre part la signification de l’inceste.
+une certaine perspective analytique, à savoir la recherche d’un point singulier, d’un point irréductible, d’un point d’origine, le souvenir oublié, le point focal de l’origine …que la question était posée du rapport entre cette conception disons de l’analyse, ou ce fantasme sur l’analyse, et d’autre part la signification de l’inceste.
 
 <!-- id: s12-14-0074 -->
 
@@ -560,7 +564,7 @@ C’est peut-être sans intérêt, un problème purement grammatical…
 
 <!-- id: s12-14-0139 -->
 
-> *Bibi-lolo* étant un \[signifiant ?\] qui désigne un sujet mais impose un verbe à la troisième personne : « *je suis, donc bibi-lolo est* » …mais ce serait bien remarquable qu’il n’y ait là qu’une curiosité grammaticale et que cette manière de parler n’ait pas des implications subjectives.
+*Bibi-lolo* étant un \[signifiant ?\] qui désigne un sujet mais impose un verbe à la troisième personne : « *je suis, donc bibi-lolo est* » …mais ce serait bien remarquable qu’il n’y ait là qu’une curiosité grammaticale et que cette manière de parler n’ait pas des implications subjectives.
 
 <!-- id: s12-14-0140 -->
 
@@ -584,7 +588,7 @@ Toujours avec l’idée d’apporter, aux questions soulevées par LECLAIRE un �
 
 <!-- id: s12-14-0145 -->
 
-> si indirect que nous ne serons pas facilement assurés de parler de la même chose …je voudrais apporter assez brièvement un fragment d’observation qui porte sur le jeu des éléments phonématiques des noms propres chez un obsessionnel.
+si indirect que nous ne serons pas facilement assurés de parler de la même chose …je voudrais apporter assez brièvement un fragment d’observation qui porte sur le jeu des éléments phonématiques des noms propres chez un obsessionnel.
 
 <!-- id: s12-14-0146 -->
 
@@ -864,7 +868,11 @@ Mais cette prière c’est aussi, certes, d’une part, une invocation à Dieu d
 
 <!-- id: s12-14-0215 -->
 
-> « *Écoute Israël, l’Éternel est notre Dieu, l’Éternel est un.* »
+<div class="text-quotation">
+
+« *Écoute Israël, l’Éternel est notre Dieu, l’Éternel est un.* »
+
+</div>
 
 <!-- id: s12-14-0216 -->
 
@@ -988,7 +996,7 @@ Bien sûr, ce que je viens de dire est encore trop infiltré d’imaginaire pers
 
 <!-- id: s12-14-0246 -->
 
-> qui, comme dit LECLAIRE, fait paraître, apparaître concrètement quelque chose là où il n’y avait rien …à la limite nous trouverions peut–être, même plus un sens mais une pure \[...\] c’est-à-dire un rythme si bien manifesté par le sentiment d’enroulement et de dépliement de Philippe, cet émoi distingué, cette différence exquise qui n’est finalement peut-être que perception de la variation.
+qui, comme dit LECLAIRE, fait paraître, apparaître concrètement quelque chose là où il n’y avait rien …à la limite nous trouverions peut–être, même plus un sens mais une pure \[...\] c’est-à-dire un rythme si bien manifesté par le sentiment d’enroulement et de dépliement de Philippe, cet émoi distingué, cette différence exquise qui n’est finalement peut-être que perception de la variation.
 
 <!-- id: s12-14-0247 -->
 
@@ -1000,7 +1008,11 @@ Ce fantasme nous ramènerait ainsi à une période :
 
 <!-- id: s12-14-0249 -->
 
-> « ...*où toute la terre avait une même langue et des paroles semblables*...
+<div class="text-quotation">
+
+« ...*où toute la terre avait une même langue et des paroles semblables*...
+
+</div>
 
 <!-- id: s12-14-0250 -->
 
@@ -1008,7 +1020,11 @@ Vous reconnaissez la citation. \[Genèse, XI,1\] Mais méfions-nous de cette app
 
 <!-- id: s12-14-0251 -->
 
-> ...*une même langue et des paroles semblables*… »
+<div class="text-quotation">
+
+...*une même langue et des paroles semblables*… »
+
+</div>
 
 <!-- id: s12-14-0252 -->
 
@@ -1016,7 +1032,11 @@ Il faut encore se demander quelles étaient ces paroles et le commentateur - RAC
 
 <!-- id: s12-14-0253 -->
 
-> « *Dieu n’avait pas le droit de choisir pour lui le monde supérieur, montons au ciel et faisons-lui la guerre.* »
+<div class="text-quotation">
+
+« *Dieu n’avait pas le droit de choisir pour lui le monde supérieur, montons au ciel et faisons-lui la guerre.* »
+
+</div>
 
 <!-- id: s12-14-0254 -->
 
@@ -1056,7 +1076,7 @@ Michel FOUCAULT…
 
 <!-- id: s12-14-0263 -->
 
-> qui est pour moi un des ces amis lointains avec qui je sais par expérience que je suis en très proche et très constante correspondance, malgré que je le vois fort peu, en raison de nos occupations réciproques …Michel FOUCAULT que j’ai vu hier soir, je lui ai posé la question à propos de ce livre, la question de savoir s’il avait été par quelque voie, informé - ce n’est pas rare, il y a beaucoup de gens qui écrivent dans notre champ - de la thématique que j’ai développée l’année dernière autour de la vision et du regard [^113]. Il m’a dit qu’il n’en était rien.
+qui est pour moi un des ces amis lointains avec qui je sais par expérience que je suis en très proche et très constante correspondance, malgré que je le vois fort peu, en raison de nos occupations réciproques …Michel FOUCAULT que j’ai vu hier soir, je lui ai posé la question à propos de ce livre, la question de savoir s’il avait été par quelque voie, informé - ce n’est pas rare, il y a beaucoup de gens qui écrivent dans notre champ - de la thématique que j’ai développée l’année dernière autour de la vision et du regard [^113]. Il m’a dit qu’il n’en était rien.
 
 <!-- id: s12-14-0264 -->
 
@@ -1064,7 +1084,7 @@ Il est d’autant plus remarquable que l’œuvre de Michel FOUCAULT - qui se tr
 
 <!-- id: s12-14-0265 -->
 
-> sans autre repère depuis, qui converge vers cette théorie de *l’objet(a*) qu’il ignore, parlant de la *Naissance de la clinique* …est très exactement ce qui correspond, au niveau de la médecine, à ce point d’interrogation que j’ai porté devant vous comme intimement mêlé au départ cette année de mon discours, se trouve correspondre exactement à cette question.
+sans autre repère depuis, qui converge vers cette théorie de *l’objet(a*) qu’il ignore, parlant de la *Naissance de la clinique* …est très exactement ce qui correspond, au niveau de la médecine, à ce point d’interrogation que j’ai porté devant vous comme intimement mêlé au départ cette année de mon discours, se trouve correspondre exactement à cette question.
 
 <!-- id: s12-14-0266 -->
 

@@ -34,7 +34,7 @@ Pour mettre un titre comme ça, ce que je vais vous dire va être centré, puis
 
 <!-- id: s20-04-0008 -->
 
-> ce que j’ai appelé « *la poubellication* » ...j’ai pas trouvé mieux à écrire, sur la page d’enveloppe de ce recueil, que le mot « *Écrits »*.
+ce que j’ai appelé « *la poubellication* » ...j’ai pas trouvé mieux à écrire, sur la page d’enveloppe de ce recueil, que le mot « *Écrits »*.
 
 <!-- id: s20-04-0009 -->
 
@@ -70,11 +70,11 @@ Il est bien évident pourtant que dans le discours analytique il ne s’agit que
 
 <!-- id: s20-04-0017 -->
 
-> comme je l’ai souligné, je pense, au passage, la dernière fois ...qui est pas tellement de tout dire, que de dire n’importe quoi, et j’ai poussé la chose plus loin : ne pas hésiter, car c’est la règle, ne pas hésiter à dire...
+comme je l’ai souligné, je pense, au passage, la dernière fois ...qui est pas tellement de tout dire, que de dire n’importe quoi, et j’ai poussé la chose plus loin : ne pas hésiter, car c’est la règle, ne pas hésiter à dire...
 
 <!-- id: s20-04-0018 -->
 
-> ce dont j’ai introduit cette année la *dit-mension* comme étant *essentielle au discours analytique* ...à *dire des* *bêtises*. \[**S<sub>1</sub>** « *hors-sens *», « *non-sens *», « *nonsense* »...\]
+ce dont j’ai introduit cette année la *dit-mension* comme étant *essentielle au discours analytique* ...à *dire des* *bêtises*. \[**S<sub>1</sub>** « *hors-sens *», « *non-sens *», « *nonsense* »...\]
 
 <!-- id: s20-04-0019 -->
 
@@ -82,7 +82,7 @@ Il est bien évident pourtant que dans le discours analytique il ne s’agit que
 
 <!-- id: s20-04-0020 -->
 
-> *Discours analytique*
+*Discours analytique*
 
 <!-- id: s20-04-0021 -->
 
@@ -110,11 +110,11 @@ Grâce à quelqu’un qui a repris ce séminaire annoncé, le 1<sup>er</sup> de 
 
 <!-- id: s20-04-0027 -->
 
-> ce qui ne m’est pas souvent réservé puisque comme je vous le dis j’en évite moi-même le risque ...j’ai pu avoir le sentiment...
+ce qui ne m’est pas souvent réservé puisque comme je vous le dis j’en évite moi-même le risque ...j’ai pu avoir le sentiment...
 
 <!-- id: s20-04-0028 -->
 
-> que je rencontre quelquefois à l’épreuve ...que ce que dans cette année là par exemple j’ai avancé, n’était pas si bête, ne l’était pas moins, tant que de m’avoir permis d’avancer d’autres choses, dont il me semble, parce que j’y suis maintenant, qu’elles se tiennent.
+que je rencontre quelquefois à l’épreuve ...que ce que dans cette année là par exemple j’ai avancé, n’était pas si bête, ne l’était pas moins, tant que de m’avoir permis d’avancer d’autres choses, dont il me semble, parce que j’y suis maintenant, qu’elles se tiennent.
 
 <!-- id: s20-04-0029 -->
 
@@ -150,7 +150,7 @@ Une de ces barres \[*traits*\]...
 
 <!-- id: s20-04-0037 -->
 
-> puisqu’il y en a 4 \[*lettres*\], il devrait y en avoir 6: 6 barres \[*traits*\] ...une de ces barres y manque \[◊\].
+puisqu’il y en a 4 \[*lettres*\], il devrait y en avoir 6: 6 barres \[*traits*\] ...une de ces barres y manque \[◊\].
 
 <!-- id: s20-04-0038 -->
 
@@ -182,7 +182,7 @@ C’est dans ce discours, tel qu’il est dans sa fonction et son office, qu’i
 
 <!-- id: s20-04-0045 -->
 
-> c’est aujourd’hui la voie que je prends *...*ce que peut ce discours révèler de la situation très particulière de *<u>l’écrit</u>* quant à ce qui est *du langage*.
+c’est aujourd’hui la voie que je prends *...*ce que peut ce discours révèler de la situation très particulière de *<u>l’écrit</u>* quant à ce qui est *du langage*.
 
 <!-- id: s20-04-0046 -->
 
@@ -258,9 +258,9 @@ J’ai utilisé...
 
 <!-- id: s20-04-0064 -->
 
-> le distinguant \[*le* Φ\] de la fonction seulement signifiante
->
-> qui se promeut dans la théorie analytique jusque-là, du terme du *« phallus »* ...j’ai avancé Φ comme constituant quelque chose d’original, quelque chose que je spécifie ici aujourd’hui :
+le distinguant \[*le* Φ\] de la fonction seulement signifiante
+
+qui se promeut dans la théorie analytique jusque-là, du terme du *« phallus »* ...j’ai avancé Φ comme constituant quelque chose d’original, quelque chose que je spécifie ici aujourd’hui :
 
 <!-- id: s20-04-0065 -->
 
@@ -304,7 +304,7 @@ Je propose... je propose ceci, c’est que vous considériez *<u>l’écrit</u> 
 
 <!-- id: s20-04-0075 -->
 
-> si vous me permettez cette sorte d’expressions qui peuvent avoir bien leur utilité, ...que ce qu’on appelle *« le signifiant »*.
+si vous me permettez cette sorte d’expressions qui peuvent avoir bien leur utilité, ...que ce qu’on appelle *« le signifiant »*.
 
 <!-- id: s20-04-0076 -->
 
@@ -336,9 +336,9 @@ Introduire, distinguer la dimension du signifiant, c’est quelque chose qui ne 
 
 <!-- id: s20-04-0083 -->
 
-> au sens je dirai littéralement *auditif* du terme \[*phonologique*\],
->
-> au moment ou ici, et là où je suis... de là où je suis, je vous parle \[*cf.* « *Je parle avec mon corps* »\] ...c’est poser très précisément ceci, mais par un acte original, *que ce que vous entendez* a avec ce que ça signifie... *n’a avec ce que ça signifie aucun rapport.* \[*dans ce discours l’univocité du signifié exclut ce que la parole pourrait véhiculer d’autre que l’« information »,* → *exclut* *a* (*discours* *scientifique *: S *<sub>→</sub>* S<sub>1</sub> *<sub>→</sub>* S<sub>2</sub> ◊ *a*)\]
+au sens je dirai littéralement *auditif* du terme \[*phonologique*\],
+
+au moment ou ici, et là où je suis... de là où je suis, je vous parle \[*cf.* « *Je parle avec mon corps* »\] ...c’est poser très précisément ceci, mais par un acte original, *que ce que vous entendez* a avec ce que ça signifie... *n’a avec ce que ça signifie aucun rapport.* \[*dans ce discours l’univocité du signifié exclut ce que la parole pourrait véhiculer d’autre que l’« information »,* → *exclut* *a* (*discours* *scientifique *: S *<sub>→</sub>* S<sub>1</sub> *<sub>→</sub>* S<sub>2</sub> ◊ *a*)\]
 
 <!-- id: s20-04-0084 -->
 
@@ -350,7 +350,7 @@ Et ça va même tellement peu de soi que ce que vous voyez sortir d’un dialogu
 
 <!-- id: s20-04-0086 -->
 
-> que nous pouvons dire, d’où nous sommes, être *désespérée* ...pour faire que ce signifiant, de soi-même, soit présumé *vouloir dire quelque chose*. \[*le signifiant, parce qu’il « ressemble » au monde, permet de signifier le monde : ils ont une forme commune.*
+que nous pouvons dire, d’où nous sommes, être *désespérée* ...pour faire que ce signifiant, de soi-même, soit présumé *vouloir dire quelque chose*. \[*le signifiant, parce qu’il « ressemble » au monde, permet de signifier le monde : ils ont une forme commune.*
 
 <!-- id: s20-04-0087 -->
 
@@ -362,11 +362,11 @@ Cette tentative désespérée est d’ailleurs marquée de l’échec puisque c�
 
 <!-- id: s20-04-0089 -->
 
-> mais d’un discours qui comporte sa dimension originale : *discours scientifique* ...qu’il se promeut, qu’il se produit...
+mais d’un discours qui comporte sa dimension originale : *discours scientifique* ...qu’il se promeut, qu’il se produit...
 
 <!-- id: s20-04-0090 -->
 
-> et d’une façon, si je puis dire, dont il n’y a pas à chercher l’histoire ...qu’il se produit, de l’instauration même de ce discours \[*scientifique*\], que le signifiant ne se pose que d’avoir aucun rapport.
+et d’une façon, si je puis dire, dont il n’y a pas à chercher l’histoire ...qu’il se produit, de l’instauration même de ce discours \[*scientifique*\], que le signifiant ne se pose que d’avoir aucun rapport.
 
 <!-- id: s20-04-0091 -->
 
@@ -406,7 +406,7 @@ C’est ainsi qu’à chaque instant...
 
 <!-- id: s20-04-0100 -->
 
-> et plus que jamais dans le cas où il s’agit d’avancer comme *fonction,* ce qu’est un *discours* ...nous devons au moins à chaque fois, à chaque instant, noter ce en quoi nous glissons dans une autre *référence*.
+et plus que jamais dans le cas où il s’agit d’avancer comme *fonction,* ce qu’est un *discours* ...nous devons au moins à chaque fois, à chaque instant, noter ce en quoi nous glissons dans une autre *référence*.
 
 <!-- id: s20-04-0101 -->
 
@@ -422,7 +422,7 @@ Encore faut-il préciser à cette occasion ce que veut dire, ce que veut dire «
 
 <!-- id: s20-04-0104 -->
 
-> bien sûr nous ne pouvons qu’y glisser immédiatement ...c’est *un lien entre ceux qui parlent* \[*chacun des quatre discours* : H, U, M, A, *crée un type de lien*\].
+bien sûr nous ne pouvons qu’y glisser immédiatement ...c’est *un lien entre ceux qui parlent* \[*chacun des quatre discours* : H, U, M, A, *crée un type de lien*\].
 
 <!-- id: s20-04-0105 -->
 
@@ -474,7 +474,7 @@ Je dirai même plus loin, que jusqu’à un certain point, il mérite aussi qu�
 
 <!-- id: s20-04-0117 -->
 
-> et à quelque examen que ce soit, fut-ce le plus approximatif ...ne peut passer pour *conception du monde*.
+et à quelque examen que ce soit, fut-ce le plus approximatif ...ne peut passer pour *conception du monde*.
 
 <!-- id: s20-04-0118 -->
 
@@ -482,7 +482,7 @@ Il est au contraire, par toutes sortes de coordon­nées tout à fait frappantes
 
 <!-- id: s20-04-0119 -->
 
-> ce qui ne se confond pas obligatoirement avec *la conception du monde* marxiste ...c’est à proprement parler autre chose, que j’appel­lerai plus formellement un « *Évangile* », à savoir une *annonce* \[*du grec* εὐαγγέλιον (*évangelion*) : *« bonne nouvelle »*\], une *annonce* que quelque chose qui s’appelle l’Histoire, instaure une autre dimension du discours, en d’autres termes la possibilité de subvertir complètement la fonction du discours comme tel, j’entends à proprement parler du *discours philosophique,* en tant que sur lui repose *une conception du monde* \[*celle du discours du maître*\].
+ce qui ne se confond pas obligatoirement avec *la conception du monde* marxiste ...c’est à proprement parler autre chose, que j’appel­lerai plus formellement un « *Évangile* », à savoir une *annonce* \[*du grec* εὐαγγέλιον (*évangelion*) : *« bonne nouvelle »*\], une *annonce* que quelque chose qui s’appelle l’Histoire, instaure une autre dimension du discours, en d’autres termes la possibilité de subvertir complètement la fonction du discours comme tel, j’entends à proprement parler du *discours philosophique,* en tant que sur lui repose *une conception du monde* \[*celle du discours du maître*\].
 
 <!-- id: s20-04-0120 -->
 
@@ -494,9 +494,9 @@ Ce n’est pas parce que il nous est difficile de ne pas du tout en tenir compte
 
 <!-- id: s20-04-0122 -->
 
-> pour autant que de ce discours - *discours philosophique* - certains points de repère sont énoncés
->
-> et qui sont difficiles à éliminer complètement de tout usage du langage ...ce n’est pas à cause de cela que nous devons à tout prix nous en passer, à condition de nous apercevoir qu’il n’y a rien de plus facile que de retomber dans ce que j’ai appelé ironiquement, voire avec la note comique : *conception du monde*, *c’est ce qui a un nom modéré, bien plus précis et qui s’appelle* *l’ontologie*.
+pour autant que de ce discours - *discours philosophique* - certains points de repère sont énoncés
+
+et qui sont difficiles à éliminer complètement de tout usage du langage ...ce n’est pas à cause de cela que nous devons à tout prix nous en passer, à condition de nous apercevoir qu’il n’y a rien de plus facile que de retomber dans ce que j’ai appelé ironiquement, voire avec la note comique : *conception du monde*, *c’est ce qui a un nom modéré, bien plus précis et qui s’appelle* *l’ontologie*.
 
 <!-- id: s20-04-0123 -->
 
@@ -512,7 +512,7 @@ Pour, si l’on peut dire, la détecter, et même jusqu’à un certain point l�
 
 <!-- id: s20-04-0126 -->
 
-> quand on dit que : « quoi que ce soit*, c’est ce que c’est* » ...d’aucune façon ce « *être* » de l’*isoler*, de l’*accentuer*.
+quand on dit que : « quoi que ce soit*, c’est ce que c’est* » ...d’aucune façon ce « *être* » de l’*isoler*, de l’*accentuer*.
 
 <!-- id: s20-04-0127 -->
 
@@ -520,7 +520,7 @@ Pour, si l’on peut dire, la détecter, et même jusqu’à un certain point l�
 
 <!-- id: s20-04-0128 -->
 
-> à cet usage de la copule ...on n’y verrait, si je puis dire que du feu. On n’y verrait que du feu si un discours, qui est *le discours du maître* \- *discours du maître* qui ici peut aussi bien s’écrire « *m’être* » - ce qui met, ce qui met l’accent sur le verbe « *être* ».
+à cet usage de la copule ...on n’y verrait, si je puis dire que du feu. On n’y verrait que du feu si un discours, qui est *le discours du maître* \- *discours du maître* qui ici peut aussi bien s’écrire « *m’être* » - ce qui met, ce qui met l’accent sur le verbe « *être* ».
 
 <!-- id: s20-04-0129 -->
 
@@ -628,7 +628,7 @@ Un homme cherche une femme au titre...
 
 <!-- id: s20-04-0155 -->
 
-> ça va paraître curieux \[*Rires*\] ...au titre de *ce qui ne se situe que du discours*, puisque si ce que j’avance est vrai, à savoir que la femme n’est *« pas toute »*, il y a toujours *quelque chose qui chez elle échappe au discours.* \[« *ce qui ne se situe que du discours » <u>et</u> ce « qui chez elle échappe au discours » *: *<sub>→</sub> a*\]
+ça va paraître curieux \[*Rires*\] ...au titre de *ce qui ne se situe que du discours*, puisque si ce que j’avance est vrai, à savoir que la femme n’est *« pas toute »*, il y a toujours *quelque chose qui chez elle échappe au discours.* \[« *ce qui ne se situe que du discours » <u>et</u> ce « qui chez elle échappe au discours » *: *<sub>→</sub> a*\]
 
 <!-- id: s20-04-0156 -->
 
@@ -704,9 +704,9 @@ Si on y regarde d’un tout petit peu près, on s’apercevra en particulier que
 
 <!-- id: s20-04-0174 -->
 
-> la négation de *l’existence* \[/\],
->
-> ce n’est pas du tout la même chose que la négation de *la totalité* \[.\], pour me limiter à l’usage que j’ai pu faire de la négation.
+la négation de *l’existence* \[/\],
+
+ce n’est pas du tout la même chose que la négation de *la totalité* \[.\], pour me limiter à l’usage que j’ai pu faire de la négation.
 
 <!-- id: s20-04-0175 -->
 
@@ -738,15 +738,15 @@ Si dans Saussure même, S c’est : *barre* au-dessus de *s *\[S/*s*\] , c’e
 
 <!-- id: s20-04-0182 -->
 
-> d’une façon qui s’*écrit*, rien de plus, n’est-ce pas ...que rien ne se sup­porte des *effets* dits « *de l’inconscient* », si grâce à cette *barre*...
+d’une façon qui s’*écrit*, rien de plus, n’est-ce pas ...que rien ne se sup­porte des *effets* dits « *de l’inconscient* », si grâce à cette *barre*...
 
 <!-- id: s20-04-0183 -->
 
-> s’il n’y avait pas cette barre, rien ne pourrait en être expliqué *...y’a de l’inconsc...* \[*lapsus*\]... y’a du... du signifiant*... y’a du signifiant...*
+s’il n’y avait pas cette barre, rien ne pourrait en être expliqué *...y’a de l’inconsc...* \[*lapsus*\]... y’a du... du signifiant*... y’a du signifiant...*
 
 <!-- id: s20-04-0184 -->
 
-> je répète parce que j’ai écourté *...y’a du signifiant qui passe sous la barre*.
+je répète parce que j’ai écourté *...y’a du signifiant qui passe sous la barre*.
 
 <!-- id: s20-04-0185 -->
 
@@ -758,15 +758,15 @@ Grâce à *l’écrit* se manifeste, se manifeste ceci qui n’est qu’*effet d
 
 <!-- id: s20-04-0187 -->
 
-> car s’il n’y avait pas de *discours analytique*, vous continueriez à parler très exactement comme des étourneaux,
->
-> c’est-à-dire à dire ce que je qualifie du *disque-ourcourant*, c’est-à-dire de continuer le disque,
->
-> le disque continuant ce quelque chose qui est le point le plus important que révèle le *discours analytique <u>seulemen</u>*<u>t</u> ...c’est à savoir ceci, c’est à savoir ceci qui ne peut s’articuler que grâce à toute la construction du discours analytique : c’est que très précisément, *il n’y a pas*...\[*de rapport sexuel*\]...
+car s’il n’y avait pas de *discours analytique*, vous continueriez à parler très exactement comme des étourneaux,
+
+c’est-à-dire à dire ce que je qualifie du *disque-ourcourant*, c’est-à-dire de continuer le disque,
+
+le disque continuant ce quelque chose qui est le point le plus important que révèle le *discours analytique <u>seulemen</u>*<u>t</u> ...c’est à savoir ceci, c’est à savoir ceci qui ne peut s’articuler que grâce à toute la construction du discours analytique : c’est que très précisément, *il n’y a pas*...\[*de rapport sexuel*\]...
 
 <!-- id: s20-04-0188 -->
 
-> je reviens là-dessus puisque après tout c’est *la formule* que je vous serine ...mais de vous la seriner, faut-il encore que je l’explique parce qu’elle *ne se sup­porte que de l’écrit* précisément, et de l’écrit en ceci : « *que le rapport sexuel ne peut pas s’écrire* ». C’est ce que ça veut dire.
+je reviens là-dessus puisque après tout c’est *la formule* que je vous serine ...mais de vous la seriner, faut-il encore que je l’explique parce qu’elle *ne se sup­porte que de l’écrit* précisément, et de l’écrit en ceci : « *que le rapport sexuel ne peut pas s’écrire* ». C’est ce que ça veut dire.
 
 <!-- id: s20-04-0189 -->
 
@@ -794,7 +794,7 @@ Et s’il y a un discours qui vous le démontre, c’est que la femme ne sera ja
 
 <!-- id: s20-04-0195 -->
 
-> c’est ce que le discours analytique met en jeu ...que *« quoad matrem »*, c’est-à-dire que « *la femme* » n’entrera en fonction dans le rapport sexuel qu’en tant que *« la mère »*.
+c’est ce que le discours analytique met en jeu ...que *« quoad matrem »*, c’est-à-dire que « *la femme* » n’entrera en fonction dans le rapport sexuel qu’en tant que *« la mère »*.
 
 <!-- id: s20-04-0196 -->
 
@@ -830,21 +830,21 @@ Ce qu’il y a de bien...
 
 <!-- id: s20-04-0204 -->
 
-> n’est-ce pas, si vous me permettez ...ce qu’il y a de bien dans ce que je raconte, c’est que c’est toujours la même chose \[*Rires*\], c’est à savoir...
+n’est-ce pas, si vous me permettez ...ce qu’il y a de bien dans ce que je raconte, c’est que c’est toujours la même chose \[*Rires*\], c’est à savoir...
 
 <!-- id: s20-04-0205 -->
 
-> non pas, bien sûr, que je me répète, c’est pas là la question ...c’est que ce que j’ai dit antérieurement, la première fois, autant que je me souvienne, que j’ai parlé de *la lettre*...
+non pas, bien sûr, que je me répète, c’est pas là la question ...c’est que ce que j’ai dit antérieurement, la première fois, autant que je me souvienne, que j’ai parlé de *la lettre*...
 
 <!-- id: s20-04-0206 -->
 
-> j’ai sorti ça je ne sais plus quand, maintenant je vais plus rechercher, je vous dis : j’ai horreur
->
-> de me relire, mais il doit bien y avoir 15 ans, quelque part à Sainte-Anne \[*L’identification, séance du 20-12-1961*\] ...j’ai essayé de faire remarquer cette petite chose que tout le monde connaît bien sûr...
+j’ai sorti ça je ne sais plus quand, maintenant je vais plus rechercher, je vous dis : j’ai horreur
+
+de me relire, mais il doit bien y avoir 15 ans, quelque part à Sainte-Anne \[*L’identification, séance du 20-12-1961*\] ...j’ai essayé de faire remarquer cette petite chose que tout le monde connaît bien sûr...
 
 <!-- id: s20-04-0207 -->
 
-> que tout le monde connaît quand on lit un peu, ce qui n’arrive pas à tout le monde ...qu’un nommé Sir [Flinders Petrie](http://fr.wikipedia.org/wiki/William_Matthew_Flinders_Petrie)[^38] par exemple avait cru remarquer que les lettres de l’alphabet phénicien se trouvaient, bien avant le temps de la Phénicie, sur de menues poteries égyptiennes où elles servaient de marques de fabrique.
+que tout le monde connaît quand on lit un peu, ce qui n’arrive pas à tout le monde ...qu’un nommé Sir [Flinders Petrie](http://fr.wikipedia.org/wiki/William_Matthew_Flinders_Petrie)[^38] par exemple avait cru remarquer que les lettres de l’alphabet phénicien se trouvaient, bien avant le temps de la Phénicie, sur de menues poteries égyptiennes où elles servaient de marques de fabrique.
 
 <!-- id: s20-04-0208 -->
 
@@ -852,7 +852,7 @@ Ce qui veut dire... ce qui veut dire simplement ceci, que le marché...
 
 <!-- id: s20-04-0209 -->
 
-> qui est typiquement un *effet de discours* ...c’est là que d’abord est sortie la lettre, avant que quiconque ait songé à user des lettres. Pour faire quoi ?
+qui est typiquement un *effet de discours* ...c’est là que d’abord est sortie la lettre, avant que quiconque ait songé à user des lettres. Pour faire quoi ?
 
 <!-- id: s20-04-0210 -->
 
@@ -876,7 +876,7 @@ celle qui nous affole tellement que nous appelons ça, Dieu sait pourquoi, d’u
 
 <!-- id: s20-04-0215 -->
 
-> différentes comme lettres parce qu’elles sortent du discours analytique ...de ce qui peut sortir comme lettres par exemple de la théorie des ensembles, à savoir l’usage qu’on en fait, et qui pourtant - c’est là l’intérêt - n’est pas sans avoir de rapport, un certain rapport de convergence sur lequel j’aurai certainement, dans ce qui sera la suite, l’occasion d’apporter quelques développements.
+différentes comme lettres parce qu’elles sortent du discours analytique ...de ce qui peut sortir comme lettres par exemple de la théorie des ensembles, à savoir l’usage qu’on en fait, et qui pourtant - c’est là l’intérêt - n’est pas sans avoir de rapport, un certain rapport de convergence sur lequel j’aurai certainement, dans ce qui sera la suite, l’occasion d’apporter quelques développements.
 
 <!-- id: s20-04-0216 -->
 
@@ -912,7 +912,7 @@ Eh bien référez-vous quand même, parce que c’est un bonne lecture, il faut 
 
 <!-- id: s20-04-0224 -->
 
-> je ne vous dirai pas de lire Philippe Sollers, il est illisible, comme moi, ...oui, lire Joyce par exemple.
+je ne vous dirai pas de lire Philippe Sollers, il est illisible, comme moi, ...oui, lire Joyce par exemple.
 
 <!-- id: s20-04-0225 -->
 
@@ -940,15 +940,15 @@ Joyce c’est... c’est un long texte écrit...
 
 <!-- id: s20-04-0231 -->
 
-> lisez « *Finnegan’s Wake »...*c’est un long texte écrit dont le sens provient de ceci : c’est que c’est du fait que les signifiants s’emboîtent, se com­posent si vous voulez...
+lisez « *Finnegan’s Wake »...*c’est un long texte écrit dont le sens provient de ceci : c’est que c’est du fait que les signifiants s’emboîtent, se com­posent si vous voulez...
 
 <!-- id: s20-04-0232 -->
 
-> pour faire image pour ceux qui n’ont même pas l’idée de ce que c’est ...se télescopent, que c’est avec ça que se produit quelque chose qui, comme *signifié,* peut paraître énigmatique, mais qui est bien ce qu’il y a de plus proche de ce dont nous autres analystes...
+pour faire image pour ceux qui n’ont même pas l’idée de ce que c’est ...se télescopent, que c’est avec ça que se produit quelque chose qui, comme *signifié,* peut paraître énigmatique, mais qui est bien ce qu’il y a de plus proche de ce dont nous autres analystes...
 
 <!-- id: s20-04-0233 -->
 
-> grâce au discours analytique nous savons le *lire* ...qui est ce qu’il y a de plus proche du *lapsus*.
+grâce au discours analytique nous savons le *lire* ...qui est ce qu’il y a de plus proche du *lapsus*.
 
 <!-- id: s20-04-0234 -->
 
@@ -968,7 +968,7 @@ Que ce dont il s’agit dans le *discours analytique* c’est toujours...
 
 <!-- id: s20-04-0238 -->
 
-> à ce qui s’énonce du signifiant, ...que vous donniez une autre lecture que ce qu’il *signifie*.
+à ce qui s’énonce du signifiant, ...que vous donniez une autre lecture que ce qu’il *signifie*.
 
 <!-- id: s20-04-0239 -->
 

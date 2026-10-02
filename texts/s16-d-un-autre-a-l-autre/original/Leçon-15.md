@@ -46,9 +46,9 @@ Il m’est arrivé cette semaine…
 
 <!-- id: s16-15-0011 -->
 
-> *forcément pas très stimulante*, n’est-ce pas, j’ai rarement 39°, j’ai mis un certain temps, j’ai mis deux jours à me dire
->
-> que c’est sûrement parce *qu’il doit y avoir quelque chose comme cela, de pas très stimulant dans cet état, qui dure encore* …de me demander ce qui se passait ici. Alors j’ai fait une hypothèse de travail - c’est bien le cas de le dire - que ce que je faisais ici, que vous le sachiez ou pas, a vraiment toute la nature d’un travail. C’est ce que, peut-être, peuvent vous permettre d’entrevoir certaines des choses que j’ai dites cette année.
+*forcément pas très stimulante*, n’est-ce pas, j’ai rarement 39°, j’ai mis un certain temps, j’ai mis deux jours à me dire
+
+que c’est sûrement parce *qu’il doit y avoir quelque chose comme cela, de pas très stimulant dans cet état, qui dure encore* …de me demander ce qui se passait ici. Alors j’ai fait une hypothèse de travail - c’est bien le cas de le dire - que ce que je faisais ici, que vous le sachiez ou pas, a vraiment toute la nature d’un travail. C’est ce que, peut-être, peuvent vous permettre d’entrevoir certaines des choses que j’ai dites cette année.
 
 <!-- id: s16-15-0012 -->
 
@@ -56,7 +56,7 @@ Il m’est arrivé cette semaine…
 
 <!-- id: s16-15-0013 -->
 
-> La façon dont je vous parle d’habitude quand j’ai mes petits papiers, qui peuvent vous étonner, je les regarde plus ou moins, il y en a beaucoup, il y en a sûrement trop mais enfin, ça a vraiment tous les caractères de ce qui se passe sur un établi - et pourquoi pas ? - voire, sur une chaîne. Les papiers viennent bien de quelque part et finiront aussi par se transmettre à d’autres. Et avec ça, en effet, il se passe quelque chose sur quoi, quand je sors, je suis toujours assez perplexe pour interroger, avec quelquefois un peu d’angoisse, ceux dont je sais qu’ils peuvent me dire quelque chose qui m’intéresse …il est certain que j’ai fait là-dessus quelque chose qui a vraiment le caractère d’un travail qu’on a réalisé avec un certain matériel et qui est quelque chose de construit, de réalisé : une production. Évidemment, c’est intéressant, c’est intéressant à voir faire. Ce n’est pas si répandu, d’avoir l’occasion de voir quelqu’un faire son travail.
+La façon dont je vous parle d’habitude quand j’ai mes petits papiers, qui peuvent vous étonner, je les regarde plus ou moins, il y en a beaucoup, il y en a sûrement trop mais enfin, ça a vraiment tous les caractères de ce qui se passe sur un établi - et pourquoi pas ? - voire, sur une chaîne. Les papiers viennent bien de quelque part et finiront aussi par se transmettre à d’autres. Et avec ça, en effet, il se passe quelque chose sur quoi, quand je sors, je suis toujours assez perplexe pour interroger, avec quelquefois un peu d’angoisse, ceux dont je sais qu’ils peuvent me dire quelque chose qui m’intéresse …il est certain que j’ai fait là-dessus quelque chose qui a vraiment le caractère d’un travail qu’on a réalisé avec un certain matériel et qui est quelque chose de construit, de réalisé : une production. Évidemment, c’est intéressant, c’est intéressant à voir faire. Ce n’est pas si répandu, d’avoir l’occasion de voir quelqu’un faire son travail.
 
 <!-- id: s16-15-0014 -->
 
@@ -64,7 +64,7 @@ Pour la plupart d’entre vous, enfin, j’ai le sentiment que ce qu’il vise, 
 
 <!-- id: s16-15-0015 -->
 
-> le fait de regarder travailler quelqu’un sans savoir où ça va, à quoi ça sert …ça donne une dimension un peu obscène à la chose.
+le fait de regarder travailler quelqu’un sans savoir où ça va, à quoi ça sert …ça donne une dimension un peu obscène à la chose.
 
 <!-- id: s16-15-0016 -->
 
@@ -88,9 +88,9 @@ Je veux dire qu’il y a quelque chose dans ce qui se passe à nouveau dans l’
 
 <!-- id: s16-15-0021 -->
 
-> enfin, on ne peut pas savoir combien on est heureux de profiter d’un 39°, je veux dire, on est forcément…
->
-> on peut habituellement se mettre à la position *horizontale*, c’est très agréable …enfin, quand ça se tasse un peu, à un certain tournant, on peut aussi ouvrir des choses, des journaux amusants.
+enfin, on ne peut pas savoir combien on est heureux de profiter d’un 39°, je veux dire, on est forcément…
+
+on peut habituellement se mettre à la position *horizontale*, c’est très agréable …enfin, quand ça se tasse un peu, à un certain tournant, on peut aussi ouvrir des choses, des journaux amusants.
 
 <!-- id: s16-15-0022 -->
 
@@ -114,7 +114,7 @@ Il n’y en a peut-être pas une seule qui, à la prendre comme phrase…
 
 <!-- id: s16-15-0027 -->
 
-> comme indication de justification, légitimation de tout ce que vous voudrez …pas une phrase contre laquelle je puisse évidemment, sérieusement élever une opposition. Tout cela est très bien.
+comme indication de justification, légitimation de tout ce que vous voudrez …pas une phrase contre laquelle je puisse évidemment, sérieusement élever une opposition. Tout cela est très bien.
 
 <!-- id: s16-15-0028 -->
 
@@ -250,7 +250,7 @@ Ce « *piège »* qui consiste à refuser et à ne rien faire de plus, est à 
 
 <!-- id: s16-15-0061 -->
 
-> pour revenir à ce quelque chose, comme ça, qui y a servi d’occasion …qu’y trouver un signe de plus, dans le fait que l’entourage de celui sous le nom duquel… puisque c’est une interview qui a permis cet article sous le titre de *Jeunesse piégée* et que, puisqu’il en est ainsi, je ne puis faire, à ce niveau, que lui décerner le titre de ce qui, à ce propos, a toujours été ma pensée, à savoir qu’après tout la pensée ne va pas plus loin, objectivement, que celle d’un amuseur. Ceci est assez grave.
+pour revenir à ce quelque chose, comme ça, qui y a servi d’occasion …qu’y trouver un signe de plus, dans le fait que l’entourage de celui sous le nom duquel… puisque c’est une interview qui a permis cet article sous le titre de *Jeunesse piégée* et que, puisqu’il en est ainsi, je ne puis faire, à ce niveau, que lui décerner le titre de ce qui, à ce propos, a toujours été ma pensée, à savoir qu’après tout la pensée ne va pas plus loin, objectivement, que celle d’un amuseur. Ceci est assez grave.
 
 <!-- id: s16-15-0062 -->
 
@@ -274,7 +274,7 @@ Cela n’a pas empêché une petite crapule du nom de LAURIN, qui était canadie
 
 <!-- id: s16-15-0067 -->
 
-> je ne sais pas… comme ça pour initier le public du Saskatchewan, de ce que je pouvais être …afin de faire grand état de cette racine surréaliste, il y avait aussi PARCHEMINEY, toute spéciale « *tête de pipe* » de la première équipe avec laquelle j’ai été associé qui tenait beaucoup à ça. Je lui ai dit expressément qu’il n’y avait pas lieu d’en tenir compte, puisque moi-même j’avais pris soin de ne marquer, à aucun degré, mon lien.
+je ne sais pas… comme ça pour initier le public du Saskatchewan, de ce que je pouvais être …afin de faire grand état de cette racine surréaliste, il y avait aussi PARCHEMINEY, toute spéciale « *tête de pipe* » de la première équipe avec laquelle j’ai été associé qui tenait beaucoup à ça. Je lui ai dit expressément qu’il n’y avait pas lieu d’en tenir compte, puisque moi-même j’avais pris soin de ne marquer, à aucun degré, mon lien.
 
 <!-- id: s16-15-0068 -->
 
@@ -286,11 +286,11 @@ Et puis, depuis la nouvelle entre-deux guerres…
 
 <!-- id: s16-15-0070 -->
 
-> entre-deux guerres ratée puisque le bout n’y est pas, c’est bien ce qui les embarrasse, c’est bien là l’échéance,
->
-> c’est que *le pouvoir capitaliste*, ce singulier pouvoir dont je vous prie de mesurer la nouveauté, *a besoin d’une guerre tous les 20 ans*. Ce n’est pas moi qui ai inventé cela, d’autres l’ont dit avant moi. *Cette fois ­ci, il ne peut pas la faire*,
->
-> mais enfin, il va bien y arriver quand même. Il ne peut pas la faire et pendant ce temps il est bien embêté …enfin, dans cette entre-deux guerres il y a eu SARTRE.
+entre-deux guerres ratée puisque le bout n’y est pas, c’est bien ce qui les embarrasse, c’est bien là l’échéance,
+
+c’est que *le pouvoir capitaliste*, ce singulier pouvoir dont je vous prie de mesurer la nouveauté, *a besoin d’une guerre tous les 20 ans*. Ce n’est pas moi qui ai inventé cela, d’autres l’ont dit avant moi. *Cette fois ­ci, il ne peut pas la faire*,
+
+mais enfin, il va bien y arriver quand même. Il ne peut pas la faire et pendant ce temps il est bien embêté …enfin, dans cette entre-deux guerres il y a eu SARTRE.
 
 <!-- id: s16-15-0071 -->
 
@@ -766,9 +766,9 @@ Mais les choses se gâtent, car cet exemple du *fort-da …*
 
 <!-- id: s16-15-0189 -->
 
-> supposons maintenant que ce système peut être considéré comme la cellule initiale
->
-> à partir de laquelle tout le langage va être formé …sur cet exemple réduit à la simplicité de ses quatre termes :
+supposons maintenant que ce système peut être considéré comme la cellule initiale
+
+à partir de laquelle tout le langage va être formé …sur cet exemple réduit à la simplicité de ses quatre termes :
 
 <!-- id: s16-15-0190 -->
 
@@ -800,9 +800,13 @@ Alors ici c’est véritablement un humour involontaire qu’on pourrait voir da
 
 <!-- id: s16-15-0197 -->
 
-> « *Si l’on en reste là, le système obtenu ressemble par plus d’un aspect au langage schizophrénique, et c’est par une malice*
->
-> *qui n’exclut pas une certaine profondeur que Freud rapproche ce dernier de la pensée philosophique abstraite.* »
+<div class="text-quotation">
+
+« *Si l’on en reste là, le système obtenu ressemble par plus d’un aspect au langage schizophrénique, et c’est par une malice*
+
+*qui n’exclut pas une certaine profondeur que Freud rapproche ce dernier de la pensée philosophique abstraite.* »
+
+</div>
 
 <!-- id: s16-15-0198 -->
 

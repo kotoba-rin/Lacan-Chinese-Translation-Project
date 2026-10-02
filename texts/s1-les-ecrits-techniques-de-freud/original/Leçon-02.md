@@ -54,9 +54,9 @@ Inutile de vous dire que *ce petit groupe d’écrits* a une importance toute pa
 
 <!-- id: s1-02-0013 -->
 
-> un analyste dont la plume n’est pas toujours de la meilleure veine,
->
-> mais qui a eu en cette occasion une trouvaille assez heureuse, et même belle
+un analyste dont la plume n’est pas toujours de la meilleure veine,
+
+mais qui a eu en cette occasion une trouvaille assez heureuse, et même belle
 
 <!-- id: s1-02-0014 -->
 
@@ -96,7 +96,7 @@ Mais pour poursuivre, nous dirons que, même dans la *Science des rêves*, il s�
 
 <!-- id: s1-02-0023 -->
 
-> qu’il ait parlé, écrit, sur des thèmes disons d’élaboration mythologique, ethnographique, les thèmes proprement culturels
+qu’il ait parlé, écrit, sur des thèmes disons d’élaboration mythologique, ethnographique, les thèmes proprement culturels
 
 <!-- id: s1-02-0024 -->
 
@@ -148,7 +148,11 @@ Vous savez que c’est toujours en fonction de l’actualité, en fonction du se
 
 <!-- id: s1-02-0036 -->
 
-> « *Qu’est-ce que nous faisons quand nous faisons de l’analyse ?* »
+<div class="text-quotation">
+
+« *Qu’est-ce que nous faisons quand nous faisons de l’analyse ?* »
+
+</div>
 
 <!-- id: s1-02-0037 -->
 
@@ -212,9 +216,9 @@ Je crois vous voir démontré que FREUD en est parti, que chaque fois il s’agi
 
 <!-- id: s1-02-0052 -->
 
-> et c’est cela qui a fait le prix de l’analyse, de chacune de ces cinq grandes psychanalyses,
->
-> les trois que nous avons déjà vues, élaborées, travaillées ensemble, vous le démontrent
+et c’est cela qui a fait le prix de l’analyse, de chacune de ces cinq grandes psychanalyses,
+
+les trois que nous avons déjà vues, élaborées, travaillées ensemble, vous le démontrent
 
 <!-- id: s1-02-0053 -->
 
@@ -234,9 +238,9 @@ Je veux indiquer que dans la technique, les voies et les moyens pour accéder à
 
 <!-- id: s1-02-0057 -->
 
-> vous le verrez marqué, je dois le dire, tout au long de cette œuvre de FREUD dont je vous ai dit les indications techniques,
->
-> surtout les *Écrits techniques* dont je vous parlais tout à l’heure
+vous le verrez marqué, je dois le dire, tout au long de cette œuvre de FREUD dont je vous ai dit les indications techniques,
+
+surtout les *Écrits techniques* dont je vous parlais tout à l’heure
 
 <!-- id: s1-02-0058 -->
 

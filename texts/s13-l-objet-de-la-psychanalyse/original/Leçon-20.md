@@ -54,9 +54,9 @@ Eh bien, *l’objet(a)*…
 
 <!-- id: s13-20-0013 -->
 
-> je le disais tout à l’heure, ceux qui ont prêté attention à ce que je disais
->
-> et qui ont pu, même incidemment, me le voir explicitement prononcer …*l’objet(a) c’est là, dans cet espace du trou qu’il est proprement, disons représentable, proprement de ce fait qu’il n’est aucunement représenté.*
+je le disais tout à l’heure, ceux qui ont prêté attention à ce que je disais
+
+et qui ont pu, même incidemment, me le voir explicitement prononcer …*l’objet(a) c’est là, dans cet espace du trou qu’il est proprement, disons représentable, proprement de ce fait qu’il n’est aucunement représenté.*
 
 <!-- id: s13-20-0014 -->
 
@@ -108,7 +108,7 @@ L’impasse, l’écartèlement où est mise la fonction du sujet, justement dan
 
 <!-- id: s13-20-0026 -->
 
-> ce pari absurde vraiment crucial pour tous ceux qui se sont penchés sur son analyse …je rappelle que j’en ai fait le chapitre d’introduction, à l’avancée de mon exposé cette année, sur *l’objet(a)*.
+ce pari absurde vraiment crucial pour tous ceux qui se sont penchés sur son analyse …je rappelle que j’en ai fait le chapitre d’introduction, à l’avancée de mon exposé cette année, sur *l’objet(a)*.
 
 <!-- id: s13-20-0027 -->
 
@@ -200,7 +200,7 @@ Au grand étonnement de quelqu’un que j’évoque ici dans le souvenir \[Mauri
 
 <!-- id: s13-20-0049 -->
 
-> *pour l’entendre ? Est-ce que vous croyez que ceci existe dans une sorte de tiers ou de quart espace ?* »
+*pour l’entendre ? Est-ce que vous croyez que ceci existe dans une sorte de tiers ou de quart espace ?* »
 
 <!-- id: s13-20-0050 -->
 
@@ -224,11 +224,11 @@ Dans le champ où il s’agit du sujet, si la structure est telle que dans *l’
 
 <!-- id: s13-20-0055 -->
 
-> qui croyant s’autoriser de ce qui a été réussi dans le champ de la science physique, croit pouvoir se permettre
->
-> de projeter en ce champ qu’on appelle « *psycho-sociologie* », cette sorte d’objectivation pleine et de plein droit,
->
-> au nom de je ne sais quelle façon de tirer son épingle du jeu au départ, ...à l’abri de la *fausse modestie expérimentale*, nous dirons qu’il est un critère, *un registre de l’épreuve* qui est valable logiquement, que j’appellerais de ces termes.
+qui croyant s’autoriser de ce qui a été réussi dans le champ de la science physique, croit pouvoir se permettre
+
+de projeter en ce champ qu’on appelle « *psycho-sociologie* », cette sorte d’objectivation pleine et de plein droit,
+
+au nom de je ne sais quelle façon de tirer son épingle du jeu au départ, ...à l’abri de la *fausse modestie expérimentale*, nous dirons qu’il est un critère, *un registre de l’épreuve* qui est valable logiquement, que j’appellerais de ces termes.
 
 <!-- id: s13-20-0056 -->
 
@@ -328,9 +328,9 @@ Il est bien étrange, précisément qu’alors qu’au cours de tout ce temps, n
 
 <!-- id: s13-20-0080 -->
 
-> alors que de toutes parts, nous n’avons cessé de réentendre cette objection qui n’en est pas une, à savoir qu’il y a du *« pré-verbal »*, de *« l’extra-verbal »*, de *« l’anté-verbal »*, alors qu’on a fait état, disons-nous, du geste, de la mimique, de la pâleur, de toutes les formes vasomotrices, cénesthésiques ou autres, où soit disant pourrait s’exercer
->
-> je ne sais quelle communication ineffable, comme si nous l’avions jamais contesté …que personne n’ait jamais promu ce qui était pourtant le seul point sur lequel il y avait vraiment quelque chose à dire, à savoir l’ordre de communication qui se passe par le regard. Ça, en effet, ce n’est pas du langage !
+alors que de toutes parts, nous n’avons cessé de réentendre cette objection qui n’en est pas une, à savoir qu’il y a du *« pré-verbal »*, de *« l’extra-verbal »*, de *« l’anté-verbal »*, alors qu’on a fait état, disons-nous, du geste, de la mimique, de la pâleur, de toutes les formes vasomotrices, cénesthésiques ou autres, où soit disant pourrait s’exercer
+
+je ne sais quelle communication ineffable, comme si nous l’avions jamais contesté …que personne n’ait jamais promu ce qui était pourtant le seul point sur lequel il y avait vraiment quelque chose à dire, à savoir l’ordre de communication qui se passe par le regard. Ça, en effet, ce n’est pas du langage !
 
 <!-- id: s13-20-0081 -->
 
@@ -370,7 +370,7 @@ Il est clair que tout ceci nous laisse enfermés dans une relation parfaitement 
 
 <!-- id: s13-20-0090 -->
 
-> quand je dis « parfaitement » je ne veux y inscrire par là nul accent de *satisfecit*, mais de fermé, de parfaitement clos …et l’on sait ce qu’il en résulta de réduction de toute la perspective, aussi bien théorique, compréhensive, pratique, clinique, psychologique et même pédagogique, pour s’enfermer dans ce cycle de la demande, cohérent de celui de *« la frustration* *ou gratification », « frustration ou non frustration »*.
+quand je dis « parfaitement » je ne veux y inscrire par là nul accent de *satisfecit*, mais de fermé, de parfaitement clos …et l’on sait ce qu’il en résulta de réduction de toute la perspective, aussi bien théorique, compréhensive, pratique, clinique, psychologique et même pédagogique, pour s’enfermer dans ce cycle de la demande, cohérent de celui de *« la frustration* *ou gratification », « frustration ou non frustration »*.
 
 <!-- id: s13-20-0091 -->
 
@@ -386,9 +386,9 @@ La restitution, en quelque sorte interne, immanente à la fonction de la demande
 
 <!-- id: s13-20-0094 -->
 
-> justement permet de lui trouver l’équivalent qu’on veut dans, aussi bien la tétine par exemple, le biberon ou n’importe quel autre objet mécanique, ou même le petit coin ou le petit bout de mouchoir pourvu que ce soit le mouchoir sale de la mère
->
-> …donnera, présentifiera la fonction de cet objet oral d’une façon qui mérite d’être spécifiée, structuralement, comme étant là, la cause du désir.
+justement permet de lui trouver l’équivalent qu’on veut dans, aussi bien la tétine par exemple, le biberon ou n’importe quel autre objet mécanique, ou même le petit coin ou le petit bout de mouchoir pourvu que ce soit le mouchoir sale de la mère
+
+…donnera, présentifiera la fonction de cet objet oral d’une façon qui mérite d’être spécifiée, structuralement, comme étant là, la cause du désir.
 
 <!-- id: s13-20-0095 -->
 
@@ -412,7 +412,7 @@ Voici pourquoi ces deux objets se trouvent prévalents dans la structure de la n
 
 <!-- id: s13-20-0100 -->
 
-> quand je dis horizon, il a un sens depuis que j’ai parlé d’une certaine façon, de *l’objet scopique* …les psychanalystes se contentent si aisément d’une théorie qui met tout l’accent sur la demande et la frustration, sans s’apercevoir que c’est une caractéristique spécifique de la névrose.
+quand je dis horizon, il a un sens depuis que j’ai parlé d’une certaine façon, de *l’objet scopique* …les psychanalystes se contentent si aisément d’une théorie qui met tout l’accent sur la demande et la frustration, sans s’apercevoir que c’est une caractéristique spécifique de la névrose.
 
 <!-- id: s13-20-0101 -->
 
@@ -460,7 +460,7 @@ Comment, alors pourrons-nous situer cet objet et ce champ scopique ? Est-ce que 
 
 <!-- id: s13-20-0112 -->
 
-> et comme à nous laisser guider par le parallélisme des termes *désir*, *demande*, *de*…, *à*… ...que nous voyons s’ouvrir cette dimension singulière, déjà pour nous offerte par l’évocation de la fenêtre - qu’aussi bien on l’appelle elle-même volontiers « *un regard* » - dans cette dimension de désir à l’Autre, d’ouverture, d’aspiration par l’Autre, qui est à proprement parler ce dont, à ce niveau, il s’agit.
+et comme à nous laisser guider par le parallélisme des termes *désir*, *demande*, *de*…, *à*… ...que nous voyons s’ouvrir cette dimension singulière, déjà pour nous offerte par l’évocation de la fenêtre - qu’aussi bien on l’appelle elle-même volontiers « *un regard* » - dans cette dimension de désir à l’Autre, d’ouverture, d’aspiration par l’Autre, qui est à proprement parler ce dont, à ce niveau, il s’agit.
 
 <!-- id: s13-20-0113 -->
 
@@ -496,7 +496,7 @@ Et pour une simple raison, c’est que la croix d’où je partais, celle des de
 
 <!-- id: s13-20-0121 -->
 
-> là où elle rejoint son lieu naturel, où je l’ai situé, à savoir à *la ligne à l’infini* du tableau …sont deux lignes qui, tout simplement, et toutes croisées qu’elles paraissent, ne se croisent pas, pour la bonne raison *qu’elles sont dans des plans différents*.
+là où elle rejoint son lieu naturel, où je l’ai situé, à savoir à *la ligne à l’infini* du tableau …sont deux lignes qui, tout simplement, et toutes croisées qu’elles paraissent, ne se croisent pas, pour la bonne raison *qu’elles sont dans des plans différents*.
 
 <!-- id: s13-20-0122 -->
 
@@ -508,7 +508,7 @@ C’est bien aussi, s’il en est une, toute la croix à laquelle j’ai affaire
 
 <!-- id: s13-20-0124 -->
 
-> on vous l’a représenté comme ça \[A\], d’une façon qui s’interrompt …nous avons donc deux lignes \[γ<sub>1</sub>, γ<sub>2</sub>\] qui ne sont pas dans le même plan.
+on vous l’a représenté comme ça \[A\], d’une façon qui s’interrompt …nous avons donc deux lignes \[γ<sub>1</sub>, γ<sub>2</sub>\] qui ne sont pas dans le même plan.
 
 <!-- id: s13-20-0125 -->
 

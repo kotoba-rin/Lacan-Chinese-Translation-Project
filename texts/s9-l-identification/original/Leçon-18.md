@@ -26,9 +26,9 @@ Cette communication, je ne sais pourquoi, certains d’entre vous, qui ne sont p
 
 <!-- id: s9-18-0006 -->
 
-> en raison d’une espèce de myopie caractéristique de certaines positions
->
-> que j’appelle par ailleurs « *mandarinales* », puisque ce terme a fait fortune
+en raison d’une espèce de myopie caractéristique de certaines positions
+
+que j’appelle par ailleurs « *mandarinales* », puisque ce terme a fait fortune
 
 <!-- id: s9-18-0007 -->
 
@@ -676,11 +676,11 @@ Si le sujet n’est que cela, cette part exclue d’un champ entièrement défin
 
 <!-- id: s9-18-0168 -->
 
-> parce que c’est à nous qu’elle parle, et parce que c’est à elle, et parce qu’il y a encore quelque chose
->
-> qui n’est pas encore acquis, assumé, malgré tout, quand elle parle de ce choix par exemple
->
-> qu’il y a à être sujet ou objet à propos, dans la relation du désir ...eh bien, malgré elle, M<sup>me</sup> AULAGNIER se laisse glisser à réintroduire dans le sujet « *la per­sonne* », avec toute la dignité subséquente que vous savez que nous lui donnons dans nos temps éclairés : *personnologie, personnalisme, personnalité* et tout ce qui s’ensuit, aspect qui convient, dont chacun sait que nous vivons au milieu de cela.
+parce que c’est à nous qu’elle parle, et parce que c’est à elle, et parce qu’il y a encore quelque chose
+
+qui n’est pas encore acquis, assumé, malgré tout, quand elle parle de ce choix par exemple
+
+qu’il y a à être sujet ou objet à propos, dans la relation du désir ...eh bien, malgré elle, M<sup>me</sup> AULAGNIER se laisse glisser à réintroduire dans le sujet « *la per­sonne* », avec toute la dignité subséquente que vous savez que nous lui donnons dans nos temps éclairés : *personnologie, personnalisme, personnalité* et tout ce qui s’ensuit, aspect qui convient, dont chacun sait que nous vivons au milieu de cela.
 
 <!-- id: s9-18-0169 -->
 

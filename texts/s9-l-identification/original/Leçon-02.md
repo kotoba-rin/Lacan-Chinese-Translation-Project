@@ -46,11 +46,11 @@ Est-ce à dire que, comme c’est la tendance...
 
 <!-- id: s9-02-0011 -->
 
-> et tendance qui s’étale sous l’influence d’une espèce, je dirais d’*ivresse*, qui saisit récemment la pensée
->
-> scien­tifique, du fait de l’irruption de ce qui n’est en son fond que la découverte de la dimension de
->
-> la chaîne signifiante comme telle mais qui, dans de toutes sortes de façons, va être réduite par cette pensée à des termes plus simples, et très précisément c’est ce qui s’exprime dans les théories dites *de l’information* ...est-ce à dire qu’il soit juste, sans autre connotation, de nous résoudre à caractériser la liaison entre les deux systèmes \- dont l’un est, par rapport à l’autre, l’image - par cette idée de « *l’information* », qui est très générale, impliquant certains chemins parcourus par ce quelque chose qui véhicule *la concordance biunivoque* ?
+et tendance qui s’étale sous l’influence d’une espèce, je dirais d’*ivresse*, qui saisit récemment la pensée
+
+scien­tifique, du fait de l’irruption de ce qui n’est en son fond que la découverte de la dimension de
+
+la chaîne signifiante comme telle mais qui, dans de toutes sortes de façons, va être réduite par cette pensée à des termes plus simples, et très précisément c’est ce qui s’exprime dans les théories dites *de l’information* ...est-ce à dire qu’il soit juste, sans autre connotation, de nous résoudre à caractériser la liaison entre les deux systèmes \- dont l’un est, par rapport à l’autre, l’image - par cette idée de « *l’information* », qui est très générale, impliquant certains chemins parcourus par ce quelque chose qui véhicule *la concordance biunivoque* ?
 
 <!-- id: s9-02-0012 -->
 
@@ -78,7 +78,7 @@ Ce n’est pas, vous le voyez, par là que j’aborde le pro­blème de ce qui v
 
 <!-- id: s9-02-0018 -->
 
-> *sous le nom du « sujet supposé savoir ».*
+*sous le nom du « sujet supposé savoir ».*
 
 <!-- id: s9-02-0019 -->
 

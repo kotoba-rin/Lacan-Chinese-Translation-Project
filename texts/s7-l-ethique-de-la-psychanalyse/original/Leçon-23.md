@@ -30,19 +30,23 @@ Les vers 611-614 et 620-625 concernent ce que dit le CHŒUR concernant la limite
 
 <!-- id: s7-23-0007 -->
 
-> « *Sans jamais vieillir, tu règnes éternellement dans la splendeur du flamboyant Olympe !*
->
-> *Une loi, en effet, prévaudra toujours, comme elle a toujours prévalu parmi les hommes.* »
->
-> \[τό τ᾽ ἔπειτα καὶ τὸ μέλλον καὶ τὸ πρὶν ἐπαρκέσει  
-> νόμος ὅδ᾽, οὐδὲν ἕρπει θνατῶν βιότῳ πάμπολύ γ᾽ ἐκτὸς ἄτας. 611-614\]
->
-> « *L’Espérance mensongère est utile aux mortels, mais elle déjoue les désirs de beaucoup.*
->
-> *Elle les excite au mal, à leur insu, avant qu’ils aient mis le pied sur le feu ardent.* »
->
-> \[τὸ κακὸν δοκεῖν ποτ᾽ ἐσθλὸν τῷδ᾽ ἔμμεν ὅτῳ φρένας  
-> θεὸς ἄγει πρὸς ἄταν· πράσσει δ᾽ ὀλίγιστον χρόνον ἐκτὸς ἄτας. 620-625\]
+<div class="text-quotation">
+
+« *Sans jamais vieillir, tu règnes éternellement dans la splendeur du flamboyant Olympe !*
+
+*Une loi, en effet, prévaudra toujours, comme elle a toujours prévalu parmi les hommes.* »
+
+\[τό τ᾽ ἔπειτα καὶ τὸ μέλλον καὶ τὸ πρὶν ἐπαρκέσει  
+νόμος ὅδ᾽, οὐδὲν ἕρπει θνατῶν βιότῳ πάμπολύ γ᾽ ἐκτὸς ἄτας. 611-614\]
+
+« *L’Espérance mensongère est utile aux mortels, mais elle déjoue les désirs de beaucoup.*
+
+*Elle les excite au mal, à leur insu, avant qu’ils aient mis le pied sur le feu ardent.* »
+
+\[τὸ κακὸν δοκεῖν ποτ᾽ ἐσθλὸν τῷδ᾽ ἔμμεν ὅτῳ φρένας  
+θεὸς ἄγει πρὸς ἄταν· πράσσει δ᾽ ὀλίγιστον χρόνον ἐκτὸς ἄτας. 620-625\]
+
+</div>
 
 <!-- id: s7-23-0008 -->
 
@@ -150,7 +154,7 @@ Qu’est-ce que ça veut dire, et pourquoi, nous le verrons. Les choses vont en 
 
 <!-- id: s7-23-0034 -->
 
-> certains l’ont dit, je crois même que cela fait partie du titre d’un des nombreux ouvrages que j’ai plus ou moins dépouillés pour me rendre compte de ce qu’on avait dit au cours des âges sur notre SOPHOCLE
+certains l’ont dit, je crois même que cela fait partie du titre d’un des nombreux ouvrages que j’ai plus ou moins dépouillés pour me rendre compte de ce qu’on avait dit au cours des âges sur notre SOPHOCLE
 
 <!-- id: s7-23-0035 -->
 
@@ -198,7 +202,7 @@ Allusion évidente aux jeux philosophiques autour d’un thème à l’époque. 
 
 <!-- id: s7-23-0046 -->
 
-> qui est assez dérisoire, parce qu’enfin nous ne nous intéressons pas beaucoup au fait que le gardien va pouvoir être étripé pour la mauvaise nouvelle qu’il véhicule. Il s’en tire - il est bien heureux - avec une pirouette
+qui est assez dérisoire, parce qu’enfin nous ne nous intéressons pas beaucoup au fait que le gardien va pouvoir être étripé pour la mauvaise nouvelle qu’il véhicule. Il s’en tire - il est bien heureux - avec une pirouette
 
 <!-- id: s7-23-0047 -->
 
@@ -386,11 +390,15 @@ De même quand ÉLECTRE dit :
 
 <!-- id: s7-23-0093 -->
 
-> « *Pourquoi est ce que tu remues, tu te fourres sans cesse dans l’* Ἄτη *de ta maison,*
->
-> *pourquoi tu t’obstines à réveiller sans cesse, devant ÉGISTHE et devant ta mère, son meurtre fatal ?*
->
-> *Est-ce que ce n’est pas toi qui t’attires tout ce qui en résulte comme maux sur ta tête ?* »
+<div class="text-quotation">
+
+« *Pourquoi est ce que tu remues, tu te fourres sans cesse dans l’* Ἄτη *de ta maison,*
+
+*pourquoi tu t’obstines à réveiller sans cesse, devant ÉGISTHE et devant ta mère, son meurtre fatal ?*
+
+*Est-ce que ce n’est pas toi qui t’attires tout ce qui en résulte comme maux sur ta tête ?* »
+
+</div>
 
 <!-- id: s7-23-0094 -->
 
@@ -466,9 +474,13 @@ Précisément elle se désolidarise de la δίκη .
 
 <!-- id: s7-23-0112 -->
 
-> « *Tu t’en mêles à tort et à travers. Il se peut même que tu aies tort dans ta façon de l’éviter cette* δίκη *, de tout mêler.*
->
-> *Mais moi justement* - Elle, s’en distingue - *je ne m’en mêle pas, de tous ces dieux d’en bas qui ont fixé ces lois parmi les hommes.* »
+<div class="text-quotation">
+
+« *Tu t’en mêles à tort et à travers. Il se peut même que tu aies tort dans ta façon de l’éviter cette* δίκη *, de tout mêler.*
+
+*Mais moi justement* - Elle, s’en distingue - *je ne m’en mêle pas, de tous ces dieux d’en bas qui ont fixé ces lois parmi les hommes.* »
+
+</div>
 
 <!-- id: s7-23-0113 -->
 
@@ -484,11 +496,15 @@ Il s’agit de cette limite, de cet horizon en tant qu’il est déterminé par 
 
 <!-- id: s7-23-0116 -->
 
-> « *que mon frère il est tout ce que vous voudrez, le criminel, celui qui a voulu incendier, ruiner les murs de la patrie, et emmener*
->
-> *ses compatriotes en esclavage, qui a amené les ennemis autour du territoire de la cité, mais enfin il est ce qu’il est, et ce dont il s’agit c’est de lui rendre les honneurs funéraires. Sans doute il n’a pas le même droit que l’autre, vous pouvez bien me raconter*
->
-> *ce que vous voudrez, que l’un est le héros et l’ami, et que l’autre est l’ennemi, mais moi je vous réponds ceci*...
+<div class="text-quotation">
+
+« *que mon frère il est tout ce que vous voudrez, le criminel, celui qui a voulu incendier, ruiner les murs de la patrie, et emmener*
+
+*ses compatriotes en esclavage, qui a amené les ennemis autour du territoire de la cité, mais enfin il est ce qu’il est, et ce dont il s’agit c’est de lui rendre les honneurs funéraires. Sans doute il n’a pas le même droit que l’autre, vous pouvez bien me raconter*
+
+*ce que vous voudrez, que l’un est le héros et l’ami, et que l’autre est l’ennemi, mais moi je vous réponds ceci*...
+
+</div>
 
 <!-- id: s7-23-0117 -->
 
@@ -496,11 +512,11 @@ car elle le répond, elle lui dit ceci :
 
 <!-- id: s7-23-0118 -->
 
-> ...*ça n’est pas du tout probablement, ça n’a pas la même valeur qu’en bas. En bas les choses se jugent autrement, et en tout cas*
->
-> *pour moi, à moi à qui vous osez intimer cet ordre, cet ordre ne compte en rien pour moi, car pour moi mon frère est mon frère,*
->
-> *et sa valeur est là*. » \[511-525\]
+...*ça n’est pas du tout probablement, ça n’a pas la même valeur qu’en bas. En bas les choses se jugent autrement, et en tout cas*
+
+*pour moi, à moi à qui vous osez intimer cet ordre, cet ordre ne compte en rien pour moi, car pour moi mon frère est mon frère,*
+
+*et sa valeur est là*. » \[511-525\]
 
 <!-- id: s7-23-0119 -->
 
@@ -508,9 +524,13 @@ C’est le paradoxe autour de quoi achoppe et vacille la pensée de GOETHE. C’
 
 <!-- id: s7-23-0120 -->
 
-> « *Mon frère est ce qu’il est, c’est parce qu’il est ce qu’il est, et qu’il n’y a que lui qui peut l’être cela, c’est en raison de cela*
->
-> *que je m’avance vers cette limite fatale. Si c’était qui que ce soit d’autre avec qui je puisse avoir une relation humaine, à savoir mon mari, à savoir mes enfants, qui fussent en cause, ceux-là sont remplaçables. Ce sont des relations. Mais ce frère, celui qui est* ἀδελϕὸς*, qui a cette chose commune avec moi d’être né dans la même matrice*…
+<div class="text-quotation">
+
+« *Mon frère est ce qu’il est, c’est parce qu’il est ce qu’il est, et qu’il n’y a que lui qui peut l’être cela, c’est en raison de cela*
+
+*que je m’avance vers cette limite fatale. Si c’était qui que ce soit d’autre avec qui je puisse avoir une relation humaine, à savoir mon mari, à savoir mes enfants, qui fussent en cause, ceux-là sont remplaçables. Ce sont des relations. Mais ce frère, celui qui est* ἀδελϕὸς*, qui a cette chose commune avec moi d’être né dans la même matrice*…
+
+</div>
 
 <!-- id: s7-23-0121 -->
 
@@ -562,9 +582,13 @@ Cette valeur est essentiellement de langage. Hors du langage, elle ne saurait m�
 
 <!-- id: s7-23-0133 -->
 
-> « *On verra bien ce à quoi ça te servira cette fidélité aux dieux d’en bas. Tu auras ce quelque chose de nourriture*
->
-> *qui est toujours là mis auprès des morts en manière d’offrande, on verra bien combien de temps tu vivras avec ça.* »
+<div class="text-quotation">
+
+« *On verra bien ce à quoi ça te servira cette fidélité aux dieux d’en bas. Tu auras ce quelque chose de nourriture*
+
+*qui est toujours là mis auprès des morts en manière d’offrande, on verra bien combien de temps tu vivras avec ça.* »
+
+</div>
 
 <!-- id: s7-23-0134 -->
 

@@ -22,7 +22,7 @@ Je dirais que ce *reproche* - comme tout reproche d’ailleurs - a une espèce d
 
 <!-- id: s6-04-0005 -->
 
-> et d’une façon tout à fait significative, et vraiment absolument inexpliquée en dehors de la perspective freudienne
+et d’une façon tout à fait significative, et vraiment absolument inexpliquée en dehors de la perspective freudienne
 
 <!-- id: s6-04-0006 -->
 
@@ -94,7 +94,7 @@ Et Freud nous dit :
 
 <!-- id: s6-04-0023 -->
 
-> je ne suis pas arrivé à resituer *Hochbeer,* mais le commentaire de FREUD signale deux variétés
+je ne suis pas arrivé à resituer *Hochbeer,* mais le commentaire de FREUD signale deux variétés
 
 <!-- id: s6-04-0024 -->
 
@@ -150,7 +150,7 @@ Sur cette voie - d’une façon je dirais horriblement discutable - la perceptio
 
 <!-- id: s6-04-0037 -->
 
-> et nommément c’est là qu’il insérera toute la suite des couches superposées qui vont depuis *l’inconscient* en passant par *le préconscient* et la suite
+et nommément c’est là qu’il insérera toute la suite des couches superposées qui vont depuis *l’inconscient* en passant par *le préconscient* et la suite
 
 <!-- id: s6-04-0038 -->
 
@@ -174,7 +174,7 @@ C’est-à-dire vous montrer sur le circuit *à fin homéostatique*, toujours im
 
 <!-- id: s6-04-0043 -->
 
-> quelque chose qui en soi prend une certaine valeur d’effet terminal dans certaines conditions
+quelque chose qui en soi prend une certaine valeur d’effet terminal dans certaines conditions
 
 <!-- id: s6-04-0044 -->
 
@@ -194,9 +194,9 @@ S’il y a *des processus secondaires* qui se produisent, ils ne se produisent q
 
 <!-- id: s6-04-0048 -->
 
-> nous n’en sommes plus là, ne voyons pas l’instinct comme M. FABRE,
->
-> c’est une structure qui engendre, qui entretient sa propre chaîne
+nous n’en sommes plus là, ne voyons pas l’instinct comme M. FABRE,
+
+c’est une structure qui engendre, qui entretient sa propre chaîne
 
 <!-- id: s6-04-0049 -->
 
@@ -220,7 +220,7 @@ FREUD nous l’articule également à partir du *processus secondaire*, lequel e
 
 <!-- id: s6-04-0054 -->
 
-> *FREUD l’articule ! Je ne souscris pas à tout cela, je vous répète le sens de ce que FREUD articule*
+*FREUD l’articule ! Je ne souscris pas à tout cela, je vous répète le sens de ce que FREUD articule*
 
 <!-- id: s6-04-0055 -->
 
@@ -236,9 +236,9 @@ Et dans la *Traumdeutung,* au niveau où il parle du processus de l’appareil p
 
 <!-- id: s6-04-0058 -->
 
-> et ce n’est même pas s’imprimer : *s’inscrire*,
->
-> chaque fois qu’il parle dans ce texte et dans tous les autres, ce sont *des termes comme « niederschreiben »*
+et ce n’est même pas s’imprimer : *s’inscrire*,
+
+chaque fois qu’il parle dans ce texte et dans tous les autres, ce sont *des termes comme « niederschreiben »*
 
 <!-- id: s6-04-0059 -->
 
@@ -270,7 +270,7 @@ Cette véritable topologie de signifiants…
 
 <!-- id: s6-04-0066 -->
 
-> car on n’y échappe pas dès que l’on suit bien l’articulation de FREUD
+car on n’y échappe pas dès que l’on suit bien l’articulation de FREUD
 
 <!-- id: s6-04-0067 -->
 
@@ -330,7 +330,7 @@ Et c’est à partir de là que nous pou­vons brancher la remarque que le fait 
 
 <!-- id: s6-04-0081 -->
 
-> jusqu’au point de le conseiller comme  une technique du *Niederschrift,* de *ce qui est là « couché en écrits » du rêve*
+jusqu’au point de le conseiller comme  une technique du *Niederschrift,* de *ce qui est là « couché en écrits » du rêve*
 
 <!-- id: s6-04-0082 -->
 
@@ -354,7 +354,7 @@ Les images du rêve, dont nous ne savons rien dans l’occasion, trouvent donc i
 
 <!-- id: s6-04-0087 -->
 
-> si je puis m’exprimer ainsi à l’aide d’un terme emprunté à la théorie des nombres complexes
+si je puis m’exprimer ainsi à l’aide d’un terme emprunté à la théorie des nombres complexes
 
 <!-- id: s6-04-0088 -->
 
@@ -378,7 +378,7 @@ Et admettons même que le cochon s’appelle « *Toto* » et l’oie « *Bel Azo
 
 <!-- id: s6-04-0093 -->
 
-> ni plus, ni moins évident, que chez l’homme, mais chez l’homme ça se voit moins
+ni plus, ni moins évident, que chez l’homme, mais chez l’homme ça se voit moins
 
 <!-- id: s6-04-0094 -->
 
@@ -406,9 +406,9 @@ Nous voilà donc introduits à ce que j’appelle *la topologie du refoulement* 
 
 <!-- id: s6-04-0100 -->
 
-> comme il en a été si frappé à la lecture de FECHNER, au point que l’on sent que cela a été pour lui
->
-> une espèce d’éclair, d’illumination, de révélation
+comme il en a été si frappé à la lecture de FECHNER, au point que l’on sent que cela a été pour lui
+
+une espèce d’éclair, d’illumination, de révélation
 
 <!-- id: s6-04-0101 -->
 
@@ -420,7 +420,7 @@ Alors ce que j’essaie de vous montrer ici, c’est la structure du signifiant 
 
 <!-- id: s6-04-0103 -->
 
-> je veux dire avec les hypothèses minimales qu’exige le fait qu’un sujet entre dans son jeu
+je veux dire avec les hypothèses minimales qu’exige le fait qu’un sujet entre dans son jeu
 
 <!-- id: s6-04-0104 -->
 
@@ -464,7 +464,7 @@ C’est de cela qu’il s’agit, c’est l’arti­culation de la phrase, c’e
 
 <!-- id: s6-04-0114 -->
 
-> qui sans doute doit pas­ser par les défilés du signifiant
+qui sans doute doit pas­ser par les défilés du signifiant
 
 <!-- id: s6-04-0115 -->
 
@@ -548,9 +548,9 @@ La question se pose de ce que représente cette articulation dans l’occasion, 
 
 <!-- id: s6-04-0135 -->
 
-> vrai ou faux, FREUD l’implique, et FREUD le suppose, et à juste titre bien entendu,
->
-> car une enfant de dix-neuf mois comprend très bien que sa nourrice va lui faire un « *emmerde­ment* »
+vrai ou faux, FREUD l’implique, et FREUD le suppose, et à juste titre bien entendu,
+
+car une enfant de dix-neuf mois comprend très bien que sa nourrice va lui faire un « *emmerde­ment* »
 
 <!-- id: s6-04-0136 -->
 
@@ -590,7 +590,11 @@ FREUD là-dessus ne fait aucune espèce d’ambiguïté, il n’y a aucune diffi
 
 <!-- id: s6-04-0145 -->
 
-> « *Si le roi d’Angleterre est un con alors tout est permis.* »[^21]
+<div class="text-quotation">
+
+« *Si le roi d’Angleterre est un con alors tout est permis.* »[^21]
+
+</div>
 
 <!-- id: s6-04-0146 -->
 
@@ -670,7 +674,7 @@ Tous ces taxièmes subtils qui vont du subjonctif ici à un « *ne* », que M.
 
 <!-- id: s6-04-0165 -->
 
-> d’une façon véritablement incroyable chez un philologue qui écrit dans *Le Monde !*
+d’une façon véritablement incroyable chez un philologue qui écrit dans *Le Monde !*
 
 <!-- id: s6-04-0166 -->
 
@@ -714,7 +718,7 @@ Mais la possibilité fondamentale de ce qui ne peut être que la fin de ce refou
 
 <!-- id: s6-04-0176 -->
 
-> puisque nous le voyons chez des sujets d’une haute efflorescence psychologique
+puisque nous le voyons chez des sujets d’une haute efflorescence psychologique
 
 <!-- id: s6-04-0177 -->
 
@@ -754,9 +758,9 @@ La *Verdrängung* va consister en ceci que pour frapper d’une façon qui soit 
 
 <!-- id: s6-04-0186 -->
 
-> autour duquel nous conti­nuons à tourner ici
->
-> malgré que je ne l’ai pas réévoqué complètement dans ce séminaire d’aujourd’hui, *le rêve du père mort*
+autour duquel nous conti­nuons à tourner ici
+
+malgré que je ne l’ai pas réévoqué complètement dans ce séminaire d’aujourd’hui, *le rêve du père mort*
 
 <!-- id: s6-04-0187 -->
 

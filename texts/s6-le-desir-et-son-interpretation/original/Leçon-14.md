@@ -30,7 +30,7 @@ Il est clair que pour cela nous ne devons pas avoir une trop grande peine car…
 
 <!-- id: s6-14-0007 -->
 
-> j’espère vous le faire sentir et je vous donne ici tout de suite mon propos
+j’espère vous le faire sentir et je vous donne ici tout de suite mon propos
 
 <!-- id: s6-14-0008 -->
 
@@ -42,7 +42,7 @@ HAMLET qui…
 
 <!-- id: s6-14-0010 -->
 
-> sans qu’on en soit absolument sûr, mais enfin, selon les recoupements vraiment les plus rigoureux
+sans qu’on en soit absolument sûr, mais enfin, selon les recoupements vraiment les plus rigoureux
 
 <!-- id: s6-14-0011 -->
 
@@ -50,9 +50,9 @@ HAMLET qui…
 
 <!-- id: s6-14-0012 -->
 
-> cette fameuse édition qui a été quasiment ce que l’on appelle une « *édition pirate* » à l’époque, à savoir
->
-> qu’elle n’était point faite sous le contrôle de l’auteur mais empruntée à ce que l’on appelait les *prompt-books*, les livrets à usage du souffleur
+cette fameuse édition qui a été quasiment ce que l’on appelle une « *édition pirate* » à l’époque, à savoir
+
+qu’elle n’était point faite sous le contrôle de l’auteur mais empruntée à ce que l’on appelait les *prompt-books*, les livrets à usage du souffleur
 
 <!-- id: s6-14-0013 -->
 
@@ -60,7 +60,7 @@ HAMLET qui…
 
 <!-- id: s6-14-0014 -->
 
-> c’est amusant quand même de savoir ces petits traits d’histoire littéraire
+c’est amusant quand même de savoir ces petits traits d’histoire littéraire
 
 <!-- id: s6-14-0015 -->
 
@@ -80,7 +80,7 @@ L’hiver 1601, c’est deux ans avant la mort de la reine ELISABETH. Et en effe
 
 <!-- id: s6-14-0019 -->
 
-> qui a une importance capitale dans la vie de SHAKESPEARE
+qui a une importance capitale dans la vie de SHAKESPEARE
 
 <!-- id: s6-14-0020 -->
 
@@ -92,7 +92,7 @@ Et déjà quelque chose s’annonce, comme dit un auteur, qui brise ce charme cr
 
 <!-- id: s6-14-0022 -->
 
-> dans l’histoire d’Angleterre comme dans beaucoup de pays
+dans l’histoire d’Angleterre comme dans beaucoup de pays
 
 <!-- id: s6-14-0023 -->
 
@@ -112,7 +112,11 @@ Ces repères ne sont pas absolument vains à évoquer, d’autant plus que nous 
 
 <!-- id: s6-14-0027 -->
 
-> « *J’essaye de retrouver tel ou tel élément* », sans à vrai dire qu’on puisse en dire autre chose
+<div class="text-quotation">
+
+« *J’essaye de retrouver tel ou tel élément* », sans à vrai dire qu’on puisse en dire autre chose
+
+</div>
 
 <!-- id: s6-14-0028 -->
 
@@ -124,7 +128,7 @@ Je dois dire aussi de notre Ella SHARPE dont je fais grand cas, que là-dessus..
 
 <!-- id: s6-14-0030 -->
 
-> dans son *paper*, il est vrai « *unfinished* » que l’on a trouvé après sa mort
+dans son *paper*, il est vrai « *unfinished* » que l’on a trouvé après sa mort
 
 <!-- id: s6-14-0031 -->
 
@@ -156,9 +160,9 @@ Avec ce grand style de documentation qui caractérise ses écrits…
 
 <!-- id: s6-14-0038 -->
 
-> il y a chez JONES une solidité, une certaine ampleur de style dans la documentation
->
-> qui distingue hautement ses contributions
+il y a chez JONES une solidité, une certaine ampleur de style dans la documentation
+
+qui distingue hautement ses contributions
 
 <!-- id: s6-14-0039 -->
 
@@ -194,7 +198,7 @@ Et elles donnent les résultats les plus extravagants, les plus incohérents, le
 
 <!-- id: s6-14-0047 -->
 
-> qui doit être une espèce de publication de vulgarisation plus ou moins médicale
+qui doit être une espèce de publication de vulgarisation plus ou moins médicale
 
 <!-- id: s6-14-0048 -->
 
@@ -254,7 +258,7 @@ Il y a là quelque chose qui ne soutient pas la critique, car les difficultés q
 
 <!-- id: s6-14-0062 -->
 
-> c’est-à-dire à faire reconnaître la culpabilité d’un roi, ou bien de deux choses l’une, à intervenir déjà de la façon dont il s’agit qu’il intervienne, *par le meurtre*, et ensuite d’être dans la possibilité de justifier *ce meurtre*
+c’est-à-dire à faire reconnaître la culpabilité d’un roi, ou bien de deux choses l’une, à intervenir déjà de la façon dont il s’agit qu’il intervienne, *par le meurtre*, et ensuite d’être dans la possibilité de justifier *ce meurtre*
 
 <!-- id: s6-14-0063 -->
 
@@ -262,9 +266,9 @@ Il y a là quelque chose qui ne soutient pas la critique, car les difficultés q
 
 <!-- id: s6-14-0064 -->
 
-> sur celui qui est le meurtrier de son père et qui, en même temps,
->
-> a pris son trône et sa place auprès de la femme qu’il aimait par dessus tout
+sur celui qui est le meurtrier de son père et qui, en même temps,
+
+a pris son trône et sa place auprès de la femme qu’il aimait par dessus tout
 
 <!-- id: s6-14-0065 -->
 
@@ -288,7 +292,7 @@ Il y a donc là une position essentiellement conflictuelle par rapport à la tâ
 
 <!-- id: s6-14-0070 -->
 
-> en somme très solide et qui doit tout de même nous donner une leçon de méthode
+en somme très solide et qui doit tout de même nous donner une leçon de méthode
 
 <!-- id: s6-14-0071 -->
 
@@ -300,7 +304,7 @@ Il montre que la notion du conflit n’est pas du tout nouvelle, à savoir la co
 
 <!-- id: s6-14-0073 -->
 
-> comme LŒNING, si nous en croyons les citations que JONES en donne
+comme LŒNING, si nous en croyons les citations que JONES en donne
 
 <!-- id: s6-14-0074 -->
 
@@ -320,7 +324,7 @@ Et Dieu sait si les auteurs allemands n’ont pas manqué…
 
 <!-- id: s6-14-0078 -->
 
-> surtout alors que ceci se passait en pleine période d’hégélianisme
+surtout alors que ceci se passait en pleine période d’hégélianisme
 
 <!-- id: s6-14-0079 -->
 
@@ -336,7 +340,7 @@ Je crois qu’on ne peut pas toucher du doigt, dans une analyse qui va vraiment 
 
 <!-- id: s6-14-0082 -->
 
-> dans le texte de la pièce, dans le déroulement du drame, pour en montrer *la signification œdipienne*
+dans le texte de la pièce, dans le déroulement du drame, pour en montrer *la signification œdipienne*
 
 <!-- id: s6-14-0083 -->
 
@@ -380,7 +384,7 @@ En Angleterre, c’est-à-dire là où la pièce est jouée dans sa langue, une 
 
 <!-- id: s6-14-0093 -->
 
-> parce qu’après tout on ne peut pas mesurer *la tension psychologique* du public, si ce n’est au *bureau de location*
+parce qu’après tout on ne peut pas mesurer *la tension psychologique* du public, si ce n’est au *bureau de location*
 
 <!-- id: s6-14-0094 -->
 
@@ -408,7 +412,7 @@ C’est parce que cette place y est exceptionnellement bien articulée…
 
 <!-- id: s6-14-0100 -->
 
-> aussi bien je dirais, de façon telle que tout un chacun y vient trouver sa place, vient s’y reconnaître
+aussi bien je dirais, de façon telle que tout un chacun y vient trouver sa place, vient s’y reconnaître
 
 <!-- id: s6-14-0101 -->
 
@@ -416,7 +420,7 @@ C’est parce que cette place y est exceptionnellement bien articulée…
 
 <!-- id: s6-14-0102 -->
 
-> dans les coordonnées que justement FREUD nous découvre, à savoir *son rapport à l’œdipe et à la castration*
+dans les coordonnées que justement FREUD nous découvre, à savoir *son rapport à l’œdipe et à la castration*
 
 <!-- id: s6-14-0103 -->
 
@@ -472,7 +476,7 @@ C’est sensiblement plus tard dans le texte que cette phrase sera dite par HAML
 
 <!-- id: s6-14-0116 -->
 
-> *sentiments que lui inspire la conduite de sa mère, ce mariage hâtif, deux mois*, nous dit-on, *après la mort de son père*
+*sentiments que lui inspire la conduite de sa mère, ce mariage hâtif, deux mois*, nous dit-on, *après la mort de son père*
 
 <!-- id: s6-14-0117 -->
 
@@ -488,7 +492,7 @@ Je n’ai pas besoin de rappeler ces thèmes célèbres. Ensuite, tout de suite,
 
 <!-- id: s6-14-0120 -->
 
-> qui est un personnage tout à fait important dans notre histoire d’HAMLET, dont on a voulu faire – nous y viendrons – quelqu’un qui joue un certain rôle par rapport à HAMLET dans le déroulement mythique de l’histoire, et à juste titre bien entendu
+qui est un personnage tout à fait important dans notre histoire d’HAMLET, dont on a voulu faire – nous y viendrons – quelqu’un qui joue un certain rôle par rapport à HAMLET dans le déroulement mythique de l’histoire, et à juste titre bien entendu
 
 <!-- id: s6-14-0121 -->
 
@@ -520,7 +524,7 @@ Puis interviennent - *c’est déjà préparé au 1<sup>er</sup> acte* - GUILDEN
 
 <!-- id: s6-14-0128 -->
 
-> qui se méfie d’eux, qui les raille, les tourne en dérision, les déroute et joue avec eux *un jeu extrêmement subtil sous l’apparence de la folie* - nous verrons aussi ce que veux dire *ce problème de la folie ou pseudo-folie* d’HAMLET
+qui se méfie d’eux, qui les raille, les tourne en dérision, les déroute et joue avec eux *un jeu extrêmement subtil sous l’apparence de la folie* - nous verrons aussi ce que veux dire *ce problème de la folie ou pseudo-folie* d’HAMLET
 
 <!-- id: s6-14-0129 -->
 
@@ -632,7 +636,11 @@ c’est le texte qui nous le dit :
 
 <!-- id: s6-14-0154 -->
 
-> « *When she saw Pyrrhus make malicious sport In Mincing with his sword her husband’s limbs* »
+<div class="text-quotation">
+
+« *When she saw Pyrrhus make malicious sport In Mincing with his sword her husband’s limbs* »
+
+</div>
 
 <!-- id: s6-14-0155 -->
 
@@ -648,7 +656,7 @@ c’est le texte qui nous le dit :
 
 <!-- id: s6-14-0158 -->
 
-> qu’on nous décrit très bien enroulée dans je ne sais quelle sorte d’édredon autour de ses flancs efflanqués
+qu’on nous décrit très bien enroulée dans je ne sais quelle sorte d’édredon autour de ses flancs efflanqués
 
 <!-- id: s6-14-0159 -->
 
@@ -684,7 +692,7 @@ Les choses ne vont pas tout simplement, et le troisième acte ne s’achève pas
 
 <!-- id: s6-14-0167 -->
 
-> c’est littéralement les mots qui sont employés : « ...*speak no more !* »
+c’est littéralement les mots qui sont employés : « ...*speak no more !* »
 
 <!-- id: s6-14-0168 -->
 
@@ -736,7 +744,7 @@ Il répond :
 
 <!-- id: s6-14-0180 -->
 
-> car le spectre apparaît à un moment où, justement, les objurgations d’HAMLET vont commencer à fléchir
+car le spectre apparaît à un moment où, justement, les objurgations d’HAMLET vont commencer à fléchir
 
 <!-- id: s6-14-0181 -->
 
@@ -752,7 +760,7 @@ C’est-à-dire que le spectre, qui apparaît là uniquement pour lui…
 
 <!-- id: s6-14-0184 -->
 
-> car habituellement quand le spectre apparaît tout le monde le voit
+car habituellement quand le spectre apparaît tout le monde le voit
 
 <!-- id: s6-14-0185 -->
 
@@ -768,7 +776,11 @@ C’est-à-dire que le spectre, qui apparaît là uniquement pour lui…
 
 <!-- id: s6-14-0188 -->
 
-> « …*Le Conceit opère le plus puissamment dans les corps fatigués. Parle lui, HAMLET.* »
+<div class="text-quotation">
+
+« …*Le Conceit opère le plus puissamment dans les corps fatigués. Parle lui, HAMLET.* »
+
+</div>
 
 <!-- id: s6-14-0189 -->
 
@@ -796,7 +808,11 @@ Finalement, il leur dit :
 
 <!-- id: s6-14-0195 -->
 
-> « *Ne vous fatiguez pas, dans quinze jours vous commencerez à le sentir, il est là sous l’escalier, n’en parlons plus.* »
+<div class="text-quotation">
+
+« *Ne vous fatiguez pas, dans quinze jours vous commencerez à le sentir, il est là sous l’escalier, n’en parlons plus.* »
+
+</div>
 
 <!-- id: s6-14-0196 -->
 
@@ -856,7 +872,7 @@ Nous le voyons défaire LAERTE dans tous les rounds…
 
 <!-- id: s6-14-0210 -->
 
-> il le touche quatre ou cinq fois alors qu’on avait fait le pari qu’il le toucherait au plus « *cinq contre douze* »
+il le touche quatre ou cinq fois alors qu’on avait fait le pari qu’il le toucherait au plus « *cinq contre douze* »
 
 <!-- id: s6-14-0211 -->
 
@@ -884,7 +900,11 @@ On voit LAERTE se déchirer la poitrine, et *bondir dans le trou pour étreindre
 
 <!-- id: s6-14-0217 -->
 
-> « *Qui pousse ces cris de désespoir à propos de la mort de cette jeune fille ?* »
+<div class="text-quotation">
+
+« *Qui pousse ces cris de désespoir à propos de la mort de cette jeune fille ?* »
+
+</div>
 
 <!-- id: s6-14-0218 -->
 
@@ -892,7 +912,11 @@ Et il dit :
 
 <!-- id: s6-14-0219 -->
 
-> « *Celui qui crie cela, c’est moi, Hamlet le danois.* »
+<div class="text-quotation">
+
+« *Celui qui crie cela, c’est moi, Hamlet le danois.* »
+
+</div>
 
 <!-- id: s6-14-0220 -->
 
@@ -1386,7 +1410,7 @@ We have finally to return to the subject with which we started, namely poetic cr
 
 <!-- id: s6-14-0324 -->
 
-> With greater insight he could have replaced the word "will" by "pious wish," which, as Loening (Op. cit., S. 246) points out, it obviously means. Curiously enough, Rolfe (Op. cit., p. 23) quotes this very passage in support of Werder’s hypothesis that Hamlet was inhibited by the external difficulties of the situation.
+With greater insight he could have replaced the word "will" by "pious wish," which, as Loening (Op. cit., S. 246) points out, it obviously means. Curiously enough, Rolfe (Op. cit., p. 23) quotes this very passage in support of Werder’s hypothesis that Hamlet was inhibited by the external difficulties of the situation.
 
 <!-- id: s6-14-0325 -->
 

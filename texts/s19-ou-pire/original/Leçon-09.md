@@ -52,7 +52,7 @@ C’est en quoi toute cette psychologie de quelque chose qu’on traduit par «�
 
 <!-- id: s19-09-0012 -->
 
-> qui pour le père Freud a constitué jusqu’à la fin le problème, problème de « *ce qu’elle veut* ».
+qui pour le père Freud a constitué jusqu’à la fin le problème, problème de « *ce qu’elle veut* ».
 
 <!-- id: s19-09-0013 -->
 
@@ -76,7 +76,7 @@ Rien de plus facile à figurer...
 
 <!-- id: s19-09-0018 -->
 
-> pour l’être qui se trouve en charge de faire que dans le langage, *ça parle* ...rien de plus facile à figurer que ce qu’il est fait pour reproduire naturellement, à savoir, comme on dit, son semblable ou son type.
+pour l’être qui se trouve en charge de faire que dans le langage, *ça parle* ...rien de plus facile à figurer que ce qu’il est fait pour reproduire naturellement, à savoir, comme on dit, son semblable ou son type.
 
 <!-- id: s19-09-0019 -->
 
@@ -92,7 +92,7 @@ Mais non seulement ce pointage d’un support typique c’est-à-dire *imaginair
 
 <!-- id: s19-09-0022 -->
 
-> *la marque* comme telle, *le trait unaire* ...ne constitue pas un jugement de valeur, comme il m’est revenu - on l’a dit - que je faisais, jugement de valeur du type :
+*la marque* comme telle, *le trait unaire* ...ne constitue pas un jugement de valeur, comme il m’est revenu - on l’a dit - que je faisais, jugement de valeur du type :
 
 <!-- id: s19-09-0023 -->
 
@@ -128,7 +128,7 @@ C’est ainsi que Freud l’a pensé, et c’est bien ainsi aussi que ceux qui s
 
 <!-- id: s19-09-0031 -->
 
-> même s’ils déclarent modeste ce noyau ...s’en attirer la considération.
+même s’ils déclarent modeste ce noyau ...s’en attirer la considération.
 
 <!-- id: s19-09-0032 -->
 
@@ -164,7 +164,7 @@ Dans toutes les religions...
 
 <!-- id: s19-09-0040 -->
 
-> la bouddhique et aussi bien la mahométane, sans compter les autres ...il y a cette *parure* et cette façon de se parer, je veux dire de marquer la place de ce *savoir de la jouissance*.
+la bouddhique et aussi bien la mahométane, sans compter les autres ...il y a cette *parure* et cette façon de se parer, je veux dire de marquer la place de ce *savoir de la jouissance*.
 
 <!-- id: s19-09-0041 -->
 
@@ -176,7 +176,7 @@ C’est ce dont s’habilitent aussi les philosophies présocratiques et c’est
 
 <!-- id: s19-09-0043 -->
 
-> et l’on peut dire nommément ...la relation à *l’objet(a)*, qui n’est rien d’autre que ce qu’il appelle « *âme* ».
+et l’on peut dire nommément ...la relation à *l’objet(a)*, qui n’est rien d’autre que ce qu’il appelle « *âme* ».
 
 <!-- id: s19-09-0044 -->
 
@@ -200,7 +200,7 @@ Un dingue de temps en temps mugit à s’y retrouver, dans le fil de cette subve
 
 <!-- id: s19-09-0049 -->
 
-> *le discours chrétien*, pour mettre les points sur les i ...puisque, n’en doutons pas, c’est l’*héritier du discours socratique*.
+*le discours chrétien*, pour mettre les points sur les i ...puisque, n’en doutons pas, c’est l’*héritier du discours socratique*.
 
 <!-- id: s19-09-0050 -->
 
@@ -208,7 +208,7 @@ C’est *le discours du maître « up to date »,* du maître dernier modèle 
 
 <!-- id: s19-09-0051 -->
 
-> qui maintenant se pare d’initiales diverses mais qui commencent toujours par « M » ...il en vient ici à la pelle.
+qui maintenant se pare d’initiales diverses mais qui commencent toujours par « M » ...il en vient ici à la pelle.
 
 <!-- id: s19-09-0052 -->
 
@@ -220,7 +220,7 @@ Je le sais parce qu’on me le dit. Car moi d’où je suis, il ne me suffit pas
 
 <!-- id: s19-09-0054 -->
 
-> et j’ai dit que ça fait date, ...c’est un Nietzsche qui *la profère*. Je fais simplement remarquer qu’il ne peut *la proférer*, je veux dire se faire entendre, qu’à l’articuler dans le seul discours audible, c’est-à-dire celui qui détermine le *maître up to date,* comme sa descendance.
+et j’ai dit que ça fait date, ...c’est un Nietzsche qui *la profère*. Je fais simplement remarquer qu’il ne peut *la proférer*, je veux dire se faire entendre, qu’à l’articuler dans le seul discours audible, c’est-à-dire celui qui détermine le *maître up to date,* comme sa descendance.
 
 <!-- id: s19-09-0055 -->
 
@@ -308,13 +308,13 @@ Ce que je voulais dire...
 
 <!-- id: s19-09-0076 -->
 
-> et attendant que quelque chose m’en revienne \[*de la part des mathématiciens*\] : c’était une interpellation ...ce que je voulais dire c’est que, soustrait l’1, tout cet édifice des nombres devrait...
+et attendant que quelque chose m’en revienne \[*de la part des mathématiciens*\] : c’était une interpellation ...ce que je voulais dire c’est que, soustrait l’1, tout cet édifice des nombres devrait...
 
 <!-- id: s19-09-0077 -->
 
-> à l’entendre comme produit d’une opération logique,
->
-> nommément celle qui procède de la position du 0 et de la définition du successeur ...se défaire de toute la chaîne, jusqu’à revenir à son départ.
+à l’entendre comme produit d’une opération logique,
+
+nommément celle qui procède de la position du 0 et de la définition du successeur ...se défaire de toute la chaîne, jusqu’à revenir à son départ.
 
 <!-- id: s19-09-0078 -->
 
@@ -326,9 +326,9 @@ Mais dès maintenant je me contente de noter que la personne qui ainsi me confir
 
 <!-- id: s19-09-0080 -->
 
-> c’est elle qui *dans une dédicace* qu’elle m’a fait l’honneur de me faire
->
-> à propos d’un article où elle-même s’était énoncée ...que j’écrivais vite.
+c’est elle qui *dans une dédicace* qu’elle m’a fait l’honneur de me faire
+
+à propos d’un article où elle-même s’était énoncée ...que j’écrivais vite.
 
 <!-- id: s19-09-0081 -->
 
@@ -352,11 +352,11 @@ Je m’en excuse, je n’ai jamais écrit que pour les gens censés m’avoir en
 
 <!-- id: s19-09-0086 -->
 
-> *le rapport du congrès* par exemple ...je n’y ai jamais donné qu’un discours sur mon rapport. Qu’on consulte ce que j’ai dit à Rome...
+*le rapport du congrès* par exemple ...je n’y ai jamais donné qu’un discours sur mon rapport. Qu’on consulte ce que j’ai dit à Rome...
 
 <!-- id: s19-09-0087 -->
 
-> pour le congrès ainsi nommé, j’ai fait le rapport écrit qu’on sait et ça a été publié en son temps, ...ce que j’ai dit je ne l’ai pas repris dans mon *écrit,* mais on y sera certainement plus à l’aise que dans le *rapport* lui-même.
+pour le congrès ainsi nommé, j’ai fait le rapport écrit qu’on sait et ça a été publié en son temps, ...ce que j’ai dit je ne l’ai pas repris dans mon *écrit,* mais on y sera certainement plus à l’aise que dans le *rapport* lui-même.
 
 <!-- id: s19-09-0088 -->
 
@@ -364,7 +364,7 @@ Ceux pour qui donc, en somme, j’avais fait ce travail de reprise logique, ce t
 
 <!-- id: s19-09-0089 -->
 
-> dont je démontre précisément que ce discours doit s’abstenir ...pour retourner à ces « *êtres »* et en faire le support du discours de l’analysant, ne font que revenir au bavardage.
+dont je démontre précisément que ce discours doit s’abstenir ...pour retourner à ces « *êtres »* et en faire le support du discours de l’analysant, ne font que revenir au bavardage.
 
 <!-- id: s19-09-0090 -->
 
@@ -376,7 +376,7 @@ C’est bien pourquoi, à propos de mon « *sujet supposé savoir »*, il s’
 
 <!-- id: s19-09-0092 -->
 
-> justement à s’apercevoir de décoller de ce où je les conduisais, de la ligne où je les maintenais ...qu’ils ne savaient plus rien.
+justement à s’apercevoir de décoller de ce où je les conduisais, de la ligne où je les maintenais ...qu’ils ne savaient plus rien.
 
 <!-- id: s19-09-0093 -->
 
@@ -388,7 +388,7 @@ Il n’y a à ça qu’une petite paille que j’ai déjà pointée tout à l’
 
 <!-- id: s19-09-0095 -->
 
-> il occupe avec quoi : c’est ce que je laisse à y revenir ...*il occupe la position du semblant*.
+il occupe avec quoi : c’est ce que je laisse à y revenir ...*il occupe la position du semblant*.
 
 <!-- id: s19-09-0096 -->
 
@@ -396,9 +396,9 @@ Il l’occupe légitimement parce que, par rapport à *la jouissance*...
 
 <!-- id: s19-09-0097 -->
 
-> à *la jouissance* telle qu’ils ont à la saisir dans les propos de celui qu’au titre d’analysant,
->
-> ils cautionnent dans son énonciation de sujet ...*il n’y a pas d’autre position tenable*, qu’il n’y a que de là que s’aperçoit jusqu’où *la jouissance* de cette énonciation autorisée, peut se mener sans dégâts trop notoires.
+à *la jouissance* telle qu’ils ont à la saisir dans les propos de celui qu’au titre d’analysant,
+
+ils cautionnent dans son énonciation de sujet ...*il n’y a pas d’autre position tenable*, qu’il n’y a que de là que s’aperçoit jusqu’où *la jouissance* de cette énonciation autorisée, peut se mener sans dégâts trop notoires.
 
 <!-- id: s19-09-0098 -->
 
@@ -406,11 +406,11 @@ Mais *le semblant* ne se nourrit pas de *la jouissance*...
 
 <!-- id: s19-09-0099 -->
 
-> qu’il bafouerait, au dire de ceux qui reviennent au discours de *l’ornière* ...il donne, *ce semblant,* à autre chose que lui-même, son porte-voix et justement *de se montrer comme masque*...
+qu’il bafouerait, au dire de ceux qui reviennent au discours de *l’ornière* ...il donne, *ce semblant,* à autre chose que lui-même, son porte-voix et justement *de se montrer comme masque*...
 
 <!-- id: s19-09-0100 -->
 
-> je dis ouvertement porté, comme dans la scène grecque ...*le semblant* prend effet d’être manifeste : quand l’acteur porte le masque, son visage ne grimace pas, il n’est pas réaliste.
+je dis ouvertement porté, comme dans la scène grecque ...*le semblant* prend effet d’être manifeste : quand l’acteur porte le masque, son visage ne grimace pas, il n’est pas réaliste.
 
 <!-- id: s19-09-0101 -->
 
@@ -442,7 +442,7 @@ Rien d’autre que de démontrer justement, de le pouvoir démontrer, que la ter
 
 <!-- id: s19-09-0108 -->
 
-> au regard de ce qui s’y produit de travail en pure perte ...que conjuration à faire pitié.
+au regard de ce qui s’y produit de travail en pure perte ...que conjuration à faire pitié.
 
 <!-- id: s19-09-0109 -->
 
@@ -474,11 +474,11 @@ Il n’est rien que ce qui provient de la notation qui résulte du fait de la po
 
 <!-- id: s19-09-0116 -->
 
-> maintien assez rude à soutenir ...mais qui se confirme de fournir *un savoir non-initiatique* parce que procédant...
+maintien assez rude à soutenir ...mais qui se confirme de fournir *un savoir non-initiatique* parce que procédant...
 
 <!-- id: s19-09-0117 -->
 
-> n’en déplaise à quelqu’un ...du *sujet* \[S\] qu’*un discours* \[*Universitaire*\] assujettit comme tel à *la production *:
+n’en déplaise à quelqu’un ...du *sujet* \[S\] qu’*un discours* \[*Universitaire*\] assujettit comme tel à *la production *:
 
 <!-- id: s19-09-0118 -->
 
@@ -518,7 +518,7 @@ Plus exactement, c’est dans la pratique même du *rapport sexuel* que s’affi
 
 <!-- id: s19-09-0127 -->
 
-> nous, comme êtres parlants ...promouvons partout ailleurs, *de l’impossible et du réel.* À savoir que le *réel* n’a pas d’autre attestation.
+nous, comme êtres parlants ...promouvons partout ailleurs, *de l’impossible et du réel.* À savoir que le *réel* n’a pas d’autre attestation.
 
 <!-- id: s19-09-0128 -->
 
@@ -526,9 +526,9 @@ Plus exactement, c’est dans la pratique même du *rapport sexuel* que s’affi
 
 <!-- id: s19-09-0129 -->
 
-> car à la vérité il est assez patent que l’*imagi­naire*
->
-> tel qu’il surgit de l’éthologie animale, c’est une articulation du *Réel* ...ce que nous avons à suspecter de toute réalité, c’est qu’elle soit *fan­tasmatique*.
+car à la vérité il est assez patent que l’*imagi­naire*
+
+tel qu’il surgit de l’éthologie animale, c’est une articulation du *Réel* ...ce que nous avons à suspecter de toute réalité, c’est qu’elle soit *fan­tasmatique*.
 
 <!-- id: s19-09-0130 -->
 
@@ -536,7 +536,7 @@ Et ce qui permet d’y échapper *c’est qu’une impossibilité*...
 
 <!-- id: s19-09-0131 -->
 
-> dans la formule symbolique qu’il nous est permis d’en tirer ...*en démontre le réel,* et dont ce n’est pas pour rien qu’ici pour désigner le *symbolique* en question, on se servira du mot *terme*.
+dans la formule symbolique qu’il nous est permis d’en tirer ...*en démontre le réel,* et dont ce n’est pas pour rien qu’ici pour désigner le *symbolique* en question, on se servira du mot *terme*.
 
 <!-- id: s19-09-0132 -->
 
@@ -552,9 +552,9 @@ C’est tout de même curieux que, mis à part quelques auteurs, Stendhal, Baude
 
 <!-- id: s19-09-0135 -->
 
-> et laissons tomber la phénoménologie amoureuse du surréalisme
->
-> dont le moralisme coupe les bras, c’est le cas de le dire ...il est curieux que cette expression littéraire soit si courte, pour qu’il ne puisse même pas nous en apparaître que la seule chose qui nous intéresserait c’est *l’étrangeté*, et que si ceci suffit à désigner tout ce qui s’en inscrit dans le roman du XIX<sup>ème</sup> siècle, pour tout ce qui est d’avant c’est le contraire.
+et laissons tomber la phénoménologie amoureuse du surréalisme
+
+dont le moralisme coupe les bras, c’est le cas de le dire ...il est curieux que cette expression littéraire soit si courte, pour qu’il ne puisse même pas nous en apparaître que la seule chose qui nous intéresserait c’est *l’étrangeté*, et que si ceci suffit à désigner tout ce qui s’en inscrit dans le roman du XIX<sup>ème</sup> siècle, pour tout ce qui est d’avant c’est le contraire.
 
 <!-- id: s19-09-0136 -->
 
@@ -594,7 +594,7 @@ Il faut recon­naître qu’elle ne s’y est pas limitée, et ce qui lui en res
 
 <!-- id: s19-09-0145 -->
 
-> *hǎo* *tseu* *nǚ*
+*hǎo* *tseu* *nǚ*
 
 <!-- id: s19-09-0146 -->
 
@@ -678,7 +678,7 @@ Ce qui veut dire, sur le seul plan de la vérité, que *la vérité* ne puisse p
 
 <!-- id: s19-09-0166 -->
 
-> comme ça s’est fait pendant des siècles ...être la *double vérité*, mais jamais à être la *vérité complète*. 0 *n’est pas la négation de quoi que ce soit,* notamment d’aucune mul­titude, il joue son rôle dans l’édification du *nombre*.
+comme ça s’est fait pendant des siècles ...être la *double vérité*, mais jamais à être la *vérité complète*. 0 *n’est pas la négation de quoi que ce soit,* notamment d’aucune mul­titude, il joue son rôle dans l’édification du *nombre*.
 
 <!-- id: s19-09-0167 -->
 
@@ -714,7 +714,7 @@ Il n’est pas vrai...
 
 <!-- id: s19-09-0175 -->
 
-> ce que je marque de la barre qui convient ...que 0 impliquant 1, implique 2.
+ce que je marque de la barre qui convient ...que 0 impliquant 1, implique 2.
 
 <!-- id: s19-09-0176 -->
 

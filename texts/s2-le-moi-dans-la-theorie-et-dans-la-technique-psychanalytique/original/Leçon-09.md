@@ -230,9 +230,9 @@ Donc il y a *deux situations* dans lesquelles le *moi* peut être exposé à un 
 
 <!-- id: s2-09-0057 -->
 
-> mais pour éviter un déplaisir et il le fait ainsi qu’ANZIEU l’a dit l’autre jour : au moyen d’un investissement latéral. Si le système Ψ est capable d’effectuer cette inhibition, l’évitement du déplaisir et la défense sont possibles.
->
-> Dans le cas contraire, il y a une sorte de débordement, *un déplaisir intense*, *immense,* et une défense primaire.
+mais pour éviter un déplaisir et il le fait ainsi qu’ANZIEU l’a dit l’autre jour : au moyen d’un investissement latéral. Si le système Ψ est capable d’effectuer cette inhibition, l’évitement du déplaisir et la défense sont possibles.
+
+Dans le cas contraire, il y a une sorte de débordement, *un déplaisir intense*, *immense,* et une défense primaire.
 
 <!-- id: s2-09-0058 -->
 
@@ -472,7 +472,7 @@ Ce qui lui importe en effet c’est ce qui pose le pro­blème : comment *le qu
 
 <!-- id: s2-09-0117 -->
 
-> c’est-à-dire cette sorte de zone de *perceptions* du monde extérieur - dont la plupart n’ont pas de signification biologique, ne meuvent directement aucun besoin, ne répondent à rien des besoins de l’être vivant - considérée comme source de ce Q<sub>η</sub>, quantité neuronique
+c’est-à-dire cette sorte de zone de *perceptions* du monde extérieur - dont la plupart n’ont pas de signification biologique, ne meuvent directement aucun besoin, ne répondent à rien des besoins de l’être vivant - considérée comme source de ce Q<sub>η</sub>, quantité neuronique
 
 <!-- id: s2-09-0118 -->
 

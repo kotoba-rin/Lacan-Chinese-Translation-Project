@@ -670,7 +670,7 @@ max_segment_id: 164
 
 <!-- id: s5-12-0162 -->
 
-> ![[texts/s5-les-formations-de-l-inconscient/original/assets/image46.jpeg|97]]
+![[texts/s5-les-formations-de-l-inconscient/original/assets/image46.jpeg|97]]
 
 <!-- id: s5-12-0163 -->
 

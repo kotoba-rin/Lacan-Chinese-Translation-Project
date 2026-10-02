@@ -41,7 +41,7 @@ c’est-à-dire l’articulation, sous la forme du signifiant, d’un besoin.
 
 <!-- id: s5-25-0007 -->
 
-> articulée puisque elle se produit à l’horizon de toute articulation signifiante : elle est l’arrière-plan fondamental de toute articulation d’une demande.
+articulée puisque elle se produit à l’horizon de toute articulation signifiante : elle est l’arrière-plan fondamental de toute articulation d’une demande.
 
 <!-- id: s5-25-0008 -->
 
@@ -237,13 +237,17 @@ Prenons tout de même au hasard par exemple *cette phrase* :
 
 <!-- id: s5-25-0045 -->
 
-> « *Nous fîmes donc allusion à un temps déjà second de l’analyse, alors qu’une inter­vention de cette nature avait précédé antérieurement, mais on y revient parce qu’en quelque sorte déjà le sujet qui a été vraiment attiré sur le fait d’approfondir le trans­fert* \[...\] *La situation de transfert devint de plus en plus précise* \[...\] *Il fallut insister beaucoup pour vaincre certains silences* \[...\] *Le transfert devenait donc franchement homosexuel* \[p.424\] \[...\] *Nous fîmes donc allusion au fait que s’il existe* - puisqu’il s’agit de faciliter - *entre hommes des relations affectueuses que l’on désigne par le nom d’amitié et dont personne ne se sent humilié, ces relations prennent toujours un certain caractère de passi­vité pour l’un des partenaires, lorsque celui qui se trouve dans la nécessité de rece­voir de l’autre* \[...\] *des directives* \[...\] *Nous eûmes à ce moment difficile l’idée d’user d’une ana­logie qui pouvait être sentie « de plano » par cet ancien officier. » Pourquoi les hommes au combat se font-ils tuer pour un chef*
->
-> *qu’ils aiment, si ce n’est justement parce qu’ils acceptent avec une absence absolue de résistance* \[...\]*ses consignes et ses ordres ?*
->
-> *Ainsi, ils épousent si bien les sentiments et les pensées du chef, qu’ils s’identifient avec lui et font le sacrifice de leur vie*
->
-> *comme il le ferait lui-même s’il se trouvait en leur lieu et place.* » \[R.F.P. 1948, pp.424-425 \]
+<div class="text-quotation">
+
+« *Nous fîmes donc allusion à un temps déjà second de l’analyse, alors qu’une inter­vention de cette nature avait précédé antérieurement, mais on y revient parce qu’en quelque sorte déjà le sujet qui a été vraiment attiré sur le fait d’approfondir le trans­fert* \[...\] *La situation de transfert devint de plus en plus précise* \[...\] *Il fallut insister beaucoup pour vaincre certains silences* \[...\] *Le transfert devenait donc franchement homosexuel* \[p.424\] \[...\] *Nous fîmes donc allusion au fait que s’il existe* - puisqu’il s’agit de faciliter - *entre hommes des relations affectueuses que l’on désigne par le nom d’amitié et dont personne ne se sent humilié, ces relations prennent toujours un certain caractère de passi­vité pour l’un des partenaires, lorsque celui qui se trouve dans la nécessité de rece­voir de l’autre* \[...\] *des directives* \[...\] *Nous eûmes à ce moment difficile l’idée d’user d’une ana­logie qui pouvait être sentie « de plano » par cet ancien officier. » Pourquoi les hommes au combat se font-ils tuer pour un chef*
+
+*qu’ils aiment, si ce n’est justement parce qu’ils acceptent avec une absence absolue de résistance* \[...\]*ses consignes et ses ordres ?*
+
+*Ainsi, ils épousent si bien les sentiments et les pensées du chef, qu’ils s’identifient avec lui et font le sacrifice de leur vie*
+
+*comme il le ferait lui-même s’il se trouvait en leur lieu et place.* » \[R.F.P. 1948, pp.424-425 \]
+
+</div>
 
 <!-- id: s5-25-0046 -->
 
@@ -251,9 +255,13 @@ Vous voyez qu’une intervention de cette espèce doit demander un secteur assez
 
 <!-- id: s5-25-0047 -->
 
-> « *Ils ne peuvent agir ainsi que parce qu’ils aiment passivement leur chef. Cette remarque ne fit pas disparaître immédiatement toute retenue chez J. mais elle lui per­mit de continuer à se montrer objectif, alors qu’il allait revivre avec nous*
->
-> *d’autres situations homosexuelles, plus précises, celles-là !* » \[R.F.P.1948, pp.425-426\]
+<div class="text-quotation">
+
+« *Ils ne peuvent agir ainsi que parce qu’ils aiment passivement leur chef. Cette remarque ne fit pas disparaître immédiatement toute retenue chez J. mais elle lui per­mit de continuer à se montrer objectif, alors qu’il allait revivre avec nous*
+
+*d’autres situations homosexuelles, plus précises, celles-là !* » \[R.F.P.1948, pp.425-426\]
+
+</div>
 
 <!-- id: s5-25-0048 -->
 
@@ -402,7 +410,7 @@ dans le sens d’une *normalisation* des rapports avec l’autre
 
 <!-- id: s5-25-0076 -->
 
-> d’une énamoration problématique, je dirai d’un véritable produit artifi­ciel de ces sortes d’interventions, d’une énamoration qui prend en effet l’aspect d’une énamoration homosexuelle, et qui n’est en somme que la production forcée, si l’on peut dire, de ce *rapport* S par rapport à *a* \[S ◊ *a*\] qui, dans une telle façon d’orienter, de diriger l’analyse, est à proprement parler ce qui a été forcé par la réduction à la demande.
+d’une énamoration problématique, je dirai d’un véritable produit artifi­ciel de ces sortes d’interventions, d’une énamoration qui prend en effet l’aspect d’une énamoration homosexuelle, et qui n’est en somme que la production forcée, si l’on peut dire, de ce *rapport* S par rapport à *a* \[S ◊ *a*\] qui, dans une telle façon d’orienter, de diriger l’analyse, est à proprement parler ce qui a été forcé par la réduction à la demande.
 
 <!-- id: s5-25-0077 -->
 
@@ -430,7 +438,11 @@ Il l’articule lui-même de la façon suivante :
 
 <!-- id: s5-25-0082 -->
 
-> « …*comme l’obsédé masculin, la femme a besoin de s’identifier sur un mode régressif, à l’homme, pour pouvoir se libérer des angoisses de la petite enfance, mais alors que le premier s’appuiera sur cette identification pour transformer l’objet d’amour infan­tile en objet d’amour génital*… »
+<div class="text-quotation">
+
+« …*comme l’obsédé masculin, la femme a besoin de s’identifier sur un mode régressif, à l’homme, pour pouvoir se libérer des angoisses de la petite enfance, mais alors que le premier s’appuiera sur cette identification pour transformer l’objet d’amour infan­tile en objet d’amour génital*… »
+
+</div>
 
 <!-- id: s5-25-0083 -->
 
@@ -443,7 +455,11 @@ Il y a sûrement là quelque chose qui tout au moins pose un problème :
 
 <!-- id: s5-25-0085 -->
 
-> « …*elle, la femme, se fondant d’abord sur cette même identification, tend à aban­donner ce premier objet, et à s’orienter vers une fixation hétérosexuelle, comme si elle pouvait procéder à une nouvelle identification féminine, cette fois sur la personne de l’analyste.* » \[R.F.P.1950, pp. 215-216\]
+<div class="text-quotation">
+
+« …*elle, la femme, se fondant d’abord sur cette même identification, tend à aban­donner ce premier objet, et à s’orienter vers une fixation hétérosexuelle, comme si elle pouvait procéder à une nouvelle identification féminine, cette fois sur la personne de l’analyste.* » \[R.F.P.1950, pp. 215-216\]
+
+</div>
 
 <!-- id: s5-25-0086 -->
 
@@ -474,11 +490,15 @@ Assurément nous ne sommes pas pour autant satisfaits de cette explication.
 
 <!-- id: s5-25-0092 -->
 
-> « *Une nouvelle identification, cette fois féminine, cette fois sur la personne de l’analyste.Il va sans dire que l’interprétation*
->
-> *des phénomènes de transfert est ici particulièrement délicate. Si la personnalité de l’analyste masculin est d’abord appré­hendée comme celle d’un homme, avec toutes les interdictions, les peurs et l’agres­sivité que cela comporte, peu après que le désir*
->
-> *de possession phallique* - C’est cela dont nous allons avoir à parler et que nous allons avoir à estimer - *et corrélative­ment de castration de l’analyste est mis à jour, et que de ce fait, les effets de détente précités ont été obtenus, cette personnalité de l’analyste masculin est assimilée à celle d’une mère bienveillante.* » \[R.F.P.1950, pp.215-216\]
+<div class="text-quotation">
+
+« *Une nouvelle identification, cette fois féminine, cette fois sur la personne de l’analyste.Il va sans dire que l’interprétation*
+
+*des phénomènes de transfert est ici particulièrement délicate. Si la personnalité de l’analyste masculin est d’abord appré­hendée comme celle d’un homme, avec toutes les interdictions, les peurs et l’agres­sivité que cela comporte, peu après que le désir*
+
+*de possession phallique* - C’est cela dont nous allons avoir à parler et que nous allons avoir à estimer - *et corrélative­ment de castration de l’analyste est mis à jour, et que de ce fait, les effets de détente précités ont été obtenus, cette personnalité de l’analyste masculin est assimilée à celle d’une mère bienveillante.* » \[R.F.P.1950, pp.215-216\]
+
+</div>
 
 <!-- id: s5-25-0093 -->
 
@@ -486,8 +506,12 @@ Et il ajoute encore :
 
 <!-- id: s5-25-0094 -->
 
-> « *Cette assimilation ne démontre-t-elle pas que la source essentielle de l’agressivité anti­-masculine*
-> *se trouve dans la pulsion destructive initiale dont la mère était l’objet ?* »
+<div class="text-quotation">
+
+« *Cette assimilation ne démontre-t-elle pas que la source essentielle de l’agressivité anti­-masculine*
+*se trouve dans la pulsion destructive initiale dont la mère était l’objet ?* »
+
+</div>
 
 <!-- id: s5-25-0095 -->
 
@@ -495,11 +519,15 @@ Ici un horizon kleinien peut toujours donner quelque appui.
 
 <!-- id: s5-25-0096 -->
 
-> « *La prise de conscience de l’une entraîne le droit au libre exercice de l’autre, et le pou­voir libératoire de cette prise de conscience du désir de possession phallique devient alors « de plano » compréhensible, ainsi que le passage d’une identification à l’autre*
->
-> *en fonction d’une ambiguïté fondamentale de la personne de l’analyste dont l’aspect masculin est d’abord seul perceptible*
->
-> *à la malade.* » \[R.F.P.1950, pp.215-216\]
+<div class="text-quotation">
+
+« *La prise de conscience de l’une entraîne le droit au libre exercice de l’autre, et le pou­voir libératoire de cette prise de conscience du désir de possession phallique devient alors « de plano » compréhensible, ainsi que le passage d’une identification à l’autre*
+
+*en fonction d’une ambiguïté fondamentale de la personne de l’analyste dont l’aspect masculin est d’abord seul perceptible*
+
+*à la malade.* » \[R.F.P.1950, pp.215-216\]
+
+</div>
 
 <!-- id: s5-25-0097 -->
 
@@ -582,7 +610,11 @@ dans l’occasion se trouver dire qu’elle a rêvé qu’elle écrasait la têt
 
 <!-- id: s5-25-0112 -->
 
-> « *Je passe chaque matin, pour me rendre à mon travail, devant un magasin des pompes funèbres où sont exposés* 4 *« Christ ». En les regardant, j’ai la sensation de marcher sur leur verge. J’éprouve une sorte de plaisir aigu et de l’angoisse.* »
+<div class="text-quotation">
+
+« *Je passe chaque matin, pour me rendre à mon travail, devant un magasin des pompes funèbres où sont exposés* 4 *« Christ ». En les regardant, j’ai la sensation de marcher sur leur verge. J’éprouve une sorte de plaisir aigu et de l’angoisse.* »
+
+</div>
 
 <!-- id: s5-25-0113 -->
 
@@ -783,7 +815,11 @@ Si ce *désir de destruction* se retourne contre elle selon la forme essentielle
 
 <!-- id: s5-25-0154 -->
 
-> « *Tu es toi-même ceci que tu veux détruire, pour autant que toi aussi tu veux être le phallus. *»
+<div class="text-quotation">
+
+« *Tu es toi-même ceci que tu veux détruire, pour autant que toi aussi tu veux être le phallus. *»
+
+</div>
 
 <!-- id: s5-25-0155 -->
 

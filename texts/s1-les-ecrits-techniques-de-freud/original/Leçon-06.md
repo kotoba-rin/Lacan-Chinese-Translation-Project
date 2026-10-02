@@ -66,11 +66,11 @@ Est-ce que *le système symbolique* formidablement intriqué, entrecroisé, marq
 
 <!-- id: s1-06-0016 -->
 
-> où le mot \[*Verschlungenheit*\] est dans cet article que je présentais devant vous \[*Die außerordentliche Verschlungenheit des in dieser Arbeit*
->
-> *behandelten Themas legt die Versuchung nahe, auf eine Anzahl von anstoßenden Problemen einzugehen, deren Klärung eigentlich erforderlich wäre,*
->
-> *ehe man von den hier zu beschreibenden psychischen Vorgängen in unzweideutigen Worten reden könnte.*\]
+où le mot \[*Verschlungenheit*\] est dans cet article que je présentais devant vous \[*Die außerordentliche Verschlungenheit des in dieser Arbeit*
+
+*behandelten Themas legt die Versuchung nahe, auf eine Anzahl von anstoßenden Problemen einzugehen, deren Klärung eigentlich erforderlich wäre,*
+
+*ehe man von den hier zu beschreibenden psychischen Vorgängen in unzweideutigen Worten reden könnte.*\]
 
 <!-- id: s1-06-0017 -->
 
@@ -414,9 +414,13 @@ Le texte allemand était :
 
 <!-- id: s1-06-0102 -->
 
-> « *Die Bejahung - als Ersatz der Vereinigung - gehört dem Eros an,*
->
-> *die Verneinung - Nachfolge der Ausstoßung - dem Destruktionstrieb.* »
+<div class="text-quotation">
+
+« *Die Bejahung - als Ersatz der Vereinigung - gehört dem Eros an,*
+
+*die Verneinung - Nachfolge der Ausstoßung - dem Destruktionstrieb.* »
+
+</div>
 
 <!-- id: s1-06-0103 -->
 
@@ -672,7 +676,7 @@ Cela ne veut rien dire d’autre, sinon que KRIS, sans aucun doute par un détou
 
 <!-- id: s1-06-0166 -->
 
-> à quelque chose que nous serons amenés à reposer comme *question* dans la suite de notre développement
+à quelque chose que nous serons amenés à reposer comme *question* dans la suite de notre développement
 
 <!-- id: s1-06-0167 -->
 

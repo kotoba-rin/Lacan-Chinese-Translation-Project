@@ -22,7 +22,7 @@ Que j’aie réussi...
 
 <!-- id: s24-12-0005 -->
 
-> enfin « *j’ai réussi* »... je ne l’ai pas fait exprès ! ...que j’aie réussi à pousser jusqu’au *porno*, c’est quand même... c’est quand même ce qu’on appelle un succès !
+enfin « *j’ai réussi* »... je ne l’ai pas fait exprès ! ...que j’aie réussi à pousser jusqu’au *porno*, c’est quand même... c’est quand même ce qu’on appelle un succès !
 
 <!-- id: s24-12-0006 -->
 
@@ -98,7 +98,7 @@ Naturellement là, il faut quand même passer par une série d’interrogations�
 
 <!-- id: s24-12-0024 -->
 
-> puisque de temps en temps elle opère ...est-ce qu’elle opère par ce qu’on appelle un « *effet de suggestion* » ?
+puisque de temps en temps elle opère ...est-ce qu’elle opère par ce qu’on appelle un « *effet de suggestion* » ?
 
 <!-- id: s24-12-0025 -->
 
@@ -106,7 +106,7 @@ Pour que l’*effet de suggestion* tienne, ça suppose que le langage...
 
 <!-- id: s24-12-0026 -->
 
-> là je me répète ...que le langage tienne à ce qu’on appel­le l’homme.
+là je me répète ...que le langage tienne à ce qu’on appel­le l’homme.
 
 <!-- id: s24-12-0027 -->
 
@@ -142,7 +142,11 @@ C’est tout au moins ainsi que je l’ai articulé, au temps où je parlais *du
 
 <!-- id: s24-12-0035 -->
 
-> « *ce qui cesse le moins de s’écrire* ».
+<div class="text-quotation">
+
+« *ce qui cesse le moins de s’écrire* ».
+
+</div>
 
 <!-- id: s24-12-0036 -->
 
@@ -154,7 +158,7 @@ C’est bien là que je voudrais reposer une question à cette chère Julia Kris
 
 <!-- id: s24-12-0038 -->
 
-> ça, ça va la forcer à sortir un peu plus qu’un filet de voix comme tout à l’heure ...qu’est-ce qu’elle appelle la *métalangue ?*
+ça, ça va la forcer à sortir un peu plus qu’un filet de voix comme tout à l’heure ...qu’est-ce qu’elle appelle la *métalangue ?*
 
 <!-- id: s24-12-0039 -->
 
@@ -254,7 +258,7 @@ En tous les cas, il y a une chose où je me suis risqué à opérer dans le sens
 
 <!-- id: s24-12-0063 -->
 
-> la métalangue sur quoi tout à l’heure j’interrogeais Julia Kristeva ...la métalangue en question consiste à traduire *Unbewußt,* par *une-bévue* .
+la métalangue sur quoi tout à l’heure j’interrogeais Julia Kristeva ...la métalangue en question consiste à traduire *Unbewußt,* par *une-bévue* .
 
 <!-- id: s24-12-0064 -->
 
@@ -338,7 +342,7 @@ Il y a un nommé Clérambault qui s’est aperçu un jour...
 
 <!-- id: s24-12-0084 -->
 
-> Dieu sait comment il a trouvé ça ...qu’il y avait quelque part de *l’automatisme mental*.
+Dieu sait comment il a trouvé ça ...qu’il y avait quelque part de *l’automatisme mental*.
 
 <!-- id: s24-12-0085 -->
 
@@ -350,11 +354,11 @@ Qu’il y ait des voix...
 
 <!-- id: s24-12-0087 -->
 
-> des voix, d’où viennent-elles ? elles viennent forcément du sujet lui-même ...qu’il y ait des voix qui disent : « *Elle est en train de se torcher le cul* », on est stupéfait que cette dérision...
+des voix, d’où viennent-elles ? elles viennent forcément du sujet lui-même ...qu’il y ait des voix qui disent : « *Elle est en train de se torcher le cul* », on est stupéfait que cette dérision...
 
 <!-- id: s24-12-0088 -->
 
-> puisque - à ce qu’il paraît - il y a dérision ...n’arrive pas plus souvent.
+puisque - à ce qu’il paraît - il y a dérision ...n’arrive pas plus souvent.
 
 <!-- id: s24-12-0089 -->
 
@@ -362,7 +366,7 @@ Moi, j’ai vu récemment à ma « *présentation de malades* », comme on dit
 
 <!-- id: s24-12-0090 -->
 
-> si tant est qu’ils soient malades ...j’ai vu un japonais qui avait quelque chose que lui-même appelait « *écho de la pensée* ».
+si tant est qu’ils soient malades ...j’ai vu un japonais qui avait quelque chose que lui-même appelait « *écho de la pensée* ».
 
 <!-- id: s24-12-0091 -->
 
@@ -390,7 +394,7 @@ Il a glissé dans l’automatisme mental de ce fait que, dans toutes ces métala
 
 <!-- id: s24-12-0097 -->
 
-> qui se trouvaient être maniées assez aisément ...ben, il ne s’y retrouvait pas.
+qui se trouvaient être maniées assez aisément ...ben, il ne s’y retrouvait pas.
 
 <!-- id: s24-12-0098 -->
 
@@ -414,13 +418,13 @@ Si on se met à se dire des choses à soi-même...
 
 <!-- id: s24-12-0103 -->
 
-> comme il s’exprimait, le dit japonais, textuellement, ...si on se met à se dire des choses à soi-même, pourquoi ça ne glisserait-il pas vers l’automatisme mental parce qu’il est tout de même bien certain que...
+comme il s’exprimait, le dit japonais, textuellement, ...si on se met à se dire des choses à soi-même, pourquoi ça ne glisserait-il pas vers l’automatisme mental parce qu’il est tout de même bien certain que...
 
 <!-- id: s24-12-0104 -->
 
-> conformément à ce que dit Edgar Morin dans un livre
->
-> qui est paru récemment et où il s’interroge sur *La nature de la nature* ...il est tout à fait clair que la nature n’est pas si naturelle que ça, c’est même en ça que consiste cette « *pourriture* » qui est ce qu’on appelle généralement *la culture, la culture bouillonne* comme je vous l’ai fait remarquer incidemment.
+conformément à ce que dit Edgar Morin dans un livre
+
+qui est paru récemment et où il s’interroge sur *La nature de la nature* ...il est tout à fait clair que la nature n’est pas si naturelle que ça, c’est même en ça que consiste cette « *pourriture* » qui est ce qu’on appelle généralement *la culture, la culture bouillonne* comme je vous l’ai fait remarquer incidemment.
 
 <!-- id: s24-12-0105 -->
 
@@ -448,7 +452,7 @@ Je vous ai fait remarquer quelque chose concernant la *parenté * : *La parent�
 
 <!-- id: s24-12-0111 -->
 
-> au sens où je l’ai articulé tout à l’heure : le « *pas pouate assez* » ...un *pouate*, on a autant de parenté avec lui.
+au sens où je l’ai articulé tout à l’heure : le « *pas pouate assez* » ...un *pouate*, on a autant de parenté avec lui.
 
 <!-- id: s24-12-0112 -->
 
@@ -480,7 +484,7 @@ Si j’y suis introduit par la psychanalyse, c’est tout de même pas sans *por
 
 <!-- id: s24-12-0119 -->
 
-> ça n’a exactement pas d’autre incidence ...*portée* veut dire *sens* et nous restons collés toujours *au sens*. \[*cf. Télé*. Sta 14 « ...*non pas « comprendre », piquer dans le sens, mais le raser d’aussi près qu’il se peut sans qu’il fasse glu*...\]
+ça n’a exactement pas d’autre incidence ...*portée* veut dire *sens* et nous restons collés toujours *au sens*. \[*cf. Télé*. Sta 14 « ...*non pas « comprendre », piquer dans le sens, mais le raser d’aussi près qu’il se peut sans qu’il fasse glu*...\]
 
 <!-- id: s24-12-0120 -->
 
@@ -500,7 +504,7 @@ Comme je ne suis débile mental que relativement...
 
 <!-- id: s24-12-0124 -->
 
-> je veux dire que je le suis comme tout le monde ...comme je ne suis débile mental que relativement, c’est peut-être qu’une petite *lumière* me serait arrivée.
+je veux dire que je le suis comme tout le monde ...comme je ne suis débile mental que relativement, c’est peut-être qu’une petite *lumière* me serait arrivée.
 
 <!-- id: s24-12-0125 -->
 

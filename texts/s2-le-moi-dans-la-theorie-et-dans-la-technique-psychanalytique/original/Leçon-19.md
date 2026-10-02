@@ -50,7 +50,7 @@ Donc à l’origine elle ne comporte pas cet emploi, de revenir de ce dont elle 
 
 <!-- id: s2-19-0012 -->
 
-> ceci se base sur les *Trois essais sur la théorie de la sexualité,* qui, comme vous le savez, se situe en 1905
+ceci se base sur les *Trois essais sur la théorie de la sexualité,* qui, comme vous le savez, se situe en 1905
 
 <!-- id: s2-19-0013 -->
 
@@ -94,9 +94,9 @@ Ceci n’a absolument rien à faire avec ce qui est traditionnel dans la théori
 
 <!-- id: s2-19-0023 -->
 
-> pour employer le jeu de mot qui garde toute sa valeur qui est celui grâce auquel la théorie
->
-> de la connaissan­ce est au cœur de toute espèce d’élaboration du rapport de l’homme à son monde
+pour employer le jeu de mot qui garde toute sa valeur qui est celui grâce auquel la théorie
+
+de la connaissan­ce est au cœur de toute espèce d’élaboration du rapport de l’homme à son monde
 
 <!-- id: s2-19-0024 -->
 
@@ -162,7 +162,7 @@ Et c’est ce désir qui est en même temps à la source de toute espèce d’an
 
 <!-- id: s2-19-0039 -->
 
-> car s’il n’était que ce qu’il était, il n’y aurait même pas la place pour qu’on en parle
+car s’il n’était que ce qu’il était, il n’y aurait même pas la place pour qu’on en parle
 
 <!-- id: s2-19-0040 -->
 
@@ -234,9 +234,9 @@ Reprenez, réexaminez l’usage constant que nous faisons de la notion du *dési
 
 <!-- id: s2-19-0057 -->
 
-> il ne s’agit pas de le qualifier d’*émotionnel* ou pas, vous n’êtes pas for­cement ému
->
-> chaque fois que vous vous servez du mot « *désir* »
+il ne s’agit pas de le qualifier d’*émotionnel* ou pas, vous n’êtes pas for­cement ému
+
+chaque fois que vous vous servez du mot « *désir* »
 
 <!-- id: s2-19-0058 -->
 
@@ -280,7 +280,11 @@ Tout le monde sait depuis extrêmement longtemps que les faits objectifs de la m
 
 <!-- id: s2-19-0068 -->
 
-> « *Ça ne mange pas de pain, ça ne parle pas non plus, et puis ça n’entend rien, ça n’entend pas raison.* »
+<div class="text-quotation">
+
+« *Ça ne mange pas de pain, ça ne parle pas non plus, et puis ça n’entend rien, ça n’entend pas raison.* »
+
+</div>
 
 <!-- id: s2-19-0069 -->
 
@@ -312,7 +316,7 @@ Mais à partir du moment où on réfléchit, il faut s’étonner du fait, d’a
 
 <!-- id: s2-19-0076 -->
 
-> en tant qu’il est créateur de toute une par­tie du champ de l’expérience humaine
+en tant qu’il est créateur de toute une par­tie du champ de l’expérience humaine
 
 <!-- id: s2-19-0077 -->
 
@@ -368,7 +372,7 @@ Pourquoi *le désir*, en fin de compte, est-il la plupart du temps autre chose q
 
 <!-- id: s2-19-0090 -->
 
-> sur le point, pas seulement de l’expérience vécue, mais de l’expérience expérimentale
+sur le point, pas seulement de l’expérience vécue, mais de l’expérience expérimentale
 
 <!-- id: s2-19-0091 -->
 
@@ -548,7 +552,7 @@ Ce qui est le thème d’*Œdipe à Colone* tient en deux termes :
 
 <!-- id: s2-19-0135 -->
 
-> *la malédiction la plus radicale, la plus totale, la plus absolue. *»
+*la malédiction la plus radicale, la plus totale, la plus absolue. *»
 
 <!-- id: s2-19-0136 -->
 
@@ -592,7 +596,11 @@ Cette sorte de situation, à l’aide de toutes sortes d’artifices et de coups
 
 <!-- id: s2-19-0146 -->
 
-> « *Grouillez-vous ou rendormez-moi, ou faites vite, c’est affreux !* »
+<div class="text-quotation">
+
+« *Grouillez-vous ou rendormez-moi, ou faites vite, c’est affreux !* »
+
+</div>
 
 <!-- id: s2-19-0147 -->
 
@@ -624,7 +632,7 @@ Cela fait six mois qu’il a déjà dit qu’il était mort, et comme quand mêm
 
 <!-- id: s2-19-0154 -->
 
-> de bulle qui tout d’un coup s’effondre et se dissout dans le liquide purulent inanimé.
+de bulle qui tout d’un coup s’effondre et se dissout dans le liquide purulent inanimé.
 
 <!-- id: s2-19-0155 -->
 
@@ -716,7 +724,7 @@ Cette notion *du progrès vital subi* en quelque sorte par la série des stimu­
 
 <!-- id: s2-19-0177 -->
 
-> je dis inten­tionnellement « *qui ne songe* » car en effet c’est bien là que nous sommes, au niveau subjectif qui est évoqué par ce rapport de la vie et de la mort : on conçoit ce que veut dire le désir de sommeil, dont vous parliez l’autre jour, VALABREGA qui est justement ce quelque chose par quoi la vie ne songe qu’à se reposer le plus possible. En attendant, c’est ce quelque chose qui, au début de l’existence du nourrisson, mange son temps par secteurs horaires qui lui laissent, de temps en temps, ouvrir un petit œil : il faut salement qu’on le tire de là pour qu’il arrive à ce rythme, par où nous nous mettons en accord avec le monde. Le désir de sommeil, ce n’est pas pour rien qu’à ce niveau là appa­raît justement, peut apparaître le désir sans nom, c’est parce que c’est en effet un état intermédiaire. Cet assoupissement est quand même l’état vital le plus naturel.
+je dis inten­tionnellement « *qui ne songe* » car en effet c’est bien là que nous sommes, au niveau subjectif qui est évoqué par ce rapport de la vie et de la mort : on conçoit ce que veut dire le désir de sommeil, dont vous parliez l’autre jour, VALABREGA qui est justement ce quelque chose par quoi la vie ne songe qu’à se reposer le plus possible. En attendant, c’est ce quelque chose qui, au début de l’existence du nourrisson, mange son temps par secteurs horaires qui lui laissent, de temps en temps, ouvrir un petit œil : il faut salement qu’on le tire de là pour qu’il arrive à ce rythme, par où nous nous mettons en accord avec le monde. Le désir de sommeil, ce n’est pas pour rien qu’à ce niveau là appa­raît justement, peut apparaître le désir sans nom, c’est parce que c’est en effet un état intermédiaire. Cet assoupissement est quand même l’état vital le plus naturel.
 
 <!-- id: s2-19-0178 -->
 

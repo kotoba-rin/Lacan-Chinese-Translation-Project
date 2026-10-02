@@ -42,9 +42,9 @@ En gros, vous avez dû entendre parler de quelque chose qui s’énonce et qui p
 
 <!-- id: s16-07-0010 -->
 
-> comme nous en témoigne un nommé FILLEAU DE LA CHAISE qui n’est pas à proprement parler une lumière
->
-> mais qui est très lisible \[*Discours sur les pensées de Pascal*, éd. Bossard, 1922\] …PASCAL leur avait très bien expliqué ce qu’il voulait faire, et ils ont fait ce que PASCAL avait indiqué.
+comme nous en témoigne un nommé FILLEAU DE LA CHAISE qui n’est pas à proprement parler une lumière
+
+mais qui est très lisible \[*Discours sur les pensées de Pascal*, éd. Bossard, 1922\] …PASCAL leur avait très bien expliqué ce qu’il voulait faire, et ils ont fait ce que PASCAL avait indiqué.
 
 <!-- id: s16-07-0011 -->
 
@@ -88,7 +88,7 @@ Le réinvestissement - comme on dit - des bénéfices, qui est fondamental…
 
 <!-- id: s16-07-0021 -->
 
-> c’est ce qu’on appelle encore « *l’entreprise* », « *l’entreprise capitaliste* », pour la désigner en propres termes …ne met pas le moyen de production au service du plaisir. C’est même au point que toute une face de quelque chose qui se manifeste dans les marges, est par exemple *un effort*, *un effort* tout à fait timide, et qui ne s’imagine pas du tout voguer vers le succès mais plutôt jeter un doute sur ce qu’on peut appeler notre « *style de vie* ».
+c’est ce qu’on appelle encore « *l’entreprise* », « *l’entreprise capitaliste* », pour la désigner en propres termes …ne met pas le moyen de production au service du plaisir. C’est même au point que toute une face de quelque chose qui se manifeste dans les marges, est par exemple *un effort*, *un effort* tout à fait timide, et qui ne s’imagine pas du tout voguer vers le succès mais plutôt jeter un doute sur ce qu’on peut appeler notre « *style de vie* ».
 
 <!-- id: s16-07-0022 -->
 
@@ -120,7 +120,7 @@ Quelle que soit la justification des énoncés de KANT…
 
 <!-- id: s16-07-0029 -->
 
-> qu’il faille y trouver l’âme même de *l’éthique*, ou bien comme je l’ai fait, *l’éclairer de son rapport* avec SADE …c’est un fait de la pensée que ça se soit produit.
+qu’il faille y trouver l’âme même de *l’éthique*, ou bien comme je l’ai fait, *l’éclairer de son rapport* avec SADE …c’est un fait de la pensée que ça se soit produit.
 
 <!-- id: s16-07-0030 -->
 
@@ -160,13 +160,13 @@ C’est ce qui montre bien qu’il y a quelque chose de changé pour qu’il fai
 
 <!-- id: s16-07-0039 -->
 
-> ou vous ne le savez pas ! Tout le monde le savait au siècle dernier parce que tout le monde s’occupait d’Horace,
->
-> mais grâce à la solide éducation que vous avez reçue au lycée, vous ne savez même pas ce que c’est qu’Horace ! …dans la nôtre, nous en sommes au point où bientôt « *otium »,* c’est-à-dire *la vie de loisir*...
+ou vous ne le savez pas ! Tout le monde le savait au siècle dernier parce que tout le monde s’occupait d’Horace,
+
+mais grâce à la solide éducation que vous avez reçue au lycée, vous ne savez même pas ce que c’est qu’Horace ! …dans la nôtre, nous en sommes au point où bientôt « *otium »,* c’est-à-dire *la vie de loisir*...
 
 <!-- id: s16-07-0040 -->
 
-> naturellement pas nos loisirs qui sont des loisirs forcés : on vous donne des loisirs pour que vous alliez chercher un billet à la gare de Lyon, et puis *dare­ dare*, et puis il s’agit de le payer, et puis il s’agit de se transporter aux *sports d’hiver*. Là, pendant quinze jours, vous allez vous appliquer à un solide *pensum*, celui qui consiste à faire la queue au bas des téléskis, on n’est pas là pour rigoler ! Le type qui ne fait pas ça, qui ne va pas travailler aux loisirs, il est indigne ...« *otium »* pour l’instant est *cum indignitate*. Et plus ça ira, plus ça sera comme ça, sauf accident. Le refus du travail de nos jours, autrement dit ça relève d’un défi, il se pose et ne peut se poser que comme défi. Pardon d’insister encore.
+naturellement pas nos loisirs qui sont des loisirs forcés : on vous donne des loisirs pour que vous alliez chercher un billet à la gare de Lyon, et puis *dare­ dare*, et puis il s’agit de le payer, et puis il s’agit de se transporter aux *sports d’hiver*. Là, pendant quinze jours, vous allez vous appliquer à un solide *pensum*, celui qui consiste à faire la queue au bas des téléskis, on n’est pas là pour rigoler ! Le type qui ne fait pas ça, qui ne va pas travailler aux loisirs, il est indigne ...« *otium »* pour l’instant est *cum indignitate*. Et plus ça ira, plus ça sera comme ça, sauf accident. Le refus du travail de nos jours, autrement dit ça relève d’un défi, il se pose et ne peut se poser que comme défi. Pardon d’insister encore.
 
 <!-- id: s16-07-0041 -->
 
@@ -174,7 +174,7 @@ Saint THOMAS, pour autant qu’il réinjecte une pensée aristotélicienne forme
 
 <!-- id: s16-07-0042 -->
 
-> encore lui Saint THOMAS qui peut vous sembler comme ça être de mine assez grise …il ne peut ordonner le « *Bien* », comme le « *Souverain Bien* », qu’en termes en fin de compte hédonistes.
+encore lui Saint THOMAS qui peut vous sembler comme ça être de mine assez grise …il ne peut ordonner le « *Bien* », comme le « *Souverain Bien* », qu’en termes en fin de compte hédonistes.
 
 <!-- id: s16-07-0043 -->
 
@@ -218,7 +218,7 @@ Ceci peut-être est de nature…
 
 <!-- id: s16-07-0053 -->
 
-> *si j’y reviens, ce n’est pas pour toujours tourner en rond* …à nous donner *un soupçon* qu’il y a peut-être tout de même là quelque ambiguïté, je veux dire un fantasme qu’il faut peut-être aussi nous garder de prendre trop au pied de la lettre, quoique bien sûr le fait qu’il nous arrive après tant de dérive, rende sans doute bien *précaire* d’apprécier ce qu’il en était en son temps.
+*si j’y reviens, ce n’est pas pour toujours tourner en rond* …à nous donner *un soupçon* qu’il y a peut-être tout de même là quelque ambiguïté, je veux dire un fantasme qu’il faut peut-être aussi nous garder de prendre trop au pied de la lettre, quoique bien sûr le fait qu’il nous arrive après tant de dérive, rende sans doute bien *précaire* d’apprécier ce qu’il en était en son temps.
 
 <!-- id: s16-07-0054 -->
 
@@ -234,7 +234,7 @@ Il est bien clair qu’il n’y a là que métaphore, puisque aussi bien *le mas
 
 <!-- id: s16-07-0057 -->
 
-> nous dit FREUD quand il essaie d’élaborer ce qui d’abord n’est articulé que métaphoriquement …à rabaisser le seuil nécessaire au maintien de la vie, ce seuil que le *principe du plaisir* lui-même définit comme un *infimum*, c’est-à-­dire *le plus bas des hauts*, la plus basse tension nécessaire à ce maintien.
+nous dit FREUD quand il essaie d’élaborer ce qui d’abord n’est articulé que métaphoriquement …à rabaisser le seuil nécessaire au maintien de la vie, ce seuil que le *principe du plaisir* lui-même définit comme un *infimum*, c’est-à-­dire *le plus bas des hauts*, la plus basse tension nécessaire à ce maintien.
 
 <!-- id: s16-07-0058 -->
 
@@ -242,7 +242,7 @@ Mais on peut tomber au-dessous encore, et c’est là que commence - et ne peut 
 
 <!-- id: s16-07-0059 -->
 
-> dont nous pouvons le tenir pour lié à un certain contexte de pratique, à savoir l’inconscient …c’est un *phylum* d’une nature toute différente que FREUD ouvre avec cet « *Au-delà*… ».
+dont nous pouvons le tenir pour lié à un certain contexte de pratique, à savoir l’inconscient …c’est un *phylum* d’une nature toute différente que FREUD ouvre avec cet « *Au-delà*… ».
 
 <!-- id: s16-07-0060 -->
 
@@ -268,7 +268,7 @@ J’ai essayé, depuis que j’ai introduit dans notre maniement cette fonction 
 
 <!-- id: s16-07-0065 -->
 
-> rejet, formation du « *non-moi* », je ne vais pas tous les rappeler …mais fonction de ce qu’on appelle *incorporation* et qu’on traduit *introjection*, comme s’il s’agissait d’un rapport d’intérieur à extérieur et non pas d’une topologie beaucoup plus complexe.
+rejet, formation du « *non-moi* », je ne vais pas tous les rappeler …mais fonction de ce qu’on appelle *incorporation* et qu’on traduit *introjection*, comme s’il s’agissait d’un rapport d’intérieur à extérieur et non pas d’une topologie beaucoup plus complexe.
 
 <!-- id: s16-07-0066 -->
 
@@ -296,7 +296,7 @@ L’intérêt, c’est si ça aide à penser des choses et en particulier une di
 
 <!-- id: s16-07-0072 -->
 
-> Mène-t-il son petit jeu dans l’affaire ? Est-il maître à la fin du compte ?
+Mène-t-il son petit jeu dans l’affaire ? Est-il maître à la fin du compte ?
 
 <!-- id: s16-07-0073 -->
 
@@ -324,7 +324,7 @@ Il est très singulier qu’à faire partir cette *dialectique*, comme on s’ex
 
 <!-- id: s16-07-0079 -->
 
-> et d’une façon tout à fait claire du fait même dont il part, à savoir la lutte à mort, de pur prestige insiste-t-il …qu’assurément ceci veut dire que *le maître a renoncé à la jouissance*. Et comme ce n’est pas pour autre chose que pour le salut de son corps que l’esclave accepte d’être dominé, on ne voit pas pourquoi, dans une telle perspective explicative, la jouissance ne lui reste pas sur les bras. *On ne peut tout de même pas à la fois manger son gâteau et le garder.*
+et d’une façon tout à fait claire du fait même dont il part, à savoir la lutte à mort, de pur prestige insiste-t-il …qu’assurément ceci veut dire que *le maître a renoncé à la jouissance*. Et comme ce n’est pas pour autre chose que pour le salut de son corps que l’esclave accepte d’être dominé, on ne voit pas pourquoi, dans une telle perspective explicative, la jouissance ne lui reste pas sur les bras. *On ne peut tout de même pas à la fois manger son gâteau et le garder.*
 
 <!-- id: s16-07-0080 -->
 
@@ -364,7 +364,7 @@ Je vous demande pardon d’où ces *petites fables* nous entraînent, mais c’e
 
 <!-- id: s16-07-0089 -->
 
-> comme je pense depuis le début de cette année l’avoir assez énoncé … « *autre chose* », c’est-à-dire ce *qui répond,* non pas à la jouissance, mais *à la perte de la jouissance* en tant que d’elle surgit ce qui devient la cause conjuguée du désir de savoir et cette animation, que j’ai récemment qualifiée de féroce, qui procède du *plus-de-jouir.*
+comme je pense depuis le début de cette année l’avoir assez énoncé … « *autre chose* », c’est-à-dire ce *qui répond,* non pas à la jouissance, mais *à la perte de la jouissance* en tant que d’elle surgit ce qui devient la cause conjuguée du désir de savoir et cette animation, que j’ai récemment qualifiée de féroce, qui procède du *plus-de-jouir.*
 
 <!-- id: s16-07-0090 -->
 
@@ -372,13 +372,13 @@ Tel est l’authentique mécanisme, et il importe de le rappeler au moment où t
 
 <!-- id: s16-07-0091 -->
 
-> et sur ces points de petite histoire, faites-moi confiance, j’ai fait le tour de ce qui peut se lire, je vous signale simplement que mon ami GUILBAUD[^27] a fait là-dessus dans des revues…
->
-> *je n’en ai que le « tiré à part » mais j’essaierai tout de même de savoir où vous pourriez les retrouver*
->
-> …quelques courts, très courts petits articles qui sont tout à fait décisifs quant au rapport de *ce Pari*.
->
-> Il n’est pas le seul d’ailleurs : dans le livre de BRUNET[^28], la chose est également traitée …la règle des partis[^29], c’est quelque chose sur lequel il faudrait *en dire long* pour vous en montrer l’importance dans le progrès de la théorie mathématique.
+et sur ces points de petite histoire, faites-moi confiance, j’ai fait le tour de ce qui peut se lire, je vous signale simplement que mon ami GUILBAUD[^27] a fait là-dessus dans des revues…
+
+*je n’en ai que le « tiré à part » mais j’essaierai tout de même de savoir où vous pourriez les retrouver*
+
+…quelques courts, très courts petits articles qui sont tout à fait décisifs quant au rapport de *ce Pari*.
+
+Il n’est pas le seul d’ailleurs : dans le livre de BRUNET[^28], la chose est également traitée …la règle des partis[^29], c’est quelque chose sur lequel il faudrait *en dire long* pour vous en montrer l’importance dans le progrès de la théorie mathématique.
 
 <!-- id: s16-07-0092 -->
 
@@ -402,7 +402,7 @@ Les *efforts* des auteurs *pour* en quelque sorte *le rationaliser* au regard de
 
 <!-- id: s16-07-0097 -->
 
-> et repris par les auteurs avec un mode à courte vue qui est bien là la chose la plus exemplaire et dont on peut dire qu’après tout les auteurs nous rendent le service de montrer comment s’installe l’impasse où ils s’obstinent …cette façon de mettre en valeur, au regard de cette décision, les rapports d’extension de l’enjeu, à savoir :
+et repris par les auteurs avec un mode à courte vue qui est bien là la chose la plus exemplaire et dont on peut dire qu’après tout les auteurs nous rendent le service de montrer comment s’installe l’impasse où ils s’obstinent …cette façon de mettre en valeur, au regard de cette décision, les rapports d’extension de l’enjeu, à savoir :
 
 <!-- id: s16-07-0098 -->
 
@@ -426,7 +426,11 @@ Néanmoins nous sommes là livrés à l’ambiguïté du petit papier : Le mot 
 
 <!-- id: s16-07-0103 -->
 
-> « …*qu’au regard même d’un hasard de gain* - écrit-il - *on peut supposer une infinité de hasards de perte*… »
+<div class="text-quotation">
+
+« …*qu’au regard même d’un hasard de gain* - écrit-il - *on peut supposer une infinité de hasards de perte*… »
+
+</div>
 
 <!-- id: s16-07-0104 -->
 
@@ -434,9 +438,9 @@ Introduire donc comme numérique l’élément de hasard…
 
 <!-- id: s16-07-0105 -->
 
-> alors qu’il a été proprement exclu dans ce qu’il énonce de la règle des partis,
->
-> qui comporte pour être énoncée l’égalité des hasards …montre bien qu’en tout cas, c’est sur le plan numérique que doit même être mesuré l’enjeu.
+alors qu’il a été proprement exclu dans ce qu’il énonce de la règle des partis,
+
+qui comporte pour être énoncée l’égalité des hasards …montre bien qu’en tout cas, c’est sur le plan numérique que doit même être mesuré l’enjeu.
 
 <!-- id: s16-07-0106 -->
 
@@ -444,7 +448,7 @@ J’insiste car dans ce petit papier…
 
 <!-- id: s16-07-0107 -->
 
-> qui n’est nullement une rédaction ni un état définitif, qui est une succession de *signes* d’écriture qui sont faits …il est aussi bien en d’autres points énoncé qu’à parier ce dont il s’agit - c’est­-à-dire l’incertitude fondamentale, à savoir : « *y a-t-il un partenaire ?* » - en d’autres points PASCAL énonce : « *Il y a une chance sur deux.* » À savoir Dieu existe ou n’existe pas, procédé dont, bien sûr, nous voyons assez l’intenable et qui n’a pas besoin d’être réfuté.
+qui n’est nullement une rédaction ni un état définitif, qui est une succession de *signes* d’écriture qui sont faits …il est aussi bien en d’autres points énoncé qu’à parier ce dont il s’agit - c’est­-à-dire l’incertitude fondamentale, à savoir : « *y a-t-il un partenaire ?* » - en d’autres points PASCAL énonce : « *Il y a une chance sur deux.* » À savoir Dieu existe ou n’existe pas, procédé dont, bien sûr, nous voyons assez l’intenable et qui n’a pas besoin d’être réfuté.
 
 <!-- id: s16-07-0108 -->
 
@@ -456,7 +460,11 @@ Car il est bien clair que rien ne s’impose de ce calcul et qu’on peut toujou
 
 <!-- id: s16-07-0110 -->
 
-> « *Ce que j’ai, je le tiens, et avec cette vie j’ai déjà bien assez à faire.* »
+<div class="text-quotation">
+
+« *Ce que j’ai, je le tiens, et avec cette vie j’ai déjà bien assez à faire.* »
+
+</div>
 
 <!-- id: s16-07-0111 -->
 
@@ -472,7 +480,11 @@ L’opposition sans doute tient toujours. Est-ce qu’à *miser* dans un tel jeu
 
 <!-- id: s16-07-0114 -->
 
-> « *Vous ne pouvez pas ne pas parier parce que vous êtes engagé.* »
+<div class="text-quotation">
+
+« *Vous ne pouvez pas ne pas parier parce que vous êtes engagé.* »
+
+</div>
 
 <!-- id: s16-07-0115 -->
 
@@ -496,7 +508,7 @@ Et donc l’affaire concernant Dieu sera - *les contemporains l’ont parfaiteme
 
 <!-- id: s16-07-0120 -->
 
-> si vous vous rapportez à la définition que j’ai donnée du fait …est une affaire de discours : *il n’y a de fait qu’énoncé*. Et c’est pourquoi nous sommes entièrement livrés à la tradition du livre.
+si vous vous rapportez à la définition que j’ai donnée du fait …est une affaire de discours : *il n’y a de fait qu’énoncé*. Et c’est pourquoi nous sommes entièrement livrés à la tradition du livre.
 
 <!-- id: s16-07-0121 -->
 
@@ -518,7 +530,7 @@ J’ai mis un temps…
 
 <!-- id: s16-07-0125 -->
 
-> *qui fut*, comme il arrive et peut-être comme j’en suis un peu trop coutumier, *trop de temps* …à introduire le vif de ce dont il s’agit, mais je crois que ces prémisses étaient indispensables.
+*qui fut*, comme il arrive et peut-être comme j’en suis un peu trop coutumier, *trop de temps* …à introduire le vif de ce dont il s’agit, mais je crois que ces prémisses étaient indispensables.
 
 <!-- id: s16-07-0126 -->
 
@@ -530,7 +542,7 @@ Sachez seulement que si - contrairement à ce qu’on croit - le pari n’est pa
 
 <!-- id: s16-07-0128 -->
 
-> ce n’est pas la première fois que je l’aurai écrit ainsi : « l’*a-cause* » …c’est précisément en tant que tout *Le pari* a cette essence de réduire cette *chose* qui n’est tout de même pas *quelque chose* que nous puissions, comme ça, tenir dans le creux d’une main, à savoir notre vie, dont après tout nous pourrions avoir une tout autre appréhension, une tout autre *perspective* à savoir qu’elle nous comprend et sans limite, et que nous sommes là, *lieu de passage, phénomène*. Pourquoi la chose ne serait-elle pas soutenue ? Elle l’a été après tout.
+ce n’est pas la première fois que je l’aurai écrit ainsi : « l’*a-cause* » …c’est précisément en tant que tout *Le pari* a cette essence de réduire cette *chose* qui n’est tout de même pas *quelque chose* que nous puissions, comme ça, tenir dans le creux d’une main, à savoir notre vie, dont après tout nous pourrions avoir une tout autre appréhension, une tout autre *perspective* à savoir qu’elle nous comprend et sans limite, et que nous sommes là, *lieu de passage, phénomène*. Pourquoi la chose ne serait-elle pas soutenue ? Elle l’a été après tout.
 
 <!-- id: s16-07-0129 -->
 
@@ -542,7 +554,7 @@ Et inversement, le fait même de pouvoir ainsi le *calculer*, l’autre position
 
 <!-- id: s16-07-0131 -->
 
-> celle qui parle pour la recherche de ce qu’il en est d’un « *Je* » qui peut-être n’existe pas …va dans le sens de l’*a-cause*, dans le sens de ce à quoi PASCAL procède quand il invoque son *interlocuteur* à y *renoncer* : là pour nous prend son sens, la direction d’une recherche qui est expressément, pour ce qui est de la psychanalyse, la nôtre.
+celle qui parle pour la recherche de ce qu’il en est d’un « *Je* » qui peut-être n’existe pas …va dans le sens de l’*a-cause*, dans le sens de ce à quoi PASCAL procède quand il invoque son *interlocuteur* à y *renoncer* : là pour nous prend son sens, la direction d’une recherche qui est expressément, pour ce qui est de la psychanalyse, la nôtre.
 
 ## Notes
 

@@ -18,7 +18,7 @@ Je vais aujourd’hui...
 
 <!-- id: s23-08-0004 -->
 
-> j’espérais que vous seriez moins nombreux. Comme d’habitude ! ...je vais aujourd’hui vous montrer quelque chose. C’est pas forcément ce que, ce que vous attendez \[*Rires*\].
+j’espérais que vous seriez moins nombreux. Comme d’habitude ! ...je vais aujourd’hui vous montrer quelque chose. C’est pas forcément ce que, ce que vous attendez \[*Rires*\].
 
 <!-- id: s23-08-0005 -->
 
@@ -26,19 +26,19 @@ Je vais aujourd’hui...
 
 <!-- id: s23-08-0006 -->
 
-> ça s’écrit avec un C au début, ça se termine par un S, ça se prononce Cixous à l’occasion, ...alors, ladite Hélène Cixous avait fait déjà, paraît-il...
+ça s’écrit avec un C au début, ça se termine par un S, ça se prononce Cixous à l’occasion, ...alors, ladite Hélène Cixous avait fait déjà, paraît-il...
 
 <!-- id: s23-08-0007 -->
 
-> je l’avais, quant à moi, laissé un peu vague dans mon souvenir ...a fait déjà, paraît-il, dans le numéro épuisé de *Littérature* \[*Littérature N°*3*, Octobre* 1971\] où...
+je l’avais, quant à moi, laissé un peu vague dans mon souvenir ...a fait déjà, paraît-il, dans le numéro épuisé de *Littérature* \[*Littérature N°*3*, Octobre* 1971\] où...
 
 <!-- id: s23-08-0008 -->
 
-> on me l’a rappelé, je l’ignorais totalement ...j’avais fait *Litturaterre* \[« *Litturaterre » : pp.* 3-10\], dans ce numéro épuisé...
+on me l’a rappelé, je l’ignorais totalement ...j’avais fait *Litturaterre* \[« *Litturaterre » : pp.* 3-10\], dans ce numéro épuisé...
 
 <!-- id: s23-08-0009 -->
 
-> ce qui ne vous rendra pas facile de le retrouver, sauf pour ceux qui l’ont déjà, ...elle avait fait une petite note sur Dora \[*pp.* 79-85 : « *La déroute du sujet, ou le voyage imaginaire de Dora* »\].
+ce qui ne vous rendra pas facile de le retrouver, sauf pour ceux qui l’ont déjà, ...elle avait fait une petite note sur Dora \[*pp.* 79-85 : « *La déroute du sujet, ou le voyage imaginaire de Dora* »\].
 
 <!-- id: s23-08-0010 -->
 
@@ -74,7 +74,7 @@ Je veux dire que la réalité c’est ce qui...
 
 <!-- id: s23-08-0018 -->
 
-> la réalité des répétitions par exemple ...c’est ce qui, au bout du compte, a dominé les acteurs.
+la réalité des répétitions par exemple ...c’est ce qui, au bout du compte, a dominé les acteurs.
 
 <!-- id: s23-08-0019 -->
 
@@ -142,7 +142,7 @@ Et là, on la voit en quelque sorte réduite, cette hystérie, à un état que j
 
 <!-- id: s23-08-0035 -->
 
-> et c’est pour ça d’ailleurs que ça ne va pas aller mal avec ce que je vais vous expliquer ...à l’état en quelque sorte *matériel*.
+et c’est pour ça d’ailleurs que ça ne va pas aller mal avec ce que je vais vous expliquer ...à l’état en quelque sorte *matériel*.
 
 <!-- id: s23-08-0036 -->
 
@@ -258,7 +258,7 @@ Il est certain que le fait que je le dessine ainsi, vous avez vu déjà comment 
 
 <!-- id: s23-08-0064 -->
 
-> là on ne sait plus comment dire ...qui fait *chaîne* ou qui fait *nœud *:
+là on ne sait plus comment dire ...qui fait *chaîne* ou qui fait *nœud *:
 
 <!-- id: s23-08-0065 -->
 
@@ -318,7 +318,7 @@ Il est un fait, c’est que le fait qu’on représente une *sphère* très volo
 
 <!-- id: s23-08-0079 -->
 
-> qui ne se supporte que de la sphère *...*lie l’idée de « *Tout* » au cercle. Mais c’est une erreur. C’est une erreur parce que l’idée de « *Tout* » implique la fermeture.
+qui ne se supporte que de la sphère *...*lie l’idée de « *Tout* » au cercle. Mais c’est une erreur. C’est une erreur parce que l’idée de « *Tout* » implique la fermeture.
 
 <!-- id: s23-08-0080 -->
 
@@ -330,9 +330,13 @@ Elle peut se retourner du fait que le cercle, c’est pas du tout ce qu’on cro
 
 <!-- id: s23-08-0082 -->
 
-> « *tu ne sortiras pas de là, parce que j’ai fait un rond autour de toi,*
->
-> *tu ne sortiras pas de là avant de m’avoir promis telle chose.* »
+<div class="text-quotation">
+
+« *tu ne sortiras pas de là, parce que j’ai fait un rond autour de toi,*
+
+*tu ne sortiras pas de là avant de m’avoir promis telle chose.* »
+
+</div>
 
 <!-- id: s23-08-0083 -->
 
@@ -352,7 +356,7 @@ Et alors l’idée de « *Tout* » se dissocie, à savoir que le cercle censé
 
 <!-- id: s23-08-0087 -->
 
-> dans une représentation tout à fait fragile ...les rassembler, le cercle est extérieur aux objets *petit a, petit b, petit c, etc.*
+dans une représentation tout à fait fragile ...les rassembler, le cercle est extérieur aux objets *petit a, petit b, petit c, etc.*
 
 <!-- id: s23-08-0088 -->
 
@@ -400,7 +404,7 @@ C’est pourtant le même objet si nous re­tournons la sphère. Nous obtiendron
 
 <!-- id: s23-08-0099 -->
 
-> je vais - mon Dieu - vous le dessiner ra­pidement ...nous obtien­drons très aisément une disposition contraire.
+je vais - mon Dieu - vous le dessiner ra­pidement ...nous obtien­drons très aisément une disposition contraire.
 
 <!-- id: s23-08-0100 -->
 
@@ -416,7 +420,7 @@ où, une fois de plus, il se retourne de la façon suivante : il est en effet..
 
 <!-- id: s23-08-0103 -->
 
-> si nous ne considérons pas ceci comme rigide ...tout à fait plausible de faire du rond rouge la présentation suivante :
+si nous ne considérons pas ceci comme rigide ...tout à fait plausible de faire du rond rouge la présentation suivante :
 
 <!-- id: s23-08-0104 -->
 
@@ -436,7 +440,7 @@ Et à partir de la transformation suivante, il est tout ce qu’il y a de plausi
 
 <!-- id: s23-08-0108 -->
 
-> au lieu que ce soit le rond bleu ...soit interne au rond rouge, et qu’au contraire le rond bleu soit externe, ceci peut être obtenu :
+au lieu que ce soit le rond bleu ...soit interne au rond rouge, et qu’au contraire le rond bleu soit externe, ceci peut être obtenu :
 
 <!-- id: s23-08-0109 -->
 
@@ -448,7 +452,7 @@ Les choses - je peux après tout le dire - ne sont pas si aisées à démontrer.
 
 <!-- id: s23-08-0111 -->
 
-> à simplement penser que les trois ronds peuvent être retournés les uns par rapport aux autres ...ce qui est immédiat et est obtenu par la manipulation, ne l’est pas - obtenu - si aisément que ça.
+à simplement penser que les trois ronds peuvent être retournés les uns par rapport aux autres ...ce qui est immédiat et est obtenu par la manipulation, ne l’est pas - obtenu - si aisément que ça.
 
 <!-- id: s23-08-0112 -->
 
@@ -476,7 +480,7 @@ Et je dirai à cette occasion que c’est donc une fallace...
 
 <!-- id: s23-08-0118 -->
 
-> puisque j’ai parlé d’apparence *...*c’est une fallace qui témoigne de ce qui est *le Réel*.
+puisque j’ai parlé d’apparence *...*c’est une fallace qui témoigne de ce qui est *le Réel*.
 
 <!-- id: s23-08-0119 -->
 
@@ -516,7 +520,7 @@ Mais c’est un autre support que nous fournit l’anneau, le cercle...
 
 <!-- id: s23-08-0128 -->
 
-> quel qu’il soit, à condition qu’il soit souple ...c’est une autre géométrie qui est à fonder sur la chaîne.
+quel qu’il soit, à condition qu’il soit souple ...c’est une autre géométrie qui est à fonder sur la chaîne.
 
 <!-- id: s23-08-0129 -->
 
@@ -596,7 +600,7 @@ Ce qui est le point que depuis longtemps avait mis en valeur Desargues, mais san
 
 <!-- id: s23-08-0148 -->
 
-> dans ce qu’a formulé Desargues, et que j’ai évoqué en son temps à mon séminaire ...rien n’est précisé sur ce qu’il en est de ce point dit *à l’infini*.
+dans ce qu’a formulé Desargues, et que j’ai évoqué en son temps à mon séminaire ...rien n’est précisé sur ce qu’il en est de ce point dit *à l’infini*.
 
 <!-- id: s23-08-0149 -->
 
@@ -620,7 +624,7 @@ La preuve est facile à donner, c’est à savoir qu’à retourner...
 
 <!-- id: s23-08-0154 -->
 
-> et retourner impliquera l’inversion des droites infinies ...à retourner le rond, le rond rouge aura, vu à partir du retourne­ment, une orientation exactement inverse :
+et retourner impliquera l’inversion des droites infinies ...à retourner le rond, le rond rouge aura, vu à partir du retourne­ment, une orientation exactement inverse :
 
 <!-- id: s23-08-0155 -->
 
@@ -636,7 +640,7 @@ Le second objet est tout à fait possible à mettre en évidence à partir de ce
 
 <!-- id: s23-08-0158 -->
 
-> qui était au principe de mon illusion sur le coloriage ...à partir de ceci : qu’à prendre le premier - en inversant les couleurs - à prendre le premier de ce que j’ai dessiné là :
+qui était au principe de mon illusion sur le coloriage ...à partir de ceci : qu’à prendre le premier - en inversant les couleurs - à prendre le premier de ce que j’ai dessiné là :
 
 <!-- id: s23-08-0159 -->
 
@@ -752,7 +756,7 @@ Les sexes en l’occasion...
 
 <!-- id: s23-08-0187 -->
 
-> si nous supportons du rond rouge ce qu’il en est du *Symbolique...*les sexes en l’occasion sont opposés
+si nous supportons du rond rouge ce qu’il en est du *Symbolique...*les sexes en l’occasion sont opposés
 
 <!-- id: s23-08-0188 -->
 
@@ -824,9 +828,9 @@ La chaîne borroméenne n’aurait pas lieu s’il n’y avait pas ceci...
 
 <!-- id: s23-08-0205 -->
 
-> que je dessine, et que, comme d’habitude, je dessine mal
->
-> parce que c’est comme ça que ça doit être dessiné ...qui en est le propre et qui est ce que j’appellerai « *le faux-trou ».*
+que je dessine, et que, comme d’habitude, je dessine mal
+
+parce que c’est comme ça que ça doit être dessiné ...qui en est le propre et qui est ce que j’appellerai « *le faux-trou ».*
 
 <!-- id: s23-08-0206 -->
 
@@ -894,4 +898,4 @@ Encore faut-il...
 
 <!-- id: s23-08-0222 -->
 
-> ajouterai-je, pour le reprendre la prochaine fois ...encore faut-il qu’il n’y ait que lui pour le vérifier, ce *réel*.
+ajouterai-je, pour le reprendre la prochaine fois ...encore faut-il qu’il n’y ait que lui pour le vérifier, ce *réel*.

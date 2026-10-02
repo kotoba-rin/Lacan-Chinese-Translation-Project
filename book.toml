@@ -16,8 +16,8 @@ no-section-label = true
 sidebar-header-nav = false
 default-theme = "light"
 preferred-dark-theme = "navy"
-additional-css = ["theme/lacan-toggle.css", "theme/lacan-nav-search.css", "theme/lacan-ai.css", "theme/lacan-elegant.css"]
-additional-js = ["theme/lacan-toggle.js", "theme/lacan-nav-search-core.js", "theme/lacan-nav-search.js", "theme/lacan-ai-core.js", "theme/lacan-ai.js", "theme/lacan-reader.js", "theme/lacan-analytics.js"]
+additional-css = ["theme/lacan-toggle.css", "theme/lacan-nav-search.css", "theme/lacan-elegant.css"]
+additional-js = ["theme/lacan-toggle.js", "theme/lacan-nav-search-core.js", "theme/lacan-nav-search.js", "theme/lacan-reader.js", "theme/lacan-analytics.js"]
 
 [output.html.fold]
 enable = true

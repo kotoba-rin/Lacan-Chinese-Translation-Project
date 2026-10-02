@@ -30,7 +30,7 @@ Et puis cela nous ramènera aussi à ce loin, car il n’y a pas que dans la th�
 
 <!-- id: s2-01-0007 -->
 
-> dont nous n’avons pas peur de parler ici, avec lesquels nous ne craignons pas de nous compromettre, et je crois, vous le verrez de plus en plus combien cette position de ne pas craindre de *se compromettre* avec eux est défendable
+dont nous n’avons pas peur de parler ici, avec lesquels nous ne craignons pas de nous compromettre, et je crois, vous le verrez de plus en plus combien cette position de ne pas craindre de *se compromettre* avec eux est défendable
 
 <!-- id: s2-01-0008 -->
 
@@ -50,9 +50,9 @@ Cette théorie, c’est notre fil conducteur dans ces exposés qui sont faits ic
 
 <!-- id: s2-01-0012 -->
 
-> appelons-la comme cela par convention, n’est-ce pas, il faut bien que nous nous orientions :
->
-> je vous pose aujourd’hui les grandes lignes de ce que va être le plan de notre travail
+appelons-la comme cela par convention, n’est-ce pas, il faut bien que nous nous orientions :
+
+je vous pose aujourd’hui les grandes lignes de ce que va être le plan de notre travail
 
 <!-- id: s2-01-0013 -->
 
@@ -68,9 +68,9 @@ Cette théorie, c’est notre fil conducteur dans ces exposés qui sont faits ic
 
 <!-- id: s2-01-0016 -->
 
-> à travers toutes sortes d’intermédiaires, de biais dans l’exposé théorique, dans le maniement des termes,
->
-> et du même coup - car théorie et pratique ne sont pas séparables  - dans la direction de la pratique
+à travers toutes sortes d’intermédiaires, de biais dans l’exposé théorique, dans le maniement des termes,
+
+et du même coup - car théorie et pratique ne sont pas séparables  - dans la direction de la pratique
 
 <!-- id: s2-01-0017 -->
 
@@ -90,7 +90,7 @@ C’est effectivement d’une certaine croyance de l’homme à être lui-même 
 
 <!-- id: s2-01-0021 -->
 
-> dans son départ, dans ses origines, dans sa source, dans sa découverte, en tant qu’issue de FREUD
+dans son départ, dans ses origines, dans sa source, dans sa découverte, en tant qu’issue de FREUD
 
 <!-- id: s2-01-0022 -->
 
@@ -106,11 +106,11 @@ Nulle part ceci n’est plus évident que dans la psychanalyse…
 
 <!-- id: s2-01-0025 -->
 
-> et que ce soit dans la psychanalyse que pour nous contemporains ce soit le plus évident, doit être déjà
->
-> à soi tout seul l’indication du point vraiment électif, privilégié qu’occupe la psychanalyse dans un certain progrès
->
-> de la subjectivité humaine comme telle
+et que ce soit dans la psychanalyse que pour nous contemporains ce soit le plus évident, doit être déjà
+
+à soi tout seul l’indication du point vraiment électif, privilégié qu’occupe la psychanalyse dans un certain progrès
+
+de la subjectivité humaine comme telle
 
 <!-- id: s2-01-0026 -->
 
@@ -118,9 +118,9 @@ Nulle part ceci n’est plus évident que dans la psychanalyse…
 
 <!-- id: s2-01-0027 -->
 
-> quoiqu’on n’est jamais complètement à l’origine, mais prenons PLATON comme origine,
->
-> à la façon dont on dit l’origine des coordonnées
+quoiqu’on n’est jamais complètement à l’origine, mais prenons PLATON comme origine,
+
+à la façon dont on dit l’origine des coordonnées
 
 <!-- id: s2-01-0028 -->
 
@@ -128,7 +128,7 @@ Nulle part ceci n’est plus évident que dans la psychanalyse…
 
 <!-- id: s2-01-0029 -->
 
-> que nous aurions pu aussi bien voir dans le *Protagoras* dont on n’a pas parlé - je ne sais pas si cer­tains l’ont lu en même temps que le *Ménon,* mais je souligne que c’est une chose à faire, vous y trouverez du plaisir
+que nous aurions pu aussi bien voir dans le *Protagoras* dont on n’a pas parlé - je ne sais pas si cer­tains l’ont lu en même temps que le *Ménon,* mais je souligne que c’est une chose à faire, vous y trouverez du plaisir
 
 <!-- id: s2-01-0030 -->
 
@@ -136,13 +136,13 @@ Nulle part ceci n’est plus évident que dans la psychanalyse…
 
 <!-- id: s2-01-0031 -->
 
-> d’un savoir en tant que lié à certaines *exigences de cohérence*, dont je ne saurais trop souligner à quel point
->
-> il est préalable à toute espèce de progrès ultérieur de la science comme expéri­mentale. Enfin nous aurons à *définir*
->
-> ce que signifie *ce passage*, *cette sorte d’au­tonomie* qu’a prise la science avec le registre expérimental, mais vous le verrez,
->
-> nous aboutirons à des choses assez singulières
+d’un savoir en tant que lié à certaines *exigences de cohérence*, dont je ne saurais trop souligner à quel point
+
+il est préalable à toute espèce de progrès ultérieur de la science comme expéri­mentale. Enfin nous aurons à *définir*
+
+ce que signifie *ce passage*, *cette sorte d’au­tonomie* qu’a prise la science avec le registre expérimental, mais vous le verrez,
+
+nous aboutirons à des choses assez singulières
 
 <!-- id: s2-01-0032 -->
 
@@ -150,7 +150,7 @@ Nulle part ceci n’est plus évident que dans la psychanalyse…
 
 <!-- id: s2-01-0033 -->
 
-> que j’appelle ici *par définition* - et nous aurons de plus en plus à préciser ce que j’entends par là - une *subjectivité,* qui peut aussi bien s’exprimer dans une certaine façon dans notre perspective \[analytique\], bien entendu à ce moment-là ce n’est pas encore possible, je veux simplement vous indiquer l’équivalence d’un certain nombre de termes,
+que j’appelle ici *par définition* - et nous aurons de plus en plus à préciser ce que j’entends par là - une *subjectivité,* qui peut aussi bien s’exprimer dans une certaine façon dans notre perspective \[analytique\], bien entendu à ce moment-là ce n’est pas encore possible, je veux simplement vous indiquer l’équivalence d’un certain nombre de termes,
 
 <!-- id: s2-01-0034 -->
 
@@ -178,9 +178,9 @@ Que s’est-il passé depuis SOCRATE ? Nous devrions nous apercevoir qu’il s�
 
 <!-- id: s2-01-0040 -->
 
-> qu’il faut bien, dans certains cas, que même notre imagination, telle qu’elle est tout au moins consti­tuée,
->
-> nous force actuellement à admettre comme ayant été, à un moment donné, nouveau, sorti de rien
+qu’il faut bien, dans certains cas, que même notre imagination, telle qu’elle est tout au moins consti­tuée,
+
+nous force actuellement à admettre comme ayant été, à un moment donné, nouveau, sorti de rien
 
 <!-- id: s2-01-0041 -->
 
@@ -292,9 +292,9 @@ N’est-il pas frappant de voir que par une espèce de tour de passe-passe extra
 
 <!-- id: s2-01-0068 -->
 
-> disons « *ce progrès* », sans aucune autre connotation que *ce processus* consi­déré
->
-> dans une certaine tradition d’élaboration de la pensée comme un progrès
+disons « *ce progrès* », sans aucune autre connotation que *ce processus* consi­déré
+
+dans une certaine tradition d’élaboration de la pensée comme un progrès
 
 <!-- id: s2-01-0069 -->
 
@@ -302,9 +302,9 @@ N’est-il pas frappant de voir que par une espèce de tour de passe-passe extra
 
 <!-- id: s2-01-0070 -->
 
-> je pense que je peux le dire d’une façon abrégée, puisque tout de même cela résul­te,
->
-> se dégage de tout ce que nous avons développé l’année dernière
+je pense que je peux le dire d’une façon abrégée, puisque tout de même cela résul­te,
+
+se dégage de tout ce que nous avons développé l’année dernière
 
 <!-- id: s2-01-0071 -->
 
@@ -324,9 +324,9 @@ Eh bien, c’est la même chose. Nous ne savons pas très bien ce que pouvait pe
 
 <!-- id: s2-01-0075 -->
 
-> parce que les poètes, qui ne savent pas ce qu’ils disent, c’est bien connu - c’est vrai -
->
-> disent toujours quand même les choses avant les autres
+parce que les poètes, qui ne savent pas ce qu’ils disent, c’est bien connu - c’est vrai -
+
+disent toujours quand même les choses avant les autres
 
 <!-- id: s2-01-0076 -->
 
@@ -342,7 +342,7 @@ Il y a un de nos collègues - de nos anciens collègues - qui nous avait apport�
 
 <!-- id: s2-01-0079 -->
 
-> cet ancien collègue était quelqu’un qui s’était un peu frotté aux *Temps modernes,* la revue, à ce qu’on appelle « *l’existentialisme* », et il nous apportait comme une audace, de celles que l’on apporte dans les milieux analytiques
+cet ancien collègue était quelqu’un qui s’était un peu frotté aux *Temps modernes,* la revue, à ce qu’on appelle « *l’existentialisme* », et il nous apportait comme une audace, de celles que l’on apporte dans les milieux analytiques
 
 <!-- id: s2-01-0080 -->
 
@@ -398,7 +398,7 @@ Mais en fin de compte, qu’est-ce qui s’est passé dans cette espèce d’irr
 
 <!-- id: s2-01-0093 -->
 
-> et c’est peut-être cela, en somme, le pas le plus décisif du point de vue scientifique de l’expérience freudienne
+et c’est peut-être cela, en somme, le pas le plus décisif du point de vue scientifique de l’expérience freudienne
 
 <!-- id: s2-01-0094 -->
 
@@ -462,9 +462,9 @@ C’est très important cette notion-là, parce que, vous allez voir, tout va pi
 
 <!-- id: s2-01-0109 -->
 
-> pas depuis toujours, car jamais rien n’est depuis toujours,
->
-> mais d’autre part vous voyez bien aussi la fonction du *depuis toujours* en cette occasion
+pas depuis toujours, car jamais rien n’est depuis toujours,
+
+mais d’autre part vous voyez bien aussi la fonction du *depuis toujours* en cette occasion
 
 <!-- id: s2-01-0110 -->
 

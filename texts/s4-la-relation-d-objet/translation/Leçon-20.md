@@ -14,11 +14,11 @@ max_segment_id: 127
 
 <!-- id: s4-20-0001 -->
 
-> 襁褓中的婴儿
->
-> “*啊，海上诸城，我看见你们的男女公民，被听不懂你们语言的人用坚固绳索紧紧捆住手脚；你们只能彼此以含泪的哀诉、悲叹与叹息，吐露自己的痛苦与失去自由的遗恨。因为捆绑你们的人不懂你们的语言，正如你们也不懂他们。*”
->
-> 列奥纳多·达·芬奇《笔记》，《大西洋古抄本》145 r. a.，伽利玛版第 2 卷，第 400 页。
+襁褓中的婴儿
+
+“*啊，海上诸城，我看见你们的男女公民，被听不懂你们语言的人用坚固绳索紧紧捆住手脚；你们只能彼此以含泪的哀诉、悲叹与叹息，吐露自己的痛苦与失去自由的遗恨。因为捆绑你们的人不懂你们的语言，正如你们也不懂他们。*”
+
+列奥纳多·达·芬奇《笔记》，《大西洋古抄本》145 r. a.，伽利玛版第 2 卷，第 400 页。
 
 <!-- id: s4-20-0002 -->
 
@@ -98,7 +98,11 @@ max_segment_id: 127
 
 <!-- id: s4-20-0021 -->
 
-> “*格外醒目的是，在整份观察的发展下面，仿佛始终潜伏着某种功能；它不是‘有齿阴道’（vagina dentata），而是‘有齿阳具’（phallus dentatus）的功能。*”
+<div class="text-quotation">
+
+“*格外醒目的是，在整份观察的发展下面，仿佛始终潜伏着某种功能；它不是‘有齿阴道’（vagina dentata），而是‘有齿阳具’（phallus dentatus）的功能。*”
+
+</div>
 
 <!-- id: s4-20-0022 -->
 
@@ -222,12 +226,16 @@ max_segment_id: 127
 
 <!-- id: s4-20-0052 -->
 
-> “*我要给你讲一个我发明的伟大故事；早在你出生以前，我便知道它：有一天会有一个小汉斯来到世上；他会太爱母亲，并因此憎恨父亲。*”［第 120 页］[注]
->
-> ［*Lange, ehe er auf der Welt war, hätte ich schon gewußt, daß ein kleiner Hans kommen werde, der seine Mutter so lieb hätte, daß er sich darum vor dem Vater fürchten müßte, und hätte es seinem Vater erzählt.*］
->
-> ［弗洛伊德德文原句意为：“早在他出生以前，我就已经知道，将会有一个小汉斯来到世上；他会如此爱他的母亲，以至于因此不得不害怕父亲；我也把这件事告诉了他的父亲。”］
->
+<div class="text-quotation">
+
+“*我要给你讲一个我发明的伟大故事；早在你出生以前，我便知道它：有一天会有一个小汉斯来到世上；他会太爱母亲，并因此憎恨父亲。*”［第 120 页］[注]
+
+［*Lange, ehe er auf der Welt war, hätte ich schon gewußt, daß ein kleiner Hans kommen werde, der seine Mutter so lieb hätte, daß er sich darum vor dem Vater fürchten müßte, und hätte es seinem Vater erzählt.*］
+
+［弗洛伊德德文原句意为：“早在他出生以前，我就已经知道，将会有一个小汉斯来到世上；他会如此爱他的母亲，以至于因此不得不害怕父亲；我也把这件事告诉了他的父亲。”］
+
+</div>
+
 > [注] 米勒编订本（Seuil，1994，第 344 页）正文作 *détesterait son père*，授权西译同样作“憎恨父亲”；但紧随其后的弗洛伊德德文 *vor dem Vater fürchten* 是“害怕父亲”。正文保留米勒本的讲述，德文引文另按原义译出。
 
 <!-- id: s4-20-0053 -->
@@ -468,7 +476,11 @@ max_segment_id: 127
 
 <!-- id: s4-20-0112 -->
 
-> “*她们就是我们的一切，然而她们不是男人。*”［第一幕，第九场］
+<div class="text-quotation">
+
+“*她们就是我们的一切，然而她们不是男人。*”［第一幕，第九场］
+
+</div>
 
 <!-- id: s4-20-0113 -->
 

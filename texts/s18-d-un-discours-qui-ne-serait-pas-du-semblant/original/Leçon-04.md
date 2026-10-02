@@ -18,9 +18,9 @@ Cette menue formule, auquel, malgré qu’elle ait été écrite vers 250 avant 
 
 <!-- id: s18-04-0004 -->
 
-> quelquefois c’est classé autrement, alors dans ce cas-là
->
-> ça sera la partie VIII, au Livre IV, 2<sup>ème</sup> partie paragraphe 26 ...de Meng-Tzeu, que les Jésuites appellent Mencius, puisque ce sont eux qui ont fait... bien avant l’époque où il y a eu des sinologues, c’est-à-dire le début du XIX<sup>ème</sup> siècle, pas avant... j’ai eu le bonheur d’acquérir le premier livre sur lequel se soient trouvées conjointes *une plaque d’impression chinoise*, c’est pas tout à fait la même chose que le premier livre où il y ait eu à la fois des caractères chinois et des caractères européens, c’est le premier livre où il y a eu une plaque d’impression chinoise avec des choses écrites, des choses imprimées, de notre crû. C’est une traduction des fables d’Ésope.
+quelquefois c’est classé autrement, alors dans ce cas-là
+
+ça sera la partie VIII, au Livre IV, 2<sup>ème</sup> partie paragraphe 26 ...de Meng-Tzeu, que les Jésuites appellent Mencius, puisque ce sont eux qui ont fait... bien avant l’époque où il y a eu des sinologues, c’est-à-dire le début du XIX<sup>ème</sup> siècle, pas avant... j’ai eu le bonheur d’acquérir le premier livre sur lequel se soient trouvées conjointes *une plaque d’impression chinoise*, c’est pas tout à fait la même chose que le premier livre où il y ait eu à la fois des caractères chinois et des caractères européens, c’est le premier livre où il y a eu une plaque d’impression chinoise avec des choses écrites, des choses imprimées, de notre crû. C’est une traduction des fables d’Ésope.
 
 <!-- id: s18-04-0005 -->
 
@@ -36,13 +36,13 @@ Enfin dans Voltaire...
 
 <!-- id: s18-04-0008 -->
 
-> si vous lisez Voltaire, mais bien sûr personne ne lit plus Voltaire,
->
-> vous avez bien tort, c’est tout plein de choses ...dans Voltaire il y a...
+si vous lisez Voltaire, mais bien sûr personne ne lit plus Voltaire,
+
+vous avez bien tort, c’est tout plein de choses ...dans Voltaire il y a...
 
 <!-- id: s18-04-0009 -->
 
-> très exactement dans « *Le Siècle de Louis* XIV* »* [^24] et en appendice je crois, ça forme un libelle particu­lier ...un grand développement sur cette « *Querelle des Rites »*, dont beaucoup de choses dans l’histoire se trouvent maintenant en position de filiation.
+très exactement dans « *Le Siècle de Louis* XIV* »* [^24] et en appendice je crois, ça forme un libelle particu­lier ...un grand développement sur cette « *Querelle des Rites »*, dont beaucoup de choses dans l’histoire se trouvent maintenant en position de filiation.
 
 <!-- id: s18-04-0010 -->
 
@@ -82,7 +82,7 @@ Alors voilà comment s’énonce cet exergue. Comme je vous l’ai déjà montr�
 
 <!-- id: s18-04-0019 -->
 
-> *Tiān xià zhī yán xìng yě*
+*Tiān xià zhī yán xìng yě*
 
 <!-- id: s18-04-0020 -->
 
@@ -122,7 +122,7 @@ Car la phrase continue ici, puisque les choses s’écrivent de droite à gauche
 
 <!-- id: s18-04-0029 -->
 
-> *zé gù ér yǐ yǐ*.
+*zé gù ér yǐ yǐ*.
 
 <!-- id: s18-04-0030 -->
 
@@ -146,7 +146,7 @@ Ces sortes d’ambiguïtés sont tout à fait fondamentales dans l’usage de ce
 
 <!-- id: s18-04-0035 -->
 
-> quant à tout ce qui est du langage ...est toujours indirecte, que le langage prend sa portée.
+quant à tout ce qui est du langage ...est toujours indirecte, que le langage prend sa portée.
 
 <!-- id: s18-04-0036 -->
 
@@ -182,7 +182,7 @@ Vous le verrez d’ailleurs, que nous prenions l’une ou l’autre de ces inter
 
 <!-- id: s18-04-0044 -->
 
-> *zé gù ér yǐ yǐ*.
+*zé gù ér yǐ yǐ*.
 
 <!-- id: s18-04-0045 -->
 
@@ -198,7 +198,7 @@ Quelle que soit l’ambiguïté qu’un certain livre, un certain livre qui est 
 
 <!-- id: s18-04-0048 -->
 
-> qui n’était certainement pas le dernier venu
+qui n’était certainement pas le dernier venu
 
 <!-- id: s18-04-0049 -->
 
@@ -242,7 +242,7 @@ Nous nous trouvons d’ailleurs de ce fait en un point qui est tout à fait esse
 
 <!-- id: s18-04-0059 -->
 
-> *zé gù ér yǐ yǐ*.
+*zé gù ér yǐ yǐ*.
 
 <!-- id: s18-04-0060 -->
 
@@ -250,7 +250,7 @@ Nous nous trouvons d’ailleurs de ce fait en un point qui est tout à fait esse
 
 <!-- id: s18-04-0061 -->
 
-> *Gù zhě yǐ lì wéi běn*.
+*Gù zhě yǐ lì wéi běn*.
 
 <!-- id: s18-04-0062 -->
 
@@ -262,15 +262,15 @@ Nous nous trouvons d’ailleurs de ce fait en un point qui est tout à fait esse
 
 <!-- id: s18-04-0064 -->
 
-> peu importe duquel de ce qui constituait alors les *Royaumes* dits par la suite être les *Royaumes combattants* ...se trouve auprès de ce prince...
->
-> qui lui demande ses conseils -
->
-> ...auprès de ce prince marquer qu’il n’est pas là pour lui enseigner ce qui fait notre loi présente à tous, à savoir de ce qui convient pour l’accroissement de la richesse du Royaume, et nommément de ce que nous appellerions la *plus-value*.
->
-> S’il y a un sens qu’on peut donner *rétroacti­vement* à 利 « *lì* », c’est bien de cela qu’il s’agit.
->
-> Or, c’est bien là qu’il est remarquable de voir que ce que marque en l’occasion Mencius, c’est que, à partir donc de cette parole qui est *la nature*, ou si vous voulez de la parole qui concerne *la nature*, ce dont il va s’agir c’est d’arriver à la cause, en tant que ladite cause, c’est 利 « *lì* ».
+peu importe duquel de ce qui constituait alors les *Royaumes* dits par la suite être les *Royaumes combattants* ...se trouve auprès de ce prince...
+
+qui lui demande ses conseils -
+
+...auprès de ce prince marquer qu’il n’est pas là pour lui enseigner ce qui fait notre loi présente à tous, à savoir de ce qui convient pour l’accroissement de la richesse du Royaume, et nommément de ce que nous appellerions la *plus-value*.
+
+S’il y a un sens qu’on peut donner *rétroacti­vement* à 利 « *lì* », c’est bien de cela qu’il s’agit.
+
+Or, c’est bien là qu’il est remarquable de voir que ce que marque en l’occasion Mencius, c’est que, à partir donc de cette parole qui est *la nature*, ou si vous voulez de la parole qui concerne *la nature*, ce dont il va s’agir c’est d’arriver à la cause, en tant que ladite cause, c’est 利 « *lì* ».
 
 <!-- id: s18-04-0065 -->
 
@@ -278,7 +278,7 @@ Nous nous trouvons d’ailleurs de ce fait en un point qui est tout à fait esse
 
 <!-- id: s18-04-0066 -->
 
-> *zé gù ér yǐ yǐ*
+*zé gù ér yǐ yǐ*
 
 <!-- id: s18-04-0067 -->
 
@@ -310,15 +310,15 @@ Vous verrez, à vous référer à ce texte de Meng-Tzu, vous avez deux façons d
 
 <!-- id: s18-04-0074 -->
 
-> je ne sais pas s’il en existe actuellement beaucoup d’exemplaires encore « *available »,* comme on dit,
->
-> mais après tout ça vaut la peine de - pourquoi pas ? - d’en faire faire
->
-> pour ceux qui seraient curieux de se reporter à quelque chose d’aussi fondamental,
->
-> pour un certain éclairage d’une réflexion sur le langage, qu’est le travail d’un *néo-positiviste*
->
-> et qui n’est certainement pas négligeable, ...le *Mencius on the Mind* donc, de Richards, se procure à Londres chez Kegan Paul.
+je ne sais pas s’il en existe actuellement beaucoup d’exemplaires encore « *available »,* comme on dit,
+
+mais après tout ça vaut la peine de - pourquoi pas ? - d’en faire faire
+
+pour ceux qui seraient curieux de se reporter à quelque chose d’aussi fondamental,
+
+pour un certain éclairage d’une réflexion sur le langage, qu’est le travail d’un *néo-positiviste*
+
+et qui n’est certainement pas négligeable, ...le *Mencius on the Mind* donc, de Richards, se procure à Londres chez Kegan Paul.
 
 <!-- id: s18-04-0075 -->
 
@@ -338,7 +338,7 @@ Ce n’est pas rien que quelqu’un se soit avisé en pleine période de mythifi
 
 <!-- id: s18-04-0079 -->
 
-> c’était le style au début du siècle XIX<sup>ème</sup> ...ait posé que rien à jamais, ne serait situé, fondé, articulé, concernant le langage, si on ne com­mençait pas d’abord par interdire les questions de l’origine.
+c’était le style au début du siècle XIX<sup>ème</sup> ...ait posé que rien à jamais, ne serait situé, fondé, articulé, concernant le langage, si on ne com­mençait pas d’abord par interdire les questions de l’origine.
 
 <!-- id: s18-04-0080 -->
 
@@ -370,7 +370,11 @@ Vous ne l’avez pas entendu - pourquoi ? - parce que dans ce que j’ai articul
 
 <!-- id: s18-04-0087 -->
 
-> « *la logique de l’action.* »
+<div class="text-quotation">
+
+« *la logique de l’action.* »
+
+</div>
 
 <!-- id: s18-04-0088 -->
 
@@ -386,7 +390,7 @@ C’est parce que c’était écrit, et écrit comme ça...
 
 <!-- id: s18-04-0091 -->
 
-> car je l’ai écrit à maintes reprises ...c’est pour cela même que vous ne l’avez pas entendu.
+car je l’ai écrit à maintes reprises ...c’est pour cela même que vous ne l’avez pas entendu.
 
 <!-- id: s18-04-0092 -->
 
@@ -394,7 +398,7 @@ C’est en ça que l’écrit se différencie de la parole, et il faut y remettr
 
 <!-- id: s18-04-0093 -->
 
-> mais naturellement non pas sans inconvénients de principe ...pour qu’il soit entendu.
+mais naturellement non pas sans inconvénients de principe ...pour qu’il soit entendu.
 
 <!-- id: s18-04-0094 -->
 
@@ -438,9 +442,9 @@ Moyennant quoi *l’écrit*, *l’écrit* repris à soi tout seul...
 
 <!-- id: s18-04-0104 -->
 
-> qu’il s’agisse de tel ou tel *schéma*, celui qu’on appelle « L » ou n’importe quoi,
->
-> ou du grand graphe lui-même ...présente l’occasion de toutes sortes de malentendus.
+qu’il s’agisse de tel ou tel *schéma*, celui qu’on appelle « L » ou n’importe quoi,
+
+ou du grand graphe lui-même ...présente l’occasion de toutes sortes de malentendus.
 
 <!-- id: s18-04-0105 -->
 
@@ -456,7 +460,7 @@ Ces *graphes*...
 
 <!-- id: s18-04-0108 -->
 
-> bien sûr, personne n’a encore osé aller jusque-là ...ne vous indiquent en rien quoi que ce soit qui per­mette de faire retour à *l’origine du langage*.
+bien sûr, personne n’a encore osé aller jusque-là ...ne vous indiquent en rien quoi que ce soit qui per­mette de faire retour à *l’origine du langage*.
 
 <!-- id: s18-04-0109 -->
 
@@ -480,7 +484,7 @@ Elle est liée par des conditions que je désignerai rapidement comme celles du 
 
 <!-- id: s18-04-0114 -->
 
-> tel qu’il est ici défini par cette disposition écrite ...à quelle dis­tance est-il du *cabinet analytique*, c’est précisément ce qui constitue ce que nous appellerons *mon dissentiment* d’avec un certain nombre de *cabinets analytiques*.
+tel qu’il est ici défini par cette disposition écrite ...à quelle dis­tance est-il du *cabinet analytique*, c’est précisément ce qui constitue ce que nous appellerons *mon dissentiment* d’avec un certain nombre de *cabinets analytiques*.
 
 <!-- id: s18-04-0115 -->
 
@@ -488,7 +492,7 @@ Aussi cette définition du *discours analytique*...
 
 <!-- id: s18-04-0116 -->
 
-> pour pointer là où j’en suis ...ne leur paraît pas s’accommoder aux conditions du *cabinet analytique*.
+pour pointer là où j’en suis ...ne leur paraît pas s’accommoder aux conditions du *cabinet analytique*.
 
 <!-- id: s18-04-0117 -->
 
@@ -516,7 +520,7 @@ Alors me permettrai-je de demander à cette personne si le psychanalyste doit ê
 
 <!-- id: s18-04-0123 -->
 
-> puisqu’il se passe quelque chose de nouveau, c’est que dans mon école on se met à travailler au titre d’une école, c’est là quand même un pas quand même assez nouveau pour être relevé ...j’ai pu constater non sans plaisir qu’on s’était aperçu que dans ce texte, *je ne tranche aucunement de ce qu’est* *le transfert.*
+puisqu’il se passe quelque chose de nouveau, c’est que dans mon école on se met à travailler au titre d’une école, c’est là quand même un pas quand même assez nouveau pour être relevé ...j’ai pu constater non sans plaisir qu’on s’était aperçu que dans ce texte, *je ne tranche aucunement de ce qu’est* *le transfert.*
 
 <!-- id: s18-04-0124 -->
 
@@ -532,7 +536,7 @@ Pour en quelque sorte prendre au départ, départ de ce qui aujourd’hui va êt
 
 <!-- id: s18-04-0127 -->
 
-> je regrette beaucoup que la craie ne me permette pas de mettre les accents que permet le pinceau ...c’en est un qui a un sens, pour satisfaire aux exigences des *logico-positi­vistes*.
+je regrette beaucoup que la craie ne me permette pas de mettre les accents que permet le pinceau ...c’en est un qui a un sens, pour satisfaire aux exigences des *logico-positi­vistes*.
 
 <!-- id: s18-04-0128 -->
 
@@ -564,7 +568,7 @@ Mais ce qui me paraît remarquable, c’est *sa forme écrite, et sa forme écri
 
 <!-- id: s18-04-0135 -->
 
-> ...*les effets de langage*,
+...*les effets de langage*,
 
 <!-- id: s18-04-0136 -->
 
@@ -580,19 +584,19 @@ Il est très important à notre époque...
 
 <!-- id: s18-04-0139 -->
 
-> et à partir de certains énoncés qui ont été faits et qui tendent à établir de très regrettables confusions ...de rappeler que tout de même *l’écrit* est non pas 1<sup>er</sup> mais 2<sup>nd</sup> par rapport à toute *fonction du* *langage*, et que néanmoins sans *l’écrit* il n’est d’aucune façon possible de reve­nir à questionner ce qui résulte au premier chef de *l’effet de langage* comme tel, autrement dit de *l’ordre symbolique*, c’est à savoir « *la dimension »*...
+et à partir de certains énoncés qui ont été faits et qui tendent à établir de très regrettables confusions ...de rappeler que tout de même *l’écrit* est non pas 1<sup>er</sup> mais 2<sup>nd</sup> par rapport à toute *fonction du* *langage*, et que néanmoins sans *l’écrit* il n’est d’aucune façon possible de reve­nir à questionner ce qui résulte au premier chef de *l’effet de langage* comme tel, autrement dit de *l’ordre symbolique*, c’est à savoir « *la dimension »*...
 
 <!-- id: s18-04-0140 -->
 
-> pour vous faire plaisir, mais vous savez que j’ai introduit le terme de *demansion,...la demansion*, *la résidence*, *le lieu* [^30] de l’*Autre* de la *vérité*.
+pour vous faire plaisir, mais vous savez que j’ai introduit le terme de *demansion,...la demansion*, *la résidence*, *le lieu* [^30] de l’*Autre* de la *vérité*.
 
 <!-- id: s18-04-0141 -->
 
-> Je sais que cette « *demansion »* a fait ques­tion pour certains, les échos m’en sont revenus.
->
-> Eh bien, si *demansion* est en effet un terme, un terme nouveau que j’ai fabriqué et s’il n’a pas encore de sens,
->
-> eh bien, ça veut dire que c’est à vous que ça revient de lui en donner un.
+Je sais que cette « *demansion »* a fait ques­tion pour certains, les échos m’en sont revenus.
+
+Eh bien, si *demansion* est en effet un terme, un terme nouveau que j’ai fabriqué et s’il n’a pas encore de sens,
+
+eh bien, ça veut dire que c’est à vous que ça revient de lui en donner un.
 
 <!-- id: s18-04-0142 -->
 
@@ -600,7 +604,7 @@ Interroger *la demansion de la vérité*, de *la vérité dans sa demeure*, c’
 
 <!-- id: s18-04-0143 -->
 
-> là est le terme, la nouveauté de ce que j’introduis aujourd’hui ...*qui ne se fait* *que par l’écrit*, et par l’écrit en tant que ceci : *qu’il n’est* *que de l’écrit que se constitue la logique*.
+là est le terme, la nouveauté de ce que j’introduis aujourd’hui ...*qui ne se fait* *que par l’écrit*, et par l’écrit en tant que ceci : *qu’il n’est* *que de l’écrit que se constitue la logique*.
 
 <!-- id: s18-04-0144 -->
 
@@ -676,7 +680,7 @@ Ceci peut sembler articuler le fait que *le rapport*...
 
 <!-- id: s18-04-0162 -->
 
-> donnent un modèle de la fécondation d’où procède la reproduction ...eh bien, il semble qu’en effet quelque chose soit là fondé, établi, qui permette de situer à un certain niveau dit « *biologique »* ce qu’il en est *du rapport sexuel*.
+donnent un modèle de la fécondation d’où procède la reproduction ...eh bien, il semble qu’en effet quelque chose soit là fondé, établi, qui permette de situer à un certain niveau dit « *biologique »* ce qu’il en est *du rapport sexuel*.
 
 <!-- id: s18-04-0163 -->
 
@@ -684,9 +688,9 @@ L’étrange assurément...
 
 <!-- id: s18-04-0164 -->
 
-> et après tout, mon Dieu, pas tellement tel,
->
-> mais je vou­drais évoquer pour vous la dimension d’étrangeté de la chose ...c’est que la dualité et la suffisance de ce rapport ont depuis toujours leur modèle, je vous l’ai évoqué la dernière fois à propos des petits signes chinois.
+et après tout, mon Dieu, pas tellement tel,
+
+mais je vou­drais évoquer pour vous la dimension d’étrangeté de la chose ...c’est que la dualité et la suffisance de ce rapport ont depuis toujours leur modèle, je vous l’ai évoqué la dernière fois à propos des petits signes chinois.
 
 <!-- id: s18-04-0165 -->
 
@@ -694,7 +698,7 @@ Il y en a un là...
 
 <!-- id: s18-04-0166 -->
 
-> je me suis tout d’un coup impatienté de vous mon­trer des *signes*, ça avait l’air d’être fait uniquement pour vous épater ...eh ben, le *yīn* que je ne vous ai pas fait la dernière fois, le voilà : *yīn* 陰, et le *yáng* voilà : 陽 je le répète n’est-ce pas, voilà, un autre petit trait ici...
+je me suis tout d’un coup impatienté de vous mon­trer des *signes*, ça avait l’air d’être fait uniquement pour vous épater ...eh ben, le *yīn* que je ne vous ai pas fait la dernière fois, le voilà : *yīn* 陰, et le *yáng* voilà : 陽 je le répète n’est-ce pas, voilà, un autre petit trait ici...
 
 <!-- id: s18-04-0167 -->
 
@@ -780,9 +784,9 @@ Il s’agit ici de l’organe en tant...
 
 <!-- id: s18-04-0187 -->
 
-> il faut bien qu’ici j’aille vite, car je ne vais pas enfin... m’éterniser, tout reprendre, qu’on se reporte
->
-> aux textes dont je parlais tout à l’heure : « *La Direction de la Cure et les Principes de son Pouvoir »* ...*le phallus* c’est l’organe en tant qu’il *est - e.s.t* - il s’agit de l’être - en tant qu’il est *la jouissance féminine*.
+il faut bien qu’ici j’aille vite, car je ne vais pas enfin... m’éterniser, tout reprendre, qu’on se reporte
+
+aux textes dont je parlais tout à l’heure : « *La Direction de la Cure et les Principes de son Pouvoir »* ...*le phallus* c’est l’organe en tant qu’il *est - e.s.t* - il s’agit de l’être - en tant qu’il est *la jouissance féminine*.
 
 <!-- id: s18-04-0188 -->
 
@@ -810,7 +814,7 @@ Ce que je propose est ceci, c’est de poser que *le langage*...
 
 <!-- id: s18-04-0194 -->
 
-> n’est-ce pas, nous le mettons là \[**1**\] ...a son champ réservé dans cette béance \[**2**\] du rapport sexuel, telle que la laisse ouverte *le phallus*.
+n’est-ce pas, nous le mettons là \[**1**\] ...a son champ réservé dans cette béance \[**2**\] du rapport sexuel, telle que la laisse ouverte *le phallus*.
 
 <!-- id: s18-04-0195 -->
 
@@ -830,7 +834,7 @@ Ce qui le prouve, ce qui le sup­porte, ce qui rend absolument évidente, défin
 
 <!-- id: s18-04-0199 -->
 
-> ceci dont il ne semble pas qu’on ait remarqué la différence ...c’est la substitution au rapport sexuel de ce qui s’appelle *la loi sexuelle.*
+ceci dont il ne semble pas qu’on ait remarqué la différence ...c’est la substitution au rapport sexuel de ce qui s’appelle *la loi sexuelle.*
 
 <!-- id: s18-04-0200 -->
 
@@ -850,9 +854,9 @@ La corrélation de toujours du *rite* et du *mythe*, dont c’est faiblesse ridi
 
 <!-- id: s18-04-0204 -->
 
-> selon une topologie qui est celle à laquelle j’ai fait depuis assez longtemps déjà un sort
->
-> pour n’avoir pas besoin de la rappeler *...le rite et le mythe* sont *comme l’endroit et comme l’envers*, à cette condition que cet endroit et cet envers soient *en continuité*.
+selon une topologie qui est celle à laquelle j’ai fait depuis assez longtemps déjà un sort
+
+pour n’avoir pas besoin de la rappeler *...le rite et le mythe* sont *comme l’endroit et comme l’envers*, à cette condition que cet endroit et cet envers soient *en continuité*.
 
 <!-- id: s18-04-0205 -->
 
@@ -864,9 +868,9 @@ Le maintien, le maintien dans *le discours analytique* de ce mythe résiduel qui
 
 <!-- id: s18-04-0207 -->
 
-> Dieu sait pourquoi, qui est en fait celui de *Totem et Tabou*
->
-> où s’inscrit ce mythe tout entier de l’invention de Freud, *du père primordial en tant qu’il jouit de toutes les femmes* ...c’est tout de même là que nous devons interroger d’un peu plus loin, de la logique, de l’écrit, ce qu’il veut dire.
+Dieu sait pourquoi, qui est en fait celui de *Totem et Tabou*
+
+où s’inscrit ce mythe tout entier de l’invention de Freud, *du père primordial en tant qu’il jouit de toutes les femmes* ...c’est tout de même là que nous devons interroger d’un peu plus loin, de la logique, de l’écrit, ce qu’il veut dire.
 
 <!-- id: s18-04-0208 -->
 
@@ -918,7 +922,7 @@ Voilà ce que pose un questionnement du *phallus*...
 
 <!-- id: s18-04-0220 -->
 
-> et non pas du rapport sexuel ...quant à ce qu’il en est de *la jouissance* qu’il constitue, puisque j’ai dit que c’était *la jouissance féminine*.
+et non pas du rapport sexuel ...quant à ce qu’il en est de *la jouissance* qu’il constitue, puisque j’ai dit que c’était *la jouissance féminine*.
 
 <!-- id: s18-04-0221 -->
 
@@ -946,11 +950,11 @@ Ce n’est pas pour jouer de l’obscénité que j’avance ça en ce point, c�
 
 <!-- id: s18-04-0227 -->
 
-> et je le suppose ...il y a au moins ici une personne qui sait ce que c’est que de jouer de la flûte, c’est la personne qui récemment me faisait remarquer à pro­pos de ce jeu de la flûte...
+et je le suppose ...il y a au moins ici une personne qui sait ce que c’est que de jouer de la flûte, c’est la personne qui récemment me faisait remarquer à pro­pos de ce jeu de la flûte...
 
 <!-- id: s18-04-0228 -->
 
-> mais on peut le dire aussi à propos de tout usage d’ins­trument ...quelle division du corps l’usage d’un instrument, quel qu’il soit, rend nécessaire.
+mais on peut le dire aussi à propos de tout usage d’ins­trument ...quelle division du corps l’usage d’un instrument, quel qu’il soit, rend nécessaire.
 
 <!-- id: s18-04-0229 -->
 
@@ -966,7 +970,7 @@ Prenez une canne de golf...
 
 <!-- id: s18-04-0232 -->
 
-> ça m’arrive ces der­niers temps : j’ai recommencé ...c’est pareil, hein : il y a deux types de mouve­ments qu’il faut que vous fassiez en même temps, vous n’y arrivez au début absolument pas, parce que synergiquement ça ne s’arrange pas comme ça.
+ça m’arrive ces der­niers temps : j’ai recommencé ...c’est pareil, hein : il y a deux types de mouve­ments qu’il faut que vous fassiez en même temps, vous n’y arrivez au début absolument pas, parce que synergiquement ça ne s’arrange pas comme ça.
 
 <!-- id: s18-04-0233 -->
 
@@ -986,9 +990,9 @@ Bon, ces vérités pre­mières...
 
 <!-- id: s18-04-0237 -->
 
-> qui n’ont pas eu besoin de m’être rappelées,
->
-> puisque aussi bien je vous disais que j’en avais ma dernière expérience avec la canne de golf ...c’est ce qui laisse ouverte comme une question s’il y a encore quelque part un savoir de l’instrument *phallus*.
+qui n’ont pas eu besoin de m’être rappelées,
+
+puisque aussi bien je vous disais que j’en avais ma dernière expérience avec la canne de golf ...c’est ce qui laisse ouverte comme une question s’il y a encore quelque part un savoir de l’instrument *phallus*.
 
 <!-- id: s18-04-0238 -->
 
@@ -1028,7 +1032,7 @@ Il en résulte *qu’une femme n’a* de témoignage de *son insertion dans la l
 
 <!-- id: s18-04-0247 -->
 
-> comme je l’ai exprimé maintes fois, s’il prend sa source dans le champ d’où tout part ...*l’effet de langage*, dans le désir de l’Autre donc.
+comme je l’ai exprimé maintes fois, s’il prend sa source dans le champ d’où tout part ...*l’effet de langage*, dans le désir de l’Autre donc.
 
 <!-- id: s18-04-0248 -->
 
@@ -1092,7 +1096,7 @@ Le premier fait nouveau depuis que fonctionne l’oracle, c’est-à-dire depuis
 
 <!-- id: s18-04-0263 -->
 
-> seulement comme c’est écrit, naturellement vous ne l’avez pas entendu ...j’ai dit que « *la vérité parle Je* ».
+seulement comme c’est écrit, naturellement vous ne l’avez pas entendu ...j’ai dit que « *la vérité parle Je* ».
 
 <!-- id: s18-04-0264 -->
 
@@ -1124,7 +1128,7 @@ Néanmoins, si vous lisez quelque chose qui s’appelle la « *[Métamathémati
 
 <!-- id: s18-04-0271 -->
 
-> je l’ai apporté, c’est chez Gauthier-Villars et Mouton ...bon, et puis je vais même vous indiquer la page où vous verrez des choses astucieuses.
+je l’ai apporté, c’est chez Gauthier-Villars et Mouton ...bon, et puis je vais même vous indiquer la page où vous verrez des choses astucieuses.
 
 <!-- id: s18-04-0272 -->
 
@@ -1176,7 +1180,7 @@ Alors la vérité, vous vous apercevrez qu’exactement comme dans *La métama­
 
 <!-- id: s18-04-0284 -->
 
-> vous verrez tout à l’heure ce que vous gagnez ...mais si vous misez que c’est « *ou oui ou non* », là vous perdez.
+vous verrez tout à l’heure ce que vous gagnez ...mais si vous misez que c’est « *ou oui ou non* », là vous perdez.
 
 <!-- id: s18-04-0285 -->
 
@@ -1272,9 +1276,9 @@ Mais il y a une chose très frappante, c’est que...
 
 <!-- id: s18-04-0308 -->
 
-> mis à part une certaine sorte de manque de sérieux
->
-> qui est peut-être ce qu’il y a de plus solide pour définir la perversion ...eh ben, ces solutions élégantes, il est clair que les personnes pour qui ça c’est sérieux, toute cette menue affaire, parce que - mon Dieu - le langage, ça compte pour elles, aussi l’écrit, ne serait-ce que parce que ça permet l’interrogation logique, car en fin de compte, qu’est-ce que c’est que la logique si ce n’est ce paradoxe absolu­ment fabuleux que ne permet que l’écrit, de prendre *la vérité comme référent* ?
+mis à part une certaine sorte de manque de sérieux
+
+qui est peut-être ce qu’il y a de plus solide pour définir la perversion ...eh ben, ces solutions élégantes, il est clair que les personnes pour qui ça c’est sérieux, toute cette menue affaire, parce que - mon Dieu - le langage, ça compte pour elles, aussi l’écrit, ne serait-ce que parce que ça permet l’interrogation logique, car en fin de compte, qu’est-ce que c’est que la logique si ce n’est ce paradoxe absolu­ment fabuleux que ne permet que l’écrit, de prendre *la vérité comme référent* ?
 
 <!-- id: s18-04-0309 -->
 
@@ -1302,7 +1306,7 @@ Les personnes sérieuses...
 
 <!-- id: s18-04-0315 -->
 
-> je reprends ce que je suis en train de dire ...auxquelles se proposent ces solutions élégantes qui seraient « *apprivoisement du phallus »,* ben c’est curieux, c’est elles qui se refusent.
+je reprends ce que je suis en train de dire ...auxquelles se proposent ces solutions élégantes qui seraient « *apprivoisement du phallus »,* ben c’est curieux, c’est elles qui se refusent.
 
 <!-- id: s18-04-0316 -->
 
@@ -1318,11 +1322,11 @@ Non certes que c’était là chose naturelle, puisqu’il n’y a pas à cet é
 
 <!-- id: s18-04-0319 -->
 
-> qu’elle existe, c’est un rêve de femme, mais c’est le rêve d’où est sorti *Don Juan.*
->
-> S’il y avait *Un homme* pour qui *La femme* existe, ce serait une merveille !
->
-> On serait sûr de son désir. C’est une élucubra­tion féminine ...pour qu’un homme trouve *sa femme*, quoi d’autre sinon la formule romantique : « *C’était fatal, c’était écrit* ».
+qu’elle existe, c’est un rêve de femme, mais c’est le rêve d’où est sorti *Don Juan.*
+
+S’il y avait *Un homme* pour qui *La femme* existe, ce serait une merveille !
+
+On serait sûr de son désir. C’est une élucubra­tion féminine ...pour qu’un homme trouve *sa femme*, quoi d’autre sinon la formule romantique : « *C’était fatal, c’était écrit* ».
 
 <!-- id: s18-04-0320 -->
 
@@ -1330,7 +1334,7 @@ Une fois de plus, nous voilà venus à ce carrefour qui est celui où je vous ai
 
 <!-- id: s18-04-0321 -->
 
-> ce qu’on traduit, fort mal ma foi, par l’homme ...comme ça un tout petit peu au­-dessus du commun, c’est cette bascule entre
+ce qu’on traduit, fort mal ma foi, par l’homme ...comme ça un tout petit peu au­-dessus du commun, c’est cette bascule entre
 
 <!-- id: s18-04-0322 -->
 
@@ -1362,9 +1366,13 @@ Traduction de M.G. Pauthier \[1801-1873\] : *Meng Tseu dit :*
 
 <!-- id: s18-04-0329 -->
 
-> *Si ce sage agissait naturellement comme Yu en dirigeant les eaux* \[*de la grande inondation*\]*, nous n’éprouverions point d’aversion pour sa sagesse. Lorsque Yu dirigeait les grandes eaux, il les dirigeait selon leur cours le plus naturel et le plus facile.*
->
-> *Si le sage dirige aussi ses actions selon la voie naturelle de la raison et la nature des choses, alors sa sagesse sera grande aussi. Quoique le ciel soit très élevé, que les étoiles soient très éloignées, si on porte son investigation sur les effets naturels qui en procèdent, on peut calculer ainsi, avec la plus grande facilité, le jour où après mille ans le solstice d’hiver aura lieu.* »
+<div class="text-quotation">
+
+*Si ce sage agissait naturellement comme Yu en dirigeant les eaux* \[*de la grande inondation*\]*, nous n’éprouverions point d’aversion pour sa sagesse. Lorsque Yu dirigeait les grandes eaux, il les dirigeait selon leur cours le plus naturel et le plus facile.*
+
+*Si le sage dirige aussi ses actions selon la voie naturelle de la raison et la nature des choses, alors sa sagesse sera grande aussi. Quoique le ciel soit très élevé, que les étoiles soient très éloignées, si on porte son investigation sur les effets naturels qui en procèdent, on peut calculer ainsi, avec la plus grande facilité, le jour où après mille ans le solstice d’hiver aura lieu.* »
+
+</div>
 
 <!-- id: s18-04-0330 -->
 
@@ -1376,9 +1384,13 @@ Traduction de Séraphin Couvreur \[1835-1919\] : *Meng tzeu dit :*
 
 <!-- id: s18-04-0332 -->
 
-> *Si les hommes prudents agissaient aussi de manière à n’avoir pas de difficultés, leur prudence serait grande.*
->
-> *Bien que le ciel soit très élevé et les astres fort éloignés de la terre, si l’on étudie leurs mouvements, on peut aisément calculer le moment du solstice d’hiver pour chaque année depuis dix siècles.* »
+<div class="text-quotation">
+
+*Si les hommes prudents agissaient aussi de manière à n’avoir pas de difficultés, leur prudence serait grande.*
+
+*Bien que le ciel soit très élevé et les astres fort éloignés de la terre, si l’on étudie leurs mouvements, on peut aisément calculer le moment du solstice d’hiver pour chaque année depuis dix siècles.* »
+
+</div>
 
 <!-- id: s18-04-0333 -->
 
@@ -1386,23 +1398,27 @@ Traduction d’André Lévy \[1925-2017\] : Mencius dit :
 
 <!-- id: s18-04-0334 -->
 
-> « *Toutes les discussions du monde sur la nature humaine se bornent à des « donc » et des « c’est pourquoi »,*
->
-> *lesquels ont pour fondement l’intérêt. Ce qu’il y a de détestable dans l’intelligence, c’est cette façon de perforer.*
->
-> *Si elle était semblable à l’écoulement des eaux pratiqué par Yu, elle n’aurait rien de rebutant.*
->
-> *Le drainage des eaux par Yu consistait à faire en sorte qu’il ny ait pas d’incidents.*
->
-> *Si, elle aussi, suivait la pente naturelle, l’intelligence n’en serait que plus grande.*
->
-> *Si haut que soit le ciel, si loitaines que soient les étoiles, à en chercher le « pourquoi »,*
->
-> *on pourrait parvenir sans bouger à calculer le solstice dans mille ans. »*
->
-> \[Andé Lévy, Mencius, éd. You-Feng, Paris, 2003, IV-B26, p. 123-124\]
->
-> <img src="assets/image43.png" style="width:3.47431in;height:5.72083in" />
+<div class="text-quotation">
+
+« *Toutes les discussions du monde sur la nature humaine se bornent à des « donc » et des « c’est pourquoi »,*
+
+*lesquels ont pour fondement l’intérêt. Ce qu’il y a de détestable dans l’intelligence, c’est cette façon de perforer.*
+
+*Si elle était semblable à l’écoulement des eaux pratiqué par Yu, elle n’aurait rien de rebutant.*
+
+*Le drainage des eaux par Yu consistait à faire en sorte qu’il ny ait pas d’incidents.*
+
+*Si, elle aussi, suivait la pente naturelle, l’intelligence n’en serait que plus grande.*
+
+*Si haut que soit le ciel, si loitaines que soient les étoiles, à en chercher le « pourquoi »,*
+
+*on pourrait parvenir sans bouger à calculer le solstice dans mille ans. »*
+
+\[Andé Lévy, Mencius, éd. You-Feng, Paris, 2003, IV-B26, p. 123-124\]
+
+<img src="assets/image43.png" style="width:3.47431in;height:5.72083in" />
+
+</div>
 
 <!-- id: s18-04-0335 -->
 
@@ -1410,17 +1426,21 @@ I.A. Richards \[1893-1979\] : *Mencius said:*
 
 <!-- id: s18-04-0336 -->
 
-> « *Heaven below’s, the world talk of nature about causes, reasons, only.*
->
-> *Causes use profit, utility, as roots.*
->
-> *What I dislike in ones on is due to their chiselling, laboured effort.*
->
-> *If the ones as Yüs conducting-waters, did what was without labouring.*
->
-> *If the wise ones also do what is Heaven’s height, star’s distance, if found out their causes,*
->
-> *1000 year’s solstices could seated be attained. »*
+<div class="text-quotation">
+
+« *Heaven below’s, the world talk of nature about causes, reasons, only.*
+
+*Causes use profit, utility, as roots.*
+
+*What I dislike in ones on is due to their chiselling, laboured effort.*
+
+*If the ones as Yüs conducting-waters, did what was without labouring.*
+
+*If the wise ones also do what is Heaven’s height, star’s distance, if found out their causes,*
+
+*1000 year’s solstices could seated be attained. »*
+
+</div>
 
 <!-- id: s18-04-0337 -->
 

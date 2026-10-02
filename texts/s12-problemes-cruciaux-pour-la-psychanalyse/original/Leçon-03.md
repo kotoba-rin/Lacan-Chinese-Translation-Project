@@ -18,11 +18,11 @@ La tentative d’un PIAGET…
 
 <!-- id: s12-03-0004 -->
 
-> qui est à proprement parler celle de faire confiner d’une façon si étroite le procès, le progrès de la connaissance effective avec un supposé développement de quelque chose de supposé immanent à une espèce, humaine ou autre …est quelque chose qui assurément…
+qui est à proprement parler celle de faire confiner d’une façon si étroite le procès, le progrès de la connaissance effective avec un supposé développement de quelque chose de supposé immanent à une espèce, humaine ou autre …est quelque chose qui assurément…
 
 <!-- id: s12-03-0005 -->
 
-> d’une façon certes analogique, puisque aucune *Phénoménologie de l’esprit*, si élémentaire soit-elle, ne peut y être impliquée …devrait aboutir à cette sorte de sélection, d’échantillonnage dont je parle, dont on ferait en quelque sorte du quotient intellectuel le seul étalonnage possible de quiconque a à répondre d’un certain fonctionnement, d’une certaine intégration du fonctionnement de l’intelligence.
+d’une façon certes analogique, puisque aucune *Phénoménologie de l’esprit*, si élémentaire soit-elle, ne peut y être impliquée …devrait aboutir à cette sorte de sélection, d’échantillonnage dont je parle, dont on ferait en quelque sorte du quotient intellectuel le seul étalonnage possible de quiconque a à répondre d’un certain fonctionnement, d’une certaine intégration du fonctionnement de l’intelligence.
 
 <!-- id: s12-03-0006 -->
 
@@ -70,7 +70,7 @@ Car d’aucune façon dans la théorie analytique, quoi que ce soit qui pourrait
 
 <!-- id: s12-03-0017 -->
 
-> voire les plus *inféodés* à tel ou tel procès *traditionnel*, et mon Dieu à ne pas trop l’approfondir …riraient si on leur disait que ce qu’il s’agit de transmettre c’est une fonction du type de *l’idéal du moi* : l’identification dont il s’agit ne peut qu’être définie, saisie, autre part.
+voire les plus *inféodés* à tel ou tel procès *traditionnel*, et mon Dieu à ne pas trop l’approfondir …riraient si on leur disait que ce qu’il s’agit de transmettre c’est une fonction du type de *l’idéal du moi* : l’identification dont il s’agit ne peut qu’être définie, saisie, autre part.
 
 <!-- id: s12-03-0018 -->
 
@@ -90,7 +90,7 @@ C’est pour cela qu’il est si important d’essayer de saisir ce dont il peut
 
 <!-- id: s12-03-0022 -->
 
-> j’entends au niveau de son expérience, au niveau de ses résultats …cette dimension du véridique, de quelque chose qui, d’être conquis, se révèle non seulement libératoire mais plus authentique que ce qui était inclus dans le nœud dont il s’agit de se libérer.
+j’entends au niveau de son expérience, au niveau de ses résultats …cette dimension du véridique, de quelque chose qui, d’être conquis, se révèle non seulement libératoire mais plus authentique que ce qui était inclus dans le nœud dont il s’agit de se libérer.
 
 <!-- id: s12-03-0023 -->
 
@@ -98,7 +98,7 @@ Aussi bien n’est-ce pas pour rien que viennent dans mon discours des élément
 
 <!-- id: s12-03-0024 -->
 
-> aussi inaperçus peut-être, mais aussi frappants si nous les retenons …que ceux qui de ce nœud nous ramènent à ce que déjà la dernière fois, j’ai fait entrer ici dans *ce petit modèle* que je vous apportais, sous la forme de *la bande de Mœbius*, en vous rappelant l’importance de quelque chose qui est de l’ordre de la topologie.
+aussi inaperçus peut-être, mais aussi frappants si nous les retenons …que ceux qui de ce nœud nous ramènent à ce que déjà la dernière fois, j’ai fait entrer ici dans *ce petit modèle* que je vous apportais, sous la forme de *la bande de Mœbius*, en vous rappelant l’importance de quelque chose qui est de l’ordre de la topologie.
 
 <!-- id: s12-03-0025 -->
 
@@ -130,7 +130,7 @@ Bien au contraire, s’il est quelque chose que dans une première approche nous
 
 <!-- id: s12-03-0032 -->
 
-> et mon Dieu, et que ce soit une formule qui s’appliquera bien assez à divers niveaux, au moins d’une façon descriptive, pour avoir l’air, au moins au premier plan, d’une approche …que la pensée c’est l’intelligence s’exerçant à se retrouver dans les difficultés que lui impose la fonction du langage.
+et mon Dieu, et que ce soit une formule qui s’appliquera bien assez à divers niveaux, au moins d’une façon descriptive, pour avoir l’air, au moins au premier plan, d’une approche …que la pensée c’est l’intelligence s’exerçant à se retrouver dans les difficultés que lui impose la fonction du langage.
 
 <!-- id: s12-03-0033 -->
 
@@ -146,7 +146,7 @@ Qui ne voit que tout ce qu’apporte le langage de fécondité, voire même de p
 
 <!-- id: s12-03-0036 -->
 
-> non pas à opérer sur cette sorte de conjonction d’appareil, en quelque sorte préformé qui \[...\] après quoi, nous n’aurions plus qu’à *y* recueillir, qu’à y lire la solution d’un problème …qui ne voit que c’est justement cette opération qui constitue elle-même la solution du problème, que cette *opération de fonction*, et que j’ai appelée pour l’instant idéalement biunivoque, c’est justement ce qu’il s’agit d*’*obtenir au terme de toute recherche.
+non pas à opérer sur cette sorte de conjonction d’appareil, en quelque sorte préformé qui \[...\] après quoi, nous n’aurions plus qu’à *y* recueillir, qu’à y lire la solution d’un problème …qui ne voit que c’est justement cette opération qui constitue elle-même la solution du problème, que cette *opération de fonction*, et que j’ai appelée pour l’instant idéalement biunivoque, c’est justement ce qu’il s’agit d*’*obtenir au terme de toute recherche.
 
 <!-- id: s12-03-0037 -->
 
@@ -162,7 +162,7 @@ Et ce n’est pas autre chose qui s’appelle *la structure*. L’ambiguïté qu
 
 <!-- id: s12-03-0040 -->
 
-> et que je vais vous faire suivre à la trace dans tel ou tel champ plus favorable à le manifester …entre *le sens* et *la signification* par exemple, seuls capables - ce n’est pas toujours plaisir - de jouer avec un chatoiement, de ce qui nous apparaîtrait dernier de ne pas pouvoir même être référé à la catégorie supérieure d’être un chatoiement du sens, puisque c’est déjà d’une division à l’intérieur du sens qu’il s’agit.
+et que je vais vous faire suivre à la trace dans tel ou tel champ plus favorable à le manifester …entre *le sens* et *la signification* par exemple, seuls capables - ce n’est pas toujours plaisir - de jouer avec un chatoiement, de ce qui nous apparaîtrait dernier de ne pas pouvoir même être référé à la catégorie supérieure d’être un chatoiement du sens, puisque c’est déjà d’une division à l’intérieur du sens qu’il s’agit.
 
 <!-- id: s12-03-0041 -->
 
@@ -198,11 +198,11 @@ Mais que ce terme soit ici expressément porté sur les signes…
 
 <!-- id: s12-03-0049 -->
 
-> *sur les signes au temps où - d’autre part - comme une référence radicale, j’ai dit que le signe c’est ce qui représente quelque chose pour quelqu’un* …voilà qui, à la fois nous donne le modèle de ce qu’un certain type de référence apparemment *tautologique*…
+*sur les signes au temps où - d’autre part - comme une référence radicale, j’ai dit que le signe c’est ce qui représente quelque chose pour quelqu’un* …voilà qui, à la fois nous donne le modèle de ce qu’un certain type de référence apparemment *tautologique*…
 
 <!-- id: s12-03-0050 -->
 
-> car donc je n’ai dit qu’une chose, c’est que *le matérialisme c’est ce qui ne pose pour existant que ce dont nous avons des signes matériels* …n’a assurément pas effleuré le sens du mot matière. Et pourtant donc, *tout tautologique qu’il est, il nous apporte un sens* et nous montre en quelque sorte sous une figure exemplaire, paradigmatique, *l’utilité de ce petit nœud* dont je vous ai fait, l’autre jour, le contour :
+car donc je n’ai dit qu’une chose, c’est que *le matérialisme c’est ce qui ne pose pour existant que ce dont nous avons des signes matériels* …n’a assurément pas effleuré le sens du mot matière. Et pourtant donc, *tout tautologique qu’il est, il nous apporte un sens* et nous montre en quelque sorte sous une figure exemplaire, paradigmatique, *l’utilité de ce petit nœud* dont je vous ai fait, l’autre jour, le contour :
 
 <!-- id: s12-03-0051 -->
 
@@ -222,9 +222,9 @@ C’est SAUSSURE qui, parlant du *signifié*...
 
 <!-- id: s12-03-0055 -->
 
-> et chacun sait, qu’il n’en a point parlé d’une façon qui soit définitive, ne serait-ce
->
-> qu’en raison des ambiguïtés qui se sont engouffrées par la porte de sa théorie justement en ce point ...ce qu’il en a dit de plus efficace, est assurément ceci que, *eu égard au signifiant le signifié se présente dans le rapport de l’envers à l’endroit ou comme vous voudrez de l’endroit à l’envers.*
+et chacun sait, qu’il n’en a point parlé d’une façon qui soit définitive, ne serait-ce
+
+qu’en raison des ambiguïtés qui se sont engouffrées par la porte de sa théorie justement en ce point ...ce qu’il en a dit de plus efficace, est assurément ceci que, *eu égard au signifiant le signifié se présente dans le rapport de l’envers à l’endroit ou comme vous voudrez de l’endroit à l’envers.*
 
 <!-- id: s12-03-0056 -->
 
@@ -248,7 +248,7 @@ Mais qu’autre chose était l’autre direction qui…
 
 <!-- id: s12-03-0061 -->
 
-> pour nous faire aboutir sans doute à l’impasse, et fermée de ce qu’est *le point de saisissement, le charme d’un texte poétique* …nous indiquait bien que ce dont il s’agissait était d’une autre dimension. Sans doute ce qu’elle a laissé dans le plan, dans la brume, dans la nuée, de cette direction *poétique* est quelque chose qui d’aucune façon ne pourrait nous paraître suffisant.
+pour nous faire aboutir sans doute à l’impasse, et fermée de ce qu’est *le point de saisissement, le charme d’un texte poétique* …nous indiquait bien que ce dont il s’agissait était d’une autre dimension. Sans doute ce qu’elle a laissé dans le plan, dans la brume, dans la nuée, de cette direction *poétique* est quelque chose qui d’aucune façon ne pourrait nous paraître suffisant.
 
 <!-- id: s12-03-0062 -->
 
@@ -272,7 +272,7 @@ C’est ce que démontre cette expérience poétique en quelque sorte, que quelq
 
 <!-- id: s12-03-0067 -->
 
-> selon le mode où cela passe, diversement repérable et diversement pointé : c’est ce que nous allons tenter de faire …c’est cela seul qui pour nous, permet un repérage exact d’une expérience qui du seul fait d’être une expérience entièrement, non seulement de paroles mais de paroles artificielles, de paroles structurées par un certain nombre de conditions qui infléchissent la portée du discours, doit être repéré par rapport à ce que j’ai appelé tout à l’heure l’usage du langage, par quelque chose ou par quelqu’un, sujet, agent, patient, qui y sont pris.
+selon le mode où cela passe, diversement repérable et diversement pointé : c’est ce que nous allons tenter de faire …c’est cela seul qui pour nous, permet un repérage exact d’une expérience qui du seul fait d’être une expérience entièrement, non seulement de paroles mais de paroles artificielles, de paroles structurées par un certain nombre de conditions qui infléchissent la portée du discours, doit être repéré par rapport à ce que j’ai appelé tout à l’heure l’usage du langage, par quelque chose ou par quelqu’un, sujet, agent, patient, qui y sont pris.
 
 <!-- id: s12-03-0068 -->
 
@@ -404,7 +404,7 @@ Alors là-dessus, c’est un simple exercice introductif, qu’est-ce que c’es
 
 <!-- id: s12-03-0100 -->
 
-> donc peu importe que l’opération de suture se fasse avant ou après l’autre, ça donnera le même résultat, mais l’opération doit être faite d’une façon successive …les deux autres bords sont *vectorialisés en sens contraire*.
+donc peu importe que l’opération de suture se fasse avant ou après l’autre, ça donnera le même résultat, mais l’opération doit être faite d’une façon successive …les deux autres bords sont *vectorialisés en sens contraire*.
 
 <!-- id: s12-03-0101 -->
 
@@ -416,11 +416,11 @@ Je vais vous montrer tout de suite au tableau ce que ça donne pour ceux qui n�
 
 <!-- id: s12-03-0103 -->
 
-> en coupe bien sûr ne voulant rien dire dans ce registre, puisque nous n’introduisons pas la troisième dimension de l’espace …c’est une façon pour l’intuition commune, pour le repérage qui est habituellement le vôtre, dans l’expérience…
+en coupe bien sûr ne voulant rien dire dans ce registre, puisque nous n’introduisons pas la troisième dimension de l’espace …c’est une façon pour l’intuition commune, pour le repérage qui est habituellement le vôtre, dans l’expérience…
 
 <!-- id: s12-03-0104 -->
 
-> et après tout, peut-être peut-on dire aussi la coutume car rien n’objecterait à ce que vous soit plus immédiatement accessibles et familières les dimensions de la topologie des surfaces : il suffit que vous vous y exerciez un peu, c’est même ce qui est souhaitable …[*voici ce que cela donne*](http://www.youtube.com/watch?v=E8rifKlq5hc&mode=related&search=) en coupe :
+et après tout, peut-être peut-on dire aussi la coutume car rien n’objecterait à ce que vous soit plus immédiatement accessibles et familières les dimensions de la topologie des surfaces : il suffit que vous vous y exerciez un peu, c’est même ce qui est souhaitable …[*voici ce que cela donne*](http://www.youtube.com/watch?v=E8rifKlq5hc&mode=related&search=) en coupe :
 
 <!-- id: s12-03-0105 -->
 
@@ -532,9 +532,9 @@ Et ceci y correspond justement dans la mesure, et uniquement dans la mesure où,
 
 <!-- id: s12-03-0132 -->
 
-> ça n’est pas tout à l’heure… comme tout à l’heure dans une *blastula* telle que je l’avais dessinée,
->
-> le dedans qui est en dehors pour le microcosme …c’est bel et bien lui aussi un dehors qu’il a, et qui s’affronte au dedans du cosmos.
+ça n’est pas tout à l’heure… comme tout à l’heure dans une *blastula* telle que je l’avais dessinée,
+
+le dedans qui est en dehors pour le microcosme …c’est bel et bien lui aussi un dehors qu’il a, et qui s’affronte au dedans du cosmos.
 
 <!-- id: s12-03-0133 -->
 
@@ -554,9 +554,9 @@ C’est à partir de cette découverte que, la rupture du pacte supposé préét
 
 <!-- id: s12-03-0137 -->
 
-> même si, tout de suite et simplement parce qu’on ne l’enseigne qu’incomplètement,
->
-> et on ne l’enseigne qu’incomplètement parce qu’on n’en voit pas le dernier ressort …*que c’est à partir de là que peut s’inscrire une science : à partir du moment où se rompt ce parrallélisme du sujet au cosmos qui l’enveloppe* *et qui fait du sujet, psyché, psychologie, microcosme.*
+même si, tout de suite et simplement parce qu’on ne l’enseigne qu’incomplètement,
+
+et on ne l’enseigne qu’incomplètement parce qu’on n’en voit pas le dernier ressort …*que c’est à partir de là que peut s’inscrire une science : à partir du moment où se rompt ce parrallélisme du sujet au cosmos qui l’enveloppe* *et qui fait du sujet, psyché, psychologie, microcosme.*
 
 <!-- id: s12-03-0138 -->
 
@@ -572,7 +572,7 @@ C’est-à-dire que dans la couture qui se fait au niveau de ce trou, ce qui est
 
 <!-- id: s12-03-0141 -->
 
-> *Est-ce que c’est visible ?... Est-ce que c’est assez clair... ? Est-ce qu’on voit de là-bas, de cette façon mal éclairée ?*
+*Est-ce que c’est visible ?... Est-ce que c’est assez clair... ? Est-ce qu’on voit de là-bas, de cette façon mal éclairée ?*
 
 <!-- id: s12-03-0142 -->
 
@@ -580,15 +580,15 @@ Ici nous avons ouvert un orifice traversant à la fois ce qui dans mon dessin sy
 
 <!-- id: s12-03-0143 -->
 
-> *Est-ce que vous l’avez assez vu ? Non, eh bien je vais le faire plus grand, sinon nous n’y comprendrons jamais rien. La voici complète.*
->
-> *Est-ce que ça commence à se voir ? Est-ce que ça commence à se voir ?*
->
-> *Est-ce que vous retrouvez l’essentiel de ce que je vous ai expliqué de tout à l’heure, la structure de la bouteille de Klein ?*
->
-> *Il faut que ce tableau soit vraiment mal éclairé. Est-ce qu’il n’y a pas de la lumière, pour que je voie là-bas les personnes se pousser du col ?*
->
-> *Ce serait quand même important que vous voyez ce que j’ai dessiné !*
+*Est-ce que vous l’avez assez vu ? Non, eh bien je vais le faire plus grand, sinon nous n’y comprendrons jamais rien. La voici complète.*
+
+*Est-ce que ça commence à se voir ? Est-ce que ça commence à se voir ?*
+
+*Est-ce que vous retrouvez l’essentiel de ce que je vous ai expliqué de tout à l’heure, la structure de la bouteille de Klein ?*
+
+*Il faut que ce tableau soit vraiment mal éclairé. Est-ce qu’il n’y a pas de la lumière, pour que je voie là-bas les personnes se pousser du col ?*
+
+*Ce serait quand même important que vous voyez ce que j’ai dessiné !*
 
 <!-- id: s12-03-0144 -->
 
@@ -652,9 +652,9 @@ Le *Heimlich* de FREUD - *et c’est pour cela qu’il est en même temps l’Un
 
 <!-- id: s12-03-0159 -->
 
-> dans cette réalité singulière, si singulière que sont les rues… que c’est là-dessus que je m’arrêterai la prochaine fois
->
-> pour en repartir : pourquoi est-il nécessaire de donner aux rues des noms propres ? …vous vous promenez donc dans les rues, et vous allez de rue en rue, de place en place.
+dans cette réalité singulière, si singulière que sont les rues… que c’est là-dessus que je m’arrêterai la prochaine fois
+
+pour en repartir : pourquoi est-il nécessaire de donner aux rues des noms propres ? …vous vous promenez donc dans les rues, et vous allez de rue en rue, de place en place.
 
 <!-- id: s12-03-0160 -->
 
@@ -666,11 +666,11 @@ Cette place, qui n’a pas de nom…
 
 <!-- id: s12-03-0162 -->
 
-> mais qui se distingue par *l’étrangeté* de son décor, par ce que FREUD pointe justement si bien,
->
-> de l’ambiguïté qui fait que *Heimlich* ou *Unheimlich*, voilà un de ces mots où, dans sa propre négation,
->
-> nous touchons du doigt la continuité, l’identité, de son endroit à son envers …cette place qui est à proprement parler « *l’autre scène* » parce que c’est celle où vous voyez la réalité - sans doute vous le savez - naître à cette place comme un décor.
+mais qui se distingue par *l’étrangeté* de son décor, par ce que FREUD pointe justement si bien,
+
+de l’ambiguïté qui fait que *Heimlich* ou *Unheimlich*, voilà un de ces mots où, dans sa propre négation,
+
+nous touchons du doigt la continuité, l’identité, de son endroit à son envers …cette place qui est à proprement parler « *l’autre scène* » parce que c’est celle où vous voyez la réalité - sans doute vous le savez - naître à cette place comme un décor.
 
 <!-- id: s12-03-0163 -->
 

@@ -86,8 +86,8 @@ mais ne croyez pas qu’au moment où...
 
 <!-- id: s10-03-0017 -->
 
-> si ça vous intéresse, relisez ces *Propos sur la causalité psychique*
-> *...*au moment où je les ai tenus ces propos, les oreilles pour l’en­tendre fussent si faciles.
+si ça vous intéresse, relisez ces *Propos sur la causalité psychique*
+*...*au moment où je les ai tenus ces propos, les oreilles pour l’en­tendre fussent si faciles.
 
 <!-- id: s10-03-0018 -->
 
@@ -103,26 +103,26 @@ Et même, puisque on va me chercher sur ce sujet, que je ne trouve pas absolumen
 
 <!-- id: s10-03-0020 -->
 
-> dont un certain nombre d’entre vous étaient déjà assez formés pour se souvenir
-> ...à un moment qui était d’après-guerre, et de je ne sais quel mouvement de renou­veau qu’on pouvait en espérer,
-> et je ne peux pas *ne pas me souvenir* tout d’un coup...
+dont un certain nombre d’entre vous étaient déjà assez formés pour se souvenir
+...à un moment qui était d’après-guerre, et de je ne sais quel mouvement de renou­veau qu’on pouvait en espérer,
+et je ne peux pas *ne pas me souvenir* tout d’un coup...
 
 <!-- id: s10-03-0021 -->
 
-> à ce qu’on me ramène à cette époque
-> ...de ceci : ceux qui n’étaient certainement pas individuellement les moins disposés à entendre *un discours qui était très nouveau* alors,
-> qui étaient des gens situés quelque part, enfin ce qu’on appelle politiquement la gauche, et même l’extrême gauche,
-> enfin les communistes pour les appeler par leur nom, firent preuve tout spécialement à cette occasion de cette sorte de chose,
-> *de réaction*, de mode, de style qu’il me faut bien épingler par un terme qui est d’usage courant...
+à ce qu’on me ramène à cette époque
+...de ceci : ceux qui n’étaient certainement pas individuellement les moins disposés à entendre *un discours qui était très nouveau* alors,
+qui étaient des gens situés quelque part, enfin ce qu’on appelle politiquement la gauche, et même l’extrême gauche,
+enfin les communistes pour les appeler par leur nom, firent preuve tout spécialement à cette occasion de cette sorte de chose,
+*de réaction*, de mode, de style qu’il me faut bien épingler par un terme qui est d’usage courant...
 
 <!-- id: s10-03-0022 -->
 
-> encore qu’il faudrait s’arrêter un instant avant d’en avancer l’emploi, c’est un terme très injuste à l’égard
->
-> de ceux qu’il invoque à l’origine, mais c’est un terme qui a fini par prendre un sens qui est non ambigu,
->
-> nous aurons peut-être dans la suite à y revenir, je l’emploie ici au sens courtois
-> ...c’est le terme de *pharisaïsme*.
+encore qu’il faudrait s’arrêter un instant avant d’en avancer l’emploi, c’est un terme très injuste à l’égard
+
+de ceux qu’il invoque à l’origine, mais c’est un terme qui a fini par prendre un sens qui est non ambigu,
+
+nous aurons peut-être dans la suite à y revenir, je l’emploie ici au sens courtois
+...c’est le terme de *pharisaïsme*.
 
 <!-- id: s10-03-0023 -->
 
@@ -143,9 +143,9 @@ Mais si ceci peut vous faire relire les *Propos sur la causalité psychique,* vo
 
 <!-- id: s10-03-0026 -->
 
-> surtout après ce que je vous aurai dit aujourd’hui
-> ...que d’ores et déjà la trame existait dans laquelle chacune des deux perspectives,
-> que mon interlocuteur distingue, non pas sans raison - s’inscrit.
+surtout après ce que je vous aurai dit aujourd’hui
+...que d’ores et déjà la trame existait dans laquelle chacune des deux perspectives,
+que mon interlocuteur distingue, non pas sans raison - s’inscrit.
 
 <!-- id: s10-03-0027 -->
 
@@ -178,10 +178,10 @@ c’est-à-dire la fonction de dépendance de ce que...
 
 <!-- id: s10-03-0034 -->
 
-> le reprenant de ce rapport de Daniel Lagache, mais aussi d’un discours antérieur
->
-> que j’avais fait ici, dès la deuxième année de mon séminaire
-> ...j’appelais respectivement le « *moi idéal »*, et « l’*idéal du moi »*. Oui...
+le reprenant de ce rapport de Daniel Lagache, mais aussi d’un discours antérieur
+
+que j’avais fait ici, dès la deuxième année de mon séminaire
+...j’appelais respectivement le « *moi idéal »*, et « l’*idéal du moi »*. Oui...
 
 <!-- id: s10-03-0035 -->
 
@@ -198,16 +198,16 @@ se retourne vers celui qui le porte, qui le supporte, qui le soutient, qui est l
 
 <!-- id: s10-03-0037 -->
 
-> se retourne en un mouvement vraiment tellement fréquent, je dirais constant,
->
-> que tout un chacun je pense peut avoir le souvenir de ce mouve­ment
-> ...il se retourne vers celui donc qui le porte, vers l’adulte, vers celui qui, là, représente le grand Autre,
-> comme pour appeler en quelque sorte son assen­timent, vers ce que, à ce moment l’enfant...
+se retourne en un mouvement vraiment tellement fréquent, je dirais constant,
+
+que tout un chacun je pense peut avoir le souvenir de ce mouve­ment
+...il se retourne vers celui donc qui le porte, vers l’adulte, vers celui qui, là, représente le grand Autre,
+comme pour appeler en quelque sorte son assen­timent, vers ce que, à ce moment l’enfant...
 
 <!-- id: s10-03-0038 -->
 
-> dont nous nous efforçons d’assu­mer le contenu de l’expérience, *dont nous reconstruisons dans* *le stade du miroir* quel est le sens de ce moment, en le faisant se reporter à ce mouve­ment de *nutation* de la tête
-> ...qui se retourne et qui revient vers l’image, semble lui demander d’entériner la valeur de cette image.
+dont nous nous efforçons d’assu­mer le contenu de l’expérience, *dont nous reconstruisons dans* *le stade du miroir* quel est le sens de ce moment, en le faisant se reporter à ce mouve­ment de *nutation* de la tête
+...qui se retourne et qui revient vers l’image, semble lui demander d’entériner la valeur de cette image.
 
 <!-- id: s10-03-0039 -->
 
@@ -230,8 +230,8 @@ dont - vous le verrez - le rapport est vraiment...
 
 <!-- id: s10-03-0043 -->
 
-> j’ai fait la référence tout à l’heure à l’actualité
-> ...étroit avec ce que nous avons à dire cette année.
+j’ai fait la référence tout à l’heure à l’actualité
+...étroit avec ce que nous avons à dire cette année.
 
 <!-- id: s10-03-0044 -->
 
@@ -259,8 +259,8 @@ Qu’est-ce que j’ai relevé, extrait, du pas inaugural constitué dans la pen
 
 <!-- id: s10-03-0049 -->
 
-> que je vous rappelle, sur lequel j’ai mis l’accent
-> ...*que Freud introduit d’abord l’inconscient, à propos du rêve, précisément comme un lieu qu’il appelle ein anderer Schauplatz, une autre scène ?*
+que je vous rappelle, sur lequel j’ai mis l’accent
+...*que Freud introduit d’abord l’inconscient, à propos du rêve, précisément comme un lieu qu’il appelle ein anderer Schauplatz, une autre scène ?*
 
 <!-- id: s10-03-0050 -->
 
@@ -277,8 +277,8 @@ Pour vous faire entendre ce que je vais vous dire, disons, disons sans plus...
 
 <!-- id: s10-03-0053 -->
 
-> il faudra bien y revenir - car nous ne savons pas encore ce que ça veut dire le « *premier temps* »
-> ...le « *premier temps* » c’est : il y a le monde.
+il faudra bien y revenir - car nous ne savons pas encore ce que ça veut dire le « *premier temps* »
+...le « *premier temps* » c’est : il y a le monde.
 
 <!-- id: s10-03-0054 -->
 
@@ -290,9 +290,9 @@ dans toute la mesure où « *à la limite »*, dans ce discours, le jeu même 
 
 <!-- id: s10-03-0055 -->
 
-> tellement puissamment articulée par le discours de Claude Lévi-Strauss
-> ...ne ferait que rejoindre par exemple la structure elle-même du cerveau, voire la structure de la matière,
-> n’en représenter, selon la forme dite matéria­lisme au XVIII<sup>ème</sup> siècle, que le *doublet*, même pas la doublure.
+tellement puissamment articulée par le discours de Claude Lévi-Strauss
+...ne ferait que rejoindre par exemple la structure elle-même du cerveau, voire la structure de la matière,
+n’en représenter, selon la forme dite matéria­lisme au XVIII<sup>ème</sup> siècle, que le *doublet*, même pas la doublure.
 
 <!-- id: s10-03-0056 -->
 
@@ -306,9 +306,9 @@ est bien là *pour imager à nos yeux la distinction radicale de ce lieu où les
 
 <!-- id: s10-03-0058 -->
 
-> fût-ce les choses du monde, où toutes les choses du monde
-> *viennent à se dire, à se mettre en scène* *selon <u>les lois du signifiant</u>,*
-> *dont nous ne saurions d’aucune façon les tenir d’emblée pour homogènes <u>aux lois du monde</u>*.
+fût-ce les choses du monde, où toutes les choses du monde
+*viennent à se dire, à se mettre en scène* *selon <u>les lois du signifiant</u>,*
+*dont nous ne saurions d’aucune façon les tenir d’emblée pour homogènes <u>aux lois du monde</u>*.
 
 <!-- id: s10-03-0059 -->
 
@@ -365,8 +365,8 @@ et qu’à partir de là, la question peut être posée de savoir ce que doit «
 
 <!-- id: s10-03-0069 -->
 
-> ce que nous avons appelé au départ tout à fait innocemment « *le monde* »
-> ...ce que *le monde* doit à *ce qui lui est redescendu* de cette « *scène* ».
+ce que nous avons appelé au départ tout à fait innocemment « *le monde* »
+...ce que *le monde* doit à *ce qui lui est redescendu* de cette « *scène* ».
 
 <!-- id: s10-03-0070 -->
 
@@ -374,11 +374,11 @@ Est-ce que tout ce que nous avons appelé « *le monde* » au cours de l’his
 
 <!-- id: s10-03-0071 -->
 
-> sans d’ailleurs le moindre souci des contradictions
-> ...ce que la culture nous véhicule comme étant le monde, est un empilement, *un magasin d’épaves*, de mondes qui se sont succédés et qui pour être incom­patibles n’en font pas moins excessivement bon ménage à l’intérieur de tout un chacun :
-> structure dont le champ particulier de notre expérience nous permet de mesurer la prégnance,
-> la profondeur spécialement dans celle du *névro­sé obsessionnel,* dont Freud lui-même a dès longtemps remarqué
-> combien ces « *modes cosmiques »* \[du « *monde* »\] pouvaient coexister de la façon qui fait apparem­ment pour lui le moins d’objections, tout en manifestant la plus parfaite hétérogénéité dès le premier abord, le premier examen.
+sans d’ailleurs le moindre souci des contradictions
+...ce que la culture nous véhicule comme étant le monde, est un empilement, *un magasin d’épaves*, de mondes qui se sont succédés et qui pour être incom­patibles n’en font pas moins excessivement bon ménage à l’intérieur de tout un chacun :
+structure dont le champ particulier de notre expérience nous permet de mesurer la prégnance,
+la profondeur spécialement dans celle du *névro­sé obsessionnel,* dont Freud lui-même a dès longtemps remarqué
+combien ces « *modes cosmiques »* \[du « *monde* »\] pouvaient coexister de la façon qui fait apparem­ment pour lui le moins d’objections, tout en manifestant la plus parfaite hétérogénéité dès le premier abord, le premier examen.
 
 <!-- id: s10-03-0072 -->
 
@@ -414,9 +414,9 @@ Qu’est-ce qu’Hamlet...
 
 <!-- id: s10-03-0078 -->
 
-> Hamlet de Shakespeare, Hamlet le personnage de *la scène*
-> *...*qu’est-ce qu’Hamlet fait venir sur la scène avec les comédiens ?
-> Sans doute le « *mouse-trap »*, *la souricière*, avec laquelle, nous dit-il, il va saisir, attraper, la conscience du roi.
+Hamlet de Shakespeare, Hamlet le personnage de *la scène*
+*...*qu’est-ce qu’Hamlet fait venir sur la scène avec les comédiens ?
+Sans doute le « *mouse-trap »*, *la souricière*, avec laquelle, nous dit-il, il va saisir, attraper, la conscience du roi.
 
 <!-- id: s10-03-0079 -->
 
@@ -424,7 +424,7 @@ Mais outre, qu’il s’y passe des choses bien étranges et en particulier ceci
 
 <!-- id: s10-03-0080 -->
 
-> au temps où je vous ai déjà si longuement parlé d’[Hamlet](http://www.ebooksgratuits.com/pdf/shakespeare_hamlet.pdf)[^26]
+au temps où je vous ai déjà si longuement parlé d’[Hamlet](http://www.ebooksgratuits.com/pdf/shakespeare_hamlet.pdf)[^26]
 
 <!-- id: s10-03-0081 -->
 
@@ -432,10 +432,10 @@ Mais outre, qu’il s’y passe des choses bien étranges et en particulier ceci
 
 <!-- id: s10-03-0082 -->
 
-> vous savez qu’elle existe, qu’elle existe au point où il y a de quoi couvrir ces murs
-> ...plus *hamlétique* que psychanalytique, et qu’il s’y passe des choses bien étranges, y compris ceci :
-> c’est que, *quand la scène est mimée en manière de prologue*, avant que les acteurs ne commencent leur discours,
-> eh bien, *ça ne semble pas beaucoup agiter le roi*, alors que pourtant les gestes présumés de son crime sont là devant lui, pantomimées.
+vous savez qu’elle existe, qu’elle existe au point où il y a de quoi couvrir ces murs
+...plus *hamlétique* que psychanalytique, et qu’il s’y passe des choses bien étranges, y compris ceci :
+c’est que, *quand la scène est mimée en manière de prologue*, avant que les acteurs ne commencent leur discours,
+eh bien, *ça ne semble pas beaucoup agiter le roi*, alors que pourtant les gestes présumés de son crime sont là devant lui, pantomimées.
 
 <!-- id: s10-03-0083 -->
 
@@ -468,11 +468,11 @@ Ce personnage dont...
 
 <!-- id: s10-03-0089 -->
 
-> pour les raisons que j’ai essayé d’articuler pour vous
-> ...le désir ne peut s’animer pour accomplir *la volonté du* *ghost,* du fantôme de son père,
-> ce personnage tente de donner corps à quelque chose, et ce à quoi il s’agit de donner corps passe par son image,
-> véritablement là, spéculaire, son image non pas dans la situation, dans le mode d’accomplir sa *vengeance*,
-> mais d’assu­mer d’abord le crime qu’il s’agira de venger.
+pour les raisons que j’ai essayé d’articuler pour vous
+...le désir ne peut s’animer pour accomplir *la volonté du* *ghost,* du fantôme de son père,
+ce personnage tente de donner corps à quelque chose, et ce à quoi il s’agit de donner corps passe par son image,
+véritablement là, spéculaire, son image non pas dans la situation, dans le mode d’accomplir sa *vengeance*,
+mais d’assu­mer d’abord le crime qu’il s’agira de venger.
 
 <!-- id: s10-03-0090 -->
 
@@ -481,17 +481,17 @@ Qu’il a beau être saisi...
 
 <!-- id: s10-03-0091 -->
 
-> après cette sorte d’effet de lanterne magique, de ce qu’on peut vraiment dans ses propos,
->
-> dans son style, dans la façon toute ordinaire d’ailleurs dont les acteurs ani­ment ce moment
-> ...par une véritable *petite crise d’agitation maniaque*, quand il se trouve, l’instant d’après, avoir son ennemi à sa portée,
-> il ne sait qu’ar­ticuler ce que *pour tout auditeur* et *depuis toujours* enfin, ce qui n’a pu être senti que comme une dérobade,
-> une dérobade derrière un prétexte, c’est qu’assurément il saisit son ennemi à un moment trop saint...
+après cette sorte d’effet de lanterne magique, de ce qu’on peut vraiment dans ses propos,
+
+dans son style, dans la façon toute ordinaire d’ailleurs dont les acteurs ani­ment ce moment
+...par une véritable *petite crise d’agitation maniaque*, quand il se trouve, l’instant d’après, avoir son ennemi à sa portée,
+il ne sait qu’ar­ticuler ce que *pour tout auditeur* et *depuis toujours* enfin, ce qui n’a pu être senti que comme une dérobade,
+une dérobade derrière un prétexte, c’est qu’assurément il saisit son ennemi à un moment trop saint...
 
 <!-- id: s10-03-0092 -->
 
-> le roi est en train de prier
-> ...pour qu’il puisse se résoudre, en le frappant à ce moment, à le faire accéder directement au ciel.
+le roi est en train de prier
+...pour qu’il puisse se résoudre, en le frappant à ce moment, à le faire accéder directement au ciel.
 
 <!-- id: s10-03-0093 -->
 
@@ -502,20 +502,20 @@ c’est dans la mesure où se produit une identification d’une nature tout à 
 
 <!-- id: s10-03-0094 -->
 
-> que j’ai appelée « *identifica­tion avec Ophélie* »
-> ...c’est dans la mesure où l’âme furieuse que nous pouvons inférer légitimement être celle de la victime, de la suicidée, manifestement offerte en sacrifice aux mânes paternelles...
+que j’ai appelée « *identifica­tion avec Ophélie* »
+...c’est dans la mesure où l’âme furieuse que nous pouvons inférer légitimement être celle de la victime, de la suicidée, manifestement offerte en sacrifice aux mânes paternelles...
 
 <!-- id: s10-03-0095 -->
 
-> car c’est à la suite du meurtre de son père à elle qu’elle fléchit, qu’elle succombe,
->
-> mais cela nous montre les croyances de toujours concernant les suites de certains modes de trépas,
->
-> du fait même que les cérémonies funéraires, dans son cas, ne peuvent pas être plei­nement remplies,
->
-> que rien n’est apaisé de la vengeance qu’elle crie, elle
-> ...c’est au moment de la révélation de ce qu’a été pour lui cet objet négligé, mécon­nu,
-> que nous voyons là jouer dans Shakespeare, à nu :
+car c’est à la suite du meurtre de son père à elle qu’elle fléchit, qu’elle succombe,
+
+mais cela nous montre les croyances de toujours concernant les suites de certains modes de trépas,
+
+du fait même que les cérémonies funéraires, dans son cas, ne peuvent pas être plei­nement remplies,
+
+que rien n’est apaisé de la vengeance qu’elle crie, elle
+...c’est au moment de la révélation de ce qu’a été pour lui cet objet négligé, mécon­nu,
+que nous voyons là jouer dans Shakespeare, à nu :
 
 <!-- id: s10-03-0096 -->
 
@@ -565,8 +565,8 @@ et sans qu’il fasse en somme rien qu’exactement ce qu’il ne faut pas faire
 
 <!-- id: s10-03-0106 -->
 
-> à la seule condition qu’il soit lui-même blessé à mort auparavant
-> ...à tuer le roi.
+à la seule condition qu’il soit lui-même blessé à mort auparavant
+...à tuer le roi.
 
 <!-- id: s10-03-0107 -->
 
@@ -588,15 +588,15 @@ qu’il est réintégré sur la scène *par la voie de l’identification*, just
 
 <!-- id: s10-03-0111 -->
 
-> sous la forme ambiguë où il est employé en français, qui est celle qui donne sa force
->
-> à la façon dont je répète devant vous le « *il ne savait pas* », ce qui veut dire : « *au dernier moment n’a-t-il pas su ?*
->
-> *Un peu plus il allait savoir* », cet *objet du désir* dont ce n’est pas pour rien que *désir* en latin se dit *desiderium,*
->
-> à savoir cette reconnaissance rétroactive
-> ...cet « *objet qui était là* », c’est par cette voie que passe le retour d’Hamlet
-> dans ce qui est la pointe de *sa destinée*, de sa « *fonction Hamlet* », si je puis m’exprimer ainsi, de son achè­vement *hamlétique*.
+sous la forme ambiguë où il est employé en français, qui est celle qui donne sa force
+
+à la façon dont je répète devant vous le « *il ne savait pas* », ce qui veut dire : « *au dernier moment n’a-t-il pas su ?*
+
+*Un peu plus il allait savoir* », cet *objet du désir* dont ce n’est pas pour rien que *désir* en latin se dit *desiderium,*
+
+à savoir cette reconnaissance rétroactive
+...cet « *objet qui était là* », c’est par cette voie que passe le retour d’Hamlet
+dans ce qui est la pointe de *sa destinée*, de sa « *fonction Hamlet* », si je puis m’exprimer ainsi, de son achè­vement *hamlétique*.
 
 <!-- id: s10-03-0112 -->
 
@@ -611,12 +611,12 @@ Tout ce que dit Claude Lévi-Strauss de la fonction de *la magie*, de la fonctio
 
 <!-- id: s10-03-0114 -->
 
-> statut qui, j’en conviens, n’est pas encore établi, puisque c’est notre objet de cette année,
->
-> par la voie de l’abord de l’angoisse, de faire avancer
-> ...et qu’il convient tout de même de ne pas confondre cet *objet du désir* avec *l’objet* défini par l’épistémolo­gie,
-> comme avènement d’un certain *objet* scientifiquement défini, comme *avènement de l’objet* qui est l’objet de notre science,
-> très spécifique­ment défini par une certaine découverte de *l’efficacité de l’opération signi­fiante* comme telle.
+statut qui, j’en conviens, n’est pas encore établi, puisque c’est notre objet de cette année,
+
+par la voie de l’abord de l’angoisse, de faire avancer
+...et qu’il convient tout de même de ne pas confondre cet *objet du désir* avec *l’objet* défini par l’épistémolo­gie,
+comme avènement d’un certain *objet* scientifiquement défini, comme *avènement de l’objet* qui est l’objet de notre science,
+très spécifique­ment défini par une certaine découverte de *l’efficacité de l’opération signi­fiante* comme telle.
 
 <!-- id: s10-03-0115 -->
 
@@ -624,9 +624,9 @@ Le propre de notre science...
 
 <!-- id: s10-03-0116 -->
 
-> je dis de la science qui exis­te depuis deux siècles parmi nous
-> ...laisse ouverte la question de ce que j’ai appe­lée tout à l’heure « *le cosmisme de l’objet* » : il n’est pas sûr qu’il y ait un cosmos,
-> et notre science avance dans la mesu­re où elle a renoncé à préserver toute présupposition cosmique et cosmici­sante.
+je dis de la science qui exis­te depuis deux siècles parmi nous
+...laisse ouverte la question de ce que j’ai appe­lée tout à l’heure « *le cosmisme de l’objet* » : il n’est pas sûr qu’il y ait un cosmos,
+et notre science avance dans la mesu­re où elle a renoncé à préserver toute présupposition cosmique et cosmici­sante.
 
 <!-- id: s10-03-0117 -->
 
@@ -686,14 +686,14 @@ Dans cet article...
 
 <!-- id: s10-03-0130 -->
 
-> auquel je vous demande de vous référer, parce que je ne vais pas entièrement ici le refaire
-> ...ce que *l’ap­pareil...*
+auquel je vous demande de vous référer, parce que je ne vais pas entièrement ici le refaire
+...ce que *l’ap­pareil...*
 
 <!-- id: s10-03-0131 -->
 
-> la petite image, que j’ai fomentée pour faire comprendre ce dont il s’agit
-> ...ce à quoi cet appareil est destiné c’est à nous rappeler ceci, qu’à la fin de mon séminaire sur « Le désir... », j’ai accentué,
-> c’est que la fonction de *l’investissement spéculaire* *se conçoit située à l’intérieur de la dialectique du* *narcissisme* telle que Freud l’a introduite.
+la petite image, que j’ai fomentée pour faire comprendre ce dont il s’agit
+...ce à quoi cet appareil est destiné c’est à nous rappeler ceci, qu’à la fin de mon séminaire sur « Le désir... », j’ai accentué,
+c’est que la fonction de *l’investissement spéculaire* *se conçoit située à l’intérieur de la dialectique du* *narcissisme* telle que Freud l’a introduite.
 
 <!-- id: s10-03-0132 -->
 
@@ -813,8 +813,8 @@ L’identification primaire à ce point de départ que constitue le fait de pouv
 
 <!-- id: s10-03-0156 -->
 
-> le sché­ma de l’article en question le dessine
-> ...à partir de là que s’institue la pos­sibilité de la reconnaissance comme telle de l’*unité* appelée *i(a).*
+le sché­ma de l’article en question le dessine
+...à partir de là que s’institue la pos­sibilité de la reconnaissance comme telle de l’*unité* appelée *i(a).*
 
 <!-- id: s10-03-0157 -->
 
@@ -823,10 +823,10 @@ et comme telle, au niveau ici *i’(a).* Rappelez-vous mon schéma...
 
 <!-- id: s10-03-0158 -->
 
-> je ne peux pas là-dessus vous redonner les termes de la petite expérience de physique amusante
->
-> qui m’a servi à pouvoir vous l’imager
-> ...*i’(a)* y est *l’image virtuelle* d’une *image réel­le* \[*i(a)*\]. Au niveau de cette *image virtuelle* \[*i’(a)*\], il n’apparaît ici \[*dans le col du vase*\] *rien*.
+je ne peux pas là-dessus vous redonner les termes de la petite expérience de physique amusante
+
+qui m’a servi à pouvoir vous l’imager
+...*i’(a)* y est *l’image virtuelle* d’une *image réel­le* \[*i(a)*\]. Au niveau de cette *image virtuelle* \[*i’(a)*\], il n’apparaît ici \[*dans le col du vase*\] *rien*.
 
 <!-- id: s10-03-0159 -->
 
@@ -899,8 +899,8 @@ Cette présence donc *ailleurs*, *en deça*...
 
 <!-- id: s10-03-0174 -->
 
-> et comme vous le voyez ici, trop près de lui pour être vue si l’on peut dire
-> ...du *(a)*, c’est ceci l’*initium* du désir, et c’est de là que l’image *i’(a)* prend son *prestige*.
+et comme vous le voyez ici, trop près de lui pour être vue si l’on peut dire
+...du *(a)*, c’est ceci l’*initium* du désir, et c’est de là que l’image *i’(a)* prend son *prestige*.
 
 <!-- id: s10-03-0175 -->
 
@@ -914,14 +914,14 @@ Plus il va, plus il veut, dans l’objet de son désir, préserver, maintenir*..
 
 <!-- id: s10-03-0177 -->
 
-> écoutez bien ce que je vous dis
-> ...protéger le côté *intact* de ce vase primordial qu’est l’image spéculaire,
-> *plus il s’enga­ge dans cette voie*...
+écoutez bien ce que je vous dis
+...protéger le côté *intact* de ce vase primordial qu’est l’image spéculaire,
+*plus il s’enga­ge dans cette voie*...
 
 <!-- id: s10-03-0178 -->
 
-> qu’on appelle souvent improprement « la voie de la perfec­tion de la relation d’objet »
-> ...*plus il est leurré*.
+qu’on appelle souvent improprement « la voie de la perfec­tion de la relation d’objet »
+...*plus il est leurré*.
 
 <!-- id: s10-03-0179 -->
 
@@ -929,9 +929,9 @@ Ce qui constitue l’angoisse, c’est quand quelque chose, un mécanisme, fait 
 
 <!-- id: s10-03-0180 -->
 
-> que j’ap­pellerai, pour me faire entendre, simplement « *naturelle »*
-> *...*à la place qui *corres­pond* à celle qu’occupe le *(a)* de l’objet du désir, *quelque chose*,
-> et quand je dis « *quelque chose* », entendez n’importe quoi !
+que j’ap­pellerai, pour me faire entendre, simplement « *naturelle »*
+*...*à la place qui *corres­pond* à celle qu’occupe le *(a)* de l’objet du désir, *quelque chose*,
+et quand je dis « *quelque chose* », entendez n’importe quoi !
 
 <!-- id: s10-03-0181 -->
 
@@ -946,8 +946,8 @@ De même que j’ai abordé l’inconscient par *Le mot d’esprit*, j’aborder
 
 <!-- id: s10-03-0183 -->
 
-> c’est pourquoi je vous l’ai écrit dès aujourd’hui
-> ...c’est le (- φ), le *quelque chose* qui nous rappelle :
+c’est pourquoi je vous l’ai écrit dès aujourd’hui
+...c’est le (- φ), le *quelque chose* qui nous rappelle :
 
 <!-- id: s10-03-0184 -->
 
@@ -973,15 +973,15 @@ Mais si tout d’un coup vient à manquer toute norme...
 
 <!-- id: s10-03-0189 -->
 
-> c’est-à-dire ce qui fait l’anomalie, c’est-à-dire ce qui fait le manque,
->
-> car la norme est corrélative de l’idée de manque
-> ...si tout d’un coup ça ne manque pas...
+c’est-à-dire ce qui fait l’anomalie, c’est-à-dire ce qui fait le manque,
+
+car la norme est corrélative de l’idée de manque
+...si tout d’un coup ça ne manque pas...
 
 <!-- id: s10-03-0190 -->
 
-> et croyez-moi : essayez d’ap­pliquer ça à bien des choses
-> ...c’est à ce moment-là que commence *l’angois­se*.
+et croyez-moi : essayez d’ap­pliquer ça à bien des choses
+...c’est à ce moment-là que commence *l’angois­se*.
 
 <!-- id: s10-03-0191 -->
 

@@ -129,12 +129,7 @@ class KnowledgeCard:
     output_relative_path: Path
     title: str
     segment_ids: list[str]
-    verification: str = ""
-    verified_at: str = ""
     tags: tuple[str, ...] = ()
-    body: str = ""
-    card_links: tuple[dict[str, str], ...] = ()
-    segment_links: tuple[dict[str, str], ...] = ()
 
 
 @dataclass
@@ -944,63 +939,17 @@ def frontmatter_list(raw_frontmatter: str, key: str) -> list[str]:
     return values
 
 
-def html_output_path(markdown_path: Path) -> str:
-    return markdown_path.with_suffix(".html").as_posix()
-
-
-def knowledge_links(body: str, source_path: Path) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
-    association = markdown_section(body, "关联")
-    card_links: list[dict[str, str]] = []
-    segment_links: list[dict[str, str]] = []
-
-    for match in OBSIDIAN_WIKI_LINK_RE.finditer(association):
-        target, label = split_obsidian_wiki_link(match.group(1))
-        target_path, fragment = split_link_fragment(target.strip().replace("\\", "/"))
-        output_path = resolve_wiki_target_output_path(target_path, source_path)
-        if output_path is None:
-            continue
-
-        if output_path.parts and output_path.parts[0] == KNOWLEDGE_DIR_NAME:
-            canonical_path = output_path.as_posix()
-            card_links.append(
-                {
-                    "path": canonical_path,
-                    "title": label or output_path.stem,
-                    "href": html_output_path(output_path),
-                }
-            )
-            continue
-
-        if fragment and SEGMENT_ID_TOKEN_RE.fullmatch(fragment.lower()):
-            canonical_path = target_path.strip("/")
-            segment_links.append(
-                {
-                    "id": fragment.lower(),
-                    "path": canonical_path,
-                    "href": f"{html_output_path(output_path)}#{fragment.lower()}",
-                }
-            )
-
-    return card_links, segment_links
-
-
 def parse_knowledge_card(card_path: Path) -> KnowledgeCard:
     raw_text = read_text(card_path)
-    metadata, raw_frontmatter, body = split_frontmatter(raw_text)
+    _, raw_frontmatter, body = split_frontmatter(raw_text)
     title = frontmatter_title(raw_frontmatter) or card_path.stem
-    card_links, segment_links = knowledge_links(body, card_path)
     return KnowledgeCard(
         source_path=card_path,
         output_relative_path=Path(KNOWLEDGE_DIR_NAME)
         / card_path.relative_to(KNOWLEDGE_DIR),
         title=title,
         segment_ids=knowledge_segment_ids(body),
-        verification=metadata.get("verification", ""),
-        verified_at=metadata.get("verified_at", ""),
         tags=tuple(frontmatter_list(raw_frontmatter, "tags")),
-        body=body.strip(),
-        card_links=tuple(card_links),
-        segment_links=tuple(segment_links),
     )
 
 
@@ -1103,34 +1052,6 @@ def build_knowledge_base(cards: list[KnowledgeCard] | None = None) -> None:
             BUILD_DIR / card.output_relative_path,
             render_knowledge_page(card.source_path, card.title),
         )
-
-
-def build_ai_knowledge_index(cards: list[KnowledgeCard] | None = None) -> Path:
-    cards = cards if cards is not None else parse_knowledge_cards()
-    output_path = BUILD_DIR / "ai" / "knowledge-index.json"
-    payload = {
-        "version": 1,
-        "card_count": len(cards),
-        "cards": [
-            {
-                "path": card.output_relative_path.as_posix(),
-                "title": card.title,
-                "verification": card.verification,
-                "verified_at": card.verified_at,
-                "tags": list(card.tags),
-                "href": html_output_path(card.output_relative_path),
-                "body": card.body,
-                "card_links": list(card.card_links),
-                "segment_links": list(card.segment_links),
-            }
-            for card in cards
-        ],
-    }
-    write_text(
-        output_path,
-        json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n",
-    )
-    return output_path
 
 
 def navigation_html_href(markdown_href: str) -> str:
@@ -1299,8 +1220,10 @@ def note_like_quote(lines: list[str]) -> bool:
     if not visible_lines:
         return False
 
-    first = visible_lines[0].lstrip("【[（(").strip()
-    return first.startswith("注")
+    # Source anchors may precede the first visible note label.
+    visible = re.sub(r'<span\b[^>]*>\s*</span>', "", "\n".join(visible_lines)).strip()
+    first = visible.lstrip("【[（(〔［").strip()
+    return first.startswith(("注", "译注", "原文注", "出版说明"))
 
 
 def split_translation_chunks(content: str) -> list[tuple[str, list[str]]]:
@@ -1969,7 +1892,6 @@ def main() -> None:
     knowledge_cards = parse_knowledge_cards()
     knowledge_by_segment = knowledge_cards_by_segment(knowledge_cards)
     build_knowledge_base(knowledge_cards)
-    build_ai_knowledge_index(knowledge_cards)
     stats = combine_stats(
         build_seminar(slug, knowledge_by_segment)
         for slug in seminars

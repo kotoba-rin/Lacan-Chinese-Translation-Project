@@ -14,7 +14,7 @@ C’est pourtant le seul *signe*...
 
 <!-- id: s17-13-0003 -->
 
-> je vous ai parlé de ça depuis un moment : *comment un signifiant devient un signe* ...le seul *signe* dont on puisse assurer la généalogie, soit : qu’il descende d’un signifiant.
+je vous ai parlé de ça depuis un moment : *comment un signifiant devient un signe* ...le seul *signe* dont on puisse assurer la généalogie, soit : qu’il descende d’un signifiant.
 
 <!-- id: s17-13-0004 -->
 
@@ -30,11 +30,11 @@ Ici la dégénérescence du signifiant est sûre, sûre d’être produite par u
 
 <!-- id: s17-13-0007 -->
 
-> et qui pourrait-il concerner d’autre cet *être pour la mort* ? ...soit la carte de visite par quoi «* un signifiant représente un sujet pour un autre signifiant *»...
+et qui pourrait-il concerner d’autre cet *être pour la mort* ? ...soit la carte de visite par quoi «* un signifiant représente un sujet pour un autre signifiant *»...
 
 <!-- id: s17-13-0008 -->
 
-> vous commencez à savoir ça par cœur, j’espère ...cette carte de visite n’arrive jamais à bon port, pour la raison que, pour porter l’adresse de la mort, il faut qu’elle soit déchirée cette carte.
+vous commencez à savoir ça par cœur, j’espère ...cette carte de visite n’arrive jamais à bon port, pour la raison que, pour porter l’adresse de la mort, il faut qu’elle soit déchirée cette carte.
 
 <!-- id: s17-13-0009 -->
 
@@ -210,7 +210,7 @@ Plus vous serez ignoble...
 
 <!-- id: s17-13-0052 -->
 
-> je ne dis pas obscène bien sûr, il n’en est plus question depuis longtemps ...plus vous serez ignoble, mieux ça ira.
+je ne dis pas obscène bien sûr, il n’en est plus question depuis longtemps ...plus vous serez ignoble, mieux ça ira.
 
 <!-- id: s17-13-0053 -->
 
@@ -262,9 +262,9 @@ Dans ce « *Criticon »...*
 
 <!-- id: s17-13-0065 -->
 
-> qui est une sorte d’apologue où se trouve déjà incluse par exemple l’intrigue de « *Robinson Crusoé »*,
->
-> la plupart des chefs d’œuvre c’est des miettes d’autres chefs-d’œuvre inconnus, ...dans ce *Criticon*, à la 3<sup>ème</sup> partie sur le penchant de la vieillesse... puisqu’il prend ce graphe des âges ...au 2<sup>ème</sup> chapitre il y a quelque chose qui s’apelle *« La vérité en couches ».*
+qui est une sorte d’apologue où se trouve déjà incluse par exemple l’intrigue de « *Robinson Crusoé »*,
+
+la plupart des chefs d’œuvre c’est des miettes d’autres chefs-d’œuvre inconnus, ...dans ce *Criticon*, à la 3<sup>ème</sup> partie sur le penchant de la vieillesse... puisqu’il prend ce graphe des âges ...au 2<sup>ème</sup> chapitre il y a quelque chose qui s’apelle *« La vérité en couches ».*
 
 <!-- id: s17-13-0066 -->
 
@@ -348,13 +348,17 @@ Je lui dis : « *Pour m’exprimer comme il me vient, rien n’est incompatibl
 
 <!-- id: s17-13-0086 -->
 
-> *« On n’épouse pas la vérité, avec elle, pas de contrat, et d’union libre encore moins.*
->
-> *Elle ne supporte rien de tout ça.*
->
-> *La vérité est séduction d’abord, et pour vous couillonner.*
->
-> *Pour ne pas s’y laisser prendre, il faut être fort, ce n’est pas votre cas. »*
+<div class="text-quotation">
+
+*« On n’épouse pas la vérité, avec elle, pas de contrat, et d’union libre encore moins.*
+
+*Elle ne supporte rien de tout ça.*
+
+*La vérité est séduction d’abord, et pour vous couillonner.*
+
+*Pour ne pas s’y laisser prendre, il faut être fort, ce n’est pas votre cas. »*
+
+</div>
 
 <!-- id: s17-13-0087 -->
 
@@ -870,7 +874,7 @@ Il y a une espèce de démarche préliminaire qui est au seuil : on aura le droi
 
 <!-- id: s17-13-0213 -->
 
-> c’est ce qui fait le poids de votre nom ...néanmoins que ce qu’il y a dans la thèse, vous n’êtes nullement lié pour la suite.
+c’est ce qui fait le poids de votre nom ...néanmoins que ce qu’il y a dans la thèse, vous n’êtes nullement lié pour la suite.
 
 <!-- id: s17-13-0214 -->
 
@@ -950,9 +954,9 @@ J’ai été rechercher, comme ça, dans ma bibliothèque...
 
 <!-- id: s17-13-0233 -->
 
-> c’est inouï d’ailleurs parce que je ne vois pas pourquoi j’aurais été le rechercher,
->
-> je n’avais aucun besoin de le faire, mais enfin c’est quand même pour bien me réassurer des dates ...un type comme Diderot quand même sortait « *Le* *Neveu de Rameau »*, le laissait tomber de sa poche.
+c’est inouï d’ailleurs parce que je ne vois pas pourquoi j’aurais été le rechercher,
+
+je n’avais aucun besoin de le faire, mais enfin c’est quand même pour bien me réassurer des dates ...un type comme Diderot quand même sortait « *Le* *Neveu de Rameau »*, le laissait tomber de sa poche.
 
 <!-- id: s17-13-0234 -->
 
@@ -1048,9 +1052,9 @@ J’espère...
 
 <!-- id: s17-13-0257 -->
 
-> enfin si ce que j’amène n’est pas incompréhensible, à la vérité,
->
-> vu ce qu’il en est de ce que j’avance devant la plupart d’entre vous ..c’est que « *pas trop, mais juste assez* », il m’arrive de vous faire honte.
+enfin si ce que j’amène n’est pas incompréhensible, à la vérité,
+
+vu ce qu’il en est de ce que j’avance devant la plupart d’entre vous ..c’est que « *pas trop, mais juste assez* », il m’arrive de vous faire honte.
 
 <!-- id: s17-13-0258 -->
 

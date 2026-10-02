@@ -42,9 +42,9 @@ J’ai fait cette comparaison de l’exercice d’une censure sur un journal, no
 
 <!-- id: s3-05-0010 -->
 
-> la parole liée au monde propre de ses relations infantiles, comme FREUD l’a souligné,
->
-> et qui de ce fait ne peuvent passer dans le discours commun
+la parole liée au monde propre de ses relations infantiles, comme FREUD l’a souligné,
+
+et qui de ce fait ne peuvent passer dans le discours commun
 
 <!-- id: s3-05-0011 -->
 
@@ -96,9 +96,9 @@ Il y est tenu pour acquis que c’est en quelque sorte dans la lutte contre la m
 
 <!-- id: s3-05-0023 -->
 
-> provoquée par les investissements érotiques et homosexuels, qui se seraient manifestés entre SCHREBER et le personnage qui a formé *le prototype* et en même temps *le noyau*, de son système persécutif,
->
-> à savoir le Professeur FLECHSIG
+provoquée par les investissements érotiques et homosexuels, qui se seraient manifestés entre SCHREBER et le personnage qui a formé *le prototype* et en même temps *le noyau*, de son système persécutif,
+
+à savoir le Professeur FLECHSIG
 
 <!-- id: s3-05-0024 -->
 
@@ -110,13 +110,17 @@ Est-ce que chacun ne sent pas que le mécanisme de lutte de cette espèce, si el
 
 <!-- id: s3-05-0026 -->
 
-> « *Ce serait une belle chose*…
->
-> dit-il, pensée qui le surprend, dont il souligne le caractère d’indignation
->
-> en même temps, avec lequel cette pensée est accueillie.
->
-> …« *Ce serait une belle chose que d’être une femme subissant l’accouplement* », « *Il devrait être vraiment beau d’être une femme qui subirait l’accouplement* ».
+<div class="text-quotation">
+
+« *Ce serait une belle chose*…
+
+dit-il, pensée qui le surprend, dont il souligne le caractère d’indignation
+
+en même temps, avec lequel cette pensée est accueillie.
+
+…« *Ce serait une belle chose que d’être une femme subissant l’accouplement* », « *Il devrait être vraiment beau d’être une femme qui subirait l’accouplement* ».
+
+</div>
 
 <!-- id: s3-05-0027 -->
 
@@ -132,9 +136,13 @@ Dans la *Traumdeutung*, dans un passage que je vous lirai et qui est situé au n
 
 <!-- id: s3-05-0030 -->
 
-> « *Le mécanisme de formation devient bien plus transparent lorsqu’on substitue*
->
-> *à l’opposition du conscient et de l’inconscient, celle du moi et du refoulé.* »
+<div class="text-quotation">
+
+« *Le mécanisme de formation devient bien plus transparent lorsqu’on substitue*
+
+*à l’opposition du conscient et de l’inconscient, celle du moi et du refoulé.* »
+
+</div>
 
 <!-- id: s3-05-0031 -->
 
@@ -142,21 +150,25 @@ C’est écrit au moment de la *Traumdeutung*, au moment où la notion du *moi* 
 
 <!-- id: s3-05-0032 -->
 
-> « *Notons ici seulement que les rêves de châtiment ne sont pas nécessairement liés à la persistance de restes pénibles de la veille. Ils naissent, au contraire, le plus souvent semble-t-il, lorsque ces restes du jour sont de nature apaisante, mais expriment des satisfactions interdites. Toutes ces pensées interdites sont remplacées dans le contenu manifeste du rêve par leur contraire* \[...\]
->
-> *Le caractère essentiel des rêves de châtiment me parait donc être le suivant : ce qui les produit ce n’est pas un désir inconscient venu du refoulé* \[...\]*, mais un désir de sens contraire, réagissant contre celui-ci, désir de châtiment qui, bien qu’inconscient*
->
-> *(plus exactement préconscient)* - *appartient au moi.* » \[PUF 1950 p. 458, PUF 1967 p. 475, PUF 2004 p. 612\]
->
-> \[*Ich bemerke nur, daß die Strafträume nicht allgemein an die Bedingung peinlicher Tagesreste geknüpft sind. Sie entstehen vielmehr*
->
-> *am leichtesten unter der gegensätzlichen Voraussetzung, daß die Tagesreste Gedanken befriedigender Natur sind, die aber unerlaubte Befriedigungen ausdrücken. Von diesen Gedanken gelangt dann nichts in den manifesten Traum als ihr direkter Gegensatz,*
->
-> *ähnlich wie es in den Träumen der Gruppe a der Fall war. Der wesentliche Charakter der Strafträume bliebe also, daß bei ihnen nicht*
->
-> *der unbewußte Wunsch aus dem Verdrängten (dem System Ubw) zum Traumbildner wird, sondern der gegen ihn reagierende,*
->
-> *dem Ich angehörige, wenn auch unbewußte (d. h. vorbewußte) Strafwünsch.*\]
+<div class="text-quotation">
+
+« *Notons ici seulement que les rêves de châtiment ne sont pas nécessairement liés à la persistance de restes pénibles de la veille. Ils naissent, au contraire, le plus souvent semble-t-il, lorsque ces restes du jour sont de nature apaisante, mais expriment des satisfactions interdites. Toutes ces pensées interdites sont remplacées dans le contenu manifeste du rêve par leur contraire* \[...\]
+
+*Le caractère essentiel des rêves de châtiment me parait donc être le suivant : ce qui les produit ce n’est pas un désir inconscient venu du refoulé* \[...\]*, mais un désir de sens contraire, réagissant contre celui-ci, désir de châtiment qui, bien qu’inconscient*
+
+*(plus exactement préconscient)* - *appartient au moi.* » \[PUF 1950 p. 458, PUF 1967 p. 475, PUF 2004 p. 612\]
+
+\[*Ich bemerke nur, daß die Strafträume nicht allgemein an die Bedingung peinlicher Tagesreste geknüpft sind. Sie entstehen vielmehr*
+
+*am leichtesten unter der gegensätzlichen Voraussetzung, daß die Tagesreste Gedanken befriedigender Natur sind, die aber unerlaubte Befriedigungen ausdrücken. Von diesen Gedanken gelangt dann nichts in den manifesten Traum als ihr direkter Gegensatz,*
+
+*ähnlich wie es in den Träumen der Gruppe a der Fall war. Der wesentliche Charakter der Strafträume bliebe also, daß bei ihnen nicht*
+
+*der unbewußte Wunsch aus dem Verdrängten (dem System Ubw) zum Traumbildner wird, sondern der gegen ihn reagierende,*
+
+*dem Ich angehörige, wenn auch unbewußte (d. h. vorbewußte) Strafwünsch.*\]
+
+</div>
 
 <!-- id: s3-05-0033 -->
 
@@ -180,7 +192,7 @@ Quelle est la relation de cela avec le développement d’un délire qui va trè
 
 <!-- id: s3-05-0038 -->
 
-> autant que son discours peut l’exprimer - une femme, c’est ce qu’il dit.
+autant que son discours peut l’exprimer - une femme, c’est ce qu’il dit.
 
 <!-- id: s3-05-0039 -->
 
@@ -240,7 +252,7 @@ Quoi que puissent en penser les esprits qui s’en tiennent aux apparences, ce q
 
 <!-- id: s3-05-0053 -->
 
-> même disons ceux qui constituent les esprits les plus positivistes d’entre vous, voire les plus affranchis de toute idée religieuse
+même disons ceux qui constituent les esprits les plus positivistes d’entre vous, voire les plus affranchis de toute idée religieuse
 
 <!-- id: s3-05-0054 -->
 
@@ -264,11 +276,11 @@ Ceci dit, ce que j’admets, ce que j’appelle la référence au « *Dieu non 
 
 <!-- id: s3-05-0059 -->
 
-> on sait qu’en effet nous n’avons jamais rien constaté qui puisse nous montrer qu’il y ait quelque part au fond de la nature *un démon trompeur*, mais ce que vous ne réalisez pas, c’est en quelque sorte, 1<sup>ère</sup> approximation,
->
-> à quel point il a été nécessaire de faire cet acte de foi pour franchir les premiers pas de la science
->
-> et de la constitution de la science expérimentale
+on sait qu’en effet nous n’avons jamais rien constaté qui puisse nous montrer qu’il y ait quelque part au fond de la nature *un démon trompeur*, mais ce que vous ne réalisez pas, c’est en quelque sorte, 1<sup>ère</sup> approximation,
+
+à quel point il a été nécessaire de faire cet acte de foi pour franchir les premiers pas de la science
+
+et de la constitution de la science expérimentale
 
 <!-- id: s3-05-0060 -->
 
@@ -440,7 +452,7 @@ Voilà des propositions qui ne semblent pas aller de soi non plus, ni devoir êt
 
 <!-- id: s3-05-0102 -->
 
-> je dirais préjugée ou préconçue, telle que nous pourrions la pré-concevoir nous-mêmes
+je dirais préjugée ou préconçue, telle que nous pourrions la pré-concevoir nous-mêmes
 
 <!-- id: s3-05-0103 -->
 
@@ -456,7 +468,7 @@ Le sujet peut parler à l’autre en tant qu’il est avec lui question de foi o
 
 <!-- id: s3-05-0106 -->
 
-> comme vous allez le voir encore bien plus se développer dans le discours du sujet
+comme vous allez le voir encore bien plus se développer dans le discours du sujet
 
 <!-- id: s3-05-0107 -->
 

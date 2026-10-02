@@ -14,17 +14,17 @@ Je parle ici de la débilité mentale des systèmes de pensée qui supposent...
 
 <!-- id: s22-03-0003 -->
 
-> sans le dire, sauf aux temps bénits du Tao, voire de l’ancienne Égypte,
->
-> où cela s’articule avec tout l’abêtissement nécessaire ...qui supposent donc la métaphore du rapport sexuel...
+sans le dire, sauf aux temps bénits du Tao, voire de l’ancienne Égypte,
+
+où cela s’articule avec tout l’abêtissement nécessaire ...qui supposent donc la métaphore du rapport sexuel...
 
 <!-- id: s22-03-0004 -->
 
-> non ex-sistant sous aucune forme ...sous celle de la copulation...
+non ex-sistant sous aucune forme ...sous celle de la copulation...
 
 <!-- id: s22-03-0005 -->
 
-> particulièrement « grotesque » chez le parlêtre, ...qui est censée « représenter » le rapport que je dis ne pas ex-sister humainement.
+particulièrement « grotesque » chez le parlêtre, ...qui est censée « représenter » le rapport que je dis ne pas ex-sister humainement.
 
 <!-- id: s22-03-0006 -->
 
@@ -36,7 +36,7 @@ Mais c’est bien ainsi qu’il permet de l’identifier à ce que je dénonce c
 
 <!-- id: s22-03-0008 -->
 
-> = ne cessant pas de s’écrire ...de ce qu’elle ne puisse entrer dans le trou sans nécessairement en ressortir, et dès « la fois » suivante : « la fois » dont le croisement de sa mise à plat fait foi.
+= ne cessant pas de s’écrire ...de ce qu’elle ne puisse entrer dans le trou sans nécessairement en ressortir, et dès « la fois » suivante : « la fois » dont le croisement de sa mise à plat fait foi.
 
 <!-- id: s22-03-0009 -->
 
@@ -112,7 +112,7 @@ Ceci, de ce fait que le nœud n’étant fait que de ce que chacun de ses élém
 
 <!-- id: s22-03-0027 -->
 
-> que je crois avoir remis en valeur la dernière fois *...*que chacun de ses éléments peut avoir deux formes :
+que je crois avoir remis en valeur la dernière fois *...*que chacun de ses éléments peut avoir deux formes :
 
 <!-- id: s22-03-0028 -->
 
@@ -136,11 +136,11 @@ Alors ces remarques préliminaires, je vais pas les faire nombreuses, je vais en
 
 <!-- id: s22-03-0033 -->
 
-> ils n’ont même pas besoin de les ouvrir, ça traîne sur les couvertures ...ils peuvent se demander : ce nœud que je profère au titre d’y unir le R.S.I. de la façon la plus certaine...
+ils n’ont même pas besoin de les ouvrir, ça traîne sur les couvertures ...ils peuvent se demander : ce nœud que je profère au titre d’y unir le R.S.I. de la façon la plus certaine...
 
 <!-- id: s22-03-0034 -->
 
-> à savoir quand le **S**, c’est le rond blanc que vous voyez là, et que l’*Imaginaire* c’est le rond rouge :
+à savoir quand le **S**, c’est le rond blanc que vous voyez là, et que l’*Imaginaire* c’est le rond rouge :
 
 <!-- id: s22-03-0035 -->
 
@@ -204,7 +204,7 @@ Et c’est en cela que je prétends que cet apparent *« *modèle » qui consi
 
 <!-- id: s22-03-0050 -->
 
-> quoique situé lui aussi dans l’*Imaginaire...*fait *exception* à cette supposition, de ceci que ce qu’il propose c’est que les 3 qui sont là fonctionnent comme *pure consistance*, c’est à savoir que ce n’est que de tenir entre eux qu’ils *consistent *: les 3 tiennent entre eux *réellement*.
+quoique situé lui aussi dans l’*Imaginaire...*fait *exception* à cette supposition, de ceci que ce qu’il propose c’est que les 3 qui sont là fonctionnent comme *pure consistance*, c’est à savoir que ce n’est que de tenir entre eux qu’ils *consistent *: les 3 tiennent entre eux *réellement*.
 
 <!-- id: s22-03-0051 -->
 
@@ -212,7 +212,7 @@ Ce qui y implique la métaphore tout de même, et ce qui pose la question de que
 
 <!-- id: s22-03-0052 -->
 
-> au sens où je l’entendais l’année dernière *...*quelle est l’erre de la méta­phore ?
+au sens où je l’entendais l’année dernière *...*quelle est l’erre de la méta­phore ?
 
 <!-- id: s22-03-0053 -->
 
@@ -240,7 +240,7 @@ Comment le linguiste...
 
 <!-- id: s22-03-0059 -->
 
-> et j’en ai un qui m’honore aujourd’hui de sa présence au premier rang *...*com­ment un linguiste saurait-il définir les limites de la métaphore ?
+et j’en ai un qui m’honore aujourd’hui de sa présence au premier rang *...*com­ment un linguiste saurait-il définir les limites de la métaphore ?
 
 <!-- id: s22-03-0060 -->
 
@@ -248,7 +248,7 @@ Qu’est ce qui peut définir un maximum de l’écart de la métaphore, au sens
 
 <!-- id: s22-03-0061 -->
 
-> référence à « *L’instance de la lettre »* dans mes « *Écrits »...*quel est le maximum permis de la substitution d’un signifiant à un autre ?
+référence à « *L’instance de la lettre »* dans mes « *Écrits »...*quel est le maximum permis de la substitution d’un signifiant à un autre ?
 
 <!-- id: s22-03-0062 -->
 
@@ -296,7 +296,7 @@ et certainement la 1<sup>ère</sup> chose qui s’impose, c’est la date de cet
 
 <!-- id: s22-03-0073 -->
 
-> tenons-les pour ainsi définis ...du temps qu’elles ont mis ces bêtes, pour se rendre compte du spécifique de la reproduction sexuée.
+tenons-les pour ainsi définis ...du temps qu’elles ont mis ces bêtes, pour se rendre compte du spécifique de la reproduction sexuée.
 
 <!-- id: s22-03-0074 -->
 
@@ -316,7 +316,7 @@ C’est assurément de ne pas se tenir à ce massif de la distinction de l’*an
 
 <!-- id: s22-03-0078 -->
 
-> de n’être pas dupe, de ne pas s’en tenir à ce fait massif, et pour tout dire de ne pas être assez bête *...*ne sent pas le point, à proprement parler de découverte, que consti­tue pour ce qu’il en est d’une appréhension réelle de la distinction des sexes, ne s’en tient pas à ce qui lui est apporté.
+de n’être pas dupe, de ne pas s’en tenir à ce fait massif, et pour tout dire de ne pas être assez bête *...*ne sent pas le point, à proprement parler de découverte, que consti­tue pour ce qu’il en est d’une appréhension réelle de la distinction des sexes, ne s’en tient pas à ce qui lui est apporté.
 
 <!-- id: s22-03-0079 -->
 
@@ -332,7 +332,7 @@ Entre l’« ovisme » et l’« animalculisme » à savoir ce qui met tout l’
 
 <!-- id: s22-03-0082 -->
 
-> l’expérience menée par Harvey, sur l’examen de ce qui s’énonce comme existant d’une première mani­festation de ce qu’il appelle le point vivant au fond de l’utérus des biches que Charles II a mis, au dit Harvey, à sa disposition *...*il arrive certes à se faire une idée, à la suggérer tout au moins, de ce qui peut se passer, et dont on pourrait dire que ça se passe effectivement au niveau de ce qui serait une *morula* par exemple, voire à un stade plus loin qui est celui de *gas­trula,* mais justement à deviner, à deviner il n’avance pas.
+l’expérience menée par Harvey, sur l’examen de ce qui s’énonce comme existant d’une première mani­festation de ce qu’il appelle le point vivant au fond de l’utérus des biches que Charles II a mis, au dit Harvey, à sa disposition *...*il arrive certes à se faire une idée, à la suggérer tout au moins, de ce qui peut se passer, et dont on pourrait dire que ça se passe effectivement au niveau de ce qui serait une *morula* par exemple, voire à un stade plus loin qui est celui de *gas­trula,* mais justement à deviner, à deviner il n’avance pas.
 
 <!-- id: s22-03-0083 -->
 
@@ -340,11 +340,11 @@ C’est à savoir que ce qui lui échappe c’est que chaque cellule de ce qu’
 
 <!-- id: s22-03-0084 -->
 
-> et pour, lui, s’en aveugler ...comme étant la substance de l’em­bryon, est le puzzle, la bigarrure apparemment qu’on pourrait en imagi­ner, c’est à savoir ceci...
+et pour, lui, s’en aveugler ...comme étant la substance de l’em­bryon, est le puzzle, la bigarrure apparemment qu’on pourrait en imagi­ner, c’est à savoir ceci...
 
 <!-- id: s22-03-0085 -->
 
-> et que Maupertuis ne manque pas d’imaginer ...c’est que dans ce puzzle, dans ces éléments cellulaires, il y en aurait de mâles, et d’autres de femelles.
+et que Maupertuis ne manque pas d’imaginer ...c’est que dans ce puzzle, dans ces éléments cellulaires, il y en aurait de mâles, et d’autres de femelles.
 
 <!-- id: s22-03-0086 -->
 
@@ -400,7 +400,7 @@ Car si le signifiant, de ce fait est dépourvu de sens, c’est que le signifian
 
 <!-- id: s22-03-0099 -->
 
-> tout ce qui reste ...vient à se proposer comme intervenant dans cette *jouissance*.
+tout ce qui reste ...vient à se proposer comme intervenant dans cette *jouissance*.
 
 <!-- id: s22-03-0100 -->
 
@@ -408,7 +408,7 @@ Non certes que le « *Je pense* » suffise à assurer l’existence...
 
 <!-- id: s22-03-0101 -->
 
-> ce n’est pas pour rien que Descartes a là achoppé ...mais jusqu’à un certain point *c’est tout de même vrai que ce ne soit qu’à effacer tout sens que l’existence se définisse*.
+ce n’est pas pour rien que Descartes a là achoppé ...mais jusqu’à un certain point *c’est tout de même vrai que ce ne soit qu’à effacer tout sens que l’existence se définisse*.
 
 <!-- id: s22-03-0102 -->
 
@@ -428,7 +428,7 @@ C’est autour de *ce trou* simulé par le « *Je pense* » de Descartes*...*
 
 <!-- id: s22-03-0106 -->
 
-> puisque ce « *Je pense* » il le vide *...*c’est autour de ce trou que se suggère l’*ex-sistence*.
+puisque ce « *Je pense* » il le vide *...*c’est autour de ce trou que se suggère l’*ex-sistence*.
 
 <!-- id: s22-03-0107 -->
 
@@ -460,7 +460,7 @@ Ceci est là ce qui...
 
 <!-- id: s22-03-0114 -->
 
-> aussi bien par rapport à l’un des élé­ments du nœud, qu’à tous les autres *...*ce qui permet de situer ce qui relève de l’*ex-sistence*.
+aussi bien par rapport à l’un des élé­ments du nœud, qu’à tous les autres *...*ce qui permet de situer ce qui relève de l’*ex-sistence*.
 
 <!-- id: s22-03-0115 -->
 
@@ -488,7 +488,7 @@ fût-ce à dessein de le compléter ultérieurement ...de situer ici \[J<sub>Φ<
 
 <!-- id: s22-03-0121 -->
 
-> j’appelle comme ça *le rond connoté du Réel...*de ce qu’il s’ouvre à se poser comme cette droite infinie, isolée si l’on peut dire, dans sa consistance.
+j’appelle comme ça *le rond connoté du Réel...*de ce qu’il s’ouvre à se poser comme cette droite infinie, isolée si l’on peut dire, dans sa consistance.
 
 <!-- id: s22-03-0122 -->
 
@@ -504,7 +504,7 @@ Il y a dans Freud...
 
 <!-- id: s22-03-0125 -->
 
-> je ne vais pas... tout simplement faute de les avoir ici recueillis ...il y a dans Freud « prosternation* »*, si je puis dire, devant *la jouissance phallique*, comme telle.
+je ne vais pas... tout simplement faute de les avoir ici recueillis ...il y a dans Freud « prosternation* »*, si je puis dire, devant *la jouissance phallique*, comme telle.
 
 <!-- id: s22-03-0126 -->
 
@@ -524,7 +524,7 @@ C’est dans la mesure où un point tiers...
 
 <!-- id: s22-03-0130 -->
 
-> qui se définit comme se définit le sens ...est extérieur au plus central des points de cette *nodalité*, c’est en ce sens que se produit ce qui s’appelle *jouissance phal­lique*.
+qui se définit comme se définit le sens ...est extérieur au plus central des points de cette *nodalité*, c’est en ce sens que se produit ce qui s’appelle *jouissance phal­lique*.
 
 <!-- id: s22-03-0131 -->
 
@@ -576,7 +576,7 @@ Je veux dire que la fonction, par exemple, dite du « *moi* » est ce quelque 
 
 <!-- id: s22-03-0143 -->
 
-> conformément à cette nécessité, à ce pen­chant qui fait que *c’est à l’Imaginaire que va la substance* comme telle
+conformément à cette nécessité, à ce pen­chant qui fait que *c’est à l’Imaginaire que va la substance* comme telle
 
 <!-- id: s22-03-0144 -->
 
@@ -584,9 +584,9 @@ Je veux dire que la fonction, par exemple, dite du « *moi* » est ce quelque 
 
 <!-- id: s22-03-0145 -->
 
-> il ne va pas jusqu’à le dire mais il le représente dans cette topique fantasmatique qui est la 2<sup>nde</sup>,
->
-> alors que la 1<sup>ère</sup> marquait toute sa distance émerveillée auprès de ce qu’il découvrait de l’incons­cient *...*c’est dans le *sac*, le sac du corps, c’est de ce sac que se trouve figu­ré le *moi*, en quoi d’ailleurs ceci l’induit à devoir, sur ce *moi*
+il ne va pas jusqu’à le dire mais il le représente dans cette topique fantasmatique qui est la 2<sup>nde</sup>,
+
+alors que la 1<sup>ère</sup> marquait toute sa distance émerveillée auprès de ce qu’il découvrait de l’incons­cient *...*c’est dans le *sac*, le sac du corps, c’est de ce sac que se trouve figu­ré le *moi*, en quoi d’ailleurs ceci l’induit à devoir, sur ce *moi*
 
 <!-- id: s22-03-0146 -->
 
@@ -626,7 +626,7 @@ C’est en tant que *quelque chose est* *urverdrängt* dans le *Symbolique,* qu�
 
 <!-- id: s22-03-0155 -->
 
-> c’est presque rengaine que de l’énoncer ...que nous soyons capables logiquement de dire que : « *Tous les hommes sont mortels* ».
+c’est presque rengaine que de l’énoncer ...que nous soyons capables logiquement de dire que : « *Tous les hommes sont mortels* ».
 
 <!-- id: s22-03-0156 -->
 
@@ -710,7 +710,7 @@ Pour fixer les choses...
 
 <!-- id: s22-03-0176 -->
 
-> qu’on appelle des idées, et qui ne sont pas du tout des idées ...pour fixer les choses là où elles méritent d’être fixées, c’est-à-dire dans la logique : Freud ne croit pas en Dieu.
+qu’on appelle des idées, et qui ne sont pas du tout des idées ...pour fixer les choses là où elles méritent d’être fixées, c’est-à-dire dans la logique : Freud ne croit pas en Dieu.
 
 <!-- id: s22-03-0177 -->
 
@@ -786,7 +786,7 @@ C’est pas du tout que ça m’ait angoissé, ni même embarras­sé, ça peut 
 
 <!-- id: s22-03-0195 -->
 
-> avec l’idée que l’inconscient soit conditionné *par* le langage *...*qu’il est tout à fait compa­tible
+avec l’idée que l’inconscient soit conditionné *par* le langage *...*qu’il est tout à fait compa­tible
 
 <!-- id: s22-03-0196 -->
 
@@ -814,7 +814,7 @@ Voyez le « Petit Hans », quand il se trouve que se rend sensible l’associa
 
 <!-- id: s22-03-0202 -->
 
-> nommément mâle dans l’occasion, défini comme mâle *...*l’association à un corps, d’une *jouissance phallique*.
+nommément mâle dans l’occasion, défini comme mâle *...*l’association à un corps, d’une *jouissance phallique*.
 
 <!-- id: s22-03-0203 -->
 
@@ -822,7 +822,7 @@ Si le « Petit Hans » se rue dans la phobie, c’est évidemment pour donner 
 
 <!-- id: s22-03-0204 -->
 
-> je l’ai démontré pendant tout une année *...*pour donner corps à « *l’embarras* » qu’il a de ce *phallus*, et pour lequel il s’invente toute une série d’équivalents diversement piaffants sous la forme de la phobie dite *des chevaux*.
+je l’ai démontré pendant tout une année *...*pour donner corps à « *l’embarras* » qu’il a de ce *phallus*, et pour lequel il s’invente toute une série d’équivalents diversement piaffants sous la forme de la phobie dite *des chevaux*.
 
 <!-- id: s22-03-0205 -->
 
@@ -830,7 +830,7 @@ Le Petit Hans, dans son angoisse, principe de la phobie...
 
 <!-- id: s22-03-0206 -->
 
-> principe de la phobie et en ce sens qu’à la lui rendre cette angoisse si l’on peut dire « pure* »*, qu’on arrive à le faire s’accommoder de ce *phallus* dont, en fin de compte, comme tous ceux qui se trouvent en avoir la charge, celle que j’ai un jour qualifiée de « la bandoulière » ...ben, il faut bien qu’il s’en accommode, à savoir qu’il soit marié avec ce *phallus*. Ça c’est ce à quoi l’homme ne peut rien.
+principe de la phobie et en ce sens qu’à la lui rendre cette angoisse si l’on peut dire « pure* »*, qu’on arrive à le faire s’accommoder de ce *phallus* dont, en fin de compte, comme tous ceux qui se trouvent en avoir la charge, celle que j’ai un jour qualifiée de « la bandoulière » ...ben, il faut bien qu’il s’en accommode, à savoir qu’il soit marié avec ce *phallus*. Ça c’est ce à quoi l’homme ne peut rien.
 
 <!-- id: s22-03-0207 -->
 
@@ -862,7 +862,7 @@ Bon ! Ben*...* il est deux heures moins le quart. Moi je trouve qu’aujour­d�
 
 <!-- id: s22-03-0214 -->
 
-> comme je vous ai à peu près tout improvisé de ce que je vous raconte *...*je suis assez fatigué comme ça.
+comme je vous ai à peu près tout improvisé de ce que je vous raconte *...*je suis assez fatigué comme ça.
 
 <!-- id: s22-03-0215 -->
 

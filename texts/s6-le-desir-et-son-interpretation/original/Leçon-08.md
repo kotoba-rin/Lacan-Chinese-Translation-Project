@@ -22,7 +22,7 @@ Dans tous ces cas, nous dit FREUD, ce qui est dénoncé par le sujet à propos d
 
 <!-- id: s6-08-0005 -->
 
-> à savoir : « *c’est ou ceci ou cela*... », « *je ne me souviens plus*... », « *je ne peux plus dire*... »
+à savoir : « *c’est ou ceci ou cela*... », « *je ne me souviens plus*... », « *je ne peux plus dire*... »
 
 <!-- id: s6-08-0006 -->
 
@@ -90,9 +90,9 @@ Nous faisons quelque chose qui n’est pas unique de sa classe, tout au moins da
 
 <!-- id: s6-08-0022 -->
 
-> à savoir : « *le rêve n’a aucune signification, c’est un produit de décomposition de l’activité psychique* »,
->
-> qui est la position dite « *scientifique* » qui a été tenue pendant une assez courte période de l’histoire
+à savoir : « *le rêve n’a aucune signification, c’est un produit de décomposition de l’activité psychique* »,
+
+qui est la position dite « *scientifique* » qui a été tenue pendant une assez courte période de l’histoire
 
 <!-- id: s6-08-0023 -->
 
@@ -104,9 +104,9 @@ C’est déjà une chose considérable que ce que nous avons avancé à l’inst
 
 <!-- id: s6-08-0025 -->
 
-> dans la forme même sous laquelle nous la produisons à partir du moment
->
-> où nous racontons notre rêve à quelqu’un d’autre
+dans la forme même sous laquelle nous la produisons à partir du moment
+
+où nous racontons notre rêve à quelqu’un d’autre
 
 <!-- id: s6-08-0026 -->
 
@@ -122,7 +122,7 @@ L’attitude qui reste spontanée, *l’attitude traditionnelle*, tellement ambi
 
 <!-- id: s6-08-0029 -->
 
-> à l’âge où commence cette activité confidentielle de l’enfant concernant ses rêves
+à l’âge où commence cette activité confidentielle de l’enfant concernant ses rêves
 
 <!-- id: s6-08-0030 -->
 
@@ -146,7 +146,7 @@ L’intérêt structural du graphe, c’est que *c’est une structure qui nous 
 
 <!-- id: s6-08-0035 -->
 
-> pour autant que nécessairement, dès que le sujet est pris dans le signifiant - et il est essentiel qu’il y soit pris, c’est ce qui le définit, c’est le rapport de l’individu avec le signifiant
+pour autant que nécessairement, dès que le sujet est pris dans le signifiant - et il est essentiel qu’il y soit pris, c’est ce qui le définit, c’est le rapport de l’individu avec le signifiant
 
 <!-- id: s6-08-0036 -->
 
@@ -238,7 +238,7 @@ Et c’est là-dedans que gît *la propriété du signifiant* c’est quelque ch
 
 <!-- id: s6-08-0058 -->
 
-> sans que le sujet le sache et d’une façon pour lui inconsciente
+sans que le sujet le sache et d’une façon pour lui inconsciente
 
 <!-- id: s6-08-0059 -->
 
@@ -250,11 +250,11 @@ Ceci nous est indiqué par FREUD : *de qui*…
 
 <!-- id: s6-08-0061 -->
 
-> au niveau de *l’énonciation*, au niveau en apparence donc le plus élaboré de l’assomption du sujet,
->
-> au point où le « *je* » se pose comme conscient par rapport à, nous ne dirons pas « *sa propre production »*
->
-> puisque justement l’*énigme* reste entière
+au niveau de *l’énonciation*, au niveau en apparence donc le plus élaboré de l’assomption du sujet,
+
+au point où le « *je* » se pose comme conscient par rapport à, nous ne dirons pas « *sa propre production »*
+
+puisque justement l’*énigme* reste entière
 
 <!-- id: s6-08-0062 -->
 
@@ -286,7 +286,7 @@ C’est-à-dire de ces entrecroisements, de ces intervalles qu’il laisse et qu
 
 <!-- id: s6-08-0069 -->
 
-> et d’une façon plus exemplaire à propos du rêve que par rapport à n’importe quel autre discours
+et d’une façon plus exemplaire à propos du rêve que par rapport à n’importe quel autre discours
 
 <!-- id: s6-08-0070 -->
 
@@ -350,9 +350,9 @@ Entre les deux est ce fantasme \[S◊*a*\] où d’habitude il suspend son rappo
 
 <!-- id: s6-08-0085 -->
 
-> je parle du désir précis qui intervient dans tel ou tel incident de la vie du sujet,
->
-> du *désir masochiste*, du *désir-suicide*, du *désir oblatif* à l’occasion
+je parle du désir précis qui intervient dans tel ou tel incident de la vie du sujet,
+
+du *désir masochiste*, du *désir-suicide*, du *désir oblatif* à l’occasion
 
 <!-- id: s6-08-0086 -->
 
@@ -368,9 +368,9 @@ Pour autant que ce qu’on appelle « *l’affect* » n’est pas ce *quelque 
 
 <!-- id: s6-08-0089 -->
 
-> qui serait une sorte d’au-delà du discours, une espèce d’ensemble,
->
-> de noyau vécu dont on ne saurait pas de quel ciel il nous tombe
+qui serait une sorte d’au-delà du discours, une espèce d’ensemble,
+
+de noyau vécu dont on ne saurait pas de quel ciel il nous tombe
 
 <!-- id: s6-08-0090 -->
 
@@ -394,7 +394,7 @@ Et puis aussi bien, c’est quelque chose qui se rapporte à l’intrusion du d�
 
 <!-- id: s6-08-0095 -->
 
-> au moins pour toute une catégorie fondamentale d’affects
+au moins pour toute une catégorie fondamentale d’affects
 
 <!-- id: s6-08-0096 -->
 
@@ -554,7 +554,11 @@ Ce qui veut dire dans l’occasion une activité du sujet sur lui-même. Il la s
 
 <!-- id: s6-08-0135 -->
 
-> « *Quand on dit* « *I masturbated* » *cela veut dire* «* je me suis masturbé* ». »
+<div class="text-quotation">
+
+« *Quand on dit* « *I masturbated* » *cela veut dire* «* je me suis masturbé* ». »
+
+</div>
 
 <!-- id: s6-08-0136 -->
 
@@ -638,7 +642,11 @@ Le mot anglais « *thud* », n’a pas d’équivalent. En anglais, il veut di
 
 <!-- id: s6-08-0156 -->
 
-> « …*un autre arrive, se précipite*… » \[...another hurries...\]
+<div class="text-quotation">
+
+« …*un autre arrive, se précipite*… » \[...another hurries...\]
+
+</div>
 
 <!-- id: s6-08-0157 -->
 
@@ -790,9 +798,9 @@ Nous reprendrons ceci en détail la prochaine fois, mais d’ores et déjà, est
 
 <!-- id: s6-08-0194 -->
 
-> et d’ailleurs l’auteur bien entendu, n’en doutera pas et le fera entrer dans l’analyse du rêve,
->
-> et tout à fait au premier plan
+et d’ailleurs l’auteur bien entendu, n’en doutera pas et le fera entrer dans l’analyse du rêve,
+
+et tout à fait au premier plan
 
 <!-- id: s6-08-0195 -->
 
@@ -804,7 +812,7 @@ Mais elle était d’autre part...
 
 <!-- id: s6-08-0197 -->
 
-> en tant que le sujet en a parlé, c’est-à-dire en tant qu’il a introduit le rêve
+en tant que le sujet en a parlé, c’est-à-dire en tant qu’il a introduit le rêve
 
 <!-- id: s6-08-0198 -->
 
@@ -824,7 +832,7 @@ C’est à savoir ceci qui se présente comme ayant tous les aspects du fantasme
 
 <!-- id: s6-08-0202 -->
 
-> je dirais comme telle, comme présence de me voir – le sujet – dans une chambre
+je dirais comme telle, comme présence de me voir – le sujet – dans une chambre
 
 <!-- id: s6-08-0203 -->
 
@@ -1104,4 +1112,4 @@ tennis court one day in the week that followed this analytic hour an opponent wh
 
 [^39]: Cf. [Homère : L’odyssée](http://www.iliadeodyssee.com/ebook/iliade_odyssee.pdf), Ulysse et le cyclope (pp63-68) : - « Quel est ton nom ? » demanda-t-il à Ulysse.
 
-    > \- οὔτις \[outis\] : « *Personne* », lui répondit Ulysse.
+\- οὔτις \[outis\] : « *Personne* », lui répondit Ulysse.

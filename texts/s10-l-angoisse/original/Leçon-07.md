@@ -24,9 +24,9 @@ c’est-à-dire, je veux dire par là des *Vorstellungen,* des représentations 
 
 <!-- id: s10-07-0004 -->
 
-> \[*Sondern es handelt sich wirklich um Auffassungen, d. h. darum, die richtigen abstrakten Vorstellungen einzuführen,*
->
-> *deren Anwendung auf den Rohstoff der Beobachtung Ordnung und Durchsichtigkeit in ihm entstehen läßt.*\]
+\[*Sondern es handelt sich wirklich um Auffassungen, d. h. darum, die richtigen abstrakten Vorstellungen einzuführen,*
+
+*deren Anwendung auf den Rohstoff der Beobachtung Ordnung und Durchsichtigkeit in ihm entstehen läßt.*\]
 
 <!-- id: s10-07-0005 -->
 
@@ -64,10 +64,10 @@ Je dis, c’est *un signal* en relation avec ce qui se passe concer­nant la rel
 
 <!-- id: s10-07-0012 -->
 
-> d’un sujet qui ne saurait d’ailleurs entrer dans cette relation
->
-> que dans la vacillation d’un certain « *fading »*, celle que désigne la notation de ce sujet par un S
-> ...la relation de ce sujet, à ce moment vacillant, avec cet *objet* dans toute sa généralité.
+d’un sujet qui ne saurait d’ailleurs entrer dans cette relation
+
+que dans la vacillation d’un certain « *fading »*, celle que désigne la notation de ce sujet par un S
+...la relation de ce sujet, à ce moment vacillant, avec cet *objet* dans toute sa généralité.
 
 <!-- id: s10-07-0013 -->
 
@@ -132,7 +132,7 @@ si nous nous apercevons que c’est justement au *statut de l’objet* qu’il s
 
 <!-- id: s10-07-0024 -->
 
-> au niveau où peuvent se poser les problèmes qui viendraient à l’*irréaliser* comme une « 4<sup>ème</sup> *dimension* »
+au niveau où peuvent se poser les problèmes qui viendraient à l’*irréaliser* comme une « 4<sup>ème</sup> *dimension* »
 
 <!-- id: s10-07-0025 -->
 
@@ -141,8 +141,8 @@ si nous nous apercevons que c’est justement au *statut de l’objet* qu’il s
 
 <!-- id: s10-07-0026 -->
 
-> pour quelque chose qui, dans le *symbolique*, pourrait se traduire par une variable indépendante,
-> ...est simplement une erreur catégorielle au départ.
+pour quelque chose qui, dans le *symbolique*, pourrait se traduire par une variable indépendante,
+...est simplement une erreur catégorielle au départ.
 
 <!-- id: s10-07-0027 -->
 
@@ -197,8 +197,8 @@ Il s’agit justement aujourd’hui de savoir
 
 <!-- id: s10-07-0038 -->
 
-> bien entendu, ce que nous avons là pour nous présentifier les uns aux autres
-> ...*notre corps*.
+bien entendu, ce que nous avons là pour nous présentifier les uns aux autres
+...*notre corps*.
 
 <!-- id: s10-07-0039 -->
 
@@ -254,9 +254,9 @@ de ces représentations « *richtig », « correctes »,* peut être donné 
 
 <!-- id: s10-07-0050 -->
 
-> toujours plus ou moins opaque, obscur
-> à l’intuition, à l’expérience, quelque chose de *Durchsichtigkeit,* de *transparent*.
-> Autrement dit de reconstituer pour nous, *l’esthétique transcendentale* qui nous convient et qui convient à notre expérience.
+toujours plus ou moins opaque, obscur
+à l’intuition, à l’expérience, quelque chose de *Durchsichtigkeit,* de *transparent*.
+Autrement dit de reconstituer pour nous, *l’esthétique transcendentale* qui nous convient et qui convient à notre expérience.
 
 <!-- id: s10-07-0051 -->
 
@@ -290,9 +290,9 @@ Aussi bien l’introduction, même linguistique, du terme « *sans* »*, sine.
 
 <!-- id: s10-07-0057 -->
 
-> et profondément corrélatif de cette aposition du *haud : haud sine*, « *non pas sans* »
-> ...un certain type de liai­son conditionnelle, si vous voulez, qui lie l’être à l’avoir dans une sorte d’*al­ternance* :
-> il n’est pas là sans l’avoir, mais ailleurs, là où il est, ça ne se voit pas.
+et profondément corrélatif de cette aposition du *haud : haud sine*, « *non pas sans* »
+...un certain type de liai­son conditionnelle, si vous voulez, qui lie l’être à l’avoir dans une sorte d’*al­ternance* :
+il n’est pas là sans l’avoir, mais ailleurs, là où il est, ça ne se voit pas.
 
 <!-- id: s10-07-0058 -->
 
@@ -307,8 +307,8 @@ C’est cela qui rend la castration nécessaire à une sexualité socialisée, o
 
 <!-- id: s10-07-0060 -->
 
-> nous l’a fait remarquer Claude Lévi-Strauss
-> ...*des interdictions*, sans doute, mais aussi et avant tout *des préférences*.
+nous l’a fait remarquer Claude Lévi-Strauss
+...*des interdictions*, sans doute, mais aussi et avant tout *des préférences*.
 
 <!-- id: s10-07-0061 -->
 
@@ -350,15 +350,15 @@ Un des derniers travaux, sans doute remarquable, sur ce sujet..
 
 <!-- id: s10-07-0068 -->
 
-> celui de Nunberg[^46], sur la circoncision conçue dans ses rapports avec la bisexualité
-> ...est bien là pour nous rappeler ce que déjà d’autres auteurs, et de nom­breux, avaient introduit avant lui :
-> que la circoncision a tout autant le but, la fin, de renforcer en l’isolant le terme de la masculinité chez l’homme,
-> que de provoquer les effets...
+celui de Nunberg[^46], sur la circoncision conçue dans ses rapports avec la bisexualité
+...est bien là pour nous rappeler ce que déjà d’autres auteurs, et de nom­breux, avaient introduit avant lui :
+que la circoncision a tout autant le but, la fin, de renforcer en l’isolant le terme de la masculinité chez l’homme,
+que de provoquer les effets...
 
 <!-- id: s10-07-0069 -->
 
-> au moins sous leur incidence angoissante
-> ...que de pro­voquer les effets dits du « *complexe de castration* ».
+au moins sous leur incidence angoissante
+...que de pro­voquer les effets dits du « *complexe de castration* ».
 
 <!-- id: s10-07-0070 -->
 
@@ -408,9 +408,9 @@ Et la perplexité qui en résulte...
 
 <!-- id: s10-07-0080 -->
 
-> et aussi bien, tout ce pas­sage au côté du maniable, de l’ustensile
-> ...c’est justement ce qui là bas, dans l’observation du *petit Hans,* nous est désigné aussi par un rêve :
-> il nous introduit « *l’installateur de robinets* », celui qui va le dévisser, le revisser, faire passer toute la discussion
+et aussi bien, tout ce pas­sage au côté du maniable, de l’ustensile
+...c’est justement ce qui là bas, dans l’observation du *petit Hans,* nous est désigné aussi par un rêve :
+il nous introduit « *l’installateur de robinets* », celui qui va le dévisser, le revisser, faire passer toute la discussion
 
 <!-- id: s10-07-0081 -->
 
@@ -431,8 +431,8 @@ Quand j’ai commencé d’énoncer *la fonction* ...
 
 <!-- id: s10-07-0085 -->
 
-> la fonction fondamentale dans l’insti­tution générale du champ de l’objet
-> ...*du stade du miroir*, par quoi ai-je passé ?
+la fonction fondamentale dans l’insti­tution générale du champ de l’objet
+...*du stade du miroir*, par quoi ai-je passé ?
 
 <!-- id: s10-07-0086 -->
 
@@ -440,8 +440,8 @@ Par le plan de *la première identification*...
 
 <!-- id: s10-07-0087 -->
 
-> méconnaissance originelle du sujet dans sa totalité
-> ...*à son image spéculaire*.
+méconnaissance originelle du sujet dans sa totalité
+...*à son image spéculaire*.
 
 <!-- id: s10-07-0088 -->
 
@@ -482,13 +482,13 @@ Il y en a peut-être que vous connaissez moins...
 
 <!-- id: s10-07-0095 -->
 
-> encore qu’ils soient parfaitement lisibles dans la littérature analytique, et nous essaierons de les désigner.
-> ...ces objets quand ils entrent en liberté...
+encore qu’ils soient parfaitement lisibles dans la littérature analytique, et nous essaierons de les désigner.
+...ces objets quand ils entrent en liberté...
 
 <!-- id: s10-07-0096 -->
 
-> recon­naissables dans ce champ où ils n’ont que faire, dans le champ du partage
-> ...quand ils apparaissent, l’*angoisse* nous signale la particularité de leur statut.
+recon­naissables dans ce champ où ils n’ont que faire, dans le champ du partage
+...quand ils apparaissent, l’*angoisse* nous signale la particularité de leur statut.
 
 <!-- id: s10-07-0097 -->
 
@@ -622,8 +622,8 @@ qui devient pour nous, ou non, revêtu *de cette glamor, de cette brillance dés
 
 <!-- id: s10-07-0124 -->
 
-> c’est ainsi qu’en chinois, on désigne la sexualité
-> ...qui fait que l’objet devient sti­mulant au niveau justement de l’excitation ?
+c’est ainsi qu’en chinois, on désigne la sexualité
+...qui fait que l’objet devient sti­mulant au niveau justement de l’excitation ?
 
 <!-- id: s10-07-0125 -->
 
@@ -653,9 +653,9 @@ J’ai entendu récemment faire allusion au fait que nous étions des gens, dans
 
 <!-- id: s10-07-0130 -->
 
-> qui a été fait avant que notre *Société* fut fondée
-> ...sur le transfert, je ne connais qu’*un seul autre tra­vail qui ait été accompli*, c’est celui de l’année, qu’ici avec vous, j’y ai consacrée[^49]. J’y ai dit bien des choses, certainement sous une forme qui était celle qui était la plus appropriée,
-> c’est-à-dire sous une forme *en partie voilée*.
+qui a été fait avant que notre *Société* fut fondée
+...sur le transfert, je ne connais qu’*un seul autre tra­vail qui ait été accompli*, c’est celui de l’année, qu’ici avec vous, j’y ai consacrée[^49]. J’y ai dit bien des choses, certainement sous une forme qui était celle qui était la plus appropriée,
+c’est-à-dire sous une forme *en partie voilée*.
 
 <!-- id: s10-07-0131 -->
 
@@ -669,14 +669,14 @@ Mais je crois que la référence au *transfert*...
 
 <!-- id: s10-07-0133 -->
 
-> à la limiter uniquement aux effets de répétition, aux effets de reproduction
-> ...est quelque chose qui mériterait tout à fait d’être étendu,
-> et que la dimension synchronique risque...
+à la limiter uniquement aux effets de répétition, aux effets de reproduction
+...est quelque chose qui mériterait tout à fait d’être étendu,
+et que la dimension synchronique risque...
 
 <!-- id: s10-07-0134 -->
 
-> à force d’insister sur l’élément historique, sur l’élément répétition du vécu en tout cas
-> ...risque de laisser de côté toute une dimension non moins importante, et qui est précisément
+à force d’insister sur l’élément historique, sur l’élément répétition du vécu en tout cas
+...risque de laisser de côté toute une dimension non moins importante, et qui est précisément
 
 <!-- id: s10-07-0135 -->
 
@@ -688,10 +688,10 @@ Mais je crois que la référence au *transfert*...
 
 <!-- id: s10-07-0137 -->
 
-> si vous vous en souvenez
-> ...je dési­gnais par la métaphore, il me semble *assez claire,* de la main qui se tend vers la bûche, \[*de l’analysant vers l’analyste*\]
-> et au moment où, d’atteindre cette bûche, cette bûche va s’enflammer,
-> et dans la flamme, une autre main qui apparaît, se tendant vers la première[^50]. \[*de l’analyste vers l’analysant : « transmission de la lampe »*\]
+si vous vous en souvenez
+...je dési­gnais par la métaphore, il me semble *assez claire,* de la main qui se tend vers la bûche, \[*de l’analysant vers l’analyste*\]
+et au moment où, d’atteindre cette bûche, cette bûche va s’enflammer,
+et dans la flamme, une autre main qui apparaît, se tendant vers la première[^50]. \[*de l’analyste vers l’analysant : « transmission de la lampe »*\]
 
 <!-- id: s10-07-0138 -->
 
@@ -703,9 +703,9 @@ Je pense que *l’in­suffisance de cette référence synchronique* à *la fonct
 
 <!-- id: s10-07-0140 -->
 
-> et pas étonné à la fois, pas surpris tout au moins
-> ...qu’il soit laissé *dans l’ombre*, à savoir d’un certain nombre de boiteries de la fonction sexuelle
-> qu’on peut considérer comme distribuées dans un certain champ de ce qu’on peut appeler « *le résultat post-analytique »*.
+et pas étonné à la fois, pas surpris tout au moins
+...qu’il soit laissé *dans l’ombre*, à savoir d’un certain nombre de boiteries de la fonction sexuelle
+qu’on peut considérer comme distribuées dans un certain champ de ce qu’on peut appeler « *le résultat post-analytique »*.
 
 <!-- id: s10-07-0141 -->
 
@@ -714,16 +714,16 @@ Je crois que cette analyse de *la fonction de l’analyste comme espace du champ
 
 <!-- id: s10-07-0142 -->
 
-> et on la retrouve à travers toutes ses observations
-> ...la *non [aperception](http://www.cnrtl.fr/lexicographie/aperception)* de ce qu’il y avait de proprement à analyser dans la relation *synchronique* de l’analysé à l’analyste
-> concernant cette *fonction de l’objet partiel*, on y verra...
+et on la retrouve à travers toutes ses observations
+...la *non [aperception](http://www.cnrtl.fr/lexicographie/aperception)* de ce qu’il y avait de proprement à analyser dans la relation *synchronique* de l’analysé à l’analyste
+concernant cette *fonction de l’objet partiel*, on y verra...
 
 <!-- id: s10-07-0143 -->
 
-> et si vous le voulez, j’y reviendrai
-> ...le ressort même de son échec, de l’échec de son intervention avec Dora, avec la femme du « *cas de l’homosexualité féminine* »,
-> on y verra surtout pourquoi Freud nous désigne dans l’angoisse de castration ce qu’il appelle « *la limite de l’analyse »,*
-> *précisément dans la mesure, où lui, restait pour son analysé, le siège, le lieu de cet objet partiel.*
+et si vous le voulez, j’y reviendrai
+...le ressort même de son échec, de l’échec de son intervention avec Dora, avec la femme du « *cas de l’homosexualité féminine* »,
+on y verra surtout pourquoi Freud nous désigne dans l’angoisse de castration ce qu’il appelle « *la limite de l’analyse »,*
+*précisément dans la mesure, où lui, restait pour son analysé, le siège, le lieu de cet objet partiel.*
 
 <!-- id: s10-07-0144 -->
 
@@ -746,8 +746,8 @@ L’analyse que Freud[^51] appelle *l’analyse indéfinie*, *illimitée* - et n
 
 <!-- id: s10-07-0148 -->
 
-> dont au moins je peux poser la question de savoir comment il est analysable
-> ...a été non pas, je dirai « *non ana­lysé »*, mais *révélé* d’une façon seulement partielle, où s’institue cette limite.
+dont au moins je peux poser la question de savoir comment il est analysable
+...a été non pas, je dirai « *non ana­lysé »*, mais *révélé* d’une façon seulement partielle, où s’institue cette limite.
 
 <!-- id: s10-07-0149 -->
 
@@ -791,11 +791,11 @@ Analyser ce dont il s’agit, donc uniquement au niveau de ce fantasme de *fella
 
 <!-- id: s10-07-0155 -->
 
-> telle­ment lié par l’auteur dont il s’agit \[Bouvet\] à ce qu’il appelait *la technique du « rap­procher », au rapport de la distance* considérée comme essentielle, *fondamen­tale de la structure obsessionnelle*, nommément dans ses rapports avec la psychose
-> ...c’est je crois, seulement avoir permis au sujet, voire l’avoir encou­ragé à prendre...
-> dans cette relation fantasmatique qui est celle de *L’homme aux rats*
-> ...à prendre le rôle de cet Autre, dans le mode de présence est jus­tement ici constitué par la mort,
-> de cet Autre qui regarde, en le poussant même -je dirai *fantasmatiquement,* simplement c’est la *fellatio* - un peu plus loin.
+telle­ment lié par l’auteur dont il s’agit \[Bouvet\] à ce qu’il appelait *la technique du « rap­procher », au rapport de la distance* considérée comme essentielle, *fondamen­tale de la structure obsessionnelle*, nommément dans ses rapports avec la psychose
+...c’est je crois, seulement avoir permis au sujet, voire l’avoir encou­ragé à prendre...
+dans cette relation fantasmatique qui est celle de *L’homme aux rats*
+...à prendre le rôle de cet Autre, dans le mode de présence est jus­tement ici constitué par la mort,
+de cet Autre qui regarde, en le poussant même -je dirai *fantasmatiquement,* simplement c’est la *fellatio* - un peu plus loin.
 
 <!-- id: s10-07-0156 -->
 
@@ -856,11 +856,11 @@ Autrement dit, si nous faisons confiance à cette idée...
 
 <!-- id: s10-07-0168 -->
 
-> nous avons ordinairement notre récompense à faire confiance aux choses,
->
-> même *les plus aphorismatiques* de Freud
-> ...*que le moi non seulement est une surface, mais est* – dit-il - *une* *projection d’une surface,*
-> c’est en termes topologiquement de pure surface que le problème doit se poser.
+nous avons ordinairement notre récompense à faire confiance aux choses,
+
+même *les plus aphorismatiques* de Freud
+...*que le moi non seulement est une surface, mais est* – dit-il - *une* *projection d’une surface,*
+c’est en termes topologiquement de pure surface que le problème doit se poser.
 
 <!-- id: s10-07-0169 -->
 
@@ -875,14 +875,14 @@ Faites-en maintenant l’expérience avec ce que je vous ai appris à connaître
 
 <!-- id: s10-07-0171 -->
 
-> ceux qui ne le connaissent pas encore : j’espère qu’il n’y en a pas beaucoup
-> ...dans la *bande de Mœbius,* c’est-à-dire ce que*...*
+ceux qui ne le connaissent pas encore : j’espère qu’il n’y en a pas beaucoup
+...dans la *bande de Mœbius,* c’est-à-dire ce que*...*
 
 <!-- id: s10-07-0172 -->
 
-> je le rappelle pour ceux qui n’en ont pas encore entendu parler
-> *...*vous obtenez très facilement, n’importe comment, à prendre cette ceinture,
-> *et à la* - après l’avoir ouverte - *à la renouer avec elle-même* en lui faisant faire, en cours de route, un demi-tour.
+je le rappelle pour ceux qui n’en ont pas encore entendu parler
+*...*vous obtenez très facilement, n’importe comment, à prendre cette ceinture,
+*et à la* - après l’avoir ouverte - *à la renouer avec elle-même* en lui faisant faire, en cours de route, un demi-tour.
 
 <!-- id: s10-07-0173 -->
 
@@ -904,8 +904,8 @@ Vous savez d’autre part que je vous ai dit que dans le *cross-cap*, quand par 
 
 <!-- id: s10-07-0177 -->
 
-> qui n’a d’autre condition que de *se rejoindre elle-même* après avoir inclus en elle le point troué du *cross-cap*
-> ...quand, dis-je, vous isolez une part du *cross-cap*, il reste une *bande de Mœbius* \[b\]. La par­tie résiduelle, la voici \[a\].
+qui n’a d’autre condition que de *se rejoindre elle-même* après avoir inclus en elle le point troué du *cross-cap*
+...quand, dis-je, vous isolez une part du *cross-cap*, il reste une *bande de Mœbius* \[b\]. La par­tie résiduelle, la voici \[a\].
 
 <!-- id: s10-07-0178 -->
 

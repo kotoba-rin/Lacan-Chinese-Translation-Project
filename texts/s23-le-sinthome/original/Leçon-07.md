@@ -10,7 +10,7 @@ J’avais un espoir...
 
 <!-- id: s23-07-0002 -->
 
-> et ne vous faites pas l’idée qu’il s’agit de coquetterie, de titillage, comme ça ...j’avais un espoir, j’avais mis un espoir dans le fait des vacances.
+et ne vous faites pas l’idée qu’il s’agit de coquetterie, de titillage, comme ça ...j’avais un espoir, j’avais mis un espoir dans le fait des vacances.
 
 <!-- id: s23-07-0003 -->
 
@@ -30,7 +30,7 @@ Moyennant quoi...
 
 <!-- id: s23-07-0007 -->
 
-> et puis en plus, tout ça, tout ça m’exaspère, parce que c’est pas de très bon ton. Enfin... ...moyennant quoi j’espérais passer aux confi­dences.
+et puis en plus, tout ça, tout ça m’exaspère, parce que c’est pas de très bon ton. Enfin... ...moyennant quoi j’espérais passer aux confi­dences.
 
 <!-- id: s23-07-0008 -->
 
@@ -78,7 +78,7 @@ Bon, alors je vais quand même rentrer dans ce que je suppose...
 
 <!-- id: s23-07-0019 -->
 
-> c’est une pure supposition, j’en suis réduit à supposer ...à ce que je suppose que vous avez entendu la dernière fois.
+c’est une pure supposition, j’en suis réduit à supposer ...à ce que je suppose que vous avez entendu la dernière fois.
 
 <!-- id: s23-07-0020 -->
 
@@ -118,7 +118,7 @@ Nous ne pouvons pas espérer mieux...
 
 <!-- id: s23-07-0029 -->
 
-> espérer de le placer ailleurs ...parce que tout ce que nous *pensons*, nous en sommes réduits à l’imaginer.
+espérer de le placer ailleurs ...parce que tout ce que nous *pensons*, nous en sommes réduits à l’imaginer.
 
 <!-- id: s23-07-0030 -->
 
@@ -138,7 +138,7 @@ Pour ce qui fait nœud, c’est-à-dire, au minimum, le nœud à 3, celui dont j
 
 <!-- id: s23-07-0034 -->
 
-> comme autrefois j’avais avancé cette image ...les ronds de ficelle de *l’Imaginaire, du Réel et du Symbolique*, ben il est clair qu’ils font nœud.
+comme autrefois j’avais avancé cette image ...les ronds de ficelle de *l’Imaginaire, du Réel et du Symbolique*, ben il est clair qu’ils font nœud.
 
 <!-- id: s23-07-0035 -->
 
@@ -158,11 +158,11 @@ Alors, si vous vous souvenez bien...
 
 <!-- id: s23-07-0039 -->
 
-> naturellement je n’en espère pas autant ...si vous vous souvenez bien, j’ai avancé la dernière fois cette remarque...
+naturellement je n’en espère pas autant ...si vous vous souvenez bien, j’ai avancé la dernière fois cette remarque...
 
 <!-- id: s23-07-0040 -->
 
-> cette remarque qui ne va pas de soi ...qu’il suffit qu’il y ait une erreur quelque part dans le nœud à 3, supposez par exemple, qu’au lieu de passer au-dessous ***ici***, ça passe au-dessus :
+cette remarque qui ne va pas de soi ...qu’il suffit qu’il y ait une erreur quelque part dans le nœud à 3, supposez par exemple, qu’au lieu de passer au-dessous ***ici***, ça passe au-dessus :
 
 <!-- id: s23-07-0041 -->
 
@@ -182,7 +182,7 @@ Alors, si vous vous souvenez bien...
 
 <!-- id: s23-07-0045 -->
 
-> comme il y a un nœud à 4 qui est bien connu, qui s’appelle le nœud de Listing ...j’ai appelé celui-là, comme ça, idée loufoque... , « *le nœud de Lacan* »:
+comme il y a un nœud à 4 qui est bien connu, qui s’appelle le nœud de Listing ...j’ai appelé celui-là, comme ça, idée loufoque... , « *le nœud de Lacan* »:
 
 <!-- id: s23-07-0046 -->
 
@@ -214,7 +214,7 @@ Bon, alors, ce que j’ai dit la dernière fois est ceci : faisant allusion au 
 
 <!-- id: s23-07-0053 -->
 
-> ce que j’ai appelé cette année *le sinthome* ...que *le sinthome* est ce qui, dans le borroméen, la chaîne borroméenne, est ce qui permet dans cette chaîne borroméenne, si nous n’en faisons plus chaîne, c’est à savoir si ici nous faisons ce que j’ai appelé une « *erreur »,* ici et aussi ici :
+ce que j’ai appelé cette année *le sinthome* ...que *le sinthome* est ce qui, dans le borroméen, la chaîne borroméenne, est ce qui permet dans cette chaîne borroméenne, si nous n’en faisons plus chaîne, c’est à savoir si ici nous faisons ce que j’ai appelé une « *erreur »,* ici et aussi ici :
 
 <!-- id: s23-07-0054 -->
 
@@ -246,7 +246,7 @@ Et je vous le réévoque incidemment, j’ai pensé...
 
 <!-- id: s23-07-0061 -->
 
-> faites-en ce que vous voudrez de ma pensée ...j’ai pensé que c’était là la clé de ce qui était arrivé à Joyce.
+faites-en ce que vous voudrez de ma pensée ...j’ai pensé que c’était là la clé de ce qui était arrivé à Joyce.
 
 <!-- id: s23-07-0062 -->
 
@@ -262,7 +262,7 @@ Et j’ai pensé que...
 
 <!-- id: s23-07-0065 -->
 
-> faites-en ce que vous voulez de cette pensée ...et j’ai pensé que c’est de se vouloir un nom, que Joyce a fait la compensation de la *carence paternelle*.
+faites-en ce que vous voulez de cette pensée ...et j’ai pensé que c’est de se vouloir un nom, que Joyce a fait la compensation de la *carence paternelle*.
 
 <!-- id: s23-07-0066 -->
 
@@ -318,7 +318,7 @@ Je veux dire que je n’ai pas parlé la dernière fois de sa fille Lucia...
 
 <!-- id: s23-07-0079 -->
 
-> puisqu’il a donné à ses enfants des noms italiens ...je n’ai pas parlé de la fille Lucia par un dessein de ne pas donner dans ce qu’on peut appeler la petite histoire.
+puisqu’il a donné à ses enfants des noms italiens ...je n’ai pas parlé de la fille Lucia par un dessein de ne pas donner dans ce qu’on peut appeler la petite histoire.
 
 <!-- id: s23-07-0080 -->
 
@@ -338,7 +338,7 @@ Après avoir eu le sentiment...
 
 <!-- id: s23-07-0084 -->
 
-> sentiment que je considère quant à moi comme sensé ...le sentiment de paroles qui lui étaient imposées, les choses se sont aggravées, et qu’il a eu le sentiment, non seulement que des paroles lui étaient imposées, mais qu’il était affecté de ce qu’il appelait lui-même « *télépathie »*... qui n’était pas ce qu’on appelle couramment de ce mot ...à savoir d’être averti de choses qui arrivent aux autres, mais que par contre tout le monde était averti de ce qu’il se formulait lui-même, à part lui, à savoir ses réflexions les plus intimes, et tout à fait spéciale­ment les réflexions qui lui venaient en marge des fameuses « *paroles imposées* ».
+sentiment que je considère quant à moi comme sensé ...le sentiment de paroles qui lui étaient imposées, les choses se sont aggravées, et qu’il a eu le sentiment, non seulement que des paroles lui étaient imposées, mais qu’il était affecté de ce qu’il appelait lui-même « *télépathie »*... qui n’était pas ce qu’on appelle couramment de ce mot ...à savoir d’être averti de choses qui arrivent aux autres, mais que par contre tout le monde était averti de ce qu’il se formulait lui-même, à part lui, à savoir ses réflexions les plus intimes, et tout à fait spéciale­ment les réflexions qui lui venaient en marge des fameuses « *paroles imposées* ».
 
 <!-- id: s23-07-0085 -->
 
@@ -366,7 +366,7 @@ Et ce qui le rendait tout à fait affolé, c’était la pensée que ce qu’il 
 
 <!-- id: s23-07-0091 -->
 
-> en plus de ce qu’il considérait comme des paroles qui lui étaient imposées ...c’était cela qui était aussi connu de tous les autres.
+en plus de ce qu’il considérait comme des paroles qui lui étaient imposées ...c’était cela qui était aussi connu de tous les autres.
 
 <!-- id: s23-07-0092 -->
 
@@ -378,7 +378,7 @@ Et cela-même, c’est cela qui lui a fait commettre une tentative d’en finir.
 
 <!-- id: s23-07-0094 -->
 
-> la vie lui étant de ce fait, de ce fait de n’avoir plus de secret, de n’avoir plus rien de réservé ...qui lui a fait commettre ce qu’on appelle « *une tentative de suicide* », qui était aussi bien ce pourquoi il était là, et ce pourquoi j’avais, en somme, à m’intéresser à lui.
+la vie lui étant de ce fait, de ce fait de n’avoir plus de secret, de n’avoir plus rien de réservé ...qui lui a fait commettre ce qu’on appelle « *une tentative de suicide* », qui était aussi bien ce pourquoi il était là, et ce pourquoi j’avais, en somme, à m’intéresser à lui.
 
 <!-- id: s23-07-0095 -->
 
@@ -386,13 +386,13 @@ Ce qui me pousse aujourd’hui à vous parler de la fille Lucia, est très exact
 
 <!-- id: s23-07-0096 -->
 
-> je m’en étais bien gardé la dernière fois, pour ne pas tomber dans la petite histoire ...c’est que Joyce...
+je m’en étais bien gardé la dernière fois, pour ne pas tomber dans la petite histoire ...c’est que Joyce...
 
 <!-- id: s23-07-0097 -->
 
-> Joyce qui a défendu farouchement sa fille, sa fille la schizophrène,
->
-> ce qu’on appelle schizo­phrène, contre la prise des médecins
+Joyce qui a défendu farouchement sa fille, sa fille la schizophrène,
+
+ce qu’on appelle schizo­phrène, contre la prise des médecins
 
 <!-- id: s23-07-0098 -->
 
@@ -432,7 +432,7 @@ C’est à savoir...
 
 <!-- id: s23-07-0107 -->
 
-> il est difficile dans son cas de ne pas évoquer mon propre patient tel que chez lui ça avait commencé ...c’est à savoir qu’à l’endroit de la parole, on ne peut pas dire que quelque chose n’était pas à Joyce *imposé*.
+il est difficile dans son cas de ne pas évoquer mon propre patient tel que chez lui ça avait commencé ...c’est à savoir qu’à l’endroit de la parole, on ne peut pas dire que quelque chose n’était pas à Joyce *imposé*.
 
 <!-- id: s23-07-0108 -->
 
@@ -444,9 +444,9 @@ Je veux dire que dans le progrès en quelque sorte continu qu’a constitué *so
 
 <!-- id: s23-07-0110 -->
 
-> depuis l’effort qu’il faisait dans ses premiers essais critiques, puis ensuite,
->
-> dans le *Portrait de l’Artiste,* et enfin dans *Ulysse* pour terminer par *Finnegan’s Wake* ...*il est difficile de ne pas voir qu’un certain rapport à la parole lui est de plus en plus imposé*.
+depuis l’effort qu’il faisait dans ses premiers essais critiques, puis ensuite,
+
+dans le *Portrait de l’Artiste,* et enfin dans *Ulysse* pour terminer par *Finnegan’s Wake* ...*il est difficile de ne pas voir qu’un certain rapport à la parole lui est de plus en plus imposé*.
 
 <!-- id: s23-07-0111 -->
 
@@ -470,7 +470,7 @@ En s’imposant comme telle, à savoir dans une déformation dont reste ambigu d
 
 <!-- id: s23-07-0116 -->
 
-> du parasite parolier dont je parlais tout à l’heure ...qu’il s’agit, ou au contraire de quelque chose qui se laisse envahir par les propriétés d’ordre essentiellement *phonémiques* de la parole, par la polyphonie de la parole.
+du parasite parolier dont je parlais tout à l’heure ...qu’il s’agit, ou au contraire de quelque chose qui se laisse envahir par les propriétés d’ordre essentiellement *phonémiques* de la parole, par la polyphonie de la parole.
 
 <!-- id: s23-07-0117 -->
 
@@ -518,7 +518,7 @@ Mais, si ici se renouvelle la notion de faute, est-ce que la faute...
 
 <!-- id: s23-07-0128 -->
 
-> ce dont la conscience fait *le péché* ...est de l’ordre du *lapsus* ?
+ce dont la conscience fait *le péché* ...est de l’ordre du *lapsus* ?
 
 <!-- id: s23-07-0129 -->
 
@@ -530,7 +530,7 @@ Est-ce qu’il y a dans la faute...
 
 <!-- id: s23-07-0131 -->
 
-> cette faute première dont Joyce nous fait tellement état, ...est-ce qu’il y a quelque chose de l’ordre du *lapsus* ?
+cette faute première dont Joyce nous fait tellement état, ...est-ce qu’il y a quelque chose de l’ordre du *lapsus* ?
 
 <!-- id: s23-07-0132 -->
 
@@ -546,7 +546,7 @@ Ce qu’il y a de remarquable, c’est qu’à vouloir corriger le *lapsus* au p
 
 <!-- id: s23-07-0135 -->
 
-> qu’est-ce que ça veut dire qu’il se produise là ? ...il y a équivoque puisque en deux autres points, nous avons la conséquence du lapsus qui s’est produit ailleurs.
+qu’est-ce que ça veut dire qu’il se produise là ? ...il y a équivoque puisque en deux autres points, nous avons la conséquence du lapsus qui s’est produit ailleurs.
 
 <!-- id: s23-07-0136 -->
 
@@ -578,9 +578,9 @@ Car en corrigeant la chose, *le lapsus,* dans les deux autres points...
 
 <!-- id: s23-07-0143 -->
 
-> ce qui est aussi concevable, puisque ce dont il s’agit,
->
-> c’est de faire que quelque chose subsiste de la primitive structure du *nœud à trois* ...le quelque chose qui subsiste du fait de l’intervention du *sinthome*
+ce qui est aussi concevable, puisque ce dont il s’agit,
+
+c’est de faire que quelque chose subsiste de la primitive structure du *nœud à trois* ...le quelque chose qui subsiste du fait de l’intervention du *sinthome*
 
 <!-- id: s23-07-0144 -->
 
@@ -632,7 +632,7 @@ Il vous suffit de concevoir que vous tirez les choses de telle sorte...
 
 <!-- id: s23-07-0156 -->
 
-> je parle : sur le rouge ...de sorte à faire que le rouge fasse ici un rond.
+je parle : sur le rouge ...de sorte à faire que le rouge fasse ici un rond.
 
 <!-- id: s23-07-0157 -->
 
@@ -644,7 +644,7 @@ Il y a donc strictement *équivalence,* et il n’est...
 
 <!-- id: s23-07-0159 -->
 
-> après ce que j’ai frayé autour du *rapport sexuel...*il n’est pas difficile de suggérer que quand il y a équivalence, c’est bien en cela qu’il n’y a pas de *rapport*.
+après ce que j’ai frayé autour du *rapport sexuel...*il n’est pas difficile de suggérer que quand il y a équivalence, c’est bien en cela qu’il n’y a pas de *rapport*.
 
 <!-- id: s23-07-0160 -->
 
@@ -744,7 +744,7 @@ Est-ce que ce n’est pas ce que nous démontre ce qu’on appelle...
 
 <!-- id: s23-07-0184 -->
 
-> c’est un autre usage du terme ...la clinique, c’est le cas de le dire, le lit ?
+c’est un autre usage du terme ...la clinique, c’est le cas de le dire, le lit ?
 
 <!-- id: s23-07-0185 -->
 
@@ -752,7 +752,7 @@ Quand nous voyons les êtres au lit, c’est quand même là...
 
 <!-- id: s23-07-0186 -->
 
-> pas seulement dans les lits d’hôpital ...c’est tout de même là que nous pou­vons nous faire une idée de ce qu’il en est de ce fameux rapport.
+pas seulement dans les lits d’hôpital ...c’est tout de même là que nous pou­vons nous faire une idée de ce qu’il en est de ce fameux rapport.
 
 <!-- id: s23-07-0187 -->
 
@@ -764,9 +764,9 @@ c’est le cas de le dire : *l,i,e*, cette fois-ci ...*ce rapport se lie* à qu
 
 <!-- id: s23-07-0189 -->
 
-> et c’est bien ce qui résulte - mon Dieu - de tout ce que j’entends sur un autre lit,
->
-> sur le fameux divan où on m’en raconte à la longue... ...c’est que le lien, le lien étroit du *sinthome*, c’est ce quelque chose dont il s’agit de situer ce qu’il a à faire avec *le réel*, avec le *réel de l’Inconscient*, si tant est que *l’Inconscient* soit *réel*.
+et c’est bien ce qui résulte - mon Dieu - de tout ce que j’entends sur un autre lit,
+
+sur le fameux divan où on m’en raconte à la longue... ...c’est que le lien, le lien étroit du *sinthome*, c’est ce quelque chose dont il s’agit de situer ce qu’il a à faire avec *le réel*, avec le *réel de l’Inconscient*, si tant est que *l’Inconscient* soit *réel*.
 
 <!-- id: s23-07-0190 -->
 

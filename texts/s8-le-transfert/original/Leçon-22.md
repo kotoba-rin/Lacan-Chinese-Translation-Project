@@ -42,9 +42,9 @@ Et après tout même, c’est si évident que même ce qui peut m’être le plu
 
 <!-- id: s8-22-0010 -->
 
-> je veux dire qui est le moins articulé de ce qui se révèle des façons d’aborder la situation analytique,
->
-> aussi bien dans son départ que dans son arrivée, de la façon pour laquelle je peux avoir le plus d’aversion ...c’est tout de même de ce côté-là qu’on aura entendu un jour dire comme une espèce de remarque massive - il ne s’agissait pas du transfert mais de l’action de l’analyste - que « *l’analyste agit moins par ce qu’il dit et par ce qu’il fait, que par ce qu’il est* »[^287].
+je veux dire qui est le moins articulé de ce qui se révèle des façons d’aborder la situation analytique,
+
+aussi bien dans son départ que dans son arrivée, de la façon pour laquelle je peux avoir le plus d’aversion ...c’est tout de même de ce côté-là qu’on aura entendu un jour dire comme une espèce de remarque massive - il ne s’agissait pas du transfert mais de l’action de l’analyste - que « *l’analyste agit moins par ce qu’il dit et par ce qu’il fait, que par ce qu’il est* »[^287].
 
 <!-- id: s8-22-0011 -->
 

@@ -241,7 +241,11 @@ ni l’unité que tout ceci semble impliquer.
 
 <!-- id: s5-22-0047 -->
 
-> « *...quant à l’affirmation de la cohérence du moi, elle ressort non seulement de la disparition de la symptomatologie obsessionnelle et des phénomènes de déperson­nalisation, mais encore se traduit par l’accession à un sentiment de liberté et d’unité qui est une expérience nouvelle pour ces sujets.* » \[p. 164\]
+<div class="text-quotation">
+
+« *...quant à l’affirmation de la cohérence du moi, elle ressort non seulement de la disparition de la symptomatologie obsessionnelle et des phénomènes de déperson­nalisation, mais encore se traduit par l’accession à un sentiment de liberté et d’unité qui est une expérience nouvelle pour ces sujets.* » \[p. 164\]
+
+</div>
 
 <!-- id: s5-22-0048 -->
 
@@ -291,7 +295,7 @@ diffé­remment. Et si nous prenons cette ligne \[1\] pour être la ligne de ré
 
 <!-- id: s5-22-0058 -->
 
-> <img src="assets/image74.jpeg" style="width:2.55994in;height:0.29429in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S5\62a.jpg" />
+<img src="assets/image74.jpeg" style="width:2.55994in;height:0.29429in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S5\62a.jpg" />
 
 <!-- id: s5-22-0059 -->
 
@@ -300,7 +304,7 @@ c’est-à-dire au passage, au remodèlement en fin de compte, du sujet dans les
 
 <!-- id: s5-22-0060 -->
 
-> <img src="assets/image94.jpeg" style="width:2.51667in;height:0.28273in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S5\61a.jpg" />
+<img src="assets/image94.jpeg" style="width:2.51667in;height:0.28273in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S5\61a.jpg" />
 
 <!-- id: s5-22-0061 -->
 

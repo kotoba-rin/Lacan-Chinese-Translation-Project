@@ -30,7 +30,7 @@ Qu’il nous intéresse au niveau de *la sublimation*, c’est bien certainement
 
 <!-- id: s16-16-0007 -->
 
-> pour appeler par son nom ce qui aujourd’hui centre, fait la visée, de ce que nous énonçons sur *la sublimation* …*l’œuvre d’art* ne se présente pas autrement au niveau où FREUD la saisit… s’oblige lui-même à ne pouvoir la saisir autrement …que *comme une valeur commerciale*.
+pour appeler par son nom ce qui aujourd’hui centre, fait la visée, de ce que nous énonçons sur *la sublimation* …*l’œuvre d’art* ne se présente pas autrement au niveau où FREUD la saisit… s’oblige lui-même à ne pouvoir la saisir autrement …que *comme une valeur commerciale*.
 
 <!-- id: s16-16-0008 -->
 
@@ -54,7 +54,7 @@ C’est très précisément dans la mesure où seulement à prendre la fonction 
 
 <!-- id: s16-16-0013 -->
 
-> conformément à tout ce qui s’énoncede la fonction de l’ensemble …comme laissant l’élément lui-même en *puissance d’ensemble*, égaler ce résidu quoique distinct sous la fonction du *a*, au poids de l’Autre dans son ensemble.
+conformément à tout ce qui s’énoncede la fonction de l’ensemble …comme laissant l’élément lui-même en *puissance d’ensemble*, égaler ce résidu quoique distinct sous la fonction du *a*, au poids de l’Autre dans son ensemble.
 
 <!-- id: s16-16-0014 -->
 
@@ -98,7 +98,7 @@ Or il est facile de s’apercevoir que de ces quatre structures topologiques, *l
 
 <!-- id: s16-16-0024 -->
 
-> tels qu’ils fonctionnent effectivement dans les rapports engendrés du sujet à l’Autre dans le *réel* …*reflètent un par un* - il y en a quatre aussi - *ces quatre structures*.
+tels qu’ils fonctionnent effectivement dans les rapports engendrés du sujet à l’Autre dans le *réel* …*reflètent un par un* - il y en a quatre aussi - *ces quatre structures*.
 
 <!-- id: s16-16-0025 -->
 
@@ -126,7 +126,7 @@ Mais encore devons-nous entièrement nous fier au fait que ces *fantasmes* nous 
 
 <!-- id: s16-16-0031 -->
 
-> ai-je besoin de rappeler seulement les noms de KRAFFT-­EBING et de HAVELOCK ELLIS …présentait d’une façon descriptive ce champ dit « *des perversions sexuelles* ».
+ai-je besoin de rappeler seulement les noms de KRAFFT-­EBING et de HAVELOCK ELLIS …présentait d’une façon descriptive ce champ dit « *des perversions sexuelles* ».
 
 <!-- id: s16-16-0032 -->
 
@@ -134,7 +134,7 @@ On sait *la difficulté* que très vite après ce premier abord…
 
 <!-- id: s16-16-0033 -->
 
-> après tout déjà d’un ordre topologique puisqu’il s’agissait de névrose …de trouver en quelque sorte - puisqu’on disait *l’envers -* je ne sais quoi qui déjà se présentait comme l’annonce de ces surfaces qui tant nous intéressent, de *ce qui survient quand une coupure les tranche*.
+après tout déjà d’un ordre topologique puisqu’il s’agissait de névrose …de trouver en quelque sorte - puisqu’on disait *l’envers -* je ne sais quoi qui déjà se présentait comme l’annonce de ces surfaces qui tant nous intéressent, de *ce qui survient quand une coupure les tranche*.
 
 <!-- id: s16-16-0034 -->
 
@@ -174,7 +174,7 @@ Les autres jonctions…
 
 <!-- id: s16-16-0043 -->
 
-> *signifié* *en tant qu’issu du* A *posé comme le* *trésor des signifiants* \[*s*(A)\] …ne constituent au point où nous en sommes *qu’un simple rappel*.
+*signifié* *en tant qu’issu du* A *posé comme le* *trésor des signifiants* \[*s*(A)\] …ne constituent au point où nous en sommes *qu’un simple rappel*.
 
 <!-- id: s16-16-0044 -->
 
@@ -198,7 +198,7 @@ Ce que je veux ici avancer, puisque aussi bien je ne l’ai jamais vu distingué
 
 <!-- id: s16-16-0049 -->
 
-> de celui fondamental au niveau de quoi nous pouvons affirmer qu’il n’y a pas de métalangage …que rien de tout ce qui est *symbolique* ne saurait s’édifier que du discours normal, ceci nous pouvons le spécifier de la catégorie que je distingue comme le *symbolique* et nous apercevoir que *ce dont il s’agit dans la chaîne supérieure,* *c’est très précisément de ses effets dans le réel*, aussi bien le sujet qui est son premier et majeur effet n’apparaît-il qu’au niveau de cette chaîne seconde.
+de celui fondamental au niveau de quoi nous pouvons affirmer qu’il n’y a pas de métalangage …que rien de tout ce qui est *symbolique* ne saurait s’édifier que du discours normal, ceci nous pouvons le spécifier de la catégorie que je distingue comme le *symbolique* et nous apercevoir que *ce dont il s’agit dans la chaîne supérieure,* *c’est très précisément de ses effets dans le réel*, aussi bien le sujet qui est son premier et majeur effet n’apparaît-il qu’au niveau de cette chaîne seconde.
 
 <!-- id: s16-16-0050 -->
 
@@ -218,7 +218,7 @@ N’est-il pas étrange qu’après avoir mis dans l’expérience tant d’acce
 
 <!-- id: s16-16-0054 -->
 
-> prétendues ébauches dites *prégénitales* de quelque chose qui viendrait à maturité en comblant
+prétendues ébauches dites *prégénitales* de quelque chose qui viendrait à maturité en comblant
 
 <!-- id: s16-16-0055 -->
 
@@ -270,11 +270,11 @@ Qu’est-ce qui empêche de *s’apercevoir qu’avant de s’interroger sur ce 
 
 <!-- id: s16-16-0067 -->
 
-> à savoir si ça fait peur ou pas au témoin qui paraît la provoquer, à savoir si c’est bien dans l’intention de l’*exhibitionniste* de provoquer cette pudeur, *cet effroi*, cet *écho*, ce *quelque chose* de farouche ou de consentant …qui ne voit pas d’abord que l’essentiel de cette face…
+à savoir si ça fait peur ou pas au témoin qui paraît la provoquer, à savoir si c’est bien dans l’intention de l’*exhibitionniste* de provoquer cette pudeur, *cet effroi*, cet *écho*, ce *quelque chose* de farouche ou de consentant …qui ne voit pas d’abord que l’essentiel de cette face…
 
 <!-- id: s16-16-0068 -->
 
-> que vous qualifierez comme vous voulez, active ou passive, je vous en laisse le choix …de la pulsion scoptophilique - en apparence elle est passive *puisqu’elle donne à voir* - c’est à proprement parler et avant tout, de faire apparaître au champ de l’Autre *le regard* ?
+que vous qualifierez comme vous voulez, active ou passive, je vous en laisse le choix …de la pulsion scoptophilique - en apparence elle est passive *puisqu’elle donne à voir* - c’est à proprement parler et avant tout, de faire apparaître au champ de l’Autre *le regard* ?
 
 <!-- id: s16-16-0069 -->
 
@@ -310,7 +310,7 @@ C’est bien en cela que certaines analyses, et toujours en effet les plus innoc
 
 <!-- id: s16-16-0077 -->
 
-> *après avoir* - comme je l’ai fait la dernière fois - *jeté le doute de quelque manque de sérieux sur une certaine philosophie* …de ne pas me souvenir aussi de l’extraordinaire pointe de ce qui est saisi dans l’analyse de *la fonction du voyeur* [^64].
+*après avoir* - comme je l’ai fait la dernière fois - *jeté le doute de quelque manque de sérieux sur une certaine philosophie* …de ne pas me souvenir aussi de l’extraordinaire pointe de ce qui est saisi dans l’analyse de *la fonction du voyeur* [^64].
 
 <!-- id: s16-16-0078 -->
 
@@ -382,13 +382,13 @@ C’est à peu près le même cas dans les rapports entre *le sadique* et *le ma
 
 <!-- id: s16-16-0095 -->
 
-> vivant à une époque en somme où nous avons très bien ressuscité toutes les pratiques de « *la question* », de « *la question* » au temps où ça jouait un rôle dans les mœurs judiciaires à un niveau élevé, maintenant qu’on a laissé ça à des opérateurs qui font ça au nom de je ne sais quelle folie dans le genre « *intérêt de la patrie* » ou « *de la troupe* » …il est curieux…
+vivant à une époque en somme où nous avons très bien ressuscité toutes les pratiques de « *la question* », de « *la question* » au temps où ça jouait un rôle dans les mœurs judiciaires à un niveau élevé, maintenant qu’on a laissé ça à des opérateurs qui font ça au nom de je ne sais quelle folie dans le genre « *intérêt de la patrie* » ou « *de la troupe* » …il est curieux…
 
 <!-- id: s16-16-0096 -->
 
-> après avoir vu aussi quelques petits *jeux de scène* [^65] avec lesquels, après la guerre où il s’est passé pas mal de choses,
->
-> la dernière dans ce genre, on prolongeait un peu le plaisir *sur les planches* en nous en montrant des simulacres …il est étrange qu’on ne s’aperçoive pas de la fonction essentielle que joue à ce niveau d’abord *la parole* : l’aveu.
+après avoir vu aussi quelques petits *jeux de scène* [^65] avec lesquels, après la guerre où il s’est passé pas mal de choses,
+
+la dernière dans ce genre, on prolongeait un peu le plaisir *sur les planches* en nous en montrant des simulacres …il est étrange qu’on ne s’aperçoive pas de la fonction essentielle que joue à ce niveau d’abord *la parole* : l’aveu.
 
 <!-- id: s16-16-0097 -->
 
@@ -420,7 +420,7 @@ La chère mère, comme l’illustre DELEUZE[^66], à la voix froide et parcourue
 
 <!-- id: s16-16-0104 -->
 
-> cette voix que peut-être il n’a que trop entendue ailleurs, du côté de son père …vient en quelque sorte *compléter* et là aussi *boucher* le trou.
+cette voix que peut-être il n’a que trop entendue ailleurs, du côté de son père …vient en quelque sorte *compléter* et là aussi *boucher* le trou.
 
 <!-- id: s16-16-0105 -->
 
@@ -448,7 +448,7 @@ Si l’on peut parler d’un certain *masochisme moral*, ce ne peut être fondé
 
 <!-- id: s16-16-0111 -->
 
-> et non sans que soit possible une certaine dérision qui apparaît dans les marges du fonctionnement masochiste …c’est au niveau de l’Autre et de la remise à lui de la voix, *que l’axe de fonctionnement, l’axe de gravité du masochiste joue*.
+et non sans que soit possible une certaine dérision qui apparaît dans les marges du fonctionnement masochiste …c’est au niveau de l’Autre et de la remise à lui de la voix, *que l’axe de fonctionnement, l’axe de gravité du masochiste joue*.
 
 <!-- id: s16-16-0112 -->
 
@@ -456,7 +456,7 @@ Disons-le, il suffit d’avoir vécu à notre époque pour saisir, pour savoir q
 
 <!-- id: s16-16-0113 -->
 
-> et d’autant plus qu’il est moins valorisable, qu’il a moins d’autorité …*dans cette remise à l’Autre de la fonction de la voix*. D’une certaine façon, ce mode *de dérobement, de vol de la jouissance* peut être, de toutes celles perverses imaginables, la seule qui soit jamais pleinement réussie.
+et d’autant plus qu’il est moins valorisable, qu’il a moins d’autorité …*dans cette remise à l’Autre de la fonction de la voix*. D’une certaine façon, ce mode *de dérobement, de vol de la jouissance* peut être, de toutes celles perverses imaginables, la seule qui soit jamais pleinement réussie.
 
 <!-- id: s16-16-0114 -->
 
@@ -536,7 +536,7 @@ Derrière le sein…
 
 <!-- id: s16-16-0133 -->
 
-> et tout aussi plaqué que lui sur le mur qui sépare l’enfant de la femme …le placenta est là pour nous rappeler que loin que l’enfant dans le corps de la mère - et avec lui - fasse un seul corps, il n’y est même pas enfermé dans ses enveloppes, il n’y est point un œuf normal, il est brisé, rompu dans cette enveloppe par cet élément de placage par lequel aussi bien, nous le savons maintenant, peuvent lier et jouer *tous les conflits*, qui ressortissent à la place de *byzantinisme*, au *mélange des sangs* et à l’incompatibilité de tel groupe avec tel autre.
+et tout aussi plaqué que lui sur le mur qui sépare l’enfant de la femme …le placenta est là pour nous rappeler que loin que l’enfant dans le corps de la mère - et avec lui - fasse un seul corps, il n’y est même pas enfermé dans ses enveloppes, il n’y est point un œuf normal, il est brisé, rompu dans cette enveloppe par cet élément de placage par lequel aussi bien, nous le savons maintenant, peuvent lier et jouer *tous les conflits*, qui ressortissent à la place de *byzantinisme*, au *mélange des sangs* et à l’incompatibilité de tel groupe avec tel autre.
 
 <!-- id: s16-16-0134 -->
 
@@ -544,7 +544,7 @@ Cette fonction d’un objet tiers que j’ai appelé « *plaque* », « *pend
 
 <!-- id: s16-16-0135 -->
 
-> car nous le reverrons sous ses formes éminentes dans tout ce qui de la culture s’édifie …*la chose accrochée au mur et qui leurre* : est-ce que ce n’est pas ce qui apparaît effectivement dans l’expérience du névrosé ?
+car nous le reverrons sous ses formes éminentes dans tout ce qui de la culture s’édifie …*la chose accrochée au mur et qui leurre* : est-ce que ce n’est pas ce qui apparaît effectivement dans l’expérience du névrosé ?
 
 <!-- id: s16-16-0136 -->
 
@@ -556,7 +556,7 @@ Ce dont il s’agit pour lui…
 
 <!-- id: s16-16-0138 -->
 
-> nous le verrons, je l’articulerai en détail et déjà vous pouvez en trouver les premières lignes dessinées d’une façon parfaitement claire dans cet article …c’est de *l’impossibilité de faire rentrer sur le plan imaginaire cet objet petit(a) en conjonction avec l’image narcissique*.
+nous le verrons, je l’articulerai en détail et déjà vous pouvez en trouver les premières lignes dessinées d’une façon parfaitement claire dans cet article …c’est de *l’impossibilité de faire rentrer sur le plan imaginaire cet objet petit(a) en conjonction avec l’image narcissique*.
 
 <!-- id: s16-16-0139 -->
 

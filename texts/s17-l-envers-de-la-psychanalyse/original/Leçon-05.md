@@ -26,13 +26,17 @@ C’est à lui que je répondais dans certains propos que j’ai tenus il y a un
 
 <!-- id: s17-05-0006 -->
 
-> « *Comment peut-il se faire autrement que d’appréhender toute cette activité psychique,*
->
-> *comment peut-il se faire de l’appréhender autrement que comme un rêve,*
->
-> *quand on entend mille et mille fois en cours de journée cette chaîne bâtarde de destin et d’inertie,*
->
-> *de coups de dés et de stupeur, de faux succès et de rencontres méconnues, qui font le texte courant d’une vie humaine ?* »[^18]
+<div class="text-quotation">
+
+« *Comment peut-il se faire autrement que d’appréhender toute cette activité psychique,*
+
+*comment peut-il se faire de l’appréhender autrement que comme un rêve,*
+
+*quand on entend mille et mille fois en cours de journée cette chaîne bâtarde de destin et d’inertie,*
+
+*de coups de dés et de stupeur, de faux succès et de rencontres méconnues, qui font le texte courant d’une vie humaine ?* »[^18]
+
+</div>
 
 <!-- id: s17-05-0007 -->
 
@@ -160,9 +164,9 @@ Aux dernières nouvelles M. Gillespie...
 
 <!-- id: s17-05-0038 -->
 
-> personnage éminent à s’être distingué par toutes sortes d’opérations de marchandage
->
-> entre les différents courants qui ont parcouru l’analyse dans ces cinquante dernières années ...marque je ne sais quelle allégresse dans le dernier numéro paru de l’*International Journal of Psycho-Analysis*, une allégresse singulière quand au fait, au fait que grâce à un cer­tain nombre d’expériences qui se seraient poursuivies à l’université de Washington sur l’orgasme vaginal, une vive lumière serait projetée \[*Rires*\] sur ce qui faisait débat, de savoir de la primauté, ou non, dans le développe­ment de la femme, d’une jouissance d’abord réduite à l’équivalent de *la jouissance mâle*. Ces travaux d’un nommé Masters et d’un autre, Johnson sont, à vrai dire, non sans intérêt.
+personnage éminent à s’être distingué par toutes sortes d’opérations de marchandage
+
+entre les différents courants qui ont parcouru l’analyse dans ces cinquante dernières années ...marque je ne sais quelle allégresse dans le dernier numéro paru de l’*International Journal of Psycho-Analysis*, une allégresse singulière quand au fait, au fait que grâce à un cer­tain nombre d’expériences qui se seraient poursuivies à l’université de Washington sur l’orgasme vaginal, une vive lumière serait projetée \[*Rires*\] sur ce qui faisait débat, de savoir de la primauté, ou non, dans le développe­ment de la femme, d’une jouissance d’abord réduite à l’équivalent de *la jouissance mâle*. Ces travaux d’un nommé Masters et d’un autre, Johnson sont, à vrai dire, non sans intérêt.
 
 <!-- id: s17-05-0039 -->
 
@@ -174,7 +178,7 @@ je dois dire que c’est sans avoir pu me reporter directe­ment au texte, mais 
 
 <!-- id: s17-05-0041 -->
 
-> et recueillant les images en couleurs \[*Rires*\], mis à l’intérieur d’un appendice qui est là pour représenter le pénis introduit, et qui donc de l’intérieur ainsi saisit ce qui se passe sur la paroi qui à son intro­duction l’entoure ...je me demande comment peut être saisi par cet appareil le point de vue de « *la personnalité totale* ». \[*Rires*\]
+et recueillant les images en couleurs \[*Rires*\], mis à l’intérieur d’un appendice qui est là pour représenter le pénis introduit, et qui donc de l’intérieur ainsi saisit ce qui se passe sur la paroi qui à son intro­duction l’entoure ...je me demande comment peut être saisi par cet appareil le point de vue de « *la personnalité totale* ». \[*Rires*\]
 
 <!-- id: s17-05-0042 -->
 
@@ -318,9 +322,9 @@ Elle *bouche*, par l’adoration de l’objet de désir qu’est devenue à son 
 
 <!-- id: s17-05-0077 -->
 
-> par cette femme dont elle s’enveloppe, celle qui dans l’observation s’appelle M<sup>me</sup> K
->
-> et qu’elle adore sous la figure de cette Madone de Dresde qu’elle va contempler ...elle *bouche*, par cette adoration, sa revendication pénienne.
+par cette femme dont elle s’enveloppe, celle qui dans l’observation s’appelle M<sup>me</sup> K
+
+et qu’elle adore sous la figure de cette Madone de Dresde qu’elle va contempler ...elle *bouche*, par cette adoration, sa revendication pénienne.
 
 <!-- id: s17-05-0078 -->
 
@@ -584,9 +588,13 @@ Et que ça ait conduit nécessairement à ceci, que Freud leur a dit aux sujets�
 
 <!-- id: s17-05-0143 -->
 
-> « *parlez, parlez donc, faites donc comme les hystériques, on va bien voir quel est le savoir que vous rencontrez,*
->
-> *et la façon dont vous, vous y êtes aspiré, ou au contraire dont vous le repoussez, on va voir ce qui se passe* », ...c’est là qu’il a fait cette découverte, celle qu’il appelle de « *l’au-delà du principe du plaisir* ».
+<div class="text-quotation">
+
+« *parlez, parlez donc, faites donc comme les hystériques, on va bien voir quel est le savoir que vous rencontrez,*
+
+*et la façon dont vous, vous y êtes aspiré, ou au contraire dont vous le repoussez, on va voir ce qui se passe* », ...c’est là qu’il a fait cette découverte, celle qu’il appelle de « *l’au-delà du principe du plaisir* ».
+
+</div>
 
 <!-- id: s17-05-0144 -->
 
@@ -722,9 +730,9 @@ D’autre part, la formalisation d’un savoir qui rend toute vérité problé­
 
 <!-- id: s17-05-0177 -->
 
-> plutôt que ce qu’on nous indique d’un progrès survenu par le travail de l’esclave,
->
-> *comme si dans sa condition il y avait eu le moindre progrès*, bien au contraire ...que quelque chose peut nous donner l’idée plutôt d’un transfert, d’une spoliation, de ce qui en était au départ de ce savoir inscrit, recelé, dans le monde de l’esclave, mais auprès de quoi c’est *le discours du Maître* qui avait à s’imposer.
+plutôt que ce qu’on nous indique d’un progrès survenu par le travail de l’esclave,
+
+*comme si dans sa condition il y avait eu le moindre progrès*, bien au contraire ...que quelque chose peut nous donner l’idée plutôt d’un transfert, d’une spoliation, de ce qui en était au départ de ce savoir inscrit, recelé, dans le monde de l’esclave, mais auprès de quoi c’est *le discours du Maître* qui avait à s’imposer.
 
 <!-- id: s17-05-0178 -->
 
@@ -780,9 +788,9 @@ N’est-ce pas l’idéal même d’une formalisation où plus rien ne compte...
 
 <!-- id: s17-05-0191 -->
 
-> car l’énergie n’est rien d’autre que ce qui se compte,
->
-> ce qui, si vous manipulez d’une certaine façon les formules, se trouve toujours faire le même total ...ce qu’ici ce glissement, ce *quart de tour* \[*anti-horaire*\] qui fait que c’est à la place du Maître \[**S<sub>1</sub>**\] que s’instaure une articulation éminemment nouvelle \[**S<sub>2 →</sub> *a***\], complètement réductible formellement à du *savoir*.
+car l’énergie n’est rien d’autre que ce qui se compte,
+
+ce qui, si vous manipulez d’une certaine façon les formules, se trouve toujours faire le même total ...ce qu’ici ce glissement, ce *quart de tour* \[*anti-horaire*\] qui fait que c’est à la place du Maître \[**S<sub>1</sub>**\] que s’instaure une articulation éminemment nouvelle \[**S<sub>2 →</sub> *a***\], complètement réductible formellement à du *savoir*.
 
 <!-- id: s17-05-0192 -->
 
@@ -794,7 +802,7 @@ N’est-ce pas l’idéal même d’une formalisation où plus rien ne compte...
 
 <!-- id: s17-05-0194 -->
 
-> (*quart de tour anti-horaire*)
+(*quart de tour anti-horaire*)
 
 <!-- id: s17-05-0195 -->
 
@@ -802,7 +810,7 @@ Ce que Marx dénonce, dénonce de ce procès de spoliation...
 
 <!-- id: s17-05-0196 -->
 
-> sans se rendre compte que c’est dans *le savoir* même qu’en est le secret ...comme la réduction du travailleur lui-même à n’être plus rien lui-même que valeur \[*d’échange *: *le travail comme marchandise*\] : le *plus de jouir* passé un étage au dessus, n’est rien d’autre que ce rapport où quelque chose qui n’est plus « *plus de jouir »,* mais s’inscrit simplement comme *valeur,* à inscrire ou à déduire de la totalité de ce qui s’accumule, ce qui s’accumule d’une nature essentiel­lement transformée, le travailleur n’est qu’*unité de valeur*.
+sans se rendre compte que c’est dans *le savoir* même qu’en est le secret ...comme la réduction du travailleur lui-même à n’être plus rien lui-même que valeur \[*d’échange *: *le travail comme marchandise*\] : le *plus de jouir* passé un étage au dessus, n’est rien d’autre que ce rapport où quelque chose qui n’est plus « *plus de jouir »,* mais s’inscrit simplement comme *valeur,* à inscrire ou à déduire de la totalité de ce qui s’accumule, ce qui s’accumule d’une nature essentiel­lement transformée, le travailleur n’est qu’*unité de valeur*.
 
 <!-- id: s17-05-0197 -->
 
@@ -822,7 +830,7 @@ La société des consommateurs prend son sens de ceci, que ce qui en fait « *l
 
 <!-- id: s17-05-0201 -->
 
-> l’élément entre guillemets qu’on qualifie d’« *humain* » ...*à ceux-là* est donné l’équivalent homogène \[*équivalent général : la monnaie*\] de n’importe quel *plus de jouir* qui est le produit de notre industrie, un *plus de jouir en toc* pour tout dire.
+l’élément entre guillemets qu’on qualifie d’« *humain* » ...*à ceux-là* est donné l’équivalent homogène \[*équivalent général : la monnaie*\] de n’importe quel *plus de jouir* qui est le produit de notre industrie, un *plus de jouir en toc* pour tout dire.
 
 <!-- id: s17-05-0202 -->
 
@@ -870,9 +878,9 @@ Pour ce qui est du champ de la jouissance...
 
 <!-- id: s17-05-0213 -->
 
-> hélas qu’on n’appellera jamais - car je n’aurai sûrement pas le temps,
->
-> même d’en ébau­cher les bases - qu’on n’appellera jamais « *le champ lacanien* » ...pour ce qui est du champ de la jouissance il y a des remarques à faire.
+hélas qu’on n’appellera jamais - car je n’aurai sûrement pas le temps,
+
+même d’en ébau­cher les bases - qu’on n’appellera jamais « *le champ lacanien* » ...pour ce qui est du champ de la jouissance il y a des remarques à faire.
 
 <!-- id: s17-05-0214 -->
 
@@ -900,9 +908,9 @@ Il est extraordinaire que... que personne, que personne alors pour le coup n’a
 
 <!-- id: s17-05-0220 -->
 
-> comme la psychanalyse - je l’ai dit un jour - c’est fait par le psychanalyste,
->
-> c’est sa principale caractéris­tique : il faut partir du psychanalyste ...pourquoi, à propos de la richesse, on ne partirait pas du riche ?
+comme la psychanalyse - je l’ai dit un jour - c’est fait par le psychanalyste,
+
+c’est sa principale caractéris­tique : il faut partir du psychanalyste ...pourquoi, à propos de la richesse, on ne partirait pas du riche ?
 
 <!-- id: s17-05-0221 -->
 
@@ -942,7 +950,7 @@ Bien sûr c’est pas pareil, ce n’est pas aussi simple que M. Brillouin[^22] 
 
 <!-- id: s17-05-0230 -->
 
-> et c’est ce que je vous prie d’aller voir dans le « *Satiricon »* ...*que parce qu’il s’est racheté*.
+et c’est ce que je vous prie d’aller voir dans le « *Satiricon »* ...*que parce qu’il s’est racheté*.
 
 <!-- id: s17-05-0231 -->
 

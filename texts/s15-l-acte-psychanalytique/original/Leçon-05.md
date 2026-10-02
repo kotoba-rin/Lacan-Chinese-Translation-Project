@@ -14,7 +14,7 @@ Elle est comme la lune, pourtant quand elle a fini, elle recommence, et ce point
 
 <!-- id: s15-05-0003 -->
 
-> comme chacun sait et comme une locution familière le rappelle …à l’intention de *pas n’importe qui*.
+comme chacun sait et comme une locution familière le rappelle …à l’intention de *pas n’importe qui*.
 
 <!-- id: s15-05-0004 -->
 
@@ -58,7 +58,7 @@ Il est un peu surprenant qu’il ne soit pas venu…
 
 <!-- id: s15-05-0014 -->
 
-> d’une façon maintenant qui soit courante, admise dans la conscience commune …qu’il y a une relation certaine entre la cassure qui s’est produite dans l’évolution de la science au début du XVII<sup>ème</sup> siècle et la réalisation, l’avènement de la portée véritable de ce mythe de *la Création* qui aura donc mis seize siècles à parvenir à sa véritable incidence, à ce qu’on peut, à travers cette époque, appeler *la conscience chrétienne*. Je ne saurais trop revenir sur cette remarque qui, comme je le souligne à chaque fois, n’est pas de moi mais d’Alexandre KOYRÉ[^36].
+d’une façon maintenant qui soit courante, admise dans la conscience commune …qu’il y a une relation certaine entre la cassure qui s’est produite dans l’évolution de la science au début du XVII<sup>ème</sup> siècle et la réalisation, l’avènement de la portée véritable de ce mythe de *la Création* qui aura donc mis seize siècles à parvenir à sa véritable incidence, à ce qu’on peut, à travers cette époque, appeler *la conscience chrétienne*. Je ne saurais trop revenir sur cette remarque qui, comme je le souligne à chaque fois, n’est pas de moi mais d’Alexandre KOYRÉ[^36].
 
 <!-- id: s15-05-0015 -->
 
@@ -92,7 +92,7 @@ Vous sentez que, quand nous allons maintenant nous engager dans cette voie d’i
 
 <!-- id: s15-05-0022 -->
 
-> un peu plus que je n’ai pu le faire dans ces premiers mois …pointer qu’à notre horizon nous avons ce qu’il peut en être de tout acte, de cet acte dont j’ai montré tout à l’heure le caractère inaugural et dont, si l’on peut dire, le type est véhiculé pour nous à travers cette méditation vacillante qui se poursuit autour de la politique, par l’acte dit du « *Rubicon* » par exemple. Derrière lui, d’autres se profilent :
+un peu plus que je n’ai pu le faire dans ces premiers mois …pointer qu’à notre horizon nous avons ce qu’il peut en être de tout acte, de cet acte dont j’ai montré tout à l’heure le caractère inaugural et dont, si l’on peut dire, le type est véhiculé pour nous à travers cette méditation vacillante qui se poursuit autour de la politique, par l’acte dit du « *Rubicon* » par exemple. Derrière lui, d’autres se profilent :
 
 <!-- id: s15-05-0023 -->
 
@@ -116,13 +116,17 @@ Après tout la question vaut bien d’être posée ici à un certain départ, ca
 
 <!-- id: s15-05-0028 -->
 
-> « *Un coup de ton doigt sur le tambour décharge tous les sons et commence la nouvelle harmonie.*
->
-> *Un pas de toi, c’est la levée des nouveaux hommes et leur « en-marche ».*
->
-> *Ta tête se détourne : le nouvel amour !*
->
-> *Ta tête se retourne, - le nouvel amour !* »
+<div class="text-quotation">
+
+« *Un coup de ton doigt sur le tambour décharge tous les sons et commence la nouvelle harmonie.*
+
+*Un pas de toi, c’est la levée des nouveaux hommes et leur « en-marche ».*
+
+*Ta tête se détourne : le nouvel amour !*
+
+*Ta tête se retourne, - le nouvel amour !* »
+
+</div>
 
 <!-- id: s15-05-0029 -->
 
@@ -166,7 +170,7 @@ Il est tout à fait certain que la révélation du « *je pense* » de l’inc
 
 <!-- id: s15-05-0039 -->
 
-> tout le monde sait cela, *qu’on ait fait de la psychanalyse ou pas*, il suffit d’ouvrir un bouquin et de voir de quoi il s’agit …*quelque chose* qui, au niveau de ce que le *cogito* de DESCARTES nous fait toucher de l’implication du « *donc je suis* », cette dimension que j’appellerai de *désamorçage*, qui fait que là où le plus sûrement « *je pense* », à m’en apercevoir, *j’y étais*, mais exactement comme on dit - *vous savez que j’ai déjà usé de cet exemple, l’expérience m’apprend qu’il n’est pas vain de se répéter –* c’est au même sens, selon l’exemple extrait des remarques du linguiste GUILLAUME[^42], que cet emploi très spécifique de l’imparfait en français qui fait toute l’ambiguïté de l’expression : « *Un instant plus tard, la bombe éclatait. *»
+tout le monde sait cela, *qu’on ait fait de la psychanalyse ou pas*, il suffit d’ouvrir un bouquin et de voir de quoi il s’agit …*quelque chose* qui, au niveau de ce que le *cogito* de DESCARTES nous fait toucher de l’implication du « *donc je suis* », cette dimension que j’appellerai de *désamorçage*, qui fait que là où le plus sûrement « *je pense* », à m’en apercevoir, *j’y étais*, mais exactement comme on dit - *vous savez que j’ai déjà usé de cet exemple, l’expérience m’apprend qu’il n’est pas vain de se répéter –* c’est au même sens, selon l’exemple extrait des remarques du linguiste GUILLAUME[^42], que cet emploi très spécifique de l’imparfait en français qui fait toute l’ambiguïté de l’expression : « *Un instant plus tard, la bombe éclatait. *»
 
 <!-- id: s15-05-0040 -->
 
@@ -224,7 +228,7 @@ Je n’y suis plus, exactement : je n’y suis plus, en termes de langage, de l
 
 <!-- id: s15-05-0053 -->
 
-> ayant dessiné en dessous les deux cercles et leur intersection …j’ai marqué... avec tous les guillemets de la prudence et pour vous dire qu’il ne faut pas trop que vous vous alarmiez ...ce « *faux être* ».
+ayant dessiné en dessous les deux cercles et leur intersection …j’ai marqué... avec tous les guillemets de la prudence et pour vous dire qu’il ne faut pas trop que vous vous alarmiez ...ce « *faux être* ».
 
 <!-- id: s15-05-0054 -->
 
@@ -244,7 +248,7 @@ Seulement, quand même, je voudrais bien marquer la distinction de ce que j’av
 
 <!-- id: s15-05-0058 -->
 
-> parce que après tout c’était dans FREUD - c’est dit, répété, seriné - j’ai pris *le stade du miroir* pour faire là un portemanteau, c’est même beaucoup plus accentué tout de suite que je n’ai jamais pu le faire au cours d’énonciations qui ménageaient les sensibilités …qu’il n’y a pas d’amour qui ne relève de cette dimension narcissique, que si l’on sait lire FREUD, ce qui s’oppose au narcissisme, ce qui s’appelle libido objectale… ce qui concerne ce qui est là \[voir schéma\] au coin en bas à gauche, *l’objet(a)*, car c’est ça la libido objectale …ça n’a rien à faire avec l’amour puisque l’amour c’est le narcissisme et que les deux s’opposent : la libido narcissique et la libido objectale.
+parce que après tout c’était dans FREUD - c’est dit, répété, seriné - j’ai pris *le stade du miroir* pour faire là un portemanteau, c’est même beaucoup plus accentué tout de suite que je n’ai jamais pu le faire au cours d’énonciations qui ménageaient les sensibilités …qu’il n’y a pas d’amour qui ne relève de cette dimension narcissique, que si l’on sait lire FREUD, ce qui s’oppose au narcissisme, ce qui s’appelle libido objectale… ce qui concerne ce qui est là \[voir schéma\] au coin en bas à gauche, *l’objet(a)*, car c’est ça la libido objectale …ça n’a rien à faire avec l’amour puisque l’amour c’est le narcissisme et que les deux s’opposent : la libido narcissique et la libido objectale.
 
 <!-- id: s15-05-0059 -->
 
@@ -272,7 +276,7 @@ En tous les cas, il faudrait ici proposer ce petit exercice : qu’est-ce que c�
 
 <!-- id: s15-05-0065 -->
 
-> c’est à dessein que je n’en ai pas posé la question l’année dernière, parce qu’à la vérité, comme plus d’un point de cette logique du fantasme, nous aurions dû le laisser en suspens …épinglons-le d’ἀρχή \[arché\] , puisque c’est ainsi que nous sommes entrés aujourd’hui par le commencement.
+c’est à dessein que je n’en ai pas posé la question l’année dernière, parce qu’à la vérité, comme plus d’un point de cette logique du fantasme, nous aurions dû le laisser en suspens …épinglons-le d’ἀρχή \[arché\] , puisque c’est ainsi que nous sommes entrés aujourd’hui par le commencement.
 
 <!-- id: s15-05-0066 -->
 
@@ -316,7 +320,7 @@ Assurément, l’année dernière, c’est là ce vers quoi…
 
 <!-- id: s15-05-0076 -->
 
-> puisque c’était notre départ et, si je puis dire, l’acte initial de notre déduction logique …nous ne pouvions pas revenir si nous n’avions eu ce qui constitue l’ouverture, la béance toujours nécessaire à retrouver dans tout exposé du champ analytique qui nous a fait, après avoir édifié ces temps de *La logique du fantasme*, passer le dernier trimestre autour d’un acte sexuel précisément défini de ceci qu’il constitue une aporie.
+puisque c’était notre départ et, si je puis dire, l’acte initial de notre déduction logique …nous ne pouvions pas revenir si nous n’avions eu ce qui constitue l’ouverture, la béance toujours nécessaire à retrouver dans tout exposé du champ analytique qui nous a fait, après avoir édifié ces temps de *La logique du fantasme*, passer le dernier trimestre autour d’un acte sexuel précisément défini de ceci qu’il constitue une aporie.
 
 <!-- id: s15-05-0077 -->
 
@@ -384,7 +388,7 @@ Alors là, il faut quand même que serve à quelque chose ce que j’ai avancé 
 
 <!-- id: s15-05-0093 -->
 
-> dont nous avons beaucoup fait, me semble-t-il, pour vous donner le sens et la pratique …et d’autre part, ce manque qui subsiste au niveau du sujet naturel, du sujet de la connaissance, du « *faux être* » du sujet, ce manque qui de toujours se définit comme essence de l’homme et qui s’appelle le désir, mais qui, à la fin d’une analyse, se traduit de cette chose, non seulement formulée mais incarnée, qui s’appelle la castration : c’est ce que nous avons l’habitude d’étiqueter sous la lettre du « - J ».
+dont nous avons beaucoup fait, me semble-t-il, pour vous donner le sens et la pratique …et d’autre part, ce manque qui subsiste au niveau du sujet naturel, du sujet de la connaissance, du « *faux être* » du sujet, ce manque qui de toujours se définit comme essence de l’homme et qui s’appelle le désir, mais qui, à la fin d’une analyse, se traduit de cette chose, non seulement formulée mais incarnée, qui s’appelle la castration : c’est ce que nous avons l’habitude d’étiqueter sous la lettre du « - J ».
 
 <!-- id: s15-05-0094 -->
 
@@ -404,7 +408,7 @@ Il y a le « *là où c’était* », ici \[schéma en haut à gauche\] inscri
 
 <!-- id: s15-05-0098 -->
 
-> je l’ai dit déjà, je le répète pour que vous ne le laissiez pas passer …où il reste attaché à ce sujet comme manque.
+je l’ai dit déjà, je le répète pour que vous ne le laissiez pas passer …où il reste attaché à ce sujet comme manque.
 
 <!-- id: s15-05-0099 -->
 
@@ -420,9 +424,9 @@ Dirons-nous... Dirons-nous - d’ailleurs pour nous reprendre - justement : «�
 
 <!-- id: s15-05-0102 -->
 
-> c’est parce que je vous exposais le résultat de mes petits schémas de l’année dernière,
->
-> supposés sus par vous si tant est qu’il n’y ait pas là quelque abus …c’est avec ce savoir que je l’ai passé - ce temps - trop vite, c’est-à-dire *dans la hâte* qui, comme vous le savez, laisse justement échapper *la vérité*. Cela nous permet de vivre, d’ailleurs.
+c’est parce que je vous exposais le résultat de mes petits schémas de l’année dernière,
+
+supposés sus par vous si tant est qu’il n’y ait pas là quelque abus …c’est avec ce savoir que je l’ai passé - ce temps - trop vite, c’est-à-dire *dans la hâte* qui, comme vous le savez, laisse justement échapper *la vérité*. Cela nous permet de vivre, d’ailleurs.
 
 <!-- id: s15-05-0103 -->
 
@@ -442,7 +446,7 @@ S’il y a quelque chose que nous rappelle l’expérience analytique, c’est q
 
 <!-- id: s15-05-0107 -->
 
-> où vraiment l’on peut dire qu’on ne comprend rien à rien à ces questions …le mot *self* a dû sortir, qui ne s’adapte nulle part dans la théorie psychanalytique, rien n’y correspond, le sujet dépend de cette cause qui le fait divisé et qui s’appelle *l’objet(a)*.
+où vraiment l’on peut dire qu’on ne comprend rien à rien à ces questions …le mot *self* a dû sortir, qui ne s’adapte nulle part dans la théorie psychanalytique, rien n’y correspond, le sujet dépend de cette cause qui le fait divisé et qui s’appelle *l’objet(a)*.
 
 <!-- id: s15-05-0108 -->
 
@@ -522,7 +526,7 @@ De là seulement peut-être, peut-on procéder à une résurgence de l’être d
 
 <!-- id: s15-05-0127 -->
 
-> celle qui pourrait se faire du signifiant de l’Autre enfin évanoui vers ce qui le remplace, puisque aussi bien c’est de son champ, *du champ de l’Autre* que ceci a été arraché, à savoir cet objet qui s’appelle *l’objet(a)* …ce serait aussi s’apercevoir que l’être tel qu’il peut surgir de quelque acte que ce soit, est *être sans essence*, comme sont *sans essence tous les objets(a)*, c’est ce qui les caractérise : *objets sans essence* qui sont ou non dans l’acte à ré-évoquer à partir de cette sorte de sujet qui, nous le verrons, est le sujet de *l’acte*, de tout *acte* dirai-je, en tant que, comme le *sujet supposé savoir*, au bout de l’expérience analytique, c’est un sujet qui, dans *l’acte*, n’y est pas.
+celle qui pourrait se faire du signifiant de l’Autre enfin évanoui vers ce qui le remplace, puisque aussi bien c’est de son champ, *du champ de l’Autre* que ceci a été arraché, à savoir cet objet qui s’appelle *l’objet(a)* …ce serait aussi s’apercevoir que l’être tel qu’il peut surgir de quelque acte que ce soit, est *être sans essence*, comme sont *sans essence tous les objets(a)*, c’est ce qui les caractérise : *objets sans essence* qui sont ou non dans l’acte à ré-évoquer à partir de cette sorte de sujet qui, nous le verrons, est le sujet de *l’acte*, de tout *acte* dirai-je, en tant que, comme le *sujet supposé savoir*, au bout de l’expérience analytique, c’est un sujet qui, dans *l’acte*, n’y est pas.
 
 ## Notes
 

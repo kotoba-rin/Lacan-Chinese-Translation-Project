@@ -10,11 +10,19 @@ Je note quelquefois, à part moi, des petites « *adresses* » à votre intent
 
 <!-- id: s16-05-0002 -->
 
-> «* Qu’il est regrettable…* écrivais-je, je ne sais plus quand
+<div class="text-quotation">
+
+«* Qu’il est regrettable…* écrivais-je, je ne sais plus quand
+
+</div>
 
 <!-- id: s16-05-0003 -->
 
-> …*que Dieu serve à écarter par ce que nous appellerons la proscription de son Nom.* »
+<div class="text-quotation">
+
+…*que Dieu serve à écarter par ce que nous appellerons la proscription de son Nom.* »
+
+</div>
 
 <!-- id: s16-05-0004 -->
 
@@ -22,7 +30,11 @@ Je note quelquefois, à part moi, des petites « *adresses* » à votre intent
 
 <!-- id: s16-05-0005 -->
 
-> « *Cette proscription, justement, sert à écarter…*
+<div class="text-quotation">
+
+« *Cette proscription, justement, sert à écarter…*
+
+</div>
 
 <!-- id: s16-05-0006 -->
 
@@ -30,11 +42,15 @@ Commençais-je à dire
 
 <!-- id: s16-05-0007 -->
 
-> …*un certain nombre de références absolument essentielles au maintien du* « *je* » *dans une lumière suffisante, suffisante pour qu’on ne puisse pas le jeter…* il y a « *je* » là-dedans
+…*un certain nombre de références absolument essentielles au maintien du* « *je* » *dans une lumière suffisante, suffisante pour qu’on ne puisse pas le jeter…* il y a « *je* » là-dedans
 
 <!-- id: s16-05-0008 -->
 
-> …*le jeter aux chiens, c’est-à-dire aux professeurs.* »
+<div class="text-quotation">
+
+…*le jeter aux chiens, c’est-à-dire aux professeurs.* »
+
+</div>
 
 <!-- id: s16-05-0009 -->
 
@@ -58,7 +74,7 @@ C’est-à­-dire que, comme je l’ai déjà fait remarquer dans le séminaire 
 
 <!-- id: s16-05-0014 -->
 
-> sous la forme de ce qui depuis se transmet dans l’impératif de la liste des « *Dix Commandements* » dits de Dieu …n’a fait - je l’ai expliqué il y a bien longtemps - qu’énoncer les lois du « *je parle* ».
+sous la forme de ce qui depuis se transmet dans l’impératif de la liste des « *Dix Commandements* » dits de Dieu …n’a fait - je l’ai expliqué il y a bien longtemps - qu’énoncer les lois du « *je parle* ».
 
 <!-- id: s16-05-0015 -->
 
@@ -96,7 +112,7 @@ Il convient donc…
 
 <!-- id: s16-05-0023 -->
 
-> il convient pour autant qu’il existe une technique qui fait confiance à ce discours pour y retrouver quelque chose, un chemin, une « *voie* » comme on dit qui se présume n’être pas sans rapport avec - *comme on s’exprime mais méfions* -*nous toujours des envers du discours* - « *la vérité* » et « *la vie* » \[cf. Évangile Jean : 14, 6\] …il convient peut-être d’interroger de plus près ce qui dans ce discours se fonde comme pouvant amorcer, nous donner un pont vers ce terme radical, inaccessible, qu’avec quelque audace le dernier des philosophes - HEGEL - crut pouvoir réduire à sa dialectique.
+il convient pour autant qu’il existe une technique qui fait confiance à ce discours pour y retrouver quelque chose, un chemin, une « *voie* » comme on dit qui se présume n’être pas sans rapport avec - *comme on s’exprime mais méfions* -*nous toujours des envers du discours* - « *la vérité* » et « *la vie* » \[cf. Évangile Jean : 14, 6\] …il convient peut-être d’interroger de plus près ce qui dans ce discours se fonde comme pouvant amorcer, nous donner un pont vers ce terme radical, inaccessible, qu’avec quelque audace le dernier des philosophes - HEGEL - crut pouvoir réduire à sa dialectique.
 
 <!-- id: s16-05-0024 -->
 
@@ -148,7 +164,7 @@ Alors, avant de préjuger ce qu’il en est de l’Autre, laissons ouverte la qu
 
 <!-- id: s16-05-0036 -->
 
-> ce qui est, après tout, concevable puisque vous pouvez choisir un niveau où il se réduit aux phonèmes …il est démontrable qu’à la seule condition de croire que vous pouvez y rassembler quoi que ce soit dont vous pourriez énoncer ce jugement - *c’est le sujet, le terme nécessité par ce rassemblement* - ce choix sera forcément à situer hors de cette totalité.
+ce qui est, après tout, concevable puisque vous pouvez choisir un niveau où il se réduit aux phonèmes …il est démontrable qu’à la seule condition de croire que vous pouvez y rassembler quoi que ce soit dont vous pourriez énoncer ce jugement - *c’est le sujet, le terme nécessité par ce rassemblement* - ce choix sera forcément à situer hors de cette totalité.
 
 <!-- id: s16-05-0037 -->
 
@@ -168,11 +184,11 @@ C’est ça l’événement du discours par lequel celui même qui le dit, se po
 
 <!-- id: s16-05-0041 -->
 
-> qui d’ailleurs, peut présenter selon les langues des morphologies distinctes, qui n’est pas nécessairement isolé …*le sujet grammatical* ici a un rapport avec ce que j’ai appelé tout à l’heure « *l’hors champ* », plus ou moins individualisé comme je viens de le rappeler, c’est-à-dire aussi bien, par exemple, réduit à une désinence, « *pleut* ». Le « t », ce petit « t »…
+qui d’ailleurs, peut présenter selon les langues des morphologies distinctes, qui n’est pas nécessairement isolé …*le sujet grammatical* ici a un rapport avec ce que j’ai appelé tout à l’heure « *l’hors champ* », plus ou moins individualisé comme je viens de le rappeler, c’est-à-dire aussi bien, par exemple, réduit à une désinence, « *pleut* ». Le « t », ce petit « t »…
 
 <!-- id: s16-05-0042 -->
 
-> d’ailleurs, que vous retrouverez baladeur dans toutes sortes de coins du français …lui-même, *pourquoi nous revient-il se loger là où il n’a que faire ?* Dans un « *orne-t-il* » par exemple ? C’est-à-dire là où il n’était pas du tout dans la conjugaison. *Ce sujet grammatical donc*, si difficile à bien cerner, *n’est que la place où quelque chose vient à se représenter*.
+d’ailleurs, que vous retrouverez baladeur dans toutes sortes de coins du français …lui-même, *pourquoi nous revient-il se loger là où il n’a que faire ?* Dans un « *orne-t-il* » par exemple ? C’est-à-dire là où il n’était pas du tout dans la conjugaison. *Ce sujet grammatical donc*, si difficile à bien cerner, *n’est que la place où quelque chose vient à se représenter*.
 
 <!-- id: s16-05-0043 -->
 
@@ -192,7 +208,7 @@ J’aurai bien sûr à y revenir, car cette place est…
 
 <!-- id: s16-05-0047 -->
 
-> même par rapport à ce qui a été jusqu’ici énoncé quant aux fonctions logiques …peut-être encore pas assez accentuée, *qu’essayer de qualifier le sujet comme tel nous met hors-l’Autre*.
+même par rapport à ce qui a été jusqu’ici énoncé quant aux fonctions logiques …peut-être encore pas assez accentuée, *qu’essayer de qualifier le sujet comme tel nous met hors-l’Autre*.
 
 <!-- id: s16-05-0048 -->
 
@@ -256,11 +272,11 @@ Est-ce qu’il ne vous semble pas que, comme peut-être…
 
 <!-- id: s16-05-0063 -->
 
-> à condition qu’un auditoire aussi nombreux y mette quelque complaisance …comme peut-être nous pourrons le faire sentir dans quelque construction, quitte…
+à condition qu’un auditoire aussi nombreux y mette quelque complaisance …comme peut-être nous pourrons le faire sentir dans quelque construction, quitte…
 
 <!-- id: s16-05-0064 -->
 
-> comme je l’ai fait déjà à propos de ce champ de l’Autre …à l’abréger, il puisse être en quelque sorte rendu nécessaire *dans un énoncé de discours*, *qu’il ne saurait même y avoir de signifiant*, comme semble-t-il on peut le faire, car à aborder ce champ de l’extérieur de la logique, rien ne nous empêche semble-t-il, de forger le signifiant dont se connote ce qui, dans l’articulation signifiante même, fait défaut.
+comme je l’ai fait déjà à propos de ce champ de l’Autre …à l’abréger, il puisse être en quelque sorte rendu nécessaire *dans un énoncé de discours*, *qu’il ne saurait même y avoir de signifiant*, comme semble-t-il on peut le faire, car à aborder ce champ de l’extérieur de la logique, rien ne nous empêche semble-t-il, de forger le signifiant dont se connote ce qui, dans l’articulation signifiante même, fait défaut.
 
 <!-- id: s16-05-0065 -->
 
@@ -272,7 +288,7 @@ Est-ce que tous ceux qui sont ici et qui sont analystes ne se rendent pas compte
 
 <!-- id: s16-05-0067 -->
 
-> qui est bien ce que j’espère vous avez senti au passage être l’analogue de ce que j’énonce …que *la notion de la castration* reste si floue, si incertaine et se trouve maniée avec l’épaisseur et la brutalité que l’on sait ?
+qui est bien ce que j’espère vous avez senti au passage être l’analogue de ce que j’énonce …que *la notion de la castration* reste si floue, si incertaine et se trouve maniée avec l’épaisseur et la brutalité que l’on sait ?
 
 <!-- id: s16-05-0068 -->
 
@@ -284,7 +300,7 @@ Bref, je ne ferai, pour quitter ce dont aujourd’hui je ne fais que tracer le p
 
 <!-- id: s16-05-0070 -->
 
-> sans pouvoir même prévoir ce que d’ici la fin de l’année j’arriverai à vous faire supporter …que simplement en passant j’indique que si quelque chose a pu être énoncé dans le champ logique, vous pouvez, tous ceux tout au moins qui ici ont quelque notion des derniers théorèmes avancés dans le développement de la logique, ceux-là savent que c’est très précisément :
+sans pouvoir même prévoir ce que d’ici la fin de l’année j’arriverai à vous faire supporter …que simplement en passant j’indique que si quelque chose a pu être énoncé dans le champ logique, vous pouvez, tous ceux tout au moins qui ici ont quelque notion des derniers théorèmes avancés dans le développement de la logique, ceux-là savent que c’est très précisément :
 
 <!-- id: s16-05-0071 -->
 
@@ -328,7 +344,7 @@ Que c’est un pas, que c’est un acquis et qu’à quiconque se trouve confron
 
 <!-- id: s16-05-0080 -->
 
-> qui nous paraît comme une aporie transcendante au regard d’une histoire naturelle …comme est l’*expérience analytique*, nous ne voyons pas l’intérêt à aller prendre appui dans le champ de ces structures.
+qui nous paraît comme une aporie transcendante au regard d’une histoire naturelle …comme est l’*expérience analytique*, nous ne voyons pas l’intérêt à aller prendre appui dans le champ de ces structures.
 
 <!-- id: s16-05-0081 -->
 
@@ -408,7 +424,7 @@ Cette signification quelle est-elle ? Car n’est-il pas sensible que tout ce di
 
 <!-- id: s16-05-0100 -->
 
-> que je file pour donner l’armature au « *je* » de l’interrogation dont s’institue cette expérience …n’est-il pas sensible *que je le poursuis en ne laissant en-dehors* - au moins jusqu’à ce point où nous arrivons ici - *aucune signification* ?
+que je file pour donner l’armature au « *je* » de l’interrogation dont s’institue cette expérience …n’est-il pas sensible *que je le poursuis en ne laissant en-dehors* - au moins jusqu’à ce point où nous arrivons ici - *aucune signification* ?
 
 <!-- id: s16-05-0101 -->
 
@@ -460,7 +476,7 @@ Aucune signification qui ne fuit au regard de ce que contient une coupe, et il e
 
 <!-- id: s16-05-0113 -->
 
-> comme en témoignent, paraît-il, le bas-allemand et le néerlandais avec lesquels nous l’avons en commun …est un terme pré-celtique. C’est donc qu’il nous vient de loin : du néolithique, pas moins.
+comme en témoignent, paraît-il, le bas-allemand et le néerlandais avec lesquels nous l’avons en commun …est un terme pré-celtique. C’est donc qu’il nous vient de loin : du néolithique, pas moins.
 
 <!-- id: s16-05-0114 -->
 
@@ -468,7 +484,11 @@ Mais il y a mieux. C’est que pour avoir cette idée - au moins lui donner une 
 
 <!-- id: s16-05-0115 -->
 
-> « *Nous y voyons inscrit le mot Potus.* »
+<div class="text-quotation">
+
+« *Nous y voyons inscrit le mot Potus.* »
+
+</div>
 
 <!-- id: s16-05-0116 -->
 

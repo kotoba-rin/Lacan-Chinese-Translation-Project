@@ -172,13 +172,13 @@ abou­tit, a pour horizon - pour une raison qui du reste à ce moment est attach
 
 <!-- id: s5-28-0033 -->
 
-> Parce qu’il ne faut pas nous précipiter, nous verrons après pourquoi et comment cela peut se concevoir.
->
-> Ce n’est pas *si simple* de parler - avec M<sup>me</sup> Mélanie KLEIN - de « *pulsion agressive primordiale* ». Si nous partons de là, lisons la sorte de *mauvaiseté* primordiale de ce nourrisson dont le marquis de SADE nous souligne que son premier mouvement était, après tout, et s’il le pouvait, de mordre et de déchirer le sein de sa mère.
->
-> Bien sûr, à la vérité cette articulation du problème du désir dans sa perversité fon­cière, c’est bien quelque chose dont ce n’est pas en vain que cela nous ramène à cet horizon du « *divin marquis* » qui, vous le savez, n’est pas le seul de son temps à avoir posé d’une façon très intense et très aiguë, cette question
->
-> sur les rapports du *désir* et de « *la nature* », sur cette « *harmonie* » ou « *dysharmonie* » foncière qui fait en somme le fond de cette interrogation passionnée qui est absolument inséparable de toute la philosophie dite de l’*Aufklärung,* qui portait tout \[...\] de littérature du temps, sur laquelle, dans des séminaires anciens - je pense à mes premiers séminaires - j’avais pris appui pour montrer une analogie sur laquelle je reviendrai l’année prochaine à propos du *désir,* cette parenté entre l’interrogation première et l’interrogation sur la limite* :*
+Parce qu’il ne faut pas nous précipiter, nous verrons après pourquoi et comment cela peut se concevoir.
+
+Ce n’est pas *si simple* de parler - avec M<sup>me</sup> Mélanie KLEIN - de « *pulsion agressive primordiale* ». Si nous partons de là, lisons la sorte de *mauvaiseté* primordiale de ce nourrisson dont le marquis de SADE nous souligne que son premier mouvement était, après tout, et s’il le pouvait, de mordre et de déchirer le sein de sa mère.
+
+Bien sûr, à la vérité cette articulation du problème du désir dans sa perversité fon­cière, c’est bien quelque chose dont ce n’est pas en vain que cela nous ramène à cet horizon du « *divin marquis* » qui, vous le savez, n’est pas le seul de son temps à avoir posé d’une façon très intense et très aiguë, cette question
+
+sur les rapports du *désir* et de « *la nature* », sur cette « *harmonie* » ou « *dysharmonie* » foncière qui fait en somme le fond de cette interrogation passionnée qui est absolument inséparable de toute la philosophie dite de l’*Aufklärung,* qui portait tout \[...\] de littérature du temps, sur laquelle, dans des séminaires anciens - je pense à mes premiers séminaires - j’avais pris appui pour montrer une analogie sur laquelle je reviendrai l’année prochaine à propos du *désir,* cette parenté entre l’interrogation première et l’interrogation sur la limite* :*
 
 <!-- id: s5-28-0034 -->
 
@@ -299,10 +299,10 @@ Et ce *Père* qui nommé­ment intervient sous la forme des *complexes* donnés 
 
 <!-- id: s5-28-0059 -->
 
-> également : découverte de *l’analyse*, découverte dont on n’avait pas le moindre soupçon avant *l’analyse*, découverte dont je crois que je vous ai cette année articulé le lien avec la nécessaire impensabilité
-> …en dehors du fait que le *phallus* a ce rôle très précisément d’être porté à la *signification, signifiant* *une image*,
-> *une image privilégiée, vitale*, à savoir *l’image du phallus*, mais qui ici prend fonction de ce quelque chose
-> qui en somme va marquer cette sorte d’incidence, d’impact dans lequel *le désir* est frappé par l’interdiction \[<sub>→</sub> *d(0)*\].
+également : découverte de *l’analyse*, découverte dont on n’avait pas le moindre soupçon avant *l’analyse*, découverte dont je crois que je vous ai cette année articulé le lien avec la nécessaire impensabilité
+…en dehors du fait que le *phallus* a ce rôle très précisément d’être porté à la *signification, signifiant* *une image*,
+*une image privilégiée, vitale*, à savoir *l’image du phallus*, mais qui ici prend fonction de ce quelque chose
+qui en somme va marquer cette sorte d’incidence, d’impact dans lequel *le désir* est frappé par l’interdiction \[<sub>→</sub> *d(0)*\].
 
 <!-- id: s5-28-0060 -->
 
@@ -345,9 +345,13 @@ Et vous savez l’importance de ces commandements que le sujet reçoit :
 
 <!-- id: s5-28-0067 -->
 
-> « *Tu passeras ton examen avant telle date*… »
-> ou
-> « *Que se passerait-il, dit-il, si je recevais le commandement : «Tu vas te trancher la gorge » ?* »
+<div class="text-quotation">
+
+« *Tu passeras ton examen avant telle date*… »
+ou
+« *Que se passerait-il, dit-il, si je recevais le commandement : «Tu vas te trancher la gorge » ?* »
+
+</div>
 
 <!-- id: s5-28-0068 -->
 
@@ -568,9 +572,13 @@ Il n’y a pas trace de *quoi que ce soit* qui y ressemble. Voyez comme on s’
 
 <!-- id: s5-28-0110 -->
 
-> « *Renée était liée à elle sur un plan exclusivement sadomasochique. L’alliance mère-fille jouait ici avec une extrême rigueur*
-> *et toute transgression du pacte provoquait un mouvement d’une violence extrême qui, jusqu’à ces derniers temps,*
-> *ne fut jamais objectivée. Toute personne s’immisçant dans cette union était l’objet de souhaits de mort*... » \[p. 219\]
+<div class="text-quotation">
+
+« *Renée était liée à elle sur un plan exclusivement sadomasochique. L’alliance mère-fille jouait ici avec une extrême rigueur*
+*et toute transgression du pacte provoquait un mouvement d’une violence extrême qui, jusqu’à ces derniers temps,*
+*ne fut jamais objectivée. Toute personne s’immisçant dans cette union était l’objet de souhaits de mort*... » \[p. 219\]
+
+</div>
 
 <!-- id: s5-28-0111 -->
 
@@ -838,7 +846,11 @@ ce n’est pas un commandement moral, c’est un commandement justement fondé s
 
 <!-- id: s5-28-0159 -->
 
-> « *Tu aimeras ton prochain comme toi-même* ».
+<div class="text-quotation">
+
+« *Tu aimeras ton prochain comme toi-même* ».
+
+</div>
 
 <!-- id: s5-28-0160 -->
 

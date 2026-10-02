@@ -14,7 +14,7 @@ Eh bien, à la vérité, ce que j’avais fait était ça : c’est un borromée
 
 <!-- id: s26-08-0003 -->
 
-> alors que la personne qui m’a écrit l’a réduit à ce qui est \[*un borroméen*\] normal \[ II \], ...à savoir que ceci \[*bo. généralisé*\] a été découvert en mettant en continuité ces deux : vert et noir \[ III \].
+alors que la personne qui m’a écrit l’a réduit à ce qui est \[*un borroméen*\] normal \[ II \], ...à savoir que ceci \[*bo. généralisé*\] a été découvert en mettant en continuité ces deux : vert et noir \[ III \].
 
 <!-- id: s26-08-0004 -->
 

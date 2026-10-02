@@ -158,7 +158,7 @@ Ce sont en effet des crêtes qui se situent entre chacun de ces domaines. Et je 
 
 <!-- id: s1-23-0039 -->
 
-> la *Verliebtheit* est autre chose que la *Liebe*, si l’on donne deux mots différents ce n’est pas sans raison
+la *Verliebtheit* est autre chose que la *Liebe*, si l’on donne deux mots différents ce n’est pas sans raison
 
 <!-- id: s1-23-0040 -->
 
@@ -174,9 +174,9 @@ Pour ne pas refaire toute la dialectique de l’investissement narcissique à ce
 
 <!-- id: s1-23-0043 -->
 
-> et je dois dire la vue la plus lucide chez ceux des analystes qui ont le mieux compris
->
-> ce qui était là l’en­seignement de FREUD et celui de notre expérience
+et je dois dire la vue la plus lucide chez ceux des analystes qui ont le mieux compris
+
+ce qui était là l’en­seignement de FREUD et celui de notre expérience
 
 <!-- id: s1-23-0044 -->
 
@@ -580,9 +580,9 @@ C’est en d’autres termes dans ce qui d’ailleurs a toujours été dit d’u
 
 <!-- id: s1-23-0144 -->
 
-> ceux qui ont assisté à mon séminaire sur *L’Homme aux loups* voient là à quelle référence je fais allusion.
->
-> Je ne peux pas trop m’y arrêter aujour­d’hui, mais je le réintroduis ici, ce *« temps pour com­prendre »*
+ceux qui ont assisté à mon séminaire sur *L’Homme aux loups* voient là à quelle référence je fais allusion.
+
+Je ne peux pas trop m’y arrêter aujour­d’hui, mais je le réintroduis ici, ce *« temps pour com­prendre »*
 
 <!-- id: s1-23-0145 -->
 

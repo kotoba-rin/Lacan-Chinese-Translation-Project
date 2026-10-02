@@ -22,7 +22,7 @@ De ce savoir que dans l’inscription des discours...
 
 <!-- id: s20-08-0005 -->
 
-> ceux dont j’ai cru pouvoir vous exemplifier que se supporte le lien social ...dans cette inscription des discours, j’ai mis, j’ai écrit S<sub>2</sub> pour symboliser ce *savoir*.
+ceux dont j’ai cru pouvoir vous exemplifier que se supporte le lien social ...dans cette inscription des discours, j’ai mis, j’ai écrit S<sub>2</sub> pour symboliser ce *savoir*.
 
 <!-- id: s20-08-0006 -->
 
@@ -38,7 +38,7 @@ Peut-être arriverai-je à vous faire sentir pourquoi, pourquoi ça va plus loin
 
 <!-- id: s20-08-0009 -->
 
-> par rapport au *signifiant pur*, à celui qui s’inscrit du S<sub>1</sub> ...que c’est plus qu’une *secondarité* \[S<sub>2</sub>\], que c’est une désarticulation fondamentale. \[*à poser la relation de* S<sub>1</sub> *à* S<sub>2</sub> *on aboutit à une impasse pour chaque produit du discours* : S<sub>2</sub> ◊ a (H), a ◊ S (M), S ◊ S<sub>1</sub> (U)\]
+par rapport au *signifiant pur*, à celui qui s’inscrit du S<sub>1</sub> ...que c’est plus qu’une *secondarité* \[S<sub>2</sub>\], que c’est une désarticulation fondamentale. \[*à poser la relation de* S<sub>1</sub> *à* S<sub>2</sub> *on aboutit à une impasse pour chaque produit du discours* : S<sub>2</sub> ◊ a (H), a ◊ S (M), S ◊ S<sub>1</sub> (U)\]
 
 <!-- id: s20-08-0010 -->
 
@@ -86,7 +86,7 @@ Ceci étant posé, qui doit vous garder...
 
 <!-- id: s20-08-0021 -->
 
-> jusqu’au point où je pourrai en pousser mon élucidation cette année, ...de comprendre trop vite ce qui se supporte de cette inscription.
+jusqu’au point où je pourrai en pousser mon élucidation cette année, ...de comprendre trop vite ce qui se supporte de cette inscription.
 
 <!-- id: s20-08-0022 -->
 
@@ -94,9 +94,9 @@ Ceci étant posé, qui doit vous garder...
 
 <!-- id: s20-08-0023 -->
 
-> de φρόνησις \[phronesis\], comme on s’exprime dans la langue grecque, où bien des choses ont été dites,
->
-> mais qui sont restées loin en somme de ce que *le discours analytique* nous permet d’articuler ...prises donc ces précautions de prudence, voici à peu près ce qui est inscrit au tableau.
+de φρόνησις \[phronesis\], comme on s’exprime dans la langue grecque, où bien des choses ont été dites,
+
+mais qui sont restées loin en somme de ce que *le discours analytique* nous permet d’articuler ...prises donc ces précautions de prudence, voici à peu près ce qui est inscrit au tableau.
 
 <!-- id: s20-08-0024 -->
 
@@ -120,11 +120,11 @@ Par contre, en face vous avez l’inscription de ceci : que pour une part des �
 
 <!-- id: s20-08-0029 -->
 
-> comme il se formule expressément dans la théorie freudienne ...à tout être parlant il est permis, quel qu’il soit : pourvu ou non des attributs de la masculinité...
+comme il se formule expressément dans la théorie freudienne ...à tout être parlant il est permis, quel qu’il soit : pourvu ou non des attributs de la masculinité...
 
 <!-- id: s20-08-0030 -->
 
-> attributs qui restent à déterminer ...pourvu ou non de ces attributs, il peut s’inscrire dans l’autre part, et *ce* comme quoi il s’inscrit c’est justement de ne permettre aucune universalité, d’être ce « *pas tout* » \[.\], en tant qu’il a en somme le choix
+attributs qui restent à déterminer ...pourvu ou non de ces attributs, il peut s’inscrire dans l’autre part, et *ce* comme quoi il s’inscrit c’est justement de ne permettre aucune universalité, d’être ce « *pas tout* » \[.\], en tant qu’il a en somme le choix
 
 <!-- id: s20-08-0031 -->
 
@@ -148,7 +148,7 @@ Au-dessous, sous la barre, la barre transversale où se croise la division verti
 
 <!-- id: s20-08-0036 -->
 
-> non certes pour le privilégier d’aucune façon ...inscrit ici du S, et de ce Φ qui le supporte comme *signifiant* \[**S<sub>1</sub>**\] :
+non certes pour le privilégier d’aucune façon ...inscrit ici du S, et de ce Φ qui le supporte comme *signifiant* \[**S<sub>1</sub>**\] :
 
 <!-- id: s20-08-0037 -->
 
@@ -164,11 +164,11 @@ Il ne lui est donné d’atteindre ce partenaire...
 
 <!-- id: s20-08-0040 -->
 
-> ce partenaire qui est l’Autre, l’Autre avec un grand A ...que par l’intermédiaire de ceci : *qu’il est la cause de son désir*, mais qu’à ce titre
+ce partenaire qui est l’Autre, l’Autre avec un grand A ...que par l’intermédiaire de ceci : *qu’il est la cause de son désir*, mais qu’à ce titre
 
 <!-- id: s20-08-0041 -->
 
-> comme l’indique ailleurs dans mes graphes la conjonction pointée de ce S et de ce *a* \[S◊a\] ...qu’il n’est rien d’autre que *fantasme*.
+comme l’indique ailleurs dans mes graphes la conjonction pointée de ce S et de ce *a* \[S◊a\] ...qu’il n’est rien d’autre que *fantasme*.
 
 <!-- id: s20-08-0042 -->
 
@@ -176,7 +176,7 @@ Ce *fantasme* fait aussi bien pour ce sujet...
 
 <!-- id: s20-08-0043 -->
 
-> en tant qu’il y est pris comme tel ...le support de ce qu’on appelle expressément dans la théorie freudienne « *le principe de réalité »*.
+en tant qu’il y est pris comme tel ...le support de ce qu’on appelle expressément dans la théorie freudienne « *le principe de réalité »*.
 
 <!-- id: s20-08-0044 -->
 
@@ -184,7 +184,7 @@ Ce que j’aborde cette année \[*l’autre côté*\] est très précisément ce
 
 <!-- id: s20-08-0045 -->
 
-> l’articulation théorique de Freud, ...très précisément ceci que dans Freud est laissé de côté, est laissé de côté expressément, d’une façon avouée, le *« Was will das Weib ? »,* le *« Que veut la Femme ? »,* que la théorie de Freud comme telle expressément avoue ignorer.
+l’articulation théorique de Freud, ...très précisément ceci que dans Freud est laissé de côté, est laissé de côté expressément, d’une façon avouée, le *« Was will das Weib ? »,* le *« Que veut la Femme ? »,* que la théorie de Freud comme telle expressément avoue ignorer.
 
 <!-- id: s20-08-0046 -->
 
@@ -196,7 +196,7 @@ Qu’est-ce à dire, sinon qu’un champ qui n’est tout de même pas rien, cel
 
 <!-- id: s20-08-0048 -->
 
-> si l’on peut dire et si tant est que cet être assume, assume quoi que ce soit de son sort ...ce qui s’appelle *improprement* \[*La femme*\], puisqu’ici je vous rappelle ce que j’ai souligné la dernière fois, c’est que ce « La » de « La femme », à partir du moment où il ne s’énonce que d’un « *pas tout* », ne peut s’écrire... qu’il n’y a ici de « La » que barré : <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" />
+si l’on peut dire et si tant est que cet être assume, assume quoi que ce soit de son sort ...ce qui s’appelle *improprement* \[*La femme*\], puisqu’ici je vous rappelle ce que j’ai souligné la dernière fois, c’est que ce « La » de « La femme », à partir du moment où il ne s’énonce que d’un « *pas tout* », ne peut s’écrire... qu’il n’y a ici de « La » que barré : <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" />
 
 <!-- id: s20-08-0049 -->
 
@@ -204,11 +204,11 @@ Qu’est-ce à dire, sinon qu’un champ qui n’est tout de même pas rien, cel
 
 <!-- id: s20-08-0050 -->
 
-> et ce que je vous illustrerai aujourd’hui, du moins je l’espère ...*avec ce « signifiant de A en tant que barré » *: *S(A), en tant que ce lieu de l’Autre lui-même...*
+et ce que je vous illustrerai aujourd’hui, du moins je l’espère ...*avec ce « signifiant de A en tant que barré » *: *S(A), en tant que ce lieu de l’Autre lui-même...*
 
 <!-- id: s20-08-0051 -->
 
-> là où vient s’inscrire tout ce qui peut s’articuler du signifiant \[*mais* S(A), <sub>→</sub> *tout ne peut s’y articuler*\], *...est dans son fondement, de par sa nature, si radicalement l’Autre*, que c’est cet Autre qu’il importe d’interroger.
+là où vient s’inscrire tout ce qui peut s’articuler du signifiant \[*mais* S(A), <sub>→</sub> *tout ne peut s’y articuler*\], *...est dans son fondement, de par sa nature, si radicalement l’Autre*, que c’est cet Autre qu’il importe d’interroger.
 
 <!-- id: s20-08-0052 -->
 
@@ -216,17 +216,17 @@ S’il n’est pas simplement ce lieu où la vérité balbutie, mais s’il mér
 
 <!-- id: s20-08-0053 -->
 
-> comme la dernière fois, et de façon en quelque sorte *métaphorique,* je vous ai adressé ceci :
->
-> que du départ, du départ dont s’articule l’inconscient, <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> femme...
->
-> ![](assets/image47.png) femme comme nous n’en avons assurément que des témoignages sporadiques,
->
-> c’est pour cela que je les ai pris la dernière fois dans leur fonction de métaphore ...<img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> *femme a foncièrement ce rapport à l’Autre que d’être, dans le rapport sexuel*...
+comme la dernière fois, et de façon en quelque sorte *métaphorique,* je vous ai adressé ceci :
+
+que du départ, du départ dont s’articule l’inconscient, <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> femme...
+
+![](assets/image47.png) femme comme nous n’en avons assurément que des témoignages sporadiques,
+
+c’est pour cela que je les ai pris la dernière fois dans leur fonction de métaphore ...<img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" /> *femme a foncièrement ce rapport à l’Autre que d’être, dans le rapport sexuel*...
 
 <!-- id: s20-08-0054 -->
 
-> par rapport à ce qui s’énonce, à ce qui peut se dire de l’inconscient ...*radicalement l’Autre*, *elle est ce qui a rapport à cet Autre*.
+par rapport à ce qui s’énonce, à ce qui peut se dire de l’inconscient ...*radicalement l’Autre*, *elle est ce qui a rapport à cet Autre*.
 
 <!-- id: s20-08-0055 -->
 
@@ -242,15 +242,15 @@ Et c’est pourquoi en m’y aventurant comme je fais à chaque fois devant vous
 
 <!-- id: s20-08-0058 -->
 
-> et pour cela il faut que je vous le rappelle ...qu’*il n’y a pas d’Autre de l’Autre*, que c’est pour cela que ce signifiant, avec cette parenthèse ouverte : S(A), marque cet Autre comme *barré*.
+et pour cela il faut que je vous le rappelle ...qu’*il n’y a pas d’Autre de l’Autre*, que c’est pour cela que ce signifiant, avec cette parenthèse ouverte : S(A), marque cet Autre comme *barré*.
 
 <!-- id: s20-08-0059 -->
 
-> \[*que des* **S<sub>1</sub>** « *en essaim* » : **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**... *ad libitum*,
->
-> *mais jamais de* **S<sub>2</sub>** *qui viendrait* « *faire pièce* » *au* **S<sub>1</sub>**, *sauf comme semblant de* **S<sub>2</sub>** *dans l’Autre du langage*,
->
-> *mais* *jamais d’Autre de l’Autre, jamais d*e **S<sub>2</sub>** *de* *La Femme*, <sub>→</sub> « *<u>La</u> Femme n’existe pas* », *seulement **L** femme*\]
+\[*que des* **S<sub>1</sub>** « *en essaim* » : **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**<sub>,</sub> **S<sub>1</sub>**... *ad libitum*,
+
+*mais jamais de* **S<sub>2</sub>** *qui viendrait* « *faire pièce* » *au* **S<sub>1</sub>**, *sauf comme semblant de* **S<sub>2</sub>** *dans l’Autre du langage*,
+
+*mais* *jamais d’Autre de l’Autre, jamais d*e **S<sub>2</sub>** *de* *La Femme*, <sub>→</sub> « *<u>La</u> Femme n’existe pas* », *seulement **L** femme*\]
 
 <!-- id: s20-08-0060 -->
 
@@ -258,7 +258,7 @@ Comment pouvons-nous donc approcher, concevoir que ce rapport à l’Autre puiss
 
 <!-- id: s20-08-0061 -->
 
-> puisqu’aussi bien c’est grossièrement la proportion biologique ...qu’une moitié de l’être parlant se réfère ?
+puisqu’aussi bien c’est grossièrement la proportion biologique ...qu’une moitié de l’être parlant se réfère ?
 
 <!-- id: s20-08-0062 -->
 
@@ -286,9 +286,9 @@ Rien ne peut se dire de « <img src="assets/image41.png" style="width:0.14912in
 
 <!-- id: s20-08-0068 -->
 
-> avec ce grand Φ que dans la théorie analytique nous désignons de ce *phallus,*
->
-> tel que je le précise d’être le signifiant, le signifiant qui n’a pas de signifié \[**S<sub>1</sub>**\].
+avec ce grand Φ que dans la théorie analytique nous désignons de ce *phallus,*
+
+tel que je le précise d’être le signifiant, le signifiant qui n’a pas de signifié \[**S<sub>1</sub>**\].
 
 <!-- id: s20-08-0069 -->
 
@@ -296,7 +296,7 @@ Celui-là même qui se supporte, qui se supporte chez l’homme de *cette jouiss
 
 <!-- id: s20-08-0070 -->
 
-> que l’importance de la masturbation suffisamment dans notre pratique souligne ...qu’est-ce qu’elle est sinon ceci qui n’est rien d’autre - dans les cas si je puis dire favorables - que *la jouissance de l’idiot* ?
+que l’importance de la masturbation suffisamment dans notre pratique souligne ...qu’est-ce qu’elle est sinon ceci qui n’est rien d’autre - dans les cas si je puis dire favorables - que *la jouissance de l’idiot* ?
 
 <!-- id: s20-08-0071 -->
 
@@ -360,7 +360,7 @@ Le joint qui ne se fait pas, c’est ceci : c’est que ce que j’ai appelé t
 
 <!-- id: s20-08-0086 -->
 
-> et l’on ne peut pas même dire que les sujets de la théorie antique de la connaissance ne l’aient pas su ...*sans que rien de cette théorie* - dis-je - *ne participe du fantasme d’une inscription du lien sexuel*. \[*disc.* M *aboutit au fantasme *: a ◊ S\]
+et l’on ne peut pas même dire que les sujets de la théorie antique de la connaissance ne l’aient pas su ...*sans que rien de cette théorie* - dis-je - *ne participe du fantasme d’une inscription du lien sexuel*. \[*disc.* M *aboutit au fantasme *: a ◊ S\]
 
 <!-- id: s20-08-0087 -->
 
@@ -368,13 +368,13 @@ Les termes d’« *actif »* et de *« passif »* par exemple qui, on peut l
 
 <!-- id: s20-08-0088 -->
 
-> ce rapport si fondamental auquel se réfère chaque pas platonicien puis aristotélicien,
->
-> concernant disons ce qu’il en est de la nature des choses ...il est visible, il est touchable, à chaque pas de ces énoncés, que ce qui les supporte c’est *un fantasme* par *où il est tenté de suppléer à ce qui d’aucune façon ne peut se dire*...
+ce rapport si fondamental auquel se réfère chaque pas platonicien puis aristotélicien,
+
+concernant disons ce qu’il en est de la nature des choses ...il est visible, il est touchable, à chaque pas de ces énoncés, que ce qui les supporte c’est *un fantasme* par *où il est tenté de suppléer à ce qui d’aucune façon ne peut se dire*...
 
 <!-- id: s20-08-0089 -->
 
-> c’est là ce que je vous propose comme *dire* ...*à savoir le rapport sexuel*.
+c’est là ce que je vous propose comme *dire* ...*à savoir le rapport sexuel*.
 
 <!-- id: s20-08-0090 -->
 
@@ -382,7 +382,7 @@ L’étrange est que tout de même, à l’intérieur de cette grossière polari
 
 <!-- id: s20-08-0091 -->
 
-> celle qui *de la matière fait le passif de la forme, l’agent qui l’anime* \[*cf. « la sphère immobile » d’Aristote comme « âme » : anima*\] ...quelque chose, mais quelque chose d’ambigu, a passé, c’est à savoir que cette « *animation* » \[*Cf. [Aristote : De anima (De l’âme)](http://remacle.org/bloodwolf/philosophes/Aristote/tableame.htm)*\] ce n’est rien d’autre que ce *a* dont *l’agent* « *anime* » - quoi ? - il « *n’anime* » rien : il prend l’*« autre »* pour son *« âme »*.
+celle qui *de la matière fait le passif de la forme, l’agent qui l’anime* \[*cf. « la sphère immobile » d’Aristote comme « âme » : anima*\] ...quelque chose, mais quelque chose d’ambigu, a passé, c’est à savoir que cette « *animation* » \[*Cf. [Aristote : De anima (De l’âme)](http://remacle.org/bloodwolf/philosophes/Aristote/tableame.htm)*\] ce n’est rien d’autre que ce *a* dont *l’agent* « *anime* » - quoi ? - il « *n’anime* » rien : il prend l’*« autre »* pour son *« âme »*.
 
 <!-- id: s20-08-0092 -->
 
@@ -402,7 +402,7 @@ Mais que d’un autre côté, si nous suivons ce qui progresse au cours des âge
 
 <!-- id: s20-08-0096 -->
 
-> qui est bien loin d’être conçu comme le Dieu de la foi chrétienne, puisqu’aussi bien vous le savez c’est *le moteur immobile, la sphère suprême*, ...que dans l’idée que le « *Bien »* c’est ce quelque chose qui fait que tous les autres êtres - moins *être* que celui-là - ils ne peuvent avoir d’autre visée que d’être « *le plus être »* qu’ils peuvent être.
+qui est bien loin d’être conçu comme le Dieu de la foi chrétienne, puisqu’aussi bien vous le savez c’est *le moteur immobile, la sphère suprême*, ...que dans l’idée que le « *Bien »* c’est ce quelque chose qui fait que tous les autres êtres - moins *être* que celui-là - ils ne peuvent avoir d’autre visée que d’être « *le plus être »* qu’ils peuvent être.
 
 <!-- id: s20-08-0097 -->
 
@@ -422,11 +422,11 @@ il se révèle que c’est tout de même dans cette opacité, de ce où j’ai l
 
 <!-- id: s20-08-0101 -->
 
-> *de cet Autre en tant que pourrait l’être, si elle existait, « <u>La</u> femme »* ...que c’est bien à la place de *la jouissance* de cet Autre qu’est désigné cet être mythique...
+*de cet Autre en tant que pourrait l’être, si elle existait, « <u>La</u> femme »* ...que c’est bien à la place de *la jouissance* de cet Autre qu’est désigné cet être mythique...
 
 <!-- id: s20-08-0102 -->
 
-> mythique manifestement chez Aristote ...de « *l’être suprême »*, de « *la sphère immobile »* d’où procèdent tous les mouvements quels qu’ils soient : changements, générations, mouvements, translations, augmentations, etc. \[*sur la sphère terrestre*\].
+mythique manifestement chez Aristote ...de « *l’être suprême »*, de « *la sphère immobile »* d’où procèdent tous les mouvements quels qu’ils soient : changements, générations, mouvements, translations, augmentations, etc. \[*sur la sphère terrestre*\].
 
 <!-- id: s20-08-0103 -->
 
@@ -470,7 +470,7 @@ Comment en somme ce *a* - de s’inscrire juste au-dessous de ce S(A) - ait pu..
 
 <!-- id: s20-08-0113 -->
 
-> dans notre inscription au tableau ...*ait pu* jusqu’à un certain terme, *prêter* en somme *à confusion*, et ceci très exactement *par l’intermédiaire de la fonction de l’être*.
+dans notre inscription au tableau ...*ait pu* jusqu’à un certain terme, *prêter* en somme *à confusion*, et ceci très exactement *par l’intermédiaire de la fonction de l’être*.
 
 <!-- id: s20-08-0114 -->
 
@@ -490,9 +490,9 @@ Et là pour me reposer, je vais me permettre - mon Dieu - de vous faire part...
 
 <!-- id: s20-08-0118 -->
 
-> je ne dis pas à proprement parler *de vous lire,*
->
-> parce que je ne suis jamais sûr de *« lire »* jamais quoi que ce soit, ...de vous lire tout de même ce que je vous ai, il y a quelque temps *écrit*, *écrit* justement - *écrit* sur quoi ? - *écrit* là seulement d’où il se peut qu’on *parle d’amour*.
+je ne dis pas à proprement parler *de vous lire,*
+
+parce que je ne suis jamais sûr de *« lire »* jamais quoi que ce soit, ...de vous lire tout de même ce que je vous ai, il y a quelque temps *écrit*, *écrit* justement - *écrit* sur quoi ? - *écrit* là seulement d’où il se peut qu’on *parle d’amour*.
 
 <!-- id: s20-08-0119 -->
 
@@ -508,7 +508,7 @@ Mais que ce que le *discours analytique* apporte...
 
 <!-- id: s20-08-0122 -->
 
-> et c’est peut-être ça après tout la raison de son émergence en un certain point du discours scientifique, ...c’est que parler d’amour est en soi une jouissance.
+et c’est peut-être ça après tout la raison de son émergence en un certain point du discours scientifique, ...c’est que parler d’amour est en soi une jouissance.
 
 <!-- id: s20-08-0123 -->
 
@@ -516,11 +516,11 @@ Ce qui se confirme assurément de cet effet, effet tangible, que « *dire n’i
 
 <!-- id: s20-08-0124 -->
 
-> consigne même du discours de l’analysant ...*est ce qui mène au Lustprinzip*, et ce qui y mène de la façon la plus directe, et sans avoir aucun besoin de cette accession aux sphères supérieures, qui est le fondement de l’éthique aristotélicienne pour autant que...
+consigne même du discours de l’analysant ...*est ce qui mène au Lustprinzip*, et ce qui y mène de la façon la plus directe, et sans avoir aucun besoin de cette accession aux sphères supérieures, qui est le fondement de l’éthique aristotélicienne pour autant que...
 
 <!-- id: s20-08-0125 -->
 
-> je vous l’évoquais tout à l’heure brièvement ...en tant qu’en somme elle ne se fonde que de la coalescence, que de la confusion de ce *(a)* avec le S(A).
+je vous l’évoquais tout à l’heure brièvement ...en tant qu’en somme elle ne se fonde que de la coalescence, que de la confusion de ce *(a)* avec le S(A).
 
 <!-- id: s20-08-0126 -->
 
@@ -552,11 +552,11 @@ Si c’était vrai l’âme ne pourrait se *dire*...
 
 <!-- id: s20-08-0133 -->
 
-> c’est ça que je vous ai écrit ...que de ce qui permet à un *être*...
+c’est ça que je vous ai écrit ...que de ce qui permet à un *être*...
 
 <!-- id: s20-08-0134 -->
 
-> à *l’être parlant* pour l’appeler par son nom ...de supporter l’intolérable de son monde, ce qui la suppose d’y être *étrangère*, c’est-à-dire *fantasmatique*.
+à *l’être parlant* pour l’appeler par son nom ...de supporter l’intolérable de son monde, ce qui la suppose d’y être *étrangère*, c’est-à-dire *fantasmatique*.
 
 <!-- id: s20-08-0135 -->
 
@@ -568,9 +568,9 @@ Eh bien c’est là que le français doit m’apporter *une aide*, non pas comme
 
 <!-- id: s20-08-0137 -->
 
-> de ce *d’eux (d, apostrophe)* avec le *deux (d.e.u.x),*
->
-> de ce que, avec le *peut (p.e.u.t et p.e.u*), il peut peu, qui est tout de même là bien pour nous servir à quelque chose ...et c’est là que la langue sert : *l’âme en français*, au point où j’en suis, je ne peux m’en servir qu’à dire que *c’est ce qu’on âme* : *j’âme*, *tu âmes*, *il âme*, vous voyez là que nous ne pouvons nous servir que de l’écriture, même à y inclure jamais: *j’âmais.*
+de ce *d’eux (d, apostrophe)* avec le *deux (d.e.u.x),*
+
+de ce que, avec le *peut (p.e.u.t et p.e.u*), il peut peu, qui est tout de même là bien pour nous servir à quelque chose ...et c’est là que la langue sert : *l’âme en français*, au point où j’en suis, je ne peux m’en servir qu’à dire que *c’est ce qu’on âme* : *j’âme*, *tu âmes*, *il âme*, vous voyez là que nous ne pouvons nous servir que de l’écriture, même à y inclure jamais: *j’âmais.*
 
 <!-- id: s20-08-0138 -->
 
@@ -586,7 +586,7 @@ L’élaboration dont elle résulte est *hommo...*
 
 <!-- id: s20-08-0141 -->
 
-> avec deux *m* \[*Homme indifférencié, non sexué* \] ...*hommosexuelle*, comme cela est parfaitement lisible dans l’histoire.
+avec deux *m* \[*Homme indifférencié, non sexué* \] ...*hommosexuelle*, comme cela est parfaitement lisible dans l’histoire.
 
 <!-- id: s20-08-0142 -->
 
@@ -602,7 +602,7 @@ Et ce que j’ai dit tout à l’heure, de ce courage, de cette patience à supp
 
 <!-- id: s20-08-0145 -->
 
-> avec celui même dont rayonnerait l’Être Suprême \[*confusion de a et* A\].
+avec celui même dont rayonnerait l’Être Suprême \[*confusion de a et* A\].
 
 <!-- id: s20-08-0146 -->
 
@@ -634,7 +634,7 @@ Qu’est-ce que ça peut bien être que *cette âme qu’elles âment* dans le p
 
 <!-- id: s20-08-0153 -->
 
-> et c’est pas pour rien que je l’appelle comme ça ...ὔστερον \[*hysteron *: *le dernier*\] que ça se dit en grec de l’« *hystérie »*, soit de « *faire l’homme* » comme je l’ai dit, à être de ce fait *« hommosexuelles »,* si je puis m’exprimer ainsi, ou *« horsexe »* elles aussi. \[*le* S <sub>→</sub> *a du tableau (structure du fantasme)* <sub>→</sub> *coalescence du a et du* S(A) *pour elles aussi* <sub>→</sub> *l’hystérique « fait l’homme »*\]
+et c’est pas pour rien que je l’appelle comme ça ...ὔστερον \[*hysteron *: *le dernier*\] que ça se dit en grec de l’« *hystérie »*, soit de « *faire l’homme* » comme je l’ai dit, à être de ce fait *« hommosexuelles »,* si je puis m’exprimer ainsi, ou *« horsexe »* elles aussi. \[*le* S <sub>→</sub> *a du tableau (structure du fantasme)* <sub>→</sub> *coalescence du a et du* S(A) *pour elles aussi* <sub>→</sub> *l’hystérique « fait l’homme »*\]
 
 <!-- id: s20-08-0154 -->
 
@@ -694,9 +694,9 @@ Tout ce qu’on a vu après...
 
 <!-- id: s20-08-0168 -->
 
-> *l’amour courtois*, c’est quelque chose qui a brillé comme ça dans l’histoire,
->
-> comme un météore resté complètement énigmatique *...*et puis après ça on a vu revenir tout le bric-à-brac d’une « *Renaissance* » prétendue des vieilleries antiques.
+*l’amour courtois*, c’est quelque chose qui a brillé comme ça dans l’histoire,
+
+comme un météore resté complètement énigmatique *...*et puis après ça on a vu revenir tout le bric-à-brac d’une « *Renaissance* » prétendue des vieilleries antiques.
 
 <!-- id: s20-08-0169 -->
 
@@ -720,19 +720,23 @@ C’est pour ça qu’il a fallu tout à fait *autre chose *: il a fallu rien d
 
 <!-- id: s20-08-0174 -->
 
-> soit quelque chose qui ne doit rien aux supposés de *l’âme* antique*,...pour qu’en surgisse ce qu’est la psychanalyse,* à savoir *l’objectivation de ce que l’être,* d’être parlant, passe encore de temps à parler...
+soit quelque chose qui ne doit rien aux supposés de *l’âme* antique*,...pour qu’en surgisse ce qu’est la psychanalyse,* à savoir *l’objectivation de ce que l’être,* d’être parlant, passe encore de temps à parler...
 
 <!-- id: s20-08-0175 -->
 
-> en pure perte, je vous l’ai dit ...passe encore de temps à parler pour cet office des plus courts \[*l’amour*\]
+en pure perte, je vous l’ai dit ...passe encore de temps à parler pour cet office des plus courts \[*l’amour*\]
 
 <!-- id: s20-08-0176 -->
 
-> « *des plus courts* » dis-je, de ce fait qu’il ne va pas plus loin que d’être en cours, encore \[*et en corps*\], ...c’est-à-dire le temps qu’il faut pour que ça se résolve enfin...
+<div class="text-quotation">
+
+« *des plus courts* » dis-je, de ce fait qu’il ne va pas plus loin que d’être en cours, encore \[*et en corps*\], ...c’est-à-dire le temps qu’il faut pour que ça se résolve enfin...
+
+</div>
 
 <!-- id: s20-08-0177 -->
 
-> car après tout c’est là ce qui nous pend au nez ...pour que ça se résolve enfin *démographiquement*. Ouais...
+car après tout c’est là ce qui nous pend au nez ...pour que ça se résolve enfin *démographiquement*. Ouais...
 
 <!-- id: s20-08-0178 -->
 
@@ -756,7 +760,7 @@ Il y a quelque chose d’essentiel dans ce que j’apporte comme complément à 
 
 <!-- id: s20-08-0183 -->
 
-> vu par des voies que ça éclairerait de voir que c’est ça qui s’est vu ...ce qui s’est vu, c’est rien que du côté de *l’homme*, à savoir :
+vu par des voies que ça éclairerait de voir que c’est ça qui s’est vu ...ce qui s’est vu, c’est rien que du côté de *l’homme*, à savoir :
 
 <!-- id: s20-08-0184 -->
 
@@ -772,7 +776,7 @@ Là-dessus, bien sûr on n’a pas pu manquer de s’apercevoir que, il y avait 
 
 <!-- id: s20-08-0187 -->
 
-> quelles qu’elles soient, les dites « *perversions* » ...en est là comme la cause. Ouais...
+quelles qu’elles soient, les dites « *perversions* » ...en est là comme la cause. Ouais...
 
 <!-- id: s20-08-0188 -->
 
@@ -796,7 +800,7 @@ Heureusement, il a eu dans la suite, enfin l’occasion de s’apercevoir que le
 
 <!-- id: s20-08-0193 -->
 
-> les perversions telles qu’on les appréhende dans la névrose, telles qu’on croit les repérer ...c’est pas du tout ça la névrose.
+les perversions telles qu’on les appréhende dans la névrose, telles qu’on croit les repérer ...c’est pas du tout ça la névrose.
 
 <!-- id: s20-08-0194 -->
 
@@ -816,15 +820,15 @@ On a vu là qu’il y a une subversion de la conduite, appuyée...
 
 <!-- id: s20-08-0198 -->
 
-> si je puis dire ...sur un savoir-faire qui est lié tout à fait à un savoir, et au savoir - mon Dieu - de la nature des choses, un embrayage direct...
+si je puis dire ...sur un savoir-faire qui est lié tout à fait à un savoir, et au savoir - mon Dieu - de la nature des choses, un embrayage direct...
 
 <!-- id: s20-08-0199 -->
 
-> si je puis dire ...de la conduite sexuelle sur...
+si je puis dire ...de la conduite sexuelle sur...
 
 <!-- id: s20-08-0200 -->
 
-> il faut bien le dire ...ce qui est sa vérité à la conduite sexuelle, à savoir son amoralité.
+il faut bien le dire ...ce qui est sa vérité à la conduite sexuelle, à savoir son amoralité.
 
 <!-- id: s20-08-0201 -->
 
@@ -840,11 +844,11 @@ Seulement à force de dire, de dire du bien, eh bien ça aboutit à Kant, où la
 
 <!-- id: s20-08-0204 -->
 
-> en deux mots cette fois ...la moralité avoue ce qu’elle est...
+en deux mots cette fois ...la moralité avoue ce qu’elle est...
 
 <!-- id: s20-08-0205 -->
 
-> et c’est ce que j’ai cru devoir avancer dans un petit article : *Kant avec Sade* [^72] ...elle avoue qu’elle est *sade*[^73] la moralité. \[*Universalité : du Bien (Aristote), de l’Éthique (Kant), du Droit à la jouissance(Sade)*\]
+et c’est ce que j’ai cru devoir avancer dans un petit article : *Kant avec Sade* [^72] ...elle avoue qu’elle est *sade*[^73] la moralité. \[*Universalité : du Bien (Aristote), de l’Éthique (Kant), du Droit à la jouissance(Sade)*\]
 
 <!-- id: s20-08-0206 -->
 
@@ -900,9 +904,9 @@ Seulement là c’est justement quelque chose dont après tout la faille du *dis
 
 <!-- id: s20-08-0219 -->
 
-> Aristote Science
->
-> (discours du maître) (discours hystérique) \[*dans le discours* M : S<sub>1</sub> *(le maître)* *<sub>→</sub>* S<sub>2</sub> *(l’esclave *: *le savoir)* *<sub>→</sub> a (le produit) <sub>→</sub> pas de barrière entre le savoir et son « Bien »* *dans le discours* H : S *(le sujet)* *<sub>→</sub>* S<sub>1</sub> *(le maître) <sub>→</sub>* , *mais* S<sub>2</sub> ◊ *a (le produit) *: S<sub>2</sub> ◊ *a est <u>la faille du discours scientifique</u>* : *le savoir ne sait plus rien de son « Bien »*\]
+Aristote Science
+
+(discours du maître) (discours hystérique) \[*dans le discours* M : S<sub>1</sub> *(le maître)* *<sub>→</sub>* S<sub>2</sub> *(l’esclave *: *le savoir)* *<sub>→</sub> a (le produit) <sub>→</sub> pas de barrière entre le savoir et son « Bien »* *dans le discours* H : S *(le sujet)* *<sub>→</sub>* S<sub>1</sub> *(le maître) <sub>→</sub>* , *mais* S<sub>2</sub> ◊ *a (le produit) *: S<sub>2</sub> ◊ *a est <u>la faille du discours scientifique</u>* : *le savoir ne sait plus rien de son « Bien »*\]
 
 <!-- id: s20-08-0220 -->
 
@@ -922,11 +926,11 @@ L’imputation à l’*animal*...
 
 <!-- id: s20-08-0224 -->
 
-> c’est très sensible à lire dans Aristote le traité « *De l’âme »* [^74] ...c’est cette pointe qui fait du *savoir* l’acte par excellence - de quoi ? - de quelque chose que...
+c’est très sensible à lire dans Aristote le traité « *De l’âme »* [^74] ...c’est cette pointe qui fait du *savoir* l’acte par excellence - de quoi ? - de quelque chose que...
 
 <!-- id: s20-08-0225 -->
 
-> il ne faut pas croire qu’Aristote était si à côté de la plaque ...de quelque chose qu’il voit comme n’étant rien que *le corps*, à ceci près que *le corps* est fait pour une activité, une ἑνέργεια \[energeia\] et quelque part l’*entéléchie*[^75] de ce corps peut se supporter de cette *substance* qu’il appelle l’*âme*.
+il ne faut pas croire qu’Aristote était si à côté de la plaque ...de quelque chose qu’il voit comme n’étant rien que *le corps*, à ceci près que *le corps* est fait pour une activité, une ἑνέργεια \[energeia\] et quelque part l’*entéléchie*[^75] de ce corps peut se supporter de cette *substance* qu’il appelle l’*âme*.
 
 <!-- id: s20-08-0226 -->
 
@@ -946,9 +950,9 @@ Ce n’est pas parce qu’il y a des animaux, qui se trouvent *parlants*, pour q
 
 <!-- id: s20-08-0230 -->
 
-> et d’un *fantasme* parfaitement *désarticulable* \[*décoller* **S** *de* *a mais aussi a de* S(A)\]
->
-> d’une façon qui rende compte de ceci : qu’il en sait beaucoup plus qu’il ne croit quand il agit, lui, ...il ne suffit pas qu’il en soit ainsi pour que nous ayons là l’amorce d’une cosmologie.
+et d’un *fantasme* parfaitement *désarticulable* \[*décoller* **S** *de* *a mais aussi a de* S(A)\]
+
+d’une façon qui rende compte de ceci : qu’il en sait beaucoup plus qu’il ne croit quand il agit, lui, ...il ne suffit pas qu’il en soit ainsi pour que nous ayons là l’amorce d’une cosmologie.
 
 <!-- id: s20-08-0231 -->
 
@@ -980,7 +984,7 @@ La question se pose à partir de ceci qu’il y a *quelque chose*...
 
 <!-- id: s20-08-0238 -->
 
-> si ce que j’avance est fondé ...qu’il y a *quelque chose* dont il n’est pas possible de dire *si ce quelque chose* - qui est jouissance - *elle peut quelque chose en dire*, en d’autres termes *<u>ce qu’elle en sait</u>*.
+si ce que j’avance est fondé ...qu’il y a *quelque chose* dont il n’est pas possible de dire *si ce quelque chose* - qui est jouissance - *elle peut quelque chose en dire*, en d’autres termes *<u>ce qu’elle en sait</u>*.
 
 <!-- id: s20-08-0239 -->
 
@@ -1012,7 +1016,7 @@ Il y avait un nommé Empédocle...
 
 <!-- id: s20-08-0246 -->
 
-> dont comme par hasard Freud, comme ça, se sert de temps en temps comme d’un tire-bouchon ...il y avait un nommé Empédocle dont nous ne savons là-dessus que trois vers, mais dont Aristote tire très bien les conséquences quand il énonce qu’en somme pour Empédocle, le Dieu, *le Dieu était le plus ignorant de tous les êtres*, et ceci très précisément *de ne point connaître* *la haine*.
+dont comme par hasard Freud, comme ça, se sert de temps en temps comme d’un tire-bouchon ...il y avait un nommé Empédocle dont nous ne savons là-dessus que trois vers, mais dont Aristote tire très bien les conséquences quand il énonce qu’en somme pour Empédocle, le Dieu, *le Dieu était le plus ignorant de tous les êtres*, et ceci très précisément *de ne point connaître* *la haine*.
 
 <!-- id: s20-08-0247 -->
 
@@ -1032,7 +1036,7 @@ De sorte qu’on pourrait dire que : *plus l’homme peut prêter* - à la femm
 
 <!-- id: s20-08-0251 -->
 
-> les deux orthographes « *h.a.i.t* » et « *e.s.t* » ...et dans cette affaire aussi, puisqu’après tout il n’y a pas d’amour sans haine : *moins il aime*.
+les deux orthographes « *h.a.i.t* » et « *e.s.t* » ...et dans cette affaire aussi, puisqu’après tout il n’y a pas d’amour sans haine : *moins il aime*.
 
 ## Notes
 

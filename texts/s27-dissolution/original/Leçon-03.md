@@ -22,7 +22,7 @@ Lévogyre et dextrogyre ici on peut considérer qu’il est lévogyre...
 
 <!-- id: s27-03-0005 -->
 
-> ou : si vous considérez qu’il est lévogyre il tourne à gauche ...il est néanmoins douteux qu’il soit lévogyre, de fait on pourrait considérer qu’il tourne à droite.
+ou : si vous considérez qu’il est lévogyre il tourne à gauche ...il est néanmoins douteux qu’il soit lévogyre, de fait on pourrait considérer qu’il tourne à droite.
 
 <!-- id: s27-03-0006 -->
 

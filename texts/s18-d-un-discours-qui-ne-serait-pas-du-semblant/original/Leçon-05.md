@@ -46,7 +46,7 @@ Je l’ai retrouvé avec plaisir dans un texte...
 
 <!-- id: s18-05-0011 -->
 
-> je vous dirai lequel tout à l’heure, ainsi que le moment où je l’ai relu ...un texte de moi, je me suis aperçu avec surprise que ça date d’une paye cette formule que j’avais énoncée en son temps pour des gens comme ça, un peu *durs de la feuille* : « *Mange ton Dasein »* [^34]. Qu’importe ! Nous y reviendrons tout à l’heure.
+je vous dirai lequel tout à l’heure, ainsi que le moment où je l’ai relu ...un texte de moi, je me suis aperçu avec surprise que ça date d’une paye cette formule que j’avais énoncée en son temps pour des gens comme ça, un peu *durs de la feuille* : « *Mange ton Dasein »* [^34]. Qu’importe ! Nous y reviendrons tout à l’heure.
 
 <!-- id: s18-05-0012 -->
 
@@ -78,7 +78,7 @@ S’il y a *trou* au niveau de l’*achose,* ça vous laisse déjà pressentir q
 
 <!-- id: s18-05-0019 -->
 
-> prenons une comparaison bien dérisoire ...que sous le mode de cette tache rétinienne dont l’œil n’a pas la moindre envie de s’empêtrer quand, après qu’il ait fixé le soleil, tout d’abord il le promène sur le paysage.
+prenons une comparaison bien dérisoire ...que sous le mode de cette tache rétinienne dont l’œil n’a pas la moindre envie de s’empêtrer quand, après qu’il ait fixé le soleil, tout d’abord il le promène sur le paysage.
 
 <!-- id: s18-05-0020 -->
 
@@ -110,13 +110,13 @@ Ce que j’ai dit, moi, en son temps...
 
 <!-- id: s18-05-0027 -->
 
-> faut pas abuser, j’en ai pas plein la bouche de *la parole pleine* et je pense même
->
-> que la grande majorité d’entre vous ne m’ont entendu d’aucune façon en faire état ...ce que j’ai dit de *la parole pleine*, c’est qu’elle remplit...
+faut pas abuser, j’en ai pas plein la bouche de *la parole pleine* et je pense même
+
+que la grande majorité d’entre vous ne m’ont entendu d’aucune façon en faire état ...ce que j’ai dit de *la parole pleine*, c’est qu’elle remplit...
 
 <!-- id: s18-05-0028 -->
 
-> ça, c’est les trouvailles du langage, elles sont assez jolies toujours ...elle remplit la fonction de *l’achose* qui est au tableau.
+ça, c’est les trouvailles du langage, elles sont assez jolies toujours ...elle remplit la fonction de *l’achose* qui est au tableau.
 
 <!-- id: s18-05-0029 -->
 
@@ -192,9 +192,9 @@ Ceux qui en constituent ce qui reste de témoins de cette époque, ne peuvent pa
 
 <!-- id: s18-05-0047 -->
 
-> il n’y en a tout de même plus beaucoup dans cette salle, bien sûr, mais tout de même quelques-uns.
->
-> Oh mais ça doit pas se compter sur les doigts de la main ceux qui étaient là les premiers mois ...ils peuvent témoigner que ce que j’y ai fait, avec une patience, un ménagement, une douceur, des ronds de bras, des ronds de jambe, j’ai construit pour eux pièce à pièce, et morceau par morceau, des choses qui s’appellent des *graphes.*
+il n’y en a tout de même plus beaucoup dans cette salle, bien sûr, mais tout de même quelques-uns.
+
+Oh mais ça doit pas se compter sur les doigts de la main ceux qui étaient là les premiers mois ...ils peuvent témoigner que ce que j’y ai fait, avec une patience, un ménagement, une douceur, des ronds de bras, des ronds de jambe, j’ai construit pour eux pièce à pièce, et morceau par morceau, des choses qui s’appellent des *graphes.*
 
 <!-- id: s18-05-0048 -->
 
@@ -214,7 +214,7 @@ J’insiste, bien sûr non pas pour me faire un mérite de ce que j’ai fait...
 
 <!-- id: s18-05-0052 -->
 
-> dans le fond parce que ça m’a plu, personne ne me le demandait, c’est même plutôt le contraire \[*Rires*\] ...mais parce que nous entrons là, avec ça, au vif de ce que sur *l’écrit*, voire sur *l’écriture*... alors figurez-vous que c’est la même chose : on parle de l’écriture comme ça, comme si c’était indépendant de l’écrit, c’est ce qui rend quelquefois le discours très embarrassé.
+dans le fond parce que ça m’a plu, personne ne me le demandait, c’est même plutôt le contraire \[*Rires*\] ...mais parce que nous entrons là, avec ça, au vif de ce que sur *l’écrit*, voire sur *l’écriture*... alors figurez-vous que c’est la même chose : on parle de l’écriture comme ça, comme si c’était indépendant de l’écrit, c’est ce qui rend quelquefois le discours très embarrassé.
 
 <!-- id: s18-05-0053 -->
 
@@ -258,9 +258,9 @@ Qu’il y ait ici un grand I...
 
 <!-- id: s18-05-0063 -->
 
-> je m’excuse de ces empiétements, mais après tout certains ont assez cette figure dans la tête
->
-> pour que ça leur suffise et pour les autres - mon Dieu - qu’ils se reportent à la bonne page ...ce qu’il y a de certain c’est qu’on ne peut pas ne pas au moins - par là, par cette figure - se sentir disons sollicités de répondre à l’exigence de ce qu’elle commande, quand vous commencez de l’interpréter.
+je m’excuse de ces empiétements, mais après tout certains ont assez cette figure dans la tête
+
+pour que ça leur suffise et pour les autres - mon Dieu - qu’ils se reportent à la bonne page ...ce qu’il y a de certain c’est qu’on ne peut pas ne pas au moins - par là, par cette figure - se sentir disons sollicités de répondre à l’exigence de ce qu’elle commande, quand vous commencez de l’interpréter.
 
 <!-- id: s18-05-0064 -->
 
@@ -280,11 +280,11 @@ Ce qui est certain c’est que c’est le propre de ce qui - enfin, je pense - v
 
 <!-- id: s18-05-0068 -->
 
-> celui-là comme tous les autres, et pas seulement les miens, je vais vous dire ça dans un instant ...*que ce graphe*, *ce que ça représente* *c’est ce qu’on appelle*...
+celui-là comme tous les autres, et pas seulement les miens, je vais vous dire ça dans un instant ...*que ce graphe*, *ce que ça représente* *c’est ce qu’on appelle*...
 
 <!-- id: s18-05-0069 -->
 
-> dans le lan­gage évolué que nous a peu à peu donné *le questionnement de la mathématique par* *la logique...*ce qu’on appelle *une topologie.*
+dans le lan­gage évolué que nous a peu à peu donné *le questionnement de la mathématique par* *la logique...*ce qu’on appelle *une topologie.*
 
 <!-- id: s18-05-0070 -->
 
@@ -308,7 +308,7 @@ Là-dessus vous pouvez vous reporter à des choses très, très attachantes, com
 
 <!-- id: s18-05-0075 -->
 
-> *les* *normes*, pas l’énorme, quoique les deux soient vrais ...au regard « *des normes de l’écriture »,* l’invention de la logique.
+*les* *normes*, pas l’énorme, quoique les deux soient vrais ...au regard « *des normes de l’écriture »,* l’invention de la logique.
 
 <!-- id: s18-05-0076 -->
 
@@ -320,7 +320,7 @@ Voilà, parce que je peux vous jeter ça qu’en passant, puisque après tout c�
 
 <!-- id: s18-05-0078 -->
 
-> même aux gens très calés dans une certaine matière ...comme ça, *une petite suggestion* dont ils riront peut-être parce qu’ils s’en seront aperçus depuis longtemps.
+même aux gens très calés dans une certaine matière ...comme ça, *une petite suggestion* dont ils riront peut-être parce qu’ils s’en seront aperçus depuis longtemps.
 
 <!-- id: s18-05-0079 -->
 
@@ -328,11 +328,11 @@ On ne voit pas pourquoi en effet ils s’en seraient pas aperçus, ils ne se ser
 
 <!-- id: s18-05-0080 -->
 
-> puisque c’est ça le départ ...qu’un *tri­angle,* c’est pas autre chose...
+puisque c’est ça le départ ...qu’un *tri­angle,* c’est pas autre chose...
 
 <!-- id: s18-05-0081 -->
 
-> mais rien d’autre, hein ...*qu’une écriture*, ou *un écrit* exac­tement.
+mais rien d’autre, hein ...*qu’une écriture*, ou *un écrit* exac­tement.
 
 <!-- id: s18-05-0082 -->
 
@@ -364,7 +364,7 @@ Enfin pour l’instant enregistrons ceci en tout cas, c’est qu’ils se sont t
 
 <!-- id: s18-05-0089 -->
 
-> dans la demande qu’on fait à l’auditeur : *il ne faut pas tout de suite dire* « *crochet !* » ...dans cette demande, c’est ce qui ne s’impose pas au dis­cours du seul fait du graphe.
+dans la demande qu’on fait à l’auditeur : *il ne faut pas tout de suite dire* « *crochet !* » ...dans cette demande, c’est ce qui ne s’impose pas au dis­cours du seul fait du graphe.
 
 <!-- id: s18-05-0090 -->
 
@@ -392,9 +392,9 @@ Mais *la parole*, il y a tout de même bien des chances que pendant des temps qu
 
 <!-- id: s18-05-0096 -->
 
-> figurez-vous, ce ne sont des siècles que pour nous, grâce au carbone radiant
->
-> et à quelques autres histoires de cette espèce, rétroactives, qui partent de l’écriture ...enfin pendant un bout de quelque chose qu’on peut appeler - pas le temps - l’αἰών \[aiôn\][^38], l’αἰών des αἰών comme ils disent, il y avait un temps où on se gargarisait avec des trucs comme ça.
+figurez-vous, ce ne sont des siècles que pour nous, grâce au carbone radiant
+
+et à quelques autres histoires de cette espèce, rétroactives, qui partent de l’écriture ...enfin pendant un bout de quelque chose qu’on peut appeler - pas le temps - l’αἰών \[aiôn\][^38], l’αἰών des αἰών comme ils disent, il y avait un temps où on se gargarisait avec des trucs comme ça.
 
 <!-- id: s18-05-0097 -->
 
@@ -470,7 +470,7 @@ Et le désir de la femme...
 
 <!-- id: s18-05-0115 -->
 
-> je m’en fous moi des « *Écrits »,* hein ? ...ça s’écrit A barré parenthèse du phi : A(φ) qui est le phallus là où on s’*imagine* qu’il est : le petit pipi.
+je m’en fous moi des « *Écrits »,* hein ? ...ça s’écrit A barré parenthèse du phi : A(φ) qui est le phallus là où on s’*imagine* qu’il est : le petit pipi.
 
 <!-- id: s18-05-0116 -->
 
@@ -518,7 +518,7 @@ Il part simplement du fait qu’il n’y a vraiment absolument rien compris quan
 
 <!-- id: s18-05-0127 -->
 
-> qui manifestement ont été absolument sans succès ...soient là ce qui l’autorise à parler en effet de ce que les autres ont pu en tirer avec un succès dis­cutable, c’est tout à fait une introduction merveilleuse et bien faite pour vous placer sur le plan de la modestie, à la suite de quoi, d’innombrables communi­cations se font sur chacune des écritures.
+qui manifestement ont été absolument sans succès ...soient là ce qui l’autorise à parler en effet de ce que les autres ont pu en tirer avec un succès dis­cutable, c’est tout à fait une introduction merveilleuse et bien faite pour vous placer sur le plan de la modestie, à la suite de quoi, d’innombrables communi­cations se font sur chacune des écritures.
 
 <!-- id: s18-05-0128 -->
 
@@ -550,9 +550,9 @@ Il n’est même pas question, au sortir de là, qu’il vous vienne à l’idé
 
 <!-- id: s18-05-0135 -->
 
-> qui n’a l’air de rien comme ça, mais comme c’est écrit partout et que personne ne le lit,
->
-> ça vaut quand même la peine d’être dit ...que *l’écriture c’est des représentations de mots*. Ça devrait quand même vous dire quelque chose : « *Wortvorstellung ».*
+qui n’a l’air de rien comme ça, mais comme c’est écrit partout et que personne ne le lit,
+
+ça vaut quand même la peine d’être dit ...que *l’écriture c’est des représentations de mots*. Ça devrait quand même vous dire quelque chose : « *Wortvorstellung ».*
 
 <!-- id: s18-05-0136 -->
 
@@ -560,7 +560,7 @@ Freud écrit ça, et il dit que...
 
 <!-- id: s18-05-0137 -->
 
-> mais naturellement tout le monde rigole, et on voit bien que Freud n’est pas d’accord avec Lacan ...c’est « *le processus secondaire* ».
+mais naturellement tout le monde rigole, et on voit bien que Freud n’est pas d’accord avec Lacan ...c’est « *le processus secondaire* ».
 
 <!-- id: s18-05-0138 -->
 
@@ -588,7 +588,7 @@ Et cette chose simple comme bonjour, il me semble qu’on n’en a pas tiré les
 
 <!-- id: s18-05-0144 -->
 
-> c’est-à-dire de la manipulation de l’écri­ture ...on trouverait un moyen pour avoir - quoi ? - « *new ideas* » \[*avec l’ironie d’une voix de fausset*\], de nouvelles idées.
+c’est-à-dire de la manipulation de l’écri­ture ...on trouverait un moyen pour avoir - quoi ? - « *new ideas* » \[*avec l’ironie d’une voix de fausset*\], de nouvelles idées.
 
 <!-- id: s18-05-0145 -->
 
@@ -680,7 +680,7 @@ Il y a une chose marrante - hein ? - C’est que quand même on les a, ces signe
 
 <!-- id: s18-05-0167 -->
 
-> les Yin \[Shāng 商\], y’a une paye - hein ? – \[*la dynastie* Shāng 商*avait pour capitale* Yin (殷 *yīn*) : de ≈ 1570 à 1045 av. \] ...ça fait encore, alors là deux mille ans de décro­chés, mais d’avant, hein... et on a encore de ces signes.
+les Yin \[Shāng 商\], y’a une paye - hein ? – \[*la dynastie* Shāng 商*avait pour capitale* Yin (殷 *yīn*) : de ≈ 1570 à 1045 av. \] ...ça fait encore, alors là deux mille ans de décro­chés, mais d’avant, hein... et on a encore de ces signes.
 
 <!-- id: s18-05-0168 -->
 
@@ -740,7 +740,7 @@ Je prononce bien ou je prononce mal, en tout cas je n’ai pas mis le ton, je m�
 
 <!-- id: s18-05-0182 -->
 
-> ça veut pas dire *que* dans le passé ...les quatre façons courantes de dire - justement ça tombe bien - de dire « *hi* », ben ça veut dire quatre choses à la fois, et qui ne sont pas du tout sans rapport.
+ça veut pas dire *que* dans le passé ...les quatre façons courantes de dire - justement ça tombe bien - de dire « *hi* », ben ça veut dire quatre choses à la fois, et qui ne sont pas du tout sans rapport.
 
 <!-- id: s18-05-0183 -->
 
@@ -772,7 +772,7 @@ Bien sûr naturellement, ça serait tout à fait abusif de dire que ça a un rap
 
 <!-- id: s18-05-0190 -->
 
-> je veux dire *le mot d’esprit* ...ça repose sur le «* nonsense *» précisément.
+je veux dire *le mot d’esprit* ...ça repose sur le «* nonsense *» précisément.
 
 <!-- id: s18-05-0191 -->
 
@@ -804,13 +804,13 @@ Et qu’est-ce que ça peut vouloir dire qu’*un lapsus*, *un acte manqué*, ra
 
 <!-- id: s18-05-0198 -->
 
-> je vous dis ça, parce que ce n’est quand même pas un exemple où je dévoile un de mes patients,
->
-> mais enfin c’est en effet il n’y a pas longtemps, qu’un de mes patients m’a, pen­dant 5 minutes*, à chaque fois*
->
-> *en se reprenant et en rigolant, mais ça ne lui fait ni chaud ni froid, hein*, a appelé sa mère : « *ma femme* »,
->
-> « *C’est pas ma femme, parce que ma femme, etc*. », et il a continué pendant cinq minutes, il l’a bien répété 20 fois ...mais, enfin, qu’est-ce que ça a de «* manqué *» cette parole ?
+je vous dis ça, parce que ce n’est quand même pas un exemple où je dévoile un de mes patients,
+
+mais enfin c’est en effet il n’y a pas longtemps, qu’un de mes patients m’a, pen­dant 5 minutes*, à chaque fois*
+
+*en se reprenant et en rigolant, mais ça ne lui fait ni chaud ni froid, hein*, a appelé sa mère : « *ma femme* »,
+
+« *C’est pas ma femme, parce que ma femme, etc*. », et il a continué pendant cinq minutes, il l’a bien répété 20 fois ...mais, enfin, qu’est-ce que ça a de «* manqué *» cette parole ?
 
 <!-- id: s18-05-0199 -->
 
@@ -850,9 +850,9 @@ Bon alors nous avons une nouvelle figure du progrès qui est l’issue dans le m
 
 <!-- id: s18-05-0208 -->
 
-> c’est un substitut donné à cette idée de l’évolution qui aboutit comme vous le savez, *au haut de l’échelle*
->
-> *animale*, à cette *conscience* qui nous caractérise, grâce à quoi nous brillons de l’éclat que vous savez ...alors il apparaît dans le monde de *la programmation*.
+c’est un substitut donné à cette idée de l’évolution qui aboutit comme vous le savez, *au haut de l’échelle*
+
+*animale*, à cette *conscience* qui nous caractérise, grâce à quoi nous brillons de l’éclat que vous savez ...alors il apparaît dans le monde de *la programmation*.
 
 <!-- id: s18-05-0209 -->
 
@@ -884,9 +884,9 @@ Quoi qu’il en soit, vous m’en croirez si vous voulez, étant donné l’éta
 
 <!-- id: s18-05-0216 -->
 
-> parce que je fais ça, hein ? Je me crois *obligé de faire ça* - la seule chose dont je n’ai jamais traité,
->
-> c’est du *surmoi* \[*Rires*\] - Je me crois obligé de lire ça de bout en bout. C’est comme ça ! ...pour être sûr, sûr de choses que m’a appris, que me démontre mon expérience la plus quotidienne, mais enfin quand même, j’ai du respect pour les savants.
+parce que je fais ça, hein ? Je me crois *obligé de faire ça* - la seule chose dont je n’ai jamais traité,
+
+c’est du *surmoi* \[*Rires*\] - Je me crois obligé de lire ça de bout en bout. C’est comme ça ! ...pour être sûr, sûr de choses que m’a appris, que me démontre mon expérience la plus quotidienne, mais enfin quand même, j’ai du respect pour les savants.
 
 <!-- id: s18-05-0217 -->
 
@@ -918,11 +918,11 @@ Eh bien cet ouvrage de Madeleine David[^45]...
 
 <!-- id: s18-05-0224 -->
 
-> faudrait aussi que de temps en temps vous vous donniez la peine de lire quelque chose \[*Rires*\], vous pourriez lire ça... enfin passons ...parce que pour ce que je vais achever de vous dire que *l’écriture*...
+faudrait aussi que de temps en temps vous vous donniez la peine de lire quelque chose \[*Rires*\], vous pourriez lire ça... enfin passons ...parce que pour ce que je vais achever de vous dire que *l’écriture*...
 
 <!-- id: s18-05-0225 -->
 
-> c’est là que nous en resterons pour aujourd’hui ...que *l’écriture* en somme est quelque chose qui se trouve, du fait d’être cette *représentation de la parole* sur laquelle, vous le voyez bien, je n’ai pas insisté, « *représentation »* ça signifie aussi répercussion : parce qu’il n’est pas du tout sûr que sans *l’écriture* il y aurait des mots, c’est peut-être la *représenta­tion* qui les fait en tant que tels, ces mots.
+c’est là que nous en resterons pour aujourd’hui ...que *l’écriture* en somme est quelque chose qui se trouve, du fait d’être cette *représentation de la parole* sur laquelle, vous le voyez bien, je n’ai pas insisté, « *représentation »* ça signifie aussi répercussion : parce qu’il n’est pas du tout sûr que sans *l’écriture* il y aurait des mots, c’est peut-être la *représenta­tion* qui les fait en tant que tels, ces mots.
 
 <!-- id: s18-05-0226 -->
 
@@ -930,7 +930,7 @@ Quand vous vous serez un peu frottés à une langue comme celle que je suis en t
 
 <!-- id: s18-05-0227 -->
 
-> et en effet dont je ne suis pas après tout absolu­ment sûr dans ce cas-là que c’est un effet de *surmoi* ...*la langue japonaise*, eh bien vous vous apercevrez alors de ce *qu’une écriture ça peut travailler une langue*.
+et en effet dont je ne suis pas après tout absolu­ment sûr dans ce cas-là que c’est un effet de *surmoi* ...*la langue japonaise*, eh bien vous vous apercevrez alors de ce *qu’une écriture ça peut travailler une langue*.
 
 <!-- id: s18-05-0228 -->
 
@@ -938,9 +938,9 @@ Et telle qu’elle est faite, cette langue mélodieuse, qui est merveilleuse de 
 
 <!-- id: s18-05-0229 -->
 
-> quand je pense que c’est une langue où les adjectifs se conjuguent, et que j’ai attendu jusqu’à mon âge pour avoir ça à ma disposition, je ne sais vraiment pas ce que j’ai fait jusqu’ici.
->
-> Moi, je n’aspirai qu’à ça : que les adjectifs se conjuguent \[*Rires*\] ...et une langue où les flexions ont ceci d’absolument merveilleux qu’elles se promènent toutes seules.
+quand je pense que c’est une langue où les adjectifs se conjuguent, et que j’ai attendu jusqu’à mon âge pour avoir ça à ma disposition, je ne sais vraiment pas ce que j’ai fait jusqu’ici.
+
+Moi, je n’aspirai qu’à ça : que les adjectifs se conjuguent \[*Rires*\] ...et une langue où les flexions ont ceci d’absolument merveilleux qu’elles se promènent toutes seules.
 
 <!-- id: s18-05-0230 -->
 
@@ -952,7 +952,7 @@ Vous lui foutez une prononciation chinoise, tout à fait différente de la prono
 
 <!-- id: s18-05-0232 -->
 
-> si vous êtes initié, mais naturellement il n’y a que les naturels qui le savent ...vous le prononcez « *on-yomi* » ou « *kun-yomi *»[^46] selon les cas, qui sont toujours très précis, et pour le type qui arrive là comme moi, pas question de savoir lequel des deux il faut choisir.
+si vous êtes initié, mais naturellement il n’y a que les naturels qui le savent ...vous le prononcez « *on-yomi* » ou « *kun-yomi *»[^46] selon les cas, qui sont toujours très précis, et pour le type qui arrive là comme moi, pas question de savoir lequel des deux il faut choisir.
 
 <!-- id: s18-05-0233 -->
 
@@ -1000,7 +1000,7 @@ Comment est-ce qu’il aurait pu faire sa petite barre avec les trucs du dessous
 
 <!-- id: s18-05-0244 -->
 
-> dont j’ai suffisamment usé et abusé ...s’il n’y avait pas d’écriture ?
+dont j’ai suffisamment usé et abusé ...s’il n’y avait pas d’écriture ?
 
 <!-- id: s18-05-0245 -->
 
@@ -1016,7 +1016,7 @@ Ce qu’on appelle, ce que les mathématiciens eux-mêmes, quand ils expo­sent 
 
 <!-- id: s18-05-0248 -->
 
-> c’est ce que j’ai appelé tout à l’heure « *démontrer* », bien sûr, ...mais le langage c’est là ce dont il s’agit \[*lapsus*\]... *<u>l’écri­ture</u>* est ce dont il s’agit, ce dont on parle.
+c’est ce que j’ai appelé tout à l’heure « *démontrer* », bien sûr, ...mais le langage c’est là ce dont il s’agit \[*lapsus*\]... *<u>l’écri­ture</u>* est ce dont il s’agit, ce dont on parle.
 
 <!-- id: s18-05-0249 -->
 
@@ -1032,7 +1032,7 @@ Vous m’en croirez si vous voulez, ce que je me suis dit ce matin en me réveil
 
 <!-- id: s18-05-0252 -->
 
-> après avoir lu Madeleine David jusqu’à une heure ...je me suis dit que quand même ce n’était pas absolu­ment pour rien que mes « *Écrits »* commençaient par « *le séminaire sur La Lettre volée ».*
+après avoir lu Madeleine David jusqu’à une heure ...je me suis dit que quand même ce n’était pas absolu­ment pour rien que mes « *Écrits »* commençaient par « *le séminaire sur La Lettre volée ».*
 
 <!-- id: s18-05-0253 -->
 
@@ -1076,9 +1076,9 @@ Je vais le faire quand même parce que, il y en a qui pourraient ne pas s’en a
 
 <!-- id: s18-05-0263 -->
 
-> vous avez peut-être lu le conte de Poe en question,
->
-> la Reine reçoit, c’est une lettre un peu drôle quand même ...*on ne saura jamais ce qu’il y a dedans*.
+vous avez peut-être lu le conte de Poe en question,
+
+la Reine reçoit, c’est une lettre un peu drôle quand même ...*on ne saura jamais ce qu’il y a dedans*.
 
 <!-- id: s18-05-0264 -->
 

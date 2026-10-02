@@ -262,7 +262,7 @@ Les développements engendrés sur le plan du savoir seront à prendre dans leur
 
 <!-- id: s13-04-0065 -->
 
-> qui tend sans relâche à annuler ou à nullifier la perte de l’objet …à ce qui s’est signifié autour de cette perte, par les traces laissées de ce travail, dont *l’objet(a)* sera le repère le plus sûr, *l’index de la vérité pointé vers le sujet*.
+qui tend sans relâche à annuler ou à nullifier la perte de l’objet …à ce qui s’est signifié autour de cette perte, par les traces laissées de ce travail, dont *l’objet(a)* sera le repère le plus sûr, *l’index de la vérité pointé vers le sujet*.
 
 <!-- id: s13-04-0066 -->
 
@@ -382,7 +382,11 @@ L’effet de concaténation rejoint la définition par LACAN du signifiant :
 
 <!-- id: s13-04-0095 -->
 
-> « *Le signifiant est ce qui représente un sujet pour un autre signifiant.* »
+<div class="text-quotation">
+
+« *Le signifiant est ce qui représente un sujet pour un autre signifiant.* »
+
+</div>
 
 <!-- id: s13-04-0096 -->
 
@@ -442,7 +446,7 @@ Citons ici FREUD, avec LECLAIRE : « *Faeces* », « *enfant* », « *péni
 
 <!-- id: s13-04-0110 -->
 
-> celle de la phonologie où les rapports sont toujours posés en termes de couples antagonistes et celle qu’on met à la base de toute information …on substitue ici *un processus opératoire à trois termes : n, +, n’, avec évanouissement d’un terme sitôt qu’il s’est manifesté.*
+celle de la phonologie où les rapports sont toujours posés en termes de couples antagonistes et celle qu’on met à la base de toute information …on substitue ici *un processus opératoire à trois termes : n, +, n’, avec évanouissement d’un terme sitôt qu’il s’est manifesté.*
 
 <!-- id: s13-04-0111 -->
 
@@ -550,15 +554,19 @@ La demande que ne soutient aucune cause, cause dont l’effet est le trou, par l
 
 <!-- id: s13-04-0137 -->
 
-> « *That I have found*
->
-> *the very cause of Hamlet’s lunacy*
->
-> *I will be brief. Your noble son is mad*
->
-> *Mad call I it ; for to define true madness*
->
-> *What is’t but to be nothing else but mad.* »
+<div class="text-quotation">
+
+« *That I have found*
+
+*the very cause of Hamlet’s lunacy*
+
+*I will be brief. Your noble son is mad*
+
+*Mad call I it ; for to define true madness*
+
+*What is’t but to be nothing else but mad.* »
+
+</div>
 
 <!-- id: s13-04-0138 -->
 
@@ -566,13 +574,17 @@ Et plus loin :
 
 <!-- id: s13-04-0139 -->
 
-> « *That we find out the cause of this effect,*
->
-> *Or rather say, the cause of this defect,*
->
-> *For this effect defective comes by cause*
->
-> *Thus it remains, and the remainder thus Perpend.* »
+<div class="text-quotation">
+
+« *That we find out the cause of this effect,*
+
+*Or rather say, the cause of this defect,*
+
+*For this effect defective comes by cause*
+
+*Thus it remains, and the remainder thus Perpend.* »
+
+</div>
 
 <!-- id: s13-04-0140 -->
 
@@ -836,7 +848,7 @@ Ce qui au niveau du sujet fonctionne comme cause…
 
 <!-- id: s13-04-0205 -->
 
-> dans la recherche de la vérité en tant qu’elle est question des origines, rapport au géniteur …fonctionne comme *Loi* au niveau socio-anthropologique.
+dans la recherche de la vérité en tant qu’elle est question des origines, rapport au géniteur …fonctionne comme *Loi* au niveau socio-anthropologique.
 
 <!-- id: s13-04-0206 -->
 
@@ -1068,9 +1080,9 @@ J’ai donné à ces cahiers…
 
 <!-- id: s13-04-0263 -->
 
-> qui m’apparaissent animés de l’esprit le plus fécond et ceci depuis longtemps, je veux dire
->
-> que le cercle qui va les éditer me parait mériter toute notre attention, à tous …j’ai donné ma première conférence de cette année qui, comme vous l’avez constaté était écrite, pour qu’elle soit publiée dans le premier numéro.
+qui m’apparaissent animés de l’esprit le plus fécond et ceci depuis longtemps, je veux dire
+
+que le cercle qui va les éditer me parait mériter toute notre attention, à tous …j’ai donné ma première conférence de cette année qui, comme vous l’avez constaté était écrite, pour qu’elle soit publiée dans le premier numéro.
 
 <!-- id: s13-04-0264 -->
 
@@ -1118,7 +1130,11 @@ Le propos de STEIN vise à élucider le mode d’action de l’interprétation m
 
 <!-- id: s13-04-0275 -->
 
-> « *Pour pouvoir aborder utilement la question, il faut se demander auparavant en quoi réside le pouvoir de la parole au cours de la séance, quel que soit le choix du contenu de l’interprétation, ce qui débouche sur le problème du pouvoir de la parole en général.* »
+<div class="text-quotation">
+
+« *Pour pouvoir aborder utilement la question, il faut se demander auparavant en quoi réside le pouvoir de la parole au cours de la séance, quel que soit le choix du contenu de l’interprétation, ce qui débouche sur le problème du pouvoir de la parole en général.* »
+
+</div>
 
 <!-- id: s13-04-0276 -->
 
@@ -1126,7 +1142,11 @@ Ce problème, STEIN va l’aborder à partir de certains moments privilégiés d
 
 <!-- id: s13-04-0277 -->
 
-> « *Le patient et l’analyste tendent à être tous les deux en un, en lequel est contenu tout. La situation analytique, idéalement réalisée, ressemblerait tout à fait au sommeil et le discours qui s’y ferait entendre serait un rêve.* »
+<div class="text-quotation">
+
+« *Le patient et l’analyste tendent à être tous les deux en un, en lequel est contenu tout. La situation analytique, idéalement réalisée, ressemblerait tout à fait au sommeil et le discours qui s’y ferait entendre serait un rêve.* »
+
+</div>
 
 <!-- id: s13-04-0278 -->
 
@@ -1202,7 +1222,11 @@ Or, à ce niveau se réalise une fausse liaison constitutive du transfert.
 
 <!-- id: s13-04-0296 -->
 
-> « *Dans la situation analytique se produit un phénomène de confusion, de coalescence entre la représentation de l’intervention de l’analyste et la reconnaissance de la réalité du fait qu’il peut parler.* »
+<div class="text-quotation">
+
+« *Dans la situation analytique se produit un phénomène de confusion, de coalescence entre la représentation de l’intervention de l’analyste et la reconnaissance de la réalité du fait qu’il peut parler.* »
+
+</div>
 
 <!-- id: s13-04-0297 -->
 
@@ -1390,7 +1414,7 @@ Ce n’est pas maintenant que - moi - je vais mettre en valeur tout ce qui m’a
 
 <!-- id: s13-04-0343 -->
 
-> avec les dernières notations topologiques que je vous ai données, il va paraître tout à fait clair que la différence de ce que j’ai assené comme articulation avec ce qui est jusqu’ici reçu dans cet ordre et montré en même temps, ce qui est toujours nécessaire, comment la confusion a pu se produire …que c’est là un nœud, qu’avant de l’aborder, on en approche, ce n’est pas maintenant que je vais le marquer. Peut–être même pas aujourd’hui du tout, quoique, que je peux peut-être à la fin de la séance en donner une indication.
+avec les dernières notations topologiques que je vous ai données, il va paraître tout à fait clair que la différence de ce que j’ai assené comme articulation avec ce qui est jusqu’ici reçu dans cet ordre et montré en même temps, ce qui est toujours nécessaire, comment la confusion a pu se produire …que c’est là un nœud, qu’avant de l’aborder, on en approche, ce n’est pas maintenant que je vais le marquer. Peut–être même pas aujourd’hui du tout, quoique, que je peux peut-être à la fin de la séance en donner une indication.
 
 <!-- id: s13-04-0344 -->
 
@@ -1450,7 +1474,7 @@ Et cette deuxième proposition, qu’il s’agit de considérer le contenu des p
 
 <!-- id: s13-04-0358 -->
 
-> que je me permets de réintroduire ici pour la clarté de ce que je veux dire …qui sont les termes, bien entendu, de signifiant et de signifié, et dont je pense que leur introduction, met mieux sur les rails ce que STEIN veut dire.
+que je me permets de réintroduire ici pour la clarté de ce que je veux dire …qui sont les termes, bien entendu, de signifiant et de signifié, et dont je pense que leur introduction, met mieux sur les rails ce que STEIN veut dire.
 
 <!-- id: s13-04-0359 -->
 
@@ -1470,7 +1494,7 @@ Je reprends ici un petit point développé par CONTÉ. C’est que la parole dan
 
 <!-- id: s13-04-0363 -->
 
-> celle de la réalité dont, à tort, le patient le ferait agent.
+celle de la réalité dont, à tort, le patient le ferait agent.
 
 <!-- id: s13-04-0364 -->
 
@@ -1522,7 +1546,7 @@ On pourrait également se demander *si situer la chose ainsi*…
 
 <!-- id: s13-04-0376 -->
 
-> je veux dire *la parole de l’analyste* à cette place ne vient pas, cette parole qui peut, soit combler cette régression narcissique, soit introduire la coupure …si voir les choses ainsi ne vient pas rappeler cette bivalence courante et fréquente qui rappelle une spéculation fréquente qui a sans doute sa valeur sur le bon et sur le mauvais objet.
+je veux dire *la parole de l’analyste* à cette place ne vient pas, cette parole qui peut, soit combler cette régression narcissique, soit introduire la coupure …si voir les choses ainsi ne vient pas rappeler cette bivalence courante et fréquente qui rappelle une spéculation fréquente qui a sans doute sa valeur sur le bon et sur le mauvais objet.
 
 <!-- id: s13-04-0377 -->
 
@@ -1530,7 +1554,7 @@ On pourrait se demander si également *situer les choses ainsi* n’est pas quel
 
 <!-- id: s13-04-0378 -->
 
-> car à mes yeux, je dois dire, ça a paru comme assez surprenant …le fait que si le sujet vient à manquer à la règle fondamentale dans la cure, il puisse immédiatement se sentir *coupable de masturbation*. On peut donc dire que là aussi, en situant les choses ainsi, où *coupable de quelque satisfaction auto-érotique originelle*.
+car à mes yeux, je dois dire, ça a paru comme assez surprenant …le fait que si le sujet vient à manquer à la règle fondamentale dans la cure, il puisse immédiatement se sentir *coupable de masturbation*. On peut donc dire que là aussi, en situant les choses ainsi, où *coupable de quelque satisfaction auto-érotique originelle*.
 
 <!-- id: s13-04-0379 -->
 

@@ -110,7 +110,7 @@ Parce que c’est ça ce que j’ai appelé tout à l’heure *la résonance*...
 
 <!-- id: s21-04-0027 -->
 
-> *la résonance* chez vous, que vous le sachiez ou pas ...de ce que la derniè­re fois j’ai supporté de mon nœud borroméen, de mon dire.
+*la résonance* chez vous, que vous le sachiez ou pas ...de ce que la derniè­re fois j’ai supporté de mon nœud borroméen, de mon dire.
 
 <!-- id: s21-04-0028 -->
 
@@ -138,11 +138,11 @@ Mais vous êtes encore plus cons...
 
 <!-- id: s21-04-0034 -->
 
-> comme j’ai déjà eu l’occasion de vous le dire la dernière fois ...parce que, même si vous n’êtes pas croyants, à cette aspiration...
+comme j’ai déjà eu l’occasion de vous le dire la dernière fois ...parce que, même si vous n’êtes pas croyants, à cette aspiration...
 
 <!-- id: s21-04-0035 -->
 
-> je vous le montrerai tout, au cours de ce que je vais vous dire aujourd’hui ...à cette aspiration vous y croyez. Je ne dirai pas que vous la supposez : elle vous suppose.
+je vous le montrerai tout, au cours de ce que je vais vous dire aujourd’hui ...à cette aspiration vous y croyez. Je ne dirai pas que vous la supposez : elle vous suppose.
 
 <!-- id: s21-04-0036 -->
 
@@ -208,9 +208,9 @@ Il se réfère, rien de plus...
 
 <!-- id: s21-04-0051 -->
 
-> en tout cas c’est à ça que je me limiterai aujourd’hui,
->
-> simplement pour décaler ce que je viens de tracer, de la tradition, de la métaphore du « *connaître »* ...disons qu’il se réfère d’abord à l’*événement*, à ces choses qui arrivent, disons quand un homme rencontre une femme.
+en tout cas c’est à ça que je me limiterai aujourd’hui,
+
+simplement pour décaler ce que je viens de tracer, de la tradition, de la métaphore du « *connaître »* ...disons qu’il se réfère d’abord à l’*événement*, à ces choses qui arrivent, disons quand un homme rencontre une femme.
 
 <!-- id: s21-04-0052 -->
 
@@ -230,13 +230,13 @@ Je voudrais vous suggérer ceci...
 
 <!-- id: s21-04-0056 -->
 
-> puisque nous sommes partis de deux points extrêmes ...je vous propose, à propos du commandement de *l’amour divin*...
+puisque nous sommes partis de deux points extrêmes ...je vous propose, à propos du commandement de *l’amour divin*...
 
 <!-- id: s21-04-0057 -->
 
-> que je vous ai évoqué la dernière fois en vous interpellant pour vous dire : « *oui ou non, ça fait* **2** *ou* **3** ? »,
->
-> vous vous en souvenez peut-être, enfin, ceux qui étaient là ...alors je le modifie légè­rement : quel effet ça vous fait si je l’énonce « *tu aimeras ta prochaine comme toi-même* » ?
+que je vous ai évoqué la dernière fois en vous interpellant pour vous dire : « *oui ou non, ça fait* **2** *ou* **3** ? »,
+
+vous vous en souvenez peut-être, enfin, ceux qui étaient là ...alors je le modifie légè­rement : quel effet ça vous fait si je l’énonce « *tu aimeras ta prochaine comme toi-même* » ?
 
 <!-- id: s21-04-0058 -->
 
@@ -264,11 +264,11 @@ J’ai beaucoup parlé de l’*occulte*...
 
 <!-- id: s21-04-0064 -->
 
-> et croyez le bien, je me mets à la même place ...j’ai beaucoup parlé de l’*occulte* mais le point important...
+et croyez le bien, je me mets à la même place ...j’ai beaucoup parlé de l’*occulte* mais le point important...
 
 <!-- id: s21-04-0065 -->
 
-> il y en a eu un ou deux à le remarquer ...c’est que j’ai dit qu’il n’y a pas d’*initiation*.
+il y en a eu un ou deux à le remarquer ...c’est que j’ai dit qu’il n’y a pas d’*initiation*.
 
 <!-- id: s21-04-0066 -->
 
@@ -280,7 +280,7 @@ C’est la même chose que de dire : « *il n’y a pas de rapport sexuel »*
 
 <!-- id: s21-04-0068 -->
 
-> c’est là le problème dont retentit ce que j’ai dit la dernière fois ...*c’est tout* de même un fait, qu’on appelle *le rapport complexe* - c’est le moins qu’on puisse dire - *d’un homme et d’une femme*.
+c’est là le problème dont retentit ce que j’ai dit la dernière fois ...*c’est tout* de même un fait, qu’on appelle *le rapport complexe* - c’est le moins qu’on puisse dire - *d’un homme et d’une femme*.
 
 <!-- id: s21-04-0069 -->
 
@@ -288,7 +288,7 @@ Alors là, peut-être que je peux raccrocher ceci, qui est au cœur de mon titre
 
 <!-- id: s21-04-0070 -->
 
-> dit « complexe » à juste titre ...d’un homme et d’une femme, on va le mettre au compte simple­ment *d’avoir fait ensemble* ce que j’ai appelé, je le remarque,
+dit « complexe » à juste titre ...d’un homme et d’une femme, on va le mettre au compte simple­ment *d’avoir fait ensemble* ce que j’ai appelé, je le remarque,
 
 <!-- id: s21-04-0071 -->
 
@@ -320,9 +320,9 @@ Quand on est un bonhomme et une bonne femme...
 
 <!-- id: s21-04-0078 -->
 
-> comme ils disaient autrefois les existentialistes - je parle de la *bonne femme*,
->
-> il ne leur venait pas à l’idée de parler du *bonhomme*, Dieu sait pourquoi, c’est pourtant le meilleur ...un bonhomme et une bonne femme qui auraient fait un bout de chemin ensemble, il y aurait, à l’horizon de l’amour, le grand-père et la grand-mère.
+comme ils disaient autrefois les existentialistes - je parle de la *bonne femme*,
+
+il ne leur venait pas à l’idée de parler du *bonhomme*, Dieu sait pourquoi, c’est pourtant le meilleur ...un bonhomme et une bonne femme qui auraient fait un bout de chemin ensemble, il y aurait, à l’horizon de l’amour, le grand-père et la grand-mère.
 
 <!-- id: s21-04-0079 -->
 
@@ -342,7 +342,7 @@ Si je pose la question...
 
 <!-- id: s21-04-0083 -->
 
-> ça c’est un « bateau » lacanien ...c’est sans doute que j’ai la répon­se. Mais il y en a beaucoup, il n’y a même pas une question qui ait plus de réponses.
+ça c’est un « bateau » lacanien ...c’est sans doute que j’ai la répon­se. Mais il y en a beaucoup, il n’y a même pas une question qui ait plus de réponses.
 
 <!-- id: s21-04-0084 -->
 
@@ -374,7 +374,7 @@ Parce qu’enfin, il faut bien le dire...
 
 <!-- id: s21-04-0091 -->
 
-> pour prendre ma référence de tout à l’heure ...les circonstances ne sont pas tou­jours à l’entraide, quand il arrive que se produise, entre un homme et une femme, l’*amour*.
+pour prendre ma référence de tout à l’heure ...les circonstances ne sont pas tou­jours à l’entraide, quand il arrive que se produise, entre un homme et une femme, l’*amour*.
 
 <!-- id: s21-04-0092 -->
 
@@ -474,7 +474,7 @@ Il implique mon *dire* comme *événement* dans ce qu’il est, avec ses trois f
 
 <!-- id: s21-04-0116 -->
 
-> lequel événement consiste à ce que, quoi qu’il en soit, chacun de vous peut lui donner du sens qu’il a.
+lequel événement consiste à ce que, quoi qu’il en soit, chacun de vous peut lui donner du sens qu’il a.
 
 <!-- id: s21-04-0117 -->
 
@@ -526,7 +526,7 @@ Alors que dans une chaîne simple, je vais vous la mettre au tableau.
 
 <!-- id: s21-04-0129 -->
 
-> *nœud olympique ouvert*
+*nœud olympique ouvert*
 
 <!-- id: s21-04-0130 -->
 
@@ -542,7 +542,7 @@ Sans ça, si vous prenez d’abord un des deux extrêmes, les deux autres resten
 
 <!-- id: s21-04-0133 -->
 
-> *nœud borroméen nœud olympique*
+*nœud borroméen nœud olympique*
 
 <!-- id: s21-04-0134 -->
 
@@ -574,7 +574,7 @@ Nous y sommes assez, dans cette affaire, pour qu’on puisse dire que l’import
 
 <!-- id: s21-04-0141 -->
 
-> dans chacun de ces termes que je distingue de trois catégories ...ce qui fait consistance est strictement équivalent.
+dans chacun de ces termes que je distingue de trois catégories ...ce qui fait consistance est strictement équivalent.
 
 <!-- id: s21-04-0142 -->
 
@@ -590,7 +590,7 @@ Si je dis que...
 
 <!-- id: s21-04-0145 -->
 
-> comme je vous l’ai montré la dernière fois, non sans qu’on me l’a fait remarquer : quelqu’un qui a bien voulu m’écrire une petite note sur ces sujets qui démontrait que la personne n’y avait pas compris grand-chose, mais qui quand même m’a fait remarquer incidemment, que ce n’était pas sans maladresse que je vous avais mani­pulé ces ustensiles, ...si c’est vrai ce que je dis, à savoir que le nœud borroméen a cette curieuse propriété : qu’on peut dans cette construction mettre chacun à la même place strictement que n’importe lequel des deux autres... quoique ça ne saute pas aux yeux tout de suite, d’abord ...eh bien, si chacun peut dans cette fonction être qualifié pour sa consistance, de strictement équivalent, qu’il soit considéré comme *Réel* ou comme *Imaginaire* ou comme *Symbolique*, alors avec ce rond, qui consiste justement en un nœud borroméen, je peux faire un nœud borroméen, en simplement, si j’avais le temps, enchaîner ces trois nœuds borroméens.
+comme je vous l’ai montré la dernière fois, non sans qu’on me l’a fait remarquer : quelqu’un qui a bien voulu m’écrire une petite note sur ces sujets qui démontrait que la personne n’y avait pas compris grand-chose, mais qui quand même m’a fait remarquer incidemment, que ce n’était pas sans maladresse que je vous avais mani­pulé ces ustensiles, ...si c’est vrai ce que je dis, à savoir que le nœud borroméen a cette curieuse propriété : qu’on peut dans cette construction mettre chacun à la même place strictement que n’importe lequel des deux autres... quoique ça ne saute pas aux yeux tout de suite, d’abord ...eh bien, si chacun peut dans cette fonction être qualifié pour sa consistance, de strictement équivalent, qu’il soit considéré comme *Réel* ou comme *Imaginaire* ou comme *Symbolique*, alors avec ce rond, qui consiste justement en un nœud borroméen, je peux faire un nœud borroméen, en simplement, si j’avais le temps, enchaîner ces trois nœuds borroméens.
 
 <!-- id: s21-04-0146 -->
 
@@ -658,7 +658,7 @@ Oui, dans ces propriétés du triple, il y a ceci : que puisque cha­cun des ter
 
 <!-- id: s21-04-0162 -->
 
-> un rapport réel, en tout cas symboli­sable ...avec ce moyen, ce « *moyen* » qui lui, laisse bien vidés de toute-puissance les deux « *extrême*s ».
+un rapport réel, en tout cas symboli­sable ...avec ce moyen, ce « *moyen* » qui lui, laisse bien vidés de toute-puissance les deux « *extrême*s ».
 
 <!-- id: s21-04-0163 -->
 
@@ -694,17 +694,17 @@ Pour vous en montrer l’intérêt, à savoir l’intérêt de ceci : de prendre
 
 <!-- id: s21-04-0171 -->
 
-> que je vais quand même vous dessiner puis­qu’il y a des gens qui ont l’air de prendre intérêt à ce que je dis,
->
-> bon, que je vais vous dessiner comme ça, je ne sais pas si vous vous en souvenez, c’est ça, et voilà ...l’intérêt de les prendre chacun comme « *moyen* »...
+que je vais quand même vous dessiner puis­qu’il y a des gens qui ont l’air de prendre intérêt à ce que je dis,
+
+bon, que je vais vous dessiner comme ça, je ne sais pas si vous vous en souvenez, c’est ça, et voilà ...l’intérêt de les prendre chacun comme « *moyen* »...
 
 <!-- id: s21-04-0172 -->
 
-> puis­que aujourd’hui c’est de *sens* que je parle, ...c’est de vous les pousser en avant, comme ça, interprétés. Voilà.
+puis­que aujourd’hui c’est de *sens* que je parle, ...c’est de vous les pousser en avant, comme ça, interprétés. Voilà.
 
 <!-- id: s21-04-0173 -->
 
-> <img src="assets/image15.png" style="width:1.10347in;height:1.05696in" alt="C:\Users\ALAIN\LACAN séminaires\S21 Documents\626px-BorromeanRings.png" />
+<img src="assets/image15.png" style="width:1.10347in;height:1.05696in" alt="C:\Users\ALAIN\LACAN séminaires\S21 Documents\626px-BorromeanRings.png" />
 
 <!-- id: s21-04-0174 -->
 
@@ -744,7 +744,7 @@ Il y suffit pour cela que *ce Symbolique pris en tant qu’amour, qu’amour div
 
 <!-- id: s21-04-0183 -->
 
-> ça lui va bien ...il est sous la forme de ce commandement qui met au pinacle *l’être et l’amour.*
+ça lui va bien ...il est sous la forme de ce commandement qui met au pinacle *l’être et l’amour.*
 
 <!-- id: s21-04-0184 -->
 
@@ -780,9 +780,9 @@ Cette perversion de l’Autre comme tel, instaure dans l’histoire sadique de l
 
 <!-- id: s21-04-0192 -->
 
-> et dans tout ce qui s’ensuit, d’avoir adopté bien sûr ce mythe pré-chrétien, pourquoi pas,
->
-> il est peut-être aussi bon qu’un autre ...instaure dans *l’Imaginaire*, dans le corps, justement cette sorte de lévitation, d’insensibilisation de ce qui le concerne, qui est après tout - je n’ai pas besoin d’y insister plus - toute l’histoire de ce qu’on a appelé *l’arianisme,* voire *le marcionisme* [^9].
+et dans tout ce qui s’ensuit, d’avoir adopté bien sûr ce mythe pré-chrétien, pourquoi pas,
+
+il est peut-être aussi bon qu’un autre ...instaure dans *l’Imaginaire*, dans le corps, justement cette sorte de lévitation, d’insensibilisation de ce qui le concerne, qui est après tout - je n’ai pas besoin d’y insister plus - toute l’histoire de ce qu’on a appelé *l’arianisme,* voire *le marcionisme* [^9].
 
 <!-- id: s21-04-0193 -->
 
@@ -906,15 +906,15 @@ Si comme tout à l’heure...
 
 <!-- id: s21-04-0223 -->
 
-> et c’est en cela que s’épingle ce que je vous ai articulé comme *à vomir* ...je donne toujours ce sens sommaire de la mort au *Réel*, comme constituant son noyau, et au *Symbolique*...
+et c’est en cela que s’épingle ce que je vous ai articulé comme *à vomir* ...je donne toujours ce sens sommaire de la mort au *Réel*, comme constituant son noyau, et au *Symbolique*...
 
 <!-- id: s21-04-0224 -->
 
-> car jusqu’ici je n’ai pas eu à l’avancer ...au *Symbolique* ce qu’il nous révèle par son usage dans la parole, et spécia­lement dans la parole de l’amour,de supporter...
+car jusqu’ici je n’ai pas eu à l’avancer ...au *Symbolique* ce qu’il nous révèle par son usage dans la parole, et spécia­lement dans la parole de l’amour,de supporter...
 
 <!-- id: s21-04-0225 -->
 
-> ce qu’en effet toute l’ana­lyse nous fait sentir ...de supporter *la jouissance*.
+ce qu’en effet toute l’ana­lyse nous fait sentir ...de supporter *la jouissance*.
 
 <!-- id: s21-04-0226 -->
 
@@ -946,7 +946,7 @@ Je ne vois pas d’ailleurs pourquoi quelque économiste me contredirait
 
 <!-- id: s21-04-0233 -->
 
-> puis­qu’au delà de l’âge féodal, il ne veut plus rien connaître ...il est ce qui se conservait dans l’aire féodale.
+puis­qu’au delà de l’âge féodal, il ne veut plus rien connaître ...il est ce qui se conservait dans l’aire féodale.
 
 <!-- id: s21-04-0234 -->
 
@@ -970,7 +970,7 @@ Comment a pu se produire ce déplacement, après tout fécond, qui dans l’amou
 
 <!-- id: s21-04-0239 -->
 
-> vous verrez à la fin pourquoi ...à la place qui me semble être celle du désir ?
+vous verrez à la fin pourquoi ...à la place qui me semble être celle du désir ?
 
 <!-- id: s21-04-0240 -->
 
@@ -978,7 +978,7 @@ La chose n’a été possible...
 
 <!-- id: s21-04-0241 -->
 
-> et c’est en cela que je parle de quelque chose à quoi j’ai un peu pensé ...c’est de ce que le Christ enseigne. Je parle pas de sa Passion, qui est la passion du signifiant, je parle de son *dire*.
+et c’est en cela que je parle de quelque chose à quoi j’ai un peu pensé ...c’est de ce que le Christ enseigne. Je parle pas de sa Passion, qui est la passion du signifiant, je parle de son *dire*.
 
 <!-- id: s21-04-0242 -->
 
@@ -994,11 +994,11 @@ Proférer, articuler ceci comme modèle, c’est là proprement ajouter à la m�
 
 <!-- id: s21-04-0245 -->
 
-> et ce n’est pas pareil ...ajouter à la méconnaissance la dénégation...
+et ce n’est pas pareil ...ajouter à la méconnaissance la dénégation...
 
 <!-- id: s21-04-0246 -->
 
-> et la dénégation de quoi, puisque ce n’est qu’une *métaphore* ...la dénégation de l’inconscient.
+et la dénégation de quoi, puisque ce n’est qu’une *métaphore* ...la dénégation de l’inconscient.
 
 <!-- id: s21-04-0247 -->
 
@@ -1030,7 +1030,7 @@ Et si ce *Réel*...
 
 <!-- id: s21-04-0254 -->
 
-> c’est là l’audace de mon interprétation d’aujourd’hui, enfin de ce soir ...et si ce *Réel* est bien la mort... c’est une figuration grossière ...mais si ce *Réel* est bien la mort, là où le désir fut chassé... si vous me per­mettez de parler en termes d’événement ...là où le désir fut chassé, ce que nous avons c’est *le masochisme*.
+c’est là l’audace de mon interprétation d’aujourd’hui, enfin de ce soir ...et si ce *Réel* est bien la mort... c’est une figuration grossière ...mais si ce *Réel* est bien la mort, là où le désir fut chassé... si vous me per­mettez de parler en termes d’événement ...là où le désir fut chassé, ce que nous avons c’est *le masochisme*.
 
 <!-- id: s21-04-0255 -->
 
@@ -1038,13 +1038,13 @@ Non certes, bien sûr, en tant qu’il serait, en quoi que ce soit, le véhicule
 
 <!-- id: s21-04-0256 -->
 
-> ça il n’y a que les psy­chanalystes pour le croire, les pauvres petits : *instinct de vie, ins­tinct de mort*,
->
-> il n’y a que de ça qu’ils s’occupent dans leur interpréta­tion, ils sont tout à fait à côté de la plaque ...mais que ce soit *le masochisme* qui là les ait suscités, ça ne fait aucun doute : la jonction, l’emploi comme moyen...
+ça il n’y a que les psy­chanalystes pour le croire, les pauvres petits : *instinct de vie, ins­tinct de mort*,
+
+il n’y a que de ça qu’ils s’occupent dans leur interpréta­tion, ils sont tout à fait à côté de la plaque ...mais que ce soit *le masochisme* qui là les ait suscités, ça ne fait aucun doute : la jonction, l’emploi comme moyen...
 
 <!-- id: s21-04-0257 -->
 
-> comme moyen pour unir, pour unir *la jouissance et le corps* ...l’emploi comme moyen de cette perversion, est certes ce qui les attache.
+comme moyen pour unir, pour unir *la jouissance et le corps* ...l’emploi comme moyen de cette perversion, est certes ce qui les attache.
 
 <!-- id: s21-04-0258 -->
 
@@ -1072,7 +1072,7 @@ C’est à *l’imaginaire du beau* qu’elle a à s’affronter, et c’est à 
 
 <!-- id: s21-04-0264 -->
 
-> comme je l’ai dit un jour, en l’écrivant de *l’objet(a)* entre parenthèses, plus le mot *mur* ...puisque *l’(a)mur* c’est ce qui limite.
+comme je l’ai dit un jour, en l’écrivant de *l’objet(a)* entre parenthèses, plus le mot *mur* ...puisque *l’(a)mur* c’est ce qui limite.
 
 <!-- id: s21-04-0265 -->
 
@@ -1096,7 +1096,7 @@ C’est un peu coton mais quand même, ce qu’il faut que je vous dise pour ter
 
 <!-- id: s21-04-0270 -->
 
-> parce que après tout, ça ne se termine pas, tous ces trucs ...ce qu’il faut que je vous montre pour terminer c’est quelque chose qui va répondre à ce que la dernière fois je vous ai dit de la structure de ce nœud, du *nœud borroméen* que vous avez maintenant entre vos mains.
+parce que après tout, ça ne se termine pas, tous ces trucs ...ce qu’il faut que je vous montre pour terminer c’est quelque chose qui va répondre à ce que la dernière fois je vous ai dit de la structure de ce nœud, du *nœud borroméen* que vous avez maintenant entre vos mains.
 
 <!-- id: s21-04-0271 -->
 
@@ -1144,7 +1144,7 @@ Le *nœud borroméen*...
 
 <!-- id: s21-04-0282 -->
 
-> c’est quelqu’un de charmant, qui m’écoute, qui m’a envoyé tout un papier là-dessus ...le nœud borroméen, ça a été abordé par des voies mathématiques, et comme vous le savez, je vous l’ai dit, la théorie des nœuds en est encore au « *b, a, ba* ».
+c’est quelqu’un de charmant, qui m’écoute, qui m’a envoyé tout un papier là-dessus ...le nœud borroméen, ça a été abordé par des voies mathématiques, et comme vous le savez, je vous l’ai dit, la théorie des nœuds en est encore au « *b, a, ba* ».
 
 <!-- id: s21-04-0283 -->
 
@@ -1192,7 +1192,7 @@ Bon. Figurez-vous qu’ils sont dans l’ordre, l’ordre de départ : entre 1,2
 
 <!-- id: s21-04-0294 -->
 
-> comme s’en est très bien aperçu la charmante personne qui m’a écrit sur ce truc ...il s’agit de procéder comme dans *la bande de Mœbius*.
+comme s’en est très bien aperçu la charmante personne qui m’a écrit sur ce truc ...il s’agit de procéder comme dans *la bande de Mœbius*.
 
 <!-- id: s21-04-0295 -->
 

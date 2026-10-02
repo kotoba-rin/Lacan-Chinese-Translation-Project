@@ -106,12 +106,12 @@ Et il arrive que même ce qu’il peut y avoir de plus borné dans ses vues, au 
 
 <!-- id: s11-18-0018 -->
 
-> je ne sais pas si ce terme extrême existe, c’est une fonction ici que je ne désigne
->
-> qu’à la façon dont on désigne, en mathématiques, cette sorte de nombre mythique,
->
-> par exemple, le plus grand nombre qui puisse s’exprimer en tant de mots
-> …*même l’analyste le plus bête* s’en aperçoit, le reconnaît, et dirige l’analy­sé vers ce qui reste pour lui *le sujet supposé savoir*.
+je ne sais pas si ce terme extrême existe, c’est une fonction ici que je ne désigne
+
+qu’à la façon dont on désigne, en mathématiques, cette sorte de nombre mythique,
+
+par exemple, le plus grand nombre qui puisse s’exprimer en tant de mots
+…*même l’analyste le plus bête* s’en aperçoit, le reconnaît, et dirige l’analy­sé vers ce qui reste pour lui *le sujet supposé savoir*.
 
 <!-- id: s11-18-0019 -->
 
@@ -198,7 +198,11 @@ Mais qu’est-ce *que peut vouloir dire* : « *ne pas vouloir désirer* » ? T
 
 <!-- id: s11-18-0036 -->
 
-> « *ne pas vouloir désirer* » et « *vouloir ne pas désirer* ».
+<div class="text-quotation">
+
+« *ne pas vouloir désirer* » et « *vouloir ne pas désirer* ».
+
+</div>
 
 <!-- id: s11-18-0037 -->
 
@@ -220,9 +224,13 @@ ce qui n’est pas pareil - *le trans­fert*. L’axe, le point commun de cette 
 
 <!-- id: s11-18-0040 -->
 
-> « *Le désir de l’homme, c’est le désir de l’Autre.* ».
-> Est-ce qu’il n’y a pas, ici reproduit, cet élément d’aliénation que je vous ai désigné comme essentiel dans le fondement du sujet comme tel à savoir qu’assurément : *ce n’est qu’au niveau du* « *désir de l’Autre* » *que l’homme peut reconnaître son désir*, et qu’assurément :
-> *en tant que* « *désir de l’Autre* » ? Est-ce qu’il n’y a pas là quelque chose qui doit lui paraître en quelque sorte *l’obstacle à ce point d’évanouissement* où jamais son désir ne pourra se reconnaître ?
+<div class="text-quotation">
+
+« *Le désir de l’homme, c’est le désir de l’Autre.* ».
+Est-ce qu’il n’y a pas, ici reproduit, cet élément d’aliénation que je vous ai désigné comme essentiel dans le fondement du sujet comme tel à savoir qu’assurément : *ce n’est qu’au niveau du* « *désir de l’Autre* » *que l’homme peut reconnaître son désir*, et qu’assurément :
+*en tant que* « *désir de l’Autre* » ? Est-ce qu’il n’y a pas là quelque chose qui doit lui paraître en quelque sorte *l’obstacle à ce point d’évanouissement* où jamais son désir ne pourra se reconnaître ?
+
+</div>
 
 <!-- id: s11-18-0041 -->
 
@@ -271,8 +279,8 @@ C’est pourquoi aussi j’ai éprouvé aujourd’hui…
 
 <!-- id: s11-18-0051 -->
 
-> et ceci en raison de la relecture que j’ai faite du travail d’un de mes élèves auquel j’ai fait allu­sion la dernière fois
-> …je vous ai indiqué *l’erreur qu’il y a dans une cer­taine traduction de ce Vorstellungsrepräsentanz qui est le signifiant* S<sub>2</sub> *du couple*.
+et ceci en raison de la relecture que j’ai faite du travail d’un de mes élèves auquel j’ai fait allu­sion la dernière fois
+…je vous ai indiqué *l’erreur qu’il y a dans une cer­taine traduction de ce Vorstellungsrepräsentanz qui est le signifiant* S<sub>2</sub> *du couple*.
 
 <!-- id: s11-18-0052 -->
 
@@ -440,12 +448,20 @@ Il n’en reste pas moins qu’il faut articuler ce qui se passe au niveau de *l
 
 <!-- id: s11-18-0085 -->
 
-> « *pas de mal sans qu’il en résulte un bien* »
-> et quand le bien est là :
+<div class="text-quotation">
+
+« *pas de mal sans qu’il en résulte un bien* »
+et quand le bien est là :
+
+</div>
 
 <!-- id: s11-18-0086 -->
 
-> « *il n’y a pas de bien qui tienne avec le mal* ».
+<div class="text-quotation">
+
+« *il n’y a pas de bien qui tienne avec le mal* ».
+
+</div>
 
 <!-- id: s11-18-0087 -->
 

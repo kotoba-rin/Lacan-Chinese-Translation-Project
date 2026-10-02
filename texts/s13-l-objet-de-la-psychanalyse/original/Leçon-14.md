@@ -38,7 +38,11 @@ Mais vous allez le voir, *j’ai pensé à vous*. Sans plus de préambule donc, 
 
 <!-- id: s13-14-0009 -->
 
-> …*que l’être du sujet soit refendu, Freud n’a fait que le redire, sous toutes les formes, après avoir découvert que l’inconscient ne se traduit qu’en nœud de langage, a donc un être de sujet. C’est de la combinatoire de ces nœuds qu’est franchie la censure, laquelle n’est pas une métaphore, de porter sur leur matériel de ces nœuds du langage.* »
+<div class="text-quotation">
+
+…*que l’être du sujet soit refendu, Freud n’a fait que le redire, sous toutes les formes, après avoir découvert que l’inconscient ne se traduit qu’en nœud de langage, a donc un être de sujet. C’est de la combinatoire de ces nœuds qu’est franchie la censure, laquelle n’est pas une métaphore, de porter sur leur matériel de ces nœuds du langage.* »
+
+</div>
 
 <!-- id: s13-14-0010 -->
 
@@ -54,7 +58,11 @@ Je pense l’avoir résumé là en cinq lignes.
 
 <!-- id: s13-14-0013 -->
 
-> …*D’emblée Freud affirme* - cette incomplétude - *que toute conception d’un recès de la conscience vers l’obscur, le potentiel, voire l’automatisme est inadéquat à rendre compte de ces effets.* »
+<div class="text-quotation">
+
+…*D’emblée Freud affirme* - cette incomplétude - *que toute conception d’un recès de la conscience vers l’obscur, le potentiel, voire l’automatisme est inadéquat à rendre compte de ces effets.* »
+
+</div>
 
 <!-- id: s13-14-0014 -->
 
@@ -66,9 +74,13 @@ Trois lignes donc encore - ce que je précise : « *Voilà qui n’est rappelé
 
 <!-- id: s13-14-0016 -->
 
-> « …*que cette énonciation refend l’être, lequel, de ses deux bouts -* « *Je suis pensant*… », « …*donc je suis.* » à la fin - *ne se conjoint qu’à manifester quelque torsion qu’il a subie dans son nœud.* - son nœud à l’énonciation - *Causation ? Retournement ? Négativité ?*
->
-> \- avec des points d’interrogation - *C’est cette torsion dont il s’agit de faire la topologie.* »
+<div class="text-quotation">
+
+« …*que cette énonciation refend l’être, lequel, de ses deux bouts -* « *Je suis pensant*… », « …*donc je suis.* » à la fin - *ne se conjoint qu’à manifester quelque torsion qu’il a subie dans son nœud.* - son nœud à l’énonciation - *Causation ? Retournement ? Négativité ?*
+
+\- avec des points d’interrogation - *C’est cette torsion dont il s’agit de faire la topologie.* »
+
+</div>
 
 <!-- id: s13-14-0017 -->
 
@@ -76,11 +88,19 @@ Je rappelle ici, dans le suivant paragraphe, sous quel angle j’ai touché à P
 
 <!-- id: s13-14-0018 -->
 
-> « *du premier au second, illustrent le gain qu’on réalise à repousser toute hypothèse psychologique des rapports du sujet au langage, même quand c’est de l’enfant qu’il s’agit. Car cette hypothèse n’est que l’hypothèse qu’un être de savoir prend sur l’être de vérité que l’enfant a à incarner à partir de la batterie signifiante que nous lui présentons*… que lui présente loyalement comme tel VIGOTSKY
+<div class="text-quotation">
+
+« *du premier au second, illustrent le gain qu’on réalise à repousser toute hypothèse psychologique des rapports du sujet au langage, même quand c’est de l’enfant qu’il s’agit. Car cette hypothèse n’est que l’hypothèse qu’un être de savoir prend sur l’être de vérité que l’enfant a à incarner à partir de la batterie signifiante que nous lui présentons*… que lui présente loyalement comme tel VIGOTSKY
+
+</div>
 
 <!-- id: s13-14-0019 -->
 
-> …*et qui fait la loi de l’expérience. Mais c’est anticiper sur une structure qu’il faut saisir dans la synchronie, et d’une rencontre qui ne soit pas d’occasion. C’est ce que nous fournit cet embrayage du* 1 *sur le* 0*, venu à nous du point où Frege entend fonder l’arithmétique.* »
+<div class="text-quotation">
+
+…*et qui fait la loi de l’expérience. Mais c’est anticiper sur une structure qu’il faut saisir dans la synchronie, et d’une rencontre qui ne soit pas d’occasion. C’est ce que nous fournit cet embrayage du* 1 *sur le* 0*, venu à nous du point où Frege entend fonder l’arithmétique.* »
+
+</div>
 
 <!-- id: s13-14-0020 -->
 
@@ -92,9 +112,13 @@ Le 1 numérote la classe nulle. Référence aux conférences de MM. MILLER et MI
 
 <!-- id: s13-14-0022 -->
 
-> « *De là on aperçoit que l’être du sujet est la suture d’un manque. Précisément du manque qui, se dérobant dans le nombre,*
->
-> *le soutient de sa récurrence*… c’est l’idée sur laquelle est fondée la théorie du nombre du successeur …*mais en ceci ne le supporte que d’être en fin de compte, ce qui manque au signifiant pour être l’*1 *du sujet, soit ce terme que nous* *avons appelé dans un autre contexte, le trait unaire, la marque d’une identification primaire qui fonctionnera comme idéal.*
+<div class="text-quotation">
+
+« *De là on aperçoit que l’être du sujet est la suture d’un manque. Précisément du manque qui, se dérobant dans le nombre,*
+
+*le soutient de sa récurrence*… c’est l’idée sur laquelle est fondée la théorie du nombre du successeur …*mais en ceci ne le supporte que d’être en fin de compte, ce qui manque au signifiant pour être l’*1 *du sujet, soit ce terme que nous* *avons appelé dans un autre contexte, le trait unaire, la marque d’une identification primaire qui fonctionnera comme idéal.*
+
+</div>
 
 <!-- id: s13-14-0023 -->
 
@@ -106,7 +130,11 @@ Aussi court que soit la place qu’on me réserve, j’ai tout de même la place
 
 <!-- id: s13-14-0025 -->
 
-> « *D’abord notre axiome, fondant le signifiant comme ce qui représente un sujet - non pas pour un autre sujet mais - pour un autre signifiant. Cet axiome situe le lemme qui vient d’être réacquis d’une autre voie :* … ce que nous venons de dire avant …*le sujet est ce qui répond à la marque par ce dont elle manque. Où se voit que la réversion de la formule*… de celle du signifiant que je viens de donner avant comme axiome …*que la réversion de la formule ne s’opère qu’à introduire, à un de ses pôles – le signifiant – une négativité. La boucle se ferme, sans se réduire à être un cercle, de supposer*… »
+<div class="text-quotation">
+
+« *D’abord notre axiome, fondant le signifiant comme ce qui représente un sujet - non pas pour un autre sujet mais - pour un autre signifiant. Cet axiome situe le lemme qui vient d’être réacquis d’une autre voie :* … ce que nous venons de dire avant …*le sujet est ce qui répond à la marque par ce dont elle manque. Où se voit que la réversion de la formule*… de celle du signifiant que je viens de donner avant comme axiome …*que la réversion de la formule ne s’opère qu’à introduire, à un de ses pôles – le signifiant – une négativité. La boucle se ferme, sans se réduire à être un cercle, de supposer*… »
+
+</div>
 
 <!-- id: s13-14-0026 -->
 
@@ -114,7 +142,11 @@ Troisième terme, appelez-le comme vous voudrez, après l’axiome et le lemme
 
 <!-- id: s13-14-0027 -->
 
-> …*que le signifiant s’origine de l’effacement de la trace. La puissance des mathématiques, la frénésie de notre science ne repose sur rien d’autre que sur la suture du sujet, de la minceur de sa cicatrice*… » et après tout, en parlant de *cicatrice*, ne croyez pas que j’emploie un terme qui répugne à *un mathématicien*, c’est un terme de POINCARÉ, dans son *analysis situs.* « …*ou mieux encore de sa béance, les apories de la logique mathématique témoignent (théorème de Godel) de cette minceur* *–* vous vous rappelez le début de la phrase *– et toujours, bien sûr, au grand scandale de la conscience. On ne s’illusionne pas sur le fait*… moi je ne m’*illusionne* pas, ni j’espère vous non plus …*qu’une critique à ce niveau ne saurait décaper la plaie*… » de la béance du sujet partout ailleurs qu’au niveau où la science la maintient suturée à la force du poignet de l’arithmétique …*ne saurait décaper la plaie des excréments, dont l’ordre de l’exploitation sociale, qui prend assiette de cette ouverture du sujet* et ne crée donc pas - quoi qu’on en pense, fut-ce dans le marxisme - *l’aliénation* …*dont l’ordre donc de l’exploitation sociale* - dis-je - *s’emploie à recouvrir la dite plaie, avec plus ou moins de conscience.* »
+<div class="text-quotation">
+
+…*que le signifiant s’origine de l’effacement de la trace. La puissance des mathématiques, la frénésie de notre science ne repose sur rien d’autre que sur la suture du sujet, de la minceur de sa cicatrice*… » et après tout, en parlant de *cicatrice*, ne croyez pas que j’emploie un terme qui répugne à *un mathématicien*, c’est un terme de POINCARÉ, dans son *analysis situs.* « …*ou mieux encore de sa béance, les apories de la logique mathématique témoignent (théorème de Godel) de cette minceur* *–* vous vous rappelez le début de la phrase *– et toujours, bien sûr, au grand scandale de la conscience. On ne s’illusionne pas sur le fait*… moi je ne m’*illusionne* pas, ni j’espère vous non plus …*qu’une critique à ce niveau ne saurait décaper la plaie*… » de la béance du sujet partout ailleurs qu’au niveau où la science la maintient suturée à la force du poignet de l’arithmétique …*ne saurait décaper la plaie des excréments, dont l’ordre de l’exploitation sociale, qui prend assiette de cette ouverture du sujet* et ne crée donc pas - quoi qu’on en pense, fut-ce dans le marxisme - *l’aliénation* …*dont l’ordre donc de l’exploitation sociale* - dis-je - *s’emploie à recouvrir la dite plaie, avec plus ou moins de conscience.* »
+
+</div>
 
 <!-- id: s13-14-0028 -->
 
@@ -134,9 +166,13 @@ J’ai dit « *depuis la crise ouverte du sujet* », je désigne une date dans
 
 <!-- id: s13-14-0032 -->
 
-> …*impliquée dans le commerce de cette sorte de «  pensement », que nous venons de dire. C’est pourquoi seule l’analyse de cet objet*
->
-> \- *le* « *pensement *» - *peut l’affronter dans son réel qui est d’être l’objet de la psychanalyse.* »
+<div class="text-quotation">
+
+…*impliquée dans le commerce de cette sorte de «  pensement », que nous venons de dire. C’est pourquoi seule l’analyse de cet objet*
+
+\- *le* « *pensement *» - *peut l’affronter dans son réel qui est d’être l’objet de la psychanalyse.* »
+
+</div>
 
 <!-- id: s13-14-0033 -->
 
@@ -156,7 +192,11 @@ C’est précisément là ce pourquoi je vous fais cette lecture : je voudrais 
 
 <!-- id: s13-14-0037 -->
 
-> …*à savoir le psychanalyste ? C’est bien ce que nous trouvons dans le phénomène, notable cette année-là, de l’avance prise par une autre partie de notre auditoire, à nous donner ce succès* - dis-je - *de confirmer la théorie que nous tenons pour juste, de la communication <u>dans</u> le langage.* »
+<div class="text-quotation">
+
+…*à savoir le psychanalyste ? C’est bien ce que nous trouvons dans le phénomène, notable cette année-là, de l’avance prise par une autre partie de notre auditoire, à nous donner ce succès* - dis-je - *de confirmer la théorie que nous tenons pour juste, de la communication <u>dans</u> le langage.* »
+
+</div>
 
 <!-- id: s13-14-0038 -->
 
@@ -176,7 +216,7 @@ Ceci est un hommage à l’*École Normale Supérieure*.
 
 <!-- id: s13-14-0042 -->
 
-> *la résistance qu’elle comporte* - cette réserve - et j’ajoute : …*et qui se justifie. Elle se justifie de ce que les engagements soient d’être et non de pensée, et que les deux bords de l’être du sujet se diversifient ici de la divergence entre vérité et savoir. La difficulté d’être du psychanalyste tient à ce qu’il rencontre comme être du sujet : à savoir le symptôme. Que le symptôme, soit « être de vérité », c’est ce à quoi chacun consent, de ce qu’on sache ce que psychanalyse veut dire, quoi qu’il soit fait pour l’embrouiller.* »
+*la résistance qu’elle comporte* - cette réserve - et j’ajoute : …*et qui se justifie. Elle se justifie de ce que les engagements soient d’être et non de pensée, et que les deux bords de l’être du sujet se diversifient ici de la divergence entre vérité et savoir. La difficulté d’être du psychanalyste tient à ce qu’il rencontre comme être du sujet : à savoir le symptôme. Que le symptôme, soit « être de vérité », c’est ce à quoi chacun consent, de ce qu’on sache ce que psychanalyse veut dire, quoi qu’il soit fait pour l’embrouiller.* »
 
 <!-- id: s13-14-0043 -->
 
@@ -188,9 +228,9 @@ Même chez ceux qui l’embrouillent le plus, je suis sûr que j’obtiendrai le
 
 <!-- id: s13-14-0045 -->
 
-> *il fait jouer, vers un ajournement indéfini du statut de la psychanalyse - comme scientifique, s’entend. C’est pourquoi même le choc*
->
-> *qu’à clore l’année sur ce ressort, nous produisîmes, n’évitât pas qu’à sa place se répétât le court-circuit.* »
+*il fait jouer, vers un ajournement indéfini du statut de la psychanalyse - comme scientifique, s’entend. C’est pourquoi même le choc*
+
+*qu’à clore l’année sur ce ressort, nous produisîmes, n’évitât pas qu’à sa place se répétât le court-circuit.* »
 
 <!-- id: s13-14-0046 -->
 
@@ -198,7 +238,11 @@ Et je fais allusion à une forme sous laquelle ceci nous revint et qui est très
 
 <!-- id: s13-14-0047 -->
 
-> « *Il nous revint, d’une bonne volonté bien sûr évidente, et même à se parer de paradoxe comme elle faisait, que c’est la façon dont le praticien le pense, qui fait le symptôme.* »
+<div class="text-quotation">
+
+« *Il nous revint, d’une bonne volonté bien sûr évidente, et même à se parer de paradoxe comme elle faisait, que c’est la façon dont le praticien le pense, qui fait le symptôme.* »
+
+</div>
 
 <!-- id: s13-14-0048 -->
 
@@ -206,7 +250,11 @@ Et je fais allusion à une forme sous laquelle ceci nous revint et qui est très
 
 <!-- id: s13-14-0049 -->
 
-> « *Bien sûr, c’est vrai de l’expérience des psychologues par quoi nous avons introduit le grelot.* - report au paragraphe VIGOTSKY, PIAGET - *Mais c’est aussi rester comme psychothérapeute*…
+<div class="text-quotation">
+
+« *Bien sûr, c’est vrai de l’expérience des psychologues par quoi nous avons introduit le grelot.* - report au paragraphe VIGOTSKY, PIAGET - *Mais c’est aussi rester comme psychothérapeute*…
+
+</div>
 
 <!-- id: s13-14-0050 -->
 
@@ -214,7 +262,11 @@ Et ça, exactement au niveau de dire ça, de dire ça qui, en un certain sens es
 
 <!-- id: s13-14-0051 -->
 
-> …*Donc c’est rester, comme psychothérapeute, exactement au niveau de ce qui fait que Pierre Janet n’a jamais pu comprendre pourquoi il n’était pas Freud. La dive bouteille* – conclus-je – *c’est la bouteille de Klein. Ne fait pas qui veut, sortir de son goulot ce qui est dans sa doublure. Car tel est construit le support de l’être au sujet.* »
+<div class="text-quotation">
+
+…*Donc c’est rester, comme psychothérapeute, exactement au niveau de ce qui fait que Pierre Janet n’a jamais pu comprendre pourquoi il n’était pas Freud. La dive bouteille* – conclus-je – *c’est la bouteille de Klein. Ne fait pas qui veut, sortir de son goulot ce qui est dans sa doublure. Car tel est construit le support de l’être au sujet.* »
+
+</div>
 
 <!-- id: s13-14-0052 -->
 
@@ -326,7 +378,7 @@ Et toute critique du « *pouvoir des mots* », comme on dit, qui s’y attaque
 
 <!-- id: s13-14-0079 -->
 
-> car après tout, ce qui perdure sous l’étiquette académique de psychologie n’est rien d’autre jamais que cette voix …c’est de partir du statut verbal, incontestablement, parce que traditionnel, d’une certaine *fonction* de *l’âme*, de la mettre en cause comme manque, et d’interroger à partir de là qu’est-ce qu’il y a de réel là-dedans qui laisse debout parfaitement le cadre du *pouvoir des mots*. Alors que ce qu’il s’agit d’interroger c’est : qu’est-ce qu’a produit le langage, comme effet inaugural sur lequel repose tout le montage, qui fait la monture de l’état de sujet ?
+car après tout, ce qui perdure sous l’étiquette académique de psychologie n’est rien d’autre jamais que cette voix …c’est de partir du statut verbal, incontestablement, parce que traditionnel, d’une certaine *fonction* de *l’âme*, de la mettre en cause comme manque, et d’interroger à partir de là qu’est-ce qu’il y a de réel là-dedans qui laisse debout parfaitement le cadre du *pouvoir des mots*. Alors que ce qu’il s’agit d’interroger c’est : qu’est-ce qu’a produit le langage, comme effet inaugural sur lequel repose tout le montage, qui fait la monture de l’état de sujet ?
 
 <!-- id: s13-14-0080 -->
 
@@ -342,7 +394,7 @@ La première condition de saisie qu’il s’agit bien du rapport à un être de
 
 <!-- id: s13-14-0083 -->
 
-> et à FREUD lui-même qui l’a avoué et reconnu comme tel quand il a écrit la *Science des rêves*, *Umschreibung* disait–il, enragé de ne pas pouvoir retrouver le style de ces *petits rapports scientifiques* d’avant, *Umschreibung*, ce qui veut dire « *maniérisme* » …à travers les cas historiques de la crise du sujet, les explosions littéraires et esthétiques en général, de ce qu’on appelle le « *maniérisme* », correspondent toujours au remaniement de la question sur *l’être de vérité*.
+et à FREUD lui-même qui l’a avoué et reconnu comme tel quand il a écrit la *Science des rêves*, *Umschreibung* disait–il, enragé de ne pas pouvoir retrouver le style de ces *petits rapports scientifiques* d’avant, *Umschreibung*, ce qui veut dire « *maniérisme* » …à travers les cas historiques de la crise du sujet, les explosions littéraires et esthétiques en général, de ce qu’on appelle le « *maniérisme* », correspondent toujours au remaniement de la question sur *l’être de vérité*.
 
 <!-- id: s13-14-0084 -->
 
@@ -454,9 +506,13 @@ Si j’ai souligné à quel point la psychanalyse dépend d’*un statut assuré
 
 <!-- id: s13-14-0111 -->
 
-> « *Pourquoi n’y avait-il pas au temps de Socrate, à titre de départ, une science ayant le statut de notre science,*
->
-> *celui que j’ai défini d’une certaine façon, précisément : la suture du côté de la vérité ?* »
+<div class="text-quotation">
+
+« *Pourquoi n’y avait-il pas au temps de Socrate, à titre de départ, une science ayant le statut de notre science,*
+
+*celui que j’ai défini d’une certaine façon, précisément : la suture du côté de la vérité ?* »
+
+</div>
 
 <!-- id: s13-14-0112 -->
 

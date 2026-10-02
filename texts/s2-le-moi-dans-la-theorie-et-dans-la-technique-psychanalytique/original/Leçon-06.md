@@ -118,9 +118,13 @@ Et une fois de plus :
 
 <!-- id: s2-06-0029 -->
 
-> « *Mais non, ça ne suffit pas, il y a quelque chose qui reste après la manifestation de cette tendance restitutive,*
->
-> *c’est quelque chose qui est proprement répétitif.* »
+<div class="text-quotation">
+
+« *Mais non, ça ne suffit pas, il y a quelque chose qui reste après la manifestation de cette tendance restitutive,*
+
+*c’est quelque chose qui est proprement répétitif.* »
+
+</div>
 
 <!-- id: s2-06-0030 -->
 
@@ -248,7 +252,11 @@ Et c’est ce qui me ramène au point de convergence de *la question* telle qu�
 
 <!-- id: s2-06-0061 -->
 
-> « *Est-ce qu’il est dans le sens de la découverte freudienne de parler d’« autonomus ego » à un titre quelconque ?* »
+<div class="text-quotation">
+
+« *Est-ce qu’il est dans le sens de la découverte freudienne de parler d’« autonomus ego » à un titre quelconque ?* »
+
+</div>
 
 <!-- id: s2-06-0062 -->
 
@@ -264,7 +272,11 @@ Et se repose également du même coup la troisième question que je posai hier s
 
 <!-- id: s2-06-0065 -->
 
-> « *Qu’y a-t-il de nouveau -si nous les met­tons sur le même plan, au même niveau, au même registre - de* HEGEL *à* FREUD ? »
+<div class="text-quotation">
+
+« *Qu’y a-t-il de nouveau -si nous les met­tons sur le même plan, au même niveau, au même registre - de* HEGEL *à* FREUD ? »
+
+</div>
 
 <!-- id: s2-06-0066 -->
 
@@ -284,9 +296,9 @@ Est-ce que l’analyste, pour tout dire…
 
 <!-- id: s2-06-0070 -->
 
-> comme maintenant à le faire dans des cercles très largement étendus, et je dirai même si largement étendus
->
-> qu’on peut dire que c’est général, à part quelques exceptions
+comme maintenant à le faire dans des cercles très largement étendus, et je dirai même si largement étendus
+
+qu’on peut dire que c’est général, à part quelques exceptions
 
 <!-- id: s2-06-0071 -->
 
@@ -294,9 +306,9 @@ Est-ce que l’analyste, pour tout dire…
 
 <!-- id: s2-06-0072 -->
 
-> dans une perspective que nous pourrions polariser entre les deux termes d’une *pensée conquérante*
->
-> ou d’une *pensée rétrograde*, littéralement une polarité entre *la lumière* et *l’obscu­rantisme*
+dans une perspective que nous pourrions polariser entre les deux termes d’une *pensée conquérante*
+
+ou d’une *pensée rétrograde*, littéralement une polarité entre *la lumière* et *l’obscu­rantisme*
 
 <!-- id: s2-06-0073 -->
 
@@ -464,7 +476,11 @@ Malgré tout, je disais que c’était une des questions que j’aurais posée s
 
 <!-- id: s2-06-0114 -->
 
-> « *Quelle est dans Hegel la fonction du non-savoir ?* »
+<div class="text-quotation">
+
+« *Quelle est dans Hegel la fonction du non-savoir ?* »
+
+</div>
 
 <!-- id: s2-06-0115 -->
 
@@ -564,9 +580,9 @@ Reprenons HEGEL. J’y vais pas à pas. Ceci étant admis, M. HYPPOLITE, je vais
 
 <!-- id: s2-06-0139 -->
 
-> il ne faut pas tenir compte du fait que les textes de HEGEL sont extrêmement divers,
->
-> et même les moments de sa pensée, de sa vie, de son action politique parlent en des sens diver­gents
+il ne faut pas tenir compte du fait que les textes de HEGEL sont extrêmement divers,
+
+et même les moments de sa pensée, de sa vie, de son action politique parlent en des sens diver­gents
 
 <!-- id: s2-06-0140 -->
 
@@ -574,9 +590,9 @@ Reprenons HEGEL. J’y vais pas à pas. Ceci étant admis, M. HYPPOLITE, je vais
 
 <!-- id: s2-06-0141 -->
 
-> laissons de côté ceci qu’à par­tir du moment où le discours sera arrivé à son achèvement
->
-> il n’y aura plus besoin de parler, c’est ce qu’on appelle les étapes post-révolutionnaires, laissons ça de côté
+laissons de côté ceci qu’à par­tir du moment où le discours sera arrivé à son achèvement
+
+il n’y aura plus besoin de parler, c’est ce qu’on appelle les étapes post-révolutionnaires, laissons ça de côté
 
 <!-- id: s2-06-0142 -->
 
@@ -584,9 +600,9 @@ Reprenons HEGEL. J’y vais pas à pas. Ceci étant admis, M. HYPPOLITE, je vais
 
 <!-- id: s2-06-0143 -->
 
-> et vous verrez, tout à l’heure ou la prochaine fois, ce que j’appelle les perspectives
->
-> trans-hégéliennes, et pourquoi elles sont concevables dans la perspective hégé­lienne
+et vous verrez, tout à l’heure ou la prochaine fois, ce que j’appelle les perspectives
+
+trans-hégéliennes, et pourquoi elles sont concevables dans la perspective hégé­lienne
 
 <!-- id: s2-06-0144 -->
 
@@ -598,7 +614,7 @@ Quand les savants dont je parlai hier soir…
 
 <!-- id: s2-06-0146 -->
 
-> il s’agit de quelque chose qui est plus qu’un *mythe*, qui est vraiment le sens même du *progrès du symbole*
+il s’agit de quelque chose qui est plus qu’un *mythe*, qui est vraiment le sens même du *progrès du symbole*
 
 <!-- id: s2-06-0147 -->
 
@@ -642,9 +658,9 @@ En effet, cette proposition fondamentale qui consiste à remarquer niaise­ment,
 
 <!-- id: s2-06-0157 -->
 
-> ça porte en soi une sorte d’incohérence vraiment étrange, on n’y fait pas attention,
->
-> il suffit d’y faire attention pour savoir que c’est très drôle ce qu’on dit
+ça porte en soi une sorte d’incohérence vraiment étrange, on n’y fait pas attention,
+
+il suffit d’y faire attention pour savoir que c’est très drôle ce qu’on dit
 
 <!-- id: s2-06-0158 -->
 
@@ -656,7 +672,11 @@ Il est même probable que ça a tou­jours fait sens, mais que ça fait plus sen
 
 <!-- id: s2-06-0160 -->
 
-> « *Nous avons réin­venté l’unité humaine, on avait tout séparé, cet idiot de* DESCARTES *avait décou­pé absolument*… »
+<div class="text-quotation">
+
+« *Nous avons réin­venté l’unité humaine, on avait tout séparé, cet idiot de* DESCARTES *avait décou­pé absolument*… »
+
+</div>
 
 <!-- id: s2-06-0161 -->
 
@@ -724,7 +744,7 @@ Là où je veux en en venir, c’est ceci : il y a une très drôle de chose qu
 
 <!-- id: s2-06-0177 -->
 
-> de la puissance,
+de la puissance,
 
 <!-- id: s2-06-0178 -->
 
@@ -816,9 +836,9 @@ Et en essayant de faire cette théorie du fonctionnement du système nerveux, il
 
 <!-- id: s2-06-0200 -->
 
-> je demande à ANZIEU de regarder les *drafts* \[brouillons\] dont je parle: *l’Ébauche d’une psychologie,*
->
-> et de nous faire un compte rendu. Il nous mon­trera cette chose massive : que tout vient aboutir sur le rêve
+je demande à ANZIEU de regarder les *drafts* \[brouillons\] dont je parle: *l’Ébauche d’une psychologie,*
+
+et de nous faire un compte rendu. Il nous mon­trera cette chose massive : que tout vient aboutir sur le rêve
 
 <!-- id: s2-06-0201 -->
 
