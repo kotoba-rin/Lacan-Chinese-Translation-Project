@@ -9,7 +9,7 @@ tags:
   - 研讨班XIX
   - 领域/语言符号与文献/语言学与语法
   - 概念/否定
-verified_at: 2026-08-13
+verified_at: 2026-10-10
 ---
 
 法语所谓 *ne explétif* 是不独立构成否定的 *ne*。在 *Je crains qu’il ne vienne*（“我怕他来”）中，从句说的仍是“他来”，不是“他不来”；这个 *ne* 可以出现在表达恐惧、阻止、怀疑、比较或避免等关系的结构中，在许多用法里可以省略而不改变命题的肯否。
@@ -33,6 +33,8 @@ verified_at: 2026-08-13
 - [[texts/s12-problemes-cruciaux-pour-la-psychanalyse/original/Leçon-17.md#s12-17-0067|《研讨班 XII》第十七课 s12-17-0067—s12-17-0070]]（法文；*il s’en faut que je ne sache* 与 *ne* 的言说功能）
 - [[texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/original/Leçon-08.md#s18-08-0163|《研讨班 XVIII》第八课 s18-08-0163—s18-08-0170]]（法文；拒斥性／离调性否定及其在量词书写中的移用）
 
+- [[texts/Écricts/original/Article-30.md|〈主体的颠覆与弗洛伊德无意识中欲望的辩证法（Subversion du sujet et dialectique du désir dans l’inconscient freudien）〉，载《文集》（Écrits）]]（法文；作者：雅克·拉康（Jacques Lacan）；时间：1960年9月20—23日鲁瓦约蒙会议报告；收入1966年《文集》时的修订须另辨；《文集》1966年出版）
+
 ## 关联
 
 [[知识库/Spaltung：自我裂分、对象裂分与主体分裂.md|Spaltung：自我裂分、对象裂分与主体分裂]]
@@ -53,3 +55,4 @@ verified_at: 2026-08-13
 [[texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/Leçon-08.md#s18-08-0168|s18-08-0168]]
 [[texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/Leçon-08.md#s18-08-0169|s18-08-0169]]
 [[texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/Leçon-08.md#s18-08-0170|s18-08-0170]]
+[[texts/Écricts/translation/Article-30.md|雅克·拉康（Jacques Lacan）：〈主体的颠覆与弗洛伊德无意识中欲望的辩证法（Subversion du sujet et dialectique du désir dans l’inconscient freudien）〉，载《文集》（Écrits）]]

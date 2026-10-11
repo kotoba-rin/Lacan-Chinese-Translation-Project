@@ -9,7 +9,7 @@ tags:
   - 领域/心理精神病学与医学/精神病学与精神病理
   - 概念/拒斥
   - 概念/实在界
-verified_at: 2026-09-16
+verified_at: 2026-10-10
 ---
 
 《研讨班 III》从让·伊波利特对弗洛伊德《否定》的评论出发，区分压抑与一种更原初的排除。拉康假定，在言语化过程背后有一项原初的 *Bejahung*（肯定），即某物被接纳进象征秩序；这项接纳本身可能缺失。他在这里用 *Verwerfung* 指称发生在这一层次的拒斥，而不是发生在已经形成的象征链内部的否定或压抑。
@@ -31,6 +31,8 @@ verified_at: 2026-09-16
 
 - [[texts/s14-la-logique-du-fantasme/original/Leçon-09.md#s14-09-0072|《研讨班 XIV》第九课 s14-09-0072]]（法文；爱之公式所构成的 *Verwerfung* 及“爱不思”的局部用法）
 
+- [[texts/Écricts/original/Article-16.md|〈回应让·伊波利特关于弗洛伊德〈否定〉的评论（Réponse au commentaire de Jean Hyppolite sur la « Verneinung » de Freud）〉，载《文集》（Écrits）]]（法文；作者：雅克·拉康（Jacques Lacan）；时间：具体写作时间未单独考定；1966年收入《文集》（Écrits）；《文集》1966年出版）
+
 ## 关联
 
 [[知识库/Ablehnung、Verwerfung与Versagung.md|Ablehnung、Verwerfung 与 Versagung]]
@@ -46,3 +48,4 @@ verified_at: 2026-09-16
 [[texts/s3-les-psychoses/translation/Leçon-25.md#s3-25-0138|s3-25-0138]]
 
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0072|s14-09-0072]]
+[[texts/Écricts/translation/Article-16.md|雅克·拉康（Jacques Lacan）：〈回应让·伊波利特关于弗洛伊德〈否定〉的评论（Réponse au commentaire de Jean Hyppolite sur la « Verneinung » de Freud）〉，载《文集》（Écrits）]]

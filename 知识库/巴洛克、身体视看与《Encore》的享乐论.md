@@ -41,6 +41,7 @@ verified_at: 2026-08-20
 
 ## 关联
 
+[[知识库/鲁本斯《劫夺留西帕斯的女儿》（L’Enlèvement des filles de Leucippe）.md|鲁本斯《劫夺留西帕斯的女儿》（L’Enlèvement des filles de Leucippe）]]
 [[知识库/Agape：希腊语义与基督教神爱.md|Agape：希腊语义与基督教神爱]]
 [[知识库/享乐实体：身体、能指与享乐.md|享乐实体：身体、能指与享乐]]
 

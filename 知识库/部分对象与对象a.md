@@ -59,6 +59,7 @@ verified_at: 2026-09-16
 
 ## 关联
 
+[[知识库/异化与分离：主体同大他者的两项操作.md|异化与分离：主体同大他者的两项操作]]
 [[知识库/Agalma的希腊语义与对象a.md|Agalma 的希腊语义与对象 a]]
 [[知识库/Ex-voto：器官供物、Agalma与部分对象.md|Ex-voto：器官供物、Agalma 与部分对象]]
 [[知识库/Lettre d’a-mur：情书、对象a与墙.md|Lettre d’a-mur：情书、对象 a 与墙]]

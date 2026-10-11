@@ -8,7 +8,7 @@ tags:
   - 语言/拉丁语
   - 人物/尼采
   - 作品/约翰福音
-verified_at: 2026-07-28
+verified_at: 2026-10-10
 ---
 
 拉丁语 *Ecce homo* 意为“看，这个人”或“看哪，这个人”。它出自《约翰福音》19:5：彼拉多把受过鞭打、戴着荆棘冠并披着紫袍的耶稣带到众人面前。《新约》希腊文是 *Ἰδοὺ ὁ ἄνθρωπος*，拉丁《武加大》把它译作 *Ecce homo*。
@@ -22,9 +22,13 @@ verified_at: 2026-07-28
 - [Nova Vulgata, Ioannes 19](https://www.bibbiaedu.it/NOVAVULGATA/nt/Ioa/19/)（拉丁文；《约翰福音》19:5）
 - [Ecce homo](http://www.nietzschesource.org/eKGWB/EH)（德文；Nietzsche Source 校勘文本）
 
+- [[texts/le-neveu-de-lacan-jacques-alain-miller/original/Journal-04.md|〈泼妇现代性〉（Mégère Modernité），载《拉康的侄子：讽刺》（Le Neveu de Lacan : satire）]]（法文；作者：雅克-阿兰·米勒（Jacques-Alain Miller）；时间：日记署11月27日，依作者前言年代为2002年；《拉康的侄子：讽刺》（Le Neveu de Lacan : satire）2003年出版）
+
 ## 关联
 
+[[知识库/卡莱尔的英雄崇拜（culte des héros）与历史人物.md|卡莱尔的英雄崇拜（culte des héros）与历史人物]]
 [[知识库/彼拉多的“真理是什么？”与《约翰福音》18章38节.md|彼拉多的“真理是什么？”与《约翰福音》18章38节]]
 [[知识库/拉丁语homo与希腊语homós不是同一词根.md|拉丁语 homo 与希腊语 homós 不是同一词根]]
 
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-04.md#s19b-04-0198|s19b-04-0198]]
+[[texts/le-neveu-de-lacan-jacques-alain-miller/translation/Journal-04.md|雅克-阿兰·米勒（Jacques-Alain Miller）：〈泼妇现代性〉（Mégère Modernité），载《拉康的侄子：讽刺》（Le Neveu de Lacan : satire）]]
