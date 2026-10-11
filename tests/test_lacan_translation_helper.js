@@ -79,6 +79,77 @@ try {
   const plugin = Object.create(PluginClass.prototype);
   assert.strictEqual(mockNormalizePath(""), "/");
 
+  const graphPlugin = Object.create(PluginClass.prototype);
+  graphPlugin.projectGraphViews = new WeakSet();
+  let graphUpdates = 0;
+  let graphSaves = 0;
+  let graphReveals = 0;
+  let graphOptions = { search: "file:README", linkDistance: 250, scale: 0.4 };
+  const graphLeaf = {
+    view: {
+      getViewType: () => "graph",
+      dataEngine: {
+        getOptions: () => graphOptions,
+        setOptions: (options) => { graphOptions = options; graphUpdates += 1; },
+      },
+    },
+  };
+  const localGraphLeaf = {
+    view: { dataEngine: { setOptions: () => assert.fail("local graph must be unchanged") } },
+  };
+  const graphCore = {
+    enabled: true,
+    instance: { options: {}, saveOptions: () => { graphSaves += 1; } },
+  };
+  graphPlugin.app = {
+    internalPlugins: { getPluginById: () => graphCore },
+    workspace: {
+      getLeavesOfType: (type) => type === "graph" ? [graphLeaf] : [localGraphLeaf],
+      revealLeaf: async (leaf) => { assert.strictEqual(leaf, graphLeaf); graphReveals += 1; },
+      getLeaf: () => assert.fail("reuse the existing graph tab"),
+    },
+  };
+  await graphPlugin.openProjectGraph();
+  assert.strictEqual(graphReveals, 1);
+  assert.strictEqual(graphSaves, 1);
+  assert.strictEqual(graphOptions.linkDistance, 250, "preserve graph layout preferences");
+  assert.strictEqual(graphOptions.scale, 0.4);
+  assert.strictEqual(graphOptions.hideUnresolved, true);
+  assert.strictEqual(graphOptions.showOrphans, false);
+  assert.strictEqual(graphOptions.showAttachments, false);
+  assert.strictEqual(graphOptions.showTags, false);
+  assert.ok(graphOptions.search.includes(" OR "), "include cards and translations together");
+  assert.ok(graphOptions.search.includes("-file:/^(README|index|SUMMARY)"));
+  const pathPatterns = graphOptions.colorGroups.map(({ query }) => new RegExp(query.slice(6, -1)));
+  for (const [file, included] of [
+    ["知识库/对象a.md", true],
+    ["texts/s8-le-transfert/translation/Leçon-01.md", true],
+    ["texts/Écricts/translation/Article-01.md", true],
+    ["texts/s8-le-transfert/original/Leçon-01.md", false],
+    ["texts/s8-le-transfert/notes/阅读笔记.md", false],
+    ["texts/s8-le-transfert/glossary.md", false],
+    ["output/book/知识库/对象a.md", false],
+    ["tmp/texts/s8-le-transfert/translation/Leçon-01.md", false],
+    ["知识库/图片.png", false],
+  ]) {
+    assert.strictEqual(pathPatterns.some((pattern) => pattern.test(file)), included, file);
+  }
+  const excludedNames = new RegExp(graphOptions.search.split("-file:/")[1].slice(0, -1), "i");
+  for (const name of ["README.md", "readme.md", "README", "index.md", "SUMMARY.md"]) {
+    assert.ok(excludedNames.test(name), `exclude ${name}`);
+  }
+  graphOptions.search = "file:对象a";
+  const updatesBeforeLayoutChange = graphUpdates;
+  graphPlugin.applyProjectGraphToViews();
+  assert.strictEqual(graphUpdates, updatesBeforeLayoutChange, "do not reset a user's active filter on every layout event");
+  assert.strictEqual(graphOptions.search, "file:对象a");
+  await graphPlugin.openProjectGraph();
+  assert.ok(graphOptions.search.includes(" OR "), "the command reapplies the project filter");
+  graphCore.enabled = false;
+  await assert.rejects(() => graphPlugin.openProjectGraph(), /核心插件/);
+  graphLeaf.view.dataEngine = {};
+  assert.doesNotThrow(() => graphPlugin.applyProjectGraphToViews({ force: true }));
+
   let resolveMcpPreflight;
   let mcpPreflightCalls = 0;
   let mcpSettingsSaves = 0;

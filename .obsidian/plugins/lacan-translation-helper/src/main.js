@@ -76,6 +76,9 @@ const MARKDOWN_RENDER_COMPONENT_KEY = "__lacanMarkdownRenderComponent";
 const LACAN_LESSON_LIST_VIEW_TYPE = "lacan-lesson-list";
 const DEFAULT_REPOSITORY_URL = "https://github.com/Kotoba-Rin/Lacan-Chinese-Translation-Project.git";
 const DEFAULT_GITHUB_PROXY_URL = "http://127.0.0.1:6789";
+const PROJECT_GRAPH_CARD_QUERY = String.raw`path:/^知识库\/[^\/]+\.md$/`;
+const PROJECT_GRAPH_TRANSLATION_QUERY = String.raw`path:/^texts\/[^\/]+\/translation\/[^\/]+\.md$/`;
+const PROJECT_GRAPH_QUERY = `(${PROJECT_GRAPH_CARD_QUERY} OR ${PROJECT_GRAPH_TRANSLATION_QUERY}) -file:/^(README|index|SUMMARY)(\\.md)?$/`;
 const GIT_TIMEOUT_MS = 120000;
 const GIT_MAX_BUFFER = 50 * 1024 * 1024;
 const REASONING_EFFORT_LABELS = {
@@ -89,6 +92,7 @@ const REASONING_EFFORT_LABELS = {
 
 const DEFAULT_SETTINGS = {
   mode: "reader",
+  projectGraphEnabled: true,
   repositoryUrl: DEFAULT_REPOSITORY_URL,
   repositoryBranch: "main",
   upstreamLocalBranch: "lacan-upstream/main",
@@ -305,6 +309,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.gitProcesses = new Set();
     this.startupSyncTimer = null;
     this.createdFileTimers = new Set();
+    this.projectGraphViews = new WeakSet();
     this.progressWritePaths = new Set();
     this.progressWriteSuppressTimers = new Map();
     this.segmentPreviewCache = new Map();
@@ -433,6 +438,9 @@ module.exports = class LacanTranslationHelper extends Plugin {
     this.registerEvent(
       this.app.workspace.on("layout-change", () => {
         this.scheduleComparisonRender();
+        if (this.settings.projectGraphEnabled) {
+          this.applyProjectGraphToViews();
+        }
       })
     );
 
@@ -443,6 +451,21 @@ module.exports = class LacanTranslationHelper extends Plugin {
     );
 
     this.registerProjectBasesView();
+
+    this.app.workspace.onLayoutReady(() => {
+      if (this.settings.projectGraphEnabled) {
+        this.runWithNotice(() => this.configureProjectGraph(), "项目关系图设置失败");
+      }
+    });
+
+    this.addCommand({
+      id: "open-project-graph",
+      name: "打开知识卡片与翻译关系图",
+      callback: () => this.runWithNotice(
+        () => this.openProjectGraph(),
+        "项目关系图打开失败"
+      ),
+    });
 
     this.addCommand({
       id: "create-translation-skeleton-from-active-file",
@@ -560,6 +583,59 @@ module.exports = class LacanTranslationHelper extends Plugin {
       }
     }
     this.gitProcesses.clear();
+  }
+
+  getProjectGraphOptions(options = {}) {
+    return {
+      ...options,
+      search: PROJECT_GRAPH_QUERY,
+      showTags: false,
+      showAttachments: false,
+      hideUnresolved: true,
+      showOrphans: false,
+      colorGroups: [
+        { query: PROJECT_GRAPH_CARD_QUERY, color: { a: 1, rgb: 0x57c785 } },
+        { query: PROJECT_GRAPH_TRANSLATION_QUERY, color: { a: 1, rgb: 0x6aa9e9 } },
+      ],
+    };
+  }
+
+  applyProjectGraphToViews({ force = false } = {}) {
+    for (const leaf of this.app.workspace.getLeavesOfType("graph")) {
+      const view = leaf.view;
+      // The core graph API is internal: guard it for unsupported Obsidian versions.
+      const engine = view?.dataEngine;
+      if (!engine?.setOptions || !engine?.getOptions) continue;
+      if (!force && this.projectGraphViews.has(view)) continue;
+      // Mark before updating: rendering can trigger another layout-change event.
+      this.projectGraphViews.add(view);
+      engine.setOptions(this.getProjectGraphOptions(engine.getOptions()));
+    }
+  }
+
+  async configureProjectGraph({ force = false } = {}) {
+    const graph = this.app.internalPlugins?.getPluginById?.("graph");
+    if (!graph?.enabled || !graph.instance?.saveOptions) return false;
+    graph.instance.options = this.getProjectGraphOptions(graph.instance.options);
+    graph.instance.saveOptions();
+    this.applyProjectGraphToViews({ force });
+    return true;
+  }
+
+  async openProjectGraph() {
+    if (!await this.configureProjectGraph({ force: true })) {
+      throw new Error("请先在 Obsidian 核心插件中启用关系图谱。");
+    }
+    const leaf = this.app.workspace.getLeavesOfType("graph")[0]
+      || this.app.workspace.getLeaf("tab");
+    if (leaf.view?.getViewType?.() !== "graph") {
+      await leaf.setViewState({ type: "graph", active: true });
+    }
+    await this.app.workspace.revealLeaf(leaf);
+    this.applyProjectGraphToViews({ force: true });
+    if (typeof leaf.view?.dataEngine?.setOptions !== "function") {
+      throw new Error("当前 Obsidian 版本不支持自动设置图谱，请在图谱筛选中手动设置范围。");
+    }
   }
 
   registerProjectBasesView() {
@@ -4259,6 +4335,31 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
       this.renderSegmentAiSettings(containerEl);
       return;
     }
+
+    new Setting(containerEl)
+      .setName("默认优化项目关系图")
+      .setDesc("打开全局图谱时只显示知识卡片（绿色）与翻译正文（蓝色），排除 README、索引页、附件和未解析链接，并隐藏孤立节点。关闭后可自行调整图谱筛选；局部图谱不受影响。")
+      .addToggle((toggle) => {
+        toggle.setValue(Boolean(this.plugin.settings.projectGraphEnabled))
+          .onChange(async (value) => {
+            this.plugin.settings.projectGraphEnabled = value;
+            await this.plugin.saveSettings();
+            if (value) {
+              await this.plugin.configureProjectGraph({ force: true });
+            }
+          });
+      });
+
+    new Setting(containerEl)
+      .setName("知识卡片与翻译关系图")
+      .setDesc("查看卡片之间以及卡片与译文章节之间已有的链接关系。")
+      .addButton((button) => {
+        button.setButtonText("打开关系图")
+          .onClick(() => this.plugin.runWithNotice(
+            () => this.plugin.openProjectGraph(),
+            "项目关系图打开失败"
+          ));
+      });
 
     new Setting(containerEl)
       .setName("模式")
