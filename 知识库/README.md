@@ -4,12 +4,12 @@ type: index
 tags:
   - 索引/知识库
 created: 2026-07-28
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # 拉康中文翻译项目知识库
 
-这里收录可独立阅读、来源可核验，并能返回具体研讨班或书籍译文语境的知识卡。当前收录 **528 张知识卡**，按 **10 个上位分类、49 个主题入口** 和 **28 个研讨班目录** 浏览；进入卡片后，还可以沿知识卡互链、研讨班译文分段或书籍篇章继续阅读。
+这里收录可独立阅读、来源可核验，并能返回具体研讨班或书籍译文语境的知识卡。当前收录 **529 张知识卡**，按 **10 个上位分类、49 个主题入口** 和 **28 个研讨班目录** 浏览；进入卡片后，还可以沿知识卡互链、研讨班译文分段或书籍篇章继续阅读。
 
 ## 快速检索
 
@@ -26,6 +26,8 @@ updated: 2026-10-11
 <a id="recent-cards"></a>
 
 ## 最近新增
+
+2026-10-16 新增[[知识库/克里斯的“新鲜脑子”病例：剽窃与行动化.md|克里斯的“新鲜脑子”病例：剽窃与行动化]]：核对克里斯1951年英文病例报告及第I、III、VI、X、XIV期法语原文，区分查看菜单的原始记述与拉康的进食转述，整理剽窃困扰、行动化及口腔对象a的关系；关联13个译文分段，补充2组知识卡双向链接。
 
 2026-10-10 扫描非研讨班文本的注释与术语，新增18张卡片、补充33张既有卡片，建立23组双向关系。新增包括[[知识库/阿卢什的跨爱（transmour）：转移之爱与分析经验.md|阿卢什的跨爱（transmour）]]、[[知识库/阿卢什的灵性修习（exercice spirituel）与spycanalyse.md|阿卢什的灵性修习与spycanalyse]]、[[知识库/塞奇威克的柜子认识论（épistémologie du placard）.md|塞奇威克的柜子认识论]]、[[知识库/帕潘姐妹事件（crime des sœurs Papin）：史实与精神分析重读.md|帕潘姐妹事件]]、[[知识库/先将来时（futur antérieur）与主体历史的回溯.md|先将来时与主体历史的回溯]]。非研讨班新出处使用篇章链接，作者、篇名与书名保留中法双语，写作时间与出版时间分别说明；仅补互链的卡片保留原核实日期。
 
@@ -138,13 +140,13 @@ updated: 2026-10-11
 
 <!-- BEGIN GENERATED CATEGORY INDEX -->
 
-当前 528 张卡依据受控 `领域/…` TAG 建立了 669 条索引关系；现有 49 个主题入口，归入 10 个上位分类。同一卡可进入多个主题入口和上位分类，因此各项数量不能直接相加；上位分类计数对本分类内的重复卡片去重。
+当前 529 张卡依据受控 `领域/…` TAG 建立了 670 条索引关系；现有 49 个主题入口，归入 10 个上位分类。同一卡可进入多个主题入口和上位分类，因此各项数量不能直接相加；上位分类计数对本分类内的重复卡片去重。
 
 ### 分类总览
 
-| [🧠 精神分析（249 张）](#category-psychoanalysis) | [🏛️ 哲学与思想（90 张）](#category-philosophy) |
+| [🧠 精神分析（250 张）](#category-psychoanalysis) | [🏛️ 哲学与思想（90 张）](#category-philosophy) |
 | --- | --- |
-| [无意识与主体（33）](#tag-领域-精神分析-无意识与主体) · [能指言说与书写（28）](#tag-领域-精神分析-能指言说与书写) · [欲望驱力与客体（39）](#tag-领域-精神分析-欲望驱力与客体) · [性爱与享乐（27）](#tag-领域-精神分析-性爱与享乐) · [三界幻想与拓扑（25）](#tag-领域-精神分析-三界幻想与拓扑) · [临床结构与症状（20）](#tag-领域-精神分析-临床结构与症状) · [分析实践与移情（26）](#tag-领域-精神分析-分析实践与移情) · [话语社会与伦理（20）](#tag-领域-精神分析-话语社会与伦理) · [历史与学派（40）](#tag-领域-精神分析-历史与学派) | [古代哲学（41）](#tag-领域-哲学-古代哲学) · [近现代哲学（17）](#tag-领域-哲学-近现代哲学) · [伦理与政治（9）](#tag-领域-哲学-伦理与政治) · [认识论与心灵（9）](#tag-领域-哲学-认识论与心灵) · [科学哲学（4）](#tag-领域-哲学-科学哲学) · [思想史（10）](#tag-领域-哲学-思想史) |
+| [无意识与主体（33）](#tag-领域-精神分析-无意识与主体) · [能指言说与书写（28）](#tag-领域-精神分析-能指言说与书写) · [欲望驱力与客体（39）](#tag-领域-精神分析-欲望驱力与客体) · [性爱与享乐（27）](#tag-领域-精神分析-性爱与享乐) · [三界幻想与拓扑（25）](#tag-领域-精神分析-三界幻想与拓扑) · [临床结构与症状（20）](#tag-领域-精神分析-临床结构与症状) · [分析实践与移情（27）](#tag-领域-精神分析-分析实践与移情) · [话语社会与伦理（20）](#tag-领域-精神分析-话语社会与伦理) · [历史与学派（40）](#tag-领域-精神分析-历史与学派) | [古代哲学（41）](#tag-领域-哲学-古代哲学) · [近现代哲学（17）](#tag-领域-哲学-近现代哲学) · [伦理与政治（9）](#tag-领域-哲学-伦理与政治) · [认识论与心灵（9）](#tag-领域-哲学-认识论与心灵) · [科学哲学（4）](#tag-领域-哲学-科学哲学) · [思想史（10）](#tag-领域-哲学-思想史) |
 
 | [🔤 语言、符号与文献（65 张）](#category-language-texts) | [🎭 文学、艺术与文化（64 张）](#category-arts-culture) |
 | --- | --- |
@@ -165,7 +167,7 @@ updated: 2026-10-11
 ### 分类明细
 
 <a id="category-psychoanalysis"></a>
-#### 🧠 精神分析（249 张）
+#### 🧠 精神分析（250 张）
 
 <a id="tag-领域-精神分析-无意识与主体"></a>
 <details>
@@ -383,10 +385,11 @@ updated: 2026-10-11
 
 <a id="tag-领域-精神分析-分析实践与移情"></a>
 <details>
-<summary><strong>分析实践与移情</strong>（26 张）</summary>
+<summary><strong>分析实践与移情</strong>（27 张）</summary>
 
 - [Atopia：苏格拉底的不可定位性与欲望的位置](<./Atopia：苏格拉底的不可定位性与欲望的位置.md>)
 - [Durcharbeitung：修通不是一次领悟](<./Durcharbeitung：修通不是一次领悟.md>)
+- [克里斯的“新鲜脑子”病例：剽窃与行动化](<./克里斯的“新鲜脑子”病例：剽窃与行动化.md>)
 - [分析家的无意识、电话听筒与反移情](<./分析家的无意识、电话听筒与反移情.md>)
 - [分析家的欲望与穿越根本幻想](<./分析家的欲望与穿越根本幻想.md>)
 - [分析行动、acting-out与“回应无意识”](<./分析行动、acting-out与“回应无意识”.md>)
@@ -1216,26 +1219,26 @@ updated: 2026-10-11
 
 | 研讨班 | 卡片总数 | 已有知识卡互链 | 卡片目录 | 译文目录 |
 | --- | ---: | ---: | --- | --- |
-| I · *Les écrits techniques de Freud* | 18 | 18 | [定位](#seminar-i) | [译文](../texts/s1-les-ecrits-techniques-de-freud/translation/) |
+| I · *Les écrits techniques de Freud* | 19 | 19 | [定位](#seminar-i) | [译文](../texts/s1-les-ecrits-techniques-de-freud/translation/) |
 | II · *Le moi dans la théorie et dans la technique psychanalytique* | 29 | 29 | [定位](#seminar-ii) | [译文](../texts/s2-le-moi-dans-la-theorie-et-dans-la-technique-psychanalytique/translation/) |
-| III · *Les psychoses* | 9 | 9 | [定位](#seminar-iii) | [译文](../texts/s3-les-psychoses/translation/) |
+| III · *Les psychoses* | 10 | 10 | [定位](#seminar-iii) | [译文](../texts/s3-les-psychoses/translation/) |
 | IV · *La relation d'objet* | 20 | 20 | [定位](#seminar-iv) | [译文](../texts/s4-la-relation-d-objet/translation/) |
-| V · *Les formations de l'inconscient* | 20 | 20 | [定位](#seminar-v) | [译文](../texts/s5-les-formations-de-l-inconscient/translation/) |
-| VI · *Le désir et son interprétation* | 3 | 3 | [定位](#seminar-vi) | [译文](../texts/s6-le-desir-et-son-interpretation/translation/) |
+| V · *Les formations de l'inconscient* | 22 | 22 | [定位](#seminar-v) | [译文](../texts/s5-les-formations-de-l-inconscient/translation/) |
+| VI · *Le désir et son interprétation* | 6 | 6 | [定位](#seminar-vi) | [译文](../texts/s6-le-desir-et-son-interpretation/translation/) |
 | VII · *L'éthique de la psychanalyse* | 37 | 37 | [定位](#seminar-vii) | [译文](../texts/s7-l-ethique-de-la-psychanalyse/translation/) |
-| VIII · *Le transfert* | 142 | 128 | [定位](#seminar-viii) | [译文](../texts/s8-le-transfert/translation/) |
-| IX · *L'identification* | 9 | 9 | [定位](#seminar-ix) | [译文](../texts/s9-l-identification/translation/) |
-| X · *L'angoisse* | 21 | 21 | [定位](#seminar-x) | [译文](../texts/s10-l-angoisse/translation/) |
-| XI · *Les quatre concepts fondamentaux de la psychanalyse* | 18 | 18 | [定位](#seminar-xi) | [译文](../texts/s11-les-quatre-concepts-fondamentaux-de-la-psychanalyse/translation/) |
+| VIII · *Le transfert* | 150 | 137 | [定位](#seminar-viii) | [译文](../texts/s8-le-transfert/translation/) |
+| IX · *L'identification* | 10 | 10 | [定位](#seminar-ix) | [译文](../texts/s9-l-identification/translation/) |
+| X · *L'angoisse* | 22 | 22 | [定位](#seminar-x) | [译文](../texts/s10-l-angoisse/translation/) |
+| XI · *Les quatre concepts fondamentaux de la psychanalyse* | 19 | 19 | [定位](#seminar-xi) | [译文](../texts/s11-les-quatre-concepts-fondamentaux-de-la-psychanalyse/translation/) |
 | XII · *Problèmes cruciaux pour la psychanalyse* | 15 | 15 | [定位](#seminar-xii) | [译文](../texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/) |
 | XIII · *L'objet de la psychanalyse* | 17 | 17 | [定位](#seminar-xiii) | [译文](../texts/s13-l-objet-de-la-psychanalyse/translation/) |
-| XIV · *La logique du fantasme* | 66 | 66 | [定位](#seminar-xiv) | [译文](../texts/s14-la-logique-du-fantasme/translation/) |
+| XIV · *La logique du fantasme* | 68 | 68 | [定位](#seminar-xiv) | [译文](../texts/s14-la-logique-du-fantasme/translation/) |
 | XV · *L'acte psychanalytique* | 20 | 20 | [定位](#seminar-xv) | [译文](../texts/s15-l-acte-psychanalytique/translation/) |
 | XVI · *D'un Autre à l'autre* | 22 | 22 | [定位](#seminar-xvi) | [译文](../texts/s16-d-un-autre-a-l-autre/translation/) |
 | XVII · *L'envers de la psychanalyse* | 81 | 41 | [定位](#seminar-xvii) | [译文](../texts/s17-l-envers-de-la-psychanalyse/translation/) |
 | XVIII · *D'un discours qui ne serait pas du semblant* | 11 | 11 | [定位](#seminar-xviii) | [译文](../texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/) |
 | XIX · *... ou pire* | 27 | 27 | [定位](#seminar-xix) | [译文](../texts/s19-ou-pire/translation/) |
-| XIXb · *Le savoir du psychanalyste* | 112 | 67 | [定位](#seminar-xixb) | [译文](../texts/s19b-le-savoir-du-psychanalyste/translation/) |
+| XIXb · *Le savoir du psychanalyste* | 112 | 69 | [定位](#seminar-xixb) | [译文](../texts/s19b-le-savoir-du-psychanalyste/translation/) |
 | XX · *Encore* | 19 | 19 | [定位](#seminar-xx) | [译文](../texts/s20-encore/translation/) |
 | XXI · *Les non-dupes errent* | 13 | 12 | [定位](#seminar-xxi) | [译文](../texts/s21-les-non-dupes-errent/translation/) |
 | XXII · *R.S.I.* | 15 | 15 | [定位](#seminar-xxii) | [译文](../texts/s22-r-s-i/translation/) |
@@ -1283,7 +1286,7 @@ updated: 2026-10-11
 
 <a id="seminar-i"></a>
 <details>
-<summary><strong>研讨班 I · <em>Les écrits techniques de Freud</em></strong>（18 张；18 张已有知识卡互链）</summary>
+<summary><strong>研讨班 I · <em>Les écrits techniques de Freud</em></strong>（19 张；19 张已有知识卡互链）</summary>
 
 [进入本研讨班译文目录](../texts/s1-les-ecrits-techniques-de-freud/translation/)
 
@@ -1293,6 +1296,7 @@ updated: 2026-10-11
 - [Logos、Verbum 与“道”](<./Logos、Verbum与“道”.md>)
 - [Wo Es war，soll Ich werden 的译法与伦理读法](<./Wo Es war，soll Ich werden的译法与伦理读法.md>)
 - [倒置花束实验与拉康的光学图式](<./倒置花束实验与拉康的光学图式.md>)
+- [克里斯的“新鲜脑子”病例：剽窃与行动化](<./克里斯的“新鲜脑子”病例：剽窃与行动化.md>)
 - [分析家的无意识、电话听筒与反移情](<./分析家的无意识、电话听筒与反移情.md>)
 - [圣奥古斯丁《论教师》：符号与内在教师](<./圣奥古斯丁《论教师》：符号与内在教师.md>)
 - [安娜·弗洛伊德](<./安娜·弗洛伊德.md>)
@@ -1348,12 +1352,13 @@ updated: 2026-10-11
 
 <a id="seminar-iii"></a>
 <details>
-<summary><strong>研讨班 III · <em>Les psychoses</em></strong>（9 张；9 张已有知识卡互链）</summary>
+<summary><strong>研讨班 III · <em>Les psychoses</em></strong>（10 张；10 张已有知识卡互链）</summary>
 
 [进入本研讨班译文目录](../texts/s3-les-psychoses/translation/)
 
 - [Verwerfung 与 forclusion：遭拒斥者在实在中的返回](<./Verwerfung与forclusion：遭拒斥者在实在中的返回.md>)
 - [“你”的人称化、委任与召请](<./“你”的人称化、委任与召请.md>)
+- [克里斯的“新鲜脑子”病例：剽窃与行动化](<./克里斯的“新鲜脑子”病例：剽窃与行动化.md>)
 - [施雷伯的语言现象：根本语言、新词、叠句与中断句](<./施雷伯的语言现象：根本语言、新词、叠句与中断句.md>)
 - [父之名与“成为父亲”能指：缺失、补偿与召唤](<./父之名与“成为父亲”能指：缺失、补偿与召唤.md>)
 - [精神病中的确定性：现实性与“这涉及我”](<./精神病中的确定性：现实性与“这涉及我”.md>)
@@ -1424,13 +1429,16 @@ updated: 2026-10-11
 
 <a id="seminar-vi"></a>
 <details>
-<summary><strong>研讨班 VI · <em>Le désir et son interprétation</em></strong>（3 张；3 张已有知识卡互链）</summary>
+<summary><strong>研讨班 VI · <em>Le désir et son interprétation</em></strong>（6 张；6 张已有知识卡互链）</summary>
 
 [进入本研讨班译文目录](../texts/s6-le-desir-et-son-interpretation/translation/)
 
 - [Infans：从“不能言说”到“婴儿”](<./Infans：从“不能言说”到“婴儿”.md>)
+- [Phallophanie：大他者作为阳具的显现](<./Phallophanie：大他者作为阳具的显现.md>)
 - [“美丽女屠夫”之梦：愿望不满足与愿望满足](<./“美丽女屠夫”之梦：愿望不满足与愿望满足.md>)
+- [克里斯的“新鲜脑子”病例：剽窃与行动化](<./克里斯的“新鲜脑子”病例：剽窃与行动化.md>)
 - [欲望的固着与不可摧毁性](<./欲望的固着与不可摧毁性.md>)
+- [鲁滨逊的脚印：从标志、痕迹到能指](<./鲁滨逊的脚印：从标志、痕迹到能指.md>)
 
 </details>
 
@@ -1651,7 +1659,7 @@ updated: 2026-10-11
 
 <a id="seminar-x"></a>
 <details>
-<summary><strong>研讨班 X · <em>L'angoisse</em></strong>（21 张；21 张已有知识卡互链）</summary>
+<summary><strong>研讨班 X · <em>L'angoisse</em></strong>（22 张；22 张已有知识卡互链）</summary>
 
 [进入本研讨班译文目录](../texts/s10-l-angoisse/translation/)
 
@@ -1662,6 +1670,7 @@ updated: 2026-10-11
 - [Vorstellungsrepräsentanz：表象代表](<./Vorstellungsrepräsentanz：表象代表.md>)
 - [“美丽女屠夫”之梦：愿望不满足与愿望满足](<./“美丽女屠夫”之梦：愿望不满足与愿望满足.md>)
 - [《创世记》22章的亚伯拉罕献祭与公羊](<./《创世记》22章的亚伯拉罕献祭与公羊.md>)
+- [克里斯的“新鲜脑子”病例：剽窃与行动化](<./克里斯的“新鲜脑子”病例：剽窃与行动化.md>)
 - [凝视作为对象a：眼睛、迷惑与欲望的遮蔽](<./凝视作为客体a：眼睛、迷惑与欲望的遮蔽.md>)
 - [分析家的无意识、电话听筒与反移情](<./分析家的无意识、电话听筒与反移情.md>)
 - [分析行动、acting-out与“回应无意识”](<./分析行动、acting-out与“回应无意识”.md>)
@@ -1758,12 +1767,13 @@ updated: 2026-10-11
 
 <a id="seminar-xiv"></a>
 <details>
-<summary><strong>研讨班 XIV · <em>La logique du fantasme</em></strong>（66 张；66 张已有知识卡互链）</summary>
+<summary><strong>研讨班 XIV · <em>La logique du fantasme</em></strong>（68 张；68 张已有知识卡互链）</summary>
 
 [进入本研讨班译文目录](../texts/s14-la-logique-du-fantasme/translation/)
 
 - [Infans：从“不能言说”到“婴儿”](<./Infans：从“不能言说”到“婴儿”.md>)
 - [Linguisterie：精神分析与语言学的边界](<./Linguisterie：精神分析与语言学的边界.md>)
+- [Logos、Verbum 与“道”](<./Logos、Verbum与“道”.md>)
 - [Lust：欲求、快乐与满足](<./Lust：欲求、快乐与满足.md>)
 - [Otherness：巴尔的摩报告与大他者的英语转写](<./Otherness：巴尔的摩报告与大他者的英语转写.md>)
 - [Poros、Penia 与 Metis](<./Poros、Penia与Metis.md>)
@@ -1784,6 +1794,7 @@ updated: 2026-10-11
 - [伯特兰·罗素关于数学的反讽定义](<./伯特兰·罗素关于数学的反讽定义.md>)
 - [保加利亚语的示证性：信息来源、转述与说话者立场](<./保加利亚语的示证性：信息来源、转述与说话者立场.md>)
 - [克莱因四元群：对合运算与第十四期的逻辑借用](<./克莱因四元群：对合运算与第十四期的逻辑借用.md>)
+- [克里斯的“新鲜脑子”病例：剽窃与行动化](<./克里斯的“新鲜脑子”病例：剽窃与行动化.md>)
 - [具体音乐：录制声音、声音对象与舍费尔](<./具体音乐：录制声音、声音对象与舍费尔.md>)
 - [列维-斯特劳斯的民族志书写与神话变换](<./列维-斯特劳斯的民族志书写与神话变换.md>)
 - [剩余价值与剩余享乐](<./剩余价值与剩余享乐.md>)
@@ -2346,27 +2357,26 @@ updated: 2026-10-11
 
 ## 全库概览与关联审计
 
-统计日期：2026-09-26。以下只统计卡片中已有的显式链接，未将共享标签或相邻主题视为互链。
+统计日期：2026-10-16。以下只统计卡片中已有的显式链接，未将共享标签或相邻主题视为互链。
 
-- 499 张卡均有精确译文关联，共 2,801 条卡片—译文分段关系（每张卡内去重）。
-- 402 张卡已有知识卡互链，共 651 组双向关系；结构检查未发现断链、单向关系或标题标签不一致。
-- 97 张卡尚无知识卡互链。是否补链应根据具体内容判断；没有互链本身不构成结构错误。
+- 528 张卡有译文关联，共 2,834 条精确分段关系与 46 条篇章关系（每张卡内去重）；其中 510 张卡具有精确分段链接。书籍篇章出处另在来源中注明证据分段。
+- 435 张卡已有知识卡链接，共 690 组双向关系；另有 0 条单向关系，未计作双向互链。
+- 94 张卡尚无知识卡互链。是否补链应根据具体内容判断；没有互链本身不构成结构错误。
 
 <details>
 <summary>展开查看各研讨班标签计数</summary>
 
-当前共收录 528 张知识卡；其中带 `研讨班I` 标签的有 18 张，带 `研讨班II` 标签的有 29 张，带 `研讨班III` 标签的有 9 张，带 `研讨班IV` 标签的有 20 张，带 `研讨班V` 标签的有 22 张，带 `研讨班VI` 标签的有 5 张，带 `研讨班VII` 标签的有 37 张，带 `研讨班VIII` 标签的有 150 张，带 `研讨班IX` 标签的有 10 张，带 `研讨班X` 标签的有 21 张，带 `研讨班XI` 标签的有 19 张，带 `研讨班XII` 标签的有 15 张，带 `研讨班XIII` 标签的有 17 张，带 `研讨班XIV` 标签的有 67 张，带 `研讨班XV` 标签的有 20 张，带 `研讨班XVI` 标签的有 22 张，带 `研讨班XVII` 标签的有 81 张，带 `研讨班XVIII` 标签的有 11 张，带 `研讨班XIX` 标签的有 27 张，带 `研讨班XIXb` 标签的有 112 张，带 `研讨班XX` 标签的有 19 张，带 `研讨班XXI` 标签的有 13 张，带 `研讨班XXII` 标签的有 15 张，带 `研讨班XXIII` 标签的有 8 张，带 `研讨班XXIV` 标签的有 16 张，带 `研讨班XXV` 标签的有 13 张，带 `研讨班XXVI` 标签的有 12 张，带 `研讨班XXVII` 标签的有 14 张。同一卡片可以关联多个研讨班，因此各标签数量不能直接相加。
+当前共收录 529 张知识卡；其中带 `研讨班I` 标签的有 19 张，带 `研讨班II` 标签的有 29 张，带 `研讨班III` 标签的有 10 张，带 `研讨班IV` 标签的有 20 张，带 `研讨班V` 标签的有 22 张，带 `研讨班VI` 标签的有 6 张，带 `研讨班VII` 标签的有 37 张，带 `研讨班VIII` 标签的有 150 张，带 `研讨班IX` 标签的有 10 张，带 `研讨班X` 标签的有 22 张，带 `研讨班XI` 标签的有 19 张，带 `研讨班XII` 标签的有 15 张，带 `研讨班XIII` 标签的有 17 张，带 `研讨班XIV` 标签的有 68 张，带 `研讨班XV` 标签的有 20 张，带 `研讨班XVI` 标签的有 22 张，带 `研讨班XVII` 标签的有 81 张，带 `研讨班XVIII` 标签的有 11 张，带 `研讨班XIX` 标签的有 27 张，带 `研讨班XIXb` 标签的有 112 张，带 `研讨班XX` 标签的有 19 张，带 `研讨班XXI` 标签的有 13 张，带 `研讨班XXII` 标签的有 15 张，带 `研讨班XXIII` 标签的有 8 张，带 `研讨班XXIV` 标签的有 16 张，带 `研讨班XXV` 标签的有 13 张，带 `研讨班XXVI` 标签的有 12 张，带 `研讨班XXVII` 标签的有 14 张。同一卡片可以关联多个研讨班，因此各标签数量不能直接相加。
 
 </details>
 
 <details>
-<summary>展开查看尚无知识卡互链的 97 张卡</summary>
+<summary>展开查看尚无知识卡互链的 94 张卡</summary>
 
 按研讨班标签分组，跨研讨班卡会重复出现。
 
-### 研讨班 VIII · *Le transfert*（14 张）
+### 研讨班 VIII · *Le transfert*（13 张）
 
-- [1961 年阿尔及尔将领政变](<./1961年阿尔及尔将领政变.md>)
 - [Verbigération：自动重复的言语](<./Verbigération：自动重复的言语.md>)
 - [《哀悼与忧郁》的“被遗弃对象”](<./《哀悼与忧郁》的“被遗弃对象”.md>)
 - [伊菲革涅亚的不同结局与拉辛改写](<./伊菲革涅亚的不同结局与拉辛改写.md>)
@@ -2393,7 +2403,6 @@ updated: 2026-10-11
 - [Python 3.13 的自由线程构建](<./Python 3.13的自由线程构建.md>)
 - [“匠人弃置的石头”与房角石](<./“匠人弃置的石头”与房角石.md>)
 - [《墙是好的》的作者亨利·波尔多](<./《墙是好的》的作者亨利·波尔多.md>)
-- [《民数记》25章：非尼哈与祭司盟约](<./民数记25章：非尼哈与祭司盟约.md>)
 - [乔治·波利策与具体心理学](<./乔治·波利策与具体心理学.md>)
 - [亚里士多德生殖理论中的质料与形式](<./亚里士多德生殖理论中的质料与形式.md>)
 - [亨利·皮埃隆《感觉：生命的向导》](<./亨利·皮埃隆《感觉：生命的向导》.md>)
@@ -2408,6 +2417,7 @@ updated: 2026-10-11
 - [斯多葛逻辑中的“若是白昼，则有光”](<./斯多葛逻辑中的若是白昼则有光.md>)
 - [普鲁士教育改革、洪堡大学与工业化](<./普鲁士教育改革、洪堡大学与工业化.md>)
 - [橡胶手错觉、幻肢痛与镜箱疗法](<./橡胶手错觉、幻肢痛与镜箱疗法.md>)
+- [《民数记》25章：非尼哈与祭司盟约](<./民数记25章：非尼哈与祭司盟约.md>)
 - [玫瑰经与念珠的结构](<./玫瑰经与念珠的结构.md>)
 - [理查德·佐尔格与东京谍报网](<./理查德·佐尔格与东京谍报网.md>)
 - [瓦泰尔之死与迟到的鱼](<./瓦泰尔之死与迟到的鱼.md>)
@@ -2424,7 +2434,7 @@ updated: 2026-10-11
 - [阿西莫夫《最后的问题》与“要有光”](<./阿西莫夫《最后的问题》与要有光.md>)
 - [雅各布·伯墨《万物的印记》](<./雅各布·伯墨《万物的印记》.md>)
 
-### 研讨班 XIXb · *Le savoir du psychanalyste*（45 张）
+### 研讨班 XIXb · *Le savoir du psychanalyste*（43 张）
 
 - [0.999…为什么等于1](<./0.999…为什么等于1.md>)
 - [aumônier：机构中的宗教辅导人员](<./aumônier：机构中的宗教辅导人员.md>)
@@ -2437,7 +2447,6 @@ updated: 2026-10-11
 - [“逐出本性，它会疾驰归来”法语谚语](<./“逐出本性，它会疾驰归来”法语谚语.md>)
 - [《人类生命》通谕中的婚姻行为伦理](<./《人类生命》通谕中的婚姻行为伦理.md>)
 - [《但以理书》的墙上文字与伯沙撒](<./《但以理书》的墙上文字与伯沙撒.md>)
-- [《分析笔记》第 10 期与布伦施维格](<./《分析笔记》第10期与布伦施维格.md>)
 - [《末代皇帝》配乐 Where Is Armo?](<./《末代皇帝》配乐Where Is Armo？.md>)
 - [《黄金传说》与一万一千名处女](<./《黄金传说》与一万一千名处女.md>)
 - [乔治·巴塔耶的“非知”](<./乔治·巴塔耶的“非知”.md>)
@@ -2461,7 +2470,6 @@ updated: 2026-10-11
 - [法语 du 与 des 的多种语法身份](<./法语du与des的多种语法身份.md>)
 - [法语 viril 与 virer 不是同一词根](<./法语viril与virer不是同一词根.md>)
 - [波伏瓦《第二性》与精神分析](<./波伏瓦《第二性》与精神分析.md>)
-- [莱布尼茨《单子论》中的单子](<./莱布尼茨《单子论》中的单子.md>)
 - [虚数名称与复数的发展](<./虚数名称与复数的发展.md>)
 - [释广德自焚与 1963 年南越佛教危机](<./释广德自焚与1963年南越佛教危机.md>)
 - [金庸与倪匡：武侠、科幻与香港通俗文学](<./金庸与倪匡：武侠、科幻与香港通俗文学.md>)
@@ -2538,7 +2546,7 @@ updated: 2026-10-11
 
 `verification` 记录促成建卡的原解读或建言经过核实后的状态，不表示卡片正文仍保留错误。当前分布为：
 
-- `已核实`：286 张；
+- `已核实`：287 张；
 - `部分准确`：173 张；
 - `需更正`：62 张；
 - `解释性延伸`：7 张。
