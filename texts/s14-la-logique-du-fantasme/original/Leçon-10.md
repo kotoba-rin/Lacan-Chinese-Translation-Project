@@ -10,6 +10,8 @@
 
 <!-- id: s14-10-0002 -->
 
+### LACAN
+
 Il est midi et demie et je vous remercie d’être ve­nus si nombreux aujourd’hui, alors que nous sommes - comme personne ne l’ignore plus - un jour de grève. Je vous en remercie d’autant plus que j’ai aussi - auprès de certains - à m’en excuser, puisque c’est sur l’annonce que j’ai faite - jusqu’à un jour et une heure récente - que je ferai au­jourd’hui ce qu’on appelle mon *séminaire*, que certainement une partie des personnes qui sont ici, y sont.
 
 <!-- id: s14-10-0003 -->
@@ -256,23 +258,31 @@ Est-ce que si les choses, pour lui - pour le Professeur JAKOBSON - dans les cons
 
 <!-- id: s14-10-0062 -->
 
-Roman JAKOBSON - Vous pensez que peut-être ce serait mieux si on pose plusieurs questions ? Et je réponds à la fois, alors ?
+### Roman JAKOBSON
+
+Vous pensez que peut-être ce serait mieux si on pose plusieurs questions ? Et je réponds à la fois, alors ?
 
 <!-- id: s14-10-0063 -->
 
-LACAN - D’accord. Qui a une question à poser à Roman JAKOBSON ?
+### LACAN
+
+D’accord. Qui a une question à poser à Roman JAKOBSON ?
 
 <!-- id: s14-10-0064 -->
 
-M<sup>me</sup> AUBRY \[se présentant\] - Docteur AUBRY, qui est psychanalyste
+### M<sup>me</sup> AUBRY
+
+\[se présentant\] Docteur AUBRY, qui est psychanalyste
 
 <!-- id: s14-10-0065 -->
 
-LACAN \[à Roman Jakobson\] - Et que vous connaissez… et spécialiste de psychiatrie infantile.
+### LACAN
+
+\[à Roman Jakobson\] Et que vous connaissez… et spécialiste de psychiatrie infantile.
 
 <!-- id: s14-10-0066 -->
 
-M<sup>me</sup> AUBRY
+### M<sup>me</sup> AUBRY
 
 <!-- id: s14-10-0067 -->
 
@@ -316,19 +326,25 @@ Lorsque cette évolution n’est pas faite, est-ce que ce n’est pas là le ref
 
 <!-- id: s14-10-0077 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0078 -->
 
-Qui est-ce qui a une autre question ? Puisque monsieur JAKOBSON préfère les collationner toutes… Mademoiselle Luce IRIGARAY ? Madame ! Pardon… Luce IRIGARAY - Je voudrais demander à M. JAKOBSON comment, lui… \[la voix se perd\]
+Qui est-ce qui a une autre question ? Puisque monsieur JAKOBSON préfère les collationner toutes… Mademoiselle Luce IRIGARAY ? Madame ! Pardon…
+
+### Luce IRIGARAY
+
+Je voudrais demander à M. JAKOBSON comment, lui… \[la voix se perd\]
 
 <!-- id: s14-10-0079 -->
 
-LACAN - Parlez tout ce que vous pouvez, toute votre voix, sans ça il ne vous entendra pas !
+### LACAN
+
+Parlez tout ce que vous pouvez, toute votre voix, sans ça il ne vous entendra pas !
 
 <!-- id: s14-10-0080 -->
 
-Luce IRIGARAY
+### Luce IRIGARAY
 
 <!-- id: s14-10-0081 -->
 
@@ -336,7 +352,13 @@ Je voudrais demander à M. JAKOBSON comme il fait l’articulation entre *le suj
 
 <!-- id: s14-10-0082 -->
 
-LACAN \[répétant à l’intention du Professeur Jakobson\] …entre sujet de l’énonciation et le sujet de l’énoncé, à savoir celui qui - dans l’énoncé - se désigne… etc. Enfin… Luce IRIGARAY \[poursuivant\]
+### LACAN
+
+\[répétant à l’intention du Professeur Jakobson\] …entre sujet de l’énonciation et le sujet de l’énoncé, à savoir celui qui - dans l’énoncé - se désigne… etc. Enfin…
+
+### Luce IRIGARAY
+
+\[poursuivant\]
 
 <!-- id: s14-10-0083 -->
 
@@ -344,15 +366,23 @@ Et par ailleurs, lui demander s’il ne croit pas qu’on pourrait faire établi
 
 <!-- id: s14-10-0084 -->
 
-LACAN \[répétant à l’intention du Professeur Jakobson\] …s’il ne croit pas qu’on pourrait introduire une différenciation parmi les… ? Vous avez dit ?
+### LACAN
+
+\[répétant à l’intention du Professeur Jakobson\] …s’il ne croit pas qu’on pourrait introduire une différenciation parmi les… ? Vous avez dit ?
 
 <!-- id: s14-10-0085 -->
 
-Luce IRIGARAY - Les « *schifters* » ! Les employer, les différencier en fonction de cette articulation de l’énonciation à l’énoncé.
+### Luce IRIGARAY
+
+Les « *schifters* » ! Les employer, les différencier en fonction de cette articulation de l’énonciation à l’énoncé.
 
 <!-- id: s14-10-0086 -->
 
-LACAN \[répétant à l’intention du Professeur Jakobson\] …si vous pensez que dans les « *schifters* » on peut en voir *un plus versé dans le sujet de l’énonciation ou les autres dans les sujets de l’énoncé*… Jean OURY
+### LACAN
+
+\[répétant à l’intention du Professeur Jakobson\] …si vous pensez que dans les « *schifters* » on peut en voir *un plus versé dans le sujet de l’énonciation ou les autres dans les sujets de l’énoncé*…
+
+### Jean OURY
 
 <!-- id: s14-10-0087 -->
 
@@ -360,7 +390,13 @@ C’est juste une question, une précision que je voudrais demander à M. JAKOBS
 
 <!-- id: s14-10-0088 -->
 
-Je veux donner simplement quelques points de repère. Il m’a été… j’ai été frappé par l’usage assez pratique qu’on peut faire par exemple de votre article sur la poétique. Il m’a semblé que cet article sur la poétique était quelque chose qui pouvait être très utile dans la compréhension de ce qui se passe dans les groupes. Mais d’autre part… LACAN - Dites un peu dans quel sens, pour une part de l’assemblée qui ne vous… Si peu que ce soit, donnez une indication… Jean OURY
+Je veux donner simplement quelques points de repère. Il m’a été… j’ai été frappé par l’usage assez pratique qu’on peut faire par exemple de votre article sur la poétique. Il m’a semblé que cet article sur la poétique était quelque chose qui pouvait être très utile dans la compréhension de ce qui se passe dans les groupes. Mais d’autre part…
+
+### LACAN
+
+Dites un peu dans quel sens, pour une part de l’assemblée qui ne vous… Si peu que ce soit, donnez une indication…
+
+### Jean OURY
 
 <!-- id: s14-10-0089 -->
 
@@ -380,7 +416,7 @@ Est-ce que la notion de *sujet de l’énonciation* peut s’articuler clairemen
 
 <!-- id: s14-10-0093 -->
 
-Lucien MÉLÈZE
+### Lucien MÉLÈZE
 
 <!-- id: s14-10-0094 -->
 
@@ -392,11 +428,17 @@ Je voudrais un petit peu abuser de la présence de Monsieur JAKOBSON pour lui po
 
 <!-- id: s14-10-0096 -->
 
-LACAN - Ça s’adresse aux fumeurs.
+### LACAN
+
+Ça s’adresse aux fumeurs.
 
 <!-- id: s14-10-0097 -->
 
-M<sup>me</sup> AUBRY - Il n’y a pas le « *pas* »… LACAN
+### M<sup>me</sup> AUBRY
+
+Il n’y a pas le « *pas* »…
+
+### LACAN
 
 <!-- id: s14-10-0098 -->
 
@@ -412,11 +454,13 @@ Qui a encore une question à poser ?
 
 <!-- id: s14-10-0101 -->
 
-D<sup>r</sup> STOIANOFF : Historiquement la dépendance prolongée d’un groupe ethnique sur un autre pourrait-elle influer sur le langage du premier de façon à ce qu’on obtienne ce discours indirect très particulier que vous avez décrit ? Dans la langue bulgare par exemple, quand on dit d’un côté par exemple : « un bateau… *swaminer* » autrement dit on dit qu’« il est parti » ou bien « *swaminer* ? » : il est parti effectivement. En somme y-a-t-il des facteurs historiques de dépendance qui pourraient expliquer cette introduction dans la langue une façon de voir médiatique.
+### D<sup>r</sup> STOIANOFF
+
+Historiquement la dépendance prolongée d’un groupe ethnique sur un autre pourrait-elle influer sur le langage du premier de façon à ce qu’on obtienne ce discours indirect très particulier que vous avez décrit ? Dans la langue bulgare par exemple, quand on dit d’un côté par exemple : « un bateau… *swaminer* » autrement dit on dit qu’« il est parti » ou bien « *swaminer* ? » : il est parti effectivement. En somme y-a-t-il des facteurs historiques de dépendance qui pourraient expliquer cette introduction dans la langue une façon de voir médiatique.
 
 <!-- id: s14-10-0102 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0103 -->
 
@@ -444,7 +488,7 @@ C’est comme quand on va dire la messe \[Lacan, attache le micro au cou de Rom
 
 <!-- id: s14-10-0109 -->
 
-[Roman JAKOB<span id="Jakobson" class="anchor"></span>SON](#février-1967-table-des-séances)
+### [Roman JAKOB<span id="Jakobson" class="anchor"></span>SON](#février-1967-table-des-séances)
 
 <!-- id: s14-10-0110 -->
 
@@ -628,7 +672,7 @@ Maintenant, la question de mon ami que j’admire tellement, et dont les travaux
 
 <!-- id: s14-10-0155 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0156 -->
 
@@ -640,7 +684,9 @@ Deuxièmement, en ceci que vous êtes celui qui transmettez cette sorte de disci
 
 <!-- id: s14-10-0158 -->
 
-Roman JAKOBSON : Je dois dire que je pourrais répondre à cette question de la même façon que j’ai répondu à cette question du problème de la différence entre les structures grammaticales des diverses langues. C’est à dire : c’est possible pour un linguiste de tâcher de cesser à certains moments, *d’être seulement linguiste* et de voir les problèmes d’un autre côté, d’un autre aspect : de l’aspect d’un *psychologue*, de l’aspect d’un *anthropologue*, de l’aspect d’un *biologue*, *etc.* Tout cela est possible, mais la pression de la discipline est énorme.
+### Roman JAKOBSON
+
+Je dois dire que je pourrais répondre à cette question de la même façon que j’ai répondu à cette question du problème de la différence entre les structures grammaticales des diverses langues. C’est à dire : c’est possible pour un linguiste de tâcher de cesser à certains moments, *d’être seulement linguiste* et de voir les problèmes d’un autre côté, d’un autre aspect : de l’aspect d’un *psychologue*, de l’aspect d’un *anthropologue*, de l’aspect d’un *biologue*, *etc.* Tout cela est possible, mais la pression de la discipline est énorme.
 
 <!-- id: s14-10-0159 -->
 
@@ -676,7 +722,7 @@ Et ça m’a toujours, depuis mes expériences à New-York, pendant la dernière
 
 <!-- id: s14-10-0167 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0168 -->
 

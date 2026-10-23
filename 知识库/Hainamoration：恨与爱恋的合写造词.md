@@ -8,7 +8,7 @@ tags:
   - 领域/精神分析/性爱与享乐
   - 概念/爱
   - 概念/恨
-verified_at: 2026-08-06
+verified_at: 2026-10-11
 ---
 
 *Hainamoration* 是拉康在《研讨班 XX》第九课逐字母拼出的造词：*h.a.i.n.a.m.o.r.a.t.i.o.n.*。它把 *haine*（恨）嵌入 *énamoration*（陷入爱恋、迷恋）之中。本项目依本期术语表译作“恨—恋”，以连字符保留两个词在同一个能指构造中的叠合。
@@ -19,6 +19,8 @@ verified_at: 2026-08-06
 
 《研讨班 XXII》又把 *hainamoration* 称为一项“第一真理”，并用博罗米结表示爱对他人福祉的界限：爱有时会关心对方的福祉，却只到某个限度；越过该限度，因为其中有实在界，爱可能固执地追求相反之物。这个推进把合写造词同“界限”相连，而不是把“所有爱都必然伤害对方”写成经验定律。
 
+阿卢什《拉康之爱》序言把对ambivalence的弃用与hainamoration的重写放回存在之激情的三元组：爱与恨还须同无知一起考虑，不能由一个爱恨双词概括全部关系。作者同时指出，在拉康的这项造词及其论述中，爱仍比恨获得更多关注。这是他对论述重心的判断，不是该法文词的词典定义。本项目这份法文节选沿用阿卢什文本的工作译名“恨爱崇敬”，与本卡据《研讨班XX》使用的“恨—恋”均对应同一词形，应保留各文本的译名与来源区别。
+
 ## 来源
 
 - [[texts/s20-encore/original/Leçon-09.md#s20-09-0009|《研讨班 XX》第九课 s20-09-0009]]—[[texts/s20-encore/original/Leçon-09.md#s20-09-0012|s20-09-0012]]（法文；造词、逐字母拼写及对 *ambivalence* 的批评）
@@ -26,11 +28,14 @@ verified_at: 2026-08-06
 - [[texts/s22-r-s-i/original/Leçon-11.md#s22-11-0045|《研讨班 XXII》第十一课 s22-11-0045—s22-11-0052]]（法文；博罗米界限、他人福祉与 *hainamoration*）
 - [Philippe Julien, « Hainamoration et réalité psychique »](https://ecole-lacanienne.net/wp-content/uploads/2016/04/Littoral15-16.pdf)（法文；精神分析期刊研究，区分 *hainamoration* 与爱恨“矛盾情感”）
 
+- [[texts/l-amour-lacan-jean-allouch-extraits/original/Prologue.md|让·阿卢什（Jean Allouch）：《拉康之爱》（L’amour Lacan），〈序言〉（Prologue）]]（法文；第72、104段，allouch-amour-fr-prologue-0072与allouch-amour-fr-prologue-0104；矛盾情感、爱恨无知与作者对论述重心的判断）
+
 ## 关联
 
 [[知识库/恩培多克勒的爱与争斗.md|恩培多克勒的爱与争斗]]
 [[知识库/爱是给予自己没有的东西.md|爱是给予自己没有的东西]]
 [[知识库/书写模态：必然、不可能、偶然与可能.md|书写模态：必然、不可能、偶然与可能]]
+[[知识库/爱、恨与无知：拉康的存在之激情.md|爱、恨与无知：拉康的存在之激情]]
 
 [[texts/s20-encore/translation/Leçon-09.md#s20-09-0009|s20-09-0009]]
 [[texts/s20-encore/translation/Leçon-09.md#s20-09-0012|s20-09-0012]]
@@ -39,3 +44,4 @@ verified_at: 2026-08-06
 [[texts/s22-r-s-i/translation/Leçon-11.md#s22-11-0045|s22-11-0045]]
 [[texts/s22-r-s-i/translation/Leçon-11.md#s22-11-0050|s22-11-0050]]
 [[texts/s22-r-s-i/translation/Leçon-11.md#s22-11-0052|s22-11-0052]]
+[[texts/l-amour-lacan-jean-allouch-extraits/translation/Prologue.md|让·阿卢什（Jean Allouch）：《拉康之爱》（L’amour Lacan），〈序言〉（Prologue）]]

@@ -32,6 +32,7 @@ verified_at: 2026-09-15
 
 [[知识库/Logos、Verbum与“道”.md|Logos、Verbum 与“道”]]
 [[知识库/Passio：激情、受动与苦难.md|Passio：激情、受动与苦难]]
+[[知识库/ἔθος与ἦθος：习惯、品格与精神分析伦理.md|ἔθος与ἦθος：习惯、品格与精神分析伦理]]
 [[知识库/普绪克与厄洛斯的故事.md|普绪克与厄洛斯的故事]]
 
 [[texts/s8-le-transfert/translation/Leçon-16.md#s8-16-0039|s8-16-0039]]

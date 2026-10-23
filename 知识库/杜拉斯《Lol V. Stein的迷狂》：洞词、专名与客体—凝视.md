@@ -43,3 +43,4 @@ verified_at: 2026-08-08
 [[texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/Leçon-24.md#s12-24-0041|s12-24-0041]]
 [[texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/Leçon-24.md#s12-24-0111|s12-24-0111]]
 [[texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/Leçon-24.md#s12-24-0112|s12-24-0112]]
+[[texts/new-remarks-on-the-passage-to-the-act-jean-allouch/translation/Chapter-03.md#allouch-pact-14-0003|allouch-pact-14-0003]]

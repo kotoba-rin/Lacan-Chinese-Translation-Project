@@ -77,8 +77,8 @@ qq交流群：700300644
 | XX，*Encore* | `texts/s20-encore` | 13 / 13 | 100% | 译文覆盖完成，待校订 |
 | XXI，*Les non-dupes errent* | `texts/s21-les-non-dupes-errent` | 15 / 15 | 100% | 译文覆盖完成，待校订 |
 | XXII，*R.S.I.* | `texts/s22-r-s-i` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
-| XXIII，*Le sinthome* | `texts/s23-le-sinthome` | 11 / 11 | 100% | 译文覆盖完成，待校订 |
-| XXIV，*L'insu que sait de l'une-bévue s'aile à mourre* | `texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
+| XXIII，圣状（*Le sinthome*） | `texts/s23-le-sinthome` | 11 / 11 | 100% | 译文覆盖完成，待校订 |
+| XXIV，无意识的失败即是爱（*L'insu que sait de l'une-bévue s'aile à mourre*） | `texts/s24-l-insu-que-sait-de-l-une-bevue-s-aile-a-mourre` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
 | XXV，*Le moment de conclure* | `texts/s25-le-moment-de-conclure` | 12 / 12 | 100% | 译文覆盖完成，待校订 |
 | XXVI，*La topologie et le temps* | `texts/s26-la-topologie-et-le-temps` | 10 / 10 | 100% | 译文覆盖完成，待校订 |
 | XXVII，*Dissolution* | `texts/s27-dissolution` | 13 / 13 | 100% | 译文覆盖完成，待校订 |

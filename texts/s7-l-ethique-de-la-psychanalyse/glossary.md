@@ -173,6 +173,10 @@
 | honestas | 高尚 / 高尚品格 | 西塞罗伦理语境；不是现代汉语中狭义的“诚实”。相关 *honnête homme* 译“高尚之人”。 |
 | utilitas | 功用 | 拉丁语；第十二课用以引出功利主义的基础问题。 |
 | Éthique à Nicomaque | 尼各马可伦理学 | 亚里士多德著作；沿用项目既有译名。 |
+| Bentham’s Theory of Fictions / Théorie des fictions | 边沁的虚构理论 / 虚构理论 | C. K. 奥格登1932年辑编的边沁文本；不是边沁以该书名完成的独立专著。本期第十九课及第一课补注简称《虚构理论》。 |
+| An Introduction to the Principles of Morals and Legislation | 道德与立法原理导论 | 边沁著作，1780年印行，1789年首次公开出版。 |
+| A Fragment on Government | 政府片论 | 边沁著作，1776年出版；与《虚构理论》编本区别。 |
+| paraphrasis | 释述 | 边沁的概念分析方法：将包含虚构实体名称的命题改述为能显示其与实在实体之联系的命题，不只是替换单个词语。 |
 | Totem et Tabou | 图腾与禁忌 | 弗洛伊德著作。 |
 | Malaise dans la civilisation | 文明及其不满 | 弗洛伊德著作。 |
 | Traumdeutung | 梦的解析 | 弗洛伊德著作；首次出现可保留德文书名。 |

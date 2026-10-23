@@ -513,6 +513,51 @@
   margin: 4px 0;
 }
 
+.lacan-ai-settings .lacan-ai-setting-wide {
+  align-items: stretch;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.lacan-ai-settings .lacan-ai-setting-wide > .setting-item-info {
+  flex: none;
+  margin-right: 0;
+  min-width: 0;
+  width: 100%;
+}
+
+.lacan-ai-settings .lacan-ai-setting-wide > .setting-item-control {
+  align-items: center;
+  flex: none;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-start;
+  min-width: 0;
+  width: 100%;
+}
+
+.lacan-ai-settings .lacan-ai-setting-wide > .setting-item-control > input[type="text"],
+.lacan-ai-settings .lacan-ai-setting-wide > .setting-item-control > select {
+  box-sizing: border-box;
+  flex: 1 1 20rem;
+  max-width: 100%;
+  min-width: 0;
+  width: 100%;
+}
+
+.lacan-ai-settings .lacan-ai-setting-wide > .setting-item-control > button {
+  flex: 0 0 auto;
+  max-width: 100%;
+  white-space: nowrap;
+}
+
+.lacan-ai-settings .setting-item select {
+  box-sizing: border-box;
+  max-width: 100%;
+  padding-inline-end: 2.5em;
+  text-overflow: ellipsis;
+}
+
 .lacan-ai-view {
   --lacan-ai-ink: var(--interactive-accent);
   display: flex;

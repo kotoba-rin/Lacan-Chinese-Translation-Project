@@ -4565,7 +4565,8 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
     }
   }
 
-  renderSegmentAiSettings(containerEl) {
+  renderSegmentAiSettings(parentEl) {
+    const containerEl = parentEl.createDiv("lacan-ai-settings");
     containerEl.createEl("h3", { text: "AI 功能（本地 Agent）" });
     const descriptionEl = containerEl.createDiv("lacan-ai-settings-description setting-item-description");
     descriptionEl.createEl("p", {
@@ -4617,6 +4618,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
       });
 
     new Setting(containerEl)
+      .setClass("lacan-ai-setting-wide")
       .setName("Codex CLI 路径")
       .setDesc("可选。填写 codex 可执行文件的绝对路径；留空时从 Obsidian 进程的 PATH 中查找。插件不会自动安装 Codex。")
       .addText((text) => {
@@ -4642,6 +4644,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
         }。`
       : "尚未获取模型列表。";
     new Setting(containerEl)
+      .setClass("lacan-ai-setting-wide")
       .setName("Agent 模型")
       .setDesc(
         `列表由本机 Codex App Server 的 model/list 提供，不经过 Claudian。${modelCatalogStatus}`
@@ -4719,6 +4722,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
         }。所选强度会作为 turn/start 的 effort 发送。`
       : "尚未取得当前模型的推理强度目录；可先刷新模型。留空时由 Codex 选择默认值。";
     new Setting(containerEl)
+      .setClass("lacan-ai-setting-wide")
       .setName("推理强度")
       .setDesc(reasoningDescription)
       .addDropdown((dropdown) => {

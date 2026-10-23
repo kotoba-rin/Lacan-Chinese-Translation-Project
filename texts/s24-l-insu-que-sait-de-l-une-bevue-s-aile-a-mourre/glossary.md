@@ -6,7 +6,7 @@
 
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
-| L’insu que sait de l’une-bévue s’aile à mourre | 保留法文标题 | 整个标题以连续音链牵出 *l’insuccès*、*Unbewußt / une-bévue*、*c’est l’amour* 与 *la mourre*；不以一个流畅汉译替代其多重切分。 |
+| L’insu que sait de l’une-bévue s’aile à mourre（篇名） | 无意识的失败即是爱 | 中文篇名采用标题中“无意识／失败／爱”的一种谐音读法，并非逐词直译；同时保留完整法文副标题。整个标题还以连续音链牵出 *l’insuccès*、*Unbewußt / une-bévue*、*c’est l’amour* 与 *la mourre*，正文与注释继续保留这些法文节点及其多重切分。 |
 | L’insu que sait | 知道着的不知情 | 字面把“不知情／未被知道的东西”同“知道”叠合，并在语音上牵出 *l’insuccès*“失败”。 |
 | Unbewußt / une-bévue / l’Une-bévue | 无意识／一桩—失误 | *une-bévue* 是拉康对德语 *Unbewußt* 的近音重译；连字符和“一桩”保留偶发失误的单次性，不把它重新等同于一般“无意识”。 |
 | inconscient / inconscience / conscience | 无意识／无知觉、不省人事／意识 | 第一课明确利用 *inconscient* 在理论概念与失去意识之间的歧义；依句法区分。 |

@@ -9,7 +9,7 @@ tags:
   - 人物/拉康
   - 概念/对象a
   - 时期/古典时代
-verified_at: 2026-09-13
+verified_at: 2026-10-11
 ---
 
 古希腊语 ἄγαλμα（*agalma*）可以指使神或观看者感到荣耀、欣喜的饰物、献礼或珍贵之物，后来尤其常指神像和奉献雕像。它并不只是现代意义上中性的“雕塑”：宗教奉献、光彩与价值感都可能包含在语境中。
@@ -50,6 +50,8 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 
 第十五课把 *agalma* 从《会饮》的珍宝形象带入两项具体关系：乳头经要求和爱的关系事后获得爱欲价值（s8-15-0004—0005）；孩子身上受特权兴趣标记的对象则被称为他内部的珍珠（s8-15-0046）。紧接着“作为对象受赞赏、作为欲望受贬抑”的对照说明：珍贵对象的价值不等于完整主体或其欲望已获承认。这里的内部珍珠是论述中的价值形象，不是身体内部实际藏着一件宝物。
 
+阿卢什《拉康之爱》序言将agalma的功能带入1967年转移算法的两版《提议》：分析家知道自己并不占有它，却容许这项归属，使自己一度被放到被假定知道的主体和被爱对象的位置。作者因而认为，算法无须另外写上“爱”这个项目，agalma的功能已经参与其中。这是关于归属、知识假定及其消退的阅读，不是断言分析家体内真的藏着一种珍宝，也不把这个功能等同于完整人格的魅力。
+
 ## 来源
 
 - [Cunliffe Lexicon: ἄγαλμα](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Acunliffe_lex-n24/)（希腊文/英文；古希腊词典）
@@ -68,6 +70,8 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 
 - [[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0004|本地法语原文 s8-15-0004]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0005|本地法语原文 s8-15-0005]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0046|本地法语原文 s8-15-0046]]、[[texts/s8-le-transfert/original/Leçon-15.md#s8-15-0047|本地法语原文 s8-15-0047]]（法文；乳头的回溯性爱欲价值与孩子内部珍珠的比喻）
 
+- [[texts/l-amour-lacan-jean-allouch-extraits/original/Prologue.md|让·阿卢什（Jean Allouch）：《拉康之爱》（L’amour Lacan），〈序言〉（Prologue）]]（法文；第47段，allouch-amour-fr-prologue-0047；agalma的归属、被爱对象与转移算法）
+
 ## 关联
 
 [[知识库/Daimon与Theos：神性力量、中介与诸神.md|Daimon 与 Theos：神性力量、中介与诸神]]
@@ -83,6 +87,7 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 [[知识库/部分对象与对象a.md|部分对象与对象 a]]
 [[知识库/阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败.md|阿多尼斯花园：短暂发芽与阿尔西比亚德的教育失败]]
 [[知识库/鲍萨尼亚与两位阿佛洛狄忒.md|鲍萨尼亚与两位阿佛洛狄忒]]
+[[知识库/被假定知道的主体与移情.md|被假定知道的主体与移情]]
 
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0001|s8-10-0001]]
 [[texts/s8-le-transfert/translation/Leçon-10.md#s8-10-0002|s8-10-0002]]
@@ -105,3 +110,4 @@ Reeve 又把这场交换同《会饮》的“满杯流入空杯”（175c—e）
 [[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0004|s8-15-0004]]
 [[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0046|s8-15-0046]]
 [[texts/s8-le-transfert/translation/Leçon-15.md#s8-15-0047|s8-15-0047]]
+[[texts/l-amour-lacan-jean-allouch-extraits/translation/Prologue.md|让·阿卢什（Jean Allouch）：《拉康之爱》（L’amour Lacan），〈序言〉（Prologue）]]

@@ -18,7 +18,7 @@ max_segment_id: 129
 
 <!-- id: s10-11-0002 -->
 
-Wladimir Granoff（1）
+### Wladimir Granoff（1）
 
 <!-- id: s10-11-0003 -->
 
@@ -284,7 +284,7 @@ Lucy Tower 格外仔细地收集这些主题。纵观这份清单和一百八十
 
 <!-- id: s10-11-0067 -->
 
-[François Perrier<span id="Perrier" class="anchor"></span>](#Fev20)
+### [François Perrier<span id="Perrier" class="anchor"></span>](#Fev20)
 
 <!-- id: s10-11-0068 -->
 
@@ -480,7 +480,7 @@ Lucy Tower 格外仔细地收集这些主题。纵观这份清单和一百八十
 
 <!-- id: s10-11-0116 -->
 
-[Wladimir Granoff<span id="Granoff20_02" class="anchor"></span>](#Fev20)
+### [Wladimir Granoff<span id="Granoff20_02" class="anchor"></span>](#Fev20)
 
 <!-- id: s10-11-0117 -->
 

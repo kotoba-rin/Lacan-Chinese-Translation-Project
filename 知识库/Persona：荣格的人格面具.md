@@ -42,6 +42,7 @@ verified_at: 2026-09-26
 ## 关联
 
 [[知识库/女性气质作为假面：里维埃与拉康.md|女性气质作为假面：里维埃与拉康]]
+[[知识库/海伦娜·多伊奇与仿佛人格.md|海伦娜·多伊奇与仿佛人格]]
 
 [[texts/s8-le-transfert/translation/Leçon-17.md#s8-17-0018|s8-17-0018]]
 [[texts/s8-le-transfert/translation/Leçon-17.md#s8-17-0019|s8-17-0019]]

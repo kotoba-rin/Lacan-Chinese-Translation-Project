@@ -9402,7 +9402,8 @@ var LacanTranslationHelperSettingTab = class extends PluginSettingTab {
       });
     }
   }
-  renderSegmentAiSettings(containerEl) {
+  renderSegmentAiSettings(parentEl) {
+    const containerEl = parentEl.createDiv("lacan-ai-settings");
     containerEl.createEl("h3", { text: "AI 功能（本地 Agent）" });
     const descriptionEl = containerEl.createDiv("lacan-ai-settings-description setting-item-description");
     descriptionEl.createEl("p", {
@@ -9440,7 +9441,7 @@ var LacanTranslationHelperSettingTab = class extends PluginSettingTab {
         this.display();
       });
     });
-    new Setting(containerEl).setName("Codex CLI 路径").setDesc("可选。填写 codex 可执行文件的绝对路径；留空时从 Obsidian 进程的 PATH 中查找。插件不会自动安装 Codex。").addText((text) => {
+    new Setting(containerEl).setClass("lacan-ai-setting-wide").setName("Codex CLI 路径").setDesc("可选。填写 codex 可执行文件的绝对路径；留空时从 Obsidian 进程的 PATH 中查找。插件不会自动安装 Codex。").addText((text) => {
       text.setPlaceholder("/opt/homebrew/bin/codex").setValue(this.plugin.settings.segmentAiCodexPath || "").onChange(async (value) => {
         this.plugin.settings.segmentAiCodexPath = value.trim();
         await this.plugin.saveSettings();
@@ -9452,7 +9453,7 @@ var LacanTranslationHelperSettingTab = class extends PluginSettingTab {
       this.plugin.settings.segmentAiModelCatalogUpdatedAt || 0
     );
     const modelCatalogStatus = modelCatalog.length > 0 ? `已从本机 Codex 获取 ${modelCatalog.length} 个模型${modelCatalogUpdatedAt ? `，最近刷新：${new Date(modelCatalogUpdatedAt).toLocaleString()}` : ""}。` : "尚未获取模型列表。";
-    new Setting(containerEl).setName("Agent 模型").setDesc(
+    new Setting(containerEl).setClass("lacan-ai-setting-wide").setName("Agent 模型").setDesc(
       `列表由本机 Codex App Server 的 model/list 提供，不经过 Claudian。${modelCatalogStatus}`
     ).addDropdown((dropdown) => {
       dropdown.addOption("", "使用 Codex 默认模型");
@@ -9507,7 +9508,7 @@ var LacanTranslationHelperSettingTab = class extends PluginSettingTab {
     );
     const defaultReasoningLabel = reasoningProfile?.defaultReasoningEffort ? REASONING_EFFORT_LABELS[reasoningProfile.defaultReasoningEffort] || reasoningProfile.defaultReasoningEffort : "";
     const reasoningDescription = reasoningProfile ? `${reasoningProfile.model} 支持的强度来自 model/list；留空时使用模型默认值${defaultReasoningLabel ? ` ${defaultReasoningLabel}` : ""}。所选强度会作为 turn/start 的 effort 发送。` : "尚未取得当前模型的推理强度目录；可先刷新模型。留空时由 Codex 选择默认值。";
-    new Setting(containerEl).setName("推理强度").setDesc(reasoningDescription).addDropdown((dropdown) => {
+    new Setting(containerEl).setClass("lacan-ai-setting-wide").setName("推理强度").setDesc(reasoningDescription).addDropdown((dropdown) => {
       dropdown.addOption(
         "",
         defaultReasoningLabel ? `跟随模型默认值（${defaultReasoningLabel}）` : "跟随模型默认值"

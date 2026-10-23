@@ -4,6 +4,7 @@
 
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
+| Contre-chant | 《对位之歌》 | 阿拉贡《艾尔莎的疯子》中的诗题；本项目统一译名。法语音乐义指在同一和声上伴随主旋律的另一条旋律线，不把 contre 简单理解为反对，也不将它与对位法（contrepoint）视为同一术语。词义据[《法兰西学院词典》contre-chant](https://www.dictionnaire-academie.fr/article/A9C3927)。 |
 | Les quatre concepts fondamentaux de la psychanalyse | 精神分析的四个基本概念 | 第十一期研讨班标题；与第一课所说的 *fondements de la psychanalyse*“精神分析的基础”区分。 |
 | fondements de la psychanalyse | 精神分析的基础 | 第一课公布的新讲题；*fondement* 依上下文还带有“底部、底下”的文字游戏，不改写成“四个基本概念”。 |
 | concept fondamental | 基本概念 | 第一课末明确列出无意识、重复、转移和驱力四项。 |

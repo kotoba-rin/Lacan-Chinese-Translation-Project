@@ -6,7 +6,8 @@
 
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
-| Le sinthome / sinthome | *Le sinthome*／*sinthome* | 标题与核心新造词保留法文斜体；它既承接 *symptôme*，又牵连英语 *sin*、*saint homme*、*sint-home* 等音形游戏，不压平为单一中文词。 |
+| Le sinthome（篇名） | 圣状 | 中文篇名采用“圣状”，同时保留法文副标题 *Le sinthome*，与普通“症状”（*symptôme*）区分。 |
+| sinthome（正文术语） | *sinthome* | 正文保留法文斜体；它既承接 *symptôme*，又牵连英语 *sin*、*saint homme*、*sint-home* 等音形游戏，不压平为单一中文词。 |
 | symptôme | 症状 | 与本研讨班特意改写的 *sinthome* 区分；原文在论证中互换或比较时保留差别。 |
 | sin / saint homme | 罪／圣人 | 第一课用来展开 *sinthome* 的英语和法语谐音。 |
 | sinthome madaquin / madaquinisme | *sinthome madaquin*／阿奎那主义 | 把 *saint Thomas d’Aquin* 压缩进 *sinthome* 的造词；保留原形并说明构词。 |

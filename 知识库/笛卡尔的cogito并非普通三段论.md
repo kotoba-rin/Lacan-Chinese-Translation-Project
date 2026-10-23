@@ -8,7 +8,7 @@ tags:
   - 领域/哲学/认识论与心灵
   - 人物/笛卡尔
   - 概念/我思
-verified_at: 2026-09-16
+verified_at: 2026-10-04
 ---
 
 *Cogito* 是拉丁语 *cogitare*（思考、思量）的第一人称单数现在时直陈式，字面即“我思”；在后来的哲学语境中，它也被名词化，用作 *cogito ergo sum*［我思，故我在］及其论证位置的简称。
@@ -20,6 +20,8 @@ verified_at: 2026-09-16
 不过，*donc/ergo* 并非毫无作用的“作弊”。它标记思想行动与存在确定性之间的依存：哪怕欺骗者在欺骗我，也必须有一个正在被欺骗、正在思的我。争论在于这种依存应叫推论、直观、施行性自证还是第一人称反思，而不是两句话之间完全没有理由。
 
 这一步首先保证的是：在怀疑或思想正在发生的当下，正在思者不能同时被否认为不存在。它并不就此证明身体、外部世界或关于“我是什么”的全部规定，也不是对经验性自我心理状态的普通描述，更不等于意识已经对自身的一切内容完全透明。
+
+这种当下性与“思考之物”（*res cogitans*）的规定仍须区分：《第二沉思》一面追问“我存在多久”，把当前确定性限定在思想发生之时；一面又明确把自己规定为“一件思考之物”。所以，不能用 *cogito* 的瞬时性抹去笛卡尔随后关于思考之物的论述，也不能从这一瞬时确定性直接推出一个不依赖任何进一步论证、永久透明的自我实体。前者是原典中确有的规定，后者是对其证明范围的越界扩张。
 
 《指导心智的规则》第三条把直观与演绎区分为可靠的认识途径，并将“自己存在、自己思想”列为直观所能直接把握的例子；同条末尾仍承认启示真理的最高确定性，把信仰归于意志而非理智的活动。因而不能把这套方法简单描述为排除神学的理性自足宣言，也不能把《规则》的方法论同《沉思》的上帝证明当作同一段论证。
 
@@ -49,6 +51,8 @@ verified_at: 2026-09-16
 
 ## 来源
 
+- [Descartes：《第二沉思》](https://fr.wikisource.org/wiki/M%C3%A9ditations_m%C3%A9taphysiques/M%C3%A9ditation_seconde)（法文；原典法译，“存在多久”与“思考之物”在同一论证中的并置）
+- [[texts/new-remarks-on-the-passage-to-the-act-jean-allouch/original/Chapter-02.md#allouch-pact-13-0028|本地英语底本：阿卢什第二章第0028段及原注21]]（英文；促成本次辨析的瞬时性论断，须与笛卡尔原典区分）
 - [Descartes, Règles pour la direction de l’esprit，第三条](https://fr.wikisource.org/wiki/R%C3%A8gles_pour_la_direction_de_l%E2%80%99esprit)（法文；原典译本，直观与演绎、“存在／思想”的直接把握及启示真理与信仰的限定）
 - [Descartes, Méditations métaphysiques，第二、三沉思](https://athena.unige.ch/athena/descartes/descartes-meditations-metaphysiques-complet.html)（法文；原典，思想当下的存在确定性、无限者观念与有限之我的存在原因）
 - [Descartes, Méditations métaphysiques，第五沉思](https://athena.unige.ch/athena/descartes/descartes-meditations-metaphysiques-5.html)（法文；原典，不欺骗的上帝与注意力转移后的知识确定性）
@@ -114,3 +118,4 @@ verified_at: 2026-09-16
 [[texts/s17-l-envers-de-la-psychanalyse/translation/Leçon-11.md#s17-11-0087|s17-11-0087]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0058|s14-09-0058]]
 [[texts/s14-la-logique-du-fantasme/translation/Leçon-09.md#s14-09-0119|s14-09-0119]]
+[[texts/new-remarks-on-the-passage-to-the-act-jean-allouch/translation/Chapter-02.md#allouch-pact-13-0028|allouch-pact-13-0028]]
