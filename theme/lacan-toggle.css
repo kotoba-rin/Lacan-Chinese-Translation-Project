@@ -15,6 +15,10 @@
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 }
 
+.reading-controls[hidden] {
+  display: none;
+}
+
 .lacan-toggle-group {
   display: flex;
   flex-direction: column;
@@ -36,6 +40,34 @@
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 0.35rem;
   margin: 0;
+}
+
+.lacan-tool-panel-content {
+  display: flex;
+  flex-direction: inherit;
+  flex-wrap: inherit;
+  align-items: inherit;
+  gap: inherit;
+  min-width: 0;
+  width: 100%;
+}
+
+.lacan-tool-panel-content[hidden] {
+  display: none;
+}
+
+.lacan-tool-panel-toggle {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.lacan-tool-panel-toggle::after {
+  content: "▾";
+  margin-left: 0.35em;
+}
+
+.lacan-tool-panel-toggle[aria-expanded="true"]::after {
+  content: "▴";
 }
 
 .lacan-tool-search-input {

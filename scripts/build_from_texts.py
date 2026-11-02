@@ -1418,17 +1418,20 @@ def render_lesson(
 
 def render_controls() -> list[str]:
     return [
-        '<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">',
-        '  <div class="lacan-toggle-group" aria-label="显示选项">',
-        '    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>',
-        '    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>',
-        '    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 建言</label>',
+        '<div class="reading-controls lacan-tool-panel lacan-tools-collapsed" role="group" aria-label="页面功能区" hidden>',
+        '  <button class="lacan-tool-button lacan-tool-panel-toggle" type="button" title="展开阅读工具" aria-label="展开阅读工具" aria-expanded="false" aria-controls="lacan-tool-panel-content">阅读工具</button>',
+        '  <div id="lacan-tool-panel-content" class="lacan-tool-panel-content" hidden>',
+        '    <div class="lacan-toggle-group" aria-label="显示选项">',
+        '      <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>',
+        '      <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>',
+        '      <label><input type="checkbox" data-lacan-toggle="commentary" checked> 建言</label>',
+        "    </div>",
+        '    <form class="lacan-tool-search" role="search">',
+        '      <input class="lacan-tool-search-input" type="search" placeholder="搜索标题、知识卡或段落 ID" aria-label="搜索标题、知识卡或段落 ID">',
+        '      <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>',
+        "    </form>",
+        '    <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>',
         "  </div>",
-        '  <form class="lacan-tool-search" role="search">',
-        '    <input class="lacan-tool-search-input" type="search" placeholder="搜索标题、知识卡或段落 ID" aria-label="搜索标题、知识卡或段落 ID">',
-        '    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>',
-        "  </form>",
-        '  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>',
         "</div>",
     ]
 

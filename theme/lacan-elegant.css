@@ -79,7 +79,7 @@ html.coal, html.navy, html.ayu {
   --content-max-width: 776px;
   --menu-bar-height: 60px;
   --page-padding: 24px;
-  --lacan-reading-offset: 154px;
+  --lacan-reading-offset: calc(var(--menu-bar-height) + 24px);
   color-scheme: var(--lacan-color-scheme);
 }
 body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialiased; }
@@ -193,7 +193,11 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 .reading-controls label:has(input:checked) { color: var(--fg); }
 .reading-controls label:has(input[data-lacan-toggle="notes"]),
 .reading-controls label:has(input[data-lacan-toggle="commentary"]) { font-weight: 700; }
-.lacan-tool-search { flex: 1 1 180px; max-width: none; gap: 5px; }
+.reading-controls.lacan-tools-collapsed { width: fit-content; max-width: 100%; margin-left: auto; padding: 4px 0; border-bottom: 0; }
+.lacan-tool-panel-content { flex-basis: 100%; }
+.lacan-tool-panel-toggle { margin-left: auto; }
+.lacan-tool-panel-toggle[aria-expanded="true"] { border-color: var(--links); background: var(--lacan-accent-soft); }
+.lacan-tool-search { order: 4; flex: 1 1 100%; max-width: none; gap: 5px; }
 .lacan-tool-search-input, .lacan-tool-button {
   min-height: 34px; padding: 7px 10px; border: 1px solid var(--lacan-elegant-border);
   border-radius: 4px; background: var(--lacan-elegant-surface); color: var(--fg);
@@ -206,6 +210,28 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 .lacan-share-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
 .lacan-share-toggle[aria-pressed="true"] { border-color: var(--links); background: var(--lacan-accent-soft); }
 .lacan-share-count { color: var(--lacan-elegant-muted); font-size: 12px; }
+
+/* Put lesson tools in the menu, with their panel anchored below it. */
+#mdbook-menu-bar.lacan-has-reading-tools { position: sticky; top: 0 !important; }
+#mdbook-menu-bar .reading-controls {
+  position: static; display: flex; flex: 0 0 auto; flex-wrap: nowrap; align-items: center;
+  gap: 0; width: auto; max-width: none; margin: 0; padding: 0;
+  border: 0; border-radius: 0; background: transparent; box-shadow: none;
+}
+#mdbook-menu-bar .lacan-tool-panel-toggle {
+  margin: 0; border: 0; border-radius: 0; background: transparent;
+  font: 13px/1 var(--lacan-elegant-sans);
+}
+#mdbook-menu-bar .lacan-tool-panel-toggle[aria-expanded="true"] { color: var(--links); background: var(--lacan-accent-soft); }
+#mdbook-menu-bar .lacan-tool-panel-content {
+  position: absolute; top: 100%; left: 14px;
+  display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap: 8px 12px;
+  box-sizing: border-box; width: min(420px, calc(100% - 28px));
+  max-height: calc(100dvh - var(--menu-bar-height) - 16px); overflow-y: auto;
+  padding: 14px; border: 1px solid var(--lacan-elegant-border); border-radius: 0 0 6px 6px;
+  background: var(--bg); color: var(--fg); box-shadow: var(--lacan-shadow);
+}
+#mdbook-menu-bar .lacan-tool-panel-content[hidden] { display: none; }
 
 /* Source, translation and editorial notes each have their own rhythm. */
 .content main .parallel-text { gap: 30px; }
@@ -277,7 +303,7 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
   .menu-title { font-size: 12px; letter-spacing: 0.06em; }
 }
 @media (max-width: 700px) {
-  :root { --page-padding: 20px; --menu-bar-height: 54px; --lacan-reading-offset: 190px; }
+  :root { --page-padding: 20px; --menu-bar-height: 54px; }
   .content main { padding: 30px 0 24px; font-size: 18px; line-height: 1.8; }
   .content main h1 { font-size: 34px; }
   .content main h2 { font-size: 28px; margin-top: 36px; }
@@ -320,7 +346,7 @@ body { font-family: var(--lacan-elegant-serif); -webkit-font-smoothing: antialia
 }
 @media print {
   html[class] { --lacan-elegant-bg: #fff; --lacan-elegant-text: #000; --lacan-elegant-muted: #444; --lacan-elegant-soft: #f5f5f5; --lacan-elegant-surface: #fff; --lacan-elegant-accent: #326891; --lacan-headline: #000; --lacan-comment: #000; --lacan-editorial-surface: #f0f0f0; --lacan-elegant-border: #ccc; --lacan-elegant-strong-border: #999; --lacan-color-scheme: light; }
-  .reading-controls, .lacan-sidebar-brand, .lacan-home-actions, .nav-wrapper,
+  .reading-controls, #mdbook-menu-bar .reading-controls, .lacan-sidebar-brand, .lacan-home-actions, .nav-wrapper,
   .lacan-nav-overlay { display: none !important; }
   #mdbook-page-wrapper.page-wrapper { margin-inline-end: 0; }
   .content main { max-width: none; min-height: 0; padding: 0; font-size: 12pt; }
