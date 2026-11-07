@@ -54,7 +54,25 @@ COMMENTARY_MARKER_RE = re.compile(r"<!--\s*建言\s*-->")
 LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-(\d+)\.md$", re.IGNORECASE)
 CANONICAL_LESSON_PREFIX = "Leçon"
 NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
-INLINE_STRONG_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
+INLINE_STRONG_RE = re.compile(
+    r"(?<!\*)\*\*(?!\*)(\S(?:[^\n]*?\S)?)(?<!\*)\*\*(?!\*)"
+)
+EMPHASIS_LITERAL_RE = re.compile(
+    # Code spans use matching backtick runs, including spans across lines.
+    r"(?<!`)(?P<ticks>`+)(?!`)(?:(?!\n[ \t>]*\n)[\s\S])*?(?<!`)(?P=ticks)(?!`)"
+    r"|<!--[\s\S]*?(?:-->|\Z)"
+    r"|<(?P<raw>pre|code|script|style|textarea)\b[^>]*>[\s\S]*?(?:</(?P=raw)\s*>|\Z)"
+    # Protect math before escaped characters and HTML attributes are shielded.
+    r"|(?<!\\)\$\$[\s\S]*?(?<!\\)\$\$"
+    r"|(?<![\\$])\$(?!\$)[^\n$]*?(?<!\\)\$(?!\$)"
+    r"|(?<!\\)\\{1,2}\([\s\S]*?\\{1,2}\)"
+    r"|(?<!\\)\\{1,2}\[[\s\S]*?\\{1,2}\]"
+    r"|</?[A-Za-z][\w:-]*(?:\s+(?:[^<>\"']|\"[^\"]*\"|'[^']*')*)?\s*/?>"
+    r"|<[^\s<>]+:[^<>]*>|<[^\s<>]+@[^\s<>]+>"
+    r"|\]\((?:[^()\\]|\\[^\n]|\([^()]*\))*\)"
+    r"|\\[^\n]",
+    re.IGNORECASE,
+)
 OBSIDIAN_IMAGE_RE = re.compile(r"!\[\[([^\]\n]+?)\]\]")
 OBSIDIAN_WIKI_LINK_RE = re.compile(r"(?<!!)\[\[([^\]\n]+?)\]\]")
 READING_NOTE_LINK_LINE_RE = re.compile(
@@ -187,10 +205,109 @@ def validate_unique_id_markers_in_file(path: Path) -> None:
 
 
 def normalize_source_markdown(text: str, source_path: Path) -> str:
-    """Convert Obsidian-only markdown that mdBook cannot render directly."""
+    """Adapt source Markdown for mdBook without changing canonical files."""
+    text = render_markdown_emphasis(text)
     text = convert_obsidian_image_embeds(text, source_path)
     text = convert_obsidian_wiki_links(text, source_path)
     return convert_obsidian_latex_math(text)
+
+
+def render_markdown_emphasis(text: str) -> str:
+    """Keep paired strong markers readable at Chinese punctuation boundaries.
+
+    CommonMark rejects e.g. ``**句子。**正文`` and ``正文**“词”**``.
+    Use inline HTML for paired, nonempty, single-line strong spans, leaving
+    other emphasis to mdBook. Shield literal regions before matching so code,
+    math, HTML attributes and escaped asterisks cannot become formatting.
+    """
+    literals: list[tuple[str, str]] = []
+    prefix = "\x00emphasis:"
+    while prefix in text:
+        prefix += ":"
+
+    def shield(value: str) -> str:
+        token = f"{prefix}{len(literals)}\x00"
+        literals.append((token, value))
+        return token
+
+    protected: list[str] = []
+    cursor = 0
+    list_indents: list[int] = []
+    quote_depth = 0
+    literal: re.Match[str] | None = None
+    literal_searched = False
+    while cursor < len(text):
+        line_end = text.find("\n", cursor) + 1 or len(text)
+        if cursor == 0 or text[cursor - 1] == "\n":
+            line = text[cursor:line_end]
+            quote = re.match(r"^(?: {0,3}>[ \t]?)*", line).group(0)
+            depth = quote.count(">")
+            if depth != quote_depth:
+                list_indents = []
+                quote_depth = depth
+            content = line[len(quote):]
+            indent = len(content) - len(content.lstrip(" \t"))
+            while list_indents and indent < list_indents[-1] and content.strip():
+                list_indents.pop()
+            base = list_indents[-1] if list_indents else 0
+            item = re.match(r"[ \t]*(?:[-+*]|\d+[.)])([ \t]+)", content)
+            if item and indent - base < 4:
+                base = item.end()
+                list_indents.append(base)
+            relative = content[base:]
+
+            fence = re.match(r"^ {0,3}(`{3,}|~{3,})[^\n]*(?:\n|$)", relative)
+            if fence:
+                marker = fence.group(1)
+                closing = re.compile(
+                    rf"^ {{0,{base + 3}}}{re.escape(marker[0])}{{{len(marker)},}}[ \t]*(?:\n|$)"
+                )
+                end = line_end
+                while end < len(text):
+                    next_end = text.find("\n", end) + 1 or len(text)
+                    candidate = text[end:next_end]
+                    next_quote = re.match(r"^(?: {0,3}>[ \t]?)*", candidate).group(0)
+                    if next_quote.count(">") != depth:
+                        break
+                    candidate = candidate[len(next_quote):]
+                    if candidate.strip() and len(candidate) - len(candidate.lstrip(" \t")) < base:
+                        break
+                    end = next_end
+                    if closing.fullmatch(candidate):
+                        break
+                protected.append(shield(text[cursor:end]))
+                cursor = end
+                continue
+            if relative.startswith(("    ", "\t")) or re.match(r"^ {0,3}\[[^\]\n]+\]:", relative):
+                protected.append(shield(line))
+                cursor = line_end
+                continue
+
+        # Process in source order: literal HTML can contain fence-looking lines,
+        # and fenced code can contain HTML. Neither may hide following prose.
+        if not literal_searched or (literal is not None and literal.start() < cursor):
+            literal = EMPHASIS_LITERAL_RE.search(text, cursor)
+            literal_searched = True
+        if literal and literal.start() < line_end:
+            protected.extend([text[cursor:literal.start()], shield(literal.group(0))])
+            cursor = literal.end()
+        else:
+            protected.append(text[cursor:line_end])
+            cursor = line_end
+
+    text = "".join(protected)
+
+    def strong(match: re.Match[str]) -> str:
+        content = match.group(1)
+        # Do not guess how unmatched or nested double-star runs should pair.
+        if "**" in content:
+            return match.group(0)
+        return f"<strong>{content}</strong>"
+
+    text = INLINE_STRONG_RE.sub(strong, text)
+    for token, value in reversed(literals):
+        text = text.replace(token, value)
+    return text
 
 
 def convert_obsidian_wiki_links(text: str, source_path: Path) -> str:
@@ -1318,8 +1435,8 @@ def render_translation_entry(entry: TranslationEntry) -> RenderedTranslation:
 
 
 def render_translation_inline_markup(text: str) -> str:
-    """Keep translation emphasis from leaking as literal Markdown markers."""
-    return INLINE_STRONG_RE.sub(r"<strong>\1</strong>", text)
+    """Use the same protected emphasis conversion for all reading surfaces."""
+    return render_markdown_emphasis(text)
 
 
 def render_original_blocks(blocks: list[Paragraph]) -> str:

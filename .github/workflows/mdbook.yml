@@ -72,6 +72,12 @@ jobs:
       - name: Install Python script dependencies
         run: python3 -m pip install -r scripts/requirements.txt
 
+      - name: Test Markdown build and emphasis rendering
+        run: |
+          python3 -m unittest discover -s tests -p test_build_from_texts.py
+          python3 -m unittest discover -s tests -p test_navigation_index.py
+          python3 -m unittest discover -s tests -p test_markdown_emphasis.py
+
       - name: Generate mdBook input
         run: python3 scripts/build_from_texts.py
 
