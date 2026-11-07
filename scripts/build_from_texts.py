@@ -297,10 +297,27 @@ def render_markdown_emphasis(text: str) -> str:
 
     text = "".join(protected)
 
+    def has_unpaired_single_star(value: str) -> bool:
+        markers = 0
+        for marker in re.finditer(r"(?<!\*)\*(?!\*)", value):
+            before = value[marker.start() - 1:marker.start()] if marker.start() else ""
+            after = value[marker.end():marker.end() + 1]
+            if (before and not before.isspace()) or (after and not after.isspace()):
+                markers += 1
+        return markers % 2 != 0
+
     def strong(match: re.Match[str]) -> str:
         content = match.group(1)
         # Do not guess how unmatched or nested double-star runs should pair.
         if "**" in content:
+            return match.group(0)
+        # HTML tags cannot cross Markdown emphasis boundaries. Leave ambiguous
+        # single-star nesting to mdBook, including strong spans inside italics.
+        line_start = text.rfind("\n", 0, match.start()) + 1
+        if (
+            has_unpaired_single_star(text[line_start:match.start()])
+            or has_unpaired_single_star(content)
+        ):
             return match.group(0)
         return f"<strong>{content}</strong>"
 

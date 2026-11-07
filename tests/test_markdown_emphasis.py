@@ -89,6 +89,15 @@ class ProtectedMarkupTest(unittest.TestCase):
             with self.subTest(source=source):
                 self.assertEqual(builder.render_translation_inline_markup(source), source)
 
+    def test_malformed_single_emphasis_boundaries_are_left_to_mdbook(self):
+        samples = [
+            "*Schönbrunn**,* sur le *Stadtbahn**,*",
+            "**加粗 *斜体** 后文*",
+        ]
+        for source in samples:
+            with self.subTest(source=source):
+                self.assertEqual(builder.render_translation_inline_markup(source), source)
+
 
 @unittest.skipUnless(mdbook_binary(), "mdBook is required for actual HTML regression tests")
 class MdBookEmphasisHtmlTest(unittest.TestCase):
@@ -113,6 +122,7 @@ class MdBookEmphasisHtmlTest(unittest.TestCase):
             "**实体、属性与样态。**《伦理学》。\n\n"
             "**普通加粗**文字；*正常斜体*。\n\n"
             "**嵌套 *术语*。**后文。\n\n"
+            "*斜体 **加粗** 结尾*。\n\n"
             "**[链接](https://example.org/)。**后文。\n\n"
             '<span title="**属性。**后文">标签</span> **紧邻。**正文。\n'
         )
@@ -154,6 +164,11 @@ class MdBookEmphasisHtmlTest(unittest.TestCase):
                 "**引用之后。**正文。\n\n"
                 "<pre>\n~~~\n</pre>\n\n**原始块之后。**正文。\n"
             ),
+            "mixed-emphasis-boundaries": (
+                "*Schönbrunn**,* sur le *Stadtbahn**,*\n\n"
+                "*前段* **后段。**正文。\n\n"
+                "* **列表段。**正文。\n"
+            ),
         }
         pages.update({
             name: builder.normalize_source_markdown(markdown, card)
@@ -174,6 +189,7 @@ class MdBookEmphasisHtmlTest(unittest.TestCase):
         )
         if result.returncode:
             raise AssertionError(f"mdBook build failed: {result.stdout}\n{result.stderr}")
+        cls.build_stderr = result.stderr
         cls.pages = {}
         cls.literal_pages = {}
         for name in pages:
@@ -204,6 +220,7 @@ class MdBookEmphasisHtmlTest(unittest.TestCase):
                 self.assertIn("<strong>实体、属性与样态。</strong>《伦理学》", html)
                 self.assertIn("<strong>普通加粗</strong>文字；<em>正常斜体</em>", html)
                 self.assertIn("<strong>嵌套 <em>术语</em>。</strong>后文", html)
+                self.assertIn("<em>斜体 <strong>加粗</strong> 结尾</em>", html)
                 self.assertIn('<strong><a href="https://example.org/">链接</a>。</strong>后文', html)
 
     def test_canonical_markdown_files_are_unchanged(self):
@@ -229,6 +246,14 @@ class MdBookEmphasisHtmlTest(unittest.TestCase):
         self.assertNotIn("<strong>引用代码。</strong>", html)
         self.assertIn("<strong>引用之后。</strong>正文", html)
         self.assertIn("<strong>原始块之后。</strong>正文", html)
+
+    def test_mixed_delimiters_keep_existing_html_without_crossing_emphasis(self):
+        html = self.literal_pages["mixed-emphasis-boundaries"]
+        self.assertIn("<em>Schönbrunn</em>*,* sur le <em>Stadtbahn</em>*,*", html)
+        self.assertIn("<em>前段</em> <strong>后段。</strong>正文", html)
+        self.assertIn("<strong>列表段。</strong>正文", html)
+        self.assertNotIn("unclosed HTML tag", self.build_stderr)
+        self.assertNotIn("unexpected HTML end tag", self.build_stderr)
 
 
 if __name__ == "__main__":
