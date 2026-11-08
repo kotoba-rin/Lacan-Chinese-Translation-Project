@@ -2726,18 +2726,28 @@ var require_workspace_store = __commonJS({
       getMutable(id) {
         return this.conversations.get(String(id || ""));
       }
+      makeRoomForConversation() {
+        const requiredClosures = this.openConversationIds.length - this.maxOpenSessions + 1;
+        if (requiredClosures <= 0) {
+          return;
+        }
+        const idleIds = this.openConversationIds.filter((id) => !ACTIVE_STATUSES.has(this.requireConversation(id).status)).slice(0, requiredClosures);
+        if (idleIds.length < requiredClosures) {
+          throw workspaceError(
+            "OpenSessionLimit",
+            `同时打开的会话已达到上限 ${this.maxOpenSessions}，没有足够的空闲会话可自动关闭。请等待生成结束或先停止会话。`
+          );
+        }
+        for (const id of idleIds) {
+          this.close(id);
+        }
+      }
       createConversation({
         context,
         skillProfile = STANDARD_SKILL_PROFILE2,
         model = "",
         effort = ""
       } = {}) {
-        if (this.openConversationIds.length >= this.maxOpenSessions) {
-          throw workspaceError(
-            "OpenSessionLimit",
-            `同时打开的会话已达到上限 ${this.maxOpenSessions}。请先关闭一个空闲会话。`
-          );
-        }
         const reference = context?.reference;
         if (!reference?.translationPath || !reference?.primaryId) {
           throw new TypeError("createConversation requires a resolved segment context.");
@@ -2772,6 +2782,7 @@ var require_workspace_store = __commonJS({
           createdAt: now,
           updatedAt: now
         };
+        this.makeRoomForConversation();
         this.conversations.set(conversation.id, conversation);
         this.openConversationIds.push(conversation.id);
         this.activeConversationId = conversation.id;
@@ -2784,12 +2795,7 @@ var require_workspace_store = __commonJS({
       open(id, { activate = true } = {}) {
         const conversation = this.requireConversation(id);
         if (!conversation.isOpen) {
-          if (this.openConversationIds.length >= this.maxOpenSessions) {
-            throw workspaceError(
-              "OpenSessionLimit",
-              `同时打开的会话已达到上限 ${this.maxOpenSessions}。请先关闭一个空闲会话。`
-            );
-          }
+          this.makeRoomForConversation();
           conversation.isOpen = true;
           this.openConversationIds.push(conversation.id);
         }
@@ -9427,7 +9433,7 @@ var LacanTranslationHelperSettingTab = class extends PluginSettingTab {
       });
     });
     new Setting(containerEl).setName("会话上限").setDesc(
-      "允许同时打开和生成的会话数，范围 1–5。调低时不会关闭现有会话或停止任务。"
+      "允许同时打开和生成的会话数，范围 1–5。打开新会话达到上限时，自动关闭最左侧的空闲会话并保留历史；正在生成的会话会跳过。调低上限时不会立即关闭现有会话或停止任务。"
     ).addDropdown((dropdown) => {
       for (let value = 1; value <= 5; value += 1) {
         dropdown.addOption(String(value), `${value} 个`);

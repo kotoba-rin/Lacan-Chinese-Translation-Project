@@ -178,6 +178,8 @@ const run = async () => {
   });
   assert.deepStrictEqual(store.snapshot().openConversationIds, [first.id, second.id]);
   assert.strictEqual(store.snapshot().activeConversationId, second.id);
+  store.update(first.id, { status: "streaming" });
+  store.update(second.id, { status: "starting" });
   assert.throws(
     () => store.createConversation({
       context: makeContext("s8-01-0003"),
@@ -185,6 +187,8 @@ const run = async () => {
     }),
     (error) => error.code === "OpenSessionLimit"
   );
+  store.update(first.id, { status: "idle" });
+  store.update(second.id, { status: "idle" });
 
   store.updateDraft(first.id, "尚未发送的问题");
   store.updateScroll(first.id, {

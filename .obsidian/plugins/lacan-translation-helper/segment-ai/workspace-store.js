@@ -204,18 +204,31 @@ class InterpretationWorkspaceStore {
     return this.conversations.get(String(id || ""));
   }
 
+  makeRoomForConversation() {
+    const requiredClosures = this.openConversationIds.length - this.maxOpenSessions + 1;
+    if (requiredClosures <= 0) {
+      return;
+    }
+    const idleIds = this.openConversationIds.filter((id) => (
+      !ACTIVE_STATUSES.has(this.requireConversation(id).status)
+    )).slice(0, requiredClosures);
+    if (idleIds.length < requiredClosures) {
+      throw workspaceError(
+        "OpenSessionLimit",
+        `同时打开的会话已达到上限 ${this.maxOpenSessions}，没有足够的空闲会话可自动关闭。请等待生成结束或先停止会话。`
+      );
+    }
+    for (const id of idleIds) {
+      this.close(id);
+    }
+  }
+
   createConversation({
     context,
     skillProfile = STANDARD_SKILL_PROFILE,
     model = "",
     effort = "",
   } = {}) {
-    if (this.openConversationIds.length >= this.maxOpenSessions) {
-      throw workspaceError(
-        "OpenSessionLimit",
-        `同时打开的会话已达到上限 ${this.maxOpenSessions}。请先关闭一个空闲会话。`
-      );
-    }
     const reference = context?.reference;
     if (!reference?.translationPath || !reference?.primaryId) {
       throw new TypeError("createConversation requires a resolved segment context.");
@@ -252,6 +265,7 @@ class InterpretationWorkspaceStore {
       createdAt: now,
       updatedAt: now,
     };
+    this.makeRoomForConversation();
     this.conversations.set(conversation.id, conversation);
     this.openConversationIds.push(conversation.id);
     this.activeConversationId = conversation.id;
@@ -271,12 +285,7 @@ class InterpretationWorkspaceStore {
   open(id, { activate = true } = {}) {
     const conversation = this.requireConversation(id);
     if (!conversation.isOpen) {
-      if (this.openConversationIds.length >= this.maxOpenSessions) {
-        throw workspaceError(
-          "OpenSessionLimit",
-          `同时打开的会话已达到上限 ${this.maxOpenSessions}。请先关闭一个空闲会话。`
-        );
-      }
+      this.makeRoomForConversation();
       conversation.isOpen = true;
       this.openConversationIds.push(conversation.id);
     }

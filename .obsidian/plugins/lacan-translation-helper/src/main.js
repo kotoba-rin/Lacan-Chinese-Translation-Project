@@ -4599,7 +4599,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
     new Setting(containerEl)
       .setName("会话上限")
       .setDesc(
-        "允许同时打开和生成的会话数，范围 1–5。调低时不会关闭现有会话或停止任务。"
+        "允许同时打开和生成的会话数，范围 1–5。打开新会话达到上限时，自动关闭最左侧的空闲会话并保留历史；正在生成的会话会跳过。调低上限时不会立即关闭现有会话或停止任务。"
       )
       .addDropdown((dropdown) => {
         for (let value = 1; value <= 5; value += 1) {
