@@ -294,7 +294,7 @@ Telle est - comment FREUD introduit, pose devant nous - la fonction de la sublim
 
 <!-- id: s14-12-0073 -->
 
-### Vous verrez, dans le second de ces articles…
+Vous verrez, dans le second de ces articles…
 
 <!-- id: s14-12-0074 -->
 
