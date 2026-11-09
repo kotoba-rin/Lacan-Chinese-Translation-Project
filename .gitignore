@@ -10,13 +10,8 @@ pdf/
 reports/
 output/ebooks/
 
-# Obsidian: track only the translation helper source
-.obsidian/*
-!.obsidian/plugins/
-.obsidian/plugins/*
-!.obsidian/plugins/lacan-translation-helper/
-.obsidian/plugins/lacan-translation-helper/data.json
-.obsidian/plugins/lacan-translation-helper/node_modules/
+# Local Obsidian configuration and independently installed plugins
+.obsidian/
 
 # Local workspaces
 weread/

@@ -67,8 +67,6 @@ texts/
 知识库/             # 可复用的概念、人物、文本与拓扑知识卡
 scripts/
   build_from_texts.py
-.obsidian/plugins/lacan-translation-helper/
-plugin-doc/         # Obsidian 插件与分段 AI 的设计说明
 ```
 
 `scripts/build_from_texts.py` 会把 `texts/`、阅读笔记和知识卡整理成 mdBook 所需的 `build/`，随后由 mdBook 生成 `book/`。这两个目录都是构建产物，不应手工编辑或提交。
@@ -83,17 +81,36 @@ plugin-doc/         # Obsidian 插件与分段 AI 的设计说明
 
 ### Obsidian 插件
 
-仓库内置桌面端插件 `Lacan Translation Helper`，当前版本为 0.6.0。将仓库根目录作为 Obsidian Vault 打开，并在“第三方插件”中启用它，即可使用以下功能：
+将本仓库根目录作为 Obsidian Vault 打开，即可阅读和编辑文库。桌面端插件 `Lacan Translation Helper` 已迁至独立仓库 [LCTPlugin](https://github.com/kotoba-rin/LCTPlugin)，需要单独安装。
+
+先在 Obsidian 中打开文库，使其建立本地配置目录；再在文库之外的开发目录中克隆插件仓库并安装：
+
+```bash
+git clone https://github.com/kotoba-rin/LCTPlugin.git
+cd LCTPlugin
+npm ci
+npm run install:plugin -- /绝对路径/你的文库
+```
+
+命令中的文库路径指向本仓库根目录。安装完成后，在 Obsidian“第三方插件”中启用插件；已启用时，关闭再开启即可加载新构建。安装命令只复制插件运行文件，保留已有设置、会话记录和草稿。
+
+更新本仓库不会更新插件。后续更新插件时，在独立插件仓库拉取最新代码，运行 `npm ci`，再执行上述安装命令。安装条件、开发与测试方式见 [LCTPlugin 项目说明](https://github.com/kotoba-rin/LCTPlugin#readme)，详细功能说明见[插件文档](https://github.com/kotoba-rin/LCTPlugin/tree/main/docs)。
+
+插件提供以下功能：
 
 - 创建和补全译文骨架，并根据 `<!-- untranslated -->` 更新翻译进度。
 - 在 Obsidian Bases 中按研讨班和课次浏览原文、译文与完成状态。
 - 同步主仓库，并添加多个 fork 作为逐段对照版本。
 - 在 Reader / Editer 模式之间切换：Reader 用主仓库内容对齐本地项目，Editer 保留当前编辑文件，只更新对照版本。
-- 通过本机 Codex App Server 对选定分段进行只读解读；支持流式输出、多会话、Skill 方案和继续追问。
+- 通过本机 Codex App Server 对选定分段进行只读解读；支持流式输出、多会话和继续追问；Skills 自动从当前项目和所配置 Agent 的安装目录发现，由 Agent 按任务选用。
+- 在原文分段 ID 旁点击“Φ”进行原文解析：直接翻译原文，并显示按 ID 读取的项目现有译文及注释、建言；需要深入讨论时可继续追问。详见[原文解析说明](https://github.com/kotoba-rin/LCTPlugin/blob/main/docs/original-analysis.md)。
+- 在阅读视图或双语阅读中双击中文译文、注释或建言，可就地编辑整段 Markdown，包括添加、修改和删除段后注释与建言；点击“保存”或按 `Cmd/Ctrl+Enter` 写回对应译文文件，按 `Esc` 取消。多个 ID 合并的译文作为一个整体编辑，保留分段 ID、课后脚注和阅读笔记链接；同段正文、注释或建言发生并发修改时会提示冲突并保留输入。
+- 段落编辑框支持直接粘贴剪贴板图片：按 Obsidian 的附件目录与链接格式设置保存图片，在光标或选区处插入图片引用，保存译文后即可显示。图片附件在粘贴时创建，取消段落编辑不会删除附件。
+- PDF 阅读：通过左侧书本按钮或命令「打开 PDF 阅读」搜索仓库内的 PDF，使用内置阅读器翻页、缩放和搜索；PDF 文字选区支持法语查词、翻译、朗读与欧路收藏。详见 [PDF 阅读说明](https://github.com/kotoba-rin/LCTPlugin/blob/main/docs/pdf-reading.md)。
 
 Reader 同步会覆盖当前项目内容。如需保留本地修改，请使用 Editer 模式、提交到自己的 fork，或先自行备份。插件同步依赖本机 Git CLI，且目前仅支持 Obsidian 桌面端。
 
-分段 AI 默认在只读沙箱中运行，Apps、Plugins 和 MCP 默认关闭；它不会直接修改原文、译文、术语表或阅读笔记。“本地 Agent”表示进程和文件权限控制在本机，并不表示模型推理一定在本地完成。详细边界见[分段 AI 解读架构设计](./plugin-doc/segment-ai-interpretation-architecture.md)和[多会话与 Skill 升级设计](./plugin-doc/segment-ai-multi-session-architecture.md)。
+分段 AI 默认在只读沙箱中运行，Apps、Plugins 和 MCP 默认关闭；它不会直接修改原文、译文、术语表或阅读笔记。“本地 Agent”表示进程和文件权限控制在本机，并不表示模型推理一定在本地完成。详细边界见[分段 AI 解读架构设计](https://github.com/kotoba-rin/LCTPlugin/blob/main/docs/segment-ai-interpretation-architecture.md)和[Skills 自动发现说明](https://github.com/kotoba-rin/LCTPlugin/blob/main/docs/segment-ai-skills.md)。
 
 ## 分段、笔记与知识卡
 
@@ -138,15 +155,7 @@ mdbook build
 mdbook serve --open
 ```
 
-修改 Obsidian 插件源码后，在插件目录验证构建产物：
-
-```bash
-cd .obsidian/plugins/lacan-translation-helper
-npm install
-npm run build:check
-```
-
-插件源码入口是 `src/main.js`，Obsidian 实际加载的是构建后的 `main.js`。更完整的目录规范、翻译格式、分支流程和提交约定见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+Obsidian 插件的源码开发、构建和测试均在独立的 [LCTPlugin 仓库](https://github.com/kotoba-rin/LCTPlugin#开发与验证)进行。本仓库的目录规范、翻译格式、分支流程和提交约定见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
 
 ## 参与项目
 
