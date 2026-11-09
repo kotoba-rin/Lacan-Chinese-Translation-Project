@@ -13,9 +13,6 @@
 - 预约精神分析工作可以添加 分析师工作微信：Yanlin_Char
 - 分析师bilibili账号 **言林_Char**
 - 翻译项目交流qq群：700300644
-<p align="center">
-  <img src="texts/assets/qq-group-700300644.png" alt="QQ 交流群 700300644 二维码" width="640">
-</p>
 
 ## 项目现状
 
