@@ -112,6 +112,27 @@ Reader 同步会覆盖当前项目内容。如需保留本地修改，请使用 
 
 分段 AI 默认在只读沙箱中运行，Apps、Plugins 和 MCP 默认关闭；它不会直接修改原文、译文、术语表或阅读笔记。“本地 Agent”表示进程和文件权限控制在本机，并不表示模型推理一定在本地完成。详细边界见[分段 AI 解读架构设计](https://github.com/kotoba-rin/LCTPlugin/blob/main/docs/segment-ai-interpretation-architecture.md)和[Skills 自动发现说明](https://github.com/kotoba-rin/LCTPlugin/blob/main/docs/segment-ai-skills.md)。
 
+#### 软链接开发（macOS / Linux）
+
+开发插件时，可以让文库中的 `.obsidian/plugins/lacan-translation-helper` 软链接到独立的 `LCTPlugin` 仓库。这样修改源码、构建和 Obsidian 加载都使用同一目录。
+
+先在独立仓库运行 `npm ci` 和 `npm run build`，并在 Obsidian 中停用插件。若文库已有插件目录，将整个目录移到 `.obsidian/plugins/` 之外备份，再把其中的 `data.json` 复制到独立仓库根目录，以保留设置、会话和草稿；如果独立仓库已有 `data.json`，也先备份它。随后填写下面的两个绝对路径，创建软链接：
+
+```bash
+plugin_repo="/绝对路径/LCTPlugin"
+vault_dir="/绝对路径/你的文库"
+plugin_dir="$vault_dir/.obsidian/plugins/lacan-translation-helper"
+
+if [ -f "$plugin_repo/main.js" ] && [ -f "$plugin_repo/manifest.json" ] \
+  && [ ! -e "$plugin_dir" ] && [ ! -L "$plugin_dir" ]; then
+  mkdir -p "$vault_dir/.obsidian/plugins" && ln -s "$plugin_repo" "$plugin_dir"
+else
+  printf '请确认插件已构建，且目标路径不存在；已有目录或软链接请先检查。\n'
+fi
+```
+
+回到 Obsidian 启用插件。此后在独立仓库修改源码并运行 `npm run build`，再关闭、重新启用插件，即可加载新构建，无需重复复制安装。源码继续由独立仓库的 Git 管理；`data.json` 被独立仓库忽略，文库中的 `.obsidian/` 也不进入主仓库。多个文库若链接到同一个插件目录，会共享这份设置、会话和草稿。
+
 ## 分段、笔记与知识卡
 
 每个原文分段都有稳定 ID，例如 `s8-01-0001`。原文与译文通过同一个 ID 对齐，评论、校订、Issue 和 Pull Request 也应尽量使用该 ID 指明讨论对象。维护文本时不要随意改动已有 ID。
