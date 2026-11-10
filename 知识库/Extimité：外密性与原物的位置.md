@@ -1,5 +1,9 @@
 ---
 title: Extimité：外密性与原物的位置
+aliases:
+  - "extimité"
+  - "extimite"
+  - "外密性"
 type: knowledge-card
 verification: 已核实
 tags:

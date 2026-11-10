@@ -1,5 +1,10 @@
 ---
 title: Hainamoration：恨与爱恋的合写造词
+aliases:
+  - "hainamoration"
+  - "恨—恋"
+  - "恨-恋"
+  - "恨爱崇敬"
 type: knowledge-card
 verification: 已核实
 tags:

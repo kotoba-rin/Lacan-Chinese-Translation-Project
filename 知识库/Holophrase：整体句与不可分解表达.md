@@ -1,5 +1,8 @@
 ---
 title: Holophrase：整体句与不可分解表达
+aliases:
+  - "Holophrase"
+  - "整体句"
 type: knowledge-card
 verification: 已核实
 tags:

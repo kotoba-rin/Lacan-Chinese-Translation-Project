@@ -1,5 +1,10 @@
 ---
 title: Agape：希腊语义与基督教神爱
+aliases:
+  - "agape"
+  - "agápē"
+  - "agapè"
+  - "ἀγάπη"
 type: knowledge-card
 verification: 部分准确
 tags:

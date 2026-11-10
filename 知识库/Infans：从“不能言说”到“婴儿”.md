@@ -1,5 +1,8 @@
 ---
 title: Infans：从“不能言说”到“婴儿”
+aliases:
+  - "infans"
+  - "īnfāns"
 type: knowledge-card
 verification: 已核实
 tags:

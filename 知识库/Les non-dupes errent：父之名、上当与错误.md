@@ -1,5 +1,8 @@
 ---
 title: Les non-dupes errent：父之名、上当与错误
+aliases:
+  - "Les non-dupes errent"
+  - "Les non dupes errent"
 type: knowledge-card
 verification: 已核实
 tags:

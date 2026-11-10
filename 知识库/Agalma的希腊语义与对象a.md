@@ -1,5 +1,10 @@
 ---
 title: Agalma 的希腊语义与对象 a
+aliases:
+  - "agalma"
+  - "ἄγαλμα"
+  - "阿伽尔玛"
+  - "agalmata"
 type: knowledge-card
 verification: 部分准确
 tags:

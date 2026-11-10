@@ -1,5 +1,9 @@
 ---
 title: Hilflosigkeit：原初无助与绝对无所依凭
+aliases:
+  - "Hilflosigkeit"
+  - "原初无助"
+  - "无依"
 type: knowledge-card
 verification: 已核实
 tags:
