@@ -1,9 +1,9 @@
 {
-  "removed_blocks": 829,
-  "scanned_files": 1728,
+  "removed_blocks": 818,
+  "scanned_files": 1729,
   "schema_version": 1,
   "source_branch": "main",
-  "source_revision": "f7c27a1eaac05dc6dd1105776127684832ee000b",
+  "source_revision": "3ba3efbe5d95155763acc6b658d2133077872982",
   "transform": "remove-commentary-v1",
   "transformed_files": 57
 }
