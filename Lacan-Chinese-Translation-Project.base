@@ -58,7 +58,7 @@ properties:
     displayName: 原文最近修改
 views:
   - type: lacan-lesson-list
-    name: reader
+    name: 文本清单
     groupBy:
       property: formula.seminarGroup
       direction: ASC
@@ -68,25 +68,3 @@ views:
         direction: ASC
       - property: formula.lessonNumber
         direction: ASC
-    limit: 700
-    mode: reader
-  - type: lacan-lesson-list
-    name: editer
-    groupBy:
-      property: formula.seminarGroup
-      direction: ASC
-    order:
-      - formula.lessonTitle
-      - formula.original
-      - formula.translation
-      - formula.notes
-      - formula.translationProgressLabel
-      - formula.untranslatedCount
-      - formula.maxSegmentId
-    sort:
-      - property: formula.seminarOrder
-        direction: ASC
-      - property: formula.lessonNumber
-        direction: ASC
-    limit: 700
-    mode: editer

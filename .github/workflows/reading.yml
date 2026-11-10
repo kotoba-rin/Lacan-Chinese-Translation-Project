@@ -1,0 +1,39 @@
+name: Publish reading branch
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: publish-reading-branch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reading:
+    name: Derive reading edition
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout canonical main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Test commentary boundaries and branch publication
+        run: python3 -m unittest discover -s tests -p test_publish_reading_branch.py
+      - name: Set publication identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Publish verified reading tree
+        run: >-
+          python3 scripts/publish_reading_branch.py publish
+          --source-root .
+          --source-revision HEAD
+          --target-branch reading
+          --remote origin
+          --push
