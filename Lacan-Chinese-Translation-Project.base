@@ -68,3 +68,5 @@ views:
         direction: ASC
       - property: formula.lessonNumber
         direction: ASC
+  - type: lacan-knowledge-list
+    name: 知识库
