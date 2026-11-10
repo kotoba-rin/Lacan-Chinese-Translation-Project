@@ -382,9 +382,9 @@ Le temps ne me permet pas - d’aucune façon même - d’aborder ce qui nous pe
 
 <!-- id: s8-20-0095 -->
 
-> ou si simplement je remarque qu’il n’est pas possible de ne pas faire état d’une construction semblable dans,
->
-> je ne dirai pas le siècle, dans la décade de la mise au jour de notre pensée sur le *complexe d’Œdipe* ...comprenez pourquoi je l’amène ici et ce qui, avec la solution que je pense que je vais y apporter , justifie que je la soutienne si longtemps, d’une façon si détaillée, devant votre attention : le père.
+ou si simplement je remarque qu’il n’est pas possible de ne pas faire état d’une construction semblable dans,
+
+je ne dirai pas le siècle, dans la décade de la mise au jour de notre pensée sur le *complexe d’Œdipe* ...comprenez pourquoi je l’amène ici et ce qui, avec la solution que je pense que je vais y apporter , justifie que je la soutienne si longtemps, d’une façon si détaillée, devant votre attention : le père.
 
 <!-- id: s8-20-0096 -->
 

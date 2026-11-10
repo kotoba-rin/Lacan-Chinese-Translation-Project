@@ -46,7 +46,7 @@ Mais il se trouve que je dois supposer que malgré l’évidente nécessité du 
 
 <!-- id: s12-01-0011 -->
 
-> peut vouloir dire « *dormir* », à condition de mettre *<u>to</u>* devant \[to sleep\], et peut vouloir dire « *dorment* », à la troisième personne du pluriel de l’indicatif présent. Vous verrez pourquoi c’est le sens auquel nous nous arrêterons.
+peut vouloir dire « *dormir* », à condition de mettre *<u>to</u>* devant \[to sleep\], et peut vouloir dire « *dorment* », à la troisième personne du pluriel de l’indicatif présent. Vous verrez pourquoi c’est le sens auquel nous nous arrêterons.
 
 <!-- id: s12-01-0012 -->
 
@@ -138,9 +138,13 @@ Il me gène un peu en raison du fait qu’il n’est point en français, mais au
 
 <!-- id: s12-01-0034 -->
 
-> « *Notre Père qui êtes aux cieux, restez-y !* »
->
-> « *Y restez cieux aux êtes qui père notre.* »
+<div class="text-quotation">
+
+« *Notre Père qui êtes aux cieux, restez-y !* »
+
+« *Y restez cieux aux êtes qui père notre.* »
+
+</div>
 
 <!-- id: s12-01-0035 -->
 
@@ -168,9 +172,9 @@ Assurément, *la signification s’éteint tout à fait là où il n’y a pas g
 
 <!-- id: s12-01-0041 -->
 
-> ressentie, assumée par le sujet, le sujet interrogé, qui là est appelé en juge à la place, au lieu de l’Autre,
->
-> pour réintroduire un terme introduit dans notre exposé de l’année dernière, en référence[^4]. …*là où il y a construction grammaticale, peut-on dire qu’il n’y a pas de signification* ?
+ressentie, assumée par le sujet, le sujet interrogé, qui là est appelé en juge à la place, au lieu de l’Autre,
+
+pour réintroduire un terme introduit dans notre exposé de l’année dernière, en référence[^4]. …*là où il y a construction grammaticale, peut-on dire qu’il n’y a pas de signification* ?
 
 <!-- id: s12-01-0042 -->
 
@@ -228,7 +232,11 @@ En anglais le vrai *épamphithète*, c’est là qu’il est permis de mettre l�
 
 <!-- id: s12-01-0055 -->
 
-> « *Un de belle apparence et pourvu d’une belle barbe vieil homme.* »
+<div class="text-quotation">
+
+« *Un de belle apparence et pourvu d’une belle barbe vieil homme.* »
+
+</div>
 
 <!-- id: s12-01-0056 -->
 
@@ -236,7 +244,7 @@ C’est parce que *vieil* est plus près de *homme* que le fait qu’il ait une 
 
 <!-- id: s12-01-0057 -->
 
-> naturellement c’est les notes qu’on prend qu’on ne retrouve jamais au bon moment …nous apprend assez, que par exemple, Lady TEAZLE proteste contre le fait qu’on la torture à propos de ces *elegant expenses*, de ces « *dépenses élégantes* », ceci est fait pour nous faire remarquer que le rapport de *l’adjectif* et du *substantif* dans l’usage parlé, quand il s’agit justement de *l’épicathathète*, n’est peut-être pas à prendre en anglais comme en français et que vous ne pouvez pas traduire « *elegant expenses »* par « *dépenses élégantes »,* mais en inversant strictement leur rapport, en disant des « *Élégances coûteuses* ».
+naturellement c’est les notes qu’on prend qu’on ne retrouve jamais au bon moment …nous apprend assez, que par exemple, Lady TEAZLE proteste contre le fait qu’on la torture à propos de ces *elegant expenses*, de ces « *dépenses élégantes* », ceci est fait pour nous faire remarquer que le rapport de *l’adjectif* et du *substantif* dans l’usage parlé, quand il s’agit justement de *l’épicathathète*, n’est peut-être pas à prendre en anglais comme en français et que vous ne pouvez pas traduire « *elegant expenses »* par « *dépenses élégantes »,* mais en inversant strictement leur rapport, en disant des « *Élégances coûteuses* ».
 
 <!-- id: s12-01-0058 -->
 
@@ -268,7 +276,7 @@ Qu’est-ce que l’inconscient si ce n’est justement des idées, des pensées
 
 <!-- id: s12-01-0065 -->
 
-> FREUD[^9] ne nous dit-il pas quelque part comment « *les ombres de l’évocation aux enfers parvenant au jour, demandent à boire du sang pour retrouver leurs couleurs ? »* \[*Um mich eines Gleichnisses zu bedienen: es gibt für sie keine andere Art der Vernichtung als für die Schatten der odysseischen Unterwelt, die zum neuen Leben erwachen, sobald sie Blut getrunken haben.* (*Traumdeutung,* Ch. 7c, note 1)\] ...si ce ne sont pas des pensées de l’inconscient dont il s’agit, qui ici dorment furieusement ?
+FREUD[^9] ne nous dit-il pas quelque part comment « *les ombres de l’évocation aux enfers parvenant au jour, demandent à boire du sang pour retrouver leurs couleurs ? »* \[*Um mich eines Gleichnisses zu bedienen: es gibt für sie keine andere Art der Vernichtung als für die Schatten der odysseischen Unterwelt, die zum neuen Leben erwachen, sobald sie Blut getrunken haben.* (*Traumdeutung,* Ch. 7c, note 1)\] ...si ce ne sont pas des pensées de l’inconscient dont il s’agit, qui ici dorment furieusement ?
 
 <!-- id: s12-01-0066 -->
 
@@ -280,7 +288,7 @@ Car, si en raison du fait que je suis devant cet auditoire, j’ai pu lui donner
 
 <!-- id: s12-01-0068 -->
 
-> et on peut faire varier à l’infini les conditions d’entourage, de situation, mais bien plus encore les situations de dialogues …je peux faire dire à cette phrase tout ce que je veux, y compris, par exemple, à telle occasion, que je me moque de vous.
+et on peut faire varier à l’infini les conditions d’entourage, de situation, mais bien plus encore les situations de dialogues …je peux faire dire à cette phrase tout ce que je veux, y compris, par exemple, à telle occasion, que je me moque de vous.
 
 <!-- id: s12-01-0069 -->
 
@@ -404,7 +412,7 @@ J’ai parlé des concepts qui me paraissent essentiels à structurer son expér
 
 <!-- id: s12-01-0099 -->
 
-> sans rendre insaisissable le point même où se qualifie cette répétition.
+sans rendre insaisissable le point même où se qualifie cette répétition.
 
 <!-- id: s12-01-0100 -->
 
@@ -412,9 +420,9 @@ DANTE…
 
 <!-- id: s12-01-0101 -->
 
-> après d’autres, avant d’autres, avant beaucoup d’autres encore, introduisant dans [*De vulgari eloquentia*](http://gallica.bnf.fr/ark:/12148/bpt6k843263.capture)
->
-> dont nous aurons à parler cette année, les questions les plus profondes de la linguistique …dit que toute science - et c’est d’une science qu’il s’agit pour lui - doit pouvoir déclarer ce qu’il faut traduire par « *son objet* », et nous sommes tous d’accord.
+après d’autres, avant d’autres, avant beaucoup d’autres encore, introduisant dans [*De vulgari eloquentia*](http://gallica.bnf.fr/ark:/12148/bpt6k843263.capture)
+
+dont nous aurons à parler cette année, les questions les plus profondes de la linguistique …dit que toute science - et c’est d’une science qu’il s’agit pour lui - doit pouvoir déclarer ce qu’il faut traduire par « *son objet* », et nous sommes tous d’accord.
 
 <!-- id: s12-01-0102 -->
 
@@ -450,7 +458,7 @@ Comment se fait-il qu’encore tout récemment, dans une réunion de mes élève
 
 <!-- id: s12-01-0110 -->
 
-> *d’ailleurs je ne me souviens plus lequel, et après tout je le sais bien, il n’était pas le seul à le dire* …que la notion de signifiant pour LACAN - ceci encore : à lui, dans son esprit - lui laisse quelque incertitude.
+*d’ailleurs je ne me souviens plus lequel, et après tout je le sais bien, il n’était pas le seul à le dire* …que la notion de signifiant pour LACAN - ceci encore : à lui, dans son esprit - lui laisse quelque incertitude.
 
 <!-- id: s12-01-0111 -->
 
@@ -474,7 +482,7 @@ Aussi bien, des formulations moins confinantes à l’apologue, qui sont celles-
 
 <!-- id: s12-01-0116 -->
 
-> de quelque façon qu’il soit composé, et inclut-il en lui-même la division signifiant-signifié …*le signe c’est ce qui représente quelque chose pour quelqu’un*, c’est-à-dire qu’au niveau du signe, nous sommes au niveau de tout ce que vous voudrez, du psychologique, de la connaissance, que vous pourrez raffiner :
+de quelque façon qu’il soit composé, et inclut-il en lui-même la division signifiant-signifié …*le signe c’est ce qui représente quelque chose pour quelqu’un*, c’est-à-dire qu’au niveau du signe, nous sommes au niveau de tout ce que vous voudrez, du psychologique, de la connaissance, que vous pourrez raffiner :
 
 <!-- id: s12-01-0117 -->
 
@@ -576,7 +584,7 @@ Aux différents échelons de l’animalité, ces *structures* s’appellent : *l
 
 <!-- id: s12-01-0141 -->
 
-> même ça qu’on appelle à tort ou à raison, même en psychologie animale : l’intelligence …il faut bien en passer par cette structure. L’intelligence - je ne sais pourquoi on a fait là dessus *une erreur* - l’intelligence est bien, pour moi, comme pour tout le monde, non verbale.
+même ça qu’on appelle à tort ou à raison, même en psychologie animale : l’intelligence …il faut bien en passer par cette structure. L’intelligence - je ne sais pourquoi on a fait là dessus *une erreur* - l’intelligence est bien, pour moi, comme pour tout le monde, non verbale.
 
 <!-- id: s12-01-0142 -->
 
@@ -584,7 +592,7 @@ Ce que j’essaierai de vous montrer la prochaine fois pour critiquer PIAGET, c�
 
 <!-- id: s12-01-0143 -->
 
-> pour ne pas faire l’erreur de croire que l’évolution de l’enfant ça consiste selon une volonté prédéterminée par l’Éternel depuis toujours, à le rendre de plus en plus capable de dialoguer avec Monsieur PIAGET …c’est de poser la question, sinon de la résoudre : en quoi l’intelligence *comme préverbale* vient se nouer avec le langage *comme pré-intellectuel* ?
+pour ne pas faire l’erreur de croire que l’évolution de l’enfant ça consiste selon une volonté prédéterminée par l’Éternel depuis toujours, à le rendre de plus en plus capable de dialoguer avec Monsieur PIAGET …c’est de poser la question, sinon de la résoudre : en quoi l’intelligence *comme préverbale* vient se nouer avec le langage *comme pré-intellectuel* ?
 
 <!-- id: s12-01-0144 -->
 
@@ -592,7 +600,7 @@ Pour l’instant je note que pour concevoir *quoi que ce soit* à la significati
 
 <!-- id: s12-01-0145 -->
 
-> ce qui n’épuise rien et ne nous force pas à un échafaudage, ni à conserver le même indéfiniment …remarquer qu’il y a deux usages du signifiant par rapport au référent :
+ce qui n’épuise rien et ne nous force pas à un échafaudage, ni à conserver le même indéfiniment …remarquer qu’il y a deux usages du signifiant par rapport au référent :
 
 <!-- id: s12-01-0146 -->
 
@@ -640,7 +648,7 @@ C’est pour cela qu’après être passé par ce *sondage* de l’expérimentat
 
 <!-- id: s12-01-0157 -->
 
-> <img src="assets/image3.jpeg" style="width:1.98611in;height:2.42057in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S12b\Illustrations\55281638.jpg" />
+<img src="assets/image3.jpeg" style="width:1.98611in;height:2.42057in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S12b\Illustrations\55281638.jpg" />
 
 <!-- id: s12-01-0158 -->
 

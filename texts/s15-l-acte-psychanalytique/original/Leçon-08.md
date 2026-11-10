@@ -26,7 +26,7 @@ Je me contenterai donc, pour introduire notre discus­sion, d’essayer de repre
 
 <!-- id: s15-08-0006 -->
 
-> peu importe jusqu’où nous irons ou nous n’irons pas, nous verrons bien …sous forme de formules tout à fait brèves, ce qu’il a pu en être des articulations impor­tantes, et nous pourrons, après l’évocation ainsi faite par moi des pro­blèmes soulevés dans les divers séminaires, voir si nous avons ou n’avons pas là–dessus des éléments à engager dans une discussion.
+peu importe jusqu’où nous irons ou nous n’irons pas, nous verrons bien …sous forme de formules tout à fait brèves, ce qu’il a pu en être des articulations impor­tantes, et nous pourrons, après l’évocation ainsi faite par moi des pro­blèmes soulevés dans les divers séminaires, voir si nous avons ou n’avons pas là–dessus des éléments à engager dans une discussion.
 
 <!-- id: s15-08-0007 -->
 
@@ -90,7 +90,7 @@ Ou bien encore cette formule, toujours dans ce même registre : le sif­flet rep
 
 <!-- id: s15-08-0022 -->
 
-> si le signifiant est ce qui représente le sujet pour un autre signifiant …le sifflet, dit LACAN, représente PAVLOV pour un signifiant, ce signe de la sécrétion gastrique qui prend sa valeur d’être un effet de trom­perie.
+si le signifiant est ce qui représente le sujet pour un autre signifiant …le sifflet, dit LACAN, représente PAVLOV pour un signifiant, ce signe de la sécrétion gastrique qui prend sa valeur d’être un effet de trom­perie.
 
 <!-- id: s15-08-0023 -->
 
@@ -182,7 +182,7 @@ Voilà effectivement aussi une question qui concer­ne tout à fait notre propos
 
 <!-- id: s15-08-0045 -->
 
-> vous faites référence par exemple au texte de FREUD sur *L’analyse finie et infinie* *…*et vous évoquez le cas de ces patients qui parlent sans cesse et, dites-vous, n’agissent jamais.
+vous faites référence par exemple au texte de FREUD sur *L’analyse finie et infinie* *…*et vous évoquez le cas de ces patients qui parlent sans cesse et, dites-vous, n’agissent jamais.
 
 <!-- id: s15-08-0046 -->
 
@@ -278,7 +278,7 @@ Tandis que la mise en acte du sujet, elle, me paraît nous renvoyer à l’origi
 
 <!-- id: s15-08-0069 -->
 
-> et LACAN aussi puisqu’il nous a donné la notion d’acte comme la notion de pur commencement …que la notion d’acte renvoie le sujet à son origine, c’est-à-dire à ce lieu où il ne peut se réfléchir, où il est justement pur com­mencement, c’est-à-dire pur acte de pur sujet. Je pense que si c’est une condition suffisante que l’acte soit reconnu, ce n’est pas une condition nécessaire.
+et LACAN aussi puisqu’il nous a donné la notion d’acte comme la notion de pur commencement …que la notion d’acte renvoie le sujet à son origine, c’est-à-dire à ce lieu où il ne peut se réfléchir, où il est justement pur com­mencement, c’est-à-dire pur acte de pur sujet. Je pense que si c’est une condition suffisante que l’acte soit reconnu, ce n’est pas une condition nécessaire.
 
 <!-- id: s15-08-0070 -->
 
@@ -550,7 +550,7 @@ Pour qu’on comprenne bien le sens de ma question : j’ai peur que quelque cho
 
 <!-- id: s15-08-0137 -->
 
-> à savoir cette espèce de liaison du *désir* du sujet à ce qu’il pense être *la demande éventuelle de l’analyste* …ne rencontre là une structure réelle, l’analyste lacanien demandant effectivement quelque chose.
+à savoir cette espèce de liaison du *désir* du sujet à ce qu’il pense être *la demande éventuelle de l’analyste* …ne rencontre là une structure réelle, l’analyste lacanien demandant effectivement quelque chose.
 
 <!-- id: s15-08-0138 -->
 
@@ -570,7 +570,7 @@ Par exemple vous avez demandé précisément en quoi il lui semble que l’ensei
 
 <!-- id: s15-08-0142 -->
 
-> en tant que nous serions situés par le patient dans son illusion comme demandeurs …en quoi l’enseignement de LACAN nous amènerait à demander *l’objet(a)*, en quoi *l’objet(a)* serait l’objet réel de notre demande. Il me semble qu’il y a un certain franchissement dans ce que tu dis là-dessus.
+en tant que nous serions situés par le patient dans son illusion comme demandeurs …en quoi l’enseignement de LACAN nous amènerait à demander *l’objet(a)*, en quoi *l’objet(a)* serait l’objet réel de notre demande. Il me semble qu’il y a un certain franchissement dans ce que tu dis là-dessus.
 
 <!-- id: s15-08-0143 -->
 
@@ -662,7 +662,7 @@ Un autre point…
 
 <!-- id: s15-08-0165 -->
 
-> pour reprendre brièvement ce qui a été cette discussion entre TOSQUELLES et AUDOUARD …concerne le fait de savoir si l’acte implique ou non reconnaissance, voire enregistrement. Il me semble que deux choses là pourraient à la fois s’évoquer :
+pour reprendre brièvement ce qui a été cette discussion entre TOSQUELLES et AUDOUARD …concerne le fait de savoir si l’acte implique ou non reconnaissance, voire enregistrement. Il me semble que deux choses là pourraient à la fois s’évoquer :
 
 <!-- id: s15-08-0166 -->
 
@@ -678,7 +678,7 @@ Autrement dit une articulation là peut–être un peu délica­te, s’il falla
 
 <!-- id: s15-08-0169 -->
 
-> c’est en tout cas comme ça qu’il est essayé qu’il le soit spécifié …quelque chose qui marque le commencement, l’ouverture d’un nouveau champ.
+c’est en tout cas comme ça qu’il est essayé qu’il le soit spécifié …quelque chose qui marque le commencement, l’ouverture d’un nouveau champ.
 
 <!-- id: s15-08-0170 -->
 
@@ -690,7 +690,7 @@ Il me semble qu’il y a un mot qui devrait être introduit à ce moment là, vo
 
 <!-- id: s15-08-0172 -->
 
-> et ce qui le distingue des actions ou des autres actes, en parti­culier de l’acte médical …c’est que *l’acte psychanalytique* présentifie d’em­blée - et c’est cela qui fonde la cure - la dimension du *manque*.
+et ce qui le distingue des actions ou des autres actes, en parti­culier de l’acte médical …c’est que *l’acte psychanalytique* présentifie d’em­blée - et c’est cela qui fonde la cure - la dimension du *manque*.
 
 <!-- id: s15-08-0173 -->
 

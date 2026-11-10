@@ -5,8 +5,8 @@ verification: 部分准确
 tags:
   - 研讨班VIII
   - 研讨班XIXb
-  - 领域/哲学
-  - 领域/神学
+  - 领域/哲学/古代哲学
+  - 领域/宗教与神话/基督教与神学
   - 语言/拉丁语
 verified_at: 2026-07-28
 ---
@@ -25,6 +25,8 @@ verified_at: 2026-07-28
 - [Lewis and Short: passio](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=passio)（英文、拉丁文；拉丁语词典）
 
 ## 关联
+
+[[知识库/Ethos、Pathos与Logos：亚里士多德修辞学的三种说服方式.md|Ethos、Pathos 与 Logos：亚里士多德修辞学的三种说服方式]]
 
 [[texts/s8-le-transfert/translation/Leçon-16.md#s8-16-0039|s8-16-0039]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-01.md#s19b-01-0001|s19b-01-0001]]

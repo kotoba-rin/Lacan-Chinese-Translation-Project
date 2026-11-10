@@ -66,9 +66,9 @@ En 1929, III-IV, il s’agit de l’article de BERNFELD et FEITELBERG intitulé�
 
 <!-- id: s7-17-0016 -->
 
-> *Das Prinzip von LE CHATELIER und der Selbsterhaltungstrieb*. \[[Imago 1929, 3-4, pp.289-298](http://www.archive.org/details/Imago_1929_XV_Heft_3_4_k)\]
->
-> *Le principe de LE CHATELIER et les pulsions tendant à la conservation de soi-même*.
+*Das Prinzip von LE CHATELIER und der Selbsterhaltungstrieb*. \[[Imago 1929, 3-4, pp.289-298](http://www.archive.org/details/Imago_1929_XV_Heft_3_4_k)\]
+
+*Le principe de LE CHATELIER et les pulsions tendant à la conservation de soi-même*.
 
 <!-- id: s7-17-0017 -->
 
@@ -76,9 +76,9 @@ En 1930, des mêmes auteurs :
 
 <!-- id: s7-17-0018 -->
 
-> *Über psychische Energie, Libido und deren Meßbarkeit*. \[[Imago 1930, 1, pp.66-118](http://www.archive.org/details/Imago_1930_XVI_Heft_1_k)\]
->
-> *Sur l’énergie psychique, la libido et sa mensuralité*.
+*Über psychische Energie, Libido und deren Meßbarkeit*. \[[Imago 1930, 1, pp.66-118](http://www.archive.org/details/Imago_1930_XVI_Heft_1_k)\]
+
+*Sur l’énergie psychique, la libido et sa mensuralité*.
 
 <!-- id: s7-17-0019 -->
 
@@ -86,9 +86,9 @@ Et deux articles - dont je négligerai le premier - de 1932, des mêmes auteurs,
 
 <!-- id: s7-17-0020 -->
 
-> *Über die Temperaturdifferenz zwischen gehin und Körper*
->
-> *La différence de température entre le cerveau et le corps*.
+*Über die Temperaturdifferenz zwischen gehin und Körper*
+
+*La différence de température entre le cerveau et le corps*.
 
 <!-- id: s7-17-0021 -->
 
@@ -96,9 +96,9 @@ Je le négligerai parce qu’il n’a peut-être pas la rigueur des autres artic
 
 <!-- id: s7-17-0022 -->
 
-> *Der Entropiesatz und der Todestrieb*.
->
-> *Le principe de l’entropie et la pulsion de mort*, qui a été traduit en anglais dans l’*International Journal*.
+*Der Entropiesatz und der Todestrieb*.
+
+*Le principe de l’entropie et la pulsion de mort*, qui a été traduit en anglais dans l’*International Journal*.
 
 <!-- id: s7-17-0023 -->
 

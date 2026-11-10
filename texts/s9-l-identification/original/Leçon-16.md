@@ -66,11 +66,11 @@ Alors où est la limite impardonnable en cette affaire...
 
 <!-- id: s9-16-0016 -->
 
-> parce qu’enfin c’est bien de ça qu’il s’agit, c’est du style de ce qui peut se communiquer, dans un cer­tain
->
-> mode de communication que nous essayons de définir, celui qui me force à revenir sur l’angoisse ici,
->
-> non pas histoire de reprendre, ni de faire la leçon à ceux qui en ont parlé, non sans défaillance ...limite évidemment cherchée, à partir de laquelle on peut faire reproche aux congrès en général de leurs résultats.
+parce qu’enfin c’est bien de ça qu’il s’agit, c’est du style de ce qui peut se communiquer, dans un cer­tain
+
+mode de communication que nous essayons de définir, celui qui me force à revenir sur l’angoisse ici,
+
+non pas histoire de reprendre, ni de faire la leçon à ceux qui en ont parlé, non sans défaillance ...limite évidemment cherchée, à partir de laquelle on peut faire reproche aux congrès en général de leurs résultats.
 
 <!-- id: s9-16-0017 -->
 
@@ -118,7 +118,7 @@ C’est là référence qui ne devrait à aucun moment vous faire défaut :
 
 <!-- id: s9-16-0028 -->
 
-> cet Autre en tant qu’à la fois il se pose *être* et qu’*il n’est pas*, qu’il est à être, l’Autre ici, quand nous nous avançons vers le désir, nous voyons bien qu’en tant que son support *c’est le signifiant pur, le signifiant de la loi* …que l’Autre se présente ici comme métaphore de cette inter­diction : dire que l’Autre c’est *la loi* ou que c’est *la jouissance* *en tant qu’inter­dite*, c’est la même chose.
+cet Autre en tant qu’à la fois il se pose *être* et qu’*il n’est pas*, qu’il est à être, l’Autre ici, quand nous nous avançons vers le désir, nous voyons bien qu’en tant que son support *c’est le signifiant pur, le signifiant de la loi* …que l’Autre se présente ici comme métaphore de cette inter­diction : dire que l’Autre c’est *la loi* ou que c’est *la jouissance* *en tant qu’inter­dite*, c’est la même chose.
 
 <!-- id: s9-16-0029 -->
 

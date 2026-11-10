@@ -10,7 +10,7 @@ Voilà ! Je ne vais pas à donner de commentaires. Bon, comme la dernière fois
 
 <!-- id: s24-02-0002 -->
 
-> c’était ce que je voulais vous indiquer par là, mais c’était allusif ...qu’aucun résultat de la science n’est un progrès.
+c’était ce que je voulais vous indiquer par là, mais c’était allusif ...qu’aucun résultat de la science n’est un progrès.
 
 <!-- id: s24-02-0003 -->
 
@@ -22,7 +22,7 @@ La psychanalyse notamment n’est pas un progrès, puisque ce que je veux vous i
 
 <!-- id: s24-02-0005 -->
 
-> puisque malgré tout je reste près de ce sujet ...la psychanalyse notamment n’est pas un progrès, c’est un biais pratique pour mieux se sentir.
+puisque malgré tout je reste près de ce sujet ...la psychanalyse notamment n’est pas un progrès, c’est un biais pratique pour mieux se sentir.
 
 <!-- id: s24-02-0006 -->
 
@@ -150,9 +150,9 @@ Mais ce qui est manifeste, c’est qu’il ne fait que ça de valable, parce que
 
 <!-- id: s24-02-0037 -->
 
-> et rien d’autre : ce n’est pas une échelle de valeur,
->
-> l’échelle de valeur, comme je vous le rappelle, tourne en rond *...« valable » ne veut rien dire que ceci : que ça entraîne <u>la soumission de la valeur d’usage à la valeur d’échange</u>*.
+et rien d’autre : ce n’est pas une échelle de valeur,
+
+l’échelle de valeur, comme je vous le rappelle, tourne en rond *...« valable » ne veut rien dire que ceci : que ça entraîne <u>la soumission de la valeur d’usage à la valeur d’échange</u>*.
 
 <!-- id: s24-02-0038 -->
 
@@ -160,7 +160,7 @@ Ce qui est patent, c’est que la notion de *valeur* est inhérente à ce systè
 
 <!-- id: s24-02-0039 -->
 
-> on pourrait également dire le contraire \[*cf. « docte ignorance »*\] ...l’homme sait plus qu’il ne croit savoir.
+on pourrait également dire le contraire \[*cf. « docte ignorance »*\] ...l’homme sait plus qu’il ne croit savoir.
 
 <!-- id: s24-02-0040 -->
 
@@ -200,7 +200,7 @@ Tout cela parce que manifestement...
 
 <!-- id: s24-02-0049 -->
 
-> depuis le temps, on le saurait, si ce n’était pas si manifeste ...manifestement il n’y a pas de connaissance.
+depuis le temps, on le saurait, si ce n’était pas si manifeste ...manifestement il n’y a pas de connaissance.
 
 <!-- id: s24-02-0050 -->
 
@@ -240,7 +240,7 @@ Le vivant se considère lui-même comme une boule, mais avec le temps il s’est
 
 <!-- id: s24-02-0059 -->
 
-> je veux dire ce qu’on voit du corps vivant ...qu’il est organisé comme ce que j’ai appelé « *trique* » l’autre jour.
+je veux dire ce qu’on voit du corps vivant ...qu’il est organisé comme ce que j’ai appelé « *trique* » l’autre jour.
 
 <!-- id: s24-02-0060 -->
 
@@ -280,9 +280,9 @@ Alors ceci nous amène à considérer que l’*hystérique* dont chacun sait qu�
 
 <!-- id: s24-02-0069 -->
 
-> si je me permets ce glis­sement, il faut considérer en somme qu’elle n’est... je la féminise pour l’occasion, mais comme vous allez voir que je vais y mettre de l’autre côté mon poids,
->
-> ça me suffira largement à vous démontrer que je ne pense pas qu’il n’y ait des *hystériques* que féminines ...l<sup>’</sup>*hystorique* n’a en somme - pour la faire consister - qu’un inconscient, c’est « *la radicalement Autre ».*
+si je me permets ce glis­sement, il faut considérer en somme qu’elle n’est... je la féminise pour l’occasion, mais comme vous allez voir que je vais y mettre de l’autre côté mon poids,
+
+ça me suffira largement à vous démontrer que je ne pense pas qu’il n’y ait des *hystériques* que féminines ...l<sup>’</sup>*hystorique* n’a en somme - pour la faire consister - qu’un inconscient, c’est « *la radicalement Autre ».*
 
 <!-- id: s24-02-0070 -->
 
@@ -306,7 +306,7 @@ C’en est au point que...
 
 <!-- id: s24-02-0075 -->
 
-> enfin, je peux vous en témoigner ...c’en est au point que je pense l’*univers* *torique,* et que ça ne veut rien dire d’autre, c’est que je ne *consiste* qu<sup>’</sup>en *un inconscient* auquel, bien sûr, je pense nuit et jour, ce qui fait que *l’une-bévue* devient inexacte.
+enfin, je peux vous en témoigner ...c’en est au point que je pense l’*univers* *torique,* et que ça ne veut rien dire d’autre, c’est que je ne *consiste* qu<sup>’</sup>en *un inconscient* auquel, bien sûr, je pense nuit et jour, ce qui fait que *l’une-bévue* devient inexacte.
 
 <!-- id: s24-02-0076 -->
 
@@ -314,11 +314,11 @@ Je fais tellement peu de *bévues* que c’est la seule chose...
 
 <!-- id: s24-02-0077 -->
 
-> bien sûr, j’en fais de temps en temps, ça n’a que peu d’importance.
->
-> Il m’arrive de dire dans un restaurant : « *Mademoiselle en est réduit à ne manger que des écrevisses à la nage* »,
->
-> tant que nous en sommes là, à faire une erreur de genre, ça ne va pas loin ...en fin de compte, je suis *un hystérique parfait,* c’est-à-dire *sans symptôme,* sauf de temps en temps cette erreur de genre en question.
+bien sûr, j’en fais de temps en temps, ça n’a que peu d’importance.
+
+Il m’arrive de dire dans un restaurant : « *Mademoiselle en est réduit à ne manger que des écrevisses à la nage* »,
+
+tant que nous en sommes là, à faire une erreur de genre, ça ne va pas loin ...en fin de compte, je suis *un hystérique parfait,* c’est-à-dire *sans symptôme,* sauf de temps en temps cette erreur de genre en question.
 
 <!-- id: s24-02-0078 -->
 
@@ -350,11 +350,11 @@ La différence entre l’*hystérique* et moi...
 
 <!-- id: s24-02-0085 -->
 
-> et moi qui, en somme, à force d’avoir un incons­cient, l’unifie avec mon conscient ...la différence est ceci : c’est qu’en somme *l’hystérique est soutenue*...
+et moi qui, en somme, à force d’avoir un incons­cient, l’unifie avec mon conscient ...la différence est ceci : c’est qu’en somme *l’hystérique est soutenue*...
 
 <!-- id: s24-02-0086 -->
 
-> *dans sa forme de trique* ...*est soutenue par une armature*.
+*dans sa forme de trique* ...*est soutenue par une armature*.
 
 <!-- id: s24-02-0087 -->
 
@@ -402,7 +402,7 @@ il peut y avoir *quelque chose d’autre* qui fasse *chaîne,* et qu’il est qu
 
 <!-- id: s24-02-0098 -->
 
-> appelons-le comme ça ...qu’on puisse le schématiser par *une trique*.
+appelons-le comme ça ...qu’on puisse le schématiser par *une trique*.
 
 <!-- id: s24-02-0099 -->
 
@@ -474,7 +474,7 @@ Et ce qu’il faut remarquer c’est ceci : c’est qu’elle se dédouble de l
 
 <!-- id: s24-02-0116 -->
 
-> c’est bien malheu­reux que je n’aie pas pris mes précautions ...voici la *bande de Mœbius* telle qu’elle se redouble, telle qu’elle se redouble et qu’elle se montre compatible avec un tore.
+c’est bien malheu­reux que je n’aie pas pris mes précautions ...voici la *bande de Mœbius* telle qu’elle se redouble, telle qu’elle se redouble et qu’elle se montre compatible avec un tore.
 
 <!-- id: s24-02-0117 -->
 
@@ -510,7 +510,7 @@ C’est en quoi c’est la découverte...
 
 <!-- id: s24-02-0125 -->
 
-> découverte qui s’est faite par hasard ...non pas que Freud ne s’y soit pas acharné, mais il n’en a pas dit le dernier mot.
+découverte qui s’est faite par hasard ...non pas que Freud ne s’y soit pas acharné, mais il n’en a pas dit le dernier mot.
 
 <!-- id: s24-02-0126 -->
 
@@ -522,11 +522,11 @@ Il croyait, comme l’implique toute notion de « *la psyché* », qu’il y a
 
 <!-- id: s24-02-0128 -->
 
-> que j’ai tout à l’heure écarté en disant : « *une boule et une autre boule autour de la première »*, celle-ci étant au milieu ...il a cru qu’il y avait *une vigilance*...
+que j’ai tout à l’heure écarté en disant : « *une boule et une autre boule autour de la première »*, celle-ci étant au milieu ...il a cru qu’il y avait *une vigilance*...
 
 <!-- id: s24-02-0129 -->
 
-> une *vigilance* qu’il appelait « *la psyché* » ...*une vigilance qui reflétait point par point le cosmos*.
+une *vigilance* qu’il appelait « *la psyché* » ...*une vigilance qui reflétait point par point le cosmos*.
 
 <!-- id: s24-02-0130 -->
 
@@ -542,7 +542,7 @@ Que l’être vivant, tout être vivant, se dénomme comme *trique*, c’est ce 
 
 <!-- id: s24-02-0133 -->
 
-> d’ailleurs anatomiques grossières ...se sont vues toujours confirmer.
+d’ailleurs anatomiques grossières ...se sont vues toujours confirmer.
 
 <!-- id: s24-02-0134 -->
 
@@ -614,7 +614,7 @@ J’en avais distingué deux modes, à savoir :
 
 <!-- id: s24-02-0151 -->
 
-> Demande *désir*
+Demande *désir*
 
 <!-- id: s24-02-0152 -->
 
@@ -662,7 +662,7 @@ Parce que si nous supposons qu’il y a 3 tores...
 
 <!-- id: s24-02-0163 -->
 
-> pour appeler les choses par leurs noms ...qu’il y a trois tores qui sont nommément, le *Réel*, l’*Imaginaire* et le *Symbolique* , qu’est-ce que nous allons voir à retourner si je puis dire, le *Symbolique* ?
+pour appeler les choses par leurs noms ...qu’il y a trois tores qui sont nommément, le *Réel*, l’*Imaginaire* et le *Symbolique* , qu’est-ce que nous allons voir à retourner si je puis dire, le *Symbolique* ?
 
 <!-- id: s24-02-0164 -->
 
@@ -678,7 +678,7 @@ et que le *Symbolique,* vu du dehors comme tore, se trouvera...
 
 <!-- id: s24-02-0167 -->
 
-> par rapport à l’*Imaginaire* et au *Réel* ...se trouvera devoir passer dessus celui qui est dessus \[*sur le rouge*\], et dessous celui qui est dessous \[*sous le bleu*\].
+par rapport à l’*Imaginaire* et au *Réel* ...se trouvera devoir passer dessus celui qui est dessus \[*sur le rouge*\], et dessous celui qui est dessous \[*sous le bleu*\].
 
 <!-- id: s24-02-0168 -->
 
@@ -690,11 +690,11 @@ Le *Symbolique* retourné ainsi...
 
 <!-- id: s24-02-0170 -->
 
-> voilà ce que donnera le *Symbolique* ...retourné ainsi il donnera une disposition complètement différente de ce que j’ai appelé *le nœud borroméen*, à savoir que le*Symbolique* enveloppera totalement...
+voilà ce que donnera le *Symbolique* ...retourné ainsi il donnera une disposition complètement différente de ce que j’ai appelé *le nœud borroméen*, à savoir que le*Symbolique* enveloppera totalement...
 
 <!-- id: s24-02-0171 -->
 
-> à en retourner le *tore* *symbolique...*enveloppera totalement l’*Imaginaire* et le *Réel  *:
+à en retourner le *tore* *symbolique...*enveloppera totalement l’*Imaginaire* et le *Réel  *:
 
 <!-- id: s24-02-0172 -->
 
@@ -750,7 +750,7 @@ Il est pourtant un fait, c’est qu’apparemment...
 
 <!-- id: s24-02-0185 -->
 
-> et je peux le confirmer, réellement ...le fait d’avoir franchi une psychanalyse, est quelque chose qui ne saurait être en aucun cas ramené a l’état antérieur, sauf bien entendu à pratiquer une autre coupure, celle qui serait équivalente à une « *contre-psychanalyse* ».
+et je peux le confirmer, réellement ...le fait d’avoir franchi une psychanalyse, est quelque chose qui ne saurait être en aucun cas ramené a l’état antérieur, sauf bien entendu à pratiquer une autre coupure, celle qui serait équivalente à une « *contre-psychanalyse* ».
 
 <!-- id: s24-02-0186 -->
 

@@ -38,13 +38,13 @@ En fin de compte, l’idée que je me fais de cette fonction de *l’écrit*...
 
 <!-- id: s19-02-0009 -->
 
-> qui comme ça, grâce à quelques petits malins, est à l’ordre du jour et sur quoi enfin
->
-> je n’ai peut-être pas trop voulu prendre parti, mais on me force la main. Pourquoi pas ? ...l’idée que je m’en fais en somme...
+qui comme ça, grâce à quelques petits malins, est à l’ordre du jour et sur quoi enfin
+
+je n’ai peut-être pas trop voulu prendre parti, mais on me force la main. Pourquoi pas ? ...l’idée que je m’en fais en somme...
 
 <!-- id: s19-02-0010 -->
 
-> et c’est ça qui peut-être dans certains cas a prêté à confusion ...je vais le dire comme ça, tout cru, tout massif, parce que aujourd’hui justement je me suis dit que *l’écrit* ça peut être très utile pour que je trouve quelque chose.
+et c’est ça qui peut-être dans certains cas a prêté à confusion ...je vais le dire comme ça, tout cru, tout massif, parce que aujourd’hui justement je me suis dit que *l’écrit* ça peut être très utile pour que je trouve quelque chose.
 
 <!-- id: s19-02-0011 -->
 
@@ -80,7 +80,7 @@ L’idée que je me fais de l’écrit...
 
 <!-- id: s19-02-0019 -->
 
-> pour le situer, pour partir de là, on pourrait discuter après, bon enfin disons-le ...c’est le retour du refoulé.
+pour le situer, pour partir de là, on pourrait discuter après, bon enfin disons-le ...c’est le retour du refoulé.
 
 <!-- id: s19-02-0020 -->
 
@@ -88,7 +88,7 @@ Je veux dire que c’est sous cette forme...
 
 <!-- id: s19-02-0021 -->
 
-> et c’est ça qui peut-être a pu prêter à confusion dans certains de mes « *Écrits »* précisément ...c’est que si j’ai pu parfois paraître prêter à ce qu’on croie que j’identifie *le signifiant* et *la lettre*, c’est justement parce que
+et c’est ça qui peut-être a pu prêter à confusion dans certains de mes « *Écrits »* précisément ...c’est que si j’ai pu parfois paraître prêter à ce qu’on croie que j’identifie *le signifiant* et *la lettre*, c’est justement parce que
 
 <!-- id: s19-02-0022 -->
 
@@ -104,7 +104,7 @@ Alors que je l’image dans « *L’instance de la Lettre*... », enfin avec u
 
 <!-- id: s19-02-0025 -->
 
-> il s’agit d’Aristote et des « *Analytiques »* ...ben *on se sert de la lettre aussi*, *pas tout à fait de la même façon que celle dont* *la lettre revient à la place du signifiant qui fait retour.*
+il s’agit d’Aristote et des « *Analytiques »* ...ben *on se sert de la lettre aussi*, *pas tout à fait de la même façon que celle dont* *la lettre revient à la place du signifiant qui fait retour.*
 
 <!-- id: s19-02-0026 -->
 
@@ -144,9 +144,9 @@ En attendant, ma difficulté...
 
 <!-- id: s19-02-0035 -->
 
-> celle en somme où malgré tout je tiens,
->
-> je ne sais pas si ça vient de moi ou si c’est pas plutôt par votre concours ...ma difficulté c’est que *mon mathème à moi*, vu le champ du discours que j’ai à établir, eh ben *il confine toujours à la connerie.*
+celle en somme où malgré tout je tiens,
+
+je ne sais pas si ça vient de moi ou si c’est pas plutôt par votre concours ...ma difficulté c’est que *mon mathème à moi*, vu le champ du discours que j’ai à établir, eh ben *il confine toujours à la connerie.*
 
 <!-- id: s19-02-0036 -->
 
@@ -166,9 +166,9 @@ C’est ça qui m’a tout de même attiré une remarque, comme ça, j’ai­mer
 
 <!-- id: s19-02-0040 -->
 
-> parce qu’on aura à le voir, on aura tout au moins à voir des choses autour,
->
-> c’est une très bonne introduction, c’est quelque chose d’essentiel, et c’est la « *Métaphysique »* d’Aristote ...je voudrais vraiment que vous l’ayez lu, pour faire enfin que quand j’y viendrai, je sais pas, au début du mois de mars, pour y voir le rapport avec notre affaire à nous, il faudrait que vous ayez bien lu ça.
+parce qu’on aura à le voir, on aura tout au moins à voir des choses autour,
+
+c’est une très bonne introduction, c’est quelque chose d’essentiel, et c’est la « *Métaphysique »* d’Aristote ...je voudrais vraiment que vous l’ayez lu, pour faire enfin que quand j’y viendrai, je sais pas, au début du mois de mars, pour y voir le rapport avec notre affaire à nous, il faudrait que vous ayez bien lu ça.
 
 <!-- id: s19-02-0041 -->
 
@@ -236,7 +236,7 @@ Ce bouquin, c’est un bouquin...
 
 <!-- id: s19-02-0057 -->
 
-> c’est très différent de *la métaphysique* ...c’est un bouquin *écrit* dont je parlais tout à l’heure.
+c’est très différent de *la métaphysique* ...c’est un bouquin *écrit* dont je parlais tout à l’heure.
 
 <!-- id: s19-02-0058 -->
 
@@ -252,9 +252,9 @@ Si vous le retrouvez vrai­ment vous verrez ce que tout de même des gens, qui o
 
 <!-- id: s19-02-0061 -->
 
-> et qui existe, et qui s’appelle la méthode,
->
-> la méthode historique, critique, exégétique, tout ce que vous voudrez ...qui sont capables de lire le texte avec évidemment une certaine façon de se barrer du sens, et quand on regarde le texte, eh bien évidemment il vous vient des doutes.
+et qui existe, et qui s’appelle la méthode,
+
+la méthode historique, critique, exégétique, tout ce que vous voudrez ...qui sont capables de lire le texte avec évidemment une certaine façon de se barrer du sens, et quand on regarde le texte, eh bien évidemment il vous vient des doutes.
 
 <!-- id: s19-02-0062 -->
 
@@ -262,7 +262,7 @@ Je dirai que, comme bien entendu parce que cet obstacle de tout ce qu’on en a 
 
 <!-- id: s19-02-0063 -->
 
-> naturellement *les plus sérieux* sur ce texte, parce qu’on savait encore lire, ...on a émis des doutes, on a dit de ça que c’est des séries de *« notes »,* ou bien que c’est un élève qui a fait ça, qui a rassemblé des trucs.
+naturellement *les plus sérieux* sur ce texte, parce qu’on savait encore lire, ...on a émis des doutes, on a dit de ça que c’est des séries de *« notes »,* ou bien que c’est un élève qui a fait ça, qui a rassemblé des trucs.
 
 <!-- id: s19-02-0064 -->
 
@@ -274,7 +274,7 @@ C’est peut-être parce que je viens de lire un bouquin d’un nommé Michelet.
 
 <!-- id: s19-02-0066 -->
 
-> pas le nôtre, *pas notre poète*, quand je dis « *notre poète »*, je veux dire par là que je le place très haut le nôtre ...c’est un type, comme ça, qui était à l’Université de Berlin, qui s’appelait Michelet lui aussi, qui a fait un livre sur la *« Métaphysique »* d’Aristote [^5], précisément là-dessus.
+pas le nôtre, *pas notre poète*, quand je dis « *notre poète »*, je veux dire par là que je le place très haut le nôtre ...c’est un type, comme ça, qui était à l’Université de Berlin, qui s’appelait Michelet lui aussi, qui a fait un livre sur la *« Métaphysique »* d’Aristote [^5], précisément là-dessus.
 
 <!-- id: s19-02-0067 -->
 
@@ -398,7 +398,7 @@ Alors c’est ça dont il va s’agir cette année : du fait qu’en se plaçan
 
 <!-- id: s19-02-0097 -->
 
-> Aristote ou pas, mais en tout cas le texte est là authentique ...quand on se place à un certain niveau, ça va pas tout seul.
+Aristote ou pas, mais en tout cas le texte est là authentique ...quand on se place à un certain niveau, ça va pas tout seul.
 
 <!-- id: s19-02-0098 -->
 
@@ -422,7 +422,7 @@ Et alors ce qu’il lui sort comme vol d’oiseau à sortir du chapeau, où simp
 
 <!-- id: s19-02-0103 -->
 
-> enfin, il faut bien qu’on l’introduise *le lapin,* naturellement, qui doit sortir ...et puis après il en sort un rhinocéros ! c’est tout à fait comme ça pour Aristote.
+enfin, il faut bien qu’on l’introduise *le lapin,* naturellement, qui doit sortir ...et puis après il en sort un rhinocéros ! c’est tout à fait comme ça pour Aristote.
 
 <!-- id: s19-02-0104 -->
 
@@ -446,7 +446,7 @@ Alors, sans même se rendre compte...
 
 <!-- id: s19-02-0109 -->
 
-> Dieu merci, parce que grâce à ça il ne les confond pas ...parce que cette histoire *d’essentialité* et cette histoire *d’unicité*, c’est la même chose ou plus exactement c’est homonyme à ce qu’il interroge - Dieu merci, il ne les confond pas - c’est pas de là qu’il les fait sortir.
+Dieu merci, parce que grâce à ça il ne les confond pas ...parce que cette histoire *d’essentialité* et cette histoire *d’unicité*, c’est la même chose ou plus exactement c’est homonyme à ce qu’il interroge - Dieu merci, il ne les confond pas - c’est pas de là qu’il les fait sortir.
 
 <!-- id: s19-02-0110 -->
 
@@ -478,7 +478,7 @@ Je vous ai annoncé...
 
 <!-- id: s19-02-0117 -->
 
-> j’ai déjà franchi le pas l’année dernière ...que ce *non-rapport*, si je puis m’exprimer ainsi, il faut l’*écrire*, *il faut l’écrire à tout prix*, je veux dire écrire *l’autre rapport*, celui qui fait bouchon à la possibilité d’écrire celui-ci.
+j’ai déjà franchi le pas l’année dernière ...que ce *non-rapport*, si je puis m’exprimer ainsi, il faut l’*écrire*, *il faut l’écrire à tout prix*, je veux dire écrire *l’autre rapport*, celui qui fait bouchon à la possibilité d’écrire celui-ci.
 
 <!-- id: s19-02-0118 -->
 
@@ -514,7 +514,7 @@ Déjà l’année dernière j’ai cru pouvoir poser ce dont il s’agit : Φx,
 
 <!-- id: s19-02-0126 -->
 
-> pour des raisons qui sont de tentatives ...pouvoir écrire comme en mathématiques, c’est à savoir : la fonction qui se constitue de ce qu’il existe cette *jouissance* appelée *« jouissance sexuelle »,* et qui est proprement ce qui fait barrage au *rapport*.
+pour des raisons qui sont de tentatives ...pouvoir écrire comme en mathématiques, c’est à savoir : la fonction qui se constitue de ce qu’il existe cette *jouissance* appelée *« jouissance sexuelle »,* et qui est proprement ce qui fait barrage au *rapport*.
 
 <!-- id: s19-02-0127 -->
 
@@ -582,7 +582,7 @@ Ce qui veut dire que chaque fois que je vais avoir affaire à ce signifiant sexu
 
 <!-- id: s19-02-0143 -->
 
-> c’est-à-dire à ce *quelque chose* qui tient à *la jouissance...*je vais avoir affaire à ΦX,
+c’est-à-dire à ce *quelque chose* qui tient à *la jouissance...*je vais avoir affaire à ΦX,
 
 <!-- id: s19-02-0144 -->
 
@@ -598,7 +598,7 @@ Moi je suis évidemment...
 
 <!-- id: s19-02-0147 -->
 
-> comme je l’ai mis au dos de mes *Écrits...du parti des lumières* : j’éclaire, dans l’espoir du Jour J, bien sûr.
+comme je l’ai mis au dos de mes *Écrits...du parti des lumières* : j’éclaire, dans l’espoir du Jour J, bien sûr.
 
 <!-- id: s19-02-0148 -->
 
@@ -662,7 +662,7 @@ Il peut vous venir à l’idée justement que si tout à l’heure j’ai...
 
 <!-- id: s19-02-0163 -->
 
-> non sans intention, je suis plus rusé que j’en ai l’air ...je vous ai amené comme remarque sur le sujet de l’inter-dit, à savoir : « *que tous les signifiants ne peuvent pas être là tous ensemble* » jamais, ça a peut être rapport :
+non sans intention, je suis plus rusé que j’en ai l’air ...je vous ai amené comme remarque sur le sujet de l’inter-dit, à savoir : « *que tous les signifiants ne peuvent pas être là tous ensemble* » jamais, ça a peut être rapport :
 
 <!-- id: s19-02-0164 -->
 
@@ -682,13 +682,13 @@ Que ça veuille dire que le rapport à un certain signifiant...
 
 <!-- id: s19-02-0168 -->
 
-> vous voyez que je l’ai pas encore dit, mais enfin disons-le ...un signifiant qui est par exemple « *un homme* » ...
+vous voyez que je l’ai pas encore dit, mais enfin disons-le ...un signifiant qui est par exemple « *un homme* » ...
 
 <!-- id: s19-02-0169 -->
 
-> tout ça est tuant parce qu’il y a beaucoup à remuer, et puis personne ne l’ayant fait
->
-> jamais avant moi, ça risque à tout instant de me dégringoler sur la tête ... « *un homme* », j’ai pas dit « *l’homme* » : c’est assez rigolo tout de même que dans l’usage comme ça, du signifiant, on dise au gars « *sois un homme* », on ne lui dit pas « *sois l’homme* », non, on lui dit « *sois un homme* », pourquoi ?
+tout ça est tuant parce qu’il y a beaucoup à remuer, et puis personne ne l’ayant fait
+
+jamais avant moi, ça risque à tout instant de me dégringoler sur la tête ... « *un homme* », j’ai pas dit « *l’homme* » : c’est assez rigolo tout de même que dans l’usage comme ça, du signifiant, on dise au gars « *sois un homme* », on ne lui dit pas « *sois l’homme* », non, on lui dit « *sois un homme* », pourquoi ?
 
 <!-- id: s19-02-0170 -->
 
@@ -708,7 +708,7 @@ Ce que je veux simplement vous dire, c’est que ce qu’écrit ΦX, ça veut di
 
 <!-- id: s19-02-0174 -->
 
-> je ne dis même pas ces deux signifiants-là précisément ...mais eux et un certain nombre d’autres qui s’articulent avec, donc ont pour effet qu’on ne peut plus disposer de l’ensemble des signifiants, et que c’est peut-être bien là une première approche de ce qu’il en est de *la castration,* du point de vue bien sûr de cette fonction mathématique que mon écrit imite.
+je ne dis même pas ces deux signifiants-là précisément ...mais eux et un certain nombre d’autres qui s’articulent avec, donc ont pour effet qu’on ne peut plus disposer de l’ensemble des signifiants, et que c’est peut-être bien là une première approche de ce qu’il en est de *la castration,* du point de vue bien sûr de cette fonction mathématique que mon écrit imite.
 
 <!-- id: s19-02-0175 -->
 
@@ -736,7 +736,7 @@ Pour que ça les ait mis dans cet état...
 
 <!-- id: s19-02-0181 -->
 
-> car ça venait à soulever des foules, parce que par l’intermédiaire *des logiciens* ça avait des conséquences *théolo­giques* où la *logique* dominait beaucoup le *théo*, ce qui n’est pas comme chez nous où il n’y a plus que le *théo* qui reste, toujours là bien solide dans sa connerie, et où la *logique* est légèrement évaporée ...c’est bien que c’est *jouissif* cette histoire.
+car ça venait à soulever des foules, parce que par l’intermédiaire *des logiciens* ça avait des conséquences *théolo­giques* où la *logique* dominait beaucoup le *théo*, ce qui n’est pas comme chez nous où il n’y a plus que le *théo* qui reste, toujours là bien solide dans sa connerie, et où la *logique* est légèrement évaporée ...c’est bien que c’est *jouissif* cette histoire.
 
 <!-- id: s19-02-0182 -->
 
@@ -780,7 +780,7 @@ C’est d’ailleurs de là qu’est pris tout le prestige qui, dans la construc
 
 <!-- id: s19-02-0192 -->
 
-> comme bien des gens le croyaient, et le croyaient déjà à son époque - ça ne l’a pas arrêté pour autant ...ou si le contraire c’est de dire « *l’homme est non blanc »*.
+comme bien des gens le croyaient, et le croyaient déjà à son époque - ça ne l’a pas arrêté pour autant ...ou si le contraire c’est de dire « *l’homme est non blanc »*.
 
 <!-- id: s19-02-0193 -->
 
@@ -804,7 +804,7 @@ Je veux simplement dire qu’il y a eu...
 
 <!-- id: s19-02-0198 -->
 
-> pour que je puisse l’écrire ainsi ...au début du XIX<sup>ème</sup> siècle, une mutation essentielle, c’est la tentative d’application de cette logique à ce dont déjà tout à l’heure je vous ai indiqué qu’il a un statut spécial, à savoir le signifiant mathématique.
+pour que je puisse l’écrire ainsi ...au début du XIX<sup>ème</sup> siècle, une mutation essentielle, c’est la tentative d’application de cette logique à ce dont déjà tout à l’heure je vous ai indiqué qu’il a un statut spécial, à savoir le signifiant mathématique.
 
 <!-- id: s19-02-0199 -->
 
@@ -812,7 +812,7 @@ Je veux simplement dire qu’il y a eu...
 
 <!-- id: s19-02-0200 -->
 
-> car c’est de cela dont il s’agit ...qui fonctionnent dans le syllogisme.
+car c’est de cela dont il s’agit ...qui fonctionnent dans le syllogisme.
 
 <!-- id: s19-02-0201 -->
 
@@ -916,13 +916,13 @@ Alors naturellement il y a quelques petits malins...
 
 <!-- id: s19-02-0226 -->
 
-> je suis entouré de petits malins, ceux qui transforment ce que j’avance en pollution intellectuelle \[*Rires*\],
->
-> comme s’expri­mait une de mes patientes que je remercie de m’avoir fourni ça,
->
-> elle a trouvé ça toute seule parce que c’est une sensible - hein ? -
->
-> d’ailleurs en géné­ral il n’y a que les femmes qui comprennent ce que je dis ...alors il y en a qui ont découvert que je disais que le Père c’était un mythe, parce que il saute aux yeux en effet que ΦX ne marche pas au niveau du *mythe d’Œdipe*.
+je suis entouré de petits malins, ceux qui transforment ce que j’avance en pollution intellectuelle \[*Rires*\],
+
+comme s’expri­mait une de mes patientes que je remercie de m’avoir fourni ça,
+
+elle a trouvé ça toute seule parce que c’est une sensible - hein ? -
+
+d’ailleurs en géné­ral il n’y a que les femmes qui comprennent ce que je dis ...alors il y en a qui ont découvert que je disais que le Père c’était un mythe, parce que il saute aux yeux en effet que ΦX ne marche pas au niveau du *mythe d’Œdipe*.
 
 <!-- id: s19-02-0227 -->
 

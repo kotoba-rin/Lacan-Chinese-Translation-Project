@@ -22,7 +22,7 @@
 | agent | 施动者 | 四话语公式左上位置的功能名；不译“代理人”。 |
 | autre | 他者 | 四话语公式右上位置；普通语境可译“另一个人/另一个”。 |
 | travail | 劳作 / 劳动 | 作为四话语右上位置的功能时译“劳作”；政治经济语境可译“劳动”。 |
-| vérité | 真理 | 四话语公式左下位置，同时也是全书反复讨论的真理功能。 |
+| vérité | 真理 | 四话语公式左下位置，也是全书反复讨论的真理功能；原文的重复、限制和否定均须保留，不能改写成概括性的“真相”。 |
 | production | 产出 | 四话语公式右下位置；避免与一般工业“生产”机械混同。 |
 | quart de tour | 四分之一转 | 四个要素在四个位置间轮换的结构操作。 |
 | appareil | 装置 | 指四话语的书写装置或结构装置；普通器具义另按语境处理。 |
@@ -50,7 +50,7 @@
 | sujet supposé savoir | 被假定知道的主体 | 转移的结构性支点；不改写成“真正掌握知识的主体”。 |
 | Autre / grand Autre | 大他者 | 大写 A 时统一译“大他者”；与普通 *autre* 区分。 |
 | objet | 对象 | 延续项目既有术语，避免改作“客体”。 |
-| objet(a) / objet a / objet petit(a) | 对象(a) | 进入公式时写作 $a$；不译“小客体 a”，首次出现可保留法文写法说明。 |
+| objet(a) / objet a / objet petit(a) | 对象a／对象小a | 一般写“对象a”；强调 *petit* 时写“对象小a”。进入公式时写作 $a$，首次出现可保留法文写法说明。 |
 | relation d'objet / La relation d'objet | 客体关系 / 《客体关系》 | 作为既有理论名称与第四研讨班书名沿用“客体关系”；不影响 *objet* 与对象(a)在正文中的统一译法。 |
 | objet perdu | 丧失的对象 |  |
 | objet cause du désir | 欲望之因的对象 | 若正文顺畅，也可写“作为欲望之因的对象(a)”。 |
@@ -84,7 +84,7 @@
 | non-savoir | 非知识 | 保留它同“知识”的构词关系；不自动等同于一般的“无知”。 |
 | connaissance | 认识 / 认知 | 依语境处理；不得无差别地并入 *savoir*。 |
 | savoir-faire | 技艺性知识 | 第一课奴隶掌握的实践技艺语境；普通固定语可译“本领/技艺”。 |
-| savoir du Maître / savoir de Maître | 主人的知识 | 不是说主人亲自拥有全部知识，而是知识被主人话语抽取和编排。 |
+| savoir du Maître / savoir de Maître | 主人的知识 | 不是说主人亲自拥有全部知识，而是知识被主人的话语抽取和编排。 |
 | savoir absolu | 绝对知识 | 黑格尔语境。 |
 | tout-savoir | “全是知识” | 拉康明确把它同 *savoir de tout*“万事皆知”区分；正文首次出现须保留法文并说明。 |
 | savoir de tout | 万事皆知 | 与 *tout-savoir* 对举。 |
@@ -96,7 +96,6 @@
 | énonciation | 言说行为 | 指发出陈述的行为与位置。 |
 | sens | 意义 | 普通“方向”义另按上下文处理。 |
 | signification | 意指 / 含义 | 依句法选择；与 *sens* 不机械合并。 |
-| vérité | 真理 | 原文的重复、限制和否定均须保留，不能改写成概括性“真相”。 |
 | affect | 情动 | 精神分析概念语境统一译“情动”；动词 *affecter* 仍依句法译“影响/赋予/使受作用”。 |
 | être parlant | 说话存在者 | 保留“存在”与“说话”的双重构造，不缩写为“人”。 |
 | mi-dire | 半说 | 真理只能“半说”；不在各课间轮换为“半言”。 |
@@ -157,7 +156,7 @@
 | exploitation | 剥削 |  |
 | valeur d'échange | 交换价值 |  |
 | valeur d'usage | 使用价值 |  |
-| production | 生产 / 产出 | 政治经济语境用“生产”；四话语位置用“产出”。 |
+| production (économie politique / usage général) | 生产 | 政治经济与一般生产语境使用；四话语右下位置的 *production* 另依结构术语译“产出”。 |
 | université | 大学 | 指制度时用“大学”；作为话语结构的名称用“大学话语”。 |
 | bureaucratie | 官僚制 | 不自动等同于大学话语，只在原文建立关系时联系。 |
 | ségrégation | 隔离 / 隔离化 | 依句法选择；保留其制度性和结构性。 |
@@ -175,7 +174,7 @@
 | a-chose | 非物（a-chose） | 保留省字符与构词痕迹；首次出现保留法文。 |
 | Verborgenheit | 隐匿（Verborgenheit） | 第十三课用于说明真理的隐藏维度；首次出现保留德文。 |
 | hontologie | 羞耻论（hontologie） | *honte*“羞耻”与 *ontologie*“本体论”的双关；首次出现保留法文。 |
-| worst-seller | “最差畅销书”（worst-seller） | 与 *best-seller* 构成反讽双关，首次出现保留英文。 |
+| worst-seller | “最滞销书”（worst-seller） | 与 *best-seller* 构成反讽双关，首次出现保留英文。 |
 | Wo es war, soll Ich werden | 凡它曾在之处，我应当到那里去 | 正文首次出现保留德文；具体句法争议放入译注，不把 *Es/Ich* 简化为日常“它/我”。 |
 | impossible Berufe / unmöglichen Berufe | 不可能的职业 | 弗洛伊德关于治理、教育、分析的表达；首次保留德文原词。 |
 | féroce ignorance | 猛烈的无知 | 指雅威及父亲位置时保留 *féroce* 的强度，不弱化为“不了解”。 |
@@ -206,3 +205,11 @@
 | Éthique à Eudème | 欧德谟伦理学 |  |
 | L'envers de l'histoire contemporaine | 当代史的背面 | 巴尔扎克作品；不要误作研讨班标题。 |
 | Baltasar Gracián / L'Homme détrompé / Criticón | 巴尔塔萨·格拉西安 / 《醒悟之人》 / 《批判家》 | 第十三课书目语境；题名版本差异在原注中说明。 |
+
+## 地形学、地形与拓扑学
+
+| 外文 | 统一中文译名 | 备注 |
+| --- | --- | --- |
+| topique / première topique / seconde topique | 地形学／第一地形学／第二地形学 | 弗洛伊德元心理学的“精神地点”模型：第一地形学区分意识、前意识与无意识，第二地形学区分本我、自我与超我；所说地点不是脑部解剖位置。法语 *topique* 对应德语 *Topik*，英语文献通常把两套模型称作 *first / second topography*，不得同 *topologie*“拓扑学”混译。 |
+| topologie / topologique | 拓扑学／拓扑学的 | 指连续变形下保持的邻接、边界、连通与切割等结构关系；拉康借莫比乌斯带、环面、克莱因瓶、交叉帽及结来处理主体结构。它不同于弗洛伊德 *topique* 的第一／第二地形学，也不只是精神装置的区域示意图。 |
+| topographie | 地形／位置分布、位置描绘 | 普通法语可指具体空间、身体、政治版图或对象位置的描绘；须按上下文译，不因词形相近便自动并入 *topique*“地形学”或 *topologie*“拓扑学”。 |

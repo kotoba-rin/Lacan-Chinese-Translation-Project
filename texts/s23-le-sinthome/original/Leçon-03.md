@@ -50,11 +50,11 @@ J’ai eu le soir même la bonne surprise de voir surgir...
 
 <!-- id: s23-03-0012 -->
 
-> il était tard, je dirai même que j’étais sorti avec un peu de retard, vu mes devoirs ...j’ai donc vu surgir sur le pas de ma porte le nommé Thomé - pour le nommer - et qui venait m’apporter... et je l’en ai grandement remercié ...qui venait m’apporter...
+il était tard, je dirai même que j’étais sorti avec un peu de retard, vu mes devoirs ...j’ai donc vu surgir sur le pas de ma porte le nommé Thomé - pour le nommer - et qui venait m’apporter... et je l’en ai grandement remercié ...qui venait m’apporter...
 
 <!-- id: s23-03-0013 -->
 
-> fruit de sa collaboration avec Soury, Soury et Thomé : souvenez-vous de ces noms ...qui venait m’apporter la preuve que *le nœud borroméen à* 4, de 4 *nœuds à* 3, *existe* bien.
+fruit de sa collaboration avec Soury, Soury et Thomé : souvenez-vous de ces noms ...qui venait m’apporter la preuve que *le nœud borroméen à* 4, de 4 *nœuds à* 3, *existe* bien.
 
 <!-- id: s23-03-0014 -->
 
@@ -66,7 +66,7 @@ Je n’ai néanmoins pas accueilli la nouvelle, que ce problème était résolu,
 
 <!-- id: s23-03-0016 -->
 
-> mélangés de mon regret de mon impuissance avec celui du succès obtenu ...mes sentiments ne l’étaient pas, ils étaient purement et simple­ment d’enthousiasme.
+mélangés de mon regret de mon impuissance avec celui du succès obtenu ...mes sentiments ne l’étaient pas, ils étaient purement et simple­ment d’enthousiasme.
 
 <!-- id: s23-03-0017 -->
 
@@ -82,7 +82,7 @@ Si ce trajet mis à plat est tel que je vous le présente, c’est pour que vous
 
 <!-- id: s23-03-0020 -->
 
-> sentiez peut-être un peu mieux que dans la figure qu’ils m’ont faite ...que vous sentiez peut-être un peu mieux comment c’est fait :
+sentiez peut-être un peu mieux que dans la figure qu’ils m’ont faite ...que vous sentiez peut-être un peu mieux comment c’est fait :
 
 <!-- id: s23-03-0021 -->
 
@@ -158,9 +158,9 @@ Je veux dire que c’est pour autant que l’*imaginaire* se déploie selon le m
 
 <!-- id: s23-03-0039 -->
 
-> ce qui peut également se noter d’un dessin,
->
-> et je dirai qu’un dessin ne note rien, pour autant que la mise à plat en reste énigmatique ...c’est pour autant qu’ici, joint à l’*imaginaire* du corps, quelque chose comme une *inhibition* spécifique, qui se caractériserait spécialement de l’*inquiétante étrangeté* que, provisoirement tout au moins, je me permettrais de noter ce qu’il en est, quant à sa place, de ladite *étrangeté*.
+ce qui peut également se noter d’un dessin,
+
+et je dirai qu’un dessin ne note rien, pour autant que la mise à plat en reste énigmatique ...c’est pour autant qu’ici, joint à l’*imaginaire* du corps, quelque chose comme une *inhibition* spécifique, qui se caractériserait spécialement de l’*inquiétante étrangeté* que, provisoirement tout au moins, je me permettrais de noter ce qu’il en est, quant à sa place, de ladite *étrangeté*.
 
 <!-- id: s23-03-0040 -->
 
@@ -172,7 +172,7 @@ Que Soury et Thomé aient été...
 
 <!-- id: s23-03-0042 -->
 
-> j’ose le dire, quoiqu’après tout, je n’en ai pas d’eux le témoignage ...aient été spécialement captivés, me semble-t-il, par ce qui, dans mon enseignement, a été conduit à explorer, sous le coup, sous le fait de ce que m’imposait la conjonction de *l’imaginaire, du symbolique et du réel*, qu’ils aient été attrapés tout spécialement par ce qu’il faut bien appeler *cette élucubration* qui est mienne, c’est quelque chose qui n’est certainement pas de pur hasard, disons que pour ça ils sont doués.
+j’ose le dire, quoiqu’après tout, je n’en ai pas d’eux le témoignage ...aient été spécialement captivés, me semble-t-il, par ce qui, dans mon enseignement, a été conduit à explorer, sous le coup, sous le fait de ce que m’imposait la conjonction de *l’imaginaire, du symbolique et du réel*, qu’ils aient été attrapés tout spécialement par ce qu’il faut bien appeler *cette élucubration* qui est mienne, c’est quelque chose qui n’est certainement pas de pur hasard, disons que pour ça ils sont doués.
 
 <!-- id: s23-03-0043 -->
 
@@ -180,11 +180,11 @@ L’étrange...
 
 <!-- id: s23-03-0044 -->
 
-> l’étrange, et c’est là-dessus que je me permets de trahir ce qu’ils ont pu me faire de confidence ...l’étrange, me semble-t-il, est ceci que...
+l’étrange, et c’est là-dessus que je me permets de trahir ce qu’ils ont pu me faire de confidence ...l’étrange, me semble-t-il, est ceci que...
 
 <!-- id: s23-03-0045 -->
 
-> et cela m’a saisi, étant donné ce que vous savez que je profère ...c’est qu’ils m’ont dit qu’ils s’y avançaient en parlant entre eux.
+et cela m’a saisi, étant donné ce que vous savez que je profère ...c’est qu’ils m’ont dit qu’ils s’y avançaient en parlant entre eux.
 
 <!-- id: s23-03-0046 -->
 
@@ -212,7 +212,7 @@ Mais que ceci puisse être conquis d’une telle trouvaille...
 
 <!-- id: s23-03-0052 -->
 
-> je ne sais pas d’ailleurs si spécialement cette trouvaille a été conquise dans le dialogue ...que le dialogue s’avère fécond spécialement dans ce domaine, c’est tout à fait, je puis dire, ce que confirme qu’il m’a manqué à moi.
+je ne sais pas d’ailleurs si spécialement cette trouvaille a été conquise dans le dialogue ...que le dialogue s’avère fécond spécialement dans ce domaine, c’est tout à fait, je puis dire, ce que confirme qu’il m’a manqué à moi.
 
 <!-- id: s23-03-0053 -->
 
@@ -376,7 +376,7 @@ Et si vous vous souvenez du mode sous lequel j’ai introduit ce quart élément
 
 <!-- id: s23-03-0093 -->
 
-> chacun des autres est supposé constituer quelque chose de personnel au regard de ces trois éléments ...le *quart* sera ce que j’énonce cette année comme *le sinthome*.
+chacun des autres est supposé constituer quelque chose de personnel au regard de ces trois éléments ...le *quart* sera ce que j’énonce cette année comme *le sinthome*.
 
 <!-- id: s23-03-0094 -->
 
@@ -392,7 +392,7 @@ C’est qu’aussi bien, les mêmes...
 
 <!-- id: s23-03-0097 -->
 
-> les mêmes Soury et Thomé, j’y ai déjà fait allusion expressément dans ce séminaire, ...ont mis en valeur que pour ce qui en est des nœuds borroméens en question, à partir du moment où ils sont *orientés et coloriés*, il y en a deux de nature différente.
+les mêmes Soury et Thomé, j’y ai déjà fait allusion expressément dans ce séminaire, ...ont mis en valeur que pour ce qui en est des nœuds borroméens en question, à partir du moment où ils sont *orientés et coloriés*, il y en a deux de nature différente.
 
 <!-- id: s23-03-0098 -->
 
@@ -416,9 +416,9 @@ Il est remarquable que ce soit seulement à ce que, non pas *entre eux* que soit
 
 <!-- id: s23-03-0103 -->
 
-> car l’identité, ça serait les marquer par la lettre initiale, dire R, I et S,
->
-> c’est déjà les intituler chacun, chacun comme tel, du *réel*, du *symbolique* et de *l’imaginaire* ...mais il est notable qu’il apparaisse que ce qui se distingue entre eux d’efficace dans l’orientation, ne soit repérable que de ce que soit par la couleur marquée leur différence, non pas de l’un à l’autre, mais leur différence, si je puis dire « *absolue »*, en ce qu’elle est la différence commune aux trois.
+car l’identité, ça serait les marquer par la lettre initiale, dire R, I et S,
+
+c’est déjà les intituler chacun, chacun comme tel, du *réel*, du *symbolique* et de *l’imaginaire* ...mais il est notable qu’il apparaisse que ce qui se distingue entre eux d’efficace dans l’orientation, ne soit repérable que de ce que soit par la couleur marquée leur différence, non pas de l’un à l’autre, mais leur différence, si je puis dire « *absolue »*, en ce qu’elle est la différence commune aux trois.
 
 <!-- id: s23-03-0104 -->
 
@@ -426,7 +426,7 @@ C’est pour qu’il y ait quelque chose qui est *Un*...
 
 <!-- id: s23-03-0105 -->
 
-> mais qui, comme tel, marque la différence *entre les trois*, et non pas la différence à deux ...qu’il apparaît en conséquence la distinction de *deux structures de nœuds borroméens*.
+mais qui, comme tel, marque la différence *entre les trois*, et non pas la différence à deux ...qu’il apparaît en conséquence la distinction de *deux structures de nœuds borroméens*.
 
 <!-- id: s23-03-0106 -->
 
@@ -542,7 +542,7 @@ Ce qui n’empêche pas que, au regard de cette chaîne...
 
 <!-- id: s23-03-0134 -->
 
-> qui dès lors ne constitue plus une paranoïa, si ce n’est qu’elle est commune ...au regard de cette chaîne, la floculation possible de quarts termes... dans cette tresse qui est la tresse subjective ...la floculation possible, terminale, de *quarts termes* nous laisse la possibilité de supposer que sur la totalité de la texture, il y a certains points élus qui - de ce nœud à quatre - se trouvent le terme.
+qui dès lors ne constitue plus une paranoïa, si ce n’est qu’elle est commune ...au regard de cette chaîne, la floculation possible de quarts termes... dans cette tresse qui est la tresse subjective ...la floculation possible, terminale, de *quarts termes* nous laisse la possibilité de supposer que sur la totalité de la texture, il y a certains points élus qui - de ce nœud à quatre - se trouvent le terme.
 
 <!-- id: s23-03-0135 -->
 
@@ -622,7 +622,7 @@ Il en résulte qu’ici **J<sub>A</sub>** : cette jouissance de l’Autre de l�
 
 <!-- id: s23-03-0154 -->
 
-> si nous considérons ce qu’il advient au regard de l*’imaginaire*, c’est-à-dire de la jouissance du dou­ble, de l’image spéculaire, de la jouissance du corps en tant qu’imagi­naire ...il est le support d’un certain nombre de béances, lesquelles constituent proprement les différents *objets* qui l’occupent.
+si nous considérons ce qu’il advient au regard de l*’imaginaire*, c’est-à-dire de la jouissance du dou­ble, de l’image spéculaire, de la jouissance du corps en tant qu’imagi­naire ...il est le support d’un certain nombre de béances, lesquelles constituent proprement les différents *objets* qui l’occupent.
 
 <!-- id: s23-03-0155 -->
 

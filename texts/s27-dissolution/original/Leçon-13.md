@@ -374,9 +374,9 @@ C’est ce qui m’a inspiré mes mathèmes...
 
 <!-- id: s27-13-0093 -->
 
-> pour autant qu’on puisse parler d’inspiration
->
-> pour un travail qui m’a coûté des veilles où pas une muse que je sache ne m’a visité …mais il faut croire que *ça m’amuse.*
+pour autant qu’on puisse parler d’inspiration
+
+pour un travail qui m’a coûté des veilles où pas une muse que je sache ne m’a visité …mais il faut croire que *ça m’amuse.*
 
 <!-- id: s27-13-0094 -->
 

@@ -22,15 +22,15 @@ Or *la femme*…
 
 <!-- id: s13-10-0005 -->
 
-> la femme si l’on peut en parler, la femme qu’on essayait hier soir de mettre en suspens
->
-> dans une typique essence qui serait celle de la féminité, entreprise fragile …*la femme*…
+la femme si l’on peut en parler, la femme qu’on essayait hier soir de mettre en suspens
+
+dans une typique essence qui serait celle de la féminité, entreprise fragile …*la femme*…
 
 <!-- id: s13-10-0006 -->
 
-> disons pour autant que comme FREUD le développe et l’énonce,
->
-> un départ distinct de l’homme dans ce jeu qui s’engage, où il s’agit de son désir …*la femme* n’est pas plus dans ce monde que l’homme. Sans doute, il arrive qu’elle le lui représente sous la forme de *l’objet(a)*, mais il faut le dire :
+disons pour autant que comme FREUD le développe et l’énonce,
+
+un départ distinct de l’homme dans ce jeu qui s’engage, où il s’agit de son désir …*la femme* n’est pas plus dans ce monde que l’homme. Sans doute, il arrive qu’elle le lui représente sous la forme de *l’objet(a)*, mais il faut le dire :
 
 <!-- id: s13-10-0007 -->
 
@@ -202,7 +202,7 @@ Laissons-nous… laissons-nous arrêter un instant autour de ce jeu, peut-être 
 
 <!-- id: s13-10-0049 -->
 
-> telle que nous le lisons, si nous le lisons à la chandelle de l’irréflexion où se suspend tout notre sort …*cette supposition*, qu’après la mort nous en aurons *le fin mot*, à savoir que la vérité sera patente si *oui ou non*, il y aura là pour la tenir, le Dieu de la promesse, qui est-ce qui ne peut pas voir que *cette supposition* implicite à toute l’affaire, c’est elle qui la met véritablement en suspend. Pourquoi après la mort, si quelque chose y perdure, n’errerions-nous pas encore dans la même perplexité ?
+telle que nous le lisons, si nous le lisons à la chandelle de l’irréflexion où se suspend tout notre sort …*cette supposition*, qu’après la mort nous en aurons *le fin mot*, à savoir que la vérité sera patente si *oui ou non*, il y aura là pour la tenir, le Dieu de la promesse, qui est-ce qui ne peut pas voir que *cette supposition* implicite à toute l’affaire, c’est elle qui la met véritablement en suspend. Pourquoi après la mort, si quelque chose y perdure, n’errerions-nous pas encore dans la même perplexité ?
 
 <!-- id: s13-10-0050 -->
 
@@ -286,9 +286,9 @@ Il n’y a qu’un malheur, c’est que cette *seconde vie* qui n’existe pas e
 
 <!-- id: s13-10-0070 -->
 
-> cette doublure qui fait *les délices des psychologues* et qui s’appelle à l’occasion le *niveau d’aspiration.* Rien ne s’entend
->
-> aussi bien que les psychologues pour donner statut à toutes les immondices dont notre sort est perverti …ça s’appelle notre « *vie idéale* », celle précisément que nous passons notre temps à rêver mollement.
+cette doublure qui fait *les délices des psychologues* et qui s’appelle à l’occasion le *niveau d’aspiration.* Rien ne s’entend
+
+aussi bien que les psychologues pour donner statut à toutes les immondices dont notre sort est perverti …ça s’appelle notre « *vie idéale* », celle précisément que nous passons notre temps à rêver mollement.
 
 <!-- id: s13-10-0071 -->
 
@@ -300,7 +300,7 @@ La chose prend son intérêt, c’est qu’en raison d’une information erroné
 
 <!-- id: s13-10-0073 -->
 
-> celui que, dans les tragédies du XVI<sup>ème</sup> siècle, on aurait aussi bien désigné par ce nom francisé - non pas TULLIUS mais TULLE - à savoir pour nous qui, bien entendu, sommes des érudits c’est le même CICÉRON …TOM croit que TULLE est vraiment incapable d’avoir fait une chose pareille.
+celui que, dans les tragédies du XVI<sup>ème</sup> siècle, on aurait aussi bien désigné par ce nom francisé - non pas TULLIUS mais TULLE - à savoir pour nous qui, bien entendu, sommes des érudits c’est le même CICÉRON …TOM croit que TULLE est vraiment incapable d’avoir fait une chose pareille.
 
 <!-- id: s13-10-0074 -->
 
@@ -316,9 +316,9 @@ Car il devient intéressant de remarquer que si dans la même forme vous substit
 
 <!-- id: s13-10-0077 -->
 
-> ceci paraîtrait donc devoir opacifier encore plus la référence, bien au contraire la *reférencial opacity,*
->
-> à savoir l’opacité qu’introduit la fonction propositionnelle : « *Tom croit*… » …c’est ici qu’il ne saurait s’agir de dire que la référence devient vague à partir du moment où vous dites que TOM croit que quelqu’un a dénoncé CATILINA. Assurément on peut aller plus loin et s’apercevoir que ce n’est pas la même chose *de croire que quelqu’un a dénoncé* CATILINA, ou *de dire* que quelqu’un existe dont TOM croit qu’il a dénoncé CATILINA. Mais vous voyez que nous commençons à entrer là dans un système de double porte qui, peut-être, nous entraînerait un peu loin.
+ceci paraîtrait donc devoir opacifier encore plus la référence, bien au contraire la *reférencial opacity,*
+
+à savoir l’opacité qu’introduit la fonction propositionnelle : « *Tom croit*… » …c’est ici qu’il ne saurait s’agir de dire que la référence devient vague à partir du moment où vous dites que TOM croit que quelqu’un a dénoncé CATILINA. Assurément on peut aller plus loin et s’apercevoir que ce n’est pas la même chose *de croire que quelqu’un a dénoncé* CATILINA, ou *de dire* que quelqu’un existe dont TOM croit qu’il a dénoncé CATILINA. Mais vous voyez que nous commençons à entrer là dans un système de double porte qui, peut-être, nous entraînerait un peu loin.
 
 <!-- id: s13-10-0078 -->
 
@@ -334,7 +334,7 @@ Mais pour vous ramener à la question de l’existence de Dieu, ceci vous fera s
 
 <!-- id: s13-10-0081 -->
 
-> c’est dire tout autre chose parce que ceci implique au–dessous de la barre : « *Dieu n’existe pas* ».
+c’est dire tout autre chose parce que ceci implique au–dessous de la barre : « *Dieu n’existe pas* ».
 
 <!-- id: s13-10-0082 -->
 
@@ -378,7 +378,7 @@ Ce *petit(a)* que nous connaissons bien, j’aurai à vous expliquer *- et seule
 
 <!-- id: s13-10-0092 -->
 
-> dont la définition à la fin de l’année dernière, je vous l’ai déjà donnée …c’est là que *la position de l’analyste* est à définir.
+dont la définition à la fin de l’année dernière, je vous l’ai déjà donnée …c’est là que *la position de l’analyste* est à définir.
 
 <!-- id: s13-10-0093 -->
 
@@ -386,9 +386,9 @@ Le *partenaire*, le *répondant*, *celui* à partir de quoi s’inaugure la poss
 
 <!-- id: s13-10-0094 -->
 
-> *que ce partenaire, celui qui n’est pas celui dont nous tenons la place,*
->
-> *mais avec lequel nous avons à engager la partie à trois avec l’analysé et même avec un quatrième* …*que cet Autre sait qu’il n’est rien.*
+*que ce partenaire, celui qui n’est pas celui dont nous tenons la place,*
+
+*mais avec lequel nous avons à engager la partie à trois avec l’analysé et même avec un quatrième* …*que cet Autre sait qu’il n’est rien.*
 
 ## Notes
 

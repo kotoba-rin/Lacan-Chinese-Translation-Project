@@ -30,7 +30,7 @@ Et quand il s’agit de percevoir quel ordre de réalité peut répondre, à cet
 
 <!-- id: s3-11-0007 -->
 
-> cette « *présence* » qui pour lui couvre *une partie de l’univers*, et non pas tout, car je vous ai indiqué qu’il distinguait l’ordre dans lequel Dieu et sa puissance s’avancent, et celui où ils s’arrêtent
+cette « *présence* » qui pour lui couvre *une partie de l’univers*, et non pas tout, car je vous ai indiqué qu’il distinguait l’ordre dans lequel Dieu et sa puissance s’avancent, et celui où ils s’arrêtent
 
 <!-- id: s3-11-0008 -->
 
@@ -38,11 +38,11 @@ Et quand il s’agit de percevoir quel ordre de réalité peut répondre, à cet
 
 <!-- id: s3-11-0009 -->
 
-> où il nous dit même que rien de l’intérieur de l’homme, rien de son sentiment de la vie, rien de sa vie
->
-> elle-même, n’est compréhensible ni pénétrable à Dieu qui ne le recueille, qui ne l’accueille aussi,
->
-> qu’à partir du moment où tout est transformé dans une notation infinie
+où il nous dit même que rien de l’intérieur de l’homme, rien de son sentiment de la vie, rien de sa vie
+
+elle-même, n’est compréhensible ni pénétrable à Dieu qui ne le recueille, qui ne l’accueille aussi,
+
+qu’à partir du moment où tout est transformé dans une notation infinie
 
 <!-- id: s3-11-0010 -->
 
@@ -50,7 +50,7 @@ Et quand il s’agit de percevoir quel ordre de réalité peut répondre, à cet
 
 <!-- id: s3-11-0011 -->
 
-> le personnage fort raisonnant confronté ici à une expérience qui pour lui a tous les caractères d’une réalité, qu’il en distingue toujours le poids propre, efficace, de la « *présence* » *indiscutable*
+le personnage fort raisonnant confronté ici à une expérience qui pour lui a tous les caractères d’une réalité, qu’il en distingue toujours le poids propre, efficace, de la « *présence* » *indiscutable*
 
 <!-- id: s3-11-0012 -->
 
@@ -138,7 +138,7 @@ Quelque chose de nouveau qui est apparu dans le monde…
 
 <!-- id: s3-11-0033 -->
 
-> pas seulement avec *le christianisme*, mais qui a été déjà préparé avec *le stoïcisme* par exemple
+pas seulement avec *le christianisme*, mais qui a été déjà préparé avec *le stoïcisme* par exemple
 
 <!-- id: s3-11-0034 -->
 
@@ -222,7 +222,7 @@ Ce fait commun que chacun peut éprouver chaque fois qu’il ne se délaisse pas
 
 <!-- id: s3-11-0054 -->
 
-> ce qui est aussi la première condition à exiger de ce qu’on peut appeler légitimement un psychothérapeute, dès lors que la psychothérapie lui a appris les risques d’initiatives aussi aventurées
+ce qui est aussi la première condition à exiger de ce qu’on peut appeler légitimement un psychothérapeute, dès lors que la psychothérapie lui a appris les risques d’initiatives aussi aventurées
 
 <!-- id: s3-11-0055 -->
 
@@ -254,11 +254,15 @@ Revenons à SCHREBER lui-même qui dit :
 
 <!-- id: s3-11-0062 -->
 
-> « *On dit que je suis un paranoïaque, et on dit que les paranoïaques sont des gens qui rapportent tout à eux, dans ce cas*
->
-> *ils se trompent, ce n’est pas moi qui rapporte tout à moi, c’est lui qui rapporte tout à moi, c’est ce Dieu qui parle sans arrêt à l’intérieur de moi par ses divers agents, acteurs et prolongements, c’est lui qui a la malencontreuse idée, quoi que j’expérimente, pour aussitôt me faire la remarque que cela me vise, ou même que cela est de moi. Je ne peux pas jouer* - car SCHREBER est musicien - *tel air de « La Flûte enchantée », sans qu’aussitôt lui qui parle m’attribue les sentiments correspondants,*
->
-> *mais je ne les ai pas, moi.* »
+<div class="text-quotation">
+
+« *On dit que je suis un paranoïaque, et on dit que les paranoïaques sont des gens qui rapportent tout à eux, dans ce cas*
+
+*ils se trompent, ce n’est pas moi qui rapporte tout à moi, c’est lui qui rapporte tout à moi, c’est ce Dieu qui parle sans arrêt à l’intérieur de moi par ses divers agents, acteurs et prolongements, c’est lui qui a la malencontreuse idée, quoi que j’expérimente, pour aussitôt me faire la remarque que cela me vise, ou même que cela est de moi. Je ne peux pas jouer* - car SCHREBER est musicien - *tel air de « La Flûte enchantée », sans qu’aussitôt lui qui parle m’attribue les sentiments correspondants,*
+
+*mais je ne les ai pas, moi.* »
+
+</div>
 
 <!-- id: s3-11-0063 -->
 
@@ -434,9 +438,9 @@ Ce n’est pas tout : toutes sortes de bruit de l’extérieur…
 
 <!-- id: s3-11-0106 -->
 
-> quels qu’ils soient, qu’il s’agisse de n’importe quoi qui se passe dans son couloir dans la maison de santé
->
-> ou un bruit au dehors, un aboiement, un hennissement, mais toujours quelque chose qui a un sens humain
+quels qu’ils soient, qu’il s’agisse de n’importe quoi qui se passe dans son couloir dans la maison de santé
+
+ou un bruit au dehors, un aboiement, un hennissement, mais toujours quelque chose qui a un sens humain
 
 <!-- id: s3-11-0107 -->
 

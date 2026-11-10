@@ -30,9 +30,9 @@ Un psychanalyste de l’époque héroïque, Théodore REIK...
 
 <!-- id: s12-04-0007 -->
 
-> *c’est un bon signe, je viens de retrouver son prénom, je l’avais oublié ce matin, au moment de prendre*
->
-> *mes notes, et vous verrez que ceci a le rapport le plus étroit avec mon propos d’aujourd’hui*
+*c’est un bon signe, je viens de retrouver son prénom, je l’avais oublié ce matin, au moment de prendre*
+
+*mes notes, et vous verrez que ceci a le rapport le plus étroit avec mon propos d’aujourd’hui*
 
 <!-- id: s12-04-0008 -->
 
@@ -80,15 +80,19 @@ Le psychanalyste est en droit d’affirmer que *certaines choses*, les *symptôm
 
 <!-- id: s12-04-0019 -->
 
-> qui n’est pas celui de *signe* mais d’un certain *nœud* dont la forme, le serrage, ni le fil n’ont jamais été pro­prement dénommés …qu’un certain *nœud de signes avec les signes*, et qui est proprement ce qui est au fondement de ce qu’on appelle *le symptôme analy­tique*…
+qui n’est pas celui de *signe* mais d’un certain *nœud* dont la forme, le serrage, ni le fil n’ont jamais été pro­prement dénommés …qu’un certain *nœud de signes avec les signes*, et qui est proprement ce qui est au fondement de ce qu’on appelle *le symptôme analy­tique*…
 
 <!-- id: s12-04-0020 -->
 
-> à savoir *quelque chose d’installé dans le subjectif*, qui d’aucune façon de dialogue raisonnable et logique ne saurait être résolu …ici le psychanalys­te affirme à celui qui en souffre, au patient :
+à savoir *quelque chose d’installé dans le subjectif*, qui d’aucune façon de dialogue raisonnable et logique ne saurait être résolu …ici le psychanalys­te affirme à celui qui en souffre, au patient :
 
 <!-- id: s12-04-0021 -->
 
-> « V*ous n’en serez délivré, de ce nœud, qu’à l’intérieur du camp* ».
+<div class="text-quotation">
+
+« V*ous n’en serez délivré, de ce nœud, qu’à l’intérieur du camp* ».
+
+</div>
 
 <!-- id: s12-04-0022 -->
 
@@ -112,9 +116,9 @@ Car *le résidu* en quelque sorte *irréductible* qui reste dans tous ces discou
 
 <!-- id: s12-04-0027 -->
 
-> et je n’ai pas besoin ici de revenir sur les autres, les ténèbres s’épaississent progressivement,
->
-> à mesure qu’on s’avance vers l’autre terme de la série : l’identification …que rien n’est saisi, que rien n’est théorisé, d’une expérience, si sûrs que soient les règles et les préceptes jusqu’ici accumulés.
+et je n’ai pas besoin ici de revenir sur les autres, les ténèbres s’épaississent progressivement,
+
+à mesure qu’on s’avance vers l’autre terme de la série : l’identification …que rien n’est saisi, que rien n’est théorisé, d’une expérience, si sûrs que soient les règles et les préceptes jusqu’ici accumulés.
 
 <!-- id: s12-04-0028 -->
 
@@ -134,9 +138,9 @@ Mais l’analyste, pour ne pas la nommer - sauf avec quelque vergogne - exacteme
 
 <!-- id: s12-04-0032 -->
 
-> dans des déterminations nombreuses, qui lui apparaissent aussi bien internes qu’externes,
->
-> autrement dit, qui se présentent à lui comme des choses, comme des fatalités …que l’homme ne sait pas qu’il est au cœur de ces prétendues choses, de ces prétendues fatalités, que c’est d’*un certain rapport initial*, *rapport de production*, dont il est le ressort, que ces choses se déterminent - *sans doute à son insu* - pourtant de *sa lignée*.
+dans des déterminations nombreuses, qui lui apparaissent aussi bien internes qu’externes,
+
+autrement dit, qui se présentent à lui comme des choses, comme des fatalités …que l’homme ne sait pas qu’il est au cœur de ces prétendues choses, de ces prétendues fatalités, que c’est d’*un certain rapport initial*, *rapport de production*, dont il est le ressort, que ces choses se déterminent - *sans doute à son insu* - pourtant de *sa lignée*.
 
 <!-- id: s12-04-0033 -->
 
@@ -152,9 +156,9 @@ Il est à savoir si, me joignant *par ce que j’enseigne,* à ceux qui ainsi me
 
 <!-- id: s12-04-0036 -->
 
-> *et d’autant plus légitimement que cette expérience n’est possible que du fait d’une détermination primordiale de l’homme par le discours*
->
-> …si faisant ainsi, ouvrant la possibilité qu’on parle de l’analyse en dehors du champ analytique, je favorise, ou non, la résistance à l’analyse,
+*et d’autant plus légitimement que cette expérience n’est possible que du fait d’une détermination primordiale de l’homme par le discours*
+
+…si faisant ainsi, ouvrant la possibilité qu’on parle de l’analyse en dehors du champ analytique, je favorise, ou non, la résistance à l’analyse,
 
 <!-- id: s12-04-0037 -->
 
@@ -202,7 +206,7 @@ Nous avons *une expérience* :
 
 <!-- id: s12-04-0048 -->
 
-> et d’une façon tellement originelle*, qu’il en porte sur la peau la trace* comme un animal marqué, *qu’il est identifié d’abord par ce quelque chose* d’ample ou de réduit.
+et d’une façon tellement originelle*, qu’il en porte sur la peau la trace* comme un animal marqué, *qu’il est identifié d’abord par ce quelque chose* d’ample ou de réduit.
 
 <!-- id: s12-04-0049 -->
 
@@ -234,7 +238,7 @@ C’est de là qu’il est reparti parce que c’est de là que s’originait so
 
 <!-- id: s12-04-0056 -->
 
-> qu’on appelle *oubli*, et dès les premiers pas , vous voyez bien que ce à quoi, il y a toujours à faire attention c’est à la signification car bien sûr, ce n’est pas un *oubli*, l’*oubli* freudien c’est une forme de la mémoire, c’est même sa forme la plus précise, alors il vaut mieux se défier de mots comme *oubli*, *Vergessen*. Disons, un trou. …*qu’est-ce qui a foutu le camp par ce trou ? C’est des phonèmes !*
+qu’on appelle *oubli*, et dès les premiers pas , vous voyez bien que ce à quoi, il y a toujours à faire attention c’est à la signification car bien sûr, ce n’est pas un *oubli*, l’*oubli* freudien c’est une forme de la mémoire, c’est même sa forme la plus précise, alors il vaut mieux se défier de mots comme *oubli*, *Vergessen*. Disons, un trou. …*qu’est-ce qui a foutu le camp par ce trou ? C’est des phonèmes !*
 
 <!-- id: s12-04-0057 -->
 
@@ -258,9 +262,9 @@ C’est au niveau du matériel signifiant que se produisent *les substitutions, 
 
 <!-- id: s12-04-0062 -->
 
-> encore que tout son discours est là pour nous témoigner qu’il est tellement sur le vif de ce dont il s’agit
->
-> dans ce phénomène que, il ne cesse à tous les détours, d’accentuer comme il peut ce dont il s’agit …*il dit* « *Dans ce cas, c’est une « äusserlichen Bedingung » une détermination de l’extérieur .*».
+encore que tout son discours est là pour nous témoigner qu’il est tellement sur le vif de ce dont il s’agit
+
+dans ce phénomène que, il ne cesse à tous les détours, d’accentuer comme il peut ce dont il s’agit …*il dit* « *Dans ce cas, c’est une « äusserlichen Bedingung » une détermination de l’extérieur .*».
 
 <!-- id: s12-04-0063 -->
 
@@ -268,7 +272,7 @@ Secondairement, dans un retour de plume, il dira : « *On pourrait m’opposer 
 
 <!-- id: s12-04-0064 -->
 
-> ce qui prouve à quel point il sent bien la différence entre deux types de phénomènes, qui pourraient là se différencier …*il pourrait y avoir à l’intérieur, en effet, quelques rapports entre le fait qu’il s’agisse d’un achoppement sur le nom de Signorelli et le fait que Signorelli, ça traîne avec soi* - étant données les *Fresques d’Orvieto* puisque c’est de ça qu’il s’agit - *ça traîne avec soi beaucoup de choses qui peuvent m’intéresser un peu plus que je ne le sais moi-même*.»
+ce qui prouve à quel point il sent bien la différence entre deux types de phénomènes, qui pourraient là se différencier …*il pourrait y avoir à l’intérieur, en effet, quelques rapports entre le fait qu’il s’agisse d’un achoppement sur le nom de Signorelli et le fait que Signorelli, ça traîne avec soi* - étant données les *Fresques d’Orvieto* puisque c’est de ça qu’il s’agit - *ça traîne avec soi beaucoup de choses qui peuvent m’intéresser un peu plus que je ne le sais moi-même*.»
 
 <!-- id: s12-04-0065 -->
 
@@ -404,7 +408,7 @@ Si je vous la représente ainsi, exactement tout comme l’ont fait les mathéma
 
 <!-- id: s12-04-0098 -->
 
-> quelqu’un proposait même qu’on fasse *une petite boutique à l’entrée*, ici où chacun pourrait se procurer *sa petite bouteille de Klein*. Ce serait un signe de reconnaissance. Ça ne coûte pas très cher une *bouteille de Klein*, surtout si on les commande en série.
+quelqu’un proposait même qu’on fasse *une petite boutique à l’entrée*, ici où chacun pourrait se procurer *sa petite bouteille de Klein*. Ce serait un signe de reconnaissance. Ça ne coûte pas très cher une *bouteille de Klein*, surtout si on les commande en série.
 
 <!-- id: s12-04-0099 -->
 
@@ -612,7 +616,7 @@ Je vous dirai que *ce n’est pas comme exemplaire de l’espèce*…
 
 <!-- id: s12-04-0150 -->
 
-> resserré comme unique à travers un certain nombre de particularités, aussi *exemplaire* qu’il puisse être …*que le particulier est dénommé d’un nom propre*, c’est en ce sens qu’il est irremplaçable, c’est-à-dire qu’il peut manquer, qu’il suggère *le niveau du manque, le niveau du trou,* et que ce n’est pas en tant qu’individu que je m’appelle Jacques LACAN mais en tant que quelque chose qui peut manquer, moyennant quoi, ce nom ira vers quoi ? Recouvrir un autre manque.
+resserré comme unique à travers un certain nombre de particularités, aussi *exemplaire* qu’il puisse être …*que le particulier est dénommé d’un nom propre*, c’est en ce sens qu’il est irremplaçable, c’est-à-dire qu’il peut manquer, qu’il suggère *le niveau du manque, le niveau du trou,* et que ce n’est pas en tant qu’individu que je m’appelle Jacques LACAN mais en tant que quelque chose qui peut manquer, moyennant quoi, ce nom ira vers quoi ? Recouvrir un autre manque.
 
 <!-- id: s12-04-0151 -->
 
@@ -640,7 +644,7 @@ Il est en train de parler donc, avec cet homme…
 
 <!-- id: s12-04-0157 -->
 
-> *dont la curiosité des biographes nous a même réservé le nom : c’est un M. Freyhau, légiste ou homme de loi à Vienne* …et on parle *de choses et d’autres*, et en particulier, FREUD évoquant ce que lui a raconté récemment un ami, FREUD l’évoquant, parle des gens de ce pays, qu’on n’est pas à proprement parler en train de traverser puisqu’on est en Dalmatie mais qui n’est pas loin : c’est la Bosnie, c’est la Bosnie encore conservant toutes sortes de traces d’une population musulmane… la Bosnie n’était pas depuis si longtemps arrachée à l’empire ottoman. FREUD fait remarquer à quel point ces paysans sont - quoi ? - respectueux, déférents, excellents, vis à vis de celui qui se charge de leur santé, bref qui opère auprès d’eux comme médecin.
+*dont la curiosité des biographes nous a même réservé le nom : c’est un M. Freyhau, légiste ou homme de loi à Vienne* …et on parle *de choses et d’autres*, et en particulier, FREUD évoquant ce que lui a raconté récemment un ami, FREUD l’évoquant, parle des gens de ce pays, qu’on n’est pas à proprement parler en train de traverser puisqu’on est en Dalmatie mais qui n’est pas loin : c’est la Bosnie, c’est la Bosnie encore conservant toutes sortes de traces d’une population musulmane… la Bosnie n’était pas depuis si longtemps arrachée à l’empire ottoman. FREUD fait remarquer à quel point ces paysans sont - quoi ? - respectueux, déférents, excellents, vis à vis de celui qui se charge de leur santé, bref qui opère auprès d’eux comme médecin.
 
 <!-- id: s12-04-0158 -->
 
@@ -648,13 +652,13 @@ Et évoquant ce que lui rapportait cet ami…
 
 <!-- id: s12-04-0159 -->
 
-> dont nous avons également le nom, grâce à FREUD cette fois, dans les notes de l’article de l898, dont je vous parlais
->
-> tout à l’heure \[L’informateur s’appelle Pick\] …que ces gens, quand on est amené à leur dire qu’assurément leur proche qui est là, sur son grabat, va mourir : « *Herr !* » *dit le paysan bosniaque*, « *Monsieur !* »…
+dont nous avons également le nom, grâce à FREUD cette fois, dans les notes de l’article de l898, dont je vous parlais
+
+tout à l’heure \[L’informateur s’appelle Pick\] …que ces gens, quand on est amené à leur dire qu’assurément leur proche qui est là, sur son grabat, va mourir : « *Herr !* » *dit le paysan bosniaque*, « *Monsieur !* »…
 
 <!-- id: s12-04-0160 -->
 
-> mais avec la note de révérence que dans un pays de structure sociale archaïque, la note de révérence que comporte ce nom, l’accent volontiers de « *Seigneur !* » …« *Herr ! Nous savons bien que si tu avais pu faire quelque chose, assurément, ce serait fait il serait guéri. Mais puisque tu ne le peux pas,* *que les choses se passent comme Dieu le veut, c’est en somme… c’est la volonté d’Allah.* »
+mais avec la note de révérence que dans un pays de structure sociale archaïque, la note de révérence que comporte ce nom, l’accent volontiers de « *Seigneur !* » …« *Herr ! Nous savons bien que si tu avais pu faire quelque chose, assurément, ce serait fait il serait guéri. Mais puisque tu ne le peux pas,* *que les choses se passent comme Dieu le veut, c’est en somme… c’est la volonté d’Allah.* »
 
 <!-- id: s12-04-0161 -->
 
@@ -686,9 +690,9 @@ Qu’est-ce que ça veut dire ? Qu’est-ce que ça veut dire que quelque chose 
 
 <!-- id: s12-04-0168 -->
 
-> qui est réévoqué : un discours... un discours parfaitement formulé pour lui, et qu’il ne lui est même pas besoin
->
-> de faire un effort quelconque pour le réévoquer, il le réévoque tout de suite quand il rend compte de l’affaire …qu’est-ce que ça veut dire que les effets, non point d’un refoulement, mais d’un discours rentré, *unterdrückt*, pour employer même le terme que nous avons à notre portée dans le vocabulaire de FREUD, de s’intéresser sur ce sujet de l’articulation, de la distinction, de la définition, entre *unterdrückt* et *verdänkt* n’a jamais été convenablement articulé.
+qui est réévoqué : un discours... un discours parfaitement formulé pour lui, et qu’il ne lui est même pas besoin
+
+de faire un effort quelconque pour le réévoquer, il le réévoque tout de suite quand il rend compte de l’affaire …qu’est-ce que ça veut dire que les effets, non point d’un refoulement, mais d’un discours rentré, *unterdrückt*, pour employer même le terme que nous avons à notre portée dans le vocabulaire de FREUD, de s’intéresser sur ce sujet de l’articulation, de la distinction, de la définition, entre *unterdrückt* et *verdänkt* n’a jamais été convenablement articulé.
 
 <!-- id: s12-04-0169 -->
 
@@ -724,7 +728,7 @@ Est-ce que ce n’est pas là - ici je quitte le texte, le texte de FREUD car ce
 
 <!-- id: s12-04-0177 -->
 
-> du fait de l’accommodation du sujet sur le « Herr » puissamment éclairé par la conversation, mis au sommet de l’accent, de ce qui vient de faire de l’un à l’autre des sujets la confidence …c’est comme si le « BO » venait là se placer quelque part, en un point marginal.
+du fait de l’accommodation du sujet sur le « Herr » puissamment éclairé par la conversation, mis au sommet de l’accent, de ce qui vient de faire de l’un à l’autre des sujets la confidence …c’est comme si le « BO » venait là se placer quelque part, en un point marginal.
 
 <!-- id: s12-04-0178 -->
 
@@ -732,7 +736,7 @@ Et qu’est-ce qu’il désigne sinon la place où le « Herr », dit FREUD \[
 
 <!-- id: s12-04-0179 -->
 
-> parce qu’il ne peut point encore le voir, l’articuler, parce que la notion n’est même pas venue au jour, n’est même pas émergée pleinement dans la théorie analytique …ce qu’il ne voit pas c’est que le trouble dont il s’agit ici est essentiellement lié à l’identification.
+parce qu’il ne peut point encore le voir, l’articuler, parce que la notion n’est même pas venue au jour, n’est même pas émergée pleinement dans la théorie analytique …ce qu’il ne voit pas c’est que le trouble dont il s’agit ici est essentiellement lié à l’identification.
 
 <!-- id: s12-04-0180 -->
 
@@ -740,9 +744,9 @@ Ce « Herr » dont il s’agit…
 
 <!-- id: s12-04-0181 -->
 
-> et ce « Herr » qui a gardé à cette occasion tout son poids et toute sa gourme, *qui ne veut pas se laisser aller*
->
-> avec ce simple petit bonhomme de loi, à aller un peu trop loin *dans la confidence médicale* …ici c’est le médecin. Le Herr, le voici : FREUD pour une fois identifié au personnage médical, qui se tient avec un autre à carreau.
+et ce « Herr » qui a gardé à cette occasion tout son poids et toute sa gourme, *qui ne veut pas se laisser aller*
+
+avec ce simple petit bonhomme de loi, à aller un peu trop loin *dans la confidence médicale* …ici c’est le médecin. Le Herr, le voici : FREUD pour une fois identifié au personnage médical, qui se tient avec un autre à carreau.
 
 <!-- id: s12-04-0182 -->
 

@@ -51,32 +51,15 @@
     });
   }
 
-  function dispatchSearchEvent(searchbar) {
-    ["input", "keyup"].forEach(function (eventName) {
-      searchbar.dispatchEvent(new Event(eventName, { bubbles: true }));
-    });
-  }
-
-  function openBookSearch(query, focusSearchbar) {
-    var searchbar = document.getElementById("mdbook-searchbar");
-    if (!searchbar) {
-      return false;
+  function openNavigationSearch(query) {
+    if (
+      window.LacanNavigationSearch &&
+      typeof window.LacanNavigationSearch.open === "function"
+    ) {
+      window.LacanNavigationSearch.open(query);
+      return true;
     }
-
-    var toggle = document.getElementById("mdbook-search-toggle");
-    var searchOuter = document.getElementById("mdbook-searchbar-outer");
-    if (searchOuter && searchOuter.classList.contains("hidden") && toggle) {
-      toggle.click();
-    }
-
-    searchbar.value = query;
-    dispatchSearchEvent(searchbar);
-
-    if (focusSearchbar) {
-      searchbar.focus();
-    }
-
-    return true;
+    return false;
   }
 
   function createSearchForm() {
@@ -87,8 +70,8 @@
     var input = document.createElement("input");
     input.className = "lacan-tool-search-input";
     input.type = "search";
-    input.placeholder = "搜索全文";
-    input.setAttribute("aria-label", "搜索全文");
+    input.placeholder = "搜索标题、知识卡或段落 ID";
+    input.setAttribute("aria-label", "搜索标题、知识卡或段落 ID");
 
     var button = document.createElement("button");
     button.className = "lacan-tool-button";
@@ -99,6 +82,91 @@
     form.appendChild(input);
     form.appendChild(button);
     return form;
+  }
+
+  function setupSearchControls(controls) {
+    var form = controls.querySelector(".lacan-tool-search");
+    if (!form) {
+      form = createSearchForm();
+      controls.appendChild(form);
+    }
+    var oldToggle = controls.querySelector(".lacan-tool-search-toggle");
+    if (oldToggle) oldToggle.remove();
+    form.hidden = false;
+    var input = form.querySelector(".lacan-tool-search-input");
+    if (input) {
+      input.addEventListener("input", function () {
+        openNavigationSearch(input.value);
+      });
+
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        openNavigationSearch(input.value);
+      });
+    }
+  }
+
+  function setupToolPanelToggle(controls) {
+    var content = controls.querySelector(".lacan-tool-panel-content");
+    if (!content) {
+      content = document.createElement("div");
+      content.className = "lacan-tool-panel-content";
+      while (controls.firstChild) content.appendChild(controls.firstChild);
+      controls.appendChild(content);
+    }
+    content.id = "lacan-tool-panel-content";
+
+    var toggle = controls.querySelector(".lacan-tool-panel-toggle");
+    if (!toggle) {
+      toggle = document.createElement("button");
+      toggle.className = "lacan-tool-button lacan-tool-panel-toggle";
+      toggle.type = "button";
+      controls.insertBefore(toggle, content);
+    }
+    toggle.setAttribute("aria-controls", content.id);
+
+    var menuBar = document.getElementById("mdbook-menu-bar");
+    var menuButtons = menuBar && menuBar.querySelector(".left-buttons");
+    if (menuButtons) {
+      menuBar.classList.add("lacan-has-reading-tools");
+      controls.classList.add("lacan-tools-in-menu");
+      controls.setAttribute("aria-label", "阅读工具");
+      toggle.classList.remove("lacan-tool-button");
+      toggle.classList.add("icon-button");
+      menuButtons.appendChild(controls);
+    }
+
+    function setExpanded(expanded) {
+      content.hidden = !expanded;
+      controls.classList.toggle("lacan-tools-collapsed", !expanded);
+      toggle.setAttribute("aria-expanded", String(expanded));
+      toggle.textContent = menuButtons ? "工具" : expanded ? "收起工具" : "阅读工具";
+      toggle.title = expanded ? "收起阅读工具" : "展开阅读工具";
+      toggle.setAttribute("aria-label", toggle.title);
+    }
+
+    setExpanded(false);
+    toggle.addEventListener("click", function () {
+      setExpanded(content.hidden);
+    });
+    controls.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") {
+        event.preventDefault();
+        setExpanded(false);
+        toggle.focus({ preventScroll: true });
+      }
+    });
+    document.addEventListener("click", function (event) {
+      if (
+        menuButtons &&
+        !content.hidden &&
+        !controls.contains(event.target) &&
+        !event.target.closest(".lacan-nav-overlay, .lacan-share-select")
+      ) {
+        setExpanded(false);
+      }
+    });
+    return content;
   }
 
   function createBackToTopButton() {
@@ -113,9 +181,9 @@
 
   function refineThemeMenu() {
     var labels = {
-      default_theme: "自动",
-      light: "浅色",
-      navy: "暗色",
+      default_theme: "跟随系统",
+      light: "浅色 · 纽约时报",
+      navy: "暗色 · 纽约时报",
     };
 
     ["rust", "coal", "ayu"].forEach(function (name) {
@@ -365,36 +433,20 @@
     }
 
     controls.classList.add("lacan-tool-panel");
+    var content = setupToolPanelToggle(controls);
+    setupSearchControls(content);
+    setupShareControls(content);
 
-    var searchForm = controls.querySelector(".lacan-tool-search");
-    if (!searchForm) {
-      searchForm = createSearchForm();
-      controls.appendChild(searchForm);
-    }
-
-    var searchInput = searchForm.querySelector(".lacan-tool-search-input");
-    if (searchInput) {
-      searchInput.addEventListener("input", function () {
-        openBookSearch(searchInput.value, false);
-      });
-
-      searchForm.addEventListener("submit", function (event) {
-        event.preventDefault();
-        openBookSearch(searchInput.value, true);
-      });
-    }
-
-    setupShareControls(controls);
-
-    var backToTop = controls.querySelector(".lacan-back-to-top");
+    var backToTop = content.querySelector(".lacan-back-to-top");
     if (!backToTop) {
       backToTop = createBackToTopButton();
-      controls.appendChild(backToTop);
+      content.appendChild(backToTop);
     }
 
     backToTop.addEventListener("click", function () {
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
+    controls.hidden = false;
   }
 
   function normalizeText(text) {

@@ -22,7 +22,7 @@ C’est à quoi pare...
 
 <!-- id: s25-10-0005 -->
 
-> je parle : au rapport sexuel ...c’est à quoi pare l’interdit de l’inceste.
+je parle : au rapport sexuel ...c’est à quoi pare l’interdit de l’inceste.
 
 <!-- id: s25-10-0006 -->
 
@@ -254,7 +254,7 @@ Freud était-il*...*
 
 <!-- id: s25-10-0063 -->
 
-> il faut bien poser la question quand même
+il faut bien poser la question quand même
 
 <!-- id: s25-10-0064 -->
 

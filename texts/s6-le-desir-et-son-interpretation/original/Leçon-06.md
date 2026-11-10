@@ -110,7 +110,7 @@ Puisqu’il s’agit d’interposer…
 
 <!-- id: s6-06-0027 -->
 
-> à ce moment crucial de la vie du sujet qui est réalisé par la disparition du père
+à ce moment crucial de la vie du sujet qui est réalisé par la disparition du père
 
 <!-- id: s6-06-0028 -->
 
@@ -122,9 +122,9 @@ Puisque aussi bien *la fonction même de l’interdiction* véhiculée par le p�
 
 <!-- id: s6-06-0030 -->
 
-> et nous verrons aujourd’hui que JONES a eu certaines aperceptions très extraordinaires
->
-> de certains points de cette dynamique psychique
+et nous verrons aujourd’hui que JONES a eu certaines aperceptions très extraordinaires
+
+de certains points de cette dynamique psychique
 
 <!-- id: s6-06-0031 -->
 
@@ -172,7 +172,7 @@ Nous voici donc amenés à reprendre par l’autre bout, c’est-à-dire par cel
 
 <!-- id: s6-06-0042 -->
 
-> et nous l’avons introduite à ce propos dans ces images du rêve, et du sens qui nous y est révélé
+et nous l’avons introduite à ce propos dans ces images du rêve, et du sens qui nous y est révélé
 
 <!-- id: s6-06-0043 -->
 
@@ -188,7 +188,7 @@ Cet algorithme va pouvoir nous mener ensemble dans le chemin d’une interrogati
 
 <!-- id: s6-06-0046 -->
 
-> chez le sujet qui n’est pas obligatoirement ni toujours le sujet névrosé
+chez le sujet qui n’est pas obligatoirement ni toujours le sujet névrosé
 
 <!-- id: s6-06-0047 -->
 
@@ -216,7 +216,7 @@ Ce n’était pas absolument que tout élan lui manquât, mais s’il s’y lais
 
 <!-- id: s6-06-0053 -->
 
-> et quelque autre soir qui était dans la période actuelle vécue de l’analyse
+et quelque autre soir qui était dans la période actuelle vécue de l’analyse
 
 <!-- id: s6-06-0054 -->
 
@@ -228,9 +228,9 @@ Bref, ce désir dont on sentait à tout propos assurément qu’il n’était po
 
 <!-- id: s6-06-0056 -->
 
-> ne serait-ce que parce que c’est une analyse en cours et pour beaucoup d’autres raisons encore,
->
-> et c’est l’inconvénient qu’il y a toujours à faire des allusions à des analyses présentes
+ne serait-ce que parce que c’est une analyse en cours et pour beaucoup d’autres raisons encore,
+
+et c’est l’inconvénient qu’il y a toujours à faire des allusions à des analyses présentes
 
 <!-- id: s6-06-0057 -->
 
@@ -290,7 +290,7 @@ C’est là que nous rencontrons ce terme si surprenant et si curieusement déla
 
 <!-- id: s6-06-0071 -->
 
-> dont je vous dis que JONES l’avait émis pour support de sa réflexion
+dont je vous dis que JONES l’avait émis pour support de sa réflexion
 
 <!-- id: s6-06-0072 -->
 
@@ -298,7 +298,7 @@ C’est là que nous rencontrons ce terme si surprenant et si curieusement déla
 
 <!-- id: s6-06-0073 -->
 
-> Phénoménologie - vous le voyez bien par expérience, par les publications - qui reste de plus en plus voilée dans l’expérience analytique si l’on peut dire moderne
+Phénoménologie - vous le voyez bien par expérience, par les publications - qui reste de plus en plus voilée dans l’expérience analytique si l’on peut dire moderne
 
 <!-- id: s6-06-0074 -->
 
@@ -322,7 +322,7 @@ Il ne faut pas s’étonner que ce terme d’ἀϕάνισις \[aphanisis\] qui
 
 <!-- id: s6-06-0079 -->
 
-> dans le texte de JONES vous verrez que c’est bien de *cela* qu’il s’agit, que c’est cela qu’il articule
+dans le texte de JONES vous verrez que c’est bien de *cela* qu’il s’agit, que c’est cela qu’il articule
 
 <!-- id: s6-06-0080 -->
 
@@ -346,7 +346,7 @@ Aussi bien cette utilisation de l’ἀϕάνισις \[aphanisis\]…
 
 <!-- id: s6-06-0085 -->
 
-> qu’elle soit à l’origine de l’invention ou qu’elle soit seulement dans ses suites
+qu’elle soit à l’origine de l’invention ou qu’elle soit seulement dans ses suites
 
 <!-- id: s6-06-0086 -->
 
@@ -362,9 +362,9 @@ La question n’est pas de savoir si nous avons à tenir compte objectivement du
 
 <!-- id: s6-06-0089 -->
 
-> ce cher « *élan vital* », cette charmante incarnation, c’est bien là le cas de parler d’*anthropomorphisme*
->
-> du désir humain dans la nature
+ce cher « *élan vital* », cette charmante incarnation, c’est bien là le cas de parler d’*anthropomorphisme*
+
+du désir humain dans la nature
 
 <!-- id: s6-06-0090 -->
 
@@ -412,9 +412,9 @@ Et vous savez qu’à travers toute son œuvre, c’est là une des formes méta
 
 <!-- id: s6-06-0101 -->
 
-> je parle dans les propos les plus concrets, qu’il parle de sa femme,
->
-> qu’il parle d’Irma, qu’il parle du sujet qui résiste en général
+je parle dans les propos les plus concrets, qu’il parle de sa femme,
+
+qu’il parle d’Irma, qu’il parle du sujet qui résiste en général
 
 <!-- id: s6-06-0102 -->
 
@@ -530,7 +530,7 @@ Et si vous voulez que nous essayions ici de faire le pont avec *la psychologie a
 
 <!-- id: s6-06-0130 -->
 
-> pour ce qui est de l’éthologie, par un de nos confrères
+pour ce qui est de l’éthologie, par un de nos confrères
 
 <!-- id: s6-06-0131 -->
 
@@ -538,7 +538,7 @@ Et si vous voulez que nous essayions ici de faire le pont avec *la psychologie a
 
 <!-- id: s6-06-0132 -->
 
-> je ne voulais pas vous le dire parce que cela va vous donner des distractions
+je ne voulais pas vous le dire parce que cela va vous donner des distractions
 
 <!-- id: s6-06-0133 -->
 
@@ -570,7 +570,7 @@ J’ai pensé à ce petit livre parce que son auteur a ceci en commun avec moi q
 
 <!-- id: s6-06-0140 -->
 
-> *mammifère essentiellement problématique,* il n’y a qu’à voir le rôle que jouent les mammes dans notre imagination
+*mammifère essentiellement problématique,* il n’y a qu’à voir le rôle que jouent les mammes dans notre imagination
 
 <!-- id: s6-06-0141 -->
 
@@ -582,7 +582,7 @@ Tout le monde est d’accord là-dessus, pourvu qu’il ait un peu de sensibilit
 
 <!-- id: s6-06-0143 -->
 
-> qui a de bien mauvaises idées métaphysiques, mais qui est tout de même un grand poète
+qui a de bien mauvaises idées métaphysiques, mais qui est tout de même un grand poète
 
 <!-- id: s6-06-0144 -->
 
@@ -598,7 +598,7 @@ Elles sont grandes semble-t-il, et une des choses essentielles, c’est qu’il 
 
 <!-- id: s6-06-0147 -->
 
-> parce qu’il faut quand même bien qu’il ait quelques réserves de ressources
+parce qu’il faut quand même bien qu’il ait quelques réserves de ressources
 
 <!-- id: s6-06-0148 -->
 
@@ -610,7 +610,7 @@ Ceci pour vous dire que nous savons bien que nous ne sommes pas sans *amorce d�
 
 <!-- id: s6-06-0150 -->
 
-> et à la vérité ceci ne saurait entrer dans la question si nous n’avions pas ce singulier truchement du langage qui, lui, nous ne savons pas d’où il vient, mais c’est lui qui fait intervenir là-dedans la complication essentielle, c’est-à-dire qu’il nous a menés à ce rapport problématique avec l’objet
+et à la vérité ceci ne saurait entrer dans la question si nous n’avions pas ce singulier truchement du langage qui, lui, nous ne savons pas d’où il vient, mais c’est lui qui fait intervenir là-dedans la complication essentielle, c’est-à-dire qu’il nous a menés à ce rapport problématique avec l’objet
 
 <!-- id: s6-06-0151 -->
 
@@ -634,7 +634,7 @@ Mais laissons cela pour l’instant aujourd’hui simplement à l’état d’am
 
 <!-- id: s6-06-0156 -->
 
-> sous une forme qui est elle-même une forme qui n’est pas sans latence et sans retour
+sous une forme qui est elle-même une forme qui n’est pas sans latence et sans retour
 
 <!-- id: s6-06-0157 -->
 
@@ -654,7 +654,7 @@ La façon dont, à propos des termes émancipatoires de la femme dans MILL…
 
 <!-- id: s6-06-0161 -->
 
-> dont vous savez que FREUD s’est fait *le traducteur* à un moment, sur les instances de GOMPREZS
+dont vous savez que FREUD s’est fait *le traducteur* à un moment, sur les instances de GOMPREZS
 
 <!-- id: s6-06-0162 -->
 
@@ -694,7 +694,7 @@ Ceci est évidemment lié à des données de fait, mais aussi à des données *i
 
 <!-- id: s6-06-0171 -->
 
-> d’ailleurs ni pour nous ni, bien entendu, pour nos patients, et peut-être sur ce point nous nous confondons
+d’ailleurs ni pour nous ni, bien entendu, pour nos patients, et peut-être sur ce point nous nous confondons
 
 <!-- id: s6-06-0172 -->
 
@@ -706,7 +706,7 @@ Nous allons voir en effet que cette *identification à l’image du père* n’e
 
 <!-- id: s6-06-0174 -->
 
-> je veux dire dans les rapports, dans cet affrontement du S avec le *(a)* de *l’objet* \[S ◊ *a*\]
+je veux dire dans les rapports, dans cet affrontement du S avec le *(a)* de *l’objet* \[S ◊ *a*\]
 
 <!-- id: s6-06-0175 -->
 
@@ -742,7 +742,7 @@ Inversement ce que devient le sujet, le point où il se structure, pourquoi il s
 
 <!-- id: s6-06-0183 -->
 
-> à savoir par vous être aperçu dans sa nécessité structurale absolument rigoureuse
+à savoir par vous être aperçu dans sa nécessité structurale absolument rigoureuse
 
 <!-- id: s6-06-0184 -->
 

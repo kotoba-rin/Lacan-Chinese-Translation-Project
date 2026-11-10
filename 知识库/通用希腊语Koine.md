@@ -4,9 +4,9 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XVII
-  - 领域/古典学
-  - 领域/语言史
+  - 领域/语言符号与文献/语言学与语法
   - 语言/古希腊语
+  - 时期/古典时代
 verified_at: 2026-07-28
 ---
 

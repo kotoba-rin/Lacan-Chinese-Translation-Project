@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/技术
-  - 领域/软件工程
+  - 领域/技术与计算/计算机与软件
+  - 领域/技术与计算/技术与工程
   - 概念/版本控制
 verified_at: 2026-07-28
 ---

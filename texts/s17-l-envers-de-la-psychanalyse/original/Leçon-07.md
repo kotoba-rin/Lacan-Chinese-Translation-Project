@@ -14,7 +14,7 @@ Ce qui est remarquable dans la formulation que je vais essayer de vous donner du
 
 <!-- id: s17-07-0003 -->
 
-> *Discours du Maître* *Discours analytique*
+*Discours du Maître* *Discours analytique*
 
 <!-- id: s17-07-0004 -->
 
@@ -34,7 +34,7 @@ C’est d’un niveau d’équivalence dans le fonc­tionnement, par exemple de 
 
 <!-- id: s17-07-0008 -->
 
-> pour fixer les idées si je puis dire, ou tout au moins fixer l’accommodation mentale, ...*du discours Universitaire* : **S<sub>1</sub>**(M) ≈ **S<sub>2</sub>**(U).
+pour fixer les idées si je puis dire, ou tout au moins fixer l’accommodation mentale, ...*du discours Universitaire* : **S<sub>1</sub>**(M) ≈ **S<sub>2</sub>**(U).
 
 <!-- id: s17-07-0009 -->
 
@@ -46,7 +46,7 @@ C’est la place de *la vérité*, en tant qu’elle lui est...
 
 <!-- id: s17-07-0011 -->
 
-> dans mes divers petits schémas dits « *à quatre pattes* » ...sous-jacente, qui pose bien son problème et qui, de ne pouvoir s’occuper au niveau du *discours du Maître* que de ce S barré : **S,** qu’à vrai dire, au 1<sup>er</sup> abord rien ne nécessite, car *qu’est-ce qui*, d’un 1<sup>er</sup> temps, *ne se pose pas tranquillement comme identique à soi-même*.
+dans mes divers petits schémas dits « *à quatre pattes* » ...sous-jacente, qui pose bien son problème et qui, de ne pouvoir s’occuper au niveau du *discours du Maître* que de ce S barré : **S,** qu’à vrai dire, au 1<sup>er</sup> abord rien ne nécessite, car *qu’est-ce qui*, d’un 1<sup>er</sup> temps, *ne se pose pas tranquillement comme identique à soi-même*.
 
 <!-- id: s17-07-0012 -->
 
@@ -66,9 +66,9 @@ La formule exemplaire...
 
 <!-- id: s17-07-0016 -->
 
-> dont - au moment, il y a 2 ans - où j’essayais d’articuler *L’acte psychanalytique* [^25],
->
-> trajet qui, resté en panne, ne sera - comme d’autres - jamais repris ...la formule donc, per­cutante, que j’ai formulée de l’«* ou je ne pense pas, ou je ne suis pas *» alternative, est bien là ce qui assurément d’être seulement amené, fait figure, et assez résonnante, dès qu’il s’agit du *dis­cours du Maître*.
+dont - au moment, il y a 2 ans - où j’essayais d’articuler *L’acte psychanalytique* [^25],
+
+trajet qui, resté en panne, ne sera - comme d’autres - jamais repris ...la formule donc, per­cutante, que j’ai formulée de l’«* ou je ne pense pas, ou je ne suis pas *» alternative, est bien là ce qui assurément d’être seulement amené, fait figure, et assez résonnante, dès qu’il s’agit du *dis­cours du Maître*.
 
 <!-- id: s17-07-0017 -->
 
@@ -144,9 +144,9 @@ Ici apparaît quelque chose d’important à souligner, car à la vérité chacu
 
 <!-- id: s17-07-0035 -->
 
-> celle dont se situe un discours a, bien entendu, de cette *ambiva­lence* même - comme nous reprendrons
->
-> le mot en un autre sens - par quoi la vérité ne se figure que d’un *mi-dire* …chacune de ces formules prend des sens singulièrement opposés.
+celle dont se situe un discours a, bien entendu, de cette *ambiva­lence* même - comme nous reprendrons
+
+le mot en un autre sens - par quoi la vérité ne se figure que d’un *mi-dire* …chacune de ces formules prend des sens singulièrement opposés.
 
 <!-- id: s17-07-0036 -->
 
@@ -162,7 +162,7 @@ Parce qu’en quelque sorte c’est le *discours Universitaire * qui montre, qu
 
 <!-- id: s17-07-0039 -->
 
-> *Discours Universitaire*
+*Discours Universitaire*
 
 <!-- id: s17-07-0040 -->
 
@@ -190,7 +190,7 @@ Et pourquoi jeter en circulation ce savoir...
 
 <!-- id: s17-07-0046 -->
 
-> même de pure logique ...s’il semble qu’à partir de lui beaucoup d’un certain statut de repos, peut être ébranlé ?
+même de pure logique ...s’il semble qu’à partir de lui beaucoup d’un certain statut de repos, peut être ébranlé ?
 
 <!-- id: s17-07-0047 -->
 
@@ -266,7 +266,7 @@ Il est « *astudé* » parce que, comme tout travailleur...
 
 <!-- id: s17-07-0065 -->
 
-> repérez-vous sur les autres petits cadres ...il a à produire quelque chose...
+repérez-vous sur les autres petits cadres ...il a à produire quelque chose...
 
 <!-- id: s17-07-0066 -->
 
@@ -302,7 +302,7 @@ Le malaise des « *astudés* » n’est pourtant pas sans rapport avec ceci, q
 
 <!-- id: s17-07-0074 -->
 
-> comme ça, aux dernières nouvelles ...dans la zone des « *sciences humaines* », semble présenter quelques difficultés.
+comme ça, aux dernières nouvelles ...dans la zone des « *sciences humaines* », semble présenter quelques difficultés.
 
 <!-- id: s17-07-0075 -->
 
@@ -310,9 +310,9 @@ Et c’est ainsi que pour une science si bien assise d’un côté, et si évide
 
 <!-- id: s17-07-0076 -->
 
-> assez con­quérante pour se qualifier d’« *humaine »*,
->
-> sans doute parce qu’elle prend les hommes pour *humus* \[*disc.* H, U, M\] ...eh bien il se passe des choses, il se passe des choses qui en somme nous font retomber sur nos pieds, et nous font toucher qu’au niveau de *la vérité*, le fait d’y substituer le pur et simple commandement, celui du Maître... « celui du Maître » : ne croyez pas que le Maître soit toujours là, c’est le commandement qui reste ...l’impératif catégorique « *Continue à savoir* », il n’y a plus besoin qu’il y ait personne là, nous sommes tous « embarqués », comme dit Pascal, dans *le discours de la science*.
+assez con­quérante pour se qualifier d’« *humaine »*,
+
+sans doute parce qu’elle prend les hommes pour *humus* \[*disc.* H, U, M\] ...eh bien il se passe des choses, il se passe des choses qui en somme nous font retomber sur nos pieds, et nous font toucher qu’au niveau de *la vérité*, le fait d’y substituer le pur et simple commandement, celui du Maître... « celui du Maître » : ne croyez pas que le Maître soit toujours là, c’est le commandement qui reste ...l’impératif catégorique « *Continue à savoir* », il n’y a plus besoin qu’il y ait personne là, nous sommes tous « embarqués », comme dit Pascal, dans *le discours de la science*.
 
 <!-- id: s17-07-0077 -->
 
@@ -336,7 +336,7 @@ qui à la vérité seraient très justement qualifiées de réactionnaires ...il
 
 <!-- id: s17-07-0082 -->
 
-> qu’à la vérité je ne pense pas être très porté à fréquenter à l’endroit où je parle ...on pourrait en déduire \[cela\], de ce dont je suis en train de parler...
+qu’à la vérité je ne pense pas être très porté à fréquenter à l’endroit où je parle ...on pourrait en déduire \[cela\], de ce dont je suis en train de parler...
 
 <!-- id: s17-07-0083 -->
 
@@ -412,7 +412,7 @@ Il dit au sujet : « *Allez-y, dites* - comme on dit - *tout ce qui vous passe
 
 <!-- id: s17-07-0101 -->
 
-> *qu’ou bien vous ne pensez pas, ou bien vous n’êtes rien du tout, ça peut aller, ce que vous produirez sera toujours recevable* ».
+*qu’ou bien vous ne pensez pas, ou bien vous n’êtes rien du tout, ça peut aller, ce que vous produirez sera toujours recevable* ».
 
 <!-- id: s17-07-0102 -->
 
@@ -444,7 +444,7 @@ Ce qui est masqué au niveau de Marx, c’est que le Maître...
 
 <!-- id: s17-07-0109 -->
 
-> à qui c’est dû ce *plus de jouir* ...le Maître a renoncé à tout*, à la jouissance* d’abord puis­qu’*il s’est exposé à la mort*, et qu’il reste bien fixé dans cette position.
+à qui c’est dû ce *plus de jouir* ...le Maître a renoncé à tout*, à la jouissance* d’abord puis­qu’*il s’est exposé à la mort*, et qu’il reste bien fixé dans cette position.
 
 <!-- id: s17-07-0110 -->
 
@@ -464,9 +464,9 @@ Alors si le Maître, dans tout ça, fait un petit effort pour que tout marche, c
 
 <!-- id: s17-07-0114 -->
 
-> ça je pense vous l’avoir bien expliqué en son temps,
->
-> mais je le reprends parce qu’on ne saurait trop répéter les choses importantes ...que c’est comme ça que la jouissance est revenu à portée du Maître pour manifester son exigence.
+ça je pense vous l’avoir bien expliqué en son temps,
+
+mais je le reprends parce qu’on ne saurait trop répéter les choses importantes ...que c’est comme ça que la jouissance est revenu à portée du Maître pour manifester son exigence.
 
 <!-- id: s17-07-0115 -->
 
@@ -490,7 +490,7 @@ Parce que, ce n’est pas parce qu’on *nationa­lise*...
 
 <!-- id: s17-07-0120 -->
 
-> au niveau du « *socialisme d’un seul pays »* ...*les moyens de produc­tion*, qu’on en a fini pour autant avec *la plus-value*, si on ne sait pas ce que c’est.
+au niveau du « *socialisme d’un seul pays »* ...*les moyens de produc­tion*, qu’on en a fini pour autant avec *la plus-value*, si on ne sait pas ce que c’est.
 
 <!-- id: s17-07-0121 -->
 
@@ -558,7 +558,7 @@ Nous verrons que c’est le fait qu’*ailleurs*...
 
 <!-- id: s17-07-0137 -->
 
-> tout à fait spécialement : *dans le discours analytique, il s’étale sur une ligne horizontale, et d’une façon tout à fait équilibrée* ...que le fan­tasme peut sortir, nous en dit un peu plus sur ce qu’il en est du fondement du *discours du Maître*.
+tout à fait spécialement : *dans le discours analytique, il s’étale sur une ligne horizontale, et d’une façon tout à fait équilibrée* ...que le fan­tasme peut sortir, nous en dit un peu plus sur ce qu’il en est du fondement du *discours du Maître*.
 
 <!-- id: s17-07-0138 -->
 
@@ -582,11 +582,11 @@ Et pour prendre les choses...
 
 <!-- id: s17-07-0143 -->
 
-> c’est pas pour rien que j’ai fait ce détour ...au niveau de l’actualité : la mauvaise tolérance, disons une certaine *galopade* qu’a prise *le savoir* sous la forme dite de « *la science »*, de *la science moderne*, peut peut-être simplement...
+c’est pas pour rien que j’ai fait ce détour ...au niveau de l’actualité : la mauvaise tolérance, disons une certaine *galopade* qu’a prise *le savoir* sous la forme dite de « *la science »*, de *la science moderne*, peut peut-être simplement...
 
 <!-- id: s17-07-0144 -->
 
-> sans toujours que nous y comprenions beaucoup plus loin que le bout de notre nez ...nous faire sentir qu’assurément si *quelque part* nous avons une chance que *cela prenne un sens* « *le savoir interrogé en fonction de vérité »,* ça doit être, tout au moins si nous faisons confiance à notre petit « *tourniquet* » - ça doit être là \[*discours* A\] que ça prend son sens.
+sans toujours que nous y comprenions beaucoup plus loin que le bout de notre nez ...nous faire sentir qu’assurément si *quelque part* nous avons une chance que *cela prenne un sens* « *le savoir interrogé en fonction de vérité »,* ça doit être, tout au moins si nous faisons confiance à notre petit « *tourniquet* » - ça doit être là \[*discours* A\] que ça prend son sens.
 
 <!-- id: s17-07-0145 -->
 
@@ -742,7 +742,7 @@ Alors le mythe, le mythe d’Œdipe tel que Freud le fait fonctionner...
 
 <!-- id: s17-07-0183 -->
 
-> je peux vous le dire pour ceux qui ne le savent pas *...les mythographes* ça les fait plutôt rigoler. Ils trouvent ça absolument mal venu.
+je peux vous le dire pour ceux qui ne le savent pas *...les mythographes* ça les fait plutôt rigoler. Ils trouvent ça absolument mal venu.
 
 <!-- id: s17-07-0184 -->
 
@@ -766,9 +766,9 @@ qualifié comme tel, enfin de la bonne école, de la bonne veine, qui commence �
 
 <!-- id: s17-07-0189 -->
 
-> enfin ça le taquinait, ça le tracassait d’en avoir dit comme ça pis que pendre, surtout qu’il a vu
->
-> que ça se répandait, à savoir que le moindre étudiant croyait pouvoir faire *chorus*, ça il n’a pas pu le supporter ...alors il a fait remarquer que quand même ça devait bien avoir sa raison d’être, qu’il y avait quelque chose, il pouvait pas dire quoi, ce mythe d’Œdipe, enfin il y avait là un os.
+enfin ça le taquinait, ça le tracassait d’en avoir dit comme ça pis que pendre, surtout qu’il a vu
+
+que ça se répandait, à savoir que le moindre étudiant croyait pouvoir faire *chorus*, ça il n’a pas pu le supporter ...alors il a fait remarquer que quand même ça devait bien avoir sa raison d’être, qu’il y avait quelque chose, il pouvait pas dire quoi, ce mythe d’Œdipe, enfin il y avait là un os.
 
 <!-- id: s17-07-0190 -->
 
@@ -800,7 +800,7 @@ Tout ceci pour vous dire que tout ça, tout de même je mets les choses en ordre
 
 <!-- id: s17-07-0197 -->
 
-> enfin que je fais bien sûr moi-même tout entier : personne ne m’a aidé ...pour qu’on sache ce que c’est que « *Les formations de l’incons­cient* [^30]» par exemple, ou « *La relation d’objet* », alors mainte­nant on croirait simplement que je fais des galipettes autour de Freud : c’est pas tout à fait de ça qu’il s’agit.
+enfin que je fais bien sûr moi-même tout entier : personne ne m’a aidé ...pour qu’on sache ce que c’est que « *Les formations de l’incons­cient* [^30]» par exemple, ou « *La relation d’objet* », alors mainte­nant on croirait simplement que je fais des galipettes autour de Freud : c’est pas tout à fait de ça qu’il s’agit.
 
 <!-- id: s17-07-0198 -->
 
@@ -856,7 +856,7 @@ Alors j’ai essayé d’expliquer que ce qu’il y avait ras­surant c’est qu
 
 <!-- id: s17-07-0211 -->
 
-> comme ça je vous dis des choses simples\[*Rires*\] ...il y avait quelque chose qui était ras­surant - j’improvise *un peu* \[*Rires*\] - un rouleau comme ça, bien dur, en pierre, qui est là en puissance au niveau du clapet, ça retient, ça coince: c’est ce qu’on appelle le *phallus*, le rouleau qui vous met à l’abri si tout d’un coup ça se referme.
+comme ça je vous dis des choses simples\[*Rires*\] ...il y avait quelque chose qui était ras­surant - j’improvise *un peu* \[*Rires*\] - un rouleau comme ça, bien dur, en pierre, qui est là en puissance au niveau du clapet, ça retient, ça coince: c’est ce qu’on appelle le *phallus*, le rouleau qui vous met à l’abri si tout d’un coup ça se referme.
 
 <!-- id: s17-07-0212 -->
 
@@ -1064,7 +1064,7 @@ Alors cet acharnement à *la fra­ternité*...
 
 <!-- id: s17-07-0261 -->
 
-> sans compter le reste, *la liberté* et *l’égalité* \[*Rires*\] ...c’est quelque chose de gratiné, dont il conviendrait quand même qu’on aperçoive de ce que ça recouvre.
+sans compter le reste, *la liberté* et *l’égalité* \[*Rires*\] ...c’est quelque chose de gratiné, dont il conviendrait quand même qu’on aperçoive de ce que ça recouvre.
 
 <!-- id: s17-07-0262 -->
 
@@ -1088,9 +1088,9 @@ Simplement la société comme on l’appelle...
 
 <!-- id: s17-07-0267 -->
 
-> enfin moi je veux pas l’appeler *humaine* justement, je réserve mes termes,
->
-> je fais attention à ce que je dis, je ne suis pas un homme de gauche \[*Rires*\] ...*je constate que tout ce qui existe est fondé sur la ségrégation, et au pre­mier terme, la fraternité*.
+enfin moi je veux pas l’appeler *humaine* justement, je réserve mes termes,
+
+je fais attention à ce que je dis, je ne suis pas un homme de gauche \[*Rires*\] ...*je constate que tout ce qui existe est fondé sur la ségrégation, et au pre­mier terme, la fraternité*.
 
 <!-- id: s17-07-0268 -->
 
@@ -1246,7 +1246,7 @@ Même s’adressant à *Osée*, il ne s’agit que de ça : tout son peuple s�
 
 <!-- id: s17-07-0306 -->
 
-> quand nous explorons *le discours du Maître* ...découvre : qu’il n’y a pas de *rapport sexuel*, je vous l’ai déjà exprimé fortement.
+quand nous explorons *le discours du Maître* ...découvre : qu’il n’y a pas de *rapport sexuel*, je vous l’ai déjà exprimé fortement.
 
 <!-- id: s17-07-0307 -->
 
@@ -1334,11 +1334,11 @@ Ce qui est clair c’est que...
 
 <!-- id: s17-07-0328 -->
 
-> simplement à voir comment Freud articule ce mythe fondamental,
->
-> qu’il est véritablement abusif de mettre sous la même acco­lade qu’Œdipe :
->
-> qu’est-ce que Moïse - *foutre de nom de Dieu, c’est le cas de le dire !* - a à faire avec Œdipe et *le père de la horde primitive* ? ...c’est qu’il doit bien y avoir là-dedans quelque chose qui tient du « *contenu manifeste »* et du « *contenu latent »*, que pour tout dire, et pour conclure aujourd’hui, je vous dirai que ce que nous nous proposons, c’est de l’analyse du «* complexe d’Œdipe *» comme étant *un rêve de Freud*.
+simplement à voir comment Freud articule ce mythe fondamental,
+
+qu’il est véritablement abusif de mettre sous la même acco­lade qu’Œdipe :
+
+qu’est-ce que Moïse - *foutre de nom de Dieu, c’est le cas de le dire !* - a à faire avec Œdipe et *le père de la horde primitive* ? ...c’est qu’il doit bien y avoir là-dedans quelque chose qui tient du « *contenu manifeste »* et du « *contenu latent »*, que pour tout dire, et pour conclure aujourd’hui, je vous dirai que ce que nous nous proposons, c’est de l’analyse du «* complexe d’Œdipe *» comme étant *un rêve de Freud*.
 
 ## Notes
 

@@ -42,11 +42,11 @@ La dernière fois, en vous traçant le programme de ce que je désire par­couri
 
 <!-- id: s7-02-0010 -->
 
-> programme qui s’étend de la reconnaissance de l’omniprésence de l’infiltration dans toute notre expérience
->
-> de *l’impératif moral,* jusqu’à quelque chose qui est l’autre bout, à savoir, paradoxalement *le plaisir*
->
-> que nous pouvons y prendre en fin de compte, au second degré, à savoir le masochisme moral
+programme qui s’étend de la reconnaissance de l’omniprésence de l’infiltration dans toute notre expérience
+
+de *l’impératif moral,* jusqu’à quelque chose qui est l’autre bout, à savoir, paradoxalement *le plaisir*
+
+que nous pouvons y prendre en fin de compte, au second degré, à savoir le masochisme moral
 
 <!-- id: s7-02-0011 -->
 
@@ -58,9 +58,9 @@ Je vous ai indiqué que paradoxalement ma thèse...
 
 <!-- id: s7-02-0013 -->
 
-> et sans aucun doute ici, ne vous étonnez pas qu’elle ne se présente d’abord que d’une manière confuse,
->
-> car c’est bien entendu le développement de notre discours qui lui donnera son poids
+et sans aucun doute ici, ne vous étonnez pas qu’elle ne se présente d’abord que d’une manière confuse,
+
+car c’est bien entendu le développement de notre discours qui lui donnera son poids
 
 <!-- id: s7-02-0014 -->
 
@@ -84,9 +84,9 @@ Qu’est-ce que c’est que ce dernier terme...
 
 <!-- id: s7-02-0019 -->
 
-> cette sorte de *loi au delà de toute loi* qui ne peut se poser que comme d’une *structure dernière*,
->
-> d’une sorte de *point de fuite* de toute réalité possible à atteindre
+cette sorte de *loi au delà de toute loi* qui ne peut se poser que comme d’une *structure dernière*,
+
+d’une sorte de *point de fuite* de toute réalité possible à atteindre
 
 <!-- id: s7-02-0020 -->
 
@@ -130,9 +130,9 @@ Si *la loi morale* doit être ainsi posée dans cette référence, et déjà vou
 
 <!-- id: s7-02-0030 -->
 
-> pour qu’aussi bien vous ne l’oubliez pas, ou vous ne croyiez pas que je m’engage dans cette voie d’une façon qui, en quelque sorte, ne comporterait qu’un sondage, une sorte d’objectivation, qu’une sorte de référence
->
-> de ce qui, dans l’expérience morale, est l’instance impérative comme telle, sous quelque forme qu’elle se présente
+pour qu’aussi bien vous ne l’oubliez pas, ou vous ne croyiez pas que je m’engage dans cette voie d’une façon qui, en quelque sorte, ne comporterait qu’un sondage, une sorte d’objectivation, qu’une sorte de référence
+
+de ce qui, dans l’expérience morale, est l’instance impérative comme telle, sous quelque forme qu’elle se présente
 
 <!-- id: s7-02-0031 -->
 
@@ -188,9 +188,9 @@ Le problème est donc celui-ci...
 
 <!-- id: s7-02-0044 -->
 
-> ramené sans doute au point où l’avait laissé SOCRATE[^5] avec sans doute,
->
-> un optimisme dont l’excès n’a pas manqué de frapper ses plus immédiats successeurs
+ramené sans doute au point où l’avait laissé SOCRATE[^5] avec sans doute,
+
+un optimisme dont l’excès n’a pas manqué de frapper ses plus immédiats successeurs
 
 <!-- id: s7-02-0045 -->
 
@@ -278,11 +278,15 @@ Quand FREUD est en cours de son auto-analyse, il écrit, dans une courte lettre,
 
 <!-- id: s7-02-0066 -->
 
-> « *Meine Analyse geht weiter. Mon analyse se poursuit, elle reste mon intérêt principal. Tout en restant encore obscurs,*
->
-> *certains problèmes appellent, mais le problème dont il s’agit met là-dessus quelque chose, un sentiment de confortable.*
->
-> *C’est -* dit-il *- comme si on avait à prendre, à puiser dans une chambre à provision, et à en tirer des choses, ce dont on a besoin*.
+<div class="text-quotation">
+
+« *Meine Analyse geht weiter. Mon analyse se poursuit, elle reste mon intérêt principal. Tout en restant encore obscurs,*
+
+*certains problèmes appellent, mais le problème dont il s’agit met là-dessus quelque chose, un sentiment de confortable.*
+
+*C’est -* dit-il *- comme si on avait à prendre, à puiser dans une chambre à provision, et à en tirer des choses, ce dont on a besoin*.
+
+</div>
 
 <!-- id: s7-02-0067 -->
 
@@ -306,7 +310,11 @@ Il ajoute d’ailleurs dans la même ligne :
 
 <!-- id: s7-02-0072 -->
 
-> « *Même l’excitation sexuelle est, pour quelqu’un comme moi, quelque chose, dans cette voie, d’inutilisable.* *Même en ceci je ne me fie pas pour voir où sont les réalités dernières. Je garde dans toute cette affaire ma bonne humeur.* *Avant d’arriver au résultat, nous devons encore savoir garder un instant de patience*. » \[« *Auch die sexuelle Erregung ist für eine wie ich nicht mehr zu brauchen. Ich bin aber noch immer freudig dabei.*
+<div class="text-quotation">
+
+« *Même l’excitation sexuelle est, pour quelqu’un comme moi, quelque chose, dans cette voie, d’inutilisable.* *Même en ceci je ne me fie pas pour voir où sont les réalités dernières. Je garde dans toute cette affaire ma bonne humeur.* *Avant d’arriver au résultat, nous devons encore savoir garder un instant de patience*. » \[« *Auch die sexuelle Erregung ist für eine wie ich nicht mehr zu brauchen. Ich bin aber noch immer freudig dabei.*
+
+</div>
 
 <!-- id: s7-02-0073 -->
 
@@ -362,9 +370,9 @@ Il importe donc plus encore de voir qu’en somme, pour expliquer quelque chose 
 
 <!-- id: s7-02-0086 -->
 
-> vers l’*erreur*, vers *quelque chose* qui pointe dans le fait que cet organisme
->
-> semble tout entier fait, non pour *satisfaire le besoin*, mais pour *halluciner le besoin*
+vers l’*erreur*, vers *quelque chose* qui pointe dans le fait que cet organisme
+
+semble tout entier fait, non pour *satisfaire le besoin*, mais pour *halluciner le besoin*
 
 <!-- id: s7-02-0087 -->
 

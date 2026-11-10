@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/语言学
+  - 领域/语言符号与文献/语源修辞与造词
   - 时期/中世纪
   - 人物/塞维利亚的伊西多尔
   - 概念/词源学

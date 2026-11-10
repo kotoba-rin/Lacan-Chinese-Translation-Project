@@ -26,7 +26,7 @@ Je vous signale que ce que je vous ai dessiné la dernière fois, sous la forme 
 
 <!-- id: s25-11-0006 -->
 
-> si on la coupe en deux comme ceci ...le résultat est ce qu’on appelle un nœud à 3, c’est-à-dire quelque chose qui se présente comme ça.
+si on la coupe en deux comme ceci ...le résultat est ce qu’on appelle un nœud à 3, c’est-à-dire quelque chose qui se présente comme ça.
 
 <!-- id: s25-11-0007 -->
 
@@ -166,15 +166,15 @@ Bon alors, pour mettre cette figure à plat, pour l’aplatir et obtenir quelque
 
 <!-- id: s25-11-0041 -->
 
-> enfin, il n’y en a pas des masses, il n’y a que l’*hexa­gone*, le *carré* et le *triangle équilatéral* ...pour ça j’ai une solution très simple qui est de coller les deux bords ensemble...
+enfin, il n’y en a pas des masses, il n’y a que l’*hexa­gone*, le *carré* et le *triangle équilatéral* ...pour ça j’ai une solution très simple qui est de coller les deux bords ensemble...
 
 <!-- id: s25-11-0042 -->
 
-> enfin coller *<u>un</u>* bord, accoler un bord à lui-même ...et aplatir, c’est-à-dire que si je fais hachurer ce qui vient là où la surface vient deux fois l’une sur l’autre... bon c’est ça : j’obtiens un carré. Bon là ce n’est pas un carré, mais ça pourrait être, à condition que ma bande ait le double de longueur que de largeur et j’obtiens un carré. \[**1**\] À partir d’**½** *torsion*, là le problème va être plus compliqué, mais ce qu’on remarque déjà, c’est que chaque fois on obtiendra...
+enfin coller *<u>un</u>* bord, accoler un bord à lui-même ...et aplatir, c’est-à-dire que si je fais hachurer ce qui vient là où la surface vient deux fois l’une sur l’autre... bon c’est ça : j’obtiens un carré. Bon là ce n’est pas un carré, mais ça pourrait être, à condition que ma bande ait le double de longueur que de largeur et j’obtiens un carré. \[**1**\] À partir d’**½** *torsion*, là le problème va être plus compliqué, mais ce qu’on remarque déjà, c’est que chaque fois on obtiendra...
 
 <!-- id: s25-11-0043 -->
 
-> enfin jusqu’à 5 ...on obtiendra un polygone régulier sans trou. C’est-à-dire ce qui est le trou de la bande trouve un moyen de se résorber pour obtenir un polygone régulier, et ça sera même le seul que je pourrai obtenir.
+enfin jusqu’à 5 ...on obtiendra un polygone régulier sans trou. C’est-à-dire ce qui est le trou de la bande trouve un moyen de se résorber pour obtenir un polygone régulier, et ça sera même le seul que je pourrai obtenir.
 
 <!-- id: s25-11-0044 -->
 
@@ -250,7 +250,7 @@ Mais pour rendre ces figures plus lisibles...
 
 <!-- id: s25-11-0062 -->
 
-> là aussi le bord vient s’accoler à lui-même, c’est-à-dire là il est deux fois ...il faudrait que je le dessine avec un petit écartement pour rendre la chose visible. En dessinant, en hachu­rant toujours là où ça se recouvre, voilà avec un petit écartement pour voir comment le trou, les bords du trou se nouent entre eux :
+là aussi le bord vient s’accoler à lui-même, c’est-à-dire là il est deux fois ...il faudrait que je le dessine avec un petit écartement pour rendre la chose visible. En dessinant, en hachu­rant toujours là où ça se recouvre, voilà avec un petit écartement pour voir comment le trou, les bords du trou se nouent entre eux :
 
 <!-- id: s25-11-0063 -->
 
@@ -318,7 +318,7 @@ Alors si tu réduis ces 3 bords à n’être plus rien, tu obtiens une forme qui
 
 <!-- id: s25-11-0079 -->
 
-> que je ne fais pas tout à fait triangulaire pour que ce soit plus facilement représentable ...et où tu as ce bord en fait qui va - ce n’est pas facile à représenter - et où tu as en fait :
+que je ne fais pas tout à fait triangulaire pour que ce soit plus facilement représentable ...et où tu as ce bord en fait qui va - ce n’est pas facile à représenter - et où tu as en fait :
 
 <!-- id: s25-11-0080 -->
 
@@ -474,7 +474,7 @@ Est-ce qu’il y a moyen, en décalant ce nœud à trois - c’est à ça que je
 
 <!-- id: s25-11-0118 -->
 
-> puisque c’est ça la définition du nœud borroméen ...qu’on puisse passer *sous* celui qui est *dessous*, et *sur* celui qui est *dessus*.
+puisque c’est ça la définition du nœud borroméen ...qu’on puisse passer *sous* celui qui est *dessous*, et *sur* celui qui est *dessus*.
 
 <!-- id: s25-11-0119 -->
 

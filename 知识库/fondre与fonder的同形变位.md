@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XIXb
-  - 领域/精神分析
-  - 领域/语言学
+  - 领域/精神分析/能指言说与书写
+  - 领域/语言符号与文献/语源修辞与造词
   - 语言/法语
   - 人物/拉康
 verified_at: 2026-07-28

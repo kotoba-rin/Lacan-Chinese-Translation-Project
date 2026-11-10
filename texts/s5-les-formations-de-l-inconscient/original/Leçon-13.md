@@ -38,7 +38,7 @@ Otto <span class="smallcaps">RANK :</span>
 
 <!-- id: s5-13-0009 -->
 
-> *Trad. anglaise, « Perversion and Neurosis », International Journal of Psychoanalysis, 1923, IV.*
+*Trad. anglaise, « Perversion and Neurosis », International Journal of Psychoanalysis, 1923, IV.*
 
 <!-- id: s5-13-0010 -->
 
@@ -221,8 +221,8 @@ Puis ensuite il prend - ce pourquoi il a d’ailleurs moins de maté­riel - ce 
 
 <!-- id: s5-13-0046 -->
 
-> je veux dire *les transforma­tions* que l’investigation analytique, *les antécédents* aussi que l’investigation analy­tique permettent de donner à ce fantasme, pour tout dire l’histoire de ce fantasme, *les sous-jacences* de ce fantasme
-> …et là il y reconnaît un certain nombre d’états dans lesquels quelque chose change, quelque chose reste constant.
+je veux dire *les transforma­tions* que l’investigation analytique, *les antécédents* aussi que l’investigation analy­tique permettent de donner à ce fantasme, pour tout dire l’histoire de ce fantasme, *les sous-jacences* de ce fantasme
+…et là il y reconnaît un certain nombre d’états dans lesquels quelque chose change, quelque chose reste constant.
 
 <!-- id: s5-13-0047 -->
 
@@ -284,9 +284,9 @@ que l’interven­tion du père ici prend sa valeur pour le sujet, première, es
 
 <!-- id: s5-13-0058 -->
 
-> et ceci n’est pas moins important à consi­dérer que l’articulation du premier temps,
->
-> ce premier temps est retrouvé dans l’ana­lyse, l’autre, nous dit-il, n’y est jamais
+et ceci n’est pas moins important à consi­dérer que l’articulation du premier temps,
+
+ce premier temps est retrouvé dans l’ana­lyse, l’autre, nous dit-il, n’y est jamais
 
 <!-- id: s5-13-0059 -->
 
@@ -370,7 +370,7 @@ de ce que le sujet doit conquérir de lui-même, de son propre être, moyennant 
 
 <!-- id: s5-13-0075 -->
 
-> sous forme de mille traces qui, bien entendu, corres­pondent à leurs expériences diverses
+sous forme de mille traces qui, bien entendu, corres­pondent à leurs expériences diverses
 
 <!-- id: s5-13-0076 -->
 
@@ -535,9 +535,13 @@ C’est comme cela qu’il faut entendre ce que dit FREUD à ce moment-là, *le 
 
 <!-- id: s5-13-0108 -->
 
-> « *Le rival n’existe pas, il n’est rien du tout* »
-> c’est le même qui veut dire :
-> « *Toi tu existes, et même tu es aimé* ».
+<div class="text-quotation">
+
+« *Le rival n’existe pas, il n’est rien du tout* »
+c’est le même qui veut dire :
+« *Toi tu existes, et même tu es aimé* ».
+
+</div>
 
 <!-- id: s5-13-0109 -->
 

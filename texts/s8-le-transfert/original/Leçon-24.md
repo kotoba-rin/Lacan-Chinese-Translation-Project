@@ -386,9 +386,9 @@ Je voudrais quand même, puisqu’en somme nous ne pourrons pas aller plus loin 
 
 <!-- id: s8-24-0096 -->
 
-> puisque ce dont il s’agit quand nous parlons de l’amour c’est très spécifiquement de décrire le champ
->
-> où nous aurons à dire quelle doit être notre place dans le transfert ...pointer avant de vous quitter quelque chose qui n’est pas du tout sans rapport avec *ce propos sur la richesse* : *un petit mot du « saint »*.
+puisque ce dont il s’agit quand nous parlons de l’amour c’est très spécifiquement de décrire le champ
+
+où nous aurons à dire quelle doit être notre place dans le transfert ...pointer avant de vous quitter quelque chose qui n’est pas du tout sans rapport avec *ce propos sur la richesse* : *un petit mot du « saint »*.
 
 <!-- id: s8-24-0097 -->
 

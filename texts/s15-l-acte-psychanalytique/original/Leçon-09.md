@@ -14,7 +14,7 @@ Les réponses à ces propositions…
 
 <!-- id: s15-09-0003 -->
 
-> d’ailleurs qui ne se limitent pas à celles qui se sont intitulées comme telles, qui sont suivies d’un certain nombre d’autres productions, disons, puisqu’il va paraître en fin de ce mois une revue qui sera la revue de l’École[^63] …tout ceci a pour résultat un certain nombre de réponses ou de manifestations qui ne sont certes pas, en aucun cas, sans intérêt pour ceux à qui ici je m’adresse.
+d’ailleurs qui ne se limitent pas à celles qui se sont intitulées comme telles, qui sont suivies d’un certain nombre d’autres productions, disons, puisqu’il va paraître en fin de ce mois une revue qui sera la revue de l’École[^63] …tout ceci a pour résultat un certain nombre de réponses ou de manifestations qui ne sont certes pas, en aucun cas, sans intérêt pour ceux à qui ici je m’adresse.
 
 <!-- id: s15-09-0004 -->
 
@@ -26,7 +26,7 @@ En effet, la dernière fois je vous ai laissés sur *l’indication d’une réf
 
 <!-- id: s15-09-0006 -->
 
-> qui est celui où l’acte définit par son tranchant ce qu’il en est du passage où s’instaure, où s’institue le psychanalyste …il est tout à fait clair que nous ne pouvons que repasser par le mode d’épreuve que constitue pour nous une interrogation logique. Sera-t-elle, pour prendre la référence inaugurale d’ARISTOTE, au moment où - comme je l’évoquais - il fait les pas décisifs d’où s’instaure comme telle la catégorie logique dans son espèce formelle ?
+qui est celui où l’acte définit par son tranchant ce qu’il en est du passage où s’instaure, où s’institue le psychanalyste …il est tout à fait clair que nous ne pouvons que repasser par le mode d’épreuve que constitue pour nous une interrogation logique. Sera-t-elle, pour prendre la référence inaugurale d’ARISTOTE, au moment où - comme je l’évoquais - il fait les pas décisifs d’où s’instaure comme telle la catégorie logique dans son espèce formelle ?
 
 <!-- id: s15-09-0007 -->
 
@@ -34,9 +34,9 @@ S’agit-il d’une démarche d’intention démonstrative ou dialectique ? La q
 
 <!-- id: s15-09-0008 -->
 
-> et je pense ne pas vous surprendre en l’énonçant comme je vais le faire,
->
-> je l’ai assez préparé pour que la chose vous paraisse maintenant déjà dite …autour de ceci : *le psychanalysant*, en situation *dans le discours*, comment contester qu’il soit à la place du sujet ?
+et je pense ne pas vous surprendre en l’énonçant comme je vais le faire,
+
+je l’ai assez préparé pour que la chose vous paraisse maintenant déjà dite …autour de ceci : *le psychanalysant*, en situation *dans le discours*, comment contester qu’il soit à la place du sujet ?
 
 <!-- id: s15-09-0009 -->
 
@@ -108,7 +108,7 @@ Qu’est-ce que cela veut dire pour prendre les choses comme quelqu’un qui s�
 
 <!-- id: s15-09-0026 -->
 
-> et j’ai déjà produit son témoignage au moment où j’ai eu à parler en 1960 sur le thème de *L’identification*[^67] …n’a mieux souligné, ni avec plus d’élégance, quelle est l’essence de cette fondation d’où sort *la distinction de l’universel* *et du particulier et le lien de l’universel au terme du sujet*.
+et j’ai déjà produit son témoignage au moment où j’ai eu à parler en 1960 sur le thème de *L’identification*[^67] …n’a mieux souligné, ni avec plus d’élégance, quelle est l’essence de cette fondation d’où sort *la distinction de l’universel* *et du particulier et le lien de l’universel au terme du sujet*.
 
 <!-- id: s15-09-0027 -->
 
@@ -236,7 +236,7 @@ L’intérêt de *la psychanalyse* est qu’elle *apporte à ces problèmes de l
 
 <!-- id: s15-09-0058 -->
 
-> ce qui en somme était au principe de toutes les ambiguïtés qui se sont développées dans l’histoire de la logique : *d’impliquer dans le sujet une* οὐσἰα \[ousia\], *un être* …*que le sujet puisse fonctionner comme n’étant pas.*
+ce qui en somme était au principe de toutes les ambiguïtés qui se sont développées dans l’histoire de la logique : *d’impliquer dans le sujet une* οὐσἰα \[ousia\], *un être* …*que le sujet puisse fonctionner comme n’étant pas.*
 
 <!-- id: s15-09-0059 -->
 
@@ -248,7 +248,7 @@ La tâche est encore ouverte - et qui sait, peut-être à l’énoncer ainsi pro
 
 <!-- id: s15-09-0061 -->
 
-> quelquefois si singuliers et si paradoxaux à se manifester au cours de l’histoire …qui ont marqué les débats logiques à travers les âges et qui rendent si incompréhensible :
+quelquefois si singuliers et si paradoxaux à se manifester au cours de l’histoire …qui ont marqué les débats logiques à travers les âges et qui rendent si incompréhensible :
 
 <!-- id: s15-09-0062 -->
 
@@ -284,7 +284,11 @@ Si *l’universel* ne nous montrait déjà dans sa structure qu’il trouve son 
 
 <!-- id: s15-09-0070 -->
 
-> « *Tout psychanalysant résiste*. »
+<div class="text-quotation">
+
+« *Tout psychanalysant résiste*. »
+
+</div>
 
 <!-- id: s15-09-0071 -->
 
@@ -296,7 +300,7 @@ Nous ne l’écartons pas malgré l’apparence, car *à poser le psychanalysant
 
 <!-- id: s15-09-0073 -->
 
-> on a choisi de *représenter le sujet par le trait*, par *ce trait* qui ne se voit plus de ce qu’il soit désormais qualifié …rien de plus opposé en apparence à ce dans quoi se constitue le psychanalysant, qui est tout de même d’un certain choix, ce choix que j’ai appelé tout à l’heure « *abdication* » : *le choix de s’éprouver aux effets de langage*.
+on a choisi de *représenter le sujet par le trait*, par *ce trait* qui ne se voit plus de ce qu’il soit désormais qualifié …rien de plus opposé en apparence à ce dans quoi se constitue le psychanalysant, qui est tout de même d’un certain choix, ce choix que j’ai appelé tout à l’heure « *abdication* » : *le choix de s’éprouver aux effets de langage*.
 
 <!-- id: s15-09-0074 -->
 
@@ -324,9 +328,9 @@ Il s’agit de ce que j’ai appelé *l’objet(a),* qui, lui, est ici pour nous
 
 <!-- id: s15-09-0080 -->
 
-> comme je l’ai énoncé dans le nouveau graphe qui est celui
->
-> dont vous me voyez ici depuis deux ans devant vous faire usage …comme non pas ce que devient le psychanalyste, mais :
+comme je l’ai énoncé dans le nouveau graphe qui est celui
+
+dont vous me voyez ici depuis deux ans devant vous faire usage …comme non pas ce que devient le psychanalyste, mais :
 
 <!-- id: s15-09-0081 -->
 

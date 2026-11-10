@@ -66,7 +66,7 @@ Je ne le commen­terai pas aujourd’hui car ça nous emmènerait trop loin. Je 
 
 <!-- id: s12-13-0016 -->
 
-> <img src="assets/image99.jpeg" style="width:1.40461in;height:1.25993in" alt="033" />
+<img src="assets/image99.jpeg" style="width:1.40461in;height:1.25993in" alt="033" />
 
 <!-- id: s12-13-0017 -->
 
@@ -634,7 +634,11 @@ Je rapporterai ici un exemple de réponse, entre l’analyste et son patient, l�
 
 <!-- id: s12-13-0158 -->
 
-> « *Où est l’orange, où est l’orange ?* »
+<div class="text-quotation">
+
+« *Où est l’orange, où est l’orange ?* »
+
+</div>
 
 <!-- id: s12-13-0159 -->
 
@@ -914,7 +918,7 @@ On connaît le symbolisme du lion et de la licorne dans l’église orthodoxe :
 
 <!-- id: s12-13-0228 -->
 
-> devient le symbole à la fois de la pureté et de la religion.
+devient le symbole à la fois de la pureté et de la religion.
 
 <!-- id: s12-13-0229 -->
 
@@ -994,7 +998,7 @@ Dans l’ordre du *Begriff,* du *concept*, sont joints :
 
 <!-- id: s12-13-0248 -->
 
-> l’autre côté du miroir.
+l’autre côté du miroir.
 
 <!-- id: s12-13-0249 -->
 
@@ -1174,7 +1178,11 @@ Il semble y avoir eu un certain délai entre le rêve qui débouche sur une clai
 
 <!-- id: s12-13-0293 -->
 
-> « *Philippe j’ai soif* » et qui l’a ainsi salué en tant que tel .
+<div class="text-quotation">
+
+« *Philippe j’ai soif* » et qui l’a ainsi salué en tant que tel .
+
+</div>
 
 <!-- id: s12-13-0294 -->
 
@@ -1286,11 +1294,19 @@ Revenons aux deux rêves de Philippe dont je rappelle les *deux dernières phras
 
 <!-- id: s12-13-0321 -->
 
-> « *Nous marchons tous les trois vers une clairière que l’on devine en contre-bas*… » \- cet élément a déjà été souligné -et du « *rêve à la serpe* » la dernière phrase également, qui me semble liée au transfert :
+<div class="text-quotation">
+
+« *Nous marchons tous les trois vers une clairière que l’on devine en contre-bas*… » \- cet élément a déjà été souligné -et du « *rêve à la serpe* » la dernière phrase également, qui me semble liée au transfert :
+
+</div>
 
 <!-- id: s12-13-0322 -->
 
-> « …*il se serait donc blessé contre un objet caché dans le trou. Je le cherche, pensant à un clou rouillé. Cela ressemble plutôt à une <u>serpe</u>…* »
+<div class="text-quotation">
+
+« …*il se serait donc blessé contre un objet caché dans le trou. Je le cherche, pensant à un clou rouillé. Cela ressemble plutôt à une <u>serpe</u>…* »
+
+</div>
 
 <!-- id: s12-13-0323 -->
 

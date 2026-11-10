@@ -34,7 +34,7 @@ Assurément, quand j’ai désiré de mon public en savoir un peu plus long et n
 
 <!-- id: s12-07-0008 -->
 
-> et peut-être davantage dans une plus large mesure, beaucoup plus variée et beaucoup plus nuancée que je ne supposais …cet enseignement prend sa valeur, qui est celle de tout enseignement, de soutenir - et ce n’est pas rien, chez plus d’un – cet état d’indétermination, que nous savons avoir plus d’une ruse dans sa poche, qui est celui où il nous est donné de vivre, « *les choses étant ce qu’elles sont* ».
+et peut-être davantage dans une plus large mesure, beaucoup plus variée et beaucoup plus nuancée que je ne supposais …cet enseignement prend sa valeur, qui est celle de tout enseignement, de soutenir - et ce n’est pas rien, chez plus d’un – cet état d’indétermination, que nous savons avoir plus d’une ruse dans sa poche, qui est celui où il nous est donné de vivre, « *les choses étant ce qu’elles sont* ».
 
 <!-- id: s12-07-0009 -->
 
@@ -50,7 +50,7 @@ Ici je demande que viennent ceux qui, à quelque titre, prennent mon enseignemen
 
 <!-- id: s12-07-0012 -->
 
-> *par une barrière arbitraire, par une barrière d’appréciation* de quelque ordre qu’elle soit : d’expérience, de qualité ou de prestance …que je ne veux ici mettre de barrière à quiconque.
+*par une barrière arbitraire, par une barrière d’appréciation* de quelque ordre qu’elle soit : d’expérience, de qualité ou de prestance …que je ne veux ici mettre de barrière à quiconque.
 
 <!-- id: s12-07-0013 -->
 
@@ -78,7 +78,7 @@ Seulement dans ce dialogue…
 
 <!-- id: s12-07-0019 -->
 
-> dans ce dialogue qui, vous le voulez bien, vous le voyez bien, ne peut se faire qu’avec ceux qui, en fin de compte, apporteront ici une contribution, contribution pour laquelle il y aura tout le temps nécessaire pour s’élaborer dans l’intervalle de nos rencontres …il est dans la nature des choses que ceci ne se produise qu’avec un petit nombre.
+dans ce dialogue qui, vous le voulez bien, vous le voyez bien, ne peut se faire qu’avec ceux qui, en fin de compte, apporteront ici une contribution, contribution pour laquelle il y aura tout le temps nécessaire pour s’élaborer dans l’intervalle de nos rencontres …il est dans la nature des choses que ceci ne se produise qu’avec un petit nombre.
 
 <!-- id: s12-07-0020 -->
 
@@ -134,13 +134,17 @@ Bien qu’à vrai dire je ne pense pas pouvoir, avec plus de simplicité, vous i
 
 <!-- id: s12-07-0033 -->
 
-> « *La place déserte d’une petite ville : c’est insolite, je cherche quelque chose. Apparaît, pieds nus, Liliane - que je ne connais pas - qui me dit :*
->
-> *il y a longtemps que j’ai vu un sable aussi fin. Nous sommes en forêt et les arbres paraissent curieusement colorés de teintes vives et simples.*
->
-> *Je pense qu’il y a beaucoup d’animaux dans cette forêt, et, comme je m’apprête à le dire, une licorne croise notre chemin.*
->
-> *Nous marchons tous les trois vers une clairière que l’on devine, en contrebas.* »
+<div class="text-quotation">
+
+« *La place déserte d’une petite ville : c’est insolite, je cherche quelque chose. Apparaît, pieds nus, Liliane - que je ne connais pas - qui me dit :*
+
+*il y a longtemps que j’ai vu un sable aussi fin. Nous sommes en forêt et les arbres paraissent curieusement colorés de teintes vives et simples.*
+
+*Je pense qu’il y a beaucoup d’animaux dans cette forêt, et, comme je m’apprête à le dire, une licorne croise notre chemin.*
+
+*Nous marchons tous les trois vers une clairière que l’on devine, en contrebas.* »
+
+</div>
 
 <!-- id: s12-07-0034 -->
 
@@ -160,11 +164,11 @@ Pour qui n’a pas eu le loisir de lire ce texte sur l’inconscient, un tel rac
 
 <!-- id: s12-07-0038 -->
 
-> *Dans le premier* il tente de boire dans ses deux mains rassemblées en coupe, l’eau qui jaillit de la fontaine à la Licorne, ainsi nommée car une statue de l’animal fabuleux la surmonte.
->
-> *Dans le second*, il s’essaie, alors qu’il se trouve dans une jolie forêt de montagne, à faire un bruit de sirène en soufflant dans ses deux paumes rassemblées en conque.
->
-> *Dans le troisième* souvenir, il se trouve sur le sable d’une plage atlantique et se souvient de Lili, une proche parente, à plus d’un titre substitut maternel, qui l’appelle pour le taquiner, tout en lui donnant à boire, « *Philippe-j’ai-soif* ».
+*Dans le premier* il tente de boire dans ses deux mains rassemblées en coupe, l’eau qui jaillit de la fontaine à la Licorne, ainsi nommée car une statue de l’animal fabuleux la surmonte.
+
+*Dans le second*, il s’essaie, alors qu’il se trouve dans une jolie forêt de montagne, à faire un bruit de sirène en soufflant dans ses deux paumes rassemblées en conque.
+
+*Dans le troisième* souvenir, il se trouve sur le sable d’une plage atlantique et se souvient de Lili, une proche parente, à plus d’un titre substitut maternel, qui l’appelle pour le taquiner, tout en lui donnant à boire, « *Philippe-j’ai-soif* ».
 
 <!-- id: s12-07-0039 -->
 
@@ -200,7 +204,7 @@ Il s’agit là d’un processus
 
 <!-- id: s12-07-0047 -->
 
-> homophone du « *je* » de l’appel du «* j’ai soif* ».
+homophone du « *je* » de l’appel du «* j’ai soif* ».
 
 <!-- id: s12-07-0048 -->
 
@@ -312,9 +316,9 @@ Ce niveau d’analyse que je tiens pour essentiel appelle quelques remarques.
 
 <!-- id: s12-07-0075 -->
 
-> et « *symbolique* » en son essence. Ainsi, tel trait singulier, délinéant du visage ou du corps, pour parler sur le plan
->
-> de l’image, tel trait signifiant phonématique, pour autant qu’ils réapparaissent dans le cours de l’analyse sous une forme toujours analogue, « OR » par exemple.
+et « *symbolique* » en son essence. Ainsi, tel trait singulier, délinéant du visage ou du corps, pour parler sur le plan
+
+de l’image, tel trait signifiant phonématique, pour autant qu’ils réapparaissent dans le cours de l’analyse sous une forme toujours analogue, « OR » par exemple.
 
 <!-- id: s12-07-0076 -->
 
@@ -322,7 +326,7 @@ Ce niveau d’analyse que je tiens pour essentiel appelle quelques remarques.
 
 <!-- id: s12-07-0077 -->
 
-> à l’essence même de la singularité et de l’intimité du sujet.
+à l’essence même de la singularité et de l’intimité du sujet.
 
 <!-- id: s12-07-0078 -->
 
@@ -330,7 +334,7 @@ Ce niveau d’analyse que je tiens pour essentiel appelle quelques remarques.
 
 <!-- id: s12-07-0079 -->
 
-> son irréductibilité foncière. 3\) Dans ce cas aussi l’analyse révèle les rapports du *fantasme fondamental* avec le nom du sujet. Faut-il souligner qu’apparaît ici, la fonction du *Nom du Père* ? 4\) Ce niveau d’analyse met surtout en lumière de façon patente l’absence constitutive de rapport logique entre le niveau primaire, inconscient, et l’élaboration secondaire préconsciente-consciente.
+son irréductibilité foncière. 3\) Dans ce cas aussi l’analyse révèle les rapports du *fantasme fondamental* avec le nom du sujet. Faut-il souligner qu’apparaît ici, la fonction du *Nom du Père* ? 4\) Ce niveau d’analyse met surtout en lumière de façon patente l’absence constitutive de rapport logique entre le niveau primaire, inconscient, et l’élaboration secondaire préconsciente-consciente.
 
 <!-- id: s12-07-0080 -->
 
@@ -350,7 +354,7 @@ Si, devant « *cœur joli* », « *gorge de Lili* », « *joli* *corps de L
 
 <!-- id: s12-07-0084 -->
 
-> ce côté rassurant de nous-même qui, fort d’une expérience, croit savoir …nous traduirons « automatiquement » cette construction langagière en langage phallocentrique.
+ce côté rassurant de nous-même qui, fort d’une expérience, croit savoir …nous traduirons « automatiquement » cette construction langagière en langage phallocentrique.
 
 <!-- id: s12-07-0085 -->
 
@@ -402,11 +406,11 @@ Je désire garder à cette première réunion tout son caractère d’austérit�
 
 <!-- id: s12-07-0097 -->
 
-> qui dans le temps où LECLAIRE pour la première fois, entrait dans l’exemple qu’il a repris, complété et parfaitement articulé aujourd’hui …je vais demander à Conrad STEIN qui avait élevé un certain nombre d’objections, de questions…
+qui dans le temps où LECLAIRE pour la première fois, entrait dans l’exemple qu’il a repris, complété et parfaitement articulé aujourd’hui …je vais demander à Conrad STEIN qui avait élevé un certain nombre d’objections, de questions…
 
 <!-- id: s12-07-0098 -->
 
-> qui avait mis en doute la pertinence exacte de l’articulation à ce moment de la première chaîne qui va du lit, et de la corne se rassembler en la licorne, son caractère proprement de représentant représentatif de l’inconscient …s’il reste pour lui en suspens, quelque question sur la pertinence de ce qu’il avait avancé, ce qu’il a pu depuis, en raison même de ces questions, comme il l’a dit lui-même, préciser.
+qui avait mis en doute la pertinence exacte de l’articulation à ce moment de la première chaîne qui va du lit, et de la corne se rassembler en la licorne, son caractère proprement de représentant représentatif de l’inconscient …s’il reste pour lui en suspens, quelque question sur la pertinence de ce qu’il avait avancé, ce qu’il a pu depuis, en raison même de ces questions, comme il l’a dit lui-même, préciser.
 
 <!-- id: s12-07-0099 -->
 
@@ -490,9 +494,9 @@ Eh bien tout l’argument de LECLAIRE part d’un rêve, du rêve à la licorne 
 
 <!-- id: s12-07-0119 -->
 
-> c’est-à-dire la méthode qui permet de, en partant de ce rébus que constitue le rêve, d’aboutir à ce que FREUD appelle
->
-> les *Traumgedanken*, les *pensées* *du rêve*, les *pensées du rêve* qui sont exprimées sous forme de *vœu* …eh bien cette méthode c’est « *l’association libre* ». Vous savez que « *l’association libre* » - on pourra revenir sur la question – n’est précisément pas possible. Toujours est-il que cette méthode c’est *l’association libre*.
+c’est-à-dire la méthode qui permet de, en partant de ce rébus que constitue le rêve, d’aboutir à ce que FREUD appelle
+
+les *Traumgedanken*, les *pensées* *du rêve*, les *pensées du rêve* qui sont exprimées sous forme de *vœu* …eh bien cette méthode c’est « *l’association libre* ». Vous savez que « *l’association libre* » - on pourra revenir sur la question – n’est précisément pas possible. Toujours est-il que cette méthode c’est *l’association libre*.
 
 <!-- id: s12-07-0120 -->
 
@@ -516,7 +520,7 @@ Toujours est-il que cette chaîne a donc bien là, une valeur *privilégiée* et
 
 <!-- id: s12-07-0125 -->
 
-> enfin, ce qu’on appelle la *Science des rêves* dans la traduction française …vous trouverez en ce qui concerne *les rêves de* FREUD, toutes sortes de chaînes qu’il ne donne pas explicitement comme telles mais que vous pouvez reconstruire très facilement, ce n’est pas difficile à faire, tout à fait analogue à cette chaîne, qui part de Lili et qui aboutit à la corne. Et c’est cette chaîne, qui est privilégiée pour FREUD, qui est facile à reconstruire, qui lui permet de nous donner la clé de ses rêves dont il donne l’interprétation dans son ouvrage. Donc ne confondons pas cette chaîne avec les pensées du rêve, c’est-à-dire avec ce qui appartient proprement selon FREUD, au préconscient.
+enfin, ce qu’on appelle la *Science des rêves* dans la traduction française …vous trouverez en ce qui concerne *les rêves de* FREUD, toutes sortes de chaînes qu’il ne donne pas explicitement comme telles mais que vous pouvez reconstruire très facilement, ce n’est pas difficile à faire, tout à fait analogue à cette chaîne, qui part de Lili et qui aboutit à la corne. Et c’est cette chaîne, qui est privilégiée pour FREUD, qui est facile à reconstruire, qui lui permet de nous donner la clé de ses rêves dont il donne l’interprétation dans son ouvrage. Donc ne confondons pas cette chaîne avec les pensées du rêve, c’est-à-dire avec ce qui appartient proprement selon FREUD, au préconscient.
 
 <!-- id: s12-07-0126 -->
 
@@ -656,7 +660,7 @@ Si le zéro<span class="smallcaps">,</span> posé comme problématique, n’est 
 
 <!-- id: s12-07-0160 -->
 
-> Et c’est là justement le problème.
+Et c’est là justement le problème.
 
 <!-- id: s12-07-0161 -->
 
@@ -720,7 +724,7 @@ C’est là que commence l’entreprise propre et originale de FREGE. Cette réd
 
 <!-- id: s12-07-0176 -->
 
-> comme tous ceux qui ont été pris dans les *concepts psychologiques* connus depuis bien longtemps …le domaine des *Vorstellungen*, domaine des *Vorstellungen*
+comme tous ceux qui ont été pris dans les *concepts psychologiques* connus depuis bien longtemps …le domaine des *Vorstellungen*, domaine des *Vorstellungen*
 
 <!-- id: s12-07-0177 -->
 
@@ -800,7 +804,7 @@ Une fois qu’on a posé cette relation d’équivalence, on peut parvenir à un
 
 <!-- id: s12-07-0196 -->
 
-> évidement dans le vocabulaire de FREGE qui est un peu particulière mais qui est absolument analogue …définition reprise dans toute la tradition logiciste, formaliste.
+évidement dans le vocabulaire de FREGE qui est un peu particulière mais qui est absolument analogue …définition reprise dans toute la tradition logiciste, formaliste.
 
 <!-- id: s12-07-0197 -->
 
@@ -820,9 +824,9 @@ Si les définitions du nombre s’obtiennent à partir de cette relation d’éq
 
 <!-- id: s12-07-0201 -->
 
-> ayant exclu le nombre individuel, plus exactement l’ayant retardé en son investigation,
->
-> et l’ayant en quelque sorte mis au bout, comme couronnement de tout son système d’équivalence …FREGE va essayer, à partir de cette machine, qu’on pourrait ordonner selon deux axes :
+ayant exclu le nombre individuel, plus exactement l’ayant retardé en son investigation,
+
+et l’ayant en quelque sorte mis au bout, comme couronnement de tout son système d’équivalence …FREGE va essayer, à partir de cette machine, qu’on pourrait ordonner selon deux axes :
 
 <!-- id: s12-07-0202 -->
 
@@ -874,7 +878,7 @@ Pour se donner ce nombre zéro FREGE forge le concept de « *non-identique à s
 
 <!-- id: s12-07-0214 -->
 
-> et il laisse apparaître les concepts contradictoires reçus dans la logique traditionnelle : *le cercle carré*, ou *la montagne d’or* …à n’importe quel concept sous lequel ne tombe aucun objet, à ce concept est attribué le nom zéro.
+et il laisse apparaître les concepts contradictoires reçus dans la logique traditionnelle : *le cercle carré*, ou *la montagne d’or* …à n’importe quel concept sous lequel ne tombe aucun objet, à ce concept est attribué le nom zéro.
 
 <!-- id: s12-07-0215 -->
 
@@ -882,7 +886,7 @@ Autrement dit le zéro se définit par la contradiction logique, qui est le gara
 
 <!-- id: s12-07-0216 -->
 
-> qui est constatée, décrétée, puisqu’on dit qu’il n’y a pas de centaure …et puis la contradiction logique du concept de centaure… contradictoire.
+qui est constatée, décrétée, puisqu’on dit qu’il n’y a pas de centaure …et puis la contradiction logique du concept de centaure… contradictoire.
 
 <!-- id: s12-07-0217 -->
 
@@ -1002,11 +1006,11 @@ Si aujourd’hui, nous avons pris soin de vous faire rendre compte, avec la plus
 
 <!-- id: s12-07-0246 -->
 
-> à laquelle je crois, *une bonne partie d’entre vous* n’est pas introduite et encore moins familière …si nous avons pris ce soin, c’est qu’il est nécessaire que vous sachiez là, que ce sont des questions si prégnantes que même pour des gens…
+à laquelle je crois, *une bonne partie d’entre vous* n’est pas introduite et encore moins familière …si nous avons pris ce soin, c’est qu’il est nécessaire que vous sachiez là, que ce sont des questions si prégnantes que même pour des gens…
 
 <!-- id: s12-07-0247 -->
 
-> les mathématiciens, qui n’ont après tout que peu besoin de cette élaboration pour faire fonctionner leur appareil …elles se posent néanmoins et qu’*elles ont leur fécondité*.
+les mathématiciens, qui n’ont après tout que peu besoin de cette élaboration pour faire fonctionner leur appareil …elles se posent néanmoins et qu’*elles ont leur fécondité*.
 
 <!-- id: s12-07-0248 -->
 
@@ -1014,7 +1018,7 @@ En effet, tout ce qui s’est produit récemment comme recherches mathématiques
 
 <!-- id: s12-07-0249 -->
 
-> et recherches mathématiques assez fécondes pour en avoir transformé absolument tout l’aspect …se trouvent fondé, de l’aveu de ceux-là mêmes qui l’ont fait passer dans les faits, nommément par exemple Bertrand RUSSELL[^55], rapporté à cet ouvrage inaugural et méconnu jusqu’à ce que RUSSELL lui–même, partiellement, en redécouvre le ressort car l’ouvrage était resté pendant plus de vingt-cinq ans dans la plus profonde obscurité.
+et recherches mathématiques assez fécondes pour en avoir transformé absolument tout l’aspect …se trouvent fondé, de l’aveu de ceux-là mêmes qui l’ont fait passer dans les faits, nommément par exemple Bertrand RUSSELL[^55], rapporté à cet ouvrage inaugural et méconnu jusqu’à ce que RUSSELL lui–même, partiellement, en redécouvre le ressort car l’ouvrage était resté pendant plus de vingt-cinq ans dans la plus profonde obscurité.
 
 <!-- id: s12-07-0250 -->
 
@@ -1022,7 +1026,7 @@ Je pense que, si disparates au premier abord, que puissent vous apparaître les 
 
 <!-- id: s12-07-0251 -->
 
-> et je le souligne, ceux à qui ce discours ferait faire un effort de gymnastique mental qui leur paraîtrait trop ardu, ceux-là précisément, sont ceux auxquels j’ai dit, qu’après tout, ils ne sont pas forcés de s’y soumettre …si un tel rapport, doit pour vous être établi, c’est très certainement par mille fils de communication dont je ne ferai que vous citer qu’un car après tout, il est bien entendu depuis longtemps, que quand le philosophe essaie d’accorder la pensée avec l’objet de sa prise, il vous dira aussitôt que la licorne est quelque chose, comme on dit, qui n’existe pas.
+et je le souligne, ceux à qui ce discours ferait faire un effort de gymnastique mental qui leur paraîtrait trop ardu, ceux-là précisément, sont ceux auxquels j’ai dit, qu’après tout, ils ne sont pas forcés de s’y soumettre …si un tel rapport, doit pour vous être établi, c’est très certainement par mille fils de communication dont je ne ferai que vous citer qu’un car après tout, il est bien entendu depuis longtemps, que quand le philosophe essaie d’accorder la pensée avec l’objet de sa prise, il vous dira aussitôt que la licorne est quelque chose, comme on dit, qui n’existe pas.
 
 <!-- id: s12-07-0252 -->
 
@@ -1042,7 +1046,7 @@ Ce texte de DUROUX, sera de même…
 
 <!-- id: s12-07-0256 -->
 
-> car je considère que c’est là un service très grand qu’il vous a rendu, en vous donnant d’un ouvrage : les *Grundlagen der Arithmetik* de FREGE, un résumé remarquablement court, tout à fait substantiel et qui est la pierre, le point, l’os de référence grâce auquel cette conjonction qui se sera faite à notre prochaine réunion, entre les questions en apparence purement techniques qu’il a soulevées, se raccorde à notre pratique …tout ceux donc, qui désirent, dans des conditions qui, alors sont plus larges que celles que je disais tout à l’heure :
+car je considère que c’est là un service très grand qu’il vous a rendu, en vous donnant d’un ouvrage : les *Grundlagen der Arithmetik* de FREGE, un résumé remarquablement court, tout à fait substantiel et qui est la pierre, le point, l’os de référence grâce auquel cette conjonction qui se sera faite à notre prochaine réunion, entre les questions en apparence purement techniques qu’il a soulevées, se raccorde à notre pratique …tout ceux donc, qui désirent, dans des conditions qui, alors sont plus larges que celles que je disais tout à l’heure :
 
 <!-- id: s12-07-0257 -->
 
@@ -1058,9 +1062,9 @@ Bon, nous évaluons alors à 80 le nombre de textes qui seront tirés et c’est
 
 <!-- id: s12-07-0260 -->
 
-> je pense en grand nombre, qui ont pu laisser échapper certaines des articulations parfaitement serrées et bien modulées,
->
-> et strictement équivalentes au texte de FREGE …que ceux-là arrivent donc à notre prochaine réunion pour entendre ce qui suivra.
+je pense en grand nombre, qui ont pu laisser échapper certaines des articulations parfaitement serrées et bien modulées,
+
+et strictement équivalentes au texte de FREGE …que ceux-là arrivent donc à notre prochaine réunion pour entendre ce qui suivra.
 
 ## Notes
 

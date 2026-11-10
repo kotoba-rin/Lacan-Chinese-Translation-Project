@@ -206,8 +206,8 @@ Et je voudrais avant de continuer, vous écrire un petit mot \[au tableau\] parc
 
 <!-- id: s10-12-0039 -->
 
-> mais *to spare* en anglais а une signification *très particulière*, c’est-à-dire quelque chose à disposer, *quelque chose donc* qu’il а en plus, *dans le sens* si vous voulez, je ne sais pas... *si ce soir je veux aller aller au théâtre et je suis seule, si tout à coup quelqu’un me donne deux billets, ben il est évident que j’ai un billet à donner*, c’est ça le sens de *to spare* en anglais
-> ...« *Rencontre une personne avec des besoins*, *ayant des besoins. *».
+mais *to spare* en anglais а une signification *très particulière*, c’est-à-dire quelque chose à disposer, *quelque chose donc* qu’il а en plus, *dans le sens* si vous voulez, je ne sais pas... *si ce soir je veux aller aller au théâtre et je suis seule, si tout à coup quelqu’un me donne deux billets, ben il est évident que j’ai un billet à donner*, c’est ça le sens de *to spare* en anglais
+...« *Rencontre une personne avec des besoins*, *ayant des besoins. *».
 
 <!-- id: s10-12-0040 -->
 
@@ -221,9 +221,13 @@ sur ce, qu’entre guillemets, nous appellerons, ou il appellerait, je pense, «
 
 <!-- id: s10-12-0042 -->
 
-> « *Eh bien -* nous dit Margaret Little *- avec ce type de malades qui ne sont pas capables de symboliser, qui sont des structures*
->
-> *psychotiques, etc. il est néces­saire que l’analyste soit capable de se manifester en tant que personne* ».
+<div class="text-quotation">
+
+« *Eh bien -* nous dit Margaret Little *- avec ce type de malades qui ne sont pas capables de symboliser, qui sont des structures*
+
+*psychotiques, etc. il est néces­saire que l’analyste soit capable de se manifester en tant que personne* ».
+
+</div>
 
 <!-- id: s10-12-0043 -->
 
@@ -453,14 +457,14 @@ est toujours la même, est celle où l’analyste répète pour la *énième* fo
 
 <!-- id: s10-12-0091 -->
 
-> et c’est en ça que, non pas l’analyse, mais que l’auto-analyse n’est jamais finie et que le patient expérimente
->
-> pour la première fois quelque chose, qui est la seule chose pour laquelle il а fait tout ce long chemin,
->
-> la seule chose que nous ayons... le point auquel nous ayons à l’amener
-> … c’est-à-dire qu’il est le sujet d’un *manque*, qu’il est marqué du *sceau de la castration* comme nous tous, et que c’est *la séparation*
-> qu’il doit pouvoir accepter.
-> \[Applaudissements\]
+et c’est en ça que, non pas l’analyse, mais que l’auto-analyse n’est jamais finie et que le patient expérimente
+
+pour la première fois quelque chose, qui est la seule chose pour laquelle il а fait tout ce long chemin,
+
+la seule chose que nous ayons... le point auquel nous ayons à l’amener
+… c’est-à-dire qu’il est le sujet d’un *manque*, qu’il est marqué du *sceau de la castration* comme nous tous, et que c’est *la séparation*
+qu’il doit pouvoir accepter.
+\[Applaudissements\]
 
 <!-- id: s10-12-0092 -->
 
@@ -778,12 +782,12 @@ Le névrosé se caractérise en ceci, et c’est pourquoi il а été le chemin.
 
 <!-- id: s10-12-0152 -->
 
-> le lieu de passage, pour nous mener à cette découverte, qui est un pas décisif en morale, de la véritable nature
->
-> du désir, en tant que ce pas décisif n’est franchi qu’à partir du moment où ici, l’attention а été pointée
->
-> sur ce que je suis expressément en train d’articuler devant vous, pour l’instant
-> ...le névro­sé а été ce chemin exemplaire en ce sens qu’il nous montre, lui, que c’est dans la *recherche*, l’institution de la Loi elle-même qu’il а besoin de passer pour donner son statut à son désir, pour soutenir son désir.
+le lieu de passage, pour nous mener à cette découverte, qui est un pas décisif en morale, de la véritable nature
+
+du désir, en tant que ce pas décisif n’est franchi qu’à partir du moment où ici, l’attention а été pointée
+
+sur ce que je suis expressément en train d’articuler devant vous, pour l’instant
+...le névro­sé а été ce chemin exemplaire en ce sens qu’il nous montre, lui, que c’est dans la *recherche*, l’institution de la Loi elle-même qu’il а besoin de passer pour donner son statut à son désir, pour soutenir son désir.
 
 <!-- id: s10-12-0153 -->
 
@@ -850,11 +854,11 @@ Pour saisir le ressort de ce dont il s’agit ici...
 
 <!-- id: s10-12-0164 -->
 
-> non pas dans cette perspecti­ve toujours trop facile de l’histoire et du souvenir,
->
-> parce que l’oubli ça paraît une chose trop matérielle, trop naturelle pour qu’on ne croie pas que ça va tout seul, encore que ce soit la chose *la plus mystérieuse du monde*, à partir du moment où la mémoire est posée pour exister. C’est pour ça que j’essaie de vous introduire dans une dimension qui soit transversale, par rapport au temps, synchronique comme on dit
-> ...prenons le *masochiste*, le *maso* comme on dit paraît-il quelque part, c’est-à-dire *le plus énigmatique* à mettre en suspens *de la perver­sion*.
-> Lui, allez-vous me dire, il sait bien que c’est l’autre qui jouit.
+non pas dans cette perspecti­ve toujours trop facile de l’histoire et du souvenir,
+
+parce que l’oubli ça paraît une chose trop matérielle, trop naturelle pour qu’on ne croie pas que ça va tout seul, encore que ce soit la chose *la plus mystérieuse du monde*, à partir du moment où la mémoire est posée pour exister. C’est pour ça que j’essaie de vous introduire dans une dimension qui soit transversale, par rapport au temps, synchronique comme on dit
+...prenons le *masochiste*, le *maso* comme on dit paraît-il quelque part, c’est-à-dire *le plus énigmatique* à mettre en suspens *de la perver­sion*.
+Lui, allez-vous me dire, il sait bien que c’est l’autre qui jouit.
 
 <!-- id: s10-12-0165 -->
 
@@ -868,10 +872,10 @@ Ce qui lui échappe à lui...
 
 <!-- id: s10-12-0167 -->
 
-> encore que ce soit véri­té sensible, vraiment trainant partout et à la portée de tout le monde,
->
-> mais pour autant jamais vue à son véritable niveau de fonction
-> ...*c’est qu’il cherche l’angoisse de l’Autre*.
+encore que ce soit véri­té sensible, vraiment trainant partout et à la portée de tout le monde,
+
+mais pour autant jamais vue à son véritable niveau de fonction
+...*c’est qu’il cherche l’angoisse de l’Autre*.
 
 <!-- id: s10-12-0168 -->
 
@@ -902,10 +906,10 @@ Il n’y а pas de « *danger interne »,* pour la raison...
 
 <!-- id: s10-12-0173 -->
 
-> comme paradoxalement aux yeux d’oreilles distraites, je dis : comme ce fut paradoxalement que je sois revenu
->
-> là-dessus quand je vous ai fait mon séminaire sur *L’Éthique*, à savoir sur la topologie de l*’Entwurf* **\[02-12-59**\]
-> ...il n’y а pas de « *danger interne »*, pour la raison :
+comme paradoxalement aux yeux d’oreilles distraites, je dis : comme ce fut paradoxalement que je sois revenu
+
+là-dessus quand je vous ai fait mon séminaire sur *L’Éthique*, à savoir sur la topologie de l*’Entwurf* **\[02-12-59**\]
+...il n’y а pas de « *danger interne »*, pour la raison :
 
 <!-- id: s10-12-0174 -->
 

@@ -68,10 +68,10 @@ je dirai qu’au point où nous en sommes, je puis vous dire tout crûment, tout
 
 <!-- id: s10-24-0011 -->
 
-> au moins dans les corrélations que nous tentons d’explorer, de préciser,
->
-> de nouer plus près aujourd’hui, à savoir *les rapports du désir et de l’angoisse*
-> *...l’émoi dans cette corrélation n’est rien d’autre que le petit(a) lui-même*.
+au moins dans les corrélations que nous tentons d’explorer, de préciser,
+
+de nouer plus près aujourd’hui, à savoir *les rapports du désir et de l’angoisse*
+*...l’émoi dans cette corrélation n’est rien d’autre que le petit(a) lui-même*.
 
 <!-- id: s10-24-0012 -->
 
@@ -117,11 +117,11 @@ C’est parce que - ici - l’*objet petit(a)* se trouve donné dans un moment o
 
 <!-- id: s10-24-0019 -->
 
-> sur laquelle nous allons essayer maintenant de nous arrêter pour en préciser bien
->
-> *la valeur, l’incidence, la portée, les* *coor­données premières *: celles d’avant que d’autres s’ajoutent
-> ...c’est parce que ce *petit(a)* est *cela* dans *sa production originelle*
-> qu’il peut ensuite fonctionner dans la dialectique du désir qui est celle de l’obsessionnel.
+sur laquelle nous allons essayer maintenant de nous arrêter pour en préciser bien
+
+*la valeur, l’incidence, la portée, les* *coor­données premières *: celles d’avant que d’autres s’ajoutent
+...c’est parce que ce *petit(a)* est *cela* dans *sa production originelle*
+qu’il peut ensuite fonctionner dans la dialectique du désir qui est celle de l’obsessionnel.
 
 <!-- id: s10-24-0020 -->
 
@@ -644,10 +644,10 @@ le *(a)* *cause du désir de retenir...*
 
 <!-- id: s10-24-0108 -->
 
-> et dont, si je voulais vraiment conjoindre ici la fonction avec tout ce que j’en ai dit des relations à *l’inhibition*,
->
-> je l’appellerais bien plutôt *« le bou­chon »*
-> ...c’est par rapport à cela que cet *objet* va prendre ces valeurs que je pourrai appeler « *développées* ».
+et dont, si je voulais vraiment conjoindre ici la fonction avec tout ce que j’en ai dit des relations à *l’inhibition*,
+
+je l’appellerais bien plutôt *« le bou­chon »*
+...c’est par rapport à cela que cet *objet* va prendre ces valeurs que je pourrai appeler « *développées* ».
 
 <!-- id: s10-24-0109 -->
 
@@ -672,19 +672,19 @@ Si - puisque j’ai parlé de « *bou­chon* »...
 
 <!-- id: s10-24-0113 -->
 
-> en quoi vous pouvez reconnaître que c’est la forme la plus primitive de ce que j’appelais,
->
-> de ce que j’ai introduit l’autre jour auprès de vous comme *l’objet exemplaire*
->
-> que j’ai appelé « *robinet* », dans la discussion de la fonction de *la cause*
-> eh bien, comment pourrions-nous illustrer...
+en quoi vous pouvez reconnaître que c’est la forme la plus primitive de ce que j’appelais,
+
+de ce que j’ai introduit l’autre jour auprès de vous comme *l’objet exemplaire*
+
+que j’ai appelé « *robinet* », dans la discussion de la fonction de *la cause*
+eh bien, comment pourrions-nous illustrer...
 
 <!-- id: s10-24-0114 -->
 
-> par rapport à ce que détermine la fonction de l’objet « *bou­chon* » ou « *robinet* »
->
-> avec *sa conséquence* : *le désir de fermer*
-> *...*comment pourraient se situer les différents éléments de notre matrice ?
+par rapport à ce que détermine la fonction de l’objet « *bou­chon* » ou « *robinet* »
+
+avec *sa conséquence* : *le désir de fermer*
+*...*comment pourraient se situer les différents éléments de notre matrice ?
 
 <!-- id: s10-24-0115 -->
 
@@ -786,10 +786,10 @@ Croyez-vous que l’obsessionnel...
 
 <!-- id: s10-24-0134 -->
 
-> s’il en est bien ainsi du *dernier objet* que puisse révéler son analyse,
->
-> par un certain chemin de la récurren­ce je vous ai dit lequel : l’excrément
-> ...ait là \[dans *l’objet excrément*\] source divinatoire à se trou­ver *objet aimable* ?
+s’il en est bien ainsi du *dernier objet* que puisse révéler son analyse,
+
+par un certain chemin de la récurren­ce je vous ai dit lequel : l’excrément
+...ait là \[dans *l’objet excrément*\] source divinatoire à se trou­ver *objet aimable* ?
 
 <!-- id: s10-24-0135 -->
 
@@ -808,10 +808,10 @@ et ce qui a donné l’illusion à tel \[Bouvet\]...
 
 <!-- id: s10-24-0138 -->
 
-> bien sûr, qui avait beaucoup d’expérien­ce de ces sujets, mais non pas l’appareil,
->
-> et pour des raisons qui reste­raient à approfondir
-> ...de la formuler, de mettre tellement d’accent sur cette notion de « *distance* ».
+bien sûr, qui avait beaucoup d’expérien­ce de ces sujets, mais non pas l’appareil,
+
+et pour des raisons qui reste­raient à approfondir
+...de la formuler, de mettre tellement d’accent sur cette notion de « *distance* ».
 
 <!-- id: s10-24-0139 -->
 
@@ -834,10 +834,10 @@ Quand je dis *que l’obsessionnel soutient son désir comme impossible*, je veu
 
 <!-- id: s10-24-0142 -->
 
-> je vous prie d’en trouver la référen­ce - je vous l’ai dit en son temps
->
-> et c’est pour ça que j’y ai si longtemps insisté - *la référence à la topologie du tore*
-> ...*le cercle de l’obsessionnel est justement un de ces cercles* \[a, b, c\] qui, en raison de sa place topologique *ne peut jamais se réduire à un point.*
+je vous prie d’en trouver la référen­ce - je vous l’ai dit en son temps
+
+et c’est pour ça que j’y ai si longtemps insisté - *la référence à la topologie du tore*
+...*le cercle de l’obsessionnel est justement un de ces cercles* \[a, b, c\] qui, en raison de sa place topologique *ne peut jamais se réduire à un point.*
 
 <!-- id: s10-24-0143 -->
 
@@ -869,10 +869,10 @@ C’est autour de ces structures que la prochaine fois, je donnerai sa for­mula
 
 <!-- id: s10-24-0150 -->
 
-> suffisamment démonstratif à être élaboré comme exemple, et transposable aussi bien
->
-> à partir de ces données dans d’autres structures, l’hystérique nommément
-> ...ce qu’à partir de cet exemple nous pouvons, au dernier terme, situer de *la position et de la fonc­tion de l’angoisse*.
+suffisamment démonstratif à être élaboré comme exemple, et transposable aussi bien
+
+à partir de ces données dans d’autres structures, l’hystérique nommément
+...ce qu’à partir de cet exemple nous pouvons, au dernier terme, situer de *la position et de la fonc­tion de l’angoisse*.
 
 ## Notes
 

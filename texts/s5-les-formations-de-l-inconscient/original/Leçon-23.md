@@ -535,8 +535,8 @@ Je dirai jus­qu’à un certain point que le terme d’*oblativité…*
 
 <!-- id: s5-23-0108 -->
 
-> à savoir de la reconnaissance du désir de l’Autre comme tel, de ce en quoi les analystes presque dans leur commu­nauté présentement, mettent le sommet et le *summum* d’une réalisation heureuse du sujet : de ce qu’ils appellent la *maturité génitale,* et dont je vous lisais un exemple l’autre fois dans un passage de l’auteur que j’ai *mis en cause*, à savoir de cette prise pro­fonde de satisfaction dans la satisfaction donnée à la demande de l’Autre, pour tout dire de ce qui s’appelle communément « *altruisme* »
-> *…*est justement ce quelque chose qui laisse échapper ce qu’il y a effectivement à résoudre dans le problème du *désir*.
+à savoir de la reconnaissance du désir de l’Autre comme tel, de ce en quoi les analystes presque dans leur commu­nauté présentement, mettent le sommet et le *summum* d’une réalisation heureuse du sujet : de ce qu’ils appellent la *maturité génitale,* et dont je vous lisais un exemple l’autre fois dans un passage de l’auteur que j’ai *mis en cause*, à savoir de cette prise pro­fonde de satisfaction dans la satisfaction donnée à la demande de l’Autre, pour tout dire de ce qui s’appelle communément « *altruisme* »
+*…*est justement ce quelque chose qui laisse échapper ce qu’il y a effectivement à résoudre dans le problème du *désir*.
 
 <!-- id: s5-23-0109 -->
 

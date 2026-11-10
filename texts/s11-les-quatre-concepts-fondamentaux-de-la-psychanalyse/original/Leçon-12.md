@@ -15,10 +15,10 @@ J’ai dit que...
 
 <!-- id: s11-12-0003 -->
 
-> faisant un pas, voire un saut, après la préparation,
->
-> le che­min que j’avais commencé d’esquisser pour serrer le concept de trans­fert
-> ...j’ai dit : « *Nous allons nous fier à la formule suivante* : *le transfert est la mise en acte de la réalité de l’inconscient.* »
+faisant un pas, voire un saut, après la préparation,
+
+le che­min que j’avais commencé d’esquisser pour serrer le concept de trans­fert
+...j’ai dit : « *Nous allons nous fier à la formule suivante* : *le transfert est la mise en acte de la réalité de l’inconscient.* »
 
 <!-- id: s11-12-0004 -->
 
@@ -56,8 +56,8 @@ Allons au fait ! La *réalité de l’in­conscient*, c’est à la fois ce que 
 
 <!-- id: s11-12-0011 -->
 
-> *ce qui est vrai et ce qui en est la vérité insoutenable*
-> …c’est la réalité sexuelle. FREUD l’a *articulé, réarticulé, articulé* si je puis dire, *mordicus*, en chaque occasion.
+*ce qui est vrai et ce qui en est la vérité insoutenable*
+…c’est la réalité sexuelle. FREUD l’a *articulé, réarticulé, articulé* si je puis dire, *mordicus*, en chaque occasion.
 
 <!-- id: s11-12-0012 -->
 
@@ -370,10 +370,10 @@ Anna O...
 
 <!-- id: s11-12-0070 -->
 
-> laissons cette histoire d’O, appelons-la par son nom [Bertha PAPPENHEIM](http://fr.wikipedia.org/wiki/Bertha_Pappenheim). Elle est devenue, vous le savez, dans la suite, *un des grands noms de l’assistance sociale en Allemagne*. Il n’y a pas si longtemps, une de mes élèves m’apportait, pour m’en assurer, un petit timbre frappé en Allemagne à son image. C’est vous dire qu’elle a lais­sé quelques traces dans l’histoire.
-> ...Anna O, vous le savez, c’est à son propos qu’on a découvert le transfert. Vous savez ce qui s’est produit : BREUER était,
-> de l’opération qui se poursuivait avec ladite personne, tout à fait enchanté, ça allait comme sur des roulettes, ne l’oubliez pas.
-> À ce moment-là, le *signi­fiant*, personne ne l’aurait contesté, si on avait su simplement faire revivre ce mot du vocabulaire stoïcien.
+laissons cette histoire d’O, appelons-la par son nom [Bertha PAPPENHEIM](http://fr.wikipedia.org/wiki/Bertha_Pappenheim). Elle est devenue, vous le savez, dans la suite, *un des grands noms de l’assistance sociale en Allemagne*. Il n’y a pas si longtemps, une de mes élèves m’apportait, pour m’en assurer, un petit timbre frappé en Allemagne à son image. C’est vous dire qu’elle a lais­sé quelques traces dans l’histoire.
+...Anna O, vous le savez, c’est à son propos qu’on a découvert le transfert. Vous savez ce qui s’est produit : BREUER était,
+de l’opération qui se poursuivait avec ladite personne, tout à fait enchanté, ça allait comme sur des roulettes, ne l’oubliez pas.
+À ce moment-là, le *signi­fiant*, personne ne l’aurait contesté, si on avait su simplement faire revivre ce mot du vocabulaire stoïcien.
 
 <!-- id: s11-12-0071 -->
 
@@ -416,7 +416,11 @@ Laissons de côté ce que nous pouvons penser en effet d’un désir auquel mêm
 
 <!-- id: s11-12-0077 -->
 
-> « *Mais quoi ? Quelle affaire ! Le transfert c’est la spontanéité de l’inconscient de ladite Bertha. Ça n’est pas le tien, ton désir*… »
+<div class="text-quotation">
+
+« *Mais quoi ? Quelle affaire ! Le transfert c’est la spontanéité de l’inconscient de ladite Bertha. Ça n’est pas le tien, ton désir*… »
+
+</div>
 
 <!-- id: s11-12-0078 -->
 
@@ -424,7 +428,11 @@ lui dit-il. Je ne sais pas *s’ils se tutoyaient*, mais c’est probable.
 
 <!-- id: s11-12-0079 -->
 
-> «…c*’est le désir de l’Autre* ».
+<div class="text-quotation">
+
+«…c*’est le désir de l’Autre* ».
+
+</div>
 
 <!-- id: s11-12-0080 -->
 
@@ -432,7 +440,11 @@ En quoi je considère que FREUD traite BREUER comme un hystérique, car il lui d
 
 <!-- id: s11-12-0081 -->
 
-> « *Ton désir, c’est le désir de l’Autre* ».
+<div class="text-quotation">
+
+« *Ton désir, c’est le désir de l’Autre* ».
+
+</div>
 
 <!-- id: s11-12-0082 -->
 
@@ -463,7 +475,7 @@ où son désir est parfaitement lisible ?
 
 <!-- id: s11-12-0087 -->
 
-> Il n’y a pas que ce que - dans l’affaire - que ce que l’*analyste* entend faire de son patient, il y a aussi ce que l’analyste entend que son *patient* fasse de lui. ABRAHAM - *disons* - voulait être une mère complète.
+Il n’y a pas que ce que - dans l’affaire - que ce que l’*analyste* entend faire de son patient, il y a aussi ce que l’analyste entend que son *patient* fasse de lui. ABRAHAM - *disons* - voulait être une mère complète.
 
 <!-- id: s11-12-0088 -->
 

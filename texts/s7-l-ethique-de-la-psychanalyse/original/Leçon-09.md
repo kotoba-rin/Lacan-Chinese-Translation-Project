@@ -42,9 +42,9 @@ La première partie de l’article, que je vous signale, est ceci : il est esse
 
 <!-- id: s7-09-0010 -->
 
-> ce que j’ai retenu avec plaisir car, à la vérité, comme c’est à travers une traduction
->
-> allemande et anglaise qu’elle en parle, ce n’était pas immédiatement évident
+ce que j’ai retenu avec plaisir car, à la vérité, comme c’est à travers une traduction
+
+allemande et anglaise qu’elle en parle, ce n’était pas immédiatement évident
 
 <!-- id: s7-09-0011 -->
 
@@ -124,7 +124,7 @@ Donc j’essaie - *la sublimation* - de vous en montrer les coordonnées exigibl
 
 <!-- id: s7-09-0030 -->
 
-> je vous l’ai illustré avec l’exemple des boîtes d’allumettes dont vous auriez tort d’espérer qu’il concentre en lui, qu’il soit vraiment au centre du sujet, qu’il puisse permettre de l’épuiser, encore que pourtant, vous allez le voir, il nous permet d’aller assez loin dans le sens de ce dont il s’agit
+je vous l’ai illustré avec l’exemple des boîtes d’allumettes dont vous auriez tort d’espérer qu’il concentre en lui, qu’il soit vraiment au centre du sujet, qu’il puisse permettre de l’épuiser, encore que pourtant, vous allez le voir, il nous permet d’aller assez loin dans le sens de ce dont il s’agit
 
 <!-- id: s7-09-0031 -->
 
@@ -144,9 +144,9 @@ Disons aujourd’hui qu’en somme, si elle occupe cette place dans la constitut
 
 <!-- id: s7-09-0035 -->
 
-> entendez ici un *réel* que nous n’avons pas encore à limiter, je veux dire qu’il s’agit du *réel* dans sa totalité,
->
-> il s’agit aussi bien du *réel* qui est celui du sujet que du *réel* auquel il a affaire comme étant, à lui, extérieur
+entendez ici un *réel* que nous n’avons pas encore à limiter, je veux dire qu’il s’agit du *réel* dans sa totalité,
+
+il s’agit aussi bien du *réel* qui est celui du sujet que du *réel* auquel il a affaire comme étant, à lui, extérieur
 
 <!-- id: s7-09-0036 -->
 
@@ -194,9 +194,9 @@ puisqu’il semble que le *principe du plaisir* seul règne par une loi dont vou
 
 <!-- id: s7-09-0047 -->
 
-> qui n’est pas simplement, bien sûr, ce qu’il articule, mais aussi bien toute son action,
->
-> pour autant qu’elle est dominée par cette recherche qui le porte à *retrouver les choses dans les signes*
+qui n’est pas simplement, bien sûr, ce qu’il articule, mais aussi bien toute son action,
+
+pour autant qu’elle est dominée par cette recherche qui le porte à *retrouver les choses dans les signes*
 
 <!-- id: s7-09-0048 -->
 
@@ -348,9 +348,9 @@ Un des rares documents solides que nous ayons sur l’entreprise...
 
 <!-- id: s7-09-0085 -->
 
-> car je vous le répète, pour plusieurs raisons - sans aucun doute l’escamotage des procès d’inquisition
->
-> n’est pas la seule - nous ne savons quelle était foncièrement la doctrine cathare
+car je vous le répète, pour plusieurs raisons - sans aucun doute l’escamotage des procès d’inquisition
+
+n’est pas la seule - nous ne savons quelle était foncièrement la doctrine cathare
 
 <!-- id: s7-09-0086 -->
 
@@ -358,9 +358,9 @@ Un des rares documents solides que nous ayons sur l’entreprise...
 
 <!-- id: s7-09-0087 -->
 
-> dont dès lors, tout l’effort de l’ascèse va consister à se détourner sans aller dans un monde
->
-> qu’on appelle mystique, qui peut tout aussi bien nous apparaître mythique, voire illusoire
+dont dès lors, tout l’effort de l’ascèse va consister à se détourner sans aller dans un monde
+
+qu’on appelle mystique, qui peut tout aussi bien nous apparaître mythique, voire illusoire
 
 <!-- id: s7-09-0088 -->
 
@@ -424,7 +424,7 @@ Vu l’heure où nous en sommes, je ne vais même pas commencer de vous l’arti
 
 <!-- id: s7-09-0103 -->
 
-> et croyez que ce n’est pas quelque chose qui me soit propre, ou original, je n’essayerai pas d’introduire par mes faibles moyens d’investigation dans cette question autre chose que les informations qui nous sont apportées
+et croyez que ce n’est pas quelque chose qui me soit propre, ou original, je n’essayerai pas d’introduire par mes faibles moyens d’investigation dans cette question autre chose que les informations qui nous sont apportées
 
 <!-- id: s7-09-0104 -->
 

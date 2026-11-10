@@ -90,9 +90,9 @@ Disons, pour la suite des choses, que ceci nous donne deux points 0 et 0’. Une
 
 <!-- id: s1-14-0022 -->
 
-> une femme virtuelle, donc elle est évidemment beaucoup plus engagée dans le réel
->
-> que les mâles, de ce seul fait. Il y a des dons particuliers !
+une femme virtuelle, donc elle est évidemment beaucoup plus engagée dans le réel
+
+que les mâles, de ce seul fait. Il y a des dons particuliers !
 
 <!-- id: s1-14-0023 -->
 
@@ -324,9 +324,9 @@ La perpétuelle réversion *du désir à la forme*, et *de la forme au désir*�
 
 <!-- id: s1-14-0080 -->
 
-> autrement dit de *la conscience* et du *corps*, du désir - en tant que partiel -
->
-> à l’objet aimé, en tant que le sujet littéralement s’y perd et s’y identifie
+autrement dit de *la conscience* et du *corps*, du désir - en tant que partiel -
+
+à l’objet aimé, en tant que le sujet littéralement s’y perd et s’y identifie
 
 <!-- id: s1-14-0081 -->
 
@@ -366,9 +366,9 @@ L’issue *masochiste*…
 
 <!-- id: s1-14-0090 -->
 
-> puisque vous me relancez, je ne refuse jamais les reprises et les rappels,
->
-> même s’ils doivent interrompre un peu mon déve­loppement, je vais vous dire une chose, alors
+puisque vous me relancez, je ne refuse jamais les reprises et les rappels,
+
+même s’ils doivent interrompre un peu mon déve­loppement, je vais vous dire une chose, alors
 
 <!-- id: s1-14-0091 -->
 
@@ -388,9 +388,9 @@ Mais ce qui est évident, fondamental, manifesté dans l’exemple…
 
 <!-- id: s1-14-0095 -->
 
-> parce que ce n’est pas la même chose que de pousser soi-même une dialectique,
->
-> ou d’être en position, comme je suis ici, en ce sens que j’essaie de répondre à FREUD, d’en élucider les fondements
+parce que ce n’est pas la même chose que de pousser soi-même une dialectique,
+
+ou d’être en position, comme je suis ici, en ce sens que j’essaie de répondre à FREUD, d’en élucider les fondements
 
 <!-- id: s1-14-0096 -->
 
@@ -422,9 +422,9 @@ Ai-je écrit dans un texte - je l’ai relu récemment, j’ai trouvé qu’il �
 
 <!-- id: s1-14-0103 -->
 
-> Ça veut dire simplement que de ce seul fait il a la porte d’entrée dans ce qui existe déjà,
->
-> la suite des phonèmes qui composent une langue
+Ça veut dire simplement que de ce seul fait il a la porte d’entrée dans ce qui existe déjà,
+
+la suite des phonèmes qui composent une langue
 
 <!-- id: s1-14-0104 -->
 
@@ -440,7 +440,7 @@ Ainsi, ça n’a pas une telle importance, mais c’est du dehors qu’il le re�
 
 <!-- id: s1-14-0107 -->
 
-> Car n’oubliez pas que quand il dit « *Fort !* », *c’est que l’objet est là* et quand il dit « *Da !* », *il est absent*
+Car n’oubliez pas que quand il dit « *Fort !* », *c’est que l’objet est là* et quand il dit « *Da !* », *il est absent*
 
 <!-- id: s1-14-0108 -->
 
@@ -480,7 +480,7 @@ Néanmoins, si vous saisissez cela : que c’est par l’intermédiaire du dés
 
 <!-- id: s1-14-0117 -->
 
-> en tant qu’*aliéné*, comme réintégré perpétuellement à nouveau en reprojetant à l’extérieur l’*Idealich* ce *désir* une fois verbalisé
+en tant qu’*aliéné*, comme réintégré perpétuellement à nouveau en reprojetant à l’extérieur l’*Idealich* ce *désir* une fois verbalisé
 
 <!-- id: s1-14-0118 -->
 

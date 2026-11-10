@@ -50,9 +50,9 @@ Non que le problème ne reste entier et que tout ce qui se décide se décide au
 
 <!-- id: s7-27-0012 -->
 
-> contrairement à ce que vous croyez, il avait beaucoup plus d’expérience mentale que de laboratoire,
->
-> en tout cas il n’aurait certainement pas fait le pas décisif qu’il a fait sans l’expérience mentale
+contrairement à ce que vous croyez, il avait beaucoup plus d’expérience mentale que de laboratoire,
+
+en tout cas il n’aurait certainement pas fait le pas décisif qu’il a fait sans l’expérience mentale
 
 <!-- id: s7-27-0013 -->
 
@@ -88,9 +88,9 @@ Voilà dans quelle dimension...
 
 <!-- id: s7-27-0021 -->
 
-> dont le pathétique, vous le voyez, est exactement l’opposé, le pendant du tragique,
->
-> et après tout pas incompatible, le tragi-comique existe
+dont le pathétique, vous le voyez, est exactement l’opposé, le pendant du tragique,
+
+et après tout pas incompatible, le tragi-comique existe
 
 <!-- id: s7-27-0022 -->
 
@@ -198,9 +198,9 @@ Une seule chose peut faire que pour nous les espaces soient habités par une per
 
 <!-- id: s7-27-0048 -->
 
-> et non pas le signal au sens de la théorie de la communication qui passe son temps à nous raconter
->
-> qu’on peut interpréter en termes de signes ce qui se véhicule à travers l’espace de rayons avertisseurs
+et non pas le signal au sens de la théorie de la communication qui passe son temps à nous raconter
+
+qu’on peut interpréter en termes de signes ce qui se véhicule à travers l’espace de rayons avertisseurs
 
 <!-- id: s7-27-0049 -->
 
@@ -256,9 +256,9 @@ Entendez-moi bien. Il est là entreprenant *la rééducation*, voire le salut d�
 
 <!-- id: s7-27-0062 -->
 
-> nous le savons, et il nous le signale assez pour ne pas le savoir
->
-> en nous mettant sous les yeux une énorme paire de lunettes noires
+nous le savons, et il nous le signale assez pour ne pas le savoir
+
+en nous mettant sous les yeux une énorme paire de lunettes noires
 
 <!-- id: s7-27-0063 -->
 
@@ -318,9 +318,9 @@ Si pour chacun de nous...
 
 <!-- id: s7-27-0077 -->
 
-> quelqu’un s’est offensé la dernière fois que j’ai opposé le héros
->
-> à l’homme du commun, je ne les distingue pas comme deux espèces humaines
+quelqu’un s’est offensé la dernière fois que j’ai opposé le héros
+
+à l’homme du commun, je ne les distingue pas comme deux espèces humaines
 
 <!-- id: s7-27-0078 -->
 

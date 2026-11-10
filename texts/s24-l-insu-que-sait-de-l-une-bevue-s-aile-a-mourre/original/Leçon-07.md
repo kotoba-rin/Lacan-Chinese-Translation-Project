@@ -26,9 +26,9 @@ Cet élément-là pourrait être *replié* de façon telle que ces deux cercles 
 
 <!-- id: s24-07-0006 -->
 
-> qui est quelqu’un dont j’ose croire que je suis pour quelque chose
->
-> dans le fait qu’il ait beaucoup donné dans le noeud borroméen ...je lui ai posé le plus récemment la question de savoir comment 4 tétraèdres peuvent *se nouer borroméennement entre eux*.
+qui est quelqu’un dont j’ose croire que je suis pour quelque chose
+
+dans le fait qu’il ait beaucoup donné dans le noeud borroméen ...je lui ai posé le plus récemment la question de savoir comment 4 tétraèdres peuvent *se nouer borroméennement entre eux*.
 
 <!-- id: s24-07-0007 -->
 
@@ -52,7 +52,7 @@ Il m<sup>’</sup>a semblé qu<sup>’</sup>était tout aussi *torique* le mode 
 
 <!-- id: s24-07-0012 -->
 
-> mais je ne l’ai reçu qu’hier soir ...le mode sous lequel Pierre Soury m’a envoyé le nœud borroméen des 4 tétraèdres.
+mais je ne l’ai reçu qu’hier soir ...le mode sous lequel Pierre Soury m’a envoyé le nœud borroméen des 4 tétraèdres.
 
 <!-- id: s24-07-0013 -->
 
@@ -116,7 +116,7 @@ Alain Didier-Weill poursuit : ce en quoi l’histoire de la Reine du conte est d
 
 <!-- id: s24-07-0028 -->
 
-> de la connaissance qu’a la victime de son ravisseur ...et dans lesquels les 4 *temps* sont à son dire : le ministre sait \[**1**\], que la Reine sait \[**2**\], que le ministre sait \[**3**\], qu’elle sait \[**4**\].
+de la connaissance qu’a la victime de son ravisseur ...et dans lesquels les 4 *temps* sont à son dire : le ministre sait \[**1**\], que la Reine sait \[**2**\], que le ministre sait \[**3**\], qu’elle sait \[**4**\].
 
 <!-- id: s24-07-0029 -->
 
@@ -136,7 +136,7 @@ Bozef, quoi qu’il l’ait doté d’un nom...
 
 <!-- id: s24-07-0033 -->
 
-> et c’est bien là qu’est le défaut où je surprends Alain Didier-Weill
+et c’est bien là qu’est le défaut où je surprends Alain Didier-Weill
 
 <!-- id: s24-07-0034 -->
 
@@ -152,11 +152,11 @@ Bozef est, je dirais l’incarnation du *Savoir Absolu*, et ce qu’Alain Didier
 
 <!-- id: s24-07-0037 -->
 
-> à savoir que Bozef est l’incarnation de ce que veut dire le *Savoir Absolu* ...montre le cheminement à partir de cette hypothèse...
+à savoir que Bozef est l’incarnation de ce que veut dire le *Savoir Absolu* ...montre le cheminement à partir de cette hypothèse...
 
 <!-- id: s24-07-0038 -->
 
-> qu’il est lui-même, Bozef, cette incarnation ...montre le cheminement d’une *vérité* qui n’éclate en fait nulle part.
+qu’il est lui-même, Bozef, cette incarnation ...montre le cheminement d’une *vérité* qui n’éclate en fait nulle part.
 
 <!-- id: s24-07-0039 -->
 
@@ -164,7 +164,7 @@ Bozef est, je dirais l’incarnation du *Savoir Absolu*, et ce qu’Alain Didier
 
 <!-- id: s24-07-0040 -->
 
-> qui a gardé cette lettre en somme comme un gage de la bonne volonté de la Reine ...à aucun moment le ministre n’a même l’idée de communiquer cette lettre, au Roi par exemple, qui est d’ailleurs le seul qui se trouverait en position d’en tirer des conséquences.
+qui a gardé cette lettre en somme comme un gage de la bonne volonté de la Reine ...à aucun moment le ministre n’a même l’idée de communiquer cette lettre, au Roi par exemple, qui est d’ailleurs le seul qui se trouverait en position d’en tirer des conséquences.
 
 <!-- id: s24-07-0041 -->
 
@@ -212,7 +212,7 @@ Ce que j’ai appelé le *Savoir Absolu* dans l’occasion c’est ceci : c’e
 
 <!-- id: s24-07-0052 -->
 
-> c’est-à-dire chue d’une façon dont il s’agit de rendre compte ...*l’existence apparente* d’une espèce pour laquelle, je l’ai dit, *il n’y a pas de rapport sexuel*.
+c’est-à-dire chue d’une façon dont il s’agit de rendre compte ...*l’existence apparente* d’une espèce pour laquelle, je l’ai dit, *il n’y a pas de rapport sexuel*.
 
 <!-- id: s24-07-0053 -->
 
@@ -244,11 +244,11 @@ Il s’exprime d’ordinaire par la *Verneinung,* mais le contraire de la *Verne
 
 <!-- id: s24-07-0060 -->
 
-> comme l’a bien énoncé quelqu’un[^7] qui a bien voulu prendre la parole dans mon premier séminaire ...le contraire de la *Verneinung*...
+comme l’a bien énoncé quelqu’un[^7] qui a bien voulu prendre la parole dans mon premier séminaire ...le contraire de la *Verneinung*...
 
 <!-- id: s24-07-0061 -->
 
-> autrement dit de ce qui s’accompagne de la négation ...le contraire de la *Verneinung* ne donne pas *la Vérité*.
+autrement dit de ce qui s’accompagne de la négation ...le contraire de la *Verneinung* ne donne pas *la Vérité*.
 
 <!-- id: s24-07-0062 -->
 
@@ -304,21 +304,21 @@ C’est très frappant que...
 
 <!-- id: s24-07-0075 -->
 
-> je peux bien, moi aussi, passer à l’ordre des confidences
->
-> dont je suis accablé par mes analyses quotidiennes ...un « *je sais* » qui ait conscience...
+je peux bien, moi aussi, passer à l’ordre des confidences
+
+dont je suis accablé par mes analyses quotidiennes ...un « *je sais* » qui ait conscience...
 
 <!-- id: s24-07-0076 -->
 
-> c’est-à-dire non seulement savoir, mais volonté de ne pas changer ...c’est quelque chose que j’ai - je peux vous en faire la confidence - éprouvé très tôt, éprouvé du fait de quelqu’un, comme tout le monde, qui m’était proche, à savoir celle que j’appelais à ce moment-­là...
+c’est-à-dire non seulement savoir, mais volonté de ne pas changer ...c’est quelque chose que j’ai - je peux vous en faire la confidence - éprouvé très tôt, éprouvé du fait de quelqu’un, comme tout le monde, qui m’était proche, à savoir celle que j’appelais à ce moment-­là...
 
 <!-- id: s24-07-0077 -->
 
-> j’avais 2 ans de plus qu’elle, 2 ans et demi ...« *ma petite sœur* », elle s’ap­pelle Madeleine et elle m’a dit un jour, non pas « *je sais* »...
+j’avais 2 ans de plus qu’elle, 2 ans et demi ...« *ma petite sœur* », elle s’ap­pelle Madeleine et elle m’a dit un jour, non pas « *je sais* »...
 
 <!-- id: s24-07-0078 -->
 
-> parce que le « *je* » aurait été beaucoup ...mais « *Manène sait* ».
+parce que le « *je* » aurait été beaucoup ...mais « *Manène sait* ».
 
 <!-- id: s24-07-0079 -->
 
@@ -326,7 +326,7 @@ L’*inconscient* est une entité...
 
 <!-- id: s24-07-0080 -->
 
-> que j’ai essayé de définir par le *Symbolique*, mais qui n’est en somme qu’une entité de plus ...une entité avec laquelle il s’agit de « *savoir y faire* ».
+que j’ai essayé de définir par le *Symbolique*, mais qui n’est en somme qu’une entité de plus ...une entité avec laquelle il s’agit de « *savoir y faire* ».
 
 <!-- id: s24-07-0081 -->
 
@@ -342,13 +342,13 @@ J’ai toujours eu affaire à la *conscience*, mais sous une forme qui faisait p
 
 <!-- id: s24-07-0084 -->
 
-> puisque c’est une personne, une « elle » dans l’oc­casion, une « elle » puisque,
->
-> la personne en question s’est mise à la troi­sième personne en se nommant « Manène » ...sous une forme qui faisait par­tie de l’inconscient, dis-je, puisque c’est *une « elle » qui*...
+puisque c’est une personne, une « elle » dans l’oc­casion, une « elle » puisque,
+
+la personne en question s’est mise à la troi­sième personne en se nommant « Manène » ...sous une forme qui faisait par­tie de l’inconscient, dis-je, puisque c’est *une « elle » qui*...
 
 <!-- id: s24-07-0085 -->
 
-> comme dans mon titre de cette année ...*une « elle » qui s’ailait à mourre, qui se donnait pour porteuse de Savoir*.
+comme dans mon titre de cette année ...*une « elle » qui s’ailait à mourre, qui se donnait pour porteuse de Savoir*.
 
 <!-- id: s24-07-0086 -->
 
@@ -416,7 +416,7 @@ C’est ce qui fait *obstacle à ce* *quelque chose* qui, à se limiter au « *j
 
 <!-- id: s24-07-0102 -->
 
-> autrement dit de ce pôle, de ce pôle qu’est le conscient ...que Freud se laissait de temps en temps chatouiller par ce qu’on a appelé depuis « *les phénomènes psy* », à savoir qu’il se mettait à glisser tout doucement *dans le délire*, à propos du fait que Jones lui faisait passer sa carte de visite juste après qu’un patient lui ait eu men­tionné incidemment le nom de Jones.
+autrement dit de ce pôle, de ce pôle qu’est le conscient ...que Freud se laissait de temps en temps chatouiller par ce qu’on a appelé depuis « *les phénomènes psy* », à savoir qu’il se mettait à glisser tout doucement *dans le délire*, à propos du fait que Jones lui faisait passer sa carte de visite juste après qu’un patient lui ait eu men­tionné incidemment le nom de Jones.
 
 <!-- id: s24-07-0103 -->
 
@@ -448,9 +448,9 @@ Bozef se promène là-dedans, comme je l’ai vraiment indiqué dans le texte m�
 
 <!-- id: s24-07-0110 -->
 
-> comme je l’ai vraiment indiqué : je parle tout le temps, à chaque page,
->
-> de ceci qui est sur le point de se produire, c’est même au point que c’est là-dessus que je termine ...*qu’une lettre arrive toujours à destination*, à savoir qu’elle est en somme adressée au Roi, et que c’est pour ça qu’il faut qu’elle lui parvienne.
+comme je l’ai vraiment indiqué : je parle tout le temps, à chaque page,
+
+de ceci qui est sur le point de se produire, c’est même au point que c’est là-dessus que je termine ...*qu’une lettre arrive toujours à destination*, à savoir qu’elle est en somme adressée au Roi, et que c’est pour ça qu’il faut qu’elle lui parvienne.
 
 <!-- id: s24-07-0111 -->
 

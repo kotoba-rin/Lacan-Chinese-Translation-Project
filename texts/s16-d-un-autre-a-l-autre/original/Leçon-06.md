@@ -26,9 +26,9 @@ En gros, j’ai plutôt eu l’écho que dans le contexte actuel…
 
 <!-- id: s16-06-0006 -->
 
-> où un soupçon est porté, enfin, dans quelques endroits retirés, sur la qualité générale de ce qui se dispense
->
-> d’enseignement de la bouche des professeurs …on pense que ce n’était peut-être pas le moment de publier ça, ce n’est pas le moment le plus opportun.
+où un soupçon est porté, enfin, dans quelques endroits retirés, sur la qualité générale de ce qui se dispense
+
+d’enseignement de la bouche des professeurs …on pense que ce n’était peut-être pas le moment de publier ça, ce n’est pas le moment le plus opportun.
 
 <!-- id: s16-06-0007 -->
 
@@ -96,13 +96,13 @@ Ce n’est pas une raison pour s’en tenir là, et c’est pourquoi vous me voy
 
 <!-- id: s16-06-0023 -->
 
-> quelque soit par ailleurs le degré de compétence que j’ai montré précédemment
->
-> dans cet usage de ce qui n’est, après tout, qu’une partie de la linguistique …poursuivre ce travail qui consiste à saisir partout où les disciplines déjà constituées en prêtent l’occasion …poursuivre cette recherche…
+quelque soit par ailleurs le degré de compétence que j’ai montré précédemment
+
+dans cet usage de ce qui n’est, après tout, qu’une partie de la linguistique …poursuivre ce travail qui consiste à saisir partout où les disciplines déjà constituées en prêtent l’occasion …poursuivre cette recherche…
 
 <!-- id: s16-06-0024 -->
 
-> qui du niveau où il s’agissait vraiment d’une coïncidence, car c’est vraiment du matériel phonématique lui-même qu’il s’agit dans les jeux de l’inconscient …poursuivre au niveau où une autre discipline nous permet, entre ce statut du sujet et ce qu’elle développe, *de repérer un isomorphisme* qui est de l’abord, mais qui aussi bien peut se révéler recouvrir une identité d’étoffe, comme je l’ai déjà affirmé.
+qui du niveau où il s’agissait vraiment d’une coïncidence, car c’est vraiment du matériel phonématique lui-même qu’il s’agit dans les jeux de l’inconscient …poursuivre au niveau où une autre discipline nous permet, entre ce statut du sujet et ce qu’elle développe, *de repérer un isomorphisme* qui est de l’abord, mais qui aussi bien peut se révéler recouvrir une identité d’étoffe, comme je l’ai déjà affirmé.
 
 <!-- id: s16-06-0025 -->
 
@@ -110,11 +110,11 @@ Et quelle est cette discipline ? Je l’appellerai « *la pratique logicienne*�
 
 <!-- id: s16-06-0026 -->
 
-> mais il n’est pas inconcevable qu’elle trouve à se porter ailleurs …le lieu où effectivement elle s’exerce…
+mais il n’est pas inconcevable qu’elle trouve à se porter ailleurs …le lieu où effectivement elle s’exerce…
 
 <!-- id: s16-06-0027 -->
 
-> où il s’est passé quelque chose qui a décollé *la logique* de la tradition où, au long des siècles, elle était restée enfermée …c’est le domaine mathématique.
+où il s’est passé quelque chose qui a décollé *la logique* de la tradition où, au long des siècles, elle était restée enfermée …c’est le domaine mathématique.
 
 <!-- id: s16-06-0028 -->
 
@@ -126,7 +126,7 @@ Allons-nous, cette logique qui s’est attachée au domaine mathématique, pour 
 
 <!-- id: s16-06-0030 -->
 
-> <img src="assets/image26.jpeg" style="width:1.5434in;height:0.93209in" alt="17a" />
+<img src="assets/image26.jpeg" style="width:1.5434in;height:0.93209in" alt="17a" />
 
 <!-- id: s16-06-0031 -->
 
@@ -142,7 +142,7 @@ Toute domination de la métaphore par l’image doit être suspecte, le support 
 
 <!-- id: s16-06-0034 -->
 
-> c’est très simple à illustrer encore que ce ne soit qu’une illustration …*cette image masque simplement la fonction des orifices*.
+c’est très simple à illustrer encore que ce ne soit qu’une illustration …*cette image masque simplement la fonction des orifices*.
 
 <!-- id: s16-06-0035 -->
 
@@ -162,7 +162,7 @@ C’est en ce nom que je reviens - et ma digression est faite pour l’introduir
 
 <!-- id: s16-06-0039 -->
 
-> je ne parle bien entendu pas de ceux qui ne savent pas ce qu’ils disent …fassent des petites erreurs là-dessus.
+je ne parle bien entendu pas de ceux qui ne savent pas ce qu’ils disent …fassent des petites erreurs là-dessus.
 
 <!-- id: s16-06-0040 -->
 
@@ -174,7 +174,7 @@ Par contre le nom de JAKOBSON, à ma vue…
 
 <!-- id: s16-06-0042 -->
 
-> car j’ai lu - comme il s’exprime lui-même - *en diagonale* son article …est remarquablement absent, ce qui lui évite sans doute d’avoir à juger si oui ou non est pertinent l’usage que j’ai fait des fonctions de la *métaphore* et de la *métonymie*.
+car j’ai lu - comme il s’exprime lui-même - *en diagonale* son article …est remarquablement absent, ce qui lui évite sans doute d’avoir à juger si oui ou non est pertinent l’usage que j’ai fait des fonctions de la *métaphore* et de la *métonymie*.
 
 <!-- id: s16-06-0043 -->
 
@@ -186,7 +186,7 @@ Néanmoins, je rappellerai…
 
 <!-- id: s16-06-0045 -->
 
-> pour toucher à une de ces images qu’isole, et l’on ne sait pas d’où, *l’expérience psychanalytique* …la coupe qui contient le lait, celle qu’évoque sa prise à l’envers sous le nom du sein, premier des *objets(a)*, cette coupe n’est pas la structure par où le sein s’affirme comme homologue au placage placentaire, car c’est là même, physiologiquement - et sans l’entrée en jeu du verbe - sa réalité.
+pour toucher à une de ces images qu’isole, et l’on ne sait pas d’où, *l’expérience psychanalytique* …la coupe qui contient le lait, celle qu’évoque sa prise à l’envers sous le nom du sein, premier des *objets(a)*, cette coupe n’est pas la structure par où le sein s’affirme comme homologue au placage placentaire, car c’est là même, physiologiquement - et sans l’entrée en jeu du verbe - sa réalité.
 
 <!-- id: s16-06-0046 -->
 
@@ -194,7 +194,7 @@ Seulement même pour le savoir…
 
 <!-- id: s16-06-0047 -->
 
-> ce que je viens de dire, à savoir avant qu’il s’implique – ce sein – dans la dialectique de *l’objet(a)* …même pour savoir ce qu’il est là, *j’entends physiologiquement*, *il faut avoir une zoologie assez avancée*, et ceci de par l’emploi *exprès* \- autrement ce n’est pas visible - d’une classification dont on aurait tort de minimiser les relations à la logique.
+ce que je viens de dire, à savoir avant qu’il s’implique – ce sein – dans la dialectique de *l’objet(a)* …même pour savoir ce qu’il est là, *j’entends physiologiquement*, *il faut avoir une zoologie assez avancée*, et ceci de par l’emploi *exprès* \- autrement ce n’est pas visible - d’une classification dont on aurait tort de minimiser les relations à la logique.
 
 <!-- id: s16-06-0048 -->
 
@@ -218,9 +218,9 @@ Le formalisme en mathématique se caractérise ainsi : il est fondé sur l’es
 
 <!-- id: s16-06-0053 -->
 
-> et non certes du dehors, on l’a dit du dehors aussi, c’était ce que disait KOJÈVE
->
-> mais il ne faisait que le reprendre de la bouche de Bertrand RUSSELL …que « *ce discours n’a pas de sens et qu’on ne sait jamais si ce qu’on y dit est vrai* ».
+et non certes du dehors, on l’a dit du dehors aussi, c’était ce que disait KOJÈVE
+
+mais il ne faisait que le reprendre de la bouche de Bertrand RUSSELL …que « *ce discours n’a pas de sens et qu’on ne sait jamais si ce qu’on y dit est vrai* ».
 
 <!-- id: s16-06-0054 -->
 
@@ -260,7 +260,7 @@ Toujours quelque chose que l’on peut appeler « *objet* », bien sûr pas n�
 
 <!-- id: s16-06-0063 -->
 
-> pour illustrer ce que je veux dire, je parle du livre « *Word and Object »* de QUINE [^22] par exemple …quand il s’agit d’étendre au discours commun cette pratique, on se croit imposé de partir de ce qui s’appelle *langage-objet,* ce qui n’est rien que de satisfaire à cette condition d’un *langage sans équivoque*.
+pour illustrer ce que je veux dire, je parle du livre « *Word and Object »* de QUINE [^22] par exemple …quand il s’agit d’étendre au discours commun cette pratique, on se croit imposé de partir de ce qui s’appelle *langage-objet,* ce qui n’est rien que de satisfaire à cette condition d’un *langage sans équivoque*.
 
 <!-- id: s16-06-0064 -->
 
@@ -284,7 +284,7 @@ De cette formalisation, il n’est rien dès lors qui ne se pose comme interpré
 
 <!-- id: s16-06-0069 -->
 
-> et après tout c’est à la portée de chacun de vous, il suffirait d’acheter un bon livre ou d’aller dans les bons endroits, nous sommes dans le *pluridisciplinaire*, après tout c’est peut-être une exigence qui n’est pas sortie de rien du tout, c’est peut-être de s’apercevoir des ennuis qu’on éprouve à ce qu’on appelle improprement limitation mentale.
+et après tout c’est à la portée de chacun de vous, il suffirait d’acheter un bon livre ou d’aller dans les bons endroits, nous sommes dans le *pluridisciplinaire*, après tout c’est peut-être une exigence qui n’est pas sortie de rien du tout, c’est peut-être de s’apercevoir des ennuis qu’on éprouve à ce qu’on appelle improprement limitation mentale.
 
 <!-- id: s16-06-0070 -->
 
@@ -292,9 +292,13 @@ Un tel théorème - d’ailleurs il y en a deux - vous énoncera qu’à propos 
 
 <!-- id: s16-06-0071 -->
 
-> « 2 *et* 2 *font* 4 », quand même, il n’y a rien sur quoi on soit mieux assis. Naturellement on n’en est pas resté là !
->
-> Depuis le temps on s’est aperçu de bien des choses, mais qui en apparence ne sont que dans le strict développement de ce « 2 *et* 2 *font* 4 » …en d’autres termes, qu’à partir de là on tient un *discours* qui, selon toute apparence, est ce qu’on appelle *consistant*.
+<div class="text-quotation">
+
+« 2 *et* 2 *font* 4 », quand même, il n’y a rien sur quoi on soit mieux assis. Naturellement on n’en est pas resté là !
+
+Depuis le temps on s’est aperçu de bien des choses, mais qui en apparence ne sont que dans le strict développement de ce « 2 *et* 2 *font* 4 » …en d’autres termes, qu’à partir de là on tient un *discours* qui, selon toute apparence, est ce qu’on appelle *consistant*.
+
+</div>
 
 <!-- id: s16-06-0072 -->
 
@@ -328,11 +332,11 @@ C’est à partir de là…
 
 <!-- id: s16-06-0079 -->
 
-> et seulement à partir de là, c’est-à-dire de quelque chose qui distingue le discours premier, celui dans lequel la mathématique a fait hardiment tous ces progrès et sans avoir, chose curieuse, à y revenir par époque, d’une façon qui ruine les acquis généralement reçus aux époques précédentes, par opposition à ce discours épinglé pour l’occasion, et très improprement à mon gré, du terme du métalangage…
->
-> l’usage de ce langage formel appelé, lui, non moins improprement, langage,
->
-> …car c’est de quelque chose qu’une pratique isole comme champ fermé dans ce qui est tout simplement le langage, le langage sans lequel le discours mathématique ne serait proprement pas énonçable …c’est à partir de là dis-je, que GÖDEL met en évidence que *dans ce système le plus sûr en apparence du domaine mathématique,* *celui du discours arithmétique*, *la consistance même*, supposée de ce discours, *implique ce qui le limite, c’est à savoir l’incomplétude*.
+et seulement à partir de là, c’est-à-dire de quelque chose qui distingue le discours premier, celui dans lequel la mathématique a fait hardiment tous ces progrès et sans avoir, chose curieuse, à y revenir par époque, d’une façon qui ruine les acquis généralement reçus aux époques précédentes, par opposition à ce discours épinglé pour l’occasion, et très improprement à mon gré, du terme du métalangage…
+
+l’usage de ce langage formel appelé, lui, non moins improprement, langage,
+
+…car c’est de quelque chose qu’une pratique isole comme champ fermé dans ce qui est tout simplement le langage, le langage sans lequel le discours mathématique ne serait proprement pas énonçable …c’est à partir de là dis-je, que GÖDEL met en évidence que *dans ce système le plus sûr en apparence du domaine mathématique,* *celui du discours arithmétique*, *la consistance même*, supposée de ce discours, *implique ce qui le limite, c’est à savoir l’incomplétude*.
 
 <!-- id: s16-06-0080 -->
 
@@ -368,11 +372,11 @@ Du moins n’est-ce pas ainsi qu’un mathématicien, lui-même un des plus gran
 
 <!-- id: s16-06-0088 -->
 
-> de nuls de ces jeux classiques de l’esprit qui permettent d’appréhender ceci que le terme « *obsolète* », par exemple,
->
-> est un terme obsolète, et qu’à partir de là nous allons pouvoir spéculer sur « *les prédicats qui s’appliquent à eux-mêmes*
->
-> *et ceux qui ne s’y appliquent pas* », avec tout ce que ça peut comporter comme paradoxe, il ne s’agit pas de cela …il s’agit de quelque chose qui construit une limite qui ne découvre rien sans doute, *que le discours mathématique* n’ait lui-même découvert puisque c’est sur ce champ de découverte qu’il met à l’épreuve une méthode qui lui permet de l’interroger sur ceci qui est tout de même essentiel, à savoir jusqu’où il peut rendre compte de lui-même, jusqu’où pourrait être dit atteinte sa coïncidence avec son propre contenu si ces termes avaient un sens, alors que c’est le domaine même où la notion de contenu vient à être à proprement parler vidée.
+de nuls de ces jeux classiques de l’esprit qui permettent d’appréhender ceci que le terme « *obsolète* », par exemple,
+
+est un terme obsolète, et qu’à partir de là nous allons pouvoir spéculer sur « *les prédicats qui s’appliquent à eux-mêmes*
+
+*et ceux qui ne s’y appliquent pas* », avec tout ce que ça peut comporter comme paradoxe, il ne s’agit pas de cela …il s’agit de quelque chose qui construit une limite qui ne découvre rien sans doute, *que le discours mathématique* n’ait lui-même découvert puisque c’est sur ce champ de découverte qu’il met à l’épreuve une méthode qui lui permet de l’interroger sur ceci qui est tout de même essentiel, à savoir jusqu’où il peut rendre compte de lui-même, jusqu’où pourrait être dit atteinte sa coïncidence avec son propre contenu si ces termes avaient un sens, alors que c’est le domaine même où la notion de contenu vient à être à proprement parler vidée.
 
 <!-- id: s16-06-0089 -->
 

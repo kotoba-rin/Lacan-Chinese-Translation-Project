@@ -42,7 +42,7 @@ Et c’est pour ça qu’il suffit de lire le moindre texte analytique courant p
 
 <!-- id: s9-17-0010 -->
 
-> tendre qu’à rendre fâcheusement évidente l’idée que pouvaient s’en faire les simples écoliers.
+tendre qu’à rendre fâcheusement évidente l’idée que pouvaient s’en faire les simples écoliers.
 
 <!-- id: s9-17-0011 -->
 
@@ -270,9 +270,9 @@ Je veux dire que *loin que cette zone intérieure*... d’objets aussi considér
 
 <!-- id: s9-17-0067 -->
 
-> définie par cette image du huit renversé, par le recouvrement, ou le redoublement dans ce recou­vrement,
->
-> *d’une classe, d’une relation, d’une proposition* quelconque par elle-même, par sa portée à la seconde puissance …*loin que ceci laisse* dans un cas notoire *la classe, la proposition, la relation d’une façon générale, la catégorie à l’intérieur d’elle-même*, d’une façon en quelque sorte plus pesante, plus accen­tuée, *ceci a pour effet de la réduire à l’homogénéité avec ce qui est à l’extérieur*.
+définie par cette image du huit renversé, par le recouvrement, ou le redoublement dans ce recou­vrement,
+
+*d’une classe, d’une relation, d’une proposition* quelconque par elle-même, par sa portée à la seconde puissance …*loin que ceci laisse* dans un cas notoire *la classe, la proposition, la relation d’une façon générale, la catégorie à l’intérieur d’elle-même*, d’une façon en quelque sorte plus pesante, plus accen­tuée, *ceci a pour effet de la réduire à l’homogénéité avec ce qui est à l’extérieur*.
 
 <!-- id: s9-17-0068 -->
 
@@ -356,7 +356,7 @@ Je vous fais observer incidemment que si vous coupez le tore successivement sui�
 
 <!-- id: s9-17-0088 -->
 
-> <img src="assets/image90.jpeg" style="width:1.50812in;height:0.74462in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S9 B\Doc S9\zw.jpg" />
+<img src="assets/image90.jpeg" style="width:1.50812in;height:0.74462in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S9 B\Doc S9\zw.jpg" />
 
 <!-- id: s9-17-0089 -->
 

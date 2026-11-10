@@ -30,7 +30,7 @@ Le rapport entre cela et la notion à laquelle FREUD est conduit par sa méditat
 
 <!-- id: s2-18-0007 -->
 
-> si c’est au niveau du *réel*, de *l’imaginaire* ou du *symbolique*, à savoir très précisément *de la mort*.
+si c’est au niveau du *réel*, de *l’imaginaire* ou du *symbolique*, à savoir très précisément *de la mort*.
 
 <!-- id: s2-18-0008 -->
 
@@ -42,7 +42,7 @@ Eh bien…
 
 <!-- id: s2-18-0010 -->
 
-> et j’espère cette fois : plus encore, quelle est la signification de la découverte freudienne, quelle est la position non seulement de la pensée freudienne, mais de notre expérience, en tant qu’elle est l’expérien­ce analytique, en tant qu’elle est ce quelque chose par quoi il nous est donné d’assister le sujet dans la révélation qu’il se fait de lui-même, à lui-même, dans l’expérience analytique
+et j’espère cette fois : plus encore, quelle est la signification de la découverte freudienne, quelle est la position non seulement de la pensée freudienne, mais de notre expérience, en tant qu’elle est l’expérien­ce analytique, en tant qu’elle est ce quelque chose par quoi il nous est donné d’assister le sujet dans la révélation qu’il se fait de lui-même, à lui-même, dans l’expérience analytique
 
 <!-- id: s2-18-0011 -->
 
@@ -70,7 +70,7 @@ C’est pour cela qu’aujourd’hui je voudrais qu’avant donc que j’apporte
 
 <!-- id: s2-18-0017 -->
 
-> et qui aussi bien - j’espère - pour les autres ne le seront pas mais seront une ouverture de plus
+et qui aussi bien - j’espère - pour les autres ne le seront pas mais seront une ouverture de plus
 
 <!-- id: s2-18-0018 -->
 
@@ -174,7 +174,7 @@ Nous assistons tout à fait à quelque chose de semblable dans ce qui est de la 
 
 <!-- id: s2-18-0043 -->
 
-> et qui vient *d’ailleurs*.
+et qui vient *d’ailleurs*.
 
 <!-- id: s2-18-0044 -->
 
@@ -186,9 +186,9 @@ Il y a évidemment discours, et comme vous dites, discours qui est discours comm
 
 <!-- id: s2-18-0046 -->
 
-> pour un temps, dans la limite de la petite scène, de la *Schauplatz* comme dit FREUD,
->
-> le *petit guignol* que nous montre POE, dans les limites de cette scène
+pour un temps, dans la limite de la petite scène, de la *Schauplatz* comme dit FREUD,
+
+le *petit guignol* que nous montre POE, dans les limites de cette scène
 
 <!-- id: s2-18-0047 -->
 
@@ -592,9 +592,9 @@ Mais pourquoi croyez-vous qu’il y a là quelque chose que vous puissiez lier c
 
 <!-- id: s2-18-0147 -->
 
-> et ce n’est pas pour rien que LA ROCHEFOUCAULD s’y place, ce n’est pas pour rien
->
-> que le *moi* devient une question si importante au temps de LA ROCHEFOUCAULD
+et ce n’est pas pour rien que LA ROCHEFOUCAULD s’y place, ce n’est pas pour rien
+
+que le *moi* devient une question si importante au temps de LA ROCHEFOUCAULD
 
 <!-- id: s2-18-0148 -->
 

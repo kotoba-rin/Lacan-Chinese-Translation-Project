@@ -78,7 +78,7 @@ Ces signifiants de *la science*, au sens le plus général, vous auriez tort de 
 
 <!-- id: s3-15-0019 -->
 
-> ce peut être dans telle ou telle communauté, dans telle ou telle peuplade
+ce peut être dans telle ou telle communauté, dans telle ou telle peuplade
 
 <!-- id: s3-15-0020 -->
 
@@ -102,7 +102,7 @@ Ces remarques peuvent paraître venir de loin, elles sont tout de même essentie
 
 <!-- id: s3-15-0025 -->
 
-> et chaque fois que nous reprenons au départ, c’est-à-dire au point où nous le reprenons toujours, car nous serons toujours au point de départ
+et chaque fois que nous reprenons au départ, c’est-à-dire au point où nous le reprenons toujours, car nous serons toujours au point de départ
 
 <!-- id: s3-15-0026 -->
 
@@ -186,7 +186,7 @@ Ces définitions, je vous prie de les retenir, parce qu’après tout je vous le
 
 <!-- id: s3-15-0046 -->
 
-> je parle dans *la science* telle qu’elle est actuellement constituée, simplement d’une façon camouflée, dans la notion de *retour à l’équilibre*, par exemple
+je parle dans *la science* telle qu’elle est actuellement constituée, simplement d’une façon camouflée, dans la notion de *retour à l’équilibre*, par exemple
 
 <!-- id: s3-15-0047 -->
 
@@ -222,9 +222,9 @@ Mais cette purification n’est pas autre chose qu’il ne pouvait échapper à 
 
 <!-- id: s3-15-0055 -->
 
-> qui sont très précisément présentées par les domaines limitrophes, ceux où il faut bien faire entrer
->
-> la question de l’usage du *signifiant* comme tel
+qui sont très précisément présentées par les domaines limitrophes, ceux où il faut bien faire entrer
+
+la question de l’usage du *signifiant* comme tel
 
 <!-- id: s3-15-0056 -->
 
@@ -294,7 +294,7 @@ Si *le complexe d’Œdipe* qui est une chose dont l’ordre, le degré d’éla
 
 <!-- id: s3-15-0072 -->
 
-> et c’est pour autant qu’il introduit comme tel et nommément le fonctionnement du signifiant comme tel, dans la conquête du dit « *homme* » ou « *femme* »
+et c’est pour autant qu’il introduit comme tel et nommément le fonctionnement du signifiant comme tel, dans la conquête du dit « *homme* » ou « *femme* »
 
 <!-- id: s3-15-0073 -->
 
@@ -406,9 +406,9 @@ Le paradoxe de ceci n’a jamais échappé à personne, et simplement les raison
 
 <!-- id: s3-15-0100 -->
 
-> je crois que c’est pour cela qu’il serait intéressant de faire l’analyse
->
-> des textes tels que ceux que nous avons indiqués tout à l’heure
+je crois que c’est pour cela qu’il serait intéressant de faire l’analyse
+
+des textes tels que ceux que nous avons indiqués tout à l’heure
 
 <!-- id: s3-15-0101 -->
 
@@ -448,7 +448,7 @@ Et que c’est par l’intermédiaire d’une sorte d’imitation, d’accrochag
 
 <!-- id: s3-15-0110 -->
 
-> je résume la notion analytique que nous pouvons prendre du cas de ses symptômes
+je résume la notion analytique que nous pouvons prendre du cas de ses symptômes
 
 <!-- id: s3-15-0111 -->
 
@@ -504,7 +504,11 @@ Et ces trois personnages bouffonnants qui opèrent, qui parlent, qui soutiennent
 
 <!-- id: s3-15-0124 -->
 
-> « *Le médecin-chef qui devait opérer ce malade, il l’a fait opérer par son interne*. »
+<div class="text-quotation">
+
+« *Le médecin-chef qui devait opérer ce malade, il l’a fait opérer par son interne*. »
+
+</div>
 
 <!-- id: s3-15-0125 -->
 

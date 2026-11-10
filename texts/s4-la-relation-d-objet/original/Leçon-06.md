@@ -540,9 +540,13 @@ C’est ce que FREUD exprime d’une façon très juste, et qui n’a que le tor
 
 <!-- id: s4-06-0102 -->
 
-> « *Je crois que l’intention de m’induire en erreur était un des éléments formateur de ce rêve. C’était aussi une tentative*
->
-> *de gagner mon intérêt et ma bonne disposition, pro­bablement pour plus tard me désillusionner d’autant plus profondément.* »
+<div class="text-quotation">
+
+« *Je crois que l’intention de m’induire en erreur était un des éléments formateur de ce rêve. C’était aussi une tentative*
+
+*de gagner mon intérêt et ma bonne disposition, pro­bablement pour plus tard me désillusionner d’autant plus profondément.* »
+
+</div>
 
 <!-- id: s4-06-0103 -->
 

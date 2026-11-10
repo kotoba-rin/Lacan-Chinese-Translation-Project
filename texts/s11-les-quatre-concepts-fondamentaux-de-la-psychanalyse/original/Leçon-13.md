@@ -136,8 +136,8 @@ ne peuvent qu’apparaître disjoints.
 
 <!-- id: s11-13-0026 -->
 
-> si au moment où elle est intro­duite, nous nous reportons au début des énoncés de FREUD dans l’ar­ticle
-> …*la poussée* va être identifiée à une pure et simple *tendance à la décharge*, c’est à savoir, à ce qui se produit du fait d’un *stimulus*, à savoir la transmission de la part admise, au niveau du stimulus, du *sup­plément d’énergie*, la fameuse quantité « Qή » de l’*Esquisse* [^73].
+si au moment où elle est intro­duite, nous nous reportons au début des énoncés de FREUD dans l’ar­ticle
+…*la poussée* va être identifiée à une pure et simple *tendance à la décharge*, c’est à savoir, à ce qui se produit du fait d’un *stimulus*, à savoir la transmission de la part admise, au niveau du stimulus, du *sup­plément d’énergie*, la fameuse quantité « Qή » de l’*Esquisse* [^73].
 
 <!-- id: s11-13-0027 -->
 
@@ -225,11 +225,11 @@ Il n’y a qu’une chose qui y objecte tout de suite…
 
 <!-- id: s11-13-0042 -->
 
-> et c’est d’ailleurs assez remarquable que depuis le temps que c’est là à nous poser comme une *énigme* qui, à la façon de toutes les *énigmes* de FREUD, est une énigme qui a été soutenue comme une gageure, enfin jusqu’au terme de la vie de FREUD, et même sans que FREUD ait daigné s’en expli­quer plus.
->
-> Il laissait probablement le travail à ceux qui auraient pu le faire
-> …c’est une des *vicissitudes*, des quatre *vicissitudes* fondamentales que FREUD nous pose au départ, et il est curieux que ce soit aussi *quatre vicissitudes*, comme il y a *quatre éléments de la pulsion,* c’est *<u>la troi­sième</u>*, celle qui précède juste la quatrième dont FREUD
-> dans cet article ne traite pas, il la rejette à l’article suivant, à savoir *Le refoulement* - *<u>la troisième c’est la sublimation</u>*. \[*cf. « [La Troisième](http://www.ecole-lacanienne.net/documents/1974-11-01.doc)», Rome* 74\]
+et c’est d’ailleurs assez remarquable que depuis le temps que c’est là à nous poser comme une *énigme* qui, à la façon de toutes les *énigmes* de FREUD, est une énigme qui a été soutenue comme une gageure, enfin jusqu’au terme de la vie de FREUD, et même sans que FREUD ait daigné s’en expli­quer plus.
+
+Il laissait probablement le travail à ceux qui auraient pu le faire
+…c’est une des *vicissitudes*, des quatre *vicissitudes* fondamentales que FREUD nous pose au départ, et il est curieux que ce soit aussi *quatre vicissitudes*, comme il y a *quatre éléments de la pulsion,* c’est *<u>la troi­sième</u>*, celle qui précède juste la quatrième dont FREUD
+dans cet article ne traite pas, il la rejette à l’article suivant, à savoir *Le refoulement* - *<u>la troisième c’est la sublimation</u>*. \[*cf. « [La Troisième](http://www.ecole-lacanienne.net/documents/1974-11-01.doc)», Rome* 74\]
 
 <!-- id: s11-13-0043 -->
 
@@ -387,12 +387,16 @@ qui nous viendrait, c’est je ne sais quoi qui montrerait :
 
 <!-- id: s11-13-0071 -->
 
-> « *la marche d’une dynamo qui serait branchée sur la prise du gaz avec quelque part une plume de paon qui en sort*
->
-> *et vient chatouiller le ventre d’une jolie femme qui est là à demeure, pour la beauté de la chose.* »
-> La chose commençant d’ailleurs à devenir intéressante de ceci : c’est que ce que FREUD nous définit par *la pulsion*,
-> c’est toutes les formes dont on peut inverser un pareil mécanisme. Je ne veux pas dire qu’on retourne *la dynamo*, on déroule ses fils : c’est eux qui deviennent la plume de paon, la prise du gaz passe dans la bouche de la dame et un croupion sort au milieu.
-> Voilà ce qu’il montre comme exemple développé.
+<div class="text-quotation">
+
+« *la marche d’une dynamo qui serait branchée sur la prise du gaz avec quelque part une plume de paon qui en sort*
+
+*et vient chatouiller le ventre d’une jolie femme qui est là à demeure, pour la beauté de la chose.* »
+La chose commençant d’ailleurs à devenir intéressante de ceci : c’est que ce que FREUD nous définit par *la pulsion*,
+c’est toutes les formes dont on peut inverser un pareil mécanisme. Je ne veux pas dire qu’on retourne *la dynamo*, on déroule ses fils : c’est eux qui deviennent la plume de paon, la prise du gaz passe dans la bouche de la dame et un croupion sort au milieu.
+Voilà ce qu’il montre comme exemple développé.
+
+</div>
 
 <!-- id: s11-13-0072 -->
 

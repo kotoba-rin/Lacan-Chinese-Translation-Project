@@ -130,7 +130,7 @@ Il s’agit de savoir ce que sont deux personnes, comme on dit...
 
 <!-- id: s21-14-0032 -->
 
-> c’est-à-dire deux animaux situés d’une *organisation politique* très spécifiée par ce que j’ai appelé *un discours* ...il s’agit de savoir ce qu’est *le dire* d’un échange ritualisé de paroles, et ce qui est supposé être en jeu dans cet exercice, à savoir : *l’inconscient*.
+c’est-à-dire deux animaux situés d’une *organisation politique* très spécifiée par ce que j’ai appelé *un discours* ...il s’agit de savoir ce qu’est *le dire* d’un échange ritualisé de paroles, et ce qui est supposé être en jeu dans cet exercice, à savoir : *l’inconscient*.
 
 <!-- id: s21-14-0033 -->
 
@@ -150,7 +150,7 @@ Alors ce que je veux dire, c’est que le *savoir inconscient*, celui que suppos
 
 <!-- id: s21-14-0037 -->
 
-> tel que, quoi qu’on en ait, même la science arrive à le faire providentiel, ce savoir ...c’est-à-dire que quelque chose - un sujet - l’assure comme harmonique.
+tel que, quoi qu’on en ait, même la science arrive à le faire providentiel, ce savoir ...c’est-à-dire que quelque chose - un sujet - l’assure comme harmonique.
 
 <!-- id: s21-14-0038 -->
 
@@ -158,7 +158,7 @@ Ce qu’avance Freud...
 
 <!-- id: s21-14-0039 -->
 
-> mais ce n’est pas tout, je le note en passant ...c’est qu’il n’est pas providentiel, c’est qu’il est *dramatique*, fait de quelque chose qui part d’un défaut dans l’être, d’une *dysharmonie* entre la pensée et le monde.
+mais ce n’est pas tout, je le note en passant ...c’est qu’il n’est pas providentiel, c’est qu’il est *dramatique*, fait de quelque chose qui part d’un défaut dans l’être, d’une *dysharmonie* entre la pensée et le monde.
 
 <!-- id: s21-14-0040 -->
 
@@ -170,7 +170,7 @@ C’est en ce sens que *le rapport sexuel* se montre, chez l’être...
 
 <!-- id: s21-14-0042 -->
 
-> que je ne suis pas le seul à caractériser d’« *être parlant »* ...se montre dérangé. Ceci en contraste avec tout ce qui semble se passer chez les autres êtres.
+que je ne suis pas le seul à caractériser d’« *être parlant »* ...se montre dérangé. Ceci en contraste avec tout ce qui semble se passer chez les autres êtres.
 
 <!-- id: s21-14-0043 -->
 
@@ -194,7 +194,7 @@ Parce que de là où nous vivons, la nature ne s’impose pas, à nous ce qui s�
 
 <!-- id: s21-14-0048 -->
 
-> où je suis revenu plusieurs fois ...que je me trouve avoir avancée à Sainte-Anne, qui est celle-ci :
+où je suis revenu plusieurs fois ...que je me trouve avoir avancée à Sainte-Anne, qui est celle-ci :
 
 <!-- id: s21-14-0049 -->
 
@@ -238,7 +238,7 @@ Ce que nous constatons c’est quelque chose qui, entre deux corps semble faire 
 
 <!-- id: s21-14-0059 -->
 
-> disons le mot pour aller vite et indiquer ma pensée ...sont narcissiques.
+disons le mot pour aller vite et indiquer ma pensée ...sont narcissiques.
 
 <!-- id: s21-14-0060 -->
 
@@ -254,7 +254,7 @@ Est-ce que parce qu’ici il m’arrive quelquefois...
 
 <!-- id: s21-14-0063 -->
 
-> dans toute la mesure où vous me le permettez à cause de ce micro ...*d’écrire* des choses au tableau, est-ce que c’est là ce qui supporte ma relation avec vous telle qu’elle s’instaure dans ce discours ?
+dans toute la mesure où vous me le permettez à cause de ce micro ...*d’écrire* des choses au tableau, est-ce que c’est là ce qui supporte ma relation avec vous telle qu’elle s’instaure dans ce discours ?
 
 <!-- id: s21-14-0064 -->
 
@@ -278,7 +278,7 @@ J’ai dit « *savoir »* d’un autre côté, mais *j’ai aussi souligné ce
 
 <!-- id: s21-14-0069 -->
 
-> que c’est à saisir, à jouer avec ce que j’appellerai les fronces, *les bords du Réel* ...c’est pour autant *que je fais foi à ceci* : que *seule l’écriture supporte comme telle ce Réel*, que je peux dire quelque chose qui soit orienté simplement, simplement orienté.
+que c’est à saisir, à jouer avec ce que j’appellerai les fronces, *les bords du Réel* ...c’est pour autant *que je fais foi à ceci* : que *seule l’écriture supporte comme telle ce Réel*, que je peux dire quelque chose qui soit orienté simplement, simplement orienté.
 
 <!-- id: s21-14-0070 -->
 
@@ -302,7 +302,7 @@ Alors de quoi s’agit-il quand la dernière fois je vous ai rappelé les *quatr
 
 <!-- id: s21-14-0075 -->
 
-> et j’ai dit 2 et pas le même puisque aussi bien, si c’était le même il reviendrait à la même place ...c’est à savoir qu’il en faut 2, 2 différents, pour qu’on parvienne à un quadrant qui s’homologue au premier mis à plat.
+et j’ai dit 2 et pas le même puisque aussi bien, si c’était le même il reviendrait à la même place ...c’est à savoir qu’il en faut 2, 2 différents, pour qu’on parvienne à un quadrant qui s’homologue au premier mis à plat.
 
 <!-- id: s21-14-0076 -->
 
@@ -314,11 +314,11 @@ J’y ai pataugé parce que, chose curieuse, il y a en somme...
 
 <!-- id: s21-14-0078 -->
 
-> c’est cela que cette expérience signifie ...il y a quelque chose de pas encore maîtrisé dans...
+c’est cela que cette expérience signifie ...il y a quelque chose de pas encore maîtrisé dans...
 
 <!-- id: s21-14-0079 -->
 
-> vous le savez, je vous l’ai indiqué, je vous le rappelle ...de non encore maîtrisé dans ce qui est de *l’ordre des nœuds*.
+vous le savez, je vous l’ai indiqué, je vous le rappelle ...de non encore maîtrisé dans ce qui est de *l’ordre des nœuds*.
 
 <!-- id: s21-14-0080 -->
 
@@ -342,7 +342,7 @@ C’est une supposition tout à fait capitale, et en elle-même éclairante dira
 
 <!-- id: s21-14-0085 -->
 
-> dont peut-être vous connaissez le volume, certains d’entre vous en tout cas se le sont sûrement procuré ...celle d’un Artin qui dit ceci : c’est qu’il n’y a qu’une seule façon sur une simple ligne d’affirmer que le nœud on ne peut pas le dénouer, c’est de deux choses l’une :
+dont peut-être vous connaissez le volume, certains d’entre vous en tout cas se le sont sûrement procuré ...celle d’un Artin qui dit ceci : c’est qu’il n’y a qu’une seule façon sur une simple ligne d’affirmer que le nœud on ne peut pas le dénouer, c’est de deux choses l’une :
 
 <!-- id: s21-14-0086 -->
 
@@ -350,7 +350,7 @@ C’est une supposition tout à fait capitale, et en elle-même éclairante dira
 
 <!-- id: s21-14-0087 -->
 
-> ce qui rend impossible de méconnaître quoi que ce soit qui se soit formé en nœud,
+ce qui rend impossible de méconnaître quoi que ce soit qui se soit formé en nœud,
 
 <!-- id: s21-14-0088 -->
 
@@ -378,11 +378,11 @@ Par contre, il suffit que cette droite infinie soit raboutée en rond...
 
 <!-- id: s21-14-0094 -->
 
-> pour nous exprimer d’une façon qui n’implique nulle forme géométrique mais seulement une consistance ...pour que du fait même que nous lui donnons consistance de rond, il apparaisse quelque chose qui est de l’ordre de l’*orientation*, non pas sur *ce que j’ai appelé à l’instant cette droite* *que* tout d’un coup *j’ai faite rond*, mais dans le nœud lui-même, car vous voyez...
+pour nous exprimer d’une façon qui n’implique nulle forme géométrique mais seulement une consistance ...pour que du fait même que nous lui donnons consistance de rond, il apparaisse quelque chose qui est de l’ordre de l’*orientation*, non pas sur *ce que j’ai appelé à l’instant cette droite* *que* tout d’un coup *j’ai faite rond*, mais dans le nœud lui-même, car vous voyez...
 
 <!-- id: s21-14-0095 -->
 
-> je vous l’ai marqué à chaque fois par une correspondance ...que c’est du fait que l’individu ici spécifié d’être orange ou jaune, c’est du fait qu’il est mis à plat sous la forme d’un rond, c’est de ce fait et de rien d’autre, qu’apparaît ici cette *orientation* que je peux appeler *lévogyre* :
+je vous l’ai marqué à chaque fois par une correspondance ...que c’est du fait que l’individu ici spécifié d’être orange ou jaune, c’est du fait qu’il est mis à plat sous la forme d’un rond, c’est de ce fait et de rien d’autre, qu’apparaît ici cette *orientation* que je peux appeler *lévogyre* :
 
 <!-- id: s21-14-0096 -->
 
@@ -426,11 +426,11 @@ C’est à savoir que il est facile de comprendre, c’est ce que j’ai essayé
 
 <!-- id: s21-14-0106 -->
 
-> ailleurs sur un de ces cercles, à savoir celui qui est ici le vert \[lapsus\]... que c’est celui qui est ici le bleu, ...que c’est ailleurs que nous nous trouvons le couper, autrement dit que la ligne jaune...
+ailleurs sur un de ces cercles, à savoir celui qui est ici le vert \[lapsus\]... que c’est celui qui est ici le bleu, ...que c’est ailleurs que nous nous trouvons le couper, autrement dit que la ligne jaune...
 
 <!-- id: s21-14-0107 -->
 
-> pour autant que c’est celle que nous avons rabattue, ...se continue et coupe.
+pour autant que c’est celle que nous avons rabattue, ...se continue et coupe.
 
 <!-- id: s21-14-0108 -->
 
@@ -466,7 +466,7 @@ C’est assez frappant que déjà dans un second temps...
 
 <!-- id: s21-14-0116 -->
 
-> c’est-à-dire après avoir cru que je m’en tirerai *bien à mon aise* par cet artifice, ...que je me suis trouvé de nouveau, avec cette écriture, m’embarrasser, m’embrouiller.
+c’est-à-dire après avoir cru que je m’en tirerai *bien à mon aise* par cet artifice, ...que je me suis trouvé de nouveau, avec cette écriture, m’embarrasser, m’embrouiller.
 
 <!-- id: s21-14-0117 -->
 
@@ -474,7 +474,7 @@ Est-ce que ce n’est pas là le signe de ce quelque chose qui a présidé à l�
 
 <!-- id: s21-14-0118 -->
 
-> aversion tout à fait frappante quant aux mathématiques ...aversion qui s’est produite à l’égard de ce qu’il est des nœuds.
+aversion tout à fait frappante quant aux mathématiques ...aversion qui s’est produite à l’égard de ce qu’il est des nœuds.
 
 <!-- id: s21-14-0119 -->
 
@@ -482,9 +482,9 @@ Car après tout, il n’aurait pas été inconcevable que ce quelque chose qui s
 
 <!-- id: s21-14-0120 -->
 
-> qui a fonctionné effectivement tout à fait comme *écriture*,
->
-> *écriture* par quoi s’est amorcée la science, je veux dire dans la géométrie grecque ...il est tout à fait frappant de voir que ç’aurait pu aussi bien être dans un effort concernant le *coinçage*, par exemple, qui se produit quand nous écartons ici ce nœud par rapport à la ligne qui sert à le constituer à proprement parler comme nœud.
+qui a fonctionné effectivement tout à fait comme *écriture*,
+
+*écriture* par quoi s’est amorcée la science, je veux dire dans la géométrie grecque ...il est tout à fait frappant de voir que ç’aurait pu aussi bien être dans un effort concernant le *coinçage*, par exemple, qui se produit quand nous écartons ici ce nœud par rapport à la ligne qui sert à le constituer à proprement parler comme nœud.
 
 <!-- id: s21-14-0121 -->
 
@@ -500,7 +500,7 @@ Encore faut-il que ce *quelque chose*, je tente de l’éclairer en quelque sort
 
 <!-- id: s21-14-0124 -->
 
-> dans *l’ordre logique* qu’essaie de construire notre Boole ...comme étant l’*univers*.
+dans *l’ordre logique* qu’essaie de construire notre Boole ...comme étant l’*univers*.
 
 <!-- id: s21-14-0125 -->
 
@@ -512,15 +512,15 @@ Je vous ai fait remarquer en même temps qu’il y a là quelque chose de contes
 
 <!-- id: s21-14-0127 -->
 
-> et dans la ligne même où Boole procède *en posant la formule* *x* (1*- x*) = 0, à savoir : tout ce qui n’est pas *x*,
->
-> c’est ce qui est *x* soustrait à *l’Univers*, et leur produit, leur intersection, leur rencontre est strictement égale à 0,
->
-> c’est sur cette base que Boole croit pouvoir avancer une formalisation de ce qu’il en est de la logique. ...tout à son opposé, je propose de donner au **1** la valeur de ce dans quoi, par mon discours consiste...
+et dans la ligne même où Boole procède *en posant la formule* *x* (1*- x*) = 0, à savoir : tout ce qui n’est pas *x*,
+
+c’est ce qui est *x* soustrait à *l’Univers*, et leur produit, leur intersection, leur rencontre est strictement égale à 0,
+
+c’est sur cette base que Boole croit pouvoir avancer une formalisation de ce qu’il en est de la logique. ...tout à son opposé, je propose de donner au **1** la valeur de ce dans quoi, par mon discours consiste...
 
 <!-- id: s21-14-0128 -->
 
-> consiste *en tant que c’est elle qui fait obstacle au rapport sexuel* ...à savoir *la jouissance phallique*.
+consiste *en tant que c’est elle qui fait obstacle au rapport sexuel* ...à savoir *la jouissance phallique*.
 
 <!-- id: s21-14-0129 -->
 
@@ -528,11 +528,11 @@ C’est pour autant que *la jouissance phallique*...
 
 <!-- id: s21-14-0130 -->
 
-> et là, disons que je la fais organe, je la suppose *incarnée* par ce qui dans l’homme y correspond *comme organe* ...c’est pour autant que cette *jouissance* prend cet accent privilégié...
+et là, disons que je la fais organe, je la suppose *incarnée* par ce qui dans l’homme y correspond *comme organe* ...c’est pour autant que cette *jouissance* prend cet accent privilégié...
 
 <!-- id: s21-14-0131 -->
 
-> privilégié telle qu’elle s’impose dans tout ce qui est de notre expérience, notre expérience analytique ...c’est là autour - et parce que ce n’est que là autour - autour de l’individu lui-même sexué qui le supporte, *c’est pour autant que cette jouissance est privilégiée, que toute l’expérience analytique s’ordonne*.
+privilégié telle qu’elle s’impose dans tout ce qui est de notre expérience, notre expérience analytique ...c’est là autour - et parce que ce n’est que là autour - autour de l’individu lui-même sexué qui le supporte, *c’est pour autant que cette jouissance est privilégiée, que toute l’expérience analytique s’ordonne*.
 
 <!-- id: s21-14-0132 -->
 
@@ -552,11 +552,11 @@ Ce qui se suggère de ceci, *c’est que pour autant que quelque chose*...
 
 <!-- id: s21-14-0136 -->
 
-> qui est désigné dans Boole par un *x...quelque chose se précipite comme signifiant*...
+qui est désigné dans Boole par un *x...quelque chose se précipite comme signifiant*...
 
 <!-- id: s21-14-0137 -->
 
-> ce signifiant est en quelque sorte *dérobé, soustrait, emprunté* à *la jouissance phallique* elle-même, *...et c’est en tant que le signifiant en est le substitut,* *que le signifiant même se trouve faire obstacle à ce que jamais s’en écrive ce que j’appelle « le rapport sexuel ».*
+ce signifiant est en quelque sorte *dérobé, soustrait, emprunté* à *la jouissance phallique* elle-même, *...et c’est en tant que le signifiant en est le substitut,* *que le signifiant même se trouve faire obstacle à ce que jamais s’en écrive ce que j’appelle « le rapport sexuel ».*
 
 <!-- id: s21-14-0138 -->
 
@@ -608,17 +608,17 @@ Ce dont je parle, c’est de cette distinction qu’il faut faire de *la jouissa
 
 <!-- id: s21-14-0150 -->
 
-> en tant que chez l’être parlant elle prévaut et *que c’est de là qu’est dérobée toute la fonction de la signifiance* ...qu’il y a une distinction à faire entre cette jouissance préva­lente...
+en tant que chez l’être parlant elle prévaut et *que c’est de là qu’est dérobée toute la fonction de la signifiance* ...qu’il y a une distinction à faire entre cette jouissance préva­lente...
 
 <!-- id: s21-14-0151 -->
 
-> pour autant qu’elle fait obstacle à ce qu’il en est du rapport sexuel ...qu’il y a une distinction à faire de cette jouissance avec ceci que, à côté...
+pour autant qu’elle fait obstacle à ce qu’il en est du rapport sexuel ...qu’il y a une distinction à faire de cette jouissance avec ceci que, à côté...
 
 <!-- id: s21-14-0152 -->
 
-> je vous l’ai introduit l’autre jour, je pense suffisamment avec ce qu’il en était de l’arbre,
->
-> de l’arbre dit de *la science*, de *la science du Bien et du Mal* ...il y a ceci qu’assurément l’animal, l’animal se distingue de sub­sister non seulement en un corps, mais que ce corps comme tel ne s’identifie, n’a d’identité,
+je vous l’ai introduit l’autre jour, je pense suffisamment avec ce qu’il en était de l’arbre,
+
+de l’arbre dit de *la science*, de *la science du Bien et du Mal* ...il y a ceci qu’assurément l’animal, l’animal se distingue de sub­sister non seulement en un corps, mais que ce corps comme tel ne s’identifie, n’a d’identité,
 
 <!-- id: s21-14-0153 -->
 
@@ -642,7 +642,7 @@ C’est ainsi que j’ai commencé dès le début de mon enseigne­ment par auth
 
 <!-- id: s21-14-0158 -->
 
-> je faisais référence à ce que j’appellerai l’homologie, la ressemblance ...justement cette partie qui est tellement vacillante, quand il s’agit de l’être parlant, de l’homologie des corps.
+je faisais référence à ce que j’appellerai l’homologie, la ressemblance ...justement cette partie qui est tellement vacillante, quand il s’agit de l’être parlant, de l’homologie des corps.
 
 <!-- id: s21-14-0159 -->
 
@@ -654,7 +654,7 @@ Que si l’on parle...
 
 <!-- id: s21-14-0161 -->
 
-> comme je l’ai dit, je l’ai évoqué antérieurement ...que si l’on on parle de nœud, c’est faire allusion à l’embrassement, à l’étreinte.
+comme je l’ai dit, je l’ai évoqué antérieurement ...que si l’on on parle de nœud, c’est faire allusion à l’embrassement, à l’étreinte.
 
 <!-- id: s21-14-0162 -->
 
@@ -670,7 +670,7 @@ Ce que le langage en quelque sorte sanctionne, c’est le fait que dans sa forma
 
 <!-- id: s21-14-0165 -->
 
-> et c’est en cela que le signifiant montre cette « *précipitation* » par quoi l’être parlant peut avoir accès au *Réel* ...c’est pour autant que de toujours,
+et c’est en cela que le signifiant montre cette « *précipitation* » par quoi l’être parlant peut avoir accès au *Réel* ...c’est pour autant que de toujours,
 
 <!-- id: s21-14-0166 -->
 

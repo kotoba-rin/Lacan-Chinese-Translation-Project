@@ -38,9 +38,9 @@ Assurément, ce n’est pas sans fondement que l’analyse s’est engagée dans
 
 <!-- id: s2-21-0009 -->
 
-> parce que FREUD à un moment l’a réintégré,
->
-> parce que FREUD l’a montré sous plus d’une face, l’importance essentielle, économique et dynamique d’abord, à quoi il a ajouté une certaine *topique*, dont nous reparlons sans cesse et qui est au cœur du problème pour l’instant,
+parce que FREUD à un moment l’a réintégré,
+
+parce que FREUD l’a montré sous plus d’une face, l’importance essentielle, économique et dynamique d’abord, à quoi il a ajouté une certaine *topique*, dont nous reparlons sans cesse et qui est au cœur du problème pour l’instant,
 
 <!-- id: s2-21-0010 -->
 
@@ -80,9 +80,9 @@ Comme point de référence…
 
 <!-- id: s2-21-0019 -->
 
-> il a bien fallu que j’en choisisse un, et puisque j’en avais choisi un tout près la dernière fois
->
-> et qu’il n’est jamais si aisé de par­ler à propos d’auteurs qui nous sont aussi géographiquement proches
+il a bien fallu que j’en choisisse un, et puisque j’en avais choisi un tout près la dernière fois
+
+et qu’il n’est jamais si aisé de par­ler à propos d’auteurs qui nous sont aussi géographiquement proches
 
 <!-- id: s2-21-0020 -->
 
@@ -114,15 +114,19 @@ Il nous dit en fin de compte :
 
 <!-- id: s2-21-0027 -->
 
-> « *qu’il faut tout refaire. Il y a des hétérogénéités, des dissymétries singulières dans la théorie freudienne.*
->
-> *Moi* - dit FAIRBAIRN - *je n’y comprends plus rien. Ne serait-il pas plus simple, plutôt que de nous par­ler d’une libido*
->
-> *dont nous ne savons plus actuellement par quel bout la prendre, qui nous pose trop de problèmes, qui aussi bien aboutit à ceci*
->
-> *que pour l’iden­tifier à des pulsions qui sont en somme une certaine façon de la prendre sous une forme objectale, objectivée :*
->
-> *mon Dieu, pourquoi ne pas plus simplement parler d’objet. »*
+<div class="text-quotation">
+
+« *qu’il faut tout refaire. Il y a des hétérogénéités, des dissymétries singulières dans la théorie freudienne.*
+
+*Moi* - dit FAIRBAIRN - *je n’y comprends plus rien. Ne serait-il pas plus simple, plutôt que de nous par­ler d’une libido*
+
+*dont nous ne savons plus actuellement par quel bout la prendre, qui nous pose trop de problèmes, qui aussi bien aboutit à ceci*
+
+*que pour l’iden­tifier à des pulsions qui sont en somme une certaine façon de la prendre sous une forme objectale, objectivée :*
+
+*mon Dieu, pourquoi ne pas plus simplement parler d’objet. »*
+
+</div>
 
 <!-- id: s2-21-0028 -->
 
@@ -130,13 +134,17 @@ Et au lieu de partir, comme FREUD l’a fait avec tellement de pru­dence et de 
 
 <!-- id: s2-21-0029 -->
 
-> *« la libido* - pour s’expri­mer comme il s’exprime dans son langage et sa langue - *est pleasure-seeking*, dit-il, *dans* FREUD,
->
-> *c’est-à-dire qu’elle recherche le plaisir, nous avons changé tout cela et nous sommes aperçus que la libido est object-seeking. *
->
-> *Et M.* FREUD *en avait quelque idée : n’écrit-il pas « love for object », l’amour est à la recherche de son objet ?*
->
-> *Entre les deux, il s’est simplement passé cette sorte de confusion, on a substitué « love », c’est-à-dire amour, à « libido ».*
+<div class="text-quotation">
+
+*« la libido* - pour s’expri­mer comme il s’exprime dans son langage et sa langue - *est pleasure-seeking*, dit-il, *dans* FREUD,
+
+*c’est-à-dire qu’elle recherche le plaisir, nous avons changé tout cela et nous sommes aperçus que la libido est object-seeking. *
+
+*Et M.* FREUD *en avait quelque idée : n’écrit-il pas « love for object », l’amour est à la recherche de son objet ?*
+
+*Entre les deux, il s’est simplement passé cette sorte de confusion, on a substitué « love », c’est-à-dire amour, à « libido ».*
+
+</div>
 
 <!-- id: s2-21-0030 -->
 
@@ -144,7 +152,7 @@ Ce qui est absolument stupéfiant, parce que je vous assure, vous pouvez rencont
 
 <!-- id: s2-21-0031 -->
 
-> vous voyez le rapport avec ce que j’ai apporté dans la derniè­re séance
+vous voyez le rapport avec ce que j’ai apporté dans la derniè­re séance
 
 <!-- id: s2-21-0032 -->
 
@@ -256,7 +264,7 @@ La relation…
 
 <!-- id: s2-21-0059 -->
 
-> et je ne force rien, je prie chacun de se reporter à cet article qui est exemplaire de ce qui est sous-jacent à beaucoup de positions plus moyennes, plus nuancées, plus camouflées, mais qui est une des tendances manifestes à quiconque vit dans le dialogue analytique à l’heure contemporaine
+et je ne force rien, je prie chacun de se reporter à cet article qui est exemplaire de ce qui est sous-jacent à beaucoup de positions plus moyennes, plus nuancées, plus camouflées, mais qui est une des tendances manifestes à quiconque vit dans le dialogue analytique à l’heure contemporaine
 
 <!-- id: s2-21-0060 -->
 
@@ -384,7 +392,7 @@ Il va s’agir que cet *ego libidinal* puisse être réintégré, c’est-à-dir
 
 <!-- id: s2-21-0091 -->
 
-> s’il y a quelque chose que l’analyse met depuis toujours au premier plan c’est bien cela, la fécondité de la libido quant à la création des objets comme tels, qui répondent à une cer­taine phase, à une certaine étape de son développement
+s’il y a quelque chose que l’analyse met depuis toujours au premier plan c’est bien cela, la fécondité de la libido quant à la création des objets comme tels, qui répondent à une cer­taine phase, à une certaine étape de son développement
 
 <!-- id: s2-21-0092 -->
 
@@ -420,9 +428,9 @@ L’intervention de l’analys­te est donc quelque chose…
 
 <!-- id: s2-21-0100 -->
 
-> et vous reconnaissez, je pense, ce qui pour certains d’entre vous, je suppose,
->
-> ne constitue que le développement de ce que nous fai­sons dans l’analyse
+et vous reconnaissez, je pense, ce qui pour certains d’entre vous, je suppose,
+
+ne constitue que le développement de ce que nous fai­sons dans l’analyse
 
 <!-- id: s2-21-0101 -->
 
@@ -438,9 +446,9 @@ Aussi bien ceci n’est-il pas contesté, et toute espèce de théorisation de l
 
 <!-- id: s2-21-0104 -->
 
-> la chose est dite et appuyée et où que vous alliez, dès que vous entrez dans un tel registre
->
-> de l’organisation de l’expérience, vous le retrouvez affirmé
+la chose est dite et appuyée et où que vous alliez, dès que vous entrez dans un tel registre
+
+de l’organisation de l’expérience, vous le retrouvez affirmé
 
 <!-- id: s2-21-0105 -->
 
@@ -532,7 +540,7 @@ C’est le fait de vous le raconter, c’est en tant qu’il se raconte, c’est
 
 <!-- id: s2-21-0127 -->
 
-> je vais vous laisser apparaître le mot, c’est bien la première fois et vous allez voir dans quel sens
+je vais vous laisser apparaître le mot, c’est bien la première fois et vous allez voir dans quel sens
 
 <!-- id: s2-21-0128 -->
 
@@ -600,7 +608,7 @@ De même, quand il s’agit des *images* de notre sujet, c’est l’ordre diale
 
 <!-- id: s2-21-0144 -->
 
-> le fait que tout ceci, cette *fonction des images* s’est inscrite, a pris une certaine place, un certain point, qu’en certains points elles se sont *capitonnées* dans le texte de l’histoire du sujet
+le fait que tout ceci, cette *fonction des images* s’est inscrite, a pris une certaine place, un certain point, qu’en certains points elles se sont *capitonnées* dans le texte de l’histoire du sujet
 
 <!-- id: s2-21-0145 -->
 
@@ -620,7 +628,7 @@ C’est aussi précocement que possible que l’expérience, et particulièremen
 
 <!-- id: s2-21-0149 -->
 
-> parce que déjà tout ce qui s’est produit dans l’ordre de la relation d’objet est structuré en fonction de quelque chose qui a été pour le sujet une histoire par­ticulière, quelque chose qui n’est pas simplement *réminiscence* mais *remémorable*
+parce que déjà tout ce qui s’est produit dans l’ordre de la relation d’objet est structuré en fonction de quelque chose qui a été pour le sujet une histoire par­ticulière, quelque chose qui n’est pas simplement *réminiscence* mais *remémorable*
 
 <!-- id: s2-21-0150 -->
 

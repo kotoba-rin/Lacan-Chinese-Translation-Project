@@ -18,7 +18,7 @@ J’ai mis quelques petits mots au tableau pour que ça vous serve à accrocher 
 
 <!-- id: s16-14-0004 -->
 
-> comme cela s’est fait d’ailleurs quelques-unes des années précédentes …il y en ait qui veuillent bien se dévouer pour pousser plus loin un certain nombre d’objets subsistant, de choses déjà imprimées dont la mise au point ne serait pas vaine après un certain laps de temps.
+comme cela s’est fait d’ailleurs quelques-unes des années précédentes …il y en ait qui veuillent bien se dévouer pour pousser plus loin un certain nombre d’objets subsistant, de choses déjà imprimées dont la mise au point ne serait pas vaine après un certain laps de temps.
 
 <!-- id: s16-14-0005 -->
 
@@ -38,7 +38,7 @@ Il arrive par exemple qu’un M. Gilles DELEUZE, continuant son travail, sorte s
 
 <!-- id: s16-14-0009 -->
 
-> *vraie surprise d’ailleurs car il ne me l’a nullement annoncé la dernière fois que je l’ai vu après le passage de ses deux thèses* …qui s’appelle « *Logique du sens ».*
+*vraie surprise d’ailleurs car il ne me l’a nullement annoncé la dernière fois que je l’ai vu après le passage de ses deux thèses* …qui s’appelle « *Logique du sens ».*
 
 <!-- id: s16-14-0010 -->
 
@@ -46,9 +46,9 @@ Il ne serait tout de même pas vain que quelqu’un - par exemple d’entre vous
 
 <!-- id: s16-14-0011 -->
 
-> je ne dis pas tout entier car c’est un gros morceau, mais enfin il est fait comme doit être fait un livre,
->
-> à savoir que *chacun* de ses chapitres implique l’*ensemble* …de sorte qu’en en prenant une part bien choisie, ce ne serait pas mal de s’apercevoir que lui, dans son bonheur, il a pu prendre le temps d’articuler, de rassembler dans un seul texte non seulement ce qu’il en est au cœur de ce que mon discours a énoncé.Et il n’est point douteux que ce discours est au cœur de ses livres puisqu’il y est avoué comme tel et que « *le séminaire sur la lettre volée »* en forme en quelque sorte le pas d’entrée, en définit le seuil.
+je ne dis pas tout entier car c’est un gros morceau, mais enfin il est fait comme doit être fait un livre,
+
+à savoir que *chacun* de ses chapitres implique l’*ensemble* …de sorte qu’en en prenant une part bien choisie, ce ne serait pas mal de s’apercevoir que lui, dans son bonheur, il a pu prendre le temps d’articuler, de rassembler dans un seul texte non seulement ce qu’il en est au cœur de ce que mon discours a énoncé.Et il n’est point douteux que ce discours est au cœur de ses livres puisqu’il y est avoué comme tel et que « *le séminaire sur la lettre volée »* en forme en quelque sorte le pas d’entrée, en définit le seuil.
 
 <!-- id: s16-14-0012 -->
 
@@ -56,7 +56,7 @@ Mais enfin lui, il a pu avoir le temps de toutes ces choses…
 
 <!-- id: s16-14-0013 -->
 
-> qui pour moi, ont nourri mon discours, l’ont aidé, lui ont donné à l’occasion son appareil …telles que la logique des Stoïciens par exemple : il se permet, il peut en montrer la place de soutènement essentielle, il peut le faire avec cette suprême élégance dont il a le secret, c’est-à-dire profitant des travaux de tous ceux qui ont éclairé ce difficile point de la doctrine stoïcienne, *difficile* parce qu’aussi bien elle ne nous est léguée que de morceaux épars, de témoignages étrangers avec lesquels nous sommes forcés de *reconstituer*, en quelque sorte *par des lumières rasantes*, quel en fut effectivement le relief, relief d’une pensée qui n’était pas seulement une philosophie
+qui pour moi, ont nourri mon discours, l’ont aidé, lui ont donné à l’occasion son appareil …telles que la logique des Stoïciens par exemple : il se permet, il peut en montrer la place de soutènement essentielle, il peut le faire avec cette suprême élégance dont il a le secret, c’est-à-dire profitant des travaux de tous ceux qui ont éclairé ce difficile point de la doctrine stoïcienne, *difficile* parce qu’aussi bien elle ne nous est léguée que de morceaux épars, de témoignages étrangers avec lesquels nous sommes forcés de *reconstituer*, en quelque sorte *par des lumières rasantes*, quel en fut effectivement le relief, relief d’une pensée qui n’était pas seulement une philosophie
 
 <!-- id: s16-14-0014 -->
 
@@ -76,11 +76,11 @@ C’est aussi bien pourquoi par exemple le fait de trouver à telle page - page 
 
 <!-- id: s16-14-0018 -->
 
-> *qui à un moment tournant de mon enseignement a porté devant la communauté psychiatrique réunie l’essentiel de ma doctrine sur l’inconscient* …celui de « *deux excellents travailleurs* » qui furent LAPLANCHE et LECLAIRE, comment sur ce point à s’en tenir, dit-il, il fait cette réserve mais il n’hésite pas, bien sûr, étant donné la grande pertinence qu’a dans l’ensemble ce *Rapport* , à m’y rapporter aussi quelque chose qu’il semble impliquer, à savoir ce qu’il appelle, ce qu’il traduit : « *la plurivocité des éléments signifiants au niveau de l’inconscient* » ou plus exactement ce qui s’exprime dans telle formule qu’à relire ce rapport…
+*qui à un moment tournant de mon enseignement a porté devant la communauté psychiatrique réunie l’essentiel de ma doctrine sur l’inconscient* …celui de « *deux excellents travailleurs* » qui furent LAPLANCHE et LECLAIRE, comment sur ce point à s’en tenir, dit-il, il fait cette réserve mais il n’hésite pas, bien sûr, étant donné la grande pertinence qu’a dans l’ensemble ce *Rapport* , à m’y rapporter aussi quelque chose qu’il semble impliquer, à savoir ce qu’il appelle, ce qu’il traduit : « *la plurivocité des éléments signifiants au niveau de l’inconscient* » ou plus exactement ce qui s’exprime dans telle formule qu’à relire ce rapport…
 
 <!-- id: s16-14-0019 -->
 
-> puisque j’y avais l’attention attirée par cette remarque de DELEUZE …« *la possibilité de tous les sens, y est-il écrit, se produit à partir de cette véritable identité du signifiant et du signifié* » qui, comme peut-être certains d’entre vous s’en souviennent, résulte d’une certaine façon de manipuler un peu au-delà de la façon dont je l’avais fait la fonction métaphorique et de faire fonctionner le S… rejeté au-dessous de la limite, de la barre, par l’effet métaphorique d’une substitution …de faire jouer ce S conjoint à lui-même, comme représentant l’essence de la relation en cause et jouant comme tel au niveau de l’inconscient.
+puisque j’y avais l’attention attirée par cette remarque de DELEUZE …« *la possibilité de tous les sens, y est-il écrit, se produit à partir de cette véritable identité du signifiant et du signifié* » qui, comme peut-être certains d’entre vous s’en souviennent, résulte d’une certaine façon de manipuler un peu au-delà de la façon dont je l’avais fait la fonction métaphorique et de faire fonctionner le S… rejeté au-dessous de la limite, de la barre, par l’effet métaphorique d’une substitution …de faire jouer ce S conjoint à lui-même, comme représentant l’essence de la relation en cause et jouant comme tel au niveau de l’inconscient.
 
 <!-- id: s16-14-0020 -->
 
@@ -92,21 +92,21 @@ Assurément, c’est là un point que je laisserai d’autant plus volontiers au
 
 <!-- id: s16-14-0022 -->
 
-> ce qu’assurément l’excès des devoirs de ma marche qui est destinée
->
-> par nature à ne pas pouvoir s’arrêter étant donné qu’elle doit être encore longue …*si quelqu’un était capable*…
+ce qu’assurément l’excès des devoirs de ma marche qui est destinée
+
+par nature à ne pas pouvoir s’arrêter étant donné qu’elle doit être encore longue …*si quelqu’un était capable*…
 
 <!-- id: s16-14-0023 -->
 
-> en rapprochant ce qu’énonce DELEUZE dans l’ensemble de cet ouvrage de ce qui est ici avancé
->
-> non absolument sans pertinence mais assurément d’une façon qui représente une faille, d’établir pourquoi
->
-> c’est une faille, de serrer d’une façon précise ce qu’il a pu y avoir là de fautif, et ce qui rend cette faute cohérente, très précisément de ce qui dans ce rapport joue autour de ce sur quoi j’ai insisté à plusieurs reprises les années précédentes, à savoir ce qu’il y a d’essentiel dans une *juste traduction*, ce qui revient à dire dans une *juste désarticulation* de la fonction dite *du Vortellungsrepräsentanz et de son incidence au regard de l’inconscient effectif* …*si quelqu’un voulait bien se proposer pour mettre au point ceci*…
+en rapprochant ce qu’énonce DELEUZE dans l’ensemble de cet ouvrage de ce qui est ici avancé
+
+non absolument sans pertinence mais assurément d’une façon qui représente une faille, d’établir pourquoi
+
+c’est une faille, de serrer d’une façon précise ce qu’il a pu y avoir là de fautif, et ce qui rend cette faute cohérente, très précisément de ce qui dans ce rapport joue autour de ce sur quoi j’ai insisté à plusieurs reprises les années précédentes, à savoir ce qu’il y a d’essentiel dans une *juste traduction*, ce qui revient à dire dans une *juste désarticulation* de la fonction dite *du Vortellungsrepräsentanz et de son incidence au regard de l’inconscient effectif* …*si quelqu’un voulait bien se proposer pour mettre au point ceci*…
 
 <!-- id: s16-14-0024 -->
 
-> qui aurait l’avantage, comme il est toujours nécessaire, de permettre, et à l’occasion d’une façon publique, que ceux qui se réfèrent à mon enseignement et qui, bien entendu, le complètent, le nourrissent, l’accompagnent, de ce qui a pu en être énoncé d’une façon qu’ils complètent, et quelquefois d’une façon clarifiante, les travaux de mes élèves …qu’il soit quand même mis au point ce qui, dans tel ou tel de ce travail ne convient pas entièrement à traduire non pas je dirai *ce qui était à ce moment l’axe de ce que j’énonçais* mais de *ce que la suite a démontré pour en être l’axe véritable*.
+qui aurait l’avantage, comme il est toujours nécessaire, de permettre, et à l’occasion d’une façon publique, que ceux qui se réfèrent à mon enseignement et qui, bien entendu, le complètent, le nourrissent, l’accompagnent, de ce qui a pu en être énoncé d’une façon qu’ils complètent, et quelquefois d’une façon clarifiante, les travaux de mes élèves …qu’il soit quand même mis au point ce qui, dans tel ou tel de ce travail ne convient pas entièrement à traduire non pas je dirai *ce qui était à ce moment l’axe de ce que j’énonçais* mais de *ce que la suite a démontré pour en être l’axe véritable*.
 
 <!-- id: s16-14-0025 -->
 
@@ -122,7 +122,7 @@ La dernière fois, j’ai mis en relief et pointé deux choses : qu’il s’agi
 
 <!-- id: s16-14-0028 -->
 
-> il y a bien entendu beaucoup d’autres passages à citer mais celui-ci est capital, il est dans [l’*Introduction au Narcissisme*](http://staferla.free.fr/Freud/FREUD%20Gesammelte%20Werke.pdf)
+il y a bien entendu beaucoup d’autres passages à citer mais celui-ci est capital, il est dans [l’*Introduction au Narcissisme*](http://staferla.free.fr/Freud/FREUD%20Gesammelte%20Werke.pdf)
 
 <!-- id: s16-14-0029 -->
 
@@ -142,7 +142,7 @@ Ce terme « *avec* » qu’il est si saisissant de retrouver ici sous la plume
 
 <!-- id: s16-14-0033 -->
 
-> *qu’il nous démonte, de ces quatre termes démontés, c’est là la formule que j’ai toujours soulignée comme essentielle à la pulsion* …c’est un montage de ces quatre termes :
+*qu’il nous démonte, de ces quatre termes démontés, c’est là la formule que j’ai toujours soulignée comme essentielle à la pulsion* …c’est un montage de ces quatre termes :
 
 <!-- id: s16-14-0034 -->
 
@@ -178,7 +178,7 @@ La pulsion trouverait à satisfaire quoi ? C’est ce qui est aujourd’hui en q
 
 <!-- id: s16-14-0042 -->
 
-> *qu’à ainsi imaginer que c’est aux dépens de leur satisfaction sexuelle* que les auteurs, quels qu’ils soient, dont nous apprécions les œuvres, dont les œuvres prennent *valeur sociale* - car c’est là le terme dont FREUD lui-même accentue la chose - qu’il y a là je ne sais quelle substitution obscure …il ne suffit pas de s’en tenir là pour donner sa portée à ce que FREUD a énoncé.
+*qu’à ainsi imaginer que c’est aux dépens de leur satisfaction sexuelle* que les auteurs, quels qu’ils soient, dont nous apprécions les œuvres, dont les œuvres prennent *valeur sociale* - car c’est là le terme dont FREUD lui-même accentue la chose - qu’il y a là je ne sais quelle substitution obscure …il ne suffit pas de s’en tenir là pour donner sa portée à ce que FREUD a énoncé.
 
 <!-- id: s16-14-0043 -->
 
@@ -186,7 +186,7 @@ C’est bien pourquoi les prémisses, les temps que j’ai mis à aborder ce suj
 
 <!-- id: s16-14-0044 -->
 
-> au regard de ce qui nous intéresse du champ psychanalytique …constitue certes un horizon, mais que son essence est bien plus loin encore - ai-je articulé - ni son savoir, ni sa pratique, je parle de celle de la sexualité, n’en sont pour autant ni éclairés, ni modifiés.
+au regard de ce qui nous intéresse du champ psychanalytique …constitue certes un horizon, mais que son essence est bien plus loin encore - ai-je articulé - ni son savoir, ni sa pratique, je parle de celle de la sexualité, n’en sont pour autant ni éclairés, ni modifiés.
 
 <!-- id: s16-14-0045 -->
 
@@ -210,7 +210,7 @@ Il n’y a pas ici la moindre allusion aux usages *batifolants* qui ont été fa
 
 <!-- id: s16-14-0050 -->
 
-> livre particulièrement remarquable, je le dis entre parenthèses, par l’irresponsabilité dont il témoigne …*biologiquement*, pourquoi en effet n’y en aurait-il pas *trois* ?
+livre particulièrement remarquable, je le dis entre parenthèses, par l’irresponsabilité dont il témoigne …*biologiquement*, pourquoi en effet n’y en aurait-il pas *trois* ?
 
 <!-- id: s16-14-0051 -->
 
@@ -258,7 +258,7 @@ En tout cas, il est très nécessaire, quand on parle de la *Fortpflanzung* par 
 
 <!-- id: s16-14-0062 -->
 
-> quand deux personnes couchent ensemble il arrive de temps en temps un petit bébé …que c’est ça qui donne *l’image* de ce qu’il en est *du sexe*.
+quand deux personnes couchent ensemble il arrive de temps en temps un petit bébé …que c’est ça qui donne *l’image* de ce qu’il en est *du sexe*.
 
 <!-- id: s16-14-0063 -->
 
@@ -442,11 +442,11 @@ Dans une époque moins logicienne, quand nous remontons dans la préhistoire…
 
 <!-- id: s16-14-0108 -->
 
-> là où peut-être il n’y avait pas encore de *complexe d’Œdipe* …on nous fait des petites statuettes de femmes…
+là où peut-être il n’y avait pas encore de *complexe d’Œdipe* …on nous fait des petites statuettes de femmes…
 
 <!-- id: s16-14-0109 -->
 
-> *qui devaient être quand même précieuses, pour qu’on les ait encore retrouvées, il fallait tout de même les serrer dans des coins* …qui avaient une forme comme ça :
+*qui devaient être quand même précieuses, pour qu’on les ait encore retrouvées, il fallait tout de même les serrer dans des coins* …qui avaient une forme comme ça :
 
 <!-- id: s16-14-0110 -->
 
@@ -466,7 +466,11 @@ Et vous vous rappelez aussi *[Les mamelles de Tiresias](http://fr.wikisource.org
 
 <!-- id: s16-14-0114 -->
 
-> « *Envolez-vous, oiseaux de ma faiblesse…* ».
+<div class="text-quotation">
+
+« *Envolez-vous, oiseaux de ma faiblesse…* ».
+
+</div>
 
 <!-- id: s16-14-0115 -->
 
@@ -526,13 +530,17 @@ Si vous avez quand même un peu d’imagination…
 
 <!-- id: s16-14-0129 -->
 
-> je veux dire de possibilité de relier ce que vous cogitez quelque part du côté de vos circonvolutions avec votre expérience certainement évidemment accessoire et toujours entre deux portes …vous pourriez quand même dire :
+je veux dire de possibilité de relier ce que vous cogitez quelque part du côté de vos circonvolutions avec votre expérience certainement évidemment accessoire et toujours entre deux portes …vous pourriez quand même dire :
 
 <!-- id: s16-14-0130 -->
 
-> « *Au niveau de la jouissance sexuelle, il s’agit plutôt de tumescence par exemple, et puis d’orgasme…*
->
-> *Qu’est-ce que ça a à faire avec des fonctions de bord ?* »
+<div class="text-quotation">
+
+« *Au niveau de la jouissance sexuelle, il s’agit plutôt de tumescence par exemple, et puis d’orgasme…*
+
+*Qu’est-ce que ça a à faire avec des fonctions de bord ?* »
+
+</div>
 
 <!-- id: s16-14-0131 -->
 
@@ -560,7 +568,7 @@ Le rituel de l’approche, les stades de *gradus* si je puis dire, vers une joui
 
 <!-- id: s16-14-0137 -->
 
-> c’est-à-dire vivant dans des conditions que nous connaissons tous quand nous allons leur faire visite et dont je dirai que le symbole majeur a été donné très joliment par Anatole FRANCE sous le titre *Le Mannequin d’osier* - il aurait fallu que je vous fasse un autre dessin : pour le mannequin d’osier, ça serait dans le sens inverse ! …cette espèce de stupeur, d’ahurissement qui les saisit :
+c’est-à-dire vivant dans des conditions que nous connaissons tous quand nous allons leur faire visite et dont je dirai que le symbole majeur a été donné très joliment par Anatole FRANCE sous le titre *Le Mannequin d’osier* - il aurait fallu que je vous fasse un autre dessin : pour le mannequin d’osier, ça serait dans le sens inverse ! …cette espèce de stupeur, d’ahurissement qui les saisit :
 
 <!-- id: s16-14-0138 -->
 
@@ -568,7 +576,7 @@ Le rituel de l’approche, les stades de *gradus* si je puis dire, vers une joui
 
 <!-- id: s16-14-0139 -->
 
-> vous pensez, ils étaient moins raffinés que le Professeur en question et sa *bobonne* ! …*comment est-ce que ces gens avaient pu imaginer des hommages si exaltés, qu’est-ce que c’est que tout ça, toutes ces femmes que nous chantent* *les poètes, elles ont toutes, toutes le même caractère…* »
+vous pensez, ils étaient moins raffinés que le Professeur en question et sa *bobonne* ! …*comment est-ce que ces gens avaient pu imaginer des hommages si exaltés, qu’est-ce que c’est que tout ça, toutes ces femmes que nous chantent* *les poètes, elles ont toutes, toutes le même caractère…* »
 
 <!-- id: s16-14-0140 -->
 

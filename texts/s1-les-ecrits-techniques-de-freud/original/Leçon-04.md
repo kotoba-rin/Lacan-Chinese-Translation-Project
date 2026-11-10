@@ -554,9 +554,9 @@ Je voudrais vous dire tout de même quelques mots. Je crois que les exposés qu�
 
 <!-- id: s1-04-0138 -->
 
-> comme il convient à des esprits sans doute formés, mais relativement récem­ment introduits, sinon à l’application
->
-> sur l’analyse, du moins à sa pratique, à sa technique
+comme il convient à des esprits sans doute formés, mais relativement récem­ment introduits, sinon à l’application
+
+sur l’analyse, du moins à sa pratique, à sa technique
 
 <!-- id: s1-04-0139 -->
 
@@ -796,9 +796,9 @@ Je vais vous donner une petite histoire : je me réveille le matin dans mon rid
 
 <!-- id: s1-04-0198 -->
 
-> c’est *un rideau* que je ne vois pas tous les jours, parce que c’est le rideau de ma maison de campagne, je ne le vois
->
-> que tous les huit ou quinze jours
+c’est *un rideau* que je ne vois pas tous les jours, parce que c’est le rideau de ma maison de campagne, je ne le vois
+
+que tous les huit ou quinze jours
 
 <!-- id: s1-04-0199 -->
 

@@ -62,7 +62,7 @@ Bien entendu, il y a un progrès dans cette recherche d’un déficit qui montre
 
 <!-- id: s3-19-0015 -->
 
-> quels que soient les déficits qu’il pourra marquer d’autre part
+quels que soient les déficits qu’il pourra marquer d’autre part
 
 <!-- id: s3-19-0016 -->
 
@@ -114,9 +114,9 @@ Certains, guidés par cette confusion, ont eu l’idée qu’il y a en superposi
 
 <!-- id: s3-19-0028 -->
 
-> du fait que *le signifié* en effet ne va jamais dans le langage à atteindre son but
->
-> que *par l’intermédiaire* d’un autre *signifié* et en renvoyant à une *signification*
+du fait que *le signifié* en effet ne va jamais dans le langage à atteindre son but
+
+que *par l’intermédiaire* d’un autre *signifié* et en renvoyant à une *signification*
 
 <!-- id: s3-19-0029 -->
 
@@ -172,9 +172,13 @@ Ce qui fait que dans *la métaphore* « *Sa gerbe n’était point avare ni hain
 
 <!-- id: s3-19-0042 -->
 
-> « *Qu’est-ce qui différencie ceci d’une métonymie: après tout, la gerbe de Booz est tout aussi métonymique que si vous faisiez allusion à ce qui est là sous­jacent à cette magnifique poésie qui n’est jamais nommée, à savoir son pénis royal,*
->
-> *ce n’est pas la gerbe. Là, c’est quelque chose du même ordre. C’est une métonymie.* »
+<div class="text-quotation">
+
+« *Qu’est-ce qui différencie ceci d’une métonymie: après tout, la gerbe de Booz est tout aussi métonymique que si vous faisiez allusion à ce qui est là sous­jacent à cette magnifique poésie qui n’est jamais nommée, à savoir son pénis royal,*
+
+*ce n’est pas la gerbe. Là, c’est quelque chose du même ordre. C’est une métonymie.* »
+
+</div>
 
 <!-- id: s3-19-0043 -->
 
@@ -186,7 +190,11 @@ Vous ne pouvez pas dire vous–mêmes si c’est *sensé* ou *insensé*, mais ce
 
 <!-- id: s3-19-0045 -->
 
-> « *L’amour est un caillou riant dans le soleil.* » \[Paul Éluard\]
+<div class="text-quotation">
+
+« *L’amour est un caillou riant dans le soleil.* » \[Paul Éluard\]
+
+</div>
 
 <!-- id: s3-19-0046 -->
 
@@ -234,9 +242,9 @@ C’est à cause de cela, et dans la même dimension, que les phénomènes de tr
 
 <!-- id: s3-19-0057 -->
 
-> à condition que vous ayez d’abord solidement instauré
->
-> la notion du langage comme système de cohérence positionnelle
+à condition que vous ayez d’abord solidement instauré
+
+la notion du langage comme système de cohérence positionnelle
 
 <!-- id: s3-19-0058 -->
 

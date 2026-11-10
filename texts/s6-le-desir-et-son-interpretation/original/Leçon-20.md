@@ -58,7 +58,7 @@ Auprès de cela, tout ce que notre recherche comporte de maladresse, de confusio
 
 <!-- id: s6-20-0014 -->
 
-> j’entends de retrouver toujours non seulement devant soi mais dans sa pratique même, ce qui est justement son principe, ce qu’on voulait éviter, à savoir *la suggestion, la persuasion, la construction, voire la mystagogie*
+j’entends de retrouver toujours non seulement devant soi mais dans sa pratique même, ce qui est justement son principe, ce qu’on voulait éviter, à savoir *la suggestion, la persuasion, la construction, voire la mystagogie*
 
 <!-- id: s6-20-0015 -->
 
@@ -70,7 +70,7 @@ Cette *chose*, nous l’envisageons cette année *par hypothèse*…
 
 <!-- id: s6-20-0017 -->
 
-> soutenus par toute la marche concentrique de notre recherche précédente
+soutenus par toute la marche concentrique de notre recherche précédente
 
 <!-- id: s6-20-0018 -->
 
@@ -114,7 +114,7 @@ Le désir est précisé comme marqué, accentué par le caractère aveugle de la
 
 <!-- id: s6-20-0028 -->
 
-> pour tous ceux qui ont tenté d’articuler le sens des voies de l’homme dans sa recherche
+pour tous ceux qui ont tenté d’articuler le sens des voies de l’homme dans sa recherche
 
 <!-- id: s6-20-0029 -->
 
@@ -150,7 +150,7 @@ Nous sommes introduits à ceci par *quelque chose qui se fait entendre* chaque f
 
 <!-- id: s6-20-0037 -->
 
-> que nous lisions le compte-rendu, le *text book* de *l’expérience la plus originelle de l’analyse*, à savoir *L’Interprétation des rêves* de FREUD, ou que nous nous rapportions à une séance quelconque, une suite d’interprétations
+que nous lisions le compte-rendu, le *text book* de *l’expérience la plus originelle de l’analyse*, à savoir *L’Interprétation des rêves* de FREUD, ou que nous nous rapportions à une séance quelconque, une suite d’interprétations
 
 <!-- id: s6-20-0038 -->
 
@@ -162,7 +162,7 @@ C’est pourquoi il nous semble qu’il peut légitimement se formuler comme un 
 
 <!-- id: s6-20-0040 -->
 
-> et principiellement, primordialement à tout exercice de la parole qui s’appelle discours
+et principiellement, primordialement à tout exercice de la parole qui s’appelle discours
 
 <!-- id: s6-20-0041 -->
 
@@ -194,7 +194,7 @@ Et en même temps, il est bien clair que tout ceci voudrait dire que les auteurs
 
 <!-- id: s6-20-0048 -->
 
-> il faut bien le dire *d’erreurs révélatrices, révélatrices justement qu’il faudrait essayer d’articuler les choses autrement*
+il faut bien le dire *d’erreurs révélatrices, révélatrices justement qu’il faudrait essayer d’articuler les choses autrement*
 
 <!-- id: s6-20-0049 -->
 
@@ -206,7 +206,7 @@ Et je le prends chez *un des meilleurs auteurs* qui soit, chez *un des plus souc
 
 <!-- id: s6-20-0051 -->
 
-> d’abord dans l’analyse, cela est absolument indispensable, plus qu’ailleurs
+d’abord dans l’analyse, cela est absolument indispensable, plus qu’ailleurs
 
 <!-- id: s6-20-0052 -->
 
@@ -290,7 +290,7 @@ Je vais peut–être avoir à m’excuser d’aussi longtemps appuyer sur une co
 
 <!-- id: s6-20-0072 -->
 
-> qui après tout, une fois qu’elle est articulée, devient si évidente
+qui après tout, une fois qu’elle est articulée, devient si évidente
 
 <!-- id: s6-20-0073 -->
 
@@ -314,7 +314,7 @@ Ceci veut dire que la forme la plus typique de ce monde, la plus achevée…
 
 <!-- id: s6-20-0078 -->
 
-> je voudrais moi aussi me permettre de donner des *images* qui vous fassent sentir ce dont nous parlons
+je voudrais moi aussi me permettre de donner des *images* qui vous fassent sentir ce dont nous parlons
 
 <!-- id: s6-20-0079 -->
 
@@ -346,7 +346,7 @@ Et c’est justement ce qui maintenant la distingue…
 
 <!-- id: s6-20-0086 -->
 
-> comme un enfant qui prend son indépendance, mais qui pendant longtemps en était nourri
+comme un enfant qui prend son indépendance, mais qui pendant longtemps en était nourri
 
 <!-- id: s6-20-0087 -->
 
@@ -406,7 +406,7 @@ Ici, arrêtons-nous un instant. Commençons par dire quelque chose d’approxima
 
 <!-- id: s6-20-0101 -->
 
-> parlant trop peu à l’intuition pour que je n’ai pas craint de l’amener pour vous d’abord
+parlant trop peu à l’intuition pour que je n’ai pas craint de l’amener pour vous d’abord
 
 <!-- id: s6-20-0102 -->
 
@@ -478,9 +478,9 @@ Voilà donc un *phallus* d’une toute autre portée, d’une toute autre foncti
 
 <!-- id: s6-20-0119 -->
 
-> c’est là que je me rapporte plus spécialement aux travaux de BŒHM
->
-> particulièrement *illustratifs* et confirmés par une expérience très abondante
+c’est là que je me rapporte plus spécialement aux travaux de BŒHM
+
+particulièrement *illustratifs* et confirmés par une expérience très abondante
 
 <!-- id: s6-20-0120 -->
 
@@ -488,7 +488,7 @@ Voilà donc un *phallus* d’une toute autre portée, d’une toute autre foncti
 
 <!-- id: s6-20-0121 -->
 
-> nous l’attribuons dans une première croyance à la femme pour autant qu’elle ne serait pas encore châtrée
+nous l’attribuons dans une première croyance à la femme pour autant qu’elle ne serait pas encore châtrée
 
 <!-- id: s6-20-0122 -->
 
@@ -524,9 +524,9 @@ Cet aperçu étant donné, je ne veux pas vous laisser là, car ce n’est pas c
 
 <!-- id: s6-20-0130 -->
 
-> c’est-à-dire dans sa forme la plus achevée pour autant que le sujet est désir,
->
-> que le sujet est donc en imminence de ce rapport castratif
+c’est-à-dire dans sa forme la plus achevée pour autant que le sujet est désir,
+
+que le sujet est donc en imminence de ce rapport castratif
 
 <!-- id: s6-20-0131 -->
 
@@ -542,7 +542,7 @@ Comment ce rapport synchronique s’engendre-t-il ? Il est le suivant. Si nous p
 
 <!-- id: s6-20-0134 -->
 
-> telle que nous la trouvons, au niveau du schéma, illustrée
+telle que nous la trouvons, au niveau du schéma, illustrée
 
 <!-- id: s6-20-0135 -->
 
@@ -610,7 +610,7 @@ C’est-à-dire précisément ce quelque chose qui est au fond concret de la not
 
 <!-- id: s6-20-0151 -->
 
-> dans une décomposition du langage qui se trouve être le fait d’un système langagier
+dans une décomposition du langage qui se trouve être le fait d’un système langagier
 
 <!-- id: s6-20-0152 -->
 

@@ -122,7 +122,7 @@ Il existe encore une raison à ce « *Je ne sais pas ce que je dis* », c’es
 
 <!-- id: s26-10-0030 -->
 
-> j’insiste : « *le sujet qui énonce*... » ...n’est pas le même lorsque le message, ou dit, peut lui revenir.
+j’insiste : « *le sujet qui énonce*... » ...n’est pas le même lorsque le message, ou dit, peut lui revenir.
 
 <!-- id: s26-10-0031 -->
 
@@ -146,7 +146,7 @@ Que tel *dit* a été le signifiant, mon signifiant, le signifiant du sujet.
 
 <!-- id: s26-10-0036 -->
 
-> Donc j’étais là, un point de non-savoir.
+Donc j’étais là, un point de non-savoir.
 
 <!-- id: s26-10-0037 -->
 
@@ -326,7 +326,7 @@ Il y a une très belle citation où, parlant de la satisfaction du désir...
 
 <!-- id: s26-10-0081 -->
 
-> vous savez que le désir se satisfait avec du symbole, du signifiant
+vous savez que le désir se satisfait avec du symbole, du signifiant
 
 <!-- id: s26-10-0082 -->
 
@@ -506,7 +506,7 @@ Je veux être clair sur ce point : l’astuce n’est pas tant d’avoir divisé
 
 <!-- id: s26-10-0126 -->
 
-> il aurait pu le diviser en être et non-être ...que de l’avoir divisé entre la représentation et l’ensemble des représentations.
+il aurait pu le diviser en être et non-être ...que de l’avoir divisé entre la représentation et l’ensemble des représentations.
 
 <!-- id: s26-10-0127 -->
 
@@ -770,7 +770,7 @@ Et il est bien évident que, quand j’ai commencé à lire le livre I, parce qu
 
 <!-- id: s26-10-0192 -->
 
-> le livre XX, j’avais assisté au *Séminaire*, j’étais très content de l’avoir, comme ça, pour pouvoir le lire ...eh bien, le Livre I, je dois dire que je ne comprenais pas très bien le début où il était question de l’Ego, un terme que je ne connaissais pas parce que ce n’est pas, disons, un endroit d’où je viens, alors j’ai attendu un peu et c’est seulement à propos de cette question de l’au-delà de la psychologie que je me trouve intéressé.
+le livre XX, j’avais assisté au *Séminaire*, j’étais très content de l’avoir, comme ça, pour pouvoir le lire ...eh bien, le Livre I, je dois dire que je ne comprenais pas très bien le début où il était question de l’Ego, un terme que je ne connaissais pas parce que ce n’est pas, disons, un endroit d’où je viens, alors j’ai attendu un peu et c’est seulement à propos de cette question de l’au-delà de la psychologie que je me trouve intéressé.
 
 <!-- id: s26-10-0193 -->
 
@@ -1014,7 +1014,7 @@ Alors vous voyez la question qui s’élabore, c’est qu’il y a une part d’
 
 <!-- id: s26-10-0253 -->
 
-> à mon avis, enfin tel que je l’ai lu ...le Livre I.
+à mon avis, enfin tel que je l’ai lu ...le Livre I.
 
 <!-- id: s26-10-0254 -->
 
@@ -1038,7 +1038,7 @@ Et je crois qu’on peut renvoyer cette faille compacte à ce qui en sort, s’a
 
 <!-- id: s26-10-0259 -->
 
-> après avoir parlé de Lévi-Strauss et de « *La pensée sauvage* », ...dit qu’il y a quelque chose d’un petit peu différent de la pensée magique, c’est la discontinuité.
+après avoir parlé de Lévi-Strauss et de « *La pensée sauvage* », ...dit qu’il y a quelque chose d’un petit peu différent de la pensée magique, c’est la discontinuité.
 
 <!-- id: s26-10-0260 -->
 
@@ -1070,11 +1070,11 @@ Et là je dis qu’il ne s’agit pas de modèles parce que finalement je dessin
 
 <!-- id: s26-10-0267 -->
 
-> ici j’ai même dessiné assez maladroitement ...mais je vous proposerai pour cela justement le fait suivant : ce ne sont pas des modèles parce que le D<sup>r</sup> Lacan a poussé le travail sur les écritures des mathèmes au point, dans « *Encore* », de nous produire quelque chose...
+ici j’ai même dessiné assez maladroitement ...mais je vous proposerai pour cela justement le fait suivant : ce ne sont pas des modèles parce que le D<sup>r</sup> Lacan a poussé le travail sur les écritures des mathèmes au point, dans « *Encore* », de nous produire quelque chose...
 
 <!-- id: s26-10-0268 -->
 
-> il ne le dit peut-être pas dans ce séminaire, mais un peu plus tard ...que quelqu’un d’autre avait déjà remarqué et il s’agit en l’occurrence du « *Pas-tous* ».
+il ne le dit peut-être pas dans ce séminaire, mais un peu plus tard ...que quelqu’un d’autre avait déjà remarqué et il s’agit en l’occurrence du « *Pas-tous* ».
 
 <!-- id: s26-10-0269 -->
 
@@ -1118,11 +1118,11 @@ Pour reprendre la question que Nasio a posée avec la question du Un et de l’A
 
 <!-- id: s26-10-0279 -->
 
-> pour répondre aussi à cette question de la représentation de la représentation ou du Rien ...que, si je trace une chaîne à 4, si je trace une chaîne *borroméenne* à 4, eh bien, il y a 3 ronds...
+pour répondre aussi à cette question de la représentation de la représentation ou du Rien ...que, si je trace une chaîne à 4, si je trace une chaîne *borroméenne* à 4, eh bien, il y a 3 ronds...
 
 <!-- id: s26-10-0280 -->
 
-> et ça, le D<sup>r</sup> Lacan le dit très bien dans les séminaires qui sont parus dans *Ornicar* ...il y a 3 ronds que je vais désigner l’un en bleu comme dans la figure précédente, c’est-à-dire celui-ci, un autre en rouge et un troisième en vert.
+et ça, le D<sup>r</sup> Lacan le dit très bien dans les séminaires qui sont parus dans *Ornicar* ...il y a 3 ronds que je vais désigner l’un en bleu comme dans la figure précédente, c’est-à-dire celui-ci, un autre en rouge et un troisième en vert.
 
 <!-- id: s26-10-0281 -->
 
@@ -1142,7 +1142,7 @@ Il se trouve que le 4<sup>ème</sup> est implicite...
 
 <!-- id: s26-10-0285 -->
 
-> dit Lacan quelque part après, dans les Séminaires qui suivent ...le 4<sup>ème</sup> est implicite, eh bien, la question, elle est de savoir qu’est-ce qui tient les trois.
+dit Lacan quelque part après, dans les Séminaires qui suivent ...le 4<sup>ème</sup> est implicite, eh bien, la question, elle est de savoir qu’est-ce qui tient les trois.
 
 <!-- id: s26-10-0286 -->
 
@@ -1206,13 +1206,13 @@ C’est-à-dire qu’il me semble qu’effectivement là...
 
 <!-- id: s26-10-0301 -->
 
-> je ne me suis toujours guidé que là-dessus ...il y avait quelque chose qui jouait dans le texte des Séminaires, c’est-à-dire que le D<sup>r</sup> Lacan écrivait ou parlait...
+je ne me suis toujours guidé que là-dessus ...il y avait quelque chose qui jouait dans le texte des Séminaires, c’est-à-dire que le D<sup>r</sup> Lacan écrivait ou parlait...
 
 <!-- id: s26-10-0302 -->
 
-> c’est ça que j’intitulerai volontiers ça « *machine* à écrire »,
->
-> parce que ça donne finalement quelque chose d’écrit ...eh bien, il parlait , disons, d’une manière matérielle et consistante.
+c’est ça que j’intitulerai volontiers ça « *machine* à écrire »,
+
+parce que ça donne finalement quelque chose d’écrit ...eh bien, il parlait , disons, d’une manière matérielle et consistante.
 
 <!-- id: s26-10-0303 -->
 
@@ -1224,7 +1224,7 @@ qu’on peut se fabriquer pour quoi ? Pour fonctionner, et à ce moment-là, ave
 
 <!-- id: s26-10-0305 -->
 
-> et ça je le prends dans un sens très ample ...elle permet de faire des parcours, des petits parcours machiniques qui échouent.
+et ça je le prends dans un sens très ample ...elle permet de faire des parcours, des petits parcours machiniques qui échouent.
 
 <!-- id: s26-10-0306 -->
 

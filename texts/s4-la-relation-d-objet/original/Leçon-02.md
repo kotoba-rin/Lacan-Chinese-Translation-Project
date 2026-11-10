@@ -125,8 +125,12 @@ Là-dessus, « Monsieur Loyal » arrive et dit :
 
 <!-- id: s4-02-0023 -->
 
-> « *Voyons tout ceci n’est pas raisonnable, lâchez, avalez donc votre bâton mutuellement,*
-> *comme cela vous l’aurez à la bonne place, vous l’aurez intériorisé.* »
+<div class="text-quotation">
+
+« *Voyons tout ceci n’est pas raisonnable, lâchez, avalez donc votre bâton mutuellement,*
+*comme cela vous l’aurez à la bonne place, vous l’aurez intériorisé.* »
+
+</div>
 
 <!-- id: s4-02-0024 -->
 

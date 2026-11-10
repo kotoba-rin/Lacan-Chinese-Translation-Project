@@ -14,7 +14,7 @@ Cette recherche, cet exercice qui est le nôtre pour vous montrer comment…
 
 <!-- id: s6-10-0003 -->
 
-> dans l’usage que nous faisons d’ores et déjà, dans *notre expérience*, *pratiquement*, de la notion du *désir*
+dans l’usage que nous faisons d’ores et déjà, dans *notre expérience*, *pratiquement*, de la notion du *désir*
 
 <!-- id: s6-10-0004 -->
 
@@ -26,9 +26,9 @@ Et nous allons voir les choses sous cette *double face* : combien dans ce qu’e
 
 <!-- id: s6-10-0006 -->
 
-> et ce qu’elle dit de plus aigu, de plus fin, de plus remarquable dans cette observation
->
-> de la séance où ce rêve est analysé et les deux séances qui suivent
+et ce qu’elle dit de plus aigu, de plus fin, de plus remarquable dans cette observation
+
+de la séance où ce rêve est analysé et les deux séances qui suivent
 
 <!-- id: s6-10-0007 -->
 
@@ -84,7 +84,7 @@ Qu’il y ait quelque homologie entre ce désir…
 
 <!-- id: s6-10-0020 -->
 
-> pour autant qu’il est situé quelque part dans la partie supérieure de ces coordonnées
+pour autant qu’il est situé quelque part dans la partie supérieure de ces coordonnées
 
 <!-- id: s6-10-0021 -->
 
@@ -124,7 +124,7 @@ D’un autre côté, dans les associations, nous voyons que cette toux est quelq
 
 <!-- id: s6-10-0030 -->
 
-> et ne voulant pas y être trouvé parce qu’il ne devrait pas y être, dans ce quelque part
+et ne voulant pas y être trouvé parce qu’il ne devrait pas y être, dans ce quelque part
 
 <!-- id: s6-10-0031 -->
 
@@ -184,9 +184,9 @@ Le sujet en toussant…
 
 <!-- id: s6-10-0045 -->
 
-> c’est-à-dire d’une part en faisant cet acte dont il ne sait pas lui–même la signification,
->
-> puisqu’il pose la question de la signification
+c’est-à-dire d’une part en faisant cet acte dont il ne sait pas lui–même la signification,
+
+puisqu’il pose la question de la signification
 
 <!-- id: s6-10-0046 -->
 
@@ -290,9 +290,13 @@ et il décrit :
 
 <!-- id: s6-10-0071 -->
 
-> « *Quelque chose de grand qui se projette en avant et qui pendait vers le bas comme un pli sur un chaperon.*
->
-> *C’était tout à fait comme un chaperon, et c’était ceci dont la femme faisait usage en le manœuvrant* \[...\]
+<div class="text-quotation">
+
+« *Quelque chose de grand qui se projette en avant et qui pendait vers le bas comme un pli sur un chaperon.*
+
+*C’était tout à fait comme un chaperon, et c’était ceci dont la femme faisait usage en le manœuvrant* \[...\]
+
+</div>
 
 <!-- id: s6-10-0072 -->
 
@@ -340,13 +344,13 @@ Il fait là-dessus une association très remarquable :
 
 <!-- id: s6-10-0083 -->
 
-> *Bien sûr, les lèvres sont side by side* - c’est-à-dire côté contre côté - *tandis que les parois du vagin sont l’une antérieure,*
->
-> *l’autre postérieure, c’est-à-dire l’une longitudinale et l’autre transversale. Je pense encore -* dit-il *- au chaperon.* »
->
-> \[*I suddenly think labia means lips. There is some joke about the labia running crosswise and not longitudinally, but I don’t remember how the joke was arranged, some comparison between Chinese writing and our own, starting from different sides, or from bottom to top. Of course the labia are side by side,*
->
-> *and the vagina walls are back and front, that is, one longitudinal and the other crosswise. I’m still thinking of the hood. p*.134\]
+*Bien sûr, les lèvres sont side by side* - c’est-à-dire côté contre côté - *tandis que les parois du vagin sont l’une antérieure,*
+
+*l’autre postérieure, c’est-à-dire l’une longitudinale et l’autre transversale. Je pense encore -* dit-il *- au chaperon.* »
+
+\[*I suddenly think labia means lips. There is some joke about the labia running crosswise and not longitudinally, but I don’t remember how the joke was arranged, some comparison between Chinese writing and our own, starting from different sides, or from bottom to top. Of course the labia are side by side,*
+
+*and the vagina walls are back and front, that is, one longitudinal and the other crosswise. I’m still thinking of the hood. p*.134\]
 
 <!-- id: s6-10-0084 -->
 
@@ -362,21 +366,25 @@ C’est-à-dire que tout cela est très très ambigu. Ce qui s’en rapproche le
 
 <!-- id: s6-10-0087 -->
 
-> *There was a young lady from China  
-> Who mistook for her mouth her vagina.  
-> Her clitoris huge  
-> She covered with rouge  
-> And lipsticked her labia minor.*
->
-> *Il y avait une jeune femme de la Chine*
->
-> *Qui confondit un jour sa bouche avec son vagin*
->
-> *Son énorme clitoris*
->
-> *Elle couvrit avec du rouge*
->
-> *Et elle mit du rouge sur ses petites lèvres*
+<div class="text-quotation">
+
+*There was a young lady from China  
+Who mistook for her mouth her vagina.  
+Her clitoris huge  
+She covered with rouge  
+And lipsticked her labia minor.*
+
+*Il y avait une jeune femme de la Chine*
+
+*Qui confondit un jour sa bouche avec son vagin*
+
+*Son énorme clitoris*
+
+*Elle couvrit avec du rouge*
+
+*Et elle mit du rouge sur ses petites lèvres*
+
+</div>
 
 <!-- id: s6-10-0088 -->
 
@@ -420,9 +428,9 @@ Vous devez bien vous rendre compte, quand je dis valeur spécifique…
 
 <!-- id: s6-10-0098 -->
 
-> pour peu que vous ayez un tout petit peu plus que des notions livresques
->
-> sur ce que cela peut être, un fantasme semblable
+pour peu que vous ayez un tout petit peu plus que des notions livresques
+
+sur ce que cela peut être, un fantasme semblable
 
 <!-- id: s6-10-0099 -->
 
@@ -462,7 +470,7 @@ C’est si vrai que je me souvenais à votre usage…
 
 <!-- id: s6-10-0108 -->
 
-> *je n’ai pu vérifier le passage, c’est un fait assez connu, je pense, pour qu’il ne soit pas nouveau pour certains d’entre vous*
+*je n’ai pu vérifier le passage, c’est un fait assez connu, je pense, pour qu’il ne soit pas nouveau pour certains d’entre vous*
 
 <!-- id: s6-10-0109 -->
 
@@ -470,9 +478,9 @@ C’est si vrai que je me souvenais à votre usage…
 
 <!-- id: s6-10-0110 -->
 
-> qui était une rude femme comme toutes les femmes de cette époque : on ne saurait trop insister
->
-> sur l’influence sur l’histoire des femmes de cette merveilleuse moitié du XVII<sup>ème</sup> siècle
+qui était une rude femme comme toutes les femmes de cette époque : on ne saurait trop insister
+
+sur l’influence sur l’histoire des femmes de cette merveilleuse moitié du XVII<sup>ème</sup> siècle
 
 <!-- id: s6-10-0111 -->
 
@@ -564,7 +572,11 @@ C’est une chanson du bon genre anglais du music-hall, qu’on peut traduire à
 
 <!-- id: s6-10-0133 -->
 
-> « *Mon esprit est revenu au chaperon de nouveau, et je me souviens d’un premier « car » que j’ai eu au début. Mais à cette époque, bien sûr, il n’était pas appelé « car » mais « motor-car »* (le sujet est assez âgé) \[...\] *la capote de ce « motor-car » avait des traits tout à fait remarquables. Elle était serrée avec des courroies en arrière quand elle n’était pas rabattue. L’intérieur avait des dessins écarlates.* » \[*My mind bas gone to the hood again and I am remembering the first car I was ever in, but of course they were called motors then when they were new.* \[...\]
+<div class="text-quotation">
+
+« *Mon esprit est revenu au chaperon de nouveau, et je me souviens d’un premier « car » que j’ai eu au début. Mais à cette époque, bien sûr, il n’était pas appelé « car » mais « motor-car »* (le sujet est assez âgé) \[...\] *la capote de ce « motor-car » avait des traits tout à fait remarquables. Elle était serrée avec des courroies en arrière quand elle n’était pas rabattue. L’intérieur avait des dessins écarlates.* » \[*My mind bas gone to the hood again and I am remembering the first car I was ever in, but of course they were called motors then when they were new.* \[...\]
+
+</div>
 
 <!-- id: s6-10-0134 -->
 
@@ -576,11 +588,15 @@ Et il continue :
 
 <!-- id: s6-10-0136 -->
 
-> « *La pointe de vitesse de ce car était environ soixante miles* \[...\] *étrange comment on parle de la vie d’un « car », comme s’il était humain. Je me souviens que j’ai été malade dans ce « car », et cela me fait souvenir du temps où j’ai du uriner dans un sac en papier quand j’étais enfant. Je pense encore au chaperon.*»
->
-> \[*The peak of speed for that car was about sixty* \[...\] *Strange how one speaks of the life of a car as if it were human. I remember I was sick in that car,*
->
-> *and that reminds me of the time I had to urinate into a paper bag when I was in a railway train as a child. Still I think of the hood. p.*135\]
+<div class="text-quotation">
+
+« *La pointe de vitesse de ce car était environ soixante miles* \[...\] *étrange comment on parle de la vie d’un « car », comme s’il était humain. Je me souviens que j’ai été malade dans ce « car », et cela me fait souvenir du temps où j’ai du uriner dans un sac en papier quand j’étais enfant. Je pense encore au chaperon.*»
+
+\[*The peak of speed for that car was about sixty* \[...\] *Strange how one speaks of the life of a car as if it were human. I remember I was sick in that car,*
+
+*and that reminds me of the time I had to urinate into a paper bag when I was in a railway train as a child. Still I think of the hood. p.*135\]
+
+</div>
 
 <!-- id: s6-10-0137 -->
 
@@ -592,9 +608,9 @@ Nous allons nous arrêter là dans les associations. Elles ne vont pas encore tr
 
 <!-- id: s6-10-0139 -->
 
-> \[*The first thing of importance is to find the cardinal clue to the significance of the dream. We can do that by noting just the moment when it came*
->
-> *to the patient’s mind. p*.138\]
+\[*The first thing of importance is to find the cardinal clue to the significance of the dream. We can do that by noting just the moment when it came*
+
+*to the patient’s mind. p*.138\]
 
 <!-- id: s6-10-0140 -->
 
@@ -622,11 +638,11 @@ Elle l’entend non pas dans le sens de *puissance sexuelle*, mais dans le sens 
 
 <!-- id: s6-10-0146 -->
 
-> \[*He is travelling round the world. It is the longest dream he bas ever had. It would take a whole hour to relate. Correlate with that his deprecation*
->
-> *of « swank » regarding his friend’s impersonations which are broadcast to the world, and his own wireless set which picks up every station.*
->
-> *Note his own imitation of the man whose accent attracted him, a strong colloquial accent, and incidentally he said with regard to this man. p.* 138-139\]
+\[*He is travelling round the world. It is the longest dream he bas ever had. It would take a whole hour to relate. Correlate with that his deprecation*
+
+*of « swank » regarding his friend’s impersonations which are broadcast to the world, and his own wireless set which picks up every station.*
+
+*Note his own imitation of the man whose accent attracted him, a strong colloquial accent, and incidentally he said with regard to this man. p.* 138-139\]
 
 <!-- id: s6-10-0147 -->
 
@@ -646,7 +662,7 @@ Voilà donc ce qui est tenu pour l’analyste comme allant de soi. C’est-à-di
 
 <!-- id: s6-10-0151 -->
 
-> la fantaisie masturbatoire étant supposée au fond de ce qui se passe
+la fantaisie masturbatoire étant supposée au fond de ce qui se passe
 
 <!-- id: s6-10-0152 -->
 
@@ -726,7 +742,7 @@ Est-ce que nous devons tout de suite voir en cette occasion, comme étant…
 
 <!-- id: s6-10-0171 -->
 
-> ce que suppose et ce que toute la suite impliquera dans la pensée de l’analyste
+ce que suppose et ce que toute la suite impliquera dans la pensée de l’analyste
 
 <!-- id: s6-10-0172 -->
 
@@ -774,9 +790,13 @@ Tout de même, ici, un peu à la façon dont je disais tout à l’heure que *la
 
 <!-- id: s6-10-0183 -->
 
-> « *Sa sœur a huit ans de plus que lui, et aux références qu’il a faites à la voix de femme et à la voix d’homme imitée, qui sont semblables par l’imitation. De cette référence à elle et en connexion avec une incarnation mâle, je déduis que, au moins quand*
->
-> *il était tout petit, il vit les organes de sa sueur, s’aperçut du clitoris et l’entendit uriner* \[...\] *étendu sur le tapis.* »
+<div class="text-quotation">
+
+« *Sa sœur a huit ans de plus que lui, et aux références qu’il a faites à la voix de femme et à la voix d’homme imitée, qui sont semblables par l’imitation. De cette référence à elle et en connexion avec une incarnation mâle, je déduis que, au moins quand*
+
+*il était tout petit, il vit les organes de sa sueur, s’aperçut du clitoris et l’entendit uriner* \[...\] *étendu sur le tapis.* »
+
+</div>
 
 <!-- id: s6-10-0184 -->
 
@@ -792,7 +812,7 @@ Il lui faut d’ailleurs tout de suite après évoquer plus loin :
 
 <!-- id: s6-10-0187 -->
 
-> \[*But considering all the work in analysis we have done so far I believe in addition there was some babyhood situation in which he had a quite definite opportunity of seeing his mother’s genitals. p.*140–141\]
+\[*But considering all the work in analysis we have done so far I believe in addition there was some babyhood situation in which he had a quite definite opportunity of seeing his mother’s genitals. p.*140–141\]
 
 <!-- id: s6-10-0188 -->
 
@@ -824,9 +844,9 @@ Ce que je veux dire est ceci : je crois que ce rêve…
 
 <!-- id: s6-10-0195 -->
 
-> pour anticiper un peu sur ce que je crois pouvoir vous démontrer
->
-> en continuant ce travail pénible et lent d’analyse ligne par ligne de ce qui nous est présenté
+pour anticiper un peu sur ce que je crois pouvoir vous démontrer
+
+en continuant ce travail pénible et lent d’analyse ligne par ligne de ce qui nous est présenté
 
 <!-- id: s6-10-0196 -->
 
@@ -874,7 +894,7 @@ Ce qui est tout à fait frappant, nous semble-t-il par contre, c’est la foncti
 
 <!-- id: s6-10-0207 -->
 
-> qu’il arrête tout, nous le savons bien puisqu’il s’agit de cela, il est en analyse pour cela
+qu’il arrête tout, nous le savons bien puisqu’il s’agit de cela, il est en analyse pour cela
 
 <!-- id: s6-10-0208 -->
 

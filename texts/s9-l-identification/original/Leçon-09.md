@@ -82,11 +82,11 @@ Nous n’allons pas nous conten­ter de cette sorte de vérité aux yeux bandés
 
 <!-- id: s9-09-0020 -->
 
-> c’est comme cela que j’ai commencé à semer le scandale dans mes propos proprement analytiques.
->
-> Le pauvre cher homme défunt, et bien tou­chant en sa fragilité, était littéralement exaspéré
->
-> par ce rappel que je faisais avec beaucoup d’insistance, parce qu’à ce moment c’est des formules utiles
+c’est comme cela que j’ai commencé à semer le scandale dans mes propos proprement analytiques.
+
+Le pauvre cher homme défunt, et bien tou­chant en sa fragilité, était littéralement exaspéré
+
+par ce rappel que je faisais avec beaucoup d’insistance, parce qu’à ce moment c’est des formules utiles
 
 <!-- id: s9-09-0021 -->
 
@@ -362,7 +362,7 @@ Cela peut vous sembler assez « *bébé* », mais le fait que ça frappe au po
 
 <!-- id: s9-09-0089 -->
 
-> qui ne sont pas précisément des gens de nature à s’arrêter à une vaine difficulté, et s’ils y sentent quelque chose qu’ils peuvent appeler une contradiction mettant en cause tout leur édifice ...c’est bien parce qu’il y a quelque chose qui doit être résolu et qui concerne - si vous voulez bien m’écouter - rien d’autre que ceci, qui concerne la seule chose que les logiciens en question n’ont pas exactement vue, à savoir *que la lettre dont ils se servent, c’est quelque chose qui a en soi-même des pouvoirs, un ressort auquel ils ne semblent point tout à fait accoutumés*.
+qui ne sont pas précisément des gens de nature à s’arrêter à une vaine difficulté, et s’ils y sentent quelque chose qu’ils peuvent appeler une contradiction mettant en cause tout leur édifice ...c’est bien parce qu’il y a quelque chose qui doit être résolu et qui concerne - si vous voulez bien m’écouter - rien d’autre que ceci, qui concerne la seule chose que les logiciens en question n’ont pas exactement vue, à savoir *que la lettre dont ils se servent, c’est quelque chose qui a en soi-même des pouvoirs, un ressort auquel ils ne semblent point tout à fait accoutumés*.
 
 <!-- id: s9-09-0090 -->
 

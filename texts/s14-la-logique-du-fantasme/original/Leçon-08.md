@@ -10,7 +10,7 @@ Je reviendrai aujourd’hui, pour l’articuler une fois encore et avec plus d�
 
 <!-- id: s14-08-0002 -->
 
-> et d’abord en ce sens que ce terme transforme l’usa­ge qu’on en a fait jusqu’ici …est le point-pivot grâce à quoi peut et doit être maintenue pour nous, la valeur de ce qu’on peut appeler sous l’angle du sujet l’*instauration freudienne*, le pas décisif : ce que la pensée de FREUD, et plus encore la *praxis* qui se maintient de son patronage sous le nom de psy­chanalyse, ont - une fois apportées à notre considération - de décisif.
+et d’abord en ce sens que ce terme transforme l’usa­ge qu’on en a fait jusqu’ici …est le point-pivot grâce à quoi peut et doit être maintenue pour nous, la valeur de ce qu’on peut appeler sous l’angle du sujet l’*instauration freudienne*, le pas décisif : ce que la pensée de FREUD, et plus encore la *praxis* qui se maintient de son patronage sous le nom de psy­chanalyse, ont - une fois apportées à notre considération - de décisif.
 
 <!-- id: s14-08-0003 -->
 
@@ -34,7 +34,7 @@ Vous le savez, la fonction de l’Autre…
 
 <!-- id: s14-08-0008 -->
 
-> tel que je l’écris avec ce grand A placé au coin, en haut, à gauche de notre tableau, aujourd’hui …en est la fonction déterminante.
+tel que je l’écris avec ce grand A placé au coin, en haut, à gauche de notre tableau, aujourd’hui …en est la fonction déterminante.
 
 <!-- id: s14-08-0009 -->
 
@@ -66,7 +66,7 @@ En fait, parler du lien dénoué que présenteraient les *pensées* que nous rep
 
 <!-- id: s14-08-0016 -->
 
-> *du fait de ceci : que lui, sujet, ne se fonde, ne s’établit que pour autant qu’il y a déjà dans ce réel, et s’exerçant comme tel, les pouvoirs du langage* …nous obli­ge à porter plus loin notre interrogation.
+*du fait de ceci : que lui, sujet, ne se fonde, ne s’établit que pour autant qu’il y a déjà dans ce réel, et s’exerçant comme tel, les pouvoirs du langage* …nous obli­ge à porter plus loin notre interrogation.
 
 <!-- id: s14-08-0017 -->
 
@@ -78,11 +78,11 @@ Mais assuré­ment, dans le bruit qui se fait autour de ce qu’il articule, ce 
 
 <!-- id: s14-08-0019 -->
 
-> comme ce je ne sais quel rappel qui devrait, à ce tournant où nous sommes, venir de l’être lui-même à la pensée,
->
-> pour qu’elle en soit *renouvelée*, qu’elle rompe avec ce qui, du fil qu’elle a suivi depuis quelque trois mille ans,
->
-> l’a menée à je ne sais quelle impasse où elle ne se saisirait plus elle-même dans son essence et où l’on pourrait s’inter­roger comme le fait HEIDEGGER : « *Was heisst Denken ?* » « *Que veut dire penser ?* » …n’attendre le renouvellement du sens de ce mot « *penser* » que de je ne sais quel accident trans-méta­physique, qui reviendrait à une bascule totale de tout ce que la pensée a tracé.
+comme ce je ne sais quel rappel qui devrait, à ce tournant où nous sommes, venir de l’être lui-même à la pensée,
+
+pour qu’elle en soit *renouvelée*, qu’elle rompe avec ce qui, du fil qu’elle a suivi depuis quelque trois mille ans,
+
+l’a menée à je ne sais quelle impasse où elle ne se saisirait plus elle-même dans son essence et où l’on pourrait s’inter­roger comme le fait HEIDEGGER : « *Was heisst Denken ?* » « *Que veut dire penser ?* » …n’attendre le renouvellement du sens de ce mot « *penser* » que de je ne sais quel accident trans-méta­physique, qui reviendrait à une bascule totale de tout ce que la pensée a tracé.
 
 <!-- id: s14-08-0020 -->
 
@@ -214,11 +214,11 @@ Saint ANSELME…
 
 <!-- id: s14-08-0052 -->
 
-> je vous avais priés pendant ces vacances de vous reporter à un certain chapitre et pour que la chose ne reste pas en l’air,
->
-> je rappellerai ici de quel ordre est ce fameux argument, qui est injustement déprécié et qui est bien fait pour mettre dans tout son relief la fonction de cet Autre. L’argument ne porte d’aucune façon - comme on le dit dans les manuels –
->
-> sur ceci : que l’essence la plus parfaite impliquerait l’existence …*chapitre II du Fides quaerens intellectum,* articule l’argument de s’adresser à ce qu’il appelle l’« *insensé* ».
+je vous avais priés pendant ces vacances de vous reporter à un certain chapitre et pour que la chose ne reste pas en l’air,
+
+je rappellerai ici de quel ordre est ce fameux argument, qui est injustement déprécié et qui est bien fait pour mettre dans tout son relief la fonction de cet Autre. L’argument ne porte d’aucune façon - comme on le dit dans les manuels –
+
+sur ceci : que l’essence la plus parfaite impliquerait l’existence …*chapitre II du Fides quaerens intellectum,* articule l’argument de s’adresser à ce qu’il appelle l’« *insensé* ».
 
 <!-- id: s14-08-0053 -->
 
@@ -250,7 +250,7 @@ Fait sens tout ce que vous articulez, *à cette seule condition,* je vous l’ai
 
 <!-- id: s14-08-0060 -->
 
-> ai-je besoin de revenir sur les « *green colour­less ideas »* [^38]*etc.* ? …*tout ce qui a simplement forme grammati­cale fait sens*. Et ceci ne veut rien dire d’autre qu’à partir de là je ne peux pas aller plus loin.
+ai-je besoin de revenir sur les « *green colour­less ideas »* [^38]*etc.* ? …*tout ce qui a simplement forme grammati­cale fait sens*. Et ceci ne veut rien dire d’autre qu’à partir de là je ne peux pas aller plus loin.
 
 <!-- id: s14-08-0061 -->
 
@@ -298,7 +298,7 @@ Sans doute, *rien ne peut se dire* sur ce qu’il en est *de ces structures*. No
 
 <!-- id: s14-08-0072 -->
 
-> et non pas ce qui rôde dans on ne sait quel couloir de l’« *Assemblée analytique* », à savoir une pulsion « *génitale* » que quiconque serait bien *incapable de définir* comme telle …que *ce sont elles qui donnent leur loi à la fonction du désir*. Mais ceci ne peut être *dit*, sinon à répéter les articulations grammaticales où elles se cons­tituent, c’est à dire à exhiber, dans les phrases qui les fondent, ce qui pourra être déduit des diverses façons que le sujet aura de s’y loger.
+et non pas ce qui rôde dans on ne sait quel couloir de l’« *Assemblée analytique* », à savoir une pulsion « *génitale* » que quiconque serait bien *incapable de définir* comme telle …que *ce sont elles qui donnent leur loi à la fonction du désir*. Mais ceci ne peut être *dit*, sinon à répéter les articulations grammaticales où elles se cons­tituent, c’est à dire à exhiber, dans les phrases qui les fondent, ce qui pourra être déduit des diverses façons que le sujet aura de s’y loger.
 
 <!-- id: s14-08-0073 -->
 
@@ -366,7 +366,7 @@ Qu’est-ce à dire ? Et *quel est le statut qui reste aux pensées qui constit
 
 <!-- id: s14-08-0089 -->
 
-> au sens que j’ai dit la dernière fois : « *Sache *» *: affaires, choses de rencontre* …joue les unes par rapport aux autres cette fonction de renvoi qui nous fait, dans l’opération psychanalytique, nous perdre un temps dans leur foison comme dans un monde inordonné ?
+au sens que j’ai dit la dernière fois : « *Sache *» *: affaires, choses de rencontre* …joue les unes par rapport aux autres cette fonction de renvoi qui nous fait, dans l’opération psychanalytique, nous perdre un temps dans leur foison comme dans un monde inordonné ?
 
 <!-- id: s14-08-0090 -->
 
@@ -374,11 +374,11 @@ Mais que va être l’opération que réalise FREUD…
 
 <!-- id: s14-08-0091 -->
 
-> et spécialement dans cette partie de la *Traumdeutung*[^40] qui s’appelle le « *travail du rêve *»*, die Traumarbeit* *…*sinon de nous montrer que ce qu’il articule…
+et spécialement dans cette partie de la *Traumdeutung*[^40] qui s’appelle le « *travail du rêve *»*, die Traumarbeit* *…*sinon de nous montrer que ce qu’il articule…
 
 <!-- id: s14-08-0092 -->
 
-> *ce qu’il articule au début de ce chapitre de la façon la plus claire et en toutes lettres*, quoiqu’en disent les personnes qui me lisent ces temps-ci pour la première fois et qui s’étonnent que depuis tant d’années *j’articule que l’inconscient est structuré com­me un langage* *…Der Trauminhalt - le contenu du rêve* - est donné : *its gleichsam,* tout comme dans une écriture faite d’images - ce qui désigne les *hiéroglyphes -* dont les signes sont seulement *zu übertragen,* à traduire, *in die Sprache - dans la langue des pensées du rêve*.
+*ce qu’il articule au début de ce chapitre de la façon la plus claire et en toutes lettres*, quoiqu’en disent les personnes qui me lisent ces temps-ci pour la première fois et qui s’étonnent que depuis tant d’années *j’articule que l’inconscient est structuré com­me un langage* *…Der Trauminhalt - le contenu du rêve* - est donné : *its gleichsam,* tout comme dans une écriture faite d’images - ce qui désigne les *hiéroglyphes -* dont les signes sont seulement *zu übertragen,* à traduire, *in die Sprache - dans la langue des pensées du rêve*.
 
 <!-- id: s14-08-0093 -->
 
@@ -462,7 +462,7 @@ Si vous aviez encore gardé le moindre dou­te concernant la nature de cette sub
 
 <!-- id: s14-08-0113 -->
 
-> en tant que nous la saisissons *au moment de son altération, de sa torsion comme telle, de son amputa­tion, voire de son ablation* …le ressort qui peut nous per­mettre d’y reconnaître la fonction rétablie de la logique.
+en tant que nous la saisissons *au moment de son altération, de sa torsion comme telle, de son amputa­tion, voire de son ablation* …le ressort qui peut nous per­mettre d’y reconnaître la fonction rétablie de la logique.
 
 <!-- id: s14-08-0114 -->
 
@@ -522,7 +522,7 @@ Aucun abord de la castration comme telle n’est pos­sible pour un sujet humain
 
 <!-- id: s14-08-0128 -->
 
-> à un autre étage, séparé de toute la hauteur de ce rec­tangle que j’ai là dessiné …de cette fonction, que j’ai appelée tout à l’heure : *aliénation*, c’est à savoir : où intervient comme telle la fonction de l’Autre en tant que nous devons la marquer comme barrée : A.
+à un autre étage, séparé de toute la hauteur de ce rec­tangle que j’ai là dessiné …de cette fonction, que j’ai appelée tout à l’heure : *aliénation*, c’est à savoir : où intervient comme telle la fonction de l’Autre en tant que nous devons la marquer comme barrée : A.
 
 <!-- id: s14-08-0129 -->
 
@@ -538,7 +538,7 @@ C’est justement pour autant que l’analyse par son travail, vient à *inverse
 
 <!-- id: s14-08-0132 -->
 
-> Ai-je intitulé - *puisque je l’ai prononcée en allemand* - cette conférence que j’ai faite sur *La signification du phallus* …c’est à partir de là, que doit être posée la question de ce qu’il en est de ce qui *distancie* ces deux opérations également aliénantes :
+Ai-je intitulé - *puisque je l’ai prononcée en allemand* - cette conférence que j’ai faite sur *La signification du phallus* …c’est à partir de là, que doit être posée la question de ce qu’il en est de ce qui *distancie* ces deux opérations également aliénantes :
 
 <!-- id: s14-08-0133 -->
 
@@ -594,7 +594,7 @@ La question n’est pas de *franchir* ce qu’il y a là d’impensable - d’im
 
 <!-- id: s14-08-0146 -->
 
-> de ce fondement du sexe en tant qu’il est peut-être le plus profondément relié à l’essence de la mort …­ne domine pas ce qu’il en est de la réalité sexuelle. Tel est l’enseignement de sobriété que nous donne FREUD.
+de ce fondement du sexe en tant qu’il est peut-être le plus profondément relié à l’essence de la mort …­ne domine pas ce qu’il en est de la réalité sexuelle. Tel est l’enseignement de sobriété que nous donne FREUD.
 
 <!-- id: s14-08-0147 -->
 

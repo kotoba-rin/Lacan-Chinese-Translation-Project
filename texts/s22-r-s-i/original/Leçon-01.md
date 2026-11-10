@@ -58,7 +58,7 @@ C’est pas plus résolu maintenant, c’est pas plus résolu pour moi, mais tou
 
 <!-- id: s22-01-0014 -->
 
-> je veux dire ce qui s’écrit au tableau avec des petits signes, le *a*, le **S<sub>1</sub>**, le **S<sub>2</sub>**, le **S** du sujet ...c’est que le discours analytique est quelque chose qui vous remue, je parle : qui vous remue <u>vous</u>.
+je veux dire ce qui s’écrit au tableau avec des petits signes, le *a*, le **S<sub>1</sub>**, le **S<sub>2</sub>**, le **S** du sujet ...c’est que le discours analytique est quelque chose qui vous remue, je parle : qui vous remue <u>vous</u>.
 
 <!-- id: s22-01-0015 -->
 
@@ -82,7 +82,7 @@ Mais enfin cette année, il faut bien que je vous dise que j’ai d’autres sou
 
 <!-- id: s22-01-0020 -->
 
-> ça ne m’en donnera que plus de mérite à vos yeux, j’espère, si ce sémi­naire, ici je le poursuis ...j’ai d’autres soucis et je m’interroge s’il ne fau­drait pas que je les fasse passer avant.
+ça ne m’en donnera que plus de mérite à vos yeux, j’espère, si ce sémi­naire, ici je le poursuis ...j’ai d’autres soucis et je m’interroge s’il ne fau­drait pas que je les fasse passer avant.
 
 <!-- id: s22-01-0021 -->
 
@@ -102,11 +102,11 @@ Il est étrange...
 
 <!-- id: s22-01-0025 -->
 
-> étrange au sens proprement freu­dien : *unheimlich* ...il est étrange que ce soit de certains...
+étrange au sens proprement freu­dien : *unheimlich* ...il est étrange que ce soit de certains...
 
 <!-- id: s22-01-0026 -->
 
-> qui ne se trouvent pas à proprement parler encore, s’autorisant de l’analyse, mais qui en sont sur le chemin ...que vienne cette résistance à ce pourquoi je les stimule. Je les stimule en somme de rendre effective, effective quoi ?
+qui ne se trouvent pas à proprement parler encore, s’autorisant de l’analyse, mais qui en sont sur le chemin ...que vienne cette résistance à ce pourquoi je les stimule. Je les stimule en somme de rendre effective, effective quoi ?
 
 <!-- id: s22-01-0027 -->
 
@@ -114,7 +114,7 @@ Dans un témoi­gnage qu’ils apporteraient du point où ils en sont, de rendre
 
 <!-- id: s22-01-0028 -->
 
-> dont peut-être certains d’entre vous savent que c’est ce que j’essaye d’introduire dans mon École ...cette « *passe* » par quoi en somme ce dont il s’agit c’est que chacun apporte sa pierre au *discours analytique* en témoignant de comment on y entre.
+dont peut-être certains d’entre vous savent que c’est ce que j’essaye d’introduire dans mon École ...cette « *passe* » par quoi en somme ce dont il s’agit c’est que chacun apporte sa pierre au *discours analytique* en témoignant de comment on y entre.
 
 <!-- id: s22-01-0029 -->
 
@@ -122,15 +122,15 @@ Il est étrange que parmi eux il y en ait qui soient des analystes formés, et q
 
 <!-- id: s22-01-0030 -->
 
-> c’est ce que j’ai fait dans cet endroit où je voudrais que certains enseignements prennent place ...quand littérale­ment je mendie leur aide - c’est ce que j’ai fait - s’y refusent de la façon que je dois dire la plus catégorique, allant jusqu’à m’opposer l’injure, l’injure qui traîne dans les journaux par exemple...
+c’est ce que j’ai fait dans cet endroit où je voudrais que certains enseignements prennent place ...quand littérale­ment je mendie leur aide - c’est ce que j’ai fait - s’y refusent de la façon que je dois dire la plus catégorique, allant jusqu’à m’opposer l’injure, l’injure qui traîne dans les journaux par exemple...
 
 <!-- id: s22-01-0031 -->
 
-> ça, c’est pas des choses qui me font de l’effet ...mais qui, même sur cette injure, qui n’est déjà pas mal à traîner dans le journal...
+ça, c’est pas des choses qui me font de l’effet ...mais qui, même sur cette injure, qui n’est déjà pas mal à traîner dans le journal...
 
 <!-- id: s22-01-0032 -->
 
-> dans le journal « *Le Monde »* notamment [^1], comme par hasard ...qui gonflent cette injure, qui en rajoutent. Ouais...
+dans le journal « *Le Monde »* notamment [^1], comme par hasard ...qui gonflent cette injure, qui en rajoutent. Ouais...
 
 <!-- id: s22-01-0033 -->
 
@@ -170,7 +170,7 @@ En d’autres termes : un analyste peut-il...
 
 <!-- id: s22-01-0042 -->
 
-> à l’exemple de ce à quoi je viens de faire allusion concernant l’injure ...se comporter comme *un imbécile* ?
+à l’exemple de ce à quoi je viens de faire allusion concernant l’injure ...se comporter comme *un imbécile* ?
 
 <!-- id: s22-01-0043 -->
 
@@ -214,7 +214,7 @@ L’ennuyeux et le difficile dans la question que j’évoque, de ceci dont peut
 
 <!-- id: s22-01-0053 -->
 
-> je dis *l’expérience analytique* ...quand ils s’y offrent, ne réussit pas. Et je précise : ça les rend *imbéciles*.
+je dis *l’expérience analytique* ...quand ils s’y offrent, ne réussit pas. Et je précise : ça les rend *imbéciles*.
 
 <!-- id: s22-01-0054 -->
 
@@ -238,7 +238,7 @@ Simple hypothèse mais que peut-être...
 
 <!-- id: s22-01-0059 -->
 
-> ça ne peut pas être sans détours ...peut-être si je me déci­de, nous mettrons ici...enfin « *nous mettrons* » c’est une façon de parler : je mettrai ici à l’épreuve.
+ça ne peut pas être sans détours ...peut-être si je me déci­de, nous mettrons ici...enfin « *nous mettrons* » c’est une façon de parler : je mettrai ici à l’épreuve.
 
 <!-- id: s22-01-0060 -->
 
@@ -262,11 +262,11 @@ Alors, comme tout de même ça serait bien vain de vous dire que je me suspends 
 
 <!-- id: s22-01-0065 -->
 
-> mais de le faire pendant deux heures comme vous vous y attendez ...eh ben je vais pas le faire. Je vais m’ar­rêter là, en vous priant seulement de vous fier...
+mais de le faire pendant deux heures comme vous vous y attendez ...eh ben je vais pas le faire. Je vais m’ar­rêter là, en vous priant seulement de vous fier...
 
 <!-- id: s22-01-0066 -->
 
-> pour savoir si vous revien­drez ici le 10 Décembre, 2<sup>ème</sup> mardi ...de vous fier aux petites affiches sur lesquelles s’inscrira le titre que j’aurai choisi, si ce séminaire, cette année je le fais.
+pour savoir si vous revien­drez ici le 10 Décembre, 2<sup>ème</sup> mardi ...de vous fier aux petites affiches sur lesquelles s’inscrira le titre que j’aurai choisi, si ce séminaire, cette année je le fais.
 
 <!-- id: s22-01-0067 -->
 

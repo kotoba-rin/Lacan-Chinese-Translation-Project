@@ -23,9 +23,9 @@ Je vous donnerai, en son temps, les faits qui suggèrent que dans le fait, dans 
 
 <!-- id: s11-06-0004 -->
 
-> je vous le répète : je vous montrerai cela plus tard, là où cela a été relevé particulièrement ingénieu­sement
-> ...et donc relevant du champ que nous appelons *préconscient*, *qui font*, si je puis dire, *le lit de la réser­ve inconsciente* - « *réserve* » dans le sens de « *réserve d’Indiens » -* à l’intérieur de notre *réseau social*. La syntaxe bien sûr, est préconsciente, mais ce qui échappe au sujet
-> c’est que sa syntaxe se constitue en rapport avec certaines *réserves incons­cientes*.
+je vous le répète : je vous montrerai cela plus tard, là où cela a été relevé particulièrement ingénieu­sement
+...et donc relevant du champ que nous appelons *préconscient*, *qui font*, si je puis dire, *le lit de la réser­ve inconsciente* - « *réserve* » dans le sens de « *réserve d’Indiens » -* à l’intérieur de notre *réseau social*. La syntaxe bien sûr, est préconsciente, mais ce qui échappe au sujet
+c’est que sa syntaxe se constitue en rapport avec certaines *réserves incons­cientes*.
 
 <!-- id: s11-06-0005 -->
 
@@ -62,11 +62,11 @@ et *le feu aux draps -* il y a là le même rapport…
 
 <!-- id: s11-06-0011 -->
 
-> d’événement insensé, d’ac­cident, de *mauvaise fortune* à ce dont il s’agit de poignant dans le sens,
->
-> quoique *voilé,* qu’il y a dans ce : « *Père, ne vois-tu pas, je brûle ?* »
-> …il y a le même rapport entre l’un et l’autre, que dans ce à quoi nous avons affaire dans une *répétition* qui pour nous se figure
-> dans l’appellation de « *névrose de destinée* » de « *névrose d’échec* » : ce qui est manqué n’est pas *adaptation*, mais τύχη \[tuché\], « *rencontre* ».
+d’événement insensé, d’ac­cident, de *mauvaise fortune* à ce dont il s’agit de poignant dans le sens,
+
+quoique *voilé,* qu’il y a dans ce : « *Père, ne vois-tu pas, je brûle ?* »
+…il y a le même rapport entre l’un et l’autre, que dans ce à quoi nous avons affaire dans une *répétition* qui pour nous se figure
+dans l’appellation de « *névrose de destinée* » de « *névrose d’échec* » : ce qui est manqué n’est pas *adaptation*, mais τύχη \[tuché\], « *rencontre* ».
 
 <!-- id: s11-06-0012 -->
 
@@ -148,8 +148,8 @@ Alors, qu’il soit bien entendu que ce sur quoi j’ai voulu articuler les chos
 
 <!-- id: s11-06-0029 -->
 
-> les bras levés, « *quel malheur ! Qu’est-ce qui est arrivé ! Quelle erreur ! Quelle bêtise ! Quel idiot que celui qui s’est mis à dormir !* »
-> ...et la conscience qui se *retrame*, qui se sait vivre tout cela, disons *comme un cau­chemar*, mais qui tout de même se rattrape à elle-même : « *C’est moi qui vis tout ça, je n’ai pas besoin de me pincer pour savoir que je ne rêve pas* ».
+les bras levés, « *quel malheur ! Qu’est-ce qui est arrivé ! Quelle erreur ! Quelle bêtise ! Quel idiot que celui qui s’est mis à dormir !* »
+...et la conscience qui se *retrame*, qui se sait vivre tout cela, disons *comme un cau­chemar*, mais qui tout de même se rattrape à elle-même : « *C’est moi qui vis tout ça, je n’ai pas besoin de me pincer pour savoir que je ne rêve pas* ».
 
 <!-- id: s11-06-0030 -->
 
@@ -163,9 +163,9 @@ C’est pourquoi c’est là que…
 
 <!-- id: s11-06-0032 -->
 
-> libre comme je le suis de poursuivre, dans le chemin où je vous mène, la voie par les temps qui me semblent les meilleurs
-> … ici il me semble que s’indique - *passant mon aiguille courbe à travers la tapis­serie -* de sauter du côté où se pose *la question la plus pressante*, et d’abord de s’offrir comme objet, comme objet de débat, comme carrefour, entre nous et tous ceux qui essaient de penser
-> les chemins du sujet, à savoir :
+libre comme je le suis de poursuivre, dans le chemin où je vous mène, la voie par les temps qui me semblent les meilleurs
+… ici il me semble que s’indique - *passant mon aiguille courbe à travers la tapis­serie -* de sauter du côté où se pose *la question la plus pressante*, et d’abord de s’offrir comme objet, comme objet de débat, comme carrefour, entre nous et tous ceux qui essaient de penser
+les chemins du sujet, à savoir :
 
 <!-- id: s11-06-0033 -->
 

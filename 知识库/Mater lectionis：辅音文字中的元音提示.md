@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
-  - 领域/语言学
+  - 领域/语言符号与文献/语言学与语法
   - 语言/希伯来语
   - 概念/书写系统
 verified_at: 2026-07-28
@@ -22,5 +22,7 @@ verified_at: 2026-07-28
 - [An Introductory Course in Biblical Hebrew](https://admin.wadham.ox.ac.uk/media/documents/Kahn_Introductory_Course_in_Biblical_Hebrew-Routledge_1-2.pdf)（英文；牛津大学课程资料）
 
 ## 关联
+
+[[知识库/专名、书写与语音化.md|专名、书写与语音化]]
 
 [[texts/s8-le-transfert/translation/Leçon-21.md#s8-21-0022|s8-21-0022]]

@@ -14,9 +14,9 @@ Mais la question présente est : quelle fonction ont, dans les psychoses, ces ph
 
 <!-- id: s3-13-0003 -->
 
-> si vraiment l’analyse est ce que nous disons ici, à savoir si étroitement liée
->
-> aux phénomènes du langage en général, et à l’acte de la parole
+si vraiment l’analyse est ce que nous disons ici, à savoir si étroitement liée
+
+aux phénomènes du langage en général, et à l’acte de la parole
 
 <!-- id: s3-13-0004 -->
 
@@ -28,7 +28,7 @@ Nous sommes arrivés à quelque chose…
 
 <!-- id: s3-13-0006 -->
 
-> pour se référer à notre schéma fondamental de la communication analytique
+pour se référer à notre schéma fondamental de la communication analytique
 
 <!-- id: s3-13-0007 -->
 
@@ -80,9 +80,9 @@ C’est très précisément en tant qu’il saura :
 
 <!-- id: s3-13-0019 -->
 
-> assez pour ne pas permettre cette progressive migration de l’image du sujet en S, vers ce quelque chose
->
-> qui est le S, la *Chose* à révéler, la *Chose* aussi qui n’a pas de nom, qui ne peut trouver son nom
+assez pour ne pas permettre cette progressive migration de l’image du sujet en S, vers ce quelque chose
+
+qui est le S, la *Chose* à révéler, la *Chose* aussi qui n’a pas de nom, qui ne peut trouver son nom
 
 <!-- id: s3-13-0020 -->
 
@@ -94,9 +94,9 @@ Je vais vite, je ne suis pas ici pour refaire toute la théorie du dialogue anal
 
 <!-- id: s3-13-0022 -->
 
-> avec l’accent que comporte la notion du « *mot* » comme solution d’une énigme,
->
-> comme solution d’un problème, comme fonction problématique
+avec l’accent que comporte la notion du « *mot* » comme solution d’une énigme,
+
+comme solution d’un problème, comme fonction problématique
 
 <!-- id: s3-13-0023 -->
 
@@ -164,7 +164,7 @@ Et comme tout de même on y a insisté…
 
 <!-- id: s3-13-0039 -->
 
-> mais en y mettant comme une espèce de mystère, et je dirai presque, avec le progrès du temps, en s’efforçant d’effacer les différences radicales qu’il y a dans *cette structure par rapport à la structure des névroses*
+mais en y mettant comme une espèce de mystère, et je dirai presque, avec le progrès du temps, en s’efforçant d’effacer les différences radicales qu’il y a dans *cette structure par rapport à la structure des névroses*
 
 <!-- id: s3-13-0040 -->
 
@@ -204,9 +204,9 @@ Avant de faire ce pas, je voudrais tout de même…
 
 <!-- id: s3-13-0049 -->
 
-> puisqu’en quelque sorte le caractère fascinant de ces phénomènes de langage dans la psychose
->
-> est quelque chose qui peut renforcer ce que j’ai appelé tout à l’heure un malentendu
+puisqu’en quelque sorte le caractère fascinant de ces phénomènes de langage dans la psychose
+
+est quelque chose qui peut renforcer ce que j’ai appelé tout à l’heure un malentendu
 
 <!-- id: s3-13-0050 -->
 
@@ -234,7 +234,7 @@ D’une façon générale, on me fait confiance. Il y a ce :
 
 <!-- id: s3-13-0056 -->
 
-> *Françoise* DOLTO*, qui nous montre dans ses séminaires la fonction tout à fait essentielle de l’image du corps, de la façon dont le sujet y prend appui dans ses relations avec le monde. Nous retrouvons là cette relation substantielle sur laquelle, sans doute, se broche la relation du langage mais qui est infiniment plus concrète, plus sensible.* »
+*Françoise* DOLTO*, qui nous montre dans ses séminaires la fonction tout à fait essentielle de l’image du corps, de la façon dont le sujet y prend appui dans ses relations avec le monde. Nous retrouvons là cette relation substantielle sur laquelle, sans doute, se broche la relation du langage mais qui est infiniment plus concrète, plus sensible.* »
 
 <!-- id: s3-13-0057 -->
 
@@ -372,7 +372,7 @@ C’est une idée dont la poursuite amène les auteurs eux-mêmes qui sont tant 
 
 <!-- id: s3-13-0090 -->
 
-> même dans le domaine de la psychologie la plus néo-spiritualiste des facultés de l’âme
+même dans le domaine de la psychologie la plus néo-spiritualiste des facultés de l’âme
 
 <!-- id: s3-13-0091 -->
 
@@ -524,7 +524,7 @@ Si la reconnaissance de la position sexuelle du sujet, comme telle n’est pas l
 
 <!-- id: s3-13-0128 -->
 
-> comme FREUD y a insisté dès le début et jusqu’à la fin, comme nous ne devons jamais l’oublier
+comme FREUD y a insisté dès le début et jusqu’à la fin, comme nous ne devons jamais l’oublier
 
 <!-- id: s3-13-0129 -->
 
@@ -548,7 +548,7 @@ Ce dont il s’agit chez ce sujet, c’est de la question « *qui suis-je ?* » 
 
 <!-- id: s3-13-0134 -->
 
-> et non pas tant *en tant que phase de la relation intersubjective, que réactivation imaginaire de quelque type que ce soit*
+et non pas tant *en tant que phase de la relation intersubjective, que réactivation imaginaire de quelque type que ce soit*
 
 <!-- id: s3-13-0135 -->
 
@@ -580,9 +580,9 @@ Il a perçu le côté significatif, mais il n’a pas pu…
 
 <!-- id: s3-13-0142 -->
 
-> pour la simple raison qu’il n’avait pas l’appareil analytique,
->
-> qui n’est concevable que dans le registre des structurations de langage
+pour la simple raison qu’il n’avait pas l’appareil analytique,
+
+qui n’est concevable que dans le registre des structurations de langage
 
 <!-- id: s3-13-0143 -->
 
@@ -590,9 +590,13 @@ Il a perçu le côté significatif, mais il n’a pas pu…
 
 <!-- id: s3-13-0144 -->
 
-> « *Est-ce que le suis un homme ou une femme ?* »
->
-> « *Est-ce que je suis particulièrement capable d’engendrer ?* »
+<div class="text-quotation">
+
+« *Est-ce que le suis un homme ou une femme ?* »
+
+« *Est-ce que je suis particulièrement capable d’engendrer ?* »
+
+</div>
 
 <!-- id: s3-13-0145 -->
 
@@ -632,7 +636,11 @@ En d’autres termes :
 
 <!-- id: s3-13-0154 -->
 
-> « *Suis-je un homme ou suis-je une femme ?* »
+<div class="text-quotation">
+
+« *Suis-je un homme ou suis-je une femme ?* »
+
+</div>
 
 <!-- id: s3-13-0155 -->
 
@@ -656,9 +664,9 @@ Car ça nous introduira à mettre en valeur des éléments qui sont tout à fait
 
 <!-- id: s3-13-0160 -->
 
-> c’est-à-dire non pas par une identification à la mère, par rapport à l’objet maternel,
->
-> mais au contraire par identification à l’objet paternel, comme FREUD le souligne
+c’est-à-dire non pas par une identification à la mère, par rapport à l’objet maternel,
+
+mais au contraire par identification à l’objet paternel, comme FREUD le souligne
 
 <!-- id: s3-13-0161 -->
 

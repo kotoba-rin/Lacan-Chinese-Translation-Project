@@ -62,7 +62,7 @@ Ce lien du sujet à l’Autre…
 
 <!-- id: s16-21-0015 -->
 
-> Autre à qui il advient des *avatars*, qui n’a pas dit son dernier mot, et c’est bien cela qui nous accroche …voilà au niveau de quels termes nous avons à situer cette *Psychanalyse* qui en est, *si je puis dire*, depuis son moment d’origine, *l’expérience sauvage*, née sans doute, dans un éclair exceptionnel par la voie de FREUD et qui depuis ne cesse d’être à la merci des versants qui s’offrent à elle et qui sont identiques à ceux-là même dans le réseau desquels le sujet qu’elle traite est pris.
+Autre à qui il advient des *avatars*, qui n’a pas dit son dernier mot, et c’est bien cela qui nous accroche …voilà au niveau de quels termes nous avons à situer cette *Psychanalyse* qui en est, *si je puis dire*, depuis son moment d’origine, *l’expérience sauvage*, née sans doute, dans un éclair exceptionnel par la voie de FREUD et qui depuis ne cesse d’être à la merci des versants qui s’offrent à elle et qui sont identiques à ceux-là même dans le réseau desquels le sujet qu’elle traite est pris.
 
 <!-- id: s16-21-0016 -->
 
@@ -70,7 +70,7 @@ Je voudrais partir de quelque chose d’aussi proche qu’il est possible. Tenez
 
 <!-- id: s16-21-0017 -->
 
-> vous m’en ferez la morale que vous voudrez, *analytique* s’il vous plaît ou autre, peu importe, …bon, voilà un objet pour lequel j’ai une préférence, une préférence à titre d’appareil.
+vous m’en ferez la morale que vous voudrez, *analytique* s’il vous plaît ou autre, peu importe, …bon, voilà un objet pour lequel j’ai une préférence, une préférence à titre d’appareil.
 
 <!-- id: s16-21-0018 -->
 
@@ -78,13 +78,13 @@ C’est un stylo…
 
 <!-- id: s16-21-0019 -->
 
-> qui est aussi proche qu’il est possible d’un porte-plume par sa minceur,
->
-> porte-plume au sens antique, antédiluvien, il n’y a plus que très peu de personnes qui s’en servent …il est comme tel d’un très faible contenu puisque vous le voyez, son réservoir…
+qui est aussi proche qu’il est possible d’un porte-plume par sa minceur,
+
+porte-plume au sens antique, antédiluvien, il n’y a plus que très peu de personnes qui s’en servent …il est comme tel d’un très faible contenu puisque vous le voyez, son réservoir…
 
 <!-- id: s16-21-0020 -->
 
-> puisqu’il peut rentrer pour finir par devenir réduit à quelque chose qui tient dans le creux de la main …son réservoir est d’un très faible contenu.
+puisqu’il peut rentrer pour finir par devenir réduit à quelque chose qui tient dans le creux de la main …son réservoir est d’un très faible contenu.
 
 <!-- id: s16-21-0021 -->
 
@@ -248,7 +248,7 @@ De la même sorte que nous avons évoqué tout à l’heure l’effet du point �
 
 <!-- id: s16-21-0061 -->
 
-> et c’est en quoi il articule la seule chose qui se soit trouvée efficace jusqu’à présent …*c’est la solidarité étroite de ce terme qui s’appelle révolution avec le système même qui le porte, qui est le système capitaliste*.
+et c’est en quoi il articule la seule chose qui se soit trouvée efficace jusqu’à présent …*c’est la solidarité étroite de ce terme qui s’appelle révolution avec le système même qui le porte, qui est le système capitaliste*.
 
 <!-- id: s16-21-0062 -->
 
@@ -260,15 +260,15 @@ C’est aussi bien ce à quoi elle peut défaillir aussi intégralement qu’il 
 
 <!-- id: s16-21-0064 -->
 
-> et qui s’offre d’une façon d’autant plus instante que c’est lui-même qui est déterminant de ce tournant …le choix entre ce qui est présentifié…
+et qui s’offre d’une façon d’autant plus instante que c’est lui-même qui est déterminant de ce tournant …le choix entre ce qui est présentifié…
 
 <!-- id: s16-21-0065 -->
 
-> *à savoir l’approche de ce point d’impossibilité, de ce point à l’infini, qui est toujours introduit par l’approche de la conjonction sexuelle* …et la face corrélative qui s’annonce du fait qu’au niveau du sujet, en raison du temps pré-mature…
+*à savoir l’approche de ce point d’impossibilité, de ce point à l’infini, qui est toujours introduit par l’approche de la conjonction sexuelle* …et la face corrélative qui s’annonce du fait qu’au niveau du sujet, en raison du temps pré-mature…
 
 <!-- id: s16-21-0066 -->
 
-> mais comment ne serait-il pas toujours pré-mature au regard de l’impossibilité …en raison du temps pré-mature où il vient à jouer dans l’enfance, ce qui, cette impossibilité, la projette, la masque, la détourne de devoir s’exercer en termes d’insuffisance, de n’être en tant que vivant - vivant et réduit à ses propres forces - forcément pas à la hauteur.
+mais comment ne serait-il pas toujours pré-mature au regard de l’impossibilité …en raison du temps pré-mature où il vient à jouer dans l’enfance, ce qui, cette impossibilité, la projette, la masque, la détourne de devoir s’exercer en termes d’insuffisance, de n’être en tant que vivant - vivant et réduit à ses propres forces - forcément pas à la hauteur.
 
 <!-- id: s16-21-0067 -->
 
@@ -304,7 +304,7 @@ Si je l’ai dit tout à l’heure, dans ce qui s’offre comme position prise *
 
 <!-- id: s16-21-0075 -->
 
-> après avoir criblé autant que je l’ai pu les faces sous lesquelles se distinguent *l’obsessionnel* et *l’hystérique* …la meilleure formule que je pourrais donner procède précisément de ce qui s’offre au niveau de la nature, au naturel comme solution de l’impasse à cette loi de l’Autre.
+après avoir criblé autant que je l’ai pu les faces sous lesquelles se distinguent *l’obsessionnel* et *l’hystérique* …la meilleure formule que je pourrais donner procède précisément de ce qui s’offre au niveau de la nature, au naturel comme solution de l’impasse à cette loi de l’Autre.
 
 <!-- id: s16-21-0076 -->
 
@@ -312,7 +312,7 @@ Pour l’homme qui a à remplir l’*identification* à cette fonction dite du *
 
 <!-- id: s16-21-0077 -->
 
-> *la seule à satisfaire - et c’est en cela qu’elle est mythique - la position de la jouissance virile dans ce qu’il en est de la conjonction sexuelle* …pour l’homme ce qui s’offre au niveau du naturel est très précisément ce qui s’appelle *savoir être le maître*, et en effet, ça a été - ça l’est probablement encore - ça a été et ça reste encore très suffisamment à la portée de quelqu’un.
+*la seule à satisfaire - et c’est en cela qu’elle est mythique - la position de la jouissance virile dans ce qu’il en est de la conjonction sexuelle* …pour l’homme ce qui s’offre au niveau du naturel est très précisément ce qui s’appelle *savoir être le maître*, et en effet, ça a été - ça l’est probablement encore - ça a été et ça reste encore très suffisamment à la portée de quelqu’un.
 
 <!-- id: s16-21-0078 -->
 
@@ -328,11 +328,11 @@ Toute jouissance n’est pour lui pensable que comme un traité avec celui - l�
 
 <!-- id: s16-21-0081 -->
 
-> dont ce n’est pas pour rien qu’elle se rencontre, \[chez l’hystérique\] cette forme de *la réponse aux impasses de la jouissance*, …à l’opposé, *l’hystérique*…
+dont ce n’est pas pour rien qu’elle se rencontre, \[chez l’hystérique\] cette forme de *la réponse aux impasses de la jouissance*, …à l’opposé, *l’hystérique*…
 
 <!-- id: s16-21-0082 -->
 
-> et c’est précisément pour cela que ce mode se rencontre plus spécialement chez les femmes …*l’hystérique* se caractérise de ne pas se prendre pour « *la femme* », car dans cette impasse, dans cette aporie, aussi naturellement que pour « *le maître* », les choses s’offrent assez uniment à la femme de remplir un rôle dans la conjonction sexuelle où naturellement elle a une assez bonne part.
+et c’est précisément pour cela que ce mode se rencontre plus spécialement chez les femmes …*l’hystérique* se caractérise de ne pas se prendre pour « *la femme* », car dans cette impasse, dans cette aporie, aussi naturellement que pour « *le maître* », les choses s’offrent assez uniment à la femme de remplir un rôle dans la conjonction sexuelle où naturellement elle a une assez bonne part.
 
 <!-- id: s16-21-0083 -->
 
@@ -352,9 +352,9 @@ Si dans l’articulation que j’ai donnée du 1 et du *a*, qui n’est certes p
 
 <!-- id: s16-21-0087 -->
 
-> après deux 1, un 2 - et de continuer indéfiniment - le dernier 1 joint au 2, un 3, 5 et après ça un 8,
->
-> et après ça un 13, et ainsi de suite \[*série de Fibonacci* : 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987...\] …c’est ceci - je vous l’ai dit - *qui par la proportion qu’il engendre* - de plus en plus serrée à mesure que les nombres croissent - *définit strictement la fonction du a*.
+après deux 1, un 2 - et de continuer indéfiniment - le dernier 1 joint au 2, un 3, 5 et après ça un 8,
+
+et après ça un 13, et ainsi de suite \[*série de Fibonacci* : 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987...\] …c’est ceci - je vous l’ai dit - *qui par la proportion qu’il engendre* - de plus en plus serrée à mesure que les nombres croissent - *définit strictement la fonction du a*.
 
 <!-- id: s16-21-0088 -->
 

@@ -210,9 +210,9 @@ Il s’agit de savoir ce que représente Φ, à savoir la fonction du *phallus* 
 
 <!-- id: s8-18-0052 -->
 
-> d’une façon dont nous pouvons dire, conformément à ce que nous savons
->
-> et que l’expérience nous montre d’une façon très manifeste dans la structure de l’obsessionnel
+d’une façon dont nous pouvons dire, conformément à ce que nous savons
+
+et que l’expérience nous montre d’une façon très manifeste dans la structure de l’obsessionnel
 
 <!-- id: s8-18-0053 -->
 

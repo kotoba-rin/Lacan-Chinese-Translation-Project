@@ -4,8 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XVII
-  - 领域/哲学
-  - 领域/认识论
+  - 领域/哲学/认识论与心灵
   - 语言/拉丁语
   - 概念/经验主义
 verified_at: 2026-07-28

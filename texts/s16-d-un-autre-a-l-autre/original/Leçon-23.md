@@ -50,13 +50,13 @@ Comme rien ici par ces termes n’est désigné, que nous ne sommes au niveau d�
 
 <!-- id: s16-23-0012 -->
 
-> d’un 1 placé par exemple sur votre paume, à l’occasion en manière de tatouage,
->
-> ce qui vous identifie dans un certain contexte, c’est arrivé …comme nous ne sommes pas à ce niveau-là…
+d’un 1 placé par exemple sur votre paume, à l’occasion en manière de tatouage,
+
+ce qui vous identifie dans un certain contexte, c’est arrivé …comme nous ne sommes pas à ce niveau-là…
 
 <!-- id: s16-23-0013 -->
 
-> que c’est un trait qui ne marque rien dont il s’agit dans chaque cas …nous sommes strictement au niveau de ce qu’on appelle l’identité numérique, c’est-à-dire de *quelque chose* qui marque *la pure différence* en tant que rien ne la spécifie, l’autre n’est l’autre en rien, et c’est justement pour ça qu’il est l’autre. Voilà.
+que c’est un trait qui ne marque rien dont il s’agit dans chaque cas …nous sommes strictement au niveau de ce qu’on appelle l’identité numérique, c’est-à-dire de *quelque chose* qui marque *la pure différence* en tant que rien ne la spécifie, l’autre n’est l’autre en rien, et c’est justement pour ça qu’il est l’autre. Voilà.
 
 <!-- id: s16-23-0014 -->
 
@@ -128,7 +128,7 @@ C’est une petite parenthèse destinée à vous rappeler que ça n’est pas sa
 
 <!-- id: s16-23-0031 -->
 
-> pour des raisons de consonance, j’aime mieux ça que *ensemblement*, quoiqu’il arrive que *la théorie des ensembles* *s’ensable* de temps en temps, mais elle se *réensemblit* fort allègrement …ce n’est évidemment qu’en marge d’une telle référence que je voudrais vous rappeler cette innovation tout à fait radicale que *la théorie des ensembles* constitue d’introduire ce pas - et littéralement à son principe - que *ce qu’il s’agit de ne pas confondre :* *c’est en aucun cas un élément quelconque avec l’ensemble qui* - *pourtant* - *ne l’aurait que pour seul élément. Ce n’est pas du tout pareil.*
+pour des raisons de consonance, j’aime mieux ça que *ensemblement*, quoiqu’il arrive que *la théorie des ensembles* *s’ensable* de temps en temps, mais elle se *réensemblit* fort allègrement …ce n’est évidemment qu’en marge d’une telle référence que je voudrais vous rappeler cette innovation tout à fait radicale que *la théorie des ensembles* constitue d’introduire ce pas - et littéralement à son principe - que *ce qu’il s’agit de ne pas confondre :* *c’est en aucun cas un élément quelconque avec l’ensemble qui* - *pourtant* - *ne l’aurait que pour seul élément. Ce n’est pas du tout pareil.*
 
 <!-- id: s16-23-0032 -->
 
@@ -164,7 +164,7 @@ Ceci est le grand A : l’*Autre*, ceci pour désigner le rapport de ce S<sub>1
 
 <!-- id: s16-23-0040 -->
 
-> <img src="assets/image105.jpeg" style="width:0.65789in;height:0.42276in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S16\101.jpg" /> <img src="assets/image100.jpeg" style="width:0.78165in;height:0.49939in" alt="83a" />
+<img src="assets/image105.jpeg" style="width:0.65789in;height:0.42276in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S16\101.jpg" /> <img src="assets/image100.jpeg" style="width:0.78165in;height:0.49939in" alt="83a" />
 
 <!-- id: s16-23-0041 -->
 
@@ -196,7 +196,7 @@ Ce qui est fort important à rappeler pour ébranler cette sorte d’adhésion �
 
 <!-- id: s16-23-0048 -->
 
-> si mon souvenir est bon, quelque part du côté d’un X<sup>ème</sup> livre d’EUCLIDE, j’espère ne pas me tromper …un certain EUDOXE fait un grand état.
+si mon souvenir est bon, quelque part du côté d’un X<sup>ème</sup> livre d’EUCLIDE, j’espère ne pas me tromper …un certain EUDOXE fait un grand état.
 
 <!-- id: s16-23-0049 -->
 
@@ -204,9 +204,9 @@ Or ceci est capital car nous allons le toucher immédiatement du doigt sous la f
 
 <!-- id: s16-23-0050 -->
 
-> ici réduit à sa fonction la plus simple, à savoir d’être un ensemble portant le 1,
->
-> ce signifiant nécessaire comme étant celui auprès duquel va se représenter, de l’un à l’Autre, le *Un* du sujet …vous verrez tout à l’heure dans quelles limites il est légitime de réduire ces deux S : S<sub>1</sub> et S<sub>2,</sub> à un même 1.
+ici réduit à sa fonction la plus simple, à savoir d’être un ensemble portant le 1,
+
+ce signifiant nécessaire comme étant celui auprès duquel va se représenter, de l’un à l’Autre, le *Un* du sujet …vous verrez tout à l’heure dans quelles limites il est légitime de réduire ces deux S : S<sub>1</sub> et S<sub>2,</sub> à un même 1.
 
 <!-- id: s16-23-0051 -->
 
@@ -222,7 +222,7 @@ Est-ce qu’il est nécessaire d’insister : que vous voyez ici se reproduire 
 
 <!-- id: s16-23-0054 -->
 
-> exactement l’identité de ce A comme ensemble vide : { 1,{Ø} } …en ces deux points du schéma qui le reproduisent :
+exactement l’identité de ce A comme ensemble vide : { 1,{Ø} } …en ces deux points du schéma qui le reproduisent :
 
 <!-- id: s16-23-0055 -->
 
@@ -326,15 +326,15 @@ Alors ce rappel du statut de l’Autre…
 
 <!-- id: s16-23-0080 -->
 
-> c’est cela qui *dans mon symbolisme s’écrit comme ça* S(A) :
->
-> – S, ce qui veut dire *signifiant*,
->
-> – et A, *auquel j’ai donné aujourd’hui la figure de l’ensemble vide* …je mets là ça parce que, du même style emporté qui tout à l’heure imaginairement…
+c’est cela qui *dans mon symbolisme s’écrit comme ça* S(A) :
+
+– S, ce qui veut dire *signifiant*,
+
+– et A, *auquel j’ai donné aujourd’hui la figure de l’ensemble vide* …je mets là ça parce que, du même style emporté qui tout à l’heure imaginairement…
 
 <!-- id: s16-23-0081 -->
 
-> puisque bien sûr je suis forcé d’imaginer les demandes et les réponses ici …tout à l’heure imaginairement je supposais qu’on me disait que *l’Autre ne savait pas*.
+puisque bien sûr je suis forcé d’imaginer les demandes et les réponses ici …tout à l’heure imaginairement je supposais qu’on me disait que *l’Autre ne savait pas*.
 
 <!-- id: s16-23-0082 -->
 
@@ -350,9 +350,9 @@ Pour l’instant, ce que je déduis aujourd’hui…
 
 <!-- id: s16-23-0085 -->
 
-> avec quelque lenteur, mais de très important à parcourir, pour des raisons
->
-> que je vous laisserai peut-être à la fin de cette séance entrevoir …c’est qu’il n’y a pas de confusion sur un certain nombre de notations.
+avec quelque lenteur, mais de très important à parcourir, pour des raisons
+
+que je vous laisserai peut-être à la fin de cette séance entrevoir …c’est qu’il n’y a pas de confusion sur un certain nombre de notations.
 
 <!-- id: s16-23-0086 -->
 
@@ -364,7 +364,7 @@ Est-ce qu’il faut que j’en revienne une fois de plus…
 
 <!-- id: s16-23-0088 -->
 
-> parce que je ne parle que de ça depuis le début mais ce n’est pas encore prouvé qu’il ne faille pas que j’y revienne …que ça veut dire… qu’en aucun cas ça ne veut dire qu’il est *Un* : *ce n’est pas parce qu’il n’y en a pas d’autre qu’il est Un.*
+parce que je ne parle que de ça depuis le début mais ce n’est pas encore prouvé qu’il ne faille pas que j’y revienne …que ça veut dire… qu’en aucun cas ça ne veut dire qu’il est *Un* : *ce n’est pas parce qu’il n’y en a pas d’autre qu’il est Un.*
 
 <!-- id: s16-23-0089 -->
 
@@ -392,9 +392,9 @@ Alors il faut tout de même bien que de temps en temps je me mette à parler…
 
 <!-- id: s16-23-0095 -->
 
-> à proprement parler de ce qui se passe, en négligeant « *le feu au derrière* » qui est pourtant la seule chose
->
-> bien sûr qui puisse le motiver à se faire représenter ainsi, à ce dont en effet il faut bien partir …c’est-à-dire, non pas de l’Autre, mais de cet « 1 *Autre* », c’est-à-dire de cet 1 inscrit dans l’Autre, *condition nécessaire à ce que* *le sujet s’y accroche*, belle occasion aussi de ne pas se souvenir de ce qui - de cet 1 - est la condition, c’est-à-dire l’Autre. Voilà.
+à proprement parler de ce qui se passe, en négligeant « *le feu au derrière* » qui est pourtant la seule chose
+
+bien sûr qui puisse le motiver à se faire représenter ainsi, à ce dont en effet il faut bien partir …c’est-à-dire, non pas de l’Autre, mais de cet « 1 *Autre* », c’est-à-dire de cet 1 inscrit dans l’Autre, *condition nécessaire à ce que* *le sujet s’y accroche*, belle occasion aussi de ne pas se souvenir de ce qui - de cet 1 - est la condition, c’est-à-dire l’Autre. Voilà.
 
 <!-- id: s16-23-0096 -->
 
@@ -438,7 +438,7 @@ Ce qui serait bien, ce qui serait amusant, c’est de voir le rapport que ça a,
 
 <!-- id: s16-23-0106 -->
 
-> qui n’est pas si mal, qui est plein de choses tout à fait inexploitées encore …ARISTOTE, ça doit tout de même avoir un rapport avec ça que chez eux, la cuisine au niveau de ce plat, prend une forme différente : *au lieu qu’il y ait simplement une majeure, une mineure et une conclusion, il y a forcément au minimum cinq termes*.
+qui n’est pas si mal, qui est plein de choses tout à fait inexploitées encore …ARISTOTE, ça doit tout de même avoir un rapport avec ça que chez eux, la cuisine au niveau de ce plat, prend une forme différente : *au lieu qu’il y ait simplement une majeure, une mineure et une conclusion, il y a forcément au minimum cinq termes*.
 
 <!-- id: s16-23-0107 -->
 
@@ -454,7 +454,7 @@ Et vous voyez là la portée de mon *pari de Pascal* : il s’agit d’un « *
 
 <!-- id: s16-23-0110 -->
 
-> *comme j’y ai insisté au moment où je parlais du pari de Pascal* …*c’est l’ensemble vide*, ce n’est pas un joueur. Il sait des choses mais comme il n’est pas un sujet, il ne peut pas jouer.
+*comme j’y ai insisté au moment où je parlais du pari de Pascal* …*c’est l’ensemble vide*, ce n’est pas un joueur. Il sait des choses mais comme il n’est pas un sujet, il ne peut pas jouer.
 
 <!-- id: s16-23-0111 -->
 
@@ -494,9 +494,9 @@ Le reste du schéma nous montre que ceci va avoir une valeur décisive sur la fa
 
 <!-- id: s16-23-0120 -->
 
-> que j’ai mis quelque part, pour qu’il vienne aussi dans le miroir se refléter de la bonne façon.
->
-> Mais enfin c’était une étape de l’explication \[*car a n’est pas « spéculaire »*\] …il s’agit de savoir, ce *a*, d’où il surgit. Et ça a le rapport le plus étroit avec ce *trait unaire* dans l’Autre en tant qu’il est le fondement de ce qui, dans ce schéma, prend sa portée d’être l’*idéal du moi* \[I\].
+que j’ai mis quelque part, pour qu’il vienne aussi dans le miroir se refléter de la bonne façon.
+
+Mais enfin c’était une étape de l’explication \[*car a n’est pas « spéculaire »*\] …il s’agit de savoir, ce *a*, d’où il surgit. Et ça a le rapport le plus étroit avec ce *trait unaire* dans l’Autre en tant qu’il est le fondement de ce qui, dans ce schéma, prend sa portée d’être l’*idéal du moi* \[I\].
 
 <!-- id: s16-23-0121 -->
 
@@ -504,7 +504,7 @@ Est-ce que vous n’avez pas déjà vu que dans ce dont il s’agit dans ce « 
 
 <!-- id: s16-23-0122 -->
 
-> dont je parle depuis très longtemps de sorte que quand même quelques-uns d’entre vous ont dû l’entrouvrir …qui est celui de la *Phénoménologie de l’Esprit* de HEGEL.
+dont je parle depuis très longtemps de sorte que quand même quelques-uns d’entre vous ont dû l’entrouvrir …qui est celui de la *Phénoménologie de l’Esprit* de HEGEL.
 
 <!-- id: s16-23-0123 -->
 
@@ -516,7 +516,7 @@ Il s’agissait des soldats entraînés par *quelqu’un d’assez malin*…
 
 <!-- id: s16-23-0125 -->
 
-> qui n’avait pas eu besoin de venir à mon séminaire pour savoir *comment il fallait opérer en politique en Europe* …alors le « *maître et l’esclave* », « *la lutte à mort de pur prestige* », qu’est-ce que ça vous en fout plein la vue !
+qui n’avait pas eu besoin de venir à mon séminaire pour savoir *comment il fallait opérer en politique en Europe* …alors le « *maître et l’esclave* », « *la lutte à mort de pur prestige* », qu’est-ce que ça vous en fout plein la vue !
 
 <!-- id: s16-23-0126 -->
 
@@ -536,7 +536,7 @@ Tout le monde le sait, dans le fond, mais ça n’empêche pas qu’il n’y a q
 
 <!-- id: s16-23-0130 -->
 
-> Dieu sait par quoi et au nom de quoi, c’est ce que nous allons tâcher d’élucider …d’être « *infiniment heureuses* ». C’est quelque chose d’être PASCAL !
+Dieu sait par quoi et au nom de quoi, c’est ce que nous allons tâcher d’élucider …d’être « *infiniment heureuses* ». C’est quelque chose d’être PASCAL !
 
 <!-- id: s16-23-0131 -->
 
@@ -580,7 +580,7 @@ L’Idéal, c’est « *service­-service* », oui, il est là.
 
 <!-- id: s16-23-0141 -->
 
-> dont je l’affectais à un tournant, à Sainte ­Anne, puisque je m’évoque …d’être *le cocu de l’Histoire*. Mais *cocu*, il l’est de départ, c’est le *cocu magnifique*. L’*Idéal* et l’*Idéal du moi* c’est ça : *un corps qui obéit*. Alors il va le chercher chez l’esclave. Naturellement il ne sait pas quelle est sa position, à lui, l’esclave.
+dont je l’affectais à un tournant, à Sainte ­Anne, puisque je m’évoque …d’être *le cocu de l’Histoire*. Mais *cocu*, il l’est de départ, c’est le *cocu magnifique*. L’*Idéal* et l’*Idéal du moi* c’est ça : *un corps qui obéit*. Alors il va le chercher chez l’esclave. Naturellement il ne sait pas quelle est sa position, à lui, l’esclave.
 
 <!-- id: s16-23-0142 -->
 
@@ -616,7 +616,7 @@ Là où ça va « *la lutte à mort* »…
 
 <!-- id: s16-23-0150 -->
 
-> *qui, elle, est peut-être un peu plus compliquée que son départ* …nous en avons la constatation dans une civilisation qui justement se caractérise d’avoir pris ce départ-là.
+*qui, elle, est peut-être un peu plus compliquée que son départ* …nous en avons la constatation dans une civilisation qui justement se caractérise d’avoir pris ce départ-là.
 
 <!-- id: s16-23-0151 -->
 
@@ -636,7 +636,7 @@ Et il n’y a pas de raison qu’il s’arrête, contre ce 1, il va jouer 2 : 1
 
 <!-- id: s16-23-0155 -->
 
-> parce qu’on ne peut pas dire que je ne vous mâche pas les choses …1,2,3,5,8,13,21… et ça continue jusqu’à 89 ou quelque chiffre remarquable de cette espèce. \[1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6 765, 10 946…\]
+parce qu’on ne peut pas dire que je ne vous mâche pas les choses …1,2,3,5,8,13,21… et ça continue jusqu’à 89 ou quelque chiffre remarquable de cette espèce. \[1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6 765, 10 946…\]
 
 <!-- id: s16-23-0156 -->
 
@@ -680,7 +680,7 @@ Alors c’est de ça qu’il s’agit. Il s’agit de comprendre…
 
 <!-- id: s16-23-0166 -->
 
-> d’essayer de comprendre par autre chose que par la référence au « *feu au derrière* » dont je parlais tout à l’heure …à savoir par le processus lui-même de ce qui se passe quand se joue le jeu de la représentation du sujet.
+d’essayer de comprendre par autre chose que par la référence au « *feu au derrière* » dont je parlais tout à l’heure …à savoir par le processus lui-même de ce qui se passe quand se joue le jeu de la représentation du sujet.
 
 <!-- id: s16-23-0167 -->
 
@@ -692,7 +692,7 @@ Il a donné, en somme, ce maître, son petit doigt, puisque dans le fond ça ne 
 
 <!-- id: s16-23-0169 -->
 
-> comme le démontre le fait qu’il faut en savoir beaucoup en effet pour y regarder à deux fois …voilà : il a donné son petit doigt, une fois, et puis y passe toute la mécanique.
+comme le démontre le fait qu’il faut en savoir beaucoup en effet pour y regarder à deux fois …voilà : il a donné son petit doigt, une fois, et puis y passe toute la mécanique.
 
 <!-- id: s16-23-0170 -->
 
@@ -708,7 +708,7 @@ Est-ce que vous ne croyez pas que *cet Autre, cet ensemble vide*, on pourrait y 
 
 <!-- id: s16-23-0173 -->
 
-> à savoir de déverser ces guerriers au cœur d’une assemblée humaine qui « *n’en peut mais *» …mais que par cet appel, ce procédé du 1 qui *s’égale* au *Un* du jeu de la maîtrise, il en absorbe, le cheval de Troie, de plus en plus dans son ventre, et que ça coûte de plus en plus cher.
+à savoir de déverser ces guerriers au cœur d’une assemblée humaine qui « *n’en peut mais *» …mais que par cet appel, ce procédé du 1 qui *s’égale* au *Un* du jeu de la maîtrise, il en absorbe, le cheval de Troie, de plus en plus dans son ventre, et que ça coûte de plus en plus cher.
 
 <!-- id: s16-23-0174 -->
 
@@ -720,9 +720,9 @@ Mais il faut bien que j’aille plus loin…
 
 <!-- id: s16-23-0176 -->
 
-> sans faire de petite poésie et que laissant toute cette population qui le fête ce cheval de Troie,
->
-> faire la queue devant le château de la puissance, château kafkaïen …que je précise que la chose ne prend son sens qu’à tenir compte de ce *a* : c’est à savoir que le *a* - *le a seul* – nous rend raison de ceci que *le pari* s’établit d’abord du 1 au *Un* qui est « *quitte ou double* ». « *Quitte ou double* » pour quoi faire puisque ce qu’il s’agit de gagner, on l’a déjà… comme le remarque fort bien quelqu’un dans le dialogue de PASCAL.
+sans faire de petite poésie et que laissant toute cette population qui le fête ce cheval de Troie,
+
+faire la queue devant le château de la puissance, château kafkaïen …que je précise que la chose ne prend son sens qu’à tenir compte de ce *a* : c’est à savoir que le *a* - *le a seul* – nous rend raison de ceci que *le pari* s’établit d’abord du 1 au *Un* qui est « *quitte ou double* ». « *Quitte ou double* » pour quoi faire puisque ce qu’il s’agit de gagner, on l’a déjà… comme le remarque fort bien quelqu’un dans le dialogue de PASCAL.
 
 <!-- id: s16-23-0177 -->
 
@@ -752,7 +752,7 @@ Seulement il faut croire que ce *a* qui se dégage de la poussée du processus j
 
 <!-- id: s16-23-0183 -->
 
-> sans que rien soit pointé que d’obscur au regard de sa jouissance propre à l’autre …c’est dans ce rapport de *risque* et de *jeu* que réside la fonction du *a*.
+sans que rien soit pointé que d’obscur au regard de sa jouissance propre à l’autre …c’est dans ce rapport de *risque* et de *jeu* que réside la fonction du *a*.
 
 <!-- id: s16-23-0184 -->
 
@@ -780,7 +780,7 @@ Nous ne sommes pas en train de dire que dans *notre culture*, tout se résume à
 
 <!-- id: s16-23-0190 -->
 
-> car enfin, *le Dieu des Juifs* a un corps : *qu’est-ce que la colonne de fumée qui précède la migration israélienne sinon un corps ?* …CAÏN voit ABEL favoriser à ce point *la jouissance* de Dieu par son sacrifice, que comment ne ferait-il pas ce pas de sacrifier le sacrificateur à son tour ?
+car enfin, *le Dieu des Juifs* a un corps : *qu’est-ce que la colonne de fumée qui précède la migration israélienne sinon un corps ?* …CAÏN voit ABEL favoriser à ce point *la jouissance* de Dieu par son sacrifice, que comment ne ferait-il pas ce pas de sacrifier le sacrificateur à son tour ?
 
 <!-- id: s16-23-0191 -->
 
@@ -836,7 +836,7 @@ Il s’agit de savoir pour qui. Le *plus-de-jouir* qui est le véritable enjeu d
 
 <!-- id: s16-23-0204 -->
 
-> et il n’est pas besoin que je rappelle ce que j’en ai articulé pour que ceci ait son plein sens …voilà où *l’obsessionnel* cherche sa place, en l’Autre, et la trouve puisque c’est au niveau de l’Autre que dans cette genèse éthique, le *a* se place, et comme cela se forge.
+et il n’est pas besoin que je rappelle ce que j’en ai articulé pour que ceci ait son plein sens …voilà où *l’obsessionnel* cherche sa place, en l’Autre, et la trouve puisque c’est au niveau de l’Autre que dans cette genèse éthique, le *a* se place, et comme cela se forge.
 
 <!-- id: s16-23-0205 -->
 
@@ -848,7 +848,7 @@ Ce n’est pas tant d’échapper à la mort qui, dans tout ceci, est présente 
 
 <!-- id: s16-23-0207 -->
 
-> jamais perçue, sinon écrite d’une limite qui est bien au-delà du jeu, du champ logique …par contre ce dont il s’agit, et tout aussi inaccessible dans cette dialectique, *c’est de la jouissance et c’est à cela que l’obsessionnel entend échapper*.
+jamais perçue, sinon écrite d’une limite qui est bien au-delà du jeu, du champ logique …par contre ce dont il s’agit, et tout aussi inaccessible dans cette dialectique, *c’est de la jouissance et c’est à cela que l’obsessionnel entend échapper*.
 
 <!-- id: s16-23-0208 -->
 

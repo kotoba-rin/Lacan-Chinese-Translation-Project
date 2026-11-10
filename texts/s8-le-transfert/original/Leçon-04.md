@@ -22,9 +22,9 @@ Je ne voudrais pas, de chacun de ces discours tels qu’ils vont se succéder, v
 
 <!-- id: s8-04-0005 -->
 
-> qui est l’hôte de ce Banquet, dont le témoin est ARISTODÈME. ARISTODÈME dont celui qui parle
->
-> en nous rapportant ce qu’il a recueilli d’ARISTODÈME est APOLLODORE. C’est donc d’un bout à l’autre APOLLODORE qui parle, *répétant ce qu’a dit* ARISTODÈME
+qui est l’hôte de ce Banquet, dont le témoin est ARISTODÈME. ARISTODÈME dont celui qui parle
+
+en nous rapportant ce qu’il a recueilli d’ARISTODÈME est APOLLODORE. C’est donc d’un bout à l’autre APOLLODORE qui parle, *répétant ce qu’a dit* ARISTODÈME
 
 <!-- id: s8-04-0006 -->
 
@@ -124,9 +124,9 @@ Tout de suite après nous entrons dans le discours de PAUSANIAS. « *Le discour
 
 <!-- id: s8-04-0030 -->
 
-> il y a là une [*nuance*](#Enkomion) entre l’ενκ<span id="EnkomionRetour" class="anchor"></span>ωμιον \[enkômion\] et l’ἔπαινος \[épaïnos\], je ne sais pas pourquoi la dernière fois j’ai fait le mot ἐπαινεσις \[epainesis\] *avec* ἐπαινεῖν \[epainein\], *la louange de l’amour* - c’est le sens d’ἔπαινος \[épaïnos\][^43] -
->
-> *la louange de l’Amour* doit partir de ceci que l’Amour n’est pas unique. La distinction, il la fait de son *origine.* ...*Il n’y a pas* - dit-il - *d’*APHRODITE *sans* *Amour*, or il y a deux APHRODITE.
+il y a là une [*nuance*](#Enkomion) entre l’ενκ<span id="EnkomionRetour" class="anchor"></span>ωμιον \[enkômion\] et l’ἔπαινος \[épaïnos\], je ne sais pas pourquoi la dernière fois j’ai fait le mot ἐπαινεσις \[epainesis\] *avec* ἐπαινεῖν \[epainein\], *la louange de l’amour* - c’est le sens d’ἔπαινος \[épaïnos\][^43] -
+
+*la louange de l’Amour* doit partir de ceci que l’Amour n’est pas unique. La distinction, il la fait de son *origine.* ...*Il n’y a pas* - dit-il - *d’*APHRODITE *sans* *Amour*, or il y a deux APHRODITE.
 
 <!-- id: s8-04-0031 -->
 
@@ -174,9 +174,9 @@ Ici l’ambiguïté est pendant toute une page singulièrement soutenue : d’o
 
 <!-- id: s8-04-0042 -->
 
-> καὶ ὁ μὲν δυνάμενος εἰς ϕρόνησιν καὶ τὴν ἄλλην ἀρετὴν συμβάλλεσθαι, ὁ δὲ δεόμενος
->
-> εἰς παίδευσιν καὶ τὴν ἄλλην σοϕίαν κτᾶσθαι \[[184](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)d-e\]
+καὶ ὁ μὲν δυνάμενος εἰς ϕρόνησιν καὶ τὴν ἄλλην ἀρετὴν συμβάλλεσθαι, ὁ δὲ δεόμενος
+
+εἰς παίδευσιν καὶ τὴν ἄλλην σοϕίαν κτᾶσθαι \[[184](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)d-e\]
 
 <!-- id: s8-04-0043 -->
 

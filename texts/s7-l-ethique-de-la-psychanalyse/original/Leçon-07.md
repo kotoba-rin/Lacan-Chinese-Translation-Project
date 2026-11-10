@@ -54,7 +54,7 @@ comme par toute une face de son action même, de sa doctrine, elle se présente
 
 <!-- id: s7-07-0013 -->
 
-> tendant pour nous à simplifier quelques problèmes, quelques embarras qui seraient en somme d’origine externe, et de l’ordre de la méconnaissance, voire du malentendu
+tendant pour nous à simplifier quelques problèmes, quelques embarras qui seraient en somme d’origine externe, et de l’ordre de la méconnaissance, voire du malentendu
 
 <!-- id: s7-07-0014 -->
 
@@ -182,9 +182,9 @@ S’il a pu pendant longtemps, dans la pensée scientifique même des hommes, ha
 
 <!-- id: s7-07-0045 -->
 
-> pour en saisir l’importance, je me permettrai de vous rappeler que ce monde avait, dans la pensée
->
-> qui a immédiatement précédé ce qu’on peut appeler le trait essentiel de la libération de l’homme moderne
+pour en saisir l’importance, je me permettrai de vous rappeler que ce monde avait, dans la pensée
+
+qui a immédiatement précédé ce qu’on peut appeler le trait essentiel de la libération de l’homme moderne
 
 <!-- id: s7-07-0046 -->
 
@@ -264,9 +264,9 @@ Bien sûr, il s’agit d’*objet*. Qu’est-ce que veut dire l’*objet* à ce 
 
 <!-- id: s7-07-0065 -->
 
-> non pas par l’intermédiaire d’un retour du refoulé directement, non pas indirectement,
->
-> non pas symptomatiquement, mais d’une façon directement satisfaisante
+non pas par l’intermédiaire d’un retour du refoulé directement, non pas indirectement,
+
+non pas symptomatiquement, mais d’une façon directement satisfaisante
 
 <!-- id: s7-07-0066 -->
 
@@ -406,9 +406,9 @@ Dieu sait : non sans s’être fait pendant de longues années tirer l’oreill
 
 <!-- id: s7-07-0100 -->
 
-> appuyé en somme par toute l’autorité chrétienne, depuis les paroles du CHRIST
->
-> jusqu’à celles de Saint PAUL, d’AUGUSTIN, et toute la tradition des PÈRES
+appuyé en somme par toute l’autorité chrétienne, depuis les paroles du CHRIST
+
+jusqu’à celles de Saint PAUL, d’AUGUSTIN, et toute la tradition des PÈRES
 
 <!-- id: s7-07-0101 -->
 
@@ -420,9 +420,9 @@ Et LUTHER, jusque là fort réservé quant à la personne d’ÉRASME, tout en g
 
 <!-- id: s7-07-0103 -->
 
-> pour accentuer le caractère de *rapport radicalement mauvais* où l’homme est, quant à ce qui est au cœur de son destin, cette *Ding*, cette *causa* que l’autre jour je désignais comme analogue à ce qui est - c’est d’ailleurs la même - désigné par KANT à l’horizon de sa « *Raison pratique »*, à ceci près que ç’en est le pendant, que - si je puis dire,
->
-> et pour inventer un terme dont je vous prie de pardonner *la grécité approximative -* c’est cette « *causa pathomenon* », cette *causa* de *la passion humaine* la plus fondamentale
+pour accentuer le caractère de *rapport radicalement mauvais* où l’homme est, quant à ce qui est au cœur de son destin, cette *Ding*, cette *causa* que l’autre jour je désignais comme analogue à ce qui est - c’est d’ailleurs la même - désigné par KANT à l’horizon de sa « *Raison pratique »*, à ceci près que ç’en est le pendant, que - si je puis dire,
+
+et pour inventer un terme dont je vous prie de pardonner *la grécité approximative -* c’est cette « *causa pathomenon* », cette *causa* de *la passion humaine* la plus fondamentale
 
 <!-- id: s7-07-0104 -->
 
@@ -478,9 +478,13 @@ FREUD, dans une petite note des *Trois essais* a fait en effet une espèce de *f
 
 <!-- id: s7-07-0117 -->
 
-> « *La différence qui nous accroche entre la vie amoureuse des alten* - il s’agit des Anciens, des préchrétiens - *et la nôtre gît en ceci*
->
-> *que les Anciens mettaient l’accent sur la tendance elle-même, que nous, par contre, nous la mettons sur son objet* ».
+<div class="text-quotation">
+
+« *La différence qui nous accroche entre la vie amoureuse des alten* - il s’agit des Anciens, des préchrétiens - *et la nôtre gît en ceci*
+
+*que les Anciens mettaient l’accent sur la tendance elle-même, que nous, par contre, nous la mettons sur son objet* ».
+
+</div>
 
 <!-- id: s7-07-0118 -->
 
@@ -492,9 +496,13 @@ Quand j’intitule ceci une excursion excessive, je vous pose la question, qu’
 
 <!-- id: s7-07-0120 -->
 
-> « *Je n’ai qu’à citer un nom parmi ces notes, dans cet esprit de l’auteur anglais GALSWORTHY dont la valeur est reconnue universellement aujourd’hui. Une nouvelle m’avait autrefois beaucoup plu, elle s’appelle The Apple-Tree et montre comment*
->
-> *il n’est plus de place dans notre vie civilisée aujourd’hui pour l’amour simple et naturel, l’écho pastoral, de deux êtres humains.* »
+<div class="text-quotation">
+
+« *Je n’ai qu’à citer un nom parmi ces notes, dans cet esprit de l’auteur anglais GALSWORTHY dont la valeur est reconnue universellement aujourd’hui. Une nouvelle m’avait autrefois beaucoup plu, elle s’appelle The Apple-Tree et montre comment*
+
+*il n’est plus de place dans notre vie civilisée aujourd’hui pour l’amour simple et naturel, l’écho pastoral, de deux êtres humains.* »
+
+</div>
 
 <!-- id: s7-07-0121 -->
 

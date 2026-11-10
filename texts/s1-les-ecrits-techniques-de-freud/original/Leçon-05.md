@@ -74,9 +74,9 @@ Il s’agit de la façon dont le complexe se traduit, et c’est de cette traduc
 
 <!-- id: s1-05-0018 -->
 
-> *si nettement sentir que l’association qui surgit alors en porte la marque* - de cette résistance - *et nous apparaît comme un compromis*
->
-> *entre les exigences de cette résistance et celles du travail d’investigation.* »
+*si nettement sentir que l’association qui surgit alors en porte la marque* - de cette résistance - *et nous apparaît comme un compromis*
+
+*entre les exigences de cette résistance et celles du travail d’investigation.* »
 
 <!-- id: s1-05-0019 -->
 
@@ -88,13 +88,17 @@ Ce n’est pas tout à fait « *l’association qui surgit* », c’est *nächst
 
 <!-- id: s1-05-0021 -->
 
-> « *L’expérience* - là est le point capital - *montre que c’est ici que surgit le trans­fert, lorsque quelque chose parmi les éléments du complexe,*
->
-> *dans le contenu de celui-ci, est susceptible de se reporter sur la personne du médecin, le trans­fert a lieu, fournit l’idée suivante et se manifeste*
->
-> *sous forme d’une résistance, d’un arrêt des associations par exemple. De pareilles expériences nous ensei­gnent que l’idée de transfert*
->
-> *est parvenue de préférence à toutes les autres associations possibles à se glisser jusqu’au conscient, justement parce qu’elle satisfait la résistance.* »
+<div class="text-quotation">
+
+« *L’expérience* - là est le point capital - *montre que c’est ici que surgit le trans­fert, lorsque quelque chose parmi les éléments du complexe,*
+
+*dans le contenu de celui-ci, est susceptible de se reporter sur la personne du médecin, le trans­fert a lieu, fournit l’idée suivante et se manifeste*
+
+*sous forme d’une résistance, d’un arrêt des associations par exemple. De pareilles expériences nous ensei­gnent que l’idée de transfert*
+
+*est parvenue de préférence à toutes les autres associations possibles à se glisser jusqu’au conscient, justement parce qu’elle satisfait la résistance.* »
+
+</div>
 
 <!-- id: s1-05-0022 -->
 
@@ -210,7 +214,11 @@ Vous voyez bien le phénomène dont il s’agit, c’est quelque chose en rappor
 
 <!-- id: s1-05-0050 -->
 
-> « *Avouons que rien n’est plus difficile en analyse* - on a traduit en français : *que de vaincre les résistances* »
+<div class="text-quotation">
+
+« *Avouons que rien n’est plus difficile en analyse* - on a traduit en français : *que de vaincre les résistances* »
+
+</div>
 
 <!-- id: s1-05-0051 -->
 
@@ -218,7 +226,11 @@ tandis que le texte dit :
 
 <!-- id: s1-05-0052 -->
 
-> « *die Bezwingung der Übertragungsphänomene * : *le forçage des phénomènes de trans­fert* ».
+<div class="text-quotation">
+
+« *die Bezwingung der Übertragungsphänomene * : *le forçage des phénomènes de trans­fert* ».
+
+</div>
 
 <!-- id: s1-05-0053 -->
 
@@ -294,7 +306,11 @@ Le refoulement, dit-il, est autre chose :
 
 <!-- id: s1-05-0071 -->
 
-> « *Eine Verdrängung ist etwas anderes als eine Verwerfung.* »
+<div class="text-quotation">
+
+« *Eine Verdrängung ist etwas anderes als eine Verwerfung.* »
+
+</div>
 
 <!-- id: s1-05-0072 -->
 
@@ -302,9 +318,9 @@ Et dans la traduction française que nous avons…
 
 <!-- id: s1-05-0073 -->
 
-> due à des personnes que leur inti­mité avec FREUD aurait dû peut-être un peu plus illuminer, mais sans doute
->
-> ne suffit-il pas d’avoir porté une relique d’une personnalité éminente pour être autorisée à se faire la gardienne
+due à des personnes que leur inti­mité avec FREUD aurait dû peut-être un peu plus illuminer, mais sans doute
+
+ne suffit-il pas d’avoir porté une relique d’une personnalité éminente pour être autorisée à se faire la gardienne
 
 <!-- id: s1-05-0074 -->
 
@@ -312,7 +328,11 @@ Et dans la traduction française que nous avons…
 
 <!-- id: s1-05-0075 -->
 
-> « *Un refoulement est autre chose qu’un jugement qui rejette et choisit.* »
+<div class="text-quotation">
+
+« *Un refoulement est autre chose qu’un jugement qui rejette et choisit.* »
+
+</div>
 
 <!-- id: s1-05-0076 -->
 
@@ -564,15 +584,15 @@ Mais d’un autre côté, cette *parole*…
 
 <!-- id: s1-05-0138 -->
 
-> et je le souligne : dans la perspective de FREUD, nous ne pou­vons pas dire l’« *expression* ». J’ai fait tout ce que j’ai écrit
->
-> cet été à propos de « *Fonction et champ de la parole »* sans mettre - et intentionnellement - le terme « *expression* », il est *impossible*
->
-> de ne pas voir que toute l’œuvre de FREUD se déploie dans le sens de *la révélation*, et non pas de l’*expression*.
->
-> L’inconscient n’est pas « exprimé », si ce n’est par *déformation*, par *Entstellung*, par *distorsion*, par *transposition.*
->
-> Dans tout le sens de la découverte freudienne, il y a là quelque chose à « *révéler* ».
+et je le souligne : dans la perspective de FREUD, nous ne pou­vons pas dire l’« *expression* ». J’ai fait tout ce que j’ai écrit
+
+cet été à propos de « *Fonction et champ de la parole »* sans mettre - et intentionnellement - le terme « *expression* », il est *impossible*
+
+de ne pas voir que toute l’œuvre de FREUD se déploie dans le sens de *la révélation*, et non pas de l’*expression*.
+
+L’inconscient n’est pas « exprimé », si ce n’est par *déformation*, par *Entstellung*, par *distorsion*, par *transposition.*
+
+Dans tout le sens de la découverte freudienne, il y a là quelque chose à « *révéler* ».
 
 <!-- id: s1-05-0139 -->
 

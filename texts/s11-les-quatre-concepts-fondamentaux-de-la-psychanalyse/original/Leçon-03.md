@@ -10,10 +10,10 @@ Mon introduction du premier de ceux que j’ai appelés les quatre concepts freu
 
 <!-- id: s11-03-0002 -->
 
-> mon introduction la dernière fois de l’inconscient par la structure d’une béance
-> …l’introduction a fourni l’occasion à un de mes auditeurs : Jacques-Alain MILLER, d’un excellent tracé de ce que
-> \- dans mes écrits précédents - il a pris soin de reconnaître comme étant la fonction structurante d’un *manque*, et de le rejoindre
-> en somme, par un arc audacieux, élégant, à ce que j’ai pu désigner en parlant de *la fonction du désir comme le manque à être*.
+mon introduction la dernière fois de l’inconscient par la structure d’une béance
+…l’introduction a fourni l’occasion à un de mes auditeurs : Jacques-Alain MILLER, d’un excellent tracé de ce que
+\- dans mes écrits précédents - il a pris soin de reconnaître comme étant la fonction structurante d’un *manque*, et de le rejoindre
+en somme, par un arc audacieux, élégant, à ce que j’ai pu désigner en parlant de *la fonction du désir comme le manque à être*.
 
 <!-- id: s11-03-0003 -->
 
@@ -44,7 +44,11 @@ quand il l’a prononcé - dont il est bien remarquable que la menace soit, apr�
 
 <!-- id: s11-03-0007 -->
 
-> « *Flectere si nequeo superos, Acheronta movebo* [^20] »
+<div class="text-quotation">
+
+« *Flectere si nequeo superos, Acheronta movebo* [^20] »
+
+</div>
 
 <!-- id: s11-03-0008 -->
 
@@ -216,7 +220,7 @@ Mais bientôt s’est imposé tout autre chose qui, à mesure qu’il était plu
 <!-- id: s11-03-0040 -->
 
 Ce n’est pas sous un mode impressionniste que je veux dire que sa démarche est ici éthique, à savoir le fameux « *courage du savant qui ne recule devant rien* », image à tempérer comme toutes les autres ! Si je dis que *le statut de l’inconscient est éthique* - *non point ontique* -
-c’est dans la mesure où ce que discute FREUD quand il s’agit de lui donner son statut, ce n’est justement pas ce que j’ai dit d’abord en parlant de « *soif de la vérité* », simple indication sur la trace des approches, des approxima­tions, qui nous permettront de nous demander *où fut la passion de* FREUD, *mais quand il en discute ce n’est pas cela qu’il met en avant*, *il sait toute la fragilité des [Moires](http://fr.wikipedia.org/wiki/Moires) de l’inconscient* concernant ce registre quand il conclut dans son dernier livre - ou chapitre, comme vous vou­drez - chapitre VII *de La Science des rêves,* concernant *Le processus psy­chologique du rêve,* ce qu’il discute après l’avoir introduit par un de ces miracles d’un art consommé : ce rêve qui -de tous ceux qui sont analysés dans la *Traumdeutung -* a ce sort à part, justement de rêve suspen­du autour du mystère le plus angoissant, celui qui unit un père au cadavre de son fils tout proche - de son fils mort - ce père succombant au sommeil, et voyant surgir l’image du fils qui lui dit : « *Ne vois-tu pas, père, que je brûle ?* ». Or il est en train de brûler - dans le réel - dans la pièce à coté.
+c’est dans la mesure où ce que discute FREUD quand il s’agit de lui donner son statut, ce n’est justement pas ce que j’ai dit d’abord en parlant de « *soif de la vérité* », simple indication sur la trace des approches, des approxima­tions, qui nous permettront de nous demander *où fut la passion de* FREUD, *mais quand il en discute ce n’est pas cela qu’il met en avant*, *il sait toute la fragilité des [Moires](http://fr.wikipedia.org/wiki/Moires) de l’inconscient* concernant ce registre quand il introduit le dernier chapitre de *La Science des rêves* par un de ces miracles d’un art consommé : ce rêve qui - de tous ceux qui sont analysés dans la *Traumdeutung* - a ce sort à part, justement de rêve suspen­du autour du mystère le plus angoissant, celui qui unit un père au cadavre de son fils tout proche - de son fils mort - ce père succombant au sommeil, et voyant surgir l’image du fils qui lui dit : « *Ne vois-tu pas, père, que je brûle ?* ». Or il est en train de brûler - dans le réel - dans la pièce à coté.
 
 <!-- id: s11-03-0041 -->
 
@@ -267,7 +271,11 @@ tout ce qu’il en est du contenu de l’inconscient, et spécialement quand il 
 
 <!-- id: s11-03-0050 -->
 
-> « *Je ne suis pas sûr, je doute.* »
+<div class="text-quotation">
+
+« *Je ne suis pas sûr, je doute.* »
+
+</div>
 
 <!-- id: s11-03-0051 -->
 
@@ -347,11 +355,15 @@ Or ça ne trouble pas FREUD parce que c’est justement ce qu’il faut qu’on 
 
 <!-- id: s11-03-0065 -->
 
-> « *Mais, alors, ce fameux inconscient qui était là pour nous faire accéder au plus vrai, à une vérité* - ironisent-t-ils - *divine, voilà que*
->
-> *cette patiente, dans ses rêves, s’est donc ri de vous, puisqu’elle a fait dans l’analyse des rêves exprès pour vous persuader que manifestement,*
->
-> *elle revenait à ce qu’on lui demandait, à savoir le goût des hommes !* »
+<div class="text-quotation">
+
+« *Mais, alors, ce fameux inconscient qui était là pour nous faire accéder au plus vrai, à une vérité* - ironisent-t-ils - *divine, voilà que*
+
+*cette patiente, dans ses rêves, s’est donc ri de vous, puisqu’elle a fait dans l’analyse des rêves exprès pour vous persuader que manifestement,*
+
+*elle revenait à ce qu’on lui demandait, à savoir le goût des hommes !* »
+
+</div>
 
 <!-- id: s11-03-0066 -->
 
@@ -381,8 +393,8 @@ De même c’est au désir du père...
 
 <!-- id: s11-03-0071 -->
 
-> justifiant une fois de plus la formule - formule bien sûr originée dans cette expérience d’hystérique pour la faire situer à son juste niveau - la formule que j’ai donnée, que : *le désir de l’hom­me c’est le désir de l’autre*»
-> …que l’homosexuelle trouve une autre solution, ce désir du père : le défier.
+justifiant une fois de plus la formule - formule bien sûr originée dans cette expérience d’hystérique pour la faire situer à son juste niveau - la formule que j’ai donnée, que : *le désir de l’hom­me c’est le désir de l’autre*»
+…que l’homosexuelle trouve une autre solution, ce désir du père : le défier.
 
 <!-- id: s11-03-0072 -->
 

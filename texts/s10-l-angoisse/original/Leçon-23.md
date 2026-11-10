@@ -27,13 +27,13 @@ Il est vrai que sa fonction centrale, au niveau du *stade phallique*...
 
 <!-- id: s10-23-0006 -->
 
-> où la fonction de *(a)* est représentée essen­tiellement par *un manque, par le défaut du phallus,*
->
-> comme constituant la disjonction qui joint le désir à la jouissance, c’est ce qu’exprime ce qu’ici je rappelle
->
-> de ce que par convention nous appelons le niveau 3 de ce que nous avons décrit des divers stades de l’objet
-> ...il est vrai, dis-je, que ce stade a une position, disons *extrême*,
-> que le stade 4 et le stade 5, si vous voulez, sont dans une position de retour qui les amène en corrélation au stade 1 et au stade 2.
+où la fonction de *(a)* est représentée essen­tiellement par *un manque, par le défaut du phallus,*
+
+comme constituant la disjonction qui joint le désir à la jouissance, c’est ce qu’exprime ce qu’ici je rappelle
+
+de ce que par convention nous appelons le niveau 3 de ce que nous avons décrit des divers stades de l’objet
+...il est vrai, dis-je, que ce stade a une position, disons *extrême*,
+que le stade 4 et le stade 5, si vous voulez, sont dans une position de retour qui les amène en corrélation au stade 1 et au stade 2.
 
 <!-- id: s10-23-0007 -->
 
@@ -126,7 +126,7 @@ avec ce que les mères, autant que les partisans de la *catharsis* appelle­raie
 
 <!-- id: s10-23-0024 -->
 
-> et spé­cialement, vous le savez, dans l’analyse de *l’obsessionnel,*
+et spé­cialement, vous le savez, dans l’analyse de *l’obsessionnel,*
 
 <!-- id: s10-23-0025 -->
 
@@ -134,7 +134,7 @@ avec ce que les mères, autant que les partisans de la *catharsis* appelle­raie
 
 <!-- id: s10-23-0026 -->
 
-> comment il convient de concevoir pour qu’il subsiste pour nous, les divers modes de *l’objet(a)*.
+comment il convient de concevoir pour qu’il subsiste pour nous, les divers modes de *l’objet(a)*.
 
 <!-- id: s10-23-0027 -->
 
@@ -175,11 +175,11 @@ qui pour les psychologues semble ne pas faire tellement de problème, elle en fa
 
 <!-- id: s10-23-0035 -->
 
-> pour peu que nous prétendions rendre compte
->
-> de la façon dont *la fonction du signifiant* s’immisce originellement dans cette *relation intersubjective*,
-> ...ces difficultés ce sont celles qui nous mènent à une nouvelle « *critique de la Rai­son »,*
-> dont ce serait une niaiserie bien du type de *l’école* que d’y voir une récession quelconque du mouvement conquérant de la dite *Raison*.
+pour peu que nous prétendions rendre compte
+
+de la façon dont *la fonction du signifiant* s’immisce originellement dans cette *relation intersubjective*,
+...ces difficultés ce sont celles qui nous mènent à une nouvelle « *critique de la Rai­son »,*
+dont ce serait une niaiserie bien du type de *l’école* que d’y voir une récession quelconque du mouvement conquérant de la dite *Raison*.
 
 <!-- id: s10-23-0036 -->
 
@@ -338,13 +338,13 @@ Il est évident, qu’*a priori* cette fonction de l’excrément...
 
 <!-- id: s10-23-0060 -->
 
-> qui par rap­port aux différents accidents que je vous ai évoqués tout à l’heure, depuis la place anatomique
->
-> de la mamme, jusqu’à la plasticité du larynx humain, avec dans l’intervalle l’image spéculaire de la castration
->
-> liée en somme, à la conformation particulière de l’organe copulatoire à un niveau plutôt élevé de l’échelle ani­male
-> ...là l’excrément est là depuis le début, et avant même la différen­ciation de la bouche et de l’anus : au niveau du *blastopore*,
-> nous le voyons déjà fonctionner.
+qui par rap­port aux différents accidents que je vous ai évoqués tout à l’heure, depuis la place anatomique
+
+de la mamme, jusqu’à la plasticité du larynx humain, avec dans l’intervalle l’image spéculaire de la castration
+
+liée en somme, à la conformation particulière de l’organe copulatoire à un niveau plutôt élevé de l’échelle ani­male
+...là l’excrément est là depuis le début, et avant même la différen­ciation de la bouche et de l’anus : au niveau du *blastopore*,
+nous le voyons déjà fonctionner.
 
 <!-- id: s10-23-0061 -->
 
@@ -513,12 +513,12 @@ Pas besoin, tout de même, à ceux qui ont ici la moindre expérience analytique
 
 <!-- id: s10-23-0090 -->
 
-> aux autres, mon Dieu, qui ne lisent que ça,
->
-> pour peu qu’ils ouvrent ce que j’ai appelé ailleurs la « *Psychoanalytical dunghill »* : *la littérature analytique*
-> *...*je n’ai pas besoin...
-> « *dunghill* » veut dire le « *petit tas de merde* »
-> ...je n’ai pas besoin de vous rappeler l’importance de ces deux temps.
+aux autres, mon Dieu, qui ne lisent que ça,
+
+pour peu qu’ils ouvrent ce que j’ai appelé ailleurs la « *Psychoanalytical dunghill »* : *la littérature analytique*
+*...*je n’ai pas besoin...
+« *dunghill* » veut dire le « *petit tas de merde* »
+...je n’ai pas besoin de vous rappeler l’importance de ces deux temps.
 
 <!-- id: s10-23-0091 -->
 
@@ -791,10 +791,10 @@ elle est sous la forme, j’appelais à l’instant ça : « *vivant et bruyan
 
 <!-- id: s10-23-0136 -->
 
-> cet ιχθύς comme vous le voyez *à tout bout de champ* dans le champ de l’ob­sessionnel,
->
-> pour peu qu’il soit de notre aire culturelle, et nous n’en connaissons pas d’autre
-> ...cet ιχθύς c’est Jésus Christ [^166] lui-même.
+cet ιχθύς comme vous le voyez *à tout bout de champ* dans le champ de l’ob­sessionnel,
+
+pour peu qu’il soit de notre aire culturelle, et nous n’en connaissons pas d’autre
+...cet ιχθύς c’est Jésus Christ [^166] lui-même.
 
 <!-- id: s10-23-0137 -->
 

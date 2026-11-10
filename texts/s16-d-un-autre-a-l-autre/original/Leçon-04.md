@@ -14,7 +14,7 @@ Du moins est-ce sur ce fondement logique que j’ai essayé la dernière fois de
 
 <!-- id: s16-04-0003 -->
 
-> ce grand Autre,(A) dans sa fonction telle je l’ai déjà approchée …l’Autre n’enferme nul *savoir* dont il se puisse présumer- disons - qu’il soit un jour *absolu*. Voyez-vous, là je pointe les choses vers *le futur* alors que d’ordinaire j’articule vers *le passé* : *que cette référence à l’Autre est le support erroné du savoir comme déjà là*.
+ce grand Autre,(A) dans sa fonction telle je l’ai déjà approchée …l’Autre n’enferme nul *savoir* dont il se puisse présumer- disons - qu’il soit un jour *absolu*. Voyez-vous, là je pointe les choses vers *le futur* alors que d’ordinaire j’articule vers *le passé* : *que cette référence à l’Autre est le support erroné du savoir comme déjà là*.
 
 <!-- id: s16-04-0004 -->
 
@@ -22,7 +22,7 @@ Bon alors, ici je pointe…
 
 <!-- id: s16-04-0005 -->
 
-> parce que tout à l’heure nous allons avoir *à le redire* …je pointe l’usage que j’ai fait de *la fonction de la paire ordonnée* parce que j’ai eu - mon Dieu - quelque chose qui peut s’appeler le bonheur de recevoir - d’une main que je regrette anonyme - un petit « *poulet* » me posant la question de m’expliquer un peu plus sur l’usage qui, sans doute, à l’auteur de ce billet semble un peu précipité, sinon abusif - il ne va peut-être même pas jusque­ là - précipité disons, de *la paire ordonnée*.
+parce que tout à l’heure nous allons avoir *à le redire* …je pointe l’usage que j’ai fait de *la fonction de la paire ordonnée* parce que j’ai eu - mon Dieu - quelque chose qui peut s’appeler le bonheur de recevoir - d’une main que je regrette anonyme - un petit « *poulet* » me posant la question de m’expliquer un peu plus sur l’usage qui, sans doute, à l’auteur de ce billet semble un peu précipité, sinon abusif - il ne va peut-être même pas jusque­ là - précipité disons, de *la paire ordonnée*.
 
 <!-- id: s16-04-0006 -->
 
@@ -34,7 +34,7 @@ Que l’Autre soit ici mis en question, voilà qui importe extrêmement à la su
 
 <!-- id: s16-04-0008 -->
 
-> disons-le d’abord : cet énoncé que l’Autre n’enferme nul *savoir* qui soit - ni déjà là, ni à venir - dans un statut d’*absolu* …il n’y a dans cet énoncé rien de subversif.
+disons-le d’abord : cet énoncé que l’Autre n’enferme nul *savoir* qui soit - ni déjà là, ni à venir - dans un statut d’*absolu* …il n’y a dans cet énoncé rien de subversif.
 
 <!-- id: s16-04-0009 -->
 
@@ -54,11 +54,11 @@ C’est à savoir comment MARX, au moment où cette *plus-value* il l’introdui
 
 <!-- id: s16-04-0013 -->
 
-> il l’introduit un peu plus, un peu plus­-value, il ne l’introduisait pas : « *ni plus, ni value, je t’embrouille* » mais il l’introduit …et il l’introduit après un temps pris - un temps pris comme ça, l’air bonhomme - où il laisse la parole à l’intéressé, c’est-à-dire au capitaliste. Il lui laisse en quelque sorte justifier sa position par ce qui est alors le thème : le service en quelque sorte rendu de mettre à la disposition de cet homme…
+il l’introduit un peu plus, un peu plus­-value, il ne l’introduisait pas : « *ni plus, ni value, je t’embrouille* » mais il l’introduit …et il l’introduit après un temps pris - un temps pris comme ça, l’air bonhomme - où il laisse la parole à l’intéressé, c’est-à-dire au capitaliste. Il lui laisse en quelque sorte justifier sa position par ce qui est alors le thème : le service en quelque sorte rendu de mettre à la disposition de cet homme…
 
 <!-- id: s16-04-0014 -->
 
-> qui n’a - mon Dieu - que son travail, et tout au plus un instrument rudimentaire, sa varlope …le tour et la fraiseuse grâce à quoi il va pouvoir faire des merveilles… échange de bons services et même loyaux.
+qui n’a - mon Dieu - que son travail, et tout au plus un instrument rudimentaire, sa varlope …le tour et la fraiseuse grâce à quoi il va pouvoir faire des merveilles… échange de bons services et même loyaux.
 
 <!-- id: s16-04-0015 -->
 
@@ -66,7 +66,7 @@ Tout un discours que MARX lui laisse prendre son temps pour le développer, et c
 
 <!-- id: s16-04-0016 -->
 
-> ce qui m’avait frappé alors, au temps de ces bonnes vieilles lectures …c’est qu’il pointe là que le capitaliste - personnage fantômal auquel il s’affronte - *le capitaliste rit*.
+ce qui m’avait frappé alors, au temps de ces bonnes vieilles lectures …c’est qu’il pointe là que le capitaliste - personnage fantômal auquel il s’affronte - *le capitaliste rit*.
 
 <!-- id: s16-04-0017 -->
 
@@ -92,7 +92,7 @@ Ce qui est mis en relief au passage, et bien sûr *non noté*, de la conjonction
 
 <!-- id: s16-04-0022 -->
 
-> je le dis de ne l’avoir pu, au temps où je commençais sur le *mot d’esprit* de construire *le graphe* …c’est là le rapport foncier autour de quoi tourne *toujours* le sursaut, le choc, l’« *un peu plus* », l’« *un peu moins* » dont je parlais tout à l’heure, le « *tour de passe-passe* », le « *passez muscade* », qui nous saisit au ventre dans l’effet du mot d’esprit.
+je le dis de ne l’avoir pu, au temps où je commençais sur le *mot d’esprit* de construire *le graphe* …c’est là le rapport foncier autour de quoi tourne *toujours* le sursaut, le choc, l’« *un peu plus* », l’« *un peu moins* » dont je parlais tout à l’heure, le « *tour de passe-passe* », le « *passez muscade* », qui nous saisit au ventre dans l’effet du mot d’esprit.
 
 <!-- id: s16-04-0023 -->
 
@@ -104,7 +104,7 @@ Ce n’est pas dire…
 
 <!-- id: s16-04-0025 -->
 
-> et là encore je vais reprendre quelque chose qui pourrait servir à des formules scabreuses …ce n’est pas dire qu’il puisse d’aucune façon y avoir théorie de l’inconscient de par là même. Faites-moi confiance, *ce n’est rien de tel à quoi je vise *: qu’il y ait théorie *de la pratique psychanalytique* : assurément, *de l’inconscient* : non. Sauf à vouloir faire verser ce qu’il en est de cette théorie de la pratique psychanalytique, qui de l’inconscient nous donne ce qui peut en être pris dans le champ de cette pratique, mais rien d’autre.
+et là encore je vais reprendre quelque chose qui pourrait servir à des formules scabreuses …ce n’est pas dire qu’il puisse d’aucune façon y avoir théorie de l’inconscient de par là même. Faites-moi confiance, *ce n’est rien de tel à quoi je vise *: qu’il y ait théorie *de la pratique psychanalytique* : assurément, *de l’inconscient* : non. Sauf à vouloir faire verser ce qu’il en est de cette théorie de la pratique psychanalytique, qui de l’inconscient nous donne ce qui peut en être pris dans le champ de cette pratique, mais rien d’autre.
 
 <!-- id: s16-04-0026 -->
 
@@ -152,7 +152,7 @@ C’est pourquoi *la vérité* toujours s’insinue…
 
 <!-- id: s16-04-0037 -->
 
-> *mais peut s’inscrire aussi de façon parfaitement calculée* …là où seulement elle a sa place : entre les lignes.
+*mais peut s’inscrire aussi de façon parfaitement calculée* …là où seulement elle a sa place : entre les lignes.
 
 <!-- id: s16-04-0038 -->
 
@@ -168,7 +168,7 @@ Longtemps on sembla accepter ce que l’on appelait « *l’Esprit »*…
 
 <!-- id: s16-04-0041 -->
 
-> c’est une idée qui *a passé un tant soit peu*, rien ne passe jamais tant qu’on le croit d’ailleurs, enfin *elle a passé un peu* …de ce qu’il s’avère qu’il ne s’agit sous ce nom d’*Esprit*, jamais que du *signifiant* lui-même, ce qui évidemment met en porte-à-faux pas mal de la métaphysique. Sur les rapports de notre effort avec la métaphysique, sur ce qu’il en est d’une mise en question qui tend à n’en pas perdre tout bénéfice de son expérience, à la métaphysique, il en reste quelque chose, à savoir ceci qui est bien dans un certain nombre de points, de zones plus variées ou plus fournies qu’on ne le dirait au premier abord et de qualités fort diverses : il s’agit de savoir ce que ce qu’on appelle « *structuralisme* » a à opérer.
+c’est une idée qui *a passé un tant soit peu*, rien ne passe jamais tant qu’on le croit d’ailleurs, enfin *elle a passé un peu* …de ce qu’il s’avère qu’il ne s’agit sous ce nom d’*Esprit*, jamais que du *signifiant* lui-même, ce qui évidemment met en porte-à-faux pas mal de la métaphysique. Sur les rapports de notre effort avec la métaphysique, sur ce qu’il en est d’une mise en question qui tend à n’en pas perdre tout bénéfice de son expérience, à la métaphysique, il en reste quelque chose, à savoir ceci qui est bien dans un certain nombre de points, de zones plus variées ou plus fournies qu’on ne le dirait au premier abord et de qualités fort diverses : il s’agit de savoir ce que ce qu’on appelle « *structuralisme* » a à opérer.
 
 <!-- id: s16-04-0042 -->
 
@@ -244,7 +244,7 @@ Voilà après tout pourquoi on peut penser incidemment…
 
 <!-- id: s16-04-0060 -->
 
-> mais là vraiment je crois que je suis moi aussi un peu traditionnel …en quoi on peut rendre grâce à de tels « *pas de clercs* » - c’est le cas de le dire, de les appeler comme ça - de promouvoir, si on peut dire, l’«* à ne pas dire* » *pour qu’on puisse bien marquer la différence de ce qu’il y a à dire vraiment*.
+mais là vraiment je crois que je suis moi aussi un peu traditionnel …en quoi on peut rendre grâce à de tels « *pas de clercs* » - c’est le cas de le dire, de les appeler comme ça - de promouvoir, si on peut dire, l’«* à ne pas dire* » *pour qu’on puisse bien marquer la différence de ce qu’il y a à dire vraiment*.
 
 <!-- id: s16-04-0061 -->
 
@@ -300,7 +300,11 @@ Bien sûr, il leur fallait de l’être. Seulement, ça ne veut pas dire ça. Il
 
 <!-- id: s16-04-0074 -->
 
-> «* Je suis ce que je suis.* »
+<div class="text-quotation">
+
+«* Je suis ce que je suis.* »
+
+</div>
 
 <!-- id: s16-04-0075 -->
 
@@ -328,7 +332,7 @@ Ceci ne veut pas dire que ces propos soient là complètement superflus. Parce q
 
 <!-- id: s16-04-0081 -->
 
-> ce n’est pas une trop grande prétention, c’est vraiment la question à l’ordre du jour …c’est proprement *ce que Pascal appelait* « *le Dieu des Philosophes* ».
+ce n’est pas une trop grande prétention, c’est vraiment la question à l’ordre du jour …c’est proprement *ce que Pascal appelait* « *le Dieu des Philosophes* ».
 
 <!-- id: s16-04-0082 -->
 
@@ -352,7 +356,7 @@ Par contre, qu’il ait dit vrai ou non, l’autre Dieu…
 
 <!-- id: s16-04-0087 -->
 
-> dont il faut rendre hommage à notre PASCAL d’avoir vu qu’il n’a strictement rien à faire avec l’autre …celui qui dit « *Je suis ce que «  je » est.* », que cela se soit dit a eu quelques conséquences et je ne vois pas pourquoi, même sans y voir la moindre chance de vérité, nous ne nous éclairerions pas de certaines de ces conséquences pour savoir ce qu’il en est de *la vérité* en tant qu’elle parle « *je* ».
+dont il faut rendre hommage à notre PASCAL d’avoir vu qu’il n’a strictement rien à faire avec l’autre …celui qui dit « *Je suis ce que «  je » est.* », que cela se soit dit a eu quelques conséquences et je ne vois pas pourquoi, même sans y voir la moindre chance de vérité, nous ne nous éclairerions pas de certaines de ces conséquences pour savoir ce qu’il en est de *la vérité* en tant qu’elle parle « *je* ».
 
 <!-- id: s16-04-0088 -->
 
@@ -364,7 +368,7 @@ J’ai fait remarquer qu’à poser ainsi autour du « *je* » la question, no
 
 <!-- id: s16-04-0090 -->
 
-> ne fut­-ce que pour en prendre avertissement - voire ombrage …nous apercevoir que dès lors, l’*interprétation* doit être mieux cernée puisque *le prophétisme* ça n’est rien d’autre : parler « *je* » dans un certain sillage qui n’est pas celui de notre souffrance, c’est aussi de l’*interprétation*.
+ne fut­-ce que pour en prendre avertissement - voire ombrage …nous apercevoir que dès lors, l’*interprétation* doit être mieux cernée puisque *le prophétisme* ça n’est rien d’autre : parler « *je* » dans un certain sillage qui n’est pas celui de notre souffrance, c’est aussi de l’*interprétation*.
 
 <!-- id: s16-04-0091 -->
 
@@ -392,7 +396,11 @@ C’est tout à fait vrai. C’est pour ça que - sans doute - mon correspondant
 
 <!-- id: s16-04-0097 -->
 
-> «* Quand la paire ordonnée est introduite en mathématique, il faut un coup de force pour la créer.* »
+<div class="text-quotation">
+
+«* Quand la paire ordonnée est introduite en mathématique, il faut un coup de force pour la créer.* »
+
+</div>
 
 <!-- id: s16-04-0098 -->
 
@@ -424,7 +432,7 @@ Ces deux signes…
 
 <!-- id: s16-04-0105 -->
 
-> qui se trouvent - par un bon hasard - être les deux morceaux de mon *poinçon* quand ils se rejoignent …ces deux signes ne servent dans l’occasion qu’à très précisément écrire que ceci est paire ordonnée.
+qui se trouvent - par un bon hasard - être les deux morceaux de mon *poinçon* quand ils se rejoignent …ces deux signes ne servent dans l’occasion qu’à très précisément écrire que ceci est paire ordonnée.
 
 <!-- id: s16-04-0106 -->
 
@@ -432,11 +440,11 @@ Ces deux signes…
 
 <!-- id: s16-04-0107 -->
 
-> je veux dire articulé dans le sens du bénéfice qu’on attend du coup de force en question …c’est de traduire ceci dans *un ensemble* dont *les deux éléments*…
+je veux dire articulé dans le sens du bénéfice qu’on attend du coup de force en question …c’est de traduire ceci dans *un ensemble* dont *les deux éléments*…
 
 <!-- id: s16-04-0108 -->
 
-> *et les éléments dans un ensemble étant toujours eux-mêmes ensemble, vous voyez se répéter le signe de la parenthèse* …sont : {{S<sub>1</sub>},{S<sub>1</sub>,S<sub>2</sub>}}.
+*et les éléments dans un ensemble étant toujours eux-mêmes ensemble, vous voyez se répéter le signe de la parenthèse* …sont : {{S<sub>1</sub>},{S<sub>1</sub>,S<sub>2</sub>}}.
 
 <!-- id: s16-04-0109 -->
 
@@ -480,9 +488,9 @@ Et c’est à cette suite que je vous ai montré…
 
 <!-- id: s16-04-0119 -->
 
-> d’une façon certes trop figurée pour être logiquement pleinement satisfaisante, mais dont la nécessité
->
-> de *figure* me permettait de vous dire que *cette suite de cercles* s’involuant d’une façon dissymétrique, c’est-à-dire maintenant toujours à mesure de leur plus grande apparente intériorité la subsistance de A …mais en tant que cette figuration suggérait une *topologie* qui est celle grâce à quoi le plus petit des cercles venait se conjoindre au plus grand sur cette figure.
+d’une façon certes trop figurée pour être logiquement pleinement satisfaisante, mais dont la nécessité
+
+de *figure* me permettait de vous dire que *cette suite de cercles* s’involuant d’une façon dissymétrique, c’est-à-dire maintenant toujours à mesure de leur plus grande apparente intériorité la subsistance de A …mais en tant que cette figuration suggérait une *topologie* qui est celle grâce à quoi le plus petit des cercles venait se conjoindre au plus grand sur cette figure.
 
 <!-- id: s16-04-0120 -->
 
@@ -490,7 +498,7 @@ Et la topologie suggérée par une figuration semblable, en faire l’index de c
 
 <!-- id: s16-04-0121 -->
 
-> si nous le définissons comme s’incluant possiblement, c’est-à-dire devenu *savoir absolu* …a cette conséquence singulière que ce qui représente le sujet ne s’y inscrit, ne s’y manifeste que sous la forme d’une répétition infinie, comme vous l’avez vu s’inscrire sous la forme de ce S, grand S, dans la série de parois du cercle où ils s’inscrivent indéfiniment.
+si nous le définissons comme s’incluant possiblement, c’est-à-dire devenu *savoir absolu* …a cette conséquence singulière que ce qui représente le sujet ne s’y inscrit, ne s’y manifeste que sous la forme d’une répétition infinie, comme vous l’avez vu s’inscrire sous la forme de ce S, grand S, dans la série de parois du cercle où ils s’inscrivent indéfiniment.
 
 <!-- id: s16-04-0122 -->
 
@@ -502,7 +510,7 @@ Et la topologie suggérée par une figuration semblable, en faire l’index de c
 
 <!-- id: s16-04-0124 -->
 
-> *et non pas d’un rapport qui soit d’intérieur ni d’extérieur* …de ce qui est posé d’abord comme *savoir absolu*. Je veux dire qu’il y a là quelque chose qui rend compte, dans la structure logique, de ce que la théorie freudienne implique de fondamental dans le fait qu’originellement le sujet, au regard de ce qui le rapporte à quelque chute de la jouissance, ne saurait se manifester que comme répétition et *répétition inconsciente*.
+*et non pas d’un rapport qui soit d’intérieur ni d’extérieur* …de ce qui est posé d’abord comme *savoir absolu*. Je veux dire qu’il y a là quelque chose qui rend compte, dans la structure logique, de ce que la théorie freudienne implique de fondamental dans le fait qu’originellement le sujet, au regard de ce qui le rapporte à quelque chute de la jouissance, ne saurait se manifester que comme répétition et *répétition inconsciente*.
 
 <!-- id: s16-04-0125 -->
 
@@ -534,7 +542,7 @@ La définition d’un ensemble en tant qu’il joint des éléments, veut dire q
 
 <!-- id: s16-04-0132 -->
 
-> je prends le point parce qu’il n’y a pas de façon plus sensible de figurer l’élément comme tel …ces *points* \[●\] par exemple sont, par rapport à celui-ci \[●\], éléments de l’ensemble que ce quatrième point \[●\] peut figurer à partir simplement du moment où nous le définissons comme élément.
+je prends le point parce qu’il n’y a pas de façon plus sensible de figurer l’élément comme tel …ces *points* \[●\] par exemple sont, par rapport à celui-ci \[●\], éléments de l’ensemble que ce quatrième point \[●\] peut figurer à partir simplement du moment où nous le définissons comme élément.
 
 <!-- id: s16-04-0133 -->
 
@@ -546,9 +554,9 @@ Vais-je, comme sujet du *dire*…
 
 <!-- id: s16-04-0135 -->
 
-> à simplement émettre cette proposition que S, un signifiant quelconque, S<sub>q</sub> voulant dire quelconque,
->
-> n’est pas élément de lui-même …vais-je pouvoir ainsi *rassembler* *quelque chose* qui sera ce point là \[●\], à savoir *l’ensemble qui conjoint tous les signifiants ainsi définis*, je l’ai dit, *par un dire* ?
+à simplement émettre cette proposition que S, un signifiant quelconque, S<sub>q</sub> voulant dire quelconque,
+
+n’est pas élément de lui-même …vais-je pouvoir ainsi *rassembler* *quelque chose* qui sera ce point là \[●\], à savoir *l’ensemble qui conjoint tous les signifiants ainsi définis*, je l’ai dit, *par un dire* ?
 
 <!-- id: s16-04-0136 -->
 
@@ -588,7 +596,7 @@ Nous avons posé comme condition…
 
 <!-- id: s16-04-0145 -->
 
-> prenons ici pour être simple les lettres auxquelles vous êtes déjà le plus habitués …à savoir « *X n’est pas élément de X* » pour que quelque chose s’inscrive sous la rubrique de S<sub>2</sub> : le sous-ensemble formé par ce signifiant auprès de qui va être représenté par tous les autres le sujet, c’est-à-dire justement celui qui le subsume comme sujet. Il faut pour que X, *quel qu’il soit*, soit *élément* de S<sub>2</sub> ceci :
+prenons ici pour être simple les lettres auxquelles vous êtes déjà le plus habitués …à savoir « *X n’est pas élément de X* » pour que quelque chose s’inscrive sous la rubrique de S<sub>2</sub> : le sous-ensemble formé par ce signifiant auprès de qui va être représenté par tous les autres le sujet, c’est-à-dire justement celui qui le subsume comme sujet. Il faut pour que X, *quel qu’il soit*, soit *élément* de S<sub>2</sub> ceci :
 
 <!-- id: s16-04-0146 -->
 

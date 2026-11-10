@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/神学
+  - 领域/宗教与神话/基督教与神学
   - 人物/尼格伦
   - 概念/爱的理论
 verified_at: 2026-07-28
@@ -28,6 +28,7 @@ Anders Nygren（1890–1978）是瑞典路德宗神学家。他在代表作《Er
 
 ## 关联
 
+[[知识库/Agape：希腊语义与基督教神爱.md|Agape：希腊语义与基督教神爱]]
 [[知识库/亚里士多德的被爱者与路德的创造之爱.md|亚里士多德的被爱者与路德的创造之爱]]
 
 [[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0084|s8-01-0084]]

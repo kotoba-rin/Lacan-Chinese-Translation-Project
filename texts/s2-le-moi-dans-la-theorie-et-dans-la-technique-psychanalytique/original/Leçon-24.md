@@ -30,7 +30,7 @@ Je vous le dis tout de suite, nous n’allons pas chercher ici les rapports entr
 
 <!-- id: s2-24-0007 -->
 
-> de deux ordres de pensée et de science, qui sont *la psychanalyse* et *la cybernétique*,
+de deux ordres de pensée et de science, qui sont *la psychanalyse* et *la cybernétique*,
 
 <!-- id: s2-24-0008 -->
 
@@ -166,9 +166,9 @@ Mais qu’est-ce que cette *exactitude*, en fin de compte ? *Cette exactitude c�
 
 <!-- id: s2-24-0041 -->
 
-> du soleil à la plus lointaine pla­nète, et cela est une horloge, par exemple, qui est l’horloge naturelle qu’il a fallu déchiffrer. Assurément ça a été un des pas les plus décisifs et les plus essentiels, les plus assurés,
->
-> de la constitution de cette science exacte.
+du soleil à la plus lointaine pla­nète, et cela est une horloge, par exemple, qui est l’horloge naturelle qu’il a fallu déchiffrer. Assurément ça a été un des pas les plus décisifs et les plus essentiels, les plus assurés,
+
+de la constitution de cette science exacte.
 
 <!-- id: s2-24-0042 -->
 
@@ -176,7 +176,7 @@ Mais qu’est-ce que cette *exactitude*, en fin de compte ? *Cette exactitude c�
 
 <!-- id: s2-24-0043 -->
 
-> que nous essaierons d’indiquer très rapidement et qu’il a emprunté à l’horloge de la nature. Mais en fin de compte, il faut bien que cette horloge-là il la règle sur quelque chose.
+que nous essaierons d’indiquer très rapidement et qu’il a emprunté à l’horloge de la nature. Mais en fin de compte, il faut bien que cette horloge-là il la règle sur quelque chose.
 
 <!-- id: s2-24-0044 -->
 
@@ -192,9 +192,9 @@ Je ne suis pas là en train de dire des choses qui soient simplement subtiles. O
 
 <!-- id: s2-24-0047 -->
 
-> une montre qui marche, rigou­reuse, qui divise d’une façon isochrone le temps, une montre
->
-> dont la pulsation soit précise, régulière
+une montre qui marche, rigou­reuse, qui divise d’une façon isochrone le temps, une montre
+
+dont la pulsation soit précise, régulière
 
 <!-- id: s2-24-0048 -->
 
@@ -218,7 +218,7 @@ Je dois vous dire que si vous consultez un physicien, prenons par exemple M. BOR
 
 <!-- id: s2-24-0053 -->
 
-> suffisamment insensible, mais certainement pas inappréciable au bout d’un certain temps
+suffisamment insensible, mais certainement pas inappréciable au bout d’un certain temps
 
 <!-- id: s2-24-0054 -->
 
@@ -238,7 +238,7 @@ Mais il y a autre chose. À partir du moment où nous avons vu ce fondement de l
 
 <!-- id: s2-24-0058 -->
 
-> si nous prenons la date où elle surgit, où elle apparaît sous la première façon véri­tablement moderne, scientifique, rigoureuse : 1654, le traité de M. PASCAL sur le tri­angle arithmétique
+si nous prenons la date où elle surgit, où elle apparaît sous la première façon véri­tablement moderne, scientifique, rigoureuse : 1654, le traité de M. PASCAL sur le tri­angle arithmétique
 
 <!-- id: s2-24-0059 -->
 
@@ -286,7 +286,7 @@ Ce n’est pas pour rien que c’est le même mot qui désigne cela et le *jeu d
 
 <!-- id: s2-24-0070 -->
 
-> puisque dans les premiers jeux dont je vous parle, il s’agit d’un rapport de coordination intersubjective
+puisque dans les premiers jeux dont je vous parle, il s’agit d’un rapport de coordination intersubjective
 
 <!-- id: s2-24-0071 -->
 
@@ -398,13 +398,13 @@ Puis alternativement une porte *fermée* ou *ouverte* : 0 1 0 1. Qu’est-ce qui
 
 <!-- id: s2-24-0097 -->
 
-> 0 0  : 0
->
-> 0 1  : 1
->
-> 1 0  : 1
->
-> 1 1  : 1
+0 0  : 0
+
+0 1  : 1
+
+1 0  : 1
+
+1 1  : 1
 
 <!-- id: s2-24-0098 -->
 
@@ -412,13 +412,13 @@ C’est-à-dire que quand il y a *une porte d’ouverte* simplement - 3 cas sur 
 
 <!-- id: s2-24-0099 -->
 
-> 0 0  : 0
->
-> 0 1  : 0
->
-> 1 0  : 0
->
-> 1 1  : 1
+0 0  : 0
+
+0 1  : 0
+
+1 0  : 0
+
+1 1  : 1
 
 <!-- id: s2-24-0100 -->
 
@@ -426,13 +426,13 @@ Je vais vous en faire une 3<sup>ème</sup> *car elle a bien son intérêt*. Ici,
 
 <!-- id: s2-24-0101 -->
 
-> 0 0  : 0
->
-> 0 1  : 1
->
-> 1 0  : 1
->
-> 1 1  : 0
+0 0  : 0
+
+0 1  : 1
+
+1 0  : 1
+
+1 1  : 0
 
 <!-- id: s2-24-0102 -->
 
@@ -440,13 +440,13 @@ Qu’est-ce que tout ceci ? C’est tout ce qu’on veut. Par exemple ceci :
 
 <!-- id: s2-24-0103 -->
 
-> 0 0  : 0
->
-> 0 1  : 1
->
-> 1 0  : 1
->
-> 1 1  : 1
+0 0  : 0
+
+0 1  : 1
+
+1 0  : 1
+
+1 1  : 1
 
 <!-- id: s2-24-0104 -->
 
@@ -454,13 +454,13 @@ peut s’appeler sur le plan logique, *réunion* ou *conjonction*. Une autre *tr
 
 <!-- id: s2-24-0105 -->
 
-> 0 0  : 0
->
-> 0 1  : 0
->
-> 1 0  : 0
->
-> 1 1  : 1
+0 0  : 0
+
+0 1  : 0
+
+1 0  : 0
+
+1 1  : 1
 
 <!-- id: s2-24-0106 -->
 
@@ -472,13 +472,13 @@ Enfin ceci :
 
 <!-- id: s2-24-0108 -->
 
-> 0 0  : 0
->
-> 0 1  : 1
->
-> 1 0  : 1
->
-> 1 1  : 0
+0 0  : 0
+
+0 1  : 1
+
+1 0  : 1
+
+1 1  : 0
 
 <!-- id: s2-24-0109 -->
 
@@ -494,9 +494,9 @@ Car enfin, quand nous faisons les mêmes choses…
 
 <!-- id: s2-24-0112 -->
 
-> et nous faisons les mêmes choses dès que nous prenons avec notre main un crayon et que nous commençons à écrire sur un petit bout de papier un des signes, et à faire *des additions, des multiplications*, des choses très fastidieuses, très fastidieuses encore qu’elles comportent chacune un type d’action résolument original, c’est à savoir
->
-> que l’on a fait ces symboles avec son action
+et nous faisons les mêmes choses dès que nous prenons avec notre main un crayon et que nous commençons à écrire sur un petit bout de papier un des signes, et à faire *des additions, des multiplications*, des choses très fastidieuses, très fastidieuses encore qu’elles comportent chacune un type d’action résolument original, c’est à savoir
+
+que l’on a fait ces symboles avec son action
 
 <!-- id: s2-24-0113 -->
 
@@ -548,13 +548,13 @@ Observez ceci. Quand je parle par exemple d’une série de deux coups qui doive
 
 <!-- id: s2-24-0125 -->
 
-> 0 0  : 0
->
-> 0 1  : 0
->
-> 1 0  : 0
->
-> 1 1  : 1
+0 0  : 0
+
+0 1  : 0
+
+1 0  : 0
+
+1 1  : 1
 
 <!-- id: s2-24-0126 -->
 

@@ -38,7 +38,7 @@ J’y ai été - mon Dieu ! - je ne puis que dire que j’y ai été très bien
 
 <!-- id: s23-02-0009 -->
 
-> pour employer un terme qui est celui dont je me sers pour ce qu’il en est de l’homme ...j’y ai été « *humé »*, ou encore, si vous voulez bien l’entendre, *aspiré*, aspiré dans une sorte de tourbillon, qui évidemment ne trouve son répondant que dans ce que je mets en évidence par mon *nœud*.
+pour employer un terme qui est celui dont je me sers pour ce qu’il en est de l’homme ...j’y ai été « *humé »*, ou encore, si vous voulez bien l’entendre, *aspiré*, aspiré dans une sorte de tourbillon, qui évidemment ne trouve son répondant que dans ce que je mets en évidence par mon *nœud*.
 
 <!-- id: s23-02-0010 -->
 
@@ -154,7 +154,7 @@ si j’en crois le dernier Erich Fromm[^4], que vous pouvez vous procurer très 
 
 <!-- id: s23-02-0038 -->
 
-> au moins sur le dos du volume - s’énonce comme la psychanalyse appréhendée à travers son « père », entre guillemets, c’est-à-dire par Freud ...en quoi donc, si je l’ai bien lu, Freud - Freud un bourgeois, et un bourgeois bourré de préjugés - a-t-il atteint *quelque chose* qui fait la valeur propre de son *dire*, et qui n’est certes pas rien, qui est la visée de dire sur l’homme *la vérité*.
+au moins sur le dos du volume - s’énonce comme la psychanalyse appréhendée à travers son « père », entre guillemets, c’est-à-dire par Freud ...en quoi donc, si je l’ai bien lu, Freud - Freud un bourgeois, et un bourgeois bourré de préjugés - a-t-il atteint *quelque chose* qui fait la valeur propre de son *dire*, et qui n’est certes pas rien, qui est la visée de dire sur l’homme *la vérité*.
 
 <!-- id: s23-02-0039 -->
 
@@ -194,7 +194,7 @@ Une des choses qui m’ont le plus frappé quand j’étais en Amérique, c’es
 
 <!-- id: s23-02-0048 -->
 
-> qui était certes pas par hasard, qui était tout à fait intentionnelle de ma part ...c’est ma rencontre avec Chomsky. J’en ai été, à proprement parler, je dirai *soufflé*. Je le lui ai dit.
+qui était certes pas par hasard, qui était tout à fait intentionnelle de ma part ...c’est ma rencontre avec Chomsky. J’en ai été, à proprement parler, je dirai *soufflé*. Je le lui ai dit.
 
 <!-- id: s23-02-0049 -->
 
@@ -202,11 +202,11 @@ L’idée dont je me suis rendu compte qu’elle était la sienne est en somme c
 
 <!-- id: s23-02-0050 -->
 
-> dont je ne peux pas dire qu’elle soit d’aucune façon réfutable, c’est même l’idée la plus commune,
->
-> et c’est bien qu’il l’ait - devant mon oreille - simplement affirmée,
->
-> qui m’a fait sentir toute la distance où j’étais de lui ...cette idée qui est l’idée en effet commune, est celle-ci, celle-ci qui me paraît précaire : la considération, en somme, de quelque chose qui se présente comme un corps, un corps conçu comme pourvu d’organes, ce qui implique dans cette conception que l’organe est un outil, outil de prise, outil d’appréhension, et que il n’y a aucune objection de principe à ce que l’outil s’appréhende lui-même comme tel, que par exemple le langage soit considéré par lui comme déterminé par un fait génétique... il l’a exprimé en ces propres termes devant moi ...en d’autres termes que le langage soit lui-même un organe.
+dont je ne peux pas dire qu’elle soit d’aucune façon réfutable, c’est même l’idée la plus commune,
+
+et c’est bien qu’il l’ait - devant mon oreille - simplement affirmée,
+
+qui m’a fait sentir toute la distance où j’étais de lui ...cette idée qui est l’idée en effet commune, est celle-ci, celle-ci qui me paraît précaire : la considération, en somme, de quelque chose qui se présente comme un corps, un corps conçu comme pourvu d’organes, ce qui implique dans cette conception que l’organe est un outil, outil de prise, outil d’appréhension, et que il n’y a aucune objection de principe à ce que l’outil s’appréhende lui-même comme tel, que par exemple le langage soit considéré par lui comme déterminé par un fait génétique... il l’a exprimé en ces propres termes devant moi ...en d’autres termes que le langage soit lui-même un organe.
 
 <!-- id: s23-02-0051 -->
 
@@ -242,7 +242,7 @@ Le langage, qui d’ailleurs *mange* ce *réel*, je veux dire qu’il ne permet 
 
 <!-- id: s23-02-0059 -->
 
-> ce « *réel génétique *» pour parler comme Chomsky *...*qu’en terme de *signe*, ou autrement dit de *message* qui part du gène moléculaire, en le réduisant à ce qui a fait la renommée de Krick et de Watson, à savoir cette double hélice, d’où sont censés partir ces divers niveaux qui organisent le corps à travers un certain nombre d’étages, qui sont d’abord de la division, du développement, de la spécialisation cellulaire, puis ensuite de cette spécialisation de partir des hormones qui sont autant d’éléments sur lesquels se véhiculent, pour la direction de l’information organique, autant de sortes de messages.
+ce « *réel génétique *» pour parler comme Chomsky *...*qu’en terme de *signe*, ou autrement dit de *message* qui part du gène moléculaire, en le réduisant à ce qui a fait la renommée de Krick et de Watson, à savoir cette double hélice, d’où sont censés partir ces divers niveaux qui organisent le corps à travers un certain nombre d’étages, qui sont d’abord de la division, du développement, de la spécialisation cellulaire, puis ensuite de cette spécialisation de partir des hormones qui sont autant d’éléments sur lesquels se véhiculent, pour la direction de l’information organique, autant de sortes de messages.
 
 <!-- id: s23-02-0060 -->
 
@@ -338,9 +338,9 @@ on doit énoncer, préciser, que de ces trois droites, complétées de leur poin
 
 <!-- id: s23-02-0083 -->
 
-> vous sentez bien que si je les ai mises ici toutes les trois en rouge,
->
-> c’est qu’il y a des raisons pour lesquelles j’ai dû les tracer ici d’une couleur différente ...il n’y en aura pas une qui, d’être enveloppée par une autre, ne se trouvera enveloppante par rapport à l’autre.
+vous sentez bien que si je les ai mises ici toutes les trois en rouge,
+
+c’est qu’il y a des raisons pour lesquelles j’ai dû les tracer ici d’une couleur différente ...il n’y en aura pas une qui, d’être enveloppée par une autre, ne se trouvera enveloppante par rapport à l’autre.
 
 <!-- id: s23-02-0084 -->
 
@@ -420,7 +420,7 @@ Sans espoir d’aucune façon de rompre le nœud constituant *du symbolique, de 
 
 <!-- id: s23-02-0103 -->
 
-> il faut le dire, et d’une façon tout à fait lucide ...*une vertu*, une vertu même dite *théologale*, et c’est en cela que notre appréhension analytique de ce qu’il en est de ce nœud, est le négatif de la religion.
+il faut le dire, et d’une façon tout à fait lucide ...*une vertu*, une vertu même dite *théologale*, et c’est en cela que notre appréhension analytique de ce qu’il en est de ce nœud, est le négatif de la religion.
 
 <!-- id: s23-02-0104 -->
 
@@ -468,7 +468,7 @@ Ce dans quoi, puisque aujourd’hui vous le voyez bien, je suis fort las, fort l
 
 <!-- id: s23-02-0115 -->
 
-> ces figures que vous voyez ici plus ou moins substantialisées par l’écrit, par le dessin ...j’ai pu en faire ce que j’appellerai *agitation*, *émotion*.
+ces figures que vous voyez ici plus ou moins substantialisées par l’écrit, par le dessin ...j’ai pu en faire ce que j’appellerai *agitation*, *émotion*.
 
 <!-- id: s23-02-0116 -->
 
@@ -556,13 +556,13 @@ ce 4<sup>ème</sup> terme en tant qu’il complète le nœud *de l’imaginaire,
 
 <!-- id: s23-02-0137 -->
 
-> et c’est là tout le problème : comment un art peut-il viser de façon expressément *divinatoire*
->
-> à substantialiser dans sa *consistance* \[**I**\], sa *consistance* comme telle, mais aussi bien son *ex-sistence* \[**R**\] et aussi bien ce 3<sup>ème</sup> terme qui est le *trou* \[**S**\] ...comment par son art, quelqu’un a-t-il pu viser à rendre comme tel...
+et c’est là tout le problème : comment un art peut-il viser de façon expressément *divinatoire*
+
+à substantialiser dans sa *consistance* \[**I**\], sa *consistance* comme telle, mais aussi bien son *ex-sistence* \[**R**\] et aussi bien ce 3<sup>ème</sup> terme qui est le *trou* \[**S**\] ...comment par son art, quelqu’un a-t-il pu viser à rendre comme tel...
 
 <!-- id: s23-02-0138 -->
 
-> au point de l’approcher d’aussi près qu’il est possible ...ce 4<sup>ème</sup> *terme*, celui à propos de quoi aujourd’hui j’ai voulu simplement vous montrer qu’il est essentiel au *nœud borroméen* lui-même ?
+au point de l’approcher d’aussi près qu’il est possible ...ce 4<sup>ème</sup> *terme*, celui à propos de quoi aujourd’hui j’ai voulu simplement vous montrer qu’il est essentiel au *nœud borroméen* lui-même ?
 
 <!-- id: s23-02-0139 -->
 
@@ -602,7 +602,7 @@ C’est bien pour ça que j’ai été *soufflé*, c’est certain. Oui, mais ç
 
 <!-- id: s23-02-0148 -->
 
-> on a toujours cette sorte de faiblesse - n’est-ce-pas ? - et il y a un reste d’espoir ...je veux dire que Chomsky s’occupant de linguistique, je pouvais espérer voir une pointe d’appréhension de ce que je montre concernant le *symbolique*, c’est-à-dire qu’il garde - même quand il est *faux* - quelque chose du *trou*. Qu’il est impossible par exemple de ne pas qualifier de « *faux trou* » l’ensemble constitué par le *symptôme* et le *symbolique*.
+on a toujours cette sorte de faiblesse - n’est-ce-pas ? - et il y a un reste d’espoir ...je veux dire que Chomsky s’occupant de linguistique, je pouvais espérer voir une pointe d’appréhension de ce que je montre concernant le *symbolique*, c’est-à-dire qu’il garde - même quand il est *faux* - quelque chose du *trou*. Qu’il est impossible par exemple de ne pas qualifier de « *faux trou* » l’ensemble constitué par le *symptôme* et le *symbolique*.
 
 <!-- id: s23-02-0149 -->
 
@@ -950,7 +950,7 @@ Il suffit de penser que vous pouvez rendre *sous-jacent* sur une surface…
 
 <!-- id: s23-02-0235 -->
 
-> qui est cette surface double sans laquelle nous ne saurions écrire quoi que ce soit concernant les nœuds …sur une surface donc *sous-jacente*, vous mettez *le même nœud*.
+qui est cette surface double sans laquelle nous ne saurions écrire quoi que ce soit concernant les nœuds …sur une surface donc *sous-jacente*, vous mettez *le même nœud*.
 
 <!-- id: s23-02-0236 -->
 
@@ -958,7 +958,7 @@ Il est très facile de réaliser - je veux dire par une écriture - ceci : qu�
 
 <!-- id: s23-02-0237 -->
 
-> et c’est facile ça à imaginer. Ça s’imagine pas tout de suite il a fallu que j’en fasse la trouvaille ...faire passer un *nœud homologue* *sous* *le nœud sous-jacent*, et *sur* - à chaque étape - *le nœud* que j’appellerai là *sur-ja­cent*.
+et c’est facile ça à imaginer. Ça s’imagine pas tout de suite il a fallu que j’en fasse la trouvaille ...faire passer un *nœud homologue* *sous* *le nœud sous-jacent*, et *sur* - à chaque étape - *le nœud* que j’appellerai là *sur-ja­cent*.
 
 <!-- id: s23-02-0238 -->
 

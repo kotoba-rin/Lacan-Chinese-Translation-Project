@@ -66,8 +66,12 @@ Il semble bien que de ce fait - nous ne pouvons là que nous fier à elle, car c
 
 <!-- id: s10-16-0013 -->
 
-> *« She stoops to conquer »,* c’est un titre d’une comédie de Sheridan
-> *...*de la courber à son désir.
+<div class="text-quotation">
+
+*« She stoops to conquer »,* c’est un titre d’une comédie de Sheridan
+*...*de la courber à son désir.
+
+</div>
 
 <!-- id: s10-16-0014 -->
 
@@ -93,11 +97,15 @@ Vous l’avez lu ! Eh bien tant mieux...
 
 <!-- id: s10-16-0017 -->
 
-> « *à partir de ce moment-là, je suis sous une pression qui veut dire que je suis scrutée, scrutinisée comme on dit en anglais : scrutinized, d’une façon qui me donne le sentiment que je ne peux pas me permettre le moindre écart.*
->
-> *Si ce sur quoi je suis en quelque sorte mise à l’épreuve, « petit morceau par petit morceau », il apparaissait un seul instant*
->
-> *que je ne suis pas en mesu­re d’en répondre, eh bien, c’est mon patient qui, lui, va s’en aller en mille morceaux* ».
+<div class="text-quotation">
+
+« *à partir de ce moment-là, je suis sous une pression qui veut dire que je suis scrutée, scrutinisée comme on dit en anglais : scrutinized, d’une façon qui me donne le sentiment que je ne peux pas me permettre le moindre écart.*
+
+*Si ce sur quoi je suis en quelque sorte mise à l’épreuve, « petit morceau par petit morceau », il apparaissait un seul instant*
+
+*que je ne suis pas en mesu­re d’en répondre, eh bien, c’est mon patient qui, lui, va s’en aller en mille morceaux* ».
+
+</div>
 
 <!-- id: s10-16-0018 -->
 
@@ -415,10 +423,10 @@ Bien sûr, naturellement aussi, que, si je puis dire, plus on l’enfonce, plus 
 
 <!-- id: s10-16-0077 -->
 
-> je ne fais là que vous donner une indication, mais enfin une indication qui rejoindra, je pense,
->
-> assez ce qu’on а pu vous indiquer de la structure fondamentale de ce qu’on appelle ridiculement « *la perversion* »
-> ...que ce jeu-là, c’est le principe de *l’attachement homosexuel*.
+je ne fais là que vous donner une indication, mais enfin une indication qui rejoindra, je pense,
+
+assez ce qu’on а pu vous indiquer de la structure fondamentale de ce qu’on appelle ridiculement « *la perversion* »
+...que ce jeu-là, c’est le principe de *l’attachement homosexuel*.
 
 <!-- id: s10-16-0078 -->
 
@@ -696,10 +704,10 @@ Il est extrêmement étonnant que dans un milieu aussi judaïque que le milieu d
 
 <!-- id: s10-16-0128 -->
 
-> depuis les *Pères de l’É­glise* jusqu’aux *Pères de la Réforme*, si je puis dire,
->
-> c’est-à-dire jusqu’au XVIII<sup>ème</sup> siècle, et encore, pour vous dire comme périodes fécondes de la Réforme
-> ...que ces textes n’aient pas été réinterrogés.
+depuis les *Pères de l’É­glise* jusqu’aux *Pères de la Réforme*, si je puis dire,
+
+c’est-à-dire jusqu’au XVIII<sup>ème</sup> siècle, et encore, pour vous dire comme périodes fécondes de la Réforme
+...que ces textes n’aient pas été réinterrogés.
 
 <!-- id: s10-16-0129 -->
 
@@ -919,10 +927,10 @@ Je pense avoir déjà suffisamment assez amorcé la fonction de la circoncision.
 
 <!-- id: s10-16-0169 -->
 
-> j’entends non pas seulement, dans ses coordonnées de fête, d’initiation, d’introduction à une consécration spéciale, mais dans sa structure même de référence - pour nous essentiellement intéressante - à la castration,
->
-> quant à ses rapports avec la structuration de *l’objet du désir*
-> ...je pense avoir suffisam­ment amorcé les choses dans ce sens, pour pouvoir les reprendre efficace­ment plus avant avec vous, au jour où je vous ai donné notre prochain ren­dez-vous.
+j’entends non pas seulement, dans ses coordonnées de fête, d’initiation, d’introduction à une consécration spéciale, mais dans sa structure même de référence - pour nous essentiellement intéressante - à la castration,
+
+quant à ses rapports avec la structuration de *l’objet du désir*
+...je pense avoir suffisam­ment amorcé les choses dans ce sens, pour pouvoir les reprendre efficace­ment plus avant avec vous, au jour où je vous ai donné notre prochain ren­dez-vous.
 
 ## Notes
 

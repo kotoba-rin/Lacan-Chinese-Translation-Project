@@ -127,7 +127,7 @@ Contrairement à ce qui se dit, de *la jouissance phallique*, « *la* » *femm
 
 <!-- id: s27-05-0029 -->
 
-> si j’ose dire puisqu’elle n’existe pas ...*n’en est pas privée *: elle ne l’a pas moins que l’homme à quoi s’accroche son instrument (organon).
+si j’ose dire puisqu’elle n’existe pas ...*n’en est pas privée *: elle ne l’a pas moins que l’homme à quoi s’accroche son instrument (organon).
 
 <!-- id: s27-05-0030 -->
 

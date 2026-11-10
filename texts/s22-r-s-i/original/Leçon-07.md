@@ -22,7 +22,7 @@ Aujourd’hui ce temps me semble...
 
 <!-- id: s22-07-0005 -->
 
-> je vous le répète, pour de simples raisons person­nelles ...ce temps pourrait bien venir, du moins je le souhaite, que cer­tains certains parmi vous me posent des questions, auxquelles, je vous le répète, je serais heureux au moins de pouvoir répondre, à ce dont il semblerait que dans l’état actuel j’ai la réponse.
+je vous le répète, pour de simples raisons person­nelles ...ce temps pourrait bien venir, du moins je le souhaite, que cer­tains certains parmi vous me posent des questions, auxquelles, je vous le répète, je serais heureux au moins de pouvoir répondre, à ce dont il semblerait que dans l’état actuel j’ai la réponse.
 
 <!-- id: s22-07-0006 -->
 
@@ -30,7 +30,7 @@ Je serais vraiment très très reconnaissant à ces « *cer­tains »*...
 
 <!-- id: s22-07-0007 -->
 
-> qui certainement au sens où je l’entends, *ex-sistent* ...à ces « *certains* » s’ils me lançaient la balle, si je puis dire, et à la personne qui s’y dévouerait la première, parce qu’après tout il suffit qu’un se décide pour que d’autres s’en trouvent frayer la voie.
+qui certainement au sens où je l’entends, *ex-sistent* ...à ces « *certains* » s’ils me lançaient la balle, si je puis dire, et à la personne qui s’y dévouerait la première, parce qu’après tout il suffit qu’un se décide pour que d’autres s’en trouvent frayer la voie.
 
 <!-- id: s22-07-0008 -->
 
@@ -50,13 +50,13 @@ Il me semble que la dernière fois déjà, en avançant ce que j’ai dit d’un
 
 <!-- id: s22-07-0012 -->
 
-> non seu­lement distinguer ce dont je vous montrerai à l’occasion d’où ça part :
->
-> ça part d’une mise à plat du nœud ...il faut dans le nœud distinguer ceci : c’est que si c’est très difficile d’en faire rentrer la théorie dans la mathé­matique, ceci au point que, disons, je n’ai pas trouvé quoique ce soit qui réponde à ce nœud, à ce nœud qui...
+non seu­lement distinguer ce dont je vous montrerai à l’occasion d’où ça part :
+
+ça part d’une mise à plat du nœud ...il faut dans le nœud distinguer ceci : c’est que si c’est très difficile d’en faire rentrer la théorie dans la mathé­matique, ceci au point que, disons, je n’ai pas trouvé quoique ce soit qui réponde à ce nœud, à ce nœud qui...
 
 <!-- id: s22-07-0013 -->
 
-> j’y ai été mené, enfin, pas à pas ...à ce nœud à quoi j’ai abouti en tant que le nœud borroméen. Comment j’y ai abouti ?
+j’y ai été mené, enfin, pas à pas ...à ce nœud à quoi j’ai abouti en tant que le nœud borroméen. Comment j’y ai abouti ?
 
 <!-- id: s22-07-0014 -->
 
@@ -64,13 +64,13 @@ Il est certain qu’actuellement - si moi bien sûr j’en sais la suite - seule
 
 <!-- id: s22-07-0015 -->
 
-> c’est-à-dire ce qui en fait *la consistance* ...seule permettra d’en trouver le fil, la suite des séminaires...
+c’est-à-dire ce qui en fait *la consistance* ...seule permettra d’en trouver le fil, la suite des séminaires...
 
 <!-- id: s22-07-0016 -->
 
-> dont vous avez le premier et le dernier, grâce au soin de quel­qu’un,
->
-> et aussi celui qui n’est pas le médian, celui qui est le XI ...c’est assurément ce qui en donnera ce que je désigne de *la consistance*.
+dont vous avez le premier et le dernier, grâce au soin de quel­qu’un,
+
+et aussi celui qui n’est pas le médian, celui qui est le XI ...c’est assurément ce qui en donnera ce que je désigne de *la consistance*.
 
 <!-- id: s22-07-0017 -->
 
@@ -86,9 +86,9 @@ La façon dont *le point* - *la ligne* - est en quelque sorte fomentée d’une 
 
 <!-- id: s22-07-0020 -->
 
-> mais comme la ligne n’est une dimension que d’être sans consistan­ce à proprement parler,
->
-> ce n’est pas beaucoup dire que de dire qu’on en ajoute une, ...et d’autre part la 3<sup>ème</sup>, celle qui en somme s’édifie d’une perpendiculaire à la surface, est quelque chose de bien étrange.
+mais comme la ligne n’est une dimension que d’être sans consistan­ce à proprement parler,
+
+ce n’est pas beaucoup dire que de dire qu’on en ajoute une, ...et d’autre part la 3<sup>ème</sup>, celle qui en somme s’édifie d’une perpendiculaire à la surface, est quelque chose de bien étrange.
 
 <!-- id: s22-07-0021 -->
 
@@ -104,7 +104,7 @@ Sans doute y a­-t-il là une nécessité qui est...
 
 <!-- id: s22-07-0024 -->
 
-> disons, mon Dieu, parce que je ne trouve pas mieux ...qui est de la faiblesse d’un être manuel : *Homo Faber* comme on l’a dit.
+disons, mon Dieu, parce que je ne trouve pas mieux ...qui est de la faiblesse d’un être manuel : *Homo Faber* comme on l’a dit.
 
 <!-- id: s22-07-0025 -->
 
@@ -112,7 +112,7 @@ Mais pourquoi cet être manuel, l’*Homo Faber* qui aussi bien...
 
 <!-- id: s22-07-0026 -->
 
-> ne serait­-ce que pour - je l’ai fait remarquer - véhiculer ce à quoi il s’attaque, ce qu’il manipule ...part bien de quelque chose qui a consistance, part de *la corde* ?
+ne serait­-ce que pour - je l’ai fait remarquer - véhiculer ce à quoi il s’attaque, ce qu’il manipule ...part bien de quelque chose qui a consistance, part de *la corde* ?
 
 <!-- id: s22-07-0027 -->
 
@@ -176,7 +176,7 @@ C’est bien en quoi je dis que la droite...
 
 <!-- id: s22-07-0042 -->
 
-> la droite sur quoi en somme prend appui cette corde dans son état présent ...la droite n’est guère *consistante* et c’est bien là-des­sus d’ailleurs que la géométrie a, si l’on peut dire, glissé.
+la droite sur quoi en somme prend appui cette corde dans son état présent ...la droite n’est guère *consistante* et c’est bien là-des­sus d’ailleurs que la géométrie a, si l’on peut dire, glissé.
 
 <!-- id: s22-07-0043 -->
 
@@ -200,9 +200,9 @@ Car c’est bien là la façon dont il ne serait pas dépla­cé, dont il ne ser
 
 <!-- id: s22-07-0048 -->
 
-> dont tout à l’heure je montrais dans la géométrie,
->
-> celle qui *s’imagine*, qui s’est soute­nue essentiellement d’un *Imaginaire* ...c’est bien comme ça qu’on pourrait aussi bien la définir cette surface, ce trait de scie sur un solide : c’est que ça offre quelque chose, quelque chose à barbouiller.
+dont tout à l’heure je montrais dans la géométrie,
+
+celle qui *s’imagine*, qui s’est soute­nue essentiellement d’un *Imaginaire* ...c’est bien comme ça qu’on pourrait aussi bien la définir cette surface, ce trait de scie sur un solide : c’est que ça offre quelque chose, quelque chose à barbouiller.
 
 <!-- id: s22-07-0049 -->
 
@@ -210,7 +210,7 @@ Il est singulier que la seule façon dont on soit arrivé en somme - cette surfa
 
 <!-- id: s22-07-0050 -->
 
-> comme j’ai exprimé dans un temps, ce qu’il en est de la fonction du peintre ...et qu’ici aussi, c’est sur quelque chose de spéci­fié : le tableau noir, que je me trouve forcément *mettre à plat* ce que j’ai à vous communiquer du nœud.
+comme j’ai exprimé dans un temps, ce qu’il en est de la fonction du peintre ...et qu’ici aussi, c’est sur quelque chose de spéci­fié : le tableau noir, que je me trouve forcément *mettre à plat* ce que j’ai à vous communiquer du nœud.
 
 <!-- id: s22-07-0051 -->
 
@@ -218,9 +218,9 @@ C’est bien là qu’en effet se sent d’une façon particulière, se sent cec
 
 <!-- id: s22-07-0052 -->
 
-> que je vous ai d’autre part figuré grâce a votre imagination perspective,
->
-> à savoir com­ment ça tient le nœud borroméen à 3, comment c<sup>’</sup>est fait ...c<sup>’</sup>est fait de 2 nœuds qui sont indépendants l’un de l’autre, et il s’agit de savoir par où passe le 3<sup>ème</sup> pour que ça fasse nœud.
+que je vous ai d’autre part figuré grâce a votre imagination perspective,
+
+à savoir com­ment ça tient le nœud borroméen à 3, comment c<sup>’</sup>est fait ...c<sup>’</sup>est fait de 2 nœuds qui sont indépendants l’un de l’autre, et il s’agit de savoir par où passe le 3<sup>ème</sup> pour que ça fasse nœud.
 
 <!-- id: s22-07-0053 -->
 
@@ -228,7 +228,7 @@ Je vous ai posé la même question concernant ce qu<sup>’</sup>il faut pour qu
 
 <!-- id: s22-07-0054 -->
 
-> quoique d’une façon qui en portait la perspec­tive
+quoique d’une façon qui en portait la perspec­tive
 
 <!-- id: s22-07-0055 -->
 
@@ -308,13 +308,13 @@ Que dire, sinon que ce que la figure centrale met en éviden­ce, c’est que l
 
 <!-- id: s22-07-0074 -->
 
-> mais dont j’ai fait remarquer à l’occasion tout ce que ça suppose, à savoir à propre­ment parler *l’impossible* ...que cette droite infinie s’oppose, s’oppose du fait de sa rupture...
+mais dont j’ai fait remarquer à l’occasion tout ce que ça suppose, à savoir à propre­ment parler *l’impossible* ...que cette droite infinie s’oppose, s’oppose du fait de sa rupture...
 
 <!-- id: s22-07-0075 -->
 
-> et cette rupture, comment ne pas la considérer comme
->
-> affine à quelque chose qui est bien l’essentiel du nœud ...cette droite s’op­pose :
+et cette rupture, comment ne pas la considérer comme
+
+affine à quelque chose qui est bien l’essentiel du nœud ...cette droite s’op­pose :
 
 <!-- id: s22-07-0076 -->
 
@@ -342,7 +342,7 @@ D’où l’in­terrogation que j’ai posée la dernière fois de savoir s’il
 
 <!-- id: s22-07-0082 -->
 
-> puisque aussi bien c’est vers ce point de fuite de la ligne mathématique que la corde s’en va ...nous avons à nous interroger sur ce qu’il en est, de ce qui fait *le rond de ficelle* comme tel.
+puisque aussi bien c’est vers ce point de fuite de la ligne mathématique que la corde s’en va ...nous avons à nous interroger sur ce qu’il en est, de ce qui fait *le rond de ficelle* comme tel.
 
 <!-- id: s22-07-0083 -->
 
@@ -354,11 +354,11 @@ Or la dernière fois, j’avais bien marqué que *l’ex-sistence*...
 
 <!-- id: s22-07-0085 -->
 
-> à savoir ce quelque chose au regard de l’ouverture et de ce qui fait *trou* ...que *l’ex-sistence*...
+à savoir ce quelque chose au regard de l’ouverture et de ce qui fait *trou* ...que *l’ex-sistence*...
 
 <!-- id: s22-07-0086 -->
 
-> à savoir, pour mettre les choses à plat, ce quelque chose que nous devons, dans la mise à plat, figurer ...que *l’ex-sistence* appartient à ce champ qui est, si je puis dire, supposé par la rupture elle-même, et que c’est par là, c’est là dans dans *l’a* - écrivez « *l’a* » : *L*, *apostrophe*, *a* - que se joue, si l’on peut dire, le sort du nœud.
+à savoir, pour mettre les choses à plat, ce quelque chose que nous devons, dans la mise à plat, figurer ...que *l’ex-sistence* appartient à ce champ qui est, si je puis dire, supposé par la rupture elle-même, et que c’est par là, c’est là dans dans *l’a* - écrivez « *l’a* » : *L*, *apostrophe*, *a* - que se joue, si l’on peut dire, le sort du nœud.
 
 <!-- id: s22-07-0087 -->
 
@@ -410,9 +410,9 @@ Je ne vous dis pas...
 
 <!-- id: s22-07-0099 -->
 
-> comme je me suis laissé aller à en faire confi­dence à un auditoire qui n’était autre, si mon souvenir est bon,
->
-> que celui - je crois - d’Angleterre, à moins que ce ne soit celui de Strasbourg, qu’im­porte d’ailleurs ...je n’ai pas été jusqu’à faire cette confidence que *le désir de l’homme* - ce qui est pourtant tangible - *c’est l’enfer*, « *l’enfer* » très précisément en ceci que c’est « *l’enfer* » qui lui manque !
+comme je me suis laissé aller à en faire confi­dence à un auditoire qui n’était autre, si mon souvenir est bon,
+
+que celui - je crois - d’Angleterre, à moins que ce ne soit celui de Strasbourg, qu’im­porte d’ailleurs ...je n’ai pas été jusqu’à faire cette confidence que *le désir de l’homme* - ce qui est pourtant tangible - *c’est l’enfer*, « *l’enfer* » très précisément en ceci que c’est « *l’enfer* » qui lui manque !
 
 <!-- id: s22-07-0100 -->
 
@@ -448,11 +448,11 @@ Et si le *Réel* est à localiser quelque part...
 
 <!-- id: s22-07-0108 -->
 
-> à savoir dans ce champ intermédiaire de la mise à plat que j’ai figuré, dénoté, de *l’ex-sistence* ...il reste que ce ne peut être que par élimination que nous ferions...
+à savoir dans ce champ intermédiaire de la mise à plat que j’ai figuré, dénoté, de *l’ex-sistence* ...il reste que ce ne peut être que par élimination que nous ferions...
 
 <!-- id: s22-07-0109 -->
 
-> et c’est cela qui pour nous fait interro­gation ...que ce n’est qu’à nous poser la question de *savoir si le trou c’est bien ce qui est de l’ordre du Symbolique que j’ai fondé du signifiant,* c’est bien là le point que nous nous trouverons avoir au cours de cette année à trancher.
+et c’est cela qui pour nous fait interro­gation ...que ce n’est qu’à nous poser la question de *savoir si le trou c’est bien ce qui est de l’ordre du Symbolique que j’ai fondé du signifiant,* c’est bien là le point que nous nous trouverons avoir au cours de cette année à trancher.
 
 <!-- id: s22-07-0110 -->
 
@@ -484,11 +484,11 @@ Elles ont pour elles pourtant d’avoir laissé quelques traces dans l’Histoir
 
 <!-- id: s22-07-0117 -->
 
-> du compte d’une exténuation philosophique traditionnelle dont le sommet est donné par Hegel ...que quelque chose a rejailli sous le nom d’un nommé Kierkegaard, dont vous savez combien j’ai dénoncé...
+du compte d’une exténuation philosophique traditionnelle dont le sommet est donné par Hegel ...que quelque chose a rejailli sous le nom d’un nommé Kierkegaard, dont vous savez combien j’ai dénoncé...
 
 <!-- id: s22-07-0118 -->
 
-> comme convergente à l’expérience bien plus tard apparue d’un Freud ...combien j’ai dénoncé comme convergence sa promotion, comme telle, de *l’ex-sistence*.
+comme convergente à l’expérience bien plus tard apparue d’un Freud ...combien j’ai dénoncé comme convergence sa promotion, comme telle, de *l’ex-sistence*.
 
 <!-- id: s22-07-0119 -->
 
@@ -504,9 +504,9 @@ Il y a là *quelque chose*, semble-t-il, dont on ne puisse dire, et dont on ne p
 
 <!-- id: s22-07-0122 -->
 
-> sans doute jamais avoué, mais qui est celui de son père
->
-> ...à la faute, à savoir l’introduction non pas de son expérience, mais de l’expérience de celui qui se trouve par rapport à lui occuper la place du père.
+sans doute jamais avoué, mais qui est celui de son père
+
+...à la faute, à savoir l’introduction non pas de son expérience, mais de l’expérience de celui qui se trouve par rapport à lui occuper la place du père.
 
 <!-- id: s22-07-0123 -->
 
@@ -514,11 +514,11 @@ Que cette place du père, du même coup, ne devienne problématique, à savoir q
 
 <!-- id: s22-07-0124 -->
 
-> chose singulière pour une tradition qui manipulait le « *Abba *»[^16] à tort et à travers ...que ce soit à cette date, et à cette date seulement, que se promeuve en même temps l’*existence* comme telle...
+chose singulière pour une tradition qui manipulait le « *Abba *»[^16] à tort et à travers ...que ce soit à cette date, et à cette date seulement, que se promeuve en même temps l’*existence* comme telle...
 
 <!-- id: s22-07-0125 -->
 
-> qui sans doute n’a pas le même accent que celui que j’y mets à la fragmenter d’un tiret ...que ce soit à cette époque que l’*existence* émerge si je puis dire, émerge pour moi, émerge pour que moi j’en fasse quelque chose qui s’écrit autrement, et que ce soit là ce qui soit touchable, tangible dans quelque chose qui se définisse du nœud.
+qui sans doute n’a pas le même accent que celui que j’y mets à la fragmenter d’un tiret ...que ce soit à cette époque que l’*existence* émerge si je puis dire, émerge pour moi, émerge pour que moi j’en fasse quelque chose qui s’écrit autrement, et que ce soit là ce qui soit touchable, tangible dans quelque chose qui se définisse du nœud.
 
 <!-- id: s22-07-0126 -->
 
@@ -526,7 +526,7 @@ Je ne crois pas que ce soit là quelque chose de nature à me mettre si je puis 
 
 <!-- id: s22-07-0127 -->
 
-> d’un savoir propre à chacun, à chacun particulier ...est de nature à changer complètement les conditions dans lesquelles la notion même de *savoir* a dominé, disons des temps plus antiques, disons même l’Antiquité.
+d’un savoir propre à chacun, à chacun particulier ...est de nature à changer complètement les conditions dans lesquelles la notion même de *savoir* a dominé, disons des temps plus antiques, disons même l’Antiquité.
 
 <!-- id: s22-07-0128 -->
 
@@ -538,7 +538,7 @@ Si le savoir est quelque chose d’aussi dépendant des rapports de la suite des
 
 <!-- id: s22-07-0130 -->
 
-> au *trou* dont je parlais tout à l’heure, pour l’appeler par son nom ...si il est aussi dépendant de ce que la suite des générations a fomenté comme *savoir*, comment ne pas réinterroger *son* *statut* ?
+au *trou* dont je parlais tout à l’heure, pour l’appeler par son nom ...si il est aussi dépendant de ce que la suite des générations a fomenté comme *savoir*, comment ne pas réinterroger *son* *statut* ?
 
 <!-- id: s22-07-0131 -->
 
@@ -558,7 +558,7 @@ C’est nommément...
 
 <!-- id: s22-07-0135 -->
 
-> pour reprendre ici ma construction ...c’est nommément ceci :
+pour reprendre ici ma construction ...c’est nommément ceci :
 
 <!-- id: s22-07-0136 -->
 
@@ -578,7 +578,7 @@ c’est le quelque chose qui mis à plat...
 
 <!-- id: s22-07-0140 -->
 
-> mis à plat parce que nous pensons, ...qui mis à plat, apparaît dans le *Réel,* à savoir : *à l’intérieur* du domaine que la consistance du rond de ficelle permet seule de définir, \[*ici en gris clair, « la traine », « la queue de comète » du Symbolique <u>à l’intérieur</u> du Réel*\] :
+mis à plat parce que nous pensons, ...qui mis à plat, apparaît dans le *Réel,* à savoir : *à l’intérieur* du domaine que la consistance du rond de ficelle permet seule de définir, \[*ici en gris clair, « la traine », « la queue de comète » du Symbolique <u>à l’intérieur</u> du Réel*\] :
 
 <!-- id: s22-07-0141 -->
 
@@ -598,7 +598,7 @@ Je n’ai pas à revenir sur le fait que vous savez...
 
 <!-- id: s22-07-0145 -->
 
-> que vous savez parce que je vous l’ai seriné ...à savoir que « *le monde* » n’est pas pensable sans « *Dieu* », je parle du monde newtonien, car :
+que vous savez parce que je vous l’ai seriné ...à savoir que « *le monde* » n’est pas pensable sans « *Dieu* », je parle du monde newtonien, car :
 
 <!-- id: s22-07-0146 -->
 
@@ -714,9 +714,9 @@ C’est dans la mesure où il y a ouverture possible, rupture, *consistance* iss
 
 <!-- id: s22-07-0174 -->
 
-> et que ce qui fait que nul, passant derrière *le trou du Réel*
->
-> derrière sur cette figure, car si vous la retournez, c’est devant qu’il y a cohérence ...*qu’il y a consistance entre le symptôme et l’inconscient*.
+et que ce qui fait que nul, passant derrière *le trou du Réel*
+
+derrière sur cette figure, car si vous la retournez, c’est devant qu’il y a cohérence ...*qu’il y a consistance entre le symptôme et l’inconscient*.
 
 <!-- id: s22-07-0175 -->
 
@@ -732,7 +732,7 @@ Lisez là-dessus toute la littérature : le capitalisme est consi­déré comme 
 
 <!-- id: s22-07-0178 -->
 
-> et pourquoi en effet n’en aurait-il pas ? ...ces effets sont somme toute bénéfiques puisqu’il a l’avantage de réduire à rien *l’homme prolétaire*, grâce à quoi *l’homme prolétaire* réalise l’essen­ce de l’homme, et d’être dépouillé de tout, est chargé d’être le Messie du futur.
+et pourquoi en effet n’en aurait-il pas ? ...ces effets sont somme toute bénéfiques puisqu’il a l’avantage de réduire à rien *l’homme prolétaire*, grâce à quoi *l’homme prolétaire* réalise l’essen­ce de l’homme, et d’être dépouillé de tout, est chargé d’être le Messie du futur.
 
 <!-- id: s22-07-0179 -->
 
@@ -772,7 +772,7 @@ Personne, bien sûr, n’a la moindre appréhension de la mort...
 
 <!-- id: s22-07-0188 -->
 
-> sans ça vous ne seriez pas là si tranquilles ...pour l’obsessionnel, la mort est un acte manqué.
+sans ça vous ne seriez pas là si tranquilles ...pour l’obsessionnel, la mort est un acte manqué.
 
 <!-- id: s22-07-0189 -->
 
@@ -784,7 +784,7 @@ Encore que ç’ait été fort répandu à une certaine époque, à l’époque 
 
 <!-- id: s22-07-0191 -->
 
-> une portée autre que de soutenir l’édifice social \[*la philosophie appartenant au disc.* M \] ...il y a eu quelques personnes qui sont arrivées à se grouper en « *École* » d’une façon qui avait des conséquences.
+une portée autre que de soutenir l’édifice social \[*la philosophie appartenant au disc.* M \] ...il y a eu quelques personnes qui sont arrivées à se grouper en « *École* » d’une façon qui avait des conséquences.
 
 <!-- id: s22-07-0192 -->
 
@@ -808,7 +808,7 @@ Je pense pouvoir soutenir que c’est à l’état d’« *une* »...
 
 <!-- id: s22-07-0197 -->
 
-> d’« *une* », je ne dirai pas « *innombrables »* mais d’« *une* » parfaitement *« dénombrables »...*que les femmes existent, et non pas à l’état de « *La* ».
+d’« *une* », je ne dirai pas « *innombrables »* mais d’« *une* » parfaitement *« dénombrables »...*que les femmes existent, et non pas à l’état de « *La* ».
 
 ## Notes
 

@@ -22,9 +22,9 @@ Ce rêve qui a fait l’objet d’*une séance* de son patient, est un rêve *ex
 
 <!-- id: s6-09-0005 -->
 
-> non seulement entre ce qui est à proprement parler *associations* du rêve,
->
-> voire *interprétations*, mais tout message de la séance dans son ensemble
+non seulement entre ce qui est à proprement parler *associations* du rêve,
+
+voire *interprétations*, mais tout message de la séance dans son ensemble
 
 <!-- id: s6-09-0006 -->
 
@@ -36,7 +36,7 @@ Il est d’autant plus frappant de voir que ce rêve dont je rappellerai les ter
 
 <!-- id: s6-09-0008 -->
 
-> elle l’interprète, on le verra, ligne par ligne comme il convient de le faire
+elle l’interprète, on le verra, ligne par ligne comme il convient de le faire
 
 <!-- id: s6-09-0009 -->
 
@@ -88,7 +88,7 @@ La première…
 
 <!-- id: s6-09-0021 -->
 
-> suivant la première ébauche de son interprétation du type duel, du type interprétation de *l’agressivité* du sujet fondée sur un retour, sur un transfert du vœu *d’omnipotence*
+suivant la première ébauche de son interprétation du type duel, du type interprétation de *l’agressivité* du sujet fondée sur un retour, sur un transfert du vœu *d’omnipotence*
 
 <!-- id: s6-09-0022 -->
 
@@ -108,7 +108,7 @@ Et dans les quelques jours qui auront suivi cette séance qu’elle choisit parc
 
 <!-- id: s6-09-0026 -->
 
-> où précisément il se trouve avoir ces embarras bien connus de tous les joueurs de tennis qui peuvent avoir un peu l’occasion de s’observer sur la façon dont ils mettent en œuvre leurs capacités, et dont aussi leur échappe quelquefois ce qui est la dernière récompense *d’une supériorité* qu’ils connaissent mais qu’ils ne peuvent pas manifester
+où précisément il se trouve avoir ces embarras bien connus de tous les joueurs de tennis qui peuvent avoir un peu l’occasion de s’observer sur la façon dont ils mettent en œuvre leurs capacités, et dont aussi leur échappe quelquefois ce qui est la dernière récompense *d’une supériorité* qu’ils connaissent mais qu’ils ne peuvent pas manifester
 
 <!-- id: s6-09-0027 -->
 
@@ -116,11 +116,11 @@ Et dans les quelques jours qui auront suivi cette séance qu’elle choisit parc
 
 <!-- id: s6-09-0028 -->
 
-> avec cette sensibilité à l’endroit des difficultés, des impasses inconscientes qui forment en fin de compte
->
-> la trame de ce jeu des caractères, des façons dont s’imposent entre les sujets le ferraillement du dialogue,
->
-> la taquinerie, la raillerie, la supériorité prise
+avec cette sensibilité à l’endroit des difficultés, des impasses inconscientes qui forment en fin de compte
+
+la trame de ce jeu des caractères, des façons dont s’imposent entre les sujets le ferraillement du dialogue,
+
+la taquinerie, la raillerie, la supériorité prise
 
 <!-- id: s6-09-0029 -->
 
@@ -136,7 +136,7 @@ Nous essayerons de voir aussi quelles idées *a priori*, quelles idées précon�
 
 <!-- id: s6-09-0032 -->
 
-> après tout, jamais une erreur ne s’engendre que d’un certain manque de vérité
+après tout, jamais une erreur ne s’engendre que d’un certain manque de vérité
 
 <!-- id: s6-09-0033 -->
 
@@ -168,7 +168,7 @@ avec une cohérence telle !
 
 <!-- id: s6-09-0040 -->
 
-> *ce schéma topologique, ce graphe* dont nous nous servons
+*ce schéma topologique, ce graphe* dont nous nous servons
 
 <!-- id: s6-09-0041 -->
 
@@ -184,7 +184,11 @@ Et parmi ces choses qui arrivent, il rencontre une femme sur une route qui lui r
 
 <!-- id: s6-09-0044 -->
 
-> « *sexuel play avec une femme devant une autre femme…* ». \[*sexual play with a woman in front of another woman*. (p.132)\]
+<div class="text-quotation">
+
+« *sexuel play avec une femme devant une autre femme…* ». \[*sexual play with a woman in front of another woman*. (p.132)\]
+
+</div>
 
 <!-- id: s6-09-0045 -->
 
@@ -228,7 +232,7 @@ On verra dans la suite du texte un autre exemple qui montre bien que, lorsqu’o
 
 <!-- id: s6-09-0055 -->
 
-> si nous voulons procéder comme nous l’avons fait pour le précédent rêve
+si nous voulons procéder comme nous l’avons fait pour le précédent rêve
 
 <!-- id: s6-09-0056 -->
 
@@ -272,7 +276,7 @@ Cette « *petite toux* » dont Ella SHARPE…
 
 <!-- id: s6-09-0066 -->
 
-> vu la façon dont ce patient se comporte, si *contenue*, *compassée*, si manifeste d’une *défense* dont elle–même sent très bien les défenses et les difficultés, dont elle est loin d’admettre au premier plan que ce soit une défense de l’ordre « *défense contre ses propres sentiments* »
+vu la façon dont ce patient se comporte, si *contenue*, *compassée*, si manifeste d’une *défense* dont elle–même sent très bien les défenses et les difficultés, dont elle est loin d’admettre au premier plan que ce soit une défense de l’ordre « *défense contre ses propres sentiments* »
 
 <!-- id: s6-09-0067 -->
 
@@ -328,7 +332,7 @@ Cela n’est pas rien que de souligner, à ce propos donc, que premièrement la 
 
 <!-- id: s6-09-0080 -->
 
-> qui déjà dans la façon dont Ella SHARPE analyse les choses, apparaît
+qui déjà dans la façon dont Ella SHARPE analyse les choses, apparaît
 
 <!-- id: s6-09-0081 -->
 
@@ -336,9 +340,9 @@ Cela n’est pas rien que de souligner, à ce propos donc, que premièrement la 
 
 <!-- id: s6-09-0082 -->
 
-> cela peut paraître un peu pointilleux, un peu minutieux comme remarque, mais néanmoins vous verrez que cet ordre de remarques que je vais introduire, c’est à partir de là que tout le reste s’ensuit, à savoir ce que
->
-> j’ai appelé la chute de niveau qui marquera l’interprétation d’Ella SHARPE
+cela peut paraître un peu pointilleux, un peu minutieux comme remarque, mais néanmoins vous verrez que cet ordre de remarques que je vais introduire, c’est à partir de là que tout le reste s’ensuit, à savoir ce que
+
+j’ai appelé la chute de niveau qui marquera l’interprétation d’Ella SHARPE
 
 <!-- id: s6-09-0083 -->
 
@@ -358,7 +362,7 @@ Ceci elle l’élide, car elle signale dans le catalogue de son tableau de chass
 
 <!-- id: s6-09-0087 -->
 
-> c’est là le point important sur cette *toux-message*, si *message* elle est
+c’est là le point important sur cette *toux-message*, si *message* elle est
 
 <!-- id: s6-09-0088 -->
 
@@ -402,7 +406,7 @@ Bref, cette question à propos de « *C’est un message ?* », elle est bien
 
 <!-- id: s6-09-0098 -->
 
-> Je vous mets la partie inférieure pour vous permettre de vous repérer là où nous sommes
+Je vous mets la partie inférieure pour vous permettre de vous repérer là où nous sommes
 
 <!-- id: s6-09-0099 -->
 
@@ -434,7 +438,7 @@ Pour l’instant simplement, il s’interroge…
 
 <!-- id: s6-09-0106 -->
 
-> de cette innocence ou ignorance docte qui est constituée par le fait d’être en analyse
+de cette innocence ou ignorance docte qui est constituée par le fait d’être en analyse
 
 <!-- id: s6-09-0107 -->
 
@@ -458,7 +462,7 @@ Dites-vous bien que *s’il fallait*…
 
 <!-- id: s6-09-0112 -->
 
-> comme il va nous falloir deux séminaires *pour couvrir la matière que nous apporte ce rêve et son interprétation*
+comme il va nous falloir deux séminaires *pour couvrir la matière que nous apporte ce rêve et son interprétation*
 
 <!-- id: s6-09-0113 -->
 
@@ -550,7 +554,7 @@ Le caractère paradoxal de cette fantaisie du sujet appelle très probablement�
 
 <!-- id: s6-09-0135 -->
 
-> il dit lui-même que les souvenirs sont d’une enfance tardive, d’une adolescence
+il dit lui-même que les souvenirs sont d’une enfance tardive, d’une adolescence
 
 <!-- id: s6-09-0136 -->
 
@@ -570,7 +574,7 @@ La chose est juste, à ceci près que s’il s’imagine être là où il ne dev
 
 <!-- id: s6-09-0140 -->
 
-> en lui disant qu’il est en tel point d’où il a voulu tuer son semblable, dont c’est le retour et la revanche
+en lui disant qu’il est en tel point d’où il a voulu tuer son semblable, dont c’est le retour et la revanche
 
 <!-- id: s6-09-0141 -->
 
@@ -594,9 +598,9 @@ Je vous l’ai dit, ce qui est le propre de tout *affect*, de toute cette marge,
 
 <!-- id: s6-09-0146 -->
 
-> tout au moins spécialement tel que nous pouvons le reconstituer quand nous avons le sentiment
->
-> que ce discours n’est justement pas un discours si continu qu’on le croit
+tout au moins spécialement tel que nous pouvons le reconstituer quand nous avons le sentiment
+
+que ce discours n’est justement pas un discours si continu qu’on le croit
 
 <!-- id: s6-09-0147 -->
 
@@ -624,7 +628,7 @@ je vais vous demander ici…
 
 <!-- id: s6-09-0153 -->
 
-> car nous n’avons pas épuisé ce qui s’est apporté en simple association de *la toux*, il y a un quatrième élément que nous verrons tout à l’heure et à propos de ceci, à savoir en cette occasion *la fonction du signifiant dans le fantasme*, car là c’est clair que *le sujet se considère comme suffisamment couvert par cet aboiement fantasmatique*
+car nous n’avons pas épuisé ce qui s’est apporté en simple association de *la toux*, il y a un quatrième élément que nous verrons tout à l’heure et à propos de ceci, à savoir en cette occasion *la fonction du signifiant dans le fantasme*, car là c’est clair que *le sujet se considère comme suffisamment couvert par cet aboiement fantasmatique*
 
 <!-- id: s6-09-0154 -->
 
@@ -644,9 +648,9 @@ Il s’agit pour l’instant de nous apercevoir comment entre en jeu chez lui l�
 
 <!-- id: s6-09-0158 -->
 
-> à l’origine de sa prise sur le monde qui s’offre à lui et qui est avant tout un monde de langage,
->
-> un monde où les gens lui parlent, ce qui est évidemment un affrontement assez stupéfiant
+à l’origine de sa prise sur le monde qui s’offre à lui et qui est avant tout un monde de langage,
+
+un monde où les gens lui parlent, ce qui est évidemment un affrontement assez stupéfiant
 
 <!-- id: s6-09-0159 -->
 
@@ -662,9 +666,9 @@ D’autres personnes…
 
 <!-- id: s6-09-0162 -->
 
-> qui peuvent à l’occasion me parler d’une façon, je ne dirais pas directement éclairée par
->
-> les plans d’enquête que je leur donne, mais seulement du fait de mon enseignement
+qui peuvent à l’occasion me parler d’une façon, je ne dirais pas directement éclairée par
+
+les plans d’enquête que je leur donne, mais seulement du fait de mon enseignement
 
 <!-- id: s6-09-0163 -->
 
@@ -696,7 +700,7 @@ Car ce dont il s’agit, c’est de mettre à l’épreuve le pouvoir du signifi
 
 <!-- id: s6-09-0170 -->
 
-> c’est de cela que je fais la remarque à la fin de la communication scientifique dont je parlais
+c’est de cela que je fais la remarque à la fin de la communication scientifique dont je parlais
 
 <!-- id: s6-09-0171 -->
 
@@ -756,7 +760,7 @@ C’est en d’autres termes, pour autant que du point de vue du *graphe*, à pa
 
 <!-- id: s6-09-0185 -->
 
-> le « *ouah-ouah* » peut être élidé et vient dans les dessous de l’énonciation concernant le chien
+le « *ouah-ouah* » peut être élidé et vient dans les dessous de l’énonciation concernant le chien
 
 <!-- id: s6-09-0186 -->
 
@@ -776,7 +780,7 @@ Mais c’est un phénomène si général, si essentiel, si fonctionnellement dom
 
 <!-- id: s6-09-0190 -->
 
-> qui était plutôt porté vers les explications naturalistes
+qui était plutôt porté vers les explications naturalistes
 
 <!-- id: s6-09-0191 -->
 
@@ -784,7 +788,7 @@ Mais c’est un phénomène si général, si essentiel, si fonctionnellement dom
 
 <!-- id: s6-09-0192 -->
 
-> c’est ainsi que dans le texte de DARWIN, le cri du canard, repris par l’enfant est phonétisé
+c’est ainsi que dans le texte de DARWIN, le cri du canard, repris par l’enfant est phonétisé
 
 <!-- id: s6-09-0193 -->
 
@@ -900,11 +904,11 @@ Quel est le schéma de ce qui se passe à ce moment ? Il est essentiellement fon
 
 <!-- id: s6-09-0221 -->
 
-> ici l’animal en tant que réel et dont nous savons qu’il a un rapport au sujet parce que le sujet
->
-> a pris soin auparavant de nous en informer : il pouvait être imaginairement cet animal,
->
-> à condition de s’emparer du signifiant « *aboyant* »
+ici l’animal en tant que réel et dont nous savons qu’il a un rapport au sujet parce que le sujet
+
+a pris soin auparavant de nous en informer : il pouvait être imaginairement cet animal,
+
+à condition de s’emparer du signifiant « *aboyant* »
 
 <!-- id: s6-09-0222 -->
 

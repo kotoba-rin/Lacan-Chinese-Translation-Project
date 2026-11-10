@@ -62,11 +62,11 @@ Parce que ça fait une paye que je fréquente ces murailles\...
 
 <!-- id: s19b-01-0015 -->
 
-> pas spécialement celles-là à cette époque \[*Chapelle de l'Hôpital Sainte-Anne*\] \...et ça devrait être, c'est inscrit quelque part du côté de 25-26, et les internes à cette époque\...
+pas spécialement celles-là à cette époque \[*Chapelle de l'Hôpital Sainte-Anne*\] \...et ça devrait être, c'est inscrit quelque part du côté de 25-26, et les internes à cette époque\...
 
 <!-- id: s19b-01-0016 -->
 
-> je ne parle pas de ce qu'ils sont maintenant \...les internes aussi bien « *des hôpitaux* » que de ce qu'on appelait « *les asiles* », c'était sans doute un effet de groupe, mais pour ce qui est d'en tenir à l'*ignorance*, ben ils étaient un peu là, semble-t-il !
+je ne parle pas de ce qu'ils sont maintenant \...les internes aussi bien « *des hôpitaux* » que de ce qu'on appelait « *les asiles* », c'était sans doute un effet de groupe, mais pour ce qui est d'en tenir à l'*ignorance*, ben ils étaient un peu là, semble-t-il !
 
 <!-- id: s19b-01-0017 -->
 
@@ -78,9 +78,9 @@ On peut considérer que c'est lié à *un moment de la médecine*, ce *moment* d
 
 <!-- id: s19b-01-0019 -->
 
-> n'oubliez pas que quand je parle d'ignorance, je viens de dire que c'est une passion,
->
-> c'est pas pour moi une moins value, c'est pas non plus un déficit, c'est autre chose \...l'ignorance est liée au savoir. C'est une façon de l'établir, d'en faire un savoir établi.
+n'oubliez pas que quand je parle d'ignorance, je viens de dire que c'est une passion,
+
+c'est pas pour moi une moins value, c'est pas non plus un déficit, c'est autre chose \...l'ignorance est liée au savoir. C'est une façon de l'établir, d'en faire un savoir établi.
 
 <!-- id: s19b-01-0020 -->
 
@@ -88,7 +88,7 @@ Par exemple quand on voulait être médecin dans une époque, qui bien sûr éta
 
 <!-- id: s19b-01-0021 -->
 
-> enfin à cette époque on avait un peu encore d'orientation \...qu'on ait voulu bénéficier, montrer, manifester, une ignorance si je puis dire consolidée.
+enfin à cette époque on avait un peu encore d'orientation \...qu'on ait voulu bénéficier, montrer, manifester, une ignorance si je puis dire consolidée.
 
 <!-- id: s19b-01-0022 -->
 
@@ -96,7 +96,7 @@ Ceci dit, après ce que je viens de vous dire de l'ignorance, vous ne vous éton
 
 <!-- id: s19b-01-0023 -->
 
-> au temps où ce titre n'était pas un certificat d'ignorance, \...un certain Cardinal appelait *« ignorance docte » le savoir le plus élevé*. C'était Nicolas De Cues [^1], pour le rappeler en passant.
+au temps où ce titre n'était pas un certificat d'ignorance, \...un certain Cardinal appelait *« ignorance docte » le savoir le plus élevé*. C'était Nicolas De Cues [^1], pour le rappeler en passant.
 
 <!-- id: s19b-01-0024 -->
 
@@ -104,7 +104,7 @@ De sorte que la corrélation de l'ignorance et du savoir est quelque chose dont 
 
 <!-- id: s19b-01-0025 -->
 
-> comme ça, à partir d'un certain moment, dans une certaine zone, \...porte le savoir à son niveau le plus bas, ce n'est pas la faute à l'ignorance, c'est même le contraire.
+comme ça, à partir d'un certain moment, dans une certaine zone, \...porte le savoir à son niveau le plus bas, ce n'est pas la faute à l'ignorance, c'est même le contraire.
 
 <!-- id: s19b-01-0026 -->
 
@@ -120,9 +120,9 @@ Mais enfin, pour pointer quelque chose qui est de cette expérience avec laquell
 
 <!-- id: s19b-01-0029 -->
 
-> c'est pas pour m'en vanter, mais depuis que j'ai livré quelques uns de mes *Écrits* à *la poubellication*,
->
-> tout le monde sait mon âge, c'est un des inconvénients \...à ce moment, je dois dire que le degré d'*ignorance passionnée* qui régnait à la salle de garde de Sainte-Anne, je dois dire que c'est irrévocable.
+c'est pas pour m'en vanter, mais depuis que j'ai livré quelques uns de mes *Écrits* à *la poubellication*,
+
+tout le monde sait mon âge, c'est un des inconvénients \...à ce moment, je dois dire que le degré d'*ignorance passionnée* qui régnait à la salle de garde de Sainte-Anne, je dois dire que c'est irrévocable.
 
 <!-- id: s19b-01-0030 -->
 
@@ -198,7 +198,7 @@ Enfin, ceci est une indication introductive, mais je voudrais faire remarquer qu
 
 <!-- id: s19b-01-0048 -->
 
-> au regard des biais qu'y prennent les savoirs \...la psychanalyse n'a rien amélioré.
+au regard des biais qu'y prennent les savoirs \...la psychanalyse n'a rien amélioré.
 
 <!-- id: s19b-01-0049 -->
 
@@ -206,11 +206,11 @@ Enfin, ceci est une indication introductive, mais je voudrais faire remarquer qu
 
 <!-- id: s19b-01-0050 -->
 
-> au sens où j'en ai posé *la question*, dans l'année 67-68, où j'avais introduit la notion « *du psychanalyste* »,
->
-> précédé de l'article défini, au temps où j'essayais devant un auditoire - à ce moment-là assez large -
->
-> de rappeler la valeur logique, celle de l'article défini. Enfin passons\... \...le psychanalyste ne semble pas avoir rien changé à une certaine assiette du savoir.
+au sens où j'en ai posé *la question*, dans l'année 67-68, où j'avais introduit la notion « *du psychanalyste* »,
+
+précédé de l'article défini, au temps où j'essayais devant un auditoire - à ce moment-là assez large -
+
+de rappeler la valeur logique, celle de l'article défini. Enfin passons\... \...le psychanalyste ne semble pas avoir rien changé à une certaine assiette du savoir.
 
 <!-- id: s19b-01-0051 -->
 
@@ -298,7 +298,7 @@ Pour introduire une confusion définitive sur un sujet délicat\...
 
 <!-- id: s19b-01-0072 -->
 
-> celui qui est précisément le point en question dans *la psychanalyse*, \...ce que j'ai appelé « *cette frontière sensible entre vérité et savoir* », on ne fait pas mieux.
+celui qui est précisément le point en question dans *la psychanalyse*, \...ce que j'ai appelé « *cette frontière sensible entre vérité et savoir* », on ne fait pas mieux.
 
 <!-- id: s19b-01-0073 -->
 
@@ -374,7 +374,7 @@ Il a aussi un peu à faire avec\...
 
 <!-- id: s19b-01-0091 -->
 
-> beaucoup à faire, tout à faire \...avec *la répétition*, c'est-à-dire le versant tout contraire à ce à quoi sert un dictionnaire. De sorte que c'était une assez bonne façon de faire comme ceux qui auraient pu m'aider à ce moment-là à faire ma trace, de les dériver.
+beaucoup à faire, tout à faire \...avec *la répétition*, c'est-à-dire le versant tout contraire à ce à quoi sert un dictionnaire. De sorte que c'était une assez bonne façon de faire comme ceux qui auraient pu m'aider à ce moment-là à faire ma trace, de les dériver.
 
 <!-- id: s19b-01-0092 -->
 
@@ -414,11 +414,11 @@ Faut-il vous rappeler que quand Freud essaie de rendre compte des difficultés q
 
 <!-- id: s19b-01-0101 -->
 
-> un article de 1917 dans [*Imago*](http://www.archive.org/details/Imago-ZeitschriftFuumlrAnwendungDerPsychoanalyseAufDie), si mon souvenir est bon, et en tout cas qui a été traduit,
->
-> il est paru dans le 1^er^ numéro de l'*International journal of Psychoanalysis *:
->
-> « *Une difficulté sur la voie de la Psychanalyse* », comme cela que ça s'intitule \...c'est que le savoir dont il s'agit, ben il passe pas aisément comme ça.
+un article de 1917 dans [*Imago*](http://www.archive.org/details/Imago-ZeitschriftFuumlrAnwendungDerPsychoanalyseAufDie), si mon souvenir est bon, et en tout cas qui a été traduit,
+
+il est paru dans le 1^er^ numéro de l'*International journal of Psychoanalysis *:
+
+« *Une difficulté sur la voie de la Psychanalyse* », comme cela que ça s'intitule \...c'est que le savoir dont il s'agit, ben il passe pas aisément comme ça.
 
 <!-- id: s19b-01-0102 -->
 
@@ -430,7 +430,7 @@ Et alors je dois dire\...
 
 <!-- id: s19b-01-0104 -->
 
-> pourquoi ne pas oser le dire \...que nous avons tous nos glissements, c'est surtout les « *résistances *» qui favorisent les glissements.
+pourquoi ne pas oser le dire \...que nous avons tous nos glissements, c'est surtout les « *résistances *» qui favorisent les glissements.
 
 <!-- id: s19b-01-0105 -->
 
@@ -458,7 +458,7 @@ C'est là dans ce petit article\...
 
 <!-- id: s19b-01-0111 -->
 
-> il le reprendra ensuite dans « *Malaise dans la civilisation »* \...qu'il y a le premier grand morceau sur « *la révolution copernicienne* ».
+il le reprendra ensuite dans « *Malaise dans la civilisation »* \...qu'il y a le premier grand morceau sur « *la révolution copernicienne* ».
 
 <!-- id: s19b-01-0112 -->
 
@@ -514,9 +514,9 @@ Si *l'inconscient* est quelque chose de surprenant, c'est que *ce savoir c'est a
 
 <!-- id: s19b-01-0125 -->
 
-> combien d'ailleurs peu fondée depuis toujours,
->
-> puisque c'est pas pour rien qu'on a évoqué l'inspiration, l'enthousiasme, ceci depuis toujours \...c'est à savoir *que le savoir insu dont il s'agit dans la psychanalyse, c'est un savoir qui bel et bien s'articule*, *est structuré comme un langage*.
+combien d'ailleurs peu fondée depuis toujours,
+
+puisque c'est pas pour rien qu'on a évoqué l'inspiration, l'enthousiasme, ceci depuis toujours \...c'est à savoir *que le savoir insu dont il s'agit dans la psychanalyse, c'est un savoir qui bel et bien s'articule*, *est structuré comme un langage*.
 
 <!-- id: s19b-01-0126 -->
 
@@ -528,7 +528,7 @@ Et c'est ça qui ne passe pas, parce qu'à la vérité la révolution cosmologiq
 
 <!-- id: s19b-01-0128 -->
 
-> mis à part le dérangement que ça donnait à quelques *Docteurs de l'Église* \...que ce soit quelque chose qui d'aucune façon soit de nature à ce que l'Homme, comme on dit, s'en sente d'aucune façon humilié.
+mis à part le dérangement que ça donnait à quelques *Docteurs de l'Église* \...que ce soit quelque chose qui d'aucune façon soit de nature à ce que l'Homme, comme on dit, s'en sente d'aucune façon humilié.
 
 <!-- id: s19b-01-0129 -->
 
@@ -628,7 +628,7 @@ C'est ce que j'ai essayé de marquer de mon grand S, parenthèse du grand A pré
 
 <!-- id: s19b-01-0153 -->
 
-> pour ceux qui me suivent \...qui ne soit pas à ce qu'il faille en tenir compte pour se guider, fût-ce à la petite semaine.
+pour ceux qui me suivent \...qui ne soit pas à ce qu'il faille en tenir compte pour se guider, fût-ce à la petite semaine.
 
 <!-- id: s19b-01-0154 -->
 
@@ -640,7 +640,7 @@ Le 2^ème^, vous ne m'avez pas attendu\...
 
 <!-- id: s19b-01-0156 -->
 
-> je parle aux psychanalystes \...vous ne m'avez pas attendu pour le savoir, puisque c'est le principe même de ce que vous faites dès que vous interprétez.
+je parle aux psychanalystes \...vous ne m'avez pas attendu pour le savoir, puisque c'est le principe même de ce que vous faites dès que vous interprétez.
 
 <!-- id: s19b-01-0157 -->
 
@@ -664,7 +664,7 @@ Et ça, il est tout à fait clair que la chose a émergé sous la plume de Freud
 
 <!-- id: s19b-01-0162 -->
 
-> de ce jeu, une vérité s'énonce \...ce qui se formule quoi qu'on y fasse, est *quelque chose qui se répète*.
+de ce jeu, une vérité s'énonce \...ce qui se formule quoi qu'on y fasse, est *quelque chose qui se répète*.
 
 <!-- id: s19b-01-0163 -->
 
@@ -708,7 +708,7 @@ Il faut bien le dire, cette ébauche est intenable, et seulement faite pour fair
 
 <!-- id: s19b-01-0173 -->
 
-> je ne veux pas abuser de ce terme \...des *oreilles bourgeoises*, à savoir qui n'ont absolument pas la moindre idée de ce que c'est que le *principe du plaisir*.
+je ne veux pas abuser de ce terme \...des *oreilles bourgeoises*, à savoir qui n'ont absolument pas la moindre idée de ce que c'est que le *principe du plaisir*.
 
 <!-- id: s19b-01-0174 -->
 
@@ -776,7 +776,7 @@ Il est curieux, il est dommage qu'il faille se donner tant de peine pour des cho
 
 <!-- id: s19b-01-0190 -->
 
-> que ce soit le sien ou celui de ses semblables, ou celui des animaux qui l'entourent, \...*pour en faire surgir*, à leur ou à son bénéfice, ce qui s'appelle à proprement parler *la jouissance*.
+que ce soit le sien ou celui de ses semblables, ou celui des animaux qui l'entourent, \...*pour en faire surgir*, à leur ou à son bénéfice, ce qui s'appelle à proprement parler *la jouissance*.
 
 <!-- id: s19b-01-0191 -->
 
@@ -784,9 +784,9 @@ Il est assurément plus étrange que les cheminements que je viens de souligner\
 
 <!-- id: s19b-01-0192 -->
 
-> ceux qui vont de cette description sophistiquée du *principe du plaisir*
->
-> à la reconnaissance ouverte de ce qu'il en est de *la jouissance* *fondamentale* \...il est plus étrange de voir que Freud, à ce niveau, croit devoir recourir à quelque chose qu'il désigne de *l'instinct de mort*.
+ceux qui vont de cette description sophistiquée du *principe du plaisir*
+
+à la reconnaissance ouverte de ce qu'il en est de *la jouissance* *fondamentale* \...il est plus étrange de voir que Freud, à ce niveau, croit devoir recourir à quelque chose qu'il désigne de *l'instinct de mort*.
 
 <!-- id: s19b-01-0193 -->
 
@@ -830,7 +830,7 @@ Mais au lieu de raconter des bagatelles autour de l'instinct de mort primitif\..
 
 <!-- id: s19b-01-0203 -->
 
-> entendez bien que je parle, comme l'année dernière je parlais « *D'un discours qui ne serait pas du semblant »* dans un cas comme dans l'autre il n'y en a pas, ni de discours ni d'acte tel \...cela donc serait, s'il pouvait être, le suicide.
+entendez bien que je parle, comme l'année dernière je parlais « *D'un discours qui ne serait pas du semblant »* dans un cas comme dans l'autre il n'y en a pas, ni de discours ni d'acte tel \...cela donc serait, s'il pouvait être, le suicide.
 
 <!-- id: s19b-01-0204 -->
 
@@ -886,7 +886,7 @@ Ce serait peut-être très remarquable s'il s'avérait\...
 
 <!-- id: s19b-01-0217 -->
 
-> assez longtemps pour que ça commence à s'élucider un peu \...qu'il est impossible de l'écrire ce qu'il en serait du rapport sexuel.
+assez longtemps pour que ça commence à s'élucider un peu \...qu'il est impossible de l'écrire ce qu'il en serait du rapport sexuel.
 
 <!-- id: s19b-01-0218 -->
 
@@ -902,7 +902,7 @@ Seulement ça n'a pas absolument rien à faire avec ce qu'il en est du rapport s
 
 <!-- id: s19b-01-0221 -->
 
-> quand vous voulez mettre la main dessus, si je puis m'exprimer ainsi, elle n'est plus *sexuelle* du tout, elle se perd,
+quand vous voulez mettre la main dessus, si je puis m'exprimer ainsi, elle n'est plus *sexuelle* du tout, elle se perd,
 
 <!-- id: s19b-01-0222 -->
 
@@ -910,9 +910,9 @@ Seulement ça n'a pas absolument rien à faire avec ce qu'il en est du rapport s
 
 <!-- id: s19b-01-0223 -->
 
-> *un signifié d'un certain signifiant parfaitement évanouissant*, car pour ce qui est de définir ce qu'il en est
->
-> *de l'homme ou de la femme*, ce que la psychanalyse nous montre, c'est très précisément que c'est *impossible* et que *jusqu'à un certain degré*, *<u>rien n'indique spécialement que ce soit vers le partenaire de l'autre sexe que doive se diriger la jouissance</u>*,
+*un signifié d'un certain signifiant parfaitement évanouissant*, car pour ce qui est de définir ce qu'il en est
+
+*de l'homme ou de la femme*, ce que la psychanalyse nous montre, c'est très précisément que c'est *impossible* et que *jusqu'à un certain degré*, *<u>rien n'indique spécialement que ce soit vers le partenaire de l'autre sexe que doive se diriger la jouissance</u>*,
 
 <!-- id: s19b-01-0224 -->
 
@@ -960,15 +960,15 @@ En d'autres termes :
 
 <!-- id: s19b-01-0235 -->
 
-> C'est un thème bien connu. C'est l'actuel drapeau de l'Église catholique, en quoi il faut saluer son courage.
->
-> L'Église catholique affirme qu'il y a un rapport sexuel : c'est celui qui aboutit à faire de petits enfants.
->
-> C'est une affirmation qui est tout à fait tenable, simplement elle est indémontrable.
->
-> Aucun discours ne peut la soutenir, sauf le discours religieux, en tant qu'il définit la stricte séparation
->
-> qu'il y a entre *la vérité* et *le savoir*.
+C'est un thème bien connu. C'est l'actuel drapeau de l'Église catholique, en quoi il faut saluer son courage.
+
+L'Église catholique affirme qu'il y a un rapport sexuel : c'est celui qui aboutit à faire de petits enfants.
+
+C'est une affirmation qui est tout à fait tenable, simplement elle est indémontrable.
+
+Aucun discours ne peut la soutenir, sauf le discours religieux, en tant qu'il définit la stricte séparation
+
+qu'il y a entre *la vérité* et *le savoir*.
 
 <!-- id: s19b-01-0236 -->
 
@@ -996,7 +996,7 @@ Le *naturel*, c'est tout ce *qui s'habille de la livrée du savoir*\...
 
 <!-- id: s19b-01-0242 -->
 
-> et Dieu sait que ça ne manque pas \...et un discours qui est fait uniquement pour que le savoir fasse « [*livrée*](http://www.cnrtl.fr/definition/livr%C3%A9e) », c'est *le discours universitaire*.
+et Dieu sait que ça ne manque pas \...et un discours qui est fait uniquement pour que le savoir fasse « [*livrée*](http://www.cnrtl.fr/definition/livr%C3%A9e) », c'est *le discours universitaire*.
 
 <!-- id: s19b-01-0243 -->
 
@@ -1072,9 +1072,9 @@ La question est de savoir dans quelle mesure ce que la science\...
 
 <!-- id: s19b-01-0261 -->
 
-> la science à laquelle la psychanalyse, actuellement tout autant qu'au temps de Freud
->
-> ne peut rien faire de plus que faire cortège, \...ce que la science peut atteindre qui relève du terme de *réel.*
+la science à laquelle la psychanalyse, actuellement tout autant qu'au temps de Freud
+
+ne peut rien faire de plus que faire cortège, \...ce que la science peut atteindre qui relève du terme de *réel.*
 
 <!-- id: s19b-01-0262 -->
 
@@ -1102,7 +1102,7 @@ S'il y a quelque chose dont il prenait l'idée dans *les sphères éternelles*, 
 
 <!-- id: s19b-01-0268 -->
 
-> il faut du temps pour que ça passe \...ce sont *les sphères éthérées *: elles savent. C'est bien en quoi *le savoir* est associé dès l'origine à l'idée *du pouvoir*.
+il faut du temps pour que ça passe \...ce sont *les sphères éthérées *: elles savent. C'est bien en quoi *le savoir* est associé dès l'origine à l'idée *du pouvoir*.
 
 <!-- id: s19b-01-0269 -->
 
@@ -1110,9 +1110,9 @@ Et dans cette petite annonce qu'il y a au dos du gros paquet de mes *Écrits*, v
 
 <!-- id: s19b-01-0270 -->
 
-> parce que - pourquoi ne pas l'avouer - c'est moi qui l'ai écrite, cette petite note.
->
-> Qui d'autre que moi aurait pu le faire, on reconnaît mon style, ben c'est pas mal écrit ! \...*j'invoque les Lumières*.
+parce que - pourquoi ne pas l'avouer - c'est moi qui l'ai écrite, cette petite note.
+
+Qui d'autre que moi aurait pu le faire, on reconnaît mon style, ben c'est pas mal écrit ! \...*j'invoque les Lumières*.
 
 <!-- id: s19b-01-0271 -->
 
@@ -1132,7 +1132,7 @@ Seulement, on a bien le regret de devoir constater que ceux qui se sont employé
 
 <!-- id: s19b-01-0275 -->
 
-> je dois dire assez heureux et florissant \...de maîtres, les nobles de l'époque, pour qu'ils aient pu d'aucune façon aboutir à autre chose qu'à cette fameuse Révolution française qui a eu le résultat que vous savez, à savoir l'instauration d'une race de *maîtres* plus féroces que tout ce qu'on avait vu jusque là à l'œuvre.
+je dois dire assez heureux et florissant \...de maîtres, les nobles de l'époque, pour qu'ils aient pu d'aucune façon aboutir à autre chose qu'à cette fameuse Révolution française qui a eu le résultat que vous savez, à savoir l'instauration d'une race de *maîtres* plus féroces que tout ce qu'on avait vu jusque là à l'œuvre.
 
 <!-- id: s19b-01-0276 -->
 
@@ -1140,7 +1140,7 @@ Un savoir qui n'en peut mais, le savoir de l'*impuissance* voilà ce que le psyc
 
 <!-- id: s19b-01-0277 -->
 
-> dans une certaine perspective, une perspective que je ne qualifierai pas de progression \...voilà ce que le psychanalyste pourrait véhiculer.
+dans une certaine perspective, une perspective que je ne qualifierai pas de progression \...voilà ce que le psychanalyste pourrait véhiculer.
 
 <!-- id: s19b-01-0278 -->
 
@@ -1148,7 +1148,7 @@ Et pour vous donner le ton de la trace dans laquelle cette année j'espère pour
 
 <!-- id: s19b-01-0279 -->
 
-> pourléchez-vous les babines \...je vais vous donner le titre du séminaire que je vais donner, à la même place que l'année dernière, cela par la grâce de quelques personnes qui ont bien voulu s'employer à nous la préserver.
+pourléchez-vous les babines \...je vais vous donner le titre du séminaire que je vais donner, à la même place que l'année dernière, cela par la grâce de quelques personnes qui ont bien voulu s'employer à nous la préserver.
 
 <!-- id: s19b-01-0280 -->
 

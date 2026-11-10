@@ -22,7 +22,7 @@ Vous êtes un peu moins nombreux, c’est vrai...
 
 <!-- id: s21-07-0005 -->
 
-> ce qui d’ailleurs me permet de le faire ...mais enfin, je regrette de ne pas avoir eu cette occasion de m’exprimer d’une façon un peu plus fami­lière et directe. Voilà !
+ce qui d’ailleurs me permet de le faire ...mais enfin, je regrette de ne pas avoir eu cette occasion de m’exprimer d’une façon un peu plus fami­lière et directe. Voilà !
 
 <!-- id: s21-07-0006 -->
 
@@ -46,7 +46,7 @@ Il m’a posé des questions kantiennes en particulier, comme si tout le monde �
 
 <!-- id: s21-07-0011 -->
 
-> mais jus­qu’à un certain point c’est vrai, tout le monde est kantien ...de sorte que les questions qu’il m’a posées m’ont donné simplement occasion de répondre au niveau présumé « *Télévision* » par Jacques-Alain Miller.
+mais jus­qu’à un certain point c’est vrai, tout le monde est kantien ...de sorte que les questions qu’il m’a posées m’ont donné simplement occasion de répondre au niveau présumé « *Télévision* » par Jacques-Alain Miller.
 
 <!-- id: s21-07-0012 -->
 
@@ -62,11 +62,11 @@ Alors maintenant, je vais vous parler un peu, aujourd’hui, en essayant de rest
 
 <!-- id: s21-07-0015 -->
 
-> enfin, vous en ferez le titre que vous voudrez ...*dont la visée était* de vous dire la différence...
+enfin, vous en ferez le titre que vous voudrez ...*dont la visée était* de vous dire la différence...
 
 <!-- id: s21-07-0016 -->
 
-> c’est ça qui me paraît important dans ce que j’essaie de vous apporter cette année ...*de vous dire la différence qu’il y a entre le « vrai » et le « Réel ».*
+c’est ça qui me paraît important dans ce que j’essaie de vous apporter cette année ...*de vous dire la différence qu’il y a entre le « vrai » et le « Réel ».*
 
 <!-- id: s21-07-0017 -->
 
@@ -90,7 +90,7 @@ Vous faire sentir ceci, d’abord...
 
 <!-- id: s21-07-0022 -->
 
-> que j’ai déjà proféré, mais qui ne vous a pas forcément sauté aux yeux n’est-ce pas ...c’est que juste­ment je les prends sous seulement cet angle *qu’ils sont trois*, qu’ils sont trois et *également consistants*.
+que j’ai déjà proféré, mais qui ne vous a pas forcément sauté aux yeux n’est-ce pas ...c’est que juste­ment je les prends sous seulement cet angle *qu’ils sont trois*, qu’ils sont trois et *également consistants*.
 
 <!-- id: s21-07-0023 -->
 
@@ -162,19 +162,19 @@ Ce serait bien si quelqu’un arrivait à faire l’effort en somme de lire...
 
 <!-- id: s21-07-0040 -->
 
-> par exemple rien que ceci qui est le 2<sup>nd</sup> volume de cet *Organon* ...à lire ce qu’on appelle...
+par exemple rien que ceci qui est le 2<sup>nd</sup> volume de cet *Organon* ...à lire ce qu’on appelle...
 
 <!-- id: s21-07-0041 -->
 
-> qu’on appelle, c’est parce qu’on l’a *intitulé* comme ça, c’est aussi un titre qui est venu après coup ...on appelle ça *Les Premiers Analytiques -* arriver à le lire...
+qu’on appelle, c’est parce qu’on l’a *intitulé* comme ça, c’est aussi un titre qui est venu après coup ...on appelle ça *Les Premiers Analytiques -* arriver à le lire...
 
 <!-- id: s21-07-0042 -->
 
-> non pas bien sûr de première impression, parce que quelqu’un qui le lirait de pre­mière impression,
->
-> simplement, n’y comprendrait pas plus que ce que dans l’ensemble vous comprenez à ce que je raconte,
->
-> c’est-à-dire pas lourd ...la chose absolument qu’il faudrait qu’un jour quelqu’un arrive à faire, c’est justement à connaître assez bien la différence de ce que dit Aristote avec ce que nous ont transmis ceux qui ont ressassé le truc, à en voir assez bien la différence pour voir combien Aristote frayait et comment il frayait, et - pourquoi pas ? - même les endroits où il glissait, où il s’est tordu le pied, où... c’est un monde ! Ouais...
+non pas bien sûr de première impression, parce que quelqu’un qui le lirait de pre­mière impression,
+
+simplement, n’y comprendrait pas plus que ce que dans l’ensemble vous comprenez à ce que je raconte,
+
+c’est-à-dire pas lourd ...la chose absolument qu’il faudrait qu’un jour quelqu’un arrive à faire, c’est justement à connaître assez bien la différence de ce que dit Aristote avec ce que nous ont transmis ceux qui ont ressassé le truc, à en voir assez bien la différence pour voir combien Aristote frayait et comment il frayait, et - pourquoi pas ? - même les endroits où il glissait, où il s’est tordu le pied, où... c’est un monde ! Ouais...
 
 <!-- id: s21-07-0043 -->
 
@@ -186,7 +186,7 @@ Ou plutôt que ce que je rajoute, ce serait destiné à proposer tout au moins u
 
 <!-- id: s21-07-0045 -->
 
-> et dans Aristote, me semble-t-il, on peut le saisir ...à quel point c’est un frayage, et un frayage qui ne s’éclaire qu’à partir de ceci que j’ai énoncé juste à l’instant : que *la logique, c’est* proprement *la science du Réel.*
+et dans Aristote, me semble-t-il, on peut le saisir ...à quel point c’est un frayage, et un frayage qui ne s’éclaire qu’à partir de ceci que j’ai énoncé juste à l’instant : que *la logique, c’est* proprement *la science du Réel.*
 
 <!-- id: s21-07-0046 -->
 
@@ -250,7 +250,7 @@ C’est qu’en fin de compte...
 
 <!-- id: s21-07-0061 -->
 
-> je dis « *en fin de compte* » parce que ce n’est qu’un premier essai ...tout se passe comme s’il avait quelque chose comme un pressentiment du *nœud borroméen*.
+je dis « *en fin de compte* » parce que ce n’est qu’un premier essai ...tout se passe comme s’il avait quelque chose comme un pressentiment du *nœud borroméen*.
 
 <!-- id: s21-07-0062 -->
 
@@ -294,7 +294,7 @@ Naturellement, on s’y est employé, parce qu’on en est aussi embarrassé que
 
 <!-- id: s21-07-0072 -->
 
-> mais ce n’est pas sans raison d’être ...on en est embarrassé « *comme le poisson d’une pomme* ».
+mais ce n’est pas sans raison d’être ...on en est embarrassé « *comme le poisson d’une pomme* ».
 
 <!-- id: s21-07-0073 -->
 
@@ -318,9 +318,9 @@ Ce que nous indique *La Genèse* par l’offre d’Ève, ce n’est rien d’aut
 
 <!-- id: s21-07-0078 -->
 
-> il y a un flottement à ce moment-là : c’est la femme, mais comme je vous l’ai dit, la femme n’existe pas,
->
-> mais de même qu’Aristote vasouille un peu, on ne voit pas pourquoi la Genèse, quoique inspirée, en aurait fait moins ...et que *cette offre de la pomme* soit très exactement ce que je dis, à savoir qu’il n’y a pas de rapport entre l’homme et la femme, ceci qui s’incarne très manifestement du fait que - comme je l’ai souligné - « *La femme* » n’existe pas, la femme n’est *pas-toute*.
+il y a un flottement à ce moment-là : c’est la femme, mais comme je vous l’ai dit, la femme n’existe pas,
+
+mais de même qu’Aristote vasouille un peu, on ne voit pas pourquoi la Genèse, quoique inspirée, en aurait fait moins ...et que *cette offre de la pomme* soit très exactement ce que je dis, à savoir qu’il n’y a pas de rapport entre l’homme et la femme, ceci qui s’incarne très manifestement du fait que - comme je l’ai souligné - « *La femme* » n’existe pas, la femme n’est *pas-toute*.
 
 <!-- id: s21-07-0079 -->
 
@@ -344,11 +344,11 @@ Grâce au fait qu’il se fraye, qu’il fraye l’affaire de cette science que 
 
 <!-- id: s21-07-0084 -->
 
-> du *Réel*, c’est-à-dire du **3** ...du même coup il démontre qu’il n’arrive au **3** qu’en frayant les choses au moyen de *l’écrit*, à savoir que dès les premiers pas dans *le syllogisme*, c’est parce qu’il vide ces termes de tout sens en les transformant en *lettres*...
+du *Réel*, c’est-à-dire du **3** ...du même coup il démontre qu’il n’arrive au **3** qu’en frayant les choses au moyen de *l’écrit*, à savoir que dès les premiers pas dans *le syllogisme*, c’est parce qu’il vide ces termes de tout sens en les transformant en *lettres*...
 
 <!-- id: s21-07-0085 -->
 
-> c’est-à-dire en des choses qui par elles-mêmes ne veulent rien dire, ...c’est comme ça qu’il fait les premiers pas dans ce que j’ai appelé « *la science du Réel »*.
+c’est-à-dire en des choses qui par elles-mêmes ne veulent rien dire, ...c’est comme ça qu’il fait les premiers pas dans ce que j’ai appelé « *la science du Réel »*.
 
 <!-- id: s21-07-0086 -->
 
@@ -388,7 +388,7 @@ Par contre ce qui vous retient, ce qui vous agite...
 
 <!-- id: s21-07-0095 -->
 
-> et ce qui agitera sans doute de plus en plus ...c’est que *le dire vrai,* c’est tout autre chose.
+et ce qui agitera sans doute de plus en plus ...c’est que *le dire vrai,* c’est tout autre chose.
 
 <!-- id: s21-07-0096 -->
 
@@ -400,7 +400,7 @@ Par contre ce qui vous retient, ce qui vous agite...
 
 <!-- id: s21-07-0098 -->
 
-> *le trou que fera, que fait à jamais l’impossibilité d’<u>écrire</u> le rapport sexuel comme tel* ...*c’est là à quoi nous sommes réduits*, quant à ce qu’il est, ce rapport sexuel, de le réaliser quand même.
+*le trou que fera, que fait à jamais l’impossibilité d’<u>écrire</u> le rapport sexuel comme tel* ...*c’est là à quoi nous sommes réduits*, quant à ce qu’il est, ce rapport sexuel, de le réaliser quand même.
 
 <!-- id: s21-07-0099 -->
 
@@ -460,7 +460,7 @@ C’est tout à fait important parce que ça chan­ge complètement le sens de c
 
 <!-- id: s21-07-0113 -->
 
-> que je viens d’abord de poser comme distinct de toute *science du Réel* ...ça en change complètement le sens *parce que*, comme je viens de le dire, *pour une fois cette rainure n’est pas vide : il y passe quelque chose*.
+que je viens d’abord de poser comme distinct de toute *science du Réel* ...ça en change complètement le sens *parce que*, comme je viens de le dire, *pour une fois cette rainure n’est pas vide : il y passe quelque chose*.
 
 <!-- id: s21-07-0114 -->
 
@@ -468,7 +468,7 @@ Si certains d’entre vous se souviennent de ce que j’ai avancé, structu­ré
 
 <!-- id: s21-07-0115 -->
 
-> s’ils sont capables de lire quelque chose ...ils peuvent y lire que *la vérité* du maître, ça n’est rien d’autre que *le sujet*.
+s’ils sont capables de lire quelque chose ...ils peuvent y lire que *la vérité* du maître, ça n’est rien d’autre que *le sujet*.
 
 <!-- id: s21-07-0116 -->
 
@@ -516,7 +516,7 @@ Et ce que démontre *le discours analytique*, c’est que ce qui se passe quand 
 
 <!-- id: s21-07-0127 -->
 
-> sujets de quelque chose, du rapport sexuel ...quand à leur place il y a deux signifiants, eh bien *c’est ça* et c’est rien d’autre, *qui coule dans ce que j’ai appelé* *la rainure du dire vrai*.
+sujets de quelque chose, du rapport sexuel ...quand à leur place il y a deux signifiants, eh bien *c’est ça* et c’est rien d’autre, *qui coule dans ce que j’ai appelé* *la rainure du dire vrai*.
 
 <!-- id: s21-07-0128 -->
 
@@ -584,21 +584,25 @@ Il y aura tout de même quelque chose qui s’imprimera, c’est-à-dire non pas
 
 <!-- id: s21-07-0144 -->
 
-> parce que le **3** est toujours voilé par quelque côté, le **3** se dérobe, le **3** c’est le support ...il y aura **S<sub>2</sub>**, S *indice* 2, deux S, deux signifiants grand S qui s’imprimeront et qui donneront, selon la voie du pur hasard...
+parce que le **3** est toujours voilé par quelque côté, le **3** se dérobe, le **3** c’est le support ...il y aura **S<sub>2</sub>**, S *indice* 2, deux S, deux signifiants grand S qui s’imprimeront et qui donneront, selon la voie du pur hasard...
 
 <!-- id: s21-07-0145 -->
 
-> à savoir de ce qui, avant tout, clochait dans ces rap­ports
->
-> avec ceux qui étaient là pour présider à ce qu’on appelle son édu­cation, sa formation ...il se formera ce *savoir*...
+à savoir de ce qui, avant tout, clochait dans ces rap­ports
+
+avec ceux qui étaient là pour présider à ce qu’on appelle son édu­cation, sa formation ...il se formera ce *savoir*...
 
 <!-- id: s21-07-0146 -->
 
-> ce *savoir indélébile* et en même temps absolument pas *subjectivé* ...*il se formera ce savoir réel, là imprimé quelque part*, imprimé tout comme dans Aristote l’**α**, le **β** et le **γ**, *et c’est ça qui sera l’inconscient*, et *il n’aura rien d’autre*, comme disait le personnage qui passait à la douane, disant
+ce *savoir indélébile* et en même temps absolument pas *subjectivé* ...*il se formera ce savoir réel, là imprimé quelque part*, imprimé tout comme dans Aristote l’**α**, le **β** et le **γ**, *et c’est ça qui sera l’inconscient*, et *il n’aura rien d’autre*, comme disait le personnage qui passait à la douane, disant
 
 <!-- id: s21-07-0147 -->
 
-> « *Ça c’est la nourri­ture pour ma chèvre* »
+<div class="text-quotation">
+
+« *Ça c’est la nourri­ture pour ma chèvre* »
+
+</div>
 
 <!-- id: s21-07-0148 -->
 
@@ -606,7 +610,11 @@ Il y aura tout de même quelque chose qui s’imprimera, c’est-à-dire non pas
 
 <!-- id: s21-07-0149 -->
 
-> « *Écou­tez, c’est étonnant, parce que c’est des bretelles, enfin... !* »
+<div class="text-quotation">
+
+« *Écou­tez, c’est étonnant, parce que c’est des bretelles, enfin... !* »
+
+</div>
 
 <!-- id: s21-07-0150 -->
 
@@ -614,7 +622,11 @@ Il y aura tout de même quelque chose qui s’imprimera, c’est-à-dire non pas
 
 <!-- id: s21-07-0151 -->
 
-> « *Enfin, c’est comme ça, et si elle n’a pas ça, elle n’aura rien d’autre*... »,
+<div class="text-quotation">
+
+« *Enfin, c’est comme ça, et si elle n’a pas ça, elle n’aura rien d’autre*... »,
+
+</div>
 
 <!-- id: s21-07-0152 -->
 
@@ -662,15 +674,15 @@ Et qu’est-ce que ça veut *dire* ?
 
 <!-- id: s21-07-0163 -->
 
-> de ce quelque chose qui fait barrage à tout essai de déboucher sur le *rapport* proprement dit ...en le réanimant grâce à ce quelque chose qui est cette espèce de parasite, de meuble du corps, que le discours analytique désigne par *le phallus*, fait que ce qui faisait bouchon...
+de ce quelque chose qui fait barrage à tout essai de déboucher sur le *rapport* proprement dit ...en le réanimant grâce à ce quelque chose qui est cette espèce de parasite, de meuble du corps, que le discours analytique désigne par *le phallus*, fait que ce qui faisait bouchon...
 
 <!-- id: s21-07-0164 -->
 
-> qui est à proprement parler la jouissance, et la jouissance phallique comme telle ...ce qui faisait bouchon grâce à quelque chose que le discours arrive à obtenir, n’est-ce pas...
+qui est à proprement parler la jouissance, et la jouissance phallique comme telle ...ce qui faisait bouchon grâce à quelque chose que le discours arrive à obtenir, n’est-ce pas...
 
 <!-- id: s21-07-0165 -->
 
-> à savoir à le séparer dans l’*Imaginaire*, à faire cette castration symbolique ...per­met que quelque chose réussisse ou rate - rate le plus souvent - qui éta­blit au moins entre deux sujets *quelque chose qui ressemble au rap­port*, *quelque chose qui cesse de ne pas s’écrire* pour quelques cas rares et privilégiés.
+à savoir à le séparer dans l’*Imaginaire*, à faire cette castration symbolique ...per­met que quelque chose réussisse ou rate - rate le plus souvent - qui éta­blit au moins entre deux sujets *quelque chose qui ressemble au rap­port*, *quelque chose qui cesse de ne pas s’écrire* pour quelques cas rares et privilégiés.
 
 <!-- id: s21-07-0166 -->
 
@@ -698,7 +710,7 @@ Alors, parce que dans des cas le savoir inconscient est boiteux...
 
 <!-- id: s21-07-0172 -->
 
-> non seulement il est boiteux, mais il fait nettement obstacle à ce que le rapport sexuel s’établisse ...alors dans ces cas-là on a affaire à la nécessité de passer par *le discours analytique*, à savoir on a besoin du *dire vrai*, et sur­tout un peu de soupçonner quelles mauvaises fréquentations a *le dire vrai*.
+non seulement il est boiteux, mais il fait nettement obstacle à ce que le rapport sexuel s’établisse ...alors dans ces cas-là on a affaire à la nécessité de passer par *le discours analytique*, à savoir on a besoin du *dire vrai*, et sur­tout un peu de soupçonner quelles mauvaises fréquentations a *le dire vrai*.
 
 <!-- id: s21-07-0173 -->
 
@@ -706,7 +718,7 @@ Alors, parce que dans des cas le savoir inconscient est boiteux...
 
 <!-- id: s21-07-0174 -->
 
-> mon Dieu calme et tranquille, auquel normalement nous avons affaire, qui fonde la normale ...à savoir que ce qui vient troubler ces discours parfai­tement bien établis, ça ne sort jamais que des cas où on a besoin en somme d’*une psychanalyse*, c’est-à-dire *des cas de vérité*.
+mon Dieu calme et tranquille, auquel normalement nous avons affaire, qui fonde la normale ...à savoir que ce qui vient troubler ces discours parfai­tement bien établis, ça ne sort jamais que des cas où on a besoin en somme d’*une psychanalyse*, c’est-à-dire *des cas de vérité*.
 
 <!-- id: s21-07-0175 -->
 
@@ -718,7 +730,7 @@ Il est donc bien entendu...
 
 <!-- id: s21-07-0177 -->
 
-> je me livre là, comme ça à des remarques qui me semblent utiles à vous faire, pour que vous ne fassiez pas d’erreurs ...il est donc bien entendu que *le discours analytique* ne consiste pas du tout à faire rentrer ce qui ne va pas dans *le discours nor­mal*, dont je viens d’en désigner deux.
+je me livre là, comme ça à des remarques qui me semblent utiles à vous faire, pour que vous ne fassiez pas d’erreurs ...il est donc bien entendu que *le discours analytique* ne consiste pas du tout à faire rentrer ce qui ne va pas dans *le discours nor­mal*, dont je viens d’en désigner deux.
 
 <!-- id: s21-07-0178 -->
 
@@ -754,7 +766,7 @@ Ce qu’il y a de plein d’arêtes, je veux dire de stimulant, dans un discours
 
 <!-- id: s21-07-0186 -->
 
-> qui n’était sûrement pas un idiot, ni même un con ...ce qu’il y a de stupéfiant, c’est qu’il n’y a pas de texte où ce soit plus clair ce qu’on appelle « *suppositions »*.
+qui n’était sûrement pas un idiot, ni même un con ...ce qu’il y a de stupéfiant, c’est qu’il n’y a pas de texte où ce soit plus clair ce qu’on appelle « *suppositions »*.
 
 <!-- id: s21-07-0187 -->
 
@@ -762,7 +774,7 @@ Cette distinction que je viens de vous *articuler* aujourd’hui, entre le *dire
 
 <!-- id: s21-07-0188 -->
 
-> j’ai appelé ça comme ça, j’ai appelé ça comme j’ai pu ...le *dire vrai* il est là, c’est ce que j’essaye de faire : *la science du Réel*, c’est ce quelque chose qui est la logique, et qui aussi tient debout, qui tient debout pour ceux qui savent, bien sûr, s’y retrouver.
+j’ai appelé ça comme ça, j’ai appelé ça comme j’ai pu ...le *dire vrai* il est là, c’est ce que j’essaye de faire : *la science du Réel*, c’est ce quelque chose qui est la logique, et qui aussi tient debout, qui tient debout pour ceux qui savent, bien sûr, s’y retrouver.
 
 <!-- id: s21-07-0189 -->
 
@@ -770,11 +782,11 @@ La distinction est quelque part - je peux vous montrer où - quelque part dans l
 
 <!-- id: s21-07-0190 -->
 
-> *Non*, c’est au - si vous prenez le repérage sur les manuscrits - c’est vers la 7<sup>ème</sup> ligne de la page des manuscrits,
->
-> de ce qui est numé­roté par le 49a. Bon, le 37 c’est la division de la traduction.
->
-> Il s’agit des différentes espèces d’attribution, des expressions...
+*Non*, c’est au - si vous prenez le repérage sur les manuscrits - c’est vers la 7<sup>ème</sup> ligne de la page des manuscrits,
+
+de ce qui est numé­roté par le 49a. Bon, le 37 c’est la division de la traduction.
+
+Il s’agit des différentes espèces d’attribution, des expressions...
 
 <!-- id: s21-07-0191 -->
 
@@ -782,9 +794,13 @@ La distinction est quelque part - je peux vous montrer où - quelque part dans l
 
 <!-- id: s21-07-0192 -->
 
-> « *il faut aussi opérer l’échange des termes de valeur identique, mots pour mots, locutions pour locutions, mot et locution l’un pour l’autre,*
->
-> *et toujours préférer un mot à une locution pour faciliter ainsi l’exposition des termes*. » \[*Aristote, Organon* III, *Trad. Tricot, Vrin,* 2001, p. 181\]
+<div class="text-quotation">
+
+« *il faut aussi opérer l’échange des termes de valeur identique, mots pour mots, locutions pour locutions, mot et locution l’un pour l’autre,*
+
+*et toujours préférer un mot à une locution pour faciliter ainsi l’exposition des termes*. » \[*Aristote, Organon* III, *Trad. Tricot, Vrin,* 2001, p. 181\]
+
+</div>
 
 <!-- id: s21-07-0193 -->
 
@@ -796,11 +812,15 @@ Et alors à ce propos-là il dit quelque chose de vrai, mais, si je puis dire c�
 
 <!-- id: s21-07-0195 -->
 
-> « ...*l’objet de la supposition n’est pas le genre de l’objet de l’opinion,*
->
-> *et dire : l’objet de l’opinion n’est pas identique avec un certain objet de supposition (car le sens est le même dans les deux jugements),*
->
-> *au lieu de la locution énoncée, il vaut mieux poser comme termes*... »
+<div class="text-quotation">
+
+« ...*l’objet de la supposition n’est pas le genre de l’objet de l’opinion,*
+
+*et dire : l’objet de l’opinion n’est pas identique avec un certain objet de supposition (car le sens est le même dans les deux jugements),*
+
+*au lieu de la locution énoncée, il vaut mieux poser comme termes*... »
+
+</div>
 
 <!-- id: s21-07-0196 -->
 
@@ -828,7 +848,7 @@ L’opinion vraie, c’est justement là-des­sus que se casse la tête Platon d
 
 <!-- id: s21-07-0202 -->
 
-> jusqu’à ce que ça *vous tombe sur la tête*, naturellement ...qu’il n’y a pas de rapport sexuel.
+jusqu’à ce que ça *vous tombe sur la tête*, naturellement ...qu’il n’y a pas de rapport sexuel.
 
 <!-- id: s21-07-0203 -->
 
@@ -860,7 +880,7 @@ L’important serait peut-être d’en rester à ce que seule permet d’affirme
 
 <!-- id: s21-07-0210 -->
 
-> d’un quart de pas, d’un bout de nez de pas, hein ...que *par l’écrit*. Ce qui est quand même quelque chose.
+d’un quart de pas, d’un bout de nez de pas, hein ...que *par l’écrit*. Ce qui est quand même quelque chose.
 
 <!-- id: s21-07-0211 -->
 
@@ -888,7 +908,7 @@ Le fait que le caractère fallacieux de la surface est démontré par ceci : qu
 
 <!-- id: s21-07-0217 -->
 
-> depuis quelque temps, enfin je pense... ...*le sigle* de ce qu’il en est du nœud borroméen, à savoir *le joint où les trois ronds, ça se noue ensemble*.
+depuis quelque temps, enfin je pense... ...*le sigle* de ce qu’il en est du nœud borroméen, à savoir *le joint où les trois ronds, ça se noue ensemble*.
 
 <!-- id: s21-07-0218 -->
 
@@ -916,7 +936,7 @@ Je voudrais tout de même vous faire remarquer qu’il y a des points dans les �
 
 <!-- id: s21-07-0224 -->
 
-> il y en a d’autres, il y a des points de « *La logique »*, il y a des points de l’« *Organon »* ...où nous voyons tout d’un coup qu’Aristote lui-même - qui savait rudement bien ce qu’il faisait - n’est pas sans achopper.
+il y en a d’autres, il y a des points de « *La logique »*, il y a des points de l’« *Organon »* ...où nous voyons tout d’un coup qu’Aristote lui-même - qui savait rudement bien ce qu’il faisait - n’est pas sans achopper.
 
 <!-- id: s21-07-0225 -->
 
@@ -928,7 +948,7 @@ Il y a une histoire par là...
 
 <!-- id: s21-07-0227 -->
 
-> il faudra que je vous retrouve ça, je vais vous le retrouver tout de suite au 68a, page des manuscrits toujours ...il y a quelque chose d’*inouï*. \[Aristote : Organon III : Les premiers analytiques. Trad. Tricot, Vrin 2001, 68a, pp. 310-311.\]
+il faudra que je vous retrouve ça, je vais vous le retrouver tout de suite au 68a, page des manuscrits toujours ...il y a quelque chose d’*inouï*. \[Aristote : Organon III : Les premiers analytiques. Trad. Tricot, Vrin 2001, 68a, pp. 310-311.\]
 
 <!-- id: s21-07-0228 -->
 
@@ -964,7 +984,7 @@ Quoi qu’il en soit dans ce chapitre, ce tout petit chapitre qui est bien instr
 
 <!-- id: s21-07-0236 -->
 
-> et par cette progression qui consiste à ce que d*’« êtres universels »* bien définis, il passe à « *tous les êtres »* ...il est très singulier que ce soit à propos de ça, que sorte, que sorte mais comme une irruption, le passage suivant \[*mp3* : 1h34’18’’\] :
+et par cette progression qui consiste à ce que d*’« êtres universels »* bien définis, il passe à « *tous les êtres »* ...il est très singulier que ce soit à propos de ça, que sorte, que sorte mais comme une irruption, le passage suivant \[*mp3* : 1h34’18’’\] :
 
 <!-- id: s21-07-0237 -->
 
@@ -980,7 +1000,7 @@ C’est pas « *préférer à »* - hein ! - c’est A, le A écrit ...*savoi
 
 <!-- id: s21-07-0240 -->
 
-> C’est donc : *non « sun einai »*. Pour appeler ça par leur nom : « *il ne couche pas avec lui* »
+C’est donc : *non « sun einai »*. Pour appeler ça par leur nom : « *il ne couche pas avec lui* »
 
 <!-- id: s21-07-0241 -->
 
@@ -1020,7 +1040,7 @@ Il s’agit pour lui de démontrer ceci...
 
 <!-- id: s21-07-0250 -->
 
-> après ce passage concernant toute *la conversion*, et tout à fait spécialement *la conversion des prédicats qui concernent tout être* ...il s’agit que si on part de ceci - n’est-ce pas ? - que la conjonction de cet A avec ce Γ \[A- Γ \]... c’est-à-dire être aimé par le partenaire \[A\], partenaire qui ne vous accorde pas ses faveurs \[Γ\] ...si on pose que ceci est préférable à la combinaison contraire \[Δ- B\], n’est-ce pas, à savoir : qu’il vous accorde ses faveurs \[Δ\] sans vous aimer pour autant \[B\], ...il démontre que si on pose ceci - c’est l’objet de sa démonstration - il en résulte que la fin de l’amour : A, c’est quelque chose, si on la pose ici, n’est-ce pas, il en résulte - ce qui semble en effet, inévitable à admettre - *que le* συν εἶναι \[sun einai\] *vaut moins que le* χαρίζεσθαι \[karisesthai \], à savoir *cette bonne disposition* qui témoigne *d’être aimé.*
+après ce passage concernant toute *la conversion*, et tout à fait spécialement *la conversion des prédicats qui concernent tout être* ...il s’agit que si on part de ceci - n’est-ce pas ? - que la conjonction de cet A avec ce Γ \[A- Γ \]... c’est-à-dire être aimé par le partenaire \[A\], partenaire qui ne vous accorde pas ses faveurs \[Γ\] ...si on pose que ceci est préférable à la combinaison contraire \[Δ- B\], n’est-ce pas, à savoir : qu’il vous accorde ses faveurs \[Δ\] sans vous aimer pour autant \[B\], ...il démontre que si on pose ceci - c’est l’objet de sa démonstration - il en résulte que la fin de l’amour : A, c’est quelque chose, si on la pose ici, n’est-ce pas, il en résulte - ce qui semble en effet, inévitable à admettre - *que le* συν εἶναι \[sun einai\] *vaut moins que le* χαρίζεσθαι \[karisesthai \], à savoir *cette bonne disposition* qui témoigne *d’être aimé.*
 
 <!-- id: s21-07-0251 -->
 
@@ -1032,15 +1052,15 @@ Le surgissement, à cet endroit...
 
 <!-- id: s21-07-0253 -->
 
-> et d’une façon qui est d’autant plus problématique qu’elle est absolument caractéristique de *l’amour en tant qu’homosexuel* ...est une chose tout à fait frappante, concernant si je puis dire *l’irruption*...
+et d’une façon qui est d’autant plus problématique qu’elle est absolument caractéristique de *l’amour en tant qu’homosexuel* ...est une chose tout à fait frappante, concernant si je puis dire *l’irruption*...
 
 <!-- id: s21-07-0254 -->
 
-> au milieu de ce que j’ai défini comme étant ici articulé comme *la science du Réel* ...comme *l’irruption* en un certain point...
+au milieu de ce que j’ai défini comme étant ici articulé comme *la science du Réel* ...comme *l’irruption* en un certain point...
 
 <!-- id: s21-07-0255 -->
 
-> un point qui, je vous le répète, est au 68b auquel je vous prie de vous reporter dans les *Premiers Analytiques* ...*une chose qui est vraiment l’irruption du vrai*, et d’un *vrai* qui est justement un *vrai* dont il n’y a, en fin de compte, que l’approche.
+un point qui, je vous le répète, est au 68b auquel je vous prie de vous reporter dans les *Premiers Analytiques* ...*une chose qui est vraiment l’irruption du vrai*, et d’un *vrai* qui est justement un *vrai* dont il n’y a, en fin de compte, que l’approche.
 
 <!-- id: s21-07-0256 -->
 
@@ -1056,11 +1076,11 @@ J’annonce, si je puis dire le thème de mon *prochain séminaire  *: pour ce 
 
 <!-- id: s21-07-0259 -->
 
-> et d’abord quand je dis L’homme, je l’écris avec un grand L, à savoir qu’il y a un « *tout-homme »* ...pour L’homme, l’amour...
+et d’abord quand je dis L’homme, je l’écris avec un grand L, à savoir qu’il y a un « *tout-homme »* ...pour L’homme, l’amour...
 
 <!-- id: s21-07-0260 -->
 
-> j’entends, ce qui s’accroche, ce qui se situe dans la catégorie de l’*Imaginaire...pour L’homme, l’amour ça va sans dire. L’amour ça va sans dire parce qu’il lui suffit de sa jouissan­ce*, \[*cf. début de « Encore »* \] et c’est d’ailleurs très exactement pour ça qu’il n’y comprend *rien*.
+j’entends, ce qui s’accroche, ce qui se situe dans la catégorie de l’*Imaginaire...pour L’homme, l’amour ça va sans dire. L’amour ça va sans dire parce qu’il lui suffit de sa jouissan­ce*, \[*cf. début de « Encore »* \] et c’est d’ailleurs très exactement pour ça qu’il n’y comprend *rien*.
 
 <!-- id: s21-07-0261 -->
 
@@ -1076,7 +1096,7 @@ Si pour L’homme *ça va sans dire,* parce que *la jouissance* couvre tout, y c
 
 <!-- id: s21-07-0264 -->
 
-> c’est là-dessus que je terminerai aujourd’hui ...*la jouissance de la femme*, elle, *ne va pas sans dire*, c’est-à-dire sans le *dire* de la vérité.
+c’est là-dessus que je terminerai aujourd’hui ...*la jouissance de la femme*, elle, *ne va pas sans dire*, c’est-à-dire sans le *dire* de la vérité.
 
 ## Notes
 

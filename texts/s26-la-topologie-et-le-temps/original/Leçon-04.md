@@ -14,7 +14,7 @@ Qu’est-ce qui y supplée, parce que il est clair que les gens...
 
 <!-- id: s26-04-0003 -->
 
-> ce qu’on appelle tel, soit les êtres humains ...les gens font l’amour.
+ce qu’on appelle tel, soit les êtres humains ...les gens font l’amour.
 
 <!-- id: s26-04-0004 -->
 
@@ -22,7 +22,7 @@ Il y a à ça une explication : la possibilité...
 
 <!-- id: s26-04-0005 -->
 
-> notons que « *le possible* », c’est ce que nous avons défini comme « *ce qui cesse de s’écrire* » ...la possibilité d’un 3<sup>ème</sup> sexe.
+notons que « *le possible* », c’est ce que nous avons défini comme « *ce qui cesse de s’écrire* » ...la possibilité d’un 3<sup>ème</sup> sexe.
 
 <!-- id: s26-04-0006 -->
 
@@ -122,7 +122,7 @@ La différence, c’est que celui-ci (II) colle avec celui-là (III)
 
 <!-- id: s26-04-0030 -->
 
-> II III et que celui-ci (V) se tresse comme celui-là (IV) :
+II III et que celui-ci (V) se tresse comme celui-là (IV) :
 
 <!-- id: s26-04-0031 -->
 

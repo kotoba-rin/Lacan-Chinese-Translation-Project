@@ -50,9 +50,9 @@ Des structures…
 
 <!-- id: s13-23-0012 -->
 
-> comme celles qui ont été abordées au cours du séminaire, abordées et mises en place au cours du séminaire de cette année, en particulier celles concernant *la relation de* *l’objet(a)* avec *le champ du sco­pique*,
->
-> la fonction de l’écran …de telles structures peuvent difficilement ne pas être rencontrées en cours du travail psychanalytique et ceci, par exemple, chez FREUD lui-même et dans un moment tout à fait culminant justement de son tra­vail psychanalytique, puisqu’il s’agissait de sa propre analyse.
+comme celles qui ont été abordées au cours du séminaire, abordées et mises en place au cours du séminaire de cette année, en particulier celles concernant *la relation de* *l’objet(a)* avec *le champ du sco­pique*,
+
+la fonction de l’écran …de telles structures peuvent difficilement ne pas être rencontrées en cours du travail psychanalytique et ceci, par exemple, chez FREUD lui-même et dans un moment tout à fait culminant justement de son tra­vail psychanalytique, puisqu’il s’agissait de sa propre analyse.
 
 <!-- id: s13-23-0013 -->
 
@@ -160,7 +160,7 @@ Je ne veux pas dire seulement le fait qu’il s’agit par exemple d’un parall
 
 <!-- id: s13-23-0039 -->
 
-> je veux dire enfin d’une surface donc inclinée, le fait de cette distribu­tion, de cette maison qui est là située en haut, au loin des enfants qui sont là en bas et ensuite du mouvement qui va porter les enfants *vers cette maison de pay­san* …mais également le fait par exemple, si saillant lui-même, si surprenant lui–même que dans ces associations, eh bien, ces associations vont conduire FREUD à évoquer cette exposition de tableaux humoristiques du *Pop’Art* déjà à cette époque, où certaines parties, au lieu d’être peintes, se trouvaient là rapportées en relief, en trois dimensions.
+je veux dire enfin d’une surface donc inclinée, le fait de cette distribu­tion, de cette maison qui est là située en haut, au loin des enfants qui sont là en bas et ensuite du mouvement qui va porter les enfants *vers cette maison de pay­san* …mais également le fait par exemple, si saillant lui-même, si surprenant lui–même que dans ces associations, eh bien, ces associations vont conduire FREUD à évoquer cette exposition de tableaux humoristiques du *Pop’Art* déjà à cette époque, où certaines parties, au lieu d’être peintes, se trouvaient là rapportées en relief, en trois dimensions.
 
 <!-- id: s13-23-0040 -->
 
@@ -184,7 +184,7 @@ Il faut bien sûr remarquer que les *Löwenzahn* ne peuvent pas être quelque ch
 
 <!-- id: s13-23-0045 -->
 
-> je veux dire l’évocation ici du *lion denté*, pour FREUD, en tant que ce texte concerne, tourne autour de problèmes concernant la terre natale, le lieu, ce qui serait le lieu de la naissance …ne peuvent manquer de nous paraître ici, en tout cas haute­ment significatifs et revenir en tout cas en quelque sorte appuyer notre suppo­sition, notre proposition, quant à leur fonction, quant à leur place éventuelle d’*objet(a).*
+je veux dire l’évocation ici du *lion denté*, pour FREUD, en tant que ce texte concerne, tourne autour de problèmes concernant la terre natale, le lieu, ce qui serait le lieu de la naissance …ne peuvent manquer de nous paraître ici, en tout cas haute­ment significatifs et revenir en tout cas en quelque sorte appuyer notre suppo­sition, notre proposition, quant à leur fonction, quant à leur place éventuelle d’*objet(a).*
 
 <!-- id: s13-23-0046 -->
 
@@ -208,7 +208,7 @@ Et puis il veut évoquer ce nom, l’auteur des fresques d’Orvieto, des choses
 
 <!-- id: s13-23-0051 -->
 
-> et quelque chose qui d’ailleurs assez bizarrement a été *laissé tomber dans la* [*Psychopathologie de la vie quotidienne*](http://classiques.uqac.ca/classiques/freud_sigmund/psychopathologie_vie_quotid/Psychopahtologie.pdf), lorsque FREUD y reprend ce même souvenir …il se produit pour FREUD quelque chose de très curieux, c’est qu’il ne se souvient pas du nom de SIGNORELLI, mais il voit des fresques et avec une vivacité particulière, de manière tout à fait *über*… Il voit le peintre tel qu’il s’est figuré lui-même dans un coin du tableau avec des détails, avec son visage particulièrement sérieux, ses mains croisées, et à côté du peintre, à côté de SIGNORELLI, il voit là également, la représentation de celui qui était son prédécesseur dans la réalisation de ces fresques, c’est-à-dire FRA ANGELICO de Fiesole dont le nom ne semble en rien à ce moment-là lui échapper.
+et quelque chose qui d’ailleurs assez bizarrement a été *laissé tomber dans la* [*Psychopathologie de la vie quotidienne*](http://classiques.uqac.ca/classiques/freud_sigmund/psychopathologie_vie_quotid/Psychopahtologie.pdf), lorsque FREUD y reprend ce même souvenir …il se produit pour FREUD quelque chose de très curieux, c’est qu’il ne se souvient pas du nom de SIGNORELLI, mais il voit des fresques et avec une vivacité particulière, de manière tout à fait *über*… Il voit le peintre tel qu’il s’est figuré lui-même dans un coin du tableau avec des détails, avec son visage particulièrement sérieux, ses mains croisées, et à côté du peintre, à côté de SIGNORELLI, il voit là également, la représentation de celui qui était son prédécesseur dans la réalisation de ces fresques, c’est-à-dire FRA ANGELICO de Fiesole dont le nom ne semble en rien à ce moment-là lui échapper.
 
 <!-- id: s13-23-0052 -->
 
@@ -268,19 +268,19 @@ VALABREGA
 
 <!-- id: s13-23-0066 -->
 
-C’est-à-dire que dans ce texte cela introduit *quelque chose* qui est tout à fait autre que ce qui a été apporté par MELMAN, et on pourrait dire que du point de vue diagnostic, on a l’impression que c’est tout à fait autre chose, dans le souvenir de l’Acropole que… LACAN
+C’est-à-dire que dans ce texte cela introduit *quelque chose* qui est tout à fait autre que ce qui a été apporté par MELMAN, et on pourrait dire que du point de vue diagnostic, on a l’impression que c’est tout à fait autre chose, dans le souvenir de l’Acropole que…
 
 <!-- id: s13-23-0067 -->
 
-Parlez plus fort Bon Dieu ! Parce que c’est tout de même… c’est très intéressant ce que vous dites et tout le monde… personne n’entend.
+LACAN — Parlez plus fort Bon Dieu ! Parce que c’est tout de même… c’est très intéressant ce que vous dites et tout le monde… personne n’entend.
 
 <!-- id: s13-23-0068 -->
 
-VALABREGA - Ce qui n’est pas le cas dans le texte de l886-l889, c’est enco­re quelque chose… LACAN
+VALABREGA - Ce qui n’est pas le cas dans le texte de l886-l889, c’est enco­re quelque chose…
 
 <!-- id: s13-23-0069 -->
 
-Mais discutez-le ! Comment pouvez-vous soutenir que le terme d’*aliénation* est présent à propos de *ce souvenir de l’Acropole* et nommé­ment pour traduire *Entfremdung*. Je veux bien que vous le souteniez mais expli­quez pourquoi.
+LACAN — Mais discutez-le ! Comment pouvez-vous soutenir que le terme d’*aliénation* est présent à propos de *ce souvenir de l’Acropole* et nommé­ment pour traduire *Entfremdung*. Je veux bien que vous le souteniez mais expli­quez pourquoi.
 
 <!-- id: s13-23-0070 -->
 
@@ -296,11 +296,11 @@ Un instant, je vous en prie : comment concevez-vous le concept hégélien dans 
 
 <!-- id: s13-23-0073 -->
 
-VALABREGA - Je ne sais comment, il faudrait même… LACAN
+VALABREGA - Je ne sais comment, il faudrait même…
 
 <!-- id: s13-23-0074 -->
 
-Que *Entfremdung* puisse correspondre à quelque chose comme la dépersonnalisation, passe encore, ou le sentiment du sosie ou quelque chose que nous… c’est noté dans le texte comme une impression, enfin *c’est une notation phénoménologique*, l’*aliénation* n’est pas… n’a rien à faire avec ça dans HEGEL puisque vous invoquez - vous, pas moi - HEGEL.
+LACAN — Que *Entfremdung* puisse correspondre à quelque chose comme la dépersonnalisation, passe encore, ou le sentiment du sosie ou quelque chose que nous… c’est noté dans le texte comme une impression, enfin *c’est une notation phénoménologique*, l’*aliénation* n’est pas… n’a rien à faire avec ça dans HEGEL puisque vous invoquez - vous, pas moi - HEGEL.
 
 <!-- id: s13-23-0075 -->
 
@@ -352,11 +352,11 @@ VALABREGA
 
 <!-- id: s13-23-0087 -->
 
-*Pourquoi* l’utilise-t-il ? C’est ça le problème, c’est un pro­blème *terminologique*, moi je ne sais pas, je n’ai pas recherché… LACAN
+*Pourquoi* l’utilise-t-il ? C’est ça le problème, c’est un pro­blème *terminologique*, moi je ne sais pas, je n’ai pas recherché…
 
 <!-- id: s13-23-0088 -->
 
-Ce n’est pas parce que nous nous trouvons devant un emploi d’*Entfremdung* qu’on trouve également dans HEGEL que nous allons nous mettre, comme ça, à sauter à pieds joints et à dire que la signification que FREUD implique dans ce terme d’*Entfremdung* est une signification hégélienne justement là. Et puis écoutez, dès qu’on parle d’aliénation, tout de même, on sait où on en est, on sait ce qu’on évoque, on sait ce que ça intéresse. Alors si c’est là simplement pour ouvrir une question sans le moindre centimètre qui aille plus loin, je ne demande pas mieux que cela rebondisse mais je veux que vous vous en expliquiez.
+LACAN — Ce n’est pas parce que nous nous trouvons devant un emploi d’*Entfremdung* qu’on trouve également dans HEGEL que nous allons nous mettre, comme ça, à sauter à pieds joints et à dire que la signification que FREUD implique dans ce terme d’*Entfremdung* est une signification hégélienne justement là. Et puis écoutez, dès qu’on parle d’aliénation, tout de même, on sait où on en est, on sait ce qu’on évoque, on sait ce que ça intéresse. Alors si c’est là simplement pour ouvrir une question sans le moindre centimètre qui aille plus loin, je ne demande pas mieux que cela rebondisse mais je veux que vous vous en expliquiez.
 
 <!-- id: s13-23-0089 -->
 
@@ -376,11 +376,11 @@ Je n’ai pas le texte sous les yeux, mais on peut remarquer qu’en français �
 
 <!-- id: s13-23-0093 -->
 
-LACAN \[à Stein\] - Je vais vous donner la parole, je vous demande pardon de… GREEN
+LACAN \[à Stein\] - Je vais vous donner la parole, je vous demande pardon de…
 
 <!-- id: s13-23-0094 -->
 
-Deux choses. Une concernant la remarque de VALABREGA, l’autre l’exposé de MELMAN. La première, je pense que sans introduire le contexte d’aliénation, on est quand même obligé ici à partir de ce terme, de penser que FREUD veut dire et en dehors du mot dont il est question par rapport au contex­te qu’il vit : « *Ce n’est pas moi qui suis ici, c’est un autre, ce n’est pas moi*… », ça, c’est dit en toutes lettres dans le texte. Alors voici concernant le point soulevé par VALABREGA.
+GREEN — Deux choses. Une concernant la remarque de VALABREGA, l’autre l’exposé de MELMAN. La première, je pense que sans introduire le contexte d’aliénation, on est quand même obligé ici à partir de ce terme, de penser que FREUD veut dire et en dehors du mot dont il est question par rapport au contex­te qu’il vit : « *Ce n’est pas moi qui suis ici, c’est un autre, ce n’est pas moi*… », ça, c’est dit en toutes lettres dans le texte. Alors voici concernant le point soulevé par VALABREGA.
 
 <!-- id: s13-23-0095 -->
 
@@ -488,9 +488,9 @@ Parce que l’analyse…
 
 <!-- id: s13-23-0121 -->
 
-> j’ai pu faire une analyse poussée une fois que quelque chose du mécanisme de l’oubli qui pouvait, qui jouait un rôle très important dans une analyse et qui en particulier englobait et
->
-> se situait précisément aussi là sur les fleurs, parmi toutes ces choses …alors cette analyse a montré qu’en dehors de la substitution définie par FREUD, en 98-99, il existe, ceci renvoie à des substitutions qu’on pourrait dire formelles et il apparaît nettement que cela ren­voie à des substitutions intrinsèques, c’est-à-dire qu’il y a d’autres mots derriè­re les mots ou les noms particulièrement oubliés et retrouvés, ou non, par les mécanismes de substitution. Il y a une substitution intrinsèque qui a substitué ces mots-là, par exemple les noms des fleurs à d’autres. Par conséquent, la sub­stitution ici est vraiment un écran.
+j’ai pu faire une analyse poussée une fois que quelque chose du mécanisme de l’oubli qui pouvait, qui jouait un rôle très important dans une analyse et qui en particulier englobait et
+
+se situait précisément aussi là sur les fleurs, parmi toutes ces choses …alors cette analyse a montré qu’en dehors de la substitution définie par FREUD, en 98-99, il existe, ceci renvoie à des substitutions qu’on pourrait dire formelles et il apparaît nettement que cela ren­voie à des substitutions intrinsèques, c’est-à-dire qu’il y a d’autres mots derriè­re les mots ou les noms particulièrement oubliés et retrouvés, ou non, par les mécanismes de substitution. Il y a une substitution intrinsèque qui a substitué ces mots-là, par exemple les noms des fleurs à d’autres. Par conséquent, la sub­stitution ici est vraiment un écran.
 
 <!-- id: s13-23-0122 -->
 
@@ -726,7 +726,7 @@ L’important n’est pas là. L’important est ceci : est-ce que… comment p
 
 <!-- id: s13-23-0180 -->
 
-> d’une certaine façon, de couleurs qui peu­vent de ce seul fait faire passer pour être les miennes …quel usage peut-on faire de ce discours pour en somme le faire rentrer dans une certaine façon de conce­voir la situation analytique qui est absolument étrangère à ce discours ?
+d’une certaine façon, de couleurs qui peu­vent de ce seul fait faire passer pour être les miennes …quel usage peut-on faire de ce discours pour en somme le faire rentrer dans une certaine façon de conce­voir la situation analytique qui est absolument étrangère à ce discours ?
 
 <!-- id: s13-23-0181 -->
 
@@ -738,7 +738,11 @@ Je mets simplement en question ce problème de l’utilisa­tion possible de mon
 
 <!-- id: s13-23-0183 -->
 
-> « *Ça parle et ça écoute* - écriviez-vous page 239 - *en la séance.* »
+<div class="text-quotation">
+
+« *Ça parle et ça écoute* - écriviez-vous page 239 - *en la séance.* »
+
+</div>
 
 <!-- id: s13-23-0184 -->
 
@@ -754,17 +758,21 @@ La page 240, par exemple, je lis ceci, après un bref rappel de certaines simila
 
 <!-- id: s13-23-0187 -->
 
-> ce qui, entre nous, ne permet pas du tout pour autant d’aller jusqu’au point où vos collègues FAIN et DAVID vont, de faire du discours du sujet dans la séance, quelque chose d’analogue au rêve. Car *le rêve*, *l’endormissement*
->
-> et *le sommeil,* ne sont pas des états analogues. Mais passons ce n’est pas sur le fond que je place la chose …je veux simplement vous faire remarquer que cet appareil psychique :
+ce qui, entre nous, ne permet pas du tout pour autant d’aller jusqu’au point où vos collègues FAIN et DAVID vont, de faire du discours du sujet dans la séance, quelque chose d’analogue au rêve. Car *le rêve*, *l’endormissement*
+
+et *le sommeil,* ne sont pas des états analogues. Mais passons ce n’est pas sur le fond que je place la chose …je veux simplement vous faire remarquer que cet appareil psychique :
 
 <!-- id: s13-23-0188 -->
 
-> « …*qui abo­lit les limites entre le monde intérieur et le monde extérieur, aussi bien du côté du patient que du côté de l’analyste,*
->
-> *qui de ce fait, tendent à être fondus tous deux en un. En terme plus précis* - écrivez-vous toujours - *leurs images tendent*
->
-> *à l’association par contiguïté qui caractérise le processus primaire*… ».
+<div class="text-quotation">
+
+« …*qui abo­lit les limites entre le monde intérieur et le monde extérieur, aussi bien du côté du patient que du côté de l’analyste,*
+
+*qui de ce fait, tendent à être fondus tous deux en un. En terme plus précis* - écrivez-vous toujours - *leurs images tendent*
+
+*à l’association par contiguïté qui caractérise le processus primaire*… ».
+
+</div>
 
 <!-- id: s13-23-0189 -->
 
@@ -772,7 +780,11 @@ Donc vous posez d’abord que les deux sujets, n’est-ce pas, tendent à être 
 
 <!-- id: s13-23-0190 -->
 
-> « …*de même que dans le rêve, le monde entier est à l’intérieur du rêveur, en cet UN le monde entier est contenu*… et voici votre raison : …*car on ne saurait concevoir la fusion de deux êtres finis en un seul être fini*. »
+<div class="text-quotation">
+
+« …*de même que dans le rêve, le monde entier est à l’intérieur du rêveur, en cet UN le monde entier est contenu*… et voici votre raison : …*car on ne saurait concevoir la fusion de deux êtres finis en un seul être fini*. »
+
+</div>
 
 <!-- id: s13-23-0191 -->
 
@@ -800,11 +812,11 @@ Seulement, comme c’est la seule chose qui justifie votre texte à cette date, 
 
 <!-- id: s13-23-0197 -->
 
-> et là, au nom même de cette espèce d’usage propédeutique : on demande de faire des choses …vous pensez « *sphère* » et c’est vrai qu’en un certain sens, comme je vous l’ai fait remarquer, simplement à propos du cercle, on peut penser *topologiquement* la sphère comme enveloppant ce qui est à l’exté­rieur de même qu’on peut dire, n’est-ce pas…
+et là, au nom même de cette espèce d’usage propédeutique : on demande de faire des choses …vous pensez « *sphère* » et c’est vrai qu’en un certain sens, comme je vous l’ai fait remarquer, simplement à propos du cercle, on peut penser *topologiquement* la sphère comme enveloppant ce qui est à l’exté­rieur de même qu’on peut dire, n’est-ce pas…
 
 <!-- id: s13-23-0198 -->
 
-> puisqu’il suffit simplement de placer cette sphère quelque part, dans un quatrième plan …même si vous placez un cercle sur la sphère, en fait vous délimitez deux zones de la sphère qui sont également à l’intérieur du cercle. Prenez le globe terrestre, faites un large X , si vous le faites à l’équateur : où est l’extérieur, où est l’intérieur ?
+puisqu’il suffit simplement de placer cette sphère quelque part, dans un quatrième plan …même si vous placez un cercle sur la sphère, en fait vous délimitez deux zones de la sphère qui sont également à l’intérieur du cercle. Prenez le globe terrestre, faites un large X , si vous le faites à l’équateur : où est l’extérieur, où est l’intérieur ?
 
 <!-- id: s13-23-0199 -->
 
@@ -812,11 +824,11 @@ Ils sont équivalents, vous avez compris.
 
 <!-- id: s13-23-0200 -->
 
-STEIN … LACAN
+STEIN …
 
 <!-- id: s13-23-0201 -->
 
-Justement, mon cher, c’est de ça qu’il s’agit. À partir du moment où vous pensez les choses ainsi, il n’y a pas du tout passage, mais équi­valence. Vous posez l’équivalence de ce qui est à l’intérieur et de ce qui est à l’ex­térieur, et c’est pourquoi à partir de là s’il y en a un autre qui est ici, la même équivalence étant posée, ces deux êtres finis en effet, eux ne peuvent se fondre :
+LACAN — Justement, mon cher, c’est de ça qu’il s’agit. À partir du moment où vous pensez les choses ainsi, il n’y a pas du tout passage, mais équi­valence. Vous posez l’équivalence de ce qui est à l’intérieur et de ce qui est à l’ex­térieur, et c’est pourquoi à partir de là s’il y en a un autre qui est ici, la même équivalence étant posée, ces deux êtres finis en effet, eux ne peuvent se fondre :
 
 <!-- id: s13-23-0202 -->
 
@@ -836,11 +848,11 @@ STEIN
 
 <!-- id: s13-23-0206 -->
 
-Je vous en supplie, non, je pense que ce dont il est question là dans mon esprit ce n’est pas de *l’équivalence entre l’intérieur et l’extérieur* mais l’uni­té qui résulte de l’abolition de la limite, par conséquent, si on voulait faire une figuration de sphère… LACAN
+Je vous en supplie, non, je pense que ce dont il est question là dans mon esprit ce n’est pas de *l’équivalence entre l’intérieur et l’extérieur* mais l’uni­té qui résulte de l’abolition de la limite, par conséquent, si on voulait faire une figuration de sphère…
 
 <!-- id: s13-23-0207 -->
 
-En d’autres termes ce que nous avons dit, c’est qu’il ne subsiste aucune limite. Je ne vais pas… c’est à vous en effet d’en décider. Cette absence de toute référence par conséquent, je ne vois pas comment vous pouvez la faire subsister avec quoi que ce soit, enfin, qui soit compatible par exemple avec la poursuite d’un discours. À l’intérieur d’un tout, cette absence totale de référence, n’est-ce pas, c’est un crédit que je vous fais, de penser qu’il reste enco­re quelque part une structure, un appareil.
+LACAN — En d’autres termes ce que nous avons dit, c’est qu’il ne subsiste aucune limite. Je ne vais pas… c’est à vous en effet d’en décider. Cette absence de toute référence par conséquent, je ne vois pas comment vous pouvez la faire subsister avec quoi que ce soit, enfin, qui soit compatible par exemple avec la poursuite d’un discours. À l’intérieur d’un tout, cette absence totale de référence, n’est-ce pas, c’est un crédit que je vous fais, de penser qu’il reste enco­re quelque part une structure, un appareil.
 
 <!-- id: s13-23-0208 -->
 
@@ -860,7 +872,7 @@ Ce que je voudrais, c’est simplement faire remarquer que l’accent que j’ai
 
 <!-- id: s13-23-0212 -->
 
-> que je n’ai d’ailleurs pour autant nullement *identifié* à l’Autre dans cette occasion n’est-ce pas ? …ça devrait quand même vous inspirer une certai­ne prudence pour utiliser ce registre des rapports du « *ça parle* » au « *ça écoute* » dans une voie qui est très particulière et que je veux essayer de définir.
+que je n’ai d’ailleurs pour autant nullement *identifié* à l’Autre dans cette occasion n’est-ce pas ? …ça devrait quand même vous inspirer une certai­ne prudence pour utiliser ce registre des rapports du « *ça parle* » au « *ça écoute* » dans une voie qui est très particulière et que je veux essayer de définir.
 
 <!-- id: s13-23-0213 -->
 
@@ -900,9 +912,9 @@ Ce qui permet de s’exprimer ainsi, c’est qu’il existe des techniques, des 
 
 <!-- id: s13-23-0222 -->
 
-> qui n’est pas une remontée dans le champ temporel du monde qu’il a parcouru, de son passé,
->
-> mais une remontée, si l’on peut dire, à ce que j’appellerai un état indifférencié de l’être …et qu’il y a pour ça des techniques, il y a une sorte, une façon d’articuler, de manipuler le rapport du sujet à sa propre conscience pour qu’il ait le senti­ment d’arriver ainsi à dépasser quelque chose des limites du monde.
+qui n’est pas une remontée dans le champ temporel du monde qu’il a parcouru, de son passé,
+
+mais une remontée, si l’on peut dire, à ce que j’appellerai un état indifférencié de l’être …et qu’il y a pour ça des techniques, il y a une sorte, une façon d’articuler, de manipuler le rapport du sujet à sa propre conscience pour qu’il ait le senti­ment d’arriver ainsi à dépasser quelque chose des limites du monde.
 
 <!-- id: s13-23-0223 -->
 
@@ -914,9 +926,13 @@ Mais ce que nous cherchons - mon cher, quand même - il ne faut tout de même pa
 
 <!-- id: s13-23-0225 -->
 
-> « *Quand l’homme cherchant le vide de la pensée s’avance dans la lueur sans ombres de l’espace imaginaire,*
->
-> *en s’abstenant même d’attendre ce qui va en surgir, un miroir sans éclat lui montre une surface où ne se reflète rien.* » \[*Écrits* p.188\]
+<div class="text-quotation">
+
+« *Quand l’homme cherchant le vide de la pensée s’avance dans la lueur sans ombres de l’espace imaginaire,*
+
+*en s’abstenant même d’attendre ce qui va en surgir, un miroir sans éclat lui montre une surface où ne se reflète rien.* » \[*Écrits* p.188\]
+
+</div>
 
 <!-- id: s13-23-0226 -->
 
@@ -944,7 +960,7 @@ Il y a donc une confusion tout à fait radicale à faire intervenir comme élém
 
 <!-- id: s13-23-0232 -->
 
-> qui est toujours, et de plus en plus, armaturée de la découverte que vous alliez faire …la façon dont l’incidence chez un sujet qui est en proie aux conséquences de sa position de désir que sont pour nous les symptômes des différentes formes de structures subjectives auxquelles nous avons affaire et qui sont des *structures* que nous *objectivons*. Ce qui nous différencie de n’importe quelle autre objectivation scientifique, c’est que pour l’*objectiver*, nous sommes forcés, nous et notre désir, de nous mettre dedans.
+qui est toujours, et de plus en plus, armaturée de la découverte que vous alliez faire …la façon dont l’incidence chez un sujet qui est en proie aux conséquences de sa position de désir que sont pour nous les symptômes des différentes formes de structures subjectives auxquelles nous avons affaire et qui sont des *structures* que nous *objectivons*. Ce qui nous différencie de n’importe quelle autre objectivation scientifique, c’est que pour l’*objectiver*, nous sommes forcés, nous et notre désir, de nous mettre dedans.
 
 <!-- id: s13-23-0233 -->
 
@@ -956,7 +972,7 @@ Vous voyez à quel point nous sommes loin de quoique ce soit qui se place dans c
 
 <!-- id: s13-23-0235 -->
 
-> que vous l’appeliez de régression ou de n’importe quoi d’autre, d’expansion …qui noie toutes les arti­culations, qui à proprement parler nous fait passer dans une visée, dans un champ ouvert qui est absolument étranger à celui que nous avons à parcourir. C’est dans la manipulation, c’est dans la mise en jeu de ces ressorts du désir, en tant que nous les connaissons, que nous obtenons les résultats thérapeutiques et pour ce faire nous n’avons pas absolument besoin de savoir ce que j’en dis.
+que vous l’appeliez de régression ou de n’importe quoi d’autre, d’expansion …qui noie toutes les arti­culations, qui à proprement parler nous fait passer dans une visée, dans un champ ouvert qui est absolument étranger à celui que nous avons à parcourir. C’est dans la manipulation, c’est dans la mise en jeu de ces ressorts du désir, en tant que nous les connaissons, que nous obtenons les résultats thérapeutiques et pour ce faire nous n’avons pas absolument besoin de savoir ce que j’en dis.
 
 <!-- id: s13-23-0236 -->
 
@@ -1000,7 +1016,7 @@ Quant à *ce narcissisme pri­maire* il y a en effet quelque chose que nous pouv
 
 <!-- id: s13-23-0246 -->
 
-> si vous voulez, juste pour aujourd’hui, ça m’est venu comme ça, en prenant mes notes ce matin …le narcissisme dévoilé. Je peux dire en effet que sous le *narcissisme primaire*, il y a à dévoiler la fonction de *l’objet(a)*, mais rien d’autre qui permette de conjuguer d’aucune façon le narcissisme primaire au sens où c’est usité couramment dans la théorie analytique, et l’auto-érotisme du narcissisme primaire.
+si vous voulez, juste pour aujourd’hui, ça m’est venu comme ça, en prenant mes notes ce matin …le narcissisme dévoilé. Je peux dire en effet que sous le *narcissisme primaire*, il y a à dévoiler la fonction de *l’objet(a)*, mais rien d’autre qui permette de conjuguer d’aucune façon le narcissisme primaire au sens où c’est usité couramment dans la théorie analytique, et l’auto-érotisme du narcissisme primaire.
 
 <!-- id: s13-23-0247 -->
 
@@ -1028,7 +1044,7 @@ Que tout ceci soit en quelque sorte commandé par ce rapport d’*aversion* du s
 
 <!-- id: s13-23-0253 -->
 
-> qu’il a littéralement à conquérir par l’exploitation de tout ce qui l’en défend, de tout ce qui l’en sépare …c’est ce que vous faites surgir, en effet, à un moment quand vous parlez de cette angoisse tout d’un coup intolérable qui l’agite devant l’imminence de ce qui pourrait, dans ce que vous dites, être à la place de ce que j’exprime concernant la jouis­sance.
+qu’il a littéralement à conquérir par l’exploitation de tout ce qui l’en défend, de tout ce qui l’en sépare …c’est ce que vous faites surgir, en effet, à un moment quand vous parlez de cette angoisse tout d’un coup intolérable qui l’agite devant l’imminence de ce qui pourrait, dans ce que vous dites, être à la place de ce que j’exprime concernant la jouis­sance.
 
 <!-- id: s13-23-0254 -->
 
@@ -1152,11 +1168,11 @@ STEIN
 
 <!-- id: s13-23-0284 -->
 
-Je ne crois pas qu’il s’agit de me défendre mais pour répondre, donc vous me prêtez malgré tout l’idée, vous en convenez aussi, que je n’ai pas précisé que cette régression pourrait s’accomplir mais ce que l’ordonnance même de la situation analytique, telle qu’elle est proposée par le psychanalyste induit chez le patient, c’est justement *le mythe du paradis perdu* en tant que mythe justement, tout tourne autour de là. Moi je ne dis pas qu’on atteint le paradis pendant la séance d’analyse, mais qu’on se sent, qu’on se sent appelé à l’atteindre et que le mouvement d’angoisse vient justement marquer l’arrêt dans cette affaire. L’avantage… LACAN
+Je ne crois pas qu’il s’agit de me défendre mais pour répondre, donc vous me prêtez malgré tout l’idée, vous en convenez aussi, que je n’ai pas précisé que cette régression pourrait s’accomplir mais ce que l’ordonnance même de la situation analytique, telle qu’elle est proposée par le psychanalyste induit chez le patient, c’est justement *le mythe du paradis perdu* en tant que mythe justement, tout tourne autour de là. Moi je ne dis pas qu’on atteint le paradis pendant la séance d’analyse, mais qu’on se sent, qu’on se sent appelé à l’atteindre et que le mouvement d’angoisse vient justement marquer l’arrêt dans cette affaire. L’avantage…
 
 <!-- id: s13-23-0285 -->
 
-Je prends là-dessus position. Je suis radicalement opposé à ce que nous puissions considérer comme sain de faire fonctionner d’aucune façon dans notre théorie, *a fortior*i dans notre pratique, un mythe quelconque de cet ordre.
+LACAN — Je prends là-dessus position. Je suis radicalement opposé à ce que nous puissions considérer comme sain de faire fonctionner d’aucune façon dans notre théorie, *a fortior*i dans notre pratique, un mythe quelconque de cet ordre.
 
 <!-- id: s13-23-0286 -->
 
@@ -1224,11 +1240,11 @@ LACAN
 
 <!-- id: s13-23-0302 -->
 
-À la seule condition d’avoir une quatrième dimension, vous pouvez retourner la sphère comme un gant sauf si elle est… STEIN
+À la seule condition d’avoir une quatrième dimension, vous pouvez retourner la sphère comme un gant sauf si elle est…
 
 <!-- id: s13-23-0303 -->
 
-Sans quatrième, si nous avons deux êtres comme ceci, n’est-ce pas, là je vous pose la question, mais je suppose que sans passer par aucune quatrième dimension on ne peut superposer leurs deux surfaces.
+STEIN — Sans quatrième, si nous avons deux êtres comme ceci, n’est-ce pas, là je vous pose la question, mais je suppose que sans passer par aucune quatrième dimension on ne peut superposer leurs deux surfaces.
 
 <!-- id: s13-23-0304 -->
 

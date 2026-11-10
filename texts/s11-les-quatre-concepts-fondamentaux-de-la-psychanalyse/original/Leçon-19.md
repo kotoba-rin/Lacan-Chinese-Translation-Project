@@ -130,8 +130,8 @@ Car toute cette *préparation*, concernant *Les fondements de l’analyse*, doit
 
 <!-- id: s11-19-0025 -->
 
-> et à ce qui se ferait facilement entendre, et à ce qui rejoindrait après tout *l’expérience analytique la plus commune*
-> …je dirais là : *Positions subjec­tives de l’existence*, avec toutes *les faveurs que ce terme peut trouver d’être déjà ambiant dans l’air*.
+et à ce qui se ferait facilement entendre, et à ce qui rejoindrait après tout *l’expérience analytique la plus commune*
+…je dirais là : *Positions subjec­tives de l’existence*, avec toutes *les faveurs que ce terme peut trouver d’être déjà ambiant dans l’air*.
 
 <!-- id: s11-19-0026 -->
 
@@ -170,9 +170,9 @@ Or, je ne sais pas si vous l’avez remarqué...
 
 <!-- id: s11-19-0032 -->
 
-> *vous le sauriez beaucoup mieux si j’avais pu faire cette année ce que je me destinais à faire sur les Noms-du-Père*
-> ...je ne sais pas si vous avez remarqué que Le Seigneur au nom imprononçable est précisément celui qui veille à l’enfantement
-> \- *de qui ?* - *des femmes bréhaignes* \[stériles\] *et des hommes hors d’âge*. Le caractère fondamentalement *transbiologique* - si j’ose m’exprimer ainsi - de la paternité introduite par *l’ordre de la tradition du* *destin du Peuple Élu*, a quelque chose qui là, est justement ce qui est, si je puis dire, originellement refoulé, et qui ressurgit toujours dans cette sorte d’ambiguïté qui est celle de *la boiterie, de l’achoppement et du symp­tôme*, de la δυστυχία \[dustuchia\], de la *non-rencontre,* avec le sens qui demeure caché.
+*vous le sauriez beaucoup mieux si j’avais pu faire cette année ce que je me destinais à faire sur les Noms-du-Père*
+...je ne sais pas si vous avez remarqué que Le Seigneur au nom imprononçable est précisément celui qui veille à l’enfantement
+\- *de qui ?* - *des femmes bréhaignes* \[stériles\] *et des hommes hors d’âge*. Le caractère fondamentalement *transbiologique* - si j’ose m’exprimer ainsi - de la paternité introduite par *l’ordre de la tradition du* *destin du Peuple Élu*, a quelque chose qui là, est justement ce qui est, si je puis dire, originellement refoulé, et qui ressurgit toujours dans cette sorte d’ambiguïté qui est celle de *la boiterie, de l’achoppement et du symp­tôme*, de la δυστυχία \[dustuchia\], de la *non-rencontre,* avec le sens qui demeure caché.
 
 <!-- id: s11-19-0033 -->
 
@@ -576,8 +576,8 @@ Mais quand même, si vous lisez un bon analyste, un analyste du bon cru, un Thé
 
 <!-- id: s11-19-0108 -->
 
-> dont je n’approuve pas à vrai dire la formule : *comme si on n’en avait pas déjà assez de deux pour être sourd*
-> …cette *troisième oreille*, il l’indique, lui aussi, c’est à je ne sais quelle *voix* qui lui parle pour lui désigner - selon bien sûr une dialectique encore demeurée primitive, il est de la bonne époque, de l’époque héroïque où l’on savait entendre - ce qui parle derrière la tromperie du patient. Et avec quoi l’entend-il ? Avec toujours, nous dit-il, *une voix* qui l’avertit.
+dont je n’approuve pas à vrai dire la formule : *comme si on n’en avait pas déjà assez de deux pour être sourd*
+…cette *troisième oreille*, il l’indique, lui aussi, c’est à je ne sais quelle *voix* qui lui parle pour lui désigner - selon bien sûr une dialectique encore demeurée primitive, il est de la bonne époque, de l’époque héroïque où l’on savait entendre - ce qui parle derrière la tromperie du patient. Et avec quoi l’entend-il ? Avec toujours, nous dit-il, *une voix* qui l’avertit.
 
 <!-- id: s11-19-0109 -->
 
@@ -624,10 +624,10 @@ Mais oui, bien sûr, il y a plus à dire, *naturellement*. Il y a infiniment à 
 
 <!-- id: s11-19-0119 -->
 
-> on peut toujours contester, bien sûr, naturellement, le propre de l’his­toire étant que,
->
-> si on n’a pas de fil conducteur, il faut construire les choses n’importe comment
-> …mais quel que soit le contestable de ses appuis ou même de ses cheminements, il reste que d’introduire, au cœur de l’histoire juive, la distinction radicale, d’ailleurs absolument évidente, de la tradition prophétique par rapport à un autre message, c’est tout à fait porter au cœur - comme il en avait conscience, comme il l’écrit, il l’ar­ticule de toutes les façons - de mettre au cœur de la fonction si on peut dire, la collusion à *la vérité* comme absolument essentielle à notre opération, en tant qu’analyste. Et justement nous ne pouvons nous y fier, nous y consacrer que dans la mesure où nous nous détournons de toute collusion avec *la vérité*.
+on peut toujours contester, bien sûr, naturellement, le propre de l’his­toire étant que,
+
+si on n’a pas de fil conducteur, il faut construire les choses n’importe comment
+…mais quel que soit le contestable de ses appuis ou même de ses cheminements, il reste que d’introduire, au cœur de l’histoire juive, la distinction radicale, d’ailleurs absolument évidente, de la tradition prophétique par rapport à un autre message, c’est tout à fait porter au cœur - comme il en avait conscience, comme il l’écrit, il l’ar­ticule de toutes les façons - de mettre au cœur de la fonction si on peut dire, la collusion à *la vérité* comme absolument essentielle à notre opération, en tant qu’analyste. Et justement nous ne pouvons nous y fier, nous y consacrer que dans la mesure où nous nous détournons de toute collusion avec *la vérité*.
 
 <!-- id: s11-19-0120 -->
 

@@ -66,7 +66,11 @@ Ce n’est pas sans surprise - ce n’est pas non plus sans malice - que nous po
 
 <!-- id: s9-08-0016 -->
 
-> « *Il y a plus, et non pas moins, dans l’idée d’un objet conçu comme n’existant pas que dans l’idée de ce même objet conçu comme existant, car l’idée de l’objet n’existant pas est nécessairement l’idée de l’objet existant, avec en plus la représentation d’une exclusion de cet objet, par la réalité actuelle prise en bloc* »[^65].
+<div class="text-quotation">
+
+« *Il y a plus, et non pas moins, dans l’idée d’un objet conçu comme n’existant pas que dans l’idée de ce même objet conçu comme existant, car l’idée de l’objet n’existant pas est nécessairement l’idée de l’objet existant, avec en plus la représentation d’une exclusion de cet objet, par la réalité actuelle prise en bloc* »[^65].
+
+</div>
 
 <!-- id: s9-08-0017 -->
 
@@ -110,7 +114,7 @@ Vous touchez aussitôt du doigt qu’il ne veut rien dire d’autre que « *j�
 
 <!-- id: s9-08-0027 -->
 
-> à la vérité, je ne la crois pas soutenable jusqu’à son terme descriptif. Phénoménologiquement elle repose sur l’idée, pour nous inadmissible, qu’on puisse en quelque sorte fragmenter les mouve­ments de la pensée, néanmoins vous avez cette conscience linguistique qui vous permet tout de suite d’apprécier l’originalité du cas où vous avez seulement, où vous pouvez dans l’usage actuel de la langue - cela n’a pas toujours été ainsi : dans les temps archaïques, la forme que je vais maintenant formuler devant vous était la plus commune. Dans toutes les langues, une évolution se marque, comme d’un glissement, que les linguistes essaient de caractériser, des formes de la néga­tion. Le sens dans lequel *ce glissement* s’exerce, j’en dirai peut-être tout à l’heure la ligne générale, elle s’exprime sous la plume des spécialistes mais pour l’ins­tant prenons le simple exemple de ce qui s’offre à nous …tout simplement dans la distinction entre deux formules également admissibles, également reçues, égale­ment *expressives*, également communes : celle du « *je ne sais* » avec « *j’sais pas* ».
+à la vérité, je ne la crois pas soutenable jusqu’à son terme descriptif. Phénoménologiquement elle repose sur l’idée, pour nous inadmissible, qu’on puisse en quelque sorte fragmenter les mouve­ments de la pensée, néanmoins vous avez cette conscience linguistique qui vous permet tout de suite d’apprécier l’originalité du cas où vous avez seulement, où vous pouvez dans l’usage actuel de la langue - cela n’a pas toujours été ainsi : dans les temps archaïques, la forme que je vais maintenant formuler devant vous était la plus commune. Dans toutes les langues, une évolution se marque, comme d’un glissement, que les linguistes essaient de caractériser, des formes de la néga­tion. Le sens dans lequel *ce glissement* s’exerce, j’en dirai peut-être tout à l’heure la ligne générale, elle s’exprime sous la plume des spécialistes mais pour l’ins­tant prenons le simple exemple de ce qui s’offre à nous …tout simplement dans la distinction entre deux formules également admissibles, également reçues, égale­ment *expressives*, également communes : celle du « *je ne sais* » avec « *j’sais pas* ».
 
 <!-- id: s9-08-0028 -->
 
@@ -366,7 +370,7 @@ Quand on regarde les choses historiquement, on s’aperçoit que cette distincti
 
 <!-- id: s9-08-0091 -->
 
-> c’est au contraire l’énoncé aristotélicien de la logique formelle qui est reproduit, d’une façon abré­gée, mais non sans période didactique, et l’auteur n’est ni plus ni moins qu’[APULÉE](http://gallica.bnf.fr/ark:/12148/bpt6k524415.capture), l’auteur d’un traité sur PLATON ...se trouve avoir ici une singulière fonction historique, à savoir d’avoir introduit une catégorisation, celle de *la quantité* et de *la qualité* \[...\].
+c’est au contraire l’énoncé aristotélicien de la logique formelle qui est reproduit, d’une façon abré­gée, mais non sans période didactique, et l’auteur n’est ni plus ni moins qu’[APULÉE](http://gallica.bnf.fr/ark:/12148/bpt6k524415.capture), l’auteur d’un traité sur PLATON ...se trouve avoir ici une singulière fonction historique, à savoir d’avoir introduit une catégorisation, celle de *la quantité* et de *la qualité* \[...\].
 
 <!-- id: s9-08-0092 -->
 

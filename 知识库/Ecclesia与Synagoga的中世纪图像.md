@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班VIII
-  - 领域/艺术史
+  - 领域/文学艺术与文化/视觉艺术
   - 传统/基督教
   - 概念/犹太会堂形象
 verified_at: 2026-07-28

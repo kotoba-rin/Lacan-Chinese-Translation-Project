@@ -10,6 +10,8 @@
 
 <!-- id: s14-10-0002 -->
 
+### LACAN
+
 Il est midi et demie et je vous remercie d’être ve­nus si nombreux aujourd’hui, alors que nous sommes - comme personne ne l’ignore plus - un jour de grève. Je vous en remercie d’autant plus que j’ai aussi - auprès de certains - à m’en excuser, puisque c’est sur l’annonce que j’ai faite - jusqu’à un jour et une heure récente - que je ferai au­jourd’hui ce qu’on appelle mon *séminaire*, que certainement une partie des personnes qui sont ici, y sont.
 
 <!-- id: s14-10-0003 -->
@@ -22,7 +24,7 @@ Sur une logique…
 
 <!-- id: s14-10-0005 -->
 
-> *qui n’est pas une logique, qui est une logique totalement inédite*, une logi­que après tout à laquelle je n’ai pas encore donné, je n’ai pas voulu donner, avant qu’elle ne soit instaurée, *sa dénomination*. J’en tiens une, qui me semble valable, par devers moi, encore m’est-il apparu convenable d’atten­dre de lui avoir donné un suffisant développement, pour lui donner sa désignation *…*sur une logique dont le départ curieux se fait de ce choix aliénant, qui vous est offert d’un « *je ne pense pas* » à un « *je ne suis pas* », on peut tout de même se demander quelle est la place - du fait que nous sommes ici - pour quelque chose qui pourrait bien s’appeler un « *nous pensons !* ». Déjà ça nous mènerait loin, puisque ce « *nous* » - sûrement vous le sentez - dans les chemins où je m’avance, qui sont ceux de l’Autre barré \[A\], pose une ques­tion.
+*qui n’est pas une logique, qui est une logique totalement inédite*, une logi­que après tout à laquelle je n’ai pas encore donné, je n’ai pas voulu donner, avant qu’elle ne soit instaurée, *sa dénomination*. J’en tiens une, qui me semble valable, par devers moi, encore m’est-il apparu convenable d’atten­dre de lui avoir donné un suffisant développement, pour lui donner sa désignation *…*sur une logique dont le départ curieux se fait de ce choix aliénant, qui vous est offert d’un « *je ne pense pas* » à un « *je ne suis pas* », on peut tout de même se demander quelle est la place - du fait que nous sommes ici - pour quelque chose qui pourrait bien s’appeler un « *nous pensons !* ». Déjà ça nous mènerait loin, puisque ce « *nous* » - sûrement vous le sentez - dans les chemins où je m’avance, qui sont ceux de l’Autre barré \[A\], pose une ques­tion.
 
 <!-- id: s14-10-0006 -->
 
@@ -34,7 +36,7 @@ Mais aujourd’hui, je me limiterai à ceci : c’est que, comme tout homme qui 
 
 <!-- id: s14-10-0008 -->
 
-> de l’ordre existant, c’est toujours le seul auquel on ait à se rapporter …c’est la grève ! Or cette grève étant suivie - je l’ai appris malheureusement un petit peu tard - *par l’ensemble de la Fonction publique*, je n’ai pas l’intention d’y faire exception. \[Rires\]
+de l’ordre existant, c’est toujours le seul auquel on ait à se rapporter …c’est la grève ! Or cette grève étant suivie - je l’ai appris malheureusement un petit peu tard - *par l’ensemble de la Fonction publique*, je n’ai pas l’intention d’y faire exception. \[Rires\]
 
 <!-- id: s14-10-0009 -->
 
@@ -42,7 +44,7 @@ C’est pourquoi je ne ferai pas aujourd’hui la le­çon à laquelle vous pouv
 
 <!-- id: s14-10-0010 -->
 
-> celle qui peut-être m’a rendu aveugle, *un petit peu plus tard qu’il ne fallait*, au fait qu’il était mieux que je ne fasse pas ma leçon …qui est la chose suivante, à savoir la présence parmi nous aujourd’hui, du Professeur Roman JAKOBSON, auquel vous savez tous quelle est notre dette, eu égard à ce qui se poursuit ici comme enseignement.
+celle qui peut-être m’a rendu aveugle, *un petit peu plus tard qu’il ne fallait*, au fait qu’il était mieux que je ne fasse pas ma leçon …qui est la chose suivante, à savoir la présence parmi nous aujourd’hui, du Professeur Roman JAKOBSON, auquel vous savez tous quelle est notre dette, eu égard à ce qui se poursuit ici comme enseignement.
 
 <!-- id: s14-10-0011 -->
 
@@ -106,7 +108,7 @@ J’ai voulu le symboliser, le marquer, en quelque sorte d’une image éclatant
 
 <!-- id: s14-10-0026 -->
 
-> en tant qu’il marque la limite statutai­re où la maturité du sujet s’instaurerait quelque part dans le *développement*, est représenté, si vous le voulez bien, pour tous ceux qui auront vu ce quelque chose - et je pense qu’il y en aura suffisamment dans l’assemblée pour que ma parole porte, que les autres se renseignent - pour ceux qui ont lu ou vu au cinéma
+en tant qu’il marque la limite statutai­re où la maturité du sujet s’instaurerait quelque part dans le *développement*, est représenté, si vous le voulez bien, pour tous ceux qui auront vu ce quelque chose - et je pense qu’il y en aura suffisamment dans l’assemblée pour que ma parole porte, que les autres se renseignent - pour ceux qui ont lu ou vu au cinéma
 
 <!-- id: s14-10-0027 -->
 
@@ -114,7 +116,7 @@ J’ai voulu le symboliser, le marquer, en quelque sorte d’une image éclatant
 
 <!-- id: s14-10-0028 -->
 
-> de la formation d’un individu mais tout spécialement d’un enfant …les éducateurs feraient mieux de s’enquérir quelles sont les meilleures voies qui lui permettent de se situer comme étant, de par son existence même, la proie des fan­tasmes de ses petits camarades, avant de chercher à s’a­percevoir à quelle *étape*, à quel *stade*, il sera capable de considérer que le « *je* » et le « *tu* » sont réciproques.
+de la formation d’un individu mais tout spécialement d’un enfant …les éducateurs feraient mieux de s’enquérir quelles sont les meilleures voies qui lui permettent de se situer comme étant, de par son existence même, la proie des fan­tasmes de ses petits camarades, avant de chercher à s’a­percevoir à quelle *étape*, à quel *stade*, il sera capable de considérer que le « *je* » et le « *tu* » sont réciproques.
 
 <!-- id: s14-10-0029 -->
 
@@ -158,7 +160,7 @@ La pensée de FREUD a pour nous son importance de ce que nous constatons qu’il
 
 <!-- id: s14-10-0039 -->
 
-> et de façon en quelque sorte d’autant plus déchirante, que ces traces sont déchirées …de quel objet il s’agit, et de nous ramener à ceci, à ceci qui est ce dont il s’agit, à savoir qu’il s’agit de ne pas le méconnaître.
+et de façon en quelque sorte d’autant plus déchirante, que ces traces sont déchirées …de quel objet il s’agit, et de nous ramener à ceci, à ceci qui est ce dont il s’agit, à savoir qu’il s’agit de ne pas le méconnaître.
 
 <!-- id: s14-10-0040 -->
 
@@ -234,9 +236,9 @@ Car nous avons à le clore *d’une clôture lo­gique*, c’est ce qui est notr
 
 <!-- id: s14-10-0058 -->
 
-> mais je vous donne ma parole que je ne la lui ai même pas, en venant en voiture, laissé entrevoir.
->
-> Ce n’est pas qu’elle me vienne maintenant, mais c’est maintenant qu’il me vient de la lui poser …*je lui demanderais* si lui, dont l’ensei­gnement sur le langage a pour nous de telles conséquences, s’il pense lui aussi que *cet enseignement* est de nature à exiger un changement de position radical au niveau de ce qui constitue disons le sujet chez ceux qui le suivent.
+mais je vous donne ma parole que je ne la lui ai même pas, en venant en voiture, laissé entrevoir.
+
+Ce n’est pas qu’elle me vienne maintenant, mais c’est maintenant qu’il me vient de la lui poser …*je lui demanderais* si lui, dont l’ensei­gnement sur le langage a pour nous de telles conséquences, s’il pense lui aussi que *cet enseignement* est de nature à exiger un changement de position radical au niveau de ce qui constitue disons le sujet chez ceux qui le suivent.
 
 <!-- id: s14-10-0059 -->
 
@@ -244,11 +246,11 @@ Je lui poserai aussi la question de savoir - mais c’est une question très *[a
 
 <!-- id: s14-10-0060 -->
 
-> je ne veux pas employer de grands mots et je me garde de mots qui peuvent suggérer l’ambi­guïté qui s’attache au mot
->
-> « ascèse », voire aux mots qui traînent dans les romans de science-fiction… de « *muta­tion* » \[Lacan ponctue d’un rire\]
->
-> certes nous n’en sommes pas à ces balivernes ! …il s’agit du sujet logique et de ce qu’il comporte, de ce qu’il comporte de discipline de pensée chez ceux qui, à cette position, sont, par leur pensée, introduits.
+je ne veux pas employer de grands mots et je me garde de mots qui peuvent suggérer l’ambi­guïté qui s’attache au mot
+
+« ascèse », voire aux mots qui traînent dans les romans de science-fiction… de « *muta­tion* » \[Lacan ponctue d’un rire\]
+
+certes nous n’en sommes pas à ces balivernes ! …il s’agit du sujet logique et de ce qu’il comporte, de ce qu’il comporte de discipline de pensée chez ceux qui, à cette position, sont, par leur pensée, introduits.
 
 <!-- id: s14-10-0061 -->
 
@@ -256,23 +258,31 @@ Est-ce que si les choses, pour lui - pour le Professeur JAKOBSON - dans les cons
 
 <!-- id: s14-10-0062 -->
 
-Roman JAKOBSON - Vous pensez que peut-être ce serait mieux si on pose plusieurs questions ? Et je réponds à la fois, alors ?
+### Roman JAKOBSON
+
+Vous pensez que peut-être ce serait mieux si on pose plusieurs questions ? Et je réponds à la fois, alors ?
 
 <!-- id: s14-10-0063 -->
 
-LACAN - D’accord. Qui a une question à poser à Roman JAKOBSON ?
+### LACAN
+
+D’accord. Qui a une question à poser à Roman JAKOBSON ?
 
 <!-- id: s14-10-0064 -->
 
-M<sup>me</sup> AUBRY \[se présentant\] - Docteur AUBRY, qui est psychanalyste
+### M<sup>me</sup> AUBRY
+
+\[se présentant\] Docteur AUBRY, qui est psychanalyste
 
 <!-- id: s14-10-0065 -->
 
-LACAN \[à Roman Jakobson\] - Et que vous connaissez… et spécialiste de psychiatrie infantile.
+### LACAN
+
+\[à Roman Jakobson\] Et que vous connaissez… et spécialiste de psychiatrie infantile.
 
 <!-- id: s14-10-0066 -->
 
-M<sup>me</sup> AUBRY
+### M<sup>me</sup> AUBRY
 
 <!-- id: s14-10-0067 -->
 
@@ -280,7 +290,7 @@ Je voulais demander à M. JAKOBSON…
 
 <!-- id: s14-10-0068 -->
 
-> étant donné que je m’intéresse particulièrement aux problèmes de difficultés de lecture et d’écriture, d’accession au langage écrit, de sa valeur symbolique …si dans ces difficultés, et en dehors des erreurs qui peuvent être repérées comme des *lapsus,* s’il pense que certaines structures du langage se rapportent à la structure même du sujet, ou plus exactement à sa position vis-à-vis de l’Autre. Je m’explique par des exemples d’ordre clinique : je ne lis pas l’allemand et je n’ai pu lire les *Kindersprache* [^44] qui doit être bientôt traduit, je crois.
+étant donné que je m’intéresse particulièrement aux problèmes de difficultés de lecture et d’écriture, d’accession au langage écrit, de sa valeur symbolique …si dans ces difficultés, et en dehors des erreurs qui peuvent être repérées comme des *lapsus,* s’il pense que certaines structures du langage se rapportent à la structure même du sujet, ou plus exactement à sa position vis-à-vis de l’Autre. Je m’explique par des exemples d’ordre clinique : je ne lis pas l’allemand et je n’ai pu lire les *Kindersprache* [^44] qui doit être bientôt traduit, je crois.
 
 <!-- id: s14-10-0069 -->
 
@@ -316,19 +326,25 @@ Lorsque cette évolution n’est pas faite, est-ce que ce n’est pas là le ref
 
 <!-- id: s14-10-0077 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0078 -->
 
-Qui est-ce qui a une autre question ? Puisque monsieur JAKOBSON préfère les collationner toutes… Mademoiselle Luce IRIGARAY ? Madame ! Pardon… Luce IRIGARAY - Je voudrais demander à M. JAKOBSON comment, lui… \[la voix se perd\]
+Qui est-ce qui a une autre question ? Puisque monsieur JAKOBSON préfère les collationner toutes… Mademoiselle Luce IRIGARAY ? Madame ! Pardon…
+
+### Luce IRIGARAY
+
+Je voudrais demander à M. JAKOBSON comment, lui… \[la voix se perd\]
 
 <!-- id: s14-10-0079 -->
 
-LACAN - Parlez tout ce que vous pouvez, toute votre voix, sans ça il ne vous entendra pas !
+### LACAN
+
+Parlez tout ce que vous pouvez, toute votre voix, sans ça il ne vous entendra pas !
 
 <!-- id: s14-10-0080 -->
 
-Luce IRIGARAY
+### Luce IRIGARAY
 
 <!-- id: s14-10-0081 -->
 
@@ -336,7 +352,13 @@ Je voudrais demander à M. JAKOBSON comme il fait l’articulation entre *le suj
 
 <!-- id: s14-10-0082 -->
 
-LACAN \[répétant à l’intention du Professeur Jakobson\] …entre sujet de l’énonciation et le sujet de l’énoncé, à savoir celui qui - dans l’énoncé - se désigne… etc. Enfin… Luce IRIGARAY \[poursuivant\]
+### LACAN
+
+\[répétant à l’intention du Professeur Jakobson\] …entre sujet de l’énonciation et le sujet de l’énoncé, à savoir celui qui - dans l’énoncé - se désigne… etc. Enfin…
+
+### Luce IRIGARAY
+
+\[poursuivant\]
 
 <!-- id: s14-10-0083 -->
 
@@ -344,15 +366,23 @@ Et par ailleurs, lui demander s’il ne croit pas qu’on pourrait faire établi
 
 <!-- id: s14-10-0084 -->
 
-LACAN \[répétant à l’intention du Professeur Jakobson\] …s’il ne croit pas qu’on pourrait introduire une différenciation parmi les… ? Vous avez dit ?
+### LACAN
+
+\[répétant à l’intention du Professeur Jakobson\] …s’il ne croit pas qu’on pourrait introduire une différenciation parmi les… ? Vous avez dit ?
 
 <!-- id: s14-10-0085 -->
 
-Luce IRIGARAY - Les « *schifters* » ! Les employer, les différencier en fonction de cette articulation de l’énonciation à l’énoncé.
+### Luce IRIGARAY
+
+Les « *schifters* » ! Les employer, les différencier en fonction de cette articulation de l’énonciation à l’énoncé.
 
 <!-- id: s14-10-0086 -->
 
-LACAN \[répétant à l’intention du Professeur Jakobson\] …si vous pensez que dans les « *schifters* » on peut en voir *un plus versé dans le sujet de l’énonciation ou les autres dans les sujets de l’énoncé*… Jean OURY
+### LACAN
+
+\[répétant à l’intention du Professeur Jakobson\] …si vous pensez que dans les « *schifters* » on peut en voir *un plus versé dans le sujet de l’énonciation ou les autres dans les sujets de l’énoncé*…
+
+### Jean OURY
 
 <!-- id: s14-10-0087 -->
 
@@ -360,7 +390,13 @@ C’est juste une question, une précision que je voudrais demander à M. JAKOBS
 
 <!-- id: s14-10-0088 -->
 
-Je veux donner simplement quelques points de repère. Il m’a été… j’ai été frappé par l’usage assez pratique qu’on peut faire par exemple de votre article sur la poétique. Il m’a semblé que cet article sur la poétique était quelque chose qui pouvait être très utile dans la compréhension de ce qui se passe dans les groupes. Mais d’autre part… LACAN - Dites un peu dans quel sens, pour une part de l’assemblée qui ne vous… Si peu que ce soit, donnez une indication… Jean OURY
+Je veux donner simplement quelques points de repère. Il m’a été… j’ai été frappé par l’usage assez pratique qu’on peut faire par exemple de votre article sur la poétique. Il m’a semblé que cet article sur la poétique était quelque chose qui pouvait être très utile dans la compréhension de ce qui se passe dans les groupes. Mais d’autre part…
+
+### LACAN
+
+Dites un peu dans quel sens, pour une part de l’assemblée qui ne vous… Si peu que ce soit, donnez une indication…
+
+### Jean OURY
 
 <!-- id: s14-10-0089 -->
 
@@ -380,7 +416,7 @@ Est-ce que la notion de *sujet de l’énonciation* peut s’articuler clairemen
 
 <!-- id: s14-10-0093 -->
 
-Lucien MÉLÈZE
+### Lucien MÉLÈZE
 
 <!-- id: s14-10-0094 -->
 
@@ -392,11 +428,17 @@ Je voudrais un petit peu abuser de la présence de Monsieur JAKOBSON pour lui po
 
 <!-- id: s14-10-0096 -->
 
-LACAN - Ça s’adresse aux fumeurs.
+### LACAN
+
+Ça s’adresse aux fumeurs.
 
 <!-- id: s14-10-0097 -->
 
-M<sup>me</sup> AUBRY - Il n’y a pas le « *pas* »… LACAN
+### M<sup>me</sup> AUBRY
+
+Il n’y a pas le « *pas* »…
+
+### LACAN
 
 <!-- id: s14-10-0098 -->
 
@@ -412,11 +454,13 @@ Qui a encore une question à poser ?
 
 <!-- id: s14-10-0101 -->
 
-D<sup>r</sup> STOIANOFF : Historiquement la dépendance prolongée d’un groupe ethnique sur un autre pourrait-elle influer sur le langage du premier de façon à ce qu’on obtienne ce discours indirect très particulier que vous avez décrit ? Dans la langue bulgare par exemple, quand on dit d’un côté par exemple : « un bateau… *swaminer* » autrement dit on dit qu’« il est parti » ou bien « *swaminer* ? » : il est parti effectivement. En somme y-a-t-il des facteurs historiques de dépendance qui pourraient expliquer cette introduction dans la langue une façon de voir médiatique.
+### D<sup>r</sup> STOIANOFF
+
+Historiquement la dépendance prolongée d’un groupe ethnique sur un autre pourrait-elle influer sur le langage du premier de façon à ce qu’on obtienne ce discours indirect très particulier que vous avez décrit ? Dans la langue bulgare par exemple, quand on dit d’un côté par exemple : « un bateau… *swaminer* » autrement dit on dit qu’« il est parti » ou bien « *swaminer* ? » : il est parti effectivement. En somme y-a-t-il des facteurs historiques de dépendance qui pourraient expliquer cette introduction dans la langue une façon de voir médiatique.
 
 <!-- id: s14-10-0102 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0103 -->
 
@@ -444,7 +488,7 @@ C’est comme quand on va dire la messe \[Lacan, attache le micro au cou de Rom
 
 <!-- id: s14-10-0109 -->
 
-[Roman JAKOB<span id="Jakobson" class="anchor"></span>SON](#février-1967-table-des-séances)
+### [Roman JAKOB<span id="Jakobson" class="anchor"></span>SON](#février-1967-table-des-séances)
 
 <!-- id: s14-10-0110 -->
 
@@ -628,7 +672,7 @@ Maintenant, la question de mon ami que j’admire tellement, et dont les travaux
 
 <!-- id: s14-10-0155 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0156 -->
 
@@ -640,7 +684,9 @@ Deuxièmement, en ceci que vous êtes celui qui transmettez cette sorte de disci
 
 <!-- id: s14-10-0158 -->
 
-Roman JAKOBSON : Je dois dire que je pourrais répondre à cette question de la même façon que j’ai répondu à cette question du problème de la différence entre les structures grammaticales des diverses langues. C’est à dire : c’est possible pour un linguiste de tâcher de cesser à certains moments, *d’être seulement linguiste* et de voir les problèmes d’un autre côté, d’un autre aspect : de l’aspect d’un *psychologue*, de l’aspect d’un *anthropologue*, de l’aspect d’un *biologue*, *etc.* Tout cela est possible, mais la pression de la discipline est énorme.
+### Roman JAKOBSON
+
+Je dois dire que je pourrais répondre à cette question de la même façon que j’ai répondu à cette question du problème de la différence entre les structures grammaticales des diverses langues. C’est à dire : c’est possible pour un linguiste de tâcher de cesser à certains moments, *d’être seulement linguiste* et de voir les problèmes d’un autre côté, d’un autre aspect : de l’aspect d’un *psychologue*, de l’aspect d’un *anthropologue*, de l’aspect d’un *biologue*, *etc.* Tout cela est possible, mais la pression de la discipline est énorme.
 
 <!-- id: s14-10-0159 -->
 
@@ -676,7 +722,7 @@ Et ça m’a toujours, depuis mes expériences à New-York, pendant la dernière
 
 <!-- id: s14-10-0167 -->
 
-LACAN
+### LACAN
 
 <!-- id: s14-10-0168 -->
 

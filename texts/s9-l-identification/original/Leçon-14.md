@@ -70,7 +70,7 @@ N’oublions pas les pas que...
 
 <!-- id: s9-14-0017 -->
 
-> pour fonder ce rapport premier autour de quoi, nous ne l’oublions que trop, sont pour FREUD articulables, et seulement par là, toutes les *Liebesbedingungen,* toutes les déterminations de *l’amour* ...n’oublions pas les pas que dans la dialectique freudienne ceci exige : c’est dans ce rapport à l’Autre, le père tué, au-delà de ce trépas du meurtre originel, que se constitue cette forme suprême de l’amour.
+pour fonder ce rapport premier autour de quoi, nous ne l’oublions que trop, sont pour FREUD articulables, et seulement par là, toutes les *Liebesbedingungen,* toutes les déterminations de *l’amour* ...n’oublions pas les pas que dans la dialectique freudienne ceci exige : c’est dans ce rapport à l’Autre, le père tué, au-delà de ce trépas du meurtre originel, que se constitue cette forme suprême de l’amour.
 
 <!-- id: s9-14-0018 -->
 
@@ -78,9 +78,9 @@ C’est le paradoxe, non du tout dissimulé, même s’il est élidé par ce voi
 
 <!-- id: s9-14-0019 -->
 
-> même, si ceci ne nous est pas suffisamment expliqué, c’est assez pour que nous en rete­nions le temps
->
-> comme essentiel dans ce qu’on peut appeler la structure mythique de l’Œdipe ...*cet amour suprême pour le père*, lequel fait justement de ce trépas du meurtre originel la condition de *sa présence désormais absolue*.
+même, si ceci ne nous est pas suffisamment expliqué, c’est assez pour que nous en rete­nions le temps
+
+comme essentiel dans ce qu’on peut appeler la structure mythique de l’Œdipe ...*cet amour suprême pour le père*, lequel fait justement de ce trépas du meurtre originel la condition de *sa présence désormais absolue*.
 
 <!-- id: s9-14-0020 -->
 
@@ -112,9 +112,9 @@ Pour venir à le démontrer...
 
 <!-- id: s9-14-0027 -->
 
-> il s’agit bien au dernier terme d’une certaine place d’*ex-sistence* du sujet, nécessaire,
->
-> et que c’est là la fonction à quoi est élevé, amené le *petit(a)* de la rivalité première
+il s’agit bien au dernier terme d’une certaine place d’*ex-sistence* du sujet, nécessaire,
+
+et que c’est là la fonction à quoi est élevé, amené le *petit(a)* de la rivalité première
 
 <!-- id: s9-14-0028 -->
 
@@ -138,7 +138,7 @@ Dès maintenant nous pouvons, nous devons même, rappeler - mais rappeler ici au
 
 <!-- id: s9-14-0033 -->
 
-> qu’il soit représenté quelque part comme exclu de ce champ pour y intervenir, dans ce champ même.
+qu’il soit représenté quelque part comme exclu de ce champ pour y intervenir, dans ce champ même.
 
 <!-- id: s9-14-0034 -->
 

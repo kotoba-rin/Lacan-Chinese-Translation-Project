@@ -11,6 +11,12 @@ import re
 import sys
 from typing import Iterable
 
+from taxonomy import (
+    ALLOWED_TAG_PREFIXES,
+    DEPRECATED_TAG_ALIASES,
+    FIELD_TAGS,
+)
+
 
 REQUIRED_KEYS = ["title", "type", "verification", "tags", "verified_at"]
 VERIFICATION_VALUES = {"已核实", "部分准确", "需更正", "解释性延伸"}
@@ -190,8 +196,8 @@ def validate_card(
         errors.append("tags must be a YAML list")
         tags = []
     else:
-        if not 3 <= len(tags) <= 5:
-            errors.append("tags must contain 3 to 5 entries")
+        if not 3 <= len(tags) <= 6:
+            errors.append("tags must contain 3 to 6 entries")
         if len(tags) != len(set(tags)):
             errors.append("tags must not contain duplicates")
         for tag in tags:
@@ -199,6 +205,24 @@ def validate_card(
                 errors.append(f"tag contains unsupported characters: {tag!r}")
             if tag in FORBIDDEN_CARD_TAGS or tag.startswith("索引/"):
                 errors.append(f"card must not use workflow/index tag: {tag}")
+            replacement = DEPRECATED_TAG_ALIASES.get(tag)
+            if replacement is not None:
+                errors.append(f"deprecated tag {tag}; use {replacement}")
+            if tag.startswith("研讨班"):
+                continue
+            if "/" not in tag:
+                errors.append(f"non-seminar tag must use a known prefix: {tag}")
+                continue
+            prefix = tag.split("/", 1)[0]
+            if prefix not in ALLOWED_TAG_PREFIXES:
+                errors.append(f"unknown tag prefix: {prefix}")
+
+        field_tags = [tag for tag in tags if tag.startswith("领域/")]
+        if not field_tags:
+            errors.append("tags must contain at least 1 controlled 领域/ entry")
+        for field_tag in field_tags:
+            if field_tag not in FIELD_TAGS:
+                errors.append(f"unknown controlled field tag: {field_tag}")
 
     headings = [
         (index, line)

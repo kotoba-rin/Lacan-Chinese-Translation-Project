@@ -106,7 +106,11 @@ Eh bien, ce *rêve de l’injection d’Irma*, tel que je l’ai repris la der­
 
 <!-- id: s2-14-0026 -->
 
-> « *Là, le 24 juillet 1895, le Docteur Sigmund Freud trouva le mystère du rêve.* »[^17]
+<div class="text-quotation">
+
+« *Là, le 24 juillet 1895, le Docteur Sigmund Freud trouva le mystère du rêve.* »[^17]
+
+</div>
 
 <!-- id: s2-14-0027 -->
 
@@ -154,9 +158,9 @@ Ceci est essentiel à la compréhension de ce rêve. Et c’est ce qui je crois 
 
 <!-- id: s2-14-0038 -->
 
-> je voudrais avoir confirmation par votre réponse, mais je ne sais pas non plus quelle interprétation donner
->
-> à cette absence de réponse des uns et des autres \[cf. supra : Leclaire, Granoff, Mannoni, Valabrega...\]
+je voudrais avoir confirmation par votre réponse, mais je ne sais pas non plus quelle interprétation donner
+
+à cette absence de réponse des uns et des autres \[cf. supra : Leclaire, Granoff, Mannoni, Valabrega...\]
 
 <!-- id: s2-14-0039 -->
 
@@ -176,9 +180,9 @@ Le *processus régrédient* pour autant que le rêve ramènerait tout ce qui est
 
 <!-- id: s2-14-0043 -->
 
-> par des mécanismes qui sont là mis en question, d’une façon qui est loin d’être constante :
->
-> FREUD le signale lui-même dans la théorie qu’il donne du rêve
+par des mécanismes qui sont là mis en question, d’une façon qui est loin d’être constante :
+
+FREUD le signale lui-même dans la théorie qu’il donne du rêve
 
 <!-- id: s2-14-0044 -->
 
@@ -278,7 +282,7 @@ J’essaie de vous montrer qu’il s’agit peut-être d’autre chose et que ce
 
 <!-- id: s2-14-0068 -->
 
-> c’est dans le texte : « *appell* » la racine latine du mot montre le sens juri­dique en l’occasion
+c’est dans le texte : « *appell* » la racine latine du mot montre le sens juri­dique en l’occasion
 
 <!-- id: s2-14-0069 -->
 
@@ -322,9 +326,9 @@ Si la théorie de FREUD…
 
 <!-- id: s2-14-0079 -->
 
-> telle qu’elle nous est, à ce moment–là apportée, nous montrant *la fonction* tout à fait *fondamentale*
->
-> du *narcissisme*, comme structu­rant toutes les relations de l’homme avec le monde extérieur
+telle qu’elle nous est, à ce moment–là apportée, nous montrant *la fonction* tout à fait *fondamentale*
+
+du *narcissisme*, comme structu­rant toutes les relations de l’homme avec le monde extérieur
 
 <!-- id: s2-14-0080 -->
 
@@ -440,7 +444,11 @@ C’est bien ainsi que nous avons l’habitude d’interpréter un rêve. Il fau
 
 <!-- id: s2-14-0108 -->
 
-> « *Je ne suis pas dans le rêve, là où on le croit. Le personnage qui vient de mourir, c’est moi, et voici pourquoi.* »
+<div class="text-quotation">
+
+« *Je ne suis pas dans le rêve, là où on le croit. Le personnage qui vient de mourir, c’est moi, et voici pourquoi.* »
+
+</div>
 
 <!-- id: s2-14-0109 -->
 
@@ -472,7 +480,7 @@ En fait, qu’est-ce qui se passe à ce niveau…
 
 <!-- id: s2-14-0116 -->
 
-> quand nous voyons au sujet se substituer *ce sujet polycéphale*, cette foule dont je parlai la dernière fois, qui est une foule au sens freudien dont on parle dans *Ich-psychologie,* ou *Massen psy­chologie,* qui est justement faite de cette *pluralité imaginaire* fondamentale du sujet, de cet étalement, de cet épanouissement de ces différentes identifications de l’*ego*
+quand nous voyons au sujet se substituer *ce sujet polycéphale*, cette foule dont je parlai la dernière fois, qui est une foule au sens freudien dont on parle dans *Ich-psychologie,* ou *Massen psy­chologie,* qui est justement faite de cette *pluralité imaginaire* fondamentale du sujet, de cet étalement, de cet épanouissement de ces différentes identifications de l’*ego*
 
 <!-- id: s2-14-0117 -->
 
@@ -544,9 +552,9 @@ Dans les associations de FREUD cela fait écho avec un incident burlesque qu’i
 
 <!-- id: s2-14-0134 -->
 
-> avec le caractère de personnages de comédie qu’ils conservent à tra­vers le temps,
->
-> quand ils sont dans leur fonction de consultants
+avec le caractère de personnages de comédie qu’ils conservent à tra­vers le temps,
+
+quand ils sont dans leur fonction de consultants
 
 <!-- id: s2-14-0135 -->
 
@@ -570,9 +578,9 @@ C’est bien quelque chose de si extrême qui se passe à la limite du rêve, da
 
 <!-- id: s2-14-0140 -->
 
-> de l’ima­ge que j’avais empruntée à ces modernes constructions mécaniques, aux expé­riences
->
-> les plus récentes, les recherches dont la cybernétique nous a donné des exemples
+de l’ima­ge que j’avais empruntée à ces modernes constructions mécaniques, aux expé­riences
+
+les plus récentes, les recherches dont la cybernétique nous a donné des exemples
 
 <!-- id: s2-14-0141 -->
 
@@ -664,21 +672,25 @@ Ce n’est pas simplement pour lui qu’il trouve le *Nemo,* ou *l’alpha et l�
 
 <!-- id: s2-14-0163 -->
 
-> « *Je suis celui qui veut être pardonné d’avoir osé commencer a guérir ces malades, que jusqu’à présent on ne voulait pas comprendre,*
->
-> *donc que l’on s’interdisait de guérir. Je suis celui qui veut être pardonné de cela. Je suis celui qui veut n’en être pas coupable,*
->
-> *car c’est toujours être coupable que de transgresser une limite jusque-là imposée à l’activité humaine. Je veux n’être pas cela.*
->
-> *À la place de moi, il y a tous les autres. Je ne suis là que le représentant de ce vaste mouvement assez vague qui est cette recherche*
->
-> *de la vérité dans ce sens où moi je m’efface. Je ne suis plus rien. Mon ambition a été plus grande que moi. La seringue était sale,*
->
-> *sans doute. Et c’est justement dans la mesure où je l’ai trop désiré, où j’ai participé à cette action, où j’ai voulu être moi, le créateur.*
->
-> *Je ne suis pas le créateur. Le créateur est quelqu’un de plus grand que moi. C’est mon inconscient, c’est cette parole qui parle en moi,*
->
-> *au-delà de moi.* »
+<div class="text-quotation">
+
+« *Je suis celui qui veut être pardonné d’avoir osé commencer a guérir ces malades, que jusqu’à présent on ne voulait pas comprendre,*
+
+*donc que l’on s’interdisait de guérir. Je suis celui qui veut être pardonné de cela. Je suis celui qui veut n’en être pas coupable,*
+
+*car c’est toujours être coupable que de transgresser une limite jusque-là imposée à l’activité humaine. Je veux n’être pas cela.*
+
+*À la place de moi, il y a tous les autres. Je ne suis là que le représentant de ce vaste mouvement assez vague qui est cette recherche*
+
+*de la vérité dans ce sens où moi je m’efface. Je ne suis plus rien. Mon ambition a été plus grande que moi. La seringue était sale,*
+
+*sans doute. Et c’est justement dans la mesure où je l’ai trop désiré, où j’ai participé à cette action, où j’ai voulu être moi, le créateur.*
+
+*Je ne suis pas le créateur. Le créateur est quelqu’un de plus grand que moi. C’est mon inconscient, c’est cette parole qui parle en moi,*
+
+*au-delà de moi.* »
+
+</div>
 
 <!-- id: s2-14-0164 -->
 

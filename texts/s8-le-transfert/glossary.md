@@ -237,13 +237,9 @@
 | De natura deorum | 论神性 | 西塞罗著作；第十一课指定阅读。 |
 | Télémachie | 特勒马科斯纪 | 《奥德赛》前三卷传统称谓。 |
 | Antigone | 安提戈涅 | 索福克勒悲剧；第十一课 ἵμερος ἐναρής 注释出处。 |
-| Amphitryon | 安菲特律翁 | 吉罗杜剧作；人物同名处理。 |
 | De Trinitate | 论三位一体 | 圣奥古斯丁著作；第十一课三位一体关系注释。 |
 | Introduction à l’étude de Saint Augustin | 圣奥古斯丁思想导论 | 艾蒂安·吉尔松著作。 |
 | Divine Comédie / Enfer | 神曲 / 地狱篇 | 第十一课但丁“永恒之爱”铭文语境。 |
-| Hécube | 赫库柏 | 欧里庇得斯悲剧题名；人物同名处理。 |
-| Iphigénie | 伊菲革涅亚 | 作为拉辛悲剧题名时同名处理。 |
-| Andromaque | 安德洛玛刻 | 作为拉辛悲剧题名时同名处理。 |
 | Bajazet | 巴雅泽 | 拉辛悲剧题名。 |
 | Crainte et tremblement | 恐惧与战栗 | 克尔凯郭尔著作。 |
 | In vino veritas | 酒中真理 | 克尔凯郭尔《人生道路上的诸阶段》中的文本。 |
@@ -255,7 +251,7 @@
 | Description de la Grèce | 希腊志 | 波萨尼阿斯著作。 |
 | La Psychanalyse d’aujourd’hui | 今日精神分析 | 第十课注释中简称 La P.D.A.。 |
 | Essais de psychanalyse | 精神分析论集 | 第十课提及弗洛伊德文集。 |
-| Au-delà du principe du plaisir | 超越快乐原则 | 弗洛伊德著作；第十四课第三章引文涉及回忆、再生产与重复自动症。 |
+| Au-delà du principe du plaisir | 超越快乐原则 | 弗洛伊德著作；第十四课第三章引文涉及回忆、再生产与“重复的自动性”／重复强迫。 |
 | Pulsions et destins des pulsions | 驱力及其命运 | 弗洛伊德著作；第十四课以此重返驱力理论。 |
 | Trois essais sur la théorie de la sexualité | 性学三论 | 弗洛伊德著作；第十四课用来说明口腔阶段的食人性及其性的意义。 |
 | International Journal of Psychoanalysis | 国际精神分析期刊 |  |
@@ -321,6 +317,8 @@
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
 | psychique / psychiques | 精神的 | 作定语时依汉语搭配写作“精神现象”“精神经济”“精神现实”“精神因果性”等，不译“心理的”。*Psychologie* 仍译“心理学”；神话人物 *Psyché* 仍译“普绪克”。 |
+| économie psychique | 精神经济 | 不是“经济学”，也不只是泛指“结构”。在精神分析语境中，指精神装置中能量、投注、驱力、欲望、满足与享乐的配置及运作；可解释为“精神装置内部的能量配置与运作方式”。在拉康语境中，这个“内部”不是与大他者隔绝的封闭内心。第十七课见 *l’économie psychique* 与 *une économie réglée par le niveau de la jouissance*；第十三、二十五课另见 *l’économie de son désir*、*l’économie de votre sujet*。 |
+| économie d’un texte / économie d’une œuvre / économie du Banquet | 文本的整体安排 / 内部布局 | 指文本各部分的组织、配置及彼此关系，不译“精神经济”或“经济学”。第七课 *l’économie du Banquet* 指《会饮篇》的整体安排及阿伽通演说在其中的位置。 |
 | transfert | 转移 |  |
 | transfert positif / transfert négatif | 正转移 / 负转移 | 第十二课提醒不要从通常现象标注进入转移问题。 |
 | contre-transfert | 反转移 | 第十三课指分析家在分析中产生、并由其同被分析者的关系所决定的感受。 |
@@ -351,6 +349,7 @@
 | inconscient de l’autre | 他人的无意识 | 第十三课指出，对无意识的经验在逻辑上首先来自他人的无意识。 |
 | parole | 言说 | 第十二课大他者作为言说位置的语境。 |
 | lieu de la parole | 言说的位置 | 大他者 A 的定义。 |
+| énonciation | 言说 / 言说行为 | 与 *énoncé*（陈述）区分，不译作“能述”；第七课图式中的 *l’énonciation fondamentale* 译作“根本言说”。 |
 | Autron | Autron（保留原词） | 第十四课把 *Autre* 与物理学粒子名称常见的 *-on* 后缀拼合而成；正文保留法语造词，并以译注说明。 |
 | sujets de la parole | 言说的主体 | 第十二课中与主体尊严相对。 |
 | signifiant | 能指 |  |
@@ -399,7 +398,7 @@
 | pulsion de mort / instinct de mort | 死驱力 / 死本能 | 按原文分别处理 *pulsion* 与 *instinct*。 |
 | pulsion mortifère | 死亡性驱力 | 与 *pulsion de mort* 相关；按语境可简译“死驱力”。 |
 | pulsion sadique / sadique-oral | 施虐驱力 / 口腔—施虐 | 第十四课从肛门阶段回溯口腔阶段的吞噬主题，并追问施虐驱力如何进入性的层面。 |
-| automatisme de répétition / Wiederholungszwang | 重复自动症 | 第十四课保留弗洛伊德原文中的德语词，并把它同回忆、再生产及自我防御区分。 |
+| automatisme de répétition / Wiederholungszwang | 重复的自动性 / 重复强迫 | 法语 *automatisme de répétition* 统一译“重复的自动性”，强调其运作不由主体的意识直接决定，不等于机械习惯；德语 *Wiederholungszwang* 译“重复强迫”，保留 *Zwang* 的强制性。第十四课将二者并置。 |
 | Überlegenheit | 优越性 / 优越位置 | 第十四课引《超越快乐原则》；原文只说应保留一定程度的 *Überlegenheit*，并未规定它属于医生还是病人。 |
 | répétition du besoin / besoin de répétition | 需要的重复 / 重复的需要 | 第十二课讨论拉加什关于转移的区分。 |
 | effet Zeigarnik | 蔡格尼克效应 | 第十二课以未完成任务记忆效应说明转移问题。 |
@@ -415,7 +414,7 @@
 | θεωρια [theôria] | 理论 / 沉思 | 第六节按语境说明其与 *praxis* 的关系。 |
 | ἀτοπία [atopia] / atopie | 无处 / 不可定位 / 无定所 | 苏格拉底的 *atopia* 可按语境译“无处安置”；第七课 *atopie du désir* 暂译“欲望的无定所”。 |
 | atopie du désir | 欲望的无定所 |  |
-| pureté topique | 拓扑学纯粹性 |  |
+| pureté topique | 地形学纯粹性 |  |
 | la place du désir | 欲望的所在 |  |
 | désir de discours | 对话语的欲望 |  |
 | perversion sans objet | 无对象的性倒错 |  |
@@ -425,6 +424,7 @@
 | jouissance | 享乐 |  |
 | Lust / Lüste | 快乐 / 欲望、欲求 | 第十五课借德语单数 *Lust* 与复数 *Lüste* 的意义滑动，区分满足的快乐与性紧张、欲求。 |
 | Éros / eros | 爱欲 |  |
+| l’Amour / Amour（A 大写） | 大写的爱 | 明示法文的大写 A，并与普通的 *l’amour / amour*（爱）区分；在拟人化的爱神语境中仍保留“大写的爱”，必要时补明“爱神”。 |
 | l’aimé | 被爱者 | 《会饮篇》语境中指被爱的人。 |
 | amour du Beau / Désir de Beau / Désir du Beau | 对美的爱 / 对美的欲望 | 第九课中用于说明狄奥提玛论述中“美”从通道滑向目标。 |
 | mirage du Beau | 美的幻景 | 第九课中说明美作为遮蔽死亡欲望的幻景。 |
@@ -473,7 +473,7 @@
 | vieilles tantes | 老嫂子们 | 第九课中拉康对《会饮篇》聚会的戏谑说法。 |
 | concurrence | 竞争 | 第九课中指对象在主体间交流中的竞争维度。 |
 | transitivismes | 互易感觉 | 第九课中说明对象在主体间交流中构成自身。 |
-| objet(a) / objet (a) | 对象(a) | 幻想对象；避免改作“客体(a)”。 |
+| objet(a) / objet (a) | 对象a | 幻想对象；强调 *petit* 时可写“对象小a”，公式保留原记法。 |
 | objet(a) excrémentiel | 排泄物性的对象(a) | 第十四课在肛门阶段把主体同排泄物对象的认同联系起来。 |
 | objet de convoitise unique | 独特贪欲的对象 | 第九课中说明爱之行动核心处排除竞争的对象。 |
 | convoitise | 贪欲 | 第十一课阿尔西比亚德对“最好之物”的贪欲语境。 |
@@ -485,10 +485,10 @@
 | refente subjective | 主体再分裂 | 第八课与 *Spaltung*、苏格拉底让位给狄奥提玛相连。 |
 | béance | 裂口 | 第八课描述狄奥提玛演说不断打开的缺口。 |
 | message | 信息 | 避免同一段中“信息/讯息”混用。 |
-| démonique / démon | 精灵性 / 精灵 | 第八课中作神与人之间的中介，不译作“恶魔”。 |
+| démonique / démon | 精灵性 / 精灵 | 第八、十一课沿用古希腊 `δαίμων` 的神性力量与中介语境，不译作现代意义的“恶魔”。 |
 | animisme | 泛灵论 | 第八课讨论“泛灵论世界”时使用。 |
 | tempérance | 节制 | 第十一课《会饮篇》译者页边语；避免把苏格拉底拒绝简化为伦理德性。 |
-| impassibilité | 不动如山 / 无动于衷 | 第十一课苏格拉底与古代诸神的被动态度语境。 |
+| impassibilité | 不受触动 | 第十一课用于苏格拉底与古代诸神：既指对外界事件不为所动，又连接 *passif*、*aimé* 与 ἐρώμενος 的被动、被爱位置；其神学本义涉及不可受苦或不受外部作用。 |
 | syndrome de Cotard | 科塔尔综合征 |  |
 | Verwerfung | 拒斥 |  |
 | Ablehnung der Weiblichkeit | 对女性性的拒斥 | 第十一课与阉割恐惧缺席相关；与 *Verwerfung*、*Versagung* 区分。 |
@@ -529,7 +529,7 @@
 | Verbigération | 词语奔逸 | 第十二课注释中说明精神病患者无连贯词语系列的滔滔不绝。 |
 | désaffection / désaffectation | 失去感情 / 撤回投入 | 第十三课连续用词；后者另有“调离、撤出原有用途”之意，译文以递进保留双关。 |
 | dépersonnalisation | 人格解体 | 第十三课莫尼-凯尔案例中，病人与分析家先后经历的近乎人格解体状态。 |
-| patient | 病人 / 承受者 | 第十三课“成为坏客体的 *patient*”兼有病人与被动承受者两义，正文用斜线并列。 |
+| patient | 病人 / 承受者 | 第十三课“成为坏对象的 *patient*”兼有病人与被动承受者两义，正文用斜线并列。 |
 | demanding patient | 苛求的病人 | *Demanding* 强于一般“提出要求”，第十三课按“步步紧逼的苛求”理解。 |
 | noèse | 意向活动 | 哲学、现象学语境；第十课讨论对象等价性时出现。 |
 | idéal du moi | 自我理想 | 与 *moi idéal* 区分。 |
@@ -542,7 +542,7 @@
 | ex-voto | 还愿物 | 第十课说明 ἄγαλμα 的供奉物功能。 |
 | noli me tangere | 不要触碰我 | 第十一课苏格拉底拒绝姿态；可在注释中说明为复活后耶稣之语。 |
 | épithalame | 结婚颂歌 | 第十一课把对话后半部视作长篇婚歌。 |
-| amour de dieu | 对神之爱 | 第十一课古代神话中的神欲望问题。 |
+| amour de dieu | 神之爱 | 第十一课故意保留属格的双向性：既可触及神如何爱，也可触及神如何成为爱的对象，不限于“对神之爱”。 |
 | le mort (bridge) | 明手 / “死人” | 法语桥牌称明手为 *le mort*，直译“死人”；第十三课借此把桥牌位置与死亡双关。 |
 | ambition thérapeutique | 治疗雄心 | 第十三课要求把修复性冲动同治疗雄心的滥用区分开。 |
 | reparative drive / pulsion réparative | 修复性冲动 | 莫尼-凯尔所谓分析家的基本冲动之一，用来对抗潜在破坏性。 |
@@ -554,6 +554,8 @@
 | position luthérienne | 路德宗立场 | 第十一课神圣 agapè 爱罪人语境。 |
 | Contre-Réforme | 反宗教改革 | 第十一课巴洛克艺术语境。 |
 | art du baroque | 巴洛克艺术 | 第十一课图像诱惑力语境。 |
+| maniérisme | 样式主义 | 限艺术史义；第十六至十七课讨论祖基画作与阿尔钦博尔多绘画手法时使用。一般“矫饰”义不适用此译名；参见[《法兰西学院词典》“maniérisme”条](https://www.dictionnaire-academie.fr/article/A9M0520)第1、2义的区分。 |
+| maniériste | 样式主义的 / 样式主义画家 | 限艺术史义；形容词按搭配译为“样式主义的”或“样式主义”，名词指画家时译为“样式主义画家”。一般“矫饰”义须依语境另译。 |
 | aphanisis / ἀϕάνισις | 消隐 / 消失 | 琼斯所引希腊词；第十六、十八课指欲望的消失，概念性用法统一作“消隐”。 |
 | présence réelle | 现实在场 | 第十七至十九课既借用天主教圣体教义用语，也指欲望与无意识在分析位置中的在场。 |
 | persona | 人格面具 | 第十七课指维持人类在场形式、同时遮蔽其背后空处的面具功能。 |
@@ -700,3 +702,11 @@
 | κάλος ἵμερος [kalos himeros] | 美丽的欲望 | 第十一课《克拉底鲁篇》词源双关。 |
 | ἀνάγκη [ananké] | 必然性 | 第十三课指生命最终返回无生命之物零点的必然性。 |
 | mantique | 占卜术的 / 关涉占卜之艺的 | 第九课假发段落中的注释术语。 |
+
+## 地形学、地形与拓扑学
+
+| 外文 | 统一中文译名 | 备注 |
+| --- | --- | --- |
+| topique / première topique / seconde topique | 地形学／第一地形学／第二地形学 | 弗洛伊德元心理学的“精神地点”模型：第一地形学区分意识、前意识与无意识，第二地形学区分本我、自我与超我；所说地点不是脑部解剖位置。法语 *topique* 对应德语 *Topik*，英语文献通常把两套模型称作 *first / second topography*，不得同 *topologie*“拓扑学”混译。 |
+| topologie / topologique | 拓扑学／拓扑学的 | 指连续变形下保持的邻接、边界、连通与切割等结构关系；拉康借莫比乌斯带、环面、克莱因瓶、交叉帽及结来处理主体结构。它不同于弗洛伊德 *topique* 的第一／第二地形学，也不只是精神装置的区域示意图。 |
+| topographie | 地形／位置分布、位置描绘 | 普通法语可指具体空间、身体、政治版图或对象位置的描绘；须按上下文译，不因词形相近便自动并入 *topique*“地形学”或 *topologie*“拓扑学”。 |

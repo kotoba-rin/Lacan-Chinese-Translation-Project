@@ -42,13 +42,17 @@ Il l’articule d’une façon longue, et sur laquelle nous aurons à revenir, i
 
 <!-- id: s7-21-0010 -->
 
-> « ...δι᾽ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν. »
->
-> «...*moyen accomplissant par la pitié et par la crainte la catharsis des passions semblables à celle-ci.* »
->
-> \[Ch. Émile Ruelle traduisait : ...*La tragédie est l’imitation d’une action grave et complète, ayant une certaine étendue, présentée dans un langage rendu agréable et de telle sorte que chacune des parties qui la composent subsiste séparément, se développant avec des personnages qui agissent, et non au moyen d’une narration,*
->
-> *et opérant par la pitié et la terreur la purgation des passions de la même nature*.\]
+<div class="text-quotation">
+
+« ...δι᾽ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν. »
+
+«...*moyen accomplissant par la pitié et par la crainte la catharsis des passions semblables à celle-ci.* »
+
+\[Ch. Émile Ruelle traduisait : ...*La tragédie est l’imitation d’une action grave et complète, ayant une certaine étendue, présentée dans un langage rendu agréable et de telle sorte que chacune des parties qui la composent subsiste séparément, se développant avec des personnages qui agissent, et non au moyen d’une narration,*
+
+*et opérant par la pitié et la terreur la purgation des passions de la même nature*.\]
+
+</div>
 
 <!-- id: s7-21-0011 -->
 
@@ -156,7 +160,7 @@ De cette formulation dont nous ne pouvons pas dire qu’elle nous soit pas ferm�
 
 <!-- id: s7-21-0037 -->
 
-> nous le devons à la perte d’une partie de l’œuvre d’ARISTOTE, ou à quelque chose qui, dans la nature même des possibilités de la pensée est conditionné d’une façon telle que ceci nous soit présenté fermé
+nous le devons à la perte d’une partie de l’œuvre d’ARISTOTE, ou à quelque chose qui, dans la nature même des possibilités de la pensée est conditionné d’une façon telle que ceci nous soit présenté fermé
 
 <!-- id: s7-21-0038 -->
 
@@ -188,9 +192,9 @@ Et si nous en sommes purgés par l’intermédiaire d’une *image* entre autres
 
 <!-- id: s7-21-0045 -->
 
-> ceci je ne l’invente pas, car je vous montrerai le passage du chant du Chœur où elle est évoquée comme telle,
->
-> et je vous montrerai que c’est le passage pivot
+ceci je ne l’invente pas, car je vous montrerai le passage du chant du Chœur où elle est évoquée comme telle,
+
+et je vous montrerai que c’est le passage pivot
 
 <!-- id: s7-21-0046 -->
 
@@ -234,9 +238,9 @@ Nous voici maintenant en devoir d’entrer dans ce texte d’*Antigone* en y che
 
 <!-- id: s7-21-0056 -->
 
-> je ne sais pourquoi quelqu’un de tout à fait irresponsable en la matière écrivit, il y a peu de temps,
->
-> que je suis sans résistance concernant les séductions de la dialectique hégélienne, je ne sais pas si ce reproche était alors mérité, comme il fut écrit au moment que je commençai ici à articuler pour vous la dialectique du désir dans les termes où je le poursuis depuis, on ne peut pas dire que l’auteur en question soit un personnage qui ait spécialement du nez
+je ne sais pourquoi quelqu’un de tout à fait irresponsable en la matière écrivit, il y a peu de temps,
+
+que je suis sans résistance concernant les séductions de la dialectique hégélienne, je ne sais pas si ce reproche était alors mérité, comme il fut écrit au moment que je commençai ici à articuler pour vous la dialectique du désir dans les termes où je le poursuis depuis, on ne peut pas dire que l’auteur en question soit un personnage qui ait spécialement du nez
 
 <!-- id: s7-21-0057 -->
 
@@ -392,9 +396,9 @@ ANTIGONE est portée par une passion, et nous tâcherons de savoir laquelle. Mai
 
 <!-- id: s7-21-0095 -->
 
-> au-delà de tout ce calvaire dont nous suivrons le parcours, alors que tout est franchi, sa prise,
->
-> son défi, sa condamnation, son gémissement même, qu’elle est vraiment au bord de ce fameux tombeau
+au-delà de tout ce calvaire dont nous suivrons le parcours, alors que tout est franchi, sa prise,
+
+son défi, sa condamnation, son gémissement même, qu’elle est vraiment au bord de ce fameux tombeau
 
 <!-- id: s7-21-0096 -->
 
@@ -406,9 +410,13 @@ Alors que déjà elle-même a semblé fléchir dans une sorte de désir : « *Mo
 
 <!-- id: s7-21-0098 -->
 
-> « *Sachez-le, je n’aurais pas défié la loi des citoyens pour un mari ou un enfant à qui on eût refusé la sépulture, parce qu’après tout, dit-elle, si j’eusse perdu un mari dans ces conditions, j’aurais pu en prendre un autre, que si même j’avais perdu un enfant,*
->
-> *avec le mari j’aurais pu refaire un autre enfant avec un autre mari, mais ce frère*...
+<div class="text-quotation">
+
+« *Sachez-le, je n’aurais pas défié la loi des citoyens pour un mari ou un enfant à qui on eût refusé la sépulture, parce qu’après tout, dit-elle, si j’eusse perdu un mari dans ces conditions, j’aurais pu en prendre un autre, que si même j’avais perdu un enfant,*
+
+*avec le mari j’aurais pu refaire un autre enfant avec un autre mari, mais ce frère*...
+
+</div>
 
 <!-- id: s7-21-0099 -->
 
@@ -416,7 +424,7 @@ Alors que déjà elle-même a semblé fléchir dans une sorte de désir : « *Mo
 
 <!-- id: s7-21-0100 -->
 
-> ...*ce frère né du même père et de la même mère, maintenant le père et la mère sont cachés dans l’Hadès, il n’y a plus aucune chance que quelque frère en renaisse jamais.*
+...*ce frère né du même père et de la même mère, maintenant le père et la mère sont cachés dans l’Hadès, il n’y a plus aucune chance que quelque frère en renaisse jamais.*
 
 <!-- id: s7-21-0101 -->
 
@@ -448,9 +456,9 @@ Il est quand même difficile, si ces vers portent en eux-mêmes la charge de tel
 
 <!-- id: s7-21-0108 -->
 
-> car il s’agit de ce que du point de vue de la *Rhétorique* on doit faire pour expliquer ses actes,
->
-> et de tous les exemples qui peuvent venir dans une pareille matière qui paraît assez commune
+car il s’agit de ce que du point de vue de la *Rhétorique* on doit faire pour expliquer ses actes,
+
+et de tous les exemples qui peuvent venir dans une pareille matière qui paraît assez commune
 
 <!-- id: s7-21-0109 -->
 

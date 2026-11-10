@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XVII
-  - 领域/逻辑学
+  - 领域/数学逻辑与形式科学/逻辑与数学哲学
   - 语言/拉丁语
   - 概念/爆炸原理
 verified_at: 2026-07-28

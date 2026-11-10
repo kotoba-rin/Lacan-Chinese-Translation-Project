@@ -38,7 +38,7 @@ Non pas parce que tous ceux qu’on nourrit soient *« bêtes »...*
 
 <!-- id: s20-03-0009 -->
 
-> si je puis dire d’un terme sur quoi *cette année nous aurons à revenir* *essentiellement* ...c’est-à-dire parce qu’il soutient leur *forme*, mais plutôt parce qu’il est démontré que *se nourrir* fait partie de *la bêtise*.
+si je puis dire d’un terme sur quoi *cette année nous aurons à revenir* *essentiellement* ...c’est-à-dire parce qu’il soutient leur *forme*, mais plutôt parce qu’il est démontré que *se nourrir* fait partie de *la bêtise*.
 
 <!-- id: s20-03-0010 -->
 
@@ -62,7 +62,7 @@ Un jour je me suis aperçu qu’il était *difficile*...
 
 <!-- id: s20-03-0015 -->
 
-> je reprends le même mot de la première phrase ...de ne pas entrer dans la linguistique à partir du moment où l’inconscient était découvert.
+je reprends le même mot de la première phrase ...de ne pas entrer dans la linguistique à partir du moment où l’inconscient était découvert.
 
 <!-- id: s20-03-0016 -->
 
@@ -74,9 +74,9 @@ Mais si je prends tout ce qui s’ensuit du *langage*...
 
 <!-- id: s20-03-0018 -->
 
-> et nommément de ce qui en résulte dans *cette fondation du sujet*, si renouvelé, si subverti,
->
-> que *c’est bien là* le statut dont s’assure *tout ce qui* de la bouche de Freud *s’est affirmé comme l’inconscient* ...alors il me faudra forger quelque autre mot pour laisser à Jakobson son domaine réservé, et si vous le voulez j’appellerai ça « *la linguisterie* ».
+et nommément de ce qui en résulte dans *cette fondation du sujet*, si renouvelé, si subverti,
+
+que *c’est bien là* le statut dont s’assure *tout ce qui* de la bouche de Freud *s’est affirmé comme l’inconscient* ...alors il me faudra forger quelque autre mot pour laisser à Jakobson son domaine réservé, et si vous le voulez j’appellerai ça « *la linguisterie* ».
 
 <!-- id: s20-03-0019 -->
 
@@ -84,7 +84,7 @@ Je donne dans *la linguisterie,* ce qui me laisse quelque part aux linguistes, n
 
 <!-- id: s20-03-0020 -->
 
-> et après tout *allègrement* de la part de tant de linguistes ...plus d’une remontrance.
+et après tout *allègrement* de la part de tant de linguistes ...plus d’une remontrance.
 
 <!-- id: s20-03-0021 -->
 
@@ -96,9 +96,9 @@ Mais si vous attendez ce que je pourrais dire de *l’amour*, ceci ne fera en so
 
 <!-- id: s20-03-0023 -->
 
-> enfin j’ai trouvé ça ce matin, exactement à 8 heures et demie, en commençant à prendre des notes, c’est toujours l’heure où je le fais pour ce que j’ai... enfin... à vous dire,
->
-> ce n’est pas que je n’y pense depuis longtemps, mais cela ne se rédige qu’à la fin ...j’ai trouvé ça : « *linguisterie ».*
+enfin j’ai trouvé ça ce matin, exactement à 8 heures et demie, en commençant à prendre des notes, c’est toujours l’heure où je le fais pour ce que j’ai... enfin... à vous dire,
+
+ce n’est pas que je n’y pense depuis longtemps, mais cela ne se rédige qu’à la fin ...j’ai trouvé ça : « *linguisterie ».*
 
 <!-- id: s20-03-0024 -->
 
@@ -114,9 +114,9 @@ Mais il est suffisamment clair qu’en ayant posé *ce dire*...
 
 <!-- id: s20-03-0027 -->
 
-> comme j’en ai depuis avancé d’autres,
->
-> m’enfin c’est déjà pas mal qu’un certain nombre en restent à celui-là: il est important ...*ce dire* après tout n’est pas du champ de *la linguistique*, c’est une porte ouverte sur ceci que vous verrez commenté dans ce qui va paraître, développé dans le prochain numéro de mon bien connu *« a-périodique »* \[*Scilicet n°* 4\], avec pour titre « *L’Étourdit » :* *d.i.t* [^20]. \[*Dans la séance du 21-11-1972 Lacan a rappelé* [*la stricte équivalence de « topol*<span id="Retour_Topologie_structure" class="anchor"></span>*ogie » et « structure*](#Topologie_structure)* »* *développée dans L’étourdit (14-7-1972),* *où il montre que cette topologie (mœbienne) du discours* A *permet de passer  *:
+comme j’en ai depuis avancé d’autres,
+
+m’enfin c’est déjà pas mal qu’un certain nombre en restent à celui-là: il est important ...*ce dire* après tout n’est pas du champ de *la linguistique*, c’est une porte ouverte sur ceci que vous verrez commenté dans ce qui va paraître, développé dans le prochain numéro de mon bien connu *« a-périodique »* \[*Scilicet n°* 4\], avec pour titre « *L’Étourdit » :* *d.i.t* [^20]. \[*Dans la séance du 21-11-1972 Lacan a rappelé* [*la stricte équivalence de « topol*<span id="Retour_Topologie_structure" class="anchor"></span>*ogie » et « structure*](#Topologie_structure)* »* *développée dans L’étourdit (14-7-1972),* *où il montre que cette topologie (mœbienne) du discours* A *permet de passer  *:
 
 <!-- id: s20-03-0028 -->
 
@@ -128,7 +128,7 @@ Mais il est suffisamment clair qu’en ayant posé *ce dire*...
 
 <!-- id: s20-03-0030 -->
 
-> *et qui concerne* S<sub>1</sub> *le signifiant sans signifié <sub>→</sub> coupé du savoir *: S<sub>1</sub>◊ S<sub>2</sub> *<sub>→</sub> asémantique, la « bêtise » de la singularité,* S<sub>1</sub> *<sub>→</sub> qui relève de la linguisterie*\]
+*et qui concerne* S<sub>1</sub> *le signifiant sans signifié <sub>→</sub> coupé du savoir *: S<sub>1</sub>◊ S<sub>2</sub> *<sub>→</sub> asémantique, la « bêtise » de la singularité,* S<sub>1</sub> *<sub>→</sub> qui relève de la linguisterie*\]
 
 <!-- id: s20-03-0031 -->
 
@@ -136,7 +136,7 @@ Mais il est suffisamment clair qu’en ayant posé *ce dire*...
 
 <!-- id: s20-03-0032 -->
 
-> H,U,M A
+H,U,M A
 
 <!-- id: s20-03-0033 -->
 
@@ -164,17 +164,21 @@ c’est ce matin que j’y ai repensé, je crois quand même que c’est l’ann
 
 <!-- id: s20-03-0039 -->
 
-> *Un coup de ton doigt sur le tambour décharge tous les sons et commence la nouvelle harmonie.*
->
-> *Un pas de toi, c’est la levée des nouveaux hommes et leur en-marche.*
->
-> *Ta tête se détourne : le nouvel amour !*
->
-> *Ta tête se retourne, - le nouvel amour !*
->
-> *« Change nos lots, crible les fléaux, à commencer par le temps », te chantent ces enfants.*
->
-> *« Élève n’importe où la substance de nos fortunes et de nos vœux » on t’en prie.*
+<div class="text-quotation">
+
+*Un coup de ton doigt sur le tambour décharge tous les sons et commence la nouvelle harmonie.*
+
+*Un pas de toi, c’est la levée des nouveaux hommes et leur en-marche.*
+
+*Ta tête se détourne : le nouvel amour !*
+
+*Ta tête se retourne, - le nouvel amour !*
+
+*« Change nos lots, crible les fléaux, à commencer par le temps », te chantent ces enfants.*
+
+*« Élève n’importe où la substance de nos fortunes et de nos vœux » on t’en prie.*
+
+</div>
 
 <!-- id: s20-03-0040 -->
 
@@ -202,9 +206,9 @@ Je pense que quand même...
 
 <!-- id: s20-03-0046 -->
 
-> quoiqu’il y en ait qui s’en aillent dans les couloirs
->
-> en demandant qu’on leur explique ce que c’est que les 4 *discours* ...je pense que, comme ça, au collectif, je peux me référer à ceci que j’en ai articulé quatre et que je n’ai pas besoin de vous en refaire la liste.
+quoiqu’il y en ait qui s’en aillent dans les couloirs
+
+en demandant qu’on leur explique ce que c’est que les 4 *discours* ...je pense que, comme ça, au collectif, je peux me référer à ceci que j’en ai articulé quatre et que je n’ai pas besoin de vous en refaire la liste.
 
 <!-- id: s20-03-0047 -->
 
@@ -212,13 +216,13 @@ Je veux vous faire remarquer que ces 4 *discours* ne sont à prendre en aucun ca
 
 <!-- id: s20-03-0048 -->
 
-> \[<sub>→</sub> *l’amour est le signe du changement de discours : « un nouvel amour » <sub>↔</sub> un autre signifiant.*
->
-> *Dans les 4 discours, l’impuissance du « Plus-de-jouir » à atteindre la Vérité déclenche une rupture, un saut (quart de tour anti-horaire),*
->
-> *un renversement du discours précédent*<sub>→</sub> *une autre « raison »* <sub>→</sub> *un autre « signifiant » vient occuper la place du Semblant,*
->
-> *par exemple le renversement du discours* H*ystérique aboutit au* *discours du* M*aître* : *le* S<sub>1</sub> *prend la place du* S<sub>.</sub>\]
+\[<sub>→</sub> *l’amour est le signe du changement de discours : « un nouvel amour » <sub>↔</sub> un autre signifiant.*
+
+*Dans les 4 discours, l’impuissance du « Plus-de-jouir » à atteindre la Vérité déclenche une rupture, un saut (quart de tour anti-horaire),*
+
+*un renversement du discours précédent*<sub>→</sub> *une autre « raison »* <sub>→</sub> *un autre « signifiant » vient occuper la place du Semblant,*
+
+*par exemple le renversement du discours* H*ystérique aboutit au* *discours du* M*aître* : *le* S<sub>1</sub> *prend la place du* S<sub>.</sub>\]
 
 <!-- id: s20-03-0049 -->
 
@@ -226,9 +230,9 @@ En disant que *l’amour c’est le signe de ce qu’on change de discours,* je 
 
 <!-- id: s20-03-0050 -->
 
-> mais ils n’existent 4 que sur le fondement de ce *discours psychanalytique* que j’articule de 4 places,
->
-> et sur chacune, de la prise de quelque *effet de signifiant* stipulé comme tel *...ce discours psychanalytique, y’en a toujours quelque émergence à chaque passage d’un discours à un autre*.
+mais ils n’existent 4 que sur le fondement de ce *discours psychanalytique* que j’articule de 4 places,
+
+et sur chacune, de la prise de quelque *effet de signifiant* stipulé comme tel *...ce discours psychanalytique, y’en a toujours quelque émergence à chaque passage d’un discours à un autre*.
 
 <!-- id: s20-03-0051 -->
 
@@ -240,11 +244,11 @@ Simplement à retenir qu’à appliquer ces catégories, qui ne sont elles-même
 
 <!-- id: s20-03-0053 -->
 
-> qui est un terme, mais qui n’a rien de terminal ...*du discours psychanalytique,* il faudrait seulement dresser l’oreille à la mise à l’épreuve de cette vérité...
+qui est un terme, mais qui n’a rien de terminal ...*du discours psychanalytique,* il faudrait seulement dresser l’oreille à la mise à l’épreuve de cette vérité...
 
 <!-- id: s20-03-0054 -->
 
-> *qu*’*il y a émergence du discours analytique à chaque « passage »...*de ce que le *discours analytique* permet de pointer comme *franchissement d’un discours à un autre*. \[*chacun des discours* H,U,M *commence par soutenir la possibilité d’un rapport sexuel (jouissance phallique) pour aboutir à l’aporie, à l’impuissance du « Plus-de-jouir »* *à atteindre la Vérité. Le discours* A *interroge la jouissance de l’Autre* (*a* <sub>→</sub> S <sub>→ ↓</sub>S<sub>1</sub> ◊ S<sub>2</sub>), *il y a donc « émergence » du discours* A, *et demande d’amour,* *chaque fois qu’on change de discours quand on vient buter sur la faille, sur l’impuissance du « Plus-de-jouir » à réaliser la jouissance du corps de l’Autre* <sub>→</sub> *quand l’Autre répond « Ce n’est pas ça ! ».*\]
+*qu*’*il y a émergence du discours analytique à chaque « passage »...*de ce que le *discours analytique* permet de pointer comme *franchissement d’un discours à un autre*. \[*chacun des discours* H,U,M *commence par soutenir la possibilité d’un rapport sexuel (jouissance phallique) pour aboutir à l’aporie, à l’impuissance du « Plus-de-jouir »* *à atteindre la Vérité. Le discours* A *interroge la jouissance de l’Autre* (*a* <sub>→</sub> S <sub>→ ↓</sub>S<sub>1</sub> ◊ S<sub>2</sub>), *il y a donc « émergence » du discours* A, *et demande d’amour,* *chaque fois qu’on change de discours quand on vient buter sur la faille, sur l’impuissance du « Plus-de-jouir » à réaliser la jouissance du corps de l’Autre* <sub>→</sub> *quand l’Autre répond « Ce n’est pas ça ! ».*\]
 
 <!-- id: s20-03-0055 -->
 
@@ -252,7 +256,7 @@ La dernière fois j’ai dit que « *La jouissance de l’Autre...*
 
 <!-- id: s20-03-0056 -->
 
-> je vous passe la suite, vous pouvez la reprendre *...n’est pas le signe de l’amour »,* et ici je dis que *« l’amour est un signe ».*
+je vous passe la suite, vous pouvez la reprendre *...n’est pas le signe de l’amour »,* et ici je dis que *« l’amour est un signe ».*
 
 <!-- id: s20-03-0057 -->
 
@@ -272,9 +276,9 @@ avance-t-elle cette logique, et on s’émerveille toujours de ces *dires* qui p
 
 <!-- id: s20-03-0061 -->
 
-> \[*il y a hétérogénéité des deux substances* : *substance potentielle (matérielle) ≠ substance de l’extension (prédicative).*
->
-> *Cf. supra « l’étroit chemin » que Lacan fraye (littoral) entre deux espaces hétérogènes*\]
+\[*il y a hétérogénéité des deux substances* : *substance potentielle (matérielle) ≠ substance de l’extension (prédicative).*
+
+*Cf. supra « l’étroit chemin » que Lacan fraye (littoral) entre deux espaces hétérogènes*\]
 
 <!-- id: s20-03-0062 -->
 
@@ -282,13 +286,13 @@ avance-t-elle cette logique, et on s’émerveille toujours de ces *dires* qui p
 
 <!-- id: s20-03-0063 -->
 
-> je le reprends donc de la dernière fois - ce que j’ai énoncé de *la jouissance de l’Autre,*
->
-> ce que je viens de rappeler à l’instant en commentant : *« ...du corps qui le symbolise »* ...*la jouissance de l’Autre*...
+je le reprends donc de la dernière fois - ce que j’ai énoncé de *la jouissance de l’Autre,*
+
+ce que je viens de rappeler à l’instant en commentant : *« ...du corps qui le symbolise »* ...*la jouissance de l’Autre*...
 
 <!-- id: s20-03-0064 -->
 
-> avec le grand A que j’ai souligné en cette occasion *...c’est proprement celle de « l’Autre sexe »,* et je commentais : « *du corps qui le symbolise »*.
+avec le grand A que j’ai souligné en cette occasion *...c’est proprement celle de « l’Autre sexe »,* et je commentais : « *du corps qui le symbolise »*.
 
 <!-- id: s20-03-0065 -->
 
@@ -296,9 +300,9 @@ Changement de discours: assurément c’est là qu’il est étonnant que ce que
 
 <!-- id: s20-03-0066 -->
 
-> \[*C’est à partir du discours* A *que l’on peut « pointer » ce renversement d’un discours dans un autre,*
->
-> *et le mouvement qui en résulte (« ça bouge » dit Lacan) - la « ronde des discours » - n’est perçu que par le « bouclage » que permet le discours* A\]
+\[*C’est à partir du discours* A *que l’on peut « pointer » ce renversement d’un discours dans un autre,*
+
+*et le mouvement qui en résulte (« ça bouge » dit Lacan) - la « ronde des discours » - n’est perçu que par le « bouclage » que permet le discours* A\]
 
 <!-- id: s20-03-0067 -->
 
@@ -326,11 +330,11 @@ Est-ce qu’à prendre *le langage dans la linguisterie*...
 
 <!-- id: s20-03-0073 -->
 
-> la notion qui semble promue comme appareil aisé, propice à faire fonctionner le langage dans la linguistique d’une façon pas bête, celle qui impliquait *codes* et *messages*, *transmission*, *sujet* donc, et aussi bien *espace*, *distance* ...est-ce que malgré le succès foudroyant de cette *fonction d’information*, succès tel qu’on peut dire que la science toute entière vient à s’en infiltrer...
+la notion qui semble promue comme appareil aisé, propice à faire fonctionner le langage dans la linguistique d’une façon pas bête, celle qui impliquait *codes* et *messages*, *transmission*, *sujet* donc, et aussi bien *espace*, *distance* ...est-ce que malgré le succès foudroyant de cette *fonction d’information*, succès tel qu’on peut dire que la science toute entière vient à s’en infiltrer...
 
 <!-- id: s20-03-0074 -->
 
-> nous en sommes au niveau de l’information moléculaire, du gène et des enroulements des nucléoprotéines autour des tiges d’ADN, elles-mêmes enroulées l’une autour de l’autre, et tout cela est lié par des liens hormonaux, ce sont *messages* qui s’envoient, qui s’enregistrent.
+nous en sommes au niveau de l’information moléculaire, du gène et des enroulements des nucléoprotéines autour des tiges d’ADN, elles-mêmes enroulées l’une autour de l’autre, et tout cela est lié par des liens hormonaux, ce sont *messages* qui s’envoient, qui s’enregistrent.
 
 <!-- id: s20-03-0075 -->
 
@@ -338,9 +342,9 @@ Qu’est-ce à dire, puisqu’aussi bien le succès de cette formule prend sa so
 
 <!-- id: s20-03-0076 -->
 
-> dans une linguistique qui n’est pas seulement *immanente* mais bel et bien formulée. Bref la notion qui va à s’étendre jusqu’aux fondements mêmes de la pensée scientifique,
->
-> à s’articuler comme néguentropique ...est-ce qu’il y a là quelque chose qui ne peut pas nous faire poser question, si c’est bien ce que *d’ailleurs *: de ma *linguisterie,* je recueille - et légitimement - quand je me sers de la fonction du *signifiant* ?
+dans une linguistique qui n’est pas seulement *immanente* mais bel et bien formulée. Bref la notion qui va à s’étendre jusqu’aux fondements mêmes de la pensée scientifique,
+
+à s’articuler comme néguentropique ...est-ce qu’il y a là quelque chose qui ne peut pas nous faire poser question, si c’est bien ce que *d’ailleurs *: de ma *linguisterie,* je recueille - et légitimement - quand je me sers de la fonction du *signifiant* ?
 
 <!-- id: s20-03-0077 -->
 
@@ -352,7 +356,7 @@ Qu’est-ce que <u>le</u> signifiant ?
 
 <!-- id: s20-03-0079 -->
 
-> ce n’est pas moi qui l’ai découvert [^24] *...*jusqu’aux Stoïciens[^25], elle se reflète chez Saint-Augustin [^26], elle est à structurer en termes topologiques.
+ce n’est pas moi qui l’ai découvert [^24] *...*jusqu’aux Stoïciens[^25], elle se reflète chez Saint-Augustin [^26], elle est à structurer en termes topologiques.
 
 <!-- id: s20-03-0080 -->
 
@@ -364,7 +368,7 @@ Il est clair que cette façon de topologiser ce qu’il en est du langage, est i
 
 <!-- id: s20-03-0082 -->
 
-> certes sous la forme la plus admirable *...*par la phonologie, au sens où elle incarne du *phonème* ce qu’il en est du *signifiant*, mais que *le signifiant* d’aucune façon ne peut se *limiter* à ce support phonématique.
+certes sous la forme la plus admirable *...*par la phonologie, au sens où elle incarne du *phonème* ce qu’il en est du *signifiant*, mais que *le signifiant* d’aucune façon ne peut se *limiter* à ce support phonématique.
 
 <!-- id: s20-03-0083 -->
 
@@ -384,7 +388,7 @@ Puisque le linguiste sûrement aurait de la peine, me semble-t-il, à expliquer.
 
 <!-- id: s20-03-0087 -->
 
-> parce qu’il n’a pas de prédicat pour la fonder - cette collection - pour la fonder sur un « *le* » ...comme Jakobson l’a fait remarquer, et très nommément hier, ce n’est pas *le mot* qui peut le fonder ce signifiant, le mot n’a d’autre point où s’y faire *collection* que le dictionnaire, où il peut être rangé.
+parce qu’il n’a pas de prédicat pour la fonder - cette collection - pour la fonder sur un « *le* » ...comme Jakobson l’a fait remarquer, et très nommément hier, ce n’est pas *le mot* qui peut le fonder ce signifiant, le mot n’a d’autre point où s’y faire *collection* que le dictionnaire, où il peut être rangé.
 
 <!-- id: s20-03-0088 -->
 
@@ -392,19 +396,19 @@ Pour vous faire sentir que « *le* » *signifiant* dans l’occasion...
 
 <!-- id: s20-03-0089 -->
 
-> comme très proprement de sa réflexion sémantique Jakobson le faisait remarquer ...pour vous le faire sentir, je ne parlerai pas de la fameuse « *phrase* »...
+comme très proprement de sa réflexion sémantique Jakobson le faisait remarquer ...pour vous le faire sentir, je ne parlerai pas de la fameuse « *phrase* »...
 
 <!-- id: s20-03-0090 -->
 
-> qui pourtant est bien là aussi l’unité signifiante, et qu’à l’occasion on essaiera,
->
-> dans ses représentants typiques, de collecter comme il se fait à l’occasion pour une même langue ...je parlerai plutôt du « *proverbe* » auquel je ne peux pas dire qu’un certain petit article de Paulhan [^27], qui m’est tombé récemment sous la main, ne m’ait pas fait m’intéresser, d’autant plus vivement que Paulhan semble avoir remarqué...
+qui pourtant est bien là aussi l’unité signifiante, et qu’à l’occasion on essaiera,
+
+dans ses représentants typiques, de collecter comme il se fait à l’occasion pour une même langue ...je parlerai plutôt du « *proverbe* » auquel je ne peux pas dire qu’un certain petit article de Paulhan [^27], qui m’est tombé récemment sous la main, ne m’ait pas fait m’intéresser, d’autant plus vivement que Paulhan semble avoir remarqué...
 
 <!-- id: s20-03-0091 -->
 
-> dans cette sorte de dialogue tellement ambigu, qui est celui qui se fait de l’étranger
->
-> avec une certaine « aire de compétence linguistique » comme on dit ...s’est aperçu en d’autres termes qu’avec ses Malgaches le proverbe avait un poids qui lui a semblé jouer un rôle tout à fait spécifique.
+dans cette sorte de dialogue tellement ambigu, qui est celui qui se fait de l’étranger
+
+avec une certaine « aire de compétence linguistique » comme on dit ...s’est aperçu en d’autres termes qu’avec ses Malgaches le proverbe avait un poids qui lui a semblé jouer un rôle tout à fait spécifique.
 
 <!-- id: s20-03-0092 -->
 
@@ -412,7 +416,7 @@ Qu’il l’ait découvert à cette occasion ne m’empêchera pas de ne pas all
 
 <!-- id: s20-03-0093 -->
 
-> si vous me permettez ce terme ...du proverbe à la locution.
+si vous me permettez ce terme ...du proverbe à la locution.
 
 <!-- id: s20-03-0094 -->
 
@@ -460,11 +464,11 @@ Mais n’oublions pas qu’au départ si l’on s’est attaché - et tellement 
 
 <!-- id: s20-03-0105 -->
 
-> c’est comme s’exprime - probablement contre son cœur - Saussure.
->
-> Il avait affaire - comme ça arrive n’est-ce pas ? \[*sic*\] - à des imbéciles, il pensait bien autre chose,
->
-> *bien plus près du texte du* *Cratyle* [^28]quand on voit ce qu’il a dans ses tiroirs : des histoires d’*anagrammes* [^29] ...ce qui passe pour de *l’arbitraire* c’est que *les effets de signifié*, eux, sont bien plus difficiles à soupeser.
+c’est comme s’exprime - probablement contre son cœur - Saussure.
+
+Il avait affaire - comme ça arrive n’est-ce pas ? \[*sic*\] - à des imbéciles, il pensait bien autre chose,
+
+*bien plus près du texte du* *Cratyle* [^28]quand on voit ce qu’il a dans ses tiroirs : des histoires d’*anagrammes* [^29] ...ce qui passe pour de *l’arbitraire* c’est que *les effets de signifié*, eux, sont bien plus difficiles à soupeser.
 
 <!-- id: s20-03-0106 -->
 
@@ -492,7 +496,7 @@ C’est dans cette approche que *le signifié* a pour propriété, sauf introduc
 
 <!-- id: s20-03-0112 -->
 
-> au point où j’en suis de mon exposé ...nous n’avons qu’une idée lointaine, ne serait-ce qu’à propos
+au point où j’en suis de mon exposé ...nous n’avons qu’une idée lointaine, ne serait-ce qu’à propos
 
 <!-- id: s20-03-0113 -->
 
@@ -500,7 +504,7 @@ C’est dans cette approche que *le signifié* a pour propriété, sauf introduc
 
 <!-- id: s20-03-0114 -->
 
-> \- *« Un » *: substantif (un *Un*), et « *signifiant* » : verbe (participe présent)\],
+\- *« Un » *: substantif (un *Un*), et « *signifiant* » : verbe (participe présent)\],
 
 <!-- id: s20-03-0115 -->
 
@@ -508,9 +512,9 @@ C’est dans cette approche que *le signifié* a pour propriété, sauf introduc
 
 <!-- id: s20-03-0116 -->
 
-> \- *« Le » *: « *L’unique* » et « *signifiant* » : substantif, → « *Le signifiant Un* » : **S<sub>1</sub>** \]
->
-> dont nous ne savons pas, *à propos du signifiant* - comment faire fonctionner pour qu’il le *collectivise*.
+\- *« Le » *: « *L’unique* » et « *signifiant* » : substantif, → « *Le signifiant Un* » : **S<sub>1</sub>** \]
+
+dont nous ne savons pas, *à propos du signifiant* - comment faire fonctionner pour qu’il le *collectivise*.
 
 <!-- id: s20-03-0117 -->
 
@@ -586,11 +590,11 @@ C’est simplement que je ne crois pas, par contre, qu’il apporte le moindre *
 
 <!-- id: s20-03-0135 -->
 
-> \[S<sub>1</sub>, *le signifiant fondamental, est « bête », asémantique, il n’est porteur d’aucun message, d’aucun sens, et c’est là dans le « non-sens » du symptôme,*
->
-> *du lapsus, du rêve... qu’« il est vraiment signifiant », qu’il signifie, dénote, désigne, ce qui n’est pas là, ce qui est toujours absent,*
->
-> *ce qui est « perdu » et éperdument visé* \]
+\[S<sub>1</sub>, *le signifiant fondamental, est « bête », asémantique, il n’est porteur d’aucun message, d’aucun sens, et c’est là dans le « non-sens » du symptôme,*
+
+*du lapsus, du rêve... qu’« il est vraiment signifiant », qu’il signifie, dénote, désigne, ce qui n’est pas là, ce qui est toujours absent,*
+
+*ce qui est « perdu » et éperdument visé* \]
 
 <!-- id: s20-03-0136 -->
 
@@ -602,9 +606,9 @@ Il s’agirait de la fonder, parce que quand même, c’est le fondement du symb
 
 <!-- id: s20-03-0138 -->
 
-> \[*ce* S<sub>1</sub> *signifiant « bête » n’est pas celui de la linguistique mais celui de la linguisterie, des bêtises, de la jouissance, de ce qui « ne se peut dire »*
->
-> *<sub>→</sub> au fondement même du symbolique comme trace, écriture, d’une expérience de jouissance*\]
+\[*ce* S<sub>1</sub> *signifiant « bête » n’est pas celui de la linguistique mais celui de la linguisterie, des bêtises, de la jouissance, de ce qui « ne se peut dire »*
+
+*<sub>→</sub> au fondement même du symbolique comme trace, écriture, d’une expérience de jouissance*\]
 
 <!-- id: s20-03-0139 -->
 
@@ -640,7 +644,7 @@ Il conviendrait peut-être d’interroger à partir de là, où peut bien se cas
 
 <!-- id: s20-03-0147 -->
 
-> qu’il faudrait écrire *d.i.t., trait d’union, mention *\[« *dit-mention* », *voire* « *dit-mansion* »\] ...à quoi la fonction du langage est d’abord ce qui y veille, avant tout usage meilleur et plus rigoureux. \[*lalangue <u>comme</u> un langage*\] \[*cette troisième dimension de la substance (dit-mension ou dit-mention, voire dit-mansion : la résidence du dit, lieu du savoir de l’Autre,* *de la vérité et de la jouissance) révèle occasionnellement la jouissance qui s’y exerce dans un « dire » dont l’écriture reste à déchiffrer*\]
+qu’il faudrait écrire *d.i.t., trait d’union, mention *\[« *dit-mention* », *voire* « *dit-mansion* »\] ...à quoi la fonction du langage est d’abord ce qui y veille, avant tout usage meilleur et plus rigoureux. \[*lalangue <u>comme</u> un langage*\] \[*cette troisième dimension de la substance (dit-mension ou dit-mention, voire dit-mansion : la résidence du dit, lieu du savoir de l’Autre,* *de la vérité et de la jouissance) révèle occasionnellement la jouissance qui s’y exerce dans un « dire » dont l’écriture reste à déchiffrer*\]
 
 <!-- id: s20-03-0148 -->
 
@@ -666,7 +670,7 @@ Si j’en suis aujourd’hui à traîner dans l’ornière « *l’inconscient
 
 <!-- id: s20-03-0153 -->
 
-> comme ça pour le charmer, « *à tout dire* »...
+comme ça pour le charmer, « *à tout dire* »...
 
 <!-- id: s20-03-0154 -->
 
@@ -678,7 +682,7 @@ Néanmoins si je parle du *« pas tout »...*
 
 <!-- id: s20-03-0156 -->
 
-> ce qui tracasse beaucoup de monde ...si je l’ai mis au premier plan pour être la visée de cette année de mon discours, c’est bien là l’occasion de l’appliquer : on ne peut *« pas tout » dire,* mais qu’on puisse *dire des bêtises, tout est là.*
+ce qui tracasse beaucoup de monde ...si je l’ai mis au premier plan pour être la visée de cette année de mon discours, c’est bien là l’occasion de l’appliquer : on ne peut *« pas tout » dire,* mais qu’on puisse *dire des bêtises, tout est là.*
 
 <!-- id: s20-03-0157 -->
 
@@ -714,11 +718,11 @@ Ce que je regrette beaucoup c’est que Parménide[^32], je parle de Parménide�
 
 <!-- id: s20-03-0165 -->
 
-> \[*au discours philosophique sur l’être, tel que le reprend Kojève de Parménide : « l’être est, le non être n’est pas »,*
->
-> *Lacan oppose un être fondé sur rien (zéro) qui ex-siste et qui fonde la série par la nomination :*
->
-> *le zéro porte « un nom comme 1 », premier élément, puis le 1 porte un nom comme « 2 », etc. (cf. la fondation par Frege des entiers naturels)* \]
+\[*au discours philosophique sur l’être, tel que le reprend Kojève de Parménide : « l’être est, le non être n’est pas »,*
+
+*Lacan oppose un être fondé sur rien (zéro) qui ex-siste et qui fonde la série par la nomination :*
+
+*le zéro porte « un nom comme 1 », premier élément, puis le 1 porte un nom comme « 2 », etc. (cf. la fondation par Frege des entiers naturels)* \]
 
 <!-- id: s20-03-0166 -->
 
@@ -774,7 +778,7 @@ Nous aurons donc tout de même quelques références à prendre, et à prendre *
 
 <!-- id: s20-03-0179 -->
 
-> on peut le dire comme on dit « *pur esprit »*, et on ne peut pas dire que ce soit prometteur ...ce *pur espace* se fonde sur la notion de *parties* à condition d’y ajouter ceci : que toutes sont externes : *partes, extra partes,* c’est à ça que nous avons affaire.
+on peut le dire comme on dit « *pur esprit »*, et on ne peut pas dire que ce soit prometteur ...ce *pur espace* se fonde sur la notion de *parties* à condition d’y ajouter ceci : que toutes sont externes : *partes, extra partes,* c’est à ça que nous avons affaire.
 
 <!-- id: s20-03-0180 -->
 
@@ -818,7 +822,7 @@ Ce qui veut dire quelque chose d’autre que la *partes extra partes* de la *sub
 
 <!-- id: s20-03-0190 -->
 
-> disons-le, c’est un vieux bateau qui est quelque part dans mes *Écrits* [^33], qu’on lit plus ou moins bien ...cette sorte de *kantien* qu’était Sade, à savoir : *qu’on ne peut jouir que d’une partie du corps de l’autre*, comme il l’exprime très, très bien, pour la simple raison qu’on n’a jamais vu un corps s’enrouler complètement, totalement, jusqu’à l’inclure et le phagocyter autour du corps de l’autre \[*Rires*\].
+disons-le, c’est un vieux bateau qui est quelque part dans mes *Écrits* [^33], qu’on lit plus ou moins bien ...cette sorte de *kantien* qu’était Sade, à savoir : *qu’on ne peut jouir que d’une partie du corps de l’autre*, comme il l’exprime très, très bien, pour la simple raison qu’on n’a jamais vu un corps s’enrouler complètement, totalement, jusqu’à l’inclure et le phagocyter autour du corps de l’autre \[*Rires*\].
 
 <!-- id: s20-03-0191 -->
 
@@ -894,7 +898,7 @@ Et après avoir pris ainsi ce que j’appellerai *la cause matérielle*, j’ira
 
 <!-- id: s20-03-0209 -->
 
-> ceci sera plus tard repris, commenté ...à *la cause finale,* *« finale »* dans tous les sens du terme, proprement en ceci qu’elle en est le terme \[*la fin*\] :
+ceci sera plus tard repris, commenté ...à *la cause finale,* *« finale »* dans tous les sens du terme, proprement en ceci qu’elle en est le terme \[*la fin*\] :
 
 <!-- id: s20-03-0210 -->
 

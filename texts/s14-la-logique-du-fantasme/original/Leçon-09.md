@@ -46,7 +46,7 @@ La castration donc, c’est quelque chose comme de s’éveiller à ce que la se
 
 <!-- id: s14-09-0011 -->
 
-> je veux dire : tout ce qui s’en réalise dans l’évènement psychique …ce soit ça, à savoir *quelque chose qui se marque du signe d’un manque*.
+je veux dire : tout ce qui s’en réalise dans l’évènement psychique …ce soit ça, à savoir *quelque chose qui se marque du signe d’un manque*.
 
 <!-- id: s14-09-0012 -->
 
@@ -58,9 +58,9 @@ Et sans doute, cette horreur qui est liée à la première appréhension de la c
 
 <!-- id: s14-09-0014 -->
 
-> *à savoir ce qui n’est pas purement et simplement à prendre comme le personnage chargé de di­verses fonctions dans une certaine relation typifiée*
->
-> *à l’origine de la vie du petit humain, mais aussi bien com­me quelque chose qui a le rapport le plus profond avec cet Autre qui est mis en question à l’origine de toute cette opération logique* …que cet Autre soit castré, l’horreur corrélative et régulière si l’on peut dire, qui se produit à cette découverte, est quelque chose qui nous porte au cœur de ce dont il s’agit quant à la relation du sujet à l’Autre en tant qu’elle s’y fonde.
+*à savoir ce qui n’est pas purement et simplement à prendre comme le personnage chargé de di­verses fonctions dans une certaine relation typifiée*
+
+*à l’origine de la vie du petit humain, mais aussi bien com­me quelque chose qui a le rapport le plus profond avec cet Autre qui est mis en question à l’origine de toute cette opération logique* …que cet Autre soit castré, l’horreur corrélative et régulière si l’on peut dire, qui se produit à cette découverte, est quelque chose qui nous porte au cœur de ce dont il s’agit quant à la relation du sujet à l’Autre en tant qu’elle s’y fonde.
 
 <!-- id: s14-09-0015 -->
 
@@ -80,7 +80,7 @@ Mais bien sûr, ce n’est pas quelque chose à quoi nous puissions nous arrête
 
 <!-- id: s14-09-0019 -->
 
-> que nous posons comme étant le terme logiquement équi­valent du choix inaugural de l’aliénation …qu’est-ce que ça veut dire ?
+que nous posons comme étant le terme logiquement équi­valent du choix inaugural de l’aliénation …qu’est-ce que ça veut dire ?
 
 <!-- id: s14-09-0020 -->
 
@@ -108,15 +108,15 @@ Eh bien, je viens de le dire, je n’ai pas besoin d’aller cher­cher plus loi
 
 <!-- id: s14-09-0026 -->
 
-> de *cette référence à l’Autre si essentielle chez Descartes* et qui nous a permis d’en partir pour assu­rer notre premier pas …est-ce que ce n’est pas justement, que l’Autre…
+de *cette référence à l’Autre si essentielle chez Descartes* et qui nous a permis d’en partir pour assu­rer notre premier pas …est-ce que ce n’est pas justement, que l’Autre…
 
 <!-- id: s14-09-0027 -->
 
-> *l’Autre de ce que Pascal appelle le « Dieu des philosophes », l’Autre en tant qu’il est en effet si néces­saire à l’édification de toute philosophie* …est-ce qu’il ne le caractérise pas au plus, au mieux…
+*l’Autre de ce que Pascal appelle le « Dieu des philosophes », l’Autre en tant qu’il est en effet si néces­saire à l’édification de toute philosophie* …est-ce qu’il ne le caractérise pas au plus, au mieux…
 
 <!-- id: s14-09-0028 -->
 
-> *et même aussi bien irions-nous plus loin, chez les mystiques con­temporains de la même étape du réfléchissement sur ce thè­me de l’Autre* …est-ce qu’il ne le caractérise pas essentiellement de *n’être pas marqué* ? Théologie né­gative…
+*et même aussi bien irions-nous plus loin, chez les mystiques con­temporains de la même étape du réfléchissement sur ce thè­me de l’Autre* …est-ce qu’il ne le caractérise pas essentiellement de *n’être pas marqué* ? Théologie né­gative…
 
 <!-- id: s14-09-0029 -->
 
@@ -132,11 +132,11 @@ S’il fallait, avant que je le profère ici, devant vous, de façon magistrale�
 
 <!-- id: s14-09-0032 -->
 
-> ce qui est toujours quelque peu abuser de la créance qui est faite à la parole de ce­lui qui enseigne …essayer de voir à de petits signes comme ceux-ci, qui se voient à ce qu’on fait quand on tra­duit : si je parlais en allemand, vous pouvez vous poser la question de savoir comment je le traduirais, cet Autre…
+ce qui est toujours quelque peu abuser de la créance qui est faite à la parole de ce­lui qui enseigne …essayer de voir à de petits signes comme ceux-ci, qui se voient à ce qu’on fait quand on tra­duit : si je parlais en allemand, vous pouvez vous poser la question de savoir comment je le traduirais, cet Autre…
 
 <!-- id: s14-09-0033 -->
 
-> que vous me passez depuis tant d’années, parce que je vous en ai rebattu les oreilles …« *das Anderes* », ou « *der An­dere* » ?
+que vous me passez depuis tant d’années, parce que je vous en ai rebattu les oreilles …« *das Anderes* », ou « *der An­dere* » ?
 
 <!-- id: s14-09-0034 -->
 
@@ -152,7 +152,7 @@ Le *neu­tre* est un *genre* aussi et justement *marqué*. Le propre des langues
 
 <!-- id: s14-09-0037 -->
 
-> *il faudrait que je parle* - je n’en ai pas eu le temps avant d’édifier pour vous ces réflexions aujourd’hui - *il faudrait que je parle avec quelque anglo­phone*, ils ne manquent pas dans mon auditoire mais… je voulais le faire hier soir, le temps m’a manqué …pour­quoi, en anglais il y a quelque tirage - *j’ai pu m’en aper­cevoir lors de mon dernier discours pour Baltimore - à le traduire par* « *the Other* » ?
+*il faudrait que je parle* - je n’en ai pas eu le temps avant d’édifier pour vous ces réflexions aujourd’hui - *il faudrait que je parle avec quelque anglo­phone*, ils ne manquent pas dans mon auditoire mais… je voulais le faire hier soir, le temps m’a manqué …pour­quoi, en anglais il y a quelque tirage - *j’ai pu m’en aper­cevoir lors de mon dernier discours pour Baltimore - à le traduire par* « *the Other* » ?
 
 <!-- id: s14-09-0038 -->
 
@@ -188,7 +188,7 @@ Parce que l’y faire remarquer…
 
 <!-- id: s14-09-0046 -->
 
-> dans la pensée par exemple, de tel philosophe contemporain …que dans tel point, il y a quelque chose qui vient prendre la place d’un manque, justement, et qui s’exprime de façon plus ou moins embarrassée, par exemple comme « *conscience thétique de soi* », dont il n’y a vraiment rien à dire, si ce n’est que ce n’est pas un *Unsinn*, car un *Unsinn* ce n’est pas « *rien quant au Sinn* », nous le savons, mais que c’est à proprement parler - j’ai dit « *conscience <u>non</u> thétique de soi* » n’est-ce pas - que c’est à proprement parler « *sinnlos* » c’est encore trop en dire, car c’est concéder que ce point pourrait être la marque du lieu–même qui serait ce quelque chose d’in­diqué comme manquant.
+dans la pensée par exemple, de tel philosophe contemporain …que dans tel point, il y a quelque chose qui vient prendre la place d’un manque, justement, et qui s’exprime de façon plus ou moins embarrassée, par exemple comme « *conscience thétique de soi* », dont il n’y a vraiment rien à dire, si ce n’est que ce n’est pas un *Unsinn*, car un *Unsinn* ce n’est pas « *rien quant au Sinn* », nous le savons, mais que c’est à proprement parler - j’ai dit « *conscience <u>non</u> thétique de soi* » n’est-ce pas - que c’est à proprement parler « *sinnlos* » c’est encore trop en dire, car c’est concéder que ce point pourrait être la marque du lieu–même qui serait ce quelque chose d’in­diqué comme manquant.
 
 <!-- id: s14-09-0047 -->
 
@@ -204,9 +204,9 @@ Comment, par exemple, ne pas s’apercevoir que cette pensée qu’ici j’invoq
 
 <!-- id: s14-09-0050 -->
 
-> sans vouloir lui donner son la­bel, précisément pour bien marquer que ce dont il s’agit,
->
-> quant à ce dont nous avons à trancher sur *ce chemin de la pensée*, …ne saurait d’aucune façon s’autoriser d’aucun label, et moins du mien que de tout autre.
+sans vouloir lui donner son la­bel, précisément pour bien marquer que ce dont il s’agit,
+
+quant à ce dont nous avons à trancher sur *ce chemin de la pensée*, …ne saurait d’aucune façon s’autoriser d’aucun label, et moins du mien que de tout autre.
 
 <!-- id: s14-09-0051 -->
 
@@ -250,9 +250,9 @@ Sur ce qu’il en est dans cette *trace* que je quit­te maintenant et sur laque
 
 <!-- id: s14-09-0061 -->
 
-> puisque j’ai pu entendre dans la bouche d’analystes, qu’il y avait tout de même quel­que chose à retenir dans
->
-> le rapprochement que du dehors on essayait d’instaurer, de la survenue d’une certaine pen­sée, sur le fond supposé d’une philosophie, prétendue par elle attaquée voire subvertie …il est très surprenant que la possibilité d’une telle référence puisse être même, et par quelqu’un par exemple qui soit analyste, admise comme un de ces simples effets possibles de ce qu’on appel­le, dans l’occasion, *aliénation*.
+puisque j’ai pu entendre dans la bouche d’analystes, qu’il y avait tout de même quel­que chose à retenir dans
+
+le rapprochement que du dehors on essayait d’instaurer, de la survenue d’une certaine pen­sée, sur le fond supposé d’une philosophie, prétendue par elle attaquée voire subvertie …il est très surprenant que la possibilité d’une telle référence puisse être même, et par quelqu’un par exemple qui soit analyste, admise comme un de ces simples effets possibles de ce qu’on appel­le, dans l’occasion, *aliénation*.
 
 <!-- id: s14-09-0062 -->
 
@@ -264,7 +264,7 @@ L’*aliénation* n’a absolument rien à faire avec ce qui résulte de déform
 
 <!-- id: s14-09-0064 -->
 
-> même, je dirais enfin, de la façon la plus traditionnelle et dès lors que maintenant c’est suffisam­ment établi …d’une pensée qu’on appelle « marxiste ».
+même, je dirais enfin, de la façon la plus traditionnelle et dès lors que maintenant c’est suffisam­ment établi …d’une pensée qu’on appelle « marxiste ».
 
 <!-- id: s14-09-0065 -->
 
@@ -276,7 +276,7 @@ L’*alié­nation* marxiste, d’ailleurs, ne suppose absolument pas en soi *l�
 
 <!-- id: s14-09-0067 -->
 
-> qui n’a absolument rien à faire avec *l’opinion* et qu’aucune *persuasion sociologique* ne modi­fiera en aucun cas …à savoir que mon travail - le mien, à moi-même - il me revient et qu’il faut que je le paie d’un certain prix.
+qui n’a absolument rien à faire avec *l’opinion* et qu’aucune *persuasion sociologique* ne modi­fiera en aucun cas …à savoir que mon travail - le mien, à moi-même - il me revient et qu’il faut que je le paie d’un certain prix.
 
 <!-- id: s14-09-0068 -->
 
@@ -296,13 +296,13 @@ Et c’est pourquoi c’est au niveau des *analystes* que quelquefois, sur ce qu
 
 <!-- id: s14-09-0072 -->
 
-> qui va certes bien au-delà dans ce qu’elle trace d’ouverture à l’amour, pour ceci sim­plement qu’elle y indique que la *Verwerfung* qu’elle cons­titue ne relève précisément que de ceci : que l’amour ne pense pas…
->
-> mais qu’elle n’articule pas - comme FREUD le fait, lui, purement et simplement - que le fondement de la *Verliebheit,* de l’amour, c’est le *Lust-Ich,* et qu’il n’est rien d’autre - *car ceci est dans FREUD affirmé -* que l’effet du narcissisme …*comment donc, à une formule*…
+qui va certes bien au-delà dans ce qu’elle trace d’ouverture à l’amour, pour ceci sim­plement qu’elle y indique que la *Verwerfung* qu’elle cons­titue ne relève précisément que de ceci : que l’amour ne pense pas…
+
+mais qu’elle n’articule pas - comme FREUD le fait, lui, purement et simplement - que le fondement de la *Verliebheit,* de l’amour, c’est le *Lust-Ich,* et qu’il n’est rien d’autre - *car ceci est dans FREUD affirmé -* que l’effet du narcissisme …*comment donc, à une formule*…
 
 <!-- id: s14-09-0073 -->
 
-> dont il apparaît tout de suite qu’elle est *infiniment plus ouverte*, pour n’aller pas moins loin qu’à *cette remarque*, impliquée dans un certain commandement qui - je pense - ne vous est pas in­connu[^42] - que c’est au plus secret de toi-même que doit être cherché le ressort de l’amour du prochain …*comment donc une telle formule* peut-elle - et j’y insiste : dans une oreille analytique ! - évoquer je ne sais quelle alarme, com­me si ce que j’avais prononcé-là était dépréciatif, comme si - *comme je l’ai entendu* - je commettais quelque imprudence de l’ordre de celle-ci :
+dont il apparaît tout de suite qu’elle est *infiniment plus ouverte*, pour n’aller pas moins loin qu’à *cette remarque*, impliquée dans un certain commandement qui - je pense - ne vous est pas in­connu[^42] - que c’est au plus secret de toi-même que doit être cherché le ressort de l’amour du prochain …*comment donc une telle formule* peut-elle - et j’y insiste : dans une oreille analytique ! - évoquer je ne sais quelle alarme, com­me si ce que j’avais prononcé-là était dépréciatif, comme si - *comme je l’ai entendu* - je commettais quelque imprudence de l’ordre de celle-ci :
 
 <!-- id: s14-09-0074 -->
 
@@ -310,7 +310,7 @@ Et c’est pourquoi c’est au niveau des *analystes* que quelquefois, sur ce qu
 
 <!-- id: s14-09-0075 -->
 
-> *à ma connaissance bien sûr*, mais il y en a quelques-uns qui viennent me faire, dans la semaine qui suit, *des confidences* …que des réactions sin­gulièrement toniques, je dirais. Si *austère* que soit la formule, elle a paru *salubre* à beaucoup.
+*à ma connaissance bien sûr*, mais il y en a quelques-uns qui viennent me faire, dans la semaine qui suit, *des confidences* …que des réactions sin­gulièrement toniques, je dirais. Si *austère* que soit la formule, elle a paru *salubre* à beaucoup.
 
 <!-- id: s14-09-0076 -->
 
@@ -326,7 +326,7 @@ Qui n’est pas moins vrai en effet, que la formule précédente, pour autant qu
 
 <!-- id: s14-09-0079 -->
 
-> et c’est là ce sur quoi je veux aujourd’hui m’attarder encore un peu …et dont on conçoit, qu’en effet elle intéresse l’analyste.
+et c’est là ce sur quoi je veux aujourd’hui m’attarder encore un peu …et dont on conçoit, qu’en effet elle intéresse l’analyste.
 
 <!-- id: s14-09-0080 -->
 
@@ -334,9 +334,9 @@ Car dans l’opération de l’analyse…
 
 <!-- id: s14-09-0081 -->
 
-> en tant que, seule elle, nous permet d’aller assez loin dans ce *rapport de la pensée à l’être* au niveau du «* je* », pour que
->
-> ce soit elle qui introduit la fonction de la castration …le *petit(a)* dans cette opération a *à être achevé d’une queue signi­fiante* : *le* *petit(a)*, dans le chemin que trace l’analyse, *c’est l’analyste !*
+en tant que, seule elle, nous permet d’aller assez loin dans ce *rapport de la pensée à l’être* au niveau du «* je* », pour que
+
+ce soit elle qui introduit la fonction de la castration …le *petit(a)* dans cette opération a *à être achevé d’une queue signi­fiante* : *le* *petit(a)*, dans le chemin que trace l’analyse, *c’est l’analyste !*
 
 <!-- id: s14-09-0082 -->
 
@@ -352,7 +352,7 @@ Comment ne pas reconnaî­tre qu’il n’y a là rien qui puisse plus nous dér
 
 <!-- id: s14-09-0085 -->
 
-> par les voies de court–circuit aphoristique d’une sagesse certes perdue mais pas tout à fait sans écho …sous la forme du तत् त्वम् अस \[[Tat twam asi](http://en.wikipedia.org/wiki/Tat_Tvam_Asi) : tu es cela\] : *reconnais-toi, tu es ceci*.
+par les voies de court–circuit aphoristique d’une sagesse certes perdue mais pas tout à fait sans écho …sous la forme du तत् त्वम् अस \[[Tat twam asi](http://en.wikipedia.org/wiki/Tat_Tvam_Asi) : tu es cela\] : *reconnais-toi, tu es ceci*.
 
 <!-- id: s14-09-0086 -->
 
@@ -372,7 +372,7 @@ Est-ce qu’il n’est pas bien clair…
 
 <!-- id: s14-09-0090 -->
 
-> à ouvrir seule­ment un volume comme le dernier paru des *Mythologiques* de Claude LÉVI-STRAUSS …que si l’analyse des mythes - telle qu’elle nous est présentée - a un sens, *c’est qu’elle désaxe complètement la fonction de la représentation*.
+à ouvrir seule­ment un volume comme le dernier paru des *Mythologiques* de Claude LÉVI-STRAUSS …que si l’analyse des mythes - telle qu’elle nous est présentée - a un sens, *c’est qu’elle désaxe complètement la fonction de la représentation*.
 
 <!-- id: s14-09-0091 -->
 
@@ -384,9 +384,9 @@ Et cette analyse est un *jeu*, est un *jeu fascinant* par ce qu’il nous rappel
 
 <!-- id: s14-09-0093 -->
 
-> conçu comme substance nourricière préparée par d’autres que l’homme,
->
-> et en quelque sorte d’*avant* la distinction de la nature et de la culture …avec ce qui opère au-delà du *cru et du cuit* de la cuisine, à savoir ce qui se réduit en fumée : le tabac.
+conçu comme substance nourricière préparée par d’autres que l’homme,
+
+et en quelque sorte d’*avant* la distinction de la nature et de la culture …avec ce qui opère au-delà du *cru et du cuit* de la cuisine, à savoir ce qui se réduit en fumée : le tabac.
 
 <!-- id: s14-09-0094 -->
 
@@ -406,7 +406,7 @@ Puisque *les cho­ses se font signe*…
 
 <!-- id: s14-09-0098 -->
 
-> avec toute l’ambiguïté que vous pouvez mettre dans ce terme : « *se font signe entre elles* » …qu’elles peuvent s’appeler et s’attendre, et s’ordonner comme ordre des choses, que sans aucun doute c’est là-dessus que nous jouons chaque fois qu’interprétant comme *analystes* nous faisons fonctionner quelque chose comme *Bedeutung.*
+avec toute l’ambiguïté que vous pouvez mettre dans ce terme : « *se font signe entre elles* » …qu’elles peuvent s’appeler et s’attendre, et s’ordonner comme ordre des choses, que sans aucun doute c’est là-dessus que nous jouons chaque fois qu’interprétant comme *analystes* nous faisons fonctionner quelque chose comme *Bedeutung.*
 
 <!-- id: s14-09-0099 -->
 
@@ -470,19 +470,19 @@ Mais qu’est-ce que ça veut dire ? Je dirais que c’est ce que je disais, un 
 
 <!-- id: s14-09-0114 -->
 
-> je ne sais pas comment j’arrive à les faire passer, mais qu’importe, je l’ai peut-être écrit dans d’autres ter­mes …mais tandis que je m’efforçais de centrer, pour vous le faire sentir, ce que j’appelle en l’occasion cette « *syn­cope de la Bedeutung* »…
+je ne sais pas comment j’arrive à les faire passer, mais qu’importe, je l’ai peut-être écrit dans d’autres ter­mes …mais tandis que je m’efforçais de centrer, pour vous le faire sentir, ce que j’appelle en l’occasion cette « *syn­cope de la Bedeutung* »…
 
 <!-- id: s14-09-0115 -->
 
-> puisque c’était pour vous montrer que c’est là le point que vient combler le « *Sinn »* *…*d’où sou­dain, il m’est apparu que ce qu’il y avait de plus propre à supporter *ce rôle de l’objet-sein dans le fantasme*, en tant qu’il est, lui vraiment, le support spécifique du « *je* » - du « *je* » de la pulsion orale - *mais ce n’était rien d’autre que la formule*…
+puisque c’était pour vous montrer que c’est là le point que vient combler le « *Sinn »* *…*d’où sou­dain, il m’est apparu que ce qu’il y avait de plus propre à supporter *ce rôle de l’objet-sein dans le fantasme*, en tant qu’il est, lui vraiment, le support spécifique du « *je* » - du « *je* » de la pulsion orale - *mais ce n’était rien d’autre que la formule*…
 
 <!-- id: s14-09-0116 -->
 
-> puisque vous êtes tous ici plus ou moins des initiés, des pratiquants, voire des *aficionados* de mon discours …et la formule, dont je me suis servi cent fois pour imager le caractère purement structural *du « Sinn Colourless green ideas… »*…
+puisque vous êtes tous ici plus ou moins des initiés, des pratiquants, voire des *aficionados* de mon discours …et la formule, dont je me suis servi cent fois pour imager le caractère purement structural *du « Sinn Colourless green ideas… »*…
 
 <!-- id: s14-09-0117 -->
 
-> ces *idées sans couleur et vertes* aussi bien, pourquoi pas ? …*sleep furiously !* Voilà les seins ! \[Rires\]
+ces *idées sans couleur et vertes* aussi bien, pourquoi pas ? …*sleep furiously !* Voilà les seins ! \[Rires\]
 
 <!-- id: s14-09-0118 -->
 
@@ -534,7 +534,7 @@ Mais n’est-il pas encore plus remarquable de voir FREUD…
 
 <!-- id: s14-09-0130 -->
 
-> à la fin d’une des sections de ce VI<sup>ème</sup> chapitre sur lequel j’ai insisté la dernière fois …préciser que c’est d’une façon très sûre que le rêveur s’arme et se défend de ceci : *que ce qu’il rêve n’est qu’un rêve*.
+à la fin d’une des sections de ce VI<sup>ème</sup> chapitre sur lequel j’ai insisté la dernière fois …préciser que c’est d’une façon très sûre que le rêveur s’arme et se défend de ceci : *que ce qu’il rêve n’est qu’un rêve*.
 
 <!-- id: s14-09-0131 -->
 
@@ -550,7 +550,7 @@ Suivons FREUD : *rêver qu’on rêve* doit être l’objet d’une fonction bie
 
 <!-- id: s14-09-0134 -->
 
-> quoi­que d’une voie exactement contraire que l’assertion de ce­ci : qu’une idée est transparente à elle-même …la trace de quelque chose qui mérite d’être suivi ?
+quoi­que d’une voie exactement contraire que l’assertion de ce­ci : qu’une idée est transparente à elle-même …la trace de quelque chose qui mérite d’être suivi ?
 
 <!-- id: s14-09-0135 -->
 

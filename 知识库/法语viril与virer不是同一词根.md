@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班XIXb
-  - 领域/语言学
+  - 领域/语言符号与文献/语源修辞与造词
   - 语言/拉丁语
   - 语言/法语
   - 概念/词源学

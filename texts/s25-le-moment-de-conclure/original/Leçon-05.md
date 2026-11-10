@@ -70,7 +70,7 @@ C’est ce que j’appelle aussi « *ce qui fait trou* », car un tore fait *tro
 
 <!-- id: s25-05-0017 -->
 
-> pas tout de suite, après un certain nombre d’approxima­tions ...j’ai réussi à vous donner l’idée du *trou*. Un tore ça passe - à juste titre - pour troué. Ιl y a plus d’un *trou* chez ce que l’on appelle l’« *homme* ». C’en est même une véritable passoire : j’entre où ?
+pas tout de suite, après un certain nombre d’approxima­tions ...j’ai réussi à vous donner l’idée du *trou*. Un tore ça passe - à juste titre - pour troué. Ιl y a plus d’un *trou* chez ce que l’on appelle l’« *homme* ». C’en est même une véritable passoire : j’entre où ?
 
 <!-- id: s25-05-0018 -->
 
@@ -78,7 +78,7 @@ Ce point d’interrogation a sa réponse pour « *tout tétrume un* »...
 
 <!-- id: s25-05-0019 -->
 
-> je ne vois pas pourquoi je n’écrirais pas ça comme ça, à l’occasion ...ce point d’inter­rogation - viens-je de dire - a sa réponse pour « *tout tétrume un* » : j’écrirais ça « *l’amort* ».
+je ne vois pas pourquoi je n’écrirais pas ça comme ça, à l’occasion ...ce point d’inter­rogation - viens-je de dire - a sa réponse pour « *tout tétrume un* » : j’écrirais ça « *l’amort* ».
 
 <!-- id: s25-05-0020 -->
 
@@ -86,13 +86,13 @@ Ce qu’il y a de bizarre dans les...
 
 <!-- id: s25-05-0021 -->
 
-> parce que pourquoi ne pas l’écrire aussi comme ça : « *les trumains* », là, je les mets au pluriel ...ce qu’il y a de bizarre dans « *les trumains* »...
+parce que pourquoi ne pas l’écrire aussi comme ça : « *les trumains* », là, je les mets au pluriel ...ce qu’il y a de bizarre dans « *les trumains* »...
 
 <!-- id: s25-05-0022 -->
 
-> pourquoi ne pas écrire ça comme ça aussi, puisqu’aussi bien se servir de cette orthographe en français est jus­tifié par le fait que « *les* », signe du pluriel, vaut bien d’être substitué à « *l’être* » qui n’est comme on dit
->
-> qu’une copule, c’est-à-dire ne vaut pas cher. Ne vaut pas cher par l’usage qu’on « *amphest* » : amphigourique ! ...ce qu’il y a de curieux, c’est que l’homme tient beaucoup à être mor­tel. Ιl accapare la mort !
+pourquoi ne pas écrire ça comme ça aussi, puisqu’aussi bien se servir de cette orthographe en français est jus­tifié par le fait que « *les* », signe du pluriel, vaut bien d’être substitué à « *l’être* » qui n’est comme on dit
+
+qu’une copule, c’est-à-dire ne vaut pas cher. Ne vaut pas cher par l’usage qu’on « *amphest* » : amphigourique ! ...ce qu’il y a de curieux, c’est que l’homme tient beaucoup à être mor­tel. Ιl accapare la mort !
 
 <!-- id: s25-05-0023 -->
 
@@ -112,11 +112,11 @@ D’où l’activité déployée autour des enterrements. Ιl y a même eu des g
 
 <!-- id: s25-05-0027 -->
 
-> parce que dans mon dictionnaire français-grec, il n’y avait pas de momies ...*je me suis informé auprès de ma fille*...
+parce que dans mon dictionnaire français-grec, il n’y avait pas de momies ...*je me suis informé auprès de ma fille*...
 
 <!-- id: s25-05-0028 -->
 
-> qui a eu la bonté de se déranger pour se décarcasser pour trouver un dictionnaire fran­çais-grec ...*je me suis informé auprès de ma fille* \[*Rires*\], et j’ai appris que « *momie* » ça se dit comme ça en grec : σκελετόν σώμα \[squeleton soma \], le *corps-squelette*. Précisément les *momies* sont faites pour conserver l’ap­parence du corps. Τήρητιχομενον σώμα \[terétikomenon soma\], c’est aussi ce qu’elle m’a livré, je veux dire que Τήρητιχομενον σώμα \[terétikomenon soma\], ça veut dire « *empêcher de pour­rir* ».
+qui a eu la bonté de se déranger pour se décarcasser pour trouver un dictionnaire fran­çais-grec ...*je me suis informé auprès de ma fille* \[*Rires*\], et j’ai appris que « *momie* » ça se dit comme ça en grec : σκελετόν σώμα \[squeleton soma \], le *corps-squelette*. Précisément les *momies* sont faites pour conserver l’ap­parence du corps. Τήρητιχομενον σώμα \[terétikomenon soma\], c’est aussi ce qu’elle m’a livré, je veux dire que Τήρητιχομενον σώμα \[terétikomenon soma\], ça veut dire « *empêcher de pour­rir* ».
 
 <!-- id: s25-05-0029 -->
 
@@ -124,7 +124,7 @@ Sans doute les Égyptiens aimaient bien le poisson frais et c’est évi­dent q
 
 <!-- id: s25-05-0030 -->
 
-> c’est tout au moins la remarque qu’on m’a fait à cette occasion ...les *momies*, c’est pas spécialement ragoûtant.
+c’est tout au moins la remarque qu’on m’a fait à cette occasion ...les *momies*, c’est pas spécialement ragoûtant.
 
 <!-- id: s25-05-0031 -->
 
@@ -144,7 +144,7 @@ On y parle le Quetchua grâce au fait que les Espagnols...
 
 <!-- id: s25-05-0035 -->
 
-> puisque tout le monde parle espagnol ...les Espagnols prennent soin de conserver cette langue.
+puisque tout le monde parle espagnol ...les Espagnols prennent soin de conserver cette langue.
 
 <!-- id: s25-05-0036 -->
 
@@ -152,7 +152,7 @@ Ce que j’appelle les « *nés après* » ça se dit en Quetchua : « *ceux q
 
 <!-- id: s25-05-0037 -->
 
-> puisqu’il y a une écriture Quechua ...ça se dit : « *Runayay* ».
+puisqu’il y a une écriture Quechua ...ça se dit : « *Runayay* ».
 
 <!-- id: s25-05-0038 -->
 
@@ -340,11 +340,11 @@ Par exemple, par rapport à l’« *opération somme* »...
 
 <!-- id: s25-05-0084 -->
 
-> par rapport à l’addition : l’« *opération somme* » ...le 0 apparaît comme « *élé­ment neutre* »...
+par rapport à l’addition : l’« *opération somme* » ...le 0 apparaît comme « *élé­ment neutre* »...
 
 <!-- id: s25-05-0085 -->
 
-> c’est des termes qui sont en place ...le 0 apparaît comme *élé­ment neutre* et le 1 apparaît comme élément générateur.
+c’est des termes qui sont en place ...le 0 apparaît comme *élé­ment neutre* et le 1 apparaît comme élément générateur.
 
 <!-- id: s25-05-0086 -->
 
@@ -468,9 +468,9 @@ C’est-à-dire que c’est un...
 
 <!-- id: s25-05-0116 -->
 
-> tiens, ça me permet de répondre à cette histoire de systématisme : c’est qu’un critère, un signe tout à fait de ce qui est systématique ou non-systé­matique, c’est selon que les cas dégénérés sont exclus ou ne sont pas exclus.
->
-> Alors je pourrais répondre :
+tiens, ça me permet de répondre à cette histoire de systématisme : c’est qu’un critère, un signe tout à fait de ce qui est systématique ou non-systé­matique, c’est selon que les cas dégénérés sont exclus ou ne sont pas exclus.
+
+Alors je pourrais répondre :
 
 <!-- id: s25-05-0117 -->
 
@@ -542,7 +542,7 @@ La propriété borroméenne, ça dit quelque chose à partir de 3, mais à 2 tou
 
 <!-- id: s25-05-0134 -->
 
-> enfin tenir ensemble à deux, enfin chacun est indispensable à deux ...est automatique­ment réalisé. Alors qu’à partir de 3 le «*chacun est indispensable* », n’est pas automatiquement réalisé.
+enfin tenir ensemble à deux, enfin chacun est indispensable à deux ...est automatique­ment réalisé. Alors qu’à partir de 3 le «*chacun est indispensable* », n’est pas automatiquement réalisé.
 
 <!-- id: s25-05-0135 -->
 

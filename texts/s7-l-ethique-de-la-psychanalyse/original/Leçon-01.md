@@ -82,9 +82,9 @@ Juste avant, nous avons la tentative au XVIII<sup>ème</sup> siècle, de cet *af
 
 <!-- id: s7-01-0020 -->
 
-> et nous y serons amenés par la voie d’un examen de ce que l’analyse a apporté
->
-> dans la *connaissance* et la situation de l’expérience perverse
+et nous y serons amenés par la voie d’un examen de ce que l’analyse a apporté
+
+dans la *connaissance* et la situation de l’expérience perverse
 
 <!-- id: s7-01-0021 -->
 
@@ -160,9 +160,9 @@ la formule est très remarquable, je vous en ferai mesurer le poids et l’incid
 
 <!-- id: s7-01-0039 -->
 
-> l’homme dont il s’agit dans cette occasion, à un tournant de la civilisation,
->
-> où FREUD lui-même et sa réflexion se situent, dont il s’agit de mesurer *le malaise*
+l’homme dont il s’agit dans cette occasion, à un tournant de la civilisation,
+
+où FREUD lui-même et sa réflexion se situent, dont il s’agit de mesurer *le malaise*
 
 <!-- id: s7-01-0040 -->
 
@@ -330,9 +330,9 @@ Il ne s’agit pas simplement de ce quelque chose qui tout d’un coup se pose l
 
 <!-- id: s7-01-0081 -->
 
-> personnage qui est loin de mériter le discrédit, voire le ridicule dont une certaine critique philosophique
->
-> pourrait faire état quant à son rôle au cours de l’histoire du progrès éthique
+personnage qui est loin de mériter le discrédit, voire le ridicule dont une certaine critique philosophique
+
+pourrait faire état quant à son rôle au cours de l’histoire du progrès éthique
 
 <!-- id: s7-01-0082 -->
 
@@ -344,9 +344,9 @@ Il ne s’agit pas simplement de ce quelque chose qui tout d’un coup se pose l
 
 <!-- id: s7-01-0084 -->
 
-> comme n’a pas manqué de le faire celui qui a été le principe et le ressort de son succès sur le continent,
->
-> à savoir Étienne DUMONT qui a, en quelque sorte, vulgarisé la doctrine benthamienne
+comme n’a pas manqué de le faire celui qui a été le principe et le ressort de son succès sur le continent,
+
+à savoir Étienne DUMONT qui a, en quelque sorte, vulgarisé la doctrine benthamienne
 
 <!-- id: s7-01-0085 -->
 

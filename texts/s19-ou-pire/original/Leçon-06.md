@@ -14,7 +14,7 @@ De cet Autre, avec un grand A, à propos duquel j’ai recueilli, il y a un temp
 
 <!-- id: s19-06-0003 -->
 
-> l’inquiétude marquée par *un marxiste* à qui je devais la place d’où j’avais pu reprendre mon travail ...l’inquiétude qui était celle-ci : que cet Autre c’était ce tiers qu’à l’avancer dans le rapport du couple il - il *le marxiste* - lui ne pouvait l’identifier qu’à Dieu.
+l’inquiétude marquée par *un marxiste* à qui je devais la place d’où j’avais pu reprendre mon travail ...l’inquiétude qui était celle-ci : que cet Autre c’était ce tiers qu’à l’avancer dans le rapport du couple il - il *le marxiste* - lui ne pouvait l’identifier qu’à Dieu.
 
 <!-- id: s19-06-0004 -->
 
@@ -54,7 +54,7 @@ Il est plus difficile d’avancer en ceci, qui semblerait s’imposer...
 
 <!-- id: s19-06-0013 -->
 
-> parce que ce qui caractérise *la jouissance* - après ce que je viens de dire - se *déroberait* ...avancerai-je que « *on n’est joui que par l’Autre* » ?
+parce que ce qui caractérise *la jouissance* - après ce que je viens de dire - se *déroberait* ...avancerai-je que « *on n’est joui que par l’Autre* » ?
 
 <!-- id: s19-06-0014 -->
 
@@ -66,13 +66,13 @@ Parce que ce qui est important...
 
 <!-- id: s19-06-0016 -->
 
-> ce n’est pas le rapport avec ce qui jouit, de ce que nous pourrions croire notre être ...l’important, quand je dis qu’« *on ne jouit que de l’Autre* », est ceci : c’est qu’on n’en jouit pas sexuellement - *il n’y a pas de rapport sexuel* - ni n’en est-on joui...
+ce n’est pas le rapport avec ce qui jouit, de ce que nous pourrions croire notre être ...l’important, quand je dis qu’« *on ne jouit que de l’Autre* », est ceci : c’est qu’on n’en jouit pas sexuellement - *il n’y a pas de rapport sexuel* - ni n’en est-on joui...
 
 <!-- id: s19-06-0017 -->
 
-> Vous voyez que « *lalangue* » - *lalangue* que j’écris en un seul mot - *lalangue* qui est pourtant «  *bonne fille* »,
->
-> ici, résiste. Elle fait la grosse joue. ...on en jouit - il faut bien le dire - *de l’Autre on en jouit « mentalement »*.
+Vous voyez que « *lalangue* » - *lalangue* que j’écris en un seul mot - *lalangue* qui est pourtant «  *bonne fille* »,
+
+ici, résiste. Elle fait la grosse joue. ...on en jouit - il faut bien le dire - *de l’Autre on en jouit « mentalement »*.
 
 <!-- id: s19-06-0018 -->
 
@@ -152,9 +152,9 @@ Enfin... s’il faut vous le faire entendre : *q.u.e.u.e.*, « *queue de pens�
 
 <!-- id: s19-06-0037 -->
 
-> c’est dans cette langue que je m’exprime, je ne vois pas pourquoi je n’en profiterai pas,
->
-> si j’en parlais une autre, je trouverais un autre truc ...il ne s’agit là « *queue de pensées* », non, comme le dit l’idéaliste, en tant qu’on les pense, ni même seulement qu’on les pense « *donc je suis* », ce qui est un progrès pourtant, mais *qu’elles se pensent* réellement \[*cf.* « *Je pense donc se jouis* »\].
+c’est dans cette langue que je m’exprime, je ne vois pas pourquoi je n’en profiterai pas,
+
+si j’en parlais une autre, je trouverais un autre truc ...il ne s’agit là « *queue de pensées* », non, comme le dit l’idéaliste, en tant qu’on les pense, ni même seulement qu’on les pense « *donc je suis* », ce qui est un progrès pourtant, mais *qu’elles se pensent* réellement \[*cf.* « *Je pense donc se jouis* »\].
 
 <!-- id: s19-06-0038 -->
 
@@ -162,9 +162,9 @@ Enfin... s’il faut vous le faire entendre : *q.u.e.u.e.*, « *queue de pens�
 
 <!-- id: s19-06-0039 -->
 
-> pour autant que ça a le moindre intérêt,
->
-> parce que je vois pas pourquoi je me classerai philosophiquement ...moi par qui émerge un discours qui n’est pas le discours philosophique, *le discours psychanalytique* nommément... celui dont le schéme je l’ai reproduit à droite \[*disc.* A\] ...que je qua­lifie de « *discours »* en raison de ceci que j’ai souligné, c’est que : « *rien ne prend de sens que des rapports d’un discours à un autre discours »*.
+pour autant que ça a le moindre intérêt,
+
+parce que je vois pas pourquoi je me classerai philosophiquement ...moi par qui émerge un discours qui n’est pas le discours philosophique, *le discours psychanalytique* nommément... celui dont le schéme je l’ai reproduit à droite \[*disc.* A\] ...que je qua­lifie de « *discours »* en raison de ceci que j’ai souligné, c’est que : « *rien ne prend de sens que des rapports d’un discours à un autre discours »*.
 
 <!-- id: s19-06-0040 -->
 
@@ -188,7 +188,7 @@ Tout ça vous passe bien sûr comme l’eau sur les plumes d’un canard puisque
 
 <!-- id: s19-06-0045 -->
 
-> et d’ailleurs c’est ce qui fait votre existence ...vous êtes bien solidement insérés dans des discours qui précèdent, qui sont là depuis un temps, une paye, le discours philosophique y compris, pour autant que vous le transmet *le discours universitaire,* c’est-à-dire dans quel état... vous y êtes bien solidement installés et ça fait votre assiette \[*sic*\].
+et d’ailleurs c’est ce qui fait votre existence ...vous êtes bien solidement insérés dans des discours qui précèdent, qui sont là depuis un temps, une paye, le discours philosophique y compris, pour autant que vous le transmet *le discours universitaire,* c’est-à-dire dans quel état... vous y êtes bien solidement installés et ça fait votre assiette \[*sic*\].
 
 <!-- id: s19-06-0046 -->
 
@@ -208,9 +208,9 @@ Le fauteuil est pourtant essentiel, parce que le propre de ce *discours*, c’es
 
 <!-- id: s19-06-0050 -->
 
-> que le S soit ce que Hogarth donne pour la trace de la beauté, c’est pas tout à fait un hasard,
->
-> ça doit avoir quelque part un sens, et puis qu’il faille le barrer, ça en a sûrement un aussi ...mais quoiqu’il en soit, ce qui *se produit* à partir de ce sujet barré \[**S<sub>1</sub>**\] , c’est quelque chose dont il est curieux de voir que je l’écris de la même façon \[**S<sub>1</sub>**\] que ce qui tient dans *le discours du Maître* une autre place, la place dominante.
+que le S soit ce que Hogarth donne pour la trace de la beauté, c’est pas tout à fait un hasard,
+
+ça doit avoir quelque part un sens, et puis qu’il faille le barrer, ça en a sûrement un aussi ...mais quoiqu’il en soit, ce qui *se produit* à partir de ce sujet barré \[**S<sub>1</sub>**\] , c’est quelque chose dont il est curieux de voir que je l’écris de la même façon \[**S<sub>1</sub>**\] que ce qui tient dans *le discours du Maître* une autre place, la place dominante.
 
 <!-- id: s19-06-0051 -->
 
@@ -222,7 +222,7 @@ Ce S de 1 \[**S<sub>1</sub>**\] c’est justement ce que j’essaie pour vous, e
 
 <!-- id: s19-06-0053 -->
 
-> et c’est en cela qu’elle est enseignante ...je suis à la place de *l’analysant*.
+et c’est en cela qu’elle est enseignante ...je suis à la place de *l’analysant*.
 
 <!-- id: s19-06-0054 -->
 
@@ -238,11 +238,11 @@ La « *queue de pensées* » dont je parlais, c’est le sujet lui-même, le s
 
 <!-- id: s19-06-0057 -->
 
-> cet *hypothétique*, on vous en a tellement rebattu les oreilles depuis Aristote,
->
-> de l’ὑποχείμενον \[upokeimenon\] qui était pourtant bien clair,
->
-> on en a fait une telle chose, n’est-ce pas, qu’une chatte n’y retrouverait plus ses petits ...je vais l’appeler « *la traîne »*, *la traîne* justement, *cette queue de pensées de ce quelque chose de réel* qui fait cet « *effet de comète* » que j’ai appelé la « *queue de pensées »* et qui est peut-être bien *le phallus*.
+cet *hypothétique*, on vous en a tellement rebattu les oreilles depuis Aristote,
+
+de l’ὑποχείμενον \[upokeimenon\] qui était pourtant bien clair,
+
+on en a fait une telle chose, n’est-ce pas, qu’une chatte n’y retrouverait plus ses petits ...je vais l’appeler « *la traîne »*, *la traîne* justement, *cette queue de pensées de ce quelque chose de réel* qui fait cet « *effet de comète* » que j’ai appelé la « *queue de pensées »* et qui est peut-être bien *le phallus*.
 
 <!-- id: s19-06-0058 -->
 
@@ -250,13 +250,13 @@ Si ce qui se passe là, n’est pas capable d’être reconquis par ce que je vi
 
 <!-- id: s19-06-0059 -->
 
-> ce qui n’est concevable que parce que l’effet qu’elle est, est de même saillie que son avènement,
->
-> à savoir *le désarroi* \[*dés - [arroi](https://www.cnrtl.fr/definition/arroi)*\] , si vous me permettez d’appeler ainsi *la disjonction du rapport sexuel* ...si ce qui se passe là n’est pas capable d’être reconquis *nachträglich* \[*après-coup*\], si ce qui s’est pensé est ouvert, à portée des moyens d’une *re-pensée*, ce qui consiste justement à s’apercevoir *à l’écrire* que c’étaient des pensées...
+ce qui n’est concevable que parce que l’effet qu’elle est, est de même saillie que son avènement,
+
+à savoir *le désarroi* \[*dés - [arroi](https://www.cnrtl.fr/definition/arroi)*\] , si vous me permettez d’appeler ainsi *la disjonction du rapport sexuel* ...si ce qui se passe là n’est pas capable d’être reconquis *nachträglich* \[*après-coup*\], si ce qui s’est pensé est ouvert, à portée des moyens d’une *re-pensée*, ce qui consiste justement à s’apercevoir *à l’écrire* que c’étaient des pensées...
 
 <!-- id: s19-06-0060 -->
 
-> parce que l’*écrit* quoiqu’on en dise, vient *après* que ces pensées, ces pensées réelles, se soient produites ...c’est dans cet effort de repenser, ce *nachträglich,* qu’est cette *répétition* qui est le fondement de ce que nous découvre *l’expérience analytique*.
+parce que l’*écrit* quoiqu’on en dise, vient *après* que ces pensées, ces pensées réelles, se soient produites ...c’est dans cet effort de repenser, ce *nachträglich,* qu’est cette *répétition* qui est le fondement de ce que nous découvre *l’expérience analytique*.
 
 <!-- id: s19-06-0061 -->
 
@@ -272,7 +272,7 @@ Combien de fois *dans les dialogues philosophiques* voyez-vous l’argument « 
 
 <!-- id: s19-06-0064 -->
 
-> *coule de la plume* des psychanalystes, à savoir que ce qui pense n’est pas pensable, et alors *il n’y a pas de psychanalyse*,
+*coule de la plume* des psychanalystes, à savoir que ce qui pense n’est pas pensable, et alors *il n’y a pas de psychanalyse*,
 
 <!-- id: s19-06-0065 -->
 
@@ -296,7 +296,7 @@ C’est justement parce que c’est la même chose...
 
 <!-- id: s19-06-0070 -->
 
-> ce « *je pense *» et *<u>ce que</u> je pense*, c’est-à-dire : « *donc je suis *» ...c’est justement parce que c’est la même *chose,* que ça n’est pas équivalent.
+ce « *je pense *» et *<u>ce que</u> je pense*, c’est-à-dire : « *donc je suis *» ...c’est justement parce que c’est la même *chose,* que ça n’est pas équivalent.
 
 <!-- id: s19-06-0071 -->
 
@@ -304,7 +304,7 @@ Parce que c’est pour ça que j’ai parlé de *La Chose freudienne*, c’est p
 
 <!-- id: s19-06-0072 -->
 
-> et écrivez ça comme vous voudrez : « face » ou « fasse » ...deux faces c’est non seulement pas équivalent, c’est-à-dire remplaçable l’un par l’autre dans *le dire*, c’est pas *équivalent*, c’est même pas pareil.
+et écrivez ça comme vous voudrez : « face » ou « fasse » ...deux faces c’est non seulement pas équivalent, c’est-à-dire remplaçable l’un par l’autre dans *le dire*, c’est pas *équivalent*, c’est même pas pareil.
 
 <!-- id: s19-06-0073 -->
 
@@ -324,11 +324,15 @@ Et quand on le relit, on s’aperçoit que *je ne parle pas de La Chose*...
 
 <!-- id: s19-06-0077 -->
 
-> parce qu’on peut pas en parler, *en* parler ...je la fais parler elle-même, *La Chose* dont il s’agit énonce :
+parce qu’on peut pas en parler, *en* parler ...je la fais parler elle-même, *La Chose* dont il s’agit énonce :
 
 <!-- id: s19-06-0078 -->
 
-> « *Moi la vérité, je parle.* [^16] »
+<div class="text-quotation">
+
+« *Moi la vérité, je parle.* [^16] »
+
+</div>
 
 <!-- id: s19-06-0079 -->
 
@@ -336,11 +340,15 @@ Et elle ne le dit pas, bien sûr, comme ça...
 
 <!-- id: s19-06-0080 -->
 
-> mais ça doit se voir, c’est même pour ça que je l’ai écrit ...elle le dit de toutes les manières, et j’oserais dire que ce n’est pas un mauvais morceau* :*
+mais ça doit se voir, c’est même pour ça que je l’ai écrit ...elle le dit de toutes les manières, et j’oserais dire que ce n’est pas un mauvais morceau* :*
 
 <!-- id: s19-06-0081 -->
 
-> « *je ne suis appréhendable que dans mes cachotteries* ».
+<div class="text-quotation">
+
+« *je ne suis appréhendable que dans mes cachotteries* ».
+
+</div>
 
 <!-- id: s19-06-0082 -->
 
@@ -392,11 +400,11 @@ Si nous fondons l’*impossible* dans son rapport au *réel*, il nous reste à d
 
 <!-- id: s19-06-0094 -->
 
-> je le tiens d’une charmante femme, lointaine dans mon passé, restée pourtant marquée d’une charmante odeur de savon \[*Rires*\], avec l’accent vaudois qu’elle savait prendre pour - tout en s’en étant purifiée - savoir le rattraper « *rien n’est impossible à l’homme*...
+je le tiens d’une charmante femme, lointaine dans mon passé, restée pourtant marquée d’une charmante odeur de savon \[*Rires*\], avec l’accent vaudois qu’elle savait prendre pour - tout en s’en étant purifiée - savoir le rattraper « *rien n’est impossible à l’homme*...
 
 <!-- id: s19-06-0095 -->
 
-> qu’elle disait - je peux pas vous imiter l’accent vaudois, moi je ne suis pas né là-bas ...*ce qu’il peut pas faire, il le laisse* » \[*Rires*\].
+qu’elle disait - je peux pas vous imiter l’accent vaudois, moi je ne suis pas né là-bas ...*ce qu’il peut pas faire, il le laisse* » \[*Rires*\].
 
 <!-- id: s19-06-0096 -->
 
@@ -440,11 +448,11 @@ Parce que vous ne perdrez rien à relire, je ne sais pas, simplement la préface
 
 <!-- id: s19-06-0106 -->
 
-> vous voyez tous les devoirs de vacances que je vous donne : « *Parménide »* et la « *Phénoménologie »,*
->
-> la *« Préface »* au moins parce que la *Phénoménologie,* naturellement vous ne lisez jamais.
->
-> Mais *la préface* est foutrement bien. Elle vaut à elle seule le boulot de la relire
+vous voyez tous les devoirs de vacances que je vous donne : « *Parménide »* et la « *Phénoménologie »,*
+
+la *« Préface »* au moins parce que la *Phénoménologie,* naturellement vous ne lisez jamais.
+
+Mais *la préface* est foutrement bien. Elle vaut à elle seule le boulot de la relire
 
 <!-- id: s19-06-0107 -->
 
@@ -472,7 +480,7 @@ C’est qu’il comporte *une protestation*, dont il se trouve qu’il consolide
 
 <!-- id: s19-06-0113 -->
 
-> je sens que ça va provoquer des remous ...en incitant la femme à exister comme *égale*.
+je sens que ça va provoquer des remous ...en incitant la femme à exister comme *égale*.
 
 <!-- id: s19-06-0114 -->
 
@@ -520,11 +528,11 @@ Il m’est arrivé par un charmant gars, physiquement, comme ça...
 
 <!-- id: s19-06-0125 -->
 
-> il m’a fait ça un jour, c’est un amour ! ...il y a mis un courage ! Il l’a fait « *malgré que* » j’étais en même temps sous la menace...
+il m’a fait ça un jour, c’est un amour ! ...il y a mis un courage ! Il l’a fait « *malgré que* » j’étais en même temps sous la menace...
 
 <!-- id: s19-06-0126 -->
 
-> d’un truc auquel je croyais pas spécialement, mais enfin je faisais comme si ...d’un revolver.
+d’un truc auquel je croyais pas spécialement, mais enfin je faisais comme si ...d’un revolver.
 
 <!-- id: s19-06-0127 -->
 
@@ -572,11 +580,11 @@ Entre les premiers scribouillages qui ont permis la naissance d’une logique à
 
 <!-- id: s19-06-0138 -->
 
-> mais pas à la façon dont on croyait jusqu’alors, à la façon de l’être,
->
-> c’est-à-dire de ce que chacun d’entre vous se croit,
->
-> se croit *être*, sous prétexte que vous êtes des individus ...on s’est aperçu qu’il y avait des choses qui existaient en ce sens qu’elles constituent la limite de ce qui peut tenir de l’avancée de l’articulation d’un discours.
+mais pas à la façon dont on croyait jusqu’alors, à la façon de l’être,
+
+c’est-à-dire de ce que chacun d’entre vous se croit,
+
+se croit *être*, sous prétexte que vous êtes des individus ...on s’est aperçu qu’il y avait des choses qui existaient en ce sens qu’elles constituent la limite de ce qui peut tenir de l’avancée de l’articulation d’un discours.
 
 <!-- id: s19-06-0139 -->
 
@@ -604,11 +612,11 @@ Dans le genre on n’a jamais rien fait de mieux que, je ne dirai pas *la religi
 
 <!-- id: s19-06-0145 -->
 
-> parce que comme je vous le dirai, je vous l’expliquerai en long et en large,
->
-> on ne fait pas d’*ethnologie* quand on est *psychanalyste*,
->
-> et noyer la religion comme ça dans un terme général, c’est la même chose que de faire de l’*ethnologie* ...je peux pas dire non plus qu’il y en ait qu’une, mais il y a celle dans laquelle nous baignons, la religion chrétienne.
+parce que comme je vous le dirai, je vous l’expliquerai en long et en large,
+
+on ne fait pas d’*ethnologie* quand on est *psychanalyste*,
+
+et noyer la religion comme ça dans un terme général, c’est la même chose que de faire de l’*ethnologie* ...je peux pas dire non plus qu’il y en ait qu’une, mais il y a celle dans laquelle nous baignons, la religion chrétienne.
 
 <!-- id: s19-06-0146 -->
 
@@ -628,7 +636,7 @@ Je finirai aujourd’hui...
 
 <!-- id: s19-06-0150 -->
 
-> j’espère que j’ai pas abîmé ma bague... \[*Rires*\] ...je finirai aujourd’hui sur le même point par lequel j’ai commencé.
+j’espère que j’ai pas abîmé ma bague... \[*Rires*\] ...je finirai aujourd’hui sur le même point par lequel j’ai commencé.
 
 <!-- id: s19-06-0151 -->
 
@@ -676,7 +684,7 @@ Son mode de présence est *entre centre et absence*,
 
 <!-- id: s19-06-0162 -->
 
-> de ce que l’«* au moins un *» qui est son partenaire dans l’amour, y renonce pour elle,
+de ce que l’«* au moins un *» qui est son partenaire dans l’amour, y renonce pour elle,
 
 <!-- id: s19-06-0163 -->
 
@@ -684,7 +692,7 @@ Son mode de présence est *entre centre et absence*,
 
 <!-- id: s19-06-0164 -->
 
-> qui n’est pas moins *jouissance*, d’être « *jouissabsence* ».
+qui n’est pas moins *jouissance*, d’être « *jouissabsence* ».
 
 <!-- id: s19-06-0165 -->
 
@@ -696,7 +704,7 @@ C’est au contraire de ce que la « *jouisseprésence* » - si je puis ainsi 
 
 <!-- id: s19-06-0167 -->
 
-> dans cette partie qui ne la fait « *pas toute* » ouverte à la fonction phallique ...c’est de ce que cette *« jouisseprésence », « l’au moins un »* soit pressé de l’habiter, dans un contresens radical sur ce qui exige son existence.
+dans cette partie qui ne la fait « *pas toute* » ouverte à la fonction phallique ...c’est de ce que cette *« jouisseprésence », « l’au moins un »* soit pressé de l’habiter, dans un contresens radical sur ce qui exige son existence.
 
 <!-- id: s19-06-0168 -->
 

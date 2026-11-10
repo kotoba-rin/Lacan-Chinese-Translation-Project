@@ -3,10 +3,11 @@ title: 法语否定词 pas 的语法化
 type: knowledge-card
 verification: 已核实
 tags:
+  - 研讨班XIV
   - 研讨班XIXb
-  - 领域/语言学
+  - 研讨班XIX
+  - 领域/语言符号与文献/语言学与语法
   - 语言/法语
-  - 概念/否定
   - 概念/语法化
 verified_at: 2026-07-28
 ---
@@ -24,4 +25,10 @@ verified_at: 2026-07-28
 
 ## 关联
 
+[[知识库/法语ne explétif与皮雄的ne discordantiel.md|法语 ne explétif 与皮雄的 ne discordantiel]]
+
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0095|s14-10-0095]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0097|s14-10-0097]]
+[[texts/s14-la-logique-du-fantasme/translation/Leçon-10.md#s14-10-0098|s14-10-0098]]
+[[texts/s19-ou-pire/translation/Leçon-01.md#s19-01-0224|s19-01-0224]]
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-02.md#s19b-02-0287|s19b-02-0287]]

@@ -14,7 +14,7 @@ Je vais vous dire pourquoi : je m’occupe à éponger l’énorme « littéra
 
 <!-- id: s23-06-0003 -->
 
-> encore que Joyce à ce terme répugnait ...c’est tout de même bien ce qu’il a provoqué.
+encore que Joyce à ce terme répugnait ...c’est tout de même bien ce qu’il a provoqué.
 
 <!-- id: s23-06-0004 -->
 
@@ -34,7 +34,7 @@ Jacques Aubert, qui est là au premier rang, m’envoie de temps en temps, de Ly
 
 <!-- id: s23-06-0008 -->
 
-> il a du mérite à le faire ...l’indication de quelques auteurs supplémentaires.
+il a du mérite à le faire ...l’indication de quelques auteurs supplémentaires.
 
 <!-- id: s23-06-0009 -->
 
@@ -42,7 +42,7 @@ Il n’est pas là-dedans innocent...
 
 <!-- id: s23-06-0010 -->
 
-> mais qui est-ce qui est innocent ? ...il n’est pas innocent parce qu’il a commis aussi des trucs sur Joyce.
+mais qui est-ce qui est innocent ? ...il n’est pas innocent parce qu’il a commis aussi des trucs sur Joyce.
 
 <!-- id: s23-06-0011 -->
 
@@ -66,7 +66,7 @@ La question qui vaut la peine d’être posée est celle-ci : *à partir*...
 
 <!-- id: s23-06-0016 -->
 
-> c’est comme ça que je m’exprime ...*à partir de quand est-on fou?*
+c’est comme ça que je m’exprime ...*à partir de quand est-on fou?*
 
 <!-- id: s23-06-0017 -->
 
@@ -102,7 +102,7 @@ D’abord parce qu’il est clair que *la Jouissance du réel* comporte...
 
 <!-- id: s23-06-0025 -->
 
-> ce dont Freud s’est aperçu ...comporte le masochisme, et c’est évidemment pas de ce pas-là qu’il était parti.
+ce dont Freud s’est aperçu ...comporte le masochisme, et c’est évidemment pas de ce pas-là qu’il était parti.
 
 <!-- id: s23-06-0026 -->
 
@@ -138,7 +138,7 @@ Joyce a laissé énormément de notes, de gribouillages, *scribblede­hobble*, c
 
 <!-- id: s23-06-0034 -->
 
-> que j’ai connu dans son temps, je ne sais pas s’il vit encore ...a intitulé un manuscrit qu’il a sorti de Joyce.
+que j’ai connu dans son temps, je ne sais pas s’il vit encore ...a intitulé un manuscrit qu’il a sorti de Joyce.
 
 <!-- id: s23-06-0035 -->
 
@@ -146,7 +146,7 @@ La question est en somme la suivante : comment savoir d’après ses notes, dont
 
 <!-- id: s23-06-0036 -->
 
-> parce qu’enfin ses notes, c’étaient des brouillons : *scribblede­hobble* ...c’est pas un hasard, et il a bien fallu qu’il le veuille, et même qu’il encourage ceux qu’on appelle les chercheurs, à les chercher. Il écrivait énormément de lettres. Il y en a trois volumes gros comme ça qui sont sortis.
+parce qu’enfin ses notes, c’étaient des brouillons : *scribblede­hobble* ...c’est pas un hasard, et il a bien fallu qu’il le veuille, et même qu’il encourage ceux qu’on appelle les chercheurs, à les chercher. Il écrivait énormément de lettres. Il y en a trois volumes gros comme ça qui sont sortis.
 
 <!-- id: s23-06-0037 -->
 
@@ -194,7 +194,7 @@ Et en particulier qu’à lire Joyce...
 
 <!-- id: s23-06-0048 -->
 
-> car c’est ça qu’il y a d’affreux : c’est que j’en suis réduit à le lire ...comment savoir, à la *lecture* de Joyce ce qu’il se croyait ?
+car c’est ça qu’il y a d’affreux : c’est que j’en suis réduit à le lire ...comment savoir, à la *lecture* de Joyce ce qu’il se croyait ?
 
 <!-- id: s23-06-0049 -->
 
@@ -278,7 +278,7 @@ Est-ce qu’il va jusqu’à se substituer à ce dans quoi manifestement il a fo
 
 <!-- id: s23-06-0069 -->
 
-> pour dire les choses comme je les entends ...dans les bourdes que lui racontent les curés concernant le fait que de rédempteur, il y en a eu un, un vrai ?
+pour dire les choses comme je les entends ...dans les bourdes que lui racontent les curés concernant le fait que de rédempteur, il y en a eu un, un vrai ?
 
 <!-- id: s23-06-0070 -->
 
@@ -418,7 +418,7 @@ Comment peut-on même...
 
 <!-- id: s23-06-0104 -->
 
-> si on pense que ces nœuds c’est tout ce qu’il y a de plus réel ...comment reste-t-il place pour quelque chose à serrer ?
+si on pense que ces nœuds c’est tout ce qu’il y a de plus réel ...comment reste-t-il place pour quelque chose à serrer ?
 
 <!-- id: s23-06-0105 -->
 
@@ -438,7 +438,7 @@ En d’autres termes, la topologie repose sur ceci qu’il y a au moins...
 
 <!-- id: s23-06-0109 -->
 
-> sans compter ce qu’il y a de plus ...qu’il y a au moins ceci qui s’appelle *le tore*.
+sans compter ce qu’il y a de plus ...qu’il y a au moins ceci qui s’appelle *le tore*.
 
 <!-- id: s23-06-0110 -->
 
@@ -446,13 +446,13 @@ Mes bons amis, Soury et Thomé, se sont aperçus que...
 
 <!-- id: s23-06-0111 -->
 
-> ils sont arrivés à décomposer les rapports du nœud borroméen avec le tore ...ils se sont aperçus de ceci : c’est que le couple de deux cercles pliés l’un sur l’autre...
+ils sont arrivés à décomposer les rapports du nœud borroméen avec le tore ...ils se sont aperçus de ceci : c’est que le couple de deux cercles pliés l’un sur l’autre...
 
 <!-- id: s23-06-0112 -->
 
-> car c’est de ça dont il s’agit, vous voyez bien que celui-ci, en se rabattant, se li­bère,
->
-> c’est même tout le prin­cipe du *nœud borroméen* ...ils se sont aperçus que ceci pou­vait s’inscrire dans un tore fait comme ça :
+car c’est de ça dont il s’agit, vous voyez bien que celui-ci, en se rabattant, se li­bère,
+
+c’est même tout le prin­cipe du *nœud borroméen* ...ils se sont aperçus que ceci pou­vait s’inscrire dans un tore fait comme ça :
 
 <!-- id: s23-06-0113 -->
 
@@ -464,9 +464,9 @@ Que c’est même pour ça que si on fait passer ici la droite infinie...
 
 <!-- id: s23-06-0115 -->
 
-> qui n’est pas exclue du problème des nœuds, bien loin de là,
->
-> cette droite infinie qui est faite autrement que ce que nous pouvons appeler *le faux trou* ...cette droite infinie fait de ce trou un *vrai trou*.
+qui n’est pas exclue du problème des nœuds, bien loin de là,
+
+cette droite infinie qui est faite autrement que ce que nous pouvons appeler *le faux trou* ...cette droite infinie fait de ce trou un *vrai trou*.
 
 <!-- id: s23-06-0116 -->
 
@@ -530,7 +530,7 @@ Chose singulière, je dirai que c’est *un rapport sexuel...*
 
 <!-- id: s23-06-0131 -->
 
-> encore que je dise qu’il y en ait pas ...mais c’est un drôle de *rapport sexuel*.
+encore que je dise qu’il y en ait pas ...mais c’est un drôle de *rapport sexuel*.
 
 <!-- id: s23-06-0132 -->
 
@@ -554,11 +554,11 @@ Il y a qu’une seule chose à laquelle...
 
 <!-- id: s23-06-0137 -->
 
-> puisqu’il a pris cette comparaison du gant, je vois pas pourquoi je ne la prendrais pas aussi ...qu’une seule chose à laquelle il a pas songé...
+puisqu’il a pris cette comparaison du gant, je vois pas pourquoi je ne la prendrais pas aussi ...qu’une seule chose à laquelle il a pas songé...
 
 <!-- id: s23-06-0138 -->
 
-> peut-être parce que de son temps les gants n’avaient pas de boutons ...c’est que dans le gant retourné, le bouton est à l’intérieur.
+peut-être parce que de son temps les gants n’avaient pas de boutons ...c’est que dans le gant retourné, le bouton est à l’intérieur.
 
 <!-- id: s23-06-0139 -->
 
@@ -598,7 +598,7 @@ Elle ne sert absolument à rien. Et c’est même au point que...
 
 <!-- id: s23-06-0148 -->
 
-> c’est tout à fait net dans leurs relations quand ils sont à Trieste ...chaque fois que se raboule un gosse - je suis bien forcé de parler comme ça - ça fait un drame.
+c’est tout à fait net dans leurs relations quand ils sont à Trieste ...chaque fois que se raboule un gosse - je suis bien forcé de parler comme ça - ça fait un drame.
 
 <!-- id: s23-06-0149 -->
 
@@ -610,9 +610,9 @@ Et il y a vraiment un malaise qui s’établit entre celui qu’on appelle comme
 
 <!-- id: s23-06-0151 -->
 
-> parce que c’est comme ça qu’on écrit de lui, enfin,
->
-> on écrit de lui comme ça parce que sa femme lui écrivait sous ce terme
+parce que c’est comme ça qu’on écrit de lui, enfin,
+
+on écrit de lui comme ça parce que sa femme lui écrivait sous ce terme
 
 <!-- id: s23-06-0152 -->
 
@@ -664,7 +664,7 @@ L’imagination d’être le rédempteur...
 
 <!-- id: s23-06-0164 -->
 
-> dans notre tradition au moins ...est le prototype de ce que ce n’est pas pour rien que je l’écrive la « *père-version* ».
+dans notre tradition au moins ...est le prototype de ce que ce n’est pas pour rien que je l’écrive la « *père-version* ».
 
 <!-- id: s23-06-0165 -->
 
@@ -672,7 +672,7 @@ C’est dans la mesure où il y a rapport de « *fils à père* »...
 
 <!-- id: s23-06-0166 -->
 
-> et ceci depuis très longtemps ...qu’a surgi cette idée loufoque du rédempteur.
+et ceci depuis très longtemps ...qu’a surgi cette idée loufoque du rédempteur.
 
 <!-- id: s23-06-0167 -->
 
@@ -704,7 +704,7 @@ Faut vraiment croire que ça se passe comme ici :
 
 <!-- id: s23-06-0174 -->
 
-> je pense que je fais assez image comme ça ...faut vraiment croire à *l’actif* et au *passif* pour imaginer que *le sadomasochisme* est quelque chose d’expliqué par une polarité.
+je pense que je fais assez image comme ça ...faut vraiment croire à *l’actif* et au *passif* pour imaginer que *le sadomasochisme* est quelque chose d’expliqué par une polarité.
 
 <!-- id: s23-06-0175 -->
 
@@ -732,7 +732,7 @@ Et comment distin­guer...
 
 <!-- id: s23-06-0181 -->
 
-> sinon à employer quelque terme métaphysique : le « *Echt »* de Heidegger ...comment distinguer le *vrai Réel*, du faux ?
+sinon à employer quelque terme métaphysique : le « *Echt »* de Heidegger ...comment distinguer le *vrai Réel*, du faux ?
 
 <!-- id: s23-06-0182 -->
 
@@ -808,7 +808,7 @@ Qu’est-ce qui prouve après tout que la spirale n’est pas plus réelle que l
 
 <!-- id: s23-06-0200 -->
 
-> auquel cas rien n’indique que pour se rejoindre elle doive faire nœud ...si ce n’est le faussement dit *nœud borroméen*, à savoir une *chaî-nœud* qui engendre naturellement le nœud de trèfle, qui provient de ce que ça se joint ici et là, et là :
+auquel cas rien n’indique que pour se rejoindre elle doive faire nœud ...si ce n’est le faussement dit *nœud borroméen*, à savoir une *chaî-nœud* qui engendre naturellement le nœud de trèfle, qui provient de ce que ça se joint ici et là, et là :
 
 <!-- id: s23-06-0201 -->
 
@@ -856,11 +856,11 @@ Et ce que je soulève comme question, puisque ce dont il s’agit c’est de sa�
 
 <!-- id: s23-06-0212 -->
 
-> \- s’il est vrai que chez la plupart *le Symbolique, l’Imagi­naire et le Réel* sont em­brouillés au point de se continuer l’un dans l’autre,
->
-> \- s’il n’y a pas d’o­pération qui les distin­gue dans une chaîne, à proprement parler la chaîne du *nœud borro­méen,*
->
-> du prétendu *nœud* borro­méen, car le *nœud* borroméen n’est pas un nœud, c’est *une chaîne,* ...pourquoi ne pas saisir que chacune de ces boucles se continue pour chacun dans l’autre, d’une façon strictement non distinguée, et que du même coup c’est pas un privilège que d’être fou.
+\- s’il est vrai que chez la plupart *le Symbolique, l’Imagi­naire et le Réel* sont em­brouillés au point de se continuer l’un dans l’autre,
+
+\- s’il n’y a pas d’o­pération qui les distin­gue dans une chaîne, à proprement parler la chaîne du *nœud borro­méen,*
+
+du prétendu *nœud* borro­méen, car le *nœud* borroméen n’est pas un nœud, c’est *une chaîne,* ...pourquoi ne pas saisir que chacune de ces boucles se continue pour chacun dans l’autre, d’une façon strictement non distinguée, et que du même coup c’est pas un privilège que d’être fou.
 
 <!-- id: s23-06-0213 -->
 
@@ -888,7 +888,7 @@ Est-ce que nous ne pouvons pas concevoir le cas de Joyce comme ceci : c’est �
 
 <!-- id: s23-06-0219 -->
 
-> le plus de monde possible en tout cas ...est-ce que ce n’est pas exactement *le compensatoire* de ce fait que, disons que son père n’a jamais été pour lui un père.
+le plus de monde possible en tout cas ...est-ce que ce n’est pas exactement *le compensatoire* de ce fait que, disons que son père n’a jamais été pour lui un père.
 
 <!-- id: s23-06-0220 -->
 
@@ -908,7 +908,7 @@ Est-ce qu’il n’y a pas quelque chose comme une - je dirais - compensation de
 
 <!-- id: s23-06-0224 -->
 
-> c’est le mot qui résulte d’un tas de choses dans son propre texte, dans ce qu’il a écrit ...et que ce soit là le ressort propre par quoi chez lui *le nom propre* c’est quelque chose qui est étrange.
+c’est le mot qui résulte d’un tas de choses dans son propre texte, dans ce qu’il a écrit ...et que ce soit là le ressort propre par quoi chez lui *le nom propre* c’est quelque chose qui est étrange.
 
 <!-- id: s23-06-0225 -->
 

@@ -38,9 +38,9 @@ Il fait une remarque ici sur la nature foncièrement intransitive du verbe *to m
 
 <!-- id: s6-11-0009 -->
 
-> encore que l’auteur en ait accentué moins directement son fondement sur la remarque
->
-> en quelque sorte grammaticale du sujet
+encore que l’auteur en ait accentué moins directement son fondement sur la remarque
+
+en quelque sorte grammaticale du sujet
 
 <!-- id: s6-11-0010 -->
 
@@ -56,7 +56,7 @@ Et nous avons montré qu’assurément le recours au bagage des images…
 
 <!-- id: s6-11-0013 -->
 
-> considérées par la doctrine classique, et issues manifestement de l’expérience, quand on les fait agir en quelque sorte comme autant d’objets séparés sans très bien repérer leur fonction par rapport au sujet
+considérées par la doctrine classique, et issues manifestement de l’expérience, quand on les fait agir en quelque sorte comme autant d’objets séparés sans très bien repérer leur fonction par rapport au sujet
 
 <!-- id: s6-11-0014 -->
 
@@ -136,7 +136,7 @@ Je dirai qu’au stade de ce qui précède, qui amène le sujet, et du rêve lui
 
 <!-- id: s6-11-0033 -->
 
-> après tout ce que nous avons ici comme vocabulaire en commun
+après tout ce que nous avons ici comme vocabulaire en commun
 
 <!-- id: s6-11-0034 -->
 
@@ -160,7 +160,7 @@ Ce sujet même…
 
 <!-- id: s6-11-0039 -->
 
-> qui avant de se présenter à elle d’une façon qu’elle décrit si joliment, avec cette sorte d’absence profonde qui lui donne à elle-même le sentiment qu’il n’y a pas un propos du sujet ni un de ses gestes qui ne soient quelque chose d’entièrement pensé, et que rien ne correspond à quoi que ce soit de senti
+qui avant de se présenter à elle d’une façon qu’elle décrit si joliment, avec cette sorte d’absence profonde qui lui donne à elle-même le sentiment qu’il n’y a pas un propos du sujet ni un de ses gestes qui ne soient quelque chose d’entièrement pensé, et que rien ne correspond à quoi que ce soit de senti
 
 <!-- id: s6-11-0040 -->
 
@@ -212,9 +212,9 @@ Ce qui…
 
 <!-- id: s6-11-0052 -->
 
-> pour autant qu’on puisse poser cette question à propos d’un rêve, et nous ne pouvons la poser
->
-> que pour autant que toute la théorie freudienne nous impose de la poser
+pour autant qu’on puisse poser cette question à propos d’un rêve, et nous ne pouvons la poser
+
+que pour autant que toute la théorie freudienne nous impose de la poser
 
 <!-- id: s6-11-0053 -->
 
@@ -270,7 +270,7 @@ Et je ferai la remarque que chez JONES aussi, ce terme d’ *aphanisis* est un t
 
 <!-- id: s6-11-0066 -->
 
-> supposons-le dans son développement, à quelque moment, *à un niveau en quelque sorte animal de la subjectivité*
+supposons-le dans son développement, à quelque moment, *à un niveau en quelque sorte animal de la subjectivité*
 
 <!-- id: s6-11-0067 -->
 
@@ -286,7 +286,7 @@ Observons bien que quelque chose comme le désir…
 
 <!-- id: s6-11-0070 -->
 
-> si nous lui donnons un sens plein, le sens de *la tendance* au niveau de la psychologie animale
+si nous lui donnons un sens plein, le sens de *la tendance* au niveau de la psychologie animale
 
 <!-- id: s6-11-0071 -->
 
@@ -306,7 +306,7 @@ Continuons et revenons sur le texte lui-même, sur le texte du rêve, et sur ces
 
 <!-- id: s6-11-0075 -->
 
-> qui est employée dans l’articulation signifiante du rêve, à savoir qu’est–ce que cela veut dire entre les personnages qui sont présents
+qui est employée dans l’articulation signifiante du rêve, à savoir qu’est–ce que cela veut dire entre les personnages qui sont présents
 
 <!-- id: s6-11-0076 -->
 
@@ -318,7 +318,7 @@ Il *retourne*, il *ré-engaine*, il *ré-invagine* ce qui est là dé-vaginé, e
 
 <!-- id: s6-11-0078 -->
 
-> ce *phallus* qui est en effet en question de la façon la plus claire : « *to get my penis* »
+ce *phallus* qui est en effet en question de la façon la plus claire : « *to get my penis* »
 
 <!-- id: s6-11-0079 -->
 
@@ -358,7 +358,7 @@ Car après tout, ce qui est mis en cause en cette occasion est quelque chose qui
 
 <!-- id: s6-11-0088 -->
 
-> s’il s’agit en effet sous quelque forme que ce soit, *réelle* ou *imaginaire* d’obtenir le pénis
+s’il s’agit en effet sous quelque forme que ce soit, *réelle* ou *imaginaire* d’obtenir le pénis
 
 <!-- id: s6-11-0089 -->
 
@@ -558,7 +558,7 @@ Tout de suite après avoir parlé du père mort, de ce père qu’elle n’arriv
 
 <!-- id: s6-11-0138 -->
 
-> vous vous rappelez que le sujet s’émerveillait que son père, dans un temps, avait parlé
+vous vous rappelez que le sujet s’émerveillait que son père, dans un temps, avait parlé
 
 <!-- id: s6-11-0139 -->
 
@@ -606,7 +606,7 @@ Et on pourrait après tout décrire une analyse ainsi : qu’il s’agit d’él
 
 <!-- id: s6-11-0150 -->
 
-> effectivement tout ce que je connais ou pouvais connaître par ailleurs de son œuvre l’indique
+effectivement tout ce que je connais ou pouvais connaître par ailleurs de son œuvre l’indique
 
 <!-- id: s6-11-0151 -->
 
@@ -622,7 +622,7 @@ De telle sorte que *la chose* dont, dans cette occasion, on puisse dire *qu’el
 
 <!-- id: s6-11-0154 -->
 
-> sur le plan de la parole dont il s’agit au premier plan de cette observation
+sur le plan de la parole dont il s’agit au premier plan de cette observation
 
 <!-- id: s6-11-0155 -->
 
@@ -678,9 +678,9 @@ Chez ce sujet comme chez beaucoup de sujets…
 
 <!-- id: s6-11-0168 -->
 
-> et je vous prie de retenir ceci parce que c’est un fait clinique tellement évident
->
-> qu’on est absolument stupéfait que ce ne soit un lieu commun de la psychanalyse
+et je vous prie de retenir ceci parce que c’est un fait clinique tellement évident
+
+qu’on est absolument stupéfait que ce ne soit un lieu commun de la psychanalyse
 
 <!-- id: s6-11-0169 -->
 
@@ -700,7 +700,7 @@ Car en fin de compte c’est de cela qu’il s’agit. Le sujet ne veut pas « *
 
 <!-- id: s6-11-0173 -->
 
-> je veux dire qu’il n’a pas le droit d’occuper une case qui est mise en échec par une autre
+je veux dire qu’il n’a pas le droit d’occuper une case qui est mise en échec par une autre
 
 <!-- id: s6-11-0174 -->
 
@@ -740,7 +740,7 @@ Mais d’autre part, chacun sait bien le caractère infiniment couplé, féminin
 
 <!-- id: s6-11-0183 -->
 
-> \[*Strange how one speaks of the life of a car as if it were human*. *p*.135\]
+\[*Strange how one speaks of the life of a car as if it were human*. *p*.135\]
 
 <!-- id: s6-11-0184 -->
 
@@ -748,7 +748,7 @@ Ce sont là banalités bien entendu, mais cette automobile, chose très curieuse
 
 <!-- id: s6-11-0185 -->
 
-> il s’agit d’ailleurs du même mot qui est employé dans les deux cas
+il s’agit d’ailleurs du même mot qui est employé dans les deux cas
 
 <!-- id: s6-11-0186 -->
 
@@ -824,7 +824,7 @@ Mais l’organe comme tel, comme réel, non plus comme signifiant, qui est bien 
 
 <!-- id: s6-11-0204 -->
 
-> semble-t-il avec une certaine conscience de satisfaction
+semble-t-il avec une certaine conscience de satisfaction
 
 <!-- id: s6-11-0205 -->
 
@@ -832,9 +832,9 @@ Mais l’organe comme tel, comme réel, non plus comme signifiant, qui est bien 
 
 <!-- id: s6-11-0206 -->
 
-> c’est-à-dire qu’il en a pris un au collet et qu’il lui a serré le kiki dans un coin
->
-> avec assez de force pour qu’il n’ait plus envie de recommencer
+c’est-à-dire qu’il en a pris un au collet et qu’il lui a serré le kiki dans un coin
+
+avec assez de force pour qu’il n’ait plus envie de recommencer
 
 <!-- id: s6-11-0207 -->
 
@@ -898,17 +898,21 @@ cette fameuse porte du jardin paradisiaque de l’intérieur du ventre maternel,
 
 <!-- id: s6-11-0222 -->
 
-> \[« *He thought he saw a Garden-Door*
->
-> *That opened with a key :*
->
-> *He looked again, and found it was*
->
-> *A Double Rule of Three :*
->
-> « *And all its mystery* »*, he said,*
->
-> « *Is clear as day to me !*  » »\]
+<div class="text-quotation">
+
+\[« *He thought he saw a Garden-Door*
+
+*That opened with a key :*
+
+*He looked again, and found it was*
+
+*A Double Rule of Three :*
+
+« *And all its mystery* »*, he said,*
+
+« *Is clear as day to me !*  » »\]
+
+</div>
 
 <!-- id: s6-11-0223 -->
 

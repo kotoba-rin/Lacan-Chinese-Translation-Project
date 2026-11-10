@@ -817,7 +817,7 @@ du signifiant, est un objet d’un type spécial.
 
 <!-- id: s5-12-0162 -->
 
-> <img src="assets/image46.jpeg" style="width:0.96707in;height:0.53606in" alt="41.jpg" />
+<img src="assets/image46.jpeg" style="width:0.96707in;height:0.53606in" alt="41.jpg" />
 
 <!-- id: s5-12-0163 -->
 

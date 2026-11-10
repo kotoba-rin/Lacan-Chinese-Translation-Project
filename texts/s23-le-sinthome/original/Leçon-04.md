@@ -18,7 +18,7 @@ Disons que c’est l’art, l’artifice, ce qui donne à l’art...
 
 <!-- id: s23-04-0004 -->
 
-> à l’art dont on est capable ...une valeur remarquable.
+à l’art dont on est capable ...une valeur remarquable.
 
 <!-- id: s23-04-0005 -->
 
@@ -30,7 +30,7 @@ Puisqu’*il n’y a pas d’Autre de l’Autre* pour opérer le Jugement Dernie
 
 <!-- id: s23-04-0007 -->
 
-> du moins est-ce moi qui l’énonce ainsi ...ceci veut dire qu’il y a quelque chose dont nous ne pouvons jouir, appelons ça *la jouissance de Dieu*, avec le sens inclus là-dedans de jouissance sexuelle.
+du moins est-ce moi qui l’énonce ainsi ...ceci veut dire qu’il y a quelque chose dont nous ne pouvons jouir, appelons ça *la jouissance de Dieu*, avec le sens inclus là-dedans de jouissance sexuelle.
 
 <!-- id: s23-04-0008 -->
 
@@ -46,11 +46,11 @@ Y répondre qu’il n’*ex-siste* pas tranche la question, en nous rendant la c
 
 <!-- id: s23-04-0011 -->
 
-> première approximation du mot *réel,* qui a un autre sens dans mon vocabulaire ...dans cette réalité limitée qui s’atteste de l’*ex-sistence...*
+première approximation du mot *réel,* qui a un autre sens dans mon vocabulaire ...dans cette réalité limitée qui s’atteste de l’*ex-sistence...*
 
 <!-- id: s23-04-0012 -->
 
-> écrite de la même façon : *e*, *x, trait d’union, s...*de l’*ex-sistence* du *sexe*.
+écrite de la même façon : *e*, *x, trait d’union, s...*de l’*ex-sistence* du *sexe*.
 
 <!-- id: s23-04-0013 -->
 
@@ -58,7 +58,7 @@ Voilà ! C’est le type de chose qu’en fin de compte je vous apporte en ce d
 
 <!-- id: s23-04-0014 -->
 
-> c’est pas plus mal, comme ça, pour un début d’année ...ce que j’appellerai des vérités pre­mières.
+c’est pas plus mal, comme ça, pour un début d’année ...ce que j’appellerai des vérités pre­mières.
 
 <!-- id: s23-04-0015 -->
 
@@ -66,7 +66,7 @@ Non pas bien sûr que dans l’intervalle qui nous a séparés...
 
 <!-- id: s23-04-0016 -->
 
-> depuis quelque chose comme maintenant plus de 3 semaines ...non pas que je n’aie pas travaillé.
+depuis quelque chose comme maintenant plus de 3 semaines ...non pas que je n’aie pas travaillé.
 
 <!-- id: s23-04-0017 -->
 
@@ -194,7 +194,7 @@ L’Autre de l’Autre Réel, c’est-à-dire impossible, c’est l’idée que 
 
 <!-- id: s23-04-0048 -->
 
-> *f.a.i.r.e *: n’écrivez pas ça *f.e.r...*un *faire* qui nous échappe, c’est-à-dire qui déborde de beaucoup *la jouissance* que nous en pouvons avoir.
+*f.a.i.r.e *: n’écrivez pas ça *f.e.r...*un *faire* qui nous échappe, c’est-à-dire qui déborde de beaucoup *la jouissance* que nous en pouvons avoir.
 
 <!-- id: s23-04-0049 -->
 
@@ -218,7 +218,7 @@ Alors que si vous creusez ce que je veux dire par *cette notion du réel,* il ap
 
 <!-- id: s23-04-0054 -->
 
-> qu’*il exclut le sens*, ou plus exactement qu’*il se dépose d’en être exclu* ...que le *réel* se fonde.
+qu’*il exclut le sens*, ou plus exactement qu’*il se dépose d’en être exclu* ...que le *réel* se fonde.
 
 <!-- id: s23-04-0055 -->
 
@@ -238,7 +238,7 @@ J’ai là un bouquin qui s’appelle *Surface and Symbol* [^6] qui ajoute que c
 
 <!-- id: s23-04-0059 -->
 
-> faut bien le savoir, car sans ce sous-titre comment le saurait-on ? ...qui ajoute *The Consistency of James Joyce’s Ulysses,* par R - Robert - M. Adams.
+faut bien le savoir, car sans ce sous-titre comment le saurait-on ? ...qui ajoute *The Consistency of James Joyce’s Ulysses,* par R - Robert - M. Adams.
 
 <!-- id: s23-04-0060 -->
 
@@ -278,7 +278,7 @@ Mais la capacité d’abstraction imaginative est si faible que de cette corde..
 
 <!-- id: s23-04-0069 -->
 
-> cette corde montrée comme *résidu de la consistance* ...que *de cette corde, elle exclut le nœud*.
+cette corde montrée comme *résidu de la consistance* ...que *de cette corde, elle exclut le nœud*.
 
 <!-- id: s23-04-0070 -->
 
@@ -414,7 +414,7 @@ Au point, que quand il en adore un autre - un autre corps - c’est toujours sus
 
 <!-- id: s23-04-0103 -->
 
-> comme pendant le début du temps que je déconnais, on me reprochait de ne pas le dire ...qu’est-ce que « *dire le vrai sur le vrai* » ? C’est faire rien de plus que ce que j’ai fait effectivement : suivre à la trace le *réel*.
+comme pendant le début du temps que je déconnais, on me reprochait de ne pas le dire ...qu’est-ce que « *dire le vrai sur le vrai* » ? C’est faire rien de plus que ce que j’ai fait effectivement : suivre à la trace le *réel*.
 
 <!-- id: s23-04-0104 -->
 
@@ -510,11 +510,11 @@ Dans le bouquin dont je vous parlais tout à l’heure, celui d’R.M. Adams...
 
 <!-- id: s23-04-0127 -->
 
-> plus facile, je l’espère, à trouver que ce fameux *Portrait of the Artist as a Young Man,*
->
-> que vous pouvez trouver quand même, à cette seule condition de ne pas exiger
->
-> d’avoir au bout tout le criticisme que Chester Anderson a pris soin d’y rajouter
+plus facile, je l’espère, à trouver que ce fameux *Portrait of the Artist as a Young Man,*
+
+que vous pouvez trouver quand même, à cette seule condition de ne pas exiger
+
+d’avoir au bout tout le criticisme que Chester Anderson a pris soin d’y rajouter
 
 <!-- id: s23-04-0128 -->
 
@@ -654,7 +654,7 @@ Il y a *Old Father, 27 Avril*, c’est la dernière phrase du *Portrait of an Ar
 
 <!-- id: s23-04-0162 -->
 
-> Portrait d’un Artiste, *as a Young Man*, alors qu’il se croyait *<u>The</u> Artist*
+Portrait d’un Artiste, *as a Young Man*, alors qu’il se croyait *<u>The</u> Artist*
 
 <!-- id: s23-04-0163 -->
 
@@ -718,7 +718,7 @@ C’est au point qu’il culmine dans un Blephen...
 
 <!-- id: s23-04-0178 -->
 
-> puisque tout à l’heure j’ai fait un lapsus : Blephen et Stoom
+puisque tout à l’heure j’ai fait un lapsus : Blephen et Stoom
 
 <!-- id: s23-04-0179 -->
 
@@ -802,13 +802,13 @@ Pourquoi ne dit-il pas plutôt qu’il est *un nœud ?*
 
 <!-- id: s23-04-0199 -->
 
-> comme ça, pendant que je rêvais, j’ai cru qu’il s’appelait Checher, c’était plus facile à écrire.
->
-> Non, il s’appelle Chechner, c’est regrettable. Il n’est pas « *Checher* » du tout... ...il s’imagine qu’il est analyste, il s’imagine qu’il est analyste parce qu’il a lu beaucoup de livres analytiques...
+comme ça, pendant que je rêvais, j’ai cru qu’il s’appelait Checher, c’était plus facile à écrire.
+
+Non, il s’appelle Chechner, c’est regrettable. Il n’est pas « *Checher* » du tout... ...il s’imagine qu’il est analyste, il s’imagine qu’il est analyste parce qu’il a lu beaucoup de livres analytiques...
 
 <!-- id: s23-04-0200 -->
 
-> c’est une illusion assez répandue, parmi les analystes justement ...et alors, il analyse *Ulysses*.
+c’est une illusion assez répandue, parmi les analystes justement ...et alors, il analyse *Ulysses*.
 
 <!-- id: s23-04-0201 -->
 
@@ -820,11 +820,11 @@ Parce que... on peut... on peut pas s’arrêter quand on analyse un bouquin, n�
 
 <!-- id: s23-04-0203 -->
 
-> Freud quand même n’a fait là-dessus que des articles, et des articles limités, n’est-ce pas...
->
-> D’ailleurs, mis à part Dostoïevski, il n’a pas, à proprement parler, analysé de roman.
->
-> Il a fait une petite allusion à *Rosmersholm* d’Ibsen, mais enfin il s’est contenu.
+Freud quand même n’a fait là-dessus que des articles, et des articles limités, n’est-ce pas...
+
+D’ailleurs, mis à part Dostoïevski, il n’a pas, à proprement parler, analysé de roman.
+
+Il a fait une petite allusion à *Rosmersholm* d’Ibsen, mais enfin il s’est contenu.
 
 <!-- id: s23-04-0204 -->
 
@@ -852,29 +852,33 @@ C’est une énonciation :
 
 <!-- id: s23-04-0210 -->
 
-> *The cok crew*
->
-> Le coq cria
->
-> *The sky was blue*
->
-> Le ciel était bleu
->
-> *The bells in heaven*
->
-> Les cloches dans le ciel
->
-> *Were striking eleven*
->
-> Étaient sonnante onze heures
->
-> *T’is time for this poor soul*
->
-> Il est temps pour cette pauvre âme
->
-> *To go to heaven*
->
-> D’aller au paradis
+<div class="text-quotation">
+
+*The cok crew*
+
+Le coq cria
+
+*The sky was blue*
+
+Le ciel était bleu
+
+*The bells in heaven*
+
+Les cloches dans le ciel
+
+*Were striking eleven*
+
+Étaient sonnante onze heures
+
+*T’is time for this poor soul*
+
+Il est temps pour cette pauvre âme
+
+*To go to heaven*
+
+D’aller au paradis
+
+</div>
 
 <!-- id: s23-04-0211 -->
 
@@ -1014,7 +1018,7 @@ J’ai pas laissé le temps à ce cher Jacques Aubert...
 
 <!-- id: s23-04-0245 -->
 
-> à qui je comptais confier le crachoir pendant le reste de la séance ...de vous parler mainte­nant.
+à qui je comptais confier le crachoir pendant le reste de la séance ...de vous parler mainte­nant.
 
 <!-- id: s23-04-0246 -->
 
@@ -1022,13 +1026,13 @@ Il est temps que nous nous séparions, mais la prochaine fois, étant donné ce 
 
 <!-- id: s23-04-0247 -->
 
-> puisqu’il a eu la bonté de m’appeler vendredi par téléphone ...étant donné ce que j’ai entendu de lui, je crois qu’il pourra, sur ce qu’il en est du Bloom en question...
+puisqu’il a eu la bonté de m’appeler vendredi par téléphone ...étant donné ce que j’ai entendu de lui, je crois qu’il pourra, sur ce qu’il en est du Bloom en question...
 
 <!-- id: s23-04-0248 -->
 
-> à savoir - mon Dieu - de quelqu’un qui n’est pas plus mal placé qu’un autre
->
-> pour piger quelque chose à l’analyse, puisque c’est un juif ...que sur ce Bloom, et sur la façon dont est ressentie la suspension, entre les sexes, celle qui fait que le nommé Bloom ne peut que s’interroger s’il est un père ou une mère, c’est quelque chose qui fait le texte de Joyce.
+à savoir - mon Dieu - de quelqu’un qui n’est pas plus mal placé qu’un autre
+
+pour piger quelque chose à l’analyse, puisque c’est un juif ...que sur ce Bloom, et sur la façon dont est ressentie la suspension, entre les sexes, celle qui fait que le nommé Bloom ne peut que s’interroger s’il est un père ou une mère, c’est quelque chose qui fait le texte de Joyce.
 
 <!-- id: s23-04-0249 -->
 

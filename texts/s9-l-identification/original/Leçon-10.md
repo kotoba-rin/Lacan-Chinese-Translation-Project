@@ -146,9 +146,9 @@ Mais vous voyez où est le renversement : c’est que si cette fonction...
 
 <!-- id: s9-10-0036 -->
 
-> je crois que c’est le meilleur terme que nous ayons à prendre, parce que c’est le plus abstrait,
->
-> c’est le plus souple, c’est le plus à proprement parler signifiant : c’est simplement un grand F ...si la fonction que nous donnons à l’« 1 » n’est plus celle de l’*Einheit* mais de l’*Einzigkeit,* c’est que nous sommes passés - ce qu’il convien­drait quand même que nous n’oublions pas, qui est *la nouveauté de l’analyse - des vertus de la norme aux vertus de l’exception*.
+je crois que c’est le meilleur terme que nous ayons à prendre, parce que c’est le plus abstrait,
+
+c’est le plus souple, c’est le plus à proprement parler signifiant : c’est simplement un grand F ...si la fonction que nous donnons à l’« 1 » n’est plus celle de l’*Einheit* mais de l’*Einzigkeit,* c’est que nous sommes passés - ce qu’il convien­drait quand même que nous n’oublions pas, qui est *la nouveauté de l’analyse - des vertus de la norme aux vertus de l’exception*.
 
 <!-- id: s9-10-0037 -->
 
@@ -216,9 +216,9 @@ Moralité de cette métaphysique de l’amour, puisque c’est de cela qu’il s
 
 <!-- id: s9-10-0053 -->
 
-> ce qui s’appelle aimer, ce que nous appe­lons ici aimer, histoire de savoir aussi ce qu’il y a
->
-> comme reste au-delà de l’amour, donc ce qui s’appelle aimer d’une certaine façon
+ce qui s’appelle aimer, ce que nous appe­lons ici aimer, histoire de savoir aussi ce qu’il y a
+
+comme reste au-delà de l’amour, donc ce qui s’appelle aimer d’une certaine façon
 
 <!-- id: s9-10-0054 -->
 

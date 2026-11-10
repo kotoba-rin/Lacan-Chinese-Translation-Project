@@ -70,11 +70,11 @@ Donc *ce dictionnaire* - qu’on s’y reporte - *m’apporte auspices* d’êtr
 
 <!-- id: s18-07-0017 -->
 
-> j’entend « *départ* » [^50] au sens de « *réparti* » \[Départ : action de départir, de *répartir,* de séparer une chose d’une autre.\] *...départ d’une équivoque* dont Joyce*...*
+j’entend « *départ* » [^50] au sens de « *réparti* » \[Départ : action de départir, de *répartir,* de séparer une chose d’une autre.\] *...départ d’une équivoque* dont Joyce*...*
 
 <!-- id: s18-07-0018 -->
 
-> c’est James Joyce dont je parle *...*dont James Joyce glisse de « *a letter* » à « *a litter* », d’*une lettre* - je traduis - à *une ordure*. \[départ : action de départir, répartir, séparer deux choses hétérogènes (avec l’équivoque sur « départir » comme antonyme de « partir », cf. infra : « voyage ») <sub>→</sub> séparation\]
+c’est James Joyce dont je parle *...*dont James Joyce glisse de « *a letter* » à « *a litter* », d’*une lettre* - je traduis - à *une ordure*. \[départ : action de départir, répartir, séparer deux choses hétérogènes (avec l’équivoque sur « départir » comme antonyme de « partir », cf. infra : « voyage ») <sub>→</sub> séparation\]
 
 <!-- id: s18-07-0019 -->
 
@@ -98,7 +98,7 @@ Au jeu que nous évoquons, il n’y eût rien gagné, puisqu’il allait tout dr
 
 <!-- id: s18-07-0024 -->
 
-> avec ce « *a letter, a litter* », ...tout droit au mieux de ce que l’on peut attendre de la psychanalyse à sa fin.
+avec ce « *a letter, a litter* », ...tout droit au mieux de ce que l’on peut attendre de la psychanalyse à sa fin.
 
 <!-- id: s18-07-0025 -->
 
@@ -106,7 +106,7 @@ Au jeu que nous évoquons, il n’y eût rien gagné, puisqu’il allait tout dr
 
 <!-- id: s18-07-0026 -->
 
-> vous vous souvenez peut-être, si vous l’avez jamais su : « *sicut palea »* [^51] ...est-ce Saint Thomas encore qui revient à Joyce, comme son œuvre en témoigne tout au long ?
+vous vous souvenez peut-être, si vous l’avez jamais su : « *sicut palea »* [^51] ...est-ce Saint Thomas encore qui revient à Joyce, comme son œuvre en témoigne tout au long ?
 
 <!-- id: s18-07-0027 -->
 
@@ -126,7 +126,7 @@ Il faut dire sans doute...
 
 <!-- id: s18-07-0031 -->
 
-> c’était peu après que ma « *Proposition d’octobre* 67 » ait été accueillie comme on sait ...il faut dire sans doute que... en jouant de ça, j’étais un peu las de la poubelle à laquelle j’ai rivé mon sort.
+c’était peu après que ma « *Proposition d’octobre* 67 » ait été accueillie comme on sait ...il faut dire sans doute que... en jouant de ça, j’étais un peu las de la poubelle à laquelle j’ai rivé mon sort.
 
 <!-- id: s18-07-0032 -->
 
@@ -162,7 +162,7 @@ La question est de savoir si ce dont les manuels semblent faire étal depuis qu�
 
 <!-- id: s18-07-0040 -->
 
-> je parle des *manuels de littérature,* ...soit : que la littérature ne soit qu’accommodation des restes.
+je parle des *manuels de littérature,* ...soit : que la littérature ne soit qu’accommodation des restes.
 
 <!-- id: s18-07-0041 -->
 
@@ -190,7 +190,7 @@ L’évocation par Freud d’un texte de Dostoïevski ne suffit pas pour dire qu
 
 <!-- id: s18-07-0047 -->
 
-> Disc. U Disc. A
+Disc. U Disc. A
 
 <!-- id: s18-07-0048 -->
 
@@ -198,7 +198,7 @@ Si pourtant mon enseignement a place dans *un changement de configuration* \[*«
 
 <!-- id: s18-07-0049 -->
 
-> sous couleur d’actualité \[*Cf. le « débat » Lacan-Derrida*\] ...actuellement s’affiche d’un slogan de *promotion* *de l’écrit*. \[*→ slogan de« publicité »*\]
+sous couleur d’actualité \[*Cf. le « débat » Lacan-Derrida*\] ...actuellement s’affiche d’un slogan de *promotion* *de l’écrit*. \[*→ slogan de« publicité »*\]
 
 <!-- id: s18-07-0050 -->
 
@@ -206,7 +206,7 @@ Mais ce changement, d’autres témoignages...
 
 <!-- id: s18-07-0051 -->
 
-> par exemple que ce soit de nos jours qu’enfin Rabelais soit lu ...montrent qu’il repose peut-être sur un déplacement littéraire *à quoi je m’accorde mieux* \[*mieux qu’à un slogan* *« promotion de l’écrit »*\]. \[*cf. « Gargantua », la référence au « Banquet » et à l’*ἄγαλμα (*agalma*) *dans le célèbre prologue : « Buveurs très illustres, et vous vérolés très précieux*... » *cf. aussi « Pantagruel » *: *« science sans conscience ... » et sa référence à venir dans « L’étourdit »*\]
+par exemple que ce soit de nos jours qu’enfin Rabelais soit lu ...montrent qu’il repose peut-être sur un déplacement littéraire *à quoi je m’accorde mieux* \[*mieux qu’à un slogan* *« promotion de l’écrit »*\]. \[*cf. « Gargantua », la référence au « Banquet » et à l’*ἄγαλμα (*agalma*) *dans le célèbre prologue : « Buveurs très illustres, et vous vérolés très précieux*... » *cf. aussi « Pantagruel » *: *« science sans conscience ... » et sa référence à venir dans « L’étourdit »*\]
 
 <!-- id: s18-07-0052 -->
 
@@ -230,11 +230,11 @@ Il est pourtant frappant que ce recueil de mes *Écrits,* je l’ai ouvert d’u
 
 <!-- id: s18-07-0057 -->
 
-> la chronologie y fait règle ...et que là il s’agisse d’un *conte*, lui-même - il faut le dire - bien particulier de ne pouvoir entrer dans la liste ordonnée...
+la chronologie y fait règle ...et que là il s’agisse d’un *conte*, lui-même - il faut le dire - bien particulier de ne pouvoir entrer dans la liste ordonnée...
 
 <!-- id: s18-07-0058 -->
 
-> vous savez qu’on l’a faite ...des situations dramatiques [^54]. Enfin laissons ça...
+vous savez qu’on l’a faite ...des situations dramatiques [^54]. Enfin laissons ça...
 
 <!-- id: s18-07-0059 -->
 
@@ -258,7 +258,7 @@ C’est cela qui rend remarquable *l’effet* qu’elle porte sur ceux qui, tour
 
 <!-- id: s18-07-0064 -->
 
-> tout ardents qu’ils puissent être du pouvoir qu’elle confère, pour y prétendre ...que cet *effet d’illusion* puisse s’articuler - ce que je fais moi - comme *effet de féminisation*. \[*le pouvoir que confère la lettre met son détenteur en position de « détention » passive, de recel d’un objet précieux...*\]
+tout ardents qu’ils puissent être du pouvoir qu’elle confère, pour y prétendre ...que cet *effet d’illusion* puisse s’articuler - ce que je fais moi - comme *effet de féminisation*. \[*le pouvoir que confère la lettre met son détenteur en position de « détention » passive, de recel d’un objet précieux...*\]
 
 <!-- id: s18-07-0065 -->
 
@@ -266,7 +266,7 @@ C’est là - je m’excuse d’y revenir - bien distinguer...
 
 <!-- id: s18-07-0066 -->
 
-> je parle de ce que je fais ...« *la lettre »* du « *signifiant même* », en tant qu’ici *elle l’emporte*, elle l’emporte *dans son enveloppe*, puisqu’il s’agit d’une *lettre* au sens du mot « *épistole »*.
+je parle de ce que je fais ...« *la lettre »* du « *signifiant même* », en tant qu’ici *elle l’emporte*, elle l’emporte *dans son enveloppe*, puisqu’il s’agit d’une *lettre* au sens du mot « *épistole »*.
 
 <!-- id: s18-07-0067 -->
 
@@ -314,7 +314,7 @@ Mais pour ça, pour que ça vaille, il faudrait d’abord qu’on développe...
 
 <!-- id: s18-07-0078 -->
 
-> que celui qui s’y emploierait, à cette interprétation, ...développe *ce que j’entends que la lettre porte* \[*trace de la jouissance*\]*, pour arriver toujours* - je le dis - *à sa destination*.
+que celui qui s’y emploierait, à cette interprétation, ...développe *ce que j’entends que la lettre porte* \[*trace de la jouissance*\]*, pour arriver toujours* - je le dis - *à sa destination*.
 
 <!-- id: s18-07-0079 -->
 
@@ -338,7 +338,7 @@ C’est par là que *je l’éclaire* la psychanalyse \[*par son échec, là où
 
 <!-- id: s18-07-0084 -->
 
-> on le sait que je sais que j’invoque ainsi - c’est au dos de mon volume \[*« Écrits », Seuil, Paris, 1966*\] ...j’invoque ainsi « les lumières ».
+on le sait que je sais que j’invoque ainsi - c’est au dos de mon volume \[*« Écrits », Seuil, Paris, 1966*\] ...j’invoque ainsi « les lumières ».
 
 <!-- id: s18-07-0085 -->
 
@@ -378,9 +378,13 @@ C’est par cette méthode \[*→partir des trous : là où faire sens échoue
 
 <!-- id: s18-07-0094 -->
 
-> « τί ἐστιν ὃ μίαν ἔχον φωνὴν τετράπουν καὶ δίπουν καὶ τρίπουν γίνεται »
->
-> « *Quel être, pourvu d’une seule voix, a d’abord quatre jambes, puis deux jambes, et trois jambes ensuite ? » (Apollodore, Bibliothèque,* III, 5, 8*)*
+<div class="text-quotation">
+
+« τί ἐστιν ὃ μίαν ἔχον φωνὴν τετράπουν καὶ δίπουν καὶ τρίπουν γίνεται »
+
+« *Quel être, pourvu d’une seule voix, a d’abord quatre jambes, puis deux jambes, et trois jambes ensuite ? » (Apollodore, Bibliothèque,* III, 5, 8*)*
+
+</div>
 
 <!-- id: s18-07-0095 -->
 
@@ -388,9 +392,13 @@ C’est par cette méthode \[*→partir des trous : là où faire sens échoue
 
 <!-- id: s18-07-0096 -->
 
-> « Έπάμεροί τί δέ τις ! τί δ'οῠ τις ? σκιᾶς ὄναρ ἄνθρωπος. »
->
-> *Ô homme d’un jour : Qu’est-ce que l’être, qu’est-ce que le non-être ? Tu n’es que le rêve d’une ombre.* *(Pindare (Pythiques* VIII, 99*)* *trad. Faustin Colin*\]
+<div class="text-quotation">
+
+« Έπάμεροί τί δέ τις ! τί δ'οῠ τις ? σκιᾶς ὄναρ ἄνθρωπος. »
+
+*Ô homme d’un jour : Qu’est-ce que l’être, qu’est-ce que le non-être ? Tu n’es que le rêve d’une ombre.* *(Pindare (Pythiques* VIII, 99*)* *trad. Faustin Colin*\]
+
+</div>
 
 <!-- id: s18-07-0097 -->
 
@@ -398,9 +406,13 @@ C’est par cette méthode \[*→partir des trous : là où faire sens échoue
 
 <!-- id: s18-07-0098 -->
 
-> « ὁ ἄναξ οὗ τὸ µαντεῖόν ἐστι τὸ ἐν ∆ελφοῖς, οὔτε λέγει οὔτε κρύπτει ἀλλὰ σηµαίνει. »
->
-> « *Le dieu dont l’oracle est à Delphes ne révèle pas, ne cache pas, mais il indique. »* \[*il fait signe*\] (Héraclite, Fragment 93
+<div class="text-quotation">
+
+« ὁ ἄναξ οὗ τὸ µαντεῖόν ἐστι τὸ ἐν ∆ελφοῖς, οὔτε λέγει οὔτε κρύπτει ἀλλὰ σηµαίνει. »
+
+« *Le dieu dont l’oracle est à Delphes ne révèle pas, ne cache pas, mais il indique. »* \[*il fait signe*\] (Héraclite, Fragment 93
+
+</div>
 
 <!-- id: s18-07-0099 -->
 
@@ -408,7 +420,7 @@ Mais ceux, ceux des psychanalystes...
 
 <!-- id: s18-07-0100 -->
 
-> dont ce n’est pas *médire* que d’avancer que plutôt qu’ils l’exercent la psychanalyse, *ils en sont exercés* ...entendent mal mes propos, à tout le moins d’être pris en corps.
+dont ce n’est pas *médire* que d’avancer que plutôt qu’ils l’exercent la psychanalyse, *ils en sont exercés* ...entendent mal mes propos, à tout le moins d’être pris en corps.
 
 <!-- id: s18-07-0101 -->
 
@@ -448,7 +460,11 @@ J’insiste - à corriger mon tir - de dire «* savoir en échec *» \[*savoir
 
 <!-- id: s18-07-0110 -->
 
-> *« ...le dire vient d’où il* \[*le réel* \] *la commande* \[*la vérité* \]. »\]
+<div class="text-quotation">
+
+*« ...le dire vient d’où il* \[*le réel* \] *la commande* \[*la vérité* \]. »\]
+
+</div>
 
 <!-- id: s18-07-0111 -->
 
@@ -492,7 +508,7 @@ C’est évidemment un départ fâcheux qu’une biologie...
 
 <!-- id: s18-07-0121 -->
 
-> car c’était une biologie qu’il voulait avec ça fonder, Von Uexküll ...une biologie *qui se donne déjà tout au départ, le fait de l’adaptation notamment*, qui fait le fond de ce couplage *Umwelt-Innenwelt*. Évidemment « *la sélection* », « *la sélection »* ça ne vaut pas mieux au titre de l’idéologie : ce n’est pas parce qu’elle se bénit elle-même d’être « *naturelle* » qu’elle l’est moins \[*idéologique*\].
+car c’était une biologie qu’il voulait avec ça fonder, Von Uexküll ...une biologie *qui se donne déjà tout au départ, le fait de l’adaptation notamment*, qui fait le fond de ce couplage *Umwelt-Innenwelt*. Évidemment « *la sélection* », « *la sélection »* ça ne vaut pas mieux au titre de l’idéologie : ce n’est pas parce qu’elle se bénit elle-même d’être « *naturelle* » qu’elle l’est moins \[*idéologique*\].
 
 <!-- id: s18-07-0122 -->
 
@@ -528,7 +544,7 @@ Le drôle, c’est de constater comment la psychanalyse s’oblige...
 
 <!-- id: s18-07-0130 -->
 
-> en quelque sorte de son mouvement même, ...à méconnaître le sens de ce que pourtant *la lettre* dit « *à la lettre *» - c’est le cas de le dire - de sa bouche, quand toutes ses interprétations se résument à *la jouissance*.
+en quelque sorte de son mouvement même, ...à méconnaître le sens de ce que pourtant *la lettre* dit « *à la lettre *» - c’est le cas de le dire - de sa bouche, quand toutes ses interprétations se résument à *la jouissance*.
 
 <!-- id: s18-07-0131 -->
 
@@ -544,7 +560,7 @@ Il reste à savoir comment l’inconscient...
 
 <!-- id: s18-07-0134 -->
 
-> que je dis être *effet de langage,* puisqu’il en suppose la structure comme nécessaire et suffisante, ...comment il commande cette fonction de la lettre.
+que je dis être *effet de langage,* puisqu’il en suppose la structure comme nécessaire et suffisante, ...comment il commande cette fonction de la lettre.
 
 <!-- id: s18-07-0135 -->
 
@@ -576,7 +592,7 @@ Rien de ce que j’ai inscrit à l’aide de *lettres,* des formations de l’in
 
 <!-- id: s18-07-0142 -->
 
-> pour les récupérer de ce dont Freud les formule : des énoncés - plus simplement - d’effets de langage ...rien ne permet de confondre - comme il s’est fait - *la lettre* avec le signifiant.
+pour les récupérer de ce dont Freud les formule : des énoncés - plus simplement - d’effets de langage ...rien ne permet de confondre - comme il s’est fait - *la lettre* avec le signifiant.
 
 <!-- id: s18-07-0143 -->
 
@@ -588,7 +604,7 @@ Un tel discours *confusionnel* n’a pu surgir que de celui, du discours, qui *m
 
 <!-- id: s18-07-0145 -->
 
-> comme je l’ai souligné assez depuis un an et demi, je pense ...soit du savoir \[**S<sub>2</sub>**\] mis en usage à partir du *semblant*.
+comme je l’ai souligné assez depuis un an et demi, je pense ...soit du savoir \[**S<sub>2</sub>**\] mis en usage à partir du *semblant*.
 
 <!-- id: s18-07-0146 -->
 
@@ -684,7 +700,7 @@ Seulement voilà, c’est prématuré : c’est le départ que ça rend *imposs
 
 <!-- id: s18-07-0169 -->
 
-> *mais départ impossible du symbolique vers le réel, qui ne peut être atteint, sauf en « chanson » *: *« Que me chantez-vous là ? », ou « On connait la chanson... »),*
+*mais départ impossible du symbolique vers le réel, qui ne peut être atteint, sauf en « chanson » *: *« Que me chantez-vous là ? », ou « On connait la chanson... »),*
 
 <!-- id: s18-07-0170 -->
 
@@ -712,7 +728,7 @@ Il faut que j’avoue que ce ne fut pas à l’aller...
 
 <!-- id: s18-07-0176 -->
 
-> le long du cercle arctique qui trace cette route pour l’avion, ...*que je fis lecture* - de quoi ? - *de ce que je voyais de la plaine sibérienne*.
+le long du cercle arctique qui trace cette route pour l’avion, ...*que je fis lecture* - de quoi ? - *de ce que je voyais de la plaine sibérienne*.
 
 <!-- id: s18-07-0177 -->
 
@@ -724,7 +740,7 @@ Cet essai n’aurait pas vu le jour, si la méfiance des Soviétiques m’avait.
 
 <!-- id: s18-07-0179 -->
 
-> c’était pas pour moi, c’était pour les avions ...m’avait, m’avait laissé voir les industries, les installations militaires qui font le prix de la Sibérie.
+c’était pas pour moi, c’était pour les avions ...m’avait, m’avait laissé voir les industries, les installations militaires qui font le prix de la Sibérie.
 
 <!-- id: s18-07-0180 -->
 
@@ -764,7 +780,7 @@ Il a fallu sans doute pour ça, pour « *ce petit peu trop* », il a fallu que
 
 <!-- id: s18-07-0189 -->
 
-> 掛物 *Kakémono,* c’est comme ça que ça se jaspine
+掛物 *Kakémono,* c’est comme ça que ça se jaspine
 
 <!-- id: s18-07-0190 -->
 
@@ -836,7 +852,7 @@ Voilà, c’est comme ça qu’invinciblement m’apparut...
 
 <!-- id: s18-07-0207 -->
 
-> d’une circonstance qui est à y retenir : à savoir d’*<u>entre les nuages</u>...*m’apparut le ruissellement \[*de ce qui a chu *: ↓*a*\] qui est *seule trace à apparaître*, d’y opérer plus encore que d’en indiquer le relief sous cette latitude, dans ce qu’on appelle « *la plaine sibérienne »*, plaine vraiment désolée - au sens propre – d’aucune végétation *que de reflets, reflets de ce ruissellement, lesquels poussent à l’ombre ce qui n’en miroite pas.*
+d’une circonstance qui est à y retenir : à savoir d’*<u>entre les nuages</u>...*m’apparut le ruissellement \[*de ce qui a chu *: ↓*a*\] qui est *seule trace à apparaître*, d’y opérer plus encore que d’en indiquer le relief sous cette latitude, dans ce qu’on appelle « *la plaine sibérienne »*, plaine vraiment désolée - au sens propre – d’aucune végétation *que de reflets, reflets de ce ruissellement, lesquels poussent à l’ombre ce qui n’en miroite pas.*
 
 <!-- id: s18-07-0208 -->
 
@@ -924,7 +940,7 @@ Vous pouvez toujours essayer, essayer de faire simplement...
 
 <!-- id: s18-07-0229 -->
 
-> ce que je ne vais pas faire... parce que je la raterai, d’abord parce que je n’ai pas de pinceau ...*essayer de faire cette barre horizontale*, qui se trace de gauche à droite, pour figurer d’un trait l’1 *unaire* comme caractère.
+ce que je ne vais pas faire... parce que je la raterai, d’abord parce que je n’ai pas de pinceau ...*essayer de faire cette barre horizontale*, qui se trace de gauche à droite, pour figurer d’un trait l’1 *unaire* comme caractère.
 
 <!-- id: s18-07-0230 -->
 
@@ -964,7 +980,7 @@ C’est de là où j’étais à cette heure, que j’ai vraiment bien compris q
 
 <!-- id: s18-07-0239 -->
 
-> celles-là on les appelle 巻物 *Makimono* \[*les Makimono se déroulent horizontalement*, *les Kakémono verticalement*\] ...président à la répartition des petites scènes.
+celles-là on les appelle 巻物 *Makimono* \[*les Makimono se déroulent horizontalement*, *les Kakémono verticalement*\] ...président à la répartition des petites scènes.
 
 <!-- id: s18-07-0240 -->
 
@@ -984,7 +1000,7 @@ Mais du même coup ça doit être aussi que ce soit d’*en congédier* *ce* \[*
 
 <!-- id: s18-07-0244 -->
 
-> pour m’exprimer ainsi ...*de la jouissance,* qui fait le monde en somme, car l’idée de « *monde* » c’est ça: *penser qu’il soit fait de pulsions* *telles* qu’aussi bien s’en figure *le vide* \[S<sub>2</sub> ◊ *a *\]. \[*cf.* *texte* *« <u>la vie</u> » *: *sans la vie des pulsions le monde est vide* → *boucher le trou c’est aussi le figurer*\]
+pour m’exprimer ainsi ...*de la jouissance,* qui fait le monde en somme, car l’idée de « *monde* » c’est ça: *penser qu’il soit fait de pulsions* *telles* qu’aussi bien s’en figure *le vide* \[S<sub>2</sub> ◊ *a *\]. \[*cf.* *texte* *« <u>la vie</u> » *: *sans la vie des pulsions le monde est vide* → *boucher le trou c’est aussi le figurer*\]
 
 <!-- id: s18-07-0245 -->
 
@@ -992,7 +1008,7 @@ Eh bien, *ce qui de jouissance s’évoque à ce que se rompe un semblant, voil�
 
 <!-- id: s18-07-0246 -->
 
-> c’est là le point important ...« *dans le réel* » *se présente comme ravinement*.
+c’est là le point important ...« *dans le réel* » *se présente comme ravinement*.
 
 <!-- id: s18-07-0247 -->
 
@@ -1116,7 +1132,7 @@ Donc, *il n’y a de droite que d’écriture, d’arpentage que du ciel*. Mais 
 
 <!-- id: s18-07-0277 -->
 
-> l’un et l’autre *<u>en tant que tels</u>*, pour soutenir la droite ...*ce sont artefacts à n’habiter que le langage*.
+l’un et l’autre *<u>en tant que tels</u>*, pour soutenir la droite ...*ce sont artefacts à n’habiter que le langage*.
 
 <!-- id: s18-07-0278 -->
 
@@ -1136,11 +1152,11 @@ Il ne faudrait quand même pas l’oublier : *notre science n’est opérante* 
 
 <!-- id: s18-07-0282 -->
 
-> → *mise en évidence du réel par une lettre - ici un jeu de lettres - de l’effet d’attraction d’un « corps céleste » (« ça tombe ») et du mouvement perpétuel « elliptique » induit,*
->
-> *à mettre en regard avec le « ça choit », « ça tombe » des nuées du semblant *: *a↓, en parabole, puis ça remonte au signifiant pour « prendre Nom »),*
->
-> *répétition et retour à la même place *: *élan libératoire fourni par l’attraction, puis déclin d’énergie et retour vers le foyer gravitationnel de la « relance » (phallique)* :
+→ *mise en évidence du réel par une lettre - ici un jeu de lettres - de l’effet d’attraction d’un « corps céleste » (« ça tombe ») et du mouvement perpétuel « elliptique » induit,*
+
+*à mettre en regard avec le « ça choit », « ça tombe » des nuées du semblant *: *a↓, en parabole, puis ça remonte au signifiant pour « prendre Nom »),*
+
+*répétition et retour à la même place *: *élan libératoire fourni par l’attraction, puis déclin d’énergie et retour vers le foyer gravitationnel de la « relance » (phallique)* :
 
 <!-- id: s18-07-0283 -->
 
@@ -1156,9 +1172,9 @@ Il ne faudrait quand même pas l’oublier : *notre science n’est opérante* 
 
 <!-- id: s18-07-0286 -->
 
-> certes, comme sous celui d’une revue [^66] qui fut la mienne,
->
-> là où j’avais foutu comme enseigne un pont-oreille emprunté à Horus Apollo ...*sous le pont Mirabeau coule la Seine...* *primitive*.
+certes, comme sous celui d’une revue [^66] qui fut la mienne,
+
+là où j’avais foutu comme enseigne un pont-oreille emprunté à Horus Apollo ...*sous le pont Mirabeau coule la Seine...* *primitive*.
 
 <!-- id: s18-07-0287 -->
 
@@ -1182,7 +1198,7 @@ Que *le symptôme* institue l’ordre dont s’avère notre politique \[*ordre s
 
 <!-- id: s18-07-0292 -->
 
-> c’est là le pas qu’elle a franchi ...implique d’autre part que *tout ce qui s’articule* de cet ordre soit passible d’*interprétation*. \[le *discours* A *élucide le fantasme, il* *prend son départ (a <sub>→</sub>* S*)* *de la butée du discours* M : *a* ◊ S, *où* *a représente l’entropie de jouissance de la chaîne signifiante*\]
+c’est là le pas qu’elle a franchi ...implique d’autre part que *tout ce qui s’articule* de cet ordre soit passible d’*interprétation*. \[le *discours* A *élucide le fantasme, il* *prend son départ (a <sub>→</sub>* S*)* *de la butée du discours* M : *a* ◊ S, *où* *a représente l’entropie de jouissance de la chaîne signifiante*\]
 
 <!-- id: s18-07-0293 -->
 
@@ -1202,7 +1218,7 @@ Il suffirait peut-être, pour mettre notre espoir *ailleurs*...
 
 <!-- id: s18-07-0297 -->
 
-> ce que font mes littérateurs, si je peux les faire mes compagnons ...il suffirait *que de l’écriture, nous tirions un autre parti* \[*ie <u>s’appuyer</u> sur la lettre hors-sens plutôt que sur le signifiant et son sens*\] *que de* *tribunes* \[*politique*\] ou *tribunal* \[*ordre social*\], pour que s’y jouent *<u>d’autres paroles</u>* à nous en faire - nous-mêmes - à nous en faire le *tribut*. \[*<u>autres</u> que l’entropie du* (*a*)↓ *due au disc. Maître*. *Cf. Mallarmé *: « *Donner un sens plus pur aux mots de la tribu* » (*Tombeau d’Edgar Poe*), →
+ce que font mes littérateurs, si je peux les faire mes compagnons ...il suffirait *que de l’écriture, nous tirions un autre parti* \[*ie <u>s’appuyer</u> sur la lettre hors-sens plutôt que sur le signifiant et son sens*\] *que de* *tribunes* \[*politique*\] ou *tribunal* \[*ordre social*\], pour que s’y jouent *<u>d’autres paroles</u>* à nous en faire - nous-mêmes - à nous en faire le *tribut*. \[*<u>autres</u> que l’entropie du* (*a*)↓ *due au disc. Maître*. *Cf. Mallarmé *: « *Donner un sens plus pur aux mots de la tribu* » (*Tombeau d’Edgar Poe*), →
 
 <!-- id: s18-07-0298 -->
 
@@ -1230,7 +1246,7 @@ Je ne vois pas d’autre espoir pour ce qui actuellement s’aiguise  : est-il 
 
 <!-- id: s18-07-0304 -->
 
-> comme j’en pose la question cette année ...de ne pas s’émettre du *semblant* ?
+comme j’en pose la question cette année ...de ne pas s’émettre du *semblant* ?
 
 <!-- id: s18-07-0305 -->
 
@@ -1238,7 +1254,11 @@ Je ne vois pas d’autre espoir pour ce qui actuellement s’aiguise  : est-il 
 
 <!-- id: s18-07-0306 -->
 
-> « *commencement du savoir* » : S<sub>1</sub> *comme « produit » du Disc.* A, *<u>mais</u>* S<sub>2</sub> *inaccessible *: S<sub>1</sub> ◊ S<sub>2</sub>. « *ça n’arrive à rien* » : S<sub>2</sub>, *réel de Lalangue, reste inaccessible.*
+<div class="text-quotation">
+
+« *commencement du savoir* » : S<sub>1</sub> *comme « produit » du Disc.* A, *<u>mais</u>* S<sub>2</sub> *inaccessible *: S<sub>1</sub> ◊ S<sub>2</sub>. « *ça n’arrive à rien* » : S<sub>2</sub>, *réel de Lalangue, reste inaccessible.*
+
+</div>
 
 <!-- id: s18-07-0307 -->
 
@@ -1298,7 +1318,7 @@ Cependant la science physique se trouve, va se trouver ramenée à la considéra
 
 <!-- id: s18-07-0321 -->
 
-> il y a des gens, des scientifiques qui y sont sensibles ...par la pollution de ce que du terrestre, on appelle sans plus de critique : « *environne­ment »*.
+il y a des gens, des scientifiques qui y sont sensibles ...par la pollution de ce que du terrestre, on appelle sans plus de critique : « *environne­ment »*.
 
 <!-- id: s18-07-0322 -->
 
@@ -1346,9 +1366,9 @@ Que ce qui est porteur de l’effet d’écriture y soit d’*une écriture spé
 
 <!-- id: s18-07-0333 -->
 
-> je ne suis pas là en train de vous jeter de la poudre aux yeux,
->
-> je vous dirai le moins de japonais possible ...*on-yomi *: c’est comme ça que ça s’appelle, *c’est sa prononciation en caractères*, *en caractères ça se prononce comme tel distinctement*, \[*lecture « lettre par lettre », phonétique, « musique » du caractère comme syllabe* <sub>→</sub> *hors-sens*\]
+je ne suis pas là en train de vous jeter de la poudre aux yeux,
+
+je vous dirai le moins de japonais possible ...*on-yomi *: c’est comme ça que ça s’appelle, *c’est sa prononciation en caractères*, *en caractères ça se prononce comme tel distinctement*, \[*lecture « lettre par lettre », phonétique, « musique » du caractère comme syllabe* <sub>→</sub> *hors-sens*\]
 
 <!-- id: s18-07-0334 -->
 
@@ -1376,7 +1396,7 @@ Seulement voilà, elle \[*l’écriture, la lettre*\] est promue de là, à la f
 
 <!-- id: s18-07-0340 -->
 
-> et non seulement sur le *trait unaire* \[S<sub>1</sub> → S<sub>2</sub> ↓*a* etc.\] *...pour son identification fondamentale*.
+et non seulement sur le *trait unaire* \[S<sub>1</sub> → S<sub>2</sub> ↓*a* etc.\] *...pour son identification fondamentale*.
 
 <!-- id: s18-07-0341 -->
 
@@ -1488,7 +1508,7 @@ Le Japon est l’endroit où il est le plus naturel de se soutenir...
 
 <!-- id: s18-07-0368 -->
 
-> je l’ai fait, je l’ai pratiqué un instant ...d’une interprète - qui aurait aussi bien pu être un - d’une interprète : on est tout à fait à l’aise, on peut se doubler d’une interprète, ça ne nécessite en aucun cas d’interprétation.
+je l’ai fait, je l’ai pratiqué un instant ...d’une interprète - qui aurait aussi bien pu être un - d’une interprète : on est tout à fait à l’aise, on peut se doubler d’une interprète, ça ne nécessite en aucun cas d’interprétation.
 
 <!-- id: s18-07-0369 -->
 
@@ -1504,7 +1524,7 @@ Ce que j’aime – je vais finir là-dessus - c’est que la seule communicatio
 
 <!-- id: s18-07-0372 -->
 
-> hors les Européens bien sûr, avec lesquels je sais m’entendre selon notre *malentendu* culturel ...eh ben la seule que j’ai eue avec un Japonais c’est aussi la seule qui, là-bas comme ailleurs, puisse être « *une communication* » de n’être pas dialogue : c’est *la communication scientifique*.
+hors les Européens bien sûr, avec lesquels je sais m’entendre selon notre *malentendu* culturel ...eh ben la seule que j’ai eue avec un Japonais c’est aussi la seule qui, là-bas comme ailleurs, puisse être « *une communication* » de n’être pas dialogue : c’est *la communication scientifique*.
 
 <!-- id: s18-07-0373 -->
 
@@ -1516,7 +1536,7 @@ Le fait que faute d’information, je n’y compris rien, n’empêche nullement
 
 <!-- id: s18-07-0375 -->
 
-> comme les miennes là où elles sont ...valables pour les molécules dont mes descendants se feront sujet sans que j’aie jamais eu à savoir comment je leur transmettais, ce qui rendait vraisemblable que moi je me classe parmi les êtres vivants.
+comme les miennes là où elles sont ...valables pour les molécules dont mes descendants se feront sujet sans que j’aie jamais eu à savoir comment je leur transmettais, ce qui rendait vraisemblable que moi je me classe parmi les êtres vivants.
 
 <!-- id: s18-07-0376 -->
 

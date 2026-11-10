@@ -239,11 +239,11 @@ La coupure, comme nous l’enseigne...
 
 <!-- id: s10-18-0045 -->
 
-> si nous tenons que c’est à juste titre que nous avons reconnu dans notre expérience
->
-> qu’il у а analogie entre le sevra­ge oral et le sevrage de la naissance
-> ...la coupure est intérieure à l’unité indi­viduelle primordiale, telle qu’elle se présente au niveau de la naissance,
-> où *la coupure* se fait entre ce qui va devenir l’individu jeté dans le monde exté­rieur, et ses « *enveloppes* »...
+si nous tenons que c’est à juste titre que nous avons reconnu dans notre expérience
+
+qu’il у а analogie entre le sevra­ge oral et le sevrage de la naissance
+...la coupure est intérieure à l’unité indi­viduelle primordiale, telle qu’elle se présente au niveau de la naissance,
+où *la coupure* se fait entre ce qui va devenir l’individu jeté dans le monde exté­rieur, et ses « *enveloppes* »...
 
 <!-- id: s10-18-0046 -->
 
@@ -605,10 +605,10 @@ nous a ici, d’ores et déjà incités à essayer...
 
 <!-- id: s10-18-0118 -->
 
-> après tout, selon l’indication de Freud lui-même, qui nous dit bien qu’à ce niveau,
->
-> sans qu’en rien il ne le justifie pourtant, c’est à quelque *roc biologique* que nous touchons
-> ...nous a incités ici à articuler comme gisant dans *une particu­larité de la fonction de l’organe copulatoire* à un certain niveau biologique.
+après tout, selon l’indication de Freud lui-même, qui nous dit bien qu’à ce niveau,
+
+sans qu’en rien il ne le justifie pourtant, c’est à quelque *roc biologique* que nous touchons
+...nous a incités ici à articuler comme gisant dans *une particu­larité de la fonction de l’organe copulatoire* à un certain niveau biologique.
 
 <!-- id: s10-18-0119 -->
 
@@ -662,10 +662,10 @@ Et c’est ce qui nous permet de justifier ce que la clinique nous montre d’un
 
 <!-- id: s10-18-0129 -->
 
-> si nous en croyons le témoignage humain universel renouvelé, cela vaut la peine après tout
->
-> de noter que quelqu’un - et quelqu’un du niveau de Freud - ose l’écrire, l’attestation de ce fait
-> ...qu’il n’y a rien qui soit en fin de compte, qui représente en fin de compte, pour l’être humain, de plus grande satisfaction que l’orgasme lui-même.
+si nous en croyons le témoignage humain universel renouvelé, cela vaut la peine après tout
+
+de noter que quelqu’un - et quelqu’un du niveau de Freud - ose l’écrire, l’attestation de ce fait
+...qu’il n’y a rien qui soit en fin de compte, qui représente en fin de compte, pour l’être humain, de plus grande satisfaction que l’orgasme lui-même.
 
 <!-- id: s10-18-0130 -->
 
@@ -783,13 +783,13 @@ S’il y a quelque chose que mes réflexions de la dernière fois, souvenez-vous
 
 <!-- id: s10-18-0153 -->
 
-> à savoir la fonction radicale de mirage, qui est incluse dès le premier fonctionnement de l’œil,
->
-> le fait que l’œil est déjà miroir et implique en quelque sorte, déjà dans sa structure
->
-> le fondement, si l’on peut dire, esthétique transcendantal, d’un espace constitué
-> ...est quelque chose qui doit céder la place à ceci :
-> c’est que, quand nous parlons de cette structure transcendantale de l’espace, comme d’une donnée irréductible de l’appréhension esthétique d’un certain champ du monde, *cette structure n’exclut qu’une chose, celle de la fonction de l’œil lui-même, de ce qu’il est*.
+à savoir la fonction radicale de mirage, qui est incluse dès le premier fonctionnement de l’œil,
+
+le fait que l’œil est déjà miroir et implique en quelque sorte, déjà dans sa structure
+
+le fondement, si l’on peut dire, esthétique transcendantal, d’un espace constitué
+...est quelque chose qui doit céder la place à ceci :
+c’est que, quand nous parlons de cette structure transcendantale de l’espace, comme d’une donnée irréductible de l’appréhension esthétique d’un certain champ du monde, *cette structure n’exclut qu’une chose, celle de la fonction de l’œil lui-même, de ce qu’il est*.
 
 <!-- id: s10-18-0154 -->
 
@@ -806,15 +806,15 @@ Assurément, dès longtemps tout ceux - nommément *les mystiques*...
 
 <!-- id: s10-18-0157 -->
 
-> qui se sont attachés à ce que je pourrais appeler *le réalisme du désir,*
->
-> pour qui toute tentative d’atteindre à l’essentiel s’est indiquée comme surmontant ce quelque chose d’*engluant*
->
-> qu’il y a dans une apparence qui n’est jamais conçue que comme *apparence visuelle*
-> ...*ceux-là nous ont déjà mis sur la voie* de quelque chose dont témoignent aussi bien toutes sortes de phénomènes naturels, à savoir ceci...
-> qui, hors d’un tel registre, reste énigmatique
-> ...à savoir, dis-je, les apparences dites « *mimétiques* » qui se manifestent dans l’échelle ani­male
-> exactement au même niveau, au même point, où apparaît l’œil.
+qui se sont attachés à ce que je pourrais appeler *le réalisme du désir,*
+
+pour qui toute tentative d’atteindre à l’essentiel s’est indiquée comme surmontant ce quelque chose d’*engluant*
+
+qu’il y a dans une apparence qui n’est jamais conçue que comme *apparence visuelle*
+...*ceux-là nous ont déjà mis sur la voie* de quelque chose dont témoignent aussi bien toutes sortes de phénomènes naturels, à savoir ceci...
+qui, hors d’un tel registre, reste énigmatique
+...à savoir, dis-je, les apparences dites « *mimétiques* » qui se manifestent dans l’échelle ani­male
+exactement au même niveau, au même point, où apparaît l’œil.
 
 <!-- id: s10-18-0158 -->
 

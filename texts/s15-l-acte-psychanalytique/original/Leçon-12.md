@@ -26,7 +26,7 @@ De l’une à l’autre il y a la distance, je le dis tout de suite pour éclair
 
 <!-- id: s15-12-0006 -->
 
-> je veux dire en tant qu’elle peut être déterminée par des procédés signifiants …entre ce qu’on appelle *une proposition universelle*, pour s’exprimer avec ARISTOTE, et aussi bien d’ailleurs avec tout ce qui s’est prorogé de logique depuis, et *une proposition particulière*. *Où est donc le mystère si ces signifiants sont équivalents terme à terme* ?
+je veux dire en tant qu’elle peut être déterminée par des procédés signifiants …entre ce qu’on appelle *une proposition universelle*, pour s’exprimer avec ARISTOTE, et aussi bien d’ailleurs avec tout ce qui s’est prorogé de logique depuis, et *une proposition particulière*. *Où est donc le mystère si ces signifiants sont équivalents terme à terme* ?
 
 <!-- id: s15-12-0007 -->
 
@@ -78,11 +78,19 @@ Essayons de partir de quelque chose qui correspond comme sens à la première ph
 
 <!-- id: s15-12-0019 -->
 
-> « *I don’t know everything about pœtry.* » et l’autre phrase :
+<div class="text-quotation">
+
+« *I don’t know everything about pœtry.* » et l’autre phrase :
+
+</div>
 
 <!-- id: s15-12-0020 -->
 
-> « *I don’t know anything about pœtry.* »
+<div class="text-quotation">
+
+« *I don’t know anything about pœtry.* »
+
+</div>
 
 <!-- id: s15-12-0021 -->
 
@@ -118,11 +126,19 @@ Au niveau d’ARISTOTE, tout repose sur ceci, qui est désigné dans quelque cho
 
 <!-- id: s15-12-0029 -->
 
-> « *Tout homme est un animal* » il peut à toutes fins utiles, si ça lui semble pouvoir servir à quelque chose, en extraire :
+<div class="text-quotation">
+
+« *Tout homme est un animal* » il peut à toutes fins utiles, si ça lui semble pouvoir servir à quelque chose, en extraire :
+
+</div>
 
 <!-- id: s15-12-0030 -->
 
-> « *Quelque homme est un animal* ».
+<div class="text-quotation">
+
+« *Quelque homme est un animal* ».
+
+</div>
 
 <!-- id: s15-12-0031 -->
 
@@ -138,11 +154,19 @@ Car après tout, nous pourrions fort bien dès l’abord, et sans nous mettre à
 
 <!-- id: s15-12-0034 -->
 
-> « *Tout homme est un animal* » ou, par exemple :
+<div class="text-quotation">
+
+« *Tout homme est un animal* » ou, par exemple :
+
+</div>
 
 <!-- id: s15-12-0035 -->
 
-> « *Tout homme parle* »
+<div class="text-quotation">
+
+« *Tout homme parle* »
+
+</div>
 
 # La question de savoir si deux *ensembles* *- je vous le répète -* peuvent avoir un élément commun est une question qui est *très sérieusement soulevée* pour autant qu’elle soulève ceci, à savoir ce qu’il en est de l’élément, si l’élément lui-même ne peut être…
 
@@ -158,7 +182,11 @@ Vous savez que la patrie est à la fois la réalité la plus belle, et que bien 
 
 <!-- id: s15-12-0037 -->
 
-> « *Tout français doit mourir pour elle.* »
+<div class="text-quotation">
+
+« *Tout français doit mourir pour elle.* »
+
+</div>
 
 <!-- id: s15-12-0038 -->
 
@@ -166,7 +194,11 @@ Mais c’est à partir du moment où vous *subalternez* pour savoir si :
 
 <!-- id: s15-12-0039 -->
 
-> « *Quelque français doit mourir pour elle* » qu’il me semble que vous devez vous apercevoir que l’opération de subalternation présente quelques difficultés, parce que
+<div class="text-quotation">
+
+« *Quelque français doit mourir pour elle* » qu’il me semble que vous devez vous apercevoir que l’opération de subalternation présente quelques difficultés, parce que
+
+</div>
 
 <!-- id: s15-12-0040 -->
 
@@ -182,7 +214,7 @@ C’est là qu’on s’aperçoit ce que traîne d’ontologie…
 
 <!-- id: s15-12-0043 -->
 
-> c’est-à-dire de quelque chose qui est un peu plus que ce qui était sa visée en faisant *une logique, une logique formelle* …ce que d’ontologie traîne encore la logique.
+c’est-à-dire de quelque chose qui est un peu plus que ce qui était sa visée en faisant *une logique, une logique formelle* …ce que d’ontologie traîne encore la logique.
 
 <!-- id: s15-12-0044 -->
 
@@ -214,9 +246,9 @@ Alors, je passe au niveau de *la logique des quantificateurs* et je me permets, 
 
 <!-- id: s15-12-0051 -->
 
-> naturellement, quand vous ouvrirez des bouquins là-dessus, vous vous y retrouverez avec ce que je vous dis,
->
-> vous pourrez bien sûr voir que ça peut être abordé de mille autres façons, mais l’essentiel, c’est que vous voyiez que c’est ça le fil principal, au moins pour ce qui nous intéresse …que *l’universelle* - du moins *affirmative* - doit s’énoncer ainsi : « *pas d’homme qui ne soit sage* ».
+naturellement, quand vous ouvrirez des bouquins là-dessus, vous vous y retrouverez avec ce que je vous dis,
+
+vous pourrez bien sûr voir que ça peut être abordé de mille autres façons, mais l’essentiel, c’est que vous voyiez que c’est ça le fil principal, au moins pour ce qui nous intéresse …que *l’universelle* - du moins *affirmative* - doit s’énoncer ainsi : « *pas d’homme qui ne soit sage* ».
 
 <!-- id: s15-12-0052 -->
 
@@ -224,7 +256,7 @@ Voilà…
 
 <!-- id: s15-12-0053 -->
 
-> croyez-m’en au moins pour un instant, l’important c’est que vous puissiez suivre le fil pour voir où je veux en venir …qui donne la formule de *l’universelle affirmative* à savoir ce qui, dans ARISTOTE, s’articulerait : « *tout homme est sage* » énoncé rassurant qui, dans l’occasion d’ailleurs, n’a aucune espèce d’importance. Ce qui nous importe, c’est de voir l’avantage que nous pouvons trouver, cet énoncé, à l’articuler autrement. Là, tout de suite, vous pouvez remarquer que cette *universelle affirmative* viendra mettre en jeu, pour se supporter, rien de moins que *deux négations*.
+croyez-m’en au moins pour un instant, l’important c’est que vous puissiez suivre le fil pour voir où je veux en venir …qui donne la formule de *l’universelle affirmative* à savoir ce qui, dans ARISTOTE, s’articulerait : « *tout homme est sage* » énoncé rassurant qui, dans l’occasion d’ailleurs, n’a aucune espèce d’importance. Ce qui nous importe, c’est de voir l’avantage que nous pouvons trouver, cet énoncé, à l’articuler autrement. Là, tout de suite, vous pouvez remarquer que cette *universelle affirmative* viendra mettre en jeu, pour se supporter, rien de moins que *deux négations*.
 
 <!-- id: s15-12-0054 -->
 
@@ -268,7 +300,7 @@ Ceci est fort intéressant parce que, d’abord nous pouvons voir qu’un certai
 
 <!-- id: s15-12-0064 -->
 
-> selon le sens où elle est employée cette *double négation* : soit qu’on l’ajoute, soit qu’on la retire …d’assurer le passage de *l’universel* au *particulier*.
+selon le sens où elle est employée cette *double négation* : soit qu’on l’ajoute, soit qu’on la retire …d’assurer le passage de *l’universel* au *particulier*.
 
 <!-- id: s15-12-0065 -->
 
@@ -280,7 +312,7 @@ Mais continuons à nous intéresser à ce que nous offre comme propriété ce do
 
 <!-- id: s15-12-0067 -->
 
-> parce que c’est juste, parce que c’est à cela que ça répond …l’opération quantificatrice. N’enlevons qu’une négation, la première : « *Il est homme tel qu’il ne soit sage* »
+parce que c’est juste, parce que c’est à cela que ça répond …l’opération quantificatrice. N’enlevons qu’une négation, la première : « *Il est homme tel qu’il ne soit sage* »
 
 <!-- id: s15-12-0068 -->
 
@@ -300,7 +332,7 @@ Seul inconvénient…
 
 <!-- id: s15-12-0072 -->
 
-> on ne sait jamais les fruits que porte ce que vous énoncez comme vérité, surtout première …c’est que ceci a eu pour conséquence que les psychanalystes, à partir de ce moment–là, se sont crus en vacances, si je puis dire, à l’endroit de *la contradiction*, et qu’ils ont cru que du même coup cela leur permettait eux–mêmes de n’en rien connaître, c’est-à-dire de ne s’y intéresser à aucun degré. C’est une conséquence manifestement abusive. Ce n’est pas parce que *l’inconscient*, même si c’était vrai, ne connaîtrait pas la contradiction que *les psychanalystes* n’ont pas à la connaître, ne serait-ce que pour savoir pourquoi il \[l’inconscient\] ne la connaît pas, par exemple !
+on ne sait jamais les fruits que porte ce que vous énoncez comme vérité, surtout première …c’est que ceci a eu pour conséquence que les psychanalystes, à partir de ce moment–là, se sont crus en vacances, si je puis dire, à l’endroit de *la contradiction*, et qu’ils ont cru que du même coup cela leur permettait eux–mêmes de n’en rien connaître, c’est-à-dire de ne s’y intéresser à aucun degré. C’est une conséquence manifestement abusive. Ce n’est pas parce que *l’inconscient*, même si c’était vrai, ne connaîtrait pas la contradiction que *les psychanalystes* n’ont pas à la connaître, ne serait-ce que pour savoir pourquoi il \[l’inconscient\] ne la connaît pas, par exemple !
 
 <!-- id: s15-12-0073 -->
 
@@ -308,7 +340,7 @@ Enfin remarquons que « *contradiction* » mérite un examen plus attentif, que 
 
 <!-- id: s15-12-0074 -->
 
-> à savoir que A ne saurait être non-A du même point de vue et à la même place …et le fait que notre particulière négative ne soit là, « *contradictoire* ». C’est vrai, elle l’est.
+à savoir que A ne saurait être non-A du même point de vue et à la même place …et le fait que notre particulière négative ne soit là, « *contradictoire* ». C’est vrai, elle l’est.
 
 <!-- id: s15-12-0075 -->
 
@@ -316,7 +348,7 @@ Mais vous voyez que dans le biais : « *Il est homme tel qu’il ne soit sage*
 
 <!-- id: s15-12-0076 -->
 
-> au regard de la formule qui nous a servi de point de départ, fondée sur la double négation …je ne la porte qu’à la position d’exception. Bien sûr, l’exception ne confirme pas la règle, contrairement à ce qui se dit couramment et qui arrange tout le monde. Ça la réduit simplement à la valeur de règle sans valeur nécessaire, c’est-à-dire ça la réduit à la valeur de règle, c’est même la définition de la règle.
+au regard de la formule qui nous a servi de point de départ, fondée sur la double négation …je ne la porte qu’à la position d’exception. Bien sûr, l’exception ne confirme pas la règle, contrairement à ce qui se dit couramment et qui arrange tout le monde. Ça la réduit simplement à la valeur de règle sans valeur nécessaire, c’est-à-dire ça la réduit à la valeur de règle, c’est même la définition de la règle.
 
 <!-- id: s15-12-0077 -->
 
@@ -324,11 +356,11 @@ Alors, vous commencez à voir combien les choses peuvent prendre pour nous d’i
 
 <!-- id: s15-12-0078 -->
 
-> c’est pourquoi j’ai fait cette distinction au niveau de la contradiction …« *L’homme est non femme* »…
+c’est pourquoi j’ai fait cette distinction au niveau de la contradiction …« *L’homme est non femme* »…
 
 <!-- id: s15-12-0079 -->
 
-> là bien sûr, on nous dira que l’inconscient ne connaît pas la contradiction …mais ce n’est pas tout à fait pareil de dire :
+là bien sûr, on nous dira que l’inconscient ne connaît pas la contradiction …mais ce n’est pas tout à fait pareil de dire :
 
 <!-- id: s15-12-0080 -->
 
@@ -344,7 +376,7 @@ Ceci peut vous montrer cependant ce qu’il peut y avoir de plus maniable et de 
 
 <!-- id: s15-12-0083 -->
 
-> chose qui mérite bien, avec le temps, de s’appeler *obédience* …obligé d’avoir le regard fixé sur l’horizon du *préverbal*.
+chose qui mérite bien, avec le temps, de s’appeler *obédience* …obligé d’avoir le regard fixé sur l’horizon du *préverbal*.
 
 <!-- id: s15-12-0084 -->
 
@@ -368,7 +400,11 @@ Venons-en au « *pas sage* » et revenons en diagonale à A, *l’universelle af
 
 <!-- id: s15-12-0089 -->
 
-> « *Pas d’homme tel qu’il ne soit pas sage* ».
+<div class="text-quotation">
+
+« *Pas d’homme tel qu’il ne soit pas sage* ».
+
+</div>
 
 <!-- id: s15-12-0090 -->
 
@@ -380,7 +416,7 @@ Qu’est-ce qui a bien pu se produire ? Ce « *pas* », ajouté, qui était parf
 
 <!-- id: s15-12-0092 -->
 
-> qui paraissait tout à fait désignée pour aussi bien le tolérer, ce « *pas* » …voilà qu’elle vire au noir, *et je ne sais pas quelle couleur a « e » dans le sonnet de* RIMBAUD[^95], mais au niveau aristotélicien *il est noir*, c’est *l’universelle négative* : ils sont tous pas sages.
+qui paraissait tout à fait désignée pour aussi bien le tolérer, ce « *pas* » …voilà qu’elle vire au noir, *et je ne sais pas quelle couleur a « e » dans le sonnet de* RIMBAUD[^95], mais au niveau aristotélicien *il est noir*, c’est *l’universelle négative* : ils sont tous pas sages.
 
 <!-- id: s15-12-0093 -->
 
@@ -388,9 +424,9 @@ Je vais tout de suite vous dire l’enseignement que nous allons tirer de cela. 
 
 <!-- id: s15-12-0094 -->
 
-> telle qu’elle existe dans la structure fondamentale de *l’universelle affirmative quantifiée*,
->
-> qui est cette formule : « *Il n’est rien qui ne…* » …a quelque chose qui se suffit en soi-même, et nous en avons *la preuve* dans la libération de ce « *pas* » qui tout d’un coup, inoffensif ailleurs, se trouve ici avoir fait virer une *universelle* dans l’autre.
+telle qu’elle existe dans la structure fondamentale de *l’universelle affirmative quantifiée*,
+
+qui est cette formule : « *Il n’est rien qui ne…* » …a quelque chose qui se suffit en soi-même, et nous en avons *la preuve* dans la libération de ce « *pas* » qui tout d’un coup, inoffensif ailleurs, se trouve ici avoir fait virer une *universelle* dans l’autre.
 
 <!-- id: s15-12-0095 -->
 
@@ -398,7 +434,7 @@ C’est ce qui nous permet d’avancer et d’affirmer que l’opération quanti
 
 <!-- id: s15-12-0096 -->
 
-> à la place où l’οὐσἰα \[ousia\], l’essence, l’ontologique n’est pas éliminé, à la place du sujet grammatical …le sujet qui nous intéresse en tant que sujet divisé, à savoir :
+à la place où l’οὐσἰα \[ousia\], l’essence, l’ontologique n’est pas éliminé, à la place du sujet grammatical …le sujet qui nous intéresse en tant que sujet divisé, à savoir :
 
 <!-- id: s15-12-0097 -->
 
@@ -438,9 +474,9 @@ La transformation qui nous est donnée comme recevable dans *la théorie des qua
 
 <!-- id: s15-12-0106 -->
 
-> ce : étant le symbole qui spécifie pour nous, dans la quantification, l’existence d’un x, d’une valeur
->
-> de x telle qu’elle satisfasse la fonction Fx …et on nous dira que le ; Fx peut être traduit par un <img src="assets/image33.jpeg" style="width:0.38147in;height:0.10672in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S15\42.jpg" />: à savoir qu’il n’existe pas de x qui soit tel qu’il mette la fonction Fx en l’air : <img src="assets/image33.jpeg" style="width:0.38906in;height:0.10884in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S15\42.jpg" />.
+ce : étant le symbole qui spécifie pour nous, dans la quantification, l’existence d’un x, d’une valeur
+
+de x telle qu’elle satisfasse la fonction Fx …et on nous dira que le ; Fx peut être traduit par un <img src="assets/image33.jpeg" style="width:0.38147in;height:0.10672in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S15\42.jpg" />: à savoir qu’il n’existe pas de x qui soit tel qu’il mette la fonction Fx en l’air : <img src="assets/image33.jpeg" style="width:0.38906in;height:0.10884in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S15\42.jpg" />.
 
 <!-- id: s15-12-0107 -->
 
@@ -504,7 +540,7 @@ Si ce sens dans FREUD est si plein, si résonnant par rapport à ce qui est en c
 
 <!-- id: s15-12-0122 -->
 
-> c’est pour ça que ça subsiste malgré l’insensé du discours analytique …c’est un miracle que nous ne pouvons *expliquer qu’indirectement*, à savoir par la formation scientifique de FREUD.
+c’est pour ça que ça subsiste malgré l’insensé du discours analytique …c’est un miracle que nous ne pouvons *expliquer qu’indirectement*, à savoir par la formation scientifique de FREUD.
 
 <!-- id: s15-12-0123 -->
 

@@ -138,9 +138,9 @@ Les deux barres mises sur les symboles qui sont à gauche...
 
 <!-- id: s18-09-0034 -->
 
-> et dont se situe respectivement, au regard de ce dont il s’agit,
->
-> tout ce qui est capable de répondre au *semblant de la jouissance sexuelle* ...les deux barres dites de négation, sont ici telles que justement elles ne sont pas à écrire puisque de ce qui ne peut pas s’écrire on n’écrit pas, tout simplement.
+et dont se situe respectivement, au regard de ce dont il s’agit,
+
+tout ce qui est capable de répondre au *semblant de la jouissance sexuelle* ...les deux barres dites de négation, sont ici telles que justement elles ne sont pas à écrire puisque de ce qui ne peut pas s’écrire on n’écrit pas, tout simplement.
 
 <!-- id: s18-09-0035 -->
 
@@ -158,13 +158,13 @@ On peut *dire* qu’elles ne sont pas à écrire :
 
 <!-- id: s18-09-0038 -->
 
-> Il n’en existe pas, c’est de cela que se formule ce qu’il en est de l’homme, mâle j’entends,
->
-> mais justement ici la négation n’a que la fonction dite de la *Verneinung*,
->
-> c’est-à-dire qu’elle ne se pose qu’à avoir d’abord avancé qu’*il existe quelque homme* \[: !\]
->
-> et que c’est par rapport à « *toute femme* » qu’une femme se situe \[*comme* . !\]. C’est un rappel.
+Il n’en existe pas, c’est de cela que se formule ce qu’il en est de l’homme, mâle j’entends,
+
+mais justement ici la négation n’a que la fonction dite de la *Verneinung*,
+
+c’est-à-dire qu’elle ne se pose qu’à avoir d’abord avancé qu’*il existe quelque homme* \[: !\]
+
+et que c’est par rapport à « *toute femme* » qu’une femme se situe \[*comme* . !\]. C’est un rappel.
 
 <!-- id: s18-09-0039 -->
 
@@ -172,7 +172,7 @@ On peut *dire* qu’elles ne sont pas à écrire :
 
 <!-- id: s18-09-0040 -->
 
-> puisque je vois que c’est assez répandu : vous faites bien en effet de prendre des notes ...c’est le seul intérêt de *l’écrit*, c’est que *par après* vous ayez à vous situer par rapport à lui.
+puisque je vois que c’est assez répandu : vous faites bien en effet de prendre des notes ...c’est le seul intérêt de *l’écrit*, c’est que *par après* vous ayez à vous situer par rapport à lui.
 
 <!-- id: s18-09-0041 -->
 
@@ -216,7 +216,7 @@ Ce serait même de tout repos...
 
 <!-- id: s18-09-0051 -->
 
-> de ce repos dernier au *semblant* de quoi tant de vies s’astreignent ...si je n’étais pas, comme homme, masculin, exposé là sous le vent de la castration. Relisez mon texte !
+de ce repos dernier au *semblant* de quoi tant de vies s’astreignent ...si je n’étais pas, comme homme, masculin, exposé là sous le vent de la castration. Relisez mon texte !
 
 <!-- id: s18-09-0052 -->
 
@@ -236,9 +236,9 @@ Pour la raison que *la jouissance*, « *c’est très peu pour elle* », puisq
 
 <!-- id: s18-09-0056 -->
 
-> dans ce qui pour nous s’amorce par la vertu du coït
->
-> à savoir la sélection des génotypes avec la reproduction du phénotype qui s’ensuit, ...assez intéressé donc pour mériter *ce nom antique de phallus*.
+dans ce qui pour nous s’amorce par la vertu du coït
+
+à savoir la sélection des génotypes avec la reproduction du phénotype qui s’ensuit, ...assez intéressé donc pour mériter *ce nom antique de phallus*.
 
 <!-- id: s18-09-0057 -->
 
@@ -250,7 +250,7 @@ Bien qu’il soit clair que l’héritage qu’il couvre maintenant se réduit �
 
 <!-- id: s18-09-0059 -->
 
-> car c’en est encore un, *le phallus* ...n’est tout à fait stable que sur la carte où il désigne *un désert* [^70]: *c’est les seules choses qui sur la carte ne changent pas de nom*.
+car c’en est encore un, *le phallus* ...n’est tout à fait stable que sur la carte où il désigne *un désert* [^70]: *c’est les seules choses qui sur la carte ne changent pas de nom*.
 
 <!-- id: s18-09-0060 -->
 
@@ -271,7 +271,7 @@ C’est bien pourquoi...
 
 <!-- id: s18-09-0064 -->
 
-> j’ai mes malices, hein ! ...c’est en Allemagne – parce qu’en allemand – que j’ai porté le message à quoi répond dans mes « *Écrits »* ce titre, et ce au nom du centenaire de la naissance de Freud.
+j’ai mes malices, hein ! ...c’est en Allemagne – parce qu’en allemand – que j’ai porté le message à quoi répond dans mes « *Écrits »* ce titre, et ce au nom du centenaire de la naissance de Freud.
 
 <!-- id: s18-09-0065 -->
 
@@ -327,7 +327,7 @@ Cela commence par ma chienne par exemple, celle dont j’ai longtemps parlé, et
 
 <!-- id: s18-09-0078 -->
 
-> comme beaucoup d’autres, d’autres éternités ...duré plus qu’un instant : *ça parle vachement dans la zone de la nouvelle astronomie*, celle qui s’est ouverte tout de suite après ce menu propos de Pascal.
+comme beaucoup d’autres, d’autres éternités ...duré plus qu’un instant : *ça parle vachement dans la zone de la nouvelle astronomie*, celle qui s’est ouverte tout de suite après ce menu propos de Pascal.
 
 <!-- id: s18-09-0079 -->
 
@@ -347,7 +347,7 @@ Or ceci, ceci que je viens de *dire*, ne se signe que dans l’histoire, et à p
 
 <!-- id: s18-09-0083 -->
 
-> depuis ses origines jusqu’à ses derniers protéismes techniques ...*que quelque chose qui s’articule comme os dont le langage serait la chair*.
+depuis ses origines jusqu’à ses derniers protéismes techniques ...*que quelque chose qui s’articule comme os dont le langage serait la chair*.
 
 <!-- id: s18-09-0084 -->
 
@@ -371,7 +371,7 @@ Tel est *l’Autre de* *la jouissance *: à jamais *inter-dit* celui dont le la
 
 <!-- id: s18-09-0089 -->
 
-> pourquoi n’emploierais-je pas cette image ? ...de « *scaphandres* ». \[**(***a***)**\]
+pourquoi n’emploierais-je pas cette image ? ...de « *scaphandres* ». \[**(***a***)**\]
 
 <!-- id: s18-09-0090 -->
 
@@ -399,13 +399,13 @@ Il y a un personnage[^74] dont je ne dirai pas le nom - je ne veux pas faire ici
 
 <!-- id: s18-09-0096 -->
 
-> c’est exactement lui : on se rend bien compte de ce que cela veut dire « *persona* »,
->
-> c’est la personne même, c’est son *masque* qui est là enfermé dans une petite armoire japonaise,
->
-> on le montre aux touristes. On sait que c’est lui, enfin de l’endroit à dix mètres où il se montre,
->
-> cela se trouve dans un endroit qui s’appelle *le Pavillon d’Argent*, à Kyoto ...qui rêvait à la lune.
+c’est exactement lui : on se rend bien compte de ce que cela veut dire « *persona* »,
+
+c’est la personne même, c’est son *masque* qui est là enfermé dans une petite armoire japonaise,
+
+on le montre aux touristes. On sait que c’est lui, enfin de l’endroit à dix mètres où il se montre,
+
+cela se trouve dans un endroit qui s’appelle *le Pavillon d’Argent*, à Kyoto ...qui rêvait à la lune.
 
 <!-- id: s18-09-0097 -->
 
@@ -477,7 +477,7 @@ La notion forgée du terme de « *structuralisme* » tente de prolonger la dé
 
 <!-- id: s18-09-0114 -->
 
-> faite un temps à certains spécialistes, les spécialistes de la vérité ...la délégation d’un certain vide, qui s’aperçoit dans *la raréfaction de la jouissance*.
+faite un temps à certains spécialistes, les spécialistes de la vérité ...la délégation d’un certain vide, qui s’aperçoit dans *la raréfaction de la jouissance*.
 
 <!-- id: s18-09-0115 -->
 
@@ -485,7 +485,7 @@ C’est ce vide qu’avait relevé - sans fard - l’existentialisme, après que
 
 <!-- id: s18-09-0116 -->
 
-> la phénoménologie, hein : bien plus *faux-jeton*... ...eût jeté le gant de ses exercices respiratoires.
+la phénoménologie, hein : bien plus *faux-jeton*... ...eût jeté le gant de ses exercices respiratoires.
 
 <!-- id: s18-09-0117 -->
 
@@ -589,7 +589,7 @@ Ainsi n’est-ce pas là où on le croit, mais en sa structure de sujet que *l�
 
 <!-- id: s18-09-0142 -->
 
-> j’en viens à une partie des gens que je désignai à l’instant ...conjugue la vérité de sa jouissance au savoir implacable qu’elle a : que l’Autre propre à la causer c’est *le phallus,* soit un semblant.
+j’en viens à une partie des gens que je désignai à l’instant ...conjugue la vérité de sa jouissance au savoir implacable qu’elle a : que l’Autre propre à la causer c’est *le phallus,* soit un semblant.
 
 <!-- id: s18-09-0143 -->
 
@@ -646,9 +646,9 @@ Voilà, je n’apporte ici rien d’autre, n’est-ce pas...
 
 <!-- id: s18-09-0156 -->
 
-> c’est l’intérêt de cet *écrit*, c’est qu’il engendre des tas de choses,
->
-> mais il faut bien savoir où sont les points à retenir ...rien d’autre que de marquer que le danger est le même, à ce carrefour, que celui que je viens d’épingler d’en être averti, puisque c’est de là que j’étais parti, tout à l’heure. J’en reviens au même point, hein, je tourne en rond.
+c’est l’intérêt de cet *écrit*, c’est qu’il engendre des tas de choses,
+
+mais il faut bien savoir où sont les points à retenir ...rien d’autre que de marquer que le danger est le même, à ce carrefour, que celui que je viens d’épingler d’en être averti, puisque c’est de là que j’étais parti, tout à l’heure. J’en reviens au même point, hein, je tourne en rond.
 
 <!-- id: s18-09-0157 -->
 
@@ -656,7 +656,7 @@ Voilà, je n’apporte ici rien d’autre, n’est-ce pas...
 
 <!-- id: s18-09-0158 -->
 
-> soit à lui *donner ce qu’on n’a pas* sous prétexte qu’elle le désigne ...*c’est* très précisément *se vouer à un théâtre dont il est clair qu’il ne peut plus être qu’une fête de charité*. **\[53’ 33’’, Seuil p. 154\]**
+soit à lui *donner ce qu’on n’a pas* sous prétexte qu’elle le désigne ...*c’est* très précisément *se vouer à un théâtre dont il est clair qu’il ne peut plus être qu’une fête de charité*. **\[53’ 33’’, Seuil p. 154\]**
 
 <!-- id: s18-09-0159 -->
 
@@ -672,7 +672,7 @@ Cet « *il est clair* » que je viens de dire « *qu’il ne peut plus être*
 
 <!-- id: s18-09-0162 -->
 
-> *l’hystérique* *qualifiée* dont je suis en train, vous le sentez bien, d’approcher *la fonction* pour vous, ...*ça a suffi à ce que l’hystérique renonce à la clinique luxuriante dont elle meublait la béance du rapport sexuel*.
+*l’hystérique* *qualifiée* dont je suis en train, vous le sentez bien, d’approcher *la fonction* pour vous, ...*ça a suffi à ce que l’hystérique renonce à la clinique luxuriante dont elle meublait la béance du rapport sexuel*.
 
 <!-- id: s18-09-0163 -->
 
@@ -692,9 +692,9 @@ C’est bien en effet ce que j’écris et dont il serait facile, à relire Aris
 
 <!-- id: s18-09-0167 -->
 
-> ce qui met plutôt les femmes de son époque en très bon rang,
->
-> à tout le moins elles étaient pour les hommes *stimulantes*, ...déceler quel rapport à la femme identifiée à l’hystérique lui a permis - c’est un saut – d’instaurer sa logique en forme de Παν \[pan : tous\].
+ce qui met plutôt les femmes de son époque en très bon rang,
+
+à tout le moins elles étaient pour les hommes *stimulantes*, ...déceler quel rapport à la femme identifiée à l’hystérique lui a permis - c’est un saut – d’instaurer sa logique en forme de Παν \[pan : tous\].
 
 <!-- id: s18-09-0168 -->
 
@@ -719,7 +719,7 @@ Ce qui préjuge tout à fait du sort à venir de l’humanité.
 
 <!-- id: s18-09-0173 -->
 
-> puisqu’il s’agit là de quelque chose qui s’énonce en extension ...« *tous les hommes*... » en tant que « *tous* » sont destinés à la mort, c’est-à-dire le genre humain à s’éteindre, ce qui est pour le moins hardi.
+puisqu’il s’agit là de quelque chose qui s’énonce en extension ...« *tous les hommes*... » en tant que « *tous* » sont destinés à la mort, c’est-à-dire le genre humain à s’éteindre, ce qui est pour le moins hardi.
 
 <!-- id: s18-09-0174 -->
 
@@ -751,11 +751,11 @@ Il s’agit de savoir
 
 <!-- id: s18-09-0181 -->
 
-> au dire des gens qui dialoguaient dans le *Ménon*...vous vous rappelez le *Ménon : mais non, mais non*... ...comme cette vertu l’était...
+au dire des gens qui dialoguaient dans le *Ménon*...vous vous rappelez le *Ménon : mais non, mais non*... ...comme cette vertu l’était...
 
 <!-- id: s18-09-0182 -->
 
-> c’est ce qui fait le prix, le sens de ce dialogue ...cette vertu était *ce qui ne s’enseigne pas*.
+c’est ce qui fait le prix, le sens de ce dialogue ...cette vertu était *ce qui ne s’enseigne pas*.
 
 <!-- id: s18-09-0183 -->
 
@@ -763,7 +763,7 @@ Il s’agit de savoir
 
 <!-- id: s18-09-0184 -->
 
-> d’« *une femme »* telle que j’en définis là le « *pas* » \[*le* « *pas* » *du* « *<u>pas-tout</u>* » *de Lacan, après le* « <u>*tout*</u> X » *d’Aristote*\] ...*être su dans l’inconscient, soit de façon articulée*.
+d’« *une femme »* telle que j’en définis là le « *pas* » \[*le* « *pas* » *du* « *<u>pas-tout</u>* » *de Lacan, après le* « <u>*tout*</u> X » *d’Aristote*\] ...*être su dans l’inconscient, soit de façon articulée*.
 
 <!-- id: s18-09-0185 -->
 
@@ -771,9 +771,9 @@ Car enfin, là j’arrête. Quelqu’un [^76] qui justement en remet sur le thé
 
 <!-- id: s18-09-0186 -->
 
-> comme si c’était là question digne enfin d’absorber vraiment une grande activité - c’est un livre très bien fait - une grande activité d’analyste,
->
-> comme si c’était là vraiment ce dans quoi un analyste devait se spécialiser. ...quelqu’un me fait mérite, dans une note, d’avoir introduit la distinction entre *vérité* et *savoir* : énorme, énorme !
+comme si c’était là question digne enfin d’absorber vraiment une grande activité - c’est un livre très bien fait - une grande activité d’analyste,
+
+comme si c’était là vraiment ce dans quoi un analyste devait se spécialiser. ...quelqu’un me fait mérite, dans une note, d’avoir introduit la distinction entre *vérité* et *savoir* : énorme, énorme !
 
 <!-- id: s18-09-0187 -->
 
@@ -781,7 +781,7 @@ Je viens de vous parler du *Ménon*...
 
 <!-- id: s18-09-0188 -->
 
-> naturellement il ne l’a pas lu, il ne lit que du théâtre \[André Green\] ...mais enfin le *Ménon,* c’est avec ça que j’ai commencé de franchir les premières phases de la crise qui m’a opposé à un certain appareil analytique.
+naturellement il ne l’a pas lu, il ne lit que du théâtre \[André Green\] ...mais enfin le *Ménon,* c’est avec ça que j’ai commencé de franchir les premières phases de la crise qui m’a opposé à un certain appareil analytique.
 
 <!-- id: s18-09-0189 -->
 
@@ -821,7 +821,7 @@ C’est justement de ce qu’il s’agisse du *désir*, en tant qu’il met l’
 
 <!-- id: s18-09-0198 -->
 
-> de l’inconnue qui est à gauche, celle qui ne se produit que sous le chef d’une *Verneinung* \[. !\], ...c’est justement de ce qu’il met l’accent sur l’invariance de l’inconnue, que *l’évidement du désir par l’analyse ne saurait l’inscrire dans aucune fonction de variable*.
+de l’inconnue qui est à gauche, celle qui ne se produit que sous le chef d’une *Verneinung* \[. !\], ...c’est justement de ce qu’il met l’accent sur l’invariance de l’inconnue, que *l’évidement du désir par l’analyse ne saurait l’inscrire dans aucune fonction de variable*.
 
 <!-- id: s18-09-0199 -->
 
@@ -893,9 +893,9 @@ C’est bien en quoi l’*Œdipe* sophocléen...
 
 <!-- id: s18-09-0216 -->
 
-> qui n’a ce privilège pour nous
->
-> que de ce que les autres *Œdipe* soient incomplets et le plus souvent perdus ...est encore beaucoup trop riche et trop diffus pour nos besoins d’articulation.
+qui n’a ce privilège pour nous
+
+que de ce que les autres *Œdipe* soient incomplets et le plus souvent perdus ...est encore beaucoup trop riche et trop diffus pour nos besoins d’articulation.
 
 <!-- id: s18-09-0217 -->
 
@@ -951,7 +951,7 @@ Il me semble impossible...
 
 <!-- id: s18-09-0230 -->
 
-> ce n’est pas vain que je bute dès l’entrée sur ce mot ...de ne pas saisir la schize qui sépare *le mythe d’Œdipe* de « *Totem et tabou »*.
+ce n’est pas vain que je bute dès l’entrée sur ce mot ...de ne pas saisir la schize qui sépare *le mythe d’Œdipe* de « *Totem et tabou »*.
 
 <!-- id: s18-09-0231 -->
 
@@ -1003,7 +1003,7 @@ Mais si c’est ainsi que se fait, à entendre Freud, l’origine de la Loi, ce 
 
 <!-- id: s18-09-0243 -->
 
-> c’est une remarque, n’est-ce pas ...mise à part une certaine « *[loi de Manou](http://fr.wikipedia.org/wiki/Lois_de_Manu)* » qui la punit de castration réelle : « *il s’en ira vers l’ouest avec ses couilles à la main* », tout ça, bon, cette loi de l’inceste maternel est plutôt élidée partout.
+c’est une remarque, n’est-ce pas ...mise à part une certaine « *[loi de Manou](http://fr.wikipedia.org/wiki/Lois_de_Manu)* » qui la punit de castration réelle : « *il s’en ira vers l’ouest avec ses couilles à la main* », tout ça, bon, cette loi de l’inceste maternel est plutôt élidée partout.
 
 <!-- id: s18-09-0244 -->
 
@@ -1063,7 +1063,7 @@ Dois-je souligner que la fonction-clé du mythe s’oppose dans les deux, strict
 
 <!-- id: s18-09-0258 -->
 
-> qui s’est transcendée comme telle dans cette *communion*.
+qui s’est transcendée comme telle dans cette *communion*.
 
 <!-- id: s18-09-0259 -->
 

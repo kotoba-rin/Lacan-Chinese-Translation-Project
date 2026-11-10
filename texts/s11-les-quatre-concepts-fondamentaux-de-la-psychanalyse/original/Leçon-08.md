@@ -199,17 +199,17 @@ Je vais vous raconter un petit apologue, une petite histoire, elle est vraie. El
 
 <!-- id: s11-08-0037 -->
 
-> à ce moment-là, notre Bretagne n’était pas encore au stade de la grande industrie, ni du chalutier, le pêcheur pêchait dans sa coquille de noix, et à ses risques et périls, c’est ces risques et périls que j’aimais partager, mais ce n’était pas
->
-> tout le temps risques ni périls, il y avait aussi des jours de beau temps
-> …et un jour que nous attendions le moment de retirer les filets, le nommé Petit-Jean, nous l’appellerons ainsi…
+à ce moment-là, notre Bretagne n’était pas encore au stade de la grande industrie, ni du chalutier, le pêcheur pêchait dans sa coquille de noix, et à ses risques et périls, c’est ces risques et périls que j’aimais partager, mais ce n’était pas
+
+tout le temps risques ni périls, il y avait aussi des jours de beau temps
+…et un jour que nous attendions le moment de retirer les filets, le nommé Petit-Jean, nous l’appellerons ainsi…
 
 <!-- id: s11-08-0038 -->
 
-> il est comme toute sa famille disparu très promptement du fait de la tuberculose qui était
->
-> à ce moment-là la maladie vraiment ambiante, dans laquelle toute cette couche sociale se déplaçait
-> …me montre *ce quelque chose qui flottait* à la surface des vagues : *c’était une petite boîte,* et même précisons : *une boîte à sardines*.
+il est comme toute sa famille disparu très promptement du fait de la tuberculose qui était
+
+à ce moment-là la maladie vraiment ambiante, dans laquelle toute cette couche sociale se déplaçait
+…me montre *ce quelque chose qui flottait* à la surface des vagues : *c’était une petite boîte,* et même précisons : *une boîte à sardines*.
 
 <!-- id: s11-08-0039 -->
 
@@ -223,15 +223,12 @@ et ce n’est point là métaphore.
 <!-- id: s11-08-0040 -->
 
 La portée de cette petite histoire, telle qu’el­le venait de surgir dans l’invention de mon partenaire, le fait qu’il la trouvât si drôle
-et que moi, moins, tient au fait que si on me regarde, si on me raconte une histoire comme celle vous donnant là l’exemple premier
-de ce que j’in­diquais tout à l’heure, devant être essentiellement ce fonctionnement d’entrelacs, d’entrecroisement, de *chiasma*,
-qui est celui auquel, ou dans lequel, nous devons nous déplacer dans tout ce domaine.
+et que moi, moins, tient à ce que, si on me raconte une histoire comme celle-là, c’est tout de même parce que moi, à ce moment-là,
+tel que je me suis dépeint, avec ces types qui gagnaient péniblement leur existence dans l’étreinte avec ce qui était pour eux la rude nature,
 
 <!-- id: s11-08-0041 -->
 
-Là, c’est tout de même dans la mesure où moi, à ce moment vous donnant là l’exemple premier de ce que j’in­diquais tout à l’heure, devant être essentiellement ce fonctionnement d’entrelacs, d’entrecroisement, de *chiasma*, qui est celui auquel, ou dans lequel,
-nous devons nous déplacer dans tout ce domaine - là, tel que je me suis dépeint, avec ces types qui gagnaient là péniblement
-leur existence à *cette étreinte avec ce qui était, pour eux, la rude nature,* moi *je faisais tableau* d’une façon assez inénarrable.
+*je faisais tableau* d’une façon assez inénarrable. Pour tout dire, je faisais tant soit peu *tache dans le tableau*.
 
 <!-- id: s11-08-0042 -->
 
@@ -507,7 +504,11 @@ dans une dialectique semblable. Eh bien, dès le premier abord, nous voyons dans
 
 <!-- id: s11-08-0094 -->
 
-> « *Jamais tu ne me regardes, là où je te vois* ».
+<div class="text-quotation">
+
+« *Jamais tu ne me regardes, là où je te vois* ».
+
+</div>
 
 <!-- id: s11-08-0095 -->
 
@@ -533,7 +534,11 @@ Quand dans l’apologue antique, concernant [ZEUXIS](http://fr.wikipedia.org/wik
 
 <!-- id: s11-08-0100 -->
 
-> « *Alors et maintenant, montre-nous - toi - ce que tu as fait derrière ça.*[^51] »
+<div class="text-quotation">
+
+« *Alors et maintenant, montre-nous - toi - ce que tu as fait derrière ça.*[^51] »
+
+</div>
 
 <!-- id: s11-08-0101 -->
 

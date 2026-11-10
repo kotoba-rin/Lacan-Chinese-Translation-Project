@@ -90,7 +90,7 @@ Plus exactement il n’est circulaire qu’à 3. À 3, à condition de faire pas
 
 <!-- id: s25-06-0022 -->
 
-> I II III Ιl est tout à fait clair qu’à ce nœud borroméen, on ne s’est pas encore habitué. Pourquoi diable l’ai-je introduit ?
+I II III Ιl est tout à fait clair qu’à ce nœud borroméen, on ne s’est pas encore habitué. Pourquoi diable l’ai-je introduit ?
 
 <!-- id: s25-06-0023 -->
 

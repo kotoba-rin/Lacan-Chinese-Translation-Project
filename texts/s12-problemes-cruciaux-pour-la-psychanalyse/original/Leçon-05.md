@@ -22,7 +22,7 @@ Mais aussi bien, s’il est des points de cette assemblée où je sais fort bien
 
 <!-- id: s12-05-0005 -->
 
-> *toute une part de ces visages que je vois et revois au point, à la fin de les repérer, de les reconnaître* …dont j’ai pu m’interroger sur ce qui motivait ici leur présence.
+*toute une part de ces visages que je vois et revois au point, à la fin de les repérer, de les reconnaître* …dont j’ai pu m’interroger sur ce qui motivait ici leur présence.
 
 <!-- id: s12-05-0006 -->
 
@@ -34,7 +34,7 @@ C’est à cette occasion, qu’ayant prié qu’*on me demande* cette entrée q
 
 <!-- id: s12-05-0008 -->
 
-> je suis capable, à bien des sortes d’échos d’imaginer ce que peuvent recueillir tant d’oreilles tendues à suivre mon discours …mais de recueillir de leur bouche le témoignage de ce que chacun et chacune de cette part de mon auditoire semble chercher effectivement dans ce qu’ils viennent ici entendre.
+je suis capable, à bien des sortes d’échos d’imaginer ce que peuvent recueillir tant d’oreilles tendues à suivre mon discours …mais de recueillir de leur bouche le témoignage de ce que chacun et chacune de cette part de mon auditoire semble chercher effectivement dans ce qu’ils viennent ici entendre.
 
 <!-- id: s12-05-0009 -->
 
@@ -54,13 +54,13 @@ Par exemple, la dernière fois, ces recherches sur *le nom propre*, où le flott
 
 <!-- id: s12-05-0013 -->
 
-> quand nous abordons un point de cohérence, de cohérence interne, de cohérence que je pourrai dire globale
->
-> de toute notre expérience comme celui que j’ai avancé la dernière fois sous le titre d’identification …qui nous donne le témoignage qu’à propos du *nom propre*, non seulement des *linguistes* mais des *logiciens* voire…
+quand nous abordons un point de cohérence, de cohérence interne, de cohérence que je pourrai dire globale
+
+de toute notre expérience comme celui que j’ai avancé la dernière fois sous le titre d’identification …qui nous donne le témoignage qu’à propos du *nom propre*, non seulement des *linguistes* mais des *logiciens* voire…
 
 <!-- id: s12-05-0014 -->
 
-> disons le mot, il n’est point immérité à être prononcé quand il s’agit de Bertrand RUSSELL …des penseurs hésitent, dérapent, voire font erreur, quand ils abordent ce point de l’identification à propos de l’usage privilégié qu’aurait *le nom propre* comme désignant le moyen élu de l’indication du repérage du particulier pris comme tel.
+disons le mot, il n’est point immérité à être prononcé quand il s’agit de Bertrand RUSSELL …des penseurs hésitent, dérapent, voire font erreur, quand ils abordent ce point de l’identification à propos de l’usage privilégié qu’aurait *le nom propre* comme désignant le moyen élu de l’indication du repérage du particulier pris comme tel.
 
 <!-- id: s12-05-0015 -->
 
@@ -140,9 +140,9 @@ Si d’autre part dans le discours, dans le discours hégélien par exemple…
 
 <!-- id: s12-05-0034 -->
 
-> et cet admirable prologue à la *Phénoménologie* \[*de l’esprit*\] que HEIDEGGER isole dans les *Holzwege* [^38] pour en faire un long commentaire, mais qui à lui tout seul, en deux ou trois pages vraiment admirables, increvables, sensationnelles,
->
-> et qui, presque à elles toutes seules, pourraient suffire à nous donner l’essence du sens de la phénoménologie …nous voyons quelque part désigné *ce point de retournement de la conscience* comme le point seul nécessaire où peut s’achever la boucle.
+et cet admirable prologue à la *Phénoménologie* \[*de l’esprit*\] que HEIDEGGER isole dans les *Holzwege* [^38] pour en faire un long commentaire, mais qui à lui tout seul, en deux ou trois pages vraiment admirables, increvables, sensationnelles,
+
+et qui, presque à elles toutes seules, pourraient suffire à nous donner l’essence du sens de la phénoménologie …nous voyons quelque part désigné *ce point de retournement de la conscience* comme le point seul nécessaire où peut s’achever la boucle.
 
 <!-- id: s12-05-0035 -->
 
@@ -166,9 +166,9 @@ Et sans doute n’en est-ce pas là la raison, *mais si j’avais*, à quelqu’
 
 <!-- id: s12-05-0040 -->
 
-> il s’agirait, je suppose de quelqu’un qui nous viendrait de la science
->
-> qui pourrait prétendre à monopoliser le titre d’objective, du fait d’être la science de laboratoire …je dirais : quoi d’étonnant à ce que nous soyons habitués ici à parler comme d’une surface de ce dont il s’agit ?
+il s’agirait, je suppose de quelqu’un qui nous viendrait de la science
+
+qui pourrait prétendre à monopoliser le titre d’objective, du fait d’être la science de laboratoire …je dirais : quoi d’étonnant à ce que nous soyons habitués ici à parler comme d’une surface de ce dont il s’agit ?
 
 <!-- id: s12-05-0041 -->
 
@@ -208,7 +208,7 @@ Et à qui m’opposera que l’architecture c’est autre chose, je répondrai�
 
 <!-- id: s12-05-0050 -->
 
-> avec un architecte spécialement, et avec d’autres avec qui j’ai pu converser depuis …que l’architecture se définit bien plutôt comme un vide que des plans, que des surfaces entourent : que c’est cela qui est, au moins sur le plan de ce qu’elle nous pose comme problème de réalisation subjective, son essence et son essentielle structure.
+avec un architecte spécialement, et avec d’autres avec qui j’ai pu converser depuis …que l’architecture se définit bien plutôt comme un vide que des plans, que des surfaces entourent : que c’est cela qui est, au moins sur le plan de ce qu’elle nous pose comme problème de réalisation subjective, son essence et son essentielle structure.
 
 <!-- id: s12-05-0051 -->
 
@@ -216,9 +216,9 @@ Et à qui m’opposera que l’architecture c’est autre chose, je répondrai�
 
 <!-- id: s12-05-0052 -->
 
-> si nous sommes moins sûrs que lui de l’absence de commune trame entre la *res cogitans* et la *res extensa*,
->
-> si nous pensons que la *res cogitans* pour nous, ne nous livre qu’un sujet divisé *de se déposer* sous le coup des effets du langage …si déjà dans cette schize, dans cette division, nous ne sommes point appelés à faire intervenir un schéma qui n’est pas d’« *étendue* » mais qui en est parent à proprement parler : *le schéma topologique*.
+si nous sommes moins sûrs que lui de l’absence de commune trame entre la *res cogitans* et la *res extensa*,
+
+si nous pensons que la *res cogitans* pour nous, ne nous livre qu’un sujet divisé *de se déposer* sous le coup des effets du langage …si déjà dans cette schize, dans cette division, nous ne sommes point appelés à faire intervenir un schéma qui n’est pas d’« *étendue* » mais qui en est parent à proprement parler : *le schéma topologique*.
 
 <!-- id: s12-05-0053 -->
 
@@ -246,7 +246,7 @@ Dans toute *identification* il y a ce que j’ai appelé : *l’instant de voir
 
 <!-- id: s12-05-0059 -->
 
-> pour autant que reste irréductible à *cette forme* substantielle de la surface dans cet aspect d’enveloppe où elle se présente …*ceci que les mains peuvent la saisir* et que c’est là sa forme d’appréhension la plus adéquate, qu’il ne suffit pas de croire qu’elle est là grossièrement *imaginaire* et d’aucune façon réductible au tangible.
+pour autant que reste irréductible à *cette forme* substantielle de la surface dans cet aspect d’enveloppe où elle se présente …*ceci que les mains peuvent la saisir* et que c’est là sa forme d’appréhension la plus adéquate, qu’il ne suffit pas de croire qu’elle est là grossièrement *imaginaire* et d’aucune façon réductible au tangible.
 
 <!-- id: s12-05-0060 -->
 
@@ -290,7 +290,7 @@ Si une fois de plus, j’en dessine pour vous ce que, bien sûr, il est tout à 
 
 <!-- id: s12-05-0070 -->
 
-> puisque, à la vérité ces contours n’ont absolument rien de ce que je vous ai déjà présenté de deux manières, dont l’aspect l’un à l’autre est franchement étranger jusque dans l’utilisation qu’on peut faire de tel ou tel de ses *recessus* …suivant la formule, la forme la plus simple est non pas *un contour*, mais ce qui associe deux surfaces \[*de Mœbius*\] :
+puisque, à la vérité ces contours n’ont absolument rien de ce que je vous ai déjà présenté de deux manières, dont l’aspect l’un à l’autre est franchement étranger jusque dans l’utilisation qu’on peut faire de tel ou tel de ses *recessus* …suivant la formule, la forme la plus simple est non pas *un contour*, mais ce qui associe deux surfaces \[*de Mœbius*\] :
 
 <!-- id: s12-05-0071 -->
 
@@ -306,13 +306,13 @@ Or sur cette surface, nous allons…
 
 <!-- id: s12-05-0074 -->
 
-> non pas parce que c’est un jeu mais parce que c’est un support, qui sera essentiel pour nous,
->
-> à repérer des temps majeurs de l’expérience …nous allons marquer et définir que si cette forme est une de celles dans lesquelles nous pouvons donner le support le plus adéquat *à ce qui est*…
+non pas parce que c’est un jeu mais parce que c’est un support, qui sera essentiel pour nous,
+
+à repérer des temps majeurs de l’expérience …nous allons marquer et définir que si cette forme est une de celles dans lesquelles nous pouvons donner le support le plus adéquat *à ce qui est*…
 
 <!-- id: s12-05-0075 -->
 
-> au point où je vous ai toujours articulé les choses pour pouvoir le faire entendre sans prêter à malentendu …*à ce qui est « sous » la structure du langage : non pas substance, non pas* ὑποχείμενον \[upokeimenon\], *mais « sous » en tant que je dis que le sujet c’est ce que le signifiant, comme tel, représente auprès d’un autre signifiant, ceci qui est sous la trame du signifiant*.
+au point où je vous ai toujours articulé les choses pour pouvoir le faire entendre sans prêter à malentendu …*à ce qui est « sous » la structure du langage : non pas substance, non pas* ὑποχείμενον \[upokeimenon\], *mais « sous » en tant que je dis que le sujet c’est ce que le signifiant, comme tel, représente auprès d’un autre signifiant, ceci qui est sous la trame du signifiant*.
 
 <!-- id: s12-05-0076 -->
 
@@ -344,7 +344,7 @@ Nous arrivions à ceci : que *la demande* comme telle…
 
 <!-- id: s12-05-0083 -->
 
-> si ce que j’appelle *demande* c’est ce mouvement circulaire qui tend à être à soi–même parallèle, et toujours répétée …que *la demande* pour autant qu’elle n’est point essentiellement à réduire à *la demande de satisfaction du besoin* d’où *une psychologie empirique* tendra à la faire partir, mais où elle est essentiellement ce en quoi le discours s’inscrit au lieu de l’Autre : tout ce qui se dit, en tant qu’il se dit au lieu de l’Autre, est une *demande*, même si elle est, pour la conscience du sujet, à soi-même cachée, et de cette face de *demande* et de ce qui en dépend, à savoir essentiellement d’ores et déjà la schize causée par la demande dans le sujet, dépend la fonction de ce que j’ai inscrit *dans le coin droit de mon graphe* sous la formule S◊D sur laquelle nous aurons peut-être, d’ici la fin de mon discours d’aujourd’hui, l’occasion de revenir.
+si ce que j’appelle *demande* c’est ce mouvement circulaire qui tend à être à soi–même parallèle, et toujours répétée …que *la demande* pour autant qu’elle n’est point essentiellement à réduire à *la demande de satisfaction du besoin* d’où *une psychologie empirique* tendra à la faire partir, mais où elle est essentiellement ce en quoi le discours s’inscrit au lieu de l’Autre : tout ce qui se dit, en tant qu’il se dit au lieu de l’Autre, est une *demande*, même si elle est, pour la conscience du sujet, à soi-même cachée, et de cette face de *demande* et de ce qui en dépend, à savoir essentiellement d’ores et déjà la schize causée par la demande dans le sujet, dépend la fonction de ce que j’ai inscrit *dans le coin droit de mon graphe* sous la formule S◊D sur laquelle nous aurons peut-être, d’ici la fin de mon discours d’aujourd’hui, l’occasion de revenir.
 
 <!-- id: s12-05-0084 -->
 
@@ -454,7 +454,7 @@ Ceci est quelque chose d’absolument essentiel à définir, parce que c’est �
 
 <!-- id: s12-05-0110 -->
 
-> et celui que je vise aujourd’hui, à savoir celui de l’identification …c’est en tant que pareil *schéma* nous le permet que nous pouvons essayer d’aborder dans toute sa généralité, d’une façon différente, de la façon dont elle se formule pour l’instant dans *la théorie analytique*, à savoir une façon extrêmement insatisfaisante pour tout lecteur capable simplement d’un peu d’audition et d’un peu de ton, d’une façon extrêmement différente, dis-je, ce qui a rapport à ce que j’appellerai « *l’inconscient structural* ».
+et celui que je vise aujourd’hui, à savoir celui de l’identification …c’est en tant que pareil *schéma* nous le permet que nous pouvons essayer d’aborder dans toute sa généralité, d’une façon différente, de la façon dont elle se formule pour l’instant dans *la théorie analytique*, à savoir une façon extrêmement insatisfaisante pour tout lecteur capable simplement d’un peu d’audition et d’un peu de ton, d’une façon extrêmement différente, dis-je, ce qui a rapport à ce que j’appellerai « *l’inconscient structural* ».
 
 <!-- id: s12-05-0111 -->
 
@@ -482,9 +482,9 @@ Car bien sûr, là nous saisissons la divergence, l’ambiguïté, les deux part
 
 <!-- id: s12-05-0117 -->
 
-> je dois dire à la surprise, car c’est ça qui les surprend le plus, surtout à une époque
->
-> où ils n’avaient d’autre recours que d’y voir la contingence de traces mnésiques …il y a les cas qui opèrent essentiellement, non sur le *meaning*, non sur la signification, mais sur quelque chose que provisoirement, j’appelle autre, et dont je peux me contenter de vous dire qu’il est autre, et dont je pense tout de même avoir dit assez devant vous pour qu’en l’appelant « *non-sens* » - ce qui ne veut dire *ni absurde ni insensé*, je pense déjà vous l’avoir fait suffisamment entrevoir \- « *non-sens* » dans ce qui est le plus justement… ce qu’il y a de plus *positif*, de plus *unitaire*, de plus *nodal*, dans l’effet de sens, à savoir dans quelque chose qui s’incarne au maximum dans *ces effets d’oubli des noms propres,* *si riches*, *si éclairants* au niveau du texte de FREUD et du texte de *ceux*… *les premiers à l’avoir entendu*. C’est là donc que nous trouvons le champ de *la première découverte analytique*.
+je dois dire à la surprise, car c’est ça qui les surprend le plus, surtout à une époque
+
+où ils n’avaient d’autre recours que d’y voir la contingence de traces mnésiques …il y a les cas qui opèrent essentiellement, non sur le *meaning*, non sur la signification, mais sur quelque chose que provisoirement, j’appelle autre, et dont je peux me contenter de vous dire qu’il est autre, et dont je pense tout de même avoir dit assez devant vous pour qu’en l’appelant « *non-sens* » - ce qui ne veut dire *ni absurde ni insensé*, je pense déjà vous l’avoir fait suffisamment entrevoir \- « *non-sens* » dans ce qui est le plus justement… ce qu’il y a de plus *positif*, de plus *unitaire*, de plus *nodal*, dans l’effet de sens, à savoir dans quelque chose qui s’incarne au maximum dans *ces effets d’oubli des noms propres,* *si riches*, *si éclairants* au niveau du texte de FREUD et du texte de *ceux*… *les premiers à l’avoir entendu*. C’est là donc que nous trouvons le champ de *la première découverte analytique*.
 
 <!-- id: s12-05-0118 -->
 
@@ -528,17 +528,17 @@ Il est vraiment dérisoire, et c’est là un point sur lequel justement j’aim
 
 <!-- id: s12-05-0128 -->
 
-> puisque je ne peux tout de même pas - dans la position où je suis… je veux dire avec tout ce que j’ai à parcourir comme chemin cette année - *m’engager dans ce que j’appellerai par exemple, la critique du livre de Bertrand* RUSSELL *Signification et vérité* …j’aimerais que quelqu’un y ayant plongé le nez - c’est un livre fascinant…
+puisque je ne peux tout de même pas - dans la position où je suis… je veux dire avec tout ce que j’ai à parcourir comme chemin cette année - *m’engager dans ce que j’appellerai par exemple, la critique du livre de Bertrand* RUSSELL *Signification et vérité* …j’aimerais que quelqu’un y ayant plongé le nez - c’est un livre fascinant…
 
 <!-- id: s12-05-0129 -->
 
-> et d’ailleurs *c’est un d’entre vous qui m’en a apporté le texte*, actuellement difficile à trouver, tout au moins le texte en français …ce texte fascinant où vous verrez que tout l’édifice du langage…
+et d’ailleurs *c’est un d’entre vous qui m’en a apporté le texte*, actuellement difficile à trouver, tout au moins le texte en français …ce texte fascinant où vous verrez que tout l’édifice du langage…
 
 <!-- id: s12-05-0130 -->
 
-> une construction entièrement arbitraire - encore qu’extraordinairement séduisante
->
-> par tout ce qu’elle permet d’apercevoir, dans les impasses où elle nous pousse …que cette construction du langage comme fait en quelque sorte d’une superposition, d’un édifice en nombre indéterminé de successifs métalangages s’incluant et se coiffant les uns les autres. Ce qui *nécessite à la base un langage* qui serait en quelque sorte *primaire* et qu’il vient à appeler *langage-objet*, dont je défie quiconque de donner un seul exemple.
+une construction entièrement arbitraire - encore qu’extraordinairement séduisante
+
+par tout ce qu’elle permet d’apercevoir, dans les impasses où elle nous pousse …que cette construction du langage comme fait en quelque sorte d’une superposition, d’un édifice en nombre indéterminé de successifs métalangages s’incluant et se coiffant les uns les autres. Ce qui *nécessite à la base un langage* qui serait en quelque sorte *primaire* et qu’il vient à appeler *langage-objet*, dont je défie quiconque de donner un seul exemple.
 
 <!-- id: s12-05-0131 -->
 
@@ -546,7 +546,7 @@ Tout ceci étant supporté d’*une note* qui…
 
 <!-- id: s12-05-0132 -->
 
-> Comme souvent dans des textes comme ceux-là, n’est pas moins importante que le texte et l’est peut-être même plus …qui dit que cette conception du langage comme devant être nécessairement commandée par la théorie qui s’appelle « *la théorie des types* », à savoir du niveau d’affirmation de la vérité :
+Comme souvent dans des textes comme ceux-là, n’est pas moins importante que le texte et l’est peut-être même plus …qui dit que cette conception du langage comme devant être nécessairement commandée par la théorie qui s’appelle « *la théorie des types* », à savoir du niveau d’affirmation de la vérité :
 
 <!-- id: s12-05-0133 -->
 
@@ -558,7 +558,11 @@ Tout ceci étant supporté d’*une note* qui…
 
 <!-- id: s12-05-0135 -->
 
-> « *J’ai dit que*… *ceci est vert* - métalangage déjà qui commence à ce moment-là - *mais je n’aurais pas dû le dire.* »
+<div class="text-quotation">
+
+« *J’ai dit que*… *ceci est vert* - métalangage déjà qui commence à ce moment-là - *mais je n’aurais pas dû le dire.* »
+
+</div>
 
 <!-- id: s12-05-0136 -->
 
@@ -598,9 +602,9 @@ Il s’agit de ceci, qui se dessine de la façon la plus claire à travers…
 
 <!-- id: s12-05-0145 -->
 
-> je vous prie de vous y reporter, après tout, pourquoi ferais-je ici,
->
-> comme après l’avoir fait pendant des années, une pure et simple *lecture commentée* …des textes de FREUD.
+je vous prie de vous y reporter, après tout, pourquoi ferais-je ici,
+
+comme après l’avoir fait pendant des années, une pure et simple *lecture commentée* …des textes de FREUD.
 
 <!-- id: s12-05-0146 -->
 
@@ -616,9 +620,9 @@ Intéressé non point dans son organe, ni simplement comme délimitation…
 
 <!-- id: s12-05-0149 -->
 
-> qui d’ailleurs, disant cela, ne dit pas simplement ce que je désire écarter,
->
-> et ce que FREUD écarte dès le départ, car c’est la condition même de son débat …d’*un trébuchement de parole* dans le sens où ce serait une paraphasie au sens purement moteur du terme, où c’est *un trébuchement* *de parole* qui est *un trébuchement de langage*.
+qui d’ailleurs, disant cela, ne dit pas simplement ce que je désire écarter,
+
+et ce que FREUD écarte dès le départ, car c’est la condition même de son débat …d’*un trébuchement de parole* dans le sens où ce serait une paraphasie au sens purement moteur du terme, où c’est *un trébuchement* *de parole* qui est *un trébuchement de langage*.
 
 <!-- id: s12-05-0150 -->
 
@@ -654,7 +658,7 @@ Or, la façon dont nous avons à définir *topologiquement* ce dont il s’agit 
 
 <!-- id: s12-05-0158 -->
 
-> mais non pas de tel ou tel désir qui n’est que dérobement, métonymie, métabolisme voire défense comme c’en est la figure la plus commune quand il s’agit de repérer ce désir où l’analyse doit trouver son terme et surtout son axe, si, comme à la fin de l’année dernière nous l’avons avancé, *c’est le désir de l’analyste, comme tel, qui est l’axe de l’analyse* \[Cf. *Les fondements*... 24-06\] …ce désir, nous devons savoir topologiquement le définir en relation avec cette passe, ce phénomène, qui lui est assurément lié d’une certaine façon, que là nous ne commençons qu’à appréhender, qu’à déchiffrer, qu’à approcher, à savoir *l’identification*.
+mais non pas de tel ou tel désir qui n’est que dérobement, métonymie, métabolisme voire défense comme c’en est la figure la plus commune quand il s’agit de repérer ce désir où l’analyse doit trouver son terme et surtout son axe, si, comme à la fin de l’année dernière nous l’avons avancé, *c’est le désir de l’analyste, comme tel, qui est l’axe de l’analyse* \[Cf. *Les fondements*... 24-06\] …ce désir, nous devons savoir topologiquement le définir en relation avec cette passe, ce phénomène, qui lui est assurément lié d’une certaine façon, que là nous ne commençons qu’à appréhender, qu’à déchiffrer, qu’à approcher, à savoir *l’identification*.
 
 <!-- id: s12-05-0159 -->
 

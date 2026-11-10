@@ -14,7 +14,7 @@ Quelqu’un ici, peut-être se souvient de ce que j’ai parlé d’une langue o
 
 <!-- id: s20-11-0003 -->
 
-> si j’en crois ce qu’on me rapporte de sa forme ...où l’on dirait *« j’aime à vous ».*
+si j’en crois ce qu’on me rapporte de sa forme ...où l’on dirait *« j’aime à vous ».*
 
 <!-- id: s20-11-0004 -->
 
@@ -70,7 +70,7 @@ Je vous annonce déjà que, si surprenant que cela puisse vous paraître d’abo
 
 <!-- id: s20-11-0017 -->
 
-> *Discours scientifique Discours analytique*
+*Discours scientifique Discours analytique*
 
 <!-- id: s20-11-0018 -->
 
@@ -86,15 +86,15 @@ Je vous annonce déjà que, si surprenant que cela puisse vous paraître d’abo
 
 <!-- id: s20-11-0021 -->
 
-> je commence par les formules difficiles... que je suppose devoir être telles, ...*l’inconscient*...
+je commence par les formules difficiles... que je suppose devoir être telles, ...*l’inconscient*...
 
 <!-- id: s20-11-0022 -->
 
-> tout ce que, aujourd’hui, je développerai à vous le rendre plus accessible, mais je donne ici mes formules, ...*l’inconscient* ce n’est pas que « l’être pense »... comme l’implique pourtant ce qu’on en dit, ceci dans la science traditionnelle ...*l’inconscient c’est*...
+tout ce que, aujourd’hui, je développerai à vous le rendre plus accessible, mais je donne ici mes formules, ...*l’inconscient* ce n’est pas que « l’être pense »... comme l’implique pourtant ce qu’on en dit, ceci dans la science traditionnelle ...*l’inconscient c’est*...
 
 <!-- id: s20-11-0023 -->
 
-> après avoir dit ce que ça n’est pas, je dis ce que c’est ...*c’est que l’être en parlant* - quand c’est un être qui parle - *c’est que l’être en parlant jouisse*, et j’ajoute : *ne veuille rien... rien en savoir de plus.* J’ajoute que cela veut dire : *ne rien savoir du tout*. \[*discours* : (*Semblant*) *<sub>→</sub>* (*Jouissance*)*<sub>→</sub>* ↓(*Plus-de-jouir*) ◊ S<sub>2 </sub>(*Vérité*)\]
+après avoir dit ce que ça n’est pas, je dis ce que c’est ...*c’est que l’être en parlant* - quand c’est un être qui parle - *c’est que l’être en parlant jouisse*, et j’ajoute : *ne veuille rien... rien en savoir de plus.* J’ajoute que cela veut dire : *ne rien savoir du tout*. \[*discours* : (*Semblant*) *<sub>→</sub>* (*Jouissance*)*<sub>→</sub>* ↓(*Plus-de-jouir*) ◊ S<sub>2 </sub>(*Vérité*)\]
 
 <!-- id: s20-11-0024 -->
 
@@ -106,7 +106,7 @@ Là Freud se contredit.
 
 <!-- id: s20-11-0026 -->
 
-> \[*dans le discours scientifique (où s’inscrivait Freud) le savoir* (S<sub>2</sub>) *est coupé de l’objet(a)* *→ le désir de savoir qui anime la science est «<sub> </sub>passion de l’ignorance » (de a)*\]
+\[*dans le discours scientifique (où s’inscrivait Freud) le savoir* (S<sub>2</sub>) *est coupé de l’objet(a)* *→ le désir de savoir qui anime la science est «<sub> </sub>passion de l’ignorance » (de a)*\]
 
 <!-- id: s20-11-0027 -->
 
@@ -130,7 +130,7 @@ En quoi cette nouvelle science concerne-t-elle *le réel* ?
 
 <!-- id: s20-11-0032 -->
 
-> que je qualifie de « traditionnelle* »,* pour être celle qui nous vient de la pensée d’Aristote, ...cette « *faute* » ai-je dit, c’est d’impliquer que *« l’être pense »*, que la pensée soit telle que le *pensé* soit à son image \[C.O.D.\], c’est-à-dire que l’être pense.
+que je qualifie de « traditionnelle* »,* pour être celle qui nous vient de la pensée d’Aristote, ...cette « *faute* » ai-je dit, c’est d’impliquer que *« l’être pense »*, que la pensée soit telle que le *pensé* soit à son image \[C.O.D.\], c’est-à-dire que l’être pense.
 
 <!-- id: s20-11-0033 -->
 
@@ -150,11 +150,11 @@ C’est là-dessus qu’on a espéré fonder *les sciences humaines *: envelopp
 
 <!-- id: s20-11-0037 -->
 
-> n’y étant supposée l’intention d’aucun sujet ...*d’une finalité posée comme de ce comportement faisant « objet »*, rien de plus facile...
+n’y étant supposée l’intention d’aucun sujet ...*d’une finalité posée comme de ce comportement faisant « objet »*, rien de plus facile...
 
 <!-- id: s20-11-0038 -->
 
-> cet « *objet* » ayant sa propre régulation ...que de l’imaginer dans le système nerveux.
+cet « *objet* » ayant sa propre régulation ...que de l’imaginer dans le système nerveux.
 
 <!-- id: s20-11-0039 -->
 
@@ -166,7 +166,7 @@ L’ennui, c’est qu’il \[*le behaviorisme*\] ne fait rien de plus que d’y 
 
 <!-- id: s20-11-0041 -->
 
-> quoi qu’on en pense c’est toujours là ...de sa *cause finale*, laquelle est *vivre* dans l’occasion, plus exactement *survivre* c’est-à-dire *atermoyer la mort* et dominer le rival.
+quoi qu’on en pense c’est toujours là ...de sa *cause finale*, laquelle est *vivre* dans l’occasion, plus exactement *survivre* c’est-à-dire *atermoyer la mort* et dominer le rival.
 
 <!-- id: s20-11-0042 -->
 
@@ -174,7 +174,7 @@ Vous le voyez, il est clair que le nombre des pensées implicites dans une telle
 
 <!-- id: s20-11-0043 -->
 
-> *Weltanschauung*, comme on dit ...est proprement incalculable. C’est toujours de l’équivalence de *la pensée* et du *pensé* qu’il s’agit.
+*Weltanschauung*, comme on dit ...est proprement incalculable. C’est toujours de l’équivalence de *la pensée* et du *pensé* qu’il s’agit.
 
 <!-- id: s20-11-0044 -->
 
@@ -186,7 +186,7 @@ Ce qui est le plus certain de ce mode de penser : la science traditionnelle,
 
 <!-- id: s20-11-0046 -->
 
-> *le règne aristotélicien de la classe*, c’est-à-dire du *genre* et de *l’espèce* autrement dit *de l’individu considéré comme spécifique*,
+*le règne aristotélicien de la classe*, c’est-à-dire du *genre* et de *l’espèce* autrement dit *de l’individu considéré comme spécifique*,
 
 <!-- id: s20-11-0047 -->
 
@@ -202,7 +202,7 @@ Je la qualifierai d’une façon simple, trop simple et qui risque de vous faire
 
 <!-- id: s20-11-0050 -->
 
-> c’est le cas de le dire, mais vous auriez tort de voir trop vite ...quoi qu’il en soit je dis ma formule :
+c’est le cas de le dire, mais vous auriez tort de voir trop vite ...quoi qu’il en soit je dis ma formule :
 
 <!-- id: s20-11-0051 -->
 
@@ -226,9 +226,9 @@ Mais ce que j’en relève, c’est que ce *« dimanche »* a été lu et appr
 
 <!-- id: s20-11-0056 -->
 
-> \[*la « dialectique du maître et de l’esclave »* \[S<sub>1 →</sub> S<sub>2</sub>\] *doit aboutir (par « Aufhebung » successives)*
->
-> *au « dimanche de la vie » du « savoir absolu », dans une lecture kojévienne, et à « la fin de l’Histoire », etc.*\]
+\[*la « dialectique du maître et de l’esclave »* \[S<sub>1 →</sub> S<sub>2</sub>\] *doit aboutir (par « Aufhebung » successives)*
+
+*au « dimanche de la vie » du « savoir absolu », dans une lecture kojévienne, et à « la fin de l’Histoire », etc.*\]
 
 <!-- id: s20-11-0057 -->
 
@@ -248,7 +248,7 @@ Il faut avant de continuer, que je dise ce que j’entends par là...
 
 <!-- id: s20-11-0061 -->
 
-> le sujet « *je* » n’étant pas plus actif dans ce *« j’entends »* que dans *« je me range plutôt du côté du baroque »*. ...et c’est ce qui va me faire plonger dans l’histoire du christianisme.
+le sujet « *je* » n’étant pas plus actif dans ce *« j’entends »* que dans *« je me range plutôt du côté du baroque »*. ...et c’est ce qui va me faire plonger dans l’histoire du christianisme.
 
 <!-- id: s20-11-0062 -->
 
@@ -268,11 +268,11 @@ Le baroque c’est au départ l’historiole...
 
 <!-- id: s20-11-0066 -->
 
-> l’historiole : petite histoire ...du Christ, je veux dire ce que raconte l’histoire d’un homme \[: §\]...
+l’historiole : petite histoire ...du Christ, je veux dire ce que raconte l’histoire d’un homme \[: §\]...
 
 <!-- id: s20-11-0067 -->
 
-> ne vous frappez pas : c’est lui-même qui s’est désigné comme *« le Fils de l’Homme » !...*ce que racontent quatre textes dits « *évangéliques »* \[εὐαγγέλιον, de [εὖ](https://fr.wiktionary.org/wiki/%CE%B5%E1%BD%96) : *bon*, et [ἄγγελος](https://fr.wiktionary.org/wiki/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82), *anggelos : messager*\] d’être pas tellement « *bonne nouvelle* » que « *annonceurs bons* » pour leur sorte de nouvelle \[: §\], ça peut aussi s’entendre comme ça, et ça me paraît plus approprié.
+ne vous frappez pas : c’est lui-même qui s’est désigné comme *« le Fils de l’Homme » !...*ce que racontent quatre textes dits « *évangéliques »* \[εὐαγγέλιον, de [εὖ](https://fr.wiktionary.org/wiki/%CE%B5%E1%BD%96) : *bon*, et [ἄγγελος](https://fr.wiktionary.org/wiki/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82), *anggelos : messager*\] d’être pas tellement « *bonne nouvelle* » que « *annonceurs bons* » pour leur sorte de nouvelle \[: §\], ça peut aussi s’entendre comme ça, et ça me paraît plus approprié.
 
 <!-- id: s20-11-0068 -->
 
@@ -280,7 +280,7 @@ Ceux-là écrivent d’une façon telle qu’il n’y a pas un seul fait qui ne 
 
 <!-- id: s20-11-0069 -->
 
-> et Dieu sait que naturellement on a foncé dans « *la muleta »*, on ne s’en est pas privé ...mais que ces textes n’en soient pas moins ce qui va au cœur de *la vérité*, de *la vérité* comme telle, jusques et y compris le fait que moi j’énonce : qu’on ne peut *la dire qu’à moitié*.
+et Dieu sait que naturellement on a foncé dans « *la muleta »*, on ne s’en est pas privé ...mais que ces textes n’en soient pas moins ce qui va au cœur de *la vérité*, de *la vérité* comme telle, jusques et y compris le fait que moi j’énonce : qu’on ne peut *la dire qu’à moitié*.
 
 <!-- id: s20-11-0070 -->
 
@@ -304,7 +304,7 @@ Dans ce genre les Évangiles, on ne peut pas mieux dire, on ne peut mieux dire d
 
 <!-- id: s20-11-0075 -->
 
-> c’est de cela qu’il résulte que ce sont des Évangiles ...on ne peut pas même mieux faire jouer *la dit-mension de la vérité*,
+c’est de cela qu’il résulte que ce sont des Évangiles ...on ne peut pas même mieux faire jouer *la dit-mension de la vérité*,
 
 <!-- id: s20-11-0076 -->
 
@@ -316,7 +316,7 @@ Après tout, la suite a suffisamment démontré...
 
 <!-- id: s20-11-0078 -->
 
-> puisque je laisse les textes, je m’en tiendrai à l’effet ...que cette *dit-mension* se soutienne.
+puisque je laisse les textes, je m’en tiendrai à l’effet ...que cette *dit-mension* se soutienne.
 
 <!-- id: s20-11-0079 -->
 
@@ -328,7 +328,7 @@ C’est-à-dire qu’elle a *relayé* ce que le romain...
 
 <!-- id: s20-11-0081 -->
 
-> maçon comme pas un ...avait fondé d’un équilibre miraculeux d’universel, avec en plus enfin des « *bains de jouissance »* que symbolisent suffisamment ces fameux « Thermes », dont il nous reste des bouts écroulés, dont nous ne pouvons avoir aucune espèce d’idée à quel point ça, pour ce qui est de jouir, c’était le pompon \[*Rires*\] !
+maçon comme pas un ...avait fondé d’un équilibre miraculeux d’universel, avec en plus enfin des « *bains de jouissance »* que symbolisent suffisamment ces fameux « Thermes », dont il nous reste des bouts écroulés, dont nous ne pouvons avoir aucune espèce d’idée à quel point ça, pour ce qui est de jouir, c’était le pompon \[*Rires*\] !
 
 <!-- id: s20-11-0082 -->
 
@@ -360,7 +360,7 @@ Le taoïsme par exemple, ou d’autres doctrines de salut pour qui l’affaire n
 
 <!-- id: s20-11-0089 -->
 
-> comme le nom « *Tao »* l’indique ...de « *voie »* si elles parviennent à prolonger quelque chose qui y ressemble.
+comme le nom « *Tao »* l’indique ...de « *voie »* si elles parviennent à prolonger quelque chose qui y ressemble.
 
 <!-- id: s20-11-0090 -->
 
@@ -368,9 +368,9 @@ Il est vrai que l’historiole du Christ n’a selon toute apparence, et comme j
 
 <!-- id: s20-11-0091 -->
 
-> avec même pour effet que... il y a des gens qui sont gentils, ils font comme les chiens,
->
-> ils ramassent la balle et me la rapportent, on me l’a rapportée ...*l’historiole* disais-je donc, se présente non pas comme l’entreprise de sauver les hommes, mais comme celle *de sauver Dieu.* \[*les hommes ne sont pas en péril dans *; !, *mais il s’agit de sauver Dieu comme exception *: : §\]
+avec même pour effet que... il y a des gens qui sont gentils, ils font comme les chiens,
+
+ils ramassent la balle et me la rapportent, on me l’a rapportée ...*l’historiole* disais-je donc, se présente non pas comme l’entreprise de sauver les hommes, mais comme celle *de sauver Dieu.* \[*les hommes ne sont pas en péril dans *; !, *mais il s’agit de sauver Dieu comme exception *: : §\]
 
 <!-- id: s20-11-0092 -->
 
@@ -378,7 +378,7 @@ Il faut reconnaître que pour celui qui s’est chargé de cette entreprise, le 
 
 <!-- id: s20-11-0093 -->
 
-> pour ceux qui seraient tout à fait sourds, n’est-ce pas... ...et ben il y a mis le prix, c’est le moins qu’on puisse dire, et que le résultat, on doit bien s’étonner qu’il paraisse satisfaire.
+pour ceux qui seraient tout à fait sourds, n’est-ce pas... ...et ben il y a mis le prix, c’est le moins qu’on puisse dire, et que le résultat, on doit bien s’étonner qu’il paraisse satisfaire.
 
 <!-- id: s20-11-0094 -->
 
@@ -398,7 +398,7 @@ L’amusant est évidemment...
 
 <!-- id: s20-11-0098 -->
 
-> je vous ai déjà raconté ça, mais vous n’avez pas entendu. Bon, enfin je vous ai déjà raconté ça... ...l’amusant c’est que l’athéisme ne soit soutenable que par les clercs, beaucoup plus difficile chez les laïques dont l’innocence en la matière reste totale.
+je vous ai déjà raconté ça, mais vous n’avez pas entendu. Bon, enfin je vous ai déjà raconté ça... ...l’amusant c’est que l’athéisme ne soit soutenable que par les clercs, beaucoup plus difficile chez les laïques dont l’innocence en la matière reste totale.
 
 <!-- id: s20-11-0099 -->
 
@@ -410,7 +410,7 @@ Freud, heureusement, nous a donné une interprétation nécessaire*...*
 
 <!-- id: s20-11-0101 -->
 
-> *qui <u>ne cesse</u> pas de s’écrire* comme je définis *le <u>nécess</u>aire...*une interprétation nécessaire du meurtre du fils comme fondateur de la religion de la grâce.
+*qui <u>ne cesse</u> pas de s’écrire* comme je définis *le <u>nécess</u>aire...*une interprétation nécessaire du meurtre du fils comme fondateur de la religion de la grâce.
 
 <!-- id: s20-11-0102 -->
 
@@ -466,7 +466,7 @@ En fait c’est bien ce qui épate la science classique : comment ça peut-il m
 
 <!-- id: s20-11-0115 -->
 
-> Supposez que ça pleure plus, que ça jute plus, la glande lacrymale, vous aurez des emmerdements,
+Supposez que ça pleure plus, que ça jute plus, la glande lacrymale, vous aurez des emmerdements,
 
 <!-- id: s20-11-0116 -->
 
@@ -474,7 +474,7 @@ En fait c’est bien ce qui épate la science classique : comment ça peut-il m
 
 <!-- id: s20-11-0117 -->
 
-> ou symboliquement, on vous marche sur le pied : on vous « *affecte* » on appelle ça \[*Rires*\]. Ouais...
+ou symboliquement, on vous marche sur le pied : on vous « *affecte* » on appelle ça \[*Rires*\]. Ouais...
 
 <!-- id: s20-11-0118 -->
 
@@ -510,13 +510,13 @@ Qui ne voit que *l’âme,* ce n’est rien d’autre que son identité supposé
 
 <!-- id: s20-11-0126 -->
 
-> \[*si « la pensée est la même chose que l’être » alors « l’âme » est le principe du corps *: *de son unité, de son unicité, de son mouvement, de son altération*
->
-> *(cf. Aristote « De anima »). Dans le discours du maître, de la même façon que le maître commande ses esclaves, la pensée est ce qui commande le corps (<u>avec</u> l’âme),*
->
-> *ce qui est « du côté du manche »* <sub>→</sub> *le* *signifiant maître* : S<sub>1</sub> *est au principe de tout discours*, *commande tout mouvement du corps,*
->
-> *en ordonne (met en forme) toute action* <sub>→</sub> *l’âme est ce qui fait du corps un dispositif pulsionnel orienté vers la recherche du « Bien »*\]
+\[*si « la pensée est la même chose que l’être » alors « l’âme » est le principe du corps *: *de son unité, de son unicité, de son mouvement, de son altération*
+
+*(cf. Aristote « De anima »). Dans le discours du maître, de la même façon que le maître commande ses esclaves, la pensée est ce qui commande le corps (<u>avec</u> l’âme),*
+
+*ce qui est « du côté du manche »* <sub>→</sub> *le* *signifiant maître* : S<sub>1</sub> *est au principe de tout discours*, *commande tout mouvement du corps,*
+
+*en ordonne (met en forme) toute action* <sub>→</sub> *l’âme est ce qui fait du corps un dispositif pulsionnel orienté vers la recherche du « Bien »*\]
 
 <!-- id: s20-11-0127 -->
 
@@ -536,7 +536,7 @@ Bref *l’âme* c’est ce qu’on pense à propos du corps, *du côté du manch
 
 <!-- id: s20-11-0131 -->
 
-> \[*penser concret* <sub>→</sub> *concrétions, penser secret* <sub>→</sub> *sécrétions...* <sub>→</sub> *la pensée est homogène avec le corps (marqué du signifiant*<sub>→</sub> *objets(a)) et détermine le corps dans ses mouvements, dans ses productions, tous orientés vers la recherche du « Bien » (dispositif pulsionnel),* <sub>→</sub> *la substance de l’âme est la jouissance*\]
+\[*penser concret* <sub>→</sub> *concrétions, penser secret* <sub>→</sub> *sécrétions...* <sub>→</sub> *la pensée est homogène avec le corps (marqué du signifiant*<sub>→</sub> *objets(a)) et détermine le corps dans ses mouvements, dans ses productions, tous orientés vers la recherche du « Bien » (dispositif pulsionnel),* <sub>→</sub> *la substance de l’âme est la jouissance*\]
 
 <!-- id: s20-11-0132 -->
 
@@ -544,13 +544,13 @@ Tout ceci pour vous amener à ceci...
 
 <!-- id: s20-11-0133 -->
 
-> que j’ai quand même annoncé au départ sur le sujet de l’inconscient,
->
-> puisque je ne parle pas uniquement comme ça, comme on flûte ...qu’il est vraiment curieux qu’il ne soit pas mis en cause dans la psychologie, que *la structure de la pensée repose sur le langage,* lequel *langage...*
+que j’ai quand même annoncé au départ sur le sujet de l’inconscient,
+
+puisque je ne parle pas uniquement comme ça, comme on flûte ...qu’il est vraiment curieux qu’il ne soit pas mis en cause dans la psychologie, que *la structure de la pensée repose sur le langage,* lequel *langage...*
 
 <!-- id: s20-11-0134 -->
 
-> c’est là tout le nouveau de ce terme de « *structure* », ...les autres \[« *structuralistes* »\], qualifiés de cette étiquette, ils en font ce qu’ils en veulent, mais moi, ce que je fais remarquer c’est que *le langage comporte une inertie* considérable, ce qui se voit à comparer son fonctionnement à ces *signes* qu’on appelle *mathématiques *: *mathèmes*, uniquement de ce fait : qu’eux se transmettent intégralement.
+c’est là tout le nouveau de ce terme de « *structure* », ...les autres \[« *structuralistes* »\], qualifiés de cette étiquette, ils en font ce qu’ils en veulent, mais moi, ce que je fais remarquer c’est que *le langage comporte une inertie* considérable, ce qui se voit à comparer son fonctionnement à ces *signes* qu’on appelle *mathématiques *: *mathèmes*, uniquement de ce fait : qu’eux se transmettent intégralement.
 
 <!-- id: s20-11-0135 -->
 
@@ -574,13 +574,17 @@ Il s’agit de ce qu’il affirme...
 
 <!-- id: s20-11-0140 -->
 
-> vous n’avez jamais lu naturellement le « *De Anima »* malgré mes supplications ...mais ce qu’il affirme c’est que *l’homme pense <u>avec</u> instrument, <u>avec</u> son âme,* c’est-à-dire comme je viens de vous le dire, je pourrais le dire en résumé rapidement : *« les mécanismes »* \[*pulsionnels*\] *supposés, dont se supporte son corps*.
+vous n’avez jamais lu naturellement le « *De Anima »* malgré mes supplications ...mais ce qu’il affirme c’est que *l’homme pense <u>avec</u> instrument, <u>avec</u> son âme,* c’est-à-dire comme je viens de vous le dire, je pourrais le dire en résumé rapidement : *« les mécanismes »* \[*pulsionnels*\] *supposés, dont se supporte son corps*.
 
 <!-- id: s20-11-0141 -->
 
-> \[« *l’homme pense avec son (a)me »,* S<sub>1</sub> *unifiant* *les objets(a) comme dispositif pulsionnel <sub>→</sub> avec le langage ordonnant les mécanismes du « corps de jouissance »*
->
-> *<sub>→</sub> les « traces » sur le corps des inscriptions (engrammes) des expériences de jouissances passées, lors des identifications successives :* α, β, γ, δ *et les quatre objets(a)*\]
+<div class="text-quotation">
+
+\[« *l’homme pense avec son (a)me »,* S<sub>1</sub> *unifiant* *les objets(a) comme dispositif pulsionnel <sub>→</sub> avec le langage ordonnant les mécanismes du « corps de jouissance »*
+
+*<sub>→</sub> les « traces » sur le corps des inscriptions (engrammes) des expériences de jouissances passées, lors des identifications successives :* α, β, γ, δ *et les quatre objets(a)*\]
+
+</div>
 
 <!-- id: s20-11-0142 -->
 
@@ -588,7 +592,7 @@ Naturellement, faites attention : c’est nous qui en sommes aux mécanismes à
 
 <!-- id: s20-11-0143 -->
 
-> mais notre physique d’ailleurs est une physique déjà à la gare, sur une voie de garage je veux dire, parce que, il y a eu la physique quantique depuis : les mécanismes ça saute... ...enfin Aristote, qui n’était pas entré dans *les défilés du mécanisme*, ça veut simplement dire justement ça, ce qu’il en pensait. Alors, « *l’homme pense avec son âme* » ça veut dire qu’il pense avec la pensée d’Aristote, en quoi la pensée est naturellement du coté du manche \[<sub>→</sub> *dans le discours du maître*\].
+mais notre physique d’ailleurs est une physique déjà à la gare, sur une voie de garage je veux dire, parce que, il y a eu la physique quantique depuis : les mécanismes ça saute... ...enfin Aristote, qui n’était pas entré dans *les défilés du mécanisme*, ça veut simplement dire justement ça, ce qu’il en pensait. Alors, « *l’homme pense avec son âme* » ça veut dire qu’il pense avec la pensée d’Aristote, en quoi la pensée est naturellement du coté du manche \[<sub>→</sub> *dans le discours du maître*\].
 
 <!-- id: s20-11-0144 -->
 
@@ -628,9 +632,9 @@ Quel rapport peut-il bien y avoir entre
 
 <!-- id: s20-11-0153 -->
 
-> dans le monde par la science traditionnelle, celle qui fait que Dieu c’est l’*Être Suprême*, et que cet Être Suprême
->
-> ne peut - dixit Aristote - n’être rien d’autre que *le lieu d’où se sait quel est le Bien de tous* les autres.
+dans le monde par la science traditionnelle, celle qui fait que Dieu c’est l’*Être Suprême*, et que cet Être Suprême
+
+ne peut - dixit Aristote - n’être rien d’autre que *le lieu d’où se sait quel est le Bien de tous* les autres.
 
 <!-- id: s20-11-0154 -->
 
@@ -638,11 +642,11 @@ Quel rapport peut-il bien y avoir entre
 
 <!-- id: s20-11-0155 -->
 
-> \[*la jouissance qui peut être retenue (jouissance phallique) par « le filet », « la chaîne », le réseau du langage, au travers de la fonction phallique*
->
-> *qui en soutenant* S<sub>1→</sub> S<sub>2</sub> *va poser un « sens » métaphorique de l’objet perdu (dit-mention), cette jouissance n’est pas celle qu’il faut,*
->
-> *celle qu’on tente indéfiniment de re-susciter par des essaims de* S<sub>1</sub>, *par les irruptions des « formations de l’inconscient » qui viennent trouer le discours.*\]
+\[*la jouissance qui peut être retenue (jouissance phallique) par « le filet », « la chaîne », le réseau du langage, au travers de la fonction phallique*
+
+*qui en soutenant* S<sub>1→</sub> S<sub>2</sub> *va poser un « sens » métaphorique de l’objet perdu (dit-mention), cette jouissance n’est pas celle qu’il faut,*
+
+*celle qu’on tente indéfiniment de re-susciter par des essaims de* S<sub>1</sub>, *par les irruptions des « formations de l’inconscient » qui viennent trouer le discours.*\]
 
 <!-- id: s20-11-0156 -->
 
@@ -694,11 +698,11 @@ La structure pour s’y brancher ne démontre rien, sinon qu’elle est du texte
 
 <!-- id: s20-11-0168 -->
 
-> \[*le langage a la même structure que « lalangue » (générée par la combinatoire des* α, β, γ, δ *« comme un langage »).*
->
-> *La structure supporte la jouissance qui faut (faillir) et non la jouissance qu’il faut (falloir) ou qu’il faudrait,*
->
-> *celle dont « lalangue » est le texte même : tentatives d’écrire la jouissance éprouvée d’expériences passées*\]
+\[*le langage a la même structure que « lalangue » (générée par la combinatoire des* α, β, γ, δ *« comme un langage »).*
+
+*La structure supporte la jouissance qui faut (faillir) et non la jouissance qu’il faut (falloir) ou qu’il faudrait,*
+
+*celle dont « lalangue » est le texte même : tentatives d’écrire la jouissance éprouvée d’expériences passées*\]
 
 <!-- id: s20-11-0169 -->
 
@@ -706,7 +710,7 @@ Cette *dit-mention* \[*la fonction phallique*\]...
 
 <!-- id: s20-11-0170 -->
 
-> là *je me répète*, mais nous sommes dans un domaine où justement la loi c’est *la répétition...cette dit-mention c’est le dire de* Freud, c’est même la preuve de l’existence de Freud : dans un certain nombre d’années il en faudra une \[*Rires*\].
+là *je me répète*, mais nous sommes dans un domaine où justement la loi c’est *la répétition...cette dit-mention c’est le dire de* Freud, c’est même la preuve de l’existence de Freud : dans un certain nombre d’années il en faudra une \[*Rires*\].
 
 <!-- id: s20-11-0171 -->
 
@@ -734,11 +738,11 @@ Mais il n’était pas assez intelligent...
 
 <!-- id: s20-11-0177 -->
 
-> pas assez parce que n’ayant pas joui de la révélation chrétienne ...pour penser *qu’une parole*...
+pas assez parce que n’ayant pas joui de la révélation chrétienne ...pour penser *qu’une parole*...
 
 <!-- id: s20-11-0178 -->
 
-> fût-ce la sienne, à désigner ce νοῦς \[nouss\] qui ne se supporte que du langage ...*concerne la jouissance*, qui pourtant se désigne chez lui métaphoriquement partout, parce que toute cette histoire de *la matière* et de *la forme*, qu’est-ce que tout ça, qu’est-ce que ça suggère comme vieille histoire concernant la copulation ! \[« *l’âme » fait du corps un dispositif pulsionnel orienté vers la recherche du « Bien »* <sub>→</sub> S<sub>2</sub> *(la forme) in-forme le corps (la matière) en dispositif pulsionnel*\]
+fût-ce la sienne, à désigner ce νοῦς \[nouss\] qui ne se supporte que du langage ...*concerne la jouissance*, qui pourtant se désigne chez lui métaphoriquement partout, parce que toute cette histoire de *la matière* et de *la forme*, qu’est-ce que tout ça, qu’est-ce que ça suggère comme vieille histoire concernant la copulation ! \[« *l’âme » fait du corps un dispositif pulsionnel orienté vers la recherche du « Bien »* <sub>→</sub> S<sub>2</sub> *(la forme) in-forme le corps (la matière) en dispositif pulsionnel*\]
 
 <!-- id: s20-11-0179 -->
 
@@ -758,11 +762,11 @@ Mais il n’était pas assez intelligent...
 
 <!-- id: s20-11-0183 -->
 
-> comme répondant à ce qui n’est que pure fallace d’une *jouissance* qui serait apte au rapport sexuel
->
-> \[*fallace qui n’a affaire qu’à des (a) et n’atteint pas à l’Autre*\], et qu’à ce titre *toutes les jouissances* ne sont que des rivales
->
-> de la finalité que ça serait si *la jouissance* avait le moindre rapport avec le rapport sexuel.
+comme répondant à ce qui n’est que pure fallace d’une *jouissance* qui serait apte au rapport sexuel
+
+\[*fallace qui n’a affaire qu’à des (a) et n’atteint pas à l’Autre*\], et qu’à ce titre *toutes les jouissances* ne sont que des rivales
+
+de la finalité que ça serait si *la jouissance* avait le moindre rapport avec le rapport sexuel.
 
 <!-- id: s20-11-0184 -->
 
@@ -794,7 +798,7 @@ Tout ce qui a déferlé des effets du christianisme, dans l’art notamment...
 
 <!-- id: s20-11-0191 -->
 
-> et c’est en cela que je rejoins ce baroquisme dont j’accepte d’être habillé, n’est-ce pas ...voyez le témoignage de quelqu’un qui revient d’une orgie d’églises en Italie \[*i.e. Lacan*\] : *tout est exhibition de corps évoquant la jouissance*, à la copulation près, qui si elle n’est pas présente, c’est pas pour des prunes.
+et c’est en cela que je rejoins ce baroquisme dont j’accepte d’être habillé, n’est-ce pas ...voyez le témoignage de quelqu’un qui revient d’une orgie d’églises en Italie \[*i.e. Lacan*\] : *tout est exhibition de corps évoquant la jouissance*, à la copulation près, qui si elle n’est pas présente, c’est pas pour des prunes.
 
 <!-- id: s20-11-0192 -->
 
@@ -814,7 +818,7 @@ Je dirai un peu plus...
 
 <!-- id: s20-11-0196 -->
 
-> et ne croyez pas que mes dires je ne vous les dose pas ...j’irai jusque là que de vous dire que *nulle part comme dans le christianisme l’œuvre d’art comme telle ne s’avère de façon plus patente pour ce qu’elle est de toujours et partout : obscénité*. \[*obscœnus : « de mauvaise augure » (Bloch et v. Wartburg)*\]
+et ne croyez pas que mes dires je ne vous les dose pas ...j’irai jusque là que de vous dire que *nulle part comme dans le christianisme l’œuvre d’art comme telle ne s’avère de façon plus patente pour ce qu’elle est de toujours et partout : obscénité*. \[*obscœnus : « de mauvaise augure » (Bloch et v. Wartburg)*\]
 
 <!-- id: s20-11-0197 -->
 
@@ -838,17 +842,17 @@ Ce dont il s’agit c’est l’urgence...
 
 <!-- id: s20-11-0202 -->
 
-> pour ces êtres qui de nature \[*Sic* \] parlent ...l’urgence que constitue qu’ils aillent au *déduit amoureux* sous des modes exclus...
+pour ces êtres qui de nature \[*Sic* \] parlent ...l’urgence que constitue qu’ils aillent au *déduit amoureux* sous des modes exclus...
 
 <!-- id: s20-11-0203 -->
 
-> de ce que je pourrais appeler, si c’était concevable,
->
-> au sens que j’ai donné tout à l’heure au mot « *âme* », à savoir ce qui fait que ça fonctionne ...exclus de ce qui serait l’*âme* de la copulation, si j’ose supporter de ce mot ce qui...
+de ce que je pourrais appeler, si c’était concevable,
+
+au sens que j’ai donné tout à l’heure au mot « *âme* », à savoir ce qui fait que ça fonctionne ...exclus de ce qui serait l’*âme* de la copulation, si j’ose supporter de ce mot ce qui...
 
 <!-- id: s20-11-0204 -->
 
-> à les y pousser effectivement si « *Ça* » était l’*âme* de la copulation ...serait élaborable par ce que j’appelle « *une physique* » qui dans l’occasion n’est rien que ceci : *une pensée supposable au penser*.
+à les y pousser effectivement si « *Ça* » était l’*âme* de la copulation ...serait élaborable par ce que j’appelle « *une physique* » qui dans l’occasion n’est rien que ceci : *une pensée supposable au penser*.
 
 <!-- id: s20-11-0205 -->
 
@@ -860,7 +864,7 @@ L’Autre en tant que *lieu* où la parole d’être *<u>déposée</u>* [^89]...
 
 <!-- id: s20-11-0207 -->
 
-> vous ferez attention - hein ? - aux résonnances ...fonde *la vérité* et avec elle « *le pacte* » qui supplée à l’inexistence du *rapport sexuel* en tant
+vous ferez attention - hein ? - aux résonnances ...fonde *la vérité* et avec elle « *le pacte* » qui supplée à l’inexistence du *rapport sexuel* en tant
 
 <!-- id: s20-11-0208 -->
 
@@ -888,7 +892,7 @@ Parménide *avait tort et* Héraclite *raison*, c’est bien ce qui se signe à 
 
 <!-- id: s20-11-0214 -->
 
-> remettant à sa place le discours du manche \[*du maître*\] lui-même, de ce qu’il appelle comme ça :
+remettant à sa place le discours du manche \[*du maître*\] lui-même, de ce qu’il appelle comme ça :
 
 <!-- id: s20-11-0215 -->
 
@@ -932,9 +936,9 @@ Elles sont « *Saintes* » - en quoi ? - en ce qu’elles ne cessent pas de r
 
 <!-- id: s20-11-0225 -->
 
-> lisez Salomon quand même, c’est le maître des maîtres,
->
-> c’est le « *senti-maître* » \[*Rires*\], un type dans mon genre \[*Rires*\] ...l’échec des tentatives d’une sagesse dont l’être serait le témoignage.
+lisez Salomon quand même, c’est le maître des maîtres,
+
+c’est le « *senti-maître* » \[*Rires*\], un type dans mon genre \[*Rires*\] ...l’échec des tentatives d’une sagesse dont l’être serait le témoignage.
 
 <!-- id: s20-11-0226 -->
 
@@ -942,7 +946,7 @@ Ben tout ça ne veut pas dire, mes petits amis, qu’il y ait pas eu des trucs d
 
 <!-- id: s20-11-0227 -->
 
-> sans compter quoi il ne saurait y avoir de sagesse *...*a pu se croire venue à cette fin de satisfaire la pensée de *l’être*.
+sans compter quoi il ne saurait y avoir de sagesse *...*a pu se croire venue à cette fin de satisfaire la pensée de *l’être*.
 
 <!-- id: s20-11-0228 -->
 
@@ -954,9 +958,9 @@ Dans le Taoïsme par exemple...
 
 <!-- id: s20-11-0230 -->
 
-> vous ne savez pas ce que c’est, bien sûr, très peu le savent,
->
-> enfin moi je l’ai pratiqué, j’ai pratiqué les textes bien sûr \[*Rires*\] ...dans le Taoïsme est l’exemple patent dans la pratique même du sexe : il faut retenir son foutre pour être bien.
+vous ne savez pas ce que c’est, bien sûr, très peu le savent,
+
+enfin moi je l’ai pratiqué, j’ai pratiqué les textes bien sûr \[*Rires*\] ...dans le Taoïsme est l’exemple patent dans la pratique même du sexe : il faut retenir son foutre pour être bien.
 
 <!-- id: s20-11-0231 -->
 
@@ -968,7 +972,7 @@ Parce que ce qu’il y a de mieux dans le bouddhisme c’est le Zen...
 
 <!-- id: s20-11-0233 -->
 
-> et le Zen ça consiste à ça, à te répondre par un aboiement, mon petit ami ...c’est ce qu’il y a de mieux quand on veut naturellement sortir de cette *« affaire infernale »* comme disait Freud.
+et le Zen ça consiste à ça, à te répondre par un aboiement, mon petit ami ...c’est ce qu’il y a de mieux quand on veut naturellement sortir de cette *« affaire infernale »* comme disait Freud.
 
 <!-- id: s20-11-0234 -->
 
@@ -976,7 +980,7 @@ Il est plus que probable que la fabulation antique, « *la mythologie »*...
 
 <!-- id: s20-11-0235 -->
 
-> comme vous appelez ça, ou Claude Lévi-Strauss aussi appelait ça comme ça ...*la mythologie* de l’ère méditerranéenne entre autre, c’est justement celle à laquelle on ne touche pas parce que c’est la plus foisonnante, et puis surtout parce qu’on en a fait de tels jus qu’on ne sait plus par quel bout la prendre.
+comme vous appelez ça, ou Claude Lévi-Strauss aussi appelait ça comme ça ...*la mythologie* de l’ère méditerranéenne entre autre, c’est justement celle à laquelle on ne touche pas parce que c’est la plus foisonnante, et puis surtout parce qu’on en a fait de tels jus qu’on ne sait plus par quel bout la prendre.
 
 <!-- id: s20-11-0236 -->
 
@@ -1008,7 +1012,7 @@ Il faudra qu’une fois...
 
 <!-- id: s20-11-0243 -->
 
-> enfin je ne sais pas si j’aurai jamais le temps ...parler de la musique \[*baroque*\] dans les marges.
+enfin je ne sais pas si j’aurai jamais le temps ...parler de la musique \[*baroque*\] dans les marges.
 
 <!-- id: s20-11-0244 -->
 
@@ -1040,7 +1044,7 @@ Et je dirais que ça se renverse ces représentations qui sont elles-mêmes mart
 
 <!-- id: s20-11-0251 -->
 
-> vous savez que « *martyr* » ça veut dire « *témoin* » ...martyrs *d’une souffrance* plus ou moins pure, c’est notre peinture jusqu’à ce qu’on ait fait le vide en commençant sérieusement à s’occuper de petits carrés \[*i.e. le cubisme, Vasarely, etc.*\].
+vous savez que « *martyr* » ça veut dire « *témoin* » ...martyrs *d’une souffrance* plus ou moins pure, c’est notre peinture jusqu’à ce qu’on ait fait le vide en commençant sérieusement à s’occuper de petits carrés \[*i.e. le cubisme, Vasarely, etc.*\].
 
 <!-- id: s20-11-0252 -->
 
@@ -1056,7 +1060,7 @@ Et elle est si fondée dans *la béance* propre à la sexualité de l’être pa
 
 <!-- id: s20-11-0255 -->
 
-> disons, parce que quand même je ne veux pas désespérer de rien ...au moins aussi fondée que « *L’Avenir de la science »* [^93], c’est le titre - vous savez - qu’a donné à un de ses bouquins cet autre cureton qui s’appelait Ernest Renan et qui était un serviteur de *la vérité* lui aussi, à tout crin.
+disons, parce que quand même je ne veux pas désespérer de rien ...au moins aussi fondée que « *L’Avenir de la science »* [^93], c’est le titre - vous savez - qu’a donné à un de ses bouquins cet autre cureton qui s’appelait Ernest Renan et qui était un serviteur de *la vérité* lui aussi, à tout crin.
 
 <!-- id: s20-11-0256 -->
 
@@ -1064,7 +1068,7 @@ Il n’en exigeait qu’une chose...
 
 <!-- id: s20-11-0257 -->
 
-> et ça c’était absolument premier, sans ça c’était la panique ...c’est qu’elle n’ait aucune conséquence. \[*Rires*\] Ouais...
+et ça c’était absolument premier, sans ça c’était la panique ...c’est qu’elle n’ait aucune conséquence. \[*Rires*\] Ouais...
 
 <!-- id: s20-11-0258 -->
 

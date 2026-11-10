@@ -26,7 +26,7 @@ L’animal, quel qu’il soit, qui crève en raison d’une suite d’effets phy
 
 <!-- id: s16-19-0006 -->
 
-> dont le fait d’appeler ça effets de la faim par exemple est tout à fait exclu …c’est la fin de l’organisme en tant que soma. *Il ne manque de rien*. Il a assez de ressources en son périmètre d’organisme pour mesurer sa réduction dite mortelle. Le cadavre, c’est un *réel* aussi.
+dont le fait d’appeler ça effets de la faim par exemple est tout à fait exclu …c’est la fin de l’organisme en tant que soma. *Il ne manque de rien*. Il a assez de ressources en son périmètre d’organisme pour mesurer sa réduction dite mortelle. Le cadavre, c’est un *réel* aussi.
 
 <!-- id: s16-19-0007 -->
 
@@ -82,9 +82,9 @@ L’horizon de ce qui se passe là…
 
 <!-- id: s16-19-0020 -->
 
-> et c’est là l’excuse à ce discours public, à ce quelque chose que je continue
->
-> malgré qu’il ne s’adresse en principe qu’aux psychanalystes …est ceci dont le temps témoigne par quelque chose dont les sages ne veulent pas voir ce qui déjà n’est plus du tout un *prodrome* [^75] mais une déchirure patente, c’est que *la discordance éclate entre savoir et pouvoir*.
+et c’est là l’excuse à ce discours public, à ce quelque chose que je continue
+
+malgré qu’il ne s’adresse en principe qu’aux psychanalystes …est ceci dont le temps témoigne par quelque chose dont les sages ne veulent pas voir ce qui déjà n’est plus du tout un *prodrome* [^75] mais une déchirure patente, c’est que *la discordance éclate entre savoir et pouvoir*.
 
 <!-- id: s16-19-0021 -->
 
@@ -92,7 +92,7 @@ Il s’agit - c’est intéressant - pour que tout simplement les choses ne tra�
 
 <!-- id: s16-19-0022 -->
 
-> avec tout ce qu’elle comporte de bafouillages étranges, de redites, d’absurdes collisions …il s’agit de définir en quoi cette *disjonction* s’opère et de la dénommer ainsi, de ne pas penser qu’on va y *parer* avec je ne sais quelle façon épisodique de retourner la veste du pouvoir, de dire que tout s’arrange parce que c’est ceux qui jusqu’ici en étaient opprimés qui vont maintenant l’exercer, par exemple.
+avec tout ce qu’elle comporte de bafouillages étranges, de redites, d’absurdes collisions …il s’agit de définir en quoi cette *disjonction* s’opère et de la dénommer ainsi, de ne pas penser qu’on va y *parer* avec je ne sais quelle façon épisodique de retourner la veste du pouvoir, de dire que tout s’arrange parce que c’est ceux qui jusqu’ici en étaient opprimés qui vont maintenant l’exercer, par exemple.
 
 <!-- id: s16-19-0023 -->
 
@@ -100,7 +100,7 @@ Non certes que j’en écarte personnellement d’aucune façon l’échéance p
 
 <!-- id: s16-19-0024 -->
 
-> le seul de nature à changer le sens de tout ce qui s’ordonne comme *empire présumé*, fût-ce du savoir lui-même …c’est à savoir *cette disjonction du savoir et du pouvoir*.
+le seul de nature à changer le sens de tout ce qui s’ordonne comme *empire présumé*, fût-ce du savoir lui-même …c’est à savoir *cette disjonction du savoir et du pouvoir*.
 
 <!-- id: s16-19-0025 -->
 
@@ -108,9 +108,9 @@ Non certes que j’en écarte personnellement d’aucune façon l’échéance p
 
 <!-- id: s16-19-0026 -->
 
-> qui n’a qu’une valeur grossière, qui n’induit à proprement parler à rien,
->
-> qui ne consiste en aucune *Weltanschauung,* présomption *utopique ou pas* d’une mutation poussée par on ne sait quoi …ceci doit être articulé et le peut être, en raison de ceci : non pas que FREUD en donne la saisie, renouvelant en *un système* qui serait quoi que ce soit de comparable à celui où a voulu se faire perdurer le mythe de *la conjonction du savoir et du pouvoir*, mais FREUD bien plus est lui-même ici le patient, celui qui de par sa parole, une parole de patient, témoigne de ce que j’inscris ici sous ce titre : *la disjonction du savoir et du pouvoir*.
+qui n’a qu’une valeur grossière, qui n’induit à proprement parler à rien,
+
+qui ne consiste en aucune *Weltanschauung,* présomption *utopique ou pas* d’une mutation poussée par on ne sait quoi …ceci doit être articulé et le peut être, en raison de ceci : non pas que FREUD en donne la saisie, renouvelant en *un système* qui serait quoi que ce soit de comparable à celui où a voulu se faire perdurer le mythe de *la conjonction du savoir et du pouvoir*, mais FREUD bien plus est lui-même ici le patient, celui qui de par sa parole, une parole de patient, témoigne de ce que j’inscris ici sous ce titre : *la disjonction du savoir et du pouvoir*.
 
 <!-- id: s16-19-0027 -->
 
@@ -122,9 +122,9 @@ Voici comment au point où, moi-même, je ne suis rien d’autre que la suite d�
 
 <!-- id: s16-19-0029 -->
 
-> où dans mon discours même je témoigne de ce à quoi conduit l’épreuve de cette disjonction, c’est-à-dire à rien
->
-> qui la comble apparemment ni qui permette de l’espérer réduire jamais en *une norme*, en un κόσμος \[cosmos\] …c’est là le sens de ce que je m’essaie à poursuivre devant vous d’un discours qu’inaugure FREUD, et ce pourquoi j’ai commencé par une lecture attentive de ce dont témoigne ce discours, et pas seulement dans sa maîtrise, car très précisément c’est de ses insuffisances qu’il est le plus instructif.
+où dans mon discours même je témoigne de ce à quoi conduit l’épreuve de cette disjonction, c’est-à-dire à rien
+
+qui la comble apparemment ni qui permette de l’espérer réduire jamais en *une norme*, en un κόσμος \[cosmos\] …c’est là le sens de ce que je m’essaie à poursuivre devant vous d’un discours qu’inaugure FREUD, et ce pourquoi j’ai commencé par une lecture attentive de ce dont témoigne ce discours, et pas seulement dans sa maîtrise, car très précisément c’est de ses insuffisances qu’il est le plus instructif.
 
 <!-- id: s16-19-0030 -->
 
@@ -136,7 +136,7 @@ Et puis d’un autre côté, par une sorte d’évidence, de manifestation du d�
 
 <!-- id: s16-19-0032 -->
 
-> que je ne dirai certes pas à la page, disons pas trop à la traîne …de ce qui s’est produit.
+que je ne dirai certes pas à la page, disons pas trop à la traîne …de ce qui s’est produit.
 
 <!-- id: s16-19-0033 -->
 
@@ -208,11 +208,11 @@ Ce qu’il faut saisir, c’est que bien sûr, ce *Un* qui n’est pas simple et
 
 <!-- id: s16-19-0050 -->
 
-> ceci pour nous en tenir à l’exemplification de ce *symbolique*, par *un des systèmes* qui sont actuellement *les mieux établis* …il faut inscrire ceci : c’est que ce comptage…
+ceci pour nous en tenir à l’exemplification de ce *symbolique*, par *un des systèmes* qui sont actuellement *les mieux établis* …il faut inscrire ceci : c’est que ce comptage…
 
 <!-- id: s16-19-0051 -->
 
-> quel qu’il soit, à quelque niveau de structure que nous le placions dans le *symbolique* …a ses effets dans l’*imaginaire*.
+quel qu’il soit, à quelque niveau de structure que nous le placions dans le *symbolique* …a ses effets dans l’*imaginaire*.
 
 <!-- id: s16-19-0052 -->
 
@@ -228,7 +228,7 @@ Or chez l’être humain…
 
 <!-- id: s16-19-0055 -->
 
-> et sans que ceci fasse de lui, dans le domaine du vivant, une telle exception, …*une image* - comme chez bien d’autres animaux - y joue un rôle privilégié, c’est celle qui est *au principe* de cette dimension que nous appelons *le narcissisme*, c’est *l’image spéculaire*.
+et sans que ceci fasse de lui, dans le domaine du vivant, une telle exception, …*une image* - comme chez bien d’autres animaux - y joue un rôle privilégié, c’est celle qui est *au principe* de cette dimension que nous appelons *le narcissisme*, c’est *l’image spéculaire*.
 
 <!-- id: s16-19-0056 -->
 
@@ -272,11 +272,11 @@ Le pas suivant…
 
 <!-- id: s16-19-0066 -->
 
-> celui que j’ai fait en énonçant d’une façon dont après tout il est frappant qu’à ce que je dise des choses comme ça, ça passe, ça rentre comme dans du beurre, ce qui prouve évidemment que les analystes n’ont pas une idée tellement sûre de ce à quoi ils peuvent tenir dans un tel champ …j’ai dit quelque chose de simple, c’est à savoir que faire retour de ces effets *petit(a)* dans l’*imaginaire* à l’Autre, le champ d’où ils partent, de rendre à CÉSAR - si je puis dire - ce qui est à CÉSAR …
+celui que j’ai fait en énonçant d’une façon dont après tout il est frappant qu’à ce que je dise des choses comme ça, ça passe, ça rentre comme dans du beurre, ce qui prouve évidemment que les analystes n’ont pas une idée tellement sûre de ce à quoi ils peuvent tenir dans un tel champ …j’ai dit quelque chose de simple, c’est à savoir que faire retour de ces effets *petit(a)* dans l’*imaginaire* à l’Autre, le champ d’où ils partent, de rendre à CÉSAR - si je puis dire - ce qui est à CÉSAR …
 
 <!-- id: s16-19-0067 -->
 
-> comme a dit, vous le savez, un jour un petit malin, car il l’était, le bougre …que *c’était ça l’essence de la perversion* : *rendre (a) à celui de qui il provient, le grand Autre*.
+comme a dit, vous le savez, un jour un petit malin, car il l’était, le bougre …que *c’était ça l’essence de la perversion* : *rendre (a) à celui de qui il provient, le grand Autre*.
 
 <!-- id: s16-19-0068 -->
 
@@ -288,7 +288,7 @@ Ce qu’il s’agit de savoir, c’est ce qu’on peut en tirer. Si effectivemen
 
 <!-- id: s16-19-0070 -->
 
-> *car un effet du symbolique sur le champ de l’imaginaire, nous pouvons le considérer comme quelque chose d’encore problématique* …quelle place cela va-t-il prendre ?
+*car un effet du symbolique sur le champ de l’imaginaire, nous pouvons le considérer comme quelque chose d’encore problématique* …quelle place cela va-t-il prendre ?
 
 <!-- id: s16-19-0071 -->
 
@@ -328,9 +328,9 @@ C’est à savoir ce jeu par quoi le statut de l’Autre s’assure d’être co
 
 <!-- id: s16-19-0080 -->
 
-> je dis discursivement si nous voulons donner une approximation logique
->
-> de ce qui est en jeu dans toutes sortes d’effets qui nous intéressent …la relation anaclitique comme étant ici première.
+je dis discursivement si nous voulons donner une approximation logique
+
+de ce qui est en jeu dans toutes sortes d’effets qui nous intéressent …la relation anaclitique comme étant ici première.
 
 <!-- id: s16-19-0081 -->
 
@@ -342,9 +342,9 @@ C’est uniquement essentiellement comme un jeu de cet *objet* définissable com
 
 <!-- id: s16-19-0083 -->
 
-> et à cet endroit la mère peut aussi bien jouer ce rôle
->
-> que n’importe quoi d’autre, le père, une institution, voire une île déserte …c’est comme *jeu du a comme masque*, ce que j’ai appelé cette structure qui est la même chose que ce *a*, *l’en-forme de a* *de l’Autre*, c’est uniquement dans cette formule que peut se saisir ce qu’on peut appeler l’effet de masquage, l’effet d’aveuglement qui est précisément ce en quoi se comble toute relation anaclitique.
+et à cet endroit la mère peut aussi bien jouer ce rôle
+
+que n’importe quoi d’autre, le père, une institution, voire une île déserte …c’est comme *jeu du a comme masque*, ce que j’ai appelé cette structure qui est la même chose que ce *a*, *l’en-forme de a* *de l’Autre*, c’est uniquement dans cette formule que peut se saisir ce qu’on peut appeler l’effet de masquage, l’effet d’aveuglement qui est précisément ce en quoi se comble toute relation anaclitique.
 
 <!-- id: s16-19-0084 -->
 
@@ -356,7 +356,7 @@ Car l’imagination vive…
 
 <!-- id: s16-19-0086 -->
 
-> celle où nous prenons, où nous recueillons ce que nous appelons avidement significations, diversement plaisantes …elle relève d’une toute autre sorte d’image, et combien moins obscure : *l’image spéculaire*, beaucoup moins obscure surtout depuis que nos miroirs sont clairs.
+celle où nous prenons, où nous recueillons ce que nous appelons avidement significations, diversement plaisantes …elle relève d’une toute autre sorte d’image, et combien moins obscure : *l’image spéculaire*, beaucoup moins obscure surtout depuis que nos miroirs sont clairs.
 
 <!-- id: s16-19-0087 -->
 
@@ -388,9 +388,9 @@ Si c’est pensable, la question introduite comme fondamentale en toute démarch
 
 <!-- id: s16-19-0094 -->
 
-> je crois l’avoir formulée dans la ligne de quelque chose qui, comme tous les prodromes,
->
-> avait commencé de se dessiner dans un certain tournant philosophique …c’est que l’intéressant, d’une façon tout à fait vive, et ceci à mesure que progressent plus *les impasses où nous coince le savoir,* ce n’est pas de savoir ce que l’Autre sait, c’est de savoir ce qu’il veut, à savoir avec sa forme, sa forme « *en-forme de A* », qui s’ébauche tout à fait autrement que dans un miroir, mais par une exploration à peine effleurée d’ailleurs de la perversion, qui nous fait dire que cette *topologie* qui se dessine et que précise à de bien autres niveaux que des expériences pathologiques l’avancée du savoir :
+je crois l’avoir formulée dans la ligne de quelque chose qui, comme tous les prodromes,
+
+avait commencé de se dessiner dans un certain tournant philosophique …c’est que l’intéressant, d’une façon tout à fait vive, et ceci à mesure que progressent plus *les impasses où nous coince le savoir,* ce n’est pas de savoir ce que l’Autre sait, c’est de savoir ce qu’il veut, à savoir avec sa forme, sa forme « *en-forme de A* », qui s’ébauche tout à fait autrement que dans un miroir, mais par une exploration à peine effleurée d’ailleurs de la perversion, qui nous fait dire que cette *topologie* qui se dessine et que précise à de bien autres niveaux que des expériences pathologiques l’avancée du savoir :
 
 <!-- id: s16-19-0095 -->
 
@@ -410,7 +410,7 @@ Si on se figure que même sur les perversions *la psychanalyse* clôt le cercle,
 
 <!-- id: s16-19-0099 -->
 
-> même à user, d’une façon plus appliquée que je ne peux le faire ici-même …de la relation à *l’objet(a),* on se tromperait.
+même à user, d’une façon plus appliquée que je ne peux le faire ici-même …de la relation à *l’objet(a),* on se tromperait.
 
 <!-- id: s16-19-0100 -->
 
@@ -418,9 +418,9 @@ L’important c’est de reprendre à titre de symptômes, et en quelque sorte n
 
 <!-- id: s16-19-0101 -->
 
-> dans ces années perdues dont je ne sais même pas si, quelque jour, quelqu’un fera la mesure du cheminement
->
-> par lequel je pouvais mener au jour la suite précaire de ce discours …dont j’ai donc fait tellement d’usage : c’est à la lumière de cette *relation*, telle que je la définis et comme *anaclitique,* que pourraient être repris les hémistiches de son « *Pèlerin Cherubinique » :* ces *distiques* coupés, équilibrés en quatre membres dans lesquels se dessine l’identité propre de ce qui en lui lui, paraît le plus essentiel, impossible à saisir autrement que dans le terme de *l’objet(a)* et de Dieu même.
+dans ces années perdues dont je ne sais même pas si, quelque jour, quelqu’un fera la mesure du cheminement
+
+par lequel je pouvais mener au jour la suite précaire de ce discours …dont j’ai donc fait tellement d’usage : c’est à la lumière de cette *relation*, telle que je la définis et comme *anaclitique,* que pourraient être repris les hémistiches de son « *Pèlerin Cherubinique » :* ces *distiques* coupés, équilibrés en quatre membres dans lesquels se dessine l’identité propre de ce qui en lui lui, paraît le plus essentiel, impossible à saisir autrement que dans le terme de *l’objet(a)* et de Dieu même.
 
 <!-- id: s16-19-0102 -->
 
@@ -456,7 +456,7 @@ Si vous vous reportez au schéma que j’ai donné sous le titre de « *Remarqu
 
 <!-- id: s16-19-0110 -->
 
-> à quelques propositions d’un monsieur dont, grâce à moi, le nom subsistera
+à quelques propositions d’un monsieur dont, grâce à moi, le nom subsistera
 
 <!-- id: s16-19-0111 -->
 
@@ -468,11 +468,11 @@ Si vous vous reportez au schéma que j’ai donné sous le titre de « *Remarqu
 
 <!-- id: s16-19-0113 -->
 
-> et pourquoi pas puisque aussi bien il n’est pas soustrait à l’*imaginaire* …*comme un miroir* \[*plan*\], ceci à seule fin de pouvoir poser le deuxième terme, le signifiant…
+et pourquoi pas puisque aussi bien il n’est pas soustrait à l’*imaginaire* …*comme un miroir* \[*plan*\], ceci à seule fin de pouvoir poser le deuxième terme, le signifiant…
 
 <!-- id: s16-19-0114 -->
 
-> auprès duquel se représente par un autre signifiant le sujet …s’y trouve pointé en un endroit qui n’est rien d’autre que ce qui se désigne ici par ce I énigmatique, celui d’où à lui se présente la conjonction dans un autre miroir, *la conjonction du a* \[*fleurs*\] *et de l’image du corps* \[*i(a) : image réelle du vase*\].
+auprès duquel se représente par un autre signifiant le sujet …s’y trouve pointé en un endroit qui n’est rien d’autre que ce qui se désigne ici par ce I énigmatique, celui d’où à lui se présente la conjonction dans un autre miroir, *la conjonction du a* \[*fleurs*\] *et de l’image du corps* \[*i(a) : image réelle du vase*\].
 
 <!-- id: s16-19-0115 -->
 
@@ -496,7 +496,7 @@ Comment ne pas reconnaître qu’ici, là-même, il se désigne comme *aspirant 
 
 <!-- id: s16-19-0120 -->
 
-> pour des raisons qui ne sont pas autrement approfondies mais qui sont là sensibles …faisait pour la mère *l’objet d’un intérêt tout à fait particulier*.
+pour des raisons qui ne sont pas autrement approfondies mais qui sont là sensibles …faisait pour la mère *l’objet d’un intérêt tout à fait particulier*.
 
 <!-- id: s16-19-0121 -->
 
@@ -512,7 +512,7 @@ Je le répète, je n’évoque d’abord ce temps que pour livrer tout de suite 
 
 <!-- id: s16-19-0124 -->
 
-> qui sait parfaitement bien sûr tout ce qu’il en est de ce qui se passe dans la basse-cour …lui dit : « *Moi, je suis le coq et toi tu es la poule.* » Il se défend, s’insurge avec la plus grande vivacité et déclare :
+qui sait parfaitement bien sûr tout ce qu’il en est de ce qui se passe dans la basse-cour …lui dit : « *Moi, je suis le coq et toi tu es la poule.* » Il se défend, s’insurge avec la plus grande vivacité et déclare :
 
 <!-- id: s16-19-0125 -->
 
@@ -528,7 +528,7 @@ Remarquez que ce « *hen* » en anglais, ça a exactement la même prononciati
 
 <!-- id: s16-19-0128 -->
 
-> alors que, le temps d’avant, il se trouvait si bien avec sa mère de pouvoir être pour elle, si je puis dire, une poule de plus, une poule de luxe, celle qui n’était pas dans la basse-cour …si ce n’est parce que là est intéressé le narcissisme, à savoir la rivalité avec le frère, le passage - comme il est bien prouvé - à une relation de pouvoir : l’autre le tient par la taille, par les hanches, l’immobilise et tant qu’il veut il le maintient dans une certaine position.
+alors que, le temps d’avant, il se trouvait si bien avec sa mère de pouvoir être pour elle, si je puis dire, une poule de plus, une poule de luxe, celle qui n’était pas dans la basse-cour …si ce n’est parce que là est intéressé le narcissisme, à savoir la rivalité avec le frère, le passage - comme il est bien prouvé - à une relation de pouvoir : l’autre le tient par la taille, par les hanches, l’immobilise et tant qu’il veut il le maintient dans une certaine position.
 
 <!-- id: s16-19-0129 -->
 
@@ -540,9 +540,9 @@ Le passage du champ de l’angoisse…
 
 <!-- id: s16-19-0131 -->
 
-> celui par lequel j’ai inauguré aujourd’hui mon discours, à savoir « *qu’il n’est pas sans objet* »,
->
-> à condition qu’on voie que cet objet, c’est l’enjeu même du sujet …au champ du narcissisme, c’est celui où se dévoile la vraie fonction de la phobie qui est, à l’objet de l’angoisse, substituer un signifiant qui fait peur. Au regard de l’énigme de l’angoisse, la relation signalée de danger est rassurante.
+celui par lequel j’ai inauguré aujourd’hui mon discours, à savoir « *qu’il n’est pas sans objet* »,
+
+à condition qu’on voie que cet objet, c’est l’enjeu même du sujet …au champ du narcissisme, c’est celui où se dévoile la vraie fonction de la phobie qui est, à l’objet de l’angoisse, substituer un signifiant qui fait peur. Au regard de l’énigme de l’angoisse, la relation signalée de danger est rassurante.
 
 <!-- id: s16-19-0132 -->
 

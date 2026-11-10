@@ -78,9 +78,9 @@ Ce qui va se produire dans cette série démontre qu’elle est essentiellement 
 
 <!-- id: s16-09-0019 -->
 
-> que vous *additionniez* par exemple terme à terme,
->
-> que vous *les multipliiez* terme à terme aussi, par exemple, vous pouvez aussi prendre d’autres opérations …il en résultera une autre *série de Fibonacci*, c’est-à-dire que vous vous confirmerez que la loi de sa formation est exactement la même, à savoir : *qu’il suffit d’additionner deux de ses termes pour donner le terme suivant*.
+que vous *additionniez* par exemple terme à terme,
+
+que vous *les multipliiez* terme à terme aussi, par exemple, vous pouvez aussi prendre d’autres opérations …il en résultera une autre *série de Fibonacci*, c’est-à-dire que vous vous confirmerez que la loi de sa formation est exactement la même, à savoir : *qu’il suffit d’additionner deux de ses termes pour donner le terme suivant*.
 
 <!-- id: s16-09-0020 -->
 
@@ -100,7 +100,7 @@ Ce *petit(a)* ne nous manque pas dans la *série de Fibonacci* *quelconque*, \[ 
 
 <!-- id: s16-09-0024 -->
 
-> *et assez vite, dès qu’on s’éloigne du point de départ de la série de Fibonacci* …va s’inscrire comme *rapport d’un de ses termes au terme suivant*.
+*et assez vite, dès qu’on s’éloigne du point de départ de la série de Fibonacci* …va s’inscrire comme *rapport d’un de ses termes au terme suivant*.
 
 <!-- id: s16-09-0025 -->
 
@@ -108,15 +108,15 @@ Ceci pour démontrer qu’il n’y a dans le choix de *a*…
 
 <!-- id: s16-09-0026 -->
 
-> que nous avons fait précisément d’être placé devant le problème de commande figurée, ce qui se perd dans la position, dans le fait de poser le 1 inaugural réduit à sa fonction de *marque* …ce choix du *a -* lui - n’a rien d’arbitraire, pour ce qu’il est, de la même façon que la perte que nous visons…
+que nous avons fait précisément d’être placé devant le problème de commande figurée, ce qui se perd dans la position, dans le fait de poser le 1 inaugural réduit à sa fonction de *marque* …ce choix du *a -* lui - n’a rien d’arbitraire, pour ce qu’il est, de la même façon que la perte que nous visons…
 
 <!-- id: s16-09-0027 -->
 
-> celle qui, à l’horizon, à la visée de notre discours, constitue le *plus-­de-­jouir* …comme cette perte, le *a*…
+celle qui, à l’horizon, à la visée de notre discours, constitue le *plus-­de-­jouir* …comme cette perte, le *a*…
 
 <!-- id: s16-09-0028 -->
 
-> rapport limite d’un terme de *la série de Fibonacci* à celui qui le suit …comme cette perte, le *a* n’est qu’un effet de la position du *trait unaire*.
+rapport limite d’un terme de *la série de Fibonacci* à celui qui le suit …comme cette perte, le *a* n’est qu’un effet de la position du *trait unaire*.
 
 <!-- id: s16-09-0029 -->
 
@@ -224,7 +224,7 @@ De sorte que si, comme c’est facile à vérifier, vous prenez cette opération
 
 <!-- id: s16-09-0055 -->
 
-> à savoir de ce qui s’inscrit en 1, fondement de l’identification subjective originelle …*et du nombre des a,* ira toujours en s’accroissant car ici, dans le sens de l’addition, c’est toujours du *rapport d’un nombre de a* - qui correspond au terme le plus petit - *à un nombre d’entiers* - qui correspond au terme le plus grand - *qu’il s’agit*.
+à savoir de ce qui s’inscrit en 1, fondement de l’identification subjective originelle …*et du nombre des a,* ira toujours en s’accroissant car ici, dans le sens de l’addition, c’est toujours du *rapport d’un nombre de a* - qui correspond au terme le plus petit - *à un nombre d’entiers* - qui correspond au terme le plus grand - *qu’il s’agit*.
 
 <!-- id: s16-09-0056 -->
 
@@ -236,7 +236,7 @@ Ce qui nous importe assurément, ce qui va compter *dans notre sondage du pari d
 
 <!-- id: s16-09-0058 -->
 
-> qui une fois de plus nous apparaît ce qui donne sous une forme analogique ce qu’il en est *des rapports du* 1 *au* 1 + *a* …à savoir ce *a* dans lequel, seul peut être saisi *ce qu’il en est de la jouissance par rapport à ce qui se crée de l’apparition d’une perte*.
+qui une fois de plus nous apparaît ce qui donne sous une forme analogique ce qu’il en est *des rapports du* 1 *au* 1 + *a* …à savoir ce *a* dans lequel, seul peut être saisi *ce qu’il en est de la jouissance par rapport à ce qui se crée de l’apparition d’une perte*.
 
 <!-- id: s16-09-0059 -->
 
@@ -278,11 +278,11 @@ Car n’oublions pas que *c’est au niveau de l’identification névrotique*�
 
 <!-- id: s16-09-0068 -->
 
-> relisez le texte et de préférence en allemand, pour ne pas être obligé de recourir à ces choses pénibles à quoi nous devons au soin de quelques personnes zélées de n’avoir que ce recours quand nous ne voulons user que du français, du volume - torchon, il n’y a même pas de table des matières, enfin vous verrez si vous vous reportez à l’article congru, *[Psychologie collective et analyse du moi](http://www.textlog.de/sigmund-freud-massenpsychologie-ich-analyse.html),* au chapitre de *l’identification* …que c’est, des trois types d’identification énoncés par FREUD, à celui, médian…
+relisez le texte et de préférence en allemand, pour ne pas être obligé de recourir à ces choses pénibles à quoi nous devons au soin de quelques personnes zélées de n’avoir que ce recours quand nous ne voulons user que du français, du volume - torchon, il n’y a même pas de table des matières, enfin vous verrez si vous vous reportez à l’article congru, *[Psychologie collective et analyse du moi](http://www.textlog.de/sigmund-freud-massenpsychologie-ich-analyse.html),* au chapitre de *l’identification* …que c’est, des trois types d’identification énoncés par FREUD, à celui, médian…
 
 <!-- id: s16-09-0069 -->
 
-> qu’il insère à proprement parler dans le champ de la névrose …qu’apparaît, qu’est soulevée la question de l’*einziger Zug,* de ce *trait unaire* que j’en ai extrait.
+qu’il insère à proprement parler dans le champ de la névrose …qu’apparaît, qu’est soulevée la question de l’*einziger Zug,* de ce *trait unaire* que j’en ai extrait.
 
 <!-- id: s16-09-0070 -->
 
@@ -290,7 +290,7 @@ Si je le rappelle ici, c’est pour indiquer que dans la suite de mon discours j
 
 <!-- id: s16-09-0071 -->
 
-> *contrairement à ce que vous pouvez imaginer, et c’est pour vous permettre d’y parer qu’ici je l’annonce* …la forme la plus insaisissable de *l’objet(a)*.
+*contrairement à ce que vous pouvez imaginer, et c’est pour vous permettre d’y parer qu’ici je l’annonce* …la forme la plus insaisissable de *l’objet(a)*.
 
 <!-- id: s16-09-0072 -->
 
@@ -326,7 +326,7 @@ Ici, de ce que je parle en français, *vous ne pouvez savoir pas plus*…
 
 <!-- id: s16-09-0080 -->
 
-> je vous le fais remarquer, que sur le petit bout de papier de PASCAL qui est *tachygraphique* [^41] …si cette infinité de vies est au *singulier* ou au *pluriel*.
+je vous le fais remarquer, que sur le petit bout de papier de PASCAL qui est *tachygraphique* [^41] …si cette infinité de vies est au *singulier* ou au *pluriel*.
 
 <!-- id: s16-09-0081 -->
 
@@ -406,11 +406,19 @@ C’est très précisément ce dont il s’agit dans le progrès qui s’engendr
 
 <!-- id: s16-09-0100 -->
 
-> « *Au reste, vous ne faites rien que de perdre zéro étant donné que les plaisirs de la vie*… c’est comme cela qu’il s’exprime
+<div class="text-quotation">
+
+« *Au reste, vous ne faites rien que de perdre zéro étant donné que les plaisirs de la vie*… c’est comme cela qu’il s’exprime
+
+</div>
 
 <!-- id: s16-09-0101 -->
 
-> …*cela ne pèse pas lourd et spécialement pas au regard de l’infinité qui vous est ouverte.* »
+<div class="text-quotation">
+
+…*cela ne pèse pas lourd et spécialement pas au regard de l’infinité qui vous est ouverte.* »
+
+</div>
 
 <!-- id: s16-09-0102 -->
 
@@ -422,7 +430,7 @@ C’est très précisément faire usage d’une *liaison mathématique*, celle q
 
 <!-- id: s16-09-0104 -->
 
-> comme PASCAL argumente pour l’opacifier d’une façon homologue à l’Être Divin …qu’on ne peut pas rigoureusement dire, qu’il est exclu qu’on puisse dire que l’addition d’une unité ne fera pas que nous ne puissions dire *s’il est pair ou impair* puisque, comme vous l’avez vu dans la série décroissante, ce sont toutes les opérations paires qui s’empileront les unes sur les autres et toutes les opérations impaires d’un autre côté, pour totaliser la somme infinie qui n’en reste pas moins réductible à un 1 d’un certain type, le 1 qui entre en conjonction avec le *a*.
+comme PASCAL argumente pour l’opacifier d’une façon homologue à l’Être Divin …qu’on ne peut pas rigoureusement dire, qu’il est exclu qu’on puisse dire que l’addition d’une unité ne fera pas que nous ne puissions dire *s’il est pair ou impair* puisque, comme vous l’avez vu dans la série décroissante, ce sont toutes les opérations paires qui s’empileront les unes sur les autres et toutes les opérations impaires d’un autre côté, pour totaliser la somme infinie qui n’en reste pas moins réductible à un 1 d’un certain type, le 1 qui entre en conjonction avec le *a*.
 
 <!-- id: s16-09-0105 -->
 
@@ -438,9 +446,9 @@ PASCAL *lui-même nous indique*…
 
 <!-- id: s16-09-0108 -->
 
-> c’est là ce qui fait l’embrouille auprès d’esprits - il faut le dire - qui semblent singulièrement peu préparés
->
-> par une fonction professorale à la maîtrise de ce dont il s’agit quand il s’agit d’un discours … *« Vous êtes engagés », nous dit-il*.
+c’est là ce qui fait l’embrouille auprès d’esprits - il faut le dire - qui semblent singulièrement peu préparés
+
+par une fonction professorale à la maîtrise de ce dont il s’agit quand il s’agit d’un discours … *« Vous êtes engagés », nous dit-il*.
 
 <!-- id: s16-09-0109 -->
 
@@ -484,7 +492,7 @@ Et si, tout en étant supposé le savoir que Dieu existe, je suis contre, alors 
 
 <!-- id: s16-09-0119 -->
 
-> c’est bien de cela qu’il s’agit tout au fil de la pensée qu’énonce PASCAL … « *je perds délibérément des infinités de vies infiniment heureuses* ». \[*a, <sub>– </sub>*∞\]
+c’est bien de cela qu’il s’agit tout au fil de la pensée qu’énonce PASCAL … « *je perds délibérément des infinités de vies infiniment heureuses* ». \[*a, <sub>– </sub>*∞\]
 
 <!-- id: s16-09-0120 -->
 
@@ -524,9 +532,9 @@ Dans la diagonale, vous avez des gens qui sont tellement assurés qu’il n’y 
 
 <!-- id: s16-09-0129 -->
 
-> et l’on me permettra de faire remarquer au passage que je n’extrapole nullement sur ce qui est,
->
-> à cet égard, la tradition de FREUD, à savoir que je ne sors pas de mes plates-bandes …si vous consultez le volume que j’ai rappelé tout à l’heure, vous verrez que tout le temps FREUD fait cette remarque tranquille qu’en fin de compte, tout ce qu’il en est de la croyance du chrétien ne l’amène pas beaucoup à modifier tellement sa conduite par rapport à ceux qui ne le sont pas.
+et l’on me permettra de faire remarquer au passage que je n’extrapole nullement sur ce qui est,
+
+à cet égard, la tradition de FREUD, à savoir que je ne sors pas de mes plates-bandes …si vous consultez le volume que j’ai rappelé tout à l’heure, vous verrez que tout le temps FREUD fait cette remarque tranquille qu’en fin de compte, tout ce qu’il en est de la croyance du chrétien ne l’amène pas beaucoup à modifier tellement sa conduite par rapport à ceux qui ne le sont pas.
 
 <!-- id: s16-09-0130 -->
 
@@ -578,9 +586,9 @@ Seulement voilà : *on n’a pas le choix *! Notre désir c’est le désir de
 
 <!-- id: s16-09-0142 -->
 
-> ce qui se joue au niveau de l’Autre, à savoir de tout ce qui nous a précédé
->
-> dans ce discours qui a déterminé notre conception même …nous sommes déterminés ou non à la course d’étanchage de *l’objet(a)*.
+ce qui se joue au niveau de l’Autre, à savoir de tout ce qui nous a précédé
+
+dans ce discours qui a déterminé notre conception même …nous sommes déterminés ou non à la course d’étanchage de *l’objet(a)*.
 
 <!-- id: s16-09-0143 -->
 
@@ -608,9 +616,9 @@ Le *plus-de-jouir* est expressément modulé comme étranger à la question, si 
 
 <!-- id: s16-09-0149 -->
 
-> Dieu sait à cause de quel divertissement, je veux dire de tout ce que répandait autour de lui
->
-> de charme et probablement aussi de harcèlement, JOCASTE …pour que cela ne lui vienne même pas à l’idée, même quand les preuves commençaient à pleuvoir.
+Dieu sait à cause de quel divertissement, je veux dire de tout ce que répandait autour de lui
+
+de charme et probablement aussi de harcèlement, JOCASTE …pour que cela ne lui vienne même pas à l’idée, même quand les preuves commençaient à pleuvoir.
 
 <!-- id: s16-09-0150 -->
 
@@ -618,7 +626,7 @@ Ce qui est interdit c’est le *jouir de la­ mère* et cela se confirme dans la
 
 <!-- id: s16-09-0151 -->
 
-> il est indispensable de les rapprocher toutes pour saisir ce que FREUD articule …celle de *Totem et Tabou*.
+il est indispensable de les rapprocher toutes pour saisir ce que FREUD articule …celle de *Totem et Tabou*.
 
 <!-- id: s16-09-0152 -->
 
@@ -634,7 +642,7 @@ Seulement voilà, il reste le *Nom du père* et tout tourne autour de cela. Si l
 
 <!-- id: s16-09-0155 -->
 
-> où que ce soit, même quand cela ne se produit que sous des formes masquées, à savoir : quand on dit qu’il y en a certains qui n’ont pas l’idée de ce que c’est que le rôle du mâle dans la génération - pourquoi pas ? …ce qu’il démontre, je veux dire l’importance de cette *fonction du Nom du père,* c’est que ceux-là mêmes qui n’en ont pas l’idée inventent des « *esprits* » pour la remplir.
+où que ce soit, même quand cela ne se produit que sous des formes masquées, à savoir : quand on dit qu’il y en a certains qui n’ont pas l’idée de ce que c’est que le rôle du mâle dans la génération - pourquoi pas ? …ce qu’il démontre, je veux dire l’importance de cette *fonction du Nom du père,* c’est que ceux-là mêmes qui n’en ont pas l’idée inventent des « *esprits* » pour la remplir.
 
 <!-- id: s16-09-0156 -->
 
@@ -642,9 +650,9 @@ Pour tout dire, la caractéristique est ceci, FREUD en un endroit très précis 
 
 <!-- id: s16-09-0157 -->
 
-> je ne vais pas passer mon temps à vous dire dans quelles pages et dans quelle édition puisque, maintenant, il y a des endroits où l’on fait des lectures freudiennes et il y a tout de même des gens compétents
->
-> pour l’indiquer à ceux qui s’y intéressent …l’essence, pour tout dire, et *la fonction du père comme Nom*, comme pivot du discours, tient précisément en ceci qu’après tout, *on ne peut jamais savoir qui c’est qui est le père*. Allez toujours chercher, c’est une question de foi.
+je ne vais pas passer mon temps à vous dire dans quelles pages et dans quelle édition puisque, maintenant, il y a des endroits où l’on fait des lectures freudiennes et il y a tout de même des gens compétents
+
+pour l’indiquer à ceux qui s’y intéressent …l’essence, pour tout dire, et *la fonction du père comme Nom*, comme pivot du discours, tient précisément en ceci qu’après tout, *on ne peut jamais savoir qui c’est qui est le père*. Allez toujours chercher, c’est une question de foi.
 
 <!-- id: s16-09-0158 -->
 

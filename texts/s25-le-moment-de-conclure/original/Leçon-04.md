@@ -18,7 +18,7 @@ Quelqu’un - c’est quelqu’un qui parle avec moi - quelqu’un en atten­dai
 
 <!-- id: s25-04-0004 -->
 
-> vu le sujet qui n’était autre que ce que j’appelle « *la passe »...*quelqu’un en attendait quelques lumières sur la fin de la l’analyse.
+vu le sujet qui n’était autre que ce que j’appelle « *la passe »...*quelqu’un en attendait quelques lumières sur la fin de la l’analyse.
 
 <!-- id: s25-04-0005 -->
 
@@ -38,9 +38,9 @@ Et l’inconscient c’est ça, c’est la face de Réel*...*
 
 <!-- id: s25-04-0009 -->
 
-> peut-être que vous avez une idée - après m’avoir entendu de nombreuses fois -
->
-> peut-être que vous avez une idée de ce que j’appelle le *Réel...*c’est la face de Réel de ce dont on est empêtré. Ιl y a quelqu’un qui s’appelle Soury et qui a bien voulu prêter attention à ce que j’énonce concernant les ronds de ficelle, et il m’a interrogé sur ce que ça signifie, sur ce que ça signifie qu’il ait pu *écrire* comme ça les ronds de ficelle.
+peut-être que vous avez une idée - après m’avoir entendu de nombreuses fois -
+
+peut-être que vous avez une idée de ce que j’appelle le *Réel...*c’est la face de Réel de ce dont on est empêtré. Ιl y a quelqu’un qui s’appelle Soury et qui a bien voulu prêter attention à ce que j’énonce concernant les ronds de ficelle, et il m’a interrogé sur ce que ça signifie, sur ce que ça signifie qu’il ait pu *écrire* comme ça les ronds de ficelle.
 
 <!-- id: s25-04-0010 -->
 
@@ -56,7 +56,7 @@ L’analyse ne consiste pas à ce qu’on soit libéré de ses sinthomes...
 
 <!-- id: s25-04-0013 -->
 
-> puisque c’est comme ça que je l’écris, symptôme *...*l’analyse consiste à ce qu’on sache pourquoi on en est empêtré.
+puisque c’est comme ça que je l’écris, symptôme *...*l’analyse consiste à ce qu’on sache pourquoi on en est empêtré.
 
 <!-- id: s25-04-0014 -->
 
@@ -72,7 +72,7 @@ Le Symbolique, c’est le langage : on apprend à parler et ça laisse des trac
 
 <!-- id: s25-04-0017 -->
 
-> y’a quand même un progrès dans l’analyse *...*l’analyse consiste à se rendre comp­te de pourquoi on a ces sinthomes, de sorte que l’analyse est liée au savoir. *C’est très suspect.*
+y’a quand même un progrès dans l’analyse *...*l’analyse consiste à se rendre comp­te de pourquoi on a ces sinthomes, de sorte que l’analyse est liée au savoir. *C’est très suspect.*
 
 <!-- id: s25-04-0018 -->
 
@@ -104,7 +104,7 @@ Je veux dire qu’ici :
 
 <!-- id: s25-04-0025 -->
 
-> <img src="assets/image31.jpeg" style="width:1.4063in;height:1.33845in" alt="24.jpg" /> vous le voyez bien, j’ai dû faire ici une coupure et que cette coupure, je l’avais pourtant préparée, il n’en reste pas moins qu’il a fallu que je la refasse.
+<img src="assets/image31.jpeg" style="width:1.4063in;height:1.33845in" alt="24.jpg" /> vous le voyez bien, j’ai dû faire ici une coupure et que cette coupure, je l’avais pourtant préparée, il n’en reste pas moins qu’il a fallu que je la refasse.
 
 <!-- id: s25-04-0026 -->
 
@@ -116,9 +116,9 @@ Tout part du 0, et chacun sait que le 0 est tout à fait capital.
 
 <!-- id: s25-04-0028 -->
 
-> 1\* 2 3 4 5 6 7 8 9
->
-> 0 1 2 3 4 5 6 7 8 9
+1\* 2 3 4 5 6 7 8 9
+
+0 1 2 3 4 5 6 7 8 9
 
 <!-- id: s25-04-0029 -->
 
@@ -178,7 +178,7 @@ Dans cette histoire de *la passe,* je suis conduit...
 
 <!-- id: s25-04-0043 -->
 
-> puisque *la passe* c’est moi qui l’ai - comme on dit - *produite*, produite dans mon École ...dans l’es­poir de savoir ce qui pouvait bien surgir dans ce qu’on appelle l’esprit, l’esprit d’un analysant pour se constituer, je veux dire recevoir des gens qui viennent lui demander une analyse.
+puisque *la passe* c’est moi qui l’ai - comme on dit - *produite*, produite dans mon École ...dans l’es­poir de savoir ce qui pouvait bien surgir dans ce qu’on appelle l’esprit, l’esprit d’un analysant pour se constituer, je veux dire recevoir des gens qui viennent lui demander une analyse.
 
 <!-- id: s25-04-0044 -->
 
@@ -242,7 +242,7 @@ Ce que je dis du transfert est que je l’ai timidement avancé comme étant le 
 
 <!-- id: s25-04-0059 -->
 
-> un sujet est toujours supposé, il n’y a pas de sujet bien entendu, il n’y a que le supposé ...le supposé-savoir. Qu’est-ce que ça peut bien vouloir dire ? Le supposé-savoir-lire-*autrement*.
+un sujet est toujours supposé, il n’y a pas de sujet bien entendu, il n’y a que le supposé ...le supposé-savoir. Qu’est-ce que ça peut bien vouloir dire ? Le supposé-savoir-lire-*autrement*.
 
 <!-- id: s25-04-0060 -->
 
@@ -286,9 +286,9 @@ On a énoncé, comme ça, on ne sait pas pourquoi, il y a eu un nommé Cantor qu
 
 <!-- id: s25-04-0070 -->
 
-> et - il le remarque - à l’inté­rieur de l’écriture, à savoir que c’est à l’intérieur de l’écriture
->
-> qu’il fait équivaloir la série des nombres entiers, par exemple, avec la série des nombres pairs ...un ensemble n’est *dénombrable* qu’à partir du moment où on démontre qu’il est bi-univoque.
+et - il le remarque - à l’inté­rieur de l’écriture, à savoir que c’est à l’intérieur de l’écriture
+
+qu’il fait équivaloir la série des nombres entiers, par exemple, avec la série des nombres pairs ...un ensemble n’est *dénombrable* qu’à partir du moment où on démontre qu’il est bi-univoque.
 
 <!-- id: s25-04-0071 -->
 
@@ -300,7 +300,7 @@ Je veux dire que c’est à partir du moment où il y a une confusion entre ce *
 
 <!-- id: s25-04-0073 -->
 
-> que nous sommes bien amenés à appeler « *Chose »* ...il y a une équivoque entre ce *Réel* et le langage, puisque le langage, bien sûr, est imparfait, c’est bien là ce qui se démontre de tout ce qui s’est dit de plus sûr.
+que nous sommes bien amenés à appeler « *Chose »* ...il y a une équivoque entre ce *Réel* et le langage, puisque le langage, bien sûr, est imparfait, c’est bien là ce qui se démontre de tout ce qui s’est dit de plus sûr.
 
 <!-- id: s25-04-0074 -->
 

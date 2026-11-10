@@ -42,7 +42,11 @@ Je vous laisse entendre qu’il ne l’est pas encore et que c’est cela qui co
 
 <!-- id: s6-05-0010 -->
 
-> « *J’ai trois frères Paul, Ernest et moi.* »
+<div class="text-quotation">
+
+« *J’ai trois frères Paul, Ernest et moi.* »
+
+</div>
 
 <!-- id: s6-05-0011 -->
 
@@ -66,7 +70,7 @@ Qu’est-ce à dire, si ce n’est qu’en proférant cette prise de parti – q
 
 <!-- id: s6-05-0016 -->
 
-> quand il nous montre le mécanisme, l’articulation, le sens du rêve
+quand il nous montre le mécanisme, l’articulation, le sens du rêve
 
 <!-- id: s6-05-0017 -->
 
@@ -82,7 +86,7 @@ Le rapport de cette *Verneinung* avec la *Bejahung* la plus primitive…
 
 <!-- id: s6-05-0020 -->
 
-> avec l’accès d’un signifiant dans la question, car c’est cela une *Bejahung*
+avec l’accès d’un signifiant dans la question, car c’est cela une *Bejahung*
 
 <!-- id: s6-05-0021 -->
 
@@ -98,7 +102,7 @@ Sur ce « *non-dit* » et sur la fonction du « *ne* », du « *ne* » dans le �
 
 <!-- id: s6-05-0024 -->
 
-> chose qui paraît presque une sorte d’évidence par l’absurde
+chose qui paraît presque une sorte d’évidence par l’absurde
 
 <!-- id: s6-05-0025 -->
 
@@ -134,7 +138,7 @@ Il est très frappant de voir à quel point les logiciens, pour être comme touj
 
 <!-- id: s6-05-0033 -->
 
-> dans leur classification, dans leur articulation de la négation
+dans leur classification, dans leur articulation de la négation
 
 <!-- id: s6-05-0034 -->
 
@@ -146,7 +150,7 @@ Vous savez - ou vous ne savez pas - et après tout je n’ai pas l’intention d
 
 <!-- id: s6-05-0036 -->
 
-> dans l’ordre de ce qui distingue le sens de la négation, de la privation, etc.
+dans l’ordre de ce qui distingue le sens de la négation, de la privation, etc.
 
 <!-- id: s6-05-0037 -->
 
@@ -166,7 +170,7 @@ Et quant aux *mots*, et quant à cet usage de *la négation*…
 
 <!-- id: s6-05-0041 -->
 
-> c’est spécialement en français qu’il s’est arrêté sur cet usage de la négation
+c’est spécialement en français qu’il s’est arrêté sur cet usage de la négation
 
 <!-- id: s6-05-0042 -->
 
@@ -182,7 +186,7 @@ D’autre part il remarque qu’un très grand nombre d’usages du « *ne* »
 
 <!-- id: s6-05-0045 -->
 
-> là comme partout, ceux qui posent les problèmes les plus paradoxaux
+là comme partout, ceux qui posent les problèmes les plus paradoxaux
 
 <!-- id: s6-05-0046 -->
 
@@ -202,7 +206,7 @@ Je vous le dis parce que j’ai déjà amorcé cela la dernière fois, j’y ai 
 
 <!-- id: s6-05-0050 -->
 
-> qui n’est pas un « *ne explétif* », qui est un « *ne* » tout à fait *essentiel à l’usage de la langue française*
+qui n’est pas un « *ne explétif* », qui est un « *ne* » tout à fait *essentiel à l’usage de la langue française*
 
 <!-- id: s6-05-0051 -->
 
@@ -226,7 +230,7 @@ Sans aucun doute ne sommes-nous pas ici pour faire « *la genèse du langage* 
 
 <!-- id: s6-05-0056 -->
 
-> c’est ce que je veux vous montrer, *qui nous indique en tout cas l’articulation que donne* FREUD *du fait de la négation*
+c’est ce que je veux vous montrer, *qui nous indique en tout cas l’articulation que donne* FREUD *du fait de la négation*
 
 <!-- id: s6-05-0057 -->
 
@@ -262,7 +266,7 @@ Seulement l’important n’est pas là. L’important est que dans la langue an
 
 <!-- id: s6-05-0065 -->
 
-> et cela je ne peux pas vous faire y insister puisque je ne suis pas ici pour vous faire un cours de linguistique
+et cela je ne peux pas vous faire y insister puisque je ne suis pas ici pour vous faire un cours de linguistique
 
 <!-- id: s6-05-0066 -->
 
@@ -282,7 +286,7 @@ Le deuxième temps ou étape de ce que la dernière fois j’ai essayé d’arti
 
 <!-- id: s6-05-0070 -->
 
-> en tant qu’elle lui est imposée par la structure même de cette différence de *l’énonciation* et de *l’énoncé*
+en tant qu’elle lui est imposée par la structure même de cette différence de *l’énonciation* et de *l’énoncé*
 
 <!-- id: s6-05-0071 -->
 
@@ -358,7 +362,7 @@ C’est exactement ce que nous avons à apprendre, je veux dire à apprendre *po
 
 <!-- id: s6-05-0089 -->
 
-> c’est-à-dire beaucoup trop proche de l’inconscient pour que vous puissiez le supporter
+c’est-à-dire beaucoup trop proche de l’inconscient pour que vous puissiez le supporter
 
 <!-- id: s6-05-0090 -->
 
@@ -394,13 +398,13 @@ Ne vous fiez pas toujours là-dessus à ce que disent les gram­mairiens, le sub
 
 <!-- id: s6-05-0098 -->
 
-> Je cherche dans ma mémoire quelque chose qui puisse en quelque sorte vous l’imager et, je ne sais pas pourquoi, m’est revenu du fond de ma mémoire ce petit poème que j’ai eu quelque peine d’ailleurs
->
-> à recomposer, voire à resituer 
->
-> « *Être une belle fille blonde et populaire qui mette de la joie dans l’air*
->
-> *et lorsqu’elle sourit donne de l’appétit aux ouvriers de Saint-Denis.* »
+Je cherche dans ma mémoire quelque chose qui puisse en quelque sorte vous l’imager et, je ne sais pas pourquoi, m’est revenu du fond de ma mémoire ce petit poème que j’ai eu quelque peine d’ailleurs
+
+à recomposer, voire à resituer 
+
+« *Être une belle fille blonde et populaire qui mette de la joie dans l’air*
+
+*et lorsqu’elle sourit donne de l’appétit aux ouvriers de Saint-Denis.* »
 
 <!-- id: s6-05-0099 -->
 
@@ -412,7 +416,7 @@ Peut-être est-­ce là la forme pure, je ne dis pas du *vœu* mais du *souhait�
 
 <!-- id: s6-05-0101 -->
 
-> si vous essayez de vous introduire à l’intérieur de la structure
+si vous essayez de vous introduire à l’intérieur de la structure
 
 <!-- id: s6-05-0102 -->
 
@@ -436,7 +440,7 @@ Je veux dire que rien ne nous retient de nous engager dans la remarque suivante 
 
 <!-- id: s6-05-0107 -->
 
-> intitulé comme par hasard - m’étant reporté au texte - *Vœux secrets,* c’est donc cela que j’avais retrouvé dans ma mémoire après 25 ou quelques 30 ans, en cherchant quelque chose qui nous porterait au secret du vœu
+intitulé comme par hasard - m’étant reporté au texte - *Vœux secrets,* c’est donc cela que j’avais retrouvé dans ma mémoire après 25 ou quelques 30 ans, en cherchant quelque chose qui nous porterait au secret du vœu
 
 <!-- id: s6-05-0108 -->
 
@@ -448,9 +452,13 @@ Car c’est là tout le problème, comment communiquer aux autres quelque chose 
 
 <!-- id: s6-05-0110 -->
 
-> « *Aussi vrai que je suis une belle fille blonde et populaire, je désire mettre de la joie dans l’air*
->
-> *et donner de l’appétit aux ouvriers de Saint Denis.* »
+<div class="text-quotation">
+
+« *Aussi vrai que je suis une belle fille blonde et populaire, je désire mettre de la joie dans l’air*
+
+*et donner de l’appétit aux ouvriers de Saint Denis.* »
+
+</div>
 
 <!-- id: s6-05-0111 -->
 
@@ -478,7 +486,7 @@ Nous le voyons dans ce rêve que j’ai choisi, ce rêve qui est un rêve assur�
 
 <!-- id: s6-05-0117 -->
 
-> à la page 433 de la *Traumdeutung dans l’édition allemande*, à la page 366 et à la page 367 de *La Science des rêves* [^28]
+à la page 433 de la *Traumdeutung dans l’édition allemande*, à la page 366 et à la page 367 de *La Science des rêves* [^28]
 
 <!-- id: s6-05-0118 -->
 
@@ -490,7 +498,7 @@ Et c’est à ce propos que FREUD *a marqué avec le plus d’accent*…
 
 <!-- id: s6-05-0120 -->
 
-> tout au long de cette analyse des rêves dans la *Traumdeutung*
+tout au long de cette analyse des rêves dans la *Traumdeutung*
 
 <!-- id: s6-05-0121 -->
 
@@ -510,7 +518,7 @@ Ce rêve est ainsi constitué, je vous le répète : le sujet voit apparaître s
 
 <!-- id: s6-05-0125 -->
 
-> ce père qu’il vient de perdre après une maladie qui a constitué pour lui de longs tourments
+ce père qu’il vient de perdre après une maladie qui a constitué pour lui de longs tourments
 
 <!-- id: s6-05-0126 -->
 
@@ -550,7 +558,7 @@ Le problème de *ce qu’on appelle « identification »* se pose avec des facil
 
 <!-- id: s6-05-0135 -->
 
-> car il faut bien le mettre au temps où le sujet l’appréhende et nous le communique
+car il faut bien le mettre au temps où le sujet l’appréhende et nous le communique
 
 <!-- id: s6-05-0136 -->
 
@@ -578,7 +586,7 @@ Le fait donc que ceci « *Il ne savait pas.* », *soit dit à l’imparfait* a d
 
 <!-- id: s6-05-0142 -->
 
-> pour ceux que la question des rapports du rêve avec la parole par laquelle nous le recueillons intéresse
+pour ceux que la question des rapports du rêve avec la parole par laquelle nous le recueillons intéresse
 
 <!-- id: s6-05-0143 -->
 
@@ -598,7 +606,11 @@ Mais continuons. Voilà donc comment les choses se répartissent :
 
 <!-- id: s6-05-0147 -->
 
-> « *qu’il était mort* ».
+<div class="text-quotation">
+
+« *qu’il était mort* ».
+
+</div>
 
 <!-- id: s6-05-0148 -->
 
@@ -610,9 +622,9 @@ En complément (4) : « *selon son vœu* ». Mais qu’est-ce que ceci veut dire
 
 <!-- id: s6-05-0150 -->
 
-> comme FREUD nous indique formellement de le faire, non pas simplement dans ce passage,
->
-> mais dans celui auquel je vous ai priés de vous reporter, concernant le refoulement
+comme FREUD nous indique formellement de le faire, non pas simplement dans ce passage,
+
+mais dans celui auquel je vous ai priés de vous reporter, concernant le refoulement
 
 <!-- id: s6-05-0151 -->
 
@@ -624,9 +636,9 @@ Il me semble que certains d’entre vous au moins peuvent se souvenir de ce poin
 
 <!-- id: s6-05-0153 -->
 
-> en tant qu’il est du sujet non connu, est le châtiment de quel crime ?
->
-> D’aucun autre crime que celui d’avoir justement existé dans ce désir
+en tant qu’il est du sujet non connu, est le châtiment de quel crime ?
+
+D’aucun autre crime que celui d’avoir justement existé dans ce désir
 
 <!-- id: s6-05-0154 -->
 
@@ -638,9 +650,9 @@ Et cette douleur que ressent le sujet dans le rêve…
 
 <!-- id: s6-05-0156 -->
 
-> n’oublions pas que c’est un sujet dont nous ne savons rien d’autre que cet antécédent immédiat
->
-> qu’il a vu mourir son père dans les affres d’une longue maladie pleine de tourments
+n’oublions pas que c’est un sujet dont nous ne savons rien d’autre que cet antécédent immédiat
+
+qu’il a vu mourir son père dans les affres d’une longue maladie pleine de tourments
 
 <!-- id: s6-05-0157 -->
 
@@ -664,7 +676,7 @@ FREUD y répond si nous nous reportons au petit chapitre de la *Traumdeutung* o�
 
 <!-- id: s6-05-0162 -->
 
-> et c’est une confir­mation de ce que j’essayais de vous articuler ici avant de l’avoir relu
+et c’est une confir­mation de ce que j’essayais de vous articuler ici avant de l’avoir relu
 
 <!-- id: s6-05-0163 -->
 
@@ -696,7 +708,7 @@ Il n’y a rien au dernier terme de l’existence, que la douleur d’exister, p
 
 <!-- id: s6-05-0170 -->
 
-> comme celle de l’autre qui est là *et qui parle toujours*, comme moi le rêveur je continue à parler
+comme celle de l’autre qui est là *et qui parle toujours*, comme moi le rêveur je continue à parler
 
 <!-- id: s6-05-0171 -->
 
@@ -704,7 +716,7 @@ Il n’y a rien au dernier terme de l’existence, que la douleur d’exister, p
 
 <!-- id: s6-05-0172 -->
 
-> celui *dont nous n’avons aucun élément dans le rêve lui-même* si ce n’est ce que nous savons par la connaissance
+celui *dont nous n’avons aucun élément dans le rêve lui-même* si ce n’est ce que nous savons par la connaissance
 
 <!-- id: s6-05-0173 -->
 
@@ -728,7 +740,7 @@ Si c’est, comme nous le disons, une nécessité structurante, une nécessité 
 
 <!-- id: s6-05-0178 -->
 
-> *et ici le vœu n’est que le masque de ce qu’il y a de plus profond dans la structure du désir tel que le dénonce le rêve*
+*et ici le vœu n’est que le masque de ce qu’il y a de plus profond dans la structure du désir tel que le dénonce le rêve*
 
 <!-- id: s6-05-0179 -->
 
@@ -792,7 +804,7 @@ Ce rapport du sujet en tant qu’il est barré, annulé, aboli par l’action du
 
 <!-- id: s6-05-0194 -->
 
-> ceux qui ont assisté à *la première année de ce séminaire* en ont entendu parler pendant un tri­mestre
+ceux qui ont assisté à *la première année de ce séminaire* en ont entendu parler pendant un tri­mestre
 
 <!-- id: s6-05-0195 -->
 

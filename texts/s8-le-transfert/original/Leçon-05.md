@@ -38,7 +38,7 @@ C’est bien parce qu’il m’a semblé...
 
 <!-- id: s8-05-0009 -->
 
-> et non pas au hasard d’une rencontre mais en quelque sorte quand je cherchais, pour partir comme du cœur du champ de mes souvenirs, guidé par quelque boussole qui se crée d’une expérience, où trouver le point comme central de ce que j’avais pu retenir d’articulé dans ce que j’avais appris …il m’a semblé que *le Banquet* était, si loin de nous fût-il, le lieu où s’était *agité,* de la façon la plus vibrante, *le sens de cette question*.
+et non pas au hasard d’une rencontre mais en quelque sorte quand je cherchais, pour partir comme du cœur du champ de mes souvenirs, guidé par quelque boussole qui se crée d’une expérience, où trouver le point comme central de ce que j’avais pu retenir d’articulé dans ce que j’avais appris …il m’a semblé que *le Banquet* était, si loin de nous fût-il, le lieu où s’était *agité,* de la façon la plus vibrante, *le sens de cette question*.
 
 <!-- id: s8-05-0010 -->
 
@@ -86,11 +86,11 @@ Je voudrais, avant d’entrer dans le discours d’ÉRYXIMAQUE, faire des remarq
 
 <!-- id: s8-05-0021 -->
 
-> puisque en somme, c’est « *à votre place* », comme je le disais tout à l’heure, qu’il a fallu que pendant ces jours j’essaie
->
-> de débrouiller ce petit chapitre d’histoire de la médecine, il a bien fallu que pour le faire je sorte du *Banquet*
->
-> et que je me réfère à divers points du *texte* *platonicien* …il y a une série d’écoles dont vous avez entendu parler, si négligé que soit ce chapitre de votre formation en médecine. La plus célèbre, celle que personne n’ignore, c’est l’école d’[HIPPOCRATE](http://fr.wikipedia.org/wiki/Hippocrate) : « *l’école de Cos »*, opposée à *l’école* - voisine - *de Cnide*.
+puisque en somme, c’est « *à votre place* », comme je le disais tout à l’heure, qu’il a fallu que pendant ces jours j’essaie
+
+de débrouiller ce petit chapitre d’histoire de la médecine, il a bien fallu que pour le faire je sorte du *Banquet*
+
+et que je me réfère à divers points du *texte* *platonicien* …il y a une série d’écoles dont vous avez entendu parler, si négligé que soit ce chapitre de votre formation en médecine. La plus célèbre, celle que personne n’ignore, c’est l’école d’[HIPPOCRATE](http://fr.wikipedia.org/wiki/Hippocrate) : « *l’école de Cos »*, opposée à *l’école* - voisine - *de Cnide*.
 
 <!-- id: s8-05-0022 -->
 

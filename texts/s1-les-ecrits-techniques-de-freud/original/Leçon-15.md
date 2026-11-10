@@ -218,7 +218,7 @@ Ceci vous a peut-être paru pour l’instant un peu difficile ? J’y reviendrai
 
 <!-- id: s1-15-0054 -->
 
-> ceci est également entièrement conforme à ce qu’exprime FREUD
+ceci est également entièrement conforme à ce qu’exprime FREUD
 
 <!-- id: s1-15-0055 -->
 
@@ -410,7 +410,7 @@ Ce n’est pas là que se ter­mine le processus. Lorsque cette bascule s’est 
 
 <!-- id: s1-15-0102 -->
 
-> retenez ce terme, nous y reviendrons. Ce n’est pas moi qui l’ai inventé, on a parlé d’« *interprétations mutatives* »
+retenez ce terme, nous y reviendrons. Ce n’est pas moi qui l’ai inventé, on a parlé d’« *interprétations mutatives* »
 
 <!-- id: s1-15-0103 -->
 

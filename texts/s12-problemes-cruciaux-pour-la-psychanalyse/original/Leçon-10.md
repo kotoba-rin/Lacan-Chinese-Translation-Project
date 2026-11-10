@@ -18,7 +18,7 @@ Je vous parlerai, j’essaierai de vous parler, aujourd’hui…
 
 <!-- id: s12-10-0004 -->
 
-> d’une façon qui représente un nœud entre le trajet que nous avons poursuivi jusqu’à maintenant et ce qui va s’ouvrir …j’essaierai de vous parler de *l’identification*, j’entends la façon dont, se présentant à nous dans l’expérience analytique, elle pose son problème, comme apportant un jalon essentiel dans ce qui s’est formé, au cours d’une longue tradition appelée *à plus ou moins juste titre* « tradition philosophique », dans ce qui s’est formé autour de ce thème : *l’identification*.
+d’une façon qui représente un nœud entre le trajet que nous avons poursuivi jusqu’à maintenant et ce qui va s’ouvrir …j’essaierai de vous parler de *l’identification*, j’entends la façon dont, se présentant à nous dans l’expérience analytique, elle pose son problème, comme apportant un jalon essentiel dans ce qui s’est formé, au cours d’une longue tradition appelée *à plus ou moins juste titre* « tradition philosophique », dans ce qui s’est formé autour de ce thème : *l’identification*.
 
 <!-- id: s12-10-0005 -->
 
@@ -26,17 +26,17 @@ Je vous parlerai, j’essaierai de vous parler, aujourd’hui…
 
 <!-- id: s12-10-0006 -->
 
-> ai-je tenté pour vous d’introduire par une réflexion sur ce qui le constitue au centre
->
-> de notre expérience comme étant *l’expérience analytique* …*le sujet*…
+ai-je tenté pour vous d’introduire par une réflexion sur ce qui le constitue au centre
+
+de notre expérience comme étant *l’expérience analytique* …*le sujet*…
 
 <!-- id: s12-10-0007 -->
 
-> semble-t-il s’être présenté à nous au cours de nos dernières démarches …*le sujet* ce serait…
+semble-t-il s’être présenté à nous au cours de nos dernières démarches …*le sujet* ce serait…
 
 <!-- id: s12-10-0008 -->
 
-> si nous en croyons le chemin étroit où j’ai essayé de diriger votre regard avec la théorie des nombres …*le sujet* serait en somme reconnaissable à ce qui s’avère dans la pensée mathématique étroitement attenant au concept du *manque*, à ce concept dont le nombre est 0.
+si nous en croyons le chemin étroit où j’ai essayé de diriger votre regard avec la théorie des nombres …*le sujet* serait en somme reconnaissable à ce qui s’avère dans la pensée mathématique étroitement attenant au concept du *manque*, à ce concept dont le nombre est 0.
 
 <!-- id: s12-10-0009 -->
 
@@ -44,9 +44,9 @@ L’analogie est frappante…
 
 <!-- id: s12-10-0010 -->
 
-> de ce concept, à ce que j’ai tenté de vous formuler de la position du sujet, comme apparaissant et disparaissant
->
-> en une pulsation toujours répétée, comme effet, effet du signifiant, effet toujours évanouissant et renaissant …l’analogie est frappante de cette métaphore avec le concept tel que la réflexion d’un arithméticien philosophe : FREGE. quelqu’un m’a demandé - *depuis le temps que nous en parlons ici !* - l’orthographe…
+de ce concept, à ce que j’ai tenté de vous formuler de la position du sujet, comme apparaissant et disparaissant
+
+en une pulsation toujours répétée, comme effet, effet du signifiant, effet toujours évanouissant et renaissant …l’analogie est frappante de cette métaphore avec le concept tel que la réflexion d’un arithméticien philosophe : FREGE. quelqu’un m’a demandé - *depuis le temps que nous en parlons ici !* - l’orthographe…
 
 <!-- id: s12-10-0011 -->
 
@@ -94,9 +94,9 @@ L’existence du verbe *être* dans *les langues indo-européennes* est là sans
 
 <!-- id: s12-10-0022 -->
 
-> c’est pour cela que j’ai tenu aujourd’hui - simplement comme indication, point d’accrochage, référence - à mettre
->
-> sur ce tableau quelques caractères chinois dont vous verrez ce qu’ils signifient, et quelle utilisation j’en ferai tout à l’heure …si les problèmes logiques du sujet dans la tradition chinoise ne sont pas formulés avec un développement aussi exigeant, aussi approfondi, aussi fécond de la logique, ce n’est pas - comme on l’a dit - qu’il n’y ait pas dans le chinois de verbe être.
+c’est pour cela que j’ai tenu aujourd’hui - simplement comme indication, point d’accrochage, référence - à mettre
+
+sur ce tableau quelques caractères chinois dont vous verrez ce qu’ils signifient, et quelle utilisation j’en ferai tout à l’heure …si les problèmes logiques du sujet dans la tradition chinoise ne sont pas formulés avec un développement aussi exigeant, aussi approfondi, aussi fécond de la logique, ce n’est pas - comme on l’a dit - qu’il n’y ait pas dans le chinois de verbe être.
 
 <!-- id: s12-10-0023 -->
 
@@ -120,11 +120,11 @@ Il faut ici que je vous désigne…
 
 <!-- id: s12-10-0028 -->
 
-> sinon que je vous commente, car le commentaire en serait trop long : il a beau n’y avoir que trois pages dans ces pages …que je vous désigne dans [*Massen Psychologie und Ich-Analyse*](http://www.textlog.de/sigmund-freud-massenpsychologie-ich-analyse.html), traduit par : *psychologie des masses*…
+sinon que je vous commente, car le commentaire en serait trop long : il a beau n’y avoir que trois pages dans ces pages …que je vous désigne dans [*Massen Psychologie und Ich-Analyse*](http://www.textlog.de/sigmund-freud-massenpsychologie-ich-analyse.html), traduit par : *psychologie des masses*…
 
 <!-- id: s12-10-0029 -->
 
-> il s’agit effectivement de foule : la référence est à prendre dans l’œuvre de Gustave LEBON …*und Ich-analyse : et analyse du moi*, *chapitre VII* : *L’identification*.
+il s’agit effectivement de foule : la référence est à prendre dans l’œuvre de Gustave LEBON …*und Ich-analyse : et analyse du moi*, *chapitre VII* : *L’identification*.
 
 <!-- id: s12-10-0030 -->
 
@@ -156,7 +156,7 @@ Rien qui soit moins propre à laisser distinct…
 
 <!-- id: s12-10-0037 -->
 
-> comme ce fut toujours la faille centrale de la psychologie, à laisser distinct ce registre de ce repérage de la connaissance, dans ce qui nous serait représenté comme purement et simplement, et aveuglément en quelque sorte, *la pointe nécessaire de la montée vitale* : je vous la donne comme *ce qui doit* *- Dieu sait pourquoi, c’est le cas de le dire - culminer dans la fonction d’une conscience* …rien qui distingue moins cette visée du rapport du sujet vivant avec un monde, qui le distingue moins - je dis comme entendement - de quelque chose d’un autre registre qui est là irréductible, comme un déchet, dès lors que cette perspective est adoptée, pour être l’essentiel du progrès subjectif, à savoir ce qui, depuis toujours, dans la tradition philosophique, s’appelle *la volonté*.
+comme ce fut toujours la faille centrale de la psychologie, à laisser distinct ce registre de ce repérage de la connaissance, dans ce qui nous serait représenté comme purement et simplement, et aveuglément en quelque sorte, *la pointe nécessaire de la montée vitale* : je vous la donne comme *ce qui doit* *- Dieu sait pourquoi, c’est le cas de le dire - culminer dans la fonction d’une conscience* …rien qui distingue moins cette visée du rapport du sujet vivant avec un monde, qui le distingue moins - je dis comme entendement - de quelque chose d’un autre registre qui est là irréductible, comme un déchet, dès lors que cette perspective est adoptée, pour être l’essentiel du progrès subjectif, à savoir ce qui, depuis toujours, dans la tradition philosophique, s’appelle *la volonté*.
 
 <!-- id: s12-10-0038 -->
 
@@ -184,7 +184,7 @@ C’est de là que part la nécessité de l’assurance…
 
 <!-- id: s12-10-0044 -->
 
-> de ce que quelque chose est ici fondé qui n’est point un leurre …et de la déduction de ce qu’il faut assurément que le champ dans lequel se reproduit cette multiplication infinie de l’unité où le sujet se perd, soit en quelque sorte garanti : garanti par cet être où seulement DESCARTES[^70] \[[*Méditation quatrième*](http://un2sg4.unige.ch/athena/descartes/desc_med.html)\] a l’avantage de nous désigner qu’entre volonté et entendement, ici il nous faut choisir et seule la volonté dans son impensable le plus radical, la volonté en tant que c’est d’elle seule que se soutient l’assurance de la vérité et que Dieu eut pu faire tout autres les vérités même celles qui nous paraissent être les vérités éternelles, que seul Dieu est pensable, mais nous en désignant ainsi la dernière impasse.
+de ce que quelque chose est ici fondé qui n’est point un leurre …et de la déduction de ce qu’il faut assurément que le champ dans lequel se reproduit cette multiplication infinie de l’unité où le sujet se perd, soit en quelque sorte garanti : garanti par cet être où seulement DESCARTES[^70] \[[*Méditation quatrième*](http://un2sg4.unige.ch/athena/descartes/desc_med.html)\] a l’avantage de nous désigner qu’entre volonté et entendement, ici il nous faut choisir et seule la volonté dans son impensable le plus radical, la volonté en tant que c’est d’elle seule que se soutient l’assurance de la vérité et que Dieu eut pu faire tout autres les vérités même celles qui nous paraissent être les vérités éternelles, que seul Dieu est pensable, mais nous en désignant ainsi la dernière impasse.
 
 <!-- id: s12-10-0045 -->
 
@@ -272,9 +272,9 @@ Le *corps* pour autant que nous ne savons même plus comment en parler, depuis j
 
 <!-- id: s12-10-0066 -->
 
-> et mon Dieu, quelles sont donc ces qualités si puantes, qu’il faille les retirer ainsi, les unes après les autres,
->
-> pour que ne restent plus que des espèces d’*ombres*, d’*ombres* de déchet purifié ? …est-ce que nous ne saisissons pas là que quelque chose se dérive, d’avoir trop bien mené son jeu avec l’Autre, DESCARTES glisse vers la perte de quelque chose d’essentiel qui nous est rappelé - rappelé par FREUD - en ceci que la nature foncière du corps a quelque chose à faire avec ce qu’il introduit, ce qu’il restaure, comme « *libido* ».
+et mon Dieu, quelles sont donc ces qualités si puantes, qu’il faille les retirer ainsi, les unes après les autres,
+
+pour que ne restent plus que des espèces d’*ombres*, d’*ombres* de déchet purifié ? …est-ce que nous ne saisissons pas là que quelque chose se dérive, d’avoir trop bien mené son jeu avec l’Autre, DESCARTES glisse vers la perte de quelque chose d’essentiel qui nous est rappelé - rappelé par FREUD - en ceci que la nature foncière du corps a quelque chose à faire avec ce qu’il introduit, ce qu’il restaure, comme « *libido* ».
 
 <!-- id: s12-10-0067 -->
 
@@ -338,7 +338,7 @@ Il nous dit qu’assurément nous pouvons y trouver aisément la référence en 
 
 <!-- id: s12-10-0082 -->
 
-> nous dit-il, c’est dans le texte de FREUD et ce n’est pas moi qui l’introduis en circulation …*des deux termes, l’alternance de l’être et de l’avoir, que de n’avoir pas l’objet du choix, le sujet vient à l’être*, et les termes de *sujet* et d’*objet* sont mis ici en balance, articulés expressément par FREUD.
+nous dit-il, c’est dans le texte de FREUD et ce n’est pas moi qui l’introduis en circulation …*des deux termes, l’alternance de l’être et de l’avoir, que de n’avoir pas l’objet du choix, le sujet vient à l’être*, et les termes de *sujet* et d’*objet* sont mis ici en balance, articulés expressément par FREUD.
 
 <!-- id: s12-10-0083 -->
 
@@ -450,7 +450,7 @@ La question « *des pots de moutarde* »…
 
 <!-- id: s12-10-0110 -->
 
-> posée d’abord comme ceci : que le pot de moutarde se caractérise par le fait d’expérience qu’il n’y a jamais de moutarde dedans, que le pot de moutarde est toujours vide par définition …la question « *des pots de moutarde* » pose cette question, la question précisément de *la distinction des indiscernables*.
+posée d’abord comme ceci : que le pot de moutarde se caractérise par le fait d’expérience qu’il n’y a jamais de moutarde dedans, que le pot de moutarde est toujours vide par définition …la question « *des pots de moutarde* » pose cette question, la question précisément de *la distinction des indiscernables*.
 
 <!-- id: s12-10-0111 -->
 
@@ -462,9 +462,9 @@ Là vous ne trouveriez pas si aisément à distinguer les *indiscernables* et vo
 
 <!-- id: s12-10-0113 -->
 
-> j’hésite à dire « pratiquant le Zen », parce que vous allez bientôt répandre à travers Paris
->
-> que je vous enseigne le Zen, et qu’est-ce qui pourra en résulter ? …enfin, c’est tout de même une formule Zen et ce moine s’appelle JIUN SONJA.
+j’hésite à dire « pratiquant le Zen », parce que vous allez bientôt répandre à travers Paris
+
+que je vous enseigne le Zen, et qu’est-ce qui pourra en résulter ? …enfin, c’est tout de même une formule Zen et ce moine s’appelle JIUN SONJA.
 
 <!-- id: s12-10-0114 -->
 
@@ -480,13 +480,13 @@ Telle est l’institution inaugurale du sujet. Quelqu’un, devant vous, dans la
 
 <!-- id: s12-10-0117 -->
 
-> telle qu’elle s’introduit au niveau de la *chopine* : le « *une Tuborg, une !* » - je ne serai pas le premier à avoir substitué au Dieu créateur le garçon de café - « *une Tuborg, une !* » veut dire, introduit la possibilité, qu’après j’en demande une *autre*,
->
-> et pourtant c’est bien toujours de la *Tuborg*, toujours pareille à elle-même …l’introduction du 1 est là le point essentiel au niveau du manque…
+telle qu’elle s’introduit au niveau de la *chopine* : le « *une Tuborg, une !* » - je ne serai pas le premier à avoir substitué au Dieu créateur le garçon de café - « *une Tuborg, une !* » veut dire, introduit la possibilité, qu’après j’en demande une *autre*,
+
+et pourtant c’est bien toujours de la *Tuborg*, toujours pareille à elle-même …l’introduction du 1 est là le point essentiel au niveau du manque…
 
 <!-- id: s12-10-0118 -->
 
-> cette *autre* \[Tuborg\] donne ensuite la mesure ou la cause de ma soif, elle me donne aussi l’occasion de la commander pour un autre et *par correspondance biunivoque*, d’instituer comme tel, cet Autre pur …tel est *le niveau d’opération* où s’engendre, où s’introduit, d’abord comme présence du manque, le sujet.
+cette *autre* \[Tuborg\] donne ensuite la mesure ou la cause de ma soif, elle me donne aussi l’occasion de la commander pour un autre et *par correspondance biunivoque*, d’instituer comme tel, cet Autre pur …tel est *le niveau d’opération* où s’engendre, où s’introduit, d’abord comme présence du manque, le sujet.
 
 <!-- id: s12-10-0119 -->
 
@@ -576,7 +576,7 @@ Dans le jeu d’identification de la privation primordiale, il n’y a pas seule
 
 <!-- id: s12-10-0140 -->
 
-> et spécialement manifeste, spécialement surgissant de l’expérience frustrative …quelque chose qui échappe à sa dialectique : *un résidu*, quelque chose qui manifeste qu’au niveau logique où apparaît le 0, l’expérience subjective fait apparaître ce quelque chose que nous appelons *l’objet(a)* et qui, de par sa seule présence modifie, incline, infléchit, toute l’économie possible d’un rapport libidinal à l’objet, d’un choix quelconque qui se qualifie d’objectal.
+et spécialement manifeste, spécialement surgissant de l’expérience frustrative …quelque chose qui échappe à sa dialectique : *un résidu*, quelque chose qui manifeste qu’au niveau logique où apparaît le 0, l’expérience subjective fait apparaître ce quelque chose que nous appelons *l’objet(a)* et qui, de par sa seule présence modifie, incline, infléchit, toute l’économie possible d’un rapport libidinal à l’objet, d’un choix quelconque qui se qualifie d’objectal.
 
 <!-- id: s12-10-0141 -->
 
@@ -584,7 +584,7 @@ Ceci qui est si manifeste et toujours présent, ceci qui donne à toute relation
 
 <!-- id: s12-10-0142 -->
 
-> et c’est bien là le pathétique terminal de l’expérience analytique …au contraire ne doit pas être pour nous la question, la question autour de laquelle pour nous doit tourner, s’élaborer, tout ce qu’il en est pour l’instant dans l’analyse, des problèmes difficiles qui ne sont pas simplement le résultat plus ou moins thérapeutique, mais la légitimité essentielle de ce qui nous fonde comme analystes et d’abord ceci : ceci que précisément à ne point connaître, à ne point - au moins - avoir pointé où se situe ce que j’appelle l’opération légitime, il est impossible que l’analyste opère d’aucune façon, d’une manière qui mérite ce titre d’être une opération. Il est lui-même un jouet aveugle et pris dans *la fallace*, or cette *fallace* est justement la question qui se pose au terme de l’analyse.
+et c’est bien là le pathétique terminal de l’expérience analytique …au contraire ne doit pas être pour nous la question, la question autour de laquelle pour nous doit tourner, s’élaborer, tout ce qu’il en est pour l’instant dans l’analyse, des problèmes difficiles qui ne sont pas simplement le résultat plus ou moins thérapeutique, mais la légitimité essentielle de ce qui nous fonde comme analystes et d’abord ceci : ceci que précisément à ne point connaître, à ne point - au moins - avoir pointé où se situe ce que j’appelle l’opération légitime, il est impossible que l’analyste opère d’aucune façon, d’une manière qui mérite ce titre d’être une opération. Il est lui-même un jouet aveugle et pris dans *la fallace*, or cette *fallace* est justement la question qui se pose au terme de l’analyse.
 
 <!-- id: s12-10-0143 -->
 

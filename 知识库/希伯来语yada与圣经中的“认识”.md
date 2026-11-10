@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班XIXb
-  - 领域/宗教
-  - 领域/语言学
+  - 领域/语言符号与文献/语言学与语法
+  - 领域/宗教与神话/圣经与犹太传统
   - 语言/希伯来语
   - 作品/希伯来圣经
 verified_at: 2026-07-28

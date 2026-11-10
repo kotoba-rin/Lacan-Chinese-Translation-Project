@@ -3,6 +3,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -60,6 +61,28 @@ class DuplicateIdValidationTest(unittest.TestCase):
 
 
 class TranslationCommentaryBuildTest(unittest.TestCase):
+    def test_source_quotation_stays_in_body_with_notes_and_legacy_commentary(self):
+        entry = build_from_texts.TranslationEntry(
+            anchor_id="s8-01-0001",
+            paragraph_ids=["s8-01-0001"],
+            content='正文。\n\n<div class="text-quotation">\n\n“引文。”\n\n</div>\n\n'
+            '> [注1] 原文注释。\n\n> 我想到的个人笔记。\n\n'
+            '> <!-- 建言 -->\n> 明确标记的建言。',
+        )
+        rendered = build_from_texts.render_translation_entry(entry)
+        self.assertIn('class="text-quotation"', rendered.body)
+        self.assertIn('“引文。”', rendered.body)
+        self.assertNotIn('“引文。”', rendered.commentary)
+        self.assertIn('[注1] 原文注释。', rendered.notes)
+        self.assertIn('我想到的个人笔记。', rendered.commentary)
+        self.assertIn('明确标记的建言。', rendered.commentary)
+
+    def test_variant_note_labels_and_source_anchor_remain_notes(self):
+        for text in ('> [译注1] 译注。', '> 〔原文注4〕原注。', '> 〔出版说明〕说明。',
+                     '> <span id="Rank2801" class="anchor"></span>\n>\n> [注6] 原注。'):
+            with self.subTest(text=text):
+                self.assertTrue(build_from_texts.note_like_quote(text.splitlines()))
+
     def test_explicit_commentary_marker_overrides_note_like_prefix(self):
         with tempfile.TemporaryDirectory() as tmp:
             translation = Path(tmp) / "Leçon-01.md"
@@ -85,6 +108,45 @@ class TranslationCommentaryBuildTest(unittest.TestCase):
 
             self.assertIn("注：这一段明确标记为建言。", rendered.commentary)
             self.assertNotIn("注：这一段明确标记为建言。", rendered.notes)
+
+
+class SiteAssetsBuildTest(unittest.TestCase):
+    def test_write_summary_syncs_homepage_assets(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            old_texts_dir = build_from_texts.TEXTS_DIR
+            old_texts_index = build_from_texts.TEXTS_INDEX
+            old_build_dir = build_from_texts.BUILD_DIR
+            build_from_texts.TEXTS_DIR = tmp_path / "texts"
+            build_from_texts.TEXTS_INDEX = build_from_texts.TEXTS_DIR / "index.md"
+            build_from_texts.BUILD_DIR = tmp_path / "build"
+
+            try:
+                assets = build_from_texts.TEXTS_DIR / "assets"
+                assets.mkdir(parents=True)
+                (assets / "community.png").write_bytes(b"current")
+                build_from_texts.TEXTS_INDEX.write_text(
+                    "# 首页\n\n![交流群](assets/community.png)\n",
+                    encoding="utf-8",
+                )
+
+                stale_assets = build_from_texts.BUILD_DIR / "assets"
+                stale_assets.mkdir(parents=True)
+                (stale_assets / "stale.png").write_bytes(b"stale")
+
+                build_from_texts.write_summary()
+
+                output_assets = build_from_texts.BUILD_DIR / "assets"
+                self.assertTrue((output_assets / "community.png").exists())
+                self.assertEqual(
+                    (output_assets / "community.png").read_bytes(),
+                    b"current",
+                )
+                self.assertFalse((output_assets / "stale.png").exists())
+            finally:
+                build_from_texts.TEXTS_DIR = old_texts_dir
+                build_from_texts.TEXTS_INDEX = old_texts_index
+                build_from_texts.BUILD_DIR = old_build_dir
 
 
 class ReadingNotesBuildTest(unittest.TestCase):
@@ -290,6 +352,181 @@ class ReadingNotesBuildTest(unittest.TestCase):
                 self.assertNotIn("[阅读笔记](notes/README.md)", readme)
             finally:
                 build_from_texts.BUILD_DIR = old_build_dir
+
+
+class KnowledgeBaseBuildTest(unittest.TestCase):
+    def test_builds_knowledge_pages_and_segment_backlinks_like_reading_notes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            old_texts_dir = build_from_texts.TEXTS_DIR
+            old_texts_index = build_from_texts.TEXTS_INDEX
+            old_build_dir = build_from_texts.BUILD_DIR
+            had_knowledge_dir = hasattr(build_from_texts, "KNOWLEDGE_DIR")
+            old_knowledge_dir = getattr(build_from_texts, "KNOWLEDGE_DIR", None)
+            build_from_texts.TEXTS_DIR = tmp_path / "texts"
+            build_from_texts.TEXTS_INDEX = build_from_texts.TEXTS_DIR / "index.md"
+            build_from_texts.BUILD_DIR = tmp_path / "build"
+            build_from_texts.KNOWLEDGE_DIR = tmp_path / "知识库"
+
+            try:
+                slug = "s8-le-transfert"
+                seminar = build_from_texts.TEXTS_DIR / slug
+                (seminar / "original").mkdir(parents=True)
+                (seminar / "translation").mkdir()
+                (seminar / "notes").mkdir()
+                (seminar / "original" / "Leçon-01.md").write_text(
+                    "\n".join(
+                        [
+                            "# Leçon 01",
+                            "",
+                            "<!-- id: s8-01-0001 -->",
+                            "",
+                            "Premier paragraphe.",
+                            "",
+                            "<!-- id: s8-01-0002 -->",
+                            "",
+                            "Deuxième paragraphe.",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+                (seminar / "translation" / "Leçon-01.md").write_text(
+                    "\n".join(
+                        [
+                            "# Leçon 01",
+                            "",
+                            "<!-- id: s8-01-0001 -->",
+                            "",
+                            "第一段译文。",
+                            "",
+                            "> <!-- 建言 -->",
+                            "> 第一段建言。",
+                            "",
+                            "<!-- id: s8-01-0002 -->",
+                            "",
+                            "第二段译文。",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+                (seminar / "notes" / "material.md").write_text(
+                    "\n".join(
+                        [
+                            "---",
+                            "title: 阅读材料",
+                            "segments:",
+                            "  - s8-01-0001",
+                            "---",
+                            "# 阅读材料",
+                            "",
+                            "笔记正文。",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+
+                build_from_texts.KNOWLEDGE_DIR.mkdir()
+                (build_from_texts.KNOWLEDGE_DIR / "README.md").write_text(
+                    "---\ntitle: 项目知识库\ntype: index\n---\n\n# 项目知识库\n",
+                    encoding="utf-8",
+                )
+                (build_from_texts.KNOWLEDGE_DIR / "对象 a.md").write_text(
+                    "\n".join(
+                        [
+                            "---",
+                            "title: 对象 a",
+                            "type: knowledge-card",
+                            "verification: 已核实",
+                            "tags:",
+                            "  - 研讨班VIII",
+                            "  - 领域/精神分析",
+                            "  - 概念/对象a",
+                            "verified_at: 2026-07-30",
+                            "---",
+                            "",
+                            "对象 a 的知识卡正文。",
+                            "",
+                            "## 来源",
+                            "",
+                            "- [[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0002|仅作为来源出现的第二段]]",
+                            "",
+                            "## 关联",
+                            "",
+                            "[[texts/s8-le-transfert/translation/Leçon-01.md#s8-01-0001|s8-01-0001]]",
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+
+                with patch.object(
+                    sys,
+                    "argv",
+                    [str(SCRIPT_PATH), "--seminar", slug],
+                ):
+                    build_from_texts.main()
+
+                lesson = (
+                    build_from_texts.BUILD_DIR / slug / "Leçon-01.md"
+                ).read_text(encoding="utf-8")
+                knowledge_page_path = (
+                    build_from_texts.BUILD_DIR / "知识库" / "对象 a.md"
+                )
+                self.assertTrue(knowledge_page_path.exists())
+                knowledge_page = knowledge_page_path.read_text(encoding="utf-8")
+                summary = (build_from_texts.BUILD_DIR / "SUMMARY.md").read_text(
+                    encoding="utf-8"
+                )
+
+                first_segment = lesson[
+                    lesson.index('id="s8-01-0001"') : lesson.index(
+                        'id="s8-01-0002"'
+                    )
+                ]
+                second_segment = lesson[lesson.index('id="s8-01-0002"') :]
+                self.assertIn('class="reading-note-links"', first_segment)
+                self.assertIn(
+                    'class="reading-note-links knowledge-card-links"',
+                    first_segment,
+                )
+                self.assertIn(
+                    '<span class="reading-note-links-title">知识库</span>',
+                    first_segment,
+                )
+                self.assertIn(
+                    '<a href="../知识库/对象%20a.md">对象 a</a>',
+                    first_segment,
+                )
+                self.assertLess(
+                    first_segment.index('class="commentary-block"'),
+                    first_segment.index('aria-label="相关阅读笔记"'),
+                )
+                self.assertLess(
+                    first_segment.index('aria-label="相关阅读笔记"'),
+                    first_segment.index('aria-label="相关知识库"'),
+                )
+                self.assertNotIn("knowledge-card-links", second_segment)
+
+                self.assertTrue(knowledge_page.startswith("# 对象 a\n"))
+                self.assertNotIn("type: knowledge-card", knowledge_page)
+                self.assertIn(
+                    "[s8-01-0001](../s8-le-transfert/Leçon-01.md#s8-01-0001)",
+                    knowledge_page,
+                )
+                self.assertIn("- [知识库](知识库/README.md)", summary)
+                self.assertIn("  - [对象 a](知识库/对象%20a.md)", summary)
+                self.assertEqual(summary.count("(知识库/README.md)"), 1)
+            finally:
+                build_from_texts.TEXTS_DIR = old_texts_dir
+                build_from_texts.TEXTS_INDEX = old_texts_index
+                build_from_texts.BUILD_DIR = old_build_dir
+                if had_knowledge_dir:
+                    build_from_texts.KNOWLEDGE_DIR = old_knowledge_dir
+                else:
+                    del build_from_texts.KNOWLEDGE_DIR
 
 
 if __name__ == "__main__":

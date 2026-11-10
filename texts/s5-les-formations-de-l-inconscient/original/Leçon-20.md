@@ -107,11 +107,11 @@ C’est ce que l’expérience de l’enfant montre également, mais les deux mo
 
 <!-- id: s5-20-0021 -->
 
-> celle qui se passe ici sur *le plan imagi­naire*, et celle qui appartient à *l’ordre symbolique*, c’est-à-dire la première
->
-> que je viens de rappeler, celle par quoi le désir fonde dans la parole de l’Autre
-> …les deux limites, les deux modes de franchissement qui font que le sujet s’aliène, ne se confondent pas.
-> Et c’est dans leur discordance que s’établit une première possibilité - comme l’expé­rience le montre -
+celle qui se passe ici sur *le plan imagi­naire*, et celle qui appartient à *l’ordre symbolique*, c’est-à-dire la première
+
+que je viens de rappeler, celle par quoi le désir fonde dans la parole de l’Autre
+…les deux limites, les deux modes de franchissement qui font que le sujet s’aliène, ne se confondent pas.
+Et c’est dans leur discordance que s’établit une première possibilité - comme l’expé­rience le montre -
 
 <!-- id: s5-20-0022 -->
 
@@ -257,13 +257,17 @@ C’est celui que nous appellerons « *Le rêve de la belle bouchère* ». Voici
 
 <!-- id: s5-20-0053 -->
 
-> « *Je veux donner un dîner, mais je n’ai pour toutes provisions qu’un peu de saumon fumé.*
->
-> *Je voudrais aller faire des achats, mais je me rappelle que c’est dimanche après-midi et que toutes les boutiques sont fermées.*
->
-> *Je veux téléphoner à quelques four­nisseurs, mais le téléphone est détraqué. Je dois donc renoncer au désir de donner un dîner.* »
->
-> \[« *Ich will ein Souper geben, habe aber nichts vor­rätig als etwas geräucherten Lachs. Ich denke daran, einkaufen zu gehen, erinnere mich aber, daß es Sonn­tag Nachmittag ist, wo alle Läden gesperrt sind. Ich will nun einigen Lieferanten telephonieren, aber das Telephon ist gestört. So muß ich auf den Wunsch, ein Souper zu geben, verzichten.* »\]
+<div class="text-quotation">
+
+« *Je veux donner un dîner, mais je n’ai pour toutes provisions qu’un peu de saumon fumé.*
+
+*Je voudrais aller faire des achats, mais je me rappelle que c’est dimanche après-midi et que toutes les boutiques sont fermées.*
+
+*Je veux téléphoner à quelques four­nisseurs, mais le téléphone est détraqué. Je dois donc renoncer au désir de donner un dîner.* »
+
+\[« *Ich will ein Souper geben, habe aber nichts vor­rätig als etwas geräucherten Lachs. Ich denke daran, einkaufen zu gehen, erinnere mich aber, daß es Sonn­tag Nachmittag ist, wo alle Läden gesperrt sind. Ich will nun einigen Lieferanten telephonieren, aber das Telephon ist gestört. So muß ich auf den Wunsch, ein Souper zu geben, verzichten.* »\]
+
+</div>
 
 <!-- id: s5-20-0054 -->
 
@@ -308,11 +312,11 @@ patiente. \[*Aus welchem Material ist aber dieser Traum hervorgegangen? Sie wiss
 
 <!-- id: s5-20-0060 -->
 
-> \[*Analyse : Der Mann der Patientin, ein biederer und tüchtiger Großfleischhauer, hat ihr Tags vorher erklärt, er werde zu dick und wolle darum eine Entfettungskur beginnen. Er werde früh aufstehen, Bewegung machen, strenge Diät halten und vor allem keine Ein­ladungen*
->
-> *zu Soupers mehr annehmen. Von dem Manne erzählt sie lachend weiter, er habe am Stammtisch die Bekanntschaft eines Malers gemacht, der ihn durchaus abkonterfeien wolle, weil er einen so ausdrucksvollen Kopf noch nicht gefunden habe. Ihr Mann habe aber in seiner derben Manier erwidert, er bedanke sich schön und er sei ganz überzeugt, ein Stück vom Hintern eines schönen jungen Mädchens sei dem Maler lieber als sein ganzes Gesicht. Sie sei jetzt sehr verliebt in ihren Mann und necke sich mit ihm herum. Sie hat ihn auch gebeten, ihr keinen Kaviar zu schenken. - Was soll das heißen? Sie wünscht es sich nämlich schon lange, jeden Vormittag eine Kaviarsemmel essen zu können, gönnt sich aber die Ausgabe nicht. Natürlich bekäme sie den Kaviar sofort von ihrem Manne, wenn sie ihn darum bitten würde.*
->
-> *Aber sie hat ihn im Gegenteil gebeten, ihr keinen Kaviar zu schenken, damit sie ihn länger damit necken kann.*\]
+\[*Analyse : Der Mann der Patientin, ein biederer und tüchtiger Großfleischhauer, hat ihr Tags vorher erklärt, er werde zu dick und wolle darum eine Entfettungskur beginnen. Er werde früh aufstehen, Bewegung machen, strenge Diät halten und vor allem keine Ein­ladungen*
+
+*zu Soupers mehr annehmen. Von dem Manne erzählt sie lachend weiter, er habe am Stammtisch die Bekanntschaft eines Malers gemacht, der ihn durchaus abkonterfeien wolle, weil er einen so ausdrucksvollen Kopf noch nicht gefunden habe. Ihr Mann habe aber in seiner derben Manier erwidert, er bedanke sich schön und er sei ganz überzeugt, ein Stück vom Hintern eines schönen jungen Mädchens sei dem Maler lieber als sein ganzes Gesicht. Sie sei jetzt sehr verliebt in ihren Mann und necke sich mit ihm herum. Sie hat ihn auch gebeten, ihr keinen Kaviar zu schenken. - Was soll das heißen? Sie wünscht es sich nämlich schon lange, jeden Vormittag eine Kaviarsemmel essen zu können, gönnt sich aber die Ausgabe nicht. Natürlich bekäme sie den Kaviar sofort von ihrem Manne, wenn sie ihn darum bitten würde.*
+
+*Aber sie hat ihn im Gegenteil gebeten, ihr keinen Kaviar zu schenken, damit sie ihn länger damit necken kann.*\]
 
 <!-- id: s5-20-0061 -->
 
@@ -320,17 +324,17 @@ Ici une parenthèse de FREUD :
 
 <!-- id: s5-20-0062 -->
 
-> (« *Cela me paraît tiré par les cheveux, ces sortes de renseignements insuffisants qui cachent pour l’ordinaire des motifs que l’on n’exprime pas. Songeons à la manière dont les hypnotisés de Bernheim accomplissant une mission post-hypnotique l’ex­pliquent, quand on leur en demande la raison, par un motif visiblement insuffisant au lieu de répondre : « Je ne sais pas pourquoi*
->
-> *j’ai fait cela. » Le caviar sera un motif de ce genre. Je remarque qu’elle est obligée de se créer un désir insatisfait.*
->
-> *Son rêve lui montre « cette dilation », cet ajournement de son désir, cet écartement de son désir comme réellement accompli.*
->
-> *Mais pourquoi lui fallait-il un désir insatisfait ?* »)
->
-> \[(*Diese Begründung scheint mir fadenscheinig. Hinter solchen unbefriedigenden Auskünften pflegen sich uneingestandene Motive zu verbergen. Man denke an die Hypnotisierten Bernheims, die einen posthypnotischen Auftrag ausführen, und nach ihren Motiven be-Iragti nicht etwa antworten: Ich weiß nicht, warum ich das getan habe, sondern eine offenbar unzureichende Begründung erfinden müssen.*
->
-> *So ähnlich wird es wohl mit dem Kaviar meiner Patientin sein. Ich merke, sie ist genötigt, sich im Leben einen unerfüllten Wunsch zu schaffen. Ihr Traum zeigt ihr auch die Wunsch Verweigerung als eingetroffen. Wozu braucht sie aber einen unerfüllten Wunsch ?*)\]
+(« *Cela me paraît tiré par les cheveux, ces sortes de renseignements insuffisants qui cachent pour l’ordinaire des motifs que l’on n’exprime pas. Songeons à la manière dont les hypnotisés de Bernheim accomplissant une mission post-hypnotique l’ex­pliquent, quand on leur en demande la raison, par un motif visiblement insuffisant au lieu de répondre : « Je ne sais pas pourquoi*
+
+*j’ai fait cela. » Le caviar sera un motif de ce genre. Je remarque qu’elle est obligée de se créer un désir insatisfait.*
+
+*Son rêve lui montre « cette dilation », cet ajournement de son désir, cet écartement de son désir comme réellement accompli.*
+
+*Mais pourquoi lui fallait-il un désir insatisfait ?* »)
+
+\[(*Diese Begründung scheint mir fadenscheinig. Hinter solchen unbefriedigenden Auskünften pflegen sich uneingestandene Motive zu verbergen. Man denke an die Hypnotisierten Bernheims, die einen posthypnotischen Auftrag ausführen, und nach ihren Motiven be-Iragti nicht etwa antworten: Ich weiß nicht, warum ich das getan habe, sondern eine offenbar unzureichende Begründung erfinden müssen.*
+
+*So ähnlich wird es wohl mit dem Kaviar meiner Patientin sein. Ich merke, sie ist genötigt, sich im Leben einen unerfüllten Wunsch zu schaffen. Ihr Traum zeigt ihr auch die Wunsch Verweigerung als eingetroffen. Wozu braucht sie aber einen unerfüllten Wunsch ?*)\]
 
 <!-- id: s5-20-0063 -->
 
@@ -338,13 +342,17 @@ La remarque est de FREUD et entre parenthèses.
 
 <!-- id: s5-20-0064 -->
 
-> « *Ce qui lui est venu à l’esprit jusqu’à présent n’a pu servir à interpréter le rêve. J’insiste. Au bout d’un moment, comme il convient lorsqu’on doit surmonter une résistance, elle me dit qu’elle a rendu visite hier à une de ses amies; elle en est fort jalouse parce que son mari en dit toujours beaucoup de bien. Fort heureusement, l’amie est mince et maigre, et son mari aime les formes pleines. De quoi parlait donc cette personne maigre ? Naturellement de son désir d’engraisser. Elle lui a aussi demandé :*
->
-> *« Quand nous inviterez-vous à nouveau ? On mange toujours si bien chez vous ». Le sens du rêve est clair maintenant. Je peux dire*
->
-> *à ma malade : « c’est exactement comme si vous lui aviez répondu mentalement : oui da ! je vais t’inviter pour que tu manges bien, que tu engraisses et que tu plaises plus encore à mon mari ! J’aimerais mieux ne plus donner de dîner de ma vie ! » Le rêve vous dit que vous ne pourrez pas donner de dîner, il accomplit ainsi votre vœu de ne point contribuer à rendre plus belle votre amie. La résolution prise de ne plus prendre d’invitation à dîner parce qu’on vous a dit que les dîners dans le monde font engraisser. Il ne manquera plus qu’une concor­dance qui confirmera la solution. On ne sait encore à quoi le saumon fumé répond dans le rêve. D’où vient que vous évoquez dans le rêve le saumon fumé ? C’est -* répond-elle *- le plat de prédilection de mon amie. Par hasard, je connais aussi cette dame et je sais qu’elle a vis-à-vis du saumon fumé la même conduite que ma malade à l’égard du caviar. *»
->
-> \[*Die bisherigen Einfälle haben zur Deutung des Traumes nicht ausgereicht. Ich dringe nach weiteren. Nach einer kurzen Pause, wie ßie eben der Überwindung des Widerstandes entspricht, berichtet sie ferner, daß sie gestern einen Besuch bei einer Freundin gemacht, auf die sie eigentlich eifersüchtig ist, weil ihr Mann diese Frau immer so lobt. Zum Glück ist diese Freundin sehr dürr und mager, und ihr Mann ist ein Liebhaber voller Korperformen. Wovon sprach nun diese magere Freundin? Natürlich von ihrem Wunsche, etwas stärker zu werden. Sie fragte sie auch :* « *Wann laden Sie uns wie­der einmal ein? Man ißt immer so gut bei Ihnen.* » *Nun ist der Sinn des Traumes klar. Ich kann der Patientin sagen:* « *Es ist gerade so, als ob Sie sich bei der Aufforderung gedadiÜ hätten: Dich werde ich natürlich einladen, damit du dich bei mir anessen, dick werden und meinem Manne noch besser gefallen kannst. Lieber geb’ ich kein Souper mehr. Der Traum sagt Ihnen dann, daß Sie kein Souper geben können, erfüllt also Ihren Wunsch, zur Ab-rundung der Körperformen Ihrer Freundin nichts beizutragen. Daß man von den Dingen, die man in Gcsellschaften vorgesetzt bekommt, dick wird, lehrt Sie ja der Vorsatz Ihres Mannes, im Interesse seiner Entfettung Soupereinladungen nicht mehr anzunehmen.* » *Es fehlt jetzt nur noch irgend ein Zusammentreffen, welches die Lö­sung bestätigt. Es ist auch der geräucherte Lachs im Trauminhalt noch nicht abgeleitet. „Wie kommen Sip zu dem im Traume erwähn­ten Lachs?" „Geräucherter Lachs ist die Lieblingsspeise dieser Freun­din," antwortet sie. Zufällig kenne ich die Dame auch und kann be­stätigen, daß sie sich den Lachs ebensowenig vergönnt wie meine Patientin den Kaviar.*\]
+<div class="text-quotation">
+
+« *Ce qui lui est venu à l’esprit jusqu’à présent n’a pu servir à interpréter le rêve. J’insiste. Au bout d’un moment, comme il convient lorsqu’on doit surmonter une résistance, elle me dit qu’elle a rendu visite hier à une de ses amies; elle en est fort jalouse parce que son mari en dit toujours beaucoup de bien. Fort heureusement, l’amie est mince et maigre, et son mari aime les formes pleines. De quoi parlait donc cette personne maigre ? Naturellement de son désir d’engraisser. Elle lui a aussi demandé :*
+
+*« Quand nous inviterez-vous à nouveau ? On mange toujours si bien chez vous ». Le sens du rêve est clair maintenant. Je peux dire*
+
+*à ma malade : « c’est exactement comme si vous lui aviez répondu mentalement : oui da ! je vais t’inviter pour que tu manges bien, que tu engraisses et que tu plaises plus encore à mon mari ! J’aimerais mieux ne plus donner de dîner de ma vie ! » Le rêve vous dit que vous ne pourrez pas donner de dîner, il accomplit ainsi votre vœu de ne point contribuer à rendre plus belle votre amie. La résolution prise de ne plus prendre d’invitation à dîner parce qu’on vous a dit que les dîners dans le monde font engraisser. Il ne manquera plus qu’une concor­dance qui confirmera la solution. On ne sait encore à quoi le saumon fumé répond dans le rêve. D’où vient que vous évoquez dans le rêve le saumon fumé ? C’est -* répond-elle *- le plat de prédilection de mon amie. Par hasard, je connais aussi cette dame et je sais qu’elle a vis-à-vis du saumon fumé la même conduite que ma malade à l’égard du caviar. *»
+
+\[*Die bisherigen Einfälle haben zur Deutung des Traumes nicht ausgereicht. Ich dringe nach weiteren. Nach einer kurzen Pause, wie ßie eben der Überwindung des Widerstandes entspricht, berichtet sie ferner, daß sie gestern einen Besuch bei einer Freundin gemacht, auf die sie eigentlich eifersüchtig ist, weil ihr Mann diese Frau immer so lobt. Zum Glück ist diese Freundin sehr dürr und mager, und ihr Mann ist ein Liebhaber voller Korperformen. Wovon sprach nun diese magere Freundin? Natürlich von ihrem Wunsche, etwas stärker zu werden. Sie fragte sie auch :* « *Wann laden Sie uns wie­der einmal ein? Man ißt immer so gut bei Ihnen.* » *Nun ist der Sinn des Traumes klar. Ich kann der Patientin sagen:* « *Es ist gerade so, als ob Sie sich bei der Aufforderung gedadiÜ hätten: Dich werde ich natürlich einladen, damit du dich bei mir anessen, dick werden und meinem Manne noch besser gefallen kannst. Lieber geb’ ich kein Souper mehr. Der Traum sagt Ihnen dann, daß Sie kein Souper geben können, erfüllt also Ihren Wunsch, zur Ab-rundung der Körperformen Ihrer Freundin nichts beizutragen. Daß man von den Dingen, die man in Gcsellschaften vorgesetzt bekommt, dick wird, lehrt Sie ja der Vorsatz Ihres Mannes, im Interesse seiner Entfettung Soupereinladungen nicht mehr anzunehmen.* » *Es fehlt jetzt nur noch irgend ein Zusammentreffen, welches die Lö­sung bestätigt. Es ist auch der geräucherte Lachs im Trauminhalt noch nicht abgeleitet. „Wie kommen Sip zu dem im Traume erwähn­ten Lachs?" „Geräucherter Lachs ist die Lieblingsspeise dieser Freun­din," antwortet sie. Zufällig kenne ich die Dame auch und kann be­stätigen, daß sie sich den Lachs ebensowenig vergönnt wie meine Patientin den Kaviar.*\]
+
+</div>
 
 <!-- id: s5-20-0065 -->
 
@@ -353,9 +361,13 @@ dans la dialectique de l’*identification*. C’est à ce propos qu’il fait *
 
 <!-- id: s5-20-0066 -->
 
-> « *Elle s’est identifiée à son amie. C’est en signe de cette identification, c’est-à-dire pour autant qu’elle s’identifie à l’autre, qu’elle s’est donnée dans la vie réelle un souhait non réalisé.* »\[*Der Traum erhält eine neue Deutung, wenn sie im Traume nicht sich, sondern die Freundin meint, wenn sie sich an Stelle der Freundin gesetzt oder, wie wir sagen können, sich mit ihr identifiziert hat.*
->
-> *Ich meine, dies hat sie wirklich getan, und als Anzeichen dieser Identifizierung hat sie sich den versagten Wunsch im Realen ge­schaffen.*\]
+<div class="text-quotation">
+
+« *Elle s’est identifiée à son amie. C’est en signe de cette identification, c’est-à-dire pour autant qu’elle s’identifie à l’autre, qu’elle s’est donnée dans la vie réelle un souhait non réalisé.* »\[*Der Traum erhält eine neue Deutung, wenn sie im Traume nicht sich, sondern die Freundin meint, wenn sie sich an Stelle der Freundin gesetzt oder, wie wir sagen können, sich mit ihr identifiziert hat.*
+
+*Ich meine, dies hat sie wirklich getan, und als Anzeichen dieser Identifizierung hat sie sich den versagten Wunsch im Realen ge­schaffen.*\]
+
+</div>
 
 <!-- id: s5-20-0067 -->
 

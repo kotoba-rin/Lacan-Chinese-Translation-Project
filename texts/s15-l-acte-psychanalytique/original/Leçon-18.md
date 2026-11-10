@@ -66,7 +66,7 @@ En tout cas la question…
 
 <!-- id: s15-18-0016 -->
 
-> et c’est pour ça qu’aujourd’hui j’ai voulu vous adresser quelques mots …est justement de savoir si j’ai raison de trouver là comme une espèce de petite balance ou compensation, de me sentir en quelque sorte un tout petit peu allégé de ma propre charge.
+et c’est pour ça qu’aujourd’hui j’ai voulu vous adresser quelques mots …est justement de savoir si j’ai raison de trouver là comme une espèce de petite balance ou compensation, de me sentir en quelque sorte un tout petit peu allégé de ma propre charge.
 
 <!-- id: s15-18-0017 -->
 
@@ -74,15 +74,15 @@ Car enfin, si c’est à propos de la psychanalyse, ou plus exactement sur le su
 
 <!-- id: s15-18-0018 -->
 
-> ou si vous voulez une bulle, quelque chose de singulier, de pas repéré jusqu’alors …dans ce à quoi il n’est pas facile de donner une étiquette de nos jours…
+ou si vous voulez une bulle, quelque chose de singulier, de pas repéré jusqu’alors …dans ce à quoi il n’est pas facile de donner une étiquette de nos jours…
 
 <!-- id: s15-18-0019 -->
 
-> étant donné qu’il y a un certain nombre de termes traditionnels qui s’en vont un tout petit peu à vau-l’eau : l’homme, la connaissance, la *connessence*, comme vous voudrez, ce n’est pas tout à fait de ça qu’il s’agit …ce certain nœud dont là-bas au crayon rouge j’ai pu aussi sur cette espèce de nœud-bulle…
+étant donné qu’il y a un certain nombre de termes traditionnels qui s’en vont un tout petit peu à vau-l’eau : l’homme, la connaissance, la *connessence*, comme vous voudrez, ce n’est pas tout à fait de ça qu’il s’agit …ce certain nœud dont là-bas au crayon rouge j’ai pu aussi sur cette espèce de nœud-bulle…
 
 <!-- id: s15-18-0020 -->
 
-> que vous connaissez bien, c’est le fameux huit intérieur que j’ai fomenté déjà depuis quelque *huit ans* … inscrire  ces termes : *savoir, vérité, sujet, et le rapport à l’Autre,* voilà.
+que vous connaissez bien, c’est le fameux huit intérieur que j’ai fomenté déjà depuis quelque *huit ans* … inscrire  ces termes : *savoir, vérité, sujet, et le rapport à l’Autre,* voilà.
 
 <!-- id: s15-18-0021 -->
 
@@ -122,9 +122,9 @@ Quand *le Doyen de la Faculté de Rome, accompagné d’un représentant éminen
 
 <!-- id: s15-18-0030 -->
 
-> parce qu’il y a des assemblées générales aussi là-bas, où on leur parle,
->
-> on est pour le dialogue, du côté bien entendu où ça sert …alors les *Uccelli* viennent avec un de ces grands machins comme il y en a, quand on va dans des restaurants à la campagne, au centre d’une table ronde, c’est un énorme parapluie, ils se mettent tous dessous, à l’abri, disent-ils, du langage !
+parce qu’il y a des assemblées générales aussi là-bas, où on leur parle,
+
+on est pour le dialogue, du côté bien entendu où ça sert …alors les *Uccelli* viennent avec un de ces grands machins comme il y en a, quand on va dans des restaurants à la campagne, au centre d’une table ronde, c’est un énorme parapluie, ils se mettent tous dessous, à l’abri, disent-ils, du langage !
 
 <!-- id: s15-18-0031 -->
 
@@ -144,9 +144,9 @@ Donc cette année, à propos de *l’acte psychanalytique*, j’en étais au mom
 
 <!-- id: s15-18-0035 -->
 
-> et ceci justement quand on est psychanalyste, non pas qu’on soit le seul
->
-> mais qu’on soit particulièrement bien placé pour en connaître la radicale division …en d’autres termes cette position inaugurale à *l’acte psychanalytique* qui consiste à jouer sur quelque chose que votre acte va démentir.
+et ceci justement quand on est psychanalyste, non pas qu’on soit le seul
+
+mais qu’on soit particulièrement bien placé pour en connaître la radicale division …en d’autres termes cette position inaugurale à *l’acte psychanalytique* qui consiste à jouer sur quelque chose que votre acte va démentir.
 
 <!-- id: s15-18-0036 -->
 
@@ -166,9 +166,9 @@ Il y en avait d’autres que je ne peux même pas indiquer. Assurément, une des
 
 <!-- id: s15-18-0040 -->
 
-> au cours d’une expérience d’enseignement sur lequel vous pourrez bien me permettre
->
-> de jeter aujourd’hui un regard en arrière, et ceci justement dans ce tournant …c’est *la violence des choses* que j’ai pu me permettre de dire.
+au cours d’une expérience d’enseignement sur lequel vous pourrez bien me permettre
+
+de jeter aujourd’hui un regard en arrière, et ceci justement dans ce tournant …c’est *la violence des choses* que j’ai pu me permettre de dire.
 
 <!-- id: s15-18-0041 -->
 
@@ -208,7 +208,7 @@ Mais ça ne veut pas dire que la psychanalyse telle qu’elle est enseignée *l�
 
 <!-- id: s15-18-0050 -->
 
-> on vous parle de *la libido* comme de quelque chose qui passe dans les vases communicants, comme s’exprimait, au début du temps où j’ai commencé à essayer de changer un peu ça, un personnage absolument incroyable : une hydraulique libidinale …enseigner la psychanalyse comme on l’enseigne, disons le mot : *à l’Institut*, ça serait formidable, surtout à l’époque où nous vivons, où quand même les *« enseignés »*, comme on dit, *se mettent à avoir quelque exigence*. Je trouve ça merveilleux.
+on vous parle de *la libido* comme de quelque chose qui passe dans les vases communicants, comme s’exprimait, au début du temps où j’ai commencé à essayer de changer un peu ça, un personnage absolument incroyable : une hydraulique libidinale …enseigner la psychanalyse comme on l’enseigne, disons le mot : *à l’Institut*, ça serait formidable, surtout à l’époque où nous vivons, où quand même les *« enseignés »*, comme on dit, *se mettent à avoir quelque exigence*. Je trouve ça merveilleux.
 
 <!-- id: s15-18-0051 -->
 
@@ -220,7 +220,7 @@ Mais faudrait-il encore qu’il le puisse, parce qu’il y a un certain article 
 
 <!-- id: s15-18-0053 -->
 
-> je regrette de le dire, ça va encore *choquer* quelques-uns de *mes plus proches* et plus chers *collègues* …ça n’a été qu’une longue petite fusée de rires chez ces damnés normaliens, comme par hasard.
+je regrette de le dire, ça va encore *choquer* quelques-uns de *mes plus proches* et plus chers *collègues* …ça n’a été qu’une longue petite fusée de rires chez ces damnés normaliens, comme par hasard.
 
 <!-- id: s15-18-0054 -->
 
@@ -308,11 +308,15 @@ Il y a un mot que j’ai fait rentrer ici il y a quelques années dans cette dia
 
 <!-- id: s15-18-0074 -->
 
-> et comme en porte *la marque parfaitement logicisée* l’article qui s’appelle dans mes *Écrits *: *La vérité et la science* [^119] …j’avais donné à ce mot une autre fonction, dans un article qui s’appelle *La chose freudienne*[^120], où on peut lire ces termes :
+et comme en porte *la marque parfaitement logicisée* l’article qui s’appelle dans mes *Écrits *: *La vérité et la science* [^119] …j’avais donné à ce mot une autre fonction, dans un article qui s’appelle *La chose freudienne*[^120], où on peut lire ces termes :
 
 <!-- id: s15-18-0075 -->
 
-> « *Moi la vérité, je parle.* » \[p.409\].
+<div class="text-quotation">
+
+« *Moi la vérité, je parle.* » \[p.409\].
+
+</div>
 
 <!-- id: s15-18-0076 -->
 
@@ -424,11 +428,19 @@ Pendant un temps cet Autre qui était philosophe, a forgé, lui, le *sujet suppo
 
 <!-- id: s15-18-0103 -->
 
-> « *Je dis : noir n’est pas blanc.* » par exemple.
+<div class="text-quotation">
+
+« *Je dis : noir n’est pas blanc.* » par exemple.
+
+</div>
 
 <!-- id: s15-18-0104 -->
 
-> « *Je dis : ou c’est vrai ou c’est faux.* »
+<div class="text-quotation">
+
+« *Je dis : ou c’est vrai ou c’est faux.* »
+
+</div>
 
 <!-- id: s15-18-0105 -->
 
@@ -440,7 +452,7 @@ Chose étrange, c’est de ce qui s’est purifié de cette voie de l’isolemen
 
 <!-- id: s15-18-0107 -->
 
-> et Dieu sait qu’il peut s’en passer des choses, jusques et y compris la prière …qu’est sortie la science, le savoir. Non pas n’importe quel savoir, un savoir pur qui n’a rien à faire avec le *réel*, ni du même coup avec *la vérité*, car le savoir de la science est, par rapport au *réel*, ce qu’on appelle en logique le complément d’un langage.
+et Dieu sait qu’il peut s’en passer des choses, jusques et y compris la prière …qu’est sortie la science, le savoir. Non pas n’importe quel savoir, un savoir pur qui n’a rien à faire avec le *réel*, ni du même coup avec *la vérité*, car le savoir de la science est, par rapport au *réel*, ce qu’on appelle en logique le complément d’un langage.
 
 <!-- id: s15-18-0108 -->
 
@@ -452,7 +464,7 @@ Enfin la bulle a fait d’autres siennes depuis. Seulement il en reste un résid
 
 <!-- id: s15-18-0110 -->
 
-> c’est en ceci que nous sommes des témoins, nous, *psychanalystes* …que nous, *psychanalystes*, qui sommes capables de le lui dire, ce qu’il dit, nous sommes capables dans un petit nombre de cas, surtout s’ils y mettent énormément de bonne volonté, s’ils viennent chez nous énormément parler, il arrive ceci que nous leur interprétons quelque chose.
+c’est en ceci que nous sommes des témoins, nous, *psychanalystes* …que nous, *psychanalystes*, qui sommes capables de le lui dire, ce qu’il dit, nous sommes capables dans un petit nombre de cas, surtout s’ils y mettent énormément de bonne volonté, s’ils viennent chez nous énormément parler, il arrive ceci que nous leur interprétons quelque chose.
 
 <!-- id: s15-18-0111 -->
 
@@ -484,9 +496,9 @@ Ce vers quoi, je vous aurais menés cette année, si j’eus pu parler de l’ac
 
 <!-- id: s15-18-0118 -->
 
-> et c’est cela qui peut assurément donner un petit peu le frisson, mais nous n’en sommes pas à ça près
->
-> par le temps qui court …que c’est du *fantasme du psychanalyste* à savoir de ce qu’il y a de plus opaque, de plus fermé, de plus autiste dans sa parole que vient le choc d’où se dégèle chez l’analysant la parole, et où vient avec insistance se multiplier cette *fonction de répétition* où nous pouvons lui permettre de saisir ce savoir dont il est le jouet. Ainsi se confirme que *la vérité* se fait savoir par l’Autre.
+et c’est cela qui peut assurément donner un petit peu le frisson, mais nous n’en sommes pas à ça près
+
+par le temps qui court …que c’est du *fantasme du psychanalyste* à savoir de ce qu’il y a de plus opaque, de plus fermé, de plus autiste dans sa parole que vient le choc d’où se dégèle chez l’analysant la parole, et où vient avec insistance se multiplier cette *fonction de répétition* où nous pouvons lui permettre de saisir ce savoir dont il est le jouet. Ainsi se confirme que *la vérité* se fait savoir par l’Autre.
 
 <!-- id: s15-18-0119 -->
 
@@ -502,15 +514,15 @@ Et le nœud dont j’ai dessiné la courbe sur ce tableau, sous la forme de cett
 
 <!-- id: s15-18-0122 -->
 
-> et dont pour un rien vous verrez qu’elle pourrait se refermer de façon à n’apparaître plus
->
-> que comme un cercle, se souder dans sa duplicité de boucle …c’est ce que nous donne l’expérience, à savoir que le *sujet supposé savoir*…
+et dont pour un rien vous verrez qu’elle pourrait se refermer de façon à n’apparaître plus
+
+que comme un cercle, se souder dans sa duplicité de boucle …c’est ce que nous donne l’expérience, à savoir que le *sujet supposé savoir*…
 
 <!-- id: s15-18-0123 -->
 
-> là où il est vraiment, c’est-à-dire non pas nous, l’analyste,
->
-> mais en effet ce que nous supposons qu’il sait, ce sujet, ceci en tant qu’il est inconscient …se redouble avec ce sur quoi la pratique - cette pratique est un petit peu en rase-mottes - lui met en parallèle, à savoir ce « *sujet supposé demande* ». N’ai-je pas vu quelqu’un qui paraissait tout fier d’interroger un membre du *Mouvement du 22 mars* - ne le nommons pas - pour lui demander : « *Qu’est-ce que vous nous demandez, à nous, analystes ?* »
+là où il est vraiment, c’est-à-dire non pas nous, l’analyste,
+
+mais en effet ce que nous supposons qu’il sait, ce sujet, ceci en tant qu’il est inconscient …se redouble avec ce sur quoi la pratique - cette pratique est un petit peu en rase-mottes - lui met en parallèle, à savoir ce « *sujet supposé demande* ». N’ai-je pas vu quelqu’un qui paraissait tout fier d’interroger un membre du *Mouvement du 22 mars* - ne le nommons pas - pour lui demander : « *Qu’est-ce que vous nous demandez, à nous, analystes ?* »
 
 <!-- id: s15-18-0124 -->
 

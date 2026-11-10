@@ -34,10 +34,10 @@ La question n’est pas de savoir - elle serait tout au moins prématurée - « 
 
 <!-- id: s10-02-0007 -->
 
-> nous pouvons dire que jusqu’à un certain point, la seule existence d’un endroit comme ici et du rôle
->
-> que j’y joue depuis un certain temps, c’est une façon de trancher la question, bien ou mal, mais de la trancher
-> ...mais de savoir « *qu’est-ce que l’enseigner ?* »
+nous pouvons dire que jusqu’à un certain point, la seule existence d’un endroit comme ici et du rôle
+
+que j’y joue depuis un certain temps, c’est une façon de trancher la question, bien ou mal, mais de la trancher
+...mais de savoir « *qu’est-ce que l’enseigner ?* »
 
 <!-- id: s10-02-0008 -->
 
@@ -46,8 +46,8 @@ La question n’est pas de savoir - elle serait tout au moins prématurée - « 
 
 <!-- id: s10-02-0009 -->
 
-> il faut admettre que jusqu’à un certain point nous sommes tous ici logés à la même enseigne
-> ...*à qui* - étant donné ce dont il s’agit - *à qui ne peut pas savoir*.
+il faut admettre que jusqu’à un certain point nous sommes tous ici logés à la même enseigne
+...*à qui* - étant donné ce dont il s’agit - *à qui ne peut pas savoir*.
 
 <!-- id: s10-02-0010 -->
 
@@ -64,10 +64,10 @@ C’est tout de même dans la mesure où un savoir est, dans ce travail d’éla
 
 <!-- id: s10-02-0012 -->
 
-> que nous dirons *communautaire* plus que collective
-> ...de l’analyse, parmi ceux qui ont son expérience : les analystes, qu’un certain savoir est constitué,
-> par rapport auquel un certain travail de *rassemblement* est concevable,
-> qui justifie la place que peut prendre un enseignement comme celui qui est fait ici.
+que nous dirons *communautaire* plus que collective
+...de l’analyse, parmi ceux qui ont son expérience : les analystes, qu’un certain savoir est constitué,
+par rapport auquel un certain travail de *rassemblement* est concevable,
+qui justifie la place que peut prendre un enseignement comme celui qui est fait ici.
 
 <!-- id: s10-02-0013 -->
 
@@ -91,11 +91,11 @@ Du seul fait donc, que j’ai affaire à cette matière...
 
 <!-- id: s10-02-0017 -->
 
-> matière de mon audience, matière de mon *objet* d’enseignement
-> ...je serai amené à me référer à cette expérience commune qui est celle grâce à quoi s’établit toute communication enseignante,
-> à savoir à ne pas pouvoir rester dans la pure position que j’ai appelée tout à l’heure « *interprétante* »,
-> mais de passer à une position communicante plus large, à savoir à m’engager sur le terrain du « *faire comprendre* »,
-> à faire appel en vous à une expérience qui va bien au-delà de la stricte expérience analytique.
+matière de mon audience, matière de mon *objet* d’enseignement
+...je serai amené à me référer à cette expérience commune qui est celle grâce à quoi s’établit toute communication enseignante,
+à savoir à ne pas pouvoir rester dans la pure position que j’ai appelée tout à l’heure « *interprétante* »,
+mais de passer à une position communicante plus large, à savoir à m’engager sur le terrain du « *faire comprendre* »,
+à faire appel en vous à une expérience qui va bien au-delà de la stricte expérience analytique.
 
 <!-- id: s10-02-0018 -->
 
@@ -147,9 +147,9 @@ Et spécialement ceci, au moment où il s’agit - je lai introduit la dernière
 
 <!-- id: s10-02-0028 -->
 
-> c’est-à-dire en en faisant bien effectivement la somme
-> ...définir sous trois rubriques, celles du catalogue, à savoir - concernant l’affect - épuiser non seulement ce que ça veut dire,
-> mais ce qu’on a voulu dire, en en constituant la catégorie.
+c’est-à-dire en en faisant bien effectivement la somme
+...définir sous trois rubriques, celles du catalogue, à savoir - concernant l’affect - épuiser non seulement ce que ça veut dire,
+mais ce qu’on a voulu dire, en en constituant la catégorie.
 
 <!-- id: s10-02-0029 -->
 
@@ -174,8 +174,8 @@ Car à la vérité cette théorie ne serait-elle pas, au dernier terme, toute en
 
 <!-- id: s10-02-0033 -->
 
-> auquel, vous le savez, nous avons d’ores et déjà de grandes objections à faire
-> ...elle serait pour nous fort recevable. Nous verrons ce que nous pouvons en garder, ce que pour nous elle éclaire.
+auquel, vous le savez, nous avons d’ores et déjà de grandes objections à faire
+...elle serait pour nous fort recevable. Nous verrons ce que nous pouvons en garder, ce que pour nous elle éclaire.
 
 <!-- id: s10-02-0034 -->
 
@@ -185,7 +185,7 @@ Plus, *paradoxalement*, que ce que nous pouvons trouver dans les élaborations m
 
 <!-- id: s10-02-0035 -->
 
-> appelons les choses par leur nom : XIX<sup>ème</sup> siècle
+appelons les choses par leur nom : XIX<sup>ème</sup> siècle
 
 <!-- id: s10-02-0036 -->
 
@@ -198,11 +198,11 @@ Et l’expérience nous prouve que tout abandon trop grand dans cette direction 
 
 <!-- id: s10-02-0038 -->
 
-> et même si centralement nous le portions, par rapport à notre expérience,
->
-> à cette partie sur laquelle tout à l’heure, j’ai mis le trait, l’accent : de *la théorie*
-> ...qu’à des impasses manifestes, dont un très beau témoignage par exemple est donné par cet article, qui est celui du *tome* 34,
-> *du volume* 34*, troisième partie, de* 1953, de l’*International Journal* où M. David Rapaport [^16] *tente une « théorie psychanalytique de l’affect* ».
+et même si centralement nous le portions, par rapport à notre expérience,
+
+à cette partie sur laquelle tout à l’heure, j’ai mis le trait, l’accent : de *la théorie*
+...qu’à des impasses manifestes, dont un très beau témoignage par exemple est donné par cet article, qui est celui du *tome* 34,
+*du volume* 34*, troisième partie, de* 1953, de l’*International Journal* où M. David Rapaport [^16] *tente une « théorie psychanalytique de l’affect* ».
 
 <!-- id: s10-02-0039 -->
 
@@ -236,9 +236,9 @@ et que l’auteur dont il s’agit ne puisse pas nous en dire plus, est tout de 
 
 <!-- id: s10-02-0046 -->
 
-> je m’excuse de m’étendre aujourd’hui si longtemps sur *une question qui a pourtant un grand intérêt de préalable*, concernant l’opportunité de ce qu’ici nous faisons, et *ce n’est pas pour rien que je l’introduis*, vous le verrez, *concernant l’angoisse*
-> ...c’est la méthode que j’appellerai, en me servant d’un besoin de conso­nance avec le précédent terme,
-> la méthode de *« l’analogue* », qui nous mènerait à discerner ce qu’on peut appeler des « niveaux ».
+je m’excuse de m’étendre aujourd’hui si longtemps sur *une question qui a pourtant un grand intérêt de préalable*, concernant l’opportunité de ce qu’ici nous faisons, et *ce n’est pas pour rien que je l’introduis*, vous le verrez, *concernant l’angoisse*
+...c’est la méthode que j’appellerai, en me servant d’un besoin de conso­nance avec le précédent terme,
+la méthode de *« l’analogue* », qui nous mènerait à discerner ce qu’on peut appeler des « niveaux ».
 
 <!-- id: s10-02-0047 -->
 
@@ -256,9 +256,9 @@ Ce à quoi une telle méthode aboutit...
 
 <!-- id: s10-02-0050 -->
 
-> de quelque éclectisme qu’elle se marque
-> ...c’est toujours et nécessairement ce que nous, dans notre vocabulaire familier et sans faire de ce nom, ni de ce titre,
-> l’indice de quelqu’un qui aurait même occupé une position si éminen­te, c’est ce que nous appelons le « *jungisme ».*
+de quelque éclectisme qu’elle se marque
+...c’est toujours et nécessairement ce que nous, dans notre vocabulaire familier et sans faire de ce nom, ni de ce titre,
+l’indice de quelqu’un qui aurait même occupé une position si éminen­te, c’est ce que nous appelons le « *jungisme ».*
 
 <!-- id: s10-02-0051 -->
 
@@ -301,10 +301,10 @@ Pourquoi... pourquoi, depuis le temps qu’on fait de la science...
 
 <!-- id: s10-02-0058 -->
 
-> car ces réflexions por­tent sur bien autre chose et sur des champs bien plus vastes que celui de notre expérience
-> ...exige-t-on la plus grande simplicité possible ?
-> Pourquoi le réel serait-il simple ?
-> Qu’est-ce qui peut même nous permettre, un seul ins­tant, de le supposer?
+car ces réflexions por­tent sur bien autre chose et sur des champs bien plus vastes que celui de notre expérience
+...exige-t-on la plus grande simplicité possible ?
+Pourquoi le réel serait-il simple ?
+Qu’est-ce qui peut même nous permettre, un seul ins­tant, de le supposer?
 
 <!-- id: s10-02-0059 -->
 
@@ -326,10 +326,10 @@ qu’on y est déjà entré avant nous parce que d’ores et déjà c’est par 
 
 <!-- id: s10-02-0062 -->
 
-> qui depuis tout de même quelques siècles, dialoguent et ont à s’arranger comme ils peuvent
->
-> avec cette condition qu’ils soient justement, qu’il y ait entre eux et le *réel,* ce champ du signifiant
-> …c’est d’ores et déjà avec cet appa­reil du *trait unaire* qu’ils se sont constitués comme sujets. Comment serions-nous, *<u>nous</u>*, étonnés que nous en retrouvions la marque dans ce qui est notre champ, si notre champ est celui du sujet ?
+qui depuis tout de même quelques siècles, dialoguent et ont à s’arranger comme ils peuvent
+
+avec cette condition qu’ils soient justement, qu’il y ait entre eux et le *réel,* ce champ du signifiant
+…c’est d’ores et déjà avec cet appa­reil du *trait unaire* qu’ils se sont constitués comme sujets. Comment serions-nous, *<u>nous</u>*, étonnés que nous en retrouvions la marque dans ce qui est notre champ, si notre champ est celui du sujet ?
 
 <!-- id: s10-02-0063 -->
 
@@ -351,9 +351,9 @@ Cet Autre...
 
 <!-- id: s10-02-0066 -->
 
-> avant de savoir ce que ça veut dire *mon rapport avec son désir quand je suis dans l’angoisse*
-> ...cet Autre je le mets d’abord là. Pour nous rapprocher de son désir, je prendrai - mon Dieu - les voies que j’ai déjà frayées.
-> Je vous ai dit : « *Le désir de l’homme est le désir de l’Autre* ».
+avant de savoir ce que ça veut dire *mon rapport avec son désir quand je suis dans l’angoisse*
+...cet Autre je le mets d’abord là. Pour nous rapprocher de son désir, je prendrai - mon Dieu - les voies que j’ai déjà frayées.
+Je vous ai dit : « *Le désir de l’homme est le désir de l’Autre* ».
 
 <!-- id: s10-02-0067 -->
 
@@ -368,13 +368,13 @@ Sous la plume de quelqu’un[^17]...
 
 <!-- id: s10-02-0069 -->
 
-> qui est justement l’auteur de ce petit travail auquel j’ai fait allusion en commençant cette année d’enseignement,
->
-> la dernière fois, et qui m’avait été remis le matin même sur un sujet qui n’était rien d’autre que celui qu’aborde
->
-> Lévi-Strauss, celui de la mise en suspension de ce qu’on peut appeler « *raison dialectique* »
->
-> au niveau structuraliste où se place Lévi-Strauss[^18]
+qui est justement l’auteur de ce petit travail auquel j’ai fait allusion en commençant cette année d’enseignement,
+
+la dernière fois, et qui m’avait été remis le matin même sur un sujet qui n’était rien d’autre que celui qu’aborde
+
+Lévi-Strauss, celui de la mise en suspension de ce qu’on peut appeler « *raison dialectique* »
+
+au niveau structuraliste où se place Lévi-Strauss[^18]
 
 <!-- id: s10-02-0070 -->
 
@@ -439,18 +439,18 @@ Vais-je introduire maintenant les formules que je vous ai ici marquées à droit
 
 <!-- id: s10-02-0080 -->
 
-> 1\) *d(a)* : *d(*A*) \< a*
->
-> 2\) *d(a) \< i(a)* : *d(***A***)*
->
-> 3\) *d(x)* : *d(***A***) \< x*
->
-> 4\) *d*(0) *\<* 0 : *d(***A***)*
->
-> *d(a)* : 0 *\> d*(0*)*
-> dont je ne prétends pas, *loin de là*, étant donné ce que je vous ai dit tout d’abord, qu’elles vous livrent immédiatement *leurs malices*.
-> Je vous prie aujourd’hui, comme la dernière fois - c’est pour cela que cette année j’écris des choses au tableau :
-> c’est pour que vous les transcriviez. Vous en verrez après le fonctionnement.
+1\) *d(a)* : *d(*A*) \< a*
+
+2\) *d(a) \< i(a)* : *d(***A***)*
+
+3\) *d(x)* : *d(***A***) \< x*
+
+4\) *d*(0) *\<* 0 : *d(***A***)*
+
+*d(a)* : 0 *\> d*(0*)*
+dont je ne prétends pas, *loin de là*, étant donné ce que je vous ai dit tout d’abord, qu’elles vous livrent immédiatement *leurs malices*.
+Je vous prie aujourd’hui, comme la dernière fois - c’est pour cela que cette année j’écris des choses au tableau :
+c’est pour que vous les transcriviez. Vous en verrez après le fonctionnement.
 
 <!-- id: s10-02-0081 -->
 
@@ -497,8 +497,8 @@ Je dis donc que *ce désir est désir* en tant que son *image sup­port* est l�
 
 <!-- id: s10-02-0089 -->
 
-> c’est pour ça que les deux points \[ : \] qui étaient ici  \[1\] *d(a)* : *d(*A*) \< a,* sont là \[2\] *d(a) \< i(a)* : *d(***A***)*
-> ...est l’équivalent du *désir de l’Autre*. Mais là, *l’Autre est connoté* **A** parce que c’est l’Autre au point où *il se caractérise comme manque.*
+c’est pour ça que les deux points \[ : \] qui étaient ici  \[1\] *d(a)* : *d(*A*) \< a,* sont là \[2\] *d(a) \< i(a)* : *d(***A***)*
+...est l’équivalent du *désir de l’Autre*. Mais là, *l’Autre est connoté* **A** parce que c’est l’Autre au point où *il se caractérise comme manque.*
 
 <!-- id: s10-02-0090 -->
 
@@ -540,9 +540,9 @@ Sachez pourtant, d’ores et déjà, qu’elles sont faites l’une et l’autre
 
 <!-- id: s10-02-0099 -->
 
-> comme je l’ai plusieurs fois déjà indiqué en vous montrant la perversion qui résulte - et très loin, et jusque dans le domaine politique - de ce départ trop étroitement centré sur l’*imaginaire*. Car c’est très joli de dire que la servitu­de de l’esclave est grosse de tout l’avenir jusqu’au *Savoir Absolu,* mais politiquement ça veut dire que *jusqu’à la fin des temps* *l’esclave restera esclave*. C’est tout de même nécessaire qu’on mette de temps en temps les pieds dans le plat !
-> ...la vérité de la formule hégelienne existe pourtant, et c’est justement Kierkegaard qui la donne.
-> Ce n’est pas autre chose - je le commenterai, je pense, la prochaine fois - que veut dire ici la première ligne.
+comme je l’ai plusieurs fois déjà indiqué en vous montrant la perversion qui résulte - et très loin, et jusque dans le domaine politique - de ce départ trop étroitement centré sur l’*imaginaire*. Car c’est très joli de dire que la servitu­de de l’esclave est grosse de tout l’avenir jusqu’au *Savoir Absolu,* mais politiquement ça veut dire que *jusqu’à la fin des temps* *l’esclave restera esclave*. C’est tout de même nécessaire qu’on mette de temps en temps les pieds dans le plat !
+...la vérité de la formule hégelienne existe pourtant, et c’est justement Kierkegaard qui la donne.
+Ce n’est pas autre chose - je le commenterai, je pense, la prochaine fois - que veut dire ici la première ligne.
 
 <!-- id: s10-02-0100 -->
 
@@ -572,10 +572,10 @@ dans les deux formules :
 
 <!-- id: s10-02-0106 -->
 
-> Tiens, pendant que j’y pense - j’y ai pensé tout à l’heure en l’écrivant - ce que vous avez à lire 0, ce n’est pas O,
->
-> je vous le dis tout de suite pour ne pas vous tromper, *c’est zéro*, ça se lit zéro
-> … bon je reprends : c’est un *objet(a)* qui désire.
+Tiens, pendant que j’y pense - j’y ai pensé tout à l’heure en l’écrivant - ce que vous avez à lire 0, ce n’est pas O,
+
+je vous le dis tout de suite pour ne pas vous tromper, *c’est zéro*, ça se lit zéro
+… bon je reprends : c’est un *objet(a)* qui désire.
 
 <!-- id: s10-02-0107 -->
 
@@ -589,10 +589,10 @@ Et c’est ce en quoi ce que je produis devant vous a quelque chose de commun av
 
 <!-- id: s10-02-0109 -->
 
-> c’est une difficulté bien sûr, mais pas de nature à nous faire rebrousser chemin,
->
-> ni non plus à nous engager dans « *la lutte à mort »* avec l’Autre
-> ...à cause de l’existence de *l’inconscient*, nous pouvons être *cet objet* affecté du désir.
+c’est une difficulté bien sûr, mais pas de nature à nous faire rebrousser chemin,
+
+ni non plus à nous engager dans « *la lutte à mort »* avec l’Autre
+...à cause de l’existence de *l’inconscient*, nous pouvons être *cet objet* affecté du désir.
 
 <!-- id: s10-02-0110 -->
 
@@ -669,13 +669,13 @@ vous avez la clé de ceci, c’est que...
 
 <!-- id: s10-02-0123 -->
 
-> contrairement à l’*espoir* que vous pourrait donner la *perspective hégélienne*
-> *...*que le mode de la conquête de l’autre n’est pas celui...
+contrairement à l’*espoir* que vous pourrait donner la *perspective hégélienne*
+*...*que le mode de la conquête de l’autre n’est pas celui...
 
 <!-- id: s10-02-0124 -->
 
-> hélas, trop souvent adopté par un des partenaires
-> *...*« *Je t’aime, même si tu ne le veux pas* ».
+hélas, trop souvent adopté par un des partenaires
+*...*« *Je t’aime, même si tu ne le veux pas* ».
 
 <!-- id: s10-02-0125 -->
 
@@ -701,8 +701,8 @@ C’est-à-dire que par ce circuit où je suis obli­gé pour atteindre l’obje
 
 <!-- id: s10-02-0129 -->
 
-> *objet ici* - observez-le - *de mon amour*
-> ...tombera forcément dans mes rets.
+*objet ici* - observez-le - *de mon amour*
+...tombera forcément dans mes rets.
 
 <!-- id: s10-02-0130 -->
 

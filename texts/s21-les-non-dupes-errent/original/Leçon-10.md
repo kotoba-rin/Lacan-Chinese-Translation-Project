@@ -10,9 +10,9 @@ Quoi que je dise...
 
 <!-- id: s21-10-0002 -->
 
-> je dis « *je* » parce que je m’y suppose, à ce dire,
->
-> dont pourtant il y a de fait qu’il soit de ma voix ...quoi que je dise, ça va faire surgir deux versants : un bien et un mal.
+je dis « *je* » parce que je m’y suppose, à ce dire,
+
+dont pourtant il y a de fait qu’il soit de ma voix ...quoi que je dise, ça va faire surgir deux versants : un bien et un mal.
 
 <!-- id: s21-10-0003 -->
 
@@ -44,13 +44,13 @@ Si ce que j’ai la dernière fois avancé est vrai...
 
 <!-- id: s21-10-0010 -->
 
-> renseignez-vous auprès des mathématiciens ...c’est à savoir que ce nœud si simple, ce nœud à 3, l’*algorithme*...
+renseignez-vous auprès des mathématiciens ...c’est à savoir que ce nœud si simple, ce nœud à 3, l’*algorithme*...
 
 <!-- id: s21-10-0011 -->
 
-> à savoir ce qui permettrait d’y apporter ce à quoi le *Symbolique* aboutit,
->
-> à savoir la démonstration, l’articulation en termes de vérité ...si cet *algorithme*, nous en sommes réduits à y constater notre échec, notre échec à l’établir, à le manier.
+à savoir ce qui permettrait d’y apporter ce à quoi le *Symbolique* aboutit,
+
+à savoir la démonstration, l’articulation en termes de vérité ...si cet *algorithme*, nous en sommes réduits à y constater notre échec, notre échec à l’établir, à le manier.
 
 <!-- id: s21-10-0012 -->
 
@@ -58,7 +58,7 @@ D’où il résulte qu’au moins jus­qu’à nouvel ordre, ces nœuds...
 
 <!-- id: s21-10-0013 -->
 
-> ces nœuds dont je puis faire l’écriture, je vous l’ai fait la dernière fois, sous plus d’une forme ...vous en êtes réduits, sur la base de cette écriture, à l’imaginer dans l’espace.
+ces nœuds dont je puis faire l’écriture, je vous l’ai fait la dernière fois, sous plus d’une forme ...vous en êtes réduits, sur la base de cette écriture, à l’imaginer dans l’espace.
 
 <!-- id: s21-10-0014 -->
 
@@ -70,11 +70,11 @@ C’en est même au point que si ce que je peux faire sous sa forme la plus simp
 
 <!-- id: s21-10-0016 -->
 
-> de ces deux nœuds indépendants, qui fait ce nœud triple, que j’ap­pelle le nœud borroméen ...ceci qui ainsi représenté vous est imaginable dans l’espace, vous pouvez le voir...
+de ces deux nœuds indépendants, qui fait ce nœud triple, que j’ap­pelle le nœud borroméen ...ceci qui ainsi représenté vous est imaginable dans l’espace, vous pouvez le voir...
 
 <!-- id: s21-10-0017 -->
 
-> tout aussi bien que n’importe quelle autre façon que j’aurais eue d’écrire ce nœud ...vous pouvez constater que *c’est aussi une écriture*, à savoir :
+tout aussi bien que n’importe quelle autre façon que j’aurais eue d’écrire ce nœud ...vous pouvez constater que *c’est aussi une écriture*, à savoir :
 
 <!-- id: s21-10-0018 -->
 
@@ -110,7 +110,7 @@ Nous reglissons, avec l’antique χαλός ἀγαθός \[calós ágathós\] 
 
 <!-- id: s21-10-0026 -->
 
-> qui elle, s’avoue à cette date, à la date où c’était ainsi que les Grecs s’exprimaient ...et qu’en fin de compte ce qu’on retrouve toujours, c’est le titre de noblesse, l’ancien­neté de la famille, ce qui, comme vous le savez, est pour le généalogiste toujours trouvable pour n’importe quel imbécile et donc aussi pour n’importe quelle imbécilité.
+qui elle, s’avoue à cette date, à la date où c’était ainsi que les Grecs s’exprimaient ...et qu’en fin de compte ce qu’on retrouve toujours, c’est le titre de noblesse, l’ancien­neté de la famille, ce qui, comme vous le savez, est pour le généalogiste toujours trouvable pour n’importe quel imbécile et donc aussi pour n’importe quelle imbécilité.
 
 <!-- id: s21-10-0027 -->
 
@@ -130,7 +130,7 @@ Trop soucieux que je suis de celle...
 
 <!-- id: s21-10-0031 -->
 
-> de cette éthique nom­mément avec quoi je voudrais rompre ...celle du *Bien*, précisément.
+de cette éthique nom­mément avec quoi je voudrais rompre ...celle du *Bien*, précisément.
 
 <!-- id: s21-10-0032 -->
 
@@ -162,7 +162,7 @@ Ce n’est pas que le corps - le corps de l’être parlant - ait plus besoin du
 
 <!-- id: s21-10-0039 -->
 
-> sans que nous sachions d’ailleurs toujours en donner le signe ...que les autres animaux qui, eux, fonctionnent *avec* le sommeil.
+sans que nous sachions d’ailleurs toujours en donner le signe ...que les autres animaux qui, eux, fonctionnent *avec* le sommeil.
 
 <!-- id: s21-10-0040 -->
 
@@ -174,7 +174,7 @@ dont j’ai parlé pour l’identifier à l’ *Imaginaire* même ...ne prend ce
 
 <!-- id: s21-10-0042 -->
 
-> mais aussi bien vous pourriez là mettre n’importe quel autre couple des trois ...ne les noue *<u>que</u> de l’instance du* **3** en tant que je la fais celle du *Réel*.
+mais aussi bien vous pourriez là mettre n’importe quel autre couple des trois ...ne les noue *<u>que</u> de l’instance du* **3** en tant que je la fais celle du *Réel*.
 
 <!-- id: s21-10-0043 -->
 
@@ -198,7 +198,7 @@ Il convient donc que tout énoncé se garde...
 
 <!-- id: s21-10-0048 -->
 
-> justement en ce qu’il *rêve-olutionne...*de main­tenir le règne de ce à quoi il réveille.
+justement en ce qu’il *rêve-olutionne...*de main­tenir le règne de ce à quoi il réveille.
 
 <!-- id: s21-10-0049 -->
 
@@ -210,7 +210,7 @@ Bien sûr y a-t-il ceux qui...
 
 <!-- id: s21-10-0051 -->
 
-> pour ce que cette expérience, ils ne la met­tent pas au pied du mur, ils ne s’y exposent pas comme telle ...ont tout de même soupçon de quelque chose qui les démange.
+pour ce que cette expérience, ils ne la met­tent pas au pied du mur, ils ne s’y exposent pas comme telle ...ont tout de même soupçon de quelque chose qui les démange.
 
 <!-- id: s21-10-0052 -->
 
@@ -242,7 +242,7 @@ Est-ce que je peux vous faire entendre que le sort de l’être parlant, c’est
 
 <!-- id: s21-10-0059 -->
 
-> c’est-à-dire du sommeil profond ... « *j’ai bien dormi de telle heure à telle heure* », pour la simple raison qu’il n’en sait rien, ses rêves encadrant ce sommeil profond ayant consisté dans le désir de dormir.
+c’est-à-dire du sommeil profond ... « *j’ai bien dormi de telle heure à telle heure* », pour la simple raison qu’il n’en sait rien, ses rêves encadrant ce sommeil profond ayant consisté dans le désir de dormir.
 
 <!-- id: s21-10-0060 -->
 
@@ -286,7 +286,7 @@ En quoi je lui ai dit que com­mencer comme il le fait par ce qu’il appelle le
 
 <!-- id: s21-10-0070 -->
 
-> comme je l’ai fait remarquer depuis long­temps ...il n’y a qu’un transfert, c’est celui de l’analyste, puisqu’après tout c’est lui qui est *le sujet supposé au savoir*.
+comme je l’ai fait remarquer depuis long­temps ...il n’y a qu’un transfert, c’est celui de l’analyste, puisqu’après tout c’est lui qui est *le sujet supposé au savoir*.
 
 <!-- id: s21-10-0071 -->
 
@@ -314,7 +314,7 @@ La chose est notable : le savoir de l’incons­cient s’est révélé, s’es
 
 <!-- id: s21-10-0077 -->
 
-> c’est bien le prix de ce petit livre, c’est son seul prix d’ailleurs, mais ça vaut qu’on l’achète ...la vérité de l’incons­cient, c’est-à-dire la révélation de l’inconscient comme savoir, cette révé­lation de l’inconscient s’est faite de façon telle que *la vérité de l’amour*, à savoir le transfert, n’y a fait qu’irruption.
+c’est bien le prix de ce petit livre, c’est son seul prix d’ailleurs, mais ça vaut qu’on l’achète ...la vérité de l’incons­cient, c’est-à-dire la révélation de l’inconscient comme savoir, cette révé­lation de l’inconscient s’est faite de façon telle que *la vérité de l’amour*, à savoir le transfert, n’y a fait qu’irruption.
 
 <!-- id: s21-10-0078 -->
 
@@ -394,7 +394,7 @@ C’est pour­quoi, dans ce que j’ai projeté aujourd’hui de vous dire...
 
 <!-- id: s21-10-0097 -->
 
-> ceci sans doute au titre d’expérience qui m’avait moi-même fatigué ...je voudrais vous montrer comme se monnaye ce nom, ce nom qu’en peu de cas nous ne voyons pas au moins refoulé.
+ceci sans doute au titre d’expérience qui m’avait moi-même fatigué ...je voudrais vous montrer comme se monnaye ce nom, ce nom qu’en peu de cas nous ne voyons pas au moins refoulé.
 
 <!-- id: s21-10-0098 -->
 
@@ -402,11 +402,11 @@ Il ne suffit pas, pour porter ce nom, que *celle* de qui s’incarne l’Autre..
 
 <!-- id: s21-10-0099 -->
 
-> l’Autre comme tel, l’Autre avec un grand A ...*celle,* dis-je, *de qui l’Autre s’incarne*...
+l’Autre comme tel, l’Autre avec un grand A ...*celle,* dis-je, *de qui l’Autre s’incarne*...
 
 <!-- id: s21-10-0100 -->
 
-> ne fait que s’incarner d’ailleurs, incarne la voix ...à savoir la mère,
+ne fait que s’incarner d’ailleurs, incarne la voix ...à savoir la mère,
 
 <!-- id: s21-10-0101 -->
 
@@ -426,7 +426,7 @@ Ce qui nous introduit au fondement de la négation : est-ce que c’est la mêm
 
 <!-- id: s21-10-0105 -->
 
-> essence de nature universelle : soit ce qui se supporte du *tout* ...juste­ment rejette, rejette quoi hors du « *tout* », mené de ce fait à la fiction d’un complément au *tout*, et fait à « *tout homme »* \[; !\] répondre de ce fait ce qui est « *non-homme* » \[: §\] ?
+essence de nature universelle : soit ce qui se supporte du *tout* ...juste­ment rejette, rejette quoi hors du « *tout* », mené de ce fait à la fiction d’un complément au *tout*, et fait à « *tout homme »* \[; !\] répondre de ce fait ce qui est « *non-homme* » \[: §\] ?
 
 <!-- id: s21-10-0106 -->
 
@@ -446,7 +446,7 @@ C’est à savoir que *tout homme* ne peut s’avouer dans *sa jouissance*\[; !
 
 <!-- id: s21-10-0110 -->
 
-> c’est-à-dire dans son essence phallique pour l’appe­ler par son nom ...que *tout homme* n’y parvient, qu’à se fonder sur cette exception de quelque chose, le père, \[: §\] en tant que propositionnellement, il *dit non* à cette essence.
+c’est-à-dire dans son essence phallique pour l’appe­ler par son nom ...que *tout homme* n’y parvient, qu’à se fonder sur cette exception de quelque chose, le père, \[: §\] en tant que propositionnellement, il *dit non* à cette essence.
 
 <!-- id: s21-10-0111 -->
 
@@ -470,7 +470,7 @@ Ce que nous vivons est très précisément ceci : que curieusement *la perte *,
 
 <!-- id: s21-10-0116 -->
 
-> si c’est bien celle non pas que je dis, je ne peux pas la dire ...à ce *Nom du Père* se substitue une fonction qui n’est autre que celle du « *nommer-à* ».
+si c’est bien celle non pas que je dis, je ne peux pas la dire ...à ce *Nom du Père* se substitue une fonction qui n’est autre que celle du « *nommer-à* ».
 
 <!-- id: s21-10-0117 -->
 
@@ -506,7 +506,7 @@ Et même dans les cas où - comme ça, par hasard, enfin - il se trouve que par 
 
 <!-- id: s21-10-0125 -->
 
-> je veux dire effectivement préférer, passer avant ...ce qu’il en est du *Nom du Père*.
+je veux dire effectivement préférer, passer avant ...ce qu’il en est du *Nom du Père*.
 
 <!-- id: s21-10-0126 -->
 
@@ -518,7 +518,7 @@ Qu’est-ce que cette *trace* désigne comme retour du *Nom du Père* dans le *R
 
 <!-- id: s21-10-0128 -->
 
-> si cette *forclusion* dont j’ai dit qu’elle est le principe de la folie même ...est-ce que ce « *nommer-à »* n’est pas le signe d’une dégénérescence catastrophique ?
+si cette *forclusion* dont j’ai dit qu’elle est le principe de la folie même ...est-ce que ce « *nommer-à »* n’est pas le signe d’une dégénérescence catastrophique ?
 
 <!-- id: s21-10-0129 -->
 
@@ -542,7 +542,7 @@ La forme du nœud...
 
 <!-- id: s21-10-0134 -->
 
-> puisque aussi bien le nœud n’est rien de plus que cette *forme*, c’est-à-dire *imaginable* ...est-ce que ce n’est pas là que l’*imaginable* se désigne de ne pouvoir être *pensé* ?
+puisque aussi bien le nœud n’est rien de plus que cette *forme*, c’est-à-dire *imaginable* ...est-ce que ce n’est pas là que l’*imaginable* se désigne de ne pouvoir être *pensé* ?
 
 <!-- id: s21-10-0135 -->
 
@@ -562,17 +562,17 @@ Est-ce que ce n’est pas là que nous devons chercher dans ce qui nous possède
 
 <!-- id: s21-10-0139 -->
 
-> et qui plus est *désir de l’Autre*, désir par quoi nous sommes d’*origine* alié­nés ...est-ce que ce n’est pas là que doit porter...
+et qui plus est *désir de l’Autre*, désir par quoi nous sommes d’*origine* alié­nés ...est-ce que ce n’est pas là que doit porter...
 
 <!-- id: s21-10-0140 -->
 
-> à savoir dans ce phéno­mène, cette apparition à notre expérience ...que comme sujets, ce n’est pas seulement de n’avoir nulle essence...
+à savoir dans ce phéno­mène, cette apparition à notre expérience ...que comme sujets, ce n’est pas seulement de n’avoir nulle essence...
 
 <!-- id: s21-10-0141 -->
 
-> sinon d’être *coincés*, *squeezés* dans un certain nœud,
->
-> mais aussi bien comme sujet, sujet supposé de ce que *squeeze* ce nœud ...*comme sujet ce n’est pas seulement l’essence qui nous manque, à savoir l’être,* *c’est aussi bien que nous ex-siste tout ce qui fait nœud.* \[→ 3 : **R** (**S-I**)\]
+sinon d’être *coincés*, *squeezés* dans un certain nœud,
+
+mais aussi bien comme sujet, sujet supposé de ce que *squeeze* ce nœud ...*comme sujet ce n’est pas seulement l’essence qui nous manque, à savoir l’être,* *c’est aussi bien que nous ex-siste tout ce qui fait nœud.* \[→ 3 : **R** (**S-I**)\]
 
 <!-- id: s21-10-0142 -->
 
@@ -588,7 +588,7 @@ C’est là quelque chose qu’il faut entendre on ne sait comment, *comme un pr
 
 <!-- id: s21-10-0145 -->
 
-> *comme un prodrome*, j’ose le dire, et c’est en cela que j’ai écrit une fois « *Kant avec Sade »* ...*comme un prodrome* de ce qui fait effectivement notre passion, à savoir que nous n’avons plus aucune espè­ce d’idée de ce qui, pour nous, tracerait la voie du *Bien*.
+*comme un prodrome*, j’ose le dire, et c’est en cela que j’ai écrit une fois « *Kant avec Sade »* ...*comme un prodrome* de ce qui fait effectivement notre passion, à savoir que nous n’avons plus aucune espè­ce d’idée de ce qui, pour nous, tracerait la voie du *Bien*.
 
 <!-- id: s21-10-0146 -->
 
@@ -616,7 +616,7 @@ C’est que...
 
 <!-- id: s21-10-0152 -->
 
-> comme si c’était là le signe d’une supériorité ...c’est que sommé par le tyran de diffamer un autre sujet, quelqu’un y regardera à deux fois avant de porter *un faux témoignage*.
+comme si c’était là le signe d’une supériorité ...c’est que sommé par le tyran de diffamer un autre sujet, quelqu’un y regardera à deux fois avant de porter *un faux témoignage*.
 
 <!-- id: s21-10-0153 -->
 
@@ -624,9 +624,9 @@ C’est que...
 
 <!-- id: s21-10-0154 -->
 
-> car j’ai écrit des choses très bien, des choses auxquelles personne ne comprend rien, bien sûr,
->
-> mais c’est simplement parce qu’ils sont sourds ...à quoi j’ai opposé : mais si, pour désigner à la main du tyran, celui que le tyran désire atteindre, il suf­fisait non pas d’un faux, mais d’*un vrai témoignage* !
+car j’ai écrit des choses très bien, des choses auxquelles personne ne comprend rien, bien sûr,
+
+mais c’est simplement parce qu’ils sont sourds ...à quoi j’ai opposé : mais si, pour désigner à la main du tyran, celui que le tyran désire atteindre, il suf­fisait non pas d’un faux, mais d’*un vrai témoignage* !
 
 <!-- id: s21-10-0155 -->
 
@@ -642,7 +642,7 @@ Le biais, par où ici Kant fait la fente, ce biais n’est pas bon, d’où il r
 
 <!-- id: s21-10-0158 -->
 
-> l’essence de ce dont il s’agit dans le bien ...c’est que le corps force *sa jouissance*, à savoir la réprime, et sim­plement ceci, au nom de la mort, de la mort de soi ou de la mort de quel­qu’un d’autre, dans l’occasion : celui qu’il songera à épargner.
+l’essence de ce dont il s’agit dans le bien ...c’est que le corps force *sa jouissance*, à savoir la réprime, et sim­plement ceci, au nom de la mort, de la mort de soi ou de la mort de quel­qu’un d’autre, dans l’occasion : celui qu’il songera à épargner.
 
 <!-- id: s21-10-0159 -->
 
@@ -666,7 +666,7 @@ C’est bien là que se véhicule la porte de *ce discours nouveau venu*...
 
 <!-- id: s21-10-0164 -->
 
-> dont ce n’est pas rien que quelque chose l’ait nécessité ...*le discours analytique* dont vous me permettrez de reprendre le relais le 9 Mai, le 9 Mai deuxième mardi, et non pas ensuite le troisième, mais le quatrième, le quatrième qui ne sera pas donc celui d’après Pâques, le 16 Avril, mais celui du 23…
+dont ce n’est pas rien que quelque chose l’ait nécessité ...*le discours analytique* dont vous me permettrez de reprendre le relais le 9 Mai, le 9 Mai deuxième mardi, et non pas ensuite le troisième, mais le quatrième, le quatrième qui ne sera pas donc celui d’après Pâques, le 16 Avril, mais celui du 23…
 
 <!-- id: s21-10-0165 -->
 

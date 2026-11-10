@@ -30,9 +30,9 @@ Plus exactement, par ce qu’on appelle romantiquement « *Révolution* » ave
 
 <!-- id: s17-06-0007 -->
 
-> un peu aphoristique, j’en conviens, mais qui est faite - comme l’aphorisme s’y destine -
->
-> qui est faite pour éclairer d’un *flash* simple ...à l’horizon de ceci, il y a ceci qui nous intéresse, je veux dire vous et moi, il y a que ce *discours du Maître* n’a qu’un contrepoint : le *dis­cours analytique*, encore si inapproprié.
+un peu aphoristique, j’en conviens, mais qui est faite - comme l’aphorisme s’y destine -
+
+qui est faite pour éclairer d’un *flash* simple ...à l’horizon de ceci, il y a ceci qui nous intéresse, je veux dire vous et moi, il y a que ce *discours du Maître* n’a qu’un contrepoint : le *dis­cours analytique*, encore si inapproprié.
 
 <!-- id: s17-06-0008 -->
 
@@ -40,7 +40,7 @@ Je l’appelle « *contrepoint »* en ceci que sa symétrie...
 
 <!-- id: s17-06-0009 -->
 
-> s’il en existe une, et elle existe ...*sa symétrie* n’est pas par rapport à une ligne, ni par rapport à un plan, mais *par rapport à un point*.
+s’il en existe une, et elle existe ...*sa symétrie* n’est pas par rapport à une ligne, ni par rapport à un plan, mais *par rapport à un point*.
 
 <!-- id: s17-06-0010 -->
 
@@ -64,7 +64,7 @@ parce que ça commence à me fatiguer ...réécrire au tableau, à savoir la dis
 
 <!-- id: s17-06-0015 -->
 
-> *Discours du Maître Discours analytique*
+*Discours du Maître Discours analytique*
 
 <!-- id: s17-06-0016 -->
 
@@ -256,7 +256,7 @@ C’est par là que la mathématique représente *le savoir du Maître* en tant 
 
 <!-- id: s17-06-0063 -->
 
-> je ne dis même pas dans la quantification : dans le compte ...la manipulation de chiffres qui soit définie de telle sorte qu’elle fasse apparaître en tout cas cette constante dans le compte, voilà ce qui suffit, ce qui seulement supporte ce qui est appelé le fondement de la science physique, *l’énergie*.
+je ne dis même pas dans la quantification : dans le compte ...la manipulation de chiffres qui soit définie de telle sorte qu’elle fasse apparaître en tout cas cette constante dans le compte, voilà ce qui suffit, ce qui seulement supporte ce qui est appelé le fondement de la science physique, *l’énergie*.
 
 <!-- id: s17-06-0064 -->
 
@@ -344,7 +344,7 @@ C’est dire qu’ici, je me distingue de ce qu’en énonce Freud.
 
 <!-- id: s17-06-0085 -->
 
-> *Discours scientifique* (H)
+*Discours scientifique* (H)
 
 <!-- id: s17-06-0086 -->
 
@@ -376,9 +376,9 @@ J’ai pris en analyse très tôt après la dernière guerre - j’étais déjà
 
 <!-- id: s17-06-0093 -->
 
-> ce qui veut dire, étant donné ce qu’ils étaient : de coura­geux petits médecins qui essayaient de se faufiler
->
-> dans la hiérarchie médi­cale de la métropole, dont nous n’ignorons pas - nous étions encore au temps colonial - que tout était fait pour les séparer ...ce qu’ils en connaissaient donc du niveau de l’ethnographe était à peu près celui du journalisme.
+ce qui veut dire, étant donné ce qu’ils étaient : de coura­geux petits médecins qui essayaient de se faufiler
+
+dans la hiérarchie médi­cale de la métropole, dont nous n’ignorons pas - nous étions encore au temps colonial - que tout était fait pour les séparer ...ce qu’ils en connaissaient donc du niveau de l’ethnographe était à peu près celui du journalisme.
 
 <!-- id: s17-06-0094 -->
 
@@ -386,11 +386,11 @@ Mais leur inconscient fonctionnait selon les bonnes règles de l’œdipe...
 
 <!-- id: s17-06-0095 -->
 
-> c’est-à-dire qu’il était l’inconscient qu’on leur avait vendu en même temps que les lois de la colonisation,
->
-> forme exotique du *discours du Maître*, tout à fait régressive *face du capitalisme*
->
-> qui est justement ce qu’on appelle *« impérialisme »* ...leur inconscient n’était pas celui de leurs souvenirs d’enfance - là ça se touchait - mais leur enfance rétroactivement vécue dans nos catégories - écrivez le mot comme je vous l’ai appris l’année dernière - « *femme-il-iales *».
+c’est-à-dire qu’il était l’inconscient qu’on leur avait vendu en même temps que les lois de la colonisation,
+
+forme exotique du *discours du Maître*, tout à fait régressive *face du capitalisme*
+
+qui est justement ce qu’on appelle *« impérialisme »* ...leur inconscient n’était pas celui de leurs souvenirs d’enfance - là ça se touchait - mais leur enfance rétroactivement vécue dans nos catégories - écrivez le mot comme je vous l’ai appris l’année dernière - « *femme-il-iales *».
 
 <!-- id: s17-06-0096 -->
 
@@ -554,7 +554,7 @@ Le *sujet* lui-même, *hystérique*, s’aliène du *signifiant-Maître* comme �
 
 <!-- id: s17-06-0136 -->
 
-> j’ai dit « *celui *» au masculin, « *celui *» repré­sente le sujet ...celui que le *signifiant-Maître* divise, qui se refuse à s’en faire le corps.
+j’ai dit « *celui *» au masculin, « *celui *» repré­sente le sujet ...celui que le *signifiant-Maître* divise, qui se refuse à s’en faire le corps.
 
 <!-- id: s17-06-0137 -->
 
@@ -766,11 +766,11 @@ Et en effet si *la jouis­sance*...
 
 <!-- id: s17-06-0189 -->
 
-> unique à représenter le bonheur,
->
-> *celle* que j’ai définie la dernière fois comme *parfaitement close,*
->
-> *celle du phallus* ...le dominait, ce Maître... vous voyez le terme que j’emploie « *le Maître* » justement, elle ne peut le dominer qu’à l’exclure ...comment le Maître établirait-il ce rapport au *savoir*, qui est tenu par l’esclave, ce rapport au *savoir* dont le béné­fice est le forçage du *plus de jouir* ?
+unique à représenter le bonheur,
+
+*celle* que j’ai définie la dernière fois comme *parfaitement close,*
+
+*celle du phallus* ...le dominait, ce Maître... vous voyez le terme que j’emploie « *le Maître* » justement, elle ne peut le dominer qu’à l’exclure ...comment le Maître établirait-il ce rapport au *savoir*, qui est tenu par l’esclave, ce rapport au *savoir* dont le béné­fice est le forçage du *plus de jouir* ?
 
 <!-- id: s17-06-0190 -->
 
@@ -782,9 +782,9 @@ Rappelez-vous la structure de ce rêve, et comment après avoir reçu l’annonc
 
 <!-- id: s17-06-0192 -->
 
-> comme en écho à ce que Dora \[lapsus\]... à ce que M<sup>me</sup> K lui a dit autrefois, de venir dans l’endroit
->
-> où doi­t se produire la rupture avec le mari de ladite, de tous les drames que nous avons dits
+comme en écho à ce que Dora \[lapsus\]... à ce que M<sup>me</sup> K lui a dit autrefois, de venir dans l’endroit
+
+où doi­t se produire la rupture avec le mari de ladite, de tous les drames que nous avons dits
 
 <!-- id: s17-06-0193 -->
 
@@ -796,11 +796,11 @@ Et la façon dont elle y va...
 
 <!-- id: s17-06-0195 -->
 
-> sans qu’on sache jamais dans le rêve par quel moyen elle est parvenue ...dont elle y va, pour arriver à un lieu dont il faut qu’elle demande si c’est bien là qu’habite ce *Monsieur*, Monsieur son père...
+sans qu’on sache jamais dans le rêve par quel moyen elle est parvenue ...dont elle y va, pour arriver à un lieu dont il faut qu’elle demande si c’est bien là qu’habite ce *Monsieur*, Monsieur son père...
 
 <!-- id: s17-06-0196 -->
 
-> comme si elle ne le savait pas ! ...eh bien dans *la boîte vide* de cet appartement *déserté, déserté* par ceux qui sont partis après l’avoir invitée, de leur côté au cimetière,
+comme si elle ne le savait pas ! ...eh bien dans *la boîte vide* de cet appartement *déserté, déserté* par ceux qui sont partis après l’avoir invitée, de leur côté au cimetière,
 
 <!-- id: s17-06-0197 -->
 
@@ -816,7 +816,7 @@ Car cette *vérité,* à quoi précieusement...
 
 <!-- id: s17-06-0200 -->
 
-> et c’est ce qui fait qu’il se l’attache
+et c’est ce qui fait qu’il se l’attache
 
 <!-- id: s17-06-0201 -->
 
@@ -840,11 +840,11 @@ Et là, ce qui nous importe c’est la référence qu’il prend...
 
 <!-- id: s17-06-0206 -->
 
-> on la prend, je vous dis d’habitude, comme une élégance ...*de l’entrepreneur, l’entrepreneur* de la décision bien entendu, *au capitaliste* dont les ressources accumulées...
+on la prend, je vous dis d’habitude, comme une élégance ...*de l’entrepreneur, l’entrepreneur* de la décision bien entendu, *au capitaliste* dont les ressources accumulées...
 
 <!-- id: s17-06-0207 -->
 
-> enfin le capital de libido ...au *capitaliste* qui permettra à cette décision de passer en acte.
+enfin le capital de libido ...au *capitaliste* qui permettra à cette décision de passer en acte.
 
 <!-- id: s17-06-0208 -->
 
@@ -876,7 +876,7 @@ Qu’on lise ces quelques lignes où malgré lui en quelque sorte, Freud indique
 
 <!-- id: s17-06-0215 -->
 
-> et Dieu sait qu’il lui en porte, toute l’observation en témoigne ...il aurait réussi sans doute, à lui faire pousser plus loin cette exploration, de laquelle on ne peut pas dire, qu’à son aveu même, il ne l’ait pas conduite sans erreur.
+et Dieu sait qu’il lui en porte, toute l’observation en témoigne ...il aurait réussi sans doute, à lui faire pousser plus loin cette exploration, de laquelle on ne peut pas dire, qu’à son aveu même, il ne l’ait pas conduite sans erreur.
 
 <!-- id: s17-06-0216 -->
 
@@ -976,7 +976,7 @@ J’avais pour ça mes raisons : il fallait que j’en sois arrivé au moins au
 
 <!-- id: s17-06-0240 -->
 
-> peut-être certains l’ont-ils deviné ...ce que j’ai commencé d’énoncer quand je vous ai dit *que la vie la vie, la vie, la vie provi­soire, qui se joue en faveur d’une chance de vie éternelle, c’est le (a)*, mais *que ça ne vaut la peine que si le* A *n’est pas barré*, autrement dit, *s’il est tout à la fois*.
+peut-être certains l’ont-ils deviné ...ce que j’ai commencé d’énoncer quand je vous ai dit *que la vie la vie, la vie, la vie provi­soire, qui se joue en faveur d’une chance de vie éternelle, c’est le (a)*, mais *que ça ne vaut la peine que si le* A *n’est pas barré*, autrement dit, *s’il est tout à la fois*.
 
 <!-- id: s17-06-0241 -->
 
@@ -1020,7 +1020,7 @@ Un père n’a avec le Maître...
 
 <!-- id: s17-06-0251 -->
 
-> je parle du père tel que nous le connaissons, tel qu’il fonctionne ...un père n’a avec le Maître que le rapport le plus lointain, puisqu’en somme dans la société, au moins celle à laquelle Freud a affaire, c’est lui qui travaille pour tout le monde.
+je parle du père tel que nous le connaissons, tel qu’il fonctionne ...un père n’a avec le Maître que le rapport le plus lointain, puisqu’en somme dans la société, au moins celle à laquelle Freud a affaire, c’est lui qui travaille pour tout le monde.
 
 <!-- id: s17-06-0252 -->
 
@@ -1044,7 +1044,7 @@ Assurément - nous y reviendrons mais déjà vous pouvez en voir le nerf - que t
 
 <!-- id: s17-06-0257 -->
 
-> dès lors qu’il entre dans ce champ du *discours du Maître,* où nous sommes en train de nous orienter ...*le père est dès l’origine, castré*. Telle est la forme idéalisée qu’en donne Freud.
+dès lors qu’il entre dans ce champ du *discours du Maître,* où nous sommes en train de nous orienter ...*le père est dès l’origine, castré*. Telle est la forme idéalisée qu’en donne Freud.
 
 <!-- id: s17-06-0258 -->
 
@@ -1052,9 +1052,9 @@ Que ceci soit complè­tement *masqué*...
 
 <!-- id: s17-06-0259 -->
 
-> en quoi pourtant, sinon les dires, du moins les configurations
->
-> que lui offrait l’expérience de l’hystérique, eussent dû mieux le guider ici ...que *le complexe d’Œdipe* soit, au niveau de l’analyse elle-même, comme ce qui suggère que tout est à remettre en cause, de ce qu’il faut de savoir, pour que ce savoir puisse être mis en question au site de la vérité, voilà ce qui fait le but de ce que nous essayons de vous dérouler cette année.
+en quoi pourtant, sinon les dires, du moins les configurations
+
+que lui offrait l’expérience de l’hystérique, eussent dû mieux le guider ici ...que *le complexe d’Œdipe* soit, au niveau de l’analyse elle-même, comme ce qui suggère que tout est à remettre en cause, de ce qu’il faut de savoir, pour que ce savoir puisse être mis en question au site de la vérité, voilà ce qui fait le but de ce que nous essayons de vous dérouler cette année.
 
 ## Notes
 

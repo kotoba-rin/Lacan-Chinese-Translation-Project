@@ -18,7 +18,7 @@ Comme peut-être l’affiche vous l’a appris, je ne parlerai ici...
 
 <!-- id: s17-01-0004 -->
 
-> non certes que le lieu ne me soit offert tous les mercredis ...je ne parlerai ici que le 2<sup>ème</sup> et le 3<sup>ème</sup> mercredi de chaque mois, me libérant par là, aux fins d’autres offices sans doute, les autres mercredis.
+non certes que le lieu ne me soit offert tous les mercredis ...je ne parlerai ici que le 2<sup>ème</sup> et le 3<sup>ème</sup> mercredi de chaque mois, me libérant par là, aux fins d’autres offices sans doute, les autres mercredis.
 
 <!-- id: s17-01-0005 -->
 
@@ -26,11 +26,11 @@ Et notamment je crois pouvoir annoncer que le premier de ces mercredis du mois, 
 
 <!-- id: s17-01-0006 -->
 
-> c’est-à-dire un mois sur deux, et donc je commencerai le mois prochain, le mois de Décembre ...les premiers mercredis de Décembre, de Février, d’Avril et de Juin, c’est à Vincennes que j’irai porter...
+c’est-à-dire un mois sur deux, et donc je commencerai le mois prochain, le mois de Décembre ...les premiers mercredis de Décembre, de Février, d’Avril et de Juin, c’est à Vincennes que j’irai porter...
 
 <!-- id: s17-01-0007 -->
 
-> non pas mon séminaire, comme il fut annoncé d’une façon erronée ...mais ce qu’en contraste et pour bien souligner qu’il s’agit d’autre chose, j’ai pris soin de nommer « *quatre impromptus »,* auxquels j’ai donné un titre humoristique dont vous prendrez connaissance sur les lieux où il est déjà affiché.
+non pas mon séminaire, comme il fut annoncé d’une façon erronée ...mais ce qu’en contraste et pour bien souligner qu’il s’agit d’autre chose, j’ai pris soin de nommer « *quatre impromptus »,* auxquels j’ai donné un titre humoristique dont vous prendrez connaissance sur les lieux où il est déjà affiché.
 
 <!-- id: s17-01-0008 -->
 
@@ -38,7 +38,7 @@ Puisque, comme vous le voyez, il me plaît de laisser en suspens telle ou telle 
 
 <!-- id: s17-01-0009 -->
 
-> qui est peut-être ici et sans doute ne se signa­lera pas ...m’abordait dans la rue au moment que je montais, que je prenais pied dans un taxi.
+qui est peut-être ici et sans doute ne se signa­lera pas ...m’abordait dans la rue au moment que je montais, que je prenais pied dans un taxi.
 
 <!-- id: s17-01-0010 -->
 
@@ -116,7 +116,7 @@ Je n’en donnerai pour preuve que ceci : c’est que dans un texte qui est dat
 
 <!-- id: s17-01-0028 -->
 
-> que j’ai faites, au moment du recueil de mes « *Écrits »* ...une de ces introductions qui scandent ce recueil, qui s’appelle « *De nos antécédents »*... ça se trouve, si mon souvenir est bon et si je l’ai bien noté, à la page 68 ...je fais très précisément allusion, ou plus exactement je caractérise, ce qu’il en a été du « *discours »*, comme je m’exprime, d’une reprise - dis-je - du projet freudien à l’envers. C’est écrit donc bien avant les événe­ments.
+que j’ai faites, au moment du recueil de mes « *Écrits »* ...une de ces introductions qui scandent ce recueil, qui s’appelle « *De nos antécédents »*... ça se trouve, si mon souvenir est bon et si je l’ai bien noté, à la page 68 ...je fais très précisément allusion, ou plus exactement je caractérise, ce qu’il en a été du « *discours »*, comme je m’exprime, d’une reprise - dis-je - du projet freudien à l’envers. C’est écrit donc bien avant les événe­ments.
 
 <!-- id: s17-01-0029 -->
 
@@ -148,7 +148,7 @@ S’il n’en était pas ainsi, qu’en serait-il de ce que nous retrouvons dans
 
 <!-- id: s17-01-0036 -->
 
-> celle-ci ne s’évoquant en ce joint que pour l’avoir précisément désignée *...*qu’en serait-il de ce qui se retrouve pour nous sous l’aspect du *surmoi* ?
+celle-ci ne s’évoquant en ce joint que pour l’avoir précisément désignée *...*qu’en serait-il de ce qui se retrouve pour nous sous l’aspect du *surmoi* ?
 
 <!-- id: s17-01-0037 -->
 
@@ -204,7 +204,7 @@ Il m’est arrivé l’année dernière...
 
 <!-- id: s17-01-0050 -->
 
-> noterai-je pour ceux qui en ont pris note, pour ceux à qui peut-­être ça trotte encore dans la tête ...il m’est arrivé l’année dernière d’appeler *ce savoir *: « *La jouissance de l’Autre *».
+noterai-je pour ceux qui en ont pris note, pour ceux à qui peut-­être ça trotte encore dans la tête ...il m’est arrivé l’année dernière d’appeler *ce savoir *: « *La jouissance de l’Autre *».
 
 <!-- id: s17-01-0051 -->
 
@@ -256,7 +256,7 @@ Celui-là, j’y ai depuis, je pense, assez insisté, et spécialement l’an de
 
 <!-- id: s17-01-0063 -->
 
-> à ce niveau qui est d’algèbre, qui est de structure signifiante ...c’est ce que nous désignons comme *l’objet(a).*
+à ce niveau qui est d’algèbre, qui est de structure signifiante ...c’est ce que nous désignons comme *l’objet(a).*
 
 <!-- id: s17-01-0064 -->
 
@@ -276,7 +276,7 @@ Ce fameux « *quart de tour »* dont je parle depuis assez longtemps...
 
 <!-- id: s17-01-0068 -->
 
-> en bien d’autres occasions, notamment depuis la parution de ce que j’ai écrit sous le titre de *Kant avec Sade...*pour qu’on puisse penser que peut-être un jour, on verrait que ça ne se limite pas au fait du schéma dit « Z », mais qu’il y a à ce « *quart de tour »* d’autres raisons que ce pur accident de représenta­tion imaginaire.
+en bien d’autres occasions, notamment depuis la parution de ce que j’ai écrit sous le titre de *Kant avec Sade...*pour qu’on puisse penser que peut-être un jour, on verrait que ça ne se limite pas au fait du schéma dit « Z », mais qu’il y a à ce « *quart de tour »* d’autres raisons que ce pur accident de représenta­tion imaginaire.
 
 <!-- id: s17-01-0069 -->
 
@@ -344,7 +344,7 @@ De l’Autre, bien entendu pour autant...
 
 <!-- id: s17-01-0085 -->
 
-> car il n’est nul Autre ...pour autant que *l’a fait surgir* *comme <u>champ</u>* *l’intervention du signifiant*.
+car il n’est nul Autre ...pour autant que *l’a fait surgir* *comme <u>champ</u>* *l’intervention du signifiant*.
 
 <!-- id: s17-01-0086 -->
 
@@ -436,11 +436,11 @@ Ce qui justifie, quoi qu’il en soit, qu’ici je dise quelque chose, c’est c
 
 <!-- id: s17-01-0108 -->
 
-> \[1) Hôpital Sainte-Anne, Paris XIV<sup>ème</sup> ,
->
-> 2\) École Normale Supérieure, rue d’Ulm, Paris V<sup>ème</sup>,
->
-> 3\) et actuellement Université Paris I, Panthéon-Sorbonne, Paris V<sup>ème</sup>\]
+\[1) Hôpital Sainte-Anne, Paris XIV<sup>ème</sup> ,
+
+2\) École Normale Supérieure, rue d’Ulm, Paris V<sup>ème</sup>,
+
+3\) et actuellement Université Paris I, Panthéon-Sorbonne, Paris V<sup>ème</sup>\]
 
 <!-- id: s17-01-0109 -->
 
@@ -448,7 +448,7 @@ Je tenais beaucoup à embrancher quelque part...
 
 <!-- id: s17-01-0110 -->
 
-> parce que aujourd’hui m’en semblait le jour, aujourd’hui où je suis dans un lieu de mieux \[*i.e. un lieu de plus*\] ...de faire remarquer que ce *lieu* a toujours eu son poids pour *faire le style* de ce que j’ai appelé « *cette manifestation* ».
+parce que aujourd’hui m’en semblait le jour, aujourd’hui où je suis dans un lieu de mieux \[*i.e. un lieu de plus*\] ...de faire remarquer que ce *lieu* a toujours eu son poids pour *faire le style* de ce que j’ai appelé « *cette manifestation* ».
 
 <!-- id: s17-01-0111 -->
 
@@ -460,9 +460,9 @@ J’y reviendrai, parce que ça aura à prendre place dans « *les petits quadr
 
 <!-- id: s17-01-0113 -->
 
-> ceci qui va dans le sens contraire à *l’interprétation analytique*,
->
-> ceci qui fait bien sentir combien *l’interprétation analytique* est elle-même à rebours du sens commun du terme interpréter,
+ceci qui va dans le sens contraire à *l’interprétation analytique*,
+
+ceci qui fait bien sentir combien *l’interprétation analytique* est elle-même à rebours du sens commun du terme interpréter,
 
 <!-- id: s17-01-0114 -->
 
@@ -478,7 +478,7 @@ Le personnage le plus exemplaire de cette audience...
 
 <!-- id: s17-01-0117 -->
 
-> qui était médicale sans doute, mais enfin il y avait aussi quelques assistants qui ne l’étaient pas ...était celui qui brochait mon discours d’une sorte de jet continu de *gags*.
+qui était médicale sans doute, mais enfin il y avait aussi quelques assistants qui ne l’étaient pas ...était celui qui brochait mon discours d’une sorte de jet continu de *gags*.
 
 <!-- id: s17-01-0118 -->
 
@@ -506,7 +506,7 @@ Le fait que ce n’était pas du tout médical laissait un fort doute sur le fai
 
 <!-- id: s17-01-0124 -->
 
-> vous savez, là, ceux des « *Cahiers pour l’analyse »* ...où on a vu des petits gars formés dans *un coin*, comme je l’avais dit depuis bien longtemps avant, justement au temps des *gags*, *ce coin* où par effet de formation on ne sait rien, mais on l’enseigne admirablement.
+vous savez, là, ceux des « *Cahiers pour l’analyse »* ...où on a vu des petits gars formés dans *un coin*, comme je l’avais dit depuis bien longtemps avant, justement au temps des *gags*, *ce coin* où par effet de formation on ne sait rien, mais on l’enseigne admirablement.
 
 <!-- id: s17-01-0125 -->
 
@@ -594,7 +594,7 @@ Si nous n’oublions pas le point où Freud...
 
 <!-- id: s17-01-0146 -->
 
-> au-delà du *principe de plaisir*, du *principe de réalité* ...introduit ce qu’il appelle lui-même « *Au-delà du principe du plaisir »* qui n’en est pas pour autant renversé.
+au-delà du *principe de plaisir*, du *principe de réalité* ...introduit ce qu’il appelle lui-même « *Au-delà du principe du plaisir »* qui n’en est pas pour autant renversé.
 
 <!-- id: s17-01-0147 -->
 
@@ -638,7 +638,7 @@ C’est au joint d’une *jouissance* ...
 
 <!-- id: s17-01-0157 -->
 
-> et non pas de n’importe laquelle, sans doute doit-elle rester opaque ...c’est au joint d’une *jouissance* privilégiée entre toutes, non pas d’être la jouissance sexuelle puisque *ce que cette jouissance désigne* d’être au joint, je le disais à l’instant, c’est *la perte de la jouissance sexuelle*, c’est *la castration*.
+et non pas de n’importe laquelle, sans doute doit-elle rester opaque ...c’est au joint d’une *jouissance* privilégiée entre toutes, non pas d’être la jouissance sexuelle puisque *ce que cette jouissance désigne* d’être au joint, je le disais à l’instant, c’est *la perte de la jouissance sexuelle*, c’est *la castration*.
 
 <!-- id: s17-01-0158 -->
 
@@ -662,9 +662,9 @@ Ce n’est pas pour rien que ce même « *objet »*...
 
 <!-- id: s17-01-0163 -->
 
-> que d’autre part j’avais désigné comme celui autour de quoi en somme
->
-> s’organise dans l’analyse toute la dialec­tique de la frustration ...ce même « *objet »* l’année dernière aussi, je l’ai appelé le « *plus-de-jouir ».*
+que d’autre part j’avais désigné comme celui autour de quoi en somme
+
+s’organise dans l’analyse toute la dialec­tique de la frustration ...ce même « *objet »* l’année dernière aussi, je l’ai appelé le « *plus-de-jouir ».*
 
 <!-- id: s17-01-0164 -->
 
@@ -724,7 +724,7 @@ C’est pour ça que l’année dernière, c’est à propos de ce *plus-de-joui
 
 <!-- id: s17-01-0178 -->
 
-> au niveau qui s’articule du discours analytique, pas d’un autre ...reconnu comme *plus-de-jouir*.
+au niveau qui s’articule du discours analytique, pas d’un autre ...reconnu comme *plus-de-jouir*.
 
 <!-- id: s17-01-0179 -->
 
@@ -780,7 +780,7 @@ Il est un fait, déterminé par des raisons his­toriques, qui fait que cette pr
 
 <!-- id: s17-01-0192 -->
 
-> dans ce que nous allons énoncer cette année ...va s’épingler entre toutes, entre les 4, comme étant l’arti­culation du *discours du Maître*.
+dans ce que nous allons énoncer cette année ...va s’épingler entre toutes, entre les 4, comme étant l’arti­culation du *discours du Maître*.
 
 <!-- id: s17-01-0193 -->
 
@@ -792,7 +792,7 @@ Avant même qu’elle ne parle que de ça, c’est-à-dire qu’elle l’appelle
 
 <!-- id: s17-01-0195 -->
 
-> point saillant chez Hegel, tout spécialement illustré par lui ...il était déjà manifeste que c’était dans le champ, au niveau du *discours du Maître,* qu’était apparu quelque chose qui quand même nous concerne, nous concerne quant au discours, quelle que soit son ambiguïté, et qui s’appelle *la philosophie*.
+point saillant chez Hegel, tout spécialement illustré par lui ...il était déjà manifeste que c’était dans le champ, au niveau du *discours du Maître,* qu’était apparu quelque chose qui quand même nous concerne, nous concerne quant au discours, quelle que soit son ambiguïté, et qui s’appelle *la philosophie*.
 
 <!-- id: s17-01-0196 -->
 
@@ -860,7 +860,7 @@ Il ne fait aucun doute, à lire les témoignages que nous avons de l’ère anti
 
 <!-- id: s17-01-0212 -->
 
-> lisez là-dessus « *La* *Politique »* d’Aristote ...ce que j’avance de l’esclave, comme caractérisé par être celui qui est *le sup­port du savoir*, ne fait aucun doute.
+lisez là-dessus « *La* *Politique »* d’Aristote ...ce que j’avance de l’esclave, comme caractérisé par être celui qui est *le sup­port du savoir*, ne fait aucun doute.
 
 <!-- id: s17-01-0213 -->
 
@@ -876,7 +876,7 @@ Or ce qui se passe, ce qui se passe sous nos yeux, et qui donne son sens...
 
 <!-- id: s17-01-0216 -->
 
-> un pre­mier sens, vous en aurez d’autres ...à la philosophie, nous en avons tout à fait heureusement, grâce à Platon, une trace.
+un pre­mier sens, vous en aurez d’autres ...à la philosophie, nous en avons tout à fait heureusement, grâce à Platon, une trace.
 
 <!-- id: s17-01-0217 -->
 
@@ -892,7 +892,7 @@ Il suffit d’avoir un petit peu de pratique...
 
 <!-- id: s17-01-0220 -->
 
-> et Dieu sait si depuis 16 ans je fais effort pour que ceux qui m’écoutent la prennent, cette pratique ...un peu de pratique des dialo­gues de Platon pour s’en apercevoir.
+et Dieu sait si depuis 16 ans je fais effort pour que ceux qui m’écoutent la prennent, cette pratique ...un peu de pratique des dialo­gues de Platon pour s’en apercevoir.
 
 <!-- id: s17-01-0221 -->
 
@@ -924,7 +924,7 @@ La fonction de l’επιστήμη \[épistémè\] en tant que savoir transmiss
 
 <!-- id: s17-01-0228 -->
 
-> reportez-vous aux dialogues de Platon ...elle est tout entière empruntée toujours aux recours aux techniques artisanales, c’est-à-dire *serves*.
+reportez-vous aux dialogues de Platon ...elle est tout entière empruntée toujours aux recours aux techniques artisanales, c’est-à-dire *serves*.
 
 <!-- id: s17-01-0229 -->
 
@@ -944,9 +944,9 @@ Mais - dit tel ou tel...
 
 <!-- id: s17-01-0233 -->
 
-> enfin que ce soit Callimaque ou un autre... enfin qu’est-ce que je dis là, reportez-vous au *Ménon,*
->
-> là au moment où il s’agit de la √2 - n’est-ce pas - et de son incommensurable. ...il y en a un qui dit : « *Voyons, l’esclave, mais qu’il vienne, le cher petit, il sait*. »
+enfin que ce soit Callimaque ou un autre... enfin qu’est-ce que je dis là, reportez-vous au *Ménon,*
+
+là au moment où il s’agit de la √2 - n’est-ce pas - et de son incommensurable. ...il y en a un qui dit : « *Voyons, l’esclave, mais qu’il vienne, le cher petit, il sait*. »
 
 <!-- id: s17-01-0234 -->
 
@@ -1006,7 +1006,7 @@ Non pas bien sûr au sens faible que nous donnons à ce mot, mais au sens accent
 
 <!-- id: s17-01-0248 -->
 
-> j’y reviens car pour mon discours c’est le point vif, un point-pivot, un point essentiel ...c’est du jour où, d’un mouvement de renonciation à ce savoir, si je puis dire mal acquis, quelqu’un, du rapport strict de **S<sub>1</sub>** à **S<sub>2</sub>**, a extrait pour la première fois comme telle, *la fonction du sujet*.
+j’y reviens car pour mon discours c’est le point vif, un point-pivot, un point essentiel ...c’est du jour où, d’un mouvement de renonciation à ce savoir, si je puis dire mal acquis, quelqu’un, du rapport strict de **S<sub>1</sub>** à **S<sub>2</sub>**, a extrait pour la première fois comme telle, *la fonction du sujet*.
 
 <!-- id: s17-01-0249 -->
 
@@ -1070,7 +1070,7 @@ Parce que nous avons vu en général, jusqu’à une époque récente...
 
 <!-- id: s17-01-0264 -->
 
-> cela se voit de moins en moins, un vrai Maître ...qu’il ne désire rien savoir du tout, il désire que ça marche.
+cela se voit de moins en moins, un vrai Maître ...qu’il ne désire rien savoir du tout, il désire que ça marche.
 
 <!-- id: s17-01-0265 -->
 

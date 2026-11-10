@@ -10,7 +10,7 @@ Je commence dès maintenant parce qu’on m’a demandé...
 
 <!-- id: s19-08-0002 -->
 
-> on m’a demandé en raison de choses prévalentes dans le fonctionnement de cet endroit... on m’a demandé de finir plus tôt, beaucoup plus tôt que d’habitude. Voilà !
+on m’a demandé en raison de choses prévalentes dans le fonctionnement de cet endroit... on m’a demandé de finir plus tôt, beaucoup plus tôt que d’habitude. Voilà !
 
 <!-- id: s19-08-0003 -->
 
@@ -50,9 +50,9 @@ Mais enfin, par rapport à ce qu’il en est d’une théorie, dont un des resso
 
 <!-- id: s19-08-0012 -->
 
-> non pas bien sûr que *la théorie des ensembles* implique une écriture univoque,
->
-> mais que, comme bien des choses en mathématiques, elle ne s’énonce pas sans écriture ...la différence donc avec cette formule, ce « *Yad’lun* » que j’essaie de faire passer, c’est justement toute la différence qu’il y a de *l’écrit* à *la parole*.
+non pas bien sûr que *la théorie des ensembles* implique une écriture univoque,
+
+mais que, comme bien des choses en mathématiques, elle ne s’énonce pas sans écriture ...la différence donc avec cette formule, ce « *Yad’lun* » que j’essaie de faire passer, c’est justement toute la différence qu’il y a de *l’écrit* à *la parole*.
 
 <!-- id: s19-08-0013 -->
 
@@ -76,7 +76,7 @@ C’est tout de même peut-être aller un peu vite que de le formuler ainsi, car
 
 <!-- id: s19-08-0018 -->
 
-> ce en quoi je vous interpelle de vous étonner ...on peut y mettre à l’actif justement ce dont j’ai parlé, dont je vous ai vraiment invité de la façon la plus vive à prendre connaissance, c’est ce fameux *Parménide* n’est-ce pas, du cher Platon, qui est toujours si mal lu, enfin en tout cas - moi - que je m’exerce à lire d’une façon qui n’est pas tout à fait celle reçue.
+ce en quoi je vous interpelle de vous étonner ...on peut y mettre à l’actif justement ce dont j’ai parlé, dont je vous ai vraiment invité de la façon la plus vive à prendre connaissance, c’est ce fameux *Parménide* n’est-ce pas, du cher Platon, qui est toujours si mal lu, enfin en tout cas - moi - que je m’exerce à lire d’une façon qui n’est pas tout à fait celle reçue.
 
 <!-- id: s19-08-0019 -->
 
@@ -108,7 +108,7 @@ Il est tout à fait clair en effet que si vous vous rappelez ce que j’ai donn�
 
 <!-- id: s19-08-0026 -->
 
-> pardon de me taire pendant que j’écris, parce que sinon ça va faire des complications \[*i.e.* *pb. de micro*...\] ...ce que j’ai donné comme structure est bien que quelque chose dont ce n’est pas par hasard que ça s’inscrit comme *le signifiant indexé* **1** \[S<sub>1</sub>\] qui se trouve au niveau de *la production* dans *le discours analytique*.
+pardon de me taire pendant que j’écris, parce que sinon ça va faire des complications \[*i.e.* *pb. de micro*...\] ...ce que j’ai donné comme structure est bien que quelque chose dont ce n’est pas par hasard que ça s’inscrit comme *le signifiant indexé* **1** \[S<sub>1</sub>\] qui se trouve au niveau de *la production* dans *le discours analytique*.
 
 <!-- id: s19-08-0027 -->
 
@@ -196,7 +196,7 @@ Cette distance qui se pose de « *l’existence »*, si l’on peut dire...
 
 <!-- id: s19-08-0048 -->
 
-> je ne l’appellerai pas autrement aujour­d’hui faute d’un meilleur mot ...« *l’existence naturelle »*, qui n’est pas limi­tée aux organismes vivants.
+je ne l’appellerai pas autrement aujour­d’hui faute d’un meilleur mot ...« *l’existence naturelle »*, qui n’est pas limi­tée aux organismes vivants.
 
 <!-- id: s19-08-0049 -->
 
@@ -208,7 +208,7 @@ Ils appa­raissent comme s’*inscrivant au ciel* comme des éléments d’autan
 
 <!-- id: s19-08-0051 -->
 
-> comme forme de passage ...pour mettre l’accent sur le point.
+comme forme de passage ...pour mettre l’accent sur le point.
 
 <!-- id: s19-08-0052 -->
 
@@ -236,7 +236,7 @@ C’est bien dans cette perspective qu’on peut dire que ce que nous appelons �
 
 <!-- id: s19-08-0058 -->
 
-> et je ne recule pas à prétendre que *le discours analytique* ne soit celui-là ...*la réalité* nous pouvons toujours la prendre au niveau *du fantasme*.
+et je ne recule pas à prétendre que *le discours analytique* ne soit celui-là ...*la réalité* nous pouvons toujours la prendre au niveau *du fantasme*.
 
 <!-- id: s19-08-0059 -->
 
@@ -280,7 +280,7 @@ Si un citoyen romain voyait comment nous vivons...
 
 <!-- id: s19-08-0069 -->
 
-> il est malheureusement hors de cause de l’évoquer à cette occasion en personne ...mais enfin il serait pro­bablement bouleversé d’horreur.
+il est malheureusement hors de cause de l’évoquer à cette occasion en personne ...mais enfin il serait pro­bablement bouleversé d’horreur.
 
 <!-- id: s19-08-0070 -->
 
@@ -300,11 +300,11 @@ Donc il est clair que la prise de l’être parlant sur le monde où il se conç
 
 <!-- id: s19-08-0074 -->
 
-> schéma déjà qui sent son fan­tasme, n’est-ce pas ? ...que cette prise tout de même ne va en augmen­tant...
+schéma déjà qui sent son fan­tasme, n’est-ce pas ? ...que cette prise tout de même ne va en augmen­tant...
 
 <!-- id: s19-08-0075 -->
 
-> ça c’est certain ...cette prise ne va en augmentant que dans la mesu­re où quelque chose s’élabore, et c’est l’usage du *nombre*.
+ça c’est certain ...cette prise ne va en augmentant que dans la mesu­re où quelque chose s’élabore, et c’est l’usage du *nombre*.
 
 <!-- id: s19-08-0076 -->
 
@@ -320,7 +320,7 @@ Il est cer­tain que ce dialogue est extraordinairement suggestif et fécond, et
 
 <!-- id: s19-08-0079 -->
 
-> sur la base, sur le thème *de la théorie des ensembles* ...énoncer ce « *Yad’l’Un* ».
+sur la base, sur le thème *de la théorie des ensembles* ...énoncer ce « *Yad’l’Un* ».
 
 <!-- id: s19-08-0080 -->
 
@@ -328,7 +328,7 @@ Commencez seulement l’énoncé de la 1<sup>ère</sup> hypothèse : *si l’Un
 
 <!-- id: s19-08-0081 -->
 
-> il est à prendre pour sa signification ...*si l’Un est Un,* qu’est-ce que nous allons pouvoir en faire ?
+il est à prendre pour sa signification ...*si l’Un est Un,* qu’est-ce que nous allons pouvoir en faire ?
 
 <!-- id: s19-08-0082 -->
 
@@ -356,7 +356,7 @@ Eh bien ceci n’est venu que tard, et n’est venu qu’en fonction de toute l�
 
 <!-- id: s19-08-0088 -->
 
-> il nous en donne l’énoncé avec tous les développements dans le « *Théétète »* n’est-ce pas ...le scandale pythagoricien du caractère irrationnel de la diagonale du carré, du fait qu’on ne finira jamais... ceci est *démontrable* sur une figure.
+il nous en donne l’énoncé avec tous les développements dans le « *Théétète »* n’est-ce pas ...le scandale pythagoricien du caractère irrationnel de la diagonale du carré, du fait qu’on ne finira jamais... ceci est *démontrable* sur une figure.
 
 <!-- id: s19-08-0089 -->
 
@@ -380,7 +380,7 @@ Et puis l’apparition...
 
 <!-- id: s19-08-0094 -->
 
-> ma foi, on ne peut pas ne pas la mentionner ...l’apparition de *la série trigonométrique de Fourier* qui n’est pas certainement sans poser toutes sortes de problèmes de fondement théorique. Tout ceci conjugué avec la réduction à des principes parfaitement finitistes du calcul dit infinitésimal qui se poursuit à la même époque et dont Cauchy est le grand représentant.
+ma foi, on ne peut pas ne pas la mentionner ...l’apparition de *la série trigonométrique de Fourier* qui n’est pas certainement sans poser toutes sortes de problèmes de fondement théorique. Tout ceci conjugué avec la réduction à des principes parfaitement finitistes du calcul dit infinitésimal qui se poursuit à la même époque et dont Cauchy est le grand représentant.
 
 <!-- id: s19-08-0095 -->
 
@@ -436,7 +436,7 @@ Et ce qui prouve qu’elle le restaure effectivement...
 
 <!-- id: s19-08-0108 -->
 
-> ceci dans la perspective de ce que j’énonce ...c’est que très précisément, à énoncer comme elle le fait le fondement de *l’Un,* et à y faire reposer *le nombre comme classe d’équivalence,* elle aboutit à la mise en valeur de ce qu’elle appelle *le non-dénombrable,* qui est très simple et, vous allez le voir, d’un accès immédiat, mais qu’à le traduire dans mon vocabulaire j’ap­pelle, non pas « *le non-dénombrable »,* objet que je n’hésiterai pas à qualifier de *mythique,* mais « *l’impossibilité à dénombrer* ».
+ceci dans la perspective de ce que j’énonce ...c’est que très précisément, à énoncer comme elle le fait le fondement de *l’Un,* et à y faire reposer *le nombre comme classe d’équivalence,* elle aboutit à la mise en valeur de ce qu’elle appelle *le non-dénombrable,* qui est très simple et, vous allez le voir, d’un accès immédiat, mais qu’à le traduire dans mon vocabulaire j’ap­pelle, non pas « *le non-dénombrable »,* objet que je n’hésiterai pas à qualifier de *mythique,* mais « *l’impossibilité à dénombrer* ».
 
 <!-- id: s19-08-0109 -->
 
@@ -444,21 +444,21 @@ Et ce qui prouve qu’elle le restaure effectivement...
 
 <!-- id: s19-08-0110 -->
 
-> ici je m’excuse de ne pas pouvoir en illustrer immédiate­ment au tableau la facture,
->
-> mais vraiment après tout, qu’est-ce qui empêche ceux d’entre vous que ce discours intéresse
->
-> d’ouvrir le moindre traité dit *Théorie naïve des ensembles* pour s’apercevoir que : ...*par la méthode* dite « *diagonale »*, on peut faire toucher du doigt qu’il y a moyen à énoncer...
+ici je m’excuse de ne pas pouvoir en illustrer immédiate­ment au tableau la facture,
+
+mais vraiment après tout, qu’est-ce qui empêche ceux d’entre vous que ce discours intéresse
+
+d’ouvrir le moindre traité dit *Théorie naïve des ensembles* pour s’apercevoir que : ...*par la méthode* dite « *diagonale »*, on peut faire toucher du doigt qu’il y a moyen à énoncer...
 
 <!-- id: s19-08-0111 -->
 
-> d’une série de façons différentes ...la suite des nombres entiers, car à la vérité on peut l’énoncer de trente six mille façons, qu’il sera immédiatement accessible de montrer que, quelle que soit la façon dont vous l’ayez ordonnée, il y en aura...
+d’une série de façons différentes ...la suite des nombres entiers, car à la vérité on peut l’énoncer de trente six mille façons, qu’il sera immédiatement accessible de montrer que, quelle que soit la façon dont vous l’ayez ordonnée, il y en aura...
 
 <!-- id: s19-08-0112 -->
 
-> à prendre simplement *la diagonale*, et dans *cette diagonale*
->
-> à en changer à chaque fois selon une règle à l’avance déterminée les valeurs ...une autre façon encore de les dénombrer.
+à prendre simplement *la diagonale*, et dans *cette diagonale*
+
+à en changer à chaque fois selon une règle à l’avance déterminée les valeurs ...une autre façon encore de les dénombrer.
 
 <!-- id: s19-08-0113 -->
 
@@ -470,7 +470,7 @@ Et si tant est qu’aujourd’hui je ne peux en pousser assez loin...
 
 <!-- id: s19-08-0115 -->
 
-> dans le temps auquel j’ai promis que je me limiterai, ...la démonstration, je vais tout de même dès maintenant mettre l’accent sur ce que comporte cette ambiguïté mise au fondement de *l’Un* comme tel.
+dans le temps auquel j’ai promis que je me limiterai, ...la démonstration, je vais tout de même dès maintenant mettre l’accent sur ce que comporte cette ambiguïté mise au fondement de *l’Un* comme tel.
 
 <!-- id: s19-08-0116 -->
 
@@ -554,9 +554,9 @@ C’est à partir du moment où il y en aura encore *Un* d’un côté et plus r
 
 <!-- id: s19-08-0136 -->
 
-> *qu’il s’agisse des troupeaux* que font franchir un certain seuil, chacun des deux concurrents au titre de *chef*,
->
-> *ou qu’il s’agisse du maître d’hôtel* qui est en train de faire ses comptes ...il apparaîtra quoi ?
+*qu’il s’agisse des troupeaux* que font franchir un certain seuil, chacun des deux concurrents au titre de *chef*,
+
+*ou qu’il s’agisse du maître d’hôtel* qui est en train de faire ses comptes ...il apparaîtra quoi ?
 
 <!-- id: s19-08-0137 -->
 
@@ -576,7 +576,7 @@ Et c’est bien en quoi nous apparaît, dans la reproduction que je vous ai fait
 
 <!-- id: s19-08-0141 -->
 
-> je pense depuis un bout de temps, je l’ai assez souligné ...comment elles se constituent, chacune étant faite de l’addition
+je pense depuis un bout de temps, je l’ai assez souligné ...comment elles se constituent, chacune étant faite de l’addition
 
 <!-- id: s19-08-0142 -->
 
@@ -640,11 +640,11 @@ Sachez simplement que nous interrogerons...
 
 <!-- id: s19-08-0157 -->
 
-> comme j’en avais ici déjà désigné la figure ...que nous inter­rogerons, à partir de la *triade*, la forme la plus simple où les parties...
+comme j’en avais ici déjà désigné la figure ...que nous inter­rogerons, à partir de la *triade*, la forme la plus simple où les parties...
 
 <!-- id: s19-08-0158 -->
 
-> les sous-ensembles faits des parties de l’ensemble ...où ces parties sont figu­rables d’une façon qui nous satisfasse, pour remonter à ce qui se passe au niveau de la *dyade* et au niveau de la *monade*.
+les sous-ensembles faits des parties de l’ensemble ...où ces parties sont figu­rables d’une façon qui nous satisfasse, pour remonter à ce qui se passe au niveau de la *dyade* et au niveau de la *monade*.
 
 <!-- id: s19-08-0159 -->
 

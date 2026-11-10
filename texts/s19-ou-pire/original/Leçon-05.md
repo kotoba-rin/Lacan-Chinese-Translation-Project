@@ -54,15 +54,15 @@ Vous adorez *les conférences*, c’est pourquoi j’ai prié hier soir...
 
 <!-- id: s19-05-0013 -->
 
-> par un petit papier que je lui ai porté vers 10 heures et quart ...j’ai prié mon ami Roman Jakobson...
+par un petit papier que je lui ai porté vers 10 heures et quart ...j’ai prié mon ami Roman Jakobson...
 
 <!-- id: s19-05-0014 -->
 
-> dont j’espérais qu’il serait ici présent ...je l’ai prié donc, de vous faire la conférence qu’il ne vous a pas faite hier, puis­que après vous l’avoir annoncée...
+dont j’espérais qu’il serait ici présent ...je l’ai prié donc, de vous faire la conférence qu’il ne vous a pas faite hier, puis­que après vous l’avoir annoncée...
 
 <!-- id: s19-05-0015 -->
 
-> je veux dire avoir écrit sur le tableau noir quelque chose d’équivalent à ce que je viens de faire ici ...il a cru devoir rester dans ce qu’il a appelé *les généralités*, pensant sans doute que c’est ce que vous préfériez entendre, c’est-à-dire une conférence.
+je veux dire avoir écrit sur le tableau noir quelque chose d’équivalent à ce que je viens de faire ici ...il a cru devoir rester dans ce qu’il a appelé *les généralités*, pensant sans doute que c’est ce que vous préfériez entendre, c’est-à-dire une conférence.
 
 <!-- id: s19-05-0016 -->
 
@@ -118,7 +118,11 @@ C’est justement parce que l’énonciateur serait pas là que l’énonciation
 
 <!-- id: s19-05-0029 -->
 
-> « ...*parce que c’est pas ça* ».
+<div class="text-quotation">
+
+« ...*parce que c’est pas ça* ».
+
+</div>
 
 <!-- id: s19-05-0030 -->
 
@@ -158,7 +162,7 @@ Car quelque effort qu’on ait fait pour logiciser la suite, la série, des nomb
 
 <!-- id: s19-05-0039 -->
 
-> c’est la seule ! ...comme étant celle de ce qui se transfère de 0 à 1.
+c’est la seule ! ...comme étant celle de ce qui se transfère de 0 à 1.
 
 <!-- id: s19-05-0040 -->
 
@@ -178,7 +182,7 @@ Il vous a parlé entre autres d’un certain Boetius Daccus...
 
 <!-- id: s19-05-0044 -->
 
-> fort important, a-t-il souligné ...parce qu’il a articulé des « *Suppositiones ».*
+fort important, a-t-il souligné ...parce qu’il a articulé des « *Suppositiones ».*
 
 <!-- id: s19-05-0045 -->
 
@@ -190,9 +194,9 @@ Puis il vous a dit qu’il se trouvait que depuis un certain moment ce Boèce...
 
 <!-- id: s19-05-0047 -->
 
-> ce Boèce (qui n’est pas celui que vous connaissez), celui-là il a extrait les images du passé, Daccus
->
-> qu’il s’appelle, c’est-à-dire « *danois* », c’est pas le bon, c’est pas celui qui est dans le dictionnaire [Bouillet](http://gallica.bnf.fr/ark:/12148/bpt6k4849m.capture) ...il vous a dit qu’il avait disparu comme ça pour une petite question de déviation­nisme.
+ce Boèce (qui n’est pas celui que vous connaissez), celui-là il a extrait les images du passé, Daccus
+
+qu’il s’appelle, c’est-à-dire « *danois* », c’est pas le bon, c’est pas celui qui est dans le dictionnaire [Bouillet](http://gallica.bnf.fr/ark:/12148/bpt6k4849m.capture) ...il vous a dit qu’il avait disparu comme ça pour une petite question de déviation­nisme.
 
 <!-- id: s19-05-0048 -->
 
@@ -224,9 +228,9 @@ Une des questions qu’il ne serait pas mal que nous entrevoyions, comme ça, to
 
 <!-- id: s19-05-0055 -->
 
-> encore que là où je m’amuse d’une façon plaisante, \[« *Entretiens de Sainte-Anne* »\]
->
-> j’en ai donné, sous la forme de ce fameux mur, l’indication ...il serait peut-être pas mal que nous entrevoyions pourquoi maintenant l’analyse linguistique ça fait partie de *la recherche scientifique*. Qu’est-ce que ça peut bien vouloir dire ?
+encore que là où je m’amuse d’une façon plaisante, \[« *Entretiens de Sainte-Anne* »\]
+
+j’en ai donné, sous la forme de ce fameux mur, l’indication ...il serait peut-être pas mal que nous entrevoyions pourquoi maintenant l’analyse linguistique ça fait partie de *la recherche scientifique*. Qu’est-ce que ça peut bien vouloir dire ?
 
 <!-- id: s19-05-0056 -->
 
@@ -246,7 +250,7 @@ J’ai reçu récemment d’une contrée lointaine...
 
 <!-- id: s19-05-0060 -->
 
-> je voudrais faire à quiconque aucun ennui, je vous dirai donc pas d’où ...une question de recherche scientifique, c’était un « *Comité de recherche scientifique sur les armes* ». Textuel !
+je voudrais faire à quiconque aucun ennui, je vous dirai donc pas d’où ...une question de recherche scientifique, c’était un « *Comité de recherche scientifique sur les armes* ». Textuel !
 
 <!-- id: s19-05-0061 -->
 
@@ -254,7 +258,7 @@ Quelqu’un, qui ne m’est pas inconnu...
 
 <!-- id: s19-05-0062 -->
 
-> c’est bien pour ça qu’on me consultait sur ce qu’il en était de lui ...se proposait pour faire une recherche sur la peur.
+c’est bien pour ça qu’on me consultait sur ce qu’il en était de lui ...se proposait pour faire une recherche sur la peur.
 
 <!-- id: s19-05-0063 -->
 
@@ -262,13 +266,13 @@ Il était question pour ça de lui don­ner un crédit, un crédit qui, traduit 
 
 <!-- id: s19-05-0064 -->
 
-> c’était écrit dans le texte, le texte lui-même, je peux pas vous le don­ner, mais je l’ai ...il était question qu’il passe à Paris 3 *jours*, \[*Rires*\] à Antibes 28, à Douarnenez 19, à San Montano - qui je crois...
+c’était écrit dans le texte, le texte lui-même, je peux pas vous le don­ner, mais je l’ai ...il était question qu’il passe à Paris 3 *jours*, \[*Rires*\] à Antibes 28, à Douarnenez 19, à San Montano - qui je crois...
 
 <!-- id: s19-05-0065 -->
 
-> Antonella, tu es là ? San Montano, ça doit être une plage assez agréable, non, ou je me trompe ?
->
-> Non, tu ne sais pas ? Bon, c’est peut-être à côté de Florence, enfin on ne sait pas ...à San Montano 15 *jours*, et ensuite à Paris 3 *jours*.
+Antonella, tu es là ? San Montano, ça doit être une plage assez agréable, non, ou je me trompe ?
+
+Non, tu ne sais pas ? Bon, c’est peut-être à côté de Florence, enfin on ne sait pas ...à San Montano 15 *jours*, et ensuite à Paris 3 *jours*.
 
 <!-- id: s19-05-0066 -->
 
@@ -304,7 +308,7 @@ C’était naturellement complètement incorrect, car « *blow »...*
 
 <!-- id: s19-05-0074 -->
 
-> qui veut en effet dire souffler, c’est ce que j’avais trouvé *...« blow »* ça fait « *blown »,* ça fait pas « *blowed ».*
+qui veut en effet dire souffler, c’est ce que j’avais trouvé *...« blow »* ça fait « *blown »,* ça fait pas « *blowed ».*
 
 <!-- id: s19-05-0075 -->
 
@@ -364,7 +368,7 @@ Est-ce que c’est tou­jours aussi *binaire*, quand dans cette langue - car là
 
 <!-- id: s19-05-0089 -->
 
-> non pas qu’il le « *like* », enfin qu’il aime ça comme un bibelot ...mais qu’il a de l’amour pour son chien ?
+non pas qu’il le « *like* », enfin qu’il aime ça comme un bibelot ...mais qu’il a de l’amour pour son chien ?
 
 <!-- id: s19-05-0090 -->
 
@@ -384,7 +388,7 @@ C’est même au point qu’un jour je me suis aperçu...
 
 <!-- id: s19-05-0094 -->
 
-> puisque nous sommes dans le *lapsus*, continuons ...que j’écrivais : « *tu ne sauras jamais combien je t’ai aimé* ».
+puisque nous sommes dans le *lapsus*, continuons ...que j’écrivais : « *tu ne sauras jamais combien je t’ai aimé* ».
 
 <!-- id: s19-05-0095 -->
 
@@ -432,7 +436,7 @@ Est-ce que cette façon d’écrire est satisfaisante ? Je prétends, je pré­t
 
 <!-- id: s19-05-0106 -->
 
-> s’il y en a une - mais vous savez que la chose peut être mise en question - s’il y en a une qui se passe par *la parole* ...implique que soit inscrite la fonction *ternaire*, à savoir que *le message soit distingué* là et qu’il n’en reste pas moins que, y ayant un **d***estinateur*, un **D***estinataire*, un message, ce qui s’énonce dans un verbe est distinct.
+s’il y en a une - mais vous savez que la chose peut être mise en question - s’il y en a une qui se passe par *la parole* ...implique que soit inscrite la fonction *ternaire*, à savoir que *le message soit distingué* là et qu’il n’en reste pas moins que, y ayant un **d***estinateur*, un **D***estinataire*, un message, ce qui s’énonce dans un verbe est distinct.
 
 <!-- id: s19-05-0107 -->
 
@@ -444,7 +448,7 @@ C’est à savoir que le fait qu’il s’agisse d’une demande - **d** qui est
 
 <!-- id: s19-05-0109 -->
 
-> et seulement évident quand j’emploie *je* et *te,* quand j’emploie *tu* et *me* ...c’est que ce *je* et ce *te,* ce *tu,* ce *me,* ils sont précisément spécifiés de l’énoncé de la parole.
+et seulement évident quand j’emploie *je* et *te,* quand j’emploie *tu* et *me* ...c’est que ce *je* et ce *te,* ce *tu,* ce *me,* ils sont précisément spécifiés de l’énoncé de la parole.
 
 <!-- id: s19-05-0110 -->
 
@@ -456,7 +460,7 @@ Autrement dit, il n’y a pas *que* ce qu’on appelle vaguement « *le code* 
 
 <!-- id: s19-05-0112 -->
 
-> comme s’il n’était là qu’en un point ...la grammaire fait partie du code, à savoir cette *structure tétradique* que je viens de marquer comme étant essentielle à ce qui se dit.
+comme s’il n’était là qu’en un point ...la grammaire fait partie du code, à savoir cette *structure tétradique* que je viens de marquer comme étant essentielle à ce qui se dit.
 
 <!-- id: s19-05-0113 -->
 
@@ -496,7 +500,7 @@ La fonction du verbe, prenons ici le verbe *demander *: - *je te <u>demande</u
 
 <!-- id: s19-05-0122 -->
 
-> qu’est-ce que je te demande ? ...*de refuser...* autre verbe.
+qu’est-ce que je te demande ? ...*de refuser...* autre verbe.
 
 <!-- id: s19-05-0123 -->
 
@@ -528,7 +532,7 @@ Ce à quoi je vous conduis est ceci : c’est de savoir
 
 <!-- id: s19-05-0130 -->
 
-> et pour le nommer, puisque je l’ai nommé comme j’ai pu, *l’objet petit(a).*
+et pour le nommer, puisque je l’ai nommé comme j’ai pu, *l’objet petit(a).*
 
 <!-- id: s19-05-0131 -->
 
@@ -548,7 +552,7 @@ Ce n’est assurément pas parce qu’en somme mon ami Kojève a expressément f
 
 <!-- id: s19-05-0135 -->
 
-> Dieu sait que lui ne l’observait pas ! ...mais ce n’est pas parce qu’il l’a for­mulée que je me croirais obligé d’en rester à la démonstration, à la vivan­te démonstration qu’en a donnée Wittgenstein.
+Dieu sait que lui ne l’observait pas ! ...mais ce n’est pas parce qu’il l’a for­mulée que je me croirais obligé d’en rester à la démonstration, à la vivan­te démonstration qu’en a donnée Wittgenstein.
 
 <!-- id: s19-05-0136 -->
 
@@ -612,7 +616,7 @@ Et voilà qu’ici aussi ça se coupe \[en R\].
 
 <!-- id: s19-05-0151 -->
 
-> <img src="assets/image15.jpeg" style="width:0.33695in;height:1.29633in" alt="11a" />
+<img src="assets/image15.jpeg" style="width:0.33695in;height:1.29633in" alt="11a" />
 
 <!-- id: s19-05-0152 -->
 
@@ -624,7 +628,7 @@ Moyennant quoi, *si j’ai pas à te demander de le refuser, pourquoi est-ce que
 
 <!-- id: s19-05-0154 -->
 
-> <img src="assets/image16.jpeg" style="width:0.26128in;height:1.15943in" alt="12a" />
+<img src="assets/image16.jpeg" style="width:0.26128in;height:1.15943in" alt="12a" />
 
 <!-- id: s19-05-0155 -->
 
@@ -774,7 +778,7 @@ Si c’est, non « *ce que je t’offre* », mais « *que je t’offre* » q
 
 <!-- id: s19-05-0191 -->
 
-> ce fameux « *substantif verbal »* qui serait un moindre substantif, c’est pourtant bien quelque chose ...*ôtons l’offre,* et nous voyons que la demande et le refus perdent tout sens, parce que, qu’est-ce que ça peut bien vouloir dire de « *demander de refuser »* ?
+ce fameux « *substantif verbal »* qui serait un moindre substantif, c’est pourtant bien quelque chose ...*ôtons l’offre,* et nous voyons que la demande et le refus perdent tout sens, parce que, qu’est-ce que ça peut bien vouloir dire de « *demander de refuser »* ?
 
 <!-- id: s19-05-0192 -->
 
@@ -794,7 +798,7 @@ Chose étrange, tandis qu’avec ma géométrie de *la tétrade* je m’inter­r
 
 <!-- id: s19-05-0196 -->
 
-> dînant avec une charmante personne qui écoute les cours de M. Guilbaud ...que comme une bague au doigt \[*sic*\] me soit donné quelque chose que je vais maintenant, que je veux vous montrer, quelque chose qui n’est rien de moins, paraît-il - je l’ai appris hier soir - que les armoiries des Borromée.
+dînant avec une charmante personne qui écoute les cours de M. Guilbaud ...que comme une bague au doigt \[*sic*\] me soit donné quelque chose que je vais maintenant, que je veux vous montrer, quelque chose qui n’est rien de moins, paraît-il - je l’ai appris hier soir - que les armoiries des Borromée.
 
 <!-- id: s19-05-0197 -->
 
@@ -818,7 +822,7 @@ Si vous copiez bien ça soigneusement - j’ai pas fait de faute - vous vous ape
 
 <!-- id: s19-05-0202 -->
 
-> vous pouvez faire un effort comme ça, c’est accessible ...*vous le voyez plus*.
+vous pouvez faire un effort comme ça, c’est accessible ...*vous le voyez plus*.
 
 <!-- id: s19-05-0203 -->
 
@@ -838,11 +842,11 @@ Mais il y a rien à faire - hein ? - Il suffit donc que vous en coupiez un, pour
 
 <!-- id: s19-05-0207 -->
 
-> encore qu’ils aient l’air noués tout à fait comme dans le cas de ce que vous connaissez bien,
->
-> à savoir les trois anneaux des Jeux Olympiques, n’est-ce pas, et qui eux continuent de tenir
->
-> quand il y en a un qui a foutu le camp ...ben ceux-là, fini !
+encore qu’ils aient l’air noués tout à fait comme dans le cas de ce que vous connaissez bien,
+
+à savoir les trois anneaux des Jeux Olympiques, n’est-ce pas, et qui eux continuent de tenir
+
+quand il y en a un qui a foutu le camp ...ben ceux-là, fini !
 
 <!-- id: s19-05-0208 -->
 
@@ -850,7 +854,7 @@ C’est quelque chose qui a tout de même son intérêt, puisqu’il faut se sou
 
 <!-- id: s19-05-0209 -->
 
-> c’est ce qui va nous permettre aussi de retourner au *verbe binaire* ...c’est que les *binaires*, on ne semble pas s’être aperçu qu’ils ont un statut spécial très très en rapport avec *l’objet (a)*.
+c’est ce qui va nous permettre aussi de retourner au *verbe binaire* ...c’est que les *binaires*, on ne semble pas s’être aperçu qu’ils ont un statut spécial très très en rapport avec *l’objet (a)*.
 
 <!-- id: s19-05-0210 -->
 
@@ -858,19 +862,35 @@ Si au lieu de prendre l’homme et le chien, ces deux pauvres ani­maux, comme e
 
 <!-- id: s19-05-0211 -->
 
-> « *je t’emmerde* », ou bien :
+<div class="text-quotation">
+
+« *je t’emmerde* », ou bien :
+
+</div>
 
 <!-- id: s19-05-0212 -->
 
-> « *je te regarde* », ou bien :
+<div class="text-quotation">
+
+« *je te regarde* », ou bien :
+
+</div>
 
 <!-- id: s19-05-0213 -->
 
-> « *je te parle* », ou bien :
+<div class="text-quotation">
+
+« *je te parle* », ou bien :
+
+</div>
 
 <!-- id: s19-05-0214 -->
 
-> « *je te bouffe* ».
+<div class="text-quotation">
+
+« *je te bouffe* ».
+
+</div>
 
 <!-- id: s19-05-0215 -->
 
@@ -934,7 +954,7 @@ J’ai dit autrefois...
 
 <!-- id: s19-05-0230 -->
 
-> il y a très longtemps, et il y a des gens encore qui s’en bercent ...qu’une analyse ne finit que quand quelqu’un peut dire :
+il y a très longtemps, et il y a des gens encore qui s’en bercent ...qu’une analyse ne finit que quand quelqu’un peut dire :
 
 <!-- id: s19-05-0231 -->
 

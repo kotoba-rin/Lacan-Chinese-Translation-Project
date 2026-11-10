@@ -62,7 +62,7 @@ La singularité est de se demander comment *de telles énonciations* peuvent gar
 
 <!-- id: s15-03-0015 -->
 
-> *comme on le disait, je dois dire au début de ce qui est ici énoncé* …une sorte de *point idéal* qui aurait au moins cette vertu de représenter, sous une forme négative, l’absence donc de tous les inconvénients qui seraient apportés, qui seraient l’ordinaire des autres états. On n’en voit pas, à l’idée, d’autre raison.
+*comme on le disait, je dois dire au début de ce qui est ici énoncé* …une sorte de *point idéal* qui aurait au moins cette vertu de représenter, sous une forme négative, l’absence donc de tous les inconvénients qui seraient apportés, qui seraient l’ordinaire des autres états. On n’en voit pas, à l’idée, d’autre raison.
 
 <!-- id: s15-03-0016 -->
 
@@ -82,7 +82,7 @@ Je veux dire qu’aussi bien peut-on voir simplement mon discours repris…
 
 <!-- id: s15-03-0020 -->
 
-> je veux dire dans certaines de ses formes, telles de ses phrases, ses énoncés, voire ses tournures …repris *dans un contexte qui*, quant à son fond, *ne change guère*.
+je veux dire dans certaines de ses formes, telles de ses phrases, ses énoncés, voire ses tournures …repris *dans un contexte qui*, quant à son fond, *ne change guère*.
 
 <!-- id: s15-03-0021 -->
 
@@ -106,7 +106,7 @@ Grâce à quoi, bien sûr, cela lui donna matière et choix à adjoindre à son 
 
 <!-- id: s15-03-0026 -->
 
-> à la tendance supposée par lui constitutive d’une certaine inertie psychique …de rapporter radicalement le statut, l’ordination de la séance analytique en elle-même, j’entends dans sa nature, dans sa finalité aussi, à un retour qui se produirait par une sorte de penchant, de glissement tout ce qu’il y a de plus naturel vers cette fusion, ou quelque chose qui fût essentiellement de sa nature, cette prétendue fusion supposée à l’origine entre l’enfant et le corps maternel.
+à la tendance supposée par lui constitutive d’une certaine inertie psychique …de rapporter radicalement le statut, l’ordination de la séance analytique en elle-même, j’entends dans sa nature, dans sa finalité aussi, à un retour qui se produirait par une sorte de penchant, de glissement tout ce qu’il y a de plus naturel vers cette fusion, ou quelque chose qui fût essentiellement de sa nature, cette prétendue fusion supposée à l’origine entre l’enfant et le corps maternel.
 
 <!-- id: s15-03-0027 -->
 
@@ -138,7 +138,7 @@ Parce que, après tout on pourrait dire cela, c’est même tentant, toujours de
 
 <!-- id: s15-03-0034 -->
 
-> il s’agissait d’un petit compte rendu que j’ai fait de mon séminaire de l’année dernière \[1966-67:*La logique du fantasme*\] …d’un rappel de ces deux formules :
+il s’agissait d’un petit compte rendu que j’ai fait de mon séminaire de l’année dernière \[1966-67:*La logique du fantasme*\] …d’un rappel de ces deux formules :
 
 <!-- id: s15-03-0035 -->
 
@@ -218,7 +218,7 @@ Je le répète, si *l’acte psychanalytique* est très précisément ce à quoi
 
 <!-- id: s15-03-0054 -->
 
-> le côté *subjectivement intenable de la position de l’analyste*, ce qui assurément peut être suggéré : Freud n’y a pas manqué …mais bien plus, dis-je, à ce qui, une fois la perspective de l’acte acceptée, en résulterait quant à l’estimation que peut faire l’analyste de ce qu’il recueille, quant à lui, dans les suites de l’analyse, dans l’ordre à proprement parler du savoir.
+le côté *subjectivement intenable de la position de l’analyste*, ce qui assurément peut être suggéré : Freud n’y a pas manqué …mais bien plus, dis-je, à ce qui, une fois la perspective de l’acte acceptée, en résulterait quant à l’estimation que peut faire l’analyste de ce qu’il recueille, quant à lui, dans les suites de l’analyse, dans l’ordre à proprement parler du savoir.
 
 <!-- id: s15-03-0055 -->
 
@@ -226,7 +226,7 @@ Puisque après tout j’ai ici un public où semble-t-il - quoique *depuis deux 
 
 <!-- id: s15-03-0056 -->
 
-> je suis arrivé, même à Sainte-Anne, à obtenir une tolérance qui aille aussi loin : il m’est arrivé de parler tout un trimestre, et même un peu plus, du *Banquet* de PLATON, justement à propos du transfert \[*séminaire* 1960-61 : *Le transfert*...\] …eh bien aujourd’hui, je demanderai au moins à quelques-uns si cela peut les intéresser, d’ouvrir un dialogue qui s’appelle le *Ménon* [^23]. Il est arrivé autrefois qu’à l’origine d’un groupe où j’ai eu quelque part, mon cher ami Alexandre KOYRÉ[^24] avait bien voulu nous faire l’honneur et la générosité de venir nous parler du *Ménon.* Cela n’a pas fait long feu, mes collègues psychologues : « *Cela a été bon pour cette année* - *m’ont-ils dit à la fin de cette année qui était notre 2<sup>ém</sup> - fini maintenant !*
+je suis arrivé, même à Sainte-Anne, à obtenir une tolérance qui aille aussi loin : il m’est arrivé de parler tout un trimestre, et même un peu plus, du *Banquet* de PLATON, justement à propos du transfert \[*séminaire* 1960-61 : *Le transfert*...\] …eh bien aujourd’hui, je demanderai au moins à quelques-uns si cela peut les intéresser, d’ouvrir un dialogue qui s’appelle le *Ménon* [^23]. Il est arrivé autrefois qu’à l’origine d’un groupe où j’ai eu quelque part, mon cher ami Alexandre KOYRÉ[^24] avait bien voulu nous faire l’honneur et la générosité de venir nous parler du *Ménon.* Cela n’a pas fait long feu, mes collègues psychologues : « *Cela a été bon pour cette année* - *m’ont-ils dit à la fin de cette année qui était notre 2<sup>ém</sup> - fini maintenant !*
 
 <!-- id: s15-03-0057 -->
 
@@ -310,7 +310,7 @@ Si l’on ne sait pas de quoi on parle…
 
 <!-- id: s15-03-0077 -->
 
-> comme il s’avère après un prompt échange de répliques avec son partenaire qui est le MÉNON en question …surgit ce que vous connaissez et ce qui vient dans les deux phrases ou les trois que je vous ai lues tout à l’heure, à savoir *la théorie de la réminiscence*. Vous savez de quoi il s’agit, mais je vais le reprendre et peut-être un peu plus l’étendre et le développer, montrer ce que cela veut dire, *ce que cela peut vouloir dire pour nous*, ce en quoi cela *mérite* d’être, par nous, relevé.
+comme il s’avère après un prompt échange de répliques avec son partenaire qui est le MÉNON en question …surgit ce que vous connaissez et ce qui vient dans les deux phrases ou les trois que je vous ai lues tout à l’heure, à savoir *la théorie de la réminiscence*. Vous savez de quoi il s’agit, mais je vais le reprendre et peut-être un peu plus l’étendre et le développer, montrer ce que cela veut dire, *ce que cela peut vouloir dire pour nous*, ce en quoi cela *mérite* d’être, par nous, relevé.
 
 <!-- id: s15-03-0078 -->
 
@@ -318,7 +318,7 @@ Qu’on dise, qu’on exprime que *l’âme*…
 
 <!-- id: s15-03-0079 -->
 
-> comme on s’exprime : c’est le langage dont on use en tout cas dans ce dialogue …ne fait rien - quand elle est enseignée - que de se ressouvenir, ceci comporte, mais dans ce texte comme dans le notre, l’idée d’une étendue sans fin ou plutôt d’une durée sans limites quant à ce qu’il en est de cette âme.
+comme on s’exprime : c’est le langage dont on use en tout cas dans ce dialogue …ne fait rien - quand elle est enseignée - que de se ressouvenir, ceci comporte, mais dans ce texte comme dans le notre, l’idée d’une étendue sans fin ou plutôt d’une durée sans limites quant à ce qu’il en est de cette âme.
 
 <!-- id: s15-03-0080 -->
 
@@ -326,9 +326,9 @@ C’est un peu ce que nous aussi sortons quand nous nous trouvons à bout d’ar
 
 <!-- id: s15-03-0081 -->
 
-> puisqu’on ne voit pas très bien comment cela peut se passer dans *l’ontogenèse*
->
-> pour que des choses, toujours les mêmes et si typiques, se reproduisent …*à faire appel à* *la phylogenèse :* *on ne voit pas beaucoup de différence*.
+puisqu’on ne voit pas très bien comment cela peut se passer dans *l’ontogenèse*
+
+pour que des choses, toujours les mêmes et si typiques, se reproduisent …*à faire appel à* *la phylogenèse :* *on ne voit pas beaucoup de différence*.
 
 <!-- id: s15-03-0082 -->
 
@@ -364,7 +364,7 @@ Il n’y a pas de *science de la vertu*, ce qui se démontre aisément par l’e
 
 <!-- id: s15-03-0090 -->
 
-> j’entends vertueux au sens où le mot vertu est employé dans ce texte, à savoir *la vertu du citoyen et celle du bon politique* …il est très manifeste que - ceci est développé par plus d’un exemple - ils ne savent même pas la transmettre à leurs enfants, ils font apprendre autre chose à leurs enfants. De sorte que nous en arrivons à la fin à ceci, que la vertu est bien plus près de l’opinion vraie, comme on s’exprime, que de la science. Or, l’opinion vraie comment nous vient-elle ? Du ciel !
+j’entends vertueux au sens où le mot vertu est employé dans ce texte, à savoir *la vertu du citoyen et celle du bon politique* …il est très manifeste que - ceci est développé par plus d’un exemple - ils ne savent même pas la transmettre à leurs enfants, ils font apprendre autre chose à leurs enfants. De sorte que nous en arrivons à la fin à ceci, que la vertu est bien plus près de l’opinion vraie, comme on s’exprime, que de la science. Or, l’opinion vraie comment nous vient-elle ? Du ciel !
 
 <!-- id: s15-03-0091 -->
 
@@ -372,7 +372,7 @@ Voilà la troisième caractéristique de quelque chose qui a ceci de commun, c�
 
 <!-- id: s15-03-0092 -->
 
-> vous sentez combien c’est près - je suis prudent - de la notation que je fais sous le terme de sujet …ce qui peut apprendre, c’est un sujet qui déjà a ce premier caractère d’être universel. Tous les sujets, là-dessus, sont au même point de départ, leur extension est d’une nature telle que cela leur suppose un *passé infini* et donc probablement un *avenir* qui ne l’est pas moins, encore que la question ne soit pas tranchée dans ce dialogue sur ce qu’il en est *de la survie*.
+vous sentez combien c’est près - je suis prudent - de la notation que je fais sous le terme de sujet …ce qui peut apprendre, c’est un sujet qui déjà a ce premier caractère d’être universel. Tous les sujets, là-dessus, sont au même point de départ, leur extension est d’une nature telle que cela leur suppose un *passé infini* et donc probablement un *avenir* qui ne l’est pas moins, encore que la question ne soit pas tranchée dans ce dialogue sur ce qu’il en est *de la survie*.
 
 <!-- id: s15-03-0093 -->
 
@@ -384,7 +384,7 @@ Que ce sujet soit « *hors classe* » voilà un autre terme, qu’il soit abs
 
 <!-- id: s15-03-0095 -->
 
-> de ce qu’on y appelle d’un terme qui fait écho vraiment à tout ce qu’ici nous pouvons dire …qui n’y est pas marqué de concaténation, d’*articulation logique* du même style que notre science, que cette opinion vraie ait ce quelque chose qui fasse qu’elle soit bien plus de l’ordre de *la poésie*, ποίησις \[poïesis\], voilà à quoi nous sommes amenés par l’interrogation socratique.
+de ce qu’on y appelle d’un terme qui fait écho vraiment à tout ce qu’ici nous pouvons dire …qui n’y est pas marqué de concaténation, d’*articulation logique* du même style que notre science, que cette opinion vraie ait ce quelque chose qui fasse qu’elle soit bien plus de l’ordre de *la poésie*, ποίησις \[poïesis\], voilà à quoi nous sommes amenés par l’interrogation socratique.
 
 <!-- id: s15-03-0096 -->
 
@@ -392,7 +392,7 @@ Si j’ai mis autant de soin à ce rappel, c’est pour que vous notiez ce que p
 
 <!-- id: s15-03-0097 -->
 
-> à ce point archaïque mais resté présent de l’interrogation sur le savoir …ce que peut signifier ceci, qui n’a pas été isolé avant que je ne le fasse, proprement à propos du transfert : la fonction qu’a, non pas même dans l’articulation, dans les présupposés de toute question sur le savoir, ce que j’appelle le *sujet supposé savoir*.
+à ce point archaïque mais resté présent de l’interrogation sur le savoir …ce que peut signifier ceci, qui n’a pas été isolé avant que je ne le fasse, proprement à propos du transfert : la fonction qu’a, non pas même dans l’articulation, dans les présupposés de toute question sur le savoir, ce que j’appelle le *sujet supposé savoir*.
 
 <!-- id: s15-03-0098 -->
 
@@ -400,7 +400,7 @@ Les questions sont posées à partir de ceci : qu’il y a quelque part cette f
 
 <!-- id: s15-03-0099 -->
 
-> appelez–la comme vous voudrez, ici elle apparaît sous toutes ses faces évidentes, d’être mythique …*qu’il y a quelque part, quelque chose qui joue fonction de sujet supposé savoir*. J’ai déjà ici mis en avant ceci comme un point d’interrogation à propos de telle ou telle avancée, percée, poussée, d’un certain secteur de notre science.
+appelez–la comme vous voudrez, ici elle apparaît sous toutes ses faces évidentes, d’être mythique …*qu’il y a quelque part, quelque chose qui joue fonction de sujet supposé savoir*. J’ai déjà ici mis en avant ceci comme un point d’interrogation à propos de telle ou telle avancée, percée, poussée, d’un certain secteur de notre science.
 
 <!-- id: s15-03-0100 -->
 
@@ -416,7 +416,7 @@ Remarquez, quand SOCRATE interroge l’esclave, qu’est-ce qu’il fait ? Il ap
 
 <!-- id: s15-03-0103 -->
 
-> même s’il ne le fait pas au tableau, comme c’est un dessin très simple …on peut dire qu’il apporte le dessin de ce carré *d’ailleurs*, de la façon dont il raisonne, à savoir sous les modes premiers d’une *géométrie métrique*, à savoir par décomposition en triangles et comptage de triangles d’égales surfaces.
+même s’il ne le fait pas au tableau, comme c’est un dessin très simple …on peut dire qu’il apporte le dessin de ce carré *d’ailleurs*, de la façon dont il raisonne, à savoir sous les modes premiers d’une *géométrie métrique*, à savoir par décomposition en triangles et comptage de triangles d’égales surfaces.
 
 <!-- id: s15-03-0104 -->
 
@@ -432,9 +432,9 @@ Et interrogeant l’esclave, la question…
 
 <!-- id: s15-03-0107 -->
 
-> ce n’est pas nous qui l’inventons, il a été remarqué depuis bien longtemps que ce procédé n’a rien de bien démonstratif pour autant que, bien loin que SOCRATE puisse tirer argument du fait que l’esclave n’a jamais fait
->
-> de géométrie et qu’on ne lui a pas donné de leçons, rien que la façon d’organiser le dessin de la part de SOCRATE, c’est déjà donner à l’esclave, comme il est fort sensible, une leçon de géométrie …mais la question n’est pas là, pour nous elle est, si je puis dire, à considérer dans ces termes : SOCRATE *apporte un dessin*.
+ce n’est pas nous qui l’inventons, il a été remarqué depuis bien longtemps que ce procédé n’a rien de bien démonstratif pour autant que, bien loin que SOCRATE puisse tirer argument du fait que l’esclave n’a jamais fait
+
+de géométrie et qu’on ne lui a pas donné de leçons, rien que la façon d’organiser le dessin de la part de SOCRATE, c’est déjà donner à l’esclave, comme il est fort sensible, une leçon de géométrie …mais la question n’est pas là, pour nous elle est, si je puis dire, à considérer dans ces termes : SOCRATE *apporte un dessin*.
 
 <!-- id: s15-03-0108 -->
 
@@ -462,7 +462,7 @@ Dans la dimension interprétative, c’est dans la mesure où notre interprétat
 
 <!-- id: s15-03-0114 -->
 
-> qui est pourtant une chaîne et déjà une chaîne d’articulation signifiante …qu’elle fonctionne.
+qui est pourtant une chaîne et déjà une chaîne d’articulation signifiante …qu’elle fonctionne.
 
 <!-- id: s15-03-0115 -->
 
@@ -478,7 +478,7 @@ Est-ce que c’est *entre ces deux termes* que se fait le suspens de ce dont il 
 
 <!-- id: s15-03-0118 -->
 
-> *je dis « re... », parce que dans ce cas, déjà, la première inscription signifiante est déjà la traduction de quelque chose* …est-ce que l’organisation signifiante de l’inconscient structuré comme un langage, est ce sur quoi notre interprétation vient s’appliquer ? Ou est-ce qu’au contraire notre interprétation, en quelque sorte, est une opération d’un tout autre ordre : celle qui révèle un dessin jusque-là caché ?
+*je dis « re... », parce que dans ce cas, déjà, la première inscription signifiante est déjà la traduction de quelque chose* …est-ce que l’organisation signifiante de l’inconscient structuré comme un langage, est ce sur quoi notre interprétation vient s’appliquer ? Ou est-ce qu’au contraire notre interprétation, en quelque sorte, est une opération d’un tout autre ordre : celle qui révèle un dessin jusque-là caché ?
 
 <!-- id: s15-03-0119 -->
 
@@ -486,7 +486,7 @@ Ce n’est évidemment pas cela, ni l’un ni l’autre…
 
 <!-- id: s15-03-0120 -->
 
-> malgré ce que, peut-être, cette opposition pu suggérer de première réponse à certains …que j’enseigne. Il s’agit de ceci qui rend la tâche pour nous beaucoup plus difficile : c’est à savoir qu’en effet, les choses ont à faire avec l’opération du signifiant, ce qui rend éminemment possible *la première référence*, *le premier modèle* à donner de ce qu’est *un décryptage*.
+malgré ce que, peut-être, cette opposition pu suggérer de première réponse à certains …que j’enseigne. Il s’agit de ceci qui rend la tâche pour nous beaucoup plus difficile : c’est à savoir qu’en effet, les choses ont à faire avec l’opération du signifiant, ce qui rend éminemment possible *la première référence*, *le premier modèle* à donner de ce qu’est *un décryptage*.
 
 <!-- id: s15-03-0121 -->
 
@@ -632,9 +632,9 @@ Dans toute la mesure où *l’acte psychanalytique* est méconnu, dans cette mê
 
 <!-- id: s15-03-0156 -->
 
-> que nous avons constatés, que nous pouvons toucher du doigt, qui se manifestent et s’expriment
->
-> dans maints autres passages et dans toute l’ampleur de la production de la littérature analytique …déficits au regard de ce qui peut être totalisé, de ce qu’elle pourra emmagasiner de savoir.
+que nous avons constatés, que nous pouvons toucher du doigt, qui se manifestent et s’expriment
+
+dans maints autres passages et dans toute l’ampleur de la production de la littérature analytique …déficits au regard de ce qui peut être totalisé, de ce qu’elle pourra emmagasiner de savoir.
 
 ## Notes
 

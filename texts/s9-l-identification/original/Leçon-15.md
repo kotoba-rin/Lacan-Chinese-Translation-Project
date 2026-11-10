@@ -18,11 +18,11 @@ Ce *schéma* n’est pas l’objet de *mon discours d’aujourd’hui*, il ne se
 
 <!-- id: s9-15-0004 -->
 
-> et pour que - quand je mettrai en valeur tel ou tel point, que j’accen­tuerai tel relief - vous *enregistriez*,
->
-> si je ­puis dire, à chaque instant le degré d’orientation, le degré de pertinence, par rapport à un certain but
->
-> à atteindre, de ce qu’à cet instant j’avancerai ...je vous dirai qu’à la limite *ce qui peut s’inscrire sur ce tore*, pour autant que cela peut nous servir, *va à peu près se symboliser* ainsi, que cette forme, ces cercles dessi­nés, ces lettres attenantes à chacun de ces cercles, vont nous le désigner à l’ins­tant.
+et pour que - quand je mettrai en valeur tel ou tel point, que j’accen­tuerai tel relief - vous *enregistriez*,
+
+si je ­puis dire, à chaque instant le degré d’orientation, le degré de pertinence, par rapport à un certain but
+
+à atteindre, de ce qu’à cet instant j’avancerai ...je vous dirai qu’à la limite *ce qui peut s’inscrire sur ce tore*, pour autant que cela peut nous servir, *va à peu près se symboliser* ainsi, que cette forme, ces cercles dessi­nés, ces lettres attenantes à chacun de ces cercles, vont nous le désigner à l’ins­tant.
 
 <!-- id: s9-15-0005 -->
 
@@ -266,17 +266,21 @@ Entendez que *c’est pour vous paver la voie de fleurs* que je vous rappelle ce
 
 <!-- id: s9-15-0065 -->
 
-> « *La pâle est aux jasmins en blancheur comparable.*
->
-> *La noire à faire peur, une brune adorable.*
->
-> *La maigre a de la taille et de la liberté.*
->
-> *La grasse est dans son port pleine de majesté.*
->
-> *La malpropre sur soi, de peu d’attraits chargée,*
->
-> *Est mise sous le nom de beauté négligée*... »
+<div class="text-quotation">
+
+« *La pâle est aux jasmins en blancheur comparable.*
+
+*La noire à faire peur, une brune adorable.*
+
+*La maigre a de la taille et de la liberté.*
+
+*La grasse est dans son port pleine de majesté.*
+
+*La malpropre sur soi, de peu d’attraits chargée,*
+
+*Est mise sous le nom de beauté négligée*... »
+
+</div>
 
 <!-- id: s9-15-0066 -->
 
@@ -292,9 +296,9 @@ Sinon le chemin déjà parcouru par nous de la *recherche sadienne*, que je vous
 
 <!-- id: s9-15-0069 -->
 
-> je dis l’ invective, contre l’Être suprême, *sa négation* n’étant qu’une forme de l’invective,
->
-> même si c’en est la négation la plus authen­tique
+je dis l’ invective, contre l’Être suprême, *sa négation* n’étant qu’une forme de l’invective,
+
+même si c’en est la négation la plus authen­tique
 
 <!-- id: s9-15-0070 -->
 
@@ -438,9 +442,9 @@ Donc, l’ἀϕάνιςις \[aphanisis\] expliquée comme source de l’angoiss
 
 <!-- id: s9-15-0105 -->
 
-> dont on comprend fort bien qu’il ait en effet une question à se poser,
->
-> car *le complexe de castration* reste jusqu’à présent une réalité non complètement élucidée
+dont on comprend fort bien qu’il ait en effet une question à se poser,
+
+car *le complexe de castration* reste jusqu’à présent une réalité non complètement élucidée
 
 <!-- id: s9-15-0106 -->
 
@@ -484,7 +488,11 @@ Rappelez-vous qu’il arrive souvent que le fond du désir d’un enfant c’est
 
 <!-- id: s9-15-0116 -->
 
-> « *Qu’il soit comme pas un, qu’il soit ma malédiction sur le monde.* »
+<div class="text-quotation">
+
+« *Qu’il soit comme pas un, qu’il soit ma malédiction sur le monde.* »
+
+</div>
 
 ## Notes
 

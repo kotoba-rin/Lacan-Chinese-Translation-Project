@@ -22,9 +22,9 @@ Le besoin d’imager...
 
 <!-- id: s2-05-0005 -->
 
-> et Dieu sait si c’est légi­time, le terme de *modèle*, *pattern*, est quelque chose qui a sa valeur, sa fonc­tion, et qui exprime bien d’une certaine façon le procédé dans l’exposé scien­tifique aussi bien que dans certains autres domaines,
->
-> peut-être pas tellement qu’on le pense d’ailleurs
+et Dieu sait si c’est légi­time, le terme de *modèle*, *pattern*, est quelque chose qui a sa valeur, sa fonc­tion, et qui exprime bien d’une certaine façon le procédé dans l’exposé scien­tifique aussi bien que dans certains autres domaines,
+
+peut-être pas tellement qu’on le pense d’ailleurs
 
 <!-- id: s2-05-0006 -->
 
@@ -88,7 +88,7 @@ Cela va entraîner de fâcheuses rencontres : elles sont en quelque sorte essen
 
 <!-- id: s2-05-0021 -->
 
-> nous pouvons bien penser qu’il y a quelqu’un qui les a conduites et surveille son fonctionnement, le législateur
+nous pouvons bien penser qu’il y a quelqu’un qui les a conduites et surveille son fonctionnement, le législateur
 
 <!-- id: s2-05-0022 -->
 
@@ -160,13 +160,17 @@ En effet au point de l’exposé où je parle de cette voix qui remet de l’ord
 
 <!-- id: s2-05-0039 -->
 
-> « ...*cette auguste Voix*
->
-> *Qui se connaît quand elle sonne*
->
-> *N’être plus la voix de personne*
->
-> *Tant que des ondes et des bois !* » \[[Paul Valéry : *Charmes*, *La Pythie*](http://www.poesies.net/paulvalerycharmes.txt)\]
+<div class="text-quotation">
+
+« ...*cette auguste Voix*
+
+*Qui se connaît quand elle sonne*
+
+*N’être plus la voix de personne*
+
+*Tant que des ondes et des bois !* » \[[Paul Valéry : *Charmes*, *La Pythie*](http://www.poesies.net/paulvalerycharmes.txt)\]
+
+</div>
 
 <!-- id: s2-05-0040 -->
 
@@ -174,7 +178,7 @@ C’est du langage qu’il parle, quand il s’exprime ainsi. Il est clair que n
 
 <!-- id: s2-05-0041 -->
 
-> jusqu’à ce qu’en effet, au dernier terme, nous reconnaissions que c’est peut-être en effet la voix de *personne*
+jusqu’à ce qu’en effet, au dernier terme, nous reconnaissions que c’est peut-être en effet la voix de *personne*
 
 <!-- id: s2-05-0042 -->
 
@@ -190,15 +194,19 @@ Là-dessus, c’est bien là que *la personne anonyme* que j’évoquai tout à 
 
 <!-- id: s2-05-0045 -->
 
-> « *Vous la faites rentrer par là, la conscience. Vous qui venez de nous présenter d’une façon si désinvolte la conscience,*
->
-> *cette conscience qui a été en effet pour nous jusqu’à présent, dans notre tradition, une des formes d’idolification du sujet,*
->
-> *là où on le saisit vraiment, où on le touche, voilà que tout d’un coup vous en faites cette surface d’eau qu’un simple souffle*
->
-> *suffit à troubler, ou plus exactement un petit bout de verre cassé, « ça n’est rien d’autre », me dit-on. *
->
-> *Mais, par contre, pour que le sujet se compte lui-même, vous allez être bien forcé de nous réintégrer ici la conscience.* »
+<div class="text-quotation">
+
+« *Vous la faites rentrer par là, la conscience. Vous qui venez de nous présenter d’une façon si désinvolte la conscience,*
+
+*cette conscience qui a été en effet pour nous jusqu’à présent, dans notre tradition, une des formes d’idolification du sujet,*
+
+*là où on le saisit vraiment, où on le touche, voilà que tout d’un coup vous en faites cette surface d’eau qu’un simple souffle*
+
+*suffit à troubler, ou plus exactement un petit bout de verre cassé, « ça n’est rien d’autre », me dit-on. *
+
+*Mais, par contre, pour que le sujet se compte lui-même, vous allez être bien forcé de nous réintégrer ici la conscience.* »
+
+</div>
 
 <!-- id: s2-05-0046 -->
 
@@ -210,7 +218,7 @@ Car s’il y a quelque chose que l’expérience analytique nous a montré, et q
 
 <!-- id: s2-05-0048 -->
 
-> *individu* que nous nous sommes jusqu’à présent permis de concevoir, d’élaborer comme une pure et simple machine
+*individu* que nous nous sommes jusqu’à présent permis de concevoir, d’élaborer comme une pure et simple machine
 
 <!-- id: s2-05-0049 -->
 
@@ -254,9 +262,9 @@ Et pour tout dire, si les philosophes me mettent en garde contre certaine façon
 
 <!-- id: s2-05-0059 -->
 
-> dans un monde structuré à la KANT, voire à la HEGEL, car HEGEL n’a pas complètement abandonné
->
-> la fonction centrale de la conscience, bien qu’il nous permette de nous en libérer
+dans un monde structuré à la KANT, voire à la HEGEL, car HEGEL n’a pas complètement abandonné
+
+la fonction centrale de la conscience, bien qu’il nous permette de nous en libérer
 
 <!-- id: s2-05-0060 -->
 
@@ -296,7 +304,7 @@ Il se produit en effet quelque chose qui fait beaucoup ressem­bler le rêve à 
 
 <!-- id: s2-05-0069 -->
 
-> et de préfé­rence le miroir tel qu’il a toujours été depuis le début de l’humanité jusqu’à une époque relativement récente, c’est-à-dire quelque chose encore plus *obscur* que *clair*, le miroir de métal poli
+et de préfé­rence le miroir tel qu’il a toujours été depuis le début de l’humanité jusqu’à une époque relativement récente, c’est-à-dire quelque chose encore plus *obscur* que *clair*, le miroir de métal poli
 
 <!-- id: s2-05-0070 -->
 
@@ -308,7 +316,7 @@ Où est la conscien­ce ? Dans quel sens devons-nous la trouver, la chercher ? O
 
 <!-- id: s2-05-0072 -->
 
-> si vous voulez, c’est même jusque-là que nous en viendrons, comme FREUD y est amené par sa spéculation
+si vous voulez, c’est même jusque-là que nous en viendrons, comme FREUD y est amené par sa spéculation
 
 <!-- id: s2-05-0073 -->
 
@@ -388,7 +396,7 @@ Je vais ramener à ce qui est le vice du sujet. Il s’agit de savoir si le *moi
 
 <!-- id: s2-05-0092 -->
 
-> bien entendu il n’est pas question que nous réduisions *le privilège de la conscience*, de l’inconscient
+bien entendu il n’est pas question que nous réduisions *le privilège de la conscience*, de l’inconscient
 
 <!-- id: s2-05-0093 -->
 
@@ -400,7 +408,7 @@ Ce n’est pas seulement pour vous rappeler la fonction de l’inconscient que j
 
 <!-- id: s2-05-0095 -->
 
-> si on peut s’exprimer ainsi, sous cet *aspect inconscient*, et non seulement *inconscient* mais exclu du système du *moi*
+si on peut s’exprimer ainsi, sous cet *aspect inconscient*, et non seulement *inconscient* mais exclu du système du *moi*
 
 <!-- id: s2-05-0096 -->
 
@@ -496,9 +504,9 @@ Il y a quelque chose là, fermé, à l’intérieur de quoi un certain équilibr
 
 <!-- id: s2-05-0119 -->
 
-> si vous voulez pour donner son sens aux choses et introduire un mot qui fait la clarté, commence de répondre aux ques­tions que fait subtilement LEFÈVRE-PONTALIS, dans sa participation à notre dia­logue, qui a bien une autre valeur qu’une *simple contradiction*. LEFÈVRE-PONTALIS posait, à propos de ce qu’il appelait l’ambiguïté
->
-> de cet *automatisme de répéti­tion*
+si vous voulez pour donner son sens aux choses et introduire un mot qui fait la clarté, commence de répondre aux ques­tions que fait subtilement LEFÈVRE-PONTALIS, dans sa participation à notre dia­logue, qui a bien une autre valeur qu’une *simple contradiction*. LEFÈVRE-PONTALIS posait, à propos de ce qu’il appelait l’ambiguïté
+
+de cet *automatisme de répéti­tion*
 
 <!-- id: s2-05-0120 -->
 
@@ -510,9 +518,9 @@ Et en fin de compte, quel que soit le caractère désengrené que nous suppo­si
 
 <!-- id: s2-05-0122 -->
 
-> il ne saurait être désengrené, bien entendu, puisque c’est précisément là tout ce qui est l’ob­jet
->
-> de l’investigation de l’expérience analytique
+il ne saurait être désengrené, bien entendu, puisque c’est précisément là tout ce qui est l’ob­jet
+
+de l’investigation de l’expérience analytique
 
 <!-- id: s2-05-0123 -->
 
@@ -576,7 +584,7 @@ D’abord, parce que c’est une lecture absolument ravissante, du style d’ép
 
 <!-- id: s2-05-0138 -->
 
-> vous verrez qu’en fin de compte mon état primitif d’un sujet qui se trouve partout, et qui est en quelque sorte l’image visuelle, a quelque ancêtre
+vous verrez qu’en fin de compte mon état primitif d’un sujet qui se trouve partout, et qui est en quelque sorte l’image visuelle, a quelque ancêtre
 
 <!-- id: s2-05-0139 -->
 
@@ -600,9 +608,9 @@ Dans *Au-delà du principe du plaisir*, c’est ça, ni plus ni moins. Il se le 
 
 <!-- id: s2-05-0144 -->
 
-> qui porte à lui tout seul, en quelque sorte, une espèce de contradiction à la règle du *principe de plai­sir*,
->
-> en tant qu’au niveau du rêve elle s’incarne dans le principe de réalisation *imaginaire* du désir
+qui porte à lui tout seul, en quelque sorte, une espèce de contradiction à la règle du *principe de plai­sir*,
+
+en tant qu’au niveau du rêve elle s’incarne dans le principe de réalisation *imaginaire* du désir
 
 <!-- id: s2-05-0145 -->
 
@@ -686,7 +694,7 @@ Je vais laisser les choses sur cette question ouverte, quelle est la nature du p
 
 <!-- id: s2-05-0165 -->
 
-> vous le voyez bien, et c’est bien pour cela que tout ceci est organisé et dirigé
+vous le voyez bien, et c’est bien pour cela que tout ceci est organisé et dirigé
 
 <!-- id: s2-05-0166 -->
 

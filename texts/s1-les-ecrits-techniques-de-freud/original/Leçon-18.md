@@ -134,7 +134,11 @@ La situation est exactement complémentaire. Et cette complémentarité, que j�
 
 <!-- id: s1-18-0033 -->
 
-> « *Quand on n’a plus rien à donner, eh bien, on prend.* »
+<div class="text-quotation">
+
+« *Quand on n’a plus rien à donner, eh bien, on prend.* »
+
+</div>
 
 <!-- id: s1-18-0034 -->
 
@@ -154,9 +158,9 @@ Néanmoins, certains rapports d’ethnographes laissent à penser, par exemple q
 
 <!-- id: s1-18-0038 -->
 
-> *ces sortes de famines atroces* qui font partie constamment du rythme *de certaines populations* restées dans des stades très primitifs,
->
-> isolées aussi au point de vue communauté dans des pays extrêmes, comme ceux auxquels je viens de faire allusion
+*ces sortes de famines atroces* qui font partie constamment du rythme *de certaines populations* restées dans des stades très primitifs,
+
+isolées aussi au point de vue communauté dans des pays extrêmes, comme ceux auxquels je viens de faire allusion
 
 <!-- id: s1-18-0039 -->
 
@@ -448,7 +452,7 @@ Mais vous voyez aussi du même coup que nous ne pouvons…
 
 <!-- id: s1-18-0111 -->
 
-> tout à l’inverse de la perspective de BALINT au contraire, et c’est beaucoup plus conforme à notre expérience
+tout à l’inverse de la perspective de BALINT au contraire, et c’est beaucoup plus conforme à notre expérience
 
 <!-- id: s1-18-0112 -->
 

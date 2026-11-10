@@ -30,7 +30,7 @@ C’est lié évidemment...
 
 <!-- id: s23-05-0007 -->
 
-> je peux le dire parce que je l’éprouve, ces jours-ci, journellement ...c’est lié évidemment à mon manque de pratique, disons à mon inexpérience de la langue dans laquelle il écrit.
+je peux le dire parce que je l’éprouve, ces jours-ci, journellement ...c’est lié évidemment à mon manque de pratique, disons à mon inexpérience de la langue dans laquelle il écrit.
 
 <!-- id: s23-05-0008 -->
 
@@ -70,7 +70,7 @@ Je l’écouterai, et j’espère que les réflexions petites, n’est-ce pas...
 
 <!-- id: s23-05-0017 -->
 
-> je ne lui conseille pas d’abréger, bien loin de là ...les réflexions petites que j’aurai à y ajouter seront faites, avec tout le respect que je lui dois, pour le fait qu’il m’ait introduit à ce que j’ai appelé « *Joyce le Sinthome* ».
+je ne lui conseille pas d’abréger, bien loin de là ...les réflexions petites que j’aurai à y ajouter seront faites, avec tout le respect que je lui dois, pour le fait qu’il m’ait introduit à ce que j’ai appelé « *Joyce le Sinthome* ».
 
 <!-- id: s23-05-0018 -->
 
@@ -122,7 +122,7 @@ Pour situer le point dont je suis parti, par accident, il faut que je dise qu’
 
 <!-- id: s23-05-0030 -->
 
-> je dis *très didactiquement* ...qu’il s’agit d’un petit bout de *Circé,* d’un petit bout d’échange dans *Circé,* ce chapitre qu’on a appelé a posteriori *Circé,* d’*Ulysse*, et qui est le chapitre - dit-on - « *de l’hallucination* », dont l’art dit-on, est la magie, mais la catégorie : *l’hallucination*.
+je dis *très didactiquement* ...qu’il s’agit d’un petit bout de *Circé,* d’un petit bout d’échange dans *Circé,* ce chapitre qu’on a appelé a posteriori *Circé,* d’*Ulysse*, et qui est le chapitre - dit-on - « *de l’hallucination* », dont l’art dit-on, est la magie, mais la catégorie : *l’hallucination*.
 
 <!-- id: s23-05-0031 -->
 
@@ -158,7 +158,7 @@ L’important est que ça parle et ça part dans tous les sens, que tout peut y 
 
 <!-- id: s23-05-0039 -->
 
-> pour reprendre un terme que nous allons rencontrer tout à l’heure ...tout peut *personner* dans ce texte-là. Tout peut être occasion d’effet de voix au travers du masque.
+pour reprendre un terme que nous allons rencontrer tout à l’heure ...tout peut *personner* dans ce texte-là. Tout peut être occasion d’effet de voix au travers du masque.
 
 <!-- id: s23-05-0040 -->
 
@@ -194,11 +194,15 @@ Il tâte le visage inerte de Bloom avec des griffes trem­blantes de vieux gypa�
 
 <!-- id: s23-05-0048 -->
 
-> « *N’es-tu pas mon fils, Léopold, petit-fils de Léopold* ?
->
-> *N’es-tu pas mon cher fils Léopold qui a quitté la maison de son père*
->
-> *et qui a quitté le Dieu de ses pères, Abraham et Jacob* ? »
+<div class="text-quotation">
+
+« *N’es-tu pas mon fils, Léopold, petit-fils de Léopold* ?
+
+*N’es-tu pas mon cher fils Léopold qui a quitté la maison de son père*
+
+*et qui a quitté le Dieu de ses pères, Abraham et Jacob* ? »
+
+</div>
 
 <!-- id: s23-05-0049 -->
 
@@ -218,7 +222,11 @@ Et ce texte-là se trouve page 75, dans l’édition française. Voici le texte 
 
 <!-- id: s23-05-0053 -->
 
-> « *La voix de Nathan ! La voix de son fils ! J’entends la voix de Nathan qui laissa son père mourir de douleur et de chagrin dans mes bras, qui abandonna la maison de son père et le Dieu de son père* ».
+<div class="text-quotation">
+
+« *La voix de Nathan ! La voix de son fils ! J’entends la voix de Nathan qui laissa son père mourir de douleur et de chagrin dans mes bras, qui abandonna la maison de son père et le Dieu de son père* ».
+
+</div>
 
 <!-- id: s23-05-0054 -->
 
@@ -238,7 +246,11 @@ Il répond ceci - je vous donne d’abord la phrase, le francais :
 
 <!-- id: s23-05-0058 -->
 
-> « *Bloom *: (*prudent*) *Je crois que oui, Père. Mosenthal. Tout ce qui nous reste de lui.* » \[Ulysse p. 429\]
+<div class="text-quotation">
+
+« *Bloom *: (*prudent*) *Je crois que oui, Père. Mosenthal. Tout ce qui nous reste de lui.* » \[Ulysse p. 429\]
+
+</div>
 
 <!-- id: s23-05-0059 -->
 
@@ -246,7 +258,11 @@ Et alors, je vais ici écrire le texte anglais de cette phrase:
 
 <!-- id: s23-05-0060 -->
 
-> « *Bloom :* (*with precaution*) *I suppose so. Mosenthal. All that’s left of him.* »
+<div class="text-quotation">
+
+« *Bloom :* (*with precaution*) *I suppose so. Mosenthal. All that’s left of him.* »
+
+</div>
 
 <!-- id: s23-05-0061 -->
 
@@ -306,7 +322,7 @@ Déplacement, il y en a un qui est évident, c’est que dans le texte...
 
 <!-- id: s23-05-0075 -->
 
-> le texte disons *« premier »,* celui des *Lotophages*, celui de la page 75-76 ...le nom en question, le nom de l’auteur, figure *avant* la citation.
+le texte disons *« premier »,* celui des *Lotophages*, celui de la page 75-76 ...le nom en question, le nom de l’auteur, figure *avant* la citation.
 
 <!-- id: s23-05-0076 -->
 
@@ -326,7 +342,7 @@ Mais si on a à l’esprit...
 
 <!-- id: s23-05-0080 -->
 
-> comme toujours, n’est-ce pas, on a toujours ça à l’esprit parce qu’on passe son temps à relire ...la place qui était celle de Mosenthal dans le premier texte, on trouve que là, c’était une réponse déplacée à une question sur l’existence du vrai nom.
+comme toujours, n’est-ce pas, on a toujours ça à l’esprit parce qu’on passe son temps à relire ...la place qui était celle de Mosenthal dans le premier texte, on trouve que là, c’était une réponse déplacée à une question sur l’existence du vrai nom.
 
 <!-- id: s23-05-0081 -->
 
@@ -334,7 +350,11 @@ Une question qui elle-même n’arrivait à se formuler que d’une manière él
 
 <!-- id: s23-05-0082 -->
 
-> « *What is this the right name is ? By Mosenthal it is. Rachel is it ? No.* »
+<div class="text-quotation">
+
+« *What is this the right name is ? By Mosenthal it is. Rachel is it ? No.* »
+
+</div>
 
 <!-- id: s23-05-0083 -->
 
@@ -422,7 +442,7 @@ L’expression anglaise c’est *male-impersonator,* n’est-ce-pas...
 
 <!-- id: s23-05-0104 -->
 
-> auteur qui a pris donc la *persona*, n’est-ce-pas, acteur-homme, *male-impersonator* ...mais qui peut s’appliquer aussi bien à l’une des pièces : *Hamlet,* qu’à l’autre : *Léah*.
+auteur qui a pris donc la *persona*, n’est-ce-pas, acteur-homme, *male-impersonator* ...mais qui peut s’appliquer aussi bien à l’une des pièces : *Hamlet,* qu’à l’autre : *Léah*.
 
 <!-- id: s23-05-0105 -->
 
@@ -446,7 +466,7 @@ Alors, ce critique je ne l’invoque pas par hasard, je l’invoque par...
 
 <!-- id: s23-05-0110 -->
 
-> je veux dire au nom de mon savoir shakespearien et joycien ...simplement parce que ça reparaît ailleurs dans *Ulysse.* J’essaie de limiter le plus possible les références externes.
+je veux dire au nom de mon savoir shakespearien et joycien ...simplement parce que ça reparaît ailleurs dans *Ulysse.* J’essaie de limiter le plus possible les références externes.
 
 <!-- id: s23-05-0111 -->
 
@@ -474,11 +494,15 @@ Et qu’est-ce qui vient ensuite?
 
 <!-- id: s23-05-0117 -->
 
-> « *Pauvre papa ! Comme il parlait souvent de Kate Bateman dans ce rôle !*
->
-> *Attendait aux portes de l’Adelphi, à Londres, toute la journée pour entrer.*
->
-> *C’était l’année avant ma naissance : soixante-cinq. Et la Ristori à Vienne.* »
+<div class="text-quotation">
+
+« *Pauvre papa ! Comme il parlait souvent de Kate Bateman dans ce rôle !*
+
+*Attendait aux portes de l’Adelphi, à Londres, toute la journée pour entrer.*
+
+*C’était l’année avant ma naissance : soixante-cinq. Et la Ristori à Vienne.* »
+
+</div>
 
 <!-- id: s23-05-0118 -->
 
@@ -506,11 +530,15 @@ Alors, après le passage :
 
 <!-- id: s23-05-0124 -->
 
-> « *La voix de Nathan ! La voix de son fils ! J’entends la voix de Nathan qui laissa son père mourir de douleur et de chagrin dans mes bras, qui abandonna la maison de son père et le dieu de son père. Chaque mot est si profond, Léopold.*
->
-> *Pauvre papa ! Pauvre homme ! Je suis content de n’être pas entré dans la chambre pour regarder sa figure.*
->
-> *Ce jour-là ! Mon dieu ! Mon dieu ! Bah ! peut-être que cela valait mieux pour lui.* »
+<div class="text-quotation">
+
+« *La voix de Nathan ! La voix de son fils ! J’entends la voix de Nathan qui laissa son père mourir de douleur et de chagrin dans mes bras, qui abandonna la maison de son père et le dieu de son père. Chaque mot est si profond, Léopold.*
+
+*Pauvre papa ! Pauvre homme ! Je suis content de n’être pas entré dans la chambre pour regarder sa figure.*
+
+*Ce jour-là ! Mon dieu ! Mon dieu ! Bah ! peut-être que cela valait mieux pour lui.* »
+
+</div>
 
 <!-- id: s23-05-0125 -->
 
@@ -618,7 +646,7 @@ Et en anglais ça donne ceci : « *The father’s name that poisoned himself* 
 
 <!-- id: s23-05-0151 -->
 
-> sur la position du nom du père ...qui fait que c’est *le nom qui semble s’être empoisonné* : Virag. Virag réapparaît.
+sur la position du nom du père ...qui fait que c’est *le nom qui semble s’être empoisonné* : Virag. Virag réapparaît.
 
 <!-- id: s23-05-0152 -->
 
@@ -634,7 +662,7 @@ Alors, c’est ici que l’on peut, peut-être se souvenir de ce que c’est que
 
 <!-- id: s23-05-0155 -->
 
-> dans la traduction de la Bible par Saint Jérôme ...sert à désigner la femme du point de vue d’Adam.
+dans la traduction de la Bible par Saint Jérôme ...sert à désigner la femme du point de vue d’Adam.
 
 <!-- id: s23-05-0156 -->
 
@@ -670,7 +698,7 @@ Car évidemment on est tenté d’utiliser pour une interprétation, en vue d’
 
 <!-- id: s23-05-0164 -->
 
-> même s’il y a de la vérité là-dedans ...pas tout à fait suffisant pour faire fonctionner le texte.
+même s’il y a de la vérité là-dedans ...pas tout à fait suffisant pour faire fonctionner le texte.
 
 <!-- id: s23-05-0165 -->
 
@@ -770,7 +798,7 @@ Ce qui est sûr, c’est que Bloom ça lui fait plaisir, à lui aussi...
 
 <!-- id: s23-05-0189 -->
 
-> ça m’a fait plaisir, moi quand j’ai vu ça ...ça lui a fait plaisir à lui, c’est sûr, et ça s’est entendu.
+ça m’a fait plaisir, moi quand j’ai vu ça ...ça lui a fait plaisir à lui, c’est sûr, et ça s’est entendu.
 
 <!-- id: s23-05-0190 -->
 
@@ -802,7 +830,7 @@ Cette espèce de jeu par rapport au père...
 
 <!-- id: s23-05-0197 -->
 
-> sur toutes ces choses, je n’y reviens pas ...semble faire glisser du côté de la mère.
+sur toutes ces choses, je n’y reviens pas ...semble faire glisser du côté de la mère.
 
 <!-- id: s23-05-0198 -->
 
@@ -814,9 +842,9 @@ Mais le lecteur...
 
 <!-- id: s23-05-0200 -->
 
-> bon, il l’a fait, ça a été un beau spectacle pour sa mère, dit-il :
->
-> « *nice spectacle for your poor mother* » c’est pas moi, c’est elle qui était pas contente ...mais la manière dont ça arrive, la manière dont c’est refilé à la mère, par la boue, c’est assez drôle, parce que « *Mud* »... ceux d’entre vous qui ont lu le *Portrait* en anglais ont pu remarquer qu’à un certain moment,
+bon, il l’a fait, ça a été un beau spectacle pour sa mère, dit-il :
+
+« *nice spectacle for your poor mother* » c’est pas moi, c’est elle qui était pas contente ...mais la manière dont ça arrive, la manière dont c’est refilé à la mère, par la boue, c’est assez drôle, parce que « *Mud* »... ceux d’entre vous qui ont lu le *Portrait* en anglais ont pu remarquer qu’à un certain moment,
 
 <!-- id: s23-05-0201 -->
 
@@ -896,7 +924,7 @@ Or, il se trouve que ce passage de *Circé* glisse dans la boue...
 
 <!-- id: s23-05-0220 -->
 
-> puisque ça revient, le signifiant revient trois ou quatre fois dans ce passage-là ...glisse de la boue à un surgissement de la mère : « *beau spectacle pour ta pauvre mère* » dit Rudolph, et Bloom dit « *maman* » parce qu’elle est en train d’apparaître à l’instant même.
+puisque ça revient, le signifiant revient trois ou quatre fois dans ce passage-là ...glisse de la boue à un surgissement de la mère : « *beau spectacle pour ta pauvre mère* » dit Rudolph, et Bloom dit « *maman* » parce qu’elle est en train d’apparaître à l’instant même.
 
 <!-- id: s23-05-0221 -->
 
@@ -920,7 +948,7 @@ Les spectacles de pantomime...
 
 <!-- id: s23-05-0226 -->
 
-> qui se jouaient en particulier autour de Noël ...qui sont évoqués là, impliquaient un renversement des habits, un travestissement généralisé : pantomime.
+qui se jouaient en particulier autour de Noël ...qui sont évoqués là, impliquaient un renversement des habits, un travestissement généralisé : pantomime.
 
 <!-- id: s23-05-0227 -->
 
@@ -944,15 +972,19 @@ Dans une évocation de sa mère, Stephen dit, après l’avoir évoquée morte :
 
 <!-- id: s23-05-0232 -->
 
-> *Où maintenant ?*
->
-> *Ses secrets : vieux éventails de plumes, carnets de bal à glands, imprégnés de musc, une parure de grains d’ambre dans son tiroir fermé à clé. Une cage d’oiseaux qui avait été suspendue à la fenêtre ensoleillée de la maison*
->
-> *où elle vécut jeune fille. Elle allait voir le vieux Royce dans la pantomime de Turco le Terrible,*
->
-> *et riait avec tout le monde quand il chantait : « Je suis le garçon Possesseur du don De se rendre invisible. »*
->
-> *Gaîté fantomale, enfuie en fumée : fumet de musc.*
+<div class="text-quotation">
+
+*Où maintenant ?*
+
+*Ses secrets : vieux éventails de plumes, carnets de bal à glands, imprégnés de musc, une parure de grains d’ambre dans son tiroir fermé à clé. Une cage d’oiseaux qui avait été suspendue à la fenêtre ensoleillée de la maison*
+
+*où elle vécut jeune fille. Elle allait voir le vieux Royce dans la pantomime de Turco le Terrible,*
+
+*et riait avec tout le monde quand il chantait : « Je suis le garçon Possesseur du don De se rendre invisible. »*
+
+*Gaîté fantomale, enfuie en fumée : fumet de musc.*
+
+</div>
 
 <!-- id: s23-05-0233 -->
 
@@ -1052,9 +1084,9 @@ Et Stephen, à la fois rompt avec elle sur ce plan-là, et d’un autre côté c
 
 <!-- id: s23-05-0257 -->
 
-> j’ai pas le texte ici malheureusement, parce que j’avais pas pensé l’invoquer,
->
-> mais enfin vous le retrouverez assez facilement dans *Stephen Hero*, si ça vous intéresse ...il dit tout de suite après... un spectacle de Dublin... Ah oui, c’est ça :
+j’ai pas le texte ici malheureusement, parce que j’avais pas pensé l’invoquer,
+
+mais enfin vous le retrouverez assez facilement dans *Stephen Hero*, si ça vous intéresse ...il dit tout de suite après... un spectacle de Dublin... Ah oui, c’est ça :
 
 <!-- id: s23-05-0258 -->
 
@@ -1310,7 +1342,7 @@ Bon alors le O’Molloy en question, le J.J. en question, on nous dit qu’il se
 
 <!-- id: s23-05-0321 -->
 
-> alors là, c’est peut-être trop tôt pour l’indiquer *...*c’est également la toison sexuelle, si vous voulez.
+alors là, c’est peut-être trop tôt pour l’indiquer *...*c’est également la toison sexuelle, si vous voulez.
 
 <!-- id: s23-05-0322 -->
 
@@ -1434,7 +1466,7 @@ Là encore, en rapport avec l’initiale...
 
 <!-- id: s23-05-0352 -->
 
-> dans un autre rapport évidemment, mais en rapport avec l’initiale ...justement *le mérite d’exister*. Et à ce propos là, je refais, je complète cette série du *mérite d’exister* par référence à un autre passage qui est dans *Dublinois,* dans *Les Morts, Les Morts* qu’on pourrait d’ailleurs très bien traduire *Le Mort*.
+dans un autre rapport évidemment, mais en rapport avec l’initiale ...justement *le mérite d’exister*. Et à ce propos là, je refais, je complète cette série du *mérite d’exister* par référence à un autre passage qui est dans *Dublinois,* dans *Les Morts, Les Morts* qu’on pourrait d’ailleurs très bien traduire *Le Mort*.
 
 <!-- id: s23-05-0353 -->
 
@@ -1498,7 +1530,7 @@ Donc, il y a cette série bushe-fox, mais il y a aussi, et ça ça fonctionne, l
 
 <!-- id: s23-05-0368 -->
 
-> alors là c’est une chose que je tire un petit peu de la manche, plutôt des lettres de Joyce, mais après tout, les lettres, c’est des trucs qu’il a écrit, oui ...lorsqu’il indique, il donne le nom de quelque chose qui est censé faire fonctionner, entrer dans le fonctionne­ment de *Circé*, c’est cette plante : l’ail doré, que Hermès a donné *à* Ulysse pour qu’il se tire d’affaire chez *Circé*. Et ça s’appelle *moly.*
+alors là c’est une chose que je tire un petit peu de la manche, plutôt des lettres de Joyce, mais après tout, les lettres, c’est des trucs qu’il a écrit, oui ...lorsqu’il indique, il donne le nom de quelque chose qui est censé faire fonctionner, entrer dans le fonctionne­ment de *Circé*, c’est cette plante : l’ail doré, que Hermès a donné *à* Ulysse pour qu’il se tire d’affaire chez *Circé*. Et ça s’appelle *moly.*
 
 <!-- id: s23-05-0369 -->
 
@@ -1530,7 +1562,7 @@ C’est donc le don d’Hermès, Dieu des voies publiques, et c’est l’influe
 
 <!-- id: s23-05-0376 -->
 
-> *prière, hasard, agilité, présence d’esprit, pouvoir de récupération* ...qui sauve en cas d’accident. C’est donc quelque chose qui confirme Bloom dans son rôle de prudence, il est *le prudent.*
+*prière, hasard, agilité, présence d’esprit, pouvoir de récupération* ...qui sauve en cas d’accident. C’est donc quelque chose qui confirme Bloom dans son rôle de prudence, il est *le prudent.*
 
 <!-- id: s23-05-0377 -->
 
@@ -1634,7 +1666,7 @@ Et je voudrais simplement rappeler que la fameuse nouvelle *Les Morts...*
 
 <!-- id: s23-05-0402 -->
 
-> par laquelle Joyce a ficelé *Gens de Dublin,* à un moment absolument crucial de sa production poétique, au moment où les choses se sont, d’une certaine manière débloquées, ont commencé à jouer
+par laquelle Joyce a ficelé *Gens de Dublin,* à un moment absolument crucial de sa production poétique, au moment où les choses se sont, d’une certaine manière débloquées, ont commencé à jouer
 
 <!-- id: s23-05-0403 -->
 
@@ -1674,7 +1706,7 @@ Et évidemment ici, ce que j’ai très présent à l’esprit, ce qui s’impos
 
 <!-- id: s23-05-0412 -->
 
-> à travers, au-delà de ce que Aristote a dit sur la πρᾶξις \[praxis\] dans la *Poétique* ...c’est la définition de Lacan : « *action concertée par l’homme* ».
+à travers, au-delà de ce que Aristote a dit sur la πρᾶξις \[praxis\] dans la *Poétique* ...c’est la définition de Lacan : « *action concertée par l’homme* ».
 
 <!-- id: s23-05-0413 -->
 
@@ -1710,7 +1742,7 @@ Car il est évident que...
 
 <!-- id: s23-05-0421 -->
 
-> comme l’auteur de *Surface and Symbol,* dont je vous ai dit le nom la dernière fois ...il est évident que le terme dont cet auteur se sert pour dire, pour épingler, l’art de Joyce : qu’il s’agit là de *inconcevably, inconceva­blement*, *private jokes,* des *jokes* *inconcevablement privés*.
+comme l’auteur de *Surface and Symbol,* dont je vous ai dit le nom la dernière fois ...il est évident que le terme dont cet auteur se sert pour dire, pour épingler, l’art de Joyce : qu’il s’agit là de *inconcevably, inconceva­blement*, *private jokes,* des *jokes* *inconcevablement privés*.
 
 <!-- id: s23-05-0422 -->
 

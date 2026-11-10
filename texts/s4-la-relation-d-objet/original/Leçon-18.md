@@ -97,21 +97,25 @@ que la phobie ici prend plus de courage, elle se développe, elle montre ses div
 
 <!-- id: s4-18-0017 -->
 
-> « *Ici nous avons l’expérience combien diffuse, et cette phobie va sur le cheval, mais aussi sur la voiture, mais aussi sur le fait*
->
-> *que les chevaux tombent, et aussi sur le fait que les chevaux mordent, et sur des chevaux qui sont d’une certaine nature,*
->
-> *mais aussi sur les voitures qui sont chargées ou pas… Disons tout bonnement que toutes ces particularités touchent le vif*
->
-> *en ceci que l’angoisse originellement n’a absolument rien à faire avec le cheval ou les chevaux méchants, tellement qu’il sera transporté sur elle (la phobie du cheval), et que se fixera alors au lieu, non pas du cheval, mais du complexe du cheval,*
->
-> *que là-dessus pourra donc se fixer et se transporter tout ce qui se montrera approprié à certains transferts*. » [^33]
->
-> \[*Wir erfahren so, wie diffus sie eigentlich ist. Sie geht auf Pferde und auf Wagen, darauf, daß Pferde fallen, und daß sie beißen,*
->
-> *auf Pferde besonderer Beschaffenheit, auf Wagen, die schwer beladen sind. Verraten wir gleich, daß alle diese Eigentümlichkeiten daher rühren, daß die Angst ursprünglich gar nicht den Pferden galt, sondern sekundär auf sie transponiert wurde und sich nun an den Stellen*
->
-> *des Pferdekomplexes fixierte, die sich zu gewissen Übertragungen geeignet zeigten.*\]
+<div class="text-quotation">
+
+« *Ici nous avons l’expérience combien diffuse, et cette phobie va sur le cheval, mais aussi sur la voiture, mais aussi sur le fait*
+
+*que les chevaux tombent, et aussi sur le fait que les chevaux mordent, et sur des chevaux qui sont d’une certaine nature,*
+
+*mais aussi sur les voitures qui sont chargées ou pas… Disons tout bonnement que toutes ces particularités touchent le vif*
+
+*en ceci que l’angoisse originellement n’a absolument rien à faire avec le cheval ou les chevaux méchants, tellement qu’il sera transporté sur elle (la phobie du cheval), et que se fixera alors au lieu, non pas du cheval, mais du complexe du cheval,*
+
+*que là-dessus pourra donc se fixer et se transporter tout ce qui se montrera approprié à certains transferts*. » [^33]
+
+\[*Wir erfahren so, wie diffus sie eigentlich ist. Sie geht auf Pferde und auf Wagen, darauf, daß Pferde fallen, und daß sie beißen,*
+
+*auf Pferde besonderer Beschaffenheit, auf Wagen, die schwer beladen sind. Verraten wir gleich, daß alle diese Eigentümlichkeiten daher rühren, daß die Angst ursprünglich gar nicht den Pferden galt, sondern sekundär auf sie transponiert wurde und sich nun an den Stellen*
+
+*des Pferdekomplexes fixierte, die sich zu gewissen Übertragungen geeignet zeigten.*\]
+
+</div>
 
 <!-- id: s4-18-0018 -->
 
@@ -534,13 +538,17 @@ de *wagen* qui veut dire *voiture*, *et de dire que c’est ainsi que fonctionne
 
 <!-- id: s4-18-0096 -->
 
-> \[« *Ich erläutere, Hans will nicht behaupten, daß er damals die Dummheit gekriegt hat, sondern im Zusammenhange damit. Es muß ja wohl so zugehen, die Theorie fordert es, daß dasselbe einmal Gegenstand einer hohen Lust war, was heute das Objekt der Phobie ist. Und dann ergänze ich für ihn, was das Kind ja nicht zu sagen weiß, daß das Wörtchen » wegen« der Ausbreitung der Phobie vom Pferde auf die Wagen (oder wie Hans zu hören und zu sprechen gewohnt ist: Wägen) den Weg eröffnet hat. Man darf nie daran vergessen, um wieviel dinglicher das Kind die Worte behandelt als der Erwachsene, wie bedeutungsvoll ihm darum Wortgleichklänge sind.* »
->
-> « *Je dois expliquer que Hans ne veut pas dire qu’il a alors attrapé la bêtise, mais que tout ceci est en connexion avec la bêtise. Il doit donc en être ainsi, car la théorie exige que ce qui est aujourd’hui l’objet d’une phobie ait été auparavant celui d’un vif plaisir, et je compléterai ici ce que l’enfant était incapable d’exprimer : que le terme « à cause de » a ouvert la voie à l’extension de la phobie des chevaux aux « voitures ». Il ne faut jamais oublier que l’enfant traite les mots de façon bien plus concrète que ne le fait l’adulte, ce qui donne pour lui aux consonances verbales une tout autre importance. Wegen (à cause de), Wagen (voiture). »*
->
-> (Au lieu de « Wegen dem Pferd » (à cause du cheval) en allemand, où Wegen = Wagen = voitures au pluriel,
->
-> nous avons transcrit « vois-tu le cheval » afin de rendre en français le calembour.) (N. d. T.) » Puf 1954\]
+<div class="text-quotation">
+
+\[« *Ich erläutere, Hans will nicht behaupten, daß er damals die Dummheit gekriegt hat, sondern im Zusammenhange damit. Es muß ja wohl so zugehen, die Theorie fordert es, daß dasselbe einmal Gegenstand einer hohen Lust war, was heute das Objekt der Phobie ist. Und dann ergänze ich für ihn, was das Kind ja nicht zu sagen weiß, daß das Wörtchen » wegen« der Ausbreitung der Phobie vom Pferde auf die Wagen (oder wie Hans zu hören und zu sprechen gewohnt ist: Wägen) den Weg eröffnet hat. Man darf nie daran vergessen, um wieviel dinglicher das Kind die Worte behandelt als der Erwachsene, wie bedeutungsvoll ihm darum Wortgleichklänge sind.* »
+
+« *Je dois expliquer que Hans ne veut pas dire qu’il a alors attrapé la bêtise, mais que tout ceci est en connexion avec la bêtise. Il doit donc en être ainsi, car la théorie exige que ce qui est aujourd’hui l’objet d’une phobie ait été auparavant celui d’un vif plaisir, et je compléterai ici ce que l’enfant était incapable d’exprimer : que le terme « à cause de » a ouvert la voie à l’extension de la phobie des chevaux aux « voitures ». Il ne faut jamais oublier que l’enfant traite les mots de façon bien plus concrète que ne le fait l’adulte, ce qui donne pour lui aux consonances verbales une tout autre importance. Wegen (à cause de), Wagen (voiture). »*
+
+(Au lieu de « Wegen dem Pferd » (à cause du cheval) en allemand, où Wegen = Wagen = voitures au pluriel,
+
+nous avons transcrit « vois-tu le cheval » afin de rendre en français le calembour.) (N. d. T.) » Puf 1954\]
+
+</div>
 
 <!-- id: s4-18-0097 -->
 

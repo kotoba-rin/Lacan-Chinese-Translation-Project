@@ -94,7 +94,7 @@ Il y a là des compléments de sa théorie : j’appelle « *compléments* »
 
 <!-- id: s1-16-0023 -->
 
-> le développement et les remarques de FREUD ont permis de reconstruire, uniquement reconstruire, car jamais elle n’a pu être directement évoquée, remémorée par le patient
+le développement et les remarques de FREUD ont permis de reconstruire, uniquement reconstruire, car jamais elle n’a pu être directement évoquée, remémorée par le patient
 
 <!-- id: s1-16-0024 -->
 
@@ -134,9 +134,9 @@ C’est dans la mesure, nous explique bien FREUD et de la façon la plus claire,
 
 <!-- id: s1-16-0033 -->
 
-> qui d’abord se situe dans ce quelque chose que nous ne pou­vons appeler théoriquement, contentons-nous
->
-> de cette première approxima­tion, nous en donnerons plus tard peut-être une technique plus précise
+qui d’abord se situe dans ce quelque chose que nous ne pou­vons appeler théoriquement, contentons-nous
+
+de cette première approxima­tion, nous en donnerons plus tard peut-être une technique plus précise
 
 <!-- id: s1-16-0034 -->
 
@@ -144,9 +144,9 @@ C’est dans la mesure, nous explique bien FREUD et de la façon la plus claire,
 
 <!-- id: s1-16-0035 -->
 
-> disons qu’elle n’a été intégrée d’aucune façon au système verbalisé du sujet, qu’elle n’est même pas
->
-> encore montée à la verbalisation, et on peut dire dans ce sens, même pas à la signification
+disons qu’elle n’a été intégrée d’aucune façon au système verbalisé du sujet, qu’elle n’est même pas
+
+encore montée à la verbalisation, et on peut dire dans ce sens, même pas à la signification
 
 <!-- id: s1-16-0036 -->
 
@@ -398,13 +398,13 @@ Mais aussi bien on fait... et on peut faire pendant un certain temps, pendant to
 
 <!-- id: s1-16-0098 -->
 
-> car jusqu’à présent dans la science, le sujet finit par ne plus... on finit par ne plus le retenir et le maintenir *que* sur le plan
->
-> de *la conscience*, bien entendu, puisque je vous ai dit que le sujet, au fond, c’est le savant qui pos­sède en lui le système
->
-> de la science, c’est là que le savant maintient la dimen­sion du sujet : il est le sujet, pour autant qu’il est *le reflet*, le *miroir*,
->
-> le support de tout ce qui est *du monde objectal*
+car jusqu’à présent dans la science, le sujet finit par ne plus... on finit par ne plus le retenir et le maintenir *que* sur le plan
+
+de *la conscience*, bien entendu, puisque je vous ai dit que le sujet, au fond, c’est le savant qui pos­sède en lui le système
+
+de la science, c’est là que le savant maintient la dimen­sion du sujet : il est le sujet, pour autant qu’il est *le reflet*, le *miroir*,
+
+le support de tout ce qui est *du monde objectal*
 
 <!-- id: s1-16-0099 -->
 
@@ -528,11 +528,11 @@ Mais ce n’est pas pour dire que, parce que c’est le point d’intersection l
 
 <!-- id: s1-16-0129 -->
 
-> qu’on permette au sujet de se référer précisément dans ce monde extraordinairement complexe, structuré, organisé,
->
-> voire antino­mique, qui est sa position à lui personnelle, étant donné son niveau social, son avenir, ses projets au sens
->
-> le plus plein, existentiel, du terme, son éducation, sa tradition
+qu’on permette au sujet de se référer précisément dans ce monde extraordinairement complexe, structuré, organisé,
+
+voire antino­mique, qui est sa position à lui personnelle, étant donné son niveau social, son avenir, ses projets au sens
+
+le plus plein, existentiel, du terme, son éducation, sa tradition
 
 <!-- id: s1-16-0130 -->
 

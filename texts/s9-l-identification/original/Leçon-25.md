@@ -210,7 +210,7 @@ Reprenons donc, simplement pour le pointer - ce n’est pas une critique - ce tr
 
 <!-- id: s9-25-0052 -->
 
-> <img src="assets/image252.jpeg" style="width:0.73527in;height:0.80093in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S9 B\93b.jpg" />
+<img src="assets/image252.jpeg" style="width:0.73527in;height:0.80093in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S9 B\93b.jpg" />
 
 <!-- id: s9-25-0053 -->
 
@@ -222,7 +222,7 @@ dont je vous apprends à le cer­ner en vous disant qu’il est essentiellement 
 
 <!-- id: s9-25-0055 -->
 
-> \[1\] \[2\] \[3\]
+\[1\] \[2\] \[3\]
 
 <!-- id: s9-25-0056 -->
 

@@ -62,7 +62,7 @@ Mais partout ailleurs vous trouverez les trois, ce qui m’empêche d’avoir *u
 
 <!-- id: s22-05-0015 -->
 
-> pour que vous ne vous embrouilliez pas quand même,
+pour que vous ne vous embrouilliez pas quand même,
 
 <!-- id: s22-05-0016 -->
 
@@ -78,7 +78,7 @@ Mais partout ailleurs vous trouverez les trois, ce qui m’empêche d’avoir *u
 
 <!-- id: s22-05-0019 -->
 
-> ça c’est pour que vous suiviez ...*tous se rapportent - ces sens - au Réel, au Réel dont chacun répond*.
+ça c’est pour que vous suiviez ...*tous se rapportent - ces sens - au Réel, au Réel dont chacun répond*.
 
 <!-- id: s22-05-0020 -->
 
@@ -106,7 +106,7 @@ C’est un nœud qui tient...
 
 <!-- id: s22-05-0026 -->
 
-> comme vous l’avez déjà maintes fois entendu de ma voix - ...c’est un nœud qui tient à ce qu’il y ait 3 ronds.
+comme vous l’avez déjà maintes fois entendu de ma voix - ...c’est un nœud qui tient à ce qu’il y ait 3 ronds.
 
 <!-- id: s22-05-0027 -->
 
@@ -118,7 +118,7 @@ Le vrai nœud, le nœud dont on s’occupe dans la théorie des nœuds, c’est 
 
 <!-- id: s22-05-0029 -->
 
-> comme vous le voyez là sur la figure que je viens d’ajouter ...est justement ce qui ne se transforme pas, par une déformation continue, en la figure triviale du rond.
+comme vous le voyez là sur la figure que je viens d’ajouter ...est justement ce qui ne se transforme pas, par une déformation continue, en la figure triviale du rond.
 
 <!-- id: s22-05-0030 -->
 
@@ -126,7 +126,7 @@ Si on parle d’un nœud fait avec 3 figures triviales, à savoir 3 ronds, c’e
 
 <!-- id: s22-05-0031 -->
 
-> en conjoi­gnant ce que vous avez coupé, à chaque fois ...vous obtiendrez la figure propre d’un nœud au sens propre du mot.
+en conjoi­gnant ce que vous avez coupé, à chaque fois ...vous obtiendrez la figure propre d’un nœud au sens propre du mot.
 
 <!-- id: s22-05-0032 -->
 
@@ -134,7 +134,7 @@ Si on parle d’un nœud fait avec 3 figures triviales, à savoir 3 ronds, c’e
 
 <!-- id: s22-05-0033 -->
 
-> nœud-trèfle
+nœud-trèfle
 
 <!-- id: s22-05-0034 -->
 
@@ -170,7 +170,7 @@ Ce sont ces champs que vous retrouvez dans la forme du nœud borroméen, celle q
 
 <!-- id: s22-05-0042 -->
 
-> que j’ai appelée trivia­le, rond de ficelle ...l’un de chacune de ces figures fait des 2 autres, nœud, c’est-à-dire que c’est d’être 3 qu’il y a un lien, un lien de nœud qui se constitue pour les 2 autres.
+que j’ai appelée trivia­le, rond de ficelle ...l’un de chacune de ces figures fait des 2 autres, nœud, c’est-à-dire que c’est d’être 3 qu’il y a un lien, un lien de nœud qui se constitue pour les 2 autres.
 
 <!-- id: s22-05-0043 -->
 
@@ -178,11 +178,11 @@ Si vous entendez parler quelquefois d’un monde à quatre dimensions, vous saur
 
 <!-- id: s22-05-0044 -->
 
-> calculable mais pas imaginable ...il ne saurait y avoir de *tels nœuds *: impossible d’y *nouer* une corde...
+calculable mais pas imaginable ...il ne saurait y avoir de *tels nœuds *: impossible d’y *nouer* une corde...
 
 <!-- id: s22-05-0045 -->
 
-> si tant est que ce monde existe ...impossible d’y *nouer* une corde en raison de ceci :
+si tant est que ce monde existe ...impossible d’y *nouer* une corde en raison de ceci :
 
 <!-- id: s22-05-0046 -->
 
@@ -198,7 +198,7 @@ Néanmoins, si la chose vous était imaginable, il vous serait possible d’ente
 
 <!-- id: s22-05-0049 -->
 
-> parce qu’aussi bien la démonstration n’en est pas simple mais qu’elle est faisable, ...c’est que dans un espace sup­posé être à quatre dimensions, ce sont non pas des *consistances* de lignes mais des surfaces qui peuvent faire nœud.
+parce qu’aussi bien la démonstration n’en est pas simple mais qu’elle est faisable, ...c’est que dans un espace sup­posé être à quatre dimensions, ce sont non pas des *consistances* de lignes mais des surfaces qui peuvent faire nœud.
 
 <!-- id: s22-05-0050 -->
 
@@ -206,7 +206,7 @@ C’est-à-dire qu’il subsiste dans l’ordre indéfini des dimensions supposa
 
 <!-- id: s22-05-0051 -->
 
-> c’est bien là qu’il faut que je m’arrête ...dont se constitue assurément notre *« monde* », c’est-à-dire notre représentation.
+c’est bien là qu’il faut que je m’arrête ...dont se constitue assurément notre *« monde* », c’est-à-dire notre représentation.
 
 <!-- id: s22-05-0052 -->
 
@@ -226,7 +226,7 @@ La question qui s’évoque à ce temps de mon énoncé, c’est ceci qui répon
 
 <!-- id: s22-05-0056 -->
 
-> puisque le terme de « consistance » suppose celui de « démonstration » ...qu’est­-ce que peut être *supposer une démonstration dans le Réel* ?
+puisque le terme de « consistance » suppose celui de « démonstration » ...qu’est­-ce que peut être *supposer une démonstration dans le Réel* ?
 
 <!-- id: s22-05-0057 -->
 
@@ -246,15 +246,15 @@ Ce qui ne va pas mal, après tout, avec ceci dont nous témoigne le langage que 
 
 <!-- id: s22-05-0061 -->
 
-> en quoi se désigne l’usu­re du tissage ...a sa portée, puisqu’en fin de compte « *montrer la corde* » c’est dire que le tissage ne se camoufle plus...
+en quoi se désigne l’usu­re du tissage ...a sa portée, puisqu’en fin de compte « *montrer la corde* » c’est dire que le tissage ne se camoufle plus...
 
 <!-- id: s22-05-0062 -->
 
-> en ceci dont l’usage méta­phorique est aussi permanent ...ne se camoufle plus dans ce qu’on appel­le...
+en ceci dont l’usage méta­phorique est aussi permanent ...ne se camoufle plus dans ce qu’on appel­le...
 
 <!-- id: s22-05-0063 -->
 
-> avec l’idée qu’en disant ça, on dit quelque chose ...dans ce qu’on appelle l’*étoffe*.
+avec l’idée qu’en disant ça, on dit quelque chose ...dans ce qu’on appelle l’*étoffe*.
 
 <!-- id: s22-05-0064 -->
 
@@ -270,7 +270,7 @@ J’avais préparé pour vous sur un papier...
 
 <!-- id: s22-05-0067 -->
 
-> parce que c’est trop compli­qué à dessiner au tableau fait tout un tissage, uniquement fait de *nœuds borroméens*. On peut en couvrir la surface du tableau noir.
+parce que c’est trop compli­qué à dessiner au tableau fait tout un tissage, uniquement fait de *nœuds borroméens*. On peut en couvrir la surface du tableau noir.
 
 <!-- id: s22-05-0068 -->
 
@@ -282,7 +282,7 @@ Ne croyez pas que la section d’un quelconque des ronds de tissa­ge...
 
 <!-- id: s22-05-0070 -->
 
-> appelons-les là comme ça ...libérera quoi que ce soit de ce à quoi il est noué, puisqu’à n’en couper qu’un seul, ils sont, ces six autres ronds libérés d’une coupure, retenus ailleurs, retenus par les - six fois trois - dix-huit autres ronds, avec lesquels il sont noués de façon borro­méenne.
+appelons-les là comme ça ...libérera quoi que ce soit de ce à quoi il est noué, puisqu’à n’en couper qu’un seul, ils sont, ces six autres ronds libérés d’une coupure, retenus ailleurs, retenus par les - six fois trois - dix-huit autres ronds, avec lesquels il sont noués de façon borro­méenne.
 
 <!-- id: s22-05-0071 -->
 
@@ -290,7 +290,7 @@ Si j’ai tout à l’heure sorti prématurément...
 
 <!-- id: s22-05-0072 -->
 
-> mais faut bien ! C’est même la loi du langage que quelque chose sorte avant d’être commentable ...si j’ai sorti le terme de *symptôme,* c’est bien parce que *le Symbolique* est ce qui de la consistance fait métaphore la plus simple.
+mais faut bien ! C’est même la loi du langage que quelque chose sorte avant d’être commentable ...si j’ai sorti le terme de *symptôme,* c’est bien parce que *le Symbolique* est ce qui de la consistance fait métaphore la plus simple.
 
 <!-- id: s22-05-0073 -->
 
@@ -334,13 +334,13 @@ Alors est-ce que nous ne pouvons pas au moins questionner que, si ces deux organ
 
 <!-- id: s22-05-0083 -->
 
-> à prendre les choses à partir de mon « *objet »* dit *petit (a)* ...ce n’est pas par une *conjonction nécessaire* *qui enchaîne le* *petit (a)lui-même* *à faire* *boule* du fait que le *petit (a)* sous d’autres formes...
+à prendre les choses à partir de mon « *objet »* dit *petit (a)* ...ce n’est pas par une *conjonction nécessaire* *qui enchaîne le* *petit (a)lui-même* *à faire* *boule* du fait que le *petit (a)* sous d’autres formes...
 
 <!-- id: s22-05-0084 -->
 
-> à ceci près qu’il n’en a pas de forme, mais qu’il est pensable de façon dominante,
->
-> oralement ou aussi bien, si je puis dire, *chialement* ...le facteur commun du *petit (a)* c’est d’être lié *aux orifices du corps*.
+à ceci près qu’il n’en a pas de forme, mais qu’il est pensable de façon dominante,
+
+oralement ou aussi bien, si je puis dire, *chialement* ...le facteur commun du *petit (a)* c’est d’être lié *aux orifices du corps*.
 
 <!-- id: s22-05-0085 -->
 
@@ -352,7 +352,7 @@ Sans le *petit (a)*, quelque chose manque à toute théorie possible d’au­cun
 
 <!-- id: s22-05-0087 -->
 
-> *c’est sa condition de n’être que supposable...ne connaît quelque chose que d’être lui-même*, en tant que sujet, *causé par un « objet » qui n’est pas* *ce qu’il connaît*, ce qu’il imagine connaître, c’est-à­-dire *qui n’est pas l’Autre comme tel de la connaissance*, *mais qui au contraire - cet « objet », l’objet petit (a) - le raye, cet Autre*.
+*c’est sa condition de n’être que supposable...ne connaît quelque chose que d’être lui-même*, en tant que sujet, *causé par un « objet » qui n’est pas* *ce qu’il connaît*, ce qu’il imagine connaître, c’est-à­-dire *qui n’est pas l’Autre comme tel de la connaissance*, *mais qui au contraire - cet « objet », l’objet petit (a) - le raye, cet Autre*.
 
 <!-- id: s22-05-0088 -->
 
@@ -360,7 +360,7 @@ L’Autre est ainsi...
 
 <!-- id: s22-05-0089 -->
 
-> l’Autre que j’écris avec le grand A ...l’Autre est ainsi matrice à double entrée,
+l’Autre que j’écris avec le grand A ...l’Autre est ainsi matrice à double entrée,
 
 <!-- id: s22-05-0090 -->
 
@@ -380,7 +380,7 @@ Je dirais que c’est même grâce à ça que j’ai pu un jour faire pour vous.
 
 <!-- id: s22-05-0094 -->
 
-> si tant est que certains de ceux qui sont ici fussent là ...copuler le **1** et mon *petit (a)*, qu’à cette occasion j’avais mis au rapport de l’**1** à le supposer du *nombre d’or* [^10].
+si tant est que certains de ceux qui sont ici fussent là ...copuler le **1** et mon *petit (a)*, qu’à cette occasion j’avais mis au rapport de l’**1** à le supposer du *nombre d’or* [^10].
 
 <!-- id: s22-05-0095 -->
 
@@ -440,7 +440,7 @@ L’inconscient est ce qui, de parler, détermine le sujet en tant qu’*être*,
 
 <!-- id: s22-05-0109 -->
 
-> pour jouer du mot comme je l’ai fait dans mon premier *Discours de Rome* ...*cette cause qui cause toujours*.
+pour jouer du mot comme je l’ai fait dans mon premier *Discours de Rome* ...*cette cause qui cause toujours*.
 
 <!-- id: s22-05-0110 -->
 
@@ -452,7 +452,7 @@ L’irréductible de ceci...
 
 <!-- id: s22-05-0112 -->
 
-> qui n’est pas *effet de langage*, car *l’effet du langage* c’est le παθείν \[pathein\] ...c’est la passion du corps.
+qui n’est pas *effet de langage*, car *l’effet du langage* c’est le παθείν \[pathein\] ...c’est la passion du corps.
 
 <!-- id: s22-05-0113 -->
 
@@ -460,11 +460,11 @@ L’irréductible de ceci...
 
 <!-- id: s22-05-0114 -->
 
-> en tant que le langa­ge n’a pas d’effet ...*cette abstraction radicale qui est l’objet*, l’*objet* que je désigne, que j’écris de la figure d’écriture *(a)*, *et dont rien n’est pensable, à ceci près que tout ce qui est sujet*...
+en tant que le langa­ge n’a pas d’effet ...*cette abstraction radicale qui est l’objet*, l’*objet* que je désigne, que j’écris de la figure d’écriture *(a)*, *et dont rien n’est pensable, à ceci près que tout ce qui est sujet*...
 
 <!-- id: s22-05-0115 -->
 
-> sujet de pensée qu’on imagine être « *Être »* ...*en est déterminé*.
+sujet de pensée qu’on imagine être « *Être »* ...*en est déterminé*.
 
 <!-- id: s22-05-0116 -->
 
@@ -480,7 +480,7 @@ Qu’en dirons-nous sinon que pour ce qui est de leur *qualité*...
 
 <!-- id: s22-05-0119 -->
 
-> ce que *Charles Sanders* Peirce appelle la *firstness* ...de ce qui les répartit comme qualités différentes ?
+ce que *Charles Sanders* Peirce appelle la *firstness* ...de ce qui les répartit comme qualités différentes ?
 
 <!-- id: s22-05-0120 -->
 
@@ -564,7 +564,7 @@ Il concerne ce champ où...
 
 <!-- id: s22-05-0140 -->
 
-> non pas n’importe quoi se dit, ...mais où déjà *la trame*, *le treillis* de ce que tout à l’heure je vous désignais d’une *double entrée *:
+non pas n’importe quoi se dit, ...mais où déjà *la trame*, *le treillis* de ce que tout à l’heure je vous désignais d’une *double entrée *:
 
 <!-- id: s22-05-0141 -->
 
@@ -608,7 +608,7 @@ Qu’est-ce que *ce x* ?
 
 <!-- id: s22-05-0151 -->
 
-> en tant qu’il sustente *le signifiant* en quoi l’inconscient consiste ...*tout* **1** *est susceptible de s’écrire d’une lettre*.
+en tant qu’il sustente *le signifiant* en quoi l’inconscient consiste ...*tout* **1** *est susceptible de s’écrire d’une lettre*.
 
 <!-- id: s22-05-0152 -->
 
@@ -624,9 +624,9 @@ Il y a pas longtemps que quelqu’un...
 
 <!-- id: s22-05-0155 -->
 
-> quelqu’un que j’écoute dans ma *pratique*, et rien de ce que je vous dis ne vient d’ailleurs que de cette *pratique,*
->
-> c’est bien ce qui en fait la difficulté, la difficulté que j’ai à vous la transmettre ...quelqu’un, au regard du *symptôme*, m’a articulé ce quelque chose qui le rapprocherait \[*le symptôme*\] des *points de suspension*.
+quelqu’un que j’écoute dans ma *pratique*, et rien de ce que je vous dis ne vient d’ailleurs que de cette *pratique,*
+
+c’est bien ce qui en fait la difficulté, la difficulté que j’ai à vous la transmettre ...quelqu’un, au regard du *symptôme*, m’a articulé ce quelque chose qui le rapprocherait \[*le symptôme*\] des *points de suspension*.
 
 <!-- id: s22-05-0156 -->
 
@@ -646,7 +646,7 @@ Que le terme soit sorti d’ailleurs...
 
 <!-- id: s22-05-0160 -->
 
-> à savoir du symptôme tel que Marx l’a défini dans le social ...n’ôte rien au bien fondé de son emploi dans, si je puis dire, le privé.
+à savoir du symptôme tel que Marx l’a défini dans le social ...n’ôte rien au bien fondé de son emploi dans, si je puis dire, le privé.
 
 <!-- id: s22-05-0161 -->
 
@@ -682,7 +682,7 @@ Un père n’a droit au respect, sinon à l’amour, que si le dit amour, le dit
 
 <!-- id: s22-05-0169 -->
 
-> vous n’allez pas en croire vos oreilles ...« *père-versement »* orienté, c’est-à-dire fait d’une femme, *objet(a)* qui cause son désir.
+vous n’allez pas en croire vos oreilles ...« *père-versement »* orienté, c’est-à-dire fait d’une femme, *objet(a)* qui cause son désir.
 
 <!-- id: s22-05-0170 -->
 
@@ -862,7 +862,7 @@ Ce qu’il y a de frappant dans *le symptôme*...
 
 <!-- id: s22-05-0214 -->
 
-> dans ce quelque chose qui, comme là, se bécote avec l’inconscient ...*c’est qu’on y croit*.
+dans ce quelque chose qui, comme là, se bécote avec l’inconscient ...*c’est qu’on y croit*.
 
 <!-- id: s22-05-0215 -->
 
@@ -910,7 +910,7 @@ Si ce sont des êtres qui ne peuvent rien dire...
 
 <!-- id: s22-05-0226 -->
 
-> *dire* à proprement parler, c’est-à-dire *énoncer ce qui se distingue comme vérité ou comme mensonge* ...ça ne peut rien vouloir dire.
+*dire* à proprement parler, c’est-à-dire *énoncer ce qui se distingue comme vérité ou comme mensonge* ...ça ne peut rien vouloir dire.
 
 <!-- id: s22-05-0227 -->
 
@@ -918,9 +918,9 @@ Seulement, ça, la fragilité de cet « *Y croire* » ...
 
 <!-- id: s22-05-0228 -->
 
-> à quoi manifestement réduit le fait du non-rapport tellement tangiblement
->
-> recoupable de partout - je veux dire qu’il se recoupe ...il y a pas de doute : quiconque vient nous présenter *un symptôme,* *y croit*.
+à quoi manifestement réduit le fait du non-rapport tellement tangiblement
+
+recoupable de partout - je veux dire qu’il se recoupe ...il y a pas de doute : quiconque vient nous présenter *un symptôme,* *y croit*.
 
 <!-- id: s22-05-0229 -->
 
@@ -936,7 +936,7 @@ C’est de même pour ce qu’il en est *d’une femme*, à ceci près...
 
 <!-- id: s22-05-0232 -->
 
-> ce qui arrive, mais ce qui n’est pas évident ...c’est qu’on croit qu’elle *dit* effectivement *quelque chose*.
+ce qui arrive, mais ce qui n’est pas évident ...c’est qu’on croit qu’elle *dit* effectivement *quelque chose*.
 
 <!-- id: s22-05-0233 -->
 

@@ -46,7 +46,7 @@ De *nulle part*, parce qu’il n’apparaît à cette place qu’en vertu de la 
 
 <!-- id: s16-25-0011 -->
 
-> terme que j’ai été le premier à extraire de son texte et à mettre en valeur comme tel, ceci pour quiconque ayant à s’amuser à traduire un certain *Vocabulaire*…, pourra voir qu’à cette rubrique de *l’après-coup*, qui n’existerait même pas sans mon discours, je ne suis pas mentionné …que *le trait unaire surgit après coup* - *à la place* donc du S<sub>1</sub> - *du signifiant en tant qu’il représente un sujet auprès d’un autre signifiant*.
+terme que j’ai été le premier à extraire de son texte et à mettre en valeur comme tel, ceci pour quiconque ayant à s’amuser à traduire un certain *Vocabulaire*…, pourra voir qu’à cette rubrique de *l’après-coup*, qui n’existerait même pas sans mon discours, je ne suis pas mentionné …que *le trait unaire surgit après coup* - *à la place* donc du S<sub>1</sub> - *du signifiant en tant qu’il représente un sujet auprès d’un autre signifiant*.
 
 <!-- id: s16-25-0012 -->
 
@@ -202,7 +202,11 @@ Ai-je besoin de dire que j’ai commencé cette année mon discours sur la psych
 
 <!-- id: s16-25-0050 -->
 
-> « *la psychanalyse, c’est un discours sans parole* ».
+<div class="text-quotation">
+
+« *la psychanalyse, c’est un discours sans parole* ».
+
+</div>
 
 <!-- id: s16-25-0051 -->
 
@@ -342,7 +346,7 @@ Même l’ὑποχείμενον \[upokeimenon\] peut être *disjoint* du *savo
 
 <!-- id: s16-25-0085 -->
 
-> comme j’ai eu la tristesse de le lire dans un compte rendu de ce qui, dans un certain lieu, où on met la *psychanalyse* à l’épreuve, naturellement ça n’est pas pour rien. La psychanalyse dans des conditions semblables ferait mieux de ne pas faire du charme et de ne pas dire qu’il n’y a en somme qu’« *un seul concept freudien* » et de l’appeler *l’inconscient*, même pas ce que je viens de dire : « *un savoir à l’insu du sujet* » …ce n’est pas un concept, à aucun des deux niveaux, *c’est un paradigme*. C’est à partir de là que les concepts qui - Dieu merci - existent pour baliser le champ freudien, et FREUD en a sorti d’autres qui, recevables ou non, sont des concepts, à partir de ce premier temps d’expérience, de cet exemple qu’était l’inconscient par lui découvert.
+comme j’ai eu la tristesse de le lire dans un compte rendu de ce qui, dans un certain lieu, où on met la *psychanalyse* à l’épreuve, naturellement ça n’est pas pour rien. La psychanalyse dans des conditions semblables ferait mieux de ne pas faire du charme et de ne pas dire qu’il n’y a en somme qu’« *un seul concept freudien* » et de l’appeler *l’inconscient*, même pas ce que je viens de dire : « *un savoir à l’insu du sujet* » …ce n’est pas un concept, à aucun des deux niveaux, *c’est un paradigme*. C’est à partir de là que les concepts qui - Dieu merci - existent pour baliser le champ freudien, et FREUD en a sorti d’autres qui, recevables ou non, sont des concepts, à partir de ce premier temps d’expérience, de cet exemple qu’était l’inconscient par lui découvert.
 
 <!-- id: s16-25-0086 -->
 
@@ -386,13 +390,13 @@ Un monsieur, qui est ici le *Directeur administratif* de cet établissement priv
 
 <!-- id: s16-25-0096 -->
 
-> il semblerait que de ce fait le dit établissement devrait répondre à quelque contrôle sur ce qui
->
-> se passe à l’intérieur, il ne semble pas qu’il en soit rien …puisqu’il est paraît-il « *en droit *»…
+il semblerait que de ce fait le dit établissement devrait répondre à quelque contrôle sur ce qui
+
+se passe à l’intérieur, il ne semble pas qu’il en soit rien …puisqu’il est paraît-il « *en droit *»…
 
 <!-- id: s16-25-0097 -->
 
-> après m’avoir accueilli sur la demande d’un des « *en droit  *» de l’école, comme ça, à titre *hospitalier* …il est « *en droit *» de me dire que « *ça suffit comme ça* ! »
+après m’avoir accueilli sur la demande d’un des « *en droit  *» de l’école, comme ça, à titre *hospitalier* …il est « *en droit *» de me dire que « *ça suffit comme ça* ! »
 
 <!-- id: s16-25-0098 -->
 
@@ -484,9 +488,9 @@ On s’est donné une peine pour faire fonctionner l’acoustique dans cette sal
 
 <!-- id: s16-25-0120 -->
 
-> je vais vous dire, quand même, ce que vous venez d’entendre, j’ai trouvé que ça valait la peine
->
-> de le photocopier en un nombre d’exemplaires j’espère suffisant pour mes auditeurs d’aujourd’hui …les personnes à qui j’ai confié ces dossiers vont vous les distribuer. Je vous en prie, n’en prenez chacun qu’un.
+je vais vous dire, quand même, ce que vous venez d’entendre, j’ai trouvé que ça valait la peine
+
+de le photocopier en un nombre d’exemplaires j’espère suffisant pour mes auditeurs d’aujourd’hui …les personnes à qui j’ai confié ces dossiers vont vous les distribuer. Je vous en prie, n’en prenez chacun qu’un.
 
 <!-- id: s16-25-0121 -->
 

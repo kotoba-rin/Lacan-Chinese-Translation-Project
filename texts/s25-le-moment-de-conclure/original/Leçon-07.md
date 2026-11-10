@@ -34,7 +34,7 @@ Et si vous considérez ce qui se trouve en haut, vous pouvez constater...
 
 <!-- id: s25-07-0008 -->
 
-> ce qui se trouve en haut sur la feuille que je vous ai distribuée, à seule fin que vous la reproduisiez ...ce qui se trouve en haut à condition que de le mettre, de le considérer, ce qui se trouve en haut, vous pouvez voir que ceci reproduit, reproduit la figure qui est ici présente. Ιl suffit simplement de vous apercevoir que ceci passe sous les trois éléments qui composent la figure. Et que ceci - à partir du moment où ce que vous voyez à droite, passe sous ce que j’ai appelé les trois éléments - ceci permet de descendre ce qu’il en est de l’élément noir et qu’on obtient cette figure-là.
+ce qui se trouve en haut sur la feuille que je vous ai distribuée, à seule fin que vous la reproduisiez ...ce qui se trouve en haut à condition que de le mettre, de le considérer, ce qui se trouve en haut, vous pouvez voir que ceci reproduit, reproduit la figure qui est ici présente. Ιl suffit simplement de vous apercevoir que ceci passe sous les trois éléments qui composent la figure. Et que ceci - à partir du moment où ce que vous voyez à droite, passe sous ce que j’ai appelé les trois éléments - ceci permet de descendre ce qu’il en est de l’élément noir et qu’on obtient cette figure-là.
 
 <!-- id: s25-07-0009 -->
 
@@ -158,7 +158,7 @@ Les deux *tricots toriques*. Ιl y a deux *tricots toriques*, ce sont deux *cha�
 
 <!-- id: s25-07-0039 -->
 
-> le tricot régulier, c’est le tricot jersey qui a deux faces ...ça, c’est *une inversion* tout à fait importante dans la *chaîne*.
+le tricot régulier, c’est le tricot jersey qui a deux faces ...ça, c’est *une inversion* tout à fait importante dans la *chaîne*.
 
 <!-- id: s25-07-0040 -->
 
@@ -166,7 +166,7 @@ C’est-à-dire que là-dedans il s’agit de tricots toriques, c’est-à-dire 
 
 <!-- id: s25-07-0041 -->
 
-> habillé d’un tricot régulier, d’un tricot *jersey* ...et l’une des faces du tore est en *mailles à l’endroit* et l’autre face du tore est en *mailles à l’envers*. Ça, c’est une seconde inversion.
+habillé d’un tricot régulier, d’un tricot *jersey* ...et l’une des faces du tore est en *mailles à l’endroit* et l’autre face du tore est en *mailles à l’envers*. Ça, c’est une seconde inversion.
 
 <!-- id: s25-07-0042 -->
 
@@ -190,7 +190,7 @@ Maintenant, sur la présentation plane qui est là, l’inversion principale, c�
 
 <!-- id: s25-07-0047 -->
 
-> enfin, il y a *une inversion apparente* plutôt ...c’est *l’inversion de dessus-dessous*, c’est-à-dire que ces deux dessins se déduisent l’un de l’autre en changeant tous *les dessus-dessous*.
+enfin, il y a *une inversion apparente* plutôt ...c’est *l’inversion de dessus-dessous*, c’est-à-dire que ces deux dessins se déduisent l’un de l’autre en changeant tous *les dessus-dessous*.
 
 <!-- id: s25-07-0048 -->
 
@@ -210,9 +210,9 @@ Alors quand il y a plusieurs inversions qui se combinent...
 
 <!-- id: s25-07-0052 -->
 
-> déjà quand il y a simplement *une inversion*, genre *gauche-droite*, on a toutes raisons de prendre gauche pour droite et réciproquement. Déjà simplement un couple, un binaire : une inversion, on a toutes les chances
->
-> de se tromper, de choisir l’un quand on veut choisir l’autre. ...quand il y a plusieurs inver­sions, ben c’est ce que j’appelai les binaires et la liaison des binaires.
+déjà quand il y a simplement *une inversion*, genre *gauche-droite*, on a toutes raisons de prendre gauche pour droite et réciproquement. Déjà simplement un couple, un binaire : une inversion, on a toutes les chances
+
+de se tromper, de choisir l’un quand on veut choisir l’autre. ...quand il y a plusieurs inver­sions, ben c’est ce que j’appelai les binaires et la liaison des binaires.
 
 <!-- id: s25-07-0053 -->
 
@@ -244,7 +244,7 @@ C’est-à-dire qu’il y ait les quatre combinaisons possibles, d’une part ma
 
 <!-- id: s25-07-0060 -->
 
-> je répète, par rapport à ces inversions, on ne peut que s’y perdre : il y a besoin de quelque chose d’exhaustif ...donc, il manque une seconde feuille, ce qui fait qu’on a quatre dessins. Ιl y aurait quatre présentations planes.
+je répète, par rapport à ces inversions, on ne peut que s’y perdre : il y a besoin de quelque chose d’exhaustif ...donc, il manque une seconde feuille, ce qui fait qu’on a quatre dessins. Ιl y aurait quatre présentations planes.
 
 <!-- id: s25-07-0061 -->
 
@@ -292,7 +292,7 @@ Ce que vous soutenez, c’est que ce qui se passe...
 
 <!-- id: s25-07-0072 -->
 
-> puisqu’il y a quatre inversions d’après ce que vous dites ...c’est que ça serait quatre inversions et qu’il y aurait deux objets, deux objets *distincts* dans ces quatre inversions.
+puisqu’il y a quatre inversions d’après ce que vous dites ...c’est que ça serait quatre inversions et qu’il y aurait deux objets, deux objets *distincts* dans ces quatre inversions.
 
 <!-- id: s25-07-0073 -->
 

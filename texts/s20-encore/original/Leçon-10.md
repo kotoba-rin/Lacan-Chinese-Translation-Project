@@ -22,9 +22,9 @@ Néanmoins, il ne serait pas mauvais, pour la prochaine fois qui sera le 8 Mai..
 
 <!-- id: s20-10-0005 -->
 
-> pas avant, puisque le 17 de ce mois sera en pleines vacances de Pâques,
->
-> je vous préviens donc que le prochain rendez-vous est le 8 Mai ...il ne serait pas mauvais que vous ayez lu quelque chose que j’ai intitulé *L’étourdit*, en l’écrivant *d.i.t.,* et qui part de la distance qu’il y a du *dire* au *dit*.
+pas avant, puisque le 17 de ce mois sera en pleines vacances de Pâques,
+
+je vous préviens donc que le prochain rendez-vous est le 8 Mai ...il ne serait pas mauvais que vous ayez lu quelque chose que j’ai intitulé *L’étourdit*, en l’écrivant *d.i.t.,* et qui part de la distance qu’il y a du *dire* au *dit*.
 
 <!-- id: s20-10-0006 -->
 
@@ -60,11 +60,11 @@ C’est bien dans cette référence que j’ai demandé à quelqu’un...
 
 <!-- id: s20-10-0014 -->
 
-> qui, à ma grande reconnaissance a bien voulu y accéder ...c’est-à-dire un linguiste, de venir dire aujourd’hui devant vous...
+qui, à ma grande reconnaissance a bien voulu y accéder ...c’est-à-dire un linguiste, de venir dire aujourd’hui devant vous...
 
 <!-- id: s20-10-0015 -->
 
-> et je suis sûr que vous en tirerez profit, ...ce qu’il en est actuellement de la position du linguiste.
+et je suis sûr que vous en tirerez profit, ...ce qu’il en est actuellement de la position du linguiste.
 
 <!-- id: s20-10-0016 -->
 
@@ -72,7 +72,7 @@ Je ne veux même pas indiquer ce qui ne peut pas manquer dans un tel énoncé de
 
 <!-- id: s20-10-0017 -->
 
-> à propos d’un article comme ça qui était paru quelque part ...que quelqu’un m’ait écrit qu’il y a dans la position du linguiste quelque chose qui se déplace.
+à propos d’un article comme ça qui était paru quelque part ...que quelqu’un m’ait écrit qu’il y a dans la position du linguiste quelque chose qui se déplace.
 
 <!-- id: s20-10-0018 -->
 
@@ -176,9 +176,9 @@ Je commencerai par la dernière : pour analyser...
 
 <!-- id: s20-10-0043 -->
 
-> Non ! 1<sup>ère</sup> proposition de cette nouvelle théorie qui correspond
->
-> au contre-pied de la 3<sup>ème</sup> que j’ai énoncée précédemment ...pour analyser une langue, on a besoin de faire intervenir des relations abstraites, qui ne sont pas forcément représentées dans les données elles-mêmes.
+Non ! 1<sup>ère</sup> proposition de cette nouvelle théorie qui correspond
+
+au contre-pied de la 3<sup>ème</sup> que j’ai énoncée précédemment ...pour analyser une langue, on a besoin de faire intervenir des relations abstraites, qui ne sont pas forcément représentées dans les données elles-mêmes.
 
 <!-- id: s20-10-0044 -->
 
@@ -250,7 +250,7 @@ Pour présenter de façon simple le problème, on peut considérer que le « *d
 
 <!-- id: s20-10-0061 -->
 
-> pour une grammaire transformationnelle ...c’est, mettons, un ensemble de phrases que l’on considérera comme appartenant à un ensemble bien formé.
+pour une grammaire transformationnelle ...c’est, mettons, un ensemble de phrases que l’on considérera comme appartenant à un ensemble bien formé.
 
 <!-- id: s20-10-0062 -->
 
@@ -326,7 +326,7 @@ Par exemple, en français, il n’y a pas d’article qui ne soit suivi...
 
 <!-- id: s20-10-0080 -->
 
-> de près ou de loin, enfin immédiatement ou non ...d’un substantif.
+de près ou de loin, enfin immédiatement ou non ...d’un substantif.
 
 <!-- id: s20-10-0081 -->
 
@@ -486,7 +486,7 @@ Est-ce que néanmoins on peut maintenir que, sur la notion de « *propriété d
 
 <!-- id: s20-10-0120 -->
 
-> nous avons vu qu’elle était singulière dans la théorie transformationnelle ...est-ce que l’on peut dire qu’il y a accord ?
+nous avons vu qu’elle était singulière dans la théorie transformationnelle ...est-ce que l’on peut dire qu’il y a accord ?
 
 <!-- id: s20-10-0121 -->
 
@@ -526,11 +526,15 @@ C’est en particulier la position de Chomsky, et pour ceux qui pratiquent les r
 
 <!-- id: s20-10-0130 -->
 
-> « *Il n’y a aucune raison a priori pour que telle structure soit présente dans les langues, or elle y est présente, donc j’ai une propriété,*
->
-> *et ayant une propriété reconnaissable à ce critère qu’elle est indéductible a priori,*
->
-> *j’ai atteint la thèse ultime de ma théorie, et j’ai atteint mon objet* ».
+<div class="text-quotation">
+
+« *Il n’y a aucune raison a priori pour que telle structure soit présente dans les langues, or elle y est présente, donc j’ai une propriété,*
+
+*et ayant une propriété reconnaissable à ce critère qu’elle est indéductible a priori,*
+
+*j’ai atteint la thèse ultime de ma théorie, et j’ai atteint mon objet* ».
+
+</div>
 
 <!-- id: s20-10-0131 -->
 
@@ -666,15 +670,15 @@ Autrement dit, on peut montrer, on pourrait montrer que la linguistique...
 
 <!-- id: s20-10-0164 -->
 
-> et c’est en ce moment que cela se passe ...est mise en face...
+et c’est en ce moment que cela se passe ...est mise en face...
 
 <!-- id: s20-10-0165 -->
 
-> par simplement le mouvement de son exploration syntaxique, donc la plus positive possible ...est mise en face de phénomènes incontournables et dont la pure syntaxe...
+par simplement le mouvement de son exploration syntaxique, donc la plus positive possible ...est mise en face de phénomènes incontournables et dont la pure syntaxe...
 
 <!-- id: s20-10-0166 -->
 
-> la syntaxe fondée sur la formalisation si j’ose dire, sur le - disons - le formalisable ...dont la pure syntaxe ne peut pas rendre compte si elle continue à poser deux sujets absolument symétriques, absolument homogènes l’un à l’autre, dont l’un sera *le locuteur* et l’autre *l’interlocuteur*.
+la syntaxe fondée sur la formalisation si j’ose dire, sur le - disons - le formalisable ...dont la pure syntaxe ne peut pas rendre compte si elle continue à poser deux sujets absolument symétriques, absolument homogènes l’un à l’autre, dont l’un sera *le locuteur* et l’autre *l’interlocuteur*.
 
 <!-- id: s20-10-0167 -->
 
@@ -682,9 +686,9 @@ Je renvoie, pour une illustration de ce genre de problème, au récent livre de 
 
 <!-- id: s20-10-0168 -->
 
-> qui se repèrent en termes de structure grammaticale,
->
-> de mots, de choses tout à fait enregistrables par des données ...que tous ces phénomènes ne peuvent pas être compris, si l’on ne pose pas *au moins deux sujets*, *hétérogènes* l’un à l’autre, dont l’un exerce sur l’autre ce que Ducrot appelle *une relation de pouvoir*, un exercice de pouvoir.
+qui se repèrent en termes de structure grammaticale,
+
+de mots, de choses tout à fait enregistrables par des données ...que tous ces phénomènes ne peuvent pas être compris, si l’on ne pose pas *au moins deux sujets*, *hétérogènes* l’un à l’autre, dont l’un exerce sur l’autre ce que Ducrot appelle *une relation de pouvoir*, un exercice de pouvoir.
 
 <!-- id: s20-10-0169 -->
 
@@ -692,7 +696,7 @@ Autrement dit, le point de la crise c’est que pour continuer l’exploration q
 
 <!-- id: s20-10-0170 -->
 
-> de par sa définition même, c’est-à-dire comme intégration du langage au champ des sciences ...la linguistique doit maintenant... est en passe de payer un prix qui lui est impossible de payer, parce que si elle le paye, c’est en fait sa déconstruction en tant que science qui commence.
+de par sa définition même, c’est-à-dire comme intégration du langage au champ des sciences ...la linguistique doit maintenant... est en passe de payer un prix qui lui est impossible de payer, parce que si elle le paye, c’est en fait sa déconstruction en tant que science qui commence.
 
 <!-- id: s20-10-0171 -->
 
@@ -700,7 +704,7 @@ Que dire pour conclure, eh bien quelque chose comme ceci : c’est que le jour 
 
 <!-- id: s20-10-0172 -->
 
-> et c’est déjà présent chez Ducrot ...commence, commencera à se percevoir comme contemporaine de la psychanalyse, mais que, il n’est pas évident que ce jour venu, la linguistique soit toujours là pour le voir.
+et c’est déjà présent chez Ducrot ...commence, commencera à se percevoir comme contemporaine de la psychanalyse, mais que, il n’est pas évident que ce jour venu, la linguistique soit toujours là pour le voir.
 
 <!-- id: s20-10-0173 -->
 
@@ -720,9 +724,9 @@ Je pense que François Récanati va bien vouloir...
 
 <!-- id: s20-10-0177 -->
 
-> puisque en somme l’orateur qui le précède
->
-> est resté dans des limites de temps très étroites, à son intention ...je serais heureux de savoir ce qu’il peut apporter aujourd’hui comme contribution.
+puisque en somme l’orateur qui le précède
+
+est resté dans des limites de temps très étroites, à son intention ...je serais heureux de savoir ce qu’il peut apporter aujourd’hui comme contribution.
 
 <!-- id: s20-10-0178 -->
 
@@ -746,21 +750,21 @@ Mais il me paraît évident que ce qui a été présenté ici comme *conception 
 
 <!-- id: s20-10-0183 -->
 
-> réglant d’une certaine manière le destin actuel,
->
-> c’est-à-dire non pas l’évolution de ce qui se présente comme science, comme la linguistique,
->
-> ces choix qui doivent se faire entre nominalisme et réalisme d’une part,
->
-> et d’autre part deux principes de raison,
->
-> ou plutôt un principe qui est l’*indéductibilité* *a priori,*
->
-> et l’autre le vieux principe de raison ...ceci précisément relève d’une certaine manière de ce qu’on peut appeler *linguisterie*, mais à un niveau, en quelque sorte où c’est ces choix qui se constituent...
+réglant d’une certaine manière le destin actuel,
+
+c’est-à-dire non pas l’évolution de ce qui se présente comme science, comme la linguistique,
+
+ces choix qui doivent se faire entre nominalisme et réalisme d’une part,
+
+et d’autre part deux principes de raison,
+
+ou plutôt un principe qui est l’*indéductibilité* *a priori,*
+
+et l’autre le vieux principe de raison ...ceci précisément relève d’une certaine manière de ce qu’on peut appeler *linguisterie*, mais à un niveau, en quelque sorte où c’est ces choix qui se constituent...
 
 <!-- id: s20-10-0184 -->
 
-> dans la mesure où ils s’articulent ...ces choix se constituent comme objets.
+dans la mesure où ils s’articulent ...ces choix se constituent comme objets.
 
 <!-- id: s20-10-0185 -->
 
@@ -800,9 +804,9 @@ Alors la question que j’ai posée au D<sup>r</sup> Lacan et qu’ici je vais i
 
 <!-- id: s20-10-0194 -->
 
-> et ce n’est pas exactement le même sens
->
-> ...de la femme au regard de Φ, ainsi que sa position dans le désir de l’homme sous les espèces de *l’objet(a) ?*
+et ce n’est pas exactement le même sens
+
+...de la femme au regard de Φ, ainsi que sa position dans le désir de l’homme sous les espèces de *l’objet(a) ?*
 
 <!-- id: s20-10-0195 -->
 
@@ -818,11 +822,11 @@ Et d’autre part, peut-on dire qu’effectivement...
 
 <!-- id: s20-10-0198 -->
 
-> c’est à peu près la même chose que la première question ...qu’effectivement ils soient <u>deux</u>, si tant est que si Régine avait un Dieu, peut-être n’était-il pas le même...
+c’est à peu près la même chose que la première question ...qu’effectivement ils soient <u>deux</u>, si tant est que si Régine avait un Dieu, peut-être n’était-il pas le même...
 
 <!-- id: s20-10-0199 -->
 
-> certainement pas le même ...que celui de Kierkegaard.
+certainement pas le même ...que celui de Kierkegaard.
 
 <!-- id: s20-10-0200 -->
 
@@ -858,7 +862,7 @@ Selon une symétrie inversée...
 
 <!-- id: s20-10-0208 -->
 
-> et qui n’est d’ailleurs pas une symétrie ...c’est parce que rien chez la femme ne vient *dire non*, ne vient dénier la *fonction* Φ, que rien précisément de décisif ne peut chez elle s’instaurer.
+et qui n’est d’ailleurs pas une symétrie ...c’est parce que rien chez la femme ne vient *dire non*, ne vient dénier la *fonction* Φ, que rien précisément de décisif ne peut chez elle s’instaurer.
 
 <!-- id: s20-10-0209 -->
 
@@ -886,7 +890,7 @@ Dans la *fonction père*, la *fonction* Φ...
 
 <!-- id: s20-10-0215 -->
 
-> dans la mesure où c’est sur elle que porte la négation ...est vidée, de ne pouvoir plus s’indicer d’aucune vérité logique.
+dans la mesure où c’est sur elle que porte la négation ...est vidée, de ne pouvoir plus s’indicer d’aucune vérité logique.
 
 <!-- id: s20-10-0216 -->
 
@@ -954,7 +958,7 @@ On peut même dire plus : tant que **L** femme...
 
 <!-- id: s20-10-0232 -->
 
-> **L** femme toujours ce La barré ...reste définie par ce *il n’existe pas d’x tel que non phi de x* (/ §) elle se situe entre 0 et 1, « entre centre et absence » \[*cf. « Lituraterre »*\], et n’est pas dénombrable.
+**L** femme toujours ce La barré ...reste définie par ce *il n’existe pas d’x tel que non phi de x* (/ §) elle se situe entre 0 et 1, « entre centre et absence » \[*cf. « Lituraterre »*\], et n’est pas dénombrable.
 
 <!-- id: s20-10-0233 -->
 
@@ -1022,7 +1026,7 @@ Et le *tout homme*, le ; !...
 
 <!-- id: s20-10-0249 -->
 
-> qui, lui, se supporte justement du Un, de l’existence de ce Un, du *il existe x tel que non phi de x* (: §) ...le *tout homme* se sert de L femme en tant que *pas toute* pour avoir précisément rapport à l’Un, ou plutôt rapport à l’Autre, selon un procédé tout à fait particulier.
+qui, lui, se supporte justement du Un, de l’existence de ce Un, du *il existe x tel que non phi de x* (: §) ...le *tout homme* se sert de L femme en tant que *pas toute* pour avoir précisément rapport à l’Un, ou plutôt rapport à l’Autre, selon un procédé tout à fait particulier.
 
 <!-- id: s20-10-0250 -->
 
@@ -1078,7 +1082,7 @@ Le fantasme de Don Juan...
 
 <!-- id: s20-10-0263 -->
 
-> je ne le cite que pour ce qui va venir ...illustre très bien cette quête infinie et son terme hypothétique aussi bien, soit précisément le retour d’une statue, de ce qui ne devrait n’être que statue à la vie, et le châtiment immédiat pour l’auteur du réveil.
+je ne le cite que pour ce qui va venir ...illustre très bien cette quête infinie et son terme hypothétique aussi bien, soit précisément le retour d’une statue, de ce qui ne devrait n’être que statue à la vie, et le châtiment immédiat pour l’auteur du réveil.
 
 <!-- id: s20-10-0264 -->
 
@@ -1130,9 +1134,9 @@ Or à partir du moment où ils ont des *effets de signifié*, ce qui ne va pas d
 
 <!-- id: s20-10-0276 -->
 
-> quand Berkeley dit signifiant, enfin quand il ne le dit pas mais quand je le dis à sa place,
->
-> ça veut dire : n’importe quoi, chose, etc. ...ces signifiants sont tenus de déployer - dès lors qu’ils ont des effets de signifié – leur existence ailleurs que sur la scène du signifié.
+quand Berkeley dit signifiant, enfin quand il ne le dit pas mais quand je le dis à sa place,
+
+ça veut dire : n’importe quoi, chose, etc. ...ces signifiants sont tenus de déployer - dès lors qu’ils ont des effets de signifié – leur existence ailleurs que sur la scène du signifié.
 
 <!-- id: s20-10-0277 -->
 
@@ -1148,7 +1152,7 @@ L’évacuation matérielle des signifiants permet aux signifiés de continuer l
 
 <!-- id: s20-10-0280 -->
 
-> peut-être n’ai-je pas dit... j’ai dit *des signifiants* ? ...*la chaîne des signifiés* est l’effet de la rencontre fortuite entre
+peut-être n’ai-je pas dit... j’ai dit *des signifiants* ? ...*la chaîne des signifiés* est l’effet de la rencontre fortuite entre
 
 <!-- id: s20-10-0281 -->
 
@@ -1192,7 +1196,7 @@ La distance est imperceptible, c’est-à-dire que rien, dans le signifiant « 
 
 <!-- id: s20-10-0291 -->
 
-> à écrire en un seul mot comme vous le faites ...ne « *noumène »* à *la signification de cette* *distance*, c’est-à-dire à l’exclusion interne du sujet à ce signifiant, le signifiant *distance*.
+à écrire en un seul mot comme vous le faites ...ne « *noumène »* à *la signification de cette* *distance*, c’est-à-dire à l’exclusion interne du sujet à ce signifiant, le signifiant *distance*.
 
 <!-- id: s20-10-0292 -->
 
@@ -1228,11 +1232,11 @@ Cela signifie que la conjonction de *l’impossibilité* et de la réalité effe
 
 <!-- id: s20-10-0300 -->
 
-> qui est l’espace humain, ...est une manifestation de la Providence, c’est tout à fait *providentiel* que ces 2 trucs divergents se réunissent quand même, et que l’interprétation de ce rapport...
+qui est l’espace humain, ...est une manifestation de la Providence, c’est tout à fait *providentiel* que ces 2 trucs divergents se réunissent quand même, et que l’interprétation de ce rapport...
 
 <!-- id: s20-10-0301 -->
 
-> interprétation de ce rapport suivant le schéma triadique, c’est-à-dire deux termes posés ici ...cette interprétation infinie, à son terme inaccessible, conduit à Dieu.
+interprétation de ce rapport suivant le schéma triadique, c’est-à-dire deux termes posés ici ...cette interprétation infinie, à son terme inaccessible, conduit à Dieu.
 
 <!-- id: s20-10-0302 -->
 
@@ -1372,7 +1376,7 @@ C’est bien sûr là...
 
 <!-- id: s20-10-0336 -->
 
-> puisque je parle de zéro et de Un, pour vous faire sentir une analogie ...c’est bien sûr là que le mystique rencontre L *femme*, comme signifiant justement de ce *pas toute* qui supporte sa quête.
+puisque je parle de zéro et de Un, pour vous faire sentir une analogie ...c’est bien sûr là que le mystique rencontre L *femme*, comme signifiant justement de ce *pas toute* qui supporte sa quête.
 
 <!-- id: s20-10-0337 -->
 
@@ -1544,9 +1548,9 @@ La disjonction qui passe entre l’homme et la femme, entre *le tout* et *le pas
 
 <!-- id: s20-10-0379 -->
 
-> tant que n’aura pas été déterminée la relation imaginaire de la femme à l’Autre,
->
-> et la place de l’homme dans cette relation ...risque de rester en singulière analogie avec ce que j’ai nommé la 3<sup>ème</sup> figure de la disjonction, la disjonction de « *la bourse ou la vie* », c’est-à-dire :
+tant que n’aura pas été déterminée la relation imaginaire de la femme à l’Autre,
+
+et la place de l’homme dans cette relation ...risque de rester en singulière analogie avec ce que j’ai nommé la 3<sup>ème</sup> figure de la disjonction, la disjonction de « *la bourse ou la vie* », c’est-à-dire :
 
 <!-- id: s20-10-0380 -->
 
@@ -1582,9 +1586,9 @@ comme vous pouvez peut-être enfin l’entrevoir, ou tout au moins ceux qui m’
 
 <!-- id: s20-10-0388 -->
 
-> comme je le disais tout à l’heure à ce cher Jean-Claude Milner, comme ça sur le ton de la confidence,
->
-> et puis frayé aussi par un certain auteur que je ré-évoquerai une autre fois ...l’éthique c’est de l’ordre du *geste*.
+comme je le disais tout à l’heure à ce cher Jean-Claude Milner, comme ça sur le ton de la confidence,
+
+et puis frayé aussi par un certain auteur que je ré-évoquerai une autre fois ...l’éthique c’est de l’ordre du *geste*.
 
 <!-- id: s20-10-0389 -->
 
@@ -1636,15 +1640,15 @@ On ne peut voir dans tout ce qu’il a avancé comme questions en pointe...
 
 <!-- id: s20-10-0401 -->
 
-> qui sont celles en quelque sorte qui... dans lesquelles il me reste, cette fin d’année, à faire le frayage, autrement dit à vous fournir ce que j’ai dès maintenant comme réponse, n’est-ce pas,
->
-> qu’il ait terminé sur la question de Kierkegaard et de Régine est absolument exemplaire,
->
-> et comme je n’y ai fait qu’une brève allusion, c’est bien là de son cru ...on ne peut pas mieux, je pense, illustrer...
+qui sont celles en quelque sorte qui... dans lesquelles il me reste, cette fin d’année, à faire le frayage, autrement dit à vous fournir ce que j’ai dès maintenant comme réponse, n’est-ce pas,
+
+qu’il ait terminé sur la question de Kierkegaard et de Régine est absolument exemplaire,
+
+et comme je n’y ai fait qu’une brève allusion, c’est bien là de son cru ...on ne peut pas mieux, je pense, illustrer...
 
 <!-- id: s20-10-0402 -->
 
-> au point où j’en suis enfin de ce frayage que je fais devant vous, ...on ne peut pas mieux illustrer enfin cet *effet de résonance* qui est simplement que quelqu’un pige, pige de quoi il s’agit, et par les questions qu’il m’a proposées assurément, je serai aidé dans ce que j’ai à vous dire dans la suite, je lui demanderai - je lui dis dès à présent - son texte pour que je puisse très précisément m’y référer quand il se trouvera que je puisse y répondre.
+au point où j’en suis enfin de ce frayage que je fais devant vous, ...on ne peut pas mieux illustrer enfin cet *effet de résonance* qui est simplement que quelqu’un pige, pige de quoi il s’agit, et par les questions qu’il m’a proposées assurément, je serai aidé dans ce que j’ai à vous dire dans la suite, je lui demanderai - je lui dis dès à présent - son texte pour que je puisse très précisément m’y référer quand il se trouvera que je puisse y répondre.
 
 <!-- id: s20-10-0403 -->
 
@@ -1656,9 +1660,9 @@ J’ai revu à cette occasion dimanche dernier ce...
 
 <!-- id: s20-10-0405 -->
 
-> je sais plus, je ne sais pas très bien comment ça se prononce en anglais « *menute »*,
->
-> ce *menu* philosophe, ce *menute philosopher*
+je sais plus, je ne sais pas très bien comment ça se prononce en anglais « *menute »*,
+
+ce *menu* philosophe, ce *menute philosopher*
 
 <!-- id: s20-10-0406 -->
 
@@ -1666,7 +1670,7 @@ J’ai revu à cette occasion dimanche dernier ce...
 
 <!-- id: s20-10-0407 -->
 
-> y compris ma désinvolture à me servir des références linguistiques ...n’auraient pas été possibles.
+y compris ma désinvolture à me servir des références linguistiques ...n’auraient pas été possibles.
 
 <!-- id: s20-10-0408 -->
 
@@ -1686,7 +1690,7 @@ De sorte que ça serait là que nous verrions le surgissement, le surgissement e
 
 <!-- id: s20-10-0412 -->
 
-> et vous allez voir pourquoi je le qualifie ainsi ...le surgissement de cette existence, cette « *au moins* *une »* existence qui, au regard de la *fonction *!, s’inscrit pour la *dire*,
+et vous allez voir pourquoi je le qualifie ainsi ...le surgissement de cette existence, cette « *au moins* *une »* existence qui, au regard de la *fonction *!, s’inscrit pour la *dire*,
 
 <!-- id: s20-10-0413 -->
 

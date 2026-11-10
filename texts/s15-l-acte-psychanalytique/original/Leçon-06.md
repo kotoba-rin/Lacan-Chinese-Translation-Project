@@ -70,9 +70,9 @@ C’est là le point de donnée le plus sûr autour de quoi…
 
 <!-- id: s15-06-0017 -->
 
-> au nom de ceci que nous posons aussi à titre disciplinaire qu’il n’y a pas de métalangage,
->
-> que la logique elle-même doit être extraite de cette donnée qu’est le langage …c’est autour de cette *logique* par contre, que nous avons fait tourner *cette triple opération* à laquelle, par une sorte de *tentative*, d’*essai de divination*, de *risque*, nous avons donné *la forme du groupe de Klein*, opération que nous avons commencé par pointer dans le cheminement d’origine par où nous l’avons abordée, par les termes : d’*aliénation*, de *vérité* et de *transfert* [^52].
+au nom de ceci que nous posons aussi à titre disciplinaire qu’il n’y a pas de métalangage,
+
+que la logique elle-même doit être extraite de cette donnée qu’est le langage …c’est autour de cette *logique* par contre, que nous avons fait tourner *cette triple opération* à laquelle, par une sorte de *tentative*, d’*essai de divination*, de *risque*, nous avons donné *la forme du groupe de Klein*, opération que nous avons commencé par pointer dans le cheminement d’origine par où nous l’avons abordée, par les termes : d’*aliénation*, de *vérité* et de *transfert* [^52].
 
 <!-- id: s15-06-0018 -->
 
@@ -84,7 +84,7 @@ Donc, c’est à partir de la subversion du sujet[^53]…
 
 <!-- id: s15-06-0020 -->
 
-> que nous avons déjà depuis quelque dix ans suffisamment articulée pour qu’on conçoive quel est le sens que prend ce terme au moment où nous disons que c’est à partir de la subversion du sujet… …que nous avons à reprendre la fonction de l’acte, pour que nous voyions que c’est entre ce sujet grammatical, celui qui est là *inscrit*, on peut dire, dans la notion même d’acte, dans la façon dont il nous est présentifié, le « *je* » de l’action, et ce sujet articulé dans ces termes glissants, toujours prêt à nous fuir d’un déplacement, d’un saut à l’un des sommets de ce « *tétraèdre* » que déjà la dernière fois j’avais ici reproduit en vous rappelant ces fonctions et ces termes.
+que nous avons déjà depuis quelque dix ans suffisamment articulée pour qu’on conçoive quel est le sens que prend ce terme au moment où nous disons que c’est à partir de la subversion du sujet… …que nous avons à reprendre la fonction de l’acte, pour que nous voyions que c’est entre ce sujet grammatical, celui qui est là *inscrit*, on peut dire, dans la notion même d’acte, dans la façon dont il nous est présentifié, le « *je* » de l’action, et ce sujet articulé dans ces termes glissants, toujours prêt à nous fuir d’un déplacement, d’un saut à l’un des sommets de ce « *tétraèdre* » que déjà la dernière fois j’avais ici reproduit en vous rappelant ces fonctions et ces termes.
 
 <!-- id: s15-06-0021 -->
 
@@ -106,7 +106,7 @@ Donc, c’est à partir de la subversion du sujet[^53]…
 
 <!-- id: s15-06-0025 -->
 
-> nous ne disons pas *qui* supporte : celui qui fait l’acte, le psychanalyste donc implicitement …ce transfert qui serait une pure et simple obscénité, dirai–je, redoublée de bafouillage, si nous ne lui redonnions pas son véritable nœud dans la fonction du *sujet supposé savoir*.
+nous ne disons pas *qui* supporte : celui qui fait l’acte, le psychanalyste donc implicitement …ce transfert qui serait une pure et simple obscénité, dirai–je, redoublée de bafouillage, si nous ne lui redonnions pas son véritable nœud dans la fonction du *sujet supposé savoir*.
 
 <!-- id: s15-06-0026 -->
 
@@ -154,7 +154,7 @@ Faut-il que ce soit maintenant ou simplement un petit peu plus tard…
 
 <!-- id: s15-06-0037 -->
 
-> mais pourquoi pas maintenant, pourquoi pas tout de suite quitte à revenir après sur ce dont il s’agit. J’espère tout ceci vous le rendre plus familier en vous rappelant les coordonnées dans d’autres registres, dans d’autres énoncés …faut-il vous rappeler que la tâche psychanalytique pour autant qu’elle se dessine de ce point, si je puis dire, du sujet déjà aliéné et en un certain sens naïf dans son aliénation, celui que le psychanalyste sait être défini du « *je ne pense pas* », que ce à quoi il le met à la tâche, c’est un « *je pense* » qui prend justement tout son accent de ce qu’il sache le « *je ne pense pas* » inhérent au statut du sujet :
+mais pourquoi pas maintenant, pourquoi pas tout de suite quitte à revenir après sur ce dont il s’agit. J’espère tout ceci vous le rendre plus familier en vous rappelant les coordonnées dans d’autres registres, dans d’autres énoncés …faut-il vous rappeler que la tâche psychanalytique pour autant qu’elle se dessine de ce point, si je puis dire, du sujet déjà aliéné et en un certain sens naïf dans son aliénation, celui que le psychanalyste sait être défini du « *je ne pense pas* », que ce à quoi il le met à la tâche, c’est un « *je pense* » qui prend justement tout son accent de ce qu’il sache le « *je ne pense pas* » inhérent au statut du sujet :
 
 <!-- id: s15-06-0038 -->
 
@@ -184,9 +184,9 @@ Et où cela nous mène-t-il ? Il faut se souvenir - il ne faut pas passer son te
 
 <!-- id: s15-06-0044 -->
 
-> c’est quelque chose qui est ma foi d’autant plus à mettre en valeur
->
-> que comme expérience subjective cela n’a jamais été fait avant la psychanalyse …cela s’appelle *la castration* qui est à prendre dans sa dimension d’*expérience subjective* pour autant que nulle part, sinon par cette voie, *le sujet ne se réalise exactement qu’en tant que manque*, ce qui veut dire que l’expérience subjective aboutit à ceci que nous symbolisons –ϕ.
+c’est quelque chose qui est ma foi d’autant plus à mettre en valeur
+
+que comme expérience subjective cela n’a jamais été fait avant la psychanalyse …cela s’appelle *la castration* qui est à prendre dans sa dimension d’*expérience subjective* pour autant que nulle part, sinon par cette voie, *le sujet ne se réalise exactement qu’en tant que manque*, ce qui veut dire que l’expérience subjective aboutit à ceci que nous symbolisons –ϕ.
 
 <!-- id: s15-06-0045 -->
 
@@ -202,7 +202,7 @@ Cette incommensurabilité que j’ai essayé de serrer devant vous l’an dernie
 
 <!-- id: s15-06-0048 -->
 
-> c’est là quelque chose sur lequel je ne puis pas insister du fait qu’il est du registre mathématique …cette incommensurabilité, ce rapport du *petit(a)* au 1, puisque c’est le *petit(a)* que j’ai repris, non sans intention, pour le symboliser ce *nombre d’or*, voilà où se joue ce qui apparaît comme réalisation subjective au bout de la tâche psychanalytique, c’est à savoir ce *manque*, ce « *n’a pas l’organe* ».
+c’est là quelque chose sur lequel je ne puis pas insister du fait qu’il est du registre mathématique …cette incommensurabilité, ce rapport du *petit(a)* au 1, puisque c’est le *petit(a)* que j’ai repris, non sans intention, pour le symboliser ce *nombre d’or*, voilà où se joue ce qui apparaît comme réalisation subjective au bout de la tâche psychanalytique, c’est à savoir ce *manque*, ce « *n’a pas l’organe* ».
 
 <!-- id: s15-06-0049 -->
 
@@ -238,7 +238,7 @@ Mais il comporte que la perte…
 
 <!-- id: s15-06-0057 -->
 
-> *en tant qu’elle était là d’abord, à ce même point*, avant que le trajet en soit parcouru et simplement pour nous qui savons …*la perte de l’objet qui est à l’origine du statut de l’inconscient* - et ceci a toujours été expressément formulé par FREUD – soit réalisée autre part. Elle l’est précisément - c’est de là que je suis parti - au niveau du *désêtre* du *sujet supposé savoir*.
+*en tant qu’elle était là d’abord, à ce même point*, avant que le trajet en soit parcouru et simplement pour nous qui savons …*la perte de l’objet qui est à l’origine du statut de l’inconscient* - et ceci a toujours été expressément formulé par FREUD – soit réalisée autre part. Elle l’est précisément - c’est de là que je suis parti - au niveau du *désêtre* du *sujet supposé savoir*.
 
 <!-- id: s15-06-0058 -->
 
@@ -258,7 +258,7 @@ Il y a un deuxième temps dans cette énonciation qu’aujourd’hui je poursuis
 
 <!-- id: s15-06-0062 -->
 
-> *jeu scolaire, idée de prendre un point familier à ce dont on nous a chatouillé la cervelle aux fins d’enseignement secondaire* …que je me réfère au *cogito* de DESCARTES, c’est qu’il comporte en lui cet élément particulièrement favorable à y reloger le détour freudien - non pas certes à y démontrer je ne sais quelle cohérence historique, comme si tout cela devait se rabouter de siècle en siècle en une manière de progrès, quand il n’est que trop évident que s’il y a quelque chose que cela évoque c’est bien plutôt l’idée du labyrinthe. Mais qu’importe, laissons…
+*jeu scolaire, idée de prendre un point familier à ce dont on nous a chatouillé la cervelle aux fins d’enseignement secondaire* …que je me réfère au *cogito* de DESCARTES, c’est qu’il comporte en lui cet élément particulièrement favorable à y reloger le détour freudien - non pas certes à y démontrer je ne sais quelle cohérence historique, comme si tout cela devait se rabouter de siècle en siècle en une manière de progrès, quand il n’est que trop évident que s’il y a quelque chose que cela évoque c’est bien plutôt l’idée du labyrinthe. Mais qu’importe, laissons…
 
 <!-- id: s15-06-0063 -->
 
@@ -286,9 +286,9 @@ Est-ce que nous n’avons pas à trouver remarquable, à réinterroger du point 
 
 <!-- id: s15-06-0069 -->
 
-> dans la voie de mon discours, en tant qu’il ne fait que résumer, que pointer, que donner son signe et son sens
->
-> à ce que cette expérience s’articule partout, jusque dans le désordre et la confusion qu’il engendre …cet *objet(a)*, ne voyons-nous pas qu’il vient à la même place où est :
+dans la voie de mon discours, en tant qu’il ne fait que résumer, que pointer, que donner son signe et son sens
+
+à ce que cette expérience s’articule partout, jusque dans le désordre et la confusion qu’il engendre …cet *objet(a)*, ne voyons-nous pas qu’il vient à la même place où est :
 
 <!-- id: s15-06-0070 -->
 
@@ -348,7 +348,7 @@ Comme vous pouvez le remarquer, c’est le sujet qui a accompli la tâche au bou
 
 <!-- id: s15-06-0084 -->
 
-> *par une rotation si vous voulez, ou une bascule, à un certain nombre de degrés, ici, telle qu’est dessinée cette figure, à 180 degrés* …que nous devons voir passer, revenir à la position de départ, quand il s’est ici réalisé, à ceci près, comme je l’ai souligné déjà, que le sujet qui vient ici \[en haut à droite\] sait ce qu’il en est de l’expérience subjective et que cette expérience implique aussi, si je puis dire, qu’à sa gauche il reste ce qu’il en est advenu de celui dont l’acte se trouve responsable du chemin parcouru, en d’autres termes, que pour l’analyste tel que nous le voyons maintenant surgir au niveau de son acte, il y a déjà savoir du *désêtre du sujet supposé savoir* en tant qu’il est, de toute cette logique, la position nécessaire de départ.
+*par une rotation si vous voulez, ou une bascule, à un certain nombre de degrés, ici, telle qu’est dessinée cette figure, à 180 degrés* …que nous devons voir passer, revenir à la position de départ, quand il s’est ici réalisé, à ceci près, comme je l’ai souligné déjà, que le sujet qui vient ici \[en haut à droite\] sait ce qu’il en est de l’expérience subjective et que cette expérience implique aussi, si je puis dire, qu’à sa gauche il reste ce qu’il en est advenu de celui dont l’acte se trouve responsable du chemin parcouru, en d’autres termes, que pour l’analyste tel que nous le voyons maintenant surgir au niveau de son acte, il y a déjà savoir du *désêtre du sujet supposé savoir* en tant qu’il est, de toute cette logique, la position nécessaire de départ.
 
 <!-- id: s15-06-0085 -->
 
@@ -392,9 +392,9 @@ Mais n’est-ce pas là aussi, pour nous, occasion de nous apercevoir qu’en so
 
 <!-- id: s15-06-0095 -->
 
-> *et ce sera à nous de nous apercevoir à la trace de ce que nous voulons dire*
->
-> *quand nous parlons du statut de l’acte sans même pouvoir nous permettre d’y ajouter, de l’acte humain* …c’est que s’il est quelque part où *le psychanalyste* à la fois ne se connaît pas, qui est aussi le point où il existe, c’est en tant qu’assurément *il est sujet divisé* et jusque dans son acte et que la fin où il est attendu, à savoir cet *objet(a)*, en tant qu’il est non pas le sien mais celui que, de lui comme Autre, requiert le psychanalysant pour qu’avec lui il soit de lui rejeté.
+*et ce sera à nous de nous apercevoir à la trace de ce que nous voulons dire*
+
+*quand nous parlons du statut de l’acte sans même pouvoir nous permettre d’y ajouter, de l’acte humain* …c’est que s’il est quelque part où *le psychanalyste* à la fois ne se connaît pas, qui est aussi le point où il existe, c’est en tant qu’assurément *il est sujet divisé* et jusque dans son acte et que la fin où il est attendu, à savoir cet *objet(a)*, en tant qu’il est non pas le sien mais celui que, de lui comme Autre, requiert le psychanalysant pour qu’avec lui il soit de lui rejeté.
 
 <!-- id: s15-06-0096 -->
 
@@ -458,7 +458,7 @@ Est–ce qu’il n’est pas possible de les réinterroger dans ce même registr
 
 <!-- id: s15-06-0111 -->
 
-> *Wo Es war* - nous dit-il - *soll Ich werden.*
+*Wo Es war* - nous dit-il - *soll Ich werden.*
 
 <!-- id: s15-06-0112 -->
 
@@ -470,7 +470,7 @@ Telle est la nouvelle forme sous laquelle je vous propose de poser une nouvelle 
 
 <!-- id: s15-06-0114 -->
 
-> *si singulièrement parent d’un certain nombre d’introductions originelles au premier rang desquelles est le cogito cartésien* …pour autant que *l’acte psychanalytique* permet d’en reposer la question.
+*si singulièrement parent d’un certain nombre d’introductions originelles au premier rang desquelles est le cogito cartésien* …pour autant que *l’acte psychanalytique* permet d’en reposer la question.
 
 ## Notes
 

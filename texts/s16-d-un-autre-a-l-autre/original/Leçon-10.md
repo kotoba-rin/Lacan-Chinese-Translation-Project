@@ -58,9 +58,9 @@ Et là, par le fait que le *a* est moindre que 1, vous voyez que le processus s�
 
 <!-- id: s16-10-0014 -->
 
-> à l’inverse, à procéder par soustraction, de façon telle que soit toujours vrai que, dans cette chaîne,
->
-> à reprendre la chose dans l’ascendance, chaque terme soit la somme des deux précédents …vous n’en trouvez pas moins la fonction de *a* en tant que cette fois elle atteint une limite : qu’aussi nombreux que vous additionniez ces termes, vous ne dépasserez pas le 1+*a*, ce qui semble indiquer qu’à prendre les choses dans ce sens, ce qu’engendre *la répétition* a son terme.
+à l’inverse, à procéder par soustraction, de façon telle que soit toujours vrai que, dans cette chaîne,
+
+à reprendre la chose dans l’ascendance, chaque terme soit la somme des deux précédents …vous n’en trouvez pas moins la fonction de *a* en tant que cette fois elle atteint une limite : qu’aussi nombreux que vous additionniez ces termes, vous ne dépasserez pas le 1+*a*, ce qui semble indiquer qu’à prendre les choses dans ce sens, ce qu’engendre *la répétition* a son terme.
 
 <!-- id: s16-10-0015 -->
 
@@ -88,7 +88,7 @@ Dans d’autres termes, à supposer que Dieu n’existe pas, le sujet - nous l�
 
 <!-- id: s16-10-0021 -->
 
-> du « *jeu* » toujours pris *- c’est le cas de le dire -* au pied de la lettre …connaître le bonheur limité et d’ailleurs problématique qui lui est offert en cette vie.
+du « *jeu* » toujours pris *- c’est le cas de le dire -* au pied de la lettre …connaître le bonheur limité et d’ailleurs problématique qui lui est offert en cette vie.
 
 <!-- id: s16-10-0022 -->
 
@@ -128,11 +128,11 @@ C’est ici que j’ai ouvert la question…
 
 <!-- id: s16-10-0031 -->
 
-> non pas au niveau d’une formule qui a pourtant l’intérêt de prendre à sa *source la question de l’intervention du signifiant* …de ce qu’il en est dans un acte de choix quelconque. C’est là que j’ai fait remarquer l’insuffisance d’un tableau incomplet de ne pas mettre en valeur qu’à prendre les choses à un second étage…
+non pas au niveau d’une formule qui a pourtant l’intérêt de prendre à sa *source la question de l’intervention du signifiant* …de ce qu’il en est dans un acte de choix quelconque. C’est là que j’ai fait remarquer l’insuffisance d’un tableau incomplet de ne pas mettre en valeur qu’à prendre les choses à un second étage…
 
 <!-- id: s16-10-0032 -->
 
-> celui, peut-être, qui restitue la juste position de ce que comporte la matrice telle qu’on en use dans *la théorie des jeux* …c’est ici que doit se placer ce que je distingue du *sujet*, *du sujet purement identique à l’inscription des enjeux,* comme de celui qui peut envisager les cas où Dieu même existant, il parie contre, c’est-à-dire choisit le *a* à ses dépens. \[A (*a*, –∞)\]
+celui, peut-être, qui restitue la juste position de ce que comporte la matrice telle qu’on en use dans *la théorie des jeux* …c’est ici que doit se placer ce que je distingue du *sujet*, *du sujet purement identique à l’inscription des enjeux,* comme de celui qui peut envisager les cas où Dieu même existant, il parie contre, c’est-à-dire choisit le *a* à ses dépens. \[A (*a*, –∞)\]
 
 <!-- id: s16-10-0033 -->
 
@@ -176,7 +176,7 @@ Qu’est-ce que ces 0 désignent, sinon qu’à mettre quelque *enjeu* sur la ta
 
 <!-- id: s16-10-0043 -->
 
-> comme PASCAL l’a souligné en introduisant la théorie des partis …rien de juste ne saurait s’énoncer d’un jeu sinon à partir de ceci, sinon qu’ayant un commencement et un terme fixés dans sa règle, ce qui est mis sur la table, ce qu’on appelle *la mise, est d’origine perdu*.
+comme PASCAL l’a souligné en introduisant la théorie des partis …rien de juste ne saurait s’énoncer d’un jeu sinon à partir de ceci, sinon qu’ayant un commencement et un terme fixés dans sa règle, ce qui est mis sur la table, ce qu’on appelle *la mise, est d’origine perdu*.
 
 <!-- id: s16-10-0044 -->
 
@@ -204,11 +204,11 @@ Car nous avons ceci qui apparaît assez dans la discussion que les philosophes o
 
 <!-- id: s16-10-0050 -->
 
-> C’est à savoir qu’il apparaît bien en effet que ce 0 représente non pas la perte constitutive de la mise mais,
->
-> au moins au niveau du dialogue entre PASCAL et MÉRÉ qui n’est pas pour rien dans la façon
->
-> dont PASCAL écrit et dont du même coup il nous fourvoie - ce n’est jamais, bien sûr, sans notre collaboration …dans ce qu’il en est de l’intérêt du montage même, à savoir que ce qui domine, c’est qu’en effet ce 0 peut être l’inscription d’un des choix qui s’offrent, qui est de ne pas s’asseoir à cette table.
+C’est à savoir qu’il apparaît bien en effet que ce 0 représente non pas la perte constitutive de la mise mais,
+
+au moins au niveau du dialogue entre PASCAL et MÉRÉ qui n’est pas pour rien dans la façon
+
+dont PASCAL écrit et dont du même coup il nous fourvoie - ce n’est jamais, bien sûr, sans notre collaboration …dans ce qu’il en est de l’intérêt du montage même, à savoir que ce qui domine, c’est qu’en effet ce 0 peut être l’inscription d’un des choix qui s’offrent, qui est de ne pas s’asseoir à cette table.
 
 <!-- id: s16-10-0051 -->
 
@@ -228,11 +228,11 @@ Il ne lui semble pas nécessaire…
 
 <!-- id: s16-10-0055 -->
 
-> parce qu’il se fonde sur la parole, parole qui bien sûr pour lui est celle de l’Église …il est singulier qu’il n’en distingue pas ce qui…
+parce qu’il se fonde sur la parole, parole qui bien sûr pour lui est celle de l’Église …il est singulier qu’il n’en distingue pas ce qui…
 
 <!-- id: s16-10-0056 -->
 
-> c’est là le point aveugle de siècles qui n’étaient pas pour autant d’obscurantisme …pourtant lui fournit beaucoup : c’est assurément dans ce fait du caractère inéliminable, durant des siècles de pensée, de l’Écriture Sainte, que *l’écriture plus radicale qui est celle qui pour nous y apparaît en filigrane n’est pas réellement distinguée*.
+c’est là le point aveugle de siècles qui n’étaient pas pour autant d’obscurantisme …pourtant lui fournit beaucoup : c’est assurément dans ce fait du caractère inéliminable, durant des siècles de pensée, de l’Écriture Sainte, que *l’écriture plus radicale qui est celle qui pour nous y apparaît en filigrane n’est pas réellement distinguée*.
 
 <!-- id: s16-10-0057 -->
 
@@ -268,7 +268,7 @@ Seulement il y a un malheur, et c’est ce qui fait l’intérêt du *pari de Pa
 
 <!-- id: s16-10-0065 -->
 
-> *c’est pour cela que je me permets*, quoiqu’on puisse penser d’un recours à la vieillerie, *d’y trouver un point tournant exemplaire* …c’est qu’en aucun cas *le Dieu de Pascal* n’est à mettre en question sur le plan de l’*imaginaire*, parce que ce *n’est pas le Dieu des philosophes*. Ce n’est même pas le Dieu d’aucun savoir. « *Nous ne savons* - écrit PASCAL - *ni ce qu’il est, bien sûr, ni même s’il est*. »
+*c’est pour cela que je me permets*, quoiqu’on puisse penser d’un recours à la vieillerie, *d’y trouver un point tournant exemplaire* …c’est qu’en aucun cas *le Dieu de Pascal* n’est à mettre en question sur le plan de l’*imaginaire*, parce que ce *n’est pas le Dieu des philosophes*. Ce n’est même pas le Dieu d’aucun savoir. « *Nous ne savons* - écrit PASCAL - *ni ce qu’il est, bien sûr, ni même s’il est*. »
 
 <!-- id: s16-10-0066 -->
 
@@ -280,7 +280,7 @@ Autrement dit qu’avant d’être pensant…
 
 <!-- id: s16-10-0068 -->
 
-> pour aller vite, pour épingler même au plus court ce que je suis en train de dire …dès qu’on monte la table de jeu, et Dieu sait si déjà elle est montée, il est d’abord le *a*.
+pour aller vite, pour épingler même au plus court ce que je suis en train de dire …dès qu’on monte la table de jeu, et Dieu sait si déjà elle est montée, il est d’abord le *a*.
 
 <!-- id: s16-10-0069 -->
 
@@ -300,11 +300,11 @@ Bref j’ai été jusqu’à cette exorbitance délirante…
 
 <!-- id: s16-10-0073 -->
 
-> car depuis un petit temps je délire à part moi, *ces choses-là sortent toujours un jour*, sous une forme ou sous une autre …j’aimerais qu’on s’aperçoive - c’est mon délire ? …ou pas ! - qu’il n’est plus possible de jouer le rôle qui convient à la transmission du savoir…
+car depuis un petit temps je délire à part moi, *ces choses-là sortent toujours un jour*, sous une forme ou sous une autre …j’aimerais qu’on s’aperçoive - c’est mon délire ? …ou pas ! - qu’il n’est plus possible de jouer le rôle qui convient à la transmission du savoir…
 
 <!-- id: s16-10-0074 -->
 
-> qui *n’est pas* la transmission d’une valeur, encore que maintenant cela s’inscrive sur des registres «* unité de valeur *» …mais de saisir ce qu’on peut appeler un *effet de formation*.
+qui *n’est pas* la transmission d’une valeur, encore que maintenant cela s’inscrive sur des registres «* unité de valeur *» …mais de saisir ce qu’on peut appeler un *effet de formation*.
 
 <!-- id: s16-10-0075 -->
 
@@ -312,11 +312,11 @@ C’est pour cela que - quel qu’il soit - quiconque dans l’avenir…
 
 <!-- id: s16-10-0076 -->
 
-> justement parce qu’il est arrivé quelque chose à cette valeur du savoir …voudra occuper une place d’aucune façon afférente à cet endroit de formation…
+justement parce qu’il est arrivé quelque chose à cette valeur du savoir …voudra occuper une place d’aucune façon afférente à cet endroit de formation…
 
 <!-- id: s16-10-0077 -->
 
-> même si c’est les mathématiques, la biochimie ou n’importe quoi d’autre …fera bien d’être psychanalyste, si c’est ainsi qu’il faut définir quelqu’un pour qui existe cette question de la dépendance du sujet par rapport au discours qui le tient, et non pas qu’il tient.
+même si c’est les mathématiques, la biochimie ou n’importe quoi d’autre …fera bien d’être psychanalyste, si c’est ainsi qu’il faut définir quelqu’un pour qui existe cette question de la dépendance du sujet par rapport au discours qui le tient, et non pas qu’il tient.
 
 <!-- id: s16-10-0078 -->
 
@@ -324,7 +324,7 @@ Alors il vaut bien de dire, puisque comme vous le voyez je viens d’éviter que
 
 <!-- id: s16-10-0079 -->
 
-> en raison du fait que vous êtes tous les produits de l’école, c’est-à-dire d’un enseignement philosophique …que je sais que je ne peux pas aborder d’une façon abrupte ce qu’il en est du changement qui s’inscrit au niveau de la seconde matrice :
+en raison du fait que vous êtes tous les produits de l’école, c’est-à-dire d’un enseignement philosophique …que je sais que je ne peux pas aborder d’une façon abrupte ce qu’il en est du changement qui s’inscrit au niveau de la seconde matrice :
 
 <!-- id: s16-10-0080 -->
 
@@ -336,9 +336,9 @@ Alors il vaut bien de dire, puisque comme vous le voyez je viens d’éviter que
 
 <!-- id: s16-10-0082 -->
 
-> car ça n’a jamais été *a ou* 0, comme je viens de vous l’indiquer et comme PASCAL le dit,
->
-> mais comme ce ne sont jamais que des philosophes qui l’ont lu, tout le monde est resté sourd …il a dit : *a c’est* 0, ce qui veut dire *a* c’est la mise. C’était pourtant bien précisé dès la théorie des parties.
+car ça n’a jamais été *a ou* 0, comme je viens de vous l’indiquer et comme PASCAL le dit,
+
+mais comme ce ne sont jamais que des philosophes qui l’ont lu, tout le monde est resté sourd …il a dit : *a c’est* 0, ce qui veut dire *a* c’est la mise. C’était pourtant bien précisé dès la théorie des parties.
 
 <!-- id: s16-10-0083 -->
 
@@ -358,7 +358,7 @@ Et puis aussi que dans un cas…
 
 <!-- id: s16-10-0087 -->
 
-> quoi qu’il arrive, fût-ce aux dépens de quelque chose qui, pour s’inscrire, paraît devoir être coûteux …qu’est-ce que c’est aussi, là, que *cette corrélation*, *cette équivalence* qui, peut-être, nous permet de mettre ailleurs, de nous apercevoir qu’ici basculent nos *signes de conjonction*. En tout cas voilà deux liaisons qui me paraissent digne d’être interrogées. Vous voyez qu’elles ne sont pas tout à fait classées comme celles d’avant.
+quoi qu’il arrive, fût-ce aux dépens de quelque chose qui, pour s’inscrire, paraît devoir être coûteux …qu’est-ce que c’est aussi, là, que *cette corrélation*, *cette équivalence* qui, peut-être, nous permet de mettre ailleurs, de nous apercevoir qu’ici basculent nos *signes de conjonction*. En tout cas voilà deux liaisons qui me paraissent digne d’être interrogées. Vous voyez qu’elles ne sont pas tout à fait classées comme celles d’avant.
 
 <!-- id: s16-10-0088 -->
 
@@ -394,7 +394,7 @@ Alors là, il faut faire une petite « station ». Quelqu’un, que je remerci
 
 <!-- id: s16-10-0096 -->
 
-> parce qu’il faut toujours remercier les personnes par où vous arrivent les cadeaux …m’a, pour des raisons externes, rappelé l’existence du chapitre de BERGLER qui s’appelle « *Le surmoi sous-estimé* », c’est dans la fameuse *Névrose de base* qui explique tout.
+parce qu’il faut toujours remercier les personnes par où vous arrivent les cadeaux …m’a, pour des raisons externes, rappelé l’existence du chapitre de BERGLER qui s’appelle « *Le surmoi sous-estimé* », c’est dans la fameuse *Névrose de base* qui explique tout.
 
 <!-- id: s16-10-0097 -->
 
@@ -446,7 +446,7 @@ Et je dois dire que là j’humorise. Mais il me tend la perche, parce que bien 
 
 <!-- id: s16-10-0109 -->
 
-> exactement du même niveau où sont toutes les revues de psychanalyse existantes, sauf la mienne, bien entendu ! …à quel point c’est incohérent.
+exactement du même niveau où sont toutes les revues de psychanalyse existantes, sauf la mienne, bien entendu ! …à quel point c’est incohérent.
 
 <!-- id: s16-10-0110 -->
 
@@ -486,7 +486,7 @@ Maintenant, même les personnes les moins faites pour imaginer ce dont il s’ag
 
 <!-- id: s16-10-0119 -->
 
-> d’ailleurs les choses dessinent toujours leurs linéaments ailleurs que dans le réel avant d’y descendre …dans le régime vraiment de la *ségrégation intellectuelle*.
+d’ailleurs les choses dessinent toujours leurs linéaments ailleurs que dans le réel avant d’y descendre …dans le régime vraiment de la *ségrégation intellectuelle*.
 
 <!-- id: s16-10-0120 -->
 
@@ -498,7 +498,11 @@ Et je dirai que c’est ce qu’il y a de triste parce qu’il la comprend au ni
 
 <!-- id: s16-10-0122 -->
 
-> « *Mais ça doit avoir un rapport avec ce qu’il voit tout le temps*. »
+<div class="text-quotation">
+
+« *Mais ça doit avoir un rapport avec ce qu’il voit tout le temps*. »
+
+</div>
 
 <!-- id: s16-10-0123 -->
 
@@ -506,7 +510,7 @@ Alors il commence par s’apercevoir…
 
 <!-- id: s16-10-0124 -->
 
-> mais comme ça d’une façon intuitive, au niveau de la sensibilité …que ce qu’on appelle la *Durcharbeitung,* l’élaboration comme on a traduit en français ça… on passe son temps à s’apercevoir que c’est intraduisible …*Durcharbeitung,* ce n’est pas élaboration, on n’y peut rien. Comme il n’y a pas en français de mot pour dire « *travail à travers* » : forage, on traduit élaboration. Chacun sait qu’en France on élabore : c’est plutôt dans le genre fumées.
+mais comme ça d’une façon intuitive, au niveau de la sensibilité …que ce qu’on appelle la *Durcharbeitung,* l’élaboration comme on a traduit en français ça… on passe son temps à s’apercevoir que c’est intraduisible …*Durcharbeitung,* ce n’est pas élaboration, on n’y peut rien. Comme il n’y a pas en français de mot pour dire « *travail à travers* » : forage, on traduit élaboration. Chacun sait qu’en France on élabore : c’est plutôt dans le genre fumées.
 
 <!-- id: s16-10-0125 -->
 
@@ -518,9 +522,9 @@ Il dit « *ça, c’est un effet de surmoi* », c’est-à-dire qu’il se ren
 
 <!-- id: s16-10-0127 -->
 
-> qui pourtant est extrait soi-disant du *complexe d’Œdipe*,
->
-> ou encore de la *mère dévorante*, ou de n’importe laquelle de ces balançoires …il s’aperçoit que ça a un rapport avec ce côté épuisant, tannant, nécessaire, répété surtout, par quoi on arrive à quelque chose qui en effet, quelquefois, a un bout.
+qui pourtant est extrait soi-disant du *complexe d’Œdipe*,
+
+ou encore de la *mère dévorante*, ou de n’importe laquelle de ces balançoires …il s’aperçoit que ça a un rapport avec ce côté épuisant, tannant, nécessaire, répété surtout, par quoi on arrive à quelque chose qui en effet, quelquefois, a un bout.
 
 <!-- id: s16-10-0128 -->
 
@@ -536,7 +540,7 @@ Il faut que tout cela se passe non pas sur *l’autre scène*…
 
 <!-- id: s16-10-0131 -->
 
-> celle dont parlait FREUD, celle qui fonctionne dans les rêves …mais sur une espèce de *petite saynète* là, où ce qu’on appelle l’enseignement analytique vous fait jouer des *marionnettes *: le *surmoi* c’est *le Commissaire* et il vient taper sur la tête de *Guignol* qui est le *moi*. Comment, rien que de voir ce *rapprochement*… qu’il sent tellement bien au point de vue clinique …avec l’élaboration, la *Durcharbeitung,* cela ne lui suggère pas que le *surmoi*, ça pourrait peut-être être trouvé sans quelque chose qui ne nécessiterait pas, comme ça, qu’on multiplie dans la personnalité les *instances*.
+celle dont parlait FREUD, celle qui fonctionne dans les rêves …mais sur une espèce de *petite saynète* là, où ce qu’on appelle l’enseignement analytique vous fait jouer des *marionnettes *: le *surmoi* c’est *le Commissaire* et il vient taper sur la tête de *Guignol* qui est le *moi*. Comment, rien que de voir ce *rapprochement*… qu’il sent tellement bien au point de vue clinique …avec l’élaboration, la *Durcharbeitung,* cela ne lui suggère pas que le *surmoi*, ça pourrait peut-être être trouvé sans quelque chose qui ne nécessiterait pas, comme ça, qu’on multiplie dans la personnalité les *instances*.
 
 <!-- id: s16-10-0132 -->
 
@@ -548,7 +552,7 @@ Tout de même, pour que ces discours soient autre chose que les mémoires du psy
 
 <!-- id: s16-10-0134 -->
 
-> à savoir évoquer le cas d’une jeune femme chez qui, à ce propos, on voyait bien que c’était *le sentiment de culpabilité* qui l’a fait entrer dans la psychanalyse, espérons que c’est le même qui l’en a fait sortir ! …on peut peut–être quand même s’apercevoir :
+à savoir évoquer le cas d’une jeune femme chez qui, à ce propos, on voyait bien que c’était *le sentiment de culpabilité* qui l’a fait entrer dans la psychanalyse, espérons que c’est le même qui l’en a fait sortir ! …on peut peut–être quand même s’apercevoir :
 
 <!-- id: s16-10-0135 -->
 
@@ -592,7 +596,7 @@ Mais lisez ce chapitre pour voir que même ceci, qui est pertinent, bien orient�
 
 <!-- id: s16-10-0145 -->
 
-> mais orienté à la façon des particules de la limaille de fer quand vous tapez dans un champ magnétisé …déjà : aucune espèce de motivation véritable de la puissance et de l’importance du détail, et pourquoi en effet il n’y a que les détails - c’est bien vrai - qui nous intéressent. Encore faudrait-il savoir dans chaque cas ce qui est intéressant.
+mais orienté à la façon des particules de la limaille de fer quand vous tapez dans un champ magnétisé …déjà : aucune espèce de motivation véritable de la puissance et de l’importance du détail, et pourquoi en effet il n’y a que les détails - c’est bien vrai - qui nous intéressent. Encore faudrait-il savoir dans chaque cas ce qui est intéressant.
 
 <!-- id: s16-10-0146 -->
 

@@ -46,9 +46,9 @@ Nous dirons que d’une certaine façon, tout *art*...
 
 <!-- id: s7-10-0011 -->
 
-> et après tout je ne crois pas que ce soit là une formule qui soit vaine quelle que soit sa généralité,
->
-> pour diriger ceux qui s’intéressent à l’élucidation des problèmes de l’art
+et après tout je ne crois pas que ce soit là une formule qui soit vaine quelle que soit sa généralité,
+
+pour diriger ceux qui s’intéressent à l’élucidation des problèmes de l’art
 
 <!-- id: s7-10-0012 -->
 
@@ -168,11 +168,11 @@ Pour ceux qui ne connaissent pas ce texte, il s’agit de ceci. Du fait que SPIT
 
 <!-- id: s7-10-0041 -->
 
-> *rooting* voulant dire le geste d’oscillation que l’enfant fait dans l’approche du sein, *rooting* est très difficile
->
-> à traduire, il est très difficile de trouver un équivalent, il y a dans le texte un corrélatif, le mot *snot*, *museau*,
->
-> à côté de *rooting*, qui montre bien ce dont il s’agit
+*rooting* voulant dire le geste d’oscillation que l’enfant fait dans l’approche du sein, *rooting* est très difficile
+
+à traduire, il est très difficile de trouver un équivalent, il y a dans le texte un corrélatif, le mot *snot*, *museau*,
+
+à côté de *rooting*, qui montre bien ce dont il s’agit
 
 <!-- id: s7-10-0042 -->
 

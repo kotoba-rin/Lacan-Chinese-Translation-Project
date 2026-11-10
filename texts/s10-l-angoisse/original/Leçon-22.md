@@ -495,9 +495,13 @@ on dira à l’enfant, en autant de points qu’il le faudra :
 
 <!-- id: s10-22-0091 -->
 
-> « *Tu vois, le petit tuyau, ici - qu’on appellera aussi la porte et de bien d’autres façons encore - il est bouché ce qui fait que l’eau qui est*
->
-> *là ne peut pas couler au travers pour venir ici se vider dans ce qu’on appellera aussi, d’une certaine façon, l’issue, etc*… »
+<div class="text-quotation">
+
+« *Tu vois, le petit tuyau, ici - qu’on appellera aussi la porte et de bien d’autres façons encore - il est bouché ce qui fait que l’eau qui est*
+
+*là ne peut pas couler au travers pour venir ici se vider dans ce qu’on appellera aussi, d’une certaine façon, l’issue, etc*… »
+
+</div>
 
 <!-- id: s10-22-0092 -->
 
@@ -561,13 +565,17 @@ Si on propose un mythe, que c’en soit un ! Et non pas cette vague petite hist
 
 <!-- id: s10-22-0103 -->
 
-> « *Il y avait une fois une dame qui s’appelait Niobé, qui avait douze fils et douze filles.*
->
-> *Elle a ren­contré une fée qui n’avait qu’un fils et qu’une fille, alors la dame s’est moquée de la fée parce qu’elle n’avait qu’un garçon.*
->
-> *La fée alors s’est fâchée et a attaché la dame à un rocher.*
->
-> *La dame a pleuré pendant dix ans, à la fin elle a été changée en ruisseau, ses larmes ont fait un ruisseau qui coule encore* ».
+<div class="text-quotation">
+
+« *Il y avait une fois une dame qui s’appelait Niobé, qui avait douze fils et douze filles.*
+
+*Elle a ren­contré une fée qui n’avait qu’un fils et qu’une fille, alors la dame s’est moquée de la fée parce qu’elle n’avait qu’un garçon.*
+
+*La fée alors s’est fâchée et a attaché la dame à un rocher.*
+
+*La dame a pleuré pendant dix ans, à la fin elle a été changée en ruisseau, ses larmes ont fait un ruisseau qui coule encore* ».
+
+</div>
 
 <!-- id: s10-22-0104 -->
 
@@ -605,12 +613,12 @@ il fait surgir, au point où Piaget nous dit que la dame a été attachée à un
 
 <!-- id: s10-22-0110 -->
 
-> jamais, sous aucu­ne forme, le mythe de Niobé n’a articulé un tel temps - bien sûr, c’est faci­le,
->
-> jouant, vous dira-t-on sur *une faute d’audition* et sur *le calembour* - mais pourquoi justement celui-là ?
-> ...fait surgir la dimension d’un rocher qui a une tache, restituant les dimensions que dans mon séminaire précédent,
-> je vous faisais surgir comme essentielles à la victime du sacrifice, celles de n’en pas avoir.
-> Mais laissons. Ceci n’est bien entendu pas preuve, mais seulement suggestion.
+jamais, sous aucu­ne forme, le mythe de Niobé n’a articulé un tel temps - bien sûr, c’est faci­le,
+
+jouant, vous dira-t-on sur *une faute d’audition* et sur *le calembour* - mais pourquoi justement celui-là ?
+...fait surgir la dimension d’un rocher qui a une tache, restituant les dimensions que dans mon séminaire précédent,
+je vous faisais surgir comme essentielles à la victime du sacrifice, celles de n’en pas avoir.
+Mais laissons. Ceci n’est bien entendu pas preuve, mais seulement suggestion.
 
 <!-- id: s10-22-0111 -->
 

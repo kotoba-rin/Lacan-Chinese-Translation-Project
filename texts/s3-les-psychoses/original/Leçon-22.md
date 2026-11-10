@@ -82,7 +82,11 @@ Je disais ceci à la suite de quelques remarques, dont la dernière était celle
 
 <!-- id: s3-22-0020 -->
 
-> « *Pour l’ordinaire chacun sait que les autres tout comme lui reste­ront inaccessibles aux contraintes de la raison, hors d’une accep­tation de principe d’une règle du débat qui ne va pas sans un accord explicite ou implicite sur ce qu’on appelle son fonds, ce qui équi­vaut presque toujours à un accord anticipé sur son enjeu. Ce qu’on appelle logique ou droit n’est jamais rien de plus qu’un corps de règles qui furent laborieusement ajustées à un moment de l’histoire dûment daté et situé par un cachet d’origine, agora ou forum, église, voire parti. Je n’espérerai donc rien de ces règles hors de la bonne foi de l’Autre, et en désespoir de cause ne m’en servirai, si je le juge bon ou si on m’y oblige, que pour amuser la mauvaise foi.* » \[*Écrits* pp. 430-431\]
+<div class="text-quotation">
+
+« *Pour l’ordinaire chacun sait que les autres tout comme lui reste­ront inaccessibles aux contraintes de la raison, hors d’une accep­tation de principe d’une règle du débat qui ne va pas sans un accord explicite ou implicite sur ce qu’on appelle son fonds, ce qui équi­vaut presque toujours à un accord anticipé sur son enjeu. Ce qu’on appelle logique ou droit n’est jamais rien de plus qu’un corps de règles qui furent laborieusement ajustées à un moment de l’histoire dûment daté et situé par un cachet d’origine, agora ou forum, église, voire parti. Je n’espérerai donc rien de ces règles hors de la bonne foi de l’Autre, et en désespoir de cause ne m’en servirai, si je le juge bon ou si on m’y oblige, que pour amuser la mauvaise foi.* » \[*Écrits* pp. 430-431\]
+
+</div>
 
 <!-- id: s3-22-0021 -->
 
@@ -114,7 +118,11 @@ Tout ce qui est impliqué dans l’usage qu’on fait et dans les termes eux–m
 
 <!-- id: s3-22-0028 -->
 
-> « *Il n’y a pas d’analyse possible auprès de celui pour qui*… ».
+<div class="text-quotation">
+
+« *Il n’y a pas d’analyse possible auprès de celui pour qui*… ».
+
+</div>
 
 <!-- id: s3-22-0029 -->
 
@@ -170,7 +178,11 @@ Néanmoins, cet Autre garde une altérité telle qu’il est étranger aux chose
 
 <!-- id: s3-22-0042 -->
 
-> « *Je ne suis pas un paranoïaque. On nous le dit assez, le paranoïaque, c’est quelqu’un qui rapporte tout à lui, c’est quelqu’un dont l’égocentrisme est particulièrement envahissant* - car il a lu en particulier KRÆPELIN - *mais moi, c’est complètement différent, c’est l’Autre qui rapporte tout à moi : tout ce qui se passe, il le rapporte à moi.* »
+<div class="text-quotation">
+
+« *Je ne suis pas un paranoïaque. On nous le dit assez, le paranoïaque, c’est quelqu’un qui rapporte tout à lui, c’est quelqu’un dont l’égocentrisme est particulièrement envahissant* - car il a lu en particulier KRÆPELIN - *mais moi, c’est complètement différent, c’est l’Autre qui rapporte tout à moi : tout ce qui se passe, il le rapporte à moi.* »
+
+</div>
 
 <!-- id: s3-22-0043 -->
 
@@ -182,9 +194,9 @@ Alors, il s’agirait de savoir…
 
 <!-- id: s3-22-0045 -->
 
-> avant de parler de l’Autre comme de ce quelque chose qui se place ou ne se place pas à une certaine distance, que nous sommes capables ou non d’embrasser, d’éteindre, voire de consommer,
->
-> à doses plus ou moins rapides, comme il se fait de plus en plus couramment dans l’analyse
+avant de parler de l’Autre comme de ce quelque chose qui se place ou ne se place pas à une certaine distance, que nous sommes capables ou non d’embrasser, d’éteindre, voire de consommer,
+
+à doses plus ou moins rapides, comme il se fait de plus en plus couramment dans l’analyse
 
 <!-- id: s3-22-0046 -->
 
@@ -212,11 +224,11 @@ Loin que le « *tu* » soit toujours cette espèce de « *tu* » plein, dont on 
 
 <!-- id: s3-22-0052 -->
 
-> et dont vous savez qu’à l’occasion moi-même, dans des exemples majeurs… vous savez il s’agit de savoir
->
-> s’il y a tellement de « *tu* » dans le « *tu es mon maître* », « *tu es ma femme* », dont vous savez que je fais grand cas pour faire comprendre quelque chose de *la fonction de la parole. C*’est de remettre au point, de recentrer
->
-> la portée donnée à ce « *tu* » qu’il s’agit bien aujourd’hui
+et dont vous savez qu’à l’occasion moi-même, dans des exemples majeurs… vous savez il s’agit de savoir
+
+s’il y a tellement de « *tu* » dans le « *tu es mon maître* », « *tu es ma femme* », dont vous savez que je fais grand cas pour faire comprendre quelque chose de *la fonction de la parole. C*’est de remettre au point, de recentrer
+
+la portée donnée à ce « *tu* » qu’il s’agit bien aujourd’hui
 
 <!-- id: s3-22-0053 -->
 
@@ -224,7 +236,11 @@ Loin que le « *tu* » soit toujours cette espèce de « *tu* » plein, dont on 
 
 <!-- id: s3-22-0054 -->
 
-> « *On ne peut pas se promener dans cet endroit sans qu’on vous aborde.* »
+<div class="text-quotation">
+
+« *On ne peut pas se promener dans cet endroit sans qu’on vous aborde.* »
+
+</div>
 
 <!-- id: s3-22-0055 -->
 
@@ -232,7 +248,11 @@ Il ne s’agit d’aucun « *tu* », ni d’aucun « *vous* », ce n’est en r�
 
 <!-- id: s3-22-0056 -->
 
-> « *Quand on en vient à ce degré de sagesse, il ne vous reste plus qu’à mourir.* »
+<div class="text-quotation">
+
+« *Quand on en vient à ce degré de sagesse, il ne vous reste plus qu’à mourir.* »
+
+</div>
 
 <!-- id: s3-22-0057 -->
 
@@ -240,9 +260,9 @@ Là aussi, de quel « *vous* » ou de quel « *tu* », s’agit-il ? Ce n’est 
 
 <!-- id: s3-22-0058 -->
 
-> je vous prie de prendre la phrase, parce qu’il n’y a pas de phrase
->
-> qui puisse se détacher de la plénitude de sa signification
+je vous prie de prendre la phrase, parce qu’il n’y a pas de phrase
+
+qui puisse se détacher de la plénitude de sa signification
 
 <!-- id: s3-22-0059 -->
 
@@ -274,7 +294,7 @@ Car il suffit d’un tout petit peu de désagrégation, et SCHREBER en a eu larg
 
 <!-- id: s3-22-0066 -->
 
-> comme tout ce qui arrive de plus ou moins focalisé dans l’expérience intérieure de SCHREBER
+comme tout ce qui arrive de plus ou moins focalisé dans l’expérience intérieure de SCHREBER
 
 <!-- id: s3-22-0067 -->
 
@@ -350,7 +370,7 @@ Et je dirais même qu’on a regret…
 
 <!-- id: s3-22-0085 -->
 
-> dans un livre très remarquable comme celui de PICHON, dont je viens de parler
+dans un livre très remarquable comme celui de PICHON, dont je viens de parler
 
 <!-- id: s3-22-0086 -->
 
@@ -370,7 +390,7 @@ Il y aura toujours aussi le *moi* et le « *tu* », mais avec visée sur quelque
 
 <!-- id: s3-22-0090 -->
 
-> ça peut, peut-être, vous donner envie d’aller le regarder à propos de l’interrogation
+ça peut, peut-être, vous donner envie d’aller le regarder à propos de l’interrogation
 
 <!-- id: s3-22-0091 -->
 
@@ -406,7 +426,7 @@ En tout cas, au niveau des *narratifs*, je demande ce qu’a d’*élocutoire* l
 
 <!-- id: s3-22-0099 -->
 
-> au point où nous en sommes arrivés de nos énoncés ou de notre développement
+au point où nous en sommes arrivés de nos énoncés ou de notre développement
 
 <!-- id: s3-22-0100 -->
 
@@ -418,7 +438,7 @@ Peut–être à partir de cette position radicale, toujours masquée, bien enten
 
 <!-- id: s3-22-0102 -->
 
-> et si bien masquée qu’après tout nous, dans notre expérience nous ne la trouvons jamais qu’exprimée par le sujet hors de lui-même et à son insu
+et si bien masquée qu’après tout nous, dans notre expérience nous ne la trouvons jamais qu’exprimée par le sujet hors de lui-même et à son insu
 
 <!-- id: s3-22-0103 -->
 
@@ -434,7 +454,7 @@ Bref, je voudrais vous ramener à une autre répartition des fonctions du langag
 
 <!-- id: s3-22-0106 -->
 
-> et distinct de cet ânonnement autour de la locution, de la délocution, de l’allocution
+et distinct de cet ânonnement autour de la locution, de la délocution, de l’allocution
 
 <!-- id: s3-22-0107 -->
 
@@ -478,7 +498,11 @@ Je vous prie alors aujourd’hui de vous arrêter avec moi sur quelques exemples
 
 <!-- id: s3-22-0117 -->
 
-> « *Je suis celui qui toujours veux le bien et toujours fait le mal.* »
+<div class="text-quotation">
+
+« *Je suis celui qui toujours veux le bien et toujours fait le mal.* »
+
+</div>
 
 <!-- id: s3-22-0118 -->
 
@@ -486,7 +510,11 @@ J’ai été rechercher les choses au passage, hier soir, de façon à vous dire
 
 <!-- id: s3-22-0119 -->
 
-> « *Je suis une partie de cette force qui toujours veut le bien et toujours fait le mal.* »
+<div class="text-quotation">
+
+« *Je suis une partie de cette force qui toujours veut le bien et toujours fait le mal.* »
+
+</div>
 
 <!-- id: s3-22-0120 -->
 
@@ -506,7 +534,11 @@ Mais ceci peut évoquer chez vous des échos un peu trop *significatifs*. Je vou
 
 <!-- id: s3-22-0124 -->
 
-> « *Tu es celui qui me suivras partout.* »
+<div class="text-quotation">
+
+« *Tu es celui qui me suivras partout.* »
+
+</div>
 
 <!-- id: s3-22-0125 -->
 
@@ -514,7 +546,11 @@ Et :
 
 <!-- id: s3-22-0126 -->
 
-> « *Tu es celui qui me suivra partout.* » ?
+<div class="text-quotation">
+
+« *Tu es celui qui me suivra partout.* » ?
+
+</div>
 
 <!-- id: s3-22-0127 -->
 
@@ -546,11 +582,19 @@ Cette présence dans ce qui base « *tu* » dans le « *suivras* » est quelque 
 
 <!-- id: s3-22-0134 -->
 
-> « *Je suis la femme qui ne t’abandonnerais pas.* », ou quand elle dit :
+<div class="text-quotation">
+
+« *Je suis la femme qui ne t’abandonnerais pas.* », ou quand elle dit :
+
+</div>
 
 <!-- id: s3-22-0135 -->
 
-> « *Je suis la femme qui ne t’abandonnerait pas* ».
+<div class="text-quotation">
+
+« *Je suis la femme qui ne t’abandonnerait pas* ».
+
+</div>
 
 <!-- id: s3-22-0136 -->
 

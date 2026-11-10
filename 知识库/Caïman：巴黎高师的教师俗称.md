@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XVII
-  - 领域/教育史
+  - 领域/历史社会与教育/教育与制度
   - 语言/法语
   - 机构/巴黎高等师范学校
   - 概念/聚合考试

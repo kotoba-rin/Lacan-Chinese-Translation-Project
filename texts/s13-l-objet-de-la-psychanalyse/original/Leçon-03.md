@@ -70,7 +70,7 @@ J’aurais scrupule à avancer ce nom même ici, à savoir devant un auditoire, 
 
 <!-- id: s13-03-0017 -->
 
-> qui n’est certes pas un secret, qui traîne les rues et dont on entend parler partout : le ZEN …ne représente pas quelque chose qui peut aller jusqu’à l’abus de confiance. À vrai dire, je ne saurais trop vous conseiller de vous méfier de toutes les sottises qui s’empilent sous ce registre.
+qui n’est certes pas un secret, qui traîne les rues et dont on entend parler partout : le ZEN …ne représente pas quelque chose qui peut aller jusqu’à l’abus de confiance. À vrai dire, je ne saurais trop vous conseiller de vous méfier de toutes les sottises qui s’empilent sous ce registre.
 
 <!-- id: s13-03-0018 -->
 
@@ -106,13 +106,13 @@ Qu’il *représente le sujet, et pour un autre signifiant*, ceci étant assez a
 
 <!-- id: s13-03-0026 -->
 
-> 几 *jī* 三 *sān*
->
-> 人 *rén* 千 *qiān*
->
-> 知 *zhī*   年 *nián*
->
-> 代 *dài*
+几 *jī* 三 *sān*
+
+人 *rén* 千 *qiān*
+
+知 *zhī*   年 *nián*
+
+代 *dài*
 
 <!-- id: s13-03-0027 -->
 
@@ -120,7 +120,7 @@ Ceci est écrit en caractère chinois, je vous le prononcerai, non pas en Japona
 
 <!-- id: s13-03-0028 -->
 
-> 三千年代 几人知
+三千年代 几人知
 
 <!-- id: s13-03-0029 -->
 
@@ -200,9 +200,9 @@ Vous verrez tout de suite que vous aurez assez de peine pour ces choses *excessi
 
 <!-- id: s13-03-0048 -->
 
-> je les déjà toutes introduites et j’en ai déjà même assez usé et abusé,
->
-> mais non sans que j’ai aujourd’hui besoin de rassembler ce qui les regarde ...*ces figures appelées bouteille de Klein, plan projectif, tore,* se trouvent par rapport à ce qui est la structure des *coordonnées* habituelles de notre intuition, dans une position si déroutante, qu’il faut vraiment s’y *exercer*, s’y *appliquer*, pour s’y *retrouver* aisément .
+je les déjà toutes introduites et j’en ai déjà même assez usé et abusé,
+
+mais non sans que j’ai aujourd’hui besoin de rassembler ce qui les regarde ...*ces figures appelées bouteille de Klein, plan projectif, tore,* se trouvent par rapport à ce qui est la structure des *coordonnées* habituelles de notre intuition, dans une position si déroutante, qu’il faut vraiment s’y *exercer*, s’y *appliquer*, pour s’y *retrouver* aisément .
 
 <!-- id: s13-03-0049 -->
 
@@ -246,7 +246,7 @@ Vous savez qu’il est apparu à propos d’une racine en dehors du champ du con
 
 <!-- id: s13-03-0059 -->
 
-> extension des ensembles numériques auxquels on a fini par donner son statut …il n’en reste pas moins qu’il est assez aisé aux mathématiciens - et trop aisé ! - de ne pas remarquer que bien entendu, le terme d’« *imaginaire* » lui reste attaché, mais que c’est *un nombre aussi bon qu’un autre*, que cette notion que je viens de faire intervenir d’ensemble numérique suffit à la couvrir, et qu’il n’est pas plus *imaginaire* qu’un autre.
+extension des ensembles numériques auxquels on a fini par donner son statut …il n’en reste pas moins qu’il est assez aisé aux mathématiciens - et trop aisé ! - de ne pas remarquer que bien entendu, le terme d’« *imaginaire* » lui reste attaché, mais que c’est *un nombre aussi bon qu’un autre*, que cette notion que je viens de faire intervenir d’ensemble numérique suffit à la couvrir, et qu’il n’est pas plus *imaginaire* qu’un autre.
 
 <!-- id: s13-03-0060 -->
 
@@ -378,7 +378,7 @@ Est-ce donc là… Serait-ce donc là, un de ces rappels sommaires où se limite
 
 <!-- id: s13-03-0092 -->
 
-> encore que ce théorème soit à cette date, comme toujours, vérifié mais encore indémontré …ce n’est pas ce qui nous intéresse aujourd’hui.
+encore que ce théorème soit à cette date, comme toujours, vérifié mais encore indémontré …ce n’est pas ce qui nous intéresse aujourd’hui.
 
 <!-- id: s13-03-0093 -->
 
@@ -402,9 +402,9 @@ Je pense assurément que *les fondements de l’esthétique transcendantale* son
 
 <!-- id: s13-03-0098 -->
 
-> *si nous continuons à croire, dur comme fer, à nos trois dimensions dans lesquelles en effet nous avons bien des raisons de leur marquer*
->
-> *de l’attachement à ces trois dimensions, parce que c’est là que nous respirons* …ça aurait au moins l’avantage rassurant de nous expliquer en quoi, ce qui concerne *le sujet*, est de la catégorie de *l’impossible*. Et que tout ce qui nous parvient - *par lui* - du *réel*, s’inscrit d’abord au registre de *l’impossible*, de *l’impossible réalisé*.
+*si nous continuons à croire, dur comme fer, à nos trois dimensions dans lesquelles en effet nous avons bien des raisons de leur marquer*
+
+*de l’attachement à ces trois dimensions, parce que c’est là que nous respirons* …ça aurait au moins l’avantage rassurant de nous expliquer en quoi, ce qui concerne *le sujet*, est de la catégorie de *l’impossible*. Et que tout ce qui nous parvient - *par lui* - du *réel*, s’inscrit d’abord au registre de *l’impossible*, de *l’impossible réalisé*.
 
 <!-- id: s13-03-0099 -->
 
@@ -428,7 +428,7 @@ Eh bien, si nous nous fions au support intuitif le plus accessible, le plus fami
 
 <!-- id: s13-03-0104 -->
 
-> *je demande ici pardon aux mathématiciens : c’est à l’intuition qu’ici je fais appel, puisque nous n’avons qu’une surface dans laquelle on tranche et que je n’ai pas à faire appel à quelque chose qui est plongé, justement dans l’espace à trois dimensions* …à savoir que ce que je veux simplement dire en vous demandant d’évoquer une sphère, c’est de penser que ce qui reste autour du cercle n’a pas d’autre bord.
+*je demande ici pardon aux mathématiciens : c’est à l’intuition qu’ici je fais appel, puisque nous n’avons qu’une surface dans laquelle on tranche et que je n’ai pas à faire appel à quelque chose qui est plongé, justement dans l’espace à trois dimensions* …à savoir que ce que je veux simplement dire en vous demandant d’évoquer une sphère, c’est de penser que ce qui reste autour du cercle n’a pas d’autre bord.
 
 <!-- id: s13-03-0105 -->
 
@@ -456,7 +456,7 @@ Comme il faut bien que j’avance, je ne ferai qu’une allusion rapide au fait 
 
 <!-- id: s13-03-0111 -->
 
-> personnage considérable dans le développement moderne des mathématiques …a démontré ce *théorème* topologiquement, qui topologiquement est le seul à nous donner le vrai fondement de la notion de centre, *une homologie topologique* : deux figures, quelles qu’elles soient, en tant que pourvues d’un bord, peuvent être, par déformation de ce bord, démontrées *homéomorphiques*.
+personnage considérable dans le développement moderne des mathématiques …a démontré ce *théorème* topologiquement, qui topologiquement est le seul à nous donner le vrai fondement de la notion de centre, *une homologie topologique* : deux figures, quelles qu’elles soient, en tant que pourvues d’un bord, peuvent être, par déformation de ce bord, démontrées *homéomorphiques*.
 
 <!-- id: s13-03-0112 -->
 
@@ -492,7 +492,7 @@ Et maintenant, le problème se pose de savoir s’il ne peut pas y avoir…
 
 <!-- id: s13-03-0120 -->
 
-> pour nous expliquer en termes, non pas d’*images*, mais peut-être d’*idées*, et qui vous donnent l’*idée* d’où je vous guide …si à l’extérieur de ce que j’ai appelé « *le cercle* » très intentionnellement, et pas circonférence, le cercle veut dire ce que vous appelez ordinairement en géométrie circonférence, ce qu’on appelle d’habitude cercle, je l’appellerai *disque* ou *lambeau*, comme tout à l’heure.
+pour nous expliquer en termes, non pas d’*images*, mais peut-être d’*idées*, et qui vous donnent l’*idée* d’où je vous guide …si à l’extérieur de ce que j’ai appelé « *le cercle* » très intentionnellement, et pas circonférence, le cercle veut dire ce que vous appelez ordinairement en géométrie circonférence, ce qu’on appelle d’habitude cercle, je l’appellerai *disque* ou *lambeau*, comme tout à l’heure.
 
 <!-- id: s13-03-0121 -->
 
@@ -504,7 +504,7 @@ Autrement dit, pour que la coupure d’où résulte la chute de *l’objet(a)*, 
 
 <!-- id: s13-03-0123 -->
 
-> sur quelque chose qui était tout à fait fermé jusque là, et où donc rien ne pouvait apparaître …pour faire apparaître, en ce que nous exigeons de *la constitution du sujet*, le sujet comme fondamentalement *divisé* ?
+sur quelque chose qui était tout à fait fermé jusque là, et où donc rien ne pouvait apparaître …pour faire apparaître, en ce que nous exigeons de *la constitution du sujet*, le sujet comme fondamentalement *divisé* ?
 
 <!-- id: s13-03-0124 -->
 
@@ -520,9 +520,9 @@ pour vous apercevoir que si ce tracé vous le concevez vide, comme je vous ai ap
 
 <!-- id: s13-03-0127 -->
 
-> et cela saute aux yeux, je pense tout de même vous avoir assez parlé jusqu’ici de la *bande de Mœbius* pour que
->
-> vous la reconnaissiez …il est *la monture*, *l’armature*, ce qui vous permet de voir *soutenu* et immédiatement intuitionnable une *bande de Mœbius*.
+et cela saute aux yeux, je pense tout de même vous avoir assez parlé jusqu’ici de la *bande de Mœbius* pour que
+
+vous la reconnaissiez …il est *la monture*, *l’armature*, ce qui vous permet de voir *soutenu* et immédiatement intuitionnable une *bande de Mœbius*.
 
 <!-- id: s13-03-0128 -->
 
@@ -610,7 +610,7 @@ Cette *bande de Mœbius*, fomentez la par l’imagination, elle viendra en cette
 
 <!-- id: s13-03-0149 -->
 
-> toujours d’une façon bien sûr inexacte, et plongé dans la troisième dimension …comme ayant, *dans le bas et au niveau de cette base, de cette chiasmatique, de ce recroisement,* comme ayant cette coupe :
+toujours d’une façon bien sûr inexacte, et plongé dans la troisième dimension …comme ayant, *dans le bas et au niveau de cette base, de cette chiasmatique, de ce recroisement,* comme ayant cette coupe :
 
 <!-- id: s13-03-0150 -->
 
@@ -702,7 +702,7 @@ Cette *dimension d’ordre*, *autrement dit, représentant une certaine assise t
 
 <!-- id: s13-03-0172 -->
 
-> le trou second dont je suis en train de vous expliquer les propriétés topologiques …un ordre est nécessaire qui est un *ordre diamétral*. *Diamétral* c’est à dire apparemment spatial, fondé selon le trait médian qui vous donne le support figuré où proprement se lit que cette sorte de coupure est justement celle que nous attendions, c’est-à-dire qui ne se réalise qu’à devoir du même coup se diviser.
+le trou second dont je suis en train de vous expliquer les propriétés topologiques …un ordre est nécessaire qui est un *ordre diamétral*. *Diamétral* c’est à dire apparemment spatial, fondé selon le trait médian qui vous donne le support figuré où proprement se lit que cette sorte de coupure est justement celle que nous attendions, c’est-à-dire qui ne se réalise qu’à devoir du même coup se diviser.
 
 <!-- id: s13-03-0173 -->
 
@@ -710,13 +710,13 @@ Autrement dit, si c’est non pas d’une façon intuitive et visuelle mais d’
 
 <!-- id: s13-03-0174 -->
 
-> *ce qui est la définition même de ce qui fut introduit dans un tout autre contexte, dans la géométrie métrique, par DESARGUES, autrement dit, le plan projectif, et Dieu sait que DESARGUES en l’écrivant, lui–même a souligné ce qu’avait de paradoxal, d’ahurissant, d’affolant enfin, une telle conception, ce qui prouve bien que les mathématiciens sont fort capables de concevoir eux-mêmes les points de transgression, de franchissement qui sont les leurs à propos de l’instauration de telle ou telle catégorie structurale.*
->
-> *S’ils l’oubliaient d’ailleurs, il y aurait toujours leurs confrères pour le leur rappeler en leur disant qu’on ne comprend rien*
->
-> *à ce qu’ils disent, ce qui arrive à chaque coup, et spécialement ce qui est arrivé à [DESARGUES](http://fr.wikipedia.org/wiki/Girard_Desargues)* [^52] *où les murs de Lyon*
->
-> *se sont couverts de libellés où on s’insultait à propos de choses, vous le voyez, passionnantes. Beau temps : merveilleuse époque !* …le *a* et le *a* sont le même \[...\] qu’est-ce que ça veut dire si ce n’est que, même si nous considérons ceci comme le trou, la conjonction des bords ne saurait se faire qu’à diviser le trou, qu’à venir y passer dans le mouvement, si l’on peut dire, de sa conjonction.
+*ce qui est la définition même de ce qui fut introduit dans un tout autre contexte, dans la géométrie métrique, par DESARGUES, autrement dit, le plan projectif, et Dieu sait que DESARGUES en l’écrivant, lui–même a souligné ce qu’avait de paradoxal, d’ahurissant, d’affolant enfin, une telle conception, ce qui prouve bien que les mathématiciens sont fort capables de concevoir eux-mêmes les points de transgression, de franchissement qui sont les leurs à propos de l’instauration de telle ou telle catégorie structurale.*
+
+*S’ils l’oubliaient d’ailleurs, il y aurait toujours leurs confrères pour le leur rappeler en leur disant qu’on ne comprend rien*
+
+*à ce qu’ils disent, ce qui arrive à chaque coup, et spécialement ce qui est arrivé à [DESARGUES](http://fr.wikipedia.org/wiki/Girard_Desargues)* [^52] *où les murs de Lyon*
+
+*se sont couverts de libellés où on s’insultait à propos de choses, vous le voyez, passionnantes. Beau temps : merveilleuse époque !* …le *a* et le *a* sont le même \[...\] qu’est-ce que ça veut dire si ce n’est que, même si nous considérons ceci comme le trou, la conjonction des bords ne saurait se faire qu’à diviser le trou, qu’à venir y passer dans le mouvement, si l’on peut dire, de sa conjonction.
 
 <!-- id: s13-03-0175 -->
 
@@ -780,7 +780,7 @@ Le *tore* d’une part, figure si exemplaire que déjà dans l’année de mon s
 
 <!-- id: s13-03-0190 -->
 
-> *où, sauf les oreilles fraîches que j’avais cette année-là, personne n’écoutait ce que j’étais en train de dire : on avait d’autres soucis* …dans mon séminaire sur *L’Identification*, j’ai montré la valeur exemplaire que pouvait avoir le *tore* pour lier d’une façon structuralement dogmatisable, la fonction de *la demande* et celle du *désir* à proprement parler *au niveau de la découverte freu­dienne*, à savoir du névrosé et de l’inconscient. Vous en verrez le fonctionne­ment exemplaire.
+*où, sauf les oreilles fraîches que j’avais cette année-là, personne n’écoutait ce que j’étais en train de dire : on avait d’autres soucis* …dans mon séminaire sur *L’Identification*, j’ai montré la valeur exemplaire que pouvait avoir le *tore* pour lier d’une façon structuralement dogmatisable, la fonction de *la demande* et celle du *désir* à proprement parler *au niveau de la découverte freu­dienne*, à savoir du névrosé et de l’inconscient. Vous en verrez le fonctionne­ment exemplaire.
 
 <!-- id: s13-03-0191 -->
 
@@ -796,7 +796,7 @@ en tant *qu’une fois coupée par le milieu elle n’est plus une bande de Mœb
 
 <!-- id: s13-03-0194 -->
 
-> *comme je vous ai apporté aujourd’hui le modèle pour que vous le voyiez d’une façon sensible*
+*comme je vous ai apporté aujourd’hui le modèle pour que vous le voyiez d’une façon sensible*
 
 <!-- id: s13-03-0195 -->
 
@@ -828,9 +828,9 @@ Pour le quatrième mercredi de ce mois, je prie instamment quiconque dans cette 
 
 <!-- id: s13-03-0202 -->
 
-> quel que soit le sort que je réserverai à la feuille d’information qu’il aura remplie,
->
-> c’est-à-dire que je l’in­vite ou non au quatrième mercredi …considérer que ce n’est pas en raison de ses mérites ou de ses démérites qu’il est ou non invité.
+quel que soit le sort que je réserverai à la feuille d’information qu’il aura remplie,
+
+c’est-à-dire que je l’in­vite ou non au quatrième mercredi …considérer que ce n’est pas en raison de ses mérites ou de ses démérites qu’il est ou non invité.
 
 <!-- id: s13-03-0203 -->
 

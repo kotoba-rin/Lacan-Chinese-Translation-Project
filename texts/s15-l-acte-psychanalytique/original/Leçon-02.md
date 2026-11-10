@@ -18,7 +18,7 @@ Il est clair que ce que j’ai dit la dernière fois, ne pou­vait rencontrer qu
 
 <!-- id: s15-02-0004 -->
 
-> ceux - il faut bien qu’il y en ait, vu ce nombre - qui viennent ici pour la première fois …venaient *malgré*, voire *parce que,* on leur avait dit qu’ils n’allaient rien comprendre. Eh bien, ils ont eu une bonne surprise !
+ceux - il faut bien qu’il y en ait, vu ce nombre - qui viennent ici pour la première fois …venaient *malgré*, voire *parce que,* on leur avait dit qu’ils n’allaient rien comprendre. Eh bien, ils ont eu une bonne surprise !
 
 <!-- id: s15-02-0005 -->
 
@@ -58,7 +58,7 @@ Assurément, de cet acte en tant qu’on en fait profession, il résulte *une po
 
 <!-- id: s15-02-0014 -->
 
-> champ dont - il est inutile de le dire - je n’ai même pas la dernière fois effleuré les bords …des conséquences sérieuses quant à la position qui est à tenir : d’être habi­le à l’exercer.
+champ dont - il est inutile de le dire - je n’ai même pas la dernière fois effleuré les bords …des conséquences sérieuses quant à la position qui est à tenir : d’être habi­le à l’exercer.
 
 <!-- id: s15-02-0015 -->
 
@@ -82,7 +82,7 @@ Dès lors, il apparaît déjà que faire entendre…
 
 <!-- id: s15-02-0020 -->
 
-> non pas *hors*, mais *dans* un certain rapport à la communauté analytique …ce qu’il en est *de cet acte qui intéresse tout le monde*, ne peut, à l’intérieur de cette commu­nauté, que permettre de voir plus clairement ce qui est désiré quant au sta­tut que peuvent se donner ceux qui, de cet acte, font profession agissante.
+non pas *hors*, mais *dans* un certain rapport à la communauté analytique …ce qu’il en est *de cet acte qui intéresse tout le monde*, ne peut, à l’intérieur de cette commu­nauté, que permettre de voir plus clairement ce qui est désiré quant au sta­tut que peuvent se donner ceux qui, de cet acte, font profession agissante.
 
 <!-- id: s15-02-0021 -->
 
@@ -94,9 +94,9 @@ Et aussitôt tentant de franchir quelques échelons qui ne se présentent en auc
 
 <!-- id: s15-02-0023 -->
 
-> qui ne peut pas, qui ne *veut* pas surtout, prétendre procéder par une sorte d’introduction
->
-> qui serait d’échelle psychologique de plus ou moins grande profondeur …nous allons au contraire chercher dans la présenta­tion des accidents concernant ce qui s’énonce de cet acte, éclairs de lumière diversement situés qui nous permettent d’aperce­voir où en est véritablement le problème.
+qui ne peut pas, qui ne *veut* pas surtout, prétendre procéder par une sorte d’introduction
+
+qui serait d’échelle psychologique de plus ou moins grande profondeur …nous allons au contraire chercher dans la présenta­tion des accidents concernant ce qui s’énonce de cet acte, éclairs de lumière diversement situés qui nous permettent d’aperce­voir où en est véritablement le problème.
 
 <!-- id: s15-02-0024 -->
 
@@ -108,7 +108,7 @@ Bien sûr ça fait toujours son petit effet, surtout étant donné l’époque. 
 
 <!-- id: s15-02-0026 -->
 
-> étant donné l’arrière fond de la position psychanalytique : com­bien elle est sentie précaire …*quelle joie ont éprouvée certains*, à l’époque comme on dit, c’est-à-dire vers 1928 ou 30, *qu’on parlât de la psychanalyse en Sorbonne*.
+étant donné l’arrière fond de la position psychanalytique : com­bien elle est sentie précaire …*quelle joie ont éprouvée certains*, à l’époque comme on dit, c’est-à-dire vers 1928 ou 30, *qu’on parlât de la psychanalyse en Sorbonne*.
 
 <!-- id: s15-02-0027 -->
 
@@ -144,9 +144,9 @@ Nous n’allons tout de même pas…
 
 <!-- id: s15-02-0035 -->
 
-> du fait qu’un expérimenta­teur *ne s’interroge pas sur la nature de ce qu’il introduit dans le champ de l’expérimentation*
->
-> \- il est légitime qu’il le fasse, mais qu’il n’aille pas plus loin dans *cette question* en quelque sorte *préalable* …nous n’allons tout de même pas ici introduire ces fonctions de l’inconscient : quelque chose d’autre est nécessaire qui, à la vérité, nous manque.
+du fait qu’un expérimenta­teur *ne s’interroge pas sur la nature de ce qu’il introduit dans le champ de l’expérimentation*
+
+\- il est légitime qu’il le fasse, mais qu’il n’aille pas plus loin dans *cette question* en quelque sorte *préalable* …nous n’allons tout de même pas ici introduire ces fonctions de l’inconscient : quelque chose d’autre est nécessaire qui, à la vérité, nous manque.
 
 <!-- id: s15-02-0036 -->
 
@@ -154,7 +154,7 @@ Peut-être cette autre chose nous sera-t-elle livrée de façon plus maniable à
 
 <!-- id: s15-02-0037 -->
 
-> il faut toujours tenir compte à quel­le oreille s’adresse une formule quelconque …*un psychanalyste* qui avance ce propos qui me fut récemment rapporté :
+il faut toujours tenir compte à quel­le oreille s’adresse une formule quelconque …*un psychanalyste* qui avance ce propos qui me fut récemment rapporté :
 
 <!-- id: s15-02-0038 -->
 
@@ -166,7 +166,7 @@ Même à une oreille prévenue…
 
 <!-- id: s15-02-0040 -->
 
-> et c’était le cas au moment de cet énon­cé, c’était une oreille si l’on peut dire, et à l’époque, car ce propos s’est tenu à une époque déjà lointaine, d’une quinzaine d’années, c’était à un ami communiste - celui qui quinze après ans me le rappor­tait - c’est à lui que s’adressait le psychanalyste en cause …même à une oreille qui aurait pu y voir je ne sais quoi, comme *une résipiscence* \[*repentir*\], le propos paraissait un peu gros.
+et c’était le cas au moment de cet énon­cé, c’était une oreille si l’on peut dire, et à l’époque, car ce propos s’est tenu à une époque déjà lointaine, d’une quinzaine d’années, c’était à un ami communiste - celui qui quinze après ans me le rappor­tait - c’est à lui que s’adressait le psychanalyste en cause …même à une oreille qui aurait pu y voir je ne sais quoi, comme *une résipiscence* \[*repentir*\], le propos paraissait un peu gros.
 
 <!-- id: s15-02-0041 -->
 
@@ -198,7 +198,7 @@ Et aussi bien d’ailleurs peut-on voir que son cas est loin d’être unique, s
 
 <!-- id: s15-02-0048 -->
 
-> c’est déjà bien loin, c’est l’époque même du propos que je vous ai rapporté tout à l’heu­re …il fait état avec gloire de ce qui a pu être obtenu d’un réflexe, lui aussi conditionnel, construit chez un sujet, lui humain, de façon telle qu’une contraction pupillaire venait à se produire régulièrement *à l’énoncé du mot « contract ».*
+c’est déjà bien loin, c’est l’époque même du propos que je vous ai rapporté tout à l’heu­re …il fait état avec gloire de ce qui a pu être obtenu d’un réflexe, lui aussi conditionnel, construit chez un sujet, lui humain, de façon telle qu’une contraction pupillaire venait à se produire régulièrement *à l’énoncé du mot « contract ».*
 
 <!-- id: s15-02-0049 -->
 
@@ -206,11 +206,11 @@ Les deux pages d’ironie sur lesquelles je m’étends, parce qu’il fallait l
 
 <!-- id: s15-02-0050 -->
 
-> *à savoir si la liai­son prétendument ainsi déterminée entre le soma et ce qu’il croit être le lan­gage, lui paraissait aussi bien soutenu*
->
-> *si l’on substituait au « contract » : « mar­riage-contract » ou « bridge-contract » ou « breach of contract »,*
->
-> *ou même si on concentrait le mot jusqu’à ce qu’il se réduise à sa première syllabe* …c’est évi­demment signe qu’il y a là quelque chose sur la brèche de quoi il n’est pas vain de se tenir, puisque d’autres la choisissent comme un point clé de la compréhension de ce dont il s’agit. Peut-être après tout, le personnage me dirait-il que je ne peux qu’y voir un appoint pour cette dominance que j’accorde au langage dans le déter­minisme analytique, car tel est bien en effet, à quel degré de confusion on peut en arriver dans certaines perspectives.
+*à savoir si la liai­son prétendument ainsi déterminée entre le soma et ce qu’il croit être le lan­gage, lui paraissait aussi bien soutenu*
+
+*si l’on substituait au « contract » : « mar­riage-contract » ou « bridge-contract » ou « breach of contract »,*
+
+*ou même si on concentrait le mot jusqu’à ce qu’il se réduise à sa première syllabe* …c’est évi­demment signe qu’il y a là quelque chose sur la brèche de quoi il n’est pas vain de se tenir, puisque d’autres la choisissent comme un point clé de la compréhension de ce dont il s’agit. Peut-être après tout, le personnage me dirait-il que je ne peux qu’y voir un appoint pour cette dominance que j’accorde au langage dans le déter­minisme analytique, car tel est bien en effet, à quel degré de confusion on peut en arriver dans certaines perspectives.
 
 <!-- id: s15-02-0051 -->
 
@@ -218,7 +218,7 @@ Les deux pages d’ironie sur lesquelles je m’étends, parce qu’il fallait l
 
 <!-- id: s15-02-0052 -->
 
-> d’abord et à partir - bien sûr, il le faut bien... - de ce que l’on consi­dère comme à écarter …*l’acte* tel qu’il est conçu effectivement dans le cercle psychanalytique, avec la critique de ce que cela peut comporter.
+d’abord et à partir - bien sûr, il le faut bien... - de ce que l’on consi­dère comme à écarter …*l’acte* tel qu’il est conçu effectivement dans le cercle psychanalytique, avec la critique de ce que cela peut comporter.
 
 <!-- id: s15-02-0053 -->
 
@@ -258,7 +258,7 @@ C’est bien ici que prend son prix le rappel que j’ai fait de l’ambiguïté
 
 <!-- id: s15-02-0062 -->
 
-> dans le chapitre auquel j’au­rai peut-être le temps de venir tout à l’heure …concernant ce qu’il en est de la méprise, *Versehen* comme il la désigne, il rappelle qu’il est bien natu­rel qu’on en vienne là après sept ou huit chapitres passés, à savoir sur le champ de *l’acte*, puisque - comme le langage dit-il - nous restons là sur le plan du moteur.
+dans le chapitre auquel j’au­rai peut-être le temps de venir tout à l’heure …concernant ce qu’il en est de la méprise, *Versehen* comme il la désigne, il rappelle qu’il est bien natu­rel qu’on en vienne là après sept ou huit chapitres passés, à savoir sur le champ de *l’acte*, puisque - comme le langage dit-il - nous restons là sur le plan du moteur.
 
 <!-- id: s15-02-0063 -->
 
@@ -270,7 +270,7 @@ Ou bien encore cet acte va mettre son sens…
 
 <!-- id: s15-02-0065 -->
 
-> précisément sur dont il s’agit, ce qu’il s’agit d’attaquer, d’ébranler …*son sens à l’abri de la maladresse, du ratage*. Voilà ce qu’est l’intervention ana­lytique : l’acte, donc.
+précisément sur dont il s’agit, ce qu’il s’agit d’attaquer, d’ébranler …*son sens à l’abri de la maladresse, du ratage*. Voilà ce qu’est l’intervention ana­lytique : l’acte, donc.
 
 <!-- id: s15-02-0066 -->
 
@@ -294,7 +294,7 @@ Et là, la faveur des choses fait que tout récemment justement on a eu…
 
 <!-- id: s15-02-0071 -->
 
-> dans un certain cadre, qui s’appelle celui des « *Psychanalystes de Langue Romane* » …à faire rap­port, compte-rendu de ce qu’on envisage du point de vue du psychana­lyste autorisé, concernant *le passage à l’acte* et encore *l’acting out.*
+dans un certain cadre, qui s’appelle celui des « *Psychanalystes de Langue Romane* » …à faire rap­port, compte-rendu de ce qu’on envisage du point de vue du psychana­lyste autorisé, concernant *le passage à l’acte* et encore *l’acting out.*
 
 <!-- id: s15-02-0072 -->
 
@@ -306,9 +306,9 @@ J’ai ouvert le rapport de l’un d’eux qui s’appelle Olivier FLOURNOY[^6],
 
 <!-- id: s15-02-0074 -->
 
-> et vous savez le cas célèbre par quoi Théodore[^7] reste immortel dans la tradition analytique, cette *clairvoyante* délirante au nom merveilleux dont il a fait tout un ouvrage et dont vous ne sauriez trop profiter si l’ouvrage
->
-> vous tombe sous la main, je crois qu’il n’est pas courant pour l’instant …donc à la 3<sup>ème</sup> génération, ce garçon nous avance quelque chose qui consis­te à prendre au moins une partie du champ, celle que n’a pas pris l’autre rapporteur, l’autre rapporteur parlait de l’*acting-out* [^8], lui il va se porter sur *l’agir*, et comme *agir* il y a, croit-on - non sans fondement - concernant le transfert, il avance sur ce transfert quelques questions qui, aussi bien, valent propositions. Je ne vous en donnerai pas, bien sûr, lecture, car rien n’est plus diffici­le à tenir qu’une lecture devant un *aussi large public*, néanmoins pour en donner le ton, je vous prendrai le premier paragraphe qui s’énonce à peu près ainsi :
+et vous savez le cas célèbre par quoi Théodore[^7] reste immortel dans la tradition analytique, cette *clairvoyante* délirante au nom merveilleux dont il a fait tout un ouvrage et dont vous ne sauriez trop profiter si l’ouvrage
+
+vous tombe sous la main, je crois qu’il n’est pas courant pour l’instant …donc à la 3<sup>ème</sup> génération, ce garçon nous avance quelque chose qui consis­te à prendre au moins une partie du champ, celle que n’a pas pris l’autre rapporteur, l’autre rapporteur parlait de l’*acting-out* [^8], lui il va se porter sur *l’agir*, et comme *agir* il y a, croit-on - non sans fondement - concernant le transfert, il avance sur ce transfert quelques questions qui, aussi bien, valent propositions. Je ne vous en donnerai pas, bien sûr, lecture, car rien n’est plus diffici­le à tenir qu’une lecture devant un *aussi large public*, néanmoins pour en donner le ton, je vous prendrai le premier paragraphe qui s’énonce à peu près ainsi :
 
 <!-- id: s15-02-0075 -->
 
@@ -316,7 +316,7 @@ J’ai ouvert le rapport de l’un d’eux qui s’appelle Olivier FLOURNOY[^6],
 
 <!-- id: s15-02-0076 -->
 
-> \[R.F.P. p. 856\]
+\[R.F.P. p. 856\]
 
 <!-- id: s15-02-0077 -->
 
@@ -336,7 +336,7 @@ Il fait là allusion à un autre registre qui met l’accent sur le développeme
 
 <!-- id: s15-02-0081 -->
 
-> *Est-ce là assez pour conférer à cette conduite l’épithète de transfert ?* ». \[R.F.P. p. 856\]
+*Est-ce là assez pour conférer à cette conduite l’épithète de transfert ?* ». \[R.F.P. p. 856\]
 
 <!-- id: s15-02-0082 -->
 
@@ -356,7 +356,7 @@ Je veux dire que ce qui depuis a fait son chemin…
 
 <!-- id: s15-02-0086 -->
 
-> je ne dis certes pas grâce à mon frayage mais par une espèce de convergence des temps …ce qui a fait par exemple qu’un nommé SZASZ a posé les questions les plus *radicales* concernant le statut du transfert, et même je dirais si *radicales* qu’à la vérité, le transfert est considéré comme tellement à la merci, puis-je dire, du statut même de la situation analytique qu’il est proprement posé comme le concept même qui rendrait la psychanalyse digne d’objection.
+je ne dis certes pas grâce à mon frayage mais par une espèce de convergence des temps …ce qui a fait par exemple qu’un nommé SZASZ a posé les questions les plus *radicales* concernant le statut du transfert, et même je dirais si *radicales* qu’à la vérité, le transfert est considéré comme tellement à la merci, puis-je dire, du statut même de la situation analytique qu’il est proprement posé comme le concept même qui rendrait la psychanalyse digne d’objection.
 
 <!-- id: s15-02-0087 -->
 
@@ -388,9 +388,9 @@ Et ce qu’on en fait à cette occasion va fort loin. Je veux dire qu’on nous 
 
 <!-- id: s15-02-0094 -->
 
-> car elle vient aussi, la fiancée, naturellement dans l’explication dont il s’agit,
->
-> car il va s’agir de rien de moins que ce que j’appelais l’autre jour « *l’acte de naissan­ce de la psychanalyse* » …il va dire à sa fiancée que c’est des choses bien sûr qui ne peuvent arriver qu’à un type comme BREUER.
+car elle vient aussi, la fiancée, naturellement dans l’explication dont il s’agit,
+
+car il va s’agir de rien de moins que ce que j’appelais l’autre jour « *l’acte de naissan­ce de la psychanalyse* » …il va dire à sa fiancée que c’est des choses bien sûr qui ne peuvent arriver qu’à un type comme BREUER.
 
 <!-- id: s15-02-0095 -->
 
@@ -410,7 +410,7 @@ Cette sorte de *Muße*, de *bagatelles*, c’est évidemment ce qui fait de plus
 
 <!-- id: s15-02-0099 -->
 
-> *sans doute ceci se voit à bien des signes, et c’est en ce sens que je vous prie à l’occasion d’en prendre connaissance, cela fera monter l’achat de la prochaine Revue française de psychanalyse, organe de la Société Psychanalytique de Paris* …de voir s’il n’y a pas quelque rapport entre cette méditation hardie et ce que j’énon­çais *neuf ans* auparavant.
+*sans doute ceci se voit à bien des signes, et c’est en ce sens que je vous prie à l’occasion d’en prendre connaissance, cela fera monter l’achat de la prochaine Revue française de psychanalyse, organe de la Société Psychanalytique de Paris* …de voir s’il n’y a pas quelque rapport entre cette méditation hardie et ce que j’énon­çais *neuf ans* auparavant.
 
 <!-- id: s15-02-0100 -->
 
@@ -426,9 +426,9 @@ Mais enfin on peut découvrir la dimension de la rela­tion intersubjective par 
 
 <!-- id: s15-02-0103 -->
 
-> *dits « d’affection mentale ». Non pas que la psychopathologie soit un vain mot.* \[...\] *Elle est à coup sûr indispensable pour l’échange*
->
-> *entre individus hors de l’expérience. Mais son sens s’évanouit pendant la cure ;* » \[R.F.P. p. 883\]
+*dits « d’affection mentale ». Non pas que la psychopathologie soit un vain mot.* \[...\] *Elle est à coup sûr indispensable pour l’échange*
+
+*entre individus hors de l’expérience. Mais son sens s’évanouit pendant la cure ;* » \[R.F.P. p. 883\]
 
 <!-- id: s15-02-0104 -->
 
@@ -456,7 +456,7 @@ Bon, mais à moi ça me sert parce que je peux aller chercher, *non pas le pas­
 
 <!-- id: s15-02-0110 -->
 
-> il s’agit de « *la relation d’objet »*, et comme je m’explique, il s’agit de Maurice BOUVET …*a, comme le génétisme, son origine noble. C’est Abraham qui en a ouvert le registre, et la notion d’objet partiel est sa contribution origina­le.*
+il s’agit de « *la relation d’objet »*, et comme je m’explique, il s’agit de Maurice BOUVET …*a, comme le génétisme, son origine noble. C’est Abraham qui en a ouvert le registre, et la notion d’objet partiel est sa contribution origina­le.*
 
 <!-- id: s15-02-0111 -->
 
@@ -502,7 +502,7 @@ Ce qui est en effet singulier, c’est que c’est toujours à propos de quelque
 
 <!-- id: s15-02-0121 -->
 
-> *voire désir de ne pas avoir ce que l’on a*... » etc.
+*voire désir de ne pas avoir ce que l’on a*... » etc.
 
 <!-- id: s15-02-0122 -->
 
@@ -514,9 +514,9 @@ Voilà-t-il pas touché le fait qu’il est singulier qu’on soit reconnaissant
 
 <!-- id: s15-02-0124 -->
 
-> même si on le met sous la rubrique de je ne sais quel achoppement incompréhensible
->
-> de la part de quelqu’un qui parle du langage avant tout, comme on s’exprime …est-ce qu’il n’y a pas là quelque chose qui nous fait nous interroger ?
+même si on le met sous la rubrique de je ne sais quel achoppement incompréhensible
+
+de la part de quelqu’un qui parle du langage avant tout, comme on s’exprime …est-ce qu’il n’y a pas là quelque chose qui nous fait nous interroger ?
 
 <!-- id: s15-02-0125 -->
 
@@ -580,9 +580,9 @@ De la pertinence de la notation de cette fonction du *lapsus*, du *ratage*, dans
 
 <!-- id: s15-02-0140 -->
 
-> que vous retrouverez facilement à considérer mille autres des faits rassemblés dans ce registre
->
-> et nommément les quelque vingt-cinq ou trente premiers que FREUD nous collationne …qu’en quelque sorte, ce que l’acte nous transmet, c’est quelque chose qu’il nous figure assurément de façon signifiante et pour laquelle l’adjectif qui conviendrait serait de dire qu’elle n’est pas si conne, c’est bien là l’intérêt fascinant de ces deux chapitres, mais que tout ce qui essaie de s’y adapter comme qualification interprétative représente déjà cette certaine forme de « *déconnaissance* », de chute et d’évocation - il faut bien le dire, dans plus d’un cas ici, tout à fait radicale - de ce qui ne peut se sentir que comme *connerie*.
+que vous retrouverez facilement à considérer mille autres des faits rassemblés dans ce registre
+
+et nommément les quelque vingt-cinq ou trente premiers que FREUD nous collationne …qu’en quelque sorte, ce que l’acte nous transmet, c’est quelque chose qu’il nous figure assurément de façon signifiante et pour laquelle l’adjectif qui conviendrait serait de dire qu’elle n’est pas si conne, c’est bien là l’intérêt fascinant de ces deux chapitres, mais que tout ce qui essaie de s’y adapter comme qualification interprétative représente déjà cette certaine forme de « *déconnaissance* », de chute et d’évocation - il faut bien le dire, dans plus d’un cas ici, tout à fait radicale - de ce qui ne peut se sentir que comme *connerie*.
 
 <!-- id: s15-02-0141 -->
 
@@ -626,11 +626,11 @@ Eh bien, ce n’est pas si simple, parce qu’elles se recouvrent et que, s’il
 
 <!-- id: s15-02-0151 -->
 
-> c’est-à-dire à n’en plus faire, comme en logique, qu’une valeur V qui fonctionne en opposition à un F …partout où la vérité est en prise sur autre chose, et nommément sur notre fonction d’être parlant, la vérité se trouve mise en difficulté, de l’in­cidence où quelque chose, qui est le centre dans ce que je désigne dans l’occasion sous le terme de « *la connerie »*, et qui veut dire ceci…
+c’est-à-dire à n’en plus faire, comme en logique, qu’une valeur V qui fonctionne en opposition à un F …partout où la vérité est en prise sur autre chose, et nommément sur notre fonction d’être parlant, la vérité se trouve mise en difficulté, de l’in­cidence où quelque chose, qui est le centre dans ce que je désigne dans l’occasion sous le terme de « *la connerie »*, et qui veut dire ceci…
 
 <!-- id: s15-02-0152 -->
 
-> je vous montrerai la prochaine fois que FREUD le dit aussi dans ce même chapitre, *encore que quiconque le laisse passer*
+je vous montrerai la prochaine fois que FREUD le dit aussi dans ce même chapitre, *encore que quiconque le laisse passer*
 
 <!-- id: s15-02-0153 -->
 

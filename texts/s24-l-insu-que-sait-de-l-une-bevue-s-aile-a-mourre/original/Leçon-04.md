@@ -46,7 +46,7 @@ Il en reste donc ceci : que le *Savoir* et la *Vérité* n’ont entre eux...
 
 <!-- id: s24-04-0011 -->
 
-> comme je le dis dans cette *Radiophonie* là, du n°2-3 de *Scilicet* ...que le *Savoir* et la *Vérité* n’ont aucune relation entre eux.
+comme je le dis dans cette *Radiophonie* là, du n°2-3 de *Scilicet* ...que le *Savoir* et la *Vérité* n’ont aucune relation entre eux.
 
 <!-- id: s24-04-0012 -->
 
@@ -98,7 +98,7 @@ La Philosophie en effet - en effets de signifiants - c’est justement ce à pro
 
 <!-- id: s24-04-0024 -->
 
-> on en fait toujours plus qu’on ne croie ...il n’y a rien de plus glis­sant que ce domaine.
+on en fait toujours plus qu’on ne croie ...il n’y a rien de plus glis­sant que ce domaine.
 
 <!-- id: s24-04-0025 -->
 
@@ -178,7 +178,7 @@ Et dans ces *« dire secours »* j’en ai...
 
 <!-- id: s24-04-0044 -->
 
-> l’an­née où je parlais de « *L’envers de la psychanalyse »* [^2] vous ne vous en sou­venez sûrement pas ...j’en avais comme ça distingué en gros 4, parce que je m’étais amusé à faire tourner une suite de 4 justement, et que, dans cette suite de 4, la *Vérité* - la vérité du *dire -* la *Vérité* n’était en somme qu’impli­quée, puisque comme vous vous en souvenez peut-être ça se présentait comme ça :
+l’an­née où je parlais de « *L’envers de la psychanalyse »* [^2] vous ne vous en sou­venez sûrement pas ...j’en avais comme ça distingué en gros 4, parce que je m’étais amusé à faire tourner une suite de 4 justement, et que, dans cette suite de 4, la *Vérité* - la vérité du *dire -* la *Vérité* n’était en somme qu’impli­quée, puisque comme vous vous en souvenez peut-être ça se présentait comme ça :
 
 <!-- id: s24-04-0045 -->
 
@@ -238,7 +238,11 @@ Il s’aperçoit que la grammaire, ça joue un certain rôle et que nommément l
 
 <!-- id: s24-04-0059 -->
 
-> « *J’ai vu 10 lions et toi - dit-il - tu en as vu 15.* »
+<div class="text-quotation">
+
+« *J’ai vu 10 lions et toi - dit-il - tu en as vu 15.* »
+
+</div>
 
 <!-- id: s24-04-0060 -->
 
@@ -326,7 +330,7 @@ C’est *mis à plat*, et d’une façon dont vous savez...
 
 <!-- id: s24-04-0081 -->
 
-> parce que je vous l’ai répété, ressassé ...dont vous savez la fonction, la valeur, à savoir que ça a pour effet que l’un quelconque des trois étant dissout, les 2 autres se libèrent.
+parce que je vous l’ai répété, ressassé ...dont vous savez la fonction, la valeur, à savoir que ça a pour effet que l’un quelconque des trois étant dissout, les 2 autres se libèrent.
 
 <!-- id: s24-04-0082 -->
 
@@ -354,7 +358,7 @@ Qu’un nommé Charles-Sanders Peirce, comme il s’appelait...
 
 <!-- id: s24-04-0088 -->
 
-> vous le savez, j’ai déjà écrit ce nom, maintes et maintes fois ...que ce Peirce était tout à fait frappé par le fait que le langage n’exprime pas à proprement parler *la relation*, c’est bien là quelque chose qui est frap­pant. Que le langage ne permette pas une notation comme
+vous le savez, j’ai déjà écrit ce nom, maintes et maintes fois ...que ce Peirce était tout à fait frappé par le fait que le langage n’exprime pas à proprement parler *la relation*, c’est bien là quelque chose qui est frap­pant. Que le langage ne permette pas une notation comme
 
 <!-- id: s24-04-0089 -->
 
@@ -362,9 +366,9 @@ X ayant un cer­tain type - et pas un autre - de relation avec Y, c<sup>’</sup
 
 <!-- id: s24-04-0090 -->
 
-> puisque Peirce lui-même articule qu<sup>’</sup>il faudrait pour ça une logique ternaire,
->
-> et non pas, comme on en use, une logique binaire ...c<sup>’</sup>est bien ce qui m’autorise à parler de « *l’âme à tiers* », comme de quelque chose qui nécessite un certain type de rapports logiques.
+puisque Peirce lui-même articule qu<sup>’</sup>il faudrait pour ça une logique ternaire,
+
+et non pas, comme on en use, une logique binaire ...c<sup>’</sup>est bien ce qui m’autorise à parler de « *l’âme à tiers* », comme de quelque chose qui nécessite un certain type de rapports logiques.
 
 <!-- id: s24-04-0091 -->
 
@@ -396,7 +400,7 @@ C’est à ce propos que j’ai parlé de *forclusion du Nom du Père*.
 
 <!-- id: s24-04-0098 -->
 
-> si tant est qu’il y ait du *parlêtre* ...*qu’on parle tout seul, parce qu’on ne dit jamais qu’une seule et même chose*, sauf si on s’ouvre à « *dialoguer* » avec un psychanalyste.
+si tant est qu’il y ait du *parlêtre* ...*qu’on parle tout seul, parce qu’on ne dit jamais qu’une seule et même chose*, sauf si on s’ouvre à « *dialoguer* » avec un psychanalyste.
 
 <!-- id: s24-04-0099 -->
 
@@ -444,17 +448,17 @@ Il y a une chose qui - je dois dire - m’étonne encore plus que la diffusion..
 
 <!-- id: s24-04-0110 -->
 
-> la diffu­sion dont on sait bien qu’elle se fait, la diffusion de ce qu’on appelle mon enseignement,
->
-> mes idées, puisque ça voudrait dire que j’ai des idées... ...la diffusion de mon enseignement à ce quelque chose qui est l’autre extrême des groupements analytiques...
+la diffu­sion dont on sait bien qu’elle se fait, la diffusion de ce qu’on appelle mon enseignement,
+
+mes idées, puisque ça voudrait dire que j’ai des idées... ...la diffusion de mon enseignement à ce quelque chose qui est l’autre extrême des groupements analytiques...
 
 <!-- id: s24-04-0111 -->
 
-> qui est cette chose qui chemine sous le nom d’« *Institut de Psychanalyse* » ...une chose qui m’étonne encore plus, ce n’est pas que « *Le Verbier de l’Homme aux loups »,* non seulement il vogue mais il fasse des petits, c’est que quelqu’un dont je ne savais pas que...
+qui est cette chose qui chemine sous le nom d’« *Institut de Psychanalyse* » ...une chose qui m’étonne encore plus, ce n’est pas que « *Le Verbier de l’Homme aux loups »,* non seulement il vogue mais il fasse des petits, c’est que quelqu’un dont je ne savais pas que...
 
 <!-- id: s24-04-0112 -->
 
-> pour dire la vérité, je le *crois* en analyse ...dont je ne savais pas qu’il fût en analyse, mais c’est une simple hypothèse, c’est un nommé Jacques Derrida qui fait une préface à ce *« Verbier*... ».
+pour dire la vérité, je le *crois* en analyse ...dont je ne savais pas qu’il fût en analyse, mais c’est une simple hypothèse, c’est un nommé Jacques Derrida qui fait une préface à ce *« Verbier*... ».
 
 <!-- id: s24-04-0113 -->
 
@@ -470,7 +474,7 @@ Et je ne trouve pas - je dois dire...
 
 <!-- id: s24-04-0116 -->
 
-> malgré que j’aie engagé les choses dans cette voie ...je ne trouve pas que ce livre, ni cette préface soient d’un très bon ton.
+malgré que j’aie engagé les choses dans cette voie ...je ne trouve pas que ce livre, ni cette préface soient d’un très bon ton.
 
 <!-- id: s24-04-0117 -->
 
@@ -510,7 +514,7 @@ Mais enfin, ce *Moi*...
 
 <!-- id: s24-04-0126 -->
 
-> qui d’ailleurs en allemand ne s’appelle pas « *Moi »*, s’appelle « *Ich »*
+qui d’ailleurs en allemand ne s’appelle pas « *Moi »*, s’appelle « *Ich »*
 
 <!-- id: s24-04-0127 -->
 
@@ -538,7 +542,7 @@ C’est bien en quoi j’ai pointé que...
 
 <!-- id: s24-04-0133 -->
 
-> comme Freud d’ailleurs ...qu’il n’y avait pas à y regarder de si près pour ce qui est de la psychanalyse, et qu’entre folie et débilité mentale, nous n’avons que le choix.
+comme Freud d’ailleurs ...qu’il n’y avait pas à y regarder de si près pour ce qui est de la psychanalyse, et qu’entre folie et débilité mentale, nous n’avons que le choix.
 
 <!-- id: s24-04-0134 -->
 

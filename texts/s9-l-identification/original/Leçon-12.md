@@ -26,9 +26,9 @@ Car s’il s’agit du *réel tout court*, il s’agit de cela : il s’agit d�
 
 <!-- id: s9-12-0006 -->
 
-> je ne parle pas de ces savants qui, eux, bien loin de ce que l’on croit, ne doutent guère.
->
-> C’est dans cette mesure que nous sommes les plus sûrs de ce qu’ils *approchent* au moins le *réel*
+je ne parle pas de ces savants qui, eux, bien loin de ce que l’on croit, ne doutent guère.
+
+C’est dans cette mesure que nous sommes les plus sûrs de ce qu’ils *approchent* au moins le *réel*
 
 <!-- id: s9-12-0007 -->
 
@@ -324,11 +324,11 @@ Mais supposons donc que toute *énonciation*, de celles que l’on appelle *synt
 
 <!-- id: s9-12-0080 -->
 
-> parce qu’on s’étonne spécialement de ceci : quoiqu’on puisse les énoncer *a priori*, elles ont l’air,
->
-> on ne sait pas où, on ne sait pas quoi, de contenir quelque chose, et c’est ce que l’on appelle intuition,
->
-> dont on cherche le fondement dans *l’esthétique transcen­dantale* …supposons donc que toute *énonciation synthétique* - il y en a un cer­tain nombre au principe du sujet, et pour le constituer - eh bien, se déroule selon un de ces cercles, dit *cercle plein,* et que c’est cela qui nous image le mieux ce qui, dans la boucle de cette *énonciation*, est serré d’irréductible.
+parce qu’on s’étonne spécialement de ceci : quoiqu’on puisse les énoncer *a priori*, elles ont l’air,
+
+on ne sait pas où, on ne sait pas quoi, de contenir quelque chose, et c’est ce que l’on appelle intuition,
+
+dont on cherche le fondement dans *l’esthétique transcen­dantale* …supposons donc que toute *énonciation synthétique* - il y en a un cer­tain nombre au principe du sujet, et pour le constituer - eh bien, se déroule selon un de ces cercles, dit *cercle plein,* et que c’est cela qui nous image le mieux ce qui, dans la boucle de cette *énonciation*, est serré d’irréductible.
 
 <!-- id: s9-12-0081 -->
 
@@ -352,11 +352,11 @@ Il est très facile de *montrer* que vous pouvez *sur le tore*, dessiner *sept h
 
 <!-- id: s9-12-0086 -->
 
-> Ceci - je m’en excuse - pour donner un peu de consistance à mon objet. Ce n’est pas une bulle,
->
-> ce n’est pas un souffle, ce tore, vous voyez comme on peut en parler, encore qu’entièrement, comme
->
-> on dit dans la philosophie classique, comme construc­tion de l’esprit, il a toute la consistance d’un réel
+Ceci - je m’en excuse - pour donner un peu de consistance à mon objet. Ce n’est pas une bulle,
+
+ce n’est pas un souffle, ce tore, vous voyez comme on peut en parler, encore qu’entièrement, comme
+
+on dit dans la philosophie classique, comme construc­tion de l’esprit, il a toute la consistance d’un réel
 
 <!-- id: s9-12-0087 -->
 

@@ -18,15 +18,15 @@ Alors comme je vous écris de temps en temps, j'ai\...
 
 <!-- id: s19b-07-0004 -->
 
-> comme ça, pendant un petit voyage que je viens de faire \...inscrit *un certain nombre de propositions*, dont la 1^ère^ c'est qu'il faut reconnaître que le psychanalyste est mis, par *le discours*\...
+comme ça, pendant un petit voyage que je viens de faire \...inscrit *un certain nombre de propositions*, dont la 1^ère^ c'est qu'il faut reconnaître que le psychanalyste est mis, par *le discours*\...
 
 <!-- id: s19b-07-0005 -->
 
-> c'est un terme à moi \...par *le discours qui le conditionne*\...
+c'est un terme à moi \...par *le discours qui le conditionne*\...
 
 <!-- id: s19b-07-0006 -->
 
-> qu'on appelle, depuis moi, *le discours du psychanalyste* \...dans une position, disons difficile, Freud disait *impos­sible* : *unmöglich*, c'est peut-être un peu forcé, il parlait pour lui.
+qu'on appelle, depuis moi, *le discours du psychanalyste* \...dans une position, disons difficile, Freud disait *impos­sible* : *unmöglich*, c'est peut-être un peu forcé, il parlait pour lui.
 
 <!-- id: s19b-07-0007 -->
 
@@ -34,9 +34,9 @@ Bon ! D'autre part - 2^ème^ proposition : il sait \[*le psychanalyste*\]\...
 
 <!-- id: s19b-07-0008 -->
 
-> ceci d'expérience, ce qui veut dire que si peu qu'il ait pratiqué la psychanalyse,
->
-> il en sait assez pour ce que je vais dire \...il sait dans tous les cas avoir une commune mesure avec ce que je dis.
+ceci d'expérience, ce qui veut dire que si peu qu'il ait pratiqué la psychanalyse,
+
+il en sait assez pour ce que je vais dire \...il sait dans tous les cas avoir une commune mesure avec ce que je dis.
 
 <!-- id: s19b-07-0009 -->
 
@@ -44,7 +44,7 @@ C'est tout à fait indépendant du fait qu'il soit - de ce que je dis - informé
 
 <!-- id: s19b-07-0010 -->
 
-> comme je l'ai, il me semble, démontré cette année \...à situer *son savoir* \[S~2~\].
+comme je l'ai, il me semble, démontré cette année \...à situer *son savoir* \[S~2~\].
 
 <!-- id: s19b-07-0011 -->
 
@@ -88,7 +88,11 @@ Ce dont je peux dire, comme ça, vraiment simplement, que je les comprends\...
 
 <!-- id: s19b-07-0021 -->
 
-> « *je peux dire* », c'est à dire : « je peux dire, *si on y tient*\... » \...mais je les comprends : je me mets à leur place d'autant plus facilement que j'y suis.
+<div class="text-quotation">
+
+« *je peux dire* », c'est à dire : « je peux dire, *si on y tient*\... » \...mais je les comprends : je me mets à leur place d'autant plus facilement que j'y suis.
+
+</div>
 
 <!-- id: s19b-07-0022 -->
 
@@ -112,7 +116,7 @@ Il faut que je vous l'avoue, parce qu'à ce moment-là, l'impatience de ce que j
 
 <!-- id: s19b-07-0027 -->
 
-> et donc que je peux encore appeler, parce que c'est rare, comme ça, que je revienne\... \...de ce que j'ai appelé « *mon échec* » dans *Scilicet*, me domine. Voilà\...
+et donc que je peux encore appeler, parce que c'est rare, comme ça, que je revienne\... \...de ce que j'ai appelé « *mon échec* » dans *Scilicet*, me domine. Voilà\...
 
 <!-- id: s19b-07-0028 -->
 
@@ -196,11 +200,11 @@ Ce qui pourrait être fait\...
 
 <!-- id: s19b-07-0048 -->
 
-> et je le ferai peut-être à un autre moment \...ce qui pourrait être fait d'une manière piquante dans une certaine réfé­rence que je n'appellerai « *historique* » qu'entre guillemets\...
+et je le ferai peut-être à un autre moment \...ce qui pourrait être fait d'une manière piquante dans une certaine réfé­rence que je n'appellerai « *historique* » qu'entre guillemets\...
 
 <!-- id: s19b-07-0049 -->
 
-> enfin, vous verrez ça quand ça viendra\... si je subsiste \...pour ceux qui sont des fins finauds je leur parle­rai du mot « *tentation* ».
+enfin, vous verrez ça quand ça viendra\... si je subsiste \...pour ceux qui sont des fins finauds je leur parle­rai du mot « *tentation* ».
 
 <!-- id: s19b-07-0050 -->
 
@@ -256,9 +260,9 @@ Je dois dire que je suis surpris parce que, en somme, du « Lacan »\...
 
 <!-- id: s19b-07-0063 -->
 
-> entre guillemets bien sûr, enfin des choses de la veine que je suis censé représenter
->
-> auprès des incompé­tents d'une certaine linguistique, \...on est plutôt pressé d'en bourrer l'*International journal*.
+entre guillemets bien sûr, enfin des choses de la veine que je suis censé représenter
+
+auprès des incompé­tents d'une certaine linguistique, \...on est plutôt pressé d'en bourrer l'*International journal*.
 
 <!-- id: s19b-07-0064 -->
 
@@ -278,11 +282,11 @@ Mais il est évident que, comme celui que je viens, non pas de nom­mer\...
 
 <!-- id: s19b-07-0068 -->
 
-> parce que vous ignorez profondément son nom, il n'a encore rien réussi à pu­blier \...est parfaitement repérable, je ne désespère pas que, à la suite de ce qui fil­trera de mes propos aujourd'hui\...
+parce que vous ignorez profondément son nom, il n'a encore rien réussi à pu­blier \...est parfaitement repérable, je ne désespère pas que, à la suite de ce qui fil­trera de mes propos aujourd'hui\...
 
 <!-- id: s19b-07-0069 -->
 
-> et surtout si on sait que je ne l'ai pas nommé \...on le publiera \[*Rires*\].
+et surtout si on sait que je ne l'ai pas nommé \...on le publiera \[*Rires*\].
 
 <!-- id: s19b-07-0070 -->
 
@@ -302,7 +306,7 @@ Le psychanalyste a donc un rapport - *à ce qu'il sait* - complexe. Il le renie,
 
 <!-- id: s19b-07-0074 -->
 
-> pour employer le terme dont en anglais se traduit le refoulement*, la Verdrängung* \...et même il lui arrive de *n'en rien vouloir savoir*.
+pour employer le terme dont en anglais se traduit le refoulement*, la Verdrängung* \...et même il lui arrive de *n'en rien vouloir savoir*.
 
 <!-- id: s19b-07-0075 -->
 
@@ -326,7 +330,7 @@ Je réponds à ce qui peut surgir de ce *floor*, comme on dit, je réponds : est
 
 <!-- id: s19b-07-0080 -->
 
-> que ce soit celui du sujet, ou celui \[*du sujet*\] *supposé dans le transfert* \...ou bien est-ce *le transfert,* tel qu'il se produit dans une analyse donnée ?
+que ce soit celui du sujet, ou celui \[*du sujet*\] *supposé dans le transfert* \...ou bien est-ce *le transfert,* tel qu'il se produit dans une analyse donnée ?
 
 <!-- id: s19b-07-0081 -->
 
@@ -334,7 +338,7 @@ Pourquoi *le savoir*\...
 
 <!-- id: s19b-07-0082 -->
 
-> celui dont je dis qu'a dimension tout psychana­lyste \[*sujet supposé savoir*\] \...pourquoi *le savoir* serait-il, comme je disais tout à l'heure, « *avoué* » ?
+celui dont je dis qu'a dimension tout psychana­lyste \[*sujet supposé savoir*\] \...pourquoi *le savoir* serait-il, comme je disais tout à l'heure, « *avoué* » ?
 
 <!-- id: s19b-07-0083 -->
 
@@ -350,7 +354,7 @@ Ce n'est pas parce que la *Verwerfung* rend fou un sujet, quand elle se produit 
 
 <!-- id: s19b-07-0086 -->
 
-> la même, et du même nom d'où Freud l'emprunte \...qu'elle ne règne pas sur le monde comme un pouvoir rationnellement justifié.
+la même, et du même nom d'où Freud l'emprunte \...qu'elle ne règne pas sur le monde comme un pouvoir rationnellement justifié.
 
 <!-- id: s19b-07-0087 -->
 
@@ -358,7 +362,7 @@ Ce n'est pas parce que la *Verwerfung* rend fou un sujet, quand elle se produit 
 
 <!-- id: s19b-07-0088 -->
 
-> vous allez le voir, à la différence avec « *le* » \... « *des psychanalystes* » ça se préfère, ça se préfère « *soi* », voyez-vous !
+vous allez le voir, à la différence avec « *le* » \... « *des psychanalystes* » ça se préfère, ça se préfère « *soi* », voyez-vous !
 
 <!-- id: s19b-07-0089 -->
 
@@ -370,7 +374,7 @@ Pour *se préférer*, on n'a jamais fait mieux, sauf les saints - les saints (*s
 
 <!-- id: s19b-07-0091 -->
 
-> Oui, on vous parle tel­lement des autres \[Rires\] que je précise, parce que les autres\... enfin, passons \...les saints (*s.a.i.n.t.s*) ils se préfèrent eux-aussi, ils ne pensent même qu'à ça, ils se consument de trouver la meilleure façon de se préférer, alors qu'il y en a de si simples, comme le montrent les « *méde-saints* », eux aussi \[*Rires*\].
+Oui, on vous parle tel­lement des autres \[Rires\] que je précise, parce que les autres\... enfin, passons \...les saints (*s.a.i.n.t.s*) ils se préfèrent eux-aussi, ils ne pensent même qu'à ça, ils se consument de trouver la meilleure façon de se préférer, alors qu'il y en a de si simples, comme le montrent les « *méde-saints* », eux aussi \[*Rires*\].
 
 <!-- id: s19b-07-0092 -->
 
@@ -378,27 +382,27 @@ Enfin, ceux-là ne sont pas des saints. Ça, ça va de soi\...
 
 <!-- id: s19b-07-0093 -->
 
-> Il y a peu de choses aussi abjectes à feuilleter, que l'histoire de la médecine :
->
-> ça peut-être conseillé comme vomitif \[*Rires*\] ou comme purgatif, ça fait les deux.
->
-> Pour savoir que *le savoir* n'a rien à faire avec *la vérité*, il n'y a vraiment rien de plus convain­cant.
->
-> On peut même pas dire que ça va jusqu'à faire du médecin une sorte de pro­vocateur.
->
-> Ça n'empêche pas que les médecins se soient arrangés\...
->
-> et pour des raisons qui tenaient à ce que leur plate-forme avec *le discours de la science* devenait plus exiguë
->
-> \...que les médecins se soient arrangés à mettre la psychanalyse à leur pas.
->
-> Et ça, ils s'y connaissaient !
->
-> Ceci naturellement d'autant plus que le psychanalyste étant fort embarrassé\...
->
-> comme je suis parti là-dessus
->
-> \...fort embarrassé de *sa position*, il était d'autant plus disposé à recevoir les conseils de l'expérience.
+Il y a peu de choses aussi abjectes à feuilleter, que l'histoire de la médecine :
+
+ça peut-être conseillé comme vomitif \[*Rires*\] ou comme purgatif, ça fait les deux.
+
+Pour savoir que *le savoir* n'a rien à faire avec *la vérité*, il n'y a vraiment rien de plus convain­cant.
+
+On peut même pas dire que ça va jusqu'à faire du médecin une sorte de pro­vocateur.
+
+Ça n'empêche pas que les médecins se soient arrangés\...
+
+et pour des raisons qui tenaient à ce que leur plate-forme avec *le discours de la science* devenait plus exiguë
+
+\...que les médecins se soient arrangés à mettre la psychanalyse à leur pas.
+
+Et ça, ils s'y connaissaient !
+
+Ceci naturellement d'autant plus que le psychanalyste étant fort embarrassé\...
+
+comme je suis parti là-dessus
+
+\...fort embarrassé de *sa position*, il était d'autant plus disposé à recevoir les conseils de l'expérience.
 
 <!-- id: s19b-07-0094 -->
 
@@ -406,11 +410,11 @@ Je tiens beaucoup à marquer ce point d'histoire qui est dans mon affaire\...
 
 <!-- id: s19b-07-0095 -->
 
-> pour autant qu'elle ait de l'importance\... \...tout à fait un point-clé : grâce à cette conjuration\...
+pour autant qu'elle ait de l'importance\... \...tout à fait un point-clé : grâce à cette conjuration\...
 
 <!-- id: s19b-07-0096 -->
 
-> contre laquelle est dirigé un article *exprès* de Freud sur la *Laïernanalyse* [^14] \...grâce à cette conjuration qui a pu se produire peu après la guerre, j'avais déjà perdu la partie avant de l'avoir engagée.
+contre laquelle est dirigé un article *exprès* de Freud sur la *Laïernanalyse* [^14] \...grâce à cette conjuration qui a pu se produire peu après la guerre, j'avais déjà perdu la partie avant de l'avoir engagée.
 
 <!-- id: s19b-07-0097 -->
 
@@ -418,7 +422,7 @@ Simplement je voudrais qu'on me croie là-dessus, parce que - pour­quoi, je le 
 
 <!-- id: s19b-07-0098 -->
 
-> et je ne le fais pas par hasard à Sainte Anne puisque je vous dis que c'est là que je dis ce que je pense \...si je déclare que *c'est très précisément à ce titre* *de savoir très bien l'avoir* - à l'époque - *perdue*, que cette partie je l'ai engagée.
+et je ne le fais pas par hasard à Sainte Anne puisque je vous dis que c'est là que je dis ce que je pense \...si je déclare que *c'est très précisément à ce titre* *de savoir très bien l'avoir* - à l'époque - *perdue*, que cette partie je l'ai engagée.
 
 <!-- id: s19b-07-0099 -->
 
@@ -438,7 +442,7 @@ Le seul ennui - mais il n'est que pour moi - c'est que ça ne vous laisse pas tr
 
 <!-- id: s19b-07-0103 -->
 
-> il y a je ne sais pas quoi, le 2^ème^ séminaire avant \...qui m'a interrogé sur le fait si je croyais ou non à la liberté.
+il y a je ne sais pas quoi, le 2^ème^ séminaire avant \...qui m'a interrogé sur le fait si je croyais ou non à la liberté.
 
 <!-- id: s19b-07-0104 -->
 
@@ -446,17 +450,17 @@ Une autre déclaration que je veux faire\...
 
 <!-- id: s19b-07-0105 -->
 
-> et qui a bien son importance, puisque après tout, je ne sais pas, c'est mon penchant ce soir\... \...*une autre déclaration*\...
+et qui a bien son importance, puisque après tout, je ne sais pas, c'est mon penchant ce soir\... \...*une autre déclaration*\...
 
 <!-- id: s19b-07-0106 -->
 
-> qui celle-là alors est tout à fait prouvée, là je vous demande de me croire, que je m'étais très bien aperçu que la partie était perdue\...
+qui celle-là alors est tout à fait prouvée, là je vous demande de me croire, que je m'étais très bien aperçu que la partie était perdue\...
 
 <!-- id: s19b-07-0107 -->
 
-> après tout je n'étais pas si malin, j'ai peut-être cru qu'il fallait foncer
->
-> et que je foutrais en l'air l'*Internationale Psychanalytique Avouée* \...et là personne ne peut dire le contraire de ce que je vais dire : *c'est que je n'ai jamais lâché aucune des personnes que je savais devoir me quitter, avant qu'elles s'en aillent elles-mêmes*.
+après tout je n'étais pas si malin, j'ai peut-être cru qu'il fallait foncer
+
+et que je foutrais en l'air l'*Internationale Psychanalytique Avouée* \...et là personne ne peut dire le contraire de ce que je vais dire : *c'est que je n'ai jamais lâché aucune des personnes que je savais devoir me quitter, avant qu'elles s'en aillent elles-mêmes*.
 
 <!-- id: s19b-07-0108 -->
 
@@ -468,7 +472,7 @@ Les jours où l'idée de devoir poursuivre le dit enseignement ne m'habite pas\.
 
 <!-- id: s19b-07-0110 -->
 
-> c'est-à- dire un certain nombre \...il est évident que j'ai, comme tous les imbéciles, l'idée de ce que ça aurait pu être pour « *la Psychanalyse Française » ( ! )* si j'avais pu enseigner là où, pour la raison que je viens de dire, je n'étais nullement disposé à lâcher quiconque.
+c'est-à- dire un certain nombre \...il est évident que j'ai, comme tous les imbéciles, l'idée de ce que ça aurait pu être pour « *la Psychanalyse Française » ( ! )* si j'avais pu enseigner là où, pour la raison que je viens de dire, je n'étais nullement disposé à lâcher quiconque.
 
 <!-- id: s19b-07-0111 -->
 
@@ -484,19 +488,19 @@ Dans ces cas-là, je vais aussi - pourquoi pas ? - parce que il y a beaucoup de
 
 <!-- id: s19b-07-0114 -->
 
-> À propos : il y a quelqu'un qui m'a envoyé un verre à dents !
->
-> Je voudrais savoir qui c'est, pour la remercier cette personne.
->
-> Il y a une personne qui m'a envoyé « *un verre à dents »* !
->
-> Je dis ça pour ceux qui étaient là au Panthéon la dernière fois.
->
-> C'est une personne que je remercie d'autant que ce n'est pas un verre à dents.
->
-> C'est un merveilleux petit verre rouge, long et galbé, dans lequel je mettrai une rose,
->
-> qui que ce soit qui me l'ait envoyé. Mais je n'en ai reçu qu'un, ça je dois le dire. Enfin pas­sons\... \...il y a des personnes qui m'aiment un peu dans tous les coins, mêmes dans les couloirs du Vatican.
+À propos : il y a quelqu'un qui m'a envoyé un verre à dents !
+
+Je voudrais savoir qui c'est, pour la remercier cette personne.
+
+Il y a une personne qui m'a envoyé « *un verre à dents »* !
+
+Je dis ça pour ceux qui étaient là au Panthéon la dernière fois.
+
+C'est une personne que je remercie d'autant que ce n'est pas un verre à dents.
+
+C'est un merveilleux petit verre rouge, long et galbé, dans lequel je mettrai une rose,
+
+qui que ce soit qui me l'ait envoyé. Mais je n'en ai reçu qu'un, ça je dois le dire. Enfin pas­sons\... \...il y a des personnes qui m'aiment un peu dans tous les coins, mêmes dans les couloirs du Vatican.
 
 <!-- id: s19b-07-0115 -->
 
@@ -548,7 +552,7 @@ Je dis ça quand même pour avertir les personnes\...
 
 <!-- id: s19b-07-0127 -->
 
-> les personnes qui sont « *dans le coup »*, et particulièrement bien sûr, celles qui me suivent \...qu'il faut *y regarder à deux fois avant d'y engager ses descendants*, parce que c'est très possible qu'au train où vont les choses, ça tombe tout d'un coup sec, comme ça.
+les personnes qui sont « *dans le coup »*, et particulièrement bien sûr, celles qui me suivent \...qu'il faut *y regarder à deux fois avant d'y engager ses descendants*, parce que c'est très possible qu'au train où vont les choses, ça tombe tout d'un coup sec, comme ça.
 
 <!-- id: s19b-07-0128 -->
 
@@ -560,17 +564,17 @@ J'ai déjà parlé, comme ça, de ce qui se passe dans la psychanalyse\...
 
 <!-- id: s19b-07-0130 -->
 
-> il faut quand même bien spécifier certains points que j'ai déjà abordés,
->
-> par conséquent que je crois pouvoir traiter brièvement au point où nous en sommes \...c'est que *c'est le seul* *discours*\...
+il faut quand même bien spécifier certains points que j'ai déjà abordés,
+
+par conséquent que je crois pouvoir traiter brièvement au point où nous en sommes \...c'est que *c'est le seul* *discours*\...
 
 <!-- id: s19b-07-0131 -->
 
-> et rendons-lui hommage \...*c'est le seul* *discours*\...
+et rendons-lui hommage \...*c'est le seul* *discours*\...
 
 <!-- id: s19b-07-0132 -->
 
-> au sens où j'ai catalogué 4 *discours,* \...*c'est le seul discours qui soit tel que la canaillerie y aboutisse nécessairement à la bêtise*.
+au sens où j'ai catalogué 4 *discours,* \...*c'est le seul discours qui soit tel que la canaillerie y aboutisse nécessairement à la bêtise*.
 
 <!-- id: s19b-07-0133 -->
 
@@ -658,9 +662,9 @@ J'ai déjà indiqué ça,comme ça en quelques phrases, j'ai déjà indiqué ça
 
 <!-- id: s19b-07-0154 -->
 
-> qui prend *la vérité* comme simple fonction et qui est loin de s'en contenter :
->
-> qui comporte un *réel* qui avec *la vérité* n'a rien à faire : ce sont les mathématiques.
+qui prend *la vérité* comme simple fonction et qui est loin de s'en contenter :
+
+qui comporte un *réel* qui avec *la vérité* n'a rien à faire : ce sont les mathématiques.
 
 <!-- id: s19b-07-0155 -->
 
@@ -668,7 +672,7 @@ Néanmoins pendant des siècles il faut croire que la mathématique se passait l
 
 <!-- id: s19b-07-0156 -->
 
-> vous m'excuserez, je suis pas le seul !
+vous m'excuserez, je suis pas le seul !
 
 <!-- id: s19b-07-0157 -->
 
@@ -700,7 +704,7 @@ Il n'existe que de l'*Un*\...
 
 <!-- id: s19b-07-0164 -->
 
-> avec ce qui se presse autour de nous, je suis forcé aussi également de me presser \...*la théorie des ensembles*, c'est l'interrogation : pourquoi «*Y a d'l'Un* » ?
+avec ce qui se presse autour de nous, je suis forcé aussi également de me presser \...*la théorie des ensembles*, c'est l'interrogation : pourquoi «*Y a d'l'Un* » ?
 
 <!-- id: s19b-07-0165 -->
 
@@ -708,7 +712,7 @@ L'*Un* ça ne court pas les rues, quoi que vous en pensiez, y compris cette cert
 
 <!-- id: s19b-07-0166 -->
 
-> et illusoire depuis très longtemps, ça n'empêche pas qu'on y tienne \...que vous en êtes *Un*, vous aussi.
+et illusoire depuis très longtemps, ça n'empêche pas qu'on y tienne \...que vous en êtes *Un*, vous aussi.
 
 <!-- id: s19b-07-0167 -->
 
@@ -720,11 +724,11 @@ Vous en êtes *Un*, il suffit que vous essayiez même de lever le petit doigt po
 
 <!-- id: s19b-07-0169 -->
 
-> ce qui peut être un des bons résultats de l'affluent psychanalytique \...que vous êtes selon les cas : tout à fait *finis*
+ce qui peut être un des bons résultats de l'affluent psychanalytique \...que vous êtes selon les cas : tout à fait *finis*
 
 <!-- id: s19b-07-0170 -->
 
-> ça, je vous le dis très vite parce que je ne sais pas combien de temps je vais pouvoir continuer \...tout à fait *finis *:
+ça, je vous le dis très vite parce que je ne sais pas combien de temps je vais pouvoir continuer \...tout à fait *finis *:
 
 <!-- id: s19b-07-0171 -->
 
@@ -760,7 +764,7 @@ Même si *Cantor a tort* du point de vue de ceux qui décrè­tent - on ne sait 
 
 <!-- id: s19b-07-0179 -->
 
-> qu'ils devaient bien savoir, parce qu'il ne faut pas non plus les prendre pour des bébés \...que √2 n'est pas commensurable.
+qu'ils devaient bien savoir, parce qu'il ne faut pas non plus les prendre pour des bébés \...que √2 n'est pas commensurable.
 
 <!-- id: s19b-07-0180 -->
 
@@ -788,9 +792,9 @@ C'est justement de ce que, par Cantor, ait pu être engendré quelque chose\...
 
 <!-- id: s19b-07-0186 -->
 
-> qui n'est rien de moins que toute l'œuvre de Russell,
->
-> voire infiniment d'autres points qui ont été extrêmement féconds dans la *théorie des fonctions* \...il est certain que, au regard du *Réel*, c'est Cantor qui est dans le droit fil de ce dont il s'agit.
+qui n'est rien de moins que toute l'œuvre de Russell,
+
+voire infiniment d'autres points qui ont été extrêmement féconds dans la *théorie des fonctions* \...il est certain que, au regard du *Réel*, c'est Cantor qui est dans le droit fil de ce dont il s'agit.
 
 <!-- id: s19b-07-0187 -->
 
@@ -802,7 +806,7 @@ Je dis ça parce que vous avez affaire à des êtres *qui pensent*\...
 
 <!-- id: s19b-07-0189 -->
 
-> qui pensent bien sûr, parce qu'ils ne peuvent pas faire autrement \...*qui pensent comme* Télémaque, comme tout au moins le Téléma­que que décrit Paul-Jean Toulet[^17] : « *ils pensent à la dépense* ».
+qui pensent bien sûr, parce qu'ils ne peuvent pas faire autrement \...*qui pensent comme* Télémaque, comme tout au moins le Téléma­que que décrit Paul-Jean Toulet[^17] : « *ils pensent à la dépense* ».
 
 <!-- id: s19b-07-0190 -->
 
@@ -814,7 +818,7 @@ Il est clair qu'à cet égard, le *pathos* de pensée qui peut pour vous résult
 
 <!-- id: s19b-07-0192 -->
 
-> encore qu'il faut pas non plus qu'elle soit trop brève \...à *la théorie des ensembles*, est quelque chose bien de nature à vous faire réfléchir *sur des notions comme l'existence*, par exemple.
+encore qu'il faut pas non plus qu'elle soit trop brève \...à *la théorie des ensembles*, est quelque chose bien de nature à vous faire réfléchir *sur des notions comme l'existence*, par exemple.
 
 <!-- id: s19b-07-0193 -->
 
@@ -826,19 +830,19 @@ Tout ce qu'on a pu dire avant, par une sorte de pressentiment\...
 
 <!-- id: s19b-07-0195 -->
 
-> reli­gieux notamment, à savoir : que Dieu existe \...n'a strictement de sens qu'en ceci : qu'à *mettre l'accent*\...
+reli­gieux notamment, à savoir : que Dieu existe \...n'a strictement de sens qu'en ceci : qu'à *mettre l'accent*\...
 
 <!-- id: s19b-07-0196 -->
 
-> je dois y *mettre l'accent* parce qu'il y a des gens qui me prennent pour un « *maître à penser* » \...sur ceci : *que vous y croyiez ou pas*\...
+je dois y *mettre l'accent* parce qu'il y a des gens qui me prennent pour un « *maître à penser* » \...sur ceci : *que vous y croyiez ou pas*\...
 
 <!-- id: s19b-07-0197 -->
 
-> gardez ça dans votre petit creux d'oreille :
->
-> moi je n'y crois pas, mais on s'en fout,
->
-> ceux qui y croient c'est la même chose \...*que vous y croyiez ou pas* à Dieu, dites-­vous bien qu'*avec Dieu* dans tous les cas, *qu'on y croit ou qu'on n'y croit pas*, *il faut compter*.
+gardez ça dans votre petit creux d'oreille :
+
+moi je n'y crois pas, mais on s'en fout,
+
+ceux qui y croient c'est la même chose \...*que vous y croyiez ou pas* à Dieu, dites-­vous bien qu'*avec Dieu* dans tous les cas, *qu'on y croit ou qu'on n'y croit pas*, *il faut compter*.
 
 <!-- id: s19b-07-0198 -->
 
@@ -858,7 +862,7 @@ Je recommence : *il existe un x tel que* ce qu'il y a de sujet déter­minable p
 
 <!-- id: s19b-07-0202 -->
 
-> à savoir *la fonc­tion phallique* - c'est pour ça que je l'écris ! \...*il existe un x qui se détermine de ceci : qu'il ait dit non à la fonction* \[:§\].
+à savoir *la fonc­tion phallique* - c'est pour ça que je l'écris ! \...*il existe un x qui se détermine de ceci : qu'il ait dit non à la fonction* \[:§\].
 
 <!-- id: s19b-07-0203 -->
 
@@ -934,11 +938,11 @@ Mais faute ou pas faute\...
 
 <!-- id: s19b-07-0221 -->
 
-> c'est une affaire que nous n'avons pas à trancher immé­diatement, je le signale au passage \...ce qu'il importe pour l'instant c'est d'interro­ger le sens de ce que peuvent avoir à faire ces 4 fonctions\...
+c'est une affaire que nous n'avons pas à trancher immé­diatement, je le signale au passage \...ce qu'il importe pour l'instant c'est d'interro­ger le sens de ce que peuvent avoir à faire ces 4 fonctions\...
 
 <!-- id: s19b-07-0222 -->
 
-> qui ne sont que deux :
+qui ne sont que deux :
 
 <!-- id: s19b-07-0223 -->
 
@@ -954,9 +958,9 @@ Il est clair que ce que veut dire le : §, c'est-à-dire *négation de* !, est 
 
 <!-- id: s19b-07-0226 -->
 
-> et depuis assez à l'origine pour qu'on puisse dire
->
-> qu'on est absolument confondu que Freud l'ait ignoré \...:*négation de* ! à savoir cet *au-moins-Un*, cet *Un tout seul qui se détermine d'être l'effet du* *dire que non à la fonction phallique*, c'est très précisément le point sous lequel il faut que nous mettions tout ce qui s'est dit jusqu'à présent de l'*œdipe*, pour que l'*œdipe* soit autre chose qu'un mythe.
+et depuis assez à l'origine pour qu'on puisse dire
+
+qu'on est absolument confondu que Freud l'ait ignoré \...:*négation de* ! à savoir cet *au-moins-Un*, cet *Un tout seul qui se détermine d'être l'effet du* *dire que non à la fonction phallique*, c'est très précisément le point sous lequel il faut que nous mettions tout ce qui s'est dit jusqu'à présent de l'*œdipe*, pour que l'*œdipe* soit autre chose qu'un mythe.
 
 <!-- id: s19b-07-0227 -->
 
@@ -988,11 +992,11 @@ Et quoi que ce soit qui y échappe, même si ce n'est pas\...
 
 <!-- id: s19b-07-0234 -->
 
-> pourquoi pas, car c'est dans le mythe \...quelque chose d'humain : après tout pourquoi ne pas voir *le père* du meurtre primitif comme un orang-outang, beaucoup de choses qui coïncident dans la tradition\...
+pourquoi pas, car c'est dans le mythe \...quelque chose d'humain : après tout pourquoi ne pas voir *le père* du meurtre primitif comme un orang-outang, beaucoup de choses qui coïncident dans la tradition\...
 
 <!-- id: s19b-07-0235 -->
 
-> la tradition d'où tout de même il faut dire que la psycha­nalyse surgit : de la tradition judaïque \...dans la tradition judaïque, comme j'ai pu l'é­noncer l'année où je n'ai pas voulu faire plus que mon premier séminaire sur *Les Noms du Père,* j'ai quand même eu le temps d'y accentuer que dans le sacrifice d'Abraham, ce qui est sacrifié c'est effectivement *le père*, lequel n'est autre *qu'un bélier*.
+la tradition d'où tout de même il faut dire que la psycha­nalyse surgit : de la tradition judaïque \...dans la tradition judaïque, comme j'ai pu l'é­noncer l'année où je n'ai pas voulu faire plus que mon premier séminaire sur *Les Noms du Père,* j'ai quand même eu le temps d'y accentuer que dans le sacrifice d'Abraham, ce qui est sacrifié c'est effectivement *le père*, lequel n'est autre *qu'un bélier*.
 
 <!-- id: s19b-07-0236 -->
 
@@ -1012,7 +1016,7 @@ Tels les fils, dans l'évènement dit « *primordial »* dans la mythologie fr
 
 <!-- id: s19b-07-0240 -->
 
-> *comme ceux dont vous voyez les traces sur les grottes de Lascaux* \...ils l'ont tué - mon Dieu - parce qu'ils l'aimaient bien sûr, comme la suite l'a prouvé, la suite est triste.
+*comme ceux dont vous voyez les traces sur les grottes de Lascaux* \...ils l'ont tué - mon Dieu - parce qu'ils l'aimaient bien sûr, comme la suite l'a prouvé, la suite est triste.
 
 <!-- id: s19b-07-0241 -->
 
@@ -1040,11 +1044,11 @@ C'est très précisément ce qui fait que ce soit dans l'autre colonne\...
 
 <!-- id: s19b-07-0247 -->
 
-> et avec un type de rapport qui est fondamental, que puisse s'articuler quelque chose\...
+et avec un type de rapport qui est fondamental, que puisse s'articuler quelque chose\...
 
 <!-- id: s19b-07-0248 -->
 
-> dans quoi se range, puisse se ranger pour quiconque sache penser avec ces symboles \...au titre de la *femme*.
+dans quoi se range, puisse se ranger pour quiconque sache penser avec ces symboles \...au titre de la *femme*.
 
 <!-- id: s19b-07-0249 -->
 
@@ -1052,7 +1056,7 @@ Rien que de l'articuler ainsi, ceci nous fait sentir qu'il y a quelque chose de 
 
 <!-- id: s19b-07-0250 -->
 
-> dans l'énoncé qu'il n'est pas vrai que *la fonction phallique* domine ce qu'il en est *du* *rapport sexuel* \...s'inscrive en faux \[/ §\].
+dans l'énoncé qu'il n'est pas vrai que *la fonction phallique* domine ce qu'il en est *du* *rapport sexuel* \...s'inscrive en faux \[/ §\].
 
 <!-- id: s19b-07-0251 -->
 
@@ -1060,7 +1064,7 @@ Et pour vous permettre de vous y retrouver au moyen de références qui vous son
 
 <!-- id: s19b-07-0252 -->
 
-> mon Dieu, puisque j'ai parlé tout à l'heure du père \...*je dirai* *que ce que concerne ce* : « *Il n'existe pas de x qui se détermine comme sujet dans l'énoncé du dire que non à la fonction phallique* », c'est à proprement parler « *la vierge* ».
+mon Dieu, puisque j'ai parlé tout à l'heure du père \...*je dirai* *que ce que concerne ce* : « *Il n'existe pas de x qui se détermine comme sujet dans l'énoncé du dire que non à la fonction phallique* », c'est à proprement parler « *la vierge* ».
 
 <!-- id: s19b-07-0253 -->
 
@@ -1084,15 +1088,15 @@ Je vous expliquerai tout à l'heure\...
 
 <!-- id: s19b-07-0258 -->
 
-> il faut que je vous le dise tout de suite \...*que c'est pour ça*\...
+il faut que je vous le dise tout de suite \...*que c'est pour ça*\...
 
 <!-- id: s19b-07-0259 -->
 
-> je vous expliquerai dans le détail pourquoi \...*que la virgo n'est pas dénombrable*, parce qu'elle se situe\...
+je vous expliquerai dans le détail pourquoi \...*que la virgo n'est pas dénombrable*, parce qu'elle se situe\...
 
 <!-- id: s19b-07-0260 -->
 
-> contrairement à l'*Un* qui est du côté du père \...*elle se situe <u>entre</u> l'* **1** *et le* **0**.
+contrairement à l'*Un* qui est du côté du père \...*elle se situe <u>entre</u> l'* **1** *et le* **0**.
 
 <!-- id: s19b-07-0261 -->
 
@@ -1108,11 +1112,11 @@ Il est tout à fait démontrable que ce qui est entre l'*Un* et le *Zéro*\...
 
 <!-- id: s19b-07-0264 -->
 
-> ça se démontre grâce aux décimales, on se sert de déci­males dans le système du même nom : décimal \...il est très facile de montrer que : « *supposez* » \...
+ça se démontre grâce aux décimales, on se sert de déci­males dans le système du même nom : décimal \...il est très facile de montrer que : « *supposez* » \...
 
 <!-- id: s19b-07-0265 -->
 
-> il faut le supposer \... « *supposez* » que ce soit *dénombrable*, la méthode dite « *de la diagonale* » peut permettre de forger toujours une nouvelle suite décimale telle qu'elle ne soit certainement pas inscrite dans ce qui a été *dénombré*.
+il faut le supposer \... « *supposez* » que ce soit *dénombrable*, la méthode dite « *de la diagonale* » peut permettre de forger toujours une nouvelle suite décimale telle qu'elle ne soit certainement pas inscrite dans ce qui a été *dénombré*.
 
 <!-- id: s19b-07-0266 -->
 
@@ -1124,7 +1128,7 @@ C'est donc purement et simplement d'un « *supposez\...* » et là-dessus on a
 
 <!-- id: s19b-07-0268 -->
 
-> comme il se fait dans ce livre : « *Cantor a tort »*
+comme il se fait dans ce livre : « *Cantor a tort »*
 
 <!-- id: s19b-07-0269 -->
 
@@ -1160,7 +1164,7 @@ Le mode de la pensée, pour autant qu'il est, si je puis dire, « subverti » 
 
 <!-- id: s19b-07-0277 -->
 
-> où hélas, je ne suis pas pour rien \...qui est une certaine définition, celle que je note du **S**, c'est à savoir *du sujet*, *du sujet* *pour autant qu'il n'est rien d'autre que* *l'effet de signifiant*, autrement dit « *ce que représente un signifiant pour un autre ignifiant* ».
+où hélas, je ne suis pas pour rien \...qui est une certaine définition, celle que je note du **S**, c'est à savoir *du sujet*, *du sujet* *pour autant qu'il n'est rien d'autre que* *l'effet de signifiant*, autrement dit « *ce que représente un signifiant pour un autre ignifiant* ».
 
 <!-- id: s19b-07-0278 -->
 
@@ -1176,13 +1180,13 @@ Jusqu'à un certain point, je dirai que *l'ensemble vide* se démarque dans sa n
 
 <!-- id: s19b-07-0281 -->
 
-> je vous le répète, je pense vous l'avoir suffisamment indiqué \...est faite très précisément à un certain tour­nant pour interroger\...
+je vous le répète, je pense vous l'avoir suffisamment indiqué \...est faite très précisément à un certain tour­nant pour interroger\...
 
 <!-- id: s19b-07-0282 -->
 
-> interroger au niveau du langage *<u>commun</u>*, je souligne commun,
->
-> parce que ce n'est nullement ici *aucun* - de quelque sorte que ce soit - *métalangage* qui règne \...pour interroger du point de vue logique, interroger avec le langage de tous, ce qu'il en est de *l'incidence dans le langage lui-même, du <u>nombre</u>*, c'est-à-dire
+interroger au niveau du langage *<u>commun</u>*, je souligne commun,
+
+parce que ce n'est nullement ici *aucun* - de quelque sorte que ce soit - *métalangage* qui règne \...pour interroger du point de vue logique, interroger avec le langage de tous, ce qu'il en est de *l'incidence dans le langage lui-même, du <u>nombre</u>*, c'est-à-dire
 
 <!-- id: s19b-07-0283 -->
 
@@ -1210,9 +1214,9 @@ Jusqu'à un certain point, je dirai que *l'ensemble vide* se démarque dans sa n
 
 <!-- id: s19b-07-0289 -->
 
-> contrairement à l'inclusion dans :§
->
-> « *il existe le Père dont le <u>dire-non</u> le situe par rapport à la fonction phallique* » \...*inversement, c'est en tant qu'il y a le vide, le manque, l'absence de quoi que ce soit qui dénie la fonction phallique* \[*pas de* « : § », *pas de* « *<u>La</u> femme* » *non barrée, mais « **L** femme »*\] *au niveau de la femme*, qu'inversement il n'y a rien d'autre que ce *quelque chose* que le « *Pas-Tout* » formule dans la position de la femme \[***L** femme»*\] à l'endroit de la fonction phallique. Elle est en effet pour elle, « *Pas-Toute* ».
+contrairement à l'inclusion dans :§
+
+« *il existe le Père dont le <u>dire-non</u> le situe par rapport à la fonction phallique* » \...*inversement, c'est en tant qu'il y a le vide, le manque, l'absence de quoi que ce soit qui dénie la fonction phallique* \[*pas de* « : § », *pas de* « *<u>La</u> femme* » *non barrée, mais « **L** femme »*\] *au niveau de la femme*, qu'inversement il n'y a rien d'autre que ce *quelque chose* que le « *Pas-Tout* » formule dans la position de la femme \[***L** femme»*\] à l'endroit de la fonction phallique. Elle est en effet pour elle, « *Pas-Toute* ».
 
 <!-- id: s19b-07-0290 -->
 
@@ -1232,11 +1236,11 @@ Et ce qui s'inscrit dans « *la non-existence de ce qui pourrait nier la foncti
 
 <!-- id: s19b-07-0294 -->
 
-> de même qu'ici j'avais traduit par la fonction de *l'ensemble vide*, l'existence du « *dire que non* »,
->
-> de même c'est de s'absenter et même c'est d'être ce « *jouis-centre* »,
->
-> ce « *jouis-centre* » qui est conjugué à ce que je n'appellerai pas *une absence*, mais *une dé-sence : s.e.n.c.e.* \...que la femme se pose pour ce fait signifiant, non seulement que le grand Autre n'est pas là - ce n'est pas elle - mais qu'il est tout à fait ailleurs : au lieu où il situe la parole.
+de même qu'ici j'avais traduit par la fonction de *l'ensemble vide*, l'existence du « *dire que non* »,
+
+de même c'est de s'absenter et même c'est d'être ce « *jouis-centre* »,
+
+ce « *jouis-centre* » qui est conjugué à ce que je n'appellerai pas *une absence*, mais *une dé-sence : s.e.n.c.e.* \...que la femme se pose pour ce fait signifiant, non seulement que le grand Autre n'est pas là - ce n'est pas elle - mais qu'il est tout à fait ailleurs : au lieu où il situe la parole.
 
 <!-- id: s19b-07-0295 -->
 
@@ -1248,9 +1252,9 @@ puisqu'après tout vous avez la patience à une heure qui est déjà onze, de co
 
 <!-- id: s19b-07-0297 -->
 
-> dans ce qu'après tout ici, pour vous,
->
-> je force à la fin de l'année, un certain nombre de thèmes qui sont des thèmes *cristallisants* \...c'est de dénoter *la béance* qui sépare chacun de ces termes en tant qu'ils sont *énoncés*.
+dans ce qu'après tout ici, pour vous,
+
+je force à la fin de l'année, un certain nombre de thèmes qui sont des thèmes *cristallisants* \...c'est de dénoter *la béance* qui sépare chacun de ces termes en tant qu'ils sont *énoncés*.
 
 <!-- id: s19b-07-0298 -->
 
@@ -1298,7 +1302,7 @@ Entre les deux\...
 
 <!-- id: s19b-07-0309 -->
 
-> dont toute notre expérience nous mon­tre, je pense, assez que la situation n'est pas simple \...ce dont il s'agit, c'est quoi ?
+dont toute notre expérience nous mon­tre, je pense, assez que la situation n'est pas simple \...ce dont il s'agit, c'est quoi ?
 
 <!-- id: s19b-07-0310 -->
 
@@ -1478,23 +1482,23 @@ Je fais ça pour l'amour de l'art, mais je sais bien que de toute façon je trou
 
 <!-- id: s19b-07-0354 -->
 
-> Moi ce qui m'intéresse c'est le *signifiant* « *comme Un* », c'est de quoi on se sert dans chaque langue.
->
-> Et le seul intérêt du signifiant, c'est *les équivoques* qui peuvent en sortir\...
->
-> c'est-à-dire quelque chose de l'ordre du « *fonde d'eux un Un* » et d'autres conneries de cette espèce
->
-> \...c'est la seule chose intéressante, parce que pour nous ce qui est du « *Tous* »,
->
-> vous trouverez toujours ça exprimé, *le* « *Tous* » *est forcément sémantique*.
->
-> Le seul fait que je dise que je voudrais interroger « *Toutes* » les langues résout la question,
->
-> puisque les langues justement ne sont « *pas toutes* », c'est leur définition,
->
-> par contre si je vous interroge sur le « *Tous* », vous comprenez.
->
-> Voilà ! Ouais, enfin la sémantique ça revient à la traductibilité.
+Moi ce qui m'intéresse c'est le *signifiant* « *comme Un* », c'est de quoi on se sert dans chaque langue.
+
+Et le seul intérêt du signifiant, c'est *les équivoques* qui peuvent en sortir\...
+
+c'est-à-dire quelque chose de l'ordre du « *fonde d'eux un Un* » et d'autres conneries de cette espèce
+
+\...c'est la seule chose intéressante, parce que pour nous ce qui est du « *Tous* »,
+
+vous trouverez toujours ça exprimé, *le* « *Tous* » *est forcément sémantique*.
+
+Le seul fait que je dise que je voudrais interroger « *Toutes* » les langues résout la question,
+
+puisque les langues justement ne sont « *pas toutes* », c'est leur définition,
+
+par contre si je vous interroge sur le « *Tous* », vous comprenez.
+
+Voilà ! Ouais, enfin la sémantique ça revient à la traductibilité.
 
 <!-- id: s19b-07-0355 -->
 

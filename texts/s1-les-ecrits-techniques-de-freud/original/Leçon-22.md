@@ -26,13 +26,13 @@ La question telle qu’elle se formule maintenant est ceci : nous avons été am
 
 <!-- id: s1-22-0006 -->
 
-> rappelez-vous ce que je vous ai dit de ce que nous apporte BALINT comme témoignage sur ce qu’il constate,
->
-> ce qu’il appelle la terminaison d’une analyse ne nous fait pas sortir d’une relation intersubjective d’un type spécial,
->
-> d’*une relation narcissique,* comme nous avons vu quelle limite à la fois elle impose à l’analyse, et quelle impasse
->
-> à la compréhension de ce dont il s’agit, sous toutes les formes
+rappelez-vous ce que je vous ai dit de ce que nous apporte BALINT comme témoignage sur ce qu’il constate,
+
+ce qu’il appelle la terminaison d’une analyse ne nous fait pas sortir d’une relation intersubjective d’un type spécial,
+
+d’*une relation narcissique,* comme nous avons vu quelle limite à la fois elle impose à l’analyse, et quelle impasse
+
+à la compréhension de ce dont il s’agit, sous toutes les formes
 
 <!-- id: s1-22-0007 -->
 
@@ -44,7 +44,7 @@ Nous n’avons pas à en être surpris, puisqu’elle a une tendance, malgré to
 
 <!-- id: s1-22-0009 -->
 
-> simplement parce que nous nous laissons porter par un mouvement dont j’ai essayé de vous montrer les rai­sons profondes
+simplement parce que nous nous laissons porter par un mouvement dont j’ai essayé de vous montrer les rai­sons profondes
 
 <!-- id: s1-22-0010 -->
 
@@ -128,7 +128,11 @@ Ce n’est pas la question du mensonge qui est le véritable problème. En par­
 
 <!-- id: s1-22-0030 -->
 
-> « *Il faut avoir bonne mémoire quand on a menti.* »
+<div class="text-quotation">
+
+« *Il faut avoir bonne mémoire quand on a menti.* »
+
+</div>
 
 <!-- id: s1-22-0031 -->
 
@@ -160,9 +164,9 @@ Vous me direz : « *Alors, comment arrivons-nous à l’intérieur du dis­cours
 
 <!-- id: s1-22-0038 -->
 
-> nous parlons de la phénoménologie de la parole pour l’instant. Nous ne sommes pas en train
->
-> de parler de la confrontation telle qu’elle est instaurée par une certaine expérience
+nous parlons de la phénoménologie de la parole pour l’instant. Nous ne sommes pas en train
+
+de parler de la confrontation telle qu’elle est instaurée par une certaine expérience
 
 <!-- id: s1-22-0039 -->
 
@@ -206,11 +210,11 @@ Et d’ici que nous soyons arrivés à cet idéal, dont vous ne savez que trop�
 
 <!-- id: s1-22-0049 -->
 
-> par l’existence même des choses et par la dispute non seulement persistante sur tous les thèmes et tous les sujets,
->
-> avec plus ou moins d’ambiguïté, selon les zones de notre action interhumaine, mais aussi la mani­feste discordance
->
-> entre les différents systèmes qui ordonnent les actions, des systèmes religieux, juridiques, scientifiques, politiques
+par l’existence même des choses et par la dispute non seulement persistante sur tous les thèmes et tous les sujets,
+
+avec plus ou moins d’ambiguïté, selon les zones de notre action interhumaine, mais aussi la mani­feste discordance
+
+entre les différents systèmes qui ordonnent les actions, des systèmes religieux, juridiques, scientifiques, politiques
 
 <!-- id: s1-22-0050 -->
 
@@ -354,7 +358,7 @@ Car observez-le bien : *toujours, chaque fois que nous parlons* sans penser plu
 
 <!-- id: s1-22-0085 -->
 
-> observez-le dans le concret, c’est une indication, allez-y et vous verrez
+observez-le dans le concret, c’est une indication, allez-y et vous verrez
 
 <!-- id: s1-22-0086 -->
 
@@ -362,9 +366,9 @@ Car observez-le bien : *toujours, chaque fois que nous parlons* sans penser plu
 
 <!-- id: s1-22-0087 -->
 
-> et que refoulement n’est pas répétition, refoulement n’est pas dénégation,
->
-> car il ne faut pas tout mêler, pas tout confondre comme on fait communément
+et que refoulement n’est pas répétition, refoulement n’est pas dénégation,
+
+car il ne faut pas tout mêler, pas tout confondre comme on fait communément
 
 <!-- id: s1-22-0088 -->
 
@@ -372,7 +376,7 @@ Car observez-le bien : *toujours, chaque fois que nous parlons* sans penser plu
 
 <!-- id: s1-22-0089 -->
 
-> et il faut commencer à épeler ça dans les premières données expérimentales de FREUD
+et il faut commencer à épeler ça dans les premières données expérimentales de FREUD
 
 <!-- id: s1-22-0090 -->
 
@@ -504,11 +508,11 @@ Le sujet qui vient en analyse se met comme tel dans la position de celui qui ign
 
 <!-- id: s1-22-0122 -->
 
-> c’est-à-dire où ce quelque chose qui est la pyramide supérieure s’édifie, ce quelque chose dont peut–être la prochaine fois,
->
-> quand nous serons assez avancés, je vous montrerai la correspondance avec ces trois faces, qui n’est autre justement
->
-> que l’élabora­tion de la *Verdrängung*, la *Verdichtung* et la *Verneinung*
+c’est-à-dire où ce quelque chose qui est la pyramide supérieure s’édifie, ce quelque chose dont peut–être la prochaine fois,
+
+quand nous serons assez avancés, je vous montrerai la correspondance avec ces trois faces, qui n’est autre justement
+
+que l’élabora­tion de la *Verdrängung*, la *Verdichtung* et la *Verneinung*
 
 <!-- id: s1-22-0123 -->
 

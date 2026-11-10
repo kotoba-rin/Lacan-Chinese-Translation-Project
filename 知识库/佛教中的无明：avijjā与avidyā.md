@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/印度哲学
-  - 领域/宗教
+  - 领域/哲学/古代哲学
+  - 领域/宗教与神话/宗教与仪式
   - 传统/佛教
   - 概念/无明
 verified_at: 2026-07-28

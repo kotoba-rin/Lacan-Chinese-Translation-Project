@@ -39,7 +39,7 @@ Alors que, quand j’ai passé à Tzara...
 
 <!-- id: s27-08-0009 -->
 
-> qui logeait dans la même maison que moi, au 5 rue de Lille ...*l’Instance de la lettre, *ça ne lui a fait ni chaud, ni froid.
+qui logeait dans la même maison que moi, au 5 rue de Lille ...*l’Instance de la lettre, *ça ne lui a fait ni chaud, ni froid.
 
 <!-- id: s27-08-0010 -->
 

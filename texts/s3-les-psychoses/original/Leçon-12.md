@@ -98,7 +98,7 @@ C’est de là que je suis parti pour vous donner une sorte de catalogue génér
 
 <!-- id: s3-12-0024 -->
 
-> au début d’un des chapitres de son livre où il se dit être « *un cadavre lépreux qui traîne après lui un autre cadavre lépreux* » : belle image pour le *moi*. Il y a dans le *moi* quelque chose de fondamentalement mort, et toujours aussi *doublé de ce jumeau qui est le discours*.
+au début d’un des chapitres de son livre où il se dit être « *un cadavre lépreux qui traîne après lui un autre cadavre lépreux* » : belle image pour le *moi*. Il y a dans le *moi* quelque chose de fondamentalement mort, et toujours aussi *doublé de ce jumeau qui est le discours*.
 
 <!-- id: s3-12-0025 -->
 
@@ -134,7 +134,7 @@ Qui donc ne sait pas que c’est le « *b-a-ba* » de l’analyse de la jalous
 
 <!-- id: s3-12-0033 -->
 
-> et on peut peut-être aussi l’appeler « *mécanisme de projection »* en ce sens que quelque chose paraît à *l’extérieur* qui a son ressort à *l’intérieur* du sujet
+et on peut peut-être aussi l’appeler « *mécanisme de projection »* en ce sens que quelque chose paraît à *l’extérieur* qui a son ressort à *l’intérieur* du sujet
 
 <!-- id: s3-12-0034 -->
 
@@ -262,9 +262,9 @@ Que s’il fallait même aller chercher les choses dans le détail, et ce n’es
 
 <!-- id: s3-12-0065 -->
 
-> je dis, nous le supposons - c’est ma thèse - je dis, c’est ainsi que j’illustre
->
-> ce que j’appelle l’appréhension des « *premières néantisations symboliques* »
+je dis, nous le supposons - c’est ma thèse - je dis, c’est ainsi que j’illustre
+
+ce que j’appelle l’appréhension des « *premières néantisations symboliques* »
 
 <!-- id: s3-12-0066 -->
 
@@ -288,9 +288,9 @@ Je propose aujourd’hui de façon dogmatique…
 
 <!-- id: s3-12-0071 -->
 
-> ce que je déteste précisément de proposer comme telle puisqu’il m’apparaît fécond de l’introduire
->
-> d’une façon dialectique, mais justement nous allons y revenir tout à l’heure
+ce que je déteste précisément de proposer comme telle puisqu’il m’apparaît fécond de l’introduire
+
+d’une façon dialectique, mais justement nous allons y revenir tout à l’heure
 
 <!-- id: s3-12-0072 -->
 
@@ -314,7 +314,7 @@ C’est ici dans cette zone que se produit ce terme dont je me sers, à tort ou 
 
 <!-- id: s3-12-0077 -->
 
-> la première fois quelques pages auparavant, et l’autre fois en connexion directe avec cette phrase
+la première fois quelques pages auparavant, et l’autre fois en connexion directe avec cette phrase
 
 <!-- id: s3-12-0078 -->
 
@@ -386,7 +386,7 @@ Il y a une lettre à FLIESS qui est la *lettre 52*. Dans la *lettre 52*, FREUD r
 
 <!-- id: s3-12-0095 -->
 
-> pas de l’appareil psychique tel que le conçoit un professeur derrière une table et devant un tableau noir, et qui vous donne modestement un modèle, c’est-à-dire quelque chose qui, à tout prendre, a l’air de pouvoir marcher. Ça marche ou ça ne marche pas, peu importe ! L’important c’est d’avoir dit quelque chose qui sommairement paraît ressembler à ce qu’on appelle la réalité.
+pas de l’appareil psychique tel que le conçoit un professeur derrière une table et devant un tableau noir, et qui vous donne modestement un modèle, c’est-à-dire quelque chose qui, à tout prendre, a l’air de pouvoir marcher. Ça marche ou ça ne marche pas, peu importe ! L’important c’est d’avoir dit quelque chose qui sommairement paraît ressembler à ce qu’on appelle la réalité.
 
 <!-- id: s3-12-0096 -->
 
@@ -610,7 +610,7 @@ Vous voyez donc l’ensemble de l’économie de ce que nous apporte FREUD, avec
 
 <!-- id: s3-12-0151 -->
 
-> que je louais d’apporter la contradiction autour de ce qui est en train ici d’essayer d’être élaboré
+que je louais d’apporter la contradiction autour de ce qui est en train ici d’essayer d’être élaboré
 
 <!-- id: s3-12-0152 -->
 
@@ -642,7 +642,7 @@ C’est-à-dire qu’il évoque tout ce que vous voyez manifesté dans le cas du
 
 <!-- id: s3-12-0159 -->
 
-> qui est toujours signalé de quelque façon par les phénomènes eux-mêmes dans la psychose
+qui est toujours signalé de quelque façon par les phénomènes eux-mêmes dans la psychose
 
 <!-- id: s3-12-0160 -->
 

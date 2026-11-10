@@ -354,11 +354,11 @@ Je l’énoncerai en ces termes, dont il semble que *tous les commentaires* à l
 
 <!-- id: s7-05-0088 -->
 
-> la loi primordiale, celle où commence ce qui est *la culture* en tant que la culture s’oppose à *la nature*,
->
-> car on peut dire que les deux choses sont fondamentalement, parfaitement, dans FREUD,
->
-> individualisées en un sens *moderne*, je veux dire au sens où LÉVI-STRAUSS de nos jours peut l’*articuler*
+la loi primordiale, celle où commence ce qui est *la culture* en tant que la culture s’oppose à *la nature*,
+
+car on peut dire que les deux choses sont fondamentalement, parfaitement, dans FREUD,
+
+individualisées en un sens *moderne*, je veux dire au sens où LÉVI-STRAUSS de nos jours peut l’*articuler*
 
 <!-- id: s7-05-0089 -->
 
@@ -382,7 +382,7 @@ Ceci est toujours - par quelque côté - éludé, même quand Claude LÉVI-STRAU
 
 <!-- id: s7-05-0094 -->
 
-> à savoir l’introduction du *signifiant* et de *sa combinatoire* dans la nature humaine par l’intermédiaire des lois préférentielles du mariage réglé par une organisation des échanges qu’il qualifie comme « *structure élémentaire* », pour autant que des indications positives, préférentielles, sont données au choix du conjoint, c’est-à-dire qu’un ordre est introduit dans l’alliance, produisant une dimension nouvelle à côté de celui de l’hérédité en somme
+à savoir l’introduction du *signifiant* et de *sa combinatoire* dans la nature humaine par l’intermédiaire des lois préférentielles du mariage réglé par une organisation des échanges qu’il qualifie comme « *structure élémentaire* », pour autant que des indications positives, préférentielles, sont données au choix du conjoint, c’est-à-dire qu’un ordre est introduit dans l’alliance, produisant une dimension nouvelle à côté de celui de l’hérédité en somme
 
 <!-- id: s7-05-0095 -->
 
@@ -402,9 +402,9 @@ C’est là aussi que je veux vous arrêter, vous montrant qu’en quelque sorte
 
 <!-- id: s7-05-0099 -->
 
-> parce qu’il est la fin, le terme, l’abolition de tout le monde de la demande qui est justement
->
-> celui qui structure le plus profondément, et comme tel, l’inconscient de l’homme
+parce qu’il est la fin, le terme, l’abolition de tout le monde de la demande qui est justement
+
+celui qui structure le plus profondément, et comme tel, l’inconscient de l’homme
 
 <!-- id: s7-05-0100 -->
 

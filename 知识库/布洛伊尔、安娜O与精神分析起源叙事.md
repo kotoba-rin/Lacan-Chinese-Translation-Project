@@ -4,7 +4,7 @@ type: knowledge-card
 verification: 需更正
 tags:
   - 研讨班VIII
-  - 领域/精神分析史
+  - 领域/精神分析/历史与学派
   - 人物/安娜O
   - 人物/布洛伊尔
 verified_at: 2026-07-28
@@ -27,5 +27,8 @@ verified_at: 2026-07-28
 - [Sigmund Freud: Conflict & Culture — The Individual: Therapy](https://www.loc.gov/exhibits/freud/freud02.html)（英文；美国国会图书馆精神分析史展览）
 
 ## 关联
+
+[[知识库/Pithiatisme：巴宾斯基的说服治愈构想.md|Pithiatisme：巴宾斯基的说服治愈构想]]
+[[知识库/弗洛伊德.md|弗洛伊德]]
 
 [[texts/s8-le-transfert/translation/Leçon-12.md#s8-12-0032|s8-12-0032]]

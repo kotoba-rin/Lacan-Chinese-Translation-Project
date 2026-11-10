@@ -426,12 +426,12 @@ cette *fondation du désir*, pour tout dire, c’est en tant...
 
 <!-- id: s10-17-0078 -->
 
-> non pas que le corps dans son fonctionnement nous permettrait de tout *réduire*,
->
-> de tout *expliquer* dans une sorte d’ébauche de « *non dualisme de l’Umwelt et de l’Innenwelt* »
-> ...c’est *qu’il у а* toujours dans le corps...
-> et du fait même de cet engagement dans la dialectique signifiante
-> ...*quelque chose de séparé*, *quelque chose de sacri­fié*, *quelque chose de* - *dès lors* - *inerte, <u>qu’il у а</u>* <u>« *la livre de chair* »</u>.
+non pas que le corps dans son fonctionnement nous permettrait de tout *réduire*,
+
+de tout *expliquer* dans une sorte d’ébauche de « *non dualisme de l’Umwelt et de l’Innenwelt* »
+...c’est *qu’il у а* toujours dans le corps...
+et du fait même de cet engagement dans la dialectique signifiante
+...*quelque chose de séparé*, *quelque chose de sacri­fié*, *quelque chose de* - *dès lors* - *inerte, <u>qu’il у а</u>* <u>« *la livre de chair* »</u>.
 
 <!-- id: s10-17-0079 -->
 
@@ -527,11 +527,11 @@ de démontrer qu’on avait des relations avec quelqu’un qui avait été *pres
 
 <!-- id: s10-17-0097 -->
 
-> ici je censure le nom de sa province,
->
-> disons une province qui n’a aucune chance d’être évoquée dans un pareil contexte
-> *...*disons *« ...dans ma Camargue natale ne se passeraient jamais.*
-> *Chacun sait qu’ici, nous avons tous le cœur sur la main, nous sommes des gens bien plus francs, jamais de ces obliques manœuvres !* »
+ici je censure le nom de sa province,
+
+disons une province qui n’a aucune chance d’être évoquée dans un pareil contexte
+*...*disons *« ...dans ma Camargue natale ne se passeraient jamais.*
+*Chacun sait qu’ici, nous avons tous le cœur sur la main, nous sommes des gens bien plus francs, jamais de ces obliques manœuvres !* »
 
 <!-- id: s10-17-0098 -->
 
@@ -542,10 +542,10 @@ ici bonnement l’angoisse de Dieu
 
 <!-- id: s10-17-0099 -->
 
-> et chacun sait que dans *toute position perverse*
->
-> nous sommes capables dans l’expérience de sentir ce qu’il у а toujours de ludique, d’ambigu
-> ...à savoir si cette hypocrisie-là vaut plus, ou vaut moins, que ce qu’il ressent, lui, comme *l’hypocrisie orientale*.
+et chacun sait que dans *toute position perverse*
+
+nous sommes capables dans l’expérience de sentir ce qu’il у а toujours de ludique, d’ambigu
+...à savoir si cette hypocrisie-là vaut plus, ou vaut moins, que ce qu’il ressent, lui, comme *l’hypocrisie orientale*.
 
 <!-- id: s10-17-0100 -->
 
@@ -990,13 +990,13 @@ comme je l’étais alors, qui était un de ces Japonais pour qui Maupassant ni 
 
 <!-- id: s10-17-0184 -->
 
-> je vous passe Valéry parce que Valéry, enfin on prend un ticket Valéry à la première gare de chemin de fer,
->
-> on n’entend jamais parler que de Valéry dans le monde, *le succès de ce « Mallarmé des nouveaux riches »*
->
-> *est une des choses les plus conster­nantes que nous puissions rencontrer à notre époque*. Mais quand même c’est comme ça !
-> ...j’entre donc - reprenons notre séré­nité - dans le petit hall de cette statue et je trouve là, *agenouillé*, un homme entre 30 et 35 ans,
-> de l’ordre du très petit employé, peut-être de l’artisan, déjà vraiment très usé par l’existence.
+je vous passe Valéry parce que Valéry, enfin on prend un ticket Valéry à la première gare de chemin de fer,
+
+on n’entend jamais parler que de Valéry dans le monde, *le succès de ce « Mallarmé des nouveaux riches »*
+
+*est une des choses les plus conster­nantes que nous puissions rencontrer à notre époque*. Mais quand même c’est comme ça !
+...j’entre donc - reprenons notre séré­nité - dans le petit hall de cette statue et je trouve là, *agenouillé*, un homme entre 30 et 35 ans,
+de l’ordre du très petit employé, peut-être de l’artisan, déjà vraiment très usé par l’existence.
 
 <!-- id: s10-17-0185 -->
 

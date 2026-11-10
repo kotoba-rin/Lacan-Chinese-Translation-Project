@@ -142,9 +142,13 @@ Peu importe d’ailleurs, aussi bien, de savoir ce qui dans cette occasion doit 
 
 <!-- id: s8-08-0035 -->
 
-> « *Dans ce cas comme dans tout autre,* conclut-il, *où l’objet du désir pour celui qui éprouve ce désir, est quelque chose,* τοῦ μὴ ἑτοίμου \[tou mè hetoimou\], *qui n’est point à sa disposition :* καὶ τοῦ μὴ παρόντος \[kai tou mè parontos\] *et qui n’est pas présent :* καὶ ὃ μὴ ἔχει \[kai ho mè echei\] bref*, quelque chose* καὶ ὃ μὴ ἔστιν \[kai ho mè estin\] : *qu’il ne possède pas*, αὐτὸς : *quelque chose qu’il n’est pas lui-même* - traduit-on - καὶ οὗ ἐνδεής ἐστι \[kai hou endeès esti\] : *quelque chose dont il est dépourvu*. » « τοιαῦτ᾽ ἄττα ἐστὶν ὧν ἡ ἐπιθυμία τε καὶ ὁ ἔρως ἐστίν » \[toiaut’ atta estin ôn hè epithumia te kai ho erôs estin\] « *c’est de cette sorte d’objets*
->
-> *qu’il a désir tout comme amour* ».
+<div class="text-quotation">
+
+« *Dans ce cas comme dans tout autre,* conclut-il, *où l’objet du désir pour celui qui éprouve ce désir, est quelque chose,* τοῦ μὴ ἑτοίμου \[tou mè hetoimou\], *qui n’est point à sa disposition :* καὶ τοῦ μὴ παρόντος \[kai tou mè parontos\] *et qui n’est pas présent :* καὶ ὃ μὴ ἔχει \[kai ho mè echei\] bref*, quelque chose* καὶ ὃ μὴ ἔστιν \[kai ho mè estin\] : *qu’il ne possède pas*, αὐτὸς : *quelque chose qu’il n’est pas lui-même* - traduit-on - καὶ οὗ ἐνδεής ἐστι \[kai hou endeès esti\] : *quelque chose dont il est dépourvu*. » « τοιαῦτ᾽ ἄττα ἐστὶν ὧν ἡ ἐπιθυμία τε καὶ ὁ ἔρως ἐστίν » \[toiaut’ atta estin ôn hè epithumia te kai ho erôs estin\] « *c’est de cette sorte d’objets*
+
+*qu’il a désir tout comme amour* ».
+
+</div>
 
 <!-- id: s8-08-0036 -->
 

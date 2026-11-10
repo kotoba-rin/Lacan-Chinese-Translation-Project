@@ -46,15 +46,15 @@ Ceci…
 
 <!-- id: s15-10-0011 -->
 
-> si les conséquences que nous en voyons par exemple dans le cas que je viens de vous citer,
->
-> sous forme d’une sorte de rabougrissement très évident des facultés de compréhension …si ceci se trouvait en quelque sorte démontré comme inclus dans les prémisses…
+si les conséquences que nous en voyons par exemple dans le cas que je viens de vous citer,
+
+sous forme d’une sorte de rabougrissement très évident des facultés de compréhension …si ceci se trouvait en quelque sorte démontré comme inclus dans les prémisses…
 
 <!-- id: s15-10-0012 -->
 
-> comme proprement la conséquence de ce qui résulte de l’inscription de l’acte
->
-> dans ce que j’ai appelé la consécration sous une forme prédicative …ceci certainement nous soulagerait beaucoup nous-mêmes quant à la compréhension de ce singulier effet que j’ai appelé de rabougrissement, sans vouloir bien sûr pousser plus loin ce qu’on peut en dire au niveau des intéressés eux–mêmes.
+comme proprement la conséquence de ce qui résulte de l’inscription de l’acte
+
+dans ce que j’ai appelé la consécration sous une forme prédicative …ceci certainement nous soulagerait beaucoup nous-mêmes quant à la compréhension de ce singulier effet que j’ai appelé de rabougrissement, sans vouloir bien sûr pousser plus loin ce qu’on peut en dire au niveau des intéressés eux–mêmes.
 
 <!-- id: s15-10-0013 -->
 
@@ -78,7 +78,7 @@ Et nous avons montré ici…
 
 <!-- id: s15-10-0018 -->
 
-> il nous faut une fois de plus, si l’on peut dire, redoubler la division …c’est à savoir que cette psychanalyse, précisément, ne saurait *s’instaurer* sans un acte, sans l’acte de celui qui, si je puis dire, en autorise la possibilité, sans l’acte du psychanalyste et qu’à l’intérieur de *cet acte qu’est la psychanalyse*, *la tâche psychanalysante* s’inscrit à l’intérieur de cet acte. Et déjà vous voyez apparaître en quelque sorte cette première *structure d’enveloppement*.
+il nous faut une fois de plus, si l’on peut dire, redoubler la division …c’est à savoir que cette psychanalyse, précisément, ne saurait *s’instaurer* sans un acte, sans l’acte de celui qui, si je puis dire, en autorise la possibilité, sans l’acte du psychanalyste et qu’à l’intérieur de *cet acte qu’est la psychanalyse*, *la tâche psychanalysante* s’inscrit à l’intérieur de cet acte. Et déjà vous voyez apparaître en quelque sorte cette première *structure d’enveloppement*.
 
 <!-- id: s15-10-0019 -->
 
@@ -86,7 +86,7 @@ Mais ce dont il s’agit…
 
 <!-- id: s15-10-0020 -->
 
-> et c’est ce sur quoi, et d’ailleurs, ce n’est pas la première fois que j’insiste : cette distinction au sein même de l’acte …c’est de l’acte par quoi un sujet donne à cet acte singulier sa conséquence la plus étrange, à savoir qu’il soit lui-même celui qu’il institue, autrement dit qu’il se pose comme psychanalyste.
+et c’est ce sur quoi, et d’ailleurs, ce n’est pas la première fois que j’insiste : cette distinction au sein même de l’acte …c’est de l’acte par quoi un sujet donne à cet acte singulier sa conséquence la plus étrange, à savoir qu’il soit lui-même celui qu’il institue, autrement dit qu’il se pose comme psychanalyste.
 
 <!-- id: s15-10-0021 -->
 
@@ -122,9 +122,9 @@ Mais tant que la chose n’aura pas effectivement été interrogée, mise en que
 
 <!-- id: s15-10-0029 -->
 
-> et pourquoi aller plus longtemps pour dire que ma thèse est très précisément que toute l’ordination,
->
-> ai-je dit tout à l’heure, de ce qui se fait, de ce qui existe dans la psychanalyse, est faite pour que cette exploration, cette interrogation n’ait pas lieu …tant qu’effectivement elle n’aura pas eu lieu, nous ne pouvons pas en dire quoi que ce soit de plus que ce qui ne se dit nulle part parce que, à la vérité, il nous est impossible d’en parler tout seul.
+et pourquoi aller plus longtemps pour dire que ma thèse est très précisément que toute l’ordination,
+
+ai-je dit tout à l’heure, de ce qui se fait, de ce qui existe dans la psychanalyse, est faite pour que cette exploration, cette interrogation n’ait pas lieu …tant qu’effectivement elle n’aura pas eu lieu, nous ne pouvons pas en dire quoi que ce soit de plus que ce qui ne se dit nulle part parce que, à la vérité, il nous est impossible d’en parler tout seul.
 
 <!-- id: s15-10-0030 -->
 
@@ -164,7 +164,7 @@ L’énoncé de la science, en principe la plus athéiste, est tellement sur ce 
 
 <!-- id: s15-10-0039 -->
 
-> et sachez bien qu’ici je laisse entre parenthèses l’accent que ce terme peut recevoir dans son usage en *mathématiques*, à savoir au niveau de *la théorie des ensembles*, de ce pas qui se fait du niveau où il s’agit d’un ensemble fini à celui où l’on peut traiter par des moyens éprouvés, inaugurés au niveau des ensembles finis, un ensemble qui ne l’est pas, mais pour l’instant tenons-nous en à la psychanalyse finie …disons qu’à la fin :
+et sachez bien qu’ici je laisse entre parenthèses l’accent que ce terme peut recevoir dans son usage en *mathématiques*, à savoir au niveau de *la théorie des ensembles*, de ce pas qui se fait du niveau où il s’agit d’un ensemble fini à celui où l’on peut traiter par des moyens éprouvés, inaugurés au niveau des ensembles finis, un ensemble qui ne l’est pas, mais pour l’instant tenons-nous en à la psychanalyse finie …disons qu’à la fin :
 
 <!-- id: s15-10-0040 -->
 
@@ -172,9 +172,9 @@ L’énoncé de la science, en principe la plus athéiste, est tellement sur ce 
 
 <!-- id: s15-10-0041 -->
 
-> selon la formule à l’usage de laquelle j’ai rompu ces quelques-uns qui m’entendent, au temps où je faisais le séminaire sur *L’angoisse* \[1962-63\]
->
-> …qu’il n’est *pas sans* cet objet enfin rejeté à la place préparée par la présence du psychanalyste pour qu’il se situe dans cette relation de cause de *sa division de sujet*.
+selon la formule à l’usage de laquelle j’ai rompu ces quelques-uns qui m’entendent, au temps où je faisais le séminaire sur *L’angoisse* \[1962-63\]
+
+…qu’il n’est *pas sans* cet objet enfin rejeté à la place préparée par la présence du psychanalyste pour qu’il se situe dans cette relation de cause de *sa division de sujet*.
 
 <!-- id: s15-10-0042 -->
 
@@ -182,7 +182,7 @@ L’énoncé de la science, en principe la plus athéiste, est tellement sur ce 
 
 <!-- id: s15-10-0043 -->
 
-> on s’exprime, après le terme, entre celui qui a suivi le chemin de la psychanalyse et *celui qui s’y est fait son guide*.
+on s’exprime, après le terme, entre celui qui a suivi le chemin de la psychanalyse et *celui qui s’y est fait son guide*.
 
 <!-- id: s15-10-0044 -->
 
@@ -190,7 +190,7 @@ La question de savoir comment quelqu’un peut être reconnu autrement que par l
 
 <!-- id: s15-10-0045 -->
 
-> c’est-à-dire reconnu, autrement que par lui-même, être qualifié pour cette opération …est une question, après tout, qui n’est pas spéciale à la psychanalyse. Elle se résout habituellement, comme dans la psychanalyse, par *l’élection* ou par *une certaine forme de choix*, de toute façon.
+c’est-à-dire reconnu, autrement que par lui-même, être qualifié pour cette opération …est une question, après tout, qui n’est pas spéciale à la psychanalyse. Elle se résout habituellement, comme dans la psychanalyse, par *l’élection* ou par *une certaine forme de choix*, de toute façon.
 
 <!-- id: s15-10-0046 -->
 
@@ -222,7 +222,7 @@ Pour ce qu’il en est du *Saint–Esprit*, je vous fais remarquer que c’est u
 
 <!-- id: s15-10-0053 -->
 
-> celui sur les *Questions préalables à tout traitement possible des psychoses* \[*Écrits*, p.531\] …sous le terme du Φ, seulement précisément le Φ *n’est pas une position très tenable* sinon dans les catégories de la psychose.
+celui sur les *Questions préalables à tout traitement possible des psychoses* \[*Écrits*, p.531\] …sous le terme du Φ, seulement précisément le Φ *n’est pas une position très tenable* sinon dans les catégories de la psychose.
 
 <!-- id: s15-10-0054 -->
 
@@ -234,7 +234,7 @@ Ce qui bien sûr, alors, prend toute sa valeur de faire un regard en arrière et
 
 <!-- id: s15-10-0056 -->
 
-> et je dois dire qu’il y en a beaucoup de cet ordre, ils font bien tout ce qu’ils peuvent …évoqueront que la notion, la distance prise qui a permis l’instauration du transfert dans notre théorie, ne remonte à rien de moins qu’à ce moment précis où, comme vous le savez, *au sortir d’une séance triomphante d’hypnose d’une patiente*, elle lui jette - nous dit FREUD - ses bras autour de son cou[^72]. Qu’est-ce que c’est que ça ?
+et je dois dire qu’il y en a beaucoup de cet ordre, ils font bien tout ce qu’ils peuvent …évoqueront que la notion, la distance prise qui a permis l’instauration du transfert dans notre théorie, ne remonte à rien de moins qu’à ce moment précis où, comme vous le savez, *au sortir d’une séance triomphante d’hypnose d’une patiente*, elle lui jette - nous dit FREUD - ses bras autour de son cou[^72]. Qu’est-ce que c’est que ça ?
 
 <!-- id: s15-10-0057 -->
 
@@ -278,7 +278,7 @@ L’auteur[^74], dont je commençais d’introduire tout à l’heure la personn
 
 <!-- id: s15-10-0067 -->
 
-> personne ne lui demandait à proprement parler de faire sur ce sujet une petite leçon sur le transfert …fait une leçon sur le transfert, selon ce type d’article qui maintenant se répand de plus en plus : on articule sur le transfert des choses qui ne se concevraient même pas si *le discours de Lacan* n’existait pas.
+personne ne lui demandait à proprement parler de faire sur ce sujet une petite leçon sur le transfert …fait une leçon sur le transfert, selon ce type d’article qui maintenant se répand de plus en plus : on articule sur le transfert des choses qui ne se concevraient même pas si *le discours de Lacan* n’existait pas.
 
 <!-- id: s15-10-0068 -->
 
@@ -322,13 +322,13 @@ Et *on fait objection* de ce que j’ai dit à telle date ultérieure - comme si
 
 <!-- id: s15-10-0078 -->
 
-> et qui, bien entendu, peut être pris comme partiel, surtout si on l’isole du contexte …mais qui d’ailleurs…
+et qui, bien entendu, peut être pris comme partiel, surtout si on l’isole du contexte …mais qui d’ailleurs…
 
 <!-- id: s15-10-0079 -->
 
-> au reste pour ce qu’il en est de l’effet de certaines interprétations purement complémentaires,
->
-> si l’on peut dire, de tel morceau d’histoire au niveau de l’hystérique …a été effectivement précisé par moi comme fort limité et ne correspondant absolument pas, dès l’époque même où je l’ai articulé, à *cette notion en quelque sorte trop objectivante de l’histoire* qui consisterait à prendre la fonction de l’histoire autrement que comme histoire constituée à partir des préoccupations présentes, c’est-à-dire comme toute espèce d’histoire existante.
+au reste pour ce qu’il en est de l’effet de certaines interprétations purement complémentaires,
+
+si l’on peut dire, de tel morceau d’histoire au niveau de l’hystérique …a été effectivement précisé par moi comme fort limité et ne correspondant absolument pas, dès l’époque même où je l’ai articulé, à *cette notion en quelque sorte trop objectivante de l’histoire* qui consisterait à prendre la fonction de l’histoire autrement que comme histoire constituée à partir des préoccupations présentes, c’est-à-dire comme toute espèce d’histoire existante.
 
 <!-- id: s15-10-0080 -->
 
@@ -348,11 +348,11 @@ Obtenir cette sorte de réponse, là précisément où ma question ne peut être
 
 <!-- id: s15-10-0084 -->
 
-> ce qui d’ailleurs est tout à fait impossible à trouver dans la plupart des cas et qui ne résulte que *de la fiction* qui ferait *que l’auteur qui s’exprime aurait découvert lui-même la seconde partie* tandis que je me serais tenu et limité à la première …a ce quelque chose d’assez dérisoire qui somme toute n’est pas sans tenir à ce que l’on peut dire…
+ce qui d’ailleurs est tout à fait impossible à trouver dans la plupart des cas et qui ne résulte que *de la fiction* qui ferait *que l’auteur qui s’exprime aurait découvert lui-même la seconde partie* tandis que je me serais tenu et limité à la première …a ce quelque chose d’assez dérisoire qui somme toute n’est pas sans tenir à ce que l’on peut dire…
 
 <!-- id: s15-10-0085 -->
 
-> là aussi, car il faut reconnaître où les choses s’insèrent dans leur réalité …à ce qu’il en est du fond même de la question.
+là aussi, car il faut reconnaître où les choses s’insèrent dans leur réalité …à ce qu’il en est du fond même de la question.
 
 <!-- id: s15-10-0086 -->
 
@@ -408,15 +408,23 @@ L’hystérique, elle, c’est bien là ce qu’il lui faut, je veux dire ce qui
 
 <!-- id: s15-10-0099 -->
 
-> ça nous aidera de le penser parce que ça mettra un certain nombre de choses à leur place …en faisant toute la construction de la psychanalyse, ce FREUD qui jusqu’à la fin de sa vie s’est demandé :
+ça nous aidera de le penser parce que ça mettra un certain nombre de choses à leur place …en faisant toute la construction de la psychanalyse, ce FREUD qui jusqu’à la fin de sa vie s’est demandé :
 
 <!-- id: s15-10-0100 -->
 
-> « *Que veut une femme ?* » sans trouver la réponse, eh bien justement ça, ce qu’il a fait :
+<div class="text-quotation">
+
+« *Que veut une femme ?* » sans trouver la réponse, eh bien justement ça, ce qu’il a fait :
+
+</div>
 
 <!-- id: s15-10-0101 -->
 
-> « *un psychanalyste *! »
+<div class="text-quotation">
+
+« *un psychanalyste *! »
+
+</div>
 
 <!-- id: s15-10-0102 -->
 
@@ -428,11 +436,11 @@ Mais ce qu’il faut voir et ce que, pour rendre sensible à un certain nombre d
 
 <!-- id: s15-10-0104 -->
 
-> puisque la « télé » nous le montre, c’est un petit penchant qu’on prendrait assez volontiers …de trouver des analogies entre ce sur quoi nous opérons et je ne sais quoi qui se trouverait à des niveaux beaucoup plus abyssaux dans la biologie, de ce que, parce qu’il plaît aux biologistes d’exprimer *en termes de messages les termes chromosomiques*, quelqu’un peut en venir…
+puisque la « télé » nous le montre, c’est un petit penchant qu’on prendrait assez volontiers …de trouver des analogies entre ce sur quoi nous opérons et je ne sais quoi qui se trouverait à des niveaux beaucoup plus abyssaux dans la biologie, de ce que, parce qu’il plaît aux biologistes d’exprimer *en termes de messages les termes chromosomiques*, quelqu’un peut en venir…
 
 <!-- id: s15-10-0105 -->
 
-> *comme je l’ai entendu récemment, car quand il y a certaines conneries à dire, on peut dire qu’on ne le manque jamais !* …à faire cette découverte : on pourrait, en somme, dire après ça que « *le langage est structuré comme l’inconscient* ».
+*comme je l’ai entendu récemment, car quand il y a certaines conneries à dire, on peut dire qu’on ne le manque jamais !* …à faire cette découverte : on pourrait, en somme, dire après ça que « *le langage est structuré comme l’inconscient* ».
 
 <!-- id: s15-10-0106 -->
 
@@ -476,7 +484,7 @@ Vous voyez que ce n’est pas moi qui pour la première fois agite devant vous�
 
 <!-- id: s15-10-0116 -->
 
-> mais pour qu’on s’en distingue, pour qu’on marque bien à ce propos les différences …des fantasmes prétendument biologiques. Quand je dis que c’est dans *l’objet(a)* que sera ensuite retrouvé toujours et nécessairement le partenaire sexuel, là nous voyons surgir l’antique vérité inscrite au coin de *la Genèse*, le fait que le *partenaire*, et Dieu sait que ça ne l’engage à rien, figurait dans *le mythe* comme étant *la côte d’Adam*, donc le *(a)*.
+mais pour qu’on s’en distingue, pour qu’on marque bien à ce propos les différences …des fantasmes prétendument biologiques. Quand je dis que c’est dans *l’objet(a)* que sera ensuite retrouvé toujours et nécessairement le partenaire sexuel, là nous voyons surgir l’antique vérité inscrite au coin de *la Genèse*, le fait que le *partenaire*, et Dieu sait que ça ne l’engage à rien, figurait dans *le mythe* comme étant *la côte d’Adam*, donc le *(a)*.
 
 <!-- id: s15-10-0117 -->
 
@@ -544,7 +552,7 @@ Est-ce que vous apercevez aussi ceci, c’est que FREUD a bien remarqué quand i
 
 <!-- id: s15-10-0133 -->
 
-> c’est-à-dire justement du champ tel qu’il s’agit dans l’analyse, la libido désir …il n’y en aurait que de masculine, dit-il, de *libido*. Cela devrait nous *mettre la puce à l’oreille* et nous montrer précisément ce que j’ai déjà accentué, que ce dont il s’agit, c’est le rapport de *subjectivation* concernant la chose du sexe, mais pour autant que cette *subjectivation* aboutit au rapport logiquement défini par S◊*a*, ici tout le monde est égal.
+c’est-à-dire justement du champ tel qu’il s’agit dans l’analyse, la libido désir …il n’y en aurait que de masculine, dit-il, de *libido*. Cela devrait nous *mettre la puce à l’oreille* et nous montrer précisément ce que j’ai déjà accentué, que ce dont il s’agit, c’est le rapport de *subjectivation* concernant la chose du sexe, mais pour autant que cette *subjectivation* aboutit au rapport logiquement défini par S◊*a*, ici tout le monde est égal.
 
 <!-- id: s15-10-0134 -->
 
@@ -564,7 +572,7 @@ C’est cela qui permet de mettre à sa place ce qu’il en est dans le traiteme
 
 <!-- id: s15-10-0138 -->
 
-> *cette scène qui est structurante, mais seulement à ce niveau* …le *(a)* à ce point extrême où nous savons qu’il est au terme de la destinée du héros dans la tragédie, il n’est plus que ça, et que *tout ce qui est de l’ordre du sujet est au niveau de ce quelque chose qui a ce caractère divisé qu’il y a entre le spectateur et le chœur*.
+*cette scène qui est structurante, mais seulement à ce niveau* …le *(a)* à ce point extrême où nous savons qu’il est au terme de la destinée du héros dans la tragédie, il n’est plus que ça, et que *tout ce qui est de l’ordre du sujet est au niveau de ce quelque chose qui a ce caractère divisé qu’il y a entre le spectateur et le chœur*.
 
 <!-- id: s15-10-0139 -->
 
@@ -584,7 +592,7 @@ Pour être complet, au passage, et avant de continuer, j’ajouterai que vous re
 
 <!-- id: s15-10-0143 -->
 
-> pas plus dans ce troisième cas que dans les deux premiers qui ne se ressemblent en rien …à prétendre y faire fonctionner toujours de la même façon le père et son meurtre.
+pas plus dans ce troisième cas que dans les deux premiers qui ne se ressemblent en rien …à prétendre y faire fonctionner toujours de la même façon le père et son meurtre.
 
 <!-- id: s15-10-0144 -->
 
@@ -616,11 +624,11 @@ C’est précisément…
 
 <!-- id: s15-10-0151 -->
 
-> comme il saute aux yeux et comme n’importe qui de pas absolument englué par les choses auxquelles il faut bien que nous en venions …ce qui a été vu par des femmes précisément…
+comme il saute aux yeux et comme n’importe qui de pas absolument englué par les choses auxquelles il faut bien que nous en venions …ce qui a été vu par des femmes précisément…
 
 <!-- id: s15-10-0152 -->
 
-> qui sont assurément dans la psychanalyse ce qu’il y a eu *de plus efficace* et, dans certains cas, *de moins bête* …par des femmes, par Mélanie KLEIN. Qu’est-ce que nous faisons ? De quoi est-ce que nous nous apercevons ?
+qui sont assurément dans la psychanalyse ce qu’il y a eu *de plus efficace* et, dans certains cas, *de moins bête* …par des femmes, par Mélanie KLEIN. Qu’est-ce que nous faisons ? De quoi est-ce que nous nous apercevons ?
 
 <!-- id: s15-10-0153 -->
 
@@ -660,13 +668,17 @@ Cela ne fait aucune espèce de doute qu’avant la naissance de la logique moder
 
 <!-- id: s15-10-0162 -->
 
-> ce n’est pas aujourd’hui qu’il faut le démontrer, mais ce serait aisé, et en tout cas j’en propose le problème, la trace et l’indication, ce pourrait être l’objet d’un travail fort élégant, plus élégant que je ne saurais le faire moi-même,
->
-> de la part d’un logicien …ce qui fonde, ce qui légitime, ce qui motive l’existence de la logique, c’est ce point infime que de définir le champ où n’est rien le *sujet supposé savoir*. C’est précisément parce qu’il n’est rien là, et qu’ailleurs il est *fallace*, que nous qui sommes entre les deux, à prendre appui sur la logique d’une part, sur notre expérience de l’autre, nous pourrons au moins introduire une question dont il n’est pas sûr…
+ce n’est pas aujourd’hui qu’il faut le démontrer, mais ce serait aisé, et en tout cas j’en propose le problème, la trace et l’indication, ce pourrait être l’objet d’un travail fort élégant, plus élégant que je ne saurais le faire moi-même,
+
+de la part d’un logicien …ce qui fonde, ce qui légitime, ce qui motive l’existence de la logique, c’est ce point infime que de définir le champ où n’est rien le *sujet supposé savoir*. C’est précisément parce qu’il n’est rien là, et qu’ailleurs il est *fallace*, que nous qui sommes entre les deux, à prendre appui sur la logique d’une part, sur notre expérience de l’autre, nous pourrons au moins introduire une question dont il n’est pas sûr…
 
 <!-- id: s15-10-0163 -->
 
-> « *Le pire* - comme dit CLAUDEL[^80] - *n’est pas toujours sûr.* » …qu’elle soit à jamais sans effet chez les *psychanalystes*.
+<div class="text-quotation">
+
+« *Le pire* - comme dit CLAUDEL[^80] - *n’est pas toujours sûr.* » …qu’elle soit à jamais sans effet chez les *psychanalystes*.
+
+</div>
 
 ## Notes
 

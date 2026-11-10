@@ -4,10 +4,10 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班VIII
-  - 领域/古典学
-  - 领域/宗教
+  - 领域/宗教与神话/宗教与仪式
   - 传统/古希腊宗教
   - 人物/苏格拉底
+  - 时期/古典时代
 verified_at: 2026-07-28
 ---
 
@@ -23,6 +23,9 @@ verified_at: 2026-07-28
 - [Socrates, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/socrates/)（英文；哲学百科）
 
 ## 关联
+
+[[知识库/Daimon与Theos：神性力量、中介与诸神.md|Daimon 与 Theos：神性力量、中介与诸神]]
+[[知识库/Atopia：苏格拉底的不可定位性与欲望的位置.md|Atopia：苏格拉底的不可定位性与欲望的位置]]
 
 [[texts/s8-le-transfert/translation/Leçon-06.md#s8-06-0024|s8-06-0024]]
 [[texts/s8-le-transfert/translation/Leçon-06.md#s8-06-0029|s8-06-0029]]

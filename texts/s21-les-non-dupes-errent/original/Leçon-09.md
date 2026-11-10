@@ -18,7 +18,7 @@ Bon. Alors j’entre dans le vif du sujet, quoique j’aie bien sûr envie plut�
 
 <!-- id: s21-09-0004 -->
 
-> du même coup que je vous donne, je m’en excuse ...je vous donne à manger du foin, c’est du foin tout ça. C’est des trucs qui s’entrecroisent et qui ne passent pas.
+du même coup que je vous donne, je m’en excuse ...je vous donne à manger du foin, c’est du foin tout ça. C’est des trucs qui s’entrecroisent et qui ne passent pas.
 
 <!-- id: s21-09-0005 -->
 
@@ -26,9 +26,9 @@ De sorte que j’ai pas à me plaindre en ce sens que de deux choses l’une : \
 
 <!-- id: s21-09-0006 -->
 
-> mon foin tel quel, enfin c’est pas du tout quelque chose qu’on ne supporte pas,
->
-> on me le ressert tel que je l’ai proposé ...c’est ce qui arrive à certains - et alors il y a des personnes, par exemple, que ce foin chatouille tellement à l’entrée de la gorge, qu’elles me vomissent du Claudel, par exemple. \[*Rires*\]
+mon foin tel quel, enfin c’est pas du tout quelque chose qu’on ne supporte pas,
+
+on me le ressert tel que je l’ai proposé ...c’est ce qui arrive à certains - et alors il y a des personnes, par exemple, que ce foin chatouille tellement à l’entrée de la gorge, qu’elles me vomissent du Claudel, par exemple. \[*Rires*\]
 
 <!-- id: s21-09-0007 -->
 
@@ -68,11 +68,11 @@ Il doit y avoir des raisons pour ça, parce qu’on voit pas du tout pourquoi...
 
 <!-- id: s21-09-0016 -->
 
-> enfin, on voit pas au premier abord ...on voit pas pourquoi on n’aurait pas essayé de *serrer* le point...
+enfin, on voit pas au premier abord ...on voit pas pourquoi on n’aurait pas essayé de *serrer* le point...
 
 <!-- id: s21-09-0017 -->
 
-> de faire le *point*, si vous voulez ...avec ça plutôt qu’avec des choses qui se coupent. C’est un fait que ça ne s’est pas passé comme ça.
+de faire le *point*, si vous voulez ...avec ça plutôt qu’avec des choses qui se coupent. C’est un fait que ça ne s’est pas passé comme ça.
 
 <!-- id: s21-09-0018 -->
 
@@ -84,7 +84,7 @@ C’est pas du tout que ceux qu’on appelle « *les philosophes »*...
 
 <!-- id: s21-09-0020 -->
 
-> c’est-à-dire, mon Dieu, ceux qui essayent de dire quelque chose à nos États, enfin d’y répondre ...c’est pas du tout qu’on n’ait pas trace que ces his­toires de nœuds, justement, ça ne les ait pas intéressés.
+c’est-à-dire, mon Dieu, ceux qui essayent de dire quelque chose à nos États, enfin d’y répondre ...c’est pas du tout qu’on n’ait pas trace que ces his­toires de nœuds, justement, ça ne les ait pas intéressés.
 
 <!-- id: s21-09-0021 -->
 
@@ -196,7 +196,7 @@ C’est-à-dire que ce que vous voyez ici passer une fois, à l’intérieur des
 
 <!-- id: s21-09-0048 -->
 
-> c’est pour ça que je les ai présentés comme ça ...libres l’un de l’autre, vous faites ça, en réalité ici vous voyez, deux fois.
+c’est pour ça que je les ai présentés comme ça ...libres l’un de l’autre, vous faites ça, en réalité ici vous voyez, deux fois.
 
 <!-- id: s21-09-0049 -->
 
@@ -228,7 +228,7 @@ Vous pouvez tresser aussi longtemps que vous voudrez...
 
 <!-- id: s21-09-0056 -->
 
-> pourvu que vous vous en teniez à un multiple de 6 ...aussi longtemps que vous voudrez, la tresse en question ce sera toujours un nœud borroméen.
+pourvu que vous vous en teniez à un multiple de 6 ...aussi longtemps que vous voudrez, la tresse en question ce sera toujours un nœud borroméen.
 
 <!-- id: s21-09-0057 -->
 
@@ -236,7 +236,7 @@ Déjà à soi tout seul, ça semble ouvrir la porte à une infinité de nœud bo
 
 <!-- id: s21-09-0058 -->
 
-> déjà réalisée virtuellement puisque vous pouvez la concevoir ...cette infinité ne se limite pas là.
+déjà réalisée virtuellement puisque vous pouvez la concevoir ...cette infinité ne se limite pas là.
 
 <!-- id: s21-09-0059 -->
 
@@ -244,7 +244,7 @@ Tel l’exemple que je vous en donne au tableau sous la forme de cette façon...
 
 <!-- id: s21-09-0060 -->
 
-> on ne peut pas dire que les instruments soient commodes ...sous la forme de cette façon de l’inscrire, c’est à savoir que vous voyez qu’ici la boucle, si je puis dire, est double, et que le nœud borroméen, s’il se réalise d’une façon que j’avais d’abord tracée d’une façon telle qu’on voie bien, *<u>en tirant d’ici</u>*, que ça fait nœud.
+on ne peut pas dire que les instruments soient commodes ...sous la forme de cette façon de l’inscrire, c’est à savoir que vous voyez qu’ici la boucle, si je puis dire, est double, et que le nœud borroméen, s’il se réalise d’une façon que j’avais d’abord tracée d’une façon telle qu’on voie bien, *<u>en tirant d’ici</u>*, que ça fait nœud.
 
 <!-- id: s21-09-0061 -->
 
@@ -268,7 +268,7 @@ Il devient entièrement symétrique, et il a l’intérêt de nous représentifi
 
 <!-- id: s21-09-0066 -->
 
-> la symétrie, en deux mots, n’est-ce pas : *la*, *symétrie* ...d’un autre côté, c’est-à-dire de nous montrer qu’il y a une façon de présenter le nœud borroméen qui, dans son tracé même, nous impose le surgissement de la symétrie, à savoir du 2.
+la symétrie, en deux mots, n’est-ce pas : *la*, *symétrie* ...d’un autre côté, c’est-à-dire de nous montrer qu’il y a une façon de présenter le nœud borroméen qui, dans son tracé même, nous impose le surgissement de la symétrie, à savoir du 2.
 
 <!-- id: s21-09-0067 -->
 
@@ -316,9 +316,9 @@ C’est même une des façons les plus claires d’imager ceci que vous pouvez..
 
 <!-- id: s21-09-0078 -->
 
-> si vous faites passer à l’intérieur du nœud que j’appelle... de la boucle que j’appelle « *boucle pliée* »,
->
-> si vous faites passer une autre boucle pliée de la même façon ...vous pourrez nouer un nombre indéfini de ces ronds de ficelle, et qu’il suffira qu’un *soit rompu*, qu’un *fasse défaut*, qu’un *manque*, pour que tous les autres se libèrent.
+si vous faites passer à l’intérieur du nœud que j’appelle... de la boucle que j’appelle « *boucle pliée* »,
+
+si vous faites passer une autre boucle pliée de la même façon ...vous pourrez nouer un nombre indéfini de ces ronds de ficelle, et qu’il suffira qu’un *soit rompu*, qu’un *fasse défaut*, qu’un *manque*, pour que tous les autres se libèrent.
 
 <!-- id: s21-09-0079 -->
 
@@ -326,9 +326,9 @@ Moyennant quoi, ce qui ne peut que vous venir à l’esprit, c’est que...
 
 <!-- id: s21-09-0080 -->
 
-> puisque ce que vous avez ajouté un nombre indéfini de fois,
->
-> ce sont des nœuds pliés pris les uns dans les autres ...vous n’êtes pas forcés de terminer par ce que vous voyez ici fonc­tionner, à savoir un simple rond de ficelle.
+puisque ce que vous avez ajouté un nombre indéfini de fois,
+
+ce sont des nœuds pliés pris les uns dans les autres ...vous n’êtes pas forcés de terminer par ce que vous voyez ici fonc­tionner, à savoir un simple rond de ficelle.
 
 <!-- id: s21-09-0081 -->
 
@@ -348,7 +348,7 @@ Vous pouvez boucler le cercle complet d’une façon qui fasse se fermer la chos
 
 <!-- id: s21-09-0085 -->
 
-> dont vous voyez qu’il peut fonctionner sur un beaucoup plus grand nombre ...du maniement à 3 vous faites surgir cette figure dont je vous ai dit qu’elle présentifiait *la symétrie dans le nœud borroméen* même, c’est-à-dire qu’elle y inscrit le 2.
+dont vous voyez qu’il peut fonctionner sur un beaucoup plus grand nombre ...du maniement à 3 vous faites surgir cette figure dont je vous ai dit qu’elle présentifiait *la symétrie dans le nœud borroméen* même, c’est-à-dire qu’elle y inscrit le 2.
 
 <!-- id: s21-09-0086 -->
 
@@ -356,11 +356,11 @@ Ce qu’il faut souligner, avant de clore cette démonstration disons *figurée,
 
 <!-- id: s21-09-0087 -->
 
-> pour les appeler ainsi de la façon qui image le mieux ...à chacun de *ces ronds de ficelle* vous pouvez donner, par une manipulation suffisamment régulière...
+pour les appeler ainsi de la façon qui image le mieux ...à chacun de *ces ronds de ficelle* vous pouvez donner, par une manipulation suffisamment régulière...
 
 <!-- id: s21-09-0088 -->
 
-> vous ne pourriez pas vous étonner de la patience qu’il vous faudra ...à chacun des 3, à savoir *aussi bien à* *ce rond de ficelle là* \[*ici en rouge*\], *que ce rond de ficelle là* aussi \[*ici en vert*\], vous pouvez donner exactement la même place qui est celle que vous voyez ici figurée du 3<sup>ème</sup>.
+vous ne pourriez pas vous étonner de la patience qu’il vous faudra ...à chacun des 3, à savoir *aussi bien à* *ce rond de ficelle là* \[*ici en rouge*\], *que ce rond de ficelle là* aussi \[*ici en vert*\], vous pouvez donner exactement la même place qui est celle que vous voyez ici figurée du 3<sup>ème</sup>.
 
 <!-- id: s21-09-0089 -->
 
@@ -420,7 +420,11 @@ Est-ce que *ceci* ne nous introduit pas...
 
 <!-- id: s21-09-0103 -->
 
-> « *ceci »* : ce nœud ! ...à cette considération que l’*Imaginaire* n’est pas ce qu’il y a de plus recommandé pour trouver la règle *du jeu de l’amour*.
+<div class="text-quotation">
+
+« *ceci »* : ce nœud ! ...à cette considération que l’*Imaginaire* n’est pas ce qu’il y a de plus recommandé pour trouver la règle *du jeu de l’amour*.
+
+</div>
 
 <!-- id: s21-09-0104 -->
 
@@ -436,17 +440,17 @@ Pourquoi est-ce que ça ne serait pas ce *moyen*...
 
 <!-- id: s21-09-0107 -->
 
-> comme d’ailleurs l’indique que c’est au niveau de ce *moyen* que se produit, cette fois, 2 fois 2 ...pourquoi est-ce que ce ne serait pas ce *moyen*...
+comme d’ailleurs l’indique que c’est au niveau de ce *moyen* que se produit, cette fois, 2 fois 2 ...pourquoi est-ce que ce ne serait pas ce *moyen*...
 
 <!-- id: s21-09-0108 -->
 
-> dont je viens de vous souligner qu’il est d’ailleurs *gyrovague*, c’est-à-dire vagabond,
->
-> qu’il peut aussi bien être rempli par un quelconque des trois ...pourquoi est-ce que ce ne serait pas ce *moyen* qui...
+dont je viens de vous souligner qu’il est d’ailleurs *gyrovague*, c’est-à-dire vagabond,
+
+qu’il peut aussi bien être rempli par un quelconque des trois ...pourquoi est-ce que ce ne serait pas ce *moyen* qui...
 
 <!-- id: s21-09-0109 -->
 
-> à se pourvoir d’une suspecte façon de cette forme, de cette forme d’image de lui-même ...ce *moyen* qui livrerait, correctement pensé - à savoir à travers le *Réel* de ces connections - le res­sort de ces nœuds ?
+à se pourvoir d’une suspecte façon de cette forme, de cette forme d’image de lui-même ...ce *moyen* qui livrerait, correctement pensé - à savoir à travers le *Réel* de ces connections - le res­sort de ces nœuds ?
 
 <!-- id: s21-09-0110 -->
 
@@ -514,19 +518,19 @@ C’est évidemment la *raison*...
 
 <!-- id: s21-09-0126 -->
 
-> si je puis dire, *raison* pour travailler ...mais *raison* qui si je puis dire, n’est pas sans nous porter *tort*, non pas parce que les ronds de ficelle, c’est déjà une figure *torique*, sinon tordue, c’est bien plus loin encore : de ce fait très singulier que même la mathématique n’est pas arrivée à trouver encore l’algorithme, l’algorithme le plus simple, à savoir celui qui nous permettrait...
+si je puis dire, *raison* pour travailler ...mais *raison* qui si je puis dire, n’est pas sans nous porter *tort*, non pas parce que les ronds de ficelle, c’est déjà une figure *torique*, sinon tordue, c’est bien plus loin encore : de ce fait très singulier que même la mathématique n’est pas arrivée à trouver encore l’algorithme, l’algorithme le plus simple, à savoir celui qui nous permettrait...
 
 <!-- id: s21-09-0127 -->
 
-> en présence, certes, d’autres formes de nœuds que celle du nœud borroméen ...de trouver ce quelque chose qui nous livrerait pour les nœuds, en tant qu’ils intéressent plus d’un rond de ficelle, car pour un seul rond de ficelle, se nouant à lui-même, elle l’a cet algorithme...
+en présence, certes, d’autres formes de nœuds que celle du nœud borroméen ...de trouver ce quelque chose qui nous livrerait pour les nœuds, en tant qu’ils intéressent plus d’un rond de ficelle, car pour un seul rond de ficelle, se nouant à lui-même, elle l’a cet algorithme...
 
 <!-- id: s21-09-0128 -->
 
-> je pourrais facilement - je l’ai déjà fait - vous mettre au tableau la figure de quelque chose qui aurait à peu près
->
-> le même aspect que la figure centrale, et qui ne serait néanmoins qu’un seul rond de ficelle.
->
-> Je dis *à peu près* car évidemment elle ne serait pas pareille ...à *un seul* rond de ficelle, elle peut savoir ce qui est homéomorphique, à *plusieurs* ronds de ficelle l’algorithme n’est pas trouvé.
+je pourrais facilement - je l’ai déjà fait - vous mettre au tableau la figure de quelque chose qui aurait à peu près
+
+le même aspect que la figure centrale, et qui ne serait néanmoins qu’un seul rond de ficelle.
+
+Je dis *à peu près* car évidemment elle ne serait pas pareille ...à *un seul* rond de ficelle, elle peut savoir ce qui est homéomorphique, à *plusieurs* ronds de ficelle l’algorithme n’est pas trouvé.
 
 <!-- id: s21-09-0129 -->
 
@@ -562,7 +566,7 @@ Ce qui ne vous met nullement à l’abri...
 
 <!-- id: s21-09-0137 -->
 
-> surtout si vous êtes en analyse avec moi ...de me le supposer, ce *savoir*, comme quelque chose que je n’inventerais pas.
+surtout si vous êtes en analyse avec moi ...de me le supposer, ce *savoir*, comme quelque chose que je n’inventerais pas.
 
 <!-- id: s21-09-0138 -->
 
@@ -594,7 +598,7 @@ C’est que que tout mi-dire, mi-dire du vrai a la mort pour principe, car le vr
 
 <!-- id: s21-09-0145 -->
 
-> c’est quand même là quelque chose dont l’expérience analytique peut nous donner le contact ...*le vrai n’a aucune autre façon de pouvoir être défini que ce qui en somme fait que le corps va à la jouissance*, et qu’en ceci, ce par quoi il y est forcé, ce n’est pas autre chose que le principe, le principe par quoi le sexe est très spécifiquement lié à la mort du corps.
+c’est quand même là quelque chose dont l’expérience analytique peut nous donner le contact ...*le vrai n’a aucune autre façon de pouvoir être défini que ce qui en somme fait que le corps va à la jouissance*, et qu’en ceci, ce par quoi il y est forcé, ce n’est pas autre chose que le principe, le principe par quoi le sexe est très spécifiquement lié à la mort du corps.
 
 <!-- id: s21-09-0146 -->
 
@@ -610,9 +614,9 @@ Je dirai même plus, comme il s’agit de la mort...
 
 <!-- id: s21-09-0149 -->
 
-> c’est même pour ça que nous n’avons jamais que la vrai-semblance, parce que cette mort, principe du vrai,
->
-> cette mort chez l’être parlant en tant qu’il parle, c’est jamais que du chiqué ...la mort, vraiment, pour l’avoir devant soi, c’est pas à la portée du vrai.
+c’est même pour ça que nous n’avons jamais que la vrai-semblance, parce que cette mort, principe du vrai,
+
+cette mort chez l’être parlant en tant qu’il parle, c’est jamais que du chiqué ...la mort, vraiment, pour l’avoir devant soi, c’est pas à la portée du vrai.
 
 <!-- id: s21-09-0150 -->
 
@@ -632,15 +636,15 @@ Ce qui est forcé, c’est le fait de la mort, et chacun sait... que ce soit au 
 
 <!-- id: s21-09-0154 -->
 
-> car je sais pas si vous vous êtes bien aperçus que ce pourquoi c’est fait, toute cette histoire, cette histoire du Christ qui ne parle que de la jouissance : ces « *lys des champs qui ne tissent ni ne filent* » - qui traverse, lui - le mythe l’affirme ! - la mort ...tout ça en fin de compte n’a de fin...
+car je sais pas si vous vous êtes bien aperçus que ce pourquoi c’est fait, toute cette histoire, cette histoire du Christ qui ne parle que de la jouissance : ces « *lys des champs qui ne tissent ni ne filent* » - qui traverse, lui - le mythe l’affirme ! - la mort ...tout ça en fin de compte n’a de fin...
 
 <!-- id: s21-09-0155 -->
 
-> ce que nous voyons s’étaler sur des kilomètres de toile ...n’a de fin que de produire des *corps glorieux* dont on se demande ce qu’ils vont faire pendant l’éternité...
+ce que nous voyons s’étaler sur des kilomètres de toile ...n’a de fin que de produire des *corps glorieux* dont on se demande ce qu’ils vont faire pendant l’éternité...
 
 <!-- id: s21-09-0156 -->
 
-> même mis en rond dans un cercle de théâtre ...ce qu’ils vont bien pouvoir faire à contempler on ne sait quoi.
+même mis en rond dans un cercle de théâtre ...ce qu’ils vont bien pouvoir faire à contempler on ne sait quoi.
 
 <!-- id: s21-09-0157 -->
 
@@ -648,7 +652,7 @@ C’est tout de même curieux que ce soit par cette voie...
 
 <!-- id: s21-09-0158 -->
 
-> cette voie non pas du vrai, mais du *Beau* ...que ce soit par cette voie que se soit pour la 1<sup>ère</sup> fois manifesté le dogme de la *Trinité divine*, il faut dire que c’est un mystère ! C’est un mystère dont on s’est approché, mais pas sans un certain nombre de glissements.
+cette voie non pas du vrai, mais du *Beau* ...que ce soit par cette voie que se soit pour la 1<sup>ère</sup> fois manifesté le dogme de la *Trinité divine*, il faut dire que c’est un mystère ! C’est un mystère dont on s’est approché, mais pas sans un certain nombre de glissements.
 
 <!-- id: s21-09-0159 -->
 
@@ -696,7 +700,7 @@ La seule vertu que je vois sortir de cette interrogation...
 
 <!-- id: s21-09-0170 -->
 
-> et je vous l’indique là pendant qu’il en est temps, parce que, on ne la verra plus ...la seule vertu, si il n’y a pas de rapport sexuel, comme je l’énonce, c’est la *pudeur.*
+et je vous l’indique là pendant qu’il en est temps, parce que, on ne la verra plus ...la seule vertu, si il n’y a pas de rapport sexuel, comme je l’énonce, c’est la *pudeur.*
 
 <!-- id: s21-09-0171 -->
 
@@ -720,7 +724,7 @@ J’ai dit ça comme ça, à une personne...
 
 <!-- id: s21-09-0176 -->
 
-> je vois pas du tout pourquoi je macherais mes mots ...j’ai dit ça à une personne qui a recraché *ce foin*, très gentiment, parce que c’est une personne qui n’a recraché, vraiment strictement *que le foin que je lui ai mis dans la bouche*. C’est pas plus mal qu’autre chose. C’est mon foin, quoi...
+je vois pas du tout pourquoi je macherais mes mots ...j’ai dit ça à une personne qui a recraché *ce foin*, très gentiment, parce que c’est une personne qui n’a recraché, vraiment strictement *que le foin que je lui ai mis dans la bouche*. C’est pas plus mal qu’autre chose. C’est mon foin, quoi...
 
 <!-- id: s21-09-0177 -->
 
@@ -784,11 +788,11 @@ On a parlé de tout ce qu’on veut, de « *substance étendue »*, de « *su
 
 <!-- id: s21-09-0192 -->
 
-> puisque la vie nous ne la voyons que dans des corps qui sont, après tout - quoi ? - des choses de *l’ordre des bactéries*,
->
-> des choses qui foisonnent comme ça, enfin on en a rapidement trois kilos quand on a eu un milli­gramme…
->
-> on ne voit pas bien quel rapport il y a entre ça et notre corps ...mais *que la définition même d’un corps, c’est que ce soit une substance jouissante*, comment est-ce que ça n’a été encore jamais énon­cé par personne ?
+puisque la vie nous ne la voyons que dans des corps qui sont, après tout - quoi ? - des choses de *l’ordre des bactéries*,
+
+des choses qui foisonnent comme ça, enfin on en a rapidement trois kilos quand on a eu un milli­gramme…
+
+on ne voit pas bien quel rapport il y a entre ça et notre corps ...mais *que la définition même d’un corps, c’est que ce soit une substance jouissante*, comment est-ce que ça n’a été encore jamais énon­cé par personne ?
 
 <!-- id: s21-09-0193 -->
 
@@ -808,7 +812,7 @@ Il y a quand même une remarque que j’aimerais bien vous faire, concernant la 
 
 <!-- id: s21-09-0197 -->
 
-> et il y a quelque chose de piquant que je vais vous dire après ...ce à quoi les corps tendent, c’est à se nouer.
+et il y a quelque chose de piquant que je vais vous dire après ...ce à quoi les corps tendent, c’est à se nouer.
 
 <!-- id: s21-09-0198 -->
 
@@ -856,7 +860,7 @@ Parce que le seul fait que quand il bafouille...
 
 <!-- id: s21-09-0209 -->
 
-> faute de connaître la règle du jeu ...il articule les nœuds de l’amour.
+faute de connaître la règle du jeu ...il articule les nœuds de l’amour.
 
 <!-- id: s21-09-0210 -->
 
@@ -872,7 +876,7 @@ Je me laisse comme ça un tout petit peu aller, comme ça à faire des parenthè
 
 <!-- id: s21-09-0213 -->
 
-> vous me le pardonnerez, puisque vous me le pardonnez habituellement ...mais c’est quand même incroyable que la puissance du rêve ait été jusqu’à faire d’une fonction corporelle, le sommeil, un *désir*.
+vous me le pardonnerez, puisque vous me le pardonnez habituellement ...mais c’est quand même incroyable que la puissance du rêve ait été jusqu’à faire d’une fonction corporelle, le sommeil, un *désir*.
 
 <!-- id: s21-09-0214 -->
 
@@ -916,13 +920,13 @@ Il fau­drait quand même...
 
 <!-- id: s21-09-0224 -->
 
-> ça c’est un machin, là comme ça, que j’ai brassé, parce qu’au niveau où j’étais dans cette *Télévision*,
->
-> hein, de parler de l’âme et de l’inconscient ...l’inconscient, ça pourrait être tout à fait autre chose qu’un *supposé*, parce que *le savoir*...
+ça c’est un machin, là comme ça, que j’ai brassé, parce qu’au niveau où j’étais dans cette *Télévision*,
+
+hein, de parler de l’âme et de l’inconscient ...l’inconscient, ça pourrait être tout à fait autre chose qu’un *supposé*, parce que *le savoir*...
 
 <!-- id: s21-09-0225 -->
 
-> si c’est vrai ce que j’en ai avancé la dernière fois ...c’est pas du tout forcé de le *supposer* : c’est un savoir en cours de construction.
+si c’est vrai ce que j’en ai avancé la dernière fois ...c’est pas du tout forcé de le *supposer* : c’est un savoir en cours de construction.
 
 <!-- id: s21-09-0226 -->
 
@@ -958,7 +962,7 @@ Alors, il faudrait que les mathématiciens passent sous le joug du *jeu de l’a
 
 <!-- id: s21-09-0234 -->
 
-> car je dois vous l’avouer, j’en suis vraiment embarrassé, plus que vous ne pouvez croire ...je passe ma journée à en faire, des nœuds borroméens, pendant que c’est… là, comme ça, je tri­cote. \[*Rires*\]
+car je dois vous l’avouer, j’en suis vraiment embarrassé, plus que vous ne pouvez croire ...je passe ma journée à en faire, des nœuds borroméens, pendant que c’est… là, comme ça, je tri­cote. \[*Rires*\]
 
 <!-- id: s21-09-0235 -->
 

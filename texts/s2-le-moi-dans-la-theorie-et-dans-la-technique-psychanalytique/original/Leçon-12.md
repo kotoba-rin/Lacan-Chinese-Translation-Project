@@ -74,7 +74,7 @@ C’est un monsieur nommé JANET…
 
 <!-- id: s2-12-0018 -->
 
-> qui n’est d’ailleurs pas tra­vailleur sans mérite, encore que tout à fait éclipsé par la découverte freudienne
+qui n’est d’ailleurs pas tra­vailleur sans mérite, encore que tout à fait éclipsé par la découverte freudienne
 
 <!-- id: s2-12-0019 -->
 
@@ -94,7 +94,7 @@ Tandis que nous, c’est justement :
 
 <!-- id: s2-12-0023 -->
 
-> *qu’est-ce que c’est que ce qu’on peut appeler le sens ?*
+*qu’est-ce que c’est que ce qu’on peut appeler le sens ?*
 
 <!-- id: s2-12-0024 -->
 
@@ -126,11 +126,11 @@ L’originalité de cette première ébauche que FREUD nous donne…
 
 <!-- id: s2-12-0031 -->
 
-> de tenta­tive de dessin de l’appareil psychique humain, ce qui est important, frappant,
->
-> distinct de tous les auteurs qui ont écrit
->
-> sur le même sujet, et même du grand FECHNER, auquel il se réfère sans cesse
+de tenta­tive de dessin de l’appareil psychique humain, ce qui est important, frappant,
+
+distinct de tous les auteurs qui ont écrit
+
+sur le même sujet, et même du grand FECHNER, auquel il se réfère sans cesse
 
 <!-- id: s2-12-0032 -->
 
@@ -138,7 +138,7 @@ L’originalité de cette première ébauche que FREUD nous donne…
 
 <!-- id: s2-12-0033 -->
 
-> *retrouvailles au sens de la réminiscence*, où le sujet retrouve les rails préformés de son rapport naturel au monde extérieur
+*retrouvailles au sens de la réminiscence*, où le sujet retrouve les rails préformés de son rapport naturel au monde extérieur
 
 <!-- id: s2-12-0034 -->
 
@@ -158,7 +158,7 @@ Déjà il arrive à cette réalité profonde au niveau de ce qu’il faut appele
 
 <!-- id: s2-12-0038 -->
 
-> le terme étant, pour la psychologie de l’époque, maintenu pour équivalent
+le terme étant, pour la psychologie de l’époque, maintenu pour équivalent
 
 <!-- id: s2-12-0039 -->
 
@@ -174,7 +174,7 @@ Déjà il arrive à cette réalité profonde au niveau de ce qu’il faut appele
 
 <!-- id: s2-12-0042 -->
 
-> si irrégulière.
+si irrégulière.
 
 <!-- id: s2-12-0043 -->
 
@@ -266,7 +266,7 @@ Jean-Paul VALABREGA
 
 <!-- id: s2-12-0065 -->
 
-> de représentation de la vie éveillée.
+de représentation de la vie éveillée.
 
 <!-- id: s2-12-0066 -->
 
@@ -290,7 +290,7 @@ Plus loin, après l’exposé des schémas, il va revenir sur cette idée, et di
 
 <!-- id: s2-12-0071 -->
 
-> dans une synthèse qu’il fait après sa conception de l’appareil
+dans une synthèse qu’il fait après sa conception de l’appareil
 
 <!-- id: s2-12-0072 -->
 
@@ -410,7 +410,7 @@ Et si maintenant nous introduisons…
 
 <!-- id: s2-12-0101 -->
 
-> car il dit que jusqu’ici nous n’avons pas tenu compte, dans notre schéma, du rêve et de sa psychologie
+car il dit que jusqu’ici nous n’avons pas tenu compte, dans notre schéma, du rêve et de sa psychologie
 
 <!-- id: s2-12-0102 -->
 
@@ -454,7 +454,7 @@ La remarque de VALABREGA vaut à elle toute seule, indépendamment de la ten­ta
 
 <!-- id: s2-12-0112 -->
 
-> dans un schéma qui, je vous le rappelle, n’est pas purement spatial, mais successif
+dans un schéma qui, je vous le rappelle, n’est pas purement spatial, mais successif
 
 <!-- id: s2-12-0113 -->
 
@@ -554,7 +554,7 @@ Non, ce n’est pas une solution. Je vais dire pourquoi. C’est que si on avait
 
 <!-- id: s2-12-0137 -->
 
-> dans une *très courte note* \[Cf. note 1 p.460, éd. PUF 1967 ; p.594 éd. PUF 2003\] seulement, où il assimile P et C
+dans une *très courte note* \[Cf. note 1 p.460, éd. PUF 1967 ; p.594 éd. PUF 2003\] seulement, où il assimile P et C
 
 <!-- id: s2-12-0138 -->
 
@@ -694,11 +694,15 @@ La pensée *behavioriste* dit ceci :
 
 <!-- id: s2-12-0172 -->
 
-> « *Bien entendu, la conscience est quelque chose qui pose des problèmes. Nous, behavioristes, résolvons la question*
->
-> *en décrivant des phénomènes, et en opérant sur eux, sans jamais tenir aucun compte qu’elle existe comme telle.*
->
-> *Là où manifestement elle est opérante, elle est un stade, une étape simplement, nous n’en parlons pas !* »
+<div class="text-quotation">
+
+« *Bien entendu, la conscience est quelque chose qui pose des problèmes. Nous, behavioristes, résolvons la question*
+
+*en décrivant des phénomènes, et en opérant sur eux, sans jamais tenir aucun compte qu’elle existe comme telle.*
+
+*Là où manifestement elle est opérante, elle est un stade, une étape simplement, nous n’en parlons pas !* »
+
+</div>
 
 <!-- id: s2-12-0173 -->
 

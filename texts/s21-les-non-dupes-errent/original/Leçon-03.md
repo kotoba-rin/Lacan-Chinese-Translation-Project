@@ -22,9 +22,9 @@ C’est un nœud borroméen...
 
 <!-- id: s21-03-0005 -->
 
-> je vous avertis que, aujourd’hui, je ne parlerai que de ça.
->
-> Alors s’il y en a que ça emmerde, qu’ils sortent, ça me soulagera ...c’est un nœud borroméen.
+je vous avertis que, aujourd’hui, je ne parlerai que de ça.
+
+Alors s’il y en a que ça emmerde, qu’ils sortent, ça me soulagera ...c’est un nœud borroméen.
 
 <!-- id: s21-03-0006 -->
 
@@ -68,7 +68,7 @@ Vous avez des difficultés...
 
 <!-- id: s21-03-0016 -->
 
-> non pas du tout réelles ...vous avez des difficultés à vous bien rendre compte tout de suite à quoi ça va aboutir, combien il va falloir que vous en mettiez dans un sens, et puis dans l’autre. Essayez vous-mêmes...
+non pas du tout réelles ...vous avez des difficultés à vous bien rendre compte tout de suite à quoi ça va aboutir, combien il va falloir que vous en mettiez dans un sens, et puis dans l’autre. Essayez vous-mêmes...
 
 <!-- id: s21-03-0017 -->
 
@@ -76,7 +76,7 @@ Essayez surtout... il y avait un autre truc que je ne vous ai pas apporté, il y
 
 <!-- id: s21-03-0018 -->
 
-> c’est pas rond, c’est tout comme ...des deux ronds que ça constitue se libère si vous voulez, si vous en tranchez un.
+c’est pas rond, c’est tout comme ...des deux ronds que ça constitue se libère si vous voulez, si vous en tranchez un.
 
 <!-- id: s21-03-0019 -->
 
@@ -161,7 +161,7 @@ Je m’excuse auprès des artistes...
 
 <!-- id: s21-03-0039 -->
 
-> il y en a peut-être quelques-uns, là, égarés dans l’assistance, quoique je n’y croie guère ...je m’excuse auprès des artistes, si la chose leur parvient : ils ne valent pas mieux que la religion. C’est pas beaucoup dire.
+il y en a peut-être quelques-uns, là, égarés dans l’assistance, quoique je n’y croie guère ...je m’excuse auprès des artistes, si la chose leur parvient : ils ne valent pas mieux que la religion. C’est pas beaucoup dire.
 
 <!-- id: s21-03-0040 -->
 
@@ -173,7 +173,7 @@ dont ce n’est pas la première fois qu’ici je l’évoque, de sorte que, je 
 
 <!-- id: s21-03-0042 -->
 
-> je me suis longtemps cassé la tête pour savoir pourquoi vous étiez si démesurément nombreux. Enfin à force de me la casser, un éclair en est sorti ...justement votre demande, celle qui vous attroupe là, c’est : comment - de la *connerie* - avoir une chance d’en sortir.
+je me suis longtemps cassé la tête pour savoir pourquoi vous étiez si démesurément nombreux. Enfin à force de me la casser, un éclair en est sorti ...justement votre demande, celle qui vous attroupe là, c’est : comment - de la *connerie* - avoir une chance d’en sortir.
 
 <!-- id: s21-03-0043 -->
 
@@ -205,7 +205,7 @@ Ce que répond *le discours analytique*, c’est ça : ce que vous faites, tout
 
 <!-- id: s21-03-0050 -->
 
-> contrairement à tout ce qui s’est pensé jusqu’à présent, parmi les spécialistes - « *philosophes »* qu’ils s’appellent ! ...non pas ignorance, l’*ignorance naturelle* comme s’exprime Pascal.
+contrairement à tout ce qui s’est pensé jusqu’à présent, parmi les spécialistes - « *philosophes »* qu’ils s’appellent ! ...non pas ignorance, l’*ignorance naturelle* comme s’exprime Pascal.
 
 <!-- id: s21-03-0051 -->
 
@@ -213,11 +213,11 @@ Je remercie quelqu’un qui, pendant que je travaillais dimanche dernier, enfin,
 
 <!-- id: s21-03-0052 -->
 
-> d’ailleurs parce que je l’en avais expressément chargé ...c’était comme ça...
+d’ailleurs parce que je l’en avais expressément chargé ...c’était comme ça...
 
 <!-- id: s21-03-0053 -->
 
-> je vous le redirai tout à l’heure ...sous la forme d’une petite suggestion qui m’était venue de lui concernant Pascal.
+je vous le redirai tout à l’heure ...sous la forme d’une petite suggestion qui m’était venue de lui concernant Pascal.
 
 <!-- id: s21-03-0054 -->
 
@@ -229,7 +229,7 @@ C’est la personne qui m’a rendu ce service...
 
 <!-- id: s21-03-0056 -->
 
-> enfin, qui a un peu torchonné Pascal, comme ça, pour m’éviter d’avoir à le faire, parce que j’étais claqué ...les *semi-habiles* il a cru pouvoir les identifier aux *non-dupes.*
+enfin, qui a un peu torchonné Pascal, comme ça, pour m’éviter d’avoir à le faire, parce que j’étais claqué ...les *semi-habiles* il a cru pouvoir les identifier aux *non-dupes.*
 
 <!-- id: s21-03-0057 -->
 
@@ -253,7 +253,7 @@ Donc, ce que répond le *discours analytique*, c’est ceci, ce que vous faites.
 
 <!-- id: s21-03-0062 -->
 
-> bien loin d’être le fait de *l’ignorance*, ...c’est toujours déterminé, déterminé déjà par *quelque chose qui est* « *<u>savoir</u>* » et que nous appelons *l’inconscient*.
+bien loin d’être le fait de *l’ignorance*, ...c’est toujours déterminé, déterminé déjà par *quelque chose qui est* « *<u>savoir</u>* » et que nous appelons *l’inconscient*.
 
 <!-- id: s21-03-0063 -->
 
@@ -261,7 +261,7 @@ Donc, ce que répond le *discours analytique*, c’est ceci, ce que vous faites.
 
 <!-- id: s21-03-0064 -->
 
-> *sait : s.a.i.t.* ...*sait ce que vous êtes, sait « vous »*.
+*sait : s.a.i.t.* ...*sait ce que vous êtes, sait « vous »*.
 
 <!-- id: s21-03-0065 -->
 
@@ -269,7 +269,7 @@ Ce que vous ne sentez pas assez...
 
 <!-- id: s21-03-0066 -->
 
-> enfin je peux pas le croire d’une assemblée aussi nombreuse ...c’est à quel point cet énoncé, c’est du nouveau.
+enfin je peux pas le croire d’une assemblée aussi nombreuse ...c’est à quel point cet énoncé, c’est du nouveau.
 
 <!-- id: s21-03-0067 -->
 
@@ -277,9 +277,9 @@ Jamais personne des *grands guignols* qui se sont occupés de la question du *sa
 
 <!-- id: s21-03-0068 -->
 
-> et Dieu sait que ce n’est pas sans malaise que j’y range Pascal aussi,
->
-> qui est le plus grand de tous les *grands guignols* ! ...jamais personne n’avait osé ce verdict, dont je vous fais remarquer ceci : la réponse de l’inconscient, c’est qu’elle implique le « *sans pardon »*, et même « *sans circonstances atténuantes »*.
+et Dieu sait que ce n’est pas sans malaise que j’y range Pascal aussi,
+
+qui est le plus grand de tous les *grands guignols* ! ...jamais personne n’avait osé ce verdict, dont je vous fais remarquer ceci : la réponse de l’inconscient, c’est qu’elle implique le « *sans pardon »*, et même « *sans circonstances atténuantes »*.
 
 <!-- id: s21-03-0069 -->
 
@@ -355,7 +355,7 @@ Il y a un auteur récent...
 
 <!-- id: s21-03-0087 -->
 
-> je m’excuse auprès de lui s’il est là : je n’ai pas encore eu le temps de le lire ...il appelle ça *Le Singe d’or* [^6].
+je m’excuse auprès de lui s’il est là : je n’ai pas encore eu le temps de le lire ...il appelle ça *Le Singe d’or* [^6].
 
 <!-- id: s21-03-0088 -->
 
@@ -440,7 +440,7 @@ Quand vous approchez certaines langues...
 
 <!-- id: s21-03-0108 -->
 
-> j’ai le sentiment que ce n’est pas faux de le dire de la langue chinoise ...vous vous apercevez que, moins imaginaires que les nôtres - les langues *indo-européennes* - c’est sur le nœud qu’elles jouent.
+j’ai le sentiment que ce n’est pas faux de le dire de la langue chinoise ...vous vous apercevez que, moins imaginaires que les nôtres - les langues *indo-européennes* - c’est sur le nœud qu’elles jouent.
 
 <!-- id: s21-03-0109 -->
 
@@ -480,7 +480,7 @@ Le nœud borroméen...
 
 <!-- id: s21-03-0118 -->
 
-> que comme ça j’ai vu surgir, je veux dire qu’il m’a en quelque sorte envahi ...le nœud borroméen n’a aucune espèce d’*être*.
+que comme ça j’ai vu surgir, je veux dire qu’il m’a en quelque sorte envahi ...le nœud borroméen n’a aucune espèce d’*être*.
 
 <!-- id: s21-03-0119 -->
 
@@ -504,7 +504,7 @@ Et même que ça va plus loin, que ça envahit...
 
 <!-- id: s21-03-0124 -->
 
-> et c’est bien en ça que c’est instructif ...ça envahit l’autre ordre.
+et c’est bien en ça que c’est instructif ...ça envahit l’autre ordre.
 
 <!-- id: s21-03-0125 -->
 
@@ -524,7 +524,7 @@ Pourquoi la mise à plat du nœud borroméen n’a-t-elle pas réussi, n’est-e
 
 <!-- id: s21-03-0129 -->
 
-> <img src="assets/image6.jpeg" style="width:1.77407in;height:1.61599in" alt="6a.jpg" />
+<img src="assets/image6.jpeg" style="width:1.77407in;height:1.61599in" alt="6a.jpg" />
 
 <!-- id: s21-03-0130 -->
 
@@ -568,11 +568,11 @@ Pourquoi est-ce que ce point, nous ne serions pas partis...
 
 <!-- id: s21-03-0140 -->
 
-> à condition de partir du nœud ...de l’idée qu’un point ça part...
+à condition de partir du nœud ...de l’idée qu’un point ça part...
 
 <!-- id: s21-03-0141 -->
 
-> ça part au départ, dans sa définition ...du point de tiraillement, par exemple. Ça vous dit rien, ça ?
+ça part au départ, dans sa définition ...du point de tiraillement, par exemple. Ça vous dit rien, ça ?
 
 <!-- id: s21-03-0142 -->
 
@@ -580,7 +580,7 @@ Entre votre *Symbolique*, votre *Imaginaire* et votre *Réel*...
 
 <!-- id: s21-03-0143 -->
 
-> depuis le temps que je vous les ressasse ...vous sentez pas que votre temps, votre temps se passe à être tiraillé ?
+depuis le temps que je vous les ressasse ...vous sentez pas que votre temps, votre temps se passe à être tiraillé ?
 
 <!-- id: s21-03-0144 -->
 
@@ -600,7 +600,7 @@ Le temps ce n’est peut-être que ça : l’« *étrinité* » de l’espace
 
 <!-- id: s21-03-0148 -->
 
-> <img src="assets/image7.png" style="width:1.24572in;height:1.21495in" alt="C:\Users\ALAIN\LACAN séminaires\S21 Documents\615px-BorromeanRings-Trinity.png" />
+<img src="assets/image7.png" style="width:1.24572in;height:1.21495in" alt="C:\Users\ALAIN\LACAN séminaires\S21 Documents\615px-BorromeanRings-Trinity.png" />
 
 <!-- id: s21-03-0149 -->
 
@@ -636,11 +636,11 @@ Si vous faites ça ensuite à l’autre...
 
 <!-- id: s21-03-0157 -->
 
-> c’est comme ça qu’il faut faire ...et si vous faites ensuite ça au 3<sup>ème</sup>...
+c’est comme ça qu’il faut faire ...et si vous faites ensuite ça au 3<sup>ème</sup>...
 
 <!-- id: s21-03-0158 -->
 
-> c’est comme ça qu’il faut faire ...à chaque fois vous renversez, c’est-à-dire que de *lévogyre* \[*sens anti-horaire*\] d’abord vous le faites *dextrogyre* \[*sens horaire*\], et que quand vous avez basculé le 3<sup>ème</sup>, il est de nouveau *lévogyre*.
+c’est comme ça qu’il faut faire ...à chaque fois vous renversez, c’est-à-dire que de *lévogyre* \[*sens anti-horaire*\] d’abord vous le faites *dextrogyre* \[*sens horaire*\], et que quand vous avez basculé le 3<sup>ème</sup>, il est de nouveau *lévogyre*.
 
 <!-- id: s21-03-0159 -->
 
@@ -680,9 +680,9 @@ Non pas bien sûr qu’il n’ait pas été, depuis bien longtemps, dénommé, c
 
 <!-- id: s21-03-0168 -->
 
-> heureusement qu’on a l’anglais, hein, pour distinguer *naming* de *nomination*,
->
-> *naming*  ça veut dire *to name*, ça veut dire donner le nom propre ...oui, c’est pas pour rien, naturellement, que j’ai dit « *Je te baptise* ». Je n’ai pas peur des mots qui sentent le fagot de la religion, je ne sens pas de tabou à aucune odeur de ratichon, ni même à tout ce qu’elle propage.
+heureusement qu’on a l’anglais, hein, pour distinguer *naming* de *nomination*,
+
+*naming*  ça veut dire *to name*, ça veut dire donner le nom propre ...oui, c’est pas pour rien, naturellement, que j’ai dit « *Je te baptise* ». Je n’ai pas peur des mots qui sentent le fagot de la religion, je ne sens pas de tabou à aucune odeur de ratichon, ni même à tout ce qu’elle propage.
 
 <!-- id: s21-03-0169 -->
 
@@ -694,7 +694,7 @@ Tant que vous ne prendrez pas...
 
 <!-- id: s21-03-0171 -->
 
-> c’est ça le sens de ce que j’ai avancé sous un mode apparemment de sous-estime pour l’*Imaginaire* ...tant que vous ne prendrez pas le *Symbolique* au corps à corps, vous n’en viendrez pas à bout.
+c’est ça le sens de ce que j’ai avancé sous un mode apparemment de sous-estime pour l’*Imaginaire* ...tant que vous ne prendrez pas le *Symbolique* au corps à corps, vous n’en viendrez pas à bout.
 
 <!-- id: s21-03-0172 -->
 
@@ -746,7 +746,7 @@ Je dis, je vous en rebats les oreilles : « *la vérité ne peut que se mi-dire
 
 <!-- id: s21-03-0184 -->
 
-> et comment après cela la psychanalyse peut-elle s’imaginer qu’elle procède de *la vérité* ?
+et comment après cela la psychanalyse peut-elle s’imaginer qu’elle procède de *la vérité* ?
 
 <!-- id: s21-03-0185 -->
 
@@ -766,7 +766,7 @@ Parce que *le transfert*, lui, n’est pas un moyen, c’est un résultat, qui t
 
 <!-- id: s21-03-0189 -->
 
-> par son moyen, moyen de parole ...*révèle quelque chose* qui n’a rien à faire avec elle, et très précisément *le savoir qui existe dans le langage*.
+par son moyen, moyen de parole ...*révèle quelque chose* qui n’a rien à faire avec elle, et très précisément *le savoir qui existe dans le langage*.
 
 <!-- id: s21-03-0190 -->
 
@@ -802,7 +802,7 @@ Même si j’ai dit quelque part, dans mes *scribouillages*...
 
 <!-- id: s21-03-0198 -->
 
-> les tout premiers, hein, *Fonction et champ* c’était pas tellement con ...dans *Fonction et champ*, j’ai peut-être lâché que ça faisait chaîne : c’est une erreur, car pour déchiffrer, il a bien fallu que je fasse quelques tentatives, d’où cette *connerie*.
+les tout premiers, hein, *Fonction et champ* c’était pas tellement con ...dans *Fonction et champ*, j’ai peut-être lâché que ça faisait chaîne : c’est une erreur, car pour déchiffrer, il a bien fallu que je fasse quelques tentatives, d’où cette *connerie*.
 
 <!-- id: s21-03-0199 -->
 
@@ -855,7 +855,7 @@ Peut-être que je l’ai qualifié comme je viens de vous dire...
 
 <!-- id: s21-03-0211 -->
 
-> je l’ai « *qualifié* », justement je considère que c’est une qualification : « *quadripode* », et *pas une quantification* ...parce que plus je vais, plus je suis convaincu que nous ne comptons que jusqu’à **3**.  
+je l’ai « *qualifié* », justement je considère que c’est une qualification : « *quadripode* », et *pas une quantification* ...parce que plus je vais, plus je suis convaincu que nous ne comptons que jusqu’à **3**.  
 Et même si ce n’est que parce que nous comptons **3** que nous pouvons arriver à compter **2**.
 
 <!-- id: s21-03-0212 -->
@@ -864,7 +864,7 @@ Encore « *la vraie religion* »...
 
 <!-- id: s21-03-0213 -->
 
-> puisque c’est bien le christianisme dont je parle ...y a-t-elle regardé à deux fois.
+puisque c’est bien le christianisme dont je parle ...y a-t-elle regardé à deux fois.
 
 <!-- id: s21-03-0214 -->
 
@@ -888,7 +888,7 @@ De sorte que c’est pas pour rien qu’elle s’appelle elle-même l’*orthodo
 
 <!-- id: s21-03-0219 -->
 
-> réussir, comme je vous le signale à perte de vue : c’est le signe de rien ...mais que justement ça rate !
+réussir, comme je vous le signale à perte de vue : c’est le signe de rien ...mais que justement ça rate !
 
 <!-- id: s21-03-0220 -->
 
@@ -924,7 +924,7 @@ Et c’est pour ça que cette année, je prends comme sujet...
 
 <!-- id: s21-03-0228 -->
 
-> c’est ce que ça veut dire, ça veut le dire en tout cas aujourd’hui où j’y insiste ...*le nœud borroméen* : il est évident que c’est un effort pédagogique.
+c’est ce que ça veut dire, ça veut le dire en tout cas aujourd’hui où j’y insiste ...*le nœud borroméen* : il est évident que c’est un effort pédagogique.
 
 <!-- id: s21-03-0229 -->
 
@@ -932,7 +932,7 @@ C’est en raison quand même de quelque chose de l’ordre de cette débilité 
 
 <!-- id: s21-03-0230 -->
 
-> où l’on ne peut guère faire mieux que de se débrouiller ...c’est en raison de ceci que - mon Dieu - que le texte de Kant sur la pédagogie... que j’ai rouvert pour l’avoir acquis en édition originale, faut bien que j’aie mes petits plaisirs...
+où l’on ne peut guère faire mieux que de se débrouiller ...c’est en raison de ceci que - mon Dieu - que le texte de Kant sur la pédagogie... que j’ai rouvert pour l’avoir acquis en édition originale, faut bien que j’aie mes petits plaisirs...
 
 <!-- id: s21-03-0231 -->
 
@@ -968,7 +968,7 @@ Regardez voilà le cercle vert et voilà le cercle rouge, enfin, le rond.
 
 <!-- id: s21-03-0239 -->
 
-> <img src="assets/image11.jpeg" style="width:1.21296in;height:1.16221in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S21\4àa.jpg" />
+<img src="assets/image11.jpeg" style="width:1.21296in;height:1.16221in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S21\4àa.jpg" />
 
 <!-- id: s21-03-0240 -->
 
@@ -1004,7 +1004,7 @@ Dupe-dupe, c’est un peu trop : les non-dupes sont les deux fois dupes. Ils so
 
 <!-- id: s21-03-0248 -->
 
-> parce que j’avais affaire à des oreilles qui n’étaient pas précisément, enfin « éveillées » ...c’est l’objection, la seule, la seule *objection* que j’ai à faire à la « *moi-ïté* ».
+parce que j’avais affaire à des oreilles qui n’étaient pas précisément, enfin « éveillées » ...c’est l’objection, la seule, la seule *objection* que j’ai à faire à la « *moi-ïté* ».
 
 <!-- id: s21-03-0249 -->
 
@@ -1012,7 +1012,7 @@ C’est une expression que m’a attribuée...
 
 <!-- id: s21-03-0250 -->
 
-> à tort ou à raison, car je l’ai peut-être dit en l’occasion ...un de mes analysants, récemment, et qui est depuis longtemps de mon assistance séminariste.
+à tort ou à raison, car je l’ai peut-être dit en l’occasion ...un de mes analysants, récemment, et qui est depuis longtemps de mon assistance séminariste.
 
 <!-- id: s21-03-0251 -->
 
@@ -1024,7 +1024,7 @@ Et si j’ai dit que la religion c’est ce qu’on peut faire de plus vrai, dan
 
 <!-- id: s21-03-0253 -->
 
-> sur lequel j’ai jaspiné un bon bout de temps ...que « *tu aimeras ton prochain comme toi-même* », est-ce que ça veut dire que vous serez **3**, oui ou non ?
+sur lequel j’ai jaspiné un bon bout de temps ...que « *tu aimeras ton prochain comme toi-même* », est-ce que ça veut dire que vous serez **3**, oui ou non ?
 
 <!-- id: s21-03-0254 -->
 
@@ -1056,7 +1056,7 @@ De *ronds de ficelle*, comme on a bien voulu...
 
 <!-- id: s21-03-0261 -->
 
-> et à très juste titre, de façon pertinente ...intituler mon avant-dernier séminaire de l’année dernière.
+et à très juste titre, de façon pertinente ...intituler mon avant-dernier séminaire de l’année dernière.
 
 <!-- id: s21-03-0262 -->
 
@@ -1124,7 +1124,7 @@ C’est que, ce qui se distingue...
 
 <!-- id: s21-03-0278 -->
 
-> mais totalement, ça ne vous est peut-être pas encore venu à l’esprit, mais j’espère tout de même à certains ...c’est que c’est une topologie.
+mais totalement, ça ne vous est peut-être pas encore venu à l’esprit, mais j’espère tout de même à certains ...c’est que c’est une topologie.
 
 <!-- id: s21-03-0279 -->
 
@@ -1202,7 +1202,7 @@ Les seuls gens que j’ai vus se comporter d’une façon admirable pendant la d
 
 <!-- id: s21-03-0297 -->
 
-> pour l’évoquer, Dieu sait que ça ne me fait pas spécialement plaisir ...ce sont mes névrosés, ceux que je n’avais pas encore guéris. Ceux-là étaient absolument sublimes.
+pour l’évoquer, Dieu sait que ça ne me fait pas spécialement plaisir ...ce sont mes névrosés, ceux que je n’avais pas encore guéris. Ceux-là étaient absolument sublimes.
 
 <!-- id: s21-03-0298 -->
 
@@ -1251,9 +1251,9 @@ Je veux dire que l’important, c’est qu’aussi bien *le Réel*, que *l’ Im
 
 <!-- id: s21-03-0309 -->
 
-> si je vous présente le nœud comme ça, à savoir le rouge au-dessus du vert et le coinçant,
->
-> et le noir, j’appelle celui-là le noir provisoirement puisqu’il a des points noirs, et le noir en bonne position ...ça ne va pas de soi que je peux très facilement mettre les deux autres dans une position différente, c’est-à-dire faire que le vert soit au-dessus du rouge, le nœud borroméen étant tout aussi correct, à savoir n’ayant à aucun moment été tranché.
+si je vous présente le nœud comme ça, à savoir le rouge au-dessus du vert et le coinçant,
+
+et le noir, j’appelle celui-là le noir provisoirement puisqu’il a des points noirs, et le noir en bonne position ...ça ne va pas de soi que je peux très facilement mettre les deux autres dans une position différente, c’est-à-dire faire que le vert soit au-dessus du rouge, le nœud borroméen étant tout aussi correct, à savoir n’ayant à aucun moment été tranché.
 
 <!-- id: s21-03-0310 -->
 
@@ -1286,7 +1286,7 @@ Eh bien ! l’intérêt de ce que j’ai voulu vous avancer la dernière fois, e
 
 <!-- id: s21-03-0317 -->
 
-> et c’est bien là quelque chose qui mérite que nous y regardions à deux fois, ...il était dupe du *Réel*.
+et c’est bien là quelque chose qui mérite que nous y regardions à deux fois, ...il était dupe du *Réel*.
 
 <!-- id: s21-03-0318 -->
 

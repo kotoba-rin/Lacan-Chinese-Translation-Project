@@ -10,7 +10,7 @@ Aujourd’hui, je voudrais qu’on cause un peu, que je me rende compte où vous
 
 <!-- id: s2-23-0002 -->
 
-> mise à part la conférence annoncée pour mercredi prochain à 10 h 30 qui ne sera pas suivie de séminaire
+mise à part la conférence annoncée pour mercredi prochain à 10 h 30 qui ne sera pas suivie de séminaire
 
 <!-- id: s2-23-0003 -->
 
@@ -326,7 +326,7 @@ Ceci ne peut vouloir dire que cela, l’existence, la réduction du langage à *
 
 <!-- id: s2-23-0081 -->
 
-> dont je ne sais pas si je vais aujourd’hui vous parler ou si ce sera seulement la prochaine fois, à propos de ma conférence, que j’aurai à vous en donner la schématisation précise
+dont je ne sais pas si je vais aujourd’hui vous parler ou si ce sera seulement la prochaine fois, à propos de ma conférence, que j’aurai à vous en donner la schématisation précise
 
 <!-- id: s2-23-0082 -->
 
@@ -642,7 +642,7 @@ Je conviens que c’est un apologue qui mérite d’être éclairé. Il y a un s
 
 <!-- id: s2-23-0160 -->
 
-> c’est la possibilité de compréhension des trois individus, et sur ce langage, va fonctionner *la parole* qu’ils auront reçue, et qui est bien ou mal comprise
+c’est la possibilité de compréhension des trois individus, et sur ce langage, va fonctionner *la parole* qu’ils auront reçue, et qui est bien ou mal comprise
 
 <!-- id: s2-23-0161 -->
 
@@ -662,9 +662,9 @@ Il n’y a pas un seul philosophe qui n’ait insisté, d’ailleurs à juste ti
 
 <!-- id: s2-23-0165 -->
 
-> c’est au moins une partie de sa fonction dans l’exis­tence de s’y retrouver. Ce n’est pas comme l’a cru
->
-> jusqu’à une certaine époque simplement quelque chose qui se passe sur un plan de *noétisation*
+c’est au moins une partie de sa fonction dans l’exis­tence de s’y retrouver. Ce n’est pas comme l’a cru
+
+jusqu’à une certaine époque simplement quelque chose qui se passe sur un plan de *noétisation*
 
 <!-- id: s2-23-0166 -->
 
@@ -1128,11 +1128,15 @@ Néanmoins, observez une chose, c’est qu’à ce niveau intervient dans la sp�
 
 <!-- id: s2-23-0281 -->
 
-> « *Je dois me presser d’aboutir à cette conclu­sion, car si je ne me presse pas d’y aboutir, si je retarde un tant soi peu ce moment*
->
-> *de conclusion, automatiquement je donne non seulement dans l’ambi­guïté, mais dans l’erreur, étant donné mes prémisses,*
->
-> *car si je les laisse me devancer, la preuve est faite que je suis noir.* »
+<div class="text-quotation">
+
+« *Je dois me presser d’aboutir à cette conclu­sion, car si je ne me presse pas d’y aboutir, si je retarde un tant soi peu ce moment*
+
+*de conclusion, automatiquement je donne non seulement dans l’ambi­guïté, mais dans l’erreur, étant donné mes prémisses,*
+
+*car si je les laisse me devancer, la preuve est faite que je suis noir.* »
+
+</div>
 
 <!-- id: s2-23-0282 -->
 
@@ -1380,9 +1384,9 @@ Il faudra que nous revoyions cette histoire de l’*hébreu*. L’important n’
 
 <!-- id: s2-23-0343 -->
 
-> encore bien entendu que nous ne nous interdi­sions aucune incursion théologique, je dirai plus,
->
-> tant qu’on ne nous aura pas collé *une chaire de théologie* dans la *Faculté des Sciences*, on n’en sortira pas, ni pour la théologie, ni pour les sciences
+encore bien entendu que nous ne nous interdi­sions aucune incursion théologique, je dirai plus,
+
+tant qu’on ne nous aura pas collé *une chaire de théologie* dans la *Faculté des Sciences*, on n’en sortira pas, ni pour la théologie, ni pour les sciences
 
 <!-- id: s2-23-0344 -->
 

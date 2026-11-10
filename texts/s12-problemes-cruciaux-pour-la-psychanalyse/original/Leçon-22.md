@@ -86,7 +86,7 @@ Je vous rappelle que MILNER avait mis l’accent dans cette dialectique où culm
 
 <!-- id: s12-22-0021 -->
 
-> un discours en fin de compte toujours essentiellement *énigmatique*, énigmatiques au point de se faire à l’occasion *déroutant*, *humoristique : il est tout à fait clair qu’il faut être vraiment sourd pour ne pas voir qu’à tel ou tel détour, il va jusqu’à se moquer de nous*.
+un discours en fin de compte toujours essentiellement *énigmatique*, énigmatiques au point de se faire à l’occasion *déroutant*, *humoristique : il est tout à fait clair qu’il faut être vraiment sourd pour ne pas voir qu’à tel ou tel détour, il va jusqu’à se moquer de nous*.
 
 <!-- id: s12-22-0022 -->
 
@@ -94,7 +94,7 @@ Je vous rappelle que MILNER avait mis l’accent dans cette dialectique où culm
 
 <!-- id: s12-22-0023 -->
 
-> en tant qu’elles sont immuables, qu’elles ne sont pas soumises au changement comme ce qui, dans le monde sensible, qui en quelque sorte, les reçoit, mais ne peut en être affecté, ne peut les refléter que d’une façon approximative
+en tant qu’elles sont immuables, qu’elles ne sont pas soumises au changement comme ce qui, dans le monde sensible, qui en quelque sorte, les reçoit, mais ne peut en être affecté, ne peut les refléter que d’une façon approximative
 
 <!-- id: s12-22-0024 -->
 
@@ -388,7 +388,7 @@ L’un de l’autre est *entzweiet *:
 
 <!-- id: s12-22-0096 -->
 
-> *Là m’est annoncée la vérité : où je ne prends pas garde à ce qui vient dans ma parole.*
+*Là m’est annoncée la vérité : où je ne prends pas garde à ce qui vient dans ma parole.*
 
 <!-- id: s12-22-0097 -->
 
@@ -484,7 +484,7 @@ Il est très frappant que cette fonction de la *dyade*, ils l’ont parfaitement
 
 <!-- id: s12-22-0120 -->
 
-> le nombre, c’est le nombre **2**. Le **1** n’est pas un nombre.
+le nombre, c’est le nombre **2**. Le **1** n’est pas un nombre.
 
 <!-- id: s12-22-0121 -->
 

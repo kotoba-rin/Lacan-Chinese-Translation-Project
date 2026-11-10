@@ -659,7 +659,7 @@ dans la basse-cour. C’est encore quelque chose de cet ordre, et c’est bien p
 
 <!-- id: s5-07-0131 -->
 
-> <img src="assets/image34.jpeg" style="width:2.78022in;height:3.34809in" alt="87.jpg" />
+<img src="assets/image34.jpeg" style="width:2.78022in;height:3.34809in" alt="87.jpg" />
 
 <!-- id: s5-07-0132 -->
 
@@ -675,7 +675,11 @@ une métaphore tout au moins, qui rencontre chez Henri HEINE cette réponse :
 
 <!-- id: s5-07-0134 -->
 
-> « *Pour un veau, il me semble avoir un peu passé l’âge.* »
+<div class="text-quotation">
+
+« *Pour un veau, il me semble avoir un peu passé l’âge.* »
+
+</div>
 
 <!-- id: s5-07-0135 -->
 
@@ -779,7 +783,11 @@ mais de la « *circulature des métonymies* » bel et bien *distinctes*, même 
 
 <!-- id: s5-07-0156 -->
 
-> « *Il y a de bons mariages, il n’y en a pas de délicieux* » a dit La ROCHEFOUCAULD.
+<div class="text-quotation">
+
+« *Il y a de bons mariages, il n’y en a pas de délicieux* » a dit La ROCHEFOUCAULD.
+
+</div>
 
 <!-- id: s5-07-0157 -->
 
@@ -974,8 +982,12 @@ Là, il a trouvé un très heureux principe : il a lui-même dit qu’il ordonna
 
 <!-- id: s5-07-0196 -->
 
-> « *Et vous ne sauriez croire - dit-il à son ami - jusqu’où cela va,*
-> *ne voilà-t-il pas que l’autre jour elle m’a demandé si l’on ne faisait pas les enfants par l’oreille.* »
+<div class="text-quotation">
+
+« *Et vous ne sauriez croire - dit-il à son ami - jusqu’où cela va,*
+*ne voilà-t-il pas que l’autre jour elle m’a demandé si l’on ne faisait pas les enfants par l’oreille.* »
+
+</div>
 
 <!-- id: s5-07-0197 -->
 
@@ -999,7 +1011,11 @@ complètement falot d’ailleurs, qu’est le personnage du *petit jeune homme*,
 
 <!-- id: s5-07-0201 -->
 
-> « *Horace, avec deux mots, en ferait plus que vous.* »
+<div class="text-quotation">
+
+« *Horace, avec deux mots, en ferait plus que vous.* »
+
+</div>
 
 <!-- id: s5-07-0202 -->
 
@@ -1050,9 +1066,9 @@ L’amour - c’est là le point auquel je dis que se situe le sommet de la com�
 
 <!-- id: s5-07-0212 -->
 
-> et il est très curieux de voir à quel point nous ne le percevons plus
-> qu’à travers toutes sortes de paroles qui l’étouffent, de paroles romantiques
-> ...l’amour est un ressort essentiellement *comique*.
+et il est très curieux de voir à quel point nous ne le percevons plus
+qu’à travers toutes sortes de paroles qui l’étouffent, de paroles romantiques
+...l’amour est un ressort essentiellement *comique*.
 
 <!-- id: s5-07-0213 -->
 

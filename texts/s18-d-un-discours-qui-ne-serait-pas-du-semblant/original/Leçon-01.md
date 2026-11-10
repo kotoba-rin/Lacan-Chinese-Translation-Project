@@ -39,7 +39,7 @@ Il est où se démontre la torsion propre, dirais-je, du *discours de la psychan
 
 <!-- id: s18-01-0009 -->
 
-> dès son émission par Freud ...l’importance de l’accent qui est mis sur la double inscription.
+dès son émission par Freud ...l’importance de l’accent qui est mis sur la double inscription.
 
 <!-- id: s18-01-0010 -->
 
@@ -47,7 +47,7 @@ Or ce qu’il s’agissait de vous faire toucher du doigt, c’est la possibilit
 
 <!-- id: s18-01-0011 -->
 
-> *à l’endroit, à l’envers* ...sans qu’ait à être franchi un bord, c’est la structure dès longtemps bien connue, dont je n’ai eu qu’à faire usage, dite de « *la bande de Mœbius »*.
+*à l’endroit, à l’envers* ...sans qu’ait à être franchi un bord, c’est la structure dès longtemps bien connue, dont je n’ai eu qu’à faire usage, dite de « *la bande de Mœbius »*.
 
 <!-- id: s18-01-0012 -->
 
@@ -107,9 +107,9 @@ C’est de cet énoncé du discours comme ne pouvant être comme tel discours d�
 
 <!-- id: s18-01-0026 -->
 
-> mais se fondant d’une structure et de l’accent
->
-> que lui donne la répartition, le glissement, de certains de ses termes ...c’est de là que je pars cette année pour ce qui s’intitule « *D’un discours qui ne serait pas du semblant »*.
+mais se fondant d’une structure et de l’accent
+
+que lui donne la répartition, le glissement, de certains de ses termes ...c’est de là que je pars cette année pour ce qui s’intitule « *D’un discours qui ne serait pas du semblant »*.
 
 <!-- id: s18-01-0027 -->
 
@@ -133,7 +133,7 @@ Ce quelque chose qui ne peut faire que de lier, quelque chose dont on s’interr
 
 <!-- id: s18-01-0032 -->
 
-> n’allons pas trop vite ...à nous servir du mot « *révolution* », mais il est clair qu’il faut discerner ce qu’il en est de ce qui en somme me permet de poursuivre mes énoncés de cette formule :
+n’allons pas trop vite ...à nous servir du mot « *révolution* », mais il est clair qu’il faut discerner ce qu’il en est de ce qui en somme me permet de poursuivre mes énoncés de cette formule :
 
 <!-- id: s18-01-0033 -->
 
@@ -149,7 +149,7 @@ C’est que je mets à l’épreuve somme toute à peu près...
 
 <!-- id: s18-01-0036 -->
 
-> à quelque chose près qui est en plus ...mon discours de l’année dernière, dans une configuration qui justement se caractérise par l’absence de ce que j’ai appelé cette *presse de votre présence*, et pour y mettre son plein accent je la dirai de ces termes : ce que cette présence signifie, je l’épinglerai du « plus-de-jouir *pressé* ».
+à quelque chose près qui est en plus ...mon discours de l’année dernière, dans une configuration qui justement se caractérise par l’absence de ce que j’ai appelé cette *presse de votre présence*, et pour y mettre son plein accent je la dirai de ces termes : ce que cette présence signifie, je l’épinglerai du « plus-de-jouir *pressé* ».
 
 <!-- id: s18-01-0037 -->
 
@@ -185,7 +185,7 @@ Pour aller au-delà de cette gêne des *semblants*, pour que quelque chose s’e
 
 <!-- id: s18-01-0045 -->
 
-> *Discours Analytique*
+*Discours Analytique*
 
 <!-- id: s18-01-0046 -->
 
@@ -193,7 +193,7 @@ C’est précisément que quelqu’un, à partir du *discours analytique*, se me
 
 <!-- id: s18-01-0047 -->
 
-> ce n’est pas nouveau, je l’ai déjà dit, mais personne n’y a fait attention ...ce qui constitue l’originalité de cet enseignement et ce qui motive ce que vous lui apportez de votre « *presse* », c’est ce qu’à parler à la radio \[[*Radiophonie*](http://staferla.free.fr/Lacan/Radiophonie.pdf)\] j’ai mis à l’épreuve de cette *soustraction* précisément *de cette présence*, *cet espace où vous vous pressez* : annulé et remplacé par l’« *il existe* » pur de cette *inter-signifiance* dont je parlais tout à l’heure, pour qu’y vacille le sujet. C’est simplement une « *aiguillade »* vers quelque chose dont l’avenir dira la portée possible.
+ce n’est pas nouveau, je l’ai déjà dit, mais personne n’y a fait attention ...ce qui constitue l’originalité de cet enseignement et ce qui motive ce que vous lui apportez de votre « *presse* », c’est ce qu’à parler à la radio \[[*Radiophonie*](http://staferla.free.fr/Lacan/Radiophonie.pdf)\] j’ai mis à l’épreuve de cette *soustraction* précisément *de cette présence*, *cet espace où vous vous pressez* : annulé et remplacé par l’« *il existe* » pur de cette *inter-signifiance* dont je parlais tout à l’heure, pour qu’y vacille le sujet. C’est simplement une « *aiguillade »* vers quelque chose dont l’avenir dira la portée possible.
 
 <!-- id: s18-01-0048 -->
 
@@ -201,7 +201,7 @@ Il est un autre trait dans ce que j’ai appelé cet *« événement »,* cet 
 
 <!-- id: s18-01-0049 -->
 
-> comme un certain nombre déjà le savent ...*qu’on y écrit sans signer*.
+comme un certain nombre déjà le savent ...*qu’on y écrit sans signer*.
 
 <!-- id: s18-01-0050 -->
 
@@ -261,7 +261,7 @@ C’est néanmoins la position qu’ici je ne saurai soutenir, très préciséme
 
 <!-- id: s18-01-0064 -->
 
-> à ceci près qu’*il vous y manque le savoir* ...c’est plutôt vous qui y seriez, dans votre *presse*. \[*les auditeurs sont en position d’analyste, mais sans le* S<sub>2</sub> *de l’analyste*\]
+à ceci près qu’*il vous y manque le savoir* ...c’est plutôt vous qui y seriez, dans votre *presse*. \[*les auditeurs sont en position d’analyste, mais sans le* S<sub>2</sub> *de l’analyste*\]
 
 <!-- id: s18-01-0065 -->
 
@@ -354,7 +354,7 @@ Ce n’est plus une représentation qu’il représente, c’est cette suite de 
 
 <!-- id: s18-01-0087 -->
 
-> si vous me permettez ...pour nous apprendre que c’est du *sang rouge*.
+si vous me permettez ...pour nous apprendre que c’est du *sang rouge*.
 
 <!-- id: s18-01-0088 -->
 
@@ -410,7 +410,7 @@ C’est même très certainement la seule vérité qui à l’occasion ne soit p
 
 <!-- id: s18-01-0101 -->
 
-> celle dont j’ai dit qu’elle parle « *je* », qui s’énonce comme oracle ...*qui parle ?*
+celle dont j’ai dit qu’elle parle « *je* », qui s’énonce comme oracle ...*qui parle ?*
 
 <!-- id: s18-01-0102 -->
 
@@ -470,7 +470,7 @@ Non pas comme on le croit des éléments, car les éléments, les quatre \[*terr
 
 <!-- id: s18-01-0116 -->
 
-> enfin même si vous y ajoutez « *la quintessence* » \[5<sup>ème</sup> *élément*\] ...c’est déjà du discours, du discours philosophique - et comment ! - c’est des météores !
+enfin même si vous y ajoutez « *la quintessence* » \[5<sup>ème</sup> *élément*\] ...c’est déjà du discours, du discours philosophique - et comment ! - c’est des météores !
 
 <!-- id: s18-01-0117 -->
 
@@ -534,7 +534,7 @@ Chaque fois qu’ils ouvrent comme ça quelque chose...
 
 <!-- id: s18-01-0132 -->
 
-> une tête, une bouche, un opercule ...c’est un semblant manifeste, et elle nécessite ces béances.
+une tête, une bouche, un opercule ...c’est un semblant manifeste, et elle nécessite ces béances.
 
 <!-- id: s18-01-0133 -->
 
@@ -550,7 +550,7 @@ Pour que naisse le langage...
 
 <!-- id: s18-01-0136 -->
 
-> c’est déjà quelque chose d’amorcer ça ! ...pour que naisse le langage il a fallu que quelque part s’établisse ce quelque chose que je vous ai déjà indiqué à propos du pari : c’était *le pari de Pascal*, nous ne nous en souvenons pas.
+c’est déjà quelque chose d’amorcer ça ! ...pour que naisse le langage il a fallu que quelque part s’établisse ce quelque chose que je vous ai déjà indiqué à propos du pari : c’était *le pari de Pascal*, nous ne nous en souvenons pas.
 
 <!-- id: s18-01-0137 -->
 
@@ -570,7 +570,7 @@ Si le signifiant « *votre bras droit *» va dans le territoire du voisin fair
 
 <!-- id: s18-01-0141 -->
 
-> c’est des choses qui arrivent tout le temps ...naturellement votre voisin saisit votre signifiant «* bras droit *» et vous le re-balance par-dessus la chose mitoyenne : c’est ce que vous appelez curieusement « *projection* », c’est une façon de s’entendre.
+c’est des choses qui arrivent tout le temps ...naturellement votre voisin saisit votre signifiant «* bras droit *» et vous le re-balance par-dessus la chose mitoyenne : c’est ce que vous appelez curieusement « *projection* », c’est une façon de s’entendre.
 
 <!-- id: s18-01-0142 -->
 
@@ -610,7 +610,7 @@ Après tout, non seulement on peut recevoir un bras qui n’est pas le sien par 
 
 <!-- id: s18-01-0151 -->
 
-> que vous avez appelé on ne sait pourquoi « *projection* », si ce n’est que ça vous est projeté, bien sûr ...non seulement un bras qui n’est pas le vôtre, mais plusieurs autres bras.
+que vous avez appelé on ne sait pourquoi « *projection* », si ce n’est que ça vous est projeté, bien sûr ...non seulement un bras qui n’est pas le vôtre, mais plusieurs autres bras.
 
 <!-- id: s18-01-0152 -->
 
@@ -710,7 +710,7 @@ Ici le *« du semblant »* ...
 
 <!-- id: s18-01-0176 -->
 
-> nous tairons «* à lui-même *» ...il n’est pas semblant d’*autre chose*, il est à prendre au sens du *génitif objectif* : il s’agit *du semblant* comme objet propre dont se règle l’économie du discours.
+nous tairons «* à lui-même *» ...il n’est pas semblant d’*autre chose*, il est à prendre au sens du *génitif objectif* : il s’agit *du semblant* comme objet propre dont se règle l’économie du discours.
 
 <!-- id: s18-01-0177 -->
 
@@ -759,7 +759,7 @@ Si ce qui s’énonce de parole est justement *vrai* d’être toujours très au
 
 <!-- id: s18-01-0188 -->
 
-> au niveau où nous sommes de l’objectif et de l’articulation, ...c’est donc très précisément comme *objet de ce qui se produit dans le discours* *que le semblant se pose*.
+au niveau où nous sommes de l’objectif et de l’articulation, ...c’est donc très précisément comme *objet de ce qui se produit dans le discours* *que le semblant se pose*.
 
 <!-- id: s18-01-0189 -->
 
@@ -795,7 +795,7 @@ Chose frappante, si l’on se réfère par exemple à ce qui en est recueilli da
 
 <!-- id: s18-01-0197 -->
 
-> à l’époque héroïque où je commençais de défricher le terrain de l’analyse ...quand quelqu’un[^11] venait contribuer au déchiffrage de la *Verneinung.*
+à l’époque héroïque où je commençais de défricher le terrain de l’analyse ...quand quelqu’un[^11] venait contribuer au déchiffrage de la *Verneinung.*
 
 <!-- id: s18-01-0198 -->
 
@@ -803,13 +803,13 @@ Encore qu’à commenter Freud lettre à lettre, il s’aperçut fort bien...
 
 <!-- id: s18-01-0199 -->
 
-> Freud le dit en toutes lettres ...que la *Bejahung* ne comporte qu’un *jugement d’attribution*...
+Freud le dit en toutes lettres ...que la *Bejahung* ne comporte qu’un *jugement d’attribution*...
 
 <!-- id: s18-01-0200 -->
 
-> en quoi Freud vraiment marque *une finesse et une compétence* tout à fait exceptionnelles à l’époque
->
-> où il écrit ceci, car *seuls quelques logiciens* de diffusion modeste *pouvaient*, à la même époque, *l’avoir souligné* ...*jugement d’attribution* qui ne préjuge en rien de *l’existence *: la seule position d’une *Verneinung* implique *l’existence* de quelque chose qui est très précisément ce qui est nié.
+en quoi Freud vraiment marque *une finesse et une compétence* tout à fait exceptionnelles à l’époque
+
+où il écrit ceci, car *seuls quelques logiciens* de diffusion modeste *pouvaient*, à la même époque, *l’avoir souligné* ...*jugement d’attribution* qui ne préjuge en rien de *l’existence *: la seule position d’une *Verneinung* implique *l’existence* de quelque chose qui est très précisément ce qui est nié.
 
 <!-- id: s18-01-0201 -->
 
@@ -833,7 +833,7 @@ Je ne veux ici...
 
 <!-- id: s18-01-0206 -->
 
-> parce que je ne peux pas en faire plus ...qu’indiquer *le nœud* que forment dans ces énoncés *la répétition* et *la jouissance*.
+parce que je ne peux pas en faire plus ...qu’indiquer *le nœud* que forment dans ces énoncés *la répétition* et *la jouissance*.
 
 <!-- id: s18-01-0207 -->
 
@@ -853,7 +853,7 @@ Ce savoir a supposé...
 
 <!-- id: s18-01-0211 -->
 
-> puisque le discours philosophique en porte encore la trace ...l’existence en face du Maître d’un *autre savoir,* dont - Dieu merci ! - le discours philosophique n’a pas disparu sans avoir épinglé avant qu’il devait y avoir un rapport entre ce *savoir* et la *jouissance*.
+puisque le discours philosophique en porte encore la trace ...l’existence en face du Maître d’un *autre savoir,* dont - Dieu merci ! - le discours philosophique n’a pas disparu sans avoir épinglé avant qu’il devait y avoir un rapport entre ce *savoir* et la *jouissance*.
 
 <!-- id: s18-01-0212 -->
 
@@ -861,7 +861,7 @@ Celui qui a ainsi clos le discours philosophique...
 
 <!-- id: s18-01-0213 -->
 
-> Hegel pour le nommer ...bien sûr ne voit que la façon dont *par le travail l’esclave arrivera à accomplir* - quoi ? - rien d’autre que *le savoir du Maître*.
+Hegel pour le nommer ...bien sûr ne voit que la façon dont *par le travail l’esclave arrivera à accomplir* - quoi ? - rien d’autre que *le savoir du Maître*.
 
 <!-- id: s18-01-0214 -->
 
@@ -877,15 +877,15 @@ S’il s’avère que *la répétition* s’exerce de façon telle qu’une *jou
 
 <!-- id: s18-01-0217 -->
 
-> qu’une jouissance qui outrepasse cette excitation minimale ...soit ramenée, est-il possible...
+qu’une jouissance qui outrepasse cette excitation minimale ...soit ramenée, est-il possible...
 
 <!-- id: s18-01-0218 -->
 
-> c’est sous cette forme que Freud énonce la question ...qu’il soit pensé que la vie, prise elle-même dans son cycle...
+c’est sous cette forme que Freud énonce la question ...qu’il soit pensé que la vie, prise elle-même dans son cycle...
 
 <!-- id: s18-01-0219 -->
 
-> c’est une nouveauté au regard du monde qui ne la comporte pas universellement ...que la vie comporte cette possibilité de *répétition* qui serait *le retour à ce monde en tant qu’il est semblant *?
+c’est une nouveauté au regard du monde qui ne la comporte pas universellement ...que la vie comporte cette possibilité de *répétition* qui serait *le retour à ce monde en tant qu’il est semblant *?
 
 <!-- id: s18-01-0220 -->
 
@@ -893,9 +893,9 @@ Je peux vous faire remarquer par un graphique au tableau que ceci comporte...
 
 <!-- id: s18-01-0221 -->
 
-> au lieu d’une suite de courbes d’excitation ascendante et descendante,
->
-> toutes confinant à une limite, qui est une limite supérieure :
+au lieu d’une suite de courbes d’excitation ascendante et descendante,
+
+toutes confinant à une limite, qui est une limite supérieure :
 
 <!-- id: s18-01-0222 -->
 
@@ -919,9 +919,9 @@ La cohérence donnée du *point mortel,* dès lors conçu - sans que Freud le so
 
 <!-- id: s18-01-0227 -->
 
-> et qui est loin – fichtre ! - de ne pas remuer, ce « *silence éternel des espaces infinis* » qui sidérait Descartes \[Pascal\] :
->
-> ils parlent, ils chantent, ils se remuent de toutes les façons à nos regards maintenant ...le monde dit *« inanimé »* n’est pas la mort : la mort est un point, est désignée comme *un point-terme*, \- comme un *point-terme* de quoi ? - *de la jouissance de la vie*.
+et qui est loin – fichtre ! - de ne pas remuer, ce « *silence éternel des espaces infinis* » qui sidérait Descartes \[Pascal\] :
+
+ils parlent, ils chantent, ils se remuent de toutes les façons à nos regards maintenant ...le monde dit *« inanimé »* n’est pas la mort : la mort est un point, est désignée comme *un point-terme*, \- comme un *point-terme* de quoi ? - *de la jouissance de la vie*.
 
 <!-- id: s18-01-0228 -->
 

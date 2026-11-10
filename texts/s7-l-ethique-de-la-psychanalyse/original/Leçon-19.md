@@ -74,9 +74,13 @@ Nous voici donc sur le sujet du *bien*. Ce n’est pas d’hier que ce sujet nou
 
 <!-- id: s7-19-0018 -->
 
-> « *Que tout ce qui est, est bon, étant l’œuvre de Dieu. Je compris aussi que toutes les choses qui se corrompent sont bonnes, et qu’ainsi elles ne pourraient se corrompre si elles étaient souverainement bonnes. Il ne pouvait se faire aussi qu’elles se corrompissent si elles n’étaient pas bonnes. Car, si elles avaient une souveraine bonté, elles seraient incorruptibles, et, si elles n’avaient rien de bon, il n’y aurait rien en elles capable d’être corrompu, puisque la corruption nuit à ce qu’elle corrompt, et qu’elle ne saurait nuire*
->
-> *qu’en diminuant le bien.* »
+<div class="text-quotation">
+
+« *Que tout ce qui est, est bon, étant l’œuvre de Dieu. Je compris aussi que toutes les choses qui se corrompent sont bonnes, et qu’ainsi elles ne pourraient se corrompre si elles étaient souverainement bonnes. Il ne pouvait se faire aussi qu’elles se corrompissent si elles n’étaient pas bonnes. Car, si elles avaient une souveraine bonté, elles seraient incorruptibles, et, si elles n’avaient rien de bon, il n’y aurait rien en elles capable d’être corrompu, puisque la corruption nuit à ce qu’elle corrompt, et qu’elle ne saurait nuire*
+
+*qu’en diminuant le bien.* »
+
+</div>
 
 <!-- id: s7-19-0019 -->
 
@@ -84,9 +88,13 @@ C’est ici que commence le nerf de l’argument :
 
 <!-- id: s7-19-0020 -->
 
-> « *Ainsi, ou la corruption n’apporte point de dommage, ce qui ne peut se soutenir, ou toutes les choses qui se corrompent perdent quelques biens, ce qui est indubitable. Que si elles avaient perdu tout ce qu’elles ont de bon, elles ne seraient plus du tout. Autrement, si elles subsistaient encore sans ne pouvoir plus être corrompues, elles seraient dans un état plus parfait*
->
-> *qu’elles n’étaient avant d’avoir perdu tout ce qu’elles ont de bon, puisqu’elles demeuraient toujours dans un état incorruptible.* »
+<div class="text-quotation">
+
+« *Ainsi, ou la corruption n’apporte point de dommage, ce qui ne peut se soutenir, ou toutes les choses qui se corrompent perdent quelques biens, ce qui est indubitable. Que si elles avaient perdu tout ce qu’elles ont de bon, elles ne seraient plus du tout. Autrement, si elles subsistaient encore sans ne pouvoir plus être corrompues, elles seraient dans un état plus parfait*
+
+*qu’elles n’étaient avant d’avoir perdu tout ce qu’elles ont de bon, puisqu’elles demeuraient toujours dans un état incorruptible.* »
+
+</div>
 
 <!-- id: s7-19-0021 -->
 
@@ -98,11 +106,15 @@ Et dans la même édition de SADE que je vous ai indiquée les dernières fois, 
 
 <!-- id: s7-19-0023 -->
 
-> « *Ce n’est jamais dans l’anarchie que les tyrans naissent. Vous ne les voyez s’élever qu’à l’ombre des lois, s’autoriser d’elles.*
->
-> *Le règne des lois est donc vicieux, il est donc inférieur à celui de l’anarchie. La plus grande preuve de ce que j’avance est l’obligation où est le gouvernement de se plonger lui–même dans l’anarchie quand il veut refaire sa constitution. Pour abroger ses anciennes lois, il est obligé d’établir un régime révolutionnaire où il n’y a point de loi. Dans ce régime, naissent à la fin de nouvelles lois,*
->
-> *mais le second est nécessairement moins pur que le premier puisqu’il en dérive, puisqu’il a fallu opérer ce premier bien, l’anarchie, pour arriver au second bien la constitution de l’État.* »
+<div class="text-quotation">
+
+« *Ce n’est jamais dans l’anarchie que les tyrans naissent. Vous ne les voyez s’élever qu’à l’ombre des lois, s’autoriser d’elles.*
+
+*Le règne des lois est donc vicieux, il est donc inférieur à celui de l’anarchie. La plus grande preuve de ce que j’avance est l’obligation où est le gouvernement de se plonger lui–même dans l’anarchie quand il veut refaire sa constitution. Pour abroger ses anciennes lois, il est obligé d’établir un régime révolutionnaire où il n’y a point de loi. Dans ce régime, naissent à la fin de nouvelles lois,*
+
+*mais le second est nécessairement moins pur que le premier puisqu’il en dérive, puisqu’il a fallu opérer ce premier bien, l’anarchie, pour arriver au second bien la constitution de l’État.* »
+
+</div>
 
 <!-- id: s7-19-0024 -->
 

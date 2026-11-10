@@ -286,9 +286,9 @@ Il est un livre auquel je peux demander à tous ceux que cela intéresse, et dé
 
 <!-- id: s9-06-0071 -->
 
-> je veux dire dans toute la mesure où les étages stratigraphiques de ce que nous trouvons
->
-> attestent une évolution technique et matérielle des accessoires humains
+je veux dire dans toute la mesure où les étages stratigraphiques de ce que nous trouvons
+
+attestent une évolution technique et matérielle des accessoires humains
 
 <!-- id: s9-06-0072 -->
 
@@ -364,9 +364,9 @@ Vous voyez où je veux en venir. Bien qu’au dernier terme ce que *les Phénici
 
 <!-- id: s9-06-0090 -->
 
-> à la suite d’un certain processus sur lequel je reviendrai, celui de *la formation*,
->
-> nous dirons, *de la marque* qui aujourd’hui incarne ce signifiant dont je vous parle
+à la suite d’un certain processus sur lequel je reviendrai, celui de *la formation*,
+
+nous dirons, *de la marque* qui aujourd’hui incarne ce signifiant dont je vous parle
 
 <!-- id: s9-06-0091 -->
 
@@ -378,9 +378,9 @@ Si vous lisez cet ouvrage sur *l’histoire de l’écriture*, vous trouverez à
 
 <!-- id: s9-06-0093 -->
 
-> elle n’est jamais bien adaptée bien sûr, car quel rapport y a-t-il entre l’écriture
->
-> et cette chose modulée et complexe qu’est une articulation parlée ?
+elle n’est jamais bien adaptée bien sûr, car quel rapport y a-t-il entre l’écriture
+
+et cette chose modulée et complexe qu’est une articulation parlée ?
 
 <!-- id: s9-06-0094 -->
 

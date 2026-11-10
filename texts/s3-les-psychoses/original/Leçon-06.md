@@ -38,7 +38,7 @@ Il m’est arrivé que ledit pupitre est venu à mon aide, puisqu’il faut croi
 
 <!-- id: s3-06-0009 -->
 
-> à savoir la métamorphose de *La dentellière* en cornes de rhinocéros[^14], et finalement en chou-fleur
+à savoir la métamorphose de *La dentellière* en cornes de rhinocéros[^14], et finalement en chou-fleur
 
 <!-- id: s3-06-0010 -->
 
@@ -66,7 +66,7 @@ Et j’en viens à indiquer, après avoir brièvement rappelé ce que nous faiso
 
 <!-- id: s3-06-0016 -->
 
-> \[Lecture du texte « *[La chose freudienne](http://staferla.free.fr/Lacan/la_chose_freudienne.htm) *», in *Écrits*, pp. 401-436\]
+\[Lecture du texte « *[La chose freudienne](http://staferla.free.fr/Lacan/la_chose_freudienne.htm) *», in *Écrits*, pp. 401-436\]
 
 ## Notes
 

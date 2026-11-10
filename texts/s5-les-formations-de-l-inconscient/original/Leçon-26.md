@@ -338,9 +338,9 @@ et tel que l’expérience nous montre comme absolument indispensable cet arriè
 
 <!-- id: s5-26-0071 -->
 
-> tel qu’il se montre efficace dans *la structuration*, non seulement des besoins, mais de ce quelque chose
->
-> de nouveau dont j’essaye de vous démontrer, de vous faire comprendre cette année la dimension ori­ginale, et qui s’appelle le désir
+tel qu’il se montre efficace dans *la structuration*, non seulement des besoins, mais de ce quelque chose
+
+de nouveau dont j’essaye de vous démontrer, de vous faire comprendre cette année la dimension ori­ginale, et qui s’appelle le désir
 
 <!-- id: s5-26-0072 -->
 
@@ -825,10 +825,10 @@ Vous me direz que ce dont il s’agit dans *cette destruction de l’Autre dans 
 
 <!-- id: s5-26-0170 -->
 
-> et vous me permettez de finir là-dessus puisque nous serons forcés d’en rester là aujourd’hui
-> …je dirai que c’est quelque chose qui se passe ici et dont nous verrons la prochaine fois toute la structure,
-> ce quelque chose qui fait que ce n’est que dans une certaine articulation signifiante que le sujet *obsessionnel* arrive
-> à préserver l’Autre, que l’effet de destruction vers lequel il aspire doit le soute­nir grâce à *une articulation signifiante*.
+et vous me permettez de finir là-dessus puisque nous serons forcés d’en rester là aujourd’hui
+…je dirai que c’est quelque chose qui se passe ici et dont nous verrons la prochaine fois toute la structure,
+ce quelque chose qui fait que ce n’est que dans une certaine articulation signifiante que le sujet *obsessionnel* arrive
+à préserver l’Autre, que l’effet de destruction vers lequel il aspire doit le soute­nir grâce à *une articulation signifiante*.
 
 <!-- id: s5-26-0171 -->
 

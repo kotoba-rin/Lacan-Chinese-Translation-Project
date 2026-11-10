@@ -11,8 +11,12 @@ où Hirsch HYACINTHE parlant à l’auteur de *Reisebilder* qu’il a rencontré
 
 <!-- id: s5-02-0002 -->
 
-> « *Aussi vrai que Dieu doit me donner tout ce qu’il y a de bien,*
-> *j’étais assis tout à fait comme un égal, tout à fait famillionnairement.* »
+<div class="text-quotation">
+
+« *Aussi vrai que Dieu doit me donner tout ce qu’il y a de bien,*
+*j’étais assis tout à fait comme un égal, tout à fait famillionnairement.* »
+
+</div>
 
 <!-- id: s5-02-0003 -->
 
@@ -48,7 +52,11 @@ ce qui va venir, *cette invocation au témoin universel* et aux relations person
 
 <!-- id: s5-02-0007 -->
 
-> « *Aussi vrai que Dieu me doit tous les biens*... »
+<div class="text-quotation">
+
+« *Aussi vrai que Dieu me doit tous les biens*... »
+
+</div>
 
 <!-- id: s5-02-0008 -->
 
@@ -57,7 +65,11 @@ peut y montrer de défaillant, mais à partir de là l’énonciation se fait :
 
 <!-- id: s5-02-0009 -->
 
-> « ...*j’étais assis à côté de Salomon ROTHSCHILD, tout à fait comme un égal*... »
+<div class="text-quotation">
+
+« ...*j’étais assis à côté de Salomon ROTHSCHILD, tout à fait comme un égal*... »
+
+</div>
 
 <!-- id: s5-02-0010 -->
 
@@ -231,9 +243,13 @@ de la formation du « *famillionnaire* ». C’est à savoir sur deux lignes d
 
 <!-- id: s5-02-0043 -->
 
-> « ...*j’étais assis*... *d’une façon tout à fait familière*... »
-> et en dessous :
-> « *millionnaire* ».
+<div class="text-quotation">
+
+« ...*j’étais assis*... *d’une façon tout à fait familière*... »
+et en dessous :
+« *millionnaire* ».
+
+</div>
 
 <!-- id: s5-02-0044 -->
 
@@ -418,7 +434,11 @@ parlant de *la situation réciproque des hommes et des femmes*, dit :
 
 <!-- id: s5-02-0080 -->
 
-> « *Pour qu’une femme intéresse les hommes, il faut qu’elle soit jolie*…
+<div class="text-quotation">
+
+« *Pour qu’une femme intéresse les hommes, il faut qu’elle soit jolie*…
+
+</div>
 
 <!-- id: s5-02-0081 -->
 
@@ -426,7 +446,7 @@ Ce qui n’est pas donné à tout le monde, implique-t-elle dans sa phrase.
 
 <!-- id: s5-02-0082 -->
 
-> …*mais pour un homme, il suffit qu’il ait ses cinq membres droits.* » \[ch.5, *Lapsus*\]
+…*mais pour un homme, il suffit qu’il ait ses cinq membres droits.* » \[ch.5, *Lapsus*\]
 
 <!-- id: s5-02-0083 -->
 
@@ -469,7 +489,11 @@ au kilomètre toute la journée. Il disait par exemple en concluant quelques une
 
 <!-- id: s5-02-0091 -->
 
-> « *Et puis c’est comme ça, c’est signé qua non.* »
+<div class="text-quotation">
+
+« *Et puis c’est comme ça, c’est signé qua non.* »
+
+</div>
 
 <!-- id: s5-02-0092 -->
 
@@ -752,7 +776,11 @@ Je pourrais en prendre un autre et vous refaire *la démonstration*, je pourrais
 
 <!-- id: s5-02-0143 -->
 
-> «   *Exoriare ex nostris ossibus ultor !* ». [^7]
+<div class="text-quotation">
+
+«   *Exoriare ex nostris ossibus ultor !* ». [^7]
+
+</div>
 
 <!-- id: s5-02-0144 -->
 

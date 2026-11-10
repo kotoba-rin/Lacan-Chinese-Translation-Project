@@ -18,9 +18,9 @@ Aujourd’hui vous allez entendre, une com­munication de Jacques-Alain MILLER. 
 
 <!-- id: s14-03-0004 -->
 
-> dont je vous ai averti la dernière fois,
->
-> peut-être un peu tard, une partie de l’assemblée étant déjà dispersée au moment où j’en ai fait l’annonce …marque que je désire que reste fondé ce nom curieux de *séminaire,* attaché à mon enseigne­ment depuis Sainte-Anne où il s’est tenu pendant dix ans, comme vous le savez.
+dont je vous ai averti la dernière fois,
+
+peut-être un peu tard, une partie de l’assemblée étant déjà dispersée au moment où j’en ai fait l’annonce …marque que je désire que reste fondé ce nom curieux de *séminaire,* attaché à mon enseigne­ment depuis Sainte-Anne où il s’est tenu pendant dix ans, comme vous le savez.
 
 <!-- id: s14-03-0005 -->
 
@@ -64,7 +64,7 @@ On a pu remarquer que *c’est un livre que je ne me suis pas beaucoup pressé d
 
 <!-- id: s14-03-0015 -->
 
-> à savoir la psychanalyse sous sa forme *incarnée,* nous dirions vite, ou bien *as­sujettie* *…*autrement dit : avec les psychanalystes eux-mêmes.
+à savoir la psychanalyse sous sa forme *incarnée,* nous dirions vite, ou bien *as­sujettie* *…*autrement dit : avec les psychanalystes eux-mêmes.
 
 <!-- id: s14-03-0016 -->
 
@@ -80,9 +80,9 @@ C’est bien pourquoi, tout ce qui concerne ce que j’appellerais les *relation
 
 <!-- id: s14-03-0019 -->
 
-> je n’envisage pas autrement tout ce qui peut se manifester de *brouhaha* et de *remue-ménage* autour de termes,
->
-> auxquels je ne me vois pas d’un très bon œil associé : ainsi du « *structuralisme* » …je ne me sens nullement disposé, sauf à ce que j’y sois forcé par quelque incidence de ce que j’appelais tout à l’heure « le succès du livre » à mor­dre sur un temps mesuré.
+je n’envisage pas autrement tout ce qui peut se manifester de *brouhaha* et de *remue-ménage* autour de termes,
+
+auxquels je ne me vois pas d’un très bon œil associé : ainsi du « *structuralisme* » …je ne me sens nullement disposé, sauf à ce que j’y sois forcé par quelque incidence de ce que j’appelais tout à l’heure « le succès du livre » à mor­dre sur un temps mesuré.
 
 <!-- id: s14-03-0020 -->
 
@@ -154,7 +154,7 @@ Voilà, enfin on verra la suite de tout ça… Avant de donner la parole à Jacq
 
 <!-- id: s14-03-0037 -->
 
-> alors qu’elle est une petite vendeuse de bouquets de fleurs dans les rues les plus « *courantées* » de Londres …et qu’il s’agit de dresser à pouvoir s’exprimer dans la meilleure société, sans qu’on puisse remarquer qu’elle n’en fait point partie.
+alors qu’elle est une petite vendeuse de bouquets de fleurs dans les rues les plus « *courantées* » de Londres …et qu’il s’agit de dresser à pouvoir s’exprimer dans la meilleure société, sans qu’on puisse remarquer qu’elle n’en fait point partie.
 
 <!-- id: s14-03-0038 -->
 
@@ -202,9 +202,9 @@ C’est à partir de là…
 
 <!-- id: s14-03-0049 -->
 
-> donc bien avant que cela vienne tout à fait à l’ordre du jour des préoccupations des ingénieurs, qui se consacrent
->
-> à ces appareils, vous le savez, toujours en progrès, puisqu’on en attend rien de moins que la traduction automatique …c’est à partir de là, qu’il y a quinze ans, j’ai construit *un premier modèle* à l’usage propre des psychanalystes, dans la fin de produire en leur *mind,* cette sorte de décollement nécessaire de l’idée que le fonctionnement du signifiant est forcé­ment *la fleur de la conscience*, ce qui était alors à intro­duire d’un pas absolument sans précédent.
+donc bien avant que cela vienne tout à fait à l’ordre du jour des préoccupations des ingénieurs, qui se consacrent
+
+à ces appareils, vous le savez, toujours en progrès, puisqu’on en attend rien de moins que la traduction automatique …c’est à partir de là, qu’il y a quinze ans, j’ai construit *un premier modèle* à l’usage propre des psychanalystes, dans la fin de produire en leur *mind,* cette sorte de décollement nécessaire de l’idée que le fonctionnement du signifiant est forcé­ment *la fleur de la conscience*, ce qui était alors à intro­duire d’un pas absolument sans précédent.
 
 <!-- id: s14-03-0050 -->
 
@@ -220,7 +220,7 @@ Pour KANT, ce qu’il y a d’impensable dans le système de SPINOZA, se résume
 
 <!-- id: s14-03-0053 -->
 
-> « *Le spinozisme parle de pensées qui se pensent elles-mêmes.* »
+« *Le spinozisme parle de pensées qui se pensent elles-mêmes.* »
 
 <!-- id: s14-03-0054 -->
 
@@ -516,7 +516,7 @@ Cette formule X<sup>2</sup> = X est une forme plus élaborée qu’une formulati
 
 <!-- id: s14-03-0127 -->
 
-> et pour ceux qui connaissent le système du D<sup>r</sup> LACAN ce n’est pas une proposition sans écho …il n’y a pas d’identité à soi sans altérité.
+et pour ceux qui connaissent le système du D<sup>r</sup> LACAN ce n’est pas une proposition sans écho …il n’y a pas d’identité à soi sans altérité.
 
 <!-- id: s14-03-0128 -->
 
@@ -732,7 +732,7 @@ Et il écrit : « *Si la conscience première de conscience première*…
 
 <!-- id: s14-03-0181 -->
 
-> ce qui est un peu, ici, mysté­rieux …*n’est pas positionnelle, c’est qu’elle ne fait qu’un avec la conscience dont elle est consciente.* »
+ce qui est un peu, ici, mysté­rieux …*n’est pas positionnelle, c’est qu’elle ne fait qu’un avec la conscience dont elle est consciente.* »
 
 <!-- id: s14-03-0182 -->
 

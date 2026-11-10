@@ -298,7 +298,7 @@ Et certes c’est là occasion de nous apercevoir que si cette place est la mêm
 
 <!-- id: s17-03-0074 -->
 
-> celle du *symptôme*, ou *quelque chose* de portée à nous faire questionner comme étant celle du *symptôme* ...la même place quand elle sert dans *un autre discours*. C’est bien en effet ce que nous voyons à notre époque : *la Loi mise en question comme symptôme*.
+celle du *symptôme*, ou *quelque chose* de portée à nous faire questionner comme étant celle du *symptôme* ...la même place quand elle sert dans *un autre discours*. C’est bien en effet ce que nous voyons à notre époque : *la Loi mise en question comme symptôme*.
 
 <!-- id: s17-03-0075 -->
 
@@ -326,17 +326,17 @@ Eh bien justement, notre embarras à répondre sur ce qui fait *l’essence, la 
 
 <!-- id: s17-03-0081 -->
 
-> car ce que je trace devant vous, ce sont les voies mêmes autour desquelles,
->
-> quand je m’interroge, vague, erre, ma pensée, avant de trouver les points sûrs ...c’est là qu’en quelque sorte l’idée pourrait nous venir de chercher ce qui, dans chacun de ces discours, pour désigner au moins une place, nous paraîtrait tout à fait sûr, aussi sûr que le *symptôme* quand il s’agit de *l’hystérique*.
+car ce que je trace devant vous, ce sont les voies mêmes autour desquelles,
+
+quand je m’interroge, vague, erre, ma pensée, avant de trouver les points sûrs ...c’est là qu’en quelque sorte l’idée pourrait nous venir de chercher ce qui, dans chacun de ces discours, pour désigner au moins une place, nous paraîtrait tout à fait sûr, aussi sûr que le *symptôme* quand il s’agit de *l’hystérique*.
 
 # Est-ce que...
 
 <!-- id: s17-03-0082 -->
 
-> puisque déjà je vous ai déjà laissé voir que dans *le discours du Maître,* le *(a)*,
->
-> il est préci­sément identifiable au terme, à ce qu’enfin une pensée travailleuse - celle de Marx - a sorti, à savoir ce qu’il en était, symboliquement et réellement, de la fonction de *la plus-value* ...nous serions donc déjà en présence de deux termes, d’où il me resterait peut-être simplement à modifier légèrement, à donner une traduction plus aisée, à transposer des autres registres.
+puisque déjà je vous ai déjà laissé voir que dans *le discours du Maître,* le *(a)*,
+
+il est préci­sément identifiable au terme, à ce qu’enfin une pensée travailleuse - celle de Marx - a sorti, à savoir ce qu’il en était, symboliquement et réellement, de la fonction de *la plus-value* ...nous serions donc déjà en présence de deux termes, d’où il me resterait peut-être simplement à modifier légèrement, à donner une traduction plus aisée, à transposer des autres registres.
 
 <!-- id: s17-03-0083 -->
 
@@ -348,11 +348,11 @@ Eh bien une telle idée aura pour conséquence de vous faire toucher du doigt, d
 
 <!-- id: s17-03-0085 -->
 
-> indépendamment de toute cette fin que je vous suggérais pouvoir être celle qui nous intéresse ...essayez dans chacune... disons, appelons-les « *figures* » ...dans chacune de ces *figures,* de vous obliger simplement à ceci, que dans chacune *la place* définie en fonction du terme « *place »*... *en haut, en bas, à droite* ou *à gauche...*que dans chacune la place soit différente, eh bien vous n’arriverez pas à ce que...
+indépendamment de toute cette fin que je vous suggérais pouvoir être celle qui nous intéresse ...essayez dans chacune... disons, appelons-les « *figures* » ...dans chacune de ces *figures,* de vous obliger simplement à ceci, que dans chacune *la place* définie en fonction du terme « *place »*... *en haut, en bas, à droite* ou *à gauche...*que dans chacune la place soit différente, eh bien vous n’arriverez pas à ce que...
 
 <!-- id: s17-03-0086 -->
 
-> quelle que soit la façon dont vous vous y preniez ...à ce qu’elles soient chacune occupées par une lettre différente.
+quelle que soit la façon dont vous vous y preniez ...à ce qu’elles soient chacune occupées par une lettre différente.
 
 <!-- id: s17-03-0087 -->
 
@@ -376,9 +376,9 @@ Qu’à poser d’une certaine façon *la formalisation du discours*...
 
 <!-- id: s17-03-0092 -->
 
-> et à l’intérieur de cette *formalisation*, de s’accorder à soi-même quelques règles destinées,
->
-> cette *formalisation*, à la mettre à l’épreuve, ...se rencontre un tel élément d’*impossibilité* \[◊\].
+et à l’intérieur de cette *formalisation*, de s’accorder à soi-même quelques règles destinées,
+
+cette *formalisation*, à la mettre à l’épreuve, ...se rencontre un tel élément d’*impossibilité* \[◊\].
 
 <!-- id: s17-03-0093 -->
 
@@ -402,13 +402,13 @@ Je veux dire : dans ce qui, à un esprit aussi peu, je dirais « introduit »
 
 <!-- id: s17-03-0098 -->
 
-> étant donné la for­mation que nous lui connaissons, qui est une for­mation du type « *sciences para-physiques* » : physio­logie armée des premiers pas de la physique, et de la ther­modynamique spécialement ...si Freud est amené à suivre la veine, le fil de son expérience, à formuler, dans un temps qui pour être second dans son énonciation, n’en a que plus d’importance... puisqu’après tout, rien ne semblait l’imposer dans le pre­mier temps, celui de *l’articulation de l’inconscient* ...si Freud dans un second temps, celui donc où est pour lui acquis ceci, ceci que l’inconscient permet de situer *le désir*...
+étant donné la for­mation que nous lui connaissons, qui est une for­mation du type « *sciences para-physiques* » : physio­logie armée des premiers pas de la physique, et de la ther­modynamique spécialement ...si Freud est amené à suivre la veine, le fil de son expérience, à formuler, dans un temps qui pour être second dans son énonciation, n’en a que plus d’importance... puisqu’après tout, rien ne semblait l’imposer dans le pre­mier temps, celui de *l’articulation de l’inconscient* ...si Freud dans un second temps, celui donc où est pour lui acquis ceci, ceci que l’inconscient permet de situer *le désir*...
 
 <!-- id: s17-03-0099 -->
 
-> c’est là le sens du premier pas de Freud, déjà tout entier,
->
-> non pas impliqué, mais proprement articulé, développé dans la *Traumdeutung* ...si dans ce second temps, celui qu’ouvre l’*Au-delà du principe du plaisir,*
+c’est là le sens du premier pas de Freud, déjà tout entier,
+
+non pas impliqué, mais proprement articulé, développé dans la *Traumdeutung* ...si dans ce second temps, celui qu’ouvre l’*Au-delà du principe du plaisir,*
 
 <!-- id: s17-03-0100 -->
 
@@ -448,7 +448,7 @@ et à la vérité qui reste scandaleuse pour quiconque prendrait au pied de la l
 
 <!-- id: s17-03-0109 -->
 
-> des cycles que la vie comporte, cycles du besoin et de la satisfac­tion... ...mais quelque chose d’autre qu’un cycle qui aussi bien emporte la dispari­tion de cette vie comme telle, le retour à l’inanimé : certainement point d’horizon, point idéal, point hors de l’épure, mais dont le sens, à l’analyse précisément structurale s’indique, s’indique parfaitement de ce qu’il en est de *la jouissance*.
+des cycles que la vie comporte, cycles du besoin et de la satisfac­tion... ...mais quelque chose d’autre qu’un cycle qui aussi bien emporte la dispari­tion de cette vie comme telle, le retour à l’inanimé : certainement point d’horizon, point idéal, point hors de l’épure, mais dont le sens, à l’analyse précisément structurale s’indique, s’indique parfaitement de ce qu’il en est de *la jouissance*.
 
 <!-- id: s17-03-0110 -->
 
@@ -464,7 +464,7 @@ Si nous partons déjà *du principe du plaisir* pour savoir :
 
 <!-- id: s17-03-0113 -->
 
-> comme tout nous l’indique dans les faits, l’expérience, la clinique ...si *la répétition est fondée sur un retour de la jouissance*, et que ce qui proprement à ce propos est dans Freud, et par Freud lui-même articulé, c’est à savoir que dans cette *répétition* même, c’est là, c’est là que se produit ce *quelque chose* qui est *« défaut », « échec »*.
+comme tout nous l’indique dans les faits, l’expérience, la clinique ...si *la répétition est fondée sur un retour de la jouissance*, et que ce qui proprement à ce propos est dans Freud, et par Freud lui-même articulé, c’est à savoir que dans cette *répétition* même, c’est là, c’est là que se produit ce *quelque chose* qui est *« défaut », « échec »*.
 
 <!-- id: s17-03-0114 -->
 
@@ -476,7 +476,7 @@ au titre même de ceci qu’il *est* expressément et comme tel *répété*, *qu
 
 <!-- id: s17-03-0116 -->
 
-> par rapport à ce que cela répète ...*est en quelque sorte* « *en perte* », *en perte* de ce que vous voudrez, *en perte* de vitesse !
+par rapport à ce que cela répète ...*est en quelque sorte* « *en perte* », *en perte* de ce que vous voudrez, *en perte* de vitesse !
 
 <!-- id: s17-03-0117 -->
 
@@ -496,7 +496,7 @@ Cette *répétition*, cette identification de *la jouissance*, et là j’emprun
 
 <!-- id: s17-03-0121 -->
 
-> j’emprunte pour lui donner un sens qui n’est pas pointé dans le texte de Freud ...la fonction du *trait unaire*,
+j’emprunte pour lui donner un sens qui n’est pas pointé dans le texte de Freud ...la fonction du *trait unaire*,
 
 <!-- id: s17-03-0122 -->
 
@@ -512,7 +512,7 @@ Et j’avance ceci qui n’est pas dans le texte de Freud, j’avance ceci qui n
 
 <!-- id: s17-03-0125 -->
 
-> et qui ne saurait d’aucune façon être écarté, évité, rejeté, par le psychanalyste ...c’est que *c’est du trait unaire que prend son origine tout ce qui nous intéresse, nous analystes, comme <u>savoir.</u>*
+et qui ne saurait d’aucune façon être écarté, évité, rejeté, par le psychanalyste ...c’est que *c’est du trait unaire que prend son origine tout ce qui nous intéresse, nous analystes, comme <u>savoir.</u>*
 
 <!-- id: s17-03-0126 -->
 
@@ -536,7 +536,7 @@ Et bien sûr, quand un savant psychologue écrit de nos jours...
 
 <!-- id: s17-03-0131 -->
 
-> enfin je veux dire, il n’y a pas si longtemps, 40 ou 50 ans ...quelque chose qui s’appelle « *La Sensation, guide de vie »* [^6], il ne dit bien sûr, rien d’absurde, mais s’il peut l’énoncer ainsi, c’est juste­ment que toute l’évolution d’une science nous fait apercevoir *qu’il n’y a nulle connaturalité de cette « sensation »,* *à ce qui par elle, pénètre d’appréhension d’un prétendu* « *monde* ».
+enfin je veux dire, il n’y a pas si longtemps, 40 ou 50 ans ...quelque chose qui s’appelle « *La Sensation, guide de vie »* [^6], il ne dit bien sûr, rien d’absurde, mais s’il peut l’énoncer ainsi, c’est juste­ment que toute l’évolution d’une science nous fait apercevoir *qu’il n’y a nulle connaturalité de cette « sensation »,* *à ce qui par elle, pénètre d’appréhension d’un prétendu* « *monde* ».
 
 <!-- id: s17-03-0132 -->
 
@@ -560,7 +560,7 @@ Il n’y a rien de commun entre *ce quelque chose* sur quoi a voulu construire e
 
 <!-- id: s17-03-0137 -->
 
-> le compte rendu de ce qui se fait au niveau de l’abstraction, de la généralisation ...cette chose qui s’édifie sur *une sorte de réduction*, *de passage au filtre*, ce qu’il en est d’une « *sensation* » consi­dérée comme basale : « *Nihil fuerit in intellectu quod non prius...* »[^7] etc., vous savez la suite : « ...*in sensu* ».
+le compte rendu de ce qui se fait au niveau de l’abstraction, de la généralisation ...cette chose qui s’édifie sur *une sorte de réduction*, *de passage au filtre*, ce qu’il en est d’une « *sensation* » consi­dérée comme basale : « *Nihil fuerit in intellectu quod non prius...* »[^7] etc., vous savez la suite : « ...*in sensu* ».
 
 <!-- id: s17-03-0138 -->
 
@@ -568,9 +568,9 @@ Est-ce que c’est ce sujet-là...
 
 <!-- id: s17-03-0139 -->
 
-> ce sujet *déductible* au titre de *sujet de la connaissance*, ce sujet *construc­tible* d’une façon qui nous paraît maintenant si *artificielle*, à partir de bases, qui sont bien en effet des bases d’appareils,
->
-> d’organes vitaux dont on voit mal en effet ce que nous pourrions faire à nous en passer ...est-ce que c’est cela dont il s’agit, quand il s’agit de cette arti­culation signifiante, celle dont les pre­miers termes d’épellation, qui sont ceux que nous tentons ici, peuvent commencer de jouer des termes les plus élémentaires, ceux qui nouent - comme je l’ai dit - un signifiant à un autre signifiant, et qui déjà portent *effet*, *effet* déjà en ceci que, il n’est maniable ce signifiant, dans sa définition, qu’à ceci : que ça ait *un sens*, qu’il représente pour un autre signifiant *un sujet*, un sujet et rien d’autre.
+ce sujet *déductible* au titre de *sujet de la connaissance*, ce sujet *construc­tible* d’une façon qui nous paraît maintenant si *artificielle*, à partir de bases, qui sont bien en effet des bases d’appareils,
+
+d’organes vitaux dont on voit mal en effet ce que nous pourrions faire à nous en passer ...est-ce que c’est cela dont il s’agit, quand il s’agit de cette arti­culation signifiante, celle dont les pre­miers termes d’épellation, qui sont ceux que nous tentons ici, peuvent commencer de jouer des termes les plus élémentaires, ceux qui nouent - comme je l’ai dit - un signifiant à un autre signifiant, et qui déjà portent *effet*, *effet* déjà en ceci que, il n’est maniable ce signifiant, dans sa définition, qu’à ceci : que ça ait *un sens*, qu’il représente pour un autre signifiant *un sujet*, un sujet et rien d’autre.
 
 <!-- id: s17-03-0140 -->
 
@@ -634,7 +634,7 @@ C’est pas pour nous étonner, parce que figurez vous quand même, *que l’én
 
 <!-- id: s17-03-0155 -->
 
-> quoi qu’en croient les cœurs ingénus d’ingénieurs \[*Rires*\] ...*ça n’est absolument pas autre chose que le placage sur le monde, du réseau des signifiants*.
+quoi qu’en croient les cœurs ingénus d’ingénieurs \[*Rires*\] ...*ça n’est absolument pas autre chose que le placage sur le monde, du réseau des signifiants*.
 
 <!-- id: s17-03-0156 -->
 
@@ -642,7 +642,7 @@ Je vous défie de prouver d’aucune façon...
 
 <!-- id: s17-03-0157 -->
 
-> en tous cas mettez-vous y à l’ouvrage et vous verrez, vous aurez la preuve du contraire ...que c’est absolument la même chose de descendre un poids de 80 kilos sur votre dos, de 500 mètres, et une fois que vous l’aurez remonté des 500 mètres suivants, qu’il y a eu zéro, aucun travail. \[*Rires*\] Faites l’essai !
+en tous cas mettez-vous y à l’ouvrage et vous verrez, vous aurez la preuve du contraire ...que c’est absolument la même chose de descendre un poids de 80 kilos sur votre dos, de 500 mètres, et une fois que vous l’aurez remonté des 500 mètres suivants, qu’il y a eu zéro, aucun travail. \[*Rires*\] Faites l’essai !
 
 <!-- id: s17-03-0158 -->
 
@@ -682,7 +682,7 @@ S’il y a quelque chose que nous apprend l’expérience analytique sur ce mond
 
 <!-- id: s17-03-0167 -->
 
-> dont à la vérité, s’il ne semble pas qu’*on* l’ait... plutôt que *l’analyse l’ait* *abordé* ...c’est bien qu’on ne savait absolument pas comment s’en dépêtrer, sinon selon le recours à la « *bizarrerie* », à l’« *anomalie* », d’où partent ces termes, ces épinglages de noms propres, qui nous font appeler « *masochisme »* ceci, « *sadisme »* cela.
+dont à la vérité, s’il ne semble pas qu’*on* l’ait... plutôt que *l’analyse l’ait* *abordé* ...c’est bien qu’on ne savait absolument pas comment s’en dépêtrer, sinon selon le recours à la « *bizarrerie* », à l’« *anomalie* », d’où partent ces termes, ces épinglages de noms propres, qui nous font appeler « *masochisme »* ceci, « *sadisme »* cela.
 
 <!-- id: s17-03-0168 -->
 
@@ -694,7 +694,7 @@ Mais enfin, il y a tout de même quelque chose de tout à fait radical, *c’est
 
 <!-- id: s17-03-0170 -->
 
-> dans ce qui est à la base, à la racine même du fantasme \[*cf. Freud* : « *un enfant est battu »*\] ...*de cette « gloire »* - si je puis m’exprimer ainsi - *« de la marque », de la marque sur la peau*, *où s’inspire dans ce fantasme, ceci qui n’est rien d’autre qu’un sujet qui s’identifie comme étant « objet de jouissance »*.
+dans ce qui est à la base, à la racine même du fantasme \[*cf. Freud* : « *un enfant est battu »*\] ...*de cette « gloire »* - si je puis m’exprimer ainsi - *« de la marque », de la marque sur la peau*, *où s’inspire dans ce fantasme, ceci qui n’est rien d’autre qu’un sujet qui s’identifie comme étant « objet de jouissance »*.
 
 <!-- id: s17-03-0171 -->
 
@@ -806,7 +806,7 @@ En ceci se traduit, se boucle et se motive, ce qu’il en est de l’incidence d
 
 <!-- id: s17-03-0193 -->
 
-> qu’on appelle ainsi sans doute parce qu’il n’est que l’*humus* du langage \[*Rires*\] \[*cf. discours* H,U,M,A\] ...n’a qu’à *s’apparoler* à cet appareil-là.
+qu’on appelle ainsi sans doute parce qu’il n’est que l’*humus* du langage \[*Rires*\] \[*cf. discours* H,U,M,A\] ...n’a qu’à *s’apparoler* à cet appareil-là.
 
 <!-- id: s17-03-0194 -->
 
@@ -838,7 +838,7 @@ Assurément s’il a quelque chose que toute notre approche délimite...
 
 <!-- id: s17-03-0201 -->
 
-> et assu­rément elle a été par l’expérience analytique renouvelée ...c’est que nulle évocation de *la vérité* ne peut se faire qu’à indiquer qu’elle ne nous est accessible que d’un *mi-dire*, *qu’elle ne peut se dire tout entière, pour la raison qu’au-delà de sa moitié il n’y a rien à dire*.
+et assu­rément elle a été par l’expérience analytique renouvelée ...c’est que nulle évocation de *la vérité* ne peut se faire qu’à indiquer qu’elle ne nous est accessible que d’un *mi-dire*, *qu’elle ne peut se dire tout entière, pour la raison qu’au-delà de sa moitié il n’y a rien à dire*.
 
 <!-- id: s17-03-0202 -->
 
@@ -906,7 +906,7 @@ Et du même coup se conçoit, s’entrouvre ce rôle...
 
 <!-- id: s17-03-0218 -->
 
-> je ne sais si je dois l’appeler plus « *mystique* » ou « *mystificateur* » ...qui a été donné de tout temps, dans une certaine veine, à l’amour même.
+je ne sais si je dois l’appeler plus « *mystique* » ou « *mystificateur* » ...qui a été donné de tout temps, dans une certaine veine, à l’amour même.
 
 <!-- id: s17-03-0219 -->
 
@@ -914,7 +914,7 @@ Car cet « *amour universel »,* comme on dit...
 
 <!-- id: s17-03-0220 -->
 
-> dont on nous brandit le chiffon pour nous calmer ...cet « *amour universel »,* c’est précisément ce dont nous faisons *voile*, voire *obstruction*, à ce qui est *la vérité*.
+dont on nous brandit le chiffon pour nous calmer ...cet « *amour universel »,* c’est précisément ce dont nous faisons *voile*, voire *obstruction*, à ce qui est *la vérité*.
 
 <!-- id: s17-03-0221 -->
 
@@ -922,7 +922,7 @@ Ce qui est demandé au psychanalyste...
 
 <!-- id: s17-03-0222 -->
 
-> je l’ai indiqué déjà la dernière fois dans mon discours ...ce n’est certes pas ce qui ressortit à ce *sujet supposé savoir*, dont à m’entendre comme on le fait d’ordinaire, un tout petit peu à côté, j’ai cru pouvoir fonder *le transfert*.
+je l’ai indiqué déjà la dernière fois dans mon discours ...ce n’est certes pas ce qui ressortit à ce *sujet supposé savoir*, dont à m’entendre comme on le fait d’ordinaire, un tout petit peu à côté, j’ai cru pouvoir fonder *le transfert*.
 
 <!-- id: s17-03-0223 -->
 
@@ -962,9 +962,9 @@ simplement personne n’a jamais rien compris, \[*Rires*\] et puis en plus, c’
 
 <!-- id: s17-03-0232 -->
 
-> il faudrait évi­demment essayer de comprendre ce que ça veut dire, c’est tellement là comme ça,
->
-> à portée de la main. J’ai tout de même le sentiment... c’est le travail... le *plus-de-jouir*, c’est pour vous …« *Ce qu’on attend d’un psychanalyste » c’est* - c’est comme je l’ai dit la dernière fois - *de faire fonctionner son savoir en terme de vérité.*
+il faudrait évi­demment essayer de comprendre ce que ça veut dire, c’est tellement là comme ça,
+
+à portée de la main. J’ai tout de même le sentiment... c’est le travail... le *plus-de-jouir*, c’est pour vous …« *Ce qu’on attend d’un psychanalyste » c’est* - c’est comme je l’ai dit la dernière fois - *de faire fonctionner son savoir en terme de vérité.*
 
 <!-- id: s17-03-0233 -->
 

@@ -66,7 +66,7 @@ Cette situation d’une *fonction dynamique*, pour appeler les choses par leur n
 
 <!-- id: s1-07-0016 -->
 
-> et ceci apparaît bien mieux encore chaque fois que nous avons abordé les principes de la technique
+et ceci apparaît bien mieux encore chaque fois que nous avons abordé les principes de la technique
 
 <!-- id: s1-07-0017 -->
 
@@ -82,7 +82,11 @@ Et cer­tainement on peut y relever, parce que c’est un livre assez rigoureux,
 
 <!-- id: s1-07-0020 -->
 
-> « *Dans l’analyse, le moi ne se manifeste que par ses défenses*… »
+<div class="text-quotation">
+
+« *Dans l’analyse, le moi ne se manifeste que par ses défenses*… »
+
+</div>
 
 <!-- id: s1-07-0021 -->
 
@@ -170,9 +174,9 @@ Non pas seulement fondamental pour toute compréhension du sujet, mais il est fo
 
 <!-- id: s1-07-0042 -->
 
-> comme une partie de l’élaboration théorique de FREUD tendrait à le faire penser, en allant jusqu’à formuler
->
-> que seul le *moi* a dans le psychisme une organisation, toujours et essentiellement \[...\]
+comme une partie de l’élaboration théorique de FREUD tendrait à le faire penser, en allant jusqu’à formuler
+
+que seul le *moi* a dans le psychisme une organisation, toujours et essentiellement \[...\]
 
 <!-- id: s1-07-0043 -->
 
@@ -200,9 +204,9 @@ Et vous avez vu à propos du commentaire, l’autre jour de M. HYPPOLITE, j’ai
 
 <!-- id: s1-07-0049 -->
 
-> ou ce qui est perçu comme réel, si vous vous souvenez de ce que je vous ai fait remarquer,
->
-> comme dans la genèse de *l’hallucination de L’Homme aux loups*
+ou ce qui est perçu comme réel, si vous vous souvenez de ce que je vous ai fait remarquer,
+
+comme dans la genèse de *l’hallucination de L’Homme aux loups*
 
 <!-- id: s1-07-0050 -->
 
@@ -430,7 +434,7 @@ Et alors, dit-elle, DICK n’a pas pu…
 
 <!-- id: s1-07-0106 -->
 
-> parce qu’il avait trop peur de son sadisme, étant trop génital, supportant trop mal ce sadisme
+parce qu’il avait trop peur de son sadisme, étant trop génital, supportant trop mal ce sadisme
 
 <!-- id: s1-07-0107 -->
 
@@ -586,7 +590,11 @@ Par exemple, elle dit que l’enfant retirait son intérêt du monde extérieur,
 
 <!-- id: s1-07-0145 -->
 
-> « *Il retire son intérêt des objets qui représenteraient le contenu de ce corps enfants, excréments, pénis*… »
+<div class="text-quotation">
+
+« *Il retire son intérêt des objets qui représenteraient le contenu de ce corps enfants, excréments, pénis*… »
+
+</div>
 
 <!-- id: s1-07-0146 -->
 
@@ -686,7 +694,7 @@ Mais ce qu’elle explique très bien, c’est ceci…
 
 <!-- id: s1-07-0170 -->
 
-> je suis forcé d’aller vite aujour­d’hui, et je reprendrai la prochaine fois
+je suis forcé d’aller vite aujour­d’hui, et je reprendrai la prochaine fois
 
 <!-- id: s1-07-0171 -->
 

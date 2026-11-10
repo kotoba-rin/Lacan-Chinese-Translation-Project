@@ -10,21 +10,25 @@
 
 <!-- id: s11-07-0002 -->
 
-> *Vainement ton image arrive à ma rencontre*
->
-> *Et ne m’entre où je suis qui seulement la montre*
->
-> *Toi te tournant vers moi tu ne saurais trouver*
->
-> *Au mur de mon regard que ton ombre rêvée*
->
-> *Je suis ce malheureux comparable aux miroirs*
->
-> *Qui peuvent réfléchir mais ne peuvent pas voir*
->
-> *Comme eux mon œil est vide et comme eux habité*
->
-> *De l’absence de toi qui fait sa cécité*
+<div class="text-quotation">
+
+*Vainement ton image arrive à ma rencontre*
+
+*Et ne m’entre où je suis qui seulement la montre*
+
+*Toi te tournant vers moi tu ne saurais trouver*
+
+*Au mur de mon regard que ton ombre rêvée*
+
+*Je suis ce malheureux comparable aux miroirs*
+
+*Qui peuvent réfléchir mais ne peuvent pas voir*
+
+*Comme eux mon œil est vide et comme eux habité*
+
+*De l’absence de toi qui fait sa cécité*
+
+</div>
 
 <!-- id: s11-07-0003 -->
 
@@ -163,7 +167,7 @@ origine, de ce que je pourrai appeler *la fonction de la voyure *:
 
 <!-- id: s11-07-0030 -->
 
-> où nous avons perdu celui qui parle.
+où nous avons perdu celui qui parle.
 
 <!-- id: s11-07-0031 -->
 

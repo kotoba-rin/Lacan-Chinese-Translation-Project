@@ -58,7 +58,7 @@ De sorte que s’il est vrai que je dise qu’à votre égard je ne puis être i
 
 <!-- id: s20-01-0014 -->
 
-> \[*Lacan a toujours dit qu’il parlait (d’abord et avant tout) aux analystes. Son séminaire ressemble à un dispositif analytique inversé :*
+\[*Lacan a toujours dit qu’il parlait (d’abord et avant tout) aux analystes. Son séminaire ressemble à un dispositif analytique inversé :*
 
 <!-- id: s20-01-0015 -->
 
@@ -70,11 +70,11 @@ De sorte que s’il est vrai que je dise qu’à votre égard je ne puis être i
 
 <!-- id: s20-01-0017 -->
 
-> *Mais ici, en position d’analysant Lacan produit seul (cf. «...seul comme je l’ai toujours été...») le frayage du chemin de savoir du 2<sup>ème</sup> tour « des tours dits », celui qui vise*
->
-> *- au-delà de la vérité mi-dite - le réel du dire. Le mi-dire de la vérité ne peut que rater le réel du dire, la vérité est menteuse (alèthéia), elle ne peut que masquer le réel.*
->
-> *Mais loin de la vérité : dans le hors-sens des* S<sub>1</sub> *en faisant résonner en série les équivoques de lalangue*,
+*Mais ici, en position d’analysant Lacan produit seul (cf. «...seul comme je l’ai toujours été...») le frayage du chemin de savoir du 2<sup>ème</sup> tour « des tours dits », celui qui vise*
+
+*- au-delà de la vérité mi-dite - le réel du dire. Le mi-dire de la vérité ne peut que rater le réel du dire, la vérité est menteuse (alèthéia), elle ne peut que masquer le réel.*
+
+*Mais loin de la vérité : dans le hors-sens des* S<sub>1</sub> *en faisant résonner en série les équivoques de lalangue*,
 
 <!-- id: s20-01-0018 -->
 
@@ -90,7 +90,7 @@ De sorte que s’il est vrai que je dise qu’à votre égard je ne puis être i
 
 <!-- id: s20-01-0021 -->
 
-> *<sub>→</sub>* « ...*d’ici que vous atteigniez le même, y’aura une paye.* »\]
+*<sub>→</sub>* « ...*d’ici que vous atteigniez le même, y’aura une paye.* »\]
 
 <!-- id: s20-01-0022 -->
 
@@ -98,7 +98,7 @@ Et c’est bien, c’est bien ce qui fait que c’est seulement que quand le vô
 
 <!-- id: s20-01-0023 -->
 
-> si vous êtes, inversement, mes analysants ...vous pouvez normalement vous détacher de votre analyste.
+si vous êtes, inversement, mes analysants ...vous pouvez normalement vous détacher de votre analyste.
 
 <!-- id: s20-01-0024 -->
 
@@ -114,7 +114,7 @@ L’année dernière, j’ai intitulé ce que je croyais pouvoir vous dire: « �
 
 <!-- id: s20-01-0027 -->
 
-> \[*le titre du séminaire* 1971-72 *était « *…*Ou pire » <sub>→</sub> deux dimensions hétérogènes *: « ... » *et « Ou pire ».*
+\[*le titre du séminaire* 1971-72 *était « *…*Ou pire » <sub>→</sub> deux dimensions hétérogènes *: « ... » *et « Ou pire ».*
 
 <!-- id: s20-01-0028 -->
 
@@ -134,7 +134,7 @@ Notre chemin, celui du *discours analytique,* ne progresse que de cette limite �
 
 <!-- id: s20-01-0032 -->
 
-> \[*ce chemin que Lacan fraye sur un littoral (littéral) étroit (cf. Lituraterre) entre :*
+\[*ce chemin que Lacan fraye sur un littoral (littéral) étroit (cf. Lituraterre) entre :*
 
 <!-- id: s20-01-0033 -->
 
@@ -146,7 +146,7 @@ Notre chemin, celui du *discours analytique,* ne progresse que de cette limite �
 
 <!-- id: s20-01-0035 -->
 
-> *entre les deux, le chemin littoral du discours analytique, celui de la lettre.*
+*entre les deux, le chemin littoral du discours analytique, celui de la lettre.*
 
 <!-- id: s20-01-0036 -->
 
@@ -170,11 +170,11 @@ Ici il faut que je m’excuse auprès de quelqu’un qui, ayant bien voulu s’e
 
 <!-- id: s20-01-0041 -->
 
-> un juriste pour le situer ...j’ai cru pouvoir, pouvoir pour - à lui - faire sentir ce qui en est le fondement...
+un juriste pour le situer ...j’ai cru pouvoir, pouvoir pour - à lui - faire sentir ce qui en est le fondement...
 
 <!-- id: s20-01-0042 -->
 
-> c’est à savoir que *le langage* ça n’est pas l’être parlant ...je lui ai dit que je ne me trouvais pas déplacé d’avoir à parler dans une Faculté de droit, celle où il est sensible, sensible par ce qu’on appelle l’existence des codes, du *code civil*, du *code pénal* et de bien d’autres,
+c’est à savoir que *le langage* ça n’est pas l’être parlant ...je lui ai dit que je ne me trouvais pas déplacé d’avoir à parler dans une Faculté de droit, celle où il est sensible, sensible par ce qu’on appelle l’existence des codes, du *code civil*, du *code pénal* et de bien d’autres,
 
 <!-- id: s20-01-0043 -->
 
@@ -254,9 +254,9 @@ Ici je pointe, je pointe « *la réserve »* qu’implique ce champ du droit, 
 
 <!-- id: s20-01-0062 -->
 
-> *\[la réserve est la partie d’une toile, protégée par de la cire, qui ne sera ni imprimée, ni peinte.*
->
-> *la jouissance est hétérogène au champ du droit (limitée à l’usufruit), ce qui est laissé en blanc dans ce champ\]*
+*\[la réserve est la partie d’une toile, protégée par de la cire, qui ne sera ni imprimée, ni peinte.*
+
+*la jouissance est hétérogène au champ du droit (limitée à l’usufruit), ce qui est laissé en blanc dans ce champ\]*
 
 <!-- id: s20-01-0063 -->
 
@@ -272,15 +272,15 @@ C’est bien là que se trouve le point tournant \[*cf. schéma*\] qu’interrog
 
 <!-- id: s20-01-0066 -->
 
-> \[*dans le discours analytique l’analyste en position de semblant (a) interpelle le sujet* (S) *en position d’Autre, sur sa jouissance.*
->
-> *L’analysant « produit » des essaims de* S<sub>1</sub>, *interprétés du « savoir du psychanalyste » :* S<sub>2</sub> *(en position de vérité).*
->
-> *Ces* S<sub>1</sub> *sont n’importe quels signifiants coupés du savoir<sub>→</sub> asémantiques (« dites tout ce qui vous passe par la tête même si ça n’a aucun sens »),*
->
-> *mais ils ne peuvent rejoindre leur vérité en* S<sub>2</sub>, *mais seulement – par l’interprétation de l’analyste – <u>laisser apercevoir</u> fugitivement au sujet* S
->
-> *le* S<sub>2</sub> *comme* *savoir local qui gît là.*\]
+\[*dans le discours analytique l’analyste en position de semblant (a) interpelle le sujet* (S) *en position d’Autre, sur sa jouissance.*
+
+*L’analysant « produit » des essaims de* S<sub>1</sub>, *interprétés du « savoir du psychanalyste » :* S<sub>2</sub> *(en position de vérité).*
+
+*Ces* S<sub>1</sub> *sont n’importe quels signifiants coupés du savoir<sub>→</sub> asémantiques (« dites tout ce qui vous passe par la tête même si ça n’a aucun sens »),*
+
+*mais ils ne peuvent rejoindre leur vérité en* S<sub>2</sub>, *mais seulement – par l’interprétation de l’analyste – <u>laisser apercevoir</u> fugitivement au sujet* S
+
+*le* S<sub>2</sub> *comme* *savoir local qui gît là.*\]
 
 <!-- id: s20-01-0067 -->
 
@@ -292,11 +292,11 @@ C’est bien sur ce chemin que j’ai essayé dans un temps...
 
 <!-- id: s20-01-0069 -->
 
-> le temps de l’*« après-vous… »* - que j’ai *« laissé passer »* \[*cf. début de séance*\] ...pour montrer que si l’analyse nous permet d’avancer dans une certaine question \[*éthique : du « droit » au « devoir » (de jouissance)*\], c’est bien que nous ne pouvons nous en tenir à ce dont je suis parti...
+le temps de l’*« après-vous… »* - que j’ai *« laissé passer »* \[*cf. début de séance*\] ...pour montrer que si l’analyse nous permet d’avancer dans une certaine question \[*éthique : du « droit » au « devoir » (de jouissance)*\], c’est bien que nous ne pouvons nous en tenir à ce dont je suis parti...
 
 <!-- id: s20-01-0070 -->
 
-> assurément respectueusement ...à ce dont je suis parti, soit de l’*Éthique* d’Aristote[^5], \[*du souverain Bien, etc.*\] pour montrer *quel glissement* s’était fait avec le temps.
+assurément respectueusement ...à ce dont je suis parti, soit de l’*Éthique* d’Aristote[^5], \[*du souverain Bien, etc.*\] pour montrer *quel glissement* s’était fait avec le temps.
 
 <!-- id: s20-01-0071 -->
 
@@ -314,7 +314,7 @@ C’est bien sur ce chemin que j’ai essayé dans un temps...
 
 <!-- id: s20-01-0074 -->
 
-> au temps de ce qui, du langage, a démontré la valeur d’outil, la valeur d’usage.
+au temps de ce qui, du langage, a démontré la valeur d’outil, la valeur d’usage.
 
 <!-- id: s20-01-0075 -->
 
@@ -366,19 +366,19 @@ Je sors, et une fois de plus j’écrirai sur la porte...
 
 <!-- id: s20-01-0087 -->
 
-> afin qu’à la sortie, peut-être, vous puissiez vous rendre compte des *rêves* que vous aurez sur ce lit poursuivis ...la phrase suivante : *la jouissance de l’Autre...*
+afin qu’à la sortie, peut-être, vous puissiez vous rendre compte des *rêves* que vous aurez sur ce lit poursuivis ...la phrase suivante : *la jouissance de l’Autre...*
 
 <!-- id: s20-01-0088 -->
 
-> de l’Autre avec \[*un grand A*\]... il me semble que depuis le temps – *hein ?* – ça doit suffire que je m’arrête là.
->
-> Je vous en ai assez rebattu les oreilles de ce « *grand A* » qui vient après \[*dans la phrase* : « *l’Autre avec... »*\], vu que maintenant il traîne partout, ce grand A mis devant l’Autre, plus ou moins opportunément d’ailleurs,
->
-> ça s’imprime à tort et à travers *...la jouissance de l’Autre, du corps de l’Autre qui le...*
+de l’Autre avec \[*un grand A*\]... il me semble que depuis le temps – *hein ?* – ça doit suffire que je m’arrête là.
+
+Je vous en ai assez rebattu les oreilles de ce « *grand A* » qui vient après \[*dans la phrase* : « *l’Autre avec... »*\], vu que maintenant il traîne partout, ce grand A mis devant l’Autre, plus ou moins opportunément d’ailleurs,
+
+ça s’imprime à tort et à travers *...la jouissance de l’Autre, du corps de l’Autre qui le...*
 
 <!-- id: s20-01-0089 -->
 
-> lui aussi : « *avec un grand A* » ...*du corps de l’Autre qui le symbolise,* [*n’est pas l*<span id="LE_signe" class="anchor"></span>*e signe de l’amour*](#Retour_UN_signe).
+lui aussi : « *avec un grand A* » ...*du corps de l’Autre qui le symbolise,* [*n’est pas l*<span id="LE_signe" class="anchor"></span>*e signe de l’amour*](#Retour_UN_signe).
 
 <!-- id: s20-01-0090 -->
 
@@ -402,7 +402,7 @@ C’est pas comme l’amour : *l’amour*, lui, *fait signe et*...
 
 <!-- id: s20-01-0095 -->
 
-> comme je l’ai dit depuis longtemps ...*il est toujours réciproque*. \[*l’amour qui se donne est toujours réciproque », il demande en retour l’amour de l’Autre pour retrouver la complétude du Un.*
+comme je l’ai dit depuis longtemps ...*il est toujours réciproque*. \[*l’amour qui se donne est toujours réciproque », il demande en retour l’amour de l’Autre pour retrouver la complétude du Un.*
 
 <!-- id: s20-01-0096 -->
 
@@ -454,7 +454,7 @@ Alors d’où part, d’où part *ça* qui est capable...
 
 <!-- id: s20-01-0108 -->
 
-> certes - mais de façon *non nécessaire, non suffisante* ...de répondre par *la jouissance, jouissance du corps, du corps de l’Autre* ?
+certes - mais de façon *non nécessaire, non suffisante* ...de répondre par *la jouissance, jouissance du corps, du corps de l’Autre* ?
 
 <!-- id: s20-01-0109 -->
 
@@ -498,9 +498,9 @@ Comme la psychanalyse l’avance...
 
 <!-- id: s20-01-0119 -->
 
-> avec une audace d’autant plus incroyable que toute son expérience va contre,
->
-> que ce qu’elle démontre c’est le contraire ...*l’amour* c’est de faire *Un*. C’est vrai que... qu’on ne parle que de ça depuis longtemps, de *l’Un *: la fusion, l’ἔρως \[éros\] serait tension vers *l’Un.*
+avec une audace d’autant plus incroyable que toute son expérience va contre,
+
+que ce qu’elle démontre c’est le contraire ...*l’amour* c’est de faire *Un*. C’est vrai que... qu’on ne parle que de ça depuis longtemps, de *l’Un *: la fusion, l’ἔρως \[éros\] serait tension vers *l’Un.*
 
 <!-- id: s20-01-0120 -->
 
@@ -584,7 +584,7 @@ Assurément, ai-je dit, ce qui apparaît sur ces corps, sous ces formes énigmat
 
 <!-- id: s20-01-0140 -->
 
-> mettez-le \[*écrivez-le*\] comme vous voudrez \[*asexué ou (a)sexué* \] ...comme *(a)sexué*, puisque ce qui est dit « *jouissance sexuelle »* est dominé, marqué par l’impossibilité d’établir comme tel, nulle part dans l’énonçable, ce seul *Un* qui nous intéresse : *l’Un* de la relation *« rapport sexuel »*. \[« *fusion » des jouissances <sub>→</sub> complétude*\]
+mettez-le \[*écrivez-le*\] comme vous voudrez \[*asexué ou (a)sexué* \] ...comme *(a)sexué*, puisque ce qui est dit « *jouissance sexuelle »* est dominé, marqué par l’impossibilité d’établir comme tel, nulle part dans l’énonçable, ce seul *Un* qui nous intéresse : *l’Un* de la relation *« rapport sexuel »*. \[« *fusion » des jouissances <sub>→</sub> complétude*\]
 
 <!-- id: s20-01-0141 -->
 
@@ -592,11 +592,11 @@ C’est *<u>ce que le discours analytique démontre</u>*, en ceci justement que 
 
 <!-- id: s20-01-0142 -->
 
-> j’ai dit : *« dit… »...*le sexe, le sexe corporel, le sexe de la femme...
+j’ai dit : *« dit… »...*le sexe, le sexe corporel, le sexe de la femme...
 
 <!-- id: s20-01-0143 -->
 
-> j’ai dit de « *la femme* » : justement il n’y en a pas, il n’y a pas *« La femme »*, la femme n’est *« pas toute »* ...le sexe de la femme ne lui dit rien, si ce n’est par l’intermédiaire de la *jouissance* du corps \[*les objets(a) »*\].
+j’ai dit de « *la femme* » : justement il n’y en a pas, il n’y a pas *« La femme »*, la femme n’est *« pas toute »* ...le sexe de la femme ne lui dit rien, si ce n’est par l’intermédiaire de la *jouissance* du corps \[*les objets(a) »*\].
 
 <!-- id: s20-01-0144 -->
 
@@ -612,7 +612,7 @@ C’est *<u>ce que le discours analytique démontre</u>*, en ceci justement que 
 
 <!-- id: s20-01-0147 -->
 
-> permettez-moi de le dire sous cette forme ...que *le phallus* \[**S<sub>1</sub>**\] *c’est l’objection de conscience, faite par un des deux êtres sexués, au service à rendre à l’Autre*. \[*le* **S<sub>2</sub>** *ne peut fonder le* **S<sub>1</sub>** *<sub>→</sub> impuissance à « retrouver » le Un* *de l’amour*.
+permettez-moi de le dire sous cette forme ...que *le phallus* \[**S<sub>1</sub>**\] *c’est l’objection de conscience, faite par un des deux êtres sexués, au service à rendre à l’Autre*. \[*le* **S<sub>2</sub>** *ne peut fonder le* **S<sub>1</sub>** *<sub>→</sub> impuissance à « retrouver » le Un* *de l’amour*.
 
 <!-- id: s20-01-0148 -->
 
@@ -736,7 +736,7 @@ Mais néanmoins, regardons de près ce que nous inspire l’idée que dans la jo
 
 <!-- id: s20-01-0178 -->
 
-> dans la jouissance des corps *...la jouissance sexuelle* ait ce privilège de pouvoir être interrogée comme étant spécifiée au moins *par une impasse*.
+dans la jouissance des corps *...la jouissance sexuelle* ait ce privilège de pouvoir être interrogée comme étant spécifiée au moins *par une impasse*.
 
 <!-- id: s20-01-0179 -->
 
@@ -752,7 +752,7 @@ De ce *lieu de l’Autre*...
 
 <!-- id: s20-01-0182 -->
 
-> d’un sexe comme Autre, comme Autre absolu ...que nous permet d’avancer le plus récent développement de cette topologie, j’avancerai ici le terme de *compacité*.
+d’un sexe comme Autre, comme Autre absolu ...que nous permet d’avancer le plus récent développement de cette topologie, j’avancerai ici le terme de *compacité*.
 
 <!-- id: s20-01-0183 -->
 
@@ -812,9 +812,9 @@ Le complément de cette hypothèse de *« compacité »* est celui-ci : dans l
 
 <!-- id: s20-01-0197 -->
 
-> de ce qui se définit comme plus grand qu’un point, plus petit qu’un autre,
->
-> mais en aucun cas égal ni au point de départ ni au point d’arrivée, pour vous l’imager rapidement ...*le même espace donc étant supposé recouvert d’espaces ouverts :* il est équivalent - ça se démontre - de dire que l’ensemble de ces espaces ouverts s’offre toujours à un sous-recouvrement d’espaces ouverts, eux tous constituant une finitude, à savoir que la suite des dits éléments constitue *une suite finie*. \[*ce même espace fermé de « la faille » (incluant sa limite) peut être recouvert par des espaces ouverts (chacun n’incluant pas de limite).*
+de ce qui se définit comme plus grand qu’un point, plus petit qu’un autre,
+
+mais en aucun cas égal ni au point de départ ni au point d’arrivée, pour vous l’imager rapidement ...*le même espace donc étant supposé recouvert d’espaces ouverts :* il est équivalent - ça se démontre - de dire que l’ensemble de ces espaces ouverts s’offre toujours à un sous-recouvrement d’espaces ouverts, eux tous constituant une finitude, à savoir que la suite des dits éléments constitue *une suite finie*. \[*ce même espace fermé de « la faille » (incluant sa limite) peut être recouvert par des espaces ouverts (chacun n’incluant pas de limite).*
 
 <!-- id: s20-01-0198 -->
 
@@ -838,7 +838,7 @@ Mais ce que veut dire en tout cas la finitude, démontrable*, des espaces ouvert
 
 <!-- id: s20-01-0203 -->
 
-> et puisqu’il s’agit de l’*Autre côté,* mettons-les au féminin *...*peuvent être pris 1 *par* 1 ou bien encore *« une par une »*.
+et puisqu’il s’agit de l’*Autre côté,* mettons-les au féminin *...*peuvent être pris 1 *par* 1 ou bien encore *« une par une »*.
 
 <!-- id: s20-01-0204 -->
 
@@ -850,7 +850,7 @@ Ces femmes *« pas toutes »* \[*elles ne sont pas toutes dans le « rapport 
 
 <!-- id: s20-01-0206 -->
 
-> l’Autre avec un grand A maintenant ...qui s’*incarne* \[*le « *S<sub>2 »</sub> *de L femme comme* S(A)\] - si l’on peut dire - comme être sexué exige cet *« une par une  »*.
+l’Autre avec un grand A maintenant ...qui s’*incarne* \[*le « *S<sub>2 »</sub> *de L femme comme* S(A)\] - si l’on peut dire - comme être sexué exige cet *« une par une  »*.
 
 <!-- id: s20-01-0207 -->
 
@@ -862,11 +862,11 @@ Et c’est bien là qu’il est étrange, qu’il est *fascinant*...
 
 <!-- id: s20-01-0209 -->
 
-> *c’est le cas de le dire* : *Autre fascination*, *Autre fascinum* \[*Sens propre : charme, maléfice. Sens figuré : phallus* *(des mystères antiques*)\] ...*cette exigence de l’Un*...
+*c’est le cas de le dire* : *Autre fascination*, *Autre fascinum* \[*Sens propre : charme, maléfice. Sens figuré : phallus* *(des mystères antiques*)\] ...*cette exigence de l’Un*...
 
 <!-- id: s20-01-0210 -->
 
-> comme déjà étrangement le *Parménide* [^15] pouvait nous le faire prévoir ...*c’est de l’Autre qu’elle sort.* *Là où est l’être, c’est l’exigence de l’infinitude*.
+comme déjà étrangement le *Parménide* [^15] pouvait nous le faire prévoir ...*c’est de l’Autre qu’elle sort.* *Là où est l’être, c’est l’exigence de l’infinitude*.
 
 <!-- id: s20-01-0211 -->
 
@@ -942,11 +942,11 @@ Je le suggère...
 
 <!-- id: s20-01-0229 -->
 
-> c’est plus tard que je l’avancerai, plus loin ...je le suggère de ceci *que tout ce qui s’est articulé de l’être*...
+c’est plus tard que je l’avancerai, plus loin ...je le suggère de ceci *que tout ce qui s’est articulé de l’être*...
 
 <!-- id: s20-01-0230 -->
 
-> tout ce qui le fait se refuser au prédicat - de dire *« l’homme est »,* par exemple, sans dire quoi ...que l’indication par là nous est donnée *que tout ce qui est de l’être* est étroitement relié précisément à cette section du prédicat et indique que rien en somme ne peut être dit sinon par ces détours en impasse, par ces démonstrations d’impossibilité logique par où aucun prédicat ne suffit, et que *ce qui est de l’être*, d’un « *être* » qui se poserait comme *absolu*, *n’est jamais que la fracture, la cassure, l’interruption,* *de la formule « être sexué », en tant que l’être sexué est intéressé dans la jouissance*. \[c*haque discours, à soutenir l’Impossible, vient butter sur des apories logiques (impasses), sur l’impuissance à atteindre la Vérité, sur un « ce n’est pas ça »,* *(ce n’est pas la jouissance attendue) et enclenche son dépassement par le passage à un autre discours :*
+tout ce qui le fait se refuser au prédicat - de dire *« l’homme est »,* par exemple, sans dire quoi ...que l’indication par là nous est donnée *que tout ce qui est de l’être* est étroitement relié précisément à cette section du prédicat et indique que rien en somme ne peut être dit sinon par ces détours en impasse, par ces démonstrations d’impossibilité logique par où aucun prédicat ne suffit, et que *ce qui est de l’être*, d’un « *être* » qui se poserait comme *absolu*, *n’est jamais que la fracture, la cassure, l’interruption,* *de la formule « être sexué », en tant que l’être sexué est intéressé dans la jouissance*. \[c*haque discours, à soutenir l’Impossible, vient butter sur des apories logiques (impasses), sur l’impuissance à atteindre la Vérité, sur un « ce n’est pas ça »,* *(ce n’est pas la jouissance attendue) et enclenche son dépassement par le passage à un autre discours :*
 
 <!-- id: s20-01-0231 -->
 

@@ -106,7 +106,11 @@ Ce qui le prouve, c’est ce qui advient en effet le jour où est prononcée par
 
 <!-- id: s3-08-0026 -->
 
-> « *Ma femme n’est rien pour moi.* »
+<div class="text-quotation">
+
+« *Ma femme n’est rien pour moi.* »
+
+</div>
 
 <!-- id: s3-08-0027 -->
 
@@ -114,7 +118,11 @@ La situation devient à proprement parler intolérable, et non tolérée, à par
 
 <!-- id: s3-08-0028 -->
 
-> « *Alors que pouvez vous bien être pour moi ?* »
+<div class="text-quotation">
+
+« *Alors que pouvez vous bien être pour moi ?* »
+
+</div>
 
 <!-- id: s3-08-0029 -->
 
@@ -214,7 +222,7 @@ C’est donc :
 
 <!-- id: s3-08-0053 -->
 
-> en quelque sorte de choisir : « *c’est lui ou moi* »,
+en quelque sorte de choisir : « *c’est lui ou moi* »,
 
 <!-- id: s3-08-0054 -->
 
@@ -230,9 +238,9 @@ Nous savons que les ani­maux…
 
 <!-- id: s3-08-0057 -->
 
-> tout au moins le croyons-nous par ce que nous voyons, ça parait porter en soi une suffisante évidence
->
-> pour que depuis toujours les animaux servent aux hommes de point de référence
+tout au moins le croyons-nous par ce que nous voyons, ça parait porter en soi une suffisante évidence
+
+pour que depuis toujours les animaux servent aux hommes de point de référence
 
 <!-- id: s3-08-0058 -->
 
@@ -420,7 +428,7 @@ C’est que tous les personnages dont il parle à par­tir du moment où il peut
 
 <!-- id: s3-08-0104 -->
 
-> *bâclés à la six-quatre-deux* », comme l’a dit PICHON qui est à l’origine de cette traduction,
+*bâclés à la six-quatre-deux* », comme l’a dit PICHON qui est à l’origine de cette traduction,
 
 <!-- id: s3-08-0105 -->
 
@@ -520,9 +528,9 @@ Mais bien entendu tout cela n’est pas insusceptible d’un certain nombre d’
 
 <!-- id: s3-08-0129 -->
 
-> il rectifie par la suite qu’il n’y avait pas là que AHRIMAN, il devrait y avoir ORMUZD aussi,
->
-> les deux Dieux du bien et du mal ne pouvant pas être dissociés, isolés
+il rectifie par la suite qu’il n’y avait pas là que AHRIMAN, il devrait y avoir ORMUZD aussi,
+
+les deux Dieux du bien et du mal ne pouvant pas être dissociés, isolés
 
 <!-- id: s3-08-0130 -->
 
@@ -534,7 +542,11 @@ Il est donc face à face avec Dieu, et Dieu lui dit la parole significative, il 
 
 <!-- id: s3-08-0132 -->
 
-> « *charogne* ».
+<div class="text-quotation">
+
+« *charogne* ».
+
+</div>
 
 <!-- id: s3-08-0133 -->
 
@@ -654,7 +666,7 @@ C’est là que nous devons centrer notre étude du phéno­mène, nous n’avon
 
 <!-- id: s3-08-0162 -->
 
-> plus ou moins hal­lucinés, parasitaires, étranges, intuitifs, persécutifs
+plus ou moins hal­lucinés, parasitaires, étranges, intuitifs, persécutifs
 
 <!-- id: s3-08-0163 -->
 

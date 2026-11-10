@@ -38,17 +38,21 @@ Enfin, alors que j’en discutais avec *certains d’entre vous qui m’opposaie
 
 <!-- id: s7-24-0009 -->
 
-> « *Il suffit de lire la pièce sans parti pris -* écrit-il *- pour voir que ce vieillard sauvage irrité, impitoyable, qui prononce sur ses fils*
->
-> *des malédictions horribles -* c’est juste au terme de la pièce, vingt minutes avant il est encore à écraser Polynice
->
-> sous ses malédictions *- et qui jouit d’avance en homme assoiffé de vengeance, des malheurs qui vont fondre sur sa ville natale, n’a rien de cette « profonde paix de Dieu », de cette « transfiguration du pénitent pieux » que l’exégèse traditionnelle se plaît*
->
-> *à constater surtout en lui. Le poète, qui n’a pas l’habitude de voiler les réalités de la vie* \[au moyen de phrases fades et émollientes\]*, s’est clairement rendu compte que la misère et le malheur n’ont pas pour effet ordinaire de « transfigurer » l’homme,*
->
-> *mais de le déprimer et de lui enlever sa noblesse. Son Œdipe est pieux (il l’était dès l’origine même dans l’« Œdipe roi »),*
->
-> *mais il est devenu sauvage,* \[ἠγρίωσαι tout à fait comme Philoctète\] *dans sa détresse.*(Phil. 1321) »
+<div class="text-quotation">
+
+« *Il suffit de lire la pièce sans parti pris -* écrit-il *- pour voir que ce vieillard sauvage irrité, impitoyable, qui prononce sur ses fils*
+
+*des malédictions horribles -* c’est juste au terme de la pièce, vingt minutes avant il est encore à écraser Polynice
+
+sous ses malédictions *- et qui jouit d’avance en homme assoiffé de vengeance, des malheurs qui vont fondre sur sa ville natale, n’a rien de cette « profonde paix de Dieu », de cette « transfiguration du pénitent pieux » que l’exégèse traditionnelle se plaît*
+
+*à constater surtout en lui. Le poète, qui n’a pas l’habitude de voiler les réalités de la vie* \[au moyen de phrases fades et émollientes\]*, s’est clairement rendu compte que la misère et le malheur n’ont pas pour effet ordinaire de « transfigurer » l’homme,*
+
+*mais de le déprimer et de lui enlever sa noblesse. Son Œdipe est pieux (il l’était dès l’origine même dans l’« Œdipe roi »),*
+
+*mais il est devenu sauvage,* \[ἠγρίωσαι tout à fait comme Philoctète\] *dans sa détresse.*(Phil. 1321) »
+
+</div>
 
 <!-- id: s7-24-0010 -->
 
@@ -172,11 +176,15 @@ Je vais donc lire assez rapidement *quelques fragments de ces deux textes* en sc
 
 <!-- id: s7-24-0040 -->
 
-> « *Une merveilleuse sérénité a pris possession de toute mon âme, à l’égard de cette douce matinée de printemps que de tout cœur*
->
-> *je goûte. Je suis seul et je me réjouis de vivre dans cette contrée créée pour des âmes comme la mienne*...
->
-> *Je suis, mon très cher, si absorbé dans ce sentiment de charme existant que ma production artistique en souffre.* \[[Werther, 10 mai](http://fr.wikisource.org/wiki/Les_Souffrances_du_jeune_Werther_(trad._Porchat))\]»
+<div class="text-quotation">
+
+« *Une merveilleuse sérénité a pris possession de toute mon âme, à l’égard de cette douce matinée de printemps que de tout cœur*
+
+*je goûte. Je suis seul et je me réjouis de vivre dans cette contrée créée pour des âmes comme la mienne*...
+
+*Je suis, mon très cher, si absorbé dans ce sentiment de charme existant que ma production artistique en souffre.* \[[Werther, 10 mai](http://fr.wikisource.org/wiki/Les_Souffrances_du_jeune_Werther_(trad._Porchat))\]»
+
+</div>
 
 <!-- id: s7-24-0041 -->
 
@@ -188,11 +196,15 @@ Nous allons ensuite assister à l’expansion de ce sentiment de beauté.
 
 <!-- id: s7-24-0043 -->
 
-> « *Je ne pourrais actuellement dessiner pas même un trait, et jamais je n’ai été plus grand peintre qu’en ces instants,*
->
-> *lorsque l’aimable vallée autour de moi se couvre de vapeurs, sanctuaire au sein duquel ne peuvent pénétrer que quelques rayons furtifs. Alors, couché dans l’herbe auprès de la chute du ruisseau, mille plantes diverses, tout près du sol, attirent mon attention. Lorsque je sens plus près de mon cœur le fourmillement du petit monde qui vit entre ces brins d’herbe, les innombrables,*
->
-> *les insondables forces de ces vermisseaux, de ces moucherons*...
+<div class="text-quotation">
+
+« *Je ne pourrais actuellement dessiner pas même un trait, et jamais je n’ai été plus grand peintre qu’en ces instants,*
+
+*lorsque l’aimable vallée autour de moi se couvre de vapeurs, sanctuaire au sein duquel ne peuvent pénétrer que quelques rayons furtifs. Alors, couché dans l’herbe auprès de la chute du ruisseau, mille plantes diverses, tout près du sol, attirent mon attention. Lorsque je sens plus près de mon cœur le fourmillement du petit monde qui vit entre ces brins d’herbe, les innombrables,*
+
+*les insondables forces de ces vermisseaux, de ces moucherons*...
+
+</div>
 
 <!-- id: s7-24-0044 -->
 
@@ -200,11 +212,15 @@ Nous assistons ici à l’expansion indéfinie du sentiment de beauté, puis à 
 
 <!-- id: s7-24-0045 -->
 
-> ...*et que je sens la présence du Tout-puissant qui nous a créés à son image, le souffle de l’être, tout amour, qui nous porte*
->
-> *et nous garde planant dans les éternelles délices, quand alors autour de mes yeux il se fait comme un crépuscule,*
->
-> *le ciel plane dans mon âme comme l’image d’un amant. Je soupire, souffrant, et je songe, ah, si on pouvait exprimer tout cela.* »
+<div class="text-quotation">
+
+...*et que je sens la présence du Tout-puissant qui nous a créés à son image, le souffle de l’être, tout amour, qui nous porte*
+
+*et nous garde planant dans les éternelles délices, quand alors autour de mes yeux il se fait comme un crépuscule,*
+
+*le ciel plane dans mon âme comme l’image d’un amant. Je soupire, souffrant, et je songe, ah, si on pouvait exprimer tout cela.* »
+
+</div>
 
 <!-- id: s7-24-0046 -->
 
@@ -232,9 +248,13 @@ Nous pouvons dire que le premier thème est celui de la critique du sentiment du
 
 <!-- id: s7-24-0052 -->
 
-> « *Quelle fatalité a voulu que ce qui fait la félicité de l’homme devienne la source de sa misère. Le sentiment si plein, si chaleureux que mon cœur a de la vivante nature, ce sentiment qui m’inondait de tant de volupté, qui du monde qui m’entourait me faisait*
->
-> *un paradis, devient maintenant un intolérable bourreau, un démon tourmenteur qui me poursuit* ».
+<div class="text-quotation">
+
+« *Quelle fatalité a voulu que ce qui fait la félicité de l’homme devienne la source de sa misère. Le sentiment si plein, si chaleureux que mon cœur a de la vivante nature, ce sentiment qui m’inondait de tant de volupté, qui du monde qui m’entourait me faisait*
+
+*un paradis, devient maintenant un intolérable bourreau, un démon tourmenteur qui me poursuit* ».
+
+</div>
 
 <!-- id: s7-24-0053 -->
 
@@ -546,15 +566,19 @@ Enfin en ce qui concerne le sublime dynamique, nous n’avons pas une détermina
 
 <!-- id: s7-24-0130 -->
 
-> « *Des roches surplombant audacieusement et comme menaçants, des nuages s’amoncelant avec un cortège d’éclairs et de tonnerre,*
->
-> *des ouragans qui laissent après toute la dévastation, l’océan sans borne dans sa fureur, les hautes cascades du fleuve puissant,*
->
-> *voilà des choses qui réduisent à l’insignifiance notre force de résistance comparée a notre puissance. Mais l’aspect est d’autant plus attrayant qu’il est plus terrible. Si nous nous trouvons en sûreté, nous disons facilement de ces choses qu’elles sont sublimes,*
->
-> *parce qu’elles nous font découvrir en nous-mêmes une faculté de résistance d’un tout autre genre qui nous donne le courage*
->
-> *de nous mesurer avec l’apparente toute-puissance de la nature* ».
+<div class="text-quotation">
+
+« *Des roches surplombant audacieusement et comme menaçants, des nuages s’amoncelant avec un cortège d’éclairs et de tonnerre,*
+
+*des ouragans qui laissent après toute la dévastation, l’océan sans borne dans sa fureur, les hautes cascades du fleuve puissant,*
+
+*voilà des choses qui réduisent à l’insignifiance notre force de résistance comparée a notre puissance. Mais l’aspect est d’autant plus attrayant qu’il est plus terrible. Si nous nous trouvons en sûreté, nous disons facilement de ces choses qu’elles sont sublimes,*
+
+*parce qu’elles nous font découvrir en nous-mêmes une faculté de résistance d’un tout autre genre qui nous donne le courage*
+
+*de nous mesurer avec l’apparente toute-puissance de la nature* ».
+
+</div>
 
 <!-- id: s7-24-0131 -->
 
@@ -602,11 +626,15 @@ Spéculativement, ce sont ces rives que KANT a cherchées, et *qu’il a cherch�
 
 <!-- id: s7-24-0142 -->
 
-> « *Je suis par goût un chercheur, je sens la soif de connaître, le désir inquiet d’étendre mon savoir et la satisfaction de tout progrès accompli. Il fut un temps où je croyais que tout cela pouvait constituer l’honneur de l’humanité, et je méprisais le peuple,*
->
-> *qui est ignorant de tout. C’est* ROUSSEAU *qui m’a désabusé. J’apprends à adorer les hommes, et je me trouverais bien plus inutile que le commun des hommes si je ne m’efforçais à donner à tous les autres une valeur qui consiste à faire ressortir*
->
-> *les droits de l’humanité.* »
+<div class="text-quotation">
+
+« *Je suis par goût un chercheur, je sens la soif de connaître, le désir inquiet d’étendre mon savoir et la satisfaction de tout progrès accompli. Il fut un temps où je croyais que tout cela pouvait constituer l’honneur de l’humanité, et je méprisais le peuple,*
+
+*qui est ignorant de tout. C’est* ROUSSEAU *qui m’a désabusé. J’apprends à adorer les hommes, et je me trouverais bien plus inutile que le commun des hommes si je ne m’efforçais à donner à tous les autres une valeur qui consiste à faire ressortir*
+
+*les droits de l’humanité.* »
+
+</div>
 
 <!-- id: s7-24-0143 -->
 
@@ -618,7 +646,11 @@ Comment est-ce que se posera ici alors la question de cette recherche d’unité
 
 <!-- id: s7-24-0145 -->
 
-> « *Il est nécessaire d’examiner comment l’art et l’élégance de l’état civilisé se produisent, et comment ils ne se trouvent jamais dans certaines contrées afin d’apprendre à distinguer ce qui est factice, étranger à la nature, de ce qui lui appartient en propre. Si l’on parle du bonheur de l’homme sauvage, ce n’est pas pour retourner dans les forêts, c’est seulement pour voir ce que l’homme a perdu d’un côté, tandis qu’on gagne de l’autre. Et cela afin que, dans la jouissance et l’usage du luxe social, on n’aille pas s’attarder de tout son être aux goûts qui en dérivent et qui sont contraires à la nature comme à notre bonheur, afin qu’on reste avec la civilisation un homme de la nature. Voilà la considération qui sert de règle au jugement, car jamais la nature ne crée l’homme pour la vie civile. Ses inclinaisons et ses efforts n’ont pour fin que la vie dans son état simple.* »
+<div class="text-quotation">
+
+« *Il est nécessaire d’examiner comment l’art et l’élégance de l’état civilisé se produisent, et comment ils ne se trouvent jamais dans certaines contrées afin d’apprendre à distinguer ce qui est factice, étranger à la nature, de ce qui lui appartient en propre. Si l’on parle du bonheur de l’homme sauvage, ce n’est pas pour retourner dans les forêts, c’est seulement pour voir ce que l’homme a perdu d’un côté, tandis qu’on gagne de l’autre. Et cela afin que, dans la jouissance et l’usage du luxe social, on n’aille pas s’attarder de tout son être aux goûts qui en dérivent et qui sont contraires à la nature comme à notre bonheur, afin qu’on reste avec la civilisation un homme de la nature. Voilà la considération qui sert de règle au jugement, car jamais la nature ne crée l’homme pour la vie civile. Ses inclinaisons et ses efforts n’ont pour fin que la vie dans son état simple.* »
+
+</div>
 
 <!-- id: s7-24-0146 -->
 

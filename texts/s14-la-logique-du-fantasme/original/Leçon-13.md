@@ -14,9 +14,9 @@ J’ai lu hier soir quelque part - ou peut-être aussi quelques-uns d’entre vo
 
 <!-- id: s14-13-0003 -->
 
-> Comme disait un monsieur à qui je ne prétends pas ressembler, puisque je ne me promène pas comme lui
->
-> avec une canne, quoi­que quelquefois avec un chapeau …Énorme !
+Comme disait un monsieur à qui je ne prétends pas ressembler, puisque je ne me promène pas comme lui
+
+avec une canne, quoi­que quelquefois avec un chapeau …Énorme !
 
 <!-- id: s14-13-0004 -->
 
@@ -28,7 +28,7 @@ Car assurément, ce qui frappe, c’est que je ne sais pas si jamais nous pourro
 
 <!-- id: s14-13-0006 -->
 
-> dans la perspective de la pensée une fois parvenue au bout de son développement, ce que FREUD, nous offre …mesurez-vous bien ce que signifie de nous avoir proposé le modèle de la satisfaction subjective dans *la conjonction sexuelle* ?
+dans la perspective de la pensée une fois parvenue au bout de son développement, ce que FREUD, nous offre …mesurez-vous bien ce que signifie de nous avoir proposé le modèle de la satisfaction subjective dans *la conjonction sexuelle* ?
 
 <!-- id: s14-13-0007 -->
 
@@ -36,7 +36,7 @@ Est-ce que l’expérience, l’expérience d’où FREUD lui-même partait, n�
 
 <!-- id: s14-13-0008 -->
 
-> l’emploi, qu’on le règle à la mesure de sa subsistance purement et simplement, ou à celle de la productivité …quelle marge dans ce contexte, est-elle laissée à ce qui serait le temps propre d’une cul­ture de l’amour ?
+l’emploi, qu’on le règle à la mesure de sa subsistance purement et simplement, ou à celle de la productivité …quelle marge dans ce contexte, est-elle laissée à ce qui serait le temps propre d’une cul­ture de l’amour ?
 
 <!-- id: s14-13-0009 -->
 
@@ -52,9 +52,9 @@ C’est bien parce qu’avec la sexualité…
 
 <!-- id: s14-13-0012 -->
 
-> qui préci­sément avait au cours des siècles, présidé ce qui nous parait si folies, si délires, de la gnose,
->
-> de la copulation du sage et de la σοϕία \[sophia\] – par la voie de quel chemin ! …c’est bien parce qu’en notre siècle et sous le règne du su­jet, il n’y avait aucun risque que la sexualité pût se préva­loir d’être un *modèle* quelconque *pour la connaissance*, que sans doute il a commencé cette chanson de *meneur de jeu*, si bien illustrée par ce *conte de* GRIMM qu’il aimait, du *Joueur de flûte* entraînant derrière lui cette audience dont on peut bien dire que, quant aux voies d’une sagesse quelconque, elle représentait *la lie de la terre*.
+qui préci­sément avait au cours des siècles, présidé ce qui nous parait si folies, si délires, de la gnose,
+
+de la copulation du sage et de la σοϕία \[sophia\] – par la voie de quel chemin ! …c’est bien parce qu’en notre siècle et sous le règne du su­jet, il n’y avait aucun risque que la sexualité pût se préva­loir d’être un *modèle* quelconque *pour la connaissance*, que sans doute il a commencé cette chanson de *meneur de jeu*, si bien illustrée par ce *conte de* GRIMM qu’il aimait, du *Joueur de flûte* entraînant derrière lui cette audience dont on peut bien dire que, quant aux voies d’une sagesse quelconque, elle représentait *la lie de la terre*.
 
 <!-- id: s14-13-0013 -->
 
@@ -106,9 +106,9 @@ Ici, nous re-butons sur l’étrangeté de ceci : qu’a­lors qu’il y a telle
 
 <!-- id: s14-13-0025 -->
 
-> à commencer par la réplétion digestive et aussi bien par quelques-uns des autres besoins qu’ils évoquent,
->
-> mais dans un registre différent, car il est remarquable que c’est précisément en tant que ces schèmes où la satisfaction se dé­finit comme non-transformée par l’instance subjective, la sa­tisfaction orale est quelque chose qui peut endormir le sujet, à la limite, mais assurément il est concevable que ce sommeil soit le signe subjectif de la satisfaction …combien infini­ment plus problématique est-il de pointer que l’ordre véri­table de la satisfaction subjective est à chercher dans l’ac­te sexuel, qui est précisément le point où elle s’avère le plus déchirée.
+à commencer par la réplétion digestive et aussi bien par quelques-uns des autres besoins qu’ils évoquent,
+
+mais dans un registre différent, car il est remarquable que c’est précisément en tant que ces schèmes où la satisfaction se dé­finit comme non-transformée par l’instance subjective, la sa­tisfaction orale est quelque chose qui peut endormir le sujet, à la limite, mais assurément il est concevable que ce sommeil soit le signe subjectif de la satisfaction …combien infini­ment plus problématique est-il de pointer que l’ordre véri­table de la satisfaction subjective est à chercher dans l’ac­te sexuel, qui est précisément le point où elle s’avère le plus déchirée.
 
 <!-- id: s14-13-0026 -->
 
@@ -116,11 +116,11 @@ Et ceci, au point que *tous les autres ordres de satis­faction*…
 
 <!-- id: s14-13-0027 -->
 
-> ceux que nous venons d’énumérer comme présents en effet dans l’évocation freudienne …*ne viennent prendre leur sens que mis dans une certaine dépendance*…
+ceux que nous venons d’énumérer comme présents en effet dans l’évocation freudienne …*ne viennent prendre leur sens que mis dans une certaine dépendance*…
 
 <!-- id: s14-13-0028 -->
 
-> *dont je défie qui­conque de la définir, de la rendre concevable, autrement qu’à la formuler en termes de structure* …dans une dépendance dis-­je - disons grossièrement : *symbolique,* par rapport à la sa­tisfaction sexuelle.
+*dont je défie qui­conque de la définir, de la rendre concevable, autrement qu’à la formuler en termes de structure* …dans une dépendance dis-­je - disons grossièrement : *symbolique,* par rapport à la sa­tisfaction sexuelle.
 
 <!-- id: s14-13-0029 -->
 
@@ -140,7 +140,7 @@ Tout nous indique…
 
 <!-- id: s14-13-0033 -->
 
-> ici je n’ai besoin que de faire état de *la fonction fon­damentale de ce tiers-élément qui tourne autour du phallus et de la castration* …tout nous indique que le mode de la mesure et de la proportion impliquées dans l’acte sexuel, est d’une tout autre structure et, pour dire le mot, plus *com­plexe*. C’est ce que, la dernière fois en vous quittant, j’avais commencé de formuler, en évoquant, puisqu’il s’agit d’*harmonie*, *le rapport dit anharmonique* : ce qui fait que sur une simple ligne tracée, *un segment peut être divisé de deux façons* :
+ici je n’ai besoin que de faire état de *la fonction fon­damentale de ce tiers-élément qui tourne autour du phallus et de la castration* …tout nous indique que le mode de la mesure et de la proportion impliquées dans l’acte sexuel, est d’une tout autre structure et, pour dire le mot, plus *com­plexe*. C’est ce que, la dernière fois en vous quittant, j’avais commencé de formuler, en évoquant, puisqu’il s’agit d’*harmonie*, *le rapport dit anharmonique* : ce qui fait que sur une simple ligne tracée, *un segment peut être divisé de deux façons* :
 
 <!-- id: s14-13-0034 -->
 
@@ -192,7 +192,7 @@ Contrairement à *l’indétermination*, à la parfaite liberté *de ce rapport 
 
 <!-- id: s14-13-0046 -->
 
-> aussi dirigeant, je le répète, que celui-ci puisse être, éventuellement, dans la manifestation des constances projectives …mais un rapport parfaitement déterminé et unique, je dis : numériquement parlant.
+aussi dirigeant, je le répète, que celui-ci puisse être, éventuellement, dans la manifestation des constances projectives …mais un rapport parfaitement déterminé et unique, je dis : numériquement parlant.
 
 <!-- id: s14-13-0047 -->
 
@@ -204,7 +204,7 @@ Voici sur la droite, les segments dont il s’agit : le premier que j’ai appe
 
 <!-- id: s14-13-0049 -->
 
-> je ne veux pas donner des noms de lettres à ces points, pour ne pas risquer de confusion, pour ne pas vous faire tourner les oreilles dans leur énoncé …je désigne d’ici \[trait rouge\] à ici \[trait bleu\] nous avons la valeur l.
+je ne veux pas donner des noms de lettres à ces points, pour ne pas risquer de confusion, pour ne pas vous faire tourner les oreilles dans leur énoncé …je désigne d’ici \[trait rouge\] à ici \[trait bleu\] nous avons la valeur l.
 
 <!-- id: s14-13-0050 -->
 
@@ -216,7 +216,7 @@ Voici sur la droite, les segments dont il s’agit : le premier que j’ai appe
 
 <!-- id: s14-13-0052 -->
 
-> <img src="assets/image67.png" style="width:0.6308in;height:0.39232in" alt="50" />
+<img src="assets/image67.png" style="width:0.6308in;height:0.39232in" alt="50" />
 
 <!-- id: s14-13-0053 -->
 
@@ -248,7 +248,7 @@ Et ainsi de suite à l’infini, je veux dire : sans qu’on puisse arriver jama
 
 <!-- id: s14-13-0060 -->
 
-> si je puis dire : dans les intervalles que définit le rationnel du commensurable …laisse toujours le plus grand écart. Simple indication que je ne peux, ici, plus commen­ter.
+si je puis dire : dans les intervalles que définit le rationnel du commensurable …laisse toujours le plus grand écart. Simple indication que je ne peux, ici, plus commen­ter.
 
 <!-- id: s14-13-0061 -->
 
@@ -256,7 +256,7 @@ Quoi qu’il en soit, vous voyez qu’il s’agit, de toute façon, de quelque c
 
 <!-- id: s14-13-0062 -->
 
-> car je pense que tous les boyaux de l’occultisme vont frémir à cette occasion …je suis bien obli­gé - par honnêteté - de vous dire que ce rapport « *petit a* » est ce qu’on appelle *le nombre d’or.*
+car je pense que tous les boyaux de l’occultisme vont frémir à cette occasion …je suis bien obli­gé - par honnêteté - de vous dire que ce rapport « *petit a* » est ce qu’on appelle *le nombre d’or.*
 
 <!-- id: s14-13-0063 -->
 
@@ -268,7 +268,7 @@ J’espère pourtant…
 
 <!-- id: s14-13-0065 -->
 
-> par le sérieux avec lequel j’ai intro­duit le caractère strictement mathématique de la chose et très précisément ce qu’il a d’une problématique qui ne donne nullement l’idée d’une mesure aisée à concevoir …vous avoir fait sentir qu’il s’agit d’autre chose.
+par le sérieux avec lequel j’ai intro­duit le caractère strictement mathématique de la chose et très précisément ce qu’il a d’une problématique qui ne donne nullement l’idée d’une mesure aisée à concevoir …vous avoir fait sentir qu’il s’agit d’autre chose.
 
 <!-- id: s14-13-0066 -->
 
@@ -280,11 +280,11 @@ Vous pouvez voir que déjà le fait que 1+a soit égal à l’inverse de *a*, c�
 
 <!-- id: s14-13-0068 -->
 
-> <img src="assets/image70.png" style="width:0.60067in;height:0.24999in" alt="53" /> …était déjà suffisamment assuré dans les prémisses données par la définition de ce rapport, puisque la notion qu’il consiste dans le rapport du petit au plus grand, en tant qu’égal à celui du plus grand à la somme, nous donne déjà cette formule, qui est la même que celle-ci, fondamentale :
+<img src="assets/image70.png" style="width:0.60067in;height:0.24999in" alt="53" /> …était déjà suffisamment assuré dans les prémisses données par la définition de ce rapport, puisque la notion qu’il consiste dans le rapport du petit au plus grand, en tant qu’égal à celui du plus grand à la somme, nous donne déjà cette formule, qui est la même que celle-ci, fondamentale :
 
 <!-- id: s14-13-0069 -->
 
-> ![](assets/image71.png)
+![](assets/image71.png)
 
 <!-- id: s14-13-0070 -->
 
@@ -292,7 +292,7 @@ Vous pouvez voir que déjà le fait que 1+a soit égal à l’inverse de *a*, c�
 
 <!-- id: s14-13-0071 -->
 
-> et à la vérité, pour nous *sans grande importance,* momentanément …est marqué par le fait que j’ai écrit en rouge les égalités qui suivent. La seule chose importante à marquer étant :
+et à la vérité, pour nous *sans grande importance,* momentanément …est marqué par le fait que j’ai écrit en rouge les égalités qui suivent. La seule chose importante à marquer étant :
 
 <!-- id: s14-13-0072 -->
 
@@ -312,9 +312,9 @@ C’est à savoir que le *1/2+a*…
 
 <!-- id: s14-13-0076 -->
 
-> à savoir ce qui correspondait tout à l’heure à notre segment externe dans le rapport *anharmonique* : il est égal
->
-> à *1*, étant obtenu par développement extérieur du *1* que représente la plus grande longueur …le *1/2a*, a la même valeur que cette valeur initiale d’où nous sommes partis, c’est–à–dire *« petit a »*, c’est–à–dire *1/1+a.* *1/2+a = a = 1/1+a*
+à savoir ce qui correspondait tout à l’heure à notre segment externe dans le rapport *anharmonique* : il est égal
+
+à *1*, étant obtenu par développement extérieur du *1* que représente la plus grande longueur …le *1/2a*, a la même valeur que cette valeur initiale d’où nous sommes partis, c’est–à–dire *« petit a »*, c’est–à–dire *1/1+a.* *1/2+a = a = 1/1+a*
 
 <!-- id: s14-13-0077 -->
 
@@ -326,7 +326,7 @@ Je dis « *l’un des termes quelconques  *» quel que soit son sexe. La fille
 
 <!-- id: s14-13-0079 -->
 
-> l’expérience de la relation subjective, en tant que l’analyse la définit comme œdipienne …la fille comme le garçon y entre d’abord comme enfant.
+l’expérience de la relation subjective, en tant que l’analyse la définit comme œdipienne …la fille comme le garçon y entre d’abord comme enfant.
 
 <!-- id: s14-13-0080 -->
 
@@ -334,7 +334,7 @@ Autrement dit, comme d’ores et déjà représentant le *produit*…
 
 <!-- id: s14-13-0081 -->
 
-> et je ne donne pas ce terme au hasard : nous aurons à le reprendre par la suite …en tant qu’il permet de situer, comme différent de ce qu’on appelle la *création,* ce qui de nos jours circule, comme vous le savez, partout et même *à tort et à travers*, sous le nom de *production.*
+et je ne donne pas ce terme au hasard : nous aurons à le reprendre par la suite …en tant qu’il permet de situer, comme différent de ce qu’on appelle la *création,* ce qui de nos jours circule, comme vous le savez, partout et même *à tort et à travers*, sous le nom de *production.*
 
 <!-- id: s14-13-0082 -->
 
@@ -378,7 +378,7 @@ On sait la valeur de la fonction unifiante de cette présence de la mère. On le
 
 <!-- id: s14-13-0092 -->
 
-> vous avez pu l’entendre pour l’avoir ici vu soutenir dans un débat qui a terminé notre année dernière …toute la situation analytique a été conçue comme produisant idéalement, je veux dire comme se fondant sur l’idéal de cette *fusion unitive*, ou de cette *unification fondante*, comme vous voudrez… \[*Rires*\] qui est censée avoir uni pen­dant neuf mois – je l’ai rappelé la dernière fois : l’enfant et la mère. Assurément…
+vous avez pu l’entendre pour l’avoir ici vu soutenir dans un débat qui a terminé notre année dernière …toute la situation analytique a été conçue comme produisant idéalement, je veux dire comme se fondant sur l’idéal de cette *fusion unitive*, ou de cette *unification fondante*, comme vous voudrez… \[*Rires*\] qui est censée avoir uni pen­dant neuf mois – je l’ai rappelé la dernière fois : l’enfant et la mère. Assurément…
 
 <!-- id: s14-13-0093 -->
 
@@ -430,7 +430,7 @@ Pour que l’un des partenaires se pose vis-à-vis de l’autre comme un « *Un
 
 <!-- id: s14-13-0105 -->
 
-> en d’autres termes, pour que s’institue *la dyade du couple* …nous avions ici, dans ce rapport ainsi inscrit, dans la mesure de la « *moyenne et ex­trême raison* », le support, à savoir ce second « *Un* » qui est ins­crit à droite et qui redonne par rapport à l’ensemble, à condition qu’y soit maintenu ce terme tiers du *petit(a), la proportion*.
+en d’autres termes, pour que s’institue *la dyade du couple* …nous avions ici, dans ce rapport ainsi inscrit, dans la mesure de la « *moyenne et ex­trême raison* », le support, à savoir ce second « *Un* » qui est ins­crit à droite et qui redonne par rapport à l’ensemble, à condition qu’y soit maintenu ce terme tiers du *petit(a), la proportion*.
 
 <!-- id: s14-13-0106 -->
 
@@ -478,7 +478,7 @@ Mais c’est qu’aussi bien il s’agit de tout autre chose que de ce petit exe
 
 <!-- id: s14-13-0117 -->
 
-> on le sait assez, on sait aussi quelle place ceci a tenu dans un certain verbiage psychana­lytique …si quelque chose vient se fonder autour de *la jouissance de l’Autre*, c’est pour autant que la structure que nous avons aujourd’hui énoncée fait surgir *le fantôme du don.* C’est parce qu’*elle n’a pas le phallus* que *le don* de la femme prend une valeur *privilégiée* quant à *l’être* \[le phallus\] et qui s’appelle *l’amour*, qui est - comme je l’ai défini - « *le don de ce qu’on n’a pas* ».
+on le sait assez, on sait aussi quelle place ceci a tenu dans un certain verbiage psychana­lytique …si quelque chose vient se fonder autour de *la jouissance de l’Autre*, c’est pour autant que la structure que nous avons aujourd’hui énoncée fait surgir *le fantôme du don.* C’est parce qu’*elle n’a pas le phallus* que *le don* de la femme prend une valeur *privilégiée* quant à *l’être* \[le phallus\] et qui s’appelle *l’amour*, qui est - comme je l’ai défini - « *le don de ce qu’on n’a pas* ».
 
 <!-- id: s14-13-0118 -->
 
@@ -502,7 +502,7 @@ C’est toujours sous le mode d’une genèse, obscure certes, avant que je ne v
 
 <!-- id: s14-13-0123 -->
 
-> *qu’il nous restera à examiner, selon qu’elles sont mirage ou non* …ce qu’on appelle *création* ou *poésie* par exemple.
+*qu’il nous restera à examiner, selon qu’elles sont mirage ou non* …ce qu’on appelle *création* ou *poésie* par exemple.
 
 <!-- id: s14-13-0124 -->
 
@@ -522,7 +522,7 @@ Que la *défaillance phallique* prend valeur toujours renouvelée d’*évanouis
 
 <!-- id: s14-13-0128 -->
 
-> elle, beaucoup plus directe, directement éprouvée, dans la jouissance masculine …est ce qui donne au mâle le privilège d’où est sortie l’illu­sion de la pure subjectivité.
+elle, beaucoup plus directe, directement éprouvée, dans la jouissance masculine …est ce qui donne au mâle le privilège d’où est sortie l’illu­sion de la pure subjectivité.
 
 <!-- id: s14-13-0129 -->
 
@@ -530,7 +530,7 @@ S’il est *un instant*, *un quelque part*, où l’homme peut perdre de vue la 
 
 <!-- id: s14-13-0130 -->
 
-> avant même l’avènement de ce que nous appelons ici le statut de la pure subjectivité …toutes *les illusions de la connaissance.*
+avant même l’avènement de ce que nous appelons ici le statut de la pure subjectivité …toutes *les illusions de la connaissance.*
 
 <!-- id: s14-13-0131 -->
 

@@ -421,9 +421,13 @@ Je pose donc la question à M. LÉVI-STRAUSS :
 
 <!-- id: s4-11-0074 -->
 
-> « *En fin de compte si vous faisiez ce cercle des échanges en renversant les choses, et en disant que selon les géné­rations*
->
-> *ce sont les lignées féminines qui produisent les hommes et qui les échan­gent*…
+<div class="text-quotation">
+
+« *En fin de compte si vous faisiez ce cercle des échanges en renversant les choses, et en disant que selon les géné­rations*
+
+*ce sont les lignées féminines qui produisent les hommes et qui les échan­gent*…
+
+</div>
 
 <!-- id: s4-11-0075 -->
 
@@ -431,7 +435,11 @@ car enfin *ce manque* dont nous parlons chez la femme, nous sommes tout de suite
 
 <!-- id: s4-11-0076 -->
 
-> …*et par conséquent on peut décrire l’échange à travers les générations de la façon la plus simple, on peut décrire les choses dans l’ordre inverse, on peut décrire du point de vue de la formalisation, exactement les choses de la même façon symétriquement, en pre­nant un axe de référence, un système de coordonnées fondé sur les femmes.* »
+<div class="text-quotation">
+
+…*et par conséquent on peut décrire l’échange à travers les générations de la façon la plus simple, on peut décrire les choses dans l’ordre inverse, on peut décrire du point de vue de la formalisation, exactement les choses de la même façon symétriquement, en pre­nant un axe de référence, un système de coordonnées fondé sur les femmes.* »
+
+</div>
 
 <!-- id: s4-11-0077 -->
 

@@ -10,7 +10,7 @@ C’est plutôt pénible, alors voilà : à la vérité ceci c’est plutôt le
 
 <!-- id: s24-05-0002 -->
 
-> contrairement à ce qu’il en est de la « *tresse »* ...je me suis épuisé pendant quarante huit heures à faire ce que j’appellerais une « *quatresse* ». Voilà :
+contrairement à ce qu’il en est de la « *tresse »* ...je me suis épuisé pendant quarante huit heures à faire ce que j’appellerais une « *quatresse* ». Voilà :
 
 <!-- id: s24-05-0003 -->
 
@@ -22,7 +22,7 @@ La « *tresse »* est au principe du nœud borroméen, c’est à savoir qu<su
 
 <!-- id: s24-05-0005 -->
 
-> pour peu qu<sup>’</sup>on croise de la façon convenable ces 3 ...ceci veut dire qu’au bout de 6 manœuvres de *la tresse,* vous retrouvez dans l’ordre - à la 6<sup>ème</sup> *manœuvre* - le 1, 2, 3 :
+pour peu qu<sup>’</sup>on croise de la façon convenable ces 3 ...ceci veut dire qu’au bout de 6 manœuvres de *la tresse,* vous retrouvez dans l’ordre - à la 6<sup>ème</sup> *manœuvre* - le 1, 2, 3 :
 
 <!-- id: s24-05-0006 -->
 
@@ -90,7 +90,7 @@ J’ai passé une autre époque, celle qui était prétendument réservée aux v
 
 <!-- id: s24-05-0022 -->
 
-> comme vous le voyez là, c’est-à-dire de quelque chose qu’on met d’habitude à plat ...mais de ce qu’on appelle un *tétraèdre*. Un tétraèdre, ça se dessine comme ça :
+comme vous le voyez là, c’est-à-dire de quelque chose qu’on met d’habitude à plat ...mais de ce qu’on appelle un *tétraèdre*. Un tétraèdre, ça se dessine comme ça :
 
 <!-- id: s24-05-0023 -->
 
@@ -106,7 +106,7 @@ Je dois dire que les préjugés que j’avais...
 
 <!-- id: s24-05-0026 -->
 
-> car il ne s’agit de rien de moins ...m’ont poussé à opérer avec les 4 faces et non pas avec les 6 arêtes, et qu’avec les 4 faces c’est tout à fait difficile, c’est impossible de faire un tressage.
+car il ne s’agit de rien de moins ...m’ont poussé à opérer avec les 4 faces et non pas avec les 6 arêtes, et qu’avec les 4 faces c’est tout à fait difficile, c’est impossible de faire un tressage.
 
 <!-- id: s24-05-0027 -->
 
@@ -126,7 +126,7 @@ Je veux dire que ce qui se produit, c’est qu’on ne saurait mettre en exercic
 
 <!-- id: s24-05-0031 -->
 
-> puisque de tétraèdres, il n’y en a que 3 ...sans partir de la *tresse*.
+puisque de tétraèdres, il n’y en a que 3 ...sans partir de la *tresse*.
 
 <!-- id: s24-05-0032 -->
 
@@ -166,9 +166,9 @@ J’aimerais que, de cette tresse à 3...
 
 <!-- id: s24-05-0041 -->
 
-> qui est basale dans l’opération de ces nœuds borroméens tétraédriques
->
-> auxquels, je vous le répète, je me suis attaché sans y parvenir complètement ...j’aimerais que vous tiriez une conclusion.
+qui est basale dans l’opération de ces nœuds borroméens tétraédriques
+
+auxquels, je vous le répète, je me suis attaché sans y parvenir complètement ...j’aimerais que vous tiriez une conclusion.
 
 <!-- id: s24-05-0042 -->
 
@@ -196,7 +196,7 @@ Ce qu’il y a de fâcheux pourtant, c’est que même dans l’espace, même à
 
 <!-- id: s24-05-0048 -->
 
-> puisqu’en fin de compte, c’est nous qui supportons ...à supporter la mise à plat.
+puisqu’en fin de compte, c’est nous qui supportons ...à supporter la mise à plat.
 
 <!-- id: s24-05-0049 -->
 
@@ -216,11 +216,11 @@ Mais qu’est-ce à dire, si ce n’est que même quand nous manipulons *l’es�
 
 <!-- id: s24-05-0053 -->
 
-> que je viens de vous distribuer *et que j’aimerais bien voir revenir* ...il est, sur les boules, mani­feste que la tresse fondamentale...
+que je viens de vous distribuer *et que j’aimerais bien voir revenir* ...il est, sur les boules, mani­feste que la tresse fondamentale...
 
 <!-- id: s24-05-0054 -->
 
-> celle qui s’entrecroise 12 fois ...il est manifeste que cette tresse fondamentale fait partie d’un tore.
+celle qui s’entrecroise 12 fois ...il est manifeste que cette tresse fondamentale fait partie d’un tore.
 
 <!-- id: s24-05-0055 -->
 
@@ -236,7 +236,7 @@ Exactement ce tore que nous pouvons matérialiser au niveau de ceci, à savoir d
 
 <!-- id: s24-05-0058 -->
 
-> je vous prie de consi­dérer ces boules ...si nous faisons passer un fil polaire, nous aurons exactement de la même façon un tore.
+je vous prie de consi­dérer ces boules ...si nous faisons passer un fil polaire, nous aurons exactement de la même façon un tore.
 
 <!-- id: s24-05-0059 -->
 
@@ -248,7 +248,7 @@ C’est bien en quoi la situation est homogène...
 
 <!-- id: s24-05-0061 -->
 
-> dans le cas du nœud borroméen, tel que je viens de le dessiner ici, ...est homogène entre ce nœud borroméen et le tétraèdre.
+dans le cas du nœud borroméen, tel que je viens de le dessiner ici, ...est homogène entre ce nœud borroméen et le tétraèdre.
 
 <!-- id: s24-05-0062 -->
 
@@ -364,7 +364,7 @@ Cette façon de faire *la chaîne* nous interroge sur ceci : c’est que le *Ré
 
 <!-- id: s24-05-0090 -->
 
-> à savoir ceci dans l’occasion qui est marqué là ...c’est que *le Réel serait suspendu* tout spécialement *au Corps*.
+à savoir ceci dans l’occasion qui est marqué là ...c’est que *le Réel serait suspendu* tout spécialement *au Corps*.
 
 <!-- id: s24-05-0091 -->
 
@@ -392,7 +392,7 @@ Oui, il faudrait dans ce cas que *le Réel*...
 
 <!-- id: s24-05-0097 -->
 
-> sans que nous puissions savoir où il s’arrête ...que *le Réel*, nous le mettions en continuité avec *l’Imaginaire*.
+sans que nous puissions savoir où il s’arrête ...que *le Réel*, nous le mettions en continuité avec *l’Imaginaire*.
 
 <!-- id: s24-05-0098 -->
 
@@ -536,7 +536,7 @@ X ...*l’art, la musique, l’« art » entre guillemets, la peinture, la mus
 
 <!-- id: s24-05-0133 -->
 
-> *je dis bien en acte - cette fois par le corps, qui est comme vous l’avez défini et comme Freud le définit par le germen, comme le corps étant là par appendice* ...*je pense que là au niveau de la peinture se passe justement un jeu d’appendice pré-verbal, c’est-à-dire et alors là, je vous demande d’enchaîner justement, non pas que je ne sais pas la suite, mais que j’attends votre riposte.*
+*je dis bien en acte - cette fois par le corps, qui est comme vous l’avez défini et comme Freud le définit par le germen, comme le corps étant là par appendice* ...*je pense que là au niveau de la peinture se passe justement un jeu d’appendice pré-verbal, c’est-à-dire et alors là, je vous demande d’enchaîner justement, non pas que je ne sais pas la suite, mais que j’attends votre riposte.*
 
 <!-- id: s24-05-0134 -->
 
@@ -556,15 +556,15 @@ X
 
 <!-- id: s24-05-0138 -->
 
-> *qui est la mienne, et qui est un langage où au niveau du dénoté, c’est-­à-dire au niveau de ce qui est le dictionnaire et de ce qui est justement mis en abîme et qui est en fonction de l’heure dans votre étude sur le langage à partir de la cure* ...*ici dans le fait pictural il y a une sorte d’insistance*...
+*qui est la mienne, et qui est un langage où au niveau du dénoté, c’est-­à-dire au niveau de ce qui est le dictionnaire et de ce qui est justement mis en abîme et qui est en fonction de l’heure dans votre étude sur le langage à partir de la cure* ...*ici dans le fait pictural il y a une sorte d’insistance*...
 
 <!-- id: s24-05-0139 -->
 
-> *et comme Lacan dit que le sens ne consiste pas en ce qu’il signifie au moment même, effectivement il y a toujours cette glissade et ce jeu des signifiants comme dans le Séminaire de La Lettre volée* ...*ici il y aurait un processus de conti­nuité, de curieuse insistance, à un premier niveau qui serait un niveau du dénoté*...
+*et comme Lacan dit que le sens ne consiste pas en ce qu’il signifie au moment même, effectivement il y a toujours cette glissade et ce jeu des signifiants comme dans le Séminaire de La Lettre volée* ...*ici il y aurait un processus de conti­nuité, de curieuse insistance, à un premier niveau qui serait un niveau du dénoté*...
 
 <!-- id: s24-05-0140 -->
 
-> *qui existerait en poésie, qui existe en ce qui me concerne moi, dans une expérience picturale où à ce moment-là il y a une première mise en scénario, en scène* ...*les signes sont scéno-engraphés et vont insister à un niveau où le primaire passe dans le secondaire et - si vous voulez - fait une première mise en forme de signes qui eux-mêmes seront après mis en condition d’abîme par le jeu d’une sorte d’engrenage scénique.*
+*qui existerait en poésie, qui existe en ce qui me concerne moi, dans une expérience picturale où à ce moment-là il y a une première mise en scénario, en scène* ...*les signes sont scéno-engraphés et vont insister à un niveau où le primaire passe dans le secondaire et - si vous voulez - fait une première mise en forme de signes qui eux-mêmes seront après mis en condition d’abîme par le jeu d’une sorte d’engrenage scénique.*
 
 <!-- id: s24-05-0141 -->
 

@@ -50,7 +50,7 @@ Votre présence me forcera, disons par un fait qui compte, c’est ce qu’on ap
 
 <!-- id: s18-03-0012 -->
 
-> à laquelle j’ai annoncé, comme ça, par une sorte de «* revenez-y *», que je me référerai, c’est à savoir la langue chinoise dont je me suis laissé aller à vous confier qu’elle fut un temps... enfin j’en ai appris un tout petit bout ...ça s’appelle « *Lǐ* 禮 ».
+à laquelle j’ai annoncé, comme ça, par une sorte de «* revenez-y *», que je me référerai, c’est à savoir la langue chinoise dont je me suis laissé aller à vous confier qu’elle fut un temps... enfin j’en ai appris un tout petit bout ...ça s’appelle « *Lǐ* 禮 ».
 
 <!-- id: s18-03-0013 -->
 
@@ -106,7 +106,7 @@ Dans un temps, qui déjà remonte justement, si je me souviens bien, à quelque 
 
 <!-- id: s18-03-0026 -->
 
-> ça doit faire, ça doit faire quoi ? - deux ans, c’est pas énorme ...il est sorti, dans une revue que personne ne lit plus, dont le nom fait désuet : *La Nouvelle Revue Française,* il est paru un certain article qui s’appelait « *Exercices de style de Jacques Lacan ».*
+ça doit faire, ça doit faire quoi ? - deux ans, c’est pas énorme ...il est sorti, dans une revue que personne ne lit plus, dont le nom fait désuet : *La Nouvelle Revue Française,* il est paru un certain article qui s’appelait « *Exercices de style de Jacques Lacan ».*
 
 <!-- id: s18-03-0027 -->
 
@@ -150,7 +150,7 @@ C’est à savoir en effet ceci, ceci qui est soulevé, et depuis quelque temps,
 
 <!-- id: s18-03-0037 -->
 
-> le thème est repris d’une façon moins... moins légère dans un certain nombre d’interviews ...il y a une question qui est soulevée autour de quelque chose : « *est-on structuraliste ou pas quand on est linguiste ?* »
+le thème est repris d’une façon moins... moins légère dans un certain nombre d’interviews ...il y a une question qui est soulevée autour de quelque chose : « *est-on structuraliste ou pas quand on est linguiste ?* »
 
 <!-- id: s18-03-0038 -->
 
@@ -162,7 +162,7 @@ Et on tend à se démarquer, n’est-ce pas, on dira : « *Je suis fonctionnali
 
 <!-- id: s18-03-0040 -->
 
-> d’ailleurs de pure invention journalistique, c’est moi qui le dis ...le *structuralisme* est tout de même quelque chose qui sert d’étiquette et qui bien sûr, étant donné ce qu’il inclut, à savoir un certain *sérieux*, n’est pas sans inquiéter, à quoi bien sûr on tient à marquer qu’on se réserve.
+d’ailleurs de pure invention journalistique, c’est moi qui le dis ...le *structuralisme* est tout de même quelque chose qui sert d’étiquette et qui bien sûr, étant donné ce qu’il inclut, à savoir un certain *sérieux*, n’est pas sans inquiéter, à quoi bien sûr on tient à marquer qu’on se réserve.
 
 <!-- id: s18-03-0041 -->
 
@@ -178,15 +178,15 @@ Et le fait que c’est autour du développement lin­guistique que se tient l’
 
 <!-- id: s18-03-0044 -->
 
-> c’est me semble-t-il en tout cas la plus consistante ...que de la linguistique il est fait dans le champ qui se trouve celui dans lequel je m’insère...
+c’est me semble-t-il en tout cas la plus consistante ...que de la linguistique il est fait dans le champ qui se trouve celui dans lequel je m’insère...
 
 <!-- id: s18-03-0045 -->
 
-> dans celui aussi dans lequel quelqu’un qui certes, en l’occasion,
->
-> mériterait qu’on y regarde d’un peu plus près, beaucoup plus que pour ce qui est de moi,
->
-> parce qu’on peut n’avoir qu’une idée assez vague, du moins je trouve, c’est Lévi-Strauss ...et alors Lévi-Strauss par exemple, et puis quelques autres encore, Roland Barthes, nous aussi nous ferions de la linguistique un usage - je cite - « *un usage métaphorique* ».
+dans celui aussi dans lequel quelqu’un qui certes, en l’occasion,
+
+mériterait qu’on y regarde d’un peu plus près, beaucoup plus que pour ce qui est de moi,
+
+parce qu’on peut n’avoir qu’une idée assez vague, du moins je trouve, c’est Lévi-Strauss ...et alors Lévi-Strauss par exemple, et puis quelques autres encore, Roland Barthes, nous aussi nous ferions de la linguistique un usage - je cite - « *un usage métaphorique* ».
 
 <!-- id: s18-03-0046 -->
 
@@ -202,7 +202,7 @@ C’est que, il faut bien croire qu’une formule n’est pas tout à fait dépl
 
 <!-- id: s18-03-0049 -->
 
-> je sais quoi ? Tâchons d’être exact ...il semble prouvé que « *je sais à quoi m’en tenir* ».
+je sais quoi ? Tâchons d’être exact ...il semble prouvé que « *je sais à quoi m’en tenir* ».
 
 <!-- id: s18-03-0050 -->
 
@@ -210,9 +210,9 @@ La tenue d’une certaine place, et je le sou­ligne : cette place n’est autr
 
 <!-- id: s18-03-0051 -->
 
-> je le souligne parce que je n’ai pas à l’énoncer pour la première fois,
->
-> je passe mon temps à bien répéter que c’est de là que je me tiens ...que la place que j’identifie à celle d’un *psychanalyste* : la question après tout peut être discutée puisque *bien des psychanalystes* la discuteraient, mais enfin c’est à quoi je m’en tiens.
+je le souligne parce que je n’ai pas à l’énoncer pour la première fois,
+
+je passe mon temps à bien répéter que c’est de là que je me tiens ...que la place que j’identifie à celle d’un *psychanalyste* : la question après tout peut être discutée puisque *bien des psychanalystes* la discuteraient, mais enfin c’est à quoi je m’en tiens.
 
 <!-- id: s18-03-0052 -->
 
@@ -228,7 +228,7 @@ Il y a une forte raison pour laquelle je ne saurais même soutenir que «* je s
 
 <!-- id: s18-03-0055 -->
 
-> ça, c’est vraiment dans l’axe de ce que j’ai cette année à vous dire ...c’est que le principe de la Science, tel que le procès en est pour nous engagé, je parle de ce à quoi je me réfère quand je lui donne pour centre *la science newto­nienne*, l’introduction du *champ newtonien,* c’est qu’en aucun domaine de la science on ne l’a ce *mapping,* cette carte, pour nous dire où l’on est.
+ça, c’est vraiment dans l’axe de ce que j’ai cette année à vous dire ...c’est que le principe de la Science, tel que le procès en est pour nous engagé, je parle de ce à quoi je me réfère quand je lui donne pour centre *la science newto­nienne*, l’introduction du *champ newtonien,* c’est qu’en aucun domaine de la science on ne l’a ce *mapping,* cette carte, pour nous dire où l’on est.
 
 <!-- id: s18-03-0056 -->
 
@@ -236,7 +236,7 @@ Et qu’en plus...
 
 <!-- id: s18-03-0057 -->
 
-> tout le monde est d’accord là-dessus ...que, quelle qu’en vaille l’aune de l’objection qui peut être faite, dès qu’on commence à parler de la carte justement, et de son hasard et de sa nécessité, eh bien n’importe qui, n’importe qui est en posture de vous objecter que vous ne faites plus de la science, mais de la philosophie.
+tout le monde est d’accord là-dessus ...que, quelle qu’en vaille l’aune de l’objection qui peut être faite, dès qu’on commence à parler de la carte justement, et de son hasard et de sa nécessité, eh bien n’importe qui, n’importe qui est en posture de vous objecter que vous ne faites plus de la science, mais de la philosophie.
 
 <!-- id: s18-03-0058 -->
 
@@ -260,7 +260,7 @@ L’hypothèse, dans le champ scientifique...
 
 <!-- id: s18-03-0063 -->
 
-> et quoi qu’en pense quiconque ...l’hypo­thèse participe avant tout de la logique :
+et quoi qu’en pense quiconque ...l’hypo­thèse participe avant tout de la logique :
 
 <!-- id: s18-03-0064 -->
 
@@ -312,13 +312,13 @@ C’est là que s’introduit dans sa massivité...
 
 <!-- id: s18-03-0076 -->
 
-> je m’excuse de repartir d’un point vraiment aussi originel, mais après tout, puisque il peut me venir, et de personnes autorisées d’être linguistes, des objections comme celle-ci : que de la linguistique je ne fais qu’un « *usage méta­phorique »*,
+je m’excuse de repartir d’un point vraiment aussi originel, mais après tout, puisque il peut me venir, et de personnes autorisées d’être linguistes, des objections comme celle-ci : que de la linguistique je ne fais qu’un « *usage méta­phorique »*,
 
 <!-- id: s18-03-0077 -->
 
-> je dois rappeler, je dois répondre quelle que soit l’occasion à laquelle je le fais,
->
-> et je le fais ce matin en raison du fait que je m’attendais à rencontrer une atmosphère plus combative ...eh bien donc je dois rappeler ceci, c’est que si je peux dire décemment que *je sais*, je sais quoi ?
+je dois rappeler, je dois répondre quelle que soit l’occasion à laquelle je le fais,
+
+et je le fais ce matin en raison du fait que je m’attendais à rencontrer une atmosphère plus combative ...eh bien donc je dois rappeler ceci, c’est que si je peux dire décemment que *je sais*, je sais quoi ?
 
 <!-- id: s18-03-0078 -->
 
@@ -326,7 +326,7 @@ Parce qu’après tout, peut-être que je me place quelque part dans un endroit 
 
 <!-- id: s18-03-0079 -->
 
-> dont je vous ai introduit comme ça le nom la dernière fois ...le nommé Mencius, peut-être, peut nous servir à définir.
+dont je vous ai introduit comme ça le nom la dernière fois ...le nommé Mencius, peut-être, peut nous servir à définir.
 
 <!-- id: s18-03-0080 -->
 
@@ -374,9 +374,9 @@ Je dis que la cause de ceci n’est à chercher que dans le langage lui-même et
 
 <!-- id: s18-03-0091 -->
 
-> ce que j’ajoute à Freud, même si dans Freud c’est déjà là, patent,
->
-> parce que quoi que ce soit qu’il démontre que l’inconscient n’est jamais rien que matière de langage ...j’ajoute ceci : que « *l’inconscient est structuré comme un langage* ». Lequel ? Eh bien, justement, cherchez-le !
+ce que j’ajoute à Freud, même si dans Freud c’est déjà là, patent,
+
+parce que quoi que ce soit qu’il démontre que l’inconscient n’est jamais rien que matière de langage ...j’ajoute ceci : que « *l’inconscient est structuré comme un langage* ». Lequel ? Eh bien, justement, cherchez-le !
 
 <!-- id: s18-03-0092 -->
 
@@ -392,7 +392,7 @@ C’est de nature plutôt à faire penser que le statut universitaire...
 
 <!-- id: s18-03-0095 -->
 
-> ça n’est que trop évident dans les développements ...impose à la linguistique de tourner à une drôle de sauce. D’après ce qu’on en voit c’est pas douteux.
+ça n’est que trop évident dans les développements ...impose à la linguistique de tourner à une drôle de sauce. D’après ce qu’on en voit c’est pas douteux.
 
 <!-- id: s18-03-0096 -->
 
@@ -408,9 +408,9 @@ Ce qu’il y a d’amusant, puisqu’il est évident, il est évident que, il es
 
 <!-- id: s18-03-0099 -->
 
-> un certain nombre de gens dans lesquels je me suis rangé tout à l’heure \[« *Structuralistes* »\],
->
-> en y ajoutant deux autres noms et on pourrait en ajouter encore quelques-uns ...c’est évidemment à partir de « *nous »*, enfin, que la linguistique voit s’accroître, comme ça le nombre de ses postes, ceux que décomptait ce matin dans le journal, *le ministère de l’Éducation nationale,* et puis aussi le nombre des étudiants.
+un certain nombre de gens dans lesquels je me suis rangé tout à l’heure \[« *Structuralistes* »\],
+
+en y ajoutant deux autres noms et on pourrait en ajouter encore quelques-uns ...c’est évidemment à partir de « *nous »*, enfin, que la linguistique voit s’accroître, comme ça le nombre de ses postes, ceux que décomptait ce matin dans le journal, *le ministère de l’Éducation nationale,* et puis aussi le nombre des étudiants.
 
 <!-- id: s18-03-0100 -->
 
@@ -446,7 +446,7 @@ C’est tout de même curieux que des linguistes ne voient pas que tout usage du
 
 <!-- id: s18-03-0108 -->
 
-> chaque fois qu’on s’avance dans un effort dit « logicien » ...de défi­nir d’abord un «* langage-objet *» [^21] dont il est clair, dont il se touche du doigt, aux énoncés de n’importe lesquels de ces essais logiciens, qu’il est insaisissable ce *langage-objet*.
+chaque fois qu’on s’avance dans un effort dit « logicien » ...de défi­nir d’abord un «* langage-objet *» [^21] dont il est clair, dont il se touche du doigt, aux énoncés de n’importe lesquels de ces essais logiciens, qu’il est insaisissable ce *langage-objet*.
 
 <!-- id: s18-03-0109 -->
 
@@ -454,7 +454,7 @@ Il est de la nature du langage...
 
 <!-- id: s18-03-0110 -->
 
-> je ne dis pas de *la parole*, je dis du langage même ...que pour ce qui est d’accrocher quoi que ce soit qui « *signifie »*, *le référent n’est jamais le bon, et c’est ça qui fait un langage*. Toute désignation est *métaphorique*, elle ne peut se faire que par l’intermé­diaire *d’autre chose*.
+je ne dis pas de *la parole*, je dis du langage même ...que pour ce qui est d’accrocher quoi que ce soit qui « *signifie »*, *le référent n’est jamais le bon, et c’est ça qui fait un langage*. Toute désignation est *métaphorique*, elle ne peut se faire que par l’intermé­diaire *d’autre chose*.
 
 <!-- id: s18-03-0111 -->
 
@@ -494,9 +494,9 @@ Il n’y a aucune raison que je me prive...
 
 <!-- id: s18-03-0120 -->
 
-> enfin je ne vais pas vous rappeler tout de même ce que vous savez tous parce que vous l’avez lu
->
-> dans un tas d’ordures occultisantes dont vous vous abreuvez comme chacun sait, n’est-ce pas ...je parle pas du *yang* et du *yin,* comme tout le monde vous savez ça - hein ? - le mâle et la femelle.
+enfin je ne vais pas vous rappeler tout de même ce que vous savez tous parce que vous l’avez lu
+
+dans un tas d’ordures occultisantes dont vous vous abreuvez comme chacun sait, n’est-ce pas ...je parle pas du *yang* et du *yin,* comme tout le monde vous savez ça - hein ? - le mâle et la femelle.
 
 <!-- id: s18-03-0121 -->
 
@@ -544,7 +544,7 @@ Mais en fin de compte, ça nous intéresse beaucoup, parce que vous allez le voi
 
 <!-- id: s18-03-0132 -->
 
-> vous allez le voir, je vous l’annonce : c’est ça que j’ai à vous dire cette année ...c’est que la psy­chanalyse, elle, c’est dans cette même métaphore qu’elle se déplace toutes voiles dehors.
+vous allez le voir, je vous l’annonce : c’est ça que j’ai à vous dire cette année ...c’est que la psy­chanalyse, elle, c’est dans cette même métaphore qu’elle se déplace toutes voiles dehors.
 
 <!-- id: s18-03-0133 -->
 
@@ -564,9 +564,9 @@ Alors, qu’il y ait une langue quand même dans laquelle ceci : 為
 
 <!-- id: s18-03-0137 -->
 
-> je l’écris plus ou moins bien avec la craie, bon enfin c’est quand même assez clair.
->
-> Je vais le refaire. Apprenez à le faire ça vous aidera \[*Rires*\] ...ça se lit « *wei »* 為 et ça fonctionne à la fois dans la formule « *wúwéi »* 無為 qui veut dire « non-agir », donc ça \[*wei*\] veut dire « agir », et pour un rien vous voyez « *wei »* employé comme « *comme* », ça veut dire « *comme* ».
+je l’écris plus ou moins bien avec la craie, bon enfin c’est quand même assez clair.
+
+Je vais le refaire. Apprenez à le faire ça vous aidera \[*Rires*\] ...ça se lit « *wei »* 為 et ça fonctionne à la fois dans la formule « *wúwéi »* 無為 qui veut dire « non-agir », donc ça \[*wei*\] veut dire « agir », et pour un rien vous voyez « *wei »* employé comme « *comme* », ça veut dire « *comme* ».
 
 <!-- id: s18-03-0138 -->
 
@@ -582,7 +582,7 @@ C’est pas mal une langue comme ça ! Une langue où les verbes...
 
 <!-- id: s18-03-0141 -->
 
-> et les plus *« verbes »* : agir, qu’est-ce qu’il y a de plus « *verbe »*, qu’est-ce qu’il y a de plus *verbe actif?* ...se transforment en menues conjonctions. Ça, c’est courant.
+et les plus *« verbes »* : agir, qu’est-ce qu’il y a de plus « *verbe »*, qu’est-ce qu’il y a de plus *verbe actif?* ...se transforment en menues conjonctions. Ça, c’est courant.
 
 <!-- id: s18-03-0142 -->
 
@@ -594,7 +594,7 @@ Moi je voudrais bien demander à *un certain* [^22] par exemple : comment pour 
 
 <!-- id: s18-03-0144 -->
 
-> enfin quand même *« la double articulation »,* on en crève ! - ...« *la double articulation »*, qu’est-ce qu’il en est *en chinois* ? Hein ?
+enfin quand même *« la double articulation »,* on en crève ! - ...« *la double articulation »*, qu’est-ce qu’il en est *en chinois* ? Hein ?
 
 <!-- id: s18-03-0145 -->
 
@@ -746,11 +746,15 @@ Ce à quoi je veux en venir c’est ceci : c’est que pour attraper quelque ch
 
 <!-- id: s18-03-0182 -->
 
-> « *le support »*, chacun sait que je ne vous en abreuve pas, c’est bien *la chose du monde dont je me méfie le plus*, parce que c’est avec ça bien sûr qu’on fait les pires extrapolations,
->
-> c’est avec ça pour tout dire qu’on fait la psychologie, la psychologie,
->
-> c’est ce qui nous est bien nécessaire pour pouvoir arriver à penser la fonction du langage ...alors quand je réalise *que du plus-de-jouir le support c’est la métonymie*, c’est bien que là je suis entièrement justifié, c’est ce qui fait que vous me suiviez, par le fait que ce *plus-de-jouir* est essentiellement un *objet glissant *: impossible d’arrêter ce glis­sement en aucun point de la phrase.
+<div class="text-quotation">
+
+« *le support »*, chacun sait que je ne vous en abreuve pas, c’est bien *la chose du monde dont je me méfie le plus*, parce que c’est avec ça bien sûr qu’on fait les pires extrapolations,
+
+c’est avec ça pour tout dire qu’on fait la psychologie, la psychologie,
+
+c’est ce qui nous est bien nécessaire pour pouvoir arriver à penser la fonction du langage ...alors quand je réalise *que du plus-de-jouir le support c’est la métonymie*, c’est bien que là je suis entièrement justifié, c’est ce qui fait que vous me suiviez, par le fait que ce *plus-de-jouir* est essentiellement un *objet glissant *: impossible d’arrêter ce glis­sement en aucun point de la phrase.
+
+</div>
 
 <!-- id: s18-03-0183 -->
 
@@ -758,7 +762,7 @@ Néanmoins, pourquoi nous refuser à nous apercevoir que le fait qu’il soit ut
 
 <!-- id: s18-03-0184 -->
 
-> linguistique ou pas, je vous l’ai déjà dit : ça m’est égal ...dans un discours qui est le mien, et qu’il ne le soit qu’à s’emprunter non au *dis­cours* mais à la logique du capitaliste, est quelque chose qui nous introduit, plu­tôt nous ramène à ce que j’ai apporté la dernière fois et qui a laissé certains un tout petit peu perplexes.
+linguistique ou pas, je vous l’ai déjà dit : ça m’est égal ...dans un discours qui est le mien, et qu’il ne le soit qu’à s’emprunter non au *dis­cours* mais à la logique du capitaliste, est quelque chose qui nous introduit, plu­tôt nous ramène à ce que j’ai apporté la dernière fois et qui a laissé certains un tout petit peu perplexes.
 
 <!-- id: s18-03-0185 -->
 
@@ -802,7 +806,7 @@ Quand quelqu’un a été psy­chanalysé d’une certaine façon...
 
 <!-- id: s18-03-0195 -->
 
-> et ça c’est toujours vrai, dans tous les cas ...quand il a été psychanalysé d’une certaine façon, dans un certain champ, dans une cer­taine école, par des gens qu’on peut nommer, eh bien c’est incurable.
+et ça c’est toujours vrai, dans tous les cas ...quand il a été psychanalysé d’une certaine façon, dans un certain champ, dans une cer­taine école, par des gens qu’on peut nommer, eh bien c’est incurable.
 
 <!-- id: s18-03-0196 -->
 
@@ -838,7 +842,7 @@ Si vous mettez un *h* devant « *xīn* » c’est la transcription anglaise, e
 
 <!-- id: s18-03-0204 -->
 
-> si je ne m’y trompe pas, parce qu’après tout c’est purement conventionnel ...s’écrit comme ça « *xìng* 性 ».
+si je ne m’y trompe pas, parce qu’après tout c’est purement conventionnel ...s’écrit comme ça « *xìng* 性 ».
 
 <!-- id: s18-03-0205 -->
 
@@ -922,7 +926,7 @@ Et puis mon Dieu, il y a un type...
 
 <!-- id: s18-03-0225 -->
 
-> Dieu sait pourquoi : *décret du ciel !* ...il y a Marx, qui a en somme assuré au capitalisme une assez longue survie.
+Dieu sait pourquoi : *décret du ciel !* ...il y a Marx, qui a en somme assuré au capitalisme une assez longue survie.
 
 <!-- id: s18-03-0226 -->
 
@@ -966,7 +970,7 @@ Je sais bien qu’à terminer maintenant...
 
 <!-- id: s18-03-0236 -->
 
-> parce que - mon Dieu - l’heure s’avance ...je vais vous laisser peut-être un petit peu trop en haleine.
+parce que - mon Dieu - l’heure s’avance ...je vais vous laisser peut-être un petit peu trop en haleine.
 
 <!-- id: s18-03-0237 -->
 
@@ -974,7 +978,7 @@ Tout de même, je vais revenir en arrière, sur le plan de *l’agir métaphoriq
 
 <!-- id: s18-03-0238 -->
 
-> puisque aujourd’hui ça a été mon pivot ...la linguistique convenablement filtrée, critiquée, focalisée enfin pour tout dire, à condition que nous en fassions exactement ce que nous voulons.
+puisque aujourd’hui ça a été mon pivot ...la linguistique convenablement filtrée, critiquée, focalisée enfin pour tout dire, à condition que nous en fassions exactement ce que nous voulons.
 
 <!-- id: s18-03-0239 -->
 

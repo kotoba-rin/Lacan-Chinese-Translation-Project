@@ -4,8 +4,7 @@ type: knowledge-card
 verification: 已核实
 tags:
   - 研讨班XVII
-  - 领域/数学
-  - 领域/微分几何
+  - 领域/数学逻辑与形式科学/几何与拓扑
   - 语言/法语
   - 概念/高阶接触
 verified_at: 2026-07-28

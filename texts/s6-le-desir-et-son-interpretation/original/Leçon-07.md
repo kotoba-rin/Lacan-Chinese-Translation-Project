@@ -34,7 +34,7 @@ C’est bien ce qui est caché derrière la notion de *névrose de dépendance*.
 
 <!-- id: s6-07-0008 -->
 
-> que nous révélons comme formatrice, selon la formation de la genèse du sujet
+que nous révélons comme formatrice, selon la formation de la genèse du sujet
 
 <!-- id: s6-07-0009 -->
 
@@ -78,7 +78,7 @@ Ceci, nous avons commencé de le faire cette année en pre­nant un rêve sur le
 
 <!-- id: s6-07-0019 -->
 
-> je veux dire *avoir intégré secondairement à la Traumdeutung* après lui avoir donné une place particu­lière tout à fait utile dans l’article *Les Deux Principes de l’événement psychique, le désir et le principe de réalité,* article publié en 1911
+je veux dire *avoir intégré secondairement à la Traumdeutung* après lui avoir donné une place particu­lière tout à fait utile dans l’article *Les Deux Principes de l’événement psychique, le désir et le principe de réalité,* article publié en 1911
 
 <!-- id: s6-07-0020 -->
 
@@ -130,7 +130,7 @@ Sur la ligne supérieure le « *il ne le savait pas* », référence essentielle
 
 <!-- id: s6-07-0032 -->
 
-> *paradoxalement*, *absurdement*, d’une façon qui résonne contradictoire et même d’une façon de *non-sens*
+*paradoxalement*, *absurdement*, d’une façon qui résonne contradictoire et même d’une façon de *non-sens*
 
 <!-- id: s6-07-0033 -->
 
@@ -154,7 +154,7 @@ C’est ainsi que le sujet se situe en face de l’autre, aussi bien cette sorte
 
 <!-- id: s6-07-0038 -->
 
-> qui fait que non seulement *il ne sait pas*, mais qu’à la limite, je dirais qu’*il ne faut pas le lui dire*
+qui fait que non seulement *il ne sait pas*, mais qu’à la limite, je dirais qu’*il ne faut pas le lui dire*
 
 <!-- id: s6-07-0039 -->
 
@@ -238,7 +238,7 @@ Je veux dire qu’en tant que le sujet, dans le registre, dans la dimension de l
 
 <!-- id: s6-07-0059 -->
 
-> ce que plus ou moins adroi­tement la conception analytique nous présente comme étant *l’objet de l’oblati­vité*, cette notion, je l’ai souvent souligné, fait difficulté, c’est à celle-là que nous essayons nous aussi de nous confronter, que nous essayons de formuler d’une façon plus rigoureuse
+ce que plus ou moins adroi­tement la conception analytique nous présente comme étant *l’objet de l’oblati­vité*, cette notion, je l’ai souvent souligné, fait difficulté, c’est à celle-là que nous essayons nous aussi de nous confronter, que nous essayons de formuler d’une façon plus rigoureuse
 
 <!-- id: s6-07-0060 -->
 
@@ -246,7 +246,7 @@ Je veux dire qu’en tant que le sujet, dans le registre, dans la dimension de l
 
 <!-- id: s6-07-0061 -->
 
-> c’est-à-dire dans la plénitude d’un destin humain qui est celui d’un sujet parlant
+c’est-à-dire dans la plénitude d’un destin humain qui est celui d’un sujet parlant
 
 <!-- id: s6-07-0062 -->
 
@@ -254,7 +254,7 @@ Je veux dire qu’en tant que le sujet, dans le registre, dans la dimension de l
 
 <!-- id: s6-07-0063 -->
 
-> je l’articule purement et simplement pour l’instant, je ne le justifie pas puisque c’est tout notre développement qui doit le justifier, et toute l’expérience analytique est là pour le justifier
+je l’articule purement et simplement pour l’instant, je ne le justifie pas puisque c’est tout notre développement qui doit le justifier, et toute l’expérience analytique est là pour le justifier
 
 <!-- id: s6-07-0064 -->
 
@@ -270,9 +270,9 @@ Pourquoi ? Parce que le *phallus*, entre autres…
 
 <!-- id: s6-07-0067 -->
 
-> il n’y a que dans cette pers­pective que nous pouvons comprendre toute la problématique
->
-> qu’a soulevé le fait, véritablement à l’infini, et dont il est impossible autrement de sortir
+il n’y a que dans cette pers­pective que nous pouvons comprendre toute la problématique
+
+qu’a soulevé le fait, véritablement à l’infini, et dont il est impossible autrement de sortir
 
 <!-- id: s6-07-0068 -->
 
@@ -284,7 +284,7 @@ Toute cette sorte d’impasse où JONES entre…
 
 <!-- id: s6-07-0070 -->
 
-> lorsque se révoltant contre la conception trop  simple que se fait FREUD de la fonction phallique comme étant le terme uni­voque autour de quoi pivote tout le développement concret, historique, de la sexualité chez l’homme et la femme
+lorsque se révoltant contre la conception trop  simple que se fait FREUD de la fonction phallique comme étant le terme uni­voque autour de quoi pivote tout le développement concret, historique, de la sexualité chez l’homme et la femme
 
 <!-- id: s6-07-0071 -->
 
@@ -336,9 +336,9 @@ Cette articulation au second degré, c’est ce qui…
 
 <!-- id: s6-07-0083 -->
 
-> comme étant justement modelé, *transformé par sa parole*, c’est-à-dire cet essai,
->
-> cette tentative de passer au-delà de cette transformation même
+comme étant justement modelé, *transformé par sa parole*, c’est-à-dire cet essai,
+
+cette tentative de passer au-delà de cette transformation même
 
 <!-- id: s6-07-0084 -->
 
@@ -402,7 +402,7 @@ C’est à savoir que dans « *un certain apprentissage* » que l’on peut fair
 
 <!-- id: s6-07-0099 -->
 
-> et c’est ce que l’on appelle « *dans une certaine technique* » l’analyse des résistances
+et c’est ce que l’on appelle « *dans une certaine technique* » l’analyse des résistances
 
 <!-- id: s6-07-0100 -->
 
@@ -462,9 +462,9 @@ Parce que précisément, si l’on peut dire que jusqu’à *un certain moment*,
 
 <!-- id: s6-07-0114 -->
 
-> à savoir la nourriture pour ce qui est du *rapport oral*, l’excrément pour ce qui est du *rapport anal*,
->
-> pour nous limiter pour l’ins­tant à ces deux-là
+à savoir la nourriture pour ce qui est du *rapport oral*, l’excrément pour ce qui est du *rapport anal*,
+
+pour nous limiter pour l’ins­tant à ces deux-là
 
 <!-- id: s6-07-0115 -->
 
@@ -480,7 +480,7 @@ Et l’essence de la névrose, et ce à quoi nous avons affaire, consiste très 
 
 <!-- id: s6-07-0118 -->
 
-> chez juste­ment le névrosé, ou dans le phénomène névrotique, à savoir dans ce qui apparaît de plus ou moins sporadique dans l’évolution de tous les sujets qui participent de *la structure de la névrose*
+chez juste­ment le névrosé, ou dans le phénomène névrotique, à savoir dans ce qui apparaît de plus ou moins sporadique dans l’évolution de tous les sujets qui participent de *la structure de la névrose*
 
 <!-- id: s6-07-0119 -->
 
@@ -540,7 +540,7 @@ FREUD, parlant de ces fantasmes tels qu’il les a observés sur un certain nomb
 
 <!-- id: s6-07-0133 -->
 
-> pour autant qu’elle parvient à être réévoquée soit dans *les fantasmes*, soit dans *les souvenirs* du sujet
+pour autant qu’elle parvient à être réévoquée soit dans *les fantasmes*, soit dans *les souvenirs* du sujet
 
 <!-- id: s6-07-0134 -->
 
@@ -548,7 +548,11 @@ FREUD, parlant de ces fantasmes tels qu’il les a observés sur un certain nomb
 
 <!-- id: s6-07-0135 -->
 
-> « *Der Vater schlägt das Kind* »
+<div class="text-quotation">
+
+« *Der Vater schlägt das Kind* »
+
+</div>
 
 <!-- id: s6-07-0136 -->
 
@@ -556,7 +560,11 @@ et que l’enfant qui est battu dans l’occa­sion, est par rapport au sujet ce
 
 <!-- id: s6-07-0137 -->
 
-> « *Le père bat l’enfant que je hais.* »
+<div class="text-quotation">
+
+« *Le père bat l’enfant que je hais.* »
+
+</div>
 
 <!-- id: s6-07-0138 -->
 
@@ -608,11 +616,15 @@ Mais FREUD ajoute que ceci qui est :
 
 <!-- id: s6-07-0150 -->
 
-> « *la plus importante et la plus lourde en conséquence de toutes les phases, nous pouvons dire d’elle quand même dans un certain*
->
-> *sens qu’elle n’a jamais d’existence réelle. Elle n’est jamais en aucun cas ré-évoquée, elle n’est jamais portée à la conscience.*
->
-> *Elle est une construction de l’analyse, mais elle n’en est pas moins une nécessité*. »
+<div class="text-quotation">
+
+« *la plus importante et la plus lourde en conséquence de toutes les phases, nous pouvons dire d’elle quand même dans un certain*
+
+*sens qu’elle n’a jamais d’existence réelle. Elle n’est jamais en aucun cas ré-évoquée, elle n’est jamais portée à la conscience.*
+
+*Elle est une construction de l’analyse, mais elle n’en est pas moins une nécessité*. »
+
+</div>
 
 <!-- id: s6-07-0151 -->
 
@@ -620,7 +632,7 @@ Je crois qu’on ne soupèse pas assez les conséquences d’une telle affirmati
 
 <!-- id: s6-07-0152 -->
 
-> puisqu’elle aboutit à une troisième phase, la phase en question
+puisqu’elle aboutit à une troisième phase, la phase en question
 
 <!-- id: s6-07-0153 -->
 
@@ -668,7 +680,7 @@ Et à la vérité, il y a une espèce de gens qui *cherchent* et il y a ceux qui
 
 <!-- id: s6-07-0164 -->
 
-> à savoir tout ce qui se pro­duit de spontané de cette étreinte de l’homme avec sa parole
+à savoir tout ce qui se pro­duit de spontané de cette étreinte de l’homme avec sa parole
 
 <!-- id: s6-07-0165 -->
 
@@ -680,7 +692,7 @@ Et je ferai remarquer que « *trouver* » vient du mot latin « *tropus* », tr�
 
 <!-- id: s6-07-0167 -->
 
-> au contraire de ce qui se passe dans les langues germaniques où c’est une autre racine qui sert pour cela
+au contraire de ce qui se passe dans les langues germaniques où c’est une autre racine qui sert pour cela
 
 <!-- id: s6-07-0168 -->
 
@@ -720,7 +732,7 @@ l’enfant, jusqu’à un certain point, participe puisque c’est lui qui fait 
 
 <!-- id: s6-07-0177 -->
 
-> d’une *façon précise*, d’une *façon non-équi­voque*, d’une façon qui ne soit pas précisément indéfiniment oscillante
+d’une *façon précise*, d’une *façon non-équi­voque*, d’une façon qui ne soit pas précisément indéfiniment oscillante
 
 <!-- id: s6-07-0178 -->
 
@@ -732,7 +744,7 @@ Mais ce sur quoi ici nous aimerions mettre l’accent, c’est sur quelque chose
 
 <!-- id: s6-07-0180 -->
 
-> celui-ci est dans les fantasmes qu’on peut observer à peu près dans leur plus grande expansion
+celui-ci est dans les fantasmes qu’on peut observer à peu près dans leur plus grande expansion
 
 <!-- id: s6-07-0181 -->
 
@@ -740,7 +752,7 @@ Mais ce sur quoi ici nous aimerions mettre l’accent, c’est sur quelque chose
 
 <!-- id: s6-07-0182 -->
 
-> de même qu’il était dans le rêve porté sur le sujet rêvant cette forme de la douleur
+de même qu’il était dans le rêve porté sur le sujet rêvant cette forme de la douleur
 
 <!-- id: s6-07-0183 -->
 
@@ -752,7 +764,7 @@ Cet élément extraordinaire sur lequel je reviendrai à propos de *la phé­nom
 
 <!-- id: s6-07-0185 -->
 
-> mais dont naturellement jamais personne n’a fait le moindre état à propos de l’angoisse
+mais dont naturellement jamais personne n’a fait le moindre état à propos de l’angoisse
 
 <!-- id: s6-07-0186 -->
 
@@ -780,7 +792,7 @@ C’est à l’*instrument* \[Φ\] qu’il est ici en fin de compte identique, p
 
 <!-- id: s6-07-0192 -->
 
-> *et toujours à notre stupeur, et toujours à la plus grande raison de nous étonner, sauf à ce que nous ne voulions pas voir*
+*et toujours à notre stupeur, et toujours à la plus grande raison de nous étonner, sauf à ce que nous ne voulions pas voir*
 
 <!-- id: s6-07-0193 -->
 
@@ -816,9 +828,9 @@ Ceci nous amène à poser…
 
 <!-- id: s6-07-0201 -->
 
-> pour introduire ce que nous aurons à développer ultérieurement
->
-> dans notre analyse de *la construction du fantasme*, à ce carrefour qui est celui-ci
+pour introduire ce que nous aurons à développer ultérieurement
+
+dans notre analyse de *la construction du fantasme*, à ce carrefour qui est celui-ci
 
 <!-- id: s6-07-0202 -->
 
@@ -894,7 +906,7 @@ Et c’est à l’intérieur de ça…
 
 <!-- id: s6-07-0220 -->
 
-> pour autant qu’il y a déjà quelque chose à la fois de préformé, d’ouvert au morcellement, mais qui n’entre que dans ce jeu de morcellement pour autant que le symbolique existe et lui en ouvre le champ
+pour autant qu’il y a déjà quelque chose à la fois de préformé, d’ouvert au morcellement, mais qui n’entre que dans ce jeu de morcellement pour autant que le symbolique existe et lui en ouvre le champ
 
 <!-- id: s6-07-0221 -->
 
@@ -918,7 +930,7 @@ J’entends pour autant que la femme symbolise le *phallus*, que l’homme y ret
 
 <!-- id: s6-07-0226 -->
 
-> au sein même de la relation amoureuse la plus profonde, la plus intime
+au sein même de la relation amoureuse la plus profonde, la plus intime
 
 <!-- id: s6-07-0227 -->
 

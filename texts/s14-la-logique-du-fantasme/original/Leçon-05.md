@@ -22,9 +22,9 @@ Alors comme ce à quoi je fais allusion, c’est la Belgique, je signale que ce 
 
 <!-- id: s14-05-0005 -->
 
-> mais sur fréquence modulée : n’en pour­ront donc bénéficier que ceux qui habitent du côté de Lille,
->
-> mais je sais que j’ai aussi des auditeurs lillois …eh bien, à 22 heures passera une petite réponse[^16] que j’ai donnée à *une personne des plus sympathiques* qui est venue m’interviewer.
+mais sur fréquence modulée : n’en pour­ront donc bénéficier que ceux qui habitent du côté de Lille,
+
+mais je sais que j’ai aussi des auditeurs lillois …eh bien, à 22 heures passera une petite réponse[^16] que j’ai donnée à *une personne des plus sympathiques* qui est venue m’interviewer.
 
 <!-- id: s14-05-0006 -->
 
@@ -44,7 +44,7 @@ Pour tout dire, ce que j’appelle *idiot*, est quelque chose, à l’occasion, 
 
 <!-- id: s14-05-0010 -->
 
-> « *Quel est le lien entre vos Écrits ?* »
+« *Quel est le lien entre vos Écrits ?* »
 
 <!-- id: s14-05-0011 -->
 
@@ -56,9 +56,9 @@ C’est à dire que, comme elle m’était posée à moi-même pour la première
 
 <!-- id: s14-05-0013 -->
 
-> je pense là non pas tellement à mon enseignement mais à mes *Écrits*
->
-> tels qu’ils peuvent se présenter à quelqu’un qui justement va les ouvrir …eh bien, c’est ce à quoi, *de l’ordre de ce qu’on appelle « l’identité »*, chacun est en droit de se rapporter, pour se l’appliquer à soi-mê­me.
+je pense là non pas tellement à mon enseignement mais à mes *Écrits*
+
+tels qu’ils peuvent se présenter à quelqu’un qui justement va les ouvrir …eh bien, c’est ce à quoi, *de l’ordre de ce qu’on appelle « l’identité »*, chacun est en droit de se rapporter, pour se l’appliquer à soi-mê­me.
 
 <!-- id: s14-05-0014 -->
 
@@ -66,7 +66,7 @@ Je veux dire que depuis *Le stade du miroir* jusqu’aux dernières notations qu
 
 <!-- id: s14-05-0015 -->
 
-> je ne le rappel­le que pour ceux qui viennent ici pour la première fois …j’ai cru devoir - parlant, je le dis aussi pour ceux-là, de *La logique du fantasme -* partir de cette remarque qui, pour les familiers d’ici n’a rien de nouveau, mais est essentielle, que : « *Le signifiant ne saurait se signifier lui-même.* »
+je ne le rappel­le que pour ceux qui viennent ici pour la première fois …j’ai cru devoir - parlant, je le dis aussi pour ceux-là, de *La logique du fantasme -* partir de cette remarque qui, pour les familiers d’ici n’a rien de nouveau, mais est essentielle, que : « *Le signifiant ne saurait se signifier lui-même.* »
 
 <!-- id: s14-05-0016 -->
 
@@ -86,7 +86,7 @@ Ce n’est pas le privilège des bébés de dire que « *ce n’est pas moi* » 
 
 <!-- id: s14-05-0020 -->
 
-> pour celui qui la vit : l’être *« infans »,* puis ensuite infantile …qu’il fera la distinction - dit le professeur de psychologie - entre le « *moi* » et le « *non-moi* ».
+pour celui qui la vit : l’être *« infans »,* puis ensuite infantile …qu’il fera la distinction - dit le professeur de psychologie - entre le « *moi* » et le « *non-moi* ».
 
 <!-- id: s14-05-0021 -->
 
@@ -106,7 +106,7 @@ Alors, pour partir aujourd’hui de ce pourquoi j’ai demandé ces craies, puis
 
 <!-- id: s14-05-0025 -->
 
-> quoi­que ici une des sources de mon embarras est quelquefois qu’*il faut que je fasse des détours assez longs* pour vous expliquer certains éléments, dont ce n’est certes pas de ma faute s’ils ne sont pas à votre portée, c’est à dire dans une circulation assez commune, *pour que*, si l’on peut dire, *des vérités pre­mières soient considérées comme acquises* quand je vous par­le …je vais vous faire ici *le schéma de ce qu’on appelle un groupe*. J’ai fait plusieurs fois allusion à ce que signifie un groupe, en partant *par exemple de la théorie des ensem­bles*, je ne vais pas recommencer aujourd’hui, surtout étant donné le chemin que nous avons à parcourir.
+quoi­que ici une des sources de mon embarras est quelquefois qu’*il faut que je fasse des détours assez longs* pour vous expliquer certains éléments, dont ce n’est certes pas de ma faute s’ils ne sont pas à votre portée, c’est à dire dans une circulation assez commune, *pour que*, si l’on peut dire, *des vérités pre­mières soient considérées comme acquises* quand je vous par­le …je vais vous faire ici *le schéma de ce qu’on appelle un groupe*. J’ai fait plusieurs fois allusion à ce que signifie un groupe, en partant *par exemple de la théorie des ensem­bles*, je ne vais pas recommencer aujourd’hui, surtout étant donné le chemin que nous avons à parcourir.
 
 <!-- id: s14-05-0026 -->
 
@@ -142,7 +142,7 @@ Nous défi­nissons la relation entre ces opérations - en quoi elles sont fond�
 
 <!-- id: s14-05-0034 -->
 
-> c’est du même KLEIN qu’il s’agit, dont j’ai fait état à propos de *la bouteille*, dite du même nom …une opération de ces trois, qui sont *a, b* et *c,* chacune, toutes ont ce caractère d’être des opérations qu’on appelle « *involutives* ».
+c’est du même KLEIN qu’il s’agit, dont j’ai fait état à propos de *la bouteille*, dite du même nom …une opération de ces trois, qui sont *a, b* et *c,* chacune, toutes ont ce caractère d’être des opérations qu’on appelle « *involutives* ».
 
 <!-- id: s14-05-0035 -->
 
@@ -158,7 +158,7 @@ Donc nous pouvons écrire, si en faisant se succéder les lettres nous entendons
 
 <!-- id: s14-05-0038 -->
 
-> <img src="assets/image21.jpeg" style="width:0.70084in;height:0.66849in" alt="14a" />
+<img src="assets/image21.jpeg" style="width:0.70084in;height:0.66849in" alt="14a" />
 
 <!-- id: s14-05-0039 -->
 
@@ -170,7 +170,7 @@ Il n’en restera pas moins que ces deux opérations, quoique différentes, auro
 
 <!-- id: s14-05-0041 -->
 
-> <img src="assets/image22.jpeg" style="width:0.77315in;height:0.6667in" alt="15a" /> …pour vous apercevoir
+<img src="assets/image22.jpeg" style="width:0.77315in;height:0.6667in" alt="15a" /> …pour vous apercevoir
 
 <!-- id: s14-05-0042 -->
 
@@ -294,7 +294,7 @@ Il n’aurait su y avoir de psychanalyse hors de l’ère, structurante pour la 
 
 <!-- id: s14-05-0072 -->
 
-> de ce *graphe* que la plupart de vous connaissent et auquel vous pouvez maintenant aisément vous reporter dans mon livre …nommément, tel qu’il est déve­loppé au niveau de l’article : *Subversion du sujet et dialectique du désir.*
+de ce *graphe* que la plupart de vous connaissent et auquel vous pouvez maintenant aisément vous reporter dans mon livre …nommément, tel qu’il est déve­loppé au niveau de l’article : *Subversion du sujet et dialectique du désir.*
 
 <!-- id: s14-05-0073 -->
 
@@ -314,7 +314,7 @@ Ici nous avons la marque, ou l’indice S(A), que je n’ai pas - depuis des ann
 
 <!-- id: s14-05-0077 -->
 
-> et ce qui doit être maintenu, maintenu comme tout à fait essentiel, conservé à la fonction de la structure, pour autant qu’elle nous intéresse, bien entendu, si nous suivons la trace, où après tout, jusqu’à présent je vous ai tous plus ou moins emmenés, puisque vous êtes là …que « *l’inconscient est structuré comme un langage* ».
+et ce qui doit être maintenu, maintenu comme tout à fait essentiel, conservé à la fonction de la structure, pour autant qu’elle nous intéresse, bien entendu, si nous suivons la trace, où après tout, jusqu’à présent je vous ai tous plus ou moins emmenés, puisque vous êtes là …que « *l’inconscient est structuré comme un langage* ».
 
 <!-- id: s14-05-0078 -->
 
@@ -402,9 +402,9 @@ Entendez bien que j’ai dit « *effet de vérité* », qu’il ne saurait d�
 
 <!-- id: s14-05-0099 -->
 
-> je veux dire : si l’indice « *vrai* » ou « *faux* », jusqu’à nouvel ordre, peut être ou non affecté au signifiant de l’in­terprétation elle-même. Ce signifiant jusqu’ici n’était qu’un signifiant *en plus*, voire *en trop,* comme tel, jusqu’à ce qu’il vienne,
->
-> *signifiant de quelque manque*, de quelque manque préci­sément comme manquant à *l’univers du discours* …je n’ai dit qu’une chose, c’est que *l’effet va être un effet de vérité*.
+je veux dire : si l’indice « *vrai* » ou « *faux* », jusqu’à nouvel ordre, peut être ou non affecté au signifiant de l’in­terprétation elle-même. Ce signifiant jusqu’ici n’était qu’un signifiant *en plus*, voire *en trop,* comme tel, jusqu’à ce qu’il vienne,
+
+*signifiant de quelque manque*, de quelque manque préci­sément comme manquant à *l’univers du discours* …je n’ai dit qu’une chose, c’est que *l’effet va être un effet de vérité*.
 
 <!-- id: s14-05-0100 -->
 
@@ -440,9 +440,9 @@ Et qu’enfin dans les *[Principes de la recherche de la vérité par la lumièr
 
 <!-- id: s14-05-0108 -->
 
-> pour que, avec les coutumes actuelles, celles qui permettent de parler de M. ROBBE-GRILLET
->
-> en lui appliquant les grilles de la névrose obsessionnelle \[Rires\] …qui présente pour les psy­chanalystes trop de dangers d’achoppement, voire de ridicule, pour que j’aille loin dans ce sens.
+pour que, avec les coutumes actuelles, celles qui permettent de parler de M. ROBBE-GRILLET
+
+en lui appliquant les grilles de la névrose obsessionnelle \[Rires\] …qui présente pour les psy­chanalystes trop de dangers d’achoppement, voire de ridicule, pour que j’aille loin dans ce sens.
 
 <!-- id: s14-05-0109 -->
 
@@ -458,7 +458,7 @@ Si c’est de *l’implication matérielle*…
 
 <!-- id: s14-05-0112 -->
 
-> selon la formule que j’ai écrite la dernière fois au tableau et que je veux bien réécrire pour peu qu’on m’en redonne la place …c’est uniquement dans la mesure où *de l’implication*, *en tant que le « donc » l’in­diquerait*, la seconde proposition : « *je suis* », serait fausse, que le lien d’implication entre les deux termes pourrait être rejeté.
+selon la formule que j’ai écrite la dernière fois au tableau et que je veux bien réécrire pour peu qu’on m’en redonne la place …c’est uniquement dans la mesure où *de l’implication*, *en tant que le « donc » l’in­diquerait*, la seconde proposition : « *je suis* », serait fausse, que le lien d’implication entre les deux termes pourrait être rejeté.
 
 <!-- id: s14-05-0113 -->
 
@@ -490,7 +490,7 @@ Ceci, bien entendu - c’est certain - nous laisse loin de l’ordre de ce qu’
 
 <!-- id: s14-05-0120 -->
 
-> ce n’est pas forcément le même quand je suis tout seul ni non plus quand je suis dans mon fauteuil d’analyste,
+ce n’est pas forcément le même quand je suis tout seul ni non plus quand je suis dans mon fauteuil d’analyste,
 
 <!-- id: s14-05-0121 -->
 
@@ -518,7 +518,7 @@ On ne sait pas, s’il avait commencé par élaguer - vraiment au sens d’élag
 
 <!-- id: s14-05-0127 -->
 
-> je dis « peut-être» parce que je commence à l’amener et que j’aurai à y revenir …en tant peut-être que ce sont celles où le sujet ne se trouve pas simplement en position de l’être-agent, mais en position de sujet, pour autant que le sujet est plus qu’intéressé, est fonciè­rement déterminé, par l’acte même dont il s’agit.
+je dis « peut-être» parce que je commence à l’amener et que j’aurai à y revenir …en tant peut-être que ce sont celles où le sujet ne se trouve pas simplement en position de l’être-agent, mais en position de sujet, pour autant que le sujet est plus qu’intéressé, est fonciè­rement déterminé, par l’acte même dont il s’agit.
 
 <!-- id: s14-05-0128 -->
 
@@ -534,7 +534,7 @@ Et puis, ce n’est pas d’hier que j’essaie d’expliquer toutes ces choses 
 
 <!-- id: s14-05-0131 -->
 
-> qui ne se re­connaissent qu’à cette *différence de temps*, après l’opacité du relatif et du celui qui désigne le sujet …c’est parce qu’il n’y a pas de *voix moyenne* [^19] en français, qu’on ne voit pas que « *suivre* » ne peut se dire que « *sequor* », pour autant que du seul fait de suivre, on n’est pas le même que de ne pas avoir suivi.
+qui ne se re­connaissent qu’à cette *différence de temps*, après l’opacité du relatif et du celui qui désigne le sujet …c’est parce qu’il n’y a pas de *voix moyenne* [^19] en français, qu’on ne voit pas que « *suivre* » ne peut se dire que « *sequor* », pour autant que du seul fait de suivre, on n’est pas le même que de ne pas avoir suivi.
 
 <!-- id: s14-05-0132 -->
 
@@ -670,7 +670,7 @@ Cet inverse \[du cogito\]
 
 <!-- id: s14-05-0165 -->
 
-> et vous sentez bien que cet *inverse* n’est *négation* que par rapport à l’ensemble où nous le faisons fonctionner …cet inverse que le « *ou je ne suis pas ou je ne pense pas* » réalise par rapport au *cogito*, il va s’agir pour nous de l’interroger d’une façon telle que nous découvrions :
+et vous sentez bien que cet *inverse* n’est *négation* que par rapport à l’ensemble où nous le faisons fonctionner …cet inverse que le « *ou je ne suis pas ou je ne pense pas* » réalise par rapport au *cogito*, il va s’agir pour nous de l’interroger d’une façon telle que nous découvrions :
 
 <!-- id: s14-05-0166 -->
 

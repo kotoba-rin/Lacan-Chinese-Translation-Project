@@ -4,8 +4,8 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/语言学
-  - 领域/宗教
+  - 领域/语言符号与文献/语源修辞与造词
+  - 领域/宗教与神话/宗教与仪式
   - 语言/法语
   - 概念/造词
 verified_at: 2026-07-28
@@ -26,5 +26,6 @@ verified_at: 2026-07-28
 ## 关联
 
 [[知识库/Lalangue：拉康的合写造词.md|Lalangue：拉康的合写造词]]
+[[知识库/épater、pater与é-Pater双关.md|épater、pater 与 é-Pater 双关]]
 
 [[texts/s19b-le-savoir-du-psychanalyste/translation/Leçon-03.md#s19b-03-0022|s19b-03-0022]]

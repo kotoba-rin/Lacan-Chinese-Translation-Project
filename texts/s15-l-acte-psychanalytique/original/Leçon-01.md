@@ -26,9 +26,9 @@ Mais ce n’est pas notre affaire aujourd’hui puisqu’il s’agit de la psych
 
 <!-- id: s15-01-0006 -->
 
-> et grâce à cette dimension du sujet qui rénove pour nous complètement ce qui peut être énoncé du sujet
->
-> comme tel et qui s’appelle l’inconscient …ce sujet, dans la psychanalyse, y est - comme je l’ai déjà formulé - mis en *acte*.
+et grâce à cette dimension du sujet qui rénove pour nous complètement ce qui peut être énoncé du sujet
+
+comme tel et qui s’appelle l’inconscient …ce sujet, dans la psychanalyse, y est - comme je l’ai déjà formulé - mis en *acte*.
 
 <!-- id: s15-01-0007 -->
 
@@ -76,9 +76,9 @@ Nous ne sommes pas encore d’ailleurs en état de spécifier cet *acte* d’une
 
 <!-- id: s15-01-0018 -->
 
-> c’est bien pour prendre le cas où l’on s’en sert avec un grand accent, à savoir quand il s’agit
->
-> d’en rendre compte, j’entends théoriquement et pour un champ assez large …les théoriciens qui s’expriment en termes analytiques, pour expliquer la pensée, comme par une sorte de besoin de sécurité, cette pensée dont, pour des raisons aux­quelles nous aurons à faire, on ne veut pas faire une entité qui paraisse par trop *métaphysique*, on essaie de *rendre compte* de cette pensée sur un fon­dement qu’à cette occasion on espère être plus *réel*.
+c’est bien pour prendre le cas où l’on s’en sert avec un grand accent, à savoir quand il s’agit
+
+d’en rendre compte, j’entends théoriquement et pour un champ assez large …les théoriciens qui s’expriment en termes analytiques, pour expliquer la pensée, comme par une sorte de besoin de sécurité, cette pensée dont, pour des raisons aux­quelles nous aurons à faire, on ne veut pas faire une entité qui paraisse par trop *métaphysique*, on essaie de *rendre compte* de cette pensée sur un fon­dement qu’à cette occasion on espère être plus *réel*.
 
 <!-- id: s15-01-0019 -->
 
@@ -102,7 +102,7 @@ En effet, il est bien connu et après tout - mon Dieu, pourquoi pas ? - acceptab
 
 <!-- id: s15-01-0024 -->
 
-> pour y situer, pour y prendre le départ, le fondement de la fonction que nous pouvons appeler action …apparaît assurément beaucoup plus précaire.
+pour y situer, pour y prendre le départ, le fondement de la fonction que nous pouvons appeler action …apparaît assurément beaucoup plus précaire.
 
 <!-- id: s15-01-0025 -->
 
@@ -126,7 +126,7 @@ Rien de ce qui se produit dans l’ordre de l’élaboration, si para­doxal que
 
 <!-- id: s15-01-0030 -->
 
-> c’est là la méthode à quoi la psychanaly­se ne manque jamais …de cette *motivation* même nous pouvons tirer quelque fruit.
+c’est là la méthode à quoi la psychanaly­se ne manque jamais …de cette *motivation* même nous pouvons tirer quelque fruit.
 
 <!-- id: s15-01-0031 -->
 
@@ -148,9 +148,9 @@ Il est clair qu’ici nous voyons se manifester un certain nombre d’édifices 
 
 <!-- id: s15-01-0035 -->
 
-> soit que nous le considérions au niveau de la totalité d’un micro-organisme,
->
-> *le processus* *stimulus-réponse* au niveau de l’amibe par exemple …et d’en faire en quelque sorte l’homologie, la spécification pour un appareil qui en concentrerait, tout au moins sur cer­tains points puissamment organisateurs de la réalité pour l’organisme, à savoir au niveau de cet arc réflexe dans l’appareil nerveux une fois diffé­rencié.
+soit que nous le considérions au niveau de la totalité d’un micro-organisme,
+
+*le processus* *stimulus-réponse* au niveau de l’amibe par exemple …et d’en faire en quelque sorte l’homologie, la spécification pour un appareil qui en concentrerait, tout au moins sur cer­tains points puissamment organisateurs de la réalité pour l’organisme, à savoir au niveau de cet arc réflexe dans l’appareil nerveux une fois diffé­rencié.
 
 <!-- id: s15-01-0036 -->
 
@@ -158,7 +158,7 @@ Voilà ce dont nous avons à rendre compte dans cette perspective : que cette r�
 
 <!-- id: s15-01-0037 -->
 
-> non satisfaisante *d’une façon interne* si l’on peut dire …tout à l’opposé nous avons affaire à cette position de *la fonction de l’acte* que j’ai évoquée d’abord sous ses aspects d’évidence, et dont on sait bien que c’est celle-là qui nous intéresse dans la psychanalyse.
+non satisfaisante *d’une façon interne* si l’on peut dire …tout à l’opposé nous avons affaire à cette position de *la fonction de l’acte* que j’ai évoquée d’abord sous ses aspects d’évidence, et dont on sait bien que c’est celle-là qui nous intéresse dans la psychanalyse.
 
 <!-- id: s15-01-0038 -->
 
@@ -186,7 +186,11 @@ En effet, cette question n’a-t-elle pas d’autre portée que l’ἐποχή 
 
 <!-- id: s15-01-0044 -->
 
-> « *hors de cette représentation où est la réalité ?* ».
+<div class="text-quotation">
+
+« *hors de cette représentation où est la réalité ?* ».
+
+</div>
 
 <!-- id: s15-01-0045 -->
 
@@ -262,7 +266,7 @@ Car à le supporter de quelque chose qui est de pratique quotidienne, comme par 
 
 <!-- id: s15-01-0063 -->
 
-> je crois qu’à partir de maintenant, il vous sera peut-être plus aisé de voir *qu’il constitue un fonctionnement dont on ne sait pas pourquoi on l’appelle automatique*, puisque l’αύτόματον \[automaton\] a bel et bien dans son essence une référence au hasard, alors que ce qui est impliqué dans la dimension du réflexe, c’est précisément le contraire, mais laissons …n’est-il pas évident que nous ne saurions concevoir, d’une façon ration­nelle j’entends, ce qu’il en est de *l’arc réflexe*, que comme quelque chose où l’élément moteur n’est autre que ce qui est à situer dans le petit instrument du mar­teau avec lequel on *le déclenche* et que ce qui est recueilli n’est rien d’autre qu’un *signe*, un *signe* en l’occasion, de ce que nous pouvons appe­ler l’intégrité d’un certain niveau de l’*appareil médullaire*, et à ce titre un *signe* dont il faut bien dire que ce qu’il a de plus indicatif c’est précisément quand il est *absent*, à savoir quand il dénonce la non intégrité de cet *appa­reil*, car sur le sujet de ce qu’il en est de cette intégrité, il ne nous livre pas grand chose. Par contre, sa valeur *signe de défaut*, de lésion, ce qui a valeur positive, oui, là il prend toute sa valeur.
+je crois qu’à partir de maintenant, il vous sera peut-être plus aisé de voir *qu’il constitue un fonctionnement dont on ne sait pas pourquoi on l’appelle automatique*, puisque l’αύτόματον \[automaton\] a bel et bien dans son essence une référence au hasard, alors que ce qui est impliqué dans la dimension du réflexe, c’est précisément le contraire, mais laissons …n’est-il pas évident que nous ne saurions concevoir, d’une façon ration­nelle j’entends, ce qu’il en est de *l’arc réflexe*, que comme quelque chose où l’élément moteur n’est autre que ce qui est à situer dans le petit instrument du mar­teau avec lequel on *le déclenche* et que ce qui est recueilli n’est rien d’autre qu’un *signe*, un *signe* en l’occasion, de ce que nous pouvons appe­ler l’intégrité d’un certain niveau de l’*appareil médullaire*, et à ce titre un *signe* dont il faut bien dire que ce qu’il a de plus indicatif c’est précisément quand il est *absent*, à savoir quand il dénonce la non intégrité de cet *appa­reil*, car sur le sujet de ce qu’il en est de cette intégrité, il ne nous livre pas grand chose. Par contre, sa valeur *signe de défaut*, de lésion, ce qui a valeur positive, oui, là il prend toute sa valeur.
 
 <!-- id: s15-01-0064 -->
 
@@ -278,7 +282,7 @@ Je ne songe certes pas à déprécier l’ensemble des travaux qui se sont inscr
 
 <!-- id: s15-01-0067 -->
 
-> comme si il s’agissait là encore d’un ter­rain où il faille combattre …à quelque entité de l’ordre de l’esprit.
+comme si il s’agissait là encore d’un ter­rain où il faille combattre …à quelque entité de l’ordre de l’esprit.
 
 <!-- id: s15-01-0068 -->
 
@@ -310,7 +314,7 @@ C’est en tant que le bruit de trompette n’a rien à faire avec quoi que ce s
 
 <!-- id: s15-01-0075 -->
 
-> tout au moins dans le champ où son appétit est éveillé par la vue du morceau de viande …que c’est légitimement que PAVLOV l’introduit dans le champ de l’expérience.
+tout au moins dans le champ où son appétit est éveillé par la vue du morceau de viande …que c’est légitimement que PAVLOV l’introduit dans le champ de l’expérience.
 
 <!-- id: s15-01-0076 -->
 
@@ -350,7 +354,7 @@ Il y a donc bien en effet démonstration de quelque chose qui, si vous y regarde
 
 <!-- id: s15-01-0085 -->
 
-> qui est bel et bien, et pas autrement à définir que comme l’effet de signifiant …sur un champ qui est le champ vivant, ce qui n’a d’autre retentissement - *j’entends retentissement théorique* - que de permettre de concevoir comment, là où est le langage, il n’y a aucun besoin de chercher une référence dans une entité spirituelle.
+qui est bel et bien, et pas autrement à définir que comme l’effet de signifiant …sur un champ qui est le champ vivant, ce qui n’a d’autre retentissement - *j’entends retentissement théorique* - que de permettre de concevoir comment, là où est le langage, il n’y a aucun besoin de chercher une référence dans une entité spirituelle.
 
 <!-- id: s15-01-0086 -->
 
@@ -446,11 +450,11 @@ Comment est-ce qu’il se fait que…
 
 <!-- id: s15-01-0109 -->
 
-> pour ce qui s’énonce dans le cadre de nos fonctions enseignantes et de ce qu’on appelle « *l’Université* » …comment se fait-il que dans l’ensemble les choses soient telles qu’il ne soit pas abso­lument scandaleux de formuler que tout ce qui nous est distribué par l’*Universitas litterarum,* la *Faculté des Lettres*…
+pour ce qui s’énonce dans le cadre de nos fonctions enseignantes et de ce qu’on appelle « *l’Université* » …comment se fait-il que dans l’ensemble les choses soient telles qu’il ne soit pas abso­lument scandaleux de formuler que tout ce qui nous est distribué par l’*Universitas litterarum,* la *Faculté des Lettres*…
 
 <!-- id: s15-01-0110 -->
 
-> qui a encore la haute main sur ce qu’on appelle noblement les « *Sciences Humaines* » …c’est *un savoir dosé de façon telle qu’il n’ait en fait, en aucun cas, aucune espèce de consé­quence* ?
+qui a encore la haute main sur ce qu’on appelle noblement les « *Sciences Humaines* » …c’est *un savoir dosé de façon telle qu’il n’ait en fait, en aucun cas, aucune espèce de consé­quence* ?
 
 <!-- id: s15-01-0111 -->
 

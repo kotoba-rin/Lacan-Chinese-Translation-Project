@@ -26,13 +26,17 @@ Et tout est là en effet. Cet homme que tout a trahi, que tout a abandonné, qui
 
 <!-- id: s8-21-0006 -->
 
-> « ...*de ce que disent les moines indiens, que toute cette vie mauvaise est une vaine apparence, et qu’elle ne reste avec nous*
->
-> *que parce que nous bougeons avec elle, et qu’il nous suffirait seulement de nous asseoir et de demeurer pour qu’elle passe de nous.*
->
-> *Mais ce sont des tentations viles. Moi du moins dans cette chute de tout, je reste le même, l’honneur et le devoir, le même.*
->
-> *Mais toi, Sygne, songe à ce que tu dis. Ne va pas faillir comme le reste, à cette heure où je touche à ma fin. Ne me trompe point*... »
+<div class="text-quotation">
+
+« ...*de ce que disent les moines indiens, que toute cette vie mauvaise est une vaine apparence, et qu’elle ne reste avec nous*
+
+*que parce que nous bougeons avec elle, et qu’il nous suffirait seulement de nous asseoir et de demeurer pour qu’elle passe de nous.*
+
+*Mais ce sont des tentations viles. Moi du moins dans cette chute de tout, je reste le même, l’honneur et le devoir, le même.*
+
+*Mais toi, Sygne, songe à ce que tu dis. Ne va pas faillir comme le reste, à cette heure où je touche à ma fin. Ne me trompe point*... »
+
+</div>
 
 <!-- id: s8-21-0007 -->
 
@@ -56,9 +60,9 @@ LOUIS : *Je n’ai que faire de l’éternité*.
 
 <!-- id: s8-21-0012 -->
 
-> LUMÎR : *Si courte que l’éternité y tienne ! Si courte que ce monde y tienne dont nous ne voulons pas et ce bonheur dont les gens*
->
-> *font tant d’affaires. Si petite, si serrée, si stricte, si raccourcie, que rien autre chose que nous deux y tienne !* »
+LUMÎR : *Si courte que l’éternité y tienne ! Si courte que ce monde y tienne dont nous ne voulons pas et ce bonheur dont les gens*
+
+*font tant d’affaires. Si petite, si serrée, si stricte, si raccourcie, que rien autre chose que nous deux y tienne !* »
 
 <!-- id: s8-21-0013 -->
 

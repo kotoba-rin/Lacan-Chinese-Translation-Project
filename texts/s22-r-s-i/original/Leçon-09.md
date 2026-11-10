@@ -50,7 +50,7 @@ Bon, alors je suis forcé de dire, pour ceux qui ne l’ont pas, ce qu’il y a 
 
 <!-- id: s22-09-0012 -->
 
-> me semble-t-il, pour autant que j’en sache quelque chose ...qui est une trouvaille que Michel Thomé a fait sur une certaine « *figure VI* », qui est quelque part dans le dernier séminaire, celui qui s’appelle, qui est intitulé « *Encore »,* il a fait là la trouvaille d’une erreur, d’une erreur dans ce dessin.
+me semble-t-il, pour autant que j’en sache quelque chose ...qui est une trouvaille que Michel Thomé a fait sur une certaine « *figure VI* », qui est quelque part dans le dernier séminaire, celui qui s’appelle, qui est intitulé « *Encore »,* il a fait là la trouvaille d’une erreur, d’une erreur dans ce dessin.
 
 <!-- id: s22-09-0013 -->
 
@@ -58,15 +58,15 @@ Je présume - je peux pas en dire plus - je présume que c’est une erreur heur
 
 <!-- id: s22-09-0014 -->
 
-> *felix culpa,* comme on dit ...c’est une erreur heureuse si c’est à l’occasion de cette erreur que Michel Thomé - mais peut-être l’avait-il inventé tout seul - inventé tout seul ceci que j’ai indiqué la dernière fois, dans un de ces papiers que j’ai fait coller au tableau et qui démontre qu’il y a en somme, qu’il est possible de figu­rer...
+*felix culpa,* comme on dit ...c’est une erreur heureuse si c’est à l’occasion de cette erreur que Michel Thomé - mais peut-être l’avait-il inventé tout seul - inventé tout seul ceci que j’ai indiqué la dernière fois, dans un de ces papiers que j’ai fait coller au tableau et qui démontre qu’il y a en somme, qu’il est possible de figu­rer...
 
 <!-- id: s22-09-0015 -->
 
-> je ne dis pas *écrire* ...de figurer des nœuds borroméens tels...
+je ne dis pas *écrire* ...de figurer des nœuds borroméens tels...
 
 <!-- id: s22-09-0016 -->
 
-> disons les choses rapidement ...qu’ils ne se défassent que par un bout, qu’à partir d’un bout.
+disons les choses rapidement ...qu’ils ne se défassent que par un bout, qu’à partir d’un bout.
 
 <!-- id: s22-09-0017 -->
 
@@ -90,7 +90,7 @@ Mais ceci prouve à tout le moins ceci, c’est que...
 
 <!-- id: s22-09-0022 -->
 
-> je dois dire ma surprise parce que je n’en ai pas tous les jours des preuves ...je ne parle pas absolument sans effet.
+je dois dire ma surprise parce que je n’en ai pas tous les jours des preuves ...je ne parle pas absolument sans effet.
 
 <!-- id: s22-09-0023 -->
 
@@ -118,13 +118,13 @@ On s’y est intéressé très tard. Disons que...
 
 <!-- id: s22-09-0029 -->
 
-> si tant est que j’ai l’ombre d’un mérite, je sais pas ce que ça veut dire d’ailleurs « méri­te » ...c’est que quand j’ai eu vent de ce truc, le nœud borroméen...
+si tant est que j’ai l’ombre d’un mérite, je sais pas ce que ça veut dire d’ailleurs « méri­te » ...c’est que quand j’ai eu vent de ce truc, le nœud borroméen...
 
 <!-- id: s22-09-0030 -->
 
-> j’ai trouvé ça dans les notes d’une personne que je rencontre de temps en temps
->
-> et qui l’avait recueilli en notes au séminaire de Guilbaud ...il y a une chose certaine, c’est que j’ai eu immédiatement la certitude que c’était là quelque chose de précieux pour moi, pour ce que j’avais à expliquer.
+j’ai trouvé ça dans les notes d’une personne que je rencontre de temps en temps
+
+et qui l’avait recueilli en notes au séminaire de Guilbaud ...il y a une chose certaine, c’est que j’ai eu immédiatement la certitude que c’était là quelque chose de précieux pour moi, pour ce que j’avais à expliquer.
 
 <!-- id: s22-09-0031 -->
 
@@ -140,7 +140,7 @@ Lequel sans doute je n’aurais pas émis...
 
 <!-- id: s22-09-0034 -->
 
-> y étant peu porté de nature ...sans un appel, un appel lié d’une façon plus ou moins contingen­te à, disons une crise dans le discours analytique.
+y étant peu porté de nature ...sans un appel, un appel lié d’une façon plus ou moins contingen­te à, disons une crise dans le discours analytique.
 
 <!-- id: s22-09-0035 -->
 
@@ -160,7 +160,7 @@ C’est évidemment, comme le remarquait précédemment Pierre Soury dans une pe
 
 <!-- id: s22-09-0039 -->
 
-> parce que je tiens beaucoup rendre à chacun son dû ...qu’ils ont quelque chose de *pareil*.
+parce que je tiens beaucoup rendre à chacun son dû ...qu’ils ont quelque chose de *pareil*.
 
 <!-- id: s22-09-0040 -->
 
@@ -168,7 +168,11 @@ Comme le même Pierre Soury me fai­sait remarquer :
 
 <!-- id: s22-09-0041 -->
 
-> « *du pareil au même, il y a la place pour une différence* »
+<div class="text-quotation">
+
+« *du pareil au même, il y a la place pour une différence* »
+
+</div>
 
 <!-- id: s22-09-0042 -->
 
@@ -192,7 +196,7 @@ Est-ce que par ce mode, cet énoncé, je vous rend sensible...
 
 <!-- id: s22-09-0047 -->
 
-> il me semble que c’est diffi­cile de vous le rendre plus sensible ...que le terme de « *consistance »* dès lors ressortit à *l’Imaginaire ?*
+il me semble que c’est diffi­cile de vous le rendre plus sensible ...que le terme de « *consistance »* dès lors ressortit à *l’Imaginaire ?*
 
 <!-- id: s22-09-0048 -->
 
@@ -224,7 +228,7 @@ Il y aurait une autre façon, ces ronds...
 
 <!-- id: s22-09-0055 -->
 
-> ne disons pas de les recon­naître, car reconnaître, ça serait déjà entrer dans toutes sortes d’implica­tions ...disons de les *différencier*, ça serait de les colorier.
+ne disons pas de les recon­naître, car reconnaître, ça serait déjà entrer dans toutes sortes d’implica­tions ...disons de les *différencier*, ça serait de les colorier.
 
 <!-- id: s22-09-0056 -->
 
@@ -232,9 +236,9 @@ Vous sentez bien toute la distance qu’il y a entre le coloriage...
 
 <!-- id: s22-09-0057 -->
 
-> et c’est là quelque chose qui devrait rentrer au niveau où Goethe a pris les choses :
->
-> mais il y en a pas la moindre trace dans « *La théorie des couleurs »* ...il devrait y avoir un niveau où ce par quoi la couleur est quelque chose qui est gros de différenciation.
+et c’est là quelque chose qui devrait rentrer au niveau où Goethe a pris les choses :
+
+mais il y en a pas la moindre trace dans « *La théorie des couleurs »* ...il devrait y avoir un niveau où ce par quoi la couleur est quelque chose qui est gros de différenciation.
 
 <!-- id: s22-09-0058 -->
 
@@ -254,7 +258,7 @@ Il est effectivement *toujours le même*, mais il n’y a qu’une seule façon 
 
 <!-- id: s22-09-0062 -->
 
-> qu’est-ce que veut dire « *cas* » ? ...il est réductible au « pareil ».
+qu’est-ce que veut dire « *cas* » ? ...il est réductible au « pareil ».
 
 <!-- id: s22-09-0063 -->
 
@@ -318,7 +322,7 @@ C’est à savoir, pourquoi il faut...
 
 <!-- id: s22-09-0078 -->
 
-> pour qu’on la *figure*, cette monstration ...pour­quoi il faut en passer par ce que j’appelle, et que j’ai déjà appelé, « *la mise à plat du nœud »* ?
+pour qu’on la *figure*, cette monstration ...pour­quoi il faut en passer par ce que j’appelle, et que j’ai déjà appelé, « *la mise à plat du nœud »* ?
 
 <!-- id: s22-09-0079 -->
 
@@ -326,15 +330,15 @@ C’est quelque chose qui mérite d’être individualisé, cette mise à plat, 
 
 <!-- id: s22-09-0080 -->
 
-> c’est-à-dire *mise à plat *par un crayonnage perspectif ...vous avez bien pu voir que si ce nœud n’est pas du tout de sa nature un nœud plat - bien loin de là ! – le fait qu’il faille pas­ser par *la mise à plat* pour mettre en valeur la « *mêmeté* » du nœud, quelle que soit l’orientation que vous donnez à chacun...
+c’est-à-dire *mise à plat *par un crayonnage perspectif ...vous avez bien pu voir que si ce nœud n’est pas du tout de sa nature un nœud plat - bien loin de là ! – le fait qu’il faille pas­ser par *la mise à plat* pour mettre en valeur la « *mêmeté* » du nœud, quelle que soit l’orientation que vous donnez à chacun...
 
 <!-- id: s22-09-0081 -->
 
-> ce qui, je l’ai déjà fait sentir, indiqué, évoquerait qu’il y en aurait 8. J’ai dit : je m’y suis pas laissé prendre. Mais enfin, quand même je me suis encore empêtré à penser qu’il y en avait 2 ...cela prouve simplement *l’extraordi­naire débilité de la pensée* - au moins de la mienne - et d’une façon géné­rale que la pensée...
+ce qui, je l’ai déjà fait sentir, indiqué, évoquerait qu’il y en aurait 8. J’ai dit : je m’y suis pas laissé prendre. Mais enfin, quand même je me suis encore empêtré à penser qu’il y en avait 2 ...cela prouve simplement *l’extraordi­naire débilité de la pensée* - au moins de la mienne - et d’une façon géné­rale que la pensée...
 
 <!-- id: s22-09-0082 -->
 
-> celle qui procède par ce que j’ai dit tout à l’heure d’un *oui ou non* ...la pensée, il convient d’y regarder à deux fois avant d’accep­ter ce qu’il faut bien intituler du *verdict*.
+celle qui procède par ce que j’ai dit tout à l’heure d’un *oui ou non* ...la pensée, il convient d’y regarder à deux fois avant d’accep­ter ce qu’il faut bien intituler du *verdict*.
 
 <!-- id: s22-09-0083 -->
 
@@ -410,11 +414,11 @@ C’est exactement l’accent que je mets sur cet énoncé « *il n’y a pas de
 
 <!-- id: s22-09-0101 -->
 
-> que pour l’instant je ne prends que comme *consistances* à ces *consistances différentes*...
+que pour l’instant je ne prends que comme *consistances* à ces *consistances différentes*...
 
 <!-- id: s22-09-0102 -->
 
-> qui pourtant se distinguent d’être nommées *Imaginaire, Symbolique,* et *Réel* ...sans le recours à ces *consistances* en tant qu’elles sont *différentes*, il n’y a pas de possibilité de *frotti-frotta*.
+qui pourtant se distinguent d’être nommées *Imaginaire, Symbolique,* et *Réel* ...sans le recours à ces *consistances* en tant qu’elles sont *différentes*, il n’y a pas de possibilité de *frotti-frotta*.
 
 <!-- id: s22-09-0103 -->
 
@@ -462,15 +466,15 @@ Le *nœud* est supposé par moi être le *Réel,* dans le fait de ce qu’il dé
 
 <!-- id: s22-09-0114 -->
 
-> l’objectivité ainsi déplacée ça me semble moins bébête que le *noumène*, parce que...
+l’objectivité ainsi déplacée ça me semble moins bébête que le *noumène*, parce que...
 
 <!-- id: s22-09-0115 -->
 
-> tâchez de penser un peu ce sur quoi on s’obstine depuis plus de deux millénaires d’histoire ...le *noumène,* conçu par opposition au *phénomène,* il est strictement impossible de ne pas faire surgir à son propos...
+tâchez de penser un peu ce sur quoi on s’obstine depuis plus de deux millénaires d’histoire ...le *noumène,* conçu par opposition au *phénomène,* il est strictement impossible de ne pas faire surgir à son propos...
 
 <!-- id: s22-09-0116 -->
 
-> mais vous allez le voir c’est d’un *après-coup* ...de ne pas faire surgir à son propos la métaphore du *trou*.
+mais vous allez le voir c’est d’un *après-coup* ...de ne pas faire surgir à son propos la métaphore du *trou*.
 
 <!-- id: s22-09-0117 -->
 
@@ -502,13 +506,13 @@ Alors, si le *noumène* ce n’est rien d’autre que ce que je viens d’énon�
 
 <!-- id: s22-09-0124 -->
 
-> du tore en tant que distingué de la sphère par un mode d’écriture
->
-> dont se définissent aussi bien *homo*, que *homéo*, que *auto-morphisme* ...dont le fondement est toujours la possibilité de se fonder sur ce qu’on appelle une déformation continue, et une déformation qui se définit de rencon­trer ce qui fait obstacle d’une autre corde...
+du tore en tant que distingué de la sphère par un mode d’écriture
+
+dont se définissent aussi bien *homo*, que *homéo*, que *auto-morphisme* ...dont le fondement est toujours la possibilité de se fonder sur ce qu’on appelle une déformation continue, et une déformation qui se définit de rencon­trer ce qui fait obstacle d’une autre corde...
 
 <!-- id: s22-09-0125 -->
 
-> c’est ça la *topologie* ! ...d’une autre corde sup­posée consister, c’est ça qui fait le *tore* (*t.o.r.e*) que j’appellerais bien à l’occasion le tore-boyau.
+c’est ça la *topologie* ! ...d’une autre corde sup­posée consister, c’est ça qui fait le *tore* (*t.o.r.e*) que j’appellerais bien à l’occasion le tore-boyau.
 
 <!-- id: s22-09-0126 -->
 
@@ -540,7 +544,7 @@ Jusqu’où peut-on aller comme ça ? Faut pas croire qu’il suffise ici d’en
 
 <!-- id: s22-09-0133 -->
 
-> malgré l’apparence donnée par la coupe ...ça ne serait pas quelque chose d’homogène à ce qui est figuré ici.
+malgré l’apparence donnée par la coupe ...ça ne serait pas quelque chose d’homogène à ce qui est figuré ici.
 
 <!-- id: s22-09-0134 -->
 
@@ -584,7 +588,7 @@ L’ennuyeux c’est ce que l’analyse révèle, c’est que concernant ce qu�
 
 <!-- id: s22-09-0144 -->
 
-> comme vous le voyez assez à ces dessins ...ça ne suffit pas à orienter les choses vers le *boyau*, c’est aussi bien un *sphincter*.
+comme vous le voyez assez à ces dessins ...ça ne suffit pas à orienter les choses vers le *boyau*, c’est aussi bien un *sphincter*.
 
 <!-- id: s22-09-0145 -->
 
@@ -592,7 +596,7 @@ Nous voilà donc là dans ce qui rend plus sensible que tout, le rapport du corp
 
 <!-- id: s22-09-0146 -->
 
-> l’*Imaginaire* lui-même en tant que nous y sommes pris par notre corps ...peut-on penser l’*Imaginaire* comme *Imaginaire* pour en réduire, si je puis dire, de quelque façon l’*imaginarité,* ou l’*imagerie* comme vous voulez ?
+l’*Imaginaire* lui-même en tant que nous y sommes pris par notre corps ...peut-on penser l’*Imaginaire* comme *Imaginaire* pour en réduire, si je puis dire, de quelque façon l’*imaginarité,* ou l’*imagerie* comme vous voulez ?
 
 <!-- id: s22-09-0147 -->
 
@@ -604,7 +608,7 @@ Si élaboré qu’on le fasse...
 
 <!-- id: s22-09-0149 -->
 
-> c’est à quoi l’analyse vous ramène ...si élaboré qu’on le fasse, dans l’*Imaginaire* on y est.
+c’est à quoi l’analyse vous ramène ...si élaboré qu’on le fasse, dans l’*Imaginaire* on y est.
 
 <!-- id: s22-09-0150 -->
 
@@ -676,7 +680,7 @@ Tout couple, tout ce qu’il y a de couple se réduit à l’*Imaginaire*, la n�
 
 <!-- id: s22-09-0167 -->
 
-> *Verneinung,* Freud y insiste dès le début ...façon d’avouer, là où seul l’aveu est possible, parce que l’*Imaginaire*, c’est la place où toute vérité s’énonce, et une vérité niée a autant de poids *Imaginaire* qu’une vérité avouée, *Verneinung* que *Bejahung.*
+*Verneinung,* Freud y insiste dès le début ...façon d’avouer, là où seul l’aveu est possible, parce que l’*Imaginaire*, c’est la place où toute vérité s’énonce, et une vérité niée a autant de poids *Imaginaire* qu’une vérité avouée, *Verneinung* que *Bejahung.*
 
 <!-- id: s22-09-0168 -->
 
@@ -684,7 +688,7 @@ Comment se fait-il...
 
 <!-- id: s22-09-0169 -->
 
-> c’est la question que je pose de vous apporter la réponse ...que le *Réel* ne commence qu’au chiffre 3 ?
+c’est la question que je pose de vous apporter la réponse ...que le *Réel* ne commence qu’au chiffre 3 ?
 
 <!-- id: s22-09-0170 -->
 
@@ -700,7 +704,7 @@ C’est bien en cela que le 2 *ex-siste au Réel*, et qu’il n’est pas dépla
 
 <!-- id: s22-09-0173 -->
 
-> ou le lacet comme me disait récem­ment quelqu’un me parlant sur ce sujet, qui est encore Soury ...que l’*ex-sistence*, le jeu de la corde, jusqu’à ce que quelque chose la coince, c’est bien là la zone où l’on peut dire que la *consistance*, la consistance du *Réel*, à savoir ce sur quoi Freud a mis l’accent, a renouvelé l’accent, sans doute d’un terme antique : *le phallus*, mais comment savoir ce que les Mystères mettaient sous le terme du *phallus* ?
+ou le lacet comme me disait récem­ment quelqu’un me parlant sur ce sujet, qui est encore Soury ...que l’*ex-sistence*, le jeu de la corde, jusqu’à ce que quelque chose la coince, c’est bien là la zone où l’on peut dire que la *consistance*, la consistance du *Réel*, à savoir ce sur quoi Freud a mis l’accent, a renouvelé l’accent, sans doute d’un terme antique : *le phallus*, mais comment savoir ce que les Mystères mettaient sous le terme du *phallus* ?
 
 <!-- id: s22-09-0174 -->
 

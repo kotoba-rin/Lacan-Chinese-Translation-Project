@@ -58,7 +58,7 @@ Tout ça ne me dit pas à moi-même comment j’ai glissé dans le nœud borrom�
 
 <!-- id: s25-03-0014 -->
 
-> là aussi au sens que ce mot a d’ordi­naire ...ce qu’on casse, c’est ce qui tient ensemble et est souple, à l’occasion, comme ce qu’on appelle un nœud.
+là aussi au sens que ce mot a d’ordi­naire ...ce qu’on casse, c’est ce qui tient ensemble et est souple, à l’occasion, comme ce qu’on appelle un nœud.
 
 <!-- id: s25-03-0015 -->
 
@@ -98,7 +98,7 @@ Et le fantas­me est à noter avec l’accent que je lui donnais quand je remarq
 
 <!-- id: s25-03-0024 -->
 
-> \[Lacan écrit au tableau :\] « *l’âge et haut-maître* *hie* » ...que la géométrie est tissée de fantasmes, et du même coup toute science.
+\[Lacan écrit au tableau :\] « *l’âge et haut-maître* *hie* » ...que la géométrie est tissée de fantasmes, et du même coup toute science.
 
 <!-- id: s25-03-0025 -->
 
@@ -138,7 +138,7 @@ Quand j’ai dit l’autre jour, que la science n’est rien d’autre qu’un f
 
 <!-- id: s25-03-0034 -->
 
-> je « *suis* » certes - mais au sens de « *suivre* » ...et contrairement à ce que quelqu’un, dans un article a espéré \[*J.Β. Pontalis dans* *Le Monde* \], je pense que je serai suivi sur ce terrain.
+je « *suis* » certes - mais au sens de « *suivre* » ...et contrairement à ce que quelqu’un, dans un article a espéré \[*J.Β. Pontalis dans* *Le Monde* \], je pense que je serai suivi sur ce terrain.
 
 <!-- id: s25-03-0035 -->
 
@@ -186,7 +186,7 @@ C’est le contraire qui serait surprenant. C’est la même chose que de couper
 
 <!-- id: s25-03-0046 -->
 
-> là je complète, puisque j’ai lais­sé ce nœud borroméen inachevé ...c’est la même chose que de couper comme ça :
+là je complète, puisque j’ai lais­sé ce nœud borroméen inachevé ...c’est la même chose que de couper comme ça :
 
 <!-- id: s25-03-0047 -->
 
@@ -210,7 +210,7 @@ C’est de ce fait quelque chose qui est réparable, à condition de s’apercev
 
 <!-- id: s25-03-0052 -->
 
-> du tore transformé, je veux dire du tore que constitue le retournement ...la suggestion du tore en *remet*, si je puis m’exprimer ainsi, sur la solidité du nœud.
+du tore transformé, je veux dire du tore que constitue le retournement ...la suggestion du tore en *remet*, si je puis m’exprimer ainsi, sur la solidité du nœud.
 
 <!-- id: s25-03-0053 -->
 
@@ -218,7 +218,7 @@ C’est-à-dire que ce qui se voit...
 
 <!-- id: s25-03-0054 -->
 
-> à condition qu’on coupe perpendiculai­rement au trou ...ce qui se voit, c’est que le tore à ce moment-là maintient le nœud borroméen.
+à condition qu’on coupe perpendiculai­rement au trou ...ce qui se voit, c’est que le tore à ce moment-là maintient le nœud borroméen.
 
 <!-- id: s25-03-0055 -->
 
@@ -238,7 +238,7 @@ Voilà ce que nous obtenons :
 
 <!-- id: s25-03-0059 -->
 
-> <img src="assets/image28.jpeg" style="width:1.42115in;height:1.06802in" alt="62.jpg" />
+<img src="assets/image28.jpeg" style="width:1.42115in;height:1.06802in" alt="62.jpg" />
 
 <!-- id: s25-03-0060 -->
 
@@ -286,7 +286,7 @@ L’intérêt, c’est de s’apercevoir que le tiers, je veux dire ce qui de ce
 
 <!-- id: s25-03-0071 -->
 
-> je vous demande pardon, ces nœuds sont tou­jours très difficiles à faire ...ici vous avez une façon meilleure que celle que j’ai dû rectifier là, de représenter ce que j’ai appelé
+je vous demande pardon, ces nœuds sont tou­jours très difficiles à faire ...ici vous avez une façon meilleure que celle que j’ai dû rectifier là, de représenter ce que j’ai appelé
 
 <!-- id: s25-03-0072 -->
 

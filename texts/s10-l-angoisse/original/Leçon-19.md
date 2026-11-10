@@ -158,24 +158,24 @@ Il y a, à la date même où ceci est paru - sans doute depuis avons-nous appris
 
 <!-- id: s10-19-0029 -->
 
-> vous savez que tout ce que je vous apporte ici est nourri de ma part,
->
-> par souvent - en apparence - des enquêtes portées jusqu’aux limites du superflu
-> ...*croyez-moi*, la différence de por­tée entre le mode d’interrogation des textes bibliques,
-> ceux où le *Shofar* y est nommé comme corrélatif des circonstances majeures de la révélation appor­tée à Israël,
-> on ne peut manquer d’être frappé combien Reik...
+vous savez que tout ce que je vous apporte ici est nourri de ma part,
+
+par souvent - en apparence - des enquêtes portées jusqu’aux limites du superflu
+...*croyez-moi*, la différence de por­tée entre le mode d’interrogation des textes bibliques,
+ceux où le *Shofar* y est nommé comme corrélatif des circonstances majeures de la révélation appor­tée à Israël,
+on ne peut manquer d’être frappé combien Reik...
 
 <!-- id: s10-19-0030 -->
 
-> d’une position qui, en principe tout au moins, répudie toute attache traditionnelle,
->
-> voire se place même dans une position presque radicale de critique, pour ne pas dire de scepticisme,
->
-> combien plus profondément que tous les commentateurs en apparence plus respectueux, plus pieux,
->
-> plus soucieux de préserver l’essentiel d’un mes­sage
-> ...va, lui, plus droit à ce qui paraît essentiellement la vérité de l’avè­nement historique
-> autour de ces passages bibliques que j’évoquais, centrés et par eux rapportés. J’y reviendrai !
+d’une position qui, en principe tout au moins, répudie toute attache traditionnelle,
+
+voire se place même dans une position presque radicale de critique, pour ne pas dire de scepticisme,
+
+combien plus profondément que tous les commentateurs en apparence plus respectueux, plus pieux,
+
+plus soucieux de préserver l’essentiel d’un mes­sage
+...va, lui, plus droit à ce qui paraît essentiellement la vérité de l’avè­nement historique
+autour de ces passages bibliques que j’évoquais, centrés et par eux rapportés. J’y reviendrai !
 
 <!-- id: s10-19-0031 -->
 
@@ -183,10 +183,10 @@ Mais il n’est pas moins frappant aussi, si vous vous repor­tez à cet article
 
 <!-- id: s10-19-0032 -->
 
-> et certainement faute d’aucun de ces appuis théoriques
->
-> qui permettent à un mode d’étude de s’ap­porter à soi-même ses propres limites
-> *...dans une inextricable confusion*.
+et certainement faute d’aucun de ces appuis théoriques
+
+qui permettent à un mode d’étude de s’ap­porter à soi-même ses propres limites
+*...dans une inextricable confusion*.
 
 <!-- id: s10-19-0033 -->
 
@@ -440,10 +440,10 @@ L’intérêt de *cet objet* est de nous montrer ce *lieu de la voix*...
 
 <!-- id: s10-19-0075 -->
 
-> et de quelle voix nous verrons son sens en nous repérant à son propos
->
-> dans la topographie du rapport au grand Autre, n’allons pas trop vite
-> ...mais cette *voix*, de nous la présen­ter ainsi, sous cette forme exemplaire où elle est là,
+et de quelle voix nous verrons son sens en nous repérant à son propos
+
+dans la topographie du rapport au grand Autre, n’allons pas trop vite
+...mais cette *voix*, de nous la présen­ter ainsi, sous cette forme exemplaire où elle est là,
 
 <!-- id: s10-19-0076 -->
 
@@ -528,12 +528,12 @@ C’est ici qu’il nous faut, pour nous orienter, pour repérer la véritable p
 
 <!-- id: s10-19-0092 -->
 
-> dont, à tort ou à raison, par un souci d’exposition, j’ai cru aujourd’hui devoir d’abord,
->
-> pour vous, vous le pré­senter sous une forme en quelque sorte maniable, sinon exemplaire
-> ...c’est ici, maintenant, qu’il nous faut nous repérer, pour voir sa différence, ce qu’il intro­duit de *nouveau* par rapport à l’étage précédemment articulé, celui qui concernait la structure du désir sous une autre forme exemplaire[^138],
-> com­bien différente - vous ne pouvez pas ne pas le sentir - et dont il semble que tout ce qui est révélé dans cette nouvelle dimension n’y soit et ne puisse y être d’abord que masqué dans cet autre étage, il nous faut un ins­tant y revenir pour mieux faire jaillir,
-> saillir, ce qu’apporte de nouveau le niveau où apparaît la forme de *(a)* qui s’appelle *la voix*.
+dont, à tort ou à raison, par un souci d’exposition, j’ai cru aujourd’hui devoir d’abord,
+
+pour vous, vous le pré­senter sous une forme en quelque sorte maniable, sinon exemplaire
+...c’est ici, maintenant, qu’il nous faut nous repérer, pour voir sa différence, ce qu’il intro­duit de *nouveau* par rapport à l’étage précédemment articulé, celui qui concernait la structure du désir sous une autre forme exemplaire[^138],
+com­bien différente - vous ne pouvez pas ne pas le sentir - et dont il semble que tout ce qui est révélé dans cette nouvelle dimension n’y soit et ne puisse y être d’abord que masqué dans cet autre étage, il nous faut un ins­tant y revenir pour mieux faire jaillir,
+saillir, ce qu’apporte de nouveau le niveau où apparaît la forme de *(a)* qui s’appelle *la voix*.
 
 <!-- id: s10-19-0093 -->
 
@@ -542,10 +542,10 @@ non pas de l’es­pace que nous interrogions sous la forme d’une *catégorie 
 
 <!-- id: s10-19-0094 -->
 
-> encore qu’assurément la référence à ce que Kant a apporté sur ce terrain nous soit,
->
-> sinon très utile, à tout le moins très commode
-> ...mais dans ce que, pour nous, l’espace nous présente de caractéristique dans sa relation au *désir*.
+encore qu’assurément la référence à ce que Kant a apporté sur ce terrain nous soit,
+
+sinon très utile, à tout le moins très commode
+...mais dans ce que, pour nous, l’espace nous présente de caractéristique dans sa relation au *désir*.
 
 <!-- id: s10-19-0095 -->
 
@@ -673,11 +673,11 @@ Aveugle en tout cas à ceci : *l’élision de la castration au niveau du désir
 
 <!-- id: s10-19-0116 -->
 
-> dont vous vous souvenez j’espère, encore que ce soit un écho d’une autre année, aux viveurs de *La Dolce vita* [^141],
-> ...aux derniers moments fan­tomatiques du film,
-> quand ils s’avancent comme sautant d’une ombre à l’autre, du bois de pins où ils se profilent pour déboucher sur la plage,
-> ils voient *l’œil inerte de la chose marine* que les pêcheurs sont en train de faire émerger :
-> *voilà ce par quoi nous sommes le plus regardés*.
+dont vous vous souvenez j’espère, encore que ce soit un écho d’une autre année, aux viveurs de *La Dolce vita* [^141],
+...aux derniers moments fan­tomatiques du film,
+quand ils s’avancent comme sautant d’une ombre à l’autre, du bois de pins où ils se profilent pour déboucher sur la plage,
+ils voient *l’œil inerte de la chose marine* que les pêcheurs sont en train de faire émerger :
+*voilà ce par quoi nous sommes le plus regardés*.
 
 <!-- id: s10-19-0117 -->
 
@@ -759,9 +759,9 @@ Là encore, je ferai hommage à notre ami Stein de l’avoir, dans son discours,
 
 <!-- id: s10-19-0133 -->
 
-> dit-il, et je souscris à sa formule, car je la trouve plus que brillante
-> ...« *Si le désir était primordial, si c’était le désir de la mère qui commandait l’entrée en jeu du crime originel,*
-> *nous serions sur le terrain du vaudeville* ».
+dit-il, et je souscris à sa formule, car je la trouve plus que brillante
+...« *Si le désir était primordial, si c’était le désir de la mère qui commandait l’entrée en jeu du crime originel,*
+*nous serions sur le terrain du vaudeville* ».
 
 <!-- id: s10-19-0134 -->
 
@@ -769,12 +769,12 @@ L’*origine*, nous dit Freud de la façon *la plus formelle*...
 
 <!-- id: s10-19-0135 -->
 
-> et à l’oublier toute la chaîne se défait, et c’est pour ne l’avoir pas réassuré, ce départ de la chaî­ne, que l’analyse - je parle de l’analyse *en théorie* comme *en pratique -* semble subir cette forme de dispersion
->
-> où l’on peut se demander à certaines heures qu’est-ce qui est susceptible de lui conserver encore sa cohérence
-> ...c’est parce que « *le meurtre du père* » et tout ce qu’il commande, est ce qui retentit...
-> s’il faut *entendre* ce qu’on ose espérer n’être que *métaphore* dans la bouche de Reik
-> ...que c’est son « *beuglement de taureau assommé* » qui se fait entendre encore dans le son du *Shofar.*
+et à l’oublier toute la chaîne se défait, et c’est pour ne l’avoir pas réassuré, ce départ de la chaî­ne, que l’analyse - je parle de l’analyse *en théorie* comme *en pratique -* semble subir cette forme de dispersion
+
+où l’on peut se demander à certaines heures qu’est-ce qui est susceptible de lui conserver encore sa cohérence
+...c’est parce que « *le meurtre du père* » et tout ce qu’il commande, est ce qui retentit...
+s’il faut *entendre* ce qu’on ose espérer n’être que *métaphore* dans la bouche de Reik
+...que c’est son « *beuglement de taureau assommé* » qui se fait entendre encore dans le son du *Shofar.*
 
 <!-- id: s10-19-0136 -->
 

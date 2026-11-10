@@ -110,9 +110,9 @@ C’est très curieux, comme ça, à ce propos j’ai un petit souvenir d’une 
 
 <!-- id: s17-12-0027 -->
 
-> il faut tout de même bien l’appeler, c’est pas du tout par hasard, c’est un nommé Laplanche
->
-> dont chacun sait qu’il a eu un certain rôle dans les avatars de mes relations avec l’analyse ...à la pensée que devant le fait qu’un autre... que je vais nommer aussi puisque j’ai nommé le premier : un nommé Kaufmann ...avait avancé l’idée qu’il fallait distinguer ce *Wirklichkeit* et ce *Realität*.
+il faut tout de même bien l’appeler, c’est pas du tout par hasard, c’est un nommé Laplanche
+
+dont chacun sait qu’il a eu un certain rôle dans les avatars de mes relations avec l’analyse ...à la pensée que devant le fait qu’un autre... que je vais nommer aussi puisque j’ai nommé le premier : un nommé Kaufmann ...avait avancé l’idée qu’il fallait distinguer ce *Wirklichkeit* et ce *Realität*.
 
 <!-- id: s17-12-0028 -->
 
@@ -140,15 +140,15 @@ c’est ce qui apparaît malgré le petit salut, d’amitié que fait au passage
 
 <!-- id: s17-12-0034 -->
 
-> et «* unmöglichen *» est mis entre guillemets, je veux dire qu’il cite, il cite enfin une rengaine, une chose d’ailleurs que dans une des œuvres anté­rieures, Freud cite en quelque sorte en faisant référence lui-même au fait
->
-> qu’il l’aurait déjà dit, on ne sait pas, on n’a pas retrouvé très bien où il l’aurait dit une première fois. Peut-être
->
-> ma recherche est incomplète, c’est peut-être dans les *Lettres à Fliess* qu’il l’aura employé pour la première fois ...enfin ces 3 *professions* dont il s’agit, il les appelle dans ce passage antérieur : le *Regieren*, l’*Erziehen* et le *Kurieren*...
+et «* unmöglichen *» est mis entre guillemets, je veux dire qu’il cite, il cite enfin une rengaine, une chose d’ailleurs que dans une des œuvres anté­rieures, Freud cite en quelque sorte en faisant référence lui-même au fait
+
+qu’il l’aurait déjà dit, on ne sait pas, on n’a pas retrouvé très bien où il l’aurait dit une première fois. Peut-être
+
+ma recherche est incomplète, c’est peut-être dans les *Lettres à Fliess* qu’il l’aura employé pour la première fois ...enfin ces 3 *professions* dont il s’agit, il les appelle dans ce passage antérieur : le *Regieren*, l’*Erziehen* et le *Kurieren*...
 
 <!-- id: s17-12-0035 -->
 
-> ce qui est évidemment conforme à *l’usage de lieu commun* qui en est fait, qu’il y ait *Kurieren* car *l’analyse* est nouvelle, et pour que Freud y range l’analyse, c’est évidemment en substitution à ce qu’on dit du fait de guérir ...ce qui est 3 *professions*... si tant est que de *professions* il s’agis­se ...*impossibles*, c’est donc *le « Regieren », l’« Erziehen » et l’« Analysieren »,* c’est-à-dire le « *gouverner »*, l’« *éduquer »* et l’« *analyser »*.
+ce qui est évidemment conforme à *l’usage de lieu commun* qui en est fait, qu’il y ait *Kurieren* car *l’analyse* est nouvelle, et pour que Freud y range l’analyse, c’est évidemment en substitution à ce qu’on dit du fait de guérir ...ce qui est 3 *professions*... si tant est que de *professions* il s’agis­se ...*impossibles*, c’est donc *le « Regieren », l’« Erziehen » et l’« Analysieren »,* c’est-à-dire le « *gouverner »*, l’« *éduquer »* et l’« *analyser »*.
 
 <!-- id: s17-12-0036 -->
 
@@ -232,9 +232,9 @@ Il faut dire que pour ça il a bien fallu qu’il dépasse certaines limites, po
 
 <!-- id: s17-12-0056 -->
 
-> j’espère que vous vous en souvenez, mais si vous ne vous en souvenez pas,
->
-> ce qui est bien possible, je vais vous le rappeler tout de suite ...cette mutation qui donne son style au capitaliste, et au capital aussi.
+j’espère que vous vous en souvenez, mais si vous ne vous en souvenez pas,
+
+ce qui est bien possible, je vais vous le rappeler tout de suite ...cette mutation qui donne son style au capitaliste, et au capital aussi.
 
 <!-- id: s17-12-0057 -->
 
@@ -390,7 +390,7 @@ C’est de montrer dans une « *dialectique »*, comme il s’exprime...
 
 <!-- id: s17-12-0095 -->
 
-> c’est le zénith, c’est la montée dans la pensée de la fonction de ce terme ...qu’est-ce que c’est en somme que l’entrée en jeu de cette brute dans la « *Phénoménologie de l’Esprit »*, comme il s’exprime ?
+c’est le zénith, c’est la montée dans la pensée de la fonction de ce terme ...qu’est-ce que c’est en somme que l’entrée en jeu de cette brute dans la « *Phénoménologie de l’Esprit »*, comme il s’exprime ?
 
 <!-- id: s17-12-0096 -->
 
@@ -402,9 +402,9 @@ Eh ben, c’est absolument séduisant, sensationnel.
 
 <!-- id: s17-12-0098 -->
 
-> à condition bien sûr de nous lais­ser prendre par ce texte,
->
-> parce que moi, ce que j’articule, c’est que justement elle ne peut pas se lire en face, ...*la vérité* donc de ce qu’il articule c’est ceci : c’est le rapport à *ce réel* en tant proprement qu’*impossible*, c’est à savoir qu’on ne voit pas du tout pour qui... *pourquoi* ! - excusez-moi - *pourquoi* il y aurait un Maître qui sortirait de « *la lutte à mort de pur prestige* »... comme on dit, comme il dit, enfin lui ...*et qu’il en résulterait cet étrange agencement de départ*.
+à condition bien sûr de nous lais­ser prendre par ce texte,
+
+parce que moi, ce que j’articule, c’est que justement elle ne peut pas se lire en face, ...*la vérité* donc de ce qu’il articule c’est ceci : c’est le rapport à *ce réel* en tant proprement qu’*impossible*, c’est à savoir qu’on ne voit pas du tout pour qui... *pourquoi* ! - excusez-moi - *pourquoi* il y aurait un Maître qui sortirait de « *la lutte à mort de pur prestige* »... comme on dit, comme il dit, enfin lui ...*et qu’il en résulterait cet étrange agencement de départ*.
 
 <!-- id: s17-12-0099 -->
 
@@ -448,7 +448,7 @@ Ce qu’il y a d’absolument *sublime* dans cette très *remarquable déduction
 
 <!-- id: s17-12-0109 -->
 
-> prenons l’exemple, enfin de ce qu’il peut dire par exemple de la culture ...tout au long, les remarques les plus pertinentes, quant au jeu des incidences des exercices de l’*esprit*, foisonnent.
+prenons l’exemple, enfin de ce qu’il peut dire par exemple de la culture ...tout au long, les remarques les plus pertinentes, quant au jeu des incidences des exercices de l’*esprit*, foisonnent.
 
 <!-- id: s17-12-0110 -->
 
@@ -692,7 +692,7 @@ Alors *l’impossibi­lité* qui est bien là écrite à la première ligne, il 
 
 <!-- id: s17-12-0170 -->
 
-> comme déjà c’est indiqué par la place donnée au terme de *Vérité...*ça serait peut-être au niveau de la seconde qu’on en aurait une vraiment.
+comme déjà c’est indiqué par la place donnée au terme de *Vérité...*ça serait peut-être au niveau de la seconde qu’on en aurait une vraiment.
 
 <!-- id: s17-12-0171 -->
 
@@ -704,9 +704,9 @@ Non seulement il n’y a pas de communication, mais il y a à proprement parler 
 
 <!-- id: s17-12-0173 -->
 
-> c’est ça la découverte d’un nommé Marx : c’est d’avoir donné tout son poids à ce terme
->
-> qui est ce à quoi s’emploie le travail et dont on le sait déjà que ça s’appelle *la production* ...eh bien *l’essentiel c’est de s’apercevoir* *que cette production*, *quels que soient les signes, les signifiants-Maître qui viennent s’inscrire à cette place*, *ça n’a en tout cas aucun rapport avec la vérité de la chose*.
+c’est ça la découverte d’un nommé Marx : c’est d’avoir donné tout son poids à ce terme
+
+qui est ce à quoi s’emploie le travail et dont on le sait déjà que ça s’appelle *la production* ...eh bien *l’essentiel c’est de s’apercevoir* *que cette production*, *quels que soient les signes, les signifiants-Maître qui viennent s’inscrire à cette place*, *ça n’a en tout cas aucun rapport avec la vérité de la chose*.
 
 <!-- id: s17-12-0174 -->
 
@@ -762,7 +762,7 @@ Alors ce qu’on voit bien, dont il s’agit, c’est au nom de quoi ce *plus de
 
 <!-- id: s17-12-0187 -->
 
-> c’est là qu’il y a un enseignement à tirer ...c’est que ça ne va pas tout seul!
+c’est là qu’il y a un enseignement à tirer ...c’est que ça ne va pas tout seul!
 
 <!-- id: s17-12-0188 -->
 
@@ -802,9 +802,9 @@ Seulement ce que démontre, ce qu’atteste toute cette pensée de l’Antiquit�
 
 <!-- id: s17-12-0197 -->
 
-> par laquelle Hegel nous fait repasser, grâce à ses merveilleux tours de passe,
->
-> repasse et autres, jusqu’au masochisme politisé des Stoïciens ...eh bien c’est que ça ne peut pas se faire en tant que *plus de jouir,* quelque chose qui s’installe tranquillement comme *le sujet* du Maître.
+par laquelle Hegel nous fait repasser, grâce à ses merveilleux tours de passe,
+
+repasse et autres, jusqu’au masochisme politisé des Stoïciens ...eh bien c’est que ça ne peut pas se faire en tant que *plus de jouir,* quelque chose qui s’installe tranquillement comme *le sujet* du Maître.
 
 <!-- id: s17-12-0198 -->
 
@@ -872,9 +872,9 @@ C’est que c’est pas autour du sujet...
 
 <!-- id: s17-12-0214 -->
 
-> quelle que soit la fécondité qu’ait montrée cette interrogation hystérique,
->
-> cette interrogation hys­térique dont je vais dire qui l’introduit le premier dans l’Histoire ...c’est pas parce que *l’entrée du sujet* *comme* *agent du discours* a eu des résultats très surpre­nants, dont le premier est celui de *la science*, que c’est là que soit la clé de tout le ressort : la clé est autour du questionnement de ce qu’il en est de *la jouissance*.
+quelle que soit la fécondité qu’ait montrée cette interrogation hystérique,
+
+cette interrogation hys­térique dont je vais dire qui l’introduit le premier dans l’Histoire ...c’est pas parce que *l’entrée du sujet* *comme* *agent du discours* a eu des résultats très surpre­nants, dont le premier est celui de *la science*, que c’est là que soit la clé de tout le ressort : la clé est autour du questionnement de ce qu’il en est de *la jouissance*.
 
 <!-- id: s17-12-0215 -->
 
@@ -918,7 +918,7 @@ C’est à partir de ce clivage, de cette sé­paration de la jouissance et du c
 
 <!-- id: s17-12-0225 -->
 
-> désormais mortifié, jeu d’inscription, troupeau qu’on marque comme le favori du *trait unaire...*c’est à partir de ce moment-là que la question se pose.
+désormais mortifié, jeu d’inscription, troupeau qu’on marque comme le favori du *trait unaire...*c’est à partir de ce moment-là que la question se pose.
 
 <!-- id: s17-12-0226 -->
 
@@ -962,7 +962,7 @@ c’est-à-dire quelque chose qui, à partir d’un certain moment de l’Histoi
 
 <!-- id: s17-12-0236 -->
 
-> et nous n’allons pas nous casser les pieds à savoir si c’est à cause de Luther ou de Calvin[^52] ou de je ne sais quel trafic de navires autour de Gènes dans la mer Méditerranée ou ailleurs, ...car le point important est ceci : c’est qu’à partir d’un certain jour, le « *plus de jouir »* se cote, se comptabilise, se totalise, et que là commence ce qu’on appelle « *accumulation du capital »*.
+et nous n’allons pas nous casser les pieds à savoir si c’est à cause de Luther ou de Calvin[^52] ou de je ne sais quel trafic de navires autour de Gènes dans la mer Méditerranée ou ailleurs, ...car le point important est ceci : c’est qu’à partir d’un certain jour, le « *plus de jouir »* se cote, se comptabilise, se totalise, et que là commence ce qu’on appelle « *accumulation du capital »*.
 
 <!-- id: s17-12-0237 -->
 
@@ -1050,7 +1050,7 @@ Quoi qu’il en soit, que ce soit ici en tant que (*a*), le *petit(a)* sous une 
 
 <!-- id: s17-12-0258 -->
 
-> toute fausse couche qu’elle soit ...manifeste que *les* *effets du langage*, il y a en tout cas un niveau auquel ça ne s’arrange pas : c’est au niveau de ceux qui les ont produits *les effets du langage*, puisqu’aucun enfant n’est né sans avoir eu affaire à ce trafic par l’intermédiaire de *ses aimables dits progéniteurs*, qui étaient pris dans tous les problèmes du discours, avec bien sûr, eux aussi derrière eux la génération précédente.
+toute fausse couche qu’elle soit ...manifeste que *les* *effets du langage*, il y a en tout cas un niveau auquel ça ne s’arrange pas : c’est au niveau de ceux qui les ont produits *les effets du langage*, puisqu’aucun enfant n’est né sans avoir eu affaire à ce trafic par l’intermédiaire de *ses aimables dits progéniteurs*, qui étaient pris dans tous les problèmes du discours, avec bien sûr, eux aussi derrière eux la génération précédente.
 
 <!-- id: s17-12-0259 -->
 

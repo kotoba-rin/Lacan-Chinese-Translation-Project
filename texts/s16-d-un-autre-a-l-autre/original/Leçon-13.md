@@ -18,9 +18,9 @@ Ce que j’ai pu traduire aisément, en raison des dictions antérieures, par ce
 
 <!-- id: s16-13-0004 -->
 
-> qui porte en soi un certain degré d’évidence apparente et de nature à satisfaire d’une formule
->
-> *a priori* ce qui est le plus communément reconnu de ce qu’il en est de la conquête analytique …qui est ceci : que nous savons que quelque part, en cette part que nous appelons *inconscient,* une *vérité* s’énonce qui a cette propriété que nous n’en pouvons rien savoir. Ceci - j’entends ce fait même - c’est là ce qui constitue un savoir. J’écrivais donc *savoir* sur la fonction de *vérité moins savoir*, c’est cela qui doit nous donner *la vérité* sur *le savoir*.
+qui porte en soi un certain degré d’évidence apparente et de nature à satisfaire d’une formule
+
+*a priori* ce qui est le plus communément reconnu de ce qu’il en est de la conquête analytique …qui est ceci : que nous savons que quelque part, en cette part que nous appelons *inconscient,* une *vérité* s’énonce qui a cette propriété que nous n’en pouvons rien savoir. Ceci - j’entends ce fait même - c’est là ce qui constitue un savoir. J’écrivais donc *savoir* sur la fonction de *vérité moins savoir*, c’est cela qui doit nous donner *la vérité* sur *le savoir*.
 
 <!-- id: s16-13-0005 -->
 
@@ -32,11 +32,15 @@ Là-dessus, pour faire annonce d’un épisode menu de mes rencontres, il m’es
 
 <!-- id: s16-13-0007 -->
 
-> *je m’excuse auprès de son auteur si je la déforme un peu* …il s’agissait d’une formule aux prémisses d’une recherche dans la ligne de mon enseignement, qui était de situer la fonction de la psychanalyse non pas à tout prix comme science mais comme indication épistémologique, puisque la recherche est à l’ordre du jour, sur la fonction de la science. La formule est ceci :
+*je m’excuse auprès de son auteur si je la déforme un peu* …il s’agissait d’une formule aux prémisses d’une recherche dans la ligne de mon enseignement, qui était de situer la fonction de la psychanalyse non pas à tout prix comme science mais comme indication épistémologique, puisque la recherche est à l’ordre du jour, sur la fonction de la science. La formule est ceci :
 
 <!-- id: s16-13-0008 -->
 
-> « *La psychanalyse serait, dans les sciences, quelque chose qu’on pourrait formuler comme une science sans savoir.* »
+<div class="text-quotation">
+
+« *La psychanalyse serait, dans les sciences, quelque chose qu’on pourrait formuler comme une science sans savoir.* »
+
+</div>
 
 <!-- id: s16-13-0009 -->
 
@@ -64,9 +68,9 @@ Que les voies dans une analyse puissent être éclaircies qui l’empêchaient -
 
 <!-- id: s16-13-0015 -->
 
-> si vous me permettez d’employer ce mot, avec toute l’ambiguïté qu’à l’ordinaire des ressources du langage
->
-> il possède en français la faculté épinglée de ce nom et aussi le sens d’« *à qui ça s’adresse* » …*à l’adresse* supposée donnée au bout d’un déblayage.
+si vous me permettez d’employer ce mot, avec toute l’ambiguïté qu’à l’ordinaire des ressources du langage
+
+il possède en français la faculté épinglée de ce nom et aussi le sens d’« *à qui ça s’adresse* » …*à l’adresse* supposée donnée au bout d’un déblayage.
 
 <!-- id: s16-13-0016 -->
 
@@ -74,9 +78,9 @@ Il est clair qu’il n’y a rien de commun entre l’opération analytique et q
 
 <!-- id: s16-13-0017 -->
 
-> parlant des caractéristiques dans la culture de cette fonction très étendue, pour laquelle ce n’est pas sans raison
->
-> que dans la nôtre - de civilisation - elle soit non pas à proprement parler éludée, mais refoulée dans les coins …cette fonction qu’il appelle « *les techniques du corps* ».
+parlant des caractéristiques dans la culture de cette fonction très étendue, pour laquelle ce n’est pas sans raison
+
+que dans la nôtre - de civilisation - elle soit non pas à proprement parler éludée, mais refoulée dans les coins …cette fonction qu’il appelle « *les techniques du corps* ».
 
 <!-- id: s16-13-0018 -->
 
@@ -84,9 +88,9 @@ Je n’ai ici que de faire allusion à la dimension des techniques proprement é
 
 <!-- id: s16-13-0019 -->
 
-> pour autant qu’elles sont mises en avant dans telle culture
->
-> qu’on ne saurait d’aucune façon qualifier de primitive, la culture hindoue par exemple …pour faire sentir que rien de ce qui s’énonce dans ce qui, pour vous, ne peut en aucun cas vous parvenir qu’au titre des amusettes, de la pornographie, dans la lecture d’un livre comme le *Kama­ Soutra* par exemple.
+pour autant qu’elles sont mises en avant dans telle culture
+
+qu’on ne saurait d’aucune façon qualifier de primitive, la culture hindoue par exemple …pour faire sentir que rien de ce qui s’énonce dans ce qui, pour vous, ne peut en aucun cas vous parvenir qu’au titre des amusettes, de la pornographie, dans la lecture d’un livre comme le *Kama­ Soutra* par exemple.
 
 <!-- id: s16-13-0020 -->
 
@@ -94,7 +98,7 @@ Et pourtant dans une autre dimension où ce texte peut être entendu, il peut au
 
 <!-- id: s16-13-0021 -->
 
-> au regard des confusions complètes qui sont faites sur ce mot, celui que je vais employer …sera repérée, non sans justesse mais approximative, comme métaphysique.
+au regard des confusions complètes qui sont faites sur ce mot, celui que je vais employer …sera repérée, non sans justesse mais approximative, comme métaphysique.
 
 <!-- id: s16-13-0022 -->
 
@@ -102,9 +106,9 @@ Le biais donc par lequel est abordé dans la psychanalyse ce qu’il en est du s
 
 <!-- id: s16-13-0023 -->
 
-> là encore, une fois de plus, ce dont il s’agit, c’est d’un recours à l’évidence du départ,
->
-> et ceci, c’est bien celui de ce que d’interdit à proprement parler peut passer sur ce savoir, le savoir sexuel …le biais par où - je ne dirai pas *nous y rentrons* - mais *nous y sommes confrontés*, c’est ceci de *nouveau*, en ce sens que ce biais n’avait jamais été pris, c’est de l’aborder par ce point où cet interdit pèse, et c’est pourquoi les premiers énoncés de FREUD à l’endroit de l’inconscient mettent l’accent sur la fonction de la censure comme telle.
+là encore, une fois de plus, ce dont il s’agit, c’est d’un recours à l’évidence du départ,
+
+et ceci, c’est bien celui de ce que d’interdit à proprement parler peut passer sur ce savoir, le savoir sexuel …le biais par où - je ne dirai pas *nous y rentrons* - mais *nous y sommes confrontés*, c’est ceci de *nouveau*, en ce sens que ce biais n’avait jamais été pris, c’est de l’aborder par ce point où cet interdit pèse, et c’est pourquoi les premiers énoncés de FREUD à l’endroit de l’inconscient mettent l’accent sur la fonction de la censure comme telle.
 
 <!-- id: s16-13-0024 -->
 
@@ -112,7 +116,7 @@ Cet interdit s’exerce comme affectant un certain « là », cet endroit-là,
 
 <!-- id: s16-13-0025 -->
 
-> et admirez là au passage, une fois de plus la richesse du langage : est-ce que ce « *préoccupé* » pour traduire la *Besetzung, le Besetz freudien* ne vaut pas mieux que cet *investissement* ou cet *investi* dont les traductions nous rebattent les oreilles ? …il est pré-occupé, occupé à l’avance par ce *quelque chose* dont la position dès lors va devenir plus ambiguë.
+et admirez là au passage, une fois de plus la richesse du langage : est-ce que ce « *préoccupé* » pour traduire la *Besetzung, le Besetz freudien* ne vaut pas mieux que cet *investissement* ou cet *investi* dont les traductions nous rebattent les oreilles ? …il est pré-occupé, occupé à l’avance par ce *quelque chose* dont la position dès lors va devenir plus ambiguë.
 
 <!-- id: s16-13-0026 -->
 
@@ -120,11 +124,11 @@ Que peut vouloir dire…
 
 <!-- id: s16-13-0027 -->
 
-> et c’est bien là ce qui nécessite qu’on y revienne toujours, sur cette fonction de l’inconscient …que peut vouloir dire ce savoir dont la marque à un certain niveau qui s’articule de vérité se définit en ceci que *c’est ce qu’on sait le moins, ce savoir qui vous préoccupe * ? Et c’est ce qui permet peut-être d’énoncer, pour éclaircir les choses, qu’on pourrait dire, d’un certain point de vue, que dans notre culture, notre civilisation…
+et c’est bien là ce qui nécessite qu’on y revienne toujours, sur cette fonction de l’inconscient …que peut vouloir dire ce savoir dont la marque à un certain niveau qui s’articule de vérité se définit en ceci que *c’est ce qu’on sait le moins, ce savoir qui vous préoccupe * ? Et c’est ce qui permet peut-être d’énoncer, pour éclaircir les choses, qu’on pourrait dire, d’un certain point de vue, que dans notre culture, notre civilisation…
 
 <!-- id: s16-13-0028 -->
 
-> dans notre sauce, à cette « *poêle à frire* » ou en tout cas c’est bien le seul terme qui justifie votre rassemblement ici …on pourrait aller à soutenir que la psychanalyse a cette fonction d’entretenir cette sorte d’hypnose qui fait qu’après tout, c’est bien vrai, hein, le sexuel chez nous est maintenu dans une torpeur sans précédent.
+dans notre sauce, à cette « *poêle à frire* » ou en tout cas c’est bien le seul terme qui justifie votre rassemblement ici …on pourrait aller à soutenir que la psychanalyse a cette fonction d’entretenir cette sorte d’hypnose qui fait qu’après tout, c’est bien vrai, hein, le sexuel chez nous est maintenu dans une torpeur sans précédent.
 
 <!-- id: s16-13-0029 -->
 
@@ -240,7 +244,7 @@ L’accent étant mis sur *la duperie*, quand même *la question fuse*…
 
 <!-- id: s16-13-0057 -->
 
-> et c’est ce qui fait que dans une zone qui est celle des suites de la théorie marxiste, on frétille un peu …est-ce que cette sacrée psychanalyse ne pourrait pas donner là, c’est le terme que j’ai entendu avancer comme ça, surgir dans ces paroles. Je préfère - je vous l’ai dit - « *un discours sans paroles* », mais quand je vais voir les gens c’est pour qu’on parle, alors ils parlent, ils parlent plus que moi, et alors ils disent quelque chose comme ça :
+et c’est ce qui fait que dans une zone qui est celle des suites de la théorie marxiste, on frétille un peu …est-ce que cette sacrée psychanalyse ne pourrait pas donner là, c’est le terme que j’ai entendu avancer comme ça, surgir dans ces paroles. Je préfère - je vous l’ai dit - « *un discours sans paroles* », mais quand je vais voir les gens c’est pour qu’on parle, alors ils parlent, ils parlent plus que moi, et alors ils disent quelque chose comme ça :
 
 <!-- id: s16-13-0058 -->
 
@@ -312,7 +316,7 @@ On finira bien…
 
 <!-- id: s16-13-0075 -->
 
-> à vouloir accentuer combien ce que j’énonce comme *logique du signifiant* reste en marge - en quelque sorte - de ce qu’une certaine frénésie, *adhésion à la formalisation pure*, permettrait d’en écarter comme, dit-on, *métaphysique* …on finira bien par faire qu’on s’apercevra que, même *dans le domaine du pur exercice mathématique, l’usage de la formalisation n’épuise rien* mais laisse en marge quelque chose à propos de quoi vaut toujours la question de ce qu’il en est du *désir de savoir*.
+à vouloir accentuer combien ce que j’énonce comme *logique du signifiant* reste en marge - en quelque sorte - de ce qu’une certaine frénésie, *adhésion à la formalisation pure*, permettrait d’en écarter comme, dit-on, *métaphysique* …on finira bien par faire qu’on s’apercevra que, même *dans le domaine du pur exercice mathématique, l’usage de la formalisation n’épuise rien* mais laisse en marge quelque chose à propos de quoi vaut toujours la question de ce qu’il en est du *désir de savoir*.
 
 <!-- id: s16-13-0076 -->
 
@@ -456,7 +460,7 @@ Car si l’union sexuelle comportait, en même temps que sa fin, la satisfaction
 
 <!-- id: s16-13-0111 -->
 
-> *cette jouissance qui n’est ici mise en valeur que de l’exclusion en quelque sorte de quelque chose qui représente la nature féminine* …est-ce que nous ne savons pas que la nature, pour *pourvoir dans ses mille et dix mille espèces aux nécessités de la conjonction*, ne semble pas avoir toujours besoin d’y recourir ? Il y a bien d’autres appareils que « *les appareils à tumescence* » qui sont en fonction au niveau de tels *arthropodes* ou *arachnidés*. Ce qu’il en est de *la jouissance* n’est ici en aucune façon réductible à un naturalisme. Ce qu’il y a de naturaliste dans la psychanalyse, c’est simplement ce *nativisme* des appareils qui s’appellent « *les pulsions* », et ce *nativisme* est conditionné de ceci que *l’homme naît dans un bain de signifiants*.
+*cette jouissance qui n’est ici mise en valeur que de l’exclusion en quelque sorte de quelque chose qui représente la nature féminine* …est-ce que nous ne savons pas que la nature, pour *pourvoir dans ses mille et dix mille espèces aux nécessités de la conjonction*, ne semble pas avoir toujours besoin d’y recourir ? Il y a bien d’autres appareils que « *les appareils à tumescence* » qui sont en fonction au niveau de tels *arthropodes* ou *arachnidés*. Ce qu’il en est de *la jouissance* n’est ici en aucune façon réductible à un naturalisme. Ce qu’il y a de naturaliste dans la psychanalyse, c’est simplement ce *nativisme* des appareils qui s’appellent « *les pulsions* », et ce *nativisme* est conditionné de ceci que *l’homme naît dans un bain de signifiants*.
 
 <!-- id: s16-13-0112 -->
 
@@ -468,15 +472,15 @@ Comment peut-il se faire… c’est de là qu’il faut prendre *la question, no
 
 <!-- id: s16-13-0114 -->
 
-> qui est le point où FREUD lui-même a marqué ce que j’ai appelé tout à l’heure « *l’arrêt de l’analyse* » sur un seuil …*de la sublimation* il ne nous a dit que deux choses : que ça avait un certain rapport *am Objekt…*
+qui est le point où FREUD lui-même a marqué ce que j’ai appelé tout à l’heure « *l’arrêt de l’analyse* » sur un seuil …*de la sublimation* il ne nous a dit que deux choses : que ça avait un certain rapport *am Objekt…*
 
 <!-- id: s16-13-0115 -->
 
-> *am, an, vous* connaissez déjà l’*an sich,* ce n’est pas du tout pareil que le « en » français, quand on traduit
->
-> l’*an sich* par l’« *en soi *», ce n’est pas ça du tout, c’est bien pour ça que mon « *en-Je* » quand il s’agit du *(a)*, fait aussi ambiguïté, j’aimerais l’appeler « *a-je* », en y mettant une apostrophe, l’« *a-je* »,
->
-> et vous verriez tout de suite ainsi où nous glissons, c’est là le bon usage des langues en exercice …mais pour reprendre ce dont il s’agit, quand FREUD articule la sublimation, il nous souligne que *si elle a rapport avec l’objet*, c’est par l’intermédiaire de quelque chose qu’il exploite au niveau où il l’introduit et qu’il appelle *l’idéalisation*, mais que dans son essence elle est *mit dem Trieb : avec la pulsion*.
+*am, an, vous* connaissez déjà l’*an sich,* ce n’est pas du tout pareil que le « en » français, quand on traduit
+
+l’*an sich* par l’« *en soi *», ce n’est pas ça du tout, c’est bien pour ça que mon « *en-Je* » quand il s’agit du *(a)*, fait aussi ambiguïté, j’aimerais l’appeler « *a-je* », en y mettant une apostrophe, l’« *a-je* »,
+
+et vous verriez tout de suite ainsi où nous glissons, c’est là le bon usage des langues en exercice …mais pour reprendre ce dont il s’agit, quand FREUD articule la sublimation, il nous souligne que *si elle a rapport avec l’objet*, c’est par l’intermédiaire de quelque chose qu’il exploite au niveau où il l’introduit et qu’il appelle *l’idéalisation*, mais que dans son essence elle est *mit dem Trieb : avec la pulsion*.
 
 <!-- id: s16-13-0116 -->
 
@@ -484,7 +488,7 @@ Ceci est dans l’*Einführung zur Narzissmus*, mais pour vous reporter aux autr
 
 <!-- id: s16-13-0117 -->
 
-> et pour tout dire du principe qui fait obstacle à l’émergence du travail …*la sublimation est* - à proprement parler et en tant que telle - *mode de satisfaction de la pulsion*. Elle est, avec la pulsion \- une pulsion qu’il qualifie de *zielgehemmt -* détournée – *traduit-on* - de son *but*. J’ai essayé déjà d’articuler ce qu’il en est de ce *but*, et que peut-être il faudrait dissocier au niveau du *but* ce qui est le chemin de ce qui est à proprement parler *la cible* pour y voir plus clair. Mais quel besoin de telles *arguties* après ce qu’aujourd’hui j’ai produit devant vous ?
+et pour tout dire du principe qui fait obstacle à l’émergence du travail …*la sublimation est* - à proprement parler et en tant que telle - *mode de satisfaction de la pulsion*. Elle est, avec la pulsion \- une pulsion qu’il qualifie de *zielgehemmt -* détournée – *traduit-on* - de son *but*. J’ai essayé déjà d’articuler ce qu’il en est de ce *but*, et que peut-être il faudrait dissocier au niveau du *but* ce qui est le chemin de ce qui est à proprement parler *la cible* pour y voir plus clair. Mais quel besoin de telles *arguties* après ce qu’aujourd’hui j’ai produit devant vous ?
 
 <!-- id: s16-13-0118 -->
 
@@ -508,7 +512,7 @@ L’horizon de PLATON, tout idéaliste que vous l’imaginiez, n’était rien d
 
 <!-- id: s16-13-0123 -->
 
-> à part bien sûr une suite de *conséquences logiques,* qu’il n’est pas question qu’elles portent leurs fruits …que d’annuler dans la société tous les effets de ses *Dialogues*.
+à part bien sûr une suite de *conséquences logiques,* qu’il n’est pas question qu’elles portent leurs fruits …que d’annuler dans la société tous les effets de ses *Dialogues*.
 
 <!-- id: s16-13-0124 -->
 

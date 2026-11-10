@@ -154,9 +154,9 @@ De ce rapport de la loi morale, en tant qu’elle s’articule à cette visée d
 
 <!-- id: s7-06-0038 -->
 
-> parvenue à ce moment à son point d’*indépendance* par rapport à *das Ding*,
->
-> au *das Ding* humain - sous la forme de la physique newtonienne
+parvenue à ce moment à son point d’*indépendance* par rapport à *das Ding*,
+
+au *das Ding* humain - sous la forme de la physique newtonienne
 
 <!-- id: s7-06-0039 -->
 
@@ -272,7 +272,11 @@ Je vous lis ce passage qui me paraît, vu l’élimination de tous les critères
 
 <!-- id: s7-06-0067 -->
 
-> « *Par conséquent, nous pouvons bien voir a priori que la loi morale, comme principe de détermination de la volonté, par cela même qu’elle porte préjudice à toutes nos inclinations, doit produire un sentiment qui peut être appelé de la douleur. Et c’est ici le premier, et peut-être le seul cas, où il nous soit permis de déterminer, par des concepts « a priori », le rapport d’une connaissance qui vient ainsi de la raison pure pratique, au sentiment du plaisir ou de la peine.* »
+<div class="text-quotation">
+
+« *Par conséquent, nous pouvons bien voir a priori que la loi morale, comme principe de détermination de la volonté, par cela même qu’elle porte préjudice à toutes nos inclinations, doit produire un sentiment qui peut être appelé de la douleur. Et c’est ici le premier, et peut-être le seul cas, où il nous soit permis de déterminer, par des concepts « a priori », le rapport d’une connaissance qui vient ainsi de la raison pure pratique, au sentiment du plaisir ou de la peine.* »
+
+</div>
 
 <!-- id: s7-06-0068 -->
 
@@ -332,9 +336,9 @@ Il n’en reste pas moins que *le deuxième commandement*...
 
 <!-- id: s7-06-0082 -->
 
-> celui qui formellement exclut comme telle toute *image*, et non seulement tout culte
->
-> mais toute *représentation* de ce qui est : « *dans le ciel, sur la terre et dans l’abîme* »
+celui qui formellement exclut comme telle toute *image*, et non seulement tout culte
+
+mais toute *représentation* de ce qui est : « *dans le ciel, sur la terre et dans l’abîme* »
 
 <!-- id: s7-06-0083 -->
 
@@ -378,9 +382,13 @@ Je vais, l’heure avançant, sauter un peu plus loin, pour en venir enfin à ce
 
 <!-- id: s7-06-0093 -->
 
-> « *Tu ne convoiteras point la maison de ton prochain, tu ne convoiteras point la femme de ton prochain, ni son serviteur,*
->
-> *ni sa servante, ni son bœuf, ni son âne, ni rien de ce qui appartient à ton prochain.* »
+<div class="text-quotation">
+
+« *Tu ne convoiteras point la maison de ton prochain, tu ne convoiteras point la femme de ton prochain, ni son serviteur,*
+
+*ni sa servante, ni son bœuf, ni son âne, ni rien de ce qui appartient à ton prochain.* »
+
+</div>
 
 <!-- id: s7-06-0094 -->
 

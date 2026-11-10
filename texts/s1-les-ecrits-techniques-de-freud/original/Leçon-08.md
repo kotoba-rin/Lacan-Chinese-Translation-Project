@@ -130,7 +130,7 @@ Un appareil d’optique beaucoup plus simple qu’un microscope compliqué…
 
 <!-- id: s1-08-0032 -->
 
-> non pas qu’il ne serait pas amusant de poursuivre la comparaison en question, mais ça nous entraînerait un peu loin
+non pas qu’il ne serait pas amusant de poursuivre la comparaison en question, mais ça nous entraînerait un peu loin
 
 <!-- id: s1-08-0033 -->
 
@@ -218,7 +218,7 @@ C’est-à-dire qu’à ce moment-là vous verrez ici se produire…
 
 <!-- id: s1-08-0054 -->
 
-> ne voyant pas le bouquet, qui est là caché, si vous êtes dans le bon champ, tous ceux qui seront par là, environ
+ne voyant pas le bouquet, qui est là caché, si vous êtes dans le bon champ, tous ceux qui seront par là, environ
 
 <!-- id: s1-08-0055 -->
 
@@ -238,13 +238,13 @@ En effet, s’il y a quelque chose que nous mettrons à la base de cette dia­le
 
 <!-- id: s1-08-0059 -->
 
-> qui est en relation avec *la saisie de l’image du corps propre*, plus profondément avec les rapports du *Ur-Ich*, ou du *Lust-­Ich*
->
-> de toute cette notion d’un *moi* primitif qui va se constituer dans une sorte de clivage, de distinction d’avec le monde
->
-> extérieur, ou le rapport de ce qui est inclus au-dedans, de ce qui est exclu par tous ces processus précisément d’exclusion,
->
-> *Ausstossung*, de projection, de délimitation en somme du domaine propre du *moi*
+qui est en relation avec *la saisie de l’image du corps propre*, plus profondément avec les rapports du *Ur-Ich*, ou du *Lust-­Ich*
+
+de toute cette notion d’un *moi* primitif qui va se constituer dans une sorte de clivage, de distinction d’avec le monde
+
+extérieur, ou le rapport de ce qui est inclus au-dedans, de ce qui est exclu par tous ces processus précisément d’exclusion,
+
+*Ausstossung*, de projection, de délimitation en somme du domaine propre du *moi*
 
 <!-- id: s1-08-0060 -->
 
@@ -392,7 +392,11 @@ Mélanie KLEIN nous dit :
 
 <!-- id: s1-08-0096 -->
 
-> « *Le monde de l’enfant se produit à partir d’un contenant, ce serait le corps de la mère, et d’un contenu du corps de cette mère.* »
+<div class="text-quotation">
+
+« *Le monde de l’enfant se produit à partir d’un contenant, ce serait le corps de la mère, et d’un contenu du corps de cette mère.* »
+
+</div>
 
 <!-- id: s1-08-0097 -->
 
@@ -448,7 +452,7 @@ En d’autres termes ceci s’exprime de la façon suivante : là nous sommes un
 
 <!-- id: s1-08-0110 -->
 
-> vous le remarquerez, cela vous éclairera, au moment où il s’agit d’*introjection symbolique*
+vous le remarquerez, cela vous éclairera, au moment où il s’agit d’*introjection symbolique*
 
 <!-- id: s1-08-0111 -->
 
@@ -572,7 +576,7 @@ C’est une clef qui est très réduite. Je vous ai déjà indiqué qu’il y av
 
 <!-- id: s1-08-0141 -->
 
-> celle qui va peut-être sortir à propos d’une population soudanaise
+celle qui va peut-être sortir à propos d’une population soudanaise
 
 <!-- id: s1-08-0142 -->
 
@@ -596,9 +600,9 @@ Vous voyez donc jouer indépendamment dans cette observation la série des relat
 
 <!-- id: s1-08-0147 -->
 
-> ce que nous appelons *le monde réel*, et qui n’est qu’un monde humanisé, *symbolisé*, qui n’est fait
->
-> que de la transcendance introduite par le *symbole* dans la réalité primitive
+ce que nous appelons *le monde réel*, et qui n’est qu’un monde humanisé, *symbolisé*, qui n’est fait
+
+que de la transcendance introduite par le *symbole* dans la réalité primitive
 
 <!-- id: s1-08-0148 -->
 

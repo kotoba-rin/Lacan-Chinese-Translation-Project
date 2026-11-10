@@ -10,7 +10,7 @@ Je vous ai indiqué en présence de quelle sorte de problème nous sommes. Pour 
 
 <!-- id: s3-21-0002 -->
 
-> ceux dans lesquels à la fois s’expriment le trouble, un manque, et aussi, dans la perspective qui est la nôtre, proprement analytique, un effort de guérison, une restitution d’un monde comme psychotique
+ceux dans lesquels à la fois s’expriment le trouble, un manque, et aussi, dans la perspective qui est la nôtre, proprement analytique, un effort de guérison, une restitution d’un monde comme psychotique
 
 <!-- id: s3-21-0003 -->
 
@@ -78,7 +78,11 @@ Quelque chose qui s’est d’abord manifesté par ses modes d’expression au s
 
 <!-- id: s3-21-0019 -->
 
-> « *Et maintenant manque la pensée principale.* »
+<div class="text-quotation">
+
+« *Et maintenant manque la pensée principale.* »
+
+</div>
 
 <!-- id: s3-21-0020 -->
 
@@ -86,9 +90,13 @@ Ou encore la *Gesinnung * : *Gesinnung* peut vouloir dire conviction et foi. C�
 
 <!-- id: s3-21-0021 -->
 
-> « *La Gesinnung est quelque chose que nous devons à tout homme de bien, et aussi bien même au plus noir pêcheur, sous réserves des exigences de purification inhérentes à l’ordre de l’univers, que nous lui devons dans l’échange, dans cette sorte de référence qui est celle qui doit régler nos rapports avec les êtres humains.* »
->
-> \[*Hin und wieder wurde auch und zwar in diesen Worten eingestanden : « Fehlt uns die Gesinnung », d. h. diejenige Gesinnung, die wir eigentlich jedem guten Menschen, ja selbst dem verworfensten Sünder gegenüber unter Vorbehalt der weltordnungsmäßigen Reinigungsmittel haben müßten*.\]
+<div class="text-quotation">
+
+« *La Gesinnung est quelque chose que nous devons à tout homme de bien, et aussi bien même au plus noir pêcheur, sous réserves des exigences de purification inhérentes à l’ordre de l’univers, que nous lui devons dans l’échange, dans cette sorte de référence qui est celle qui doit régler nos rapports avec les êtres humains.* »
+
+\[*Hin und wieder wurde auch und zwar in diesen Worten eingestanden : « Fehlt uns die Gesinnung », d. h. diejenige Gesinnung, die wir eigentlich jedem guten Menschen, ja selbst dem verworfensten Sünder gegenüber unter Vorbehalt der weltordnungsmäßigen Reinigungsmittel haben müßten*.\]
+
+</div>
 
 <!-- id: s3-21-0022 -->
 
@@ -96,7 +104,11 @@ C’est bien là de *la foi* qu’il s’agit, *bonne foi* minimum qu’implique
 
 <!-- id: s3-21-0023 -->
 
-> « *Avec mon consentement quelque chose doit être.* »
+<div class="text-quotation">
+
+« *Avec mon consentement quelque chose doit être.* »
+
+</div>
 
 <!-- id: s3-21-0024 -->
 
@@ -140,15 +152,19 @@ Et je suis là pour vous dire que la condition de familiarité avec cela est abs
 
 <!-- id: s3-21-0034 -->
 
-> « *Mais en fin de compte, quand il nous parle de ce signifié et de ces significations, est-ce qu’il n’y a pas, toujours plus ou moins présent à l’intérieur, quelque chose qui est évidemment du signifiant ?* *Et toute l’expérience analytique ne nous montre-t-elle pas combien les significations qui sont celles qui orientent, polarisent l’expérience analytique, que ce signifiant est donné, et tout simplement par le corps propre ?*
->
-> *Et inversement depuis quelque temps, est-ce que là quand nous parlons de signifiant, de ce signifiant dont tel élément peut*
->
-> *en quelque sorte se trouver absent, ne fait-il pas là une sorte de tour de passe-passe dont il serait sensé avoir le secret,*
->
-> *en fait de nous mettre au sommet du signifiant quelque chose qui est la signification la plus pleine et par conséquent*
->
-> *de faire toujours passer sous je ne sais quelle muscade d’un registre dans l’autre pour les besoins de sa démonstration.* »
+<div class="text-quotation">
+
+« *Mais en fin de compte, quand il nous parle de ce signifié et de ces significations, est-ce qu’il n’y a pas, toujours plus ou moins présent à l’intérieur, quelque chose qui est évidemment du signifiant ?* *Et toute l’expérience analytique ne nous montre-t-elle pas combien les significations qui sont celles qui orientent, polarisent l’expérience analytique, que ce signifiant est donné, et tout simplement par le corps propre ?*
+
+*Et inversement depuis quelque temps, est-ce que là quand nous parlons de signifiant, de ce signifiant dont tel élément peut*
+
+*en quelque sorte se trouver absent, ne fait-il pas là une sorte de tour de passe-passe dont il serait sensé avoir le secret,*
+
+*en fait de nous mettre au sommet du signifiant quelque chose qui est la signification la plus pleine et par conséquent*
+
+*de faire toujours passer sous je ne sais quelle muscade d’un registre dans l’autre pour les besoins de sa démonstration.* »
+
+</div>
 
 <!-- id: s3-21-0035 -->
 
@@ -172,9 +188,9 @@ Nous ne pouvons pas ne pas tenir compte de tout ce qui arrive, tout ce qui est �
 
 <!-- id: s3-21-0040 -->
 
-> à laquelle il manque tellement d’éléments pour que nous l’expliquions, souvent à laquelle nous sommes tellement forcés tout le temps d’introduire des espèces de présupposés, plus ou moins d’introduire
->
-> en contrebande, quand nous nous mettons à expliquer les choses purement sur le plan de cette dynamique
+à laquelle il manque tellement d’éléments pour que nous l’expliquions, souvent à laquelle nous sommes tellement forcés tout le temps d’introduire des espèces de présupposés, plus ou moins d’introduire
+
+en contrebande, quand nous nous mettons à expliquer les choses purement sur le plan de cette dynamique
 
 <!-- id: s3-21-0041 -->
 
@@ -282,13 +298,17 @@ Et le vieux peut bien se dire en écho : « *Qu’est-ce qu’il vient faire ?* 
 
 <!-- id: s3-21-0067 -->
 
-> «*Oui, je viens dans son temple adorer l’Éternel.*
->
-> *Je viens, selon l’usage antique et solennel,*
->
-> *Célébrer avec vous la fameuse journée,*
->
-> *où sur le Mont Sinaï la loi nous fut donnée.* »
+<div class="text-quotation">
+
+«*Oui, je viens dans son temple adorer l’Éternel.*
+
+*Je viens, selon l’usage antique et solennel,*
+
+*Célébrer avec vous la fameuse journée,*
+
+*où sur le Mont Sinaï la loi nous fut donnée.* »
+
+</div>
 
 <!-- id: s3-21-0068 -->
 
@@ -316,7 +336,7 @@ Et bien entendu, l’oreille du grand prêtre n’est pas - nous l’imaginons b
 
 <!-- id: s3-21-0074 -->
 
-> zèle vient du grec et veut dire quelque chose comme *émulation, rivalité, imitation* \[du grec ζῆλος « jalousie, ferveur »\]
+zèle vient du grec et veut dire quelque chose comme *émulation, rivalité, imitation* \[du grec ζῆλος « jalousie, ferveur »\]
 
 <!-- id: s3-21-0075 -->
 
@@ -324,11 +344,15 @@ Et bien entendu, l’oreille du grand prêtre n’est pas - nous l’imaginons b
 
 <!-- id: s3-21-0076 -->
 
-> « *Je tremble qu’Athalie, à ne vous rien cacher,*
->
-> *Vous-même de l’autel vous faisant arracher,*
->
-> *N’achève enfin sur vous ses vengeances funestes, etc.* »
+<div class="text-quotation">
+
+« *Je tremble qu’Athalie, à ne vous rien cacher,*
+
+*Vous-même de l’autel vous faisant arracher,*
+
+*N’achève enfin sur vous ses vengeances funestes, etc.* »
+
+</div>
 
 <!-- id: s3-21-0077 -->
 
@@ -336,9 +360,13 @@ Là, nous voyons surgir un mot qui a beaucoup d’importance, « *tremble* » - 
 
 <!-- id: s3-21-0078 -->
 
-> « *Pas tant d’histoires, de quoi retourne-t-il ?*
->
-> *À quoi convient-il qu’on reconnaisse ceux qui sont vraiment autre chose que des zélés ?* »
+<div class="text-quotation">
+
+« *Pas tant d’histoires, de quoi retourne-t-il ?*
+
+*À quoi convient-il qu’on reconnaisse ceux qui sont vraiment autre chose que des zélés ?* »
+
+</div>
 
 <!-- id: s3-21-0079 -->
 
@@ -362,13 +390,17 @@ On ne sait toujours pas à quoi on veut en venir, si ce n’est :
 
 <!-- id: s3-21-0084 -->
 
-> « *Croyez-moi, plus j’y pense, et moins je puis en douter,*
->
-> *Que sur vous son courroux ne soit prêt d’éclater*. »
->
-> « *Je l’observais hier* - nous voilà sur le plan de l’officier de renseignement - *et je voyais ses yeux*
->
-> *lancer sur le Lieu Saint des regards furieux*… »
+<div class="text-quotation">
+
+« *Croyez-moi, plus j’y pense, et moins je puis en douter,*
+
+*Que sur vous son courroux ne soit prêt d’éclater*. »
+
+« *Je l’observais hier* - nous voilà sur le plan de l’officier de renseignement - *et je voyais ses yeux*
+
+*lancer sur le Lieu Saint des regards furieux*… »
+
+</div>
 
 <!-- id: s3-21-0085 -->
 
@@ -392,7 +424,11 @@ Cette offre montre déjà assez que si ABNER vient là, c’est attiré par la c
 
 <!-- id: s3-21-0090 -->
 
-> « *Très bien* - dit l’autre - *passez, rentrez dans la procession et ne parlez pas dans les rangs.* »
+<div class="text-quotation">
+
+« *Très bien* - dit l’autre - *passez, rentrez dans la procession et ne parlez pas dans les rangs.* »
+
+</div>
 
 <!-- id: s3-21-0091 -->
 
@@ -400,13 +436,17 @@ Ce n’est pas cela du tout, à une seule condition, c’est que vous vous aperc
 
 <!-- id: s3-21-0092 -->
 
-> « *Celui qui met un frein à la fureur des flots*
->
-> *Sait aussi des méchants arrêter les complots.*
->
-> *Soumis avec respect à sa volonté sainte,*
->
-> *Je crains Dieu, cher Abner, et n’ai point d’autre crainte*. »
+<div class="text-quotation">
+
+« *Celui qui met un frein à la fureur des flots*
+
+*Sait aussi des méchants arrêter les complots.*
+
+*Soumis avec respect à sa volonté sainte,*
+
+*Je crains Dieu, cher Abner, et n’ai point d’autre crainte*. »
+
+</div>
 
 <!-- id: s3-21-0093 -->
 
@@ -414,9 +454,13 @@ Il continue et engage des choses sur ceci :
 
 <!-- id: s3-21-0094 -->
 
-> « *Je crains Dieu, dites-vous* - lui renvoie-t-il, alors qu’il n’a jamais dit cela ABNER - *sa vérité me touche,*
->
-> *Voici comment ce Dieu vous répond par ma bouche *: »
+<div class="text-quotation">
+
+« *Je crains Dieu, dites-vous* - lui renvoie-t-il, alors qu’il n’a jamais dit cela ABNER - *sa vérité me touche,*
+
+*Voici comment ce Dieu vous répond par ma bouche *: »
+
+</div>
 
 <!-- id: s3-21-0095 -->
 
@@ -424,15 +468,19 @@ Et nous voyons paraître ici le mot que je vous ai signalé au début, le mot «
 
 <!-- id: s3-21-0096 -->
 
-> «  *Du zèle de ma loi que sert de vous parer ?*
->
-> *Par de stériles vœux pensez-vous m’honorer ?*
->
-> *Quel fruit me revient-il de tous vos sacrifices ?*
->
-> \[...\]
->
-> *Du milieu de mon peuple exterminez les crimes,*
+<div class="text-quotation">
+
+«  *Du zèle de ma loi que sert de vous parer ?*
+
+*Par de stériles vœux pensez-vous m’honorer ?*
+
+*Quel fruit me revient-il de tous vos sacrifices ?*
+
+\[...\]
+
+*Du milieu de mon peuple exterminez les crimes,*
+
+</div>
 
 <!-- id: s3-21-0097 -->
 
@@ -440,7 +488,7 @@ Reprise du thème « *extermination* ».
 
 <!-- id: s3-21-0098 -->
 
-> *Et vous viendrez alors m’immoler vos victimes.* »
+*Et vous viendrez alors m’immoler vos victimes.* »
 
 <!-- id: s3-21-0099 -->
 
@@ -448,7 +496,11 @@ Les victimes dont il s’agit, il ne faudrait pas croire que ce sont d’innocen
 
 <!-- id: s3-21-0100 -->
 
-> « *L’arche sainte est muette, et ne rend plus d’oracles.* »
+<div class="text-quotation">
+
+« *L’arche sainte est muette, et ne rend plus d’oracles.* »
+
+</div>
 
 <!-- id: s3-21-0101 -->
 
@@ -456,27 +508,31 @@ On lui rétorque vivement que :
 
 <!-- id: s3-21-0102 -->
 
-> «  *...toujours les plus grandes merveilles*
->
-> *Sans ébranler ton cœur frapperont tes oreilles ?*
->
-> *Faut-il, Abner, faut-il vous rappeler le cours*
->
-> *Des prodiges fameux accomplis en nos jours ?*
->
-> \[...\]
->
-> *L’impie Achab détruit, et de son sang trempé*
->
-> *Le champ que par le meurtre il avait usurpé ;*
->
-> *Près de ce champ fatal Jézabel immolée,*
->
-> *Sous les pieds des chevaux cette reine foulée,*
->
-> *Dans son sang inhumain les chiens désaltérés,*
->
-> *Et de son corps hideux les membres déchirés ;* ».
+<div class="text-quotation">
+
+«  *...toujours les plus grandes merveilles*
+
+*Sans ébranler ton cœur frapperont tes oreilles ?*
+
+*Faut-il, Abner, faut-il vous rappeler le cours*
+
+*Des prodiges fameux accomplis en nos jours ?*
+
+\[...\]
+
+*L’impie Achab détruit, et de son sang trempé*
+
+*Le champ que par le meurtre il avait usurpé ;*
+
+*Près de ce champ fatal Jézabel immolée,*
+
+*Sous les pieds des chevaux cette reine foulée,*
+
+*Dans son sang inhumain les chiens désaltérés,*
+
+*Et de son corps hideux les membres déchirés ;* ».
+
+</div>
 
 <!-- id: s3-21-0103 -->
 
@@ -484,9 +540,13 @@ Nous savons donc de quelle sorte de victime il va s’agir. Donc ce qu’il vien
 
 <!-- id: s3-21-0104 -->
 
-> « *Faut-il, Abner, faut-il vous rappeler le cours*
->
-> *Des prodiges fameux accomplis en nos jours ?* »
+<div class="text-quotation">
+
+« *Faut-il, Abner, faut-il vous rappeler le cours*
+
+*Des prodiges fameux accomplis en nos jours ?* »
+
+</div>
 
 <!-- id: s3-21-0105 -->
 
@@ -494,9 +554,13 @@ Voici les deux vers que j’ai sautés tout à l’heure :
 
 <!-- id: s3-21-0106 -->
 
-> « *Des tyrans d’Israël les célèbres disgrâces,*
->
-> *Et Dieu trouvé fidèle en toutes ses menaces ;* »
+<div class="text-quotation">
+
+« *Des tyrans d’Israël les célèbres disgrâces,*
+
+*Et Dieu trouvé fidèle en toutes ses menaces ;* »
+
+</div>
 
 <!-- id: s3-21-0107 -->
 
@@ -532,7 +596,7 @@ Je n’ai pas pu vous indiquer l’histoire culturelle de ce signifiant, mais :
 
 <!-- id: s3-21-0115 -->
 
-> qui est celle-là et pas n’importe laquelle,
+qui est celle-là et pas n’importe laquelle,
 
 <!-- id: s3-21-0116 -->
 
@@ -588,7 +652,7 @@ C’est dans un autre registre qu’il nous faut comprendre ce qui se passe dans
 
 <!-- id: s3-21-0129 -->
 
-> parce que je n’en connais pas le nombre, mais ce n’est pas impossible qu’on arrive à le déterminer
+parce que je n’en connais pas le nombre, mais ce n’est pas impossible qu’on arrive à le déterminer
 
 <!-- id: s3-21-0130 -->
 

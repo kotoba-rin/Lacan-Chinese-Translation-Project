@@ -61,7 +61,7 @@ Je vais revenir parce que ma pratique est ici, et ce séminaire...
 
 <!-- id: s27-10-0014 -->
 
-> qui n’est pas de ma pratique, mais qui la complémente ...ce séminaire, je le tiens moins qu’il ne me tient.
+qui n’est pas de ma pratique, mais qui la complémente ...ce séminaire, je le tiens moins qu’il ne me tient.
 
 <!-- id: s27-10-0015 -->
 

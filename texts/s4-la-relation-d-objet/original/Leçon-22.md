@@ -136,10 +136,14 @@ qui fuyant le journaliste, lui dit :
 
 <!-- id: s4-22-0025 -->
 
-> « *Je suis une honnête femme-monsieur*
-> *Ma femme est un homme-madame.*
-> *Elle a emporté le piano le violon l’assiette au beurre*
-> *Elle est soldat ministre merdecin, etc…* » \[[G. Apollinaire : Les mamelles de Tirésias, I, 7.](http://fr.wikisource.org/wiki/Les_Mamelles_de_Tir%C3%A9sias/Acte_premier)\]
+<div class="text-quotation">
+
+« *Je suis une honnête femme-monsieur*
+*Ma femme est un homme-madame.*
+*Elle a emporté le piano le violon l’assiette au beurre*
+*Elle est soldat ministre merdecin, etc…* » \[[G. Apollinaire : Les mamelles de Tirésias, I, 7.](http://fr.wikisource.org/wiki/Les_Mamelles_de_Tir%C3%A9sias/Acte_premier)\]
+
+</div>
 
 <!-- id: s4-22-0026 -->
 
@@ -317,10 +321,14 @@ On pourrait pousser ces choses fort loin, et voir dans ce poème où comme d’h
 
 <!-- id: s4-22-0056 -->
 
-> «  *Pendant qu’il sommeillait, Ruth, une moabite,  
-> S’était couchée aux pieds de Booz, le sein nu,  
-> Espérant on ne sait quel rayon inconnu,  
-> Quand viendrait du réveil la lumière subite.*  »
+<div class="text-quotation">
+
+«  *Pendant qu’il sommeillait, Ruth, une moabite,  
+S’était couchée aux pieds de Booz, le sein nu,  
+Espérant on ne sait quel rayon inconnu,  
+Quand viendrait du réveil la lumière subite.*  »
+
+</div>
 
 <!-- id: s4-22-0057 -->
 
@@ -330,10 +338,14 @@ Un peu plus loin donc, ce dont il s’agit, c’est toujours de la même chose 
 
 <!-- id: s4-22-0058 -->
 
-> « *Immobile, ouvrant l’œil à moitié sous ses voiles,  
-> Quel dieu, quel moissonneur de l’éternel été,  
-> Avait, en s’en allant, négligemment jeté  
-> Cette faucille d’or dans le champ des étoiles.* »
+<div class="text-quotation">
+
+« *Immobile, ouvrant l’œil à moitié sous ses voiles,  
+Quel dieu, quel moissonneur de l’éternel été,  
+Avait, en s’en allant, négligemment jeté  
+Cette faucille d’or dans le champ des étoiles.* »
+
+</div>
 
 <!-- id: s4-22-0059 -->
 
@@ -775,11 +787,11 @@ du caractère invraisemblablement énigmatique de toute situation où est introd
 
 <!-- id: s4-22-0141 -->
 
-> nous avons réussi depuis littéralement à sco­tomiser cela,
->
-> à méconnaître l’existence de choses comme celles-là dans l’œuvre de FREUD
-> …lisez-le pour vous apercevoir à quel point il est difficile de savoir en fin de compte ce qu’il veut arriver à dire,
-> mais lisez-le en même temps pour voir à quel point ça se tient, *malgré toutes les erreurs*, car il y a des erreurs, mais cela ne fait rien, c’est quelque chose qui est absolument consistant.
+nous avons réussi depuis littéralement à sco­tomiser cela,
+
+à méconnaître l’existence de choses comme celles-là dans l’œuvre de FREUD
+…lisez-le pour vous apercevoir à quel point il est difficile de savoir en fin de compte ce qu’il veut arriver à dire,
+mais lisez-le en même temps pour voir à quel point ça se tient, *malgré toutes les erreurs*, car il y a des erreurs, mais cela ne fait rien, c’est quelque chose qui est absolument consistant.
 
 <!-- id: s4-22-0142 -->
 

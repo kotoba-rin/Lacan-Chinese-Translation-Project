@@ -86,11 +86,11 @@ C’est donc en suivant la voie de quelque chose qui est la résistance à cette
 
 <!-- id: s8-14-0021 -->
 
-> \[*In der Regel kann der Arzt dem Analysierten diese Phase der Kur nicht ersparen; er muß ihn ein gewisses Stück seines vergessenen* *Lebens wiedererleben lassen*
->
-> *und hat dafür zu sorgen, daß ein Maß von Überlegenheit erhalten bleibt, kraft dessen die anscheinende Realität doch immer wieder als Spiegelung einer vergessenen*
->
-> *Vergangenheit erkannt wird.*\]
+\[*In der Regel kann der Arzt dem Analysierten diese Phase der Kur nicht ersparen; er muß ihn ein gewisses Stück seines vergessenen* *Lebens wiedererleben lassen*
+
+*und hat dafür zu sorgen, daß ein Maß von Überlegenheit erhalten bleibt, kraft dessen die anscheinende Realität doch immer wieder als Spiegelung einer vergessenen*
+
+*Vergangenheit erkannt wird.*\]
 
 <!-- id: s8-14-0022 -->
 
@@ -374,7 +374,7 @@ Et SOCRATE, sans le savoir, quand il *loue* - ἐπαινεῖν \[epainein\] *-
 
 <!-- id: s8-14-0092 -->
 
-> de cette *fin de chacun*.
+de cette *fin de chacun*.
 
 <!-- id: s8-14-0093 -->
 

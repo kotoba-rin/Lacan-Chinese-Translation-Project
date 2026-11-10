@@ -22,7 +22,7 @@ C’est bien là que l’on pourrait comparer les références de l’histoire -
 
 <!-- id: s15-07-0005 -->
 
-> sur lequel pour l’instant j’essaie d’articuler ce qu’il en est de *l’acte* dans la perspective qui ouvre *l’acte psychanalytique* …on ne voit pas pourquoi je n’aurais pas commencé par là il y a une quinzaine d’années.
+sur lequel pour l’instant j’essaie d’articuler ce qu’il en est de *l’acte* dans la perspective qui ouvre *l’acte psychanalytique* …on ne voit pas pourquoi je n’aurais pas commencé par là il y a une quinzaine d’années.
 
 <!-- id: s15-07-0006 -->
 
@@ -46,7 +46,7 @@ Ce n’est pas une raison pour qu’il n’y ait pas de *séminaire fermé*. Il 
 
 <!-- id: s15-07-0011 -->
 
-> et tout ce qu’il y a de plus légitimement puisque aussi bien ce sont des psychanalystes …que ce soit ceux-là - dans la mesure où ils en manifesteront le désir - qui viendront ici le 31 janvier.
+et tout ce qu’il y a de plus légitimement puisque aussi bien ce sont des psychanalystes …que ce soit ceux-là - dans la mesure où ils en manifesteront le désir - qui viendront ici le 31 janvier.
 
 <!-- id: s15-07-0012 -->
 
@@ -58,7 +58,7 @@ Vous allez voir combien c’est justifié puisque je vais donner à cette réuni
 
 <!-- id: s15-07-0014 -->
 
-> c’est ce que j’espère, qu’il s’est suffisamment dessiné jusqu’à présent dans votre vue …c’est qu’à tout le moins ce sens, je lui ai donné une forme, qu’on peut l’articuler suivant un certain nombre de questions et savoir si on peut y répondre et si elles sont même des questions.
+c’est ce que j’espère, qu’il s’est suffisamment dessiné jusqu’à présent dans votre vue …c’est qu’à tout le moins ce sens, je lui ai donné une forme, qu’on peut l’articuler suivant un certain nombre de questions et savoir si on peut y répondre et si elles sont même des questions.
 
 <!-- id: s15-07-0015 -->
 
@@ -66,7 +66,7 @@ C’est précisément ce qui est ouvert, c’est quand même comme cela que le p
 
 <!-- id: s15-07-0016 -->
 
-> et je suis bien forcé de le dire puisqu’il y en a certaines manifestations récentes …au niveau des psychanalystes, à même considérer qu’il puisse y avoir une *question* au niveau *du principe de la structure*.
+et je suis bien forcé de le dire puisqu’il y en a certaines manifestations récentes …au niveau des psychanalystes, à même considérer qu’il puisse y avoir une *question* au niveau *du principe de la structure*.
 
 <!-- id: s15-07-0017 -->
 
@@ -158,9 +158,9 @@ La dernière fois donc, aux deux pôles que j’ai définis et articulés de la 
 
 <!-- id: s15-07-0039 -->
 
-> pour autant donc que je ne lui refuse pas du tout le droit - lui aussi - à la résistance :
->
-> je ne vois pas pourquoi le psychanalyste en serait destitué …pour ce psychanalyste, en tant *qu’il instaure l’acte psychanalytique*, c’est-à-dire qu’il donne sa garantie au *transfert*, c’est-à-dire au *sujet supposé savoir*, alors que tout *son avantage*, le seul qu’il ait sur le sujet psychanalysant, c’est de savoir d’expérience ce qu’il en est du *sujet supposé savoir*, c’est-à-dire de ce que pour lui, et pour autant qu’il est supposé avoir traversé l’expérience psychanalytique d’une façon dont le moins qu’on puisse dire, sans rentrer plus loin dans les débats doctrinaux, est qu’elle doit être une façon, disons un peu plus poussée que celle des cures : *il doit savoir ce qu’il en est du sujet supposé savoir.*
+pour autant donc que je ne lui refuse pas du tout le droit - lui aussi - à la résistance :
+
+je ne vois pas pourquoi le psychanalyste en serait destitué …pour ce psychanalyste, en tant *qu’il instaure l’acte psychanalytique*, c’est-à-dire qu’il donne sa garantie au *transfert*, c’est-à-dire au *sujet supposé savoir*, alors que tout *son avantage*, le seul qu’il ait sur le sujet psychanalysant, c’est de savoir d’expérience ce qu’il en est du *sujet supposé savoir*, c’est-à-dire de ce que pour lui, et pour autant qu’il est supposé avoir traversé l’expérience psychanalytique d’une façon dont le moins qu’on puisse dire, sans rentrer plus loin dans les débats doctrinaux, est qu’elle doit être une façon, disons un peu plus poussée que celle des cures : *il doit savoir ce qu’il en est du sujet supposé savoir.*
 
 <!-- id: s15-07-0040 -->
 
@@ -184,7 +184,7 @@ C’est au moment où il le devient, qu’également il se revêt *pour le psych
 
 <!-- id: s15-07-0045 -->
 
-> qui n’est d’ailleurs pas très ample puisque nous pouvons la faire quadrupler avec quelque chose de vide au centre …en tant que cet *objet(a)* est absolument décisif pour tout ce dont il s’agit concernant *la structure de l’inconscient*.
+qui n’est d’ailleurs pas très ample puisque nous pouvons la faire quadrupler avec quelque chose de vide au centre …en tant que cet *objet(a)* est absolument décisif pour tout ce dont il s’agit concernant *la structure de l’inconscient*.
 
 <!-- id: s15-07-0046 -->
 
@@ -192,7 +192,7 @@ Permettez-moi ici un instant de revenir à ce qui tout à l’heure était mon i
 
 <!-- id: s15-07-0047 -->
 
-> concernant ceux qui sont encore là, au bord, à *tâtonner*, à *hésiter* …sur ce qu’il y a ou non de recevable dans une théorie qui déjà s’est suffisamment développée pour qu’il ne soit plus question d’en discuter le principe mais seulement de savoir si, sur tel ou tel point, son articulation est correcte ou rectifiable.
+concernant ceux qui sont encore là, au bord, à *tâtonner*, à *hésiter* …sur ce qu’il y a ou non de recevable dans une théorie qui déjà s’est suffisamment développée pour qu’il ne soit plus question d’en discuter le principe mais seulement de savoir si, sur tel ou tel point, son articulation est correcte ou rectifiable.
 
 <!-- id: s15-07-0048 -->
 
@@ -200,15 +200,15 @@ Est-ce qu’à n’importe qui de ceux qui sont ici…
 
 <!-- id: s15-07-0049 -->
 
-> je dirai même ceux, s’il y en a, qui arriveraient pour la première fois …est-ce que ne tranche pas…
+je dirai même ceux, s’il y en a, qui arriveraient pour la première fois …est-ce que ne tranche pas…
 
 <!-- id: s15-07-0050 -->
 
-> ça ne veut pas dire, bien sûr, que ça aurait pu se dire aussi simplement avant …est-ce que ne tranche pas purement et simplement la question de ceci : *oui ou non* l’analyse veut-elle dire…
+ça ne veut pas dire, bien sûr, que ça aurait pu se dire aussi simplement avant …est-ce que ne tranche pas purement et simplement la question de ceci : *oui ou non* l’analyse veut-elle dire…
 
 <!-- id: s15-07-0051 -->
 
-> et il me semble difficile qu’on puisse, *à la façon dont je vais le dire*, ne pas voir aussitôt ce dont il s’agit … *oui ou non* l’analyse veut-elle dire que dans ce que vous voudrez : un « *être* » comme ils disent, ou un devenir, ou n’importe quoi, quelque chose qui est de l’ordre du vivant, il y ait - quels qu’ils soient - des événements qui emportent des conséquences ?
+et il me semble difficile qu’on puisse, *à la façon dont je vais le dire*, ne pas voir aussitôt ce dont il s’agit … *oui ou non* l’analyse veut-elle dire que dans ce que vous voudrez : un « *être* » comme ils disent, ou un devenir, ou n’importe quoi, quelque chose qui est de l’ordre du vivant, il y ait - quels qu’ils soient - des événements qui emportent des conséquences ?
 
 <!-- id: s15-07-0052 -->
 
@@ -260,7 +260,7 @@ Et c’est très précisément pour cela que j’ai mis sur la même diagonale�
 
 <!-- id: s15-07-0064 -->
 
-> Je dis cela pour faire image car bien entendu ce qui se passe sur cette ligne - *la diagonale* - n’a pas plus droit à s’appeler « *diagonale* » que ce qui se passe sur les autres. Il suffit de faire tourner le tétraèdre pour en faire des lignes horizontales ou verticales mais, pour des raisons d’imagination, c’est plus commode à représenter ainsi. Il ne faut pas s’y laisser prendre, il n’y a rien de plus *diagonal* dans *le transfert* que dans *l’aliénation* ni non plus dans ce que j’appelle *l’opération vérité*, c’est bien parce que l’acte reste en blanc, si je puis dire …donc c’est ainsi que cette ligne - *la diagonale* - peut être occupée dans l’autre direction par le transfert, c’est-à-dire, au cours du « *faire* » psychanalysant, par la marche vers ce qui est l’horizon, le mirage, le point d’arrivée, point d’arrivée, bien sûr, auquel j’ai déjà assez défini le rendez-vous en tant qu’il est défini par le *sujet supposé savoir* (flèche vers le S).
+Je dis cela pour faire image car bien entendu ce qui se passe sur cette ligne - *la diagonale* - n’a pas plus droit à s’appeler « *diagonale* » que ce qui se passe sur les autres. Il suffit de faire tourner le tétraèdre pour en faire des lignes horizontales ou verticales mais, pour des raisons d’imagination, c’est plus commode à représenter ainsi. Il ne faut pas s’y laisser prendre, il n’y a rien de plus *diagonal* dans *le transfert* que dans *l’aliénation* ni non plus dans ce que j’appelle *l’opération vérité*, c’est bien parce que l’acte reste en blanc, si je puis dire …donc c’est ainsi que cette ligne - *la diagonale* - peut être occupée dans l’autre direction par le transfert, c’est-à-dire, au cours du « *faire* » psychanalysant, par la marche vers ce qui est l’horizon, le mirage, le point d’arrivée, point d’arrivée, bien sûr, auquel j’ai déjà assez défini le rendez-vous en tant qu’il est défini par le *sujet supposé savoir* (flèche vers le S).
 
 <!-- id: s15-07-0065 -->
 
@@ -328,11 +328,11 @@ Le troisième, qui n’est certes pas moins passionnant, c’est quelque chose s
 
 <!-- id: s15-07-0081 -->
 
-> je dois dire, auquel je ne saurais souscrire, mais qui est bien amusant …il m’est revenu par une de ces nombreuses voix dont à cet endroit je dispose, quelqu’un…
+je dois dire, auquel je ne saurais souscrire, mais qui est bien amusant …il m’est revenu par une de ces nombreuses voix dont à cet endroit je dispose, quelqu’un…
 
 <!-- id: s15-07-0082 -->
 
-> je ne sais absolument pas qui, je ne sais même plus qui me l’a répété …a dit : « *Aujourd’hui, décidément, c’est le séminaire Che Guevara.* »
+je ne sais absolument pas qui, je ne sais même plus qui me l’a répété …a dit : « *Aujourd’hui, décidément, c’est le séminaire Che Guevara.* »
 
 <!-- id: s15-07-0083 -->
 
@@ -340,7 +340,7 @@ Tout ça parce qu’à propos du *sujet supposé savoir*, du S en bas à gauche,
 
 <!-- id: s15-07-0084 -->
 
-> au moins ce modèle en pose-t-il pour nous la question …la fin - je l’entendais au sens de la terminaison, la bascule, la culbute - normale en soi, de ce qu’il en est de l’acte, pour autant qu’après tout, si cette psychanalyse nous révèle quelque chose - et ceci au départ - c’est qu’il n’est pas un acte dont quiconque puisse se dire entièrement maître.
+au moins ce modèle en pose-t-il pour nous la question …la fin - je l’entendais au sens de la terminaison, la bascule, la culbute - normale en soi, de ce qu’il en est de l’acte, pour autant qu’après tout, si cette psychanalyse nous révèle quelque chose - et ceci au départ - c’est qu’il n’est pas un acte dont quiconque puisse se dire entièrement maître.
 
 <!-- id: s15-07-0085 -->
 
@@ -364,7 +364,7 @@ Je veux dire que ce que j’attends de la réunion…
 
 <!-- id: s15-07-0090 -->
 
-> où, je m’en excuse, la plupart de ceux qui sont ici se trouveront, en somme, exclus d’avance …c’est un certain nombre de questions qui me prouvent qu’au moins jusqu’au point où je suis allé cette année concernant ce qu’il s’agit de l’acte, on peut *s’interroger* sur quelque chose, ou tout au moins proposer une *traduction* et, à cette *traduction*, éventuellement une *objection*, à savoir : « *Si vous traduisez ainsi, voilà ce que ça annonce* », ou : « *C’est en contradiction avec tel ou tel point de notre expérience* ». Bref, me montrer que, tout au moins jusqu’à un certain point, je suis entendu.
+où, je m’en excuse, la plupart de ceux qui sont ici se trouveront, en somme, exclus d’avance …c’est un certain nombre de questions qui me prouvent qu’au moins jusqu’au point où je suis allé cette année concernant ce qu’il s’agit de l’acte, on peut *s’interroger* sur quelque chose, ou tout au moins proposer une *traduction* et, à cette *traduction*, éventuellement une *objection*, à savoir : « *Si vous traduisez ainsi, voilà ce que ça annonce* », ou : « *C’est en contradiction avec tel ou tel point de notre expérience* ». Bref, me montrer que, tout au moins jusqu’à un certain point, je suis entendu.
 
 <!-- id: s15-07-0091 -->
 
@@ -384,7 +384,7 @@ Il me semble que justement, comme j’ai fait tout à l’heure allusion au fait
 
 <!-- id: s15-07-0095 -->
 
-> c’est-à-dire que ce n’est pas n’importe quel discours, même si on doit leur passer des notes fidèles et averties …il y a là quelque chose *d’assez enseignant, d’assez significatif* et qui pourrait bien se gîter là où j’ai inscrit le terme « *résistance* ».
+c’est-à-dire que ce n’est pas n’importe quel discours, même si on doit leur passer des notes fidèles et averties …il y a là quelque chose *d’assez enseignant, d’assez significatif* et qui pourrait bien se gîter là où j’ai inscrit le terme « *résistance* ».
 
 <!-- id: s15-07-0096 -->
 
@@ -408,11 +408,11 @@ Il me restera à épingler par-ci par-là quelque chose qui nous avance un peu�
 
 <!-- id: s15-07-0101 -->
 
-> même si aujourd’hui ce n’est pas de l’ordre *ex cathedra* que j’adopte d’habitude, hélas …c’est ceci : il faut tout de même remarquer que si *cette* *béance* toujours restée *entre l’acte et le faire*, car c’est de ça qu’il s’agit, c’est là qu’est le point vif autour de quoi on se casse la tête depuis un certain *nombre très réduit de siècles*…
+même si aujourd’hui ce n’est pas de l’ordre *ex cathedra* que j’adopte d’habitude, hélas …c’est ceci : il faut tout de même remarquer que si *cette* *béance* toujours restée *entre l’acte et le faire*, car c’est de ça qu’il s’agit, c’est là qu’est le point vif autour de quoi on se casse la tête depuis un certain *nombre très réduit de siècles*…
 
 <!-- id: s15-07-0102 -->
 
-> je n’ai jamais fait *le calcul du peu d’arrière-grands-pères qu’il nous faudrait pour être tout de suite à l’époque de César*, vous ne vous rendez pas compte à quel point *vous êtes complètement impliqués dans des choses que seuls les manuels d’histoire vous font croire être du passé* …si on se casse la tête - voyez HEGEL - sur la différence du *maître* et de *l’esclave* et si vous pouvez donner à ça tout le sens élastique que vous voulez, si vous y regardez de bien près, il ne s’agit de rien d’autre que de la différence entre *l’acte* et *le faire* auquel nous essayons de donner, bien sûr, un autre corps un peu moins simple que le sujet que suppose l’acte.
+je n’ai jamais fait *le calcul du peu d’arrière-grands-pères qu’il nous faudrait pour être tout de suite à l’époque de César*, vous ne vous rendez pas compte à quel point *vous êtes complètement impliqués dans des choses que seuls les manuels d’histoire vous font croire être du passé* …si on se casse la tête - voyez HEGEL - sur la différence du *maître* et de *l’esclave* et si vous pouvez donner à ça tout le sens élastique que vous voulez, si vous y regardez de bien près, il ne s’agit de rien d’autre que de la différence entre *l’acte* et *le faire* auquel nous essayons de donner, bien sûr, un autre corps un peu moins simple que le sujet que suppose l’acte.
 
 <!-- id: s15-07-0103 -->
 
@@ -424,9 +424,9 @@ M. Pierre JANET a fait *toute une psychologie rien qu’autour de ça*. Ça ne v
 
 <!-- id: s15-07-0105 -->
 
-> en dehors du fait même de ce qui est représenté sur les bas-reliefs égyptiens, à savoir *qu’il y a un pilote*,
->
-> ou aussi bien d’ailleurs *qu’il y a un chef d’orchestre à Pleyel* ou ailleurs, et qu’il y a ceux qui « *font* » …ça n’explique pas grand-chose quand il faut le faire passer *à une échelle un peu plus vaste*, là il y a vraiment :
+en dehors du fait même de ce qui est représenté sur les bas-reliefs égyptiens, à savoir *qu’il y a un pilote*,
+
+ou aussi bien d’ailleurs *qu’il y a un chef d’orchestre à Pleyel* ou ailleurs, et qu’il y a ceux qui « *font* » …ça n’explique pas grand-chose quand il faut le faire passer *à une échelle un peu plus vaste*, là il y a vraiment :
 
 <!-- id: s15-07-0106 -->
 
@@ -442,7 +442,7 @@ Alors il y a un « *faire* ». C’est là qu’on peut commencer de comprendr
 
 <!-- id: s15-07-0109 -->
 
-> malgré son caractère en fin de compte *futile* et, disons-le bien, *en partie ridicule* - je parle de *la psychanalyse* …comment ce « *faire* » a peut-être plus de chance qu’un autre de nous permettre l’accès à la fonction, parce que, regardez-le bien ce « *faire* », dans un trait que je voudrais souligner, je n’ai pas besoin de dire que c’est un « *faire de pure parole* » puisque déjà c’est quelque chose que je me tue à rappeler depuis toujours, pour expliquer la *Fonction du champ de la parole et du langage*.
+malgré son caractère en fin de compte *futile* et, disons-le bien, *en partie ridicule* - je parle de *la psychanalyse* …comment ce « *faire* » a peut-être plus de chance qu’un autre de nous permettre l’accès à la fonction, parce que, regardez-le bien ce « *faire* », dans un trait que je voudrais souligner, je n’ai pas besoin de dire que c’est un « *faire de pure parole* » puisque déjà c’est quelque chose que je me tue à rappeler depuis toujours, pour expliquer la *Fonction du champ de la parole et du langage*.
 
 <!-- id: s15-07-0110 -->
 
@@ -450,7 +450,7 @@ Mais ce qu’on n’aperçoit pas, c’est que c’est justement parce que c’e
 
 <!-- id: s15-07-0111 -->
 
-> *jusqu’à un point aussi avancé qu’on peut, c’est la consigne* …que le sujet s’en absente. Alors ce signifiant, c’est *la tâche*, c’est *le faire* du sujet que de le laisser à son jeu.
+*jusqu’à un point aussi avancé qu’on peut, c’est la consigne* …que le sujet s’en absente. Alors ce signifiant, c’est *la tâche*, c’est *le faire* du sujet que de le laisser à son jeu.
 
 <!-- id: s15-07-0112 -->
 
@@ -462,7 +462,7 @@ Le signifiant « *en acte* » a cette connotation, cette évocation du signifian
 
 <!-- id: s15-07-0114 -->
 
-> ce que notre docteur de tout à l’heure voudrait bien qu’il fût toujours rappelé …qu’entre ceux qui mettent l’accent sur la structure, il y en a tellement là qui est prêt à sortir, à bouillonner dans la personne, l’« être » est tellement surabondant que d’essayer de nous prendre dans ces rails précis, dans cette logique, qui d’ailleurs n’est pas du tout une logique sur laquelle il peut mettre d’aucune façon et d’aucun droit le signe du vide…, ce n’est pas si facile de la faire, cette logique, vous en voyez assez ici le poids et la peine.
+ce que notre docteur de tout à l’heure voudrait bien qu’il fût toujours rappelé …qu’entre ceux qui mettent l’accent sur la structure, il y en a tellement là qui est prêt à sortir, à bouillonner dans la personne, l’« être » est tellement surabondant que d’essayer de nous prendre dans ces rails précis, dans cette logique, qui d’ailleurs n’est pas du tout une logique sur laquelle il peut mettre d’aucune façon et d’aucun droit le signe du vide…, ce n’est pas si facile de la faire, cette logique, vous en voyez assez ici le poids et la peine.
 
 <!-- id: s15-07-0115 -->
 
@@ -470,7 +470,7 @@ Disons - pour rassurer - après tout la nôtre, tenant de je ne sais pas quoi, q
 
 <!-- id: s15-07-0116 -->
 
-> s’il a la moindre éducation - mais qui sait ? - il y a tellement longtemps que je ne l’ai plus vu, celui-là, je ne sais pas …*une logique* qui resterait au plus proche *de la grammaire*.
+s’il a la moindre éducation - mais qui sait ? - il y a tellement longtemps que je ne l’ai plus vu, celui-là, je ne sais pas …*une logique* qui resterait au plus proche *de la grammaire*.
 
 <!-- id: s15-07-0117 -->
 
@@ -526,7 +526,7 @@ Il y a dans la position du psychanalyste et par fonction…
 
 <!-- id: s15-07-0130 -->
 
-> et je pense que ce schéma le rend suffisamment sensible pour qu’on n’y voie nulle offense …quelque chose du tapis. Nous chercherons à déchiffrer, comme on dit quelque part, l’image dans le tapis[^62]… ou dans *les* \[*tapis*\], *comme vous voudrez* …il y a une certaine façon pour le psychanalyste de se centrer, de savourer, si l’on peut dire, quelque chose qui se consomme dans cette position de tapis.
+et je pense que ce schéma le rend suffisamment sensible pour qu’on n’y voie nulle offense …quelque chose du tapis. Nous chercherons à déchiffrer, comme on dit quelque part, l’image dans le tapis[^62]… ou dans *les* \[*tapis*\], *comme vous voudrez* …il y a une certaine façon pour le psychanalyste de se centrer, de savourer, si l’on peut dire, quelque chose qui se consomme dans cette position de tapis.
 
 <!-- id: s15-07-0131 -->
 

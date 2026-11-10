@@ -78,9 +78,9 @@ Si nous partons de la notion que toute signification interne quelconque du langa
 
 <!-- id: s1-21-0019 -->
 
-> la dernière fois j’ai pris le mot qui me venait à l’esprit, le mot « *main* », avec tout ce que ce mot est,
->
-> les contextes dans lesquels il peut se situer en français : *main-d’œuvre, mainmorte, toutes mains, etc.*
+la dernière fois j’ai pris le mot qui me venait à l’esprit, le mot « *main* », avec tout ce que ce mot est,
+
+les contextes dans lesquels il peut se situer en français : *main-d’œuvre, mainmorte, toutes mains, etc.*
 
 <!-- id: s1-21-0020 -->
 
@@ -108,7 +108,7 @@ Et je crois de toute façon qu’il est assez exemplaire, significatif, enseigna
 
 <!-- id: s1-21-0026 -->
 
-> si tant est que nous puissions faire à travers les âges une grande famille qui s’appellerait de ce nom « *les linguistes* »
+si tant est que nous puissions faire à travers les âges une grande famille qui s’appellerait de ce nom « *les linguistes* »
 
 <!-- id: s1-21-0027 -->
 
@@ -508,7 +508,7 @@ Car il n’est pas certain qu’en désignant la muraille, celui à qui s’adre
 
 <!-- id: s1-21-0126 -->
 
-> c’est là qu’est tout le relief de l’*argumentation*, que même l’indication est encore un signe, mais parfaitement ambigu
+c’est là qu’est tout le relief de l’*argumentation*, que même l’indication est encore un signe, mais parfaitement ambigu
 
 <!-- id: s1-21-0127 -->
 
@@ -820,7 +820,7 @@ Seulement, ce qui n’est pas dans Saint AUGUSTIN…
 
 <!-- id: s1-21-0204 -->
 
-> et pour certaines raisons définies : simplement parce que Saint AUGUSTIN n’avait pas lu HEGEL
+et pour certaines raisons définies : simplement parce que Saint AUGUSTIN n’avait pas lu HEGEL
 
 <!-- id: s1-21-0205 -->
 
@@ -1024,9 +1024,9 @@ C’est ici que se produit la faille entre *signum* et *verbum*, *nomen*, instru
 
 <!-- id: s1-21-0255 -->
 
-> les psychologues sont des gens plus spiri­tuels - au sens technique, religieux, du mot - qu’on ne le croit.
->
-> Ils croient, comme Saint AUGUSTIN, à l’illumination, à l’intelligence
+les psychologues sont des gens plus spiri­tuels - au sens technique, religieux, du mot - qu’on ne le croit.
+
+Ils croient, comme Saint AUGUSTIN, à l’illumination, à l’intelligence
 
 <!-- id: s1-21-0256 -->
 

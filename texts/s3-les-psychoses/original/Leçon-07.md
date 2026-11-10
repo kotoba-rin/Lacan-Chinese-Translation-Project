@@ -26,9 +26,9 @@ Il ne faut pas croire non plus pourtant qu’il vous soit interdit de faire quel
 
 <!-- id: s3-07-0006 -->
 
-> vous ne perdrez jamais rien quand même à vous interroger là-dessus,
->
-> mais enfin je dirai qu’après tout ce n’est pas là le point essentiel
+vous ne perdrez jamais rien quand même à vous interroger là-dessus,
+
+mais enfin je dirai qu’après tout ce n’est pas là le point essentiel
 
 <!-- id: s3-07-0007 -->
 
@@ -48,7 +48,7 @@ Essayons au moins ici de structurer correctement le monde dans lequel vous avez 
 
 <!-- id: s3-07-0011 -->
 
-> <img src="assets/image5.jpeg" style="width:1.48039in;height:1.49338in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S3\1.jpg" />
+<img src="assets/image5.jpeg" style="width:1.48039in;height:1.49338in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S3\1.jpg" />
 
 <!-- id: s3-07-0012 -->
 
@@ -104,9 +104,9 @@ Il convient de prendre dans son ensemble notre fou SCHREBER, puisqu’il est le 
 
 <!-- id: s3-07-0025 -->
 
-> et cela vous le retrouverez toujours, et c’est pour cela que je vous fais des présentations de malades,
->
-> c’est pour que vous en ayez l’appréhension, les données les plus immédiates de ce qu’il nous fournit
+et cela vous le retrouverez toujours, et c’est pour cela que je vous fais des présentations de malades,
+
+c’est pour que vous en ayez l’appréhension, les données les plus immédiates de ce qu’il nous fournit
 
 <!-- id: s3-07-0026 -->
 
@@ -114,9 +114,9 @@ Il convient de prendre dans son ensemble notre fou SCHREBER, puisqu’il est le 
 
 <!-- id: s3-07-0027 -->
 
-> contrairement aux faux problèmes que se posent les psychologues,
->
-> à ne pas le voir avec des yeux directs, à ne pas vraiment le fréquenter
+contrairement aux faux problèmes que se posent les psychologues,
+
+à ne pas le voir avec des yeux directs, à ne pas vraiment le fréquenter
 
 <!-- id: s3-07-0028 -->
 
@@ -132,7 +132,11 @@ Et le hasard m’ayant fait ouvrir ces temps-ci la « *Phénoménologie de la p
 
 <!-- id: s3-07-0031 -->
 
-> « *Oui, d’accord, c’est que je l’ai entendu tout seul.* »
+<div class="text-quotation">
+
+« *Oui, d’accord, c’est que je l’ai entendu tout seul.* »
+
+</div>
 
 <!-- id: s3-07-0032 -->
 
@@ -160,9 +164,9 @@ J’insiste, ce n’est pas seulement le chapitre III du livre des *Mémoires* q
 
 <!-- id: s3-07-0038 -->
 
-> *qui est censuré*, on nous avertit que le contenu ne peut pas être publié, et nous savons néanmoins que
->
-> ce chapitre comportait des remarques concernant la propre famille de SCHREBER
+*qui est censuré*, on nous avertit que le contenu ne peut pas être publié, et nous savons néanmoins que
+
+ce chapitre comportait des remarques concernant la propre famille de SCHREBER
 
 <!-- id: s3-07-0039 -->
 
@@ -174,7 +178,7 @@ Mais ceci après tout n’est pas tellement à regretter, car là encore il faut
 
 <!-- id: s3-07-0041 -->
 
-> ce n’est pas que nous comprenions à travers telle ou telle expérience affective à l’endroit de ses proches : nous devons, nous, comprendre ce que ledit « *assassinat d’âme* » peut-être,
+ce n’est pas que nous comprenions à travers telle ou telle expérience affective à l’endroit de ses proches : nous devons, nous, comprendre ce que ledit « *assassinat d’âme* » peut-être,
 
 <!-- id: s3-07-0042 -->
 
@@ -256,7 +260,7 @@ C’est la *Versöhnung*, cette *réconciliatio*n qui le situe comme femme de Di
 
 <!-- id: s3-07-0061 -->
 
-> la moindre communication réelle d’aucune façon,
+la moindre communication réelle d’aucune façon,
 
 <!-- id: s3-07-0062 -->
 
@@ -556,7 +560,7 @@ La *Verdrängung*, ce n’est pas la loi du malentendu, c’est ce qui se passe 
 
 <!-- id: s3-07-0136 -->
 
-> car dans chaque chaîne symbolique nous sommes liés à une cohérence interne à cette chaîne, qui fait que nous sommes forcés à tel moment de rendre ce que nous avons donné à tel autre
+car dans chaque chaîne symbolique nous sommes liés à une cohérence interne à cette chaîne, qui fait que nous sommes forcés à tel moment de rendre ce que nous avons donné à tel autre
 
 <!-- id: s3-07-0137 -->
 
@@ -596,9 +600,9 @@ Ce qu’il faut concevoir, parce que ceci nous est donné par l’expérience cl
 
 <!-- id: s3-07-0146 -->
 
-> que ce qui est ainsi mis à l’épreuve, recherché par le sujet, ce vers quoi le sujet est conduit par l’appareil
->
-> de réflexion ou par l’appareil de maîtrise qu’est son *moi*
+que ce qui est ainsi mis à l’épreuve, recherché par le sujet, ce vers quoi le sujet est conduit par l’appareil
+
+de réflexion ou par l’appareil de maîtrise qu’est son *moi*
 
 <!-- id: s3-07-0147 -->
 
@@ -606,7 +610,7 @@ Ce qu’il faut concevoir, parce que ceci nous est donné par l’expérience cl
 
 <!-- id: s3-07-0148 -->
 
-> c’est-à-dire avec tout ce que le *moi* comporte d’aliénations fondamentales
+c’est-à-dire avec tout ce que le *moi* comporte d’aliénations fondamentales
 
 <!-- id: s3-07-0149 -->
 
@@ -666,7 +670,7 @@ La question est alors de comprendre pourquoi tout ce qui va pouvoir se produire 
 
 <!-- id: s3-07-0163 -->
 
-> <img src="assets/image6.jpeg" style="width:1.30935in;height:1.32083in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S3\1.jpg" />
+<img src="assets/image6.jpeg" style="width:1.30935in;height:1.32083in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S3\1.jpg" />
 
 <!-- id: s3-07-0164 -->
 

@@ -18,11 +18,11 @@ Je vais essayer de vous parler aujourd’hui de *la Chose*, *das Ding.* C’est 
 
 <!-- id: s7-04-0004 -->
 
-> conforme à ce que FREUD tout le temps nous rappelle, la recherche, l’approfondissement linguistique,
->
-> pour y retrouver la trace de l’expérience accumulée de la tradition, des générations, le véhicule le plus certain
->
-> de la transmission d’une élaboration qui marque la réalité psychique
+conforme à ce que FREUD tout le temps nous rappelle, la recherche, l’approfondissement linguistique,
+
+pour y retrouver la trace de l’expérience accumulée de la tradition, des générations, le véhicule le plus certain
+
+de la transmission d’une élaboration qui marque la réalité psychique
 
 <!-- id: s7-04-0005 -->
 
@@ -326,9 +326,9 @@ Cet objet, quand il sera là, quand toutes les conditions seront remplies, c’e
 
 <!-- id: s7-04-0080 -->
 
-> mais parce que, bien entendu, il est clair que ce qu’il s’agit de trouver ne peut pas être retrouvé,
->
-> puisque c’est de sa nature que l’objet est perdu comme tel
+mais parce que, bien entendu, il est clair que ce qu’il s’agit de trouver ne peut pas être retrouvé,
+
+puisque c’est de sa nature que l’objet est perdu comme tel
 
 <!-- id: s7-04-0081 -->
 
@@ -376,9 +376,9 @@ Et pour aller vite...
 
 <!-- id: s7-04-0092 -->
 
-> et aussi vite que FREUD va dans ses premières aperceptions de la réalité éthique
->
-> à proprement parler, en tant qu’elle fonctionne dans celle du sujet auquel il a affaire
+et aussi vite que FREUD va dans ses premières aperceptions de la réalité éthique
+
+à proprement parler, en tant qu’elle fonctionne dans celle du sujet auquel il a affaire
 
 <!-- id: s7-04-0093 -->
 

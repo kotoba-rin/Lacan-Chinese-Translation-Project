@@ -14,7 +14,7 @@ Cette hypothèse...
 
 <!-- id: s18-10-0003 -->
 
-> car c’est au conditionnel que ce titre vous est présenté, ...cette hypothèse est celle dont se justifie *tout discours*.
+car c’est au conditionnel que ce titre vous est présenté, ...cette hypothèse est celle dont se justifie *tout discours*.
 
 <!-- id: s18-10-0004 -->
 
@@ -26,7 +26,7 @@ Si je les ai brisés en quatre, c’est ce que je crois avoir justifié du déve
 
 <!-- id: s18-10-0006 -->
 
-> pas tellement que ça si vous avez entendu ce que j’ai dit la dernière fois ...un certain ordre donc, dont cet écrit vous rappelle les termes.
+pas tellement que ça si vous avez entendu ce que j’ai dit la dernière fois ...un certain ordre donc, dont cet écrit vous rappelle les termes.
 
 <!-- id: s18-10-0007 -->
 
@@ -66,11 +66,11 @@ Il est à proprement parler prodigieux que ceux-là mêmes qui pris dans certain
 
 <!-- id: s18-10-0016 -->
 
-> celles que nous pourrions définir de se poser comme au regard de la société ...ceux donc qui dans cette perspective se présentent comme *des infirmes*, soyons plus aimables, comme *des boiteux* ...
+celles que nous pourrions définir de se poser comme au regard de la société ...ceux donc qui dans cette perspective se présentent comme *des infirmes*, soyons plus aimables, comme *des boiteux* ...
 
 <!-- id: s18-10-0017 -->
 
-> et l’on sait que beauté boite ...à savoir les *névrosés*, et nommément *les hystériques* et *les obsessionnels*, ce soit d’eux que partît, que soit parti ce trait de lumière foudroyant qui traverse de long en large *la demansion* que conditionne le langage.
+et l’on sait que beauté boite ...à savoir les *névrosés*, et nommément *les hystériques* et *les obsessionnels*, ce soit d’eux que partît, que soit parti ce trait de lumière foudroyant qui traverse de long en large *la demansion* que conditionne le langage.
 
 <!-- id: s18-10-0018 -->
 
@@ -78,7 +78,7 @@ La fonction qu’est *la vérité*, voire à l’occasion...
 
 <!-- id: s18-10-0019 -->
 
-> chacun sait la place que cela tient dans l’énonciation de Freud ...voire *cette cristallisation* qu’est ce que nous connaissons sous sa forme moderne, ce que nous connaissons *de la religion* et nommément *la tradition judéo-chré­tienne* sur laquelle porte tout ce qu’a énoncé Freud à propos des religions.
+chacun sait la place que cela tient dans l’énonciation de Freud ...voire *cette cristallisation* qu’est ce que nous connaissons sous sa forme moderne, ce que nous connaissons *de la religion* et nommément *la tradition judéo-chré­tienne* sur laquelle porte tout ce qu’a énoncé Freud à propos des religions.
 
 <!-- id: s18-10-0020 -->
 
@@ -94,7 +94,7 @@ Ce qu’il y a dans la théorie de la connaissance de *fondamentale duperie*, ce
 
 <!-- id: s18-10-0023 -->
 
-> toujours dans une cer­taine tradition parvenue à son acmé avec le discours hégelien ...que quelque *sem­blant* est instauré en fonction de poids et mesure si je puis dire, à tenir pour argent comptant.
+toujours dans une cer­taine tradition parvenue à son acmé avec le discours hégelien ...que quelque *sem­blant* est instauré en fonction de poids et mesure si je puis dire, à tenir pour argent comptant.
 
 <!-- id: s18-10-0024 -->
 
@@ -106,9 +106,9 @@ Le singulier de cette remarque est tout de même fait aussi pour nous faire aper
 
 <!-- id: s18-10-0026 -->
 
-> au nom de laquelle émerge, se promeut, la *plus-value* comme étant le ressort de ce qui réduisait
->
-> à son *semblant* ce qui jusque-là se soutenait d’un certain nombre de méconnaissances délibérées ...*il ne suffit pas*, remarquerai-je, et l’histoire le démontre, *que cette irruption de la vérité se pro­duise* *pour que pour autant soit abattu ce qui se soutient de ce discours.* \[*cf. L’étourdit, Sta p. 6,* « *Bien sûr, la névrose y survit* »\]
+au nom de laquelle émerge, se promeut, la *plus-value* comme étant le ressort de ce qui réduisait
+
+à son *semblant* ce qui jusque-là se soutenait d’un certain nombre de méconnaissances délibérées ...*il ne suffit pas*, remarquerai-je, et l’histoire le démontre, *que cette irruption de la vérité se pro­duise* *pour que pour autant soit abattu ce qui se soutient de ce discours.* \[*cf. L’étourdit, Sta p. 6,* « *Bien sûr, la névrose y survit* »\]
 
 <!-- id: s18-10-0027 -->
 
@@ -120,7 +120,7 @@ Il apparaît que, loin que *le discours capitaliste* se porte plus mal de cette 
 
 <!-- id: s18-10-0029 -->
 
-> sous forme d’une révolution politique ...qui ont résulté de la dénonciation marxiste de ce qu’il en est d’un certain *discours du semblant*.
+sous forme d’une révolution politique ...qui ont résulté de la dénonciation marxiste de ce qu’il en est d’un certain *discours du semblant*.
 
 <!-- id: s18-10-0030 -->
 
@@ -128,7 +128,7 @@ Il apparaît que, loin que *le discours capitaliste* se porte plus mal de cette 
 
 <!-- id: s18-10-0031 -->
 
-> dans le marxisme, ou tout au moins dans ses mani­festes ...dévouée aux prolétaires.
+dans le marxisme, ou tout au moins dans ses mani­festes ...dévouée aux prolétaires.
 
 <!-- id: s18-10-0032 -->
 
@@ -152,13 +152,13 @@ Qu’est-ce que cela veut dire ? Non pas certes que le langage...
 
 <!-- id: s18-10-0037 -->
 
-> puisque déjà, déjà je le dis \[*passé simple*\] :* il n’y a pas de rapport sexuel*,
->
-> c’est quelque chose qui peut se *dire* puisque main­tenant *c’est dit* ...mais bien sûr il ne suffit pas de le dire, il faut encore le motiver, et les motifs nous les prenons dans notre expérience prise du *fil suivi* de *ce qui s’accroche à cette béance fondamentale*, et *ce fil suivi se noue*...
+puisque déjà, déjà je le dis \[*passé simple*\] :* il n’y a pas de rapport sexuel*,
+
+c’est quelque chose qui peut se *dire* puisque main­tenant *c’est dit* ...mais bien sûr il ne suffit pas de le dire, il faut encore le motiver, et les motifs nous les prenons dans notre expérience prise du *fil suivi* de *ce qui s’accroche à cette béance fondamentale*, et *ce fil suivi se noue*...
 
 <!-- id: s18-10-0038 -->
 
-> là est *son départ central, enroulé autour de ce vide* ...dans ce qui donne « *le discours du névrosé* ».
+là est *son départ central, enroulé autour de ce vide* ...dans ce qui donne « *le discours du névrosé* ».
 
 <!-- id: s18-10-0039 -->
 
@@ -166,7 +166,7 @@ La dernière fois j’ai...
 
 <!-- id: s18-10-0040 -->
 
-> je vous l’ai assez fait sentir, assez souligné ...tenté d’amorcer d’*un écrit*, comment peut se situer ce qu’il en est du *point de départ de ce* *fil*.
+je vous l’ai assez fait sentir, assez souligné ...tenté d’amorcer d’*un écrit*, comment peut se situer ce qu’il en est du *point de départ de ce* *fil*.
 
 <!-- id: s18-10-0041 -->
 
@@ -174,11 +174,11 @@ J’ai l’intention aujourd’hui, non pas bien sûr...
 
 <!-- id: s18-10-0042 -->
 
-> la chose est au-delà, à la limite de tout ce qui peut s’en dire dans cet espace limité d’un séminaire ...non pas de ce que *le névrosé* indique de son rapport à cette distance, mais de ce que *les mythes,* *les mythes* dont s’est formé, si je puis dire...
+la chose est au-delà, à la limite de tout ce qui peut s’en dire dans cet espace limité d’un séminaire ...non pas de ce que *le névrosé* indique de son rapport à cette distance, mais de ce que *les mythes,* *les mythes* dont s’est formé, si je puis dire...
 
 <!-- id: s18-10-0043 -->
 
-> non pas toujours sous la dictée, mais en écho au discours du névrosé ...les mythes que Freud a forgés.
+non pas toujours sous la dictée, mais en écho au discours du névrosé ...les mythes que Freud a forgés.
 
 <!-- id: s18-10-0044 -->
 
@@ -194,7 +194,7 @@ J’ai essayé quant à moi...
 
 <!-- id: s18-10-0047 -->
 
-> au point où j’en suis, d’où j’avance tout ce qui pourrait s’en formuler plus avant ...de vous dire que c’est de son échec au niveau d’une logique, d’une logique qui se soutienne de ce dont *toute logique* se sou­tient, à savoir de *l’écriture*.
+au point où j’en suis, d’où j’avance tout ce qui pourrait s’en formuler plus avant ...de vous dire que c’est de son échec au niveau d’une logique, d’une logique qui se soutienne de ce dont *toute logique* se sou­tient, à savoir de *l’écriture*.
 
 <!-- id: s18-10-0048 -->
 
@@ -202,7 +202,7 @@ La lettre de l’œuvre de Freud est une œuvre écrite, mais aussi bien aussi q
 
 <!-- id: s18-10-0049 -->
 
-> et tel qu’il passe dans un quelconque accomplissement *...ne se soutient, ne s’assied, que de « cette composition entre la jouissance et le semblant » qui s’appelle « la castration »*.
+et tel qu’il passe dans un quelconque accomplissement *...ne se soutient, ne s’assied, que de « cette composition entre la jouissance et le semblant » qui s’appelle « la castration »*.
 
 <!-- id: s18-10-0050 -->
 
@@ -222,9 +222,9 @@ Et si tout ce qu’il en est des rituels d’initiation, qui comme vous le savez
 
 <!-- id: s18-10-0054 -->
 
-> *dans la circoncision »,* d’Herman Nunberg, paru à Englewoods, c’est-à-dire en fin de compte
->
-> à l’*Imago Publishing* de Londres \[1949\],
+*dans la circoncision »,* d’Herman Nunberg, paru à Englewoods, c’est-à-dire en fin de compte
+
+à l’*Imago Publishing* de Londres \[1949\],
 
 <!-- id: s18-10-0055 -->
 
@@ -240,7 +240,7 @@ Vous y verrez, déployée dans toute son ambiguïté, dans son flottement fondam
 
 <!-- id: s18-10-0058 -->
 
-> par lesquels se présente *quelque chose* qui dans ce registre ne serait que l’effet d’on ne sait quel *<u>malentendu</u>*, sur ce taillis de préjugés, *<u>de mal­adresses</u>*, de quelque chose de rectifiable,
+par lesquels se présente *quelque chose* qui dans ce registre ne serait que l’effet d’on ne sait quel *<u>malentendu</u>*, sur ce taillis de préjugés, *<u>de mal­adresses</u>*, de quelque chose de rectifiable,
 
 <!-- id: s18-10-0059 -->
 
@@ -248,19 +248,19 @@ Vous y verrez, déployée dans toute son ambiguïté, dans son flottement fondam
 
 <!-- id: s18-10-0060 -->
 
-> que les catalogues soient plus ou moins bien faits, que ce soit ceux de l’eth­nologie
->
-> ou de la psychopathologie que j’évoquais tout à l’heure - il y en a d’autres ...nous met en face de ceci que c’est...
+que les catalogues soient plus ou moins bien faits, que ce soit ceux de l’eth­nologie
+
+ou de la psychopathologie que j’évoquais tout à l’heure - il y en a d’autres ...nous met en face de ceci que c’est...
 
 <!-- id: s18-10-0061 -->
 
-> et Freud l’exprime à l’occasion, il sait fort bien le dire dans « *Malaise dans la civilisation »* ...c’est à propos de *quelque chose qui après tout ne rend pas si nouveau* *ce que j’ai formulé de*  « *Il n’y a pas de rap­port sexuel »,* il indique... il indique bien sûr en des termes comme il le fait d’habitude en des terme tout à fait clairs, ...que sans doute là-dessus, très précisément à propos des rapports sexuels, quelque fatalité s’inscrit qui y rend nécessaire ce qui alors apparaît comme étant les moyens, les ponts, les passerelles, les édifices, les constructions pour tout dire, qui à la carence, à la carence de ce rapport sexuel - pour autant qu’après tout, dans une sorte d’inversion de perspective, *tout discours* possible n’en apparaîtrait que comme *le symptôme,* qui à l’intérieur de ce rapport sexuel ménage...
+et Freud l’exprime à l’occasion, il sait fort bien le dire dans « *Malaise dans la civilisation »* ...c’est à propos de *quelque chose qui après tout ne rend pas si nouveau* *ce que j’ai formulé de*  « *Il n’y a pas de rap­port sexuel »,* il indique... il indique bien sûr en des termes comme il le fait d’habitude en des terme tout à fait clairs, ...que sans doute là-dessus, très précisément à propos des rapports sexuels, quelque fatalité s’inscrit qui y rend nécessaire ce qui alors apparaît comme étant les moyens, les ponts, les passerelles, les édifices, les constructions pour tout dire, qui à la carence, à la carence de ce rapport sexuel - pour autant qu’après tout, dans une sorte d’inversion de perspective, *tout discours* possible n’en apparaîtrait que comme *le symptôme,* qui à l’intérieur de ce rapport sexuel ménage...
 
 <!-- id: s18-10-0062 -->
 
-> ménage dans des condi­tions, dans des condi­tions que comme à l’ordinaire
->
-> nous reportons dans la préhistoire, dans les domaines extra-historiques ...qui dans ces conditions-là, permettrait en quelque sorte la réus­site de ce qui pourrait s’établir d’artificiel en suppléant, en suppléant à ce *manque* inscrit en somme dans l’être parlant.
+ménage dans des condi­tions, dans des condi­tions que comme à l’ordinaire
+
+nous reportons dans la préhistoire, dans les domaines extra-historiques ...qui dans ces conditions-là, permettrait en quelque sorte la réus­site de ce qui pourrait s’établir d’artificiel en suppléant, en suppléant à ce *manque* inscrit en somme dans l’être parlant.
 
 <!-- id: s18-10-0063 -->
 
@@ -296,9 +296,9 @@ Et que *le phallus*, en tant que c’est à ce tiers
 
 <!-- id: s18-10-0071 -->
 
-> avec *la jouissance sexuelle,* et d’une façon élective *parmi toutes les autres jouissances,*
->
-> *...*en difficulté avec elle.
+avec *la jouissance sexuelle,* et d’une façon élective *parmi toutes les autres jouissances,*
+
+*...*en difficulté avec elle.
 
 <!-- id: s18-10-0072 -->
 
@@ -310,15 +310,15 @@ Et que si c’est, on le suppose, quelque chose de défini...
 
 <!-- id: s18-10-0074 -->
 
-> c’est ce que nous appe­lons la castration ... qui aurait le privilège de parer à *ce quelque chose* dont l’indécidable fait le fond du rapport sexuel, pour autant que *la jouissance*, il la donne *ordonnée,* au regard de ceci...
+c’est ce que nous appe­lons la castration ... qui aurait le privilège de parer à *ce quelque chose* dont l’indécidable fait le fond du rapport sexuel, pour autant que *la jouissance*, il la donne *ordonnée,* au regard de ceci...
 
 <!-- id: s18-10-0075 -->
 
-> qui me semble ne pas être évitable, je parle de ces énoncés ... de la dramaturgie de contrainte qui fait, comme ça, le quotidien du discours analytique est tout à fait contraire...
+qui me semble ne pas être évitable, je parle de ces énoncés ... de la dramaturgie de contrainte qui fait, comme ça, le quotidien du discours analytique est tout à fait contraire...
 
 <!-- id: s18-10-0076 -->
 
-> ceci c’est une remarque qui fait la valeur du livre, du 2<sup>nd</sup>: de Bruno Bettelheim, que je vous ai pointé ...qui est évidem­ment tout à fait contraire avec ceci, qui est la seule chose importante : il ne s’agit pas de repousser dans la préhistoire ce qu’il en est des rituels d’initiation.
+ceci c’est une remarque qui fait la valeur du livre, du 2<sup>nd</sup>: de Bruno Bettelheim, que je vous ai pointé ...qui est évidem­ment tout à fait contraire avec ceci, qui est la seule chose importante : il ne s’agit pas de repousser dans la préhistoire ce qu’il en est des rituels d’initiation.
 
 <!-- id: s18-10-0077 -->
 
@@ -346,9 +346,9 @@ C’est ce qui nous importe, et c’est là que nous devons bien plutôt interro
 
 <!-- id: s18-10-0083 -->
 
-> pour employer un terme, qui pour nous mener tout droit à l’hysté­rique,
->
-> n’en est pas moins d’une portée extrêmement générale ...la *com­plaisance* qui fait que subsiste bel et bien, et en des temps tout à fait histo­riques ce qu’il en est de ce qui se présente comme *quelque chose* dont à soi seul l’image serait insupportable.
+pour employer un terme, qui pour nous mener tout droit à l’hysté­rique,
+
+n’en est pas moins d’une portée extrêmement générale ...la *com­plaisance* qui fait que subsiste bel et bien, et en des temps tout à fait histo­riques ce qu’il en est de ce qui se présente comme *quelque chose* dont à soi seul l’image serait insupportable.
 
 <!-- id: s18-10-0084 -->
 
@@ -364,7 +364,7 @@ C’est à suivre *ce fil* que nous donnons sens à ce qui s’articule dans le 
 
 <!-- id: s18-10-0087 -->
 
-> car inédite jusqu’à une certaine époque, qui elle est bel et bien historique et à notre portée ...*cette* *parole inédite* et qui se présente en somme comme devant toujours pour une part le rester : il n’y a pas d’autre définition à donner de l’inconscient.
+car inédite jusqu’à une certaine époque, qui elle est bel et bien historique et à notre portée ...*cette* *parole inédite* et qui se présente en somme comme devant toujours pour une part le rester : il n’y a pas d’autre définition à donner de l’inconscient.
 
 <!-- id: s18-10-0088 -->
 
@@ -396,11 +396,11 @@ Sans *l’hystérique,* bien sûr, il ne serait nulle part venu au jour ce qu’
 
 <!-- id: s18-10-0095 -->
 
-> puisque *j’inscris*, j’essaie de vous donner la 1<sup>ère</sup> ébauche logique de ce dont il s’agit maintenant ...de ce que j’écris ΦX, grand phi de X, qui est à savoir que *la jouissance*...
+puisque *j’inscris*, j’essaie de vous donner la 1<sup>ère</sup> ébauche logique de ce dont il s’agit maintenant ...de ce que j’écris ΦX, grand phi de X, qui est à savoir que *la jouissance*...
 
 <!-- id: s18-10-0096 -->
 
-> cette *variable* dans la fonction *inscrite en* x ...se situe de ce rapport avec ce Φ, qui là désigne *le phallus*.
+cette *variable* dans la fonction *inscrite en* x ...se situe de ce rapport avec ce Φ, qui là désigne *le phallus*.
 
 <!-- id: s18-10-0097 -->
 
@@ -412,15 +412,19 @@ Pour bien en sentir *le jeu*, je dirais *la dérision*, il faut que vous lisiez 
 
 <!-- id: s18-10-0099 -->
 
-> dit l’auteur - énigmatique, comme vous le savez - de ce texte étonnant ...*jouis avec la femme que tu aimes.* ».
+dit l’auteur - énigmatique, comme vous le savez - de ce texte étonnant ...*jouis avec la femme que tu aimes.* ».
 
 <!-- id: s18-10-0100 -->
 
-> \[**ט** רְאֵה חַיִּים עִם-אִשָּׁה אֲשֶׁר-אָהַבְתָּ, כָּל-יְמֵי חַיֵּי הֶבְלֶךָ, אֲשֶׁר נָתַן-לְךָ תַּחַת הַשֶּׁמֶשׁ, כֹּל יְמֵי הֶבְלֶךָ:  כִּי הוּא חֶלְקְךָ, בַּחַיִּים, וּבַעֲמָלְךָ, אֲשֶׁר-אַתָּה עָמֵל תַּחַת הַשָּׁמֶשׁ.
->
-> *Jouis de la vie avec la femme que tu aimes, tous les jours de l'existence éphémère qu'on t'accorde sous le soleil,*
->
-> *oui, de ton existence fugitive car c'est là ta meilleure part dans la vie et dans le labeur que tu t'imposes sous le soleil. Ecclésiaste* IX, 9\]
+<div class="text-quotation">
+
+\[**ט** רְאֵה חַיִּים עִם-אִשָּׁה אֲשֶׁר-אָהַבְתָּ, כָּל-יְמֵי חַיֵּי הֶבְלֶךָ, אֲשֶׁר נָתַן-לְךָ תַּחַת הַשֶּׁמֶשׁ, כֹּל יְמֵי הֶבְלֶךָ:  כִּי הוּא חֶלְקְךָ, בַּחַיִּים, וּבַעֲמָלְךָ, אֲשֶׁר-אַתָּה עָמֵל תַּחַת הַשָּׁמֶשׁ.
+
+*Jouis de la vie avec la femme que tu aimes, tous les jours de l'existence éphémère qu'on t'accorde sous le soleil,*
+
+*oui, de ton existence fugitive car c'est là ta meilleure part dans la vie et dans le labeur que tu t'imposes sous le soleil. Ecclésiaste* IX, 9\]
+
+</div>
 
 <!-- id: s18-10-0101 -->
 
@@ -444,9 +448,9 @@ J’ai la dernière fois articulé ceci : qu’en somme, à prendre les choses 
 
 <!-- id: s18-10-0106 -->
 
-> ce qui de toute fonction appareillée du langage se dénote, je l’ai dit la dernière fois,
->
-> il n’y a qu’une *Bedeutung *: *« Die Bedeutung des Phallus »,* c’est là - seul - ce qui est du langage dénoté.
+ce qui de toute fonction appareillée du langage se dénote, je l’ai dit la dernière fois,
+
+il n’y a qu’une *Bedeutung *: *« Die Bedeutung des Phallus »,* c’est là - seul - ce qui est du langage dénoté.
 
 <!-- id: s18-10-0107 -->
 
@@ -474,7 +478,7 @@ Car assurément sans une référence logique...
 
 <!-- id: s18-10-0113 -->
 
-> et qui bien sûr ne peut se suffire de la logique classique, de la logique aristotélicienne ...sans une référence logique, il est impossible de trouver le point juste en les matières que j’aborde.
+et qui bien sûr ne peut se suffire de la logique classique, de la logique aristotélicienne ...sans une référence logique, il est impossible de trouver le point juste en les matières que j’aborde.
 
 <!-- id: s18-10-0114 -->
 
@@ -610,7 +614,7 @@ J’ai écrit le S/S<sub>1</sub>, multiplié par le S<sub>1</sub>/*s*, je me sui
 
 <!-- id: s18-10-0147 -->
 
-> comme j’ai écrit également dans « *L’instance de la lettre... »* ...fortement appuyé sur cette face de la métaphore, qui est d’*engendrer un sens*.
+comme j’ai écrit également dans « *L’instance de la lettre... »* ...fortement appuyé sur cette face de la métaphore, qui est d’*engendrer un sens*.
 
 <!-- id: s18-10-0148 -->
 
@@ -626,7 +630,7 @@ Si j’ai écrit quelque part que « *le Nom du Père c’est le phallus »*�
 
 <!-- id: s18-10-0151 -->
 
-> Et Dieu sait quels frémissements d’horreur ceci a évoqué chez quelques âmes pieuses ...c’est précisément parce qu’à cette date je ne pouvais pas l’articuler mieux.
+Et Dieu sait quels frémissements d’horreur ceci a évoqué chez quelques âmes pieuses ...c’est précisément parce qu’à cette date je ne pouvais pas l’articuler mieux.
 
 <!-- id: s18-10-0152 -->
 
@@ -682,7 +686,7 @@ Après tout, à prendre les choses au ras du niveau biologique, on peut parfaite
 
 <!-- id: s18-10-0165 -->
 
-> ça s’est déjà fait, c’est sorti déjà de l’imagination d’un romancier \[Orwell : « 1984 »\] ...se produise sans aucune espèce d’intervention d’un être désigné sous le titre du *Père *: l’insémination artificielle après tout ne serait pas là pour rien.
+ça s’est déjà fait, c’est sorti déjà de l’imagination d’un romancier \[Orwell : « 1984 »\] ...se produise sans aucune espèce d’intervention d’un être désigné sous le titre du *Père *: l’insémination artificielle après tout ne serait pas là pour rien.
 
 <!-- id: s18-10-0166 -->
 
@@ -766,9 +770,9 @@ Pour tout dire, j’y vois le point d’aperception de la série des *nombres na
 
 <!-- id: s18-10-0186 -->
 
-> que puisqu’on l’évoque toujours à l’horizon l’histoire,
->
-> ce qui, bien entendu, est une raison de suspicion extrême ...je voudrais vous faire simplement remarquer ceci : c’est que *le matriarcat* - comme on s’exprime - n’a aucun besoin d’être repoussé à la limite de l’histoire.
+que puisqu’on l’évoque toujours à l’horizon l’histoire,
+
+ce qui, bien entendu, est une raison de suspicion extrême ...je voudrais vous faire simplement remarquer ceci : c’est que *le matriarcat* - comme on s’exprime - n’a aucun besoin d’être repoussé à la limite de l’histoire.
 
 <!-- id: s18-10-0187 -->
 
@@ -816,7 +820,7 @@ De ceci, voyez-vous, ce qui résulte...
 
 <!-- id: s18-10-0198 -->
 
-> je suis forcé d’aller un peu vite, parce que l’heure s’avance ...c’est que si nous définissons *l’hystérique* par ceci qui définit - ça ne lui est pas particulier - le névrosé, à savoir *l’évitement de la castra­tion *: il y a plusieurs façons de l’éviter.
+je suis forcé d’aller un peu vite, parce que l’heure s’avance ...c’est que si nous définissons *l’hystérique* par ceci qui définit - ça ne lui est pas particulier - le névrosé, à savoir *l’évitement de la castra­tion *: il y a plusieurs façons de l’éviter.
 
 <!-- id: s18-10-0199 -->
 
@@ -840,7 +844,7 @@ Alors, puisque Freud lui-même nous indique...
 
 <!-- id: s18-10-0204 -->
 
-> je ne vais pas vous dire non plus à quelle page ...nous indique lui-même que tout ce qu’il élabore comme mythe, ceci est à propos de *Moïse *:
+je ne vais pas vous dire non plus à quelle page ...nous indique lui-même que tout ce qu’il élabore comme mythe, ceci est à propos de *Moïse *:
 
 <!-- id: s18-10-0205 -->
 
@@ -848,9 +852,9 @@ Alors, puisque Freud lui-même nous indique...
 
 <!-- id: s18-10-0206 -->
 
-> dit-il, de ce qu’il a lui-même écrit, à la date où il le publie en 1938,
->
-> sur son hypothèse his­torique, à savoir celle qu’il a rénovée de Sellin, ...*car tous les résultats acquis *- dit la traductrice - *constituent les déductions psychologiques qui en dérivent et sans cesse s’y rapportent*... »
+dit-il, de ce qu’il a lui-même écrit, à la date où il le publie en 1938,
+
+sur son hypothèse his­torique, à savoir celle qu’il a rénovée de Sellin, ...*car tous les résultats acquis *- dit la traductrice - *constituent les déductions psychologiques qui en dérivent et sans cesse s’y rapportent*... »
 
 <!-- id: s18-10-0207 -->
 
@@ -882,7 +886,7 @@ C’est bien en effet sous la dictée de *l’hystérique,* que non pas s’éla
 
 <!-- id: s18-10-0214 -->
 
-> car jamais l’Œdipe n’a été par Freud véritablement élaboré ...il est indiqué en quelque sorte à l’hori­zon, *dans la fumée* si l’on peut dire, de ce qui s’élève comme sacrifice de *l’hysté­rique*.
+car jamais l’Œdipe n’a été par Freud véritablement élaboré ...il est indiqué en quelque sorte à l’hori­zon, *dans la fumée* si l’on peut dire, de ce qui s’élève comme sacrifice de *l’hysté­rique*.
 
 <!-- id: s18-10-0215 -->
 
@@ -902,7 +906,7 @@ Les axiomes minimaux de Péano...
 
 <!-- id: s18-10-0219 -->
 
-> je n’insiste pas sur ce qui a pu se produire en commentaire, en marge comme perfectionnement ...mais la dernière formule, c’est celle qui pose le zéro comme *<u>nécessaire</u>* à cette série,
+je n’insiste pas sur ce qui a pu se produire en commentaire, en marge comme perfectionnement ...mais la dernière formule, c’est celle qui pose le zéro comme *<u>nécessaire</u>* à cette série,
 
 <!-- id: s18-10-0220 -->
 
@@ -926,7 +930,7 @@ Si simplement vous admettez ça...
 
 <!-- id: s18-10-0225 -->
 
-> vous l’admettez ou vous pouvez aussi bien ne pas l’admettre ...mais si simple­ment vous admettez ça, je vous ferai remarquer que ça rend nécessaire qu’il y ait eu *un an zéro*, après la naissance du Christ. C’est ce que les auteurs du calen­drier républicain avaient oublié : la première année, ils l’ont appelé *l’an 1 de la République*.
+vous l’admettez ou vous pouvez aussi bien ne pas l’admettre ...mais si simple­ment vous admettez ça, je vous ferai remarquer que ça rend nécessaire qu’il y ait eu *un an zéro*, après la naissance du Christ. C’est ce que les auteurs du calen­drier républicain avaient oublié : la première année, ils l’ont appelé *l’an 1 de la République*.
 
 <!-- id: s18-10-0226 -->
 
@@ -962,9 +966,9 @@ Mais alors, nous entrevoyons aussi...
 
 <!-- id: s18-10-0234 -->
 
-> puisque c’est du *« papludun »* que je vous ai inscrit la possibilité logifiée du choix
->
-> dans cette relation insatisfaite du rapport sexuel, ...que c’est du « *papludun »* que je vous l’ai désigné, que c’est par-là que les incroyables complaisances de Freud pour un monothéisme dont il va chercher le modèle, chose très curieuse, bien ailleurs que dans sa tradition : il lui faut que ça soit Akhénaton.
+puisque c’est du *« papludun »* que je vous ai inscrit la possibilité logifiée du choix
+
+dans cette relation insatisfaite du rapport sexuel, ...que c’est du « *papludun »* que je vous l’ai désigné, que c’est par-là que les incroyables complaisances de Freud pour un monothéisme dont il va chercher le modèle, chose très curieuse, bien ailleurs que dans sa tradition : il lui faut que ça soit Akhénaton.
 
 <!-- id: s18-10-0235 -->
 
@@ -988,7 +992,7 @@ Puisqu’aussi bien ce n’est pas pour rien que les dernières images monumenta
 
 <!-- id: s18-10-0240 -->
 
-> celles que j’ai pu voir la dernière fois que j’ai quitté le sol égyp­tien ...d’Akhénaton, sont des images non seulement châtrées mais carrément féminines.
+celles que j’ai pu voir la dernière fois que j’ai quitté le sol égyp­tien ...d’Akhénaton, sont des images non seulement châtrées mais carrément féminines.
 
 <!-- id: s18-10-0241 -->
 
@@ -1016,7 +1020,7 @@ Je regrette que les choses se soient cette année trouvées ainsi forcément tro
 
 <!-- id: s18-10-0247 -->
 
-> à savoir celui qui met du côté du Père la jouissance originelle ...est quelque chose à quoi ne répond pas moins *un évitement stricte­ment équivalent* de ce qu’il en est du *nœud de la castration*, strictement équivalent.
+à savoir celui qui met du côté du Père la jouissance originelle ...est quelque chose à quoi ne répond pas moins *un évitement stricte­ment équivalent* de ce qu’il en est du *nœud de la castration*, strictement équivalent.
 
 <!-- id: s18-10-0248 -->
 
@@ -1024,7 +1028,7 @@ Ce en quoi se marque bien ceci : que *l’obsessionnel*...
 
 <!-- id: s18-10-0249 -->
 
-> pour répondre à la formule : / §, « *Il n’y a pas de x qui existe qui puisse s’inscrire dans la variable* § » ...que *l’obsessionnel...* comment *l’obsessionnel* se dérobe simplement de ceci : de ne pas exister.
+pour répondre à la formule : / §, « *Il n’y a pas de x qui existe qui puisse s’inscrire dans la variable* § » ...que *l’obsessionnel...* comment *l’obsessionnel* se dérobe simplement de ceci : de ne pas exister.
 
 <!-- id: s18-10-0250 -->
 
@@ -1056,7 +1060,7 @@ Et qu’est-ce que ce *Père* en effet dit, au déclin de l’*Œdipe* ? Il dit 
 
 <!-- id: s18-10-0257 -->
 
-> ce n’est pas pour rien que je ne l’ai encore jamais vraiment abordé ...ce que dit le *surmoi*, c’est : « *Jouis !* »
+ce n’est pas pour rien que je ne l’ai encore jamais vraiment abordé ...ce que dit le *surmoi*, c’est : « *Jouis !* »
 
 <!-- id: s18-10-0258 -->
 
@@ -1064,7 +1068,7 @@ Tel est l’ordre, l’ordre impossible à satisfaire, et qui comme tel est à l
 
 <!-- id: s18-10-0259 -->
 
-> aussi paradoxal que cela puisse vous paraître ...aux termes de la conscience morale.
+aussi paradoxal que cela puisse vous paraître ...aux termes de la conscience morale.
 
 <!-- id: s18-10-0260 -->
 
@@ -1072,11 +1076,15 @@ Pour bien en sentir *le jeu*, je dirais *même la dérision*, il faut que vous l
 
 <!-- id: s18-10-0261 -->
 
-> « *Jouis tant que tu es dans ce bas monde, jouis...*
->
-> dit l’auteur énigmatique - comme vous le savez - de ce texte étonnant,
->
-> *...Jouis avec la femme que tu aimes.* »
+<div class="text-quotation">
+
+« *Jouis tant que tu es dans ce bas monde, jouis...*
+
+dit l’auteur énigmatique - comme vous le savez - de ce texte étonnant,
+
+*...Jouis avec la femme que tu aimes.* »
+
+</div>
 
 <!-- id: s18-10-0262 -->
 

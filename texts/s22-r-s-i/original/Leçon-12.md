@@ -142,7 +142,7 @@ Quelqu’un qui me voyait *en proie* - c’est le cas de le dire - *à ce nœud*
 
 <!-- id: s22-12-0035 -->
 
-> selon une forme qui n’est même pas mienne, qui est picassienne comme chacun sait
+selon une forme qui n’est même pas mienne, qui est picassienne comme chacun sait
 
 <!-- id: s22-12-0036 -->
 
@@ -158,7 +158,7 @@ Quelqu’un qui me voyait *en proie* - c’est le cas de le dire - *à ce nœud*
 
 <!-- id: s22-12-0039 -->
 
-> ça, ça n’est pas dans le *dictionnaire étymologique* ...*j’ai trouvé le trou*, le trou de Soury, si j’ose m’exprimer ainsi, par où j’en suis réduit à passer.
+ça, ça n’est pas dans le *dictionnaire étymologique* ...*j’ai trouvé le trou*, le trou de Soury, si j’ose m’exprimer ainsi, par où j’en suis réduit à passer.
 
 <!-- id: s22-12-0040 -->
 
@@ -174,7 +174,7 @@ Pendant que j’y suis, à ce sujet je dirai, je rappellerai...
 
 <!-- id: s22-12-0043 -->
 
-> ce qui se trouve déjà dans les dernières lignes de mes *Propos sur la causalité psy­chique* [^33] ...un proverbe arabe qui énonce qu’il y a un certain nombre de choses - il en nomme 3 lui aussi - sur quoi rien ne laisse de trace :
+ce qui se trouve déjà dans les dernières lignes de mes *Propos sur la causalité psy­chique* [^33] ...un proverbe arabe qui énonce qu’il y a un certain nombre de choses - il en nomme 3 lui aussi - sur quoi rien ne laisse de trace :
 
 <!-- id: s22-12-0044 -->
 
@@ -210,9 +210,9 @@ Je « *trouve* » assez pour avoir à « *circuler* ». Je ne sais pas si vo
 
 <!-- id: s22-12-0052 -->
 
-> dont Hegel pose fort bien que tout ce qui est de la politique s’y enracine,
->
-> et *qu’il n’y a rien de la politique qui ne soit en fin, au dernier terme de réduction*, *police pure et simple* ...que la police n’a que ce mot à la bouche : « *Circulez* ».
+dont Hegel pose fort bien que tout ce qui est de la politique s’y enracine,
+
+et *qu’il n’y a rien de la politique qui ne soit en fin, au dernier terme de réduction*, *police pure et simple* ...que la police n’a que ce mot à la bouche : « *Circulez* ».
 
 <!-- id: s22-12-0053 -->
 
@@ -220,7 +220,7 @@ Peu lui importe *la gyrie* dont je vous ai parlé la dernière fois...
 
 <!-- id: s22-12-0054 -->
 
-> que ce soit de gyrer à droite ou à gauche : elle s’en fout, c’est le cas de le dire ...ce dont il s’agit c’est de *circuler !*
+que ce soit de gyrer à droite ou à gauche : elle s’en fout, c’est le cas de le dire ...ce dont il s’agit c’est de *circuler !*
 
 <!-- id: s22-12-0055 -->
 
@@ -272,7 +272,7 @@ Comme vous le voyez sous cette forme, cette forme de pure apparence, c’est dan
 
 <!-- id: s22-12-0067 -->
 
-> dans cette mesure même ...que le 3<sup>ème</sup> inflé­chit l’un des deux, qui entre eux sont libres, l’infléchit de telle façon que nécessairement arrivé à l’autre bout d’un de ces cercles, il infléchira l’autre à son tour, et qu’il ainsi tournera en rond.
+dans cette mesure même ...que le 3<sup>ème</sup> inflé­chit l’un des deux, qui entre eux sont libres, l’infléchit de telle façon que nécessairement arrivé à l’autre bout d’un de ces cercles, il infléchira l’autre à son tour, et qu’il ainsi tournera en rond.
 
 <!-- id: s22-12-0068 -->
 
@@ -280,7 +280,7 @@ Si ce rond, le petit là \[*en jaune*\], nous le supposons du *Symbolique*, il f
 
 <!-- id: s22-12-0069 -->
 
-> entre guillemets puisque ce n’est pas une vraie chaîne ...de la « fausse chaîne » de l’*Imaginaire* et du *Symbolique*. C’est bien en effet de cela qu’il s’agit.
+entre guillemets puisque ce n’est pas une vraie chaîne ...de la « fausse chaîne » de l’*Imaginaire* et du *Symbolique*. C’est bien en effet de cela qu’il s’agit.
 
 <!-- id: s22-12-0070 -->
 
@@ -300,7 +300,7 @@ Ce terme « *il faut et il suffit* », on ne lui donne pas - sauf à se référe
 
 <!-- id: s22-12-0074 -->
 
-> le seul *trou* qui vaille: la trouvaille ...parce qu’on ne fait pas *le trou*, on ne voit pas que si la condition manque, rien ne va plus !
+le seul *trou* qui vaille: la trouvaille ...parce qu’on ne fait pas *le trou*, on ne voit pas que si la condition manque, rien ne va plus !
 
 <!-- id: s22-12-0075 -->
 
@@ -312,7 +312,7 @@ Vous nouez deux cercles, vous les nouez d’une façon qui implique...
 
 <!-- id: s22-12-0077 -->
 
-> comme c’est là non démontré, mais bien seulement montré
+comme c’est là non démontré, mais bien seulement montré
 
 <!-- id: s22-12-0078 -->
 
@@ -360,7 +360,7 @@ Et d’abord qu’est-ce qu’il y a de commun...
 
 <!-- id: s22-12-0089 -->
 
-> dans la façon dont je vous figure ces 4 éléments ...qu’est-ce qu’il y a de commun entre *la droi­te* *infinie*, et *le cercle* ?
+dans la façon dont je vous figure ces 4 éléments ...qu’est-ce qu’il y a de commun entre *la droi­te* *infinie*, et *le cercle* ?
 
 <!-- id: s22-12-0090 -->
 
@@ -424,7 +424,7 @@ Mais chacun sait que le *mos geometricum* d’Euclide...
 
 <!-- id: s22-12-0105 -->
 
-> qui a suffi pendant tant de temps[^34] à paraître le parangon de la logique ...est tout à fait insuffisant, et qu’à entrer dans la figure du nœud, il y a une tout autre façon de supporter *la figure du non-rapport des sexes, c’est de les supporter de deux cercles en tant que non noués.*
+qui a suffi pendant tant de temps[^34] à paraître le parangon de la logique ...est tout à fait insuffisant, et qu’à entrer dans la figure du nœud, il y a une tout autre façon de supporter *la figure du non-rapport des sexes, c’est de les supporter de deux cercles en tant que non noués.*
 
 <!-- id: s22-12-0106 -->
 
@@ -444,11 +444,11 @@ Il est tout à fait frappant que le langage ait depuis longtemps devancé la fig
 
 <!-- id: s22-12-0110 -->
 
-> sur laquelle s’escriment, seulement de nos jours, les mathématiciens ...pour appeler « *nœud* » ce qui unit l’homme et *une* femme, en parlant...
+sur laquelle s’escriment, seulement de nos jours, les mathématiciens ...pour appeler « *nœud* » ce qui unit l’homme et *une* femme, en parlant...
 
 <!-- id: s22-12-0111 -->
 
-> sans bien naturellement savoir ce dont il s’agit ...en parlant méta­phoriquement des nœuds qui les unissent.
+sans bien naturellement savoir ce dont il s’agit ...en parlant méta­phoriquement des nœuds qui les unissent.
 
 <!-- id: s22-12-0112 -->
 
@@ -592,11 +592,11 @@ C’est là la condition : que les deux droites quelles qu’elles soient, d’
 
 <!-- id: s22-12-0147 -->
 
-> je vous fais remarquer en passant que ce « *d’où qu’on les voit* »
->
-> supporte cette réa­lité que j’énonce *du regard*,
->
-> le regard n’est définissable que d’un « *d’où qu’on les voit ».* ...et à vrai dire, si nous pen­sons une droite comme faisant rond d’un point, d’un point unique à l’in­fini, comment ne pas voir que ceci a un sens *à ce qu’elles ne se nouent pas*.
+je vous fais remarquer en passant que ce « *d’où qu’on les voit* »
+
+supporte cette réa­lité que j’énonce *du regard*,
+
+le regard n’est définissable que d’un « *d’où qu’on les voit ».* ...et à vrai dire, si nous pen­sons une droite comme faisant rond d’un point, d’un point unique à l’in­fini, comment ne pas voir que ceci a un sens *à ce qu’elles ne se nouent pas*.
 
 <!-- id: s22-12-0148 -->
 
@@ -604,7 +604,7 @@ Non seulement que ceci a un sens à ce qu’elles ne se nouent pas, mais que c�
 
 <!-- id: s22-12-0149 -->
 
-> à *Normale Supérieure* pour l’évoquer par son nom ...je fai­sais mon séminaire sur *Les Ménines – Les Ménines* de Velasquez – où j’en profitais pour me targuer de situer où il était ce fameux regard, dont bien évidemment c’est le sujet du tableau.
+à *Normale Supérieure* pour l’évoquer par son nom ...je fai­sais mon séminaire sur *Les Ménines – Les Ménines* de Velasquez – où j’en profitais pour me targuer de situer où il était ce fameux regard, dont bien évidemment c’est le sujet du tableau.
 
 <!-- id: s22-12-0150 -->
 
@@ -636,7 +636,7 @@ Nous définissons le nœud par quelque chose qui s’appelle le *groupe fondamen
 
 <!-- id: s22-12-0157 -->
 
-> un nombre qui diffère selon les nœuds ...*un nombre de trajets qui seront nécessaires pour indiquer sa structure*.
+un nombre qui diffère selon les nœuds ...*un nombre de trajets qui seront nécessaires pour indiquer sa structure*.
 
 <!-- id: s22-12-0158 -->
 
@@ -644,7 +644,7 @@ Nous définissons le nœud par quelque chose qui s’appelle le *groupe fondamen
 
 <!-- id: s22-12-0159 -->
 
-> mais là je pose la question : je mets le *« trou »* entre guillemets ...dans chacun des « *trous* » qui apparemment font ce nœud.
+mais là je pose la question : je mets le *« trou »* entre guillemets ...dans chacun des « *trous* » qui apparemment font ce nœud.
 
 <!-- id: s22-12-0160 -->
 
@@ -652,7 +652,7 @@ Il y en aura un certain nombre, et contrairement à ce que vous pouvez imaginer,
 
 <!-- id: s22-12-0161 -->
 
-> dans ce cas où la figure mise à plat à l’air de com­porter 4 champs distincts ...ça ne fera pas pour autant 4 cercles individualisables de trajet.
+dans ce cas où la figure mise à plat à l’air de com­porter 4 champs distincts ...ça ne fera pas pour autant 4 cercles individualisables de trajet.
 
 <!-- id: s22-12-0162 -->
 
@@ -696,7 +696,7 @@ Et la nécessité qu’un 4<sup>ème</sup> terme vienne ici imposer ses vérité
 
 <!-- id: s22-12-0172 -->
 
-> je n’ai pu aujourd’hui le faire ...mis en évidence de ce qu’est vrai­ment le nœud borroméen.
+je n’ai pu aujourd’hui le faire ...mis en évidence de ce qu’est vrai­ment le nœud borroméen.
 
 <!-- id: s22-12-0173 -->
 
@@ -704,7 +704,7 @@ Dans toute chaîne borroméenne...
 
 <!-- id: s22-12-0174 -->
 
-> pour vous imaginer la plus simple :
+pour vous imaginer la plus simple :
 
 <!-- id: s22-12-0175 -->
 
@@ -724,7 +724,7 @@ Qu’est-ce qu’implique que dans une chaîne quelconque...
 
 <!-- id: s22-12-0179 -->
 
-> comme elle fait chaîne, *elle fait toujours chaîne* ...nous placions un quelconque des 2 premiers au rang troisième ?
+comme elle fait chaîne, *elle fait toujours chaîne* ...nous placions un quelconque des 2 premiers au rang troisième ?
 
 <!-- id: s22-12-0180 -->
 
@@ -732,7 +732,7 @@ Quelle que soit la chaîne, l’opération dont il s’agit impliquera...
 
 <!-- id: s22-12-0181 -->
 
-> pour nous limiter à la chaîne 1-2-3-4 ...impliquera que si nous voulons mettre un quelconque de ces 2 au rang troisième, le 1 sera dès lors noué au 2, et par le 3 et par le 4.
+pour nous limiter à la chaîne 1-2-3-4 ...impliquera que si nous voulons mettre un quelconque de ces 2 au rang troisième, le 1 sera dès lors noué au 2, et par le 3 et par le 4.
 
 <!-- id: s22-12-0182 -->
 
@@ -804,7 +804,7 @@ Et que cette droite...
 
 <!-- id: s22-12-0199 -->
 
-> dans ce cercle que nous composons d’un cercle et d’une droite ...que cette droite est très précisément, non pas ce qui *nomme* quoique ce soit de l’*Imaginaire* mais ce qui justement *fait barre*, *inhibe* le maniement
+dans ce cercle que nous composons d’un cercle et d’une droite ...que cette droite est très précisément, non pas ce qui *nomme* quoique ce soit de l’*Imaginaire* mais ce qui justement *fait barre*, *inhibe* le maniement
 
 <!-- id: s22-12-0200 -->
 
@@ -832,7 +832,7 @@ Que ce soit du *Symbolique* que surgisse *le Réel...*
 
 <!-- id: s22-12-0206 -->
 
-> c’est ça l’idée de *création* ...n’a rien à faire avec le fait que dans *un second temps*, le même Dieu donne leur nom à chacun des ani­maux qui habitent le paradis.
+c’est ça l’idée de *création* ...n’a rien à faire avec le fait que dans *un second temps*, le même Dieu donne leur nom à chacun des ani­maux qui habitent le paradis.
 
 <!-- id: s22-12-0207 -->
 
@@ -860,7 +860,7 @@ La *nomination* de chacune...
 
 <!-- id: s22-12-0213 -->
 
-> qui d’ailleurs est un nom commun, non pas - au sens de Russell - un *nom propre* ...la *nomination* de chacune des espèces que représente-t-elle ?
+qui d’ailleurs est un nom commun, non pas - au sens de Russell - un *nom propre* ...la *nomination* de chacune des espèces que représente-t-elle ?
 
 <!-- id: s22-12-0214 -->
 
@@ -872,7 +872,7 @@ Est-ce que c’est cela qui nous suffit pour supporter ce qui vient...
 
 <!-- id: s22-12-0216 -->
 
-> en un point certes pas indifférent dans cette élémentation à 4 du nœud ...qui se supporte du *Nom-du­-Père*.
+en un point certes pas indifférent dans cette élémentation à 4 du nœud ...qui se supporte du *Nom-du­-Père*.
 
 <!-- id: s22-12-0217 -->
 
@@ -888,11 +888,11 @@ Est-ce que pour tout dire, le *Père éternel*...
 
 <!-- id: s22-12-0220 -->
 
-> à quoi bien sûr, rien ne nous empêcherait de croire
->
-> s’il était même pensable que lui–même croit en lui,
->
-> alors que c’est tout à fait clairement impensable ...est-ce que nous devons mettre le terme « *nomination »* comme noué au niveau de ce cercle dont nous supportons la fonction du *Réel* ?
+à quoi bien sûr, rien ne nous empêcherait de croire
+
+s’il était même pensable que lui–même croit en lui,
+
+alors que c’est tout à fait clairement impensable ...est-ce que nous devons mettre le terme « *nomination »* comme noué au niveau de ce cercle dont nous supportons la fonction du *Réel* ?
 
 <!-- id: s22-12-0221 -->
 
@@ -912,7 +912,7 @@ C’est entre ces 3 termes...
 
 <!-- id: s22-12-0225 -->
 
-> ce n’est pas une raison parce que j’ai *la réponse* pour que je ne vous la laisse pas *en tant que question* ...que je m’interrogerai l’année prochaine sur ce qu’il convient de donner comme substance au « *Nom du Père* ».
+ce n’est pas une raison parce que j’ai *la réponse* pour que je ne vous la laisse pas *en tant que question* ...que je m’interrogerai l’année prochaine sur ce qu’il convient de donner comme substance au « *Nom du Père* ».
 
 <!-- id: s22-12-0226 -->
 

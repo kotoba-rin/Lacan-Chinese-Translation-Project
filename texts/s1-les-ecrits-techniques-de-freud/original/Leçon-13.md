@@ -246,13 +246,13 @@ Par exemple, ça nous permet d’appréhender déjà quelque chose d’une faço
 
 <!-- id: s1-13-0061 -->
 
-> vous savez combien c’est délicat et complexe de mesurer ce qui est perçu et non perçu par l’animal. La perception
->
-> de l’animal semble aller beaucoup plus loin chez lui aussi que ce qu’on peut mettre en valeur à propos d’un certain nombre
->
-> de comportements expérimentaux, c’est-à-dire artificiels, nous pou­vons constater qu’il peut faire des choix
->
-> à l’aide de choses que nous ne soup­çonnions pas
+vous savez combien c’est délicat et complexe de mesurer ce qui est perçu et non perçu par l’animal. La perception
+
+de l’animal semble aller beaucoup plus loin chez lui aussi que ce qu’on peut mettre en valeur à propos d’un certain nombre
+
+de comportements expérimentaux, c’est-à-dire artificiels, nous pou­vons constater qu’il peut faire des choix
+
+à l’aide de choses que nous ne soup­çonnions pas
 
 <!-- id: s1-13-0062 -->
 
@@ -264,7 +264,7 @@ En d’autres termes, cette *fixation libidinale* sur certains termes se présen
 
 <!-- id: s1-13-0064 -->
 
-> puisque nous sommes partis, puisque c’est vous qui avez eu la gentillesse de me relancer là, pour aujourd’hui
+puisque nous sommes partis, puisque c’est vous qui avez eu la gentillesse de me relancer là, pour aujourd’hui
 
 <!-- id: s1-13-0065 -->
 
@@ -621,9 +621,9 @@ Mais en même temps, c’est par l’intermédiaire de ce personnage, qui est ic
 
 <!-- id: s1-13-0153 -->
 
-> on a évoqué sa personne au début de ces séminaires, quand nous avons un peu parlé
->
-> des premières étapes de FREUD à la vie scientifique
+on a évoqué sa personne au début de ces séminaires, quand nous avons un peu parlé
+
+des premières étapes de FREUD à la vie scientifique
 
 <!-- id: s1-13-0154 -->
 
@@ -847,9 +847,9 @@ Je continue : c’est justement en fonction de cette constitution symbolique de 
 
 <!-- id: s1-13-0209 -->
 
-> c’est-à-dire de ce qui dans l’ensemble, l’univers des symboles en tant que tous les êtres humains y participent, y sont inclus
->
-> et le subissent, beaucoup plus qu’ils ne le constituent, et en sont beaucoup plus les supports qu’ils n’en sont les agents
+c’est-à-dire de ce qui dans l’ensemble, l’univers des symboles en tant que tous les êtres humains y participent, y sont inclus
+
+et le subissent, beaucoup plus qu’ils ne le constituent, et en sont beaucoup plus les supports qu’ils n’en sont les agents
 
 <!-- id: s1-13-0210 -->
 

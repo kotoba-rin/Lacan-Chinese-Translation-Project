@@ -46,9 +46,9 @@ Qu’il suffise, pour réfuter le premier cas…
 
 <!-- id: s16-01-0011 -->
 
-> s’il est vrai que - psychanalyste - je ne pouvais me prétendre d’aucune façon
->
-> introduire ce qui s’intitule ridiculement une *anthropologie psychanalytique* …il suffirait de rappeler, à l’entrée même de ce domaine, *des vérités constituantes qu’apporte dans ce champ la psychanalyse*.
+s’il est vrai que - psychanalyste - je ne pouvais me prétendre d’aucune façon
+
+introduire ce qui s’intitule ridiculement une *anthropologie psychanalytique* …il suffirait de rappeler, à l’entrée même de ce domaine, *des vérités constituantes qu’apporte dans ce champ la psychanalyse*.
 
 <!-- id: s16-01-0012 -->
 
@@ -76,7 +76,7 @@ Insistons bien que, répandant cette formule de la *Genèse* que « *Dieu les c
 
 <!-- id: s16-01-0018 -->
 
-> au sens où ce terme ne comporte pas de recours.
+au sens où ce terme ne comporte pas de recours.
 
 <!-- id: s16-01-0019 -->
 
@@ -102,7 +102,7 @@ Nous sommes portés…
 
 <!-- id: s16-01-0024 -->
 
-> ne serait-ce que d’abord par ce défi que je viens de désigner comme celui porté par *la vérité* au *réel* …à plus de prudence dans cette démarche de mise en accord de la pensée avec elle-même : *une règle de pensée qui a à s’assurer* *de la non-pensée comme de ce qui peut être sa cause*, voilà ce à quoi nous sommes confrontés avec la notion de l’inconscient.
+ne serait-ce que d’abord par ce défi que je viens de désigner comme celui porté par *la vérité* au *réel* …à plus de prudence dans cette démarche de mise en accord de la pensée avec elle-même : *une règle de pensée qui a à s’assurer* *de la non-pensée comme de ce qui peut être sa cause*, voilà ce à quoi nous sommes confrontés avec la notion de l’inconscient.
 
 <!-- id: s16-01-0025 -->
 
@@ -154,7 +154,7 @@ Et c’est pourquoi la musique et l’architecture sont les arts suprêmes…
 
 <!-- id: s16-01-0037 -->
 
-> j’entends « suprêmes » techniquement, comme *maximum* dans le banal …produisant la relation du *nombre harmonique* avec *le temps* et avec *l’espace*, sous l’angle précisément de leur *incompatibilité*.
+j’entends « suprêmes » techniquement, comme *maximum* dans le banal …produisant la relation du *nombre harmonique* avec *le temps* et avec *l’espace*, sous l’angle précisément de leur *incompatibilité*.
 
 <!-- id: s16-01-0038 -->
 
@@ -174,7 +174,7 @@ Ne vous effrayez pas, ce sont propos d’entrée, rappels de certitudes, non pas
 
 <!-- id: s16-01-0042 -->
 
-> qui pourra vous sembler nouveau, à tout le moins paradoxal …que je le dirai *« sans parole »*. Il s’agit de *l’essence de la théorie* puisque c’est ceci qui *est en jeu* : qu’en est-il de la théorie *dans le champ psychanalytique* ?
+qui pourra vous sembler nouveau, à tout le moins paradoxal …que je le dirai *« sans parole »*. Il s’agit de *l’essence de la théorie* puisque c’est ceci qui *est en jeu* : qu’en est-il de la théorie *dans le champ psychanalytique* ?
 
 <!-- id: s16-01-0043 -->
 
@@ -182,7 +182,7 @@ Ne vous effrayez pas, ce sont propos d’entrée, rappels de certitudes, non pas
 
 <!-- id: s16-01-0044 -->
 
-> étonnamment, pour être dans des lieux ou dans des têtes qui me sont proches …par *je ne sais quoi* qui s’appellera « *de l’impossibilité théorique* », voire - n’ai-je pas trouvé cela au détour de quelques lignes ? - que ce qu’un jour j’ai énoncé dans un contexte qui disait bien ce que cela voulait dire : qu’« *il n’y a pas d’univers de discours* »… « *Alors à quoi bon nous fatiguer… *» semble-t-on en conclure.
+étonnamment, pour être dans des lieux ou dans des têtes qui me sont proches …par *je ne sais quoi* qui s’appellera « *de l’impossibilité théorique* », voire - n’ai-je pas trouvé cela au détour de quelques lignes ? - que ce qu’un jour j’ai énoncé dans un contexte qui disait bien ce que cela voulait dire : qu’« *il n’y a pas d’univers de discours* »… « *Alors à quoi bon nous fatiguer… *» semble-t-on en conclure.
 
 <!-- id: s16-01-0045 -->
 
@@ -206,7 +206,7 @@ Il fut un temps…
 
 <!-- id: s16-01-0050 -->
 
-> permettez-moi, avant d’entrer dans ce domaine, un peu de musique …*où j’avais pris l’exemple du pot*, non sans qu’on en fit un tel scandale que j’ai laissé *ce pot*, si je puis dire, en marge de mes *Écrits.*
+permettez-moi, avant d’entrer dans ce domaine, un peu de musique …*où j’avais pris l’exemple du pot*, non sans qu’on en fit un tel scandale que j’ai laissé *ce pot*, si je puis dire, en marge de mes *Écrits.*
 
 <!-- id: s16-01-0051 -->
 
@@ -230,7 +230,7 @@ Mais il y en a peut-être une autre qui est celle-ci : c’est que c’est ce *
 
 <!-- id: s16-01-0056 -->
 
-> quand nous l’avons ainsi de son lieu de sépulture ressuscité …vient trôner sur l’étagère du collectionneur, et dans ce moment de gloire il en est de lui ce qu’il en est aussi pour Dieu : c’est dans cette gloire qu’il révèle précisément sa nature.
+quand nous l’avons ainsi de son lieu de sépulture ressuscité …vient trôner sur l’étagère du collectionneur, et dans ce moment de gloire il en est de lui ce qu’il en est aussi pour Dieu : c’est dans cette gloire qu’il révèle précisément sa nature.
 
 <!-- id: s16-01-0057 -->
 
@@ -306,7 +306,7 @@ Car c’est proprement d’être au point - lui, comme être de pensée - d’ê
 
 <!-- id: s16-01-0075 -->
 
-> obscure, il faut bien le dire, si cette obscurité se reconnaît à la confusion des commentaires …qui est celle de la *plus-value.*
+obscure, il faut bien le dire, si cette obscurité se reconnaît à la confusion des commentaires …qui est celle de la *plus-value.*
 
 <!-- id: s16-01-0076 -->
 
@@ -366,7 +366,7 @@ J’ai énoncé « *Le signifiant est ce qui représente un sujet pour un autre
 
 <!-- id: s16-01-0090 -->
 
-> au moment où la psychanalyse est appelée à donner à quelque chose - ne croyez pas que j’ai l’intention de l’élider - à la crise que traverse le rapport de l’étudiant à l’Université …il est impensable qu’on réponde par l’énoncé : « *qu’il y a des choses que l’on ne saurait d’aucune façon définir en un savoir* ».
+au moment où la psychanalyse est appelée à donner à quelque chose - ne croyez pas que j’ai l’intention de l’élider - à la crise que traverse le rapport de l’étudiant à l’Université …il est impensable qu’on réponde par l’énoncé : « *qu’il y a des choses que l’on ne saurait d’aucune façon définir en un savoir* ».
 
 <!-- id: s16-01-0091 -->
 
@@ -378,7 +378,7 @@ Tous les termes qui peuvent être employés à ce propos…
 
 <!-- id: s16-01-0093 -->
 
-> qu’ils soient ceux de « *non conceptualisation* », ou toute autre évocation de je ne sais quelle « *impossibilité »* …ne peuvent désigner en tout cas que l’incapacité de ceux qui les promeuvent. Ce n’est pas pour la raison que ce n’est dans nulle *intervention* particulière autre que celle dite « *interprétation* » que peut résider la stratégie avec *la vérité* qui est l’essence de la thérapeutique, qu’en ce point assurément toutes sortes de fonctions particulières, de jeux heureux, dans l’ordre de la variable peuvent trouver leur opportunité… Mais ils n’ont de sens qu’à se situer au point précis où la théorie leur donne leur poids.
+qu’ils soient ceux de « *non conceptualisation* », ou toute autre évocation de je ne sais quelle « *impossibilité »* …ne peuvent désigner en tout cas que l’incapacité de ceux qui les promeuvent. Ce n’est pas pour la raison que ce n’est dans nulle *intervention* particulière autre que celle dite « *interprétation* » que peut résider la stratégie avec *la vérité* qui est l’essence de la thérapeutique, qu’en ce point assurément toutes sortes de fonctions particulières, de jeux heureux, dans l’ordre de la variable peuvent trouver leur opportunité… Mais ils n’ont de sens qu’à se situer au point précis où la théorie leur donne leur poids.
 
 <!-- id: s16-01-0094 -->
 
@@ -426,9 +426,13 @@ Je note que le terme « *embarras* » a été pointé pour sa fonction ailleur
 
 <!-- id: s16-01-0105 -->
 
-> « *Car même quand vous vous faites mes hérauts, vous ne valez pas plus à porter mes couleurs que ces habits qui sont les vôtres et pareils*
->
-> *à vous-même, fantômes que vous êtes. Où vais-je donc passer en vous, où étais-je avant ce passage ? Peut-être un jour vous le dirai-je.* »
+<div class="text-quotation">
+
+« *Car même quand vous vous faites mes hérauts, vous ne valez pas plus à porter mes couleurs que ces habits qui sont les vôtres et pareils*
+
+*à vous-même, fantômes que vous êtes. Où vais-je donc passer en vous, où étais-je avant ce passage ? Peut-être un jour vous le dirai-je.* »
+
+</div>
 
 <!-- id: s16-01-0106 -->
 
@@ -436,9 +440,13 @@ Il s’agit là du *discours*.
 
 <!-- id: s16-01-0107 -->
 
-> « *Mais pour que vous me trouviez où je suis, je vais vous apprendre à quel signe me reconnaître.*
->
-> *Hommes, écoutez, je vous en donne le secret. Moi la vérité, je parle.* »
+<div class="text-quotation">
+
+« *Mais pour que vous me trouviez où je suis, je vais vous apprendre à quel signe me reconnaître.*
+
+*Hommes, écoutez, je vous en donne le secret. Moi la vérité, je parle.* »
+
+</div>
 
 <!-- id: s16-01-0108 -->
 
@@ -474,7 +482,7 @@ Il s’agit justement de voir pourquoi *quelque chose* de *ce sujet*…
 
 <!-- id: s16-01-0116 -->
 
-> qui disparaît d’être surgissant, produit par un signifiant pour aussitôt s’éteindre dans un autre …comment quelque part ce *quelque chose* peut se constituer et qui peut à la limite se faire prendre à la fin pour un *Selbst­Bewusstsein* \[conscience de soi\], pour quelque chose qui se satisfait d’être *identique à soi-même*.
+qui disparaît d’être surgissant, produit par un signifiant pour aussitôt s’éteindre dans un autre …comment quelque part ce *quelque chose* peut se constituer et qui peut à la limite se faire prendre à la fin pour un *Selbst­Bewusstsein* \[conscience de soi\], pour quelque chose qui se satisfait d’être *identique à soi-même*.
 
 <!-- id: s16-01-0117 -->
 
@@ -506,7 +514,7 @@ Un sujet c’est *ce qui peut être représenté par un signifiant pour un autre
 
 <!-- id: s16-01-0124 -->
 
-> le sujet dont il s’agit, dans ce que MARX déchiffre, à savoir la réalité économique …le sujet de *la valeur d’échange* est représenté auprès - *de quoi ?* - de *la valeur d’usage*. Et c’est déjà *dans cette faille* que se produit, que choit, ce qui s’appelle la *plus-value*. Ne compte plus à notre niveau que cette *perte.*
+le sujet dont il s’agit, dans ce que MARX déchiffre, à savoir la réalité économique …le sujet de *la valeur d’échange* est représenté auprès - *de quoi ?* - de *la valeur d’usage*. Et c’est déjà *dans cette faille* que se produit, que choit, ce qui s’appelle la *plus-value*. Ne compte plus à notre niveau que cette *perte.*
 
 <!-- id: s16-01-0125 -->
 
@@ -530,7 +538,7 @@ Et dans *le symptôme* de quoi s’agit-il d’autre, à savoir du plus ou moins
 
 <!-- id: s16-01-0130 -->
 
-> à sa relation qu’on appelle vitale,
+à sa relation qu’on appelle vitale,
 
 <!-- id: s16-01-0131 -->
 
@@ -546,11 +554,11 @@ Si nous avons posé théoriquement *a priori*…
 
 <!-- id: s16-01-0134 -->
 
-> et sans aucun doute, sans avoir eu besoin d’une longue [*récursion*](http://www.cnrtl.fr/definition/r%C3%A9cursion) pour constituer ces prémisses …s’il s’agit dans la définition du sujet, comme causé par le rapport intersignifiant, de quelque chose qui en quelque sorte nous interdit à jamais de le saisir, voici aussi l’occasion d’apercevoir ce qui lui donne cette unité…
+et sans aucun doute, sans avoir eu besoin d’une longue [*récursion*](http://www.cnrtl.fr/definition/r%C3%A9cursion) pour constituer ces prémisses …s’il s’agit dans la définition du sujet, comme causé par le rapport intersignifiant, de quelque chose qui en quelque sorte nous interdit à jamais de le saisir, voici aussi l’occasion d’apercevoir ce qui lui donne cette unité…
 
 <!-- id: s16-01-0135 -->
 
-> disons-la provisoirement *préconsciente*, non pas *inconsciente* …celle qui a permis jusqu’à présent de soutenir le sujet dans sa prétendue *suffisance*.
+disons-la provisoirement *préconsciente*, non pas *inconsciente* …celle qui a permis jusqu’à présent de soutenir le sujet dans sa prétendue *suffisance*.
 
 <!-- id: s16-01-0136 -->
 
@@ -602,7 +610,7 @@ Qu’assurément si déjà, à propos du *pari de Pascal,* je vous ai dit que…
 
 <!-- id: s16-01-0148 -->
 
-> *semble-t-il, avec l’extraordinaire aveuglement de celui qui est lui-même au début d’une période de déchaînement* …*et celle de la fonction du marché sont corrélatives*.
+*semble-t-il, avec l’extraordinaire aveuglement de celui qui est lui-même au début d’une période de déchaînement* …*et celle de la fonction du marché sont corrélatives*.
 
 <!-- id: s16-01-0149 -->
 
@@ -622,7 +630,7 @@ Voici donc ouverte la figure, le schéma de ce qui permet de concevoir comment *
 
 <!-- id: s16-01-0153 -->
 
-> à savoir du rapport de *la réitération du signifiant* S \[S<sub>1</sub> → S<sub>2</sub>\] qui représente le sujet par rapport à lui-même …*que se joue ce qu’il en est de la production du (a)*.
+à savoir du rapport de *la réitération du signifiant* S \[S<sub>1</sub> → S<sub>2</sub>\] qui représente le sujet par rapport à lui-même …*que se joue ce qu’il en est de la production du (a)*.
 
 <!-- id: s16-01-0154 -->
 
@@ -670,7 +678,7 @@ Qu’il puisse se démontrer, et sous la forme *la plus simple*…
 
 <!-- id: s16-01-0165 -->
 
-> vous m’excuserez de n’avoir pas le temps de le faire aujourd’hui …que le problème est totalement déplacé de savoir s’il est ou non *un Dieu qui garantisse*, comme pour DESCARTES, *le champ de la vérité* : *il nous suffit qu’il puisse se démontrer qu’au champ de l’Autre il n’y a pas de possibilité d’entière consistance du discours*, et ceci j’espère pouvoir la prochaine fois vous l’articuler précisément en fonction de l’existence du sujet.
+vous m’excuserez de n’avoir pas le temps de le faire aujourd’hui …que le problème est totalement déplacé de savoir s’il est ou non *un Dieu qui garantisse*, comme pour DESCARTES, *le champ de la vérité* : *il nous suffit qu’il puisse se démontrer qu’au champ de l’Autre il n’y a pas de possibilité d’entière consistance du discours*, et ceci j’espère pouvoir la prochaine fois vous l’articuler précisément en fonction de l’existence du sujet.
 
 <!-- id: s16-01-0166 -->
 
@@ -710,7 +718,7 @@ En face de lui \[comme *(a)* \], il n’y a rien que celui-là \[A\], que *l’u
 
 <!-- id: s16-01-0175 -->
 
-> pour aujourd’hui, vouloir vous quitter sur quelque chose qui fasse sourire un peu plus …que je reprenne les paroles, dans l’*Ecclésiaste*, d’un vieux roi qui ne voyait pas de contradiction entre être le roi de la sagesse et posséder un *harem*, qui vous dit :
+pour aujourd’hui, vouloir vous quitter sur quelque chose qui fasse sourire un peu plus …que je reprenne les paroles, dans l’*Ecclésiaste*, d’un vieux roi qui ne voyait pas de contradiction entre être le roi de la sagesse et posséder un *harem*, qui vous dit :
 
 <!-- id: s16-01-0176 -->
 

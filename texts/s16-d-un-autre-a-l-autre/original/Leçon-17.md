@@ -50,9 +50,9 @@ J’ai eu - parmi les premiers - à entendre de la sortie d’un libelle dont le
 
 <!-- id: s16-17-0012 -->
 
-> qui ne va pas plus haut que des horizons, je dois dire, exécrables,
->
-> qui peuvent faire la règle dans un certain champ de l’expérience psychanalytique …réduire ce qu’il en est de ce qu’ils appellent - le nom est inclus dans leur titre - de ce qu’ils désignent globalement comme la *contestation*. Après ça, vous savez à quoi vous en tenir !
+qui ne va pas plus haut que des horizons, je dois dire, exécrables,
+
+qui peuvent faire la règle dans un certain champ de l’expérience psychanalytique …réduire ce qu’il en est de ce qu’ils appellent - le nom est inclus dans leur titre - de ce qu’ils désignent globalement comme la *contestation*. Après ça, vous savez à quoi vous en tenir !
 
 <!-- id: s16-17-0013 -->
 
@@ -68,7 +68,7 @@ Simplement je constate, j’enregistre que…
 
 <!-- id: s16-17-0016 -->
 
-> quelque soupçon qui ait pu en venir à certains parmi mes élèves les plus authentiques …ceci ne surgit de personne dont on ait vu à quelque moment ici la figure. C’est un fait.
+quelque soupçon qui ait pu en venir à certains parmi mes élèves les plus authentiques …ceci ne surgit de personne dont on ait vu à quelque moment ici la figure. C’est un fait.
 
 <!-- id: s16-17-0017 -->
 
@@ -92,9 +92,9 @@ Qu’elles ne le fassent pas, que toute la psychanalyse française ne soit pas d
 
 <!-- id: s16-17-0022 -->
 
-> dont je me trouve par certaines communications avoir les noms, et qui ne sont pas *minces*,
->
-> qui appartiennent à un éminent *Institut* que tout le monde connaît …que les choses n’en soient pas à ce que toute la psychanalyse ne soit pas là derrière à propos de la contestation, après tout je peux bien me targuer que c’est le fait de mon enseignement.
+dont je me trouve par certaines communications avoir les noms, et qui ne sont pas *minces*,
+
+qui appartiennent à un éminent *Institut* que tout le monde connaît …que les choses n’en soient pas à ce que toute la psychanalyse ne soit pas là derrière à propos de la contestation, après tout je peux bien me targuer que c’est le fait de mon enseignement.
 
 <!-- id: s16-17-0023 -->
 
@@ -102,7 +102,7 @@ On ne peut pas dire qu’il ait eu un succès dans la psychanalyse. Mais comme l
 
 <!-- id: s16-17-0024 -->
 
-> sans que mes soupçons à proprement parler pussent aller jusqu’au point de croire *qu’il ne répudierait pas cet ouvrage* …c’est tout de même la même personne qui, dans une de ces occasions, à propos de ce que j’énonce, ne parlait de rien moins que de *terrorisme*.
+sans que mes soupçons à proprement parler pussent aller jusqu’au point de croire *qu’il ne répudierait pas cet ouvrage* …c’est tout de même la même personne qui, dans une de ces occasions, à propos de ce que j’énonce, ne parlait de rien moins que de *terrorisme*.
 
 <!-- id: s16-17-0025 -->
 
@@ -130,7 +130,7 @@ Que cette réflexion, cette constatation de ce qui est un effet essentiel et car
 
 <!-- id: s16-17-0031 -->
 
-> de ce qu’il faut entendre sous le registre de ce terme usuel et qu’on brandit à tort et à travers …de la *liberté de pensée*.
+de ce qu’il faut entendre sous le registre de ce terme usuel et qu’on brandit à tort et à travers …de la *liberté de pensée*.
 
 <!-- id: s16-17-0032 -->
 
@@ -162,7 +162,7 @@ Pour tout dire, c’est à penser l’utopie…
 
 <!-- id: s16-17-0039 -->
 
-> qui, comme son nom l’énonce, est un lieu de nulle part : *pas de lieu* …c’est de l’utopie que la pensée serait libre d’envisager une réforme possible de la norme.
+qui, comme son nom l’énonce, est un lieu de nulle part : *pas de lieu* …c’est de l’utopie que la pensée serait libre d’envisager une réforme possible de la norme.
 
 <!-- id: s16-17-0040 -->
 
@@ -190,11 +190,11 @@ Sur mon graphe où *les deux lignes horizontales* que j’ai retracées la derni
 
 <!-- id: s16-17-0046 -->
 
-> qui les coupe toutes les deux et détermine les quatre carrefours essentiels où s’inscrit un certain repérage …*cette ligne en hameçon* qui monte et redescend pour les couper toutes deux, *c’est précisément* *- je le rappelle -* *la ligne où s’inscrivent*…
+qui les coupe toutes les deux et détermine les quatre carrefours essentiels où s’inscrit un certain repérage …*cette ligne en hameçon* qui monte et redescend pour les couper toutes deux, *c’est précisément* *- je le rappelle -* *la ligne où s’inscrivent*…
 
 <!-- id: s16-17-0047 -->
 
-> et très précisément dans les intervalles laissés par les deux lignes respectives de *l’énonciation* et de *l’énoncé* …où s’inscrivent les formations à proprement parler *imaginaires*, nommément :
+et très précisément dans les intervalles laissés par les deux lignes respectives de *l’énonciation* et de *l’énoncé* …où s’inscrivent les formations à proprement parler *imaginaires*, nommément :
 
 <!-- id: s16-17-0048 -->
 
@@ -214,7 +214,7 @@ C’est dire que les registres du *symbolique*…
 
 <!-- id: s16-17-0052 -->
 
-> pour autant qu’ils s’inscrivent dans les deux lignes horizontales …ne sont pas sans rapport, sans trouver de support dans la fonction *imaginaire*, mais ce qu’ils ont de légitime, je veux dire de rationnellement assimilable, doit rester limité.
+pour autant qu’ils s’inscrivent dans les deux lignes horizontales …ne sont pas sans rapport, sans trouver de support dans la fonction *imaginaire*, mais ce qu’ils ont de légitime, je veux dire de rationnellement assimilable, doit rester limité.
 
 <!-- id: s16-17-0053 -->
 
@@ -254,9 +254,9 @@ L’idée de *fonction*, au sens mathématique…
 
 <!-- id: s16-17-0062 -->
 
-> mais ici ce n’est pas pour rien qu’elle est homonyme avec le mode sous lequel j’évoquai tout à l’heure
->
-> que pouvait être interrogée *la fonction organique* …cette *fonction* est toujours au dernier terme ordonnée d’une concaténation entre deux chaînes signifiantes, y = *fonction* de x, voilà le départ, le fondement solide sur lequel les mathématiques convergent, car bien entendu ce n’est point apparu aussi pur au départ. Selon le mode qui est à proprement parler celui de *la chaîne symbolique *: *c’est le point d’arrivée qui donne son sens à tout ce qui a précédé*.
+mais ici ce n’est pas pour rien qu’elle est homonyme avec le mode sous lequel j’évoquai tout à l’heure
+
+que pouvait être interrogée *la fonction organique* …cette *fonction* est toujours au dernier terme ordonnée d’une concaténation entre deux chaînes signifiantes, y = *fonction* de x, voilà le départ, le fondement solide sur lequel les mathématiques convergent, car bien entendu ce n’est point apparu aussi pur au départ. Selon le mode qui est à proprement parler celui de *la chaîne symbolique *: *c’est le point d’arrivée qui donne son sens à tout ce qui a précédé*.
 
 <!-- id: s16-17-0063 -->
 
@@ -264,13 +264,13 @@ Pour autant que la théorie des mathématiques, je ne dirai pas *a abouti*, car 
 
 <!-- id: s16-17-0064 -->
 
-> de ceux que j’évoquai comme je le pouvais à l’instant à vous réévoquer ce qu’était le 1, le 2,
->
-> voire tel ou tel nombre dans une tradition que nous pouvons dire globalement *gnostique* …*la théorie des ensembles précisément* est faite pour dépouiller cette ordination numérique…
+de ceux que j’évoquai comme je le pouvais à l’instant à vous réévoquer ce qu’était le 1, le 2,
+
+voire tel ou tel nombre dans une tradition que nous pouvons dire globalement *gnostique* …*la théorie des ensembles précisément* est faite pour dépouiller cette ordination numérique…
 
 <!-- id: s16-17-0065 -->
 
-> et c’est ce que j’appelle *ses privilèges idéaux* ou *imaginaires* …de *l’unité* : pas trace d’*unité* dans les définitions de PEANO, *un nombre se définit par rapport au* 0 *et à la fonction du successeur*.
+et c’est ce que j’appelle *ses privilèges idéaux* ou *imaginaires* …de *l’unité* : pas trace d’*unité* dans les définitions de PEANO, *un nombre se définit par rapport au* 0 *et à la fonction du successeur*.
 
 <!-- id: s16-17-0066 -->
 
@@ -342,7 +342,7 @@ L’incertitude de ce « *tous* » sera mise en cause non point seulement de c
 
 <!-- id: s16-17-0083 -->
 
-> n’allant pas m’engager dans des développements qui au regard de ce que nous avons à interroger nous égare …je demanderai : comment s’exprime ici dans ce registre ce qu’il en est de la liberté de pensée ?
+n’allant pas m’engager dans des développements qui au regard de ce que nous avons à interroger nous égare …je demanderai : comment s’exprime ici dans ce registre ce qu’il en est de la liberté de pensée ?
 
 <!-- id: s16-17-0084 -->
 
@@ -358,7 +358,7 @@ Je me livre à un exercice assez fou devant vous parce qu’il est évident que,
 
 <!-- id: s16-17-0087 -->
 
-> *c’est comme ça qu’il le définit tout au moins, c’est le maître mythique* …ce qui arrive quand il pense, c’est-à-dire quand il met sa « *maîtrise* » dans l’étrangeté du langage : il entre peut-être dans la pensée mais assurément c’est le moment où il perd sa liberté.
+*c’est comme ça qu’il le définit tout au moins, c’est le maître mythique* …ce qui arrive quand il pense, c’est-à-dire quand il met sa « *maîtrise* » dans l’étrangeté du langage : il entre peut-être dans la pensée mais assurément c’est le moment où il perd sa liberté.
 
 <!-- id: s16-17-0088 -->
 
@@ -382,7 +382,7 @@ Et à ce moment-là apparaît *cette chose étrange* que dans HEGEL…
 
 <!-- id: s16-17-0093 -->
 
-> dans la *Phénoménologie,* non dans l’*Encyclopédie*, mais là où est marqué le plus au vif *cette dialectique propre de la pensée* …ceci peut se faire en l’absence de toute *histoire du savoir*, que dans toute la *Phénoménologie de l’Esprit,* il s’agit d’une référence à une vérité qui permet de pointer ce que la pensée *ne sait pas* de sa fonction.
+dans la *Phénoménologie,* non dans l’*Encyclopédie*, mais là où est marqué le plus au vif *cette dialectique propre de la pensée* …ceci peut se faire en l’absence de toute *histoire du savoir*, que dans toute la *Phénoménologie de l’Esprit,* il s’agit d’une référence à une vérité qui permet de pointer ce que la pensée *ne sait pas* de sa fonction.
 
 <!-- id: s16-17-0094 -->
 
@@ -410,7 +410,7 @@ Le point-origine - non pas à entendre génétiquement mais structuralement - qu
 
 <!-- id: s16-17-0100 -->
 
-> à condition d’en mettre les deux derniers mots dans une sorte de parenthèse …le désir (de savoir). C’est le désir inconscient tout court, dans sa structure.
+à condition d’en mettre les deux derniers mots dans une sorte de parenthèse …le désir (de savoir). C’est le désir inconscient tout court, dans sa structure.
 
 <!-- id: s16-17-0101 -->
 
@@ -474,13 +474,13 @@ Si toute pensée…
 
 <!-- id: s16-17-0116 -->
 
-> non pas seulement *la pensée spontanée* de quiconque s’oriente dans les réalités installées de la vie, mais *la pensée* comme telle, à savoir comme s’interrogeant sur ce point hégelien qui est de savoir *où* un certain mode de savoir situe réellement le sujet …*si toute cette pensée est définie comme étant essentiellement censure*…
+non pas seulement *la pensée spontanée* de quiconque s’oriente dans les réalités installées de la vie, mais *la pensée* comme telle, à savoir comme s’interrogeant sur ce point hégelien qui est de savoir *où* un certain mode de savoir situe réellement le sujet …*si toute cette pensée est définie comme étant essentiellement censure*…
 
 <!-- id: s16-17-0117 -->
 
-> car c’est cela que veut dire l’articulation *freudienne*, c’est que ce *je ne sais pas*, de ce qu’il soit radicalement oublié,
->
-> il est impossible de revenir à sa place …*pensée-censure* - appelez-là comme vous voudrez, glissez les mots *censée­-pensure -* est-ce que nous ne sentons pas, là tout au moins, un de ces corrélatifs essentiels de ce qui se clame à notre époque d’une prétendue « *fin de la philosophie* » ?
+car c’est cela que veut dire l’articulation *freudienne*, c’est que ce *je ne sais pas*, de ce qu’il soit radicalement oublié,
+
+il est impossible de revenir à sa place …*pensée-censure* - appelez-là comme vous voudrez, glissez les mots *censée­-pensure -* est-ce que nous ne sentons pas, là tout au moins, un de ces corrélatifs essentiels de ce qui se clame à notre époque d’une prétendue « *fin de la philosophie* » ?
 
 <!-- id: s16-17-0118 -->
 
@@ -492,7 +492,7 @@ Partout où on travaille à réaliser quelque chose qui a bien l’air d’être
 
 <!-- id: s16-17-0120 -->
 
-> je veux dire là où on travaille sérieusement, pas là où c’est la foire …on n’a pas *la liberté de pensée*. Ça n’empêche pas que *les étudiants de* Prague sont en train de faire la grève pour ça.
+je veux dire là où on travaille sérieusement, pas là où c’est la foire …on n’a pas *la liberté de pensée*. Ça n’empêche pas que *les étudiants de* Prague sont en train de faire la grève pour ça.
 
 <!-- id: s16-17-0121 -->
 
@@ -516,7 +516,7 @@ Ce n’est pas de *l’objet(a)* que nous parlons aujourd’hui. Ce dont nous pa
 
 <!-- id: s16-17-0126 -->
 
-> et c’est tout ce que FREUD veut dire en réalité quand il dit que l’inconscient ne connaît pas *le principe de contradiction*, *le principe de contradiction* est quelque chose d’excessivement élaboré en logique et *dont même en logique on peut se passer*, *on peut construire toute une logique sans faire usage de la négation*, je parle d’une *logique formelle* dans le champ du savoir …si nous pouvons user d’un discours qui se libère de *la logique*, il n’est certainement pas délié de *la grammaire*.
+et c’est tout ce que FREUD veut dire en réalité quand il dit que l’inconscient ne connaît pas *le principe de contradiction*, *le principe de contradiction* est quelque chose d’excessivement élaboré en logique et *dont même en logique on peut se passer*, *on peut construire toute une logique sans faire usage de la négation*, je parle d’une *logique formelle* dans le champ du savoir …si nous pouvons user d’un discours qui se libère de *la logique*, il n’est certainement pas délié de *la grammaire*.
 
 <!-- id: s16-17-0127 -->
 
@@ -532,7 +532,7 @@ Il s’agirait de faire un pas de plus et - même si elles ne la révèlent pas 
 
 <!-- id: s16-17-0130 -->
 
-> c’est-à-dire qui n’a pas plus d’un siècle, à savoir qui fait qu’on s’aperçoit par exemple que c’est de *la localisation* quelque part *d’un indécidable* que dépend *la consistance* d’un des systèmes les plus assurés, à savoir l’arithmétique …qu’il y a homologie entre ces failles de la logique et de la structure du désir en tant qu’il est au dernier terme connotation du savoir des rapports de l’homme et de la femme par quelque chose qui est le plus surprenant, par le manque ou le non-manque d’un όργανον \[organon\], d’un instrument, autrement dit du *phallus*.
+c’est-à-dire qui n’a pas plus d’un siècle, à savoir qui fait qu’on s’aperçoit par exemple que c’est de *la localisation* quelque part *d’un indécidable* que dépend *la consistance* d’un des systèmes les plus assurés, à savoir l’arithmétique …qu’il y a homologie entre ces failles de la logique et de la structure du désir en tant qu’il est au dernier terme connotation du savoir des rapports de l’homme et de la femme par quelque chose qui est le plus surprenant, par le manque ou le non-manque d’un όργανον \[organon\], d’un instrument, autrement dit du *phallus*.
 
 <!-- id: s16-17-0131 -->
 
@@ -552,11 +552,11 @@ Mais la question se gîte plus profondément.
 
 <!-- id: s16-17-0135 -->
 
-> ces deux points qui ont l’air très distants de ce barrage qui fait que ce sexe dont nous parlons tout le temps,
->
-> loin de faire un pas dans quelque solution que ce soit du champ de l’érotique, va toujours plutôt s’obscurcissant,
->
-> et marquant plus l’insuffisance de nos repères …qu’il y ait un rapport entre cela et ces effets que j’appelle répandus de notre savoir, c’est à savoir ce prodigieux déferlement du rapport à *l’objet(a)* dont l’usage de nos *mass-media* ne sont que *le retour, la présentification*, est-ce que ceci n’est pas à soi tout seul l’indication de ce qu’il en est de la *liberté de pensée* ?
+ces deux points qui ont l’air très distants de ce barrage qui fait que ce sexe dont nous parlons tout le temps,
+
+loin de faire un pas dans quelque solution que ce soit du champ de l’érotique, va toujours plutôt s’obscurcissant,
+
+et marquant plus l’insuffisance de nos repères …qu’il y ait un rapport entre cela et ces effets que j’appelle répandus de notre savoir, c’est à savoir ce prodigieux déferlement du rapport à *l’objet(a)* dont l’usage de nos *mass-media* ne sont que *le retour, la présentification*, est-ce que ceci n’est pas à soi tout seul l’indication de ce qu’il en est de la *liberté de pensée* ?
 
 <!-- id: s16-17-0136 -->
 
@@ -584,7 +584,7 @@ Et c’est bien là ce dont, *faute d’avoir même commencé de suggérer ainsi
 
 <!-- id: s16-17-0142 -->
 
-> *qui est profondément qu’on lui demande ce qu’il en est de son désir* …est-ce que *la question* ne peut pas être posée si *le psychanalyste* ici n’est pas complice à soutenir sans le savoir ce qui est le fond de la structure du névrosé, c’est à savoir : *que son désir ne peut se soutenir que de cette demande*.
+*qui est profondément qu’on lui demande ce qu’il en est de son désir* …est-ce que *la question* ne peut pas être posée si *le psychanalyste* ici n’est pas complice à soutenir sans le savoir ce qui est le fond de la structure du névrosé, c’est à savoir : *que son désir ne peut se soutenir que de cette demande*.
 
 <!-- id: s16-17-0143 -->
 

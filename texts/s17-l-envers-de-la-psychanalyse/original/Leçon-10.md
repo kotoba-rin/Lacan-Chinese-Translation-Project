@@ -14,9 +14,9 @@ Bon, je ne dirai pas que je vous présente Monsieur le Professeur André Caquot.
 
 <!-- id: s17-10-0003 -->
 
-> qui est directeur d’études à la V<sup>ème</sup> *section*, dite « *des sciences religieuses »* aux *Hautes Études,*
->
-> dont vous savez que je suis *chargé de confé­rences,* ...je ne dirai pas que je vous le présente parce que je ne peux pas vous le présenter.
+qui est directeur d’études à la V<sup>ème</sup> *section*, dite « *des sciences religieuses »* aux *Hautes Études,*
+
+dont vous savez que je suis *chargé de confé­rences,* ...je ne dirai pas que je vous le présente parce que je ne peux pas vous le présenter.
 
 <!-- id: s17-10-0004 -->
 
@@ -196,7 +196,7 @@ Ce serait bien sûr le mettre, je dois dire...
 
 <!-- id: s17-10-0048 -->
 
-> ou plus exactement vous êtes tout près à me dire ...le mettre au rang de tout le monde, à savoir que : « *qui sait ce qu’il dit* » ?
+ou plus exactement vous êtes tout près à me dire ...le mettre au rang de tout le monde, à savoir que : « *qui sait ce qu’il dit* » ?
 
 <!-- id: s17-10-0049 -->
 
@@ -208,7 +208,7 @@ C’est d’une tout autre référence...
 
 <!-- id: s17-10-0051 -->
 
-> de savoir dans quel discours on s’insère ...qu’il pourrait s’agir, à la limite de cette position en quelque sorte fictive.
+de savoir dans quel discours on s’insère ...qu’il pourrait s’agir, à la limite de cette position en quelque sorte fictive.
 
 <!-- id: s17-10-0052 -->
 
@@ -220,7 +220,7 @@ Et quelqu’un qui y est né et qui, comme je vous l’ai souligné, insiste sur
 
 <!-- id: s17-10-0054 -->
 
-> pour faire avancer dans le champ qui est celui qu’il a découvert ...*justement qu’en ces Juifs qui savent lire depuis assez longtemps*, et qui depuis assez longtemps vivent - c’est le *Talmud* - de la référence à un texte.
+pour faire avancer dans le champ qui est celui qu’il a découvert ...*justement qu’en ces Juifs qui savent lire depuis assez longtemps*, et qui depuis assez longtemps vivent - c’est le *Talmud* - de la référence à un texte.
 
 <!-- id: s17-10-0055 -->
 
@@ -268,7 +268,7 @@ Ce qui distingue très évidemment la posi­tion de l’analyste...
 
 <!-- id: s17-10-0066 -->
 
-> et je n’irai pas aujourd’hui à l’écrire sur le tableau à l’aide de mon petit schéma, celui où *l’objet(a)* est en haut et à gauche ...la position de l’analyste, *très évidemment*... c’est là le seul sens qu’on puisse donner à « *la neutralité analytique »* ...est de ne pas participer de ces passions.
+et je n’irai pas aujourd’hui à l’écrire sur le tableau à l’aide de mon petit schéma, celui où *l’objet(a)* est en haut et à gauche ...la position de l’analyste, *très évidemment*... c’est là le seul sens qu’on puisse donner à « *la neutralité analytique »* ...est de ne pas participer de ces passions.
 
 <!-- id: s17-10-0067 -->
 
@@ -560,7 +560,7 @@ Antérieur, oui, puisque les manuscrits hébraïques les plus anciens sont - la 
 
 <!-- id: s17-10-0139 -->
 
-> évidemment ça n’est pas toujours le cas, mais je crois personnel­lement - j’ai une certaine expérience ...que la version grecque des *Septante* a très souvent sous les yeux ou dans l’oreille le même texte que *la Bible imprimée,* *la Bible massorétique, la Bible traditionnelle*<span class="smallcaps">,</span> mais que quelquefois, ne le compre­nant pas, ils interprètent.
+évidemment ça n’est pas toujours le cas, mais je crois personnel­lement - j’ai une certaine expérience ...que la version grecque des *Septante* a très souvent sous les yeux ou dans l’oreille le même texte que *la Bible imprimée,* *la Bible massorétique, la Bible traditionnelle*<span class="smallcaps">,</span> mais que quelquefois, ne le compre­nant pas, ils interprètent.
 
 <!-- id: s17-10-0140 -->
 
@@ -600,9 +600,13 @@ Je me permets de vous relire la fin de *Nombres 25* je lis une traduction, le te
 
 <!-- id: s17-10-0149 -->
 
-> וַיֵּשֶׁב יִשְׂרָאֵל, בַּשִּׁטִּים; וַיָּחֶל הָעָם, לִזְנוֹת אֶל-בְּנוֹת מוֹאָב.
->
-> « *Pendant qu’Israël demeurait à Shittim, le peuple commença à se livrer à la débauche avec les filles de Moab*
+<div class="text-quotation">
+
+וַיֵּשֶׁב יִשְׂרָאֵל, בַּשִּׁטִּים; וַיָּחֶל הָעָם, לִזְנוֹת אֶל-בְּנוֹת מוֹאָב.
+
+« *Pendant qu’Israël demeurait à Shittim, le peuple commença à se livrer à la débauche avec les filles de Moab*
+
+</div>
 
 <!-- id: s17-10-0150 -->
 
@@ -622,29 +626,33 @@ D’ailleurs le texte est extrêmement...
 
 <!-- id: s17-10-0154 -->
 
-> **ג** וַיִּצָּמֶד יִשְׂרָאֵל, לְבַעַל פְּעוֹר; וַיִּחַר-אַף יְהוָה, בְּיִשְׂרָאֵל.
->
-> *La colère de Dieu s’enflamme contre Israël.*
->
-> **ו** וְהִנֵּה אִישׁ מִבְּנֵי יִשְׂרָאֵל בָּא, וַיַּקְרֵב אֶל-אֶחָיו אֶת-הַמִּדְיָנִית, לְעֵינֵי מֹשֶׁה, וּלְעֵינֵי כָּל-עֲדַת בְּנֵי-יִשְׂרָאֵל; וְהֵמָּה בֹכִים, פֶּתַח אֹהֶל מוֹעֵד.
->
-> *Voici qu’un homme des enfants d’Israël* - et alors là un passage tout à fait curieux - « *Un homme des enfants d’Israël amène vers ses frères une Madianite sous les yeux de Moïse et, sous les yeux de toute l’assemblée des enfants d’Israël.* »
->
-> **ז** וַיַּרְא, פִּינְחָס בֶּן-אֶלְעָזָר, בֶּן-אַהֲרֹן, הַכֹּהֵן; וַיָּקָם מִתּוֹךְ הָעֵדָה, וַיִּקַּח רֹמַח בְּיָדוֹ.
->
-> « *À ce moment là le prêtre, Pinhas*...
->
-> l’ancêtre du sacerdoce de Jérusalem à l’époque royale, l’ancêtre fictif
->
-> **ח** וַיָּבֹא אַחַר אִישׁ-יִשְׂרָאֵל אֶל-הַקֻּבָּה, וַיִּדְקֹר אֶת-שְׁנֵיהֶם--אֵת אִישׁ יִשְׂרָאֵל, וְאֶת-הָאִשָּׁה אֶל-קֳבָתָהּ; וַתֵּעָצַר, הַמַּגֵּפָה, מֵעַל, בְּנֵי יִשְׂרָאֵל.
->
-> ...*Pinhas perce l’homme d’Israël, et la femme Madianite par le ventre et cela suspend un fléau*...
->
-> on ne sait pas trop lequel, probablement ça a l’air d’être *une peste*,
->
-> mais on n’est pas très sûr et le texte glisse là-dessus
->
-> ...*suspend un fléau, lequel fléau qui avait été déclenché pour punir, en punition de l’idolâtrie dans les plaines de Baal Péor.* »
+<div class="text-quotation">
+
+**ג** וַיִּצָּמֶד יִשְׂרָאֵל, לְבַעַל פְּעוֹר; וַיִּחַר-אַף יְהוָה, בְּיִשְׂרָאֵל.
+
+*La colère de Dieu s’enflamme contre Israël.*
+
+**ו** וְהִנֵּה אִישׁ מִבְּנֵי יִשְׂרָאֵל בָּא, וַיַּקְרֵב אֶל-אֶחָיו אֶת-הַמִּדְיָנִית, לְעֵינֵי מֹשֶׁה, וּלְעֵינֵי כָּל-עֲדַת בְּנֵי-יִשְׂרָאֵל; וְהֵמָּה בֹכִים, פֶּתַח אֹהֶל מוֹעֵד.
+
+*Voici qu’un homme des enfants d’Israël* - et alors là un passage tout à fait curieux - « *Un homme des enfants d’Israël amène vers ses frères une Madianite sous les yeux de Moïse et, sous les yeux de toute l’assemblée des enfants d’Israël.* »
+
+**ז** וַיַּרְא, פִּינְחָס בֶּן-אֶלְעָזָר, בֶּן-אַהֲרֹן, הַכֹּהֵן; וַיָּקָם מִתּוֹךְ הָעֵדָה, וַיִּקַּח רֹמַח בְּיָדוֹ.
+
+« *À ce moment là le prêtre, Pinhas*...
+
+l’ancêtre du sacerdoce de Jérusalem à l’époque royale, l’ancêtre fictif
+
+**ח** וַיָּבֹא אַחַר אִישׁ-יִשְׂרָאֵל אֶל-הַקֻּבָּה, וַיִּדְקֹר אֶת-שְׁנֵיהֶם--אֵת אִישׁ יִשְׂרָאֵל, וְאֶת-הָאִשָּׁה אֶל-קֳבָתָהּ; וַתֵּעָצַר, הַמַּגֵּפָה, מֵעַל, בְּנֵי יִשְׂרָאֵל.
+
+...*Pinhas perce l’homme d’Israël, et la femme Madianite par le ventre et cela suspend un fléau*...
+
+on ne sait pas trop lequel, probablement ça a l’air d’être *une peste*,
+
+mais on n’est pas très sûr et le texte glisse là-dessus
+
+...*suspend un fléau, lequel fléau qui avait été déclenché pour punir, en punition de l’idolâtrie dans les plaines de Baal Péor.* »
+
+</div>
 
 <!-- id: s17-10-0155 -->
 
@@ -656,9 +664,13 @@ Pinhas reçoit à ce moment-là *une alliance de sacerdoce*, c’est-à-dire la 
 
 <!-- id: s17-10-0157 -->
 
-> **יד** וְשֵׁם אִישׁ יִשְׂרָאֵל הַמֻּכֶּה, אֲשֶׁר הֻכָּה אֶת-הַמִּדְיָנִית--זִמְרִי, בֶּן-סָלוּא:  נְשִׂיא בֵית-אָב, לַשִּׁמְעֹנִי.
->
-> **טו** וְשֵׁם הָאִשָּׁה הַמֻּכָּה הַמִּדְיָנִית, כָּזְבִּי בַת-צוּר:  רֹאשׁ אֻמּוֹת בֵּית-אָב בְּמִדְיָן, הוּא.  {פ}
+<div class="text-quotation">
+
+**יד** וְשֵׁם אִישׁ יִשְׂרָאֵל הַמֻּכֶּה, אֲשֶׁר הֻכָּה אֶת-הַמִּדְיָנִית--זִמְרִי, בֶּן-סָלוּא:  נְשִׂיא בֵית-אָב, לַשִּׁמְעֹנִי.
+
+**טו** וְשֵׁם הָאִשָּׁה הַמֻּכָּה הַמִּדְיָנִית, כָּזְבִּי בַת-צוּר:  רֹאשׁ אֻמּוֹת בֵּית-אָב בְּמִדְיָן, הוּא.  {פ}
+
+</div>
 
 <!-- id: s17-10-0158 -->
 
@@ -666,9 +678,13 @@ Mais alors ici - c’est à partir du *verset 14 -* une autre indication qui par
 
 <!-- id: s17-10-0159 -->
 
-> « *L’homme d’Israël qui fut tué avec la Madianite s’appelait Zimri, fils de Salou,*
->
-> *il était prince, il était siméonite, et la femme madianite s’appelait Kozbi.* »
+<div class="text-quotation">
+
+« *L’homme d’Israël qui fut tué avec la Madianite s’appelait Zimri, fils de Salou,*
+
+*il était prince, il était siméonite, et la femme madianite s’appelait Kozbi.* »
+
+</div>
 
 <!-- id: s17-10-0160 -->
 
@@ -736,7 +752,7 @@ Le premier est au chapitre 5 ce sont les versets...*Osée chapitre V, 2...*
 
 <!-- id: s17-10-0176 -->
 
-> alors là il faut dire : je renonce à traduire l’hébreu de *Osée V,2*.
+alors là il faut dire : je renonce à traduire l’hébreu de *Osée V,2*.
 
 <!-- id: s17-10-0177 -->
 
@@ -752,11 +768,15 @@ Bon voilà *Osée V,1* :
 
 <!-- id: s17-10-0180 -->
 
-> **א** שִׁמְעוּ-זֹאת הַכֹּהֲנִים וְהַקְשִׁיבוּ בֵּית יִשְׂרָאֵל, וּבֵית הַמֶּלֶךְ הַאֲזִינוּ--כִּי לָכֶם, הַמִּשְׁפָּט:  כִּי-פַח הֱיִיתֶם לְמִצְפָּה, וְרֶשֶׁת פְּרוּשָׂה עַל-תָּבוֹר.
->
-> « *Écoutez ceci vous prêtres, soyez attentives maisons d’Israël, maisons du roi prêtez l’oreille.*
->
-> *C’était à vous de rendre Justice. Or vous avez été un piège à Micpa et un filet tendu sur le Tabor.* »
+<div class="text-quotation">
+
+**א** שִׁמְעוּ-זֹאת הַכֹּהֲנִים וְהַקְשִׁיבוּ בֵּית יִשְׂרָאֵל, וּבֵית הַמֶּלֶךְ הַאֲזִינוּ--כִּי לָכֶם, הַמִּשְׁפָּט:  כִּי-פַח הֱיִיתֶם לְמִצְפָּה, וְרֶשֶׁת פְּרוּשָׂה עַל-תָּבוֹר.
+
+« *Écoutez ceci vous prêtres, soyez attentives maisons d’Israël, maisons du roi prêtez l’oreille.*
+
+*C’était à vous de rendre Justice. Or vous avez été un piège à Micpa et un filet tendu sur le Tabor.* »
+
+</div>
 
 <!-- id: s17-10-0181 -->
 
@@ -788,9 +808,13 @@ Alors ensuite notre Bible - traduction aussi fidèle que possible - dit ceci : 
 
 <!-- id: s17-10-0188 -->
 
-> **ב** וְשַׁחֲטָה שֵׂטִים, הֶעְמִיקוּ; וַאֲנִי, מוּסָר לְכֻלָּם. 
->
-> « *Des infidèles ont creusé une fosse profonde.* »
+<div class="text-quotation">
+
+**ב** וְשַׁחֲטָה שֵׂטִים, הֶעְמִיקוּ; וַאֲנִי, מוּסָר לְכֻלָּם. 
+
+« *Des infidèles ont creusé une fosse profonde.* »
+
+</div>
 
 <!-- id: s17-10-0189 -->
 
@@ -870,9 +894,13 @@ Deuxième passage, donc nous disions : *Osée, IX, 7-l4*.
 
 <!-- id: s17-10-0208 -->
 
-> **ז** בָּאוּ יְמֵי הַפְּקֻדָּה, בָּאוּ יְמֵי הַשִּׁלֻּם--יֵדְעוּ, יִשְׂרָאֵל; אֱוִיל הַנָּבִיא, מְשֻׁגָּע אִישׁ הָרוּחַ--עַל רֹב עֲו‍ֹנְךָ, וְרַבָּה מַשְׂטֵמָה.
->
-> **ח** צֹפֶה אֶפְרַיִם, עִם-אֱלֹהָי; נָבִיא פַּח יָקוֹשׁ, עַל-כָּל-דְּרָכָיו--מַשְׂטֵמָה, בְּבֵית אֱלֹהָיו.
+<div class="text-quotation">
+
+**ז** בָּאוּ יְמֵי הַפְּקֻדָּה, בָּאוּ יְמֵי הַשִּׁלֻּם--יֵדְעוּ, יִשְׂרָאֵל; אֱוִיל הַנָּבִיא, מְשֻׁגָּע אִישׁ הָרוּחַ--עַל רֹב עֲו‍ֹנְךָ, וְרַבָּה מַשְׂטֵמָה.
+
+**ח** צֹפֶה אֶפְרַיִם, עִם-אֱלֹהָי; נָבִיא פַּח יָקוֹשׁ, עַל-כָּל-דְּרָכָיו--מַשְׂטֵמָה, בְּבֵית אֱלֹהָיו.
+
+</div>
 
 <!-- id: s17-10-0209 -->
 
@@ -880,13 +908,17 @@ C’est un passage qui semble parler du mépris dans lequel est tenu le prophèt
 
 <!-- id: s17-10-0210 -->
 
-> « *Les jours du châtiment sont arrivés, les jours de rendre compte sont arrivés. Qu’Israël la sache! Le prophè­te devient fou.*
->
-> *L’homme de l’esprit délire à cause de la grandeur de ton crime et de la grandeur de l’attaque que tu subis.*
->
-> *La sentinelle d’Ephraïm est avec mon Dieu, c’est le prophète.*
->
-> *On lui tend un piège sur tous ses chemins, on l’attaque jusque dans la maison de son Dieu.* »
+<div class="text-quotation">
+
+« *Les jours du châtiment sont arrivés, les jours de rendre compte sont arrivés. Qu’Israël la sache! Le prophè­te devient fou.*
+
+*L’homme de l’esprit délire à cause de la grandeur de ton crime et de la grandeur de l’attaque que tu subis.*
+
+*La sentinelle d’Ephraïm est avec mon Dieu, c’est le prophète.*
+
+*On lui tend un piège sur tous ses chemins, on l’attaque jusque dans la maison de son Dieu.* »
+
+</div>
 
 <!-- id: s17-10-0211 -->
 
@@ -910,9 +942,13 @@ Voilà, je vais recommencer à vous mettre le texte de la Bible sur une ligne et
 
 <!-- id: s17-10-0216 -->
 
-> « *Tshofe Ephraïm im elohaï.* *Navi pah iahoush al kol derekhai.* » Nom collectif
->
-> « *La sentinelle d’Ephraïm est avec mon Dieu et le prophète est un piège tendu sur tous ses chemins.* »
+<div class="text-quotation">
+
+« *Tshofe Ephraïm im elohaï.* *Navi pah iahoush al kol derekhai.* » Nom collectif
+
+« *La sentinelle d’Ephraïm est avec mon Dieu et le prophète est un piège tendu sur tous ses chemins.* »
+
+</div>
 
 <!-- id: s17-10-0217 -->
 
@@ -996,9 +1032,13 @@ Seulement il est quand même allé un peu plus loin que les autres, seulement il
 
 <!-- id: s17-10-0237 -->
 
-> **יג** וַיִּבְרַח יַעֲקֹב, שְׂדֵה אֲרָם; וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה, וּבְאִשָּׁה שָׁמָר.
->
-> « *Jacob s’est enfui aux plaines d’Aram* »
+<div class="text-quotation">
+
+**יג** וַיִּבְרַח יַעֲקֹב, שְׂדֵה אֲרָם; וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה, וּבְאִשָּׁה שָׁמָר.
+
+« *Jacob s’est enfui aux plaines d’Aram* »
+
+</div>
 
 <!-- id: s17-10-0238 -->
 
@@ -1006,11 +1046,15 @@ Allusion à l’épisode de *Genèse 29*.
 
 <!-- id: s17-10-0239 -->
 
-> « ...*Israël* - c’est-à-dire Jacob, c’est le même nom repris - *a servi* - a travaillé, si vous voulez - *pour une femme* - et là c’est Rachel -
->
-> *et pour une femme il s’est fait gardien de troupeau* - littéralement il a gardé : «* shamar *» -
->
-> *mais par un prophète le Seigneur a fait monter Israël hors d’Égypte et par un prophète Israël a été gardé*... (*« mishmar »*) ».
+<div class="text-quotation">
+
+« ...*Israël* - c’est-à-dire Jacob, c’est le même nom repris - *a servi* - a travaillé, si vous voulez - *pour une femme* - et là c’est Rachel -
+
+*et pour une femme il s’est fait gardien de troupeau* - littéralement il a gardé : «* shamar *» -
+
+*mais par un prophète le Seigneur a fait monter Israël hors d’Égypte et par un prophète Israël a été gardé*... (*« mishmar »*) ».
+
+</div>
 
 <!-- id: s17-10-0240 -->
 
@@ -1150,9 +1194,9 @@ D’abord, au lieu de «* reuteit *»...
 
 <!-- id: s17-10-0274 -->
 
-> ce mot lui a paru bizarre, effectivement il l’est puisqu’il ne se trouve qu’une seule fois dans la *Bible*,
->
-> donc s’il ne se trouve qu’une seule fois, on a tendance à croire qu’il n’a pas le droit d’exister, ...alors il lit tout simplement «* torati *», *ma loi* : « *quand Ephraïm disait ma loi*…
+ce mot lui a paru bizarre, effectivement il l’est puisqu’il ne se trouve qu’une seule fois dans la *Bible*,
+
+donc s’il ne se trouve qu’une seule fois, on a tendance à croire qu’il n’a pas le droit d’exister, ...alors il lit tout simplement «* torati *», *ma loi* : « *quand Ephraïm disait ma loi*…
 
 <!-- id: s17-10-0275 -->
 
@@ -1244,7 +1288,7 @@ Mais enfin vous voyez par quels artifices...
 
 <!-- id: s17-10-0297 -->
 
-> parce qu’on ne peut pas appeler ça autrement ...par quels artifices Sellin est arrivé à faire dire au texte d’*Osée* quelque chose qu’il n’a certainement jamais voulu dire, et qui n’a jamais été vu dans le texte d’*Osée*, ni par les anciens traducteurs, ni par les commentaires modernes dans leur ensemble, à l’exception de Sellin.
+parce qu’on ne peut pas appeler ça autrement ...par quels artifices Sellin est arrivé à faire dire au texte d’*Osée* quelque chose qu’il n’a certainement jamais voulu dire, et qui n’a jamais été vu dans le texte d’*Osée*, ni par les anciens traducteurs, ni par les commentaires modernes dans leur ensemble, à l’exception de Sellin.
 
 <!-- id: s17-10-0298 -->
 
@@ -1320,9 +1364,13 @@ Cette fois, il a gardé le verbe « *nasa* »
 
 <!-- id: s17-10-0316 -->
 
-> « *Il expia à cause du Baal et subit la mort.* »
->
-> « *Je rejetterai son sang sur toi et son opprobre, je te la revaudrai.* »
+<div class="text-quotation">
+
+« *Il expia à cause du Baal et subit la mort.* »
+
+« *Je rejetterai son sang sur toi et son opprobre, je te la revaudrai.* »
+
+</div>
 
 <!-- id: s17-10-0317 -->
 
@@ -1338,7 +1386,7 @@ Dans la pensée de Sellin, il n’est nulle part dit...
 
 <!-- id: s17-10-0320 -->
 
-> qu’à supposer le texte ayant la portée des chiffres et donc restituant un texte ayant certain sens ...il n’est nulle part dit que ce texte, si l’on peut dire, ou cette vocalisa­tion, pouvait être comprise de quiconque.
+qu’à supposer le texte ayant la portée des chiffres et donc restituant un texte ayant certain sens ...il n’est nulle part dit que ce texte, si l’on peut dire, ou cette vocalisa­tion, pouvait être comprise de quiconque.
 
 <!-- id: s17-10-0321 -->
 

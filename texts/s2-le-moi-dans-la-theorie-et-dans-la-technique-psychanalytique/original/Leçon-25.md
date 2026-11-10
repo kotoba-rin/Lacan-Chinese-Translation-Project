@@ -146,7 +146,7 @@ Il y a une tradition rabbinique, qui a un peu substantivé ce 3<sup>ème</sup> *
 
 <!-- id: s2-25-0036 -->
 
-> j’ex­plique d’abord un peu le sens, ça va mieux pour montrer pourquoi j’interprè­te en ce sens-là Saint JEAN aussi
+j’ex­plique d’abord un peu le sens, ça va mieux pour montrer pourquoi j’interprè­te en ce sens-là Saint JEAN aussi
 
 <!-- id: s2-25-0037 -->
 
@@ -594,7 +594,7 @@ C’est-à-dire si précisément *la conférence* que j’ai faite…
 
 <!-- id: s2-25-0148 -->
 
-> de l’année,
+de l’année,
 
 <!-- id: s2-25-0149 -->
 
@@ -1094,9 +1094,13 @@ Je suis pour l’instant à suivre le texte qui est *le début du chapitre III d
 
 <!-- id: s2-25-0273 -->
 
-> « *Le principal, au cours de ces efforts, par­vient à retomber sur les résistances du malade. L’art est maintenant de décou­vrir le plus vite possible ces résistances, de les montrer au malade et de le mou­voir, de le pousser par l’influence humaine - ici la place fut pour cette sugges­tion qui agit en tant que transfert - à l’amener à l’abandon de ces résistances. Le passage à la conscience, le devenir conscient de l’inconscient, même par cette voie, n’est pas toujours possible à attendre complètement. Tout ce souvenir n’est peut-être pas strictement l’essentiel, si on n’obtient pas en même temps la conviction, Überzeugung. *» \[Cf. éd. Payot p. 21\]
->
-> \[*Bei diesem Bemühen fiel das Hauptgewicht auf die Widerstände des Kranken; die Kunst war jetzt, diese baldigst aufzudecken, dem Kranken zu zeigen und ihn durch menschliche Beeinflussung (hier die Stelle für die als « Übertragung » wirkende Suggestion) zum Aufgeben der Widerstände zu bewegen. Dann aber wurde es immer deutlicher, daß das gesteckte Ziel, die Bewußtwerdung des Unbewußten, auch auf diesem Wege nicht voll erreichbar ist. Der Kranke kann von dem in ihm Verdrängten nicht alles erinnern, vielleicht gerade das Wesentliche nicht, und erwirbt so keine Überzeugung von der Richtigkeit der ihm mitgeteilten Konstruktion.*\]
+<div class="text-quotation">
+
+« *Le principal, au cours de ces efforts, par­vient à retomber sur les résistances du malade. L’art est maintenant de décou­vrir le plus vite possible ces résistances, de les montrer au malade et de le mou­voir, de le pousser par l’influence humaine - ici la place fut pour cette sugges­tion qui agit en tant que transfert - à l’amener à l’abandon de ces résistances. Le passage à la conscience, le devenir conscient de l’inconscient, même par cette voie, n’est pas toujours possible à attendre complètement. Tout ce souvenir n’est peut-être pas strictement l’essentiel, si on n’obtient pas en même temps la conviction, Überzeugung. *» \[Cf. éd. Payot p. 21\]
+
+\[*Bei diesem Bemühen fiel das Hauptgewicht auf die Widerstände des Kranken; die Kunst war jetzt, diese baldigst aufzudecken, dem Kranken zu zeigen und ihn durch menschliche Beeinflussung (hier die Stelle für die als « Übertragung » wirkende Suggestion) zum Aufgeben der Widerstände zu bewegen. Dann aber wurde es immer deutlicher, daß das gesteckte Ziel, die Bewußtwerdung des Unbewußten, auch auf diesem Wege nicht voll erreichbar ist. Der Kranke kann von dem in ihm Verdrängten nicht alles erinnern, vielleicht gerade das Wesentliche nicht, und erwirbt so keine Überzeugung von der Richtigkeit der ihm mitgeteilten Konstruktion.*\]
+
+</div>
 
 <!-- id: s2-25-0274 -->
 
@@ -1200,9 +1204,9 @@ Car si les êtres vivants restent dans une certaine forme…
 
 <!-- id: s2-25-0299 -->
 
-> c’est l’inspiration de FREUD en tout cas de le dire, c’est en cela qu’il n’est pas mystique, qu’il ne croit pas
->
-> qu’il y a de pouvoir morphogène en tant que tel, et comme primordial, dans la vie
+c’est l’inspiration de FREUD en tout cas de le dire, c’est en cela qu’il n’est pas mystique, qu’il ne croit pas
+
+qu’il y a de pouvoir morphogène en tant que tel, et comme primordial, dans la vie
 
 <!-- id: s2-25-0300 -->
 
@@ -1322,7 +1326,7 @@ En d’autres termes, c’est pour autant que *quelque chose de ce qui est en* S
 
 <!-- id: s2-25-0329 -->
 
-> *de toute structuration, sociale* ou autre.
+*de toute structuration, sociale* ou autre.
 
 <!-- id: s2-25-0330 -->
 
@@ -1350,7 +1354,7 @@ Qu’est-ce que ça veut dire ? Ça veut dire que quelque chose, une certaine pu
 
 <!-- id: s2-25-0336 -->
 
-> à quoi bon, sans ça, toutes ces cérémonies auxquelles nous nous livrons ?
+à quoi bon, sans ça, toutes ces cérémonies auxquelles nous nous livrons ?
 
 <!-- id: s2-25-0337 -->
 
@@ -1370,9 +1374,9 @@ Ce qui s’appelle « *transfert* » *se passe* très exactement à ce niveau-
 
 <!-- id: s2-25-0341 -->
 
-> qu’on traduit en cette occasion par *supériorité*, mais dont je soupçonne qu’il y a là *un jeu de mots*
->
-> en usage dans FREUD, comme la suite l’indique
+qu’on traduit en cette occasion par *supériorité*, mais dont je soupçonne qu’il y a là *un jeu de mots*
+
+en usage dans FREUD, comme la suite l’indique
 
 <!-- id: s2-25-0342 -->
 
@@ -1384,7 +1388,7 @@ C’est-à-dire que *c’est dans la fonction imaginaire du moi* comme tel - et 
 
 <!-- id: s2-25-0344 -->
 
-> parce qu’on peut prendre cette lampe dans son rôle réel, qui est souvent le rôle d’un amplificateur dans la réalité
+parce qu’on peut prendre cette lampe dans son rôle réel, qui est souvent le rôle d’un amplificateur dans la réalité
 
 <!-- id: s2-25-0345 -->
 
@@ -1396,9 +1400,9 @@ Et dans la mesure où ce procès en tant qu’il se passe par l’effet de trans
 
 <!-- id: s2-25-0347 -->
 
-> qui, vous le voyez est différent en lui-même et se passe ailleurs que là où se passe la tendance répétitive,
->
-> c’est-à-dire ce qui insiste, c’est-à-dire ce qui ne demande qu’à passer
+qui, vous le voyez est différent en lui-même et se passe ailleurs que là où se passe la tendance répétitive,
+
+c’est-à-dire ce qui insiste, c’est-à-dire ce qui ne demande qu’à passer
 
 <!-- id: s2-25-0348 -->
 
@@ -1450,7 +1454,7 @@ Qu’est-ce que c’est que cette histoire ? Qu’est-ce que c’est que ces suj
 
 <!-- id: s2-25-0360 -->
 
-> et il l’affirme, et cela a bien sa valeur chez lui, qui a inventé notre méthode
+et il l’affirme, et cela a bien sa valeur chez lui, qui a inventé notre méthode
 
 <!-- id: s2-25-0361 -->
 

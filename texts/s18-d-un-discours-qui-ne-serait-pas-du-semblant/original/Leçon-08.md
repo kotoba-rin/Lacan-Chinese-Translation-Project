@@ -10,7 +10,7 @@ Si je commence par l’abrupt en somme de ce que j’ai à vous dire, ça pourra
 
 <!-- id: s18-08-0002 -->
 
-> dans l’occasion le mien, le mien en tant que c’est *celui de l’analyste* ...disons que ça détermine des fonctions, en d’autres termes que *les fonctions ne sont déterminées qu’à partir d’un certain discours*.
+dans l’occasion le mien, le mien en tant que c’est *celui de l’analyste* ...disons que ça détermine des fonctions, en d’autres termes que *les fonctions ne sont déterminées qu’à partir d’un certain discours*.
 
 <!-- id: s18-08-0003 -->
 
@@ -62,7 +62,7 @@ Comment le faire, si ce n’est à rap­peler l’exemple de base dont je suis p
 
 <!-- id: s18-08-0015 -->
 
-> en tant que quoi ? *en tant que* - je l’ai dit - *elle a un effet féminisant* ...que j’ouvre mes *Écrits.*
+en tant que quoi ? *en tant que* - je l’ai dit - *elle a un effet féminisant* ...que j’ouvre mes *Écrits.*
 
 <!-- id: s18-08-0016 -->
 
@@ -74,7 +74,7 @@ Elle est très exemplaire, elle est très exemplaire en ceci que naturellement i
 
 <!-- id: s18-08-0018 -->
 
-> et encore, je pense que même au benêt l’idée ne lui est pas venue ...que *cette lettre est* quelque chose d’aussi sommaire, d’aussi grossier que quelque chose qui porterait le témoignage de ce qu’on appelle communé­ment *un rapport sexuel*.
+et encore, je pense que même au benêt l’idée ne lui est pas venue ...que *cette lettre est* quelque chose d’aussi sommaire, d’aussi grossier que quelque chose qui porterait le témoignage de ce qu’on appelle communé­ment *un rapport sexuel*.
 
 <!-- id: s18-08-0019 -->
 
@@ -82,9 +82,9 @@ Encore que ce soit écrit par un homme, et comme on dit et c’est souligné, pa
 
 <!-- id: s18-08-0020 -->
 
-> si je puis dire, c’est-à-dire de quelque chose de fondé
->
-> \- c’est la meilleure définition qu’on en puisse donner - sur *la distribution de la jouissance* ...il est de la tenue d’une Cour que dans cette distribution, *elle mette* ce qu’on appelle à proprement parler *le rapport sexuel* à son rang, c’est-à-dire bien évi­demment *le plus bas*.
+si je puis dire, c’est-à-dire de quelque chose de fondé
+
+\- c’est la meilleure définition qu’on en puisse donner - sur *la distribution de la jouissance* ...il est de la tenue d’une Cour que dans cette distribution, *elle mette* ce qu’on appelle à proprement parler *le rapport sexuel* à son rang, c’est-à-dire bien évi­demment *le plus bas*.
 
 <!-- id: s18-08-0021 -->
 
@@ -108,9 +108,9 @@ Où se voit évidemment ici...
 
 <!-- id: s18-08-0026 -->
 
-> dans un cadre qui, pour ne pas vous être spécialement présentifié dans la société actuelle,
->
-> n’en est pas moins exemplaire et fondamental pour ce qui est de raisonner des rapports sociaux, ...à quoi se voit, dis-je en somme qu’il n’y a rien de tel qu’un ordre fondé sur l’artifice pour y faire apparaître cet élément qui lui en apparence, est juste­ment celui qui doit paraître irréductible dans le *réel*, à savoir *la fonction du besoin*.
+dans un cadre qui, pour ne pas vous être spécialement présentifié dans la société actuelle,
+
+n’en est pas moins exemplaire et fondamental pour ce qui est de raisonner des rapports sociaux, ...à quoi se voit, dis-je en somme qu’il n’y a rien de tel qu’un ordre fondé sur l’artifice pour y faire apparaître cet élément qui lui en apparence, est juste­ment celui qui doit paraître irréductible dans le *réel*, à savoir *la fonction du besoin*.
 
 <!-- id: s18-08-0027 -->
 
@@ -118,9 +118,9 @@ Si je vous ai dit qu’il y a un ordre dans lequel il est tout à fait mis à sa
 
 <!-- id: s18-08-0028 -->
 
-> la Cour pour autant qu’elle redouble l’artefact déjà de la noblesse,
->
-> de ce second artefact *d’une distribution ordonnée de la jouissance* ...et c’est seulement là que peut décemment trouver sa place le besoin : le besoin expressément spécifié comme tel, est le besoin sexuel.
+la Cour pour autant qu’elle redouble l’artefact déjà de la noblesse,
+
+de ce second artefact *d’une distribution ordonnée de la jouissance* ...et c’est seulement là que peut décemment trouver sa place le besoin : le besoin expressément spécifié comme tel, est le besoin sexuel.
 
 <!-- id: s18-08-0029 -->
 
@@ -136,7 +136,7 @@ Mais ce qu’il y a de certain, c’est qu’*il n’est pas mesurable* tant qu�
 
 <!-- id: s18-08-0032 -->
 
-> et il ne peut l’être que dans l’artefact ...dans l’artefact de la relation à l’Autre avec un grand A.
+et il ne peut l’être que dans l’artefact ...dans l’artefact de la relation à l’Autre avec un grand A.
 
 <!-- id: s18-08-0033 -->
 
@@ -152,7 +152,7 @@ La différence entre les deux est celle-ci, c’est que...
 
 <!-- id: s18-08-0036 -->
 
-> c’est ce que Freud démontre, ce qu’il a apporté de décisif ...c’est que par l’intermédiaire de l’inconscient nous entre­voyons que tout ce qui est du langage
+c’est ce que Freud démontre, ce qu’il a apporté de décisif ...c’est que par l’intermédiaire de l’inconscient nous entre­voyons que tout ce qui est du langage
 
 <!-- id: s18-08-0037 -->
 
@@ -164,7 +164,7 @@ La différence entre les deux est celle-ci, c’est que...
 
 <!-- id: s18-08-0039 -->
 
-> du moins jusqu’à l’heure présente ...d’aucune façon s’y inscrire.
+du moins jusqu’à l’heure présente ...d’aucune façon s’y inscrire.
 
 <!-- id: s18-08-0040 -->
 
@@ -172,9 +172,9 @@ La prétendue sexualisation par la doctrine freudienne...
 
 <!-- id: s18-08-0041 -->
 
-> de ce qu’il en est des fonctions qu’on peut appeler *subjectives*,
->
-> à condition de les bien situer, de les situer de l’ordre du langage ...la prétendue sexualisation consiste essentiellement en ceci : que ce qui devrait résulter du langage, à savoir que la relation sexuelle d’une façon quel­conque puisse s’y inscrire, montre précisément - et ceci dans le fait - montre son échec : *elle n’est pas inscriptible*.
+de ce qu’il en est des fonctions qu’on peut appeler *subjectives*,
+
+à condition de les bien situer, de les situer de l’ordre du langage ...la prétendue sexualisation consiste essentiellement en ceci : que ce qui devrait résulter du langage, à savoir que la relation sexuelle d’une façon quel­conque puisse s’y inscrire, montre précisément - et ceci dans le fait - montre son échec : *elle n’est pas inscriptible*.
 
 <!-- id: s18-08-0042 -->
 
@@ -182,9 +182,9 @@ Vous voyez là déjà fonctionner ceci qui fait par­tie de cet effet d’écart
 
 <!-- id: s18-08-0043 -->
 
-> est-ce « *énoncé* » dans le langage ?
->
-> Mais justement ça n’est pas « *énoncé* » que j’ai dit : c’est « *inscriptible* » ...*inscriptible* en ceci que ce qui est exigible, que ce qui est exigible pour qu’il y ait fonction, c’est que *du langage* « *quelque chose » puisse se produire* qui est *l’écriture* expressément - comme telle - de la fonction, à savoir ce « *quelque chose »* que déjà je vous ai plus d’une fois symbolisé de la façon la plus simple, à savoir ceci : F dans *un certain rapport* avec *x* : F <sub>→</sub> *x*.
+est-ce « *énoncé* » dans le langage ?
+
+Mais justement ça n’est pas « *énoncé* » que j’ai dit : c’est « *inscriptible* » ...*inscriptible* en ceci que ce qui est exigible, que ce qui est exigible pour qu’il y ait fonction, c’est que *du langage* « *quelque chose » puisse se produire* qui est *l’écriture* expressément - comme telle - de la fonction, à savoir ce « *quelque chose »* que déjà je vous ai plus d’une fois symbolisé de la façon la plus simple, à savoir ceci : F dans *un certain rapport* avec *x* : F <sub>→</sub> *x*.
 
 <!-- id: s18-08-0044 -->
 
@@ -192,7 +192,7 @@ Donc, au moment de dire que le langage c’est ce « *quelque chose »* qui ne
 
 <!-- id: s18-08-0045 -->
 
-> car c’est en cela que cela consiste ...soit ce que je définis comme ins­cription effective de quelque chose qui serait *le rapport sexuel,* en tant qu’il mettrait en rapport les deux pôles, les deux termes qui s’intituleraient de *l’homme et de la femme,* en tant que cet *homme* et cette *femme* sont des sexes respectivement *spécifiés du masculin et du féminin* - chez qui, chez quoi ? - chez *un être qui parle.* Autrement dit, *qui habitant le langage,* se trouve en tirer cet usage qui est celui de *la parole*.
+car c’est en cela que cela consiste ...soit ce que je définis comme ins­cription effective de quelque chose qui serait *le rapport sexuel,* en tant qu’il mettrait en rapport les deux pôles, les deux termes qui s’intituleraient de *l’homme et de la femme,* en tant que cet *homme* et cette *femme* sont des sexes respectivement *spécifiés du masculin et du féminin* - chez qui, chez quoi ? - chez *un être qui parle.* Autrement dit, *qui habitant le langage,* se trouve en tirer cet usage qui est celui de *la parole*.
 
 <!-- id: s18-08-0046 -->
 
@@ -204,11 +204,15 @@ C’est en tant que quelque chose est improprement ici *symbolisé*, et typi­qu
 
 <!-- id: s18-08-0048 -->
 
-> et il n’est pas vain que précisément il ne puisse être incarné que dans *des êtres de fiction* ...c’est en tant que ceci, que le fait qu’une lettre, qu’une lettre lui soit adressée prend la valeur, prend la valeur que je désigne pour me lire, pour m’énoncer dans mes propres propos : « *ce signe*...
+et il n’est pas vain que précisément il ne puisse être incarné que dans *des êtres de fiction* ...c’est en tant que ceci, que le fait qu’une lettre, qu’une lettre lui soit adressée prend la valeur, prend la valeur que je désigne pour me lire, pour m’énoncer dans mes propres propos : « *ce signe*...
 
 <!-- id: s18-08-0049 -->
 
-> « *ce signe » *- *il s’agit de la lettre* ...*est bien celui de la femme pour ce qu’elle y fait valoir son être, en le fondant hors de la Loi,* *qui la contient toujours de par l’effet de ses origines, en position de signifiant, voire de fétiche.* »[^67].
+<div class="text-quotation">
+
+« *ce signe » *- *il s’agit de la lettre* ...*est bien celui de la femme pour ce qu’elle y fait valoir son être, en le fondant hors de la Loi,* *qui la contient toujours de par l’effet de ses origines, en position de signifiant, voire de fétiche.* »[^67].
+
+</div>
 
 <!-- id: s18-08-0050 -->
 
@@ -216,7 +220,7 @@ Il est clair que sans l’introduction de la psychanalyse, une telle énonciatio
 
 <!-- id: s18-08-0051 -->
 
-> qui est pourtant celle dont procède, je dirai la révolte de la femme ...une telle énonciation que de dire que *la Loi la contient toujours de par l’effet de ses origines en position de signi­fiant, voire de fétiche*, ne saurait... bien entendu, je le répète, hors de l’introduc­tion de la psychanalyse ...être énoncée.
+qui est pourtant celle dont procède, je dirai la révolte de la femme ...une telle énonciation que de dire que *la Loi la contient toujours de par l’effet de ses origines en position de signi­fiant, voire de fétiche*, ne saurait... bien entendu, je le répète, hors de l’introduc­tion de la psychanalyse ...être énoncée.
 
 <!-- id: s18-08-0052 -->
 
@@ -228,9 +232,9 @@ mettant en valeur, de la vérité*, la structure de fiction*, ...c’est à part
 
 <!-- id: s18-08-0054 -->
 
-> qui se pose sûrement d’être en rapport avec la déficience,
->
-> la défi­cience marquée d’une certaine promotion en quelque sorte arbitraire et fictive du rapport sexuel, ...et que c’est là que prenant sa valeur, elle pose sa question.
+qui se pose sûrement d’être en rapport avec la déficience,
+
+la défi­cience marquée d’une certaine promotion en quelque sorte arbitraire et fictive du rapport sexuel, ...et que c’est là que prenant sa valeur, elle pose sa question.
 
 <!-- id: s18-08-0055 -->
 
@@ -246,7 +250,7 @@ C’est à savoir que justement, dans son *essence*, c’est de ce que se promeu
 
 <!-- id: s18-08-0058 -->
 
-> laquelle est proprement *l’essence même du langage* ...que quelque chose peut se produire, qui est quoi ?
+laquelle est proprement *l’essence même du langage* ...que quelque chose peut se produire, qui est quoi ?
 
 <!-- id: s18-08-0059 -->
 
@@ -266,7 +270,7 @@ Il est clair qu’ici, quel que soit ce que nous a permis d’*inscrire*...
 
 <!-- id: s18-08-0063 -->
 
-> et vous verrez tout à l’heure ce que ça veut dire ...*le progrès de la logique*, je veux dire la voie écrite par où elle a progressé, il est clair que cette *butée* est tout à fait efficace de s’inscrire à l’intérieur même du *système de la fic­tion*, elle s’appelle la contradiction.
+et vous verrez tout à l’heure ce que ça veut dire ...*le progrès de la logique*, je veux dire la voie écrite par où elle a progressé, il est clair que cette *butée* est tout à fait efficace de s’inscrire à l’intérieur même du *système de la fic­tion*, elle s’appelle la contradiction.
 
 <!-- id: s18-08-0064 -->
 
@@ -294,7 +298,7 @@ Bien sûr, c’est là que se touche l’importance de cette notion : « *fonc
 
 <!-- id: s18-08-0070 -->
 
-> je veux dire de quelque chose qui se présen­tait sous forme littérale, ou littéraire ...*l’ombre pour être produite a besoin d’une source de lumière*... Oui !
+je veux dire de quelque chose qui se présen­tait sous forme littérale, ou littéraire ...*l’ombre pour être produite a besoin d’une source de lumière*... Oui !
 
 <!-- id: s18-08-0071 -->
 
@@ -306,9 +310,9 @@ Il est clair que ce qui fait *la lumière* \[*ie le rayonnement du (a) et son ef
 
 <!-- id: s18-08-0073 -->
 
-> dût-elle même avoir cet effet efficace de ce que ce qui y fait opacité pro­jette *une ombre*
->
-> *et que c’est cette ombre qui porte <u>effet</u>* \[*→ « effet de trou » d’où l’équivoque évoque, convoque, la jouissance *: *« effet de corps »*\] ...que cette *vérité elle-même* nous \[*analystes*\] avons toujours à l’interroger sur sa *structure de fiction*. \[*l’effet de trou qui voisine avec l’effet de sens*\]
+dût-elle même avoir cet effet efficace de ce que ce qui y fait opacité pro­jette *une ombre*
+
+*et que c’est cette ombre qui porte <u>effet</u>* \[*→ « effet de trou » d’où l’équivoque évoque, convoque, la jouissance *: *« effet de corps »*\] ...que cette *vérité elle-même* nous \[*analystes*\] avons toujours à l’interroger sur sa *structure de fiction*. \[*l’effet de trou qui voisine avec l’effet de sens*\]
 
 <!-- id: s18-08-0074 -->
 
@@ -356,19 +360,19 @@ Bien sûr je ne vais pas pour vous, reprendre...
 
 <!-- id: s18-08-0085 -->
 
-> encore que ce serait très instructif, ce serait très instructif mais après tout, chacun de vous peut bien
->
-> se donner seulement la peine d’ouvrir les « *Premiers Analytiques ».* Qu’ils se mettent à l’épreuve
->
-> de cette reprise, qu’ils ouvrent donc les « *Premiers Analytiques »,* et ils y verront ce qu’est le syllogisme,
->
-> et le syllogisme après tout il faut bien en partir, du moins est-ce là que je reprends les choses,
->
-> puisque, à notre avant-dernière rencontre, c’est là-dessus que j’ai terminé ...je ne vais pas le reprendre en l’exemplifiant...
+encore que ce serait très instructif, ce serait très instructif mais après tout, chacun de vous peut bien
+
+se donner seulement la peine d’ouvrir les « *Premiers Analytiques ».* Qu’ils se mettent à l’épreuve
+
+de cette reprise, qu’ils ouvrent donc les « *Premiers Analytiques »,* et ils y verront ce qu’est le syllogisme,
+
+et le syllogisme après tout il faut bien en partir, du moins est-ce là que je reprends les choses,
+
+puisque, à notre avant-dernière rencontre, c’est là-dessus que j’ai terminé ...je ne vais pas le reprendre en l’exemplifiant...
 
 <!-- id: s18-08-0086 -->
 
-> car pour ceci le temps nous limite ...en l’exemplifiant de toutes les formes de *syllogisme*.
+car pour ceci le temps nous limite ...en l’exemplifiant de toutes les formes de *syllogisme*.
 
 <!-- id: s18-08-0087 -->
 
@@ -388,9 +392,9 @@ Car si nous énonçons ceci - pour ne nous occuper que de *Darii* - que, pour em
 
 <!-- id: s18-08-0091 -->
 
-> à entendre ceci que je peux, sans plus, le rappeler - que *l’universelle* n’a, pour tenir, besoin de l’existence
->
-> d’aucun homme : « *Tout homme est bon* » peut vouloir dire qu’*il n’y a d’homme que bon*, tout ce qui n’est pas bon n’est pas homme, n’est-ce pas ?
+à entendre ceci que je peux, sans plus, le rappeler - que *l’universelle* n’a, pour tenir, besoin de l’existence
+
+d’aucun homme : « *Tout homme est bon* » peut vouloir dire qu’*il n’y a d’homme que bon*, tout ce qui n’est pas bon n’est pas homme, n’est-ce pas ?
 
 <!-- id: s18-08-0092 -->
 
@@ -406,7 +410,7 @@ Il est clair que ceci spécifiquement ne *tient* que de l’usage de la lettre, 
 
 <!-- id: s18-08-0095 -->
 
-> le « *Tout homme* » sujet de l’*Universelle* qui ici joue le rôle de ce qu’on appelle « *le moyen terme »* ...et ce même *moyen terme* à la place où il est employé comme attribut, à savoir que « *Quelques animaux sont des hommes* ».
+le « *Tout homme* » sujet de l’*Universelle* qui ici joue le rôle de ce qu’on appelle « *le moyen terme »* ...et ce même *moyen terme* à la place où il est employé comme attribut, à savoir que « *Quelques animaux sont des hommes* ».
 
 <!-- id: s18-08-0096 -->
 
@@ -434,7 +438,7 @@ Pour Platon elle en est au fondement : il n’y a pas de langage, d’articulat
 
 <!-- id: s18-08-0102 -->
 
-> puisque pour Platon le langage c’est le monde des *Idées* ...il n’y a pas d’articulation pos­sible sans cette idée primaire du *bien*.
+puisque pour Platon le langage c’est le monde des *Idées* ...il n’y a pas d’articulation pos­sible sans cette idée primaire du *bien*.
 
 <!-- id: s18-08-0103 -->
 
@@ -470,7 +474,7 @@ C’est bien en cela que nous sommes conduits à la fonction du *signifiant maî
 
 <!-- id: s18-08-0111 -->
 
-> je veux dire, ne rend possible ...qu’un certain nombre déterminé de *discours* et que tous ceux qu’au moins jusqu’à présent je vous ai articulés, spécialement l’année dernière, qu’aucun d’entre eux n’élimine la fonc­tion du *signifiant maître*.
+je veux dire, ne rend possible ...qu’un certain nombre déterminé de *discours* et que tous ceux qu’au moins jusqu’à présent je vous ai articulés, spécialement l’année dernière, qu’aucun d’entre eux n’élimine la fonc­tion du *signifiant maître*.
 
 <!-- id: s18-08-0112 -->
 
@@ -478,7 +482,7 @@ Dire « *Quelques animaux sont bons »* est évidemment dans ces conditions pa
 
 <!-- id: s18-08-0113 -->
 
-> quoi que, elle-même, elle puisse énoncer ...n’est pas du tout à réduire à une tautologie.
+quoi que, elle-même, elle puisse énoncer ...n’est pas du tout à réduire à une tautologie.
 
 <!-- id: s18-08-0114 -->
 
@@ -518,7 +522,7 @@ Vous savez qu’il est arrivé quelque chose...
 
 <!-- id: s18-08-0123 -->
 
-> ce qui d’ailleurs... il est très très beau que ça ait attendu quelque chose comme *un peu plus de 2000 ans* ...qu’il est arrivé quelque chose qui s’appelle *une réinscription* de ce 1<sup>er</sup> essai fait par le moyen *des trous portés à la bonne place*, à savoir par le remplacement des termes par *des lettres*, des *termes* dits majeur et mineur \[*lapsus*\]... *extrème* *et moyen* termes ! les termes dits *« extrême et moyens terme » *: majeure et mineure étant des *propositions*, je vous demande pardon de ce lapsus.
+ce qui d’ailleurs... il est très très beau que ça ait attendu quelque chose comme *un peu plus de 2000 ans* ...qu’il est arrivé quelque chose qui s’appelle *une réinscription* de ce 1<sup>er</sup> essai fait par le moyen *des trous portés à la bonne place*, à savoir par le remplacement des termes par *des lettres*, des *termes* dits majeur et mineur \[*lapsus*\]... *extrème* *et moyen* termes ! les termes dits *« extrême et moyens terme » *: majeure et mineure étant des *propositions*, je vous demande pardon de ce lapsus.
 
 <!-- id: s18-08-0124 -->
 
@@ -526,7 +530,7 @@ Alors vous savez qu’avec la logique inaugurée par les lois de Morgan et Boole
 
 <!-- id: s18-08-0125 -->
 
-> inaugurée seulement par eux, et non pas poussée à son dernier point ...nous sommes arrivés aux formules dites des *quantificateurs*.
+inaugurée seulement par eux, et non pas poussée à son dernier point ...nous sommes arrivés aux formules dites des *quantificateurs*.
 
 <!-- id: s18-08-0126 -->
 
@@ -550,7 +554,7 @@ Bon alors, je viens de faire ces petits ronds pour vous montrer que *la barre* n
 
 <!-- id: s18-08-0131 -->
 
-> ce qui ne voudrait d’ailleurs absolument rien dire ...et que *la barre* que vous trouvez dans la colonne de droite entre chacun, chacune des paires de F(x), cette barre est liée uniquement à l’F(x) qui ici est en dessous, c’est-à-dire signifie sa *négation*.
+ce qui ne voudrait d’ailleurs absolument rien dire ...et que *la barre* que vous trouvez dans la colonne de droite entre chacun, chacune des paires de F(x), cette barre est liée uniquement à l’F(x) qui ici est en dessous, c’est-à-dire signifie sa *négation*.
 
 <!-- id: s18-08-0132 -->
 
@@ -574,7 +578,7 @@ Je pense que je n’ai pas besoin ici de souligner...
 
 <!-- id: s18-08-0137 -->
 
-> pourtant il faut bien que je le fasse, sans ça tout ceci paraîtrait vide ...que la chose a tout à fait *son plein sens* en mathématiques, à savoir que justement en tant que nous restons dans *la lettre* où gît le pouvoir de la mathématique, cet *x* de droite en tant qu’il est inconnu, peut légitimement être posé, ou pas posé, comme pouvant trouver sa place dans ce qui se trouve être la fonction qui lui répond. C’est à savoir là où ce même x est pris comme *variable*. Pour aller vite, parce que je vous dis l’heure avance, je vais l’illustrer.
+pourtant il faut bien que je le fasse, sans ça tout ceci paraîtrait vide ...que la chose a tout à fait *son plein sens* en mathématiques, à savoir que justement en tant que nous restons dans *la lettre* où gît le pouvoir de la mathématique, cet *x* de droite en tant qu’il est inconnu, peut légitimement être posé, ou pas posé, comme pouvant trouver sa place dans ce qui se trouve être la fonction qui lui répond. C’est à savoir là où ce même x est pris comme *variable*. Pour aller vite, parce que je vous dis l’heure avance, je vais l’illustrer.
 
 <!-- id: s18-08-0138 -->
 
@@ -618,7 +622,7 @@ On n’en a pas assez dit car aussi bien pour ce qui est des rapports de « *Tou
 
 <!-- id: s18-08-0148 -->
 
-> dont on peut se satisfaire dans l’occasion ...à savoir qu’*il existe* des racines de l’équation du second degré qui satisfont à la fonction du *nombre réel*, et aussi qu’*il existe* des racines de l’équation du second degré qui n’y satisfont pas.
+dont on peut se satisfaire dans l’occasion ...à savoir qu’*il existe* des racines de l’équation du second degré qui satisfont à la fonction du *nombre réel*, et aussi qu’*il existe* des racines de l’équation du second degré qui n’y satisfont pas.
 
 <!-- id: s18-08-0149 -->
 
@@ -626,17 +630,17 @@ Mais dans un cas comme dans l’autre, ce qui en résulte...
 
 <!-- id: s18-08-0150 -->
 
-> loin que nous puissions voir ici la transposition purement formelle, l’homologie complète,
->
-> complète des *Universelles* et des *Particulières, affirmatives* et *négatives* respecti­vement ...c’est que, ce que ceci veut dire c’est non pas que la fonction n’est pas vraie...
+loin que nous puissions voir ici la transposition purement formelle, l’homologie complète,
+
+complète des *Universelles* et des *Particulières, affirmatives* et *négatives* respecti­vement ...c’est que, ce que ceci veut dire c’est non pas que la fonction n’est pas vraie...
 
 <!-- id: s18-08-0151 -->
 
-> qu’est-ce que ça peut vouloir dire qu’une fonction n’est pas vraie ?
->
-> Du moment que vous écrivez une fonction, elle est ce qu’elle est cette fonction,
->
-> même si elle déborde de beaucoup la fonction des *nombres réels* ...ceci veut dire que concernant l’inconnue que constitue la racine de l’équation du second degré, je ne peux pas écrire pour l’y loger, la fonction des *nombres réels*.
+qu’est-ce que ça peut vouloir dire qu’une fonction n’est pas vraie ?
+
+Du moment que vous écrivez une fonction, elle est ce qu’elle est cette fonction,
+
+même si elle déborde de beaucoup la fonction des *nombres réels* ...ceci veut dire que concernant l’inconnue que constitue la racine de l’équation du second degré, je ne peux pas écrire pour l’y loger, la fonction des *nombres réels*.
 
 <!-- id: s18-08-0152 -->
 
@@ -652,7 +656,7 @@ il existe un *x* à propos duquel...
 
 <!-- id: s18-08-0155 -->
 
-> il existe certains x, certaines racines de l’équation du second degré à propos desquelles ...*je peux écrire* la fonction dite des *nombres réels* en disant qu’elles y satisfont.
+il existe certains x, certaines racines de l’équation du second degré à propos desquelles ...*je peux écrire* la fonction dite des *nombres réels* en disant qu’elles y satisfont.
 
 <!-- id: s18-08-0156 -->
 
@@ -660,7 +664,7 @@ Il en est d’autres \[x\] à propos desquels...
 
 <!-- id: s18-08-0157 -->
 
-> il ne s’agit pas de nier la fonction des *nombres réels* ...à propos desquels *je ne peux pas* *écrire* la fonction des *nombres réels*.
+il ne s’agit pas de nier la fonction des *nombres réels* ...à propos desquels *je ne peux pas* *écrire* la fonction des *nombres réels*.
 
 <!-- id: s18-08-0158 -->
 
@@ -672,7 +676,7 @@ C’est que comme vous l’avez bien vu, *je glisse* tout natu­rellement...
 
 <!-- id: s18-08-0160 -->
 
-> à me fier au souvenir de ce qu’il s’agit de réarticuler ...*j’ai glissé à l’écrire*, à savoir que la fonction, avec sa petite barre au-dessus, symbolisait quelque chose de tout à fait inepte au regard de ce que j’avais effectivement à dire.
+à me fier au souvenir de ce qu’il s’agit de réarticuler ...*j’ai glissé à l’écrire*, à savoir que la fonction, avec sa petite barre au-dessus, symbolisait quelque chose de tout à fait inepte au regard de ce que j’avais effectivement à dire.
 
 <!-- id: s18-08-0161 -->
 
@@ -684,7 +688,7 @@ Essayons, quel parti peut-on tirer, qu’est-ce qu’on peut avoir à dire à pr
 
 <!-- id: s18-08-0163 -->
 
-> ce que nous n’avons jamais eu à faire jusqu’à présent ...la barre de la négation. Elle peut être *dite* ou bien *écrite*. Commençons par la dire :
+ce que nous n’avons jamais eu à faire jusqu’à présent ...la barre de la négation. Elle peut être *dite* ou bien *écrite*. Commençons par la dire :
 
 <!-- id: s18-08-0164 -->
 
@@ -720,9 +724,9 @@ Car après qu’aient subsisté pendant des temps concernant ce rapport, les str
 
 <!-- id: s18-08-0172 -->
 
-> bien entendu, j’entends - si je puis dire - une certaine *comprenette* se formuler* :*
->
-> *«* *eh, avec ce tiers terme, ça va tout seul !* » ...justement il y a un tiers terme, c’est pour ça qu’il doit y avoir un rapport !
+bien entendu, j’entends - si je puis dire - une certaine *comprenette* se formuler* :*
+
+*«* *eh, avec ce tiers terme, ça va tout seul !* » ...justement il y a un tiers terme, c’est pour ça qu’il doit y avoir un rapport !
 
 <!-- id: s18-08-0173 -->
 
@@ -746,9 +750,9 @@ C’est très difficile, bien sûr, d’imager ça, de montrer :
 
 <!-- id: s18-08-0178 -->
 
-> on peut être certain qu’il ne communiquera pas avec l’autre et inversement,
->
-> que c’est spécifiquement là ce qui est la caractéristique du tiers terme.
+on peut être certain qu’il ne communiquera pas avec l’autre et inversement,
+
+que c’est spécifiquement là ce qui est la caractéristique du tiers terme.
 
 <!-- id: s18-08-0179 -->
 
@@ -840,9 +844,9 @@ L’« *au moins un* » comme fonction essentielle du rapport en tant qu’il s
 
 <!-- id: s18-08-0201 -->
 
-> parce qu’elle est inaugurale, inaugurale d’une dimension
->
-> qui est très précisément celle sur laquelle j’ai insisté pour *un discours qui ne serait pas du semblant* ...l’*hommoinzun.*
+parce qu’elle est inaugurale, inaugurale d’une dimension
+
+qui est très précisément celle sur laquelle j’ai insisté pour *un discours qui ne serait pas du semblant* ...l’*hommoinzun.*
 
 ## Notes
 

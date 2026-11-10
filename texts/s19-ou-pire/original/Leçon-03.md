@@ -22,7 +22,7 @@ Au départ qu’il y ait *l’homme* et *la femme*...
 
 <!-- id: s19-03-0005 -->
 
-> c’est la thèse dont aujourd’hui je pars ...c’est d’abord affaire de langage.
+c’est la thèse dont aujourd’hui je pars ...c’est d’abord affaire de langage.
 
 <!-- id: s19-03-0006 -->
 
@@ -86,7 +86,7 @@ Vous savez, vous savez d’expérience, d’avoir ouvert seulement un livre qui 
 
 <!-- id: s19-03-0021 -->
 
-> la conduire où, et en la tenant par quel bout ? ...ou bien encore tel recours à une normalité dont se définirait le *rationnel*, indé­pendamment du *réel*.
+la conduire où, et en la tenant par quel bout ? ...ou bien encore tel recours à une normalité dont se définirait le *rationnel*, indé­pendamment du *réel*.
 
 <!-- id: s19-03-0022 -->
 
@@ -102,7 +102,7 @@ Alors puisque c’est là *ce dont prend son sens tout discours, à savoir à pa
 
 <!-- id: s19-03-0025 -->
 
-> la catégorie que dans la triade dont est parti mon enseignement : *le symbolique, l’imaginaire et le réel* ...*<u>le réel s’affirme</u>*, par un effet qui n’est pas le moindre de s’affirmer *<u>dans les impasses de la logique</u>*.
+la catégorie que dans la triade dont est parti mon enseignement : *le symbolique, l’imaginaire et le réel* ...*<u>le réel s’affirme</u>*, par un effet qui n’est pas le moindre de s’affirmer *<u>dans les impasses de la logique</u>*.
 
 <!-- id: s19-03-0026 -->
 
@@ -118,9 +118,9 @@ Et sans avoir ici aujourd’hui - où par accident je dois m’époumoner - à e
 
 <!-- id: s19-03-0029 -->
 
-> ce public est tout de même suffisamment averti d’où en notre temps a pu reprendre l’effort logique,
->
-> pour savoir qu’à aborder quelque chose en principe d’aussi sim­plifié comme *réel* que *l’arithmétique* ...il a pu être démontré que dans *l’arithmétique*, quelque chose peut toujours s’énoncer, offert ou non offert à la déduction logique, qui s’articule comme en avance sur ce dont les pré­misses, les axiomes, les termes fondateurs dont peut s’asseoir ladite arithmétique, permet de présumer comme *démontrable* ou *réfutable*. \[*cf. les deux théorèmes d’incomplètude de Gödel*\]
+ce public est tout de même suffisamment averti d’où en notre temps a pu reprendre l’effort logique,
+
+pour savoir qu’à aborder quelque chose en principe d’aussi sim­plifié comme *réel* que *l’arithmétique* ...il a pu être démontré que dans *l’arithmétique*, quelque chose peut toujours s’énoncer, offert ou non offert à la déduction logique, qui s’articule comme en avance sur ce dont les pré­misses, les axiomes, les termes fondateurs dont peut s’asseoir ladite arithmétique, permet de présumer comme *démontrable* ou *réfutable*. \[*cf. les deux théorèmes d’incomplètude de Gödel*\]
 
 <!-- id: s19-03-0030 -->
 
@@ -148,7 +148,7 @@ Il est depuis tou­jours apparu facile de lui démontrer à ce discours naïf «
 
 <!-- id: s19-03-0036 -->
 
-> à qui­conque énonce ce qui est toujours posé comme *vérité* ...que le sophiste lui démontre qu’« *il ne sait pas ce qu’il dit* ». C’est même là l’origine de toute *dialectique*.
+à qui­conque énonce ce qui est toujours posé comme *vérité* ...que le sophiste lui démontre qu’« *il ne sait pas ce qu’il dit* ». C’est même là l’origine de toute *dialectique*.
 
 <!-- id: s19-03-0037 -->
 
@@ -204,15 +204,15 @@ Ce qui accentue ce que je dis de la béance logicienne sur ce point là, point v
 
 <!-- id: s19-03-0050 -->
 
-> point vif en ce qu’il illustre ce que j’entends avancer ...c’est que si *le réel*...
+point vif en ce qu’il illustre ce que j’entends avancer ...c’est que si *le réel*...
 
 <!-- id: s19-03-0051 -->
 
-> assurément d’un accès facile ...peut se définir *comme l’impossible*...
+assurément d’un accès facile ...peut se définir *comme l’impossible*...
 
 <!-- id: s19-03-0052 -->
 
-> cet *impossible* en tant qu’il s’avère de la prise même du discours, du discours logicien ...*cet impossible-là, ce réel-là* doit être par nous privilégié.
+cet *impossible* en tant qu’il s’avère de la prise même du discours, du discours logicien ...*cet impossible-là, ce réel-là* doit être par nous privilégié.
 
 <!-- id: s19-03-0053 -->
 
@@ -280,9 +280,9 @@ Comme si, de plus, nous n’avions pas appris - appris déjà depuis un bout de 
 
 <!-- id: s19-03-0069 -->
 
-> au niveau non pas de ce que je viens de définir comme *le réel,*
->
-> mais au niveau de ce qui s’articule à l’intérieur de chaque scien­ce, son objet étant une fois défini ...que le sexe, il y a au moins deux ou trois étages de ce qui le constitue, du génotype au phénotype et qu’après tout, après les derniers pas de la biologie - est-ce que j’ai besoin d’évoquer lesquels ? - il est sûr que le sexe ne fait que prendre place comme un mode particulier dans ce qui permet la reproduction de ce qu’on appelle un corps vivant.
+au niveau non pas de ce que je viens de définir comme *le réel,*
+
+mais au niveau de ce qui s’articule à l’intérieur de chaque scien­ce, son objet étant une fois défini ...que le sexe, il y a au moins deux ou trois étages de ce qui le constitue, du génotype au phénotype et qu’après tout, après les derniers pas de la biologie - est-ce que j’ai besoin d’évoquer lesquels ? - il est sûr que le sexe ne fait que prendre place comme un mode particulier dans ce qui permet la reproduction de ce qu’on appelle un corps vivant.
 
 <!-- id: s19-03-0070 -->
 
@@ -290,7 +290,7 @@ Loin que le sexe en soit l’instru­ment type, il n’en est qu’une des forme
 
 <!-- id: s19-03-0071 -->
 
-> encore que Freud là-dessus ait donné l’indication, mais approximati­ve ...ce qu’on confond trop c’est très précisément la fonction du sexe et celle de la reproduction.
+encore que Freud là-dessus ait donné l’indication, mais approximati­ve ...ce qu’on confond trop c’est très précisément la fonction du sexe et celle de la reproduction.
 
 <!-- id: s19-03-0072 -->
 
@@ -306,7 +306,7 @@ Il n’y a donc pas d’un côté
 
 <!-- id: s19-03-0075 -->
 
-> le sexe imaginé comme l’image de ce qui dans la reproduction de la vie serait l’amour, il n’y a pas cela d’un côté
+le sexe imaginé comme l’image de ce qui dans la reproduction de la vie serait l’amour, il n’y a pas cela d’un côté
 
 <!-- id: s19-03-0076 -->
 
@@ -318,7 +318,7 @@ La reproduction de la vie telle que nous arrivons à l’interroger, au niveau d
 
 <!-- id: s19-03-0078 -->
 
-> et même à l’occasion de quelque chose de déjà vivant ...quelque chose inter­vient que nous appellerons « *le programme* » ou « *le codon »* encore, comme ils disent à propos de tel ou tel point repéré des chromosomes.
+et même à l’occasion de quelque chose de déjà vivant ...quelque chose inter­vient que nous appellerons « *le programme* » ou « *le codon »* encore, comme ils disent à propos de tel ou tel point repéré des chromosomes.
 
 <!-- id: s19-03-0079 -->
 
@@ -334,7 +334,7 @@ Et cela, ça a pour centre, ça a pour point de départ...
 
 <!-- id: s19-03-0082 -->
 
-> c’est ce que nous démontre le discours analytique ...ça a pour point de départ un rapport privilégié à *la jouissance sexuelle*.
+c’est ce que nous démontre le discours analytique ...ça a pour point de départ un rapport privilégié à *la jouissance sexuelle*.
 
 <!-- id: s19-03-0083 -->
 
@@ -386,7 +386,7 @@ Ce que je peux marquer, c’est la différence qu’il y a de cet usage des *pro
 
 <!-- id: s19-03-0095 -->
 
-> pour des besoins logiques, à savoir pour un abord qui n’était autre que de *ce réel qui s’appelle le nombre* ...à ce qui s’est passé de complètement différent.
+pour des besoins logiques, à savoir pour un abord qui n’était autre que de *ce réel qui s’appelle le nombre* ...à ce qui s’est passé de complètement différent.
 
 <!-- id: s19-03-0096 -->
 
@@ -394,7 +394,7 @@ L’analyse logique de ce qu’on appelle *fonction propositionnelle* s’articu
 
 <!-- id: s19-03-0097 -->
 
-> que nous appellerons comme vous le voulez X ou un A gothique \[;\] *–* ...tout argument de ce domaine, mis à la place laissée vide dans une proposition, y satisfera, c’est-à-dire lui donnera *valeur de vérité* \[; !\].
+que nous appellerons comme vous le voulez X ou un A gothique \[;\] *–* ...tout argument de ce domaine, mis à la place laissée vide dans une proposition, y satisfera, c’est-à-dire lui donnera *valeur de vérité* \[; !\].
 
 <!-- id: s19-03-0098 -->
 
@@ -406,7 +406,7 @@ C’est ce qui s’inscrit de ce qui est là en bas à gauche, ce A renversé X�
 
 <!-- id: s19-03-0100 -->
 
-> peu importe quelle est là la proposition ...la fonction prend une valeur vraie pour tout X du domaine.
+peu importe quelle est là la proposition ...la fonction prend une valeur vraie pour tout X du domaine.
 
 <!-- id: s19-03-0101 -->
 
@@ -534,7 +534,7 @@ C’est à savoir que rien ne peut approprier ce « *tous* » à ce « *pas 
 
 <!-- id: s19-03-0132 -->
 
-> entre ce qui fonde symboliquement la fonction argumentaire des termes : *l’homme* et *la femme* ...qu’il reste cette béance d’une indétermi­nation de leur rapport commun à *la jouissance* : *ce n’est pas du même ordre qu’ils se définissent par rapport à elle*.
+entre ce qui fonde symboliquement la fonction argumentaire des termes : *l’homme* et *la femme* ...qu’il reste cette béance d’une indétermi­nation de leur rapport commun à *la jouissance* : *ce n’est pas du même ordre qu’ils se définissent par rapport à elle*.
 
 <!-- id: s19-03-0133 -->
 
@@ -642,15 +642,15 @@ Je veux dire, je le dis pour tous les analystes...
 
 <!-- id: s19-03-0159 -->
 
-> ceux qui traînent, ceux qui tournent, empê­trés dans les rapports œdipiens du côté du père ...quand ils n’en sortent pas de ce qui se passe du côté du père, ça a une cause très précise, c’est qu’il faudrait que le sujet admette *que l’essence de la femme ça ne soit pas la castration*, et pour tout dire, que ce soit à partir du *réel*, à savoir : mis à part un petit rien insignifiant...
+ceux qui traînent, ceux qui tournent, empê­trés dans les rapports œdipiens du côté du père ...quand ils n’en sortent pas de ce qui se passe du côté du père, ça a une cause très précise, c’est qu’il faudrait que le sujet admette *que l’essence de la femme ça ne soit pas la castration*, et pour tout dire, que ce soit à partir du *réel*, à savoir : mis à part un petit rien insignifiant...
 
 <!-- id: s19-03-0160 -->
 
-> je ne dis pas ça au hasard ...ben, *elles sont pas castrables*, parce que *le phallus*...
+je ne dis pas ça au hasard ...ben, *elles sont pas castrables*, parce que *le phallus*...
 
 <!-- id: s19-03-0161 -->
 
-> dont je souligne que je n’ai point encore dit ce que c’est *...*eh bien elles ne l’ont pas.
+dont je souligne que je n’ai point encore dit ce que c’est *...*eh bien elles ne l’ont pas.
 
 <!-- id: s19-03-0162 -->
 
@@ -666,7 +666,7 @@ Est-ce que ceci ne vous suggère pas...
 
 <!-- id: s19-03-0165 -->
 
-> je le sème pour que ça puisse avoir ici la prochaine fois sa résonance ...que ce qui est en haut et à gauche, :§, l’« *au moins un »* en question, résulte d’une nécessité ?
+je le sème pour que ça puisse avoir ici la prochaine fois sa résonance ...que ce qui est en haut et à gauche, :§, l’« *au moins un »* en question, résulte d’une nécessité ?
 
 <!-- id: s19-03-0166 -->
 
@@ -694,7 +694,7 @@ Et c’est ce qui nous livre le sens du . c’est-à-dire du « *pas toutes* �
 
 <!-- id: s19-03-0172 -->
 
-> comme il en était tout à l’heu­re dans la colonne de gauche \[« *ce qui est en haut et à gauche *»\] ...veut dire le « *pas impossible » *: il n’est *pas impossible* que la femme connaisse la fonction phallique.
+comme il en était tout à l’heu­re dans la colonne de gauche \[« *ce qui est en haut et à gauche *»\] ...veut dire le « *pas impossible » *: il n’est *pas impossible* que la femme connaisse la fonction phallique.
 
 <!-- id: s19-03-0173 -->
 
@@ -742,9 +742,13 @@ Quant à dire que dans tout ce qu’a écrit Freud sur l’inconscient, la logiq
 
 <!-- id: s19-03-0184 -->
 
-> « *je l’aime elle, je ne l’aime pas lui* », toutes les façons qu’il y a de nier le « *je l’ai­me lui *»,
->
-> par exemple, c’est-à-dire par des voies grammaticales ...pour dire que l’inconscient n’est pas explorable par les voies d’une logique.
+<div class="text-quotation">
+
+« *je l’aime elle, je ne l’aime pas lui* », toutes les façons qu’il y a de nier le « *je l’ai­me lui *»,
+
+par exemple, c’est-à-dire par des voies grammaticales ...pour dire que l’inconscient n’est pas explorable par les voies d’une logique.
+
+</div>
 
 ## Notes
 

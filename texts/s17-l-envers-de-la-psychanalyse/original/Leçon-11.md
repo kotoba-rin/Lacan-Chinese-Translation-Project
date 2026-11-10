@@ -22,7 +22,7 @@ je veux dire cette sorte d’échange que nous avons été amenés à faire sur 
 
 <!-- id: s17-11-0005 -->
 
-> puisqu’on me posait la ques­tion et que cette question n’était pas du tout inepte ...méritaient d’être précisés.
+puisqu’on me posait la ques­tion et que cette question n’était pas du tout inepte ...méritaient d’être précisés.
 
 <!-- id: s17-11-0006 -->
 
@@ -34,11 +34,11 @@ Même les meilleurs de ceux qui ont parlé...
 
 <!-- id: s17-11-0008 -->
 
-> et à la vérité aucun n’était sans être justifié dans ses ques­tions ...même les meilleurs, au premier temps, m’ont paru être un peu à la traîne, à la traîne de quelque chose qui me semble se refléter dans ceci que...
+et à la vérité aucun n’était sans être justifié dans ses ques­tions ...même les meilleurs, au premier temps, m’ont paru être un peu à la traîne, à la traîne de quelque chose qui me semble se refléter dans ceci que...
 
 <!-- id: s17-11-0009 -->
 
-> au moins dans cette sorte d’interpellation familière qui n’était pas encore des questions, ...j’étais situé comme ça d’un certain nombre de références qui ne sont certes pas toutes à refuser puisqu’aussi bien la première était celle à Gorgias, dont soi-disant j’o­pérerais ici je ne sais quelle répétition. Pourquoi pas ?
+au moins dans cette sorte d’interpellation familière qui n’était pas encore des questions, ...j’étais situé comme ça d’un certain nombre de références qui ne sont certes pas toutes à refuser puisqu’aussi bien la première était celle à Gorgias, dont soi-disant j’o­pérerais ici je ne sais quelle répétition. Pourquoi pas ?
 
 <!-- id: s17-11-0010 -->
 
@@ -218,7 +218,7 @@ Car si ce signifiant unique...
 
 <!-- id: s17-11-0054 -->
 
-> le signifiant du *Maître,* à écrire comme vous voulez ...s’articule à quelque chose d’une pratique, qui est celle qu’il ordonne, cette pratique est déjà tissée, tramée, de ce qui, pas encore certes, ne s’en dégage, à savoir l’articula­tion signifiante qui est au principe de tout savoir, ne pût-il d’abord être abordé qu’en savoir-faire.
+le signifiant du *Maître,* à écrire comme vous voulez ...s’articule à quelque chose d’une pratique, qui est celle qu’il ordonne, cette pratique est déjà tissée, tramée, de ce qui, pas encore certes, ne s’en dégage, à savoir l’articula­tion signifiante qui est au principe de tout savoir, ne pût-il d’abord être abordé qu’en savoir-faire.
 
 <!-- id: s17-11-0055 -->
 
@@ -270,7 +270,7 @@ et comment savoir comment si c’était harmonieux ou pas ...la vie des hommes, 
 
 <!-- id: s17-11-0067 -->
 
-> de ce que j’ai appelé « sa féroce ignorance » ...du terme de « prostitution ».
+de ce que j’ai appelé « sa féroce ignorance » ...du terme de « prostitution ».
 
 <!-- id: s17-11-0068 -->
 
@@ -314,7 +314,7 @@ C’est de là qu’il faut partir dans l’expérience analytique, c’est que 
 
 <!-- id: s17-11-0078 -->
 
-> écrivez-le comme vous voudrez ...de ne s’inscrire qu’en castration, qui de fait est proprement à définir comme *privation de la femme*, de la femme en tant qu’elle se réaliserait dans un signifiant congru.
+écrivez-le comme vous voudrez ...de ne s’inscrire qu’en castration, qui de fait est proprement à définir comme *privation de la femme*, de la femme en tant qu’elle se réaliserait dans un signifiant congru.
 
 <!-- id: s17-11-0079 -->
 
@@ -370,7 +370,7 @@ Mais là encore, il y a une erreur de ponctuation : l’*ergo...*
 
 <!-- id: s17-11-0092 -->
 
-> il y a longtemps que j’ai exprimée ainsi l’*ergo* qui n’est rien d’autre que l’*ego* en jeu ...est à mettre *du côté du cogito *: le «* je pense *: *‘donc Je suis’* »» voilà qui donne sa vraie portée à la formule, la cause, l’*ergo* est «* pensée *».
+il y a longtemps que j’ai exprimée ainsi l’*ergo* qui n’est rien d’autre que l’*ego* en jeu ...est à mettre *du côté du cogito *: le «* je pense *: *‘donc Je suis’* »» voilà qui donne sa vraie portée à la formule, la cause, l’*ergo* est «* pensée *».
 
 <!-- id: s17-11-0093 -->
 
@@ -382,7 +382,7 @@ Le *trait unaire*, certes n’est jamais seul, donc le fait qu’il se répète.
 
 <!-- id: s17-11-0095 -->
 
-> qu’il se répète à n’être *jamais le même* ...est proprement l’ordre même, celui dont il s’agit de ce que le langage soit présent, présent et déjà là, déjà efficace.
+qu’il se répète à n’être *jamais le même* ...est proprement l’ordre même, celui dont il s’agit de ce que le langage soit présent, présent et déjà là, déjà efficace.
 
 <!-- id: s17-11-0096 -->
 
@@ -574,19 +574,19 @@ Le *sensus* n’est là qu’en manière de *ce quelque chose qui peut se compte
 
 <!-- id: s17-11-0143 -->
 
-> à le prendre par exemple au niveau de l’oreille ou de l’œil ...aboutit à une numération de vibrations, et que c’est bien pour autant que nous nous sommes...
+à le prendre par exemple au niveau de l’oreille ou de l’œil ...aboutit à une numération de vibrations, et que c’est bien pour autant que nous nous sommes...
 
 <!-- id: s17-11-0144 -->
 
-> grâce à ce jeu, à ce jeu du nombre ...que nous nous sommes mis à produire bel et bien des vibrations qui n’avaient rien à faire *ni avec nos sens ni avec notre perception*, que le monde, le monde qui était présumé être le nôtre de toujours, est maintenant, ce même monde *peuplé*...
+grâce à ce jeu, à ce jeu du nombre ...que nous nous sommes mis à produire bel et bien des vibrations qui n’avaient rien à faire *ni avec nos sens ni avec notre perception*, que le monde, le monde qui était présumé être le nôtre de toujours, est maintenant, ce même monde *peuplé*...
 
 <!-- id: s17-11-0145 -->
 
-> comme je le disais l’autre jour sur les marches du Panthéon ...*peuplé,* à la place même où nous sommes, d’un nombre considérable, et s’entrecroisant sans que vous en ayez le moindre soupçon, de ce *quelque chose* qui s’appelle *des ondes* et qui ne sont tout de même pas à négliger comme manifestation, présence, exis­tence de *quelque chose* qui est la science et qui tout de même nécessiterait qu’à parler autour de notre terre d’atmosphère où de stratosphère...
+comme je le disais l’autre jour sur les marches du Panthéon ...*peuplé,* à la place même où nous sommes, d’un nombre considérable, et s’entrecroisant sans que vous en ayez le moindre soupçon, de ce *quelque chose* qui s’appelle *des ondes* et qui ne sont tout de même pas à négliger comme manifestation, présence, exis­tence de *quelque chose* qui est la science et qui tout de même nécessiterait qu’à parler autour de notre terre d’atmosphère où de stratosphère...
 
 <!-- id: s17-11-0146 -->
 
-> ou de tout ce qu’il vous plaira de *sphériser* aussi loin que nous pouvons appréhender des particules ...de tenir compte aussi, et de nos jours, à notre époque allant bien au-delà, de ce *quelque chose* qui est l’effet de quoi ?
+ou de tout ce qu’il vous plaira de *sphériser* aussi loin que nous pouvons appréhender des particules ...de tenir compte aussi, et de nos jours, à notre époque allant bien au-delà, de ce *quelque chose* qui est l’effet de quoi ?
 
 <!-- id: s17-11-0147 -->
 
@@ -594,7 +594,7 @@ Moins *d’un savoir* qui aurait progressé de son propre filtrage, de sa critiq
 
 <!-- id: s17-11-0148 -->
 
-> d’autres en choisiront d’autres ...l’artifice d’en *remettre à Dieu la garantie de la vérité *: s’il y a une vérité, qu’il s’en charge, nous la prenons à sa valeur faciale.
+d’autres en choisiront d’autres ...l’artifice d’en *remettre à Dieu la garantie de la vérité *: s’il y a une vérité, qu’il s’en charge, nous la prenons à sa valeur faciale.
 
 <!-- id: s17-11-0149 -->
 
@@ -630,13 +630,13 @@ Et s’il m’est permis ici d’avancer d’un *soc de charrue* un peu rude, si
 
 <!-- id: s17-11-0157 -->
 
-> ce qui veut dire bien sûr que je déchoie à faire comme si j’en avais une, car ce n’est précisément pas de ça
->
-> qu’il s’agit, mais comme chacun sait, c’est la pensée qui se communique par le malenten­du, bien entendu ...alors faisons de *la communication* et disons que ce en quoi consiste cette version, cette conversion, par quoi la science à la fois s’avère comme distincte de toute « *théorie de la connaissance* », ce qui ne veut rien dire parce qu’il n’y a justement qu’à la lumière de l’appareil...
+ce qui veut dire bien sûr que je déchoie à faire comme si j’en avais une, car ce n’est précisément pas de ça
+
+qu’il s’agit, mais comme chacun sait, c’est la pensée qui se communique par le malenten­du, bien entendu ...alors faisons de *la communication* et disons que ce en quoi consiste cette version, cette conversion, par quoi la science à la fois s’avère comme distincte de toute « *théorie de la connaissance* », ce qui ne veut rien dire parce qu’il n’y a justement qu’à la lumière de l’appareil...
 
 <!-- id: s17-11-0158 -->
 
-> pour autant que nous pouvons l’appréhender ...de la science, que nous pouvons fonder ce qu’il en était des erreurs des butées, des confusions qui ne manquaient pas en effet de se présenter dans ce qui s’articulait comme « connaissance » avec cette sous-jacence qu’il y avait là deux principes à scinder :
+pour autant que nous pouvons l’appréhender ...de la science, que nous pouvons fonder ce qu’il en était des erreurs des butées, des confusions qui ne manquaient pas en effet de se présenter dans ce qui s’articulait comme « connaissance » avec cette sous-jacence qu’il y avait là deux principes à scinder :
 
 <!-- id: s17-11-0159 -->
 
@@ -656,11 +656,11 @@ Inversement, au niveau du principe prétendu « *naturel »* dont ce n’est p
 
 <!-- id: s17-11-0163 -->
 
-> au mauvais sens du mot ...d’une référence femelle, c’est au contraire de *l’insubstance*, comme je l’ai dit tout à l’heure, que *ce vide*, dont assurément le *quelque chose* dont il s’agit, si nous voulons, très à distance, très lointainement, lui donner *l’horizon de la femme*, c’est dans ce que de jouissance *informée* précisément, *sans forme*, qu’il s’agit, que nous pouvons trouver la place, la place où vient s’édifier dans l’« *opère-soi* » de la science...
+au mauvais sens du mot ...d’une référence femelle, c’est au contraire de *l’insubstance*, comme je l’ai dit tout à l’heure, que *ce vide*, dont assurément le *quelque chose* dont il s’agit, si nous voulons, très à distance, très lointainement, lui donner *l’horizon de la femme*, c’est dans ce que de jouissance *informée* précisément, *sans forme*, qu’il s’agit, que nous pouvons trouver la place, la place où vient s’édifier dans l’« *opère-soi* » de la science...
 
 <!-- id: s17-11-0164 -->
 
-> car ce « *je perçois* » prétendu originel doit être remplacé par un *opère-soi* ...c’est en tant que la science ne se réfère qu’à une articula­tion \[*signifiante*\], ne se prend *que de l’ordre signifiant,* qu’elle se construit de *quelque chose* dont il n’y avait rien avant.
+car ce « *je perçois* » prétendu originel doit être remplacé par un *opère-soi* ...c’est en tant que la science ne se réfère qu’à une articula­tion \[*signifiante*\], ne se prend *que de l’ordre signifiant,* qu’elle se construit de *quelque chose* dont il n’y avait rien avant.
 
 <!-- id: s17-11-0165 -->
 
@@ -680,7 +680,7 @@ Pourquoi ne pas faire la part aussi du lieu où se situent ces fabrications...
 
 <!-- id: s17-11-0169 -->
 
-> là encore j’accentue trop ce que je veux dire ...ces fabrications de la science, si elles ne sont rien d’autre que *l’effet d’une vérité formalisée*, comment allons-nous l’appeler ?
+là encore j’accentue trop ce que je veux dire ...ces fabrications de la science, si elles ne sont rien d’autre que *l’effet d’une vérité formalisée*, comment allons-nous l’appeler ?
 
 <!-- id: s17-11-0170 -->
 
@@ -728,7 +728,7 @@ Même ceux auxquels il est arrivé au dernier moment, au dernier temps, quelques
 
 <!-- id: s17-11-0181 -->
 
-> je ne parle même pas de leurs rapports avec leurs petites machines ...ils s’en seraient bien tirés tout seuls peut-être, mais du fait qu’ils étaient tout le temps accompagnés de ce *petit(a)* de la voix humaine simplement : après tout ils pouvaient se permettre de ne dire que des conneries, par exemple que tout allait bien \[*Rires*\] quand tout allait mal ! Mais qu’importe !
+je ne parle même pas de leurs rapports avec leurs petites machines ...ils s’en seraient bien tirés tout seuls peut-être, mais du fait qu’ils étaient tout le temps accompagnés de ce *petit(a)* de la voix humaine simplement : après tout ils pouvaient se permettre de ne dire que des conneries, par exemple que tout allait bien \[*Rires*\] quand tout allait mal ! Mais qu’importe !
 
 <!-- id: s17-11-0182 -->
 
@@ -752,9 +752,9 @@ La preuve, c’est que cette voix humaine avec son effet comme ça de vous soute
 
 <!-- id: s17-11-0187 -->
 
-> parce qu’après tout il n’y a que les philosophes pour s’aviser de choses pareilles,
->
-> les philosophes et puis peut-être les linguistes ...on va appeler ça des *« lathouses ».* \[*Rires*\]
+parce qu’après tout il n’y a que les philosophes pour s’aviser de choses pareilles,
+
+les philosophes et puis peut-être les linguistes ...on va appeler ça des *« lathouses ».* \[*Rires*\]
 
 <!-- id: s17-11-0188 -->
 
@@ -822,7 +822,7 @@ Un jour où il s’agissait de me monnayer, j’ai essayé d’avancer quel­que
 
 <!-- id: s17-11-0204 -->
 
-> bien sûr dans une indifférence absolue puisqu’on était occupé par ce qui se passait dans les couloirs ...j’ai avancé qu’il n’y a pas de raison qu’une psychanalyse cause de l’angoisse, puisque c’est à ça qu’on a affaire, et qu’ il est bien certain que s’il y a la *lathouse*, ça montre que *l’angoisse* - et c’est de là que je suis parti - *elle n’est pas sans objet*, qu’une meilleure approche de la *lathouse* doit un tout petit peu nous calmer.
+bien sûr dans une indifférence absolue puisqu’on était occupé par ce qui se passait dans les couloirs ...j’ai avancé qu’il n’y a pas de raison qu’une psychanalyse cause de l’angoisse, puisque c’est à ça qu’on a affaire, et qu’ il est bien certain que s’il y a la *lathouse*, ça montre que *l’angoisse* - et c’est de là que je suis parti - *elle n’est pas sans objet*, qu’une meilleure approche de la *lathouse* doit un tout petit peu nous calmer.
 
 <!-- id: s17-11-0205 -->
 
@@ -870,7 +870,7 @@ C’est pour ça... je sais qu’il y a ici quelques personnes qui *s’affecten
 
 <!-- id: s17-11-0216 -->
 
-> enfin je ne sais pas comme on dit ...*invectiver*, *interpeler*, *vociférer* contre les analystes.
+enfin je ne sais pas comme on dit ...*invectiver*, *interpeler*, *vociférer* contre les analystes.
 
 <!-- id: s17-11-0217 -->
 

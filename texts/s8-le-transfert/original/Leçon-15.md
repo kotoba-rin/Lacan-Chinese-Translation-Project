@@ -206,9 +206,9 @@ Et aussi bien cet *habeo* introduit au *debeo* de la dette symbolique, à un *ha
 
 <!-- id: s8-15-0051 -->
 
-> et c’est ici que je veux aujourd’hui seulement vous retenir au bord de ce qui résulte de cette articulation,
->
-> lente sans doute, mais faite justement pour que vous n’y précipitiez pas à l’excès votre marche …*l’objet dont il s’agit*, disjoint du désir, *l’objet phallus*, *n’est pas la simple spécification, l’homologue*, l’homonyme du *petit(a) imaginaire* où déchoit la plénitude de l’Autre, du grand A. Ce n’est pas une spécification enfin venue au jour de ce qui aurait été auparavant l’objet oral, puis l’objet anal.
+et c’est ici que je veux aujourd’hui seulement vous retenir au bord de ce qui résulte de cette articulation,
+
+lente sans doute, mais faite justement pour que vous n’y précipitiez pas à l’excès votre marche …*l’objet dont il s’agit*, disjoint du désir, *l’objet phallus*, *n’est pas la simple spécification, l’homologue*, l’homonyme du *petit(a) imaginaire* où déchoit la plénitude de l’Autre, du grand A. Ce n’est pas une spécification enfin venue au jour de ce qui aurait été auparavant l’objet oral, puis l’objet anal.
 
 <!-- id: s8-15-0052 -->
 
@@ -220,9 +220,9 @@ En d’autres termes, *le petit(a)*...
 
 <!-- id: s8-15-0054 -->
 
-> au niveau du désir génital et de la phase de la castration,
->
-> dont tout ceci - vous le percevez bien - est fait pour vous introduire l’articulation précise
+au niveau du désir génital et de la phase de la castration,
+
+dont tout ceci - vous le percevez bien - est fait pour vous introduire l’articulation précise
 
 <!-- id: s8-15-0055 -->
 

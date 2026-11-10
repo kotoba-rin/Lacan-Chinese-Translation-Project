@@ -30,11 +30,11 @@ Enfin que signifie même le terme de défense à propos des *neuro-psychoses*, s
 
 <!-- id: s6-01-0007 -->
 
-> au centre de laquelle il est suffisant d’indiquer que la notion de *libido* se situe, qui n’est point autre chose que *l’énergie psychique du désir*, c’est quelque chose – s’il s’agit d’énergie – dans quoi…
->
-> je l’ai déjà indiqué en passant, rappelez-vous autrefois la métaphore de l’usine
->
-> …certaines conjonctions du *symbolique* et du *réel* sont nécessaires pour que même subsiste la notion d’énergie. Mais je ne veux pas ici, ni m’arrêter ni m’appesantir
+au centre de laquelle il est suffisant d’indiquer que la notion de *libido* se situe, qui n’est point autre chose que *l’énergie psychique du désir*, c’est quelque chose – s’il s’agit d’énergie – dans quoi…
+
+je l’ai déjà indiqué en passant, rappelez-vous autrefois la métaphore de l’usine
+
+…certaines conjonctions du *symbolique* et du *réel* sont nécessaires pour que même subsiste la notion d’énergie. Mais je ne veux pas ici, ni m’arrêter ni m’appesantir
 
 <!-- id: s6-01-0008 -->
 
@@ -46,9 +46,9 @@ Voici que depuis quelque temps, nous la voyons de plus en plus orientée vers *q
 
 <!-- id: s6-01-0010 -->
 
-> au moins pour les plus conscients d’entre eux ayant emprunté à FAIRBAIRN, parce qu’il l’écrit
->
-> à plusieurs reprises, parce qu’il ne cesse d’articuler ni de l’écrire, nommément dans le recueil qui s’appelle *Psychoanalytic Studies of the Personality*
+au moins pour les plus conscients d’entre eux ayant emprunté à FAIRBAIRN, parce qu’il l’écrit
+
+à plusieurs reprises, parce qu’il ne cesse d’articuler ni de l’écrire, nommément dans le recueil qui s’appelle *Psychoanalytic Studies of the Personality*
 
 <!-- id: s6-01-0011 -->
 
@@ -76,9 +76,9 @@ D’autre part, si nous *réintroduisons* aussi *ce mot* « *désir* »…
 
 <!-- id: s6-01-0017 -->
 
-> là où nous déterminons comme « *affectivité* », comme « *sentiment positif ou négatif* », sont employés couramment dans une sorte d’approche honteuse – si l’on peut dire – des forces encore efficaces, et nommément par
->
-> la relation analytique, par le transfert
+là où nous déterminons comme « *affectivité* », comme « *sentiment positif ou négatif* », sont employés couramment dans une sorte d’approche honteuse – si l’on peut dire – des forces encore efficaces, et nommément par
+
+la relation analytique, par le transfert
 
 <!-- id: s6-01-0018 -->
 
@@ -114,7 +114,7 @@ S’il est vrai…
 
 <!-- id: s6-01-0026 -->
 
-> comme c’est ce qui sera toute la suite de mon développement cette année
+comme c’est ce qui sera toute la suite de mon développement cette année
 
 <!-- id: s6-01-0027 -->
 
@@ -166,7 +166,7 @@ Je veux plus ou moins m’arrêter à ce qui a été, à cet endroit, *la positi
 
 <!-- id: s6-01-0039 -->
 
-> j’ai pris soin de vous écrire là-haut ces trois termes « *pleasure-seeking* », « *object-seeking* »
+j’ai pris soin de vous écrire là-haut ces trois termes « *pleasure-seeking* », « *object-seeking* »
 
 <!-- id: s6-01-0040 -->
 
@@ -182,7 +182,7 @@ Remarquez au passage en fin de compte *la base de toute morale* que l’on pourr
 
 <!-- id: s6-01-0043 -->
 
-> qui s’est exprimée jusqu’à présent, jusqu’à un certain point dans la tradition philosophique
+qui s’est exprimée jusqu’à présent, jusqu’à un certain point dans la tradition philosophique
 
 <!-- id: s6-01-0044 -->
 
@@ -222,7 +222,7 @@ Mais pour ce qui est du « *désir* », vous verrez à quel point ARISTOTE[^3]
 
 <!-- id: s6-01-0053 -->
 
-> il est *fort lucide* et *fort conscient* que ce qui résulte de cette théorisation morale *pratique et théorique*
+il est *fort lucide* et *fort conscient* que ce qui résulte de cette théorisation morale *pratique et théorique*
 
 <!-- id: s6-01-0054 -->
 
@@ -230,7 +230,7 @@ Mais pour ce qui est du « *désir* », vous verrez à quel point ARISTOTE[^3]
 
 <!-- id: s6-01-0055 -->
 
-> au-delà d’une certaine limite qui est précisément la limite de la maîtrise et du *moi*
+au-delà d’une certaine limite qui est précisément la limite de la maîtrise et du *moi*
 
 <!-- id: s6-01-0056 -->
 
@@ -258,7 +258,7 @@ Ces textes valent la peine d’être rappelés. Vous vous y éclairerez à vous 
 
 <!-- id: s6-01-0062 -->
 
-> nommer comme - à mes yeux - *le précurseur de ce quelque chose* que je crois être nouveau, qu’il nous faut considérer comme nouveau dans, disons *le progrès*, le sens de certains rapports de l’homme à lui-même, qui est celui de l’analyse que FREUD constitue
+nommer comme - à mes yeux - *le précurseur de ce quelque chose* que je crois être nouveau, qu’il nous faut considérer comme nouveau dans, disons *le progrès*, le sens de certains rapports de l’homme à lui-même, qui est celui de l’analyse que FREUD constitue
 
 <!-- id: s6-01-0063 -->
 
@@ -282,9 +282,9 @@ On pourrait déjà beaucoup faire à partir de là pour articuler *ce qui dans c
 
 <!-- id: s6-01-0068 -->
 
-> je vous le donne comme témoignage très singulier, sans doute personnellement j’ai peut–être plus
->
-> de propension qu’un autre, et dans des temps très anciens j’ai beaucoup pratiqué SPINOZA
+je vous le donne comme témoignage très singulier, sans doute personnellement j’ai peut–être plus
+
+de propension qu’un autre, et dans des temps très anciens j’ai beaucoup pratiqué SPINOZA
 
 <!-- id: s6-01-0069 -->
 
@@ -300,7 +300,7 @@ Ouvrez le dictionnaire du charmant défunt LALANDE, *Vocabulaire Philosophique* 
 
 <!-- id: s6-01-0072 -->
 
-> en toute espèce d’exercice de cette nature, celui de faire un « *Vocabulaire* »
+en toute espèce d’exercice de cette nature, celui de faire un « *Vocabulaire* »
 
 <!-- id: s6-01-0073 -->
 
@@ -312,7 +312,7 @@ Ouvrez le dictionnaire du charmant défunt LALANDE, *Vocabulaire Philosophique* 
 
 <!-- id: s6-01-0075 -->
 
-> il n’est pas inutile de rappeler ce qu’articule le désir dans le plan philosophique allemand
+il n’est pas inutile de rappeler ce qu’articule le désir dans le plan philosophique allemand
 
 <!-- id: s6-01-0076 -->
 
@@ -396,7 +396,7 @@ Vous savez de quel point de vue, je ne dirais pas nous partons, nous cheminons�
 
 <!-- id: s6-01-0096 -->
 
-> car ce n’est pas d’aujourd’hui que nous sommes ensemble – je veux dire qu’il y a déjà cinq ans que nous essayons de désigner les linéaments de la compréhension par certaines articulations de notre expérience
+car ce n’est pas d’aujourd’hui que nous sommes ensemble – je veux dire qu’il y a déjà cinq ans que nous essayons de désigner les linéaments de la compréhension par certaines articulations de notre expérience
 
 <!-- id: s6-01-0097 -->
 
@@ -456,7 +456,7 @@ J’articule ici l’émission, et non pas d’un signe…
 
 <!-- id: s6-01-0111 -->
 
-> *comme on peut à la rigueur le dire, au moins dans la perspective expérimentale, dans l’épreuve expérimentale de ce que j’appelle le cycle stimulus réponse : on peut dire que c’est un signe que le milieu extérieur donne à l’organisme d’avoir à répondre, d’avoir à se défendre. Si vous chatouillez la plante des pieds d’une grenouille, elle assure un signe, elle y répond en faisant une certaine détente musculaire*
+*comme on peut à la rigueur le dire, au moins dans la perspective expérimentale, dans l’épreuve expérimentale de ce que j’appelle le cycle stimulus réponse : on peut dire que c’est un signe que le milieu extérieur donne à l’organisme d’avoir à répondre, d’avoir à se défendre. Si vous chatouillez la plante des pieds d’une grenouille, elle assure un signe, elle y répond en faisant une certaine détente musculaire*
 
 <!-- id: s6-01-0112 -->
 
@@ -500,7 +500,7 @@ je veux vous en montrer, je dirais non pas la genèse car ne vous imaginez pas q
 
 <!-- id: s6-01-0122 -->
 
-> encore que quelque chose puisse s’y retrouver à l’occasion
+encore que quelque chose puisse s’y retrouver à l’occasion
 
 <!-- id: s6-01-0123 -->
 
@@ -528,9 +528,9 @@ Ceci implique…
 
 <!-- id: s6-01-0129 -->
 
-> étant donné ce que je viens de vous faire remarquer, à savoir que le signifiant se définit par son rapport
->
-> à son sens, et prend sa valeur du rapport à un autre signifiant, d’un système d’opposition signifiante
+étant donné ce que je viens de vous faire remarquer, à savoir que le signifiant se définit par son rapport
+
+à son sens, et prend sa valeur du rapport à un autre signifiant, d’un système d’opposition signifiante
 
 <!-- id: s6-01-0130 -->
 
@@ -666,7 +666,7 @@ Que si l’on a pu dire dans une référence *philosophique* que l’angoisse es
 
 <!-- id: s6-01-0163 -->
 
-> si tant est que le désir doive se produire à la même place où d’abord s’origine, s’expérimente la détresse
+si tant est que le désir doive se produire à la même place où d’abord s’origine, s’expérimente la détresse
 
 <!-- id: s6-01-0164 -->
 
@@ -690,7 +690,7 @@ C’est en tant donc qu’au niveau de cette troisième étape intervient l’ex
 
 <!-- id: s6-01-0169 -->
 
-> l’expérience du rapport à l’image de l’autre en tant qu’elle est fondatrice de l’*Urbild* du *moi*
+l’expérience du rapport à l’image de l’autre en tant qu’elle est fondatrice de l’*Urbild* du *moi*
 
 <!-- id: s6-01-0170 -->
 
@@ -742,7 +742,7 @@ C’est tout de même le fait d’expérience, n’oublions pas, que l’analyse
 
 <!-- id: s6-01-0182 -->
 
-> qui peut à l’occasion s’appeler dévoiement, perversion, déviation, voire même délire
+qui peut à l’occasion s’appeler dévoiement, perversion, déviation, voire même délire
 
 <!-- id: s6-01-0183 -->
 
@@ -786,7 +786,7 @@ Ce qu’il y a de certain, c’est qu’il y a dès le premier abord quelque cho
 
 <!-- id: s6-01-0193 -->
 
-> c’est-à-dire de la substitution d’un signifiant à un signifiant
+c’est-à-dire de la substitution d’un signifiant à un signifiant
 
 <!-- id: s6-01-0194 -->
 
@@ -794,9 +794,9 @@ Ce qu’il y a de certain, c’est qu’il y a dès le premier abord quelque cho
 
 <!-- id: s6-01-0195 -->
 
-> qu’il paraît que l’on attend une nouvelle concernant la santé de la vieille dame,
->
-> car c’est toujours de leur santé que l’on s’occupe d’abord quand il s’agit de vieilles dames
+qu’il paraît que l’on attend une nouvelle concernant la santé de la vieille dame,
+
+car c’est toujours de leur santé que l’on s’occupe d’abord quand il s’agit de vieilles dames
 
 <!-- id: s6-01-0196 -->
 
@@ -868,7 +868,7 @@ Et pourquoi ? Parce qu’au niveau où le sujet est engagé…
 
 <!-- id: s6-01-0213 -->
 
-> entré lui-même dans la parole et par là dans la relation à l’Autre comme tel, comme *lieu de la parole*
+entré lui-même dans la parole et par là dans la relation à l’Autre comme tel, comme *lieu de la parole*
 
 <!-- id: s6-01-0214 -->
 
@@ -892,7 +892,7 @@ Le *phallus*…
 
 <!-- id: s6-01-0219 -->
 
-> *pour autant qu’il est élément signifiant soustrait à la chaîne de la parole, en tant qu’elle engage tout rapport avec l’Autre*
+*pour autant qu’il est élément signifiant soustrait à la chaîne de la parole, en tant qu’elle engage tout rapport avec l’Autre*
 
 <!-- id: s6-01-0220 -->
 

@@ -10,7 +10,7 @@ J’ai eu 2 raisons d’encouragement à prendre un biais autre que celui où vo
 
 <!-- id: s22-08-0002 -->
 
-> à soutenir votre intérêt par ce que j’énonce cette année du R S I ...eh bien mon Dieu, même ces premiers frayages des 2 premiers séminaires n’étaient pas si insoutenables.
+à soutenir votre intérêt par ce que j’énonce cette année du R S I ...eh bien mon Dieu, même ces premiers frayages des 2 premiers séminaires n’étaient pas si insoutenables.
 
 <!-- id: s22-08-0003 -->
 
@@ -18,7 +18,7 @@ La 2<sup>ème</sup> raison d’encouragement m’a été apportée par la répon
 
 <!-- id: s22-08-0004 -->
 
-> enfin « la réponse », je ne suis pas sûr que ce soit simplement une réponse ...je veux dire que les personnes qui m’ont envoyé deux papiers sur les nœuds, et très spécialement les nœuds borroméens, à savoir Michel Thomé et Pierre Soury, leurs papiers avaient quelque chose de tout à fait digne d’intérêt.
+enfin « la réponse », je ne suis pas sûr que ce soit simplement une réponse ...je veux dire que les personnes qui m’ont envoyé deux papiers sur les nœuds, et très spécialement les nœuds borroméens, à savoir Michel Thomé et Pierre Soury, leurs papiers avaient quelque chose de tout à fait digne d’intérêt.
 
 <!-- id: s22-08-0005 -->
 
@@ -62,9 +62,9 @@ Ce que j’ai fait en...
 
 <!-- id: s22-08-0015 -->
 
-> je ne dirai pas encore *en démontrant*, parce que ça se résume à quelque chose
->
-> qui n’est pas plus *démontrable* que le nœud borroméen, ça se résume à *une monstration* ...si j’ai été amené à *la monstration* de ce nœud alors que ce que je cherchais c’était une démonstration d’un *faire*, le *faire* du *discours analytique*, c’est quand même assez... là dirai-je « *monstratif* » ou « *démonstratif* » ?
+je ne dirai pas encore *en démontrant*, parce que ça se résume à quelque chose
+
+qui n’est pas plus *démontrable* que le nœud borroméen, ça se résume à *une monstration* ...si j’ai été amené à *la monstration* de ce nœud alors que ce que je cherchais c’était une démonstration d’un *faire*, le *faire* du *discours analytique*, c’est quand même assez... là dirai-je « *monstratif* » ou « *démonstratif* » ?
 
 <!-- id: s22-08-0016 -->
 
@@ -72,9 +72,9 @@ Quoi qu’il en soit, ce que je voudrais avancer aujourd’hui, c’est quelque 
 
 <!-- id: s22-08-0017 -->
 
-> ce n’est pas sans ruse, parce que je glisse toujours les choses comme ça, tout doucement,
->
-> il y a quelque ruse là-dedans, et ce n’est pas rien non plus de la reconnaître, ...c’est ce que je vous ai indiqué un jour : que Freud ça tourne autour du *Nom-du-Père*.
+ce n’est pas sans ruse, parce que je glisse toujours les choses comme ça, tout doucement,
+
+il y a quelque ruse là-dedans, et ce n’est pas rien non plus de la reconnaître, ...c’est ce que je vous ai indiqué un jour : que Freud ça tourne autour du *Nom-du-Père*.
 
 <!-- id: s22-08-0018 -->
 
@@ -86,7 +86,7 @@ Et ce que je veux vous dire, c’est que ce n’est pas pour rien que je n’ai 
 
 <!-- id: s22-08-0020 -->
 
-> comme j’imagine que certains le savent, parce que je le ressasse assez ...j’ai parlé « *des* » *Noms-du-Père*. Eh ben *les Noms-du-Père* c’est ça : *le Symbolique, l’Imaginaire et le Réel*.
+comme j’imagine que certains le savent, parce que je le ressasse assez ...j’ai parlé « *des* » *Noms-du-Père*. Eh ben *les Noms-du-Père* c’est ça : *le Symbolique, l’Imaginaire et le Réel*.
 
 <!-- id: s22-08-0021 -->
 
@@ -94,7 +94,7 @@ En tant qu’à mon sens...
 
 <!-- id: s22-08-0022 -->
 
-> avec *le poids* que j’ai donné tout à l’heure au mot « *sens »* ...c’est ça les *Noms-du-Père*, les noms premiers en tant qu’ils nomment quelque chose, que - comme l’indique... oui, comme l’indique la Bible - à propos de cet extraordinaire *machin* qui y est appelé *Père,* le premier temps de cette imagination humaine qu’est Dieu, est consacré à donner un nom à quelque chose qui n’est pas indifférent, à savoir : un nom à chacun des animaux.
+avec *le poids* que j’ai donné tout à l’heure au mot « *sens »* ...c’est ça les *Noms-du-Père*, les noms premiers en tant qu’ils nomment quelque chose, que - comme l’indique... oui, comme l’indique la Bible - à propos de cet extraordinaire *machin* qui y est appelé *Père,* le premier temps de cette imagination humaine qu’est Dieu, est consacré à donner un nom à quelque chose qui n’est pas indifférent, à savoir : un nom à chacun des animaux.
 
 <!-- id: s22-08-0023 -->
 
@@ -182,7 +182,7 @@ Mais ce qu’il y a de certain c’est que - petite fille ou petit garçon - j�
 
 <!-- id: s22-08-0044 -->
 
-> à supposer comme je le fais sur des fondements peu assurés ...à savoir que ce *stade du miroir* consiste dans l’unité saisie, dans le rassemblement, dans la maîtrise assu­mée, du fait de l’image, de ceci : que ce corps de prématuré, d’incoordon­né jusque-là, se semble rassemblé.
+à supposer comme je le fais sur des fondements peu assurés ...à savoir que ce *stade du miroir* consiste dans l’unité saisie, dans le rassemblement, dans la maîtrise assu­mée, du fait de l’image, de ceci : que ce corps de prématuré, d’incoordon­né jusque-là, se semble rassemblé.
 
 <!-- id: s22-08-0045 -->
 
@@ -190,7 +190,7 @@ En faire un corps, savoir qu’il le maî­trise, ce qui n’arrive pas...
 
 <!-- id: s22-08-0046 -->
 
-> sans qu’on puisse bien sûr l’affirmer ...ce qui n’arrive pas au même degré chez les animaux qui naissent mûrs : il y a pas cette joie du *stade du miroir*, ce que j’ai appelé « *jubilation* ».
+sans qu’on puisse bien sûr l’affirmer ...ce qui n’arrive pas au même degré chez les animaux qui naissent mûrs : il y a pas cette joie du *stade du miroir*, ce que j’ai appelé « *jubilation* ».
 
 <!-- id: s22-08-0047 -->
 
@@ -198,7 +198,7 @@ Eh bien, il y a vraiment un lien - un lien de ça à quelque chose - qui était 
 
 <!-- id: s22-08-0048 -->
 
-> sous la forme d’un geste : la main qui passe devant ...l’élision de ceci qui était peut-être un *phallus*, ou peut-être son absence.
+sous la forme d’un geste : la main qui passe devant ...l’élision de ceci qui était peut-être un *phallus*, ou peut-être son absence.
 
 <!-- id: s22-08-0049 -->
 
@@ -230,7 +230,7 @@ Si vous revenez à ce que j’ai frayé cette année en essayant de vous faire c
 
 <!-- id: s22-08-0056 -->
 
-> il y a un *Réel* qui *ex-siste* à ce *phallus* qui s’appelle *la jouissance* ...mais c’en est plutôt *la consistance* : c’est le *concept,* si je puis dire, du *phallus*.
+il y a un *Réel* qui *ex-siste* à ce *phallus* qui s’appelle *la jouissance* ...mais c’en est plutôt *la consistance* : c’est le *concept,* si je puis dire, du *phallus*.
 
 <!-- id: s22-08-0057 -->
 
@@ -238,7 +238,7 @@ Avec « *le concept »* je fais écho au mot *Begriff,* ce qui ne va pas si ma
 
 <!-- id: s22-08-0058 -->
 
-> ce *phallus* ...c’est ce qui se prend dans la main !
+ce *phallus* ...c’est ce qui se prend dans la main !
 
 <!-- id: s22-08-0059 -->
 
@@ -258,7 +258,7 @@ La seule différence entre le *singe* et l’homme, c’est que le *phallus* ne 
 
 <!-- id: s22-08-0063 -->
 
-> comme je l’ai illustré par cette brève vision de tout à l’heu­re ...*valant son absence*.
+comme je l’ai illustré par cette brève vision de tout à l’heu­re ...*valant son absence*.
 
 <!-- id: s22-08-0064 -->
 
@@ -278,7 +278,7 @@ Il doit y avoir un lien...
 
 <!-- id: s22-08-0068 -->
 
-> parce que je vous ai dit ça comme ça, indiqué dans son temps ...il doit y avoir un lien entre ça et le sens, soit ce par quoi le 1 s’applique si bien au 0.
+parce que je vous ai dit ça comme ça, indiqué dans son temps ...il doit y avoir un lien entre ça et le sens, soit ce par quoi le 1 s’applique si bien au 0.
 
 <!-- id: s22-08-0069 -->
 
@@ -290,11 +290,11 @@ Alors, comment le *Symbolique*...
 
 <!-- id: s22-08-0071 -->
 
-> le *Symbolique,* comme ça, dont j’ai fait remarquer simplement qu’il a son poids dans la pratique analytique, ...comment le *Symbolique*...
+le *Symbolique,* comme ça, dont j’ai fait remarquer simplement qu’il a son poids dans la pratique analytique, ...comment le *Symbolique*...
 
 <!-- id: s22-08-0072 -->
 
-> c’est-à-dire ce que d’ordinaire on appelle le *bla-bla*, ou encore le *Verbe*, tout ça c’est pareil, ...comment cela cause-t-il le sens ?
+c’est-à-dire ce que d’ordinaire on appelle le *bla-bla*, ou encore le *Verbe*, tout ça c’est pareil, ...comment cela cause-t-il le sens ?
 
 <!-- id: s22-08-0073 -->
 
@@ -322,7 +322,7 @@ C’est dans l’idée que l’inconscient *ex-siste*...
 
 <!-- id: s22-08-0079 -->
 
-> écrit, comme je l’écris ...c’est-à-dire qu’il conditionne le *Réel* de cet être que je désigne du *parlêtre*.
+écrit, comme je l’écris ...c’est-à-dire qu’il conditionne le *Réel* de cet être que je désigne du *parlêtre*.
 
 <!-- id: s22-08-0080 -->
 
@@ -330,7 +330,7 @@ Il nomme les choses...
 
 <!-- id: s22-08-0081 -->
 
-> comme tout à l’heure je l’évoquais, là, à propos de ce batifolage premier de *la Bible* au Paradis Terrestre ...il nomme les choses pour ce *parlêtre*, c’est-à-dire cet *être* qui lui-même est une espèce animale, mais qui en diffère singulièrement.
+comme tout à l’heure je l’évoquais, là, à propos de ce batifolage premier de *la Bible* au Paradis Terrestre ...il nomme les choses pour ce *parlêtre*, c’est-à-dire cet *être* qui lui-même est une espèce animale, mais qui en diffère singulièrement.
 
 <!-- id: s22-08-0082 -->
 
@@ -346,7 +346,7 @@ Oui, là il me semble...
 
 <!-- id: s22-08-0085 -->
 
-> il me semble, mais c’est peu probable ...que je me distingue des gens de la même espèce ani­male, qui de mémoire d’homme, c’est le cas de le dire, savent qu’ils parlent mais n’en font pas état exprès.
+il me semble, mais c’est peu probable ...que je me distingue des gens de la même espèce ani­male, qui de mémoire d’homme, c’est le cas de le dire, savent qu’ils parlent mais n’en font pas état exprès.
 
 <!-- id: s22-08-0086 -->
 
@@ -382,9 +382,9 @@ Enfin, il y a quand même quelque chose de plus sérieux...
 
 <!-- id: s22-08-0094 -->
 
-> et qui est venu de ce fait qu’il y a tout de même une toute petite avance,
->
-> pas un progrès bien sûr, parce qu’il y a pas de raison qu’on ne conti­nue pas à s’embrouiller les pattes ...c’est que dans la linguistique - c’est-à-dire sur le *parlage* - on distingue tout de même
+et qui est venu de ce fait qu’il y a tout de même une toute petite avance,
+
+pas un progrès bien sûr, parce qu’il y a pas de raison qu’on ne conti­nue pas à s’embrouiller les pattes ...c’est que dans la linguistique - c’est-à-dire sur le *parlage* - on distingue tout de même
 
 <!-- id: s22-08-0095 -->
 
@@ -436,11 +436,11 @@ Le nominalisme philosophique, comme ça...
 
 <!-- id: s22-08-0107 -->
 
-> c’est pas pour que je marque une préférence, je marque simplement que le nominalisme est une énigme
->
-> qui a ceci de sensible, qu’elle rend hommage à *l’effet du nom sur le Réel*,
->
-> à savoir à ce que ça y ajoute qu’on le *nomme* ...tout ce que le nominalisme a pour se distinguer du réalisme du nom, fondé lui-même sur l’*Imaginaire,* c’est qu’il y a, en moins, *un dire*.
+c’est pas pour que je marque une préférence, je marque simplement que le nominalisme est une énigme
+
+qui a ceci de sensible, qu’elle rend hommage à *l’effet du nom sur le Réel*,
+
+à savoir à ce que ça y ajoute qu’on le *nomme* ...tout ce que le nominalisme a pour se distinguer du réalisme du nom, fondé lui-même sur l’*Imaginaire,* c’est qu’il y a, en moins, *un dire*.
 
 <!-- id: s22-08-0108 -->
 
@@ -532,7 +532,7 @@ Mais ça vaut bien de pousser ça jusqu’à l’élaboration du quanteur : : 
 
 <!-- id: s22-08-0130 -->
 
-> plutôt qu’*un x*, ça vaudrait mieux de dire *une x* ...pour qu’*elle ex-siste dès lors cette une, l’ex-sistence comme une.*
+plutôt qu’*un x*, ça vaudrait mieux de dire *une x* ...pour qu’*elle ex-siste dès lors cette une, l’ex-sistence comme une.*
 
 <!-- id: s22-08-0131 -->
 
@@ -580,7 +580,7 @@ Car l’indication ici, dans cette forme de croisement, c’est aussi bien que c
 
 <!-- id: s22-08-0142 -->
 
-> qui a été rêvé par Desargues comme *spéci­fique de la droite*, *une droite* qui fait retour d’un de ses bouts à l’autre ...il faut quand même mettre bien au point ceci : c’est qu’il n’est aucunement question qu’elle s’imagine se replier, sans que celle qui d’abord passait des­sus, passe encore dessus, dessus l’autre.
+qui a été rêvé par Desargues comme *spéci­fique de la droite*, *une droite* qui fait retour d’un de ses bouts à l’autre ...il faut quand même mettre bien au point ceci : c’est qu’il n’est aucunement question qu’elle s’imagine se replier, sans que celle qui d’abord passait des­sus, passe encore dessus, dessus l’autre.
 
 <!-- id: s22-08-0143 -->
 
@@ -600,7 +600,7 @@ Et alors, quelle façon...
 
 <!-- id: s22-08-0147 -->
 
-> ce que vous avez là ...quelle façon de les nouer, de les nouer d’un rond qui, ces trois consistances indépendantes, les noue ?
+ce que vous avez là ...quelle façon de les nouer, de les nouer d’un rond qui, ces trois consistances indépendantes, les noue ?
 
 <!-- id: s22-08-0148 -->
 
@@ -676,7 +676,7 @@ Au premier abord, on pourrait dire *qu’il implique un ordre* dans le cas où c
 
 <!-- id: s22-08-0166 -->
 
-> comme s<sup>’</sup>est exprimé très justement quelqu’un qui m’a envoyé un texte où il emploie le mot « *colorié* » ...ce qui dans l’occasion veut dire : où chacun reste identifié à soi-même.
+comme s<sup>’</sup>est exprimé très justement quelqu’un qui m’a envoyé un texte où il emploie le mot « *colorié* » ...ce qui dans l’occasion veut dire : où chacun reste identifié à soi-même.
 
 <!-- id: s22-08-0167 -->
 
@@ -700,7 +700,7 @@ Ce qui me le suggère c’est ce que j’ai reçu d’un de ceux qui s’inté­
 
 <!-- id: s22-08-0172 -->
 
-> figure que je n’ai pas contrôlée et que je n’ai jamais dessinée ici en tout cas ...que dans une certaine figure, quelqu’un qui l’avait introduite dans la publication de mon séminaire XX, a fait ce qu’il appelle une erreur, et une erreur de perspect*ive*.
+figure que je n’ai pas contrôlée et que je n’ai jamais dessinée ici en tout cas ...que dans une certaine figure, quelqu’un qui l’avait introduite dans la publication de mon séminaire XX, a fait ce qu’il appelle une erreur, et une erreur de perspect*ive*.
 
 <!-- id: s22-08-0173 -->
 
@@ -788,7 +788,7 @@ Je n’insiste pas et je poursuis ce qu’il en est du *Nom-du-Père*, pour le r
 
 <!-- id: s22-08-0194 -->
 
-> Dieu dans l’élaboration que nous donnons à ce *Symbolique*, à cet *Imaginaire* et à ce *Réel*
+Dieu dans l’élaboration que nous donnons à ce *Symbolique*, à cet *Imaginaire* et à ce *Réel*
 
 <!-- id: s22-08-0195 -->
 
@@ -800,7 +800,7 @@ Je n’insiste pas et je poursuis ce qu’il en est du *Nom-du-Père*, pour le r
 
 <!-- id: s22-08-0197 -->
 
-> que je vous ai noté autrefois ...: tel que §, le Dieu de la castration.
+que je vous ai noté autrefois ...: tel que §, le Dieu de la castration.
 
 <!-- id: s22-08-0198 -->
 
@@ -812,7 +812,7 @@ L’ennui c’est qu’il y en a pas, que conformément à ce que j’ai écrit 
 
 <!-- id: s22-08-0200 -->
 
-> <img src="assets/image71.jpeg" style="width:1.15845in;height:0.46919in" alt="95.jpg" />
+<img src="assets/image71.jpeg" style="width:1.15845in;height:0.46919in" alt="95.jpg" />
 
 <!-- id: s22-08-0201 -->
 
@@ -844,7 +844,7 @@ Rien de plus *phallogocentrique*...
 
 <!-- id: s22-08-0208 -->
 
-> comme on l’a écrit quelque part à mon propos ...rien de plus *phallogocentrique* qu’une femme, à ceci près qu’*aucune* « *ne-toute le veut* », ledit *phallus*.
+comme on l’a écrit quelque part à mon propos ...rien de plus *phallogocentrique* qu’une femme, à ceci près qu’*aucune* « *ne-toute le veut* », ledit *phallus*.
 
 <!-- id: s22-08-0209 -->
 
@@ -880,11 +880,11 @@ C’est ce qu’il faut appeler *« réellement », ce qui veut dire*...
 
 <!-- id: s22-08-0217 -->
 
-> on ne fait pas assez attention à cette distinction de l’adverbe et de l’ad­jectif ...*à la façon du Réel, mais en réalité à la façon dont s’imagine dans le Réel*...
+on ne fait pas assez attention à cette distinction de l’adverbe et de l’ad­jectif ...*à la façon du Réel, mais en réalité à la façon dont s’imagine dans le Réel*...
 
 <!-- id: s22-08-0218 -->
 
-> je n’ai pas besoin de refaire le schéma, je pense ...*dont s’imagine dans le Réel l’effet du Symbolique*.
+je n’ai pas besoin de refaire le schéma, je pense ...*dont s’imagine dans le Réel l’effet du Symbolique*.
 
 <!-- id: s22-08-0219 -->
 
@@ -908,7 +908,7 @@ En d’autres termes, que ces trois éléments essentiels du nœud borroméen so
 
 <!-- id: s22-08-0224 -->
 
-> j’ai dit tout à l’heure *centrifu­ge* ? C’est un lapsus : *centripètes !* ...à quoi il m’oppo­se la forme *centrifu­ge*.
+j’ai dit tout à l’heure *centrifu­ge* ? C’est un lapsus : *centripètes !* ...à quoi il m’oppo­se la forme *centrifu­ge*.
 
 <!-- id: s22-08-0225 -->
 
@@ -920,11 +920,11 @@ Et ce qui laisse pourtant intac­te la question de savoir...
 
 <!-- id: s22-08-0227 -->
 
-> celle que j’ai posée tout à l’heure ...s’il est indiffé­rent que dans cette forme...
+celle que j’ai posée tout à l’heure ...s’il est indiffé­rent que dans cette forme...
 
 <!-- id: s22-08-0228 -->
 
-> cette forme non mise à plat ...que dans cette forme l’ordre *ex-siste* ou n’*ex-siste pas*.
+cette forme non mise à plat ...que dans cette forme l’ordre *ex-siste* ou n’*ex-siste pas*.
 
 <!-- id: s22-08-0229 -->
 
@@ -944,7 +944,7 @@ Leur idée donc de suppléer à *La* femme qui *n’ex-siste* pas comme « *La*
 
 <!-- id: s22-08-0233 -->
 
-> à *La* femme dont j’ai dit que c’était bien là le type même de l’*errance* ...les remettait dans le biais, dans l’ornière du *Nom-du-Père*, du *Père* en tant que *nommant*, dont j’ai dit que c’était un truc émergé de la Bible, mais dont j’ajoute que c’est pour l’homme une façon de tirer son épingle phallique du jeu.
+à *La* femme dont j’ai dit que c’était bien là le type même de l’*errance* ...les remettait dans le biais, dans l’ornière du *Nom-du-Père*, du *Père* en tant que *nommant*, dont j’ai dit que c’était un truc émergé de la Bible, mais dont j’ajoute que c’est pour l’homme une façon de tirer son épingle phallique du jeu.
 
 <!-- id: s22-08-0234 -->
 
@@ -952,11 +952,11 @@ Qu’un Dieu - mon Dieu ! - aussi tribal que les autres, mais peut-être employ�
 
 <!-- id: s22-08-0235 -->
 
-> c’est ça que j’exprime de la conjugaison de ce nœud 4 au *Symbolique* ...c’est le com­plément bien inutile du fait que c’est le signifiant *Un*...
+c’est ça que j’exprime de la conjugaison de ce nœud 4 au *Symbolique* ...c’est le com­plément bien inutile du fait que c’est le signifiant *Un*...
 
 <!-- id: s22-08-0236 -->
 
-> et sans trou dont il soit permis de se servir dans le nœud borroméen ...qui, à un corps d’homme asexué par soi - Freud le souligne - donne le partenaire qui lui manque.
+et sans trou dont il soit permis de se servir dans le nœud borroméen ...qui, à un corps d’homme asexué par soi - Freud le souligne - donne le partenaire qui lui manque.
 
 <!-- id: s22-08-0237 -->
 
@@ -1008,7 +1008,7 @@ Car quelque chose les avertit qu’ils ne peuvent faire mieux que de suçoter le
 
 <!-- id: s22-08-0249 -->
 
-> autre seulement par quelque écrit d’état civil ...pour en *jouir*, ce qui s’appellerait en *jouir* comme tel, il faudrait le mettre en morceaux, hein ?
+autre seulement par quelque écrit d’état civil ...pour en *jouir*, ce qui s’appellerait en *jouir* comme tel, il faudrait le mettre en morceaux, hein ?
 
 <!-- id: s22-08-0250 -->
 
@@ -1032,7 +1032,7 @@ C’est pourquoi *ces* « *ânes-à-liste* »...
 
 <!-- id: s22-08-0255 -->
 
-> à liste d’atten­te bien entendu ...faisaient la queue aux portes de l’*Interfamiliale Analytique Association,* et Anna « freudonnait » en coulisse le retour au ber­ceau en me bricolant des motions d’ordre gratinées ! Je ne suis certes pas insensible à la fatigue *d’ex-sisterre*.
+à liste d’atten­te bien entendu ...faisaient la queue aux portes de l’*Interfamiliale Analytique Association,* et Anna « freudonnait » en coulisse le retour au ber­ceau en me bricolant des motions d’ordre gratinées ! Je ne suis certes pas insensible à la fatigue *d’ex-sisterre*.
 
 <!-- id: s22-08-0256 -->
 

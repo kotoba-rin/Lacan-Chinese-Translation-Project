@@ -500,11 +500,11 @@ Il est bien certain que *ce n’est pas la chose* - si on peut dire - *en ce qu�
 
 <!-- id: s1-20-0124 -->
 
-> comme l’éléphant que j’ai fait entrer l’autre jour, par l’intermédiaire du mot « *éléphant* », qui a frappé telle­ment certains
->
-> d’entre vous. Car il était bien évident que l’éléphant était là, à par­tir du seul moment où nous le nommions,
->
-> beaucoup plus présent, au moins pour ses conséquences de la destinée d’éléphant que si l’éléphant était entré dans la salle
+comme l’éléphant que j’ai fait entrer l’autre jour, par l’intermédiaire du mot « *éléphant* », qui a frappé telle­ment certains
+
+d’entre vous. Car il était bien évident que l’éléphant était là, à par­tir du seul moment où nous le nommions,
+
+beaucoup plus présent, au moins pour ses conséquences de la destinée d’éléphant que si l’éléphant était entré dans la salle
 
 <!-- id: s1-20-0125 -->
 
@@ -568,9 +568,9 @@ Si vous trouvez ceci un tant soit peu *spéculatif*, voire *inorthodoxe*, je vai
 
 <!-- id: s1-20-0140 -->
 
-> puisque nous sommes amenés comme ça, en nous promenant, à des carrefours qui méritent
->
-> que vous vous y arrêtiez et y souteniez un peu votre méditation
+puisque nous sommes amenés comme ça, en nous promenant, à des carrefours qui méritent
+
+que vous vous y arrêtiez et y souteniez un peu votre méditation
 
 <!-- id: s1-20-0141 -->
 
@@ -614,9 +614,9 @@ C’est-à-dire qu’il est interdit à son mode de discours…
 
 <!-- id: s1-20-0151 -->
 
-> GRANOFF me signale la comparaison avec *la pierre de Rosette*, qui est là, dans l’article de BENNITT. Bien sûr !
->
-> Aussi, FREUD citait la pierre sur laquelle CHAMPOLLION a fait sa découverte.
+GRANOFF me signale la comparaison avec *la pierre de Rosette*, qui est là, dans l’article de BENNITT. Bien sûr !
+
+Aussi, FREUD citait la pierre sur laquelle CHAMPOLLION a fait sa découverte.
 
 <!-- id: s1-20-0152 -->
 

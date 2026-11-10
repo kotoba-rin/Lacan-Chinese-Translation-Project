@@ -30,7 +30,7 @@ Je pose - très sûr de ne rencontrer là-dessus aucune opposition de la part de
 
 <!-- id: s9-04-0007 -->
 
-> et sur ce thème en position de com­pétence dont j’ai fait l’épreuve par les témoignages attestés de ce qui peut se lire là-dessus, qu’en interpellant tel ou tel *mathématicien*, suffisamment familiarisé avec sa science pour savoir où nous en sommes actuellement par exemple, et puis bien d’autres dans tous les domaines ...je ne rencontrerai pas d’opposition à avan­cer, sur certaines conditions d’explication qui sont justement celles auxquelles je vais me soumettre devant vous, que : « A est A » ça ne signifie *rien*.
+et sur ce thème en position de com­pétence dont j’ai fait l’épreuve par les témoignages attestés de ce qui peut se lire là-dessus, qu’en interpellant tel ou tel *mathématicien*, suffisamment familiarisé avec sa science pour savoir où nous en sommes actuellement par exemple, et puis bien d’autres dans tous les domaines ...je ne rencontrerai pas d’opposition à avan­cer, sur certaines conditions d’explication qui sont justement celles auxquelles je vais me soumettre devant vous, que : « A est A » ça ne signifie *rien*.
 
 <!-- id: s9-04-0008 -->
 
@@ -194,7 +194,7 @@ De l’autre côté, vous voyez écrite la même phrase dans des caractères cou
 
 <!-- id: s9-04-0048 -->
 
-> *mào yǐng shí yí luàn hǎi táng*
+*mào yǐng shí yí luàn hǎi táng*
 
 <!-- id: s9-04-0049 -->
 

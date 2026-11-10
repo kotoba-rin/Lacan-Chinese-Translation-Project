@@ -4,8 +4,7 @@ type: knowledge-card
 verification: 部分准确
 tags:
   - 研讨班XIXb
-  - 领域/电影
-  - 领域/音乐
+  - 领域/文学艺术与文化/电影与音乐
   - 语言/拉丁语
   - 作品/末代皇帝
 verified_at: 2026-07-28

@@ -34,7 +34,7 @@ Le tore est là, et pour le signifier, pour le distinguer de la « *double boul
 
 <!-- id: s24-03-0008 -->
 
-> de la même couleur que le tore en question ...vous dessiner ici un petit rond qui a pour effet de désigner ce qui est à l’inté­rieur du tore et ce qui est à l’extérieur.
+de la même couleur que le tore en question ...vous dessiner ici un petit rond qui a pour effet de désigner ce qui est à l’inté­rieur du tore et ce qui est à l’extérieur.
 
 <!-- id: s24-03-0009 -->
 
@@ -42,7 +42,7 @@ Si nous découpons quelque chose de tel qu’ici nous coupions le tore selon que
 
 <!-- id: s24-03-0010 -->
 
-> ce qui est à l’intérieur du tore en raison de la coupure que nous y pratiquons ...comme conjoignant les 2 coupures d’une façon telle que le plan idéal qui joint ces 2 coupures soit une *bande de Mœbius.*
+ce qui est à l’intérieur du tore en raison de la coupure que nous y pratiquons ...comme conjoignant les 2 coupures d’une façon telle que le plan idéal qui joint ces 2 coupures soit une *bande de Mœbius.*
 
 <!-- id: s24-03-0011 -->
 
@@ -78,7 +78,7 @@ Je dis « *double* » qu’est-ce que ça veut dire ?
 
 <!-- id: s24-03-0019 -->
 
-> comme la dernière fois je vous l’ai montré déjà ...a pour propriété, non pas d’être deux *bandes de Mœbius*, mais d’être une seule *bande de Mœbius* qui apparaît ainsi - tâchons de faire mieux - qui apparaît ainsi comme résultat de la double coupure du tore :
+comme la dernière fois je vous l’ai montré déjà ...a pour propriété, non pas d’être deux *bandes de Mœbius*, mais d’être une seule *bande de Mœbius* qui apparaît ainsi - tâchons de faire mieux - qui apparaît ainsi comme résultat de la double coupure du tore :
 
 <!-- id: s24-03-0020 -->
 
@@ -98,7 +98,7 @@ En d’autres termes, passe-t-elle...
 
 <!-- id: s24-03-0024 -->
 
-> je parle d’une des boucles ...passe-t-elle devant la boucle suivante, celle qui est là, ou passe-t­elle derrière ?
+je parle d’une des boucles ...passe-t-elle devant la boucle suivante, celle qui est là, ou passe-t­elle derrière ?
 
 <!-- id: s24-03-0025 -->
 
@@ -166,9 +166,9 @@ Je m’excuse de m’aventurer dans quelque chose qui n’a pas été sans me do
 
 <!-- id: s24-03-0041 -->
 
-> à savoir en pliant deux pages - deux pages découpées ainsi - de façon telle que le 1 aille se conjoindre
->
-> à la 2<sup>ème</sup> page, et qu’inversement la 2<sup>ème</sup> page vienne se conjoindre à la page 1 ...vous aurez exactement ce résultat, à propos duquel vous pourrez constater qu’on peut faire passer indiffé­remment l’un si je puis dire devant l’autre, la page 1 devant la page 2, et inversement la page 2 devant la page 1.
+à savoir en pliant deux pages - deux pages découpées ainsi - de façon telle que le 1 aille se conjoindre
+
+à la 2<sup>ème</sup> page, et qu’inversement la 2<sup>ème</sup> page vienne se conjoindre à la page 1 ...vous aurez exactement ce résultat, à propos duquel vous pourrez constater qu’on peut faire passer indiffé­remment l’un si je puis dire devant l’autre, la page 1 devant la page 2, et inversement la page 2 devant la page 1.
 
 <!-- id: s24-03-0042 -->
 
@@ -188,7 +188,7 @@ Pour que cette possibilité s’éteigne, il faut qu’elle *cesse de s’écrir
 
 <!-- id: s24-03-0046 -->
 
-> et un moyen, dans ce cas, évident ...un moyen de distinguer ces deux cas.
+et un moyen, dans ce cas, évident ...un moyen de distinguer ces deux cas.
 
 <!-- id: s24-03-0047 -->
 
@@ -220,7 +220,7 @@ L’intérieur et l’extérieur dans l’occasion...
 
 <!-- id: s24-03-0054 -->
 
-> à savoir : concernant le tore ...sont-elles des notions de « *structure* » ou de « *forme* » ?
+à savoir : concernant le tore ...sont-elles des notions de « *structure* » ou de « *forme* » ?
 
 <!-- id: s24-03-0055 -->
 
@@ -284,7 +284,7 @@ Ici il m’est difficile de ne pas avancer ceci : que la *bouteille de Klein*, 
 
 <!-- id: s24-03-0070 -->
 
-> dont j’ai fait état, si je me souviens bien, dans « *Les quatre concepts fondamentaux de la psychanalyse »* ...cette vieille *bouteille de Klein* a *en réalité* cette forme-là :
+dont j’ai fait état, si je me souviens bien, dans « *Les quatre concepts fondamentaux de la psychanalyse »* ...cette vieille *bouteille de Klein* a *en réalité* cette forme-là :
 
 <!-- id: s24-03-0071 -->
 
@@ -312,7 +312,7 @@ La différence de la forme...
 
 <!-- id: s24-03-0077 -->
 
-> de la forme en tant qu’elle est toujours plus ou moins suggérée, ...avec la structure, voilà ce que je voudrais cette année mettre en évidence pour vous.
+de la forme en tant qu’elle est toujours plus ou moins suggérée, ...avec la structure, voilà ce que je voudrais cette année mettre en évidence pour vous.
 
 <!-- id: s24-03-0078 -->
 
@@ -328,7 +328,7 @@ J’ai eu - vous le voyez - j’ai eu le grand souci, je m’empêtre...
 
 <!-- id: s24-03-0081 -->
 
-> c’est le cas de le dire, ce n’est pas la pre­mière fois ...je m’empêtre dans ce que j’ai à proférer devant vous, et c’est pour ça que je m’en vais vous donner l’occasion d’avoir quelqu’un qui sera ce matin un meilleur orateur que moi, je veux dire Alain Didier, qui est ici présent, et que j’invite à venir vous énoncer ce qu’il a tiré de certaines données qui sont les miennes, qui sont des dessins d’écritu­re, et dont il voudra bien vous faire part.
+c’est le cas de le dire, ce n’est pas la pre­mière fois ...je m’empêtre dans ce que j’ai à proférer devant vous, et c’est pour ça que je m’en vais vous donner l’occasion d’avoir quelqu’un qui sera ce matin un meilleur orateur que moi, je veux dire Alain Didier, qui est ici présent, et que j’invite à venir vous énoncer ce qu’il a tiré de certaines données qui sont les miennes, qui sont des dessins d’écritu­re, et dont il voudra bien vous faire part.
 
 <!-- id: s24-03-0082 -->
 
@@ -348,7 +348,7 @@ Le problème que j’ai essayé d’articuler, c’est d’essayer d’articuler
 
 <!-- id: s24-03-0086 -->
 
-> de façon un peu conséquente avec ce que le D<sup>r</sup> Lacan a apporté sur le *montage de la pul­sion*, ...d’articuler à partir du problème du *circuit de la pulsion*, d’essayer d’articuler différentes *torsions* qui m’apparaissent repérables entre *le sujet* et *l’Autre*, différents temps dans lesquels s’articulent 2 ou 3 *torsions*.
+de façon un peu conséquente avec ce que le D<sup>r</sup> Lacan a apporté sur le *montage de la pul­sion*, ...d’articuler à partir du problème du *circuit de la pulsion*, d’essayer d’articuler différentes *torsions* qui m’apparaissent repérables entre *le sujet* et *l’Autre*, différents temps dans lesquels s’articulent 2 ou 3 *torsions*.
 
 <!-- id: s24-03-0087 -->
 
@@ -364,7 +364,7 @@ Je veux dire que le mot de *pulsion d’écoute*, n’existe...
 
 <!-- id: s24-03-0090 -->
 
-> je ne crois pas ...n’existe nulle part comme tel, ça reste tout à fait problématique.
+je ne crois pas ...n’existe nulle part comme tel, ça reste tout à fait problématique.
 
 <!-- id: s24-03-0091 -->
 
@@ -372,7 +372,7 @@ Et plus précisément quand j’ai parlé de ces idées au D<sup>r</sup> Lacan, 
 
 <!-- id: s24-03-0092 -->
 
-> de repérer pour un auditeur qui écoute une musique qui le toucherait, disons qui lui ferait de l’effet ...de repérer les différents temps par lesquels se produisent des effets dans l’auditeur, et dans différents parcours que je vais essayer donc de vous livrer maintenant assez succinctement, parce que je n’ai pas préparé de texte, ni de notes. Alors excusez-moi si c’est un peu improvisé.
+de repérer pour un auditeur qui écoute une musique qui le toucherait, disons qui lui ferait de l’effet ...de repérer les différents temps par lesquels se produisent des effets dans l’auditeur, et dans différents parcours que je vais essayer donc de vous livrer maintenant assez succinctement, parce que je n’ai pas préparé de texte, ni de notes. Alors excusez-moi si c’est un peu improvisé.
 
 <!-- id: s24-03-0093 -->
 
@@ -380,7 +380,7 @@ J’imagine, si vous voulez, que si vous écoutez une musique...
 
 <!-- id: s24-03-0094 -->
 
-> je parle d’une musique qui vous parle ou qui vous « *musique* » ...je pars de l’idée que si vous l’écoutez, la façon dont vous la prenez cette musique, je par­tirai de l’idée que c’est en tant qu’« *auditeur* » d’abord que vous fonction­nez.
+je parle d’une musique qui vous parle ou qui vous « *musique* » ...je pars de l’idée que si vous l’écoutez, la façon dont vous la prenez cette musique, je par­tirai de l’idée que c’est en tant qu’« *auditeur* » d’abord que vous fonction­nez.
 
 <!-- id: s24-03-0095 -->
 
@@ -392,11 +392,11 @@ C’est-à-dire que je dirai que si la musique, dans un tout premier temps...
 
 <!-- id: s24-03-0097 -->
 
-> les temps que je vais essayer de décortiquer pour la commodité de l’exposé ne sont bien sûr
->
-> pas à prendre comme des *temps chronologiques*, mais comme des *temps* qui seraient *logiques*,
->
-> et que je désarticule nécessairement pour la commodité de l’exposé ...si donc la musique vous fait de l’effet comme *auditeur*, je pense qu’on peut dire que c’est que quelque part, comme *auditeur*, tout se passe comme si elle vous apportait *une répon­se*.
+les temps que je vais essayer de décortiquer pour la commodité de l’exposé ne sont bien sûr
+
+pas à prendre comme des *temps chronologiques*, mais comme des *temps* qui seraient *logiques*,
+
+et que je désarticule nécessairement pour la commodité de l’exposé ...si donc la musique vous fait de l’effet comme *auditeur*, je pense qu’on peut dire que c’est que quelque part, comme *auditeur*, tout se passe comme si elle vous apportait *une répon­se*.
 
 <!-- id: s24-03-0098 -->
 
@@ -404,7 +404,7 @@ Maintenant le problème commence avec le fait que cette *réponse* fait donc sur
 
 <!-- id: s24-03-0099 -->
 
-> en tant qu’*Autre,* en tant qu’auditeur ...qui vous habitait sans que vous le sachiez.
+en tant qu’*Autre,* en tant qu’auditeur ...qui vous habitait sans que vous le sachiez.
 
 <!-- id: s24-03-0100 -->
 
@@ -432,9 +432,9 @@ Je vais donc...
 
 <!-- id: s24-03-0106 -->
 
-> vous voyez que ce que je vous ai dit là pourrait s’écrire un peu comme ce que Lacan articule
->
-> du procès de la séparation ...et je vais donc articuler les différents *temps de la pulsion* avec différentes *articulations de la* *séparation*.
+vous voyez que ce que je vous ai dit là pourrait s’écrire un peu comme ce que Lacan articule
+
+du procès de la séparation ...et je vais donc articuler les différents *temps de la pulsion* avec différentes *articulations de la* *séparation*.
 
 <!-- id: s24-03-0107 -->
 
@@ -454,7 +454,7 @@ Je fais confiance au sujet, disons que je me laisse *pousser* par lui...
 
 <!-- id: s24-03-0111 -->
 
-> c’est d’ailleurs la « *pulsion* » ...je me laisse, pousser par lui et j’attends de lui qu’il me donne cet *objet petit (a)*.
+c’est d’ailleurs la « *pulsion* » ...je me laisse, pousser par lui et j’attends de lui qu’il me donne cet *objet petit (a)*.
 
 <!-- id: s24-03-0112 -->
 
@@ -470,7 +470,7 @@ Je pourrais dire là que c’est un premier parcours, et que, quand je me suis a
 
 <!-- id: s24-03-0115 -->
 
-> le *retournement pulsionnel* que je vais mettre *en haut du graphe* ...comme le passage à un 2<sup>ème</sup> mode de séparation, et ce *retournement pulsion­nel*, si on peut dire, comme une 2<sup>ème</sup> tentative d’approcher de *l’ob­jet perdu*, mais cette fois d’une autre perspective, de la perspective du sujet.
+le *retournement pulsionnel* que je vais mettre *en haut du graphe* ...comme le passage à un 2<sup>ème</sup> mode de séparation, et ce *retournement pulsion­nel*, si on peut dire, comme une 2<sup>ème</sup> tentative d’approcher de *l’ob­jet perdu*, mais cette fois d’une autre perspective, de la perspective du sujet.
 
 <!-- id: s24-03-0116 -->
 
@@ -482,7 +482,7 @@ Si vous voulez, dans le 1<sup>er</sup> temps j’ai posé que j’étais auditeu
 
 <!-- id: s24-03-0118 -->
 
-> ce qui était une réponse et qui avait fait surgir une question en moi, les choses s’inversent ...c’est-à-dire que *la musique* devient une ques­tion qui m’assigne, en tant que sujet, à répondre moi-même à cette ques­tion, c’est-à-dire que vous voyez que *la musique se constitue comme m’entendant*, comme sujet finalement, appelons-le par son nom : comme *sujet supposé entendre* et la musique, la production, ce qui était la réponse inaugurale devient la question, la production donc du sujet *musicien* se constituant comme sujet supposé entendre, m’assigne dans cette position de sujet et je vais y répondre par un *amour de transfert*.
+ce qui était une réponse et qui avait fait surgir une question en moi, les choses s’inversent ...c’est-à-dire que *la musique* devient une ques­tion qui m’assigne, en tant que sujet, à répondre moi-même à cette ques­tion, c’est-à-dire que vous voyez que *la musique se constitue comme m’entendant*, comme sujet finalement, appelons-le par son nom : comme *sujet supposé entendre* et la musique, la production, ce qui était la réponse inaugurale devient la question, la production donc du sujet *musicien* se constituant comme sujet supposé entendre, m’assigne dans cette position de sujet et je vais y répondre par un *amour de transfert*.
 
 <!-- id: s24-03-0119 -->
 
@@ -498,7 +498,7 @@ Je veux dire par là que si vous êtes triste, c’est que vous pouvez désigner
 
 <!-- id: s24-03-0122 -->
 
-> si vous êtes triste ou déprimé ...vous pouvez désigner l’objet qui vous manque, dont le manque vous fait défaut, vous fait souffrir, et d’être triste c’est triste, je veux dire, ce n’est pas la source d’aucune jouissance.
+si vous êtes triste ou déprimé ...vous pouvez désigner l’objet qui vous manque, dont le manque vous fait défaut, vous fait souffrir, et d’être triste c’est triste, je veux dire, ce n’est pas la source d’aucune jouissance.
 
 <!-- id: s24-03-0123 -->
 
@@ -506,7 +506,7 @@ Le paradoxe de la nostalgie...
 
 <!-- id: s24-03-0124 -->
 
-> comme Victor Hugo le disait : « *la nostalgie, c’est le bonheur d’être triste* » ...le paradoxe de la nostalgie, c’est que précisément dans la nostalgie ce qui se passe, c’est que ce qui vous manque est d’une nature que vous ne pouvez pas désigner, et que vous aimez ce manque.
+comme Victor Hugo le disait : « *la nostalgie, c’est le bonheur d’être triste* » ...le paradoxe de la nostalgie, c’est que précisément dans la nostalgie ce qui se passe, c’est que ce qui vous manque est d’une nature que vous ne pouvez pas désigner, et que vous aimez ce manque.
 
 <!-- id: s24-03-0125 -->
 
@@ -518,7 +518,7 @@ Et que ce que je vous propose, c’est de comprendre effectivement la jouissance
 
 <!-- id: s24-03-0127 -->
 
-> une des articulations de la jouissance musicale ...comme ayant le pouvoir d’évaporer l’*objet*.
+une des articulations de la jouissance musicale ...comme ayant le pouvoir d’évaporer l’*objet*.
 
 <!-- id: s24-03-0128 -->
 
@@ -526,11 +526,11 @@ Je vois que le mot « évaporer », nous pouvons le prendre presque au sens phys
 
 <!-- id: s24-03-0129 -->
 
-> *la sublimation, il s’agit effectivement de faire passer un solide à l’état de vapeur, de gaz* \[*cf. Lituraterre, « c’est bien aux nuées »*\] ...et la sublimation, c’est cette voie paradoxale par laquelle Freud nous enseigne...
+*la sublimation, il s’agit effectivement de faire passer un solide à l’état de vapeur, de gaz* \[*cf. Lituraterre, « c’est bien aux nuées »*\] ...et la sublimation, c’est cette voie paradoxale par laquelle Freud nous enseigne...
 
 <!-- id: s24-03-0130 -->
 
-> et Lacan l’a articulé de façon beaucoup plus soutenue ...c’est précisément la voie par laquelle nous pouvons accéder, justement par la voie de la désexualisation, à la jouissance.
+et Lacan l’a articulé de façon beaucoup plus soutenue ...c’est précisément la voie par laquelle nous pouvons accéder, justement par la voie de la désexualisation, à la jouissance.
 
 <!-- id: s24-03-0131 -->
 
@@ -538,13 +538,13 @@ Donc vous voyez, en ce 2<sup>ème</sup> temps...
 
 <!-- id: s24-03-0132 -->
 
-> ce que je marque en haut du circuit : renversement de la pulsion ...une 1<sup>ère</sup> torsion...
+ce que je marque en haut du circuit : renversement de la pulsion ...une 1<sup>ère</sup> torsion...
 
 <!-- id: s24-03-0133 -->
 
-> c’est peut-être à partir de cette notion de *torsion* que le D<sup>r</sup> Lacan a pensé à insérer ce petit topo
->
-> au point où il en est de son avancée ...2<sup>ème</sup> temps donc, une 1<sup>ère</sup> torsion apparaît où il y a apparition d’un *nou­veau sujet* et d’un *nouvel objet*.
+c’est peut-être à partir de cette notion de *torsion* que le D<sup>r</sup> Lacan a pensé à insérer ce petit topo
+
+au point où il en est de son avancée ...2<sup>ème</sup> temps donc, une 1<sup>ère</sup> torsion apparaît où il y a apparition d’un *nou­veau sujet* et d’un *nouvel objet*.
 
 <!-- id: s24-03-0134 -->
 
@@ -552,7 +552,7 @@ Le nouveau sujet précisément, c’est moi qui d’auditeur devient, je dirais 
 
 <!-- id: s24-03-0135 -->
 
-> paradoxalement, c’est pas tant que vous les entendiez ...tout se passe comme si - j’insiste sur le « si » - tout se passe comme si vous les produisiez vous-même.
+paradoxalement, c’est pas tant que vous les entendiez ...tout se passe comme si - j’insiste sur le « si » - tout se passe comme si vous les produisiez vous-même.
 
 <!-- id: s24-03-0136 -->
 
@@ -588,7 +588,7 @@ Mais si on prend au sérieux ce petit schéma et si même on essaie de comprendr
 
 <!-- id: s24-03-0144 -->
 
-> disons le sujet qui parle de son amour à l’Autre ...mais bien plutôt qu’il réponde à l’Autre, que son message est cette réponse où il est assigné par ce *sujet supposé entendre* et que *sa musique* *d’amour impossible* est en fait une réponse qu’il fait à l’*Autre*, *et c’est à l’Autre* qu’il suppose le fait de l’aimer et de l’aimer d’un *amour impossible*.
+disons le sujet qui parle de son amour à l’Autre ...mais bien plutôt qu’il réponde à l’Autre, que son message est cette réponse où il est assigné par ce *sujet supposé entendre* et que *sa musique* *d’amour impossible* est en fait une réponse qu’il fait à l’*Autre*, *et c’est à l’Autre* qu’il suppose le fait de l’aimer et de l’aimer d’un *amour impossible*.
 
 <!-- id: s24-03-0145 -->
 
@@ -616,7 +616,7 @@ Le transfert, on peut remarquer, correspond très précisément à la façon don
 
 <!-- id: s24-03-0151 -->
 
-> le sujet postule que c’est l’Autre qui l’aime, il pose donc un aimé et un aimant ...il y a donc passage, dans cet *amour de transfert,* de l’aimé à l’aimant.
+le sujet postule que c’est l’Autre qui l’aime, il pose donc un aimé et un aimant ...il y a donc passage, dans cet *amour de transfert,* de l’aimé à l’aimant.
 
 <!-- id: s24-03-0152 -->
 
@@ -728,7 +728,7 @@ Il y a un passage dans le séminaire 11...
 
 <!-- id: s24-03-0179 -->
 
-> bien avant que Lacan parle du problème de la jouissance de l’Autre ...où Lacan, au sujet de la pulsion et de la sublimation, pose la question et se demande comment la pulsion peut-elle *être vécue* après ce que serait la traversée du fantasme.
+bien avant que Lacan parle du problème de la jouissance de l’Autre ...où Lacan, au sujet de la pulsion et de la sublimation, pose la question et se demande comment la pulsion peut-elle *être vécue* après ce que serait la traversée du fantasme.
 
 <!-- id: s24-03-0180 -->
 
@@ -740,9 +740,9 @@ Alors, si nous nous rappelons que l’*objet petit (a)* n’est pas uniquement, 
 
 <!-- id: s24-03-0182 -->
 
-> mais sa fonction d’être l’objet manquant est pointée
->
-> très spécialement, disons dans le phénomène de l’angoisse ...mais, outre cette fonction, on pourrait dire que *sa fonction fondamentale* *est bien plutôt de colmater cette béance radicale qui rend si impérieuse la nécessité de la demande*.
+mais sa fonction d’être l’objet manquant est pointée
+
+très spécialement, disons dans le phénomène de l’angoisse ...mais, outre cette fonction, on pourrait dire que *sa fonction fondamentale* *est bien plutôt de colmater cette béance radicale qui rend si impérieuse la nécessité de la demande*.
 
 <!-- id: s24-03-0183 -->
 
@@ -802,7 +802,7 @@ Je crois que le dernier point que l’on peut avancer, c’est de faire remarque
 
 <!-- id: s24-03-0197 -->
 
-> je dirais total, supérieur, sublime, sublime au sens de sublimation ...et c’est bien par ce point-là que la sublimation a affaire à la désexualisation et à la jouissance.
+je dirais total, supérieur, sublime, sublime au sens de sublimation ...et c’est bien par ce point-là que la sublimation a affaire à la désexualisation et à la jouissance.
 
 <!-- id: s24-03-0198 -->
 

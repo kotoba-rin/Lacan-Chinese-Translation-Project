@@ -126,11 +126,15 @@ Au gré de Serge LECLAIRE, ce que je prononce comme mon discours est nécessaire
 
 <!-- id: s12-21-0031 -->
 
-> « *l’analyste ne construit pas de discours, dans sa parole l’analyste ne suture pas. L’analyste se refuse à suturer, vous ai-je dit. En fait, il ne construit pas un discours même quand il parle. Fondamentalement - et c’est en cela que la position est irréductible - l’analyste est à l’écoute.*
->
-> *Et tout ce qu’on dit à l’analyste là-dessus - moi y compris - les discours qu’on entend, peuvent l’éclairer. Il est à l’écoute de quoi ?*
->
-> *Du discours de son patient et dans le discours de son patient, ce qui l’intéresse, c’est précisément comment s’est ficelé pour lui ce point de suture* \[...\] *en ce sens, tout ce que nous apporte Miller nous est extrêmement précieux.* »
+<div class="text-quotation">
+
+« *l’analyste ne construit pas de discours, dans sa parole l’analyste ne suture pas. L’analyste se refuse à suturer, vous ai-je dit. En fait, il ne construit pas un discours même quand il parle. Fondamentalement - et c’est en cela que la position est irréductible - l’analyste est à l’écoute.*
+
+*Et tout ce qu’on dit à l’analyste là-dessus - moi y compris - les discours qu’on entend, peuvent l’éclairer. Il est à l’écoute de quoi ?*
+
+*Du discours de son patient et dans le discours de son patient, ce qui l’intéresse, c’est précisément comment s’est ficelé pour lui ce point de suture* \[...\] *en ce sens, tout ce que nous apporte Miller nous est extrêmement précieux.* »
+
+</div>
 
 <!-- id: s12-21-0032 -->
 
@@ -162,9 +166,13 @@ En fait nous ne sommes pas dans une situation de réciprocité mais pas de la fa
 
 <!-- id: s12-21-0039 -->
 
-> « *Tandis que le logicien suture, l’analyste ne suture pas, parce que le second diffère la suture que la vérité demande. Tandis que le concept logique*
->
-> *prend dans sa parenté des objets identiques à eux-mêmes, le concept inconscient rassemble des choses non-identiques à elles-mêmes.* »
+<div class="text-quotation">
+
+« *Tandis que le logicien suture, l’analyste ne suture pas, parce que le second diffère la suture que la vérité demande. Tandis que le concept logique*
+
+*prend dans sa parenté des objets identiques à eux-mêmes, le concept inconscient rassemble des choses non-identiques à elles-mêmes.* »
+
+</div>
 
 <!-- id: s12-21-0040 -->
 
@@ -260,7 +268,11 @@ Ainsi LECLAIRE nous explique ce qu’il en est du *concept inconscient* que trè
 
 <!-- id: s12-21-0063 -->
 
-> « *Dans L’homme aux loups, Freud nous propose un concept inconscient. Il s’agit certes d’une unité qui est le concept mais qui recouvre des choses non-identiques à elles-mêmes* \[...\] *pourquoi pas d’ailleurs le doigt coupé ou le petit bouton sur le nez. Nous avons l’introduction d’un concept inconscient. Dans le premier exemple de Freud qui lui vient, précisément une petite chose indifférente qui n’est pas en elle-même singulière.* »
+<div class="text-quotation">
+
+« *Dans L’homme aux loups, Freud nous propose un concept inconscient. Il s’agit certes d’une unité qui est le concept mais qui recouvre des choses non-identiques à elles-mêmes* \[...\] *pourquoi pas d’ailleurs le doigt coupé ou le petit bouton sur le nez. Nous avons l’introduction d’un concept inconscient. Dans le premier exemple de Freud qui lui vient, précisément une petite chose indifférente qui n’est pas en elle-même singulière.* »
+
+</div>
 
 <!-- id: s12-21-0064 -->
 
@@ -292,7 +304,7 @@ Encore une fois :
 
 <!-- id: s12-21-0071 -->
 
-> *du signifiant qui le définit toujours par ce qu’il n’est pas,* pour le manifester.
+*du signifiant qui le définit toujours par ce qu’il n’est pas,* pour le manifester.
 
 <!-- id: s12-21-0072 -->
 
@@ -336,11 +348,15 @@ Dans *Point, ligne, surface* [^164] :
 
 <!-- id: s12-21-0082 -->
 
-> « *Le point géométrique est un être invisible. Le point ressemble à un zéro. Dans ce zéro, cependant, sont cachées plusieurs qualités qui sont*
->
-> *humaines. Au fur et à mesure qu’on dégage le point du cercle étroit de son rôle habituel, ainsi il devient entre le silence et la parole,*
->
-> *l’ultime et unique union et c’est pourquoi il a trouvé sa première forme matérielle dans l’écriture. Il appartient au langage et signifie le silence<span class="smallcaps">.</span>*<span class="smallcaps"> »</span>
+<div class="text-quotation">
+
+« *Le point géométrique est un être invisible. Le point ressemble à un zéro. Dans ce zéro, cependant, sont cachées plusieurs qualités qui sont*
+
+*humaines. Au fur et à mesure qu’on dégage le point du cercle étroit de son rôle habituel, ainsi il devient entre le silence et la parole,*
+
+*l’ultime et unique union et c’est pourquoi il a trouvé sa première forme matérielle dans l’écriture. Il appartient au langage et signifie le silence<span class="smallcaps">.</span>*<span class="smallcaps"> »</span>
+
+</div>
 
 <!-- id: s12-21-0083 -->
 
@@ -420,9 +436,13 @@ Soit donc les genres, les éléments de la collection à *décompter* d’où le
 
 <!-- id: s12-21-0102 -->
 
-> « ...*parmi les genres,* \[...\] *les uns se prêtent à une communauté mutuelle et les autres, non ; certains l’acceptent avec quelques-uns,*
->
-> *d’autres enfin, péné­trant partout, ne trouvent rien qui les empêche d’entrer en communauté avec tous*... » \[254b-c\]
+<div class="text-quotation">
+
+« ...*parmi les genres,* \[...\] *les uns se prêtent à une communauté mutuelle et les autres, non ; certains l’acceptent avec quelques-uns,*
+
+*d’autres enfin, péné­trant partout, ne trouvent rien qui les empêche d’entrer en communauté avec tous*... » \[254b-c\]
+
+</div>
 
 <!-- id: s12-21-0103 -->
 
@@ -742,9 +762,13 @@ S’il s’agit en effet de pouvoir énoncer un discours faux, de pouvoir dire �
 
 <!-- id: s12-21-0182 -->
 
-> « ...*ne discourant sur personne*... *le discours ne serait même pas du tout discours.*
->
-> *Nous l’avons démontré en effet : impossible qu’il y ait discours qui ne soit discours sur aucun sujet.* ». \[263c\]
+<div class="text-quotation">
+
+« ...*ne discourant sur personne*... *le discours ne serait même pas du tout discours.*
+
+*Nous l’avons démontré en effet : impossible qu’il y ait discours qui ne soit discours sur aucun sujet.* ». \[263c\]
+
+</div>
 
 <!-- id: s12-21-0183 -->
 
@@ -920,9 +944,9 @@ Bien sûr, tout ceci est une étape, et une étape majeure, de quelque chose qui
 
 <!-- id: s12-21-0226 -->
 
-> depuis le temps où je les ai introduits, je dirai, un peu comme les termes d’une philosophie vraiment à coup de marteaux,
->
-> je veux dire, ce dont il me semble que nous pouvions nous contenter à l’intérieur au moins de notre position d’analyste, d’une sorte de résidu irréductible concernant les horizons de notre expérience …on ferait volontiers, donc, la correspondance, la superposition de trois termes : *savoir*, *sujet*, et *sexe*.
+depuis le temps où je les ai introduits, je dirai, un peu comme les termes d’une philosophie vraiment à coup de marteaux,
+
+je veux dire, ce dont il me semble que nous pouvions nous contenter à l’intérieur au moins de notre position d’analyste, d’une sorte de résidu irréductible concernant les horizons de notre expérience …on ferait volontiers, donc, la correspondance, la superposition de trois termes : *savoir*, *sujet*, et *sexe*.
 
 <!-- id: s12-21-0227 -->
 

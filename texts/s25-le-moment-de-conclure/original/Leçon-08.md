@@ -50,7 +50,7 @@ Une surface ça porte des traits et ces traits...
 
 <!-- id: s25-08-0012 -->
 
-> qui se trouvent être sur une des pages de la surface, autrement dit une des faces de la surface ...ces traits, c’est actuellement ce qui incarne, supporte, mes *ronds de ficelle*, mes *ronds de ficelle* qui sont toujours *borroméens*.
+qui se trouvent être sur une des pages de la surface, autrement dit une des faces de la surface ...ces traits, c’est actuellement ce qui incarne, supporte, mes *ronds de ficelle*, mes *ronds de ficelle* qui sont toujours *borroméens*.
 
 <!-- id: s25-08-0013 -->
 
@@ -118,7 +118,7 @@ Bien sûr, il y a quelque chose qui m’impressionne. C’est que le tore...
 
 <!-- id: s25-08-0029 -->
 
-> pour le dessiner comme ceci, c’est-à-dire en perspective ...le tore a pour propriété d’admettre un type de coupure qui est très exacte­ment celui-ci :
+pour le dessiner comme ceci, c’est-à-dire en perspective ...le tore a pour propriété d’admettre un type de coupure qui est très exacte­ment celui-ci :
 
 <!-- id: s25-08-0030 -->
 
@@ -174,7 +174,7 @@ Alors je vais essayer de présenter la différence entre *cou­pure* et *trouage
 
 <!-- id: s25-08-0043 -->
 
-> enfin d’abord en ne m’occupant pas que ça peut servir à faire du *retournement* …simplement que *couper le tore* et *trouer le tore*, com­ment c’est différent.
+enfin d’abord en ne m’occupant pas que ça peut servir à faire du *retournement* …simplement que *couper le tore* et *trouer le tore*, com­ment c’est différent.
 
 <!-- id: s25-08-0044 -->
 
@@ -186,7 +186,7 @@ Sur le tore… des cercles peuvent être sur le tore. Ιl y a des *cercles rédu
 
 <!-- id: s25-08-0046 -->
 
-> des *cercles réductibles* c’est des cercles qui par déformation peuvent être réduits …et il y a des *cercles non-réductibles*, alors comme *cercle non-réduc­tible* :
+des *cercles réductibles* c’est des cercles qui par déformation peuvent être réduits …et il y a des *cercles non-réductibles*, alors comme *cercle non-réduc­tible* :
 
 <!-- id: s25-08-0047 -->
 
@@ -302,7 +302,7 @@ Si la coupure est faite le long d’un cercle pas si simple...
 
 <!-- id: s25-08-0075 -->
 
-> pas si simple que le *cercle méridien* ou que le *cercle longitude* ...alors ce qui reste c’est une bande. Ιl reste encore une bande, mais qui est plus ou moins *nouée,* plus ou moins *tordue*.
+pas si simple que le *cercle méridien* ou que le *cercle longitude* ...alors ce qui reste c’est une bande. Ιl reste encore une bande, mais qui est plus ou moins *nouée,* plus ou moins *tordue*.
 
 <!-- id: s25-08-0076 -->
 
@@ -330,7 +330,7 @@ C’est-à-dire que le nouage de cette bande peut être représenté par un nœu
 
 <!-- id: s25-08-0082 -->
 
-> <img src="assets/image85.jpeg" style="width:0.91204in;height:0.92409in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\6a.jpg" />
+<img src="assets/image85.jpeg" style="width:0.91204in;height:0.92409in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\6a.jpg" />
 
 <!-- id: s25-08-0083 -->
 
@@ -398,9 +398,9 @@ Alors si le tore est coupé selon un cercle comme ça, le résultat est une band
 
 <!-- id: s25-08-0099 -->
 
-> je suis en train de me tromper, c’est-à-dire je suis en train de confondre les tours et les demi-tours,
->
-> je n’en ai pas dessiné assez. Voilà. Bon ! ...alors ce que j’ai dessiné là, c’est une bande qui est tordue et qui n’est pas nouée :
+je suis en train de me tromper, c’est-à-dire je suis en train de confondre les tours et les demi-tours,
+
+je n’en ai pas dessiné assez. Voilà. Bon ! ...alors ce que j’ai dessiné là, c’est une bande qui est tordue et qui n’est pas nouée :
 
 <!-- id: s25-08-0100 -->
 
@@ -416,7 +416,7 @@ Alors voici ici le résultat du *trouage*...
 
 <!-- id: s25-08-0103 -->
 
-> il n’y a qu’une façon de *trouer*, alors que des façons de *couper*, il y en a autant qu’il y a de *cercles* sur le *tore* ...alors voilà *le résultat du trouage*, voilà *le résultat de la coupure*.
+il n’y a qu’une façon de *trouer*, alors que des façons de *couper*, il y en a autant qu’il y a de *cercles* sur le *tore* ...alors voilà *le résultat du trouage*, voilà *le résultat de la coupure*.
 
 <!-- id: s25-08-0104 -->
 
@@ -472,7 +472,7 @@ Et donc ça peut être fait ici, c’est-à-dire que ça, c’est le tore troué
 
 <!-- id: s25-08-0117 -->
 
-> enfin si c’est considéré comme deux étapes, 1<sup>ère</sup> étape : *trouer*, 2<sup>ème</sup> étape : *couper* à partir du tore *troué* ...la coupure peut être montrée là-dessus, c’est-à-dire sur le tore troué.
+enfin si c’est considéré comme deux étapes, 1<sup>ère</sup> étape : *trouer*, 2<sup>ème</sup> étape : *couper* à partir du tore *troué* ...la coupure peut être montrée là-dessus, c’est-à-dire sur le tore troué.
 
 <!-- id: s25-08-0118 -->
 
@@ -480,7 +480,7 @@ Alors je vais montrer, je vais indiquer, sans le dessiner, les coupures les plus
 
 <!-- id: s25-08-0119 -->
 
-> dans le tore troué, la distinction méridien-longi­tude s’est perdue ...mettons enfin une coupure méridienne, ça peut être par exemple de couper ici \[1\].
+dans le tore troué, la distinction méridien-longi­tude s’est perdue ...mettons enfin une coupure méridienne, ça peut être par exemple de couper ici \[1\].
 
 <!-- id: s25-08-0120 -->
 
@@ -712,9 +712,9 @@ Finalement je n’ai fait qu’affirmer que dans cet état inter­médiaire, *l�
 
 <!-- id: s25-08-0177 -->
 
-> c’est-à-dire qu’ici, intérieur et extérieur se *différencient*
->
-> et ici intérieur et extérieur ne *se différencient pas* : ici le couple *intérieur-exté­rieur* est à l’état de vacillation …dans l’état du *tore troué*, la *distinction inté­rieur-extérieur* est perdue. Alors ça c’était au sujet du tore troué.
+c’est-à-dire qu’ici, intérieur et extérieur se *différencient*
+
+et ici intérieur et extérieur ne *se différencient pas* : ici le couple *intérieur-exté­rieur* est à l’état de vacillation …dans l’état du *tore troué*, la *distinction inté­rieur-extérieur* est perdue. Alors ça c’était au sujet du tore troué.
 
 <!-- id: s25-08-0178 -->
 
@@ -750,7 +750,7 @@ Alors cette bande, telle qu’elle est dessinée, encore une fois, on lui voit q
 
 <!-- id: s25-08-0186 -->
 
-> ce n’est pas *par hasard*, c’est-à-dire que je privilégie systé­matiquement les dessins où on ne voit qu’une face …donc, voilà la bande nouée et tordue avec une face jaune et une face verte. Et ici on ne lui voit que sa face verte. Voilà.
+ce n’est pas *par hasard*, c’est-à-dire que je privilégie systé­matiquement les dessins où on ne voit qu’une face …donc, voilà la bande nouée et tordue avec une face jaune et une face verte. Et ici on ne lui voit que sa face verte. Voilà.
 
 <!-- id: s25-08-0187 -->
 

@@ -103,13 +103,13 @@ Et alors, à ce propos, il s’est amusé à s’apercevoir que, si je ne me tro
 
 <!-- id: s10-14-0020 -->
 
-> celle sur laquelle j’ai mis tellement d’accent[^89], puisque je n’y trouve rien moins que la trace signifiante
->
-> dans la phrase de ce que j’appelle *le sujet de l’énonciation*, distincte du *sujet de l’énoncé*
-> ...qu’en russe aussi, il у а dans la phrase affirmative, je veux dire la phrase qui désigne, à l’affirmatif, l’objet de ma crainte :
-> ce que je crains ce n’est pas qu’il *ne* vienne, c’est qu’il *vienne*, et je dis : « qu’il *ne* vienne »,
-> en quoi je me trouve confirmé par le russe à dire qu’il ne suffit pas de quali­fier ce « *ne* » *explétif* de « *discordantiel »*,
-> c’est-à-dire de marquer la discordance qu’il у а entre ma crainte : *puisque* je crains qu’il vienne, *j’espère* qu’il ne viendra pas.
+celle sur laquelle j’ai mis tellement d’accent[^89], puisque je n’y trouve rien moins que la trace signifiante
+
+dans la phrase de ce que j’appelle *le sujet de l’énonciation*, distincte du *sujet de l’énoncé*
+...qu’en russe aussi, il у а dans la phrase affirmative, je veux dire la phrase qui désigne, à l’affirmatif, l’objet de ma crainte :
+ce que je crains ce n’est pas qu’il *ne* vienne, c’est qu’il *vienne*, et je dis : « qu’il *ne* vienne »,
+en quoi je me trouve confirmé par le russe à dire qu’il ne suffit pas de quali­fier ce « *ne* » *explétif* de « *discordantiel »*,
+c’est-à-dire de marquer la discordance qu’il у а entre ma crainte : *puisque* je crains qu’il vienne, *j’espère* qu’il ne viendra pas.
 
 <!-- id: s10-14-0021 -->
 
@@ -299,9 +299,9 @@ que *la jouissance ne connaî­tra pas l’Autre,* А*, sinon par ce reste *: *
 
 <!-- id: s10-14-0053 -->
 
-> je dis seulement *<u>un</u>* des termes car le fantasme, c’est **S** dans un certain rapport d’opposition à *((a))* \[S◊*a*\], rapport dont la polyvalence et la multiplicité est suffisamment défini par le caractère composé du losange, qui est aussi bien, la disjonction \[∨\], que la conjonction \[∧\], qui est aussi bien le plus grand \[\>\] que le plus petit \[\<\]
-> ...S en tant que terme de cette opération a forme de division, puisque *(a)* est *irréductible*,
-> ne peut, dans cette façon de l’imager dans les formes mathématiques, ne peut représenter que le rappel que si la division se faisait, ça serait plus loin, ça serait le rapport de *(a)* à S qui serait, dans le S, intéressé \[*a*/S\].
+je dis seulement *<u>un</u>* des termes car le fantasme, c’est **S** dans un certain rapport d’opposition à *((a))* \[S◊*a*\], rapport dont la polyvalence et la multiplicité est suffisamment défini par le caractère composé du losange, qui est aussi bien, la disjonction \[∨\], que la conjonction \[∧\], qui est aussi bien le plus grand \[\>\] que le plus petit \[\<\]
+...S en tant que terme de cette opération a forme de division, puisque *(a)* est *irréductible*,
+ne peut, dans cette façon de l’imager dans les formes mathématiques, ne peut représenter que le rappel que si la division se faisait, ça serait plus loin, ça serait le rapport de *(a)* à S qui serait, dans le S, intéressé \[*a*/S\].
 
 <!-- id: s10-14-0054 -->
 
@@ -343,9 +343,9 @@ pour ceux à qui j’ai besoin ici de sug­gérer une autorité pour qu’ils se
 
 <!-- id: s10-14-0061 -->
 
-> dans la première analyse, non seulement structurale mais dynamique du fantasme donnée par Freud
-> ...Freud parle justement lui aussi, d’un 2<sup>nd</sup> temps toujours élidé dans sa constitution,
-> tellement élidé que même l’ana­lyse ne peut que le reconstruire.
+dans la première analyse, non seulement structurale mais dynamique du fantasme donnée par Freud
+...Freud parle justement lui aussi, d’un 2<sup>nd</sup> temps toujours élidé dans sa constitution,
+tellement élidé que même l’ana­lyse ne peut que le reconstruire.
 
 <!-- id: s10-14-0062 -->
 
@@ -366,13 +366,13 @@ Il reste que la suite de mon discours а été faite pour illustrer ceci, qu’a
 
 <!-- id: s10-14-0066 -->
 
-> ceci dont on s’était aperçu depuis longtemps et dont nous ne savons pas faire plei­nement notre profit
->
-> quand il s’agit pour nous de comprendre à quoi répond
->
-> ce qui prend dans notre discours d’analyste une toute autre valeur*, le complexe de castration*
-> ...qu’au cœur, dis-je, de l’expérience du désir, *il у а ce qui reste* quand *le désir* est *entre guillemets* « satisfait »,
-> *ce qui reste*, si l’on peut dire, *à la fin du désir*, fin qui est toujours une fausse fin, fin qui est toujours le résultat d’une méprise.
+ceci dont on s’était aperçu depuis longtemps et dont nous ne savons pas faire plei­nement notre profit
+
+quand il s’agit pour nous de comprendre à quoi répond
+
+ce qui prend dans notre discours d’analyste une toute autre valeur*, le complexe de castration*
+...qu’au cœur, dis-je, de l’expérience du désir, *il у а ce qui reste* quand *le désir* est *entre guillemets* « satisfait »,
+*ce qui reste*, si l’on peut dire, *à la fin du désir*, fin qui est toujours une fausse fin, fin qui est toujours le résultat d’une méprise.
 
 <!-- id: s10-14-0067 -->
 
@@ -509,10 +509,10 @@ si l’on peut dire, *la manœuvre*, *c’est que ce qui est caché par cette vi
 
 <!-- id: s10-14-0090 -->
 
-> ceci bien sûr étant *le terme* éventuel de notre recherche, ne pourra, si vous voulez,
->
-> se justifier pleinement que d’une vérification des temps qui prouve que c’est là le dernier terme
-> ...le dernier terme est ceci : c’est que *ce qu’il vise c’est l’angoisse de l’Autre*.
+ceci bien sûr étant *le terme* éventuel de notre recherche, ne pourra, si vous voulez,
+
+se justifier pleinement que d’une vérification des temps qui prouve que c’est là le dernier terme
+...le dernier terme est ceci : c’est que *ce qu’il vise c’est l’angoisse de l’Autre*.
 
 <!-- id: s10-14-0091 -->
 
@@ -692,11 +692,11 @@ que pour traiter de l’amour, comme pour traiter de la sublimation, il faut se 
 
 <!-- id: s10-14-0122 -->
 
-> qui étaient déjà avant Freud, je parle de ceux de la bonne tradition, et nommément de la tradition française,
->
-> celle qui passe par ce que je vous ai rappelé de sa scansion dans *L’homme du plaisir* [^93]
-> ...que ce que les moralistes ont déjà pleinement articulé, et dont il convient que nous ne considérions pas l’acquis comme dépassé :
-> que « *l’amour est la sublimation du désir* ».
+qui étaient déjà avant Freud, je parle de ceux de la bonne tradition, et nommément de la tradition française,
+
+celle qui passe par ce que je vous ai rappelé de sa scansion dans *L’homme du plaisir* [^93]
+...que ce que les moralistes ont déjà pleinement articulé, et dont il convient que nous ne considérions pas l’acquis comme dépassé :
+que « *l’amour est la sublimation du désir* ».
 
 <!-- id: s10-14-0123 -->
 
@@ -713,12 +713,12 @@ Ceci doit nous inciter à poser ailleurs les arches de ce que nous avons à dire
 
 <!-- id: s10-14-0125 -->
 
-> puisque c’est de cela qu’il s’agit, à ce point où le dit Freud même,
->
-> soulignant que ce détour aurait pu se produire ailleurs,
->
-> et je reviendrai sur ce pourquoi je le fais maintenant
-> ...donc ce sujet de *la conjonction de l’homme et de la femme*, nous avons à en poser autrement les arches.
+puisque c’est de cela qu’il s’agit, à ce point où le dit Freud même,
+
+soulignant que ce détour aurait pu se produire ailleurs,
+
+et je reviendrai sur ce pourquoi je le fais maintenant
+...donc ce sujet de *la conjonction de l’homme et de la femme*, nous avons à en poser autrement les arches.
 
 <!-- id: s10-14-0126 -->
 
@@ -858,17 +858,17 @@ Le fait qu’elle n’ait, sur ce point, rien à désirer...
 
 <!-- id: s10-14-0151 -->
 
-> et peut-être même essaie­rais-je d’articuler très très précisément anatomiquement pourquoi,
->
-> car cette affaire de l’analogie clitoris-pénis est loin d’être absolument fondée,
->
-> un cli­toris n’est pas simplement un plus petit pénis, c’est une part du pénis,
->
-> ça correspond aux corps caverneux et à rien d’autre. Or, un pénis, que je sache, sauf chez l’hypospadias,
->
-> ne se limite pas aux corps caverneux, ceci est une parenthèse
-> ...le fait de *n’avoir rien à désirer sur le chemin de la jouissance* ne règle pas assurément pour elle *la question du désir*,
-> justement dans la mesure où la fonction du *(a)*, pour elle comme pour nous, joue tout son rôle.
+et peut-être même essaie­rais-je d’articuler très très précisément anatomiquement pourquoi,
+
+car cette affaire de l’analogie clitoris-pénis est loin d’être absolument fondée,
+
+un cli­toris n’est pas simplement un plus petit pénis, c’est une part du pénis,
+
+ça correspond aux corps caverneux et à rien d’autre. Or, un pénis, que je sache, sauf chez l’hypospadias,
+
+ne se limite pas aux corps caverneux, ceci est une parenthèse
+...le fait de *n’avoir rien à désirer sur le chemin de la jouissance* ne règle pas assurément pour elle *la question du désir*,
+justement dans la mesure où la fonction du *(a)*, pour elle comme pour nous, joue tout son rôle.
 
 <!-- id: s10-14-0152 -->
 

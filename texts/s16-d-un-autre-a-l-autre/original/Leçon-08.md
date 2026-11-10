@@ -22,11 +22,11 @@ J’ai montré à cette date…
 
 <!-- id: s16-08-0005 -->
 
-> d’une façon suffisamment développée pour que je n’aie pas à y revenir aujourd’hui mais seulement à le rappeler …qu’en ce *trait* réside l’essentiel de l’effet de ce qui…
+d’une façon suffisamment développée pour que je n’aie pas à y revenir aujourd’hui mais seulement à le rappeler …qu’en ce *trait* réside l’essentiel de l’effet de ce qui…
 
 <!-- id: s16-08-0006 -->
 
-> pour nous analystes, à savoir dans le champ où nous avons affaire au sujet …s’appelle *la répétition*.
+pour nous analystes, à savoir dans le champ où nous avons affaire au sujet …s’appelle *la répétition*.
 
 <!-- id: s16-08-0007 -->
 
@@ -46,13 +46,13 @@ Ce qui se passe au niveau du jansénisme, pour rappeler le contexte pascalien, c
 
 <!-- id: s16-08-0011 -->
 
-> je n’en dirai pas plus d’ailleurs sur ce qu’il en est de mon rapport à lui, ce serait une bien trop belle occasion
->
-> pour vous de vous précipiter dans des déterminations *historiques* ou *biographiques* de mes intérêts …quoi qu’il en soit, il y a un bout de temps, il se trouve que j’ai pu en avoir l’appréhension en dehors de cette sorte de fantôme qui en reste…
+je n’en dirai pas plus d’ailleurs sur ce qu’il en est de mon rapport à lui, ce serait une bien trop belle occasion
+
+pour vous de vous précipiter dans des déterminations *historiques* ou *biographiques* de mes intérêts …quoi qu’il en soit, il y a un bout de temps, il se trouve que j’ai pu en avoir l’appréhension en dehors de cette sorte de fantôme qui en reste…
 
 <!-- id: s16-08-0012 -->
 
-> à savoir que c’étaient des gens qu’on appelle « *rigoristes* », autrement dit qui vous empêchaient de vivre à votre gré. C’est tout ce qu’il en reste en effet, par un de ces surprenants effets d’ensablement dont il ne faut pas méconnaître que c’est aussi une dimension de l’histoire …mais en lisant donc ce petit livre, je me suis donné le témoignage sur ce qu’on peut en dire, simplement à prendre les choses justement comme l’indique le titre de la collection, au niveau du « *Que-Sais-je ?* ».
+à savoir que c’étaient des gens qu’on appelle « *rigoristes* », autrement dit qui vous empêchaient de vivre à votre gré. C’est tout ce qu’il en reste en effet, par un de ces surprenants effets d’ensablement dont il ne faut pas méconnaître que c’est aussi une dimension de l’histoire …mais en lisant donc ce petit livre, je me suis donné le témoignage sur ce qu’on peut en dire, simplement à prendre les choses justement comme l’indique le titre de la collection, au niveau du « *Que-Sais-je ?* ».
 
 <!-- id: s16-08-0013 -->
 
@@ -80,9 +80,9 @@ On avait lu bien d’autres choses et, elles, *fondamentales*, et en particulier
 
 <!-- id: s16-08-0019 -->
 
-> bien avant que paraisse cet ouvrage paru posthume, comme vous le savez peut–être, qui s’appelle l’*Augustinus* [^31],
->
-> de celui que je viens de nommer, l’évêque JANSEN …il y avait eu la pensée de Saint AUGUSTIN dont on ne peut nier qu’elle soit au fondement du christianisme et que pour tout dire, la question est là patente dès qu’il s’agit du christianisme précisément.
+bien avant que paraisse cet ouvrage paru posthume, comme vous le savez peut–être, qui s’appelle l’*Augustinus* [^31],
+
+de celui que je viens de nommer, l’évêque JANSEN …il y avait eu la pensée de Saint AUGUSTIN dont on ne peut nier qu’elle soit au fondement du christianisme et que pour tout dire, la question est là patente dès qu’il s’agit du christianisme précisément.
 
 <!-- id: s16-08-0020 -->
 
@@ -114,7 +114,7 @@ Le rapport, le nœud, le lien qu’il y a entre des disputes sur la Grâce dont 
 
 <!-- id: s16-08-0027 -->
 
-> interdiction bien sûr qui n’a fait que faire rebondir la lutte et multiplier les ouvrages aussi bien que les libelles …est quelque chose dont ce qui nous importe, c’est que cette frénésie que certains diraient *purement intellectuelle* est étroitement solidaire d’un mouvement dont il n’est pas question de contester les incidences de ferveur ni à l’occasion non plus les effets proprement - comme ceci a été épinglé à l’époque - convulsionnaires.
+interdiction bien sûr qui n’a fait que faire rebondir la lutte et multiplier les ouvrages aussi bien que les libelles …est quelque chose dont ce qui nous importe, c’est que cette frénésie que certains diraient *purement intellectuelle* est étroitement solidaire d’un mouvement dont il n’est pas question de contester les incidences de ferveur ni à l’occasion non plus les effets proprement - comme ceci a été épinglé à l’époque - convulsionnaires.
 
 <!-- id: s16-08-0028 -->
 
@@ -122,7 +122,11 @@ Quelle que soit la façon dont nous pouvons jauger, comme psychopathologues, ce 
 
 <!-- id: s16-08-0029 -->
 
-> « *De par le Roi défense à Dieu de faire miracle en ce lieu* » …les dites convulsions qui se sont poursuivies ailleurs.
+<div class="text-quotation">
+
+« *De par le Roi défense à Dieu de faire miracle en ce lieu* » …les dites convulsions qui se sont poursuivies ailleurs.
+
+</div>
 
 <!-- id: s16-08-0030 -->
 
@@ -134,7 +138,7 @@ Le *Nom du Père…* je vais l’annoncer comme ça au départ parce que ce sera
 
 <!-- id: s16-08-0032 -->
 
-> dont j’insiste pour dire que ce n’est pas par hasard que je n’ai pas pu en parler …le *Nom du Père* prend ici une forme singulière que je vous prie de bien repérer au niveau du *pari*.
+dont j’insiste pour dire que ce n’est pas par hasard que je n’ai pas pu en parler …le *Nom du Père* prend ici une forme singulière que je vous prie de bien repérer au niveau du *pari*.
 
 <!-- id: s16-08-0033 -->
 
@@ -178,7 +182,7 @@ Mais il n’y a pas que le *partenaire*, il y a *l’enjeu*, et c’est là l’
 
 <!-- id: s16-08-0043 -->
 
-> le fait qu’il puisse poser en ces termes la question de notre mesure au regard de ce *réel* … *l’enjeu* suppose un pas franchi qui, quoi qu’en disent les amateurs de fouinage historique, à savoir que déjà
+le fait qu’il puisse poser en ces termes la question de notre mesure au regard de ce *réel* … *l’enjeu* suppose un pas franchi qui, quoi qu’en disent les amateurs de fouinage historique, à savoir que déjà
 
 <!-- id: s16-08-0044 -->
 
@@ -226,7 +230,7 @@ Ce n’est pas parce que *quelque parcelle* qui ferait partie du corps en est d�
 
 <!-- id: s16-08-0055 -->
 
-> car nous ne pouvons sonder ce qui de cette béance était déjà là dans l’organisme …de la béance entre le corps et sa jouissance, pour autant que donc, ai-je dit, ce qui la détermine ou qui l’aggrave… et seule nous importe cette aggravation …c’est *l’incidence du signifiant, l’incidence même de la marque, l’incidence de ce* que j’ai appelé tout à l’heure le *trait unaire*, qui lui donne donc sa consistance.
+car nous ne pouvons sonder ce qui de cette béance était déjà là dans l’organisme …de la béance entre le corps et sa jouissance, pour autant que donc, ai-je dit, ce qui la détermine ou qui l’aggrave… et seule nous importe cette aggravation …c’est *l’incidence du signifiant, l’incidence même de la marque, l’incidence de ce* que j’ai appelé tout à l’heure le *trait unaire*, qui lui donne donc sa consistance.
 
 <!-- id: s16-08-0056 -->
 
@@ -270,13 +274,13 @@ Et néanmoins il nous suffira d’écrire ceci : 1/*a*, où s’inscrit la prop
 
 <!-- id: s16-08-0066 -->
 
-> et doit l’être, comme il semble bien *s’il s’agit de perte* …à quelque chose où se conjoint d’un « *et* » additif ce 1 et le signe écrit de cette perte \[*a*\] :
+et doit l’être, comme il semble bien *s’il s’agit de perte* …à quelque chose où se conjoint d’un « *et* » additif ce 1 et le signe écrit de cette perte \[*a*\] :
 
 <!-- id: s16-08-0067 -->
 
-> <u>1</u> = 1 + *a*
->
-> *a*
+<u>1</u> = 1 + *a*
+
+*a*
 
 <!-- id: s16-08-0068 -->
 
@@ -522,9 +526,9 @@ Pour ce qui en est de la genèse de cet Autre, s’il est vrai que nous pouvons 
 
 <!-- id: s16-08-0128 -->
 
-> à savoir de ce manque que nous avons reçu de l’Autre
->
-> par rapport à ce que nous pourrions édifier comme *champ complété de l’Autre* …c’est de là, du *a*, et d’une façon analogique que nous pouvons espérer prendre la mesure de ce qu’il en est de l’1*de la jouissance* au regard précisément de cette somme supposée réalisée.
+à savoir de ce manque que nous avons reçu de l’Autre
+
+par rapport à ce que nous pourrions édifier comme *champ complété de l’Autre* …c’est de là, du *a*, et d’une façon analogique que nous pouvons espérer prendre la mesure de ce qu’il en est de l’1*de la jouissance* au regard précisément de cette somme supposée réalisée.
 
 <!-- id: s16-08-0129 -->
 
@@ -556,7 +560,7 @@ Si ce *a* ai-­je dit…
 
 <!-- id: s16-08-0136 -->
 
-> et ceci même en est - je l’ai souligné - l’image, l’illustration et rien de plus …est ce qui conditionne la distinction du « *Je* » comme soutenant ce champ de l’Autre et pouvant se totaliser comme *champ du savoir*, ce qu’il importe de savoir précisément, c’est qu’à se totaliser ainsi, il n’atteindra jamais au champ de sa suffisance qui s’articule dans le thème hégelien du *Selbstbewusstsein*.
+et ceci même en est - je l’ai souligné - l’image, l’illustration et rien de plus …est ce qui conditionne la distinction du « *Je* » comme soutenant ce champ de l’Autre et pouvant se totaliser comme *champ du savoir*, ce qu’il importe de savoir précisément, c’est qu’à se totaliser ainsi, il n’atteindra jamais au champ de sa suffisance qui s’articule dans le thème hégelien du *Selbstbewusstsein*.
 
 <!-- id: s16-08-0137 -->
 
@@ -572,11 +576,11 @@ Ce qui importe pour nous, c’est de confirmer non pas seulement qu’aucune *ad
 
 <!-- id: s16-08-0140 -->
 
-> car ce champ, vous le voyez, loin d’être interminable, est seulement long et il me faut le temps pour vous l’articuler …quiconque d’ici là…
+car ce champ, vous le voyez, loin d’être interminable, est seulement long et il me faut le temps pour vous l’articuler …quiconque d’ici là…
 
 <!-- id: s16-08-0141 -->
 
-> et je dois dire que j’espère qu’il y en a un bon nombre qui n’auront pas besoin de le faire …s’informera de ce que c’est qu’une série de FIBONACCI sera évidemment mieux préparé que les autres, à ce que je ferai pour les autres.
+et je dois dire que j’espère qu’il y en a un bon nombre qui n’auront pas besoin de le faire …s’informera de ce que c’est qu’une série de FIBONACCI sera évidemment mieux préparé que les autres, à ce que je ferai pour les autres.
 
 <!-- id: s16-08-0142 -->
 
@@ -588,7 +592,7 @@ Je partirai de ce fait la prochaine fois : qu’à mesure qu’ils croissent, c
 
 <!-- id: s16-08-0144 -->
 
-> *toutes les séries de Fibonacci sont homologues*, vous pouvez partir de n’importe quel chiffre et le faire croître de n’importe quel chiffre, si vous observez simplement la loi de l’addition, c’est une *série de Fibonacci* et c’est la même …et quelle qu’elle soit, que vous la fassiez croître, vous obtiendrez entre ces chiffres ces proportions qui sont celles inscrites, à savoir le rapport de 1 à *a*.
+*toutes les séries de Fibonacci sont homologues*, vous pouvez partir de n’importe quel chiffre et le faire croître de n’importe quel chiffre, si vous observez simplement la loi de l’addition, c’est une *série de Fibonacci* et c’est la même …et quelle qu’elle soit, que vous la fassiez croître, vous obtiendrez entre ces chiffres ces proportions qui sont celles inscrites, à savoir le rapport de 1 à *a*.
 
 <!-- id: s16-08-0145 -->
 

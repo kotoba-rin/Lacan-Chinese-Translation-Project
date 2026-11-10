@@ -98,9 +98,9 @@ Nous disons que contrairement à ce qui se brode d’une prétendue rupture de F
 
 <!-- id: s13-01-0024 -->
 
-> si on veut bien le désigner dans son allégeance aux idéaux d’un [BRÜCKE](http://fr.wikipedia.org/wiki/Ernst_Wilhelm_von_Br%C3%BCcke), eux-mêmes transmis du pacte
->
-> où un [HELMHOLTZ](http://fr.wikipedia.org/wiki/Hermann_Ludwig_von_Helmholtz) et un [DU BOIS REYMOND](http://www.bibmath.net/bios/index.php3?action=affiche&quoi=duboisreymond) s’était voués à faire rentrer la physiologie et les fonctions de la pensée considérées comme y incluses dans les termes mathématiquement déterminés de la thermodynamique parvenue à son presque achèvement de leur temps …qui a conduit FREUD, comme ses écrits nous le démontrent, à ouvrir la voie qui porte à jamais son nom.
+si on veut bien le désigner dans son allégeance aux idéaux d’un [BRÜCKE](http://fr.wikipedia.org/wiki/Ernst_Wilhelm_von_Br%C3%BCcke), eux-mêmes transmis du pacte
+
+où un [HELMHOLTZ](http://fr.wikipedia.org/wiki/Hermann_Ludwig_von_Helmholtz) et un [DU BOIS REYMOND](http://www.bibmath.net/bios/index.php3?action=affiche&quoi=duboisreymond) s’était voués à faire rentrer la physiologie et les fonctions de la pensée considérées comme y incluses dans les termes mathématiquement déterminés de la thermodynamique parvenue à son presque achèvement de leur temps …qui a conduit FREUD, comme ses écrits nous le démontrent, à ouvrir la voie qui porte à jamais son nom.
 
 <!-- id: s13-01-0025 -->
 
@@ -120,7 +120,7 @@ Nous voulons dire nommément à la société de la double monarchie pour les bor
 
 <!-- id: s13-01-0029 -->
 
-> qui d’entre vous nous écrira un essai digne de LAMENNAIS[^5] sur *L’indifférence en matière de politique* …j’ajouterai : à l’éthique bourgeoise pour laquelle la dignité de sa vie vient à nous inspirer un respect qui fait fonction d’*inhibition* à ce que son œuvre ait - autrement que dans le malentendu et la confusion - réalisé le point de concours des seuls hommes de la vérité qui nous restent :
+qui d’entre vous nous écrira un essai digne de LAMENNAIS[^5] sur *L’indifférence en matière de politique* …j’ajouterai : à l’éthique bourgeoise pour laquelle la dignité de sa vie vient à nous inspirer un respect qui fait fonction d’*inhibition* à ce que son œuvre ait - autrement que dans le malentendu et la confusion - réalisé le point de concours des seuls hommes de la vérité qui nous restent :
 
 <!-- id: s13-01-0030 -->
 
@@ -256,7 +256,7 @@ L’allégeance que l’œuvre de Claude LÉVI-STRAUSS manifeste à un tel struc
 
 <!-- id: s13-01-0063 -->
 
-> spécialement pour une connaissance de la faune et de la flore, dont il souligne qu’elle nous dépasse …qu’il peut arguer - Claude LÉVI-STRAUSS, l’auteur - d’une certaine récupération qui s’annonce dans la chimie, d’une physique des qualités sapides et odorantes, autrement dit d’une corrélation des valeurs perceptives à une architecture de molécule à laquelle nous sommes parvenus par *l’analyse combinatoire*, autrement dit par *la mathématique du signifiant*, comme en toute science jusqu’ici.
+spécialement pour une connaissance de la faune et de la flore, dont il souligne qu’elle nous dépasse …qu’il peut arguer - Claude LÉVI-STRAUSS, l’auteur - d’une certaine récupération qui s’annonce dans la chimie, d’une physique des qualités sapides et odorantes, autrement dit d’une corrélation des valeurs perceptives à une architecture de molécule à laquelle nous sommes parvenus par *l’analyse combinatoire*, autrement dit par *la mathématique du signifiant*, comme en toute science jusqu’ici.
 
 <!-- id: s13-01-0064 -->
 
@@ -268,7 +268,7 @@ Il y a plus ! Claude LÉVI-STRAUSS…
 
 <!-- id: s13-01-0066 -->
 
-> quand après avoir extrait la combinatoire latente dans *Les structures élémentaires de la parenté*, il nous témoigne que tel « informateur » - *pour emprunter le terme des ethnologues* - est tout à fait capable d’en tracer lui-même le graphe *lévi-straussien* …que nous dit-il sinon qu’il extrait là - aussi bien - le sujet de la combinatoire en question : celui qui sur son graphe n’a pas d’autre existence que la dénotation *ego*.
+quand après avoir extrait la combinatoire latente dans *Les structures élémentaires de la parenté*, il nous témoigne que tel « informateur » - *pour emprunter le terme des ethnologues* - est tout à fait capable d’en tracer lui-même le graphe *lévi-straussien* …que nous dit-il sinon qu’il extrait là - aussi bien - le sujet de la combinatoire en question : celui qui sur son graphe n’a pas d’autre existence que la dénotation *ego*.
 
 <!-- id: s13-01-0067 -->
 
@@ -332,7 +332,7 @@ Et c’est pourquoi *il était important de promouvoir d’abord*…
 
 <!-- id: s13-01-0082 -->
 
-> et comme un fait à distinguer de la question de savoir si la psychanalyse est une science, si son champ est scientifique …*ce fait* : précisément que sa *praxis* n’implique d’autre sujet que celui de la science.
+et comme un fait à distinguer de la question de savoir si la psychanalyse est une science, si son champ est scientifique …*ce fait* : précisément que sa *praxis* n’implique d’autre sujet que celui de la science.
 
 <!-- id: s13-01-0083 -->
 
@@ -348,11 +348,19 @@ C’est vrai ! Le point où je vous ai donné aujourd’hui rendez-vous pour ê
 
 <!-- id: s13-01-0086 -->
 
-> « *Wo es war, soll Ich werden.* » que je retraduis une fois de plus, à l’accentuer encore ici :
+<div class="text-quotation">
+
+« *Wo es war, soll Ich werden.* » que je retraduis une fois de plus, à l’accentuer encore ici :
+
+</div>
 
 <!-- id: s13-01-0087 -->
 
-> « *Là où c’était, là comme sujet dois-je advenir.* »
+<div class="text-quotation">
+
+« *Là où c’était, là comme sujet dois-je advenir.* »
+
+</div>
 
 <!-- id: s13-01-0088 -->
 
@@ -360,9 +368,9 @@ Or ce point, je leur en montre l’étrangeté à le prendre à revers, ce qui c
 
 <!-- id: s13-01-0089 -->
 
-> *Comment ce qui était à m’attendre depuis toujours d’un être obscur,*
->
-> *viendrait-il à se totaliser d’un trait qui ne se tire qu’à le diviser plus nettement de ce que j’en peux savoir ?*
+*Comment ce qui était à m’attendre depuis toujours d’un être obscur,*
+
+*viendrait-il à se totaliser d’un trait qui ne se tire qu’à le diviser plus nettement de ce que j’en peux savoir ?*
 
 <!-- id: s13-01-0090 -->
 
@@ -462,9 +470,9 @@ Je ne crois pas que ce soit à cette *horreur* éprouvée que j’aie dû l’ac
 
 <!-- id: s13-01-0114 -->
 
-> j’entends de barre sur un radeau, où par leur truchement j’ai patiemment concubiné dix ans durant pour la pitance narcissique de mes compagnons de naufrage avec *la compréhension jaspersienne* et le *personnalisme* à la manque,
->
-> avec toutes les peines du monde à nous épargner à tous d’être peints au *coaltar de l’« âme à âme » libéral* …« *la Chose, ce mot n’est pas joli*… », m’a-t-on dit textuellement !
+j’entends de barre sur un radeau, où par leur truchement j’ai patiemment concubiné dix ans durant pour la pitance narcissique de mes compagnons de naufrage avec *la compréhension jaspersienne* et le *personnalisme* à la manque,
+
+avec toutes les peines du monde à nous épargner à tous d’être peints au *coaltar de l’« âme à âme » libéral* …« *la Chose, ce mot n’est pas joli*… », m’a-t-on dit textuellement !
 
 <!-- id: s13-01-0115 -->
 
@@ -532,7 +540,11 @@ En tout cas, c’est parce que ce point est voilé dans la science, que vous gar
 
 <!-- id: s13-01-0131 -->
 
-> « *La théorie de MARX est toute puissante parce qu’elle est vraie.* »[^23] il laisse vide l’énormité de la question qu’ouvre sa parole : pourquoi - à supposer muette la vérité du matérialisme sous ses deux faces qui n’en sont qu’une : dialectique et histoire - pourquoi d’en faire la théorie accroîtrait-il sa puissance ?
+<div class="text-quotation">
+
+« *La théorie de MARX est toute puissante parce qu’elle est vraie.* »[^23] il laisse vide l’énormité de la question qu’ouvre sa parole : pourquoi - à supposer muette la vérité du matérialisme sous ses deux faces qui n’en sont qu’une : dialectique et histoire - pourquoi d’en faire la théorie accroîtrait-il sa puissance ?
+
+</div>
 
 <!-- id: s13-01-0132 -->
 
@@ -612,7 +624,7 @@ Ce propos, que je laisse aujourd’hui au domaine qu’il explore…
 
 <!-- id: s13-01-0151 -->
 
-> *j’y reviendrai pour dire comment la phénoménologie est prétexte à la contre-vérité, et le statut de celle-ci* …je ne m’en empare que pour vous poser la question à vous, analystes : oui ou non, ce que vous faites a-t-il le sens d’affirmer que *la vérité de la souffrance névrotique c’est d’avoir la vérité comme cause* ?
+*j’y reviendrai pour dire comment la phénoménologie est prétexte à la contre-vérité, et le statut de celle-ci* …je ne m’en empare que pour vous poser la question à vous, analystes : oui ou non, ce que vous faites a-t-il le sens d’affirmer que *la vérité de la souffrance névrotique c’est d’avoir la vérité comme cause* ?
 
 <!-- id: s13-01-0152 -->
 
@@ -676,7 +688,7 @@ Si l’on ne peut partir de remarque comme celle-ci :
 
 <!-- id: s13-01-0167 -->
 
-> que la fonction que joue la révélation se traduit comme une dénégation de la vérité comme cause, à savoir qu’elle dénie ce qui fonde le sujet à s’y tenir pour partie prenante ...alors il y a peu de chance à donner, à ce qu’on appelle « *l’histoire des religions* », des limites quelconques, c’est-à-dire quelque rigueur.
+que la fonction que joue la révélation se traduit comme une dénégation de la vérité comme cause, à savoir qu’elle dénie ce qui fonde le sujet à s’y tenir pour partie prenante ...alors il y a peu de chance à donner, à ce qu’on appelle « *l’histoire des religions* », des limites quelconques, c’est-à-dire quelque rigueur.
 
 <!-- id: s13-01-0168 -->
 
@@ -872,7 +884,7 @@ Le sujet se divise ici - nous dit FREUD - à l’endroit de la réalité, voyant
 
 <!-- id: s13-01-0216 -->
 
-> qui est le pas-hésitation de la névrose.
+qui est le pas-hésitation de la névrose.
 
 <!-- id: s13-01-0217 -->
 

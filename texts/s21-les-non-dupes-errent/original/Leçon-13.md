@@ -42,7 +42,7 @@ Un logicien...
 
 <!-- id: s21-13-0010 -->
 
-> puisque j’avance que *la logique c’est la science du Réel* ...un logicien a fait un pas, bien longtemps après Aristote.
+puisque j’avance que *la logique c’est la science du Réel* ...un logicien a fait un pas, bien longtemps après Aristote.
 
 <!-- id: s21-13-0011 -->
 
@@ -54,7 +54,7 @@ Il écrit très précisément ce que je viens de vous dire, c’est à savoir qu
 
 <!-- id: s21-13-0013 -->
 
-> et les choses pour lui sont telles qu’il ne peut faire que d’avancer l’idée de *l’univers* ...il la symbolise par un chiffre, un chiffre qui convient, c’est le chiffre **1**.
+et les choses pour lui sont telles qu’il ne peut faire que d’avancer l’idée de *l’univers* ...il la symbolise par un chiffre, un chiffre qui convient, c’est le chiffre **1**.
 
 <!-- id: s21-13-0014 -->
 
@@ -62,7 +62,7 @@ Il écrira donc...
 
 <!-- id: s21-13-0015 -->
 
-> de tout ce qui se propose comme notable dans cet *univers* ...il écrira donc x... il le laisse vide cet « x », puisque c’est là le principe de l’usage de cette lettre, c’est : « quoi que ce soit qui soit notable dans l’univers ». ...« *x* *multiplié par* 1-*x, ceci ne peut que s’égaler à zéro* » : *x* (*1-x* ) *= 0*
+de tout ce qui se propose comme notable dans cet *univers* ...il écrira donc x... il le laisse vide cet « x », puisque c’est là le principe de l’usage de cette lettre, c’est : « quoi que ce soit qui soit notable dans l’univers ». ...« *x* *multiplié par* 1-*x, ceci ne peut que s’égaler à zéro* » : *x* (*1-x* ) *= 0*
 
 <!-- id: s21-13-0016 -->
 
@@ -90,7 +90,7 @@ C’est en tant qu’elle suppose un sujet, que la *métaphysique* se distingue 
 
 <!-- id: s21-13-0022 -->
 
-> située seulement de la place de cette pratique ...de ce qui s’annonce dès lors, s’avance comme étant *trois autres discours*. \[*Discours du Maître, Discours Universitaire, Discours de l’Hystérique (science)*\]
+située seulement de la place de cette pratique ...de ce qui s’annonce dès lors, s’avance comme étant *trois autres discours*. \[*Discours du Maître, Discours Universitaire, Discours de l’Hystérique (science)*\]
 
 <!-- id: s21-13-0023 -->
 
@@ -106,7 +106,7 @@ N’*ex-siste*...
 
 <!-- id: s21-13-0026 -->
 
-> comme l’or­thographe dont je modifie ce terme le marque ...*n’ex-siste* dans toute pra­tique, que ce qui fait fondement du *dire*, je veux dire : ce que *le dire* appor­te comme *instance* dans cette pratique.
+comme l’or­thographe dont je modifie ce terme le marque ...*n’ex-siste* dans toute pra­tique, que ce qui fait fondement du *dire*, je veux dire : ce que *le dire* appor­te comme *instance* dans cette pratique.
 
 <!-- id: s21-13-0027 -->
 
@@ -118,9 +118,9 @@ C’est à ce titre que j’essaie de situer sous ces trois termes, *le Symboliq
 
 <!-- id: s21-13-0029 -->
 
-> articulation dont au terme d’un progrès fait pour susciter, chez ceux qui soutiennent cette pratique,
->
-> l’idée de ce qu’est pour eux le *Réel* ...je dis : *<u>le Réel c’est l’écri­ture</u>*.
+articulation dont au terme d’un progrès fait pour susciter, chez ceux qui soutiennent cette pratique,
+
+l’idée de ce qu’est pour eux le *Réel* ...je dis : *<u>le Réel c’est l’écri­ture</u>*.
 
 <!-- id: s21-13-0030 -->
 
@@ -132,7 +132,7 @@ Et je sou­mets ce que j’énonce, à cette épreuve de *mettre en suspens la d
 
 <!-- id: s21-13-0032 -->
 
-> la distinction justement subjective ...de *l’Imaginaire, du Symbolique et du Réel*, en tant qu’ils pourraient en quelque sorte déjà porter avec eux un sens, un sens qui les hiérarchiserait, en ferait un 1,2,3... \[*suspension du sens → « non ordinal », que du sériel cantorien → « cardinal »*\]
+la distinction justement subjective ...de *l’Imaginaire, du Symbolique et du Réel*, en tant qu’ils pourraient en quelque sorte déjà porter avec eux un sens, un sens qui les hiérarchiserait, en ferait un 1,2,3... \[*suspension du sens → « non ordinal », que du sériel cantorien → « cardinal »*\]
 
 <!-- id: s21-13-0033 -->
 
@@ -164,7 +164,7 @@ Il n’y a là rien que de saisissant, à constater que Boole lui-même...
 
 <!-- id: s21-13-0040 -->
 
-> à écrire ce qui résulte de l’écriture de ces termes dans une formule mathématique ...soit amené à y fonder que le propre de *tout x* \[;\] - de *tout x* en tant qu’énon­cé - c’est que *x – x* <sup>2</sup> = 0 , ce qui s’écrit : *x* = *x* <sup>2</sup>*...* ...je veux dire à se supporter d’une formule mathématique.
+à écrire ce qui résulte de l’écriture de ces termes dans une formule mathématique ...soit amené à y fonder que le propre de *tout x* \[;\] - de *tout x* en tant qu’énon­cé - c’est que *x – x* <sup>2</sup> = 0 , ce qui s’écrit : *x* = *x* <sup>2</sup>*...* ...je veux dire à se supporter d’une formule mathématique.
 
 <!-- id: s21-13-0041 -->
 
@@ -172,7 +172,7 @@ Il est étrange que là une note de son livre, livre dont je vous ai donné tout
 
 <!-- id: s21-13-0042 -->
 
-> dont je vous ai déjà parlé ...peut par exemple améliorer, à son dire, la formulation de Boole en en montrant qu’en certains points, il puisse en résulter qu’elle se fourvoie, disons.
+dont je vous ai déjà parlé ...peut par exemple améliorer, à son dire, la formulation de Boole en en montrant qu’en certains points, il puisse en résulter qu’elle se fourvoie, disons.
 
 <!-- id: s21-13-0043 -->
 
@@ -188,13 +188,13 @@ Il est frappant que Boole...
 
 <!-- id: s21-13-0046 -->
 
-> et ceci à par­tir de la notion de *la vérité* comme séparant radicalement
->
-> ce qu’il en est de l’**1** et du **0**, car c’est du **0** qu’il connote l’*erreur* ...il est frap­pant que cet *univers*, dès lors solidaire comme tel de la fonction de *la vérité,* lui paraisse limiter l’écriture...
+et ceci à par­tir de la notion de *la vérité* comme séparant radicalement
+
+ce qu’il en est de l’**1** et du **0**, car c’est du **0** qu’il connote l’*erreur* ...il est frap­pant que cet *univers*, dès lors solidaire comme tel de la fonction de *la vérité,* lui paraisse limiter l’écriture...
 
 <!-- id: s21-13-0047 -->
 
-> l’écriture de ce qu’il en est de la fonc­tion logique ...à la *puissance **2*** de *x*, quand la *puissance **3*** il se la refuse.
+l’écriture de ce qu’il en est de la fonc­tion logique ...à la *puissance **2*** de *x*, quand la *puissance **3*** il se la refuse.
 
 <!-- id: s21-13-0048 -->
 
@@ -210,7 +210,7 @@ Mais puisqu’il se limite à des valeurs **0** et **1**, elle peut aussi bien p
 
 <!-- id: s21-13-0051 -->
 
-> la fonction prenant sa valeur d’un certain chiffrage **0** et **1** pour chacun des trois ...il peut, à faire *x, y* et *z* cha­cun égal à **1**, s’apercevoir que ça n’est pas **0** qui en est le fruit.
+la fonction prenant sa valeur d’un certain chiffrage **0** et **1** pour chacun des trois ...il peut, à faire *x, y* et *z* cha­cun égal à **1**, s’apercevoir que ça n’est pas **0** qui en est le fruit.
 
 <!-- id: s21-13-0052 -->
 
@@ -258,9 +258,9 @@ Et ceci pour autant que l’expérience analytique nous en démontre l’importa
 
 <!-- id: s21-13-0063 -->
 
-> comme signifiant mais *littéral*, je veux dire *inscriptible*, en tant que l’*inscription*
->
-> c’est de là que surgit dans notre expérience, *la fonction du Réel,* du moins \[ *–* \] , si vous me suivez, ...que *quelque chose comme un x à cette jouissance puisse s’ajouter* \[+\], *et consti­tuer* ce que déjà j’ai défini comme fondant « *le* *plus-de-jouir »*.
+comme signifiant mais *littéral*, je veux dire *inscriptible*, en tant que l’*inscription*
+
+c’est de là que surgit dans notre expérience, *la fonction du Réel,* du moins \[ *–* \] , si vous me suivez, ...que *quelque chose comme un x à cette jouissance puisse s’ajouter* \[+\], *et consti­tuer* ce que déjà j’ai défini comme fondant « *le* *plus-de-jouir »*.
 
 <!-- id: s21-13-0064 -->
 
@@ -272,15 +272,15 @@ Il voit très bien que pour aboutir à la fonction *x* = *x* <sup>3</sup>...
 
 <!-- id: s21-13-0066 -->
 
-> et non plus seule­ment *x* <sup>2</sup> *...*il voit très bien que le tiers terme : le terme (1*+ x*) peut s’écrire autrement et nommément (*–*1 *– x*)...
+et non plus seule­ment *x* <sup>2</sup> *...*il voit très bien que le tiers terme : le terme (1*+ x*) peut s’écrire autrement et nommément (*–*1 *– x*)...
 
 <!-- id: s21-13-0067 -->
 
-> je veux dire (*–*1 *– x*) pris dans une parenthèse ...ce qui équivaut mathématiquement...
+je veux dire (*–*1 *– x*) pris dans une parenthèse ...ce qui équivaut mathématiquement...
 
 <!-- id: s21-13-0068 -->
 
-> je veux dire en tant que *l’écriture* est ce qui est mathématique ...ce qui peut s’inscrire ici d’un « *moins* » avant la parenthèse et de (-1- *x*) mis à l’intérieur : *–* (*–*1 *– x*).
+je veux dire en tant que *l’écriture* est ce qui est mathématique ...ce qui peut s’inscrire ici d’un « *moins* » avant la parenthèse et de (-1- *x*) mis à l’intérieur : *–* (*–*1 *– x*).
 
 <!-- id: s21-13-0069 -->
 
@@ -296,11 +296,11 @@ Dans *l’ordre des choses*...
 
 <!-- id: s21-13-0072 -->
 
-> en tant que le symbole est fait pour y *ex-sister* \[*ex-sister à « lordre des choses » : le symbole <u>s’écrit</u> comme l’impossible, exogène au signifiant* \] ...dans cet *ordre des choses*, il est proprement...
+en tant que le symbole est fait pour y *ex-sister* \[*ex-sister à « lordre des choses » : le symbole <u>s’écrit</u> comme l’impossible, exogène au signifiant* \] ...dans cet *ordre des choses*, il est proprement...
 
 <!-- id: s21-13-0073 -->
 
-> quoi qu’en dise Boole, étudiant ou prétendant faire le statut de la pensée ...il est impensable justement
+quoi qu’en dise Boole, étudiant ou prétendant faire le statut de la pensée ...il est impensable justement
 
 <!-- id: s21-13-0074 -->
 
@@ -344,7 +344,7 @@ C’est à savoir que vous avez ici un rond, un rond de ficelle*...*
 
 <!-- id: s21-13-0084 -->
 
-> comme on l’a appelé justement la première fois que j’ai introduit cette fonction ...ce rond de ficelle, ces 3 ronds de ficelle, les voici.
+comme on l’a appelé justement la première fois que j’ai introduit cette fonction ...ce rond de ficelle, ces 3 ronds de ficelle, les voici.
 
 <!-- id: s21-13-0085 -->
 
@@ -368,7 +368,7 @@ Il est frappant que dans les travaux...
 
 <!-- id: s21-13-0090 -->
 
-> ce sont de véritables travaux qui m’ont été envoyés sur ce point ...travaux qui font leur part à toutes sortes *d’autres façons* - *il y en a d’innombrables* - *de nouer ces* 3 de façon telle qu’ils permettent, avec le dénouement d’1 seul de ces 3 ronds, de libérer exactement tous les autres, et je vous l’ai dit, quel qu’en soit le nombre.
+ce sont de véritables travaux qui m’ont été envoyés sur ce point ...travaux qui font leur part à toutes sortes *d’autres façons* - *il y en a d’innombrables* - *de nouer ces* 3 de façon telle qu’ils permettent, avec le dénouement d’1 seul de ces 3 ronds, de libérer exactement tous les autres, et je vous l’ai dit, quel qu’en soit le nombre.
 
 <!-- id: s21-13-0091 -->
 
@@ -376,7 +376,7 @@ Mais pour nous limiter au **3**, puisque ce **3** colle avec nos **3** fonctions
 
 <!-- id: s21-13-0092 -->
 
-> simplement de ces **3**, strictement équivalents, comme vous pouvez immédiatement le percevoir ...de ces **3** de faire surgir l’amorce de ce qui y serait diffé­renciation.
+simplement de ces **3**, strictement équivalents, comme vous pouvez immédiatement le percevoir ...de ces **3** de faire surgir l’amorce de ce qui y serait diffé­renciation.
 
 <!-- id: s21-13-0093 -->
 
@@ -388,7 +388,7 @@ J’en prends un quel­conque et de ce quadrant je tire la mise à plat, celle q
 
 <!-- id: s21-13-0095 -->
 
-> vous allez voir de là où vous êtes, mais à être où je suis, c’est certai­nement exactement pareil ...c’est à savoir que vous voyez que quelque chose s’y trouve déjà, du fait de la mise à plat, s’y trouve déjà orienté.
+vous allez voir de là où vous êtes, mais à être où je suis, c’est certai­nement exactement pareil ...c’est à savoir que vous voyez que quelque chose s’y trouve déjà, du fait de la mise à plat, s’y trouve déjà orienté.
 
 <!-- id: s21-13-0096 -->
 
@@ -408,9 +408,9 @@ Est-ce que ceci ne rend pas d’au­tant plus frappant ce fait, c’est qu’à 
 
 <!-- id: s21-13-0100 -->
 
-> met­tons que tout à l’heure j’ai choisi - je ne sais pas si c’est effectivement ce que j’ai fait - celui-là, pour vous :
->
-> en haut à droite, si je prends celui que non seulement j’ai dit en haut et à droite mais je dis aussi en avant ...si je prends celui non plus en haut à droite et en avant, mais en bas à gauche et en arrière, celui qui lui est strictement opposé, et si c’est de là que je pars pour le mettre à plat de la même façon que j’ai fait précédemment, il est tout à fait notable, et vous pourrez le vérifier, que ce qui résultera de cette mise à plat sera une façon dont le nœud se coince, dont le nœud se serre, exactement inverse, c’est à savoir *lévogyre*.
+met­tons que tout à l’heure j’ai choisi - je ne sais pas si c’est effectivement ce que j’ai fait - celui-là, pour vous :
+
+en haut à droite, si je prends celui que non seulement j’ai dit en haut et à droite mais je dis aussi en avant ...si je prends celui non plus en haut à droite et en avant, mais en bas à gauche et en arrière, celui qui lui est strictement opposé, et si c’est de là que je pars pour le mettre à plat de la même façon que j’ai fait précédemment, il est tout à fait notable, et vous pourrez le vérifier, que ce qui résultera de cette mise à plat sera une façon dont le nœud se coince, dont le nœud se serre, exactement inverse, c’est à savoir *lévogyre*.
 
 <!-- id: s21-13-0101 -->
 
@@ -434,7 +434,7 @@ Simplement, je vous note que ce fait de l’orientation pour les quadrants oppos
 
 <!-- id: s21-13-0106 -->
 
-> du seul fait que l’orientation surgisse du seul support, du seul support *nodal* dont ici je prends arme ...il est concevable de ces ronds eux-mêmes y marquer un sens, c’est-à-dire une orientation.
+du seul fait que l’orientation surgisse du seul support, du seul support *nodal* dont ici je prends arme ...il est concevable de ces ronds eux-mêmes y marquer un sens, c’est-à-dire une orientation.
 
 <!-- id: s21-13-0107 -->
 
@@ -470,7 +470,7 @@ La loi de ce qui se passe dans l’occa­sion est celle-ci : vous n’avez ici q
 
 <!-- id: s21-13-0115 -->
 
-> je m’excuse de ne pas avoir de craie de couleur, ça serait mieux, je la crayonne ...qu’est-ce qui se passe si nous rabattons un de ces nœuds, un de ces ronds, autour d’un autre ?
+je m’excuse de ne pas avoir de craie de couleur, ça serait mieux, je la crayonne ...qu’est-ce qui se passe si nous rabattons un de ces nœuds, un de ces ronds, autour d’un autre ?
 
 <!-- id: s21-13-0116 -->
 
@@ -542,7 +542,7 @@ On m’a posé la question...
 
 <!-- id: s21-13-0133 -->
 
-> on m’a posé la question *dans un endroit où on travaillait* \[*sic*\] ...on m’a posé la question de savoir quel rapport avait ce nœud borroméen avec ce que j’avais énoncé des 4... je dirai options, dites « *d’identification sexuée* ». En d’autres termes, quel rapport pouvait avoir ceci avec le : : § / § ; ! . !
+on m’a posé la question *dans un endroit où on travaillait* \[*sic*\] ...on m’a posé la question de savoir quel rapport avait ce nœud borroméen avec ce que j’avais énoncé des 4... je dirai options, dites « *d’identification sexuée* ». En d’autres termes, quel rapport pouvait avoir ceci avec le : : § / § ; ! . !
 
 <!-- id: s21-13-0134 -->
 
@@ -570,15 +570,15 @@ L’important est ceci : c’est de marquer que c’est à rabattre celui-là...
 
 <!-- id: s21-13-0140 -->
 
-> nommément « *le vertical *» \[« *le haut* »\] vers « *l’en-­profondeur* », à rabattre celui-ci...
+nommément « *le vertical *» \[« *le haut* »\] vers « *l’en-­profondeur* », à rabattre celui-ci...
 
 <!-- id: s21-13-0141 -->
 
-> c’est-à-dire celui qui était d’abord bien marqué à sa place ici ...c’est à le rabattre ainsi que nous allons obtenir le rond, *le nœud borroméen* tel qu’il se situe dans ce quadrant...
+c’est-à-dire celui qui était d’abord bien marqué à sa place ici ...c’est à le rabattre ainsi que nous allons obtenir le rond, *le nœud borroméen* tel qu’il se situe dans ce quadrant...
 
 <!-- id: s21-13-0142 -->
 
-> à gauche du quadrant quelconque d’où nous sommes partis ...dans ce quadrant donc, avec inversion de *la lévogyrie*, c’est-à-dire passage à *la dextrogyrie*, puisque celui que j’ai fait en bas était un *lévogyre*.
+à gauche du quadrant quelconque d’où nous sommes partis ...dans ce quadrant donc, avec inversion de *la lévogyrie*, c’est-à-dire passage à *la dextrogyrie*, puisque celui que j’ai fait en bas était un *lévogyre*.
 
 <!-- id: s21-13-0143 -->
 
@@ -614,7 +614,7 @@ Comment considérer cette multiplication, si je puis dire par 4, de ce qui résu
 
 <!-- id: s21-13-0151 -->
 
-> que vu l’heure je n’aurai à commenter que la prochaine fois ...c’est ceci : si, comme vous venez de le voir, c’est d’une figure tétraédrique qu’il s’agit, une figure tétraédrique en tant qu’elle est produite par la bascule de 2 des ronds de ficelle, et on peut dire 2 quels qu’ils soient.
+que vu l’heure je n’aurai à commenter que la prochaine fois ...c’est ceci : si, comme vous venez de le voir, c’est d’une figure tétraédrique qu’il s’agit, une figure tétraédrique en tant qu’elle est produite par la bascule de 2 des ronds de ficelle, et on peut dire 2 quels qu’ils soient.
 
 <!-- id: s21-13-0152 -->
 
@@ -642,7 +642,7 @@ C’est une façon commode pour vous de retenir ce qu’il en est au deuxième t
 
 <!-- id: s21-13-0158 -->
 
-> un nœud non plus si nous sommes partis du *lévogyre* ...nous obtenons *un nœud dextrogyre*. Bien.
+un nœud non plus si nous sommes partis du *lévogyre* ...nous obtenons *un nœud dextrogyre*. Bien.
 
 <!-- id: s21-13-0159 -->
 
@@ -658,7 +658,7 @@ Je vais seulement vous suggérer ceci, c’est qu’il en sort...
 
 <!-- id: s21-13-0162 -->
 
-> à partir de *la fonction de la jouissance* \[!\], ...il en sort ceci, c’est que quelque part dans une de ces extrémités du tétraèdre :
+à partir de *la fonction de la jouissance* \[!\], ...il en sort ceci, c’est que quelque part dans une de ces extrémités du tétraèdre :
 
 <!-- id: s21-13-0163 -->
 
@@ -690,7 +690,7 @@ Ce n’est pas pour rien que je l’ai mis sous cette forme, à savoir une forme
 
 <!-- id: s21-13-0170 -->
 
-> ; ! . !
+; ! . !
 
 <!-- id: s21-13-0171 -->
 

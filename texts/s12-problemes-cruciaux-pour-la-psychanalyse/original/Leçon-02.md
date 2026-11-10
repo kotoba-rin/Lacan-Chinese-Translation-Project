@@ -22,7 +22,7 @@ Ce n’est certes pas, pourtant - me semble-t-il - que je vous ai *ménagés* si
 
 <!-- id: s12-02-0005 -->
 
-> entendons bien : quant aux résultats et non quant à la valeur de l’épreuve …pour au terme vous faire admettre, et je dirai presque - de mon point de vue - faire passer la muscade d’un rapport distinct, celui au *sens*, et supporté - comme je l’ai fait - par les deux phrases qui étaient encore tout à l’heure à ce tableau : je ne peux que me féliciter que quelque chose d’un tel discours, soit venu à son but !
+entendons bien : quant aux résultats et non quant à la valeur de l’épreuve …pour au terme vous faire admettre, et je dirai presque - de mon point de vue - faire passer la muscade d’un rapport distinct, celui au *sens*, et supporté - comme je l’ai fait - par les deux phrases qui étaient encore tout à l’heure à ce tableau : je ne peux que me féliciter que quelque chose d’un tel discours, soit venu à son but !
 
 <!-- id: s12-02-0006 -->
 
@@ -54,7 +54,7 @@ Si ces formules, produites d’une façon encore plus aphoristique que dogmatiqu
 
 <!-- id: s12-02-0013 -->
 
-> que ce soit *le linguiste, le psycholinguiste, le psychologue, le stratégiste, le théoricien des jeux*, etc. …le terme que j’avance, et en premier lieu, celui du *signifiant représentant le sujet pour un autre signifiant*, a en soi même quelque chose d’exclusif, qui rappelle qu’à essayer de tracer une autre voie, quant au statut à donner à tel ou tel niveau conçu de signifié, quelque chose assurément est risqué qui, *plus où moins*, annule, franchit, une certaine faille, et qu’avant de s’y laisser prendre, il conviendrait peut être d’y regarder à deux fois. Encore est-ce là, position je dirai quasi impérative, qui bien sûr ne peut se soutenir que de tenter une référence qui, non seulement trouve son recours dans un développement adéquat des théories aux faits, et qui aussi trouve *son fondement dans quelque structure plus radicale.*
+que ce soit *le linguiste, le psycholinguiste, le psychologue, le stratégiste, le théoricien des jeux*, etc. …le terme que j’avance, et en premier lieu, celui du *signifiant représentant le sujet pour un autre signifiant*, a en soi même quelque chose d’exclusif, qui rappelle qu’à essayer de tracer une autre voie, quant au statut à donner à tel ou tel niveau conçu de signifié, quelque chose assurément est risqué qui, *plus où moins*, annule, franchit, une certaine faille, et qu’avant de s’y laisser prendre, il conviendrait peut être d’y regarder à deux fois. Encore est-ce là, position je dirai quasi impérative, qui bien sûr ne peut se soutenir que de tenter une référence qui, non seulement trouve son recours dans un développement adéquat des théories aux faits, et qui aussi trouve *son fondement dans quelque structure plus radicale.*
 
 <!-- id: s12-02-0014 -->
 
@@ -62,7 +62,7 @@ Et aussi bien, tous ceux qui, depuis quelques années, ont pu suivre ce que j’
 
 <!-- id: s12-02-0015 -->
 
-> il y a trois ans, sur un séminaire sur l’*identification...* ce n’est pas sans rapport avec ce que je vous amène maintenant …que j’ai été conduit à la nécessité d’une certaine topologie qui m’a paru s’imposer, surgir de cette expérience même, *la plus singulière*, parfois, souvent, toujours peut-être, la plus confuse qui soit, celle à laquelle nous avons affaire dans la psychanalyse, à savoir *l’identification*.
+il y a trois ans, sur un séminaire sur l’*identification...* ce n’est pas sans rapport avec ce que je vous amène maintenant …que j’ai été conduit à la nécessité d’une certaine topologie qui m’a paru s’imposer, surgir de cette expérience même, *la plus singulière*, parfois, souvent, toujours peut-être, la plus confuse qui soit, celle à laquelle nous avons affaire dans la psychanalyse, à savoir *l’identification*.
 
 <!-- id: s12-02-0016 -->
 
@@ -102,7 +102,7 @@ Disons qu’il y a à cet endroit, plus d’une façon de s’interroger, et qu�
 
 <!-- id: s12-02-0025 -->
 
-> comme jusqu’à présent la chose a passé pour aller de soi dans un certain schématisme naturel …le temps est à réduire à une seule dimension. Mais laissons pour l’instant.
+comme jusqu’à présent la chose a passé pour aller de soi dans un certain schématisme naturel …le temps est à réduire à une seule dimension. Mais laissons pour l’instant.
 
 <!-- id: s12-02-0026 -->
 
@@ -114,7 +114,7 @@ Et simplement d’abord, pour ébranler le caractère intuitif de cette *fonctio
 
 <!-- id: s12-02-0028 -->
 
-> qu’auprès de cet autre, qui mérite en effet le nom d’espace familier, mais particulier aussi …qu’il est un espace… appelons-le *moins… ou même inimaginable*, en tout cas auquel il importe de se familiariser, pour tel paradoxe qu’on y rencontre aisément, où telle absence de prévision à ce que, pour la première fois, vous y soyez introduits.
+qu’auprès de cet autre, qui mérite en effet le nom d’espace familier, mais particulier aussi …qu’il est un espace… appelons-le *moins… ou même inimaginable*, en tout cas auquel il importe de se familiariser, pour tel paradoxe qu’on y rencontre aisément, où telle absence de prévision à ce que, pour la première fois, vous y soyez introduits.
 
 <!-- id: s12-02-0029 -->
 
@@ -198,7 +198,7 @@ En d’autres termes, et ceci d’une façon aussi nécessaire que peu prévisib
 
 <!-- id: s12-02-0049 -->
 
-> comme bien souvent *les métaphores* atteignent un but qu’au préalable, elles ne croyaient viser que d’une façon approximative …que *la chaîne signifiante* a peut être un sens bien plus plein - au sens où elle implique chaînons, et chaînons qui s’emboîtent - que nous ne le supposions d’abord. \[Cf. séminaire *L’identification*, 06-06\]
+comme bien souvent *les métaphores* atteignent un but qu’au préalable, elles ne croyaient viser que d’une façon approximative …que *la chaîne signifiante* a peut être un sens bien plus plein - au sens où elle implique chaînons, et chaînons qui s’emboîtent - que nous ne le supposions d’abord. \[Cf. séminaire *L’identification*, 06-06\]
 
 <!-- id: s12-02-0050 -->
 
@@ -218,7 +218,7 @@ Imaginez ceci où encore il s’agit de le remplir par une surface imaginaire, i
 
 <!-- id: s12-02-0054 -->
 
-> Fig.1 Fig.2
+Fig.1 Fig.2
 
 <!-- id: s12-02-0055 -->
 
@@ -254,7 +254,7 @@ Voilà quelque chose qui est bien destiné à nous retenir et je dirais à intro
 
 <!-- id: s12-02-0063 -->
 
-> et je crois vraiment qu’au terme, il n’y aura pas moyen d’éviter cette première appréhension, ce premier ressort …SOCRATE c’est *le nom* de celui qui s’appelle SOCRATE.
+et je crois vraiment qu’au terme, il n’y aura pas moyen d’éviter cette première appréhension, ce premier ressort …SOCRATE c’est *le nom* de celui qui s’appelle SOCRATE.
 
 <!-- id: s12-02-0064 -->
 
@@ -282,7 +282,7 @@ Que le *nom propre* ait une fonction de désignation, voire même comme on l’a
 
 <!-- id: s12-02-0070 -->
 
-> car à s’engager dans cette voie, vous le verrez, on arrive à des absurdités …qu’il ait cet usage, n’épuise absolument pas la question de ce qui s’annonce dans le *nom propre*.
+car à s’engager dans cette voie, vous le verrez, on arrive à des absurdités …qu’il ait cet usage, n’épuise absolument pas la question de ce qui s’annonce dans le *nom propre*.
 
 <!-- id: s12-02-0071 -->
 
@@ -310,7 +310,7 @@ Et je pense que seul l’usage de *notre petit cercle* - non point eulérien mai
 
 <!-- id: s12-02-0077 -->
 
-> au « *est un homme* » - qui vient là-dedans, et bien plus pour nous que pour quiconque, d’une façon *problématique -* le sens d’être dans le prolongement de ce recoupement du *sens* à *la signification*, à savoir…
+au « *est un homme* » - qui vient là-dedans, et bien plus pour nous que pour quiconque, d’une façon *problématique -* le sens d’être dans le prolongement de ce recoupement du *sens* à *la signification*, à savoir…
 
 <!-- id: s12-02-0078 -->
 
@@ -334,9 +334,9 @@ Car avant sa *Divine comédie*, il a écrit le *De vulgari eloquentia*, il a éc
 
 <!-- id: s12-02-0083 -->
 
-> sans aucun doute avec les impasses, sans aucun doute avec des points de fuite exemplaires, où nous savons
->
-> que ce n’est point là qu’il faut aller, c’est pour cela que nous essayons de réformer la topologie des questions …il a manifesté le plus vif sens du caractère premier et primitif du langage, du langage maternel dit-il, en l’opposant à tout ce qui à son époque était attachement, recours obstiné à un langage savant, et pour tout dire, *préemption de la logique sur le langage*.
+sans aucun doute avec les impasses, sans aucun doute avec des points de fuite exemplaires, où nous savons
+
+que ce n’est point là qu’il faut aller, c’est pour cela que nous essayons de réformer la topologie des questions …il a manifesté le plus vif sens du caractère premier et primitif du langage, du langage maternel dit-il, en l’opposant à tout ce qui à son époque était attachement, recours obstiné à un langage savant, et pour tout dire, *préemption de la logique sur le langage*.
 
 <!-- id: s12-02-0084 -->
 
@@ -344,7 +344,7 @@ Tous les problèmes de jonction du langage à ce qu’on appelle « *la pensée
 
 <!-- id: s12-02-0085 -->
 
-> et Dieu sait avec quel *accent*, quand il s’agit de l’un et l’autre chez l’enfant, à la suite de M. PIAGET par exemple …tout repose dans la fausse route, dans le fourvoiement où des recherches, par ailleurs jaillissantes quant aux faits, méritoires quant aux groupements médités dans l’accumulation, *tout ce fourvoiement repose sur la méconnaissance de l’ordre qui existe entre langage et logique*.
+et Dieu sait avec quel *accent*, quand il s’agit de l’un et l’autre chez l’enfant, à la suite de M. PIAGET par exemple …tout repose dans la fausse route, dans le fourvoiement où des recherches, par ailleurs jaillissantes quant aux faits, méritoires quant aux groupements médités dans l’accumulation, *tout ce fourvoiement repose sur la méconnaissance de l’ordre qui existe entre langage et logique*.
 
 <!-- id: s12-02-0086 -->
 
@@ -356,11 +356,11 @@ La question, pour nous, n’est point d’installer cet ordre de la pensée…
 
 <!-- id: s12-02-0088 -->
 
-> *ce jeu pur et de plus en plus serré* que, non sans intervention de notre progrès dans les sciences, nous arrivons à mettre au point …*ce n’est pas de le substituer au langage* - je veux dire de croire que le langage n’en est en quelque sorte que l’instrument - *qu’il s’agit*, car tout prouve, et au premier plan justement notre expérience analytique, que l’ordre du langage, et du langage grammatical…
+*ce jeu pur et de plus en plus serré* que, non sans intervention de notre progrès dans les sciences, nous arrivons à mettre au point …*ce n’est pas de le substituer au langage* - je veux dire de croire que le langage n’en est en quelque sorte que l’instrument - *qu’il s’agit*, car tout prouve, et au premier plan justement notre expérience analytique, que l’ordre du langage, et du langage grammatical…
 
 <!-- id: s12-02-0089 -->
 
-> car *le recours à la langue maternelle, à la langue première*, celle que parle spontanément *le nourrisson* et *l’homme du peuple*, n’est point objection pour DANTE - contrairement aux grammairiens de son époque - à voir l’importance exactement corrélative de la *lingua grammatica*, c’est cette grammaire là qui lui importe et c’est là qu’il ne doute pas de retrouver la langue pure …c’est tout l’espace, toute la différence qu’il y aura entre le mode d’abord de PIAGET et celui par exemple de quelqu’un comme [VYGOTSKY](http://www2.unil.ch/slav/ling/recherche/ENCYCL%20LING%20RU/VYGOTSKIJ/Vygotskij.html)[^16].
+car *le recours à la langue maternelle, à la langue première*, celle que parle spontanément *le nourrisson* et *l’homme du peuple*, n’est point objection pour DANTE - contrairement aux grammairiens de son époque - à voir l’importance exactement corrélative de la *lingua grammatica*, c’est cette grammaire là qui lui importe et c’est là qu’il ne doute pas de retrouver la langue pure …c’est tout l’espace, toute la différence qu’il y aura entre le mode d’abord de PIAGET et celui par exemple de quelqu’un comme [VYGOTSKY](http://www2.unil.ch/slav/ling/recherche/ENCYCL%20LING%20RU/VYGOTSKIJ/Vygotskij.html)[^16].
 
 <!-- id: s12-02-0090 -->
 
@@ -376,7 +376,7 @@ C’est évidemment, dans un cas comme celui là, la seule façon de procéder, 
 
 <!-- id: s12-02-0093 -->
 
-> sans doute - dit-il - sans doute aide-t-il au développement chez l’enfant de concepts dont il veut que - *je ne dis pas les concepts ultérieurs, mais les concepts chez l’enfant tels qu’il y rencontre à leur appréhension une limite* - que ces concepts soient toujours étroitement liés à une référence d’action …que le langage ne soit là que comme aide, comme instrument mais secondaire, et dont il ne se plaira toujours qu’à *mettre en relief*, dans l’interrogatoire de l’enfant, *l’usage inapproprié*.
+sans doute - dit-il - sans doute aide-t-il au développement chez l’enfant de concepts dont il veut que - *je ne dis pas les concepts ultérieurs, mais les concepts chez l’enfant tels qu’il y rencontre à leur appréhension une limite* - que ces concepts soient toujours étroitement liés à une référence d’action …que le langage ne soit là que comme aide, comme instrument mais secondaire, et dont il ne se plaira toujours qu’à *mettre en relief*, dans l’interrogatoire de l’enfant, *l’usage inapproprié*.
 
 <!-- id: s12-02-0094 -->
 
@@ -388,7 +388,7 @@ C’est la précession des particules, des petites formules, des « *peut-être
 
 <!-- id: s12-02-0096 -->
 
-> et après tout, s’il le faut, ici j’apporterai les documents …que *la structure grammaticale* est absolument corrélative des toutes premières apparitions du langage.
+et après tout, s’il le faut, ici j’apporterai les documents …que *la structure grammaticale* est absolument corrélative des toutes premières apparitions du langage.
 
 <!-- id: s12-02-0097 -->
 
@@ -396,7 +396,7 @@ Qu’est-ce à dire, sinon que ce qui importe, n’est point assurément de voir
 
 <!-- id: s12-02-0098 -->
 
-> assurément quelque chose qui, avec le temps, se réalise, puisqu’il devient l’adulte que nous croyons être …c’est que, si à un certain stade, de certaines étapes sont à relever dans son adéquation au concept.
+assurément quelque chose qui, avec le temps, se réalise, puisqu’il devient l’adulte que nous croyons être …c’est que, si à un certain stade, de certaines étapes sont à relever dans son adéquation au concept.
 
 <!-- id: s12-02-0099 -->
 
@@ -408,9 +408,9 @@ Mais laissons cela. L’important serait d’étudier comme le fait VYGOTSKY…
 
 <!-- id: s12-02-0101 -->
 
-> et ce qui est aussi bien pour lui la source d’aperception extrêmement riche,
->
-> bien qu’elle n’ait pas été depuis, dans le même cercle, exploitée …*ce que l’enfant fait spontanément* - avec quoi ? - *avec les mots, sans lesquels*, assurément tout le monde est d’accord, *il n’y a pas de concept*.
+et ce qui est aussi bien pour lui la source d’aperception extrêmement riche,
+
+bien qu’elle n’ait pas été depuis, dans le même cercle, exploitée …*ce que l’enfant fait spontanément* - avec quoi ? - *avec les mots, sans lesquels*, assurément tout le monde est d’accord, *il n’y a pas de concept*.
 
 <!-- id: s12-02-0102 -->
 
@@ -506,7 +506,7 @@ Précisément en ceci : que l’affirmation fondamentale d’où nous partons i
 
 <!-- id: s12-02-0125 -->
 
-> et sans laquelle il n’y aurait, en effet, aucun problème des rapports du langage à la pensée, du langage au sujet …est ceci : qu’*il n’y a pas de métalangage*.
+et sans laquelle il n’y aurait, en effet, aucun problème des rapports du langage à la pensée, du langage au sujet …est ceci : qu’*il n’y a pas de métalangage*.
 
 <!-- id: s12-02-0126 -->
 
@@ -550,19 +550,19 @@ Je veux dire que si *le sens* *- c’est la ma référence radicale –* est...
 
 <!-- id: s12-02-0136 -->
 
-> ce que j’ai déjà approché ailleurs à propos du *Witz* de FREUD \[séminaire 1957-58 : « Les formations... », 04-12 , 11-12 \] ...à caractériser dans un ordre qui est communicable...
+ce que j’ai déjà approché ailleurs à propos du *Witz* de FREUD \[séminaire 1957-58 : « Les formations... », 04-12 , 11-12 \] ...à caractériser dans un ordre qui est communicable...
 
 <!-- id: s12-02-0137 -->
 
-> certes, mais non codifiable dans les modes actuellement reçus de la communication scientifique et que j’ai appelé,
->
-> que j’ai évoqué, que j’ai fait pointer, la dernière fois sous le terme du *non-sens*, comme étant la face glacée,
->
-> celle, abrupte, où se marque cette limite entre l’effet du signifiant et ce qui lui revient par réflexion d’effet signifié ...si en d’autres termes il y a quelque part un *« pas de sens »*...
+certes, mais non codifiable dans les modes actuellement reçus de la communication scientifique et que j’ai appelé,
+
+que j’ai évoqué, que j’ai fait pointer, la dernière fois sous le terme du *non-sens*, comme étant la face glacée,
+
+celle, abrupte, où se marque cette limite entre l’effet du signifiant et ce qui lui revient par réflexion d’effet signifié ...si en d’autres termes il y a quelque part un *« pas de sens »*...
 
 <!-- id: s12-02-0138 -->
 
-> *c’est le terme dont je me suis servi à propos du Witz, jouant sur l’ambiguïté du mot « pas » : négation, au mot « pas » : franchissement* ...rien ne prépare le psychanalyste à discuter effectivement son expérience avec son voisin.
+*c’est le terme dont je me suis servi à propos du Witz, jouant sur l’ambiguïté du mot « pas » : négation, au mot « pas » : franchissement* ...rien ne prépare le psychanalyste à discuter effectivement son expérience avec son voisin.
 
 <!-- id: s12-02-0139 -->
 
@@ -630,7 +630,7 @@ Le quatrième mercredi de Janvier, toute personne qui se présentera ici…
 
 <!-- id: s12-02-0155 -->
 
-> et qui sait, aucune raison qu’elles ne soient pas - à la limite - aussi nombreuses
+et qui sait, aucune raison qu’elles ne soient pas - à la limite - aussi nombreuses
 
 <!-- id: s12-02-0156 -->
 
@@ -642,7 +642,7 @@ Le quatrième mercredi de Janvier, toute personne qui se présentera ici…
 
 <!-- id: s12-02-0158 -->
 
-> dans un discours tel que celui que je poursuis ici et dont je vous ai, je pense, suffisamment esquissé la fonction analogue, quoique inverse, de la relation analytique ...pose comme structurant, sain et normal, qu’à un certain ordre de travaux participent des gens qui m’en ont formulé la demande.
+dans un discours tel que celui que je poursuis ici et dont je vous ai, je pense, suffisamment esquissé la fonction analogue, quoique inverse, de la relation analytique ...pose comme structurant, sain et normal, qu’à un certain ordre de travaux participent des gens qui m’en ont formulé la demande.
 
 <!-- id: s12-02-0159 -->
 

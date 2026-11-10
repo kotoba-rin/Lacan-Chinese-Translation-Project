@@ -109,7 +109,7 @@ Vous la voyez déjà se dessiner dans cette botte que j’ai appelé tout à l�
 
 <!-- id: s11-15-0023 -->
 
-> sans doute, non rassemblée.
+sans doute, non rassemblée.
 
 <!-- id: s11-15-0024 -->
 

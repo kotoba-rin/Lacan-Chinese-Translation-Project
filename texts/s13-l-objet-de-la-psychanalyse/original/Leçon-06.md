@@ -14,11 +14,11 @@ Contrairement à ce que j’ai pu entendre…
 
 <!-- id: s13-06-0003 -->
 
-> fut-ce *à l’état d’écho*, pour avoir été *émis très proche de moi*, je veux dire parmi ceux qui sont mes élèves …*la théorie*…
+fut-ce *à l’état d’écho*, pour avoir été *émis très proche de moi*, je veux dire parmi ceux qui sont mes élèves …*la théorie*…
 
 <!-- id: s13-06-0004 -->
 
-> la théorie telle que je la fais ici, telle que je la construis …*la théorie* ne saurait aucunement être mise au rang du *mythe*.
+la théorie telle que je la fais ici, telle que je la construis …*la théorie* ne saurait aucunement être mise au rang du *mythe*.
 
 <!-- id: s13-06-0005 -->
 
@@ -38,7 +38,7 @@ Quand je dénonce, par exemple, comme non vérité, d’énoncer au nom d’une 
 
 <!-- id: s13-06-0009 -->
 
-> que la vérité de la souffrance n’est pas la souffrance elle–même …est controuvé[^74].
+que la vérité de la souffrance n’est pas la souffrance elle–même …est controuvé[^74].
 
 <!-- id: s13-06-0010 -->
 
@@ -74,7 +74,7 @@ Un tour ne suffit pas à nous livrer l’essence de la structure du *tore* : un
 
 <!-- id: s13-06-0018 -->
 
-> je pense n’avoir pas à y revenir aujourd’hui et que tout ceux qui sont là étaient là la dernière fois, pour les autres, mon Dieu, tant pis, qu’ils s’informent …j’ai dit que deux trous, quels qu’ils soient, sur la sphère sont toujours concentriques même s’ils apparaissent, à une première vue, être ce qu’on appelle extérieurs. Ils sont toujours concentriques et créent ceci que je dessine ici qui s’appelle la bande, que nous appellerons par convention ici pour nous en servir, la bande cylindrique.
+je pense n’avoir pas à y revenir aujourd’hui et que tout ceux qui sont là étaient là la dernière fois, pour les autres, mon Dieu, tant pis, qu’ils s’informent …j’ai dit que deux trous, quels qu’ils soient, sur la sphère sont toujours concentriques même s’ils apparaissent, à une première vue, être ce qu’on appelle extérieurs. Ils sont toujours concentriques et créent ceci que je dessine ici qui s’appelle la bande, que nous appellerons par convention ici pour nous en servir, la bande cylindrique.
 
 <!-- id: s13-06-0019 -->
 
@@ -82,7 +82,7 @@ Topologiquement, que ce soit, je vous l’ai dit la dernière fois, un jade plat
 
 <!-- id: s13-06-0020 -->
 
-> tout ça parce que c’est une figure sous laquelle cette bande peut apparaître et apparaît effectivement et non sans raison dans l’art ou dans ce qu’on appelle l’art …ce peut donc être à la fois cette forme plate perforée au centre ou un cylindre, topologiquement c’est équivalent.
+tout ça parce que c’est une figure sous laquelle cette bande peut apparaître et apparaît effectivement et non sans raison dans l’art ou dans ce qu’on appelle l’art …ce peut donc être à la fois cette forme plate perforée au centre ou un cylindre, topologiquement c’est équivalent.
 
 <!-- id: s13-06-0021 -->
 
@@ -98,9 +98,9 @@ coupure ainsi faite \[1\] par exemple, ou aussi bien ainsi faite \[2\], a simple
 
 <!-- id: s13-06-0024 -->
 
-> puisque, ce qui définit la structure du tore, je veux dire intuitivement… je suis moi-même gêné de devoir poursuivre ce discours en des termes qui font appel à votre œil, à votre intuition
->
-> de ce que c’est, cet anneau creux, le tore. Mais profitons de ce support de l’intuition et après tout, il répond au fondement de la structure …pour que la coupure se ferme en ayant fait deux tours autour du trou, si vous voulez appelons-la circulaire, il est nécessaire qu’elle fasse aussi, cette coupure, un tour autour du trou, appelons le, le nom n’est peut-être pas le meilleur, mais qu’ici il fasse pour vous, image, figure, du « *trou central* » :
+puisque, ce qui définit la structure du tore, je veux dire intuitivement… je suis moi-même gêné de devoir poursuivre ce discours en des termes qui font appel à votre œil, à votre intuition
+
+de ce que c’est, cet anneau creux, le tore. Mais profitons de ce support de l’intuition et après tout, il répond au fondement de la structure …pour que la coupure se ferme en ayant fait deux tours autour du trou, si vous voulez appelons-la circulaire, il est nécessaire qu’elle fasse aussi, cette coupure, un tour autour du trou, appelons le, le nom n’est peut-être pas le meilleur, mais qu’ici il fasse pour vous, image, figure, du « *trou central* » :
 
 <!-- id: s13-06-0025 -->
 
@@ -120,11 +120,11 @@ Voilà, donc ce qui va se produire chaque fois que la répétition de ce tour…
 
 <!-- id: s13-06-0029 -->
 
-> que par convention nous allons assimiler au tour de la demande …deux D ne saurait aller sans que, pour que la courbe soit fermée, aussi le tour soit fait du trou central. 2 D ne va pas sans d ou si vous faites la coupure autrement, ce qui est aussi concevable, je pense…
+que par convention nous allons assimiler au tour de la demande …deux D ne saurait aller sans que, pour que la courbe soit fermée, aussi le tour soit fait du trou central. 2 D ne va pas sans d ou si vous faites la coupure autrement, ce qui est aussi concevable, je pense…
 
 <!-- id: s13-06-0030 -->
 
-> il faut que je fasse les choses *un peu plus rigoureusement* pour que je ne sois pas tout à fait… …ce qui est aussi concevable, un D (une demande) pour que la coupure soit fermée implique deux tours autour du trou central que nous appellerons l’équivalent de deux d.
+il faut que je fasse les choses *un peu plus rigoureusement* pour que je ne sois pas tout à fait… …ce qui est aussi concevable, un D (une demande) pour que la coupure soit fermée implique deux tours autour du trou central que nous appellerons l’équivalent de deux d.
 
 <!-- id: s13-06-0031 -->
 
@@ -136,7 +136,7 @@ La *demande* et le *désir* c’est ce…
 
 <!-- id: s13-06-0033 -->
 
-> qu’au cours de notre construction dès longtemps préparée et quand nous avons introduit au plus près de l’expérience analytique les termes *Fonction et champ de la parole et du langage*[^75] …ce à quoi nous avons donné la part qui est l’essentiel de l’expérience analytique, non pas seulement son truchement, son instrument, son moyen, mais assurément, il faut tenir compte *qu’il n’y a pas*, au dernier terme, *d’autre support* de l’expérience analytique *que cette parole et ce langage*.
+qu’au cours de notre construction dès longtemps préparée et quand nous avons introduit au plus près de l’expérience analytique les termes *Fonction et champ de la parole et du langage*[^75] …ce à quoi nous avons donné la part qui est l’essentiel de l’expérience analytique, non pas seulement son truchement, son instrument, son moyen, mais assurément, il faut tenir compte *qu’il n’y a pas*, au dernier terme, *d’autre support* de l’expérience analytique *que cette parole et ce langage*.
 
 <!-- id: s13-06-0034 -->
 
@@ -148,7 +148,7 @@ C’est une façon pour nous de supporter ce que nous donne une expérience dont
 
 <!-- id: s13-06-0036 -->
 
-> l’expérience psychanalytique à cette étape de structure que nous faisons ici supporter par *le tore* et qui est, disais-je, le premier temps que j’ai donné à *ma reconstruction de l’expérience freudienne* …en un sens *Fonction et champ de la parole et du langage* c’est l’assurer sur le fondement du pur *symbolique*.
+l’expérience psychanalytique à cette étape de structure que nous faisons ici supporter par *le tore* et qui est, disais-je, le premier temps que j’ai donné à *ma reconstruction de l’expérience freudienne* …en un sens *Fonction et champ de la parole et du langage* c’est l’assurer sur le fondement du pur *symbolique*.
 
 <!-- id: s13-06-0037 -->
 
@@ -160,11 +160,11 @@ Un instant, arrêtons-nous donc, avant de le quitter. Avec cette… structure…
 
 <!-- id: s13-06-0039 -->
 
-> vous m’avez vu hésiter parce que j’allais dire « cette forme » et en effet, pour autant que nous allons la quitter pour passer à une autre structure, elle se détache comme une forme au moment où elle tombe …arrêtons nous-*y* un instant pour envisager comment même il a été possible que nous retienne, que nous retienne nécessairement, car ce n’est pas vain détour mais passage obligé dans notre construction de la théorie si nous avons dû repartir de *Fonction et champ de la parole et du langage* comme du point initial : ce *pur symbolique* s’inscrit dans les conditions qui font que c’est le névrosé et je dirai, le névrosé moderne…
+vous m’avez vu hésiter parce que j’allais dire « cette forme » et en effet, pour autant que nous allons la quitter pour passer à une autre structure, elle se détache comme une forme au moment où elle tombe …arrêtons nous-*y* un instant pour envisager comment même il a été possible que nous retienne, que nous retienne nécessairement, car ce n’est pas vain détour mais passage obligé dans notre construction de la théorie si nous avons dû repartir de *Fonction et champ de la parole et du langage* comme du point initial : ce *pur symbolique* s’inscrit dans les conditions qui font que c’est le névrosé et je dirai, le névrosé moderne…
 
 <!-- id: s13-06-0040 -->
 
-> mode de manifestation du sujet non pas *mythiquement* mais historiquement daté, entré dans la réalité de l’histoire, sûrement à une certaine date, même si elle n’est pas datable, nous n’allons pas nous égarer sur ce qu’était les obsessionnels au temps des stoïciens, faute de documents, nous serons prudents à en faire éventuellement quelque reconstruction structuralement modifiée. Ce n’est pas cela qui nous importe …car ce névrosé moderne \[...\] il n’est pas sans corrélation avec l’émergence de quelque chose, d’un déplacement du mode de la raison dans l’appréhension de la certitude qui est ce que nous avons cherché à cerner autour du moment historique du *cogito cartésien*.
+mode de manifestation du sujet non pas *mythiquement* mais historiquement daté, entré dans la réalité de l’histoire, sûrement à une certaine date, même si elle n’est pas datable, nous n’allons pas nous égarer sur ce qu’était les obsessionnels au temps des stoïciens, faute de documents, nous serons prudents à en faire éventuellement quelque reconstruction structuralement modifiée. Ce n’est pas cela qui nous importe …car ce névrosé moderne \[...\] il n’est pas sans corrélation avec l’émergence de quelque chose, d’un déplacement du mode de la raison dans l’appréhension de la certitude qui est ce que nous avons cherché à cerner autour du moment historique du *cogito cartésien*.
 
 <!-- id: s13-06-0041 -->
 
@@ -180,7 +180,7 @@ Ce moment est inséparable aussi de cette autre émergence qui s’appelle la fo
 
 <!-- id: s13-06-0044 -->
 
-> du sujet de la science.
+du sujet de la science.
 
 <!-- id: s13-06-0045 -->
 
@@ -224,7 +224,11 @@ Mais ce qui s’est introduit avec la psychanalyse décidément du côté de cel
 
 <!-- id: s13-06-0055 -->
 
-> « *Moi la vérité, je parle*. ». \[*Écrits*, p. 409 ; ou t.1 p. 406.\]
+<div class="text-quotation">
+
+« *Moi la vérité, je parle*. ». \[*Écrits*, p. 409 ; ou t.1 p. 406.\]
+
+</div>
 
 <!-- id: s13-06-0056 -->
 
@@ -244,7 +248,7 @@ Je le répète…
 
 <!-- id: s13-06-0060 -->
 
-> sans doute, j’ai eu trop l’occasion de m’apercevoir combien il est nécessaire pour se faire entendre d’insister …la vérité comme telle est incitée, est convoquée, non plus à être prise comme dans l’émergence du statut de la science, comme problématique, mais à venir - si je puis dire - plaider sa cause elle-même à la barre, elle-même à poser le problème de son énigme dans le domaine de la science.
+sans doute, j’ai eu trop l’occasion de m’apercevoir combien il est nécessaire pour se faire entendre d’insister …la vérité comme telle est incitée, est convoquée, non plus à être prise comme dans l’émergence du statut de la science, comme problématique, mais à venir - si je puis dire - plaider sa cause elle-même à la barre, elle-même à poser le problème de son énigme dans le domaine de la science.
 
 <!-- id: s13-06-0061 -->
 
@@ -256,7 +260,7 @@ Ce n’est pas pour rien que nous avons une logique qu’on appelle moderne, log
 
 <!-- id: s13-06-0063 -->
 
-> on peut même dire et croire autant qu’il faut aussi faire crédit tellement nous avons peu de documents …ébauchée, dis-je, par les Stoïciens.
+on peut même dire et croire autant qu’il faut aussi faire crédit tellement nous avons peu de documents …ébauchée, dis-je, par les Stoïciens.
 
 <!-- id: s13-06-0064 -->
 
@@ -272,9 +276,9 @@ Cette ἀλήθεια \[aléthèia\] cette figure ambiguë de ce qui ne saurait 
 
 <!-- id: s13-06-0067 -->
 
-> cette ἀλήθεια \[aléthèia\] dont un HEIDEGGER nous rappelle dans la pensée qui est la nôtre
->
-> la fonction inaugurale, et nous rappelle à y retourner, je dois dire non sans une étrange maladresse de philosophe car au point où nous en sommes, j’ose dire que nous, psychanalystes, nous avons plus à en dire, oui, plus à en dire, que ce que HEIDEGGER dit de la *Wahrheit* même barrée dans son rapport au *Wesen*[^76] …laissons cela de côté un instant et disons qu’à l’ἀλήθεια \[alêthéia\] - c’est pour cela que je l’ai réintroduite - depuis *les Stoïciens*, s’oppose l’ ἀληθές \[alêthés\], le vrai au neutre, attribut.
+cette ἀλήθεια \[aléthèia\] dont un HEIDEGGER nous rappelle dans la pensée qui est la nôtre
+
+la fonction inaugurale, et nous rappelle à y retourner, je dois dire non sans une étrange maladresse de philosophe car au point où nous en sommes, j’ose dire que nous, psychanalystes, nous avons plus à en dire, oui, plus à en dire, que ce que HEIDEGGER dit de la *Wahrheit* même barrée dans son rapport au *Wesen*[^76] …laissons cela de côté un instant et disons qu’à l’ἀλήθεια \[alêthéia\] - c’est pour cela que je l’ai réintroduite - depuis *les Stoïciens*, s’oppose l’ ἀληθές \[alêthés\], le vrai au neutre, attribut.
 
 <!-- id: s13-06-0068 -->
 
@@ -290,9 +294,9 @@ Disons que toute la logique, *la logique propositionnelle moderne* que vous pouv
 
 <!-- id: s13-06-0071 -->
 
-> nulle part vous n’y trouverez – je vous le dis en passant – la fonction logique pourtant que
->
-> j’ai introduite l’année dernière… l’année avant dernière[^77], sous le nom de l’aliénation. J’y reviendrai …ces opérations se fondent, se définissent d’une façon qu’on appelle purement formelle à partir de la possibilité de qualifier un énoncé d’ ἀληθές \[alêthés\], vrai ou faux, en d’autres termes de lui donner une *valeur de vérité*.
+nulle part vous n’y trouverez – je vous le dis en passant – la fonction logique pourtant que
+
+j’ai introduite l’année dernière… l’année avant dernière[^77], sous le nom de l’aliénation. J’y reviendrai …ces opérations se fondent, se définissent d’une façon qu’on appelle purement formelle à partir de la possibilité de qualifier un énoncé d’ ἀληθές \[alêthés\], vrai ou faux, en d’autres termes de lui donner une *valeur de vérité*.
 
 <!-- id: s13-06-0072 -->
 
@@ -320,7 +324,7 @@ Le rapport à la vérité est, en d’autres termes, ici suturé par la pure et 
 
 <!-- id: s13-06-0078 -->
 
-> en tant que ce serait l’expérience ou quoi que ce soit de l’ordre d’une objectalité expérientielle …sera toujours insuffisant, comme il est facile de le démontrer chaque fois que cette voie est prise .
+en tant que ce serait l’expérience ou quoi que ce soit de l’ordre d’une objectalité expérientielle …sera toujours insuffisant, comme il est facile de le démontrer chaque fois que cette voie est prise .
 
 <!-- id: s13-06-0079 -->
 
@@ -352,7 +356,7 @@ Il n’y a qu’une faiblesse à cette théorie, à ce registre, c’est qu’il
 
 <!-- id: s13-06-0086 -->
 
-> et c’est ici que nous nous remettons en jeu, nous autres analystes, une sorte de rencontre qui est celle dont je vous ai parlé la première année où j’ai parlé ici \[E.N.S., rue d’Ulm, Paris V<sup>ème</sup>\] *tout de suite après* *la répétition* …c’est précisément la rencontre avec *la vérité* [^80].
+et c’est ici que nous nous remettons en jeu, nous autres analystes, une sorte de rencontre qui est celle dont je vous ai parlé la première année où j’ai parlé ici \[E.N.S., rue d’Ulm, Paris V<sup>ème</sup>\] *tout de suite après* *la répétition* …c’est précisément la rencontre avec *la vérité* [^80].
 
 <!-- id: s13-06-0087 -->
 
@@ -364,9 +368,9 @@ Dans la dimension de la *vérité*, c’est-à-dire la totalité de ce qui entre
 
 <!-- id: s13-06-0089 -->
 
-> selon des critères qui - je vous l’ai indiqué - ne sont pas simples à définir puisque, toujours, ils font entrer d’un côté, la question de l’être, et de l’autre, celui de la rencontre justement avec ce qui est en question : avec la *vérité*.
->
-> La *vérité* entre en jeu, restaure et s’articule comme primitive fiction autour de quoi va avoir à surgir un certain ordre de coordonnées dont il s’agit pour ne pas oublier la structure …avant que quoi que ce soit puisse se poursuivre valablement de sa dialectique, *c’est cela qui est en question*.
+selon des critères qui - je vous l’ai indiqué - ne sont pas simples à définir puisque, toujours, ils font entrer d’un côté, la question de l’être, et de l’autre, celui de la rencontre justement avec ce qui est en question : avec la *vérité*.
+
+La *vérité* entre en jeu, restaure et s’articule comme primitive fiction autour de quoi va avoir à surgir un certain ordre de coordonnées dont il s’agit pour ne pas oublier la structure …avant que quoi que ce soit puisse se poursuivre valablement de sa dialectique, *c’est cela qui est en question*.
 
 <!-- id: s13-06-0090 -->
 
@@ -378,11 +382,11 @@ Si l’année dernière nous avons ici, fait si long, si grand état des thèses
 
 <!-- id: s13-06-0092 -->
 
-> une parmi les autres, mais celle-là spécialement révélatrice pour nous d’aller dans *un sens radical* …lorsque nous avons vu ou entrevu…
+une parmi les autres, mais celle-là spécialement révélatrice pour nous d’aller dans *un sens radical* …lorsque nous avons vu ou entrevu…
 
 <!-- id: s13-06-0093 -->
 
-> grâce à certains de ceux qui veulent bien ici me répondre …ce que nous avons vu c’est qu’au niveau de la conception du concept, tout est tiré du côté où ce qui va avoir à prendre valeur, ou non, de *vérité* est marqué d’une certaine sollicitation, réduction, limitation qui est proprement celle du fait qu’il a pu en tirer la théorie du nombre qui est la sienne et que si l’on y regarde de près, le *concept* fregien est entièrement centré sur ce à quoi peut être donné un *nom propre*.
+grâce à certains de ceux qui veulent bien ici me répondre …ce que nous avons vu c’est qu’au niveau de la conception du concept, tout est tiré du côté où ce qui va avoir à prendre valeur, ou non, de *vérité* est marqué d’une certaine sollicitation, réduction, limitation qui est proprement celle du fait qu’il a pu en tirer la théorie du nombre qui est la sienne et que si l’on y regarde de près, le *concept* fregien est entièrement centré sur ce à quoi peut être donné un *nom propre*.
 
 <!-- id: s13-06-0094 -->
 
@@ -390,11 +394,11 @@ En quoi pour nous, avec la critique que nous en avons faite l’année dernière
 
 <!-- id: s13-06-0095 -->
 
-> je demande pardon à ceux qui n’y étaient pas participants …en quoi se révèle le caractère spécifiquement subjectif…
+je demande pardon à ceux qui n’y étaient pas participants …en quoi se révèle le caractère spécifiquement subjectif…
 
 <!-- id: s13-06-0096 -->
 
-> au sens de la structure que nous-mêmes donnons au terme de sujet …de ce qui pour un FREGE, en tant que logicien de la science, est ce qui caractérise comme tel l’objet de la science.
+au sens de la structure que nous-mêmes donnons au terme de sujet …de ce qui pour un FREGE, en tant que logicien de la science, est ce qui caractérise comme tel l’objet de la science.
 
 <!-- id: s13-06-0097 -->
 
@@ -418,7 +422,7 @@ Ceci est caché parce que *l’objet(a)* ne se voit même pas dans la suture du 
 
 <!-- id: s13-06-0102 -->
 
-> un statut dont on rende compte et non pas seulement qu’on constate …comme le fait d’être divisé, son statut au sujet précisément, dont le sens ne saurait échapper à cette division.
+un statut dont on rende compte et non pas seulement qu’on constate …comme le fait d’être divisé, son statut au sujet précisément, dont le sens ne saurait échapper à cette division.
 
 <!-- id: s13-06-0103 -->
 
@@ -454,7 +458,7 @@ Or quoi qu’on en pense, c’est là quelque chose qui peut bien se peindre en 
 
 <!-- id: s13-06-0111 -->
 
-> j’ai encore, il n’y a pas longtemps, entendu employer le terme …de réaliste, pour désigner *le mythe* – comme on disait – *de la réalité*.
+j’ai encore, il n’y a pas longtemps, entendu employer le terme …de réaliste, pour désigner *le mythe* – comme on disait – *de la réalité*.
 
 <!-- id: s13-06-0112 -->
 
@@ -474,7 +478,7 @@ Je répète qu’on voit combien est solidaire à la fois de l’idéalisme et d
 
 <!-- id: s13-06-0116 -->
 
-> qui est le réalisme, je ne dirai pas de ce qu’on appelle le sens commun, car le sens commun est insondable, du sens des gens précisément qui se croient être *un moi*, *un moi qui connaît* et qui font une théorie de la connaissance …c’est que tant que la structure est faite de ces sphères qui s’enveloppent l’une l’autre… quel que soit l’ordre dans lequel elles s’étagent …nous nous trouvons justement devant cette figure : entre nous (sphère subjective) et toute sphère, il y aura toujours une certaine quantité de sphères intermédiaires : idée, idée d’idée, représentation, représentation de représentation, idée de représentation, et qu’au-delà même de la dernière sphère… disons que c’est la sphère du phénomène …nous pouvons peut-être admettre l’existence d’une « *chose en soi* », c’est-à-dire d’un au-delà de la dernière sphère.
+qui est le réalisme, je ne dirai pas de ce qu’on appelle le sens commun, car le sens commun est insondable, du sens des gens précisément qui se croient être *un moi*, *un moi qui connaît* et qui font une théorie de la connaissance …c’est que tant que la structure est faite de ces sphères qui s’enveloppent l’une l’autre… quel que soit l’ordre dans lequel elles s’étagent …nous nous trouvons justement devant cette figure : entre nous (sphère subjective) et toute sphère, il y aura toujours une certaine quantité de sphères intermédiaires : idée, idée d’idée, représentation, représentation de représentation, idée de représentation, et qu’au-delà même de la dernière sphère… disons que c’est la sphère du phénomène …nous pouvons peut-être admettre l’existence d’une « *chose en soi* », c’est-à-dire d’un au-delà de la dernière sphère.
 
 <!-- id: s13-06-0117 -->
 
@@ -510,11 +514,11 @@ C’est une surface qui, si je la défais…
 
 <!-- id: s13-06-0125 -->
 
-> je crois que nous n’avons pour l’instant plus rien à en faire : je la défais …cette *bande de Mœbius* qui était bouclée avec elle, a pour propriété de pouvoir, si je puis dire, se doublant elle-même, accolant une de ses faces, appelons-la la face bleue…
+je crois que nous n’avons pour l’instant plus rien à en faire : je la défais …cette *bande de Mœbius* qui était bouclée avec elle, a pour propriété de pouvoir, si je puis dire, se doublant elle-même, accolant une de ses faces, appelons-la la face bleue…
 
 <!-- id: s13-06-0126 -->
 
-> pour ne pas dire l’endroit et l’envers : elle n’a pas d’endroit ni d’envers, elle a un endroit et un envers une fois qu’on a choisi …la face bleue est collée à elle-même et la face rouge puisque je vous le répète, elle a un endroit et un envers, est toute entière dans ce qui se voit à l’extérieur.
+pour ne pas dire l’endroit et l’envers : elle n’a pas d’endroit ni d’envers, elle a un endroit et un envers une fois qu’on a choisi …la face bleue est collée à elle-même et la face rouge puisque je vous le répète, elle a un endroit et un envers, est toute entière dans ce qui se voit à l’extérieur.
 
 <!-- id: s13-06-0127 -->
 
@@ -522,7 +526,7 @@ Voilà donc quelque chose, *une surface qui a pour propriété la* *bande de Mœ
 
 <!-- id: s13-06-0128 -->
 
-> c’est une *bande de Mœbius* que vous prenez, construisez de façon ordinaire en la retournant ainsi …si vous découpez, d’une façon *équidistante* \[coupure non médiane\] à un bord \[[video : experiment 3](http://www.youtube.com/watch?v=BVsIAa2XNKc)\], si vous y faites une coupure, vous aurez après deux tours :
+c’est une *bande de Mœbius* que vous prenez, construisez de façon ordinaire en la retournant ainsi …si vous découpez, d’une façon *équidistante* \[coupure non médiane\] à un bord \[[video : experiment 3](http://www.youtube.com/watch?v=BVsIAa2XNKc)\], si vous y faites une coupure, vous aurez après deux tours :
 
 <!-- id: s13-06-0129 -->
 
@@ -574,7 +578,7 @@ Et maintenant, je vous indique si la *bande de Mœbius* est elle-même l’effet
 
 <!-- id: s13-06-0141 -->
 
-> que pour vous faciliter les choses je n’ai pas introduite autrement et que j’ai appelé tout à l’heure *le plan projectif* …c’est au prix d’y laisser le résidu d’une chute, elle, discale, que je prends pour support de *l’objet (a)* en tant que c’est de sa chute que dépend l’avènement de la *bande de Mœbius* et que sa réintégration le modifie dans sa nature de chute discale c’est-à-dire le rend *sans endroit ni envers* et c’est là que nous retrouvons la définition de *l’objet (a)* comme *non spéculaire*.
+que pour vous faciliter les choses je n’ai pas introduite autrement et que j’ai appelé tout à l’heure *le plan projectif* …c’est au prix d’y laisser le résidu d’une chute, elle, discale, que je prends pour support de *l’objet (a)* en tant que c’est de sa chute que dépend l’avènement de la *bande de Mœbius* et que sa réintégration le modifie dans sa nature de chute discale c’est-à-dire le rend *sans endroit ni envers* et c’est là que nous retrouvons la définition de *l’objet (a)* comme *non spéculaire*.
 
 <!-- id: s13-06-0142 -->
 
@@ -602,7 +606,7 @@ Un gant…
 
 <!-- id: s13-06-0148 -->
 
-> prenons la plus vieille façon de présenter les choses, elle est déjà dans KANT[^84] …un gant retourné et un gant dans le miroir, ce n’est pas la même chose :
+prenons la plus vieille façon de présenter les choses, elle est déjà dans KANT[^84] …un gant retourné et un gant dans le miroir, ce n’est pas la même chose :
 
 <!-- id: s13-06-0149 -->
 

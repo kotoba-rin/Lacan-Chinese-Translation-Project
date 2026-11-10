@@ -22,7 +22,7 @@ Si ce peut être à la fois simple et si jamais fini, ce n’est pas très diffi
 
 <!-- id: s6-16-0005 -->
 
-> j’y ai fait allusion d’ailleurs dans nos précédentes approches
+j’y ai fait allusion d’ailleurs dans nos précédentes approches
 
 <!-- id: s6-16-0006 -->
 
@@ -34,9 +34,9 @@ COLERIDGE dit dans *ses notes sur* HAMLET *qui sont si jolies et que l’on trou
 
 <!-- id: s6-16-0008 -->
 
-> j’y reviens car je vous ai peut-être donné l’impression d’en médire, je veux dire qu’en vous disant
->
-> qu’après tout COLERIDGE ne fait *que s’y retrouver*, j’avais l’air de minimiser ce qu’il en disait
+j’y reviens car je vous ai peut-être donné l’impression d’en médire, je veux dire qu’en vous disant
+
+qu’après tout COLERIDGE ne fait *que s’y retrouver*, j’avais l’air de minimiser ce qu’il en disait
 
 <!-- id: s6-16-0009 -->
 
@@ -56,7 +56,11 @@ Il est clair que c’est bien parce que SHAKESPEARE *a approché de très près 
 
 <!-- id: s6-16-0013 -->
 
-> « *The bell then beating one. La cloche sonnant une heure*. » \[I,1\]
+<div class="text-quotation">
+
+« *The bell then beating one. La cloche sonnant une heure*. » \[I,1\]
+
+</div>
 
 <!-- id: s6-16-0014 -->
 
@@ -72,7 +76,7 @@ Ce « *one* » nous le retrouverons à la fin de la pièce quand, après le chem
 
 <!-- id: s6-16-0017 -->
 
-> tout modeste et tout gentil, alors qu’il vient de lui apporter son aide
+tout modeste et tout gentil, alors qu’il vient de lui apporter son aide
 
 <!-- id: s6-16-0018 -->
 
@@ -96,9 +100,9 @@ et qui reste l’énigme irrésolue d’HAMLET l’énigme que nous essayons de 
 
 <!-- id: s6-16-0023 -->
 
-> puisque c’est le désir découvert par FREUD, le désir pour la mère,
->
-> le désir en tant qu’il suscite la rivalité avec celui qui la possède
+puisque c’est le désir découvert par FREUD, le désir pour la mère,
+
+le désir en tant qu’il suscite la rivalité avec celui qui la possède
 
 <!-- id: s6-16-0024 -->
 
@@ -110,7 +114,7 @@ Pour commencer de déchiffrer ce que ceci peut vouloir dire…
 
 <!-- id: s6-16-0026 -->
 
-> donc en fin de compte *la fonction mythique* d’HAMLET qui en fait un thème égal à celui d’ŒDIPE
+donc en fin de compte *la fonction mythique* d’HAMLET qui en fait un thème égal à celui d’ŒDIPE
 
 <!-- id: s6-16-0027 -->
 
@@ -194,7 +198,7 @@ La question de ce que…
 
 <!-- id: s6-16-0047 -->
 
-> au-delà de cette demande aliénée dans le système du discours en tant qu’il est là, reposant au lieu de l’Autre
+au-delà de cette demande aliénée dans le système du discours en tant qu’il est là, reposant au lieu de l’Autre
 
 <!-- id: s6-16-0048 -->
 
@@ -202,7 +206,7 @@ La question de ce que…
 
 <!-- id: s6-16-0049 -->
 
-> qui tend devant certains spectacles significatifs à se formuler
+qui tend devant certains spectacles significatifs à se formuler
 
 <!-- id: s6-16-0050 -->
 
@@ -214,7 +218,7 @@ Car n’oublions pas…
 
 <!-- id: s6-16-0052 -->
 
-> en un temps où toute philosophie s’est engagée à articuler ce qui lie le temps à l’être
+en un temps où toute philosophie s’est engagée à articuler ce qui lie le temps à l’être
 
 <!-- id: s6-16-0053 -->
 
@@ -222,7 +226,7 @@ Car n’oublions pas…
 
 <!-- id: s6-16-0054 -->
 
-> dans sa constitution même : passé-présent-futur, ceux de la grammaire
+dans sa constitution même : passé-présent-futur, ceux de la grammaire
 
 <!-- id: s6-16-0055 -->
 
@@ -250,7 +254,7 @@ Remarquons quand même que si HAMLET…
 
 <!-- id: s6-16-0061 -->
 
-> *qui, je vous l’ai dit, n’est pas ceci ou cela, n’est pas un obsessionnel pour la bonne raison d’abord qu’il est une création poétique.* *Hamlet n’a pas de névrose, Hamlet* *nous démontre de la névrose, et c’est tout autre chose que de l’être*
+*qui, je vous l’ai dit, n’est pas ceci ou cela, n’est pas un obsessionnel pour la bonne raison d’abord qu’il est une création poétique.* *Hamlet n’a pas de névrose, Hamlet* *nous démontre de la névrose, et c’est tout autre chose que de l’être*
 
 <!-- id: s6-16-0062 -->
 
@@ -258,7 +262,7 @@ Remarquons quand même que si HAMLET…
 
 <!-- id: s6-16-0063 -->
 
-> quand nous nous regardons dans HAMLET, sous un certain éclairage du miroir
+quand nous nous regardons dans HAMLET, sous un certain éclairage du miroir
 
 <!-- id: s6-16-0064 -->
 
@@ -278,7 +282,7 @@ Et ici j’emploie le terme que FREUD offre dans *Inhibition, Symptôme, Angoiss
 
 <!-- id: s6-16-0068 -->
 
-> qu’il distingue expressément de « *abwarten* », « *tendre le dos* »
+qu’il distingue expressément de « *abwarten* », « *tendre le dos* »
 
 <!-- id: s6-16-0069 -->
 
@@ -338,7 +342,7 @@ Car il est clair qu’il doit bien avoir quelque *fonction essentielle*…
 
 <!-- id: s6-16-0083 -->
 
-> je dirais, pour la sécurité du sujet en tant qu’il parle
+je dirais, pour la sécurité du sujet en tant qu’il parle
 
 <!-- id: s6-16-0084 -->
 
@@ -390,7 +394,7 @@ Il nous est déjà dit que la première rencontre venait d’en bas. Ce rapport 
 
 <!-- id: s6-16-0096 -->
 
-> on ne sait par quelle pudeur : il ne faut pas alerter les âmes sensibles !
+on ne sait par quelle pudeur : il ne faut pas alerter les âmes sensibles !
 
 <!-- id: s6-16-0097 -->
 
@@ -402,7 +406,7 @@ Je ne vous le donne après tout que comme une marche dans l’ordre du pathétiq
 
 <!-- id: s6-16-0099 -->
 
-> si radical soit-il à prendre une forme accentuée dans l’ordre de ce que l’on appelle pessimisme
+si radical soit-il à prendre une forme accentuée dans l’ordre de ce que l’on appelle pessimisme
 
 <!-- id: s6-16-0100 -->
 
@@ -430,9 +434,9 @@ c’est que si A, le grand Autre, est non pas un être mais *le lieu de la parol
 
 <!-- id: s6-16-0106 -->
 
-> où repose sous une forme développée, ou sous une forme \[enveloppée ?\],
->
-> l’ensemble du système des signifiants, c’est-à-dire d’un langage
+où repose sous une forme développée, ou sous une forme \[enveloppée ?\],
+
+l’ensemble du système des signifiants, c’est-à-dire d’un langage
 
 <!-- id: s6-16-0107 -->
 
@@ -444,7 +448,7 @@ c’est que si A, le grand Autre, est non pas un être mais *le lieu de la parol
 
 <!-- id: s6-16-0109 -->
 
-> ce par quoi la psychanalyse apporte quelque chose, par où le sujet qui parle - en tant que l’expérience de l’analyse nous le révèle comme structuré nécessairement d’une certaine façon - se distingue du sujet de toujours, du sujet auquel une évolution philosophique qui après tout peut bien nous apparaître dans une certaine perspective de délire, fécond, mais de délire dans la rétrospection
+ce par quoi la psychanalyse apporte quelque chose, par où le sujet qui parle - en tant que l’expérience de l’analyse nous le révèle comme structuré nécessairement d’une certaine façon - se distingue du sujet de toujours, du sujet auquel une évolution philosophique qui après tout peut bien nous apparaître dans une certaine perspective de délire, fécond, mais de délire dans la rétrospection
 
 <!-- id: s6-16-0110 -->
 
@@ -452,7 +456,11 @@ c’est que si A, le grand Autre, est non pas un être mais *le lieu de la parol
 
 <!-- id: s6-16-0111 -->
 
-> « *Il n’y a pas d’Autre de l’Autre.* »
+<div class="text-quotation">
+
+« *Il n’y a pas d’Autre de l’Autre.* »
+
+</div>
 
 <!-- id: s6-16-0112 -->
 
@@ -476,7 +484,7 @@ Et c’est bien cela qui fait le plus grand obstacle à ceux qui s’approchent 
 
 <!-- id: s6-16-0117 -->
 
-> parce qu’ils ne sont pas dans la voie, avec nous, où elles sont destinées à porter leur effet qui n’est concevable que de façon métaphorique, et *pour autant qu’elles jouent et retentissent toujours entre les deux lignes*
+parce qu’ils ne sont pas dans la voie, avec nous, où elles sont destinées à porter leur effet qui n’est concevable que de façon métaphorique, et *pour autant qu’elles jouent et retentissent toujours entre les deux lignes*
 
 <!-- id: s6-16-0118 -->
 
@@ -488,11 +496,11 @@ Ce signifiant, dont l’Autre ne dispose pas...
 
 <!-- id: s6-16-0120 -->
 
-> si nous pouvons en parler, c’est bien tout de même qu’il est, bien entendu, quelque part.
->
-> Je vous ai fait ce petit gramme aux fins que vous ne perdiez pas le nord. Je l’ai fait avec tout le soin
->
-> que j’ai pu, mais certainement pas pour accroître votre embarras.
+si nous pouvons en parler, c’est bien tout de même qu’il est, bien entendu, quelque part.
+
+Je vous ai fait ce petit gramme aux fins que vous ne perdiez pas le nord. Je l’ai fait avec tout le soin
+
+que j’ai pu, mais certainement pas pour accroître votre embarras.
 
 <!-- id: s6-16-0121 -->
 
@@ -504,9 +512,9 @@ C’est le même que vous faites entrer dans le jeu en tant que vous, pauvres *b
 
 <!-- id: s6-16-0123 -->
 
-> et sacrifiée non pas purement et simplement, physiquement comme on dit, réellement,
->
-> mais symboliquement, et qui n’est pas rien
+et sacrifiée non pas purement et simplement, physiquement comme on dit, réellement,
+
+mais symboliquement, et qui n’est pas rien
 
 <!-- id: s6-16-0124 -->
 
@@ -570,7 +578,7 @@ Le problème de la femme certes, n’a jamais été sans être présent dans tou
 
 <!-- id: s6-16-0139 -->
 
-> qui est une pure merveille et qu’on n’a certainement pas mis assez en valeur
+qui est une pure merveille et qu’on n’a certainement pas mis assez en valeur
 
 <!-- id: s6-16-0140 -->
 
@@ -590,7 +598,7 @@ Au niveau d’HAMLET et au niveau du dialogue qu’on peut appeler le paroxysme 
 
 <!-- id: s6-16-0144 -->
 
-> c’est son père qu’il désigne ainsi
+c’est son père qu’il désigne ainsi
 
 <!-- id: s6-16-0145 -->
 
@@ -606,9 +614,9 @@ Il s’agit de quelqu’un qui est assez amoureux, mais aussi il faut le dire, a
 
 <!-- id: s6-16-0148 -->
 
-> encore que rien dans le héros, le Duc comme on l’appelle,
->
-> ne mette en doute que ses penchants soient des femmes
+encore que rien dans le héros, le Duc comme on l’appelle,
+
+ne mette en doute que ses penchants soient des femmes
 
 <!-- id: s6-16-0149 -->
 
@@ -628,7 +636,7 @@ Après avoir pris cette occasion pour vous montrer la perspective dans laquelle 
 
 <!-- id: s6-16-0153 -->
 
-> sans savoir que la personne qui est devant lui est une fille, et une fille qui l’aime, lui
+sans savoir que la personne qui est devant lui est une fille, et une fille qui l’aime, lui
 
 <!-- id: s6-16-0154 -->
 
@@ -660,7 +668,7 @@ J’ai vu sous la plume de je ne sais quel crétin un vif mouvement de bonne hum
 
 <!-- id: s6-16-0161 -->
 
-> pas spécialement précipité car il aurait dû le savoir depuis un bout de temps
+pas spécialement précipité car il aurait dû le savoir depuis un bout de temps
 
 <!-- id: s6-16-0162 -->
 
@@ -668,7 +676,7 @@ J’ai vu sous la plume de je ne sais quel crétin un vif mouvement de bonne hum
 
 <!-- id: s6-16-0163 -->
 
-> c’est ce que l’on ne sait pas, c’est beaucoup de choses
+c’est ce que l’on ne sait pas, c’est beaucoup de choses
 
 <!-- id: s6-16-0164 -->
 
@@ -752,7 +760,7 @@ Dans les rapports avec l’objet d’OPHÉLIE…
 
 <!-- id: s6-16-0184 -->
 
-> pour autant qu’ils sont scandés au cours de la pièce par une série de temps sur lesquels nous nous arrêterons
+pour autant qu’ils sont scandés au cours de la pièce par une série de temps sur lesquels nous nous arrêterons
 
 <!-- id: s6-16-0185 -->
 
@@ -772,7 +780,7 @@ Qu’est-ce que l’objet du désir ? Un jour…
 
 <!-- id: s6-16-0189 -->
 
-> qui n’était rien d’autre, je crois, que la deuxième séance de cette année
+qui n’était rien d’autre, je crois, que la deuxième séance de cette année
 
 <!-- id: s6-16-0190 -->
 
@@ -784,61 +792,61 @@ C’est Simone WEIL qui disait cela. C’est cela que nous allons essayer de ser
 
 <!-- id: s6-16-0192 -->
 
-> (<span id="Hamlet" class="anchor"></span>Hamlet [III, 4 : 40– 87](#RetourHamlet))
->
-> Hamlet. Such an act  
-> That blurs the grace and blush of modesty;  
-> Calls virtue hypocrite; takes off the rose  
-> From the fair forehead of an innocent love,  
-> And sets a blister there; makes marriage vows  
-> As false as dicers’ oaths. O, such a deed  
-> As from the body of contraction plucks  
-> The very soul, and sweet religion makes  
-> A rhapsody of words! Heaven’s face doth glow;  
-> Yea, this solidity and compound mass,
->
-> With tristful visage, as against the doom,  
-> Is thought–sick at the act.
->
-> Gertrude. Ah me, what act,  
-> That roars so loud and thunders in the index?
->
-> Hamlet. Look here upon th’s picture, and on this,  
-> The counterfeit presentment of two brothers.  
-> See what a grace was seated on this brow;  
-> Hyperion’s curls; the front of Jove himself;  
-> An eye like Mars, to threaten and command;  
-> A station like the herald Mercury  
-> New lighted on a heaven–kissing hill:  
-> A combination and a form indeed  
-> Where every god did seem to set his seal  
-> To give the world assurance of a man.  
-> This was your husband. Look you now what follows.  
-> Here is your husband, like a mildew’d ear  
-> Blasting his wholesome brother. Have you eyes?  
-> Could you on this fair mountain leave to feed,  
-> And batten on this moor? Ha! have you eyes  
-> You cannot call it love; for at your age  
-> The heyday in the blood is tame, it’s humble,  
-> And waits upon the judgment; and what judgment  
-> Would step from this to this? Sense sure you have,  
-> Else could you not have motion; but sure that sense  
-> Is apoplex’d; for madness would not err,  
-> Nor sense to ecstacy was ne’er so thrall’d  
-> But it reserv’d some quantity of choice  
-> To serve in such a difference. What devil was’t  
-> That thus hath cozen’d you at hoodman–blind?  
-> Eyes without feeling, feeling without sight,  
-> Ears without hands or eyes, smelling sans all,  
-> Or but a sickly part of one true sense  
-> Could not so mope.  
-> O shame! where is thy blush? Rebellious hell,  
-> If thou canst mutine in a matron’s bones,  
-> To flaming youth let virtue be as wax  
-> And melt in her own fire. Proclaim no shame  
-> When the compulsive ardour gives the charge,  
-> Since frost itself as actively doth burn,  
-> And reason panders will.## Notes
+(<span id="Hamlet" class="anchor"></span>Hamlet [III, 4 : 40– 87](#RetourHamlet))
+
+Hamlet. Such an act  
+That blurs the grace and blush of modesty;  
+Calls virtue hypocrite; takes off the rose  
+From the fair forehead of an innocent love,  
+And sets a blister there; makes marriage vows  
+As false as dicers’ oaths. O, such a deed  
+As from the body of contraction plucks  
+The very soul, and sweet religion makes  
+A rhapsody of words! Heaven’s face doth glow;  
+Yea, this solidity and compound mass,
+
+With tristful visage, as against the doom,  
+Is thought–sick at the act.
+
+Gertrude. Ah me, what act,  
+That roars so loud and thunders in the index?
+
+Hamlet. Look here upon th’s picture, and on this,  
+The counterfeit presentment of two brothers.  
+See what a grace was seated on this brow;  
+Hyperion’s curls; the front of Jove himself;  
+An eye like Mars, to threaten and command;  
+A station like the herald Mercury  
+New lighted on a heaven–kissing hill:  
+A combination and a form indeed  
+Where every god did seem to set his seal  
+To give the world assurance of a man.  
+This was your husband. Look you now what follows.  
+Here is your husband, like a mildew’d ear  
+Blasting his wholesome brother. Have you eyes?  
+Could you on this fair mountain leave to feed,  
+And batten on this moor? Ha! have you eyes  
+You cannot call it love; for at your age  
+The heyday in the blood is tame, it’s humble,  
+And waits upon the judgment; and what judgment  
+Would step from this to this? Sense sure you have,  
+Else could you not have motion; but sure that sense  
+Is apoplex’d; for madness would not err,  
+Nor sense to ecstacy was ne’er so thrall’d  
+But it reserv’d some quantity of choice  
+To serve in such a difference. What devil was’t  
+That thus hath cozen’d you at hoodman–blind?  
+Eyes without feeling, feeling without sight,  
+Ears without hands or eyes, smelling sans all,  
+Or but a sickly part of one true sense  
+Could not so mope.  
+O shame! where is thy blush? Rebellious hell,  
+If thou canst mutine in a matron’s bones,  
+To flaming youth let virtue be as wax  
+And melt in her own fire. Proclaim no shame  
+When the compulsive ardour gives the charge,  
+Since frost itself as actively doth burn,  
+And reason panders will.## Notes
 
 [^77]: Hamlet : « *That he might not beteem the winds of heaven visit her face too roughly*. » ( I, 2 )
 

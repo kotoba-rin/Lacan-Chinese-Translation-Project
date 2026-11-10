@@ -61,11 +61,11 @@ désigné, reconnu, comme constituant la limite de *l’expé­rience analytique
 
 <!-- id: s10-20-0012 -->
 
-> ce qui me parvient à des distances diverses de ma voix,
->
-> et pas forcément toujours en réponse à ce que je dis, mais cer­tainement dans une certaine zone, en réponse
-> ...*tout se passe comme si*, à certains moments, se durcissaient certaines positions techniques,
-> stricte­ment corrélatives en cette matière à ce que je puis appeler « *limitation de la compréhension* ».
+ce qui me parvient à des distances diverses de ma voix,
+
+et pas forcément toujours en réponse à ce que je dis, mais cer­tainement dans une certaine zone, en réponse
+...*tout se passe comme si*, à certains moments, se durcissaient certaines positions techniques,
+stricte­ment corrélatives en cette matière à ce que je puis appeler « *limitation de la compréhension* ».
 
 <!-- id: s10-20-0013 -->
 
@@ -87,10 +87,10 @@ et j’adhère en effet, à regarder de près ce débat pédagogique
 
 <!-- id: s10-20-0017 -->
 
-> vous pouvez le constater : il y en a parmi vous qui sont plus près que les autres,
->
-> plus nécessités à s’inté­resser à ces procédés pédagogiques
-> …vous verrez que les écoles sont loin de s’accorder sur le procédé que je vais maintenant articuler et définir.
+vous pouvez le constater : il y en a parmi vous qui sont plus près que les autres,
+
+plus nécessités à s’inté­resser à ces procédés pédagogiques
+…vous verrez que les écoles sont loin de s’accorder sur le procédé que je vais maintenant articuler et définir.
 
 <!-- id: s10-20-0018 -->
 
@@ -256,10 +256,10 @@ Aussi bien n’aurai-je qu’à évoquer, dans sa forme exemplaire, le mode d’
 
 <!-- id: s10-20-0046 -->
 
-> où en tout cas pour notre propos, nous n’avons pas à nous tromper : l’angoisse qui l’accompagne
->
-> nous signale assez que nous sommes bien dans la voie que nous cherchons
-> ...le mode d’apparition de cette « *scène primitive* » dans l’histoire de *L’homme aux Loups*[^144].
+où en tout cas pour notre propos, nous n’avons pas à nous tromper : l’angoisse qui l’accompagne
+
+nous signale assez que nous sommes bien dans la voie que nous cherchons
+...le mode d’apparition de cette « *scène primitive* » dans l’histoire de *L’homme aux Loups*[^144].
 
 <!-- id: s10-20-0047 -->
 
@@ -329,10 +329,10 @@ Chacun sait que Freud a souligné dès l’abord le caractère de « *cadeau* 
 
 <!-- id: s10-20-0057 -->
 
-> que vous me permettrez bien d’appeler en passant, et sans autre commentaire,
->
-> si vous vous souvenez de mes repérages « *des occasions de passage à l’acte* »
-> ...où le petit enfant lâche intempestivement quelque chose de son contenu intestinal.
+que vous me permettrez bien d’appeler en passant, et sans autre commentaire,
+
+si vous vous souvenez de mes repérages « *des occasions de passage à l’acte* »
+...où le petit enfant lâche intempestivement quelque chose de son contenu intestinal.
 
 <!-- id: s10-20-0058 -->
 
@@ -394,10 +394,10 @@ Il n’en est que plus surprenant qu’ils aient pu s’interroger dans l’occa
 
 <!-- id: s10-20-0068 -->
 
-> puisqu’il s’agissait d’apercevoir la relation de ce *point d’angoisse* - mettez dans ce « *point* » toute l’ambiguïté que vous voudrez - d’un point où il n’y ait plus d’angoisse si l’orgasme la recouvre, avec le point de désir
->
-> pour autant qu’il se marque de l’absence de *l’objet(a)* sous la forme du (- φ)
-> *...qu’en est-il -* s’interrogeaient-ils *- de cette relation chez la femme ?* »
+puisqu’il s’agissait d’apercevoir la relation de ce *point d’angoisse* - mettez dans ce « *point* » toute l’ambiguïté que vous voudrez - d’un point où il n’y ait plus d’angoisse si l’orgasme la recouvre, avec le point de désir
+
+pour autant qu’il se marque de l’absence de *l’objet(a)* sous la forme du (- φ)
+*...qu’en est-il -* s’interrogeaient-ils *- de cette relation chez la femme ?* »
 
 <!-- id: s10-20-0069 -->
 

@@ -50,7 +50,7 @@ Ces trois points se réfèrent à l’usage, à l’usage ordinaire, pour marque
 
 <!-- id: s19-01-0012 -->
 
-> c’est curieux, mais ça se voit dans tous les textes imprimés ...pour faire une *place vide*.
+c’est curieux, mais ça se voit dans tous les textes imprimés ...pour faire une *place vide*.
 
 <!-- id: s19-01-0013 -->
 
@@ -182,9 +182,9 @@ La question est : est-ce que ça ne les simplifie pas déjà...
 
 <!-- id: s19-01-0045 -->
 
-> puisque si ce dont je suis parti c’est de ce que je peux faire
->
-> et que ce soit justement ce que je ne fasse pas ...est-ce que ça ne suffit pas à les simpli­fier ?
+puisque si ce dont je suis parti c’est de ce que je peux faire
+
+et que ce soit justement ce que je ne fasse pas ...est-ce que ça ne suffit pas à les simpli­fier ?
 
 <!-- id: s19-01-0046 -->
 
@@ -212,7 +212,7 @@ Je ne parle pas de la fameuse *petite diffé­rence* qui est celle pour laquelle
 
 <!-- id: s19-01-0052 -->
 
-> quand il sera sexuellement mûr ...il paraîtra tout à fait de l’ordre d’un bon mot, du mot d’esprit, de pousser : «* Hourra ! Hourra pour la petite différence !* »
+quand il sera sexuellement mûr ...il paraîtra tout à fait de l’ordre d’un bon mot, du mot d’esprit, de pousser : «* Hourra ! Hourra pour la petite différence !* »
 
 <!-- id: s19-01-0053 -->
 
@@ -220,9 +220,9 @@ Rien que ça soit drôle suffit à nous indiquer, dénote, fait référence, au 
 
 <!-- id: s19-01-0054 -->
 
-> c’est-à-dire au fait tout inscrit dans l’expérience analytique,
->
-> et qui est *ce à quoi* nous a mené l’expérience de l’inconscient, sans lequel il n’y aurait pas de mot d’esprit ...au rapport complexuel avec cet organe, la petite différence, déjà détaché très tôt comme *organe*, ce qui est déjà tout dire : ὄργανον \[organon\], *instrument*.
+c’est-à-dire au fait tout inscrit dans l’expérience analytique,
+
+et qui est *ce à quoi* nous a mené l’expérience de l’inconscient, sans lequel il n’y aurait pas de mot d’esprit ...au rapport complexuel avec cet organe, la petite différence, déjà détaché très tôt comme *organe*, ce qui est déjà tout dire : ὄργανον \[organon\], *instrument*.
 
 <!-- id: s19-01-0055 -->
 
@@ -266,7 +266,7 @@ Ce n’est pas du tout à cause de ce qu’elle asserte...
 
 <!-- id: s19-01-0065 -->
 
-> je ne dis rien de plus : elle asserte ...mais de la question qu’elle introduit au niveau de la logique.
+je ne dis rien de plus : elle asserte ...mais de la question qu’elle introduit au niveau de la logique.
 
 <!-- id: s19-01-0066 -->
 
@@ -274,11 +274,11 @@ Ce n’est pas du tout à cause de ce qu’elle asserte...
 
 <!-- id: s19-01-0067 -->
 
-> mais c’est la seule chose que vous n’y ayez pas vue ...c’est qu’elle contient le « *pas-tout* » qui est très précisément et très curieusement ce qu’élude la logique aristotélicienne pour autant qu’elle a produit, qu’elle a produit et détaché la fonction des *prosdiorismes*...
+mais c’est la seule chose que vous n’y ayez pas vue ...c’est qu’elle contient le « *pas-tout* » qui est très précisément et très curieusement ce qu’élude la logique aristotélicienne pour autant qu’elle a produit, qu’elle a produit et détaché la fonction des *prosdiorismes*...
 
 <!-- id: s19-01-0068 -->
 
-> qui ne sont rien d’autre que ce que vous savez, à savoir l’usage de « *tout* », « *pas* », de « *quelques* » ...autour de quoi Aristote fait les premiers pas de la logique formelle.
+qui ne sont rien d’autre que ce que vous savez, à savoir l’usage de « *tout* », « *pas* », de « *quelques* » ...autour de quoi Aristote fait les premiers pas de la logique formelle.
 
 <!-- id: s19-01-0069 -->
 
@@ -290,11 +290,11 @@ Quelqu’un comme Frege ne manque pas quand il commente la fonction de *l’asse
 
 <!-- id: s19-01-0071 -->
 
-> ici placé dans ce petit creux, image de la place vide ...qu’il y ait quelque chose qui s’appelle « *tout* x » \[;\], qui convienne à la fonction.
+ici placé dans ce petit creux, image de la place vide ...qu’il y ait quelque chose qui s’appelle « *tout* x » \[;\], qui convienne à la fonction.
 
 <!-- id: s19-01-0072 -->
 
-> <img src="assets/image2.jpeg" style="width:0.87867in;height:0.22943in" alt="1a" />
+<img src="assets/image2.jpeg" style="width:0.87867in;height:0.22943in" alt="1a" />
 
 <!-- id: s19-01-0073 -->
 
@@ -326,7 +326,7 @@ Et ceci nous porte au cœur de notre problème, car vous voyez qu’à simplemen
 
 <!-- id: s19-01-0080 -->
 
-> sans avoir même eu le temps de nous retourner ...au centre de *quelque chose* où il y a bien une machine qui nous porte. C’est la machine que je démonte.
+sans avoir même eu le temps de nous retourner ...au centre de *quelque chose* où il y a bien une machine qui nous porte. C’est la machine que je démonte.
 
 <!-- id: s19-01-0081 -->
 
@@ -386,13 +386,13 @@ C’est dans l’espoir que la théorie y supplée...
 
 <!-- id: s19-01-0095 -->
 
-> vous entendez *l’accent du subjonctif*, je l’ai isolé parce que,
->
-> parce que ça en aurait pu être recouvert par *l’accent interrogatif*,
->
-> pensez à tout ça, comme ça, au moment *où ça passe* \[*le réel*\],
->
-> et spécialement pour ne pas manquer *ce qui vient là* \[*de réel*\], à savoir le rapport de l’inconscient à la vérité ...la bonne théorie, et c’est elle qui fraye la voie, la voie même ou l’inconscient en était réduit à insister : il n’aurait plus à le faire si la voie était bien frayée.
+vous entendez *l’accent du subjonctif*, je l’ai isolé parce que,
+
+parce que ça en aurait pu être recouvert par *l’accent interrogatif*,
+
+pensez à tout ça, comme ça, au moment *où ça passe* \[*le réel*\],
+
+et spécialement pour ne pas manquer *ce qui vient là* \[*de réel*\], à savoir le rapport de l’inconscient à la vérité ...la bonne théorie, et c’est elle qui fraye la voie, la voie même ou l’inconscient en était réduit à insister : il n’aurait plus à le faire si la voie était bien frayée.
 
 <!-- id: s19-01-0096 -->
 
@@ -428,7 +428,7 @@ C’est en quoi - au contraire - c’est en quoi *je ne niais pas* au départ la
 
 <!-- id: s19-01-0104 -->
 
-> comme ça, fille de ses œuvres en ça comme en beaucoup d’autres choses ...qui se dénomme « *homo sapiens* », les sexes paraissent se répartir en deux nombres à peu près égaux d’individus et qu’assez tôt - plus tôt qu’on ne l’attend - ces individus se distinguent.
+comme ça, fille de ses œuvres en ça comme en beaucoup d’autres choses ...qui se dénomme « *homo sapiens* », les sexes paraissent se répartir en deux nombres à peu près égaux d’individus et qu’assez tôt - plus tôt qu’on ne l’attend - ces individus se distinguent.
 
 <!-- id: s19-01-0105 -->
 
@@ -436,7 +436,7 @@ Ils se distinguent, c’est certain. Seulement...
 
 <!-- id: s19-01-0106 -->
 
-> je vous le fais remarquer en passant, ça ne fait pas partie d’une logique ...seulement ils ne se reconnaissent, ils ne se reconnaissent comme *êtres parlants* qu’à rejeter cette distinction, par toutes sortes d’identifications dont c’est la monnaie courante de la psychanalyse que de s’apercevoir que c’est le ressort majeur des phases de chaque enfance. Mais ça c’est une simple parenthèse.
+je vous le fais remarquer en passant, ça ne fait pas partie d’une logique ...seulement ils ne se reconnaissent, ils ne se reconnaissent comme *êtres parlants* qu’à rejeter cette distinction, par toutes sortes d’identifications dont c’est la monnaie courante de la psychanalyse que de s’apercevoir que c’est le ressort majeur des phases de chaque enfance. Mais ça c’est une simple parenthèse.
 
 <!-- id: s19-01-0107 -->
 
@@ -524,7 +524,7 @@ Il n’a qu’un tort, c’est de vouloir le forcer le discours sexuel...
 
 <!-- id: s19-01-0128 -->
 
-> qui en tant qu’*impossible* est *le passage du réel* ...à vouloir le forcer par la chirurgie.
+qui en tant qu’*impossible* est *le passage du réel* ...à vouloir le forcer par la chirurgie.
 
 <!-- id: s19-01-0129 -->
 
@@ -536,7 +536,7 @@ Seule, disais-je...
 
 <!-- id: s19-01-0131 -->
 
-> pour ceux qui savent lire, bien sûr ...*seule* disais-je, *l’homosexuelle* - à écrire là au féminin - *soutient le discours sexuel en toute sécurité*.
+pour ceux qui savent lire, bien sûr ...*seule* disais-je, *l’homosexuelle* - à écrire là au féminin - *soutient le discours sexuel en toute sécurité*.
 
 <!-- id: s19-01-0132 -->
 
@@ -544,11 +544,11 @@ Ce pourquoi j’invoquais le témoignage des *Précieuses*...
 
 <!-- id: s19-01-0133 -->
 
-> qui vous le savez, restent pour moi un modèle ...les *Précieuses* qui si je puis dire, définissent si admira­blement l’« *Ecce Homo »*...
+qui vous le savez, restent pour moi un modèle ...les *Précieuses* qui si je puis dire, définissent si admira­blement l’« *Ecce Homo »*...
 
 <!-- id: s19-01-0134 -->
 
-> permettez-moi d’arrêter là le mot : « *l’excès au mot* » ... l’« *Ecce Homo »* de l’amour, parce que - elles - elles ne risquent pas de prendre *le phallus* pour *un signifiant*. « Ф donc ! » signiФ donc : ce n’est qu’à briser le signifiant dans *sa lettre* qu’on en vient à bout au dernier terme.
+permettez-moi d’arrêter là le mot : « *l’excès au mot* » ... l’« *Ecce Homo »* de l’amour, parce que - elles - elles ne risquent pas de prendre *le phallus* pour *un signifiant*. « Ф donc ! » signiФ donc : ce n’est qu’à briser le signifiant dans *sa lettre* qu’on en vient à bout au dernier terme.
 
 <!-- id: s19-01-0135 -->
 
@@ -560,15 +560,15 @@ Contrairement à ce qu’on peut lire dans un célèbre drame d’Apollinaire[^1
 
 <!-- id: s19-01-0137 -->
 
-> je viens de parler d’aveuglement, n’oubliez pas ...non en lâchant, mais en récupérant les deux oiseaux dits « *sa faiblesse* » ...
+je viens de parler d’aveuglement, n’oubliez pas ...non en lâchant, mais en récupérant les deux oiseaux dits « *sa faiblesse* » ...
 
 <!-- id: s19-01-0138 -->
 
-> je cite Apollinaire pour ceux qui ne l’auraient pas lu ...soit les petits et gros ballons qui, sur le théâtre, les représentent et qui sont peut-être...
+je cite Apollinaire pour ceux qui ne l’auraient pas lu ...soit les petits et gros ballons qui, sur le théâtre, les représentent et qui sont peut-être...
 
 <!-- id: s19-01-0139 -->
 
-> je dis « *peut-être »* parce que je ne veux pas détourner votre attention, je me contente d’un « *peut-être »* ...qui sont peut-être *ce grâce à quoi la femme ne sait jouir que dans une absence*.
+je dis « *peut-être »* parce que je ne veux pas détourner votre attention, je me contente d’un « *peut-être »* ...qui sont peut-être *ce grâce à quoi la femme ne sait jouir que dans une absence*.
 
 <!-- id: s19-01-0140 -->
 
@@ -600,9 +600,9 @@ Tout ça, n’est-ce pas...
 
 <!-- id: s19-01-0147 -->
 
-> la fausse honte, la superstition et l’incapacité de formuler une règle précise sur ce point,
->
-> celle que je viens d’énoncer là : « *qu’ils se débrouillent* » ...relève de la méconnaissance de ceci  que son expérience lui répète, mais je pourrais même dire lui serine : *qu’il n’y a pas de rapport sexuel*.
+la fausse honte, la superstition et l’incapacité de formuler une règle précise sur ce point,
+
+celle que je viens d’énoncer là : « *qu’ils se débrouillent* » ...relève de la méconnaissance de ceci  que son expérience lui répète, mais je pourrais même dire lui serine : *qu’il n’y a pas de rapport sexuel*.
 
 <!-- id: s19-01-0148 -->
 
@@ -642,7 +642,7 @@ Ce qui se passe sur ce bateau, où il y a aussi des êtres des deux sexes, est p
 
 <!-- id: s19-01-0157 -->
 
-> moi qui suis - mon Dieu - sur un autre, que ne régissent pas les mêmes règles ...serait pourtant assez exemplaire si la façon dont j’en ai vent n’était pas si particulière.
+moi qui suis - mon Dieu - sur un autre, que ne régissent pas les mêmes règles ...serait pourtant assez exemplaire si la façon dont j’en ai vent n’était pas si particulière.
 
 <!-- id: s19-01-0158 -->
 
@@ -666,9 +666,9 @@ Il se pourrait que quelque chose de ce style vienne à dominer le registre des *
 
 <!-- id: s19-01-0163 -->
 
-> qui ne savent que c’est en somme d’en croire le silence psychanalytique institu­tionnalisé
->
-> sur le point de ce qu’« *il n’y a pas de rapport sexuel* » ...qui évoque chez ces sujets, ces craintes, à savoir - mon Dieu - de tout ce qui peut rétrécir, affecter les *relations intéressantes*, les actes passionnants, voire les perturbations créatrices que nécessite cette absence de rapport.
+qui ne savent que c’est en somme d’en croire le silence psychanalytique institu­tionnalisé
+
+sur le point de ce qu’« *il n’y a pas de rapport sexuel* » ...qui évoque chez ces sujets, ces craintes, à savoir - mon Dieu - de tout ce qui peut rétrécir, affecter les *relations intéressantes*, les actes passionnants, voire les perturbations créatrices que nécessite cette absence de rapport.
 
 <!-- id: s19-01-0164 -->
 
@@ -684,11 +684,11 @@ Puisqu’il s’agit d’une exploration de ce que j’ai appelé « *une nouve
 
 <!-- id: s19-01-0167 -->
 
-> dans l’exploration logique, c’est-à-dire dans le questionnement ...de ce qui, au langage, non pas seulement impose limite dans son appréhension du *Réel*, mais démontre dans la structure même de cet effort de l’approcher...
+dans l’exploration logique, c’est-à-dire dans le questionnement ...de ce qui, au langage, non pas seulement impose limite dans son appréhension du *Réel*, mais démontre dans la structure même de cet effort de l’approcher...
 
 <!-- id: s19-01-0168 -->
 
-> c’est-à-dire de repérer dans son propre maniement ...ce qu’il peut y avoir de *Réel* à avoir déterminé le langage ?
+c’est-à-dire de repérer dans son propre maniement ...ce qu’il peut y avoir de *Réel* à avoir déterminé le langage ?
 
 <!-- id: s19-01-0169 -->
 
@@ -696,7 +696,7 @@ Puisqu’il s’agit d’une exploration de ce que j’ai appelé « *une nouve
 
 <!-- id: s19-01-0170 -->
 
-> à proprement parler indicible, puisque ça serait elle qui déter­minerait tout discours ...que gît, que gisent les lignes de ces champs qui sont celles que nous découvrons dans l’expérience psychanalytique?
+à proprement parler indicible, puisque ça serait elle qui déter­minerait tout discours ...que gît, que gisent les lignes de ces champs qui sont celles que nous découvrons dans l’expérience psychanalytique?
 
 <!-- id: s19-01-0171 -->
 
@@ -704,7 +704,7 @@ Puisqu’il s’agit d’une exploration de ce que j’ai appelé « *une nouve
 
 <!-- id: s19-01-0172 -->
 
-> et c’est là l’effort théorique que je désigne de cette *aisance* qui trouverait *une insistance* ...est-ce qu’il n’est possible ici de trouver orientation ?
+et c’est là l’effort théorique que je désigne de cette *aisance* qui trouverait *une insistance* ...est-ce qu’il n’est possible ici de trouver orientation ?
 
 <!-- id: s19-01-0173 -->
 
@@ -712,7 +712,7 @@ Je ne ferai, avant de vous quitter, aujourd’hui que pointer qu’il y a 3 regi
 
 <!-- id: s19-01-0174 -->
 
-> à proprement parler déjà émergés de l’élaboration logique ...3 registres autour desquels tournera cette année mon effort de déve­lopper ce qu’il en est des conséquences de ceci, posé comme premier : *qu’il n’y a pas de rapport sexuel*.
+à proprement parler déjà émergés de l’élaboration logique ...3 registres autour desquels tournera cette année mon effort de déve­lopper ce qu’il en est des conséquences de ceci, posé comme premier : *qu’il n’y a pas de rapport sexuel*.
 
 <!-- id: s19-01-0175 -->
 
@@ -728,7 +728,7 @@ Celui-là, déjà l’année dernière j’ai cru vous l’isoler, très précis
 
 <!-- id: s19-01-0178 -->
 
-> que je laisse ici totalement énigmatique ...*de* *la fonction*, non pas du rapport sexuel, mais *de la fonction* qui pro­prement en rend l’accès *impossible*.
+que je laisse ici totalement énigmatique ...*de* *la fonction*, non pas du rapport sexuel, mais *de la fonction* qui pro­prement en rend l’accès *impossible*.
 
 <!-- id: s19-01-0179 -->
 
@@ -748,15 +748,15 @@ La fonction du « *pas-tous* », déjà l’année dernière je n’ai pu avance
 
 <!-- id: s19-01-0183 -->
 
-> et certainement d’un point beaucoup plus proche quant à ce dont il s’agissait,
->
-> je ne fais aujour­d’hui qu’aborder notre terrain ...je l’ai l’année dernière avancée d’une barre négative \[.\], mise au-dessus du terme qui dans la théorie des quanteurs, désigne l’équivalent...
+et certainement d’un point beaucoup plus proche quant à ce dont il s’agissait,
+
+je ne fais aujour­d’hui qu’aborder notre terrain ...je l’ai l’année dernière avancée d’une barre négative \[.\], mise au-dessus du terme qui dans la théorie des quanteurs, désigne l’équivalent...
 
 <!-- id: s19-01-0184 -->
 
-> c’en est seulement l’équivalent, je dirai même plus :
->
-> la purification au regard de l’usage naïf fait dans Aristote ...du *prosdiorisme* « *tout* » \[;\]. L’important, c’est que j’ai aujourd’hui avancé devant vous la fonction du « *pas-tout* ».
+c’en est seulement l’équivalent, je dirai même plus :
+
+la purification au regard de l’usage naïf fait dans Aristote ...du *prosdiorisme* « *tout* » \[;\]. L’important, c’est que j’ai aujourd’hui avancé devant vous la fonction du « *pas-tout* ».
 
 <!-- id: s19-01-0185 -->
 
@@ -792,7 +792,7 @@ C’est peut-être justement qu’« *il existe* » assurément des hommes et de
 
 <!-- id: s19-01-0193 -->
 
-> et pour tout dire qui ne font rien de plus que d’exister ...qu’est tout le problème.
+et pour tout dire qui ne font rien de plus que d’exister ...qu’est tout le problème.
 
 <!-- id: s19-01-0194 -->
 
@@ -800,11 +800,11 @@ Parce qu’après tout, dans l’usage correct qui est à faire *à partir du mo
 
 <!-- id: s19-01-0195 -->
 
-> seule façon à vrai dire qu’elle ait par rapport à lui de pouvoir se repérer ...*c’est à partir du moment* où elle ne s’assure que de cette part du *réel* où il y ait possible une vérité...
+seule façon à vrai dire qu’elle ait par rapport à lui de pouvoir se repérer ...*c’est à partir du moment* où elle ne s’assure que de cette part du *réel* où il y ait possible une vérité...
 
 <!-- id: s19-01-0196 -->
 
-> c’est-à-dire une mathématique, ...*c’est à partir de ce moment* qu’on voit bien que ce que désigne un « *Il existe »* quel­conque, ce n’est rien d’autre, par exemple, qu’un nombre à satisfaire une équation.
+c’est-à-dire une mathématique, ...*c’est à partir de ce moment* qu’on voit bien que ce que désigne un « *Il existe »* quel­conque, ce n’est rien d’autre, par exemple, qu’un nombre à satisfaire une équation.
 
 <!-- id: s19-01-0197 -->
 
@@ -828,7 +828,7 @@ Quoi qu’il en soit, le mode d’existence d’un nombre n’est pas à proprem
 
 <!-- id: s19-01-0202 -->
 
-> du champ dans lequel nous aurons à nous avancer ...d’une logique qui nous serait propice, c’est celui de *la modalité*.
+du champ dans lequel nous aurons à nous avancer ...d’une logique qui nous serait propice, c’est celui de *la modalité*.
 
 <!-- id: s19-01-0203 -->
 
@@ -972,15 +972,15 @@ Qu’à cette question, comme à toute question...
 
 <!-- id: s19-01-0238 -->
 
-> il n’y aurait pas de question s’il n’y avait de réponse ...que les modes sous lesquels cette question se pose, c’est-à-dire les réponses ce soit précisément ce qu’il s’agit d’écrire dans *cette fonction*, c’est là ce qui va nous permettre sans aucun doute de faire jonction entre ce qui s’est élaboré de *la logique,* et ce qui peut, sur le principe...
+il n’y aurait pas de question s’il n’y avait de réponse ...que les modes sous lesquels cette question se pose, c’est-à-dire les réponses ce soit précisément ce qu’il s’agit d’écrire dans *cette fonction*, c’est là ce qui va nous permettre sans aucun doute de faire jonction entre ce qui s’est élaboré de *la logique,* et ce qui peut, sur le principe...
 
 <!-- id: s19-01-0239 -->
 
-> considéré comme *effet du réel* ...sur le principe qu’*il n’est pas possible d’écrire le rapport sexuel*, sur ce principe même de fonder ce qu’il en est de *la fonction*, de *la fonction* qui règle tout ce qu’il en est de notre expé­rience, en ceci : qu’à faire question, le rapport sexuel...
+considéré comme *effet du réel* ...sur le principe qu’*il n’est pas possible d’écrire le rapport sexuel*, sur ce principe même de fonder ce qu’il en est de *la fonction*, de *la fonction* qui règle tout ce qu’il en est de notre expé­rience, en ceci : qu’à faire question, le rapport sexuel...
 
 <!-- id: s19-01-0240 -->
 
-> *qui n’est pas*, en ce sens qu’on ne peut l’écrire ...ce *rapport sexuel* détermine tout ce qui s’éla­bore d’un *discours* dont la nature est d’être *un discours rompu*.
+*qui n’est pas*, en ce sens qu’on ne peut l’écrire ...ce *rapport sexuel* détermine tout ce qui s’éla­bore d’un *discours* dont la nature est d’être *un discours rompu*.
 
 ## Notes
 

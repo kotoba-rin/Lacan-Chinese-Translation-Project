@@ -10,13 +10,13 @@ On m’a averti ce matin pendant que je travaillais...
 
 <!-- id: s20-12-0002 -->
 
-> comme toujours pour tout le monde : au dernier moment que je travaille... ...on m’a averti que le 12 juin...
+comme toujours pour tout le monde : au dernier moment que je travaille... ...on m’a averti que le 12 juin...
 
 <!-- id: s20-12-0003 -->
 
-> le 12 juin qui n’est pas, bien que ce soit le second mardi,
->
-> qui n’est pas en principe celui auquel j’espérais vous donner rendez-vous ...on m’a averti que le 12 juin la salle serait occuppée par ce qu’on appelle des examens oraux, et que dès lors on ne pouvait pas me répondre de ceci qu’elle serait libre à telle ou telle heure, étant donné que les examens oraux on ne sait pas comment ça s’étend, comment ça se termine, ni quand.
+le 12 juin qui n’est pas, bien que ce soit le second mardi,
+
+qui n’est pas en principe celui auquel j’espérais vous donner rendez-vous ...on m’a averti que le 12 juin la salle serait occuppée par ce qu’on appelle des examens oraux, et que dès lors on ne pouvait pas me répondre de ceci qu’elle serait libre à telle ou telle heure, étant donné que les examens oraux on ne sait pas comment ça s’étend, comment ça se termine, ni quand.
 
 <!-- id: s20-12-0004 -->
 
@@ -28,7 +28,7 @@ Donc je ne peux pas prévoir...
 
 <!-- id: s20-12-0006 -->
 
-> malgré que j’ai élevé, enfin... quelque objection à ce régime ...je ne peux pas prévoir donc si le 19 juin je pourrai continuer ce que je vous énonce cette année.
+malgré que j’ai élevé, enfin... quelque objection à ce régime ...je ne peux pas prévoir donc si le 19 juin je pourrai continuer ce que je vous énonce cette année.
 
 <!-- id: s20-12-0007 -->
 
@@ -56,7 +56,7 @@ Malgré, bien entendu, que j’étais...
 
 <!-- id: s20-12-0013 -->
 
-> puisque j’avais déjà travaillé dans la nuit ...j’étais assez outré, puisque je me souvenais aussi, dans mon rêve, que j’avais travaillé à quatre heures et demie du matin, j’étais assez outré que tout ça ne doive servir à rien, mais c’était quand même la satisfaction d’un vœu, à savoir que dès lors, je n’avais plus qu’à me les rouler. Voilà ! \[*ce qui remplit la salle c’est un dire, ce qui viderait la salle c’est que « tout » ait été dit, que le dit de Lacan se soit clos <sub>→</sub> vœu du rêve*\]
+puisque j’avais déjà travaillé dans la nuit ...j’étais assez outré, puisque je me souvenais aussi, dans mon rêve, que j’avais travaillé à quatre heures et demie du matin, j’étais assez outré que tout ça ne doive servir à rien, mais c’était quand même la satisfaction d’un vœu, à savoir que dès lors, je n’avais plus qu’à me les rouler. Voilà ! \[*ce qui remplit la salle c’est un dire, ce qui viderait la salle c’est que « tout » ait été dit, que le dit de Lacan se soit clos <sub>→</sub> vœu du rêve*\]
 
 <!-- id: s20-12-0014 -->
 
@@ -112,7 +112,7 @@ Le mot « *sujet »* que j’emploie...
 
 <!-- id: s20-12-0027 -->
 
-> vous allez le voir, j’y reviendrai ...prend évidemment un accent différent du fait de mon discours \[*discours* A\].
+vous allez le voir, j’y reviendrai ...prend évidemment un accent différent du fait de mon discours \[*discours* A\].
 
 <!-- id: s20-12-0028 -->
 
@@ -144,9 +144,9 @@ La formalisation mathématique...
 
 <!-- id: s20-12-0035 -->
 
-> qui est notre but, notre idéal - pourquoi ? - parce que seule elle, est *mathème*,
->
-> c’est-à-dire capable de se transmettre intégralement ...la formalisation mathématique c’est de l’*écrit*, et c’est là dedans que je vais essayer d’avancer aujourd’hui.
+qui est notre but, notre idéal - pourquoi ? - parce que seule elle, est *mathème*,
+
+c’est-à-dire capable de se transmettre intégralement ...la formalisation mathématique c’est de l’*écrit*, et c’est là dedans que je vais essayer d’avancer aujourd’hui.
 
 <!-- id: s20-12-0036 -->
 
@@ -174,7 +174,7 @@ C’est ce que j’ai souligné...
 
 <!-- id: s20-12-0042 -->
 
-> dans le texte dit « *L’étourdit »* : *d - i - t* ...c’est ce que j’ai souligné de *dire* que *le symbolique* ne supporte que *l’ex-sistence*. \[*de cette jouissance perdue qui a fondé l’être, ne subsiste que la trace ex-sistante, supportée du symbolique* \]
+dans le texte dit « *L’étourdit »* : *d - i - t* ...c’est ce que j’ai souligné de *dire* que *le symbolique* ne supporte que *l’ex-sistence*. \[*de cette jouissance perdue qui a fondé l’être, ne subsiste que la trace ex-sistante, supportée du symbolique* \]
 
 <!-- id: s20-12-0043 -->
 
@@ -186,7 +186,7 @@ L’esssentiel, je vous l’ai rappelé encore une fois à propos de l’inconsc
 
 <!-- id: s20-12-0045 -->
 
-> entre tout ce qui a été produit jusqu’alors de dis­cours ...en ce qu’il énonce ceci, qui est l’os de mon enseignement, que :
+entre tout ce qui a été produit jusqu’alors de dis­cours ...en ce qu’il énonce ceci, qui est l’os de mon enseignement, que :
 
 <!-- id: s20-12-0046 -->
 
@@ -298,7 +298,11 @@ Qui sait si le fait que nous pouvons lire ces ruisseaux que je regardais, au ret
 
 <!-- id: s20-12-0073 -->
 
-> « *lier* » et « *lire* », c’est les mêmes lettres, faites-y attention ...n’est pas lié à quelque chose qui va au-delà de *l’effet de pluie*, dont il n’y a aucune chance que l’animal le lise comme tel ?
+<div class="text-quotation">
+
+« *lier* » et « *lire* », c’est les mêmes lettres, faites-y attention ...n’est pas lié à quelque chose qui va au-delà de *l’effet de pluie*, dont il n’y a aucune chance que l’animal le lise comme tel ?
+
+</div>
 
 <!-- id: s20-12-0074 -->
 
@@ -334,9 +338,13 @@ Mais ce qui est vrai, c’est que le partenaire de *l’autre sexe* reste l’*A
 
 <!-- id: s20-12-0082 -->
 
-> \[*« ce qui le reproduit » *: *l’en-corps de la reproduction,*
->
-> *« ce qui le reproduit » *: *l’« encore » de la réitération du dire <sub>→</sub> « saisir » l’impossible à « saisir »*\]
+<div class="text-quotation">
+
+\[*« ce qui le reproduit » *: *l’en-corps de la reproduction,*
+
+*« ce qui le reproduit » *: *l’« encore » de la réitération du dire <sub>→</sub> « saisir » l’impossible à « saisir »*\]
+
+</div>
 
 <!-- id: s20-12-0083 -->
 
@@ -372,7 +380,7 @@ C’est bien pour ça que les deux autres passions sont celles qui s’appellent
 
 <!-- id: s20-12-0091 -->
 
-> \[*la philosophie vise l’Autre, le* **S(A)**, *qu’elle cherche à compléter, mais elle n’atteint que* (***a***) *en lieu et place de* **S(A)** \]
+\[*la philosophie vise l’Autre, le* **S(A)**, *qu’elle cherche à compléter, mais elle n’atteint que* (***a***) *en lieu et place de* **S(A)** \]
 
 <!-- id: s20-12-0092 -->
 
@@ -384,13 +392,13 @@ C’est bien pour ça que les deux autres passions sont celles qui s’appellent
 
 <!-- id: s20-12-0094 -->
 
-> quand vous gribouillez quelque chose - moi aussi je m’en prive certes pas :
->
-> c’est avec ça que je prépare ce que j’ai à dire, et c’est remarquable qu’il faille, de l’écriture, s’assurer ...c*’est pas le métalangage*, quoiqu’on puisse lui faire remplir une fonction *qui y ressemble*, mais qui n’en reste pas moins...
+quand vous gribouillez quelque chose - moi aussi je m’en prive certes pas :
+
+c’est avec ça que je prépare ce que j’ai à dire, et c’est remarquable qu’il faille, de l’écriture, s’assurer ...c*’est pas le métalangage*, quoiqu’on puisse lui faire remplir une fonction *qui y ressemble*, mais qui n’en reste pas moins...
 
 <!-- id: s20-12-0095 -->
 
-> au regard de l’Autre, où le langage s’inscrit comme *vérité* ...qui n’en reste pas moins tout à fait *seconde*.
+au regard de l’Autre, où le langage s’inscrit comme *vérité* ...qui n’en reste pas moins tout à fait *seconde*.
 
 <!-- id: s20-12-0096 -->
 
@@ -398,7 +406,7 @@ Car rien de ce que je pourrais au tableau vous écrire des formules générales 
 
 <!-- id: s20-12-0097 -->
 
-> par exemple les dernières for­mules d’Heisenberg ...rien ne tiendra de tout ça, si je ne le soutiens pas
+par exemple les dernières for­mules d’Heisenberg ...rien ne tiendra de tout ça, si je ne le soutiens pas
 
 <!-- id: s20-12-0098 -->
 
@@ -466,7 +474,7 @@ C’est ce qui produit...
 
 <!-- id: s20-12-0114 -->
 
-> encore qu’il n’y ait ici qu’une ligne ...cette chose qui se distingue de ce que serait un simple rond, un rond de ficelle si ça existait, ça s’en distingue en ce sens que quoiqu’il n’y ait qu’une seule ficelle, ça fait *un nœud*.
+encore qu’il n’y ait ici qu’une ligne ...cette chose qui se distingue de ce que serait un simple rond, un rond de ficelle si ça existait, ça s’en distingue en ce sens que quoiqu’il n’y ait qu’une seule ficelle, ça fait *un nœud*.
 
 <!-- id: s20-12-0115 -->
 
@@ -634,7 +642,7 @@ Après le premier pliage, vous pouvez avec le 3ème...
 
 <!-- id: s20-12-0156 -->
 
-> à condition ici de faire un nœud ...faire un pliage nouveau, et à celui-ci un 4ème qui est comme le premier, étant ajouté.
+à condition ici de faire un nœud ...faire un pliage nouveau, et à celui-ci un 4ème qui est comme le premier, étant ajouté.
 
 <!-- id: s20-12-0157 -->
 
@@ -686,11 +694,11 @@ C’est très précisément pour traduire la formule :
 
 <!-- id: s20-12-0169 -->
 
-> *- je te demande* - *quoi ?* \[*objet(a) oral :* H\]
->
-> \- *de refuser ce que* - *quoi ?* \[*objet(a) anal :* M\]
->
-> \- *ce que je t’offre* \[*objet(a) scopique :* U\] » *...*c’est-à-dire *quelque chose* qui, au regard de ce dont il s’agit, et vous savez ce que c’est : c’est à savoir *l’objet(a),* *l’objet(a) n’est aucun être.*
+*- je te demande* - *quoi ?* \[*objet(a) oral :* H\]
+
+\- *de refuser ce que* - *quoi ?* \[*objet(a) anal :* M\]
+
+\- *ce que je t’offre* \[*objet(a) scopique :* U\] » *...*c’est-à-dire *quelque chose* qui, au regard de ce dont il s’agit, et vous savez ce que c’est : c’est à savoir *l’objet(a),* *l’objet(a) n’est aucun être.*
 
 <!-- id: s20-12-0170 -->
 
@@ -702,7 +710,7 @@ Et la preuve c’est que, énonçant cette phrase « *je te demande de refuser
 
 <!-- id: s20-12-0172 -->
 
-> également improprement dans le discours psychanalytique ...« *la pulsion génitale* », celle où s’inscrirait un rapport qui serait le rapport plein, le rapport inscriptible, entre ce qu’il en est de l’*Un* avec ce qui reste irréductiblement l’*Autre*.
+également improprement dans le discours psychanalytique ...« *la pulsion génitale* », celle où s’inscrirait un rapport qui serait le rapport plein, le rapport inscriptible, entre ce qu’il en est de l’*Un* avec ce qui reste irréductiblement l’*Autre*.
 
 <!-- id: s20-12-0173 -->
 
@@ -710,7 +718,7 @@ C’est en quoi j’ai insisté sur ceci : c’est que le par­tenaire de ce *�
 
 <!-- id: s20-12-0174 -->
 
-> ce n’est pas sans raisons ...en quatre, en tant qu’ils se constituent selon la découverte freudienne, en tant qu’ils se constituent diversement :
+ce n’est pas sans raisons ...en quatre, en tant qu’ils se constituent selon la découverte freudienne, en tant qu’ils se constituent diversement :
 
 <!-- id: s20-12-0175 -->
 
@@ -778,7 +786,7 @@ C’est bien pourquoi le sujet pour autant qu’il fantasme, il n’y a...
 
 <!-- id: s20-12-0191 -->
 
-> jusqu’à l’avènement de la science la plus moderne ...il n’y a rien eu que *fantasme* quant à la connaissance.
+jusqu’à l’avènement de la science la plus moderne ...il n’y a rien eu que *fantasme* quant à la connaissance.
 
 <!-- id: s20-12-0192 -->
 
@@ -838,9 +846,9 @@ Contrairement aux *ronds de ficelle*, *des éléments de chaîne ça se forge*.
 
 <!-- id: s20-12-0206 -->
 
-> \[*La chaîne : chaque anneau vient remplir le vide de l’anneau qui le précède et donc combler le trou par « un objet du monde ».*
->
-> *Le nœud borroméen : les trois anneaux se nouent sans qu’aucun ne vienne combler le trou, mais le nœud se noue*\]
+\[*La chaîne : chaque anneau vient remplir le vide de l’anneau qui le précède et donc combler le trou par « un objet du monde ».*
+
+*Le nœud borroméen : les trois anneaux se nouent sans qu’aucun ne vienne combler le trou, mais le nœud se noue*\]
 
 <!-- id: s20-12-0207 -->
 
@@ -864,7 +872,7 @@ Ce premier et ce dernier étaient des ronds simples, qui franchissaient, perçai
 
 <!-- id: s20-12-0212 -->
 
-> vous voyez la difficulté de parler de ces choses ...ce que j’appelle « *les lobes d’oreille »*, des ronds repliés, c’était donc deux nœuds simples, qui à la fin se trouvaient faire quelque chose comme le début et la fin de la chaîne.
+vous voyez la difficulté de parler de ces choses ...ce que j’appelle « *les lobes d’oreille »*, des ronds repliés, c’était donc deux nœuds simples, qui à la fin se trouvaient faire quelque chose comme le début et la fin de la chaîne.
 
 <!-- id: s20-12-0213 -->
 
@@ -872,7 +880,11 @@ Il reste ceci, il reste ceci : c’est que ces deux ronds, initiaux et terminau
 
 <!-- id: s20-12-0214 -->
 
-> « *coupés* » c’est imaginaire : de les défaire ...d’en faire passer un seul, à prendre les quatres lobes ainsi résumés dans un cas où il n’y en a que deux, mais la situation serait exactement la même s’il y en avait un nombre infini.
+<div class="text-quotation">
+
+« *coupés* » c’est imaginaire : de les défaire ...d’en faire passer un seul, à prendre les quatres lobes ainsi résumés dans un cas où il n’y en a que deux, mais la situation serait exactement la même s’il y en avait un nombre infini.
+
+</div>
 
 <!-- id: s20-12-0215 -->
 
@@ -932,7 +944,7 @@ Ces *phrases in­terrompues...*
 
 <!-- id: s20-12-0229 -->
 
-> que j’ai appelées *messages de code,...*ces *phrases in­terrompues* laissent en suspens je ne sais quelle *substance*.
+que j’ai appelées *messages de code,...*ces *phrases in­terrompues* laissent en suspens je ne sais quelle *substance*.
 
 <!-- id: s20-12-0230 -->
 
@@ -948,7 +960,11 @@ Le propre du *langage mathématique*, une fois qu’il est suffisamment resserr�
 
 <!-- id: s20-12-0233 -->
 
-> « s’en avance » non pas tant dans le commentaire parlé, mais dans le maniement des *lettres...*suppose ceci : qu’il suffit qu’*une* ne tienne pas pour que tout le reste, tout le reste des autres *lettres*, non seulement ne constituent par leur agencement rien de valable, mais se dispersent.
+<div class="text-quotation">
+
+« s’en avance » non pas tant dans le commentaire parlé, mais dans le maniement des *lettres...*suppose ceci : qu’il suffit qu’*une* ne tienne pas pour que tout le reste, tout le reste des autres *lettres*, non seulement ne constituent par leur agencement rien de valable, mais se dispersent.
+
+</div>
 
 <!-- id: s20-12-0234 -->
 
@@ -992,7 +1008,7 @@ S’il y a quelque chose par quoi il \[l’Autre\] participe à l’Un c’est q
 
 <!-- id: s20-12-0244 -->
 
-> comme je l’ai dit déjà, mais il n’est pas sûr que vous l’ayez entendu ...c’est que *l’*Autre c’est l’Un *en moins*.
+comme je l’ai dit déjà, mais il n’est pas sûr que vous l’ayez entendu ...c’est que *l’*Autre c’est l’Un *en moins*.
 
 <!-- id: s20-12-0245 -->
 
@@ -1020,11 +1036,11 @@ Qu’est-ce que ça veut dire ?
 
 <!-- id: s20-12-0251 -->
 
-> en dehors de quelques petites fabrications, de petits exemples tels que ceux que je vous ai montrés ...de prévoir qu’une solution, celle que je viens de donner, n’est pas simplement une solution ex-sistante, mais qu’elle est nécessaire, qu’elle ne cesse pas...
+en dehors de quelques petites fabrications, de petits exemples tels que ceux que je vous ai montrés ...de prévoir qu’une solution, celle que je viens de donner, n’est pas simplement une solution ex-sistante, mais qu’elle est nécessaire, qu’elle ne cesse pas...
 
 <!-- id: s20-12-0252 -->
 
-> comme je le dis pour définir *le nécessaire* ...*qu’elle ne cesse pas de s’écrire*.
+comme je le dis pour définir *le nécessaire* ...*qu’elle ne cesse pas de s’écrire*.
 
 <!-- id: s20-12-0253 -->
 
@@ -1048,15 +1064,15 @@ Comme ils sont de ce fait même...
 
 <!-- id: s20-12-0258 -->
 
-> puisque je viens de les agencer fermés ...comme ils sont de ce fait même parfaitement séparables l’un de l’autre, vous devez penser que, si simplement...
+puisque je viens de les agencer fermés ...comme ils sont de ce fait même parfaitement séparables l’un de l’autre, vous devez penser que, si simplement...
 
 <!-- id: s20-12-0259 -->
 
-> ce qui m’est tout aussi possible ...je fais - avec un cercle qui suit - le même nœud marin, il suffit que j’approche de ceux-là un autre...
+ce qui m’est tout aussi possible ...je fais - avec un cercle qui suit - le même nœud marin, il suffit que j’approche de ceux-là un autre...
 
 <!-- id: s20-12-0260 -->
 
-> voilà le nœud marin ...ici je peux faire la même chose avec un 3<sup>ème</sup> rond, j’aurai encore un nœud marin.
+voilà le nœud marin ...ici je peux faire la même chose avec un 3<sup>ème</sup> rond, j’aurai encore un nœud marin.
 
 <!-- id: s20-12-0261 -->
 
@@ -1080,9 +1096,9 @@ Car je vous le fais remarquer, au moment où je viens de vous montrer les autres
 
 <!-- id: s20-12-0266 -->
 
-> ce dernier dont je vous ai dit que l’affrontement était de 1 à 4,
->
-> et que du même coup il y avait 5 brins dans le coup ...que même le dernier je peux le faire exactement semblable à tous ceux-là, qu’il n’y a à ça aucune difficulté, et qu’ainsi j’aurai aussi de cette façon résolu, sans introduire aucun point privilégié, la question du nœud borroméen, pour un nombre x, et aussi bien *infini* de ronds de ficelle.
+ce dernier dont je vous ai dit que l’affrontement était de 1 à 4,
+
+et que du même coup il y avait 5 brins dans le coup ...que même le dernier je peux le faire exactement semblable à tous ceux-là, qu’il n’y a à ça aucune difficulté, et qu’ainsi j’aurai aussi de cette façon résolu, sans introduire aucun point privilégié, la question du nœud borroméen, pour un nombre x, et aussi bien *infini* de ronds de ficelle.
 
 <!-- id: s20-12-0267 -->
 
@@ -1094,15 +1110,15 @@ puisque aussi bien qu’il n’y a aucune analogie topologique entre l’une et 
 
 <!-- id: s20-12-0269 -->
 
-> une que nous pouvons exprimer ici à propos des nœuds marins comme une topologie de torsion, disons,
->
-> par rapport aux autres qui seraient simplement de flexion ...est-ce que nous pouvons user de ceci pour...
+une que nous pouvons exprimer ici à propos des nœuds marins comme une topologie de torsion, disons,
+
+par rapport aux autres qui seraient simplement de flexion ...est-ce que nous pouvons user de ceci pour...
 
 <!-- id: s20-12-0270 -->
 
-> car il ne serait pas contradictoire de prendre même ceci dans un nœud marin, c’est très facile à faire,
->
-> faites-en l’épreuve, très exactement voici la façon dont la chose fléchie se prends comme nœud marin ...où mettre la limite de cet usage des nœuds pour arriver à la solution de ce que ceci, la section d’un quelconque de ces ronds de ficelle entraîne la libération de tous les autres, c’est à dire nous donne le modèle de ce qu’il en est à partir de cette *formalisation mathématique*, celle qui substitue à la fonction d’un *nombre* quelconque d’*Uns* ce qu’on appelle « *une lettre* ».
+car il ne serait pas contradictoire de prendre même ceci dans un nœud marin, c’est très facile à faire,
+
+faites-en l’épreuve, très exactement voici la façon dont la chose fléchie se prends comme nœud marin ...où mettre la limite de cet usage des nœuds pour arriver à la solution de ce que ceci, la section d’un quelconque de ces ronds de ficelle entraîne la libération de tous les autres, c’est à dire nous donne le modèle de ce qu’il en est à partir de cette *formalisation mathématique*, celle qui substitue à la fonction d’un *nombre* quelconque d’*Uns* ce qu’on appelle « *une lettre* ».
 
 <!-- id: s20-12-0271 -->
 
@@ -1134,7 +1150,7 @@ Car aussi bien cet *a*, *a-sexué*, est-ce que ce n’est pas de le conjoindre a
 
 <!-- id: s20-12-0278 -->
 
-> de ne pouvoir être dite qu’Autre ...que la femme l’offre sous l’espèce de *l’objet*(*a*) ?
+de ne pouvoir être dite qu’Autre ...que la femme l’offre sous l’espèce de *l’objet*(*a*) ?
 
 <!-- id: s20-12-0279 -->
 
@@ -1142,7 +1158,7 @@ L’homme *croit créer*...
 
 <!-- id: s20-12-0280 -->
 
-> croyez bien que je ne dis pas ça au hasard ...*il* *croit, croit, croit*... bon, *il crée, crée, crée...* et *il crée, crée, crée... la femme*.
+croyez bien que je ne dis pas ça au hasard ...*il* *croit, croit, croit*... bon, *il crée, crée, crée...* et *il crée, crée, crée... la femme*.
 
 <!-- id: s20-12-0281 -->
 
@@ -1150,7 +1166,7 @@ Ouais ! En réalité il la met au travail, mais au travail de l’Un \[*La Femme
 
 <!-- id: s20-12-0282 -->
 
-> pour autant que s’y inscrit l’articulation du langage, c’est-à-dire la vérité ...l’Autre pourra être barré, barré de ceci que j’ai qualifié tout à l’heure de « *l’**1** en moins* », où le S de A, de A en tant qu’il est barré \[S(**A**)\], c’est bien cela que ça veut dire, et c’est en quoi nous en arrivons à poser la question de faire de l’Un quelque chose qui se tienne, c’est-à-dire qui se compte sans être. \[« ...*qualifier de l’Un* \[...\] *ce qui a 0 dimension, c’est-à-dire ce qui n’existe pas*. » S20 p. 119\]
+pour autant que s’y inscrit l’articulation du langage, c’est-à-dire la vérité ...l’Autre pourra être barré, barré de ceci que j’ai qualifié tout à l’heure de « *l’**1** en moins* », où le S de A, de A en tant qu’il est barré \[S(**A**)\], c’est bien cela que ça veut dire, et c’est en quoi nous en arrivons à poser la question de faire de l’Un quelque chose qui se tienne, c’est-à-dire qui se compte sans être. \[« ...*qualifier de l’Un* \[...\] *ce qui a 0 dimension, c’est-à-dire ce qui n’existe pas*. » S20 p. 119\]
 
 <!-- id: s20-12-0283 -->
 
@@ -1158,7 +1174,7 @@ La mathématisation seule atteint à *un réel*...
 
 <!-- id: s20-12-0284 -->
 
-> et c’est en quoi c’est compatible avec notre discours, discours analytique, ...*un réel qui* précisément *s’évade* \[*ex-siste*\], qui n’a rien à faire avec ce que la connaissance traditionnelle a supporté, c’est-à-dire non pas ce qu’elle croit : la réalité, mais bien *le fantasme*.
+et c’est en quoi c’est compatible avec notre discours, discours analytique, ...*un réel qui* précisément *s’évade* \[*ex-siste*\], qui n’a rien à faire avec ce que la connaissance traditionnelle a supporté, c’est-à-dire non pas ce qu’elle croit : la réalité, mais bien *le fantasme*.
 
 <!-- id: s20-12-0285 -->
 

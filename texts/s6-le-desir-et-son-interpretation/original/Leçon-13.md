@@ -78,7 +78,7 @@ Ce rêve qui nous a servi à montrer comment s’instituait sur *deux lignes d�
 
 <!-- id: s6-13-0019 -->
 
-> le sujet paternel dans l’occasion étant ce qui est évoqué par le sujet rêveur
+le sujet paternel dans l’occasion étant ce qui est évoqué par le sujet rêveur
 
 <!-- id: s6-13-0020 -->
 
@@ -134,7 +134,7 @@ Vous savez qu’il s’agit de POLONIUS, et que c’est au moment où HAMLET a a
 
 <!-- id: s6-13-0033 -->
 
-> Il s’agit de ROSENCRANTZ et de GUILDENSTERN qui représentent des sortes de faux-frères
+Il s’agit de ROSENCRANTZ et de GUILDENSTERN qui représentent des sortes de faux-frères
 
 <!-- id: s6-13-0034 -->
 
@@ -142,9 +142,9 @@ Vous savez qu’il s’agit de POLONIUS, et que c’est au moment où HAMLET a a
 
 <!-- id: s6-13-0035 -->
 
-> Vous savez que la pièce s’ouvre sur la terrasse d’Elseneur par l’apparition de ce *fantôme*
->
-> à deux gardes qui en avertiront, bientôt après, HAMLET.
+Vous savez que la pièce s’ouvre sur la terrasse d’Elseneur par l’apparition de ce *fantôme*
+
+à deux gardes qui en avertiront, bientôt après, HAMLET.
 
 <!-- id: s6-13-0036 -->
 
@@ -164,7 +164,7 @@ Et je dirais qu’en même temps…
 
 <!-- id: s6-13-0040 -->
 
-> et c’est ceci qui est le caractère en somme le moins exploité, le moins interrogé
+et c’est ceci qui est le caractère en somme le moins exploité, le moins interrogé
 
 <!-- id: s6-13-0041 -->
 
@@ -236,7 +236,7 @@ Bien plus encore, le père qui apparaît comme *ghost,* « *fantôme* », pour l
 
 <!-- id: s6-13-0058 -->
 
-> c’est là le texte et il n’a pas manqué non plus d’exercer la curiosité des analystes
+c’est là le texte et il n’a pas manqué non plus d’exercer la curiosité des analystes
 
 <!-- id: s6-13-0059 -->
 
@@ -264,7 +264,11 @@ Vous le savez bien puisqu’on vous apprend même que c’est l’une des révol
 
 <!-- id: s6-13-0065 -->
 
-> « *toutes ses pensées* » c’est quelque chose qui doit toujours nous inci­ter à une grande réserve, je veux dire que les pensées, c’est nous qui les appelons ainsi, pour ce qui est vécu par le sujet, les pensées, c’est *tout ce qui est*
+<div class="text-quotation">
+
+« *toutes ses pensées* » c’est quelque chose qui doit toujours nous inci­ter à une grande réserve, je veux dire que les pensées, c’est nous qui les appelons ainsi, pour ce qui est vécu par le sujet, les pensées, c’est *tout ce qui est*
+
+</div>
 
 <!-- id: s6-13-0066 -->
 
@@ -280,7 +284,7 @@ Mais enfin, il y a quelque chose, qui est tout à fait clair et qui nous sert de
 
 <!-- id: s6-13-0069 -->
 
-> par rapport à la stature des anciens, ce seraient de pauvres dégénérés
+par rapport à la stature des anciens, ce seraient de pauvres dégénérés
 
 <!-- id: s6-13-0070 -->
 
@@ -436,7 +440,7 @@ Et très précisément de ce quelque chose qui se manifeste tout au long de cett
 
 <!-- id: s6-13-0108 -->
 
-> c’est ce qu’on appelle, en français, ajournement, retardement
+c’est ce qu’on appelle, en français, ajournement, retardement
 
 <!-- id: s6-13-0109 -->
 
@@ -452,7 +456,7 @@ Je crois qu’ici en tout cas, s’il y a quelque chose à mettre en relief, c�
 
 <!-- id: s6-13-0112 -->
 
-> et c’est là ce qui est suffisamment indiqué dans ce que je vous ai fait remarquer
+et c’est là ce qui est suffisamment indiqué dans ce que je vous ai fait remarquer
 
 <!-- id: s6-13-0113 -->
 
@@ -484,7 +488,11 @@ Je pense que ces mots ne sont pas faits pour nous être indif­férents
 
 <!-- id: s6-13-0120 -->
 
-> « *This mortal coil  *» n’est pas tout à fait « *l’enveloppe* », c’est cette espèce de torsion de quelque chose d’enroulé qu’il y a autour de nous
+<div class="text-quotation">
+
+« *This mortal coil  *» n’est pas tout à fait « *l’enveloppe* », c’est cette espèce de torsion de quelque chose d’enroulé qu’il y a autour de nous
+
+</div>
 
 <!-- id: s6-13-0121 -->
 
@@ -500,7 +508,7 @@ Les conséquences, d’ailleurs, à la génération suivante ne sont pas légèr
 
 <!-- id: s6-13-0124 -->
 
-> à la suite d’une sombre trame sur laquelle nous aurons à nous étendre largement
+à la suite d’une sombre trame sur laquelle nous aurons à nous étendre largement
 
 <!-- id: s6-13-0125 -->
 
@@ -548,13 +556,13 @@ C’est dans la mesure où quelque chose vient à *équivaloir* à ce qui a manq
 
 <!-- id: s6-13-0136 -->
 
-> à ce qui a manqué en raison même de cette situation originelle, initiale, distincte par rapport à l’œdipe,
->
-> c’est-à-dire la castration, en raison même du fait qu’à l’intérieur de la pièce les choses se présentent
->
-> comme une espèce de lent cheminement en zigzag, de lent accouchement et par des voies détournées
->
-> de la castration nécessaire
+à ce qui a manqué en raison même de cette situation originelle, initiale, distincte par rapport à l’œdipe,
+
+c’est-à-dire la castration, en raison même du fait qu’à l’intérieur de la pièce les choses se présentent
+
+comme une espèce de lent cheminement en zigzag, de lent accouchement et par des voies détournées
+
+de la castration nécessaire
 
 <!-- id: s6-13-0137 -->
 

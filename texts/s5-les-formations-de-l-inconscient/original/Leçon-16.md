@@ -634,7 +634,7 @@ Nous retrouvons là *la formule de la métaphore* que je vous ai donnée, pour a
 
 <!-- id: s5-16-0128 -->
 
-> <img src="assets/image45.jpeg" style="width:1.13254in;height:0.58139in" alt="40.jpg" />
+<img src="assets/image45.jpeg" style="width:1.13254in;height:0.58139in" alt="40.jpg" />
 
 <!-- id: s5-16-0129 -->
 

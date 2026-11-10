@@ -26,9 +26,9 @@ Cet *intérieur exclu qui*, pour reprendre les termes mêmes de l’*Entwurf, es
 
 <!-- id: s7-08-0006 -->
 
-> dont la suite nous montre *qu’il est dominé par la fonction de ces Vorstellungsrepräsentanz*,
->
-> c’est-à-dire non pas seulement par les *représentations*, mais *par des représentants de la représentation*
+dont la suite nous montre *qu’il est dominé par la fonction de ces Vorstellungsrepräsentanz*,
+
+c’est-à-dire non pas seulement par les *représentations*, mais *par des représentants de la représentation*
 
 <!-- id: s7-08-0007 -->
 
@@ -112,7 +112,7 @@ Nous sommes projetés...
 
 <!-- id: s7-08-0027 -->
 
-> dans ce champ que j’appelle « *le champ du das Ding* », sur *quelque chose* qui est bien au-delà de ce domaine mouvant, confus, mal repéré - *faute d’une suffisante organisation de son registre* - de l’affectivité
+dans ce champ que j’appelle « *le champ du das Ding* », sur *quelque chose* qui est bien au-delà de ce domaine mouvant, confus, mal repéré - *faute d’une suffisante organisation de son registre* - de l’affectivité
 
 <!-- id: s7-08-0028 -->
 
@@ -196,9 +196,9 @@ Dans le champ où nous avons à nous avancer maintenant, dans le champ de l’é
 
 <!-- id: s7-08-0048 -->
 
-> l’école kleinienne comme telle, à savoir Mélanie KLEIN elle-même,
->
-> Ella SHARPE, pour autant que sur ce point elle la suit pleinement
+l’école kleinienne comme telle, à savoir Mélanie KLEIN elle-même,
+
+Ella SHARPE, pour autant que sur ce point elle la suit pleinement
 
 <!-- id: s7-08-0049 -->
 
@@ -278,9 +278,9 @@ C’est-à-dire que, quelle que soit la sorte d’*évidence*, notre philosophe 
 
 <!-- id: s7-08-0068 -->
 
-> si sympathique personnage il faut bien le dire, je ne suis pas ici en train de dire
->
-> qu’il s’agit de quelqu’un de petite envergure ni de minces capacités passionnelles
+si sympathique personnage il faut bien le dire, je ne suis pas ici en train de dire
+
+qu’il s’agit de quelqu’un de petite envergure ni de minces capacités passionnelles
 
 <!-- id: s7-08-0069 -->
 
@@ -328,7 +328,7 @@ C’est l’autre cas également envisageable, et dont les annales criminologiqu
 
 <!-- id: s7-08-0080 -->
 
-> *au-delà* des limites normalement désignées au *principe du plaisir* en face du *principe de réalité* considéré comme critère du principe, *à savoir* *la sublimation excessive de l’objet,* *et ce qu’on appelle communément la perversion* dans le second cas. À savoir que, pour le plaisir de couper la dame en morceaux, le monsieur accepte l’issue fatale à la sortie
+*au-delà* des limites normalement désignées au *principe du plaisir* en face du *principe de réalité* considéré comme critère du principe, *à savoir* *la sublimation excessive de l’objet,* *et ce qu’on appelle communément la perversion* dans le second cas. À savoir que, pour le plaisir de couper la dame en morceaux, le monsieur accepte l’issue fatale à la sortie
 
 <!-- id: s7-08-0081 -->
 
@@ -388,9 +388,9 @@ La sublimation est tout autre chose. Les questions que se sont posées les analy
 
 <!-- id: s7-08-0095 -->
 
-> assez bien daté, il est de 1930, de Richard STERBA, sur ce problème,
->
-> *Zur Problematik der Sublimierungslehre* dans la revue [*Internationale* *Zeitschrift Volume VII*](http://www.archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXvi1930Heft34)
+assez bien daté, il est de 1930, de Richard STERBA, sur ce problème,
+
+*Zur Problematik der Sublimierungslehre* dans la revue [*Internationale* *Zeitschrift Volume VII*](http://www.archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXvi1930Heft34)
 
 <!-- id: s7-08-0096 -->
 
@@ -446,9 +446,9 @@ C’est pour autant que je vous montrais, qu’alors d’une façon tout à fait
 
 <!-- id: s7-08-0109 -->
 
-> ce n’est pas du tout une création de *l’âme populaire*, de la fameuse
->
-> « *grande âme du temps béni du Moyen Âge* » comme Gustave COHEN l’appelait
+ce n’est pas du tout une création de *l’âme populaire*, de la fameuse
+
+« *grande âme du temps béni du Moyen Âge* » comme Gustave COHEN l’appelait
 
 <!-- id: s7-08-0110 -->
 

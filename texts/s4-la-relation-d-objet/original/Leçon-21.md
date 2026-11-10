@@ -544,11 +544,11 @@ où le *Père réel* joue vraiment le jeu, sa fonction de père castrateur, sa f
 
 <!-- id: s4-21-0105 -->
 
-> le personnage du père primordial sous sa forme tyrannique
->
-> et plus ou moins horrifiante sous laquelle le mythe freudien nous l’a présenté
-> …dans la mesure en d’autres termes, où le père tel qu’il existe remplit sa fonction *ima­ginaire* dans ce qu’elle a, elle, d’empiriquement intolérable, si vous voulez de révoltant, dans le fait - d’une façon quelconque - qu’il fait sentir son incidence
-> comme castratrice et uniquement sous cet angle, que *le complexe de castration* est vécu.
+le personnage du père primordial sous sa forme tyrannique
+
+et plus ou moins horrifiante sous laquelle le mythe freudien nous l’a présenté
+…dans la mesure en d’autres termes, où le père tel qu’il existe remplit sa fonction *ima­ginaire* dans ce qu’elle a, elle, d’empiriquement intolérable, si vous voulez de révoltant, dans le fait - d’une façon quelconque - qu’il fait sentir son incidence
+comme castratrice et uniquement sous cet angle, que *le complexe de castration* est vécu.
 
 <!-- id: s4-21-0106 -->
 

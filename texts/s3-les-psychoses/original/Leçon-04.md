@@ -38,11 +38,11 @@ Je vous signale au passage qu’aussi bien…
 
 <!-- id: s3-04-0009 -->
 
-> pour le désir de vous donner ce que certains souhaitent, c’est-à-dire des références dans le texte,
->
-> je n’ai pas toujours la possibilité de le faire parce qu’il faut que mon discours n’en soit pas rompu,
->
-> et que néanmoins je vous apporte les citations quand il est nécessaire
+pour le désir de vous donner ce que certains souhaitent, c’est-à-dire des références dans le texte,
+
+je n’ai pas toujours la possibilité de le faire parce qu’il faut que mon discours n’en soit pas rompu,
+
+et que néanmoins je vous apporte les citations quand il est nécessaire
 
 <!-- id: s3-04-0010 -->
 
@@ -70,7 +70,11 @@ Et tout en saisissant fort bien ce que je veux dire, ce que j’ai articulé, ce
 
 <!-- id: s3-04-0016 -->
 
-> « *Ce qui a été rejeté du symbolique réparait dans le réel.* »
+<div class="text-quotation">
+
+« *Ce qui a été rejeté du symbolique réparait dans le réel.* »
+
+</div>
 
 <!-- id: s3-04-0017 -->
 
@@ -94,15 +98,19 @@ Et c’est là qu’il s’exprime :
 
 <!-- id: s3-04-0022 -->
 
-> « *Il n’est pas correct et exact que la sensation intérieurement réprimée*…
->
-> la *Verdrängung* est une *symbolisation*, c’est *le retour du refoulé*, au contraire *Unterdrückung* c’est simplement l’indication qu’il y a quelque chose qui est *intérieurement réprimé*
->
-> … *de la dire projetée de nouveau vers l’extérieur, bien plutôt nous devons dire que ce qui est*…
->
-> Vous vous rappelez peut-être l’accent d’insistance qu’il a mis sur l’usage de ce mot
->
-> et qu’on le sache ou qu’on ne le sache pas, personne ne me fera croire que FREUD ne savait pas soulever l’euphémisme *« isolé »*
+<div class="text-quotation">
+
+« *Il n’est pas correct et exact que la sensation intérieurement réprimée*…
+
+la *Verdrängung* est une *symbolisation*, c’est *le retour du refoulé*, au contraire *Unterdrückung* c’est simplement l’indication qu’il y a quelque chose qui est *intérieurement réprimé*
+
+… *de la dire projetée de nouveau vers l’extérieur, bien plutôt nous devons dire que ce qui est*…
+
+Vous vous rappelez peut-être l’accent d’insistance qu’il a mis sur l’usage de ce mot
+
+et qu’on le sache ou qu’on ne le sache pas, personne ne me fera croire que FREUD ne savait pas soulever l’euphémisme *« isolé »*
+
+</div>
 
 <!-- id: s3-04-0023 -->
 
@@ -162,7 +170,7 @@ Je dirais même presque qu’elle avait un sentiment…
 
 <!-- id: s3-04-0037 -->
 
-> à côté de la chaîne d’interprétations difficiles à mettre en évidence dont elle se sentait victime
+à côté de la chaîne d’interprétations difficiles à mettre en évidence dont elle se sentait victime
 
 <!-- id: s3-04-0038 -->
 
@@ -178,7 +186,7 @@ Tout de même elle m’a livré qu’un jour, dans son couloir, au moment où el
 
 <!-- id: s3-04-0041 -->
 
-> elle ne pouvait quand même pas me le dissimuler, elle l’avait encore sur le cœur
+elle ne pouvait quand même pas me le dissimuler, elle l’avait encore sur le cœur
 
 <!-- id: s3-04-0042 -->
 
@@ -210,9 +218,9 @@ Comprenez d’abord que vous avez là la chance unique de toucher du doigt ce qu
 
 <!-- id: s3-04-0049 -->
 
-> c’est à cela que j’ai limité mon commentaire car à ce moment-là le temps me manquait
->
-> pour faire le développement de cet élément
+c’est à cela que j’ai limité mon commentaire car à ce moment-là le temps me manquait
+
+pour faire le développement de cet élément
 
 <!-- id: s3-04-0050 -->
 
@@ -224,7 +232,11 @@ Tâchez de voir et de vous intéresser un instant à ceci, cette perle consiste 
 
 <!-- id: s3-04-0052 -->
 
-> « *J’ai dit : « Je viens de chez le charcutier »* »
+<div class="text-quotation">
+
+« *J’ai dit : « Je viens de chez le charcutier »* »
+
+</div>
 
 <!-- id: s3-04-0053 -->
 
@@ -264,7 +276,7 @@ C’est son message en effet, mais est-ce que ce n’est pas plutôt son propre 
 
 <!-- id: s3-04-0062 -->
 
-> de la plus jeune, qui est partie au maximum semble-t-il, de la peur d’après les certificats médicaux, devant des menaces de son mari qui ne voulait rien moins que de « *la couper en rondelles* ».
+de la plus jeune, qui est partie au maximum semble-t-il, de la peur d’après les certificats médicaux, devant des menaces de son mari qui ne voulait rien moins que de « *la couper en rondelles* ».
 
 <!-- id: s3-04-0063 -->
 
@@ -272,9 +284,9 @@ Nous avons là le sentiment que *l’injure* dont il s’agit…
 
 <!-- id: s3-04-0064 -->
 
-> puisque le terme d’*injure* est vraiment là essentiel,
->
-> il a toujours été mis en valeur dans la phénoménologie clinique de la paranoïa
+puisque le terme d’*injure* est vraiment là essentiel,
+
+il a toujours été mis en valeur dans la phénoménologie clinique de la paranoïa
 
 <!-- id: s3-04-0065 -->
 
@@ -330,9 +342,9 @@ Ou bien nous nous contentons de nous dire : « *Voilà*, *elle est hallucinée,
 
 <!-- id: s3-04-0078 -->
 
-> ce qui peut paraître une entreprise insensée, mais n’est-ce pas le rôle des psychanalystes,
->
-> jusqu’à présent de s’être livrés à des entreprises insensées ?
+ce qui peut paraître une entreprise insensée, mais n’est-ce pas le rôle des psychanalystes,
+
+jusqu’à présent de s’être livrés à des entreprises insensées ?
 
 <!-- id: s3-04-0079 -->
 
@@ -572,9 +584,9 @@ De toute façon, que « *Truie !* » soit chargé de sens obscur - ce qui est p
 
 <!-- id: s3-04-0138 -->
 
-> méfiez-vous toujours des gens qui vous diront  « *vous comprenez* »,
->
-> c’est toujours pour vous envoyer ailleurs que là où il s’agit d’aller
+méfiez-vous toujours des gens qui vous diront  « *vous comprenez* »,
+
+c’est toujours pour vous envoyer ailleurs que là où il s’agit d’aller
 
 <!-- id: s3-04-0139 -->
 
@@ -610,7 +622,7 @@ Cette analyse de structure a une fin : c’est de vous montrer, de vous amorcer 
 
 <!-- id: s3-04-0147 -->
 
-> ce que vous croyez, ce n’est pas le reflet de ce que vous voyez en face de vous, ce n’est pas purement et simplement ce qui se produit en tant que vous vous voyez vous voir.
+ce que vous croyez, ce n’est pas le reflet de ce que vous voyez en face de vous, ce n’est pas purement et simplement ce qui se produit en tant que vous vous voyez vous voir.
 
 <!-- id: s3-04-0148 -->
 

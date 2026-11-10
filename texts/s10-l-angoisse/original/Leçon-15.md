@@ -224,12 +224,12 @@ Tout de même, quand je vous apporte ici des batteries de pots fignolés...
 
 <!-- id: s10-15-0038 -->
 
-> car ne croyez pas que ce soit jamais sans en avoir envoyé beaucoup à la casse :
->
-> j’ai fait, moi aussi, dans mon bon temps, des discours entiers où l’action, la pen­sée, la parole,
->
-> faisaient la ronde de façon à puer la symétrie, eh bien, c’est allé au panier
-> ...quand je mets :
+car ne croyez pas que ce soit jamais sans en avoir envoyé beaucoup à la casse :
+
+j’ai fait, moi aussi, dans mon bon temps, des discours entiers où l’action, la pen­sée, la parole,
+
+faisaient la ronde de façon à puer la symétrie, eh bien, c’est allé au panier
+...quand je mets :
 
 <!-- id: s10-15-0039 -->
 
@@ -325,15 +325,19 @@ je pense que vous l’avez com­pris depuis longtemps
 
 <!-- id: s10-15-0053 -->
 
-> « *je ne peux pas dire consacrées, ça voudrait dire le faire dans un certain but.*
->
-> *Non. N’importe quel objet m’oblige à vous évoquer comme témoin, même pas pour avoir, de ce que je vois, l’approbation.*
->
-> *Non, simplement le regard.*
->
-> *En disant ça, je m’avance même un petit peu trop. Disons que ce regard m’aide à faire prendre à chaque chose son sens* ».
-> Là-dessus, évocation ironique du thème rencontré à une date juvénile de sa vie,
-> du titre bien connu de la pièce de Steve Passeur [^100] « *Je vivrai un grand amour* ».
+<div class="text-quotation">
+
+« *je ne peux pas dire consacrées, ça voudrait dire le faire dans un certain but.*
+
+*Non. N’importe quel objet m’oblige à vous évoquer comme témoin, même pas pour avoir, de ce que je vois, l’approbation.*
+
+*Non, simplement le regard.*
+
+*En disant ça, je m’avance même un petit peu trop. Disons que ce regard m’aide à faire prendre à chaque chose son sens* ».
+Là-dessus, évocation ironique du thème rencontré à une date juvénile de sa vie,
+du titre bien connu de la pièce de Steve Passeur [^100] « *Je vivrai un grand amour* ».
+
+</div>
 
 <!-- id: s10-15-0054 -->
 
@@ -348,11 +352,15 @@ Et tout ce qu’elle lui écrivait, dit-elle, était vraiment « *un tissu de me
 
 <!-- id: s10-15-0056 -->
 
-> « *Je créais fil à fil un personnage, ce que je désirais être à ses yeux, que je n’étais d’aucune façon.*
->
-> *Ceci fut, je le crains, une entreprise purement romanesque et que je poursuivis de la façon la plus obstinée*,
->
-> *m’envelopper -* dit-elle *- dans une espèce de cocon* ».
+<div class="text-quotation">
+
+« *Je créais fil à fil un personnage, ce que je désirais être à ses yeux, que je n’étais d’aucune façon.*
+
+*Ceci fut, je le crains, une entreprise purement romanesque et que je poursuivis de la façon la plus obstinée*,
+
+*m’envelopper -* dit-elle *- dans une espèce de cocon* ».
+
+</div>
 
 <!-- id: s10-15-0057 -->
 
@@ -365,9 +373,13 @@ Là-dessus, elle revient sur ce qu’elle fait à mon usage :
 
 <!-- id: s10-15-0059 -->
 
-> « *C’est tout à fait à l’opposé, ce qu’ici je m’efforce à être. Je m’effor­ce à être toujours vraie, avec vous.*
->
-> *Je n’écris pas un roman quand je suis avec vous. Je l’écris quand je ne suis pas avec vous* ».
+<div class="text-quotation">
+
+« *C’est tout à fait à l’opposé, ce qu’ici je m’efforce à être. Je m’effor­ce à être toujours vraie, avec vous.*
+
+*Je n’écris pas un roman quand je suis avec vous. Je l’écris quand je ne suis pas avec vous* ».
+
+</div>
 
 <!-- id: s10-15-0060 -->
 
@@ -637,12 +649,12 @@ Ces deux hommes...
 
 <!-- id: s10-15-0109 -->
 
-> qui ont eu - comme il convient - quelques difficultés avec leur mère, et avec des - comme on s’exprime –
->
-> « *female siblings* » \[« *fratrie de sœurs* »\], ce qui veut dire des sœurs, mais ce qui les situe dans une équivalence avec les frères
-> ...ces deux hommes se trouvent maintenant accointés avec des femmes, nous dit-on,
-> qu’ils ont bel et bien choisies pour pouvoir exercer un certain nombre de tendances agressives et autres,
-> et s’y protéger d’un penchant, mon Dieu, analytiquement non contestable vers l’autre sexe.
+qui ont eu - comme il convient - quelques difficultés avec leur mère, et avec des - comme on s’exprime –
+
+« *female siblings* » \[« *fratrie de sœurs* »\], ce qui veut dire des sœurs, mais ce qui les situe dans une équivalence avec les frères
+...ces deux hommes se trouvent maintenant accointés avec des femmes, nous dit-on,
+qu’ils ont bel et bien choisies pour pouvoir exercer un certain nombre de tendances agressives et autres,
+et s’y protéger d’un penchant, mon Dieu, analytiquement non contestable vers l’autre sexe.
 
 <!-- id: s10-15-0110 -->
 
@@ -743,12 +755,12 @@ Elle n’y pense plus et la situation continue, c’est-à-dire qu’on а beau 
 
 <!-- id: s10-15-0129 -->
 
-> et donc même l’usage que peut faire dans son analyse le patient - je parle du premier dont il s’agit –
->
-> de ses conflits avec sa femme pour obtenir de son analyste d’autant plus d’atten­tion,
->
-> pour obtenir d’elle les compensations qu’il n’a jamais trouvées du côté de sa mère
-> ...ça n’avance toujours pas.
+et donc même l’usage que peut faire dans son analyse le patient - je parle du premier dont il s’agit –
+
+de ses conflits avec sa femme pour obtenir de son analyste d’autant plus d’atten­tion,
+
+pour obtenir d’elle les compensations qu’il n’a jamais trouvées du côté de sa mère
+...ça n’avance toujours pas.
 
 <!-- id: s10-15-0130 -->
 
@@ -838,10 +850,10 @@ est très essentiellement possible, dans la mesure où un rapport...
 
 <!-- id: s10-15-0143 -->
 
-> pour une fois, qui n’est qu’un rapport à un désir comme tel,
->
-> fût-il si *complexe* du reste que vous le supposiez et elle l’indique : *qu’elle а aussi ses problèmes*
-> ...n’est jamais en fin de compte qu’un rapport avec lequel elle peut garder ses distances.
+pour une fois, qui n’est qu’un rapport à un désir comme tel,
+
+fût-il si *complexe* du reste que vous le supposiez et elle l’indique : *qu’elle а aussi ses problèmes*
+...n’est jamais en fin de compte qu’un rapport avec lequel elle peut garder ses distances.
 
 <!-- id: s10-15-0144 -->
 

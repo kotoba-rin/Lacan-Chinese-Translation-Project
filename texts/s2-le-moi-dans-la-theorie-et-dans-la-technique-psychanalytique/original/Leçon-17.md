@@ -6,7 +6,7 @@
 
 <!-- id: s2-17-0001 -->
 
-> STÉNOTYPIE MANQUANTE
+STÉNOTYPIE MANQUANTE
 
 <!-- id: s2-17-0002 -->
 
@@ -46,7 +46,7 @@ LE SÉMINAIRE SUR « LA LETTRE VOLÉE »
 
 <!-- id: s2-17-0011 -->
 
-> *bien que la notion s’en présente dans l’œuvre ici en cause, comme destinée à répondre à certains paradoxes de la clinique, tels que les rêves de la névrose traumatique où la réaction thérapeutique négative*
+*bien que la notion s’en présente dans l’œuvre ici en cause, comme destinée à répondre à certains paradoxes de la clinique, tels que les rêves de la névrose traumatique où la réaction thérapeutique négative*
 
 <!-- id: s2-17-0012 -->
 
@@ -365,9 +365,9 @@ LE SÉMINAIRE SUR « LA LETTRE VOLÉE »
 
 <!-- id: s2-17-0065 -->
 
-> *par où nous avons voulu d’abord en effet redonner sa position dominante*
->
-> *dans la fonction du moi à la théorie – cruciale dans Freud – du narcissisme*
+*par où nous avons voulu d’abord en effet redonner sa position dominante*
+
+*dans la fonction du moi à la théorie – cruciale dans Freud – du narcissisme*
 
 <!-- id: s2-17-0066 -->
 
@@ -583,7 +583,7 @@ Donc *trois temps*, ordonnant *trois regards*, supportés par *trois sujets*, à
 
 <!-- id: s2-17-0119 -->
 
-> *c’est le ministre* \[*avec la Reine*\]*, et c’est Dupin enfin* \[*avec le ministre*\].
+*c’est le ministre* \[*avec la Reine*\]*, et c’est Dupin enfin* \[*avec le ministre*\].
 
 <!-- id: s2-17-0120 -->
 
@@ -999,7 +999,7 @@ Car il est clair que si l’usage non significatif de la lettre est un usage for
 
 <!-- id: s2-17-0223 -->
 
-> d’en finir avec ce qui est destiné par nature à signifier l’annulation de ce qu’il signifie.
+d’en finir avec ce qui est destiné par nature à signifier l’annulation de ce qu’il signifie.
 
 <!-- id: s2-17-0224 -->
 
@@ -1139,11 +1139,15 @@ Or, c’est la même question dont l’a interrogé celui que DUPIN maintenant r
 
 <!-- id: s2-17-0258 -->
 
-> « *Qu’es-tu, figure du dé que je retourne dans ta rencontre* (τύχη \[tuké\])[^53] *avec ma fortune ? Rien, sinon cette présence de la mort qui fait de la vie humaine ce sursis obtenu de matin en matin au nom des significations dont ton signe est la houlette.*
->
-> *Tel fit Schéhérazade durant mille et une nuits, et tel je fais depuis dix-huit mois à éprouver l’ascendant de ce signe*
->
-> *au prix d’une série vertigineuse de coups pipés au jeu de pair ou impair* ».
+<div class="text-quotation">
+
+« *Qu’es-tu, figure du dé que je retourne dans ta rencontre* (τύχη \[tuké\])[^53] *avec ma fortune ? Rien, sinon cette présence de la mort qui fait de la vie humaine ce sursis obtenu de matin en matin au nom des significations dont ton signe est la houlette.*
+
+*Tel fit Schéhérazade durant mille et une nuits, et tel je fais depuis dix-huit mois à éprouver l’ascendant de ce signe*
+
+*au prix d’une série vertigineuse de coups pipés au jeu de pair ou impair* ».
+
+</div>
 
 <!-- id: s2-17-0259 -->
 
@@ -1159,9 +1163,9 @@ C’est pourquoi DUPIN va enfin tourner vers nous *la face médusante de ce sign
 
 <!-- id: s2-17-0262 -->
 
-> *… un destin si funeste,*
->
-> *S’il n’est digne d’Atrée, est digne de Thyeste.*
+*… un destin si funeste,*
+
+*S’il n’est digne d’Atrée, est digne de Thyeste.*
 
 <!-- id: s2-17-0263 -->
 
@@ -1169,11 +1173,15 @@ Telle est la réponse du signifiant au-delà de toutes les significations :
 
 <!-- id: s2-17-0264 -->
 
-> « *Tu crois agir quand je t’agite au gré des liens dont je noue tes désirs.*
->
-> *Ainsi ceux-ci croissent-ils en forces et se multiplient-ils en objets qui te ramènent au morcellement de ton enfance déchirée.*
->
-> *Eh bien, c’est là ce qui sera ton festin jusqu’au retour de l’invité de pierre que je serai pour toi, puisque tu m’évoques.* »
+<div class="text-quotation">
+
+« *Tu crois agir quand je t’agite au gré des liens dont je noue tes désirs.*
+
+*Ainsi ceux-ci croissent-ils en forces et se multiplient-ils en objets qui te ramènent au morcellement de ton enfance déchirée.*
+
+*Eh bien, c’est là ce qui sera ton festin jusqu’au retour de l’invité de pierre que je serai pour toi, puisque tu m’évoques.* »
+
+</div>
 
 <!-- id: s2-17-0265 -->
 
@@ -1305,8 +1313,12 @@ Peu d’instants après, je lui dis adieu. Le prétendu fou était un homme pay�
 
 <!-- id: s2-17-0297 -->
 
-> «  …*Un dessein si funeste*,  
-> *S’il n’est digne d’Atrée, est digne de Thyeste*. »
+<div class="text-quotation">
+
+«  …*Un dessein si funeste*,  
+*S’il n’est digne d’Atrée, est digne de Thyeste*. »
+
+</div>
 
 <!-- id: s2-17-0298 -->
 

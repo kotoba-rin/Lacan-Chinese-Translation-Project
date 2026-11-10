@@ -38,7 +38,7 @@ Il semble indiqué donc, d’articuler *la logique du fantasme*, ce qui veut dir
 
 <!-- id: s14-23-0009 -->
 
-> je ne dis pas : « *pour la première fois par moi* », mais : « *peut-être pour la premiè­re fois par moi* », dans le champ analytique …le rapport du *sujet de l’énoncé* - *par exemple* - au *sujet de l’énonciation*.
+je ne dis pas : « *pour la première fois par moi* », mais : « *peut-être pour la premiè­re fois par moi* », dans le champ analytique …le rapport du *sujet de l’énoncé* - *par exemple* - au *sujet de l’énonciation*.
 
 <!-- id: s14-23-0010 -->
 
@@ -70,11 +70,11 @@ Approchons la et d’abord pour nous apercevoir, dire simplement, comme le dé­
 
 <!-- id: s14-23-0017 -->
 
-> comme le fait FREUD avec force, dans l’examen exemplaire qu’il a fait d’un de ces fantasmes : « *On bat un enfant* »,
->
-> que j’ai déjà fait, si vous vous en souvenez, quand j’ai introduit les premiers schémas de cette année - que bien sûr,
->
-> je vous conseille, quand vous aurez rassem­blé ce que vous avez pu prendre de plus ou moins étendu com­me notes, auxquelles, je pense, vous aurez de nouveau recours, pour saisir le chemin qui aura été ici parcouru …que *quel­que chose de clos* donc, est à situer -et doublement - dans ces deux termes que j’ai accentués, l’un comme ce corrélatif du choix constitué par le « *je ne pense pas* » dans lequel le « *je »* se constitue par le fait que le « *Je* » justement, vient en ré­serve, si je puis dire comme écornage en négatif dans la structure : « *Ein Kind ist geschlagen*. »
+comme le fait FREUD avec force, dans l’examen exemplaire qu’il a fait d’un de ces fantasmes : « *On bat un enfant* »,
+
+que j’ai déjà fait, si vous vous en souvenez, quand j’ai introduit les premiers schémas de cette année - que bien sûr,
+
+je vous conseille, quand vous aurez rassem­blé ce que vous avez pu prendre de plus ou moins étendu com­me notes, auxquelles, je pense, vous aurez de nouveau recours, pour saisir le chemin qui aura été ici parcouru …que *quel­que chose de clos* donc, est à situer -et doublement - dans ces deux termes que j’ai accentués, l’un comme ce corrélatif du choix constitué par le « *je ne pense pas* » dans lequel le « *je »* se constitue par le fait que le « *Je* » justement, vient en ré­serve, si je puis dire comme écornage en négatif dans la structure : « *Ein Kind ist geschlagen*. »
 
 <!-- id: s14-23-0018 -->
 
@@ -82,11 +82,11 @@ Ce fantasme…
 
 <!-- id: s14-23-0019 -->
 
-> non pas « *on bat un enfant* », par exemple, mais pour être strict : « *un enfant est battu* », comme il est écrit en allemand …ce fantasme…
+non pas « *on bat un enfant* », par exemple, mais pour être strict : « *un enfant est battu* », comme il est écrit en allemand …ce fantasme…
 
 <!-- id: s14-23-0020 -->
 
-> c’est bien cette structure qu’au niveau du seul terme possible du choix tel qu’il est laissé par la structure de l’aliénation – le choix du « je ne pense pas » …ce fantasme apparaît, comme cette phrase, gramma­ticalement structuré : « *Ein Kind ist geschlagen*. »
+c’est bien cette structure qu’au niveau du seul terme possible du choix tel qu’il est laissé par la structure de l’aliénation – le choix du « je ne pense pas » …ce fantasme apparaît, comme cette phrase, gramma­ticalement structuré : « *Ein Kind ist geschlagen*. »
 
 <!-- id: s14-23-0021 -->
 
@@ -118,9 +118,9 @@ Articuler ce qu’il en est de *la jouissance intéressée dans la perversion*, 
 
 <!-- id: s14-23-0028 -->
 
-> au *fantasme* tel qu’il nous est donné à l’état fermé, et c’est pour ça que j’ai rappelé tout à l’heure
->
-> cet exemple de *On bat un enfant* dans le texte freudien­ …*la fonction de ce fantasme*, qui ne peut comme tel présenter, n’être autre chose, que strictement cette formule « *Ein Kind ist geschlagen* ».
+au *fantasme* tel qu’il nous est donné à l’état fermé, et c’est pour ça que j’ai rappelé tout à l’heure
+
+cet exemple de *On bat un enfant* dans le texte freudien­ …*la fonction de ce fantasme*, qui ne peut comme tel présenter, n’être autre chose, que strictement cette formule « *Ein Kind ist geschlagen* ».
 
 <!-- id: s14-23-0029 -->
 
@@ -128,9 +128,9 @@ Ce n’est pas parce qu’elle peut intéresser, en ce sens qu’elle a une conf
 
 <!-- id: s14-23-0030 -->
 
-> pour tout de suite rappeler ce point vif qu’il n’est tout de même pas difficile
->
-> de *ramasser au passage* dans ce tex­te si clair de FREUD, c’est par exemple ceci …qu’il n’a pas une telle spécificité dans les cas de névrose où il l’a ren­contré.
+pour tout de suite rappeler ce point vif qu’il n’est tout de même pas difficile
+
+de *ramasser au passage* dans ce tex­te si clair de FREUD, c’est par exemple ceci …qu’il n’a pas une telle spécificité dans les cas de névrose où il l’a ren­contré.
 
 <!-- id: s14-23-0031 -->
 
@@ -226,7 +226,7 @@ Que ce dont il s’agit au niveau de la perversion est ce­ci : c’est que c’
 
 <!-- id: s14-23-0054 -->
 
-> présumé, non pas de l’acte mais de l’union - du pacte si vous voulez - sexuel­le …dans la mesure *où ce Un est laissé intact*, *où la partition ne s’y établit pas*, que le sujet dit « *pervers »*, vient à trouver, au niveau de cet irréductible qu’il est, de ce *petit(a)* origi­nel, sa jouissance.
+présumé, non pas de l’acte mais de l’union - du pacte si vous voulez - sexuel­le …dans la mesure *où ce Un est laissé intact*, *où la partition ne s’y établit pas*, que le sujet dit « *pervers »*, vient à trouver, au niveau de cet irréductible qu’il est, de ce *petit(a)* origi­nel, sa jouissance.
 
 <!-- id: s14-23-0055 -->
 
@@ -290,7 +290,7 @@ et ce n’est pas pour rien que c’est là qu’elle apparaît prévalente - �
 
 <!-- id: s14-23-0070 -->
 
-> qui est proprement la limite, l’achoppement, le terme mis à toute forme qui se situe comme d’excès de la jouissance …*nulle part*, il n’apparaît mieux, que la loi de *la jouissance* est soumise à cette limite.
+qui est proprement la limite, l’achoppement, le terme mis à toute forme qui se situe comme d’excès de la jouissance …*nulle part*, il n’apparaît mieux, que la loi de *la jouissance* est soumise à cette limite.
 
 <!-- id: s14-23-0071 -->
 
@@ -302,7 +302,7 @@ Et que c’est là que va se trouver *tout spécialement pour l’homme* - en ta
 
 <!-- id: s14-23-0073 -->
 
-> *et pour cau­se, parce que c’est là le champ où se dessine le sujet…qu’il a à en faire la requête, à en trouver la trace.*
+*et pour cau­se, parce que c’est là le champ où se dessine le sujet…qu’il a à en faire la requête, à en trouver la trace.*
 
 <!-- id: s14-23-0074 -->
 
@@ -366,9 +366,9 @@ SADE reste essentiel pour avoir bien masqué les rapports de l’acte sadique à
 
 <!-- id: s14-23-0089 -->
 
-> quand il en a tenté dérisoirement d’articuler la loi sous la forme d’une *Règle universelle* digne des articulations de KANT, dans ce morceau célèbre *[Français, encore un effort pour être républicains](http://fr.wikisource.org/wiki/Fran%C3%A7ais%2C_encore_un_effort_si_vous_voulez_%C3%AAtre_r%C3%A9publicains)* objet de mon commentaire dans l’arti­cle
->
-> que j’ai évoqué tout à l’heure …montré que cette loi ne saurait s’articuler qu’en terme, non pas de « *jouissance du corps* » - notez-le bien dans le texte - mais de « *parties du corps* ».
+quand il en a tenté dérisoirement d’articuler la loi sous la forme d’une *Règle universelle* digne des articulations de KANT, dans ce morceau célèbre *[Français, encore un effort pour être républicains](http://fr.wikisource.org/wiki/Fran%C3%A7ais%2C_encore_un_effort_si_vous_voulez_%C3%AAtre_r%C3%A9publicains)* objet de mon commentaire dans l’arti­cle
+
+que j’ai évoqué tout à l’heure …montré que cette loi ne saurait s’articuler qu’en terme, non pas de « *jouissance du corps* » - notez-le bien dans le texte - mais de « *parties du corps* ».
 
 <!-- id: s14-23-0090 -->
 
@@ -400,7 +400,7 @@ Mais ne l’oublions pas, il ne s’agit-là que de *la logique de la chose*. Si
 
 <!-- id: s14-23-0097 -->
 
-> pour *soutirer* si l’on peut dire, dérober, au seul coin où manifes­tement il est saisissable, qui est *l’objet petit(a)* …*se livre* - lui, délibérément - *à cette identification à cet objet comme re­jeté* : *il est moins que rien*, même pas animal, l’animal qu’on maltraite, et aussi bien *sujet* qui, *de sa fonction de sujet*, a abandonné par contrat tous les privilèges.
+pour *soutirer* si l’on peut dire, dérober, au seul coin où manifes­tement il est saisissable, qui est *l’objet petit(a)* …*se livre* - lui, délibérément - *à cette identification à cet objet comme re­jeté* : *il est moins que rien*, même pas animal, l’animal qu’on maltraite, et aussi bien *sujet* qui, *de sa fonction de sujet*, a abandonné par contrat tous les privilèges.
 
 <!-- id: s14-23-0098 -->
 
@@ -412,11 +412,11 @@ Cette recherche, cette construction en quelque sorte acharnée, d’une identifi
 
 <!-- id: s14-23-0100 -->
 
-> « *Tandis que des mortels la multitude vile,*
->
-> *Sous le fouet du Plaisir, ce bourreau sans merci,*
->
-> *Va cueillir des remords dans la fête servile*… »[^93]
+« *Tandis que des mortels la multitude vile,*
+
+*Sous le fouet du Plaisir, ce bourreau sans merci,*
+
+*Va cueillir des remords dans la fête servile*… »[^93]
 
 <!-- id: s14-23-0101 -->
 
@@ -432,7 +432,7 @@ Mais ce dont il s’agit, quand le poète s’exprime ainsi, c’est très préc
 
 <!-- id: s14-23-0104 -->
 
-> « …*Ma Douleur, donne moi la main, viens par ici, Loin d’eux*…[^94] »
+« …*Ma Douleur, donne moi la main, viens par ici, Loin d’eux*…[^94] »
 
 <!-- id: s14-23-0105 -->
 
@@ -456,7 +456,7 @@ Ceci, Sacher MASOCH, aussi exemplaire que l’autre \[Sade\] à nous avoir livr�
 
 <!-- id: s14-23-0110 -->
 
-> qu’il avait affublée d’un nom qu’elle n’avait pas, du nom de WANDA de *La Vénus aux fourrures* *…*sa femme, quand elle écrit ses mémoires, nous montre à quel point de ses requêtes, elle est à peu près aussi embarrassée qu’un poisson d’une pomme.
+qu’il avait affublée d’un nom qu’elle n’avait pas, du nom de WANDA de *La Vénus aux fourrures* *…*sa femme, quand elle écrit ses mémoires, nous montre à quel point de ses requêtes, elle est à peu près aussi embarrassée qu’un poisson d’une pomme.
 
 <!-- id: s14-23-0111 -->
 
@@ -476,7 +476,7 @@ Et cette autre face qu’on peut appeler à proprement parler « *moquerie* »
 
 <!-- id: s14-23-0115 -->
 
-> puisque vous l’avez maintenant à votre portée à la suite de l’admirable *Présentation* \[de Sacher Masoch\] de Gilles DELEUZE …*La Vénus aux fourrures *: voyez ce moment où ce personnage, quand même assez seigneur qu’était Sacher MASOCH, imagine ce personnage de son roman, dont il fait, lui, alors, un *grand seigneur* qui, pendant qu’il joue le rôle de valet à courroter derrière sa dame, a toutes les peines du monde à ne pas éclater de rire, encore qu’il prenne l’air le plus triste possible. Il ne retient qu’avec peine son rire.
+puisque vous l’avez maintenant à votre portée à la suite de l’admirable *Présentation* \[de Sacher Masoch\] de Gilles DELEUZE …*La Vénus aux fourrures *: voyez ce moment où ce personnage, quand même assez seigneur qu’était Sacher MASOCH, imagine ce personnage de son roman, dont il fait, lui, alors, un *grand seigneur* qui, pendant qu’il joue le rôle de valet à courroter derrière sa dame, a toutes les peines du monde à ne pas éclater de rire, encore qu’il prenne l’air le plus triste possible. Il ne retient qu’avec peine son rire.
 
 <!-- id: s14-23-0116 -->
 
@@ -484,7 +484,7 @@ Et c’est encore y introduire - donc comme essentiel - ceci : le côté que j�
 
 <!-- id: s14-23-0117 -->
 
-> et qui a aussi frappé, sans qu’il en rende complètement compte, REIK, à ce propos … le côté « *démonstration* » de la chose, qui fait partie de cette position du masochiste, qu’il démontre, comme moi, au tableau noir : ça a la même valeur, qu’il démontre que *là seulement* est le lieu de la jouissance.
+et qui a aussi frappé, sans qu’il en rende complètement compte, REIK, à ce propos … le côté « *démonstration* » de la chose, qui fait partie de cette position du masochiste, qu’il démontre, comme moi, au tableau noir : ça a la même valeur, qu’il démontre que *là seulement* est le lieu de la jouissance.
 
 <!-- id: s14-23-0118 -->
 
@@ -500,7 +500,7 @@ Je vous ai suffisamment indiqué tout à l’heure que dans la névrose, ce par 
 
 <!-- id: s14-23-0121 -->
 
-> qui n’est rien d’autre que ce fantasme qui à l’intérieur de son champ à elle, névrose, remplit une fonction bien spéciale, sur laquelle semble-t-il, on ne s’est jamais vraiment interrogé …c’est uniquement à partir de là que nous pourrons donner *juste valeur* à ce que nous introduirons à plus ou moins juste titre, en tel tournant de la névrose, en l’appelant *masochisme*.
+qui n’est rien d’autre que ce fantasme qui à l’intérieur de son champ à elle, névrose, remplit une fonction bien spéciale, sur laquelle semble-t-il, on ne s’est jamais vraiment interrogé …c’est uniquement à partir de là que nous pourrons donner *juste valeur* à ce que nous introduirons à plus ou moins juste titre, en tel tournant de la névrose, en l’appelant *masochisme*.
 
 <!-- id: s14-23-0122 -->
 
@@ -520,7 +520,7 @@ Mais il ne se rend pas compte que dans ce jeu, *il est lui-même la dupe*, se fa
 
 <!-- id: s14-23-0126 -->
 
-> je veux dire lui sans le savoir, sans le chercher, sans s’y situer, sans s’y placer …la fonction de *l’ob­jet(a)*, c’est-à-dire d’être objectivement, réellement, dans une *position masochiste*, comme la biographie de notre « *divin Marquis* » - je l’ai souligné dans mon article - nous le démontre assez : quoi de plus de masochiste que de s’être entièrement remis entre les mains de la Marquise de Merteuil. \[Cf. *Les liaisons dangereuses*. La marquise De Sade était née marquise de Montreuil\]
+je veux dire lui sans le savoir, sans le chercher, sans s’y situer, sans s’y placer …la fonction de *l’ob­jet(a)*, c’est-à-dire d’être objectivement, réellement, dans une *position masochiste*, comme la biographie de notre « *divin Marquis* » - je l’ai souligné dans mon article - nous le démontre assez : quoi de plus de masochiste que de s’être entièrement remis entre les mains de la Marquise de Merteuil. \[Cf. *Les liaisons dangereuses*. La marquise De Sade était née marquise de Montreuil\]
 
 ## Notes
 

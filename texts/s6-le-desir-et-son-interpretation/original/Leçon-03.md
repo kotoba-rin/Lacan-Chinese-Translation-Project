@@ -10,7 +10,7 @@ Je commence par tenir mes promesses. La dernière fois je vous avais indiqué l�
 
 <!-- id: s6-03-0002 -->
 
-> excellente revue qui a cessé de paraître avec la guerre et avec la disparition de son éditeur BOIVIN
+excellente revue qui a cessé de paraître avec la guerre et avec la disparition de son éditeur BOIVIN
 
 <!-- id: s6-03-0003 -->
 
@@ -42,7 +42,7 @@ Beaucoup d’entre vous ont entendu hier soir *la relation clinique d’un de no
 
 <!-- id: s6-03-0010 -->
 
-> *parce qu’elle n’est pas seulement une question théorique, mais qu’elle est liée à l’essentiel de notre pratique*
+*parce qu’elle n’est pas seulement une question théorique, mais qu’elle est liée à l’essentiel de notre pratique*
 
 <!-- id: s6-03-0011 -->
 
@@ -138,7 +138,7 @@ quoique bien entendu ce soit un *terme approximatif*, inexact pour désigner le 
 
 <!-- id: s6-03-0034 -->
 
-> encore que bien entendu elles ne gardent pas de valeur thérapeutique ni pratique
+encore que bien entendu elles ne gardent pas de valeur thérapeutique ni pratique
 
 <!-- id: s6-03-0035 -->
 
@@ -262,7 +262,7 @@ Je n’ai pas à aller ici beaucoup plus loin. Ce que je veux dire que - vous de
 
 <!-- id: s6-03-0065 -->
 
-> et cela vous voyez bien entendu déjà, non pas où je veux en venir, mais où nous en viendrons *nécessairement*
+et cela vous voyez bien entendu déjà, non pas où je veux en venir, mais où nous en viendrons *nécessairement*
 
 <!-- id: s6-03-0066 -->
 
@@ -270,7 +270,7 @@ Je n’ai pas à aller ici beaucoup plus loin. Ce que je veux dire que - vous de
 
 <!-- id: s6-03-0067 -->
 
-> encore que FREUD en son temps est au point où les choses pouvaient se dire dans *un discours scientifique*
+encore que FREUD en son temps est au point où les choses pouvaient se dire dans *un discours scientifique*
 
 <!-- id: s6-03-0068 -->
 
@@ -314,9 +314,13 @@ Par contre si nous revenons ici aux choses qui nous concernent, c’est-à-dire 
 
 <!-- id: s6-03-0078 -->
 
-> « *L’affect, le problème est de savoir ce qu’il devient, pour autant qu’il est décroché de la représentation refoulée*
->
-> *et qu’il ne dépend plus de la représentation substitutive à laquelle il trouve à s’attacher.* »
+<div class="text-quotation">
+
+« *L’affect, le problème est de savoir ce qu’il devient, pour autant qu’il est décroché de la représentation refoulée*
+
+*et qu’il ne dépend plus de la représentation substitutive à laquelle il trouve à s’attacher.* »
+
+</div>
 
 <!-- id: s6-03-0079 -->
 
@@ -324,7 +328,7 @@ Au « *décroché* » correspond cette possibilité d’*annexion* qui est sa 
 
 <!-- id: s6-03-0080 -->
 
-> *c’est de là que part l’analyse, c’est de là que FREUD part quand il commence à articuler les vérités analytiques*
+*c’est de là que part l’analyse, c’est de là que FREUD part quand il commence à articuler les vérités analytiques*
 
 <!-- id: s6-03-0081 -->
 
@@ -340,7 +344,7 @@ compréhensible, communicable du *vécu* de tous les jours d’une hystérique
 
 <!-- id: s6-03-0084 -->
 
-> qui a l’air d’ailleurs de tenir avec l’ensemble du texte sauf pour un *regard* un petit peu exigeant
+qui a l’air d’ailleurs de tenir avec l’ensemble du texte sauf pour un *regard* un petit peu exigeant
 
 <!-- id: s6-03-0085 -->
 
@@ -424,7 +428,7 @@ Ce qui se dégage de l’ensemble de l’œuvre de FREUD concernant les rapports
 
 <!-- id: s6-03-0105 -->
 
-> où le processus primaire, c’est-à-dire *le désir* au niveau du processus primaire trouve sa *satisfaction*
+où le processus primaire, c’est-à-dire *le désir* au niveau du processus primaire trouve sa *satisfaction*
 
 <!-- id: s6-03-0106 -->
 
@@ -464,13 +468,13 @@ Et au niveau de FREUD *ceci ne fait aucune espèce de doute*, et précisément �
 
 <!-- id: s6-03-0115 -->
 
-> c’est un terme à retenir, le mot *Währung* veut dire *durée*, il n’est pas très habituel en allemand,
->
-> il est lié au verbe *währen* qui est une *forme durative* du verbe *wahren* et cette idée de durée, de *valorisation*,
->
-> car c’est l’usage le plus commun, si le mot *Währung* se rapporte à la durée, l’usage le plus commun
->
-> qui en est fait c’est *la valeur*, *la valorisation*
+c’est un terme à retenir, le mot *Währung* veut dire *durée*, il n’est pas très habituel en allemand,
+
+il est lié au verbe *währen* qui est une *forme durative* du verbe *wahren* et cette idée de durée, de *valorisation*,
+
+car c’est l’usage le plus commun, si le mot *Währung* se rapporte à la durée, l’usage le plus commun
+
+qui en est fait c’est *la valeur*, *la valorisation*
 
 <!-- id: s6-03-0116 -->
 
@@ -490,15 +494,15 @@ Il est hors de doute bien entendu que FREUD n’a jamais pensé à aucune espèc
 
 <!-- id: s6-03-0120 -->
 
-> ne serait-ce que par cette distinction qu’il a toujours faite du *contenu manifeste* et du *contenu latent*
->
-> en se rapportant immédiatement à ce qu’on pourrait appeler, et à ce que l’on ne se fait pas faute d’appeler
->
-> à tout instant dans l’analyse, de ce terme qui n’a pas je crois d’équivalent, de « *wishful thinking* ».
->
-> C’est que je voudrais presque faire rendre quelque son d’équivalence avec alarme. Cela devrait mettre
->
-> à soi tout seul un analyste en défiance, voire en défense, et le persuader qu’il s’est engagé dans la fausse voie
+ne serait-ce que par cette distinction qu’il a toujours faite du *contenu manifeste* et du *contenu latent*
+
+en se rapportant immédiatement à ce qu’on pourrait appeler, et à ce que l’on ne se fait pas faute d’appeler
+
+à tout instant dans l’analyse, de ce terme qui n’a pas je crois d’équivalent, de « *wishful thinking* ».
+
+C’est que je voudrais presque faire rendre quelque son d’équivalence avec alarme. Cela devrait mettre
+
+à soi tout seul un analyste en défiance, voire en défense, et le persuader qu’il s’est engagé dans la fausse voie
 
 <!-- id: s6-03-0121 -->
 
@@ -562,7 +566,7 @@ Pour régler cette interprétation, il n’y a qu’une remarque à faire : si 
 
 <!-- id: s6-03-0136 -->
 
-> bien entendu il a un sens, mais il est employé dans un des contextes où ce sens n’est pas valable
+bien entendu il a un sens, mais il est employé dans un des contextes où ce sens n’est pas valable
 
 <!-- id: s6-03-0137 -->
 
@@ -570,7 +574,7 @@ Pour régler cette interprétation, il n’y a qu’une remarque à faire : si 
 
 <!-- id: s6-03-0138 -->
 
-> c’est le sens de la pensée en tant qu’elle glisse, en tant qu’elle fléchit, donc à ce terme on ne doit pas attribuer la signification « *prendre son désir pour des réalités* » comme on s’exprime couramment
+c’est le sens de la pensée en tant qu’elle glisse, en tant qu’elle fléchit, donc à ce terme on ne doit pas attribuer la signification « *prendre son désir pour des réalités* » comme on s’exprime couramment
 
 <!-- id: s6-03-0139 -->
 
@@ -618,9 +622,9 @@ C’est cela que nous avons…
 
 <!-- id: s6-03-0150 -->
 
-> ces *formes signifiantes* qui en elles-mêmes ne se conçoivent, ne se soutiennent
->
-> que pour autant qu’elles sont articulées avec d’autres *signifiants*
+ces *formes signifiantes* qui en elles-mêmes ne se conçoivent, ne se soutiennent
+
+que pour autant qu’elles sont articulées avec d’autres *signifiants*
 
 <!-- id: s6-03-0151 -->
 
@@ -632,7 +636,7 @@ Je sais bien que là je m’introduis dans quelque chose qui supposerait une art
 
 <!-- id: s6-03-0153 -->
 
-> dans les travaux de cette école qui se faisaient en petit cercle tout à fait fermé de psychologues
+dans les travaux de cette école qui se faisaient en petit cercle tout à fait fermé de psychologues
 
 <!-- id: s6-03-0154 -->
 
@@ -640,7 +644,7 @@ Je sais bien que là je m’introduis dans quelque chose qui supposerait une art
 
 <!-- id: s6-03-0155 -->
 
-> et très spécialement à l’occasion des problèmes qui nous sont ici posés
+et très spécialement à l’occasion des problèmes qui nous sont ici posés
 
 <!-- id: s6-03-0156 -->
 
@@ -668,7 +672,7 @@ Le problème est justement du rapport qu’il y a entre le refoulement…
 
 <!-- id: s6-03-0162 -->
 
-> *si le refoulement est dit s’appliquer exactement et comme tel à quelque chose qui est de l’ordre de la « Vorstellung »*
+*si le refoulement est dit s’appliquer exactement et comme tel à quelque chose qui est de l’ordre de la « Vorstellung »*
 
 <!-- id: s6-03-0163 -->
 
@@ -724,7 +728,7 @@ C’est une première question que malheureusement nous ne pourrons commencer d�
 
 <!-- id: s6-03-0176 -->
 
-> au sens où nous pouvons donner un sens précis à ce mot *fantasme*
+au sens où nous pouvons donner un sens précis à ce mot *fantasme*
 
 <!-- id: s6-03-0177 -->
 
@@ -800,7 +804,7 @@ Et peut-être même dirons-nous *jusqu’à un certain point*, que dans la vie t
 
 <!-- id: s6-03-0195 -->
 
-> nous en connaissons plus d’un, à partir du moment où je vous le signale cherchez dans vos relations
+nous en connaissons plus d’un, à partir du moment où je vous le signale cherchez dans vos relations
 
 <!-- id: s6-03-0196 -->
 

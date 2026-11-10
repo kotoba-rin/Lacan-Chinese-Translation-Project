@@ -22,7 +22,7 @@ Si vous vous souvenez, la dernière fois nous avons…
 
 <!-- id: s6-21-0005 -->
 
-> à la suite de cette première position du sujet dans l’acte de la première articulation de la demande
+à la suite de cette première position du sujet dans l’acte de la première articulation de la demande
 
 <!-- id: s6-21-0006 -->
 
@@ -42,7 +42,7 @@ De sorte que ce que j’avais exprimé l’autre jour sous la forme qui faisait 
 
 <!-- id: s6-21-0010 -->
 
-> je ne sais plus si c’est sous cette forme ou sous une autre que j’avais écrit au tableau ceci
+je ne sais plus si c’est sous cette forme ou sous une autre que j’avais écrit au tableau ceci
 
 <!-- id: s6-21-0011 -->
 
@@ -58,7 +58,7 @@ C’est dans la mesure où…
 
 <!-- id: s6-21-0014 -->
 
-> au stade ultérieur à celui de la position de l’autre comme autre réel qui répond à la demande
+au stade ultérieur à celui de la position de l’autre comme autre réel qui répond à la demande
 
 <!-- id: s6-21-0015 -->
 
@@ -66,7 +66,7 @@ C’est dans la mesure où…
 
 <!-- id: s6-21-0016 -->
 
-> c’est-à-dire où lui-même s’apparaît comme sujet pour autant qu’il est sujet pour l’autre
+c’est-à-dire où lui-même s’apparaît comme sujet pour autant qu’il est sujet pour l’autre
 
 <!-- id: s6-21-0017 -->
 
@@ -110,7 +110,7 @@ C’est bien là ce sur quoi un des conflits les plus primitifs…
 
 <!-- id: s6-21-0027 -->
 
-> le plus primitif sans doute du point de vue qui nous intéresse
+le plus primitif sans doute du point de vue qui nous intéresse
 
 <!-- id: s6-21-0028 -->
 
@@ -146,7 +146,7 @@ S, c’est à ce niveau que le sujet se suspend et qu’à l’étape suivante�
 
 <!-- id: s6-21-0036 -->
 
-> c’est-à-dire pour autant qu’il va faire ce pas où il veut se saisir dans l’au-delà de la parole, est lui-même comme marqué de quelque chose qui le divise primordialement de lui-même en tant que sujet de la parole
+c’est-à-dire pour autant qu’il va faire ce pas où il veut se saisir dans l’au-delà de la parole, est lui-même comme marqué de quelque chose qui le divise primordialement de lui-même en tant que sujet de la parole
 
 <!-- id: s6-21-0037 -->
 
@@ -190,7 +190,7 @@ C’est pour autant qu’ici *le quotient que le sujet cherche à atteindre*...
 
 <!-- id: s6-21-0047 -->
 
-> pour autant qu’il doit se saisir, se reconstituer et s’authentifier comme sujet de la parole
+pour autant qu’il doit se saisir, se reconstituer et s’authentifier comme sujet de la parole
 
 <!-- id: s6-21-0048 -->
 
@@ -206,11 +206,11 @@ C’est pour autant que ce *quotient* et ce *reste,* restent ici en présence l�
 
 <!-- id: s6-21-0051 -->
 
-> de cet S pour autant qu’il marque ce moment de *fading* du sujet où le sujet ne trouve rien dans l’Autre
->
-> qui le garantisse, lui, d’une façon sûre et certaine, qui l’authentifie, qui lui permette de se situer
->
-> et de se nommer au niveau du discours de l’Autre, c’est­à-dire en tant que *sujet de l’inconscient*.
+de cet S pour autant qu’il marque ce moment de *fading* du sujet où le sujet ne trouve rien dans l’Autre
+
+qui le garantisse, lui, d’une façon sûre et certaine, qui l’authentifie, qui lui permette de se situer
+
+et de se nommer au niveau du discours de l’Autre, c’est­à-dire en tant que *sujet de l’inconscient*.
 
 <!-- id: s6-21-0052 -->
 
@@ -294,7 +294,7 @@ Un détour ici ne serait pas mal venu, c’est d’essayer pour nous d’appréh
 
 <!-- id: s6-21-0072 -->
 
-> c’est ce sur quoi d’ailleurs certains d’entre vous depuis longtemps s’interrogent
+c’est ce sur quoi d’ailleurs certains d’entre vous depuis longtemps s’interrogent
 
 <!-- id: s6-21-0073 -->
 
@@ -310,7 +310,7 @@ Enfin, ce point sur lequel la dernière fois j’ai essayé déjà d’attirer v
 
 <!-- id: s6-21-0076 -->
 
-> comment elle s’est créée, greffée, branchée sur cette longue culture
+comment elle s’est créée, greffée, branchée sur cette longue culture
 
 <!-- id: s6-21-0077 -->
 
@@ -334,9 +334,9 @@ Est-ce qu’il ne semble pas…
 
 <!-- id: s6-21-0082 -->
 
-> à la première approche, à la première appréhension que nous avons de ce qui résulte de ce processus, qu’assurément au point où nous en sommes, au point de l’élaboration spécialement de la science physique qui est la forme où la réussite s’est poussée le plus loin de la prise de nos chaînes symboliques
->
-> sur quelque chose que nous appelons l’expérience, l’expérience *construite*
+à la première approche, à la première appréhension que nous avons de ce qui résulte de ce processus, qu’assurément au point où nous en sommes, au point de l’élaboration spécialement de la science physique qui est la forme où la réussite s’est poussée le plus loin de la prise de nos chaînes symboliques
+
+sur quelque chose que nous appelons l’expérience, l’expérience *construite*
 
 <!-- id: s6-21-0083 -->
 
@@ -376,9 +376,9 @@ Que même quand nous nous trouvons dans une des formes de cette science qui est 
 
 <!-- id: s6-21-0092 -->
 
-> qui prétend imiter, comme le petit personnage de la *Melancholia* de DÜRER, *le petit ange*,
->
-> qui aux côtés de *la grande Mélancolie* commence à faire ses premiers *cercles :*
+qui prétend imiter, comme le petit personnage de la *Melancholia* de DÜRER, *le petit ange*,
+
+qui aux côtés de *la grande Mélancolie* commence à faire ses premiers *cercles :*
 
 <!-- id: s6-21-0093 -->
 
@@ -394,7 +394,7 @@ Il y a sans doute là quelque chose de véritablement exemplaire et qui est de n
 
 <!-- id: s6-21-0096 -->
 
-> qui elle, bien entendu, si nous ne la posons et ne l’articulons comme une science, est quand même une chose qui se pose comme paradoxale par rapport à la méthode jusqu’ici définie sur l’apport scientifique
+qui elle, bien entendu, si nous ne la posons et ne l’articulons comme une science, est quand même une chose qui se pose comme paradoxale par rapport à la méthode jusqu’ici définie sur l’apport scientifique
 
 <!-- id: s6-21-0097 -->
 
@@ -410,7 +410,7 @@ Que quelque chose qui est de l’ordre d’un discours dès l’abord, que souti
 
 <!-- id: s6-21-0100 -->
 
-> si après tout nous donnons à ce terme d’« *être* » sa définition *minima*
+si après tout nous donnons à ce terme d’« *être* » sa définition *minima*
 
 <!-- id: s6-21-0101 -->
 
@@ -438,7 +438,7 @@ Si d’autre part, on peut dire que cela a été peut-être beaucoup plus loin q
 
 <!-- id: s6-21-0107 -->
 
-> dans l’expérience de la subjectivité, dans celle qui s’établit dans la confidence, dans la confiance analytique
+dans l’expérience de la subjectivité, dans celle qui s’établit dans la confidence, dans la confiance analytique
 
 <!-- id: s6-21-0108 -->
 
@@ -522,7 +522,7 @@ C’est pour autant que ce dont le sujet se nourrit, *se coupe* à quelque momen
 
 <!-- id: s6-21-0128 -->
 
-> c’est le renversement de la position, le stade « *sadique­oral* »
+c’est le renversement de la position, le stade « *sadique­oral* »
 
 <!-- id: s6-21-0129 -->
 
@@ -534,7 +534,7 @@ C’est donc l’*objet* en tant qu’*objet de sevrage*, ce qui veut dire à pr
 
 <!-- id: s6-21-0131 -->
 
-> et aussi bien que tout l’apprentissage lui est fait des rites et des formes de la propreté
+et aussi bien que tout l’apprentissage lui est fait des rites et des formes de la propreté
 
 <!-- id: s6-21-0132 -->
 
@@ -582,7 +582,7 @@ Pour autant que *cette émission* justement *n’est pas scandée*, pour autant 
 
 <!-- id: s6-21-0143 -->
 
-> et ici je vous prie de vous reporter aux études de JONES
+et ici je vous prie de vous reporter aux études de JONES
 
 <!-- id: s6-21-0144 -->
 
@@ -594,7 +594,7 @@ Mais précisément, en raison justement de cette imposition de la forme de la co
 
 <!-- id: s6-21-0146 -->
 
-> paradoxalement et par cette sorte de *déplaisante surprise* que les découvertes analytiques nous ont apportée
+paradoxalement et par cette sorte de *déplaisante surprise* que les découvertes analytiques nous ont apportée
 
 <!-- id: s6-21-0147 -->
 
@@ -614,9 +614,9 @@ Et après tout la chose - les auteurs analystes l’ont aperçue - n’implique 
 
 <!-- id: s6-21-0151 -->
 
-> *pour autant qu’elle joue un rôle si important dans toutes les formes, dans toutes les manifestations*
->
-> *de l’accès de l’homme à sa propre réalité, dans la consécration de sa plénitude d’homme*
+*pour autant qu’elle joue un rôle si important dans toutes les formes, dans toutes les manifestations*
+
+*de l’accès de l’homme à sa propre réalité, dans la consécration de sa plénitude d’homme*
 
 <!-- id: s6-21-0152 -->
 
@@ -624,9 +624,9 @@ Et après tout la chose - les auteurs analystes l’ont aperçue - n’implique 
 
 <!-- id: s6-21-0153 -->
 
-> par où l’homme cherche, dans un certain nombre de formes de stigmatisation,
->
-> à définir son accès à un niveau supérieur de réalisation de lui-même
+par où l’homme cherche, dans un certain nombre de formes de stigmatisation,
+
+à définir son accès à un niveau supérieur de réalisation de lui-même
 
 <!-- id: s6-21-0154 -->
 
@@ -694,7 +694,7 @@ C’est ici que pour autant que la fonction du narcissisme est *rapport imaginai
 
 <!-- id: s6-21-0170 -->
 
-> à savoir l’inscription, la situation où le sujet peut placer *sa propre tension, sa propre érection, par rapport à l’image* d’au-delà de lui-même qu’il a dans l’autre
+à savoir l’inscription, la situation où le sujet peut placer *sa propre tension, sa propre érection, par rapport à l’image* d’au-delà de lui-même qu’il a dans l’autre
 
 <!-- id: s6-21-0171 -->
 
@@ -722,9 +722,9 @@ Voilà qui, rapproché de cette expérience de *la tumescence*, nous fait bien a
 
 <!-- id: s6-21-0177 -->
 
-> comme ce par quoi le sujet s’éprouve sans jamais pourtant pouvoir se saisir,
->
-> puisque aussi bien ici *il n’y a pas à proprement parler de marque possible, de coupure possible*
+comme ce par quoi le sujet s’éprouve sans jamais pourtant pouvoir se saisir,
+
+puisque aussi bien ici *il n’y a pas à proprement parler de marque possible, de coupure possible*
 
 <!-- id: s6-21-0178 -->
 
@@ -760,11 +760,11 @@ Ce que je crois le plus favorable à vous montrer ce dont il s’agit et comment
 
 <!-- id: s6-21-0186 -->
 
-> hors d’une relecture attentive que je vous prie de faire de ce que j’ai écrit sur le sujet
->
-> *D’une question préalable à tout traitement possible de la psychose*, à savoir ce que j’ai articulé de ce que nous permet,
->
-> d’une façon si poussée, si élaborée, d’articuler le délire de SCHREBER
+hors d’une relecture attentive que je vous prie de faire de ce que j’ai écrit sur le sujet
+
+*D’une question préalable à tout traitement possible de la psychose*, à savoir ce que j’ai articulé de ce que nous permet,
+
+d’une façon si poussée, si élaborée, d’articuler le délire de SCHREBER
 
 <!-- id: s6-21-0187 -->
 
@@ -844,7 +844,7 @@ C’est bien là ce autour de quoi *nous posons la question* ici, et je ne veux 
 
 <!-- id: s6-21-0206 -->
 
-> au moins pour ceux qui viennent ici pour la première fois
+au moins pour ceux qui viennent ici pour la première fois
 
 <!-- id: s6-21-0207 -->
 
@@ -872,7 +872,7 @@ Précisément cette dimension non point de la réalité, d’une réduction au m
 
 <!-- id: s6-21-0213 -->
 
-> si tant est que, nous analystes, nous pouvons dans l’expérience du désir trouver plus qu’un simple accident, que quelque chose d’après tout bien gênant, mais dont il n’y a en somme qu’à attendre que ça se passe et que la vieillesse vienne pour que le sujet retrouve tout naturellement « *les voies de la paix et de la sagesse* »
+si tant est que, nous analystes, nous pouvons dans l’expérience du désir trouver plus qu’un simple accident, que quelque chose d’après tout bien gênant, mais dont il n’y a en somme qu’à attendre que ça se passe et que la vieillesse vienne pour que le sujet retrouve tout naturellement « *les voies de la paix et de la sagesse* »
 
 <!-- id: s6-21-0214 -->
 

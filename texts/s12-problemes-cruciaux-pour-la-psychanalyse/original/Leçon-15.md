@@ -50,11 +50,11 @@ Peut-être pendant ces vacances, aurez-vous l’occasion d’ouvrir ce livre ? J
 
 <!-- id: s12-15-0012 -->
 
-> et d’où il convient de partir pour se repérer concernant tout ce qui s’est dit depuis, et *qui ne date pas assurément*,
->
-> ni de SAUSSURE, ni de TROUBETZKOY, ni de JAKOBSON : cette théorie du signifiant que déjà les stoïciens, et nommément par exemple un CHRYSIPPE [^116], avaient poussé à un extrême point de perfection.
->
-> *Signans* et *signatum* sont en circulation déjà depuis quelques *deux mille ans* …*l’opposition* d’ὄνομα \[onoma\] et de ῤῆσις \[rhésis\].
+et d’où il convient de partir pour se repérer concernant tout ce qui s’est dit depuis, et *qui ne date pas assurément*,
+
+ni de SAUSSURE, ni de TROUBETZKOY, ni de JAKOBSON : cette théorie du signifiant que déjà les stoïciens, et nommément par exemple un CHRYSIPPE [^116], avaient poussé à un extrême point de perfection.
+
+*Signans* et *signatum* sont en circulation déjà depuis quelques *deux mille ans* …*l’opposition* d’ὄνομα \[onoma\] et de ῤῆσις \[rhésis\].
 
 <!-- id: s12-15-0013 -->
 
@@ -88,9 +88,9 @@ Et c’est pour cela que cette *fonction de la nomination* comporte une problém
 
 <!-- id: s12-15-0020 -->
 
-> *de fonction efficace de la nomination si le nom, en lui-même, ne comportait pas cette parfaite connivence à la chose qu’il désigne.*
->
-> \[[<span class="smallcaps">Platon :</span> *Cratyle*](http://remacle.org/bloodwolf/philosophes/platon/cousin/cratyle.htm), 383a-b, 390d, 391e, 435a-c\]
+*de fonction efficace de la nomination si le nom, en lui-même, ne comportait pas cette parfaite connivence à la chose qu’il désigne.*
+
+\[[<span class="smallcaps">Platon :</span> *Cratyle*](http://remacle.org/bloodwolf/philosophes/platon/cousin/cratyle.htm), 383a-b, 390d, 391e, 435a-c\]
 
 <!-- id: s12-15-0021 -->
 
@@ -98,9 +98,9 @@ C’est dans l’opération, souvent amusante, toujours paradoxale, et vraiment 
 
 <!-- id: s12-15-0022 -->
 
-> par cette aisance, ce sans-gêne, presque ce jeu, avec lequel devant nous est mis en usage cette interrogation du signifiant phonématique : la façon dont les mots sont, dans le débat, découpés, sollicités,
->
-> par la façon dont le jeu se mène autour d’une prétendue expressivité du phonème …nous montre assurément *autre chose* que ce qu’on prend pour naïveté.
+par cette aisance, ce sans-gêne, presque ce jeu, avec lequel devant nous est mis en usage cette interrogation du signifiant phonématique : la façon dont les mots sont, dans le débat, découpés, sollicités,
+
+par la façon dont le jeu se mène autour d’une prétendue expressivité du phonème …nous montre assurément *autre chose* que ce qu’on prend pour naïveté.
 
 <!-- id: s12-15-0023 -->
 
@@ -138,7 +138,7 @@ Or si avec cette formule vide, vous vous mettez à regarder…
 
 <!-- id: s12-15-0031 -->
 
-> je vous en charge, le temps - outre l’incident technique qui m’a retardé dans le départ de mon discours aujourd’hui - le temps me manquant pour vous en illustrer d’un grand nombre d’exemples …vous verrez *que de tous les noms*, quels qu’ils soient et quelque extension que nous puissions donner à la fonction du mot « *nom* », *que de tous les noms* que nous avons à interroger sous cet aspect de la nomination, le *nom propre* est celui qui présente de la façon la plus manifeste ce trait qui fait de toute institution *phonématique* du nom, de l’acte fondateur du nom dans sa *fonction désignatoire*, ce *quelque chose* qui a toujours en soi, cette dimension, cette propriété : *d’être un collage*.
+je vous en charge, le temps - outre l’incident technique qui m’a retardé dans le départ de mon discours aujourd’hui - le temps me manquant pour vous en illustrer d’un grand nombre d’exemples …vous verrez *que de tous les noms*, quels qu’ils soient et quelque extension que nous puissions donner à la fonction du mot « *nom* », *que de tous les noms* que nous avons à interroger sous cet aspect de la nomination, le *nom propre* est celui qui présente de la façon la plus manifeste ce trait qui fait de toute institution *phonématique* du nom, de l’acte fondateur du nom dans sa *fonction désignatoire*, ce *quelque chose* qui a toujours en soi, cette dimension, cette propriété : *d’être un collage*.
 
 <!-- id: s12-15-0032 -->
 
@@ -194,9 +194,9 @@ Et cet étrange COÛFONTAINE où nous retrouvons l’écho de cette forme du cyg
 
 <!-- id: s12-15-0045 -->
 
-> autour de laquelle l’attention des personnes du séminaire fermé a été appelée récemment à opiner,
->
-> à savoir ce « *POOR (d) J’e-LI* » dont l’analyse de LECLAIRE, pour ce qui fût sa part, dans ce rapport inaugural sur l’inconscient où quelque chose, par lui et par son co-auteur avait été promu à l’attention d’un auditoire psychanalytique plus vaste, concernant l’originalité de ce que j’avais pu accentuer dans l’enseignement de FREUD sur l’inconscient …ce quelque chose dont j’ai pu lire - *non sans satisfaction, sous une plume certes non amicale -* que chacun, depuis FREUD, savait que le fait de *l’énonciation de ceci* que « *l’inconscient est structuré comme un langage* », depuis FREUD, c’était une lapalissade.
+autour de laquelle l’attention des personnes du séminaire fermé a été appelée récemment à opiner,
+
+à savoir ce « *POOR (d) J’e-LI* » dont l’analyse de LECLAIRE, pour ce qui fût sa part, dans ce rapport inaugural sur l’inconscient où quelque chose, par lui et par son co-auteur avait été promu à l’attention d’un auditoire psychanalytique plus vaste, concernant l’originalité de ce que j’avais pu accentuer dans l’enseignement de FREUD sur l’inconscient …ce quelque chose dont j’ai pu lire - *non sans satisfaction, sous une plume certes non amicale -* que chacun, depuis FREUD, savait que le fait de *l’énonciation de ceci* que « *l’inconscient est structuré comme un langage* », depuis FREUD, c’était une lapalissade.
 
 <!-- id: s12-15-0046 -->
 
@@ -240,13 +240,13 @@ Comment se fait-il que n’ait pas répondu à l’appel…
 
 <!-- id: s12-15-0056 -->
 
-> alors qu’on est si hardi, si tranquille à qualifier de « *cosmonautes* » des gens qui se propulsent dans un champ
->
-> qu’assurément aucun *cosmos* au temps où il y avait une cosmologie, dont personne n’avait jamais prévu la trajectoire …pourquoi est-ce que ce LEONOV nous ne l’appellerions pas…
+alors qu’on est si hardi, si tranquille à qualifier de « *cosmonautes* » des gens qui se propulsent dans un champ
+
+qu’assurément aucun *cosmos* au temps où il y avait une cosmologie, dont personne n’avait jamais prévu la trajectoire …pourquoi est-ce que ce LEONOV nous ne l’appellerions pas…
 
 <!-- id: s12-15-0057 -->
 
-> de la place qu’il occupe, si je puis dire, depuis très longtemps, depuis le temps qu’il y a des gens qui nous peignent les messagers qui surgissent quelque part dans l’espace, pourvus de cette plumaille ridicule qui rend leur image vraiment, dans tous les tableaux, à proprement parler intolérable …*pourquoi est-ce qu’on ne l’appelle pas « un ange »* ? *Eh bien voilà : vous vous marrez !*
+de la place qu’il occupe, si je puis dire, depuis très longtemps, depuis le temps qu’il y a des gens qui nous peignent les messagers qui surgissent quelque part dans l’espace, pourvus de cette plumaille ridicule qui rend leur image vraiment, dans tous les tableaux, à proprement parler intolérable …*pourquoi est-ce qu’on ne l’appelle pas « un ange »* ? *Eh bien voilà : vous vous marrez !*
 
 <!-- id: s12-15-0058 -->
 
@@ -322,9 +322,9 @@ Et si vous voulez une image qui vous satisfasse mieux encore la fonction du « 
 
 <!-- id: s12-15-0076 -->
 
-> au sens que ce mot a pour la couturière : le « *patron* » qui représente le fragment de tissu \[...\]
->
-> qui servira à décomposer tel pointillé du vêtement ou telle manche …la fonction des *petites lettres* destinées à montrer avec quoi quelque chose doit être cousu.
+au sens que ce mot a pour la couturière : le « *patron* » qui représente le fragment de tissu \[...\]
+
+qui servira à décomposer tel pointillé du vêtement ou telle manche …la fonction des *petites lettres* destinées à montrer avec quoi quelque chose doit être cousu.
 
 <!-- id: s12-15-0077 -->
 
@@ -428,7 +428,7 @@ La naïveté avec laquelle il semble qu’on adopte, dans cette formalisation de
 
 <!-- id: s12-15-0102 -->
 
-> *sans qu’on s’aperçoive à quel point là, on piétine dans les plate–bandes du vieux « sujet de la connaissance », à savoir qu’en fin de compte, à prendre cette voie où chaque point du monde serait estimé de la façon dont il connaît plus ou moins tous les autres points* …a quelque chose de singulier, de paradoxal, où se manifeste de la façon la plus sensible une perte, et dont le modèle manifestement ne peut être donné que de ceci : que sommes habitués maintenant à avoir le maniement d’objets que nous pouvons éloigner presque indéfiniment de nous, qui sont des machines et par rapport auxquelles dans la mesure où nous *les faisons* - justement ces machines - être des sujets, que nous les donnons comme « *machines qui pensent* », qu’effectivement elles reçoivent de nous des informations grâce à quoi  elles se dirigent.
+*sans qu’on s’aperçoive à quel point là, on piétine dans les plate–bandes du vieux « sujet de la connaissance », à savoir qu’en fin de compte, à prendre cette voie où chaque point du monde serait estimé de la façon dont il connaît plus ou moins tous les autres points* …a quelque chose de singulier, de paradoxal, où se manifeste de la façon la plus sensible une perte, et dont le modèle manifestement ne peut être donné que de ceci : que sommes habitués maintenant à avoir le maniement d’objets que nous pouvons éloigner presque indéfiniment de nous, qui sont des machines et par rapport auxquelles dans la mesure où nous *les faisons* - justement ces machines - être des sujets, que nous les donnons comme « *machines qui pensent* », qu’effectivement elles reçoivent de nous des informations grâce à quoi  elles se dirigent.
 
 <!-- id: s12-15-0103 -->
 
@@ -452,7 +452,7 @@ Le renversement de cette position…
 
 <!-- id: s12-15-0108 -->
 
-> à savoir que *dans les signes,* il y en a qui sont *des signifiants, en tant qu’ils représentent le sujet pour un autre signifiant* …vous voyez dans quelle mesure, après tout, il répond à cette pente, à cette suite de la pensée, mais nous permet - ce sujet – d’en faire autre chose, autre chose de déterminable, de localisable, et dont le métabolisme peut être saisissable avec ses *conséquences*.
+à savoir que *dans les signes,* il y en a qui sont *des signifiants, en tant qu’ils représentent le sujet pour un autre signifiant* …vous voyez dans quelle mesure, après tout, il répond à cette pente, à cette suite de la pensée, mais nous permet - ce sujet – d’en faire autre chose, autre chose de déterminable, de localisable, et dont le métabolisme peut être saisissable avec ses *conséquences*.
 
 <!-- id: s12-15-0109 -->
 
@@ -542,7 +542,7 @@ Celui auquel ce λεκτόν s’adresse *- qu’il le lise ou pas -* est dans 
 
 <!-- id: s12-15-0130 -->
 
-> qui est d’être « *la seule* ».
+qui est d’être « *la seule* ».
 
 <!-- id: s12-15-0131 -->
 
@@ -566,9 +566,9 @@ Et vous qui le recevez ce message de votre *inconscient*, vous êtes à la place
 
 <!-- id: s12-15-0136 -->
 
-> *ce qui de nos jours se traduit, comme on le traduisait derrière une fenêtre en considérant mon abondant auditoire de Sainte-Anne :*
->
-> *« public abondant d’homosexuels et de toxicomanes » le public des autres est toujours constitué « d’homosexuels et de toxicomanes »* …donc *vous tous : psychotiques, névrotiques et pervers* qui faites partie de mon auditoire, en tant qu’Autre, qu’est-ce que ça veut dire que vous êtes devant ce message ? Eh bien, c’est là un point important à préciser parce que c’est là un trait de clinique, je veux dire d’ouverture où porter l’interrogation.
+*ce qui de nos jours se traduit, comme on le traduisait derrière une fenêtre en considérant mon abondant auditoire de Sainte-Anne :*
+
+*« public abondant d’homosexuels et de toxicomanes » le public des autres est toujours constitué « d’homosexuels et de toxicomanes »* …donc *vous tous : psychotiques, névrotiques et pervers* qui faites partie de mon auditoire, en tant qu’Autre, qu’est-ce que ça veut dire que vous êtes devant ce message ? Eh bien, c’est là un point important à préciser parce que c’est là un trait de clinique, je veux dire d’ouverture où porter l’interrogation.
 
 <!-- id: s12-15-0137 -->
 

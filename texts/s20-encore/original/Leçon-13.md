@@ -10,7 +10,7 @@ Grâce à quelqu’un qui veut bien se consacrer, comme ça, au *brossage* de ce
 
 <!-- id: s20-13-0002 -->
 
-> il est là au premier rang ...j’ai eu il y a quatre, cinq jours, la truffe brossée de mes élocutions ici, je parle de celles de cette année.
+il est là au premier rang ...j’ai eu il y a quatre, cinq jours, la truffe brossée de mes élocutions ici, je parle de celles de cette année.
 
 <!-- id: s20-13-0003 -->
 
@@ -42,7 +42,7 @@ C’est là la clé, le point tournant, et c’est à quoi je voudrais aujourd�
 
 <!-- id: s20-13-0010 -->
 
-> *Discours scientifique* (**H**) *Discours anaalytique* (**A**)
+*Discours scientifique* (**H**) *Discours anaalytique* (**A**)
 
 <!-- id: s20-13-0011 -->
 
@@ -54,7 +54,7 @@ Je vais droit à ce dont il s’agit.
 
 <!-- id: s20-13-0013 -->
 
-> tel qu’il s’est révélé par le *discours analytique* \[S<sub>1</sub>◊ S<sub>2</sub>\] ...et qui s’énonce à peu près ainsi, c’est que pour l’être parlant *le savoir c’est ce qui s’articule*. \[*dans le langage (grammaire), dans la logique (mathème)*\]
+tel qu’il s’est révélé par le *discours analytique* \[S<sub>1</sub>◊ S<sub>2</sub>\] ...et qui s’énonce à peu près ainsi, c’est que pour l’être parlant *le savoir c’est ce qui s’articule*. \[*dans le langage (grammaire), dans la logique (mathème)*\]
 
 <!-- id: s20-13-0014 -->
 
@@ -62,9 +62,9 @@ De ça on aurait pu s’en apercevoir depuis un bon bout de temps, puisqu’en s
 
 <!-- id: s20-13-0015 -->
 
-> \[*en passant du discours du maître* (M : S<sub>1→</sub> S<sub>2→</sub> *a*<sub> </sub>◊S) *pensée de l’être : Parménide, Platon, Aristote...*
->
-> *au discours de la science* (H : S<sub>→</sub> S<sub>1→</sub>S<sub>2</sub> ◊*a*<sub> </sub>) *: Descartes, Newton... où on articule un savoir sur les êtres » (de la cosmologie à l’astronomie*\] dont il est évident que *rien n’est* sinon dans la mesure où *ça se dit que ça est*.
+\[*en passant du discours du maître* (M : S<sub>1→</sub> S<sub>2→</sub> *a*<sub> </sub>◊S) *pensée de l’être : Parménide, Platon, Aristote...*
+
+*au discours de la science* (H : S<sub>→</sub> S<sub>1→</sub>S<sub>2</sub> ◊*a*<sub> </sub>) *: Descartes, Newton... où on articule un savoir sur les êtres » (de la cosmologie à l’astronomie*\] dont il est évident que *rien n’est* sinon dans la mesure où *ça se dit que ça est*.
 
 <!-- id: s20-13-0016 -->
 
@@ -88,7 +88,7 @@ Seulement il y a une chose qui est claire...
 
 <!-- id: s20-13-0021 -->
 
-> je prends là les choses par le tout petit bout de l’étude scientifique du langage ...le langage c’est l’effort fait pour « rendre compte » de quelque chose qui n’a rien à faire avec la *communication*, et qui est ce que j’appelle *lalangue*. \[*cf. le séminaire sur La lettre volée, l’« Introduction » : la combinatoire générée par les* α, β, γ, δ, *et le « caput mortum »*\]
+je prends là les choses par le tout petit bout de l’étude scientifique du langage ...le langage c’est l’effort fait pour « rendre compte » de quelque chose qui n’a rien à faire avec la *communication*, et qui est ce que j’appelle *lalangue*. \[*cf. le séminaire sur La lettre volée, l’« Introduction » : la combinatoire générée par les* α, β, γ, δ, *et le « caput mortum »*\]
 
 <!-- id: s20-13-0022 -->
 
@@ -108,13 +108,13 @@ Mais comme je l’ai autrefois...
 
 <!-- id: s20-13-0026 -->
 
-> pas spécialement cette année ...comme je l’ai autrefois expressément articulé*, il n’y a rien de moins sûr que lalangue ça serve d’abord et avant tout au dialogue.*
+pas spécialement cette année ...comme je l’ai autrefois expressément articulé*, il n’y a rien de moins sûr que lalangue ça serve d’abord et avant tout au dialogue.*
 
 <!-- id: s20-13-0027 -->
 
-> \[*cf. « L’étourdit » *: *« Une langue entre autres n’est rien de plus que l’intégrale des équivoques que son histoire y a laissé persister.*
->
-> *C’est la veine dont le réel* \[...\] *le réel qu’il n’y a pas de rapport sexuel, y a fait dépôt au cours des âges. *»\]
+\[*cf. « L’étourdit » *: *« Une langue entre autres n’est rien de plus que l’intégrale des équivoques que son histoire y a laissé persister.*
+
+*C’est la veine dont le réel* \[...\] *le réel qu’il n’y a pas de rapport sexuel, y a fait dépôt au cours des âges. *»\]
 
 <!-- id: s20-13-0028 -->
 
@@ -122,9 +122,9 @@ J’ai pu, comme ça, recueillir au passage...
 
 <!-- id: s20-13-0029 -->
 
-> parce qu’il arrive que me viennent sous la main
->
-> des choses dont j’ai entendu parler depuis bien longtemps ...j’ai donc eu sous la main le travail, un livre important d’un nommé Bateson [^95] dont on m’avait rebattu les oreilles, assez pour m’agacer un peu, parce qu’à vrai dire ça venait de quelqu’un qui avait été touché de la grâce d’un certain texte de moi, et qui l’avait traduit, traduit en ajoutant autour quelques commentaires, et qui avait cru, dans le Bateson en question, trouver quelque chose qui allait sensiblement plus loin que ce que j’avais... j’avais cru devoir énoncer concernant l’inconscient : *l’inconscient -* ai-je dit - *structuré comme un langage*.
+parce qu’il arrive que me viennent sous la main
+
+des choses dont j’ai entendu parler depuis bien longtemps ...j’ai donc eu sous la main le travail, un livre important d’un nommé Bateson [^95] dont on m’avait rebattu les oreilles, assez pour m’agacer un peu, parce qu’à vrai dire ça venait de quelqu’un qui avait été touché de la grâce d’un certain texte de moi, et qui l’avait traduit, traduit en ajoutant autour quelques commentaires, et qui avait cru, dans le Bateson en question, trouver quelque chose qui allait sensiblement plus loin que ce que j’avais... j’avais cru devoir énoncer concernant l’inconscient : *l’inconscient -* ai-je dit - *structuré comme un langage*.
 
 <!-- id: s20-13-0030 -->
 
@@ -136,7 +136,7 @@ L’inconscient dont l’auteur...
 
 <!-- id: s20-13-0032 -->
 
-> faute de savoir qu’il est *structuré comme un langage* ...dont l’auteur se démontre comme n’ayant qu’une assez médiocre idée.
+faute de savoir qu’il est *structuré comme un langage* ...dont l’auteur se démontre comme n’ayant qu’une assez médiocre idée.
 
 <!-- id: s20-13-0033 -->
 
@@ -148,7 +148,7 @@ Il en réalise *l’artifice*, bien sûr...
 
 <!-- id: s20-13-0035 -->
 
-> comme il s’est toujours fait dans tout ce qui s’est intitulé *dialogue*, les « *dialogues* *platoniciens* » entre autres ...c’est-à-dire à faire dire par l’interlocuteur supposé, tout ce qui en somme motive la question même du locuteur, c’est à savoir à incarner dans l’autre, la réponse qui est déjà là.
+comme il s’est toujours fait dans tout ce qui s’est intitulé *dialogue*, les « *dialogues* *platoniciens* » entre autres ...c’est-à-dire à faire dire par l’interlocuteur supposé, tout ce qui en somme motive la question même du locuteur, c’est à savoir à incarner dans l’autre, la réponse qui est déjà là.
 
 <!-- id: s20-13-0036 -->
 
@@ -156,7 +156,7 @@ C’est bien en quoi le dialogue, le dialogue classique...
 
 <!-- id: s20-13-0037 -->
 
-> dont les plus beaux sont présentés par le legs platonicien ...c’est bien en quoi le dialogue classique se démontre n’être pas un dialogue.
+dont les plus beaux sont présentés par le legs platonicien ...c’est bien en quoi le dialogue classique se démontre n’être pas un dialogue.
 
 <!-- id: s20-13-0038 -->
 
@@ -172,7 +172,7 @@ C’est bien ainsi que le discours scientifique l’aborde, à ceci près que ce
 
 <!-- id: s20-13-0041 -->
 
-> en tant qu’il échappe pour une grande part à l’être ...qui donne l’occasion de s’apercevoir jusqu’où vont les effets de *lalangue.*
+en tant qu’il échappe pour une grande part à l’être ...qui donne l’occasion de s’apercevoir jusqu’où vont les effets de *lalangue.*
 
 <!-- id: s20-13-0042 -->
 
@@ -196,13 +196,13 @@ Et si l’on peut dire que *l’inconscient est structuré* par... *comme un lan
 
 <!-- id: s20-13-0047 -->
 
-> comme *savoir* qui n’a rien à faire, va bien au-delà
->
-> de tout ce que *l’être* - *l’être* qui parle - est susceptible d’articuler comme tel, ...c’est bien en ça que l’inconscient...
+comme *savoir* qui n’a rien à faire, va bien au-delà
+
+de tout ce que *l’être* - *l’être* qui parle - est susceptible d’articuler comme tel, ...c’est bien en ça que l’inconscient...
 
 <!-- id: s20-13-0048 -->
 
-> en tant qu’ici je le supporte de son déchiffrage \[*i.e.* *l’inconscient-langage,* ≠ *de l’inconscient réel*\] ...que l’inconscient ne peut que se structurer *comme un langage,* comme un langage toujours hypothétique au regard de ce qui le soutient, à savoir *lalangue*, à savoir ceci même qui fait que tout à l’heure j’ai pu de mon S<sub>2</sub> faire une question et demander : « *est-ce bien d’eux* *en effet qu’il s’agit dans le langage ?* », autrement dit le langage est-il seulement communication ?
+en tant qu’ici je le supporte de son déchiffrage \[*i.e.* *l’inconscient-langage,* ≠ *de l’inconscient réel*\] ...que l’inconscient ne peut que se structurer *comme un langage,* comme un langage toujours hypothétique au regard de ce qui le soutient, à savoir *lalangue*, à savoir ceci même qui fait que tout à l’heure j’ai pu de mon S<sub>2</sub> faire une question et demander : « *est-ce bien d’eux* *en effet qu’il s’agit dans le langage ?* », autrement dit le langage est-il seulement communication ?
 
 <!-- id: s20-13-0049 -->
 
@@ -210,7 +210,7 @@ La méconnaissance de ce fait qui a surgi de par *le discours analytique,* a pr�
 
 <!-- id: s20-13-0050 -->
 
-> a prêté à ce dont je vais faire aujourd’hui le pivot de ma question sur le savoir ...a prêté à ceci : que dans les bas-fonds de la science il ait surgi cette grimace qui consiste à interroger : *« comment l’être peut savoir quoi que ce soit ? »*.
+a prêté à ce dont je vais faire aujourd’hui le pivot de ma question sur le savoir ...a prêté à ceci : que dans les bas-fonds de la science il ait surgi cette grimace qui consiste à interroger : *« comment l’être peut savoir quoi que ce soit ? »*.
 
 <!-- id: s20-13-0051 -->
 
@@ -250,7 +250,7 @@ Quelle capacité il a pour apprendre - apprendre à... quoi ? - à ce qui l’i
 
 <!-- id: s20-13-0060 -->
 
-> supposition qui n’est pas absolument infondée ...ce doit être, puisqu’on le prend, ce rat, non pas comme « *être »*, mais bel et bien comme corps, ce qui suppose qu’on le voit comme *unité*, comme *unité ratière*.
+supposition qui n’est pas absolument infondée ...ce doit être, puisqu’on le prend, ce rat, non pas comme « *être »*, mais bel et bien comme corps, ce qui suppose qu’on le voit comme *unité*, comme *unité ratière*.
 
 <!-- id: s20-13-0061 -->
 
@@ -278,17 +278,21 @@ Est-ce qu’un rat, non plus considéré dans son *être* mais dans son *unité*
 
 <!-- id: s20-13-0067 -->
 
-> car tout va aboutir au pressage du bouton ...c’est la même chose *s’il s’agit de la reconnaissance de quelque trait* auquel on concevra qu’alors *l’être* est susceptible de réagir...
+car tout va aboutir au pressage du bouton ...c’est la même chose *s’il s’agit de la reconnaissance de quelque trait* auquel on concevra qu’alors *l’être* est susceptible de réagir...
 
 <!-- id: s20-13-0068 -->
 
-> qu’il s’agisse d’un trait lumineux ou d’un trait de couleur ...et l’on constatera qu’après une série d’essais et erreurs...
+qu’il s’agisse d’un trait lumineux ou d’un trait de couleur ...et l’on constatera qu’après une série d’essais et erreurs...
 
 <!-- id: s20-13-0069 -->
 
-> *« trials and errors »,* comme vous savez, ça s’appelle : on a laissé la chose en anglais,
->
-> vu ceux qui se sont trouvés frayer cette voie concernant le *savoir...*on va voir si le taux des « *trials and errors »*, combien de temps ce taux va se mettre à diminuer assez pour que s’enregistre que l’unité ratière est capable d’apprendre quelque chose.
+<div class="text-quotation">
+
+*« trials and errors »,* comme vous savez, ça s’appelle : on a laissé la chose en anglais,
+
+vu ceux qui se sont trouvés frayer cette voie concernant le *savoir...*on va voir si le taux des « *trials and errors »*, combien de temps ce taux va se mettre à diminuer assez pour que s’enregistre que l’unité ratière est capable d’apprendre quelque chose.
+
+</div>
 
 <!-- id: s20-13-0070 -->
 
@@ -300,7 +304,7 @@ C’est là que gît le vrai ressort de l’expérience : est-ce qu’un rat...
 
 <!-- id: s20-13-0072 -->
 
-> une fois qu’il a subi, ou que cesse cette épreuve ...mis en présence d’une épreuve du même ordre - nous verrons tout à l’heure ce qu’est cet ordre – *est-ce qu’il va apprendre plus vite ?*
+une fois qu’il a subi, ou que cesse cette épreuve ...mis en présence d’une épreuve du même ordre - nous verrons tout à l’heure ce qu’est cet ordre – *est-ce qu’il va apprendre plus vite ?*
 
 <!-- id: s20-13-0073 -->
 
@@ -324,7 +328,7 @@ S’il n’était pas quelqu’un pour qui le rapport au savoir est fondé sur u
 
 <!-- id: s20-13-0078 -->
 
-> je l’ai dit, pourquoi ne pas le répéter ...d’habitation ou de cohabitation avec *lalangue*, il est clair qu’il n’y aurait pas ce montage, et que tout ce que *l’unité ratière* apprend en cette occasion c’est à donner *un signe*, *un signe* de sa présence d’unité.
+je l’ai dit, pourquoi ne pas le répéter ...d’habitation ou de cohabitation avec *lalangue*, il est clair qu’il n’y aurait pas ce montage, et que tout ce que *l’unité ratière* apprend en cette occasion c’est à donner *un signe*, *un signe* de sa présence d’unité.
 
 <!-- id: s20-13-0079 -->
 
@@ -332,7 +336,7 @@ Que ce soit le bouton ou autre chose, l’appui de la patte sur ce *signe*, que 
 
 <!-- id: s20-13-0080 -->
 
-> que le clapet soit reconnu, reconnu il ne l’est que par un *signe*, ...c’est toujours en faisant *signe* que *l’unité* \[*ratière ici*\] accède à ce dont on conclut qu’il y a *apprentissage*.
+que le clapet soit reconnu, reconnu il ne l’est que par un *signe*, ...c’est toujours en faisant *signe* que *l’unité* \[*ratière ici*\] accède à ce dont on conclut qu’il y a *apprentissage*.
 
 <!-- id: s20-13-0081 -->
 
@@ -372,7 +376,7 @@ Si cette année j’ai rappelé où il a pu surgir \[*le discours scientifique*\
 
 <!-- id: s20-13-0090 -->
 
-> *fingere*, *fingo*, dit Newton... *non fingo*, croit-il pouvoir dire : *hypotheses non fingo* : « *je ne suppose rien* » ...et ce n’est pas par hasard que cette année j’ai spécifié que *c’est bien sur une hypothèse*, *au contraire*, *que tout tourne* : que la fameuse « *révolution* » - qui n’est point du tout copernicienne mais newtonienne - a joué.
+*fingere*, *fingo*, dit Newton... *non fingo*, croit-il pouvoir dire : *hypotheses non fingo* : « *je ne suppose rien* » ...et ce n’est pas par hasard que cette année j’ai spécifié que *c’est bien sur une hypothèse*, *au contraire*, *que tout tourne* : que la fameuse « *révolution* » - qui n’est point du tout copernicienne mais newtonienne - a joué.
 
 <!-- id: s20-13-0091 -->
 
@@ -388,7 +392,7 @@ Mais pour le constater...
 
 <!-- id: s20-13-0094 -->
 
-> ce qui une fois constaté permet d’éliminer *l’hypothèse* ...il a bien fallu qu’il la fasse cette *hypothèse*. \[*dans le rapport* S<sub>1 →</sub> S<sub>2</sub> *toute production de savoir* (S<sub>2</sub>) *place* S<sub>1</sub> *en hypothèse, en supposé :* S<sub>1 ←</sub> S<sub>2</sub> *en sub-jectum, sujet sub-posé,* ὑποχείμενον \[upokeimenon\] <sub>→</sub> *toute « connaissance » produit un sujet supposé, d’où la question : dans l’inconscient pas de connaissance, mais un savoir sans sujet ?*\]
+ce qui une fois constaté permet d’éliminer *l’hypothèse* ...il a bien fallu qu’il la fasse cette *hypothèse*. \[*dans le rapport* S<sub>1 →</sub> S<sub>2</sub> *toute production de savoir* (S<sub>2</sub>) *place* S<sub>1</sub> *en hypothèse, en supposé :* S<sub>1 ←</sub> S<sub>2</sub> *en sub-jectum, sujet sub-posé,* ὑποχείμενον \[upokeimenon\] <sub>→</sub> *toute « connaissance » produit un sujet supposé, d’où la question : dans l’inconscient pas de connaissance, mais un savoir sans sujet ?*\]
 
 <!-- id: s20-13-0095 -->
 
@@ -496,7 +500,7 @@ Est-ce, ou n’est-ce pas, *le savoir de l’Un* ?
 
 <!-- id: s20-13-0121 -->
 
-> pour le peu que nous en puissions dire ...*le savoir de l’Un* vient du signifiant 1 \[**S**<sub>1</sub>\].
+pour le peu que nous en puissions dire ...*le savoir de l’Un* vient du signifiant 1 \[**S**<sub>1</sub>\].
 
 <!-- id: s20-13-0122 -->
 
@@ -512,15 +516,15 @@ Ce que veut dire *y’a d’l’Un*  est ceci, que permet de repérer l’artic
 
 <!-- id: s20-13-0125 -->
 
-> et il s’agit de savoir si c’est « *quel qu’il soit* » ...*se lève un* S<sub>1</sub>*, un essaim* de signifiants, un essaim bourdonnant lié à ceci que ce 1 de chaque signifiant...
+et il s’agit de savoir si c’est « *quel qu’il soit* » ...*se lève un* S<sub>1</sub>*, un essaim* de signifiants, un essaim bourdonnant lié à ceci que ce 1 de chaque signifiant...
 
 <!-- id: s20-13-0126 -->
 
-> avec la question de « *est-ce d’eux que je parle ?* » \[S<sub>1→</sub> S<sub>2 :</sub> *cet essaim est-ce d’eux ?*\] ...ce S<sub>1</sub> que je peux écrire d’abord de sa relation avec S<sub>2</sub>, eh bien c’est ça qui est l’*essaim*.
+avec la question de « *est-ce d’eux que je parle ?* » \[S<sub>1→</sub> S<sub>2 :</sub> *cet essaim est-ce d’eux ?*\] ...ce S<sub>1</sub> que je peux écrire d’abord de sa relation avec S<sub>2</sub>, eh bien c’est ça qui est l’*essaim*.
 
 <!-- id: s20-13-0127 -->
 
-> (S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> → S<sub>2</sub>) ) ) )
+(S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> (S<sub>1</sub> → S<sub>2</sub>) ) ) )
 
 <!-- id: s20-13-0128 -->
 
@@ -540,7 +544,7 @@ Vous pouvez en mettre ici autant que vous voudrez, c’est *l’essaim* dont je 
 
 <!-- id: s20-13-0132 -->
 
-> <img src="assets/image79.png" style="width:3.13158in;height:1.83548in" />
+<img src="assets/image79.png" style="width:3.13158in;height:1.83548in" />
 
 <!-- id: s20-13-0133 -->
 
@@ -576,7 +580,7 @@ Je n’irai pas plus loin aujourd’hui puisque nous avons...
 
 <!-- id: s20-13-0141 -->
 
-> grâce à une question en somme extérieure : question de notre abri ici ...puisque nous avons été privés d’un de ces séminaires c’est quelque chose que je reprendrai dans la suite, *éventuellement*.
+grâce à une question en somme extérieure : question de notre abri ici ...puisque nous avons été privés d’un de ces séminaires c’est quelque chose que je reprendrai dans la suite, *éventuellement*.
 
 <!-- id: s20-13-0142 -->
 
@@ -612,11 +616,11 @@ S’il est vrai qu’*il n’y a pas de rapport sexuel* parce que simplement *la
 
 <!-- id: s20-13-0150 -->
 
-> – « *perverse* » d’un côté, *en tant que l’Autre se réduit à l’objet(a)* \[*le fantasme* : S ◊ *a, dans les formules « ♂» de la sexuation* : : §\],
->
-> – je dirai « *folle* » de l’autre \[*côté*\], pour autant que ce dont il s’agit
->
-> c’est la façon *énigmatique* dont se pose cette *jouissance de l’Autre* comme telle.
+– « *perverse* » d’un côté, *en tant que l’Autre se réduit à l’objet(a)* \[*le fantasme* : S ◊ *a, dans les formules « ♂» de la sexuation* : : §\],
+
+– je dirai « *folle* » de l’autre \[*côté*\], pour autant que ce dont il s’agit
+
+c’est la façon *énigmatique* dont se pose cette *jouissance de l’Autre* comme telle.
 
 <!-- id: s20-13-0151 -->
 
@@ -624,11 +628,11 @@ Est-ce que ce n’est pas de l’affrontement à cette *impasse*, à cette *impo
 
 <!-- id: s20-13-0152 -->
 
-> par une sorte de *poésie* pour me faire entendre ...ce que j’ai appelé « *le courage au regard de ce destin fatal »*.
+par une sorte de *poésie* pour me faire entendre ...ce que j’ai appelé « *le courage au regard de ce destin fatal »*.
 
 <!-- id: s20-13-0153 -->
 
-> \[*courage de soutenir la fonction phallique par l’exception* :§ *alors même qu’« il n’y a pas de rapport sexuel » et donc « ce qui ne cesse pas de ne pas s’écrire » <sub>→</sub> ce qui par l’amour*  *« cesse de ne pas de s’écrire »* *(contingence de* Φ*)*\]
+\[*courage de soutenir la fonction phallique par l’exception* :§ *alors même qu’« il n’y a pas de rapport sexuel » et donc « ce qui ne cesse pas de ne pas s’écrire » <sub>→</sub> ce qui par l’amour*  *« cesse de ne pas de s’écrire »* *(contingence de* Φ*)*\]
 
 <!-- id: s20-13-0154 -->
 
@@ -636,7 +640,7 @@ Est-ce bien de *courage* qu’il s’agit ou des chemins d’une reconnaissance,
 
 <!-- id: s20-13-0155 -->
 
-> à savoir du sujet en tant qu’il n’est que l’effet du savoir inconscient ...que la façon dont ce rapport de sujet à sujet *<u>cesse de ne pas s’écrire</u>*.
+à savoir du sujet en tant qu’il n’est que l’effet du savoir inconscient ...que la façon dont ce rapport de sujet à sujet *<u>cesse de ne pas s’écrire</u>*.
 
 <!-- id: s20-13-0156 -->
 
@@ -660,7 +664,7 @@ Si le rapport sexuel répond à ceci dont je dis qu’il - non seulement - *il n
 
 <!-- id: s20-13-0161 -->
 
-> c’est bien de cela et de lui dans l’occasion qu’il s’agit *...qu’il ne cesse pas de ne pas s’écrire*, qu’il y a là *impossibilité*, c’est aussi bien que quelque chose ne peut non plus le *dire*, c’est à savoir qu’il n’y a pas d’existence dans le *dire,* de ce rapport.
+c’est bien de cela et de lui dans l’occasion qu’il s’agit *...qu’il ne cesse pas de ne pas s’écrire*, qu’il y a là *impossibilité*, c’est aussi bien que quelque chose ne peut non plus le *dire*, c’est à savoir qu’il n’y a pas d’existence dans le *dire,* de ce rapport.
 
 <!-- id: s20-13-0162 -->
 
@@ -684,19 +688,19 @@ Mais l’appréhension de *la contingence,* telle que je l’ai déjà incarnée
 
 <!-- id: s20-13-0167 -->
 
-> *la rencontre,* il faut bien le dire, *de symptômes, d’affects,* \[*rencontre heureuse* (εὐτυχία) *ou malheureuse*\] *...de ce qui, chez chaque individu, marque la trace de son exil*,
+*la rencontre,* il faut bien le dire, *de symptômes, d’affects,* \[*rencontre heureuse* (εὐτυχία) *ou malheureuse*\] *...de ce qui, chez chaque individu, marque la trace de son exil*,
 
 <!-- id: s20-13-0168 -->
 
-> non comme sujet mais comme parlant, de *son exil de ce rapport*, est-ce que ce n’est pas dire que c’est seulement par l’affect qui résulte de cette béance, que *quelque chose...*
+non comme sujet mais comme parlant, de *son exil de ce rapport*, est-ce que ce n’est pas dire que c’est seulement par l’affect qui résulte de cette béance, que *quelque chose...*
 
 <!-- id: s20-13-0169 -->
 
-> dans tout cas où se produit l’amour ...que *quelque chose*...
+dans tout cas où se produit l’amour ...que *quelque chose*...
 
 <!-- id: s20-13-0170 -->
 
-> qui peut varier infiniment quant au niveau de ce savoir, ...que *quelque chose* se rencontre qui, pour un instant, peut donner l’illusion de « *cesser de ne pas s’écrire »*.
+qui peut varier infiniment quant au niveau de ce savoir, ...que *quelque chose* se rencontre qui, pour un instant, peut donner l’illusion de « *cesser de ne pas s’écrire »*.
 
 <!-- id: s20-13-0171 -->
 
@@ -704,11 +708,11 @@ Mais l’appréhension de *la contingence,* telle que je l’ai déjà incarnée
 
 <!-- id: s20-13-0172 -->
 
-> un temps de suspension, ...ce *quelque chose...* qui serait le rapport, ...ce *quelque chose* *trouve...*
+un temps de suspension, ...ce *quelque chose...* qui serait le rapport, ...ce *quelque chose* *trouve...*
 
 <!-- id: s20-13-0173 -->
 
-> chez l’être qui parle ...ce *quelque chose trouve sa trace et sa voie de mirage*.
+chez l’être qui parle ...ce *quelque chose trouve sa trace et sa voie de mirage*.
 
 <!-- id: s20-13-0174 -->
 
@@ -720,15 +724,15 @@ Assurément ceci : que le déplacement de cette négation, à savoir le passage
 
 <!-- id: s20-13-0176 -->
 
-> à ce que tout à l’heure j’ai manqué si bien d’un [*lap*<span id="Lapsus" class="anchor"></span>*sus*](#Retour_Lapsus), lui-même bien significatif ...à savoir le passage de la négation, au « *ne cesse pas de s’écrire »*, à *la nécessité* substituée à cette *contingence* \[« *cesse de ne pas s’écrire* »\], c’est bien là le point de suspension à quoi s’attache tout *amour *: tout *amour* de ne subsister que de « *cesser de ne pas s’écrire* », tend à faire passer cette négation au « *ne cesse pas, ne cesse pas, ne cessera pas de s’écrire* » \[*nécessaire* \].
+à ce que tout à l’heure j’ai manqué si bien d’un [*lap*<span id="Lapsus" class="anchor"></span>*sus*](#Retour_Lapsus), lui-même bien significatif ...à savoir le passage de la négation, au « *ne cesse pas de s’écrire »*, à *la nécessité* substituée à cette *contingence* \[« *cesse de ne pas s’écrire* »\], c’est bien là le point de suspension à quoi s’attache tout *amour *: tout *amour* de ne subsister que de « *cesser de ne pas s’écrire* », tend à faire passer cette négation au « *ne cesse pas, ne cesse pas, ne cessera pas de s’écrire* » \[*nécessaire* \].
 
 <!-- id: s20-13-0177 -->
 
-> \[le *« ne cesse pas de ne pas s’écrire » (l’impossible du réel*)
->
-> *<sub>→</sub> « cesse de ne pas s’écrire » (le contingent de la rencontre)*
->
-> <sub>→</sub> *« ne cesse pas de s’écrire* » *(le nécessaire de l’amour)*\]
+\[le *« ne cesse pas de ne pas s’écrire » (l’impossible du réel*)
+
+*<sub>→</sub> « cesse de ne pas s’écrire » (le contingent de la rencontre)*
+
+<sub>→</sub> *« ne cesse pas de s’écrire* » *(le nécessaire de l’amour)*\]
 
 <!-- id: s20-13-0178 -->
 
@@ -744,7 +748,7 @@ Je ne pousserai pas les choses plus loin sauf à indiquer que *ce que j’ai dit
 
 <!-- id: s20-13-0181 -->
 
-> on ne sait trop pourquoi ...nous ménage, nous arrange, une tradition dont il est très curieux de constater la *convergence *:
+on ne sait trop pourquoi ...nous ménage, nous arrange, une tradition dont il est très curieux de constater la *convergence *:
 
 <!-- id: s20-13-0182 -->
 

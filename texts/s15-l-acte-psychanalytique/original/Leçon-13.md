@@ -18,7 +18,7 @@ Il est étrange que dans certains parmi les messages qui me sont envoyés…
 
 <!-- id: s15-13-0004 -->
 
-> et dont, puisque je l’ai demandé, je remercie ceux qui ont bien voulu en faire la démarche …il est étrange que pointe parfois ceci : que je ferais ici quelque chose qui serait proche de quelque réflexion philosophique. Peut-être, tout de même, certaine séance comme celle de la dernière fois, bien sûr, si elle n’a pas manqué d’avoir prise sur ceux d’entre vous qui suivent le mieux mon discours, vous avertit pourtant assez qu’il s’agit d’autre chose.
+et dont, puisque je l’ai demandé, je remercie ceux qui ont bien voulu en faire la démarche …il est étrange que pointe parfois ceci : que je ferais ici quelque chose qui serait proche de quelque réflexion philosophique. Peut-être, tout de même, certaine séance comme celle de la dernière fois, bien sûr, si elle n’a pas manqué d’avoir prise sur ceux d’entre vous qui suivent le mieux mon discours, vous avertit pourtant assez qu’il s’agit d’autre chose.
 
 <!-- id: s15-13-0005 -->
 
@@ -26,7 +26,7 @@ L’expérience…
 
 <!-- id: s15-13-0006 -->
 
-> une expérience, c’est toujours quelque chose dont on a récemment des échos …prouve que l’état d’âme qui est produit dans certain ordre d’études dites philosophiques, s’accommode mal de toute articulation précise qui soit celle de cette science qu’on appelle *la logique*.
+une expérience, c’est toujours quelque chose dont on a récemment des échos …prouve que l’état d’âme qui est produit dans certain ordre d’études dites philosophiques, s’accommode mal de toute articulation précise qui soit celle de cette science qu’on appelle *la logique*.
 
 <!-- id: s15-13-0007 -->
 
@@ -34,9 +34,9 @@ J’en ai même, dans cet écho, épinglé et retenu cette appréciation humoris
 
 <!-- id: s15-13-0008 -->
 
-> c’est-à-dire quelque chose à quoi on est une bonne fois à suffisante distance
->
-> pour l’isoler dans le réel comme constituant une espèce spéciale …mais de s’occuper proprement de ce qui est constitué comme *effet du langage*.
+c’est-à-dire quelque chose à quoi on est une bonne fois à suffisante distance
+
+pour l’isoler dans le réel comme constituant une espèce spéciale …mais de s’occuper proprement de ce qui est constitué comme *effet du langage*.
 
 <!-- id: s15-13-0009 -->
 
@@ -60,7 +60,7 @@ Il m’est arrivé incidemment dans un article, celui que l’on trouve dans mes
 
 <!-- id: s15-13-0014 -->
 
-> *puisque justement il s’agissait de montrer comment peuvent se définir, s’instituer ces variantes, ce qui présuppose qu’il y aurait quelque chose de « type », et c’était bien précisément pour corriger une certaine façon d’associer le mot « type » à celui de l’efficience de la psychanalyse que j’écrivais cet article* …donc je disais incidemment :
+*puisque justement il s’agissait de montrer comment peuvent se définir, s’instituer ces variantes, ce qui présuppose qu’il y aurait quelque chose de « type », et c’était bien précisément pour corriger une certaine façon d’associer le mot « type » à celui de l’efficience de la psychanalyse que j’écrivais cet article* …donc je disais incidemment :
 
 <!-- id: s15-13-0015 -->
 
@@ -88,7 +88,7 @@ Voilà qui va trancher dans la question. Si pour quelque raison…
 
 <!-- id: s15-13-0021 -->
 
-> et les raisons sont justement ce qui est ici à ouvrir avec un grand point d’interrogation …le personnage n’est point qualifié pour *se dire* *psychanalyste*, un scepticisme au moins s’engendrera sur le fait de savoir si c’est bien ou non d’une *psychanalyse*, dans l’expérience dont le sujet s’autorise, qu’il s’agit.
+et les raisons sont justement ce qui est ici à ouvrir avec un grand point d’interrogation …le personnage n’est point qualifié pour *se dire* *psychanalyste*, un scepticisme au moins s’engendrera sur le fait de savoir si c’est bien ou non d’une *psychanalyse*, dans l’expérience dont le sujet s’autorise, qu’il s’agit.
 
 <!-- id: s15-13-0022 -->
 
@@ -112,7 +112,7 @@ Je veux dire que rien n’est moins évident que ce qu’on a voulu appeler *L�
 
 <!-- id: s15-13-0027 -->
 
-> il est étrange de le voir repris dans l’annonce de ce qui se produirait *au terme* de l’exercice *de la psychanalyse* …*cette effusion singulière qui s’appellerait l’exercice de quelque bonté.*
+il est étrange de le voir repris dans l’annonce de ce qui se produirait *au terme* de l’exercice *de la psychanalyse* …*cette effusion singulière qui s’appellerait l’exercice de quelque bonté.*
 
 <!-- id: s15-13-0028 -->
 
@@ -180,7 +180,7 @@ Ce n’est point - *dans la psychanalyse* - d’un Γνῶθι σεαυτόν \[
 
 <!-- id: s15-13-0044 -->
 
-> et par conséquent en tant qu’il permet au sujet de se constituer comme tel …cette part exclue qui fait que le sujet, de sa nature :
+et par conséquent en tant qu’il permet au sujet de se constituer comme tel …cette part exclue qui fait que le sujet, de sa nature :
 
 <!-- id: s15-13-0045 -->
 
@@ -196,9 +196,9 @@ Autrement dit, nous nous trouvons au schéma basal des deux formes, nommément *
 
 <!-- id: s15-13-0048 -->
 
-> qui ne sont là qu’*exemple*, *illustration*, *épanouissement*, et ceci dans la mesure
->
-> où *la névrose* est essentiellement faite de la référence *du désir à la demande* …en face du schème logique même qui est celui que je vous ai produit la dernière fois, en vous montrant l’arête de ce qui est la quantification, celle qui lie l’abord élaboré que nous pouvons donner du sujet et du prédicat, ceci qui s’inscrirait sous la forme du signifiant refoulé ![](assets/image36.wmf), en tant qu’il est représentant du sujet auprès d’un autre signifiant S<sub>A</sub>, ce signifiant ayant le coefficient A en tant que c’est celui où le sujet a aussi bien à se *reconnaître* qu’à se *méconnaître*, où il s’inscrit comme fixant le sujet quelque part au champ de l’Autre. La formule est celle ci :
+qui ne sont là qu’*exemple*, *illustration*, *épanouissement*, et ceci dans la mesure
+
+où *la névrose* est essentiellement faite de la référence *du désir à la demande* …en face du schème logique même qui est celui que je vous ai produit la dernière fois, en vous montrant l’arête de ce qui est la quantification, celle qui lie l’abord élaboré que nous pouvons donner du sujet et du prédicat, ceci qui s’inscrirait sous la forme du signifiant refoulé ![](assets/image36.wmf), en tant qu’il est représentant du sujet auprès d’un autre signifiant S<sub>A</sub>, ce signifiant ayant le coefficient A en tant que c’est celui où le sujet a aussi bien à se *reconnaître* qu’à se *méconnaître*, où il s’inscrit comme fixant le sujet quelque part au champ de l’Autre. La formule est celle ci :
 
 <!-- id: s15-13-0049 -->
 
@@ -266,7 +266,7 @@ C’est ce qu’on traduit par « *il est vrai, assurément* ». « *Il est v
 
 <!-- id: s15-13-0065 -->
 
-> qui ne mérite aucunement d’être nommée techniquement logique primaire car le terme est déjà employé au niveau des constructions logiques, elle désigne précisément ce qui ne jouera qu’à combiner les valeurs de vérité, c’est bien pour cela que ce qui pourrait bien s’appeler logique primaire, si le terme n’était pas déjà employé, nous l’appellerons *sublogique*, ce qui ne veut pas dire logique inférieure mais logique en tant que constituant du sujet …ce « *il est vrai* », c’est bien pour nous au niveau où nous allons placer autre chose que cette *position assertorique*, c’est bien en effet ici pour nous que la vérité fait question.
+qui ne mérite aucunement d’être nommée techniquement logique primaire car le terme est déjà employé au niveau des constructions logiques, elle désigne précisément ce qui ne jouera qu’à combiner les valeurs de vérité, c’est bien pour cela que ce qui pourrait bien s’appeler logique primaire, si le terme n’était pas déjà employé, nous l’appellerons *sublogique*, ce qui ne veut pas dire logique inférieure mais logique en tant que constituant du sujet …ce « *il est vrai* », c’est bien pour nous au niveau où nous allons placer autre chose que cette *position assertorique*, c’est bien en effet ici pour nous que la vérité fait question.
 
 <!-- id: s15-13-0066 -->
 
@@ -310,11 +310,11 @@ Toutes les autres combinaisons, y compris que « *le faux détermine le vrai* 
 
 <!-- id: s15-13-0076 -->
 
-> <img src="assets/image45.png" style="width:0.44774in;height:0.22902in" alt="32" /> c’est-à-dire au niveau où la proposition se pose comme assertorique, que viendra se conjoindre l’incidence conditionnelle, ou au contraire ici au niveau de la proposition elle-même.
+<img src="assets/image45.png" style="width:0.44774in;height:0.22902in" alt="32" /> c’est-à-dire au niveau où la proposition se pose comme assertorique, que viendra se conjoindre l’incidence conditionnelle, ou au contraire ici au niveau de la proposition elle-même.
 
 <!-- id: s15-13-0077 -->
 
-> <img src="assets/image46.png" style="width:0.47431in;height:0.20057in" alt="33" />
+<img src="assets/image46.png" style="width:0.47431in;height:0.20057in" alt="33" />
 
 <!-- id: s15-13-0078 -->
 
@@ -326,7 +326,7 @@ Ceci d’ailleurs n’est qu’à vous indiquer en marge, et pour vous montrer �
 
 <!-- id: s15-13-0080 -->
 
-> au point d’avancement suffisant de la logique où nous sommes …donne corps au terme « *tout* » comme étant le principe, la base à partir de laquelle, par la seule opération de négation diversifiée, pourront se formuler toutes les propositions premières qui sont définies, apportées, par ARISTOTE, à savoir que par exemple :
+au point d’avancement suffisant de la logique où nous sommes …donne corps au terme « *tout* » comme étant le principe, la base à partir de laquelle, par la seule opération de négation diversifiée, pourront se formuler toutes les propositions premières qui sont définies, apportées, par ARISTOTE, à savoir que par exemple :
 
 <!-- id: s15-13-0081 -->
 
@@ -394,9 +394,9 @@ Il est clair que le sujet…
 
 <!-- id: s15-13-0097 -->
 
-> si nous arrivons avec le perfectionnement de la logique,
->
-> à le réduire à ce « *pas… qui ne…* » dont je faisais état la dernière fois …que ce sujet pourtant, dans sa prétention si l’on peut dire native, se pose comme étant de sa nature capable d’appréhender quelque chose comme « *tout* », et ce qui fait son statut et aussi son mirage, c’est *qu’il puisse se penser comme sujet de la connaissance*, à savoir comme support éventuel à lui seul de *quelque chose* qui est « *tout* ».
+si nous arrivons avec le perfectionnement de la logique,
+
+à le réduire à ce « *pas… qui ne…* » dont je faisais état la dernière fois …que ce sujet pourtant, dans sa prétention si l’on peut dire native, se pose comme étant de sa nature capable d’appréhender quelque chose comme « *tout* », et ce qui fait son statut et aussi son mirage, c’est *qu’il puisse se penser comme sujet de la connaissance*, à savoir comme support éventuel à lui seul de *quelque chose* qui est « *tout* ».
 
 <!-- id: s15-13-0098 -->
 
@@ -404,13 +404,13 @@ Or c’est là que je veux vous mener, à cette indication, par ce discours que 
 
 <!-- id: s15-13-0099 -->
 
-> comme je le fais toujours, après en avoir très sérieusement pour vous préparé les degrés,
->
-> suivant l’attention de l’assemblée ou mon état propre …je suis bien forcé, comme dans tout discours articulé…
+comme je le fais toujours, après en avoir très sérieusement pour vous préparé les degrés,
+
+suivant l’attention de l’assemblée ou mon état propre …je suis bien forcé, comme dans tout discours articulé…
 
 <!-- id: s15-13-0100 -->
 
-> et plus spécialement quand il s’agit du discours sur le discours, de l’opération logique …de prendre *un chemin de traverse* au moment où il s’impose, c’est à savoir que, à la façon dont je vous ai déjà indiqué que s’institue la première division du sujet dans la fonction répétitive, ce dont il s’agit est essentiellement ceci : c’est que le sujet \[S\] ne s’institue que représenté par un signifiant pour un autre signifiant, S<sub>1→</sub> S<sub>2</sub>, et que c’est entre les deux, au niveau de la répétition primitive, que s’opère cette perte (S<sub>1→</sub> S<sub>2</sub>) <sub>→</sub> (*a*↓), cette fonction de l’objet perdu, autour de quoi précisément tourne la première tentative opératoire du signifiant, celle qui s’institue dans la répétition fondamentale.
+et plus spécialement quand il s’agit du discours sur le discours, de l’opération logique …de prendre *un chemin de traverse* au moment où il s’impose, c’est à savoir que, à la façon dont je vous ai déjà indiqué que s’institue la première division du sujet dans la fonction répétitive, ce dont il s’agit est essentiellement ceci : c’est que le sujet \[S\] ne s’institue que représenté par un signifiant pour un autre signifiant, S<sub>1→</sub> S<sub>2</sub>, et que c’est entre les deux, au niveau de la répétition primitive, que s’opère cette perte (S<sub>1→</sub> S<sub>2</sub>) <sub>→</sub> (*a*↓), cette fonction de l’objet perdu, autour de quoi précisément tourne la première tentative opératoire du signifiant, celle qui s’institue dans la répétition fondamentale.
 
 <!-- id: s15-13-0101 -->
 
@@ -544,7 +544,7 @@ Le placenta semble bien devoir se situer au niveau justement de cet objet plaqu�
 
 <!-- id: s15-13-0133 -->
 
-> nous n’avons pas à considérer si c’est un perfectionnement ou pas …se présente comme cette appartenance au niveau de l’autre qu’est le sein plaqué sur la poitrine, et c’est ce sein autour de quoi tourne ce dont il s’agit au niveau d’une apparition exemplaire de *l’objet(a)*.
+nous n’avons pas à considérer si c’est un perfectionnement ou pas …se présente comme cette appartenance au niveau de l’autre qu’est le sein plaqué sur la poitrine, et c’est ce sein autour de quoi tourne ce dont il s’agit au niveau d’une apparition exemplaire de *l’objet(a)*.
 
 <!-- id: s15-13-0134 -->
 

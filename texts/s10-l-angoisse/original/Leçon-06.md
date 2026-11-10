@@ -31,8 +31,8 @@ après tout la *légitimité* de cette coexistence de deux rapports avec moi,
 
 <!-- id: s10-06-0006 -->
 
-> j’entends aussi bien à celui qui travaille avec moi
-> ...l’accès à la reconnaissance de son propre chemin.
+j’entends aussi bien à celui qui travaille avec moi
+...l’accès à la reconnaissance de son propre chemin.
 
 <!-- id: s10-06-0007 -->
 
@@ -57,9 +57,9 @@ d’une œuvre de Ferenczi en français, à savoir ce livre dont le titre origin
 
 <!-- id: s10-06-0010 -->
 
-> pour ceux qui savent entendre
-> ...dès longtemps pointés, comme pouvant à l’occasion participer du délire, mais qui apportant avec lui cette énorme expérience
-> laisse tout de même en ses détours déposer plus d’un trait pour nous précieux.
+pour ceux qui savent entendre
+...dès longtemps pointés, comme pouvant à l’occasion participer du délire, mais qui apportant avec lui cette énorme expérience
+laisse tout de même en ses détours déposer plus d’un trait pour nous précieux.
 
 <!-- id: s10-06-0011 -->
 
@@ -73,9 +73,13 @@ Au passage - je vous en cite un - qui s’exprime ainsi :
 
 <!-- id: s10-06-0013 -->
 
-> « *Le développement de la sexua­lité génitale, dont nous venons -* dit-il, chez l’homme, c’est en effet ce qu’il vient de faire, l’homme mâle, le mâle -*de schématiser les grandes lignes, subit chez la femme -* ce qu’on a traduit par *- une interruption plutôt inat­tendue* ».
->
-> \[« *Die soeben kursorisch geschilderte Ausbildung der Genital-Sexualität beim Manne erfährt beim Weiblichen Wesen eine meist ziemlich unvermittelte Unterbrechung*. » ([*Versuch einer Genitaltheorie* p. 33](http://www.archive.org/stream/VersuchEinerGenitaltheorie/IPB_15_Ferenczi_1924_Versuch_einer_Genitaltheorie#page/n38/mode/1up))\]
+<div class="text-quotation">
+
+« *Le développement de la sexua­lité génitale, dont nous venons -* dit-il, chez l’homme, c’est en effet ce qu’il vient de faire, l’homme mâle, le mâle -*de schématiser les grandes lignes, subit chez la femme -* ce qu’on a traduit par *- une interruption plutôt inat­tendue* ».
+
+\[« *Die soeben kursorisch geschilderte Ausbildung der Genital-Sexualität beim Manne erfährt beim Weiblichen Wesen eine meist ziemlich unvermittelte Unterbrechung*. » ([*Versuch einer Genitaltheorie* p. 33](http://www.archive.org/stream/VersuchEinerGenitaltheorie/IPB_15_Ferenczi_1924_Versuch_einer_Genitaltheorie#page/n38/mode/1up))\]
+
+</div>
 
 <!-- id: s10-06-0014 -->
 
@@ -90,10 +94,10 @@ C’est bien ce qu’il note, c’est que *unvermittelte...*
 
 <!-- id: s10-06-0016 -->
 
-> c’est-à-dire *latéral* par rapport à ce procès,
->
-> et n’oublions pas qu’il s’agit de trouver la synthèse de « *l’harmonie génitale* »
-> ...donc improprement traduit ici « *plutôt innattendu* » c’est à dire « *en impasse* » plutôt qu’en \[...\], « *en dehors des progrès de la médiation* ».
+c’est-à-dire *latéral* par rapport à ce procès,
+
+et n’oublions pas qu’il s’agit de trouver la synthèse de « *l’harmonie génitale* »
+...donc improprement traduit ici « *plutôt innattendu* » c’est à dire « *en impasse* » plutôt qu’en \[...\], « *en dehors des progrès de la médiation* ».
 
 <!-- id: s10-06-0017 -->
 
@@ -104,9 +108,13 @@ C’est bien ce qu’il note, c’est que *unvermittelte...*
 
 <!-- id: s10-06-0018 -->
 
-> \[« *Sie ist vor Allem gekennzeichnet durch die Verlegung der Erogeneität von der Klitoris (dem weiblichen Penis) auf den Hohlraum der Vagina. Psychoanalytische Erfahrungen drängen uns aber die Annahme auf, dass bei der Frau nicht nur die Vagina, sondern auch andere Körperteile nach Art der Hysterie genitalisiert warden,*
->
-> *so vor allem die Brustwarze und ihre Umgebung.* » ([*Versuch einer Genitaltheorie* p. 34](http://www.archive.org/stream/VersuchEinerGenitaltheorie/IPB_15_Ferenczi_1924_Versuch_einer_Genitaltheorie#page/n38/mode/1up))\]
+<div class="text-quotation">
+
+\[« *Sie ist vor Allem gekennzeichnet durch die Verlegung der Erogeneität von der Klitoris (dem weiblichen Penis) auf den Hohlraum der Vagina. Psychoanalytische Erfahrungen drängen uns aber die Annahme auf, dass bei der Frau nicht nur die Vagina, sondern auch andere Körperteile nach Art der Hysterie genitalisiert warden,*
+
+*so vor allem die Brustwarze und ihre Umgebung.* » ([*Versuch einer Genitaltheorie* p. 34](http://www.archive.org/stream/VersuchEinerGenitaltheorie/IPB_15_Ferenczi_1924_Versuch_einer_Genitaltheorie#page/n38/mode/1up))\]
+
+</div>
 
 <!-- id: s10-06-0019 -->
 
@@ -115,9 +123,9 @@ D’ailleurs aussi bien, la traduction ici...
 
 <!-- id: s10-06-0020 -->
 
-> faute de suivre effectivement *le cru, le précieux* de ce qui ici nous est apporté comme *matériel*,
-> ...la traduction « *épelure* » en quelque sorte, *baveuse* : il y a simplement, non pas « *en témoigne également* »,
-> mais « *nach Art der Hysterie* » en allemand.
+faute de suivre effectivement *le cru, le précieux* de ce qui ici nous est apporté comme *matériel*,
+...la traduction « *épelure* » en quelque sorte, *baveuse* : il y a simplement, non pas « *en témoigne également* »,
+mais « *nach Art der Hysterie* » en allemand.
 
 <!-- id: s10-06-0021 -->
 
@@ -136,15 +144,15 @@ puisque naturellement placé justement en un organe que vous savez de la façon 
 
 <!-- id: s10-06-0023 -->
 
-> par l’expérience comme par l’investigation anatamo-physio­logique
-> ...comme insensible, au sens qu’il ne saurait même s’éveiller à la sen­sibilité pour la raison qu’il est « *é-nervé* »,
-> que le lieu, le lieu dernier de la jouis­sance, de la jouissance génitale, est un endroit... après tout, ce n’est pas un mystère :
-> on peut y déverser des déluges d’eau brûlante...
+par l’expérience comme par l’investigation anatamo-physio­logique
+...comme insensible, au sens qu’il ne saurait même s’éveiller à la sen­sibilité pour la raison qu’il est « *é-nervé* »,
+que le lieu, le lieu dernier de la jouis­sance, de la jouissance génitale, est un endroit... après tout, ce n’est pas un mystère :
+on peut y déverser des déluges d’eau brûlante...
 
 <!-- id: s10-06-0024 -->
 
-> et à une tem­pérature telle qu’elle ne saurait être supportée par aucune autre muqueuse
-> ...sans provoquer des réactions sensorielles actuelles, immédiates.
+et à une tem­pérature telle qu’elle ne saurait être supportée par aucune autre muqueuse
+...sans provoquer des réactions sensorielles actuelles, immédiates.
 
 <!-- id: s10-06-0025 -->
 
@@ -165,14 +173,14 @@ Non pas, bien sûr, que quelque chose ne soit pas indicable au-delà, et c’est
 
 <!-- id: s10-06-0028 -->
 
-> ceux qui ont assisté à notre Congrès d’Amsterdam[^36] : ce dont ils peuvent se souvenir
-> ...qu’à l’entrée de ce Congrès j’ai indiqué ce qui, faute d’appareil, faute d’un registre structural
-> dont j’es­saye ici de vous donner les articulations, n’a même pas pu...
+ceux qui ont assisté à notre Congrès d’Amsterdam[^36] : ce dont ils peuvent se souvenir
+...qu’à l’entrée de ce Congrès j’ai indiqué ce qui, faute d’appareil, faute d’un registre structural
+dont j’es­saye ici de vous donner les articulations, n’a même pas pu...
 
 <!-- id: s10-06-0029 -->
 
-> au cours d’un congrès où beaucoup de choses, et méritoires, se sont dites
-> ...être effective­ment articulé et repéré comme tel.
+au cours d’un congrès où beaucoup de choses, et méritoires, se sont dites
+...être effective­ment articulé et repéré comme tel.
 
 <!-- id: s10-06-0030 -->
 
@@ -182,12 +190,12 @@ cette ambiguïté notamment qui fait que, du fait de ces analogies évidentes...
 
 <!-- id: s10-06-0031 -->
 
-> et dont là je vous pointe la pièce maîtresse, la pièce majeure
-> ...avec le mécanisme hys­térique, nous sommes appelés à la mettre dans une échelle diachronique,
-> comme « la névrose la plus avancée » parce que la plus proche de *l’achèvement génital*,
-> qu’il nous faut, dans cette conception diachronique, mettre au terme de la maturation infantile,
-> et dont inversement la clinique nous montre, au contraire, qu’il nous faut bien, dans l’*échelle névrotique*,
-> la consi­dérer au contraire comme la plus primaire :
+et dont là je vous pointe la pièce maîtresse, la pièce majeure
+...avec le mécanisme hys­térique, nous sommes appelés à la mettre dans une échelle diachronique,
+comme « la névrose la plus avancée » parce que la plus proche de *l’achèvement génital*,
+qu’il nous faut, dans cette conception diachronique, mettre au terme de la maturation infantile,
+et dont inversement la clinique nous montre, au contraire, qu’il nous faut bien, dans l’*échelle névrotique*,
+la consi­dérer au contraire comme la plus primaire :
 
 <!-- id: s10-06-0032 -->
 
@@ -203,8 +211,8 @@ La seule chose qui puisse nous permettre de ne pas osciller éternellement...
 
 <!-- id: s10-06-0035 -->
 
-> selon les besoins et les observations que nous rapportons, les points de vue que nous avons à aborder ce jour-là, de la mettre soit ainsi à la fin, soit au début des prétendues « phases » évolutives
-> ...c’est avant tout et d’abord, de la rappor­ter à ce qui prévaut, à savoir la structure, *la structure synchronique du désir*.
+selon les besoins et les observations que nous rapportons, les points de vue que nous avons à aborder ce jour-là, de la mettre soit ainsi à la fin, soit au début des prétendues « phases » évolutives
+...c’est avant tout et d’abord, de la rappor­ter à ce qui prévaut, à savoir la structure, *la structure synchronique du désir*.
 
 <!-- id: s10-06-0036 -->
 
@@ -254,8 +262,8 @@ Ceux qui ont entendu mon intervention aux « *Journées Provinciales »* \[Oct
 
 <!-- id: s10-06-0043 -->
 
-> intervention dont après deux mois et une semai­ne, j’attends toujours qu’on me remette le texte
-> ...peuvent se rappeler de quoi je me suis servi comme métaphore : d’un tableau qui vient se placer dans [*l’enca*<span id="RMagritte1" class="anchor"></span>*drement d’une fenêtre*](#Magritte1).
+intervention dont après deux mois et une semai­ne, j’attends toujours qu’on me remette le texte
+...peuvent se rappeler de quoi je me suis servi comme métaphore : d’un tableau qui vient se placer dans [*l’enca*<span id="RMagritte1" class="anchor"></span>*drement d’une fenêtre*](#Magritte1).
 
 <!-- id: s10-06-0044 -->
 
@@ -264,8 +272,8 @@ Ce n’est pas de cela justement qu’il s’agit, *c’est*...
 
 <!-- id: s10-06-0045 -->
 
-> quel que soit le charme de ce qui est peint sur la toile
-> ...*de ne pas voir ce qui se voit par la fenêtre*.
+quel que soit le charme de ce qui est peint sur la toile
+...*de ne pas voir ce qui se voit par la fenêtre*.
 
 <!-- id: s10-06-0046 -->
 
@@ -296,8 +304,8 @@ Et ce que vous voyez au-delà, vous y reconnaîtrez...
 
 <!-- id: s10-06-0051 -->
 
-> si vous, bien sûr, savez vous en apercevoir
-> ...vous y reconnaîtrez, sous ses formes les plus diverses, *la structure* qui est *telle que ce que vous voyez ici* *dans le miroir de mon schéma.*
+si vous, bien sûr, savez vous en apercevoir
+...vous y reconnaîtrez, sous ses formes les plus diverses, *la structure* qui est *telle que ce que vous voyez ici* *dans le miroir de mon schéma.*
 
 <!-- id: s10-06-0052 -->
 
@@ -317,11 +325,11 @@ Il y a toujours les deux barres d’un support plus ou moins développé, et de 
 
 <!-- id: s10-06-0056 -->
 
-> pour prendre mon premier exemple dans le rapport que Bobon a fait au dernier *Congrès d’Anvers*,
->
-> sur le phénomène de l’expres­sion
-> ...avec au bout de ses branches - quoi ? - ce qui pour un schizophrène
-> remplit le rôle que les loups jouent pour ce cas *border-line* qu’est *L’homme aux loups *: ici *<u>des signifiants</u>*.
+pour prendre mon premier exemple dans le rapport que Bobon a fait au dernier *Congrès d’Anvers*,
+
+sur le phénomène de l’expres­sion
+...avec au bout de ses branches - quoi ? - ce qui pour un schizophrène
+remplit le rôle que les loups jouent pour ce cas *border-line* qu’est *L’homme aux loups *: ici *<u>des signifiants</u>*.
 
 <!-- id: s10-06-0057 -->
 
@@ -348,8 +356,8 @@ Ce que je veux seulement, aujourd’hui, ici accentuer c’est que l’horrible,
 
 <!-- id: s10-06-0062 -->
 
-> tout ce par quoi nous traduisons comme nous pou­vons, en français, *ce magistral « unheimlich »*
-> *...*se présente par des *lucarnes*, que *c’est « encadré » que se situe pour nous le champ de l’angoisse*.
+tout ce par quoi nous traduisons comme nous pou­vons, en français, *ce magistral « unheimlich »*
+*...*se présente par des *lucarnes*, que *c’est « encadré » que se situe pour nous le champ de l’angoisse*.
 
 <!-- id: s10-06-0063 -->
 
@@ -379,10 +387,10 @@ là encore, toutes les langues ne vous donnent pas les mêmes ressources, ce n�
 
 <!-- id: s10-06-0069 -->
 
-> bien sûr, beau­coup de choses peuvent se dire, matériellement parlant
-> ...c’est d’un « *pouvoir* », *dürfen* \[*être autorisé*\] *que traduit mal le* « *permis » ou « pas permis », dürfen* se rapportant à *une dimension plus originelle.*
-> C’est même parce que « *man darf nicht* », que « *ça ne se peut pas* », que : « *man kann*  », qu’on va tout de même pouvoir,
-> et que là agit le forçage, la dimension de détente, qui constitue à proprement parler l’ac­tion dramatique.
+bien sûr, beau­coup de choses peuvent se dire, matériellement parlant
+...c’est d’un « *pouvoir* », *dürfen* \[*être autorisé*\] *que traduit mal le* « *permis » ou « pas permis », dürfen* se rapportant à *une dimension plus originelle.*
+C’est même parce que « *man darf nicht* », que « *ça ne se peut pas* », que : « *man kann*  », qu’on va tout de même pouvoir,
+et que là agit le forçage, la dimension de détente, qui constitue à proprement parler l’ac­tion dramatique.
 
 <!-- id: s10-06-0070 -->
 
@@ -437,13 +445,13 @@ Par la grille de *la coupure*, du *sillon*, du *trait unaire*, du « *c’est �
 
 <!-- id: s10-06-0080 -->
 
-> je dis la lèvre ou les lèvres *de cette coupure*
-> *...qui deviennent <u>lettre close</u>* sur le sujet, pour...
+je dis la lèvre ou les lèvres *de cette coupure*
+*...qui deviennent <u>lettre close</u>* sur le sujet, pour...
 
 <!-- id: s10-06-0081 -->
 
-> comme je vous l’ai expliqué la dernière fois
-> ...le renvoyer sous pli fermé à d’autres « *traces »*. \[*production de sens, de significations, insertion dans la chaîne signifiante*\]
+comme je vous l’ai expliqué la dernière fois
+...le renvoyer sous pli fermé à d’autres « *traces »*. \[*production de sens, de significations, insertion dans la chaîne signifiante*\]
 
 <!-- id: s10-06-0082 -->
 
@@ -457,10 +465,10 @@ L’angoisse c’est cette *coupure* même...
 
 <!-- id: s10-06-0084 -->
 
-> sans laquelle la présence du signi­fiant, son fonctionnement, son entrée, son sillon dans le *réel* est impen­sable
-> ...c’est cette *coupure* qui s’ouvre et qui laisse apparaître ce que main­tenant vous entendrez mieux
-> quand je vous dirai « *l’inattendu* » : *la visite*, *la nouvelle*, ce que si bien exprime le terme de « *pressentiment* » qui n’est pas simplement
-> à entendre comme *sentiment de quelque chose*, mais aussi *le* « *pré* » *du sentiment*, ce qui est *avant* la naissance d’un sentiment.
+sans laquelle la présence du signi­fiant, son fonctionnement, son entrée, son sillon dans le *réel* est impen­sable
+...c’est cette *coupure* qui s’ouvre et qui laisse apparaître ce que main­tenant vous entendrez mieux
+quand je vous dirai « *l’inattendu* » : *la visite*, *la nouvelle*, ce que si bien exprime le terme de « *pressentiment* » qui n’est pas simplement
+à entendre comme *sentiment de quelque chose*, mais aussi *le* « *pré* » *du sentiment*, ce qui est *avant* la naissance d’un sentiment.
 
 <!-- id: s10-06-0085 -->
 
@@ -490,9 +498,9 @@ Ce n’est pas la première fois et ce ne sera pas la dernière que j’aurai ic
 
 <!-- id: s10-06-0091 -->
 
-> après tant de décades et de siècles d’ap­préhension critique,
-> *...la fonction de la causalité*, c’est bien parce qu’elle est ailleurs que là où on la réfute,
-> et que s’il y a une dimension où nous devons chercher la vraie fonction, le vrai poids, le sens du maintien de *la fonction de cause*, c’est dans cette direction de l’ouverture de *l’angoisse*.
+après tant de décades et de siècles d’ap­préhension critique,
+*...la fonction de la causalité*, c’est bien parce qu’elle est ailleurs que là où on la réfute,
+et que s’il y a une dimension où nous devons chercher la vraie fonction, le vrai poids, le sens du maintien de *la fonction de cause*, c’est dans cette direction de l’ouverture de *l’angoisse*.
 
 <!-- id: s10-06-0092 -->
 
@@ -551,8 +559,8 @@ dans ma première introduction de ces termes, et dont je vais maintenant soulign
 
 <!-- id: s10-06-0103 -->
 
-> par un commentaire étymologique dont vous vous souvenez, j’espère, tout au moins ceux qui étaient là
-> ...souligné du sens de « *l’émoi* ». « *L’émoi* », vous ai-je dit, c’est essentiellement l’évocation du pouvoir qui fait défaut : *esmayer*, l’expérience de ce qui vous manque, dans le besoin.
+par un commentaire étymologique dont vous vous souvenez, j’espère, tout au moins ceux qui étaient là
+...souligné du sens de « *l’émoi* ». « *L’émoi* », vous ai-je dit, c’est essentiellement l’évocation du pouvoir qui fait défaut : *esmayer*, l’expérience de ce qui vous manque, dans le besoin.
 
 <!-- id: s10-06-0104 -->
 
@@ -665,8 +673,8 @@ C’est bien pourquoi c’est celle à laquelle nous nous tenons dans l’ensemb
 
 <!-- id: s10-06-0127 -->
 
-> que nous autres, psychologues, appellerons « *irréel »*, ce sera simplement *un phallus signifiant*
-> *...*qu’ils seront vivants.
+que nous autres, psychologues, appellerons « *irréel »*, ce sera simplement *un phallus signifiant*
+*...*qu’ils seront vivants.
 
 <!-- id: s10-06-0128 -->
 
@@ -728,8 +736,8 @@ Son « *souci* », nous dit le philosophe, « *sorge* » dit Heidegger...
 
 <!-- id: s10-06-0140 -->
 
-> bien sûr, et nous voila bien avancés !
-> ...est-ce là un terme dernier : qu’avant de s’agiter, de parler, de se mettre au boulot, *le souci est présupposé* ? *Qu’est-ce que ça veut dire ?*
+bien sûr, et nous voila bien avancés !
+...est-ce là un terme dernier : qu’avant de s’agiter, de parler, de se mettre au boulot, *le souci est présupposé* ? *Qu’est-ce que ça veut dire ?*
 
 <!-- id: s10-06-0141 -->
 
@@ -821,8 +829,8 @@ Mais dire *que la circoncision c’est soit la cause...*
 
 <!-- id: s10-06-0157 -->
 
-> *soit* de quelque façon que ce soit, *le représentant*, l’analogue
-> ...de ce que nous appelons *la castration* et son complexe, c’est là faire une grossière erreur.
+*soit* de quelque façon que ce soit, *le représentant*, l’analogue
+...de ce que nous appelons *la castration* et son complexe, c’est là faire une grossière erreur.
 
 <!-- id: s10-06-0158 -->
 
@@ -889,8 +897,8 @@ L’un de ceux qui sont ici évoqués...
 
 <!-- id: s10-06-0170 -->
 
-> et ce n’est vraiment dans mon assistance ne désigner personne
-> ...m’a appelé un jour, dans un billet privé : « *Le dernier des Kabbalistes chrétiens* ».
+et ce n’est vraiment dans mon assistance ne désigner personne
+...m’a appelé un jour, dans un billet privé : « *Le dernier des Kabbalistes chrétiens* ».
 
 <!-- id: s10-06-0171 -->
 
@@ -918,8 +926,8 @@ c’est que *le désir et la loi*...
 
 <!-- id: s10-06-0175 -->
 
-> *ce qui paraît se poser dans un rapport d’antithèse*
-> ...ne sont qu’une seule et même barrière, pour nous barrer l’accès de *la Chose*.
+*ce qui paraît se poser dans un rapport d’antithèse*
+...ne sont qu’une seule et même barrière, pour nous barrer l’accès de *la Chose*.
 
 <!-- id: s10-06-0176 -->
 
@@ -951,8 +959,8 @@ celui du centenaire de Freud \[1956\], je vous ai dit qu’elle était *voie* [^
 
 <!-- id: s10-06-0181 -->
 
-> à quoi je vous donne *rendez-vous* pour le trimestre qui vient, concernant l’angois­se
-> ...il y a « *l’hallali du loup* ».
+à quoi je vous donne *rendez-vous* pour le trimestre qui vient, concernant l’angois­se
+...il y a « *l’hallali du loup* ».
 
 <!-- id: s10-06-0182 -->
 

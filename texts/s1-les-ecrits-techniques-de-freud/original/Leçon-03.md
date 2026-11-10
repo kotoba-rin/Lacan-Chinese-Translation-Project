@@ -198,7 +198,7 @@ En y réintroduisant la notion de transfert, il me semble que je la réintroduis
 
 <!-- id: s1-03-0049 -->
 
-> à la façon de PROTÉE devant MÉNÉLAS, par des simulations de guérison ou la simulation de l’imbécillité com­plète
+à la façon de PROTÉE devant MÉNÉLAS, par des simulations de guérison ou la simulation de l’imbécillité com­plète
 
 <!-- id: s1-03-0050 -->
 
@@ -442,7 +442,7 @@ Par conséquent, ce n’est pas l’hypnose en tant que telle qui avait favoris�
 
 <!-- id: s1-03-0110 -->
 
-> il suffit d’insister, dit-il, auprès des sujets, et ils finissent toujours par trou­ver les souvenirs en question
+il suffit d’insister, dit-il, auprès des sujets, et ils finissent toujours par trou­ver les souvenirs en question
 
 <!-- id: s1-03-0111 -->
 
@@ -726,7 +726,7 @@ Et si on ne sou­ligne pas la différence qu’il y a entre cela et tout ce qui 
 
 <!-- id: s1-03-0181 -->
 
-> pour ceux qui se sont intéressés non point tant à cette vérité qu’à la constitution des voies d’accès à cette vérité
+pour ceux qui se sont intéressés non point tant à cette vérité qu’à la constitution des voies d’accès à cette vérité
 
 <!-- id: s1-03-0182 -->
 
@@ -842,7 +842,11 @@ Et il va même jusqu’à écrire - ce n’est pas dans les *Studien,* c’est d
 
 <!-- id: s1-03-0210 -->
 
-> « *La force de résistance est inversement proportionnelle à la distance où l’on se trouve du noyau refoulé…* »
+<div class="text-quotation">
+
+« *La force de résistance est inversement proportionnelle à la distance où l’on se trouve du noyau refoulé…* »
+
+</div>
 
 <!-- id: s1-03-0211 -->
 
@@ -930,9 +934,9 @@ Est-ce que la résistance vient uniquement de là ? Ou est-ce que c’est encore
 
 <!-- id: s1-03-0232 -->
 
-> je vous représentais à proprement parler comme à la limite d’un certain domaine de la parole qui est justement
->
-> cette *masse idéationnelle* dont nous parlons, celle du *moi* du sujet
+je vous représentais à proprement parler comme à la limite d’un certain domaine de la parole qui est justement
+
+cette *masse idéationnelle* dont nous parlons, celle du *moi* du sujet
 
 <!-- id: s1-03-0233 -->
 

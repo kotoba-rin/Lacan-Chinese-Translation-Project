@@ -30,7 +30,7 @@ Ce n’est pas là où ils sont grossiers, apparents, voire nettement délirants
 
 <!-- id: s1-17-0007 -->
 
-> BALINT a commencé sa carrière vers 1920, à son propre témoignage
+BALINT a commencé sa carrière vers 1920, à son propre témoignage
 
 <!-- id: s1-17-0008 -->
 
@@ -90,7 +90,7 @@ Comment est-ce que BALINT conçoit la psychanalyse et son métier, et ce qui fai
 
 <!-- id: s1-17-0022 -->
 
-> Là-dessus il reviendra d’ailleurs, pour traiter un certain nombre d’affections men­tales
+Là-dessus il reviendra d’ailleurs, pour traiter un certain nombre d’affections men­tales
 
 <!-- id: s1-17-0023 -->
 
@@ -98,7 +98,7 @@ Comment est-ce que BALINT conçoit la psychanalyse et son métier, et ce qui fai
 
 <!-- id: s1-17-0024 -->
 
-> Il le dit en termes anglais, qui sont vraiment un peu forts, alors qu’il s’agit d’un livre des­tiné à des confrères
+Il le dit en termes anglais, qui sont vraiment un peu forts, alors qu’il s’agit d’un livre des­tiné à des confrères
 
 <!-- id: s1-17-0025 -->
 
@@ -666,9 +666,9 @@ LACAN
 
 <!-- id: s1-17-0166 -->
 
-> même largement élaboré ailleurs et ouvert plus largement à notre connaissance de ce qui en fait la médiation,
->
-> et tout particulièrement sur la véritable fonction du lan­gage
+même largement élaboré ailleurs et ouvert plus largement à notre connaissance de ce qui en fait la médiation,
+
+et tout particulièrement sur la véritable fonction du lan­gage
 
 <!-- id: s1-17-0167 -->
 
@@ -832,11 +832,11 @@ Pour les lecteurs de l’époque…
 
 <!-- id: s1-17-0207 -->
 
-> et ce n’était pas un article spécialement destiné aux analystes, il s’adresse aussi en partie à ceux qui n’en sont pas, pour faire
->
-> saisir le phénomène du transfert qui, dit-il, entraîne beaucoup de méconnaissance, est moins bien reconnu par l’ensemble
->
-> du monde scientifique à ce moment-là que le phénomène de la résistance
+et ce n’était pas un article spécialement destiné aux analystes, il s’adresse aussi en partie à ceux qui n’en sont pas, pour faire
+
+saisir le phénomène du transfert qui, dit-il, entraîne beaucoup de méconnaissance, est moins bien reconnu par l’ensemble
+
+du monde scientifique à ce moment-là que le phénomène de la résistance
 
 <!-- id: s1-17-0208 -->
 

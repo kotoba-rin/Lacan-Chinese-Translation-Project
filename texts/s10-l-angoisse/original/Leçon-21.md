@@ -360,12 +360,12 @@ Or, pour reprendre ma phrase de tout à l’heure...
 
 <!-- id: s10-21-0069 -->
 
-> que ce n’est pas seulement par hypothèse,
->
-> une hypothèse que j’ai fondée dans notre praxis même, l’identifiant à cette praxis et jusque à ses limites
-> ...pour reprendre cette phrase, je dirai que le fait observable...
-> et pourquoi si mal observé, c’est là la question majeure que l’expérience nous offre
-> ...le fait observable nous montre *le jeu* autonome de la parole tel qu’il est dans ce schéma supposé.
+que ce n’est pas seulement par hypothèse,
+
+une hypothèse que j’ai fondée dans notre praxis même, l’identifiant à cette praxis et jusque à ses limites
+...pour reprendre cette phrase, je dirai que le fait observable...
+et pourquoi si mal observé, c’est là la question majeure que l’expérience nous offre
+...le fait observable nous montre *le jeu* autonome de la parole tel qu’il est dans ce schéma supposé.
 
 <!-- id: s10-21-0070 -->
 

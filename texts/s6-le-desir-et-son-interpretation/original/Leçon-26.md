@@ -58,7 +58,7 @@ Ceci est essentiel et si vous en suivez le fil vous ne pourrez manquer d’être
 
 <!-- id: s6-26-0014 -->
 
-> nous tous, tant que nous sommes, c’est-à-dire en tant que nous sommes *plus ou moins névrosés sur les bords*
+nous tous, tant que nous sommes, c’est-à-dire en tant que nous sommes *plus ou moins névrosés sur les bords*
 
 <!-- id: s6-26-0015 -->
 
@@ -130,7 +130,7 @@ Cette sorte de négatif du personnage principal…
 
 <!-- id: s6-26-0032 -->
 
-> qui est celui dans lequel repose effectivement la relation à l’objet
+qui est celui dans lequel repose effectivement la relation à l’objet
 
 <!-- id: s6-26-0033 -->
 
@@ -170,9 +170,9 @@ Bref, ne voyons-nous pas...
 
 <!-- id: s6-26-0042 -->
 
-> à poser comme ici le situent sur ce *schéma* les lettres qui en indiquent la relation,
->
-> la position du désir essentiel, dans une division du rapport du sujet au discours
+à poser comme ici le situent sur ce *schéma* les lettres qui en indiquent la relation,
+
+la position du désir essentiel, dans une division du rapport du sujet au discours
 
 <!-- id: s6-26-0043 -->
 
@@ -196,7 +196,7 @@ Est-il besoin d’avoir lu le moindre des nombreux écrits qui lui sont consacr�
 
 <!-- id: s6-26-0048 -->
 
-> et dont il en est de plus ou moins bons qui sont encore sortis récemment
+et dont il en est de plus ou moins bons qui sont encore sortis récemment
 
 <!-- id: s6-26-0049 -->
 
@@ -220,7 +220,7 @@ Voici donc en somme une chose où se saisit, où apparaît ce qu’on peut touch
 
 <!-- id: s6-26-0054 -->
 
-> \- ici révélé, épanoui dans le fantasme - le tienne, lui sujet, pour néant,
+\- ici révélé, épanoui dans le fantasme - le tienne, lui sujet, pour néant,
 
 <!-- id: s6-26-0055 -->
 
@@ -252,7 +252,7 @@ Je ne fais ici que vous indiquer une autre forme…
 
 <!-- id: s6-26-0062 -->
 
-> je ne crois pas foncièrement distincte, mais assurément tout autrement *articulée* et *approfondie*
+je ne crois pas foncièrement distincte, mais assurément tout autrement *articulée* et *approfondie*
 
 <!-- id: s6-26-0063 -->
 
@@ -260,9 +260,9 @@ Je ne fais ici que vous indiquer une autre forme…
 
 <!-- id: s6-26-0064 -->
 
-> et il n’y a que ceci en plus de la dimension cartésienne,
->
-> que ce discours est un discours qui lui échappe et qu’il est deux sans le savoir
+et il n’y a que ceci en plus de la dimension cartésienne,
+
+que ce discours est un discours qui lui échappe et qu’il est deux sans le savoir
 
 <!-- id: s6-26-0065 -->
 
@@ -302,7 +302,7 @@ Le désir du névrosé…
 
 <!-- id: s6-26-0074 -->
 
-> si vous me permettez *cette formule un tant soit peu résumative* de quelque chose que j’entends ici vous faire sentir
+si vous me permettez *cette formule un tant soit peu résumative* de quelque chose que j’entends ici vous faire sentir
 
 <!-- id: s6-26-0075 -->
 
@@ -338,7 +338,7 @@ Eh bien là assurément, le travail au long des années des analystes…
 
 <!-- id: s6-26-0083 -->
 
-> pour autant que leurs expériences avec des malades pervers leur ont permis d’articuler ces théories quelquefois contradictoires, mal raccordées les unes aux autres mais suggestives de l’ordre de difficulté auquel ils ont affaire
+pour autant que leurs expériences avec des malades pervers leur ont permis d’articuler ces théories quelquefois contradictoires, mal raccordées les unes aux autres mais suggestives de l’ordre de difficulté auquel ils ont affaire
 
 <!-- id: s6-26-0084 -->
 
@@ -438,9 +438,9 @@ Mais à vrai dire ce que nous trouvons en effet…
 
 <!-- id: s6-26-0108 -->
 
-> et là ceci doit être saisi à tous les niveaux et sous des formes
->
-> extrêmement différentes de la formation de la personnalité des pervers
+et là ceci doit être saisi à tous les niveaux et sous des formes
+
+extrêmement différentes de la formation de la personnalité des pervers
 
 <!-- id: s6-26-0109 -->
 
@@ -452,9 +452,9 @@ C’est quelque chose aussi qui se présente comme une opposition de deux volets
 
 <!-- id: s6-26-0111 -->
 
-> et sans doute nous devons tenir compte de la dimension de cette œuvre,
->
-> car elle ajoute quelque chose à l’équilibre du sujet
+et sans doute nous devons tenir compte de la dimension de cette œuvre,
+
+car elle ajoute quelque chose à l’équilibre du sujet
 
 <!-- id: s6-26-0112 -->
 
@@ -550,7 +550,7 @@ Pour le pervers la conjonction se fait, qui unit en un seul terme…
 
 <!-- id: s6-26-0135 -->
 
-> en introduisant cette légère ouverture que permet une identification à l’autre tout à fait spéciale
+en introduisant cette légère ouverture que permet une identification à l’autre tout à fait spéciale
 
 <!-- id: s6-26-0136 -->
 
@@ -598,7 +598,7 @@ Mais enfin quand même, n’y aurait-il pas aussi intérêt à ce que nous situi
 
 <!-- id: s6-26-0147 -->
 
-> en admettant que toutes sortes de formes périphériques intermédiaires entre la perversion et, par exemple, disons la psychose, la toxicomanie, ou telle ou telle autre forme de notre champ nosographique
+en admettant que toutes sortes de formes périphériques intermédiaires entre la perversion et, par exemple, disons la psychose, la toxicomanie, ou telle ou telle autre forme de notre champ nosographique
 
 <!-- id: s6-26-0148 -->
 
@@ -610,7 +610,7 @@ C’est pour autant que quelque chose existe déjà, qu’une schize est déjà 
 
 <!-- id: s6-26-0150 -->
 
-> entre l’accession du sujet identificatoire, symbolique, *rapport primordial à la mère*, et des premières *Verwerfungen*
+entre l’accession du sujet identificatoire, symbolique, *rapport primordial à la mère*, et des premières *Verwerfungen*
 
 <!-- id: s6-26-0151 -->
 
@@ -666,9 +666,9 @@ Et plus loin encore…
 
 <!-- id: s6-26-0164 -->
 
-> c’est là que je veux en venir, c’est le plus minuscule des indices,
->
-> mais chacun sait que pour nous ce sont ceux-là qui sont les plus importants
+c’est là que je veux en venir, c’est le plus minuscule des indices,
+
+mais chacun sait que pour nous ce sont ceux-là qui sont les plus importants
 
 <!-- id: s6-26-0165 -->
 

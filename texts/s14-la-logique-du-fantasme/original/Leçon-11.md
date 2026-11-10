@@ -66,7 +66,7 @@ Si ceux d’entre vous qui ont vécu ce qui aura ca­ractérisé le milieu de ce
 
 <!-- id: s14-11-0016 -->
 
-> les épreuves que nous avons traversées de manifes­tations étranges dans la civilisation …si ceux-là n’a­vaient pas été endormis, dans ses suites, par une philosophie qui a tout simplement continué son bruit de crécelle, j’aurais maintenant moins de loisir, pour essayer de mar­quer les traits nécessaires à ce que vous ne soyez pas tout à fait paumés, pour la phase de ce siècle qui va sui­vre immédiatement.
+les épreuves que nous avons traversées de manifes­tations étranges dans la civilisation …si ceux-là n’a­vaient pas été endormis, dans ses suites, par une philosophie qui a tout simplement continué son bruit de crécelle, j’aurais maintenant moins de loisir, pour essayer de mar­quer les traits nécessaires à ce que vous ne soyez pas tout à fait paumés, pour la phase de ce siècle qui va sui­vre immédiatement.
 
 <!-- id: s14-11-0017 -->
 
@@ -138,7 +138,7 @@ J<sup>’</sup>ai déjà ici, assez souligné que l’usage du « 1 »*…*
 
 <!-- id: s14-11-0034 -->
 
-> qui est ce « 1 » que je distingue du « *Un* » unifiant, à être l’1 comptable …est de pouvoir fonctionner, à désigner com­me autant de « 1 », *des objets aussi hétéroclites qu’une pen­sée, un voile ou n’importe quel objet* qui soit ici à notre portée, et puisque j’en ai énuméré trois, à compter cela « 3 », c’est-à-dire :
+qui est ce « 1 » que je distingue du « *Un* » unifiant, à être l’1 comptable …est de pouvoir fonctionner, à désigner com­me autant de « 1 », *des objets aussi hétéroclites qu’une pen­sée, un voile ou n’importe quel objet* qui soit ici à notre portée, et puisque j’en ai énuméré trois, à compter cela « 3 », c’est-à-dire :
 
 <!-- id: s14-11-0035 -->
 
@@ -202,7 +202,7 @@ le voilà qui revient sur ce qu’il répète et c’est ce qui, dans l’opéra
 
 <!-- id: s14-11-0050 -->
 
-> pour n’être pas réductible à la série des nom­bres naturels, ni additionnable ni soustrayable, à ce 1 et à ce 2 qui se succèdent …mérite encore ce titre de l’« 1*en trop* », que j’ai désigné comme essentiel à toute déter­mination signifiante et toujours prête d’ailleurs, non seu­lement à apparaître, mais à se faire appréhender, *fuyante*, détectable dans le vécu, dès que *le sujet comptant* (*c.o.m.p.t.a.n.t.*) *a à se compter entre d’autres*.
+pour n’être pas réductible à la série des nom­bres naturels, ni additionnable ni soustrayable, à ce 1 et à ce 2 qui se succèdent …mérite encore ce titre de l’« 1*en trop* », que j’ai désigné comme essentiel à toute déter­mination signifiante et toujours prête d’ailleurs, non seu­lement à apparaître, mais à se faire appréhender, *fuyante*, détectable dans le vécu, dès que *le sujet comptant* (*c.o.m.p.t.a.n.t.*) *a à se compter entre d’autres*.
 
 <!-- id: s14-11-0051 -->
 
@@ -226,7 +226,7 @@ Mais il suffit de voir, de toucher du doigt, la distance, qui en quelque sorte l
 
 <!-- id: s14-11-0056 -->
 
-> qu’on se reporte à cet article qui est dans le dernier nu­méro de *L’Évolution Psychiatrique* [^48] …pour qu’on sente à quel point la régression dont il s’agit ici est de nature à nous suggérer la question de savoir s’il ne s’agit pas de rien d’autre que d’une *régression théorique.*
+qu’on se reporte à cet article qui est dans le dernier nu­méro de *L’Évolution Psychiatrique* [^48] …pour qu’on sente à quel point la régression dont il s’agit ici est de nature à nous suggérer la question de savoir s’il ne s’agit pas de rien d’autre que d’une *régression théorique.*
 
 <!-- id: s14-11-0057 -->
 
@@ -258,11 +258,11 @@ De celle que définit dans le sujet, le fait de dépendre des effets du signifia
 
 <!-- id: s14-11-0064 -->
 
-> je dis : ce lieu de l’Autre, pour autant que l’évoque le besoin d’assurance d’une véri­té …*l’Autre comme tel est*…
+je dis : ce lieu de l’Autre, pour autant que l’évoque le besoin d’assurance d’une véri­té …*l’Autre comme tel est*…
 
 <!-- id: s14-11-0065 -->
 
-> si je puis dire, si vous per­mettez ce mot à mon improvisation *…fracturé*. De la même façon que nous le saisissons *dans le sujet lui-même*. \[Lacan désigne le schéma\] :
+si je puis dire, si vous per­mettez ce mot à mon improvisation *…fracturé*. De la même façon que nous le saisissons *dans le sujet lui-même*. \[Lacan désigne le schéma\] :
 
 <!-- id: s14-11-0066 -->
 
@@ -278,7 +278,7 @@ Le « *salva veritate *» essen­tiel à tout ordre de la pensée *philosophiq
 
 <!-- id: s14-11-0069 -->
 
-> *et pas seulement du fait de la psychanalyse - mani­feste en tous points de cette élaboration qui se fait au niveau de la logique mathématique* …est pour nous un peu plus compliqué. Il exclut en tout cas, tout à fait, toute forme d’« *absoluité intuitive* », l’attribution par exemple, au champ de l’Autre, de la dimension - qualifiée aussi spi­noziennement que vous voudrez - de l’Éternel, par exemple.
+*et pas seulement du fait de la psychanalyse - mani­feste en tous points de cette élaboration qui se fait au niveau de la logique mathématique* …est pour nous un peu plus compliqué. Il exclut en tout cas, tout à fait, toute forme d’« *absoluité intuitive* », l’attribution par exemple, au champ de l’Autre, de la dimension - qualifiée aussi spi­noziennement que vous voudrez - de l’Éternel, par exemple.
 
 <!-- id: s14-11-0070 -->
 
@@ -302,7 +302,7 @@ Disons qu’il s’agit maintenant pour nous, de *rendre compte en termes de not
 
 <!-- id: s14-11-0075 -->
 
-> le « *répondant* » par­fait de ceci : *que la vérité n’est pas trompeuse* …mais bien plus précisément, aux différents niveaux de l’expérience subjective que nous impose la clinique, comment est possi­ble que s’y insèrent - dans cette expérience - des instan­ces qui ne sont pas articulables autrement que comme *de­mande de l’Autre* : c’est la névrose.
+le « *répondant* » par­fait de ceci : *que la vérité n’est pas trompeuse* …mais bien plus précisément, aux différents niveaux de l’expérience subjective que nous impose la clinique, comment est possi­ble que s’y insèrent - dans cette expérience - des instan­ces qui ne sont pas articulables autrement que comme *de­mande de l’Autre* : c’est la névrose.
 
 <!-- id: s14-11-0076 -->
 
@@ -342,7 +342,7 @@ Rien d’autre dans *le sujet* ne se tra­verse réellement soi–même, ne se p
 
 <!-- id: s14-11-0085 -->
 
-> j’essaierai d’en dessiner pour vous, un jour, quelque modèle enfantin …rien d’autre, sinon ce point qui, de la jouissance, fait la « *jouissance de l’autre* ».
+j’essaierai d’en dessiner pour vous, un jour, quelque modèle enfantin …rien d’autre, sinon ce point qui, de la jouissance, fait la « *jouissance de l’autre* ».
 
 <!-- id: s14-11-0086 -->
 
@@ -430,7 +430,7 @@ Ce qui est important, c’est : quelle est la structure des surfaces ainsi inst
 
 <!-- id: s14-11-0107 -->
 
-> et que j’ai déjà in­troduites la dernière fois pour que vous puissiez en pren­dre le dessin …vous représentent ce qui constitue *la sur­face la plus caractéristique pour nous imager la fonction que nous donnons à la double boucle*.
+et que j’ai déjà in­troduites la dernière fois pour que vous puissiez en pren­dre le dessin …vous représentent ce qui constitue *la sur­face la plus caractéristique pour nous imager la fonction que nous donnons à la double boucle*.
 
 <!-- id: s14-11-0108 -->
 
@@ -522,7 +522,7 @@ Nous avons, correspondant au niveau du *schéma tem­porel*, ceci :
 
 <!-- id: s14-11-0130 -->
 
-> <img src="assets/image57.jpeg" style="width:1.66182in;height:1.24009in" alt="41a" />
+<img src="assets/image57.jpeg" style="width:1.66182in;height:1.24009in" alt="41a" />
 
 <!-- id: s14-11-0131 -->
 
@@ -582,7 +582,7 @@ Il n’y a rien-là, qui aille contre l’inspiration de FREUD, si vous vous rap
 
 <!-- id: s14-11-0145 -->
 
-> légitimant par avance les intrusions que je fais de la formule cartésien­ne dans la théorie de l’inconscient …la remarque que *Ich* a deux sens différents dans la même phrase, quand on dit : « *Ich denke was gesundes Kind Ich war.* »
+légitimant par avance les intrusions que je fais de la formule cartésien­ne dans la théorie de l’inconscient …la remarque que *Ich* a deux sens différents dans la même phrase, quand on dit : « *Ich denke was gesundes Kind Ich war.* »
 
 <!-- id: s14-11-0146 -->
 
@@ -630,7 +630,7 @@ Autour de cet acte, qu’il soit imitation ou pas, qu’il soit l’acte même, 
 
 <!-- id: s14-11-0157 -->
 
-> celui dont les historiens de CÉSAR, nous disent bien le sens indiqué par le rêve qui précède le franchissement du Rubicon, qui n’est autre que le sens de *l’inceste* …il s’agit de savoir, à chacun de ces niveaux, quel est l’effet de l’acte.
+celui dont les historiens de CÉSAR, nous disent bien le sens indiqué par le rêve qui précède le franchissement du Rubicon, qui n’est autre que le sens de *l’inceste* …il s’agit de savoir, à chacun de ces niveaux, quel est l’effet de l’acte.
 
 <!-- id: s14-11-0158 -->
 
@@ -658,7 +658,7 @@ Pourquoi cet acte - dans son instance - est-il resté voilé, et ceci dans ceux 
 
 <!-- id: s14-11-0164 -->
 
-> contre ARISTOTE, qui n’avait pas de ceci - et pour cause - la moindre idée …je veux dire : Saint THOMAS ?
+contre ARISTOTE, qui n’avait pas de ceci - et pour cause - la moindre idée …je veux dire : Saint THOMAS ?
 
 <!-- id: s14-11-0165 -->
 

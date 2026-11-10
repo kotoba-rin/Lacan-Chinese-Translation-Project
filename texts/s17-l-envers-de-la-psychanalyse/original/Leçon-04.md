@@ -46,7 +46,7 @@ Il n’en reste pas moins que ce tissu a un relief, et qu’il attrape quelque c
 
 <!-- id: s17-04-0011 -->
 
-> qui n’a d’existence que de langage ...le langage montre la limite précisément : que même au monde du discours, rien n’est « *tout* », comme je dis, ou mieux si vous voulez : que le « *tout* » comme tel se réfute, s’appuie même de devoir être réduit dans son emploi.
+qui n’a d’existence que de langage ...le langage montre la limite précisément : que même au monde du discours, rien n’est « *tout* », comme je dis, ou mieux si vous voulez : que le « *tout* » comme tel se réfute, s’appuie même de devoir être réduit dans son emploi.
 
 <!-- id: s17-04-0012 -->
 
@@ -86,7 +86,7 @@ puisque ce n’est pas *par hasard*, qu’elles sont moins enfermées que leurs 
 
 <!-- id: s17-04-0021 -->
 
-> *Discours du Maître Discours de l’Hystérique Discours Universitaire*
+*Discours du Maître Discours de l’Hystérique Discours Universitaire*
 
 <!-- id: s17-04-0022 -->
 
@@ -110,7 +110,7 @@ Comme certains oiseaux...
 
 <!-- id: s17-04-0027 -->
 
-> de ceux dont on me parlait quand j’étais petit ...comme certains oiseaux, ça ne s’attrape qu’à ce qu’on lui mette *du sel sur la queue*.
+de ceux dont on me parlait quand j’étais petit ...comme certains oiseaux, ça ne s’attrape qu’à ce qu’on lui mette *du sel sur la queue*.
 
 <!-- id: s17-04-0028 -->
 
@@ -122,7 +122,7 @@ Mon premier livre de lecture avait pour premier texte une histoire qui s’intit
 
 <!-- id: s17-04-0030 -->
 
-> c’était vrai, c’est de cela qu’il parlait -
+c’était vrai, c’est de cela qu’il parlait -
 
 <!-- id: s17-04-0031 -->
 
@@ -254,7 +254,7 @@ Entre « *Le dur désir de durer* » d’Éluard, et *le désir de dormir* qui
 
 <!-- id: s17-04-0059 -->
 
-> il n’a pas dit « *schlafen Bedürfnis » *: *« besoin de dormir »*, ce n’est pas de cela qu’il s’agit, ...c’est le « *Wunsch zu schlafen »* qui détermine l’opération du rêve.
+il n’a pas dit « *schlafen Bedürfnis » *: *« besoin de dormir »*, ce n’est pas de cela qu’il s’agit, ...c’est le « *Wunsch zu schlafen »* qui détermine l’opération du rêve.
 
 <!-- id: s17-04-0060 -->
 
@@ -364,7 +364,7 @@ Je vais ici faire un petit saut, comme ça, et aller à l’auteur qui a articul
 
 <!-- id: s17-04-0084 -->
 
-> le savoir étant constitué d’un fondement de pro­position ...ce qui du savoir en toute rigueur, peut fonctionner comme vérité, ce qui, de quoi que ce soit qui se propose, peut être dit *vrai* et soutenu comme tel.
+le savoir étant constitué d’un fondement de pro­position ...ce qui du savoir en toute rigueur, peut fonctionner comme vérité, ce qui, de quoi que ce soit qui se propose, peut être dit *vrai* et soutenu comme tel.
 
 <!-- id: s17-04-0085 -->
 
@@ -432,7 +432,7 @@ Ajoutons cette remarque seulement : que rien ne peut se dire que de vain, mais 
 
 <!-- id: s17-04-0101 -->
 
-> sur la démarche qui est celle de Wittgenstein ...que *le vrai* est un attribut de « *la* *proposition crue »*.
+sur la démarche qui est celle de Wittgenstein ...que *le vrai* est un attribut de « *la* *proposition crue »*.
 
 <!-- id: s17-04-0102 -->
 
@@ -440,7 +440,7 @@ J’appelle « *proposition crue »* celle qu’ailleurs on mettra entre guill
 
 <!-- id: s17-04-0103 -->
 
-> pour avoir construit mon graphe précisément sur son fondement ...je n’hésite pas pour autant à déclarer arbitraire.
+pour avoir construit mon graphe précisément sur son fondement ...je n’hésite pas pour autant à déclarer arbitraire.
 
 <!-- id: s17-04-0104 -->
 
@@ -448,7 +448,7 @@ Car il est clair qu’il est soutenable...
 
 <!-- id: s17-04-0105 -->
 
-> comme c’est la position de Wittgenstein ...de dire qu’il n’y a à ajouter nul signe d’affirmation à ce qui est assertion pure et simple.
+comme c’est la position de Wittgenstein ...de dire qu’il n’y a à ajouter nul signe d’affirmation à ce qui est assertion pure et simple.
 
 <!-- id: s17-04-0106 -->
 
@@ -460,7 +460,7 @@ Comment dès lors sortir de ce qu’il en est des conclusions de Wittgenstein, s
 
 <!-- id: s17-04-0108 -->
 
-> quelle qu’elle soit, qu’elle soit vraie ou fausse ...la vérité de la proposition composée. Quels que soient les faits du monde, je dirais plus, quel que soit ce que nous en énonçons, *la tautologie de la totalité du discours*, c’est cela qui fait le monde.
+quelle qu’elle soit, qu’elle soit vraie ou fausse ...la vérité de la proposition composée. Quels que soient les faits du monde, je dirais plus, quel que soit ce que nous en énonçons, *la tautologie de la totalité du discours*, c’est cela qui fait le monde.
 
 <!-- id: s17-04-0109 -->
 
@@ -516,7 +516,7 @@ Justement, je ne le dis pas que j’ai une raison, je continue la suite, à savo
 
 <!-- id: s17-04-0122 -->
 
-> peut-être à titre de fallace, même si c’est vrai ...à mon incitation, qui peut être d’en profiter pour faire croire à quelqu’un qu’il verra clair sur mes intentions.
+peut-être à titre de fallace, même si c’est vrai ...à mon incitation, qui peut être d’en profiter pour faire croire à quelqu’un qu’il verra clair sur mes intentions.
 
 <!-- id: s17-04-0123 -->
 
@@ -552,7 +552,7 @@ Et sous nulle lumière plus certaine n’apparaît ce qui résulte de ce que les
 
 <!-- id: s17-04-0131 -->
 
-> vous savez ce que c’est, on ne l’a appelée « *matérielle »* que récemment : c’est *l’implication* tout court ...on l’a appelée *matérielle* récemment, parce que tout d’un coup, on s’est frotté les yeux, et qu’on commence à comprendre ce qu’il y a d’énor­mité dans ce qu’il en est de l’implication, je parle de celle que tel stoïcien a soutenue.
+vous savez ce que c’est, on ne l’a appelée « *matérielle »* que récemment : c’est *l’implication* tout court ...on l’a appelée *matérielle* récemment, parce que tout d’un coup, on s’est frotté les yeux, et qu’on commence à comprendre ce qu’il y a d’énor­mité dans ce qu’il en est de l’implication, je parle de celle que tel stoïcien a soutenue.
 
 <!-- id: s17-04-0132 -->
 
@@ -580,9 +580,9 @@ Mais que si par contre nous repoussons que le vrai comporte le faux, qu’il peu
 
 <!-- id: s17-04-0138 -->
 
-> car c’est là ce que nous repoussons,
->
-> faute de quoi il n’y aurait aucune articulation possible de la logique propositionnelle ...nous aboutissons à ce curieux constat :
+car c’est là ce que nous repoussons,
+
+faute de quoi il n’y aurait aucune articulation possible de la logique propositionnelle ...nous aboutissons à ce curieux constat :
 
 <!-- id: s17-04-0139 -->
 
@@ -660,7 +660,7 @@ Mais le mythe du « *Je idéal »*, du « *Je qui maîtrise »*, du « *Je
 
 <!-- id: s17-04-0155 -->
 
-> à savoir *l’énonciateur* ...est très précisément ce que *le discours universitaire* ne peut éliminer de la place où se trouve sa vérité.
+à savoir *l’énonciateur* ...est très précisément ce que *le discours universitaire* ne peut éliminer de la place où se trouve sa vérité.
 
 <!-- id: s17-04-0156 -->
 
@@ -668,9 +668,9 @@ Bien sûr nulle philosophie n’y est réductible. De tout énoncé universitair
 
 <!-- id: s17-04-0157 -->
 
-> fût-ce celle qu’à la rigueur on pourrait épingler comme lui étant la plus opposée,
->
-> à savoir - si c’était de la philosophie - le discours de Lacan ...irréductiblement surgit la « *Je-cratie* ».
+fût-ce celle qu’à la rigueur on pourrait épingler comme lui étant la plus opposée,
+
+à savoir - si c’était de la philosophie - le discours de Lacan ...irréductiblement surgit la « *Je-cratie* ».
 
 <!-- id: s17-04-0158 -->
 
@@ -730,7 +730,7 @@ Des pages cinglantes sur ce qu’il en est de la psychologie, de la psychologie 
 
 <!-- id: s17-04-0172 -->
 
-> ce que personne n’avait fait à son époque ...que l’essentiel de la méthode, de la méthode freudienne pour aborder ce qu’il en est des formations de l’inconscient, c’est de se fier au récit : l’accent mis sur ce fait de langage, d’où tout, à vrai dire, eût pu partir.
+ce que personne n’avait fait à son époque ...que l’essentiel de la méthode, de la méthode freudienne pour aborder ce qu’il en est des formations de l’inconscient, c’est de se fier au récit : l’accent mis sur ce fait de langage, d’où tout, à vrai dire, eût pu partir.
 
 <!-- id: s17-04-0173 -->
 
@@ -738,11 +738,11 @@ On n’ira pas jusqu’à dire qu’à l’époque...
 
 <!-- id: s17-04-0174 -->
 
-> ça c’est de la petite histoire ...qu’à l’époque il n’était pas question que quelqu’un...
+ça c’est de la petite histoire ...qu’à l’époque il n’était pas question que quelqu’un...
 
 <!-- id: s17-04-0175 -->
 
-> fût-il « *caïman* »[^14] de l’École Normale ...ait la moindre idée de ce qu’est la linguistique, mais tout de même : d’avoir approché que c’est là le ressort, le ressort qui donne espoir à ce qu’il appelle étrangement « *psychologie concrète »*, il est singulier...
+fût-il « *caïman* »[^14] de l’École Normale ...ait la moindre idée de ce qu’est la linguistique, mais tout de même : d’avoir approché que c’est là le ressort, le ressort qui donne espoir à ce qu’il appelle étrangement « *psychologie concrète »*, il est singulier...
 
 <!-- id: s17-04-0176 -->
 
@@ -754,7 +754,7 @@ Car qu’est-ce qu’il fera comme objection aux énoncés...
 
 <!-- id: s17-04-0178 -->
 
-> je parle : à la termino­logie, des mécanismes qu’avance Freud dans son progrès théorique ...sinon qu’à s’énoncer autour de faits isolables, d’abstractions formelles comme il s’exprime confusément, il laisse échapper ce qui pour lui est l’essentiel de l’exigible en matière de psychologie : c’est que tout fait psychique ne soit énonçable qu’à préserver ce qu’il appelle « *l’acte du Je* », et mieux encore, la continuité - c’est ce qui est écrit - « *la continuité du Je* ».
+je parle : à la termino­logie, des mécanismes qu’avance Freud dans son progrès théorique ...sinon qu’à s’énoncer autour de faits isolables, d’abstractions formelles comme il s’exprime confusément, il laisse échapper ce qui pour lui est l’essentiel de l’exigible en matière de psychologie : c’est que tout fait psychique ne soit énonçable qu’à préserver ce qu’il appelle « *l’acte du Je* », et mieux encore, la continuité - c’est ce qui est écrit - « *la continuité du Je* ».
 
 <!-- id: s17-04-0179 -->
 
@@ -842,7 +842,7 @@ Car aussi bien, celui qui à l’autre moitié - au *sujet* de l’enfant - s’
 
 <!-- id: s17-04-0200 -->
 
-> jamais d’ailleurs d’aucune façon par le souvenir, *substantialisé* ...où c’est lui en effet, c’est lui qui de cette phrase fait le support de son fantasme, qui est l’enfant battu.
+jamais d’ailleurs d’aucune façon par le souvenir, *substantialisé* ...où c’est lui en effet, c’est lui qui de cette phrase fait le support de son fantasme, qui est l’enfant battu.
 
 <!-- id: s17-04-0201 -->
 
@@ -850,7 +850,7 @@ Nous voici reconduits à ceci, de fait : qu’un corps peut être sans figure, 
 
 <!-- id: s17-04-0202 -->
 
-> qui ici joue le rôle, la fonction, *donne la place de la jouissance...*il n’est point même nommé.
+qui ici joue le rôle, la fonction, *donne la place de la jouissance...*il n’est point même nommé.
 
 <!-- id: s17-04-0203 -->
 
@@ -990,9 +990,9 @@ Qu’est-ce que ça peut vouloir dire, que ce soit *d’aimer la vérité*, qu�
 
 <!-- id: s17-04-0237 -->
 
-> comme *<u>ceci qui fait que du jouir, l’effet de langage n’arrache</u>*
->
-> *<u>que ce</u>* que la dernière fois j’énonçais de l’entropie d’un *« <u>plus de jouir</u> »* ...*<u>est ce qu’on ne voit pas la vérité comme</u>* en dehors, en dehors du discours ?
+comme *<u>ceci qui fait que du jouir, l’effet de langage n’arrache</u>*
+
+*<u>que ce</u>* que la dernière fois j’énonçais de l’entropie d’un *« <u>plus de jouir</u> »* ...*<u>est ce qu’on ne voit pas la vérité comme</u>* en dehors, en dehors du discours ?
 
 <!-- id: s17-04-0238 -->
 
@@ -1016,7 +1016,7 @@ Singulièrement, tout récemment...
 
 <!-- id: s17-04-0243 -->
 
-> cette chose que tout le monde savait ...quelqu’un a été faire une conférence aux Amériques pour dire que Freud avait ce qu’on appelle publiquement, pudiquement, *une affaire*, « *an affair* », avec sa belle-sœur.
+cette chose que tout le monde savait ...quelqu’un a été faire une conférence aux Amériques pour dire que Freud avait ce qu’on appelle publiquement, pudiquement, *une affaire*, « *an affair* », avec sa belle-sœur.
 
 <!-- id: s17-04-0244 -->
 
@@ -1036,7 +1036,7 @@ Mais cette position de la belle-sœur, est-ce que ce n’est pas pour cela...
 
 <!-- id: s17-04-0248 -->
 
-> je vous laisserai sur cette question ...est-ce que ce n’est pas pour cela que Sade, dont chacun sait combien l’interdit œdipien l’avait... comme le disent depuis toujours les théoriciens de l’amour courtois : « *il n’y a pas d’amour dans le mariage* » ...séparé de sa femme, est-ce que ce n’est pas à cause de sa belle-sœur que Sade aimait, aimait tant *la vérité* ?
+je vous laisserai sur cette question ...est-ce que ce n’est pas pour cela que Sade, dont chacun sait combien l’interdit œdipien l’avait... comme le disent depuis toujours les théoriciens de l’amour courtois : « *il n’y a pas d’amour dans le mariage* » ...séparé de sa femme, est-ce que ce n’est pas à cause de sa belle-sœur que Sade aimait, aimait tant *la vérité* ?
 
 ## Notes
 

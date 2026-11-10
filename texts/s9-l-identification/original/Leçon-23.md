@@ -214,7 +214,7 @@ Ce rapport primitif d’*ustensilité* préfigurant l’*Umwelt,* antérieur enc
 
 <!-- id: s9-23-0053 -->
 
-> je ne crois pas là rien dire qui puisse être retenu comme une critique qui, certes, après tout ce que je connais de la pensée et des dires de Claude LÉVI-STRAUSS, nous paraîtrait bien la démarche la plus opposée à la sienne, pour autant que ce qu’il donne comme sta­tut à la recherche d’ethnographie ne se produirait que dans une position d’aver­sion par rapport à la recherche *métaphysique*, ou même *ultra-métaphysique* d’HEIDEGGER …pourtant, c’est bien la même que nous trouvons dans ce premier pas par lequel Claude LÉVI-STRAUSS *entend nous introduire à la pensée sauvage sous la forme de ce* « *bricolage* », qui n’est pas autre chose que la même analyse, sim­plement en des termes différents, un éclairage à peine modifié, une visée sans doute distincte de ce même rapport à *l’ustensilité comme étant ce que l’un et l’autre considèrent comme antérieur, comme primordial par rapport à cette sorte d’accès structuré* *qui est le nôtre*, par rapport au champ de l’investigation scientifique, en tant qu’il permet de le distinguer comme fondé sur une articu­lation de l’objectivité qui soit en quelque sorte autonome, indépendante de ce qui est à proprement parler notre existence, et que nous ne gardons plus avec lui que ce rapport dit « *sujet–objet* » qui est ce point où se résume à ce jour tout ce que nous pouvons articuler de l’*épistémologie*.
+je ne crois pas là rien dire qui puisse être retenu comme une critique qui, certes, après tout ce que je connais de la pensée et des dires de Claude LÉVI-STRAUSS, nous paraîtrait bien la démarche la plus opposée à la sienne, pour autant que ce qu’il donne comme sta­tut à la recherche d’ethnographie ne se produirait que dans une position d’aver­sion par rapport à la recherche *métaphysique*, ou même *ultra-métaphysique* d’HEIDEGGER …pourtant, c’est bien la même que nous trouvons dans ce premier pas par lequel Claude LÉVI-STRAUSS *entend nous introduire à la pensée sauvage sous la forme de ce* « *bricolage* », qui n’est pas autre chose que la même analyse, sim­plement en des termes différents, un éclairage à peine modifié, une visée sans doute distincte de ce même rapport à *l’ustensilité comme étant ce que l’un et l’autre considèrent comme antérieur, comme primordial par rapport à cette sorte d’accès structuré* *qui est le nôtre*, par rapport au champ de l’investigation scientifique, en tant qu’il permet de le distinguer comme fondé sur une articu­lation de l’objectivité qui soit en quelque sorte autonome, indépendante de ce qui est à proprement parler notre existence, et que nous ne gardons plus avec lui que ce rapport dit « *sujet–objet* » qui est ce point où se résume à ce jour tout ce que nous pouvons articuler de l’*épistémologie*.
 
 <!-- id: s9-23-0054 -->
 
@@ -358,7 +358,7 @@ Mais si nous n’avons pas de point d’origine, de point ἀρχήν \[arken\]
 
 <!-- id: s9-23-0089 -->
 
-> Τὴν ἀρχήν ὄ τι κὰι λαλο ὑμίν \[ten arken o ti kai lalo umin\][^179], comme on dit dans l’Évangile, ce qui a prêté à de telles difficultés de traduction qu’un penseur de Franche-Comté \[Raymond Ruyer\] a cru devoir me dire : « *C’est bien là qu’on vous reconnaît ! Le seul passage de l’Évangile sur lequel personne ne peut s’accorder,* *c’est lui que vous avez pris en épigraphe pour une partie de votre rapport de Rome* ».
+Τὴν ἀρχήν ὄ τι κὰι λαλο ὑμίν \[ten arken o ti kai lalo umin\][^179], comme on dit dans l’Évangile, ce qui a prêté à de telles difficultés de traduction qu’un penseur de Franche-Comté \[Raymond Ruyer\] a cru devoir me dire : « *C’est bien là qu’on vous reconnaît ! Le seul passage de l’Évangile sur lequel personne ne peut s’accorder,* *c’est lui que vous avez pris en épigraphe pour une partie de votre rapport de Rome* ».
 
 <!-- id: s9-23-0090 -->
 
@@ -490,7 +490,7 @@ Ceci est la propriété de tous les corps qui sont *dissymétriques*. C’est do
 
 <!-- id: s9-23-0122 -->
 
-> \[a\] \[b\]
+\[a\] \[b\]
 
 <!-- id: s9-23-0123 -->
 

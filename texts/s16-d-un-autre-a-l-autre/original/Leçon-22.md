@@ -42,7 +42,7 @@ Tout de même, nous nous trouvons, après ce que j’ai avancé la dernière foi
 
 <!-- id: s16-22-0010 -->
 
-> au moins pour ceux qui sont au fait de ce sur quoi j’ai terminé la dernière fois …il me semble qu’il n’est pas vain ici de rappeler que je l’ai poussé en avant dans le champ du *pari de Pascal*, que c’est tout au moins la voie que j’ai choisie cette année pour l’introduire, l’introduire comme étant au champ de l’Autre, comme définissant *un certain jeu*, précisément *l’enjeu*, avec le jeu de mots que je fais autour de ce terme « *en je* ».
+au moins pour ceux qui sont au fait de ce sur quoi j’ai terminé la dernière fois …il me semble qu’il n’est pas vain ici de rappeler que je l’ai poussé en avant dans le champ du *pari de Pascal*, que c’est tout au moins la voie que j’ai choisie cette année pour l’introduire, l’introduire comme étant au champ de l’Autre, comme définissant *un certain jeu*, précisément *l’enjeu*, avec le jeu de mots que je fais autour de ce terme « *en je* ».
 
 <!-- id: s16-22-0011 -->
 
@@ -62,11 +62,11 @@ Vous allez le voir, je vais y revenir - et ce sera mon sujet aujourd’hui - sur
 
 <!-- id: s16-22-0015 -->
 
-> dans un certain horizon de structure, en tant qu’elle est déterminée par le discours commun …il est clair qu’il n’est pas vain de rappeler que, *si cette structure - celle du grand Autre* - est pour nous dans un certain champ…
+dans un certain horizon de structure, en tant qu’elle est déterminée par le discours commun …il est clair qu’il n’est pas vain de rappeler que, *si cette structure - celle du grand Autre* - est pour nous dans un certain champ…
 
 <!-- id: s16-22-0016 -->
 
-> qui est celui-là même que FREUD désigne comme « *la civilisation* », c’est-à-dire *la civilisation occidentale* …la présence de l’autre Dieu, de celui qui parle - à savoir *le Dieu des juifs*, *le Dieu d’Abraham, d’Isaac et de Jacob -* n’est pas là pour rien dans son maintien, à cet Autre.
+qui est celui-là même que FREUD désigne comme « *la civilisation* », c’est-à-dire *la civilisation occidentale* …la présence de l’autre Dieu, de celui qui parle - à savoir *le Dieu des juifs*, *le Dieu d’Abraham, d’Isaac et de Jacob -* n’est pas là pour rien dans son maintien, à cet Autre.
 
 <!-- id: s16-22-0017 -->
 
@@ -78,7 +78,7 @@ Ce qui distingue *le Dieu des Juifs*, celui qu’on désigne comme à l’origin
 
 <!-- id: s16-22-0019 -->
 
-> quelque développement que le *Un* ait pu prendre par la suite …ce n’est pas qu’il se pose comme *Un* lui-même, qui le caractérise. Le Dieu du buisson ardent, le Dieu du Sinaï n’a pas dit qu’il était le seul Dieu. Ceci mérite d’être rappelé. Il dit : « *Je suis ce que je suis* ». Ça a un tout autre sens.
+quelque développement que le *Un* ait pu prendre par la suite …ce n’est pas qu’il se pose comme *Un* lui-même, qui le caractérise. Le Dieu du buisson ardent, le Dieu du Sinaï n’a pas dit qu’il était le seul Dieu. Ceci mérite d’être rappelé. Il dit : « *Je suis ce que je suis* ». Ça a un tout autre sens.
 
 <!-- id: s16-22-0020 -->
 
@@ -114,7 +114,7 @@ Une « *un petit peu grosse* » introduction, mais tout de même nécessitée 
 
 <!-- id: s16-22-0028 -->
 
-> qui nous intéresse éminemment comme tel, même si nous ne l’identifions pas aux formules révélées …*par rapport à ce champ de la vérité, le savoir est ailleurs*.
+qui nous intéresse éminemment comme tel, même si nous ne l’identifions pas aux formules révélées …*par rapport à ce champ de la vérité, le savoir est ailleurs*.
 
 <!-- id: s16-22-0029 -->
 
@@ -122,7 +122,7 @@ C’est bien pourquoi, dès que s’introduit la dimension de *la Révélation*,
 
 <!-- id: s16-22-0030 -->
 
-> traditionnelle dans notre culture, qu’il ne faudrait pas croire éteinte parce que nous sommes en notre temps …la dimension de ce qu’on appelle improprement *la double vérité *: ça veut dire la distinction de *la vérité* et du *savoir*.
+traditionnelle dans notre culture, qu’il ne faudrait pas croire éteinte parce que nous sommes en notre temps …la dimension de ce qu’on appelle improprement *la double vérité *: ça veut dire la distinction de *la vérité* et du *savoir*.
 
 <!-- id: s16-22-0031 -->
 
@@ -130,7 +130,7 @@ Alors ce qui nous intéresse - parce que c’est ce que la psychanalyse a révé
 
 <!-- id: s16-22-0032 -->
 
-> ce qui se produit dans le *savoir* mais ce qu’on ne soupçonnait pas avant la psychanalyse …c’est *l’objet(a)* en tant que l’analyse l’articule pour ce qu’il est, à savoir cause du désir, c’est-à-dire de la division du sujet, de ce qui introduit dans le sujet comme tel ce que le *cogito* masque, à savoir qu’à côté de cet « *à être *» dont il croit s’assurer, *il est essentiellement* et d’origine *manque*.
+ce qui se produit dans le *savoir* mais ce qu’on ne soupçonnait pas avant la psychanalyse …c’est *l’objet(a)* en tant que l’analyse l’articule pour ce qu’il est, à savoir cause du désir, c’est-à-dire de la division du sujet, de ce qui introduit dans le sujet comme tel ce que le *cogito* masque, à savoir qu’à côté de cet « *à être *» dont il croit s’assurer, *il est essentiellement* et d’origine *manque*.
 
 <!-- id: s16-22-0033 -->
 
@@ -142,11 +142,11 @@ Il implique, *dans la règle qui est donnée au psychanalysant*, il implique cec
 
 <!-- id: s16-22-0035 -->
 
-> et Dieu sait ce que de prime abord cela peut représenter d’insensé …si on nous prenait au mot, si l’on se mettait vraiment à *dire*…
+et Dieu sait ce que de prime abord cela peut représenter d’insensé …si on nous prenait au mot, si l’on se mettait vraiment à *dire*…
 
 <!-- id: s16-22-0036 -->
 
-> et que ça ait un sens pour ceux que nous introduisons à cette pratique …*tout ce qui leur passe par la tête, que tout ce qui leur passe par la tête*, ça veuille dire vraiment *n’importe quoi*, où irions-nous ?
+et que ça ait un sens pour ceux que nous introduisons à cette pratique …*tout ce qui leur passe par la tête, que tout ce qui leur passe par la tête*, ça veuille dire vraiment *n’importe quoi*, où irions-nous ?
 
 <!-- id: s16-22-0037 -->
 
@@ -162,7 +162,7 @@ Que vous ne soupçonniez pas, je dirai une part au moins d’entre vous…
 
 <!-- id: s16-22-0040 -->
 
-> une part que je suppose, après tout je ne sais pas si elle existe …vous êtes peut-être tous capables de vous apercevoir que vous êtes soutenus par le principe de raison suffisante.
+une part que je suppose, après tout je ne sais pas si elle existe …vous êtes peut-être tous capables de vous apercevoir que vous êtes soutenus par le principe de raison suffisante.
 
 <!-- id: s16-22-0041 -->
 
@@ -174,7 +174,7 @@ Et ce ne serait certes pas facile de vous faire concevoir ce qui se passe là o�
 
 <!-- id: s16-22-0043 -->
 
-> en ne regardant pas plus loin qu’à dire ce qui vous passe par la tête …il y aura toujours à ça une raison suffisante, et ça suffit à mettre à l’horizon ce grand Autre, *celui qui sait*.
+en ne regardant pas plus loin qu’à dire ce qui vous passe par la tête …il y aura toujours à ça une raison suffisante, et ça suffit à mettre à l’horizon ce grand Autre, *celui qui sait*.
 
 <!-- id: s16-22-0044 -->
 
@@ -194,11 +194,11 @@ C’est donc comme intervention sur le sujet de ce qui… au plus ras de terre, 
 
 <!-- id: s16-22-0048 -->
 
-> partout ailleurs une interprétation, celle par exemple d’un quelconque *système logique*, c’est de donner
->
-> un système de moindre portée qui - *comme on dit* - l’illustre, l’illustre d’une façon plus accessible
->
-> en ceci qu’il est de moindre portée. Nous restons dans la superposition des articulations du savoir …l’interprétation analytique se distingue en ceci, que dans ce qui s’articule d’ores et déjà comme savoir, si primitif que ce soit, ce qu’elle vise, c’est un effet, un effet de savoir de s’y articuler et qu’elle rend sensible au titre de sa vérité.
+partout ailleurs une interprétation, celle par exemple d’un quelconque *système logique*, c’est de donner
+
+un système de moindre portée qui - *comme on dit* - l’illustre, l’illustre d’une façon plus accessible
+
+en ceci qu’il est de moindre portée. Nous restons dans la superposition des articulations du savoir …l’interprétation analytique se distingue en ceci, que dans ce qui s’articule d’ores et déjà comme savoir, si primitif que ce soit, ce qu’elle vise, c’est un effet, un effet de savoir de s’y articuler et qu’elle rend sensible au titre de sa vérité.
 
 <!-- id: s16-22-0049 -->
 
@@ -206,7 +206,7 @@ Sa vérité, nous l’avons dit, est du côté du désir, c’est-à-dire de la 
 
 <!-- id: s16-22-0050 -->
 
-> c’est-à-dire *cette vérité*, *la chose freudienne* et *cette vérité* c’est la même chose …a pour propriété d’être asexuée, contrairement à ce qui se dit, à savoir que le freudisme c’est le *pansexualisme*.
+c’est-à-dire *cette vérité*, *la chose freudienne* et *cette vérité* c’est la même chose …a pour propriété d’être asexuée, contrairement à ce qui se dit, à savoir que le freudisme c’est le *pansexualisme*.
 
 <!-- id: s16-22-0051 -->
 
@@ -278,17 +278,17 @@ Et ce que je vous ai dit l’année dernière…
 
 <!-- id: s16-22-0068 -->
 
-> après que dans l’année précédente j’ai déjà défini ainsi la fonction de *l’objet(a)* …c’est que le psychanalyste est celui qui…
+après que dans l’année précédente j’ai déjà défini ainsi la fonction de *l’objet(a)* …c’est que le psychanalyste est celui qui…
 
 <!-- id: s16-22-0069 -->
 
-> de par cette incitation au savoir, alors qu’il n’en sait pas lui-même tellement que ça,
->
-> et simplement d’avoir cette voie, *ce moyen, ce truc, cette règle analytique* …se trouve prendre à sa charge ce qui est vraiment le support de ce *sujet supposé savoir* dont je vous ai dit sur tous les tons que le problème de notre époque…
+de par cette incitation au savoir, alors qu’il n’en sait pas lui-même tellement que ça,
+
+et simplement d’avoir cette voie, *ce moyen, ce truc, cette règle analytique* …se trouve prendre à sa charge ce qui est vraiment le support de ce *sujet supposé savoir* dont je vous ai dit sur tous les tons que le problème de notre époque…
 
 <!-- id: s16-22-0070 -->
 
-> dont la conjoncture dans la psychanalyse, n’est à prendre elle-même que comme un des *symptômes* c’est que *ce sujet supposé savoir*, *cet Autre, ce lieu unique où le savoir se conjoindrait, il est sûr qu’il n’existe pas* !
+dont la conjoncture dans la psychanalyse, n’est à prendre elle-même que comme un des *symptômes* c’est que *ce sujet supposé savoir*, *cet Autre, ce lieu unique où le savoir se conjoindrait, il est sûr qu’il n’existe pas* !
 
 <!-- id: s16-22-0071 -->
 
@@ -308,11 +308,11 @@ Le psychanalyste donc…
 
 <!-- id: s16-22-0075 -->
 
-> et c’est là que j’accentuais l’énigme et le paradoxe de l’acte psychanalytique …le psychanalyste…
+et c’est là que j’accentuais l’énigme et le paradoxe de l’acte psychanalytique …le psychanalyste…
 
 <!-- id: s16-22-0076 -->
 
-> en tant qu’il induit, qu’il incite le sujet, le névrosé en l’occasion, sur ce chemin où il l’invite à la rencontre d’un *sujet supposé savoir* …le psychanalyste… *s’il est vrai qu’il sait ce que c’est qu’une psychanalyse* …comment peut-il - cet acte - y procéder, sachant ce qu’il en est de ce que, au terme de l’opération et de son *en-soi* même, lui, l’analyste, il va représenter l’évacuation de *l’objet(a)*. De cette incitation au savoir, qui doit mener à *la vérité* et qui en représente la béance, il choit à devenir lui-même la fiction rejetée.
+en tant qu’il induit, qu’il incite le sujet, le névrosé en l’occasion, sur ce chemin où il l’invite à la rencontre d’un *sujet supposé savoir* …le psychanalyste… *s’il est vrai qu’il sait ce que c’est qu’une psychanalyse* …comment peut-il - cet acte - y procéder, sachant ce qu’il en est de ce que, au terme de l’opération et de son *en-soi* même, lui, l’analyste, il va représenter l’évacuation de *l’objet(a)*. De cette incitation au savoir, qui doit mener à *la vérité* et qui en représente la béance, il choit à devenir lui-même la fiction rejetée.
 
 <!-- id: s16-22-0077 -->
 
@@ -356,7 +356,7 @@ Comme je vous l’ai dit, c’est ce qui a pu me dispenser…
 
 <!-- id: s16-22-0087 -->
 
-> *à l’horizon de ce nœud si sévère, si rigoureusement interrogé d’une mise en question de ce qu’il en est de l’acte psychanalytique* …me dispenser des résonances assurément embarrassantes qui sont celles pourtant autour desquelles peut être interrogé ce qu’il en est, autant de la théorie, que de l’institution psychanalytique.
+*à l’horizon de ce nœud si sévère, si rigoureusement interrogé d’une mise en question de ce qu’il en est de l’acte psychanalytique* …me dispenser des résonances assurément embarrassantes qui sont celles pourtant autour desquelles peut être interrogé ce qu’il en est, autant de la théorie, que de l’institution psychanalytique.
 
 <!-- id: s16-22-0088 -->
 
@@ -364,11 +364,11 @@ Avant d’en indiquer peut-être un peu plus, rappelons bien ce qui résulte de 
 
 <!-- id: s16-22-0089 -->
 
-> entre *savoir* et *vérité* et dans le champ propre d’une *production* dont en somme ce que vous voyez,
->
-> c’est que c’est le psychanalyste en tant que tel, qui lui-même l’incarne cette production,
->
-> c’est dans ces termes que doit se situer la question …la question, par exemple, de ce qu’il en est du *transfert*.
+entre *savoir* et *vérité* et dans le champ propre d’une *production* dont en somme ce que vous voyez,
+
+c’est que c’est le psychanalyste en tant que tel, qui lui-même l’incarne cette production,
+
+c’est dans ces termes que doit se situer la question …la question, par exemple, de ce qu’il en est du *transfert*.
 
 <!-- id: s16-22-0090 -->
 
@@ -376,7 +376,7 @@ Que tout ce que nous désignons comme *transfert* soit *interprété* dans l’a
 
 <!-- id: s16-22-0091 -->
 
-> si ce n’est pour ceux des *analystes* qui sont absolument *égarés* dans ce réseau tel que je l’articule …quel besoin de mettre en question ce qu’il peut y avoir d’objectif et de prétendre que le transfert serait un recul devant je ne sais quoi d’autre qui serait ce qui, dans l’analyse, se joue réellement.
+si ce n’est pour ceux des *analystes* qui sont absolument *égarés* dans ce réseau tel que je l’articule …quel besoin de mettre en question ce qu’il peut y avoir d’objectif et de prétendre que le transfert serait un recul devant je ne sais quoi d’autre qui serait ce qui, dans l’analyse, se joue réellement.
 
 <!-- id: s16-22-0092 -->
 
@@ -408,7 +408,7 @@ Et là encore, avant de quitter ce champ - et pour cause, où je n’ai pas bouc
 
 <!-- id: s16-22-0099 -->
 
-> dans quelque chose qui au regard de ce que j’ai à tracer aujourd’hui peut passer pour une parenthèse …tout de même pointer un dernier de ces repères dont j’essaie de ponctuer d’une façon correcte ce champ.
+dans quelque chose qui au regard de ce que j’ai à tracer aujourd’hui peut passer pour une parenthèse …tout de même pointer un dernier de ces repères dont j’essaie de ponctuer d’une façon correcte ce champ.
 
 <!-- id: s16-22-0100 -->
 
@@ -544,7 +544,7 @@ Assurément, si j’ai indiqué que j’aurais pu articuler quelque chose d’au
 
 <!-- id: s16-22-0133 -->
 
-> quelque chose dont je déclare avoir été *heureusement* dispensé \[*sic*\] …sur le sujet de *l’acte psychanalytique*, c’est dans l’horizon de ce qu’il en est du masochiste qu’il conviendrait de la poser, cette articulation.
+quelque chose dont je déclare avoir été *heureusement* dispensé \[*sic*\] …sur le sujet de *l’acte psychanalytique*, c’est dans l’horizon de ce qu’il en est du masochiste qu’il conviendrait de la poser, cette articulation.
 
 <!-- id: s16-22-0134 -->
 
@@ -580,7 +580,7 @@ Pour avancer une formule…
 
 <!-- id: s16-22-0142 -->
 
-> qui a son intérêt parce que j’aurai à la reprendre et il ne faut pas s’en étonner, à propos de *l’obsessionnel* …nous dirons que « *le psychanalyste fait le maître* », dans les deux sens du mot « *faire* ».
+qui a son intérêt parce que j’aurai à la reprendre et il ne faut pas s’en étonner, à propos de *l’obsessionnel* …nous dirons que « *le psychanalyste fait le maître* », dans les deux sens du mot « *faire* ».
 
 <!-- id: s16-22-0143 -->
 
@@ -608,7 +608,7 @@ Mais c’est ceci qui permet, à reprendre ces deux fonctions du mot « *faire*
 
 <!-- id: s16-22-0149 -->
 
-> au terme de cette incurable vérité, au point de celui qui sait que s’il y a bien acte, il n’y a pas de rapport sexuel …est-ce que ça n’est pas là - même si ce n’est pas souvent que cela arrive - faire quelque part une vraie maîtrise ?
+au terme de cette incurable vérité, au point de celui qui sait que s’il y a bien acte, il n’y a pas de rapport sexuel …est-ce que ça n’est pas là - même si ce n’est pas souvent que cela arrive - faire quelque part une vraie maîtrise ?
 
 <!-- id: s16-22-0150 -->
 

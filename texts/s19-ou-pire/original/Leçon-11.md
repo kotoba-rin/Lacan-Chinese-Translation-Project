@@ -50,7 +50,7 @@ Vous avez pu voir que nous sommes passés de ce que j’ai appelé un jour ici..
 
 <!-- id: s19-11-0012 -->
 
-> d’un prédicat formé à votre usage, nommément « *l’unien »...*nous sommes passés la dernière fois à Sainte-Anne au terme d’une autre facture qui se promouverait du terme, de la forme « *unier »*.
+d’un prédicat formé à votre usage, nommément « *l’unien »...*nous sommes passés la dernière fois à Sainte-Anne au terme d’une autre facture qui se promouverait du terme, de la forme « *unier »*.
 
 <!-- id: s19-11-0013 -->
 
@@ -70,9 +70,9 @@ Je dis donc que cet « *unier »* qui se fonde...
 
 <!-- id: s19-11-0017 -->
 
-> et je vous priais que ce « *fondé* » ne vous paraisse pas trop fondamental,
->
-> c’est ce que j’appelais le laisser dans le fondu ...cet « *unier »* qui se fonde, il *y en a Un, il en existe Un* qui dit que non.
+et je vous priais que ce « *fondé* » ne vous paraisse pas trop fondamental,
+
+c’est ce que j’appelais le laisser dans le fondu ...cet « *unier »* qui se fonde, il *y en a Un, il en existe Un* qui dit que non.
 
 <!-- id: s19-11-0018 -->
 
@@ -124,7 +124,7 @@ Il y a une très bonne petite revue, enfin pas plus mauvaise qu’une autre, dan
 
 <!-- id: s19-11-0030 -->
 
-> *Vous entendez ?...*qui s’appelle « *L’Agonie du Signe »*.
+*Vous entendez ?...*qui s’appelle « *L’Agonie du Signe »*.
 
 <!-- id: s19-11-0031 -->
 
@@ -164,7 +164,7 @@ C’est très exactement la voie par où en effet on peut créer*...*
 
 <!-- id: s19-11-0040 -->
 
-> ce qui est quand même un petit peu plus amusant et utile que « *fourmidable »...*on peut créer « *unier* » \[*Rires*\].
+ce qui est quand même un petit peu plus amusant et utile que « *fourmidable »...*on peut créer « *unier* » \[*Rires*\].
 
 <!-- id: s19-11-0041 -->
 
@@ -196,7 +196,11 @@ Alors j’explique l’histoire de ce que Freud a abordé comme il a pu, jus­te
 
 <!-- id: s19-11-0048 -->
 
-> « *El shaddaï* » en particulier, c’est le nom dont il désigne « *celui dont le nom ne se dit pas* » *...*il s’est reporté sur les mythes, puis il a fait quelque chose de très propre en somme, d’un peu aseptique, il ne l’a pas poussé plus loin, mais c’est bien là ce dont il s’agit, c’est qu’on laisse passer les occasions de reprendre ce qui le dirigeait, et ce qui devrait faire maintenant que le psychanalyste soit à sa place dans son discours.
+<div class="text-quotation">
+
+« *El shaddaï* » en particulier, c’est le nom dont il désigne « *celui dont le nom ne se dit pas* » *...*il s’est reporté sur les mythes, puis il a fait quelque chose de très propre en somme, d’un peu aseptique, il ne l’a pas poussé plus loin, mais c’est bien là ce dont il s’agit, c’est qu’on laisse passer les occasions de reprendre ce qui le dirigeait, et ce qui devrait faire maintenant que le psychanalyste soit à sa place dans son discours.
+
+</div>
 
 <!-- id: s19-11-0049 -->
 
@@ -208,19 +212,19 @@ De sorte que dans l’avion là, qui me ramenait de je ne sais où, qui me ramen
 
 <!-- id: s19-11-0051 -->
 
-> bon ! j’ai pas apporté le truc ...c’est vraiment très bien, c’est dans l’avion, dans un truc qui s’appelle *Atlas* et qui est distribué à tous les voyageurs par la Compagnie *Air France *: il y a un très très joli petit article...
+bon ! j’ai pas apporté le truc ...c’est vraiment très bien, c’est dans l’avion, dans un truc qui s’appelle *Atlas* et qui est distribué à tous les voyageurs par la Compagnie *Air France *: il y a un très très joli petit article...
 
 <!-- id: s19-11-0052 -->
 
-> heureusement que je ne l’ai pas, je l’ai oublié chez moi, heureusement parce que ça m’aurait entraîné
->
-> à vous lire des passages et il n’y a rien d’ennuyeux comme d’entendre lire,
->
-> il n’y a rien d’ennuyeux comme ça ! ...enfin, il y a des *psychologues*...
+heureusement que je ne l’ai pas, je l’ai oublié chez moi, heureusement parce que ça m’aurait entraîné
+
+à vous lire des passages et il n’y a rien d’ennuyeux comme d’entendre lire,
+
+il n’y a rien d’ennuyeux comme ça ! ...enfin, il y a des *psychologues*...
 
 <!-- id: s19-11-0053 -->
 
-> des psychologues de la plus haute volée, n’est-ce pas, ...qui s’emploient aux Amériques à faire des enquêtes sur les rêves. Parce que sur les rêves on enquête, n’est-ce pas.
+des psychologues de la plus haute volée, n’est-ce pas, ...qui s’emploient aux Amériques à faire des enquêtes sur les rêves. Parce que sur les rêves on enquête, n’est-ce pas.
 
 <!-- id: s19-11-0054 -->
 
@@ -248,9 +252,9 @@ D’où il résulte, n’est-ce pas, que comme ce qui est la conception généra
 
 <!-- id: s19-11-0060 -->
 
-> le grand public qui justement est fait de la diffusion psychanalytique,
->
-> vous aussi vous êtes un grand public ...ben le grand public naturellement va être défrisé, n’est-ce pas, et tout le soufflé va tomber comme ça, s’aplatir dans le fond de la casserole.
+le grand public qui justement est fait de la diffusion psychanalytique,
+
+vous aussi vous êtes un grand public ...ben le grand public naturellement va être défrisé, n’est-ce pas, et tout le soufflé va tomber comme ça, s’aplatir dans le fond de la casserole.
 
 <!-- id: s19-11-0061 -->
 
@@ -294,15 +298,15 @@ Quand je pense que j’en suis encore là, n’est-ce pas, que *personne*...
 
 <!-- id: s19-11-0071 -->
 
-> de tous ces gens qui s’occupent à embrouiller ce que je dis, à en faire du bruit ...*personne* ne s’est encore jamais avisé d’avancer cette chose qui est pourtant *la stricte conséquence* de tout ce que j’ai avancé, que j’ai articulé de la façon la plus précise...
+de tous ces gens qui s’occupent à embrouiller ce que je dis, à en faire du bruit ...*personne* ne s’est encore jamais avisé d’avancer cette chose qui est pourtant *la stricte conséquence* de tout ce que j’ai avancé, que j’ai articulé de la façon la plus précise...
 
 <!-- id: s19-11-0072 -->
 
-> si mon souvenir est bon, en 57... attendez, même pas : en 55 ! ...à propos du « *rêve de l’injection d’Irma » *: j’ai pris, pour montrer comment on traite un texte de Freud, je leur ai bien expliqué ce qu’il avait d’ambigu, que ce soit là justement...
+si mon souvenir est bon, en 57... attendez, même pas : en 55 ! ...à propos du « *rêve de l’injection d’Irma » *: j’ai pris, pour montrer comment on traite un texte de Freud, je leur ai bien expliqué ce qu’il avait d’ambigu, que ce soit là justement...
 
 <!-- id: s19-11-0073 -->
 
-> mais pas du tout dans l’inconscient : au niveau de ses préoccupations présentes ...que Freud interprète ce rêve, ce rêve de désir qui n’a rien à faire avec le désir sexuel, même s’il y a toutes les implications de transfert qui nous conviennent.
+mais pas du tout dans l’inconscient : au niveau de ses préoccupations présentes ...que Freud interprète ce rêve, ce rêve de désir qui n’a rien à faire avec le désir sexuel, même s’il y a toutes les implications de transfert qui nous conviennent.
 
 <!-- id: s19-11-0074 -->
 
@@ -322,7 +326,7 @@ Pour des raisons fondamentales...
 
 <!-- id: s19-11-0078 -->
 
-> que je ne vais pas me mettre à développer aujourd’hui parce que, parce que ça vaut 4 ou 5 séminaires ...pour la raison qui est simplement celle-ci et qui est touchable, et que Freud dit : que le seul désir fondamental dans le sommeil, c’est le désir de dormir. \[*Rires*\]
+que je ne vais pas me mettre à développer aujourd’hui parce que, parce que ça vaut 4 ou 5 séminaires ...pour la raison qui est simplement celle-ci et qui est touchable, et que Freud dit : que le seul désir fondamental dans le sommeil, c’est le désir de dormir. \[*Rires*\]
 
 <!-- id: s19-11-0079 -->
 
@@ -346,13 +350,13 @@ Comment est-ce que ça ne vient pas tout de suite à votre jugeote, en quoi ça 
 
 <!-- id: s19-11-0084 -->
 
-> faut pas que je le récrive au tableau, non ? ...ce qu’il s’agit de suspendre...
+faut pas que je le récrive au tableau, non ? ...ce qu’il s’agit de suspendre...
 
 <!-- id: s19-11-0085 -->
 
-> c’est pour ça que c’est fait le sommeil,
->
-> n’importe qui n’a qu’à regarder un animal dormir pour s’en apercevoir ...ce qu’il s’agit de suspendre justement, c’est cet *ambigu* qu’il y a dans le rapport au corps avec lui-même : le *jouir*.
+c’est pour ça que c’est fait le sommeil,
+
+n’importe qui n’a qu’à regarder un animal dormir pour s’en apercevoir ...ce qu’il s’agit de suspendre justement, c’est cet *ambigu* qu’il y a dans le rapport au corps avec lui-même : le *jouir*.
 
 <!-- id: s19-11-0086 -->
 
@@ -452,9 +456,9 @@ Je me suis déjà réjoui publiquement de ce qu’une de mes analysées...
 
 <!-- id: s19-11-0110 -->
 
-> qui est quelque part donc par là,
->
-> qui est une personne particulièrement sensible ...ait parlé en effet à propos de mon discours de « *pollution intellectuelle* ».
+qui est quelque part donc par là,
+
+qui est une personne particulièrement sensible ...ait parlé en effet à propos de mon discours de « *pollution intellectuelle* ».
 
 <!-- id: s19-11-0111 -->
 
@@ -486,7 +490,7 @@ C’est à savoir que *la pollution* la plus caractéristique dans ce monde, c�
 
 <!-- id: s19-11-0118 -->
 
-> de cette pollution qui est l’effet le plus certain sur la surface du globe ...de devoir en faire - en son corps, en son existence d’analyste - représentation, qu’il y regarde à plus d’une fois.
+de cette pollution qui est l’effet le plus certain sur la surface du globe ...de devoir en faire - en son corps, en son existence d’analyste - représentation, qu’il y regarde à plus d’une fois.
 
 <!-- id: s19-11-0119 -->
 
@@ -502,7 +506,7 @@ Grâce à la logique, j’arrive à leur...
 
 <!-- id: s19-11-0122 -->
 
-> s’ils voulaient bien se laisser tenter ...leur rendre supportable cette position qu’ils occupent en tant que *petit(a)* dans *le discours analytique*, pour se permettre de concevoir que *ce n’est évidemment pas peu de choses* que d’élever cette fonction à *une position de semblant* qui est la *position-clé* dans tout discours.
+s’ils voulaient bien se laisser tenter ...leur rendre supportable cette position qu’ils occupent en tant que *petit(a)* dans *le discours analytique*, pour se permettre de concevoir que *ce n’est évidemment pas peu de choses* que d’élever cette fonction à *une position de semblant* qui est la *position-clé* dans tout discours.
 
 <!-- id: s19-11-0123 -->
 
@@ -510,7 +514,7 @@ C’est là qu’est le ressort de ce que j’ai toujours essayé de faire senti
 
 <!-- id: s19-11-0124 -->
 
-> et elle n’est que trop compréhensible ...de l’analyste, à vraiment remplir sa fonction.
+et elle n’est que trop compréhensible ...de l’analyste, à vraiment remplir sa fonction.
 
 <!-- id: s19-11-0125 -->
 
@@ -554,11 +558,11 @@ C’est bien pour ça que quand j’étais là...
 
 <!-- id: s19-11-0135 -->
 
-> là d’où je reviens comme je vous l’ai dit tout à l’heure, à savoir à Milan, ...j’avais une assistance évidemment beaucoup moins nombreuse que la vôtre, mettons le quart, mais qu’il y avait là beaucoup de jeunes, beaucoup ces jeunes qui sont ceux qu’on appelle « *dans le mouvement* », il y avait même *un personnage* tout à fait respectable et d’une assez haute stature qui se trouve en être là-bas *le représentant*, sait-il ou ne sait-il pas...
+là d’où je reviens comme je vous l’ai dit tout à l’heure, à savoir à Milan, ...j’avais une assistance évidemment beaucoup moins nombreuse que la vôtre, mettons le quart, mais qu’il y avait là beaucoup de jeunes, beaucoup ces jeunes qui sont ceux qu’on appelle « *dans le mouvement* », il y avait même *un personnage* tout à fait respectable et d’une assez haute stature qui se trouve en être là-bas *le représentant*, sait-il ou ne sait-il pas...
 
 <!-- id: s19-11-0136 -->
 
-> on m’a dit qu’il n’était là *qu’après*, je n’ai pas voulu l’interroger ...sait-il ou ne sait-il pas qu’en étant là dans cette pointe, ce qu’il veut c’est comme tous ceux qui sont ici intéressés un peu par *le mouvement*, c’est redonner au *dis­cours universitaire* sa valeur.
+on m’a dit qu’il n’était là *qu’après*, je n’ai pas voulu l’interroger ...sait-il ou ne sait-il pas qu’en étant là dans cette pointe, ce qu’il veut c’est comme tous ceux qui sont ici intéressés un peu par *le mouvement*, c’est redonner au *dis­cours universitaire* sa valeur.
 
 <!-- id: s19-11-0137 -->
 
@@ -610,7 +614,7 @@ Il y avait quand même, et alors là, le mot « *séminaire »*. Bien sûr com
 
 <!-- id: s19-11-0149 -->
 
-> ce que j’ai été forcé d’expliquer, d’avouer ...que le séminaire, ce n’est pas un séminaire, c’est un truc que je dégoise tout seul, mes bons amis, depuis des années, mais qu’il y avait autrefois un temps où ça méritait son nom, où il y avait des gens qui intervenaient ?
+ce que j’ai été forcé d’expliquer, d’avouer ...que le séminaire, ce n’est pas un séminaire, c’est un truc que je dégoise tout seul, mes bons amis, depuis des années, mais qu’il y avait autrefois un temps où ça méritait son nom, où il y avait des gens qui intervenaient ?
 
 <!-- id: s19-11-0150 -->
 
@@ -622,7 +626,7 @@ Et comme sur la route du retour quelqu’un me pressait pour me dire : « *ah 
 
 <!-- id: s19-11-0152 -->
 
-> pour l’avant-dernière fois que je vous vois, parce que je vous verrai encore une fois ...bon Dieu, que quelqu’un vienne dire quelque chose !
+pour l’avant-dernière fois que je vous vois, parce que je vous verrai encore une fois ...bon Dieu, que quelqu’un vienne dire quelque chose !
 
 <!-- id: s19-11-0153 -->
 
@@ -630,7 +634,7 @@ Là-dessus je reçois une lettre de Monsieur Recanati...
 
 <!-- id: s19-11-0154 -->
 
-> je vous raconte pas d’*histoire* pour l’instant, je fais pas semblant de faire surgir du *floor* une intervention, je dis simplement que j’ai reçu une lettre, qui était d’ailleurs une réponse à une des miennes ...de Monsieur Recanati qui est là, qui m’a prouvé, à ma grande surprise - n’est-ce pas ? – qu’il avait entendu *quelque chose* de ce que j’ai dit cette année.
+je vous raconte pas d’*histoire* pour l’instant, je fais pas semblant de faire surgir du *floor* une intervention, je dis simplement que j’ai reçu une lettre, qui était d’ailleurs une réponse à une des miennes ...de Monsieur Recanati qui est là, qui m’a prouvé, à ma grande surprise - n’est-ce pas ? – qu’il avait entendu *quelque chose* de ce que j’ai dit cette année.
 
 <!-- id: s19-11-0155 -->
 
@@ -762,7 +766,7 @@ La néga­tion ici, est elle-même érigée en fonction, et l’ensemble des ens
 
 <!-- id: s19-11-0187 -->
 
-> en l’occurrence dans la mesure où il est impossible de nier etc. ...est *l’ensemble vide qui inscrit la négation comme impossible*. Le même type d’exemple pourrait être pris en topologie éventuellement. Si l’on écoutait Peirce, *le théorème des points fixes* devrait s’énoncer comme suit, je vais l’écrire :
+en l’occurrence dans la mesure où il est impossible de nier etc. ...est *l’ensemble vide qui inscrit la négation comme impossible*. Le même type d’exemple pourrait être pris en topologie éventuellement. Si l’on écoutait Peirce, *le théorème des points fixes* devrait s’énoncer comme suit, je vais l’écrire :
 
 <!-- id: s19-11-0188 -->
 
@@ -798,7 +802,7 @@ D’autre part, ce théorème se symbolise, vous pouvez peut-être le commenter,
 
 <!-- id: s19-11-0196 -->
 
-> car c’est une formule qui est très près, en somme, de celle que j’ai l’habitude d’inscrire ...: tel qu’il faille nier - qu’il n’y a pas de :, qu’il faille nier qu’il n’y a pas d’existence de X - tel que ΦX soit nié.
+car c’est une formule qui est très près, en somme, de celle que j’ai l’habitude d’inscrire ...: tel qu’il faille nier - qu’il n’y a pas de :, qu’il faille nier qu’il n’y a pas d’existence de X - tel que ΦX soit nié.
 
 <!-- id: s19-11-0197 -->
 
@@ -846,7 +850,7 @@ Parce qu’il dit, le potentiel...
 
 <!-- id: s19-11-0208 -->
 
-> et ça j’allais y revenir dans le cours parce que c’est un concept qui est finalement assez élaboré ...c’est le champ d’inscription des *impossibilités*, mais avant que des *impossibilités*, des *impossibilités* non-inscrites encore, c’est le champ des *impossibilités* possibles.
+et ça j’allais y revenir dans le cours parce que c’est un concept qui est finalement assez élaboré ...c’est le champ d’inscription des *impossibilités*, mais avant que des *impossibilités*, des *impossibilités* non-inscrites encore, c’est le champ des *impossibilités* possibles.
 
 <!-- id: s19-11-0209 -->
 
@@ -866,9 +870,9 @@ Et ensuite, éventuellement, la négation et toutes ces spécifications-là cont
 
 <!-- id: s19-11-0213 -->
 
-> et à l’intérieur des impossibles on peut dire des choses comme ça, c’est-à-dire :
->
-> *il n’existe pas* x *tel que non* Φx*, ou il existe x tel que non* Φx. \[/ §, ou : §\]
+et à l’intérieur des impossibles on peut dire des choses comme ça, c’est-à-dire :
+
+*il n’existe pas* x *tel que non* Φx*, ou il existe x tel que non* Φx. \[/ §, ou : §\]
 
 <!-- id: s19-11-0214 -->
 
@@ -928,7 +932,7 @@ Le potentiel permet ça, de définir le paradoxe du continu, et ça, c’est dan
 
 <!-- id: s19-11-0228 -->
 
-> je cite ça, mais en fait, je l’ai pas regardé de bien près donc je ne le développerai pas ...si un point d’un ensemble continu potentiel se voit conférer une détermination précise, une ins­cription, une existence réelle, alors la continuité, elle-même, est rompue.
+je cite ça, mais en fait, je l’ai pas regardé de bien près donc je ne le développerai pas ...si un point d’un ensemble continu potentiel se voit conférer une détermination précise, une ins­cription, une existence réelle, alors la continuité, elle-même, est rompue.
 
 <!-- id: s19-11-0229 -->
 
@@ -976,7 +980,7 @@ Mais pour situer véritablement l’originalité de Peirce, on n’a jamais rapp
 
 <!-- id: s19-11-0240 -->
 
-> *l’une potentielle et l’autre, si l’on veut, temporelle, ou plutôt une dimension du 0 absolu, et une dimension du 0 de répétition* ...c’est présent dès le début de l’épopée empiriste.
+*l’une potentielle et l’autre, si l’on veut, temporelle, ou plutôt une dimension du 0 absolu, et une dimension du 0 de répétition* ...c’est présent dès le début de l’épopée empiriste.
 
 <!-- id: s19-11-0241 -->
 
@@ -1028,7 +1032,7 @@ Quant à Locke, il le change. Quand il dit, c’est...
 
 <!-- id: s19-11-0253 -->
 
-> et je m’excuse de m’appesantir un peu sur cette introduction ...ce qu’il dit c’est  les représentations, les idées, ne représentent pas les choses, elles se représentent entre elles.
+et je m’excuse de m’appesantir un peu sur cette introduction ...ce qu’il dit c’est  les représentations, les idées, ne représentent pas les choses, elles se représentent entre elles.
 
 <!-- id: s19-11-0254 -->
 
@@ -1244,7 +1248,11 @@ Là-dedans, il y a quatre éléments, *pour quelqu’un* est le premier, et je r
 
 <!-- id: s19-11-0307 -->
 
-> « *Cela signi­fie que le signe crée dans l’esprit du destinataire un signe plus équivalent, ou même plus développé.* »
+<div class="text-quotation">
+
+« *Cela signi­fie que le signe crée dans l’esprit du destinataire un signe plus équivalent, ou même plus développé.* »
+
+</div>
 
 <!-- id: s19-11-0308 -->
 
@@ -1356,7 +1364,7 @@ Le *ground* est absent ici, détermine la relation du *representamen* à *l’ob
 
 <!-- id: s19-11-0335 -->
 
-> qu’est-ce que je disais ? J’ai dit du représentant ?
+qu’est-ce que je disais ? J’ai dit du représentant ?
 
 <!-- id: s19-11-0336 -->
 
@@ -1404,9 +1412,9 @@ le procès de *signification* il se fait à partir de là... pour que ça, ça a
 
 <!-- id: s19-11-0347 -->
 
-> il faut nécessairement que du rapport... si on prend l’objet en tant que « *justice* »,
->
-> et si on prend le *representamen* comme étant « *balance* » ...il faut justement que cette relation-là, qui en soi n’est rien, elle soit *interprétée* par ses *interprétants*.
+il faut nécessairement que du rapport... si on prend l’objet en tant que « *justice* »,
+
+et si on prend le *representamen* comme étant « *balance* » ...il faut justement que cette relation-là, qui en soi n’est rien, elle soit *interprétée* par ses *interprétants*.
 
 <!-- id: s19-11-0348 -->
 
@@ -1418,7 +1426,11 @@ Le triangle sémiotique, on le voit, c’est très clair, reproduit la même rel
 
 <!-- id: s19-11-0350 -->
 
-> « *L’interprétant ne peut avoir de relation duelle à l’objet, mais à la relation que lui commande celle du signe-objet qu’il ne peut avoir sous forme cependant identique mais dégénérée. La relation signe-objet sera le propre objet de l’interprétant comme signe* ».
+<div class="text-quotation">
+
+« *L’interprétant ne peut avoir de relation duelle à l’objet, mais à la relation que lui commande celle du signe-objet qu’il ne peut avoir sous forme cependant identique mais dégénérée. La relation signe-objet sera le propre objet de l’interprétant comme signe* ».
+
+</div>
 
 <!-- id: s19-11-0351 -->
 
@@ -1426,7 +1438,7 @@ Donc le triangle se développe en chaîne comme *interprétation interminable*..
 
 <!-- id: s19-11-0352 -->
 
-> et le mot est de Peirce, c’est quand même fantastique *interprétation interminable* comme expression ...c’est-à-dire qu’à chaque fois c’est ce que vous tracez comme nouvelle hypothénuse qui est pris comme objet du *nouvel interprétant* à chaque fois.
+et le mot est de Peirce, c’est quand même fantastique *interprétation interminable* comme expression ...c’est-à-dire qu’à chaque fois c’est ce que vous tracez comme nouvelle hypothénuse qui est pris comme objet du *nouvel interprétant* à chaque fois.
 
 <!-- id: s19-11-0353 -->
 

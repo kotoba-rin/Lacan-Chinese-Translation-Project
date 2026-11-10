@@ -14,7 +14,7 @@ Bien sûr, je sais que certains d’entre vous peuvent trouver qu’à cet égar
 
 <!-- id: s14-22-0003 -->
 
-> pour autant que depuis quelques années elle est centrée sur le mythe, cette analyse …faut-il penser enfin que *le miel attendait* - j’entends : depuis toujours - *attendait dans le tabac, la vérité de son rapport avec la cendre* ?
+pour autant que depuis quelques années elle est centrée sur le mythe, cette analyse …faut-il penser enfin que *le miel attendait* - j’entends : depuis toujours - *attendait dans le tabac, la vérité de son rapport avec la cendre* ?
 
 <!-- id: s14-22-0004 -->
 
@@ -38,7 +38,7 @@ Pourtant, ce n’est pas sans raison que nous devons pro­duire en fin, ce qui d
 
 <!-- id: s14-22-0009 -->
 
-> d’où sort que *symbolisme* veut toujours dire en ­fin \[*in fine*\] *symbolisme corporel* …ceci à quoi j’arrive, a dû pendant des années être par moi écarté, précisément en raison du fait que c’est ainsi depuis toujours, que c’est ainsi tradition­nellement qu’était articulé le *symbolisme*, c’est-à-dire d’une façon qui manquait *l’essentiel*, comme il arrive, pour être trop précipitée.
+d’où sort que *symbolisme* veut toujours dire en ­fin \[*in fine*\] *symbolisme corporel* …ceci à quoi j’arrive, a dû pendant des années être par moi écarté, précisément en raison du fait que c’est ainsi depuis toujours, que c’est ainsi tradition­nellement qu’était articulé le *symbolisme*, c’est-à-dire d’une façon qui manquait *l’essentiel*, comme il arrive, pour être trop précipitée.
 
 <!-- id: s14-22-0010 -->
 
@@ -54,7 +54,7 @@ Et si nous le savons, c’est en raison du fait que ce qui est au centre de notr
 
 <!-- id: s14-22-0013 -->
 
-> et c’est un signe que je ne puisse le rappeler avec cette force qu’au moment où, à proprement parler, j’installe mon discours dans ce que je puis légitimement appeler « *une logique* », que c’est à ce moment que je puis rappeler… …que *tout tourne pour nous autour de* ce qu’il en est de ce qu’il faut appeler *la difficulté* - *non pas d’être, comme disait l’autre*[^90] *en son grand âge* - *la difficulté inhérente à l’acte sexuel*.
+et c’est un signe que je ne puisse le rappeler avec cette force qu’au moment où, à proprement parler, j’installe mon discours dans ce que je puis légitimement appeler « *une logique* », que c’est à ce moment que je puis rappeler… …que *tout tourne pour nous autour de* ce qu’il en est de ce qu’il faut appeler *la difficulté* - *non pas d’être, comme disait l’autre*[^90] *en son grand âge* - *la difficulté inhérente à l’acte sexuel*.
 
 <!-- id: s14-22-0014 -->
 
@@ -110,15 +110,15 @@ On ne peut la comprendre qu’à se référer au *centre*. Et c’est bien ce qu
 
 <!-- id: s14-22-0027 -->
 
-> on ne dit pas à l’acte, bien sûr, puisque c’est moi qui l’ai dit le premier …à quelque chose quand même qui s’y destine, puisque c’est tout entier autour…
+on ne dit pas à l’acte, bien sûr, puisque c’est moi qui l’ai dit le premier …à quelque chose quand même qui s’y destine, puisque c’est tout entier autour…
 
 <!-- id: s14-22-0028 -->
 
-> pas seulement de la prématuration biologique, pour autant qu’elle invoque cet appel fait au corps vers le lieu de l’acte …non pas seulement prématura­tion ou sa tentative : *pré-puberté,* nous dit-on, première pous­sée qui en sorte, en indique l’avenir et l’horizon, et à soi seule…
+pas seulement de la prématuration biologique, pour autant qu’elle invoque cet appel fait au corps vers le lieu de l’acte …non pas seulement prématura­tion ou sa tentative : *pré-puberté,* nous dit-on, première pous­sée qui en sorte, en indique l’avenir et l’horizon, et à soi seule…
 
 <!-- id: s14-22-0029 -->
 
-> mais non sans invoquer toute une conjonction, toute une circonstance sociale de répression, d’appréciation, tout au moins de référence discursive, de demande et de désir …déjà « *préforme* », fait arriver le sujet comme *petit(a),* comme sous­-produit de ce point central de difficulté, à la difficulté même.
+mais non sans invoquer toute une conjonction, toute une circonstance sociale de répression, d’appréciation, tout au moins de référence discursive, de demande et de désir …déjà « *préforme* », fait arriver le sujet comme *petit(a),* comme sous­-produit de ce point central de difficulté, à la difficulté même.
 
 <!-- id: s14-22-0030 -->
 
@@ -126,7 +126,7 @@ Peut-être la carence relative…
 
 <!-- id: s14-22-0031 -->
 
-> et qui, si même elle est *relative*, n’en reste pas moins radicale - je dis : peut-être …des psychanalystes, eu égard à leur tâche, tient-elle à ce qu’ils ne se posent pas eux-mêmes comme engagés à en éprouver à l’extrême *la difficulté de l’acte sexuel*.
+et qui, si même elle est *relative*, n’en reste pas moins radicale - je dis : peut-être …des psychanalystes, eu égard à leur tâche, tient-elle à ce qu’ils ne se posent pas eux-mêmes comme engagés à en éprouver à l’extrême *la difficulté de l’acte sexuel*.
 
 <!-- id: s14-22-0032 -->
 
@@ -154,9 +154,9 @@ Alors, reprenons au niveau le plus ras, comment ça se pose : si c’est un acte
 
 <!-- id: s14-22-0038 -->
 
-> à par­tir de quelque motion, dirons-nous, n’invoquant là que le re­gistre
->
-> du mouvement, quelque chose de mesurable dans la pesée d’un corps …il doit y avoir, si le signifiant se réduit à la plus simple chaîne, cette opposition que j’ai déjà inscrite sur deux petites plaques inattendues dans un de mes articles[^91], et que nous retraduirons ici par le - je ne dis même pas « *je* » -  « *suis un homme* », et son rapport avec «* suis une femme *». C’est-à-dire que nous revenons à ce qui tout à l’heure se présentait comme *le message sous une forme inversée*.
+à par­tir de quelque motion, dirons-nous, n’invoquant là que le re­gistre
+
+du mouvement, quelque chose de mesurable dans la pesée d’un corps …il doit y avoir, si le signifiant se réduit à la plus simple chaîne, cette opposition que j’ai déjà inscrite sur deux petites plaques inattendues dans un de mes articles[^91], et que nous retraduirons ici par le - je ne dis même pas « *je* » -  « *suis un homme* », et son rapport avec «* suis une femme *». C’est-à-dire que nous revenons à ce qui tout à l’heure se présentait comme *le message sous une forme inversée*.
 
 <!-- id: s14-22-0039 -->
 
@@ -168,7 +168,7 @@ Et qu’il faut bien, dès lors, que nous les interrogions tels qu’ils sont, c
 
 <!-- id: s14-22-0041 -->
 
-> com­me vous ne l’ignorez pas et comme articulé à chaque li­gne de FREUD …dans la *totale incapacité* de leur donner quelque corrélat sûr que ce soit : activité, passivité, par exemple, ne sont que des substituts dont, chaque fois qu’il les em­ploie, FREUD souligne le caractère, je ne dirai pas inadé­quat : suspect.
+com­me vous ne l’ignorez pas et comme articulé à chaque li­gne de FREUD …dans la *totale incapacité* de leur donner quelque corrélat sûr que ce soit : activité, passivité, par exemple, ne sont que des substituts dont, chaque fois qu’il les em­ploie, FREUD souligne le caractère, je ne dirai pas inadé­quat : suspect.
 
 <!-- id: s14-22-0042 -->
 
@@ -220,7 +220,7 @@ Car si « *je suis où je ne pense pas* » et si « *je pense où je ne sui
 
 <!-- id: s14-22-0054 -->
 
-> *quelles qu’aient été les prétentions des philosophes à détacher le* τὸ ϕρονεῖν \[to phronein : *je cogite*\], *du* τὸ χαίρειν \[to khairein : *je jouis*\] …c’est quand même là que mon destin même, au niveau du τὸ ϕρονεῖν \[to phronein : *je cogite*\], se joue. Le fait d’avoir dialogué avec SOCRATE, n’a jamais em­pêché personne d’avoir des obsessions qui chatouillent, qui dérangent grandement son τὸ ϕρονεῖν !
+*quelles qu’aient été les prétentions des philosophes à détacher le* τὸ ϕρονεῖν \[to phronein : *je cogite*\], *du* τὸ χαίρειν \[to khairein : *je jouis*\] …c’est quand même là que mon destin même, au niveau du τὸ ϕρονεῖν \[to phronein : *je cogite*\], se joue. Le fait d’avoir dialogué avec SOCRATE, n’a jamais em­pêché personne d’avoir des obsessions qui chatouillent, qui dérangent grandement son τὸ ϕρονεῖν !
 
 <!-- id: s14-22-0055 -->
 
@@ -356,11 +356,11 @@ En effet, pour des raisons qui tiennent… qui tiennent à ceci *qu’il n’y a
 
 <!-- id: s14-22-0088 -->
 
-> comme d’autres structuralistes qui fonctionnent dans d’autres champs vous l’ont rappelé …le rapport de l’hom­me et de la femme est soumis à des fonctions *d’échange*, qui impliquent du même coup une *valeur d’échange*, et que le lieu où quelque chose qui est d’usage, est frappé de cette négati­vation qui en fait une *valeur d’échange*, est ici…
+comme d’autres structuralistes qui fonctionnent dans d’autres champs vous l’ont rappelé …le rapport de l’hom­me et de la femme est soumis à des fonctions *d’échange*, qui impliquent du même coup une *valeur d’échange*, et que le lieu où quelque chose qui est d’usage, est frappé de cette négati­vation qui en fait une *valeur d’échange*, est ici…
 
 <!-- id: s14-22-0089 -->
 
-> pour des raisons prises dans la constitution naturelle de la fonction de copulation …est ici prise sur la jouissance masculine en tant, qu’elle, on sait où elle est. Enfin, on le croit ! C’est un petit organe qu’on peut attraper. C’est ce que fait *le bébé* tout de suite, avec *le plus grand aise*.
+pour des raisons prises dans la constitution naturelle de la fonction de copulation …est ici prise sur la jouissance masculine en tant, qu’elle, on sait où elle est. Enfin, on le croit ! C’est un petit organe qu’on peut attraper. C’est ce que fait *le bébé* tout de suite, avec *le plus grand aise*.
 
 <!-- id: s14-22-0090 -->
 
@@ -380,7 +380,7 @@ Si une femme, qui est un sujet quand même, dans *l’acte sexuel*…
 
 <!-- id: s14-22-0094 -->
 
-> *je dirai même plus, je viens d’articuler qu’il ne sau­rait y avoir d’acte sexuel si elle n’est pas, au départ, fondée comme sujet* …pour qu’une femme puisse prendre sa fonction de *valeur d’échange*, il faut qu’elle recouvre quelque chose qui est ce qui déjà est institué comme valeur et qui est ce que la psychanalyse révèle sous le nom de complexe de castration.
+*je dirai même plus, je viens d’articuler qu’il ne sau­rait y avoir d’acte sexuel si elle n’est pas, au départ, fondée comme sujet* …pour qu’une femme puisse prendre sa fonction de *valeur d’échange*, il faut qu’elle recouvre quelque chose qui est ce qui déjà est institué comme valeur et qui est ce que la psychanalyse révèle sous le nom de complexe de castration.
 
 <!-- id: s14-22-0095 -->
 
@@ -444,7 +444,7 @@ S’ils concernent l’acte sexuel, c’est parce que, au point où il est quest
 
 <!-- id: s14-22-0110 -->
 
-> et vous verrez que du fait qu’il y a ce point, il peut n’en être pas moins ques­tion au niveau du corps de la femme, mais que c’est par un second biais que nous pouvons l’aborder …étant donné que la prise, le modèle qui nous est donné, de ce qui va apparaître dans les tentatives de solution, est là à droite, dans *l’instauration de la valeur de jouissance :*
+et vous verrez que du fait qu’il y a ce point, il peut n’en être pas moins ques­tion au niveau du corps de la femme, mais que c’est par un second biais que nous pouvons l’aborder …étant donné que la prise, le modèle qui nous est donné, de ce qui va apparaître dans les tentatives de solution, est là à droite, dans *l’instauration de la valeur de jouissance :*
 
 <!-- id: s14-22-0111 -->
 
@@ -456,7 +456,7 @@ C’est-à-dire dans le fait qu’est négativée la fonction d’un *certain or
 
 <!-- id: s14-22-0113 -->
 
-> chez d’autres espèces animales elle l’assure tout *différemment*, elle l’assure *avec des cro­chets* par exemple …et rien ne peut nous assurer que dans cet organe il y ait quoi que ce soit qui concerne à proprement parler *la jouissance*.
+chez d’autres espèces animales elle l’assure tout *différemment*, elle l’assure *avec des cro­chets* par exemple …et rien ne peut nous assurer que dans cet organe il y ait quoi que ce soit qui concerne à proprement parler *la jouissance*.
 
 <!-- id: s14-22-0114 -->
 

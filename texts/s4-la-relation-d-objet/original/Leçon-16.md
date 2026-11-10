@@ -589,10 +589,10 @@ Ce n’est pas une raison parce que - tout civilisés, et même instruits que vo
 
 <!-- id: s4-16-0107 -->
 
-> et que je vais vous prouver sur moi-même : j’ai une cravate qui a un côté un peu plus pâle et un autre
-> un peu plus foncé, et pour savoir mettre le côté pâle en-dessous et le plus foncé devant, il faut que mentalement je fasse une permutation , et je me trompe à chaque fois
-> …qu’il faut que vous ignoriez l’ordre permutatif. C’est ce qui est en jeu dans tout ce que va construire le petit Hans,
-> et tout de suite vous allez en voir un exemple.
+et que je vais vous prouver sur moi-même : j’ai une cravate qui a un côté un peu plus pâle et un autre
+un peu plus foncé, et pour savoir mettre le côté pâle en-dessous et le plus foncé devant, il faut que mentalement je fasse une permutation , et je me trompe à chaque fois
+…qu’il faut que vous ignoriez l’ordre permutatif. C’est ce qui est en jeu dans tout ce que va construire le petit Hans,
+et tout de suite vous allez en voir un exemple.
 
 <!-- id: s4-16-0108 -->
 

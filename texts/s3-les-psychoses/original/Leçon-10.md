@@ -134,7 +134,7 @@ En effet, de deux choses l’une :
 
 <!-- id: s3-10-0033 -->
 
-> au bord desquelles nous nous maintenons, parce que nous ne faisons pas ici un cours de linguistique.
+au bord desquelles nous nous maintenons, parce que nous ne faisons pas ici un cours de linguistique.
 
 <!-- id: s3-10-0034 -->
 
@@ -194,7 +194,7 @@ C’est-à-dire qu’au moins il y ait deux conflits en cause : un actuel et un
 
 <!-- id: s3-10-0048 -->
 
-> du matériel conservé dans l’inconscient comme lié au conflit ancien, et qui vit là conservé à titre de signifiant en puissance, de signifiant *virtuel*, pour être pris dans le signifié du conflit actuel et lui servir de langage, c’est-à-dire de *symptôme*
+du matériel conservé dans l’inconscient comme lié au conflit ancien, et qui vit là conservé à titre de signifiant en puissance, de signifiant *virtuel*, pour être pris dans le signifié du conflit actuel et lui servir de langage, c’est-à-dire de *symptôme*
 
 <!-- id: s3-10-0049 -->
 
@@ -206,7 +206,7 @@ Dès lors quand nous abordons les délires avec l’idée qu’ils puissent êtr
 
 <!-- id: s3-10-0051 -->
 
-> dans l’ordre de la découverte freudienne et du mode de pensée qu’elle nous permet concernant *ces symptômes*
+dans l’ordre de la découverte freudienne et du mode de pensée qu’elle nous permet concernant *ces symptômes*
 
 <!-- id: s3-10-0052 -->
 
@@ -230,7 +230,7 @@ Sans doute aussi certaines choses, on le voit bien dans un écrit comme celui de
 
 <!-- id: s3-10-0057 -->
 
-> non seulement qu’il n’est pas impensable de penser, mais il est dès lors tout à fait cohérent de le penser
+non seulement qu’il n’est pas impensable de penser, mais il est dès lors tout à fait cohérent de le penser
 
 <!-- id: s3-10-0058 -->
 
@@ -326,9 +326,9 @@ Et la dernière fois je vous l’ai rappelé, et je vous l’ai montré en vous 
 
 <!-- id: s3-10-0081 -->
 
-> et *celui qui écrit* et qui nous fait sa confidence, en tant que nous savons bien
->
-> qu’ils ne sont pas sans rapport, sans cela nous ne le qualifierions pas de fou
+et *celui qui écrit* et qui nous fait sa confidence, en tant que nous savons bien
+
+qu’ils ne sont pas sans rapport, sans cela nous ne le qualifierions pas de fou
 
 <!-- id: s3-10-0082 -->
 
@@ -336,7 +336,11 @@ Et la dernière fois je vous l’ai rappelé, et je vous l’ai montré en vous 
 
 <!-- id: s3-10-0083 -->
 
-> « *Tout non-sens se soulève, s’annule, se transpose*… »
+<div class="text-quotation">
+
+« *Tout non-sens se soulève, s’annule, se transpose*… »
+
+</div>
 
 <!-- id: s3-10-0084 -->
 
@@ -384,7 +388,11 @@ Je dirais que le fait de le mettre tout de suite d’emblée dans la parenthèse
 
 <!-- id: s3-10-0095 -->
 
-> « *Est-ce que vous n’avez pas peur de temps en temps de devenir fou ?* »
+<div class="text-quotation">
+
+« *Est-ce que vous n’avez pas peur de temps en temps de devenir fou ?* »
+
+</div>
 
 <!-- id: s3-10-0096 -->
 
@@ -428,7 +436,7 @@ Mais *l’unité* est là, bien fondamentale, elle domine et, je vous l’ai dit
 
 <!-- id: s3-10-0106 -->
 
-> c’est même une des preuves de son existence pour certains, et nous savons par ailleurs combien il est difficile de saisir ce qu’est pour la plupart de nos contemporains le contenu précis
+c’est même une des preuves de son existence pour certains, et nous savons par ailleurs combien il est difficile de saisir ce qu’est pour la plupart de nos contemporains le contenu précis
 
 <!-- id: s3-10-0107 -->
 
@@ -440,11 +448,15 @@ C’est qu’il nous le dit bien : il est un disciple de l’*Aufklärung*, il e
 
 <!-- id: s3-10-0109 -->
 
-> « *C’est un fait qui est comme cela et dont j’ai des preuves des plus directes. Ça ne peut être que Dieu si ce mot de Dieu*
->
-> *a un sens, mais je n’avais jamais pris ce mot Dieu au sérieux jusque-là, et à partir du moment où j’ai éprouvé ces choses,*
->
-> *j’ai fait l’expérience de Dieu.* »
+<div class="text-quotation">
+
+« *C’est un fait qui est comme cela et dont j’ai des preuves des plus directes. Ça ne peut être que Dieu si ce mot de Dieu*
+
+*a un sens, mais je n’avais jamais pris ce mot Dieu au sérieux jusque-là, et à partir du moment où j’ai éprouvé ces choses,*
+
+*j’ai fait l’expérience de Dieu.* »
+
+</div>
 
 <!-- id: s3-10-0110 -->
 
@@ -452,9 +464,13 @@ Et ce n’est pas là l’expérience qui est la garantie de Dieu, mais c’est 
 
 <!-- id: s3-10-0111 -->
 
-> « *Il faut bien que je l’aie pris quelque part, et comme je ne l’ai pas pris*
->
-> *dans mon bagage de préjugés d’enfance, mon expérience est vierge*. »
+<div class="text-quotation">
+
+« *Il faut bien que je l’aie pris quelque part, et comme je ne l’ai pas pris*
+
+*dans mon bagage de préjugés d’enfance, mon expérience est vierge*. »
+
+</div>
 
 <!-- id: s3-10-0112 -->
 
@@ -462,21 +478,25 @@ Et c’est bien là qu’il introduit des distinctions. Et là il est très fin,
 
 <!-- id: s3-10-0113 -->
 
-> « *Attention* - dit SCHREBER - *ce n’est pas cela du tout, on voit bien là que je ne suis pas un délirant comme disent les médecins parce que je suis tout à fait capable de réduire les choses, non seulement à ce que dit l’entourage, mais même au bon sens.*
->
-> *Ainsi par exemple je distingue fort bien, naturellement qu’il y a des phénomènes d’une nature extrêmement différente*
->
-> \- dit SCHREBER - *il arrive que j’entende des choses comme le bruit du bateau à vapeur qui avance à l’aide de chaînes, ce qui fait énormément de bruit : c’est tout à fait valable ce que nous disent ces psychiatres qui prétendent y trouver quelque chose d’explicatif. Bien entendu les choses que je pense viennent en quelque sorte s’inscrire dans les intervalles réguliers du bruit monotone de la chaîne du bateau, ou même du bruit du train. Comme tout le monde je module les pensées qui me tournent*
->
-> *dans la tête sur le bruit que nous connaissons bien quand nous sommes dans un wagon de chemin de fer, mais bien entendu*
->
-> *cela prend beaucoup d’importance : à un moment les pensées que j’éprouve trouvent là une sorte de support qui leur donne*
->
-> *ce faux relief, mais je distingue très bien les choses. Cela je l’ai, mais ce que j’ai et dont je vous parle, ce sont des voix*
->
-> *qui elles ne peuvent pas être quelque chose à laquelle vous n’accordiez pas sa portée et son sens, c’est tout à fait différent,*
->
-> *ce sont des choses que je distingue comme telles.* »
+<div class="text-quotation">
+
+« *Attention* - dit SCHREBER - *ce n’est pas cela du tout, on voit bien là que je ne suis pas un délirant comme disent les médecins parce que je suis tout à fait capable de réduire les choses, non seulement à ce que dit l’entourage, mais même au bon sens.*
+
+*Ainsi par exemple je distingue fort bien, naturellement qu’il y a des phénomènes d’une nature extrêmement différente*
+
+\- dit SCHREBER - *il arrive que j’entende des choses comme le bruit du bateau à vapeur qui avance à l’aide de chaînes, ce qui fait énormément de bruit : c’est tout à fait valable ce que nous disent ces psychiatres qui prétendent y trouver quelque chose d’explicatif. Bien entendu les choses que je pense viennent en quelque sorte s’inscrire dans les intervalles réguliers du bruit monotone de la chaîne du bateau, ou même du bruit du train. Comme tout le monde je module les pensées qui me tournent*
+
+*dans la tête sur le bruit que nous connaissons bien quand nous sommes dans un wagon de chemin de fer, mais bien entendu*
+
+*cela prend beaucoup d’importance : à un moment les pensées que j’éprouve trouvent là une sorte de support qui leur donne*
+
+*ce faux relief, mais je distingue très bien les choses. Cela je l’ai, mais ce que j’ai et dont je vous parle, ce sont des voix*
+
+*qui elles ne peuvent pas être quelque chose à laquelle vous n’accordiez pas sa portée et son sens, c’est tout à fait différent,*
+
+*ce sont des choses que je distingue comme telles.* »
+
+</div>
 
 <!-- id: s3-10-0114 -->
 
@@ -492,11 +512,15 @@ Je ne dis pas que ce soit, du point de vue théologique, la meilleure façon d�
 
 <!-- id: s3-10-0117 -->
 
-> « *Depuis que l’on croit aux Dieux, on est persuadé qu’ils règlent les affaires humaines, que ces deux aspects de la foi sont connexes... La foi est née de l’observation mille fois répétée de ce que la plupart de nos actes n’atteignent pas leur but,*
->
-> *il reste très nécessairement une marge entre nos desseins les mieux conçus et leur accomplissement,*
->
-> *et ainsi nous demeurons dans l’incertitude, mère de l’espérance et de la crainte.* »
+<div class="text-quotation">
+
+« *Depuis que l’on croit aux Dieux, on est persuadé qu’ils règlent les affaires humaines, que ces deux aspects de la foi sont connexes... La foi est née de l’observation mille fois répétée de ce que la plupart de nos actes n’atteignent pas leur but,*
+
+*il reste très nécessairement une marge entre nos desseins les mieux conçus et leur accomplissement,*
+
+*et ainsi nous demeurons dans l’incertitude, mère de l’espérance et de la crainte.* »
+
+</div>
 
 <!-- id: s3-10-0118 -->
 
@@ -596,9 +620,9 @@ C’est là vraiment quelque chose de tout à fait caractéristique et fondament
 
 <!-- id: s3-10-0142 -->
 
-> et je dirai même qu’il fait toutes sortes de développements assez agréablement rationalisés,
->
-> pour bien nous en montrer à la fois les dimensions de la certitude, et le mode d’explication
+et je dirai même qu’il fait toutes sortes de développements assez agréablement rationalisés,
+
+pour bien nous en montrer à la fois les dimensions de la certitude, et le mode d’explication
 
 <!-- id: s3-10-0143 -->
 
@@ -630,9 +654,9 @@ Il trouve néanmoins cela un peu sophistiqué, parce qu’il reste cette chose i
 
 <!-- id: s3-10-0150 -->
 
-> comme tout ce qui est à l’intérieur sera progressivement passé à l’extérieur,
->
-> et que d’autre part c’est noté quelque part sur de petites fiches
+comme tout ce qui est à l’intérieur sera progressivement passé à l’extérieur,
+
+et que d’autre part c’est noté quelque part sur de petites fiches
 
 <!-- id: s3-10-0151 -->
 
@@ -656,7 +680,11 @@ Il y a une discussion des rapports de Dieu avec les jeux de hasard qui est d’u
 
 <!-- id: s3-10-0156 -->
 
-> « *Dieu peut-il prévoir le numéro qui va sortir à la loterie ?* ».
+<div class="text-quotation">
+
+« *Dieu peut-il prévoir le numéro qui va sortir à la loterie ?* ».
+
+</div>
 
 <!-- id: s3-10-0157 -->
 
