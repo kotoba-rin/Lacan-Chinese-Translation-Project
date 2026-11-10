@@ -2,6 +2,7 @@
 title: 拉康《文集》（Écrits）的1966年出版
 aliases:
   - "Écrits"
+  - "Ecrits"
 type: knowledge-card
 verification: 已核实
 tags:

@@ -1,5 +1,9 @@
 ---
 title: Mathème：数学式、可教授性与真理维度
+aliases:
+  - "mathème"
+  - "matheme"
+  - "数学式"
 type: knowledge-card
 verification: 已核实
 tags:

@@ -1,5 +1,11 @@
 ---
 title: Kenosis：虚己与自我倾空
+aliases:
+  - "kenosis"
+  - "kénōsis"
+  - "κένωσις"
+  - "虚己"
+  - "自我倾空"
 type: knowledge-card
 verification: 已核实
 tags:

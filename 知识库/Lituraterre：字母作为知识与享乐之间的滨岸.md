@@ -1,5 +1,8 @@
 ---
 title: Lituraterre：字母作为知识与享乐之间的滨岸
+aliases:
+  - "Lituraterre"
+  - "文字域"
 type: knowledge-card
 verification: 已核实
 tags:

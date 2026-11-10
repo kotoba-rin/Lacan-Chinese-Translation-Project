@@ -1,5 +1,9 @@
 ---
 title: R.S.I.：三界与博罗米结的三项定位
+aliases:
+  - "R.S.I."
+  - "RSI"
+  - "R S I"
 type: knowledge-card
 verification: 已核实
 tags:
