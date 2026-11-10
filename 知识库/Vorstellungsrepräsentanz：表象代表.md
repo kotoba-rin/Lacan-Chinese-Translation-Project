@@ -1,5 +1,12 @@
 ---
 title: Vorstellungsrepräsentanz：表象代表
+aliases:
+  - "Vorstellungsrepräsentanz"
+  - "表象代表"
+  - "观念代表"
+  - "表象代理"
+  - "Vorstellungsrepraesentanz"
+  - "Vorstellungsreprasentanz"
 type: knowledge-card
 verification: 部分准确
 tags:

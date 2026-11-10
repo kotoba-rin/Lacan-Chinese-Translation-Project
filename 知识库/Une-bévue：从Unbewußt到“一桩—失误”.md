@@ -1,5 +1,10 @@
 ---
 title: Une-bévue：从 Unbewußt 到“一桩—失误”
+aliases:
+  - "une-bévue"
+  - "一桩—失误"
+  - "une-bevue"
+  - "一桩-失误"
 type: knowledge-card
 verification: 部分准确
 tags:

@@ -1,5 +1,8 @@
 ---
 title: 鲁本斯《劫夺留西帕斯的女儿》（L’Enlèvement des filles de Leucippe）
+aliases:
+  - "Raub der Töchter des Leukippos"
+  - "The Rape of the Daughters of Leucippus"
 type: knowledge-card
 verification: 已核实
 tags:

@@ -1,5 +1,9 @@
 ---
 title: 凝视作为对象a：眼睛、迷惑与欲望的遮蔽
+aliases:
+  - "凝视作为对象a"
+  - "凝视作为客体a"
+  - "凝视作为对象 a"
 type: knowledge-card
 verification: 已核实
 tags:

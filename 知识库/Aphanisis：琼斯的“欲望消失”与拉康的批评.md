@@ -1,5 +1,8 @@
 ---
 title: Aphanisis：琼斯的“欲望消失”与拉康的批评
+aliases:
+  - "aphanisis"
+  - "琼斯的欲望消失"
 type: knowledge-card
 verification: 已核实
 tags:

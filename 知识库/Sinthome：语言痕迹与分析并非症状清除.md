@@ -1,5 +1,7 @@
 ---
 title: Sinthome：语言痕迹与分析并非症状清除
+aliases:
+  - "sinthome"
 type: knowledge-card
 verification: 已核实
 tags:

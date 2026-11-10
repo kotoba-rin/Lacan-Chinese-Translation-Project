@@ -1,5 +1,9 @@
 ---
 title: Ex falso quodlibet：爆炸原理
+aliases:
+  - "爆炸原理"
+  - "ex falso quodlibet"
+  - "ex falso sequitur quodlibet"
 type: knowledge-card
 verification: 已核实
 tags:

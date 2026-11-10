@@ -1,5 +1,8 @@
 ---
 title: Ablehnung、Verwerfung 与 Versagung
+aliases:
+  - "Ablehnung"
+  - "Versagung"
 type: knowledge-card
 verification: 部分准确
 tags:

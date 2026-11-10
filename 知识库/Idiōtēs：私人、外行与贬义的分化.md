@@ -1,5 +1,9 @@
 ---
 title: Idiōtēs：私人、外行与贬义的分化
+aliases:
+  - "ἰδιώτης"
+  - "idiōtēs"
+  - "idiotes"
 type: knowledge-card
 verification: 部分准确
 tags:

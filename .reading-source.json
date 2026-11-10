@@ -3,7 +3,7 @@
   "scanned_files": 1728,
   "schema_version": 1,
   "source_branch": "main",
-  "source_revision": "470d95e627a475bcf469da6dbc06a9c8a9f1233a",
+  "source_revision": "6e13d262ac5897d5f91da4654d0e48ffb60e6d42",
   "transform": "remove-commentary-v1",
   "transformed_files": 57
 }

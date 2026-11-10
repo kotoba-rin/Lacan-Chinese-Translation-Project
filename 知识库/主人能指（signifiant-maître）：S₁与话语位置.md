@@ -1,5 +1,9 @@
 ---
 title: 主人能指（signifiant-maître）：S₁与话语位置
+aliases:
+  - "signifiant-maître"
+  - "主人能指"
+  - "signifiant-maitre"
 type: knowledge-card
 verification: 已核实
 tags:

@@ -1,5 +1,9 @@
 ---
 title: Fading：主体在能指中的消隐
+aliases:
+  - "fading"
+  - "主体淡出"
+  - "主体消隐"
 type: knowledge-card
 verification: 已核实
 tags:

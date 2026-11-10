@@ -1,5 +1,11 @@
 ---
 title: Einziger Zug 与一元特征
+aliases:
+  - "ein einziger Zug"
+  - "Einziger Zug"
+  - "trait unaire"
+  - "一元特征"
+  - "单一笔画"
 type: knowledge-card
 verification: 部分准确
 tags:

@@ -1,5 +1,9 @@
 ---
 title: 分析行动、acting-out与“回应无意识”
+aliases:
+  - "action analytique"
+  - "分析行动"
+  - "行动呈现"
 type: knowledge-card
 verification: 已核实
 tags:

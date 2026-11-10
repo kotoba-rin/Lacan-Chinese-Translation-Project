@@ -1,5 +1,7 @@
 ---
 title: 安瑟伦《Proslogion》：愚人与不可设想有比之更大者
+aliases:
+  - "Fides quaerens intellectum"
 type: knowledge-card
 verification: 已核实
 tags:

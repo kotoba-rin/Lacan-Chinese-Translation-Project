@@ -6,9 +6,11 @@ from __future__ import annotations
 import argparse
 from dataclasses import dataclass
 from datetime import date
+import json
 from pathlib import Path
 import re
 import sys
+import unicodedata
 from typing import Iterable
 
 from taxonomy import (
@@ -69,8 +71,15 @@ def arguments() -> argparse.Namespace:
 
 
 def unquote(value: str) -> str:
+    if value.startswith('"'):
+        try:
+            parsed = json.loads(value)
+            if isinstance(parsed, str):
+                return parsed
+        except ValueError:
+            pass
     if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
-        return value[1:-1]
+        return value[1:-1].replace("''", "'") if value[0] == "'" else value[1:-1]
     return value
 
 
@@ -165,9 +174,10 @@ def validate_card(
     errors: list[str] = []
     metadata = card.metadata
 
-    if list(metadata) != REQUIRED_KEYS:
+    expected_keys = ["title", "aliases", *REQUIRED_KEYS[1:]] if "aliases" in metadata else REQUIRED_KEYS
+    if list(metadata) != expected_keys:
         errors.append(
-            "frontmatter keys/order must be exactly: " + ", ".join(REQUIRED_KEYS)
+            "frontmatter keys/order must be: title, optional aliases, " + ", ".join(REQUIRED_KEYS[1:])
         )
     if metadata.get("type") != "knowledge-card":
         errors.append("type must be knowledge-card")
@@ -175,6 +185,21 @@ def validate_card(
     title = metadata.get("title")
     if not isinstance(title, str) or not title.strip():
         errors.append("title must be a non-empty scalar")
+
+    if "aliases" in metadata:
+        aliases = metadata["aliases"]
+        if not isinstance(aliases, list) or not 1 <= len(aliases) <= 32:
+            errors.append("aliases must be a non-empty list with at most 32 names")
+        else:
+            normalized = set()
+            for alias in aliases:
+                if not isinstance(alias, str) or not alias.strip() or len(alias) > 300 or any(ord(char) < 32 for char in alias):
+                    errors.append("each alias must be a non-empty single-line name of at most 300 characters")
+                    continue
+                key = unicodedata.normalize("NFKC", alias).strip().casefold()
+                if key in normalized:
+                    errors.append("aliases must not contain duplicate names")
+                normalized.add(key)
 
     verification = metadata.get("verification")
     if verification not in VERIFICATION_VALUES:

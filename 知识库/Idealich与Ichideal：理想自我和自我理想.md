@@ -1,5 +1,12 @@
 ---
 title: Idealich 与 Ichideal：理想自我和自我理想
+aliases:
+  - "Idealich"
+  - "Ideal-Ich"
+  - "ideales Ich"
+  - "Ichideal"
+  - "理想自我"
+  - "自我理想"
 type: knowledge-card
 verification: 已核实
 tags:

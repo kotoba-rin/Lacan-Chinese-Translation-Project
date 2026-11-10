@@ -1,5 +1,7 @@
 ---
 title: Passio：激情、受动与苦难
+aliases:
+  - "passio"
 type: knowledge-card
 verification: 部分准确
 tags:
