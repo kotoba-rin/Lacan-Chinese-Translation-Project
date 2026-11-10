@@ -1,5 +1,9 @@
 ---
 title: Subversion与Git：集中式、分布式和托管平台
+aliases:
+  - "Apache Subversion"
+  - "SVN"
+  - "Git"
 type: knowledge-card
 verification: 部分准确
 tags:

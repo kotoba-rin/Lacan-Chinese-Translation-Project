@@ -1,5 +1,9 @@
 ---
 title: Verwerfung 与 forclusion：遭拒斥者在实在中的返回
+aliases:
+  - "Verwerfung"
+  - "拒斥"
+  - "forclusion"
 type: knowledge-card
 verification: 已核实
 tags:

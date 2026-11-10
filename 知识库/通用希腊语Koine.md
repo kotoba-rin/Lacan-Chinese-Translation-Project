@@ -1,5 +1,11 @@
 ---
 title: 通用希腊语 Koine
+aliases:
+  - "通用希腊语"
+  - "koinē"
+  - "κοινή"
+  - "κοινὴ διάλεκτος"
+  - "koinè grecque"
 type: knowledge-card
 verification: 已核实
 tags:

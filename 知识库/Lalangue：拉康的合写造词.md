@@ -1,5 +1,7 @@
 ---
 title: Lalangue：拉康的合写造词
+aliases:
+  - "lalangue"
 type: knowledge-card
 verification: 部分准确
 tags:

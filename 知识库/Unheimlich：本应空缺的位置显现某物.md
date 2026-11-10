@@ -1,5 +1,10 @@
 ---
 title: Unheimlich：本应空缺的位置显现某物
+aliases:
+  - "Unheimlich"
+  - "令人不安的陌异"
+  - "诡异"
+  - "恐怖的熟悉"
 type: knowledge-card
 verification: 已核实
 tags:

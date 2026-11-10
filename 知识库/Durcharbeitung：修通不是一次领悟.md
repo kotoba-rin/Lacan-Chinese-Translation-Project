@@ -1,5 +1,11 @@
 ---
 title: Durcharbeitung：修通不是一次领悟
+aliases:
+  - "Durcharbeitung"
+  - "修通"
+  - "贯通"
+  - "working-through"
+  - "working through"
 type: knowledge-card
 verification: 部分准确
 tags:

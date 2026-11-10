@@ -1,5 +1,8 @@
 ---
 title: Linguisterie：精神分析与语言学的边界
+aliases:
+  - "linguisterie"
+  - "语言学术"
 type: knowledge-card
 verification: 已核实
 tags:

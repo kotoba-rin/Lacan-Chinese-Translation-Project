@@ -1,5 +1,7 @@
 ---
 title: 格拉西安《领圣体手册》与 Corpus Christi
+aliases:
+  - "El Comulgatorio"
 type: knowledge-card
 verification: 部分准确
 tags:

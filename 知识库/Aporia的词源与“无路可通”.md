@@ -1,5 +1,8 @@
 ---
 title: Aporia 的词源与“无路可通”
+aliases:
+  - "ἀπορία"
+  - "aporia"
 type: knowledge-card
 verification: 需更正
 tags:

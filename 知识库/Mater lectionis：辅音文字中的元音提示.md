@@ -1,5 +1,9 @@
 ---
 title: Mater lectionis：辅音文字中的元音提示
+aliases:
+  - "mater lectionis"
+  - "matres lectionis"
+  - "阅读之母"
 type: knowledge-card
 verification: 已核实
 tags:

@@ -1,5 +1,9 @@
 ---
 title: aumônier：机构中的宗教辅导人员
+aliases:
+  - "aumônier"
+  - "aumonier"
+  - "宗教辅导人员"
 type: knowledge-card
 verification: 部分准确
 tags:

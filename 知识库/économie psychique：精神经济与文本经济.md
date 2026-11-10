@@ -1,5 +1,9 @@
 ---
 title: économie psychique：精神经济与文本经济
+aliases:
+  - "économie psychique"
+  - "精神经济"
+  - "economie psychique"
 type: knowledge-card
 verification: 部分准确
 tags:

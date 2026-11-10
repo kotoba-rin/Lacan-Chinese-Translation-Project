@@ -1,5 +1,9 @@
 ---
 title: Orthopédie：矫形术的词源与拉康的教育隐喻
+aliases:
+  - "矫形术"
+  - "Orthopédie"
+  - "Orthopedie"
 type: knowledge-card
 verification: 已核实
 tags:

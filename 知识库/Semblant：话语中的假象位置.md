@@ -1,5 +1,8 @@
 ---
 title: Semblant：话语中的假象位置
+aliases:
+  - "semblant"
+  - "假象"
 type: knowledge-card
 verification: 已核实
 tags:

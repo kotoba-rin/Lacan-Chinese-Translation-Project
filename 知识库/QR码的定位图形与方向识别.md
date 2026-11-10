@@ -1,5 +1,9 @@
 ---
 title: QR 码的定位图形与方向识别
+aliases:
+  - "QR 码"
+  - "QR码"
+  - "QR Code"
 type: knowledge-card
 verification: 部分准确
 tags:

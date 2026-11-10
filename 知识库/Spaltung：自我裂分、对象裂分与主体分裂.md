@@ -1,5 +1,12 @@
 ---
 title: Spaltung：自我裂分、对象裂分与主体分裂
+aliases:
+  - "Spaltung"
+  - "自我裂分"
+  - "对象裂分"
+  - "主体分裂"
+  - "Ichspaltung"
+  - "refente"
 type: knowledge-card
 verification: 部分准确
 tags:

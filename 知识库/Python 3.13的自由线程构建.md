@@ -1,5 +1,9 @@
 ---
 title: Python 3.13 的自由线程构建
+aliases:
+  - "free-threaded build"
+  - "Free-threaded CPython"
+  - "自由线程构建"
 type: knowledge-card
 verification: 需更正
 tags:

@@ -1,5 +1,11 @@
 ---
 title: 依附型对象选择与 anaclitic
+aliases:
+  - "anaclitic"
+  - "anaclitique"
+  - "Anlehnung"
+  - "依附型对象选择"
+  - "依托型对象选择"
 type: knowledge-card
 verification: 需更正
 tags:

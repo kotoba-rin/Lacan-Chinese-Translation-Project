@@ -1,5 +1,12 @@
 ---
 title: Tuché 与 automaton：错失的遭遇与能指返回
+aliases:
+  - "tuchē"
+  - "automaton"
+  - "τύχη"
+  - "αὐτόματον"
+  - "tuché"
+  - "tuche"
 type: knowledge-card
 verification: 已核实
 tags:

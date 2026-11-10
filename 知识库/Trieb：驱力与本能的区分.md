@@ -1,5 +1,10 @@
 ---
 title: Trieb：驱力与本能的区分
+aliases:
+  - "Trieb"
+  - "Triebe"
+  - "pulsion"
+  - "驱力"
 type: knowledge-card
 verification: 已核实
 tags:

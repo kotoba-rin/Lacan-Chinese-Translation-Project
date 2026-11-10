@@ -1,5 +1,8 @@
 ---
 title: Osculation：几何学中的高阶接触
+aliases:
+  - "osculation"
+  - "高阶接触"
 type: knowledge-card
 verification: 已核实
 tags:

@@ -1,5 +1,8 @@
 ---
 title: 紧致性：数学定义与《Encore》的借用
+aliases:
+  - "紧致性"
+  - "compacité"
 type: knowledge-card
 verification: 部分准确
 tags:
