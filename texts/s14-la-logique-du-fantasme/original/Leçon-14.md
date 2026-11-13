@@ -68,11 +68,11 @@ Mais bien sûr, la situation peut être différente pour quiconque connaît la p
 
 <!-- id: s14-14-0016 -->
 
-### non sans sa­voir quelles sont les ramifications de ce dont je me sers, dans l’ensemble de la théorie mathématique,
+non sans sa­voir quelles sont les ramifications de ce dont je me sers, dans l’ensemble de la théorie mathématique,
 
 <!-- id: s14-14-0017 -->
 
-### et non s’en m’être as­suré que pour quiconque voudrait en faire un usage plus appro­fondi, il trouverait – dans l’ensemble de la théorie, aux points précis que j’ai choisis pour fonder telle structure - il trouve­rait tous les prolongements qui lui permettraient d’y donner une juste extension.
+et non s’en m’être as­suré que pour quiconque voudrait en faire un usage plus appro­fondi, il trouverait – dans l’ensemble de la théorie, aux points précis que j’ai choisis pour fonder telle structure - il trouve­rait tous les prolongements qui lui permettraient d’y donner une juste extension.
 
 <!-- id: s14-14-0018 -->
 

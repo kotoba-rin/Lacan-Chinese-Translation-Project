@@ -4,7 +4,7 @@ type: index
 tags:
   - 索引/知识库
 created: 2026-07-28
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 # 拉康中文翻译项目知识库
@@ -26,6 +26,8 @@ updated: 2026-11-07
 <a id="recent-cards"></a>
 
 ## 最近新增
+
+2026-11-11 补充既有卡[[知识库/希伯来语yada与圣经中的“认识”.md|希伯来语 yadaʿ 与《圣经》中的“认识”]]：核对《创世记》4:1与 BDB 词典的性关系义项，限定其适用语境；补充第XIV期第十三课及 S19b 第二、第五课的来源和译文关联，与“性关系不存在”卡建立双向辨析链接。未改译文及原注释。
 
 2026-11-07 补充既有卡[[知识库/陶罐、空与从无中创造.md|陶罐、空与从无中创造]]：核对芥末罐、空与命名的关系，注明第VII期第二课、第九课及第XVI期第一课的不同论述层次；补入 Bornibus／borner 双关的法文出处、品牌官网与词典来源，追加4条译文分段关联。不新建重复卡，未改译文和原注释。
 
@@ -1297,13 +1299,13 @@ updated: 2026-11-07
 | XI · *Les quatre concepts fondamentaux de la psychanalyse* | 22 | 22 | [定位](#seminar-xi) | [译文](../texts/s11-les-quatre-concepts-fondamentaux-de-la-psychanalyse/translation/) |
 | XII · *Problèmes cruciaux pour la psychanalyse* | 16 | 16 | [定位](#seminar-xii) | [译文](../texts/s12-problemes-cruciaux-pour-la-psychanalyse/translation/) |
 | XIII · *L'objet de la psychanalyse* | 17 | 17 | [定位](#seminar-xiii) | [译文](../texts/s13-l-objet-de-la-psychanalyse/translation/) |
-| XIV · *La logique du fantasme* | 70 | 70 | [定位](#seminar-xiv) | [译文](../texts/s14-la-logique-du-fantasme/translation/) |
+| XIV · *La logique du fantasme* | 71 | 71 | [定位](#seminar-xiv) | [译文](../texts/s14-la-logique-du-fantasme/translation/) |
 | XV · *L'acte psychanalytique* | 21 | 21 | [定位](#seminar-xv) | [译文](../texts/s15-l-acte-psychanalytique/translation/) |
 | XVI · *D'un Autre à l'autre* | 23 | 23 | [定位](#seminar-xvi) | [译文](../texts/s16-d-un-autre-a-l-autre/translation/) |
 | XVII · *L'envers de la psychanalyse* | 81 | 42 | [定位](#seminar-xvii) | [译文](../texts/s17-l-envers-de-la-psychanalyse/translation/) |
 | XVIII · *D'un discours qui ne serait pas du semblant* | 11 | 11 | [定位](#seminar-xviii) | [译文](../texts/s18-d-un-discours-qui-ne-serait-pas-du-semblant/translation/) |
 | XIX · *... ou pire* | 27 | 27 | [定位](#seminar-xix) | [译文](../texts/s19-ou-pire/translation/) |
-| XIXb · *Le savoir du psychanalyste* | 112 | 70 | [定位](#seminar-xixb) | [译文](../texts/s19b-le-savoir-du-psychanalyste/translation/) |
+| XIXb · *Le savoir du psychanalyste* | 112 | 71 | [定位](#seminar-xixb) | [译文](../texts/s19b-le-savoir-du-psychanalyste/translation/) |
 | XX · *Encore* | 21 | 21 | [定位](#seminar-xx) | [译文](../texts/s20-encore/translation/) |
 | XXI · *Les non-dupes errent* | 13 | 12 | [定位](#seminar-xxi) | [译文](../texts/s21-les-non-dupes-errent/translation/) |
 | XXII · *R.S.I.* | 15 | 15 | [定位](#seminar-xxii) | [译文](../texts/s22-r-s-i/translation/) |
@@ -1864,7 +1866,7 @@ updated: 2026-11-07
 
 <a id="seminar-xiv"></a>
 <details>
-<summary><strong>研讨班 XIV · <em>La logique du fantasme</em></strong>（70 张；70 张已有知识卡互链）</summary>
+<summary><strong>研讨班 XIV · <em>La logique du fantasme</em></strong>（71 张；71 张已有知识卡互链）</summary>
 
 ../texts/s14-la-logique-du-fantasme/translation/
 
@@ -1901,6 +1903,7 @@ updated: 2026-11-07
 - [古希腊语中的“存在”：einai、hyparchein与 existence](<./古希腊语中的“存在”：einai、hyparchein与existence.md>)
 - [否定神学：否定规定不等于否认上帝](<./否定神学：否定规定不等于否认上帝.md>)
 - [安瑟伦《Proslogion》：愚人与不可设想有比之更大者](<./安瑟伦《Proslogion》：愚人与不可设想有比之更大者.md>)
+- [希伯来语 yadaʿ 与《圣经》中的“认识”](<./希伯来语yada与圣经中的“认识”.md>)
 - [帕斯卡《纪念文》：哲学家的上帝与信仰的上帝](<./帕斯卡《纪念文》：哲学家的上帝与信仰的上帝.md>)
 - [幻想的语法结构与公理位置](<./幻想的语法结构与公理位置.md>)
 - [康德道德律的自律性](<./康德道德律的自律性.md>)
@@ -2151,7 +2154,7 @@ updated: 2026-11-07
 
 <a id="seminar-xixb"></a>
 <details>
-<summary><strong>研讨班 XIXb · <em>Le savoir du psychanalyste</em></strong>（112 张；70 张已有知识卡互链）</summary>
+<summary><strong>研讨班 XIXb · <em>Le savoir du psychanalyste</em></strong>（112 张；71 张已有知识卡互链）</summary>
 
 ../texts/s19b-le-savoir-du-psychanalyste/translation/
 
@@ -2460,11 +2463,11 @@ updated: 2026-11-07
 
 ## 全库概览与关联审计
 
-统计日期：2026-11-07。以下只统计卡片中已有的显式链接，未将共享标签或相邻主题视为互链。
+统计日期：2026-11-11。以下只统计卡片中已有的显式链接，未将共享标签或相邻主题视为互链。
 
-- 551 张卡有译文关联，共 2,964 条精确分段关系与 63 条篇章关系（每张卡内去重）；其中 530 张卡具有精确分段链接。书籍篇章出处另在来源中注明证据分段。
-- 460 张卡已有知识卡链接，共 735 组双向关系；另有 0 条单向关系，未计作双向互链。
-- 92 张卡尚无知识卡互链。是否补链应根据具体内容判断；没有互链本身不构成结构错误。
+- 551 张卡有译文关联，共 2,966 条精确分段关系与 63 条篇章关系（每张卡内去重）；其中 530 张卡具有精确分段链接。书籍篇章出处另在来源中注明证据分段。
+- 461 张卡已有知识卡链接，共 736 组双向关系；另有 0 条单向关系，未计作双向互链。
+- 91 张卡尚无知识卡互链。是否补链应根据具体内容判断；没有互链本身不构成结构错误。
 - 阿卢什等非研讨班文本使用各自编号与篇章结构，不应因此赋予研讨班标签。通用校验器仍仅支持研讨班关联；本次《拉康之爱》15张卡另做结构、篇章路径、证据分段、标签及双向链接检查，不能据此宣称全库通用校验通过。
 
 另有2个尚无知识卡 YAML 属性的 Markdown 文件未计入以上统计，本次保留原样：[[知识库/《研讨班II》中的斯宾诺莎：以作品自身原则阅读.md|《研讨班II》中的斯宾诺莎]]、[[知识库/《研讨班XIV》中的斯宾诺莎：欲望是现实的本质.md|《研讨班XIV》中的斯宾诺莎]]。
@@ -2472,12 +2475,12 @@ updated: 2026-11-07
 <details>
 <summary>展开查看各研讨班标签计数</summary>
 
-当前共收录 552 张知识卡；其中带 `研讨班I` 标签的有 21 张，带 `研讨班II` 标签的有 31 张，带 `研讨班III` 标签的有 10 张，带 `研讨班IV` 标签的有 20 张，带 `研讨班V` 标签的有 22 张，带 `研讨班VI` 标签的有 9 张，带 `研讨班VII` 标签的有 45 张，带 `研讨班VIII` 标签的有 151 张，带 `研讨班IX` 标签的有 10 张，带 `研讨班X` 标签的有 22 张，带 `研讨班XI` 标签的有 22 张，带 `研讨班XII` 标签的有 16 张，带 `研讨班XIII` 标签的有 17 张，带 `研讨班XIV` 标签的有 70 张，带 `研讨班XV` 标签的有 21 张，带 `研讨班XVI` 标签的有 23 张，带 `研讨班XVII` 标签的有 81 张，带 `研讨班XVIII` 标签的有 11 张，带 `研讨班XIX` 标签的有 27 张，带 `研讨班XIXb` 标签的有 112 张，带 `研讨班XX` 标签的有 21 张，带 `研讨班XXI` 标签的有 13 张，带 `研讨班XXII` 标签的有 15 张，带 `研讨班XXIII` 标签的有 8 张，带 `研讨班XXIV` 标签的有 16 张，带 `研讨班XXV` 标签的有 13 张，带 `研讨班XXVI` 标签的有 12 张，带 `研讨班XXVII` 标签的有 14 张。同一卡片可以关联多个研讨班，因此各标签数量不能直接相加。
+当前共收录 552 张知识卡；其中带 `研讨班I` 标签的有 21 张，带 `研讨班II` 标签的有 31 张，带 `研讨班III` 标签的有 10 张，带 `研讨班IV` 标签的有 20 张，带 `研讨班V` 标签的有 22 张，带 `研讨班VI` 标签的有 9 张，带 `研讨班VII` 标签的有 45 张，带 `研讨班VIII` 标签的有 151 张，带 `研讨班IX` 标签的有 10 张，带 `研讨班X` 标签的有 22 张，带 `研讨班XI` 标签的有 22 张，带 `研讨班XII` 标签的有 16 张，带 `研讨班XIII` 标签的有 17 张，带 `研讨班XIV` 标签的有 71 张，带 `研讨班XV` 标签的有 21 张，带 `研讨班XVI` 标签的有 23 张，带 `研讨班XVII` 标签的有 81 张，带 `研讨班XVIII` 标签的有 11 张，带 `研讨班XIX` 标签的有 27 张，带 `研讨班XIXb` 标签的有 112 张，带 `研讨班XX` 标签的有 21 张，带 `研讨班XXI` 标签的有 13 张，带 `研讨班XXII` 标签的有 15 张，带 `研讨班XXIII` 标签的有 8 张，带 `研讨班XXIV` 标签的有 16 张，带 `研讨班XXV` 标签的有 13 张，带 `研讨班XXVI` 标签的有 12 张，带 `研讨班XXVII` 标签的有 14 张。同一卡片可以关联多个研讨班，因此各标签数量不能直接相加。
 
 </details>
 
 <details>
-<summary>展开查看尚无知识卡互链的 92 张卡</summary>
+<summary>展开查看尚无知识卡互链的 91 张卡</summary>
 
 按研讨班标签分组，跨研讨班卡会重复出现。
 
@@ -2539,7 +2542,7 @@ updated: 2026-11-07
 - [阿西莫夫《最后的问题》与“要有光”](<./阿西莫夫《最后的问题》与要有光.md>)
 - [雅各布·伯墨《万物的印记》](<./雅各布·伯墨《万物的印记》.md>)
 
-### 研讨班 XIXb · *Le savoir du psychanalyste*（42 张）
+### 研讨班 XIXb · *Le savoir du psychanalyste*（41 张）
 
 - [0.999…为什么等于1](<./0.999…为什么等于1.md>)
 - [Jeu du furet：传递戒指的法国游戏](<./Jeu du furet：传递戒指的法国游戏.md>)
@@ -2560,7 +2563,6 @@ updated: 2026-11-07
 - [古代秃鹫受风成孕神话](<./古代秃鹫受风成孕神话.md>)
 - [启蒙与光的隐喻](<./启蒙与光的隐喻.md>)
 - [塞维利亚的伊西多尔、notha 与混成词](<./塞维利亚的伊西多尔、notha与混成词.md>)
-- [希伯来语 yadaʿ 与《圣经》中的“认识”](<./希伯来语yada与圣经中的“认识”.md>)
 - [弗洛伊德《处女禁忌》及其民族志限度](<./弗洛伊德《处女禁忌》及其民族志限度.md>)
 - [弗洛伊德《非专业者的分析问题》](<./弗洛伊德《非专业者的分析问题》.md>)
 - [微积分的多重前史：巴罗、牛顿与莱布尼茨](<./微积分的多重前史：巴罗、牛顿与莱布尼茨.md>)
